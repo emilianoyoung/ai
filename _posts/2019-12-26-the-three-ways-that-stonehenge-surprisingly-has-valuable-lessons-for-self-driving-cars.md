@@ -30,167 +30,270 @@ images:
     title: "The Three Ways That Stonehenge Surprisingly Has Valuable Lessons For Self-Driving Cars"
 
 related:
-  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human ... sure\" they are at least as safe as cars on the roads. \"There's a lot of back ..."
-    publishedDateTime: 2019-12-20T21:37:00Z
-    sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
-    ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+  - title: "Baidu secures licenses to test self-driving cars in Beijing"
+    excerpt: "It also revealed that its self-driving cars have traveled more than three million kilometers (or about 1.8 million miles) during tests in 23 Chinese cities to date, up from 2 million kilometers (roughly 1.2 million miles) across 13 cities as of July. Baidu vice president Zhang Dongchen reiterated the company’s commitment to road safety in a ..."
+    publishedDateTime: 2019-12-31T16:53:00Z
+    sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
+    ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 134
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
-        width: 800
-        height: 525
-  - title: "General Motors pushes for self-driving car tests sans steering wheel"
-    excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
-    publishedDateTime: 2019-12-23T18:36:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/general-motors-self-driving-cars-tests-prototype/
-    ampUrl: https://www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
+      - url: https://www.bing.com/th?id=ON.712EF02870D2016A8B6580B3FC26B162
         width: 700
-        height: 367
-  - title: "GM requests green light to ditch steering wheel in its self-driving cars"
-    excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
-    publishedDateTime: 2019-12-24T04:40:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/
-    ampUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
+        height: 350
+  - title: "3 Things That Sent Baidu Stock Soaring to Start 2020"
+    excerpt: "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the most traffic-congested cities in the country. Baidu was issued 40 licenses to test its self-driving cars while carrying passengers on specially ..."
+    publishedDateTime: 2020-01-02T20:34:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 73
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
+      - url: https://www.bing.com/th?id=ON.006FF4A2D7FC3BA66C41DC60A5316F3D
         width: 700
-        height: 366
-  - title: "News Of Walmart Aiming To Setup Edge Computing For Self-Driving Cars Generates Both Surprise And Questions"
-    excerpt: "A recent business news story indicates that mighty Walmart is aiming to put in place specialized computers at their stores that would be used to aid self-driving cars utilizing so-called “edge computing” capabilities (for background about edge computers and AI self-driving cars, see this link here). Say what? According to the media reports ..."
-    publishedDateTime: 2019-12-23T15:16:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
+        height: 393
+  - title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
+    excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
+    publishedDateTime: 2019-12-28T14:13:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 71
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.346D41C30139C10D26A49339CDF12A03
+      - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
         width: 600
         height: 315
-  - title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
-    excerpt: "Stanford engineers have somehow taken the iconic DeLorean and made it even cooler, by teaching the vehicle self-driving capabilities to flawlessly drift through a racecourse. The DeLorean, which left its mark on the movie industry through the Back to the Future series, is now also turning heads in the self-driving technology space ..."
-    publishedDateTime: 2019-12-23T02:01:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/
-    ampUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+  - title: "Germany's Bosch to offer lower-cost sensors for self-driving cars"
+    excerpt: "German automotive supplier Robert Bosch said Thursday it has developed a sensor that lets cars “see” a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles."
+    publishedDateTime: 2020-01-02T08:16:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-bosch-lidar-idUSKBN1Z10EK
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z10EK
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z10EK
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3220DD48849E2DD7403F5FFE630CF54B
+        width: 700
+        height: 423
+  - title: "3 Crashes, 3 Deaths Raise Questions About Tesla’s Self-Driving Cars"
+    excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets. On Sunday, a Tesla Model S sedan left a freeway in Gardena, California, at a high speed, ran a red light and struck a Honda Civic ..."
+    publishedDateTime: 2020-01-03T13:15:00Z
+    sourceUrl: https://ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/
+    ampUrl: https://ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.DDC2DDFF9B727AF75F72D774FCD771B4
+        width: 700
+        height: 449
+  - title: "Bosch thinks its new lidar system is the breakthrough self-driving cars need"
+    excerpt: "Bosch, the German supplier that's responsible for building so many car-related components, won't be left out of the self-driving car discussion. Instead, it wants to help shape the conversation. On Thursday, the company revealed the first information on its new lidar system. Lidar, a laser-based tool that gives autonomous cars \"sight,\" so to ..."
+    publishedDateTime: 2020-01-02T08:03:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/bosch-lidar-self-driving-cars/
+    ampUrl: https://www.cnet.com/google-amp/news/bosch-lidar-self-driving-cars/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bosch-lidar-self-driving-cars/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.970CBABFFC89A672594B4944739CF1B6
+        width: 700
+        height: 367
+  - title: "Qualcomm announces chips for self-driving cars that could be in cars by 2023"
+    excerpt: "The system will support features like lane-keeping as well as the development of full self-driving applications like robo-taxis. Qualcomm silicon is the processor at the heart of millions of smartphones, but soon, you might buy a car with a Qualcomm system-on-chip inside, too. Qualcomm announced on Monday a new series of chips and ..."
+    publishedDateTime: 2020-01-06T19:56:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.A296AC3EDD1A132891C7F07CC85691CD
+        width: 700
+        height: 466
+  - title: "Qualcomm Ride platform aims to make self-driving cars simpler"
+    excerpt: "From a tech perspective, modern cars have become Frankensteinish monstrosities, as carmakers pile on sensors and cameras and features to support the conveniences today’s drivers have come to expect. Things like adaptive cruise control, backup and parking ..."
+    publishedDateTime: 2020-01-06T18:30:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/qualcomm-ride-ces-2020-autonomous-driving/
     type: article
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 70
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
-        width: 700
-        height: 366
-  - title: "U.S. Talks With GM Over Deploying Self-Driving Cars Without Steering Wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-20T23:12:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/20/business/20reuters-autos-autonomous-exclusive.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 52
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/qualcomm-snapdragon-drive-autonomous-driving_traffic-1200x630-c-ar1.91.jpg
         width: 1200
-        height: 630
-  - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
-    excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
-    publishedDateTime: 2019-12-21T01:44:00Z
-    sourceUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars
-    ampUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
+        height: 628
+  - title: "TriEye partners with Porsche to put infrared sensors in ADAS and self-driving systems"
+    excerpt: "It’s collaborating with Porsche to improve the performance of the German sports car manufacturer’s advanced driver assistance systems (ADAS) and self-driving systems, with the goal of improving those systems’ ability to accurately detect objects on the road in situations with limited visibility. Porsche previously contributed $2 million ..."
+    publishedDateTime: 2020-01-02T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/
+    ampUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 44
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
-        width: 5616
-        height: 3744
-  - title: "Ring partnerships with police: Solving crimes or invading privacy?"
-    excerpt: "Both Leawood and Kansas City police said they were not approached about that. A 2016 promotional video for Amazon Rekognition says it delivers \"high quality person tracking.\" It's a concept the ACLU finds extremely disturbing. \"Facial recognition has the potential to basically allow the police to follow everybody everywhere they go, because it ..."
-    publishedDateTime: 2019-12-22T22:09:00Z
-    sourceUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy
-    ampUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
-    cdnAmpUrl: https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
-    type: article
-    provider:
-      name: KSHB Kansas City
-      domain: kshb.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.4E079F11F7031F44E82DE978B50F01C6
-        width: 700
-        height: 393
-  - title: "US talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
-    publishedDateTime: 2019-12-21T20:19:00Z
-    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
-    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
-        width: 560
-        height: 292
-  - title: "Honda wants to reinvent the steering wheel with this self-driving concept"
-    excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
-    publishedDateTime: 2019-12-24T05:14:00Z
-    sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
-    ampUrl: https://amp.jsonline.com/amp/2735603001
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2735603001
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
-        width: 700
-        height: 394
-  - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
-    excerpt: "Business Insider's transportation team searched for the brightest young minds behind self-driving cars and trucks making significant strides in the fledgling industry despite — or in many cases thanks to — their relative youth. From drifting an autonomous DeLorean and modeling forest fires to building ocean-exploring robots and winning ..."
-    publishedDateTime: 2019-12-23T16:33:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12-1028782819
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.779759E614A8501F92FE415FD74EFD0A
+      - url: https://www.bing.com/th?id=ON.D13A615E8E9333CE6C73625F6F01EA00
         width: 700
         height: 350
+  - title: "Baidu can now test its self-driving cars with passengers in Beijing"
+    excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
+    publishedDateTime: 2019-12-31T09:47:00Z
+    sourceUrl: https://www.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    ampUrl: https://amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.9AB36E5105F5945C67A46F8CF0FF31CD
+        width: 700
+        height: 367
+  - title: "Baidu Gets First Set of Licenses to Test Driverless Cars in Beijing"
+    excerpt: "(Yicai Global) Dec. 30 -- Baidu, the Chinese internet giant that is investing heavily in autonomous driving, has obtained the first batch of permits to test self-driving vehicles in Beijing with a driver present. Forty licenses have been issued to the Beijing-based firm, the city's Municipal Commission of Transport said on its website today."
+    publishedDateTime: 2019-12-30T10:50:00Z
+    sourceUrl: https://yicaiglobal.com/news/baidu-gets-first-set-of-licenses-to-test-driverless-cars-in-beijing
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.AFBC2550D1B7141A83FF212E1A046EC5
+        width: 700
+        height: 466
+  - title: "Bosch announces lower cost sensors for self-driving cars"
+    excerpt: "What’s interesting about the lidar sensor is that the firm has managed to reduce the price which in turn makes self-driving vehicles more affordable for consumers. According to Bosch, lidar technology is “indispensable” for bringing SAE level 3 to 5 ..."
+    publishedDateTime: 2020-01-02T14:26:00Z
+    sourceUrl: https://www.neowin.net/news/bosch-announces-lower-cost-sensors-for-self-driving-cars
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.A23690DECED0605C78EC9FC43CEC5B47
+        width: 700
+        height: 394
+  - title: "3 deaths in rash self-driving Tesla crashes threaten Elon Musk's autopilot ambitions"
+    excerpt: "DETROIT (AP) — Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets. Continue Reading Below On Sunday, a Tesla Model S sedan left a freeway in Gardena, California, at a high speed ..."
+    publishedDateTime: 2020-01-03T11:26:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/3-deaths-in-rash-self-driving-tesla-crashes-threaten-elon-musks-autopilot-ambitions
+    ampUrl: https://www.foxbusiness.com/markets/3-deaths-in-rash-self-driving-tesla-crashes-threaten-elon-musks-autopilot-ambitions.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/3-deaths-in-rash-self-driving-tesla-crashes-threaten-elon-musks-autopilot-ambitions.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.F4FF4A5FD074EFC7D3357F5A3EEE6EA5
+        width: 700
+        height: 393
+  - title: "Uber acquires 600 acre in Pittsburgh to build self-driving test track"
+    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track.(AP) Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San ..."
+    publishedDateTime: 2019-12-28T11:12:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI.html
+    ampUrl: https://m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0BC1E014E4B67BBE0EAE7FE497FD6430
+        width: 700
+        height: 393
+  - title: "Bosch to offer lower-cost lidar for self-driving cars"
+    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+    publishedDateTime: 2020-01-05T16:05:00Z
+    sourceUrl: https://www.autoblog.com/2020/01/05/bosch-introducing-cheaper-lidar-system/
+    ampUrl: https://www.autoblog.com/amp/2020/01/05/bosch-introducing-cheaper-lidar-system/
+    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/01/05/bosch-introducing-cheaper-lidar-system/
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.FDC4B6D802C3BB2AA283FFAA82BC6B60
+        width: 700
+        height: 393
+  - title: "Qualcomm Ride technology should bring us self-driving cars sooner"
+    excerpt: "LAS VEGAS — Qualcomm silicon powers the bulk of the world's smartphones, and now the company is trying to do the same for assisted and self-driving cars. Today (Jan. 6) at CES 2020, the chipmaker unveiled its Snapdragon Ride platform — a singular package comprised of multiple processors and an autonomous driving accelerator. Ride is built ..."
+    publishedDateTime: 2020-01-06T19:41:00Z
+    sourceUrl: https://www.tomsguide.com/news/qualcomm-ride-self-driving-platform
+    ampUrl: https://www.tomsguide.com/amp/news/qualcomm-ride-self-driving-platform
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/qualcomm-ride-self-driving-platform
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.54978A2CA7BC4E26E555C8787B020BBA
+        width: 700
+        height: 393
+  - title: "SA road users embracing technology 'but are wary of self-driving cars'"
+    excerpt: "The study noted that among SA consumers, the advent of self-driving vehicles is still far off. Very few people among those surveyed had experienced an autonomous vehicle (AV) first-hand, although 78% said they were \"somewhat interested\" in giving it a try. Many said they remained \"somewhat apprehensive\" of AVs, with more than half of consumers ..."
+    publishedDateTime: 2020-01-06T12:41:00Z
+    sourceUrl: https://www.timeslive.co.za/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    ampUrl: https://www.timeslive.co.za/amp/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    cdnAmpUrl: https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.2F4197E4DE1382692AB37B89FD5DC1F7
+        width: 512
+        height: 323
+  - title: "The race to own the media experience in self-driving cars"
+    excerpt: "One of the big themes at CES this year has been the race to own the media experience when cars go driverless. Driving the news: Amazon announced a slew of deals to get its Fire TV software built into more televisions, soundbars and even the back seats of cars, Axios' Ina Fried reports. BMW and Fiat Chrysler Automotive will be among the first to ..."
+    publishedDateTime: 2020-01-07T13:36:00Z
+    sourceUrl: https://www.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    ampUrl: https://amp.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.065059412540771F371E70B52C3876A7
+        width: 700
+        height: 393
   - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
     excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
     publishedDateTime: 2019-12-24T18:44:00Z
@@ -204,104 +307,225 @@ related:
       - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
         width: 700
         height: 350
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-21T19:35:00Z
-    sourceUrl: https://www.autoblog.com/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    ampUrl: https://www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
-        width: 700
-        height: 393
-  - title: "Self driving cars are the only way forward."
-    excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
-    publishedDateTime: 2019-12-23T09:26:00Z
-    sourceUrl: https://www.fudzilla.com/news/automotive/50017-self-driving-cars-are-the-only-way-forward
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
-        width: 620
-        height: 465
-  - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
-    excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
-    publishedDateTime: 2019-12-24T15:32:00Z
-    sourceUrl: https://www.businessinsider.com/career-advice-from-the-brightest-young-minds-in-self-driving-2019-12
+  - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
+    excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
+    publishedDateTime: 2019-12-26T20:43:00Z
+    sourceUrl: https://www.businessinsider.com/uber-new-self-driving-car-test-site-pittsburgh-2019-12
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 29
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
+      - url: https://www.bing.com/th?id=ON.44FC8F1287E9A5196ECF2A552962D2FA
         width: 700
         height: 350
-  - title: "Self-driving DeLorean learns how to drift"
-    excerpt: "Researchers are teaching a driverless DeLorean to steer with the agility and precision of a human driver to improve how autonomous cars handle hazardous conditions. As the DeLorean rolled to a stop and the cloud of tire smoke cleared, Jon Goh peeked out the sliver of the passenger-side window to see dozens of gathered spectators cheering and ..."
-    publishedDateTime: 2019-12-23T20:44:00Z
-    sourceUrl: https://www.futurity.org/self-driving-cars-delorean-drifting-2240422/
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T14:06:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
     type: article
     provider:
-      name: Futurity News
-      domain: futurity.org
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.1CB45A5F7A38E242BB1D7BAE767695C2
+        width: 700
+        height: 524
+  - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
+    excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
+    publishedDateTime: 2019-12-31T10:34:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.html
+    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.DD2ADF41A96647580B303277690638D3
+        width: 700
+        height: 393
+  - title: "DJI’s Livox launches sensors for self-driving cars as Chinese drone maker faces US regulatory challenges"
+    excerpt: "Media reports in recent years have suggested several times that the drone maker is secretly exploring self-driving technologies, although it has never confirmed this. US report highlights reasons for military ban on DJI drones Livox was formed in 2016 by a group of engineers within DJI’s Open Innovation Program, with the aim of ..."
+    publishedDateTime: 2020-01-07T09:49:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.CED3E1DF7C89160B742E361348914221
+        width: 700
+        height: 367
+  - title: "Tourists in Tokyo have chance to try self-driving taxis"
+    excerpt: "TOKYO >> A consortium of companies is offering foreign visitors to Tokyo a taste of autonomous transportation. A project using airport shuttle buses and self-driving taxis will seamlessly transport tourists from two airports to the Marunouchi shopping district near Tokyo Station. The Mobility as a Service experiment, to run Jan. 20 to Feb. 1 ..."
+    publishedDateTime: 2019-12-26T10:12:00Z
+    sourceUrl: https://www.staradvertiser.com/2019/12/26/news/tourists-in-tokyo-have-chance-to-try-self-driving-taxis/
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
+      - url: https://www.bing.com/th?id=ON.ECF20F8D49854E5DEAE31BBC27A33C4F
         width: 700
-        height: 400
-  - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
-    excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
-    publishedDateTime: 2019-12-24T08:48:00Z
-    sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
+        height: 466
+  - title: "Uber to open self-driving test track in Findlay Township"
+    excerpt: "Months of speculation have come to an end after Uber Technologies announced the purchase of an almost 600-acre parcel in Findlay Township that will be used for a self-driving test track. Uber spokeswoman Sarah Abboud confirmed the purchase via email to the Tribune-Review, adding that she does not have “further details to share at this time ..."
+    publishedDateTime: 2019-12-27T00:30:00Z
+    sourceUrl: https://triblive.com/local/pittsburgh-allegheny/uber-to-open-self-driving-test-track-in-findlay-township/
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.4E3C2A03F4D4B4006EF028FBCE767251
+        width: 640
+        height: 457
+  - title: "Beijing adds area for self-driving vehicle tests with passengers"
+    excerpt: "on self-driving tests runs on a road in Beijing, capital of China, Dec. 30, 2019. Beijing on Monday added a new 40 sq km area for testing self-driving vehicles with passengers, as the capital pushes for further application of the technology,"
+    publishedDateTime: 2019-12-30T13:44:16Z
+    sourceUrl: https://www.msn.com/en-xl/news/other/beijing-adds-area-for-self-driving-vehicle-tests-with-passengers/ar-BBYsOxN
+    type: article
+    provider:
+      name: N.C.N. Limited on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0729D73EDEEDAADF1B542639E061CC6B
+        width: 600
+        height: 315
+  - title: "Bosch to offer lower-cost sensors for self-driving cars"
+    excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
+    publishedDateTime: 2020-01-02T15:03:00Z
+    sourceUrl: https://www.autonews.com/ces/bosch-offer-lower-cost-sensors-self-driving-cars
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
+        width: 700
+        height: 525
+  - title: "Bosch teases low-cost lidar sensors for self-driving vehicles"
+    excerpt: "The company told Reuters the internally developed sensor could help speed up the adoption of self-driving vehicles, which has hit a roadblock amid higher-than-expected costs and increasing regulatory concerns. Lidar, as the technology is known, is thought to be a key enabler for self-driving cars. It works by using light-based sensors to ..."
+    publishedDateTime: 2020-01-03T00:01:00Z
+    sourceUrl: https://siliconangle.com/2020/01/02/bosch-teases-low-cost-lidar-sensors-self-driving-vehicles/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9DBD81AC86C85154B5B4AA9F6AEC5A28
+        width: 300
+        height: 169
+  - title: "Bosch to offer lower-cost lidar for self-driving cars"
+    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said ..."
+    publishedDateTime: 2020-01-06T18:16:00Z
+    sourceUrl: https://www.yahoo.com/now/bosch-offer-lower-cost-lidar-160000894.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
+        width: 700
+        height: 393
+  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
+    excerpt: "Announced at the Consumer Electronics Show today, Qualcomm’s Snapdragon Ride Platform is designed to make it easier for automakers to transform their vehicles into self-driving cars. The platform includes everything needs to run an autonomous vehicle, including the artificial intelligence software needed to avoid collisions, and compact ..."
+    publishedDateTime: 2020-01-07T02:02:00Z
+    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.C9C863A0E809D53731CBE6BE42B6B0DE
+        width: 700
+        height: 499
+  - title: "LG’s connected self-driving car of 2030 is the coolest thing at CES 2020"
+    excerpt: "Picture this. You walk up to a self-driving electric car and it automatically recognizes you via face recognition. Then you enter and see four luxurious chairs, complete with their own speaker systems. You take a seat by your assigned color that flashes above your seat on a huge curved OLED screen. Then the real fun begins. Forged out of a ..."
+    publishedDateTime: 2020-01-07T13:15:00Z
+    sourceUrl: https://www.tomsguide.com/news/lgs-connected-self-driving-car-of-2030-is-the-coolest-thing-at-ces-2020
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.0D2C5D0BF6B3EAADD7A53C4713097ECB
+        width: 700
+        height: 525
+  - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
+    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
+    publishedDateTime: 2019-12-30T09:42:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/uber-purchases-600-acre-land-in-pittsburgh-to-build-self-driving-test-track/ar-BBYsjOA
     type: article
     provider:
       name: News18 on MSN.com
       domain: msn.com
     quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
+      - url: https://www.bing.com/th?id=ON.B2A7CAFA6957E30B8E07B6DDC2CEC5CB
         width: 600
         height: 315
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-22T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
-        width: 700
-        height: 393
-  - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
-    publishedDateTime: 2019-12-20T23:43:00Z
-    sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
+  - title: "Baidu testing self-driving cars in Beijing"
+    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
+    publishedDateTime: 2019-12-31T18:39:00Z
+    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
     type: article
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 0
-  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
-    publishedDateTime: 2019-12-21T21:51:00Z
-    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
+    quality: 19
+  - title: "CES 2020: Inside the race to stop self-driving cars from being hacked and turned into weapons"
+    excerpt: "On a long, straight road in Las Vegas, near the famous Strip, a self-driving car lurches to a sudden stop. It has detected a pair of pedestrians who had not yet finished crossing the road, on the far side of the opposite lane. They were far enough away that any human driver would not have considered stopping, but the car, powered by technology ..."
+    publishedDateTime: 2020-01-06T17:44:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/ces-2020-inside-race-stop-self-driving-cars-hacked-turned-weapons/
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 0
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.07B2622797B5A36ED072BE70E0FC362F
+        width: 700
+        height: 436
+  - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
+    excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
+    publishedDateTime: 2019-12-31T14:29:00Z
+    sourceUrl: https://www.fox7austin.com/news/from-streaming-to-self-driving-cars-how-technology-has-changed-our-lives-over-the-past-10-years
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.001A4E57F7E6BA74854ECE737800FD41
+        width: 700
+        height: 393
+  - title: "Uber buys parcel for self-driving test track"
+    excerpt: "PITTSBURGH (AP) — Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars."
+    publishedDateTime: 2019-12-30T08:20:00Z
+    sourceUrl: https://www.djc.com/news/bu/12128348.html?cgi=yes
+    type: article
+    provider:
+      name: Seattle Daily Journal of Commerce
+      domain: djc.com
+    quality: 4
 
 secured: "IESAr7D2WK2/qIbwN9YjXIV1iX+qrOjBvXGYjHrpksWWg40h/bOaNSIpSxYW7/2DcJh7HkEGiqdsNt8T3s5E7CFuyQpK1/OBZcvsACFMn++S2QlGfiAuQndjfSJPNLkYroOyRqPZ8G22bp6NERecvnBXCGTbVv4/B7/wc6ibAxird9ORX3T7Ia3tuuJidwJyRMejhMZo/H0VptWrF20M8rTf27UPgi41UKFz4wb+W+thSaY8acmUWv4AQFsSj2h64c5DUQ0CllqPBOEOcis0MQ==;JmHPOpAIhAn7blTKufb2Nw=="
 ---

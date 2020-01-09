@@ -30,278 +30,118 @@ images:
     title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
 
 related:
-  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human ... sure\" they are at least as safe as cars on the roads. \"There's a lot of back ..."
-    publishedDateTime: 2019-12-20T21:37:00Z
-    sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
-    ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+  - title: "Marty is a self-driving, electric DeLorean that drifts like a pro"
+    excerpt: "Stanford University engineers successfully made a converted 1981 DMC DeLorean (yes, the Back to the Future car) drift, twist, turn, and crush a kilometer-long obstacle course — without a driver ..."
+    publishedDateTime: 2019-12-23T21:20:00Z
+    sourceUrl: https://mashable.com/video/marty-delorean/
+    ampUrl: https://mashable.com/video/marty-delorean.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/marty-delorean.amp
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 134
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
-        width: 800
-        height: 525
-  - title: "General Motors pushes for self-driving car tests sans steering wheel"
-    excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
-    publishedDateTime: 2019-12-23T18:36:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/general-motors-self-driving-cars-tests-prototype/
-    ampUrl: https://www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
+      name: Mashable
+      domain: mashable.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
+      - url: https://www.bing.com/th?id=ON.AB07B4C9CECB31BB38411BA921230ACA
         width: 700
         height: 367
-  - title: "GM requests green light to ditch steering wheel in its self-driving cars"
-    excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
-    publishedDateTime: 2019-12-24T04:40:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/
-    ampUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
+  - title: "Stanford engineers teach self-driving DeLorean to drift"
+    excerpt: "The mathematics involved in the code have been made open access and could allow self-driving systems to maneuver a car in emergencies with the skill of a professional drift racer. STANFORD, Calif. — Engineers at Stanford have taught a driverless DeLorean to drift through a racecourse, the university said Friday. The DeLorean, named MARTY ..."
+    publishedDateTime: 2019-12-21T04:45:00Z
+    sourceUrl: https://www.kcra.com/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
+    ampUrl: https://www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
+    cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
-        width: 700
-        height: 366
-  - title: "News Of Walmart Aiming To Setup Edge Computing For Self-Driving Cars Generates Both Surprise And Questions"
-    excerpt: "A recent business news story indicates that mighty Walmart is aiming to put in place specialized computers at their stores that would be used to aid self-driving cars utilizing so-called “edge computing” capabilities (for background about edge computers and AI self-driving cars, see this link here). Say what? According to the media reports ..."
-    publishedDateTime: 2019-12-23T15:16:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.346D41C30139C10D26A49339CDF12A03
-        width: 600
-        height: 315
-  - title: "The Three Ways That Stonehenge Surprisingly Has Valuable Lessons For Self-Driving Cars"
-    excerpt: "Sure, why not. Here’s the question to ponder: Does Stonehenge offer insights that can be used to further advance the advent of true self-driving cars? Yes, those ringing rocks have something to say. Let’s unpack the matter. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that ..."
-    publishedDateTime: 2019-12-26T15:59:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-    images:
-      - url: https://www.bing.com/th?id=ON.69E6091B0B38F7BAB9BF2EDEFC6E5F4A
-        width: 600
-        height: 315
-  - title: "U.S. Talks With GM Over Deploying Self-Driving Cars Without Steering Wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-20T23:12:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/20/business/20reuters-autos-autonomous-exclusive.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 52
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
-  - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
-    excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
-    publishedDateTime: 2019-12-21T01:44:00Z
-    sourceUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars
-    ampUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
+      name: KCRA
+      domain: kcra.com
     quality: 44
     images:
-      - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
-        width: 5616
-        height: 3744
-  - title: "Ring partnerships with police: Solving crimes or invading privacy?"
-    excerpt: "Both Leawood and Kansas City police said they were not approached about that. A 2016 promotional video for Amazon Rekognition says it delivers \"high quality person tracking.\" It's a concept the ACLU finds extremely disturbing. \"Facial recognition has the potential to basically allow the police to follow everybody everywhere they go, because it ..."
-    publishedDateTime: 2019-12-22T22:09:00Z
-    sourceUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy
-    ampUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
-    cdnAmpUrl: https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
+      - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stanford-marty-005-remasted-banner-1576901211.jpg?crop=0.783xw:1.00xh;0.0472xw,0&amp;resize=1200:*
+        width: 1253
+        height: 705
+  - title: "Marty, the self-driving DeLorean engineered to dominate test courses"
+    excerpt: "Imagine if Marty McFly never actually had to drive the DeLorean in Back to the Future, imagine if the DeLorean just drove itself at 88mph. Standford Unversity engineers perhaps thought of the same thing and decided to make a 1981 DMC DeLorean be independent of its human driver. In the above video released onto the Stanford YouTube Channel ..."
+    publishedDateTime: 2019-12-24T07:51:00Z
+    sourceUrl: https://www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/index.html
+    ampUrl: https://www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/amp.html
+    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/amp.html
     type: article
     provider:
-      name: KSHB Kansas City
-      domain: kshb.com
+      name: TweakTown
+      domain: tweaktown.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.4E079F11F7031F44E82DE978B50F01C6
+      - url: https://www.bing.com/th?id=ON.52F5E43386CCA5D2216A99B854F84F0B
+        width: 700
+        height: 356
+  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
+    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
+    publishedDateTime: 2019-12-23T22:33:00Z
+    sourceUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/
+    ampUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.238FE27109445CCA8985867726C3668C
         width: 700
         height: 393
-  - title: "US talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
-    publishedDateTime: 2019-12-21T20:19:00Z
-    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
-    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
-        width: 560
-        height: 292
-  - title: "Honda wants to reinvent the steering wheel with this self-driving concept"
-    excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
-    publishedDateTime: 2019-12-24T05:14:00Z
-    sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
-    ampUrl: https://amp.jsonline.com/amp/2735603001
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2735603001
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
-        width: 700
-        height: 394
-  - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
-    excerpt: "Business Insider's transportation team searched for the brightest young minds behind self-driving cars and trucks making significant strides in the fledgling industry despite — or in many cases thanks to — their relative youth. From drifting an autonomous DeLorean and modeling forest fires to building ocean-exploring robots and winning ..."
-    publishedDateTime: 2019-12-23T16:33:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12-1028782819
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.779759E614A8501F92FE415FD74EFD0A
-        width: 700
-        height: 350
-  - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
-    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
-    publishedDateTime: 2019-12-24T18:44:00Z
-    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
-        width: 700
-        height: 350
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-21T19:35:00Z
-    sourceUrl: https://www.autoblog.com/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    ampUrl: https://www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
-        width: 700
-        height: 393
-  - title: "Self driving cars are the only way forward."
-    excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
-    publishedDateTime: 2019-12-23T09:26:00Z
-    sourceUrl: https://www.fudzilla.com/news/automotive/50017-self-driving-cars-are-the-only-way-forward
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
-        width: 620
-        height: 465
-  - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
-    excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
-    publishedDateTime: 2019-12-24T15:32:00Z
-    sourceUrl: https://www.businessinsider.com/career-advice-from-the-brightest-young-minds-in-self-driving-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
-        width: 700
-        height: 350
-  - title: "Self-driving DeLorean learns how to drift"
-    excerpt: "Researchers are teaching a driverless DeLorean to steer with the agility and precision of a human driver to improve how autonomous cars handle hazardous conditions. As the DeLorean rolled to a stop and the cloud of tire smoke cleared, Jon Goh peeked out the sliver of the passenger-side window to see dozens of gathered spectators cheering and ..."
-    publishedDateTime: 2019-12-23T20:44:00Z
-    sourceUrl: https://www.futurity.org/self-driving-cars-delorean-drifting-2240422/
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
-        width: 700
-        height: 400
-  - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
-    excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
-    publishedDateTime: 2019-12-24T08:48:00Z
-    sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
-    type: article
-    provider:
-      name: News18 on MSN.com
-      domain: msn.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
-        width: 600
-        height: 315
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-22T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
+  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
+    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
+    publishedDateTime: 2019-12-24T00:06:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 20
+    quality: 36
     images:
-      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
+      - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
         width: 700
         height: 393
-  - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
-    publishedDateTime: 2019-12-20T23:43:00Z
-    sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
+  - title: "Stanford Engineers Taught a Self-Driving DeLorean to Drift"
+    excerpt: "Since then, mechanical engineer Chris Gerdes and his students developed the self-driving car to drift through a multi-turn, kilometer-long track in just a matter of minutes at a level that’s nearly as good as real professionals. The DeLorean uses GPS coordinates and the algorithms on Jonathan Goh’s laptop to chart its path, meaning those ..."
+    publishedDateTime: 2019-12-24T13:04:00Z
+    sourceUrl: https://hypebeast.com/?post=4844035
+    ampUrl: https://hypebeast.com/2019/12/standford-self-driving-delorean-drifting-info?amp=1
+    cdnAmpUrl: https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2019/12/standford-self-driving-delorean-drifting-info?amp=1
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
-  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
-    publishedDateTime: 2019-12-21T21:51:00Z
-    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
+  - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
+    excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
+    publishedDateTime: 2019-12-22T14:51:00Z
+    sourceUrl: https://www.thedrive.com/news/31594/these-stanford-engineers-taught-a-self-driving-delorean-to-drift-like-a-professional
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
+      name: The Drive
+      domain: thedrive.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
+        width: 700
+        height: 393
+  - title: "Great Scott! Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities using onboard computers and custom made suspension"
+    excerpt: "Engineers redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn't think of -self-driving capabilities - and they successfully tested its drifting skills on an obstacle."
+    publishedDateTime: 2019-12-23T23:35:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/great-scott-engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities-using-onboard-computers-and-custom-made-suspension/ar-BBYhK3c?li=AA4Zoy
+    type: article
+    provider:
+      name: Daily Mail on MSN.com
+      domain: msn.com
     quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.4012467D0FEB633EBEB0E8665762DFEA
+        width: 599
+        height: 289
 
 secured: "vjK3uWY0yEMN7lFDO9pHKwFJHWxqFa6t0nHI3XHS4NrT/7vkSVHcx16MYeKUkKNfNkmMKIX2BzYLORPSCU8+DRedORddepSflfHBPzKeyqQJk5ETCLJKAkwaKulgpzFwOoMUsORzs/yRfFyba913l2aPiX8189XSLcHwW8ZlWnM2JEQql45SFf9uF2IJfHwoDq/ad8lKBZzAmPAhbHfbT1icu8gtX3UWbWZjiZvTgZvYa+eV19S3FhBWplWfF+ribcy/Eg48pdKojTuwhNXwGA==;s+dIlp+WA2KJBk79fgG+vw=="
 ---

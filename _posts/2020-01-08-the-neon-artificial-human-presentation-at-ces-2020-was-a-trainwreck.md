@@ -8,7 +8,7 @@ ampUrl: https://www.androidauthority.com/neon-presentation-ces-2020-1072833/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/neon-presentation-ces-2020-1072833/amp/
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "The Neon ‘artificial human’ presentation at CES 2020 was a trainwreck"
 
 related:
+  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
+    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based technologies ... that’s going to affect certain aspects of people’s lives.\" In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the time when an ..."
+    publishedDateTime: 2020-01-09T22:34:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
+    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.58FA4047CF70574E7DCB17755B12905B
+        width: 700
+        height: 350
   - title: "CES 2020: Not just an AI assistant, Neon is world’s first ‘Artificial Human’"
     excerpt: "Taking the human-artificial intelligence (AI) experience a notch higher ... According to a CNBC report, that is exactly what sets Neons apart from regular robots, humanoids, or smart home devices such as Google Assistant and Alexa. These new-age AIs are capable of doing far more than just give weather updates or play music on command."
     publishedDateTime: 2020-01-08T11:41:00Z

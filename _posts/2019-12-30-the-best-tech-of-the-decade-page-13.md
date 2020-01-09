@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
         width: 700
         height: 393
+  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
+    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
+    publishedDateTime: 2020-01-09T22:57:00Z
+    sourceUrl: https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.B49A71CF30A83EB8BBAB452707DE68FB
+        width: 700
+        height: 304
   - title: "Meet the 11 power players of Amazon Web Services who helped build it into the biggest cloud business in the world"
     excerpt: "Amazon Web Services has nearly half of the public cloud market share, well ahead of Microsoft and Google. These 11 executives are leading the charge."
     publishedDateTime: 2020-01-08T18:06:00Z

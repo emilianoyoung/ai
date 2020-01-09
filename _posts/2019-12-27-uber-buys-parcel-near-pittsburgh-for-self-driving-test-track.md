@@ -74,19 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1FB3CE77C754CB40F64E4C5200BFBE95
         width: 700
         height: 393
-  - title: "Volkswagen self-driving shuttles to operate in Qatar from 2022"
-    excerpt: "Autonomous services are scheduled to begin before the next FIFA World Cup kicks off. According to the automaker, there will be a fleet of 35 self-driving ID Buzz people movers operating on semi-fixed routes in the Westbay district of Doha. There will also be 10 autonomous Scania buses to transport larger groups of people. From the announcement ..."
-    publishedDateTime: 2019-12-22T13:06:00Z
-    sourceUrl: https://www.caradvice.com.au/815243/world-cup-volkswagen-self-driving-shuttles/
-    type: article
-    provider:
-      name: CarAdvice
-      domain: caradvice.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.13362133FC7097D97564B194CBCBC9BB
-        width: 700
-        height: 364
   - title: "The First Commercial Freight Cross-Country Trip was Performed by a Self-Driving Truck: What This Means for the Trucking Industry"
     excerpt: "Earlier this month, Silicon Valley startup Plus.ai was the first company ever to have a self-driving truck make a coast-to-coast commercial freight trip. The autonomous truck, along with a supervising driver and mechanic, drove for three days from Tulare, California to Quakertown with over 40,000 pounds of butter in tow. While Plus.ai’s ..."
     publishedDateTime: 2019-12-24T08:19:00Z

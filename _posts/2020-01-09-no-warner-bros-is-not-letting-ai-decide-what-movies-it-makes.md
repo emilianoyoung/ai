@@ -47,7 +47,7 @@ related:
   - title: "Warner Bros. signs AI startup to help decide which films to back"
     excerpt: "Storied film studio Warner Bros. has signed a deal with Cinelytic, an LA startup that uses machine learning to predict film success. The studio will use Cinelytic’s algorithms “to guide decision-making at the greenlight stage,"
     publishedDateTime: 2020-01-09T10:38:37Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/warner-bros-signs-ai-startup-to-help-decide-which-films-to-back/ar-BBYMcgv
+    sourceUrl: https://www.msn.com/en-us/movies/news/warner-bros-signs-ai-startup-to-help-decide-which-films-to-back/ar-BBYMjoe
     type: article
     provider:
       name: The Verge on MSN.com

@@ -41,6 +41,36 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
+  - title: "General Motors pushes for self-driving car tests sans steering wheel"
+    excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
+    publishedDateTime: 2019-12-23T18:36:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/general-motors-self-driving-cars-tests-prototype/
+    ampUrl: https://www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
+        width: 700
+        height: 367
+  - title: "News Of Walmart Aiming To Setup Edge Computing For Self-Driving Cars Generates Both Surprise And Questions"
+    excerpt: "A recent business news story indicates that mighty Walmart is aiming to put in place specialized computers at their stores that would be used to aid self-driving cars utilizing so-called “edge computing” capabilities (for background about edge computers and AI self-driving cars, see this link here). Say what? According to the media reports ..."
+    publishedDateTime: 2019-12-23T15:16:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.346D41C30139C10D26A49339CDF12A03
+        width: 600
+        height: 315
   - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
     excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
     publishedDateTime: 2019-12-26T03:36:00Z
@@ -56,6 +86,47 @@ related:
       - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
         width: 700
         height: 396
+  - title: "Honda wants to reinvent the steering wheel with this self-driving concept"
+    excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
+    publishedDateTime: 2019-12-24T05:14:00Z
+    sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
+    ampUrl: https://amp.jsonline.com/amp/2735603001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2735603001
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
+        width: 700
+        height: 394
+  - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
+    excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
+    publishedDateTime: 2019-12-24T15:32:00Z
+    sourceUrl: https://www.businessinsider.com/career-advice-from-the-brightest-young-minds-in-self-driving-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
+        width: 700
+        height: 350
+  - title: "Self-driving DeLorean learns how to drift"
+    excerpt: "Researchers are teaching a driverless DeLorean to steer with the agility and precision of a human driver to improve how autonomous cars handle hazardous conditions. As the DeLorean rolled to a stop and the cloud of tire smoke cleared, Jon Goh peeked out the sliver of the passenger-side window to see dozens of gathered spectators cheering and ..."
+    publishedDateTime: 2019-12-23T20:44:00Z
+    sourceUrl: https://www.futurity.org/self-driving-cars-delorean-drifting-2240422/
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
+        width: 700
+        height: 400
   - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
     excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
     publishedDateTime: 2019-12-27T21:06:00Z

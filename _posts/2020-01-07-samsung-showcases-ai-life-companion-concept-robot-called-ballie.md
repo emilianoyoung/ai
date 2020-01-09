@@ -8,7 +8,7 @@ ampUrl: https://m.gsmarena.com/samsung_showcases_ai_life_companion_concept_robot
 cdnAmpUrl: https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_showcases_ai_life_companion_concept_robot_called_ballie-amp-40899.php
 type: article
 quality: 157
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -38,6 +38,21 @@ related:
     quality: 89
     images:
       - url: https://www.bing.com/th?id=ON.BC9F8F12A87F2C390C6AB20644FDD5EF
+        width: 700
+        height: 525
+  - title: "Samsung's Ballie is an AI you may actually care about"
+    excerpt: "Samsung's AI strategy is embracing companionship over utility, seeming to push smart assistant Bixby aside for a robot ball. Samsung's vision for the future of tech has a lot of smarts. Exoskeletons and AR glasses that enhance our fitness. Connected cars that communicate with smart cities. Wearables that detect heart health. Even thermal ..."
+    publishedDateTime: 2020-01-09T22:04:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-ballie-ai-you-may-actually-care-about/
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-ballie-ai-you-may-actually-care-about/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-ballie-ai-you-may-actually-care-about/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.BC5B59413938E79B69F77530552A570B
         width: 700
         height: 525
   - title: "Samsung unveils AI-powered rolling robot at CES"

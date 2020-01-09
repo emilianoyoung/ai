@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D021AD084D702878E919E378473C6E96
         width: 700
         height: 525
+  - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
+    excerpt: "Business Insider's transportation team searched for the brightest young minds behind self-driving cars and trucks making significant strides in the fledgling industry despite — or in many cases thanks to — their relative youth. From drifting an autonomous DeLorean and modeling forest fires to building ocean-exploring robots and winning ..."
+    publishedDateTime: 2019-12-23T16:33:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12-1028782819
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.779759E614A8501F92FE415FD74EFD0A
+        width: 700
+        height: 350
   - title: "Journal study evaluates success of automated machine learning system to prevent medication prescribing errors"
     excerpt: "A new study published in the January 2020 issue of The Joint Commission Journal on Quality and Patient Safety used retrospective data to evaluate the ability of a machine learning system – a platform that applies and automates advanced machine learning algorithms – to identify and prevent medication prescribing errors not previously ..."
     publishedDateTime: 2019-12-27T16:00:00Z

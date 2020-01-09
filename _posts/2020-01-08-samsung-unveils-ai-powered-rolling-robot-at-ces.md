@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BC9F8F12A87F2C390C6AB20644FDD5EF
         width: 700
         height: 525
+  - title: "Samsung's Ballie is an AI you may actually care about"
+    excerpt: "Samsung's AI strategy is embracing companionship over utility, seeming to push smart assistant Bixby aside for a robot ball. Samsung's vision for the future of tech has a lot of smarts. Exoskeletons and AR glasses that enhance our fitness. Connected cars that communicate with smart cities. Wearables that detect heart health. Even thermal ..."
+    publishedDateTime: 2020-01-09T22:04:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-ballie-ai-you-may-actually-care-about/
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-ballie-ai-you-may-actually-care-about/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-ballie-ai-you-may-actually-care-about/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.BC5B59413938E79B69F77530552A570B
+        width: 700
+        height: 525
   - title: "Ballie is Samsung's cute and creepy smart home robot"
     excerpt: "Artificial intelligence will be at the heart of a lot of Ballie's functionality, though Samsung executives stressed during the keynote that it's on-device AI that Ballie won't share with others. We still have a lot of questions about just what Samsung has planned for Ballie, including what this robot will cost and when it will be available."
     publishedDateTime: 2020-01-07T04:04:00Z

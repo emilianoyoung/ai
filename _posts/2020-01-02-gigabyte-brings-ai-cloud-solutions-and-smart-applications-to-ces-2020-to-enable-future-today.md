@@ -1,9 +1,9 @@
 ---
 category: news
 title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU ..."
+excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
 publishedDateTime: 2020-01-02T18:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/
+sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/GIGABYTE-Brings-AI-Cloud-Solutions-Smart-Applications
 type: article
 quality: 28
 heat: -1
@@ -81,6 +81,6 @@ related:
         width: 700
         height: 457
 
-secured: "13oo9CVFRKDyhDG9ffsGJVx+7XUu+lCaQI6+Y7lW5F4oBsPFrvmRWFvdnMHIxbw/AUHYDMqsakne5dPkEDOkC3rK+mUhGgvplYHtpaKwW8QHhNcndJAzEKv+zQOm69JqtpuxGoxG+RMWWEd+3HfxbIq8C0FRAV9l83x7P0rq0ZSoJC/j6Qe2IX+/gI2sb2nNSWSVEZ+Qq8zx7mlPPK0N88S+IefYJE5NpHrdaKv5ajzpD+kXRLVWb/66iPzCR7saOokmNO3YOXDYLFowjnuwfQ==;NadX4PPqF8Heuj62yKqWfg=="
+secured: "OfG+569m5CiJ2daqQ6X4Rhq7hm+QPRqPKVNytgK2YpDx/1k7uT4IS49F18DdqFBg5J7lc1IPKI6qeadfUDFBOt4SXIicuKxDOhfeGwwIM2aPrxDm1K+Eihb1n2ihbLoNdg3pKpHaFEQFvpCOcbnJFaWNEO48ygbDJjSXnZWkz5VRnocnd+uOVeesms9NsT1RxgdUqQ3/ul6mjSjYDLGqZ5vKwHSYYcQQwX7E+6hhYk+1g1Myjle4MIctw/lV0T6KKutxSj7FK6fjNmm48FyVaw==;1QvVk9GkMzX/jgTHSPp9Fw=="
 ---
 

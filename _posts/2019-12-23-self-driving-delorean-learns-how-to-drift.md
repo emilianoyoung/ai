@@ -24,21 +24,21 @@ images:
     title: "Self-driving DeLorean learns how to drift"
 
 related:
-  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human ... sure\" they are at least as safe as cars on the roads. \"There's a lot of back ..."
-    publishedDateTime: 2019-12-20T21:37:00Z
-    sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
-    ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+  - title: "Self-Driving Concept Car Being Unveiled At CES Triggers Anew The Feud Over Levels Of AI Autonomy"
+    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
+    publishedDateTime: 2019-12-30T14:49:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 134
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
-        width: 800
-        height: 525
+      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
+        width: 600
+        height: 315
   - title: "General Motors pushes for self-driving car tests sans steering wheel"
     excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
     publishedDateTime: 2019-12-23T18:36:00Z
@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
         width: 700
         height: 367
-  - title: "GM requests green light to ditch steering wheel in its self-driving cars"
-    excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
-    publishedDateTime: 2019-12-24T04:40:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/
-    ampUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
-        width: 700
-        height: 366
   - title: "News Of Walmart Aiming To Setup Edge Computing For Self-Driving Cars Generates Both Surprise And Questions"
     excerpt: "A recent business news story indicates that mighty Walmart is aiming to put in place specialized computers at their stores that would be used to aid self-driving cars utilizing so-called “edge computing” capabilities (for background about edge computers and AI self-driving cars, see this link here). Say what? According to the media reports ..."
     publishedDateTime: 2019-12-23T15:16:00Z
@@ -84,94 +69,21 @@ related:
       - url: https://www.bing.com/th?id=ON.346D41C30139C10D26A49339CDF12A03
         width: 600
         height: 315
-  - title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
-    excerpt: "Stanford engineers have somehow taken the iconic DeLorean and made it even cooler, by teaching the vehicle self-driving capabilities to flawlessly drift through a racecourse. The DeLorean, which left its mark on the movie industry through the Back to the Future series, is now also turning heads in the self-driving technology space ..."
-    publishedDateTime: 2019-12-23T02:01:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/
-    ampUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+  - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
+    excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
+    publishedDateTime: 2019-12-26T03:36:00Z
+    sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
+    ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
+    cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
-    images:
-      - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
-        width: 700
-        height: 366
-  - title: "The Three Ways That Stonehenge Surprisingly Has Valuable Lessons For Self-Driving Cars"
-    excerpt: "Sure, why not. Here’s the question to ponder: Does Stonehenge offer insights that can be used to further advance the advent of true self-driving cars? Yes, those ringing rocks have something to say. Let’s unpack the matter. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that ..."
-    publishedDateTime: 2019-12-26T15:59:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-    images:
-      - url: https://www.bing.com/th?id=ON.69E6091B0B38F7BAB9BF2EDEFC6E5F4A
-        width: 600
-        height: 315
-  - title: "U.S. Talks With GM Over Deploying Self-Driving Cars Without Steering Wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-20T23:12:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/20/business/20reuters-autos-autonomous-exclusive.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 52
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
-  - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
-    excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
-    publishedDateTime: 2019-12-21T01:44:00Z
-    sourceUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars
-    ampUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
+      name: Syfy
+      domain: syfy.com
     quality: 44
     images:
-      - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
-        width: 5616
-        height: 3744
-  - title: "Ring partnerships with police: Solving crimes or invading privacy?"
-    excerpt: "Both Leawood and Kansas City police said they were not approached about that. A 2016 promotional video for Amazon Rekognition says it delivers \"high quality person tracking.\" It's a concept the ACLU finds extremely disturbing. \"Facial recognition has the potential to basically allow the police to follow everybody everywhere they go, because it ..."
-    publishedDateTime: 2019-12-22T22:09:00Z
-    sourceUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy
-    ampUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
-    cdnAmpUrl: https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
-    type: article
-    provider:
-      name: KSHB Kansas City
-      domain: kshb.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.4E079F11F7031F44E82DE978B50F01C6
+      - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
         width: 700
-        height: 393
-  - title: "US talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
-    publishedDateTime: 2019-12-21T20:19:00Z
-    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
-    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
-        width: 560
-        height: 292
+        height: 396
   - title: "Honda wants to reinvent the steering wheel with this self-driving concept"
     excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
     publishedDateTime: 2019-12-24T05:14:00Z
@@ -187,60 +99,21 @@ related:
       - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
         width: 700
         height: 394
-  - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
-    excerpt: "Business Insider's transportation team searched for the brightest young minds behind self-driving cars and trucks making significant strides in the fledgling industry despite — or in many cases thanks to — their relative youth. From drifting an autonomous DeLorean and modeling forest fires to building ocean-exploring robots and winning ..."
-    publishedDateTime: 2019-12-23T16:33:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12-1028782819
+  - title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-28T10:49:00Z
+    sourceUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4
+    ampUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
+    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Montreal News
+      domain: montrealgazette.com
     quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.779759E614A8501F92FE415FD74EFD0A
-        width: 700
-        height: 350
-  - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
-    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
-    publishedDateTime: 2019-12-24T18:44:00Z
-    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
-        width: 700
-        height: 350
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-21T19:35:00Z
-    sourceUrl: https://www.autoblog.com/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    ampUrl: https://www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
-        width: 700
-        height: 393
-  - title: "Self driving cars are the only way forward."
-    excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
-    publishedDateTime: 2019-12-23T09:26:00Z
-    sourceUrl: https://www.fudzilla.com/news/automotive/50017-self-driving-cars-are-the-only-way-forward
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
-        width: 620
-        height: 465
+      - url: https://postmediamontrealgazette2.files.wordpress.com/2019/12/autos-autonomous-.jpg?w=1000&amp;quality=80
+        width: 1000
+        height: 750
   - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
     excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
     publishedDateTime: 2019-12-24T15:32:00Z
@@ -254,49 +127,66 @@ related:
       - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
         width: 700
         height: 350
-  - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
-    excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
-    publishedDateTime: 2019-12-24T08:48:00Z
-    sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
+  - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-27T21:06:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
     type: article
     provider:
-      name: News18 on MSN.com
-      domain: msn.com
-    quality: 22
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
-        width: 600
-        height: 315
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-22T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
+      - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
         width: 700
         height: 393
-  - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
-    publishedDateTime: 2019-12-20T23:43:00Z
-    sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
+  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-28T15:26:00Z
+    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
-  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
-    publishedDateTime: 2019-12-21T21:51:00Z
-    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
+        width: 700
+        height: 393
+  - title: "Chinese self-driving, refrigerated truck travels across US"
+    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
+    publishedDateTime: 2019-12-30T04:39:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
+        width: 700
+        height: 350
+  - title: "Uber Buys Parcel Near Pittsburgh For Self-Driving Track"
+    excerpt: "Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud has confirmed the purchase to the Pittsburgh Tribune-Review but says she can’t yet share details of the plan. The San Francisco ride-hailing giant bought the ..."
+    publishedDateTime: 2019-12-30T15:48:00Z
+    sourceUrl: https://www.wesa.fm/post/uber-buys-parcel-near-pittsburgh-self-driving-track
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.25F3FBA30E1C8827DF8EF206AA9612FD
+        width: 700
+        height: 466
+  - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
+    excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
+    publishedDateTime: 2019-12-28T00:56:00Z
+    sourceUrl: https://www.infosurhoy.com/top-stories/engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities/
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
     quality: 0
 
 secured: "M9BKbB9vT2NgGWWmT0UiA0/7U8He+ULSXKVc0aBl0as/d6YpG2q2Mn8ebXl5v6pHEMuNQ/OUtlDPkJI1XlVDz8NgbklEwHiwsytfkQg8kTT12sZzSaVui1wrHdAXbDmU2LY65S1B8FW0R1S1iFizH1spUN2E6PJKGrjLjNauI4VN5nL87Npl5xOjwPKbaSp6ZpT5/UP0QWaQf/5Vn7GJnrWdKZel2/50/+v3WmS0aJA7AJXXch7gf41IJKTpDtvk/Oj5Do2kDLG1AugxiV4b2A==;tC/5E2v5qOzyv0A7yr4nQg=="

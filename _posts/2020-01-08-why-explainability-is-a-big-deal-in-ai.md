@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/googlecloud/2020/01/08/why-explainability-i
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/01/08/why-explainability-is-a-big-deal-in-ai/amp/
 type: article
 quality: 87
-heat: 98
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         width: 700
         height: 462
 
-secured: "5dZTPuzKZPT/z4lnElM+vsqLPmTcyS0zN2P4MZ3AzlQ/Phcdv+liJaktF1rY++sjPqERU4ggAJ9ns1SuyjuLL7Rzav9qgDl7ueK+nzSqVjJQt0Mz451XtKS1wZa2pAlN43yfFRzcGS532oF1Lnnb4lECz2obDYmYIvJxZA2bwWUkp2qCMmNdvJZ739hxQrBDIO2rceJicbOkVvHUmyXZfwYZQNzS0JJvI6r2nTdcTHCHVo7oLVKT3xO9jm4maLz81ctmuUfOjn1NDIkmlU9RIg==;gP+Vz5WWTHxMQ6pEQE0sQQ=="
+secured: "RU4Mco5E8/B1qzqniNCXm3UN3fRRyYQZFvHSz+iaplfLLKo9w9kc3PsS+Bf0SEBUy9B7P/8fjPiv/MdvadUD5lzpIw+JywsinhlLO9I5fRvfCy35WeJ7yckw4WH/3b6Q7igoJsV59CCVzi3anNOXRBob21wz5nIbz1aSplk/U2JPk8Em5wuYbPa9aEKII0wfdtLxrnBQKc6S3eyPLr1Bsyp3LDOA2wLpNu0rPmAiHjH4sk+nUqCKGpa3KMm4AutJM/X8bTRyvuwsPQefs4gKQg==;AdNGFcWYQXNdbLlG4mJOJg=="
 ---
 

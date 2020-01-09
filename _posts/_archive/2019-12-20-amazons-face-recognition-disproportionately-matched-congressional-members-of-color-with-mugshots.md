@@ -48,19 +48,6 @@ related:
       - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
         width: 400
         height: 258
-  - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
-    excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
-    publishedDateTime: 2019-12-20T19:09:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/startup-speechly-raises-over-2m-to-launch-natural-language-and-speech-recognition-technology
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
-        width: 700
-        height: 388
   - title: "Speech recognition tech cuts paperwork for police"
     excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
     publishedDateTime: 2019-12-12T20:40:00Z
@@ -176,6 +163,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "BvUqsY4gu7r/cKOAqMRJFtW/V1WMRsTylzXiMQSW/apF0c7zB6gXnaikc3UbIInMiBfwaEZECiycDtyu+zorcR9la0ltCS5UQ/n36PxWwHUTtAP9M9hF7dOnsPhyEz5QadTqPhdxXYtjDb4DiAxeCrC3HJnSY40K2ZCMSAAiBmZe4on2MweGdHzyoIC55rW8p6NPTKnj9P852kuvDOXRfZtelMBbfNmiTlRgML3r2qacyY9qkevIdB6SuS90iimMllz9ooMXVKL5M1sjeex9Ew==;ApTwD5dK3uc+mjxq1Opryw=="
+secured: "2zYIjKY9PZiaV5GHCMyH2XQfxrWxZv/3BBvXVjwSEI/sSV/5pjf4OxBTQsdKslFaaSC7/1OEs1MNSIrJy4t79giA/5naXGb8KsTxyS8LHk6iQXpEjZ9PUmrvR/WzIxc8xxN5hPaFnfC3DCMOAmNd+YRBYD63SeQi5XvgRupfrDZgGsxpdtkIy/wl1VQ/uoQ0TpEKoLHLGBUQStu93zQlnSSRpnr1YAPrQUqdMIbl47fXisizZsqLW7S5002s2rQ+G4pO3CZXpcSo8FD9GKEuZQ==;epW4nqL7I4TyqM1y57cfqw=="
 ---
 

@@ -175,21 +175,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "New study shows persistent racial bias in facial recognition"
-    excerpt: "A new government study has found that racial bias is a persistent problem in facial recognition software. Released by the National Institute for Standards and Technology (NIST), the study found that racial minorities are significantly more likely to be misidentified than white individuals. Researchers analyzed 189 facial recognition algorithms ..."
-    publishedDateTime: 2019-12-20T21:23:00Z
-    sourceUrl: https://www.dailydot.com/irl/facial-recognition-study-racial-bias/
-    ampUrl: https://www.dailydot.com/irl/facial-recognition-study-racial-bias/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/irl/facial-recognition-study-racial-bias/?amp
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: https://www.dailydot.com/wp-content/uploads/2019/12/facial-recognition-racial-bias.png
-        width: 1000
-        height: 500
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology.PTI | December 21, 2019, 08:38 IST Washington: Facial recognition systems can produce wildly inaccurate ..."
     publishedDateTime: 2019-12-21T03:08:00Z
@@ -619,32 +604,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
         width: 200
         height: 150
-  - title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
-    excerpt: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban originally appeared on abcnews.go.com Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias."
-    publishedDateTime: 2019-12-20T21:17:00Z
-    sourceUrl: https://www.yahoo.com/gma/federal-study-finds-racial-bias-facial-recognition-tech-193100912.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 27
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/..BQHLzlXgm7779xFZResQ--~B/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/gma/us.abcnews.go.com/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
-        width: 992
-        height: 558
-  - title: "Government study finds racial bias in facial-recognition tech"
-    excerpt: "A new federal study from the National Institute of Standards and Technology has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. Yahoo Finance's Tech Editor Dan Howley joins The Final Round to discuss"
-    publishedDateTime: 2019-12-20T21:29:00Z
-    sourceUrl: https://finance.yahoo.com/video/government-study-finds-racial-bias-212956499.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/igWZMCZFzb_1NKlxdwMAdw--~B/aD0yODg5O3c9MzY3NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-11/4abd4530-04d3-11ea-bf9f-af6029b13702
-        width: 3675
-        height: 2889
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-21T00:30:00Z

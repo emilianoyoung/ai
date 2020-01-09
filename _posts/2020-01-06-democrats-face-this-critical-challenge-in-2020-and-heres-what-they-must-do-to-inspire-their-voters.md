@@ -8,7 +8,7 @@ ampUrl: https://www.rawstory.com/2020/01/democrats-face-this-critical-challenge-
 cdnAmpUrl: https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/01/democrats-face-this-critical-challenge-in-2020-and-heres-what-they-must-do-to-inspire-their-voters/amp/
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,17 @@ images:
     title: "Democrats face this critical challenge in 2020 — and here’s what they must do to inspire their voters"
 
 related:
-  - title: "Silicon Valley will face new challenges in 2020. Here's what we're watching."
-    excerpt: "States are also expected to take a greater role on issues such as autonomous vehicles and facial recognition. 4. Tech giants' power and size will be under the microscope as antitrust investigations heat up at the federal and state level. Antitrust will continue to dominate the tech policy debate, especially as the House subcommittee leading an ..."
-    publishedDateTime: 2020-01-06T15:50:00Z
-    sourceUrl: https://www.sfchronicle.com/business/article/Silicon-Valley-will-face-new-challenges-in-2020-14952823.php
+  - title: "What Do Robots Need Before They Can Help in a Classroom?"
+    excerpt: "I don’t think artificial intelligence is there yet.” But researchers are trying to get there. Consider the work of Cynthia Breazeal, an associate professor of Media Arts and Sciences at the MIT Media Lab, who leads the Personal Robots group. The group is conducting randomized control trials of the use of an AI-powered, teddy bear-sized and ..."
+    publishedDateTime: 2020-01-09T22:48:00Z
+    sourceUrl: https://www.governing.com/work/What-Do-Robots-Need-Before-They-Can-Help-in-a-Classroom.html
+    ampUrl: https://www.governing.com/work/What-Do-Robots-Need-Before-They-Can-Help-in-a-Classroom.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/What-Do-Robots-Need-Before-They-Can-Help-in-a-Classroom.html?AMP
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 1
+      name: Governing
+      domain: governing.com
+    quality: 39
 
 secured: "H0p1jfrTq5XRF+ywE9zioWMxAz5lpQ5omHe1WbeOYnvx2xsq7b6aEK8nsPKrqj1f7tFbawxdd5K/J3bPyfgmmNQK6vd8ka4hkeiJ173Qgnx0QtAD+jHBFyDyMCdOeQ2g9ekoXSRnpno+ihlXFjN/p2weP6hejlFi8nxN7eqQREnUMv5O8nDHC+e5GK9qhgqSbWD2bBU7BqXkr8Yu6idpjCz652Y4bvIJVX4ps4dcaD5U+J+OBvzEDqU2QIgPc0sX/xQUlhT6YqCJjvdflijl8g==;+cOrKeoUr48f1DP1OJGOww=="
 ---

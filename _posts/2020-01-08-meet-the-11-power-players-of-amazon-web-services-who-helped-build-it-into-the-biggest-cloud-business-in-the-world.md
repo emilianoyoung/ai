@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
         width: 700
         height: 393
+  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
+    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
+    publishedDateTime: 2020-01-09T22:57:00Z
+    sourceUrl: https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.B49A71CF30A83EB8BBAB452707DE68FB
+        width: 700
+        height: 304
   - title: "The Best Tech of the Decade (Page 13)"
     excerpt: "Intel entering the GPU space means we'll have a 3rd player -- something that hasn't happened since ... You thought I was going to finish this article without mentioning AI, didn't you? We all know artificial intelligence is littered throughout our lives, but I don't think (even most of us) really know just how much. It's not just \"OK Google ..."
     publishedDateTime: 2019-12-30T03:49:00Z

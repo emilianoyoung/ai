@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AB07B4C9CECB31BB38411BA921230ACA
         width: 700
         height: 367
+  - title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
+    excerpt: "Stanford engineers have somehow taken the iconic DeLorean and made it even cooler, by teaching the vehicle self-driving capabilities to flawlessly drift through a racecourse. The DeLorean, which left its mark on the movie industry through the Back to the Future series, is now also turning heads in the self-driving technology space ..."
+    publishedDateTime: 2019-12-23T02:01:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/
+    ampUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
+        width: 700
+        height: 366
   - title: "Stanford engineers teach self-driving DeLorean to drift"
     excerpt: "The mathematics involved in the code have been made open access and could allow self-driving systems to maneuver a car in emergencies with the skill of a professional drift racer. STANFORD, Calif. — Engineers at Stanford have taught a driverless DeLorean to drift through a racecourse, the university said Friday. The DeLorean, named MARTY ..."
     publishedDateTime: 2019-12-21T04:45:00Z

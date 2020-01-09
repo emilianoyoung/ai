@@ -3,12 +3,10 @@ category: news
 title: "Facebook CEO Mark Zuckerberg is ditching his tradition of setting himself wacky New Year's resolutions"
 excerpt: "In previous years, Mark Zuckerberg has built a robot butler, learned Mandarin, and only eaten meat from animals he killed himself."
 publishedDateTime: 2020-01-09T19:52:00Z
-sourceUrl: https://www.businessinsider.com/facebook-ceo-mark-zuckerberg-ends-annual-challenges-new-years-resolutions-2020-1/
-ampUrl: https://amp.businessinsider.com/facebook-ceo-mark-zuckerberg-ends-annual-challenges-new-years-resolutions-2020-1
-cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facebook-ceo-mark-zuckerberg-ends-annual-challenges-new-years-resolutions-2020-1
+sourceUrl: https://www.businessinsider.com/facebook-ceo-mark-zuckerberg-ends-annual-challenges-new-years-resolutions-2020-1
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -29,6 +27,6 @@ images:
     height: 350
     title: "Facebook CEO Mark Zuckerberg is ditching his tradition of setting himself wacky New Year's resolutions"
 
-secured: "XNN928dX5IIFi+gML3Cq+ubkxn3EszyRT8dzqKDZQAlsrhiMCbAhiC+Reuk8y9HyPUhNgMo52RBEhaPbqUDzo3Tqz28OtD+/m3z6t8yAxw+ur/DOJeFO2DIiGp7wc0SlJbCxUlzNwpEmXyj5bxj6RS0lSQtSN95sq/Y/g5BwiLv01Vr+J9XCMpumgvUzu3u2G2WtUFbjfquWX8caRENIPiQageqbI8BjiCuL+PHKptUVxIZfwIN5mMGaRRoOUuWYdglBUbsFM5icULv7Zogs9A==;5VMUwIjCKulH9QpWmSxzAA=="
+secured: "CmPjdv+g3Hxqt5dCibmCTv2fTonyOEZmOseONlY92eU+4KXraGprhrzgxjp5zxQyX2R1/GF0IZ689U1YNAj0N6M3T+iJDiejvwTVe4OQWKj/1xPFErpMnOt0ivNUPryy55+VQbKU7XVNWvDpaw0SEnLHyGjodqS6wujfc9FNc2/lkZcW47Yyu0CzKSltJ9wchRCYrl862lwwSvQmOk6r4D3XZINRtj2ngL1B3UyeOM6uj/3ehsiyoGTQ+pwvWddS5KAUVkUBXx0Me24bOFqUPA==;Wh372bhiaToGygqDfXxe9Q=="
 ---
 

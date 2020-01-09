@@ -24,86 +24,149 @@ images:
     title: "Volkswagen self-driving shuttles to operate in Qatar from 2022"
 
 related:
-  - title: "Self-driving tractors: Next big thing in agriculture"
-    excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
-    publishedDateTime: 2019-12-23T06:01:00Z
-    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
-    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+  - title: "GM requests green light to ditch steering wheel in its self-driving cars"
+    excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
+    publishedDateTime: 2019-12-24T04:40:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/
+    ampUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 44
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
+      - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
         width: 700
-        height: 392
-  - title: "Mock skyscrapers, rain at Singapore self-driving test centre"
-    excerpt: "The road sweeper and a golf buggy move around the track with ease, jamming their brakes on when a pedestrian steps out and negotiating sharp turns."
-    publishedDateTime: 2019-12-23T10:19:00Z
-    sourceUrl: https://www.arabnews.com/node/1602926/mock-skyscrapers-rain-singapore-self-driving-test-centre
+        height: 366
+  - title: "U.S. Talks With GM Over Deploying Self-Driving Cars Without Steering Wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-20T23:12:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/20/business/20reuters-autos-autonomous-exclusive.html
     type: article
     provider:
-      name: Arab News
-      domain: arabnews.com
-    quality: 39
+      name: New York Times
+      domain: nytimes.com
+    quality: 52
     images:
-      - url: https://www.arabnews.com/sites/default/files/default_images/place-holder1_0.jpg
-        width: 480
-        height: 315
-  - title: "Understanding the trends driving natural language processing adoption"
-    excerpt: "The first involves computer vision and, as of yet, is not quite accessible to most organizations. The second revolves around natural language processing, which has quietly become embedded in everything from text analytics to speech recognition systems ..."
-    publishedDateTime: 2019-12-23T03:30:00Z
-    sourceUrl: https://www.information-management.com/opinion/understanding-the-trends-driving-natural-language-processing-adoption
-    type: article
-    provider:
-      name: Information Management
-      domain: information-management.com
-    quality: 39
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/2a851d4/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F49%2Fe7%2Fe09490f74068a0054d016c83a5a9%2Fsoftware-architect.jpg
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
-  - title: "Top AI-Powered Projects In Indian Agriculture Sector: 2019"
-    excerpt: "IBM has started a pilot study to use AI-based technology and satellite technology to monitor the agriculture sector of the country. The pilot study will be conducted in states like Madhya Pradesh, Gujarat and Maharashtra. Post the pilot study, IBM’s Watson decision platform will provide a farm-level solution for improving the agriculture sector."
-    publishedDateTime: 2019-12-27T05:35:00Z
-    sourceUrl: https://analyticsindiamag.com/top-ai-powered-projects-in-indian-agriculture-sector-2019/
+  - title: "Self-driving Cars Market 2019 Precise Outlook – Toyota, BMW, Volvo, Mercedes-Benz"
+    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This Self-driving Cars Market study offers a comprehensive, 360 degree analysis on the Self-driving Cars market, bringing to fore insights that can help stakeholders identify the opportunities as well as challenges. It tracks the global Self-driving Cars market across key regions, and offers ..."
+    publishedDateTime: 2019-12-23T08:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-market-2019-precise-outlook-toyota-bmw-volvo-mercedes-benz-2019-12-23
     type: article
     provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: https://www.bing.com/th?id=ON.1FB3CE77C754CB40F64E4C5200BFBE95
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
+    excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
+    publishedDateTime: 2019-12-21T01:44:00Z
+    sourceUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars
+    ampUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
+    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
+    images:
+      - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
+        width: 5616
+        height: 3744
+  - title: "US talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
+    publishedDateTime: 2019-12-21T20:19:00Z
+    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
+    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
+        width: 560
+        height: 292
+  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-21T19:35:00Z
+    sourceUrl: https://www.autoblog.com/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
+    ampUrl: https://www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
+    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
         width: 700
         height: 393
-  - title: "Uber buys parcel near Pittsburgh for self-driving test track"
-    excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
-    publishedDateTime: 2019-12-27T15:39:00Z
-    sourceUrl: https://www.kansas.com/news/business/article238754273.html
-    ampUrl: https://amp.kansas.com/news/business/article238754273.html
-    cdnAmpUrl: https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article238754273.html
+  - title: "Self driving cars are the only way forward."
+    excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
+    publishedDateTime: 2019-12-23T09:26:00Z
+    sourceUrl: https://www.fudzilla.com/news/automotive/50017-self-driving-cars-are-the-only-way-forward
     type: article
     provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 24
-  - title: "The First Commercial Freight Cross-Country Trip was Performed by a Self-Driving Truck: What This Means for the Trucking Industry"
-    excerpt: "Earlier this month, Silicon Valley startup Plus.ai was the first company ever to have a self-driving truck make a coast-to-coast commercial freight trip. The autonomous truck, along with a supervising driver and mechanic, drove for three days from Tulare, California to Quakertown with over 40,000 pounds of butter in tow. While Plus.ai’s ..."
-    publishedDateTime: 2019-12-24T08:19:00Z
-    sourceUrl: https://techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/
-    ampUrl: https://techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 15
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.CF7C35B7A65627242C2C100171186D4E
-        width: 630
-        height: 354
+      - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
+        width: 620
+        height: 465
+  - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
+    excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
+    publishedDateTime: 2019-12-24T08:48:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
+    type: article
+    provider:
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
+        width: 600
+        height: 315
+  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-22T00:02:00Z
+    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
+        width: 700
+        height: 393
+  - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
+    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
+    publishedDateTime: 2019-12-20T23:43:00Z
+    sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
+  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
+    publishedDateTime: 2019-12-21T21:51:00Z
+    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 0
 
 secured: "h9wgBVBkSIYn381MLnhvBGRCPdbCR/e0VXdJEfSW2YKW7K80zILXZR4qQsOWVr8fhxfKbRhNifWKwAOx4rZpzMhlcEJ3zHtoXLDrvfDPCoVyZcd8U0ZLdfvqFk6sH+WLGdJ02WnhHqmGlpO4kB+2Fz9ios2B7b6Vjg0A3mzmz2QV/WLhoXMOtWVdku/CSs7/I0PX2apnF8hAq0IIi5Gxd1TUTXJA4rxWHmwiAlR/3LexrVkpE/v8lqkJBZHrFkSZtOH5K/9YzP3BISEirLjDEQ==;1SVvepjNDw5n+7bLil6PLA=="
 ---

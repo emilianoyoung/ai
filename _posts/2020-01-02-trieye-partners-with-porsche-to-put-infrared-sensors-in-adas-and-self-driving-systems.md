@@ -148,6 +148,21 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/qualcomm-snapdragon-drive-autonomous-driving_traffic-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
+  - title: "The Three Ways That Stonehenge Surprisingly Has Valuable Lessons For Self-Driving Cars"
+    excerpt: "Sure, why not. Here’s the question to ponder: Does Stonehenge offer insights that can be used to further advance the advent of true self-driving cars? Yes, those ringing rocks have something to say. Let’s unpack the matter. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that ..."
+    publishedDateTime: 2019-12-26T15:59:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: https://www.bing.com/th?id=ON.69E6091B0B38F7BAB9BF2EDEFC6E5F4A
+        width: 600
+        height: 315
   - title: "Baidu can now test its self-driving cars with passengers in Beijing"
     excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
     publishedDateTime: 2019-12-31T09:47:00Z
@@ -279,6 +294,19 @@ related:
       - url: https://www.bing.com/th?id=ON.065059412540771F371E70B52C3876A7
         width: 700
         height: 393
+  - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
+    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
+    publishedDateTime: 2019-12-24T18:44:00Z
+    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
+        width: 700
+        height: 350
   - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
     excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
     publishedDateTime: 2019-12-26T20:43:00Z

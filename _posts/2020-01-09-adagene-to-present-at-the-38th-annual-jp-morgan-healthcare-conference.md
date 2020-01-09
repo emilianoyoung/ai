@@ -24,6 +24,15 @@ images:
     title: "Adagene to Present at the 38th Annual J.P. Morgan Healthcare Conference"
 
 related:
+  - title: "Recursion to Present at the 38th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "SALT LAKE CITY--(BUSINESS WIRE)--Recursion, a digital biology company industrializing drug discovery, will present a company update at the 38th Annual J.P. Morgan Healthcare Conference in San Francisco ... Recursion does this by combining automation, artificial intelligence, machine learning, in vivo validation capabilities and a highly cross ..."
+    publishedDateTime: 2020-01-09T16:22:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200109005712/en/Recursion-Present-38th-Annual-J.P.-Morgan-Healthcare
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 18
   - title: "NVIDIA Corporation (NVDA) Management Presents at J.P. Morgan 18th Annual Technology and Automotive Investor Forum (Transcript)"
     excerpt: "Can you just talk about this? It seems like it’s more of a data analytics platform that’s GPU accelerated versus an AI-based platform. But this type of analytics has wide applicability across a number of different verticals. Can you maybe just help us compare contrast your edge computing platform versus your cloud and datacenter platforms?"
     publishedDateTime: 2020-01-07T19:09:00Z

@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F018DF0B9ADDB1DEEB3712D7A8252114
         width: 700
         height: 357
+  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
+    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based technologies ... that’s going to affect certain aspects of people’s lives.\" In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the time when an ..."
+    publishedDateTime: 2020-01-09T22:34:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
+    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.58FA4047CF70574E7DCB17755B12905B
+        width: 700
+        height: 350
   - title: "AMD could reveal Ryzen 4000 CPUs at CES 2020 to keep the pressure on Intel"
     excerpt: "With all the talk in the processor world very much being of Intel’s next-gen Comet Lake CPUs of late, AMD could throw a spanner in the works of its rival’s PR machine by unveiling Ryzen 4000 chips at ... 2020 As you can see, going by the translation, AMD’s CEO may reveal further details about Zen 3 at a CES press event – Zen 3 being ..."
     publishedDateTime: 2020-01-03T12:26:55Z

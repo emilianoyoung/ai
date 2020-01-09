@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AB07B4C9CECB31BB38411BA921230ACA
         width: 700
         height: 367
+  - title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
+    excerpt: "Stanford engineers have somehow taken the iconic DeLorean and made it even cooler, by teaching the vehicle self-driving capabilities to flawlessly drift through a racecourse. The DeLorean, which left its mark on the movie industry through the Back to the Future series, is now also turning heads in the self-driving technology space ..."
+    publishedDateTime: 2019-12-23T02:01:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/
+    ampUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
+        width: 700
+        height: 366
   - title: "Marty, the self-driving DeLorean engineered to dominate test courses"
     excerpt: "Imagine if Marty McFly never actually had to drive the DeLorean in Back to the Future, imagine if the DeLorean just drove itself at 88mph. Standford Unversity engineers perhaps thought of the same thing and decided to make a 1981 DMC DeLorean be independent of its human driver. In the above video released onto the Stanford YouTube Channel ..."
     publishedDateTime: 2019-12-24T07:51:00Z
