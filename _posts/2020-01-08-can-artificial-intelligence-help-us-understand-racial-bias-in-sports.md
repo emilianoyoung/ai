@@ -8,7 +8,7 @@ ampUrl: https://theundefeated.com/features/artificial-intelligence-racial-bias-i
 cdnAmpUrl: https://theundefeated-com.cdn.ampproject.org/c/s/theundefeated.com/features/artificial-intelligence-racial-bias-in-sports/amp/
 type: article
 quality: 59
-heat: 69
+heat: 70
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
       domain: zawya.com
     quality: 18
 
-secured: "Rc45NhaGkTZPB8KdlSxtGKg1y9VCAEGLcoHCcieQofEh8Wbih0Rb4G1M9DbqOLm4vfmth8dyZaTUlzw9c7xXOq4MiZuHRX0nla3vwy6wVa9ose5M4q1CxYcHld8o6aDZ7VHmXILsGm/LZIlaw5KDI2syC3CGccBjYQ84dHX1S9wCllM/j1SMoMBHvrhv3Ntu1g8HI/58PyprG0hWpxjnIYo6I1vyat3ZkMCtR5FYB67M4NTQxGtGSm7YnR+dRlGy3NWle1sSKtGWJDcQbBYrGA==;1eAjDq1hpIREgKCTKxBouA=="
+secured: "ijFJTnVoM/U4WqY1jypnsn3FLT9mC6qGBVTQ0i6LGCItan3Z7ZaBeH57BaWaLJsBQNYdi7jWoXZXgbXNTc4Pj8HyZzG/xYElVcuE7Rqf/0BHWiddTcusxEzb11ZM7NECDDpXOTPtbDivVKq9WtFgvnp2nbHXIvz15izGkZ8IdkcAsDr0bfxfeSXqLKYJ1vcyZQ4XzfsePs30lYqzUQHl5BFIeVXdI1L3KaormuTNeZqya0Nq2Vv7n/KZn9jry+2XLIn93+Q1q4unZzwXnqdVKw==;Q94Qf4jSeBZy24W8v9pxKw=="
 ---
 

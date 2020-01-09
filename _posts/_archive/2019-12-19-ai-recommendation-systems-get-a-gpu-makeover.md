@@ -25,6 +25,6 @@ images:
     height: 252
     title: "AI Recommendation Systems Get A GPU Makeover"
 
-secured: "ZQbDwD4ekfPUdvI4XQ0309CwFltPz7HP6LIVUgjaKwdrqvt7Xva8zVzNoDmzymPQL6SlPmdnhCFDhEXPGlg94lEghck/EAhATeccy9UNNFpJDGopcemMjVH4caw3vF0BKsF34IWCK5INPG+JHAmRU8qNBiYFykkeZgLHK2/KcFbWT7UgTikUkpmls0E/mvdlXG/bqeHfJB2W99YZu2QQOTVeqcvrIDcGklkQzH3Qgf1of+6y+hpWs9fd0Jy+JujF4VZYuv7hb97jCWyh9ZVOxQ==;OQhxMGzO9SHPdvLttg3hzw=="
+secured: "2fzmCpmO6I40IHnSAUSDTtlOLuBeoas9lVpq/OdMiPdFsxaEBQDKma/XGDJS+O88P/BIITntV9BJRJqcDVvcktXY2AUDcqwKUooDPBO4kor+gG1jZkg4Oydh6ky1X3HYVWLzlggu1GjHaeztXSL2tHocIZN2/tqcL87XtyavhO+SvRMaPPcjRxPxGaJNLqyxiMYFAF9C4RRM1H7beo+CVBhslYzUp0Dze2pcOD+x5g8I5fiuBElwerohbEcoFg3n42oZ66+3uZMyn8IQepA+Jw==;rG48uTh0SCLVcAPok3MLmA=="
 ---
 

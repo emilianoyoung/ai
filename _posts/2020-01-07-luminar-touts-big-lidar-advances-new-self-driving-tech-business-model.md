@@ -56,15 +56,17 @@ related:
       - url: https://www.bing.com/th?id=ON.F7DE2EE3AC4F7DA937B58D82BDFC81F9
         width: 700
         height: 350
-  - title: "New federal self-driving car policy talks up government's safety role but leaves industry in charge"
+  - title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
     excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at the CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
-    publishedDateTime: 2020-01-08T21:07:00Z
-    sourceUrl: https://www.sfchronicle.com/business/article/New-federal-self-driving-car-policy-talks-up-14959865.php
+    publishedDateTime: 2020-01-08T19:52:00Z
+    sourceUrl: https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/
+    ampUrl: https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 0
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 10
 
 secured: "eBuqWH5HiA4CptWv9C45JqczF8pzq0oUZOEnYiXOyiKuAdERijs9lFT4SxGXSvEJ6H0OELGnDxLm+4xu6F4ED5x/pr6ROfWtVVvZ1EPRTiQNrhqLRMZQVEC5mRUMO+aOe0CA7qQkRrPzruqtyu1pSu3wjRpedIEdoAK2EXpF+UinZ8KH0rHuWNbte3ysPWrYyutYLPst3CPu1cKyaYiszuNzob2ow6MGrz0ylkLAEyBkAGBmuxABgdQg0Mo0rF8R79OtI4dk/WqUqdv7AWa4qw==;BaWoLuMK13u00AoIJ0Wk4g=="
 ---

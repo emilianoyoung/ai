@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/23/ai-year-in-review-opportunities-grow-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/ai-year-in-review-opportunities-grow-but-ethics-loom-large/amp/
 type: article
 quality: 112
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -47,19 +47,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Alcohol and technology: The year in review"
-    excerpt: "An AI algorithm run from Microsoft’s Azure cloud platform and AI cognitive services received data, including information about the distillery’s legacy recipes, customer preferences and sales numbers, from the Mackmyra Distillery in Sweden. That data was then used to enable the algorithm to create new ingredient combinations, resulting in as ..."
-    publishedDateTime: 2019-12-19T22:33:00Z
-    sourceUrl: https://insights.globalspec.com/article/13194/alcohol-and-technology-the-year-in-review
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: https://insights.globalspec.com/images/assets/194/13194/Whisky1.png
-        width: 713
-        height: 425
 
 secured: "iEqmCTVwSuCL7H5Xk2jtL3uDX55T6xhedlX2nmee1v2X+j/vWmzXyZKUySHJBqo7u1a/q3JvuVYkIgsHxR4UmF9wlFyto9Qfg6oe7jq3uVI+xnHBZhIXBXmRRI7ljcfTGUmo5CzlNBXUkUzDT9iHX0yurJmryKvBQmstWtmAvRQ2tH5lvfrijGm9rmruwPhUUIV6qj5MKZMLGQUWovCFdQwxl1risLK4GZCepBBtXWy/JH3JSoTczKMCI/H9NkTjptFHyeLqslBAuvTDDiivSw==;7QNa4YFoXf5I6wIxbFipkA=="
 ---

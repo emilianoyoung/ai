@@ -55,19 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6A6CBF06DA44CEE1244E707F31189F08
         width: 454
         height: 340
-  - title: "How to bring AI to a legacy industry, according to the founders of Luminance and Omnius"
-    excerpt: "The companies’ founders, Emily Foges and Sofie Quidenus-Wahlforss, spoke with great insight on this on stage at Disrupt Berlin. Luminance uses AI and natural language processing to help law firms process documents more quickly, not replacing the lawyer but providing additional intelligence and analysis of what may be hundreds or thousands of ..."
-    publishedDateTime: 2019-12-19T22:13:00Z
-    sourceUrl: https://techcrunch.com/2019/12/19/how-to-bring-ai-to-a-legacy-industry-according-to-the-founders-of-luminance-and-omnius/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.D279A2BB3BAB7748AE93C7DF6668418B
-        width: 700
-        height: 466
   - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
     excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU) that are used in high-end gaming computers, but the company does more than that. Now NVIDIA’s dominance in the GPU space is translating into dominance in the ..."
     publishedDateTime: 2019-12-23T12:03:00Z

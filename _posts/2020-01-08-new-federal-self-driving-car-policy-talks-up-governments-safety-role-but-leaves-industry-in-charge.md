@@ -1,17 +1,19 @@
 ---
 category: news
-title: "New federal self-driving car policy talks up government's safety role but leaves industry in charge"
+title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
 excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at the CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
-publishedDateTime: 2020-01-08T21:07:00Z
-sourceUrl: https://www.sfchronicle.com/business/article/New-federal-self-driving-car-policy-talks-up-14959865.php
+publishedDateTime: 2020-01-08T19:52:00Z
+sourceUrl: https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/
+ampUrl: https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1
+cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
@@ -64,6 +66,6 @@ related:
         width: 700
         height: 350
 
-secured: "kdaDqzBFvI6P8WVnA+aZV0s+8onSY86yEXqs1k1w2lR9WeONBh0G9rk+Z9GLubU6nxlybsL0chhbc2MqBHbZPNfT2lHDZhIbqE+WXSJDLIj+rN7plZhJxwqAWREQUlrnQzo8lCvOTfb+9biXz2yUPOIHP2sgo3n6OkT6n8QNI8SriXZEr0g3lcywCbcgiKhZRM2O1VOVeFPu+zhkIpbE5qZM6or9xhM4MvPauMPuPCwF0ERpm1sQxZ2hLUrgFvN8OTwLsg9mCS7V7GIPi8VLjA==;02iD6lK4BeTDPRcN337rhg=="
+secured: "QveCvk23lCCevQ/mfwZ6JHzoWGyozeBVqzLWCMrWd0XBgH58yd0QJ/Lpo1ojSWDSc0unbGfg8dFJ0Ve+uOMUusLE1UUH9u/J0z49ppyiX2ZQjF5zwEDPADfLOGMUOydvogrj3jglZRfbH7J9OCmWyVPYUFIX+yIYvWhKkHgWOPd9NlUZnr4psECkVU7uI6lre+uR39tk5cmst7Goub2LwlcsSAxcJpn/oZGKw1CU0R/XAHXQ1rj3j5nPXBJ9OVs++sJd37Yvy9l5/AcnERyd5g==;1Yz4327dnj7rjYUQEz1How=="
 ---
 

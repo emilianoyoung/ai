@@ -181,6 +181,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AA576558169A7C51D18460A0D1DF3BEE
         width: 700
         height: 525
+  - title: "Does Emotional Intelligence Improve Safety?"
+    excerpt: "At the 2019 Genos Annual Global Conference in Hawaii, participants from 17 different countries heard speakers around the theme of “Emotional Intelligence in the Age of Artificial Intelligence.” I was surprised to find that a session on the relationship between emotional intelligence and workplace safety made the biggest impression on me."
+    publishedDateTime: 2020-01-08T23:00:00Z
+    sourceUrl: https://www.industryweek.com/operations/article/21120060/does-emotional-intelligence-improve-safety
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.7E89A094CF2A3F222604FE04DDF837C1
+        width: 700
+        height: 364
   - title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
     excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
     publishedDateTime: 2020-01-08T06:15:00Z

@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.97C41920550C8B58E952F5CFB7E05D95
         width: 618
         height: 400
+  - title: "Facebook’s deepfake ban ignores most visual misinformation"
+    excerpt: "Experts in AI and misinformation are concerned that Facebook’s new policy on deepfakes ... Henry Ajder, the head of communications and research analysis at Deeptrace Labs, which released a study on deepfakes last year, applauded Facebook’s move. “Some people have criticized the move as responding to a “non-issue” on the platform ..."
+    publishedDateTime: 2020-01-08T23:10:00Z
+    sourceUrl: https://qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/
+    ampUrl: https://qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/amp/
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.24E2DA8C1E637FF42073192C66DB4A90
+        width: 700
+        height: 439
   - title: "Facebook’s Deepfakes Policy ‘Inadequate’ to Some Lawmakers"
     excerpt: "Facebook Inc.’s new policy to address “deepfake” videos came under fire from some lawmakers and disinformation experts who say it fails to address other kinds of online manipulation. The criticism, in interviews,"
     publishedDateTime: 2020-01-08T20:23:00Z

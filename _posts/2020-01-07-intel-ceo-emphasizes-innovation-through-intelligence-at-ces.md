@@ -171,6 +171,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 37
+  - title: "Does Emotional Intelligence Improve Safety?"
+    excerpt: "At the 2019 Genos Annual Global Conference in Hawaii, participants from 17 different countries heard speakers around the theme of “Emotional Intelligence in the Age of Artificial Intelligence.” I was surprised to find that a session on the relationship between emotional intelligence and workplace safety made the biggest impression on me."
+    publishedDateTime: 2020-01-08T23:00:00Z
+    sourceUrl: https://www.industryweek.com/operations/article/21120060/does-emotional-intelligence-improve-safety
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.7E89A094CF2A3F222604FE04DDF837C1
+        width: 700
+        height: 364
   - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
     excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: An overview of the global market for neuromorphic chip and discussion on its future market potential An understanding of the current state of neuromorphic computing and ..."
     publishedDateTime: 2020-01-08T00:21:00Z

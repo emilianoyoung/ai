@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/07/ai-and-girls-not-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/07/ai-and-girls-not-repeating-the-past/amp/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

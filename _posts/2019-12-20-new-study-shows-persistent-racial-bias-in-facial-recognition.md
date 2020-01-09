@@ -202,21 +202,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
-  - title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
-    publishedDateTime: 2019-12-19T22:11:00Z
-    sourceUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html
-    ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
-        width: 700
-        height: 366
   - title: "Facial-Recognition Software Suffers From Racial Bias, U.S. Study Finds"
     excerpt: "A far-reaching government analysis of the most widely used facial recognition algorithms found most of them appeared to suffer from racial bias, misidentifying Asian- and African-Americans far more often than Caucasians."
     publishedDateTime: 2019-12-20T02:24:00Z
@@ -336,21 +321,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
         width: 796
         height: 419
-  - title: "Study Highlights Race & Gender Flaws in Facial Recognition"
-    excerpt: "(CN) — Asian Americans and black women are a few groups disproportionately likely to be get misidentified by facial-recognition software, a federal study published Thursday reports. A video surveillance camera hangs on a pole outside City Hall in Springfield, Mass., on Oct. 17, 2019. (AP Photo/Matt O’Brien) Taking more than 18 million ..."
-    publishedDateTime: 2019-12-19T22:25:00Z
-    sourceUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/
-    ampUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
-    cdnAmpUrl: https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 59
-    images:
-      - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
-        width: 1024
-        height: 635
   - title: "Racial bias plagues facial recognition software, US agency finds"
     excerpt: "A sweeping study backed by the US government found facial-recognition programs misidentify people of color far more frequently than white people, indicating racial bias plagues the software. Algorithms wrongly matched photos of black and Asian people 10 to 100 times more often than white people, according to the study from the US Department of ..."
     publishedDateTime: 2019-12-20T09:13:00Z

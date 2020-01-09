@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-mode
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-model-in-multiple-languages-to-improve-product-searches/amp/
 type: article
 quality: 78
-heat: 78
+heat: 79
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Amazon researchers trained an AI model in multiple languages to improve product searches"
 
-secured: "GdrZQBiHJqqOZmaj/P4HM/6ZUjjtfSmTF9WxiRmV7OcZH5yJxiwl79h4KbrhSR6cGZFhhKj88jbPFgIEajdR7/pkL8z0QYM4bJDO1tWkURHVzMuC2fzgE4UwTnNfXNU//ZLVUe0UDA+Vl1Phr9EaFtSMaIZbgG+ZfHevvd8TLFZZPAvSfw6s8XiMZgdbWVYPu1rtnTMUeA2MYV1CfJIh3K7pWuHvbllmYCQtJXwU/PE3Cje6zmNlb1vRipX3zH30m7pZqpKbnyOlWmU9jzWJow==;A2VJSeezSNN3KrWmrbVlWg=="
+secured: "SJYM5pW3HP9mNLHr+Wc6IUSgE/v6Qe0BViPXc3Ticktd2EcGeSuOwb+vUGeyb5fYx/3+cp5ZPT9L5Dq1tR2wEmdft9qooC/b6fZQt8Q9EJMZgn0Ax2xUqc3i8GuKrIAlRk+EkjPNBZ1YDmv+OMmE/c46cNH89pcDyB0l9RNWkco+WomcK/Ou7VEiF/WWusOpMrrJ+6v4jt4icSl5KomkRM/ydAg55E8cPpaMFj8fU1FzUYihmXtU9MGwbEjYoIuW3/+l9+V9UFoJfvtSILt+Dg==;h03KwnTRPfxB/rB+DrKItg=="
 ---
 

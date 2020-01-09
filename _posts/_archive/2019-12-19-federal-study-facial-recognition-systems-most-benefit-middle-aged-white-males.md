@@ -1,21 +1,19 @@
 ---
 category: news
-title: "U.S. government study finds racial bias in facial recognition tools"
-excerpt: "Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies."
-publishedDateTime: 2019-12-19T23:39:00Z
-sourceUrl: https://www.reuters.com/article/us-usa-crime-face/u-s-government-study-finds-racial-bias-in-facial-recognition-tools-idUSKBN1YN2V1
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YN2V1
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YN2V1
+title: "Federal study: Facial recognition systems most benefit middle-aged white males"
+excerpt: "The US National Institute of Standards and Technology today released its 2019 report on facial recognition. And there are no surprises here, it’s just as dystopian as we’ve been warning you about all year. On the group’s conclusions, Patrick Grother, a NIST computer scientist and the report’s primary author, said: While it is usually ..."
+publishedDateTime: 2019-12-19T23:14:00Z
+sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/19/federal-study-facial-recognition-systems-most-benefit-middle-aged-white-males/
 type: article
-quality: 89
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Next Web
+  domain: thenextweb.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/thenextweb.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,10 +22,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-    width: 1200
-    height: 630
-    title: "U.S. government study finds racial bias in facial recognition tools"
+  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
+    width: 796
+    height: 419
+    title: "Federal study: Facial recognition systems most benefit middle-aged white males"
 
 related:
   - title: "Facial recognition fails on race, government study says"
@@ -101,6 +99,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
+  - title: "U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies."
+    publishedDateTime: 2019-12-19T23:39:00Z
+    sourceUrl: https://www.reuters.com/article/us-usa-crime-face/u-s-government-study-finds-racial-bias-in-facial-recognition-tools-idUSKBN1YN2V1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YN2V1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YN2V1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
   - title: "Federal study confirms facial recognition is a biased mess"
     excerpt: "We all knew facial-recognition technology was flawed, just perhaps not this flawed. A new study from the National Institute of Standards and Technology, published on Dec. 19, lays out in painstaking detail how facial-recognition tech misidentifies the elderly, young, women, and people of color at rates higher than that of white men."
     publishedDateTime: 2019-12-20T02:16:00Z
@@ -191,21 +204,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
-  - title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
-    publishedDateTime: 2019-12-19T22:11:00Z
-    sourceUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html
-    ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
-        width: 700
-        height: 366
   - title: "Facial-Recognition Software Suffers From Racial Bias, U.S. Study Finds"
     excerpt: "A far-reaching government analysis of the most widely used facial recognition algorithms found most of them appeared to suffer from racial bias, misidentifying Asian- and African-Americans far more often than Caucasians."
     publishedDateTime: 2019-12-20T02:24:00Z
@@ -312,34 +310,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 66
-  - title: "Federal study: Facial recognition systems most benefit middle-aged white males"
-    excerpt: "The US National Institute of Standards and Technology today released its 2019 report on facial recognition. And there are no surprises here, it’s just as dystopian as we’ve been warning you about all year. On the group’s conclusions, Patrick Grother, a NIST computer scientist and the report’s primary author, said: While it is usually ..."
-    publishedDateTime: 2019-12-19T23:14:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/19/federal-study-facial-recognition-systems-most-benefit-middle-aged-white-males/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
-        width: 796
-        height: 419
-  - title: "Study Highlights Race & Gender Flaws in Facial Recognition"
-    excerpt: "(CN) — Asian Americans and black women are a few groups disproportionately likely to be get misidentified by facial-recognition software, a federal study published Thursday reports. A video surveillance camera hangs on a pole outside City Hall in Springfield, Mass., on Oct. 17, 2019. (AP Photo/Matt O’Brien) Taking more than 18 million ..."
-    publishedDateTime: 2019-12-19T22:25:00Z
-    sourceUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/
-    ampUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
-    cdnAmpUrl: https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 59
-    images:
-      - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
-        width: 1024
-        height: 635
   - title: "New study shows persistent racial bias in facial recognition"
     excerpt: "A new government study has found that racial bias is a persistent problem in facial recognition software. Released by the National Institute for Standards and Technology (NIST), the study found that racial minorities are significantly more likely to be misidentified than white individuals. Researchers analyzed 189 facial recognition algorithms ..."
     publishedDateTime: 2019-12-20T21:23:00Z
@@ -918,6 +888,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "kXXm87TJH6mfAKkX3ahfegrPruVhW5iMj+CEcTJWalYSSZGjai+m8gV/dknPaKb9Jdzqyv248LNCnoT+H13x+z6jEaRRptz3a10lOhmHoqVi/KPujpo4tfm2Fd3b6BvjzWpYu4QgI3b5XKpT3gPxepLP5zgEr5W/8n2Z7mTSJtJkUSK5V9vsymOjJtOpeywYGG1yNtXVhJ2N0/eyvrIFdKh9zRDDMlwJa4IAMhTcGmmqFSa+9a8aaJa1KRLZoOwtU1Pj4RpR6/dGzx93xDpjfQ==;12dMByrd0THSU7ZLnfXHxA=="
+secured: "P8Vx4D8rJuz7aGRLdJNfiGO9J41WqVbguJnJmCAHsoBKNWwiKbUUW0+2E1BGUYWiPdE0P++oDtcaX1PvRUOaWLFwJ0K3FHqahyqcMSsgyxQG3Rv/5xk51+oI/CG7pmEHn2u2vU9GaEKAEzZX+6Cfu6RfPxaL+v5280AXh6V5VUXjiBzjIBlXjH79nD+4OAgDbIookJOXMwafz+r3gmkytAcrfM0NwV1MSUSsVO8m2ga51htQxvpzwU7RF3sF8gaeAJMr+DAaVfGZi5APRml3Gw==;Uy8/M233QfSFBfv0dII5Dg=="
 ---
 

@@ -1,31 +1,22 @@
 ---
 category: news
-title: "Federal study: Facial recognition systems most benefit middle-aged white males"
-excerpt: "The US National Institute of Standards and Technology today released its 2019 report on facial recognition. And there are no surprises here, it’s just as dystopian as we’ve been warning you about all year. On the group’s conclusions, Patrick Grother, a NIST computer scientist and the report’s primary author, said: While it is usually ..."
-publishedDateTime: 2019-12-19T23:14:00Z
-sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/19/federal-study-facial-recognition-systems-most-benefit-middle-aged-white-males/
+title: "Federal study finds race, gender bias in facial recognition technology"
+excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning ... Hikvision and Tencent. Amazon, which markets face-scanning software to U.S ..."
+publishedDateTime: 2019-12-19T23:43:00Z
+sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+ampUrl: https://amp.usatoday.com/amp/2704291001
+cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
 type: article
-quality: 65
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: /assets/images/organizations/thenextweb.com-50x50.jpg
-      width: 50
-      height: 50
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI
-  - Computer Vision
-
-images:
-  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
-    width: 796
-    height: 419
-    title: "Federal study: Facial recognition systems most benefit middle-aged white males"
 
 related:
   - title: "Facial recognition fails on race, government study says"
@@ -58,17 +49,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
         width: 700
         height: 367
-  - title: "Federal study finds race, gender bias in facial recognition technology"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning ... Hikvision and Tencent. Amazon, which markets face-scanning software to U.S ..."
-    publishedDateTime: 2019-12-19T23:43:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.usatoday.com/amp/2704291001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
   - title: "Facial recognition fails on race, suggests government study"
     excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
     publishedDateTime: 2019-12-20T12:29:00Z
@@ -204,21 +184,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
-  - title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
-    publishedDateTime: 2019-12-19T22:11:00Z
-    sourceUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html
-    ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
-        width: 700
-        height: 366
   - title: "Facial-Recognition Software Suffers From Racial Bias, U.S. Study Finds"
     excerpt: "A far-reaching government analysis of the most widely used facial recognition algorithms found most of them appeared to suffer from racial bias, misidentifying Asian- and African-Americans far more often than Caucasians."
     publishedDateTime: 2019-12-20T02:24:00Z
@@ -325,21 +290,19 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 66
-  - title: "Study Highlights Race & Gender Flaws in Facial Recognition"
-    excerpt: "(CN) — Asian Americans and black women are a few groups disproportionately likely to be get misidentified by facial-recognition software, a federal study published Thursday reports. A video surveillance camera hangs on a pole outside City Hall in Springfield, Mass., on Oct. 17, 2019. (AP Photo/Matt O’Brien) Taking more than 18 million ..."
-    publishedDateTime: 2019-12-19T22:25:00Z
-    sourceUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/
-    ampUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
-    cdnAmpUrl: https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
+  - title: "Federal study: Facial recognition systems most benefit middle-aged white males"
+    excerpt: "The US National Institute of Standards and Technology today released its 2019 report on facial recognition. And there are no surprises here, it’s just as dystopian as we’ve been warning you about all year. On the group’s conclusions, Patrick Grother, a NIST computer scientist and the report’s primary author, said: While it is usually ..."
+    publishedDateTime: 2019-12-19T23:14:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/19/federal-study-facial-recognition-systems-most-benefit-middle-aged-white-males/
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
     images:
-      - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
-        width: 1024
-        height: 635
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
+        width: 796
+        height: 419
   - title: "New study shows persistent racial bias in facial recognition"
     excerpt: "A new government study has found that racial bias is a persistent problem in facial recognition software. Released by the National Institute for Standards and Technology (NIST), the study found that racial minorities are significantly more likely to be misidentified than white individuals. Researchers analyzed 189 facial recognition algorithms ..."
     publishedDateTime: 2019-12-20T21:23:00Z
@@ -918,6 +881,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "P8Vx4D8rJuz7aGRLdJNfiGO9J41WqVbguJnJmCAHsoBKNWwiKbUUW0+2E1BGUYWiPdE0P++oDtcaX1PvRUOaWLFwJ0K3FHqahyqcMSsgyxQG3Rv/5xk51+oI/CG7pmEHn2u2vU9GaEKAEzZX+6Cfu6RfPxaL+v5280AXh6V5VUXjiBzjIBlXjH79nD+4OAgDbIookJOXMwafz+r3gmkytAcrfM0NwV1MSUSsVO8m2ga51htQxvpzwU7RF3sF8gaeAJMr+DAaVfGZi5APRml3Gw==;Uy8/M233QfSFBfv0dII5Dg=="
+secured: "+uYzcN6x3XLV/LIbD8Zpz2bHydXhWuR3HDqt7EVhTbQBjcO6vwlo0V7iQgJlO/fZiEqXMqqfTKhh8COdAGUJlMSuFqHZOCSnNG6v6CEApLWXZfi12hekrmpXGvSuW5E0jLihMHhrAKb67Nz3NOAi7Twnw/l4mQRynnokkfJA4ysIC6OyVBgmaLtzA/3zDrvBHrVHyo4oqu56p0uo4A2YCI7tOSY0aNpRk6DeRR0AGRqk3EulFWT/tUvg81godvc4+eG1ONvzfKpotIWOnFYfrA==;7v3IfszZTBiuNH2G/xWqmA=="
 ---
 
