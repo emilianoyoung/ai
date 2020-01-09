@@ -23,6 +23,6 @@ images:
     height: 393
     title: "Artificial intelligence and machine learning can be the backbones of a drug launch playbook"
 
-secured: "0rXyKYO2WR8GInA8w/sOqCo/4fD71ACdEmoyx5bh64D9m7El7Xjj2lqALst4HPfmPydFUusza9+Xl7Tp7fyp24LlwdQkWX7xDzkdwhphOshKgb1MuhURTnc8dMsDqgxM0dkoBhySmVbXr3rpPJuljOVHVYgibu495UgxjjLwgqew6UNTR8EIPq92PuBN9AHbiOLqMMWHMCl7/hgEme2fwYyjEFU9ClI8c0OYFkjFzjC2W1/2Gnl/qHlMVWGW+XVF+Atg4VsIl9Qrs9OEDp6jsg==;zW8h1SUhMbgRU+at9oe6bQ=="
+secured: "sIr0sKGErCYeyS4XaHBm239yeShzEuE+Mg/bvEuHZaxWsF+jgT4T+rOzmpEvW/V8cgIV7qVkB2rbOKMuiNQ4ncYEYCkB5kvs4ddpevueXzbf4dGmJuesS0x9QcIPP0sccGVICnoIya1b86dVV2rnQvtBBCg6vA7sQbUBBZyBRn9oC32DZ8wFpj0AQOCK47NlzrjiYEyEEGvMAyDvIfHqD9maTMBQHFvS1vUxfS/mILDBQ99oLKaPEAe84kSRuqpMsxFbl8ifoFINcOeCZgnGBg==;XXIgxKAMqSuORh58kHGuIA=="
 ---
 

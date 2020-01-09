@@ -7,8 +7,8 @@ sourceUrl: https://www.theregister.co.uk/2019/12/20/ibm_istio_knative_tensorflow
 ampUrl: https://www.theregister.co.uk/AMP/2019/12/20/ibm_istio_knative_tensorflow_should_be_under_open_governance/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/20/ibm_istio_knative_tensorflow_should_be_under_open_governance/
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Google AI
 
-secured: "aprpgv8XZoRGBvpbwY9iP106baPIu7ut7uJR10EjkYOBG+sLOz1K8nJ/eq4yjNyLcdlLizx+2ADhpVChqF5em+74zbD8Mcc8APKYf4xhvGw3O3F8eWL5ug0vKAH1oS0Jxd74cRL94QtlGu3454siaAmUzqqvDXC1656MZ+bgSxTGr+sm9FeYdC4OWt3YGUC8h2vJJEDOueKH2pD62QPKOSkvq64zyHoZ6yWsbVyaizwItzyIXtT5myr1jnb6TsmLZuTY2YPyDE8nYRrEYhdJiw==;aQlc3Z1/pdOuoYJLFcF73g=="
+images:
+  - url: https://www.bing.com/th?id=ON.EBB5F9A5CF3CAB20F7DB53148BDF79B7
+    width: 648
+    height: 448
+    title: "IBM to Google: Istio, Knative, TensorFlow should be under 'open governance'"
+
+secured: "Z+duZ3zsa7t3gb9SsgfSMxQtB3sVOUyrRk3E3m9vRajMMPkhlT0R3exZvaAGFDRqZ63BHwrvHSu5d883nKFMnaIXLRXsN65KAdX0TiBY7S9KO3El4rdrG/hiufCZ5NULH64wI666vPv5VEEEDKjIav+cMyXRQyOeqPe3InztPgBeEKnHWNUaHarBxR1JMt1YjSIvk7EibjHivLNgZsMkVPkpHwCDHXLQQFXk7iCQXak3Qm3KsjXn+tIjc3oEL8fEcH1pUu+djr5BKpfPxqcagw==;OktS/ndwQefOnIb6IhuKEQ=="
 ---
 

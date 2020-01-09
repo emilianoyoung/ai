@@ -65,21 +65,6 @@ related:
       - url: https://icdn2.digitaltrends.com/image/digitaltrends/tesla-model-3-red-2-1200x630-c-ar1.91.jpg
         width: 720
         height: 376
-  - title: "Elon Musk promises Tesla holiday software update with Full Self-Driving preview"
-    excerpt: "Remember when your car got you nothing for Christmas? If you own a Tesla, that's all behind you. Tesla CEO Elon Musk tweeted on Friday that a \"holiday software update\" is coming for Tesla, bringing an FSD (Full Self-Driving) preview. The update will also come with two new games: Stardew Valley and Lost Backgammon, as well as a few other ..."
-    publishedDateTime: 2019-12-20T09:06:00Z
-    sourceUrl: https://mashable.com/article/tesla-holiday-update-fsd/
-    ampUrl: https://mashable.com/article/tesla-holiday-update-fsd.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-holiday-update-fsd.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 85
-    images:
-      - url: https://mondrian.mashable.com/2019%252F12%252F20%252F12%252F1c0a887a9e2747f68c71386dd77d9ae8.dbd35.jpg%252F1200x630.jpg?signature=QlWeXGtn4lnpV4HbssIk-ipOnlo=
-        width: 1200
-        height: 630
   - title: "Tesla's latest update adds a full self-driving visualization preview, better voice commands, and more"
     excerpt: "The update has been in the works for some time now, but it's finally out now. It brings an early look at Tesla's full self-driving (FSD) tech, the new and improved \"Camping Mode,\" and various \"smart\" features. Let's start by digging a little deeper into the FSD preview, as it's simultaneously the most exciting and disappointing part of this update."
     publishedDateTime: 2019-12-26T20:11:00Z

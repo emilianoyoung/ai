@@ -90,21 +90,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "U.S. government study finds racial bias in facial recognition systems"
-    excerpt: "(Reuters) – Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-20T09:46:00Z
-    sourceUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/
-    ampUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.5735D51F98A8D2DE451D59ACE843323E
-        width: 700
-        height: 350
   - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
     excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
     publishedDateTime: 2019-12-23T03:14:00Z
@@ -241,21 +226,6 @@ related:
       - url: https://www.dailydot.com/wp-content/uploads/2019/12/facial-recognition-racial-bias.png
         width: 1000
         height: 500
-  - title: "Racial bias plagues facial recognition software, US agency finds"
-    excerpt: "A sweeping study backed by the US government found facial-recognition programs misidentify people of color far more frequently than white people, indicating racial bias plagues the software. Algorithms wrongly matched photos of black and Asian people 10 to 100 times more often than white people, according to the study from the US Department of ..."
-    publishedDateTime: 2019-12-20T09:13:00Z
-    sourceUrl: https://nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/
-    ampUrl: https://nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/amp/
-    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/amp/
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: https://thenypost.files.wordpress.com/2019/12/shutterstock_1160291101.jpg?quality=80&amp;strip=all&amp;w=1200
-        width: 2000
-        height: 1333
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology.PTI | December 21, 2019, 08:38 IST Washington: Facial recognition systems can produce wildly inaccurate ..."
     publishedDateTime: 2019-12-21T03:08:00Z

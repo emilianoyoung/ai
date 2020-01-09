@@ -1,27 +1,21 @@
 ---
 category: news
 title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
-excerpt: "LAS VEGAS, Jan. 8, 2020 /PRNewswire/ -- Today, iFLYTEK, one of the world's leading artificial intelligence (AI) and speech technology companies, unveiled a number of consumer and business products for the first time in the US."
-publishedDateTime: 2020-01-08T18:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/iflytek-asia-ai-leader-debuts-cutting-edge-voice-technologies-in-the-us-300983397.html
+excerpt: "Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice recognition, machine translation, and voice synthesis technologies. Jarvisen has an instant response rate of less than .5 seconds as well as a built in 2-year global data plan for coverage in ..."
+publishedDateTime: 2020-01-08T19:10:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-iflytek-asia-ai-leader-debuts-cutting-edge-voice-/2020/01/08/9078596.htm
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
 
 related:
   - title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
@@ -38,6 +32,6 @@ related:
         width: 1280
         height: 720
 
-secured: "lAsfZMSoIhYvl0VjlUE0sSh25zu+a7WyzOKmu9jHj8I3Q5ZMULs6Tszamw+XTG2BL9nb/j8iVL/o0PrMNVLcA4EW9gpFJiipwU2uAm+x+iy9sRfu8jpBfMsPYykPysnspfsD9bBfqjY0xPLn13KJcvKbkCLWFqOwPG2pxTTrUBMvkM7ZSF/C3NVyzTEoGggVWTnP6W0HSL/ddIYamYZntLzJUYiT6Dlz71xhfGXsdH0OO72yCZtmKkMK/Ilg9wO9TpyISfKVBdQAP3Z6C48zgg==;pvsjradmcGnuk+t1ykeUcA=="
+secured: "SO3SuH9sj49UJKd0E/RBXVc/bgxWXgZPJT+1Ioe5N02FjzYTsrhZcO1U26uG+ZDefD7nC0lFwM9seL6l0P/jXXJ+JI2MiTggonpUhqWaeV6Ajg/BnlmA77xiuDSsrQxj3YpbzEU2kCiYhqrsXz6TZwno5eD8bblr7vg7SbnrsRzVdBiK/nv7Tx6urARfnJb7/ZqVyUnhLlfbrstE9V11CeN1GNtimKvGJ1gNuxJ4JFqL46w6hGw2OJrmz4P7flaf+6tJyBVCKvY70XfE2qix+g==;GQbUAI1oUepQuBjrC1kTLA=="
 ---
 

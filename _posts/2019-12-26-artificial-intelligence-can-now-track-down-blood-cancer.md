@@ -1,9 +1,11 @@
 ---
 category: news
 title: "Artificial intelligence can now track down blood cancer"
-excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out on this topic and the results are available through. Thus, there is an enormous data pool. We have collected virtually everything that is currently ..."
-publishedDateTime: 2019-12-26T05:42:00Z
-sourceUrl: https://asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out on this topic and the results are available through."
+publishedDateTime: 2019-12-26T05:46:00Z
+sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
 quality: 39
 heat: -1
@@ -16,12 +18,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.AFC5BAD606C85D0FABC71CA45D521056
-    width: 700
-    height: 392
-    title: "Artificial intelligence can now track down blood cancer"
 
 related:
   - title: "Artificial intelligence tracks down leukemia"
@@ -92,6 +88,6 @@ related:
         width: 500
         height: 316
 
-secured: "kfR/lF0Ai3V5RT2GfKRaWbBYTmA2HyssDOikrF+2qpNGE2ztmPYZkYfSPZY+Rb2U5DV1L95hUzlwHMgQpVGqHJQ/8ZmD59CUMMK/6KNt6+FhuWzD9B+7sDCUVlrtQxYr3YeqIjRWT8ZbVgsQLgxdfK6FHVXUnbq7Td/2dkqw8DJRMHzqkY64904D9Tsx3sDZgkF85aaD5kJ0xfDeD030ASLrPJgoJOKJgjoO0S1zHoZYrPaO5g7BA7/31mJzSnX7dwmG38aOGcokeEBcPg+edQ==;YG0G0AZC3+3TooeEy/QhOQ=="
+secured: "bHIWqf6FdXcIS5IoXL1MHK94kbIcGwp1JGy4NAFhm4sU0Wk46hVDV9cPOsygTXwi4wzM4fAb/JyJGEkokD6XzbL0GtbwabL4Fg9NTi0PNjw6YSY/sI8S4Punc+SxwrHN4BdBEyILa4HSjsbla/pOngSiix8u0IFtzien3Be8w0bsjDtFq+TjS+A7kP2r5WaldS/ej7wpQzUACCLK5GhD++AizWVo0K7O3HdxdtTz5F90kOtsZ4u15yx43CanKEuHC8Mw5Sd1hXBpYE3p6jzMuQ==;yi5NT4apFzePJMpDSCJTiQ=="
 ---
 

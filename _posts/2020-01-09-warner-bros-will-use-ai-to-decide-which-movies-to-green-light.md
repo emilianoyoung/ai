@@ -44,7 +44,22 @@ related:
       - url: https://www.bing.com/th?id=ON.E8478C17F9F1E92CBEE6A9B644DE51FD
         width: 700
         height: 367
+  - title: "Warner Bros. signs AI startup to help decide which films to back"
+    excerpt: "“right now, an AI cannot make any creative decisions” “Artificial intelligence sounds scary. But right now, an AI cannot make any creative decisions,” Queisser told THR. “What it is good at is crunching numbers and breaking down huge data sets and showing patterns that would not be visible to humans. But for creative decision ..."
+    publishedDateTime: 2020-01-09T10:38:00Z
+    sourceUrl: https://www.theverge.com/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.4B3EEC6ABCD0C42E12CB70FB4C5DD0A0
+        width: 700
+        height: 366
 
-secured: "N5WCuFN7wdZnr9l1houTzOFjacDAfoiwly/HCPATZ0SnoYXx3LsCEz4wVbBTLSeA9I7qtJ+847utKeVyEk2/9qeBXUADVeVmotL41A2vrPCyvW1C/UAcRBVRLJFjpVBd2oFef3q6U9TWa8SubDa+P5afCvwtK3HTtHL0Rj2xTpg+s57a5MDkW8ghJpXgaNfwENT1hUUp42s/LTNrzl5DEf1P8PncyXuDEiZslYqgWilFjCEbDQ694iHF7o2Ap+fCBKyatdiTadgDj9HDEUNHYA==;HCzGc21n9JMLTfUrVN23Zw=="
+secured: "fWOVzL+AbJoZr4+lw8/BJtORqg9Dne3J/D485PE+taOZ3JQT/f9Vtb6wd+z35JbA9LrOkGEoq7Rqmf87kvikHxF5mWWSemwc/UCJzU2gDIGPGA15vVHQJAo+oyDEu+uSFZNyuQsrE6tmP28P8ACxcU51Ba8UM1kRkchu0yE4IXrYB9zFBDKuqkp8u6THpuuunD8NpCW5t/uEd6g346NLM0LgMkhcFTxCBA0bHUAnSV8bmbPUjNH9wf91886UgODTqqHaEdQCGyLh6SEQp1T1RA==;EmbZ8UrqAKy9iy/7UpcNqg=="
 ---
 

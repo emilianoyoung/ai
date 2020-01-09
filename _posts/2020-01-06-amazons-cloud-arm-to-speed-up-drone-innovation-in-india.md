@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B037A958CDA8419711760C36ED81C656
         width: 700
         height: 518
+  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
+    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
+    publishedDateTime: 2020-01-08T05:29:00Z
+    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.820DBC9D9B739CF5F2CF93320F921140
+        width: 599
+        height: 450
   - title: "Amazon's Cloud arm to drive drone innovation in India"
     excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-07T01:10:00Z

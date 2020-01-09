@@ -75,21 +75,6 @@ related:
       - url: https://icdn2.digitaltrends.com/image/digitaltrends/tesla-model-3-red-2-1200x630-c-ar1.91.jpg
         width: 720
         height: 376
-  - title: "Elon Musk promises Tesla holiday software update with Full Self-Driving preview"
-    excerpt: "Remember when your car got you nothing for Christmas? If you own a Tesla, that's all behind you. Tesla CEO Elon Musk tweeted on Friday that a \"holiday software update\" is coming for Tesla, bringing an FSD (Full Self-Driving) preview. The update will also come with two new games: Stardew Valley and Lost Backgammon, as well as a few other ..."
-    publishedDateTime: 2019-12-20T09:06:00Z
-    sourceUrl: https://mashable.com/article/tesla-holiday-update-fsd/
-    ampUrl: https://mashable.com/article/tesla-holiday-update-fsd.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-holiday-update-fsd.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 85
-    images:
-      - url: https://mondrian.mashable.com/2019%252F12%252F20%252F12%252F1c0a887a9e2747f68c71386dd77d9ae8.dbd35.jpg%252F1200x630.jpg?signature=QlWeXGtn4lnpV4HbssIk-ipOnlo=
-        width: 1200
-        height: 630
   - title: "Musk: Holiday Tesla Preview Adds 'Starview Valley,' Self-Driving Preview"
     excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
     publishedDateTime: 2019-12-20T15:30:00Z
