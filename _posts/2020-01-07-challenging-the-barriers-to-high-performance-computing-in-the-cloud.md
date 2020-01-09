@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B117FBA51EF921F1BAECED5D8455AC64
         width: 700
         height: 466
+  - title: "Microsoft and dunnhumby Strike Global Strategic Partnership to Transform $5.9 Trillion Retail Market"
+    excerpt: "The processing power of Azure and the machine-learning data science of dunnhumby can offer the right insights at the right time, so action can be taken quickly on business performance, new trends and innovation, brand switching and loyalty. “This partnership will empower more retailers and brands across the globe to more effectively compete ..."
+    publishedDateTime: 2020-01-09T15:41:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200109005567/en/Microsoft-dunnhumby-Strike-Global-Strategic-Partnership-Transform
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.297D45CF2F12CF6804D8D2C3B1F084EF
+        width: 700
+        height: 365
   - title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
     excerpt: "When applied in payment transactions using mobile phones or devices that need no bank details, bank cards or cashiers, the payment is carried out via facial recognition. This requires an extremely reliable and secure image and return transmission of the high-resolution 3D image data. The same applies to securely unlocking devices with a 3D image."
     publishedDateTime: 2020-01-08T06:50:00Z

@@ -47,16 +47,14 @@ related:
       domain: benzinga.com
     quality: 14
   - title: "Transgene and NEC Start Two Clinical Trials with TG4050, an Individualized AI-Powered Cancer Vaccine for Ovarian and Head & Neck Cancers"
-    excerpt: "\"As each patient's cancer is unique, we have developed a therapy that turns their solid tumor's genetic signature into a ... Our partnership with NEC ensures that TG4050 is benefitting from its world-leading expertise in artificial intelligence and its unique algorithm that is used to select up to 30 patient-specific antigens that allow this ..."
-    publishedDateTime: 2020-01-07T05:30:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15082025/transgene-and-nec-start-two-clinical-trials-with-tg4050-an-individualized-ai-powered-cancer-vaccin
-    ampUrl: https://amp.benzinga.com/amp/content/15082025
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15082025
+    excerpt: "“As each patient’s cancer is unique, we have developed a therapy that turns their solid tumor’s genetic signature into ... Our partnership with NEC ensures that TG4050 is benefitting from its world-leading expertise in artificial intelligence and its unique algorithm that is used to select up to 30 patient-specific antigens that allow ..."
+    publishedDateTime: 2020-01-07T07:23:00Z
+    sourceUrl: https://www.sharewise.com/us/news_articles/Transgene_and_NEC_Start_Two_Clinical_Trials_with_TG4050_an_Individualized_AIPowered_Cancer_Vaccine_Transgene_BusinessWireEN_20200107_0800.html
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
+      name: sharewise.com
+      domain: sharewise.com
+    quality: 0
 
 secured: "IjgeSJ3voXPWezmaUt1WS66oSciQjGTMyeBQwRjxQ85cPDg4XsH5O1+gVfN8FMxlkNAjtslpgjdoFu6Xg1PlEZCBOmyvQYnwP+HOsS4VlGHd1aFSi2EKD/+ZDhDq3HIRFDuZWZrW/JZvuscQcSFgjefp8Bc2JR5bw6k5TBYHm49cVz+4IKYyW/2ejeCb7xzcow75fxQybuyflwxOHoBK5ZcJQ3Yh9pH+lL2UYFTigobM3z7n6peas432cnNm/3r4wRcWU8Q3NxhsGKu5PTQmlw==;4/rBVIoOjPd34WZLV3yjtA=="
 ---

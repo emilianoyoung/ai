@@ -2,22 +2,21 @@
 category: news
 title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
 excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence chipset market is anticipated to grow at a CAGR of 30."
-publishedDateTime: 2020-01-09T11:39:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15097326/global-artificial-intelligence-ai-chipsets-market-outlook-2019-2025-projecting-a-cagr-of-30-8
-ampUrl: https://amp.benzinga.com/amp/content/15097326
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15097326
+publishedDateTime: 2020-01-09T12:38:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968370/0/en/Global-Artificial-Intelligence-AI-Chipsets-Market-Outlook-2019-2025-Projecting-a-CAGR-of-30-8.html
 type: article
-quality: 55
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
-  - AI Hardware
+  - AI in Robotics
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
@@ -224,6 +223,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "qpfRoXOgidmZ557SZphLtFm9OGt0uBU2AQ8RcGvKLevjSJpmxEFl6QcpV1S3ouyCTAzSrKkdEuozUx/kFw7MjLXXQdoxLMEjeV7W8Q/uBna1OZSXPWkWchd428BJzV3ucfxGYCD2G/TCdoyG62DUtC9TAFQbi+yCRAXjkP8QGJETRi3peySYOgRig7hftkw18LeVWU1WyGgGhLtxczOIxFdSDPpnIh6ntpHSDciGUkgivOq+wPxGndhv4N72Xrt+hj6MqWOfoLe9CpxQBJjzgg==;ylJGcuSfIiuXEW8meWvOUA=="
+secured: "mcV5kjrxkgroLeznCEXh7pgJPm8dMJeIsRq6u/o59fAOEtOLPX0c0Sv3RfpsI6dOkeFfYRWgl7S0DZ0t2QUrv9JZQNpWApLFIWLk612xskVKFnSL7EyOq65yuReHsmgKyCcHWzBiUKeuGCw9k5ByeV7O6cN42KIvFEVdnfJgMrd9n+GrzwGXpkSDrOo0euWiyveZ8OdlZamVyxk1gmnxlQyv+G/f1EyY85UOwyvFDGakYHg+oRXptJNfxbKfr0lUaS4nUiWyJyQkaz5HR9S7wA==;TmPNZvz/IvctmIzlVcPnmA=="
 ---
 

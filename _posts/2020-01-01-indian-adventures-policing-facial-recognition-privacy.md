@@ -80,21 +80,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "San Francisco tweaks facial recognition ban that made it illegal for city employees to use iPhones"
-    excerpt: "In brief: The San Francisco administration's ban on the use of facial recognition has had the surprising side effect of making devices like newer iPhones illegal to use by municipal workers. Officials are now tweaking the law to allow their use while still maintaining a strict ban on using facial recognition features. While San Francisco may ..."
-    publishedDateTime: 2019-12-24T14:53:00Z
-    sourceUrl: https://www.techspot.com/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    ampUrl: https://www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 75
-    images:
-      - url: https://www.bing.com/th?id=ON.20DF6FECEB2272EB3F1189F933313BF2
-        width: 700
-        height: 490
   - title: "Fight against facial recognition hits wall across the West"
     excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
     publishedDateTime: 2019-12-30T10:09:00Z
@@ -140,21 +125,6 @@ related:
       - url: https://timesofindia.indiatimes.com/blogs/wp-content/themes/blogstheme/images/blog-facebook.jpg
         width: 330
         height: 300
-  - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
-    excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
-    publishedDateTime: 2019-12-28T07:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
-    ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
-        width: 700
-        height: 437
   - title: "Use of facial recognition in Delhi rally sparks privacy fears"
     excerpt: "MUMBAI, Dec 30 (Thomson Reuters Foundation) - Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi ..."
     publishedDateTime: 2019-12-31T01:02:00Z
@@ -179,19 +149,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3C6A6E3A327EE61A854A5220D80582FB
         width: 700
         height: 393
-  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-27T18:59:00Z
-    sourceUrl: https://cn.reuters.com/article/usa-crime-face-idCNL4N28U2B2
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
-        width: 1200
-        height: 630
   - title: "Facial recognition software biased against Asians and black people, major US government study finds"
     excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
     publishedDateTime: 2020-01-01T22:28:00Z
@@ -205,21 +162,6 @@ related:
     quality: 60
     images:
       - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
-        width: 700
-        height: 367
-  - title: "Facial recognition technology needs proper regulation"
-    excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
-    publishedDateTime: 2019-12-28T15:15:00Z
-    sourceUrl: https://www.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    ampUrl: https://amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
         width: 700
         height: 367
   - title: "Police using facial recognition system to identify protesters"
@@ -297,21 +239,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BCB987D9737A053CBC755F779067C1E9
         width: 340
         height: 700
-  - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
-    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
-    publishedDateTime: 2019-12-27T18:45:00Z
-    sourceUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html
-    ampUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
-    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
-        width: 700
-        height: 455
   - title: "FaceMe Facial Recognition To Be Used With IMedtac’s Meds Dispensing Cabinet"
     excerpt: "Now that the world has welcomed a new decade, artificial intelligence and facial recognition still continue to be at the forefront of all the latest innovations among tech companies. iMedtac is a company that offers high-tech patient-oriented solutions. Among its products is the smart medicine cabinet that requires at least two pharmacists to ..."
     publishedDateTime: 2020-01-04T04:06:00Z
@@ -327,6 +254,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6CA2457D4897111EC3EA4920BC840C2B
         width: 650
         height: 370
+  - title: "New face recognition feature at airport"
+    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
+    publishedDateTime: 2019-12-23T23:56:00Z
+    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
+        width: 700
+        height: 466
   - title: "Ruti Overcomes In-Store Personalization Challenge With Opt-In Facial Recognition"
     excerpt: "The retailer is taking steps to accomplish this goal by personalizing the in-store shopping experience with a proprietary AI-powered platform that leverages an internally built CRM solution and opt-in-only facial recognition. With this technology deployed across nine boutiques (and a 10 th soon to open in Dallas), Ruti can offer personalized ..."
     publishedDateTime: 2020-01-03T11:00:00Z
@@ -368,36 +308,6 @@ related:
       - url: https://www.bing.com/th?id=ON.63591F20A6E418B7A9CED80ACDCEAB8C
         width: 700
         height: 393
-  - title: "Grill thief arrested after photo ran through facial recognition software, police say"
-    excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
-    publishedDateTime: 2019-12-27T21:15:00Z
-    sourceUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/
-    ampUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
-    cdnAmpUrl: https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
-        width: 700
-        height: 393
-  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
-    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
-    publishedDateTime: 2019-12-29T11:40:00Z
-    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
-    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-    type: article
-    provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
-        width: 700
-        height: 350
   - title: "State civil liberties union trying to put a stop to facial recognition system in Lockport"
     excerpt: "LOCKPORT, N.Y. (WIVB)–The New York Civil Liberties Union is now trying to put a stop to the facial recognition system in Lockport City Schools. After months of preparation, the school district finally began using the system yesterday in the hopes it will recognize the faces of sex offenders or red-flag certain adults who are not allowed in ..."
     publishedDateTime: 2020-01-03T22:41:00Z
@@ -467,19 +377,36 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 45
-  - title: "Researchers: Printed masks can fool facial recognition systems"
-    excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
-    publishedDateTime: 2019-12-24T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/researchers-printed-masks-can-fool-facial-recognition-systems/
+  - title: "Many facial-recognition systems are biased, says U.S. study"
+    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
+    publishedDateTime: 2019-12-26T08:35:00Z
+    sourceUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
+    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
+    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
     type: article
     provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
-        width: 300
-        height: 170
+      - url: https://www.bing.com/th?id=ON.609F48C5B2B4CF46E1AB4A33371D98B6
+        width: 700
+        height: 649
+  - title: "Many facial-recognition systems are biased, says U.S. study"
+    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
+    publishedDateTime: 2019-12-27T00:10:00Z
+    sourceUrl: https://www.orlandosentinel.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
+    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
+    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.2A327A7CD94E84CAAE98946A889EE373
+        width: 700
+        height: 649
   - title: "Facial recognition is coming. Get used to it."
     excerpt: "Land Line recently heard from a driver. “What do you think about mandatory facial recognition?” he asked on our Facebook page. Facial recognition is the complex digital technology that identifies individuals from the characteristics of their faces. “Today, driving through to show my card the guy told me I needed to do a face recognition ..."
     publishedDateTime: 2019-12-30T19:49:00Z
@@ -699,19 +626,6 @@ related:
       - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
         width: 700
         height: 393
-  - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
-    excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
-    publishedDateTime: 2019-12-28T03:56:00Z
-    sourceUrl: https://www.wftv.com/news/local/florida-law-enforcement-agencies-use-facial-recognition-identify-alleged-thief/SGHPUGB5W5CX3FYVSLU7P6EV7I/
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
-        width: 700
-        height: 366
   - title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
     excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
     publishedDateTime: 2019-12-29T00:05:00Z
@@ -807,6 +721,19 @@ related:
       - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
         width: 600
         height: 315
+  - title: "Federal study finds racial bias of many facial-recognition systems"
+    excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
+    publishedDateTime: 2019-12-24T16:06:00Z
+    sourceUrl: https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12296532
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
+        width: 700
+        height: 465
   - title: "Police Use Face-Recognition Software as India Protests Intensify"
     excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
     publishedDateTime: 2019-12-28T05:22:56Z

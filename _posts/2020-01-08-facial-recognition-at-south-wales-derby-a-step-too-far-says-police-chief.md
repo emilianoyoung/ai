@@ -8,7 +8,7 @@ ampUrl: https://amp.theguardian.com/technology/2020/jan/08/facial-recognition-at
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief
 type: article
 quality: 57
-heat: 98
+heat: 97
 published: true
 
 provider:

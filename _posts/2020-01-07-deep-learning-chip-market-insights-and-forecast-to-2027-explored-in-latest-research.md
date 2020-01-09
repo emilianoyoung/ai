@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T12:27:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
 type: article
 quality: 80
-heat: 280
+heat: 290
 published: true
 
 provider:
@@ -103,6 +103,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Deep Learning Chipset Market: Incredible Possibilities, Growth with Industry Study, Detailed Analysis and Forecast To 2025"
+    excerpt: "The Big Market Research has recently added a new survey report to their vivid and dynamic database. They have formulated this report by taking into consideration all the key aspects that tend to have an impact on the global Deep Learning Chipset Market share,"
+    publishedDateTime: 2020-01-09T14:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-to-2025-2020-01-09
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

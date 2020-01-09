@@ -107,6 +107,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Deep Learning Chipset Market: Incredible Possibilities, Growth with Industry Study, Detailed Analysis and Forecast To 2025"
+    excerpt: "The Big Market Research has recently added a new survey report to their vivid and dynamic database. They have formulated this report by taking into consideration all the key aspects that tend to have an impact on the global Deep Learning Chipset Market share,"
+    publishedDateTime: 2020-01-09T14:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-to-2025-2020-01-09
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
     excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
     publishedDateTime: 2020-01-07T12:06:00Z

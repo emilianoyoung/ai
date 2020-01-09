@@ -93,17 +93,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
-    excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence chipset market is anticipated to grow at a CAGR of 30."
-    publishedDateTime: 2020-01-09T11:39:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15097326/global-artificial-intelligence-ai-chipsets-market-outlook-2019-2025-projecting-a-cagr-of-30-8
-    ampUrl: https://amp.benzinga.com/amp/content/15097326
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15097326
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
   - title: "Intel confirms 'Tiger Lake' is the next Intel Core processor you need to care about"
     excerpt: "Melissa Riofrio/IDG Intel unveiled DG1, its first discrete GPU for consumers, at its press conference January 6 at CES in Las Vegas ... The theme was “Innovation through Intelligence,” representing the addition of AI from the edge to the cloud. Intel chief executive Bob Swan walked through a series of announcements focusing on the enterprise."
     publishedDateTime: 2020-01-07T03:23:00Z
@@ -200,6 +189,15 @@ related:
       - url: https://www.bing.com/th?id=ON.7E89A094CF2A3F222604FE04DDF837C1
         width: 700
         height: 364
+  - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
+    excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence chipset market is anticipated to grow at a CAGR of 30."
+    publishedDateTime: 2020-01-09T12:38:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968370/0/en/Global-Artificial-Intelligence-AI-Chipsets-Market-Outlook-2019-2025-Projecting-a-CAGR-of-30-8.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 22
   - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
     excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
     publishedDateTime: 2020-01-09T12:45:00Z

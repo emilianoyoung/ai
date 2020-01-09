@@ -44,6 +44,36 @@ related:
       - url: https://www.bing.com/th?id=ON.E8478C17F9F1E92CBEE6A9B644DE51FD
         width: 700
         height: 367
+  - title: "No, Warner Bros. is not letting AI decide what movies it makes"
+    excerpt: "Numerous other outlets picked up the story, sending Twitter and Reddit users into a tizzy as film fans began panicking that AI—and not humans—will soon decide whether or not certain films get made. The truth is not quite so dire, but it does highlight the growing relationship between technology and Hollywood. Cinelytic, an analytics and ..."
+    publishedDateTime: 2020-01-09T15:25:00Z
+    sourceUrl: https://qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/
+    ampUrl: https://qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/amp/
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.68DDD0D7F7B26DF7EEF6685CBD4949D5
+        width: 700
+        height: 393
+  - title: "Please Leave AI Out of the Movie Business"
+    excerpt: "But saying “Yes” or “No” to the existence of a film project isn’t the end of the creative process—it’s the beginning. Casting is a huge part of making a film that AI can potentially disrupt in a way that whitewashes movies, brands performers who have appeared in a box office disappointment or two with a scarlet letter, and makes ..."
+    publishedDateTime: 2020-01-09T15:35:00Z
+    sourceUrl: https://www.popularmechanics.com/culture/movies/a30455274/artificial-intelligence-movies/
+    ampUrl: https://www.popularmechanics.com/culture/movies/amp30455274/artificial-intelligence-movies/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/culture/movies/amp30455274/artificial-intelligence-movies/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.A8382A7A2205BB5A04C9231204D5787D
+        width: 700
+        height: 350
   - title: "Warner Bros. signs AI startup to help decide which films to back"
     excerpt: "Storied film studio Warner Bros. has signed a deal with Cinelytic, an LA startup that uses machine learning to predict film success. The studio will use Cinelytic’s algorithms “to guide decision-making at the greenlight stage,"
     publishedDateTime: 2020-01-09T10:38:37Z
@@ -71,6 +101,6 @@ related:
         width: 700
         height: 466
 
-secured: "u8i/g3nyDICPu3PuCxfHOB6eBT71RbMDLImdhvq0Zue9+uSGUtwaPhDlq3nReESPFCfMfGs47Vo0HwuzeAiroeQe+rBfscXN3Oi5VynYpNH1rV9LCqXri1vMNfVOIbMCfeS0f8rSwgiUbKX3g47WP2W7/7MXEooPR6OuvwNls6DTf5CSlwKn0aCUdcMTJ0MdFN8L899egK7SUbp11AMgmlnwTasCXWkkFPboYqaZ91r47JMJRVP/ooqXSW0d1XjuRXRTBXbxdBrXxDZtOti3qg==;quj6qiQx6vVPtstTElEFWQ=="
+secured: "NHQDfBhvXknOzAapRrKuiX7rddlrgk9456P+1oY4eG18axuHR9YSY++c4DPrf/UWb68KDnOSwP+myhRJS15l1OLJpUT0bxh0LSpbQfss+/Pwk+MQFYDT0FvW9GKh0FFUSLbdHBeIaI4oImxgqasfCa/J4ZswZV3TWNFehTh1sNmMkuWu8qxtE0WUFwAXSZuyobDXlhwAbyarRdLou+NksI5hsym7MxF+U8zrqYOfxHF4D3r6nYSsESLmRnk3PtHRNRfFNKj0fgBsFxqPPxwQeQ==;yT7m0+KabN4l3Xt7s9emHg=="
 ---
 

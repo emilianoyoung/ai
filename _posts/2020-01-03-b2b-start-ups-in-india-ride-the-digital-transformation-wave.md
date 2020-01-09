@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.301EF59C680A7AF40C7EB5F7BE657899
         width: 600
         height: 315
+  - title: "Microsoft and dunnhumby Strike Global Strategic Partnership to Transform $5.9 Trillion Retail Market"
+    excerpt: "The processing power of Azure and the machine-learning data science of dunnhumby can offer the right insights at the right time, so action can be taken quickly on business performance, new trends and innovation, brand switching and loyalty. “This partnership will empower more retailers and brands across the globe to more effectively compete ..."
+    publishedDateTime: 2020-01-09T15:41:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200109005567/en/Microsoft-dunnhumby-Strike-Global-Strategic-Partnership-Transform
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.297D45CF2F12CF6804D8D2C3B1F084EF
+        width: 700
+        height: 365
   - title: "Challenging the barriers to High Performance Computing in the Cloud"
     excerpt: "Access to new and evolving services and applications make it easy to evolve and modernize workflows, like incorporating Artificial Intelligence (AI) with HPC ... innovation without constraints by delivering faster results and improved flexibility. AWS gives organizations the power to create HPC clusters on demand, instead of waiting for ..."
     publishedDateTime: 2020-01-07T21:03:00Z

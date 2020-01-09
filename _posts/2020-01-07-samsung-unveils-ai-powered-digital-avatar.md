@@ -23,34 +23,21 @@ images:
     title: "Samsung unveils AI-powered digital avatar"
 
 related:
-  - title: "Samsung unveils tiny robot Ballie that follows users around and acts as their personal AI assistant"
-    excerpt: "Samsung have unveiled a tiny robot assistant in the shape of a ball ... Instead of calling it a virtual assistant or artificial intelligence, the company has used phrases like 'artificial human' or 'artificial intelligence being.'"
-    publishedDateTime: 2020-01-07T05:54:00Z
-    sourceUrl: https://www.dailymail.co.uk/news/article-7859615/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
-    ampUrl: https://www.dailymail.co.uk/news/article-7859615/amp/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7859615/amp/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
+  - title: "Soul Machines raises $40 million for AI-powered customer-facing digital avatars"
+    excerpt: "Plus, it’s worth noting that AI-generated high-fidelity avatars aren’t exactly the most novel thing on the planet. In November 2018, during China’s annual World Internet Conference, state news agency Xinhua debuted a digital version of anchor Qiu Hao — Xin Xiaohao — capable of reading headlines around the clock. Startup Vue.ai ..."
+    publishedDateTime: 2020-01-09T15:48:00Z
+    sourceUrl: https://venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/
+    ampUrl: https://venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/amp/
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 60
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/07/05/23089022-0-image-a-111_1578376235410.jpg
-        width: 636
-        height: 382
-  - title: "Samsung CES keynote highlight? A robot ball that follows you around the house"
-    excerpt: "Samsung's CES 2020 keynote was odd - it wasn't about product at all. The future of the smart home, the smart city, the smart car... that was all covered, but nothing about TVs, phones or things we're used to seeing."
-    publishedDateTime: 2020-01-07T05:08:41Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-ces-keynote-highlight-a-robot-ball-that-follows-you-around-the-house/ar-BBYGxq7
-    type: article
-    provider:
-      name: TechRadar on MSN.com
-      domain: msn.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.8363229AA8A56F4ADE46E4C2E7AE9470
+      - url: https://www.bing.com/th?id=ON.E270B502A305B5F2AA98C60E9660377D
         width: 700
-        height: 367
+        height: 350
 
 secured: "lEagMDgLH3sAlj8ZNqFlLpKRmxT9Ryp7/EjHnYYXVIO8tJST3A1OsqhxBxFlmkrqk6aojUNc9Kqx87oxTVYsNWLpWPWkqqKo+roV28Hf9YiHajnEd9npMoQNjQV5TqmNJA12EG+sQPOwawk+d5VN7oOoJMc+7v+ZCrO94RKq30ZqqQLA/dhjgPVFTmwYwLTzlAJYyThjlVByJRtOMlHgFK5BMCMbsQ6h1gY4sSKcuvslNvjz/f+l7TGPAlxEPVXTp11Pb3yAKx4B9M1QMCRaNA==;ZZtRs8Iv38dLgvtH3C4WiA=="
 ---
