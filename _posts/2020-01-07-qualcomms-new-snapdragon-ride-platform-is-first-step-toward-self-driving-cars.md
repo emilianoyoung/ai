@@ -226,6 +226,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
         width: 580
         height: 358
+  - title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge of technology"
+    excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
+    publishedDateTime: 2020-01-10T00:05:00Z
+    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html
+    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
+        width: 700
+        height: 466
   - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
     excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
     publishedDateTime: 2020-01-08T11:16:00Z

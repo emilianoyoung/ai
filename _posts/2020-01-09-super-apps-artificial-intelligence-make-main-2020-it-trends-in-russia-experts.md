@@ -28,6 +28,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 0
+  - title: "Stefanini participates in the 2020 Davos World Economic Forum and brings its experience in Artificial Intelligence"
+    excerpt: "SÃO PAULO, Jan. 09, 2020 (GLOBE NEWSWIRE) -- In the year in which it reaches its 50th anniversary, the World Economic Forum, a big annual event that reunites the main leaderships and authorities of the planet in the political and economic scenes will count on Stefanini’s participation,"
+    publishedDateTime: 2020-01-10T00:33:00Z
+    sourceUrl: https://finance.yahoo.com/news/stefanini-participates-2020-davos-world-205036397.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "IPgPsbBU0hyOmbQaWIXG1NS13a1Pix2lrnpEzQJsFDip/9WwaA6si84CKjvkGnx6iSeOuTsFiMRmdNaF+Zs3gNn6NFvd907pgdnTVxlRF4ibrq2JFtDA5Cu1F2grW9jrUNMgW7CjSZl8TpJlWbU34SId9f46H0DLQHk09Q1sMx+iQQffVN1sbvNKhxylCHTDAWAWiASNsBRrGpgC+SsBVs1daqt9gYweWKZzuORXfXWixXGjBomwXKIi3uyChX/7aBvalOcSF6MbcPaQYfC7+Q==;SWht92CcY+VkTE7tWmp1qg=="
 ---

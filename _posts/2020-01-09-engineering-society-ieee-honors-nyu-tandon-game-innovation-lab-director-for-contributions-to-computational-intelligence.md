@@ -37,6 +37,17 @@ related:
       - url: https://www.bing.com/th?id=ON.D10AC6698E38D6872C55CC7EED2619C7
         width: 450
         height: 308
+  - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
+    excerpt: "BROOKLYN, New York, Jan. 09, 2020 -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate."
+    publishedDateTime: 2020-01-10T00:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/engineering-society-ieee-honors-nyu-191736520.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/engineering-society-ieee-honors-nyu-191736520.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/engineering-society-ieee-honors-nyu-191736520.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "dBZo59y+li4yHzsLSzV6k1VFikdVtyWLjYbhRE6A3fa6qiXW9gsuyDCU4HD2s0sSRE/4azREngdzYH5oo4ejnGqkPz1nRvp6cr1SbtcDTtvtYAxq0T1VLWTEQUW9U4FUE/4mhTq0a4XdULMi22tV8vuc8fGmNU2Ka/cKETaMvrtGQrdZOXt92X7cQZk3ShuOP9K4dpsM9wKCe9fTe5H+2ijvT2GRpmmIckhGV3TRKkrMStRIHEjT5pV5inyuAaTBEKbv8po1s0t4ECEsXh2CjA==;yqRfeNKLBu5O11nW5BKW9g=="
 ---

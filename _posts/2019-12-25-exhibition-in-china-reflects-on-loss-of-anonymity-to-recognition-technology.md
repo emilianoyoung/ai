@@ -24,19 +24,19 @@ images:
     title: "Exhibition in China reflects on loss of anonymity to recognition technology"
 
 related:
-  - title: "Speech recognition and synthesis sample"
-    excerpt: "Shows how to use Speech Recognition and Speech Synthesis (Text-to-speech) in UWP apps. In addition, translations are shown for speech recognition and text-to-speech for supported languages. Translations provided may not be using ideal phrasing and are provided for demonstration purposes only. Some speech recognition features require acceptance ..."
-    publishedDateTime: 2019-12-21T22:35:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/samples/microsoft/windows-universal-samples/speechrecognitionandsynthesis/
+  - title: "China's iFlytek claims breakthrough in AI-powered voice recognition"
+    excerpt: "XI'AN, China -- Chinese artificial intelligence startup iFlytek says it has developed AI-powered technology that can accurately identify a person by his or her voice, for use in law enforcement. The company expects to be able to roll out a voiceprint recognition system nationwide in two to three years, said Fu Zhonghua, the deputy head of ..."
+    publishedDateTime: 2019-12-24T22:12:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Technology/China-s-iFlytek-claims-breakthrough-in-AI-powered-voice-recognition
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: NIKKEI
+      domain: nikkei.com
     quality: 39
     images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
+      - url: https://www.bing.com/th?id=ON.EC4CA47A0C4F9DE6A989C0B80863FF0E
+        width: 700
+        height: 350
 
 secured: "iGToFwWQ7zocsWPO6bP/fcCxXrEOpWZekEda3//G8YcNHeHzCFPkY6BjSMUootJiWiZgCp1ilmNn/jTgbTuI1aDGnA+lyXACnT6eURbvEvTYn67mr5P8QAw/12PRoyaztwio5JpwpzuC4pZjOjQh6o8dGm9a1Xhwnj0iUnRS+oDM2nD/uYF2EX1d1siQWxYJFMHaVWgLzVPbI9q6xLmDdALbGvN0oGzipG62RND9BfFCaRZ4FarVQiC3lQ4HNFeRMtduifznhFVB99kNIaqEAg==;WD2N9ujNFpJD+UdM6/xQ5g=="
 ---

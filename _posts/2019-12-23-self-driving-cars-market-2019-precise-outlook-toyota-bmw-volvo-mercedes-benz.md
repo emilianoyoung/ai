@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
         width: 700
         height: 366
-  - title: "U.S. Talks With GM Over Deploying Self-Driving Cars Without Steering Wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-20T23:12:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/20/business/20reuters-autos-autonomous-exclusive.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 52
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
     excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
     publishedDateTime: 2019-12-21T01:44:00Z
@@ -153,15 +140,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
         width: 700
         height: 393
-  - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
-    publishedDateTime: 2019-12-20T23:43:00Z
-    sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
   - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
     excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
     publishedDateTime: 2019-12-21T21:51:00Z

@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.297D45CF2F12CF6804D8D2C3B1F084EF
         width: 700
         height: 365
+  - title: "Microsoft forms global strategic partnership with customer data science experts dunnhumby to transform retail sector"
+    excerpt: "The processing power of Azure and the machine learning data science of dunnhumby can offer the right insights at the right time, so action can be taken quickly to support improved company performance, new trends and innovation, brand switching and loyalty. “This partnership will empower more retailers and brands across the globe to more ..."
+    publishedDateTime: 2020-01-09T23:24:00Z
+    sourceUrl: https://news.microsoft.com/en-gb/2020/01/09/microsoft-forms-global-strategic-partnership-with-customer-data-science-experts-dunnhumby-to-transform-retail-sector/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.1FBB8627EF819CB92F49ADA235B57D83
+        width: 700
+        height: 393
   - title: "Challenging the barriers to High Performance Computing in the Cloud"
     excerpt: "Access to new and evolving services and applications make it easy to evolve and modernize workflows, like incorporating Artificial Intelligence (AI) with HPC ... innovation without constraints by delivering faster results and improved flexibility. AWS gives organizations the power to create HPC clusters on demand, instead of waiting for ..."
     publishedDateTime: 2020-01-07T21:03:00Z

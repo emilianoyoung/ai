@@ -190,21 +190,6 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72911022,imgsize-53302,width-800,height-434,overlay-ettelecom/massive-errors-found-in-facial-recognition-tech-us-study.jpg
         width: 800
         height: 434
-  - title: "Security Industry Association Applauds NIST Study on Facial Recognition"
-    excerpt: "Facial recognition is a fast-advancing technology in a constant cycle of improvements and is widely adopted across the public and private sectors. Reports from non-biased organizations like NIST are immensely valuable. SIA commends NIST for encouraging research organizations to examine this issue comprehensively rather than publish incomplete ..."
-    publishedDateTime: 2019-12-21T00:04:00Z
-    sourceUrl: https://finance.yahoo.com/news/security-industry-association-applauds-nist-000000351.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/security-industry-association-applauds-nist-000000351.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/security-industry-association-applauds-nist-000000351.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for Asian and African ..."
     publishedDateTime: 2019-12-22T02:08:00Z

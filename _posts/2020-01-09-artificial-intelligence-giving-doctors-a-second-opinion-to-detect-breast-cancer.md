@@ -1,27 +1,30 @@
 ---
 category: news
 title: "Artificial Intelligence Giving Doctors A Second Opinion To Detect Breast Cancer"
-excerpt: "Using computer artificial intelligence is offering some exciting news about better early detection of breast cancer. Artificial intelligence, or AI as it’s called, is everywhere these days, reports CBS2’s Dr."
-publishedDateTime: 2020-01-09T23:03:22Z
-sourceUrl: https://www.msn.com/en-us/health/medical/artificial-intelligence-giving-doctors-a-second-opinion-to-detect-breast-cancer/ar-BBYNnmk
+excerpt: "Artificial intelligence, or AI as it’s called, is everywhere these days, reports CBS2’s Dr. Max Gomez. It’s what’s making driverless cars, smart vacuum cleaners and iPhone assistants possible. It’s also being put to more important uses saving lives, such as improving mammogram detection of breast cancer. Women are telling their ..."
+publishedDateTime: 2020-01-09T23:07:00Z
+sourceUrl: https://newyork.cbslocal.com/2020/01/09/artificial-intelligence-giving-doctors-a-second-opinion-to-detect-breast-cancer/
+ampUrl: https://newyork.cbslocal.com/2020/01/09/artificial-intelligence-giving-doctors-a-second-opinion-to-detect-breast-cancer/amp/
+cdnAmpUrl: https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/09/artificial-intelligence-giving-doctors-a-second-opinion-to-detect-breast-cancer/amp/
 type: article
-quality: 33
-heat: 33
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: CBS New York on MSN.com
-  domain: msn.com
+  name: CBS Boston / WBZ
+  domain: cbslocal.com
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.BA45BC155874090DAA46A0517423838B
-    width: 600
-    height: 315
+  - url: https://www.bing.com/th?id=ON.670ADE5E518A15FAA5E7D7FBAF77D10C
+    width: 700
+    height: 393
     title: "Artificial Intelligence Giving Doctors A Second Opinion To Detect Breast Cancer"
 
-secured: "5wlpH87WZXUcvbwTeLK4eKyWxo0qXUfgVXtiPeCt9swZpRyFAnnpb5e3RFOW4doT7LpCVI/zpSdoG/dFCXShG7f5ApyV8QwRCY0sRlQ96XXKo/Wi1eNPzo3fWsiCrUpfCVH4BVvxocRDG8s1KFKZC6jmydHSLqj1DTFw2oSJIh4JiQa/6uzBiqFwHOipA4JDDsqwXQp8mtM/pqz5G6EMvHmVA1qyhYIZEDpnBij858PXsRLxB0rAEs1YKvxc8BWk7Ndj4f2ttPjENYjEubOyGA==;wmYCblXswgy5CpCailIblA=="
+secured: "LlitKzLO67chVM2/VH5s+Gn43Bzvi2h3oNPfmhhBU6+p5jFEOxWvvmIWLfLx+BQAwTXe5cI3PyW3ZnaaAgReRMTQI8INFsqDbo8SiIGZqo0Rbtaj6a6d63k1sq0P35LqUxZqI2CI3ZWmVDhqsJsTwgYQKQWpnI0sle/qv9A1OZEebk7ZzHGopDzbZm+WfxEoZlyxDxF2rfo6pL+o2Vpa+F2Au3/LtgM34qHV3YHREcXaYEU3C2yKIzci9+1xfagvsLWSigvOiizpUI72Ch8VJw==;QgIFoaXHyRdGrgaiWEq3KA=="
 ---
 

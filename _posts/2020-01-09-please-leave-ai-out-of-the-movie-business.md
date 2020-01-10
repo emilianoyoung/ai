@@ -85,17 +85,32 @@ related:
       - url: https://www.bing.com/th?id=ON.6D152E3EE0029B0E1D5B9A32C111F542
         width: 700
         height: 379
+  - title: "Will the Next Batman Movie Be a Hit? Warner Bros Is Using a Robot Brain to Make Sure"
+    excerpt: "“Artificial intelligence sounds scary. But right now ... The post Will the Next Batman Movie Be a Hit? Warner Bros Is Using a Robot Brain to Make Sure appeared first on Fatherly."
+    publishedDateTime: 2020-01-10T00:12:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/next-batman-movie-hit-warner-171702884.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/next-batman-movie-hit-warner-171702884.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/next-batman-movie-hit-warner-171702884.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.0ED201637A6DEF9C638CA8BB0C5B690A
+        width: 700
+        height: 379
   - title: "Warner Bros to start using artificial intelligence to help with movie releases"
-    excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system', launched last year by Cynelytic, a Los Angeles-based AI and cloud tech company. The platform provides forecasting and financial modelling ..."
-    publishedDateTime: 2020-01-09T12:10:00Z
-    sourceUrl: https://sg.news.yahoo.com/warner-bros-to-start-using-artificial-intelligence-to-help-with-movies-releases-103308407.html
+    excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system',"
+    publishedDateTime: 2020-01-09T10:33:00Z
+    sourceUrl: https://news.yahoo.com/warner-bros-to-start-using-artificial-intelligence-to-help-with-movies-releases-103308407.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
     quality: 33
     images:
-      - url: https://www.bing.com/th?id=ON.3C30AB745A0189E16761D6F7BF488B88
+      - url: https://www.bing.com/th?id=ON.15BC0797B6A12AB54D9EABC97E6A70EE
         width: 700
         height: 466
 

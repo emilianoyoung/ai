@@ -1,11 +1,11 @@
 ---
 category: news
-title: "U.S. government study finds racial bias in facial recognition tools"
-excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
-publishedDateTime: 2019-12-21T00:14:00Z
-sourceUrl: https://finance.yahoo.com/news/u-government-study-finds-racial-231410970.html
+title: "Federal study shows face recognition accuracy varies by gender and race"
+excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
+publishedDateTime: 2019-12-21T00:30:00Z
+sourceUrl: https://www.yahoo.com/now/2019-12-20-nist-face-recognition-bias-study.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
-    width: 800
-    height: 533
-    title: "U.S. government study finds racial bias in facial recognition tools"
 
 related:
   - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
@@ -196,21 +190,6 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72911022,imgsize-53302,width-800,height-434,overlay-ettelecom/massive-errors-found-in-facial-recognition-tech-us-study.jpg
         width: 800
         height: 434
-  - title: "Security Industry Association Applauds NIST Study on Facial Recognition"
-    excerpt: "Facial recognition is a fast-advancing technology in a constant cycle of improvements and is widely adopted across the public and private sectors. Reports from non-biased organizations like NIST are immensely valuable. SIA commends NIST for encouraging research organizations to examine this issue comprehensively rather than publish incomplete ..."
-    publishedDateTime: 2019-12-21T00:04:00Z
-    sourceUrl: https://finance.yahoo.com/news/security-industry-association-applauds-nist-000000351.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/security-industry-association-applauds-nist-000000351.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/security-industry-association-applauds-nist-000000351.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for Asian and African ..."
     publishedDateTime: 2019-12-22T02:08:00Z
@@ -419,6 +398,19 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
+  - title: "U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
+    publishedDateTime: 2019-12-21T00:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/u-government-study-finds-racial-231410970.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
+        width: 800
+        height: 533
   - title: "Some cities and states balk at face recognition tech"
     excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
     publishedDateTime: 2019-12-22T04:00:00Z
@@ -597,15 +589,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
         width: 200
         height: 150
-  - title: "Federal study shows face recognition accuracy varies by gender and race"
-    excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
-    publishedDateTime: 2019-12-21T00:30:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-20-nist-face-recognition-bias-study.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
   - title: "It’s hard to ban facial recognition tech in the iPhone era"
     excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
     publishedDateTime: 2019-12-23T17:22:00Z
@@ -634,6 +617,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "+GPqBIyB0IHUQDC371HrGXuZHLXnFlW3i6vfEo9HoNaYM7hwGTRiP+iAe4vfPALGfIiMrqwKeQN1gThlpeQAKXTN8cYIvFedxPkDzseaCrux+nLm5D+5mlS0OG2JcX02Dpt8UoBtqB4gexzW4LblS1sKIfGCu27m4MqtkQrSSs4CQ8cMglOJNzy3qHe14w6u8XOJdF14YnfTPyLCl/6iXg/p8G9dSxS2nMa9GPUoMOHXaMs1jXv33Zzsz9dfvWu6HyBXS7f/gn1fOvDU/8RI1Q==;zLP6zLMPbjOIMRCOC/o01Q=="
+secured: "Ll8S64RKyA8nmsp85U+FnR1ju84b01TGJuZU6XxZr9bH2T4RjP7CTNaquXFT5HFaJDEOTxIKdcSA7tpVJy9tzvXbQxDQBFNUnekZ7/oj+B5H3AxWLLnDfjC6KAies2ANkpeNXG/EpZpTt4Qjdad6m+BlMf5CE5pDN/C6bbkMXxGLSQgaB6o15fAyZv8n+p4Z5xO2UuM+AMzsYP46FvzaXl/KUHdgq+95CI6nWWZGjg9V5obLsrhIyMttyonyA8Zl+BhSdPsjafedq3WQ62qX0g==;gRVgwrlyhh2xreYUhhexTg=="
 ---
 

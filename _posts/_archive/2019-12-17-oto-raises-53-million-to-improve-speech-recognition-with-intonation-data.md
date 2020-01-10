@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 222
+heat: 202
 published: true
 
 provider:
@@ -69,19 +69,6 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
-  - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
-    excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
-    publishedDateTime: 2019-12-20T22:24:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/why-medical-dictation-is-still-better-than-voice-recognition-for-now-0001
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 23
-    images:
-      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
-        width: 874
-        height: 355
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
     excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
     publishedDateTime: 2019-12-24T00:40:00Z
@@ -132,15 +119,6 @@ related:
       name: The Root
       domain: theroot.com
     quality: 11
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
     excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
     publishedDateTime: 2019-12-23T20:30:00Z
@@ -169,6 +147,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "+HjQRp17UxL51CPZNQHa6XnlHQJzR2lxyCC8+ApbYlek+I52QTjj9tXwmC66L7PURWNJIpgOo4twjvnVhF+U2XWfvGzhGRJm+wXKun9NGZaR4aBlqXcYmMhyHYgOi8kajy18CTC6IpsqRwK6ebU68ZYAz1FJ5hWaP75zEn+f6wjhwkGc/s0TBOZTA58X3/CPHy0ZEIUC/H1mPGUlF+tUkTEoay/8fOUoNzvQ/R0W3U2ZqhJBweA2pcEQsf2sT6ICOkGzm4GLr7BkxkRbVpQ5AA==;rQjfV9YgvASFCfkdByWDsg=="
+secured: "bbsmdiZ2RcJOuGDyOEELHxpz+NSNEdN0t9sF5huWCaGpq3AOkbtlV+bVEvBEB2wjUDZmyg3de5W9fe+jFTbq658V4bBXI2SvjmMS5sluFaj1P3mrjHEXtQdEe/O4O7PvqX6SHjpo/3o8rKx0H5/DZ/X+ydD+Fx9fqoLwpWPqcfLaTo+Y68nPehvxhmEw+X6FVMN4f2eiKKEqfO/+d9JP+heaQLm49vRwoH7TYyldU5/7ipuO9vMUBTzgcC8SEE0iq9LV8pHuPUcEHZOSGYjWUw==;8u3DkEpUtjSVSrmhM27iPw=="
 ---
 

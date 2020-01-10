@@ -74,6 +74,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6D152E3EE0029B0E1D5B9A32C111F542
         width: 700
         height: 379
+  - title: "Will the Next Batman Movie Be a Hit? Warner Bros Is Using a Robot Brain to Make Sure"
+    excerpt: "“Artificial intelligence sounds scary. But right now ... The post Will the Next Batman Movie Be a Hit? Warner Bros Is Using a Robot Brain to Make Sure appeared first on Fatherly."
+    publishedDateTime: 2020-01-10T00:12:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/next-batman-movie-hit-warner-171702884.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/next-batman-movie-hit-warner-171702884.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/next-batman-movie-hit-warner-171702884.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.0ED201637A6DEF9C638CA8BB0C5B690A
+        width: 700
+        height: 379
   - title: "Please Leave AI Out of the Movie Business"
     excerpt: "But saying “Yes” or “No” to the existence of a film project isn’t the end of the creative process—it’s the beginning. Casting is a huge part of making a film that AI can potentially disrupt in a way that whitewashes movies, brands performers who have appeared in a box office disappointment or two with a scarlet letter, and makes ..."
     publishedDateTime: 2020-01-09T15:35:00Z
@@ -90,19 +105,19 @@ related:
         width: 700
         height: 350
   - title: "Warner Bros to start using artificial intelligence to help with movie releases"
-    excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system', launched last year by Cynelytic, a Los Angeles-based AI and cloud tech company. The platform provides forecasting and financial modelling ..."
-    publishedDateTime: 2020-01-09T12:10:00Z
-    sourceUrl: https://sg.news.yahoo.com/warner-bros-to-start-using-artificial-intelligence-to-help-with-movies-releases-103308407.html
+    excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system',"
+    publishedDateTime: 2020-01-09T10:33:00Z
+    sourceUrl: https://news.yahoo.com/warner-bros-to-start-using-artificial-intelligence-to-help-with-movies-releases-103308407.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
     quality: 33
     images:
-      - url: https://www.bing.com/th?id=ON.3C30AB745A0189E16761D6F7BF488B88
+      - url: https://www.bing.com/th?id=ON.15BC0797B6A12AB54D9EABC97E6A70EE
         width: 700
         height: 466
 
-secured: "2Eod3XPH+kljJDh+40hevhgU1G1truAzHIuYvhNm4Sj7/kkAuae1sy9ZL+fXqfGUOc3sWrBM4wDcjCCDOwFxziy1j4SzPLwoqeLbiaKY+fbWxoON8PsEXw0u3XHjt05FE/JI0BOSB7weNf/B2Of0fBbm49Y7ZZB76ul04+O/0Nz1WUFsoi0M8kQl9zCIL5hAOOc1u3LDv4IGn7/mcg6XQ/E9jBk0dr9CM9chyQcLGY9X8yNHsKz/kU7DmI/qTw+0yY+2k56oAS3FfyKlsN8CYQ==;D2+uhh0Ch3p5tME5WsqQlg=="
+secured: "+Evv2AD6wEjlQojgglKd8DTlyo9VKoTnG052pIW1YVmfE3OqONqKz9aDB/xdxb+znCNkogOEUGTci0/3ToMwXwp9aOtcN3v/eP6I8Z0qB2wWSlaSn1B5zZQTCH322rawWz1pUCEdB/DteBVw1UB+PaUL3P4uQH4JTQXyxaauyvJVRiaxCLP4aLbu3A4wAZqW8SBQoVin9Hfa+8Uuab/mkdqVBo1vnt959b2qLHuZDZNqZIETrGwQTfs958dLrOI5v8T84zKQ4NrGV8bRFbJiqw==;T0AMrTFyrG0VeOL4KgikWA=="
 ---
 

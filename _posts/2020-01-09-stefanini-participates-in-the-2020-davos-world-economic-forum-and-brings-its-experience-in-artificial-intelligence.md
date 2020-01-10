@@ -28,6 +28,15 @@ related:
       name: TASS
       domain: tass.com
     quality: 47
+  - title: "Stefanini participates in the 2020 Davos World Economic Forum and brings its experience in Artificial Intelligence"
+    excerpt: "SÃO PAULO, Jan. 09, 2020 (GLOBE NEWSWIRE) -- In the year in which it reaches its 50th anniversary, the World Economic Forum, a big annual event that reunites the main leaderships and authorities of the planet in the political and economic scenes will count on Stefanini’s participation,"
+    publishedDateTime: 2020-01-10T00:33:00Z
+    sourceUrl: https://finance.yahoo.com/news/stefanini-participates-2020-davos-world-205036397.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "5mpa1OuPlVhxbd1QYXXbvnBhv/VqNv6uuPM+X+h9FiW3N6wW3TUehnnFy/j2m1nFt4HR0s25qi+HTr+1d6zC4iRi751n9St78jcOBYUS6bcWrpYum6Zcxn0TN/KETi+XpbMr7z1+5fRV0NtONJ4o2JErd3mQsN9nQSb0nXzN8CTbV+Z4NMR8EE5idpHM9nNXQh01y2453ZDgKangUdze+/WKptCxFlD2Jd4idIpZxdiWrWwbNAQ0J5oK6xMBnZR3eZI4KutBdjoXoiXnNCBtlg==;qNN6cOAa8CJqFOnZjTvUCA=="
 ---

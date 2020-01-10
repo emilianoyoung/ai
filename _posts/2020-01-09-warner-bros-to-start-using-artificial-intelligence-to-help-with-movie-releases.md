@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Warner Bros to start using artificial intelligence to help with movie releases"
-excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system', launched last year by Cynelytic, a Los Angeles-based AI and cloud tech company. The platform provides forecasting and financial modelling ..."
-publishedDateTime: 2020-01-09T12:10:00Z
-sourceUrl: https://sg.news.yahoo.com/warner-bros-to-start-using-artificial-intelligence-to-help-with-movies-releases-103308407.html
+excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system',"
+publishedDateTime: 2020-01-09T10:33:00Z
+sourceUrl: https://news.yahoo.com/warner-bros-to-start-using-artificial-intelligence-to-help-with-movies-releases-103308407.html
 type: article
 quality: 33
 heat: -1
@@ -17,7 +17,7 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.3C30AB745A0189E16761D6F7BF488B88
+  - url: https://www.bing.com/th?id=ON.15BC0797B6A12AB54D9EABC97E6A70EE
     width: 700
     height: 466
     title: "Warner Bros to start using artificial intelligence to help with movie releases"
@@ -83,6 +83,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6D152E3EE0029B0E1D5B9A32C111F542
         width: 700
         height: 379
+  - title: "Will the Next Batman Movie Be a Hit? Warner Bros Is Using a Robot Brain to Make Sure"
+    excerpt: "“Artificial intelligence sounds scary. But right now ... The post Will the Next Batman Movie Be a Hit? Warner Bros Is Using a Robot Brain to Make Sure appeared first on Fatherly."
+    publishedDateTime: 2020-01-10T00:12:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/next-batman-movie-hit-warner-171702884.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/next-batman-movie-hit-warner-171702884.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/next-batman-movie-hit-warner-171702884.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.0ED201637A6DEF9C638CA8BB0C5B690A
+        width: 700
+        height: 379
   - title: "Please Leave AI Out of the Movie Business"
     excerpt: "But saying “Yes” or “No” to the existence of a film project isn’t the end of the creative process—it’s the beginning. Casting is a huge part of making a film that AI can potentially disrupt in a way that whitewashes movies, brands performers who have appeared in a box office disappointment or two with a scarlet letter, and makes ..."
     publishedDateTime: 2020-01-09T15:35:00Z
@@ -99,6 +114,6 @@ related:
         width: 700
         height: 350
 
-secured: "BIoSx+ipy/gwr+6f8xRJFxJKnHEhBa8xvX7nC9bMVRSfqqZo4+htZVLu6pjOB5zBvkLl2AcHPudGrxSoFkvGkiCyU1QKWVKYNwuKpvmXu9gPZBkhZFvNA/o6CcwACB/6IRQ4r3/l+ZZGbonNPhdPlbBGOfDvPKfM6MoohmODX5uh/Zs3xp9OBCnGbmptu98aUKtXYDRhToBa2XPVzzAEQxEYlVB+M069DWllYtJUEgvNWHkLpUEFRkum+rxnsbD/1wy0hex6uru6rnixVNsMKg==;KF9DjhcO6sj3pnWAZuV8MA=="
+secured: "y9EVo/J0MQDEfiFN+rieiV2GHXx3kOdElx+GI/zyO3nQEjymEu/jiFUOT+DjZ+54x5f+nsoueHgpxFsMUpSLD38Gm/FJ24G9/ClHSyCyQEU6ZKwMIrRlUuaWFLj6xmiFj7v6kYplXBhfcpRuaqgKVQUs9kK005zj61GRviimVCdpdLiqQ1s3TYrBLzKKlfSAVUHnVwMKQk9FhG7/o7DzO4JqIETPEASCRQLYvUCwpc41ui3WaA7JLqhALAz0g/la1+3zS18SvcsykCD4xxmEsw==;/6bVFjNq4q2IN+WB78Iwvw=="
 ---
 

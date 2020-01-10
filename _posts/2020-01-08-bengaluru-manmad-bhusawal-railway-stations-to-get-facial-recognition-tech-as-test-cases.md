@@ -264,6 +264,21 @@ related:
       - url: https://static-adweek-com.cdn.ampproject.org/i/s/static.adweek.com/adweek.com-prod/wp-content/uploads/2020/01/one-platform-yaccarino-content-2020-640x360.jpg
         width: 640
         height: 360
+  - title: "Face recognition tech at KSR City rly station by Feb"
+    excerpt: "Bengaluru: The face recognition system will be fully implemented at KSR City Railway station by February, South Western Railway (SWR) officials said. A pilot was conducted between May and October and the Railway Protection Force (RPF) of Bengaluru division proposed use of face recognition software (FRS) in Indian Railways. “The aim of the ..."
+    publishedDateTime: 2020-01-09T23:20:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/city/bengaluru/face-recognition-tech-at-ksr-city-rly-station-by-feb/articleshow/73179078.cms
+    ampUrl: https://m.timesofindia.com/city/bengaluru/face-recognition-tech-at-ksr-city-rly-station-by-feb/amp_articleshow/73179078.cms
+    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/face-recognition-tech-at-ksr-city-rly-station-by-feb/amp_articleshow/73179078.cms
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.AEB615706021C08552E8B824D38DAD1E
+        width: 700
+        height: 378
   - title: "Maine City Again Delays Vote on Facial Recognition Tech"
     excerpt: "(TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal that would prohibit city officials from using facial recognition technology, which critics say infringes on civil liberties and frequently misidentifies people of color. It was the second delay since City Councilor Pious Ali first ..."
     publishedDateTime: 2020-01-07T17:25:00Z

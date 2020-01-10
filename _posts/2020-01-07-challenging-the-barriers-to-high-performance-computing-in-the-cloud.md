@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.297D45CF2F12CF6804D8D2C3B1F084EF
         width: 700
         height: 365
+  - title: "Microsoft forms global strategic partnership with customer data science experts dunnhumby to transform retail sector"
+    excerpt: "The processing power of Azure and the machine learning data science of dunnhumby can offer the right insights at the right time, so action can be taken quickly to support improved company performance, new trends and innovation, brand switching and loyalty. “This partnership will empower more retailers and brands across the globe to more ..."
+    publishedDateTime: 2020-01-09T23:24:00Z
+    sourceUrl: https://news.microsoft.com/en-gb/2020/01/09/microsoft-forms-global-strategic-partnership-with-customer-data-science-experts-dunnhumby-to-transform-retail-sector/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.1FBB8627EF819CB92F49ADA235B57D83
+        width: 700
+        height: 393
   - title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
     excerpt: "When applied in payment transactions using mobile phones or devices that need no bank details, bank cards or cashiers, the payment is carried out via facial recognition. This requires an extremely reliable and secure image and return transmission of the high-resolution 3D image data. The same applies to securely unlocking devices with a 3D image."
     publishedDateTime: 2020-01-08T06:50:00Z
