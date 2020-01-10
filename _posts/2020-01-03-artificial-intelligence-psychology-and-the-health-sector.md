@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care 18. AI can also support other aspects of mental health. Several trials in the ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
-heat: 71
+quality: 59
+heat: 69
 published: true
 
 provider:
@@ -18,7 +18,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -41,6 +40,6 @@ related:
         width: 400
         height: 300
 
-secured: "qHovkV8a3V4sCcpCkc/H2gwki+UhnFZil28PkShF12VOwyZN9fLNyAzaQoGhYGVctPtOt0XCn7U7FcTW4GVzO1yHhYAKhlQXiJUNz12rcly7QiviIbgyzyL3iuTgG/3e3q7jwkkmE5o2plQdfTF+b/QIxwMgiH6ARGQyduyLykTmPXBrNnVpUi+/GG/J/xRqUgynSthdz+95ld7CwqUMGYsE5CMbTQDT9bNvo7xwotnmH5zGNmW1b6cWVT/C4xRwo1BNe+14QKjguprX3FxV9Q==;baoU7OTlLx2CNkTpXSvC7A=="
+secured: "p5LXjKHYfSYxheA5J3RqYgj4jXzCCxZX+Qy1U/I99xJ1VVd2ObqmORTB73fnZ9tJxodrHdCsCzIFgUF5unphYuFyTlJdr6HuJ6bPp8H1ugybiq2pTVkID5k2BH9TJ1xa330CWELc/BG0n/zM86tsrvBhb1qE4LaUXmeju/mtZDIlFBBABz95RUDCFRGQxgxMjd91N5n1vY4FZohtGvzP2B2y6uGxgfRXuYnfnalKI6tHrD47hgKlMvrCpIIyyZj1rp41eymhLWoVEt5TGzAURg==;dJW+Ws912mKOQMaCCGNKGg=="
 ---
 

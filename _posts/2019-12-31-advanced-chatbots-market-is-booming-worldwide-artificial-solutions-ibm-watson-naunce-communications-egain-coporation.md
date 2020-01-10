@@ -227,6 +227,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 0
+  - title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
+    excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
+    publishedDateTime: 2020-01-10T06:06:00Z
+    sourceUrl: https://www.openpr.com/news/1893347/artificial-neural-network-market-outlook-to-2027
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "kT0CAF/OWH4ivO0THRpik99Zkk0IKieHUX7+GmFtYkregIs1Eq+99GMlYfBNROXS/lEHR7pam4VGzRQ3/FgYSn7BjPxOkkUYk6hEv6x2S4Hvuk2I2R1lM4vvoDMrBHln+qprqgELoTEb+MDpy/0PMS9zT+qcdlCXIrc+u+brkJDFL27PUU1Ps8jCibrTsvjRSqrpDo3fa7KG0A6QKk1CeA3Cg1GXVssPa2V6X31hrp/WyiyRAYkRYenp+QPNOrvoX0D8K/MMiMFWpQpmpMYebw==;W3Pp8rN3bL0k4/KcQ7Eypg=="
 ---

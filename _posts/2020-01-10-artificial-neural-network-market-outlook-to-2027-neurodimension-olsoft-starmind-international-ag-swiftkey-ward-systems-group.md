@@ -1,34 +1,36 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
-excerpt: "Jan 06, 2020 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling ..."
-publishedDateTime: 2020-01-06T20:57:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
+title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
+excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
+publishedDateTime: 2020-01-10T06:06:00Z
+sourceUrl: https://www.openpr.com/news/1893347/artificial-neural-network-market-outlook-to-2027
 type: article
-quality: 94
-heat: 274
-published: true
+quality: 0
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
-  - AI Hardware
-  - Facebook AI
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
+  - Machine Learning
 
 related:
+  - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
+    excerpt: "Jan 06, 2020 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling ..."
+    publishedDateTime: 2020-01-06T20:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) Chips Market Gain Impetus due to the Growing Demand over 2025"
     excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence (AI) Chips Market Report is highly intended to offer robust acumen considering Artificial Intelligence (AI) Chips Market industry to aid a market contender with insightful analysis for Artificial Intelligence (AI) Chips Market size, share, competitive scenario, segments ..."
     publishedDateTime: 2019-12-31T04:30:00Z
@@ -228,16 +230,7 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 0
-  - title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
-    excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
-    publishedDateTime: 2020-01-10T06:06:00Z
-    sourceUrl: https://www.openpr.com/news/1893347/artificial-neural-network-market-outlook-to-2027
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
-secured: "d4YtLu/vg/d6dRwPRTkdoxZRm80NdliMnsquXsV6ms/ujFuQ37FhHfw+0+qp/GuS3ssH6gnEQwN93vmBEi+dqwEjqk1+I82tWyQuRYNWhY+BObeohi3UGYRklaqZdtJGZxAF+qk+0Hy2265R0cXs+uTkzvddu6J1ZHUFCSBqJd0gGTBSxnOn60YrQE+RFpaXahQ7b7jCiGCSdzCqpawNLQF4ACxwFemBK1PV4fACr9unSMQumDtwVS1txoYeqAvIPkGTIsT+DlkyDAyXZhp+YA==;J3X87mkypukIYJPtpb1Q6g=="
+secured: "aRVZVDdo3053ZhIyAL3dKm8toniNU7Lr7CkiPVkCxfMBVxiomYALPGQgdVWdMDHK2BvD+zM9aXJF3uE1n/LMXY2Ly5lHG3aMEmnX8yYSdjlvkIIrZKRY2lu4eEiVq4Goq5hsLH6dPQKPUwLBu0qZ5D8NBRhuHqfsz/pD3C5hIuiNI8cGGZSwBMr/295vmOCvUom93p5P68jglD+om7SEaZ5XG0401La+pu5GFvIyNG4FBbQrPHucpokf/MXwCzc3+RV0rtuqcntmo5kWnwB1SA==;7O802YbagmP2zeVE3kkirQ=="
 ---
 

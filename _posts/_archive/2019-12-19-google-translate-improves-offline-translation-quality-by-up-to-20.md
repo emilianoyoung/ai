@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Google Translate improves offline translation quality by up to 20%"
-excerpt: "Bound for a foreign country where you don’t speak the language? Good news: Google has you covered. This afternoon, the Mountain View tech giant announced that Translate, its free multilingual machine translation service, is now more robust. Offline, translation accuracy has improved by an order of magnitud in some cases. Across the 59 ..."
-publishedDateTime: 2019-12-19T17:39:00Z
+excerpt: "Good news: Google has you covered. This afternoon, the Mountain View tech giant announced that Translate, its free multilingual machine translation service, is now more robust. Offline, translation accuracy has improved by an order of magnitud in some cases."
+publishedDateTime: 2019-12-19T17:42:00Z
 sourceUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/
 ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -24,9 +24,9 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
-    width: 700
-    height: 350
+  - url: https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&amp;strip=all
+    width: 1200
+    height: 600
     title: "Google Translate improves offline translation quality by up to 20%"
 
 related:
@@ -45,19 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
         width: 700
         height: 366
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+  - title: "After eBay improved its translation software, international commerce increased sharply"
+    excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
+    publishedDateTime: 2019-12-23T13:13:00Z
+    sourceUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.html
+    ampUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
+      name: Phys.org
+      domain: phys.org
+    quality: 36
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
+        width: 700
+        height: 465
   - title: "Invoke introduces real-time translation"
     excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
     publishedDateTime: 2019-12-23T10:10:00Z
@@ -82,16 +84,7 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Compensation: Lost In Translation"
-    excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
-    publishedDateTime: 2019-12-20T22:05:00Z
-    sourceUrl: https://www.industryweek.com/leadership/companies-executives/article/21953642/compensation-lost-in-translation
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 4
 
-secured: "RarR29z/AprmiEe0x1jXRC0t/kRlUejJOoYQ+5Y4wP/uNCWmrPMadO7jv3AUdxhRm146TCMKhz5YdQqPylyXYnX6tpW4warPJPeLXm4ZIiIbC6wp45EFRFCZFtL2KMn1Q0ZhyHZME7jHIVDk2rN+WXA5aJOHGp3Uhas3uJ4kvp776fr99tzaN+aTJpag7KSyXVQUMvnKikxRliZuUF84DWcj5TFVgejrJA12oZXnyQg6o9h7CZ6uwRB3Nx6nWqjj73NEaEWd7kOEpbZksZRIHQ==;RcRaJs6rbT8k7tTT089f1Q=="
+secured: "V5wWU8VFn5cS012PS/vkyAl8xY7KxH7TSpXc8+xP9LCMpGDYRyKXB1/LKY9V0SLcmOxIyKs8iXTksj+bzR030i2YoyyayBvrD9+aJ3eId+QlxMB8puthDjW2GX3jeP8iYD/ABISjP9kQ6aF9DWzBdXPz2tXtPXQiwshYu9u7bvhWTyAUMtUpKoLwNRmY6NscA8bzHgXeu5DoT9+rk73nEjqQO+YmAvp41xd+wKSluqGC6pej5MIF+vuyOG2L8ITsKbcINR0vfpR8fIGEgwpwxw==;08QPMQ3Z16NU2RjiHzphFQ=="
 ---
 

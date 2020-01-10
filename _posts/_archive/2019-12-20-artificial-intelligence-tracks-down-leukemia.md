@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Artificial intelligence tracks down leukemia"
-excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is a much-discussed topic in medicine, especially in the field of diagnostics. \"We aimed to investigate the potential on the basis of a ..."
+excerpt: "this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is ..."
 publishedDateTime: 2019-12-20T16:54:00Z
 sourceUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.html
 ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F4ACE41A00EB0163B210C15E866358A4
         width: 300
         height: 250
-  - title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
-    excerpt: "Their method is based on analyzing the gene activity of blood cells. When applied in practice, this method could support traditional diagnostics and probably expedite the start of therapy. The study outcomes have been reported in the iScience journal. Artificial intelligence is a much-discussed topic in medicine, especially in the field of ..."
-    publishedDateTime: 2019-12-24T12:12:00Z
-    sourceUrl: https://www.azorobotics.com/News.aspx?newsID=11035
-    ampUrl: https://www.azorobotics.com/amp/news.aspx?newsID=11035
-    cdnAmpUrl: https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11035
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.42A01FAFDBB6F7289D13A68EE7207414
-        width: 350
-        height: 215
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
     publishedDateTime: 2019-12-26T12:48:00Z
@@ -92,6 +77,6 @@ related:
       domain: deccanchronicle.com
     quality: 39
 
-secured: "zuFGhm8NHCwLlkT2aKtfagIdH6/61br5NzQu/4Ei0ck4GjwA1RF6EQOkRb89ffakPD4FxITIE/1IRca/7OPvRUTTnnqyHOIXtdn1ixHM8jij1MN0OSSpiKcc53Kw4fbMlIXeU7tFBzX3lMtBo7M7BEhSKWcmc4fE1LcA4Y3TMuc09I8oNG3YMuykmEHk+xX4LgqWRNu9G2O3f18M/N7GVVs38QuekjHLibTQOss2PjSsLcMgYGNafdC9PkCkKskYyNNXwuJjFhnG6EqI1XXJVA==;5DFcHT6i9ZTNHKGs35GgXQ=="
+secured: "hbqjnFWzF2J8kOSA/tarVebUHXfrCWZHmq+FJVFTladjXo8p/40+/xXQLLQZMD0VbYEbPszDxtDmovn3FHdSJ1V8tsF/yTOCFazrRaqB6sS7dtw1Py5WBT//JF3mvC177aKTXh1CKEslTYJZffbN4oVPCTw6XcOiMXiFfaF/ltIV85AY4dljKtvyIB4DElp9Nr6K7ZfH/oap3K+sBe0Z7g8dJYsItjIwveT689pJ/qKBzFIxfEGCc/cc08PSdG0Mdq7D6ZRTqwsLFjrAmR0iuw==;+UEYbDPA8esmhWKjAb8S0g=="
 ---
 

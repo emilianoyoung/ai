@@ -20,32 +20,15 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Avnet Launches Partner Program to Boost IoT Development"
-    excerpt: "Partner Program will enable developers to reduce time and costs required to build IoT applications and scale their businesses."
-    publishedDateTime: 2020-01-09T17:58:00Z
-    sourceUrl: https://finance.yahoo.com/news/avnet-launches-partner-program-boost-144202742.html
+  - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
+    excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
+    publishedDateTime: 2020-01-03T13:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/zglue-launches-chipbuilder-pro-to-quickly-and-easily-enable-the-next-generation-of-consumer-experiences-on-iot-and-ai-powered-devices-1028793357
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.A79768FABDC1F3129B0A11BFF5229873
-        width: 635
-        height: 400
-  - title: "Avnet’s new Partner Program gives developers a place to build and scale IoT solutions"
-    excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can seamlessly connect devices that address ... simplicity—by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Avnet’s new Partner Program enables system integrators ..."
-    publishedDateTime: 2020-01-09T02:34:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/09/avnet-partner-program/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.8419E86C3C31CA8D42815487746F6BEB
-        width: 400
-        height: 200
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
     excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can seamlessly connect devices that address ... simplicity—by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Partner Program speeds solution development Avnet’s new ..."
     publishedDateTime: 2020-01-09T07:11:00Z
@@ -59,24 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.713DC9CC9D1B54B56AC11B7B0B956A57
         width: 700
         height: 365
-  - title: "Avnet launches new IoT Partner Program at CES 2020"
-    excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can connect devices that address both the ... assets and systems to be connected securely by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Avnet said its new Partner ..."
-    publishedDateTime: 2020-01-07T15:39:00Z
-    sourceUrl: https://www.telecompaper.com/news/avnet-launches-new-iot-partner-program-at-ces-2020--1321912
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
-  - title: "Avnet launches new IoT Partner Program"
-    excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can connect devices that address both the ... assets and systems to be connected securely by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Avnet said its new Partner ..."
-    publishedDateTime: 2020-01-08T11:07:00Z
-    sourceUrl: https://www.telecompaper.com/news/avnet-launches-new-iot-partner-program--1321912
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
   - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
     excerpt: "Using Avnet's IoTConnect platform, powered by Microsoft's (News - Alert) Azure IoT Suite, developers can seamlessly connect devices that address ... by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Partner Program speeds solution development Avnet's new Partner ..."
     publishedDateTime: 2020-01-07T14:11:00Z
