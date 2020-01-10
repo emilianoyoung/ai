@@ -1,21 +1,27 @@
 ---
 category: news
-title: "ESG Technical Validation: Predict and Optimize Business Outcomes with IBM Decision Optimization for Watson Studio and IBM Cloud Pak for Data"
-excerpt: "ESG recently completed testing of IBM Decision Optimization for Watson Studio, which is designed to enable organizations to accelerate the value they can extract from AI more easily. Testing examined how IBM Watson Studio with Decision Optimization collects data, organizes an analytics foundation, and analyzes insights at scale—with a focus ..."
-publishedDateTime: 2020-01-03T01:08:00Z
-sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-esg-technical-validation-predict-and-optimize-business-outcomes-ds-os-us.aspx?tc=page0
+title: "LG to Accelerate B2B Innovation With Microsoft"
+excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG's B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG's autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond the ..."
+publishedDateTime: 2020-01-10T08:55:00Z
+sourceUrl: https://www.autoblog.com/press-releases/lg-to-accelerate-b2b-innovation-with-microsoft_21794/
 type: article
-quality: 0
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: adtmag.com
-  domain: adtmag.com
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - AI
-  - IBM AI
+  - Microsoft AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.B042E861197CCE873E4B8BFE2984CE25
+    width: 400
+    height: 188
+    title: "LG to Accelerate B2B Innovation With Microsoft"
 
 related:
   - title: "IBM launches Advertising Accelerator with Watson to automatically optimize campaigns with AI"
@@ -139,19 +145,6 @@ related:
       - url: https://www.bing.com/th?id=ON.58BA6C624B93346ECE8C987A28B0D845
         width: 315
         height: 236
-  - title: "LG to Accelerate B2B Innovation With Microsoft"
-    excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG's B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG's autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond the ..."
-    publishedDateTime: 2020-01-10T08:55:00Z
-    sourceUrl: https://www.autoblog.com/press-releases/lg-to-accelerate-b2b-innovation-with-microsoft_21794/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B042E861197CCE873E4B8BFE2984CE25
-        width: 400
-        height: 188
   - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
     excerpt: "LAS VEGAS and BANGALORE, India, Jan. 6, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will unveil a solution accelerator which will help to design, train, deploy and manage Deep Learning (DL) models for the development of computer vision applications at CES (Consumer Electronics Show ..."
     publishedDateTime: 2020-01-06T11:00:00Z
@@ -178,7 +171,16 @@ related:
       - url: https://www.bing.com/th?id=ON.737DC3B3BC3AEC50D8D0FF8485873B43
         width: 472
         height: 315
+  - title: "ESG Technical Validation: Predict and Optimize Business Outcomes with IBM Decision Optimization for Watson Studio and IBM Cloud Pak for Data"
+    excerpt: "ESG recently completed testing of IBM Decision Optimization for Watson Studio, which is designed to enable organizations to accelerate the value they can extract from AI more easily. Testing examined how IBM Watson Studio with Decision Optimization collects data, organizes an analytics foundation, and analyzes insights at scale—with a focus ..."
+    publishedDateTime: 2020-01-03T01:08:00Z
+    sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-esg-technical-validation-predict-and-optimize-business-outcomes-ds-os-us.aspx?tc=page0
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 0
 
-secured: "j617CAiwW93h6+R/5VTSkf7c+AVPyoOnhbDB3dzm1rdbu5wUhXdOhq9lpH9YbIdGD+kIiz5hI9dtZF1/KBiGcHUsxlxtjNOEq1pKjlgGAlfyV50krRsTGRP8gDvtuZa02R9zrSgKCAfbP5wHinveRK3yF1FJwcIwnZ0Iq3CyIK+z4QQFtjMPYk4+I8ONGMuChcercq91kFnQ+h54aAVFbVjSvZ2SnSA15GnsB7/hmt4eeh5hiqQHdUsWnxs7MMXdWeyaYPluYjaldWr56dGahw==;nVRIvcMt9vHcCiP40TgqKA=="
+secured: "cd0vtVDJ7DgoD/P/LUbWsO23lgQSOQEyzua/jyiTHGlPtHvlBLkWV3m356iwRlmghxM56u8x7d6Hu36WY5ybmagDCh2582gBg612JXPT5G72kZzB02G//6pXgLUGu1QTAv8ODGDnZpn56tDSOET0AhCF7OblBIUkso+3lckHwBZdvvaBz7PSOLT47nlyMnXj1VEoycz3Ojg+7Hy3DTOkzOfeschcZn6BhKE4yg1M0CpVyGxPmEw1opF41sfNd7cRIttzkXps2kc8MTN3RgpMqQ==;KwrFUO3DNCyPmV8GJKCPSw=="
 ---
 

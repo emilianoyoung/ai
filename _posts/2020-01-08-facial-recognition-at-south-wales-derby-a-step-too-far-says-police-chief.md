@@ -8,8 +8,8 @@ ampUrl: https://amp.theguardian.com/technology/2020/jan/08/facial-recognition-at
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief
 type: article
 quality: 57
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -26,6 +26,21 @@ images:
     title: "Facial recognition at South Wales derby 'a step too far', says police chief"
 
 related:
+  - title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
+    excerpt: "Football supporters have no reason to fear the use of facial recognition technology amid criticism of its use at Sunday's south Wales derby, say police. The system, which was also in use at October's match between Swansea and Cardiff, is designed to identify and help remove fans who are subject to banning orders. Supporters' groups have claimed ..."
+    publishedDateTime: 2020-01-10T08:37:00Z
+    sourceUrl: https://www.skysports.com/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
+    ampUrl: https://www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
+    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
+    type: article
+    provider:
+      name: Sky Sports
+      domain: skysports.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.7480F9C75F0347A12CB217F8EBEE5680
+        width: 700
+        height: 393
   - title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z

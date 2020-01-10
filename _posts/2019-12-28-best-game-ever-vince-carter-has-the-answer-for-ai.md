@@ -38,21 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.99E0FAA6EB4E39571C96DCDCA74731E2
         width: 700
         height: 525
-  - title: "The AI Doctor Will See You Now"
-    excerpt: "“The AI was able to detect smaller details than the human eye could pick up,” she says. Barzilay’s work is featured in the ninth installment of the Sleepwalkers podcast, which tours the effects of artificial intelligence revolution. The episode ..."
-    publishedDateTime: 2019-12-21T08:00:00Z
-    sourceUrl: https://www.wired.com/story/ai-doctor-will-see-you-now/
-    ampUrl: https://www.wired.com/story/ai-doctor-will-see-you-now/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-doctor-will-see-you-now/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://media.wired.com/photos/5deac17648e9d2000853d4b1/master/pass/Biz-mammogram-521713512.jpg
-        width: 2400
-        height: 1600
   - title: "How Cold War rivalry helped launch the Chinese computer"
     excerpt: "It would score a ‘Free World’ technological and cultural victory, while also raising the possibility of a new infrastructure for the global dissemination and translation of Chinese-language material ... At the center of this geopolitical drama was the ‘Sinotype’, a machine devised by Samuel Hawks Caldwell, the father of Chinese computing."
     publishedDateTime: 2019-12-22T02:08:00Z

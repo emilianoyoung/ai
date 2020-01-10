@@ -23,6 +23,6 @@ images:
     height: 512
     title: "How computer vision can alleviate pressure on NHS staff"
 
-secured: "1KNDmMtIXcMPydD+2lC9XVHfhfoytL3L1oMPGrLvyHtGC5gthw3xcnPzw0qESpxE3ToBcjEUKLvog6MXafXZZy27JtV+HVNH2vdFyr6dYcooFUiBSp6QtHQNCVp3WUV8EspQVc9fF/+2HrlYn0j5Az88jILJVTQ4V8VpENTrS3J0LSpwDXFjC/OoD4oW3puBq1M1Hz1/G2KvoJ3cIZaH6LdEEiab6OEH/Sp1KBbKVEJ7XrMSf5UmsOWqWp/V1nGLBxYU1ZnmLWC89MQOEtTeiQ==;EC//2d2F8X1RXHwBvGTcvA=="
+secured: "qMGQhzpZYmCv9029wscE4siYBek7xkkJJVQ60G6YC/ZiEbRG0fK96vWqFoF3BmqttWTJz5YTjYtwYA1/BWMZqLZTDy00HXS4UrfOttKwWn16NPILWsKoVL9DlgVsVgxHmzoSvgfrgcLXMBhqIFFXluHB+ly8GksdG+1hhwxf4Sy1Ed+j1XTCAjfF2xzFJ+7A5tWk0vD1aCjhcfnAB3+4cTYydBOgtb/DBdysId4cIV1WC5FAa/SXjGRr3ADUtwyx28J5OxZZQzdxp+QOOJK8gQ==;NYexjYPkAgIB1m3Fvoo7GQ=="
 ---
 

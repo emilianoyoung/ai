@@ -67,6 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Algorithmic Trading Market 2020-2024: Size, Share, Advantages, Key Factors, Industry Growth and Forecast Overview"
+    excerpt: "Global Algorithmic Trading Market which provides statistical analysis for competitive business strategies. The report studies the internal environment of the leading companies for strategy formulation using SWOT analysis."
+    publishedDateTime: 2020-01-10T07:29:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-algorithmic-trading-market-2020-2024-size-share-advantages-key-factors-industry-growth-and-forecast-overview-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "mC8HizbMH4RKTnJg5JsgjnQ1oiQ4aGC0DItER5nJSpMMzd0xDghlZ2PWZnXC3kje8aXdV5i8F8rRJ13o92/cmmRuVKz9KESh3IG/5J5OVKrp3MwpeZS8fjJWGE1CAxmvEqgd1PYSgDrxRAYJZ4QmLaUlYHHVEsCCadC4Zs6kqmxWNtAdn0hzuocpDAnL3G6a6sOiS4Stt1G3AUyHUbUmtcpfNePh2Mb6G+68wyWwCXkXDxEoDxoDLQX9dLgYd536c+uvRitjpM0CUr9tLsTzow==;iXYBj4QgGfCInyGIzyQZWw=="
 ---

@@ -1,31 +1,38 @@
 ---
 category: news
-title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
-excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
-publishedDateTime: 2020-01-08T00:46:00Z
-sourceUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/
-ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
-cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+title: "Horizon Robotics reveals Horizon Matrix™ 2, its second generation scalable, low-power, ready-to-use autonomous driving computing platform"
+excerpt: "Founded in 2015, Horizon Robotics™ is a pioneer in the area of artificial intelligence computing for smart mobility at the edge. With over 600 patents, Horizon Robotics has been actively developing high-performance, low-power, and cost-effective deep learning computing solutions that advance transportation safety, enhance the driving ..."
+publishedDateTime: 2020-01-10T08:02:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-horizon-robotics-reveals-horizon-matrixtrade-2-its-second-/2020/01/10/9079517.htm
 type: article
-quality: 44
-heat: 44
+quality: 1
+heat: -1
 published: false
 
 provider:
-  name: Motor Trend
-  domain: motortrend.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - AI Hardware
-
-images:
-  - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
-    width: 2048
-    height: 1152
-    title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
+  - AI in Robotics
 
 related:
+  - title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
+    excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
+    publishedDateTime: 2020-01-08T00:46:00Z
+    sourceUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/
+    ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 44
+    images:
+      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
+        width: 2048
+        height: 1152
   - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
     excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
     publishedDateTime: 2020-01-07T06:11:00Z
@@ -67,16 +74,7 @@ related:
       - url: https://www.bing.com/th?id=ON.2EE31DD748E496716926E446B26451F1
         width: 700
         height: 367
-  - title: "Horizon Robotics reveals Horizon Matrix™ 2, its second generation scalable, low-power, ready-to-use autonomous driving computing platform"
-    excerpt: "Founded in 2015, Horizon Robotics™ is a pioneer in the area of artificial intelligence computing for smart mobility at the edge. With over 600 patents, Horizon Robotics has been actively developing high-performance, low-power, and cost-effective deep learning computing solutions that advance transportation safety, enhance the driving ..."
-    publishedDateTime: 2020-01-10T08:02:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-horizon-robotics-reveals-horizon-matrixtrade-2-its-second-/2020/01/10/9079517.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
-secured: "NfR8JNUq0tp66oTT2yisvNb0vljrzMHQxqafPbbO6ELwhYc3+FC5lt8H0wMhkAH2PHlKJxz3QeYiBd10oMRSp/ENT6lBBTiMaiwpRwD+2+3cCZAbeZKZnxNPg8MVQfdtknIpCMtYTnhyppjb161zkDXHOQYIWuEcRp1iBSOp61B9Thv40YmIHHqxWqXTs7IQ6BlXDiWouVb1NpIHRXq4RDaWloYu2XjwBDjsffmHbUn4UYyvYJkd6F2uNpX5d6lwElEOTZAEUgEqqw7qsNg5rQ==;uAabJ002OA96Eqf7Ccr2MQ=="
+secured: "9tcKERA89hIssC3z1cxN29JcqQQmqiRPWntOeJOYCWaL/f1BXdogj9BbxTa6XRcSOyWfNn94kqe8wVfW2w5UBMb6c5vGkug3o+ccQlcB/H0GBN8G77X9+H517q6vFTdRVoLDHl2Q7iD1WChtnxkYoQUrpZwzadNtexwqeie96tzfztClYZZ4p70QDGgbmHrxkDdotvnWXzXajHkcfIlKXSo4jJNPga6DVMpD/3rh2BIaXSMZK1LODNMtCkSu0Riy8f64QZVND5Ze4+pCPAHCtw==;C660Y9KeraOe1Kx0fzcgdg=="
 ---
 

@@ -1,44 +1,31 @@
 ---
 category: news
-title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
-excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
-publishedDateTime: 2020-01-08T18:31:54Z
-sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
+title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
+excerpt: "Football supporters have no reason to fear the use of facial recognition technology amid criticism of its use at Sunday's south Wales derby, say police. The system, which was also in use at October's match between Swansea and Cardiff, is designed to identify and help remove fans who are subject to banning orders. Supporters' groups have claimed ..."
+publishedDateTime: 2020-01-10T08:37:00Z
+sourceUrl: https://www.skysports.com/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
+ampUrl: https://www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
+cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
 type: article
-quality: 40
-heat: -1
-published: false
+quality: 59
+heat: 109
+published: true
 
 provider:
-  name: Wales Online on MSN.com
-  domain: msn.com
+  name: Sky Sports
+  domain: skysports.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
-    width: 600
-    height: 315
-    title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
+  - url: https://www.bing.com/th?id=ON.7480F9C75F0347A12CB217F8EBEE5680
+    width: 700
+    height: 393
+    title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
 
 related:
-  - title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
-    excerpt: "Football supporters have no reason to fear the use of facial recognition technology amid criticism of its use at Sunday's south Wales derby, say police. The system, which was also in use at October's match between Swansea and Cardiff, is designed to identify and help remove fans who are subject to banning orders. Supporters' groups have claimed ..."
-    publishedDateTime: 2020-01-10T08:37:00Z
-    sourceUrl: https://www.skysports.com/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
-    ampUrl: https://www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
-    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
-    type: article
-    provider:
-      name: Sky Sports
-      domain: skysports.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.7480F9C75F0347A12CB217F8EBEE5680
-        width: 700
-        height: 393
   - title: "Facial recognition at South Wales derby 'a step too far', says police chief"
     excerpt: "North Wales police and crime commissioner criticises plans for Cardiff and Swansea clash"
     publishedDateTime: 2020-01-08T18:48:00Z
@@ -54,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C4ED7DD5487182F1B725A9B9F9D1223B
         width: 700
         height: 367
+  - title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
+    excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
+    publishedDateTime: 2020-01-08T18:31:54Z
+    sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
+    type: article
+    provider:
+      name: Wales Online on MSN.com
+      domain: msn.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
+        width: 600
+        height: 315
   - title: "Police to Implement Facial Recognition at Cardiff-Swansea Football Match"
     excerpt: "South Wales Police has announced that it will be deploying facial recognition technology at the upcoming Premier League football match between Cardiff City FC and Swansea City FC at Cardiff City Stadium this Sunday, 12 January. In a statement, South Wales Police said: “We will be deploying our facial recognition technology at key areas ahead ..."
     publishedDateTime: 2020-01-09T11:17:00Z
@@ -94,6 +94,6 @@ related:
         width: 600
         height: 315
 
-secured: "YtTXIBT4lB3b199FU3P77ydXwnBaOBmTMBp+dC1ucY8jr6Uovt3ZbOstyGu23+Q8hSQbqmm6WF2yC5iCbJvzexIC0+95dhJplxftSQvpnO3P6d8dQq4NeE7rtc+jk5jplUnjVdLs1qcq8ujifYzfdL3hxmQqcGigENRw7KbroJR9Rb7pnPxSnkoyZOCQM9mvsMzhmCKQxT6+YmMwrqWnVqN3ujzlTPXC8sPM9y3v6W0HUb3oiDeQ0lcSKEkHL/WbmPVHn2Xw2eFNhyAnrJjxtg==;XgS1bg0vFP4XEUF5+vYvBg=="
+secured: "wbKHHGj0TbjKuTtDKLMf4Z/34JjB3ZXvM3INzi9XsoMCGZ1BwIcVF58/UBc7LmtsnrOMe83Bxx+613mnIBgPV7dbNx2p3jXAUdNEkPKicGhKopG48g07LjZ6L1pn+wWw3dA4dBJvAxqOkPAtS8Vbqif8bdMRohePfa1Ch1liCsSAqjgtGCBNmgxX+UFhQ3Uz+LdYNcfOztSMSUZEofvNSDuQWGc+0LrSSifzu6AJOQD+fk1385trf4ThNCvV2eUdhbZz4g9HGRsTBl1nhawaqQ==;iw55qZuwX2geDx36IjNJnw=="
 ---
 

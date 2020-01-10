@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.99E0FAA6EB4E39571C96DCDCA74731E2
         width: 700
         height: 525
-  - title: "The AI Doctor Will See You Now"
-    excerpt: "“The AI was able to detect smaller details than the human eye could pick up,” she says. Barzilay’s work is featured in the ninth installment of the Sleepwalkers podcast, which tours the effects of artificial intelligence revolution. The episode ..."
-    publishedDateTime: 2019-12-21T08:00:00Z
-    sourceUrl: https://www.wired.com/story/ai-doctor-will-see-you-now/
-    ampUrl: https://www.wired.com/story/ai-doctor-will-see-you-now/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-doctor-will-see-you-now/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://media.wired.com/photos/5deac17648e9d2000853d4b1/master/pass/Biz-mammogram-521713512.jpg
-        width: 2400
-        height: 1600
   - title: "Best Game Ever: Vince Carter has the answer for AI"
     excerpt: "I had a game in the Rucker too. And there was a game where I scored 51 in Miami, of all places, against a Gary Payton team. And then there’s the one in the playoffs verse the Sixers when AI and I were going back and forth. I scored 50 that game. That was probably it, my most memorable, because of the back-and-forth with one another ..."
     publishedDateTime: 2019-12-28T19:03:22Z
