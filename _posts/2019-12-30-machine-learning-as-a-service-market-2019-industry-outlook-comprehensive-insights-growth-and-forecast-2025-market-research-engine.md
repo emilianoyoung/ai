@@ -81,19 +81,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global AI in Banking Market Report tracks the major market procedures including Market Overview, Business Revenue, Introduction, Gross profit & business strategies opted by key market players. The report also focuses on market size, volume and ..."
-    publishedDateTime: 2019-12-21T03:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-banking-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Vivo eyes AI-driven 5G devices for Indian market in 2020"
     excerpt: "New Delhi: Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with ..."
     publishedDateTime: 2019-12-25T07:21:00Z

@@ -24,19 +24,6 @@ images:
     title: "Biophysical prediction of protein–peptide interactions and signaling networks using machine learning"
 
 related:
-  - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
-    excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
-    publishedDateTime: 2020-01-08T10:15:00Z
-    sourceUrl: https://www.nature.com/articles/s42003-019-0730-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
-        width: 685
-        height: 445
   - title: "caresyntax & ARC at Sheba Medical Center Launch Collaboration to Predict Surgical Outcomes Using AI and Machine Learning"
     excerpt: "The collaboration will enable caresyntax to measure surgical data across more than 300 variables in oncological procedures using artificial intelligence and machine learning to develop algorithms that will predict surgical outcomes and enable a higher quality of care for both patients and surgeons. The ARC (Accelerate, Redesign, Collaborate ..."
     publishedDateTime: 2020-01-07T12:00:00Z

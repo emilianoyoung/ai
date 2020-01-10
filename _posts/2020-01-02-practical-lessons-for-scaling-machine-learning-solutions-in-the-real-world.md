@@ -78,6 +78,15 @@ related:
       - url: https://www.bing.com/th?id=ON.C1F7A4F88456153D7C68C04023EB8F8A
         width: 700
         height: 316
+  - title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
+    excerpt: "Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep neural networks to maximize performance, battery life and to add new intelligent features. Cloud-based AI inference is not ..."
+    publishedDateTime: 2020-01-07T11:11:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-sifive-ceva-partner-bring-machine-learning-processors-mainstream-/2020/01/07/9077061.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
   - title: "Consider 3 questions before implementing machine learning or AI"
     excerpt: "Today’s cutting-edge research on cloud solutions for manufacturers highlights how artificial intelligence and machine learning have the potential to prevent downtime, improve safety, and reduce material waste. That’s exciting for industry leaders, who are always looking for ways to refine these core efforts. At AWS’s re:Invent conference ..."
     publishedDateTime: 2020-01-08T03:50:00Z

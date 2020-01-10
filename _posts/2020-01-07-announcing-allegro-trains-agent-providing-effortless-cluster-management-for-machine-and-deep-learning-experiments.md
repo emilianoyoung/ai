@@ -2,8 +2,8 @@
 category: news
 title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
 excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
-publishedDateTime: 2020-01-07T19:00:00Z
-sourceUrl: https://www.prnewswire.com/il/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
+publishedDateTime: 2020-01-07T12:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
 type: article
 quality: 32
 heat: -1
@@ -24,20 +24,35 @@ images:
     title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
 
 related:
-  - title: "What are Azure Machine Learning environments?"
-    excerpt: "They are managed and versioned entities within your Azure Machine Learning workspace that enable reproducible, auditable, and portable machine learning workflows across different compute targets. You can use an environment object on your local compute to develop your training script, reuse that same environment on Azure Machine Learning Compute ..."
-    publishedDateTime: 2020-01-07T22:57:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/concept-environments
+  - title: "Going Beyond Machine Learning To Machine Reasoning"
+    excerpt: "Machine learning is necessary for systems to gain value from data, but it just pushes the problem of intelligence to the next level: reasoning."
+    publishedDateTime: 2020-01-10T04:05:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/going-beyond-machine-learning-to-machine-reasoning/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/going-beyond-machine-learning-to-machine-reasoning/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/09/going-beyond-machine-learning-to-machine-reasoning/amp/
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.3051F25B3C8A73728817F24571E172E9
-        width: 573
-        height: 282
+      - url: https://www.bing.com/th?id=ON.E3189178B6AF8535454C7D73E3CD8CAC
+        width: 600
+        height: 315
+  - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
+    excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
+    publishedDateTime: 2020-01-08T10:15:00Z
+    sourceUrl: https://www.nature.com/articles/s42003-019-0730-x
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
+        width: 685
+        height: 445
 
-secured: "zPoMPC/89QJ44Vj194012SzYUFNogEQu2dyqGH1RRGLXxSvveWCCs1pt3SQSAb1BmR01IJaMJSeEEF4lTsGvi3GOMXtCMstD3tjHpFULgQNiC5msxa6w/ZW+CUifd4DHwJ6kyQ8OwIYE0qN3Zsrn2CLCGOY5OugJeEkGwLKnzfl/+v2HGzivBqp/4DTpZljx6XcpPNki9E13qkaJgmtTquEt1MW194Bs3wcEQpuDvWJ2dkF9DoVz7ehxsTzfP87rqI0VgGeyKcz8Y8BRtLD+cA==;KoZTd8gO0lNDJ2kyYe+MRA=="
+secured: "11BmzrMwKDTxlQ3Sk7pUCDyJk+vKsS4robYPHWvfB4ZqHziTm5SoSuoV2KZJzuPuBDvhEuXjIP+srX6rovWTZ0ySSXYF0lJhsy8YNAYSYFbFhOfbZUiofgZeBi6G/6v0aWqbb/ny9EFWul1bkXrDjEK8guq8ICvoNFcVe0NmXja/BWWzjIndnv9E/ZtKCx9hFIyieGlSlBbfwCbey0NQ/1Igb+Ht2lOofs6T9N2ENfFsvj/ZShGmLZns42DHZVsZueCtxjdcWnsRV/rV/oZ4qg==;FPOofdgzHh9Z1n0dTp/qgg=="
 ---
 

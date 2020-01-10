@@ -2,20 +2,28 @@
 category: news
 title: "Artificial intelligence tracks down acute myeloid leukaemia"
 excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-publishedDateTime: 2019-12-26T04:58:00Z
-sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
+publishedDateTime: 2019-12-26T12:48:00Z
+sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: ETHealthworld.com
+  domain: indiatimes.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://etimg.etb2bimg.com/thumb/msid-72974624,imgsize-93356,width-800,height-434,overlay-ethealthworld/artificial-intelligence-tracks-down-acute-myeloid-leukaemia.jpg
+    width: 800
+    height: 434
+    title: "Artificial intelligence tracks down acute myeloid leukaemia"
 
 related:
   - title: "Artificial intelligence tracks down leukemia"
@@ -84,6 +92,6 @@ related:
       domain: deccanchronicle.com
     quality: 39
 
-secured: "j+ZQC7Kd495OORB4T6H1xi3k1GHddaev7spc6q1BH/T5DesmyNqRHv4Vk6j8ihgJeLbd/63ujZSefqJXXiPR3Rucy5WgKoSjuoZjlC4g0S907ZVqlMJktbkPDsSJpbLJ/vD6A7K6KmIWMY8dA4b/XOE0L2sWQWZbZvzZT66MNxwz6ymQ6xk2UiOYvvs3E/OL33oSYpsXVDmJCOBBJTzhu57UL4dgfA7azh7PBpRklBh6aVbk6R1w6X6B4QtKRlTNlFRgfVUtdqR4/rXDBGnFWA==;O7mG/vND4294XeOVP8I70g=="
+secured: "uPNpr6thQkNBy2fE6VtoYFQbBrt/PiVHpcJ0rHPuCTlpcF+svO8biIDshIxWRvKVapzxOWlC0F/KE3rk/kwFZygREewiUDOJ9saW7LaXQY4Gz/BymK6LruI1mCQxNbuQzK3E2bSgHKOtxUdywaIDsH/nl9pjkbVE1h4kXNdug9GB8LXnVpKvyFMvYBuZRqGR7UBihnAooqHkq9fAuAs89nhg0pgajGwtgyXJGwndYEaFbV8KK+JkDqRdZkuN7DfIEvbK1USHLXSrLr141sXlOw==;TxjHpgVKmDIt4uEPwnbKgw=="
 ---
 

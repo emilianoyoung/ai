@@ -149,21 +149,6 @@ related:
         width: 1200
         height: 630
   - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology.PTI | December 21, 2019, 08:38 IST Washington: Facial recognition systems can produce wildly inaccurate ..."
-    publishedDateTime: 2019-12-21T03:08:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72911022,imgsize-53302,width-800,height-434,overlay-ettelecom/massive-errors-found-in-facial-recognition-tech-us-study.jpg
-        width: 800
-        height: 434
-  - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for Asian and African ..."
     publishedDateTime: 2019-12-22T02:08:00Z
     sourceUrl: https://www.thejakartapost.com/life/2019/12/21/massive-errors-found-in-facial-recognition-tech-us-study.html
