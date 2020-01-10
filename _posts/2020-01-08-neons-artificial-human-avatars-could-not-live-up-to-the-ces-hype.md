@@ -180,6 +180,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
         width: 700
         height: 392
+  - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
+    excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
+    publishedDateTime: 2020-01-10T22:21:00Z
+    sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F34A641AF19471140AB2B1D0AC66E928
+        width: 700
+        height: 466
   - title: "NEON showcases their first Artificial Human at CES 2020"
     excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
     publishedDateTime: 2020-01-07T07:27:00Z

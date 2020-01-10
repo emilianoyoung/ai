@@ -1,29 +1,27 @@
 ---
 category: news
-title: "More job cuts stare at us as Samsung showcases NEON 'artificial humans' ready to do everything we do"
-excerpt: "It should now be, \"Whether artificial intelligence will take over the world ... you will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What's more, over time, these NEONs which come in several different avatars, should be able to work as TV anchors ..."
-publishedDateTime: 2020-01-09T09:49:00Z
-sourceUrl: https://www.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
-ampUrl: https://amp.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
-cdnAmpUrl: https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
+title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
+excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
+publishedDateTime: 2020-01-10T22:21:00Z
+sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
 type: article
-quality: 29
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Ellen
-  domain: ibtimes.sg
+  name: InvestmentNews
+  domain: investmentnews.com
 
 topics:
   - AI
-  - AI in Healthcare
+  - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.1CC71175EDA4676CC03A4674362FAF84
+  - url: https://www.bing.com/th?id=ON.F34A641AF19471140AB2B1D0AC66E928
     width: 700
-    height: 494
-    title: "More job cuts stare at us as Samsung showcases NEON 'artificial humans' ready to do everything we do"
+    height: 466
+    title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
 
 related:
   - title: "Neon's CEO explains artificial humans to me and I'm more confused than ever"
@@ -191,19 +189,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
         width: 700
         height: 392
-  - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
-    excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
-    publishedDateTime: 2020-01-10T22:21:00Z
-    sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F34A641AF19471140AB2B1D0AC66E928
-        width: 700
-        height: 466
   - title: "NEON showcases their first Artificial Human at CES 2020"
     excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
     publishedDateTime: 2020-01-07T07:27:00Z
@@ -275,6 +260,21 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "More job cuts stare at us as Samsung showcases NEON 'artificial humans' ready to do everything we do"
+    excerpt: "It should now be, \"Whether artificial intelligence will take over the world ... you will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What's more, over time, these NEONs which come in several different avatars, should be able to work as TV anchors ..."
+    publishedDateTime: 2020-01-09T09:49:00Z
+    sourceUrl: https://www.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
+    ampUrl: https://amp.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
+    cdnAmpUrl: https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.1CC71175EDA4676CC03A4674362FAF84
+        width: 700
+        height: 494
   - title: "Samsung unveils new artificial human avatar"
     excerpt: "AFP – A Samsung laboratory yesterday unveiled a digital avatar it described as an artificial intelligence-powered “artificial human”, claiming ... The NEON creators said the new virtual humans are the product of advances in technologies including neural networks and computational reality. According to Star Labs, NEON is inspired ..."
     publishedDateTime: 2020-01-07T21:22:00Z
@@ -346,6 +346,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "eBJIL9wra2mYDmamaEYtWYqt2QXHbVxlw3BifV3UDJVkAWfyITXPWJG4pIT+d8GXGZvbDj/wk5yVOR1tMjKWZY8msF5IahvAArfUr34U+JKJ+CuR5vbR43F7k/38WjHpo4qdRLC8aqRVMBAjNZP4dooQ3SQCa1MILcyrLZSztQTx5B8b63+K4JQ7+n6t4fzPYUMvJQooC/s1TtfXDoukJT03KlgJhB96YSnl1Ti4BtaHj1LNSu2HTwccIP18UoffE+mPeIC9ADeDPCNJzbRR7w==;iLctOYm0qli11Xx06rZVEA=="
+secured: "kYa81x4G0iyzO+K+rR//mzc+fxi/X8glZSPb8T3IroU3RIbmLfHXyPRRf07DUzEashUuNVIFqjzIp/XUZv9s8kSeNqPeG4wojg8C28Spq5xdsxM5H9aUhBNx7Y4MR6GPhY46V12WDPTHNtp4TtmdEl0WrBirqt3zoP+DK/jBiYX/rqQPSCZnLeXphs5PbG3Qthtchx2hde1Ebm87KeNjChx2xv1K+nDVNIRwMwK7HIL6YMJzOe2/wA9g/oqT9R1q66k2SezD2BAoWwxBav3cLQ==;ARu5EegRQEjcUb4TKVmFsA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-stee
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
 type: article
 quality: 73
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
         width: 700
         height: 393
-  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
-    publishedDateTime: 2019-12-21T21:51:00Z
-    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 0
 
 secured: "C7YrvzzfpTE/OBcaq8ilhpKbQE4RZZrzSOGEZRxjaipwI1nZ4XGMFyzbD8P19KGKGA1jtk/uo9aOm6cPPmMXWFer9JwKnOwlc068+3aWDxl3AoGor06uo3dHnb5GFfzGxPxy2+ND3GcoeMWspkkj70h198gvl3YzWHilzc/fovD6ZLRB8eh7hIT7u3ZfCHfNeEQI5bOMSGFZp0FLKKVq3tiIkd30onVYQz5HxwLb5kkyqosH+6gwCQuHaav7K9Duh8+v6Y55XoCxU600ZoLJkQ==;8tjM5VKQRFItN0Fk4GJSxA=="
 ---

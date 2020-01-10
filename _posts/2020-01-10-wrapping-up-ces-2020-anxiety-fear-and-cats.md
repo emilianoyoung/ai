@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Wrapping up CES 2020: Anxiety, fear and cats"
-excerpt: "Translation stations are coming: Google Translate Last year ... A sleep trainer: Hatch Restore This combined bedside lamp and white-noise machine promises to help you fall asleep and wake up with more ease. The Restore changes color and brightness to match your sleep routine - yellow for wind-down reading time, bright white for waking up ..."
-publishedDateTime: 2020-01-10T18:22:00Z
-sourceUrl: https://www.brainerddispatch.com/business/technology/4858910-Wrapping-up-CES-2020-Anxiety-fear-and-cats
+title: "Wrapping up CES 2020 - anxiety, fear and cats"
+excerpt: "But a brand isn’t truly in tech until it dabbles in artificial intelligence, so Delta announced a machine-learning platform that it will use to help make ... No price yet, available in late 2020. • Translation stations are coming: Google Translate Last year, Google launched a real-time interpreter mode by sticking it on one of its smart ..."
+publishedDateTime: 2020-01-10T22:53:00Z
+sourceUrl: https://www.thegazette.com/subject/news/nation-and-world/wrapping-up-ces-2020-x2014-anxiety-fear-and-cats-20200110
+ampUrl: https://www.thegazette.com/subject/news/nation-and-world/wrapping-up-ces-2020-x2014-anxiety-fear-and-cats-20200110?template=amphtml
+cdnAmpUrl: https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/nation-and-world/wrapping-up-ces-2020-x2014-anxiety-fear-and-cats-20200110?template=amphtml
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Brainerd Dispatch
-  domain: brainerddispatch.com
+  name: The Gazette
+  domain: thegazette.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.495A4AA165D0A8CBBB89D735F3410470
+  - url: https://www.bing.com/th?id=ON.E5F827BA8B381BCA2181B6FEA71E1788
     width: 700
-    height: 437
-    title: "Wrapping up CES 2020: Anxiety, fear and cats"
+    height: 407
+    title: "Wrapping up CES 2020 - anxiety, fear and cats"
 
 related:
   - title: "Wrapping up CES 2020: Anxiety, fear and cats"
@@ -55,6 +57,6 @@ related:
         width: 700
         height: 466
 
-secured: "RiD+twvA5hT6zfqtbHsaJ6JQhZ5r6wJIlVhbSN5U1JPQ1gW7J58+nO+fx87j638yFTjKIG1Pm5wAZTHrnfj/N/Txch42xL4Doi5Vy4ZAB8sBBcpc1MMOFwmvkznyN/DX2g/csGCXB7YhMnPcSLveyS9yoRBjfj9fs4ftnTBQvHUAL77Yd8saXpBmlapPakLXWuuJehpj7RYnOtUBDhIbLfMUfETgpWH+qpllTlxGamqljn4YYRHinBY2lm/bZcxjDMz7Vny7KuEgF+XrymQjwA==;d5kjxOGVUE4b5W3zFDU2SA=="
+secured: "IK3mOfRgLKkutSgwlZylVygTR7P3gh6HMdEWTGCibAQspd61C0W9pBmrjzVzYhHIam/CChPcZobq+EWVm+jqzDbUx7bUQNRPA4Va/SLDzba5pQ8QsJ3eXYaBHOYrGJBZo7ZnKLMCXtoG4toXKOwevQiF1YBeGUS7W7s9mHNv5fLLLY/wKukz8iDgL0iuwgQ2SysVPf6hQL3h5TJ4j+2ShJ4tGkzZEizn2iT7NRcFB7JUuiZ/OA9Gf1MJJLBKIWn2xoLowB74ecvBWo3kON6Kgw==;/PqqDt9pNa6Vu5frkHeHAA=="
 ---
 

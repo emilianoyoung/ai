@@ -1,34 +1,27 @@
 ---
 category: news
-title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
-excerpt: "And the company is making its pretrained libraries of deep neural network data for self-driving cars available to its partners ... and it is now becoming the heart of artificial intelligence chips for autonomous vehicles. “Everything in the $10 trillion industry will have some degree of autonomy, and that’s what we’re really working ..."
-publishedDateTime: 2020-01-06T16:30:00Z
-sourceUrl: https://venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/
-ampUrl: https://venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/amp/
+title: "Cerence Brings Gesture Recognition Windshield to CES"
+excerpt: "Cerence is showing off an improved version of its Cerence Drive platform at CES 2020. The multimodal upgrades primarily concern technologies like gaze detection, head tracking, and voice and gesture recognition, and will give drivers more ways to control various elements of the vehicle without the need to press any buttons. The highlight is the ..."
+publishedDateTime: 2020-01-10T21:59:00Z
+sourceUrl: https://mobileidworld.com/cerence-brings-gesture-recognition-windshield-ces-011007/
 type: article
-quality: 85
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Mobile ID News
+  domain: mobileidworld.com
 
 topics:
   - AI
-  - Machine Learning
-  - AI in Autos
+  - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.7AEB38BB363B91C31C73B90E5DAF4A69
+  - url: https://www.bing.com/th?id=ON.153380E285D262CBCFD9821427EC28E8
     width: 700
-    height: 398
-    title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
+    height: 700
+    title: "Cerence Brings Gesture Recognition Windshield to CES"
 
 related:
   - title: "LG’s CES press conference tried to convince us of its AI future"
@@ -61,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1B06B352EE7EE82D99CF7B4F396925E3
         width: 700
         height: 525
+  - title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
+    excerpt: "And the company is making its pretrained libraries of deep neural network data for self-driving cars available to its partners ... and it is now becoming the heart of artificial intelligence chips for autonomous vehicles. “Everything in the $10 trillion industry will have some degree of autonomy, and that’s what we’re really working ..."
+    publishedDateTime: 2020-01-06T16:30:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/
+    ampUrl: https://venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.7AEB38BB363B91C31C73B90E5DAF4A69
+        width: 700
+        height: 398
   - title: "5G, AI, edge, and partnerships discussed at Intel's CES 2020 news conference"
     excerpt: "Intel CEO Bob Swan stepped on stage at CES 2020 and discussed the company's \"big ambitions\" for 5G network transformation, artificial intelligence (AI), new partnerships, and the 120 companies \"on board [with Intel] driving innovations.\" Here's a closer look at some of the key topics revealed. Intel is advancing the partnership it announced ..."
     publishedDateTime: 2020-01-07T02:38:00Z
@@ -102,19 +110,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1F01EB69BB3330BEF80CC94BBFD2CA7B
         width: 700
         height: 366
-  - title: "Cerence Brings Gesture Recognition Windshield to CES"
-    excerpt: "Cerence is showing off an improved version of its Cerence Drive platform at CES 2020. The multimodal upgrades primarily concern technologies like gaze detection, head tracking, and voice and gesture recognition, and will give drivers more ways to control various elements of the vehicle without the need to press any buttons. The highlight is the ..."
-    publishedDateTime: 2020-01-10T21:59:00Z
-    sourceUrl: https://mobileidworld.com/cerence-brings-gesture-recognition-windshield-ces-011007/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.153380E285D262CBCFD9821427EC28E8
-        width: 700
-        height: 700
   - title: "Canadian schools prepping students for jobs of the future as automation, AI continue to transform workplaces"
     excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said. Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s ..."
     publishedDateTime: 2020-01-02T15:20:00Z
@@ -138,6 +133,6 @@ related:
       domain: warc.com
     quality: 2
 
-secured: "WieViM7UK2l9kul+BzEzB5+O7Qyw5HRmd5gAL864vg5LuN0HibWtmDnJwSmEwCfnR4PDcAidh1G350a8m4Erfj6ZMifOgabViaT2pNVErLg0kQVmkd0I8vkb08NLmgDVFQG87NIamaPEJ5eYmXriEqHN4r+LqnN1MFlpbC5lQNJnXlCeBxk0kU5PO7J2687ZqNltmAEjmIPpAevIhacfwRPQC1XTeFnPlo7sg+vaC2mDow3p3Q1KIytJCI3aQiDHehPEfAzV0PiOPfoofjGgfg==;u7Bdq4KZnTeuG5udROCqWA=="
+secured: "deCGJG/7+6pzKPYEf3XknE+AbP/u4Jfg0MoPaT46WbX4wPyYJAuPuXriLsTqv+ZmO4wRrORJh826+9FtZ9rRvxtu5Vj1JeP3ahKAU4Z1yWW9qXiADYGCYs7eT9RjtnAyD8MzV9kmcQ/13Qh92sy9KkjDyyz+ETRw0oaK4wTuWSWxgy0mJAsfgiwh23sT4o5vm+l0gV2xudy6k1HGVUvWY8hTTpJAPyxCe/Ez6sI/8B+Vo+CVqo1DdO4J7nlnxxZHFCVSarFUNGREGArb+cegjA==;dvpUC9NKXJCYcl/Bw9jskw=="
 ---
 

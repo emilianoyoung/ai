@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-l
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 600
     title: "Automation And Machine Learning: Transforming The Office Of The CFO"
 
-related:
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-
-secured: "JvBsCLqBp/u9izg3Zkme+RhcjkFryp7WvzR6CUtj8ko4fYrqam6wRMonihiLsRGQ8hUnFlFS/4JNwhQ1Wc6OECBp+ZTpZ7sfMA6xuWAsQjG9WdftAmCC8ZiWOYlOLftu36JWXso9cBwDNaaGjX9Ys2I6Ox+TaFqohInEDbK+R1ioI01tTLQa0+xA4EpKwujrhzF2pTBVV6OGp0N3yRqf+5F0xtaHSaHkQP5XwZgWtEuW61oUWqOaaJvT2ro3klfk/NwEcgZEAM71OCWX0oPj9Q==;foNtYgGhVcLCf3hFq+E2AQ=="
+secured: "hH/fuGjzSEX9N38OMUBkHQLDyu4LL5bThe6xr5Y2ClJax4FwgDlkrJriCjYAF6RDwGXTmi8BsOQbFEqL98Hd9bRaqSy8DnSXHpGQjI/cdjpqASKiMA0Ssm2mfZKQBWnjBtpErHYXJZc7He64XhMWIvW3VyuOrLDywtGUOqqIdLQOMNJtGMkWiHWHttdB0nZZUmUeJ3LYGklKj/cTaNQ5se40BDvIrKcqxRbDL05hmSb9OYF4dUioY4h7vYSfbTCS+t6krPiqsLVHPdypMEJ/cw==;Zs7F8XnNSp9c39Jj+9UQXw=="
 ---
 
