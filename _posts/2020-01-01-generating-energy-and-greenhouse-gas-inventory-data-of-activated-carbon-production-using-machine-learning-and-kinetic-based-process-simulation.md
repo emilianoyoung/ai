@@ -33,19 +33,6 @@ related:
       - url: https://www.retailtouchpoints.com/media/k2/items/cache/9d938d8abba7a40b7e0a8e884db372b2_L.jpg
         width: 900
         height: 531
-  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
-    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
-    publishedDateTime: 2020-01-07T15:35:00Z
-    sourceUrl: https://www.fleetowner.com/technology/autonomous-vehicles/article/21119908/artificial-intelligence-in-transportation-is-not-science-fiction-anymore
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.F3AE4E6AA7147C9C64BBCAEC7EDFB7AC
-        width: 700
-        height: 440
 
 secured: "5fXNJkD7kkKAAkIn46TlKtCZn3IRW47DcgpaNiGO+6/of9VfWmZJxCJcapoKJ4IGk8raXf913GeTYHthQkFItqtVO04zXzgl7IsNkWMMuN5pGABVKoJ+Jnk62FyigcVEF79LAJYQnCsCv0s5+Io9e2jnWfPfVPqlTxOVANC1dssXMTjYeJF/e74acBIEscJLiilCJoMMUFgivv1EUJ9qHOn7ILCqy9oHejOEjKHpOeEBGiDW0zdklQYeAoanUiSLASJtm1X51av3MdBdotPU3g==;MY70IKd3pmu0+TB0/a2uXA=="
 ---

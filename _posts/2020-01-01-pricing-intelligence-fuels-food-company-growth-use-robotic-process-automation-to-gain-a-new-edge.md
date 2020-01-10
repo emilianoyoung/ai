@@ -25,19 +25,6 @@ images:
     title: "Pricing Intelligence Fuels Food Company Growth: Use Robotic Process Automation To Gain A New Edge"
 
 related:
-  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
-    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
-    publishedDateTime: 2020-01-07T15:35:00Z
-    sourceUrl: https://www.fleetowner.com/technology/autonomous-vehicles/article/21119908/artificial-intelligence-in-transportation-is-not-science-fiction-anymore
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.F3AE4E6AA7147C9C64BBCAEC7EDFB7AC
-        width: 700
-        height: 440
   - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
     excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
     publishedDateTime: 2020-01-01T11:23:00Z

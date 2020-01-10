@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI Chip Company Syntiant Joins Qualcomm Extension Program"
-excerpt: "Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm Extension Program, offering OEMs and ODMs accelerated integration of its ultra-low-power neural network technology with Qualcomm Bluetooth audio platforms and SOCs."
+excerpt: "IRVINE, Calif, Jan. 07, 2020 (GLOBE NEWSWIRE) -- Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm [(R)] Extension Program,"
 publishedDateTime: 2020-01-07T12:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07
+sourceUrl: https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07-8184036
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     height: 630
     title: "AI Chip Company Syntiant Joins Qualcomm Extension Program"
 
-related:
-  - title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
-    excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
-    publishedDateTime: 2020-01-08T00:46:00Z
-    sourceUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/
-    ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
-    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 44
-    images:
-      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
-        width: 2048
-        height: 1152
-
-secured: "Ylwos8o2vBFoWeS8fjF7j4fMoUVdjOMlYKC6m3mGjSGEYYohX6pm+kxEsYwnkvDgFpiX6Q6XuneB4yBodJXMoTExGCXFERgwZsF6Zdr4MxcO5MjEwH9UI7DnvCWERp0gocWEbZEF9NeV3hX/kMx8QwTAPOQB468KTFKJXF1dTQkU3jGVSAAgu4rsZglSDlUm/HwmYDB5YzO1zLiqkXMSKQh+FlLTWKW/5hzMaan6/KwHQpGY4wSfsA8buArHIuxwt/O5m1ov6fSbcsnp7jWeXA==;vwG8/SUEOWv4o+rj8ZNJtg=="
+secured: "Yu8B9AljSuybMFP+t8gBD6tWZdri8ahw02blxNN+XJqlef1mhpT1aO3KdZRKPUq47mFLV4dTnheXQwvpllNYHMbRdPE+tL6GECAnGHfKBPA1CEUzn4nd5MNeChyVYe3/mr2E9r52d3od9myHlD+vfXK1tG5q3WJ9YeoVhgQa7+xBCm5RhM3hLO7B5Bo2D8pv3t24i+bd2fiaFG/J+nXYsh9wxKELhz8DwGPTDusFr19xiy31rWB7qCHvquQ8BCV8PcVznqNEyvNs5tDqPgOHqg==;Q1dic7QBM0ltRISDc/QHtA=="
 ---
 

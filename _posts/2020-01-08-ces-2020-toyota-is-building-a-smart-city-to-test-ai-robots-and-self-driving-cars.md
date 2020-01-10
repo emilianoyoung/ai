@@ -284,6 +284,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5E65B606C1888F89059EA97DAA66A20E
         width: 700
         height: 392
+  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
+    excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
+    publishedDateTime: 2020-01-10T05:53:00Z
+    sourceUrl: https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691
+    type: article
+    provider:
+      name: Steel News
+      domain: steelguru.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A88796FA24D024D820D53EE9462FD145
+        width: 700
+        height: 466
   - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
     excerpt: "Toyota researches and tests robotics, material science, automated driving and alternative fuel technology in labs all around the world. Now the automaker is trying a new and far more ambitious project: build a prototype city on a 175-acre site at the foot of Mount Fugi in Japan,"
     publishedDateTime: 2020-01-06T22:14:13Z

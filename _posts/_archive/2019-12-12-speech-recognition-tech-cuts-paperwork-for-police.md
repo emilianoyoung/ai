@@ -40,18 +40,18 @@ related:
         width: 1198
         height: 599
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Speech recognition and synthesis sample"
     excerpt: "Shows how to use Speech Recognition and Speech Synthesis (Text-to-speech) in UWP apps. In addition, translations are shown for speech recognition and text-to-speech for supported languages. Translations provided may not be using ideal phrasing and are provided for demonstration purposes only. Some speech recognition features require acceptance ..."
     publishedDateTime: 2019-12-21T22:35:00Z
@@ -152,6 +152,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "nDhxnCZAO4DHnKnwdOKqVL6vC0STQgl6FsaTWeBu0EK2JwdSr78wcyotg9qnKp5/lWLbkgPHd6Z3qprilr4nkzx/LRN/66hPory69nY06/fD0MLzh6qHsO/MaA6NA5Wzm3UnVwfErE5cm338edmCMpZx74rVfhhIIXuIa0d9VDjxcEoT5WngujX8mrGKbPCsceLzXPPOU/dvOhHdD8u4T0isS8d1bgTg6mzDLA72rYO8oulD4elc6pIYMHhxYsvhYiTDpeixbePU1pZ4YPQW4Q==;lRAXkgcUNHcQoISCFXTloA=="
+secured: "8vECKarDiUqRiJmg7FTh9eQl8oEvmY8HX/wTRWR0uKn3wGkL3gFl/yyn7cmA5vmnlhwdL2av5M3JrNpPNJrm6byEHg4vdQ6NQjxynhq8WT29qOilICVSimoycB5bnP9xqEyyJqaQk3uvdEj7RujHhxHmc06B8DdXHBkIaAjDkMA5Nf7RbhB5ITROZ6K4SJaxnLlw3OYJwteJH0KJzaONd5HFqBV2VV8I7hvgz5oKNPesjbHHahM1DOfLYBbrdU7FuE9vlv2NIe3SdQXBX4/4zg==;v9gwQOcUDoy+qoR+Bi/inw=="
 ---
 

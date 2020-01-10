@@ -631,7 +631,7 @@ related:
   - title: "To learn how police use facial recognition, we must ask the right questions"
     excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
     publishedDateTime: 2020-01-04T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions
+    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions?partner=rss
     type: article
     provider:
       name: Fast Company

@@ -8,7 +8,7 @@ ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-plat
 cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,19 +26,47 @@ images:
     title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
 
 related:
-  - title: "AI Chip Company Syntiant Joins Qualcomm Extension Program"
-    excerpt: "Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm Extension Program, offering OEMs and ODMs accelerated integration of its ultra-low-power neural network technology with Qualcomm Bluetooth audio platforms and SOCs."
-    publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07
+  - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
+    excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
+    publishedDateTime: 2020-01-07T06:11:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O.html
+    ampUrl: https://m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
+        width: 700
+        height: 393
+  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
+    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
+    publishedDateTime: 2020-01-07T19:22:26Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/qualcomms-snapdragon-ride-wants-to-power-tomorrows-self-driving-car-tech/ar-BBYG0iM
+    type: article
+    provider:
+      name: Roadshow on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.77D65AEC3459E4B591C6F7E37CB1E251
+        width: 700
+        height: 367
+  - title: "Qualcomm's new Snapdragon Ride platform is first step toward self-driving cars"
+    excerpt: "SAN DIEGO - After years of supplying Bluetooth and cellular connectivity to automakers, Qualcomm is pivoting toward safety with its new Snapdragon Ride platform, which aims to bring advanced driver assistance features such as automated parking,"
+    publishedDateTime: 2020-01-08T22:47:26Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYLhPt
+    type: article
+    provider:
+      name: Tribune News Service on MSN.com
+      domain: msn.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.2EE31DD748E496716926E446B26451F1
+        width: 700
+        height: 367
 
 secured: "NfR8JNUq0tp66oTT2yisvNb0vljrzMHQxqafPbbO6ELwhYc3+FC5lt8H0wMhkAH2PHlKJxz3QeYiBd10oMRSp/ENT6lBBTiMaiwpRwD+2+3cCZAbeZKZnxNPg8MVQfdtknIpCMtYTnhyppjb161zkDXHOQYIWuEcRp1iBSOp61B9Thv40YmIHHqxWqXTs7IQ6BlXDiWouVb1NpIHRXq4RDaWloYu2XjwBDjsffmHbUn4UYyvYJkd6F2uNpX5d6lwElEOTZAEUgEqqw7qsNg5rQ==;uAabJ002OA96Eqf7Ccr2MQ=="
 ---

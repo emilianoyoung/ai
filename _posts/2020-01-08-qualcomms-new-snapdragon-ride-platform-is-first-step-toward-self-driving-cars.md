@@ -24,6 +24,36 @@ images:
     title: "Qualcomm's new Snapdragon Ride platform is first step toward self-driving cars"
 
 related:
+  - title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
+    excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
+    publishedDateTime: 2020-01-08T00:46:00Z
+    sourceUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/
+    ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 44
+    images:
+      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
+        width: 2048
+        height: 1152
+  - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
+    excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
+    publishedDateTime: 2020-01-07T06:11:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O.html
+    ampUrl: https://m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
+        width: 700
+        height: 393
   - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
     excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
     publishedDateTime: 2020-01-07T19:22:26Z

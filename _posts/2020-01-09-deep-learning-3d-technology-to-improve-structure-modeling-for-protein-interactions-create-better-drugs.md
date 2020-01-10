@@ -24,19 +24,19 @@ images:
     title: "Deep learning, 3D technology to improve structure modeling for protein interactions, create better drugs"
 
 related:
-  - title: "Sports Organizations Using Machine Learning Technology to Drive Sponsorship Revenues"
-    excerpt: "Using machine learning technology (think: natural language processing, computer vision), B6A's proprietary sponsorship model translates traditional fit and engagement benchmarks into probabilistic revenue growth metrics. Over the last 10 months, more than a dozen pro sports organizations have begun using Block Six technology - as opposed to ..."
-    publishedDateTime: 2020-01-03T00:02:00Z
-    sourceUrl: https://www.si.com/johnwallstreet/sports-business/sports-sponsorship-revenue
+  - title: "Deep learning, 3D technology to improve structure modeling, create better drugs"
+    excerpt: "Now, Purdue University researchers have designed a novel approach to use deep learning to better understand how proteins interact in the body - paving the way to producing accurate structure models of protein interactions involved in various diseases and to design better drugs that specifically target protein interactions. The work is released ..."
+    publishedDateTime: 2020-01-10T05:00:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/pu-dl3010920.php
     type: article
     provider:
-      name: Sports Illustrated
-      domain: si.com
-    quality: 32
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
     images:
-      - url: https://www.bing.com/th?id=ON.D62F157AE5836B95713B3EE093681B3E
+      - url: https://www.bing.com/th?id=ON.97AC0A7FA7EC692B82CCE9A1262CA4A4
         width: 700
-        height: 466
+        height: 433
 
 secured: "V0oTBe8JwpBnfi4ZQ3HitoxLY7u0EQah4NFlUmKY9Kcj/VDernivKVIl331HiBO+BZbD+gCvsT1p+2sLS3E7jbdnXxKfXvTQ6rvlKNYesINX48jSbZGX64VKHE5G1uoOdNJt1HFXoocbwsfctMkqeX8juGk4jo05oiMgCoYvqZZq78VAWAkQ48LLBRo1taFEEdxj472uD/Rigb19N+dkADsuExMZ4AwjFJ3+UrQagVVcapmBPWAYZbIiD1HDAA3xQJA9ghx1r8s3u83oW4xDfQ==;chs8qjkZkzOpqNPUjGF+kQ=="
 ---
