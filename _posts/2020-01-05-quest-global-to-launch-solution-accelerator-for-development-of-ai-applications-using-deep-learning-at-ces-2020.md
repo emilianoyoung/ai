@@ -24,43 +24,34 @@ images:
     title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
 
 related:
-  - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
-    excerpt: "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip). Reportedly, this collaboration eliminates the need for developers to manually optimize ML ..."
-    publishedDateTime: 2020-01-03T16:14:00Z
-    sourceUrl: https://sg.finance.yahoo.com/news/ambarella-aws-bring-ml-solutions-150803976.html
-    ampUrl: https://sg.finance.yahoo.com/amphtml/news/ambarella-aws-bring-ml-solutions-150803976.html
-    cdnAmpUrl: https://sg-finance-yahoo-com.cdn.ampproject.org/c/s/sg.finance.yahoo.com/amphtml/news/ambarella-aws-bring-ml-solutions-150803976.html
+  - title: "Solidia Technologies and Uncountable Accelerate Development of Next-Generation Concrete Manufacturing with Data Science and AI"
+    excerpt: "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200108005200/en/ CO2-cured Solidia Concrete lowers the carbon footprint of concrete up to 70% (Photo: Business Wire) Employing data science, machine learning and Artificial Intelligence (AI), Uncountable’s web platform and service ..."
+    publishedDateTime: 2020-01-08T15:26:00Z
+    sourceUrl: https://venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/
+    ampUrl: https://venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.BE98E09A23B14B7D64A88C1F6B47904E
-        width: 568
-        height: 264
-  - title: "GIGABYTE Technology Co.: GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-    excerpt: "Studio area will feature GIGABYTE's state of art laptop for creators - AERO series. Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and ..."
-    publishedDateTime: 2020-01-02T17:08:00Z
-    sourceUrl: https://www.finanznachrichten.de/nachrichten-2020-01/48524162-gigabyte-technology-co-gigabyte-brings-ai-cloud-solutions-and-smart-applications-to-ces-2020-to-enable-future-today-200.htm
+      - url: https://www.bing.com/th?id=ON.80DAB65964372F9590EF6B4C51FE0770
+        width: 480
+        height: 332
+  - title: "Socionext Collaborates with Foxconn and Network Optix to Deliver Intelligent and Scalable Edge-AI Solutions for Retail and Manufacturing Markets"
+    excerpt: "SUNNYVALE, Calif., Jan. 7, 2020 /PRNewswire/ -- Socionext Inc., a world leading system-on-chip (SoC) solutions provider, has introduced new, intelligent, scalable edge-AI solutions developed in partnership with Foxconn Technology Group and Network Optix Inc. Socionext has partnered closely with Foxconn, a global leader in smart manufacturing ..."
+    publishedDateTime: 2020-01-07T06:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/socionext-collaborates-with-foxconn-and-network-optix-to-deliver-intelligent-and-scalable-edge-ai-solutions-for-retail-and-manufacturing-markets-300982215.html
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 17
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
     images:
-      - url: https://www.bing.com/th?id=ON.A611B201AD16A925C3B0A75ADD6A62D1
+      - url: https://www.bing.com/th?id=ON.7A41BC0431217DF5A40665AD64F7C27A
         width: 700
-        height: 457
-  - title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
-    excerpt: "ZephyrTel will do this by accelerating the migration of its end-to-end Telco software solutions suite and developing new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS in the first year of its formation, a testament to the company's growth strategy and ..."
-    publishedDateTime: 2020-01-03T12:31:00Z
-    sourceUrl: https://finance.yahoo.com/news/zephyrtel-reinvent-telco-software-solutions-121800773.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
+        height: 367
 
 secured: "jcEqf03oHrPjaXRRJRLIQn9uI6yiWKUDbBPfVzNsTkZQEvzHCC5vtSzKuZbqyi8ttA/yx3qc8EFF9uIyZzCx2/rcZ1cAEfL4F4pUnQcOQdjuVTwEfoBCS0Y+LJsOTIYaLJJTCuOGbCc/dF3QrgE7qUWMLELKW02TdDSXdt1VbI0n6cGxD5CSwmTn9vKkBGnUNi4udCuAU+Yivzs3i147DNBP++2EKG7w2wyzW6kSNC/IRzW6Vate38JG0Ip+rNhlCzw5BAQE0cXb72a/ZJMc4Q==;P0JdPx31NciagqQR1Rm9NA=="
 ---

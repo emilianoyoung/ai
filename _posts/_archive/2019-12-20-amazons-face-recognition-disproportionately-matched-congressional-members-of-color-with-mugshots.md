@@ -131,15 +131,6 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 5
-  - title: "Magic Data Chinese Mandarin Conversational Speech was selected into LDC Catalog"
-    excerpt: "Besides, the accuracy of read speech data recognition is up to 97-98%, but in conversational speech recognition, the accuracy is nearly 50% (referred to results of the CHiME-5 Challenge). This large gap indicates the challenge in automatic speech recognition (ASR) extend to new phase. This is an excellent testing dataset for conversational ..."
-    publishedDateTime: 2019-12-21T08:12:00Z
-    sourceUrl: https://finance.yahoo.com/news/magic-data-chinese-mandarin-conversational-080200632.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -150,6 +141,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "bnQJw1kQ+/lSKmZk6FcyZZCc9bN2Rjk15L0Z3VWEaJ0FZthj/wGOxBUjdlCb86W2QS/hVMHDXC8JrjJAXlkWx0KqR5mnj14p7qiZkQPJGenNL37bL8joOP9oy5hRwbT2IreDyfd0laDmYyJj0MIUJAyB6canXFvLz7BfG0C+02XmSi6X95yon+Xh4zQ3fIpU/jcHGBMfAoM3lro1gRlWSQlNk4KvkAbsc99bdFHyn2Sa4RB9sUdz7PYxqpsFeszJQEldxrJUkABle1KQERVPRQ==;TWV7y+abJ7TbyvxTuB5d9Q=="
+secured: "WNk0G6G9bRTTvdacmJHBQ/Cur8g5Fdgdip8xMtrf1T7hKCusOSOpB7jctysRuU77fcrfFQZ4E65p00cz1/ZPxsX4HWZ9Fr7uUC9dD1+/KjkFoo99xKsVxye9UI2jMGC0Aqw82uidt1DbCxHrgrw382IFfrdhQrGvPB1Q0JQPo4NiQMiU2iIT9fbOfYR8mXoEo/oCsof4mCXILiaJgSh9gt+w4BV+E3KYfyFDiT/+lgkIeS7D98lsqN/hF5zvJeqZkx6vNGlbwTz2eH2eMBEGkA==;G8MGrfQ+3jboXW2oQscHkA=="
 ---
 

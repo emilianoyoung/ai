@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E1857924AFDEBB7C899544FB16CEE4BF
         width: 700
         height: 466
+  - title: "How This UK-Based Fintech Startup Is Using AI Credit Platform To Provide Debt Finance To SMEs"
+    excerpt: "With each passing year, the fintech sector is providing faster, flexible and secured consumer experience, and is protecting against the risks and vulnerabilities of traditional insurance and loans. In fact, the global fintech market size is expected to grow to $124.3 billion by the end of 2025 at a CAGR of 23.8%. With a vision of providing ..."
+    publishedDateTime: 2020-01-10T09:37:00Z
+    sourceUrl: https://analyticsindiamag.com/how-this-uk-based-fintech-startup-is-using-ai-credit-platform-to-provide-debt-finance-to-smes/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.98B9EE634236C10184CA467B35A4B2AD
+        width: 700
+        height: 496
 
 secured: "b3KqKmAfyEvK3lX92Q6LNGd11pT4L0cSzcjvT/13VhHQ9OoQaZ5sMY5PTNlDzK0QIXTJ9o2dMCjkAksbuFPAu7dxvZdOXlUQ3Jd2MPqj47Teafq89xvUv4TdLND2zdgmLERNAhjH6Hdr9d6LedNR1Yxn97UILOjT8Hq9ZXm3zJ5M6dCBOyvucaGX/7CT1n1CavEePyp+xBAK/zZAypIsRuuczUWRjES+E1wZtlHgxrtWhfgLPVU8QgcTOThmmbr0PIyXmiiNuV0GNCkFsnxXKg==;iSpxVjx7GgTPiP1PbK7oMA=="
 ---

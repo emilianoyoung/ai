@@ -23,6 +23,6 @@ images:
     height: 330
     title: "A Camera With Computer Vision"
 
-secured: "pYy8SZqF7JHx5thfqQ9PBs/Y4ImZRi992zeh/daVMjAselMz1NiyRJZ//pChPgBgVv9xj/bP6Af+wS0MLQkLCntOGUyulzt1iCqyebXJ+Psop+RKGgZ+OAG+ObzNfisijUJeFZvnwR8gjQ1aX5m14fZufV+wtmVsldFwFqFAuB+SVWvFomka7mwS0UhlJ1089eYHyVMniQz0eL/FXrhSpz0RcMKajUI0OkzwaCVEzgqCPcos2gBdhNRWkhhEJZjfiqglxPHVPOLay96dsNPgxA==;NgZvWFu0ex5Q4ku9uoepaA=="
+secured: "19o3i+KfwQoW/Pm2gy5j3Xd709QQqYWIkVN+sMF4pHFP5DA3fN9H5hO2zE3Ie8uUDAKp+u3+3AbWMpuTcEDWeEFPcz+La5eE2HwCe7RwYT2jJau/WVAy8jLsEXvQFevkiocMwCaN+zEMo/XlJXu7SwyE7e0g76ny7QTWf5T/1vk/6bVjq68Qiv1+PRw4TFRrN+1W2SockV8D1oriuMw+8ltPMUvNBtGFxzzCw1dzgm3o+6uV76uFi0FkdmOXp/3SoJQB9tfqH7LB5h9axX6g5Q==;An2pR0CRDJw3k/hiUQPuzQ=="
 ---
 

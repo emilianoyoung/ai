@@ -67,15 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2EE31DD748E496716926E446B26451F1
         width: 700
         height: 367
-  - title: "Horizon Robotics reveals Horizon Matrix™ 2, its second generation scalable, low-power, ready-to-use autonomous driving computing platform"
-    excerpt: "Founded in 2015, Horizon Robotics™ is a pioneer in the area of artificial intelligence computing for smart mobility at the edge. With over 600 patents, Horizon Robotics has been actively developing high-performance, low-power, and cost-effective deep learning computing solutions that advance transportation safety, enhance the driving ..."
-    publishedDateTime: 2020-01-10T08:02:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-horizon-robotics-reveals-horizon-matrixtrade-2-its-second-/2020/01/10/9079517.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "7DVNFiHmjoAKHwD7aVluhjGQ4ghy3oMB33wmXCLzYJKZJZUaABrZbyb3lhB8WjGe9dyGSYHMmqrn2IyHxVkiSrd7B8nSfDQ9xGbuTMEcyk0jod0nGJseHn9R+7/ju2ErgvSnblHbNjvtVtBZ2LJwQeXrSQhHPZOqD+XY5Fb8CIgcvFPUEJuDoUGNiS25tUN+4ABIYyV2FMIeY0fB0b5kPNKUVoHwFNeoF/LXG2qDuqwliV/dJfkKPVQTsvgoer985kbDBZmfOxh3ZoNJktZFyg==;KOCdB7cqVUo0Ez5AH5Oc8A=="
 ---

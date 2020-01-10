@@ -111,6 +111,17 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
   - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
     excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
     publishedDateTime: 2019-12-23T20:30:00Z
@@ -120,15 +131,6 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 5
-  - title: "Magic Data Chinese Mandarin Conversational Speech was selected into LDC Catalog"
-    excerpt: "Besides, the accuracy of read speech data recognition is up to 97-98%, but in conversational speech recognition, the accuracy is nearly 50% (referred to results of the CHiME-5 Challenge). This large gap indicates the challenge in automatic speech recognition (ASR) extend to new phase. This is an excellent testing dataset for conversational ..."
-    publishedDateTime: 2019-12-21T08:12:00Z
-    sourceUrl: https://finance.yahoo.com/news/magic-data-chinese-mandarin-conversational-080200632.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -139,6 +141,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "NtxemlxHa/a/dAzl+EY0rOMDdjbD8rZq4iXptFZ/nVSTmqi90+QYR8+h00FI1t/SH+2kEWLnuiv+ZkyfMTLC7pf4DYwhbHtXbmKQH4kwOWDxQROvw40dZl6UKkCBj/KtNLz6T7XL89bP8TGZfHpnB3+E0eyJMD+oLeMIcXH7BHLr7ML2CmFv9Xuadyh545Ue0i1cwF1f9lZLTFnmXHeCJzJXABu4nGOJw5PqPlpSKQDxKUVg52VdurX4f7PFimZwVcwZLyQi4SzsmtaoKBS1+g==;Rm9i1fUIHveDx4hsP3IgBA=="
+secured: "Oi6kY/NXudKjF2DjIm5vFPUHpPDkj9eCSBCiB+1i4NFUtlF6Gvv0H8L6zu06VF4RP5JqiWfshCEntq8nNgBoiUSODqGqa7ejAxQ0HC8Vn0EHpC+6CtnRNeno/gmc4wsXgKG1JQeVodbtdSaCgYYEHqcweuadmlCt6QuM/0yopCwviQY0++UiuEj6lfywS0S/HWsMLHyEf/DzLDR3RHvs4vsoLkGMPrBOT1z2GWKXj6UOnD0Mht1t97YTfmM42UfV2ungWcyEjJ9P/N2b2FDFAQ==;g3XKaZXJmHVkOpedvukDMw=="
 ---
 
