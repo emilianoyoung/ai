@@ -40,6 +40,17 @@ related:
       - url: https://www.bing.com/th?id=ON.0C4D17432DE326C675D06CCFEA474473
         width: 600
         height: 315
+  - title: "From ethics to apprenticeships: How AI will evolve in 2020"
+    excerpt: "Many academics are both surprised and impressed that, although AI ethics has been a topic of study for years, it has become so prominent in discussions about the technology today. While regulators seem to be forever playing catch-up with technology companies, the ‘wild west’ era of AI legislation will start coming to an end in 2020."
+    publishedDateTime: 2019-12-26T09:00:00Z
+    sourceUrl: https://www.itproportal.com/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+    ampUrl: https://www.itproportal.com/amp/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 54
 
 secured: "BuiTX98JHqNwZ55tDn14GDtcIwBA7QknTLyFXGM/AIPUbwxLCW4PUnftQ6QVPVGXrwiOVNrIfsvMSF+5quSQnZ3hwTJnQYIW995/kuGZ/BJBIAyHa2IH6PS6Zu/97EQxyfH9OyplqIvkMRhnlh/dpZsF1HuzSbhN6Bjrjm/SuSm9bTmESDmEcDdBC/WIcHsESvAzC7gqcmYtrpVn8cC7/TAKgjNTLFfiwMX9hc483y1vH4iH8MZc4M9PYxZU5unASj10uOOu6uTotmDbfxuqbw==;J0c/RsYON5YfQYLmVIQ/yw=="
 ---

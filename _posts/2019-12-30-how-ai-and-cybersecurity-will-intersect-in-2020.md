@@ -88,17 +88,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Ajman Department of Ports and Customs launches artificial and business intelligence (AI/BI) powered services"
-    excerpt: "Ajman, UAE: In line with the Ajman Digital Transformation Roadmap, Ajman Department of Ports and Customs (DPC) launched an Integrated Customs System positioning the Emirate at the forefront of digital transformation in international trade and in conformity with the UAE Government’s strategy for embedding Artificial Intelligence in its operations."
-    publishedDateTime: 2020-01-08T08:47:00Z
-    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Ajman_Department_of_Ports_and_Customs_launches_artificial_and_business_intelligence_AIBI_powered_services-ZAWYA20200108082309/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200108082309/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200108082309/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 18
   - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
     excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
     publishedDateTime: 2020-01-02T07:03:00Z

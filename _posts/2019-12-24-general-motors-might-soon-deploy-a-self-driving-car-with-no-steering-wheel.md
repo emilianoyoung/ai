@@ -52,21 +52,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "US talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
-    publishedDateTime: 2019-12-21T20:19:00Z
-    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
-    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
-        width: 560
-        height: 292
   - title: "Self driving cars are the only way forward."
     excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
     publishedDateTime: 2019-12-23T09:26:00Z

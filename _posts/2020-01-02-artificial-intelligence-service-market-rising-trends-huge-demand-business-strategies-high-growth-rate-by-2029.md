@@ -96,17 +96,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7B320A7BD46F819F9E41A0DEC0FF95BE
         width: 480
         height: 270
-  - title: "Ajman Department of Ports and Customs launches artificial and business intelligence (AI/BI) powered services"
-    excerpt: "Ajman, UAE: In line with the Ajman Digital Transformation Roadmap, Ajman Department of Ports and Customs (DPC) launched an Integrated Customs System positioning the Emirate at the forefront of digital transformation in international trade and in conformity with the UAE Government’s strategy for embedding Artificial Intelligence in its operations."
-    publishedDateTime: 2020-01-08T08:47:00Z
-    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Ajman_Department_of_Ports_and_Customs_launches_artificial_and_business_intelligence_AIBI_powered_services-ZAWYA20200108082309/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200108082309/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200108082309/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 18
 
 secured: "AhgSADZCO1wo+4bRUPL6zNOmzJzWLtcTumdsg368kWBzE++ID7RW9lDYfMReth2XkQyIxWp9LGRKFM/poiiLgV/5w6I+5tTcI8qBHYOlLSa/shbAC8fUV2gx6r59KceRUeOKoDK1YIgH4lc16DqpyuDYwWYDNEPNQONSmEUDJRTUpd0iXQLtnj4ht53CEoaP3QbwMFWqxBbKZr7HUvLdqAdPhNYAZcek82ZP2ogRnuwwin0tJqi2fUdBYjGhKqVvZxnnihiabkzevVd6vg9YJw==;1hoZYijN2+907tUPcIi11Q=="
 ---

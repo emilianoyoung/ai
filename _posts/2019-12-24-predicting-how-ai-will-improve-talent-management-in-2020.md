@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
       - url: https://www.bing.com/th?id=ON.A6A1E8945C48FD23877449F0F485D227
         width: 700
         height: 420
+  - title: "From ethics to apprenticeships: How AI will evolve in 2020"
+    excerpt: "Many academics are both surprised and impressed that, although AI ethics has been a topic of study for years, it has become so prominent in discussions about the technology today. While regulators seem to be forever playing catch-up with technology companies, the ‘wild west’ era of AI legislation will start coming to an end in 2020."
+    publishedDateTime: 2019-12-26T09:00:00Z
+    sourceUrl: https://www.itproportal.com/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+    ampUrl: https://www.itproportal.com/amp/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 54
 
 secured: "dvotTl7xkmZpDVrXSavM7lKSLHVsK8J8VhpifZYi2H9vtxYG4FXRurhf2S8rRtR5+XK+0AIpwaWgPpDJ1Mo19Hpf2hRv04uq/HqyEXc/olVWNSU4nbjf9Ts/B/qZP3Tv4L4UVuT9S4b1E59bjbDq7b7XooLCpCkgdxIYo3/Kq2TbQtp1hSHquqimkiwfL8/u2p74lZiXPv6gM2+KVMNE1O602bsNWTserxPQDrc20qUBdLuPMxNY/o3WhNgIwYLIXELFgr3k2ia+5Dn/5ch5yg==;LdmT9FP8OKUqCAyFs/sm9A=="
 ---

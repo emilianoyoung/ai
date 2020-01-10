@@ -20,21 +20,36 @@ topics:
   - AI Ethics
 
 related:
-  - title: "2020 will see AI move from buzzwords to solutions"
-    excerpt: "As we entrust more parts of our working and personal lives to AI-powered applications, the ethics of AI is becoming an increasingly important consideration. One of the most important ethical questions is about intention — for example, where, when and how AI interacts with the analogue reality that we have all been accustomed to live in."
-    publishedDateTime: 2019-12-21T20:04:00Z
-    sourceUrl: https://thenextweb.com/podium/2019/12/21/2020-will-see-ai-move-from-buzzwords-to-solutions/
-    ampUrl: https://thenextweb.com/podium/2019/12/21/2020-will-see-ai-move-from-buzzwords-to-solutions/amp/
-    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/21/2020-will-see-ai-move-from-buzzwords-to-solutions/amp/
+  - title: "Predicting How AI Will Improve Talent Management In 2020"
+    excerpt: "47% of U.S.-based enterprises are using AI today for recruitment, leading all countries in the ... [+] survey. U.S.-based enterprises’’ adoption of AI for recruitment soared in the last year, jumping from 22% in 2018 to 47% this year based on last years’ Harris Interactive Talent Intelligence and Management Report 2018. 73% of U.S. CEOs ..."
+    publishedDateTime: 2019-12-24T19:56:00Z
+    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/
+    ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.48FBC940FB009B8F0FC9D0F0B3A9BDCE
+      - url: https://www.bing.com/th?id=ON.0C4D17432DE326C675D06CCFEA474473
+        width: 600
+        height: 315
+  - title: "10 Ways AI Will Impact Talent Mobility in 2020"
+    excerpt: "At the same time, they would be satisfying the career progression aspiration of their employees. Research says that AI can help optimize this process. AI technologies can overcome the mobility challenges that are holding an organization back. This technology can help the HR team find better skill matches, tap a larger pool of internal talent ..."
+    publishedDateTime: 2019-12-27T20:33:00Z
+    sourceUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289
+    ampUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.A6A1E8945C48FD23877449F0F485D227
         width: 700
-        height: 350
+        height: 420
 
 secured: "lBvLhIzVDZu8Jy5j7IvvXLFqxT5LSp48lKdnXiY1yJuGKqIs6kRRqPyYvhzjanKN9016zU6LVFzwsNx2fxBa/oxzEKxnhBu6pR4alWCuovGB0nG5LS2YpBGDwuLoeTwB0e/h6HSHkSoKYk78yBH+0TY7ELoxGxPE0+O551WBaC/TVLebWWtO++z8Vf0N1I+Yzpza0ahHpXmR2EvVXe04zUIshunAP/iIzXUre7akKnmrJPLEDSekCQOPzHI25hSfhOlUnd4JycqMAlIiqoZlzg==;i8MwFmX3z8ALPrM5KR/dgg=="
 ---

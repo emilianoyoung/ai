@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DD3DC587635FB36C5036D22150DCFD30
         width: 600
         height: 315
+  - title: "These are the 20 smartest enterprise tech acquisitions from 2009 to 2019, according to analysts"
+    excerpt: "The list ranges from Dell's $67 billion acquisition of EMC and its major subsidiary VMware to a big Google deal in artificial intelligence."
+    publishedDateTime: 2020-01-10T21:20:00Z
+    sourceUrl: https://www.businessinsider.com/smartest-enterprise-acquisitions-past-decade-wall-street-analysts-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.EA91CC9A8F455A168DA6299235C73E60
+        width: 700
+        height: 350
   - title: "Feds pledge to keep their hands off the wheel regarding self-driving"
     excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
     publishedDateTime: 2020-01-09T00:01:00Z

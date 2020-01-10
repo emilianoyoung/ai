@@ -86,19 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0DBA2293CCFD12658E01C8C2419A9206
         width: 700
         height: 466
-  - title: "Facebook says a pro-Trump media outlet used artificial intelligence to create fake people and push conspiracies"
-    excerpt: "Facebook and Twitter dismantled thousands of accounts and pages that were part of a global network seeking to push pro-Trump messaging."
-    publishedDateTime: 2019-12-21T21:03:00Z
-    sourceUrl: https://www.businessinsider.com/facebook-says-pro-trump-media-outlet-used-fake-profiles-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: https://www.bing.com/th?id=ON.8B67C0C7AC285D6F9598B7C829CA375C
-        width: 700
-        height: 350
   - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
     excerpt: "File photo: AFP Facebook has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic ..."
     publishedDateTime: 2019-12-23T03:41:00Z
@@ -127,21 +114,6 @@ related:
       - url: https://www.bing.com/th?id=ON.99F031CF84883FB69D19AF871087A9CB
         width: 700
         height: 393
-  - title: "Fake Facebook accounts now using fake faces"
-    excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
-    publishedDateTime: 2019-12-21T20:58:00Z
-    sourceUrl: https://wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/
-    ampUrl: https://wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/amp/
-    cdnAmpUrl: https://wtkr-com.cdn.ampproject.org/c/s/wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/amp/
-    type: article
-    provider:
-      name: WTKR.com
-      domain: wtkr.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.7920CD8894C02750379EEE36399BC359
-        width: 700
-        height: 466
   - title: "Facebook removes manipulative accounts with AI-generated pics"
     excerpt: "SAN FRANCISCO • Facebook has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers have said. Researchers from the New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic ..."
     publishedDateTime: 2019-12-21T21:49:00Z
