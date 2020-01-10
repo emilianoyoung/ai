@@ -7,8 +7,8 @@ sourceUrl: https://www.wired.com/story/export-controls-threaten-ai-outposts-chin
 ampUrl: https://www.wired.com/story/export-controls-threaten-ai-outposts-china/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/export-controls-threaten-ai-outposts-china/amp
 type: article
-quality: 91
-heat: 121
+quality: 191
+heat: 221
 published: true
 
 provider:
@@ -73,6 +73,6 @@ related:
         width: 700
         height: 447
 
-secured: "rd1XbZ3ZprBld6o4PBk7XXPYvCkWMLx6WYukQsfXWBoM89M+01cW767tUqqF+8cMswJmyWEp6MINC1Sy1banTF8TA0zZS0/cMcEAj1LkqG+3Pt6qZhqTJ5HjdOY84brTIMRGIX+J9tsl0rbPr8NQ/Qroobjtc3y7SfCL9mf+zZfF38m4pz7wtoN9mYaXziKH3D37CDbR/uziIcElTkYbIhvfqE+wLwtbc84Z+9/TdmfDCg+7nHXTPRcpja7Iwn9JIj7iClWZGALn41AFY/EJhw==;XnbUGJh0LEZEtBtqul8mEg=="
+secured: "re7BH1eHNL/nxLjrCoXHQlQlR60CXvHvngSRPo/fLn3OxNdTzfzDYxJBEWx5R6fDq9UCqYl5uMJbDi4pCw9KNUg0KFeijx9CtJprId1m0dRqounLcp+oiTYivBNcMCJWbO1yKGD4TkpdwiNxY99UhShOK8HtwhjepdZOCYwRviWfsTnqGojjcFh+/GMWb9//T7PsoI69pZ72lYd3uQxu/ls3P3tEstB1jJ20x4BTREKA8DnR5b33CQQLTbrVRqUG23q38sgrJwE53c4Mw0yj+AkCE0saCuMe/BGX0Cmzfzw=;G2ASepCjnsC4yYfjTiPHfA=="
 ---
 

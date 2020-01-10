@@ -38,7 +38,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 57
+    quality: 157
     images:
       - url: https://www.bing.com/th?id=ON.2627998AFC6B688E91ABEAB89CD0627B
         width: 700

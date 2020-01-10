@@ -7,8 +7,8 @@ sourceUrl: https://www.businessinsider.com/san-diego-police-facial-recognition-n
 ampUrl: https://amp.businessinsider.com/san-diego-police-facial-recognition-no-arrests-2020-1
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/san-diego-police-facial-recognition-no-arrests-2020-1
 type: article
-quality: 57
-heat: 67
+quality: 157
+heat: 167
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 700
         height: 350
 
-secured: "7U+BjUl4O4tJpKcQApmqa1HqroKeE3tvLU9YAIntgCRNh08/knRSntSMICosPeUQpa64kiuA3tcFxEkHWfz+LkyhrJJQTkmA1kp7nOvLx/pRjltZ6kK5dXW1wKitf/OBXi7kxOIYDo+MMfLxb6UtVjmqayUtf21S264/lwVPB+ccIhfGWr3iTqxgdkj9KqVMThcDJK1CETnVBmpmwTrpvsjZAZjrLW/ddXO/gxKNfo90llOg4rn/FqoT3C87j3hub6Gq0GSo5siiASpWWPxN+A==;PLDBpP1jmqqAIha921ZkPQ=="
+secured: "YeIgYz/tG42eSj0Xe9X1Bu0zWd0apZfuf+rQccIxmuijxLaEj/+TOoWOT8lzZ+9tw75kdCaC+flUEKaJKJy9WKqduOjNjRZDIrwm+zmjyvbTq1+9vao9oAM37BikHbnvwammAbD8Gyv0XQ7jG/Pfvw2oGeTL/aESNPqpovXi0dxe1vt9eTfbBQRPtihBRV7IocEMk88FVuW97WnN/3XnQs3iVvZ+yi95JEJ8RkJv5Em8krup+VgcTXLLdBo4IyOOJehVzjcr0xxcEIzasyXUCpOTPM1VqXktFFlApZIWL0Y=;nQjW8byadFJp5oenvtPssA=="
 ---
 

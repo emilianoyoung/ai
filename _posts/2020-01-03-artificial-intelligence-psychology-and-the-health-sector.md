@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
@@ -25,6 +25,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "U92HgJXjUtsQkMHF1Ud7M0T9bR3BP9lPiy6EmkYG97OdQbtanquiDRzu1DYjzyHhruvTssy6Qwdm2yAgFHrVSXHpWmHBJBHMPhEZGQI7HqSrAdRX3D9hCYSTh2QKfaAU3P4y1uhYVjU69hFQYu32APLfZxAqmw8uMIrjXhbE96zwmcmjNiA1ou705kfCGkKJPH9RHdLJxZmeUyA0PdapSy7+qIpz48lSPnOLj5WZM4j9zK8zAuY92hIsjsq/eSoPqiubpFSm+TgacB9nCRUMJA==;xvN0E6BlWnBTrjMZj9MUgQ=="
+secured: "02o0i5aS54hRv7CG/wy8NIuN0fix871kWL8eAR+mIUzXMESfQsMZuYHIfefXfhDUVPMG8spIhEFiqdraJ30BxqouT9TkzTS9IotCY2esMXiYEVPxQKSIm/9AY3dDvKzXz01PKCrfdOWj3jafPLNAuaXrSmJ3AuAsMdHTfN5TY/vcrAkmSviCkKxzYfS4g7bvrlspaOchE0w9N/NibRRFH3IUxz6OOL8kw8ZYxnIW/ctemVluXQOoeptRzsQdKy0/CHB6smc7Wc02pCqOjRMKcg==;n0Il8/KgSgH4j2/s5YUOOw=="
 ---
 

@@ -39,11 +39,24 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 187
     images:
       - url: https://www.bing.com/th?id=ON.45ECB08B04F5BFC37E6513FE6FAB5D17
         width: 700
         height: 350
+  - title: "Deep Genomics raises $40 million Series B for AI drug discovery platform"
+    excerpt: "Founded in 2015, Deep Genomics has developed a platform that uses deep learning-based technology to help geneticists, chemists, and molecular biologists create therapies. Its software system, Saturn, is used to search across 69 billion molecules and pinpoint 1,000 compounds that can be used to alter the composition of cells. Deep Genomics ..."
+    publishedDateTime: 2020-01-07T17:39:00Z
+    sourceUrl: https://betakit.com/deep-genomics-raises-40-million-series-b-for-ai-drug-discovery-platform/
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.F42FA334174E0946E30D0069C780D3B9
+        width: 700
+        height: 466
 
 secured: "pSot9Z544HxsKIizJE0rJ6CJVxdydIliD7aR1V3bcaD6YaFA9fQbUq8phg8DRfcchzKZIQA+jf0ja9yibH6s726plpsqEMkS/dajnJYoes25OwOhIpQS/fg7VXbSzpNAgFS1hGOMVNvSM+e2+avsYNIomgSzPjOIOX3ZlNSgMykaSWFzpz6ckViPgU2zTruNcHo9l5lwxdQ720aO7OjVvMGvP5s/EWFw/DdxfmZrYAFqyqKcmSOe+S31xb7GYjowjYQ8YpgS2+xgVlmImx7hdg==;Jj+UX7/0ucUNmSQyHdMarg=="
 ---

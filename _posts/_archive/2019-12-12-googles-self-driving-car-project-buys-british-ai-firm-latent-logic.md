@@ -45,6 +45,6 @@ related:
       domain: leftlanenews.com
     quality: 54
 
-secured: "5VueZzIILNoBMRV4pUtnXRrbRnFFg1aIyLZBwkPfPsgs0y2df0WSRz1qk3E1XD+h+QqR/lwPqr65RuD1JZxVG0nJkIVyPtRKjV8rtmD9DgVlOhUEh4uI5WoxWa9wsytb0qBKRezR0SLsLv8gRN7peL1GnCt/n6v3rSOS0zqG9IMlVvs1GDHGlrdzuZXx88Ka6Vv0e2incnIMyevYn+tYzyKveF1W+3YfKxYygV/TaCD7nHHKgegIqhKRcCpMaoyfB+5lVj4dFucTw1bNgJscMw==;9UlZitybQshQLdjnb6o5og=="
+secured: "JiSwO9SpuOREIVufDPbKP8wrnn238lqlqVKiv35iwvRoogxB0XxXM5qBZIkkpHIKuP+KvTb67caU1QP0OMvvLJxWpkw+ZCPdwAC6Lgs4DUba8twungVVDgaD4q8k2BRuJ58bk/Q/tiBcaTCw7vBKVJNaXW91G4Am95OG39MHhGml0Us1513jXLNlxNSNQvcCN5fif/rbi8QNM3tgguR5cFI7WOdL/v5j5ttyUzddnMEZIYAHOtpTz81DBSNosEgki+utNQZXnCfDruglAkGylA==;8PRIg+vf3hXbP8Vpa4UWGQ=="
 ---
 

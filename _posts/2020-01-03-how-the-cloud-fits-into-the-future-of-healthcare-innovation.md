@@ -35,7 +35,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 91
+    quality: 191
     images:
       - url: https://media.wired.com/photos/5e177e6287b5f30008dd4e8e/master/pass/Business-AI-US-China-1169747427.jpg
         width: 2000
