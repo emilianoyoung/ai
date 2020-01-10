@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/amp/
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 800
     title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
 
-related:
-  - title: "How AI ruled our lives over the past decade"
-    excerpt: "In 2010, artificial intelligence was more likely to pop up in dystopian science-fiction movies than in everyday life. And it certainly wasn't something people worried might take over their jobs in the near future."
-    publishedDateTime: 2019-12-21T14:10:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/how-ai-ruled-our-lives-over-the-past-decade/ar-BBYdQhY?li=AA4Zoy
-    type: article
-    provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B2111661B86E49B7AD8C2423FCE928AB
-        width: 600
-        height: 315
-
-secured: "r+8ebTwVBabeSAS8ay8DF49XkWfhQN84qF743tSlLWshVxFZVszEsdMJ4iT45jvG/avKJZBF2W3mT7nmZ2+NbOxCh7dXRatb+NnnXEbqE9AuML8UfN5h+I5LLh84z+ZL1TbbLBot2YQ+F/uKdxP8IMBHJ5F88CYhM0watj1ZzPIVcfZaSVFGn4lSujsTlgl8KQ/LIsztNHGuj0HXg6YfifNp8No1yx8XIAYFnu048kQCmffBcMBsHhIT5YlEIvGGre6YQzMdqsVSNsk+fG9hNA==;z45uBOr7nYLHn4kg7bcEIA=="
+secured: "d406YUcusHE4tYBE/slLZqJbNKLXxS2VKhdcltsFnS5U3W/rcmUbXcQriUhiruoLj3WdH45aAY/rL0f4ScZbODXZ1km/WQSprDb9H6PKakramkCN/F880fYiNSfzKpQha3l6ghQc6VQ4Hvg0LkHpyadMK+REjVZsN5vvqo0ncjrMDqIPuG3zRelvRFmqwdY1WmILTJLzE2mjT8UIkls4wvGMmbeFGRIiDg8C9DAsdGoaGe3FmjiIW4OoofdNoE9cTSm/gdhuTjMWXFbjRykfMw==;yLSOUi5lteW9ARyiJ5xzQA=="
 ---
 

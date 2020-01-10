@@ -8,7 +8,7 @@ ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-can-detect-and
 cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-can-detect-and-grade-prostate-cancer-heres-how-192480-1.htm
 type: article
 quality: 58
-heat: 68
+heat: 78
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1A369F64EAEF9A2636A45ADDC232AFC5
         width: 700
         height: 461
+  - title: "New artificial intelligence system to better detect and grade prostate cancer"
+    excerpt: "LONDON: Scientists have developed an artificial intelligence (AI) based method that is as good at identifying and grading prostate cancer as world-leading uro-pathologists. The AI-system has the potential to solve one of the bottlenecks in today's prostate cancer histopathology by providing more accurate diagnosis and better treatment decisions ..."
+    publishedDateTime: 2020-01-10T15:23:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/home/science/new-artificial-intelligence-system-to-better-detect-and-grade-prostate-cancer/articleshow/73191807.cms
+    ampUrl: https://m.timesofindia.com/home/science/new-artificial-intelligence-system-to-better-detect-and-grade-prostate-cancer/amp_articleshow/73191807.cms
+    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/science/new-artificial-intelligence-system-to-better-detect-and-grade-prostate-cancer/amp_articleshow/73191807.cms
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.E431A69E16BD3F6A90C5E5DC6E917FCE
+        width: 700
+        height: 379
 
 secured: "JbOe+YefvQd3SNJBnJMfiFMwkCf2+hddSOYLGHyFjjkMl/GrciFMmQKUbx1Ap2aifKTNJhUTxQBmNvkFR8kw3HSdpDjS+FWK4T1gsoqXuiaUQhuEUTXYI8sZaniSIQTaVVSnJ5L8H0p0OtkZ/zLotLav6RS+dNfGv/3FVc1pZFE5FkYx0FQXukLVJ0AY3Wd7EG/SheB/F1npA/wLWYn8nVefGHC2RyiahIc9v6cEQdBY680ttX8SnoBKTx43fKEta8ajpkskk105DX65DBA60g==;2cRGfiDMvF10mmq53BsM0Q=="
 ---

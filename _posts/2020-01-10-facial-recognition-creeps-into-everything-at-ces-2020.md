@@ -2,8 +2,8 @@
 category: news
 title: "Facial recognition creeps into everything at CES 2020"
 excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what the world would be like if facial recognition is everywhere."
-publishedDateTime: 2020-01-10T13:49:01Z
-sourceUrl: https://www.msn.com/en-us/news/technology/facial-recognition-creeps-into-everything-at-ces-2020/ar-BBYPcPj
+publishedDateTime: 2020-01-10T14:33:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/facial-recognition-creeps-into-everything-at-ces-2020/ar-BBYPcPj?li=AA4Zoy
 type: article
 quality: 39
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.BD523FC9D45BC7D61FB60CDB30F4A3BA
+  - url: https://www.bing.com/th?id=ON.84EFF5B28C8AC25B0015DC86C0991587
     width: 600
     height: 315
     title: "Facial recognition creeps into everything at CES 2020"
@@ -596,6 +596,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "EdW7Po+CgHI3SqNRx/yuO4ENcs5ouubEOsmyKIoSeN1Srflumk6K+8/pVTHN4ZVroM7k+xe2zdy2z1nziERFG945TB16nrFYCrKhSz0hr57muRkwuNPNkfIdXgjLxs7ja1rwqq73l11ysAVatxb+JyY9KWs0J7IxjZN+mlxIjuGgZNSqkCYbBjewQg1nXyXQuArFiFQEgnNL1cD08A4ilCNmrJurhWg/59H39dUlqG1QfzS1mm3k3Wpi/3s7QSR+qYm5cog9hcMn20kRzO9gGA==;wh+IsmH/7zxgOTkNZe4DPw=="
+secured: "sCCH1A3aiFT0xMrmGXAhBK2ig7HB2Rx1ggD6hYDyDyPklRR8NdZPES8hA1tVSvE6rPDZZUt2OzdF7uKV/v1S0b4FcP5Uye/dvQhc5/9uQk/gWYEFn3zs9UwXwNMJ/bsXaziQt+FionKByDgHLqo6Zf3l5kHqVtYxa4cckY6JDq5NC6VXxHa7s/2f0QeJmjVNCJpm1mLvOnDSAJIQr5ZTUmle8N7HRNJyKXV9+A+GbvmGfrXLfd43iTPh7zAR1v1RYjnuJqOjiIrrLo2TKgZr1Q==;BBRw3hA6M0ofQl0czuxNIg=="
 ---
 

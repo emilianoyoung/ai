@@ -26,21 +26,6 @@ images:
     title: "Amazon’s Cloud Arm to Accelerate India’s Drone Ecosystem: DFI"
 
 related:
-  - title: "Amazon Web Services to boost drone innovation in India: Here's how"
-    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
-    publishedDateTime: 2020-01-06T11:21:00Z
-    sourceUrl: https://www.indiatvnews.com/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
-    ampUrl: https://www.indiatvnews.com/amp/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
-    cdnAmpUrl: https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.925CD75C592C3CC4E78FA81CF3555D6B
-        width: 700
-        height: 393
   - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
     excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
     publishedDateTime: 2020-01-06T12:36:00Z
@@ -97,6 +82,32 @@ related:
       - url: https://www.newkerala.com/news/pics/r/family_vacation_dog.jpg
         width: 500
         height: 333
+  - title: "Huawei Thanks Indian Govt For 5G Trials Permission, Says Committed To India"
+    excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
+    publishedDateTime: 2019-12-31T13:39:00Z
+    sourceUrl: https://www.republicworld.com/india-news/general-news/huawei-thanks-indian-govt-for-5g-trials-permission-says-committed-to-india.html
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.5C2CCEAC80BCD5281F1682F908C2B825
+        width: 700
+        height: 399
+  - title: "Huawei thanks Indian Govt for 5G trials permission, says committed to India"
+    excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
+    publishedDateTime: 2020-01-01T00:10:00Z
+    sourceUrl: https://in.news.yahoo.com/huawei-thanks-indian-govt-5g-105307364.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
   - title: "Amazon's Cloud arm to drive drone innovation in India (Lead)"
     excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-06T16:58:00Z

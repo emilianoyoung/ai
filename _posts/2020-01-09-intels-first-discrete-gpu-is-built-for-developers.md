@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Intel's first discrete GPU is built for developers"
-excerpt: "At its CES 2020 keynote, Intel showed off its upcoming Xe discrete graphics chip and today, we&#39;re seeing exactly how that&#39;s going to be implemented. First off, Intel unveiled a standalone DG1 &quot;"
-publishedDateTime: 2020-01-09T17:00:00Z
-sourceUrl: https://news.yahoo.com/2020-01-09-intel-xe-d1g-software-development-vehicle.html
+excerpt: "It also promised \"double digit\" CPU performance increases with Tiger Lake, and \"massive\" AI improvements. Apart from that, it again revealed no additional performance data. As we've already noted in our AMD vs. Intel CES 2020 explainer, AMD has unveiled very specific products and plans, while Intel has just announced upcoming products and been ..."
+publishedDateTime: 2020-01-09T16:00:00Z
+sourceUrl: https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/
+ampUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.E5864EA720E59DCB7A1699D197DBBB7E
+  - url: https://www.bing.com/th?id=ON.C09643D92C0669F7D93C8E4DC0919166
     width: 700
-    height: 393
+    height: 367
     title: "Intel's first discrete GPU is built for developers"
 
 related:
@@ -38,6 +44,6 @@ related:
         width: 700
         height: 393
 
-secured: "nX6+JPV5Y5fJSKhZd6fIQcstco6/bOX8+3PprhWQR6SSWhiUaHCHVazoGnNC6UnTFEUXP+CFulkQ4n0ggu4PIM1wL9WQCGqo3R5c6bjOx2uBtxCugKHXRrIkEnaOoOmZapyIfYcKAfzR9tDV/RzKCzL/4FSZf8u+iSaKPrl0m+EwMtTvp4ahUZ8K0Vrh1v7mBV7sLh53k/JcJJd7UPE9jG4n9WX6/igHJnqJISNCUPLXRPCyRwGZXgKWv3xuFig361qSY5C9cnUn7TaDBxKo9A==;yZq08kDUgOViAnnY35pELA=="
+secured: "8505P3ELUjTy7DzLjBEPf/OFfKAQuHtuQ3yCGr8LzxUvQf+NJ9KTv3FzgLPQNt+MggjVQ20lEKIrDveR2bn6qDMT+Zuq68bVBqNa7qC/ydMU8DdHRiWurHWOpqvq9eq8Ghtmqa4OBbLzpTG3PjKgskwjZYhVnYoDvp/ahGB1jTyHc9RouCB5jHd/eOti55MG5mU0MnJbEThYHtweeuYlIcozlXbUZSLOuANSNHk/qeBDvFVsGGrzvYXzfd0eAXO2reRlLbc8cUFC7UqTXUs69Q==;F0uiACYX0U9mAW7duZCKDQ=="
 ---
 

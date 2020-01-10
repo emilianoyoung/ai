@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-25T04:40:00Z
 sourceUrl: https://www.infoq.com/news/2019/12/google-cloud-automl/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,30 @@ images:
     title: "Google Cloud Team Releases AutoML Natural Language"
 
 related:
-  - title: "Statistical Natural Language Processing Market"
-    excerpt: "The report on the global Statistical Natural Language Processing market is a complete overview of the market, covering various aspects product definition, segmentation based on various parameters, and the prevailing vendor landscape. It compiles in-depth information and research methodologies. It is also combined with relevant charts and tables ..."
-    publishedDateTime: 2019-12-27T19:13:00Z
-    sourceUrl: https://www.openpr.com/news/1886758/statistical-natural-language-processing-market-expecting-huge
+  - title: "What is Natural Language Processing (NLP)?"
+    excerpt: "Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ..."
+    publishedDateTime: 2019-12-21T12:08:00Z
+    sourceUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp
+    ampUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
+    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: https://assets.pcmag.com/media/images/681757-what-is-natural-language-processing-nlp.jpg?thumb=y&amp;width=1280&amp;height=720
+        width: 1280
+        height: 720
+  - title: "Natural Language Understanding (NLU) Market Analysis & Forecast 2025"
+    excerpt: "Get PDF template of this report: https://www.qyresearch.com/sample-form/form/1211577/global-natural-language-processing-nlp-market Natural Language Understanding (NLU) Market Leading Players : IBM Watson ,Nuance Communications ,Amazon AWS ,Microsoft ,SAS ,Idiap ,The Aspect NLU Lab Market Segment Analysis : The report offers a comprehensive ..."
+    publishedDateTime: 2019-12-27T11:35:00Z
+    sourceUrl: https://www.openpr.com/news/1886522/natural-language-understanding-nlu-market-analysis
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 19
+    quality: 4
 
 secured: "IQWYWG2w5ZLVbgP91WlFHlvWBILN7BbhKZuA322B2dbeeuerR77cCrNtXN/xghMD6TyYTpyuAAaef/AbO17cXP04U7VCcQGqN98wPWBSR7alpmGGe7Iyh1ZtJ2SQTPKjwZN0Dy/ewH1zfRWGv0WQgd3rFUcd/j29+GtDMODJnLRl1SAIDeUCvnZA+DGO7EfX8febIntoOHuNGCulKk2vvInJqFVFB11xCAB0R1tpub7To/n2RgQVMvLAbapGd+gbz+PctfopEwffVk/Z4vSZxA==;et51vHCG5NnQi4HpawabMA=="
 ---

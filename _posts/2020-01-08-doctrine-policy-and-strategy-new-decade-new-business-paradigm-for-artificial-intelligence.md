@@ -25,6 +25,21 @@ images:
     title: "Doctrine, Policy, And Strategy: new decade, new business paradigm for Artificial Intelligence?"
 
 related:
+  - title: "Dun & Bradstreet Buys Orb Intelligence, Adobe DX Business Gets New Leader, More News"
+    excerpt: "Improvements to anonymous visitor match, programmatic targeting and sales outreach. Ability to connect and segment audiences, create artificial intelligence (AI) models and activate channels through the D&B Lattice Customer Data Platform (CDP) to deliver sales and marketing campaigns. Orb Intelligence was founded in 2013. The transaction closed ..."
+    publishedDateTime: 2020-01-10T15:18:00Z
+    sourceUrl: https://www.cmswire.com/customer-experience/dun-bradstreet-buys-orb-intelligence-adobe-dx-business-gets-new-leader-more-news/
+    ampUrl: https://www.cmswire.com/customer-experience/dun-bradstreet-buys-orb-intelligence-adobe-dx-business-gets-new-leader-more-news/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/dun-bradstreet-buys-orb-intelligence-adobe-dx-business-gets-new-leader-more-news/amp/
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.0CC0B9CBA31DD102CE85D0132DED2652
+        width: 640
+        height: 480
   - title: "An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection"
     excerpt: "It also may lead to better management and utilization of bees as pollinators. We address an investigation with Recurrent Neural Networks in the task of forecasting bees’ level of activity taking into account previous values of level of activity and environmental data such as temperature, solar irradiance and barometric pressure. We also show ..."
     publishedDateTime: 2020-01-08T10:13:00Z

@@ -69,6 +69,21 @@ related:
       - url: https://www.bing.com/th?id=ON.58633CB2E1E500BCA7EB8BDD05EF6A8E
         width: 700
         height: 393
+  - title: "20 Tech Metatrends to Look out for in the 2020s"
+    excerpt: "This metatrend is driven by the convergence of various biotechnologies (CRISPR, gene therapy), genome sequencing, and artificial intelligence. (1) A360 Executive Mastermind: If you’re an exponentially and abundance-minded entrepreneur who would like coaching directly from me, consider joining my Abundance 360 Mastermind, a highly selective ..."
+    publishedDateTime: 2020-01-10T14:00:00Z
+    sourceUrl: https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/
+    ampUrl: https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/
+    cdnAmpUrl: https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.B4E52B61671936F78477A36071FDF3CB
+        width: 700
+        height: 393
   - title: "Top tech trends 2019"
     excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
     publishedDateTime: 2020-01-09T10:41:00Z

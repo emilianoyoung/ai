@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trend
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -57,6 +57,21 @@ related:
     quality: 50
     images:
       - url: https://www.bing.com/th?id=ON.58633CB2E1E500BCA7EB8BDD05EF6A8E
+        width: 700
+        height: 393
+  - title: "20 Tech Metatrends to Look out for in the 2020s"
+    excerpt: "This metatrend is driven by the convergence of various biotechnologies (CRISPR, gene therapy), genome sequencing, and artificial intelligence. (1) A360 Executive Mastermind: If you’re an exponentially and abundance-minded entrepreneur who would like coaching directly from me, consider joining my Abundance 360 Mastermind, a highly selective ..."
+    publishedDateTime: 2020-01-10T14:00:00Z
+    sourceUrl: https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/
+    ampUrl: https://singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/
+    cdnAmpUrl: https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.B4E52B61671936F78477A36071FDF3CB
         width: 700
         height: 393
   - title: "Tech in the 2020s: Five big trends"

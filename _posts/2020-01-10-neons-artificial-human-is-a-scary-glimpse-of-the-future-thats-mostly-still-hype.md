@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
-excerpt: "The idea of a \"digital species\" is undoubtedly controversial. Big names in tech, including Elon Musk and Bill Gates, have warned about the development of powerful artificial intelligence. Gates called AI both \"promising and dangerous.\" These concerns typically revolve around what's known as artificial general intelligence, or AI that can ..."
-publishedDateTime: 2020-01-10T14:54:00Z
-sourceUrl: https://www.stltoday.com/news/national/neon-s-artificial-human-is-a-scary-glimpse-of-the/article_e5236da0-dc23-536e-9586-ea6df70a9351.html
+excerpt: "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,"
+publishedDateTime: 2020-01-10T14:32:00Z
+sourceUrl: https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html
+ampUrl: https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
+cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
 type: article
-quality: 15
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: /assets/images/organizations/cnn.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.07D3044DFAE74CD4B9D57F21E514633A
-    width: 576
-    height: 324
+  - url: https://www.bing.com/th?id=ON.BCF4B805FE7C99E599675C5B61393EB3
+    width: 700
+    height: 393
     title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
 
 related:
@@ -244,6 +250,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "Samsung's Neon explained: Just what exactly are these 'artificial humans'?"
+    excerpt: "Never mind weather reports and playlists -- Neon promises to keep your secrets, teach you yoga and help you find a great restaurant. But can the AI deliver?"
+    publishedDateTime: 2020-01-10T15:45:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsungs-neon-explained-just-what-exactly-are-these-artificial-humans/ar-BBYP19M
+    type: article
+    provider:
+      name: CNET on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.F331DD2C5C0C17019B3D58755172A344
+        width: 700
+        height: 367
   - title: "More job cuts stare at us as Samsung showcases NEON 'artificial humans' ready to do everything we do"
     excerpt: "It should now be, \"Whether artificial intelligence will take over the world ... you will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What's more, over time, these NEONs which come in several different avatars, should be able to work as TV anchors ..."
     publishedDateTime: 2020-01-09T09:49:00Z
@@ -330,6 +349,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "2CncOdvpyA+D74Rkeh5k1iyeXK1DiSH8d54sAq0GsoLaz84QeFkYMK9UY6jKkcXgd20O8TWanresQqk2DGbkC2fphHYXng/1E+jVIHJou1yAe+iFJcV94k4FcBonaD3goqSaR39FKxPp/o3ukjytkC0AtfjaNnSG+V7e9Nyz1nfix9ZgikNx7JqLZLF0C4q2Z2OuSOpVFj4W6gpOJLV5ucnJmIt3w6FO+2ItkT00dUlEss8UQ+9IrAdkRNEA0YDYY5nhxXQQvyiQXYLqB0Ccsw==;+OW7SY+h+gg40I5Eimp4gQ=="
+secured: "Dzx+MiNrt1QsIp293OawvXRS8zU4PkN1vUTUHsnn/jNuKjwp3AcqO6Mc+zeYWnwnvunhneh3qPB8fVXxPevxM5n5XUAoSmHY0kh9XYbWZw2n5okvn04cQ0kvp6f1kbqnkNRlVOxNQcjZg76n7fEdk0v/T8kB42Q7XQIJvGtSO2VgT95skZ+LaMYq0IPoK0/cX+L/0dpZSe1kIk/shHTa+ufuzxrn1xN4UFpaaWaLgrkcYL61OrX2BkKMlYri6+oeQtQI6tvwKsAt3EsN3lqVfQ==;GyQ8lhnhfvsr8ASA0IC8UQ=="
 ---
 

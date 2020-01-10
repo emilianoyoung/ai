@@ -75,19 +75,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F5E0BD62D9D3C7ADA889529210EDE002
         width: 700
         height: 525
-  - title: "Samsung's Neon explained: Just what exactly are these 'artificial humans'?"
-    excerpt: "While other companies at CES 2020 looked to the future of artificial intelligence, Samsung brought a bit of futuristic AI to ... \"They can serve as an individualized teacher, a personal financial advisor, a healthcare provider, … a concierge … an actor, a spokesperson or a TV anchor.\" What Neons might be able to do for you Although we ..."
-    publishedDateTime: 2020-01-10T12:08:00Z
-    sourceUrl: https://www.cnet.com/how-to/samsungs-neon-explained-just-what-exactly-are-these-artificial-humans/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.C373B4C38929EC46C65A4AE7D0B0DD59
-        width: 700
-        height: 466
   - title: "Samsung's Neon 'Artificial Human' will debut at CES 2020: What is it?"
     excerpt: "Meet #NEON. January 2020. pic.twitter.com/iFkWVVyF6kDecember 17, 2019 Samsung has been mindful to not describe it as a voice assistant or artificial intelligence. Instead the company is using terms like ‘artificial human’ or ‘artificial intelligence being’ to market the project. Honored to have so much coverage even before we unveil."
     publishedDateTime: 2020-01-02T19:16:00Z
