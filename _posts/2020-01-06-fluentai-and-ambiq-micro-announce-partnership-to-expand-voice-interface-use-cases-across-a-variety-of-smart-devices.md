@@ -30,7 +30,7 @@ related:
     provider:
       name: AUS&R
       domain: i-hls.com
-    quality: 39
+    quality: 41
     images:
       - url: https://www.bing.com/th?id=ON.F9917D81D943AF70D5B6A191665CC1DB
         width: 700

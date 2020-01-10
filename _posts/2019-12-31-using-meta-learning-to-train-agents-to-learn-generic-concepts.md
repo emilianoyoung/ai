@@ -24,34 +24,21 @@ images:
     title: "Using Meta-Learning to Train Agents to Learn Generic Concepts"
 
 related:
-  - title: "Deep learning vs. machine learning: Understand the differences"
-    excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep learning, which require a much higher level of computing resources, the most common algorithms are Naive Bayes, Decision Tree, Logistic Regression ..."
-    publishedDateTime: 2020-01-06T11:03:00Z
-    sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
-    ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+  - title: "Wanted: More types of machine learning"
+    excerpt: "Now that we’re big into machine learning in the cloud, perhaps we should start thinking about how to do it better ML (machine learning) is handy stuff. Now that public cloud computing has made it cheap, I’m seeing all types of cloud-based applications applying this technology effectively. Basically, there are three types of machine learning."
+    publishedDateTime: 2019-12-31T11:36:00Z
+    sourceUrl: https://www.infoworld.com/article/3511938/wanted-more-types-of-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3511938/wanted-more-types-of-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3511938/wanted-more-types-of-machine-learning.amp.html
     type: article
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 104
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.C6E9BA3D0630CDD05A14B309F332A045
+      - url: https://www.bing.com/th?id=ON.EDB8A3074336F3C2697F37C1A464B57B
         width: 116
         height: 116
-  - title: "Competing with robots: How online learning can keep professionals winning in the future"
-    excerpt: "Future jobs will need us to possess skills that robots do not. How can we compete with robots and come out winning? Upskilling and online learning can help us with the answers."
-    publishedDateTime: 2020-01-09T09:57:09Z
-    sourceUrl: https://www.msn.com/en-in/news/other/competing-with-robots-how-online-learning-can-keep-professionals-winning-in-the-future/ar-BBYMh6X
-    type: article
-    provider:
-      name: India Today on MSN.com
-      domain: msn.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.896326F17B367D2EC691AAAAE5D0CE29
-        width: 600
-        height: 315
 
 secured: "uZp5ujRvEXt+hQQq/gkGHH5lKY1Cje/hCv/1th9Ete5nzM5pN7y0SRVif4asCN05bbk9pRmQSdVVefYAElkZ60A6s4bF0iTjG7N/qOVoQ1VkNcs8apK0Xnavwc2XEKtv+/hh3Jv5XfwdlClRkIPLzQChEWaNVxRJbdTvSpSyy3/lPhLuCeZ/I4nCUJw7W7blToEyVgamZJyPvqCWX4G7FuMEyBLJD9M/iAF/42q4O70MVI3eb4YogrDWgZArGJubFdOTqUzSytfv2q0FeJMGhg==;vpbyZFeYAoZpy25lpgP0/A=="
 ---

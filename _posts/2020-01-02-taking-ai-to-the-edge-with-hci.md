@@ -48,6 +48,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 54
+  - title: "Neuromorphic Chips 2019 - Boosting AI at the Edge - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. The Report Includes: An overview of the global market for neuromorphic chip and discussion on its future market potential ..."
+    publishedDateTime: 2020-01-10T14:57:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200110005396/en/Neuromorphic-Chips-2019---Boosting-AI-Edge
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.53A5DDD1CBD99DC247519F8A804A19E6
+        width: 700
+        height: 365
   - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
     excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: Neuromorphic Chip Producers Key Topics Covered Chapter 1 Neuromorphic Chips: Boosting AI at the Edge Chapter 2 References List of Tables Table 1: Global AI Hardware Market ..."
     publishedDateTime: 2020-01-07T18:45:00Z

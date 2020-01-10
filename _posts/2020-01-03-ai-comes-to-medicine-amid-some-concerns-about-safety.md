@@ -45,7 +45,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 56
+    quality: 58
     images:
       - url: https://www.bing.com/th?id=ON.FE650D6B83660BFB6A3ABC06DE37934F
         width: 700

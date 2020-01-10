@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T20:57:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
 type: article
 quality: 94
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -59,6 +59,19 @@ related:
     excerpt: "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),"
     publishedDateTime: 2020-01-08T07:54:00Z
     sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chips Market Growing Trends and Technology forecast 2019 to 2025"
+    excerpt: "The Artificial Intelligence Chips Market research report includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers,"
+    publishedDateTime: 2020-01-10T14:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-growing-trends-and-technology-forecast-2019-to-2025-2020-01-10
     type: article
     provider:
       name: MarketWatch

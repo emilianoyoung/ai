@@ -7,7 +7,7 @@ sourceUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-medici
 ampUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.amp
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.amp
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.FE650D6B83660BFB6A3ABC06DE37934F

@@ -392,6 +392,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 6
+  - title: "Natural Language Understanding (NLU) Market Analysis & Forecast 2025"
+    excerpt: "Get PDF template of this report: https://www.qyresearch.com/sample-form/form/1211577/global-natural-language-processing-nlp-market Natural Language Understanding (NLU) Market Leading Players : IBM Watson ,Nuance Communications ,Amazon AWS ,Microsoft ,SAS ,Idiap ,The Aspect NLU Lab Market Segment Analysis : The report offers a comprehensive ..."
+    publishedDateTime: 2019-12-27T11:35:00Z
+    sourceUrl: https://www.openpr.com/news/1886522/natural-language-understanding-nlu-market-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-25T00:06:00Z

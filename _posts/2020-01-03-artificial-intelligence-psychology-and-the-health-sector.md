@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... One example of this is in the recent development of chatbots which deliver Cognitive Behavioural Therapy (CBT) 10. In some areas in the world, these chatbots can be really helpful such as in Germany, as only a small number of ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: Psychology Today
@@ -17,7 +17,8 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -25,6 +26,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "HWI48w7ZT6nHLuxoWLV3AD5P6L3KDtXD8t5w5DDCA1vtdIHzLxmkaQrq+U8XtE7EWUbsQ8xn94w00asiUGkYCb4R+HnepAnMS2ER5czMEwzYdLNPQcfJcXOoqO15eCSp2FQO4oKMFLSGM+4dIukQQZb1UOUOZxNty3niNu8tw+n0XBkBDDMbbkT/3dyUHcWd+5vUMBg/7bVFiHf2nUAWsRAirb38WRwU3hHgZ9oeui/RjWV8MTi5feEvzOM1mg8ZQZuj7mf4a/QIBqTPvp0GGQ==;fk4+iOdUXuymVp5PP4/pRA=="
+secured: "8pJsQw4cnN0yT2AV3xCXcjTL1lXL12EGDMzWzGv4MlkEQ6O57CerSgQSmyEMYHwmjLvaGwJSjMRftpLtzA4hGB/sHaVE6Jxtkv+hJHQU6W3iJKc0JgHaxkk2j5YzBxFlBO7NPLwlldcO7qDW9UyzbE+dbJS6LqjE4l1IypDy+jR9eQKSW3HMpSTqmY1MlmL2pv7mLJMoGNU7lIngmVCbrjO3Rlw/eLlkc+gENorpaHsjUwOhFRxYWodf7FFfRLZnrW/o6dI+OFiNQyMXQc3z9w==;dkTdZTBMxHMIkXSKJwMXXQ=="
 ---
 

@@ -24,17 +24,21 @@ images:
     title: "Not Just Voice: The Natural Language Revolution"
 
 related:
-  - title: "2020: The year the office finds its voice?"
-    excerpt: "A variety of startups in the industry have attracted venture capital investment, including Seattle-based Saykara, which uses speech recognition to input information into electronic health record systems. This frees doctors from burdensome data-entry requirements. “Physicians spend on average about two hours on screen time for every hour that ..."
-    publishedDateTime: 2020-01-02T11:04:00Z
-    sourceUrl: https://www.itworld.com/article/3509470/2020-the-year-the-office-finds-its-voice.html
-    ampUrl: https://www.itworld.com/article/3509470/2020-the-year-the-office-finds-its-voice.amp.html
-    cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3509470/2020-the-year-the-office-finds-its-voice.amp.html
+  - title: "Unlocking contract insights with natural language processing"
+    excerpt: "Your article was successfully shared with the contacts you provided. Artificial intelligence solutions using natural language processing (NLP) have emerged to address the challenge of fewer human experts available to determine the content and intent of policy wordings. (Photo: iStock) Large commercial and specialty insurance is a complex ..."
+    publishedDateTime: 2020-01-10T16:37:00Z
+    sourceUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/
+    ampUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
+    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
     type: article
     provider:
-      name: ITworld
-      domain: itworld.com
-    quality: 24
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.110AE5D507438CCDF22E6C1058109A10
+        width: 620
+        height: 372
 
 secured: "2i4PkOEfpSb+UjOqglxBmeOSHN8lmuddHN2nqeWDNLkRVV+HlHYzV/j1IATV2DrC64G3c2BZv23Mq89oqGXP0p3+r/Vss/HSL2dQwX+U/fuhW8bRtW8EbucvyGqgd0Ry/Fl9/Cz2vTMWdzEwR3zQsLiPFZ9pgn0igGJaqt13p8DaAu4WK5khJVHbma12DN3G+vLORO2tUq0JJMKvLP7dypTkHA7il23UeNIu10OTkwykgaUW4yQmu8SN2T3EMpb1m7JxKTl7W6CT0VAI0y8fwg==;xhb9keb1FYO04Y9BWYIwJQ=="
 ---

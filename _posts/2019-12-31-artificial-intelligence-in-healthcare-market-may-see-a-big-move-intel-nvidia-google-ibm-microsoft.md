@@ -80,6 +80,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Chips Market Growing Trends and Technology forecast 2019 to 2025"
+    excerpt: "The Artificial Intelligence Chips Market research report includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers,"
+    publishedDateTime: 2020-01-10T14:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-growing-trends-and-technology-forecast-2019-to-2025-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
     excerpt: "source=MW&Mode=20 The dominating players in the Advanced Chatbots market are Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer, Codebaby Advanced Chatbots market segregation by product type: Scripted Bots AI Bots The Application can be divided as follows ..."
     publishedDateTime: 2019-12-31T08:59:00Z

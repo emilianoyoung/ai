@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-project-finally-unveil
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
 type: article
 quality: 185
-heat: 265
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.68348F25697C1CAD8871386CB909E695
         width: 700
         height: 426
+  - title: "Samsung's Neon explained: Just what exactly are these 'artificial humans'?"
+    excerpt: "While other companies at CES 2020 looked to the future of artificial intelligence, Samsung brought a bit of futuristic AI to ... \"They can serve as an individualized teacher, a personal financial advisor, a healthcare provider, … a concierge … an actor, a spokesperson or a TV anchor.\" What Neons might be able to do for you Although we ..."
+    publishedDateTime: 2020-01-10T12:08:00Z
+    sourceUrl: https://www.cnet.com/how-to/samsungs-neon-explained-just-what-exactly-are-these-artificial-humans/
+    ampUrl: https://www.cnet.com/google-amp/news/samsungs-neon-explained-just-what-exactly-are-these-artificial-humans/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsungs-neon-explained-just-what-exactly-are-these-artificial-humans/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.C373B4C38929EC46C65A4AE7D0B0DD59
+        width: 700
+        height: 466
   - title: "Artificial humans? Samsung Labs' Neon project has a lot of hype to live up to"
     excerpt: "Neon said that Core R3's neural networks were \"extensively trained with how humans look ... Samsung has ramped up its efforts to develop artificial intelligence in the past few years, vowing in 2018 to invest $22 billion in AI and 5G by 2020. Although most of the company's focus has revolved around Bixby, Neon is a different take on the ..."
     publishedDateTime: 2020-01-07T13:28:00Z

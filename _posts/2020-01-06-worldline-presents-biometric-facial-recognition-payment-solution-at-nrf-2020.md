@@ -27,7 +27,7 @@ related:
   - title: "China facial-recognition case puts Big Brother on trial"
     excerpt: "Facial-recognition technology has become embedded in China, from airports to hotels, e-commerce sites and even public toilets, but a law professor had enough when asked to scan his face at a safari park."
     publishedDateTime: 2020-01-08T04:58:46Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/china-facial-recognition-case-puts-big-brother-on-trial/ar-BBYITi5
+    sourceUrl: https://www.msn.com/en-us/news/world/china-facial-recognition-case-puts-big-brother-on-trial/ar-BBYITi5
     type: article
     provider:
       name: AFP on MSN.com

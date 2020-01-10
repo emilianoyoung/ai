@@ -133,7 +133,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 65
+    quality: 67
     images:
       - url: https://www.bing.com/th?id=ON.BCF4B805FE7C99E599675C5B61393EB3
         width: 700
@@ -254,19 +254,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
-  - title: "Samsung's Neon explained: Just what exactly are these 'artificial humans'?"
-    excerpt: "Never mind weather reports and playlists -- Neon promises to keep your secrets, teach you yoga and help you find a great restaurant. But can the AI deliver?"
-    publishedDateTime: 2020-01-10T15:45:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/samsungs-neon-explained-just-what-exactly-are-these-artificial-humans/ar-BBYP19M
-    type: article
-    provider:
-      name: CNET on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.F331DD2C5C0C17019B3D58755172A344
-        width: 700
-        height: 367
   - title: "More job cuts stare at us as Samsung showcases NEON 'artificial humans' ready to do everything we do"
     excerpt: "It should now be, \"Whether artificial intelligence will take over the world ... you will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What's more, over time, these NEONs which come in several different avatars, should be able to work as TV anchors ..."
     publishedDateTime: 2020-01-09T09:49:00Z

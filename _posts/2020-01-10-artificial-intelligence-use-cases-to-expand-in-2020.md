@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence (AI) is expected to play a much greater role i
 publishedDateTime: 2020-01-10T12:00:00Z
 sourceUrl: https://i-hls.com/archives/98055
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: https://www.bing.com/th?id=ON.F9917D81D943AF70D5B6A191665CC1DB

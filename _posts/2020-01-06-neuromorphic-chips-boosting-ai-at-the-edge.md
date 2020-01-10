@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T20:05:00Z
 sourceUrl: https://www.marketwatch.com/press-release/neuromorphic-chips-boosting-ai-at-the-edge-2020-01-06
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 54
+  - title: "Neuromorphic Chips 2019 - Boosting AI at the Edge - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. The Report Includes: An overview of the global market for neuromorphic chip and discussion on its future market potential ..."
+    publishedDateTime: 2020-01-10T14:57:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200110005396/en/Neuromorphic-Chips-2019---Boosting-AI-Edge
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.53A5DDD1CBD99DC247519F8A804A19E6
+        width: 700
+        height: 365
   - title: "Taking AI to the edge with HCI"
     excerpt: "The best way for AI to be optimally used to generate these models is to make use of the data center or the cloud. One such example of this is the silicon chip company, Cerebras, which dedicates its work to accelerating deep learning. It has recently introduced its new “Wafer Scale Engine” which has been purposefully built for deep learning."
     publishedDateTime: 2020-01-02T09:46:00Z

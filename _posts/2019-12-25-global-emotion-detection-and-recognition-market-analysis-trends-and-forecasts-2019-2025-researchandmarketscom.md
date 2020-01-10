@@ -392,6 +392,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 6
+  - title: "Natural Language Understanding (NLU) Market Analysis & Forecast 2025"
+    excerpt: "Get PDF template of this report: https://www.qyresearch.com/sample-form/form/1211577/global-natural-language-processing-nlp-market Natural Language Understanding (NLU) Market Leading Players : IBM Watson ,Nuance Communications ,Amazon AWS ,Microsoft ,SAS ,Idiap ,The Aspect NLU Lab Market Segment Analysis : The report offers a comprehensive ..."
+    publishedDateTime: 2019-12-27T11:35:00Z
+    sourceUrl: https://www.openpr.com/news/1886522/natural-language-understanding-nlu-market-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
   - title: "Enterprise Artificial Intelligence (AI) Market Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
     excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
     publishedDateTime: 2019-12-24T10:14:00Z

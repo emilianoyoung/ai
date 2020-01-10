@@ -8,8 +8,8 @@ ampUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-log
 cdnAmpUrl: https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 64
+published: true
 
 provider:
   name: Leftlane
@@ -20,19 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
-    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
-    publishedDateTime: 2019-12-12T17:48:00Z
-    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
-        width: 718
-        height: 400
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
     excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
     publishedDateTime: 2019-12-12T17:21:00Z
@@ -45,6 +32,6 @@ related:
       domain: theguardian.com
     quality: 39
 
-secured: "1glB0oUihMDGVp3LmMK6vpkqTpIW0Qohva52Tto2Ani7nLfHveLFaMcHA54aF2MbgoHR2gNpLA0vPCdRMvOFFFYgyuCb48P3R4vU2ZFDZ+5RAPKtZ51c2JZrwDq+VjAxbCs/RHZok8IbF7jtzfKyfQz1sH1xGG9Oj9lXJ5BpPdSBRQhKyCdhEKxyhkzt2KigHTuuNp2DkxkTn0O0DzhJPw6qcbMqslP1GYw2/QaUXKLetIy+CEX2bPNRKw45JiC0dvtMrMJtBXBbdasHcXkvMg==;aoNqxBX9v+uh1QlHqrYfOg=="
+secured: "0zd8aSgMmbIiOrQ8LB8Je6ii4cs2WE33DWiZLrWBN8Fp8a4trwbfrNYr5qSUxLx0WzIqmg/gR7Fjd8dFQPbT3BTf100PE0pXEkYY7f9h+GE/YuN8WAWvnlfki8CiXIj9sSSTTbLbJf3YLXc9EiXeutJjhjKV5i741gMPVMJ0H70Jm2ybjhlJ9qkr/e2GyyERvZnudal2zpMWN7w8YPnRoucFrDms+SJszRngtggKR9TqXH5huOhpYZ7L2o0q25foxBzTaf4c/5Lsmng7/Yh0kg==;ocUSvO6Cs6f4GWmsvanqJQ=="
 ---
 

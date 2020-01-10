@@ -3,12 +3,10 @@ category: news
 title: "Bosch is using artificial intelligence to eliminate sun glare while driving"
 excerpt: "The company says the traditional sun visors equipped in current cars do not handle safety issues that come with driving in bright sunlight."
 publishedDateTime: 2020-01-09T15:16:00Z
-sourceUrl: https://www.businessinsider.com/ces-2020-bosch-virtual-visor-blocks-sun-glare-while-driving-2020-1/
-ampUrl: https://amp.businessinsider.com/ces-2020-bosch-virtual-visor-blocks-sun-glare-while-driving-2020-1
-cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/ces-2020-bosch-virtual-visor-blocks-sun-glare-while-driving-2020-1
+sourceUrl: https://www.businessinsider.com/ces-2020-bosch-virtual-visor-blocks-sun-glare-while-driving-2020-1
 type: article
-quality: 85
-heat: 85
+quality: 65
+heat: 65
 published: true
 
 provider:
@@ -28,6 +26,6 @@ images:
     height: 350
     title: "Bosch is using artificial intelligence to eliminate sun glare while driving"
 
-secured: "z7MkZ75ZOBHStLyMMeEH9Y15fYYa0RGlZuwiX44P9Egw7o7cJXMLidIwC+Viaqe+tm5U1WexMsOm4x6wjyA/Zt3qvydxa9BrfKZ3Fam2mzlr0tp3ItUki6f4kDWgHY2zSfQDnnMDlhD7ONjUCGR6/ZGLjzwY8ERilhbWyvSywKghbfk4baYttitvuGFtOE9k20BsPAkKzcRGjrjEhw6Hvf0Zr7njTvNVFW90bJ1lJNomVPTLOgZJdpznPqLbgtEF3P0vx7a/BUCQEbAx2BNXqQ==;H9677KgGbtYgHO9O3LESuA=="
+secured: "SYclYvt8CzjfdfGeTPQ+wsjOaeSEz6wm2UZcS2qdxVBY6exOYXhMcfDZ4hDmyh3L5QLuYMiUXTKKuwjJQfQukTK9IiyVIMf0QJyCOsrSi08zW42eiY8SN7hDWOF0gSiodSNctL2reohMaRJnSFDmp5Yi1EWgmj0Eb9grXznas+ZCVvtjK6NKV1beKNR4U1jubTrVkw+LY7H2TTY5MXOer3vzsMpUxF0Zv5Mcckc8pVqQ/KefP12z+kNEyonJaYCKndIHLLtAkqaA0Mi7n97x2Q==;tRoEF1FsABtV837xYKc+bA=="
 ---
 
