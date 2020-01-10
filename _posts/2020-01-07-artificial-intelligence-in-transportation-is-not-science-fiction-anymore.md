@@ -24,29 +24,74 @@ images:
     title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
 
 related:
-  - title: "Pricing Intelligence Fuels Food Company Growth: Use Robotic Process Automation To Gain A New Edge"
-    excerpt: "Is there time for a better way? Robotic process automation (RPA) uses artificial intelligence (AI) and machine learning capabilities to handle high-volume, repeatable tasks. The benefits of RPA are compelling, including reduced human error and labor, improved data security, integrated data management and higher employee satisfaction."
-    publishedDateTime: 2020-01-01T11:00:00Z
-    sourceUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge
-    ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
-    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
+  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
+    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the U.S. and also in China are some less crowded areas and ..."
+    publishedDateTime: 2020-01-10T05:51:00Z
+    sourceUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/
+    ampUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
+    cdnAmpUrl: https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.96CF28EFB8634143492CCB333890EFE7
+        width: 700
+        height: 393
+  - title: "Trump administration’s CES message: We’re not interested in heavy AI regulation"
+    excerpt: "He touted a series of AI principles that the White House released earlier this week, that stipulate the government should ensure AI is safe and unbiased but engage with industry in any rules it develops to ensure that. “If we’re too heavy-handed with artificial intelligence, we end up stifling entire industries, and we want to make sure to ..."
+    publishedDateTime: 2020-01-09T13:44:00Z
+    sourceUrl: https://www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/
+    ampUrl: https://www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.7AECCBDD301CD0F1A19D61C9B52FFFE7
+        width: 700
+        height: 449
+  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
+    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
+    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
     quality: 44
     images:
-      - url: https://www.retailtouchpoints.com/media/k2/items/cache/9d938d8abba7a40b7e0a8e884db372b2_L.jpg
-        width: 900
-        height: 531
-  - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
-    excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
-    publishedDateTime: 2020-01-01T11:23:00Z
-    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b06522
+      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
+        width: 700
+        height: 373
+  - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
+    excerpt: "BROOKLYN, New York, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate professor of computer science and engineering and the director of the Game Innovation Lab at the NYU Tandon School of Engineering,"
+    publishedDateTime: 2020-01-09T19:17:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968647/0/en/Engineering-society-IEEE-honors-NYU-Tandon-Game-Innovation-Lab-director-for-contributions-to-computational-intelligence.html
     type: article
     provider:
-      name: C&EN
-      domain: acs.org
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.9F909CB543B1194AFF5FCEAD11D3B0DF
+        width: 300
+        height: 200
+  - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
+    excerpt: "BROOKLYN, New York, Jan. 09, 2020 -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate."
+    publishedDateTime: 2020-01-10T00:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/engineering-society-ieee-honors-nyu-191736520.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/engineering-society-ieee-honors-nyu-191736520.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/engineering-society-ieee-honors-nyu-191736520.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 0
 
 secured: "NAD02xcViMhIa0QhUK1+e99dtj65CaIVHChfWObvRyx6DlghgAG3tcABEYnQDCVuziHRw1D6T4C98MmzXGdDlc75ZPYZWo7vs++ige8AliT59f5xr00VYJ/c1qErPV5N5zWQzJ6tWMchs33MCC3nqmKtitrPV4IgJ5Kk7d78OyWK1nghlKSCqsEZDcKEkDL0d4Mci+FfcE7LVTrc9vKXC99xTKsj72xGO9w5PzxyXHo2nT6Nr+g/iXk1Vi+5ZeJHugsSlwq01nnW4mUSg9jLnw==;M6eL63sUhDUgh1oUhnsRgg=="

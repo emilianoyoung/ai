@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Google launches AutoML Natural Language with improved text classification and model training"
 
-secured: "GkieOpgYXFZvdgstzv1NkOnlUCAzIDgLx2UCx4lzNVWglGvwKew5u3z4FnTJ2snfcghgbWLtwwSp9YlXVNpE8veYjN+d50kLRgkWiI6j4x6NRbP+Sr9P1Cvu8UQA1vVS6jR+JJoB0Fu4jyFYcdBxmLxbBcsmIrG/ii3dXpcY8AWkQq3QHjHpgBJpnrVMsUjEbpol74uEweC8oO2SV/rxZDDsD76dFEzE4fsYxndjbxJO/D9oh/SqlD47SgDxwl0ybdAdt33GpEQfAeDMi+axBA==;odmSfVlw/YwfzZoXpFHuYg=="
+secured: "4h1kHBB+2dJgo9jYwq5dlvP+PtJKZtlg9cHj09IjX4fz9MVPprel8l0Eqn5ZHPW06PGdNdZE24jys2dV8NhsjiOrCS2oym0P1dH7FfbHNPjGfjdyxIoqKmJT3YO+A3tseBULWBG4NxzW8M7s9XScQF754HoL9yZ8tYVIbbEvjlPtwvKjzeShe48YtLS7+hSAOqKzO41rKkr2L5RJfqsUTwPkJAJ61cu5DBAEiqk36CjcfSllde29pGnzqLPm5xOXFS8h9D0eutRzp+lJxmiUYw==;FecbDk6821uUo8Af+9mMAQ=="
 ---
 

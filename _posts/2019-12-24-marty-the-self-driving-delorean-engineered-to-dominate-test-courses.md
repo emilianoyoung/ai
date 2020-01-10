@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
         width: 700
         height: 366
-  - title: "Stanford engineers teach self-driving DeLorean to drift"
-    excerpt: "The mathematics involved in the code have been made open access and could allow self-driving systems to maneuver a car in emergencies with the skill of a professional drift racer. STANFORD, Calif. — Engineers at Stanford have taught a driverless DeLorean to drift through a racecourse, the university said Friday. The DeLorean, named MARTY ..."
-    publishedDateTime: 2019-12-21T04:45:00Z
-    sourceUrl: https://www.kcra.com/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
-    ampUrl: https://www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
-    cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
-    type: article
-    provider:
-      name: KCRA
-      domain: kcra.com
-    quality: 44
-    images:
-      - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stanford-marty-005-remasted-banner-1576901211.jpg?crop=0.783xw:1.00xh;0.0472xw,0&amp;resize=1200:*
-        width: 1253
-        height: 705
   - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
     excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
     publishedDateTime: 2019-12-23T22:33:00Z

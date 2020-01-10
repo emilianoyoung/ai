@@ -1,27 +1,27 @@
 ---
 category: news
-title: "CES: Toyota's building a city the future full of robots and AI"
-excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-publishedDateTime: 2020-01-07T21:00:00Z
-sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
+title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
+excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
+publishedDateTime: 2020-01-10T05:53:00Z
+sourceUrl: https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Motor Authority
-  domain: motorauthority.com
+  name: Steel News
+  domain: steelguru.com
 
 topics:
   - AI
-  - AI in Robotics
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+  - url: https://www.bing.com/th?id=ON.A88796FA24D024D820D53EE9462FD145
     width: 700
-    height: 393
-    title: "CES: Toyota's building a city the future full of robots and AI"
+    height: 466
+    title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
 
 related:
   - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
@@ -172,6 +172,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B7E09AF6178723C0E895718F26CC93E9
         width: 600
         height: 315
+  - title: "CES: Toyota's building a city the future full of robots and AI"
+    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
+    publishedDateTime: 2020-01-07T21:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+        width: 700
+        height: 393
   - title: "CES: Toyota's building a city where the future full of robots and AI"
     excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
     publishedDateTime: 2020-01-07T21:00:00Z
@@ -271,19 +284,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5E65B606C1888F89059EA97DAA66A20E
         width: 700
         height: 392
-  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
-    excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
-    publishedDateTime: 2020-01-10T05:53:00Z
-    sourceUrl: https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691
-    type: article
-    provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A88796FA24D024D820D53EE9462FD145
-        width: 700
-        height: 466
   - title: "CES 2020: Toyota is building a 'smart' city to test AI, robots and self-driving cars"
     excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
     publishedDateTime: 2020-01-08T10:38:00Z
@@ -389,6 +389,6 @@ related:
         width: 500
         height: 500
 
-secured: "wNou/LVYLcow9q10AOGnzf/pD2DSllUzEtv0ZTF0j+AAIH70sQeVbffxUZjoy92212xUklNfkvTY4zOaXVsveVteQ+sfPnKcLfJAx3b4Jt4OhnNJrAbMfJXlI0EZSGZ9NMCgZAAw8Xmrqqox8/gMXXC86+NZL5Az/jkqkwEr6FiOmix/c3lqOomUDzx18Z0XMa7muaxll7qlYv8qYrvlV+ACr4FOzDCdQzrcgy53aNADAEC3RmYY9ms3VXBCCnqUeXEkLkfm4zPPa2zt8y4d/A==;Scd9RP/L0s/wber+CoJXAA=="
+secured: "xDeQ6tbwg3FPAZKOqZkCVv2q8vCouJLqbvvNTXhWgGmm/7jOvVOEkbgaDCxZbwN09LrSkfkMFMZYD3fwjmrjHyICeGeyrmjtqCTZnxMNlcDDPXY0icEPGHD7elLfN7N4cuNzTq79mlWNadrbu9q0bk+U5LsahiiQt7YLRvySuVWspVSWpR84VvYs1ZKb+ciursbxldnImcbmj1uGjw2WWbznlY9zcwwlPQUXASPQqUFybZxdQhpz+yP2v/uJ3BgiUa/Sh5h9xXXfJAJwk3URYQ==;fEHOlDAaQrV1+JzZrhLibg=="
 ---
 

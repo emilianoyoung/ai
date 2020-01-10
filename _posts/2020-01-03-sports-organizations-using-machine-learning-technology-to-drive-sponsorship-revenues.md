@@ -23,21 +23,6 @@ images:
     height: 466
     title: "Sports Organizations Using Machine Learning Technology to Drive Sponsorship Revenues"
 
-related:
-  - title: "Deep learning, 3D technology to improve structure modeling for protein interactions, create better drugs"
-    excerpt: "Kihara and his team developed a system called DOVE, DOcking decoy selection with Voxel-based deep neural nEtwork, which applies deep learning principles to virtual models of protein interactions. DOVE scans the protein-protein interface of a model and then uses deep learning model principles to distinguish and capture structural features of ..."
-    publishedDateTime: 2020-01-09T19:33:00Z
-    sourceUrl: https://www.purdue.edu/newsroom/releases/2020/Q1/deep-learning,-3d-technology-to-improve-structure-modeling-for-protein-interactions,-create-better-drugs.html
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.7DBF6A1C3CAA4B3BC85E91C46EFECA70
-        width: 700
-        height: 434
-
 secured: "vbqlw6JBRJpCT7PfdM5X4KMnjFLDErlP/+v7xx8+wd4F/NUQlng/88ZvXvYfHI9Zo9W/BLFkpQ/ABPPjQiYkB3Tsz6BoaOovRFT0rnEZqfc+PNdNZoCaTbRGUH4zSqOwdhtDUhKTdlKlXth+ELo9Qcr0dtXoGBu/jNRTtLKh3zA54RCLXeEy0zsUF6T0rQnVApLmiNzuPK9WI3urbXB27BDEVZ7CI1lQEC2Y0CutYvL0OP+mS/nP+5woXjocm0Ho6kYKE0qXLzBILTasVZWzAA==;Q3ELQkKOs6jZsRl8wKoPVw=="
 ---
 

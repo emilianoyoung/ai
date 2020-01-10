@@ -1,46 +1,31 @@
 ---
 category: news
-title: "Cognitive intelligence, in-memory-computing and more in 2020"
-excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
-publishedDateTime: 2020-01-06T08:11:00Z
-sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
-ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
+excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the U.S. and also in China are some less crowded areas and ..."
+publishedDateTime: 2020-01-10T05:51:00Z
+sourceUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/
+ampUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
+cdnAmpUrl: https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 57
+heat: 107
+published: true
 
 provider:
-  name: Voicendata.com
-  domain: voicendata.com
+  name: The Guardian Nigeria
+  domain: guardian.ng
 
 topics:
   - AI
-  - Natural Language Processing
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
+  - url: https://www.bing.com/th?id=ON.96CF28EFB8634143492CCB333890EFE7
     width: 700
-    height: 373
-    title: "Cognitive intelligence, in-memory-computing and more in 2020"
+    height: 393
+    title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
 
 related:
-  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
-    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the U.S. and also in China are some less crowded areas and ..."
-    publishedDateTime: 2020-01-10T05:51:00Z
-    sourceUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/
-    ampUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
-    cdnAmpUrl: https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.96CF28EFB8634143492CCB333890EFE7
-        width: 700
-        height: 393
   - title: "Trump administration’s CES message: We’re not interested in heavy AI regulation"
     excerpt: "He touted a series of AI principles that the White House released earlier this week, that stipulate the government should ensure AI is safe and unbiased but engage with industry in any rules it develops to ensure that. “If we’re too heavy-handed with artificial intelligence, we end up stifling entire industries, and we want to make sure to ..."
     publishedDateTime: 2020-01-09T13:44:00Z
@@ -56,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7AECCBDD301CD0F1A19D61C9B52FFFE7
         width: 700
         height: 449
+  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
+    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
+    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
+        width: 700
+        height: 373
   - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
     excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
     publishedDateTime: 2020-01-07T15:35:00Z
@@ -94,6 +94,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "BPkNwHSH3upEOJVzEh2jasanIS0uCTOi7AW/jRPRnL6Y6nFSpbZYidkj/dTQN4uwR3CDD+EZ+KRCu7hioKxW2b/ad92fz/NuiIkLWO5kQAP11158aA1SPkJtHtdmFzfxLu5OmJnDb2bhfQ3/2ytfl3Zzs257xXAZLwgeFzsVd84kK+B8YqE6UgNvxl+OI0yJShNYmMjTscndff2rK82VJUyD9laD60aIZ3s57/ykm0+jZin6+7rt2dBz4ynHYc5jKwZh+vXj2Yb6J7WmJCQlIQ==;uzJ5xN510UfPKdA0UJF6jg=="
+secured: "e9IqCPCMBoXHUQ/si109VoOTGsL0keY8pc70+FL7Inpg4nwOc9xlkLACClD6BSry6hCKZoNovlpkZrF0+3e9TZGcANPE1lWWcHiKi5/dj3T4hPW4cNZlotYjDir/XJA4KBdumCiAQmP9ek6jbLRno1gQl6F8XIzFBQ1hiRC5ASkSznhkXVM4r4tHrjEe/9utGf7hxt4VtL8Rdq12gHgpLTJPEEKfXGyEPlWYI+kAVL9uM488YR7Xs+z86iZNSjrPR5oIgbyeRYfpBZRj3pVPEg==;w6c1OrMzCJhlua0j7mSGkA=="
 ---
 
