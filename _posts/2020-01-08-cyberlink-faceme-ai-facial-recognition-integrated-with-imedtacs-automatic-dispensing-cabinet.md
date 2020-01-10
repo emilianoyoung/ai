@@ -374,6 +374,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BCBC4E38225222EDFD39564D682B0289
         width: 600
         height: 315
+  - title: "Telangana Election Commission to use facial recognition to verify electoral rolls: G Kishan Reddy"
+    excerpt: "HYDERABAD: UNION Minister of State for Home Affairs G Kishan Reddy on Thursday said that Telangana State Election Commission (TSEC) would soon launch a pilot project using facial recognition technology to verify photo electoral rolls in the forthcoming municipal elections. He said that the use of facial recognition tools in the electoral ..."
+    publishedDateTime: 2020-01-10T03:41:00Z
+    sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.html
+    ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.amp
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.C650CF649AEF0355BEF7DAE45F998CB5
+        width: 600
+        height: 390
   - title: "Railway stations at Bengaluru, Manmad, Bhusawal to get facial recognition tech as test cases"
     excerpt: "New Delhi, Jan 8 (PTI) Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing ..."
     publishedDateTime: 2020-01-09T00:03:00Z

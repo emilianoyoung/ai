@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facial recognition finally activated at New York school district"
-excerpt: "After receiving concerns over possible student privacy violations from students, civil rights activists and state officials, the Lockport City School District in Upstate New York on Thursday activated its facial recognition, which is designed to detect and preempt threats to campus safety. “I am pleased to report that the District has ..."
-publishedDateTime: 2020-01-06T23:16:00Z
-sourceUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/
-ampUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
-cdnAmpUrl: https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
+title: "Telangana Election Commission to use facial recognition to verify electoral rolls: G Kishan Reddy"
+excerpt: "HYDERABAD: UNION Minister of State for Home Affairs G Kishan Reddy on Thursday said that Telangana State Election Commission (TSEC) would soon launch a pilot project using facial recognition technology to verify photo electoral rolls in the forthcoming municipal elections. He said that the use of facial recognition tools in the electoral ..."
+publishedDateTime: 2020-01-10T03:41:00Z
+sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.html
+ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.amp
+cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.amp
 type: article
-quality: 59
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: edscoop.com
-  domain: edscoop.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.08234B047A974C258D9E9189AE65F456
-    width: 700
-    height: 466
-    title: "Facial recognition finally activated at New York school district"
+  - url: https://www.bing.com/th?id=ON.C650CF649AEF0355BEF7DAE45F998CB5
+    width: 600
+    height: 390
+    title: "Telangana Election Commission to use facial recognition to verify electoral rolls: G Kishan Reddy"
 
 related:
   - title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
@@ -219,6 +219,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0180BA3AFB221AA27AC61BC7F1323725
         width: 700
         height: 466
+  - title: "Facial recognition finally activated at New York school district"
+    excerpt: "After receiving concerns over possible student privacy violations from students, civil rights activists and state officials, the Lockport City School District in Upstate New York on Thursday activated its facial recognition, which is designed to detect and preempt threats to campus safety. “I am pleased to report that the District has ..."
+    publishedDateTime: 2020-01-06T23:16:00Z
+    sourceUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/
+    ampUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
+    cdnAmpUrl: https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
+    type: article
+    provider:
+      name: edscoop.com
+      domain: edscoop.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.08234B047A974C258D9E9189AE65F456
+        width: 700
+        height: 466
   - title: "NYCLU blasts 'premature' approval for school facial recognition system"
     excerpt: "Lockport City School District, in Niagara County, activated facial recognition cameras in all of its buildings last Thursday, becoming the first public school in the state to use the software designed to prevent intruders. The New York branch of the civil liberties union, in a letter to state education officials, wrote that the approval was ..."
     publishedDateTime: 2020-01-06T21:36:00Z
@@ -361,21 +376,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BCBC4E38225222EDFD39564D682B0289
         width: 600
         height: 315
-  - title: "Telangana Election Commission to use facial recognition to verify electoral rolls: G Kishan Reddy"
-    excerpt: "HYDERABAD: UNION Minister of State for Home Affairs G Kishan Reddy on Thursday said that Telangana State Election Commission (TSEC) would soon launch a pilot project using facial recognition technology to verify photo electoral rolls in the forthcoming municipal elections. He said that the use of facial recognition tools in the electoral ..."
-    publishedDateTime: 2020-01-10T03:41:00Z
-    sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.html
-    ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.C650CF649AEF0355BEF7DAE45F998CB5
-        width: 600
-        height: 390
   - title: "CyberLink FaceMe AI facial recognition integrated with iMedtac’s Automatic Dispensing Cabinet"
     excerpt: "CyberLink, a pioneer of AI and facial recognition technologies, announced that its FaceMe AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is powered by IoT and facial recognition technology, integrating into an AIoT iHospital service platform and enhancing ..."
     publishedDateTime: 2020-01-08T03:32:00Z
@@ -540,6 +540,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "lbkVhiCyOz7rEdH8PpM+ASIArJFGL2+dzXz2/kX+hP08h1IxMgRNJYJc1BHytY7pzouuAbTMmNiZUfFhgbGdOFVctTNe9xbzF1WSfjk7lNhG2RtBet0NJiMbFtJr+r30rSmaDzUI2TcotlTLRrmFzkhTmdWEgt0JFsq/D+WBiiWf3nuUA/RbVZFat61etmytKnnyVS+BtoD5g1HWxz8teNsbRcEvQKtJrCIDGQi0tQjKcjmzZjcNCKJKgA/GOrlHJim1sTETwaTQI3GRtdEd+w==;EOB1iM2Z2gzaF1O8R8ARcg=="
+secured: "cI+7opNBUHRl/apko5+Xoifu2Ndr0uT10x+YuKbeXVAg+ROFjU23pYh3DfPqBoi1HoOKDu7pls92JUY98ol8BBdzlc1TQ5OOVohRuQKPt4Qw94DsUgQ3m/7jJXhkkfqsvozquN5r8bbr42ISP3Rxo/f4eZz4yDi/HChKgSBGv1ozT9k/nUtJ0Pj36z4+MIcNNfnVKG8y8YjFhfAezun5iSERi0JlWV99rHH0rr8z8iI9IHDdAwM1jUeM2wpvW2tyliZZOjffVh+Mvp5UkjJqAA==;746F8cKd4myEc7/dlIz28Q=="
 ---
 

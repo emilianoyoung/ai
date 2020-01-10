@@ -1,34 +1,44 @@
 ---
 category: news
-title: "Automation And AI: The New Frontier In Cybersecurity"
-excerpt: "There are many ways to deal with incidents. Managed security services powered by AI are a critical first step in the journey of planning for cybersecurity. Today’s IT Landscape Requires SOAR and AI Many security companies are adopting Security Orchestration, Automation and Response (SOAR) and Artificial Intelligence (AI) to perform better ..."
-publishedDateTime: 2020-01-06T19:54:00Z
-sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/
-ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/amp/
+title: "BlackBerry Partners With Amazon Web Services For In-Vehicle Application Security"
+excerpt: "The AWS-powered BlackBerry platform essentially combines the two companies’ edge ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. The result is enhanced VVIP treatment for our discerning luxury ..."
+publishedDateTime: 2020-01-10T03:12:00Z
+sourceUrl: https://pulse2.com/blackberry-partners-with-amazon-aws/
 type: article
-quality: 87
-heat: 127
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Pulse 2.0
+  domain: pulse2.com
 
 topics:
   - AI
+  - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.D82D514BD309752666837662F41D8810
-    width: 600
-    height: 315
-    title: "Automation And AI: The New Frontier In Cybersecurity"
+  - url: https://www.bing.com/th?id=ON.5BB1A9692D70C419D0927B11C59585A9
+    width: 700
+    height: 515
+    title: "BlackBerry Partners With Amazon Web Services For In-Vehicle Application Security"
 
 related:
+  - title: "Automation And AI: The New Frontier In Cybersecurity"
+    excerpt: "There are many ways to deal with incidents. Managed security services powered by AI are a critical first step in the journey of planning for cybersecurity. Today’s IT Landscape Requires SOAR and AI Many security companies are adopting Security Orchestration, Automation and Response (SOAR) and Artificial Intelligence (AI) to perform better ..."
+    publishedDateTime: 2020-01-06T19:54:00Z
+    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/
+    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.D82D514BD309752666837662F41D8810
+        width: 600
+        height: 315
   - title: "Is the AI hype bubble in cybersecurity deflating?"
     excerpt: "AI adoption continues to accelerate, and according to Capgemini’s Reinventing Cybersecurity with Artificial Intelligence report, 48 per cent of respondents said budgets for AI in cybersecurity will increase by an average of 29 per cent in 2020. However, it’s important to note that potentially only a few vendors exist with the R&D budget to ..."
     publishedDateTime: 2020-01-01T09:30:00Z
@@ -57,19 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8F18FCD06347581ECE78097AD32F16F2
         width: 700
         height: 367
-  - title: "BlackBerry Partners With Amazon Web Services For In-Vehicle Application Security"
-    excerpt: "The AWS-powered BlackBerry platform essentially combines the two companies’ edge ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. The result is enhanced VVIP treatment for our discerning luxury ..."
-    publishedDateTime: 2020-01-10T03:12:00Z
-    sourceUrl: https://pulse2.com/blackberry-partners-with-amazon-aws/
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.5BB1A9692D70C419D0927B11C59585A9
-        width: 700
-        height: 515
   - title: "Artificial Intelligence (AI) in Cyber Security Market Size, Share, Development by 2025"
     excerpt: "BFSI, government and IT & telecom segments occupied the largest market share, while healthcare, aerospace and defense and other industries are expected to grow at a steady speed in future. United States Artificial Intelligence (AI) in Cyber Security Market Growth 2019-2024 Asia-Pacific Artificial Intelligence (AI) in Cyber Security Market ..."
     publishedDateTime: 2020-01-07T06:57:00Z
@@ -80,6 +77,6 @@ related:
       domain: openpr.com
     quality: 26
 
-secured: "J/PuUI9hbJ05VoWJgzuMkarSn/xIRo2ZS4JshxUE+yRVbCDqI84DocU530dledqldorcH2XYeaTg8T/ETrgAV4soXndeO9lk+PPw3a/ocNlgoKmlXx0ipxl/1Vdv3dmXnAlgNdgTkBURsQhiuEpuGEDjIQCitKuOpqak1xJgUgsErv/Gx89GfLp5CEzM/Z0KLD5QAito/+rpdTp9vwOddlT8ANCGHmutJCs3Wrd9i22ICWc2FdgmvKRHapY4vr7nMBwBkXs8Xu9yZSkRxDs6eA==;r3Rlh5ficeVE36Q+8uS1Dw=="
+secured: "b2c85bhnhfewhflQwQGdTS8YM/cNoN4Yxamy98WS/du0dHOTwcvSFlMlk0HMsvBrMHz/G0pa4rYR/Y2qXCBsog0T5E5wZ9UE9igDosQnbz/DusAoB8Csc+XKPQDQM73N6ErAR23OwKj5xjDawvSpld/AOLQMniTpQI6oVqo/lbebQcxDaWiuL0w8sBW8YOLoaEb1pxvvKbHD0qRR3XbfbxSUXhkZi2F4Yl6B+ovw9fbBEXM5+lYbN622A34ZzcRzgX3z8YN0EeBhP93fFRN28A==;ejHFKpGWr9uaQI+VXw5zgA=="
 ---
 

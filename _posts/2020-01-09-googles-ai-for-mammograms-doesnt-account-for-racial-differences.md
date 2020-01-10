@@ -47,7 +47,7 @@ related:
   - title: "Google's AI for mammograms doesn't account for race"
     excerpt: "Google is working on an AI tool for mammograms that researchers hope will one day be more accurate than human radiologists. The tech giant paid for a study, the results of which were published last week (Jan."
     publishedDateTime: 2020-01-09T16:00:51Z
-    sourceUrl: https://www.msn.com/en-us/health/other/googles-ai-for-mammograms-doesnt-account-for-race/ar-BBYMMwb
+    sourceUrl: https://www.msn.com/en-us/health/health-news/googles-ai-for-mammograms-doesnt-account-for-race/ar-BBYMMwb
     type: article
     provider:
       name: Quartz on MSN.com

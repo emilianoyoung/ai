@@ -53,6 +53,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B76148E129273B96EA3FA6E97D4D2ABB
         width: 700
         height: 393
+  - title: "BlackBerry Partners With Amazon Web Services For In-Vehicle Application Security"
+    excerpt: "The AWS-powered BlackBerry platform essentially combines the two companies’ edge ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. The result is enhanced VVIP treatment for our discerning luxury ..."
+    publishedDateTime: 2020-01-10T03:12:00Z
+    sourceUrl: https://pulse2.com/blackberry-partners-with-amazon-aws/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.5BB1A9692D70C419D0927B11C59585A9
+        width: 700
+        height: 515
   - title: "Artificial Intelligence (AI) in Cyber Security Market Size, Share, Development by 2025"
     excerpt: "BFSI, government and IT & telecom segments occupied the largest market share, while healthcare, aerospace and defense and other industries are expected to grow at a steady speed in future. United States Artificial Intelligence (AI) in Cyber Security Market Growth 2019-2024 Asia-Pacific Artificial Intelligence (AI) in Cyber Security Market ..."
     publishedDateTime: 2020-01-07T06:57:00Z

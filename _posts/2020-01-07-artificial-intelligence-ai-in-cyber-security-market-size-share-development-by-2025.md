@@ -61,6 +61,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8F18FCD06347581ECE78097AD32F16F2
         width: 700
         height: 367
+  - title: "BlackBerry Partners With Amazon Web Services For In-Vehicle Application Security"
+    excerpt: "The AWS-powered BlackBerry platform essentially combines the two companies’ edge ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. The result is enhanced VVIP treatment for our discerning luxury ..."
+    publishedDateTime: 2020-01-10T03:12:00Z
+    sourceUrl: https://pulse2.com/blackberry-partners-with-amazon-aws/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.5BB1A9692D70C419D0927B11C59585A9
+        width: 700
+        height: 515
 
 secured: "WoBp82a8SEN0ns9pmHwnRM/fZsSejeat6BxmQiB1Hr0kDmqvLvPOcEPDix/f3NZ8VbpdZQSNt56G77GBZ6D4CbKpGTHxq+kQDtX/nhgFDczk6cHJQiDmR1gyLX2o0Yn+N1BNFNI51LeV41b++hVl9/cqeN3k+/daQQ70AhlFeL5MKdjkndOnVJEsuNKCi90ZtEyKa+68ceFPa+fssbEK+Lan4X7xxIHh4O60wka4QTEcNBRRXx3qGWTcF5OT39KC3y/sYYo35qXSNlqlWRLrNQ==;itToRkkac4SSh2AC51Beow=="
 ---

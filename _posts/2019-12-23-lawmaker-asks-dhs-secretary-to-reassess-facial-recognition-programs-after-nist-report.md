@@ -480,19 +480,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
         width: 300
         height: 170
-  - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555, Hall South 2, in the Las Vegas Convention ..."
-    publishedDateTime: 2019-12-21T02:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/cyberlink-showcase-latest-applications-faceme-135500304.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/fbuideh7CHgtlVamC4.E5w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/07765564b095539b53904206d4088bdf
-        width: 480
-        height: 251
   - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
     excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
     publishedDateTime: 2019-12-23T11:43:00Z
