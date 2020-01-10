@@ -6,7 +6,7 @@
 title: AI Inside Out
 
 # Short bio or description
-description: "Your one-stop shop for all things AI"
+description: "Enjoy everything you could want about Artificial Intelligence in one place"
 
 # Site logo image such as corporate symbol
 logo: /assets/images/logo.png
@@ -52,7 +52,7 @@ themes:
   rapp:
     header:
       title: AI Inside Out
-      description: One-stop hub of all things AI<br />- AI news, learning, events, projects, and many more.
+      description: Enjoy everything you could want about the latest of Artificial Intelligence in one place
       banner_app: https://fiona-bi.github.io/ai/assets/images/banner-app.jpg
       banner_image: https://fiona-bi.github.io/ai/assets/images/banner.jpg
 
