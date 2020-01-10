@@ -5,8 +5,8 @@ excerpt: "Paul Davis, VP for UK and Northern Europe at Scandit explores how comp
 publishedDateTime: 2019-12-17T15:22:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/how-computer-vision-can-alleviate-pressure-on-nhs-staff/209028
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "oDGGNA8JlT+zp8gUzhK4REHFjhsC5SFGJ5k8/6N4gR578/vLayO+1a/1ahHdjeLsAe35JqVCd2sRV6R3d7/cBKK696ELCPDPxdmI1SYomWx0zLvkqnpV98Q0eaXUoBTPFLZ/kkcpQg4CwiLdfaxgZECllZ5fD7VvK6lICxajxc4MNvF33OmcnIh28merUF3cj/TdpCStImxR2neho3p+8MSFzOd7T6jQq7egelxkveGJKyWJLqyJTG7+kCGlc71uh57wh7lMOL52hs+Q6VpMBQ==;CHW50VuJo6V/O+xBSiC0Mg=="
+images:
+  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+    width: 512
+    height: 512
+    title: "How computer vision can alleviate pressure on NHS staff"
+
+secured: "zaubJpiVBYIn3CBRVt5+1tIJp5ov6xZ42OHNYNJnuzNlPl4TkhQvFMNggiJzoLUM5HYQRaI2qtmdLk11bwzOIdjMN0mu9nIn0TksY6wzzpRSz3mWpVle4vSk2Dcp/Ft66X2ug89rShNeM86U2JyRB6Ss8gFV5MFCLLiqmmHPzSR9enLYoj3D5waTAJALaFguSFGKzPcI5qtVpU62hnICNuzw/lzgKvE2aEXhF5khgHuXqrzqJKQCTjdbq/18y161DXnzhTBoOtIoFn4alKMnww==;p7KXUx1hR1UVnRr4TD7UJw=="
 ---
 

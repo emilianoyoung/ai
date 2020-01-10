@@ -80,6 +80,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Natural Language Processing (NLP) Market Driver And Growth By Regions To 2024"
+    excerpt: "The global natural language processing (NLP) market was valued at USD 8.5 billion in 2018, which is expected to reach USD 23.0 billion by 2024, registering a CAGR of 20.0% during the forecast period. Increasing focus on customer experience, need for managing large volumes of data, growing demand in contact centers, and rising shift in ..."
+    publishedDateTime: 2020-01-10T12:31:00Z
+    sourceUrl: https://www.openpr.com/news/1893892/natural-language-processing-nlp-market-driver-and-growth
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "mC8HizbMH4RKTnJg5JsgjnQ1oiQ4aGC0DItER5nJSpMMzd0xDghlZ2PWZnXC3kje8aXdV5i8F8rRJ13o92/cmmRuVKz9KESh3IG/5J5OVKrp3MwpeZS8fjJWGE1CAxmvEqgd1PYSgDrxRAYJZ4QmLaUlYHHVEsCCadC4Zs6kqmxWNtAdn0hzuocpDAnL3G6a6sOiS4Stt1G3AUyHUbUmtcpfNePh2Mb6G+68wyWwCXkXDxEoDxoDLQX9dLgYd536c+uvRitjpM0CUr9tLsTzow==;iXYBj4QgGfCInyGIzyQZWw=="
 ---

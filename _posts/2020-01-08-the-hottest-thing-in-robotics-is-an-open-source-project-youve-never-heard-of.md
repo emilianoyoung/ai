@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-rob
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
 type: article
 quality: 103
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -61,6 +61,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8A7D16F88FD95F59A64B32B962375AA0
         width: 700
         height: 393
+  - title: "SD Times Open-Source Project of the Week: ALBERT"
+    excerpt: "Google is open-sourcing a “lite” version of their BERT natural language processing (NLP) pre-training technique. ALBERT is an updated version of BERT that improves 12 NLP tasks, including the Stanford Question Answering Dataset (SQuAD v2.0) and the SAT reading comprehension RACE benchmark. BERT was first open sourced by Google at the end of ..."
+    publishedDateTime: 2020-01-10T14:10:00Z
+    sourceUrl: https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-albert/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.18851454200180BB8F90EDBA2CD3F169
+        width: 640
+        height: 426
   - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
     excerpt: "Featuring more than 3,000 State-of-the-Art Components and 22 Proprietary Servo Motors, T9 Is Both Vehicle and Robot, Transmuting Instantly Through Voice or App Control; Three Intuitive and Easy Programming Platforms Make Coding Fun with T9's Advanced Robotics and Artificial Intelligence LAS VEGAS,"
     publishedDateTime: 2020-01-09T19:52:00Z
@@ -75,6 +88,6 @@ related:
         width: 650
         height: 464
 
-secured: "KOa+4x/4B6PJfZuZWJzDL//hOAGfVabxO56IrH8CqH+GmvrZ+7wvS6iAe+aYVfw0QaXqP57aPdjKFJgfN1YRX7DP7sG1wYgaj5dG2jttAbRHKDr5GmHHhhWZ8bOID8N21aFtBKlh1Jn7zBxZ8LMBu9TtKPyKT5iAr5t2hvWm5IC1SuGq7gXkyqmnoA/8LZAIa7lnFESDwXc1eI5EsZigsC34nV/NiJd5wkcYe7kJwne9VIBIXWwGlZpjz28Ye5B6fHhPrOM5eRpHbvJ+NhQltQ==;hsBorq3kdl9e1KTSNviV3g=="
+secured: "HXLGKJ/3wW6khKOtdugflA08PPAxqYZErAwzkO1bFurDiXTA8hrhSW2XZkhKnCmUdJPeXbdyX2Eyq28eqHJ5Qtyh8UP1ViaIk06FG0OIjn29kc24JI3ty2AbfaOWDtdolL9aLTAW7w5huBrWgsniLx3p7QfKuAsbq5KcR/vrp2ftq5+iQHFKwJXzxLuw2jWkG9DIQ94B8vzjU0n54qm70/d1LqNkZDcmLI80yQiZ2js7qzybo9ZCkCCEqsNb8evVgM2Pl3AJHkqsqeyTsNDikw==;t0kCmtkPyRpSfgWMgA5ELQ=="
 ---
 

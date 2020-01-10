@@ -8,7 +8,7 @@ ampUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-reco
 cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 153
-heat: 553
+heat: 563
 published: true
 
 provider:
@@ -333,6 +333,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1076CBC33A3EFC9CFE2A52463EFE2BAB
         width: 700
         height: 490
+  - title: "Didi detects drowsy drivers with AI facial recognition"
+    excerpt: "Chinese ride-hailing king Didi is introducing AI-backed facial recognition technology in its cars. The company has previously used facial recognition to verify drivers’ identities , but now it’s using the tech to see if drivers are falling asleep. Didi will pilot the drowsy-driving detection system with AI cameras in a few cities ..."
+    publishedDateTime: 2020-01-10T14:17:00Z
+    sourceUrl: https://www.scmp.com/tech/article/3045621/didi-detects-drowsy-drivers-ai-facial-recognition
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.EC5C697AD8F52905845A841ACB470721
+        width: 700
+        height: 367
   - title: "Anti-Surveillance Advocates Sue MTA Over Alleged Use Of Facial Recognition Technology"
     excerpt: "A nonprofit watchdog group is suing the MTA to get information about a video monitor installed in Times Square to deter fare evasion, which drew suspicions that the agency is deploying facial recognition technology. In a lawsuit filed in state Supreme Court on Monday, the Surveillance Technology Oversight Project (STOP), an advocacy group which ..."
     publishedDateTime: 2020-01-08T19:59:00Z

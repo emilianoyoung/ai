@@ -40,6 +40,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 26
+  - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
+    excerpt: "Co. Ltd, a leading innovator in the field of AI and robotics, today debuted T9, the world's most advanced programmable robot that automatically converts from a robot to a vehicle in a stunningly smooth and seamless movement,"
+    publishedDateTime: 2020-01-10T00:12:00Z
+    sourceUrl: https://finance.yahoo.com/news/robosen-robotics-debuts-t9-ces-205200533.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 25
 
 secured: "pavnr801zfRdZPQ4Zfid1OVnC1dUc8kfEVZBmn2ne6Uu7YLt+gZGU40XIgsRiKu9SSI8EqngyKvx+lf/nJYAVcMC51D2FEDRVFzs9R3r0VI5r/IhO/KC5KcqM+SMGm05jfrztAM3FZ4aQZtBceaQ++ag+x95cAF4MacCtA56a2xHLiBsmUV0wIcCQwfSzXU4j9yIbFRcu8hprL7RcuJ0tEVsa4AjPa09hV1y2VPAmXfUvhQVqrEeN7IzLNMgL6rb9yLjhhOEOd4hUJoW0+b7aw==;PBeUyQTAjhN21fiyn8vi1Q=="
 ---

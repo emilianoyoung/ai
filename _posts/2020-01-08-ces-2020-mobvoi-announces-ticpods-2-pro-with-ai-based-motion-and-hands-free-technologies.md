@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-mobvoi-announces-ticpo
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-mobvoi-announces-ticpods-2-pro-with-ai-based-motion-and-handsfree-technologies/
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2E2776383204F03F441E0772957DE5F8
         width: 700
         height: 393
+  - title: "Malong Technologies Announces Key Collaborations in Retail with NVIDIA"
+    excerpt: "/PRNewswire/ -- Malong Technologies, a leader in asset protection and other AI-based solutions for retailers worldwide, is showcasing its success"
+    publishedDateTime: 2020-01-10T13:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/malong-technologies-announces-key-collaborations-in-retail-with-nvidia-300984505.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.BBA61CF977597F79AC2A22961877E5BD
+        width: 700
+        height: 366
 
 secured: "1or1vThaecOhOSbP3h4RbayJjlQ8IX3tMN4HTRVva85OXIY29mYKVaQ7h9GEJ/bmndoswZxbcPFpRXsJjP31bvRyaf4uuyXFTH/sC/wP5on0613m0NE/q8K82D1QzmHotgKbD+exlBJgx7YXpHFsdXjvQsnzfcY5fpydBcs4auuLeypPspU62DYfly1ZHtco2rVus2NpgJCqIjSPcYYKwdWP8GV8U3f7ZhhhM4fardlA1tvj/YLCOsS9KtAbL2y/UYS7JKj+jQcEycNa5rk70A==;gHdTlx1SHfk6pQAyJToFQQ=="
 ---

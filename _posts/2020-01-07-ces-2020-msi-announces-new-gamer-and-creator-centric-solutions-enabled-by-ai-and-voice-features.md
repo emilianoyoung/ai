@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0099AA98D4CFB6372F5536D754B55643
         width: 700
         height: 525
+  - title: "Malong Technologies Announces Key Collaborations in Retail with NVIDIA"
+    excerpt: "/PRNewswire/ -- Malong Technologies, a leader in asset protection and other AI-based solutions for retailers worldwide, is showcasing its success"
+    publishedDateTime: 2020-01-10T13:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/malong-technologies-announces-key-collaborations-in-retail-with-nvidia-300984505.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.BBA61CF977597F79AC2A22961877E5BD
+        width: 700
+        height: 366
 
 secured: "2ymqDsjNPe2wNAY0OBb/Q0wLAroA3GoGUWBzqkFoC+ndujb6IlIUGvHmerHXOFmSvVrvaptG2cKSCfWJD7UQv4ORfNPUq4lMQR5H1MeJDZu8DilR5CDmBP7M6WUauTKjcc4cCiHs+AoQQd4l1q3GnB8E+GN/bUTH6kcjTaFVR2vAaRMbBIcQdr4QRXX2+2owHljLw8q+6fEHhJvdqrwLTFtE9rF5SLtt3QJLo6RL7+bK1pQjxwEaWGEfABWsJQR2LmSylp76kjzawh/CT+BevQ==;7dSEUJeT3CkjWPCIPjif9Q=="
 ---

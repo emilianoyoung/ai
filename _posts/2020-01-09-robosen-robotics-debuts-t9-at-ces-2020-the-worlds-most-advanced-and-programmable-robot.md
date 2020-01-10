@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8A7D16F88FD95F59A64B32B962375AA0
         width: 700
         height: 393
+  - title: "SD Times Open-Source Project of the Week: ALBERT"
+    excerpt: "Google is open-sourcing a “lite” version of their BERT natural language processing (NLP) pre-training technique. ALBERT is an updated version of BERT that improves 12 NLP tasks, including the Stanford Question Answering Dataset (SQuAD v2.0) and the SAT reading comprehension RACE benchmark. BERT was first open sourced by Google at the end of ..."
+    publishedDateTime: 2020-01-10T14:10:00Z
+    sourceUrl: https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-albert/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.18851454200180BB8F90EDBA2CD3F169
+        width: 640
+        height: 426
 
 secured: "Q8WWblOUUQeYeAK1yPAvDQXVjo4PeMBJB3q5s/9Fo3AQpkijkD87KnDHGBa/bccEa1WaV5u/M7Fka9gTgF7fUsoNwVjpdsX0jmFbz4Bf9CPEpnfAmQpT4v9n6/9Oyt03qwRz24i4YZcirzXj+EdxD6dSsoXAhseqAas9ZILrAYnPJ5gcc2qFvtr/IWuUEmSZKSgXGIQJNvEslBm/Xw6wGF1Lj2JI/I4ZpERNyMmXg5tJBaKuoED2+u0k2X0Id1sefcd6nnldlNc+fGcUZtJfkg==;GamBjP4Ve1Sbb2Pq3oWhUQ=="
 ---

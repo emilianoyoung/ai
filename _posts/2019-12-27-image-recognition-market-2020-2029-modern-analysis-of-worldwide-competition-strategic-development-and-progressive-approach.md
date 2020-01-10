@@ -28,50 +28,43 @@ images:
     title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
 
 related:
-  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+  - title: "AI in Education Market 2024 Outlook Analysis, Major Company Profile Analysis | Google, IBM, Pearson, Microsoft, AWS"
+    excerpt: "Dec 26, 2019 (Reporthive Research via COMTEX) -- The global AI in Education market is estimated to gain immense momentum in the coming years owing to new technological developments. AI in Education market Analysis report is an up-to-date granular analysis of the present industry conditions, market demands, reveals facts on the AI in Education ..."
+    publishedDateTime: 2019-12-26T12:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-education-market-2024-outlook-analysis-major-company-profile-analysis-google-ibm-pearson-microsoft-aws-2019-12-26
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
-    publishedDateTime: 2019-12-25T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
+    excerpt: "AI can solve many problems with education in the future. Squirrel AI Learning is always committed to exploring the field of \"AI + education\". According to disclosed information, Squirrel AI has applied more than ten algorithms and deep learning technologies to its intelligent adaptive system. It has also developed a number of globally unique AI ..."
+    publishedDateTime: 2019-12-27T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-appears-top-200000716.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 22
+    quality: 21
     images:
-      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
-        width: 700
-        height: 495
-  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
-    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
-    publishedDateTime: 2019-12-23T20:30:00Z
-    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
+      - url: https://www.bing.com/th?id=ON.5ACD95BA4FE994C0894DA8FD4F6D1492
+        width: 400
+        height: 267
+  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    publishedDateTime: 2019-12-24T11:27:00Z
+    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 5
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "aFJnAsB4wodhw0OLE8dHrIFVXdYNLCbKIyzLiHyihIYyAJa4Dd2X46SA5RbKKTZBunFYKxxFWAjUIMV+bsunZH+iDGkdl3UV3AlxgvZocaKK02xCCB0imlKUO50UrW4XDuPzcrWYgtYzw1JhsKXiPxfSObp5f8Xk+7abJrcl+5c1mvLEQE7hrLgB+A375nkKNYuzmNwbTh3gLsSjHrJ8fdzUMrYz+UFw3sqpDYAoE1YkG/SaVLcLp+qJfqmW8qh/L+7QGcNjqbq1ANAfbHL7OQ==;lWq6q+MmszWuGAjhgVzw6Q=="
 ---

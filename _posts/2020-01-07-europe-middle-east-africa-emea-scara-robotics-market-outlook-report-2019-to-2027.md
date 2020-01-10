@@ -31,6 +31,15 @@ related:
       - url: https://www.bing.com/th?id=ON.BB515B9CA86A7C3A85077B97E2462234
         width: 570
         height: 367
+  - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
+    excerpt: "Co. Ltd, a leading innovator in the field of AI and robotics, today debuted T9, the world's most advanced programmable robot that automatically converts from a robot to a vehicle in a stunningly smooth and seamless movement,"
+    publishedDateTime: 2020-01-10T00:12:00Z
+    sourceUrl: https://finance.yahoo.com/news/robosen-robotics-debuts-t9-ces-205200533.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 25
   - title: "The SCARA Robotics Market in Europe, Middle East & Africa (EMEA) 2019-2027 - Analyzed by Sub-system, Axis Type, Application and Country"
     excerpt: "Companies in the Saudi Arabia has invested in the field of robotics and artificial intelligence. Around 41% of the activities in the country has become automated indicating the growth opportunities for the scara robotics market. Further, government in the UAE has added up to a leading shift in robotics and automation process inside industries."
     publishedDateTime: 2020-01-07T13:22:00Z

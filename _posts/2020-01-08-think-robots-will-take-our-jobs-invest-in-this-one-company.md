@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.50BD9E7138636CCC9B2C333FD87215B6
         width: 700
         height: 466
+  - title: "SD Times Open-Source Project of the Week: ALBERT"
+    excerpt: "Google is open-sourcing a “lite” version of their BERT natural language processing (NLP) pre-training technique. ALBERT is an updated version of BERT that improves 12 NLP tasks, including the Stanford Question Answering Dataset (SQuAD v2.0) and the SAT reading comprehension RACE benchmark. BERT was first open sourced by Google at the end of ..."
+    publishedDateTime: 2020-01-10T14:10:00Z
+    sourceUrl: https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-albert/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.18851454200180BB8F90EDBA2CD3F169
+        width: 640
+        height: 426
   - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
     excerpt: "Featuring more than 3,000 State-of-the-Art Components and 22 Proprietary Servo Motors, T9 Is Both Vehicle and Robot, Transmuting Instantly Through Voice or App Control; Three Intuitive and Easy Programming Platforms Make Coding Fun with T9's Advanced Robotics and Artificial Intelligence LAS VEGAS,"
     publishedDateTime: 2020-01-09T19:52:00Z

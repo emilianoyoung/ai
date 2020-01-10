@@ -4,10 +4,12 @@ title: "Artificial intelligence tracks down leukemia"
 excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is a much-discussed topic in medicine, especially in the field of diagnostics. \"We aimed to investigate the potential on the basis of a ..."
 publishedDateTime: 2019-12-20T16:54:00Z
 sourceUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.html
+ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 109
+published: true
 
 provider:
   name: Medical Xpress
@@ -39,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F4ACE41A00EB0163B210C15E866358A4
         width: 300
         height: 250
+  - title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
+    excerpt: "Their method is based on analyzing the gene activity of blood cells. When applied in practice, this method could support traditional diagnostics and probably expedite the start of therapy. The study outcomes have been reported in the iScience journal. Artificial intelligence is a much-discussed topic in medicine, especially in the field of ..."
+    publishedDateTime: 2019-12-24T12:12:00Z
+    sourceUrl: https://www.azorobotics.com/News.aspx?newsID=11035
+    ampUrl: https://www.azorobotics.com/amp/news.aspx?newsID=11035
+    cdnAmpUrl: https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11035
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.42A01FAFDBB6F7289D13A68EE7207414
+        width: 350
+        height: 215
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
     publishedDateTime: 2019-12-26T12:48:00Z
@@ -63,7 +80,18 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
 
-secured: "wAI0oXh8Z7Mlqg0YtJBC/GnVVxgb3pBZwWj83r1uQEb3jNZNfs3iVzaNnnK18zF0MxvK7LN9rcxaCwCWfUotK/oQMp45j0Ns9X3EwJ/a+RqXI/n4UOpvkSwG8SIWA74+3BygwRF80qIpC4t9dokkQZNV6phIOHNeRLhYEAuUMyguWrq8ovmraG5JLUwCtDrby8j3xVhAuszOlYJwboaidS3xOIzo54CIkqkOffwO5fx1DQeJs/QgqSDVsBspHb14PYWk02bv0El1wZDJL61GHg==;9Q9Tv3hNz0v7KvHLgzvwsA=="
+secured: "1SCZx1J+6abc3NvuEv29Mt1Zq5KBf5t/f60q7dgRvmUooNuwedwdvjjwCFLCZOjn54htbUdNShdol1rqKbgvsj9yerhlfj9t6SLt9aW4SkdXD+Gd8btmMRonzIzb/pbaGk4nXomrpUc24gKoymuaHOeycMpHSFnT8mopVVpHOxIQfaLCmZ4by7+h0jYGNn1EVJE7YSEEJy9blXlXpRCfaifq9B8HpKrgtm07SZ6CxtDsibkwqmpxoVGof1qmrBT7EDR/HFT83qB1HiIsyw8WDw==;ORcB11OPzwwWtbViEmuAVw=="
 ---
 

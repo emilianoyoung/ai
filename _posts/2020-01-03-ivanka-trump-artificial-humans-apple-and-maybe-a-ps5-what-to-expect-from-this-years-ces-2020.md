@@ -299,6 +299,19 @@ related:
       - url: https://www.designboom.com/wp-content/uploads/2020/01/NEON-artificial-humans-CES-designboom-Fb.jpg
         width: 818
         height: 431
+  - title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
+    excerpt: "The idea of a \"digital species\" is undoubtedly controversial. Big names in tech, including Elon Musk and Bill Gates, have warned about the development of powerful artificial intelligence. Gates called AI both \"promising and dangerous.\" These concerns typically revolve around what's known as artificial general intelligence, or AI that can ..."
+    publishedDateTime: 2020-01-10T14:54:00Z
+    sourceUrl: https://www.stltoday.com/news/national/neon-s-artificial-human-is-a-scary-glimpse-of-the/article_e5236da0-dc23-536e-9586-ea6df70a9351.html
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.07D3044DFAE74CD4B9D57F21E514633A
+        width: 576
+        height: 324
   - title: "Study focuses on artificial neural connection allows a new cortical site to control hand movements"
     excerpt: "However, new research showed that an artificial neural connection (ANC ... The researchers will continue to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain voluntary control of paralysed body parts even if they discontinue ..."
     publishedDateTime: 2020-01-07T17:58:00Z

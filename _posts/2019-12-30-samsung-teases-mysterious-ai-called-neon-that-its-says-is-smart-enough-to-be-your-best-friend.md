@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
         width: 700
         height: 525
+  - title: "Pinterest details the AI and taxonomy systems underpinning Trends"
+    excerpt: "It classifies each entity and defines the relationships among them, with the goal of improving the accuracy of AI models on the platform involved in search and classification tasks. The taxonomy — which supports 17 languages for 20 countries, with more to come — organizes popular topics throughout the platform and curates interests and ..."
+    publishedDateTime: 2020-01-10T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/10/pinterest-details-the-ai-and-taxonomy-systems-underpinning-its-trends-feature/
+    ampUrl: https://venturebeat.com/2020/01/10/pinterest-details-the-ai-and-taxonomy-systems-underpinning-its-trends-feature/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/10/pinterest-details-the-ai-and-taxonomy-systems-underpinning-its-trends-feature/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.C36BE956C229CAB915E03B39FB9AD97E
+        width: 700
+        height: 350
 
 secured: "xF6C9lWgtB37Pnaxm7j3PuTUVvZ2WW9F1uJHK4W+1gD09ViItwUL26iqmT0A4fpVJoyo/9jhvn4kmHDYJxg8LKRNL4P4Ee9YBKq80wTxyjK953ip0thoREuBr8zllauW18DTplWpWVWD5xA5yVzGpiQ6nw1ex+gdXtbB5+e0SmTS14tyIMSVMBbZr+C6bhJXPmglwcYere1k5CGQZnmvXtwhX+xFutwoCOeANcD4ZJcxttaGtvYQjEJe2pX8e88X8EKgcP6+vDuugw0n3JBBlg==;g+wpkq0akCUCkauMRBkhHA=="
 ---

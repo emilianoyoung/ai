@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-de
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Samsung Neon: Here's when we'll get details on the mysterious AI"
 
 related:
+  - title: "Pinterest details the AI and taxonomy systems underpinning Trends"
+    excerpt: "It classifies each entity and defines the relationships among them, with the goal of improving the accuracy of AI models on the platform involved in search and classification tasks. The taxonomy — which supports 17 languages for 20 countries, with more to come — organizes popular topics throughout the platform and curates interests and ..."
+    publishedDateTime: 2020-01-10T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/10/pinterest-details-the-ai-and-taxonomy-systems-underpinning-its-trends-feature/
+    ampUrl: https://venturebeat.com/2020/01/10/pinterest-details-the-ai-and-taxonomy-systems-underpinning-its-trends-feature/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/10/pinterest-details-the-ai-and-taxonomy-systems-underpinning-its-trends-feature/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.C36BE956C229CAB915E03B39FB9AD97E
+        width: 700
+        height: 350
   - title: "Samsung teases mysterious AI called 'Neon' that its says is smart enough to be your 'best friend'"
     excerpt: "Samsung is gearing up to unveil a new artificial intelligence that it says will be smart enough to become one's 'best friend.' The AI, called Neon, will be unveiled in the coming week at the Consumer Electronics Show (CES) in Las Vegas and according to Samsung, will go above and beyond the capabilities of the tech giant's current voice ..."
     publishedDateTime: 2019-12-30T16:45:00Z

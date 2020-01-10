@@ -4,8 +4,10 @@ title: "Waymo acquires AI startup Latent Logic"
 excerpt: "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ..."
 publishedDateTime: 2019-12-16T13:23:00Z
 sourceUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+ampUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+cdnAmpUrl: https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -26,17 +28,23 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 34
+    quality: 54
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
+        width: 718
+        height: 400
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
     excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
     publishedDateTime: 2019-12-12T17:21:00Z
     sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 19
+    quality: 39
 
-secured: "93dDNPavLZUUWQ9yhbtHlCL8qqLFerI6wYnHCyu3Wp0Bfd8/ambqQEPj5MdtmoE2ozcCc+YeHzeLiprvd8ZkJYXofX0nV1SsQjMgWZLRPn6Sqb9zVYugi3sja+ILv9XY/kb9TBCcVwapyLnboEgFGOOkHjrXPj8GT3tHHWY5TIVon4l6Z6D4gyygRHr4qbXl2MjlUTXtjkIy9l20CmhUi98ILWnj+y35tCczTgDdGonwtzjiPonADcgTgkrzfcOLub0oOp+5nfISDyMuvV768g==;eFkcx3YLrSUXP9sEJsByKw=="
+secured: "o2VWCOTUAZzsa79cPRgb1Gi4lgICsfOasXEA4Uy4g5Uqh8BBt70mGzgmjG9WjpRiJkbGgn4kw/1y0Q2ktDqELQIFRtjkP3o56gA6aHzk6tRojHGRVL9/ImKii7toHhLVFVBjfvHo1/XK/4EIK/A7Fb2Sihl06ZOoJZGPeaP6NBAVloUAZtM2ZvSYuOh1TfkUkMeAPlqHcYzD/rnDVTRrUirI2iiGk2H6PhfhFbuTr5HjGeSmHoQvqloizr7c3rGrUI6UTGH141Tq4n24Cd3u2g==;iGl8m6oPqZR/doBclMWBeA=="
 ---
 
