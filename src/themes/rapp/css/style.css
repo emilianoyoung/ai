@@ -2138,6 +2138,10 @@ Start Responsive style
 
 @media only screen and (max-width : 400px) {
 
+  .hero-content {
+    margin: 0 10px;
+  }
+  
   .hero-content .btn-group {
     width: 100%;
   }
