@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.80DAB65964372F9590EF6B4C51FE0770
         width: 480
         height: 332
+  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
+    excerpt: "This solution that will be showcased at Booth# 1909, Westgate, will enable data scientists, data analysts and data engineers to develop deep learning based machine vision applications in a fast and efficient manner with minimum effort. It offers a simplified model creation process through a visual, menu driven interface, making development of ..."
+    publishedDateTime: 2020-01-05T23:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 34
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "lp6ghWxTc7Ul7tpfDSvq1DAq3HM/GUdLDsgXTt3CtCL2QA0zgEJrupsv4I1FiO3cuibaVpsTN32z1O4y0uONnwyp2KazxGU6YtwETzA1h3VzlAhcCHAkuzkqWY86sbhnfS5btVIQ3F8vmYekGoIz1hrWdI41N1fECpY82OJbhl2gFMUe6zBVvAdtZ1gUS5SbY+cQQgnW6WfZfFqr++MT/uPhE9EK0NccKO/9cVmykjW3QtLDoMxCHGHp5kygbVfN0vUaf06ezG89r1XR46iOLA==;8cAwG4wnvfwNEIwihPBbpA=="
 ---

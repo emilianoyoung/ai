@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B3A16C7F7DAE4E1C09C26BE2325FC798
         width: 700
         height: 466
+  - title: "Top technology trends that shaped 2019"
+    excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
+    publishedDateTime: 2020-01-10T07:38:00Z
+    sourceUrl: https://www.ameinfo.com/industry/technology/top-tech-trends-2019
+    type: article
+    provider:
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B3A16C7F7DAE4E1C09C26BE2325FC798
+        width: 700
+        height: 466
   - title: "The Technology 202: Silicon Valley will face new challenges in 2020. Here's what we're watching."
     excerpt: "States are also expected to take a greater role on issues such as autonomous vehicles and facial recognition. 4. Tech giants’ power and size will be under the microscope as antitrust investigations heat up at the federal and state level. Antitrust will continue to dominate the tech policy debate, especially as the House subcommittee leading ..."
     publishedDateTime: 2020-01-06T14:13:00Z

@@ -1,8 +1,8 @@
 ---
 category: news
-title: "Top tech trends 2019"
+title: "Top technology trends that shaped 2019"
 excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
-publishedDateTime: 2020-01-09T10:41:00Z
+publishedDateTime: 2020-01-10T07:38:00Z
 sourceUrl: https://www.ameinfo.com/industry/technology/top-tech-trends-2019
 type: article
 quality: 24
@@ -21,7 +21,7 @@ images:
   - url: https://www.bing.com/th?id=ON.B3A16C7F7DAE4E1C09C26BE2325FC798
     width: 700
     height: 466
-    title: "Top tech trends 2019"
+    title: "Top technology trends that shaped 2019"
 
 related:
   - title: "Three AI Technology Trends To Watch In 2020"
@@ -82,9 +82,9 @@ related:
       - url: https://www.bing.com/th?id=ON.B309304190811EB77142C1E5132140A3
         width: 700
         height: 466
-  - title: "Top technology trends that shaped 2019"
+  - title: "Top tech trends 2019"
     excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
-    publishedDateTime: 2020-01-10T07:38:00Z
+    publishedDateTime: 2020-01-09T10:41:00Z
     sourceUrl: https://www.ameinfo.com/industry/technology/top-tech-trends-2019
     type: article
     provider:
@@ -109,6 +109,6 @@ related:
         width: 700
         height: 465
 
-secured: "AJg348ghymAA2DbJdpuO4rVywXLVmRfJmz/iZUwatJLjsPtjneC4NtlUEMz4F2/uUYqM6pAzo42ay/NZey1ZvvqjD8x/haW/PEjarV9l1L9gkfiR/xhyzlgotWtbSnUlC2i3bu4Ka+j6jlQUSkUl6A79nJ67x1GJb2SHFtzRT6OfcOVy/tFq2cc1FWaVUonF0eJrD8h/+Cl9gdB6YnliAyNyjCZqM4qJHVtf4Fl38DFY3Ey8u6Xdmz5AiyikhswUfOaJKNgiArHFSRsR1FxP3Q==;sLy+ZQ9P4tv9sgo4Q/S2vA=="
+secured: "2MOCDkz3FhdpSgaoWdA0x0KzHklBPRsX95WupoU6yiBT2B0n1i9x7fkEVWwYjvJhD+iUDZmIbEQ0LvlxsWtlvAX9XIFR2qIl8w7nQKm0+fuZrZRR3j4SW259sy/fb22MTO1LixwRYzhkcSvfkgNJrF9pTrGEhhhz1/9HKktlT7EX0moW3G29zCyWPuMZwf8pDcZ0w4nXo9/FUfj8tOeFeHErm3hvTa8IuQoIqkaISolYr7SFJAqmiK2ybI37ajqFzakjOqQeTtXbCHQGfy6dPQ==;UVFc0E+1quVB9kUu4CLcnw=="
 ---
 

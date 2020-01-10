@@ -95,6 +95,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B3A16C7F7DAE4E1C09C26BE2325FC798
         width: 700
         height: 466
+  - title: "Top technology trends that shaped 2019"
+    excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
+    publishedDateTime: 2020-01-10T07:38:00Z
+    sourceUrl: https://www.ameinfo.com/industry/technology/top-tech-trends-2019
+    type: article
+    provider:
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B3A16C7F7DAE4E1C09C26BE2325FC798
+        width: 700
+        height: 466
 
 secured: "fo9XM12pM8J6V6YO+tONJ2e/Yp08wHJQM6K9cQ1TXsOT9fIWm6sgijsQR+murFZGtNe/EwyoeVw3exqGfyVW3VOhgMgBb/UgN0K2zHNTwd6ynoVEpT1gMU9HzLAqAgJF17oyRKkVHCOYXrzeW6KUU+bl2SeHXBLdV3N77DGBVqQP0eVWhRYzeBSMbZP2XGuLzI+NnJJSc5GG87iKEgfJdecKNJTkniLfPBjtNtOs1J3/8AoUbj4lAp/9D9nzlFfuxnjXe97j5dZun3rh6ud89g==;46Ka5WytvZR+yn5nmhTkGw=="
 ---

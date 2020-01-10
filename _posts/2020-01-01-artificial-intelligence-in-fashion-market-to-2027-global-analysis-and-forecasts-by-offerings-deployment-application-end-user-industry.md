@@ -266,6 +266,15 @@ related:
       - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
         width: 1200
         height: 448
+  - title: "Global Artificial Intelligence (AI) Chipsets Market Research, Segmentation, Forecast, Market Analysis, Global Industry Size and Share to 2025"
+    excerpt: "AI chipsets market is likely to show positive growth attributed to the amalgamation of high processing hardware with various AI technologies such as digital personal assistants, deep learning, robotics, natural language processing (NLP), context-aware processing and querying to develop the AI-featured products. The robotics industry is rapidly ..."
+    publishedDateTime: 2020-01-10T07:40:00Z
+    sourceUrl: https://www.openpr.com/news/1893460/global-artificial-intelligence-ai-chipsets-market-research
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 1
   - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
     excerpt: "/PRNewswire/ -- Speech Analytics has become increasingly popular in the telecommunications industry because of the huge amount of data produced by"
     publishedDateTime: 2020-01-07T21:43:00Z

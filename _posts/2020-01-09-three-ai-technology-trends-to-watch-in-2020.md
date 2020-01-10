@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trend
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -75,6 +75,19 @@ related:
   - title: "Top tech trends 2019"
     excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
     publishedDateTime: 2020-01-09T10:41:00Z
+    sourceUrl: https://www.ameinfo.com/industry/technology/top-tech-trends-2019
+    type: article
+    provider:
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B3A16C7F7DAE4E1C09C26BE2325FC798
+        width: 700
+        height: 466
+  - title: "Top technology trends that shaped 2019"
+    excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
+    publishedDateTime: 2020-01-10T07:38:00Z
     sourceUrl: https://www.ameinfo.com/industry/technology/top-tech-trends-2019
     type: article
     provider:

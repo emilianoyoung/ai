@@ -263,6 +263,15 @@ related:
       - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
         width: 1200
         height: 448
+  - title: "Global Artificial Intelligence (AI) Chipsets Market Research, Segmentation, Forecast, Market Analysis, Global Industry Size and Share to 2025"
+    excerpt: "AI chipsets market is likely to show positive growth attributed to the amalgamation of high processing hardware with various AI technologies such as digital personal assistants, deep learning, robotics, natural language processing (NLP), context-aware processing and querying to develop the AI-featured products. The robotics industry is rapidly ..."
+    publishedDateTime: 2020-01-10T07:40:00Z
+    sourceUrl: https://www.openpr.com/news/1893460/global-artificial-intelligence-ai-chipsets-market-research
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 1
   - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
     publishedDateTime: 2020-01-01T00:08:00Z

@@ -111,17 +111,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
   - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
     excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
     publishedDateTime: 2019-12-23T20:30:00Z
@@ -150,6 +139,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "Df1MdGN3pK+ZxlvcwNhQ23Al6aZeXb+o5+utEyUbSteYaSvWk+QRM7Bh/Wnc1+Zl6JWverZF1uL3VgWlaqv25RLyyg2jbQxtnxF8XwFU48MaKYKeU1B8S6qfiNXV6oJ/y7OcVPpG6zw4bd3ei1860QyHiRv4ya1HORcs7G3LYZBajuBzLVd8nyi7oxNwHREST7Eckn/Z6JGSHr/5fhs9ESkoahqODfBvKRnKZbi2j2DGH4hBrZ5MocpSxebhPorDIUPg/w79mR5jv12lPtipTg==;B7y0LYh7SfxpTwDsQtLEPw=="
+secured: "rgElhwj9e/OQiX6jm3E70YosBEv8BPAyToWKC7d/SLftuB3MD3zNqkFcEkx1XdkMBQ2Ei+WB2U/CS+qLS7sAFjIQHGXh1Zj8F0hUozB8PPp01SctaOzOdi3ofZ6CzDBjPrAXuKUCEKFFCW/DGbNWs+GbftQkes7hxINI90TdvGqWZW9ghFTPPxL9Cl674IZVVNBHdPqPz9EdwkH0BwapOQhgTnrMzGg6SEqDyphLS/ZbbLmaqr5SRgJGpe9IfzfQu7Llhg7c/nOHxPz19lEbYQ==;rF0vCRCtj+7SnBfjNuqA/g=="
 ---
 
