@@ -2,8 +2,8 @@
 category: news
 title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
 excerpt: "/PRNewswire/ -- Speech Analytics has become increasingly popular in the telecommunications industry because of the huge amount of data produced by"
-publishedDateTime: 2020-01-07T11:07:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025--valuates-reports-300982567.html
+publishedDateTime: 2020-01-07T21:43:00Z
+sourceUrl: https://www.prnewswire.com/in/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025-valuates-reports-894848027.html
 type: article
 quality: 0
 heat: -1
@@ -301,6 +301,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "fcLUWIMh1x5U+4Ql1KVzHwAA6V0wS89PTS9/28En56I7PNmdn+EllA6ICvnxO2ZWBefdsh172G1GhJQ6asQFXlr52bVrhCBqjJJPxuLQJZaiBVpMco12aOE9Vpqn7NbOSS0J6cGjUwiHmWx+cFxogEuOAJDdd7Hzt8T456k/LMuDoXcrrSev1zcjCIA995SiDZix8xcJMR4/8KXroxGB6p86vRDnrjVSe/MgAsKkp9r2GzXo3v78W+ES+A55sj58vzvfjipw5puvoUlWsxRDTA==;4QSB0wpcGip5DgAWlyJ75g=="
+secured: "ZagzGkyfaVknf4+kpPR6jOO3Q0hMMthAdEck7flCe+9VKkaV+Ogn6GZJs3/bmwsMWakVdtq9qN974FAkgJnHihWwPCMiyE5Pqo/C7aG6Cc8+6kkY11KnVWIwGGcRIKIGwBex017y+qnfi8/NaOwgMWWFoLkdZLcu1K6JSnMIVg3yWhOGZJCB6fAYkAasqSss1WOJBBL9+idNvj4BIdNgvCJNtvw9DqZH9ENDq/Ju3QDyrA7oyYKO0W3rFw9ig+ZZwtUHgQzg/XmQpC+7XuNBoA==;b0T7wEOEVYdKWblHqE27ZA=="
 ---
 

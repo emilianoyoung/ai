@@ -180,6 +180,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 39
+  - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
+    excerpt: "Dublin, Jan. 09, 2020 -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The."
+    publishedDateTime: 2020-01-10T18:33:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chipsets-123905061.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Outlook and Growth Stance Forecasted Through 2020"
     excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market."
     publishedDateTime: 2020-01-10T09:41:00Z

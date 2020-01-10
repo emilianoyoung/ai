@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-tra
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
       name: research
       domain: research-live.com
     quality: 24
-  - title: "Machine Translation Software Market 2019-2024"
-    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024."
-    publishedDateTime: 2019-12-16T08:39:00Z
-    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
     excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
     publishedDateTime: 2019-12-23T11:50:00Z
@@ -94,6 +85,6 @@ related:
         width: 1200
         height: 630
 
-secured: "7q5nC9qzJ8Nnh1mmBhmbT1eZQBvj0HzNQGOCDt6zI9XF/j63W4TMeasuFmLf8awq9BTqpPEFwGSnhXJgeoAYdUo5PyK8uz6uKDRb+riYfGRPkXCiVMhDf4cdxr3rHyGid1MMAFzaVLY6GSuOuhmnrJEMz9y2l5SJ4CQmn54WLP4jkvyoq4g2mm00wUFcnxFx3U+nQdGFD/FtYW6Kad1lqLnk1e2L1b5aQW195wLUdfWm8RmvuHwl0LoBVh2NSiylBonCrZi4I+nLl5ETbDA/vQ==;uvcGu/AGz/kqo7A2c5DOww=="
+secured: "VKa5y2PNKRr5UqVLaJaC4kgymQRBzSiqG69Ckc7PA78h+SEAXVsGZKnEU/UGpPNdDLBdVcHUqnfwkWFN2dPKN74rqiulXd7KFEEgMLCH65d55GUl7gTrwT1F2n7NxoVpRk/7CLeinrpbl7FBVWrkKd5+tdLtlkTL9Q6huSjptDEIEFMiAhPMLF4pe0vbzo0Sl72VWdrGmxGGl2HGY42UYnpOuB8jmxeywZ5CSOegjqQerFmQaq1uinRgeEgq6+YPlTRGflypXimyBDBjlbXSNQ==;STZOfyuceebV3OLSIyuNQw=="
 ---
 

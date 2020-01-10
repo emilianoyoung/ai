@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T20:57:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
 type: article
 quality: 94
-heat: 314
+heat: 324
 published: true
 
 provider:
@@ -174,6 +174,15 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
+    quality: 39
+  - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
+    excerpt: "Dublin, Jan. 09, 2020 -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The."
+    publishedDateTime: 2020-01-10T18:33:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chipsets-123905061.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
   - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
     excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."

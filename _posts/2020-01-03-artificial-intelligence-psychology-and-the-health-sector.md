@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... One example of this is in the recent development of chatbots which deliver Cognitive Behavioural Therapy (CBT) 10. In some areas in the world, these chatbots can be really helpful such as in Germany, as only a small number of ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These include autopilots, computer-controlled automobile engines, MRI machines (health services), self-driving cars (transport services), as well as high skilled services such as A.I. radiology reports, legal services, and mental ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
 quality: 61
 heat: 61
@@ -17,8 +17,8 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -26,6 +26,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "8pJsQw4cnN0yT2AV3xCXcjTL1lXL12EGDMzWzGv4MlkEQ6O57CerSgQSmyEMYHwmjLvaGwJSjMRftpLtzA4hGB/sHaVE6Jxtkv+hJHQU6W3iJKc0JgHaxkk2j5YzBxFlBO7NPLwlldcO7qDW9UyzbE+dbJS6LqjE4l1IypDy+jR9eQKSW3HMpSTqmY1MlmL2pv7mLJMoGNU7lIngmVCbrjO3Rlw/eLlkc+gENorpaHsjUwOhFRxYWodf7FFfRLZnrW/o6dI+OFiNQyMXQc3z9w==;dkTdZTBMxHMIkXSKJwMXXQ=="
+secured: "2w1UXO0+q+qF0CbhIg5PCcJX44xDJGwJQEYWvRPJXqZvvlRoQ1K0//66QlV096trDqVEAQ8x6pvT4FnsgOY9lvYwMJP9akNIBITZFFXrr1BI3i/lFC3Zz5Uafqtd3AYHP6CWg0nOQ2Afmila8eMm+OMGpSzsany2TwbgMNJx6B5u0nrzxrs0PZtbsMO2v45dBWlg8AoRjqH5PjPL9VVX/zt9tDuRrwyaNV0BbRGOEFKPVkDIU6q6/7LHZq59tSQW504RZr7cZYlynAuiMQUTnA==;qDLIYO2Kjgzx3YgryoDpjQ=="
 ---
 

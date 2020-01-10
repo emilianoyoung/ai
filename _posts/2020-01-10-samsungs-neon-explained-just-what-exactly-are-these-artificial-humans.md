@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.68348F25697C1CAD8871386CB909E695
         width: 700
         height: 426
+  - title: "Samsung's Neon AI has an ethics problem, and it's as old as sci-fi canon"
+    excerpt: "Whether Mistry's ambitious language reflects the realistic functionality of Neon matters less to me than the ethics of creating a sentient life form on a planet where billions of animals are currently burning to death in searing contortions thanks to climate change and wildfires. Two years ago, Samsung said it would hire 1,000 AI specialists ..."
+    publishedDateTime: 2020-01-10T18:00:00Z
+    sourceUrl: https://www.cnet.com/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/
+    ampUrl: https://www.cnet.com/google-amp/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 103
+    images:
+      - url: https://www.bing.com/th?id=ON.B33AB570344A3350017802F60714DC31
+        width: 700
+        height: 525
   - title: "Artificial humans? Samsung Labs' Neon project has a lot of hype to live up to"
     excerpt: "Neon said that Core R3's neural networks were \"extensively trained with how humans look ... Samsung has ramped up its efforts to develop artificial intelligence in the past few years, vowing in 2018 to invest $22 billion in AI and 5G by 2020. Although most of the company's focus has revolved around Bixby, Neon is a different take on the ..."
     publishedDateTime: 2020-01-07T13:28:00Z

@@ -172,6 +172,21 @@ related:
       - url: https://www.bing.com/th?id=ON.665D223E61352879E76A4F847DE2732B
         width: 640
         height: 427
+  - title: "Pet Care at CES 2020: Robot Litter Box, Cat Facial Recognition and More"
+    excerpt: "At CES, the world’s largest annual consumer tech trade show, it’s all about pushing the limit of incorporating cutting-edge technology into everyday life, including that of our four-legged friends. This year’s CES has no shortage of gadgets designed for dogs and cats and their owners. Not every invention is groundbreaking, although it ..."
+    publishedDateTime: 2020-01-10T17:00:00Z
+    sourceUrl: https://observer.com/2020/01/ces-2020-pet-care-tech-top-products-cat-dog-robot/
+    ampUrl: https://observer.com/2020/01/ces-2020-pet-care-tech-top-products-cat-dog-robot/amp/
+    cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/ces-2020-pet-care-tech-top-products-cat-dog-robot/amp/
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3BD5D58EC5E52BC95CA32EFB41009B13
+        width: 635
+        height: 423
   - title: "Five things creating buzz at CES, including weird TVs, robots that refill toilet paper and cyber cats"
     excerpt: "The annual event had more than 175,000 attendees last year and 4,500 companies exhibiting all manner of cool, strange, silly and cutting-edge gadgets, including dozens of TVs, a robot made for cuddling and a flying ... Also, Bosch announced a car visor powered by artificial intelligence that blocks out the sun by beaming a shadow directly ..."
     publishedDateTime: 2020-01-06T21:01:00Z
@@ -229,7 +244,7 @@ related:
   - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
     excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
     publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
     type: article
     provider:
       name: NIKKEI

@@ -164,6 +164,21 @@ related:
       - url: https://www.bing.com/th?id=ON.665D223E61352879E76A4F847DE2732B
         width: 640
         height: 427
+  - title: "Pet Care at CES 2020: Robot Litter Box, Cat Facial Recognition and More"
+    excerpt: "At CES, the world’s largest annual consumer tech trade show, it’s all about pushing the limit of incorporating cutting-edge technology into everyday life, including that of our four-legged friends. This year’s CES has no shortage of gadgets designed for dogs and cats and their owners. Not every invention is groundbreaking, although it ..."
+    publishedDateTime: 2020-01-10T17:00:00Z
+    sourceUrl: https://observer.com/2020/01/ces-2020-pet-care-tech-top-products-cat-dog-robot/
+    ampUrl: https://observer.com/2020/01/ces-2020-pet-care-tech-top-products-cat-dog-robot/amp/
+    cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/ces-2020-pet-care-tech-top-products-cat-dog-robot/amp/
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3BD5D58EC5E52BC95CA32EFB41009B13
+        width: 635
+        height: 423
   - title: "Ambarella introduces new high performance camera chips for autonomous cars at CES 2020"
     excerpt: "Ambarella, an AI vision silicon company, today announced the CV22FS and CV2FS automotive camera system on chips (SoCs) with ‘CVflow’ AI processing and ASIL B compliance to enable safety-critical applications. Both chips target forward-facing monocular and stereovision ADAS cameras, as well as computer vision ECUs for L2+ and higher levels ..."
     publishedDateTime: 2020-01-06T11:20:00Z
@@ -236,7 +251,7 @@ related:
   - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
     excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
     publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
     type: article
     provider:
       name: NIKKEI

@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.162D1409BD9285CA4E3335EC779779DC
         width: 700
         height: 525
+  - title: "Samsung's Neon AI has an ethics problem, and it's as old as sci-fi canon"
+    excerpt: "Whether Mistry's ambitious language reflects the realistic functionality of Neon matters less to me than the ethics of creating a sentient life form on a planet where billions of animals are currently burning to death in searing contortions thanks to climate change and wildfires. Two years ago, Samsung said it would hire 1,000 AI specialists ..."
+    publishedDateTime: 2020-01-10T18:00:00Z
+    sourceUrl: https://www.cnet.com/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/
+    ampUrl: https://www.cnet.com/google-amp/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 103
+    images:
+      - url: https://www.bing.com/th?id=ON.B33AB570344A3350017802F60714DC31
+        width: 700
+        height: 525
   - title: "Samsung's Neon explained: Just what exactly are these 'artificial humans'?"
     excerpt: "While other companies at CES 2020 looked to the future of artificial intelligence, Samsung brought a bit of futuristic AI to ... \"They can serve as an individualized teacher, a personal financial advisor, a healthcare provider, … a concierge … an actor, a spokesperson or a TV anchor.\" What Neons might be able to do for you Although we ..."
     publishedDateTime: 2020-01-10T12:08:00Z

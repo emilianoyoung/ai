@@ -183,6 +183,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 39
+  - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
+    excerpt: "Dublin, Jan. 09, 2020 -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The."
+    publishedDateTime: 2020-01-10T18:33:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chipsets-123905061.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
   - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
     excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
     publishedDateTime: 2020-01-08T02:21:00Z
@@ -285,6 +294,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "oHIuhFVvdDG/iqW9jfsMqypJifuK0mhEp8iQbTgWVeryV/vXB8qtBts9NdvEvA8lrRoQSgEGx6mh/Noom5QmEY8Vi7OHhP3RSEjwGdFSjENHHbgGxOVRQqG6jbhS1VhA+CZosBSN+nKtR7YtaC+TyzLXH0wKPlaFzsH3Hs/BkccAis9Xn14U19+QzLMk4I0svQbbiEDuRzvQ8w5tfSCwzdpuGMHMWzwIwGpTRp0aIOKxKIMoTUluO1KEwzS4rLW1UvAZOTwl7pYDPUxg1Il/cA==;4GxV/XP+0oCnRC/N+YO6xw=="
+secured: "rZLIpmWGtxGZ9bZqg+S53VeEc5fHvWN8RXYiSVNFOvN/ghZ8F9UOiLL7/QsqFCh/BOP8/U+k+nSqxgjI1fQ4x9zxwch8fU1p0rl5xj9lwA2GrUjAvnFTWgwz2gTVbaPgdBdE7/HNbq5PsWJu35sAC6mz+vqJCkQ8HT2wmo1pBkz62c552LF99LdYX/fzS1j2v9FM7+N6ifMmYaCXrhlD5p2OhaRkF8y/dKlNvQ22O6OgkCat0PgOTq3qfHGXJWtJJ4Qc7BJcZBjxvQQFy5TpNA==;AhmL1M1OLL7TjVLtIm1YNg=="
 ---
 
