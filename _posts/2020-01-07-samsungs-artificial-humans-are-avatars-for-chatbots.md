@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.40CB6A6A1CB07D74EC3D36B66BD64965
         width: 700
         height: 525
+  - title: "I met Samsung’s artificial humans, and they showed me the future of A.I."
+    excerpt: "What is Neon? Shrouded in mystery leading up to CES 2020, all we knew was that Neon had something to do with artificial intelligence. Was it a Google Assistant competitor? A robot? Something more? “It’s a preview of a wonderful technology we have, and a wonderful future we can create together,” Neon’s CEO Pranav Mistry said at the start ..."
+    publishedDateTime: 2020-01-09T19:29:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 75
+    images:
+      - url: https://www.bing.com/th?id=ON.DE8C1FB24159B2B0A0BC1EF52331F668
+        width: 700
+        height: 366
   - title: "'Artificial humans' named Neon are stars of CES"
     excerpt: "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,"
     publishedDateTime: 2020-01-08T18:18:00Z
@@ -75,21 +90,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7ED2CB096ABDD29F8A1B2F308B8E02C8
         width: 700
         height: 393
-  - title: "I met Samsung’s artificial humans, and they showed me the future of A.I."
-    excerpt: "What is Neon? Shrouded in mystery leading up to CES 2020, all we knew was that Neon had something to do with artificial intelligence. Was it a Google Assistant competitor? A robot? Something more? “It’s a preview of a wonderful technology we have, and a wonderful future we can create together,” Neon’s CEO Pranav Mistry said at the start ..."
-    publishedDateTime: 2020-01-09T19:29:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.DE8C1FB24159B2B0A0BC1EF52331F668
-        width: 700
-        height: 366
   - title: "WTF Is an Artificial Human and Where Did They Come From?"
     excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
     publishedDateTime: 2020-01-09T00:02:00Z

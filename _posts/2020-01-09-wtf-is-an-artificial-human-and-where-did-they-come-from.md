@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.40CB6A6A1CB07D74EC3D36B66BD64965
         width: 700
         height: 525
+  - title: "I met Samsung’s artificial humans, and they showed me the future of A.I."
+    excerpt: "What is Neon? Shrouded in mystery leading up to CES 2020, all we knew was that Neon had something to do with artificial intelligence. Was it a Google Assistant competitor? A robot? Something more? “It’s a preview of a wonderful technology we have, and a wonderful future we can create together,” Neon’s CEO Pranav Mistry said at the start ..."
+    publishedDateTime: 2020-01-09T19:29:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 75
+    images:
+      - url: https://www.bing.com/th?id=ON.DE8C1FB24159B2B0A0BC1EF52331F668
+        width: 700
+        height: 366
   - title: "Samsung's \"artificial humans\" are avatars for chatbots"
     excerpt: "Samsung has finally revealed its AI-created \"artificial humans\" – and they're essentially clever fronts for chatbots ... “In the near future, one will be able to license or subscribe to a Neon as a service representative, a financial advisor, a healthcare provider, or a concierge,\" the company says. \"Over time, Neons will work as TV ..."
     publishedDateTime: 2020-01-07T16:42:00Z
@@ -89,21 +104,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7ED2CB096ABDD29F8A1B2F308B8E02C8
         width: 700
         height: 393
-  - title: "I met Samsung’s artificial humans, and they showed me the future of A.I."
-    excerpt: "What is Neon? Shrouded in mystery leading up to CES 2020, all we knew was that Neon had something to do with artificial intelligence. Was it a Google Assistant competitor? A robot? Something more? “It’s a preview of a wonderful technology we have, and a wonderful future we can create together,” Neon’s CEO Pranav Mistry said at the start ..."
-    publishedDateTime: 2020-01-09T19:29:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.DE8C1FB24159B2B0A0BC1EF52331F668
-        width: 700
-        height: 366
   - title: "Artificial humans? Samsung Labs' new project has a lot of hype to live up to"
     excerpt: "The technology is still being perfected, and Neon said it plans to beta launch the avatars later this year with certain partners. Samsung has ramped up its efforts to develop artificial intelligence in the past few years, vowing in 2018 to invest $22 billion in AI and 5G by 2020. Although most of the company's focus has revolved around Bixby ..."
     publishedDateTime: 2020-01-07T13:28:00Z

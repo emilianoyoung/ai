@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-rob
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
 type: article
 quality: 103
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -74,6 +74,19 @@ related:
       - url: https://www.bing.com/th?id=ON.18851454200180BB8F90EDBA2CD3F169
         width: 640
         height: 426
+  - title: "Mobile Robotics to Drastically Change the Traditional Use of Automation and Robotics"
+    excerpt: "These circuits can then be programmed to give suitable responses with respect to the surrounding. These robots are a complex integration of physical robotics and artificial intelligence (AI) that helps the robots to freely navigate their surroundings. Mobile robots with the help of AI can now flawlessly work on any environment like air ..."
+    publishedDateTime: 2020-01-10T12:27:00Z
+    sourceUrl: https://www.roboticstomorrow.com/story/2020/01/mobile-robotics-to-drastically-change-the-traditional-use-of-automation-and-robotics/14642/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.B390B7978ABC90A7406A61A04CF41F42
+        width: 650
+        height: 433
   - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
     excerpt: "Featuring more than 3,000 State-of-the-Art Components and 22 Proprietary Servo Motors, T9 Is Both Vehicle and Robot, Transmuting Instantly Through Voice or App Control; Three Intuitive and Easy Programming Platforms Make Coding Fun with T9's Advanced Robotics and Artificial Intelligence LAS VEGAS,"
     publishedDateTime: 2020-01-09T19:52:00Z
@@ -88,6 +101,6 @@ related:
         width: 650
         height: 464
 
-secured: "1m4HpgGGQ1zYZhGKIUIHnMMruL+Cpb94QA1GYhO1tW1rfvrsFcUiweUrAHf4iM5B5D64MJYvvaY7yJGdBGK/zzmwQzEwkd2XRKJ3SoV+jtLZE2HM2cDznv1+6Bbek7RtZSGtuLwYx+rZLuvR8adETtylXErRN5R8OybkGse9CXrGwV6b6FVNAJhIiqbC1Sa8Kj0fEyQuQJf5et95NG7ePOfNMT9erPpK9SYY39frBvsKTRLfD/QfC841RN2ZMOMmU0szcYmV+rOoCqVIiwDQ9w==;6ZAMFlOZxG1g1vtakbfyuA=="
+secured: "JI+goXX7RdP9urrXbnGNmGxVWEIrxn5OZ8/T6xIhuSTG492pUP0U4ZlXTvzvrxYjr6np1EwOypFQZ9bWB/Hmb6Zyac9RXpbk3mkDPk5x5Xf5INQ5jeFMlWNg6khGVGY1EASgR/HZ8mQGkIUl+VPXM7o8d83im9RU7JVAA6vD4Kvob5gGV5Di6vsJbCecQhdpA+GR75GmX4/RK2QzDJrEwQzAuwsTwDpBflrcjeukl8Ys7ldgejBUkOxMNtyoJhukp2dOBc0tFNywnFyeoZlo3Q==;QnC2sD0l+ONQDFZ5+IsjAg=="
 ---
 

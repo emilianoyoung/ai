@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/07/digitally-tran
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/07/digitally-transforming-the-petrol-retail-industry-through-ai-and-smart-iot/amp/
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -70,19 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1FBB8627EF819CB92F49ADA235B57D83
         width: 700
         height: 393
-  - title: "Challenging the barriers to High Performance Computing in the Cloud"
-    excerpt: "Access to new and evolving services and applications make it easy to evolve and modernize workflows, like incorporating Artificial Intelligence (AI) with HPC ... innovation without constraints by delivering faster results and improved flexibility. AWS gives organizations the power to create HPC clusters on demand, instead of waiting for ..."
-    publishedDateTime: 2020-01-07T21:03:00Z
-    sourceUrl: https://www.hpcwire.com/solution_content/aws/manufacturing-engineering-aws/challenging-the-barriers-to-high-performance-computing-in-the-cloud/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.9EDA17F4BEC86F75D9BA261D6BF7E3F3
-        width: 700
-        height: 612
   - title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
     excerpt: "When applied in payment transactions using mobile phones or devices that need no bank details, bank cards or cashiers, the payment is carried out via facial recognition. This requires an extremely reliable and secure image and return transmission of the high-resolution 3D image data. The same applies to securely unlocking devices with a 3D image."
     publishedDateTime: 2020-01-08T06:50:00Z

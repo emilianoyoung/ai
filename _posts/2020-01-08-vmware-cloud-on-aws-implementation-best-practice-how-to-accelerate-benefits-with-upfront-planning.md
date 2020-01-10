@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-08T09:54:00Z
 sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/08/vmware-cloud-aws-implementation-best-practice-how-accelerate-benefits-upfront-planning/
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 600
     height: 400
     title: "VMware Cloud on AWS implementation best practice: How to accelerate benefits with upfront planning"
-
-related:
-  - title: "How to reduce call volume with Computer Vision AI"
-    excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
-    publishedDateTime: 2020-01-09T00:47:00Z
-    sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 54
-    images:
-      - url: https://customerthink.com/wp-content/uploads/woman-1446557_1280-pixabay-social-technology-1.jpg
-        width: 1280
-        height: 853
 
 secured: "6enqcYr96Wfhy3/6jEbWKjv3dWxCqBJLKTBgxCuwG+iIw4fgK95GqYG2xrVvE/nYIpXr9oSLbUbbJVd/sJNima03KE4DF09LuXOeA2oJiJ/6Jwdms6KFQsbJC9OHVnAms2CMoDYB6ks+QN4LrVOpG2I39tOOXhG/8iKEWubw2F2ejVMVCcKtjR6rUltQyXwkaEu76XsPhOfeW+erLxpqQSm71S3wX5tJ3TfTbQ72BWLao1lngBTSom6H3/MaBgt8Ohjq1s6g7NA20S7eN+lQdQ==;ACSm97Bt38IgcWscDfvHYw=="
 ---

@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Facial recognition creeps into everything at CES 2020"
-excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what the world would be like if facial recognition is everywhere."
-publishedDateTime: 2020-01-10T14:33:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/facial-recognition-creeps-into-everything-at-ces-2020/ar-BBYPcPj?li=AA4Zoy
+excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what the world would be like if facial recognition is everywhere. \"Hello, Alfred,\" said a measured, robotic voice, startling me. It came from a kiosk ..."
+publishedDateTime: 2020-01-10T14:32:00Z
+sourceUrl: https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/
+ampUrl: https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: CNET on MSN.com
-  domain: msn.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.84EFF5B28C8AC25B0015DC86C0991587
-    width: 600
-    height: 315
+  - url: https://www.bing.com/th?id=ON.2C953B65CE73943F4E032F4DF1B348F9
+    width: 700
+    height: 525
     title: "Facial recognition creeps into everything at CES 2020"
 
 related:
@@ -596,6 +602,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "sCCH1A3aiFT0xMrmGXAhBK2ig7HB2Rx1ggD6hYDyDyPklRR8NdZPES8hA1tVSvE6rPDZZUt2OzdF7uKV/v1S0b4FcP5Uye/dvQhc5/9uQk/gWYEFn3zs9UwXwNMJ/bsXaziQt+FionKByDgHLqo6Zf3l5kHqVtYxa4cckY6JDq5NC6VXxHa7s/2f0QeJmjVNCJpm1mLvOnDSAJIQr5ZTUmle8N7HRNJyKXV9+A+GbvmGfrXLfd43iTPh7zAR1v1RYjnuJqOjiIrrLo2TKgZr1Q==;BBRw3hA6M0ofQl0czuxNIg=="
+secured: "ZSdXNm6SgAFefPE58c3So55imLhaL/UGgQtheMudgbK7ws9Dnmc3ADS+EWu406b4nQIppjSZtk5bw8MmqY4zx3u2cC4Nj0Nv971I/RMVJ7cL6hZsvZgMX/JiKVGabZM/F8Lv0VxDBRdy2SfmD+n0m7zAhKhkMuZWHscuocBiR3q4sT2Rqup6mFMMxf68cdTiV561Y/EdWFE0la9kwkEkJddkCemcC+cGONNA7IYyeQddyWOv2ra6IEgX3Ymtd4Pjc/4l/PFWLSOdyH+N7R5plw==;QCet1sPwXkkb+LwiVlwb7w=="
 ---
 

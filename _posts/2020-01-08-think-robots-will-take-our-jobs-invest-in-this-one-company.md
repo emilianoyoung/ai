@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.18851454200180BB8F90EDBA2CD3F169
         width: 640
         height: 426
+  - title: "Mobile Robotics to Drastically Change the Traditional Use of Automation and Robotics"
+    excerpt: "These circuits can then be programmed to give suitable responses with respect to the surrounding. These robots are a complex integration of physical robotics and artificial intelligence (AI) that helps the robots to freely navigate their surroundings. Mobile robots with the help of AI can now flawlessly work on any environment like air ..."
+    publishedDateTime: 2020-01-10T12:27:00Z
+    sourceUrl: https://www.roboticstomorrow.com/story/2020/01/mobile-robotics-to-drastically-change-the-traditional-use-of-automation-and-robotics/14642/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.B390B7978ABC90A7406A61A04CF41F42
+        width: 650
+        height: 433
   - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
     excerpt: "Featuring more than 3,000 State-of-the-Art Components and 22 Proprietary Servo Motors, T9 Is Both Vehicle and Robot, Transmuting Instantly Through Voice or App Control; Three Intuitive and Easy Programming Platforms Make Coding Fun with T9's Advanced Robotics and Artificial Intelligence LAS VEGAS,"
     publishedDateTime: 2020-01-09T19:52:00Z

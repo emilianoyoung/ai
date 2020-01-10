@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.18851454200180BB8F90EDBA2CD3F169
         width: 640
         height: 426
+  - title: "Mobile Robotics to Drastically Change the Traditional Use of Automation and Robotics"
+    excerpt: "These circuits can then be programmed to give suitable responses with respect to the surrounding. These robots are a complex integration of physical robotics and artificial intelligence (AI) that helps the robots to freely navigate their surroundings. Mobile robots with the help of AI can now flawlessly work on any environment like air ..."
+    publishedDateTime: 2020-01-10T12:27:00Z
+    sourceUrl: https://www.roboticstomorrow.com/story/2020/01/mobile-robotics-to-drastically-change-the-traditional-use-of-automation-and-robotics/14642/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.B390B7978ABC90A7406A61A04CF41F42
+        width: 650
+        height: 433
 
 secured: "Q8WWblOUUQeYeAK1yPAvDQXVjo4PeMBJB3q5s/9Fo3AQpkijkD87KnDHGBa/bccEa1WaV5u/M7Fka9gTgF7fUsoNwVjpdsX0jmFbz4Bf9CPEpnfAmQpT4v9n6/9Oyt03qwRz24i4YZcirzXj+EdxD6dSsoXAhseqAas9ZILrAYnPJ5gcc2qFvtr/IWuUEmSZKSgXGIQJNvEslBm/Xw6wGF1Lj2JI/I4ZpERNyMmXg5tJBaKuoED2+u0k2X0Id1sefcd6nnldlNc+fGcUZtJfkg==;GamBjP4Ve1Sbb2Pq3oWhUQ=="
 ---

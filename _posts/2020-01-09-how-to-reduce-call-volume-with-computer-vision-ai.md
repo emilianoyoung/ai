@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-09T00:47:00Z
 sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
 type: article
 quality: 54
-heat: 65
-published: true
+heat: -1
+published: false
 
 provider:
   name: CustomerThink
@@ -24,20 +24,50 @@ images:
     title: "How to reduce call volume with Computer Vision AI"
 
 related:
-  - title: "VMware Cloud on AWS implementation best practice: How to accelerate benefits with upfront planning"
-    excerpt: "Another popular use case is leveraging AWS integrated apps to perform early predictive analytics, access artificial intelligence (AI), and utilise machine learning capabilities to develop unstructured and semi-structured data to yield actionable market and ..."
-    publishedDateTime: 2020-01-08T09:54:00Z
-    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/08/vmware-cloud-aws-implementation-best-practice-how-accelerate-benefits-upfront-planning/
+  - title: "The best computer reading glasses to help reduce eye strain"
+    excerpt: "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ..."
+    publishedDateTime: 2020-01-10T17:56:00Z
+    sourceUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/
+    ampUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 25
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
     images:
-      - url: https://www.cloudcomputing-news.net/media/img/news/iStock-474325206_wnubeKu.jpg.600x600_q96.png
-        width: 600
-        height: 400
+      - url: https://www.bing.com/th?id=ON.A88F9C3F0E035F8756E6B0899DCC2750
+        width: 700
+        height: 366
+  - title: "Today health tips: Avoid computer eye strain"
+    excerpt: "Other symptoms of eye strain may be sensitivity to light and double vision. This is precisely why our health tips today are about taking care of your eyes if you spend too much time in front of a computer. When the displayed text is too small, it strains ..."
+    publishedDateTime: 2020-01-08T04:17:00Z
+    sourceUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/
+    ampUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.4C4585E325D1402C89A8E531F4C7AE08
+        width: 655
+        height: 353
+  - title: "Challenging the barriers to High Performance Computing in the Cloud"
+    excerpt: "Access to new and evolving services and applications make it easy to evolve and modernize workflows, like incorporating Artificial Intelligence (AI) with HPC ... innovation without constraints by delivering faster results and improved flexibility. AWS gives organizations the power to create HPC clusters on demand, instead of waiting for ..."
+    publishedDateTime: 2020-01-07T21:03:00Z
+    sourceUrl: https://www.hpcwire.com/solution_content/aws/manufacturing-engineering-aws/challenging-the-barriers-to-high-performance-computing-in-the-cloud/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9EDA17F4BEC86F75D9BA261D6BF7E3F3
+        width: 700
+        height: 612
 
-secured: "vxZirlkm36npF9i0n6F8T1JqLznrfdrxtJaTD86Gwq7DehxG0qW9LNfo2w+2ZWydKiinFkDXzPCJAJDO9YrZEfz1PwsXIXd/lxH0bZpuId6jx3SDl9ilIOTqGm3mW53y/oETYvg9zE9NDdZq/XHQ6xCMJCohf3MppbA1906KnCAQrw9ugTO+eeh91rk+Yq9gE+kqVMXTmGSaQHk7W8jhyX4eSqd1uRfdidgib+z8wRxem2krLuMx0VeWi+2b4IwBOk15hDc9KcR95wPb9rvAsw==;yQNcRcLbU1Y2kCuyrHs0qw=="
+secured: "IutFbSTiJGL393DizNezhX33lwqx9FVNG4qLL3twPG3pOBYX47GXBRPFvHYfxHxd8BA+IoEdKtSwthwH9Y8eIALhABmjPiasaQ1q+b5BxZVlT4D34KwLpFX84i/FK6ZP2zPbuU9vz1LcTYALdM5SYFJ9VGfn1iHSzXptz492W8r/voVPo2mfWnUflWphz6epv2grBtV1DjEXukT4z178PNPBRAOgjyRPj5hwq7+sE8LXSIU6i2TgYCsmsp0X2IS+KXIeYEE8P1kSHifVoTkskg==;W4lN4KqIZeW9GwqMWXdQSg=="
 ---
 

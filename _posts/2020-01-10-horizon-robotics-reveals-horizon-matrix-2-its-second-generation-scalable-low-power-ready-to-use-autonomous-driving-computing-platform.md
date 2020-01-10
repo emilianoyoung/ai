@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Horizon Robotics reveals Horizon Matrix™ 2, its second generation scalable, low-power, ready-to-use autonomous driving computing platform"
-excerpt: "Horizon OpenExplorer ™ supports popular deep learning frameworks such as TensorFlow and MXNet as well as state-of-the-art operators, backbones and models. A comprehensive library of design examples and documents are also included to help customers reduce development efforts. \"With our Horizon Matrix ™ 2 platform, our customers and partners ..."
-publishedDateTime: 2020-01-10T09:32:00Z
-sourceUrl: https://www.prnewswire.co.uk/news-releases/horizon-robotics-reveals-horizon-matrix-tm-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-830854904.html
+excerpt: "About Horizon Robotics Founded in 2015, Horizon Robotics™ is a pioneer in the area of artificial intelligence computing for smart mobility at the edge. With over 600 patents, Horizon Robotics has been actively developing high-performance, low-power, and cost-effective deep learning computing solutions that advance transportation safety ..."
+publishedDateTime: 2020-01-10T08:22:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
+ampUrl: https://markets.businessinsider.com/amp/news/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
 type: article
-quality: 23
-heat: 23
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Google AI
   - AI in Robotics
 
-images:
-  - url: https://www.bing.com/th?id=ON.B16F46E6AA0C96E4055F39D60E8CF15A
-    width: 700
-    height: 534
-    title: "Horizon Robotics reveals Horizon Matrix™ 2, its second generation scalable, low-power, ready-to-use autonomous driving computing platform"
-
-secured: "VH0VYF1wkkVT+9Eybc6gy3L9KYr7+je/FilRB+VCGBWQQDihGZ4bTZYMMqHLIobegHQRzrG0SyhK8icvN43GWPAIVU1X06CQ+OHqcY4L12CflOJ5rmbU4wIyjwMHeG94/WNlDnKRIaACTjtf15pVE2mqlIXHcYT/15NULlDSr1lNoxvFTRqK1F1RSjZnokKqz7pCESdGugMgsrf4C9Qk7tA2S0u6R6IG/V/OxK68iEhD6WToknep7WKiODxZKDZuOJ1jGVhi/nyaikWKcjAjgg==;9EYnxEv8/vvXOLC/mhK0tA=="
+secured: "R0pNo8g4oQerfdSTTFTVePSgEH/kKMFGnEeSH+rxlGgCSUOPfNPht665S9Cip7cbNOOk+/KaaPM8hz5wzmouBh/+QNZTCDOYCpX4kq73xcqbbXsr5rXBT1VEbFBRq39TfBr0MDbJZYLXZbPQ4xMITBBQ4WKtE4+tKsykvLViXFSqxZqhUcUfWiOw+8ssVRA88LTemFNAjEHyXab0a5lfEDao4ByXl+rkJ96BeTcJ20cqWtveUWDjhBy5VqfrDm2abrFWGTxEDyhvu+Ytq431zQ==;kWRCyzvd1mL6UxDIXVvjlw=="
 ---
 

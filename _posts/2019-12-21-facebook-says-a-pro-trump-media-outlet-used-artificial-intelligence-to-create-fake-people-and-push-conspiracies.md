@@ -158,19 +158,6 @@ related:
       - url: https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg
         width: 1200
         height: 799
-  - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
-    excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
-    publishedDateTime: 2019-12-21T16:42:00Z
-    sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
-        width: 443
-        height: 249
   - title: "Fake Facebook accounts using artificially-generated faces"
     excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts ..."
     publishedDateTime: 2019-12-23T14:26:00Z

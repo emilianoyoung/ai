@@ -7,7 +7,7 @@ sourceUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-202
 ampUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.DE8C1FB24159B2B0A0BC1EF52331F668
