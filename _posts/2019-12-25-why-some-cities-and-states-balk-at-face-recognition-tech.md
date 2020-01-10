@@ -346,21 +346,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
         width: 700
         height: 392
-  - title: "Is facial-recognition tech too young to trust? Some governments think so"
-    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
-    publishedDateTime: 2019-12-21T09:25:00Z
-    sourceUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so
-    ampUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so?template=ampart
-    cdnAmpUrl: https://www-providencejournal-com.cdn.ampproject.org/c/s/www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so?template=ampart
-    type: article
-    provider:
-      name: Providence Journal
-      domain: providencejournal.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
-        width: 700
-        height: 433
   - title: "Some cities and states balk at face recognition tech"
     excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
     publishedDateTime: 2019-12-22T04:00:00Z

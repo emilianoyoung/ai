@@ -168,6 +168,32 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 37
+  - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
+    excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai) Technologies Co. Ltd. (a Huawei Company) 7.13. IBM Corp. 7.14. Intel Corp. 7.15. Mythic Inc. 7.16 ..."
+    publishedDateTime: 2020-01-09T12:45:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Outlook and Growth Stance Forecasted Through 2020"
+    excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market."
+    publishedDateTime: 2020-01-10T09:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-outlook-and-growth-stance-forecasted-through-2020-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
     excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
     publishedDateTime: 2020-01-07T00:24:00Z
@@ -213,15 +239,6 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 0
-  - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
-    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
-    publishedDateTime: 2020-01-09T12:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets---worldwide-market-study-2019-2025-with-analysis-on-amazon-ibm-qualcomm-intel-nvidia-and-more-300984314.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
     quality: 0
   - title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
     excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."

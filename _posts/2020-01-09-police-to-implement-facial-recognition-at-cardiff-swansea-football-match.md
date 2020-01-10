@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
         width: 600
         height: 315
+  - title: "Germany’s plans for automatic facial recognition meet fierce criticism"
+    excerpt: "An alliance between civil society and politcians are opposing the (alleged) government plans to expand the automatic facial recognition system across the country, notably because the scurrently available technology remains underdeveloped and could lead to so-called \"false positives\". Foto: Stefanie Loos [CC-BY 2.0/STEPHANIE LOOS]"
+    publishedDateTime: 2020-01-10T10:02:00Z
+    sourceUrl: https://www.euractiv.com/section/data-protection/news/german-ministers-plan-to-expand-automatic-facial-recognition-meets-fierce-criticism/
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.ADD3BC625BFC937657CD509ADAA73273
+        width: 700
+        height: 525
   - title: "Police criticised for plans to use facial recognition cameras at Cardiff v Swansea match"
     excerpt: "South Wales Police has been criticised for its plans to use live facial recognition surveillance at this Sunday’s Cardiff City v Swansea City football match. Fans, rights campaigners and a Police and Crime Commissioner say the plans are “a step too far”. South Wales Police used the surveillance technology last October at another match ..."
     publishedDateTime: 2020-01-09T05:00:00Z

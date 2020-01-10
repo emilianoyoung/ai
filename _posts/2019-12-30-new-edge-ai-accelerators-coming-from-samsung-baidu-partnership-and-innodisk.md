@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.14FC265759AB6A450544484402A5194F
         width: 700
         height: 393
-  - title: "Baidu and Samsung Move New AI Chip Into Mass Production"
-    excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wide range of AI ... However, the tech can just as easily be used for speech recognition, image processing, or self-driving vehicles. “We’re expanding our business beyond mobile to datacenter applications by developing and mass-producing AI chips,” said Samsung Foundry ..."
-    publishedDateTime: 2019-12-20T22:27:00Z
-    sourceUrl: https://mobileidworld.com/baidu-samsung-move-new-ai-chip-into-mass-production-122005/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D49E57F93AB6D836EA590873C843A886
-        width: 400
-        height: 298
 
 secured: "IY3XG94H5CBh9wA+RkzQw02kB/YquAhjhZJwJaMV+oV/pLZylqXMifito6y/HB4TKvQ1kzYyEW3ocf7V9O0NvTBZqPVazZupXqL1ZiVD38wBFp4kAFQcli+QAeS9DrhlST7ZyxQzcEa4OH5vYM7Dsi3H5ZTUpDLahedLVsAAFfv37kYngGNpEJFjCoJoiAdm9ve7Y/7NmYjAPgFw7lwvO02hswP+m/ode+YKvusFLDf1jx48rX0TCn7G79mMXj+f6sjEyxdqkz/uTqipVF241A==;kU/SjiHWrHFqhPO9oTPWAA=="
 ---

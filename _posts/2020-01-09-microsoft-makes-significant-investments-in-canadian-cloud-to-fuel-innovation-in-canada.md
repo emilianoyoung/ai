@@ -43,6 +43,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1E71BDA590D6D5ED0F599463AB56879D
         width: 700
         height: 316
+  - title: "Irish AI firm announces new collaboration with Microsoft"
+    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
+    publishedDateTime: 2020-01-10T10:38:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.9A2A81F6929652FE3F47DF1DFBD3CE94
+        width: 600
+        height: 338
   - title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
     excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
     publishedDateTime: 2020-01-09T14:54:00Z

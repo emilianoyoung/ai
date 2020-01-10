@@ -316,19 +316,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-    publishedDateTime: 2019-12-21T09:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Market 2019 Size, Statistics, Growth, Revenue, Analysis & Trends Industry Forecast Report -2025|Market Research Engine"
     excerpt: "The Artificial Intelligence Market is segmented on the lines of its technology, end-user and regional. Based on technology it covers Machine learning, Natural language processing, Image processing and Speech recognition. Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others."
     publishedDateTime: 2019-12-30T05:17:00Z
@@ -405,6 +392,15 @@ related:
     provider:
       name: Australian Techworld
       domain: techworld.com.au
+    quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-24T14:37:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
     quality: 0
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."

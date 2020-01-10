@@ -8,7 +8,7 @@ ampUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-avai
 cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver"
 
 related:
+  - title: "Irish AI firm announces new collaboration with Microsoft"
+    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
+    publishedDateTime: 2020-01-10T10:38:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.9A2A81F6929652FE3F47DF1DFBD3CE94
+        width: 600
+        height: 338
   - title: "Microsoft Makes Significant Investments in Canadian Cloud to Fuel Innovation In Canada"
     excerpt: "TORONTO, Jan. 9, 2020 (Canada NewsWire via COMTEX) -- Microsoft announces addition of Azure Availability Zones and increase in capacity by 1300% to empower customers with high availability, performance and resilience to rapidly scale as the country embraces digital transformation."
     publishedDateTime: 2020-01-09T13:00:00Z
