@@ -123,6 +123,15 @@ related:
       name: The Root
       domain: theroot.com
     quality: 11
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
   - title: "Magic Data Chinese Mandarin Conversational Speech was selected into LDC Catalog"
     excerpt: "Besides, the accuracy of read speech data recognition is up to 97-98%, but in conversational speech recognition, the accuracy is nearly 50% (referred to results of the CHiME-5 Challenge). This large gap indicates the challenge in automatic speech recognition (ASR) extend to new phase. This is an excellent testing dataset for conversational ..."
     publishedDateTime: 2019-12-21T08:12:00Z

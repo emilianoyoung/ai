@@ -37,6 +37,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Here are the hotspots for local AWS partners in 2020"
+    excerpt: "Artificial intelligence, machine learning and cloud migration are expected to be among the hotspots for Amazon Web Services (AWS) partners in the local market this year, according to the cloud giant’s head of partnerships and alliances in Australia and New Zealand, Corrie Briscoe. Speaking to ARN in the wake of the vendor’s annual AWS re ..."
+    publishedDateTime: 2020-01-10T01:54:00Z
+    sourceUrl: https://www.arnnet.com.au/article/670179/here-are-the-hotspots-for-local-aws-partners-in-2020/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.4071E535D9704F4DB01E588DF9E5B114
+        width: 700
+        height: 437
 
 secured: "H0p1jfrTq5XRF+ywE9zioWMxAz5lpQ5omHe1WbeOYnvx2xsq7b6aEK8nsPKrqj1f7tFbawxdd5K/J3bPyfgmmNQK6vd8ka4hkeiJ173Qgnx0QtAD+jHBFyDyMCdOeQ2g9ekoXSRnpno+ihlXFjN/p2weP6hejlFi8nxN7eqQREnUMv5O8nDHC+e5GK9qhgqSbWD2bBU7BqXkr8Yu6idpjCz652Y4bvIJVX4ps4dcaD5U+J+OBvzEDqU2QIgPc0sX/xQUlhT6YqCJjvdflijl8g==;+cOrKeoUr48f1DP1OJGOww=="
 ---

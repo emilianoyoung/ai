@@ -20,6 +20,19 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Here are the hotspots for local AWS partners in 2020"
+    excerpt: "Artificial intelligence, machine learning and cloud migration are expected to be among the hotspots for Amazon Web Services (AWS) partners in the local market this year, according to the cloud giant’s head of partnerships and alliances in Australia and New Zealand, Corrie Briscoe. Speaking to ARN in the wake of the vendor’s annual AWS re ..."
+    publishedDateTime: 2020-01-10T01:54:00Z
+    sourceUrl: https://www.arnnet.com.au/article/670179/here-are-the-hotspots-for-local-aws-partners-in-2020/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.4071E535D9704F4DB01E588DF9E5B114
+        width: 700
+        height: 437
   - title: "Democrats face this critical challenge in 2020 — and here’s what they must do to inspire their voters"
     excerpt: "There is, of course, an entire right-wing media apparatus built on the recognition that the conservative audience is ready-made for programming that stokes a sense of fear, unfairness, and outrage. The liberal audience…not so much. This is why inflammatory conservative radio thrived while “Air America” failed, and why Fox News continues ..."
     publishedDateTime: 2020-01-06T15:52:00Z

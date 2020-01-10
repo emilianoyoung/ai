@@ -24,10 +24,10 @@ images:
     title: "A CES conversation with Microsoft's Tara Prakriya"
 
 related:
-  - title: "LG To Accelerate B2B Innovation With Microsoft"
-    excerpt: "LAS VEGAS, Jan. 9, 2020 /PRNewswire/ -- LG Electronics (LG) is working with Microsoft to build its automotive infotainment systems, building management systems and other business-to-business collaborations."
+  - title: "LG to Accelerate B2B Innovation With Microsoft"
+    excerpt: "TORONTO, Jan. 9, 2020 (Canada NewsWire via COMTEX) -- LG Powers Automotive Infotainment and Building Management Systems with Microsoft Azure Cloud and AI Technologies LG Electronics (LG) is working with Microsoft to build its automotive infotainment systems,"
     publishedDateTime: 2020-01-09T16:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/lg-to-accelerate-b2b-innovation-with-microsoft-2020-01-09
+    sourceUrl: https://www.marketwatch.com/press-release/lg-to-accelerate-b2b-innovation-with-microsoft-2020-01-09-1220200
     type: article
     provider:
       name: MarketWatch

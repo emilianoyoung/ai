@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-sw
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/
 type: article
 quality: 189
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -43,6 +43,21 @@ related:
     quality: 88
     images:
       - url: https://www.bing.com/th?id=ON.D7C2C493A83F67F2DC016360C53696AD
+        width: 700
+        height: 350
+  - title: "Intel researchers propose AI that recognizes faces from thermal images"
+    excerpt: "Is thermal imagery detailed enough to enable an AI model to recognize peoples’ facial features? That’s the question Intel and Gdansk University of Technology researchers sought to answer in study recently presented at the Institute of Electrical and Electronics Engineers’ 12th International Conference on Human System Interaction."
+    publishedDateTime: 2020-01-10T01:21:00Z
+    sourceUrl: https://venturebeat.com/2020/01/09/intel-researchers-propose-ai-that-recognizes-faces-from-thermal-images/
+    ampUrl: https://venturebeat.com/2020/01/09/intel-researchers-propose-ai-that-recognizes-faces-from-thermal-images/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/intel-researchers-propose-ai-that-recognizes-faces-from-thermal-images/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
         width: 700
         height: 350
   - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"

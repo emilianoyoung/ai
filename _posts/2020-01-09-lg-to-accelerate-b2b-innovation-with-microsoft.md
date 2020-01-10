@@ -1,9 +1,9 @@
 ---
 category: news
-title: "LG To Accelerate B2B Innovation With Microsoft"
-excerpt: "LAS VEGAS, Jan. 9, 2020 /PRNewswire/ -- LG Electronics (LG) is working with Microsoft to build its automotive infotainment systems, building management systems and other business-to-business collaborations."
+title: "LG to Accelerate B2B Innovation With Microsoft"
+excerpt: "TORONTO, Jan. 9, 2020 (Canada NewsWire via COMTEX) -- LG Powers Automotive Infotainment and Building Management Systems with Microsoft Azure Cloud and AI Technologies LG Electronics (LG) is working with Microsoft to build its automotive infotainment systems,"
 publishedDateTime: 2020-01-09T16:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/lg-to-accelerate-b2b-innovation-with-microsoft-2020-01-09
+sourceUrl: https://www.marketwatch.com/press-release/lg-to-accelerate-b2b-innovation-with-microsoft-2020-01-09-1220200
 type: article
 quality: 69
 heat: 79
@@ -25,7 +25,7 @@ images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "LG To Accelerate B2B Innovation With Microsoft"
+    title: "LG to Accelerate B2B Innovation With Microsoft"
 
 related:
   - title: "A CES conversation with Microsoft's Tara Prakriya"
@@ -42,6 +42,6 @@ related:
         width: 700
         height: 525
 
-secured: "vt/qGdX6wdL8ZEZ8/srlPwJW8RknTzi0Lt9VUVbX9LAWoFOM+M8e979o7r/Wj39eUPaUctLs7KMQhnD8ti7qcHkz2d7LNpuaVBYu37lMoEzvlqA37rfr4ACX5p/Dtayn6QQveYQzz+0RyRR69mP3/jOVbIZmyVmfNMe2Fb3RqVeR1A62xq3+16pBalS6pvtPmL9NblR2W4LHGnZG+flSbPRbhbPWzroYS7VVpiUhjeXog7YwmaDEiIfTITL4x22ihdRU6uaRcIIsTPzlMk2LYg==;kAg7Ye/GdPdloSHLlMbSOQ=="
+secured: "8OIww1Wi9T077nJLJdNhFNWjuNxKtAv6YEx7rEAMs69Hsb+PRKtwAMPZGnNHdlQBwLmguMEI0nnDNS+XEF3DLmWEx0NbG809deRtK1QESHbHbkajrQuetvlguHSt8+XDkDHs/+IwzVWMoYmPea95hS+15FaUJ0AXXpYsnvPVBq9Kv3QSogJCb5AGDHwS27T2QKTEXplLN91YMAsXMhbPX26h4MqDpOeMr+wfnvI3k0lrC+zMDR9gHqOrGkPllNJvvCBeg3gbPBUEJjNgGP2TVw==;sOjSMTp6FP/hdq70TUbtVg=="
 ---
 

@@ -37,15 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3199EC52B34C41EF62CDF5E1199626A8
         width: 700
         height: 466
-  - title: "TimeXtender Discovery Hub® Now Supports Azure Synapse Analytics & SQL Server 2019"
-    excerpt: "TimeXtender, a recognized global software company enabling instant access to any type of data in the organization to support advanced analytics and artificial intelligence (AI), has announced a new release of its ... was upgraded to work seamlessly with both Azure Synapse Analytics and SQL Server 2019. Azure Synapse Analytics unites enterprise ..."
-    publishedDateTime: 2020-01-08T19:10:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-timextender-discovery-hubreg-now-supports-azure-synapse-analytics-/2020/01/08/9078594.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "yyg4s1YgP8jGik+HTMrYmzaAhK4FRvk9CtlMTaryD6Jsx5MPVaT2U+W2w/btyjI/GCgK7M/PdDUO2YVmeTGrxS4T6gzaEH7Y2hFVqHzTY5oCPNUAu1drlFZVpCRwujBYBcoHnjHr4BITtPg94ZXCs1O0o4yKolGfWvoyakKzHuHOhxwO/sFI32zXhMMQ10p55cyeE9vk/oS3zI5bWempTjDzqs+VR+BtlNI2YFyU3UHbi3oJcTkAQj5B71c6gHz1zwYEGEfOgnoMwwGid+mPww==;SCy5Q3Q+DPYGOmMjuAf2rg=="
 ---

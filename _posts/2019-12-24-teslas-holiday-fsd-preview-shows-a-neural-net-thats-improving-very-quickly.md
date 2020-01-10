@@ -86,21 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4B14C8F358AF3350C318453703B114B2
         width: 700
         height: 481
-  - title: "What Does Tesla’s Self-Driving Mode Really Look Like? A New Software Update Gives a Sneak Peek"
-    excerpt: "Just in time for the holidays, Tesla is releasing an update to the software that powers its sleek vehicles, including a new game and even a preview its much-anticipated self-driving mode. A specific release date hasn’t been announced, but word of its impending delivery comes straight from Musk’s own Twitter account. In it, Musk gives a ..."
-    publishedDateTime: 2019-12-21T00:25:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/does-tesla-self-driving-mode-220002941.html
-    ampUrl: https://www.yahoo.com/amphtml/lifestyle/does-tesla-self-driving-mode-220002941.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/does-tesla-self-driving-mode-220002941.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 47
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/SGz80wlVK0MWY4WKcaF3KQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjAuNjQ-/https://s.yimg.com/uu/api/res/1.2/ZQDr9coVPpFGavu5XynBQA--~B/aD01NjM7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/robb_report_967/6c6770320ed6c58bb5d644bec0e6d115
-        width: 1000
-        height: 563
   - title: "Uber will build a self-driving test track in the Pittsburgh area"
     excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
     publishedDateTime: 2019-12-27T12:53:00Z
@@ -114,15 +99,6 @@ related:
       - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
         width: 700
         height: 393
-  - title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
-    excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
-    publishedDateTime: 2019-12-21T00:30:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-19-tesla-fsd-stardew-musk.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
 
 secured: "SOrjpZt/DTUvRKIYlHlKbDslUU7pS6kVefM8OCmjo+MNQJfA5H5dRgs3sckem5cY8nj2Rmrdw4RiQnnnsO9rhxqg97Ld9sjVTkGqbKTzIShe19+zHBHoL+OlOACxVRtNPrVYbejIOQ6FrJ7erXe0bDDH/YCOkat7cRvPWYei9guNIwPEuStDkSbw6ECqSDnFBWCL4rlyiD8TtxdY5KGmupyMfXKazLyetP5d4cdKiAvkAeg6tqkojvdYWc7FP4KD2dag3yQnbZCQ/jI2s9xN8A==;UKFh7PEiRfJBLo722lvPXQ=="
 ---

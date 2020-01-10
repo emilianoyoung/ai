@@ -66,15 +66,15 @@ related:
       domain: sciencedaily.com
     quality: 49
   - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out on this topic and the results are available through."
-    publishedDateTime: 2019-12-26T05:46:00Z
-    sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
     type: article
     provider:
-      name: The Asian Age
-      domain: asianage.com
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
     quality: 39
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
@@ -86,6 +86,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "6E+N0Kv7fxNJfLd98AQ0+4MlnG7DPpidMW6BRstDupYPOJ0CBzxmNE7e1k8PTMnb94q9kk3noVVHP4LNpKS8INiqYJG518kJwFaM0SSS9Zn6l60wPpYUe7nhupUsQGSora5mT9BAO3FHdQeJTm+jTUOCLdSmWTCNcQd/7jFX9GY3jUWnfMBRG+4UcKdVri5VRl0QFA6ucyJsKmy9D4jT0voESXjt0rhbSSfzJkPwmoyeyOQlllgelUnSvUJIS6sQ3rjKRh7gES/0R7H5UbER5w==;M/sHWdbt3i5PJfE66Qcmwg=="
+secured: "CdnJQvv8v49oaY2m6yAW3Qpu5P7M5QeHCotgO1Ovd9hDtLZ5+K6S8uKC4q94w8rLclPvr6qS+baCxVxfJKHPgSPHhWeyOHOWKOMZbYfl1BnKz/gwNaKOIurGpP4oIBdgQI5J+MWea5BZ3jhCFa3t5UBM0yFGniLo2Sr/T7/0hqMsTTduk2AaJms6zmCVhijY+FYDCHKcIPbNPpGSaLh9js7mO2hvoFMYQ4vIt9jVF2k31C3AiQx5D3Yeh8Z2mTLWs+zGNlBuGAuxL6nClmvJww==;ei9brLwQIQg+ccLSyEP1wQ=="
 ---
 
