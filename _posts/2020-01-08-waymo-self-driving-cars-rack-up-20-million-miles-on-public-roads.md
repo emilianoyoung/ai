@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E734C90767551A09112E5BB310CC1D43
         width: 700
         height: 350
+  - title: "AI Weekly: Autonomous cars need better safety metrics to move the industry forward"
+    excerpt: "On Monday, Waymo — the subsidiary of Google parent company Alphabet that’s developing a full-stack driverless vehicle platform — announced that its cars have driven a combined 20 million autonomous miles to date, up from 10 million miles in October 2018. The metric signifies Waymo’s logistical and technological superiority, implied CEO ..."
+    publishedDateTime: 2020-01-10T19:06:00Z
+    sourceUrl: https://venturebeat.com/2020/01/10/ai-weekly-autonomous-cars-need-better-safety-metrics-to-move-the-industry-forward/
+    ampUrl: https://venturebeat.com/2020/01/10/ai-weekly-autonomous-cars-need-better-safety-metrics-to-move-the-industry-forward/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/10/ai-weekly-autonomous-cars-need-better-safety-metrics-to-move-the-industry-forward/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.E734C90767551A09112E5BB310CC1D43
+        width: 700
+        height: 350
   - title: "Autonomous cars won't be on Israel's roads so quickly"
     excerpt: "Israel may be a world auto-tech technology power, but driverless cars face many regulatory obstacles ... and the local branches of multinationals are making presentations at the exhibition in sensors, connectivity, artificial intelligence, improved quality of life in vehicles, and autonomous driving. Mobileye, the leading Israeli company ..."
     publishedDateTime: 2020-01-09T13:05:00Z

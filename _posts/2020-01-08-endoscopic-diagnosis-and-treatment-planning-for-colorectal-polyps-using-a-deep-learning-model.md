@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4AF89B8122E55C4D4CACC13E947F7564
         width: 700
         height: 700
+  - title: "Automated reasoning vs. machine learning: How AWS IAM provides secure access control without the need for data"
+    excerpt: "Turns out, the same goes for machines. The intelligence required for facial recognition demands a very different learning base than the reasoning applied to security tasks such as access control. So, rather than approaching security from the machine-learning standpoint of ingesting masses of data, Amazon Web Services Inc. is training AI in a ..."
+    publishedDateTime: 2020-01-10T19:18:00Z
+    sourceUrl: https://siliconangle.com/2020/01/10/automated-reasoning-vs-machine-learning-how-aws-iam-provides-secure-access-control-without-the-need-for-data-reinvent-womenintech/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: https://www.bing.com/th?id=ON.AB424F09B0B091D86F281B398CA0CD3A
+        width: 700
+        height: 488
 
 secured: "roXsiGuveLMEQIoZvzm4/7AtvzXkiIXZZ4zDaYaypOiG9CV5+87U1V4DPD4fIb4/jFlTd3pykIH2cfoi1qkFX6HBGhxBwIkCzuwl+vfzKs2OHkUHpktSbfTPGZC4T3aRqPGGJKvPKj1wocwGxwsWa8U9Kuvgo1KlR+BnAQzOlVVZ6edRqsco8nJC/uZu/rRHljYVT/vZ+8eGPGjotEGdbN0dsAzsqIVgrLX8G4yXe+RU9g472I+t2uOHCgTkSSvP8iVCkgHgz/tgJ9tk67D4bQ==;FMel94h2E6g9/ZytQJ1HHw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/amp/
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Automation And AI: The New Frontier In Cybersecurity"
 
 related:
+  - title: "How AI, ML, and automation can improve cybersecurity protection"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are making productive inroads in the cybersecurity space. SEE: The 10 most important cyberattacks of the decade (free PDF) (TechRepublic) I spoke with Anish Joshi, vice president of technology at AI ..."
+    publishedDateTime: 2020-01-10T18:03:00Z
+    sourceUrl: https://www.techrepublic.com/article/how-ai-ml-and-automation-can-improve-cybersecurity-protectionread-insights-from-industry-experts-on-how-artificial/
+    ampUrl: https://www.techrepublic.com/google-amp/article/how-ai-ml-and-automation-can-improve-cybersecurity-protectionread-insights-from-industry-experts-on-how-artificial/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-ml-and-automation-can-improve-cybersecurity-protectionread-insights-from-industry-experts-on-how-artificial/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.9147AD720D186E356F704B15FD38B088
+        width: 700
+        height: 525
   - title: "Is the AI hype bubble in cybersecurity deflating?"
     excerpt: "AI adoption continues to accelerate, and according to Capgemini’s Reinventing Cybersecurity with Artificial Intelligence report, 48 per cent of respondents said budgets for AI in cybersecurity will increase by an average of 29 per cent in 2020. However, it’s important to note that potentially only a few vendors exist with the R&D budget to ..."
     publishedDateTime: 2020-01-01T09:30:00Z

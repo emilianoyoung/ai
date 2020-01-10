@@ -8,7 +8,7 @@ ampUrl: https://www.infoworld.com/article/3511938/wanted-more-types-of-machine-l
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3511938/wanted-more-types-of-machine-learning.amp.html
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 116
     height: 116
     title: "Wanted: More types of machine learning"
-
-related:
-  - title: "Using Meta-Learning to Train Agents to Learn Generic Concepts"
-    excerpt: "Is it possible to recreate this neuroscientific miracle in artificial intelligence(AI) agents? Last year, researchers from OpenAI published a paper proposing a technique for concept learning based on a deep learning method known as energy functions. Energy-Based Models are a class of deep learning algorithms that focus on capturing dependencies ..."
-    publishedDateTime: 2019-12-31T15:13:00Z
-    sourceUrl: https://towardsdatascience.com/using-meta-learning-to-train-agents-to-learn-generic-concepts-b8378022b1f7
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.89D67A4F8085D6823FB349299C46BC02
-        width: 700
-        height: 393
 
 secured: "DxlT7HODy0gvD/zoL9s++qA/te4e6eqyR6hdtnXnURV8P9y3uhXW4lQOb6SHqjx1hi89JEjgU79KMS6kFvLu3Ii4EVfjDfo97h9+MnPhrw6CxCTRCxbz0+9pua8dEO6pxxNnJrw8JaKtlqqtPglKYruYSEnyRAZvnTBOP6Im7x5zW/febVre4L0vMYpsh4GANFy1Ml/6ANj3PXtoY1x431l9krhaumIRKpTr8DygsjD/wGN0jsRvpcVkvm2CiJIyhCwB589PWX8nohgDubAHig==;/RL1dDSO3n665N2Iz45hhQ=="
 ---

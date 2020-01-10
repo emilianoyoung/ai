@@ -23,6 +23,6 @@ images:
     height: 500
     title: "Intel RealSense Lidar Camera Technology Redefines Computer Vision"
 
-secured: "pFVRYg8/BqKa1yWD678U/7EgohdDrxZe4EhugzNaFmmgXK9OpTIRSFRMZqy0lXqzu9jEgty9JbykVyvWiIwZnthiZd/2iqdEGxTL0ZFNwop8fj1zHHb+Pl8cPfS2VzTM1/DHdMzNhfy1/J5n18FZpcdxjwy6Jvvlflx9jWIKDfZir2CZ8MGvWLkRU89WPfWJ+UvJCRSVdVjYe4naNvhfvJ2zsyJsaTofY3/SGzlKfncwgwHwgWUJkWUfsx0Iztbek3BZvGwmebbd0WUTLJBfqA==;eu4gZxkzlWNuhlvKuz3SUQ=="
+secured: "9mPSoMo4wTl+XhSoVumeQvHLGuJgrpbTQeYv6DXxmDUPeKaZEJmujotm351KgwsZNChUBRq41zi/73kBulre4x8I2HI9PeOWtanCQMbBUEaOH4/ELvW4gRmPuwG0ULRas819v4wNMJftO16FdpseRe9w/lMXHmi8dZPFLk+Vzcui+ucN4vCHMf779i9UbtGq5FXLy16v7m/KokluxJlEHbxk2S5yqx/34XiJVo8hMPN+iTl4QaDMAzq/5E0JAZ8m2VvZ1JfWsISuBAnpCe4LDA==;Sv3MUmklt0hsdxf4bkSKsg=="
 ---
 

@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D82D514BD309752666837662F41D8810
         width: 600
         height: 315
+  - title: "How AI, ML, and automation can improve cybersecurity protection"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are making productive inroads in the cybersecurity space. SEE: The 10 most important cyberattacks of the decade (free PDF) (TechRepublic) I spoke with Anish Joshi, vice president of technology at AI ..."
+    publishedDateTime: 2020-01-10T18:03:00Z
+    sourceUrl: https://www.techrepublic.com/article/how-ai-ml-and-automation-can-improve-cybersecurity-protectionread-insights-from-industry-experts-on-how-artificial/
+    ampUrl: https://www.techrepublic.com/google-amp/article/how-ai-ml-and-automation-can-improve-cybersecurity-protectionread-insights-from-industry-experts-on-how-artificial/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-ml-and-automation-can-improve-cybersecurity-protectionread-insights-from-industry-experts-on-how-artificial/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.9147AD720D186E356F704B15FD38B088
+        width: 700
+        height: 525
   - title: "Top trends to expect in cybersecurity and artificial intelligence"
     excerpt: "As a cybersecurity and artificial intelligence innovator, we are often asked about our predictions for the year to come. AI, in all its flavors, is a hot technology and it is being applied in many fascinating and powerful ways. Our focus, of course, is on using deep learning to advance the standards in malware detection (and we see a lot of ..."
     publishedDateTime: 2020-01-06T20:56:00Z

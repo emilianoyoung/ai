@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D9EC00A1C86B991EC8029E3391D00541
         width: 600
         height: 315
+  - title: "Could an AI ‘human’ become your friend?"
+    excerpt: "Putting a human-like AI in your home, one that learns your preferences for pizza, behaviors or finances, raises concerns about where intimate information could land."
+    publishedDateTime: 2020-01-10T19:09:00Z
+    sourceUrl: https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/
+    ampUrl: https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.5DB73AC546CB69077F0BA2742D9E5347
+        width: 700
+        height: 406
 
 secured: "afCGG34GGGBBfBHUIyb3I00y5ys/RT+NVfBz+g3SXnP7nhX5Vep5Zfy0R0vKaIquoRAcLNyjhi07cZYi91MXNU4G/6zyYmVdiZYzLe+9yazSURR1rgyxB9j/KdE/9pfwrLFaQb+zDV06/RMtO7OhIjOX9y3cml822EJWH9y/rbrNeuydj5g4exlCGeMY1vDrgPyrUTBZCHmGAvLK8fDJkblYPSF6ZhQ/i7LXujW6SNptBdatZTIuhIqnpnOKpHjEq4Z7qiu/FXSaj2uFLxxfTg==;pT/68d0+QWbxod3VAq1dMQ=="
 ---

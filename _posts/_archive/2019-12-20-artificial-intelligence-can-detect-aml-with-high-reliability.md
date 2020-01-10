@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/Artificial-intelligence-c
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Artificial intelligence can detect AML with high reliability"
 
 related:
-  - title: "AI can detect blood cancer with high reliability"
-    excerpt: "IANS | December 21, 2019, 17:32 IST London: Artificial Intelligence can help detect one of the most ... could support conventional diagnostics and possibly accelerate the beginning of therapy, said the study published in the journal iScience."
-    publishedDateTime: 2019-12-21T11:54:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
-    type: article
-    provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72916009,imgsize-104312,width-800,height-434,overlay-ethealthworld/ai-can-detect-blood-cancer-with-high-reliability.jpg
-        width: 800
-        height: 434
   - title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
     excerpt: "Their method is based on analyzing the gene activity of blood cells. When applied in practice, this method could support traditional diagnostics and probably expedite the start of therapy. The study outcomes have been reported in the iScience journal. Artificial intelligence is a much-discussed topic in medicine, especially in the field of ..."
     publishedDateTime: 2019-12-24T12:12:00Z
@@ -57,6 +42,6 @@ related:
         width: 350
         height: 215
 
-secured: "uRNvf5gzWC0CEuWiQq8UE6NPTbmNhy3ANozgzE1ZGy9I2UrnWgpWnrDD1xwOJYyEdpinT53U4yEkVafT7oLirNaHACuHOV6sfePQU2+N0/GfRp/774fVeSKIuUip+cfX5NPjLZsgFLaQGhZx3Itu1EvCmHeGM8Sx+Znb/OF1aJiCEqL8W+AV5wm+4rbwhl/BZAL3AJ2/Z1y9A4DbxQWno4IY7wOH5cAvgNJG1O+UaDLwJv+PGMqZ4DDLxFVmNfbL89btU5BJSIe9nCqpmF7iKA==;SxTj6trd8T9hSKX8MlWl8w=="
+secured: "uCKr2R3IIsEhEmStXN/RUZp133n6gBgblbm+4DoKAV2aPScV8RDptKNzRwVfeI6AwSlqCRcpNY4LNT+9EiP8L59Czhkr9QuhI3PFl8YbYBDQK4azeMEdxXApCTvwWzX21KdKqNGiA/+Y6zohqfcUky+TUZI9r6ylP/G5YuZTVvO/eWNqdRwvpEOws3MKUtnw4iLY0WztFKGNqTHfQ3Ufgh0EUhRUlY1OIot/nQuN2WwLzr7BLesWKo1HdJE5TqQzWhNX/8hYj9BUGRY2BvmIFQ==;4CriE9GYl3N0X23jZV4YSA=="
 ---
 

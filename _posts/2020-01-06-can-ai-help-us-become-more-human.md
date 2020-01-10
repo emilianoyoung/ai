@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/can-ai-help-us
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/can-ai-help-us-become-more-human/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Can AI Help Us Become 'More Human'?"
 
 related:
+  - title: "Could an AI ‘human’ become your friend?"
+    excerpt: "Putting a human-like AI in your home, one that learns your preferences for pizza, behaviors or finances, raises concerns about where intimate information could land."
+    publishedDateTime: 2020-01-10T19:09:00Z
+    sourceUrl: https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/
+    ampUrl: https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.5DB73AC546CB69077F0BA2742D9E5347
+        width: 700
+        height: 406
   - title: "How AI is making healthcare ‘more human’"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human, a report said. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team ..."
     publishedDateTime: 2020-01-02T07:25:00Z

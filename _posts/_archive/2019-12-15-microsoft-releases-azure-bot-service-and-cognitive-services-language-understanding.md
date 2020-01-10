@@ -27,6 +27,6 @@ images:
     height: 847
     title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
 
-secured: "GcJnQ1I0RTuKCV/9cI7Rl5Nu6HrPWg7OCLfsr3ZBrk2HT+YqDSPE49ZnxIZtGYYhQ2Z1lP2J8ONIGZc+KmI6R9hcHFgH+fpL81P9QNOfbf03BQiPLkUfu9K9RuCf7AWpgm1d17B2RneGfurxNUOhz37MZegAqzmn0eMHyv+zrPruq23vcQV3qclfdO+wrq06ppKj2Mf9XujhzzgrYSkO2mMTWLYIUS/XwePVGHYKZr8sRwwpEZ6zrRb/an/ZRxeko1aQPpRrod820+RWEsyWtw==;iomo0D4uxqlUf06K4U64gw=="
+secured: "8I/wBipdexSFRFjRf4kuMfxCOgGivco/A5uxg7pew+7ofTFhOb1Xu6mSqQAB3hoqfRnvMEMJzfiO4BNUgo/4tZW0ev4dsd+P1vuKdIFoWS3vf0MbiBzu0eQmQ5oN/LZkB8E+A9j69LWgwJsopw/9ivyDpJU3lc2JepWOpxKuBdxkv3QLbnKlzL7f7VblcvOtfyD09A8LIkRGnF00ci0nSJ0XbbLSyADMYwUbXaFc0SVcP2tHhFXs+efrJIiO+VQz1tJ7TY0GBVXUfPMp9bP7VA==;gYd5CRLd461Eepf5soFiXQ=="
 ---
 
