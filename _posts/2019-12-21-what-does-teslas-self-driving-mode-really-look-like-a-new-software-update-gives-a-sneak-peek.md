@@ -86,21 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4B14C8F358AF3350C318453703B114B2
         width: 700
         height: 481
-  - title: "What Does Tesla’s Self-Driving Mode Really Look Like? A New Software Update Gives a Sneak Peek"
-    excerpt: "Just in time for the holidays, Tesla is releasing an update to the software that powers its sleek vehicles, including a new game and even a preview its much-anticipated self-driving mode. A specific release date hasn’t been announced, but word of its impending delivery comes straight from Musk’s own Twitter account. In it, Musk gives a ..."
-    publishedDateTime: 2019-12-20T22:16:00Z
-    sourceUrl: https://robbreport.com/motors/cars/tesla-added-a-game-and-a-full-self-driving-preview-in-its-new-update-2888942/
-    ampUrl: https://robbreport.com/motors/cars/tesla-added-a-game-and-a-full-self-driving-preview-in-its-new-update-2888942/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/tesla-added-a-game-and-a-full-self-driving-preview-in-its-new-update-2888942/amp/
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 47
-    images:
-      - url: https://robbreportedit.files.wordpress.com/2019/12/https___hypebeast.com_image_2019_12_tesla-vehicles-in-dash-car-game-update-stardew-valley-rpg-full-self-driving-elon-musk-1.jpg?w=1000
-        width: 1000
-        height: 563
   - title: "Tesla's holiday FSD preview shows a Neural Net that's improving very quickly"
     excerpt: "These jokes, while lighthearted, show Tesla’s all-in bet on Elon Musk’s idea that a suite of cameras and a Neural Network are enough to teach a fleet of vehicles how to drive autonomously. Unlike self-driving companies such as Waymo and Cruise, Tesla is intent on not using LiDAR, a component that is pretty much ubiquitous among firms ..."
     publishedDateTime: 2019-12-24T19:34:00Z

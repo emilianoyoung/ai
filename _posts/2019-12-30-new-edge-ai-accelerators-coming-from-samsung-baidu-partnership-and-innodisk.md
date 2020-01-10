@@ -48,9 +48,9 @@ related:
     provider:
       name: Mobile ID News
       domain: mobileidworld.com
-    quality: 56
+    quality: 39
     images:
-      - url: https://mobileidworld.com/assets/AIchip.jpeg
+      - url: https://www.bing.com/th?id=ON.D49E57F93AB6D836EA590873C843A886
         width: 400
         height: 298
 

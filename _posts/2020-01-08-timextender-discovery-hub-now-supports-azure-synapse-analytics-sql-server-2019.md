@@ -1,17 +1,17 @@
 ---
 category: news
 title: "TimeXtender Discovery Hub® Now Supports Azure Synapse Analytics & SQL Server 2019"
-excerpt: "Azure Synapse Analytics unites enterprise data warehousing with Big Data analytics, and allows for querying of relational and non-relational data for BI and machine learning. With SQL Server 2019, Discovery Hub customers can better manage and utilize Big Data analytics through the use of Big Data Clusters using either structured or unstructured ..."
-publishedDateTime: 2020-01-08T18:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200108005731/en/TimeXtender-Discovery-Hub®-Supports-Azure-Synapse-Analytics
+excerpt: "TimeXtender, a recognized global software company enabling instant access to any type of data in the organization to support advanced analytics and artificial intelligence (AI), has announced a new release of its ... was upgraded to work seamlessly with both Azure Synapse Analytics and SQL Server 2019. Azure Synapse Analytics unites enterprise ..."
+publishedDateTime: 2020-01-08T19:10:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-timextender-discovery-hubreg-now-supports-azure-synapse-analytics-/2020/01/08/9078594.htm
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -45,6 +45,6 @@ related:
         width: 700
         height: 466
 
-secured: "cT+O85ASvaqOu/WJnGgtkuyhSGzVQWzcuC8Es/Tv+N+6FZmFlCOle75tdxhqj/o98RHFOlekYKP02G6Qkb90BxPeXNXr+3tfpL83VQz8lAnCvdbjW2zpq/GZpoqxRLBpJ7ptbXuAfuKRqNZ+mWT+x8CzuC8Vgsfe6TxKW2xbo7ixUoUhja54jjpFPPpfIXc6dtR1J7vZW+APTr0XGYdxTQs+10gywXfHOuJzhF31y8MF0OkoXOFxx6H7WUKHsj2fyf1gylNI9l4b8xd1VbFjKw==;3avixCTIkY0QjdntuF1/tw=="
+secured: "5b+JyGsW2fwcnhfwtO2z3rI8G3E1B5p8XxZLK+n4nfHxRglWawkWIfc5Cy4AqxEuOyxMgZdC4JZ1wXTlFa+HzRSSogN8u0EamBlczGFlnP86WaQ2ZlSsLu98BjAQs9ZzUW8FCNvl6aLMDB8/sl08OPaW9oJ16ZiWvjaoPIDktNQO5hJ1o2QNGl43EOTleprZ48FECmwD6tbeXC3hapNE7r4DULaTpsj1BifOfy8eJ72WEPxRuh9Chp2VsDnm9QgsBFql2iPcSst5Vlyi14cViQ==;zBQ/KWiXkWtyvWm9zXadLQ=="
 ---
 

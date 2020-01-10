@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 700
     height: 366
     title: "Jarvisen Translator Review: A translator for serious travel"
-
-related:
-  - title: "Compensation: Lost In Translation"
-    excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
-    publishedDateTime: 2019-12-20T22:05:00Z
-    sourceUrl: https://www.industryweek.com/leadership/companies-executives/article/21953642/compensation-lost-in-translation
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 4
 
 secured: "cY3eeuMryusdtrCU+Cmvqpp0UtCmOCHnxVbm2ws7B9wKb8Cw1SkiETHk0JevlbU03UJ8+oNMtLLcN1u7Kom2nDqHRcGhlbLhG3ONR/Xp4wN8AcR1Uhyk27/OKykj/YouqYe4cXokK+aMQ7ELXgj7mmB1PzPgyOkc+SHpLmyGc876m6fsod8YiEKfaCleHxMGPJ/ypnAlWyAm3mp5ESxfQSBgY6sFQWi6S7jrFYdH6mJnk80SVkgWzzwi6HlXP6nrBK7FqD/OVFc1czzF1V4pqg==;XN1t5PY5FmCQCg30Gvzjfg=="
 ---

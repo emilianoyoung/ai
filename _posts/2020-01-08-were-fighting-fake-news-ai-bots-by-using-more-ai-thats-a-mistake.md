@@ -8,7 +8,7 @@ ampUrl: https://www.technologyreview.com/s/614810/were-fighting-fake-news-ai-bot
 cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614810/were-fighting-fake-news-ai-bots-by-using-more-ai-thats-a-mistake/amp/
 type: article
 quality: 59
-heat: 70
+heat: 69
 published: true
 
 provider:
