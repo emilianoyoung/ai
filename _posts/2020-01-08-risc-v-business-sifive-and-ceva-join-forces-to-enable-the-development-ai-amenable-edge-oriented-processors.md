@@ -8,7 +8,7 @@ ampUrl: https://www.theregister.co.uk/AMP/2020/01/08/riscv_sifive_ceva/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/08/riscv_sifive_ceva/
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -26,19 +26,15 @@ images:
     title: "RISC-V business: SiFive and CEVA join forces to enable the development AI-amenable, edge-oriented processors"
 
 related:
-  - title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
-    excerpt: "/PRNewswire/ -- SiFive, Inc., the leading provider of commercial RISC-V processor IP and silicon solutions and CEVA, Inc. (NASDAQ: CEVA), the leading"
-    publishedDateTime: 2020-01-07T10:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/sifive-and-ceva-partner-to-bring-machine-learning-processors-to-mainstream-markets-300981297.html
+  - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
+    excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
+    publishedDateTime: 2020-01-03T13:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/zglue-launches-chipbuilder-pro-to-quickly-and-easily-enable-the-next-generation-of-consumer-experiences-on-iot-and-ai-powered-devices-1028793357
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.5D034EB12536F1B7D12E4A1F867B4FD7
-        width: 700
-        height: 366
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "5HozZnTYjHsNWhAGH3u36a4aOXO0ib5CN+fq+LuzdrN+FEj2Epzo9WzcXSv++Vqp5X1iouY+/P1EBiSv3vGufl8tvPjt3u5bzlIz3ysLqZYwt0ovAkTRA48yUUzMjnxnmBYZ1jiGlpz4qbnaBkaFKCIT3CbMRxVe2Pk7D4o2hSQr6zWk+6Ti7ekz7fqfGS9rP0SaOs3K5sFylevSkkBtzMmuuadsdENrh1MC/hAMWr+e9rdXkrPXNJV70+EeGmhWC8+/rOVb2BEe6Tr8ArGBeQ==;KmKUzHanjkK1zSD9f+BAuw=="
 ---

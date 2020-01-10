@@ -3,24 +3,24 @@ category: news
 title: "FLIR Systems and ANSYS to Speed Thermal Camera Machine Learning for Safer Cars"
 excerpt: "The FLIR thermal dataset programs were created for machine learning in advanced driver assistance development (ADAS), AEB, and AV systems. The current AV and ADAS sensors face challenges in darkness or shadows, sun glare and inclement weather such as most fog. Thermal cameras, however, can effectively detect and classify objects in these ..."
 publishedDateTime: 2020-01-07T12:07:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200107005299/en/FLIR-Systems-ANSYS-Speed-Thermal-Camera-Machine
+sourceUrl: https://www.ksl.com/article/46700910/flir-systems-and-ansys-to-speed-thermal-camera-machine-learning-for-safer-cars
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: KSL
+  domain: ksl.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.F69BF60D772CD1A28B61771E2D7302FD
-    width: 700
-    height: 365
+  - url: https://www.bing.com/th?id=ON.4F521360CF624CACA23D6FCAB9DF8A0B
+    width: 614
+    height: 345
     title: "FLIR Systems and ANSYS to Speed Thermal Camera Machine Learning for Safer Cars"
 
 related:
@@ -34,6 +34,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "gTbJ+VSmmH/7BtQreuHUAcT7hRwown3nQY4hBSmdmnROM9/So9tHNu+dh/y5faBNyXsp96jx2lxHUcJ1btkT5xIwAf7JKkw15PUYTahnxSVsn0iny4GMzSyK93mZCabbeAvEVG9UOsNtsdx5QWsYiUFqBB3Sf0GmFWELGLY9qEexwSnE6S92fsllIl3W4trZhqCysXf1GbSlMGjgQjAz7wpuSTAQLqXUnX5BVQa+V9p8KET+aLwpvQjbf4WGew/0mj5D4bT2GDe9qD9VL7B5BA==;t9TnoSo4aWDGjEIl6go2tw=="
+secured: "yFhdPFBLn2yWrgkBHwT1u3lBSDdAfnkttnWFHSgaxiaukXS0JMkB7mrtl4X4FTPydWWXx9IG4AGI7ds+b9zVOtbDLugnLj1Crp61XNbEu1YYBXsepd0zGc9U91AHdi4kx8XVY2xH+eZMqGnmuNWBsLdgXGQyrF6cy8hT/Kq2Axdiyb//7CabKgpcjtjkxJcZuASSMtWexeQT047pmNu+ZbCFJNKHD/CW0A1CypNOfPWvf/aA5BSOs//ESiTdt2/Tj3Nl8NCBznwF8zePt0krdw==;rp1nirYOuQ+cgQfXrBrgwQ=="
 ---
 

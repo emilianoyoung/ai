@@ -15,8 +15,8 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
   - AI in Healthcare
+  - AI Hardware
 
 images:
   - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
@@ -162,15 +162,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
-    excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence chipset market is anticipated to grow at a CAGR of 30."
-    publishedDateTime: 2020-01-09T12:38:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968370/0/en/Global-Artificial-Intelligence-AI-Chipsets-Market-Outlook-2019-2025-Projecting-a-CAGR-of-30-8.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 39
   - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
     excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
     publishedDateTime: 2020-01-08T02:21:00Z
@@ -181,6 +172,15 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
+    quality: 37
+  - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
+    excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence chipset market is anticipated to grow at a CAGR of 30."
+    publishedDateTime: 2020-01-09T12:38:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968370/0/en/Global-Artificial-Intelligence-AI-Chipsets-Market-Outlook-2019-2025-Projecting-a-CAGR-of-30-8.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 37
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Outlook and Growth Stance Forecasted Through 2020"
     excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market."
@@ -195,6 +195,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Manufacturing Market Next Big Thing | Major Giants- Siemens, Intel, NVIDIA, Alphabet"
+    excerpt: "An extensive analysis of the Global Artificial Intelligence in Manufacturing market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price,"
+    publishedDateTime: 2020-01-10T11:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-next-big-thing-major-giants--siemens-intel-nvidia-alphabet-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
   - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
     excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
     publishedDateTime: 2020-01-07T00:24:00Z
@@ -251,6 +260,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "6d5MO9xKAZj+lB+iYT/OEskxLt4Z6nvgZOsmD2oqMOB3WoxZ99WeT0JoryW68fjpw588f8j4B+6LE6Q8jHfCYI6Wu8JGE9TLhOBFAZDm80ITvTsyttivHl8VE6Indcam/lmamVXq6TfrSUfXMw8WFNOHGeChLPANdOu38O/fmfcqL3GSnMZJdUhBhqanwAMSZG+0t3+VoPTh6EqNbOcUtNfcNhMQt1MwhjqU6rkPSlFp1Y/MHS23ToeY5UX4uWr8PODToxkFlP1xHFhmu3wwUQ==;MCeTMJ1FTkJoChUgWI6GBg=="
+secured: "Hm3UfLfGf+hSyarHixdEuCDOPAaw6e5r1l2+ICIgwBkk6PO8iWNQtykmUyvr6EwMrRzMdUoLSrLisiaZVmP5EfvDlD3FazNMvXZ5np/A2XRTyp/y/Q0bn4pyCjHQhKgw5SO0MhsPDdND+z5aaPTShrd1Z9AjAmJBhIRF9UQbFD1dpWd4LK1QYGBqEEoBgvptvEmjZkWatJXlBtbdz9b1EYMTnQIWEzTrWlT9BROEAiO0K0mEOfoVCp19pepnLPtYEwgpvAVXtxnT8u/hX1Bq9Q==;U5P7a63OLKsPl6Xpl8rtAA=="
 ---
 

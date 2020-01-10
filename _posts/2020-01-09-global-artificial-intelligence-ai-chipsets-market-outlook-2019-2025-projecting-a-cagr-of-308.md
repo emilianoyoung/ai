@@ -5,7 +5,7 @@ excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Inte
 publishedDateTime: 2020-01-09T12:38:00Z
 sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968370/0/en/Global-Artificial-Intelligence-AI-Chipsets-Market-Outlook-2019-2025-Projecting-a-CAGR-of-30-8.html
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
 
 topics:
   - AI
-  - AI in Robotics
-  - AI in Healthcare
   - AI Hardware
+  - AI in Robotics
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
@@ -194,6 +193,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Manufacturing Market Next Big Thing | Major Giants- Siemens, Intel, NVIDIA, Alphabet"
+    excerpt: "An extensive analysis of the Global Artificial Intelligence in Manufacturing market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price,"
+    publishedDateTime: 2020-01-10T11:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-next-big-thing-major-giants--siemens-intel-nvidia-alphabet-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
   - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
     excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
     publishedDateTime: 2020-01-07T00:24:00Z
@@ -250,6 +258,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "mcV5kjrxkgroLeznCEXh7pgJPm8dMJeIsRq6u/o59fAOEtOLPX0c0Sv3RfpsI6dOkeFfYRWgl7S0DZ0t2QUrv9JZQNpWApLFIWLk612xskVKFnSL7EyOq65yuReHsmgKyCcHWzBiUKeuGCw9k5ByeV7O6cN42KIvFEVdnfJgMrd9n+GrzwGXpkSDrOo0euWiyveZ8OdlZamVyxk1gmnxlQyv+G/f1EyY85UOwyvFDGakYHg+oRXptJNfxbKfr0lUaS4nUiWyJyQkaz5HR9S7wA==;TmPNZvz/IvctmIzlVcPnmA=="
+secured: "9SihT/5qJKhGBDpLt+eb3+Q6eKbDDAZGlwSgIJoR2mble0USg49sp8TMUo/qsGe+sgePIbekOg25s08iAjYvksE5iv3z0Lv3pTET+cH5HApR8BWmOt+I7rRYB7r6VK8uAG12wf28Y9P8M7aJGeZHoP7vCwFsHgwDjmq+JipctxNzBuBfVzTCjSIEVLW4HeL4Xnbjai2nX0k83jxJBHV2EUbPpEKE5xZX9C5XFoRe8L23QxDqzWVIhoQF+T3IB6L4BXfwDE1QBLFGaXdCxbIqLA==;X2NsR9FMStXz6rEzmUM8pw=="
 ---
 

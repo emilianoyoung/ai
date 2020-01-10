@@ -27,7 +27,7 @@ related:
   - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
     excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
     publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop?partner=feedburner
+    sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop
     type: article
     provider:
       name: Fast Company

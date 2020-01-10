@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-tra
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
         width: 700
         height: 465
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T19:26:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Invoke introduces real-time translation"
     excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
     publishedDateTime: 2019-12-23T10:10:00Z
@@ -85,6 +98,6 @@ related:
         width: 1200
         height: 630
 
-secured: "rvHXAqPfKOEQohMGaXbZtI6OEPLGBpNyggbg+WAHSgjZuFOJfIVJ9EofOKQN+d8RBryuoeI2pxreTGKNuZWoF7bMThMSDpHzV+yHx9QQfgxAXLIEaSXi0SkxXTLjLgXy6s5SHyf78YC6tyYqnkqZi7NxtkyPsVn4IBWF36Zpnxg7iZxPX7T81aNXd1pINFaEslEnZo6RWrU+8w17cV88A6DhiyE8KFPRlgoPXUI1wSrW0/0COhILjQM2AXpPZB75CA+9KxHuP1vLvNoHRA7PJQ==;Kfoa3Nr0pBc+B05jvwQrfQ=="
+secured: "FTL/TMrG4n3G5uvgNEzhF+epxmWJILGca20gz2vmDpccl/5T6OpisuPkxKyN57A9Jh225ZJxDUfokcGebpoYlS5Na1xjN5IRHP3o9SrwJ9zuAyFB/4zbj+yS0WlALpFml99LqwkT7eERuZGXdjKx8Ii69ZRnXg9x860zYMRi/ystUUHf73OfucIiEA3fELnziUuLLCRM321HUe54V7gk36CfzvUMKveqAl1Cvy+Vzsi5u3eqBhohaQ6yRURneRwhl3OyG+551XGsp5k0OC6JrQ==;6lUFHiv+MWOk4rAvZBb+yw=="
 ---
 

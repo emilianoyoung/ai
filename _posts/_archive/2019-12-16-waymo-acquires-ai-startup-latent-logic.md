@@ -4,10 +4,8 @@ title: "Waymo acquires AI startup Latent Logic"
 excerpt: "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ..."
 publishedDateTime: 2019-12-16T13:23:00Z
 sourceUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
-ampUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
-cdnAmpUrl: https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -20,35 +18,25 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Durham machine learning startup acquired by real estate giant"
-    excerpt: "A Durham-based machine learning and analytics company has been bought by one of the largest residential real estate companies in the world. RE/MAX said this week it has acquired the startup First for an undisclosed amount — a move that will mean its services will only be available to RE/MAX agents going forward. Denver-based RE/MAX operates ..."
-    publishedDateTime: 2019-12-21T11:30:00Z
-    sourceUrl: https://www.newsobserver.com/news/business/article238583293.html
-    ampUrl: https://amp.newsobserver.com/news/business/article238583293.html
-    cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article238583293.html
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.A01710FAF60066FDCC03D3AB50A79CB7
-        width: 700
-        height: 393
-  - title: "Security intelligence startup RiskRecon acquired by Mastercard"
-    excerpt: "Mastercard Inc. today said that it has acquired RiskRecon Inc., the startup behind an artificial intelligence service for identifying indirect cybersecurity ... will continue to be available for organizations in industries outside finance such as healthcare and manufacturing. RiskRecon Chief Executive Officer Kelly White added that “by ..."
-    publishedDateTime: 2019-12-23T20:16:00Z
-    sourceUrl: https://siliconangle.com/2019/12/23/accel-backed-security-intelligence-startup-riskrecon-acquired-mastercard/
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
+    publishedDateTime: 2019-12-12T17:48:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.63D92D5CDDFFDAEABEFACE63F1E42DB4
-        width: 700
-        height: 466
+    quality: 34
+  - title: "Google's self-driving car project buys British AI firm Latent Logic"
+    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
+    publishedDateTime: 2019-12-12T17:21:00Z
+    sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 19
 
-secured: "dM0PdNjTdHRB9kS3axBN0CLdGcVc7E9LCf/nM7whtl8o1g57CqMaAxifdxM7UOxk+XRj818gGP8xAAUYcKCmvwWZ5YL4r4TXBukC/pADogh905acdv0DQndnL8Hc0zZVrNKg0ndoGgiygoZ+0zO08pprmVgEmkXpNl3Wevsv4ldXoiXjoAg8HIQE70WXZhqagkfXxSu55swx1CtsPHOhE8LibRa5g3EsvD9EsU9TP1ZuNl4Irnpsmi6aQMKMko8YSOD/NQ1ZAevzJT3nkpXQTg==;Z2xewiZYOY3XYO+A7NPI0w=="
+secured: "93dDNPavLZUUWQ9yhbtHlCL8qqLFerI6wYnHCyu3Wp0Bfd8/ambqQEPj5MdtmoE2ozcCc+YeHzeLiprvd8ZkJYXofX0nV1SsQjMgWZLRPn6Sqb9zVYugi3sja+ILv9XY/kb9TBCcVwapyLnboEgFGOOkHjrXPj8GT3tHHWY5TIVon4l6Z6D4gyygRHr4qbXl2MjlUTXtjkIy9l20CmhUi98ILWnj+y35tCczTgDdGonwtzjiPonADcgTgkrzfcOLub0oOp+5nfISDyMuvV768g==;eFkcx3YLrSUXP9sEJsByKw=="
 ---
 

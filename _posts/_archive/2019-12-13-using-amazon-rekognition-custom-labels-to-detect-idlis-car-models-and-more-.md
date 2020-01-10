@@ -5,9 +5,9 @@ excerpt: "AWS recently announced “Amazon Rekognition Custom Labels” — wher
 publishedDateTime: 2019-12-13T03:01:00Z
 sourceUrl: https://medium.com/@cmani/using-amazon-rekognition-custom-labels-to-detect-idlis-car-models-and-more-a87057c9332f
 type: article
-quality: 64
-heat: 64
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Medium
@@ -21,12 +21,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://miro.medium.com/max/1144/1*nPQ0GcIuf1zkLEAczb6b0g.png
-    width: 1144
-    height: 881
-    title: "Using Amazon Rekognition Custom Labels to detect Idli’s, Car models and more ;-)"
-
-secured: "nELXU6BinMB6RnCsTgMZhjwhjFilwV4wg1XPXfywJM05lTEfgJZCGSqa8ja5wtsZzzLEdkJtfzNaoWG6ax1C3y1DDxFQHxwAVGs6+FAQB/xhaKOFhcG19UbadKemQIWCeGj8DHozrSe+pw1lfJgfDvsf9jAK+NPMMB3W4CCtIizDNQgkHcttESD+quxQzmXp7AWHnxHW4Gvu9XnEi3mUq9yjx2OrzjQLy+wpaBIhxUYWoijTs83yHMNWwfkYFt8WoDSYdgbJspFQ9vEAqkBsRQ==;grHW+dzzkfNB5qh7tDUaqg=="
+secured: "GkkT93h6vcj3EjcVLWt5QsymtCxKxqp+DGoifvaMU0oqkJehgpz47xMRukTHjYVXNVK+r8ePDn43B4Nr19ELxrBr93TGmhpTj39M7GxYCNmnrIbp4IcDY8hxPFpn7GGZqaRyo01qvGJ04oogA+ihp+dUhTS2dkO8LUjcFfrw3ySuN4+cAZw5M3gzhgtVSx+KTl0QP8fFYuPsf/HPMMvXu/qh7Jknpboaz89MHS4Dk2g/t2k8LSMFmMgp8O9gwFekI8cfnS/j4j0kKxlt89xEGw==;3UaD1WBDh7I3TLRXk6h/Ww=="
 ---
 

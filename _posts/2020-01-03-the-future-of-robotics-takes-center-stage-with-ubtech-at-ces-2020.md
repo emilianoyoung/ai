@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D48CC30DABF965C2906C0E82721DADB3
         width: 700
         height: 364
-  - title: "A.I. sex robots the future of intimacy?"
-    excerpt: "Matt McMullen, owner of RealDoll, says artificial intelligence could help make sex dolls indistinguishable from real people. “I would say probably within five to 10 years the appearance of a robot is going to drastically improve,” McMullen told the Star. “A.I. may start to approach something in the mammal category but I don’t see ..."
-    publishedDateTime: 2020-01-05T18:42:00Z
-    sourceUrl: https://torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy
-    ampUrl: https://torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy/amp
-    cdnAmpUrl: https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy/amp
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9D931F2482448D4919E8C31905EAAD4B
-        width: 592
-        height: 445
   - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
     excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
     publishedDateTime: 2020-01-07T20:44:00Z

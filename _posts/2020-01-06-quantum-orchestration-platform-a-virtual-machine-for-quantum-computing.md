@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/quantum-orchestration-platform-
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quantum-orchestration-platform-a-virtual-machine-for-quantum-computing/
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 700
     height: 525
     title: "Quantum Orchestration Platform: a virtual machine for quantum computing"
+
+related:
+  - title: "Optimizing High-Efficiency Quantum Memory with Quantum Machine Learning for Near-Term Quantum Devices"
+    excerpt: "An HRE quantum memory unit integrates local unitary operations on its hardware level for the optimization of the readout procedure and utilizes the advanced techniques of quantum machine learning. We define the integrated unitary operations of an HRE quantum memory, prove the learning procedure, and evaluate the achievable output signal-to ..."
+    publishedDateTime: 2020-01-10T13:55:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56689-0
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9607CAF5211D19F9409DE6A4A8916F63
+        width: 685
+        height: 346
 
 secured: "sjpZ6vKJtPtzlBwXpOTYj1pUPHmKO90biCx/46elzwBMAZkrjBx9pNrsGCjNhhV0hKdFiDTq4eiTQ2EoJf9oI1yAxPphExcdOUdzcOCE5oQ4s9aILN0k+d5Hs4uvDhrBOH+ggohGbtQSEnFJUct3LusELtT4eUTJ9sHCTEaO/QrI/C8Idnf6h4UkmhjmdWTzX/4nIIISyYEhGHrDo9P45QJqKNzQyTVR9VXUhaa3Fuy7aX+zz+0kjT9V9rXzOs87mLa/XjDcDEq7MI8+i3rkkA==;9cYYnCgAy2YTL0k1WLPpVg=="
 ---

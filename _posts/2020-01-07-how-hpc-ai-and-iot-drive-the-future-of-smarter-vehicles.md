@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D48CC30DABF965C2906C0E82721DADB3
         width: 700
         height: 364
-  - title: "A.I. sex robots the future of intimacy?"
-    excerpt: "Matt McMullen, owner of RealDoll, says artificial intelligence could help make sex dolls indistinguishable from real people. “I would say probably within five to 10 years the appearance of a robot is going to drastically improve,” McMullen told the Star. “A.I. may start to approach something in the mammal category but I don’t see ..."
-    publishedDateTime: 2020-01-05T18:42:00Z
-    sourceUrl: https://torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy
-    ampUrl: https://torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy/amp
-    cdnAmpUrl: https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy/amp
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9D931F2482448D4919E8C31905EAAD4B
-        width: 592
-        height: 445
   - title: "The Future of Robotics Takes Center Stage with UBTECH at CES 2020"
     excerpt: "Each robot is designed to inspire children's imaginations about space exploration while giving them access to advanced, highly programmable technologies such as a new Artificial Intelligence system, a camera with powerful image recognition ability and ..."
     publishedDateTime: 2020-01-03T14:34:00Z

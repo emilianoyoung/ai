@@ -26,62 +26,47 @@ images:
     title: "A.I. sex robots the future of intimacy?"
 
 related:
-  - title: "The Future of Politics Is Robots Shouting at One Another"
-    excerpt: "The risk arises from two separate threads coming together: artificial-intelligence-driven text generation and social-media chatbots. These computer-generated “people” will drown out actual human discussions on the internet. These efforts will only get ..."
-    publishedDateTime: 2020-01-07T15:58:00Z
-    sourceUrl: https://www.theatlantic.com/technology/archive/2020/01/future-politics-bots-drowning-out-humans/604489/
-    ampUrl: https://amp.theatlantic.com/amp/article/604489/
-    cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
+  - title: "Export Controls Threaten the Future of AI Outposts in China"
+    excerpt: "Other US tech companies, like Facebook, are effectively blocked from operating in China ... an academic at Oxford University who writes a newsletter on Chinese AI. “Google, Microsoft Research Asia, and other multinationals with R&D labs in China aren't doing offshore work out of charity or some desire to help the Chinese military."
+    publishedDateTime: 2020-01-10T08:00:00Z
+    sourceUrl: https://www.wired.com/story/export-controls-threaten-ai-outposts-china/
+    ampUrl: https://www.wired.com/story/export-controls-threaten-ai-outposts-china/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/export-controls-threaten-ai-outposts-china/amp
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 89
+      name: Wired
+      domain: wired.com
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.D48CC30DABF965C2906C0E82721DADB3
-        width: 700
-        height: 364
-  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
-    excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
-    publishedDateTime: 2020-01-07T20:44:00Z
-    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
-    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
-    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+      - url: https://media.wired.com/photos/5e177e6287b5f30008dd4e8e/master/pass/Business-AI-US-China-1169747427.jpg
+        width: 2000
+        height: 1333
+  - title: "How the cloud fits into the future of healthcare innovation"
+    excerpt: "At the same time, cloud providers, such as industry leader Amazon Web Services (AWS), continue to invest in industry-specific infrastructure ... push us to think like for-profit companies and embrace innovations such as machine learning, artificial intelligence, augmented reality, and others. This is the future of healthcare."
+    publishedDateTime: 2020-01-03T20:49:00Z
+    sourceUrl: https://www.healthdatamanagement.com/opinion/how-the-cloud-fits-into-the-future-of-healthcare-innovation
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.C46C08A6F7A8A8BE12E3601A91D69C03
-        width: 700
-        height: 269
-  - title: "The Future of Robotics Takes Center Stage with UBTECH at CES 2020"
-    excerpt: "Each robot is designed to inspire children's imaginations about space exploration while giving them access to advanced, highly programmable technologies such as a new Artificial Intelligence system, a camera with powerful image recognition ability and ..."
-    publishedDateTime: 2020-01-03T14:34:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200103005061/en/Future-Robotics-Takes-Center-Stage-UBTECH-CES
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
+        width: 1200
+        height: 630
+  - title: "What Chess Can Teach Us About the Future of AI and War"
+    excerpt: "Will artificial intelligence (AI) change warfare? It’s hard to say. AI itself is not new — the first AI neural network was designed in 1943. But AI as a critical factor in competitions is relatively novel and, as a result, there’s not much data to ..."
+    publishedDateTime: 2020-01-03T08:58:00Z
+    sourceUrl: https://warontherocks.com/2020/01/what-chess-can-teach-us-about-the-future-of-ai-and-war/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
-        width: 700
-        height: 365
-  - title: "Teachers, the Robots Are Coming. But That's Not a Bad Thing"
-    excerpt: "I don’t think artificial intelligence is there yet.” But researchers are trying to get there. Consider the work of Cynthia Breazeal, an associate professor of Media Arts and Sciences at the MIT Media Lab, who leads the Personal Robots group. The group is conducting randomized control trials of the use of an AI-powered, teddy bear-sized and ..."
-    publishedDateTime: 2020-01-07T22:33:00Z
-    sourceUrl: https://www.edweek.org/ew/articles/2020/01/08/teachers-the-robots-are-coming-but-thats.html
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
+      name: War on the Rocks
+      domain: warontherocks.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.A112C5E86273E0A498433C651D2AF5BA
+      - url: https://www.bing.com/th?id=ON.67B5BE24DA60B5CF52C4C50295E14CE1
         width: 700
-        height: 365
+        height: 447
 
 secured: "fxzBt1QXaehgJUdj1Ftk8unZNbljHNis0WuW5yGjO8+eyCwpVTBYjqylM0nNsriAJ7/Anfpy6T72l86gxuoYsl0o5RkMWacLUB/TF4QKGA7khkz+6PRNhbrpEi0lMWChY6QnYFaAAnIaAqeFe//ea4cmb5i4Qnn/hQ331hgMoGMhGIZUJ1SYGXZDderaqIqcG+BQhrnJS8bpGnzOniVkAKICNjcoE54HtvVmNIjMAihi8HKM8mSEzId64LgqK2ifgWdV8lDx4xEFSHS561UOHA==;jONbE3BomLZsTbIa53+BXA=="
 ---

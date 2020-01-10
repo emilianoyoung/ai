@@ -5,8 +5,8 @@ excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of techno
 publishedDateTime: 2019-12-17T09:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
-
-secured: "Uba2ZZcAGCL4MkqvYIWzEBCKOZIxajCsY973pEZYlq6ZXOo5pKMAkNQ9q2JPdWOxpEgIR6ENZEUUQvo4UhfbqU0zoq2nZ+QlfpnuSFqHMQ443we3cCbD6Cki7sgAwDma4WvS2HrwZ/52lkbym8vwTZ0gxsyHdVP51WK7sIRcS27YV8rJHoIxvPEAWZPtDCYo/uvfM6eJPz8zAXXYms05ZpCpaISsYnZft78PeSKalu3kFtw1yY4KusmHzYIeo8rHgOKJnJARUHeb/qf1edYNvQ==;TssoCyM35QBbyfiNwgwYIA=="
+secured: "bzBXyfOTUiw9BWZT3SIcf7c8x6QB8bE0NB7LhIioaBrOX+tP2klLlFPGkXLU6mF1HVBo0JhKPSvHLpuBd1EQJ39vvLPJOoe8QE4ttNBIrbdgfoCwjTgQ4lEpY0/7vV2XpkJrKKMKUSVMRqvbxM3ECQWuykQWobi1WH+sGLordmKGTH7vfvSE914IxQz0xaqqcrNHS7eoRmODyo/8C+1w9VyXWgAfczumlVK8torihsEvOEjKcv2eRRZ7Q9kqpDIqbUoPY+8H7SBovrVJefDdcw==;dpZMydqIIkEj3dkg35f4xw=="
 ---
 

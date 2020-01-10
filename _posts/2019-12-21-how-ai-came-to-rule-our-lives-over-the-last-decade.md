@@ -49,11 +49,7 @@ related:
     provider:
       name: Medium
       domain: medium.com
-    quality: 69
-    images:
-      - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
-        width: 1200
-        height: 744
+    quality: 49
   - title: "What is the Procedure to Start a FinTech Company?"
     excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
     publishedDateTime: 2019-12-29T02:05:00Z

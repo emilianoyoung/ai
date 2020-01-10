@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.68348F25697C1CAD8871386CB909E695
         width: 700
         height: 426
+  - title: "Samsung's Neon explained: Just what exactly are these 'artificial humans'?"
+    excerpt: "While other companies at CES 2020 looked to the future of artificial intelligence, Samsung brought a bit of futuristic AI to ... \"They can serve as an individualized teacher, a personal financial advisor, a healthcare provider, … a concierge … an actor, a spokesperson or a TV anchor.\" What Neons might be able to do for you Although we ..."
+    publishedDateTime: 2020-01-10T12:08:00Z
+    sourceUrl: https://www.cnet.com/how-to/samsungs-neon-explained-just-what-exactly-are-these-artificial-humans/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.C373B4C38929EC46C65A4AE7D0B0DD59
+        width: 700
+        height: 466
   - title: "CES 2020: Artificial humans? Samsung Labs' Neon project has a lot of hype to live up to"
     excerpt: "What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from machine learning and general AI to neural networks. Read More Instead, Neons will be called Frank, Natasha or Hana, and they will be your air steward, teacher, doctor, personal trainer, or even the anchor presenting the news on TV ..."
     publishedDateTime: 2020-01-07T16:11:00Z

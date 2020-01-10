@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T13:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/zglue-launches-chipbuilder-pro-to-quickly-and-easily-enable-the-next-generation-of-consumer-experiences-on-iot-and-ai-powered-devices-1028793357
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,39 +23,21 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
-    excerpt: "At CES 2020, Avnet is launching a new Partner Program designed to provide developers with a place to build complete IoT solutions."
-    publishedDateTime: 2020-01-08T14:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/avnet-launches-iot-partner-program-140000552.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/avnet-launches-iot-partner-program-140000552.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/avnet-launches-iot-partner-program-140000552.html
+  - title: "RISC-V business: SiFive and CEVA join forces to enable the development AI-amenable, edge-oriented processors"
+    excerpt: "which streamlines the silicon prototyping process by providing would-be chip designers with access to specific patent-protected intellectual property of participating partners. CEVA will provide its CDNN Deep Neural Network machine learning software compiler to put cloud-trained AI models onto edge devices for handling inference tasks ..."
+    publishedDateTime: 2020-01-08T10:12:00Z
+    sourceUrl: https://www.theregister.co.uk/2020/01/08/riscv_sifive_ceva/
+    ampUrl: https://www.theregister.co.uk/AMP/2020/01/08/riscv_sifive_ceva/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/08/riscv_sifive_ceva/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 9
-  - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
-    excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can seamlessly connect devices that address ... simplicity—by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Partner Program speeds solution development Avnet’s new ..."
-    publishedDateTime: 2020-01-09T07:11:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200107005104/en/Avnet-Launches-New-IoT-Partner-Program-CES
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
+      name: The Register
+      domain: theregister.co.uk
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.713DC9CC9D1B54B56AC11B7B0B956A57
-        width: 700
-        height: 365
-  - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
-    excerpt: "Using Avnet's IoTConnect platform, powered by Microsoft's (News - Alert) Azure IoT Suite, developers can seamlessly connect devices that address ... by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Partner Program speeds solution development Avnet's new Partner ..."
-    publishedDateTime: 2020-01-07T14:11:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/07/9077502.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      - url: https://www.bing.com/th?id=ON.66AEDBB5E8C8D1C27903F85A68BE0B5E
+        width: 648
+        height: 448
 
 secured: "duf/O7AxMrYsI0U04NvCIkXIloLN2MymwwRUHfcfzdQD2NCfTODzehJ5UYjRhtk7og/j4ofPKeRn0O6+Mjs7hO9bDjKUEszu1vTiOsm01+kdLNSNqPgDXR6Y9l2CH97OF2KZOs9Sn6/IPC/mZVMZZ47ZFVa/KZH9bgqczM3CQ7ooe30F19Ms+0vLx2gmCCNswC0kWdJ/H2GE1AamdWyF5fdPSRh7eDjsu9KKpzeHTGh4SJhwG0AwkCxGDGQkKiigQhqP5g4fDI2hUyDpp3y+mA==;7sNP8OQKEM59DHpeFpeIvA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-deve
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-develop-new-ai-chips.aspx
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Baidu Taps Samsung to Develop New AI Chips"
 
 related:
+  - title: "Baidu and Samsung Move New AI Chip Into Mass Production"
+    excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wide range of AI ... However, the tech can just as easily be used for speech recognition, image processing, or self-driving vehicles. “We’re expanding our business beyond mobile to datacenter applications by developing and mass-producing AI chips,” said Samsung Foundry ..."
+    publishedDateTime: 2019-12-20T22:27:00Z
+    sourceUrl: https://mobileidworld.com/baidu-samsung-move-new-ai-chip-into-mass-production-122005/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D49E57F93AB6D836EA590873C843A886
+        width: 400
+        height: 298
   - title: "New edge AI accelerators coming from Samsung-Baidu partnership and Innodisk"
     excerpt: "Baidu and Samsung Electronics are planning to begin mass producing a cloud-to-edge AI accelerator chip in early 2020 ... The chip also accelerates the ERNIE pre-training module for NLP to three times faster than the conventional GPU/FPGA-accelerating model. I-Cube technology connects a logic chip and high bandwidth memory with an interposer ..."
     publishedDateTime: 2019-12-30T20:29:00Z

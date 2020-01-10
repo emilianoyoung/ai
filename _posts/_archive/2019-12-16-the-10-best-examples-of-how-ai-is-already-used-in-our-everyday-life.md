@@ -4,12 +4,10 @@ title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
 excerpt: "you can request a self-driving car through Google's sister company Waymo to drive you to and from work. There are many ways artificial intelligence is deployed in our banking system. It's highly involved in the security of our transactions and to detect fraud."
 publishedDateTime: 2019-12-16T05:15:00Z
 sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/
-ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/amp/
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df6aaf825ab5d0007ce77d2%2F0x0.jpg
-    width: 1200
-    height: 800
-    title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
 
 related:
   - title: "How AI ruled our lives over the past decade"
@@ -44,6 +36,6 @@ related:
         width: 600
         height: 315
 
-secured: "TSQ1156zng8Mhn4rmjdyWUREPeaHnFapUbUCmKtyHQyFFYlreBZkkil0hxlkuT5ikkhwPcaQKObJlUSMVSna/u4o42vfBaL96JLE3SX9P1BB9yi4emaNzOLs4COriM923c4g8+TSE8Z2JUyWQNf6swP+kgG0Bf1C5yvIcIbpOSpPtfYeQ0gGDdOR22z1N+zu/cHPPlJvZDN0F3Sq0+DpTEuGjXoJwiMX+xusDLK0vHlucGKGPsK4cdRmc7dDyBu5qk8r8g9tJ1wM5lLE3zZiEw==;wR5GYF27SL25TGBgmH5uKg=="
+secured: "sd1AOhcfxMDfe66bBF6su6WTUKpf2R57dkOAchRn7Efkb0p4pjz+4q2Igt6N551AQMTmRovZHDUgjaaA56jmxwNGzwdFyCmJqb65ACkXDlUhCdLq3fvMx4ZrBRNvv4nyuP1QnBLe8xFly2j0GxL4ayVYBI86OWZd30jgKlmpL+AMd75cjrqHmyt96tX4Kq+J3L/dOo7l6CIeoBaJYBOZSvcqdlgPkhC8Kut8wGUvS4HAe/UsrreEtXMNyxoLx0GYUVTr3LgqMnIs07hXJk705Q==;UXEb9np7d6RJWtDvV0qg0w=="
 ---
 

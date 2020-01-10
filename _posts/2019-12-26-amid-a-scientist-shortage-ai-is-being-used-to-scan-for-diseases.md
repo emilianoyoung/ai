@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-26T20:51:00Z
 sourceUrl: https://finance.yahoo.com/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html?soc_src=community&soc_trk=tw
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,34 +23,32 @@ images:
     title: "Amid a scientist shortage, AI is being used to scan for diseases"
 
 related:
-  - title: "Scientists develop cost effective method to diagnose leukaemia using AI"
-    excerpt: "At a time when Artificial Intelligence(AI) is growing in importance in the field of medicine ... The study illustrates the potential of AI-based detection in supporting standard methods of cancer diagnosis and the quicker commencement of therapy. \"We aimed to investigate the potential on the basis of a specific example,\" said Prof."
-    publishedDateTime: 2019-12-21T11:25:00Z
-    sourceUrl: https://www.ibtimes.sg/scientists-develop-cost-effective-method-diagnose-leukaemia-using-ai-36338
-    ampUrl: https://amp.ibtimes.sg/scientists-develop-cost-effective-method-diagnose-leukaemia-using-ai-36338
-    cdnAmpUrl: https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/scientists-develop-cost-effective-method-diagnose-leukaemia-using-ai-36338
+  - title: "Doctors turn to AI amid scientist shortage"
+    excerpt: "A shortage of doctors is escalating across the U.S. as Baby Boomers continue to live longer. Pathologists, the scientists who study disease, have been hit particularly hard, leaving companies looking to incorporate artificial intelligence into disease scanning. Yahoo Finance’s Dan Roberts, Heidi Chung and Anjalee Khemlani discuss on YFi AM."
+    publishedDateTime: 2019-12-27T16:12:00Z
+    sourceUrl: https://finance.yahoo.com/video/doctors-turn-ai-amid-scientist-161227530.html
     type: article
     provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 59
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.060BD16E70C7F3B1EE5C611C1219A13B
-        width: 640
-        height: 426
-  - title: "Leukemia Reliable Diagnosed by AI in New Study"
-    excerpt: "In fact, we tested various methods from the repertoire of machine learning and artificial intelligence. There was actually one ... the diagnosis would then happen earlier than it does now, and therapy could start earlier,” Schultze concluded."
-    publishedDateTime: 2019-12-23T13:12:00Z
-    sourceUrl: https://www.genengnews.com/news/leukemia-reliable-diagnosed-by-ai-in-new-study/
+      - url: https://www.bing.com/th?id=ON.8FDD3BD5D8F91091FEE0C337D65B57F6
+        width: 700
+        height: 487
+  - title: "New Beaumont research puts scientists one step closer to newborn screening for autism"
+    excerpt: "The preliminary, collaborative study used Artificial Intelligence, a computer-based technology which scans a map of the ... “We are always looking for new ways to make a difference in the lives of our patients,” Warner said. “Getting them into therapy early on is a proven way to make their path, and that of their families, easier and ..."
+    publishedDateTime: 2020-01-02T20:14:00Z
+    sourceUrl: https://www.themorningsun.com/news/new-beaumont-research-puts-scientists-one-step-closer-to-newborn/article_0b918e2a-f2e0-5a36-aa41-a4c9bddaaad5.html
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
+      name: The Morning Sun
+      domain: themorningsun.com
+    quality: 17
     images:
-      - url: https://www.bing.com/th?id=ON.43E0CD4311F8FEEA2F756C0530B4462E
-        width: 500
-        height: 367
+      - url: https://bloximages.chicago2.vip.townnews.com/themorningsun.com/content/tncms/custom/image/eff0330c-38fe-11e8-ab21-032ded45a81e.jpg?resize=600%2C600
+        width: 600
+        height: 600
 
 secured: "woUlpNwfeFk9UQuqxOOrmPlPLqJNFkh5A5rMtrIjuTzPRv6+Wz1nyLka/8AIhJBp6VV6JQPf/rhSWtDqTa42kKpo6b5jWeLMQcLQWvx6gXrlO7iQObteO40dm79B+d6Nf1f341E/qRda002jtGFrUoTgKESDm1S8IbUVE72/AelcG25SxqS8Rio7hbtp0V6ySd5ajvTXrQxmRQIBQbsGrpVKTDCauER/pXJ4lwFYTXU4RSLlaO6FQPfdVAUxIOzVrpUjwMPCncmb+5EWNn7atw==;8UnfwJt5pg7PdV2jI2z3jQ=="
 ---

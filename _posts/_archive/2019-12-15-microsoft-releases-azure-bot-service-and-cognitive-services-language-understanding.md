@@ -5,8 +5,8 @@ excerpt: "Microsoft Azure Bot Service and Microsoft Cognitive Services Language 
 publishedDateTime: 2019-12-15T00:00:00Z
 sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
 type: article
-quality: 93
-heat: 93
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
-    width: 1575
-    height: 847
-    title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
-
-secured: "7hGHcCD2pM/9UnnR7LNpXZo54gCnDZm6L9wrCbHgxjC3CaTg0/ndIgKnW/0atnXP4GadnvfafoIoWI6rOUwK7uE0QseEJOXumMD9Gy67yizuJBYEpfF+UtNZIgIpxehjN4VWcxfmiDFaT4gP9VxVP7+38QdbaMY4+r4UOGAsA5EsmBX9VTW7G3kMxQxFLb2W/9eJKz0YU9e4UBocoLiUVF7PGcyBKD9XGa0tAlX12GDezGiSL82ARDElD3HOUjoTSuoFjBUDDbfF3/wZMxqpQQ==;plGg/O9ADxYFgiWBpTvYpQ=="
+secured: "hBbOZI5Gn8CWj+AYog4J5tBPokWBYjlhUtQSwAtlI2frbXeowbRkf9gWYfzv3Qnxc986MsJ0fmxmDHs68SQKrA40nQkNrvhyMGHCIPRpFTr+BAYWMeMmyuxr+ojjK739M1Rr1l9LLB5L5XA54Akom1mc4cqa0ZE3lLkbsxWTtwlZ7R2ZUJf3Col1mUIC5sQ0QZ3mrfwkJBo7/cN9w2ru2CgwsxJIsO24No+eWiP+3j8XIXPRkuWkr4f0kI8LmrT49vgGR0vJcTNSqdgTVHgZmA==;poOsy737TcyteYAEOhg4KA=="
 ---
 

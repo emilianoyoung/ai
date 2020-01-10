@@ -5,7 +5,7 @@ excerpt: "This article will cover what companies who have deployed or are consid
 publishedDateTime: 2019-12-21T00:09:00Z
 sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
-    width: 1200
-    height: 744
-    title: "Computer Vision and the CCPA: What You Need to Know"
 
 related:
   - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
@@ -85,6 +79,6 @@ related:
       domain: psychologytoday.com
     quality: 26
 
-secured: "p9Vr2BkZ5DlUFO1mtr8vMCocY5NHFtXm5jIGNItM6RmFbq8NqF9aaKnW1j35jZ6Ah7hBHV7jzPHupKL3FfB/l41yGU1XHiRNEGfJH+AsFZF45tnyedZUDMWRHTd2wr7bKlwuSB5VV0od2YrFo2eLeDUXVWoOgmLQrEcwjFOjRIoTomaz0WoppwHUD04U8B9CIl2lZERmSoP7+DV13yFpNVberAaNSpILMel53Kb5+j904hCgVjhmiHt4A2CuETuVXtMxeJPr1Y0WqTEfxc2QXg==;7yabF7Qn7CDH7OpX3pUFLw=="
+secured: "ZKQx25uHETGd4B+wm77RNk/ML8TwAmIo9PzlV6omftyBZQWxDPICY910JYL1DRVjh0QnzFA4qCtAfjj5BRwGNHIcVYB9uE+rRq/tSfopxk/N3bZjnS1lFp3snWOmmpREW86iCyG4qKmTxB3LU64WY5rIdpGOrKzXUn5B/+jfiWw+ajKlgYutPuH3deHO4MlYAaYESHkJbReNwTYtsKT2JCyz7RnDeoFEc/E5eug9OBUh1Fg7xeCt/6LUjx2LYgt3S8P7cA/i8DvfgTAf13WcJA==;P4rHVGTQsevEgq5cuAHJyQ=="
 ---
 

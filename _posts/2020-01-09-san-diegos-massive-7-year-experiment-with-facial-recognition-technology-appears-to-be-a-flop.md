@@ -3,7 +3,7 @@ category: news
 title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
 excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
 publishedDateTime: 2020-01-09T13:00:00Z
-sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop?partner=feedburner
+sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop
 type: article
 quality: 27
 heat: -1
@@ -38,6 +38,6 @@ related:
         width: 600
         height: 315
 
-secured: "JcAaBkxbsRI4UFI+eZLXFCRk4MROoyxKY30kSneS1Uxhloy1FbBNs2xMGADdcx6N9fAD3RF+4zgiAJ2OlTfIJb+78Z7TL9H4iNa58gc/nGDGl7RllLBFm5evIHzufPxSebqMXZwXhNAPMbwwDV0tjmvvUv2FQqWOpsZz3qT92USus9oiLcsnO2dDGx52eb2/hl/LvfOKAhWEA8PJyXccT1/sZsHOKPR7hke8Txcng2VjhZ369bL0PwSoVIegWrr9aew/gJ0SGAW5GaOuRBl0PA==;lyVin04EHM/yUV2e9yiRZA=="
+secured: "auE6yeM2oxXvuB4BjPgideB0G4noRRylAKieGTLFpxHOmonNS9SciEWfx0tl5rjZV8zet4VKAfyCKjgFtok2xA5H8jI929NOF4KfkMmm62BWJNHE9i0TMdDYbBXWj5lThWHy98P/+WUrBjx6/L3mgXjsi/FZb8hc2tHWbk8wKmDmBNu17eOkoZzQXocrrBSP0FzW4ouoI4goUUfmbMLh9IaYvx986CD17VUYtKzpytdUtFMg/ZUzHb39H8duvAIM5VQ8lsm+uCV+pmFNMT5cXw==;iPvJaX5rx1Mp1tysjcze0A=="
 ---
 

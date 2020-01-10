@@ -85,6 +85,15 @@ related:
       - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
         width: 700
         height: 467
+  - title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
+    excerpt: "Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep neural networks to maximize performance, battery life and to add new intelligent features. Cloud-based AI inference is not ..."
+    publishedDateTime: 2020-01-07T11:11:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-sifive-ceva-partner-bring-machine-learning-processors-mainstream-/2020/01/07/9077061.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
 
 secured: "PWAsjIOa6AMPuf2hOboJAGuBkKUCzsYTc4HcC4xu30wAzKO0y7MLp94NFJfFgU5LX5AkwpKdbzvQYVYtGirmL1m+FCuz695Y9c70nLxOpgjxJndLFP04rdyXfN1d/hIkj9AKRwq7rAQYpL32LHCngXIlkUOwMff99IhbHbATqI0nxQ50XS9CtCeX/2OvUe4I0VCkguOtgMqQiP1IuQRQdLoK5+9HccSLIoPCJ+n/fidPUxF2ErLnI5O0ARif/7YpoyT9k/UYpQuSa5sD65cEgQ==;u7l8zpSbwZA0nFGhlyzSYw=="
 ---

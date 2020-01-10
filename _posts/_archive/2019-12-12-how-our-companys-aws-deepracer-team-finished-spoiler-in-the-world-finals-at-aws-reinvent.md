@@ -5,9 +5,9 @@ excerpt: "After fighting through a tough round of 64 internal teams to win our c
 publishedDateTime: 2019-12-12T00:00:00Z
 sourceUrl: https://medium.com/libertyit/how-our-company-deepracer-team-finished-spoiler-in-the-world-finals-at-re-invent-62bcd02e1eac
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: Medium
@@ -21,12 +21,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://miro.medium.com/max/1200/1*PL4TKfftxhiVpzlD8ESpbw.jpeg
-    width: 1200
-    height: 900
-    title: "How our company’s AWS DeepRacer Team finished *SPOILER* in the World Finals at AWS re:Invent"
-
-secured: "i0bP1wrt0tuK+rsnOSB+KlCm6tkFAA0CI3jd2IiBiiVyaX3AnWAzCELkhpIME7PVzculZ0BGa0H4H7ZxP53T4NgWDL3OEbs5oUtoStivNAj6Y1rnf9VBqfjzYIJzjWL57zOBbrGU7lZf/68c+kSJvbz7pQ3sLZn66wZfWiJsdfCBhAZp1Z+d6kWIwMjMzJJaL5AJr3diHkpcsq6VbG2JMSjRG+v8KYn+YjISqF4pDPCdQfnbKWgk0xJ+1ER2MEOmBCNm8jE0cnb79FTYHH4WpA==;Mf2efSsxxI6rSKW+7OmXSw=="
+secured: "kOle+XRvU9hl/W1LuJu0KdcQprsvwmodD5gATs2cOZgkHEBnIOCcg3WSEBhaNyXAuc42xfM4+9DrM5VoOQzcxoaTqKlQ9JwN844+K7SMkXtzEuF/7JOsfnMS13yomKCuIOcU4mC3eb04NiyXeLp8yc1Jhnd/2CUxXC+MpDjjaNdRGCHvo4ePsQsCgl3IXp3uSAv2RQ4/Gm+t295mik7nwkiBYCqxq2CslFNu0iDrUQbUCW4LvlJoPQPJjfylkqLilFHDc8qE0TFoTgaKOZUs4A==;CLcJzJ6LF0ecoaKkx8L66g=="
 ---
 

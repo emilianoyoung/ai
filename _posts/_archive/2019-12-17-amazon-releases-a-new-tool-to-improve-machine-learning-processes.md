@@ -4,10 +4,8 @@ title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
 excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ..."
 publishedDateTime: 2019-12-17T09:39:00Z
 sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
-ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453
-    width: 1199
-    height: 675
-    title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
 
 related:
   - title: "Amazon Makes Machine Learning More Accessible To Developers"
@@ -81,6 +73,6 @@ related:
         width: 700
         height: 288
 
-secured: "LqHfTAo1tNz9jK7CIlXqB3gKvMpeIAp+Ut4FmebOMvcuQHvmTZrNd7JLBepyDsOFj7I3UEHr8eSsdyM4BrOC+3Y7J3xucIbSdK7jEayTDzfoGJwNLSdOm2soLDiSRKaxew8LaFV1f7QunskJZMgePRmBWMbtWM5XtgbdkkS0tM8Bzole2g7+GZ1Qtt2gOj0KgUnGiKPqhhDvGVRROce/hz7BgmGkMasIE0MfoNIPVcsJgy21f/WBEVPwIaJhBSkAVGo6Q89DBF8pzHm7KCFGhA==;sxi6Br+FiRashbyQ5KpGkw=="
+secured: "J5RT4qlQpV4gL+5P388df4ZlqZflQSsrytCkVRH3HSMSy04IZuzZDwD5ch7Vi7D6NOQzercjL98xdfhvaLXn2uCkYNiKS2vL6s+PhLEw6j6AV/d+HPFxtBKxwRc72mHYrJl1jJ6Ktn24oONl4VEkrD55qkg7S7FUfmRgkRZNVEztDgBDSyy3AfI6t9R4/LzLCQ5iiW68iLHqjkAuroak5kaC7jblJMgR/SSmQbN85z934rnbvJG9cG4bvNjdpqSXPwRuesVsVgpH9cgqHaH9cQ==;HeKOkYOVcCQt4xrwlCoVzQ=="
 ---
 

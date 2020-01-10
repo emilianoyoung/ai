@@ -5,8 +5,8 @@ excerpt: "Waymo has acquired Latent Logic, a business set up by Oxford academics
 publishedDateTime: 2019-12-12T14:05:00Z
 sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://www.telegraph.co.uk/content/dam/technology/2019/05/07/TELEMMGLPICT000195539538-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=1200
-    width: 1280
-    height: 799
-    title: "Alphabet spin-out Waymo chooses Oxford for its first European driverless car hub"
-
-secured: "KtoUYJo/rENIliaA6F9TSlmf1EA0dO+vc9X1t7b/vaTLx2jkT86oO9Fm11+JfCrDvv5lZUAVjYl4O6VGYK6WGY4Ad78lI1k0r8SPqvZYwmFPYWYnRsXvSmBonlMOV8bVPsX88GKYoIO+pjXYe7VXY4gq6pg1pHo8fxKRDH6ANYPc1b26JzmYCEd0lrUgQvQi7sHkUUoM7cY9xt6tmw6xhvz9gyhqSgOjlvHwm996IEvy/fc9ZIDkcQNcFiqu35/cHC0IfoEu5LCj22FCXNutyQ==;RYeJiSeekGlJN+YoF6wWOA=="
+secured: "zUEAFfZ2JB1lbVhqZEBIoCaUll7xYJ2d5UCGtwI97fdevEEeCKRvxfQDE5wwBGRMF8Tl1KbjNM9PvZ5ioGsE2xzxnt35UNR4poFRFJjTM6f369OAg1PecxrlOiHhT8v9EJkf7TXvwo+NX07EGJrs27phfQc+tNVfDxDpAhMHcmbUiWRnzq+iO1ga7+EvPqAC1mT6sOlMVL+xKQAbbg+nZIDvn5jLP9v9UqtEmJG9Tz+kZM33ANBYMPDtfj97pTJOxvQ5AfDZJL3cKZichkopHQ==;nYGZ48EWZ0sZ4kLy6MJo7w=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
 type: article
 quality: 74
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -120,19 +120,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E56E5DB4E50283C044BD885D09C73150
         width: 700
         height: 525
-  - title: "How the cloud fits into the future of healthcare innovation"
-    excerpt: "At the same time, cloud providers, such as industry leader Amazon Web Services (AWS), continue to invest in industry-specific infrastructure ... push us to think like for-profit companies and embrace innovations such as machine learning, artificial intelligence, augmented reality, and others. This is the future of healthcare."
-    publishedDateTime: 2020-01-03T20:49:00Z
-    sourceUrl: https://www.healthdatamanagement.com/opinion/how-the-cloud-fits-into-the-future-of-healthcare-innovation
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 41
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
-        width: 1200
-        height: 630
   - title: "UK data science and AI predictions for 2020"
     excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
     publishedDateTime: 2019-12-30T08:06:00Z
