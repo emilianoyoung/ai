@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AB7310F35FB91CA6CD7DCD7B7218F558
         width: 700
         height: 393
+  - title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
+    excerpt: "Facebook announced limited changes on Thursday to its approach to political ads ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China ..."
+    publishedDateTime: 2020-01-10T02:31:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.3668D921E1E198B6ACA5CC76719A7619
+        width: 700
+        height: 367
   - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
     excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to automatically detect ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal of confusion in understanding the basic facts of current events. “"
     publishedDateTime: 2020-01-08T22:44:00Z

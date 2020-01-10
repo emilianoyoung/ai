@@ -24,19 +24,6 @@ images:
     title: "Qualcomm's new Snapdragon Ride platform is first step toward self-driving cars"
 
 related:
-  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
-    excerpt: "Its foray into safety-autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Tesla and other automakers have their own in-house initiatives. Ford bought artificial intelligence start ..."
-    publishedDateTime: 2020-01-09T18:30:00Z
-    sourceUrl: https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0516822449BB2C38F7B31D10067E9D27
-        width: 470
-        height: 246
   - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
     excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
     publishedDateTime: 2020-01-07T19:22:26Z

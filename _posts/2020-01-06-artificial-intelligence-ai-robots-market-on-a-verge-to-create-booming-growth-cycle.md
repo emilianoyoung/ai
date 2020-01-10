@@ -146,19 +146,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
-    excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai) Technologies Co. Ltd. (a Huawei Company) 7.13. IBM Corp. 7.14. Intel Corp. 7.15. Mythic Inc. 7.16 ..."
-    publishedDateTime: 2020-01-09T12:45:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
   - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
     excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence chipset market is anticipated to grow at a CAGR of 30."
     publishedDateTime: 2020-01-09T12:38:00Z
@@ -179,6 +166,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 37
+  - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
+    excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai) Technologies Co. Ltd. (a Huawei Company) 7.13. IBM Corp. 7.14. Intel Corp. 7.15. Mythic Inc. 7.16 ..."
+    publishedDateTime: 2020-01-09T12:45:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
   - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
     excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
     publishedDateTime: 2020-01-07T00:24:00Z

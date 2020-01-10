@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E22DDA378C9145A9CF38BE2C75A7D559
         width: 700
         height: 393
+  - title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
+    excerpt: "Facebook announced limited changes on Thursday to its approach to political ads ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China ..."
+    publishedDateTime: 2020-01-10T02:31:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.3668D921E1E198B6ACA5CC76719A7619
+        width: 700
+        height: 367
   - title: "Facebook says it will ban ‘deepfakes’"
     excerpt: "and there would be “significant incentive” for people to develop fakes that would fool Facebook’s systems. There are many ways to manipulate videos with the help of artificial intelligence, added Matthias Niessner, a professor of computer science at the Technical University of Munich, who works with Google on its deepfake research."
     publishedDateTime: 2020-01-07T04:57:00Z

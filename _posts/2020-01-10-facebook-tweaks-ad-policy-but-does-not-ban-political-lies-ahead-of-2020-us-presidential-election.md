@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
-excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
-publishedDateTime: 2020-01-07T06:23:00Z
-sourceUrl: https://www.afr.com/technology/facebook-to-ban-deepfakes-sources-say-but-not-all-doctored-videos-20200107-p53pl0
+title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
+excerpt: "Facebook announced limited changes on Thursday to its approach to political ads ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China ..."
+publishedDateTime: 2020-01-10T02:31:00Z
+sourceUrl: https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+ampUrl: https://amp.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
 type: article
-quality: 24
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Australian Financial Review
-  domain: afr.com
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.070E8E4413A9862B2132E89287CF3A78
+  - url: https://www.bing.com/th?id=ON.3668D921E1E198B6ACA5CC76719A7619
     width: 700
-    height: 393
-    title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
+    height: 367
+    title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
 
 related:
   - title: "Ahead of the 2020 presidential election, Facebook says it’s banning deepfakes"
@@ -84,21 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E22DDA378C9145A9CF38BE2C75A7D559
         width: 700
         height: 393
-  - title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
-    excerpt: "Facebook announced limited changes on Thursday to its approach to political ads ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China ..."
-    publishedDateTime: 2020-01-10T02:31:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.3668D921E1E198B6ACA5CC76719A7619
-        width: 700
-        height: 367
   - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
     excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to automatically detect ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal of confusion in understanding the basic facts of current events. “"
     publishedDateTime: 2020-01-08T22:44:00Z
@@ -125,6 +112,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
+    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
+    publishedDateTime: 2020-01-07T06:23:00Z
+    sourceUrl: https://www.afr.com/technology/facebook-to-ban-deepfakes-sources-say-but-not-all-doctored-videos-20200107-p53pl0
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.070E8E4413A9862B2132E89287CF3A78
+        width: 700
+        height: 393
   - title: "Facebook to Kick Out Some Deepfakes"
     excerpt: "However, Twitter has proposed plans to label content that is fake, misleading, or artificially manipulated or created using artificial intelligence ... principal analyst at Constellation Research. \"The selective approach keeps it confusing,\" he told the E-Commerce Times. Facebook has the technology to make its strategy work, Wang said."
     publishedDateTime: 2020-01-08T11:00:00Z
@@ -148,6 +148,6 @@ related:
       domain: hl.co.uk
     quality: 4
 
-secured: "LEpf/Qb9u1HU/CzFKrm7cUITq8fyx3UGuRzYhz5gauSt/NprMezLoeG4FMkKWlb0zF/9BrpLSpHTLD8rCnwlf4Fl+69MJo93oIkATxr7l2glfUKpDXAVwxXuEzgVnyMxlhFe8cnczI7xaK5f6dCMm4HW3Cquc+JTtsO14PeD0DDskPO2yafxecySMAfWzspOExK0p4GUrV+RxEzVBbYDe/bJuGvf0AfFW2TiHnj9jvaKoFVK2joy3iB+svByhkQvwCuDWrtX62AbXldHsEZzJQ==;mdOA+0t2mLEUsXAoO1pqeQ=="
+secured: "eXYS3+JAX47q8GMMO4oYJC6l2czxDGwLqnJnHDV5pn67zZ6MtQ8cxdo0atFcLESm63yEHvB7+24wyY7hq1zAyKtcBvvaHNm7wgO0Mt66YUoIF2DHwWDaE4YtbcPcH6aeoteVxuLkS6utP9u+00lSn/Txole3pOHlEYNHV/xQ66iMIQqVJPgkqNP14esGBknp22G6jWyZAKpIiZNbeyNmL6vZfcJA4hAVL56HxFA7HwzaE6hdtuLHr+9/5gG4S26d318iGJsjxqJqSK0RN6mqaA==;WNOHXVv4TNxsDD2oTaCyQA=="
 ---
 

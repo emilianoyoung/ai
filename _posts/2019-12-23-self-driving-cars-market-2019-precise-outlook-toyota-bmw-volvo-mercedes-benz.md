@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
         width: 700
         height: 366
-  - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
-    excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
-    publishedDateTime: 2019-12-21T01:44:00Z
-    sourceUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars
-    ampUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 44
-    images:
-      - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
-        width: 5616
-        height: 3744
   - title: "US talks with GM over deploying self-driving cars without steering wheels"
     excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
     publishedDateTime: 2019-12-21T20:19:00Z

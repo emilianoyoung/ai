@@ -148,17 +148,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
         width: 700
         height: 437
-  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-21T01:26:00Z
-    sourceUrl: https://www.cnbc.com/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
-    ampUrl: https://www.cnbc.com/amp/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 66
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology.PTI | December 21, 2019, 08:38 IST Washington: Facial recognition systems can produce wildly inaccurate ..."
     publishedDateTime: 2019-12-21T03:08:00Z

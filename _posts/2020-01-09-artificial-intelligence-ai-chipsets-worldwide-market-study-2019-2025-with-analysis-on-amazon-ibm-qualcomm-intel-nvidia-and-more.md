@@ -5,7 +5,7 @@ excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 
 publishedDateTime: 2020-01-09T12:45:00Z
 sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - AI Hardware
   - AI in Robotics
 
@@ -230,6 +229,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "4+bukvv99fRTYYx1SfauWK/Ak86gl8e64dKy+8Nm5+4yTJnHbP3+USUlzDS8bqJSdJuZwBMTz0DYWTKlofNaEYYV9QV3K1oBlYQzpCkVXeGzjha7EO81w0hqJiuWlXANt+sY/VqmJha3Ma5quIP4ISgpAmYCyl1weHnAEC2XnIQrrp3rl6Zk16orDPy7AKdfVQNDgb3XlAD36IZvenJHJNTzgqPCE7rQG2Mcli5bVykqH7Fj58kn4/MakV4e7Ozuz5ckzhzffuLL+PZMHpxi5A==;UCKB/xOVOCKd4MQf9S8Wsw=="
+secured: "l7Jlw/ed5b/iewFb0ZDE/W/blYmwQBlpl9gT130CvL1v5XFoRe0nHDcrWkXQBnvHUIDUdPsxzwrFTSSG1WQkaPWMs9VTDIO8+/sOlMqbyNtdXRxvTgADoCOUOLz8/1a4Ikz3wmx2TpeDmD6B2IzXGDgbXN4QTCQIoai6Gl/VxcZlrIAmQ8avmcp7EkKYNGL04FDFu8RG95MBZUzI5urDGxMeW6WQKcGOLQJ0ljMD0mVKfddeez6RQKjhQtU+CNvFsjwMqOSyuIAS6vrghOkAzQ==;Lm7201ZIVqkrXPaPLBRNVA=="
 ---
 
