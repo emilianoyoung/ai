@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-le
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F4ACE41A00EB0163B210C15E866358A4
         width: 300
         height: 250
+  - title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
+    excerpt: "Their method is based on analyzing the gene activity of blood cells. When applied in practice, this method could support traditional diagnostics and probably expedite the start of therapy. The study outcomes have been reported in the iScience journal. Artificial intelligence is a much-discussed topic in medicine, especially in the field of ..."
+    publishedDateTime: 2019-12-24T12:12:00Z
+    sourceUrl: https://www.azorobotics.com/News.aspx?newsID=11035
+    ampUrl: https://www.azorobotics.com/amp/news.aspx?newsID=11035
+    cdnAmpUrl: https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11035
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.42A01FAFDBB6F7289D13A68EE7207414
+        width: 350
+        height: 215
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
     publishedDateTime: 2019-12-26T12:48:00Z
@@ -77,6 +92,6 @@ related:
       domain: deccanchronicle.com
     quality: 39
 
-secured: "jmcRqggZi8k/TfvqjoPcV4ErZunxkmvxpg72Rqan+K76upEjv2IgZWwJCCCp/w/AMzrOuE0xUsjoqaEXTBbZdjrDvJdPZGFdXC+mcOTIVeK4Hbo2BglLiUNW9d2pF0hLwKIPydyHU3uaYTFNDgGS4gfdixx846UTs4qjRJSlYTsLv7B3SqfF5VTmJqx3/fjFJBoGepKChxHBkocANE7q40TuXUYlmjvJrIr+qcw/3R6Bj6SfP3Zrvz80OmiDfh13GrJfWTwD8NcJLVMjr1djag==;2XdovuRUQgUv6hvWE1TYkA=="
+secured: "fgr+IrgtFg7FUJ2BbQ+vDiZPEnyP0zm+axbGqwkB2xhqI6gTuqKr2eqbXL7fZdreZB8Rw4CPWjph1ijB4t7tCz1OfDomwgrYlYjG3irj0HdiaCyAKSm+xO5H9OZ2wNwmeXd4VwTKLxdasPqCTf7k7yjcbgrLge6OGQ9i9RU9vroaYatxXGCeEPWy+QDub/MazDyuCl/ArPoXUdc+VUBnJJo50IV5P3zBPZnLBsWF4q6djbNQf11wK6sFbG17MAxbt1sBOyP7cnDE8qzT3bWw2Q==;Ziws5JLBSCg352jrhc3Ueg=="
 ---
 

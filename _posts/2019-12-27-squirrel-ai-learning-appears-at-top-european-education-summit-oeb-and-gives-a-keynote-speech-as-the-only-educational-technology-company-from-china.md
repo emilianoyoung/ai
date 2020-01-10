@@ -39,6 +39,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-27T09:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
     excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
     publishedDateTime: 2019-12-24T11:27:00Z

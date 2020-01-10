@@ -69,30 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
         width: 700
         height: 373
-  - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
-    excerpt: "BROOKLYN, New York, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate professor of computer science and engineering and the director of the Game Innovation Lab at the NYU Tandon School of Engineering,"
-    publishedDateTime: 2020-01-09T19:17:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968647/0/en/Engineering-society-IEEE-honors-NYU-Tandon-Game-Innovation-Lab-director-for-contributions-to-computational-intelligence.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.9F909CB543B1194AFF5FCEAD11D3B0DF
-        width: 300
-        height: 200
-  - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
-    excerpt: "BROOKLYN, New York, Jan. 09, 2020 -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate."
-    publishedDateTime: 2020-01-10T00:37:00Z
-    sourceUrl: https://finance.yahoo.com/news/engineering-society-ieee-honors-nyu-191736520.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/engineering-society-ieee-honors-nyu-191736520.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/engineering-society-ieee-honors-nyu-191736520.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "NAD02xcViMhIa0QhUK1+e99dtj65CaIVHChfWObvRyx6DlghgAG3tcABEYnQDCVuziHRw1D6T4C98MmzXGdDlc75ZPYZWo7vs++ige8AliT59f5xr00VYJ/c1qErPV5N5zWQzJ6tWMchs33MCC3nqmKtitrPV4IgJ5Kk7d78OyWK1nghlKSCqsEZDcKEkDL0d4Mci+FfcE7LVTrc9vKXC99xTKsj72xGO9w5PzxyXHo2nT6Nr+g/iXk1Vi+5ZeJHugsSlwq01nnW4mUSg9jLnw==;M6eL63sUhDUgh1oUhnsRgg=="
 ---

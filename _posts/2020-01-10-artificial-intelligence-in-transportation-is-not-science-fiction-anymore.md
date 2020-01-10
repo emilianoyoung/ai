@@ -8,7 +8,7 @@ ampUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-i
 cdnAmpUrl: https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
 type: article
 quality: 57
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -69,30 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F3AE4E6AA7147C9C64BBCAEC7EDFB7AC
         width: 700
         height: 440
-  - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
-    excerpt: "BROOKLYN, New York, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate professor of computer science and engineering and the director of the Game Innovation Lab at the NYU Tandon School of Engineering,"
-    publishedDateTime: 2020-01-09T19:17:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968647/0/en/Engineering-society-IEEE-honors-NYU-Tandon-Game-Innovation-Lab-director-for-contributions-to-computational-intelligence.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.9F909CB543B1194AFF5FCEAD11D3B0DF
-        width: 300
-        height: 200
-  - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
-    excerpt: "BROOKLYN, New York, Jan. 09, 2020 -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate."
-    publishedDateTime: 2020-01-10T00:37:00Z
-    sourceUrl: https://finance.yahoo.com/news/engineering-society-ieee-honors-nyu-191736520.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/engineering-society-ieee-honors-nyu-191736520.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/engineering-society-ieee-honors-nyu-191736520.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "e9IqCPCMBoXHUQ/si109VoOTGsL0keY8pc70+FL7Inpg4nwOc9xlkLACClD6BSry6hCKZoNovlpkZrF0+3e9TZGcANPE1lWWcHiKi5/dj3T4hPW4cNZlotYjDir/XJA4KBdumCiAQmP9ek6jbLRno1gQl6F8XIzFBQ1hiRC5ASkSznhkXVM4r4tHrjEe/9utGf7hxt4VtL8Rdq12gHgpLTJPEEKfXGyEPlWYI+kAVL9uM488YR7Xs+z86iZNSjrPR5oIgbyeRYfpBZRj3pVPEg==;w6c1OrMzCJhlua0j7mSGkA=="
 ---

@@ -189,6 +189,21 @@ related:
       - url: https://www.bing.com/th?id=ON.84AC95BE47A4AB627C104AE4BE898619
         width: 700
         height: 393
+  - title: "Railways to install video surveillance, facial recognition systems to improve security at stations"
+    excerpt: "Indian Railways (IR) will be installing a Video Surveillance System (VSS) across 983 stations, with video analytics and facial recognition software, according to a Railway Ministry press release. The Ministry has upped the ante when it comes to security at stations by investing in artificial intelligence (AI)-enabled, Internet Protocol ..."
+    publishedDateTime: 2020-01-10T11:11:00Z
+    sourceUrl: https://www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece
+    ampUrl: https://www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.6BB75D855E6454C157352ED13C05D579
+        width: 615
+        height: 384
   - title: "CES trying facial recognition for badge pickup at some venues"
     excerpt: "CES is piloting facial recognition kiosks that can streamline badge pickup at some venues at this year’s show. The Consumer Technology Association, which sponsors CES, has placed kiosks with facial recognition technology across some of the trade show’s 11 venues, including the Westgate, Mandalay Bay and the Las Vegas Convention Center’s ..."
     publishedDateTime: 2020-01-06T22:53:00Z

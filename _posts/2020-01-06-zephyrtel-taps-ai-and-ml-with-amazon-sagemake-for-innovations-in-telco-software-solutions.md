@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
         width: 700
         height: 381
-  - title: "Top five projections in Artificial Intelligence for 2020"
-    excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
-    publishedDateTime: 2020-01-04T17:46:00Z
-    sourceUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
-    ampUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
-    cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.4AD0EBE9E9919E10E590A3228C963710
-        width: 414
-        height: 364
   - title: "Healthcare in 2020: the era of digitization"
     excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
     publishedDateTime: 2019-12-31T10:38:00Z
@@ -157,19 +142,6 @@ related:
       - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
         width: 1200
         height: 630
-  - title: "Legal Tech's Predictions for Artificial Intelligence in 2020"
-    excerpt: "My mental picture of C3PO projecting a hologram of a case file has not yet come true, and I must confess that I’m a bit disappointed. OK, I know that’s not what artificial intelligence is all about. In the past decade, we have seen AI’s legal applications grow from primarily technology-assisted review in e-discovery to encompass ..."
-    publishedDateTime: 2020-01-06T12:19:00Z
-    sourceUrl: https://www.law.com/legaltechnews/2020/01/06/legal-techs-predictions-for-artificial-intelligence-in-2020/
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.B5C2FB48FB9B0EB28D7CCB1F0774F2B6
-        width: 620
-        height: 372
   - title: "UK data science and AI predictions for 2020"
     excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
     publishedDateTime: 2019-12-30T08:06:00Z
@@ -194,34 +166,6 @@ related:
       - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
         width: 300
         height: 231
-  - title: "AI Chatbot Technology Predictions for 2020"
-    excerpt: "“This is possible because of AI-driven technology that helps machines understand and interpret human language as it is spoken. Natural Language Processing (NLP) is component of artificial intelligence that aide in the analysis of human language. 2020 will usher in the practice of voice-support platforms using NLP and AI-based conversational ..."
-    publishedDateTime: 2020-01-05T03:18:00Z
-    sourceUrl: https://insidebigdata.com/2020/01/04/ai-chatbot-technology-predictions-for-2020/
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E815690EB1E676D2F3673D901D41966B
-        width: 300
-        height: 300
-  - title: "2020 foresight: Flying taxis, self-driving tech consolidation and other predictions"
-    excerpt: "Will the 2020s be the decade that Peter Thiel finally gets his wish for flying cars? For those who don't remember, the PayPal founder's reaction to Twitter and social media back in 2011 was a manifesto for his venture firm, Founders Fund, titled \"What ..."
-    publishedDateTime: 2020-01-04T12:16:00Z
-    sourceUrl: https://www.wfmynews2.com/article/tech/triad-business-journal-technology-2020-what-to-expect/83-392cbdb6-a359-4bf1-8e10-84964d173b87
-    ampUrl: https://www.wfmynews2.com/amp/article/tech/triad-business-journal-technology-2020-what-to-expect/83-392cbdb6-a359-4bf1-8e10-84964d173b87
-    cdnAmpUrl: https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/tech/triad-business-journal-technology-2020-what-to-expect/83-392cbdb6-a359-4bf1-8e10-84964d173b87
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.12327B55D8009289550AB6E7A269BB58
-        width: 700
-        height: 393
   - title: "5 Innovations That Will Dominate CES 2020"
     excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
     publishedDateTime: 2019-12-30T16:00:00Z
@@ -261,17 +205,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
         width: 700
         height: 363
-  - title: "Cloud computing predictions for 2020"
-    excerpt: "The actual figures can be hard to get at when it comes to the public cloud market as each vendor breaks out their numbers differently, but Synergy Research estimates that AWS is the clear market leader with around 40 percent market share, followed by Microsoft Azure at 30 percent ... VP and head of enterprise and AI research at CSS Insights ..."
-    publishedDateTime: 2020-01-06T08:52:00Z
-    sourceUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.html
-    ampUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 24
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z

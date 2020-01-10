@@ -174,6 +174,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1884978B2CF82E94D21585476C983F93
         width: 600
         height: 390
+  - title: "Railways to install video surveillance, facial recognition systems to improve security at stations"
+    excerpt: "Indian Railways (IR) will be installing a Video Surveillance System (VSS) across 983 stations, with video analytics and facial recognition software, according to a Railway Ministry press release. The Ministry has upped the ante when it comes to security at stations by investing in artificial intelligence (AI)-enabled, Internet Protocol ..."
+    publishedDateTime: 2020-01-10T11:11:00Z
+    sourceUrl: https://www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece
+    ampUrl: https://www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.6BB75D855E6454C157352ED13C05D579
+        width: 615
+        height: 384
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z

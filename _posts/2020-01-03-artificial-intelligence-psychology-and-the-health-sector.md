@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care 18. AI can also support other aspects of mental health. Several trials in the ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
 quality: 59
 heat: 69
@@ -40,6 +40,6 @@ related:
         width: 400
         height: 300
 
-secured: "RIqYNQ0DdWZoYnHPY/3ZRnCCqgtmFsOyCm4HFZ5u1GxqED0NQvHFwTRg+Z59blsVa/P/eBHeG6fytcuS2CgEX26fZ7cbRr9SRdlaQsr2bjMi9kFl+9E2SXDdal51DRTdbm0z67zvLttlwLElg3zxcOIgsax2ILFTsEHlK8Ud9t722ydg39+AfUFoRKCdn8CHzZriYlM0rBq3W4kFMVl1ysdWuAAjMStYQHztVCeDmc+e8foH5FQUCKZE816WziUdzbJvMOSWdxpG/wQBCbR7SA==;LGwhJW4ry/e9XiusTn6zwg=="
+secured: "xgOPdUEwQ7vT3neao7COdmVMJmiOHQqEBoLR1H5OjNJs7AuIYqCAuoJjeqveU4bC4+8BaKf9o+XJpftgC+4QFRtIXRIfKer8KY5DRRVf8a3WhT/8upWBVMCORqLv6OVQCeYEgSmBgxNzZfvgRIDlBZBX257PpTns/+vQ9k2XoPcPzk/6FPEf5PdXA90H7oYzRpZvT99LfUnUQhIoueyue+bcDJxrDcqwnPSlKSBv6LawH9q007El/ipis6LzsbglBbDZy0zlw9AX9LU+Rf5o4Q==;UYQ5l6yJzzG5OfiF2p48EQ=="
 ---
 
