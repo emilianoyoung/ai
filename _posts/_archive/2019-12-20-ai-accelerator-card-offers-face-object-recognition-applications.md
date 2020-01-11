@@ -91,26 +91,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
     excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
     publishedDateTime: 2019-12-23T20:30:00Z
@@ -130,6 +110,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "h2bKHQw8qocXulJqXzjtij5mQ/W7T9y5nmRIOuLfAI/8bsbgYw+VIjsJU0wX/Iupsc+k3pSVVt/ng2IyeOnLIxjdAQY71PuJLSeg/FdjkJcsLy77dud7Vl2k+K+UtzrqcaB97xYoD4f3EGCY2Jut3sn/6dDC5NTn/gRbCP349oScGSmvow75Ev41lHGzicj6uxqDdeRGzhHiTJisDgzN06airmpT1YTpUve0jU1hE8uMgfDWOI4rboWo/krkA1ei2GFhOArsE0diHShzyszTHw==;QITDb8mP+Pn5zdet0Bej8w=="
+secured: "nkDq8Tye8SIdIvS5UujVaKm9OYsrTCQDDdQ3+dXYlvEaB0EFdgoKW9yRihH6xx3ZnRdj7wgVX6KPoNGYNctviUPKom/oSl+a5JqV7p7XiH0wjk07a3nnfXqYCwkXe1P/uImbU+zDtckn/D9sO+RJ6aGKwQkgBi08ki31mMnI/inu5KsPQviBDXqUDXGYRQz8ME1qJlGovz9T44Xfy7VTH8ByD6wFhh/NRNZHHaSgH2wKJdVpIxmDP4gebIn2mCEuUMeulR+vj4WPd9+pUx+MnQ==;/fVskRD5i3U6lqfneDUUuw=="
 ---
 

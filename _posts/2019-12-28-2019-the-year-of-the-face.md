@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.51BBC079C4A6BE9C795A454E39FEC990
         width: 600
         height: 315
-  - title: "Is Simulated Data the Great Equalizer in the AI race?"
-    excerpt: "The big five US tech companies (Google, Amazon, Facebook, Apple, and Microsoft) are pouring hundreds of millions of ... The direct result is an explosion of academic research in AI since 2010. For example, the number of research papers on Neural Networks had a CAGR of 37% from 2014 to 2017. Similarly, the ICCV conference which I recently ..."
-    publishedDateTime: 2019-12-22T08:57:00Z
-    sourceUrl: https://medium.com/@charlesbrun/is-simulated-data-the-great-equalizer-in-the-ai-race-9ed30f9076db?_branch_match_id=link-737069905698870252
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.2A28CF672EF7C47EA35BBD8F97470294
-        width: 600
-        height: 338
   - title: "Automotive Industry Puts the Pedal to the Metal with AI"
     excerpt: "The growing importance of AI to the industry is underscored by the substantial investments the industry is making in new technologies. To that end, the research firm Tractica forecasts that the market for automotive AI hardware, software and services will reach $26.5 billion by 2025, up from $1.2 billion in 2017.[1] While significant amounts of ..."
     publishedDateTime: 2019-12-23T16:28:00Z

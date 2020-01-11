@@ -27,6 +27,6 @@ images:
     height: 900
     title: "How our company’s AWS DeepRacer Team finished *SPOILER* in the World Finals at AWS re:Invent"
 
-secured: "3QDqCiS7iMiaGnlgI23BFL/wGnl/jnI2j4qobYDRuVe9nF8e7di8vxdf9zPkhUiXYOUNSILC/gni00pd/UkPi7Nfvo7TqlYqaIwbf57vplsNEXq0OZhuOok694U2sGtfDZSSBl0D9BP0FyGMa6nwq+i2hkaZOXFMynuLF+Z13L5VBwB+SjETj64qYSDtYG1utCANHaO+/F9FBoqBEZFDf6QmkfL2NzE3Y04Es054UPmF374gkYp3he9tulqW/y6YKUgGaCOXCKe5QDQPDKZl4Q==;ubPGvcnvFhE+VCBNuiNXwQ=="
+secured: "bn205MfsjVodFYv2Re1JXxyAMJ18+swxkhnNKJ8ihHiWvm4jKoTayDjoOVUsdD8jMSFeDCeozOtsswzQlZ5oRe6BxNug1oh9mz8F8Sr8XEpB9KQWfC1DAN5tiGd1fjd61vpW1g3Jkwc76TMC3g1Yj+FviZEWWRm1Hy+sAMLOAwcV/ix9IwW77HgSE/+JQ+obX977Kr9JA95nTtaYwngOnQQTy7AjkpUJvB10C3tATcbznUNg0zyWMxHv3rMCB0yPK40Xr/oR4ZPaOrfTa/MxKw==;QwHEpbFmeZaVKgA8lstTdw=="
 ---
 

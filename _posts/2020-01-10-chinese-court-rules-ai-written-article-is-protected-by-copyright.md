@@ -28,6 +28,6 @@ images:
     height: 349
     title: "Chinese court rules AI-written article is protected by copyright"
 
-secured: "k+vU+0CQGWf/3i0qY48xFE2TMmiJvMiXmj2duVshr1U5U8iW0sN4pQRMLWiGGfB7ctfCx+V5YJTnOExld/B341IhKYJ9AbIscO86RW5Te1Tih5RHF15P2HpYtZzR5ScedWiWOiCXd0ruMsgvmGgAG/sfB7ohJcD+2FfR030rU2XJIm2VCk+GNsAqY4fPLRJc1GOtwmaOMm7/V3jXkYx9FyMs5VWl4saIdwwwJeqjMPvUCHR+VmXyP82XfEGdyOjftc2+oQ/Zwwjp6jMheNFxrw==;V3HYToHZAcOiNtvPPtNpLg=="
+secured: "Qb8nYIj3xOJx+HhZehkHBosbkvneNrjfnmtlw7gnYyYcaY0n+TrChuLgTEYXIJyHUX+Ot9+Jw/ZjSdDpL0A4pnLdOkq9aDEFb1+fbvt8FHGrb13zKZhE5TwiNOQe56NOAyJ2WN6T+xP28ysNMBjty6T9ToVKEphX6CaB5mcoAcEfhZatm6EV59bx8lpfM3YFU7352GaH/KrrqF2iLv8PHj0Fng8OHvCApFtKeBREYdttwe8TD9kQxjhzf1UbeGa0VbemI/SpWL7UDujPZ4MXpg==;R4saw9P3DsJ/9k2j32mdHg=="
 ---
 
