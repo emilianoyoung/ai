@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Self-driving supplier Mobileye: Autonomous vehicle timeline, costs & regulations for roll out"
+title: "Self-driving supplier Mobileye on timeline, costs, regulations for autonomous vehicles roll out"
 excerpt: "Self-driving technology provider Mobileye told \"Mad Money\" host Jim Cramer the public can expect to see robotaxis hitting the road as soon as 2022."
-publishedDateTime: 2020-01-11T00:10:00Z
-sourceUrl: https://www.cnbc.com/video/2020/01/10/self-driving-supplier-mobileye-autonomous-vehicle-timeline-costs-regulations-for-roll-out.html
+publishedDateTime: 2020-01-11T00:12:00Z
+sourceUrl: https://www.cnbc.com/video/2020/01/10/mobileye-on-timeline-costs-regulations-for-self-driving-vehicles.html
 type: article
-quality: 43
+quality: 42
 heat: -1
 published: false
 
@@ -22,10 +22,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.E733C2A5AFEA130C403C6609DBB9E288
-    width: 400
-    height: 225
-    title: "Self-driving supplier Mobileye: Autonomous vehicle timeline, costs & regulations for roll out"
+  - url: https://www.bing.com/th?id=ON.2900B05D21DEB4219211568D5B073A46
+    width: 700
+    height: 393
+    title: "Self-driving supplier Mobileye on timeline, costs, regulations for autonomous vehicles roll out"
 
 related:
   - title: "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says"
@@ -43,20 +43,20 @@ related:
       - url: https://www.bing.com/th?id=ON.B4481F0D8397FF1DF24D0E03BE6478C1
         width: 700
         height: 466
-  - title: "Self-driving supplier Mobileye on timeline, costs, regulations for autonomous vehicles roll out"
+  - title: "Self-driving supplier Mobileye: Autonomous vehicle timeline, costs & regulations for roll out"
     excerpt: "Self-driving technology provider Mobileye told \"Mad Money\" host Jim Cramer the public can expect to see robotaxis hitting the road as soon as 2022."
-    publishedDateTime: 2020-01-11T00:12:00Z
-    sourceUrl: https://www.cnbc.com/video/2020/01/10/mobileye-on-timeline-costs-regulations-for-self-driving-vehicles.html
+    publishedDateTime: 2020-01-11T00:10:00Z
+    sourceUrl: https://www.cnbc.com/video/2020/01/10/self-driving-supplier-mobileye-autonomous-vehicle-timeline-costs-regulations-for-roll-out.html
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 42
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.2900B05D21DEB4219211568D5B073A46
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.E733C2A5AFEA130C403C6609DBB9E288
+        width: 400
+        height: 225
 
-secured: "15HSVnjsSWu5wplmSxvmuZkG37mFKcOeOQc1BFL7GFXxB/lpB2lAWiH2HkLC3EjmJ01B1XAjB8jgLFOyyANP/zRXbYq/23YjNojL/MEwQvVJEPccUtBHE4W6qOr8YQV6pjKI2QgRB9BmEuvnkE7x0Dqrmjg8tTH0Hwu8iKmUrkW4rMYKgoiRjck7IxZfhDP2z+ZPiL7LVnJDhj/H4yzoLsWyt3bA3YxCk3/T5ZBTc/TTTqV4rERRJZeI4Y6zyTOtNtMVYxtzhV8Kq1bGZDmbOQ==;zXpZBcf1S8R3SWAORHr2HA=="
+secured: "ve6m9SzAp01xf3Y14KMz1bSJ12nP87nsmRXAjK4u7b42X96G4Ee28VC+Pc10ls/AbT1YxLDzVmp6RC0Cs49WcIg7cgXQUi/YJGI/LZ/4DSUodZOYVRgfON9O9fBeKsrjQ6m1oRY8v/mkYOw8PHVzoy0yUG+YWuzJrAFODPWIDhu0dm7J2Gxllexea4ePpEapZswJhPsYFsGEkoOEL4RIYPsoN7ejYbH7TsFgZtAsZc1OhOJq2WkZmv9l3/Z0K/L+gVREB0HdffD9FwOqyEEboA==;LnX5hVhLnGbiE+kKhTdwXg=="
 ---
 
