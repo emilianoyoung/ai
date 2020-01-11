@@ -18,60 +18,15 @@ topics:
   - AWS AI
 
 related:
-  - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
-    excerpt: "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip). Reportedly, this collaboration eliminates the need for developers to manually optimize ML ..."
-    publishedDateTime: 2020-01-03T16:14:00Z
-    sourceUrl: https://sg.finance.yahoo.com/news/ambarella-aws-bring-ml-solutions-150803976.html
-    ampUrl: https://sg.finance.yahoo.com/amphtml/news/ambarella-aws-bring-ml-solutions-150803976.html
-    cdnAmpUrl: https://sg-finance-yahoo-com.cdn.ampproject.org/c/s/sg.finance.yahoo.com/amphtml/news/ambarella-aws-bring-ml-solutions-150803976.html
+  - title: "ZephyrTel expands collaboration with AWS"
+    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence and machine learning ... which was the first ZephyrTel product to migrate to AWS. The portfolio is being broadened with immediate effect to ..."
+    publishedDateTime: 2020-01-06T08:31:00Z
+    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.BE98E09A23B14B7D64A88C1F6B47904E
-        width: 568
-        height: 264
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "This solution that will be showcased at Booth# 1909, Westgate, will enable data scientists, data analysts and data engineers to develop deep learning based machine vision applications in a fast and efficient manner with minimum effort. It offers a simplified model creation process through a visual, menu driven interface, making development of ..."
-    publishedDateTime: 2020-01-05T23:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "LAS VEGAS and BANGALORE, India, Jan. 6, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will unveil a solution accelerator which will help to design, train, deploy and manage Deep Learning (DL) models for the development of computer vision applications at CES (Consumer Electronics Show ..."
-    publishedDateTime: 2020-01-06T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/quest-global-to-launch-solution-accelerator-for-development-of-ai-applications-using-deep-learning-at-ces-2020-300980784.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-  - title: "GIGABYTE Technology Co.: GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-    excerpt: "Studio area will feature GIGABYTE's state of art laptop for creators - AERO series. Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and ..."
-    publishedDateTime: 2020-01-02T17:08:00Z
-    sourceUrl: https://www.finanznachrichten.de/nachrichten-2020-01/48524162-gigabyte-technology-co-gigabyte-brings-ai-cloud-solutions-and-smart-applications-to-ces-2020-to-enable-future-today-200.htm
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.A611B201AD16A925C3B0A75ADD6A62D1
-        width: 700
-        height: 457
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "2XsT18t8BFfVSX5esjnkm8YycNPSchOBDN4k76AmhKEWVgoE+7tRmDsvFnUNXwgNqtwzypY2MJMR87HkFC7Mpqjd0yKBaWoo/O4ooTJ6zH0hhGh0XDMazxNBZBFxXa/q/Mo97TkjM0eLRyXZCdODX68hl8uSWYSQaYBpJci9QddT0RhFbD1HQ2oJ1WonccJ4DWUZoiBQSm3fkRBlymObMyiR+mEfFCk1dw3svTAfG9bL9gjlLONLQu9PR1YnV12vuefB0yTFkMgJJTHMsEjiWA==;5Yf7sPDwtu0DDK7jI1Q55w=="
 ---

@@ -29,6 +29,6 @@ images:
     height: 800
     title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
 
-secured: "1kaO00FFIyvm/sltlwBQMPAmZnkv0DyLDt3Wny7vL2c2PPmYkgX6VA2ji8u4EHu1XRdQB4/gLA+8z/ciTTkWe83Og/FKOaELvunrLe8feBXdJVtkopq8kiBYyBtU0VXkbG062hmrWtfrdQatzNbTAnhkr8bLJOEK3VGggKCS1/virdnigK6L02hlLQeG7T1HMZLJLZlOT2BfguSOkvptLMLT5LFNTeKsWknObnqBdd9qHkP99qQinN9hrkgbDMJg6f1ITBRE/yb3DvMV2oj7pw==;stif9XTltQXxvoSkHqOZYA=="
+secured: "+Xxk7f70uRLCFs6V1yrwQIJBlOzQCUnkNVmIJSlbUM3ebu08yE3Eu7JJ3zdHQP2wvCm0l4OCDH4v7vB3iB510ynFmiTANOdUM65W2KCttfAhWBq3LyOsLVb8sXcBzy90KwRndjH0wyE+Co4KD4C9A98Z4KoE/pwHuf2gVSrJrT9YqhI7PEWvLfPxpMIAS7Oq75hDdRf/yyMouSMffo35IeQGlr5fSJFZ1a2LBzlR1ZSScjYKv3C2zvqDuQB2F/YDpd41I47zIsB9D+vf43PTag==;Ox1kbHigkMxb7479dKcJrA=="
 ---
 

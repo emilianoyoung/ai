@@ -8,7 +8,7 @@ ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163165106/
 cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163165106/
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
+  - title: "Vimeo Asks Judge To Send Fight Over Facial Recognition To Arbitration"
+    excerpt: "... company stated when the lawsuit was filed that Magisto uses \"machine learning technology to help identify objects within video frames,” but does not collect facial-recognition data. The company says in its new court papers that the matter should be sent to arbitration, arguing that Magisto's terms of service effectively prohibit ..."
+    publishedDateTime: 2019-12-26T18:56:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344943/vimeo-asks-judge-to-send-fight-over-facial-recogni.html?edition=116613
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
 
 secured: "5uPnCmYZI6Wz3wAOpG7DvlR7I416iVdoxSf0oLQmVEbh2cYQXphX4VUVb0KzSoDGbvWrAd6aDKC+fk9M1AmxsHj3jNygTo6I86Wdv9bdgHVyM4MMYweFT1g3jHsCfOjHM1Kw0m0zwtUwm4/nWwHxPSPhf8gkj7zn4WXBBQiMCAe235Cu5tOnXBUt7QhVE32HH4SJwlbN3+VmThTZIT7yfXQ7Xd3G07yi/WubM+1dvj2WlUD9vD/4WQfIk9WzrOI/p9xxUHZFcdKRD9gssi/Q9w==;3B6babMuWmXtHcSclbp/Aw=="
 ---

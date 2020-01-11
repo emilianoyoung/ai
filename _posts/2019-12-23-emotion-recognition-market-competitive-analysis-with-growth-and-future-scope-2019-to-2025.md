@@ -28,423 +28,427 @@ images:
     title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
 
 related:
-  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included, but other features are considered vital and don't have alternatives."
-    publishedDateTime: 2019-12-22T20:34:00Z
-    sourceUrl: https://www.engadget.com/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    ampUrl: https://www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
+  - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
+    excerpt: "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ..."
+    publishedDateTime: 2019-12-24T13:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 172
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
     images:
-      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
-        width: 700
-        height: 367
-  - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
-    excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
-    publishedDateTime: 2019-12-23T03:14:00Z
-    sourceUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/
-    ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
-        width: 700
-        height: 437
-  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
-    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
-    publishedDateTime: 2019-12-23T05:32:00Z
-    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 81
-    images:
-      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
-        width: 700
-        height: 466
-  - title: "San Francisco tweaks facial recognition ban that made it illegal for city employees to use iPhones"
-    excerpt: "In brief: The San Francisco administration's ban on the use of facial recognition has had the surprising side effect of making devices like newer iPhones illegal to use by municipal workers. Officials are now tweaking the law to allow their use while still maintaining a strict ban on using facial recognition features. While San Francisco may ..."
-    publishedDateTime: 2019-12-24T14:53:00Z
-    sourceUrl: https://www.techspot.com/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    ampUrl: https://www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 75
-    images:
-      - url: https://www.bing.com/th?id=ON.20DF6FECEB2272EB3F1189F933313BF2
-        width: 700
-        height: 490
-  - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
-    excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
-    publishedDateTime: 2019-12-26T11:34:00Z
-    sourceUrl: https://www.mid-day.com/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    ampUrl: https://m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    cdnAmpUrl: https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
-        width: 670
-        height: 440
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
-    publishedDateTime: 2019-12-24T10:08:00Z
-    sourceUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24
-    ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
-        width: 640
-        height: 433
-  - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
-    excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
-    publishedDateTime: 2019-12-28T07:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
-    ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
-        width: 700
-        height: 437
-  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-27T18:59:00Z
-    sourceUrl: https://cn.reuters.com/article/usa-crime-face-idCNL4N28U2B2
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Chinese art exhibition on pervasive facial recognition"
-    excerpt: "The exhibition features a facial recognition system that visitors can opt out of, to draw attention to the inability to opt out in public"
-    publishedDateTime: 2019-12-24T05:30:00Z
-    sourceUrl: https://www.deccanherald.com/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    ampUrl: https://www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
+  - title: "Mobile Robotics Market SWOT analysis by Growth Opportunities during 2019 to 2025"
+    excerpt: "Mobile robots are typically controlled by software and use sensors and other gear to spot their surroundings. Mobile robots combine the progress in artificial intelligence with physical robotics that permits them to navigate their surroundings. There are 2 types of mobile robotics such as autonomous and non-autonomous mobile robots. Autonomous ..."
+    publishedDateTime: 2019-12-23T20:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
     type: article
     provider:
-      name: Deccan Herald
-      domain: deccanherald.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in Manufacturing Market Size, Share & Forecast 2019-2025"
+    excerpt: "A full report of Global Artificial Intelligence (Ai) In Manufacturing Market is available at: https://www.omrglobal.com/industry-reports/ai-in-manufacturing-market According to the investigation of the International Federation of Robotics (IFR), various manufacturing robots deployed in factories accounted to be around 1.3 million globally in 2018."
+    publishedDateTime: 2019-12-23T07:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-share-forecast-2019-2025-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
+    excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
+    publishedDateTime: 2019-12-23T10:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
+    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
+    publishedDateTime: 2019-12-27T06:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
+    excerpt: "Dec 30, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Cars and Light Trucks market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the ..."
+    publishedDateTime: 2019-12-30T10:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-cars-and-light-trucks-market-may-set-new-growth-story-bmw-bosch-ford-hyundai-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
+    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Conversational AI market report provides geographic analysis covering regions ... A huge number of individuals use Kick, Facebook messenger, and WhatsApp other messaging platforms to talk with their adored ones consistently. Many others are attempting different things ..."
+    publishedDateTime: 2019-12-30T02:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
+    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. The market growth is primarily driven by the rising demand for smart ..."
+    publishedDateTime: 2019-12-27T05:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-size-share-growth-and-opportunity-assessment-till-2025-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) Market Size 2019-2027 / Trends, Growth And Opportunity"
+    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based ..."
+    publishedDateTime: 2019-12-27T06:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-2019-2027-trends-growth-and-opportunity-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Systems Spending Market to Record CAGR of 46.1% Rise in Growth by 2027"
+    excerpt: "Segmentation and Forecast The global artificial intelligence systems spending market is segmented on the basis of industry type (BFSI, Discrete & Process Manufacturing, Healthcare, Retail, Wholesale, Professional & Consumer Service, Transportation, Media & Entertainment, Telecommunications & Utilities, Government, Education, Others ..."
+    publishedDateTime: 2019-12-24T09:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-to-record-cagr-of-461-rise-in-growth-by-2027-2019-12-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.1341BC3345DE02EC555F0CADE9141EFE
-        width: 700
-        height: 466
-  - title: "Facial recognition is the future, privacy is a concern"
-    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
-    publishedDateTime: 2019-12-26T07:45:00Z
-    sourceUrl: https://www.zawya.com/mena/en/legal/story/Facial_recognition_is_the_future_privacy_is_a_concern-SNG_163119875/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163119875/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163119875/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
+    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-27T09:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-size-growth-trends-and-forecast-2019-2027-2019-12-27
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.81A4F520A546CFE573C22A9770616BCA
-        width: 700
-        height: 466
-  - title: "Facial recognition technology needs proper regulation"
-    excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
-    publishedDateTime: 2019-12-28T15:15:00Z
-    sourceUrl: https://www.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    ampUrl: https://amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 Size, Growth, Trends And Forecast"
+    excerpt: "Dec 30, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-30T06:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-size-growth-trends-and-forecast-2019-12-30
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
-        width: 700
-        height: 367
-  - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
-    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
-    publishedDateTime: 2019-12-27T18:45:00Z
-    sourceUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html
-    ampUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
-    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
+    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
+    publishedDateTime: 2019-12-24T12:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
+    ampUrl: https://markets.businessinsider.com/amp/news/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Challenges, Threats, Development and Global Trend Analysis till 2029"
+    excerpt: "Dec 26, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
+    publishedDateTime: 2019-12-26T06:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-threats-development-and-global-trend-analysis-till-2029-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
-        width: 700
-        height: 455
-  - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
-    excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
-    publishedDateTime: 2019-12-23T04:01:00Z
-    sourceUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019
-    ampUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
-    cdnAmpUrl: https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence Market 2019 Analysis Research and Development Forecast by 2025"
+    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software, and Services. Based on Technology the global Automotive Artificial Intelligence market is segmented in Machine Learning & Deep Learning, Computer Vision, and Natural ..."
+    publishedDateTime: 2019-12-30T02:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
     type: article
     provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 53
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.057205BCC25C38951B173C05345712ED
-        width: 200
-        height: 200
-  - title: "Grill thief arrested after photo ran through facial recognition software, police say"
-    excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
-    publishedDateTime: 2019-12-27T21:15:00Z
-    sourceUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/
-    ampUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
-    cdnAmpUrl: https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Robots Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "Company profile includes assign such as company summary, financial summary, business strategy and planning, SWOT analysis and current developments. The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. Browse the full report here: https ..."
+    publishedDateTime: 2019-12-30T05:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2019-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2019-12-30
     type: article
     provider:
-      name: Click Orlando
-      domain: clickorlando.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
-        width: 700
-        height: 393
-  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
-    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
-    publishedDateTime: 2019-12-29T11:40:00Z
-    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
-    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
+    publishedDateTime: 2019-12-31T10:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
     type: article
     provider:
-      name: The Wire
-      domain: thewire.in
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Diabetes Management Market Research, Developments and Precise Outlook 2019-2026"
+    excerpt: "Dec 26, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence in Diabetes Management Market\" has recently added by Verified Market Reports to get a stronger and effective business outlook. The report on Artificial Intelligence in Diabetes Management Market delivers executive summary along with data analysis of ..."
+    publishedDateTime: 2019-12-27T03:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-developments-and-precise-outlook-2019-2026-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Hardware Market Segmentation, Top Companies, Applications, Comprehensive Research Report and Forecast to 2026"
+    excerpt: "The recent report added by Verified Market Research gives a detailed account of the drivers and restraints in the Global Artificial Intelligence (AI) Hardware market. The research report, titled [Global Artificial Intelligence (AI) Hardware Market Size and Forecast to 2026] presents a comprehensive take on the overall market. Analysts have ..."
+    publishedDateTime: 2019-12-31T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-segmentation-top-companies-applications-comprehensive-research-report-and-forecast-to-2026-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market (2020 - 2029) - CAGR Rate, Ongoing Trends, Analysis And Forecast 2029"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-23T07:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020---2029---cagr-rate-ongoing-trends-analysis-and-forecast-2029-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Industrial Artificial Intelligence Market 2019 Analysis By Global Manufacturers – Siemens AG, IBM Corporation, Alphabet Inc"
+    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This report focuses on Industrial Artificial Intelligence Market report will make detailed analysis mainly on in-depth research on the development environment, Market size, development trend, operation situation and future development trend of Industrial Artificial Intelligence Market on the ..."
+    publishedDateTime: 2019-12-23T17:01:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-2019-analysis-by-global-manufacturers-siemens-ag-ibm-corporation-alphabet-inc-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
+    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
+    publishedDateTime: 2019-12-26T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Enterprise Artificial Intelligence Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
+    excerpt: "Based on End User the global Enterprise Artificial Intelligence market is segmented in Automotive, Media and Entertainment, Healthcare, Retail, IT & Telecommunication, BFSI, and Aerospace. Browse Full Report: https://www.marketresearchengine.com/enterprise-artificial-intelligence-market The global Enterprise Artificial Intelligence market ..."
+    publishedDateTime: 2019-12-30T03:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market 2019 Size, Statistics, Growth, Revenue, Analysis & Trends Industry Forecast Report -2025|Market Research Engine"
+    excerpt: "The Artificial Intelligence Market is segmented on the lines of its technology, end-user and regional. Based on technology it covers Machine learning, Natural language processing, Image processing and Speech recognition. Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others."
+    publishedDateTime: 2019-12-30T05:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2019-size-statistics-growth-revenue-analysis-trends-industry-forecast-report--2025market-research-engine-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2019-12-31T12:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+  - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
+    excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
+    publishedDateTime: 2019-12-26T09:56:00Z
+    sourceUrl: https://www.openpr.com/news/1885808/artificial-intelligence-ai-in-manufacturing-market-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
+  - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
+    excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
+    publishedDateTime: 2019-12-24T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-voice-recognition-system-market-2019-analysis-report-by-product-type-industry-application-and-future-technology-2025-2019-12-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
+    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024 ..."
+    publishedDateTime: 2019-12-23T08:43:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 14
+  - title: "The Global Natural Language Processing (NLP) Market Size is Forecasted to Grow to USD 26.4 Billion by 2024 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The global NLP ..."
+    publishedDateTime: 2019-12-30T13:19:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191230005197/en/Global-Natural-Language-Processing-NLP-Market-Size
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
-        height: 350
-  - title: "False positives in facial recognition + New state app helps marijuana buyers stay legal"
-    excerpt: "Thanks for starting your day with the Capitol Alert. Andrew Sheeler here, filling in for Hannah Wiley. California law enforcement won’t be allowed to use facial recognition technology in their body cameras beginning Jan. 1. That’s because a new law, sponsored by Assemblyman Phil Ting, D-San Francisco, places a three-year moratorium on that ..."
-    publishedDateTime: 2019-12-23T11:55:00Z
-    sourceUrl: https://www.sacbee.com/news/politics-government/capitol-alert/article238586698.html
-    ampUrl: https://amp.sacbee.com/news/politics-government/capitol-alert/article238586698.html
-    cdnAmpUrl: https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article238586698.html
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
-        width: 700
-        height: 393
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
-    publishedDateTime: 2019-12-23T20:15:00Z
-    sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
-        width: 700
-        height: 464
-  - title: "Third Massachusetts Community Bans Facial Recognition Tech"
-    excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
-    publishedDateTime: 2019-12-23T16:21:00Z
-    sourceUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html
-    ampUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-  - title: "Researchers: Printed masks can fool facial recognition systems"
-    excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
-    publishedDateTime: 2019-12-24T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/researchers-printed-masks-can-fool-facial-recognition-systems/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
-        width: 300
-        height: 170
-  - title: "Facial recognition is the future, privacy is a concern"
-    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
-    publishedDateTime: 2019-12-25T18:52:00Z
-    sourceUrl: https://www.khaleejtimes.com/editorials-columns/facial-recognition-is-the-future-privacy-is-a-concern
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
-        width: 725
-        height: 725
-  - title: "Why some cities and states balk at face recognition tech"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-    publishedDateTime: 2019-12-25T08:47:00Z
-    sourceUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.html
-    ampUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
-    cdnAmpUrl: https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 39
-  - title: "How NIST Tested Facial Recognition Algorithms for Racial Bias"
-    excerpt: "Facial-recognition technology is already being used for applications ranging from unlocking phones to identifying potential criminals. Despite advances, it has still come under fire for racial bias: many algorithms that successfully identify white faces still fail to properly do so for people of color. Last week the National Institute of ..."
-    publishedDateTime: 2019-12-27T12:14:00Z
-    sourceUrl: https://www.scientificamerican.com/article/how-nist-tested-facial-recognition-algorithms-for-racial-bias/
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EED55EE013B46088D74063F3494C019F
-        width: 700
-        height: 439
-  - title: "Improved technology will drive facial recognition adoption"
-    excerpt: "Jessica Medeiros Garrison, Nasr Satta and David Logue discuss facial recognition at the Global Gaming Expo. Photo by Networld Media Group. The adoption of facial recognition software to identify customers will increase in the next few years, thanks to improvements in the technology though it has also been somewhat controversial, according to a ..."
-    publishedDateTime: 2019-12-27T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/articles/improved-technology-will-drive-facial-recognition-adoption/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
-        width: 300
-        height: 170
-  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
-    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
-    publishedDateTime: 2019-12-23T11:43:00Z
-    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
-        width: 700
-        height: 466
-  - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
-    excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
-    publishedDateTime: 2019-12-28T03:56:00Z
-    sourceUrl: https://www.wftv.com/news/local/florida-law-enforcement-agencies-use-facial-recognition-identify-alleged-thief/SGHPUGB5W5CX3FYVSLU7P6EV7I/
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
-        width: 700
-        height: 366
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
-  - title: "Art exhibition in China offers rare reflection on facial recognition and surveillance"
-    excerpt: "Eyes of the City is jointly hosted by Shenzhen and neighboring Hong Kong, a city rocked by recent protests against China's influence An art exhibition exploring the impact of facial recognition technology has opened in China,"
-    publishedDateTime: 2019-12-24T15:12:31Z
-    sourceUrl: https://www.msn.com/en-sg/news/other/art-exhibition-in-china-offers-rare-reflection-on-facial-recognition-and-surveillance/ar-BBYj7hN
-    type: article
-    provider:
-      name: Abacus on MSN.com
-      domain: msn.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.F6264CB93784DA72FD99047738D9F53D
-        width: 600
-        height: 315
-  - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
-    excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
-    publishedDateTime: 2019-12-27T00:22:00Z
-    sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
+        height: 365
+  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
+    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
+    publishedDateTime: 2019-12-25T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/ai-auto-insurance-market-2027-130500599.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
-        width: 200
-        height: 150
-  - title: "It’s hard to ban facial recognition tech in the iPhone era"
-    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
-    publishedDateTime: 2019-12-23T17:22:00Z
-    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
+    quality: 6
+  - title: "Natural Language Understanding (NLU) Market Analysis & Forecast 2025"
+    excerpt: "Get PDF template of this report: https://www.qyresearch.com/sample-form/form/1211577/global-natural-language-processing-nlp-market Natural Language Understanding (NLU) Market Leading Players : IBM Watson ,Nuance Communications ,Amazon AWS ,Microsoft ,SAS ,Idiap ,The Aspect NLU Lab Market Segment Analysis : The report offers a comprehensive ..."
+    publishedDateTime: 2019-12-27T11:35:00Z
+    sourceUrl: https://www.openpr.com/news/1886522/natural-language-understanding-nlu-market-analysis
     type: article
     provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 19
-  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the ..."
-    publishedDateTime: 2019-12-23T00:21:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-22-san-francisco-amends-facial-recognition-ban-to-allow-iphones.html
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "Enterprise Artificial Intelligence (AI) Market Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
+    publishedDateTime: 2019-12-24T10:14:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37213/enterprise-artificial-intelligence-ai-market/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-24T14:37:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-25T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 19
-  - title: "Vimeo Asks Judge To Send Fight Over Facial Recognition To Arbitration"
-    excerpt: "... company stated when the lawsuit was filed that Magisto uses \"machine learning technology to help identify objects within video frames,” but does not collect facial-recognition data. The company says in its new court papers that the matter should be sent to arbitration, arguing that Magisto's terms of service effectively prohibit ..."
-    publishedDateTime: 2019-12-26T18:56:00Z
-    sourceUrl: https://www.mediapost.com/publications/article/344943/vimeo-asks-judge-to-send-fight-over-facial-recogni.html?edition=116613
+    quality: 0
+  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
+    publishedDateTime: 2019-12-30T13:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
     type: article
     provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "xQzIp6TUxeKkoIObcLfvLP5FUugVfRvztIh8wBDkKJN2lj7zlewMbJpH1QM3B7ZLUaYrbz4eayBbGelcHIzPfOrFbCf85NHBueHs6GRT7K33Ull4+nGlA0Q3HxOLFuQE9tIyTDQVyHhq9RXeSQCI5L/dLGHBKTN3f1YtXaod6iBJv+8IdqHu5dm7cqDBiP66kECV7YN+2/rYsP5C0iCAL0aOZUudfHOeLngDSupZrNUKlz8PPUwk+vm9JiwejxufqaDN3FQQiSB8yc1uBvLDnQ==;kpLJc8rCilny+9TSpxgTDg=="
 ---
