@@ -308,6 +308,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "/tPK0LrFHcsNMh9dnyxeQ2Py9R9xj+inThZjrrwbydv+DIUxMQWkJZVhdhIb+6yDycEna3g7/ShoYPrDKEv0WwbzjFW0ZK3aSY4tpiFabVjTYRMt72GGiuUDHGhsUek/qzpr4MU497vDHJe/VTw3fZo4by2S7OQADmPzfSAHFzCWvZF2NUHW8KCy7/hvFvxaliF9tA2KXuKTcGlDuMONSs7FKZfOgXeeSPlJOqgpErA33zCMLDv4kUwsDCW6O6YUNRoF3++bB+BmspGGlSUdkA==;GU2n6IKAnjzkO29CFoSALQ=="
+secured: "wNKmp7/PboKhl+Gq2EsMFTi4f2bh5yJIQ7iwlHe/v40dAoO326aVXQlMz/fs69p69JjlhwuBq1KR0aIaOs6pBFTHhAAMKQpbO3hAKthAgSl8JtL01fD2NP6aENwkRipPQQYHn7laYjJMIDMz4MfQpAuXfLHvs8O9iL4oVgCKvt6t6FGzkpdBLE1V1bgI9kE88nx0oDR2vUNuKu1NzXL/wt06F5a2rSLZtsc9EZGgRwSFifNC9f+c5yAsPT1vifnW3dC9FvRM4+TBiKuSHSWQTQ==;VjIqxmyQOfVrWJWaNewLZg=="
 ---
 

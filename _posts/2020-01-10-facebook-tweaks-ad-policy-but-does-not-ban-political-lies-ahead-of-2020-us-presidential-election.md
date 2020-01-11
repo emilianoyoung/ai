@@ -26,6 +26,21 @@ images:
     title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
 
 related:
+  - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
+    excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to automatically detect ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal of confusion in understanding the basic facts of current events. “"
+    publishedDateTime: 2020-01-08T22:44:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
+    ampUrl: https://amp.usatoday.com/amp/2836428001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: https://www.bing.com/th?id=ON.5B73BE6A1F28AEFEF78F8968D3E3FDFF
+        width: 700
+        height: 393
   - title: "Ahead of the 2020 presidential election, Facebook says it’s banning deepfakes"
     excerpt: "In addition to keeping an eye on AI-generated content, Bickert says Facebook is also “partnering with academia ... Challenge which aims to catalyze the development in deepfake detection through large data sets, awards, and research grants."
     publishedDateTime: 2020-01-07T05:26:00Z
@@ -56,6 +71,47 @@ related:
       - url: https://www.bing.com/th?id=ON.06683A690FCD6DC844296A06F69046E8
         width: 700
         height: 490
+  - title: "How Deepfakes Make Disinformation More Real Than Ever"
+    excerpt: "Originating with an early practitioner and Reddit user named “ deepfakes,” the name appears to give a nod to deep learning, a subset of machine learning that uses layers of artificial neural networks to train computers to perform a task. With deepfake videos, a program is typically fed high-quality images of a target’s face and then ..."
+    publishedDateTime: 2020-01-06T05:01:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-06/how-deepfakes-make-disinformation-more-real-than-ever-quicktake
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2358710B03AE05FE1F303243B86B9599
+        width: 700
+        height: 505
+  - title: "Facebook vows to crack down on ‘misleading’ deepfakes"
+    excerpt: "Facebook today announced it will ban misleading manipulated media — including ... someone into thinking that a subject of the video said words that they did not actually say. It is the product of artificial intelligence or machine learning that merges, replaces or superimposes content onto a video, making it appear to be authentic."
+    publishedDateTime: 2020-01-07T07:40:00Z
+    sourceUrl: https://thenextweb.com/facebook/2020/01/07/facebook-vows-to-crack-down-on-misleading-deepfakes/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2F0BD12721C8563744DCF8DBD3F4C263
+        width: 700
+        height: 350
+  - title: "Facebook to ban deepfake videos created with artificial intelligence technology"
+    excerpt: "Created by artificial intelligence or machine learning, deepfakes combine or replace content to create images that can be almost impossible to tell are not authentic. “While these videos are still rare on the internet, they present a significant challenge for our industry and society as their use increases,” Facebook's vice president of ..."
+    publishedDateTime: 2020-01-08T00:56:00Z
+    sourceUrl: https://www.tvnz.co.nz/one-news/world/facebook-ban-deepfake-videos-created-artificial-intelligence-technology
+    ampUrl: https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDElMkYwOCUyRmZhY2Vib29rLWRlZXBmYWtlcw==
+    cdnAmpUrl: https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDElMkYwOCUyRmZhY2Vib29rLWRlZXBmYWtlcw==
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.39CBCFFEC564E6B86AEAA1E84123493B
+        width: 700
+        height: 393
   - title: "Facebook to remove deepfake videos in run-up to 2020 US election"
     excerpt: "The social media giant would also remove misleading media if it was a result of technologies like artificial intelligence (AI) that \"merges, replaces or superimposes content on to a video, making it appear to be authentic\", it said in a blogpost dated January 6. Last year, Facebook refused ... independent research and insights & analysis ..."
     publishedDateTime: 2020-01-07T07:44:00Z
@@ -86,21 +142,34 @@ related:
       - url: https://www.bing.com/th?id=ON.E22DDA378C9145A9CF38BE2C75A7D559
         width: 700
         height: 393
-  - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
-    excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to automatically detect ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal of confusion in understanding the basic facts of current events. “"
-    publishedDateTime: 2020-01-08T22:44:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
-    ampUrl: https://amp.usatoday.com/amp/2836428001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
+  - title: "Facebook cracks down on misleading videos"
+    excerpt: "They will be removing a video if it \"uses artificial intelligence or machine learning ... RELATED: Is that video real? Research lab fights Deepfake videos to stop spread of misinformation The bottom line: you still can't believe everything you see on Facebook. It's best to get your news from a trusted source."
+    publishedDateTime: 2020-01-08T19:57:00Z
+    sourceUrl: https://www.wfmynews2.com/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
+    ampUrl: https://www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
+    cdnAmpUrl: https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 30
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.5B73BE6A1F28AEFEF78F8968D3E3FDFF
+      - url: https://www.bing.com/th?id=ON.A2A4EA6A175E99F83964F40BC43A9B90
         width: 700
         height: 393
+  - title: "Facebook Moves to Detect and Remove Deepfake Videos"
+    excerpt: "and AI is required to help detect them. “Fake videos of famous or powerful people can be extremely manipulative, causing extremely damaging effects in some cases. It is a bold claim from Facebook to ban all such false videos from their platform, as the software used to recognize them is still in its immature phase and requires more research ..."
+    publishedDateTime: 2020-01-07T11:33:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/news/facebook-remove-deepfake/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.6DE6394076C32F5002578E1776C4BC61
+        width: 300
+        height: 300
   - title: "Facebook says it will ban ‘deepfakes’"
     excerpt: "and there would be “significant incentive” for people to develop fakes that would fool Facebook’s systems. There are many ways to manipulate videos with the help of artificial intelligence, added Matthias Niessner, a professor of computer science at the Technical University of Munich, who works with Google on its deepfake research."
     publishedDateTime: 2020-01-07T04:57:00Z
@@ -138,6 +207,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D13D048737B9ABE88723849D2A5A1D89
         width: 620
         height: 386
+  - title: "Facebook to ban deepfakes, sources say, but new policy may not cover controversial Pelosi video"
+    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 percent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
+    publishedDateTime: 2020-01-07T15:02:00Z
+    sourceUrl: https://www.sentinelsource.com/news/national_world/facebook-to-ban-deepfakes-sources-say-but-new-policy-may/article_988ca207-de70-5863-a6ae-37a8871f7d24.html
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 12
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/ce3b1b48-2e8a-11e7-9b31-dbe46a2a163d.jpg
+        width: 1368
+        height: 576
   - title: "Facebook bans deepface ahead of US presidential election"
     excerpt: "No news or research item is a personal recommendation to deal. Hargreaves Lansdown may not share ShareCast's (powered by Digital Look) views. (Sharecast News) - Facebook announced a new policy that bans AI-manipulated videos known as 'deepfakes' that could ..."
     publishedDateTime: 2020-01-07T15:16:00Z
@@ -147,6 +229,19 @@ related:
       name: Hargreaves Lansdown
       domain: hl.co.uk
     quality: 4
+  - title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
+    excerpt: "When applied in payment transactions using mobile phones or devices that need no bank details, bank cards or cashiers, the payment is carried out via facial recognition. This requires an extremely reliable and secure image and return transmission of the high-resolution 3D image data. The same applies to securely unlocking devices with a 3D image."
+    publishedDateTime: 2020-01-08T06:50:00Z
+    sourceUrl: https://finance.yahoo.com/news/ces-2020-infineon-presents-worlds-063300761.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.6A8765980AD8F9CF4DF9D21AD394AA1E
+        width: 600
+        height: 433
 
 secured: "eXYS3+JAX47q8GMMO4oYJC6l2czxDGwLqnJnHDV5pn67zZ6MtQ8cxdo0atFcLESm63yEHvB7+24wyY7hq1zAyKtcBvvaHNm7wgO0Mt66YUoIF2DHwWDaE4YtbcPcH6aeoteVxuLkS6utP9u+00lSn/Txole3pOHlEYNHV/xQ66iMIQqVJPgkqNP14esGBknp22G6jWyZAKpIiZNbeyNmL6vZfcJA4hAVL56HxFA7HwzaE6hdtuLHr+9/5gG4S26d318iGJsjxqJqSK0RN6mqaA==;WNOHXVv4TNxsDD2oTaCyQA=="
 ---

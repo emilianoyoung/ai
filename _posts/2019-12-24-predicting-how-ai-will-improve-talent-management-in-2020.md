@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Predicting How AI Will Improve Talent Management In 2020"
 
 related:
+  - title: "VC Investments In Enterprise Tech And AI"
+    excerpt: "I’m going to take a look at some of the top tier venture capitalists and their investments in the field of enterprise tech and AI. Companies with a focus on AI have collected over 9.3 billion dollars in the US during 2018. The number of venture capital investments keeps growing on a global scale, opening up new opportunities for startups and ..."
+    publishedDateTime: 2019-12-25T06:46:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.A4BDBBED907CBE5AEBD4624537C01239
+        width: 600
+        height: 315
   - title: "10 Ways AI Will Impact Talent Mobility in 2020"
     excerpt: "At the same time, they would be satisfying the career progression aspiration of their employees. Research says that AI can help optimize this process. AI technologies can overcome the mobility challenges that are holding an organization back. This technology can help the HR team find better skill matches, tap a larger pool of internal talent ..."
     publishedDateTime: 2019-12-27T20:33:00Z

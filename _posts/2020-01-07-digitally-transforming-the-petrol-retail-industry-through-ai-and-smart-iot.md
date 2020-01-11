@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/07/digitally-tran
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/07/digitally-transforming-the-petrol-retail-industry-through-ai-and-smart-iot/amp/
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -70,19 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1FBB8627EF819CB92F49ADA235B57D83
         width: 700
         height: 393
-  - title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
-    excerpt: "When applied in payment transactions using mobile phones or devices that need no bank details, bank cards or cashiers, the payment is carried out via facial recognition. This requires an extremely reliable and secure image and return transmission of the high-resolution 3D image data. The same applies to securely unlocking devices with a 3D image."
-    publishedDateTime: 2020-01-08T06:50:00Z
-    sourceUrl: https://finance.yahoo.com/news/ces-2020-infineon-presents-worlds-063300761.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.6A8765980AD8F9CF4DF9D21AD394AA1E
-        width: 600
-        height: 433
 
 secured: "12/cK2cxLlUnffbHM1DE79B2Zj4haQOb4bY4UKl/gmTrY0YCBamRdWtjUQAkeQdDEGDsklMB5A1gvUVD9rpqk3ok5s7CzBYjnKq0/e/AZchUQs6v22VX0Q7RXO3vC83ayZHIaLpPKrDD/WCPBsErqw6y6XGDnhLmEbB5rR8SwDmivNJu42153qOnKx3VsUVvrI0ZkHnyqyyZbj/yHl4PxU42/sTnBMkvGoYFza7PSc8OtEDunJKIQOgXGBUPyNnAZI827VgVE5ncv5Gox09LSw==;FNKMpFD+bhR0G1EtdusV6g=="
 ---

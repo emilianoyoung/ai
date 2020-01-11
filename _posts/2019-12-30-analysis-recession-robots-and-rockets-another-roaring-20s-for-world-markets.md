@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DB6C9CC8CE6D3582721018F11564E76B
         width: 600
         height: 337
+  - title: "Recession, robots and rockets: Are we headed towards a repeat of the 1920s?"
+    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company’s board. The ‘20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and ..."
+    publishedDateTime: 2019-12-28T11:35:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N.html
+    ampUrl: https://m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.E5F9EE185D518BE851E7DE436BC863EC
+        width: 700
+        height: 466
 
 secured: "UwSwdMCV07p8DbMOzQypsyTlMwntuiDr3xU2spOqt0xbFj8Jq7UuTM9B7FwhedjWYEMmYNlVEmke5ald/i5+qsOFJkqr4kD1OS9P625dWwDO6ZcYAGOkq9GYkImDwxIkPYb2jLFtYv/W9wcT2V2CCIdOQWn0GLrju8Zhd1dYKadDDlgc6Y+rMiWdi9MnJ42CaBXu79hIX0gc3wFXMT1zZSqYBTXEd0McBZRWquB+rYZpii5yVmvXZZ51GUITPexxr+kq5uEalqxg9rpOzsb63w==;uPr7EARb/NbumN7D0ilRgg=="
 ---

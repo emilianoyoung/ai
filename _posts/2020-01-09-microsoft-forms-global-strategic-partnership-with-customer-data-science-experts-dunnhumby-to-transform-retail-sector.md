@@ -71,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.297D45CF2F12CF6804D8D2C3B1F084EF
         width: 700
         height: 365
-  - title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
-    excerpt: "When applied in payment transactions using mobile phones or devices that need no bank details, bank cards or cashiers, the payment is carried out via facial recognition. This requires an extremely reliable and secure image and return transmission of the high-resolution 3D image data. The same applies to securely unlocking devices with a 3D image."
-    publishedDateTime: 2020-01-08T06:50:00Z
-    sourceUrl: https://finance.yahoo.com/news/ces-2020-infineon-presents-worlds-063300761.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.6A8765980AD8F9CF4DF9D21AD394AA1E
-        width: 600
-        height: 433
 
 secured: "xGQ34PevxAOaAQOvvQ6lJxO5AOONuSAZlq+bL4ksx3DSuOn5zL/TucHfGBbx79yuGqBWeO+ySmKHCylPAoRyZKJpeQZSCcN6D3iY/L3j+OunVnplWiKNF9MuKCe1xiwrjqdEmJGbZFuHcdjF5Jcu1Uy4aF8/bJ/siAwFsLbMmoRU1PuVJKao7mE1elfdb3GAtEESibbdG0g0N99eB7287WqcLHI0J171+FFAgiPHI7ugplI5BY5Rkyo9pZe/F9lCw4hJerD5uHeGQXd3OAdiKQ==;6+SRIygqa00LI9tsqmuMiQ=="
 ---

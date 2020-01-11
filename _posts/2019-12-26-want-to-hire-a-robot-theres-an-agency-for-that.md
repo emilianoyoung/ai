@@ -24,21 +24,19 @@ images:
     title: "Want to Hire a Robot? There’s an Agency for That"
 
 related:
-  - title: "Griffin and his robot offer hope for other cerebral palsy patients"
-    excerpt: "His “robot” is a motorized exoskeleton of sorts ... But McCormick imagines a not-too-distant future where, using advances in artificial intelligence, GPS, and by streamlining its design, Tréxō could become wearable technology. “This is all fresh and new, and it offers the hope of change over time. It’s putting technology in the ..."
-    publishedDateTime: 2019-12-26T23:08:00Z
-    sourceUrl: https://ottawacitizen.com/news/local-news/griffin-and-his-robot-offer-hope-for-other-cerebral-palsy-patients
-    ampUrl: https://ottawacitizen.com/news/local-news/griffin-and-his-robot-offer-hope-for-other-cerebral-palsy-patients/amp
-    cdnAmpUrl: https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/griffin-and-his-robot-offer-hope-for-other-cerebral-palsy-patients/amp
+  - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
+    excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
+    publishedDateTime: 2019-12-23T15:03:00Z
+    sourceUrl: https://www.wpxi.com/news/top-stories/pittsburghs-journey-roboburgh-how-city-earned-its-reputation-ai-robotics/BUCIE6QTYZBB7PS6VGHMNSKSKM/
     type: article
     provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 59
+      name: WPXI
+      domain: wpxi.com
+    quality: 60
     images:
-      - url: https://www.bing.com/th?id=ON.9DD317648D8A2201F7EAC2614CA87DA1
+      - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
         width: 700
-        height: 525
+        height: 366
 
 secured: "Bf05/YZ+Z5SAPe5IMjUlLXQPBwKoquOFTF0/WEm4gm87fsj1nNgwwV2Wsk/x49VEQLkEgbGBkg+IBuNbXHXwvXM+40dXwP2onDC2AUeViX1IMO02xRq5tYPpaQoFh7OpKAxKjNIX71e/ZEsCYX/50NT6G8p7s9iJNz/D98kCzBxVJ+A26R/mNIlGvu8DX+Y0pnKL11fRgUE0usDfyDw+V4rir0MWFqNb974mr43/KMavPQzbeaH0TbOCaiarNIFh4rrwQMAxcH6IX2GuJcqkFQ==;T/7X7Gavxc17f2joBOvamQ=="
 ---

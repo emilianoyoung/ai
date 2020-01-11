@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
         width: 620
         height: 465
-  - title: "Volkswagen self-driving shuttles to operate in Qatar from 2022"
-    excerpt: "Autonomous services are scheduled to begin before the next FIFA World Cup kicks off. According to the automaker, there will be a fleet of 35 self-driving ID Buzz people movers operating on semi-fixed routes in the Westbay district of Doha. There will also be 10 autonomous Scania buses to transport larger groups of people. From the announcement ..."
-    publishedDateTime: 2019-12-22T13:06:00Z
-    sourceUrl: https://www.caradvice.com.au/815243/world-cup-volkswagen-self-driving-shuttles/
-    type: article
-    provider:
-      name: CarAdvice
-      domain: caradvice.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.13362133FC7097D97564B194CBCBC9BB
-        width: 700
-        height: 364
 
 secured: "9aEjlZdMIc7uU+JNAozto+gZV/oJiVShQDnHdCguqK9iaNTS3OTadnJIFPLwgY5zzly3eJdhk+4w6BlahZzF3SgeuFOWqpb1Z7Fdwb0UdYT52e9TLlPVpxsudm+gynDrytVPH4UWW0Y7QPHVOxeQgheonX7EnwgvwOPnuahm6msqqtn09JoOaYr4rSyXP3hZl4N8fyqsie4LHdGzKGBqXICgx5DR1MHWTfVft1N4Qv0+1ZbMMeaHCv4cPA6+WGrejphdH2Gc8PI+MniQG9QqAA==;sMQPeRFvT152u6/OoBDkaA=="
 ---

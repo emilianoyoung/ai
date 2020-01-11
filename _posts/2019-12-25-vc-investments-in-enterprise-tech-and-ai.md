@@ -29,116 +29,47 @@ images:
     title: "VC Investments In Enterprise Tech And AI"
 
 related:
-  - title: "Church of England to review ethics of its investments in AI and robotics"
-    excerpt: "Why it matters: The review will help determine whether the church's $15.6 billion investment fund should back companies like Amazon, Facebook and Google, which are pursuing artificial intelligence and robotics. What they're saying: A source close to the review said some church officials are worried that the technology is “akin to playing God ..."
-    publishedDateTime: 2019-12-22T13:28:00Z
-    sourceUrl: https://www.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
-    ampUrl: https://amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
-    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
+  - title: "Predicting How AI Will Improve Talent Management In 2020"
+    excerpt: "47% of U.S.-based enterprises are using AI today for recruitment, leading all countries in the ... [+] survey. U.S.-based enterprises’’ adoption of AI for recruitment soared in the last year, jumping from 22% in 2018 to 47% this year based on last years’ Harris Interactive Talent Intelligence and Management Report 2018. 73% of U.S. CEOs ..."
+    publishedDateTime: 2019-12-24T19:56:00Z
+    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/
+    ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 105
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
-        width: 700
-        height: 393
-  - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
-    publishedDateTime: 2019-12-22T13:06:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+      - url: https://www.bing.com/th?id=ON.0C4D17432DE326C675D06CCFEA474473
+        width: 600
+        height: 315
+  - title: "10 Ways AI Will Impact Talent Mobility in 2020"
+    excerpt: "At the same time, they would be satisfying the career progression aspiration of their employees. Research says that AI can help optimize this process. AI technologies can overcome the mobility challenges that are holding an organization back. This technology can help the HR team find better skill matches, tap a larger pool of internal talent ..."
+    publishedDateTime: 2019-12-27T20:33:00Z
+    sourceUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289
+    ampUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 80
-    images:
-      - url: https://www.bing.com/th?id=ON.921E62DCFCE8B6D3EB2BA06676C93BA9
-        width: 400
-        height: 400
-  - title: "Church of England questions ethics of investment in AI"
-    excerpt: "Read also: 'Faster with AI': Indonesia to replace ministerial aides with machines \"Artificial intelligence (AI) is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion ..."
-    publishedDateTime: 2019-12-25T03:14:00Z
-    sourceUrl: https://www.thejakartapost.com/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
-    ampUrl: https://www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
-    cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.C1A29383FDFEA5B8DC8E5D2841146091
-        width: 700
-        height: 417
-  - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
-    publishedDateTime: 2019-12-23T15:03:00Z
-    sourceUrl: https://www.wpxi.com/news/top-stories/pittsburghs-journey-roboburgh-how-city-earned-its-reputation-ai-robotics/BUCIE6QTYZBB7PS6VGHMNSKSKM/
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 60
-    images:
-      - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
-        width: 700
-        height: 366
-  - title: "Recession, robots and rockets: Are we headed towards a repeat of the 1920s?"
-    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company’s board. The ‘20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and ..."
-    publishedDateTime: 2019-12-28T11:35:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N.html
-    ampUrl: https://m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: Business 2 Community
+      domain: business2community.com
     quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.E5F9EE185D518BE851E7DE436BC863EC
+      - url: https://www.bing.com/th?id=ON.A6A1E8945C48FD23877449F0F485D227
         width: 700
-        height: 466
-  - title: "2019-20 Book of Lists brings robotics front and center"
-    excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
-    publishedDateTime: 2019-12-22T13:12:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+        height: 420
+  - title: "From ethics to apprenticeships: How AI will evolve in 2020"
+    excerpt: "Many academics are both surprised and impressed that, although AI ethics has been a topic of study for years, it has become so prominent in discussions about the technology today. While regulators seem to be forever playing catch-up with technology companies, the ‘wild west’ era of AI legislation will start coming to an end in 2020."
+    publishedDateTime: 2019-12-26T09:00:00Z
+    sourceUrl: https://www.itproportal.com/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+    ampUrl: https://www.itproportal.com/amp/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: IT Pro Portal
+      domain: itproportal.com
     quality: 54
-  - title: "Church of England Questions Ethics of Investment in AI"
-    excerpt: "\"Artificial intelligence [AI] is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion \"that is not only grounded in theology and distinctly Anglican but is also ..."
-    publishedDateTime: 2019-12-23T20:01:00Z
-    sourceUrl: https://www.voanews.com/europe/church-england-questions-ethics-investment-ai
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.580AD101956FF31860AB748A34BB2DCF
-        width: 700
-        height: 499
-  - title: "Church of England questions ethics of investment in Artificial intelligence"
-    excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
-    publishedDateTime: 2019-12-24T06:31:00Z
-    sourceUrl: https://tribune.com.pk/story/2123994/8-church-england-questions-ethics-investment-artificial-intelligence/
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.BB0F6755733DA91D3C8A709FEF6CA54B
-        width: 640
-        height: 480
 
 secured: "7Lyf1LJck5RKxMPM5CRyUT3+DlyWoXh+CI9Kqnoy7L+34ahY7s0yg5D82YuALx3Nku33yKRpVNOSRqtTeXlUy2mXiCcdzy8Zj/42MNEtFuqLdXLZP1u5mtddMeH1cDhrd5u5Hm7ZqMSBguT3FGGFSwp19UewN2GNN7U/fYunVsyKUPwfuZYQQxbqZhcVxHqKWSjRxZOXujlsVEdIUcnaWcXYLosYUJD4gZXn4bjRC3LwbcAuAwn3quJNN3BL/QIZ1FcejhtOr38vKzAxsf2U9w==;128PQX8fGFFjJPNA0/5ViQ=="
 ---

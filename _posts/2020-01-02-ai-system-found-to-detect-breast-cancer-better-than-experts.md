@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B931BE5270ABF6F7CE4214AB6C10EFFE
         width: 700
         height: 525
-  - title: "Facebook Moves to Detect and Remove Deepfake Videos"
-    excerpt: "and AI is required to help detect them. “Fake videos of famous or powerful people can be extremely manipulative, causing extremely damaging effects in some cases. It is a bold claim from Facebook to ban all such false videos from their platform, as the software used to recognize them is still in its immature phase and requires more research ..."
-    publishedDateTime: 2020-01-07T11:33:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/news/facebook-remove-deepfake/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.6DE6394076C32F5002578E1776C4BC61
-        width: 300
-        height: 300
 
 secured: "k7c7ge7ap56MNhepfS3RxEFmSwCGCMVrb6/rCgcArBF2cPz1BWKE58UJeR2/W/AFhee7Q3rStDWhhsr1mKG/M5hQ9kxYlr0txSH/Dj5/zVdvdTlNJvRcN38YoZ8nxAkYEdJsJTsGf2ls3b56vT/XpwFnVLxOoWf1ES79NIuXwX1ZrWaLBjZEdbVaL4KNGfqNiBB6WuCMlWPNCsIHJ3F+/2Zz+TMmKxZue+7T9L/q4Mvn4P8CCU+S7P8/qB8Moe/oHovRcRiC3H3xbbSs9zErDA==;t7317NC//y/+jkYyFrk9Mg=="
 ---

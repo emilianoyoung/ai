@@ -26,116 +26,66 @@ images:
     title: "Recession, robots and rockets: Are we headed towards a repeat of the 1920s?"
 
 related:
-  - title: "Church of England to review ethics of its investments in AI and robotics"
-    excerpt: "Why it matters: The review will help determine whether the church's $15.6 billion investment fund should back companies like Amazon, Facebook and Google, which are pursuing artificial intelligence and robotics. What they're saying: A source close to the review said some church officials are worried that the technology is “akin to playing God ..."
-    publishedDateTime: 2019-12-22T13:28:00Z
-    sourceUrl: https://www.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
-    ampUrl: https://amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
-    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
+  - title: "Recession, robots and rockets: another roaring 20s for world markets?"
+    excerpt: "All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays."
+    publishedDateTime: 2019-12-27T10:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-markets-outlook-2030-analysis-idUSKBN1YV0QQ
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YV0QQ
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YV0QQ
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 105
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
+      - url: https://www.bing.com/th?id=ON.50C227EC9958EFB78B42F2581EDFFD01
         width: 700
-        height: 393
-  - title: "VC Investments In Enterprise Tech And AI"
-    excerpt: "I’m going to take a look at some of the top tier venture capitalists and their investments in the field of enterprise tech and AI. Companies with a focus on AI have collected over 9.3 billion dollars in the US during 2018. The number of venture capital investments keeps growing on a global scale, opening up new opportunities for startups and ..."
-    publishedDateTime: 2019-12-25T06:46:00Z
-    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/
-    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
+        height: 466
+  - title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
+    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
+    publishedDateTime: 2019-12-27T10:09:00Z
+    sourceUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27
+    ampUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 85
     images:
-      - url: https://www.bing.com/th?id=ON.A4BDBBED907CBE5AEBD4624537C01239
-        width: 600
-        height: 315
-  - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
-    publishedDateTime: 2019-12-22T13:06:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+      - url: https://www.bing.com/th?id=ON.DD14232C64BD18E917B6B6070AC7FDC0
+        width: 450
+        height: 337
+  - title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
+    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
+    publishedDateTime: 2019-12-30T08:53:00Z
+    sourceUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-30
+    ampUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-30?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-30?amp
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 80
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 85
     images:
-      - url: https://www.bing.com/th?id=ON.921E62DCFCE8B6D3EB2BA06676C93BA9
-        width: 400
-        height: 400
-  - title: "Church of England questions ethics of investment in AI"
-    excerpt: "Read also: 'Faster with AI': Indonesia to replace ministerial aides with machines \"Artificial intelligence (AI) is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion ..."
-    publishedDateTime: 2019-12-25T03:14:00Z
-    sourceUrl: https://www.thejakartapost.com/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
-    ampUrl: https://www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
-    cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
+      - url: https://www.bing.com/th?id=ON.551DB369F7A3EAC94D137CC1F1F7C53F
+        width: 450
+        height: 300
+  - title: "Recession, robots, rockets: Will it be roaring ’20s again?"
+    excerpt: "A World Economic Forum survey in 2017 predicted a series of “technological tipping points\" for the coming decade, including 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a firm’s board. The ‘20s could be an era of smart cities, where big data and robotics ensure better governance, health and ..."
+    publishedDateTime: 2019-12-29T18:08:00Z
+    sourceUrl: https://www.livemint.com/news/world/recession-robots-rockets-will-it-be-roaring-20s-again-11577637898048.html
+    ampUrl: https://www.livemint.com/news/world/recession-robots-rockets-will-it-be-roaring-20s-again/amp-11577637898048.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/recession-robots-rockets-will-it-be-roaring-20s-again/amp-11577637898048.html
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
+      name: Mint
+      domain: livemint.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.C1A29383FDFEA5B8DC8E5D2841146091
-        width: 700
-        height: 417
-  - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
-    publishedDateTime: 2019-12-23T15:03:00Z
-    sourceUrl: https://www.wpxi.com/news/top-stories/pittsburghs-journey-roboburgh-how-city-earned-its-reputation-ai-robotics/BUCIE6QTYZBB7PS6VGHMNSKSKM/
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 60
-    images:
-      - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
-        width: 700
-        height: 366
-  - title: "2019-20 Book of Lists brings robotics front and center"
-    excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
-    publishedDateTime: 2019-12-22T13:12:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 54
-  - title: "Church of England Questions Ethics of Investment in AI"
-    excerpt: "\"Artificial intelligence [AI] is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion \"that is not only grounded in theology and distinctly Anglican but is also ..."
-    publishedDateTime: 2019-12-23T20:01:00Z
-    sourceUrl: https://www.voanews.com/europe/church-england-questions-ethics-investment-ai
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.580AD101956FF31860AB748A34BB2DCF
-        width: 700
-        height: 499
-  - title: "Church of England questions ethics of investment in Artificial intelligence"
-    excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
-    publishedDateTime: 2019-12-24T06:31:00Z
-    sourceUrl: https://tribune.com.pk/story/2123994/8-church-england-questions-ethics-investment-artificial-intelligence/
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.BB0F6755733DA91D3C8A709FEF6CA54B
-        width: 640
-        height: 480
+      - url: https://www.bing.com/th?id=ON.DB6C9CC8CE6D3582721018F11564E76B
+        width: 600
+        height: 337
 
 secured: "ulXLLbeZ6uOR+P5pD4mWkbbX6PqiboQuo0cMVeluVu1J61cYmPGYjGpT6ko9PCM8fIu7kV+tn/84iLY4EX5T6J+FDxXN1cGPvdlbpOiygCXn4GMWPR0ciCoTzmR9jzkxmSmreIz30QcEaVvDJKYeEVzfRCrut1bWy2DldYVePZiZxGJdehfhgEK4a6/oHwHG5VWK9iILyc/ZlaMWiD/cm+ZVPIAXl70mlzW/YGD4Zozkbsn1Aa9kwxxYCxhLvrTPjMWE83+JYi6948ipS+pXLw==;kJRPHMyAIXF6fPSsbWbmlg=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/07/bzigo-uses-ai-and-a-laser-pointer-to-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/bzigo-uses-ai-and-a-laser-pointer-to-detect-mosquitoes-in-your-home/amp/
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,19 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.28C48CAD829C171A9BAE70DEFF49E68C
         width: 700
         height: 367
-  - title: "Facebook Moves to Detect and Remove Deepfake Videos"
-    excerpt: "and AI is required to help detect them. “Fake videos of famous or powerful people can be extremely manipulative, causing extremely damaging effects in some cases. It is a bold claim from Facebook to ban all such false videos from their platform, as the software used to recognize them is still in its immature phase and requires more research ..."
-    publishedDateTime: 2020-01-07T11:33:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/news/facebook-remove-deepfake/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.6DE6394076C32F5002578E1776C4BC61
-        width: 300
-        height: 300
 
 secured: "FhSwAuk5hYyfuhXWFnlnv5RQKjskOkmRRjVUrUwwjv8KY24s+t7SOJ17iqg4oV0iWbEi4OaTnbdZnLnDsqXql4pa3kW7E2W9z0y6Nj96bFunhDZN1jImMyP+TSu4ZOaoj0nzcUeGwQQOP40Ib4K7KXQJCMBxd4gK73TX9p18XfyjqUjyrVMbVIFyxVjj0SPWe15sO/efAKjJ7d94Xr7FhlWZ1fVqmpcWjcAF+AdHzHWd+3ZgaWA1UUcSuyhwTzhHWBtbsb4Mm3PPA7phD1uwjw==;TRLd/5si3IilMQfvp/F7og=="
 ---
