@@ -2051,8 +2051,14 @@ Start Responsive style
     color: var(--text-color-normal);
   }
 
-  .hero-section .pos-r {
-    margin-top: 120px;
+  .hero-section .app-description {
+    max-width: 450px;
+    margin: 20px 0 20px auto;
+  }
+
+  .hero-section .app-ui {
+    max-width: 500px;
+    margin-left: auto;
   }
 
   .hero-content h1 {
@@ -2233,6 +2239,16 @@ Start Responsive style
 
   .navbar-toggler {
     color: #ffffff;
+  }
+
+  .hero-section .app-description {
+    max-width: 450px;
+    margin: 20px 0 20px auto;
+  }
+
+  .hero-section .app-ui {
+    max-width: 500px;
+    margin-left: auto;
   }
 
   .hero-content h1 {
