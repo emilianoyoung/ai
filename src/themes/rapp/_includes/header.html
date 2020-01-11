@@ -31,7 +31,7 @@
 <header class="hero-section" id="home">
     <div class="container">
         <div class="row">
-            <div class="col-md-7">
+            <div class="col-lg-7 col-xs-12">
                 <div class="row h-100">
                     <div class="col-md-12 align-self-center">
                         <div class="hero-content">
@@ -57,7 +57,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-5 pos-r">
+            <div class="col-lg-6 offset-lg-6 col-xs-12 order-lg-12">
+                <div class="hero-content">
+                    <p>{{ config.description.part2 }}</p>
+                    <a href=""><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="width: 200px;" /></a>
+                </div>
+            </div>
+            <div class="col-lg-5 col-xs-12 pos-r order-lg-1">
                 <div class="row justify-content-md-center justify-content-sm-center">
                     <div class="col-md-auto col-sm-auto">
                         <div class="banner-app-mock">
@@ -71,12 +77,6 @@
                 <div class="mobile-graphic">
                     <!--mobile graphic-->
                     <img src="{{ THEME_DIRECTORY_URL }}/images/mobile-graphic.png" alt="" class="moc-grp">
-                </div>
-            </div>
-            <div class="col-md-6 offset-md-6">
-                <div class="hero-content">
-                    <p>{{ config.description.part2 }}</p>
-                    <a href=""><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="width: 200px;" /></a>
                 </div>
             </div>
         </div>

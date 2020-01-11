@@ -2242,6 +2242,10 @@ Start Responsive style
   .hero-content p {
     font-size: 18px;
   }
+  
+  .hero-content .plus {
+    text-align: center;
+  }
 
   .title h3,
   .price-header h3 {
