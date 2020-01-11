@@ -39,6 +39,51 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
+  - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
+    excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
+    publishedDateTime: 2019-12-23T03:14:00Z
+    sourceUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/
+    ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
+        width: 700
+        height: 437
+  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
+    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
+    publishedDateTime: 2019-12-23T05:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
+        width: 700
+        height: 466
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
+    publishedDateTime: 2019-12-24T10:08:00Z
+    sourceUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24
+    ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
+        width: 640
+        height: 433
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
     excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
     publishedDateTime: 2019-12-20T23:50:00Z
@@ -52,6 +97,47 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
+  - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
+    excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
+    publishedDateTime: 2019-12-23T04:01:00Z
+    sourceUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019
+    ampUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+    cdnAmpUrl: https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.057205BCC25C38951B173C05345712ED
+        width: 200
+        height: 200
+  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
+    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
+    publishedDateTime: 2019-12-23T05:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
+    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
+    publishedDateTime: 2019-12-23T11:43:00Z
+    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
+        width: 700
+        height: 466
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
     excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
     publishedDateTime: 2019-12-24T00:40:00Z
@@ -130,6 +216,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "6QWtTaO/OsimT/Iym/sUPhtSSoOMMWAcaltMHlp4IFRDWxnkCNRNko/AZiKLWk8HVtMlQatTmBcMQyMtl7+/uYxp2VzFmYdZiwCO1Ri35edszkJiGVaDvmzXr/rjhJ5aXQhG7W35ldT4Hj0Qh/t4KdJyzaZsFm0qHZu7uo68IePsC6Mb14+EP6TxvPKYO4Qmoa0/FltcnXtttEByuX0QxkyiAWJskc9tQsEjh6Rk4MAucL5ptIEuwt+l8b/M95HG0qWfY25AqdimLmeevongWg==;RpZnlzv6njdduPgVN//6Ug=="
+secured: "RRWUR4Hx8wqNCz8MHOvJJZqnCvmGD6f6OrcEO3HKZhgr6Z9vW5Z2q2rZI+tGumGsVUxDtTtPXeUDTUYYAzMaAtK0YTsGVBgLUKWkSCSF8wgwlnwuA85mgeg6mN1SDC8Wqc7UOQUkgZbHE0tJExb6pyzyYaceYzqd1N+HRd59rEjaB7Q0f17nWX+mzNL99I9gcycPDdsEPAiZ387O5MhJZtal/op9G5mFjaq8VnV/L/PLBTBQfAZSJ8hFxe4QLSvqZ9t4mqYkE1S/19L3P1mIIw==;UlfZJQgx/jdSH2zErXJOqQ=="
 ---
 

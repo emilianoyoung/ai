@@ -31,6 +31,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-27T09:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
     excerpt: "AI can solve many problems with education in the future. Squirrel AI Learning is always committed to exploring the field of \"AI + education\". According to disclosed information, Squirrel AI has applied more than ten algorithms and deep learning technologies to its intelligent adaptive system. It has also developed a number of globally unique AI ..."
     publishedDateTime: 2019-12-27T00:03:00Z

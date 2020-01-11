@@ -26,7 +26,7 @@ related:
   - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
     excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
     publishedDateTime: 2020-01-08T10:21:00Z
-    sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
+    sourceUrl: https://edition.cnn.com/style/article/ces-toyota-big-smart-city/index.html
     ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
     cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
     type: article
@@ -35,7 +35,7 @@ related:
       domain: cnn.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.2EFBEA8BD83AED76D846DC5A9096DB21
+      - url: https://www.bing.com/th?id=ON.66E11273F9E874F8AD8F5778C45BFD91
         width: 700
         height: 393
   - title: "Toyota is building a tiny utopian city filled with people, robots and AI"
@@ -271,7 +271,7 @@ related:
   - title: "What self-driving cars will really do to cities"
     excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost certainly never come to pass. Self-driving cars, left to their own devices, will likely do ..."
     publishedDateTime: 2020-01-11T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=feedburner
+    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=rss
     type: article
     provider:
       name: Fast Company

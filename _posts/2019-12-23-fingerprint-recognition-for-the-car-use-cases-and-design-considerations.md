@@ -19,6 +19,66 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
+    excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little ..."
+    publishedDateTime: 2019-12-17T15:07:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
+    ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
+        width: 1198
+        height: 599
+  - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
+    excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
+    publishedDateTime: 2019-12-23T03:14:00Z
+    sourceUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/
+    ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
+        width: 700
+        height: 437
+  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
+    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
+    publishedDateTime: 2019-12-23T05:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
+        width: 700
+        height: 466
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
+    publishedDateTime: 2019-12-24T10:08:00Z
+    sourceUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24
+    ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
+        width: 640
+        height: 433
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
     excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
     publishedDateTime: 2019-12-20T23:50:00Z
@@ -32,32 +92,128 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
-    publishedDateTime: 2019-12-27T09:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
+  - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
+    excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
+    publishedDateTime: 2019-12-23T04:01:00Z
+    sourceUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019
+    ampUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+    cdnAmpUrl: https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.057205BCC25C38951B173C05345712ED
+        width: 200
+        height: 200
+  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
+    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
+    publishedDateTime: 2019-12-23T05:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
-    publishedDateTime: 2019-12-25T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
+  - title: "Speech recognition tech cuts paperwork for police"
+    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
+    publishedDateTime: 2019-12-12T20:40:00Z
+    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
+        width: 760
+        height: 368
+  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
+    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
+    publishedDateTime: 2019-12-23T11:43:00Z
+    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
+        width: 700
+        height: 466
+  - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
+    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
+    publishedDateTime: 2019-12-24T00:40:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems/article_0521f10e-d3f3-52e8-8b5f-d6556f5ea209.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
+  - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
+    excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
+    publishedDateTime: 2019-12-23T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-technology-market-2019-competitive-insights-and-outlook-ibm-corporation-imagga-technologies-amazon-web-services-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
+    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
+    publishedDateTime: 2019-12-24T05:45:00Z
+    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
-        height: 495
+        height: 393
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-24T14:37:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "gf92rHH/kblGxghjunaSrGaGF34V/5vQgCgsGMvY39zoVVH4DqYM99ZUm6Xbu4BxnilvtioC4lpyhazuPX8NcEqDW5SLeK6AGxTQ3CJquNEBVail5gqE9+tbtrSLJEj+Ak9S/c8RhrowsaeegaZ3xu31I+tN+WHdcaRNSL3oTIIhhvecvErQoUxosPn09uI+SyvBSHCsNuI+LqWz4Fpko/TLA8mplqEnuvX2SnlVjve0IVTsikVMiJhOCnTy8xocYZzCOmc/adGfxdMqkVZV/Q==;09Mt7s2ygKptGGNAQaatGQ=="
 ---

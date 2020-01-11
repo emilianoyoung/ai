@@ -3,7 +3,7 @@ category: news
 title: "What self-driving cars will really do to cities"
 excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost certainly never come to pass. Self-driving cars, left to their own devices, will likely do ..."
 publishedDateTime: 2020-01-11T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=feedburner
+sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=rss
 type: article
 quality: 24
 heat: -1
@@ -27,7 +27,7 @@ related:
   - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
     excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
     publishedDateTime: 2020-01-08T10:21:00Z
-    sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
+    sourceUrl: https://edition.cnn.com/style/article/ces-toyota-big-smart-city/index.html
     ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
     cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
     type: article
@@ -36,7 +36,7 @@ related:
       domain: cnn.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.2EFBEA8BD83AED76D846DC5A9096DB21
+      - url: https://www.bing.com/th?id=ON.66E11273F9E874F8AD8F5778C45BFD91
         width: 700
         height: 393
   - title: "Toyota is building a tiny utopian city filled with people, robots and AI"
@@ -309,6 +309,6 @@ related:
         width: 500
         height: 500
 
-secured: "lOq63IXWk3DmmwNlzrN0p+0c/+/FA1YX4AKHf/XOOMV4EEiI4mS6Zn8WYBqXqfkjLsDx6F5sfJtWwh0ishncUJsWkx0h3j1FNNFulMVmRSSo7ihXz0OfN3+1KJwHfqrvoONXIlzcqFzyLR+N3sg2NZfFQvf1q6R+6g8cLTBPb7ahcxOgAK0n83CoGc18E+YkcaU5TqhUGgLdM4IW0zQhqr2+EjTP7keQGwEKZ9E9gvm9Fha6FLCGK02Pp7+9W/BL8mp6L86ukowpvXVpiGywFQ==;A24iTDbaBp0pES3xrq+KkA=="
+secured: "FxNPTOjaEIW6F57bXKo5elCdLo0mQZIDAHjfGimu8hAZOEXlixZmU0hawiLMCOIfltC2Z07hpbVjXXhix6zxSxDqPg8ysABdjZBtKWrwtr61Ge0gTdd6RP8dGC+MIF5c056VkpqT9ZJZ3k2m+aWteE7G7PEwK8+kfaU04Ny0D361zqHHIrUcJpslfp1mpm6MoHV+tCnbNO+Y7Q4pOB70IqvFf7Eci7oly8x4X0fpPKPM0hVapgMwtWY3epulh2P3QtbvtYOOnlDbhCnSHGx3Yw==;0cNHTYYnYk859UfKSNcbtg=="
 ---
 
