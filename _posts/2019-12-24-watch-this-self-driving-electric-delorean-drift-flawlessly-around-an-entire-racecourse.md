@@ -97,19 +97,6 @@ related:
       name: Hypebeast
       domain: hypebeast.com
     quality: 24
-  - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
-    excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
-    publishedDateTime: 2019-12-22T14:51:00Z
-    sourceUrl: https://www.thedrive.com/news/31594/these-stanford-engineers-taught-a-self-driving-delorean-to-drift-like-a-professional
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
-        width: 700
-        height: 393
   - title: "Great Scott! Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities using onboard computers and custom made suspension"
     excerpt: "Engineers redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn't think of -self-driving capabilities - and they successfully tested its drifting skills on an obstacle."
     publishedDateTime: 2019-12-23T23:35:00Z
