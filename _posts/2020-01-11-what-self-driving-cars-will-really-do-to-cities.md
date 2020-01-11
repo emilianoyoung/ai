@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Ericsson reveals plans for 5G, IoT – and self-driving buses"
-excerpt: "In one of Ericsson’s no-fills, garage-like labs, students are developing technology to allow a human operator to control remotely the steering wheel and pedals of a self-driving vehicle in order to prevent an accident. The technology, which is in its early stages, relies on a reliable 5G network, with low latency and capable of processing a ..."
-publishedDateTime: 2020-01-02T17:44:00Z
-sourceUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses
-ampUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
-cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
+title: "What self-driving cars will really do to cities"
+excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost certainly never come to pass. Self-driving cars, left to their own devices, will likely do ..."
+publishedDateTime: 2020-01-11T11:00:00Z
+sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Computer Weekly
-  domain: computerweekly.com
+  name: Fast Company
+  domain: fastcompany.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
+  - url: https://www.bing.com/th?id=ON.0A11747D8BD80155D91A3312F3561424
     width: 700
-    height: 233
-    title: "Ericsson reveals plans for 5G, IoT – and self-driving buses"
+    height: 393
+    title: "What self-driving cars will really do to cities"
 
 related:
   - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
@@ -241,6 +239,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BD0980330B1B96209049D5586291CE10
         width: 700
         height: 350
+  - title: "Ericsson reveals plans for 5G, IoT – and self-driving buses"
+    excerpt: "In one of Ericsson’s no-fills, garage-like labs, students are developing technology to allow a human operator to control remotely the steering wheel and pedals of a self-driving vehicle in order to prevent an accident. The technology, which is in its early stages, relies on a reliable 5G network, with low latency and capable of processing a ..."
+    publishedDateTime: 2020-01-02T17:44:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses
+    ampUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
+        width: 700
+        height: 233
   - title: "Toyota plans to build 175-acre smart city in Japan"
     excerpt: "Japanese carmaker Toyota has announced plans to create a 175-acre smart city in Japan where it will test driverless cars and artificial intelligence. The project, announced at the Consumer Electronics Show in Las Vegas, will break ground at the base of Mount Fuji in 2021. Woven City will initially be home to 2,000 people who will test ..."
     publishedDateTime: 2020-01-07T12:07:00Z
@@ -377,19 +390,6 @@ related:
       - url: https://www.bing.com/th?id=ON.492F67F4F8CB602AF0472B31254E0C86
         width: 700
         height: 367
-  - title: "What self-driving cars will really do to cities"
-    excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost certainly never come to pass. Self-driving cars, left to their own devices, will likely do ..."
-    publishedDateTime: 2020-01-11T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0A11747D8BD80155D91A3312F3561424
-        width: 700
-        height: 393
   - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
     excerpt: "Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance music."
     publishedDateTime: 2020-01-07T19:02:00Z
@@ -417,6 +417,6 @@ related:
         width: 500
         height: 500
 
-secured: "LEZSt+9jVaMSFPQPOJfwYGGA4XLPp2r1RH7Be/CaAPhM8PJjJCDAqyxkZV7ZfbnPHocv50cjBOgozPGLJ5gNWJF+vd3YcMZls5toiVSGBWuplvUinK1qLUAireY+d4T0iXqJs1/4gsKM7T19V85gkC75e5B1s4ZjiMNvLNXlLbyWyuzjc5x9ileldZS9C3PnIw6yjFjFxlPg/wDb0agkotVdqEcK6YG759uD7DZwfHd5TxdBln6ebyBDPQFy2R/t7UhxTaReV9c/cmLQVjUywA==;KYm2Y89tsa49NQfabMn7yA=="
+secured: "4cA5mdZ+iFHbdXYtAF6weuCV5o4lYNEoBFtgFKucsFxhs76/tQVnfnocQpEOiY0RWGc7v9qmP7wFnhM8bhTu9EcWXF9Mfk701PifYOZikMTZrwkR50votPN0q+gn7zj/coDCaGWwSxXQYJZ4bbT0yZjuMWPhGOUTE6K7QWExzbc5kg0vbvlm0bD/a0qZD44qnMSFCn7x+Dl2Ke1zS18xI//DFwXXIjTxMXK/6z1PL0unQyRd/Q556aXoDFn/IPDpQmHwjJs6iPIzkk9IXZ3+gw==;UFP1PxoZNBMbsm9YSc/ThQ=="
 ---
 

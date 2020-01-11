@@ -380,6 +380,19 @@ related:
       - url: https://www.bing.com/th?id=ON.492F67F4F8CB602AF0472B31254E0C86
         width: 700
         height: 367
+  - title: "What self-driving cars will really do to cities"
+    excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost certainly never come to pass. Self-driving cars, left to their own devices, will likely do ..."
+    publishedDateTime: 2020-01-11T11:00:00Z
+    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0A11747D8BD80155D91A3312F3561424
+        width: 700
+        height: 393
   - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
     excerpt: "Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance music."
     publishedDateTime: 2020-01-07T19:02:00Z

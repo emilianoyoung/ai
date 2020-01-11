@@ -24,6 +24,19 @@ images:
     title: "CES: New tech to give appliances voice interface"
 
 related:
+  - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
+    excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
+    publishedDateTime: 2020-01-02T21:47:00Z
+    sourceUrl: https://mobileidworld.com/sensory-brings-speech-recognition-kitchen-appliances-010202/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
+        width: 700
+        height: 490
   - title: "CES: New tech to give appliances voice-controlled interface"
     excerpt: "Released by Sensory, a Silicon Valley company pioneering AI at the edge, it is a specialised model of TrulyNatural, the company’s large-vocabulary speech recognition and natural language understanding platform. Voice adoption in consumer electronics continues to gain significant traction, but as more voice-enabled products powered by cloud ..."
     publishedDateTime: 2020-01-01T22:11:00Z

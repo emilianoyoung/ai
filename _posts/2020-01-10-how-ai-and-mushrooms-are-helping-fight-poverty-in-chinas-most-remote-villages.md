@@ -1,31 +1,27 @@
 ---
 category: news
 title: "How AI (and Mushrooms) Are Helping Fight Poverty in China's Most Remote Villages"
-excerpt: "But I never thought about giving up.” It’s a success story that highlights how even people in the most far-flung communities are being lifted out of poverty by technology—particularly artificial intelligence, or AI. Since China embraced economic reforms in the late 1970s and embarked upon an export-led boom, rural people sought fortunes ..."
-publishedDateTime: 2020-01-10T14:21:00Z
-sourceUrl: https://time.com/5759428/ai-poverty-china/
+excerpt: "A mushroom forager in rural China has become an internet celebrity — and a successful businesswoman — thanks to an AI-powered app"
+publishedDateTime: 2020-01-10T18:33:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/how-ai-and-mushrooms-are-helping-fight-poverty-in-chinas-most-remote-villages/ar-BBYPrA4
 type: article
-quality: 62
-heat: 62
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
-  name: Time
-  domain: time.com
-  images:
-    - url: /assets/images/organizations/time.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Time on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.542A90C1AE263BF11DA6D8EFC81D8A65
+  - url: https://www.bing.com/th?id=ON.101366C08CDAE2C8FC52FAB86A0AF6A7
     width: 700
-    height: 366
+    height: 367
     title: "How AI (and Mushrooms) Are Helping Fight Poverty in China's Most Remote Villages"
 
-secured: "7qx0Q4N7J0f1IbnZWtSI1hT6e99DWy++fDpzTwwPc0vMivEqMXyh3JShinr3X3FJtWDO4NKgmQYkabUlgKDjXw0TXXamTmza8SNgZCWmf4n0+pC50RmuKi9vh4BHXYfH9OH1yneV3865uNYTUM1Ly/RQLIavqKBHe5H7bby59AJ3Hn5cCKwZw82W4b/TZogfl5h3B2OdPb5UYaCHqtWtttmGaZ71PQTGjekQy9eV34tJKndwCF1NTJnPhyIjgOIUuL6qcE87DkkI4211Iw/vig==;/MkDCf7ksZ8dddEDuj38wg=="
+secured: "fqEMIaJSC7r9wZZslZjamAw5Z/ud9c4hkpuVAkBsVFWxpYnbnNFt1BQkhuyl1YxaQ5DjVvsoSI10P0imoJ5s6PE5Y+TltDif/wUmTvj1RWQLvLVrbBosEZjjrBBrXVp/cO58G2GrETzc0pi3A879fJj9ZEmFun0uTEKVZq3cKgAK2x+M3dNIstfK8TJgdjnYV5dYpyjeLY0x5cIMmKUit7gdJdNMAcv1Xtf0HVmpWxkLXuC9fD77fLOMIeswnBjZnk5OP1uc/LDmoRtlHgt/5g==;crNsUIHb0rljy3n3PgGk6Q=="
 ---
 

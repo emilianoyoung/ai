@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-03T10:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: MarketWatch
@@ -28,62 +28,54 @@ images:
     title: "Online Translation Market - Investment Opportunities in Competitive Environment"
 
 related:
-  - title: "Icons Infocom undertakes implementation of Dragon Medical Speech Recognition"
-    excerpt: "Icons Infocom undertook the implementation of Dragon Medical Speech Recognition with Philips digital workflow solution for one of the leading hospitals in India. The client faced several challenges and was looking to eliminate them. Some of the major problems included lack of qualified medical stenos, high dependency on stenos even in critical ..."
-    publishedDateTime: 2020-01-04T15:32:00Z
-    sourceUrl: https://www.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
+  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
+    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
+    publishedDateTime: 2020-01-02T07:45:00Z
+    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
     type: article
     provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 56
+      name: Slator
+      domain: slator.com
+    quality: 31
     images:
-      - url: https://cdn.newsserve.net/newsR256.png
-        width: 256
-        height: 256
-  - title: "Venezuela’s opposition —and Juan Guaidó — face a critical test on Sunday in National Assembly vote."
-    excerpt: "CARACAS, Venezuela — Venezuela's opposition faces a critical test on Sunday, when its leader, Juan Guaidó, will seek reelection as head of the National Assembly — a title that forms the basis of his recognition as Venezuela's true head of state by nearly 60 countries around the globe. For Guaidó, the vote amounts to a do-or-die moment."
-    publishedDateTime: 2020-01-04T15:09:00Z
-    sourceUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html
-    ampUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
+      - url: https://www.bing.com/th?id=ON.A58AA421615EEE94F6F0DB3BE79CFB3E
+        width: 400
+        height: 400
+  - title: "iFlytek Eyes Chinese Market with Improved Voice Recognition Platform"
+    excerpt: "The Chinese startup iFlytek is hoping to introduce its voice recognition platform at a national scale within the next two to three years. The company leverages AI and big data to identify users based on unique vocal traits, and is now claiming to have made a research breakthrough that will enable a more widespread deployment in China."
+    publishedDateTime: 2020-01-03T20:15:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/iflytek-eyes-chinese-market-with-improved-voice-recognition-platform/221046
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 45
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.64C5F7517B64B206DDE538B1FA446189
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
+  - title: "Investment Advisors, Fintech Innovations Top SEC’s Priorities for 2020"
+    excerpt: "Commission will also pay close attention to market infrastructure, seniors saving for retirement, and information securities. The Securities and Exchange Commission’s (SEC) Office of Compliance Inspections and Examinations (OCIE) is paying close attention to the retirement community this year, the agency said in a statement. The OCIE listed ..."
+    publishedDateTime: 2020-01-09T17:03:00Z
+    sourceUrl: https://www.ai-cio.com/news/investment-advisors-fintech-innovations-top-secs-priorities-2020/
+    type: article
+    provider:
+      name: Ai-cio.com
+      domain: ai-cio.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.F64E0461B50DA2AAE5F4E965FD7D0C7A
         width: 700
-        height: 467
-  - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
-    excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
-    publishedDateTime: 2020-01-02T21:47:00Z
-    sourceUrl: https://mobileidworld.com/sensory-brings-speech-recognition-kitchen-appliances-010202/
+        height: 466
+  - title: "Remark's KanKan Continues Transformation of CP Lotus's Traditional Supermarkets Into Smart Stores with Xishan Market Opening"
+    excerpt: "Remark's KanKan was once again chosen by CP Lotus to transform one of their traditional supermarkets into a \"smart\" store by applying their award winning AI technologies in facial recognition, object recognition, and behavior recognition. \"During the market opening, CP Lotus's Xishan store in Wuxi saw significant customer participation ..."
+    publishedDateTime: 2020-01-07T14:12:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-remarks-kankan-continues-transformation-cp-lotuss-traditional-supermarkets-/2020/01/07/9077458.htm
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
-        width: 700
-        height: 490
-  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
-    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
-    publishedDateTime: 2020-01-11T10:15:00Z
-    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
-        width: 480
-        height: 332
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "A9d6mdj5nNWnyQ+iCUn1rUrbyTCYoBkAsABpDEfvQMEJS5pLNt+w8pNy2uDhxF440QDjSSTX71as+MM3yuguZwyYrImPaOGvH/w9oQ8jon0Pz1Zt5pBA4X7fWpm03yxj0HhrExbvPrScUcvYYTIoyv4TdVOfYJdIovTopg9rC+PuCjTLpcJc00t0k2TOWo+D+u5DtqK7t6ghcaQiOfiA3+DhcgdxxH3t/m+StmWR5xy5AMfaIp6Ml4k0M3u/fYd4fFdf9EUnEVb2V+fYzd4GcQ==;f4jqcifFZJ4gO4Zad/xHfg=="
 ---

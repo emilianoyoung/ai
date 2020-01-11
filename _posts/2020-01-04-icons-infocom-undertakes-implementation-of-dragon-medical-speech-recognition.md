@@ -8,8 +8,8 @@ ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertak
 cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
 type: article
 quality: 56
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: newsr.in
@@ -26,10 +26,23 @@ images:
     title: "Icons Infocom undertakes implementation of Dragon Medical Speech Recognition"
 
 related:
-  - title: "Online Translation Market - Investment Opportunities in Competitive Environment"
-    excerpt: "The report further predicts the size and valuation of the global market during the forecast period. Online translation refers to the machine translation which converts the one language into another. With over 6500 languages across the world, it's humanly impossible for an individual to have a sound understanding of many of them. Online ..."
-    publishedDateTime: 2020-01-03T10:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
+  - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
+    publishedDateTime: 2020-01-11T09:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
+    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
+    publishedDateTime: 2020-01-08T11:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
     type: article
     provider:
       name: MarketWatch
@@ -39,47 +52,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Venezuela’s opposition —and Juan Guaidó — face a critical test on Sunday in National Assembly vote."
-    excerpt: "CARACAS, Venezuela — Venezuela's opposition faces a critical test on Sunday, when its leader, Juan Guaidó, will seek reelection as head of the National Assembly — a title that forms the basis of his recognition as Venezuela's true head of state by nearly 60 countries around the globe. For Guaidó, the vote amounts to a do-or-die moment."
-    publishedDateTime: 2020-01-04T15:09:00Z
-    sourceUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html
-    ampUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
+  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
+    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
+    publishedDateTime: 2020-01-07T20:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.64C5F7517B64B206DDE538B1FA446189
-        width: 700
-        height: 467
-  - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
-    excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
-    publishedDateTime: 2020-01-02T21:47:00Z
-    sourceUrl: https://mobileidworld.com/sensory-brings-speech-recognition-kitchen-appliances-010202/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
-        width: 700
-        height: 490
-  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
-    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
-    publishedDateTime: 2020-01-11T10:15:00Z
-    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
-        width: 480
-        height: 332
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "0D3ryuFHvLmx56ZedCahsNmt1kPk+GYTvhyWXYlsfOgyF4CPhwbYTRKKF1EjUPbSR2vnOmgHUQxD3+B0iCyQlNLfOJ+4lz0ZKVbDgeyK84yO0urdZj4Llo+FHTJBJC1+rugs6z1fW6bbq/8hMMwfxJVv4Iui5CWnNwTG6NYe8fHp0JTqFbGqehyw4+aSZAxOcg9v41Q56mrlOprJD+xWxzh+BkmQtDq6JxvP4zZ+9x3GbuRJypBI6UO1cZ34FI3KKP5DPSAuIjVwW22YglPlZA==;3zkAG8jOoeT7PWpq35FQTg=="
 ---

@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Robotics Are Making Iran's Military More Dangerous Than Ever"
-excerpt: "Key Point: How will Iranian acquisition of robotics and artificial intelligence technologies impact basic assumptions about Iranian behavior and alter the regional military balance? Recent Iranian ship interceptions highlight Iran’s military challenge and continue to drive a regional arms race."
-publishedDateTime: 2020-01-10T05:30:00Z
-sourceUrl: https://news.yahoo.com/robotics-making-irans-military-more-053000388.html
-ampUrl: https://news.yahoo.com/amphtml/robotics-making-irans-military-more-053000388.html
-cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/robotics-making-irans-military-more-053000388.html
+excerpt: "Key Point: How will Iranian acquisition of robotics and artificial intelligence technologies impact basic assumptions about Iranian behavior and alter the regional military balance? Recent Iranian ship interceptions highlight Iran’s military challenge and continue to drive a regional arms race. Whereas Gulf Cooperation Council states spend ..."
+publishedDateTime: 2020-01-10T10:44:00Z
+sourceUrl: https://nationalinterest.org/blog/buzz/robotics-are-making-irans-military-more-dangerous-ever-112426
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: The National Interest
+  domain: nationalinterest.org
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.28E05060BD1656B3AEAA9188FCEABAAE
+  - url: https://www.bing.com/th?id=ON.ECBE06D7219AE9BCC58BCB4BB48AF462
     width: 700
     height: 466
     title: "Robotics Are Making Iran's Military More Dangerous Than Ever"
 
-secured: "HJzJqOSLfTEpqJGbtJZTBKgVCsMEdrB37vsGeqViJTsl1a2NtZYfNPF7GNJh4J0D8pA6mWCPqganNyVnyXPLJaHLFp3a0YoKSpjsBj8B/cixGYOYjDRL5ImgkXPWJAUmGZtYsJmatainIu6c86FJ44/R0o67yUrOBIdJeFkt7i6FccDrLtxtica9ge0Y0zUfogoXcLQ/R7eEFvbwitpXYh9rJ+ObjC61XT9yXVaOPJ4pmEVQocyhgsldvOYEWgDB74/+14rhHjCE1EWCqZOfsA==;4E5RanVCX89T/OxJHGHscg=="
+secured: "1qpgj2MIIjwfr8rEo/63kHeVYT3JcKRA9jgI1tAjBqkpyDuGqpyGgi8EMGj1CEbFq1B7GeBKvYYjd0EklfkfBBA8usszDdKbsSsGCcvIXhPwd7Jq6AQD1LmSW5NNp26xsPiWCb4KSLrhicwJNw2O/IPRCw0FVxPwUsnNBiOBmTIc3hmtBfVGTFv7HpU4hnfkLgmYf4frSJmKEonfiR3DowsLpYNJxgfMLk3/lXd7FiuPv2YHcwWe8GheYE+c6pp5Rrg5nfXuMIO7FCteCr8y4A==;Jg/kNHZyeTKQOlvdGelcrw=="
 ---
 

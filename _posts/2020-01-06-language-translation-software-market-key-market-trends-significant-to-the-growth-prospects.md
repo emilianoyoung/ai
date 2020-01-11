@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
-    publishedDateTime: 2020-01-07T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
     excerpt: "Jan 07, 2020 (MENAFN via COMTEX) -- (MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin, United State - January 7, 2020 /MarketersMedia/ -- Global Machine Translation Market Research Report ..."
     publishedDateTime: 2020-01-08T01:53:00Z
