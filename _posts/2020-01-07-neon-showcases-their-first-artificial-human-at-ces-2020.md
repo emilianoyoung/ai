@@ -191,6 +191,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
         width: 700
         height: 392
+  - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
+    excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
+    publishedDateTime: 2020-01-10T22:21:00Z
+    sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F34A641AF19471140AB2B1D0AC66E928
+        width: 700
+        height: 466
   - title: "WTF Is An Artificial Human And Where Did They Come From?"
     excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
     publishedDateTime: 2020-01-08T21:53:00Z

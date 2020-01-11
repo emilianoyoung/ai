@@ -58,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3F6B9BC5D46AF70AB5E956503BB4FE20
         width: 700
         height: 393
+  - title: "Don't bank on self-driving cars to reduce auto death tolls"
+    excerpt: "Don't bank on self-driving cars to reduce auto death tolls Will autonomous cars eventually be the antidote to the senseless carnage on the roads? Human behavior being what it is, don't count on it. Check out this story on app.com: https://www.app.com/story/opinion/editorials/2020/01/10/auto-fatalities-nj-drunken-driving-texting-autonomous-cars ..."
+    publishedDateTime: 2020-01-10T10:18:00Z
+    sourceUrl: https://www.app.com/story/opinion/editorials/2020/01/10/auto-fatalities-nj-drunken-driving-texting-autonomous-cars/4423887002/
+    ampUrl: https://amp.app.com/amp/4423887002
+    cdnAmpUrl: https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4423887002
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.8AD80A1A8AB084BCA60A4AC54D35D196
+        width: 700
+        height: 395
   - title: "Feds pledge to keep their hands off the wheel regarding self-driving"
     excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
     publishedDateTime: 2020-01-09T00:01:00Z

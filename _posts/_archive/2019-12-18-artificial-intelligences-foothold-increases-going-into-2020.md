@@ -29,6 +29,6 @@ images:
     height: 710
     title: "Artificial Intelligence’s Foothold Increases Going Into 2020"
 
-secured: "ilIgDsPK6xHIX45XH4bMsK8HHtX/8HwrM9GDd1p7+vAetKP0EXHtdmfKrAGkS8nMhyZBn22SJmZr1GAYDgN0dp+ZP11TDceZF5b8upScepBz7ol8BO21a/lOw/pPpMw5e4VoEwdXdgJRdxcSrQMxInOMDzW5RGC3Gd0sKV25SUWCGgpykSYIT4v47lSfqk87kJlaKSnC8rhXnZDbqlmjykSepXuuk0RUPoN/QcHd4x5JwYf/wd847vSzugsWBQ9mbL1EcrXnZju6XeT3iJH2eg==;6MpdqvacnOZhhVyEXyTCNQ=="
+secured: "bCvR9hsxagJ9BeDGxJlCe92uzNva/5PCJE9VtmO0htk6rf5BupkxRiJNquVGdv0AjjWHqDMbY/CbDZf4z1559bJ74DWltHlifQFfdBat+lXSR9RKz3bkWm94215boQNpKQsuWDC1nIGgLEtLqv+lzh+3ijKs3OtWoFrY7wFVJDv0Rcgw4nCienovKuFLIKGdEYC65YvkyWdK2B7hWFi8ySO5tisyZIEIUfPASsp5uggWixVp1UhGn7u/1juBqA5eV1ekXneG08i3NU57jpaf9g==;78irMr5b2g7J5OGQogTmpQ=="
 ---
 

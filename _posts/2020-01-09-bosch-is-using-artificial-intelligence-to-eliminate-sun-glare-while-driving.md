@@ -26,6 +26,6 @@ images:
     height: 350
     title: "Bosch is using artificial intelligence to eliminate sun glare while driving"
 
-secured: "SYclYvt8CzjfdfGeTPQ+wsjOaeSEz6wm2UZcS2qdxVBY6exOYXhMcfDZ4hDmyh3L5QLuYMiUXTKKuwjJQfQukTK9IiyVIMf0QJyCOsrSi08zW42eiY8SN7hDWOF0gSiodSNctL2reohMaRJnSFDmp5Yi1EWgmj0Eb9grXznas+ZCVvtjK6NKV1beKNR4U1jubTrVkw+LY7H2TTY5MXOer3vzsMpUxF0Zv5Mcckc8pVqQ/KefP12z+kNEyonJaYCKndIHLLtAkqaA0Mi7n97x2Q==;tRoEF1FsABtV837xYKc+bA=="
+secured: "Rsv9lIpLxnqSAOmRbk2fMFyDhb/ZejR0yt2nWHlhYgYCwjaTzpawoWyY4lbP9cH4P+rrV4RlFeRZc8Ku2QbIqdzZrPgzD6yCvqICWnBaphOR5/d8m81d+cHXROUapD/2AKUo++zwY0m0jqsalHNPWXzky/0uC2p8eGgrQLwCaQI4wUDtRXQ2yxnVYebgBJddny1n3jAyRAtaIiyXEkQNjJVzOmUq+TmwFhE3vMo3qHdx85Uwge/QpLyquDRb48EZr4jPv1VAZYQLYBH8oO14Bg==;px6xny9azfOwvteBQmRwTQ=="
 ---
 

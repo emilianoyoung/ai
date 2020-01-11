@@ -8,7 +8,7 @@ ampUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learni
 cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -78,6 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
         width: 700
         height: 467
+  - title: "Competing with robots: How online learning can keep professionals winning in the future"
+    excerpt: "Future jobs will need us to possess skills that robots do not. How can we compete with robots and come out winning? Upskilling and online learning can help us with the answers."
+    publishedDateTime: 2020-01-09T09:57:09Z
+    sourceUrl: https://www.msn.com/en-in/news/other/competing-with-robots-how-online-learning-can-keep-professionals-winning-in-the-future/ar-BBYMh6X
+    type: article
+    provider:
+      name: India Today on MSN.com
+      domain: msn.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.896326F17B367D2EC691AAAAE5D0CE29
+        width: 600
+        height: 315
   - title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
     excerpt: "Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep neural networks to maximize performance, battery life and to add new intelligent features. Cloud-based AI inference is not ..."
     publishedDateTime: 2020-01-07T11:11:00Z

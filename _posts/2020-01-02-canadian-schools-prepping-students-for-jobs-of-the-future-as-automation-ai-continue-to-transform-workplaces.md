@@ -110,6 +110,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1F01EB69BB3330BEF80CC94BBFD2CA7B
         width: 700
         height: 366
+  - title: "Cerence Brings Gesture Recognition Windshield to CES"
+    excerpt: "Cerence is showing off an improved version of its Cerence Drive platform at CES 2020. The multimodal upgrades primarily concern technologies like gaze detection, head tracking, and voice and gesture recognition, and will give drivers more ways to control various elements of the vehicle without the need to press any buttons. The highlight is the ..."
+    publishedDateTime: 2020-01-10T21:59:00Z
+    sourceUrl: https://mobileidworld.com/cerence-brings-gesture-recognition-windshield-ces-011007/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.153380E285D262CBCFD9821427EC28E8
+        width: 700
+        height: 700
   - title: "CES points to age of “Intelligence of Things”"
     excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
     publishedDateTime: 2020-01-06T07:04:00Z

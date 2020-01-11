@@ -52,19 +52,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Speech recognition and synthesis sample"
-    excerpt: "Shows how to use Speech Recognition and Speech Synthesis (Text-to-speech) in UWP apps. In addition, translations are shown for speech recognition and text-to-speech for supported languages. Translations provided may not be using ideal phrasing and are provided for demonstration purposes only. Some speech recognition features require acceptance ..."
-    publishedDateTime: 2019-12-21T22:35:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/samples/microsoft/windows-universal-samples/speechrecognitionandsynthesis/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
     excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
     publishedDateTime: 2019-12-24T00:40:00Z
@@ -143,6 +130,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "BcD/JH0JmwC8g8nb0Do6PZc8XLTbzJ0U6n4d9UyOpyG9NSSRn0RbOP0Ltsxcnki929zeL6VOLszEv5PQhRkbbGmcb6mKJYqZKIdrYjxilZvB22ZQcpKxoI0Ej+bUbV+1LFGZhZGEJb5c2rcueIeTlZ/7sSzdxZmdMSeRDDkcIY+AdCJWneLYvy0W7o/HliqqaLDJ72e0mgl5g9HV7Q2i4CFyvG8bET9+OIbXhLVhH49HhEYu1vZ7xDg2ImsPl1cwMXmDOp/b9dSDqGYyj159SQ==;6wyogK9y1VB6AxjnJGmDWw=="
+secured: "8J67ugdRm8pjl7CG2dheIg440rIFFxE8flHFQWDC72Xia4/QSiUvi4PdXD07PG/ZXHXfA4Vvi7HAexEkaYg3gLzzcEm7ql5dIdolFSqo2sLeJveFs91ze43ZqGYnU/XVxNkXyDbTqfI7bOJbuucMe+VgQkvwoHySjZJYZL07IiWkm2hq7t21S7aVj1TQjYORVGGNMUhP5YWqZhxAzc+t5kRc+0pFBv3S8t5wpzzeQAesyeWy3n3dLWAce6y6LYO5ba2rHYtncs2h3z4n6RVKOQ==;3JWfyY0kw0LCYvG1ytytCQ=="
 ---
 

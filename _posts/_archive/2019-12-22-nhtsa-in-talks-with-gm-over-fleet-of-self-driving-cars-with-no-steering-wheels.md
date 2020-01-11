@@ -91,15 +91,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
         width: 600
         height: 315
-  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
-    publishedDateTime: 2019-12-21T21:51:00Z
-    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 0
 
 secured: "MZBRpu9gY/Vgb5nZas+mS1cB8nTnb4pD80er4NH4rpXbVv7i21bRJdMm+dh70AI+Xuo136mKAcvXqyg6y2eCmZTvujt3QiGNJNZfA3Eh2/Yv4M8I58MVQjCneVnIScPhSzJifbE4aZW0+CQnC0NJvGhvnH6IwC7NXz4PircP16euAkzsWVusH05/WHsSE2jv8lJF8ud01KArC8ZiGcEVG7GtgwF8eyY1SAhFCMktl1ig9JSAwg+VysPqViZy1SK9WY/4yOZK9+eKnWvambzc4g==;v4uso3vXVGNIFATMaeo/kw=="
 ---

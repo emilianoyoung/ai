@@ -8,8 +8,8 @@ ampUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-va
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -30,17 +30,19 @@ images:
     title: "Interview: VW’s hip, all-electric ID Buzz van is a platform for its self-driving efforts"
 
 related:
-  - title: "Intel’s Mobileye has a plan to dominate self-driving—and it might work"
-    excerpt: "A lot of media coverage of self-driving technology has focused on a handful of big companies with well-known brands: Google, Uber, Tesla, and GM. But there's another company working on self-driving technology that might ultimately prove even more important. That company is Mobileye, an Israeli startup that was acquired by Intel in 2017."
-    publishedDateTime: 2020-01-10T16:05:00Z
-    sourceUrl: https://arstechnica.com/cars/2020/01/intels-mobileye-has-a-plan-to-dominate-self-driving-and-it-might-work/
+  - title: "VW's all-electric ID Buzz van is a platform for self-driving efforts - Electrek"
+    excerpt: "The ID Buzz still seems almost too cool (and far away) to be true. But at CES 2020, the new chief of VW self-driving told Electrek that the Buzz is also the basis of VW’s first self-driving vehicles for limited commercial use by 2022. That’s a good sign that the ultimate electric hipster van is on track. “The ID Buzz will be our first L4 ..."
+    publishedDateTime: 2020-01-10T23:29:00Z
+    sourceUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/
+    ampUrl: https://electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/10/interview-vws-hip-all-electric-id-buzz-van-is-a-platform-for-its-self-driving-efforts/amp/
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
+      name: Electrek
+      domain: electrek.co
+    quality: 70
     images:
-      - url: https://www.bing.com/th?id=ON.4D334AFFA40450F730F4E47EC3A18DB3
+      - url: https://www.bing.com/th?id=ON.EB3BC38397B52BF680E58451DAAFDB8D
         width: 700
         height: 350
 
