@@ -21,8 +21,8 @@ topics:
 
 related:
   - title: "Artificial Intelligence can help detect blood cancer: Study"
-    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added Schultze ... We therefore wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze. Data from more than 12,000 blood samples – these ..."
-    publishedDateTime: 2019-12-22T05:24:00Z
+    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze."
+    publishedDateTime: 2019-12-22T10:51:00Z
     sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/
     ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
     cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
@@ -32,9 +32,9 @@ related:
       domain: thehealthsite.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.8527B0B2E6466C345509C302DBF0B50D
-        width: 655
-        height: 353
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg
+        width: 675
+        height: 365
 
 secured: "vIlegE/IgU/bZpeqEuYJoQsAYgW9hhUrD2RIa71b+Vr/8+YFfAMs6ZRTkosARRABgUGt6Ej8LthS/MhIxgnwaiapm56BwJyD4IjrvX9DW3QZx6IB8VLGd7BtVYvLSuqilEuXv30Hdr5Ll4bJ4cOJkPQWiDDDgPRW7S8mV3b4eKP0dkLvk8DjFQ6zhVVO/pfBxOuRBvL+GeJ+rlaoumz12W8SMsLwEt0mOaZPe0KH/LIScKuQhCiw7eHRbs8mDKOvjkFOqE8NRYuIW9MgOw3ztQ==;DyWKAOfCe3wA++wQQSD0Lw=="
 ---

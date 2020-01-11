@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These include autopilots, computer-controlled automobile engines, MRI machines (health services), self-driving cars (transport services), as well as high skilled services such as A.I. radiology reports, legal services, and mental ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: Psychology Today
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
   - Machine Learning
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "81jvAGtgDpvct69WNwIdNeChfcnG1R4yTCdMANvckoRQ63zvVk3SErZFV///6TtD7tvkUfbaV19CG9hfnxssRXz33pFUvD/8RYbqSH5cxmLXqagn9Vn4PzYsc5q36mWmjdW/zSsp00bIySq5MaUtAPgAa77OLCFTyeYQGyh2WEVHiQH4QgCSRzYghVtXxtVrwAFqPHIOCz9Z5kdQrPa4dK1UgGloO/GHhKGHwYNT0kYgtmq5a57sbG4O6aX3pP/Z+YtkIqGSIuBQdif0BqwmzQ==;+rTtdffz55bac7V/F6WA5A=="
+secured: "E/GqYaonn9Uv7wn5y8L3lcaaYHKXpnCerxZqmrNdh0kUZes7tAI3q7/OdlKDBlBxlLfoajm69Y7N/a8l7xIQ29j5j+vgS3FehH+QurbypWZWUVzMseoyzvBp0Gu4T55Mad0zcrhT34LQ+CByiaFI7v69wRDyLaGYzvcl1dW+xyX/5KM17UqFyVvTGzJ6gm837OoRb4/zKezPq28HtrOuJF+qr6sxKmWVkbcGi57uPoEwuQZR+RseHOwNCKqe8U/ogWjOnHQOiEHicijLAsYUZA==;Yf3DpeZ0O7Wh3Fr5WIAN8w=="
 ---
 

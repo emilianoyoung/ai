@@ -291,6 +291,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 0
+  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
+    excerpt: "NEW YORK, Jan. 08, 2020 -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted."
+    publishedDateTime: 2020-01-08T23:54:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-180846870.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "ng1LbNsJxcgeY6M0/Rwcez2ftMMLiuB+MWcg4gyicm1DxoM71CQGC/zNSRjCTlcW4MigleZl1fsbpZ9+kcWDjvDz3z5zI2DlnRhpuCn1hfUcvOkhSt/U7FWN+9oZFhkkkSMkAm827eVPqS5gX5g5SPSvPPCrhbtaXOG4NNMCo11RGlgnUsPYONWMTNnRll30l1XEfDrVNOJamUdwiTd51Vcr1BGuSMVYsUKO7AvSEUZsRkdEZFavAV6TptLm7R3DaCH9ZPl6o4GEp1ROx3pPIA==;g3PaqrVQqvW3G+EuhUscWA=="
 ---

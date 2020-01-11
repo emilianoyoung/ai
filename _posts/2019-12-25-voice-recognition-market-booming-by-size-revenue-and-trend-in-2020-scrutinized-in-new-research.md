@@ -41,15 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
-    publishedDateTime: 2019-12-16T16:43:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "iODe23/aG/w563lUGL0TolhM0JSOyzLf8rhzVsj9D6U/s5vcoRYcF40BMbWWfX5UOuxf9gX0P3c09nqcLOsqklq0kLX793jHmvuQqjXJ+XLynHxu884wpOkgbLMxgGWVPk5V7EL8+EBlAb4C8jJPW3O4TsW+YharZQYtR0nJV7GCmYbtSIiHcswnBIhJhosb0nh4vq+BQxrY7WsSgES6B7y4flvsHWVNCAqbxf+Wdu0aJxXDhZLaz1E7Vc1ciSHw8fFnh6Xz3Fq+Si8GuVK4ig==;1Y1wR9qw5TM9Up7BLRiiDA=="
 ---
