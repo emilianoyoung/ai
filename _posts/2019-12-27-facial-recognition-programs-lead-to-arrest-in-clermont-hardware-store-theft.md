@@ -144,21 +144,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for Asian and African ..."
-    publishedDateTime: 2019-12-22T02:08:00Z
-    sourceUrl: https://www.thejakartapost.com/life/2019/12/21/massive-errors-found-in-facial-recognition-tech-us-study.html
-    ampUrl: https://www.thejakartapost.com/amp/life/2019/12/21/massive-errors-found-in-facial-recognition-tech-us-study.html
-    cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2019/12/21/massive-errors-found-in-facial-recognition-tech-us-study.html
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.16191907FE4A7CE06EC149C843E3E897
-        width: 700
-        height: 377
   - title: "Why some cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
     publishedDateTime: 2019-12-22T18:03:00Z

@@ -61,6 +61,19 @@ related:
       - url: https://www.bing.com/th?id=ON.BBA61CF977597F79AC2A22961877E5BD
         width: 700
         height: 366
+  - title: "OrCam Updates Computer Vision Tech, Announces New Products at CES 2020"
+    excerpt: "OrCam has announced an update to its most popular device, and will be unveiling a series of new products at CES 2020 this year in Las Vegas. This is a companion discussion topic for the original entry at https://findbiometrics.com/orcam-updates-computer-vision-tech-announces-new-products-ces-2020-011002/"
+    publishedDateTime: 2020-01-10T16:18:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/orcam-updates-computer-vision-tech-announces-new-products-at-ces-2020/228310
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 39
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
 secured: "DnKUjWKQyAaFNMhTaJJJP1OARIfyjrL7qDHDPQW/NXyJasABKSDd7KWhqBTvsDfG8/9Sqq1ZjFIT11a0sq+tz+IdP0Gz0k2oU/Q/tP5pX2c1FS5jvE/MxCGEX6sc9onRrOo9L1z3kQyK3mINT8UGjZPbx4GOqZama5N8DTyllDsv6MxfZfzNrMdmeaQ4emEEDg8A/D3CafolcwVQAG2RQL5VuJMlICRpqln99BhxmccVLWYWweXK7LkPBsNa4sfBUJIwDnkwd6Q71nLfyKW/5w==;0Bn7pbhDv/SX0irOjfe6ag=="
 ---

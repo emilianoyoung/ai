@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2E2776383204F03F441E0772957DE5F8
         width: 700
         height: 393
+  - title: "OrCam Updates Computer Vision Tech, Announces New Products at CES 2020"
+    excerpt: "OrCam has announced an update to its most popular device, and will be unveiling a series of new products at CES 2020 this year in Las Vegas. This is a companion discussion topic for the original entry at https://findbiometrics.com/orcam-updates-computer-vision-tech-announces-new-products-ces-2020-011002/"
+    publishedDateTime: 2020-01-10T16:18:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/orcam-updates-computer-vision-tech-announces-new-products-at-ces-2020/228310
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 39
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Malong Technologies Announces Key Collaborations in Retail with NVIDIA"
     excerpt: "\"Innovative retailers are reinventing retail with AI to create intelligent stores that deliver incredible customer experiences ... Companies must meet exacting standards for technology capabilities, customer service and experience with Microsoft Azure. Only about one percent of the company's partners earn Gold Certified Partner Status."
     publishedDateTime: 2020-01-11T00:34:00Z
