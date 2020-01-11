@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Automation And Machine Learning: Transforming The Office Of The CFO"
 
-secured: "3k+/8KS4jKqr34ebiMHP3x+gXn/p917jWgtZIDRb8StQgHIfgRXu8YM2Ejyv3ncHHAt6dVTj4ZAIWNQ3d8cmIwgRZjPxMU86hw5WdRMZEMSHedPxN+zYywGZe02XWdsvQmWElEtyAuJygKE7fwNr5/G2MJyAXAc21KNZc9GfDPf1TFoCOxTmnF76XYLoL6IvAwLUz7JNl9chizKP+q7lm0TNkXgrun69vEXjqLJSG0vWZ3c3vDxhPjRW6952quY5dMBZKc1l+9SmOWzcXtQ1vw==;359rp4UsqI5/YuH487OheQ=="
+secured: "uckbAwsR0fnajk+PrtGR9DPIwBhIDJc7c4XY+2IclgYP8ZAlCqjAjfgmpUcJKHXqR+fJEFlVlz5WdCEirIHYUE9H1RyyuPE1ID0nZFuc5bvuqV76gQjt6DRrsi4q5W9+hMkRPVk/L0RcS1z/aAmrJUuPUWcHHvDlKCuI7wXw8sRuOOSASdtj8oe1xKuHe0X/FZcIhReHzowubhSiuQTWYdsjw1GN7bB+X03JIO8XGdX8iYyAYMRMstfWAzm4u4gqT/4h6X3dGIZg9HKB8PoGwg==;KCs9i/39eOHGW8c58//Xcw=="
 ---
 

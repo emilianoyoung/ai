@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -95,6 +95,17 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -123,6 +134,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "WMe+wKbFlprxksGGB8+tTDmhOVi3MS4DZSuf29ZuqOrg6MWExrCUDWGl1ZxyfL5LrzF6Dbg8tIqK5YoG6fT71GqJ0JwAITZZUPXiv+4phUirePEylWjIlyiksusLB9o+jAm5/y16ObXqdQ/gOn3RYXZkc4+cwXBH+BsnJ/3iuuF9U4g5zEYQE2FyOBQujoN7b46reigBu4iZO9/k339kY/5x96IzewMarw3XTHLAkHySF5+InzUkcZISejLnT1tRYfEWiVgGVsFu2ByPI3y4qA==;LFeU9hELcTxBrBp696vMAA=="
+secured: "zMJBgAUbg1aG0vi2xYkNq3yjjdf2z2c6c5QDcl/ZE7NaTAToqSLQtE7hKcBpDMaHkXBKfvq+mAyGpQg9eCIQVY9JH9G4b8y1NJd600WMSHE3K+DG3+jj4UksIMMx2mlGrmbfw/rdOCndYBbYp3qjfbHDrtFV4UPG784S7UVTN13zzgPXd3vxufVXm3wNLjT84hxUduYor/STtSJmkXBafz/oGwTnOb188KnEQnYUtzLR9754i2U+98l+06+jDJh5gw157lQqv7vaxIgzjZtowA==;UPlslFRGMt/s9zv4yT2B1g=="
 ---
 

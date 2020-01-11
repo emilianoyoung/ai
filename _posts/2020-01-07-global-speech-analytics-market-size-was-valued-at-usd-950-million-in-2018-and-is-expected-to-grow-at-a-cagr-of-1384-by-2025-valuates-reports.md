@@ -2,8 +2,8 @@
 category: news
 title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
 excerpt: "/PRNewswire/ -- Speech Analytics has become increasingly popular in the telecommunications industry because of the huge amount of data produced by"
-publishedDateTime: 2020-01-07T11:07:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025--valuates-reports-300982567.html
+publishedDateTime: 2020-01-07T21:43:00Z
+sourceUrl: https://www.prnewswire.com/in/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025-valuates-reports-894848027.html
 type: article
 quality: 0
 heat: -1
@@ -291,16 +291,7 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 0
-  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 08, 2020 -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted."
-    publishedDateTime: 2020-01-08T23:54:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-180846870.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
-secured: "VFsuXq4Gvs74metjzZxosEKA0hJxC5uWF1xJyqpi7toAgjZiY9nPpo9Mxf3NzcWuVwmwrNl3NsU29ZQ4+NynOpSLGzI9F8s586Ftay0R5TWyNBZzWrRrjNDwFX1Hlt19nK7xNbRBp0iI5dQxmx0KEXmVFgGOsKHTRZ8KXZkuTproP1DTEfgM0HyusbXxMI0ltOYH6NLdjR9/dF+7VvrvftmZRtXn6rqe2ZCi43CzBTAYEzO1v1P0v8E6q6CPO/vUukB4ZO2BB7CVZ0gnnETmyw==;qxj5DfgYPo/9o1yDMFsr2w=="
+secured: "ng1LbNsJxcgeY6M0/Rwcez2ftMMLiuB+MWcg4gyicm1DxoM71CQGC/zNSRjCTlcW4MigleZl1fsbpZ9+kcWDjvDz3z5zI2DlnRhpuCn1hfUcvOkhSt/U7FWN+9oZFhkkkSMkAm827eVPqS5gX5g5SPSvPPCrhbtaXOG4NNMCo11RGlgnUsPYONWMTNnRll30l1XEfDrVNOJamUdwiTd51Vcr1BGuSMVYsUKO7AvSEUZsRkdEZFavAV6TptLm7R3DaCH9ZPl6o4GEp1ROx3pPIA==;g3PaqrVQqvW3G+EuhUscWA=="
 ---
 

@@ -255,7 +255,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 20
+    quality: 22
     images:
       - url: https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
         width: 800

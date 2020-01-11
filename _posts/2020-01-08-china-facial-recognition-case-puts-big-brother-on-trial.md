@@ -1,27 +1,27 @@
 ---
 category: news
-title: "China facial-recognition case puts Big Brother on trial"
+title: "China Facial-recognition Case Puts Big Brother On Trial"
 excerpt: "Facial-recognition technology has become embedded in China, from airports to hotels, e-commerce sites and even public toilets, but a law professor had enough when asked to scan his face at a safari park."
-publishedDateTime: 2020-01-08T04:58:46Z
-sourceUrl: https://www.msn.com/en-us/news/world/china-facial-recognition-case-puts-big-brother-on-trial/ar-BBYITi5
+publishedDateTime: 2020-01-08T04:58:00Z
+sourceUrl: https://www.ibtimes.com/china-facial-recognition-case-puts-big-brother-trial-2898340
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: AFP on MSN.com
-  domain: msn.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.2BC7E21A1AA2F4A15A9048B99B4A0705
-    width: 600
-    height: 315
-    title: "China facial-recognition case puts Big Brother on trial"
+  - url: https://www.bing.com/th?id=ON.D173C78D8CB4BDC3E35C42C7BE4007B0
+    width: 700
+    height: 468
+    title: "China Facial-recognition Case Puts Big Brother On Trial"
 
 related:
   - title: "Worldline presents biometric facial recognition payment solution at NRF 2020"
@@ -64,6 +64,6 @@ related:
         width: 1200
         height: 627
 
-secured: "UOqb3lc5wURWWuzkvh/aO88nd091SZBwwVCsoBoW1eH0fUgDGTqMcw1A37jN5RJHksCjcNafFQgtzKfBP+ZR4V5acVXEpg/M7LngMKZxLPft3OZ185suAinNE3MYUVdyT/xTBDwjn6x3aTzsPkem3hGi/n+ZfaLj7xmuyDku4ltL9Rme1329/W9p+lNJoYAlyJdvqcD9ohqA59R/5B6FZFIWEt/QthLLtwvUrmsHB+wDyF9l0co179/XabEQCE8l/9XFq93RiDJuNPJ21OjW3Q==;Ib7JnEfCuDSJhD7/k0zttw=="
+secured: "gnmE5/JubV+YZxJ1l90BYjHI8Zt1JbJk87tXOuSpmZrJoa2TsgHMBgdUUP0QOzxd+P7mExh24JPKm47D8QJZsfUY7l97ir+rEO8Om/26VlShE1lwJkwhKajh/JrUt9ggB6W8/Q1c6z7CJy8kQtC+DdYkuHWbWmdA6mlR8oOLANX4/KqomgMBIV30Z+C2o2hBMVNcm3xlNHAmYdiw36bwhy2XExAJic8Kiu/95oCamIelEbxFJXT5WMQDoKJgQBYTUakOQtPjueD5jzk8EF+s+g==;+oH7EGwxtxTxpr41OqPDmw=="
 ---
 

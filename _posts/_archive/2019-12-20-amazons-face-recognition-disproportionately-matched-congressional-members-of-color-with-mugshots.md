@@ -100,6 +100,15 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
   - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
     excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
     publishedDateTime: 2019-12-23T20:30:00Z
@@ -119,6 +128,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "wA6Pw09xhsdodGHeOcnXvkmkBvs93I99s5isUqvFvgnbOSgXaZWrikxejm5YzGOMaGPgwfumG7yt4wXWe7MXsnGNw8y3PGZNC/wrZVVvUngxHOfOdhnucyNy3/DndHQVP1fuxoZMQv5wN6qK4Us1czXiAQ4eL8H3u8qYjqU2TBLdEHCxtgBKEifO3tWOMsxKCL+7AUiav9tpTRubYTjRk3v0BeQ70LEOegXT0AmFC/mly6A4QcC7UcG+rtG926BQ/wvy6IlttWwbmgjB59yRng==;XqyTTSNmiGHRxvoDiwGOiQ=="
+secured: "6bX7HAkND0wahDYoIQaJgbp2Cn2CfSpGyfmKnCfG37z5RSEWqFDLGUYfcqyHYXYxHOjKwyCN77TyLXBFbOEuT60tMV8HHKorYy2GfuUoEj+04j7tzLj3JAh67KgNS+IcGpI9dmdtuSs+GHj6xk9KjSfvqf/+4u7bNYRQk8aXpcXvMbcNXpDK45FmgTt2ZY+ckPG28XvhwOjkdK9emwdKAXra+udHvQlO35OoxbyYCjfpRKY2/jxQnwzq/MNc1zXgNhlxrQJEoz0LgQ6KFVsn8w==;BxWHgB6A4babAMWBzyb1hg=="
 ---
 

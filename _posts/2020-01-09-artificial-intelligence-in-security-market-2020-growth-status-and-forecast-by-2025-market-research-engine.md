@@ -283,8 +283,8 @@ related:
     quality: 0
   - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
     excerpt: "/PRNewswire/ -- Speech Analytics has become increasingly popular in the telecommunications industry because of the huge amount of data produced by"
-    publishedDateTime: 2020-01-07T11:07:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025--valuates-reports-300982567.html
+    publishedDateTime: 2020-01-07T21:43:00Z
+    sourceUrl: https://www.prnewswire.com/in/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025-valuates-reports-894848027.html
     type: article
     provider:
       name: PR Newswire
@@ -294,15 +294,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AF3294DE263BA10F5DE18F6C9C94D65C
         width: 700
         height: 366
-  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 08, 2020 -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted."
-    publishedDateTime: 2020-01-08T23:54:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-180846870.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "negT0Cwv247r/gvAI4OTW5lYbfyJPbDFKhqHuhter498eL1YxRuRz3Wl7eXaqdTws+wFo2wAF0ClTg4YjKr72xZIvIbuz9mgzSFhFHwZIQMXw7uAxZjtj5Ti7pbCiEYVHRvTh4hyRlsy4p/9p4GMTtj3b1Rk1eUJIX0Et54FNue/lVF9UFEE3RQ3ReWuR5xvVg3YkSZu+KPutGQSmL22YrItrpmnHd1FQGhAOKcrkxA7tfVaeqTTsP7jGjnrz36fCdas+wy4+Yzsrb3coBSFag==;h1vh9bWxW/HFiydQUgHrVg=="
 ---

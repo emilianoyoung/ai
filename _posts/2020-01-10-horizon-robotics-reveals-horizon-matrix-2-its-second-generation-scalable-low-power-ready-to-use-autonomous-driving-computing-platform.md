@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Horizon Robotics reveals Horizon Matrix™ 2, its second generation scalable, low-power, ready-to-use autonomous driving computing platform"
-excerpt: "About Horizon Robotics Founded in 2015, Horizon Robotics™ is a pioneer in the area of artificial intelligence computing for smart mobility at the edge. With over 600 patents, Horizon Robotics has been actively developing high-performance, low-power, and cost-effective deep learning computing solutions that advance transportation safety ..."
-publishedDateTime: 2020-01-10T08:22:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
-ampUrl: https://markets.businessinsider.com/amp/news/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
+excerpt: "Founded in 2015, Horizon Robotics™ is a pioneer in the area of artificial intelligence computing for smart mobility at the edge. With over 600 patents, Horizon Robotics has been actively developing high-performance, low-power, and cost-effective deep learning computing solutions that advance transportation safety, enhance the driving ..."
+publishedDateTime: 2020-01-10T08:02:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-horizon-robotics-reveals-horizon-matrixtrade-2-its-second-/2020/01/10/9079517.htm
 type: article
-quality: 51
-heat: 51
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Robotics
 
-secured: "mua7QhPGyeutoc69yNoFh/6bVdudl1f44tGBshx0slXnJaIeyTt8CU/qjy7STX56xNTNKJPHZPDGc8gq/iOt6Mvf29H/C0In7u1zvm+aJh6JklIfsBOebFilPUqQ3l91WzNq+MHZZwSOyNi8JaNoGKqlh4+VsGZWg0m5w3sJK69djnBf5VAR1IcULaR4LGlGeIxI4ra/BkBYSMFQdUz7tesnB3IMSoYnnbtmADkXjciz0z+iWzrrWmhIlpEVpWVDyQHD6daKPaalV6adGWcPxA==;2mgbNK353/KHeOBVY9AqGw=="
+secured: "pKE3YcGkbKQ62DDRfaN5c/dhsiaOvgLVhKOxXWBBXbb+C8KNgHLaLZIGKIFiQT52gf5dp/vfi2IFqIFr5f4uncr8rovZccPyd2hSj1MbmAWL8eKD35MCVRNg9a5h/6jLQA/7YN8yKxaMCnhFDfMFjfikKftmdKWC5LiW0pekgQ31nUweWMQvZSm1fxdZ7CV32ttKZx3EogKAhHQCVJQh76OA9HzZszm3R6pyxVg7dpRtRhfejb29l2gD5ScEDGyndf7ZMkXOfCUWOoPkqvyHOQ==;ajK5/Up9nQUtUCJJW5ESJA=="
 ---
 
