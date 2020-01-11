@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/googlecloud/2020/01/08/why-explainability-i
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/01/08/why-explainability-is-a-big-deal-in-ai/amp/
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

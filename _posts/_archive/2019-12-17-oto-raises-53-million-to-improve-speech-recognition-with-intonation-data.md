@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -56,19 +56,6 @@ related:
       - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
         width: 760
         height: 368
-  - title: "Speech recognition and synthesis sample"
-    excerpt: "Shows how to use Speech Recognition and Speech Synthesis (Text-to-speech) in UWP apps. In addition, translations are shown for speech recognition and text-to-speech for supported languages. Translations provided may not be using ideal phrasing and are provided for demonstration purposes only. Some speech recognition features require acceptance ..."
-    publishedDateTime: 2019-12-21T22:35:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/samples/microsoft/windows-universal-samples/speechrecognitionandsynthesis/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
     excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
     publishedDateTime: 2019-12-24T00:40:00Z
@@ -147,6 +134,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "TSYTiTClKmi0pOmysujkyuh9N8xT8uDPNtzcH3BLruNh0p16JDauEgqat/dllcGw2Pf3zDnZAPfXOWSQiQ2Cwn46RTmFs9fPTGcKdGCuFEFXpsF+UuuzoEXcBIxvgUOFjf5OPw7raCTm4QNa65TTryzHdUhCJm3q4o9MdTdscvF7aepJkh3V21Lj4/9pFacWNtAtdXEytuM9V7kvnnLD/pNrbA98sR97JsY7+IUNa5cp0w8vMNGUlnWWNpJBWrxOelIYof8qhq6DjCmDWP2yaQ==;o1gTuTAr/ZsBHFikHg/fpQ=="
+secured: "n1sctXk1/KtaqEs+JId3Ez8lByAFwBT0BWZF+XdLROi97HxUn7W9tj8PWjCdugp2dtNbRTauACP+sHg9TRi3z35n4KTtb0Vqy+m37DqEp4npJoydTN0yyjlM8DjA6et6fM6GeYLidj35GiRNXJhGm70xFn9U0NmSTT/22UQMfPiXX81XO8RFvtvN0l4R8Ym5mRUGQ8mXXwvP1GORa/C5BQet2BezgT0oEN8Ao/yDBrVTc9bMZellhWyH04/UAwOPrC/hrvE6MFvc+oq59nx0+w==;utLhIVVyKzGpEQ0q5mDw6w=="
 ---
 

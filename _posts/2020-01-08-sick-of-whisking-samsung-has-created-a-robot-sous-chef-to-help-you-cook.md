@@ -8,7 +8,7 @@ ampUrl: https://robbreport.com/gear/personal-technology/samsung-bot-chef-2891606
 cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/gear/personal-technology/samsung-bot-chef-2891606/amp/
 type: article
 quality: 58
-heat: 69
+heat: 68
 published: true
 
 provider:

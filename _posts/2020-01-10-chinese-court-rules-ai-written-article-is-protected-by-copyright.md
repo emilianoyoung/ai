@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/10/chinese-court-rules-ai-written-articl
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/10/chinese-court-rules-ai-written-article-is-protected-by-copyright/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 349
     title: "Chinese court rules AI-written article is protected by copyright"
 
-secured: "AHVQbZNTFypTOsc7bBLS+zkmMRl+QAKfK0TagbkiqeDzlC38MDYFpJHY14cIRJ/cHgL4S0DND3UNmueK29VFMJ7+0aXxV3D1Tdz179IAX1IBYaJpBNZbikMH3b5KUdV6cs3IYcq2JPeJtoUP8n+S/+k5lT+dVP0SCoIPzjI94k/Ovzuy7wTAvD0/gbzyVvEOHU/Qom2R+w3cGU2+ck4NulJ+UDt9BeZUQUOzJcrznv8fQTZV380laxbPPm6vAqEIoWyS2Kpbk1/M3ULX4IOwrA==;SwGhzgkft6fXOCBv650Lkg=="
+secured: "WSeHuVAxPa9aiHLzOlA2933kF0U8uO3UC0M4Xn1TiMhSG685vAwi/w/+5TSKqxKbbJTH0NdFPQPAO6ZyxkOcJ1Ddl3lL04L8O7VEJ3NC4HRNimy14C6iHvhjiXm1RWmufgmpE2UNuOk2CPQft0NetuTCdGzAO7VLM3C1yVujIEFtn1wfMAWnBylUVI+BnQrOf2EVARsPJpY64jK8QcyhrNgGvQ682KTWknjFnBjMrg3qPGGPFxmJIdSV8J46RHFiuQgH3S06+tRJ3i7nmGDtlw==;UnOeFFLpLHkHfdAJLi+yJA=="
 ---
 

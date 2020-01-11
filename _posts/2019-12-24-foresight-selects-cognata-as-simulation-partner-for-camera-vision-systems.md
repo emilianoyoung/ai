@@ -65,19 +65,6 @@ related:
       - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
         width: 760
         height: 368
-  - title: "Speech recognition and synthesis sample"
-    excerpt: "Shows how to use Speech Recognition and Speech Synthesis (Text-to-speech) in UWP apps. In addition, translations are shown for speech recognition and text-to-speech for supported languages. Translations provided may not be using ideal phrasing and are provided for demonstration purposes only. Some speech recognition features require acceptance ..."
-    publishedDateTime: 2019-12-21T22:35:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/samples/microsoft/windows-universal-samples/speechrecognitionandsynthesis/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
   - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
     excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
     publishedDateTime: 2019-12-23T08:36:00Z

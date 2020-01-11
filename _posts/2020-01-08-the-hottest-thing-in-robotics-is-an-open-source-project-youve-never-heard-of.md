@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-rob
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
 type: article
 quality: 103
-heat: 154
+heat: 153
 published: true
 
 provider:

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Feds pledge to keep their hands off the wheel regarding self-driving"
-excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
-publishedDateTime: 2020-01-08T22:30:00Z
-sourceUrl: https://www.autoblog.com/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
-ampUrl: https://www.autoblog.com/amp/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
-cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
+title: "Don't bank on self-driving cars to reduce auto death tolls"
+excerpt: "Don't bank on self-driving cars to reduce auto death tolls Will autonomous cars eventually be the antidote to the senseless carnage on the roads? Human behavior being what it is, don't count on it. Check out this story on app.com: https://www.app.com/story/opinion/editorials/2020/01/10/auto-fatalities-nj-drunken-driving-texting-autonomous-cars ..."
+publishedDateTime: 2020-01-10T10:18:00Z
+sourceUrl: https://www.app.com/story/opinion/editorials/2020/01/10/auto-fatalities-nj-drunken-driving-texting-autonomous-cars/4423887002/
+ampUrl: https://amp.app.com/amp/4423887002
+cdnAmpUrl: https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4423887002
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Autoblog
-  domain: autoblog.com
+  name: app.com
+  domain: app.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.3F6B9BC5D46AF70AB5E956503BB4FE20
+  - url: https://www.bing.com/th?id=ON.8AD80A1A8AB084BCA60A4AC54D35D196
     width: 700
-    height: 393
-    title: "Feds pledge to keep their hands off the wheel regarding self-driving"
+    height: 395
+    title: "Don't bank on self-driving cars to reduce auto death tolls"
 
 related:
   - title: "The Self-Driving Enterprise And The Road To Automation"
@@ -41,21 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DD3DC587635FB36C5036D22150DCFD30
         width: 600
         height: 315
-  - title: "Don't bank on self-driving cars to reduce auto death tolls"
-    excerpt: "Don't bank on self-driving cars to reduce auto death tolls Will autonomous cars eventually be the antidote to the senseless carnage on the roads? Human behavior being what it is, don't count on it. Check out this story on app.com: https://www.app.com/story/opinion/editorials/2020/01/10/auto-fatalities-nj-drunken-driving-texting-autonomous-cars ..."
-    publishedDateTime: 2020-01-10T10:18:00Z
-    sourceUrl: https://www.app.com/story/opinion/editorials/2020/01/10/auto-fatalities-nj-drunken-driving-texting-autonomous-cars/4423887002/
-    ampUrl: https://amp.app.com/amp/4423887002
-    cdnAmpUrl: https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4423887002
+  - title: "Feds pledge to keep their hands off the wheel regarding self-driving"
+    excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
+    publishedDateTime: 2020-01-08T22:30:00Z
+    sourceUrl: https://www.autoblog.com/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
+    ampUrl: https://www.autoblog.com/amp/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
+    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
     type: article
     provider:
-      name: app.com
-      domain: app.com
+      name: Autoblog
+      domain: autoblog.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.8AD80A1A8AB084BCA60A4AC54D35D196
+      - url: https://www.bing.com/th?id=ON.3F6B9BC5D46AF70AB5E956503BB4FE20
         width: 700
-        height: 395
+        height: 393
   - title: "These are the 20 smartest enterprise tech acquisitions from 2009 to 2019, according to analysts"
     excerpt: "The list ranges from Dell's $67 billion acquisition of EMC and its major subsidiary VMware to a big Google deal in artificial intelligence."
     publishedDateTime: 2020-01-10T21:20:00Z
@@ -83,6 +83,6 @@ related:
         width: 700
         height: 393
 
-secured: "eOPeBsVIuIdZrmEyYHtY2yDqEX8aMGe8q1Qz6+A8jeiIP7i8JvYdfrOUrPRiJSPOTRMZ97sA7mNawK+GXtbYjWdhUICDb8d6/kXyvwoJWoxPLS/DhhuDKFdSkXBh8FiiOxRkUKp0WRwRNaSCbuxl4p7wuUfuO+38fAlmpNC2lOMNqlE0NdAdt5W2bq/+Pp4rl+40C3CAmW2OdI9FduEOesF21ufnt81TDGt6UuDfL29NcNZGcbZigQWJJsqVvXMjksMEq3ksjqAbhan+pZPBZw==;dJLhK4uGaMSLr5g+PUR7Fw=="
+secured: "iEXMemPnwcKLACdNRk8s1WYyt8YSTuj/94KonA0ux6I9fnQ/EPZbsfGzhukt1w6UiFsQwzwAdl0tBvll8kqV/g4jkHxTyHveVWXWOSaJ4l7kLthI/o/Y7XWoIG9rwfmXwEB8LeN3/dkySKs4shEPDBFW+bQjpQ5Q3/sLHcXKmcNWTYUgeAfDL6cS29ZkrTJB2Ev/O0c28flvIQYJdc3N5d27nw48iM4vnHGznG0o7saF2UrY/XHTc3rGTEsTBCLv4pQ7tJnk4rjK5JcE6LAprg==;rBffDqeaGnV93DGyjhSrvA=="
 ---
 

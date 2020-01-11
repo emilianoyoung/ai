@@ -31,20 +31,18 @@ images:
 
 related:
   - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains ecosystem. Trains Agent is a complementary solution joining the open-source solution suite with Allegro Trains,"
-    publishedDateTime: 2020-01-07T14:38:00Z
-    sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
+    publishedDateTime: 2020-01-07T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 52
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
-        width: 400
-        height: 145
+      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
+        width: 700
+        height: 368
   - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
     excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
     publishedDateTime: 2020-01-08T10:15:00Z
