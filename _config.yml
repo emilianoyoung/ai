@@ -182,7 +182,7 @@ default_event_settings: &default_event_settings
 
 # Default settings of newsletter issues
 default_newsletter_settings: &default_newsletter_settings
-  layout: none
+  layout: post
   category: newsletter
   permalink: /web/newsletter/:path/
   deleted: false
