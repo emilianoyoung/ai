@@ -24,162 +24,30 @@ images:
     title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
 
 related:
-  - title: "IBM launches Advertising Accelerator with Watson to automatically optimize campaigns with AI"
-    excerpt: "IBM hopes to ride the adoption wave with an offering powered by its Watson platform. IBM Advertising Accelerator, which launched today at the 2020 Consumer Electronics Show, leverages AI to predict the element combinations that drives the highest audience engagement and conversion. Watson automatically creates campaigns for customer segments ..."
-    publishedDateTime: 2020-01-07T15:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-with-watson-to-automatically-optimize-campaigns-with-ai/
-    ampUrl: https://venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-with-watson-to-automatically-optimize-campaigns-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-with-watson-to-automatically-optimize-campaigns-with-ai/amp/
+  - title: "ROYBI Showcases Revolutionary Language Learning Robot For Children at CES 2020"
+    excerpt: "Using the innovative power of AI and machine learning, the device also gradually adjusts the content to fit the child's learning pace, providing a completely personalized education. Roybi Robot is conversational powered by cutting-edge voice recognition technology, encouraging children to become more confident communicators while practicing ..."
+    publishedDateTime: 2019-12-30T11:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/roybi-showcases-revolutionary-language-learning-robot-for-children-at-ces-2020-1028787838
+    ampUrl: https://markets.businessinsider.com/amp/news/roybi-showcases-revolutionary-language-learning-robot-for-children-at-ces-2020-1028787838
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/roybi-showcases-revolutionary-language-learning-robot-for-children-at-ces-2020-1028787838
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
-    images:
-      - url: https://www.bing.com/th?id=ON.BD1EEB25ACEE15BC658E47A517B29C09
-        width: 700
-        height: 350
-  - title: "IBM points Watson at the marketing world with Advertising Accelerator"
-    excerpt: "IBM's latest Watson-powered product is the Advertising Accelerator announced at CES 2020. The predictive audience tool uses artificial intelligence (AI) and machine learning to identify and recommend creative assets most likely to drive engagement in a target audience. The new tool helps media buyers and brands improve the effectiveness and ..."
-    publishedDateTime: 2020-01-07T11:28:00Z
-    sourceUrl: https://www.techrepublic.com/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-    ampUrl: https://www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Natural Language Processing Advances Clinical Decision Making"
+    excerpt: "Recent studies showing racial bias perpetuated by the use of this technology also contributes to providers hesitancy to adopt the technology. Machine learning and natural language processing that is developed within an organization rather than relying on outside vendors can improve providers’ confidence in integrating AI into their workflows."
+    publishedDateTime: 2019-12-27T14:32:00Z
+    sourceUrl: https://healthitanalytics.com/news/natural-language-processing-advances-clinical-decision-making
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.B3E2A0958C13168EA831AFA46BE9C31D
-        width: 700
-        height: 525
-  - title: "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement"
-    excerpt: "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement and conversion from the audience. Specifically, by leveraging artificial intelligence, three important factors while advertising will be enabled:"
-    publishedDateTime: 2020-01-07T14:18:00Z
-    sourceUrl: https://www.neowin.net/news/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.24F27A9CB0BEE9E633703A1C3CD6B35D
-        width: 700
-        height: 394
-  - title: "The AI Eye: VSBLTY Partners with News America Marketing, IBM Announces Advertising Accelerator with Watson and CEVA Partners with SiFive"
-    excerpt: "IBM (NYSE:IBM) announced the launch of Advertising Accelerator with Watson at the 2020 Consumer Electronics Show (CES). Advertising Accelerator is described in the press release as \"a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and ..."
-    publishedDateTime: 2020-01-07T16:57:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-vsblty-partners-with-news-america-marketing-ibm-announces-advertising-accelerator-with-watson-and-ceva-partners-with-sifive-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
-    excerpt: "The AI announcement was aimed straight at the current tech battlefield of autonomous-vehicle technology. After emerging during the 2010s, it’s now potentially set to deliver in the 2020s, with likely consolidation of companies along the way. Intel Chief Executive Officer Bob Swan started his CES conference with new from Mobileye NV ..."
-    publishedDateTime: 2020-01-07T03:47:00Z
-    sourceUrl: https://siliconangle.com/2020/01/06/intel-makes-splash-ces-autonomous-driving-tech-ai-tiger-lake/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.8DBAA785A813E02220BAA9C3A5277FA7
-        width: 690
-        height: 560
-  - title: "On the road to AI adoption, execs grapple with expertise and data"
-    excerpt: "Amid a landscape marked by augmented workers and redefined business models, companies that fail to overcome the knowledge, data and tool barriers to AI adoption are at risk of ceding ground to the competition. It's a trend IBM hopes to capitalize on, with tools like IBM Watson promising to address real-world problems. \"While there is still work ..."
-    publishedDateTime: 2020-01-03T16:25:00Z
-    sourceUrl: https://www.ciodive.com/news/ai-adoption-execs-expertise-data/569747/
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
+      name: Analytics
+      domain: healthitanalytics.com
     quality: 39
     images:
-      - url: https://www.ciodive.com/user_media/cache/b7/ba/b7baee9daea0631ca01e244162568fa8.jpg
-        width: 770
-        height: 364
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
-    publishedDateTime: 2020-01-07T14:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
-        width: 400
-        height: 225
-  - title: "LG joins the virtue-signalling crowd with AI standardisation plug"
-    excerpt: "Looking around the world, the European Commission has put together a group to create an ethics framework to guide the development of AI, Facebook has backed a German initiative called the ‘Institute for Ethics in Artificial Intelligence’, the UK Government has formed its own AI Council, the US has launched the ‘American AI Initiative ..."
-    publishedDateTime: 2020-01-07T11:10:00Z
-    sourceUrl: https://telecoms.com/501616/lg-joins-the-virtue-signalling-crowd-with-ai-standardisation-plug/
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.59DFB387B5F8A0DF13EAC0CD6CB01852
-        width: 300
-        height: 161
-  - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
-    excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
-    publishedDateTime: 2020-01-08T21:28:00Z
-    sourceUrl: https://www.techtree.com/content/features/14005/ces-2020-ibm-launches-advertising-accelerator-watson.html
-    type: article
-    provider:
-      name: Techtree
-      domain: techtree.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.58BA6C624B93346ECE8C987A28B0D845
-        width: 315
-        height: 236
-  - title: "LG to Accelerate B2B Innovation With Microsoft"
-    excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG's B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG's autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond the ..."
-    publishedDateTime: 2020-01-10T08:55:00Z
-    sourceUrl: https://www.autoblog.com/press-releases/lg-to-accelerate-b2b-innovation-with-microsoft_21794/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B042E861197CCE873E4B8BFE2984CE25
-        width: 400
-        height: 188
-  - title: "IBM launches creative assessment tool"
-    excerpt: "IBM's Advertising Accelerator utilizes Watson’s AI in order to help advertisers better understand the creative preferences of an audience segment, and stop attempting outreach to unresponsive audiences in the process. Ad targeting enables marketers to identify core customers, who are often overserved with..."
-    publishedDateTime: 2020-01-07T22:30:00Z
-    sourceUrl: https://www.campaignasia.com/article/ibm-launches-creative-assessment-tool/456463
-    type: article
-    provider:
-      name: campaignasia.com
-      domain: campaignasia.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.737DC3B3BC3AEC50D8D0FF8485873B43
-        width: 472
-        height: 315
-  - title: "ESG Technical Validation: Predict and Optimize Business Outcomes with IBM Decision Optimization for Watson Studio and IBM Cloud Pak for Data"
-    excerpt: "ESG recently completed testing of IBM Decision Optimization for Watson Studio, which is designed to enable organizations to accelerate the value they can extract from AI more easily. Testing examined how IBM Watson Studio with Decision Optimization collects data, organizes an analytics foundation, and analyzes insights at scale—with a focus ..."
-    publishedDateTime: 2020-01-03T01:08:00Z
-    sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-esg-technical-validation-predict-and-optimize-business-outcomes-ds-os-us.aspx?tc=page0
-    type: article
-    provider:
-      name: adtmag.com
-      domain: adtmag.com
-    quality: 0
+      - url: https://www.bing.com/th?id=ON.6700B8CDD4EC3BA1CD6C66D7BB29D308
+        width: 686
+        height: 396
 
 secured: "H8x2GUAv4s3V7Pg2BTW7ZFzXClGPbAHXlNvh0+XBOAmv4WM7B0YfYChw7vLKNmeq6qcB9qyMtt4nqlVbh8/jb7NEuBxeLNCA0uZHGt3mt8k+Zq7EUwE8hvRtqKTFwG5ylLz9B5M5b6r6/6ueGiq+Bs1DqGW5JI3cjytKiCbpJvQfwhcY8bCuuFhltkl6CFjSQJYIVcVNRIgrLELw3LuyGJEdt7kpntSnBc9+UApUFmdqBevlOGW6plmBJqHtDM9dCJ6Ka75YCG8sgOEjzzT1bg==;5ASKHOLeEITD79FNBiYXSw=="
 ---

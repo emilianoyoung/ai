@@ -50,6 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.32E0303AB6F67A6F1A91F4C5E87F41AD
         width: 700
         height: 525
+  - title: "LG to Accelerate B2B Innovation With Microsoft"
+    excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG's B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG's autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond the ..."
+    publishedDateTime: 2020-01-10T08:55:00Z
+    sourceUrl: https://www.autoblog.com/press-releases/lg-to-accelerate-b2b-innovation-with-microsoft_21794/
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B042E861197CCE873E4B8BFE2984CE25
+        width: 400
+        height: 188
 
 secured: "G0td7LoJY0fVY8Ou56xu4APMN9+Q4EkdpgM2uCHSM7FJX2+5AFMGIlUtBnsz2vWvKcLrTe/HS9hEIVPwRoOvLisFarVa1ByZnHPRsMUzbhg4TkYyDLepR9XWFSibCe7VgztabUcyIk5P1MbK+PHzbKrzNe3um79c+pDca+HAulyYOFVM5HOOikWNbwd4iGztPmnSO5VJBa9lnxYdH8c1aPsUclIL0XPf731Hr2gsupDvFrrQvfTTNewN0ItNjveJadDdLNl5Ikz4ADyWuKlqCw==;lspqBeHg4f1DEoo8e4MyWQ=="
 ---

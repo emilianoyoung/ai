@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/data-2020-outlook-part-ii-expla
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2020-outlook-part-ii-explainable-ai-and-multi-model-databases/
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     width: 700
     height: 525
     title: "Data 2020 Outlook Part II: Explainable AI and Multi-model Databases"
+
+related:
+  - title: "On the road to AI adoption, execs grapple with expertise and data"
+    excerpt: "Amid a landscape marked by augmented workers and redefined business models, companies that fail to overcome the knowledge, data and tool barriers to AI adoption are at risk of ceding ground to the competition. It's a trend IBM hopes to capitalize on, with tools like IBM Watson promising to address real-world problems. \"While there is still work ..."
+    publishedDateTime: 2020-01-03T16:25:00Z
+    sourceUrl: https://www.ciodive.com/news/ai-adoption-execs-expertise-data/569747/
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: https://www.ciodive.com/user_media/cache/b7/ba/b7baee9daea0631ca01e244162568fa8.jpg
+        width: 770
+        height: 364
 
 secured: "ZCnk5MGnyL8nnqrJg1J7UgJpqtUSVS2jeTviXNxGsBZyB3YKsv43h0K6hOR2bMB/fevZc39P31TQgkgfkgZ327jIkwJhFcdTLLlNHZDL5PgRlRQqFMzDTWO7HBSdFpjLJjDo6U3DlthsQdoM5ZI7weFfllBymuRQJXzKAz4qdBgzWfB/75CGoZzYrZzK2v7etCvWMvU/BwLJhVxydTYDcmtMh/0k7AYea0xKsP5jP1jVur81BSPtqIOFzI4mMUzbiXimxjpRwM+QJCGL5xqgqw==;AdUfbPk/DUTyWEkGuP+dJg=="
 ---

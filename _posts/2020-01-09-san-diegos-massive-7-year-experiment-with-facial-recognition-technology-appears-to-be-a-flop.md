@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D1B01DC764E4126A77861362472347F3
         width: 600
         height: 315
-  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
-    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
-    publishedDateTime: 2020-01-11T10:15:00Z
-    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
-        width: 480
-        height: 332
   - title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
     excerpt: "Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice recognition, machine translation, and voice synthesis technologies. Jarvisen has an instant response rate of less than .5 seconds as well as a built in 2-year global data plan for coverage in ..."
     publishedDateTime: 2020-01-08T19:10:00Z

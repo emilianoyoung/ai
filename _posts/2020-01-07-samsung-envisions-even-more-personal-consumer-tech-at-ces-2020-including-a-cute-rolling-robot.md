@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.58E464A21E4BE47C7494081576A42BF2
         width: 700
         height: 367
+  - title: "Toyota plans to build 'city of the future' with housing, robots and autonomous vehicles in Japan"
+    excerpt: "Fuji in Japan. The \"Woven City\" will include thousands of residents and will test autonomous vehicles, robotics, personal mobility, smart homes and artificial intelligence. Toyota plans to build a \"prototype city of the future\" on a 175-acre site at the base of Mt. Fuji in Japan to test and develop new emerging technologies such as autonomous ..."
+    publishedDateTime: 2020-01-07T21:04:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.4F90164C92A9255588318DED4308E670
+        width: 700
+        height: 393
   - title: "Snapdragon Ride is Qualcomm’s autonomous shortcut to self-driving cars"
     excerpt: "Qualcomm has built a modular autonomous car system offering automakers a shortcut to self-driving vehicles, as the chip-maker attempts to extend its footprint outside smartphones and modems. The Qualcomm Snapdragon Ride platform includes multiple chips and accelerators for things like computer vision, packaged into a car-friendly form factor ..."
     publishedDateTime: 2020-01-06T18:30:00Z
@@ -191,6 +206,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F32B5AAC7D31C0B4E9A46D590400D734
         width: 700
         height: 388
+  - title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
+    excerpt: "The AI announcement was aimed straight at the current tech battlefield of autonomous-vehicle technology. After emerging during the 2010s, it’s now potentially set to deliver in the 2020s, with likely consolidation of companies along the way. Intel Chief Executive Officer Bob Swan started his CES conference with new from Mobileye NV ..."
+    publishedDateTime: 2020-01-07T03:47:00Z
+    sourceUrl: https://siliconangle.com/2020/01/06/intel-makes-splash-ces-autonomous-driving-tech-ai-tiger-lake/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: https://www.bing.com/th?id=ON.8DBAA785A813E02220BAA9C3A5277FA7
+        width: 690
+        height: 560
   - title: "Five things creating buzz at CES, including weird TVs, robots that refill toilet paper and cyber cats"
     excerpt: "The annual event had more than 175,000 attendees last year and 4,500 companies exhibiting all manner of cool, strange, silly and cutting-edge gadgets, including dozens of TVs, a robot made for cuddling and a flying ... Also, Bosch announced a car visor powered by artificial intelligence that blocks out the sun by beaming a shadow directly ..."
     publishedDateTime: 2020-01-06T21:01:00Z

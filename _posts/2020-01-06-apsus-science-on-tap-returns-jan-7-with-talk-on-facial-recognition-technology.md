@@ -52,19 +52,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
-    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
-    publishedDateTime: 2020-01-11T10:15:00Z
-    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
-        width: 480
-        height: 332
   - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
     excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
     publishedDateTime: 2020-01-09T13:00:00Z

@@ -1,15 +1,15 @@
 ---
 category: news
-title: "IBM points Watson at the marketing world with Advertising Accelerator"
-excerpt: "IBM's latest Watson-powered product is the Advertising Accelerator announced at CES 2020. The predictive audience tool uses artificial intelligence (AI) and machine learning to identify and recommend creative assets most likely to drive engagement in a target audience. The new tool helps media buyers and brands improve the effectiveness and ..."
-publishedDateTime: 2020-01-07T11:28:00Z
-sourceUrl: https://www.techrepublic.com/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-ampUrl: https://www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
+title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
+excerpt: "TechRepublic's Teena Maddox talked to Dave Neway, head of marketing at IBM Watson Advertising, at CES 2020 about how Watson can take advertising to the next level with artificial intelligence (AI). The following is an edited transcript of their conversation. Dave Neway: We had a major product announcement this week. On Tuesday, I'm very proud ..."
+publishedDateTime: 2020-01-11T17:08:00Z
+sourceUrl: https://www.techrepublic.com/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
+ampUrl: https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
+cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 103
+heat: 163
+published: true
 
 provider:
   name: TechRepublic
@@ -24,27 +24,12 @@ topics:
   - IBM AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.B3E2A0958C13168EA831AFA46BE9C31D
+  - url: https://www.bing.com/th?id=ON.8E68FAE9A6D97BDFDD3CC7995C06D148
     width: 700
     height: 525
-    title: "IBM points Watson at the marketing world with Advertising Accelerator"
+    title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
 
 related:
-  - title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
-    excerpt: "TechRepublic's Teena Maddox talked to Dave Neway, head of marketing at IBM Watson Advertising, at CES 2020 about how Watson can take advertising to the next level with artificial intelligence (AI). The following is an edited transcript of their conversation. Dave Neway: We had a major product announcement this week. On Tuesday, I'm very proud ..."
-    publishedDateTime: 2020-01-11T17:08:00Z
-    sourceUrl: https://www.techrepublic.com/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
-    ampUrl: https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 103
-    images:
-      - url: https://www.bing.com/th?id=ON.8E68FAE9A6D97BDFDD3CC7995C06D148
-        width: 700
-        height: 525
   - title: "IBM launches Advertising Accelerator with Watson to automatically optimize campaigns with AI"
     excerpt: "IBM hopes to ride the adoption wave with an offering powered by its Watson platform. IBM Advertising Accelerator, which launched today at the 2020 Consumer Electronics Show, leverages AI to predict the element combinations that drives the highest audience engagement and conversion. Watson automatically creates campaigns for customer segments ..."
     publishedDateTime: 2020-01-07T15:00:00Z
@@ -60,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BD1EEB25ACEE15BC658E47A517B29C09
         width: 700
         height: 350
+  - title: "IBM points Watson at the marketing world with Advertising Accelerator"
+    excerpt: "IBM's latest Watson-powered product is the Advertising Accelerator announced at CES 2020. The predictive audience tool uses artificial intelligence (AI) and machine learning to identify and recommend creative assets most likely to drive engagement in a target audience. The new tool helps media buyers and brands improve the effectiveness and ..."
+    publishedDateTime: 2020-01-07T11:28:00Z
+    sourceUrl: https://www.techrepublic.com/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
+    ampUrl: https://www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.B3E2A0958C13168EA831AFA46BE9C31D
+        width: 700
+        height: 525
   - title: "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement"
     excerpt: "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement and conversion from the audience. Specifically, by leveraging artificial intelligence, three important factors while advertising will be enabled:"
     publishedDateTime: 2020-01-07T14:18:00Z
@@ -113,6 +113,6 @@ related:
         width: 315
         height: 236
 
-secured: "wURIa4wKKMrC0LWpJm9n2wXRi7jPvcfobvIEfFJRL3V/1kUZMvSD3vzCjt5Ym8T2xwDvFa0WPei7AcikcpRyzfHjoV9YE5PGEfD4LLewRt+F2sglDh2VdISwSeKafzcLA2MLKh3Vw9iePMiWSupCC4oNnObF4+UlIGuaKqO0zPei2O7mmD/SNAb5fnBfRTs9S8kduPRx832iUjeksF85ENVgcbqNgHjlk/+JQNqnSmZTdu3mA7mNPGtBOMNcQhQ9gzd8uyHW4XAxKrRrXKhxXQ==;B15/PDuvWgQeQSHz1a0dVg=="
+secured: "NAtpVQKkeoB+7IWBes9DHytp0/0Br+pMhsPM8RqW/U2GaoNVzCznjHb6jlEjfNOR9Xgdoh9zVQ+X/g9o7uAIAZjoDqzbxqGi4SNYm9XiLvHnPuz80dxTbU/2BcIJtLFYKbykT6u23x00340r7M+eZc1O353SNMH/EuBdGyjg7FpitUgDUiAPJ/kQBP7OQdo6S8U3bo6XiwH70aaDG2K2S0nSA9KkXuwrbCi30/1QbS+VNXO8Br5YxsX3g4LsjWU6z0/TzgzTDLQFEUfgrjl4fg==;Gc2d8iVIX0AYVWaDglQ2PQ=="
 ---
 

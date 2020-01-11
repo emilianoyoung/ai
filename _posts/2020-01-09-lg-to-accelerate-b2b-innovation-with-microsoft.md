@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-09T16:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/lg-to-accelerate-b2b-innovation-with-microsoft-2020-01-09
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.32E0303AB6F67A6F1A91F4C5E87F41AD
         width: 700
         height: 525
+  - title: "LG to Accelerate B2B Innovation With Microsoft"
+    excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG's B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG's autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond the ..."
+    publishedDateTime: 2020-01-10T08:55:00Z
+    sourceUrl: https://www.autoblog.com/press-releases/lg-to-accelerate-b2b-innovation-with-microsoft_21794/
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B042E861197CCE873E4B8BFE2984CE25
+        width: 400
+        height: 188
   - title: "LG To Accelerate B2B Innovation With Microsoft"
     excerpt: "is working with Microsoft to build its automotive infotainment systems, building management systems and other business-to-business collaborations. As announced at CES 2020, LG will leverage Microsoft"
     publishedDateTime: 2020-01-11T00:26:00Z
