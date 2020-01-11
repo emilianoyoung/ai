@@ -42,21 +42,6 @@ related:
         width: 700
         height: 381
   - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
-    publishedDateTime: 2019-12-22T12:03:00Z
-    sourceUrl: https://www.azcentral.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
-    ampUrl: https://amp.azcentral.com/amp/2709275001
-    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2709275001
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
-        width: 700
-        height: 393
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
     excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
     publishedDateTime: 2019-12-23T06:00:00Z
     sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb7Kz

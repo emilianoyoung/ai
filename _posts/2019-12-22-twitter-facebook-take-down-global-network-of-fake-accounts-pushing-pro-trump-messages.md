@@ -28,21 +28,6 @@ images:
     title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
 
 related:
-  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
-    excerpt: "Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council ..."
-    publishedDateTime: 2019-12-22T12:58:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
-    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FEA4B48A57A75D28B4EB6C80294BA8A6
-        width: 600
-        height: 337
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
     excerpt: "Disinformation experts at Graphika and the Atlantic Council's Digital Forensic Research Lab - which were given access to Facebook data in advance of the takedown announced Friday - said it marked the \"first time\" they had seen \"AI-generated pictures deployed at scale to generate a mass collection of fake profile pictures deployed in a social ..."
     publishedDateTime: 2019-12-23T16:45:00Z

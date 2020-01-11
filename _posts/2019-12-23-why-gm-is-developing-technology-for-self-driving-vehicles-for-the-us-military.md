@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4168DA6C28A32EF3F1CC14F6E9F9EB49
         width: 700
         height: 381
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
-    publishedDateTime: 2019-12-22T12:03:00Z
-    sourceUrl: https://www.azcentral.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
-    ampUrl: https://amp.azcentral.com/amp/2709275001
-    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2709275001
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
-        width: 700
-        height: 393
   - title: "Elon Musk: Underground Highway Using Self-Driving Vehicles May Be Ready in 2020"
     excerpt: "LAS VEGAS (AP) — An underground transit system using self-driving vehicles underneath the Las Vegas Convention Center could be up and running next year, billionaire Elon Musk announced on social media late Friday. Musk tweeted that The Boring Company’s underground tunnel project in Las Vegas will be “hopefully fully operational” in 2020 ..."
     publishedDateTime: 2019-12-30T16:04:00Z

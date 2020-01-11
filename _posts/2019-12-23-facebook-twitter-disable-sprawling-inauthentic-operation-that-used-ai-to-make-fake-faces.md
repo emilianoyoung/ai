@@ -8,8 +8,8 @@ ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-dis
 cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 60
+published: true
 
 provider:
   name: Santa Rosa Press Democrat
@@ -26,21 +26,6 @@ images:
     title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
 
 related:
-  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
-    excerpt: "Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council ..."
-    publishedDateTime: 2019-12-22T12:58:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
-    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FEA4B48A57A75D28B4EB6C80294BA8A6
-        width: 600
-        height: 337
   - title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
     excerpt: "Facebook Inc. FB, +0.12% and Twitter Inc. TWTR, +0.31% have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump ..."
     publishedDateTime: 2019-12-22T15:31:00Z
