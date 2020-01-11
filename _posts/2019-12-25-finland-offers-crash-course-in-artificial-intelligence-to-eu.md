@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-25T16:12:00Z
 sourceUrl: https://www.journalnow.com/news/national/finland-offers-crash-course-in-artificial-intelligence-to-eu/article_6d100937-7a50-5fa8-9c53-4f45981608e4.html
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,23 +21,6 @@ images:
     width: 1120
     height: 630
     title: "Finland offers crash course in artificial intelligence to EU"
-
-related:
-  - title: "Finland offers crash course in artificial intelligence to European Union"
-    excerpt: "HELSINKI — Finland is offering a techy Christmas gift to European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the ..."
-    publishedDateTime: 2019-12-22T19:03:00Z
-    sourceUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/
-    ampUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.F4F40504C83DDF82A7B0E16F20315D99
-        width: 700
-        height: 465
 
 secured: "rsgw2Ohg/mEEQxiyYrVym7sEN0nyNOL3jhPdIuMYYGrJN0wGr7iV4lyMUf2+U/0N0pEkhRqi/YrDHJTy9wM2YjZYFyiQ5SIUkdz/JpcxAV0TYMMgj7GGgjyYPjzpSn53BEa/XgRBjjLabLYyLci6ak7nsnchKahO+lwRT0xX+iMow11glskhAkyYu1RjZSzAlnrl8G+cthznwlB6X/EskNOH2AD4wqD/TOSUMM8lF2EYtmXDYHlQP5yexalk895NI3ta4RKwZufxRG7Cz2XDwA==;q/u0cOiUGyqmhb0hTV37jw=="
 ---

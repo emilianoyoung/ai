@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These include autopilots, computer-controlled automobile engines, MRI machines (health services), self-driving cars (transport services), as well as high skilled services such as A.I. radiology reports, legal services, and mental ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
-heat: 61
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - AI in Autos
   - Machine Learning
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "jMaZyd6R8HcazCZLtPKml36vTjvhDGC9SiQw7cYxxbajt158dt6Wddh4zZm8h6h/1YoUInOKQHqV1sM6zPmsDIkTpzuJlPPeCvy1OaOLZcHlUQS+B06LCaPRqE9ipY4kHvEWtX0yjWxsWgH1y38Ey0omnLVpbH3OleHMAd95BNdkteSRMMDTKZwor9mGowFkg+EYGIeaJoKu3Sj+i67xCB0C43RzGqre5V+QS7/mMsUZiIiYZTfLPP+ZnbWJ7nelVjAe1P1IsvQg70Ribu/qRw==;6Bmhvf4v/YMLtiVq7nw6OA=="
+secured: "alx0qijB/tNRiZ54RpYHCVUeYM6Pe2OfZD8Ea66XE8GA8W0G4vdT7qkYhnD3B/9pK6fur21HXKCnYPv2z+ijgAD0/NWPcn6UNh5a32tI2rasS43g8qiuMKQXfrIbtZ27VI0kVNbvJq5NOHfJxmUpaX65SJEfxq5p1foqQQkHdXfXQnqZj2JFjpsntrhL1+IZJcRFEhmGc7De3uaHJ5t39d4O8ZUtZLAlCWIfpl91LDeqgsdOnhuMdgHYVT0W9svM/zq2yEfPZX3p9OqFZIobZg==;7jDs2vxpaeSx0c31eBnEtQ=="
 ---
 
