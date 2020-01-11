@@ -305,19 +305,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
         width: 700
         height: 392
-  - title: "Some cities and states balk at face recognition tech"
-    excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
-    publishedDateTime: 2019-12-22T04:00:00Z
-    sourceUrl: https://www.herald-dispatch.com/business/some-cities-and-states-balk-at-face-recognition-tech/article_cd3e3777-f087-5aab-a88c-81800f0a3012.html
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
-        width: 700
-        height: 469
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
     publishedDateTime: 2019-12-23T20:15:00Z

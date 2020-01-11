@@ -305,19 +305,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
         width: 700
         height: 392
-  - title: "Some cities and states balk at face recognition tech"
-    excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
-    publishedDateTime: 2019-12-22T04:00:00Z
-    sourceUrl: https://www.herald-dispatch.com/business/some-cities-and-states-balk-at-face-recognition-tech/article_cd3e3777-f087-5aab-a88c-81800f0a3012.html
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
-        width: 700
-        height: 469
   - title: "Third Massachusetts Community Bans Facial Recognition Tech"
     excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
     publishedDateTime: 2019-12-23T16:21:00Z

@@ -1,27 +1,21 @@
 ---
 category: news
-title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-publishedDateTime: 2019-12-20T23:50:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+publishedDateTime: 2019-12-16T17:52:00Z
+sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
 type: article
-quality: 54
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: BCW
-  domain: businesscomputingworld.co.uk
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-    width: 512
-    height: 512
-    title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
 related:
   - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
@@ -39,6 +33,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
+  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Speech recognition tech cuts paperwork for police"
     excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
     publishedDateTime: 2019-12-12T20:40:00Z
@@ -91,15 +98,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
     excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
     publishedDateTime: 2019-12-23T20:30:00Z
@@ -119,6 +117,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "dE0a0XQMDEJyzDdYRu9XYPNMOAWbLEha4H0NTekekljl8koh61+mAPQl2WTbzlgnoJpyHNegYtGuQPfZSM3x4/JtxOWJrJCQgrNeyevTJpeNOffQPVEFneg0Q17Brt5jVprdadMGaePmUy1lOkd2BekpzwamGuYdvcqSIDDCKTTOvKVjnddTs7iQpNSc6M28H5Dq5+2t0+8dSpkkhsG38YcCgpomJab99pMRotkYEOsIT+JKPGTkrRmwBUg1cDiUvW0gzOzmReNTyMlZg7ptgw==;K6uxbpuhJHB/k9gz+0DZTQ=="
+secured: "wfvXFgfDRa1ljEreDc59D6BwQSQZcd60ubI76qluesB3p+upDaZIrlKynPPKRKzxCd/3FkL1MSWsfufjVejUoCKFFFRRbtTd3rfbPzC1au5F6DcBQvrJR3jUvlDlABu9p90UBapj2gmLyt3nEpVb8SFzlOqMGzJnh276pe4Qs9TuqC10mJW8QakCjg2IqnGI/Cmvybi5LCvUAw+nQuhEDL9a0Ob7Rex5fEhr93L0tSJqh5ZC9lP1wnwu2D8yaqp0LXWS+AQNa2b6euCT1Tt38A==;Mqwjoe6dN254r4MdZmhU4Q=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... One example of this is in the recent development of chatbots which deliver Cognitive Behavioural Therapy (CBT) 10. In some areas in the world, these chatbots can be really helpful such as in Germany, as only a small number of ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
 quality: 59
 heat: 59
@@ -17,7 +17,7 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -25,6 +25,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "6ynWm7c6Xm6hGt+2ocQFF6RslJX3sVD96/PVh++y5IhAVq8cjLDREWlIf3EbBzGRJxnITbZCn3aNUWXu0sOcM23NfPTJfc508uyVpm7GA32ZmYrUWXhrVq/dRaRKj7Kif67a5aA750/QM29PkMdqOjO2qGqj4TaxNkInT8aIAcCt0/8l+9ivFKXu79k8bX874DIU3iJo3OUKApHYhAkVKQmDbq0E7Lcb3bpfDsCysKjkPOuF3CXZJFdF7s5Lg/RHLjyJDjYvAINY9mxp3jaQPw==;VljQRCuGKJUcwWHEDB6NkA=="
+secured: "LfwPttG9ylo2mMfmadafqM1ywMbTNXSIbIHnL4IFQlejIfNrTQuF9zNhhR6RCOeywG56Rmw5XQlScF5IO2gCZiIOksDCfKM+i/AYmHMx+C6wf8dt1TVm5QystDlVAG3mcpCtAkZVXOlvdE/kFSm3bI1L9CQp07Tt6ttQrUvW/o24C3K+5t8s5cPhRkODtt4BrxyQ7fEUEpAqeXsiSZkYrF1VwjheS194o4LRAbEiFYjGrmWfZ6V6jc87AZhXbkBnACg4LkDj8c1Z7xlNUsPzZQ==;oJGCyv1XcbSjuo7wcTbE7g=="
 ---
 

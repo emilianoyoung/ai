@@ -95,17 +95,15 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
     type: article
     provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
   - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
     excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
     publishedDateTime: 2019-12-23T20:30:00Z
@@ -125,6 +123,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "k/hxbO0+bYpy1SxeV1n3vMafE9XjcGFFinZpCDY7pkMlZIG28tqItGDdGcycSd5Rr5VmFzcuzNzxVREKPJ5G7U4rL7XDHXOmZBOp3GvePIaoec+L8PrHr0k+9k8QUg7yKm+i6I2J7qxN7Z1sJGpNYjJiIBmI0kwFJUV1cK/QQc9AE8RG8eMhWkzvraIIah/o9RRWgzXd6gCPTb9q/E3qUD2zs8F03lXzftAHgPwxfSP9I56i4jWy3vHNnvg8Vus5EvU91wJwvaxkSAJ6R/7YTw==;TvpMo42Fjw7t17Oo+hJXHA=="
+secured: "WMe+wKbFlprxksGGB8+tTDmhOVi3MS4DZSuf29ZuqOrg6MWExrCUDWGl1ZxyfL5LrzF6Dbg8tIqK5YoG6fT71GqJ0JwAITZZUPXiv+4phUirePEylWjIlyiksusLB9o+jAm5/y16ObXqdQ/gOn3RYXZkc4+cwXBH+BsnJ/3iuuF9U4g5zEYQE2FyOBQujoN7b46reigBu4iZO9/k339kY/5x96IzewMarw3XTHLAkHySF5+InzUkcZISejLnT1tRYfEWiVgGVsFu2ByPI3y4qA==;LFeU9hELcTxBrBp696vMAA=="
 ---
 

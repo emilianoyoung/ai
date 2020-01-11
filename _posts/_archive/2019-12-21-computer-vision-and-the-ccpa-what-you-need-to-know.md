@@ -1,24 +1,31 @@
 ---
 category: news
-title: "What Is the COPE Strategy to Manage Trauma Triggers?"
-excerpt: "Artificial Intelligence is a branch of computer science where computers are trained to mimic ... Practice COPE to manage triggers as they arise. You may also want to try aroma therapy such as lavender or eucalyptus oil to quickly reduce a stress response. The smell goes to the olfactory nerve which is located in the mid-brain which processes ..."
-publishedDateTime: 2019-12-31T06:59:00Z
-sourceUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers
-ampUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+title: "Computer Vision and the CCPA: What You Need to Know"
+excerpt: "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ..."
+publishedDateTime: 2019-12-21T00:09:00Z
+sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
 type: article
-quality: 26
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Psychology Today
-  domain: psychologytoday.com
+  name: Medium
+  domain: medium.com
+  images:
+    - url: /assets/images/organizations/medium.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Healthcare
-  - Machine Learning
+  - Computer Vision
+
+images:
+  - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
+    width: 1200
+    height: 744
+    title: "Computer Vision and the CCPA: What You Need to Know"
 
 related:
   - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
@@ -36,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
-  - title: "Computer Vision and the CCPA: What You Need to Know"
-    excerpt: "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ..."
-    publishedDateTime: 2019-12-21T00:09:00Z
-    sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
-        width: 1200
-        height: 744
   - title: "What is the Procedure to Start a FinTech Company?"
     excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
     publishedDateTime: 2019-12-29T02:05:00Z
@@ -64,7 +58,18 @@ related:
       - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
         width: 670
         height: 352
+  - title: "What Is the COPE Strategy to Manage Trauma Triggers?"
+    excerpt: "Artificial Intelligence is a branch of computer science where computers are trained to mimic ... Practice COPE to manage triggers as they arise. You may also want to try aroma therapy such as lavender or eucalyptus oil to quickly reduce a stress response. The smell goes to the olfactory nerve which is located in the mid-brain which processes ..."
+    publishedDateTime: 2019-12-31T06:59:00Z
+    sourceUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers
+    ampUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 26
 
-secured: "w3dqJ3DqDUw6bjxGcw78ZhU2j5URV7aDToeB3bTM7+w7I+gJ7daTIs6v1kD0Hs6s8X0ZW4NFEEf4/O4z/+Oz5ZXfmFiKhY9zdDRyE6YKQa/7VbL9EMj/7YLc2TLMSjD/rfoVvH/BdhWQHSCkWZqqH5QTry5I1IDCe3e4F1RrHls3G7tw230qaRKrjuA+lGwJFNTMVw8qJDARvChbWnNg+aYOfb6L4dVZlqiVmuUOsDX/dlK2PhC1vTu9IiKA9HgSEDa9IxVR4rkjCGK/XTnBRA==;jwI0iDMAL13XcONWyKjMmA=="
+secured: "NC72u7zxQIpLLd1Mf85LR2yRaVsHesd5SICjAoqzG4b++rufbBB3FhM6n5wG7kqQaWPmU2fh7tsRoP5+BrcaWI1aXfdiZzvBxzOikQYOV9AJNR2HKgnmsdmUVifbMj4tR14OAQ/y2AcCzd0TUCaEFSu+/ECKt7StBRQwuJeXE/q8RQ54MC1Lrs3xdqGHRmAMz6bi0Ewn0OTpLdprfmZxH4ZPOmjWwL9i1inNXxSYitBw0Iwq6GPs/qffTYVfSPZjCpF31fD8yToQBvfSdLKM9Q==;16+9mDJzO/ybjEwpV3c6Iw=="
 ---
 
