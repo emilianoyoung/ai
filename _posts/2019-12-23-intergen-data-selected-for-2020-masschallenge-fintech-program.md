@@ -63,21 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.02EA898E5FC9FFAB677E817E922A3A32
         width: 600
         height: 450
-  - title: "Certified FinTech Analyst Institute Released FinTech Knowledge & Curriculum System"
-    excerpt: "including computer programming (python), data processing and AI application in the financial area. Level I exam: contains Python Programming, Database Technology and Application, Statistics in Python Application, FinTech in Economics, Analysis and Programming in Financial Statements. Level II exam: consists of Quantitative System Design ..."
-    publishedDateTime: 2019-12-22T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/certified-fintech-analyst-institute-released-115600280.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/certified-fintech-analyst-institute-released-115600280.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/certified-fintech-analyst-institute-released-115600280.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.CE9B27E970D287EC1C16C632BBE372C0
-        width: 410
-        height: 273
   - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
     excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
     publishedDateTime: 2019-12-24T00:02:00Z

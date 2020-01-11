@@ -597,6 +597,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 6
+  - title: "Global Gesture Recognition Solution Market 2019-2023 | Increasing Adoption of ToF Cameras for Gesture Recognition to Boost Growth | Technavio"
+    excerpt: "Gesture Recognition Solution Market: Increasing Adoption of ToF Cameras for Gesture Recognition The need for accurate gesture control and the introduction of facial recognition features in electronic devices have compelled electronic device manufacturers to implement 3D cameras into their products. There are various types of 3D depth-sensing ..."
+    publishedDateTime: 2020-01-11T00:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-gesture-recognition-solution-market-230000908.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 0
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/4zhRI.MFUYOjp_Atp_Tmdw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/f900c6246306143ea9252279bd804846
+        width: 480
+        height: 270
 
 secured: "SwSWg6xnRAsjvK4zekvs7hMB6qKJNrfuP4AJu5e7ALWmRI7QXlHWAkZZw1fxlZtfoZE0suZNEM5kb2NTGPFNnSrJZIzMOiiD/Fhzp+n0auyRduoCRQGPGS+EFvCXQurPnhZDbyB16a/HI/a+YkVWPHfbmS3yTWu8PEIYvLaxhaFfBEYKiFOYcO6wwQlemtR+EQAOBC578SsBR6HtsxV2ft1UGkvuIOTb9/hPqAzif1IxuO5l1ToE+whCbgWPndz3Dmwlnz0M1Uso0+K9rf5WnQ==;95FkhYRXI6BxxKeEnvlw1Q=="
 ---

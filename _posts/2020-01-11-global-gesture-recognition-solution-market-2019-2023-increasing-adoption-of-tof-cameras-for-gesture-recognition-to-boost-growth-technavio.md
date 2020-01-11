@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Smart cameras for facial recognition to be installed at KSR City Railway Station"
-excerpt: "In an effort to enhance security at the Krantiveera Sangolli Rayanna City Railway Station (KSR Bengaluru) and to identify and prevent criminals, especially human traffickers, from entering the station, the South Western Railway is all set to use facial-recognition software linked to advanced artificial intelligence. According to the railways ..."
-publishedDateTime: 2020-01-09T16:48:00Z
-sourceUrl: https://www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece
-ampUrl: https://www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece/amp/
-cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece/amp/
+title: "Global Gesture Recognition Solution Market 2019-2023 | Increasing Adoption of ToF Cameras for Gesture Recognition to Boost Growth | Technavio"
+excerpt: "Gesture Recognition Solution Market: Increasing Adoption of ToF Cameras for Gesture Recognition The need for accurate gesture control and the introduction of facial recognition features in electronic devices have compelled electronic device manufacturers to implement 3D cameras into their products. There are various types of 3D depth-sensing ..."
+publishedDateTime: 2020-01-11T00:01:00Z
+sourceUrl: https://finance.yahoo.com/news/global-gesture-recognition-solution-market-230000908.html
 type: article
-quality: 69
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: YAHOO!News
+  domain: yahoo.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
-    width: 300
-    height: 300
-    title: "Smart cameras for facial recognition to be installed at KSR City Railway Station"
+  - url: https://s.yimg.com/ny/api/res/1.2/4zhRI.MFUYOjp_Atp_Tmdw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/f900c6246306143ea9252279bd804846
+    width: 480
+    height: 270
+    title: "Global Gesture Recognition Solution Market 2019-2023 | Increasing Adoption of ToF Cameras for Gesture Recognition to Boost Growth | Technavio"
 
 related:
   - title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
@@ -174,6 +172,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7D2EDE14ECA06EE86C4635BF018657E7
         width: 600
         height: 338
+  - title: "Smart cameras for facial recognition to be installed at KSR City Railway Station"
+    excerpt: "In an effort to enhance security at the Krantiveera Sangolli Rayanna City Railway Station (KSR Bengaluru) and to identify and prevent criminals, especially human traffickers, from entering the station, the South Western Railway is all set to use facial-recognition software linked to advanced artificial intelligence. According to the railways ..."
+    publishedDateTime: 2020-01-09T16:48:00Z
+    sourceUrl: https://www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece
+    ampUrl: https://www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 69
+    images:
+      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
   - title: "Bengaluru, Manmad, Bhusawal railway stations to get facial recognition tech as test cases"
     excerpt: "NEW DELHI: Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as ..."
     publishedDateTime: 2020-01-08T15:27:00Z
@@ -597,20 +610,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 6
-  - title: "Global Gesture Recognition Solution Market 2019-2023 | Increasing Adoption of ToF Cameras for Gesture Recognition to Boost Growth | Technavio"
-    excerpt: "Gesture Recognition Solution Market: Increasing Adoption of ToF Cameras for Gesture Recognition The need for accurate gesture control and the introduction of facial recognition features in electronic devices have compelled electronic device manufacturers to implement 3D cameras into their products. There are various types of 3D depth-sensing ..."
-    publishedDateTime: 2020-01-11T00:01:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-gesture-recognition-solution-market-230000908.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 0
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/4zhRI.MFUYOjp_Atp_Tmdw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/f900c6246306143ea9252279bd804846
-        width: 480
-        height: 270
 
-secured: "7rSYkvcURsfTvMV04Nem78cQA6xh75wc3ls1opbEh21wywiB3hi5KO6JEwejl5/yu1b2cbv2HX/2gKIKagXI8oopDWsyEzBelm8Q7hR9pFcS05EBOFF+iYOfHl8s7qB4relxWpqoewTC9w6jLM/9uAxSrDI+TP1IEVMq/K3Ks+97b5GLi102XXyV9G2tHnq7v6YyUda8cMhF1NAXC4G46zFmv3Ymw7kGDr9Po+a8dwke7iT+tLfwmOFiww2rPVg9K7Sy8sa8A/sExT8NrqYV2g==;gBbyDmEtBUT3SuR2PgTZCQ=="
+secured: "6EhAyzMow/FLtRQrh+t3ZBoV3mqXdufVEMA6Xb0t33nQb52b2WTwKY34Ncx4+O9MkETDHb5aK+KhY3WpQ087wWvwe6iMwq4odNZDYSqUwuQ64pD3lR/FJWV6nXOsXBeEEKGEfIZPEzwEbxrlyO6rt2VEIiBRPZ6jERkht+MxdIKSn7qdE9E1JwtVIE0ffW8AE5IybD6bJwq+iuVGFQt4jwwkgOyddXcsnWOOoO7ileCOeglPbuXnoct7oOeAE85znzfmmE/TSpbSEV3YNEDHfg==;PfcuL7oUkeT8Yfe+ScYU5g=="
 ---
 

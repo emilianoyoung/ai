@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/amp/
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Solidia Technologies and Uncountable Accelerate Development of Next-Generation Concrete Manufacturing with Data Science and AI"
 
 related:
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "This solution that will be showcased at Booth# 1909, Westgate, will enable data scientists, data analysts and data engineers to develop deep learning based machine vision applications in a fast and efficient manner with minimum effort. It offers a simplified model creation process through a visual, menu driven interface, making development of ..."
-    publishedDateTime: 2020-01-05T23:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
   - title: "Socionext Collaborates with Foxconn and Network Optix to Deliver Intelligent and Scalable Edge-AI Solutions for Retail and Manufacturing Markets"
     excerpt: "SUNNYVALE, Calif., Jan. 7, 2020 /PRNewswire/ -- Socionext Inc., a world leading system-on-chip (SoC) solutions provider, has introduced new, intelligent, scalable edge-AI solutions developed in partnership with Foxconn Technology Group and Network Optix Inc. Socionext has partnered closely with Foxconn, a global leader in smart manufacturing ..."
     publishedDateTime: 2020-01-07T06:45:00Z

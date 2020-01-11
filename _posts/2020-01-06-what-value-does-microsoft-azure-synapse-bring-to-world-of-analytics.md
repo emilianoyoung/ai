@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T11:07:00Z
 sourceUrl: https://analyticsindiamag.com/azure-synapse-analytics/
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3199EC52B34C41EF62CDF5E1199626A8
         width: 700
         height: 466
-  - title: "TimeXtender Discovery Hub® Now Supports Azure Synapse Analytics & SQL Server 2019"
-    excerpt: "TimeXtender, a recognized global software company enabling instant access to any type of data in the organization to support advanced analytics and artificial intelligence (AI), has announced a new release of its ... was upgraded to work seamlessly with both Azure Synapse Analytics and SQL Server 2019. Azure Synapse Analytics unites enterprise ..."
-    publishedDateTime: 2020-01-08T19:10:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-timextender-discovery-hubreg-now-supports-azure-synapse-analytics-/2020/01/08/9078594.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "cnM8j+V9jRzs+9BJ0w9esdQpWESDuGdBtb5GtXi7QfbsCXuz2hQfOEqZ1wlcLQAI610QbWk3MlBnDCkFt7cVngU7rr503Zj+CuScyKLh3uQGSkmLThDkkp9NtgosMwDvmyA/Y5QlrC/v+5CfuHHXUXSaC0TUPIvidr5bQIbq4w2C1S40M3eyOOdI4xAljB9tbEcVP3dumjhEXnGw4T14mZDgUfVQOhHr1eec7TZwa/tM0yCaZkAnP2k9JidjsCJDXZLsqSz3SpGPz2tvLzdp5A==;fexpFEhYXERkZ1i3e74kvg=="
 ---

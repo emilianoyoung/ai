@@ -8,7 +8,7 @@ ampUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-reco
 cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 153
-heat: 563
+heat: 573
 published: true
 
 provider:
@@ -597,6 +597,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 6
+  - title: "Global Gesture Recognition Solution Market 2019-2023 | Increasing Adoption of ToF Cameras for Gesture Recognition to Boost Growth | Technavio"
+    excerpt: "Gesture Recognition Solution Market: Increasing Adoption of ToF Cameras for Gesture Recognition The need for accurate gesture control and the introduction of facial recognition features in electronic devices have compelled electronic device manufacturers to implement 3D cameras into their products. There are various types of 3D depth-sensing ..."
+    publishedDateTime: 2020-01-11T00:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-gesture-recognition-solution-market-230000908.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 0
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/4zhRI.MFUYOjp_Atp_Tmdw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/f900c6246306143ea9252279bd804846
+        width: 480
+        height: 270
 
 secured: "fFrcqvyBItQmZsJiGYY8N2sWH0DtGZIJhoIdsyr8Rl8AQVbnNbgwUMz3JWIBUU8v/Jx/mPGcpvY2uQ9VhyBbX+X7JaLT1PnF66GY6A7mxlf2K2NBl+1W1MK9CCDL0mIuhEfZ2nLsbmM6uMl1/B7M5C87XGn1TplPdjyYzXPZao07r94ONI/+lomVaHcVWfGKPfCqkBDKkmcMn0wn3VeHMbgoelS9zQ1Vwuba1c62BGs1H3qFO/f2tGu3y5oGK/y70LxH6+JQXoUw//tMbaLb8h/VJ/yWVpZ5rtzLcZqXj7g=;tVKPJNpbJM2k8EY6aC7N5w=="
 ---
