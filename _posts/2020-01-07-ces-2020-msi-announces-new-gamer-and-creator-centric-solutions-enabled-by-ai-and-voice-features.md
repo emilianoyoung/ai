@@ -54,6 +54,15 @@ related:
       - url: https://www.bing.com/th?id=ON.BBA61CF977597F79AC2A22961877E5BD
         width: 700
         height: 366
+  - title: "Malong Technologies Announces Key Collaborations in Retail with NVIDIA"
+    excerpt: "\"Innovative retailers are reinventing retail with AI to create intelligent stores that deliver incredible customer experiences ... Companies must meet exacting standards for technology capabilities, customer service and experience with Microsoft Azure. Only about one percent of the company's partners earn Gold Certified Partner Status."
+    publishedDateTime: 2020-01-11T00:34:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/malong-technologies-announces-key-collaborations-in-retail-with-nvidia/article_8e3ce1ac-8a54-5d68-9bb6-a06b0eef7775.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "2ymqDsjNPe2wNAY0OBb/Q0wLAroA3GoGUWBzqkFoC+ndujb6IlIUGvHmerHXOFmSvVrvaptG2cKSCfWJD7UQv4ORfNPUq4lMQR5H1MeJDZu8DilR5CDmBP7M6WUauTKjcc4cCiHs+AoQQd4l1q3GnB8E+GN/bUTH6kcjTaFVR2vAaRMbBIcQdr4QRXX2+2owHljLw8q+6fEHhJvdqrwLTFtE9rF5SLtt3QJLo6RL7+bK1pQjxwEaWGEfABWsJQR2LmSylp76kjzawh/CT+BevQ==;7dSEUJeT3CkjWPCIPjif9Q=="
 ---

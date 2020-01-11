@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.545008940EB86145C6D73F7D03BE9001
         width: 700
         height: 381
+  - title: "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics + AI"
+    excerpt: "She runs the InterACT Lab at UC-Berkeley, which focuses on on algorithms for human-robot interaction. Dragan also helped found and serve on the steering committee for the Berkeley AI Research Lab, and is co-PI of the Center for Human-Compatible AI. Last year, Dragan was awarded the Presidential Early Career Award for Scientists and Engineers."
+    publishedDateTime: 2020-01-11T00:18:00Z
+    sourceUrl: https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/
+    ampUrl: https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.C967C6E8511769C4FD290EA2E7F0DAA8
+        width: 700
+        height: 381
 
 secured: "n02fEoWzi/BZ/kP6ZzUm0CKYQGYDMvy+JsnvrPcHlm+F47p23gLF9dRrjXzAilzL/VpiU8dVMwVwuTVUsWOHIM++GdBgaE9cCnFvx0KUE9pWvZrvwI3MvV8kK4y68vLGPdB5Rh+uNm0fKh73mKs1Xg/5rPy7nm8XCeWWpHNLSTX/YcwG903DB9cgFHS7V/HAO5Ep2e2RDn8zjf47aZzC5hW9Zem24val443p3peZ/mSyKq7R0r7p4e+0fyo1z4Ykj6xFmrUxDAeed4gOpOm19g==;naIrRX9JkE8oObPLc9AcMw=="
 ---

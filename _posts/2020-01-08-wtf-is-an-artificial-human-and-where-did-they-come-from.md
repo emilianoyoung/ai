@@ -175,21 +175,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BE6F8508CF75D91D136434F98DE0F468
         width: 700
         height: 393
-  - title: "Study allows artificial neural connection to regain control of paralysed hand"
-    excerpt: "However, new research showed that an artificial neural connection (ANC ... The researchers will continue to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain voluntary control of paralysed body parts even if they discontinue ..."
-    publishedDateTime: 2020-01-08T09:29:00Z
-    sourceUrl: https://www.deccanchronicle.com/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
-    ampUrl: https://www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
-        width: 700
-        height: 392
   - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
     excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
     publishedDateTime: 2020-01-10T22:21:00Z

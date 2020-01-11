@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
+  - title: "Self-driving cars may never dominate…and that’s OK"
+    excerpt: "If you’re a business or government leader, AVs are likely to become sufficiently disruptive should they come to market that it’s worth thinking seriously, right now, about the consequences for your enterprise and preparing plans to accommodate the technology."
+    publishedDateTime: 2020-01-11T00:17:00Z
+    sourceUrl: https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/
+    ampUrl: https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.AD97F5014D79F7A577BD23B78A711F72
+        width: 600
+        height: 315
   - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
     excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020's opening day, Qualcomm announced the Snapdragon Ride platform, which it envisions as the autonomous driving platform for the ..."
     publishedDateTime: 2020-01-06T19:42:00Z

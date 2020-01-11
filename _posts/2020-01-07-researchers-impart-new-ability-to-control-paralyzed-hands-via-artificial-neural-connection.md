@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.295886AD34BC8493ECF12C621151B63E
         width: 700
         height: 421
+  - title: "Study allows artificial neural connection to regain control of paralysed hand"
+    excerpt: "However, new research showed that an artificial neural connection (ANC ... to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain ..."
+    publishedDateTime: 2020-01-08T10:04:00Z
+    sourceUrl: https://www.asianage.com/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralysed-hand.html
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.6169E8A3DB064905412DD85D560E60E1
+        width: 400
+        height: 224
   - title: "Study focuses on artificial neural connection allows a new cortical site to control hand movements"
     excerpt: "However, new research showed that an artificial neural connection (ANC ... to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain ..."
     publishedDateTime: 2020-01-08T00:04:00Z

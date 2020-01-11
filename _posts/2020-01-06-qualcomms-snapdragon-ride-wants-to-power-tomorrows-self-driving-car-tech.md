@@ -90,6 +90,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
+  - title: "Self-driving cars may never dominate…and that’s OK"
+    excerpt: "If you’re a business or government leader, AVs are likely to become sufficiently disruptive should they come to market that it’s worth thinking seriously, right now, about the consequences for your enterprise and preparing plans to accommodate the technology."
+    publishedDateTime: 2020-01-11T00:17:00Z
+    sourceUrl: https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/
+    ampUrl: https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.AD97F5014D79F7A577BD23B78A711F72
+        width: 600
+        height: 315
   - title: "Watch Mobileye’s self-driving car drive through Jerusalem using only cameras"
     excerpt: "When it comes to self-driving cars, the general axiom for sensors is “the more the merrier.” The safest systems are the ones that use a multiplicity of sensors, such as cameras, radar, ultrasonic, and LIDAR. Having these redundant sensors is the whole point: if one fails, the remaining sensor suite can help navigate the car to safety."
     publishedDateTime: 2020-01-07T22:02:00Z

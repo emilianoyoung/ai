@@ -38,6 +38,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2358710B03AE05FE1F303243B86B9599
         width: 700
         height: 505
+  - title: "Facebook’s deepfake ban ignores most visual misinformation"
+    excerpt: "On the first week of the New Year, an edited clip that suggested former US vice president Joe Biden made racist remarks made the rounds on social media. As Iran launched missiles at two US military bases in Iraq on Tuesday evening (Jan."
+    publishedDateTime: 2020-01-11T00:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/facebook-deepfake-ban-ignores-most-231046340.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.7244421F4747D402E0F874DFBB3BCAA9
+        width: 620
+        height: 389
 
 secured: "Qcvei8IkPvACQRX3ZCuD0LHA60EDkAIyFtVmHKRWWPVWBN3YPJR+BAxZML21OBGVSxWx8wUsRaLV9stehuEx6hmjm0jFTD/JFt9CKnKFxwLl2zReMD+j0VZjDAbHUuuNVXBW44qDnjdrwoU2Zcc/cweWLTDL4966hpLRvNA93B2ikT1wtp0Q/6fHFTFVlazlL72FsDku89mSuoSLDLsN+3X9FkQD9dwaC5vQruyFGa4Js/kDen6wTcIKGAldyc8ZN0TSqniaAON/Rlm4ccffIA==;6FjDXupSNHd7jestX4nLXg=="
 ---

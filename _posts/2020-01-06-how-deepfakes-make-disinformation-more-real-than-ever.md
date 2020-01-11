@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T05:01:00Z
 sourceUrl: https://www.bloomberg.com/news/articles/2020-01-06/how-deepfakes-make-disinformation-more-real-than-ever-quicktake
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5D959EB281BC54FA5C091829E5F91F74
         width: 700
         height: 467
+  - title: "Facebook’s deepfake ban ignores most visual misinformation"
+    excerpt: "On the first week of the New Year, an edited clip that suggested former US vice president Joe Biden made racist remarks made the rounds on social media. As Iran launched missiles at two US military bases in Iraq on Tuesday evening (Jan."
+    publishedDateTime: 2020-01-11T00:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/facebook-deepfake-ban-ignores-most-231046340.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.7244421F4747D402E0F874DFBB3BCAA9
+        width: 620
+        height: 389
 
 secured: "WJJvVdwIfOyNtcAvqJHa3Ns0LrZT3wdG6UYRxGYr8oDhkjkuL6T+jc2ZGkUI/86mqfNUl7UeHWqxnWrRo2qA+OWsZndy4KKcSsjfRi6Yl61mgkUrLcNeosqWXiNXnLLXH/rCbliMVZ+I7tgbe4ckLaTWtF+HtKnAWuJdazzAfxFxdGkWNusRuGeoxEDebLFKx33XGWcu5K8258OlVLdfZU3cLOnTvBLQTO6jOVPBtBJkT10DWXaq8A0TDfzVcyCROdeNsgEnvUCUv3CeMYE5dw==;5bWLkATnCvRk453K6hz0nw=="
 ---

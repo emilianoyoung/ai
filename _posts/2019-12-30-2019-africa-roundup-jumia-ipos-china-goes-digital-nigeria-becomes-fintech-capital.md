@@ -1,34 +1,28 @@
 ---
 category: news
 title: "2019 Africa Roundup: Jumia IPOs, China goes digital, Nigeria becomes fintech capital"
-excerpt: "Africinvest teamed up with Cathay Innovation to announce the Cathay Africinvest Innovation Fund, a $100+ million capital pool aimed at Series A to C-stage startup investments in fintech, logistics, AI, ag tech and education tech. Accion Venture Lab launched a $24 million fintech fund open to African startups. Like any tech ecosystem ..."
-publishedDateTime: 2019-12-30T09:56:00Z
-sourceUrl: https://techcrunch.com/2019/12/30/2019-africa-roundup-jumia-ipos-china-goes-digital-nigeria-becomes-fintech-capital/
-ampUrl: https://techcrunch.com/2019/12/30/2019-africa-roundup-jumia-ipos-china-goes-digital-nigeria-becomes-fintech-capital/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/2019-africa-roundup-jumia-ipos-china-goes-digital-nigeria-becomes-fintech-capital/amp/
+excerpt: "2019 brought more global attention to Africa&#39;s tech scene than perhaps any previous year. Here’s an overview of the 2019 market events that captured attention and capped off a decade of rapid growth in African tech."
+publishedDateTime: 2019-12-30T09:53:00Z
+sourceUrl: https://news.yahoo.com/2019-africa-roundup-jumia-ipos-095309615.html
 type: article
-quality: 67
-heat: 67
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.97BA6C5A6059DBBD406B95E15D6649A6
+  - url: https://www.bing.com/th?id=ON.74BDD6185FEA895F789F025E15C46A4A
     width: 700
     height: 371
     title: "2019 Africa Roundup: Jumia IPOs, China goes digital, Nigeria becomes fintech capital"
 
-secured: "VsBtKi4JivNx2k4F/h1/F9S6A6z/BmftKjFrePWSpWiOrJSyPbG1ICT5Oqn7QFs+i2xzz0hFufkOWBADZBTbKlCG9BkWBifwWtsRp45uzZ3NVsYqQkq007jKv7grOpsmxhomNrsgHIRRfQmR629czJc03S+QsWkzwi0z35vkYIsqbUC90iOPQy+LBZi3yXzT4Kl2zEJuGeUjgAyGEvpUfTKX9qIIBF54HqpE1RpXVIdnoZA/LzpKy2T8WqBle8kpqv7jbs01lto7zJ6hqrYiJw==;b2JT8qF0dyH0DHPyZLuJ2g=="
+secured: "Bqo3vQidXiixrTK8QB0Di5noc48uyLYRiR6E2QkIibzNps0z7ZjCJUuwT9Z/xv0IVDCTy7lMAivGAiqtJKzOdYBwl2UZrxPe2P5uQ2Sh7pP+4Nq9gHxbxVD//5uy7hrnWpzf50JCBDnZvIOC+vSdKvDPsE79IvCAFc13mB7Zoy+vFe0OxOdZYJKUGFZX9BzClhR+gGUD3A5MlQ5FUkayZfDIMOtzbh8EJ4icDa2Pd+RqsvexOiBxr62AWpOz2rR6zebZkrGJrvl0o0tGf+ZJrg==;2fuxHg4kIQluTJpmFXAyyQ=="
 ---
 

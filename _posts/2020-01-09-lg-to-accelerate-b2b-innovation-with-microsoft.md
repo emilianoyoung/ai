@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-09T16:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/lg-to-accelerate-b2b-innovation-with-microsoft-2020-01-09
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.32E0303AB6F67A6F1A91F4C5E87F41AD
         width: 700
         height: 525
+  - title: "LG To Accelerate B2B Innovation With Microsoft"
+    excerpt: "is working with Microsoft to build its automotive infotainment systems, building management systems and other business-to-business collaborations. As announced at CES 2020, LG will leverage Microsoft"
+    publishedDateTime: 2020-01-11T00:26:00Z
+    sourceUrl: https://finance.yahoo.com/news/lg-accelerate-b2b-innovation-microsoft-170000271.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DB4FD421F070CBF011811C4743CF1998
+        width: 400
+        height: 282
 
 secured: "Kp4zu8x1ukOfnX7FjeKNH8iMR5/uivMDuNfWi2QtZY7bxnXvmVI9JqG6izjSHVvuJcIoQ8fs+ltFM/vINXl2Xl1/RFqYKwD1Ks1cXOwu6ngHiGKSq4hC8Yad+zoKgUBB9EqDr1lY4C5D2llkLWzlv7HPckNzAW4tU/o70/QTrhYVKKgz+dXmz3gcAqqxKakvDFXX9PyV+Ud4/ShEDMbmt+DR3hBUSnfkVIFoIzsBtQaIyTJ5PB602/R7WACREmrm8X8BU3CZ1hzR9eqUeiz43Q==;gQNzMh74EyotmqhX0HkRew=="
 ---

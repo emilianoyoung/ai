@@ -82,19 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
         width: 600
         height: 315
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-22T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
-        width: 700
-        height: 393
 
 secured: "3dgR9xqS+FnIDBnqzdn8EgXjtNUcTFGnTYUqahWsu8fIfE2Xgoc8bmvkle/ti3Tsq6dZ/gn8WqaC8GyBbDFpk5/8mQIRamR88pslDxAP7FSgSmy16Sr5c232Zd/vbdlpkz7QRd/QJBfkkcBS9sBSRK41vArip9Xl5W4TFdhI2yBjlhycuuvit1VgDLg2MnmKLVTRXMhlvd1sM2WUJWjfEVuc9mjblV4Ajo5qFxoTxO2ItfnDoDOPGTwRAmKrR0/x25H1RMcJ1H88FeYVXRGJ4w==;IKmtG0xBsn2jXtXR+KBiqA=="
 ---

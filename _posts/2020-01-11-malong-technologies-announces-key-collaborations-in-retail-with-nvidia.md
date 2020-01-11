@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Malong Technologies Announces Key Collaborations in Retail with NVIDIA"
-excerpt: "/PRNewswire/ -- Malong Technologies, a leader in asset protection and other AI-based solutions for retailers worldwide, is showcasing its success"
-publishedDateTime: 2020-01-10T13:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/malong-technologies-announces-key-collaborations-in-retail-with-nvidia-300984505.html
+excerpt: "\"Innovative retailers are reinventing retail with AI to create intelligent stores that deliver incredible customer experiences ... Companies must meet exacting standards for technology capabilities, customer service and experience with Microsoft Azure. Only about one percent of the company's partners earn Gold Certified Partner Status."
+publishedDateTime: 2020-01-11T00:34:00Z
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/malong-technologies-announces-key-collaborations-in-retail-with-nvidia/article_8e3ce1ac-8a54-5d68-9bb6-a06b0eef7775.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.BBA61CF977597F79AC2A22961877E5BD
-    width: 700
-    height: 366
-    title: "Malong Technologies Announces Key Collaborations in Retail with NVIDIA"
 
 related:
   - title: "CES 2020: Mobvoi announces TicPods 2 Pro with AI-based motion and hands-free technologies"
@@ -55,15 +49,19 @@ related:
         width: 700
         height: 393
   - title: "Malong Technologies Announces Key Collaborations in Retail with NVIDIA"
-    excerpt: "\"Innovative retailers are reinventing retail with AI to create intelligent stores that deliver incredible customer experiences ... Companies must meet exacting standards for technology capabilities, customer service and experience with Microsoft Azure. Only about one percent of the company's partners earn Gold Certified Partner Status."
-    publishedDateTime: 2020-01-11T00:34:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/malong-technologies-announces-key-collaborations-in-retail-with-nvidia/article_8e3ce1ac-8a54-5d68-9bb6-a06b0eef7775.html
+    excerpt: "/PRNewswire/ -- Malong Technologies, a leader in asset protection and other AI-based solutions for retailers worldwide, is showcasing its success"
+    publishedDateTime: 2020-01-10T13:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/malong-technologies-announces-key-collaborations-in-retail-with-nvidia-300984505.html
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.BBA61CF977597F79AC2A22961877E5BD
+        width: 700
+        height: 366
 
-secured: "kfj7QXWzNnXCtMxePFVbA+0u3tvNkwiTwNXkzT0xngglaT4Qi2NXaHwnGM/Z0HZFOItUttnf7A0Mm07V2GBppyekYEAF6zsSGqOs3v4ZuvZ5W9ML4gViUoMUjgUcMPPRTZzL3Qa7Iq4D8GO6Cf/zUGcpqR5T+oEnaaawi+ULG8aYgI0gMM0FrlMmkeSsG1XmxIAogLyn+OFf71atXqFrZVN74VWU/wfk1cYkVGk5C1i7x5sriE1e2LH5XiPFVnNNqweqw37ZZQ45LEjFKYvziA==;q94PF08/mpb7h26T5MRnjA=="
+secured: "DnKUjWKQyAaFNMhTaJJJP1OARIfyjrL7qDHDPQW/NXyJasABKSDd7KWhqBTvsDfG8/9Sqq1ZjFIT11a0sq+tz+IdP0Gz0k2oU/Q/tP5pX2c1FS5jvE/MxCGEX6sc9onRrOo9L1z3kQyK3mINT8UGjZPbx4GOqZama5N8DTyllDsv6MxfZfzNrMdmeaQ4emEEDg8A/D3CafolcwVQAG2RQL5VuJMlICRpqln99BhxmccVLWYWweXK7LkPBsNa4sfBUJIwDnkwd6Q71nLfyKW/5w==;0Bn7pbhDv/SX0irOjfe6ag=="
 ---
 
