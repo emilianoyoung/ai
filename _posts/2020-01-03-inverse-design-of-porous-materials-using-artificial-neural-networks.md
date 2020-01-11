@@ -3,7 +3,7 @@ category: news
 title: "Inverse design of porous materials using artificial neural networks"
 excerpt: "These authors contribute equally to this work. See allHide authors and affiliations Generating optimal nanomaterials using artificial neural networks can potentially lead to a notable revolution in future materials design. Although progress has been made in creating small and simple molecules, complex materials such as crystalline porous ..."
 publishedDateTime: 2020-01-03T19:06:00Z
-sourceUrl: https://advances.sciencemag.org/content/6/1/eaax9324
+sourceUrl: https://advances.sciencemag.org/content/6/1/eaax9324.full
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 186
     title: "Inverse design of porous materials using artificial neural networks"
 
-secured: "kiDEy3j2636sVdx8COCMxWX7SWH5VBbzPv75kGLkWgohs6DuTvvcxozHf7od8Wvn8xIGtlDzGEzf2zVMIIXmChuO3YWpfmzZcZURGVHccezTW4UVY9xTdyULfTXqwLKZRevVw+HbyFPCDe51axuX9rL8mB45rDAJMgQhrniIAthdoSRNo5/djI1qayZHk4p9/WIpUd5ewqs/GxgEaD6XkdfxGM+JvHhaYb59wmq65yGVEJFV/RlFJ1+u3GpiPfmiohILP/IICTY6xm7U7e6xVQ==;0RVHcw0UL7gb1CqfC/tzfQ=="
+secured: "J7z9zXvNtfPNMvM7AeiLt36XTcXtCeb+zJ3QSTImQBxqFmCrFnygnE8XA89Yd1KFxCyn7Iu41n7sM5pdvryFmBI1FgHW6zaUGQf/GP14T6JmuzsAyI6iJyFBLog46sjuzqXZwqg1JsMK3GowkvYbup6/cEgjbdAALHS/w++ZRXR2WIXSSaXSN9R3ifGHZtLj6GGauDHLZU3M7JkeOygPDeNqyakHClZWiTY5DKfwJApylaHK9fC7d4PLx3qVk1VRTCovnZVcqxfipmFq6e28MQ==;LHDPra35b2xtVoIx5jWxvQ=="
 ---
 

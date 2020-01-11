@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.65EE4A7A43EF5FF11DBBB4275BF77C0D
         width: 700
         height: 490
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
+    publishedDateTime: 2020-01-03T14:44:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 9
+    images:
+      - url: https://www.bing.com/th?id=ON.4C33366C80293E97B4C37F3186E9A535
+        width: 512
+        height: 512
 
 secured: "Fnb4VdSkBX/dNKJ3MAsfm9LI71B6BDDl0viG4se68W5+GOyZ35hDTORhSrKhlBvugC/TCIC0Oc+n0lwkZE2cDZhREpbxO6sO1CPTJXI5KeXFx2P3AmRArucK4yOeBbfBGfcYMcS1+4O267tyQpbWknZP4rQrCYPZbiIIdrcHZ81Z7EMvqLr5ovAdrcjj1frnzFjjGq1PIKntJsS9z4VPywDBHxlmswwjSVn2bl+zUsjQI1Oa7gn5DuGdaeHe50gMWJ0w2oM4M6+GknublH/I/g==;XO/pc8DxycCjzdYXkyyDuA=="
 ---

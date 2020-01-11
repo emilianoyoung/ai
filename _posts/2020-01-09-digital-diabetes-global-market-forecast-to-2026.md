@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Digital Diabetes Global Market - Forecast to 2026"
-excerpt: "/PRNewswire/ -- Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum"
+excerpt: "Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum therapy options in the patients suffering from ... technology advancements such as incorporating artificial intelligence to manage the diabetes are driving the market. However, privacy and data safety issues ..."
 publishedDateTime: 2020-01-09T13:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/digital-diabetes-global-market---forecast-to-2026-300984276.html
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/digital-diabetes-global-market---forecast-to/article_7a409362-c424-56c7-a666-4638e22b2ef2.html
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
+  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+    width: 1280
+    height: 720
     title: "Digital Diabetes Global Market - Forecast to 2026"
 
 related:
@@ -40,6 +40,6 @@ related:
         width: 278
         height: 333
 
-secured: "WwZfD4hqBOvtEYApQzw3Yu7lmrd/u36g+m9O7WKe+4P+BuiAi/N3oiHWliIce99BPHG8D0aSO0+QyuhitzdlBq7hQlJsSIiNn6gNf44sT0gTy3on6fDzGBJAXU1F7BZj3VX4A3W1d8k5RDCIGuUN1ZTCPrvYhf+9w1iKWkBSHFBZVUImgTc2avX9TVUdIc8LIVjON/0ewZ3taAYnFrQFDgwzhSOSwDjt6J5i7iuqBiO5B67wI60EetHMiHSVF6ygEAuXVmsxgMVoxkKkJONbgQ==;o+yrEDWs3QRUjwkgluiVZw=="
+secured: "XIaDwxVCQSdRQ+boy/OgsTs/7ns0z1LOtzU+5e/PTYtxPj8wjntjBYi/g+PkvcRmJj3A0R1U1/sg3aCABEf8dTbdd4Usn9oa+4xxediNOe1Ngv0r3M+msSOZk+AiVPc7O605YxP/fy4irWWBadp7nnwXwhKdn2TbtjUEsOIALnjkYq92iitbLcfThxTmxFSg9wjqK+NUDHBrAemKLCMF1js9cDFnHs5istYJ9ZN6Y3Xapv/IxDHUTninxvhKYchKvvaKV3wseVcqjHcTeJ5RLg==;96jxfzu3pFGpP1hqoAwikg=="
 ---
 

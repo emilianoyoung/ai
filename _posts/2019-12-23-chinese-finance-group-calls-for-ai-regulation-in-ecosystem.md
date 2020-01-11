@@ -8,8 +8,8 @@ ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/chinese-finance
 cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/chinese-finance-group-calls-for-ai-regulation-in-ecosystem/amp/
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: pymnts.com
@@ -25,19 +25,26 @@ images:
     title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
 
 related:
-  - title: "China Should Step up Regulation of Artificial Intelligence in Finance, Think Tank Says"
-    excerpt: "\"We should not deify artificial intelligence as it could go wrong just like any other technology,\" said the former chief of China's securities regulator, Xiao Gang, who is now a senior researcher at the China Finance 40 Forum. \"The point is how we make sure it is safe for use and include it with proper supervision,\" Xiao told a forum in Qingdao ..."
-    publishedDateTime: 2019-12-22T06:35:00Z
-    sourceUrl: https://money.usnews.com/investing/news/articles/2019-12-22/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says
+  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
+    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading ..."
+    publishedDateTime: 2019-12-23T11:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
+    ampUrl: https://markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.A14B8283E703FE82A8791744EC03F329
-        width: 700
-        height: 445
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
+    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
+    publishedDateTime: 2019-12-24T00:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/360-finance-selected-kpmg-chinas-120000593.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "eFPmt1F71LSK/Vl9hKOPpULoe7CGKh8TAtfQyuOG1Ye8MVaKMi/wnboJBGrF/kMPDiiQwrx4SltgCQw5ogOF8f731Kit3G0hY2PLxyGXgMqpoNjaOxdQSX/XE8NU3k1Yl2khpNhoLkeZC9kAOC2ZkRUYTJvnvff59OK3gK0qzjiVh6Ahy7SsNw6Yx0gwLOpA48t0lmzed4eabBGIgRQ44iPkjhd6iXS8Udj8oPJ1VQR4WmPZJ0p6PybBW2Ph5ol7xv4eAZtfAIth5Aa7aqgAqg==;fFEBkh0IkKOtyw6vwZTYiw=="
 ---
