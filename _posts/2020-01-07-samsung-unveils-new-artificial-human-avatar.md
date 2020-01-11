@@ -202,6 +202,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0CDEF78798A9D623681D79C687AEF0E8
         width: 700
         height: 366
+  - title: "Breaking down Neon: the ‘Artificial Human’ that wants to be your friend"
+    excerpt: "Artificial Intelligence has captured our imaginations for decades ... Contrary to the branding, Neon isn’t a Sophia-like quirky robot or a face-less Siri-like digital assistant. Instead, it’s a digital avatar of an AI that can converse and sympathise like real human beings. According to Mistry, Neons are meant to be users’ personal ..."
+    publishedDateTime: 2020-01-11T08:42:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO.html
+    ampUrl: https://m.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.A1F74A8002DFBD0078ABC0326FBCFE9C
+        width: 700
+        height: 393
   - title: "WTF Is An Artificial Human And Where Did They Come From?"
     excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
     publishedDateTime: 2020-01-08T21:53:00Z

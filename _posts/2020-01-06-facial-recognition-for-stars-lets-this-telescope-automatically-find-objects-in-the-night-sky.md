@@ -118,6 +118,21 @@ related:
       - url: https://www.bing.com/th?id=ON.EAEF1BE6F316E27F496AB95D91A90445
         width: 700
         height: 525
+  - title: "Facial recognition creeps into everything at CES 2020"
+    excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what the world would be like if facial recognition is everywhere. \"Hello, Alfred,\" said a measured, robotic voice, startling me. It came from a kiosk ..."
+    publishedDateTime: 2020-01-10T14:32:00Z
+    sourceUrl: https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/
+    ampUrl: https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.2C953B65CE73943F4E032F4DF1B348F9
+        width: 700
+        height: 525
   - title: "Upstate NY school district’s facial recognition raises privacy concerns"
     excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
     publishedDateTime: 2020-01-06T14:56:00Z
@@ -525,19 +540,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
-  - title: "Facial recognition creeps into everything at CES 2020"
-    excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what the world would be like if facial recognition is everywhere."
-    publishedDateTime: 2020-01-10T14:33:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/facial-recognition-creeps-into-everything-at-ces-2020/ar-BBYPcPj
-    type: article
-    provider:
-      name: CNET on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.BD523FC9D45BC7D61FB60CDB30F4A3BA
-        width: 600
-        height: 315
   - title: "NY district launches facial recognition technology after addressing privacy concerns"
     excerpt: "Lockport City School District in upstate New York recently activated its facial recognition system, which had been delayed to allow the New York State Education Department to investigate the district's privacy policies in response to concerns voiced by students and advocates, EdScoop reports. Following its investigation, the department found ..."
     publishedDateTime: 2020-01-08T15:35:00Z

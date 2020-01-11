@@ -24,34 +24,91 @@ images:
     title: "Competing with robots: How online learning can keep professionals winning in the future"
 
 related:
-  - title: "Deep learning vs. machine learning: Understand the differences"
-    excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep learning, which require a much higher level of computing ..."
-    publishedDateTime: 2020-01-06T11:03:00Z
-    sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
-    ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+  - title: "How deep learning can transform your marketing results"
+    excerpt: "Whether you outsource a deep learning solution to a vendor or bring that expertise in-house, here’s what marketers need to do to make deep learning work. Technology continues to push the boundaries of what’s possible for marketers. While most marketing executives understand that software can drive growth, not everyone is familiar with the ..."
+    publishedDateTime: 2020-01-02T15:14:00Z
+    sourceUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/
+    ampUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
+    cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
+      name: Smart Insights
+      domain: smartinsights.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.C6E9BA3D0630CDD05A14B309F332A045
-        width: 116
-        height: 116
-  - title: "Using Meta-Learning to Train Agents to Learn Generic Concepts"
-    excerpt: "Is it possible to recreate this neuroscientific miracle in artificial intelligence(AI) agents? Last year, researchers from OpenAI published a paper proposing a technique for concept learning based on a deep learning method known as energy functions. Energy-Based Models are a class of deep learning algorithms that focus on capturing dependencies ..."
-    publishedDateTime: 2019-12-31T15:13:00Z
-    sourceUrl: https://towardsdatascience.com/using-meta-learning-to-train-agents-to-learn-generic-concepts-b8378022b1f7
+      - url: https://www.bing.com/th?id=ON.0113C3EFA92A9C277EF0AB9E8873C445
+        width: 700
+        height: 292
+  - title: "3 Things to Consider Before Implementing Machine Learning or AI"
+    excerpt: "Today’s cutting-edge research on cloud solutions for manufacturers highlights how artificial intelligence and machine learning have the potential to prevent downtime, improve safety, and reduce material waste. That’s exciting for industry leaders, who are always looking for ways to refine these core efforts. At AWS’s re:Invent conference ..."
+    publishedDateTime: 2020-01-07T17:48:00Z
+    sourceUrl: https://www.manufacturing.net/home/blog/21108798/3-things-to-consider-before-implementing-machine-learning-or-ai
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 56
+    images:
+      - url: https://img.manufacturing.net/files/base/indm/all/image/2020/01/16x9/Metal_gear_wheels_with_the_engraving_Artificial_Intelligence___3d_render_888759400_5200x3072.5e14b67450ee2.png?auto=format&amp;fit=max&amp;w=1200
+        width: 1920
+        height: 1080
+  - title: "Logistic Regression in Machine Learning using Python"
+    excerpt: "Find the sum across all the values in training data. Now that we have the error, we need to update the values of our parameters to minimize this error. This is where the “learning” actually happens, since our model is updating itself based on it’s previous output to obtain a more accurate output in the next step. Hence with each iteration ..."
+    publishedDateTime: 2019-12-27T21:34:00Z
+    sourceUrl: https://towardsdatascience.com/logistic-regression-explained-and-implemented-in-python-880955306060
     type: article
     provider:
       name: Medium
       domain: towardsdatascience.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.89D67A4F8085D6823FB349299C46BC02
+      - url: https://www.bing.com/th?id=ON.1FE5C96CBFAFC7DD79276C871476C9BC
         width: 700
-        height: 393
+        height: 420
+  - title: "Tiny Machine Learning On The Attiny85"
+    excerpt: "We tend to think that the lowest point of entry for machine learning (ML) is on a Raspberry Pi, which it definitely is not. [EloquentArduino] has been pushing the limits to the low end of the scale, and managed to get a basic classification model running on the ATtiny85. Using his experience of running ML models on an old Arduino Nano ..."
+    publishedDateTime: 2020-01-07T12:07:00Z
+    sourceUrl: https://hackaday.com/2020/01/07/tiny-machine-learning-on-the-attiny85/
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C1F7A4F88456153D7C68C04023EB8F8A
+        width: 700
+        height: 316
+  - title: "Practical Lessons for Scaling Machine Learning Solutions in the Real World"
+    excerpt: "Instead of thinking about flashy milestones, my wish is that in this new year we make progress streamlining the end to end lifecycle of large scale machine learning solutions. Despite all the progress in machine learning stacks, the implementations of large scale solutions remains a difficult challenge for most organizations. My company ..."
+    publishedDateTime: 2020-01-02T14:28:00Z
+    sourceUrl: https://towardsdatascience.com/practical-lessons-for-scaling-machine-learning-solutions-in-the-real-world-e33c7254a0f6
+    type: article
+    provider:
+      name: Medium
+      domain: towardsdatascience.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
+        width: 700
+        height: 467
+  - title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
+    excerpt: "Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep neural networks to maximize performance, battery life and to add new intelligent features. Cloud-based AI inference is not ..."
+    publishedDateTime: 2020-01-07T11:11:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-sifive-ceva-partner-bring-machine-learning-processors-mainstream-/2020/01/07/9077061.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+  - title: "Consider 3 questions before implementing machine learning or AI"
+    excerpt: "Today’s cutting-edge research on cloud solutions for manufacturers highlights how artificial intelligence and machine learning have the potential to prevent downtime, improve safety, and reduce material waste. That’s exciting for industry leaders, who are always looking for ways to refine these core efforts. At AWS’s re:Invent conference ..."
+    publishedDateTime: 2020-01-08T03:50:00Z
+    sourceUrl: https://www.plantservices.com/industrynews/2020/consider-3-questions-before-implementing-machine-learning-or-ai/
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 19
 
 secured: "FGEXB6nCYacYtyLybiUCLUOzWWly+coUtwi1+0FOqQ0lVHv1bLOhv0YcGVXiijr14d+8Ydtr49J6r3wXMJ/poi0slFBMsqXpcSAkwdQT/QgRZHPTPd8DdybSJMBeIwtNUMUxKrVEmNCPA/bbTx1U6+RjlvKvPqkau/trP872mOGxCtxvNigQDbhQqRYLY2ax4I4BY50elDUk1eNIKGYU7TouJapD7J0TAy09jxNUKhP8Oo59AFdMlYSLnXb5mDHxH5CwZYt9qzhIFlODavdvRg==;DUK80LxbcCp1yc/EalWtrQ=="
 ---

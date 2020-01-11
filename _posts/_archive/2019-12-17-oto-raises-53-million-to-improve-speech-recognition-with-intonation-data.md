@@ -31,18 +31,18 @@ images:
 
 related:
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 54
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
   - title: "Speech recognition tech cuts paperwork for police"
     excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
     publishedDateTime: 2019-12-12T20:40:00Z
@@ -134,6 +134,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "sU01hmve1sR+v1JMlqWZcdT1i2bSx5XaW4WRZKSv4GetMQCMTI8qJ0IlTzfor/8jfbYoJLuaUAwi/dWX9h/0VyZTgUJV2TSRlVOPVfg7PijSAE5jgRylsGeA1G0jYAgUCb21FFDiRDOqHCcrWE1GKqxUG8fNdBkMGa8Of10dafE5lRi7k0hQCzJbIJjBNkxo5PIumLe1lUvXJQoyPqoIFVcpFUg6B8sPUjwUpAFTztd4vAjjFu70bIF/z2WW9O7ejt9VkiG8v4lSMRD0WCDLWQ==;9bNxJmr1X54U8VOL+80Lqg=="
+secured: "8kymLBRtNtkO3waCI1hH24/YXwpjfMtk7DMESFg5D+SXpJbAnk5w6l5n0FiRXpovqfiiDYLe3G0cnug+i+h2Est6nQ0ZrNcWpKgah5VP9dc8iCa873T4jQVmIu67+jl2+UGJblpuiW/dYY4iaYNX9qhcT3WB55NBeXrhKfJ+ZHEuEqYAiQBw/40aYHMzZE9bFnSxurqVmzvFczjrWtav2Qe71kpFJocqvcOUUhATlYznDzPkyxOpAAW386YBpJ31cWsQWNcNRocJCvH4Lwjktw==;GYMHRI/BUoZSyUepmgDVjA=="
 ---
 

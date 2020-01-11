@@ -1,34 +1,29 @@
 ---
 category: news
-title: "I met Samsung’s artificial humans, and they showed me the future of A.I."
-excerpt: "What is Neon? Shrouded in mystery leading up to CES 2020, all we knew was that Neon had something to do with artificial intelligence. Was it a Google Assistant competitor? A robot? Something more? “It’s a preview of a wonderful technology we have, and a wonderful future we can create together,” Neon’s CEO Pranav Mistry said at the start ..."
-publishedDateTime: 2020-01-09T19:29:00Z
-sourceUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/
-ampUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
-cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+title: "Breaking down Neon: the ‘Artificial Human’ that wants to be your friend"
+excerpt: "Artificial Intelligence has captured our imaginations for decades ... Contrary to the branding, Neon isn’t a Sophia-like quirky robot or a face-less Siri-like digital assistant. Instead, it’s a digital avatar of an AI that can converse and sympathise like real human beings. According to Mistry, Neons are meant to be users’ personal ..."
+publishedDateTime: 2020-01-11T08:42:00Z
+sourceUrl: https://www.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO.html
+ampUrl: https://m.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO_amp.html
+cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO_amp.html
 type: article
-quality: 75
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: /assets/images/organizations/digitaltrends.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI
   - AI in Robotics
-  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.DE8C1FB24159B2B0A0BC1EF52331F668
+  - url: https://www.bing.com/th?id=ON.A1F74A8002DFBD0078ABC0326FBCFE9C
     width: 700
-    height: 366
-    title: "I met Samsung’s artificial humans, and they showed me the future of A.I."
+    height: 393
+    title: "Breaking down Neon: the ‘Artificial Human’ that wants to be your friend"
 
 related:
   - title: "Neon's CEO explains artificial humans to me and I'm more confused than ever"
@@ -46,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.40CB6A6A1CB07D74EC3D36B66BD64965
         width: 700
         height: 525
+  - title: "I met Samsung’s artificial humans, and they showed me the future of A.I."
+    excerpt: "What is Neon? Shrouded in mystery leading up to CES 2020, all we knew was that Neon had something to do with artificial intelligence. Was it a Google Assistant competitor? A robot? Something more? “It’s a preview of a wonderful technology we have, and a wonderful future we can create together,” Neon’s CEO Pranav Mistry said at the start ..."
+    publishedDateTime: 2020-01-09T19:29:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 75
+    images:
+      - url: https://www.bing.com/th?id=ON.DE8C1FB24159B2B0A0BC1EF52331F668
+        width: 700
+        height: 366
   - title: "Samsung's \"artificial humans\" are avatars for chatbots"
     excerpt: "Samsung has finally revealed its AI-created \"artificial humans\" – and they're essentially clever fronts for chatbots ... “In the near future, one will be able to license or subscribe to a Neon as a service representative, a financial advisor, a healthcare provider, or a concierge,\" the company says. \"Over time, Neons will work as TV ..."
     publishedDateTime: 2020-01-07T16:42:00Z
@@ -194,21 +204,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0CDEF78798A9D623681D79C687AEF0E8
         width: 700
         height: 366
-  - title: "Breaking down Neon: the ‘Artificial Human’ that wants to be your friend"
-    excerpt: "Artificial Intelligence has captured our imaginations for decades ... Contrary to the branding, Neon isn’t a Sophia-like quirky robot or a face-less Siri-like digital assistant. Instead, it’s a digital avatar of an AI that can converse and sympathise like real human beings. According to Mistry, Neons are meant to be users’ personal ..."
-    publishedDateTime: 2020-01-11T08:42:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO.html
-    ampUrl: https://m.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/breaking-down-neon-the-artificial-human-that-wants-to-be-your-friend/story-1rr1cPrAsASiqwUP1AjMzO_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A1F74A8002DFBD0078ABC0326FBCFE9C
-        width: 700
-        height: 393
   - title: "WTF Is An Artificial Human And Where Did They Come From?"
     excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
     publishedDateTime: 2020-01-08T21:53:00Z
@@ -351,6 +346,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "v1sKsES4B/Beqt68ZZ9JHDNdQgRJkE0A6lfubER8pHx8PWnXer16xXNQsmEnVpmTVtsWoTEBedI31JZzq9Rrxa71Z9BWjtrKqdDxJEcFEkcY/Z097DB5mtW8gIkz+DULi0TaHlzrQWWBYXH+0prX9P6kDBE7kc2bafNa7qrBJNzqlQmkk+Olu+WGIJlHcQz1dGErXW27vkeqhXc0pZ8g5FcQtiJj+/Rj4jlUuuZW3B1sdvDsvok9vWr0E9bYg3o9R7uvbm0B8gPkLd4tifxXmg==;J0h/HH+t+U3xsOHK1b7rUg=="
+secured: "2n9Sa9NNyWucL/T6lbkZfwoLw3h0+D2+0VtvU0v7qXfYBm4fNEyN/ZzIbgd1MUvmPPB0supkXJW8yRQWai6zlRRBC3Nd70U2H9VcsgsFF17xGaRXGCx0mFyb11JbpWNBNpXTPujkCpX/2Qy+cskEzDF9ctZpa9fatWKq+kUle3LbooANiDDIrSuH4MDIcfR9Oyt7UYwLZZ77nF7h6JWBMB9hoxvhfdEMVObOLfvYYOJjNIMzrgTQH3gkCKrvB4DPnfMa36HElCX3IN3T77IR5w==;6zvgZK9og/BTu7nsjZnQ2w=="
 ---
 

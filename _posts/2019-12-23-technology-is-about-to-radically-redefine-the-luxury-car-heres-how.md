@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
-excerpt: "“The artificial intelligence stack has to be taught anew in each city ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing."
-publishedDateTime: 2019-12-23T13:00:00Z
-sourceUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/
-ampUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
-cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
+excerpt: "Artificial intelligence and fast, cheap algorithmic design will transform the automobile—and it will only get weirder from there."
+publishedDateTime: 2019-12-23T13:00:08Z
+sourceUrl: https://www.msn.com/en-us/autos/news/technology-is-about-to-radically-redefine-the-luxury-car-here’s-how/ar-BBYhKKJ
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Robb Report
-  domain: robbreport.com
+  name: Robb Report on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://robbreportedit.files.wordpress.com/2019/12/2-exp-100-gt.jpg?w=1000
-    width: 1000
-    height: 562
+  - url: https://www.bing.com/th?id=ON.C2DE1B23AD5F331599302F2735899693
+    width: 600
+    height: 315
     title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
 
 related:
@@ -40,6 +38,6 @@ related:
         width: 700
         height: 393
 
-secured: "WY6OLs64vSixQVCbUkRjFqja7AC8eo8CRV83ppEimTxtHuXoLxbPKKwLP9YrsGHFLfhfxbAtM8DsQ2hJO2AUfPHk952NRqH1uWzNpvL76m/kpxYwbGWDERvFY4oHxt/VMfMuEzfP8p7m5e8geY7PftZ/Hr2G0f8vBFXIsDso3E5I2XsV2alqy3LzuwfltSBH6ULfVWzO0h12kQn2/Ogm6dyHln8nOI5uBp+6qr9jEMtisHUIuqy8j5AMp3l+KMZBt8Mjug+nBuSjuk5yBHwgiQ==;VN6xRyJ6g90eRRjhqPsBKQ=="
+secured: "mdXZNQke9bdm1U4uQQKatV9OucNgr1tao1I1IvArHQeVsvpWXBFdqkJq6DUiJzV6ierQYJcjxh19fayQez+v4JeQc0t/AeG37hYZT9TrugvnxVkkh8MztW7sPARmnj+h3Jwm19wKHo4jrj+y6E8U/rGdYTppB1Y2m942JLyCCQNrBFvn6/htSxdXcjsRLkEMek/9rAYwHaV+nIPjyicWTaf0dBCNz0Cz7Wz2jpvlEFr2eowgIppPaOHDIUeNMRO45CVD6U5x9wbw3Emv2+HB4Q==;54aaUuCYOUX1DwaZPortvw=="
 ---
 

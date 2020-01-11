@@ -20,6 +20,19 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
+    publishedDateTime: 2019-12-12T17:48:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
+        width: 718
+        height: 400
   - title: "Waymo acquires AI startup Latent Logic"
     excerpt: "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ..."
     publishedDateTime: 2019-12-16T13:23:00Z
@@ -32,6 +45,6 @@ related:
       domain: leftlanenews.com
     quality: 54
 
-secured: "nQXom4ipy6gCIe3xFzdml5uMSFOGopLYr0B9NWrNgxwtpbMhl57RJvcUp+//akR9K6urWtCSKGcohujIFUIehiiOkDtK6bso6GsmRpXhTfBQkVzrrg9bdIb3ee0jcLBW+LhDhLLWVvaM3XFWOA0yYwEHRBMGVtlWgbwtNz0poqCoVWer4oEJZT8YXbxt7P0AU88bEHCGg3uLYXxssec5fniM9nu6Oj9Y8fp9WKRZOut7SvXTLgCO+gwE0XXcoooa7ILAiDfk/cz5WFqTIZ7Anw==;sSmYaEOCZURZ80NuqCkRAA=="
+secured: "1sonxLrHIIweTiCGD2EzJN5MfFiqxGZt5NjJNYDLDoy3j3ijHmPD/0PL9qjqvhsiO9Edg8O+x1pR2L8XdA7w1L9xaH8Y+MioXdryHESmmyP5mxA8sZAqoq2rxlMewLqpL26SidMAxRFBnxsaItfbq1Xhv/ORu/Anu10XYUNdulr299Dizm2LAj1upGOXqmswM9cpulRuP6mDVwQs9xRSQMst5v8QwQWpgUnuLepzvcb4cQDtx/aXj+tAB1pfC/cxCjTIzHIYXGlID5/I1xA+rA==;jXesZMYL4NOdiDY+9tijxg=="
 ---
 
