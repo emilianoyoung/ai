@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?a
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:
@@ -72,6 +72,6 @@ related:
         width: 700
         height: 612
 
-secured: "Jit0HwD/CrnjHfG5Mh9ZKMOMILs8co4+HHfk3sKoEbylYTgXFa9QDbuB7d0REasXuHwNIAwJ9mV6A2mHApnPtEwGTO4Jd3XrxRKu8HrtU13+78qXMLV/5pgtgi/Z2LNbMUxmqplQpHpY7/FFqJoq7a06mIjjs0ScrN+rLDaPkOwASL1e3vKhNvzzHrzoA/W2UZTX1YpSb4X/MWUqIWqzdIimhGwO3XkpnRVg4dykI17mpXHa/fsTH0fPi+jSPA3GzC01LeaWawcakMNf1Itl8A==;66eKGUPdSzYF3W22cevKtg=="
+secured: "BeCqBkdhoC4w+zTyJt4T6taTIl7XINyg6YGKxfn/jNuTcDlJ2llUWP+8SY7pg+F1SPyMtCOqcx47Xzx5a5mmzeC3VKIWOBHFbayF2on8ksxtMorRuQrPw/cCi3YYun/8akXPppoxRvlULhL3llkT/x37gZHWGBqFYnrgBC1MaKHeVxGTjxNWgLzlJmXoPznMDs5T7EsHtVPBTRkxqy+s1vFuQ/ijA8MGmvkePa5zrUAloPCwO1hSjRlBhbZRrA6emWBQAN38L52eooJPtfUbyQ==;GB6pmai0GRkk2r9Zu35URA=="
 ---
 

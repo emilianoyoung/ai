@@ -165,6 +165,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E87C8D793B8BF399E36BA48BC633FA1F
         width: 700
         height: 367
+  - title: "Elon Musk says “feature-complete” Full Self-Driving coming “soon” to Tesla cars"
+    excerpt: "There is however some evidence that Tesla is getting closer, with the company recognizing some revenue from payments users made for the full self-driving option due to delivering Smart Summons. Now Elon Musk, CEO of Tesla, has said on Twitter that the feature would be coming “soon”. Musk has said the Full Self-Driving feature is incredibly ..."
+    publishedDateTime: 2020-01-11T17:24:00Z
+    sourceUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/
+    ampUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.2410965BA87CA4444A1B498B57579FFF
+        width: 700
+        height: 436
   - title: "Deadly Tesla Car Crashes Raise Questions on Self-Driving Cars"
     excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets."
     publishedDateTime: 2020-01-06T10:31:00Z

@@ -1,32 +1,29 @@
 ---
 category: news
-title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
-excerpt: "“If they build it, they will come.” “Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,” Toyoda said. This so-called Woven City will be ..."
-publishedDateTime: 2020-01-08T00:03:00Z
-sourceUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/
-ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+title: "Elon Musk says “feature-complete” Full Self-Driving coming “soon” to Tesla cars"
+excerpt: "There is however some evidence that Tesla is getting closer, with the company recognizing some revenue from payments users made for the full self-driving option due to delivering Smart Summons. Now Elon Musk, CEO of Tesla, has said on Twitter that the feature would be coming “soon”. Musk has said the Full Self-Driving feature is incredibly ..."
+publishedDateTime: 2020-01-11T17:24:00Z
+sourceUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/
+ampUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
+cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
 type: article
-quality: 81
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: MSPoweruser
+  domain: mspoweruser.com
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
+  - url: https://www.bing.com/th?id=ON.2410965BA87CA4444A1B498B57579FFF
     width: 700
-    height: 392
-    title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    height: 436
+    title: "Elon Musk says “feature-complete” Full Self-Driving coming “soon” to Tesla cars"
 
 related:
   - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
@@ -74,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.19C345D1069A685957DCBAC8889B1A34
         width: 600
         height: 315
+  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    excerpt: "“If they build it, they will come.” “Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,” Toyoda said. This so-called Woven City will be ..."
+    publishedDateTime: 2020-01-08T00:03:00Z
+    sourceUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/
+    ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
+        width: 700
+        height: 392
   - title: "Toyota plans to build a town in Japan for testing AI, robots, and sustainable energy"
     excerpt: "“We want to turn AI into intelligence amplified in a world where AI has negative connotations,” he said. “Right now, you might think this guy has lost his mind. Is he a Japanese version of Willy Wonka?” He said he believes it is a chance to weave together a new kind of city, all with views of Mount Fuji in Japan."
     publishedDateTime: 2020-01-06T21:35:00Z
@@ -164,21 +176,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
         width: 700
         height: 366
-  - title: "Elon Musk says “feature-complete” Full Self-Driving coming “soon” to Tesla cars"
-    excerpt: "There is however some evidence that Tesla is getting closer, with the company recognizing some revenue from payments users made for the full self-driving option due to delivering Smart Summons. Now Elon Musk, CEO of Tesla, has said on Twitter that the feature would be coming “soon”. Musk has said the Full Self-Driving feature is incredibly ..."
-    publishedDateTime: 2020-01-11T17:24:00Z
-    sourceUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/
-    ampUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
-    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.2410965BA87CA4444A1B498B57579FFF
-        width: 700
-        height: 436
   - title: "Deadly Tesla Car Crashes Raise Questions on Self-Driving Cars"
     excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets."
     publishedDateTime: 2020-01-06T10:31:00Z
@@ -435,6 +432,6 @@ related:
         width: 500
         height: 500
 
-secured: "qHOmgHxEDl5am90oJGyC/jDL+RQzEy2PrlWnX1cXpzbPxjXhz3R0yNxiTAWZc0tOKk2aQb9bUipD5OLRqP21LcrK3HHR6tSUMG85Mye2UMEdSRk1jruRfdRrZZUdII3MLoS8XGYK2Qf7EIacxSVyVLKRA1l1XLu51u2dbTIEcrNXAW4RiGVFagTGVxDfQHv4ZOn0xO9CZSeMTW2E5ESTqeFpVyjZtWA3r/W7o6XelL+ha4TqF3tncbpFf/ZB/cY3QtrUpPbCa+pcFVXcAhguMQ==;K7u2mvNOGJeTSJFs9abAHQ=="
+secured: "/uc1sivWnw5BF2MMWZOOroXx6By5hj7S5/gHxC5jjj575wqRxK9ZR5NgBYitGEVitHulai7Ex0n1FElB5DToEMfpiRqyRS05WTjmFnMxUaKbQqJ4wI6byl6oOnUuyJ0m+0lGtyKRIcrdHO/5VGBkN7RBjJDHBw6RBm+DdDqiwoYe3DNUWePSSXfxd2UzcGBXkAaEdTEsWCBBwliHokzlye54k/pJuxEN/0gj7HMgbWGCEUmckoTKtpxJcd0KPG1imJkZHpkdLwjVTrAKDsmWEw==;EkXvPJ9JHsWagzk8uAhmrA=="
 ---
 

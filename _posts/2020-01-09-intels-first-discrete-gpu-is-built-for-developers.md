@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Intel's first discrete GPU is built for developers"
-excerpt: "At its CES 2020 keynote, Intel showed off its upcoming Xe discrete graphics chip and today, we&#39;re seeing exactly how that&#39;s going to be implemented. First off, Intel unveiled a standalone DG1 &quot;"
-publishedDateTime: 2020-01-09T17:00:00Z
-sourceUrl: https://news.yahoo.com/2020-01-09-intel-xe-d1g-software-development-vehicle.html
-ampUrl: https://news.yahoo.com/amphtml/2020-01-09-intel-xe-d1g-software-development-vehicle.html
-cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/2020-01-09-intel-xe-d1g-software-development-vehicle.html
+excerpt: "It also promised \"double digit\" CPU performance increases with Tiger Lake, and \"massive\" AI improvements. Apart from that, it again revealed no additional performance data. As we've already noted in our AMD vs. Intel CES 2020 explainer, AMD has unveiled very specific products and plans, while Intel has just announced upcoming products and been ..."
+publishedDateTime: 2020-01-09T16:00:00Z
+sourceUrl: https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/
+ampUrl: https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/
 type: article
-quality: 59
-heat: 69
+quality: 89
+heat: 99
 published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.E5864EA720E59DCB7A1699D197DBBB7E
+  - url: https://www.bing.com/th?id=ON.C09643D92C0669F7D93C8E4DC0919166
     width: 700
-    height: 393
+    height: 367
     title: "Intel's first discrete GPU is built for developers"
 
 related:
@@ -40,6 +44,6 @@ related:
         width: 700
         height: 393
 
-secured: "13eto9YdPzJsuhDD2c8UWz1xqZ6pv940nw02haNqBLhgiJ7IkyB+rT+SLVsXXGKxpv18Zl25684OtFxxegH1OwkYgxTfeXn97MBOuyOfqCq8Z7gOuL+Ze+tNP98cTzFnJfoUvOWbqFbL/U9cBgg5fJK3qgD+GAfV/+JDvOj6+/TIprzpNPspAtkbGlX3z6v4bnQdKewzIF96cOWf9YmgbRe2P79ya+Q/8iQQC24V8bQ60WFLXQch6oY8wtsmcfFuT+IgnNIxKe/HnM3BMWVvaQ==;K9KV2TPBucLtbN2JyBFvtA=="
+secured: "ctbPrENUETMP/3K7/5obtUkmvql+GU0N6HIXvfhgIeuGBv7DikL3SfvQ0MWk0m3WoeB9EIIUbU4zJl0mx6tozIMBB3yNglwweLuFk8kqcXEVHU40mG02jRceVD79iRWe4OpwUnOlbm6lL9gLPAxJSnAwDC0ja1bjT9ZQOLc9Spm4OEEiA69ltXp7RLDtRdTtcXZF3NTzhRteMQg2Uv0H29LNIp3tEVPdOfKH4UKVup/S9Qw7tS6czW8P3DusbJuPzmbkKeXqdhavERKa1jvkng==;TEkUjrkaDnCxslMQh/8Kkg=="
 ---
 

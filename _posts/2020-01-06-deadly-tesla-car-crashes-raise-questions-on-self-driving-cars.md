@@ -174,6 +174,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
         width: 700
         height: 366
+  - title: "Elon Musk says “feature-complete” Full Self-Driving coming “soon” to Tesla cars"
+    excerpt: "There is however some evidence that Tesla is getting closer, with the company recognizing some revenue from payments users made for the full self-driving option due to delivering Smart Summons. Now Elon Musk, CEO of Tesla, has said on Twitter that the feature would be coming “soon”. Musk has said the Full Self-Driving feature is incredibly ..."
+    publishedDateTime: 2020-01-11T17:24:00Z
+    sourceUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/
+    ampUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.2410965BA87CA4444A1B498B57579FFF
+        width: 700
+        height: 436
   - title: "CES: Toyota's building a city the future full of robots and AI"
     excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
     publishedDateTime: 2020-01-07T21:00:00Z

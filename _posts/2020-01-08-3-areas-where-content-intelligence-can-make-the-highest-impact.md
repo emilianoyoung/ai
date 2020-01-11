@@ -25,21 +25,21 @@ images:
     title: "3 Areas Where Content Intelligence Can Make the Highest Impact"
 
 related:
-  - title: "Cancer: Artificial intelligence can make up for lack of doctors, says expert"
-    excerpt: "(L-R) Dr Sudha Seshayyan, vice-chancellor of the Tamil Nadu Dr MGR Medical University, World Health Organisati...Read More"
-    publishedDateTime: 2020-01-05T09:16:00Z
-    sourceUrl: https://timesofindia.indiatimes.com/city/chennai/cancer-ai-can-make-up-for-lack-of-doctors-says-expert/articleshow/73103828.cms
-    ampUrl: https://m.timesofindia.com/city/chennai/cancer-ai-can-make-up-for-lack-of-doctors-says-expert/amp_articleshow/73103828.cms
-    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/cancer-ai-can-make-up-for-lack-of-doctors-says-expert/amp_articleshow/73103828.cms
+  - title: "CES: The Coolest AI (Artificial Intelligence) Announcements"
+    excerpt: "As seen at this week’s CES 2020 mega conference, the buzz for AI continues to be intense. Here are just a few comments from the attendees: Nichole Jordan, who is Grant Thornton’s Central region managing partner: “From AI-powered agriculture equipment to emotion-sensing technology,"
+    publishedDateTime: 2020-01-11T17:38:00Z
+    sourceUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/
+    ampUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/amp/
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 102
     images:
-      - url: https://www.bing.com/th?id=ON.274018B37A00C07175F57DA2D676A6C8
-        width: 700
-        height: 379
+      - url: https://www.bing.com/th?id=ON.AFA4AC9B84180F1E95E69BB7CB36C7D6
+        width: 600
+        height: 315
 
 secured: "D6Bv6p147wNWUzkL3+JMWy5pz+RQ+tC4kkRisRK1uL0BTtG0eut8z/XvZNhXGe1VdRdxDR6UKpwHTib7UHqPT1ezKG5KM7I9gqQzRD21gcJToGSVsTG/LPJ8KrlDIxsGMYPlkLnvAL3L3HBoR2yy2R7/AeCoxa+NEjLg2UcPYJERp5mJMhEf13hxz98a5u44XTLSl7DStHqeiZDu+/mSxZ92c69WRWyDE8qdCEE4ww3v6AOxyc8s/XhESxstt8FswdkUBRs3812rVR3fCTYuwQ==;yLvkWzwQ//SMVwY7wDzQBQ=="
 ---
