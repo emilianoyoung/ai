@@ -40,18 +40,18 @@ related:
         width: 1198
         height: 599
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 54
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
     excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
     publishedDateTime: 2019-12-24T00:40:00Z
@@ -130,6 +130,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "ry+LYPoqzk1gDbQB2UCrBDN1IRTIXbQ8KwdxvhZVsfYWo7166FFZ6smr9pTRIV11YCPyYpu13FDY9m72cgbr1Hw8WmOQiaq60NttcO01e8bfnjaYPHhExQmA8WuzpIk06ajTLhYIPW2hOChx8eNKqN8e3vxzEM1CQ3M/y4oNCUcJOabsOCaQzDUv0b8duAmHqMbnAUaeaisbdi9VT41wKCMnCrq7G/G7q5s2j0HhTFovZt1+q7ay5d+wwNrZJU3Es/OLVs2Okxn4UTLfon/uOA==;gQczgs0tLlhurt9H6aaTZQ=="
+secured: "Vt/Jbdz0Qs0VW+kESxRV5woQiNIGG8XBdfSIOTMFbEnEqSxXK5rtvNVE2LVz4BD3An6pid4UyFlBrprYP5AwqeiwfB7QWN9QBwSRBiCepWeYpepMVlYd1LdQBqCgrnaoCbHa+H7Sny912JIm7WEk2/MsQXH5Ktc2mwX85VxOdWeg/BgACXTzvtcNS3sj80xWrzolzgq2BolcgT/QASQqoHzO1sI0UU4aeQCk1+0+6rHDdSRM1T/caWFqkvfZZIkXrEIq+H1F1OsSd8Ox3m0xPQ==;4y6012n1KUGhD2Fa8BfBag=="
 ---
 

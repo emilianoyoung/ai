@@ -24,34 +24,60 @@ images:
     title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
 
 related:
-  - title: "Solidia Technologies and Uncountable Accelerate Development of Next-Generation Concrete Manufacturing with Data Science and AI"
-    excerpt: "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200108005200/en/ CO2-cured Solidia Concrete lowers the carbon footprint of concrete up to 70% (Photo: Business Wire) Employing data science, machine learning and Artificial Intelligence (AI), Uncountable’s web platform and service ..."
-    publishedDateTime: 2020-01-08T15:26:00Z
-    sourceUrl: https://venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/
-    ampUrl: https://venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/amp/
+  - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
+    excerpt: "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip)."
+    publishedDateTime: 2020-01-03T15:08:00Z
+    sourceUrl: https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03
+    ampUrl: https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.80DAB65964372F9590EF6B4C51FE0770
-        width: 480
-        height: 332
-  - title: "Socionext Collaborates with Foxconn and Network Optix to Deliver Intelligent and Scalable Edge-AI Solutions for Retail and Manufacturing Markets"
-    excerpt: "SUNNYVALE, Calif., Jan. 7, 2020 /PRNewswire/ -- Socionext Inc., a world leading system-on-chip (SoC) solutions provider, has introduced new, intelligent, scalable edge-AI solutions developed in partnership with Foxconn Technology Group and Network Optix Inc. Socionext has partnered closely with Foxconn, a global leader in smart manufacturing ..."
-    publishedDateTime: 2020-01-07T06:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/socionext-collaborates-with-foxconn-and-network-optix-to-deliver-intelligent-and-scalable-edge-ai-solutions-for-retail-and-manufacturing-markets-300982215.html
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
+  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
+    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
+    publishedDateTime: 2020-01-06T02:34:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 2
+      name: Deep
+      domain: thefastmode.com
+    quality: 30
     images:
-      - url: https://www.bing.com/th?id=ON.7A41BC0431217DF5A40665AD64F7C27A
+      - url: https://www.bing.com/th?id=ON.73B20EFAAA42242C57DF92986FB9B9D7
         width: 700
-        height: 367
+        height: 379
+  - title: "GIGABYTE Technology Co.: GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
+    excerpt: "Studio area will feature GIGABYTE's state of art laptop for creators - AERO series. Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and ..."
+    publishedDateTime: 2020-01-02T17:08:00Z
+    sourceUrl: https://www.finanznachrichten.de/nachrichten-2020-01/48524162-gigabyte-technology-co-gigabyte-brings-ai-cloud-solutions-and-smart-applications-to-ces-2020-to-enable-future-today-200.htm
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.A611B201AD16A925C3B0A75ADD6A62D1
+        width: 700
+        height: 457
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
+    publishedDateTime: 2020-01-03T14:44:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 9
+    images:
+      - url: https://www.bing.com/th?id=ON.4C33366C80293E97B4C37F3186E9A535
+        width: 512
+        height: 512
 
 secured: "jcEqf03oHrPjaXRRJRLIQn9uI6yiWKUDbBPfVzNsTkZQEvzHCC5vtSzKuZbqyi8ttA/yx3qc8EFF9uIyZzCx2/rcZ1cAEfL4F4pUnQcOQdjuVTwEfoBCS0Y+LJsOTIYaLJJTCuOGbCc/dF3QrgE7qUWMLELKW02TdDSXdt1VbI0n6cGxD5CSwmTn9vKkBGnUNi4udCuAU+Yivzs3i147DNBP++2EKG7w2wyzW6kSNC/IRzW6Vate38JG0Ip+rNhlCzw5BAQE0cXb72a/ZJMc4Q==;P0JdPx31NciagqQR1Rm9NA=="
 ---
