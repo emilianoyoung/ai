@@ -51,10 +51,11 @@ themes:
 
   rapp:
     header:
-      title: AI Inside Out
-      description: Enjoy everything you could want about the latest of Artificial Intelligence in one place
-      banner_app: https://fiona-bi.github.io/ai/assets/images/banner-app.jpg
-      banner_image: https://fiona-bi.github.io/ai/assets/images/banner.jpg
+      title: <b>AI</b> Inside Out
+      description:
+        part1: A free, daily digest of what's new in Artificial Intelligence.
+        part2: A professional mobile app of all things AI.
+      screenshot: https://fiona-bi.github.io/ai/assets/images/banner-app.jpg
 
 
 #----------------------------------------------------------------------------------

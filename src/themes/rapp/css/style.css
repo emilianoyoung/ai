@@ -410,7 +410,8 @@ Start Banner style
 .hero-content h1 {
   color: var(--text-color-normal);
   line-height: 1.2em;
-  font-size: 68px;
+  font-size: 42px;
+  font-weight: 700;
 }
 
 .hero-content h1 b {
@@ -422,7 +423,7 @@ Start Banner style
   font-weight: 500;
   font-size: 20px;
   line-height: 1.7em;
-  max-width: 550px;
+  max-width: 600px;
 }
 
 .hero-content .btn-group .btn {
@@ -447,6 +448,13 @@ Start Banner style
 
 .hero-content .btn-group .btn i {
   padding-right: 10px;
+}
+
+.hero-content .plus {
+  text-align: right;
+  font-size: 90px;
+  margin: 0 60px;
+  padding-top: 50px;
 }
 
 /*mobile mockup*/
@@ -2054,6 +2062,10 @@ Start Responsive style
 
   .hero-content p {
     font-size: 16px;
+  }
+
+  .hero-content .plus {
+    text-align: center;
   }
 
   .title h3,
