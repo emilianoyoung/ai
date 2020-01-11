@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
+  - title: "The future of banking is basically robots running everything"
+    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
+    publishedDateTime: 2019-12-23T06:04:00Z
+    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
+        width: 700
+        height: 366
   - title: "Understanding the trends driving natural language processing adoption"
     excerpt: "The first involves computer vision and, as of yet, is not quite accessible to most organizations. The second revolves around natural language processing, which has quietly become embedded in everything from text analytics to speech recognition systems ..."
     publishedDateTime: 2019-12-23T03:30:00Z

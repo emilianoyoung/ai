@@ -8,7 +8,7 @@ ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertak
 cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
         width: 700
         height: 490
+  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
+    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
+    publishedDateTime: 2020-01-11T10:15:00Z
+    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
+        width: 480
+        height: 332
 
 secured: "0D3ryuFHvLmx56ZedCahsNmt1kPk+GYTvhyWXYlsfOgyF4CPhwbYTRKKF1EjUPbSR2vnOmgHUQxD3+B0iCyQlNLfOJ+4lz0ZKVbDgeyK84yO0urdZj4Llo+FHTJBJC1+rugs6z1fW6bbq/8hMMwfxJVv4Iui5CWnNwTG6NYe8fHp0JTqFbGqehyw4+aSZAxOcg9v41Q56mrlOprJD+xWxzh+BkmQtDq6JxvP4zZ+9x3GbuRJypBI6UO1cZ34FI3KKP5DPSAuIjVwW22YglPlZA==;3zkAG8jOoeT7PWpq35FQTg=="
 ---

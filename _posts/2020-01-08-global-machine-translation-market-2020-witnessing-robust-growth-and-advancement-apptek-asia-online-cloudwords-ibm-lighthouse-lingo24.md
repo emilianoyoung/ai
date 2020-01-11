@@ -67,15 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
-    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
-    publishedDateTime: 2020-01-07T11:09:00Z
-    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
 secured: "Kt/1Pc2abpRiQ4OPTc2LJQB1Z2N7o6FoZFKRds66yKzTAecP4ZGd2EPN8bhVgCMe3lGiyn96xGXPosTs22vA6lES5SNj0AUu9CxyMuLFtwr7epItr/4bP2Ago4BUphrpN6aHLcb68SpsAO4gR7eg8HiviuishO+u2LXshR4tPsBN3r+FC6MjH10q6qJDRTgy3VeFZwub1GoNBUWW5lLgNZP2Io4rEbxmU0fTWvSsA86RTkfYhefU2UXR+SJQKo3L8IcQICUyzgy25h7IryFFgw==;MyxfByY4UhXqLyabwDLL/w=="
 ---

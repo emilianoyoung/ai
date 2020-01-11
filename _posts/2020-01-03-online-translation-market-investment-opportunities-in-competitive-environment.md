@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
         width: 700
         height: 490
+  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
+    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
+    publishedDateTime: 2020-01-11T10:15:00Z
+    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
+        width: 480
+        height: 332
 
 secured: "A9d6mdj5nNWnyQ+iCUn1rUrbyTCYoBkAsABpDEfvQMEJS5pLNt+w8pNy2uDhxF440QDjSSTX71as+MM3yuguZwyYrImPaOGvH/w9oQ8jon0Pz1Zt5pBA4X7fWpm03yxj0HhrExbvPrScUcvYYTIoyv4TdVOfYJdIovTopg9rC+PuCjTLpcJc00t0k2TOWo+D+u5DtqK7t6ghcaQiOfiA3+DhcgdxxH3t/m+StmWR5xy5AMfaIp6Ml4k0M3u/fYd4fFdf9EUnEVb2V+fYzd4GcQ==;f4jqcifFZJ4gO4Zad/xHfg=="
 ---

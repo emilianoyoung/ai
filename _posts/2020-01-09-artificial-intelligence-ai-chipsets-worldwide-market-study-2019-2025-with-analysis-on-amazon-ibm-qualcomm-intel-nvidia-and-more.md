@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
-excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai) Technologies Co. Ltd. (a Huawei Company) 7.13. IBM Corp. 7.14. Intel Corp. 7.15. Mythic Inc. 7.16 ..."
+excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
 publishedDateTime: 2020-01-09T12:45:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets---worldwide-market-study-2019-2025-with-analysis-on-amazon-ibm-qualcomm-intel-nvidia-and-more-300984314.html
 type: article
-quality: 35
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
-  - AI Hardware
+  - AI in Robotics
 
 images:
-  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-    width: 1280
-    height: 720
+  - url: https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+    width: 800
+    height: 419
     title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
 
 related:
@@ -130,6 +130,19 @@ related:
     excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Neural Network Software Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Neural Network Software Market and factors such as driver,"
     publishedDateTime: 2020-01-08T13:21:00Z
     sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-is-thriving-worldwide-with-google-neurala-ibm-corporation-microsoft-corporation-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Latest release: Artificial Intelligence in Security Market is Booming Worldwide with Amazon, NVIDIA, IBM, Cylance"
+    excerpt: "Advance Market Analytics released the research report of Global Artificial Intelligence in Security Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence in Security Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-01-11T09:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-release-artificial-intelligence-in-security-market-is-booming-worldwide-with-amazon-nvidia-ibm-cylance-2020-01-11
     type: article
     provider:
       name: MarketWatch
@@ -294,6 +307,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "C0tAzqocbV/npzPIVQx3DSF5V7Ovph486Al9WkTjPnsq0l++Jul8C76dzfjRgFZy29V+b40uHlv6kvfnlH7Gn76grTBgjNUp0esRuGA/FP4xDa8xUHQTWBMED0kQ7xk3DhHoBMV/qd4NWycqMWb5G1Z/gmXTsZ+hVrtKujlXNxNIKMWiny/QFO6DnIkAsHGl8HXCIwjJ9JF85QWJ0kON6tpQHetXJHe8KL9x0pXiZHk3uoPogqXJBD/t6CxbpttriHhY2KSbfwzcIBoiSk0Qgw==;+JaH570NoIAK0/z/wihA2g=="
+secured: "3E9WlEAmfqGk/qeX4o8lzE6tdSaNbDYoaJ6mmhBtU3ZflQa4tBc3cGhcbfja5RRMuA3U/Mds7QZHG6NvSFshoh11Gz35Fgyipy+M1+InO7ZosLwww52P0K/360V/OvrARuPvytrw2gj8kL2OYYGnpoNaoRf/u68k9VxftmLV4AQUb7GAdcaTuQhluxfBCm//NKHqlJoAIr/qF3mO9GSxekfa+rdX1jSv4tjeLbxTOVF9EZg+OXd7Vf9CudJPZAgSjbEQ0migvaWbL6Rlnra38Q==;WTXAMIclIy9rqFJy5lZhRg=="
 ---
 

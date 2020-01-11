@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
-excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
-publishedDateTime: 2020-01-07T11:43:00Z
-sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipset-market-is-on-rise-due-to-rapid-developments-in-big-data-analytics-2020-01-07
+title: "Latest release: Artificial Intelligence in Security Market is Booming Worldwide with Amazon, NVIDIA, IBM, Cylance"
+excerpt: "Advance Market Analytics released the research report of Global Artificial Intelligence in Security Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence in Security Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+publishedDateTime: 2020-01-11T09:48:00Z
+sourceUrl: https://www.marketwatch.com/press-release/latest-release-artificial-intelligence-in-security-market-is-booming-worldwide-with-amazon-nvidia-ibm-cylance-2020-01-11
 type: article
-quality: 82
+quality: 48
 heat: -1
 published: false
 
@@ -19,14 +19,13 @@ provider:
 
 topics:
   - AI
-  - AI in Robotics
-  - AI Hardware
+  - AI in Healthcare
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
+    title: "Latest release: Artificial Intelligence in Security Market is Booming Worldwide with Amazon, NVIDIA, IBM, Cylance"
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
@@ -51,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 89
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
+    excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
+    publishedDateTime: 2020-01-07T11:43:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipset-market-is-on-rise-due-to-rapid-developments-in-big-data-analytics-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -122,19 +134,6 @@ related:
     excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Neural Network Software Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Neural Network Software Market and factors such as driver,"
     publishedDateTime: 2020-01-08T13:21:00Z
     sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-is-thriving-worldwide-with-google-neurala-ibm-corporation-microsoft-corporation-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Latest release: Artificial Intelligence in Security Market is Booming Worldwide with Amazon, NVIDIA, IBM, Cylance"
-    excerpt: "Advance Market Analytics released the research report of Global Artificial Intelligence in Security Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence in Security Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
-    publishedDateTime: 2020-01-11T09:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latest-release-artificial-intelligence-in-security-market-is-booming-worldwide-with-amazon-nvidia-ibm-cylance-2020-01-11
     type: article
     provider:
       name: MarketWatch
@@ -312,6 +311,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "R0wXibVXt66c3BMjGZLGAyvyA8YOABfB7Ttge9NHGwlr7C30GkHS12E6W+/3X1JI7azabRyRRcEkoFhtUVSc4UkVDySkpYbFrGNyy9eXkr2xGKrJQasnQSn7t8qfBMZ7URVM7qjZ4PHq3Nk5e4BIsO7QM7OqomLLmwj7IpByEz44M6nm2yrgQxq0rwcINNTclh3MZc2bBVRZRyU+MBS0Jjj1Qd6pv2FxyAWUZwzVzGzI7TCbmMzwBlI5J1tfHpsHvCo4+bdKrRJRBZXq1gimWA==;VeukE24W3buDXRw7UgAQcw=="
+secured: "bJWojAS3MYQSYoRQYyFnbU2OhE9NYLu+yI3mW15UdkzjyD7daf5HmCZoLrMhwFwXHaF35I9Vu0rQ67VduKL6YgtFpQCZNJxa8D0PuwEKE9EdNnhZMmXrFjVCOcImHMrmd3S972xMSzoMjpWsAnK7QvwXWD94PeY7DrqaE4NIhPm4b5Lo2Vaw0dVs6FBNEuZ2ATj91AJaS0trwGTlaYG3gQeVx362/p2hd4tKKIbojPMwNKpSE4zCJerFlh7TRJNwL7Xl8ivnk4du+YzEHr0ktg==;ED8O2LGRro5o597c52+r4w=="
 ---
 

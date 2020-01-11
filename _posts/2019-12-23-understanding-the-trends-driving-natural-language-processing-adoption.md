@@ -52,6 +52,19 @@ related:
       - url: https://www.arabnews.com/sites/default/files/default_images/place-holder1_0.jpg
         width: 480
         height: 315
+  - title: "The future of banking is basically robots running everything"
+    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
+    publishedDateTime: 2019-12-23T06:04:00Z
+    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
+        width: 700
+        height: 366
   - title: "Top AI-Powered Projects In Indian Agriculture Sector: 2019"
     excerpt: "IBM has started a pilot study to use AI-based technology and satellite technology to monitor the agriculture sector of the country. The pilot study will be conducted in states like Madhya Pradesh, Gujarat and Maharashtra. Post the pilot study, IBM’s Watson decision platform will provide a farm-level solution for improving the agriculture sector."
     publishedDateTime: 2019-12-27T05:35:00Z
