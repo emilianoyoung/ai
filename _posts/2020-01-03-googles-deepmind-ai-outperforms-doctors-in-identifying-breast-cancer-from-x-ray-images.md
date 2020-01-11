@@ -611,6 +611,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
         width: 685
         height: 385
+  - title: "health care Google's DeepMind A.I. beats doctors in breast cancer screening trial"
+    excerpt: "Brussels chaos as 'King of Europe' Macron to face furious clampdown from von ... - Thursday 02nd January 2020 01:38 PM Dramatic moment police rescue woman as she is held at knifepoint by man who ... - Thursday 02nd January 2020 01:36 PM Jewish boy attacked ..."
+    publishedDateTime: 2020-01-02T12:01:00Z
+    sourceUrl: https://en.mogaznews.com/Health/1402861/health-care-Googles-DeepMind-AI-beats-doctors-in-breast-cancer-screening-trial.html
+    type: article
+    provider:
+      name: en.mogaznews.com
+      domain: mogaznews.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.142A939B058611B27735885E660D184B
+        width: 700
+        height: 450
   - title: "Artificial intelligence 'better' than doctors at accurately diagnosing breast cancer"
     excerpt: "Artificial intelligence has become more accurate than doctors in diagnosing breast ... According to the researchers, the work demonstrates how the AI could potentially be applied in clinical settings around the world, alleviating the pressure on healthcare systems by supporting the workload. Dominic King, UK Lead at Google Health, said ..."
     publishedDateTime: 2020-01-02T12:04:00Z

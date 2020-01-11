@@ -262,21 +262,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Employee Recognition – Does It Still Work?"
-    excerpt: "And employers who fail to deliver it often have to face the heat of high employee turnover rates. This is why employee recognition still remains one of the most prominent ways to keep your workforce engaged and motivated. Having employee rewards and recognition program is the most cost-effective way to acknowledge great deeds at the workplace."
-    publishedDateTime: 2019-12-22T19:41:00Z
-    sourceUrl: https://www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830
-    ampUrl: https://www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
-        width: 700
-        height: 392
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
     publishedDateTime: 2019-12-23T20:15:00Z

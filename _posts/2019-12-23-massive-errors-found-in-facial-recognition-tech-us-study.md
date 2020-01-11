@@ -275,21 +275,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Employee Recognition – Does It Still Work?"
-    excerpt: "And employers who fail to deliver it often have to face the heat of high employee turnover rates. This is why employee recognition still remains one of the most prominent ways to keep your workforce engaged and motivated. Having employee rewards and recognition program is the most cost-effective way to acknowledge great deeds at the workplace."
-    publishedDateTime: 2019-12-22T19:41:00Z
-    sourceUrl: https://www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830
-    ampUrl: https://www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
-        width: 700
-        height: 392
   - title: "Third Massachusetts Community Bans Facial Recognition Tech"
     excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
     publishedDateTime: 2019-12-23T16:21:00Z

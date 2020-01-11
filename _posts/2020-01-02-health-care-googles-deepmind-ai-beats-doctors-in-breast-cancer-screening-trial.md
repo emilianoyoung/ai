@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
-excerpt: "Anonymous scans of 29,000 women were used in the trial. The biggest improvements over human scanning was found in the U.S. portion of the study. Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer than ..."
-publishedDateTime: 2020-01-02T13:21:00Z
-sourceUrl: https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
-ampUrl: https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+title: "health care Google's DeepMind A.I. beats doctors in breast cancer screening trial"
+excerpt: "Brussels chaos as 'King of Europe' Macron to face furious clampdown from von ... - Thursday 02nd January 2020 01:38 PM Dramatic moment police rescue woman as she is held at knifepoint by man who ... - Thursday 02nd January 2020 01:36 PM Jewish boy attacked ..."
+publishedDateTime: 2020-01-02T12:01:00Z
+sourceUrl: https://en.mogaznews.com/Health/1402861/health-care-Googles-DeepMind-AI-beats-doctors-in-breast-cancer-screening-trial.html
 type: article
-quality: 89
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
-      width: 50
-      height: 50
+  name: en.mogaznews.com
+  domain: mogaznews.com
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.9D8D2E32BC91B975DE72CC25B9A33915
+  - url: https://www.bing.com/th?id=ON.142A939B058611B27735885E660D184B
     width: 700
-    height: 466
-    title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
+    height: 450
+    title: "health care Google's DeepMind A.I. beats doctors in breast cancer screening trial"
 
 related:
   - title: "AI 'outperforms' doctors diagnosing breast cancer"
@@ -105,6 +99,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E95AB84299559C7D3B6B105ECE79BD99
         width: 700
         height: 393
+  - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
+    excerpt: "Anonymous scans of 29,000 women were used in the trial. The biggest improvements over human scanning was found in the U.S. portion of the study. Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer than ..."
+    publishedDateTime: 2020-01-02T13:21:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.9D8D2E32BC91B975DE72CC25B9A33915
+        width: 700
+        height: 466
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
     excerpt: "In the paper, researchers detail the successful results of an AI model able to identify breast cancer in mammograms missed by radiologists when tested against scans of over 25,000 women from the UK and over 3,000 women from the US. The AI, which was trained on anonymized mammograms, was also able to reduce the number of false diagnoses of ..."
     publishedDateTime: 2020-01-01T18:11:00Z
@@ -611,19 +620,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
         width: 685
         height: 385
-  - title: "health care Google's DeepMind A.I. beats doctors in breast cancer screening trial"
-    excerpt: "Brussels chaos as 'King of Europe' Macron to face furious clampdown from von ... - Thursday 02nd January 2020 01:38 PM Dramatic moment police rescue woman as she is held at knifepoint by man who ... - Thursday 02nd January 2020 01:36 PM Jewish boy attacked ..."
-    publishedDateTime: 2020-01-02T12:01:00Z
-    sourceUrl: https://en.mogaznews.com/Health/1402861/health-care-Googles-DeepMind-AI-beats-doctors-in-breast-cancer-screening-trial.html
-    type: article
-    provider:
-      name: en.mogaznews.com
-      domain: mogaznews.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.142A939B058611B27735885E660D184B
-        width: 700
-        height: 450
   - title: "Artificial intelligence 'better' than doctors at accurately diagnosing breast cancer"
     excerpt: "Artificial intelligence has become more accurate than doctors in diagnosing breast ... According to the researchers, the work demonstrates how the AI could potentially be applied in clinical settings around the world, alleviating the pressure on healthcare systems by supporting the workload. Dominic King, UK Lead at Google Health, said ..."
     publishedDateTime: 2020-01-02T12:04:00Z
@@ -664,6 +660,6 @@ related:
         width: 500
         height: 500
 
-secured: "JEW6ev0cjzKZe47L8bxhttk6hcy9zkN7TWs/O3y0BpA0VPSpofTLTxcs51PfS0A2vvDUMLIdfVdPnF5QvoAGoJkdvCh3Q7NhnEzh28r/rKrJ9i4sepwus+Hl99G3d1WoDxXtRSEJXAsE4SBPXqAPpG8NZRh7K7Cyt7UK25dbs0HX6dlcn6NIjZg1Gpx49mcuoyYODg1VQKiYpCny1vfh32/w+G6WLEPDBJa6rXZWrLO6degZ1JrItioVgZggdg7RwW0g7ZgKZ9R9O7aWFlyW8w==;/5SaR8hj/OfrklBHlc0pXQ=="
+secured: "Jl1xaJk9klI/ljfldWCb81Y/bT6rkeGnL4e6d0YyXEKfPOMO2sGlquK90xCJma/o/1+A6AZA4KoiY5UbDhHqiXhcN+jQ7zn4hemwl2Z4UBGPCkIJYTC8vwN9dxtDNCcUaEZ/YCdbrq7SnaaQ/28FrCevgvfbpZQmla37c1BWbA3zbaNc6VKHtD4McPF6Q6QF63cl/ndjKOj9Sse8Q/bqGe0WJmwpJJCjc3VkVkl+jYhfYlEsAQxxxey7T5BuG1mc9QWVCCh8/SQrsyXOS8OFaQ==;KqTgX7eKHG5rGmd9rBF/pA=="
 ---
 

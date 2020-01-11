@@ -24,6 +24,6 @@ images:
     height: 600
     title: "The 100 Best Sci-Fi Movies of All Time"
 
-secured: "Bn4pJ2e98jMYBjiv7zXrTUFb0+gQlCwiWd3j0H92BkQnOkdxpNiIwRmt2J88CSFhP/AzV9TtLxZ+NSYfnNrOnlbmrBiWGYEnPDglImgEHYW16RJIzjyKe1yzmQvnalsQu1L+bG2+fW0bKTrNQksDScg1nzVID8IKvhGdKjyt5nJnYUs+xJvT+3OX7efd1RJJ5GILYf4ft7Y+Sz/0cmrl70Nzn5XSxJePjWBvleNrgm8fMsk99sLdaelLkq9uW08dkB2tfXkIe4KL6/oHuKi8+w==;eIXKkppZXlg81Tzk0K5Dkw=="
+secured: "N75uplTcKJqnu/xwsCsoe6rTUiABB8pIS67W1lJrom93lF22MSUbitqjFG6AWURVyAFvdD5FV/Mt/TJ0UU9laGEIFGSH5Xba13UUwpIQsVIw5w83jjK1wuA8raPXfS0wpNV8Gnm9CuBuuYv8YgM1M6JYKZHHQfxi3pnXF9e1sRq8jLSELmOhgoLRfqXuoa75CaVFB6E23fmkZv7ZzyqTuOH+4Wt6Lww1PGq5Gciha8GvR9koY0WMaBMN2pkhu+1pwrjJal4/AAjtdZp0K6b+vg==;hspdqhY8q3AIgpZS3r+86Q=="
 ---
 

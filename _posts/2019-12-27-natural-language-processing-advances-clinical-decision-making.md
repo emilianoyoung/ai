@@ -35,19 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "LAS VEGAS and BANGALORE, India, Jan. 6, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will unveil a solution accelerator which will help to design, train, deploy and manage Deep Learning (DL) models for the development of computer vision applications at CES (Consumer Electronics Show ..."
-    publishedDateTime: 2020-01-06T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/quest-global-to-launch-solution-accelerator-for-development-of-ai-applications-using-deep-learning-at-ces-2020-300980784.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
 
 secured: "FMiywuxB9bUQvJJ5Yn7RWvbhMjziUdsZLt+Tt9v54/bt5lRtb1YH6kEl3TwOi9FnVg0A8aFH6txo8c9lSW2oRHv3ssk9DHUvnlCPoIb8JF+nSX/uCfN4/JD+pLvdx0OjmGKgNGvCkMZJwLSReDVdDhTQZJ0Q+VSR+moCkD7/ENdih9Qjnm4GhPhqRVQr1NQQTieZPxghiZ/xGqm7lsy76CyY4iD1/0XkUT2r2ZZ4R90CW34szZkzpvLSo5qALAokxxj7Z4/lHgB3fhpA2/Iw7g==;RuzvdhG0S7aQFB+lSWRohw=="
 ---

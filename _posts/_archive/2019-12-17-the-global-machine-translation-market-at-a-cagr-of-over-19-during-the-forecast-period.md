@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T19:26:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     height: 315
     title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
-secured: "lA2pf7JxgiTngHAoaJL0hWWRP+T6/QEyOZfF/7au8Fu6bk3aOGZqFBJaDD2vgLplLtHDEqt9b2dEcUNNemSTxb+Krki4JkYTUfLjdWWFcOKxQei1lqFBl2WYA/7HgMOF0UM0KfzSY8km8vSDylPqLzNWInk0dAPBkPwdKSM5QFViqWmD1gmCizzGwrMWzhpM0dmFJEfgxxizEWOIu+FuVs069F58OLPykR2/nzPswaLfWjSpiasRep/BkOr0qKa9JnKQ3nEtr70Q3ilkI0shlQ==;y0Srv7TerXslNetQ9J/6MA=="
+related:
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
+    publishedDateTime: 2019-12-12T20:53:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
+        width: 1199
+        height: 600
+
+secured: "GCE3fpF7NScmUaynS/eN3Y+P84EuG8/YcV/jeSce5dwxRcFHS4aQ5qKoM8VjCHBITMaf14oeglwtKibqwNZ0sGO4XaXAzpHnrhrA9NWFv8AHPNfyPBxzOZgf9CQ9kVgQe5cLqwY3lfrgWAsXJuoGP7iPMOrRTzTnoP5433n9A8tQnb46mcCq1ZyzqXZAmk/LdggLRHPAxzhUYuaIxzV2ZYxcIb7vffmF8Aj4funyEDv1lRBSOXqBxG4INNEJTw6GlHdYajaVJqR0eehl5qDsrw==;D6ppjBAuxQDjMXsXXVS+SQ=="
 ---
 

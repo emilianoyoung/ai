@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/roybi-showcases-revolutiona
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/roybi-showcases-revolutionary-language-learning-robot-for-children-at-ces-2020-1028787838
 type: article
 quality: 50
-heat: 70
+heat: 60
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6700B8CDD4EC3BA1CD6C66D7BB29D308
         width: 686
         height: 396
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "LAS VEGAS and BANGALORE, India, Jan. 6, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will unveil a solution accelerator which will help to design, train, deploy and manage Deep Learning (DL) models for the development of computer vision applications at CES (Consumer Electronics Show ..."
-    publishedDateTime: 2020-01-06T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/quest-global-to-launch-solution-accelerator-for-development-of-ai-applications-using-deep-learning-at-ces-2020-300980784.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
 
 secured: "k14o2E36mYHldV8ocffZXPPAKQ8KELZkgsx9vALZ1ySuKkPIH9SrQC9eg2goEPtJu+9/mAUD+dd1vH/C05hZ+7UYPAZq/cjoLJq5fooGxEYGuRN22wgjpOMxAqlLr8X7mbGKb8uYqq01oQinkumi46En7P6Y+EpMG4qS++YTb5l0DJyWx93J9SRUHxhxittngc4OqNV79zotAtHq4d013l1opGyX6cyZH1jw/At/n40jP7207lIXo6HQOQ6WrwNtqvqC8wR6gBHBw8Omi40p0g==;+Oh7M7+lhWQW6XHASNIu7Q=="
 ---
