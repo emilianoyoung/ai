@@ -186,10 +186,10 @@ video {
 }
 
 header {
-  margin-top: 120px;
+  margin-top: 100px;
 }
 footer {
-  margin-top: 120px;
+  margin-top: 100px;
 }
 
 article,
@@ -401,7 +401,6 @@ Start Banner style
 
 .hero-section {
   width: 100%;
-  padding-top: 30px;
   overflow: hidden;
   position: relative;
   z-index: 9;
@@ -453,7 +452,7 @@ Start Banner style
 .hero-content .plus {
   text-align: right;
   font-size: 90px;
-  margin: 0 60px;
+  margin: 0 80px;
   padding-top: 50px;
 }
 
