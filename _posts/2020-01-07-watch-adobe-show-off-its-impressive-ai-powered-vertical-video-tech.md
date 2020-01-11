@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Watch Adobe show off its impressive AI-powered vertical video tech"
-excerpt: "The Adobe evangelist showed how easy it is to erase backgrounds and select subjects with the combined powers of Adobe's Sensei AI engine and Intel's chips. He also showed off Adobe's AI-powered instant vertical video tech, which can be used to create vertical clips from horizontal ones. The technology doesn't just crop videos, though ..."
-publishedDateTime: 2020-01-07T09:16:00Z
-sourceUrl: https://www.engadget.com/2020/01/07/watch-adobe-intel-press-ces/
-ampUrl: https://www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
+title: "Watch Adobe show off its impressive AI-powered vertical-video tech"
+excerpt: "Intel has Jason Levine, Principal Worldwide Evangelist for Adobe Creative Cloud, and his fabulous head of hair to thank for the most entertaining part of its CES press event. The chipmaker&#39;s Executive VP,"
+publishedDateTime: 2020-01-07T10:16:00Z
+sourceUrl: https://news.yahoo.com/2020-01-07-watch-adobe-intel-press-ces.html
 type: article
-quality: 89
-heat: 109
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.1BD6A0FE9119BCC2512B0EDD502357CD
+  - url: https://www.bing.com/th?id=ON.411A92D3635747EEB70B0DC048B6C009
     width: 700
-    height: 367
-    title: "Watch Adobe show off its impressive AI-powered vertical video tech"
+    height: 411
+    title: "Watch Adobe show off its impressive AI-powered vertical-video tech"
 
 related:
   - title: "Watch Adobe show off its impressive AI-powered vertical video tech"
@@ -57,6 +51,6 @@ related:
         width: 700
         height: 367
 
-secured: "0hL5S0nFsvD0dgKnIY982I03Ht8ASjORG5SC8T8f7lOocmWLp+XPsupZNXUfGksjmS/98Fnppjq1m0cCtePhDsgN9DCzdXRXfkhHw9qjNJWTw0r3Sr0UlhIuqJQTo3V4UY9pdIPpAp0hpuVDNQ9ySOnFKv4d+QJM/P1uVxbMSKZdOfcr8xSubpImD1D7kfeW6CW48x6GYqGPXJcNI7xUAH8N/vqeuXxQTUjkBvHwYgn4/Fy/Eby0Ne+TPBThN1Axi/VEuiL+unopOa12iOTs7w==;EVXScGt34IR+5yxEQfnjiw=="
+secured: "AQ126B2WCH/aEoKYi/ba2jeTWjzaktr5xgxXi5CCfJqKxClGZqwQvZerEPvaEwg9dHC1emqEDGZzwxo0bDTWs1+zJA+O/33u/fMHlv1fVsF1xKLO76wlWfS6jBQkSQUtST2bbfY/B6ssNiADYnoKN/ualOG4JwQWFRWDnLfsWBWhYutGegdsxCSQPLXWqRwFTdAPySVmrbpNlqbjpxtk2T3kFluBOyYIhO7bwLvtQQ4GQMERGe2dvD+7lnLtYQGqeHl/ek8qcVuw+DQ+8B+WCA==;tW4j7AeFJGNAhPkyGbUYjw=="
 ---
 

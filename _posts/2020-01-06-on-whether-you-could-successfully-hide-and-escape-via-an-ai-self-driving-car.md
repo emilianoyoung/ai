@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-successfully-hide-and-escape-via-an-ai-self-driving-car/amp/
 type: article
 quality: 86
-heat: 336
+heat: 346
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
         width: 700
         height: 525
+  - title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
+    excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
+    publishedDateTime: 2020-01-11T16:07:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.D3397EDC6C23E1B6D7F840CC89631F6D
+        width: 600
+        height: 315
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
     publishedDateTime: 2020-01-07T17:42:00Z

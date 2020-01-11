@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
         width: 700
         height: 525
+  - title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
+    excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
+    publishedDateTime: 2020-01-11T16:07:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.D3397EDC6C23E1B6D7F840CC89631F6D
+        width: 600
+        height: 315
   - title: "Honda’s Self-Driving Concept Car Being Unveiled At CES Renews Feud Over Levels Of AI Autonomy"
     excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
     publishedDateTime: 2020-01-02T12:07:00Z

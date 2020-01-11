@@ -1,27 +1,34 @@
 ---
 category: news
-title: "Bosch to offer lower-cost lidar for self-driving cars"
-excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
-publishedDateTime: 2020-01-08T07:06:00Z
-sourceUrl: https://finance.yahoo.com/news/bosch-offer-lower-cost-lidar-160000894.html
+title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
+excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
+publishedDateTime: 2020-01-11T16:07:00Z
+sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/
+ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
 type: article
-quality: 24
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
+  - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
-    width: 700
-    height: 393
-    title: "Bosch to offer lower-cost lidar for self-driving cars"
+  - url: https://www.bing.com/th?id=ON.D3397EDC6C23E1B6D7F840CC89631F6D
+    width: 600
+    height: 315
+    title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
 
 related:
   - title: "On Whether You Could Successfully Hide And Escape Via An AI Self-Driving Car"
@@ -54,21 +61,6 @@ related:
       - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
         width: 700
         height: 525
-  - title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
-    excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
-    publishedDateTime: 2020-01-11T16:07:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.D3397EDC6C23E1B6D7F840CC89631F6D
-        width: 600
-        height: 315
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
     publishedDateTime: 2020-01-07T17:42:00Z
@@ -301,6 +293,19 @@ related:
       - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
         width: 1120
         height: 629
+  - title: "Bosch to offer lower-cost lidar for self-driving cars"
+    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+    publishedDateTime: 2020-01-08T07:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/bosch-offer-lower-cost-lidar-160000894.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
+        width: 700
+        height: 393
   - title: "CES 2020: What it's like to ride in a self-driving Lyft"
     excerpt: "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app, I was presented with the option to travel in one of its autonomous cars,"
     publishedDateTime: 2020-01-09T11:00:50Z
@@ -393,6 +398,6 @@ related:
         width: 510
         height: 314
 
-secured: "tNmZmYww/zsBWSemkDR6EokaitXXifJMDUqcVmmnAO5ohdHcy32dtfslowwy1WpqBxVqhe9gLRrAwvkJUmYGRWBYQFzUki9MiSdJpYD/ZfoNeue9gUnX2lfQkXNIxd7XebMpzo3WbtuQLSGnsjKcBGDzFWFlabW9j8Mu/4JBzJKjotUSjTHhQsIHHgdWI1TRBRPFX4REEj0HnZpN9o0MNxW352AiHLelWPHtQxLwZkpTRcEygrk1eypXNZUyuHz3t5zkOFuvpBh9Bl/2MLU+5g==;rVSnqNSe2jbGvH04Wt2j/A=="
+secured: "ZL88xecDfsT9rg6WosNO34erCdeHppEpx7rf9+Iv+SzR6YrCD/agPaQSsfV59jZiPG2HYnwiXPKC8EcJyC3AqBGHnDH1GSqtYaW/oFZnvwsx5OHaH3OhhxyCptS7qjkHpXzqigdAua5xHn9kyt6H4QH79JZo0W4u58/UKJRHmPlmFMT8lRdv6tgemeo9DV0fgnPacZZrt9K9eXJzmjbse1b5bqaxtfM6odTKYEgdT6Aao8t5o8JB84xK0fvgTSJ1OHF1P+T9O3Y0A9mDbFm3Wg==;GIQP6XDd08aPMFnYkDmrsg=="
 ---
 

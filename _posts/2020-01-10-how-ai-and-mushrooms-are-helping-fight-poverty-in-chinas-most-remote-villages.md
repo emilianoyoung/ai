@@ -3,7 +3,7 @@ category: news
 title: "How AI (and Mushrooms) Are Helping Fight Poverty in China's Most Remote Villages"
 excerpt: "A mushroom forager in rural China has become an internet celebrity — and a successful businesswoman — thanks to an AI-powered app"
 publishedDateTime: 2020-01-10T18:33:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/how-ai-and-mushrooms-are-helping-fight-poverty-in-chinas-most-remote-villages/ar-BBYPrA4
+sourceUrl: https://www.msn.com/en-us/news/technology/how-ai-and-mushrooms-are-helping-fight-poverty-in-chinas-most-remote-villages/ar-BBYPrA4?li=AA4Zoy
 type: article
 quality: 32
 heat: 32
@@ -22,6 +22,6 @@ images:
     height: 367
     title: "How AI (and Mushrooms) Are Helping Fight Poverty in China's Most Remote Villages"
 
-secured: "+e9BbGhSP766G1m7YZP1rGpaAvR08v9qWHeWyDPO0EAItF41d1tAB9ElZ+nyL9HpE/zuobc6DrhsQl5bRvl4usiCllrZchiE/iPN9WBuBwqQZx4q+YVz7xFdvHEuMq4daxIz0wW+GevlxrmuP8FTkphMIt2E+ignl/1L8JH7kWnTdVD/b8/VywEM4ImAhzedWUgX1k7gL2wUd4XBYKKwSRw2Mzllg8C+p9mkbFknYQZ7aiAlvZBorU8PtL6j8Dc45obeg7KEvjkxEAzfqwSQPA==;mAcCgRIRiLKz5HwM0N+LKQ=="
+secured: "UUOGkcNTzoiKD/QDNnEovvd65jxRJzm8Kc2yfgn/1Ro3aaQQ4CSx+U8Uvbn5vKgnM6QsuSQfoPH6Ybirxwxh/5nbDJqTYrSE+Eh9s4ppdaRPzZBtGSTqiuh7ib2SplOuSMPE7E3D+/e9ikMAANPqcLYPFqiyGFaoQXxmIUtdKlrlvL5U3II13iISHOu3EDwoqRSLTqrkvlY8o5+dKBGyH44JRYlz8jbo3COalScaXNl9HrQRvmerjAwzhf86yBteGYe/QCshmKlVsspVNl8z+g==;xEJcVVA+pPZ6BUaiaDiMWw=="
 ---
 
