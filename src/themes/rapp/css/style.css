@@ -406,6 +406,10 @@ Start Banner style
   z-index: 9;
 }
 
+.hero-section .app-description {
+  text-align: center;
+}
+
 .hero-content h1 {
   color: var(--text-color-normal);
   line-height: 1.2em;
@@ -2973,6 +2977,11 @@ p.post-publisher {
   float: left;
 }
 
+@media screen and (max-width : 575px) {
+  .hero-section .app-description {
+    text-align: left;
+  }
+}
 
 @media screen and (max-width: 1050px) {
   .post-wrapper {
