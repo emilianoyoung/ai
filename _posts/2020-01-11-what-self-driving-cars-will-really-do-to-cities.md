@@ -3,7 +3,7 @@ category: news
 title: "What self-driving cars will really do to cities"
 excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost certainly never come to pass. Self-driving cars, left to their own devices, will likely do ..."
 publishedDateTime: 2020-01-11T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities
+sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=feedburner
 type: article
 quality: 24
 heat: -1
@@ -417,6 +417,6 @@ related:
         width: 500
         height: 500
 
-secured: "4cA5mdZ+iFHbdXYtAF6weuCV5o4lYNEoBFtgFKucsFxhs76/tQVnfnocQpEOiY0RWGc7v9qmP7wFnhM8bhTu9EcWXF9Mfk701PifYOZikMTZrwkR50votPN0q+gn7zj/coDCaGWwSxXQYJZ4bbT0yZjuMWPhGOUTE6K7QWExzbc5kg0vbvlm0bD/a0qZD44qnMSFCn7x+Dl2Ke1zS18xI//DFwXXIjTxMXK/6z1PL0unQyRd/Q556aXoDFn/IPDpQmHwjJs6iPIzkk9IXZ3+gw==;UFP1PxoZNBMbsm9YSc/ThQ=="
+secured: "lOq63IXWk3DmmwNlzrN0p+0c/+/FA1YX4AKHf/XOOMV4EEiI4mS6Zn8WYBqXqfkjLsDx6F5sfJtWwh0ishncUJsWkx0h3j1FNNFulMVmRSSo7ihXz0OfN3+1KJwHfqrvoONXIlzcqFzyLR+N3sg2NZfFQvf1q6R+6g8cLTBPb7ahcxOgAK0n83CoGc18E+YkcaU5TqhUGgLdM4IW0zQhqr2+EjTP7keQGwEKZ9E9gvm9Fha6FLCGK02Pp7+9W/BL8mp6L86ukowpvXVpiGywFQ==;A24iTDbaBp0pES3xrq+KkA=="
 ---
 

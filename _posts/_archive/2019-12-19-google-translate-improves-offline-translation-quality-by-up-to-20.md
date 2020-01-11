@@ -1,19 +1,21 @@
 ---
 category: news
-title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
-excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
-publishedDateTime: 2019-12-23T11:50:00Z
-sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-from-2020-to-2029-manufacturers-growth-analysis-regions-types-end-users-and-applications-2019-12-23
+title: "Google Translate improves offline translation quality by up to 20%"
+excerpt: "Good news: Google has you covered. This afternoon, the Mountain View tech giant announced that Translate, its free multilingual machine translation service, is now more robust. Offline, translation accuracy has improved by an order of magnitud in some cases."
+publishedDateTime: 2019-12-19T17:42:00Z
+sourceUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/
+ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 74
+heat: 114
+published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
       width: 50
       height: 50
 
@@ -22,27 +24,12 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+  - url: https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&amp;strip=all
     width: 1200
-    height: 630
-    title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
+    height: 600
+    title: "Google Translate improves offline translation quality by up to 20%"
 
 related:
-  - title: "Google Translate improves offline translation quality by up to 20%"
-    excerpt: "Good news: Google has you covered. This afternoon, the Mountain View tech giant announced that Translate, its free multilingual machine translation service, is now more robust. Offline, translation accuracy has improved by an order of magnitud in some cases."
-    publishedDateTime: 2019-12-19T17:42:00Z
-    sourceUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/
-    ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
   - title: "Jarvisen Translator Review: A translator for serious travel"
     excerpt: "However, it’s not so much the hardware, but rather the software that will really determine how far it goes. Language translation, especially when there’s some element of machine learning involved, needs constant refinement. So far, it looks like Jarvisen is serious about improving on what it has here, and that’s good news. The company ..."
     publishedDateTime: 2019-12-24T15:45:00Z
@@ -84,7 +71,20 @@ related:
       name: research
       domain: research-live.com
     quality: 24
+  - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
+    excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
+    publishedDateTime: 2019-12-23T11:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-from-2020-to-2029-manufacturers-growth-analysis-regions-types-end-users-and-applications-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
-secured: "cT9uaMBNFrucebstBz/zNi+d1b8aa67PzclRZY7ksT6qFApEqq98io1eAqVV91RtgNAG8hqCEoM6YsoKbW76Ymljy19CYshsgZTy+CZRd3rPFqMgPKMP84wQkeG6tQgzmNsX78i2Q+/G/QOfHbOuGK5WAeRsC0YFkYC3FMfYAw2jD4tLJ5EoLXqwxuUNZJ1C7V15LzNAMX8Xr6UdRjF/5xsXu0RQ+VtBWVyRhEitBicPBvL4z22bNkAwy2MLf8Sj0yYdKkugItMagSRJeTU7Gw==;/TdP7xk6rib6SUrf6WyZ8Q=="
+secured: "LNt1qmvX/UvgO/UqCHMm5oFc7B+ABSYDgiG2aX3LGtYhsy2hfB7s5avPIOSuHDAa7jUTRcSbLbDUoOARWuf9BzwQR4t+9swFg+TQSiHbPOb2TdM860e9kiQ556CMNAVwPGc9M3c+w9egUCRMGtCP18nDgRJ+lL1Vtc70oyJOP1RPxTHXHWVA5HyoPXfkmIvSmdz9sfQ4izZ+gPgJMmGhrbPNHRN8+scg99COqS3/qsispcvmqgnLzBqPMqrhMqFN27YDu/MLtPfgkUoC+IeTWQ==;vd5Zw7eo6/zBv9+J5EL9UA=="
 ---
 

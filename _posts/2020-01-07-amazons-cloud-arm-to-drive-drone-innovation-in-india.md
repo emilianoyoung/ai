@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.98DCC856A5B2BA285F2B3CF5FF860901
         width: 600
         height: 337
+  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
+    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
+    publishedDateTime: 2020-01-08T05:29:00Z
+    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.820DBC9D9B739CF5F2CF93320F921140
+        width: 599
+        height: 450
   - title: "Huawei Thanks Indian Govt For 5G Trials Permission, Says Committed To India"
     excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
     publishedDateTime: 2019-12-31T13:39:00Z

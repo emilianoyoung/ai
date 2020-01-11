@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Synaptics Announces Industry-First Edge Computing Video SoCs with Secure AI Framework at CES 2020"
-excerpt: "New Multimodal Platform Purpose Built with Perceptive Intelligence for Applications Including Smart Displays, Smart Cameras, Video Soundbars, Media Streamers"
-publishedDateTime: 2020-01-06T13:03:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966410/0/en/Synaptics-Announces-Industry-First-Edge-Computing-Video-SoCs-with-Secure-AI-Framework-at-CES-2020.html
+excerpt: "LAS VEGAS, and SAN JOSE, Calif., Jan. 06, 2020 -- CES 2020 - Synaptics® Incorporated (NASDAQ: SYNA), the leading developer of human interface solutions, today announced a new."
+publishedDateTime: 2020-01-06T15:14:00Z
+sourceUrl: https://finance.yahoo.com/news/synaptics-announces-industry-first-edge-130010072.html
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -52,6 +52,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "VGPhtBSNu4L+/7NesXosFIg10kZyi3tuhQsrgCLeWftkiQuHdyiDOFBDkEyogQCTzvZCK5rGaE4w7V8AtpxQsnvmg7InmsejnYBQ4kwbg3uH1oLu0iL0Jkh+jSgh3vrHurAVYEOrQ0Z/rGh2ufFYv7czIMipttiiz4F2iJWDG3fscWmAIOv1d0xF+yFjfiJP3EAR+3dRwdlFjX+Hps6ZqjnW/r26heQ6yYSptdhjfhm0oLZ6O2+mCfaE1ERXBg6U0/Mj5THK64pJB7n5+KX0ZQ==;tu3rQfIdUOJG2nb/mm4lzw=="
+secured: "8vMspm1tgggETyfFlG5doQh1ZFpHGESB4ZBv1G/tCNArqb7lygDwH37RGwg9g0ZoCiZekCpxZK7LQ1HmS3iG4+8v7FUi9eXo16Ueqt80PVsSRFS4uzI1qJTULVpu3i5HmFmoJgVY/Vbt8TNXc5TnpmP4qm2cY1N79XsQXfNt6Fio3e+6NNyB0a/Tfz7R1QRjjV1yw2WSmXOL5zLVt5KDKLPF98xkeBr95nzTEkOAWb8pzn2438pX+G82gZ+tGaWAdoatd8HVgUaUtKA6adwmpQ==;eLGUd2RAZtpiQ9t9ZIge0w=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Launches Advertising Accelerator with Watson"
-excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
-publishedDateTime: 2020-01-07T11:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
+publishedDateTime: 2020-01-07T14:51:00Z
+sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.196CF4D67EB66DCA7578C544B244C603
-    width: 700
-    height: 366
+  - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
+    width: 400
+    height: 225
     title: "IBM Launches Advertising Accelerator with Watson"
 
 related:
@@ -181,6 +181,6 @@ related:
       domain: adtmag.com
     quality: 0
 
-secured: "hfJnyAtUbO/ebY+c/BPA1ajI7HHJDs2piop1mS7RGi4macWzrIy5Aak52T8XapYssLjz0m0XQGHz9smA4AwC0biUlchfE2wUUGGz2K2t6Oty2FdDD1NBWEdEPyCZ+kxhLH/GHqlKE+gBCF+JOMg30Gn8OZI50g8JzY9O1GPeMCifWmE6sTNEqqgFeblWSCaLibtjO+4WImr1jBOK+XAyEPxosvMbKTwyM5Y2R2uDCrYY6AkkPG4McvFklQbbxT5gsyyx3HNwq6SQEgPYFwHhCw==;JszyTEmACZVlAv5VlDdX4g=="
+secured: "k1veIoth5sShRmuQ5C0GfcOgCoaUiDSx6zrR8YEsL1xphHIOSUqQ1BxttuKUSoop+oi/YGV0g6iOiJmeRuTrpFIbBrZ4QhHDAMerMKmzcbwg/qTLAibxh1SB+6Qc3xUKbFswtnsDQisT7MfC+zwjgg9q0q1HGzgeJZrXkrmFNj5wn/2eddp7ohxOP3J74hn/7wjKupQxIC9Htf5AgWdU70dTs+0EDrE8gLkpRrNw+oK/RvLm41KQvlf9FPF+Wqak8lVwWSpM3+BBkmCpIWnw9Q==;iOpbqszRYhm7UcChxKHiZw=="
 ---
 
