@@ -51,7 +51,7 @@ Parameters:
     * after_link_text           (string) - Text that goes after the text of the link. 
 
     Parameters for the "list" format:
-    * list_class                (string) - CSS class to use for the ul element which 
+    * container_class                (string) - CSS class to use for the ul element which 
                                            forms the category list. 
                                            Default: 'category-list'.
     * list_item_class           (string) - CSS class to use for the li element which 
@@ -101,7 +101,7 @@ Parameters:
 
 {%- comment -%}'list' format{% endcomment -%}
 {% when "list" -%}
-<ul class='{{ include.params.list_class | default: "category-list" }}'>
+<ul class='{{ include.params.container_class | default: "category-list" }}'>
     {% for nonempty_category in nonempty_categories -%}
         {% if num_of_categories > 0 and c >= num_of_categories -%}
             {% break -%}
@@ -167,7 +167,7 @@ Parameters:
 
 {%- comment -%}'list' format{% endcomment -%}
 {% when "list" -%}
-<ul class='{{ include.params.list_class | default: "category-list" }}'>
+<ul class='{{ include.params.container_class | default: "category-list" }}'>
     {% for category in categories -%}
         {% if num_of_categories > 0 and c >= num_of_categories -%}
             {% break -%}

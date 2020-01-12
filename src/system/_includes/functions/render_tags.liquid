@@ -50,10 +50,10 @@ Parameters:
     * after_link_text           (string) - Text that goes after the text of the link. 
 
     Parameters for the "list" format:
-    * list_class                (string) - CSS class to use for the ul element which 
+    * container_class           (string) - CSS class to use for the ul element which 
                                            forms the tag list. 
                                            Default: 'tag-list'.
-    * list_item_class           (string) - CSS class to use for the li element which 
+    * item_class                (string) - CSS class to use for the li element which 
                                            forms the tag list. 
                                            Default: 'tag-item'.
     
@@ -100,7 +100,7 @@ Parameters:
 
 {%- comment -%}'list' format{% endcomment -%}
 {% when "list" -%}
-<ul class='{{ include.params.list_class | default: "tag-list" }}'>
+<ul class='{{ include.params.container_class | default: "tag-list" }}'>
     {% for nonempty_tag in nonempty_tags -%}
         {% if num_of_tags > 0 and c >= num_of_tags -%}
             {% break -%}
@@ -109,7 +109,7 @@ Parameters:
         {% assign tag = tags | where: "name", nonempty_tag.name | first -%}
         {% if tag -%}
             {% assign c = c | plus: 1 -%}
-    <li class='{{ include.params.list_item_class | default: "tag-item" }}'>
+    <li class='{{ include.params.item_class | default: "tag-item" }}'>
         {% if include.params.render_tag_function -%}
             {% include jify function=include.params.render_tag_function 
                 tag=tag 
@@ -166,7 +166,7 @@ Parameters:
 
 {%- comment -%}'list' format{% endcomment -%}
 {% when "list" -%}
-<ul class='{{ include.params.list_class | default: "tag-list" }}'>
+<ul class='{{ include.params.container_class | default: "tag-list" }}'>
     {% for tag in tags -%}
         {% if num_of_tags > 0 and c >= num_of_tags -%}
             {% break -%}
@@ -178,7 +178,7 @@ Parameters:
         {% else -%}
             {% assign tag_size = nil -%}
         {% endif -%}
-    <li class='{{ include.params.list_item_class | default: "tag-item" }}'>
+    <li class='{{ include.params.item_class | default: "tag-item" }}'>
         {% if include.params.render_tag_function -%}
             {% include jify function=include.params.render_tag_function 
                 tag=tag 

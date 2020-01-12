@@ -55,10 +55,10 @@ Parameters:
     * after_link_text           (string) - Text that goes after the text of the link. 
 
     Parameters for the "list" format:
-    * list_class                (string) - CSS class to use for the ul element which 
+    * container_class           (string) - CSS class to use for the ul element which 
                                            forms the term list. 
                                            Default: '{{taxonomy}}-list'.
-    * list_item_class           (string) - CSS class to use for the li element which 
+    * item_class           (string) - CSS class to use for the li element which 
                                            forms the term list. 
                                            Default: '{{taxonomy}}-item'.
     
@@ -108,9 +108,9 @@ Parameters:
 
 {%- comment -%}'list' format{% endcomment -%}
 {% when "list" -%}
-{% assign default_list_class = include.params.taxonomy | append: "-list" -%}
-{% assign default_list_item_class = include.params.taxonomy | append: "-item" -%}
-<ul class='{{ include.params.list_class | default: default_list_class }}'>
+{% assign default_container_class = include.params.taxonomy | append: "-list" -%}
+{% assign default_item_class = include.params.taxonomy | append: "-item" -%}
+<ul class='{{ include.params.container_class | default: default_container_class }}'>
     {% for nonempty_term in nonempty_terms -%}
         {% if num_of_terms > 0 and c >= num_of_terms -%}
             {% break -%}
@@ -119,7 +119,7 @@ Parameters:
         {% assign term = terms | where: "name", nonempty_term.name | first -%}
         {% if term -%}
             {% assign c = c | plus: 1 -%}
-    <li class='{{ include.params.list_item_class | default: default_list_item_class }}'>
+    <li class='{{ include.params.item_class | default: default_item_class }}'>
         {% if include.params.render_term_function -%}
             {% include jify function=include.params.render_term_function 
                 term=term 
@@ -176,9 +176,9 @@ Parameters:
 
 {%- comment -%}'list' format{% endcomment -%}
 {% when "list" -%}
-{% assign default_list_class = include.params.taxonomy | append: "-list" -%}
-{% assign default_list_item_class = include.params.taxonomy | append: "-item" -%}
-<ul class='{{ include.params.list_class | default: default_list_class }}'>
+{% assign default_container_class = include.params.taxonomy | append: "-list" -%}
+{% assign default_item_class = include.params.taxonomy | append: "-item" -%}
+<ul class='{{ include.params.container_class | default: default_container_class }}'>
     {% for term in terms -%}
         {% if num_of_terms > 0 and c >= num_of_terms -%}
             {% break -%}
@@ -190,7 +190,7 @@ Parameters:
         {% else -%}
             {% assign term_size = nil -%}
         {% endif -%}
-    <li class='{{ include.params.list_item_class | default: default_list_item_class }}'>
+    <li class='{{ include.params.item_class | default: default_item_class }}'>
         {% if include.params.render_term_function -%}
             {% include jify function=include.params.render_term_function 
                 term=term 

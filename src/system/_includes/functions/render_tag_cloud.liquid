@@ -47,10 +47,10 @@ Parameters:
     * after_link_text           (string) - Text that goes after the text of the link. 
 
     Parameters for the "list" format:
-    * list_class                (string) - CSS class to use for the ul element which 
+    * container_class           (string) - CSS class to use for the ul element which 
                                            forms the tag cloud in the list format. 
                                            Default 'tag-cloud'.
-    * list_item_class           (string) - CSS class to use for the li element which 
+    * item_class                (string) - CSS class to use for the li element which 
                                            forms the tag list. Default: 'tag-item'.
 
     Parameters for the "flat" format:
@@ -171,7 +171,7 @@ Parameters:
 
 {%- comment -%}'list' format{% endcomment -%}
 {% when "list" -%}
-<ul class='{{ include.params.list_class | default: "tag-cloud" }}' role="list">
+<ul class='{{ include.params.container_class | default: "tag-cloud" }}' role="list">
     {% for tag in tags -%}
         {% if num_of_tags > 0 -%}
             {% if c >= num_of_tags -%}{% break -%}{% endif -%}
@@ -187,7 +187,7 @@ Parameters:
         {% assign tag_size = nonempty_tags | where: "name", tag.name | map: "size" | first | default: 0 -%}
         {% assign font_size = tag_size | minus: min_size | times: font_step | plus: smallest_font -%}
         
-    <li class='{{ include.params.list_item_class | default: "tag-item" }}'>
+    <li class='{{ include.params.item_class | default: "tag-item" }}'>
         {% if include.params.render_tag_function -%}
             {% include jify function=include.params.render_tag_function 
                 tag=tag 

@@ -3,11 +3,14 @@ title: "AI Daily Digests"
 excerpt: "Recent daily digests presented by AI Inside Out."
 ---
 
-{% include jify function="render_posts" 
-    post_collection="newsletter"
-    order_by="publishedDateTime"
-    order="DESC"
-    format="list"
-    list_class="post-list"
-    num_of_posts=20 
-    show_post_excerpt=true %}
+<section class="post-listing-sec">
+    {% include jify function="render_posts" 
+        post_collection="newsletter"
+        num_of_posts=20 
+        order_by="publishedDateTime"
+        order="DESC"
+        format="bootstrap"
+        item_class="single-post col-md-4 col-sm-6 col-xs-12"
+        show_post_excerpt=true
+        render_post_function="render_newsletter_issue_card" %}
+</section>

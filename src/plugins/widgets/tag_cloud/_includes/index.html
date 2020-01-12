@@ -11,7 +11,7 @@ The widget title is not displayed is the tag cloud is empty.
 {% assign num_of_tags = include.params.settings.num_of_tags | default: 45 -%}
 {% assign show_size = include.params.settings.show_size | default: true -%}
 {% assign format = include.params.settings.format | default: "list" -%}
-{% assign list_class = include.params.settings.list_class | default: "tag-cloud" -%}
+{% assign container_class = include.params.settings.container_class | default: "tag-cloud" -%}
 {% assign list_item_class = include.params.settings.list_item_class | default: "tag-item" -%}
 {% assign separator = include.params.settings.separator | default: " " -%}
 {% assign widget_tag_cloud_unique_id = UNIQUE_ID | prepend: "tag_cloud-" -%}
@@ -26,7 +26,7 @@ The widget title is not displayed is the tag cloud is empty.
             num_of_tags=num_of_tags
             show_size=show_size
             format=format 
-            list_class=list_class 
+            container_class=container_class 
             list_item_class=list_item_class
             separator=separator
             indent_level=2 %}
