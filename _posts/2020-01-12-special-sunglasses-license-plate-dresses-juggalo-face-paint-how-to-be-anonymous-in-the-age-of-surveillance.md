@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5A3723BF023CA0D020FB912B380406CA
         width: 700
         height: 233
-  - title: "Healthcare: How innovation is moving the focus away from sickcare and bringing it back into the home"
-    excerpt: "In the latest episode of the Arabian Business Enterprise Innovators Series, in association with UPS, we look at how technological advances are revolutionising and disrupting the $80 billion healthcare sector in the GCC ... leverage the advances in digital health research, such as artificial intelligence, cognitive psychology, blockchain ..."
-    publishedDateTime: 2020-01-12T14:53:00Z
-    sourceUrl: https://www.arabianbusiness.com/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F5E9BE663C9E82188B0EE3CD49039D58
-        width: 700
-        height: 367
   - title: "Welcome To The Machine: The AI Revolution Comes To ETFs (Podcast)"
     excerpt: "Artificial Intelligence - and the machine learning algorithms that underlie it - is showing up pretty much everywhere these days, so it's no surprise that there's now an AI-powered ETF firm, EquBot. EquBot's founders, CEO Chida Khatua and COO Art Amador, join Let's Talk ETFs to explain the inner workings of their AI Powered Equity and ..."
     publishedDateTime: 2020-01-12T13:21:00Z

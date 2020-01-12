@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9877845B601363251DC12CD698548587
         width: 700
         height: 393
-  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
-    publishedDateTime: 2020-01-06T16:19:00Z
-    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
-    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
-        width: 700
-        height: 393
   - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
     excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
     publishedDateTime: 2020-01-09T22:57:00Z

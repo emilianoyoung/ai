@@ -1,46 +1,35 @@
 ---
 category: news
-title: "Children's Hospital to purchase CCTV cameras with facial-recognition capacity"
-excerpt: "The National Children's Hospital has said it is purchasing cameras capable of facial recognition and storing the images. The technology is similar to a system used in China for surveillance. It can count how many people are in a room, analyse people's faces and keep up to date with their movements within the facility. A spokesperson has said ..."
-publishedDateTime: 2020-01-12T15:55:00Z
-sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
-ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
-cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+title: "How the Police Use Facial Recognition, and Where It Falls Short"
+excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, the deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law enforcement ..."
+publishedDateTime: 2020-01-12T22:17:00Z
+sourceUrl: https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html
+ampUrl: https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html
+cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html
 type: article
-quality: 41
-heat: -1
-published: false
+quality: 89
+heat: 269
+published: true
 
 provider:
-  name: Irish Examiner
-  domain: irishexaminer.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.84ED662CC33526A38DA026002951B9F5
-    width: 600
-    height: 325
-    title: "Children's Hospital to purchase CCTV cameras with facial-recognition capacity"
+  - url: https://www.bing.com/th?id=ON.BD50F2118F2E2D398647702F67C9A692
+    width: 700
+    height: 366
+    title: "How the Police Use Facial Recognition, and Where It Falls Short"
 
 related:
-  - title: "How the Police Use Facial Recognition, and Where It Falls Short"
-    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, the deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law enforcement ..."
-    publishedDateTime: 2020-01-12T22:17:00Z
-    sourceUrl: https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html
-    ampUrl: https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.BD50F2118F2E2D398647702F67C9A692
-        width: 700
-        height: 366
   - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
     excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
     publishedDateTime: 2020-01-09T14:42:00Z
@@ -144,6 +133,21 @@ related:
       - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
         width: 600
         height: 315
+  - title: "Children's Hospital to purchase CCTV cameras with facial-recognition capacity"
+    excerpt: "The National Children's Hospital has said it is purchasing cameras capable of facial recognition and storing the images. The technology is similar to a system used in China for surveillance. It can count how many people are in a room, analyse people's faces and keep up to date with their movements within the facility. A spokesperson has said ..."
+    publishedDateTime: 2020-01-12T15:55:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.84ED662CC33526A38DA026002951B9F5
+        width: 600
+        height: 325
   - title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
     excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
     publishedDateTime: 2020-01-12T11:32:00Z
@@ -273,6 +277,6 @@ related:
         width: 700
         height: 393
 
-secured: "spitnZcQxhAiEKjhUvUikbnD5f9Gg45i5hn8YRl69Gno5ZNY+nxQbn7lURH9DPtk7OFyC6SzmfDLI45vLTQiURLOA+2qZg+Ew8xAEWV8HR6f4wnBID0Wir4+p2UNnSUDQ4acNNUAw9h3rUTlfhxH2LLGQmrLS5R2M+IT9Z61Edkfxswfw+xDLAzSxRzB9C8AxAhfeYznjUl+2ObCW9wMxzsqdTmxEVauP9eKmGk7ji5ZrJB7eqVKaxz0JMHhRt9S/f8dT+yzqhbYKJws43Luzw==;N+Iu53CQRiqsBG3K41htJg=="
+secured: "rxrJZy7HMqhd+9H4GpbzxRV54Wr+U6HF9EYpLR35l+IjqmQFof8lnGZHr9xvnCD5pvAs5eYfZMxZSmtq9SfMpmxcG5p9g3CjKw5/FWJ62Zcdkbov3NCr/jM3qLxBKPQ2Z0yr6i6wF/loIfvwLyJVRiVILFyDnGJYmebWAgccDJkuxmX3/KtBiE5WF+OsOlSlXXSZ2u/sBbGyFovvEO/V6MC+yeC/Gkf0RnnH0Wbw1yP++3v3yVqr6b6XKO4wFhEi7C4dzph1eDhBn407npc88A==;IosEnXfBpjdJN3/5PnNYRQ=="
 ---
 

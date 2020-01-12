@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 600
     height: 315
     title: "Neurodiversity in Artificial Intelligence"
+
+related:
+  - title: "Artificial Neural Network Model (image)"
+    excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
+    publishedDateTime: 2019-12-26T14:59:00Z
+    sourceUrl: https://www.eurekalert.org/multimedia/pub/220538.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DE5CFD7F64687182101B77E2310B5C71
+        width: 700
+        height: 393
 
 secured: "19kPiMxxsCD1ZR+xSqT/HPcb6teLfXNB0Rq9Hn/u+SAjvWYiV2/4ANtwSaeKFuMp4b9NnMe9PQASTzOwJTOxH59+AvWkTyxfKF3Y7RoZKLP7aW5ZkM/pWshoBS8IRMUtzk5Pw8Xql110U5yVuPcuSO8bMohJhYyXI6Gk/c0e4ZSEXeElle9w7pCeoRfnXM2rALEYCSGgGLC0RrGiP0tIKQOf8+XSjeCTOYJFbEzUjn7J8+PUCmmUjUfcUcKUwVWB3onoqoRMxEj3gUcRridDNA==;m1UA+zvAfikxAoW86rpFmw=="
 ---

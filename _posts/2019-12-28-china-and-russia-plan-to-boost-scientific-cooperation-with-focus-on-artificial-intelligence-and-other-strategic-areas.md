@@ -25,73 +25,19 @@ images:
     title: "China and Russia plan to boost scientific cooperation with focus on artificial intelligence and other strategic areas"
 
 related:
-  - title: "Brazil to create national artificial intelligence strategy"
-    excerpt: "The Brazilian government has taken another step towards the creation of public policies around artificial intelligence (AI). A national AI strategy will be created as a response to the worldwide race for leadership in the field and the need to discuss the future of work, education, tax, research and development as well as ethics as the ..."
-    publishedDateTime: 2019-12-23T21:16:00Z
-    sourceUrl: https://www.zdnet.com/article/brazil-to-create-national-artificial-intelligence-strategy/
-    ampUrl: https://www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
+  - title: "AI-Matrix Joint Founding Fund enters into strategic cooperation with Columbia Private Equity firm"
+    excerpt: "Dec 30, 2019 (AB Digital via COMTEX) -- The AI-Matrix Joint Foundation recently signed a strategic agreement with Columbia private equity firm. The two sides will conduct in-depth research in the direction of modularization expansion, providing alternative intelligent contracts, consensus mechanisms, P2P network transmission, big data encrypted ..."
+    publishedDateTime: 2019-12-30T12:44:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-matrix-joint-founding-fund-enters-into-strategic-cooperation-with-columbia-private-equity-firm-2019-12-30
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.A5B8B3203D13434C93047A4F6E0A52E5
-        width: 700
-        height: 525
-  - title: "How to Cash in on Conversational AI"
-    excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
-    publishedDateTime: 2019-12-24T16:19:00Z
-    sourceUrl: https://www.channelpartnersonline.com/blog/how-to-cash-in-on-conversational-ai/
-    type: article
-    provider:
-      name: Channel Partners
-      domain: channelpartnersonline.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
-        width: 700
-        height: 259
-  - title: "Artificial Neural Network Model (image)"
-    excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
-    publishedDateTime: 2019-12-26T14:59:00Z
-    sourceUrl: https://www.eurekalert.org/multimedia/pub/220538.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.DE5CFD7F64687182101B77E2310B5C71
-        width: 700
-        height: 393
-  - title: "National Strategy aims at major portion of global AI pie"
-    excerpt: "“The National AI strategy of Qatar has six pillars: education, data access, employment, business, research, and ethics. It envisions two roles for Qatar: First, Qatar must become capable of producing world class AI applications in areas of national interest and have a business environment enabling the use AI as a driver for innovatio"
-    publishedDateTime: 2019-12-27T19:19:00Z
-    sourceUrl: https://www.gulf-times.com/story/651826/National-Strategy-aims-at-major-portion-of-global-
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.59054D8FAD18B00DF186C76B11C85DCE
-        width: 620
-        height: 355
-  - title: "The United States Needs a Strategy for Artificial Intelligence"
-    excerpt: "Argument: The United States Needs a Strategy for Artificial Intelligence The United States Needs a Strategy for Art... In the coming years, artificial intelligence will dramatically affect every aspect of human life. AI—the technologies that simulate intelligent behavior in machines—will change how we process, understand, and analyze ..."
-    publishedDateTime: 2019-12-24T12:40:00Z
-    sourceUrl: https://foreignpolicy.com/2019/12/24/national-artificial-intelligence-strategy-united-states-fall-behind-china/
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.89C104007EC38FBFAB26C0842CB707DD
-        width: 700
-        height: 466
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "PPlgtI+ePKMjyEvBiqYUIgiB1x7MB22GADzUK+YLTmm6tG4AcoJ5YuZ0rOcmjiKDfOlGyGw4o+xWPPEFF7gn7LFNC1vY2rQEyR+x0tHiEYkyITZC8UYtgPn2KgjpPnijf5nDmk1OvcbPqCTt6iGWzOOgGZvYPaRv+4ZZjBwotkgLp7E08puaDBHiRpstkGr9XQAS5gUEDXij0J9APuDiYQEw07sw75fUTGDxrAKoqB8P5MsLIE7wgW/ciZSbh+SwdOaWpYkaoxj4IR1n9obz4A==;Bx73WC+19mpXA3ztdJKnwg=="
 ---

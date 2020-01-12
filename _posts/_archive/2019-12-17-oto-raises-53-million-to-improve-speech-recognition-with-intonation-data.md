@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -95,24 +95,6 @@ related:
       name: The Root
       domain: theroot.com
     quality: 11
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
-  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
-    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
-    publishedDateTime: 2019-12-23T20:30:00Z
-    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 5
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -123,6 +105,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "7c2tUwp3vwoL+GQZC4/I5nGNtWttHsHVSR38s8VFDLNAZN+oQT1qYF8vnfLSt3gAd+6gMzowKfaNIyPLoJXyj6ZwWKeWxKWoFsWC/LlDnDqmNYXgLlNil47cWSASExWfsykx6dtHfgGq4ee2K2uIs8h9XLDAOuv7LlG2p/3GXfu9pBw5tJBsPKDsJkwR3xT316cCYCAwGgp0LFGwQr8D/yFHbNOQ9MSglRcXGaZQNGXmn+WJd2oyZU2KHw1RXR/xuiMAXQOmKKrX/JmW5V+gaA==;bR7bKBDn8uX4fbuFIOvEAw=="
+secured: "okBy+Z9iIXVzls8N395db62ftp+z+OGQ9GQtZczlx0o4r3Ogc05gJ6u32coMjp74BzJi5PvoMZk3vvYJYxi8Sw5gUvZuFfsL6z25U5k+ZyDN6THthSafO+zzIvC3sAp9ufCACCYQdFSgceJmMsY2OB1ygVrEgS+4pMSs0weZgtyQ6eDCfhph4tesp6/ySdkANDJQZuBRznomw6QliQ2tssRfvmH/vp8wQ2fiTRQj9Ik8nCMZ5/9mviO4NDHvx/IsrQUCuLyTfevMUqExNV1JvQ==;08Zz9YkJkwGHDddMhMU4XA=="
 ---
 

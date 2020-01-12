@@ -20,36 +20,21 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Marty is a self-driving, electric DeLorean that drifts like a pro"
-    excerpt: "Stanford University engineers successfully made a converted 1981 DMC DeLorean (yes, the Back to the Future car) drift, twist, turn, and crush a kilometer-long obstacle course — without a driver ..."
-    publishedDateTime: 2019-12-23T21:20:00Z
-    sourceUrl: https://mashable.com/video/marty-delorean/
-    ampUrl: https://mashable.com/video/marty-delorean.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/marty-delorean.amp
+  - title: "GM requests green light to ditch steering wheel in its self-driving cars"
+    excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
+    publishedDateTime: 2019-12-24T04:40:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/
+    ampUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.AB07B4C9CECB31BB38411BA921230ACA
+      - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
         width: 700
-        height: 367
-  - title: "Marty, the self-driving DeLorean engineered to dominate test courses"
-    excerpt: "Imagine if Marty McFly never actually had to drive the DeLorean in Back to the Future, imagine if the DeLorean just drove itself at 88mph. Standford Unversity engineers perhaps thought of the same thing and decided to make a 1981 DMC DeLorean be independent of its human driver. In the above video released onto the Stanford YouTube Channel ..."
-    publishedDateTime: 2019-12-24T07:51:00Z
-    sourceUrl: https://www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/index.html
-    ampUrl: https://www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/amp.html
-    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/amp.html
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.52F5E43386CCA5D2216A99B854F84F0B
-        width: 700
-        height: 356
+        height: 366
   - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
     excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
     publishedDateTime: 2019-12-23T22:33:00Z
@@ -80,19 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
         width: 700
         height: 393
-  - title: "Great Scott! Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities using onboard computers and custom made suspension"
-    excerpt: "Engineers redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn't think of -self-driving capabilities - and they successfully tested its drifting skills on an obstacle."
-    publishedDateTime: 2019-12-23T23:35:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/great-scott-engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities-using-onboard-computers-and-custom-made-suspension/ar-BBYhK3c?li=AA4Zoy
+  - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
+    excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
+    publishedDateTime: 2019-12-24T08:48:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
     type: article
     provider:
-      name: Daily Mail on MSN.com
+      name: News18 on MSN.com
       domain: msn.com
-    quality: 0
+    quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.4012467D0FEB633EBEB0E8665762DFEA
-        width: 599
-        height: 289
+      - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
+        width: 600
+        height: 315
 
 secured: "RJHo3Jssa+7Hg/wy8GkgYdTSR0uzYOFoBLHzoQaJCY3HRjdht28Z9eFLO+D+uP5nU9fAd6Le7ibATRd/7/fNcOHBeegGJpCK2kA9bZokTF9IKZaFFDQAMyIZ/smDvHAAFsQsB4bFD39a95hMvbv51Q5iSl6M0z8pYyf1LZ72ElLxhhEDFlw3AMOx7ZCeKhoucOqv7iCq/AKP74FoJpynr6a8G/Yhj+coPhE/CdcBbbyPOda3hQ4MuB5upAAOWxw72Ozrpj8WF8+epAD0zZpgoA==;hxy6nwBndhlTuuof4qNOuA=="
 ---

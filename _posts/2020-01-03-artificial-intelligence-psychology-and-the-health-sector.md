@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
   name: Psychology Today
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
   - Machine Learning
 
 images:
@@ -25,6 +26,34 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "dXjOiQFTHdz3Q+MhxsW1PKwm1r9M2lZ87JT9G7NcsYuLga37FOYYyHn0x8A8Mfsu0Jeb/6NeI+f0gVhgIpf9sRm6QcQO9MfjRFSoCZATGy2N96l7a87bm81kR9zRRvpCu/uhUM8wd7ogFGUbwVOWcsthd4yyYYT07vNXuK4vuikRW5uzwrPCiXbEUQP3hTYkZ0vUwLRb9QJnZgL8fMJ+Lnxas9HXqAPgD0i1JF0GdnHKt+jisDDAf3aRR5UPD4RMSE6Sjwdz8NR+8UwMg2AqrA==;/fQUVJg6mhcILw4bDBT7+Q=="
+related:
+  - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
+    excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
+    publishedDateTime: 2019-12-28T09:17:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-healthcare-sector-advancements-090148569.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.B9FA02316D03526660BE2C72951411B9
+        width: 660
+        height: 440
+  - title: "Crouse Health brings artificial intelligence to stroke care"
+    excerpt: "Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm focuses on using applied artificial-intelligence software in health care to “reduce time to treatment and improve patient outcomes,” per Crouse Health’s Thursday news release."
+    publishedDateTime: 2020-01-09T21:56:00Z
+    sourceUrl: https://www.cnybj.com/crouse-health-brings-artificial-intelligence-to-stroke-care/
+    type: article
+    provider:
+      name: Business Journal News Network
+      domain: cnybj.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.19C1E68506836B08D95A29A8304B883A
+        width: 400
+        height: 300
+
+secured: "rRPR0zAnDVK2kg4GM5GqaWn1kAzigfBKWQ4LRcS5OLf7HkIdI+hr1bxctVV2eeR53RsQug7Pzg1b/KA7cZ5QYUhFi5vF0AIK4E/bWainP6XP7P70Dv+s9xdQJWmxuK9x1QpRHrT8Kxhwmz1LwLcFo2FsJwY5RAtTdaUzxRjWZZdf/YH5Nrc7qlQnr9AxkvaIHppxOQxaizDfcFAvd/H8lLTppBMvdVi8WffBf7x0mSA+JkJc2K6iGdiq8Y98SHWWK1cM28aAkCq8oTSTENyyRg==;rX7aNDEEfPljrd11atXgzA=="
 ---
 

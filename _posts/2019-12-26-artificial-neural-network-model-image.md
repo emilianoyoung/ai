@@ -24,75 +24,21 @@ images:
     title: "Artificial Neural Network Model (image)"
 
 related:
-  - title: "Brazil to create national artificial intelligence strategy"
-    excerpt: "The Brazilian government has taken another step towards the creation of public policies around artificial intelligence (AI). A national AI strategy will be created as a response to the worldwide race for leadership in the field and the need to discuss the future of work, education, tax, research and development as well as ethics as the ..."
-    publishedDateTime: 2019-12-23T21:16:00Z
-    sourceUrl: https://www.zdnet.com/article/brazil-to-create-national-artificial-intelligence-strategy/
-    ampUrl: https://www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
+  - title: "Neurodiversity in Artificial Intelligence"
+    excerpt: "Artificial Intelligence is Helping to Create Jobs for Neurodiverse Talent In the age of ... Many of them also need routine visual therapy to increase hand-eye coordination. Recognizing the need for therapy, and playing to this type of neurodiverse talent’s tendency to thrive in work that is structured and repetitive, companies are creating ..."
+    publishedDateTime: 2019-12-27T14:03:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.A5B8B3203D13434C93047A4F6E0A52E5
-        width: 700
-        height: 525
-  - title: "How to Cash in on Conversational AI"
-    excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
-    publishedDateTime: 2019-12-24T16:19:00Z
-    sourceUrl: https://www.channelpartnersonline.com/blog/how-to-cash-in-on-conversational-ai/
-    type: article
-    provider:
-      name: Channel Partners
-      domain: channelpartnersonline.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
-        width: 700
-        height: 259
-  - title: "National Strategy aims at major portion of global AI pie"
-    excerpt: "“The National AI strategy of Qatar has six pillars: education, data access, employment, business, research, and ethics. It envisions two roles for Qatar: First, Qatar must become capable of producing world class AI applications in areas of national interest and have a business environment enabling the use AI as a driver for innovatio"
-    publishedDateTime: 2019-12-27T19:19:00Z
-    sourceUrl: https://www.gulf-times.com/story/651826/National-Strategy-aims-at-major-portion-of-global-
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.59054D8FAD18B00DF186C76B11C85DCE
-        width: 620
-        height: 355
-  - title: "The United States Needs a Strategy for Artificial Intelligence"
-    excerpt: "Argument: The United States Needs a Strategy for Artificial Intelligence The United States Needs a Strategy for Art... In the coming years, artificial intelligence will dramatically affect every aspect of human life. AI—the technologies that simulate intelligent behavior in machines—will change how we process, understand, and analyze ..."
-    publishedDateTime: 2019-12-24T12:40:00Z
-    sourceUrl: https://foreignpolicy.com/2019/12/24/national-artificial-intelligence-strategy-united-states-fall-behind-china/
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.89C104007EC38FBFAB26C0842CB707DD
-        width: 700
-        height: 466
-  - title: "China and Russia plan to boost scientific cooperation with focus on artificial intelligence and other strategic areas"
-    excerpt: "Meanwhile, the Chinese foreign ministry has identified fields such as communications technology, artificial intelligence and the “internet of things” as promising fields for collaboration. The focus on tech cooperation was agreed by Putin and Chinese President Xi Jinping in June, when they stressed that China-Russia relations had entered a ..."
-    publishedDateTime: 2019-12-28T14:34:00Z
-    sourceUrl: https://www.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
-    ampUrl: https://amp.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.3C21826743DAF066F0EE1D70CAED15DD
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.E3F33619D3C15FE72779AB7B4153E644
+        width: 600
+        height: 315
 
 secured: "UUXump0i9/yAuK4fQwhduEbZyik2g2IvGb0c45EFL6YYFAqMfjMZJmZP3wD4Zf6Ey6w5raQo0RPrgJTJgQHMI0WgZuXNdYB1UtDahp0t6vtCLTNbVSk57tx39NIk/ITRucGqRD0CZR4tpo8fiU7ECh4V7IcGbBBVbKmRhJmFzI0VtQiE16p71aWTjlW4wC8lHExE8lbb/siCG/diPVvCkywTURH2d3tue8aTvt831Qanw6L7JBsv8eNz1DvH7xbhTHLCkJ4vojtIT3LQlPmg3A==;RVFLDDNv9tX0EG2Y277RWA=="
 ---

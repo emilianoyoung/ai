@@ -8,7 +8,7 @@ ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
 cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,30 +26,19 @@ images:
     title: "Voice Recognition technology and its growing influence"
 
 related:
-  - title: "Protest against police using facial recognition technology at the South Wales derby"
-    excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
-    publishedDateTime: 2020-01-12T15:37:50Z
-    sourceUrl: https://www.msn.com/en-gb/sports/news/protest-against-police-using-facial-recognition-technology-at-the-south-wales-derby/ar-BBYSAZK
+  - title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
+    excerpt: "Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice recognition, machine translation, and voice synthesis technologies. Jarvisen has an instant response rate of less than .5 seconds as well as a built in 2-year global data plan for coverage in ..."
+    publishedDateTime: 2020-01-09T00:39:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/iflytek-asia-ai-leader-debuts-cutting-edge-voice-technologies-in/article_60853699-2a71-5856-b176-c55c733da348.html
     type: article
     provider:
-      name: Wales Online on MSN.com
-      domain: msn.com
-    quality: 48
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
-        width: 600
-        height: 315
-  - title: "Maybe Third Time’s the Charm for Facial Recognition Vote"
-    excerpt: "A proposal that would ban use of facial recognition technology was first voted on by the Portland, Maine, City Council in November. They voted to postpone. On Monday, the council voted unanimously to postpone again, this time until June. (TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal ..."
-    publishedDateTime: 2020-01-07T22:26:00Z
-    sourceUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html
-    ampUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
   - title: "APSU’s Science on Tap returns Jan. 7 with talk on facial recognition technology"
     excerpt: "Last August, all New York City police officers received a text message with the name and photo of a suspected terrorist. The man had caused a panic that morning by leaving suspicious objects – rice cookers – on a Manhattan subway platform."
     publishedDateTime: 2020-01-06T20:22:40Z
@@ -76,6 +65,15 @@ related:
       - url: https://www.bing.com/th?id=ON.BB05149FC3C39CBF97306B7E6AD2DA1B
         width: 700
         height: 394
+  - title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
+    excerpt: "Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice recognition, machine translation, and voice synthesis technologies. Jarvisen has an instant response rate of less than .5 seconds as well as a built in 2-year global data plan for coverage in ..."
+    publishedDateTime: 2020-01-08T19:10:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-iflytek-asia-ai-leader-debuts-cutting-edge-voice-/2020/01/08/9078596.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "mgnfRt7nIPlIZUJ+cHukTs98xmxytyhpZ4xBLH1a+Ukzmgv/M3kEXhZNLuAcM69jDS3FnjbsnuGvftzO2aip1x/TYZOPz212IaYpwRfwo8g/30G0FNcslDby6v/Nt0+qugVXPg+zJNbEUf5J+CC4u9gcqMnahkPull3vCnWIhBYtpNkrqeDGw/p+BkKBQLiezA/9+Ied36D8upB/HeHq0R95I60bXFybWd+PD2/K8IKKUYGLiUvZYVY08zsWqxcC2HlhfnZBkJNFtNSps1II2g==;Pzp1g3b/cr2g+5djlGnRHQ=="
 ---

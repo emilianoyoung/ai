@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T19:18:00Z
 sourceUrl: https://www.biometricupdate.com/202001/worldline-presents-biometric-facial-recognition-payment-solution-at-nrf-2020
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,32 +24,47 @@ images:
     title: "Worldline presents biometric facial recognition payment solution at NRF 2020"
 
 related:
-  - title: "China Facial-recognition Case Puts Big Brother On Trial"
-    excerpt: "Facial-recognition technology has become embedded in China, from airports to hotels, e-commerce sites and even public toilets, but a law professor had enough when asked to scan his face at a safari park."
-    publishedDateTime: 2020-01-08T04:58:00Z
-    sourceUrl: https://www.ibtimes.com/china-facial-recognition-case-puts-big-brother-trial-2898340
+  - title: "Anger over use of facial recognition at south Wales football derby"
+    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
+    publishedDateTime: 2020-01-12T14:05:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.D173C78D8CB4BDC3E35C42C7BE4007B0
+      - url: https://www.bing.com/th?id=ON.366056A15FB0553FB1FDE21C5145002D
         width: 700
-        height: 468
-  - title: "Facial recognition 5G-powered glasses, enhanced biometric passports, and Interpol: border updates from Asia"
-    excerpt: "Customs officers in Shenzhen now have biometric facial recognition 5G-powered glasses to scrutinize people crossing the border, following test pilots conducted for two weeks at Shenzhen Bay Port, reports The Standard. The biometric gadgets identify travelers’ faces and flag anyone who appears suspicious or labeled as high-risk, and are very ..."
-    publishedDateTime: 2019-12-31T17:51:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/facial-recognition-5g-powered-glasses-enhanced-biometric-passports-and-interpol-border-updates-from-asia
+        height: 367
+  - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
+    excerpt: "&quot;Super-recognisers&quot; who can identify a range of ethnicities could help increase fraud detection rates at passport control and decrease false conviction rates  that have relied on CCTV."
+    publishedDateTime: 2020-01-10T16:56:00Z
+    sourceUrl: https://news.yahoo.com/facial-recognition-research-reveals-abilities-163751845.html
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.01FE99FAA648F0450CA290AA99A25ECC
-        width: 700
-        height: 490
+      - url: https://s.yimg.com/ny/api/res/1.2/8g2pnQ7xr0NaCiMhAd8Oog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk5MjtoPTY2Mg--/https://s.yimg.com/uu/api/res/1.2/EeyXJUXxXkc9wsjmIfL6xQ--~B/aD0zMzE7dz00OTY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_conversation_464/0ad38afc2290b149552566f7319b3825
+        width: 496
+        height: 331
+  - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
+    excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
+    publishedDateTime: 2020-01-08T18:31:54Z
+    sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-to-deter-troublemakers-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
+    type: article
+    provider:
+      name: Wales Online on MSN.com
+      domain: msn.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
+        width: 600
+        height: 315
   - title: "Juniper Research: Facial Recognition Hardware to Feature on over 800m Mobiles by 2024, but Software Will Win Out"
     excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment ..."
     publishedDateTime: 2020-01-07T07:20:00Z

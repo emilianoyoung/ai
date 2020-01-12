@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-12T09:07:00Z
 sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
 type: article
 quality: 86
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5A3723BF023CA0D020FB912B380406CA
         width: 700
         height: 233
-  - title: "Healthcare: How innovation is moving the focus away from sickcare and bringing it back into the home"
-    excerpt: "In the latest episode of the Arabian Business Enterprise Innovators Series, in association with UPS, we look at how technological advances are revolutionising and disrupting the $80 billion healthcare sector in the GCC ... leverage the advances in digital health research, such as artificial intelligence, cognitive psychology, blockchain ..."
-    publishedDateTime: 2020-01-12T14:53:00Z
-    sourceUrl: https://www.arabianbusiness.com/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F5E9BE663C9E82188B0EE3CD49039D58
-        width: 700
-        height: 367
   - title: "Special sunglasses, license-plate dresses, Juggalo face paint: How to be anonymous in the age of surveillance"
     excerpt: "Researchers have long criticized the lack of oversight around AI, given its potential for bias. A recent National Institute of Standards and Technology study that looked at facial-recognition algorithms, including from Microsoft and Intel, showed Asian and Black people are up to 100 times more likely to be misidentified than white people."
     publishedDateTime: 2020-01-12T13:00:00Z
@@ -88,6 +73,6 @@ related:
         width: 700
         height: 465
 
-secured: "ViPSwgEc72oaHxCDlk9y6d0axmVEmhIoM3UNHKmYAiy/u5TLBxL72RYrRv+ecMpRlhFUTzuPB1qA6XGb0LlgKJt5Zf65BBz/XkpB/+pYaz6pgiTQH3cKlo2Pcxsifl7pqQIxojtLhvbqExFdyRLic6HIxzX/HpTwNp66yB+6lTOWZGM9a7UzhGC7zif1T4Scn6dhYWIsk/DTy6Pon4EHDI9qQm9MT51+aHEGVuVOBIhcpCOogCELasJ3avZ/Yy8TxRqdwsXGYRm41jyNAi8uEw==;yPzo/5nxGZVQsR19/B7KlQ=="
+secured: "pt5BA212EX92liAFK/VTrFM8L97JC15We51qJ8uKehoIoGsmfVBCuX9kTIT6pd1DOpqPLg2oqSmXhq1ykSaofNSH4R1AATR8aRGd2ehDVTu2m7SJr/tyaAiItafCOuyRPpqNNWd4cTcBtTFuhu7OtyuqST7IWXLw6F5lb9farWwEaSLqupQ8XxP/NoXp5aNY7QXcbqHxnXi41Yd77gaNVNweMT8TsEvJMQ/HTBJqldzf/X3uE8hE2OrgfpUdVS/d2y8bTNcoI4lT3zDxJDKhJw==;eUOtkIKSwpbA4cMxD3MYLg=="
 ---
 
