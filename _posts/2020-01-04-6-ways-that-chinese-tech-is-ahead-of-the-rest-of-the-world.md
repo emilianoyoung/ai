@@ -3,9 +3,9 @@ category: news
 title: "6 ways that Chinese tech is ahead of the rest of the world"
 excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
 publishedDateTime: 2020-01-04T12:00:00Z
-sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+sourceUrl: https://www.techradar.com/in/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+ampUrl: https://www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
 heat: 174
@@ -163,6 +163,6 @@ related:
         width: 700
         height: 494
 
-secured: "Oh5q9ANiDL2rnuw6+pdolJY0sCfp2LjBf+pw6wzIbajkdbkzSl9tDc44/UH5Yf1F3C4Nf3dQ7dI2GtEZg3E5cEp4KGA9kDBKX6gBfF0sfmU4ncKAkddA2/6aECRhT0OZNTxTCG/MN+4C0o262cOyGkt3C46QYDBlpZbmxnNJaGk0mOUshHzN0VZgFtW6zsKfVj9M7pMgy9RHRZILbV7Rp337B1JvH78yA8GNXtuoea0Gd9aR11jvDc0mfkwu0co+TSBKrwPMNXPdZBqzZeyZ0Q==;omwPrPl9n/wR/xFHpWzALw=="
+secured: "x273mne8geHUPpuoJUbYN77NS+6gRqU80iGdTeO4Yrj1142WRo0PoeTUSesFnHz1iOIXvAGEQdKtImMZETfg140NhPi4/H7hZ7489awgpmbAcR0jz72gMU9g1iRXQGfnwnsotv/ZbOd3Z3NVtNw3PFnv+XB6DD45Z2C5wReqR9J7DSClT+3djjynAC9ZTCb1FfjI1ad+q4QCC/x3BH2djZRZtmhvBVqVxoWXSMn3wPLUI8vAZSIaxC+iVfJvMaIE6NIaMLgBKDL6dpwWeANMgA==;7Ad+c1U0MNnXvDlmXkqDNg=="
 ---
 

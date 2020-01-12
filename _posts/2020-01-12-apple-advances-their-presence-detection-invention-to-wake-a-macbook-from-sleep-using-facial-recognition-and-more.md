@@ -1,31 +1,27 @@
 ---
 category: news
-title: "How Deepfakes Make Disinformation More Real Than Ever"
-excerpt: "Originating with an early practitioner and Reddit user named “ deepfakes,” the name appears to give a nod to deep learning, a subset of machine learning that uses layers of artificial neural networks to train computers to perform a task. With deepfake videos, a program is typically fed high-quality images of a target’s face and then ..."
-publishedDateTime: 2020-01-06T05:01:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2020-01-06/how-deepfakes-make-disinformation-more-real-than-ever-quicktake
+title: "Apple advances their Presence Detection Invention to Wake a MacBook from Sleep using Facial Recognition and more"
+excerpt: "One of the main features is using facial recognition up to 5 feet away. This would require their TrueDepth Camera to be updated. On that specific point, Bloomberg reported a year ago that Apple was working to advance their TrueDepth camera that could work at 15 feet from the device in contrast to their current iPhone camera that works at 25 to ..."
+publishedDateTime: 2020-01-12T11:10:00Z
+sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-advances-their-presence-detection-invention-to-wake-a-macbook-from-sleep-using-facial-recognition-and-more.html
 type: article
-quality: 54
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Patently Apple
+  domain: patentlyapple.com
 
 topics:
   - AI
-  - Machine Learning
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.2358710B03AE05FE1F303243B86B9599
-    width: 700
-    height: 505
-    title: "How Deepfakes Make Disinformation More Real Than Ever"
+  - url: https://www.bing.com/th?id=ON.7B90AE09EE8F43C4850EF5A1F1D8A9BF
+    width: 600
+    height: 344
+    title: "Apple advances their Presence Detection Invention to Wake a MacBook from Sleep using Facial Recognition and more"
 
 related:
   - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
@@ -73,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.06683A690FCD6DC844296A06F69046E8
         width: 700
         height: 490
+  - title: "How Deepfakes Make Disinformation More Real Than Ever"
+    excerpt: "Originating with an early practitioner and Reddit user named “ deepfakes,” the name appears to give a nod to deep learning, a subset of machine learning that uses layers of artificial neural networks to train computers to perform a task. With deepfake videos, a program is typically fed high-quality images of a target’s face and then ..."
+    publishedDateTime: 2020-01-06T05:01:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-06/how-deepfakes-make-disinformation-more-real-than-ever-quicktake
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2358710B03AE05FE1F303243B86B9599
+        width: 700
+        height: 505
   - title: "Facebook vows to crack down on ‘misleading’ deepfakes"
     excerpt: "Facebook today announced it will ban misleading manipulated media — including ... someone into thinking that a subject of the video said words that they did not actually say. It is the product of artificial intelligence or machine learning that merges, replaces or superimposes content onto a video, making it appear to be authentic."
     publishedDateTime: 2020-01-07T07:40:00Z
@@ -211,19 +220,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D13D048737B9ABE88723849D2A5A1D89
         width: 620
         height: 386
-  - title: "Apple advances their Presence Detection Invention to Wake a MacBook from Sleep using Facial Recognition and more"
-    excerpt: "One of the main features is using facial recognition up to 5 feet away. This would require their TrueDepth Camera to be updated. On that specific point, Bloomberg reported a year ago that Apple was working to advance their TrueDepth camera that could work at 15 feet from the device in contrast to their current iPhone camera that works at 25 to ..."
-    publishedDateTime: 2020-01-12T11:10:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-advances-their-presence-detection-invention-to-wake-a-macbook-from-sleep-using-facial-recognition-and-more.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.7B90AE09EE8F43C4850EF5A1F1D8A9BF
-        width: 600
-        height: 344
   - title: "Facebook to ban deepfakes, sources say, but new policy may not cover controversial Pelosi video"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 percent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T15:02:00Z
@@ -260,6 +256,6 @@ related:
         width: 600
         height: 433
 
-secured: "WJJvVdwIfOyNtcAvqJHa3Ns0LrZT3wdG6UYRxGYr8oDhkjkuL6T+jc2ZGkUI/86mqfNUl7UeHWqxnWrRo2qA+OWsZndy4KKcSsjfRi6Yl61mgkUrLcNeosqWXiNXnLLXH/rCbliMVZ+I7tgbe4ckLaTWtF+HtKnAWuJdazzAfxFxdGkWNusRuGeoxEDebLFKx33XGWcu5K8258OlVLdfZU3cLOnTvBLQTO6jOVPBtBJkT10DWXaq8A0TDfzVcyCROdeNsgEnvUCUv3CeMYE5dw==;5bWLkATnCvRk453K6hz0nw=="
+secured: "5F/4I/P/f/+9yaaCLMUxcQn9FyZZ6YHK7Z2iwBzWhmvqfefdAcj8pif7IdmIK61NbVGNpYRfjKzVwoP31Cau6dlJYOzEdEADs0rtCu2V1TOGOlE63EVfIHZIN0DODbecxnftHXzftM5hw1z79eWeIM3CevFejtDeymlmBzbXSqUutVOoIpAjkg3e1wDQpmP6cO1N4ygGGCzwNKippWZnMMox+YF+tOSP2m8iYeG51Wvm6nfBNRhCiKHienvjOqTHS64kVJ0hoNzaT3ZtUgbXlg==;HPwBJ95CSPCB2mKaRkBSeg=="
 ---
 

@@ -2,29 +2,22 @@
 category: news
 title: "Machine learning: the big risks and how to manage them"
 excerpt: "It creates a significant knowledge gap in the boardrooms of financial services firms and within policymaking institutions about the challenges and hazards posed by machine learning. Given the international nature of financial markets, these are all ..."
-publishedDateTime: 2019-12-23T10:23:00Z
+publishedDateTime: 2019-12-23T10:24:00Z
 sourceUrl: https://www.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
 ampUrl: https://amp.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
 cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
 type: article
-quality: 61
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
+  name: Financial Times
   domain: ft.com
 
 topics:
   - AI
   - AI in Finance
-  - Machine Learning
-
-images:
-  - url: https://www.bing.com/th?id=ON.4D96CCDD2095E85072C969F35286CC53
-    width: 700
-    height: 393
-    title: "Machine learning: the big risks and how to manage them"
 
 related:
   - title: "Microsoft’s Andrew Shuman on the Cortana app’s death, natural language, and Alexa"
@@ -43,6 +36,6 @@ related:
         width: 700
         height: 350
 
-secured: "aMEB40Evp4H6e+8UdNHJLBgfrjR5DI6ZCAb+ko82+LASJ8UFbtb2ZH86T0lgZUwx0M5vSlQ2BQbT3+gooRYDZdGr+jiMPM1Q6trhIu0vIhXgFbbrBG1YoKROl8Rbh/M2+vUyBA5w2Rnjuec+b8o8fzEQN50j7CTgEjBCctVJOYnapsYOxMnsa2Yzq5DSQexsoyiEjTu0QSoDbzHlIBbQu6mi9H7FiHMQdlXUdvSwyx71Ivr/flubjI3s1i8iM+h1YqzBsnletkfqMg11KL+big==;TeR++PitGPZL0p522won6A=="
+secured: "JnCjDoe9Go5ngLvaRDLsPE6ft2f253vBeWeg5OMvm9RF5p6DY7fcGcpptiWIQkpNhtWUYNVkhAHIJ3hX6P6YZAgdEAj39RiNgTQw4gAf9NaDpaxpRU5y8o0E+LxxVceL92ezZrumHRDBjfq0I9d2mxnYYnq5w2YByO9Ud+c0ZaCNxr8EkiI4aqd4tabxeWOEt3Lreik7weyuW2JckHvAPvE1nqXMz0KicCjIt+HagI/f5/r3+p2ex1FhKJGgymbVcLv+Zgsn6Ivwk2yRyk2WNw==;0c/Ax4mNtAvwNTwmIXK8eg=="
 ---
 
