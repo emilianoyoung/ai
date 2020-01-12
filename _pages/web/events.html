@@ -1,0 +1,13 @@
+---
+title: "AI Events"
+excerpt: "AI conferences and webinars."
+---
+
+{% include jify function="render_posts" 
+    post_collection="events"
+    order_by="startDateTime"
+    order="DESC"
+    format="list"
+    list_class="post-list"
+    num_of_posts=20 
+    show_post_excerpt=true %}

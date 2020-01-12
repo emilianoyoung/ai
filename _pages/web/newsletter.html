@@ -1,13 +1,11 @@
 ---
-layout: page
-title: "AI Events"
-excerpt: "AI conferences and webinars."
-permalink: /web/events/
+title: "AI Daily Digests"
+excerpt: "Recent daily digests presented by AI Inside Out."
 ---
 
 {% include jify function="render_posts" 
-    post_collection="events"
-    order_by="startDateTime"
+    post_collection="newsletter"
+    order_by="publishedDateTime"
     order="DESC"
     format="list"
     list_class="post-list"
