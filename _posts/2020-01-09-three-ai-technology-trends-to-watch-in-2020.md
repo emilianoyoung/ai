@@ -59,6 +59,19 @@ related:
       - url: https://www.bing.com/th?id=ON.58633CB2E1E500BCA7EB8BDD05EF6A8E
         width: 700
         height: 393
+  - title: "Artificial Intelligence Stocks to Watch in 2020"
+    excerpt: "Some of these technologies include Machine Learning (MI), Natural Language Processing (NLP), Predictive Analysis, Image Recognition, and Robotics. The artificial intelligence market was valued at $23.94 billion in 2018. It is expected to grow to $208.49 billion by 2025, a compound annual growth rate (CAGR) of 36.2%. The technology is already ..."
+    publishedDateTime: 2020-01-12T14:08:00Z
+    sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
+    type: article
+    provider:
+      name: ABC7
+      domain: abc-7.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.B9619FE986D8EDB98A5D3402416C05A6
+        width: 700
+        height: 466
   - title: "20 Tech Metatrends to Look out for in the 2020s"
     excerpt: "This metatrend is driven by the convergence of various biotechnologies (CRISPR, gene therapy), genome sequencing, and artificial intelligence. (1) A360 Executive Mastermind: If you’re an exponentially and abundance-minded entrepreneur who would like coaching directly from me, consider joining my Abundance 360 Mastermind, a highly selective ..."
     publishedDateTime: 2020-01-10T14:00:00Z
@@ -74,19 +87,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B4E52B61671936F78477A36071FDF3CB
         width: 700
         height: 393
-  - title: "Artificial Intelligence Stocks to Watch in 2020"
-    excerpt: "Some of these technologies include Machine Learning (MI), Natural Language Processing (NLP), Predictive Analysis, Image Recognition, and Robotics. The artificial intelligence market was valued at $23.94 billion in 2018. It is expected to grow to $208.49 billion by 2025, a compound annual growth rate (CAGR) of 36.2%. The technology is already ..."
-    publishedDateTime: 2020-01-12T14:08:00Z
-    sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
-    type: article
-    provider:
-      name: ABC7
-      domain: abc-7.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.B9619FE986D8EDB98A5D3402416C05A6
-        width: 700
-        height: 466
   - title: "Tech in the 2020s: Five big trends"
     excerpt: "Put together, 5G and IOT could mean anything we want it to – and dealing with this constant flood of data would require new artificial intelligence to sift through it ... Would we move any closer to AI-powered driverless vehicles becoming a mainstay on motorways? Despite the hype, Parry pointed out that what fully automated vehicles we ..."
     publishedDateTime: 2020-01-03T16:11:00Z

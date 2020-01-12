@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Artificial intelligence tracks down leukemia"
-excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of blood cancer -- acute myeloid leukemia (AML) -- with high reliability. Researchers at the ..."
-publishedDateTime: 2019-12-23T17:48:00Z
+excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
+publishedDateTime: 2019-12-23T17:46:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
 type: article
 quality: 49
@@ -53,6 +53,6 @@ related:
         width: 800
         height: 434
 
-secured: "CiuwYGDNIel1GR8woKlBNnp5/BNNQ8QN62qwrNlXAnHF1O/2RWjEK1u9PN/XlOlDVm0tUntsXKPk6xOWCsXxlxbzJRGzBhfzMQ4zR9Nqo5ZCCRmp339TO6fkRwg9pfeKvc3Htq0HBjMiUCvZGeDNbFMm2jXjhDI0zCYsnod0rkVsZ9qwOm7Kminp6O5CDlqEUKJte1gdctqa1+f77WPwpNByXw84XT+pFdJdmx6O8v8Y2Rs9n15YFgmO9nmcOHBaa8eQ2pfJxHvBD3jvAiE5Ow==;WwFVaElHUfpwq8SOBGdFVQ=="
+secured: "9ia7I8p3PpHuP4y7vChNH0WaPRu7nWe0MKQwoJmZXf6TWsyh1H3lrK/msk/86rqoymn6eIzChKfVuQyVXOQH2E1jpgGGsTTeBa0j1fr3NX8eY2msctN53pt7W/drfn+Rt+p1L37nL9/j+l6q0mRxqG7QEJT3Aj4aKnPpupS8z6Wj9oi8ECXEsHLF9p+sH7cF8w3UwT3gmlHphSmFyi0ECEuFTFUQOKhaAvZmjequxP6qZfq1DRCPtNInKEkDH9Cm+v+ZYbBfz5mFBNqoNo/bLA==;qHAcMrt5CK4KVhzoswi35A=="
 ---
 

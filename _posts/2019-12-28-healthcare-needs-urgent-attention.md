@@ -8,7 +8,7 @@ ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-att
 cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "‘Healthcare needs urgent attention’"
 
 related:
+  - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
+    excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
+    publishedDateTime: 2019-12-28T09:17:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-healthcare-sector-advancements-090148569.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.B9FA02316D03526660BE2C72951411B9
+        width: 660
+        height: 440
   - title: "How AI is Transforming Healthcare Industry"
     excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
     publishedDateTime: 2019-12-29T12:06:00Z

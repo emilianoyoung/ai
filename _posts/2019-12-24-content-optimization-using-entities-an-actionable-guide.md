@@ -25,6 +25,17 @@ images:
     height: 240
     title: "Content optimization using entities: An actionable guide"
 
+related:
+  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
+    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
+    publishedDateTime: 2019-12-23T20:30:00Z
+    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 5
+
 secured: "nrCW79uYt/efkoQ3U26qJMNv1ZVELLmtnUyCCWCA/TbA8ebFgnwtmFT7FhktXhvChfDrQX5k4pz+FqVD1F0/9QdF36FGNaxH6oOTUIXYu5/T/wwOKWt5iu9EEA4inJDKaryCoOxql4ugJ4805giIQC2BlkT5A9W9XWhYtHK56bIPrV6+uM2dwdSIWnG2xqVWxjnNsVZ8xhKrDGatuiYio0TPA2BWsA1pnp27hfN6QnJq3XJb2P4864693fsoiLZDz6BT+7svOtswayXa8Oe4Hg==;ZLelti/V6WOc/NUwaO0vQw=="
 ---
 

@@ -1058,15 +1058,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
         width: 700
         height: 344
-  - title: "It’s hard to ban facial recognition tech in the iPhone era"
-    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
-    publishedDateTime: 2019-12-23T17:22:00Z
-    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 19
   - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
     excerpt: "Biometric facial recognition generated $4.51 billion in 2018, and will grow at a 12.5 percent CAGR to reach a market value of $9.06 billion by 2024, according to a new Mordor Intelligence report, with surveillance and security systems and plans like Biometric Entry/Exit contributing significantly. The report notes that governments, including ..."
     publishedDateTime: 2020-01-05T23:01:00Z

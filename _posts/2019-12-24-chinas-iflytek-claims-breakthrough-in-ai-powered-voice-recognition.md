@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
         width: 640
         height: 433
+  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Amazon is patenting hand-recognition technology, and it could be implemented in Amazon Go stores"
     excerpt: "The technology would identify people's hands by analyzing characteristics like wrinkles, veins, and even bone."
     publishedDateTime: 2019-12-27T13:20:00Z
@@ -78,17 +91,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
         width: 700
         height: 495
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
 
 secured: "BXxuWtD+y0S3kZD3nOQ6ggUTte6af12XppBcrOWUaRPNfodOhQ2yKa3C1AQY+JFnRMv5fip5OuHs0RsJsqpgxeqEzhJzCmDaxmegzhs4gS777qJ0wAPhbn6FSPAei3HvtvCRKhNzr77u7Wo0Feex4/WVpHDItZOHb8ER6dQRh0dYEmkWOl5wIAy0P4FPRKFLVoad0JApKIV/c6KiIapPytd9INbo+08rys+vrzfoUfPeNvN3ANW1SDWdat+B4NQJuwdzN1XBesyI9rF0ivmiEg==;BQT6h6deL7D70pgeJYLbGg=="
 ---

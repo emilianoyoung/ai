@@ -2,7 +2,7 @@
 category: news
 title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
 excerpt: "Artificial intelligence is a much-discussed topic in medicine ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
-publishedDateTime: 2019-12-23T12:56:00Z
+publishedDateTime: 2019-12-23T18:26:00Z
 sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
 ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
 cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
@@ -20,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.F4ACE41A00EB0163B210C15E866358A4
-    width: 300
-    height: 250
+  - url: https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg
+    width: 1200
+    height: 1000
     title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
 
 related:
@@ -42,8 +42,8 @@ related:
         width: 800
         height: 434
   - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of blood cancer -- acute myeloid leukemia (AML) -- with high reliability. Researchers at the ..."
-    publishedDateTime: 2019-12-23T17:48:00Z
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
+    publishedDateTime: 2019-12-23T17:46:00Z
     sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
     type: article
     provider:
@@ -51,6 +51,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "iwzPYnxUyzGTH3+SE9ZCal4NFUCCvmVpixvwokNzu1DYH4JNrfV6uHPoAP0cxYWGf5TqkPLwePWGBzmb74nO7CZaFAhtJf45jFZ5P6mVwgmjorebzKJHjDEkUS+xuyHx98a7MIImX6j0xo8qDo1ikZK7CMjrZBTQw8Mi1bCv8RVSWMAvlmX4yOKaBfkPdQjacNe1fZd6wB9T+2kYlVSrMBOrPf/6/V3VXQ5AsFdgbVPxShCTW+vLZYgWhCyFIBCQZ/T9TgXXbc+rkcQZY0dkHw==;KjSnLUomHLoK2Q8922mmuA=="
+secured: "DTriQbJNfVfUipJvygXwMDAOIUmQXnF/FWjOVFNeMZL/oG5/snVZFbbmJiexv2kMR18yHFN6VRxRKZVBc3Oq7HaTe7Dy+yxjXeetfY6C4+SolHR1Mg5N8Zqn5BNBgh01wiaWl6qEYqZqBbXoHbxlfv9ZNmpd6lR3HZkbgvxTUxmctHNz5r8DjEG5cHm2YTBxf4Ibzj11jcxzLyC2uwmkH1TWVXZxUKS1529eliz7ycgZuIDr4i0pjG5Czg9bnzCObmn8Nxg/GlozD6eQiNfw2w==;VGAZo3it48iyvvY1XnIJpA=="
 ---
 
