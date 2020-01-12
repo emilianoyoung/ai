@@ -24,6 +24,6 @@ images:
     height: 300
     title: "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025"
 
-secured: "B4aEC7Ggew1H0uBFt7jPur3iLy7DYeW8amZ7U+Zx+G1c94ZkU130l1L+x/fUWAmT+CjfI6wCb1M/eN2a3ZGJ/+7+N8OtZTu7ue6952wveO4OYSXZBBm8iTGWS3y17B570A9GXA+JnobISOHJiembwfs8Xpd3MGiW4y10FcEaRA++PgaRkJ3hZ2zLXnY/TkzCqHAsmXbieonxmIKMGOiMYDkZszN1fCVaC8q7S4PFyfBqXXVbOO/7Tx7FFsqrr9DEf9YM69dMDXwZQMtwRtaKjw==;Jk1e4XN1kFkuU0lcPHRAPg=="
+secured: "e5eTjUZj6/dnyAS65eaAUZAUMOoN3EZEBFMiozOMSyWCgOXYRDDoWEn+uWO49gPFjFYKGPyZv+MtSeoZRV4a6E5H69lroE7ZF/OTcP6if3zK54c8rb4bXNGTfLtOlR9jWkLiLplp4oI6iXqPTBJh/30MuxJ7yBUlsTblpusBjRCM0ZXHiK+VQAzJj47FSLnGJBbc8CSPxzXvgM03M4CZ559exlwhSxfDt767/jVognR3vo8OXYbs3udut9Q1bm/uDi8NQLJoqzIXA3yon0qFIw==;jG+7ssb+g8UBAGvy10kA7A=="
 ---
 

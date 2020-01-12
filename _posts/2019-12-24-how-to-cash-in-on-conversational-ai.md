@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A5B8B3203D13434C93047A4F6E0A52E5
         width: 700
         height: 525
-  - title: "AI used for creation of novel, unconventional artworks"
-    excerpt: "A lot of talk is going on about unconventional and extravagant works of art created by artificial intelligence (AI) -- currently on display in various places across the nation. An artistic toy car named Gangu with quirky tires and a twisted body colored in red, blue and green has been on display since Nov. 14 at the National Museum of Emerging ..."
-    publishedDateTime: 2019-12-23T06:49:00Z
-    sourceUrl: https://www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038
-    ampUrl: https://www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038?amp
-    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038?amp
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.5B94862F708E73388F33EDCAD8005302
-        width: 560
-        height: 292
   - title: "Artificial Neural Network Model (image)"
     excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
     publishedDateTime: 2019-12-26T14:59:00Z

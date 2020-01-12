@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Why do we gender AI? Voice tech firms move to be more inclusive"
-excerpt: "Gender-neutral voice assistants and accent recognition among projects in the pipeline"
-publishedDateTime: 2020-01-11T08:00:00Z
-sourceUrl: https://www.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
-ampUrl: https://amp.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
-cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
+excerpt: "Technology that can understand regional accents and gender-neutral voice assistants are among the developments expected in the voice technology field in 2020. Products such as Alexa and Siri have faced mounting criticism that the technology behind them disproportionately misunderstands women,"
+publishedDateTime: 2020-01-11T08:36:29Z
+sourceUrl: https://www.msn.com/en-za/money/technology/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive/ar-BBYQJHm
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: The Guardian on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.89152B8F5675C238ACA3E596AF9EC2A6
+  - url: https://www.bing.com/th?id=ON.14ACC84864B4EACA0E91FD6EC86280AA
     width: 700
     height: 367
     title: "Why do we gender AI? Voice tech firms move to be more inclusive"
 
-secured: "p1kGhvfC5F/BvK3q4peTqUnUQVFsV2L4jMYgKhiFdGRXop+aNcInzzRtRlDLhj8E9XrcePpG0sfje1Mrd32eZ0YFPHZ4HlGsiOoqUySd7JzXaxCNoZVF2WQlYnINi1gdjBkmgirO+zeSiqdLmMpLo1P/cluPWAD+vB/1eZAT51zVuSl++fKFTpdb8+N8ajpMzYlWB2WSxTmF0kQYgFFzasvmvNQZOL/dI13r3OB5282ot+YIlg2Xgf03MxDTgR1BFvVVlDFilJbIwqMDxiyGSA==;zv+wFmfjQ785NlHl9R8VzQ=="
+secured: "YlIgls40t6i2fHJLHrHvTYApn5hOjw9QjNAEL9+AgfBnUqiTL/jUBht+Ra0/BbgW4H5gTAu/ZjyEzFhi3KhDVWwnmckOIZaIsmVINQe0e21xOnhKVw4gJv3jHCNG05FCBhhIOgffLHviS3jgvP1PXWqNPYiMPdswtkK/ATKqcxwRScc5sDdHn100jlHZuTUgapEfqWWfeENPxCI1pis97OWOW0ZpE31f+Lk2zMAxtHp6Y6/vyX5FAGFzzGIoi65qUbJ4xARn0GC49C9ckx6RBg==;PFHDncMkO5xHcVzymoy/Gw=="
 ---
 
