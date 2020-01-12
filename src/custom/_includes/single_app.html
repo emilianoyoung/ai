@@ -1,0 +1,84 @@
+<div class="single-app">
+    {% if app.released -%}
+    <a href="{{ app.url }}">
+    {% endif -%}
+    <img class="app-icon" src="{{ app.image }}" alt="{{ app.name }}">
+    <h3>{{ app.name }} <small>Inside Out</small></h3>
+    {% if app.released -%}
+    </a>
+    {% endif -%}
+
+    {% if app.released -%}
+    <a class="subscribe-button" id="subscribe-button-{{ app.subscription_form_id }}" form-id="{{ app.subscription_form_id }}"
+        href="https://insideout.news/mailster/form?id={{ app.subscription_form_id }}">
+        <span class="subscribe-label"><i class="fas fa-envelope"></i>Subscribe</span>
+        <span class="subscribed-label"><i class="fas fa-check"></i>Subscribed</span>
+    </a>
+    <a class="android download-button" href='{{ app.android_download_url }}'>
+        <img class="visible-in-light" alt='Get it on Google Play' src="/assets/images/google-play-download-button-light.png" />
+        <img class="visible-in-dark" alt='Get it on Google Play' src="/assets/images/google-play-download-button-dark.png" />
+    </a>
+    {% else -%}
+    {% assign progress = app.registered | times: 100 | divided_by: app.registration_target -%}
+    <a class="subscribe-button progress-button" id="subscribe-button-{{ app.subscription_form_id }}" form-id="{{ app.subscription_form_id }}"
+        href="https://insideout.news/mailster/form?id={{ app.subscription_form_id }}">
+        <span class="progress-value background-horizontal" style="width: {{ progress }}%;"></span>
+        <span class="subscribe-label"><i class="fas fa-envelope"></i>Vote</span>
+        <span class="subscribed-label"><i class="fas fa-check"></i>Voted</span>
+    </a>
+    <div class="votes">
+        <div class="text-left" style="float: left">
+            <div><strong>{{ app.registered }}</strong></div>
+            <div>REGISTERED</div>
+        </div>
+        <div class="text-right">
+            <div><strong>{{ app.registration_target }}</strong></div>
+            <div>TARGET</div>
+        </div>
+    </div>
+    {%- endif %}
+
+    <div id="subscribe-modal-{{ app.subscription_form_id }}" class="modal">
+        <div class="modal-content">
+            <div>
+                <span class="close">&times;</span>
+            </div>
+            <div class="single-app">
+                <img class="app-icon" src="{{ app.image }}" alt="{{ app.name }}">
+                <h3>{{ app.name }} <small>Inside Out</small></h3>
+                <span>{{ app.excerpt }}</span>
+            </div>
+            {% if app.released -%}
+                {% assign button_label = "Subscribe" -%}
+            {% else -%}
+                {% assign button_label = "Pre-register" -%}
+            {% endif -%}
+            <form action="https://insideout.news/mailster/subscribe" method="post" form-id="{{ app.subscription_form_id }}"
+                class="mailster-form mailster-form-submit">
+                <input name="_action" type="hidden" value="subscribe">
+                <input name="_referer" type="hidden" value="extern">
+                <input name="_nonce" type="hidden" value="55922c927f">
+                <input name="formid" type="hidden" value="{{ app.subscription_form_id }}">
+                <div class="newsletter-wrapper">
+                    <i class="fas fa-envelope"></i>
+                    <input id="mailster-email-{{ app.subscription_form_id }}" name="email" type="email" value="" placeholder="Your email *"
+                        class="input email mailster-required" aria-required="true" aria-label="Your email" required
+                        spellcheck="false">
+                    <input name="submit" type="submit" value="{{ button_label }}" class="submit-button button"
+                        aria-label="{{ button_label }}">
+                </div>
+                {% if app.released -%}
+                <span>Subscribe to a weekly summary about {{ app.name }}.</span>
+                {% if app.recent_issues -%}<div><a href="{{ app.recent_issues }}">See recent issues</a></div>{% endif -%}
+                {% else -%}
+                <span>Receive updates when the app is released.</span>
+                {% endif -%}
+            </form>
+            <hr />
+            <small>
+                Easy to unsubscribe at any time. Your e-mail address is safe. Here's our <a target="_blank" href="/privacy">privacy policy</a>.
+            </small>
+        </div>
+    </div>
+</div>
+<!--/.single-app-->

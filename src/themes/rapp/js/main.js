@@ -1,4 +1,4 @@
-$(function($) {
+$(function ($) {
 
   "use strict";
 
@@ -15,7 +15,7 @@ $(function($) {
     var wScroll = $(this).scrollTop();
 
     // Activate menu
-    if (wScroll >50) {
+    if (wScroll > 50) {
       $('.navbar').addClass('active_sc');
     }
     else {
@@ -71,25 +71,25 @@ $(function($) {
     dots: true,
     nav: false,
 
-        animateOut:'fadeOutDown',
-        animateIn:'fadeInDown',
-        responsiveClass: true,
-        responsive: {
-            0: {
-                items: 1,
-                nav: false
-            },
-            600: {
-                items: 2,
-                nav: false
-            },
-            768: {
-                items: 4,
-                nav: false,
-                loop: true
-            }
-        }
-    });
+    animateOut: 'fadeOutDown',
+    animateIn: 'fadeInDown',
+    responsiveClass: true,
+    responsive: {
+      0: {
+        items: 1,
+        nav: false
+      },
+      600: {
+        items: 2,
+        nav: false
+      },
+      768: {
+        items: 4,
+        nav: false,
+        loop: true
+      }
+    }
+  });
 
   /*=========================== screenshot app ===========================*/
 
@@ -99,39 +99,39 @@ $(function($) {
 
   /*=========================== our team ===========================*/
 
- var owls = $("#team-slider");
-    owls.owlCarousel({
+  var owls = $("#team-slider");
+  owls.owlCarousel({
 
-        autoplay: true,
-        autoplayTimeout:6000,
-        autoplayHoverPause:true,
+    autoplay: true,
+    autoplayTimeout: 6000,
+    autoplayHoverPause: true,
+    items: 3,
+    loop: true,
+    center: false,
+    margin: 10,
+    stagePadding: 0,
+    dots: true,
+    nav: false,
+
+    animateOut: 'fadeOutDown',
+    animateIn: 'fadeInDown',
+    responsiveClass: true,
+    responsive: {
+      0: {
+        items: 1,
+        nav: false
+      },
+      600: {
+        items: 2,
+
+      },
+      768: {
         items: 3,
-        loop: true,
-        center: false,
-        margin: 10,
-        stagePadding: 0,
-        dots:true,
-        nav:false,
 
-        animateOut:'fadeOutDown',
-        animateIn:'fadeInDown',
-        responsiveClass: true,
-        responsive: {
-            0: {
-                items: 1,
-                nav: false
-            },
-            600: {
-                items: 2,
-
-            },
-            768: {
-                items: 3,
-
-                loop: true
-            }
-        }
-    });
+        loop: true
+      }
+    }
+  });
 
   /*=========================== our team ===========================*/
 
@@ -139,38 +139,38 @@ $(function($) {
 
   /*=========================== testimonials ===========================*/
 
- var owls = $("#testimonial-owl");
-    owls.owlCarousel({
+  var owls = $("#testimonial-owl");
+  owls.owlCarousel({
 
-        autoplay: true,
-        autoplayTimeout:6000,
-        autoplayHoverPause:true,
+    autoplay: true,
+    autoplayTimeout: 6000,
+    autoplayHoverPause: true,
+    items: 2,
+    loop: true,
+    center: false,
+    margin: 15,
+    stagePadding: 0,
+    dots: false,
+    nav: true,
+
+    animateOut: 'fadeOutDown',
+    animateIn: 'fadeInDown',
+    responsiveClass: true,
+    responsive: {
+      0: {
+        items: 1,
+      },
+      600: {
         items: 2,
-        loop: true,
-        center: false,
-        margin: 15,
-        stagePadding: 0,
-        dots:false,
-        nav:true,
-
-        animateOut:'fadeOutDown',
-        animateIn:'fadeInDown',
-        responsiveClass: true,
-        responsive: {
-            0: {
-                items: 1,
-            },
-            600: {
-                items: 2,
-            },
-            768: {
-                items: 2,
-                nav: true,
-                loop: true
-            }
-        },
-        navText : ["<i class='fas fa-angle-left fa-2x'></i>","<i class='fas fa-angle-right fa-2x'></i>"]
-    });
+      },
+      768: {
+        items: 2,
+        nav: true,
+        loop: true
+      }
+    },
+    navText: ["<i class='fas fa-angle-left fa-2x'></i>", "<i class='fas fa-angle-right fa-2x'></i>"]
+  });
 
   /*=========================== testimonials ===========================*/
 
@@ -178,40 +178,98 @@ $(function($) {
 
   /*=========================== home slider ===========================*/
 
- var owls = $("#home-slider-owl");
-    owls.owlCarousel({
+  var owls = $("#home-slider-owl");
+  owls.owlCarousel({
 
-        autoplay: true,
-        autoplayTimeout:6000,
-        autoplayHoverPause:true,
-        items: 1,
-        loop: true,
-        center: false,
-        margin: 0,
-        stagePadding: 0,
-        dots:true,
-        nav:false,
+    autoplay: true,
+    autoplayTimeout: 6000,
+    autoplayHoverPause: true,
+    items: 1,
+    loop: true,
+    center: false,
+    margin: 0,
+    stagePadding: 0,
+    dots: true,
+    nav: false,
 
-        animateOut:'fadeOut',
-        animateIn:'fadeInLeft',
+    animateOut: 'fadeOut',
+    animateIn: 'fadeInLeft',
 
-    });
+  });
   /*=========================== home slider ===========================*/
 
 
+  /*=========================== subscribe buttons ===========================*/
+  var modal = null;
 
+  $(".subscribe-button").click(function (event) {
+    event.preventDefault();
+    if ($(this).hasClass("subscribed")) {
+      return;
+    }
+    var dialogId = "#subscribe-modal-" + $(this).attr('form-id');
+    $("body").addClass("modal-open");
+    modal = $(dialogId);
+    modal.show();
+    var email = localStorage.getItem("email");
+    if (email != null) {
+      $(".email", modal).val(email);
+    }
+  });
 
+  $(".close").click(function () {
+    $("body").removeClass("modal-open");
+    if (modal != null) {
+      modal.hide();
+      modal = null;
+    }
+  });
 
- // ------------------------------- AOS Animation
-        AOS.init({
-          duration: 1000,
-          mirror: true
-        });
+  $(window).click(function (event) {
+    if (modal != null && event.target == modal[0]) {
+      $("body").removeClass("modal-open");
+      modal.hide();
+      modal = null;
+    }
+  });
+
+  $(".mailster-form").submit(function (event) {
+    var email = $(".email", this).val();
+    localStorage.setItem('email', email);
+
+    localStorage.setItem('scrollTop', document.documentElement.scrollTop);
+
+    var currentFormId = $(this).attr("form-id");
+    var subscribedForms = localStorage.getItem("subscribed");
+    if (subscribedForms) {
+      subscribedForms += "," + currentFormId;
+    } else {
+      subscribedForms = currentFormId;
+    }
+    localStorage.setItem("subscribed", subscribedForms);
+  });
+
+  var subscribedForms = localStorage.getItem("subscribed");
+  if (subscribedForms != null) {
+    var formIds = subscribedForms.split(",");
+    for (var i = 0; i < formIds.length; i++) {
+      var buttonId = "#subscribe-button-" + formIds[i];
+      $(buttonId).addClass("subscribed");
+    }
+  }
+
+  /*=========================== subscribe buttons ===========================*/
+
+  // ------------------------------- AOS Animation
+  AOS.init({
+    duration: 1000,
+    mirror: true
+  });
 
   //counter js
-    $('.counter').counterUp({
-        delay: 10,
-        time: 2000
-    });
+  $('.counter').counterUp({
+    delay: 10,
+    time: 2000
+  });
 
 });

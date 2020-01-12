@@ -1,0 +1,32 @@
+- name: Cloud
+  excerpt: "A growing catalog of Cloud Computing news, learning, celebrities, events, and many more."
+  image: /assets/images/apps/cloud.png
+  category: technology
+  released: true
+  url: https://fiona-bi.github.io/cloud/
+  subscription_form_id: 4
+  android_download_url: http://play.google.com/store/jkfds?pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+- name: EV
+  excerpt: "Electric vehicle news, companies, influencers, and many more."
+  image: /assets/images/apps/ev.png
+  category: technology
+  released: false
+  subscription_form_id: 6
+  registered: 123
+  registration_target: 3000
+- name: Quantum
+  excerpt: "Quantum Computing news, learning, companies, influencers, and many more."
+  image: /assets/images/apps/quantum.png
+  category: technology
+  released: false
+  subscription_form_id: 9
+  registered: 1
+  registration_target: 3000
+- name: Blockchain
+  excerpt: "Blockchain technology news, learning, companies, influencers, and many more."
+  image: /assets/images/apps/blockchain.png
+  category: technology
+  released: false
+  subscription_form_id: 10
+  registered: 1
+  registration_target: 3000

@@ -1410,6 +1410,8 @@ Start App Listing style
 
 .app-listing .appbox {
   float: left;
+  margin-top: 30px;
+  border-top: 1px solid #dfe1e5
 }
 
 .app-listing-sec .single-app {
