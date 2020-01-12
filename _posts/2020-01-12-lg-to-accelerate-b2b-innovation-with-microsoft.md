@@ -1,48 +1,44 @@
 ---
 category: news
-title: "LG To Accelerate B2B Innovation With Microsoft"
-excerpt: "LAS VEGAS, Jan. 9, 2020 /PRNewswire/ -- LG Electronics (LG) is working with Microsoft to build its automotive infotainment systems, building management systems and other business-to-business collaborations."
-publishedDateTime: 2020-01-09T16:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/lg-to-accelerate-b2b-innovation-with-microsoft-2020-01-09
+title: "LG to accelerate B2B innovation with Microsoft"
+excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG’s B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG’s autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond ..."
+publishedDateTime: 2020-01-12T09:00:00Z
+sourceUrl: https://www.zawya.com/uae/en/press-releases/story/LG_to_accelerate_B2B_innovation_with_Microsoft-ZAWYA20200112082720/
+ampUrl: https://www.zawya.com/uae/en/story/amp/ZAWYA20200112082720/
+cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200112082720/
 type: article
-quality: 69
-heat: 109
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "LG To Accelerate B2B Innovation With Microsoft"
+  - url: https://www.bing.com/th?id=ON.AA2E3F74660B1B446E36CD659E1E8023
+    width: 450
+    height: 317
+    title: "LG to accelerate B2B innovation with Microsoft"
 
 related:
-  - title: "LG to accelerate B2B innovation with Microsoft"
-    excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG’s B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG’s autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond ..."
-    publishedDateTime: 2020-01-12T09:00:00Z
-    sourceUrl: https://www.zawya.com/uae/en/press-releases/story/LG_to_accelerate_B2B_innovation_with_Microsoft-ZAWYA20200112082720/
-    ampUrl: https://www.zawya.com/uae/en/story/amp/ZAWYA20200112082720/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200112082720/
+  - title: "LG To Accelerate B2B Innovation With Microsoft"
+    excerpt: "LAS VEGAS, Jan. 9, 2020 /PRNewswire/ -- LG Electronics (LG) is working with Microsoft to build its automotive infotainment systems, building management systems and other business-to-business collaborations."
+    publishedDateTime: 2020-01-09T16:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/lg-to-accelerate-b2b-innovation-with-microsoft-2020-01-09
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.AA2E3F74660B1B446E36CD659E1E8023
-        width: 450
-        height: 317
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "A CES conversation with Microsoft's Tara Prakriya"
     excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
     publishedDateTime: 2020-01-09T14:54:00Z
@@ -83,6 +79,6 @@ related:
         width: 400
         height: 282
 
-secured: "Kp4zu8x1ukOfnX7FjeKNH8iMR5/uivMDuNfWi2QtZY7bxnXvmVI9JqG6izjSHVvuJcIoQ8fs+ltFM/vINXl2Xl1/RFqYKwD1Ks1cXOwu6ngHiGKSq4hC8Yad+zoKgUBB9EqDr1lY4C5D2llkLWzlv7HPckNzAW4tU/o70/QTrhYVKKgz+dXmz3gcAqqxKakvDFXX9PyV+Ud4/ShEDMbmt+DR3hBUSnfkVIFoIzsBtQaIyTJ5PB602/R7WACREmrm8X8BU3CZ1hzR9eqUeiz43Q==;gQNzMh74EyotmqhX0HkRew=="
+secured: "y1ChQB7UMhJF14kGEZSXCCHgTad0ETQgtHOs32pa2f+7QcU3NBV6d1p2uXnDsWGqc/rvu2/eBkBE+nH/Fw2GGtKRscYrZg4AqRF/G1Zcq9oClpmaw8aWvBL/K/VM8n76C5RNKA9fq8Kp3TYAFeoSN4/2T3OTrjLKs119xGyYzBqSMCdo4ZRv2mbWqWBv5VIb6eqcj1ogHBUexw+H/lGnQh3wPCE/+pABcJppZ56JXzDtKvKKf5eUYOs8d5eXb3SwFqZd015jNchRBsIh4O74GQ==;VxKmmGpcp/rEdAxwmnXaYQ=="
 ---
 

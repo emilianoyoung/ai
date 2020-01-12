@@ -58,15 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BBFD8C2D66BEFFA5DFC7ED3FE0E23DDD
         width: 700
         height: 393
-  - title: "Highlights of the day: Chinese chipmakers developing AI-based ASICs"
-    excerpt: "Chinese chipmakers are also developing HPC chips for AI and deep learning applications with the goal of volume producing them in 2021. The development in China is promising big challenges to the US vendors, such as Intel, who have been dominanting forces ..."
-    publishedDateTime: 2019-12-23T08:20:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191223VL200.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
   - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
     excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
     publishedDateTime: 2019-12-24T16:25:00Z
@@ -81,6 +72,6 @@ related:
         width: 700
         height: 288
 
-secured: "nW1gvtBhtFe1c3o/P871M5QwOw7VD2h2PooOpDmBWa6Tk/yIZ7NkGHjXfCKW4Xg5UxF95HVD/vBpw7OwR+SBwVbtODC2pP/0d+Cj5TySsL6TjknaK1E8BN+cA3Kv3vLMro4ppho7OF0wggHl9gn9cWiNC7pUq+UiwiNqUB2442nwhfM233s2tsv2HMkGIy0AT5np4UYxRhe0o3J5CLn/kc2wzAdmPGJuyjqJ5DtGMCz6ZM7BnEidsBAplZhK4/2ATXHPQ9fJk0QU78Fih70ShQ==;0vr3VxsoyKnVZFvPQp3eMg=="
+secured: "sz/ntILv7NMgwx5wHjFHm4/MhpzTyoU36uzymih83WtaBCPSvLNUdoQ7OflHL1IgHwY+8dzA/1W1+w8KyYeyu9NJ2ASzIkgEA9zcrPQkLhpfvflPVccx3smF6duM51xLiKQo3xdWKd+YH8k6WI6oB86bI+EpzJxZmqKY8BLN5ZUGhvpBLBb/ZaBuKkSJ6rp4Zfx5Ru+5tRGbtEpI7JZOh6JrrRlJlMGbIUCsA8p2gMVnkxF+BfZVd54T4CIY27NYQ34jxlGhs9ZtSXZ1htNGIA==;fFdAykleY9cYO2+rBWIAgQ=="
 ---
 

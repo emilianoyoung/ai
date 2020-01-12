@@ -8,7 +8,7 @@ ampUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-t
 cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,34 +26,47 @@ images:
     title: "How Emerging Technologies Will Radically Change the Luxury Car"
 
 related:
-  - title: "A new frontier in automate sign language interpreting with novel technologies and AI algorithms."
-    excerpt: "the AI will be trained with the generated database and will apply Natural Language Processing (NLP) and Deep Learning algorithms, so that the spoken language is recognized, converted into gestures and expressions of sign language which the Realatar can execute. Finally, thanks to HbbTV technologies, the Realatar is made accessible to people ..."
-    publishedDateTime: 2019-12-23T08:07:00Z
-    sourceUrl: https://www.euroscientist.com/a-new-frontier-in-automate-sign-language-interpreting-with-novel-technologies-and-ai-algorithms/
-    ampUrl: https://www.euroscientist.com/a-new-frontier-in-automate-sign-language-interpreting-with-novel-technologies-and-ai-algorithms/amp/
-    cdnAmpUrl: https://www-euroscientist-com.cdn.ampproject.org/c/s/www.euroscientist.com/a-new-frontier-in-automate-sign-language-interpreting-with-novel-technologies-and-ai-algorithms/amp/
+  - title: "Emerging technologies have profound impact on society: expert"
+    excerpt: "Former Director of IIT-Hyderabad U. B. Desai on Saturday highlighted the pervasive and profound impact that emerging technologies like artificial intelligence, machine learning, natural language processing, robotic process automation and Internet of Things having on society. He was speaking after inaugurating the three-day Conference on ..."
+    publishedDateTime: 2019-12-28T15:24:00Z
+    sourceUrl: https://www.thehindu.com/news/national/andhra-pradesh/emerging-technologies-have-profound-impact-on-society-expert/article30421069.ece
+    ampUrl: https://www.thehindu.com/news/national/andhra-pradesh/emerging-technologies-have-profound-impact-on-society-expert/article30421069.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/emerging-technologies-have-profound-impact-on-society-expert/article30421069.ece/amp/
     type: article
     provider:
-      name: euroscientist.com
-      domain: euroscientist.com
-    quality: 46
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.C07A94A96CCC839276125FB771334253
-        width: 700
-        height: 393
-  - title: "Improving Algorithms With High-Level Synthesis"
-    excerpt: "Sometimes the results of HLS are seen feeding back into the algorithm. Klein said he recently worked on a voice recognition system in which the original TensorFlow algorithm, as defined by the data scientists, called for a feature map of spectral data in a 99 x 40 array of floating-point numbers. “That worked great when the algorithm was ..."
-    publishedDateTime: 2019-12-30T08:06:00Z
-    sourceUrl: https://semiengineering.com/improving-algorithms-with-high-level-synthesis/
+      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
+  - title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
+    excerpt: "Artificial intelligence and fast, cheap algorithmic design will transform the automobile—and it will only get weirder from there."
+    publishedDateTime: 2019-12-23T13:00:08Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/technology-is-about-to-radically-redefine-the-luxury-car-here’s-how/ar-BBYhKKJ
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
+      name: Robb Report on MSN.com
+      domain: msn.com
     quality: 24
     images:
-      - url: https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-513307992-blue-mascot.jpg?fit=1394%2C753&#038;ssl=1
-        width: 1394
-        height: 753
+      - url: https://www.bing.com/th?id=ON.C2DE1B23AD5F331599302F2735899693
+        width: 600
+        height: 315
+  - title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
+    excerpt: "“The artificial intelligence stack has to be taught anew in each city,” Roy says ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing. The interior and exterior could be painstakingly hand-finished using ..."
+    publishedDateTime: 2019-12-24T00:07:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/emerging-technologies-radically-change-luxury-130008437.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.ABDAC4ECA902CD1AA2BB7F808B1FBD7D
+        width: 700
+        height: 393
 
 secured: "uWtqwDIjsZcsPHsk2gHbuMSvg30gRuv0W8SIjnkJv2TOHKYBzFqO1+Vp3PvZH9Dr8QmAYQaCBhNFo4p12cAdDiVFp+5AKB8cwyYwsuo8O4SLuafZPqJsp/xmME6HWEYpLYI6U/0FMwYE0akVAnOFywkqccUZE+3CRP3Sy9JGzDI3FXSed9HkT0IXGtq3YI2G5plINctX5EgMLVHxdKTDYDnOmnzIINvZnO/VVB5E/bvoXSTWcR9UvlRAdv+T3yGXM0s73z3SI10B58QHQlHxnw==;tsIMUrYeFLWhXwhO4n/0jQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BBFD8C2D66BEFFA5DFC7ED3FE0E23DDD
         width: 700
         height: 393
-  - title: "Highlights of the day: Chinese chipmakers developing AI-based ASICs"
-    excerpt: "Chinese chipmakers are also developing HPC chips for AI and deep learning applications with the goal of volume producing them in 2021. The development in China is promising big challenges to the US vendors, such as Intel, who have been dominanting forces ..."
-    publishedDateTime: 2019-12-23T08:20:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191223VL200.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
   - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
     excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
     publishedDateTime: 2019-12-24T16:25:00Z

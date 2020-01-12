@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T13:00:08Z
 sourceUrl: https://www.msn.com/en-us/autos/news/technology-is-about-to-radically-redefine-the-luxury-car-here’s-how/ar-BBYhKKJ
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
 
 related:
+  - title: "How Emerging Technologies Will Radically Change the Luxury Car"
+    excerpt: "“The artificial intelligence stack has to be taught anew in each city,” Roy says ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing. The interior and exterior could be painstakingly hand-finished using ..."
+    publishedDateTime: 2019-12-23T13:02:00Z
+    sourceUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/
+    ampUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F27421521D98E5F079B98AB4E4560E27
+        width: 700
+        height: 394
+  - title: "Emerging technologies have profound impact on society: expert"
+    excerpt: "Former Director of IIT-Hyderabad U. B. Desai on Saturday highlighted the pervasive and profound impact that emerging technologies like artificial intelligence, machine learning, natural language processing, robotic process automation and Internet of Things having on society. He was speaking after inaugurating the three-day Conference on ..."
+    publishedDateTime: 2019-12-28T15:24:00Z
+    sourceUrl: https://www.thehindu.com/news/national/andhra-pradesh/emerging-technologies-have-profound-impact-on-society-expert/article30421069.ece
+    ampUrl: https://www.thehindu.com/news/national/andhra-pradesh/emerging-technologies-have-profound-impact-on-society-expert/article30421069.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/emerging-technologies-have-profound-impact-on-society-expert/article30421069.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
   - title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
     excerpt: "“The artificial intelligence stack has to be taught anew in each city,” Roy says ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing. The interior and exterior could be painstakingly hand-finished using ..."
     publishedDateTime: 2019-12-24T00:07:00Z
@@ -38,6 +68,6 @@ related:
         width: 700
         height: 393
 
-secured: "iyL2l1zJWNa5TCk57UyBCKwM/wis8iOyhP8YM/p53xtIxv7AAC9XHXXUsboK+bj8xmyyeH4nGoXjdMTq2AZgC5p+9El0I/Gtf2AxJqfhvQ0Begi5SZTziFwxiLvCrnYX+8wQzmm96//cuGW7IEyXQRMQlLNBgWWuhOsmbTtf2+g6NuHJQlbjx0g1lpr+5ab5j2cDrFBTHZRMGjoLivMXZH+6NVkPhseTIj4BOHuMeWmwtSk/KtMeV27BCkS+9D/MWaLbgZGw2Ea7i9p0G6eMew==;j0U4UA88HMdciv2uNPwhFw=="
+secured: "PmgAo8M7Aj64kPGfBgrz9KsOold1kcUC2HhluRHnGQ/XWxLb7ZZMIwW+gfz9ytZ1Dyf3i+xO/gLdOdhxCcWCTIg7Elbq4i9qZSZPxW5ynkkcEUWWLKOVsbs4Cyh4q2X9oLJ07Xrow0rYc77sDWETy6YR4DQE4/nUzcW1JZH0ye+ijD8be13nUIj+V/wypBlJmvOeWi7ubnKM9sXxDDCdYf/778IgEoTgjCrSpcr9SopRaTGRyhw4qhToy8MW/yDMFkSQwrltC34fUTXlatyfIg==;WNagb0KLujf0qTT1a1MfpA=="
 ---
 

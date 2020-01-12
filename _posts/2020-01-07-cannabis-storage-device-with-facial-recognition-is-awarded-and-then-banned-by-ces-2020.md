@@ -8,7 +8,7 @@ ampUrl: https://www.dailymail.co.uk/sciencetech/article-7860945/amp/Cannabis-sto
 cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7860945/amp/Cannabis-storage-device-facial-recognition-awarded-banned-CES-2020.html
 type: article
 quality: 51
-heat: 61
+heat: 71
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Cannabis storage device with facial recognition is awarded and then banned by CES 2020"
 
 related:
+  - title: "Voice Recognition Used by Law Enforcement"
+    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural Language Processing (NLP). It is a branch of artificial intelligence that helps computers ..."
+    publishedDateTime: 2020-01-12T08:00:00Z
+    sourceUrl: https://i-hls.com/archives/98105
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A8495746B01F00BD47640F0E58CE4B39
+        width: 700
+        height: 393
   - title: "Carlo Ratti's Eyes of the City exhibition in Shenzhen tracks visitors with facial-recognition tech"
     excerpt: "Architect and MIT professor Carlo Ratti stokes the surveillance debate with his biennale exhibition, which is set in a working train station in China and actively uses facial-recognition technology. A part of the the Bi-City Biennale of Urbanism\\Architecture in Shenzhen, The Eyes of the City exhibition is now open at Futian station. Ratti is an ..."
     publishedDateTime: 2020-01-06T12:30:24Z
