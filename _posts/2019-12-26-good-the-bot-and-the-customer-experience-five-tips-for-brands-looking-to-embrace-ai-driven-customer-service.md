@@ -25,34 +25,21 @@ images:
     title: "Good, the Bot and the Customer Experience: Five tips for brands looking to embrace AI-driven customer service"
 
 related:
-  - title: "How To Conquer Customer Churn with AI"
-    excerpt: "We’re living in the age of the customer. Thanks to the proliferation of data, customers are more informed than ever before. There’s been a seismic shift in the power dynamic between businesses and customers. Armed with empowerment, customers are demanding that customer experience be put on a pedestal. According to research by Walker ..."
-    publishedDateTime: 2019-12-23T18:44:00Z
-    sourceUrl: https://www.forbes.com/sites/falonfatemi/2019/12/23/how-to-conquer-customer-churn-with-ai/
-    ampUrl: https://www.forbes.com/sites/falonfatemi/2019/12/23/how-to-conquer-customer-churn-with-ai/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2019/12/23/how-to-conquer-customer-churn-with-ai/amp/
+  - title: "2020: A new chapter for AI technologies in customer experience?"
+    excerpt: "With your permission, your data will be used to create a better experience for you As we come through the trough of disillusionment with AI and move toward a cloud-first ecosystem, a new era will arise where industries and governing bodies will start to draw bolder lines around ethics and proper application of machine learning for problem solving."
+    publishedDateTime: 2019-12-31T10:08:00Z
+    sourceUrl: https://www.clickz.com/2020-a-new-chapter-for-ai-technologies-in-customer-experience/259066/
+    ampUrl: https://www.clickz.com/2020-a-new-chapter-for-ai-technologies-in-customer-experience/259066/amp/
+    cdnAmpUrl: https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/2020-a-new-chapter-for-ai-technologies-in-customer-experience/259066/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ClickZ
+      domain: clickz.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.9D6F8124B7F29DFFE0C464D452F9DA27
-        width: 600
-        height: 315
-  - title: "How Companies Can Use AI to Give Customer Communications A Personal Touch"
-    excerpt: "One solution to deeper customer engagement – which can boost a company’s all-important Net Promoter Scores and fine-tune those critical Next Best Action marketing strategies – is the utilization of Artificial Intelligence (AI) for routine account and financial communications. Learn More: Want to Reach Your Customers? Strike up a ..."
-    publishedDateTime: 2019-12-26T14:35:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-companies-can-use-ai-to-give-customer-communications-a-personal-touch/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.3D354DACEBACC2E8D833F33FC12CD2D8
-        width: 600
-        height: 314
+      - url: https://www.bing.com/th?id=ON.A7FDDCE05C99B4898829F4FCFB60C3EE
+        width: 700
+        height: 247
 
 secured: "h7aTwgvkoTeMOWN3mayo5UEJZNkElFK2BzO1I41cp+kOePvuJUPe0QzP0zmWPBDuoGUTNvqllDV+hd1s3CpXls2jCFx/fgMklX9SBpQ3YMRR9J+gCK82smsLaoDE8JMqATg+cJ9wMbWo84FGbrU0Ecrmka3htJDHu08JQg8jeuhrwlE50wBKUIs5nLhFgCE/Hh4BDB0rOcv4sgKgSJHlpnH2C13OMO9Em2VW07NmLlggg/XNNsuRVXmssymIcav08qsxX2Z1z/AHu/8jCI/lPQ==;JRR7wi0pOQMHHsn4P8JeTA=="
 ---

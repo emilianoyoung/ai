@@ -31,6 +31,19 @@ related:
       - url: https://www.bing.com/th?id=ON.56EEA2283178F2343D9A73473C16A048
         width: 649
         height: 328
+  - title: "How Companies Can Use AI to Give Customer Communications A Personal Touch"
+    excerpt: "One solution to deeper customer engagement – which can boost a company’s all-important Net Promoter Scores and fine-tune those critical Next Best Action marketing strategies – is the utilization of Artificial Intelligence (AI) for routine account and financial communications. Learn More: Want to Reach Your Customers? Strike up a ..."
+    publishedDateTime: 2019-12-26T14:35:00Z
+    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-companies-can-use-ai-to-give-customer-communications-a-personal-touch/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.3D354DACEBACC2E8D833F33FC12CD2D8
+        width: 600
+        height: 314
 
 secured: "mFeIk48z2EB9OMohSKbCTYtyKENI20asJIus9QTQwKR+7aMjppv7FpqTdWkWVwwzfjYxGqRmsbH3+w4L9lGY56nZ1AiZFERBeF255mixfG7tAzsPqKjmDxzS8z73XdhYJoEE3MwyisXSkUhNwm9PaMwB5+TzTPrzqj6HNY2S+ezJP3/XPHC91IUP7EFdcO1VC2TgJa3cnqgBTD7q/hXMemQGpWY+XTH7Kd6re04MGRm/E1cR64afzQ4wc4NI7Wwurd3upNROYAiakbAkPb3qDA==;Ip7bT50oWe6FYFyEbrSHnw=="
 ---

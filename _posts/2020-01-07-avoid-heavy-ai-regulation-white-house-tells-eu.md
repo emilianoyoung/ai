@@ -249,6 +249,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E10B5EA3F96918F4A1B771FAB17A7F24
         width: 700
         height: 466
+  - title: "White House proposes guidelines for regulating the use of artificial intelligence"
+    excerpt: "In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning and motorsports in Essen, Germany. The Trump administration is proposing new rules to guide future federal regulation of artificial intelligence used in medicine, transportation and other industries."
+    publishedDateTime: 2020-01-12T19:07:00Z
+    sourceUrl: https://www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/
+    ampUrl: https://www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.95FB09D61E23AE810BCF5BE700646AE9
+        width: 700
+        height: 474
   - title: "White House Proposes 'Light-Touch Regulatory Approach' for Artificial Intelligence"
     excerpt: "Federal agencies will soon have to demonstrate that any proposed regulations for artificial intelligence technologies in the private sector abide by a new, “first-of-its-kind” series of 10 principles set forth by the Trump administration this week. “On its face, the guidance we describe provides agencies with a common sense, pro ..."
     publishedDateTime: 2020-01-07T18:49:00Z

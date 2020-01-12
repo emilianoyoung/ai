@@ -23,36 +23,28 @@ images:
     title: "How Companies Can Use AI to Give Customer Communications A Personal Touch"
 
 related:
-  - title: "How To Conquer Customer Churn with AI"
-    excerpt: "We’re living in the age of the customer. Thanks to the proliferation of data, customers are more informed than ever before. There’s been a seismic shift in the power dynamic between businesses and customers. Armed with empowerment, customers are demanding that customer experience be put on a pedestal. According to research by Walker ..."
-    publishedDateTime: 2019-12-23T18:44:00Z
-    sourceUrl: https://www.forbes.com/sites/falonfatemi/2019/12/23/how-to-conquer-customer-churn-with-ai/
-    ampUrl: https://www.forbes.com/sites/falonfatemi/2019/12/23/how-to-conquer-customer-churn-with-ai/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2019/12/23/how-to-conquer-customer-churn-with-ai/amp/
+  - title: "AI Stock News: GBT (OTCPINK: GTCH) Files Continuation For Its Communication Microchip Patent"
+    excerpt: "AI, for both mobile and fixed solutions ... security and network's capabilities. The chip communicates via satellite and/or its private network in order to connect with other same chips that are on the network. The chip is operating in real time, enabling GBT's advanced security and auto error-correction communication protocol."
+    publishedDateTime: 2019-12-31T14:20:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2019/12311CommunicationMicrochipPatent.asp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.9D6F8124B7F29DFFE0C464D452F9DA27
-        width: 600
-        height: 315
-  - title: "Good, the Bot and the Customer Experience: Five tips for brands looking to embrace AI-driven customer service"
-    excerpt: "To combat this, brands are exploring new ways to provide the personalisation, speed and responsiveness customers have increasingly come to expect. Many are investing in artificial intelligence (AI) in areas such as chatbots, virtual assistants and natural language processing, to augment existing teams and resources to deliver better customer ..."
-    publishedDateTime: 2019-12-26T11:00:00Z
-    sourceUrl: https://www.itproportal.com/features/good-the-bot-and-the-customer-experience-five-tips-for-brands-looking-to-embrace-ai-driven-customer-service/
-    ampUrl: https://www.itproportal.com/amp/features/good-the-bot-and-the-customer-experience-five-tips-for-brands-looking-to-embrace-ai-driven-customer-service/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/good-the-bot-and-the-customer-experience-five-tips-for-brands-looking-to-embrace-ai-driven-customer-service/
+      - url: https://www.bing.com/th?id=ON.56EEA2283178F2343D9A73473C16A048
+        width: 649
+        height: 328
+  - title: "The AI Eye: GBT Files (OTCPINK: $GTCH) Continuation Application for Microchip Patent, NTT Partners with Mitsubishi for AI-Powered Food Distribution"
+    excerpt: "Danny Rittman, GBT's CTO, explained: \"The microchip is targeted to be implemented as an independent IP unit on an existing chip or on device's micro SIM/Board ... IoT industry in order to create new technological advancements.\" NTT has been working on AI research in a groupwide effort. By teaming up with Mitsubishi, which has domestic food ..."
+    publishedDateTime: 2019-12-31T18:22:00Z
+    sourceUrl: https://www.investorideas.com/news/2019/artificial-intelligence/12311AIEye-GTCH-NTT-Mitsubishi.asp
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.7901F550CCB4452B07A0887C2A75FE51
-        width: 700
-        height: 466
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 0
 
 secured: "Si2/zmfS92rW+pO9nHU+eG2YZI8DqdotXQy4pE+MVMohE01XUfMmrNGeur8Qgv7R19pcIslaUxcFGKRkrUpmzy5LjKlw5cpsJujdh2VBtsDx6fOYYA7hVAlO3HZCXRgT033QpChVFMNLeWN8UWtE4yvW1ubw3BKPsekMuRVIfuzRfGE4meAYF5Z1juHK9PsPF3eXNFsB+L4rbuG9cPpDad3N59AqC2cAB2WSqUwk2KFX/Le/WufGZ3DIBTIt98eIvPlvXxIDNpkxJVXSfwwP0A==;ekJJqWQnSQRWtmeJzBGsog=="
 ---

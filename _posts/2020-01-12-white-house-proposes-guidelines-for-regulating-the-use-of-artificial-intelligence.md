@@ -1,26 +1,28 @@
 ---
 category: news
-title: "White House Proposes 'Light-Touch Regulatory Approach' for Artificial Intelligence"
-excerpt: "Federal agencies will soon have to demonstrate that any proposed regulations for artificial intelligence technologies in the private sector abide by a new, “first-of-its-kind” series of 10 principles set forth by the Trump administration this week. “On its face, the guidance we describe provides agencies with a common sense, pro ..."
-publishedDateTime: 2020-01-07T18:49:00Z
-sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/white-house-proposes-light-touch-regulatory-approach-artificial-intelligence/162276/
+title: "White House proposes guidelines for regulating the use of artificial intelligence"
+excerpt: "In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning and motorsports in Essen, Germany. The Trump administration is proposing new rules to guide future federal regulation of artificial intelligence used in medicine, transportation and other industries."
+publishedDateTime: 2020-01-12T19:07:00Z
+sourceUrl: https://www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/
+ampUrl: https://www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/amp/
+cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/amp/
 type: article
-quality: 31
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Nextgov
-  domain: nextgov.com
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.338D9B74372352C576EEFDDF6C8A6C98
-    width: 400
-    height: 400
-    title: "White House Proposes 'Light-Touch Regulatory Approach' for Artificial Intelligence"
+  - url: https://www.bing.com/th?id=ON.95FB09D61E23AE810BCF5BE700646AE9
+    width: 700
+    height: 474
+    title: "White House proposes guidelines for regulating the use of artificial intelligence"
 
 related:
   - title: "White House proposes regulatory principles to govern AI use"
@@ -248,21 +250,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E10B5EA3F96918F4A1B771FAB17A7F24
         width: 700
         height: 466
-  - title: "White House proposes guidelines for regulating the use of artificial intelligence"
-    excerpt: "In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning and motorsports in Essen, Germany. The Trump administration is proposing new rules to guide future federal regulation of artificial intelligence used in medicine, transportation and other industries."
-    publishedDateTime: 2020-01-12T19:07:00Z
-    sourceUrl: https://www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/
-    ampUrl: https://www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/01/12/white-house-proposes-guidelines-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.95FB09D61E23AE810BCF5BE700646AE9
-        width: 700
-        height: 474
   - title: "Avoid heavy AI regulation, White House tells EU"
     excerpt: "In terms of how AI technologies could impact consumer rights, Justice Commissioner Didier Reynders told his parliamentary hearing in October he would advocate for an ‘ethics-by-design’ approach, whereby products and services using AI take into account ethical guidelines at the earliest possible stage in their development. For her part ..."
     publishedDateTime: 2020-01-07T10:55:00Z
@@ -276,7 +263,20 @@ related:
       - url: https://www.bing.com/th?id=ON.8B7AED9E9253892B2C35FA00B2AE394A
         width: 700
         height: 393
+  - title: "White House Proposes 'Light-Touch Regulatory Approach' for Artificial Intelligence"
+    excerpt: "Federal agencies will soon have to demonstrate that any proposed regulations for artificial intelligence technologies in the private sector abide by a new, “first-of-its-kind” series of 10 principles set forth by the Trump administration this week. “On its face, the guidance we describe provides agencies with a common sense, pro ..."
+    publishedDateTime: 2020-01-07T18:49:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/white-house-proposes-light-touch-regulatory-approach-artificial-intelligence/162276/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.338D9B74372352C576EEFDDF6C8A6C98
+        width: 400
+        height: 400
 
-secured: "llMvLH84sD2sP4oH6yc4qMfUruyNgKaIwztOAfXJgYsDQm92J1fBNMg6pO8EH25wKD0KghNAH6pvSIa0jLkN/LnKo2XNUKYBhL+olXe5BZ5GJXvbmPm+S542UbU3mIu8Btz4jBCfB1/0Nt8l8YCqrmngzcUi2XhZVv3qXVizOCYYa45KVWSyLzSTkmS5d50+WEyhWqHsK4BrIHOxC5agJSeL2kdHm9YTYjSzYkgVqVoW/bEx0NBTMCM1UQRPUSqkk+guSuTcnYjt/GmOvFJecQ==;ji8tfI96b2BzFtaf1KiVXA=="
+secured: "Ph0z4gGhQ4nVZKdwHDXXXcn+8TB3cyN2IIW6PcXzh9fTAvMa/Z5CRO89T/2djBugtmJjUN2WGYrCJkAOM3VpXMe8YoQ4dtxrtYJTqRm8Srx5HOqn9K2jXbXvNYARBPixiJWiEgoWlhwSCgnjyBKIFWnOcvhLAshLQadAWrXkGKRHokwa9hdBZYkFPrJw/q86X1u3QaPI89DppzK6L+gA76i9MoJLumRbGWGElfAQoHDwVCSfdFWWRXUobSJXiGq+suzjOzLoOdKV+W8FC9WjnQ==;mMWbZAxBdldzWmQ+5yR/uQ=="
 ---
 
