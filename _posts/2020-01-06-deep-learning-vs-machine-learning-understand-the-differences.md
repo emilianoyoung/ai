@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Deep learning vs. machine learning: Understand the differences"
-excerpt: "Both can handle numeric (regression) and non-numeric (classification) problems, although there are several application areas, such as object recognition and language translation, where deep learning models tend to produce better fits than machine learning models. Machine learning algorithms are often divided into supervised (the training data ..."
-publishedDateTime: 2020-01-06T11:06:00Z
-sourceUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
-ampUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
-cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep learning, which require a much higher level of computing resources, the most common algorithms are Naive Bayes, Decision Tree, Logistic Regression ..."
+publishedDateTime: 2020-01-06T11:03:00Z
+sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
+ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 104
+heat: 124
+published: true
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: /assets/images/organizations/infoworld.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.C6E9BA3D0630CDD05A14B309F332A045
@@ -25,6 +29,34 @@ images:
     height: 116
     title: "Deep learning vs. machine learning: Understand the differences"
 
-secured: "zU8c1Tqi8KsXNmlm6fhZsAbQLwSi7IxIk2nShJXXlPW5AztELPqdEViynhielW+I08CljJOmrpElnLHQShHty7t0PGHI20mVTrXpnHDK373L8EuujqX3ReAtAQ30SVDitqUsMIVYg+1sFjD0+830SpmGLh6iiVSzZXZyVPaSWQERZ6CPcxplXj4dw3mKr7L5CAtHeyLSzbCsUlMUyemeaqNg6U0ChlwwWG4Gr0YrazZl+bA2a5Q+4/ajNHipm96+I6ko4YbuYTCcK7kZMJ4MRg==;Xf7EB1eYmOT4eWdjGnsrjQ=="
+related:
+  - title: "Using Meta-Learning to Train Agents to Learn Generic Concepts"
+    excerpt: "Is it possible to recreate this neuroscientific miracle in artificial intelligence(AI) agents? Last year, researchers from OpenAI published a paper proposing a technique for concept learning based on a deep learning method known as energy functions. Energy-Based Models are a class of deep learning algorithms that focus on capturing dependencies ..."
+    publishedDateTime: 2019-12-31T15:13:00Z
+    sourceUrl: https://towardsdatascience.com/using-meta-learning-to-train-agents-to-learn-generic-concepts-b8378022b1f7
+    type: article
+    provider:
+      name: Medium
+      domain: towardsdatascience.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.89D67A4F8085D6823FB349299C46BC02
+        width: 700
+        height: 393
+  - title: "Competing with robots: How online learning can keep professionals winning in the future"
+    excerpt: "Future jobs will need us to possess skills that robots do not. How can we compete with robots and come out winning? Upskilling and online learning can help us with the answers."
+    publishedDateTime: 2020-01-09T09:57:09Z
+    sourceUrl: https://www.msn.com/en-in/news/other/competing-with-robots-how-online-learning-can-keep-professionals-winning-in-the-future/ar-BBYMh6X
+    type: article
+    provider:
+      name: India Today on MSN.com
+      domain: msn.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.896326F17B367D2EC691AAAAE5D0CE29
+        width: 600
+        height: 315
+
+secured: "TK2PIYnxC3erTnY3nPAvZbsHLpghxr94KHdgWhjsoDoWtGIkl5mthDsG1HrXFOezl+9H3l5cGq3P6ZTZjSqXbiIRvYHSrHjA8wD+nm23VyGw/aXmBTWikey347zdscYgMuQn+MVnOrXs4Kxt0W0gKv7i0sHWbuQAo28mLkzCRNf/PB2eUemlO06JJy4uOxe0PLRRuYNr6m4wH4Ibj3imfG28VmUkvK5hwKy0BDBo8e3BP8RJCt5AHfo38AhpHRmgXwW8Z++Fn+kJIpaOR9zarw==;wUP5N20vfSmT3+BnW1iqmQ=="
 ---
 

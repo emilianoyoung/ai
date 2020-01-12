@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/10/chinese-court-rules-ai-written-articl
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/10/chinese-court-rules-ai-written-article-is-protected-by-copyright/amp/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

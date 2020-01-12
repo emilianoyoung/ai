@@ -1,27 +1,30 @@
 ---
 category: news
 title: "KNIME on Amazon Web Services Now Available to Productionize AI/ML"
-excerpt: "ZURICH & AUSTIN, Texas--(BUSINESS WIRE)--KNIME, a unified software platform for creating and productionizing data science, today announced the availability of KNIME on AWS, its commercial offering for productionizing artificial intelligence (AI)/machine learning (ML) solutions on Amazon Web Services (AWS). KNIME on AWS is designed to allow ..."
+excerpt: "KNIME, a unified software platform for creating and productionizing data science, today announced the availability of KNIME on AWS, its commercial"
 publishedDateTime: 2020-01-10T13:15:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200110005076/en/KNIME-Amazon-Web-Services-Productionize-AIML
+sourceUrl: https://www.marketwatch.com/press-release/knime-on-amazon-web-services-now-available-to-productionize-aiml-2020-01-10?mod=mw_quote_news
 type: article
-quality: 71
-heat: 81
+quality: 84
+heat: 94
 published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
-  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.6E36BC21707BEB1FE8EB264024E07A49
-    width: 700
-    height: 365
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "KNIME on Amazon Web Services Now Available to Productionize AI/ML"
 
 related:
@@ -41,6 +44,6 @@ related:
         width: 700
         height: 393
 
-secured: "wMDaEfA7twjIItfg/+ud+9skzNaDXrn5kf8WPHhjvQW6+s6YXPyKJSS8r74y5F219wqvXJA2FrE1PjmVCXsSkMQyxodEjCMBobVe9oHvQJusQ/Sk1WAq6yMHrxlySEtMEF5KsVinHDVfOJD/th4uxHP1sVj4JIvf54iw/O8ROK/rI+W3XcNm0J7CQg5QtclR58P2MB6Zxtjq1xflFf8lGtoSI0/nzdB5eyZ8zcQLkwa15mgUsnPeCGngucYfGS0LIP14ZM041uM8R7tj8CqoPw==;BbK9cjGkKJcBp7UHmCybfA=="
+secured: "m+9q55jxsfPvizWGRvRrBELbLiF33eAEjQD+jpzgURelk0zDluF5W+ULMCtdlODZzblyM9KCOHWQjzJgRqE22THD4i4aTWwm5x8ivg9BsvbHO9pTnmasEQBwRFXjB/Ef9neW/255rswp8Bz1InIJchgiNgSqo64barRYinQYiaxT9z68GQx0jL/nXDb+p4o5KWbiaIDtxB6708qBJt8aD+YX0GkT/6UOtJnpFBOTi1ittOFfpYZfY/h2OZyO/SPxTioMCrDp1fs2jCVSy6n2VA==;Ioir0QcIW9kig/vGeUVKkg=="
 ---
 
