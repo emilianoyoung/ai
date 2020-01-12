@@ -37,19 +37,6 @@ related:
       - url: https://miro.medium.com/max/960/1*bBtkBQY6fVx_JUm8lmdoYQ.png
         width: 960
         height: 640
-  - title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
-    excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
-    publishedDateTime: 2019-12-23T14:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/aylien-raises-5-million-identify-135600933.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 6
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
 
 secured: "LIv/JZm6f12NbTtctokRv30rV588AgxWxa4fuhsIM2Ns8SCx+Rkj/vLC1AJEckv4nsB3wac/1ohhl/xqGPmG0qtbzIayBBiXjlVKmaidGArv60sm+dyYVzDiNpxVh0XJOE1VwVx5TgdlPtvykFMTgwjc2r5LP4kDvsj+wnSJ/P7yUe4X1sAgEhuGtppGZT+aFmCSbvbUC+bK8UwvQyN4pnIfIbMtyOV964ozZigRdLbsIUbj86ynppOZETCjwDYwQ+0I/6dnl8h9Zf8DlCsLAg==;7d98TKinOVD1RJ3jktPCUQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.nbcnews.com/news/amp/ncna1105951
 cdnAmpUrl: https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1105951
 type: article
 quality: 67
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -55,32 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC682C5FAF1DA8DA47B95F095E13A83A
         width: 700
         height: 393
-  - title: "Fake Facebook accounts using artificially-generated faces"
-    excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts ..."
-    publishedDateTime: 2019-12-23T14:26:00Z
-    sourceUrl: https://www.fox17online.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
-    type: article
-    provider:
-      name: FOX 17
-      domain: fox17online.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.30402A7EFACEA8F6697E21A15B79453E
-        width: 700
-        height: 367
-  - title: "Pro-Trump news outlet used AI to create fake Facebook accounts pushing far-right stories, officials say"
-    excerpt: "Facebook has removed hundreds of fake accounts created with artificial intelligence by a right-wing media company meant to promote its ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale use of computer ..."
-    publishedDateTime: 2019-12-23T14:31:00Z
-    sourceUrl: https://www.independent.co.uk/news/world/americas/us-politics/trump-fake-news-facebook-epoch-times-artificial-intelligence-ai-remove-accounts-a9258141.html
-    type: article
-    provider:
-      name: Independent
-      domain: independent.co.uk
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.453D05DB12B4582C5C99A8B7664E931D
-        width: 594
-        height: 397
 
 secured: "PCXueD+Y/cdrjlG45pZWi1d4/nxNx696YBzn16mGpitaB6aI6AMpqxOcTksUQE0xH0ATuKQGNjFU04QKZ38OLC/HR9bjCycZNaVW+KlbBtln8b7QsHMgRGBQR7m2bG3ZYfEIu6qZ2oxQ2ScYfoQZIkFSH+kvJ/OtJFoWlSJRi4hqnK5qDDDDCLqK/TqxIFWyXz1EfKqUL/BPokUz7o5U+a9X+cuMKm8FHGHD1LesbptyRHAX7b3AoALWG3CNYWeYlnutBvm2v6SElmCRiPP0Qw==;MOUD5vMfxoOI6D8PVyvS4Q=="
 ---

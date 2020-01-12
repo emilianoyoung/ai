@@ -1,9 +1,9 @@
 ---
 category: news
 title: "CES: The Coolest AI (Artificial Intelligence) Announcements"
-excerpt: "As seen at this week’s CES 2020 mega conference, the buzz for AI continues to be intense. Here are just a few comments from the attendees: So what were some of the stand out announcement at CES? Well,"
+excerpt: "As seen at this week’s CES 2020 mega conference, the buzz for AI continues to be intense. Here are just a few comments from the attendees: Nichole Jordan, who is Grant Thornton’s Central region managing partner: “From AI-powered agriculture equipment to emotion-sensing technology,"
 publishedDateTime: 2020-01-11T17:38:00Z
-sourceUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements
+sourceUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/
 ampUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/amp/
 type: article
@@ -45,6 +45,6 @@ related:
         width: 640
         height: 480
 
-secured: "GI74MMF430prvmNXF/ZhOXYtCL6n8ShPbgJVbjaTgwvldpaNNZkVZF+XE3DcCf1pFVxQbVodWEWpTNQ0dFwYlTHXl7e99VRiaJyFdXY5oPFdAyTHBJ/oAH4VAIA4/5GwSjYiPqpUOlwRM2h8BoHl8om+2RyanxSrN0KN/ivnCXHIBd6SqAbhe9iYJ1iZOVfS6+Gm5OsFvBppOYRahw4Mp+AKts1G47Gy6UO3RyAgmdJnHkHr4dr1GHkrW+En6LxMIvw1kTVIt7GvbyLc847/0g==;xUreC6FZbV1yeB2tNvMwEg=="
+secured: "TBVlxGU1qq3cf6SkfiWceyusyQTdAc9YjzQSPm/M+js7quxTPiFa1+ex8BMCPxeVsjJdE8Oth7y9XjFFJHe6MtHCcNoOHgZDUA+EM0HtlSrz/dS1vm0AOsKaYcJ3o2LDGS7Fb0Q38+TfyX6neTrrA5YP6Iei1HLTqAnAzdY50ge+4Ty6Fpwukmm5gg7Fkcpm9jYDFvdXdeD+TcFf3TzqEh6joq+qEc6EdblAzZ97avG1YQkPNHBqutg7m4653BX8gFdnojcU3DBSAhEdNqhGZg==;1Y+oBc1iWElRPTMvmqyvQQ=="
 ---
 
