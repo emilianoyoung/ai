@@ -26,71 +26,34 @@ images:
     title: "The First Commercial Freight Cross-Country Trip was Performed by a Self-Driving Truck: What This Means for the Trucking Industry"
 
 related:
-  - title: "Self-driving tractors: Next big thing in agriculture"
-    excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
-    publishedDateTime: 2019-12-23T06:01:00Z
-    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
-    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+  - title: "Self-Driving Truck Hauls 40K Pounds Of Butter Across US"
+    excerpt: "Silicon Valley startup Plus.ai is thought to be the first company to deploy a self-driving commercial truck to haul 40,000 pounds of butter roughly 42 hours cross-country from Tulare, California to Quakertown, Pennsylvania, ZDNet reported. The company’s Level 4 autonomous semi-tractor-trailer completed the 2,800-mile run for Land O’Lakes in ..."
+    publishedDateTime: 2019-12-30T23:51:00Z
+    sourceUrl: https://www.pymnts.com/innovation/2019/self-driving-truck-hauls-40k-pounds-of-butter-across-us/
+    ampUrl: https://www.pymnts.com/innovation/2019/self-driving-truck-hauls-40k-pounds-of-butter-across-us/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2019/self-driving-truck-hauls-40k-pounds-of-butter-across-us/amp/
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
+      name: pymnts.com
+      domain: pymnts.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
-        width: 700
-        height: 392
-  - title: "Mock skyscrapers, rain at Singapore self-driving test centre"
-    excerpt: "The road sweeper and a golf buggy move around the track with ease, jamming their brakes on when a pedestrian steps out and negotiating sharp turns."
-    publishedDateTime: 2019-12-23T10:19:00Z
-    sourceUrl: https://www.arabnews.com/node/1602926/mock-skyscrapers-rain-singapore-self-driving-test-centre
+      - url: https://www.bing.com/th?id=ON.188181DD0DA8498376B080C68AD52E4C
+        width: 457
+        height: 319
+  - title: "Afternoon Coffee: Ghosn jumps bail, flees Japan; initial U.S.-China trade deal to be signed Jan. 15; self-driving truck hauls butter across U.S."
+    excerpt: "Carlos Ghosn, the ex-Nissan leader charged with fiscal impropriety and was out of custody on bail in Japan, fled the country and issued a statement that he’s now in Lebanon, where he is a citizen, according to The Associated Press. Other media reports ..."
+    publishedDateTime: 2019-12-31T17:00:00Z
+    sourceUrl: https://spendmatters.com/2019/12/31/afternoon-coffee-ghosn-jumps-bail-flees-japan-initial-u-s-china-trade-deal-to-be-signed-jan-15-self-driving-truck-hauls-butter-across-u-s/
     type: article
     provider:
-      name: Arab News
-      domain: arabnews.com
-    quality: 39
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 2
     images:
-      - url: https://www.arabnews.com/sites/default/files/default_images/place-holder1_0.jpg
-        width: 480
-        height: 315
-  - title: "The future of banking is basically robots running everything"
-    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
-    publishedDateTime: 2019-12-23T06:04:00Z
-    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
-        width: 700
-        height: 366
-  - title: "Top AI-Powered Projects In Indian Agriculture Sector: 2019"
-    excerpt: "IBM has started a pilot study to use AI-based technology and satellite technology to monitor the agriculture sector of the country. The pilot study will be conducted in states like Madhya Pradesh, Gujarat and Maharashtra. Post the pilot study, IBM’s Watson decision platform will provide a farm-level solution for improving the agriculture sector."
-    publishedDateTime: 2019-12-27T05:35:00Z
-    sourceUrl: https://analyticsindiamag.com/top-ai-powered-projects-in-indian-agriculture-sector-2019/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1FB3CE77C754CB40F64E4C5200BFBE95
-        width: 700
-        height: 393
-  - title: "Uber buys parcel near Pittsburgh for self-driving test track"
-    excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
-    publishedDateTime: 2019-12-27T15:39:00Z
-    sourceUrl: https://www.kansas.com/news/business/article238754273.html
-    ampUrl: https://amp.kansas.com/news/business/article238754273.html
-    cdnAmpUrl: https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article238754273.html
-    type: article
-    provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 24
+      - url: https://www.bing.com/th?id=ON.B9B8F2B1643672B8ABC24CEC54D72151
+        width: 300
+        height: 200
 
 secured: "hNMptOgiQX0bZcn7soepm1EincpyzcHsiYr/mu9upgYcAjqTrTGxCyBpRA1RfR1v/4bg5MXESh/z28CYA1fawZ3TwnbiKsN4C98AkD8wdhjW/T85YABDBvgtaGy/toSHozXoF4xRgDR5QiFGUMiDVKljK8iIBHbJmcj/OPrGCZl5nu/nGZAx2z/+eQXNtKXE9qFTbMaHpcGNEqK+KQhsVHRRFZ4J56oih4B9je95GSto4DcoafVd83ExhXui9uwD3p6f0Jkxkvh5zsVz12icnw==;mgwKHJ+f7AuIT94yATQysw=="
 ---

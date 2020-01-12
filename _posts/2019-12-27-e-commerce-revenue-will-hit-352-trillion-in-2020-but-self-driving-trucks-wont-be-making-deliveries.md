@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
         width: 700
         height: 466
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
-    publishedDateTime: 2019-12-23T06:00:00Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb7Kz
-    type: article
-    provider:
-      name: USA TODAY on MSN.com
-      domain: msn.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
-        width: 700
-        height: 367
 
 secured: "CtEwJ1Qz0QEVMK8CcPNKo+SjTSs7SPC7l4wR4my4jwa6UfLV1VR3wTVEbEeyl+f5hIHUMP6/vVdOcwU2hif7ycO9bDgreFZAUDx85eZm0uQ1bfufBwXQdmW5SX3nWJuf+VTuwhcVH3DO48hnrNyDPNliPGahBm4PXxwde8xuxp525nRsLHHKHwJVa+Rbxm4NHZAPc82G55mMtVxaxZq2+04FFGskGZezJoGgrmB6T8YG0LAEngp8jxl0/xmY7Z3F1f1U/50tsUXG6sjnNH6pTA==;j25nnIIVqUfMUndPAMO55A=="
 ---

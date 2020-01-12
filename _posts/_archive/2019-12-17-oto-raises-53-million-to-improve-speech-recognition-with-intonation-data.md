@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 232
+heat: 212
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Oto raises $5.3 million to improve speech recognition with intonation data"
 
 related:
-  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
-    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
-    publishedDateTime: 2019-12-23T05:32:00Z
-    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 81
-    images:
-      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
-        width: 700
-        height: 466
   - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
     excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
     publishedDateTime: 2019-12-24T10:08:00Z
@@ -73,19 +58,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
-    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
-    publishedDateTime: 2019-12-23T05:11:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Speech recognition tech cuts paperwork for police"
     excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
     publishedDateTime: 2019-12-12T20:40:00Z
@@ -190,6 +162,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "UdirlvXeY4ZNxbKUb2f2Jp5fQIGE9DaXag43OOg8Oz/7e4i9sfjL5/8i3FkhGsAeijMOg1L60vMeAxQm9tENZBKhoqz/GMpixntXUhB/HrFuhaIyMrfAwtiJ2hhu7KcArzabC6KIWdVvhj6nLXo3bdyULjuugj8Kuf3xjCUzizG3BjEzR1gamH3vjIXIc9rPsHzUJkKiTm0tgnvcohogoWheiAMp0bG8wYBJov1UHog96H/DVA4LDtD8s3uU4TvQhcUPAyYxLj61eQuhCvT1Yg==;cmFqcgXORH6V28/9VrpMFw=="
+secured: "fWwIzmOfpPLkckA3ZYYK6CKm95SsGG6eV5LQSZAM8UkELcAgOATNF6gymw8TNekRZuTWu88RaRXESWrSaztEeGhTewJr4wm0dC0GloUzY8EqtCI6wETb1B4godwlLh1/jpkDlvq7fabwMYjkF33RNu4BJZv8YcZiiKZzmh0VeU8v/eEgEYjMFcZvHzuWINIKhmkTcI83lWR0yGnCCSv089Mqgnicpxv2md/KFvah5uVnIP+wOKtJBXp4nP3Lkw42o5XLGYh6hATO75Fg7uQ1lw==;uLlJ16DRP38d6SuoDh+KdA=="
 ---
 

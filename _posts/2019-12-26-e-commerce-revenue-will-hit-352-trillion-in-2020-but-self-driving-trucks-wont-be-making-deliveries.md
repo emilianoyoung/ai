@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0B6C05A93C7C53C1E7B45AF0BBDD2202
         width: 700
         height: 365
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
-    publishedDateTime: 2019-12-23T06:00:00Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb7Kz
-    type: article
-    provider:
-      name: USA TODAY on MSN.com
-      domain: msn.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
-        width: 700
-        height: 367
   - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
     excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
     publishedDateTime: 2019-12-27T00:03:00Z
