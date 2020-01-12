@@ -572,17 +572,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
         width: 700
         height: 464
-  - title: "Third Massachusetts Community Bans Facial Recognition Tech"
-    excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
-    publishedDateTime: 2019-12-23T16:21:00Z
-    sourceUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html
-    ampUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
   - title: "Facial recognition is the future, privacy is a concern"
     excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
     publishedDateTime: 2019-12-25T18:52:00Z
@@ -906,19 +895,6 @@ related:
       - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
         width: 700
         height: 411
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
   - title: "Art exhibition in China offers rare reflection on facial recognition and surveillance"
     excerpt: "Eyes of the City is jointly hosted by Shenzhen and neighboring Hong Kong, a city rocked by recent protests against China's influence An art exhibition exploring the impact of facial recognition technology has opened in China,"
     publishedDateTime: 2019-12-24T15:12:31Z

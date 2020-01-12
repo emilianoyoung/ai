@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T13:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24
 type: article
 quality: 80
-heat: 410
+heat: 400
 published: true
 
 provider:
@@ -256,19 +256,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Industrial Artificial Intelligence Market 2019 Analysis By Global Manufacturers – Siemens AG, IBM Corporation, Alphabet Inc"
-    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This report focuses on Industrial Artificial Intelligence Market report will make detailed analysis mainly on in-depth research on the development environment, Market size, development trend, operation situation and future development trend of Industrial Artificial Intelligence Market on the ..."
-    publishedDateTime: 2019-12-23T17:01:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-2019-analysis-by-global-manufacturers-siemens-ag-ibm-corporation-alphabet-inc-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

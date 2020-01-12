@@ -135,6 +135,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AC0992C8097CCAE7A53014F1E742798D
         width: 700
         height: 367
+  - title: "Obama-era tech advisors list potential challenges for the White House’s AI principles"
+    excerpt: "Former Obama administration advisors say the White House regulatory AI principles announced this week are a good start in many ways, but they’re incorrect in their oversimplified mandate to avoid overregulation of private business use, and that the Trump administration could face an uphill battle in its appeal to the rest of the world."
+    publishedDateTime: 2020-01-12T16:54:00Z
+    sourceUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/
+    ampUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.DE474E05DDE04EED35C7AE707235B12D
+        width: 700
+        height: 524
   - title: "Trump administration’s new AI principles seek to limit regulatory ‘overreach’ to promote innovation"
     excerpt: "The White House is releasing the principles Tuesday at the behest of President Donald Trump, under the American AI Initiative. Future regulations on artificial intelligence could have an outsized impact on Amazon and Microsoft, two of the largest developers of AI technologies. Microsoft President Brad Smith has called for regulations to create ..."
     publishedDateTime: 2020-01-07T05:03:00Z

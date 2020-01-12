@@ -572,17 +572,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
         width: 700
         height: 464
-  - title: "Third Massachusetts Community Bans Facial Recognition Tech"
-    excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
-    publishedDateTime: 2019-12-23T16:21:00Z
-    sourceUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html
-    ampUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
   - title: "Researchers: Printed masks can fool facial recognition systems"
     excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
     publishedDateTime: 2019-12-24T10:00:00Z
@@ -919,19 +908,6 @@ related:
       - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
         width: 700
         height: 411
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
   - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
     excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
     publishedDateTime: 2019-12-27T00:22:00Z

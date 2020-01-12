@@ -17,6 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "YT1w8taxllCA010L7RhB7WUjodb3mfH3BeeEFOPElrfE3Jl5Lv7VIBMeThFSqZqC06NFP4JQb2NJzW+/k1BDC3sqJ0H19VtUO6/FagdGwUAx+srVXXZZ9hBzvYCqs79Tn+6kxRN+tDmE2LExh4Q2jFNh/G4n3T4etnXwMZ754zkpduOOULSGuCbki08MAyE80lVHHMHtnrSeYtSLm2z8yy6DTI+jQ6+tpw7s2OgXsig7a/I3ID35h4r2Z46wwsh5b/DnBnWzIcLo3tv/GamsFA==;/54iVMfdhnAjGAnRu1IAZA=="
+secured: "2r7pDJ9aZcSzve+tBkfrXqotIaQL4R4yHUqjvCj+jb1V7lcZdg4g4m5J+uo8CWmvgtcyLvN0OkDwY43KiCS7NgeXUfxO9U4QcW+Ftxh5bwuj7/ePy5g4ghHAVoVSlT9GsLya52PLRA0qGQcwPJumVe0aScbnHIibAPYH+NYUqpFssUe9rnbFBmioHmKWQgrKqIXvLXnqsSsp+vylJ7XZPaV22NzqYRBP1YWCURzsl29ggEGq7Bu/sXaNct5vzz2ASPb21eAq7AxuBlys+fcMNA==;2n73bRG8ZcGrE4K/n0fHaA=="
 ---
 

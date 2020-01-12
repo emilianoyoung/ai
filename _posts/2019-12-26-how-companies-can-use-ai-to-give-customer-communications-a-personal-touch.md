@@ -53,19 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7901F550CCB4452B07A0887C2A75FE51
         width: 700
         height: 466
-  - title: "Automotive Industry Puts the Pedal to the Metal with AI"
-    excerpt: "The growing importance of AI to the industry is underscored by the substantial investments the industry is making in new technologies. To that end, the research firm Tractica forecasts that the market for automotive AI hardware, software and services will reach $26.5 billion by 2025, up from $1.2 billion in 2017.[1] While significant amounts of ..."
-    publishedDateTime: 2019-12-23T16:28:00Z
-    sourceUrl: https://www.hpcwire.com/2019/12/23/automotive-industry-puts-the-pedal-to-the-metal-with-ai/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.7196AFEF04D13BE48B658F6A4F28ED83
-        width: 700
-        height: 373
 
 secured: "Si2/zmfS92rW+pO9nHU+eG2YZI8DqdotXQy4pE+MVMohE01XUfMmrNGeur8Qgv7R19pcIslaUxcFGKRkrUpmzy5LjKlw5cpsJujdh2VBtsDx6fOYYA7hVAlO3HZCXRgT033QpChVFMNLeWN8UWtE4yvW1ubw3BKPsekMuRVIfuzRfGE4meAYF5Z1juHK9PsPF3eXNFsB+L4rbuG9cPpDad3N59AqC2cAB2WSqUwk2KFX/Le/WufGZ3DIBTIt98eIvPlvXxIDNpkxJVXSfwwP0A==;ekJJqWQnSQRWtmeJzBGsog=="
 ---

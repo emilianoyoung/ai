@@ -19,21 +19,19 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Content optimization using entities: An actionable guide"
-    excerpt: "BERT (Bidirectional Encoder Representations from Transformers) is a Natural Language Processing model that Google introduced in 2018 and began rolling out in October 2019. BERT has the ability to consider the full context of a word based on the words that come before or after named entities. We won’t dive deep, but we’ll look at an example ..."
-    publishedDateTime: 2019-12-24T14:33:00Z
-    sourceUrl: https://www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/
-    ampUrl: https://www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/amp/
-    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/amp/
+  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
     type: article
     provider:
-      name: Search Engine Watch
-      domain: searchenginewatch.com
-    quality: 44
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.6852875905E4632CF5B495ADE3C6E8CD
-        width: 360
-        height: 240
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
 
 secured: "gf92rHH/kblGxghjunaSrGaGF34V/5vQgCgsGMvY39zoVVH4DqYM99ZUm6Xbu4BxnilvtioC4lpyhazuPX8NcEqDW5SLeK6AGxTQ3CJquNEBVail5gqE9+tbtrSLJEj+Ak9S/c8RhrowsaeegaZ3xu31I+tN+WHdcaRNSL3oTIIhhvecvErQoUxosPn09uI+SyvBSHCsNuI+LqWz4Fpko/TLA8mplqEnuvX2SnlVjve0IVTsikVMiJhOCnTy8xocYZzCOmc/adGfxdMqkVZV/Q==;09Mt7s2ygKptGGNAQaatGQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-12T09:07:00Z
 sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
 type: article
 quality: 86
-heat: 126
+heat: 127
 published: true
 
 provider:
@@ -88,6 +88,6 @@ related:
         width: 700
         height: 465
 
-secured: "+aggt5pXJUwZvBvkV+MZVJmNN8pijSx8f1SjcvXwtDJ1eDImoNivXKZI2jXTZC9CK63dBcAMc2HdVnLZQraiaQOfAxuRVtqF7w5bLoBgBrcEZ7xgQQd3dhHG8rZN43Fgz5yTWQ0JWXTQTgbgwjXFjGnhIUrrgh7aAwk+s6GW78MQRHyd/xsqjfXhjVBmFIZgAiurTEgmEww7U49/N4VbwH5QkPnfDrejPwgc9zJs6ZwJhh36NzA6G0Erva4lUfOfw0DaCfZru9wRoCYkCtypKg==;pSCq10lTHxQ0R5MRdu8dNQ=="
+secured: "0YR2Xbzut3PYKYYzcQvgMpU7ujo9XkiDG4L+4HHJwAC+Doke+9RVhmkDjzWeN04JidJd/iGYznDoV+Jrt57SMcVxOw/7jiGg0pAR3gSIkkwvIeNtADsee+M9IkqnLdwzgTBnMkt2oBDvnT6yefa6bJRZOrNk82zhjrHmUDKf86vaCKxoDfEsWTMhGoZSCyPbj369zhgQAkCWCYqVsIR5P3JPjm5h0UiR7DMBT46CxY6C4Pv4zlHreJH2muZb7Z/V4uS/xOVjo06MRm+Zvc9OAQ==;1ecVe6fi6DJDldfoChCXNg=="
 ---
 

@@ -1,97 +1,39 @@
 ---
 category: news
 title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-publishedDateTime: 2019-12-20T23:50:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+publishedDateTime: 2019-12-20T00:00:00Z
+sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 64
+published: true
 
 provider:
-  name: BCW
-  domain: businesscomputingworld.co.uk
+  name: SecuriMetrics HIIDE
+  domain: findbiometrics.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-    width: 512
-    height: 512
+  - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+    width: 400
+    height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
 related:
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
-    publishedDateTime: 2019-12-24T10:08:00Z
-    sourceUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24
-    ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
+    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
+    publishedDateTime: 2019-12-23T20:30:00Z
+    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
-        width: 640
-        height: 433
-  - title: "Amazon is patenting hand-recognition technology, and it could be implemented in Amazon Go stores"
-    excerpt: "The technology would identify people's hands by analyzing characteristics like wrinkles, veins, and even bone."
-    publishedDateTime: 2019-12-27T13:20:00Z
-    sourceUrl: https://www.businessinsider.com/amazon-patent-identifying-people-by-their-hands-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.C07FA5D915CD76BA8BA1C779C2D3CF05
-        width: 700
-        height: 350
-  - title: "China's iFlytek claims breakthrough in AI-powered voice recognition"
-    excerpt: "XI'AN, China -- Chinese artificial intelligence startup iFlytek says it has developed AI-powered technology that can accurately identify a person by his or her voice, for use in law enforcement. The company expects to be able to roll out a voiceprint recognition system nationwide in two to three years, said Fu Zhonghua, the deputy head of ..."
-    publishedDateTime: 2019-12-24T22:12:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Technology/China-s-iFlytek-claims-breakthrough-in-AI-powered-voice-recognition
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EC4CA47A0C4F9DE6A989C0B80863FF0E
-        width: 700
-        height: 350
-  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
-    publishedDateTime: 2019-12-27T09:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
-    publishedDateTime: 2019-12-25T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
-        width: 700
-        height: 495
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 5
 
-secured: "E+/ZdKuw9YFBOcy13Foks/dnvWBVJUgn1W2kZAaiTg/m5v0/AN31vaG0AbY+iXIEsgyo3a4JbezN+JQdU6uWPpPzMTrLPvYK78mFY4uV7BR3roP6gfGYF9bZU4KrcXNn1owLcNl5JnoYkv795Xu0r4GOsU1dZDTIgSZyO1xb3e/0y/jEx8vxyJ/R0vibGcAGVIgYPDbZORncSDXQCuX5qKvth30JrSCM2Yt6KuGVK7R6epZ/TrwzlRPODpUppjnOLE6yvPXF0QZOSAKdw35GZg==;po2mYg3qdoPFaXgx6/cWDA=="
+secured: "nFThnXocBxDHWKy7YOvPahJnjbWGEWKSkCMJlgHiRZHaqmf7Pkv3U434h5s8EkPIo7XPMOC6HQZkoxNdu2sr96fyJqi/6S2SInYBbzVGu3+QxFkbDoy9RLGEgcFNQDbErGl9E3m9sijhyw6KCphRXktRsLQFDvia+8bQUnAaWoDtUcHtfiLTuQi0vJj3NevFxUc+Bj0LMgplOqdlNmUp5glEFQymmgU234HFZveqVVk8yO0H9ZtkoXXLjhasS3+Z0k7ivJBdi7GPgWPAwcLJNw==;ZIS+Y1WjMBPjyrdmQpMvcw=="
 ---
 

@@ -1,32 +1,33 @@
 ---
 category: news
-title: "White House encourages hands-off approach to AI regulation"
-excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector ..."
-publishedDateTime: 2020-01-07T14:18:00Z
-sourceUrl: https://www.theverge.com/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
-ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
+title: "Obama-era tech advisors list potential challenges for the White House’s AI principles"
+excerpt: "Former Obama administration advisors say the White House regulatory AI principles announced this week are a good start in many ways, but they’re incorrect in their oversimplified mandate to avoid overregulation of private business use, and that the Trump administration could face an uphill battle in its appeal to the rest of the world."
+publishedDateTime: 2020-01-12T16:54:00Z
+sourceUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/
+ampUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
 type: article
-quality: 87
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
+    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.7CEDDF64BEBEFA75B6DED66AD1F13061
+  - url: https://www.bing.com/th?id=ON.DE474E05DDE04EED35C7AE707235B12D
     width: 700
-    height: 366
-    title: "White House encourages hands-off approach to AI regulation"
+    height: 524
+    title: "Obama-era tech advisors list potential challenges for the White House’s AI principles"
 
 related:
   - title: "White House proposes regulatory principles to govern AI use"
@@ -74,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.350C4E443D276783D735204FCE009132
         width: 700
         height: 367
+  - title: "White House encourages hands-off approach to AI regulation"
+    excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector ..."
+    publishedDateTime: 2020-01-07T14:18:00Z
+    sourceUrl: https://www.theverge.com/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.7CEDDF64BEBEFA75B6DED66AD1F13061
+        width: 700
+        height: 366
   - title: "White House Favors a Light Touch in Regulating AI"
     excerpt: "In fact, the principles might deter regulation of AI at a time when many think it is increasingly needed. Michael Kratsios, chief technology officer of the United States, is set to announce the principles on Wednesday at CES in Las Vegas. They arrive at a ..."
     publishedDateTime: 2020-01-07T00:00:00Z
@@ -134,21 +150,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC0992C8097CCAE7A53014F1E742798D
         width: 700
         height: 367
-  - title: "Obama-era tech advisors list potential challenges for the White House’s AI principles"
-    excerpt: "Former Obama administration advisors say the White House regulatory AI principles announced this week are a good start in many ways, but they’re incorrect in their oversimplified mandate to avoid overregulation of private business use, and that the Trump administration could face an uphill battle in its appeal to the rest of the world."
-    publishedDateTime: 2020-01-12T16:54:00Z
-    sourceUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/
-    ampUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.DE474E05DDE04EED35C7AE707235B12D
-        width: 700
-        height: 524
   - title: "Trump administration’s new AI principles seek to limit regulatory ‘overreach’ to promote innovation"
     excerpt: "The White House is releasing the principles Tuesday at the behest of President Donald Trump, under the American AI Initiative. Future regulations on artificial intelligence could have an outsized impact on Amazon and Microsoft, two of the largest developers of AI technologies. Microsoft President Brad Smith has called for regulations to create ..."
     publishedDateTime: 2020-01-07T05:03:00Z
@@ -266,6 +267,6 @@ related:
         width: 400
         height: 400
 
-secured: "aibKbrpAWASv7RvtWirL7PGkRDQpGeBb/kJ0ZobO8QxlssijNuxHthhDRKImCo0nCCh4djiwVh2toeHAaSZkTh/m66cglVO+tr4N+zvZMgQ/NN8//xpnjZuoE95BL7+Io+L5POqriXI/N6Ajyh8ahmNnkCVsqcVFlWW4S85gdxysLsyZmE2J2X3UFJxJHrd3sxAar65yJDsjtBftEUm8B6IoofnZNMJT/T2kYcGL7wSaEH9sZ62/C54j0IyvuVaUBp1DUdXuo3dOPpZagfPkHw==;q2hFZ9KHtgI0oIOxEiD54g=="
+secured: "e11fFJRqtKrM0uBiRoF1D9AEiJS76uwFohdILUeV4tg6nmleSpIqvI4wyr89qHa0Ugmm1AbQmZU60D+XFLlbV1R8AKeT/FlFBYwKUpAnYmPo3Fbe1PH85bjtaPIhZ7MUozZeYBEzVRPaTazZn4w53gX/FPuTLAaJwbMEq692jIcxX7aaSz11hu4G5W8QOpyTGkMHmAOMTCncKxdppN1guxm8M2pycQhgTZZTBLwWs/VkfX9gq6igLxKyWQGxi4kpxaVcpAX4DgcBpGT2q4C9+w==;pbFTmM158Vhj8ME0NYSlwA=="
 ---
 

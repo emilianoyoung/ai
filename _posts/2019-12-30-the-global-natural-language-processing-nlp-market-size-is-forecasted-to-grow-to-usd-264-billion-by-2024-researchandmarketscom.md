@@ -269,19 +269,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Industrial Artificial Intelligence Market 2019 Analysis By Global Manufacturers – Siemens AG, IBM Corporation, Alphabet Inc"
-    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This report focuses on Industrial Artificial Intelligence Market report will make detailed analysis mainly on in-depth research on the development environment, Market size, development trend, operation situation and future development trend of Industrial Artificial Intelligence Market on the ..."
-    publishedDateTime: 2019-12-23T17:01:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-2019-analysis-by-global-manufacturers-siemens-ag-ibm-corporation-alphabet-inc-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
     excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
     publishedDateTime: 2019-12-26T13:00:00Z

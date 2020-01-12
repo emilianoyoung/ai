@@ -20,22 +20,44 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Microsoft’s Andrew Shuman on the Cortana app’s death, natural language, and Alexa"
-    excerpt: "“You just scan through the subjects. And then you scan through who sent it. And we had to do a lot of natural language processing work so that we can read them intelligently and summarize the state of affairs.” Unlike screen readers, which simply read out every single piece of text on the screen, Outlook’s voice mode and the Play My ..."
-    publishedDateTime: 2019-12-23T16:08:00Z
-    sourceUrl: https://venturebeat.com/2019/12/23/microsofts-andrew-shuman-on-the-cortana-apps-death-natural-language-and-alexa/
-    ampUrl: https://venturebeat.com/2019/12/23/microsofts-andrew-shuman-on-the-cortana-apps-death-natural-language-and-alexa/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/microsofts-andrew-shuman-on-the-cortana-apps-death-natural-language-and-alexa/amp/
+  - title: "Voice search optimization: The why and how"
+    excerpt: "Let’s see. Voice search basically allows users to say their queries out loud rather than typing them into the search box to get the results. The speech-recognition technology precisely understands what users are saying and then delivers the best-matching results orally. Reports estimate that about 41% of adults perform at least one ..."
+    publishedDateTime: 2019-12-26T11:25:00Z
+    sourceUrl: https://www.searchenginewatch.com/2019/12/26/voice-search-optimization-why-and-how/
+    ampUrl: https://www.searchenginewatch.com/2019/12/26/voice-search-optimization-why-and-how/amp/
+    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2019/12/26/voice-search-optimization-why-and-how/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Search Engine Watch
+      domain: searchenginewatch.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.1CE15A677547934620C5E69AD11C31E3
-        width: 700
-        height: 350
+      - url: https://www.bing.com/th?id=ON.5BDFA1E820CD80471C87C2A432A2ADA9
+        width: 360
+        height: 240
+  - title: "The Pentagon Wants AI-Driven Drone Swarms for Search and Rescue Ops"
+    excerpt: "The Pentagon’s Joint Artificial Intelligence Center, or JAIC, issued a request for information to find out if AI developers and drone swarm builders can come together to support search and rescue missions. Search and rescue operations are covered under ..."
+    publishedDateTime: 2019-12-26T16:06:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/pentagon-wants-ai-driven-drone-swarms-search-and-rescue-ops/162113/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.9C7B9F0B97953270E6674ED1710776B5
+        width: 400
+        height: 400
+  - title: "City strengthens bet on translation and artificial intelligence with new research center"
+    excerpt: "The Macau Polytechnic Institute (IPM) today opened a research center dedicated to machine translation and artificial intelligence, the first with the Beijing seal in the special administrative regions. This center will “fill a gap in the field of Chinese-Portuguese simultaneous translation research” by becoming a “major platform (…) for ..."
+    publishedDateTime: 2019-12-26T13:06:00Z
+    sourceUrl: https://www.macaubusiness.com/city-strengthens-bet-on-translation-and-artificial-intelligence-with-new-research-center/
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 10
 
-secured: "AhUhIKoczzIjSOmUIjkuYLvolH5E8/O63Bn0a2hhKwrBu3znKTncilRSVDSecmIxO0pktC9c4IU5L5QEHTeGz/q7a4pMocL2V2xZK1lIjyhhjwMhM6FXBkz5NGqUkTGs1L9hvtee8+Nghirgve17lfI8FKSon3Z8NTddZEMylZ/jo0Zm9oUFqtwXnij/6Jb7MVO5DoipqzTbA79H0mq1R4gn2RHb+JMbxp7MVJISOsnVNSQ+FC8WvDnfimLBgg8hjmXvXITBEe4UAnEUzmm02Q==;zijIQZDGRXTrPj6kC6Jq7A=="
+secured: "8F3XCcc7XeJv8DgCR8Q9dnuj9893aB3m+8fjiiv5NXmuTK8+elFhxzWf0M0dDFdT+xwXWvg0vvxSk0WbkPkSN+zuhETthdJiem4jW5kn3vx4KJWradFPDlYXvHsXdbUpEej6bRisBW/eM3IOQZUA0HeDgAMzlCv0gP/eHS+pEJbWdFinDWlfS/aJYzMk/dnSR7+55NEkk6vLT5nX5l/1u6bq58P42zbCp+zO1NTCBj+uiWY4jHWdL0NquUEJJC4dnR2TvWnu/uUJCZwmSqvQ+g==;8Pu9EFN7Z7qYTEk1plKWdA=="
 ---
 

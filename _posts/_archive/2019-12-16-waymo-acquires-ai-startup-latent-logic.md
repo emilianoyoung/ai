@@ -19,6 +19,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "XJ02a/O9Nh1a3KXqfRl5X32p4tjKF+mjWVECYUn1110gFluilS/UsboJWFONlqUphnIHtDEMRot+T87SS391jB8k2yOWqu27uTevD2B1fOZv0KATReoWPwqWQfee3oK/EoU0o7d5wHlkyjAwM1l7dbb692R2KuEbxcEkPz/0XNEfuLkwp/0uA28vk+nQsS5uunNG0Hw9E+p3tmKAO98PpmFk1w6Ovjc64P3kNBJ2hcYetpv18f53P0bx9AXOj7RiqWdSRdar+POStylMCuKuQQ==;P8Demr6KDRGR8u11rdC+Wg=="
+secured: "sh/QRBbDmvNza8liuxakzPAHL5SnXTjZCBuCGxKYNEXin/YY1iiBYZ1+1k6dRVXMFIZIZ6oG7Mn+sizYWAhJDcd6WJiw7SVQmLipfiBTiiLZV4YtlYMWfsMm/EytLCjwWOwxmyZj86gI1JDAegXJaGHDlTKgMhUIw/vg5vrAcpLvYpDS1JhEUmR6CLfZeLTNZwHm+gmpeiVltaVpc6fq0USGl+CZLkYSiyLNZeNbW4/oi5xkOdlZGKliADAM6tnarogyBKrFYiLuqMuDA02WDw==;WuZXiQAdNkoNWy0F8mnlhg=="
 ---
 

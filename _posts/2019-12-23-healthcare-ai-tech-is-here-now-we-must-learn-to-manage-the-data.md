@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
+  - title: "Computer Vision and the CCPA: What You Need to Know"
+    excerpt: "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
+        width: 1200
+        height: 744
   - title: "What is the Procedure to Start a FinTech Company?"
     excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
     publishedDateTime: 2019-12-29T02:05:00Z
@@ -65,15 +78,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 26
-  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
-    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
-    publishedDateTime: 2019-12-23T16:26:56Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 19
 
 secured: "R3C1EQh/P9PG+Hd1EiHWIgt9iYnqeV6MGmF+CLmGbesmAH/koTrJ1+irEPsMm5T2Or+Hg0eg6kl4Dzzz9I+txwgh6n+H25fSHnit3vd5++M5N8R8kUZxJAR1jVm6aPfivwpJaWe6EzXr20lWCg+ERzGk5gmDcBrYJCVSUHpqmUHlH1fzeQ1dGdOFKl+SarH485JBAkZz/F0rPtKb/Unn1C6kmrgYDepUHp0DoSeBD8D1NSSb26jNBmlC4kDKjQfudzdCZjrlkMLQ1mcg8lE4AA==;Ngjelun2P0+rJ90S3B2nRQ=="
 ---

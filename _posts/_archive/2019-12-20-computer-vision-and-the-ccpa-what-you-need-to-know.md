@@ -82,16 +82,7 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 26
-  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
-    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
-    publishedDateTime: 2019-12-23T16:26:56Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 19
 
-secured: "y3lLlHb5wXfJxFhlqYlncZrdma3YTGlC0r+nzmyGkQ29e1PkjjqduQtWZb0BzHH5Lwg8ubP8MtN+qvaveYzUpZM/539sA0icwpJu+2axF+B8kiBSwRRlr2MG4d2kL9t/utmkMUqtEaRJM+pifcU/z3m9nHOwmT/+bz0SW+/V1U6c5rzd+imgIOokKhGFAIoLFz6vyQJAvT0682CxsSomIDp1QsXh/5dIXNGJEkqOcUG1CCIwDbwq7EZe6ydHizuA+vW+9w81GVp8dI1UjKHN0Q==;c4noL4KrAiYBauaR1vGwdQ=="
+secured: "VlbfmKa7FPGs0ou7AXHnoCTwK34JjymbugCKFHXB8GyFIOescXtkfcdxsmRHvyTomUyxi7wF8OS0N50gsEUC/8rJ9E+L4cZ6c2BCNIgcuD1GePyWfpFEkv4sCKwuZEirLVgAfdSpzyTFWE5lND6lfYrYric6gwUw/4gFtN3UBevrx39ApIx1SZaZJBQWIJgYVtEqAWmFLg0PKf+tWLjLkLJrJv25UfuEeygHV7LmA2wgVAxUHHl0f54aeeLT8d1LfAl+l35HbJf9L5uCy6Z5pA==;5RbIFERQWDSZV762rR9l8w=="
 ---
 
