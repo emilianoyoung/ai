@@ -1051,15 +1051,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
         width: 700
         height: 344
-  - title: "It’s hard to ban facial recognition tech in the iPhone era"
-    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
-    publishedDateTime: 2019-12-23T17:22:00Z
-    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 19
   - title: "New York school district now utilizing facial recognition system"
     excerpt: "After months of controversy, phase one of the Aegis Facial Recognition System in the schools is complete. Those in favor of the system say the technology can identify guns and weapons, while the facial recognition portion identifies people not allowed in school buildings."
     publishedDateTime: 2020-01-06T05:13:00Z

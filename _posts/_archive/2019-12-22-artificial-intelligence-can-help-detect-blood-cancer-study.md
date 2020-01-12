@@ -38,6 +38,6 @@ related:
       domain: deccanchronicle.com
     quality: 39
 
-secured: "jfgw7sj7g5HTZ9Imc5wgqs/0Cdx45Sp9ydo5MpO7O6dDh/fsjfQ9Y23QfypvgFGvT7J31GHES8zkocbGJeIRebv8KJqiR5ZxVrxyy0nfmrF/gHEGwt1S2AQEVeKumYIFg95WBDKhzN4NHqAzysRVUYtqW+ctK7cpy40DhWXbL9AKvIP+qHtpgBOcRymhFv4JWYzrVltNgMbivsQxlIX/eZDaUA/ZL6guZWZ94SEOYvtJtouxdNqddfsdkYYQ2V1WqwAVWnhQO+w+JoItmCEu2w==;obLU4e7bksIpVrIcbon1dg=="
+secured: "FO9rvXfDYC6MCi4TSpnT9u1W1fd/9CVMoezGz11c7Oh08VtfTsqPZgl3arHxsLLQlWjuIoPEFtZ/4EgfWZiK6qq5KfYNwm6Rk8GAoCW2ib8aGEIecdG2dO1j473OYW87EK3cyIdPecwdaxpmwjv/ziNbYPapVC+EQWHE7ZH6XisHk2N6ORdbAXD4hN7N3bYZKmMbVgEtGZE4j6Ah2R3QnpgAUUm61vZMCA+sJGY7TNHe35Vli9lUxFMEoXKkWZ+NVCNAwGTyEIhX634NuIC9FA==;UaNsb0hSMd/U08tPRwdlbw=="
 ---
 

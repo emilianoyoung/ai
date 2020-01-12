@@ -42,8 +42,8 @@ related:
         width: 1200
         height: 1000
   - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of blood cancer -- acute myeloid leukemia (AML) -- with high reliability. Researchers at the ..."
-    publishedDateTime: 2019-12-23T17:48:00Z
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
+    publishedDateTime: 2019-12-23T17:46:00Z
     sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
     type: article
     provider:
