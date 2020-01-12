@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
-  - title: "Computer Vision and the CCPA: What You Need to Know"
-    excerpt: "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
-        width: 1200
-        height: 744
   - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
     excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
     publishedDateTime: 2019-12-23T20:12:00Z

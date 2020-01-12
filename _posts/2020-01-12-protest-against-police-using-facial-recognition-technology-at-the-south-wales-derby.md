@@ -1,44 +1,44 @@
 ---
 category: news
-title: "Voice Recognition technology and its growing influence"
-excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-publishedDateTime: 2020-01-11T11:43:00Z
-sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
+title: "Protest against police using facial recognition technology at the South Wales derby"
+excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
+publishedDateTime: 2020-01-12T15:37:50Z
+sourceUrl: https://www.msn.com/en-gb/sports/news/protest-against-police-using-facial-recognition-technology-at-the-south-wales-derby/ar-BBYSAZK
 type: article
-quality: 44
-heat: -1
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: TWCN Tech News
-  domain: thewindowsclub.com
+  name: Wales Online on MSN.com
+  domain: msn.com
 
 topics:
   - AI
-  - Natural Language Processing
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.1FDE87332CFA2273EC87DDE9EAA2DE87
+  - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
     width: 600
-    height: 271
-    title: "Voice Recognition technology and its growing influence"
+    height: 315
+    title: "Protest against police using facial recognition technology at the South Wales derby"
 
 related:
-  - title: "Protest against police using facial recognition technology at the South Wales derby"
-    excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
-    publishedDateTime: 2020-01-12T15:37:50Z
-    sourceUrl: https://www.msn.com/en-gb/sports/news/protest-against-police-using-facial-recognition-technology-at-the-south-wales-derby/ar-BBYSAZK
+  - title: "Voice Recognition technology and its growing influence"
+    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
+    publishedDateTime: 2020-01-11T11:43:00Z
+    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
+    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
+    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
     type: article
     provider:
-      name: Wales Online on MSN.com
-      domain: msn.com
-    quality: 48
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
+      - url: https://www.bing.com/th?id=ON.1FDE87332CFA2273EC87DDE9EAA2DE87
         width: 600
-        height: 315
+        height: 271
   - title: "Maybe Third Time’s the Charm for Facial Recognition Vote"
     excerpt: "A proposal that would ban use of facial recognition technology was first voted on by the Portland, Maine, City Council in November. They voted to postpone. On Monday, the council voted unanimously to postpone again, this time until June. (TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal ..."
     publishedDateTime: 2020-01-07T22:26:00Z
@@ -77,6 +77,6 @@ related:
         width: 700
         height: 394
 
-secured: "mgnfRt7nIPlIZUJ+cHukTs98xmxytyhpZ4xBLH1a+Ukzmgv/M3kEXhZNLuAcM69jDS3FnjbsnuGvftzO2aip1x/TYZOPz212IaYpwRfwo8g/30G0FNcslDby6v/Nt0+qugVXPg+zJNbEUf5J+CC4u9gcqMnahkPull3vCnWIhBYtpNkrqeDGw/p+BkKBQLiezA/9+Ied36D8upB/HeHq0R95I60bXFybWd+PD2/K8IKKUYGLiUvZYVY08zsWqxcC2HlhfnZBkJNFtNSps1II2g==;Pzp1g3b/cr2g+5djlGnRHQ=="
+secured: "cfwqFkTruam30tTrL8X2YLENK1Uk/DVzF3FsNSRczflswT4mQneshiDF+D7gVc9/UDjw0O+TjSV5tnn8po3eH4xUsBcp8mDfA6ImM2aR1NoQgq+guYLEiL9hU80tRGGNqdkKWuuBvnefRdFGQ+nFdCmlvHrvjnH94RXOyhajHJx9Ajpx4l+kS1I4RRobnEnWlFntHptCFOPtKSIouHIwN4F/Qbt09qX8Rt9d8jwMlbPMyrAqawLgFdvoOa18xn9wOJ0fGXDPq8KO6qsFkWII7g==;MOvfUz3bU1QP4BhMXFHapQ=="
 ---
 

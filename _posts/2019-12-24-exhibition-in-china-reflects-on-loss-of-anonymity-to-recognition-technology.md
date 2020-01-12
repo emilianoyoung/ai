@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
 type: article
 quality: 72
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -91,17 +91,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
         width: 700
         height: 495
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
 
 secured: "UK7qmKJenxAjQ3Jt2uwbhfz5mJetDuIGOxyRR5L/dZcGEeD0FfjOIpvQUHXUTEpXTWEqAfiWdtlOOjtDkZflBHnsI114nqECG5OQrgSSpoNotr5vZGdKDmAMu1UDX9j/aCBqU0NmpDG/lW6xY1wdsd3mE5BxYaMckSDTr+6cDUB4GpS/EzK/0396KayZY8QIOwOcjINGVfTKDPHdSLje6RI/Ne7ryBl9BvcF56X21YNeK+QGlVSVwdMs6/AK/I7vBeMOdHJ8tWdfZMGi6js+AQ==;/R3NlL+KLieNu46GKXlA9w=="
 ---

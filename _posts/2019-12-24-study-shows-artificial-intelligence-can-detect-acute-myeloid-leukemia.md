@@ -26,21 +26,32 @@ images:
     title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
 
 related:
-  - title: "Artificial intelligence can detect AML with high reliability"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://www.news-medical.net/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
+  - title: "Artificial Intelligence can help detect blood cancer: Study"
+    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze."
+    publishedDateTime: 2019-12-22T10:51:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: TheHealthSite
+      domain: thehealthsite.com
     quality: 59
     images:
-      - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
-        width: 620
-        height: 480
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg
+        width: 675
+        height: 365
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
 
 secured: "sIaIogcU6Hevn8u2L5nkuyChIoCi1QeUs1H/sYO6m7otsUIY4e0KxZXhZCpeviguaeH0mIChp2Co74fsgMVctEHNEzCos3aFhfVRfygcgV01mAtRX0CBMSVLVHwco53A3e7sfc3VfU/3lVrhnx//++WvYyRnhJjH/BjcdK5Rz1+Vd86e775gA3mWlzmsQthd3Mu/QH9PExsLOzJNiXl+6qqZ5MWGjIbHMnHctUAeJ7on5YFFLbYd0fbzZDM5UTFMQ7fSbTzmCuXMUL8ZTeJ/wg==;ipsnCv3Ecnxox86KMPWJfA=="
 ---

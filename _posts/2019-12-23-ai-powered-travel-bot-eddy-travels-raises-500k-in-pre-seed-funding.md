@@ -25,21 +25,6 @@ images:
     title: "AI-Powered Travel Bot Eddy Travels Raises $500K In Pre-Seed Funding"
 
 related:
-  - title: "Eddy Travels closes pre-seed round led by Techstars to scale its AI travel assistant"
-    excerpt: "Eddy Travels, an AI-powered travel assistant bot which can understand text and voice messages, has closed a pre-seed round of around $500,000 led by Techstars Toronto, Practica Capital and Open Circle Capital VC funds from Lithuania, with angel investors from the US, Canada, UK. Launched a year ago in November 2018, Eddy Travels claims to have ..."
-    publishedDateTime: 2019-12-23T15:20:00Z
-    sourceUrl: https://techcrunch.com/2019/12/23/eddy-travels-closes-pre-seed-round-led-by-techstars-to-scale-its-ai-travel-assistant/
-    ampUrl: https://techcrunch.com/2019/12/23/eddy-travels-closes-pre-seed-round-led-by-techstars-to-scale-its-ai-travel-assistant/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/23/eddy-travels-closes-pre-seed-round-led-by-techstars-to-scale-its-ai-travel-assistant/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 180
-    images:
-      - url: https://www.bing.com/th?id=ON.11213D6C0984A65BAFB152A90AFE24DA
-        width: 452
-        height: 400
   - title: "Travel-focused AI startup TravelFlan raises $7m in series A round"
     excerpt: "TravelFlan, a Hong Kong-based travel and lifestyle solutions provider backed by AI, announced it has raised US$7 million in a series A funding round led by Sogong PinPoint Kclavis AI Travel Tech Fund, an investment arm of Lazard Korea. Artesian Capital, Linear Venture, Construction-Radiant Tech Ventures Fund, Hong Kong government’s ITVFC fund ..."
     publishedDateTime: 2019-12-24T08:57:00Z
