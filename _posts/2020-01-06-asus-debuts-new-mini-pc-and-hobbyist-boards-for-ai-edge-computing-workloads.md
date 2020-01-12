@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/asus-debuts-new-mini-pc-and-hobbyist-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/asus-debuts-new-mini-pc-and-hobbyist-boards-for-ai-edge-computing-workloads/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C917F5ACD2A1EE486BFB162994F4850C
         width: 700
         height: 393
+  - title: "The Next Frontier: Making AI Smarter with Edge Computing and HCI"
+    excerpt: "For instance, Cerebras, a next-generation silicon chip company, which just introduced its new “Wafer Scale Engine,” is a perfect example of this. It is designed specifically for the training of AI models. The new chip is phenomenally fast with 1.2 trillion transistors and 400,000 processing cores. However all of this consumes an amount of ..."
+    publishedDateTime: 2020-01-12T00:22:00Z
+    sourceUrl: https://insidebigdata.com/2020/01/11/the-next-frontier-making-ai-smarter-with-edge-computing-and-hci/
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.4F1416EB29603DFBCB7570166B64ED49
+        width: 200
+        height: 200
 
 secured: "a4lvqU5HNRBlyZL3xeder3tqqVdF9dg5EDN25SspyGSq9OffWEeFx1pf9RSoD6Zi4p1LnPQvFnXoJCC6c+oGUaDjumAhU3la5Fu8fP+gRJr633SCYws2sQw9dqBLah/jexbD6r3ektSwsmVLv9Vk+jvc//o1+Pl+YVjMbBZExN1qg+aYxspJQwCM+nsnrCTsXY/XTgC1Q132pA7t9+nyjvgZeb4x9LJtQakV3NPfMhcoErMZokpp55haj3N/buF19u6VeeglOqUdkT/9XrXuVA==;ONCXc0kPJFDMJp1YlY6TJQ=="
 ---

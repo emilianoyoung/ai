@@ -30,15 +30,15 @@ images:
 related:
   - title: "Amazon’s AutoGluon automates deep learning for devs"
     excerpt: "Amazon has created an open source toolkit for automated machine learning, called AutoGluon, designed to make it easier for software developers to take advantage of deep learning models in their applications. AutoGluon is intended for both machine learning experts and beginners, the company says. Officially launched January 9, AutoGluon lets ..."
-    publishedDateTime: 2020-01-10T11:15:00Z
-    sourceUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
-    ampUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
-    cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+    publishedDateTime: 2020-01-10T11:04:00Z
+    sourceUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
+    ampUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
     type: article
     provider:
-      name: ITworld
-      domain: itworld.com
-    quality: 39
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 69
 
 secured: "FhEdJ1YnJ8NZCBHt2AIyUXo8BB0m82TbK+oMGatjHaf4KOqRrdSjDaY+BiXtSpCJ1+V660rA5YNG9cGD7d8SawREZzIks5lhRrwuO4K9KeF5F/HEKtlOzgK3UH5phqFKjzQapfOpeqH+rA4WN6FLWa6FGJnkq9iP91lbtqvhELaBRks2EhTD1+OEAW555UaiE3fdhOqloC/Wg2+OyluLJO32IQVLzbVS8Ihgu/ovZs1zurBuioooT4aKLTk9fQXWihXW4llOkoaPikvG8xDROg==;W/F4ziG7oRIXvBJljwliLw=="
 ---

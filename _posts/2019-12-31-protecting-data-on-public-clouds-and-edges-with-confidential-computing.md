@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C917F5ACD2A1EE486BFB162994F4850C
         width: 700
         height: 393
+  - title: "The Next Frontier: Making AI Smarter with Edge Computing and HCI"
+    excerpt: "For instance, Cerebras, a next-generation silicon chip company, which just introduced its new “Wafer Scale Engine,” is a perfect example of this. It is designed specifically for the training of AI models. The new chip is phenomenally fast with 1.2 trillion transistors and 400,000 processing cores. However all of this consumes an amount of ..."
+    publishedDateTime: 2020-01-12T00:22:00Z
+    sourceUrl: https://insidebigdata.com/2020/01/11/the-next-frontier-making-ai-smarter-with-edge-computing-and-hci/
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.4F1416EB29603DFBCB7570166B64ED49
+        width: 200
+        height: 200
 
 secured: "t/Mc9r/zrHbL0ynIUIidovRdQFFgTdUaN++YHO9N5DRJp3GWrtDw6onfPu+Nezd3/vetORenhKRTmdSDM/hkliSue5X1UepuVRr8Oef2GE/iB3XC5GU3Vf5LdfHI5g0/YOKc0Yl0WotoXGeqJTmfmH7lQMFhdKXUFIOQ/nzaAHm06T49eh61pSCN+SL4wIz974XZqIf5aKPL3r/eF6MmuTL9VaYeeqvzSTooH9lLfqoxucGCpKiR8abFgKCV+H4w2JSqaWPzXOzHH2vTH0zBXw==;Iq8iiXXCMykK34j/OPNR1g=="
 ---

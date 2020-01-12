@@ -1,30 +1,27 @@
 ---
 category: news
-title: "ASUS Announces Tinker Edge T a single-board computer (SBC)"
-excerpt: "It is also optimized for TensorFlow Lite models, making it easy to compile and run common ML models. NXP i.MX 8M processor With its powerful and modern quad-core ARM-based NXP i.MX 8M processor, Tinker Edge T offers a powerful solution for graphics, machine vision, video, audio, voice, and safety-critical applications. Tinker Edge T features 1 ..."
-publishedDateTime: 2020-01-08T10:00:00Z
-sourceUrl: https://www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/
-ampUrl: https://www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/amp/
-cdnAmpUrl: https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/amp/
+title: "The Next Frontier: Making AI Smarter with Edge Computing and HCI"
+excerpt: "For instance, Cerebras, a next-generation silicon chip company, which just introduced its new “Wafer Scale Engine,” is a perfect example of this. It is designed specifically for the training of AI models. The new chip is phenomenally fast with 1.2 trillion transistors and 400,000 processing cores. However all of this consumes an amount of ..."
+publishedDateTime: 2020-01-12T00:22:00Z
+sourceUrl: https://insidebigdata.com/2020/01/11/the-next-frontier-making-ai-smarter-with-edge-computing-and-hci/
 type: article
-quality: 46
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PCQuest
-  domain: pcquest.com
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
   - AI
-  - Google AI
-  - Computer Vision
+  - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.C917F5ACD2A1EE486BFB162994F4850C
-    width: 700
-    height: 393
-    title: "ASUS Announces Tinker Edge T a single-board computer (SBC)"
+  - url: https://www.bing.com/th?id=ON.4F1416EB29603DFBCB7570166B64ED49
+    width: 200
+    height: 200
+    title: "The Next Frontier: Making AI Smarter with Edge Computing and HCI"
 
 related:
   - title: "Asus debuts new mini PC and hobbyist boards for AI edge computing workloads"
@@ -57,20 +54,22 @@ related:
       - url: https://www.bing.com/th?id=ON.D57852237CBAC8808C2F7D502008D71B
         width: 700
         height: 588
-  - title: "The Next Frontier: Making AI Smarter with Edge Computing and HCI"
-    excerpt: "For instance, Cerebras, a next-generation silicon chip company, which just introduced its new “Wafer Scale Engine,” is a perfect example of this. It is designed specifically for the training of AI models. The new chip is phenomenally fast with 1.2 trillion transistors and 400,000 processing cores. However all of this consumes an amount of ..."
-    publishedDateTime: 2020-01-12T00:22:00Z
-    sourceUrl: https://insidebigdata.com/2020/01/11/the-next-frontier-making-ai-smarter-with-edge-computing-and-hci/
+  - title: "ASUS Announces Tinker Edge T a single-board computer (SBC)"
+    excerpt: "It is also optimized for TensorFlow Lite models, making it easy to compile and run common ML models. NXP i.MX 8M processor With its powerful and modern quad-core ARM-based NXP i.MX 8M processor, Tinker Edge T offers a powerful solution for graphics, machine vision, video, audio, voice, and safety-critical applications. Tinker Edge T features 1 ..."
+    publishedDateTime: 2020-01-08T10:00:00Z
+    sourceUrl: https://www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/
+    ampUrl: https://www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/amp/
+    cdnAmpUrl: https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/amp/
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
+      name: PCQuest
+      domain: pcquest.com
+    quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.4F1416EB29603DFBCB7570166B64ED49
-        width: 200
-        height: 200
+      - url: https://www.bing.com/th?id=ON.C917F5ACD2A1EE486BFB162994F4850C
+        width: 700
+        height: 393
 
-secured: "0VLCxJML5HYNgC5i1G338n0NSMC1XBcfX+NAFKkaLH+FSasA3DXQ/s7lCcGgGUqrJbOG7804xgjD/KOd7ySVuoWlZCvISXWUuv0HE+wU4mm4tSvAgI7kt+HOeuYBeQZU7CH5TZZaa7WH796bettCn27nq3Sdy1DoD+PhQTTdhSvKpD3W52TSuJPhAUcdPrNUfiYoKb/q0ZnZwJ3+Q2lv8H6O7s/woKHef86Qi2DXhSlbqEPLUqLL6uv80G8OHCymz2PCCL+zRcLb3j3ooLqKoQ==;R8oM6WlIw325Wkx18sg1DA=="
+secured: "h/Gqe7aBXVDZwrXdFgIzyYBUIjdGd897PEAlbhgs1yLKSs6x5rHHLRdyMHMZktC+TCNaKMaJnrmnAWHpyd9EPRdEwVviNM9wVY87fhIQ7WoWjbxO2v41mdN0RUcTHWcIIn9BrNQi3edRuEa8cgSQUj9RQFRRY/fk1AOSbm6NAjdOXoCnW2Cgk7M1FoN4/WDLsuUlYGHxYsenDMXuNH1opZ2qixXz0oh6zN1/wqNOWrAWk4KJv1XLGtC1K4Qo/HhNKIyvSdN6/+qNQ51XnFeBHg==;p8GFfD+H4X3k9FXqj347bw=="
 ---
 

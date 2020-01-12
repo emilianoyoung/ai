@@ -70,6 +70,6 @@ related:
       domain: psychologytoday.com
     quality: 26
 
-secured: "dSgu8AY/3sT1tjxH+REalh8Y3aFv9dNPiGSsdC6PfffGjtwMBXK4lw2w/PZr3gL9Ok8e0KcRJDwWM//izyzVCGvibqsabi1zuycCHjsSVBVpGAKCuR8xPNU0HejdQbe0i6ci8UBVI8mcCzVEQJNE8wTm6VmwutrH/bA+Q8YXUYb0MH7ekTLhEVBj2D85k1F3ZqohUXZr9W3RRTY5jqVrj/m0V6QiBxP7j/jFHfgFpHz3fg8sNgIDOSoYb1tr23bI4vhc+ivmD+S4UU8JhPWXTw==;KCS0b9aysKKC6BOphoHmcg=="
+secured: "0ENK8I29RmEl+ounz7kgZ158HP9kiGLGuGQkJyT8dcSOPws7cKPmDk8PAYFhhdLnJJHYxqChSRB4mY+cKserwb4ti892E9oCyOEXSG5yxphEhdDjevPqlYbr6xFgoS1liKd0SmtAqQ/O8r49IU9QWG5pSI0k9oZpTx+OeLH7bbwJ0mMizYDkMXf0Sgs1LyjKrP7yQDIjv9O8Hu7ubQav/OFSceGxJQeMv4Eu6Att3KoVMt21gTObkScvRqNZs9Ya5D/7tL8K842LyZ/+zbFafg==;0pE3wSxe6j6W/9joVJCnmg=="
 ---
 
