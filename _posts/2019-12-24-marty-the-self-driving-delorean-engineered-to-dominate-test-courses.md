@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AB07B4C9CECB31BB38411BA921230ACA
         width: 700
         height: 367
-  - title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
-    excerpt: "Stanford engineers have somehow taken the iconic DeLorean and made it even cooler, by teaching the vehicle self-driving capabilities to flawlessly drift through a racecourse. The DeLorean, which left its mark on the movie industry through the Back to the Future series, is now also turning heads in the self-driving technology space ..."
-    publishedDateTime: 2019-12-23T02:01:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/
-    ampUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
-    images:
-      - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
-        width: 700
-        height: 366
   - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
     excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
     publishedDateTime: 2019-12-23T22:33:00Z

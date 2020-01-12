@@ -26,49 +26,43 @@ images:
     title: "Cognitive intelligence, in-memory-computing and more in 2020"
 
 related:
-  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
-    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the U.S. and also in China are some less crowded areas and ..."
-    publishedDateTime: 2020-01-10T05:51:00Z
-    sourceUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/
-    ampUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
-    cdnAmpUrl: https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
+  - title: "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025"
+    excerpt: "“Grand View Research, Inc. – Market Research And Consulting.” Artificial Intelligence in Healthcare Market Size, Share, & Trends Analysis By Component"
+    publishedDateTime: 2020-01-09T08:35:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025
+    ampUrl: https://amp.benzinga.com/amp/content/15096479
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479
     type: article
     provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 57
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 61
     images:
-      - url: https://www.bing.com/th?id=ON.96CF28EFB8634143492CCB333890EFE7
-        width: 700
-        height: 393
-  - title: "Trump administration’s CES message: We’re not interested in heavy AI regulation"
-    excerpt: "He touted a series of AI principles that the White House released earlier this week, that stipulate the government should ensure AI is safe and unbiased but engage with industry in any rules it develops to ensure that. “If we’re too heavy-handed with artificial intelligence, we end up stifling entire industries, and we want to make sure to ..."
-    publishedDateTime: 2020-01-09T13:44:00Z
-    sourceUrl: https://www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/
-    ampUrl: https://www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/?amp=1
+      - url: https://www.bing.com/th?id=ON.F09976806D1E0EF0F4294E2A66AF1579
+        width: 600
+        height: 300
+  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
+    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
+    publishedDateTime: 2020-01-08T05:29:00Z
+    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 53
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.7AECCBDD301CD0F1A19D61C9B52FFFE7
-        width: 700
-        height: 449
-  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
-    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
-    publishedDateTime: 2020-01-07T15:35:00Z
-    sourceUrl: https://www.fleetowner.com/technology/autonomous-vehicles/article/21119908/artificial-intelligence-in-transportation-is-not-science-fiction-anymore
+      - url: https://www.bing.com/th?id=ON.820DBC9D9B739CF5F2CF93320F921140
+        width: 599
+        height: 450
+  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
+    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
+    publishedDateTime: 2020-01-07T11:09:00Z
+    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.F3AE4E6AA7147C9C64BBCAEC7EDFB7AC
-        width: 700
-        height: 440
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
 
 secured: "BPkNwHSH3upEOJVzEh2jasanIS0uCTOi7AW/jRPRnL6Y6nFSpbZYidkj/dTQN4uwR3CDD+EZ+KRCu7hioKxW2b/ad92fz/NuiIkLWO5kQAP11158aA1SPkJtHtdmFzfxLu5OmJnDb2bhfQ3/2ytfl3Zzs257xXAZLwgeFzsVd84kK+B8YqE6UgNvxl+OI0yJShNYmMjTscndff2rK82VJUyD9laD60aIZ3s57/ykm0+jZin6+7rt2dBz4ynHYc5jKwZh+vXj2Yb6J7WmJCQlIQ==;uzJ5xN510UfPKdA0UJF6jg=="
 ---
