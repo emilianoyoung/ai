@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FFA93CC533D309EC0DF03A9E4545BB07
         width: 700
         height: 466
+  - title: "The White House’s new AI principles won’t solve regulatory problems"
+    excerpt: "This week, the White House released 10 “AI Principles,” intended as guidance for federal agencies while they consider how to appropriately regulate AI in the private sector. It’s an effort to help reduce the potential harms of AI that have been under scrutiny all over the world, while maintaining the benefits to society AI can bring."
+    publishedDateTime: 2020-01-12T03:19:00Z
+    sourceUrl: https://venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/
+    ampUrl: https://venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.73D3D8F2A367FDA30C4B02CAB42524AC
+        width: 700
+        height: 350
   - title: "White House cautions against over-regulating AI in new guidelines"
     excerpt: "The White House will formally announce its AI regulation guidelines at CES Wednesday. Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed ..."
     publishedDateTime: 2020-01-07T16:50:00Z

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - Machine Learning
 
 images:
@@ -26,21 +25,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-related:
-  - title: "Crouse Health brings artificial intelligence to stroke care"
-    excerpt: "Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm focuses on using applied artificial-intelligence software in health care to “reduce time to treatment and improve patient outcomes,” per Crouse Health’s Thursday news release."
-    publishedDateTime: 2020-01-09T21:56:00Z
-    sourceUrl: https://www.cnybj.com/crouse-health-brings-artificial-intelligence-to-stroke-care/
-    type: article
-    provider:
-      name: Business Journal News Network
-      domain: cnybj.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.19C1E68506836B08D95A29A8304B883A
-        width: 400
-        height: 300
-
-secured: "NgyEnhh6nZZ8kkGyc55El6OA2spALu7kc/MRJgNx3IpbN9/IJBGlgUrexKuNu16ItAXbkVnh05UXmfGqdQaiS77FFCK44wbCZ/IgKL74YqVg25riymNwH0QdzJ0Gwjd7Irn7kdidc0kDCHAdHDwThY1QDfx3jswULJB5TSqm0QSNiXfp3DRfTOspbc5fWi7eAFJsVb6/Nm6K5Txvaj+habDDCGsak5XV205XlFG+L9EWoQWzPj7CQVu/v8CjpuCEV4yJy9R+B7u2s45g60o6Sw==;L1Rrbj+BCgX0wwWzBUsYAw=="
+secured: "EBa0ktVYXyAwRdxEL7v+wCGrR/lkxJG1YUnqBHbEdHnLuzw1on27IMQ1lTr++MmYxXA/+H7Yhe2aFOqHqFbUJP+BxRM1IErHlwX7xh7b6T5JRw1k6xdlThFuh09reVi7tWs/7WTyDi/hYpYWAyIUgO2p+/DcYAhOOul9ITk4DMqZxau607TqXhNGa/s8lONW5EACK6vN/PFohtSVmBdVe13PN8yusJFGtV5oDuzIv8PnfqDMm5f4z8qiXVHhqlhWfd2pOvJduenU2OsNcIfE6g==;Dt5tJxZqdp8uX41ucC2kGg=="
 ---
 

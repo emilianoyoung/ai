@@ -25,6 +25,23 @@ images:
     height: 365
     title: "10 Things to do at Cyprus Fintech Expo 3.0"
 
+related:
+  - title: "Sanjay Swamy of Prime Ventures explains why it is an exciting time to be a fintech entrepreneur in India"
+    excerpt: "Despite a recent bias towards the consumer and merchant segments, the flourishing ecosystem is sure to help industry startups that cater to the fintech needs of large corporations. With the right incentives and support, entrepreneurs can build a team to integrate AI and blockchain into the Indian fintech industry. Israel has found its calling ..."
+    publishedDateTime: 2020-01-12T01:38:00Z
+    sourceUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi
+    ampUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.57A18C74BB27EFFE38ED38F0CE1DA33E
+        width: 700
+        height: 350
+
 secured: "jWLN1x5U5aZzoKo+7FjcC4CrDbc+N8iQ/x5RiUwBjJY6jj/LRk4MQtBHyL4Zjx6/l7mz/FTW+mefzgnjRrKfndJNLLpIsiyykRUM+ah4CHUXL7aJQcYlh8MMeVnP3vr0lpBLOYAVrd/8YuK6GY7cMgTOLu94QAkdNsjiTu/jeQf6wWed0nNjE24fqY6TLykE3tTVR7uiSkKHf87Il1TMWfAnoa7BN3mPm5yTYS0sLfWxgsG67HMmpHFq88TjCaUaOvFe51oNrB7L5jYhVS2MdQ==;b7mJDTR7ImU8VaehVZ8CuA=="
 ---
 

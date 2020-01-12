@@ -18,6 +18,34 @@ topics:
   - AWS AI
 
 related:
+  - title: "Amazon Web Services to boost drone innovation in India: Here's how"
+    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
+    publishedDateTime: 2020-01-06T11:21:00Z
+    sourceUrl: https://www.indiatvnews.com/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
+    ampUrl: https://www.indiatvnews.com/amp/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
+    cdnAmpUrl: https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.925CD75C592C3CC4E78FA81CF3555D6B
+        width: 700
+        height: 393
+  - title: "KNIME on Amazon Web Services Now Available to Productionize AI/ML"
+    excerpt: "ZURICH & AUSTIN, Texas--(BUSINESS WIRE)--KNIME, a unified software platform for creating and productionizing data science, today announced the availability of KNIME on AWS, its commercial offering for productionizing artificial intelligence (AI)/machine learning (ML) solutions on Amazon Web Services (AWS). KNIME on AWS is designed to allow ..."
+    publishedDateTime: 2020-01-10T13:15:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200110005076/en/KNIME-Amazon-Web-Services-Productionize-AIML
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.6E36BC21707BEB1FE8EB264024E07A49
+        width: 700
+        height: 365
   - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
     excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
     publishedDateTime: 2020-01-06T12:36:00Z
@@ -63,21 +91,19 @@ related:
       - url: https://www.bing.com/th?id=ON.98DCC856A5B2BA285F2B3CF5FF860901
         width: 600
         height: 337
-  - title: "Sanjay Swamy of Prime Ventures explains why it is an exciting time to be a fintech entrepreneur in India"
-    excerpt: "Despite a recent bias towards the consumer and merchant segments, the flourishing ecosystem is sure to help industry startups that cater to the fintech needs of large corporations. With the right incentives and support, entrepreneurs can build a team to integrate AI and blockchain into the Indian fintech industry. Israel has found its calling ..."
-    publishedDateTime: 2020-01-12T01:38:00Z
-    sourceUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi
-    ampUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
+  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
+    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
+    publishedDateTime: 2020-01-08T05:29:00Z
+    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 42
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.57A18C74BB27EFFE38ED38F0CE1DA33E
-        width: 700
-        height: 350
+      - url: https://www.bing.com/th?id=ON.820DBC9D9B739CF5F2CF93320F921140
+        width: 599
+        height: 450
   - title: "Amazon's Cloud arm to drive drone innovation in India"
     excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-07T01:10:00Z
@@ -91,32 +117,6 @@ related:
       - url: https://www.newkerala.com/news/pics/r/family_vacation_dog.jpg
         width: 500
         height: 333
-  - title: "Huawei Thanks Indian Govt For 5G Trials Permission, Says Committed To India"
-    excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
-    publishedDateTime: 2019-12-31T13:39:00Z
-    sourceUrl: https://www.republicworld.com/india-news/general-news/huawei-thanks-indian-govt-for-5g-trials-permission-says-committed-to-india.html
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.5C2CCEAC80BCD5281F1682F908C2B825
-        width: 700
-        height: 399
-  - title: "Huawei thanks Indian Govt for 5G trials permission, says committed to India"
-    excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
-    publishedDateTime: 2020-01-01T00:10:00Z
-    sourceUrl: https://in.news.yahoo.com/huawei-thanks-indian-govt-5g-105307364.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
 
 secured: "EGPMEpsRdSdZoiKP4jnM8fyCC3zmrAAJ6JhGs2n9pusooSTJweBx2HAtzQnoJxzeRpqnVliQimAMZszaOXfbLUeGN89L5fMKs12z9cLlPLTj+5g+cYx7ZZwpftvaqWrolkrIZBOEP7Miui6etvN2w8X1vqYWLxEMqyag9C16Z0ynwoE3NbMPkyyGxF2iKEAX/tyPZM5yoNn4RACgRbAElPM6BTHf2B5OjH16EjYebNGETbOmHDVgCqm6YoZwtDTfd4TbnmD93KrMrh7U+Ei29w==;MJWhFf1uJJXA1SMWiF8u6Q=="
 ---

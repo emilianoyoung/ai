@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.96CF28EFB8634143492CCB333890EFE7
         width: 700
         height: 393
+  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
+    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
+    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
+        width: 700
+        height: 373
   - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
     excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
     publishedDateTime: 2020-01-07T15:35:00Z
