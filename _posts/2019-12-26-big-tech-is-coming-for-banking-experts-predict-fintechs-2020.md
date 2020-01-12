@@ -67,15 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
         width: 700
         height: 350
-  - title: "What will Fintech scene look like in 2020 according to the industry experts"
-    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
-    publishedDateTime: 2019-12-23T13:15:00Z
-    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
 
 secured: "4YZu19DBnVpEAm5EISv11HjjMsteJRRtty8yHrKxHrUFMT3aoLvkmxxregYUWXj90w428DRXws9TzkyTk+HzB7VP/GiwoLV517gpr0KIFnD8i6uk+5GLHcGKk2ME4LO7tkvsGLuiFXr4Y7vqn9IHkFO71Yr7EIPRbuHLpclnGzduldn9QRwgQ7cd1gIhbtfXncFQ87sWYGr9fTG/pkUvIxAiXjN3LBjvSS1OGnIJdMBwh6lKo50nnf6213dV5rsJKXmr10xU/2meXaJsTGuGsg==;AM7Oyo/79WcYRmHnXMhYEA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-sw
 cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
 
 related:
+  - title: "Anger over use of facial recognition at south Wales football derby"
+    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
+    publishedDateTime: 2020-01-12T14:05:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.366056A15FB0553FB1FDE21C5145002D
+        width: 700
+        height: 367
   - title: "Facial recognition at South Wales derby 'a step too far', says police chief"
     excerpt: "North Wales police and crime commissioner criticises plans for Cardiff and Swansea clash"
     publishedDateTime: 2020-01-08T18:48:00Z

@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7480F9C75F0347A12CB217F8EBEE5680
         width: 700
         height: 393
+  - title: "Anger over use of facial recognition at south Wales football derby"
+    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
+    publishedDateTime: 2020-01-12T14:05:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.366056A15FB0553FB1FDE21C5145002D
+        width: 700
+        height: 367
   - title: "Facial recognition at South Wales derby 'a step too far', says police chief"
     excerpt: "North Wales police and crime commissioner criticises plans for Cardiff and Swansea clash"
     publishedDateTime: 2020-01-08T18:48:00Z

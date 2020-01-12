@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-managemen
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
         width: 700
         height: 350
-  - title: "What will Fintech scene look like in 2020 according to the industry experts"
-    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
-    publishedDateTime: 2019-12-23T13:15:00Z
-    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
 
 secured: "qVSCf5+3wK9emkfAmBAJmlB4xJ7+XscA/DjvYMcAQtoPq+0TvrjpfdZHwirXj5QA5mtpOgWY1tNrJ4szS582RDgfF8hkUkla5eIL/LynUGY9Iqm4LJCcNgt74WMLr0uBdsMVsGTDsWIoZP7Q/0vbHXPV+/7w4RiaggRLqYXSjlYgZ+mv0AueAgila3Ph6e9XVShJKQvlTKYs9hnHOxdrNl08LIpWkceszu7jNmObDivTyOXlS0pvjeFi7ifqn4RR3wwcH9dmsAXDknCFVd4Y7w==;bcgybrXbrPDUsz7oKTbQqg=="
 ---

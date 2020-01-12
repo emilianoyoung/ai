@@ -52,6 +52,36 @@ related:
       - url: https://www.bing.com/th?id=ON.5A3723BF023CA0D020FB912B380406CA
         width: 700
         height: 233
+  - title: "Healthcare: How innovation is moving the focus away from sickcare and bringing it back into the home"
+    excerpt: "In the latest episode of the Arabian Business Enterprise Innovators Series, in association with UPS, we look at how technological advances are revolutionising and disrupting the $80 billion healthcare sector in the GCC ... leverage the advances in digital health research, such as artificial intelligence, cognitive psychology, blockchain ..."
+    publishedDateTime: 2020-01-12T14:53:00Z
+    sourceUrl: https://www.arabianbusiness.com/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F5E9BE663C9E82188B0EE3CD49039D58
+        width: 700
+        height: 367
+  - title: "Special sunglasses, license-plate dresses, Juggalo face paint: How to be anonymous in the age of surveillance"
+    excerpt: "Researchers have long criticized the lack of oversight around AI, given its potential for bias. A recent National Institute of Standards and Technology study that looked at facial-recognition algorithms, including from Microsoft and Intel, showed Asian and Black people are up to 100 times more likely to be misidentified than white people."
+    publishedDateTime: 2020-01-12T13:00:00Z
+    sourceUrl: https://www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/
+    ampUrl: https://www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.41CA5E7A38A69F31041E543AF60BFA07
+        width: 700
+        height: 449
 
 secured: "diT26iNUM5cD3LcjUff+GEhL7B8sODWMQQ66SJh5w+6LLXh1kntvTIaN2JJBnM6Yj322KA5BINWXEb0MgxReAzQWNOjAgMn5EYhCKqhwocaTmfGZPGUfq9WGSi+RJ1/VbTFYofoTt2b6VxokBJHwj0jnpqF3dHgKNYYw8CE2+ajxDNZEtXVWW9yRpqA8xCHj8T3n1fN7w3iXCyRBHUHtwdl53XgkmVjLwvzNpIoUhq5TwpQbQqJI5I8x8KDqCF/hdnEFslWFjJdeNU1Em/sI0Q==;4djb1OEwqR264ZIaHhJbQA=="
 ---

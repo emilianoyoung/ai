@@ -1,34 +1,46 @@
 ---
 category: news
-title: "Three AI Technology Trends To Watch In 2020"
-excerpt: "John Turner is the founder of SeedProd, the most popular coming-soon page solution for WordPress used by over 800,000 websites. Today we are going to take a look at the newest trends in artificial intelligence as we enter 2020."
-publishedDateTime: 2020-01-09T12:33:00Z
-sourceUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/
-ampUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
+title: "Artificial Intelligence Stocks to Watch in 2020"
+excerpt: "Some of these technologies include Machine Learning (MI), Natural Language Processing (NLP), Predictive Analysis, Image Recognition, and Robotics. The artificial intelligence market was valued at $23.94 billion in 2018. It is expected to grow to $208.49 billion by 2025, a compound annual growth rate (CAGR) of 36.2%. The technology is already ..."
+publishedDateTime: 2020-01-12T14:08:00Z
+sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
 type: article
-quality: 87
-heat: 167
-published: true
+quality: 43
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: ABC7
+  domain: abc-7.com
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Autos
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.8E924E479DAD5D88CD24A9C794DEA21E
-    width: 600
-    height: 315
-    title: "Three AI Technology Trends To Watch In 2020"
+  - url: https://www.bing.com/th?id=ON.B9619FE986D8EDB98A5D3402416C05A6
+    width: 700
+    height: 466
+    title: "Artificial Intelligence Stocks to Watch in 2020"
 
 related:
+  - title: "Three AI Technology Trends To Watch In 2020"
+    excerpt: "John Turner is the founder of SeedProd, the most popular coming-soon page solution for WordPress used by over 800,000 websites. Today we are going to take a look at the newest trends in artificial intelligence as we enter 2020."
+    publishedDateTime: 2020-01-09T12:33:00Z
+    sourceUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/
+    ampUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.8E924E479DAD5D88CD24A9C794DEA21E
+        width: 600
+        height: 315
   - title: "Alibaba’s tech brain trust sees new AI advances, industrial IoT among big trends in 2020"
     excerpt: "Lagging in semiconductors, China sees a chance to overtake the US with AI chips as 5G ushers in new era 4. Modular design method will makes chips easier and faster to develop. The traditional method of chip design “cannot efficiently respond to the fast evolving, fragmented and customised needs of chip production”, the Damo Academy said."
     publishedDateTime: 2020-01-02T23:28:00Z
@@ -74,19 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B4E52B61671936F78477A36071FDF3CB
         width: 700
         height: 393
-  - title: "Artificial Intelligence Stocks to Watch in 2020"
-    excerpt: "Some of these technologies include Machine Learning (MI), Natural Language Processing (NLP), Predictive Analysis, Image Recognition, and Robotics. The artificial intelligence market was valued at $23.94 billion in 2018. It is expected to grow to $208.49 billion by 2025, a compound annual growth rate (CAGR) of 36.2%. The technology is already ..."
-    publishedDateTime: 2020-01-12T14:08:00Z
-    sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
-    type: article
-    provider:
-      name: ABC7
-      domain: abc-7.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.B9619FE986D8EDB98A5D3402416C05A6
-        width: 700
-        height: 466
   - title: "Tech in the 2020s: Five big trends"
     excerpt: "Put together, 5G and IOT could mean anything we want it to – and dealing with this constant flood of data would require new artificial intelligence to sift through it ... Would we move any closer to AI-powered driverless vehicles becoming a mainstay on motorways? Despite the hype, Parry pointed out that what fully automated vehicles we ..."
     publishedDateTime: 2020-01-03T16:11:00Z
@@ -140,6 +139,6 @@ related:
         width: 700
         height: 465
 
-secured: "1TH1P7MIS1YtMHG73DW6EOrPdUNgErsZLjyRqCnZNWeCAkI1TlR+kFPmBNKYF3kx+Rcps7FVbt60SAmtkZDigtokfqa9YJGYTUa5WjnfWLyiqpLpH8va/Ox1KYeGy+/sOcLAM6A1b5CrYwivAbhKSDH7MZb4lvxZ+qQ2Mlspa36HX+Ipu1AOVeQgxNGtqk9XXiQdfAJBqyvewxNe1dWre9+uCg0PlCOlpr7qZ3KK/delypq0lTLLazfhc60ob+F2xAoa7ZLFdC0rQMkKcWY2vQ==;WFVdhFanhs4WgkvQZ+2T0Q=="
+secured: "TQBNt9E9XfXHLQyp15SnKj+jYULvCEZHs1zGucjxhGQ7vZSYIGQBem4Bp/TiZkrddOVLtmV01z4SAjwadhpt+kNqsrx0cihDKV+Xiv/d2GisLmaI3/Ogrve+qkXqzVpg5UfoSlcicyksCFPr2Q1JEms6J+MsuYLT18NMSOWUTDvAff8VRskagHNsipfxFNz0mOh1Ew1X6p4Yw1cMcvySbix6/49ELCJzA2BJNMVPksIhYICYUBbpwKeJq5ofjaywJ8s0vmQfokxm26FU3vrilg==;Z0XlqUednWtVzC37j6pg1w=="
 ---
 

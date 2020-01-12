@@ -23,21 +23,19 @@ images:
     title: "2020 ADA Standards of Care just arrived and now includes AI to prevent blindness"
 
 related:
-  - title: "Why We Need A More Regulated Tech And AI Environment -- And Why That Will Probably Never Happen"
-    excerpt: "CEO of Lexalytics, the leader in cloud and on-prem text analytics solutions. Share to facebook Share to twitter Share to linkedin Earlier this year, 42 countries came together to sign a global framework designed to address the fact that no country has a formal AI governance and regulation strategy in place, meaning that tech giants such as ..."
-    publishedDateTime: 2019-12-23T13:52:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/23/why-we-need-a-more-regulated-tech-and-ai-environment-and-why-that-will-probably-never-happen/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/23/why-we-need-a-more-regulated-tech-and-ai-environment-and-why-that-will-probably-never-happen/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/23/why-we-need-a-more-regulated-tech-and-ai-environment-and-why-that-will-probably-never-happen/amp/
+  - title: "2020 ADA Standards of Care just arrived and now includes AI to prevent blindness"
+    excerpt: "CORALVILLE, Iowa, Dec. 23, 2019 /PRNewswire/ -- The nation's leading association that fights against diabetes released a new set of clinical standards that for the first time include the use of autonomous artificial intelligence (AI). The American Diabetes Association (ADA)'s 2020 Standards of Medical Care in Diabetes states that ..."
+    publishedDateTime: 2019-12-23T14:48:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/2020-ada-standards-of-care-just-arrived-and-now-includes-ai-to-prevent-blindness-300978985.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.A5DCC65DD6241C7931057955A00D8627
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.E6C305E83EA6AA4D7B8A9012B42446C4
+        width: 700
+        height: 366
 
 secured: "a4zf8BgEkPiz9/h0mczWlnTYDIeGfCy5vfKnsSnLM6Duwxlq7VF00guMA2irn+Nhrt/uB79nGiUOarQHRo2T5JfktEAJb7zX5XzIE5UqFyk/CHpha7OYWeSAr+aG1xwfKElXu+RtE1j7STtZWgzbV9+7teHMjGSLMyTMwlBpbnHVPZ+kF1/SeM4VkMP/ajg3OH9MTCc8GPexz6fe1UlvRe8lA7O195haHDCddXS//1DGzk+qpY5G4rlUL+dlkCtDuOLAR1iPmkkjA4XDjj68Jw==;Bl9LDq/dxHcmtjRcReC1ow=="
 ---

@@ -1,34 +1,44 @@
 ---
 category: news
-title: "Artificial intelligence: How to measure the ‘I’ in AI"
-excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
-publishedDateTime: 2020-01-12T09:07:00Z
-sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
+title: "Healthcare: How innovation is moving the focus away from sickcare and bringing it back into the home"
+excerpt: "In the latest episode of the Arabian Business Enterprise Innovators Series, in association with UPS, we look at how technological advances are revolutionising and disrupting the $80 billion healthcare sector in the GCC ... leverage the advances in digital health research, such as artificial intelligence, cognitive psychology, blockchain ..."
+publishedDateTime: 2020-01-12T14:53:00Z
+sourceUrl: https://www.arabianbusiness.com/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
 type: article
-quality: 86
-heat: 126
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: /assets/images/organizations/thenextweb.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Arabian Business
+  domain: arabianbusiness.com
 
 topics:
   - AI
-  - Machine Learning
-  - Google AI
+  - AI in Healthcare
 
 images:
-  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
-    width: 796
-    height: 417
-    title: "Artificial intelligence: How to measure the ‘I’ in AI"
+  - url: https://www.bing.com/th?id=ON.F5E9BE663C9E82188B0EE3CD49039D58
+    width: 700
+    height: 367
+    title: "Healthcare: How innovation is moving the focus away from sickcare and bringing it back into the home"
 
 related:
+  - title: "Artificial intelligence: How to measure the ‘I’ in AI"
+    excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
+    publishedDateTime: 2020-01-12T09:07:00Z
+    sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
+        width: 796
+        height: 417
   - title: "Grilling the answers: How businesses need to show how AI decides"
     excerpt: "In a study based on interviews with 4,400 consumers, Capgemini found that their views on ethics and AI threaten both company reputation and the bottom line – 41% said they would complain in case an AI interaction resulted in ethical issues, 36% would demand an explanation, and 34% would stop interacting with the company. The results show that ..."
     publishedDateTime: 2020-01-09T13:18:00Z
@@ -44,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5A3723BF023CA0D020FB912B380406CA
         width: 700
         height: 233
-  - title: "Healthcare: How innovation is moving the focus away from sickcare and bringing it back into the home"
-    excerpt: "In the latest episode of the Arabian Business Enterprise Innovators Series, in association with UPS, we look at how technological advances are revolutionising and disrupting the $80 billion healthcare sector in the GCC ... leverage the advances in digital health research, such as artificial intelligence, cognitive psychology, blockchain ..."
-    publishedDateTime: 2020-01-12T14:53:00Z
-    sourceUrl: https://www.arabianbusiness.com/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F5E9BE663C9E82188B0EE3CD49039D58
-        width: 700
-        height: 367
   - title: "Special sunglasses, license-plate dresses, Juggalo face paint: How to be anonymous in the age of surveillance"
     excerpt: "Researchers have long criticized the lack of oversight around AI, given its potential for bias. A recent National Institute of Standards and Technology study that looked at facial-recognition algorithms, including from Microsoft and Intel, showed Asian and Black people are up to 100 times more likely to be misidentified than white people."
     publishedDateTime: 2020-01-12T13:00:00Z
@@ -88,6 +83,6 @@ related:
         width: 700
         height: 465
 
-secured: "+aggt5pXJUwZvBvkV+MZVJmNN8pijSx8f1SjcvXwtDJ1eDImoNivXKZI2jXTZC9CK63dBcAMc2HdVnLZQraiaQOfAxuRVtqF7w5bLoBgBrcEZ7xgQQd3dhHG8rZN43Fgz5yTWQ0JWXTQTgbgwjXFjGnhIUrrgh7aAwk+s6GW78MQRHyd/xsqjfXhjVBmFIZgAiurTEgmEww7U49/N4VbwH5QkPnfDrejPwgc9zJs6ZwJhh36NzA6G0Erva4lUfOfw0DaCfZru9wRoCYkCtypKg==;pSCq10lTHxQ0R5MRdu8dNQ=="
+secured: "1GV22J/EmTH/aztKwzwFXBx5imZA+mQcpOXGm6oxss0LDzbbKeIiOC+LfphRNUDLJozrspoPBc5ssCTN/xeRK2d/X3/hSteWLMnf2Zwc3GLFRt0DdZMAOgjK6E6RDagAXNnDdwgWvycuRY/N4kDLFLzG/Pt60HedHqCdJj4d0kDhuTAsvD93tTKDT33oITJL2YrzJpBCtSPZiU2MMbsbMrKoBwKUNPdh0EAe/Uf9TBC9Es1SJk53b9nyLKmcQ3zqBi/s6iGiVpMOQEyYgnB10w==;KeS4qLmHv5zhoBb3DWOhqg=="
 ---
 
