@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-12T09:07:00Z
 sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5A3723BF023CA0D020FB912B380406CA
         width: 700
         height: 233
+  - title: "Welcome To The Machine: The AI Revolution Comes To ETFs (Podcast)"
+    excerpt: "Artificial Intelligence - and the machine learning algorithms that underlie it - is showing up pretty much everywhere these days, so it's no surprise that there's now an AI-powered ETF firm, EquBot. EquBot's founders, CEO Chida Khatua and COO Art Amador, join Let's Talk ETFs to explain the inner workings of their AI Powered Equity and ..."
+    publishedDateTime: 2020-01-12T13:21:00Z
+    sourceUrl: https://seekingalpha.com/article/4315732-welcome-to-machine-ai-revolution-comes-to-etfs-podcast
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.65E239BE94010E441B7A70EF511676D1
+        width: 700
+        height: 465
 
 secured: "+aggt5pXJUwZvBvkV+MZVJmNN8pijSx8f1SjcvXwtDJ1eDImoNivXKZI2jXTZC9CK63dBcAMc2HdVnLZQraiaQOfAxuRVtqF7w5bLoBgBrcEZ7xgQQd3dhHG8rZN43Fgz5yTWQ0JWXTQTgbgwjXFjGnhIUrrgh7aAwk+s6GW78MQRHyd/xsqjfXhjVBmFIZgAiurTEgmEww7U49/N4VbwH5QkPnfDrejPwgc9zJs6ZwJhh36NzA6G0Erva4lUfOfw0DaCfZru9wRoCYkCtypKg==;pSCq10lTHxQ0R5MRdu8dNQ=="
 ---

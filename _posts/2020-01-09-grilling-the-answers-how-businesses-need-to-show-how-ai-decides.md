@@ -39,6 +39,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
         width: 796
         height: 417
+  - title: "Welcome To The Machine: The AI Revolution Comes To ETFs (Podcast)"
+    excerpt: "Artificial Intelligence - and the machine learning algorithms that underlie it - is showing up pretty much everywhere these days, so it's no surprise that there's now an AI-powered ETF firm, EquBot. EquBot's founders, CEO Chida Khatua and COO Art Amador, join Let's Talk ETFs to explain the inner workings of their AI Powered Equity and ..."
+    publishedDateTime: 2020-01-12T13:21:00Z
+    sourceUrl: https://seekingalpha.com/article/4315732-welcome-to-machine-ai-revolution-comes-to-etfs-podcast
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.65E239BE94010E441B7A70EF511676D1
+        width: 700
+        height: 465
 
 secured: "2i7DKx0cvuaOwC8IwNmYhZ2do/bNBjNUeDr/ifPvfwDCRjRl2DDSfOZMTu0mnuF3/dtlzh/VOpNbAa6hkdZxgr/PON9zZZVjxm+hahqjAolSwzfeZaDyclqzDQA0b+VwPVZ9qLl60JIF11Zc39Em2PNaijC7qEqtWuMldvRCUPNsdJdKdSZAOW7k5W9vpFD0KnIX+DxtABRvv/VlL++SwhRpbV6EqAW0Fr6tPf5M8z7+x5ltUwK0/9+0/VES0j3KVgCol1PAY+4ncf+1jF75LA==;JeSlTKrxHbqrXmxEcIHEIw=="
 ---

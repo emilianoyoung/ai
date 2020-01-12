@@ -44,6 +44,15 @@ related:
       - url: https://www.bing.com/th?id=ON.4878103E8DAE3EE7582E436DF88723BF
         width: 700
         height: 365
+  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
+    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
+    publishedDateTime: 2019-12-24T00:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/360-finance-selected-kpmg-chinas-120000593.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "NVpcKSgskmR+m1nYd/K6P8PCeeq/Feu1LHIMgZwJnxqq9IyuTTlQLq3N/zpdElz1s+qdJ8l4IPls7Cvie/44qUxtHBbLPmTjFEfhBeQSoT7v0iGVAfc6oDwuLz+kYjyxgX65aJxukJUoX4aisQd01jH35H+TXNLMZ44zfzdMLkZ2UI62CQeyQxMuXyTRGI+Xui0ZRcNl0k3lTOrMfHLtvcbBswqnRi/g2IlMjM7UKSi3h5B0bRsucgcpajjK6DXxc/rCh1Sbj1de7FGXgnWQtg==;Bk6SEdjE+Vv0CrRWTpeMKQ=="
 ---

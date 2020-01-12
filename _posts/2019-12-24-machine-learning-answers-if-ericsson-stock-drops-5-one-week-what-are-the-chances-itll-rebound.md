@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C2B1ED4E7D75A3EA828AE797FF7B019C
         width: 600
         height: 315
-  - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
-    excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU) that are used in high-end gaming computers, but the company does more than that. Now NVIDIA’s dominance in the GPU space is translating into dominance in the ..."
-    publishedDateTime: 2019-12-23T12:03:00Z
-    sourceUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/
-    ampUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
-    cdnAmpUrl: https://www-profitconfidential-com.cdn.ampproject.org/c/s/www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
-    type: article
-    provider:
-      name: Profit Confidential
-      domain: profitconfidential.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C1578C51AC2EBF5FC8BA69D93E6D7F12
-        width: 300
-        height: 184
 
 secured: "ik0+M5KSNnILq08M3Q/gBFXLUOx4Yz72aSZy4QYRhB5/FlgzWv4hl/NIlTmN4opPmcl/rZJvEM3s9gAWzfCoWUqQAV7MQrQbj3dt9zkkcvi9xfjEhzYB3FVeC2OmztfIhN//7rGiFDeAAI7XsO0NQT4ezIuRwYgmCymcyHU8rDbzYMgsiioG+OH5rS789pbVOnFtQyG6xVArDCoxhLezWzZay/l0YZZxCLnhkVZLVhqWSfZRsFqng/+zfyCEnpXYU4wZ63PjNUf/ya7iXflvEg==;y8AAod+XAV1wdVu7aSu9+Q=="
 ---
