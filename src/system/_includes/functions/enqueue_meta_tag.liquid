@@ -14,7 +14,8 @@ Parameters:
 
 {% case include.params.for -%}
     {% when "favicon" -%}
-    {% assign favicon_url = site.favicon | default: "/favicon.ico" -%}
+    {% assign default_favicon_url = site.baseurl | prepend: "/favicon.ico" -%}
+    {% assign favicon_url = site.favicon | default: default_favicon_url -%}
 <!-- favicon -->
 <link rel="icon" type="image/x-icon" href="{{ favicon_url }}">
 <meta name="msapplication-TileImage" content="{{ favicon_url }}">
