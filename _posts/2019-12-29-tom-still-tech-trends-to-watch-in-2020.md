@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
         width: 700
         height: 393
-  - title: "Rise of the machines: 2020 will be a good year for India to teach AI some ethics"
-    excerpt: "According to Musk, the ethics are already being disregarded as ‘advance AI’ manipulates social media. He implied that the technology is being to make basic spambots more convincing and effective. And that’s already started to come true in the form of deep-fakes and robotic calls. There shouldn’t be an ‘oops’ moment when it comes to ..."
-    publishedDateTime: 2019-12-23T07:33:00Z
-    sourceUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/articleshow/72935214.cms
-    ampUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.6A6CBF06DA44CEE1244E707F31189F08
-        width: 454
-        height: 340
   - title: "To stop a tech apocalypse we need ethics and the arts"
     excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
     publishedDateTime: 2019-12-26T10:54:00Z

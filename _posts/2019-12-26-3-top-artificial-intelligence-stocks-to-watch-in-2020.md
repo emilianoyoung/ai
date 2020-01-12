@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg
         width: 1600
         height: 900
-  - title: "Five Things to Watch in European Health-Care Stocks for 2020"
-    excerpt: "Health care has long been a key point of contention in U.S. elections and 2020’s ... R&D “remains paramount” with innovation -- driven by expansion in artificial intelligence, connectivity, and robotics -- becoming increasingly relevant, she said. Clive sees Royal Philips NV and Siemens Healthineers AG as leaders in artificial ..."
-    publishedDateTime: 2019-12-23T07:30:00Z
-    sourceUrl: https://www.msn.com/en-us/news/money/five-things-to-watch-in-european-health-care-stocks-for-2020/ar-BBYgsqi
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.E5FB9E6D356A78BFBE281518757D46E2
-        width: 700
-        height: 467
 
 secured: "k4Gsx7FWqWFdKG7w+ikhRf716/b/sKEKECzja3stqOnY5Tix9lDL36rc8NiXu8KsN5YVrKQEExy101A+p3NRxHO9UcWeQOGvC4A4CEzsuZAl/yP9Qbzj3f5exvy/xQiQjQ5d9krcflw2qKV320f2JQSajNAora+erKg720H4ORtPkV4ZiH1JmpTgiE3K99/oeMHLaq/WaxfUAkDd7u98ufWqA0mk+oIc7KjVCHu4ILjKqeDdz5bvF3ejlWWvXiXYcY9GQ7ts7dcSVZztuwy2Hw==;3fyJF8k35R3m81VmMVpNdg=="
 ---

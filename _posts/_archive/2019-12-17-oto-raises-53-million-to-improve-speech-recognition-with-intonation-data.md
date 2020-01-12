@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -46,31 +46,18 @@ related:
         width: 640
         height: 433
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 54
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-  - title: "Speech recognition tech cuts paperwork for police"
-    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
-    publishedDateTime: 2019-12-12T20:40:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
-        width: 760
-        height: 368
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
   - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
     excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
     publishedDateTime: 2019-12-23T11:43:00Z
@@ -162,6 +149,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "fWwIzmOfpPLkckA3ZYYK6CKm95SsGG6eV5LQSZAM8UkELcAgOATNF6gymw8TNekRZuTWu88RaRXESWrSaztEeGhTewJr4wm0dC0GloUzY8EqtCI6wETb1B4godwlLh1/jpkDlvq7fabwMYjkF33RNu4BJZv8YcZiiKZzmh0VeU8v/eEgEYjMFcZvHzuWINIKhmkTcI83lWR0yGnCCSv089Mqgnicpxv2md/KFvah5uVnIP+wOKtJBXp4nP3Lkw42o5XLGYh6hATO75Fg7uQ1lw==;uLlJ16DRP38d6SuoDh+KdA=="
+secured: "olaaMADvUnbhgDTKLa+Ufjd+51f50+M/UIZDz6cK6I85zCLPGrdF+2Ok2gcMBhwYANfPtkVpalbnOK1AXQ/2p5jEjDvMiMZT03RVJ/+BqBPzdJbKs6Azxe1rTylNgO2bXIo4AwOZvRmueMMkptYl6yRqgCH4gjVVWFcPAK5FpEXSi2BQSPaCdGhaY/Ob2VdLu2DQuDJkaK9YJ5d0oE18iWOuQfUMlrAdahodpkuV+MW6XeIdmCk9b/sjPLAhfLoYaVyLHlu87OolDEO8iKRWPg==;gMp8z3sPZ0/sTJ1hegsl9w=="
 ---
 

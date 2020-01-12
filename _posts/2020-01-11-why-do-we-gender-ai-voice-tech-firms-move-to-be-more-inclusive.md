@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Why do we gender AI? Voice tech firms move to be more inclusive"
-excerpt: "Technology that can understand regional accents and gender-neutral voice assistants are among the developments expected in the voice technology field in 2020. Products such as Alexa and Siri have faced mounting criticism that the technology behind them disproportionately misunderstands women,"
-publishedDateTime: 2020-01-11T08:36:29Z
-sourceUrl: https://www.msn.com/en-za/money/technology/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive/ar-BBYQJHm
+excerpt: "Gender-neutral voice assistants and accent recognition among projects in the pipeline"
+publishedDateTime: 2020-01-11T08:00:00Z
+sourceUrl: https://www.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
+ampUrl: https://amp.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.14ACC84864B4EACA0E91FD6EC86280AA
+  - url: https://www.bing.com/th?id=ON.89152B8F5675C238ACA3E596AF9EC2A6
     width: 700
     height: 367
     title: "Why do we gender AI? Voice tech firms move to be more inclusive"
 
-secured: "YlIgls40t6i2fHJLHrHvTYApn5hOjw9QjNAEL9+AgfBnUqiTL/jUBht+Ra0/BbgW4H5gTAu/ZjyEzFhi3KhDVWwnmckOIZaIsmVINQe0e21xOnhKVw4gJv3jHCNG05FCBhhIOgffLHviS3jgvP1PXWqNPYiMPdswtkK/ATKqcxwRScc5sDdHn100jlHZuTUgapEfqWWfeENPxCI1pis97OWOW0ZpE31f+Lk2zMAxtHp6Y6/vyX5FAGFzzGIoi65qUbJ4xARn0GC49C9ckx6RBg==;PFHDncMkO5xHcVzymoy/Gw=="
+secured: "WiT2vmddjPG1zJlPB3XPdSvbKEyfNMjiuNLrhlnAxDP1ojx+9UuB3wqHFQ4Gu9jnfzDWYjhGGokgsDziXC4xCPYe1ZO8B7zjWk0E8RWSvwhLTop01Gox5e4KBxbTzvFDdpek0qwhRJk0SsAQeQ/Mqfeem0i80CqUThQbktRWmxAzyB27/HJDm85SqYUCFarbV68p5zpAWH8GVpMSktjLZv1HisSoeBNEnvm0DRbVY/5bI2Tjb6t+CoAcQfcneTquARy7xMtjjWFjhQf0qaAXIA==;/mGAflpRR2lpwplzJkvKEA=="
 ---
 

@@ -45,19 +45,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Manufacturing Market Size, Share & Forecast 2019-2025"
-    excerpt: "A full report of Global Artificial Intelligence (Ai) In Manufacturing Market is available at: https://www.omrglobal.com/industry-reports/ai-in-manufacturing-market According to the investigation of the International Federation of Robotics (IFR), various manufacturing robots deployed in factories accounted to be around 1.3 million globally in 2018."
-    publishedDateTime: 2019-12-23T07:25:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-share-forecast-2019-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
     excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
     publishedDateTime: 2019-12-23T10:49:00Z
@@ -264,19 +251,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Image Recognition Market (2020 - 2029) - CAGR Rate, Ongoing Trends, Analysis And Forecast 2029"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
-    publishedDateTime: 2019-12-23T07:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020---2029---cagr-rate-ongoing-trends-analysis-and-forecast-2029-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Industrial Artificial Intelligence Market 2019 Analysis By Global Manufacturers – Siemens AG, IBM Corporation, Alphabet Inc"
     excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This report focuses on Industrial Artificial Intelligence Market report will make detailed analysis mainly on in-depth research on the development environment, Market size, development trend, operation situation and future development trend of Industrial Artificial Intelligence Market on the ..."
     publishedDateTime: 2019-12-23T17:01:00Z
@@ -410,15 +384,6 @@ related:
     provider:
       name: Australian Techworld
       domain: techworld.com.au
-    quality: 0
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-24T14:37:00Z
-    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
     quality: 0
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."

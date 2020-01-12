@@ -1,22 +1,31 @@
 ---
 category: news
-title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
-excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
-publishedDateTime: 2019-12-23T20:30:00Z
-sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
+title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
+excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
+publishedDateTime: 2019-12-23T08:36:00Z
+sourceUrl: https://www.marketwatch.com/press-release/image-recognition-technology-market-2019-competitive-insights-and-outlook-ibm-corporation-imagga-technologies-amazon-web-services-2019-12-23
 type: article
-quality: 5
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Electronic Design
-  domain: electronicdesign.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Natural Language Processing
   - Computer Vision
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
 
 related:
   - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
@@ -88,19 +97,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
-    excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
-    publishedDateTime: 2019-12-23T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-technology-market-2019-competitive-insights-and-outlook-ibm-corporation-imagga-technologies-amazon-web-services-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
     excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
     publishedDateTime: 2019-12-24T05:45:00Z
@@ -134,6 +130,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 10
+  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
+    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
+    publishedDateTime: 2019-12-23T20:30:00Z
+    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 5
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -144,6 +149,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "gf92rHH/kblGxghjunaSrGaGF34V/5vQgCgsGMvY39zoVVH4DqYM99ZUm6Xbu4BxnilvtioC4lpyhazuPX8NcEqDW5SLeK6AGxTQ3CJquNEBVail5gqE9+tbtrSLJEj+Ak9S/c8RhrowsaeegaZ3xu31I+tN+WHdcaRNSL3oTIIhhvecvErQoUxosPn09uI+SyvBSHCsNuI+LqWz4Fpko/TLA8mplqEnuvX2SnlVjve0IVTsikVMiJhOCnTy8xocYZzCOmc/adGfxdMqkVZV/Q==;09Mt7s2ygKptGGNAQaatGQ=="
+secured: "ZnMNXBgY09cWq9ktDxsiedT/wGlMVzf2VWBkTonDbNVCoijzWlBaOQzl/IkWZ1MZHDZ2d5o8ZvrSNPYuImQLtJ54PZM+/0I9Fi9Vj7JNmLfFztmBrNnVv23+Ua6BMBh3Moz74Dk/wf4hcq3VwYRBceieaHRcJYfJB9jJ987hu2UP/cLj9x7cSq2GHqoS/FPv3p/tfgms9DAp/zUeoUWNNuv/3wR2YG2abn68TB4OpbIICcsZjIPAsi4Rx98kX945GWWq8UUZfiOojNNeOHbjJw==;OdfJ32Ouw5+KBu8aHmp1wg=="
 ---
 

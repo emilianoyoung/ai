@@ -40,20 +40,18 @@ related:
         width: 600
         height: 315
   - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains ecosystem. Trains Agent is a complementary solution joining the open-source solution suite with Allegro Trains,"
-    publishedDateTime: 2020-01-07T14:38:00Z
-    sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
+    publishedDateTime: 2020-01-07T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 52
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
-        width: 400
-        height: 145
+      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
+        width: 700
+        height: 368
 
 secured: "1PpYgM+7nx/b6+LJPXXBQdafBKrJAiaUTGhtJviOUEMEbGNj/bwDgBanwQ7VkhSXSsgux+XwpfDg+jq7EmV1BxhWsHN4kV/vF17foLkkGJuV4jcg2KAQ+ESYfxuFCa0NrOsDOjWfB7xfL+8JizXcufmbr84Ap/H//LnLtu12GZrFea9qaDfCw3txLh+zM3SCyCWplV04a4COEd0LLsqARRe6mMPL+vO/8ZcJuowI90nmfPDeDxBQoCG7sRJE87A31odUgxCCmIybSGt3MPZ5Tg==;lpf0jYi4FUDO4wF0+gyQIg=="
 ---

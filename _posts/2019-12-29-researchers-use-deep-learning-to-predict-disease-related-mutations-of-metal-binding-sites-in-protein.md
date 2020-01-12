@@ -176,6 +176,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2396890D089F2BC96A690A8D32E6A78D
         width: 600
         height: 315
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. The research findings were recently published in a top scientific journal ..."
+    publishedDateTime: 2019-12-27T16:35:00Z
+    sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
+    ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/2019/4-usingdeeplea.jpg
+        width: 900
+        height: 342
   - title: "Telangana to train 30K students in AI in 3 years"
     excerpt: "The next pillar, which is developing talent, aims to train 30,000 students in AI, ML, Data Science and DL in the next three years. One of the most important pillars of the framework is governance, ethics and privacy,” he explained. Sharing the government’s goal for 2020, Rama Rao concluded by saying, “Our primary goal is to attract and ..."
     publishedDateTime: 2020-01-03T02:18:00Z
@@ -234,15 +249,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5A68C7E2C4F1AA3E9B841E170DD06194
         width: 700
         height: 393
-  - title: "Using deep learning to predict disease-associated mutations"
-    excerpt: "A research team implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years ..."
-    publishedDateTime: 2019-12-27T22:39:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Researchers identify key biomarkers for predicting autism in newborns"
     excerpt: "The preliminary, collaborative study used Artificial Intelligence, a computer-based technology which scans a map of the ... \"We are always looking for new ways to make a difference in the lives of our patients,\" Dr. Warner said. \"Getting them into therapy early on is a proven way to make their path, and that of their families, easier and ..."
     publishedDateTime: 2020-01-03T02:38:00Z

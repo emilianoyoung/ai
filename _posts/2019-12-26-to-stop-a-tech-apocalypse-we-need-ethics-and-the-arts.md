@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
         width: 700
         height: 393
-  - title: "Rise of the machines: 2020 will be a good year for India to teach AI some ethics"
-    excerpt: "According to Musk, the ethics are already being disregarded as ‘advance AI’ manipulates social media. He implied that the technology is being to make basic spambots more convincing and effective. And that’s already started to come true in the form of deep-fakes and robotic calls. There shouldn’t be an ‘oops’ moment when it comes to ..."
-    publishedDateTime: 2019-12-23T07:33:00Z
-    sourceUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/articleshow/72935214.cms
-    ampUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.6A6CBF06DA44CEE1244E707F31189F08
-        width: 454
-        height: 340
   - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
     excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU) that are used in high-end gaming computers, but the company does more than that. Now NVIDIA’s dominance in the GPU space is translating into dominance in the ..."
     publishedDateTime: 2019-12-23T12:03:00Z

@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Using deep learning to predict disease-associated mutations"
-excerpt: "A research team implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years ..."
-publishedDateTime: 2019-12-27T22:39:00Z
-sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
+excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. The research findings were recently published in a top scientific journal ..."
+publishedDateTime: 2019-12-27T16:35:00Z
+sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
+ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
+cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://scx2.b-cdn.net/gfx/news/2019/4-usingdeeplea.jpg
+    width: 900
+    height: 342
+    title: "Using deep learning to predict disease-associated mutations"
 
 related:
   - title: "Top minds in machine learning predict where AI is going in 2020"
@@ -302,6 +306,6 @@ related:
         width: 592
         height: 568
 
-secured: "XUq4N/xghcbm2v28NVQBsLKZKzaQQY9kLke31+OQc+qV3ZrJp15jjym0lGiGi7kityICL4zj+3p+k8R/nL/aXOsQf1nlFh4PoYjRo1rmEasy5V7KIM+EkYeNRyxVbqVnnKLo5jLbPMDpaRoczR66ft41czBI1p0TrHu8S2t2UPiv4OHPp+q8vfu5hXyK+5pqB2KGBi8oMvE5BAyIrQKWBVdcMpIhYMSPVbA5h0JrZTgnOA76M7MfEijD+YoN+Yw7XJj7WOG0mKJa6uyWv8k8dQ==;/atkZkqdE3FtuyCigLsnVA=="
+secured: "sK25rZpFDfGtsi5jm5srw7+JM1+VDY2ohfAQLn3T2HJXAQ6CNvbl6p+DiyMRfjLMlkuOHkAEFcfjgXAspALLK8Q6iNf5QrhK2FbCWVY3JzY1RIVCzE33jVJlyVwmQ+GPPcRpyelyutfH+Pmpydcbq0Z7TIYxofnu56oBMNvpvBuL2pHhiJB2zOfoh2bspQz9Gyubc71HW7ha+0zlBwCZY0aSnMalexa7tpBOHPdEaDQITEp6aNtBlc52Ume1gbOwENXfdYTW4/EfUaLwBuIicw==;G09aJxUZDqpyX+1s+qAxWA=="
 ---
 
