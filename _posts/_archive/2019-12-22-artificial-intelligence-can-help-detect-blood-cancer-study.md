@@ -8,7 +8,7 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-dete
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Artificial Intelligence can help detect blood cancer: Study"
 
 related:
+  - title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
+    excerpt: "Their method is based on analyzing the gene activity of blood cells. When applied in practice, this method could support traditional diagnostics and probably expedite the start of therapy. The study outcomes have been reported in the iScience journal. Artificial intelligence is a much-discussed topic in medicine, especially in the field of ..."
+    publishedDateTime: 2019-12-24T12:12:00Z
+    sourceUrl: https://www.azorobotics.com/News.aspx?newsID=11035
+    ampUrl: https://www.azorobotics.com/amp/news.aspx?newsID=11035
+    cdnAmpUrl: https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11035
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.42A01FAFDBB6F7289D13A68EE7207414
+        width: 350
+        height: 215
   - title: "Artificial intelligence can now track down blood cancer"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
     publishedDateTime: 2019-12-26T11:12:00Z
@@ -38,6 +53,6 @@ related:
       domain: deccanchronicle.com
     quality: 39
 
-secured: "1CbxzinBr6urmh8boDC4+jwlKqLSGMuzbrlJd3E77ysFtkjCE/YwBFLGDZNjKU16AJ11J5eaDXIG7oDai/EqggA+qIuc/bBpmSwpXfxnMvjhwc4Q/YEjwqxx633QxmYkfBnIqOpHNIuJIvVJy2apJEnM1NMJ1qkutBI6JkTuKEjECaK5qYHkyVQV1R9f1ajwT/wlK1LNY21kaS6OD3Htc0rTdW5j98QwSlcJWeubBpOCs7nO+t7+c2eBe5VpIA7soVLyxHbBK8wTdU1cd+E2zw==;17Vgf008dnjKgmjJOHHJ5w=="
+secured: "AL1YczxoqAnhFVZWqMVGxT3LPi7R646l3O11090klo+sWT4i1PZvy1fUjqYOWuNXkU5hKDrl3MhtEHFjk2U6+StvTsT6471fzsumxUcIc26l/ZWCZUBRYk99tIw6MmPUzRfLv55VNM9dZoqvagyEouHS8L2+FM17QMCSEyk+pXfL67QkcEJxmZ/Btp+xlSr9720nCfuyPoEQv4XAzEgZRfzpyuRjICvdJrtELB2uvIV/8EWSRlbdK1fR5H5wWhOwwHlX8KLRJurTKM9/qzCjkg==;PB4kqqGP6MgInv38XrIM8w=="
 ---
 

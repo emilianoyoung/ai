@@ -8,7 +8,7 @@ ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artific
 cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       - url: https://www.bing.com/th?id=ON.53B79936261D63CFBA7628CAB2D0F224
         width: 700
         height: 367
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
+    publishedDateTime: 2019-12-20T16:27:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "uPNpr6thQkNBy2fE6VtoYFQbBrt/PiVHpcJ0rHPuCTlpcF+svO8biIDshIxWRvKVapzxOWlC0F/KE3rk/kwFZygREewiUDOJ9saW7LaXQY4Gz/BymK6LruI1mCQxNbuQzK3E2bSgHKOtxUdywaIDsH/nl9pjkbVE1h4kXNdug9GB8LXnVpKvyFMvYBuZRqGR7UBihnAooqHkq9fAuAs89nhg0pgajGwtgyXJGwndYEaFbV8KK+JkDqRdZkuN7DfIEvbK1USHLXSrLr141sXlOw==;TxjHpgVKmDIt4uEPwnbKgw=="
 ---

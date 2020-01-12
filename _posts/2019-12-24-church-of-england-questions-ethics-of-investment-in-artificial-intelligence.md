@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C1A29383FDFEA5B8DC8E5D2841146091
         width: 700
         height: 417
-  - title: "Church of England Questions Ethics of Investment in AI"
-    excerpt: "\"Artificial intelligence [AI] is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion \"that is not only grounded in theology and distinctly Anglican but is also ..."
-    publishedDateTime: 2019-12-23T20:01:00Z
-    sourceUrl: https://www.voanews.com/europe/church-england-questions-ethics-investment-ai
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.580AD101956FF31860AB748A34BB2DCF
-        width: 700
-        height: 499
 
 secured: "ZVwJFzuDx5y4wNto4AsJ8b+HCd7dCPCa/orBNARtQmhOvuFJc1Z3mQDtkFGOhCG0OXAvpi6MGyv9GutWeFXd6pQQ76nxF2EJltjiOzrBef4VsuNVhkDay34fxXVkZpU/QFgCQ+a1Ql/g4x31ql3qb8DwvLImHtmHFA0FtHSwR5ZI+ylWssXCpYvJurTZBPoJ/MwfqnIxHsDocKKabM85C4HQkbJ5gjwl5KHZE1loPDNQOVimfkigGdZjCTs1mNUd0eilaIg2oQ8pEYYEj6uUVQ==;PUWRcFGmJ3VhIoI9zuMJPQ=="
 ---

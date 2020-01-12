@@ -5,7 +5,7 @@ excerpt: "Some of these technologies include Machine Learning (MI), Natural Lang
 publishedDateTime: 2020-01-12T14:08:00Z
 sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI in Autos
   - AI in Healthcare
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.B9619FE986D8EDB98A5D3402416C05A6

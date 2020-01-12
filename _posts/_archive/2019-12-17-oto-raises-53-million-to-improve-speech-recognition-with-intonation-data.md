@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 202
+heat: 182
 published: true
 
 provider:
@@ -46,31 +46,18 @@ related:
         width: 640
         height: 433
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
-  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
-    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
-    publishedDateTime: 2019-12-23T11:43:00Z
-    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
-        width: 700
-        height: 466
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
     excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
     publishedDateTime: 2019-12-24T00:40:00Z
@@ -84,19 +71,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
-    excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
-    publishedDateTime: 2019-12-23T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-technology-market-2019-competitive-insights-and-outlook-ibm-corporation-imagga-technologies-amazon-web-services-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
     excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
     publishedDateTime: 2019-12-24T05:45:00Z
@@ -149,6 +123,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "olaaMADvUnbhgDTKLa+Ufjd+51f50+M/UIZDz6cK6I85zCLPGrdF+2Ok2gcMBhwYANfPtkVpalbnOK1AXQ/2p5jEjDvMiMZT03RVJ/+BqBPzdJbKs6Azxe1rTylNgO2bXIo4AwOZvRmueMMkptYl6yRqgCH4gjVVWFcPAK5FpEXSi2BQSPaCdGhaY/Ob2VdLu2DQuDJkaK9YJ5d0oE18iWOuQfUMlrAdahodpkuV+MW6XeIdmCk9b/sjPLAhfLoYaVyLHlu87OolDEO8iKRWPg==;gMp8z3sPZ0/sTJ1hegsl9w=="
+secured: "7c2tUwp3vwoL+GQZC4/I5nGNtWttHsHVSR38s8VFDLNAZN+oQT1qYF8vnfLSt3gAd+6gMzowKfaNIyPLoJXyj6ZwWKeWxKWoFsWC/LlDnDqmNYXgLlNil47cWSASExWfsykx6dtHfgGq4ee2K2uIs8h9XLDAOuv7LlG2p/3GXfu9pBw5tJBsPKDsJkwR3xT316cCYCAwGgp0LFGwQr8D/yFHbNOQ9MSglRcXGaZQNGXmn+WJd2oyZU2KHw1RXR/xuiMAXQOmKKrX/JmW5V+gaA==;bR7bKBDn8uX4fbuFIOvEAw=="
 ---
 

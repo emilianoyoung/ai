@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Artificial intelligence tracks down leukemia"
-excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
-publishedDateTime: 2019-12-23T17:46:00Z
-sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
+excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
+publishedDateTime: 2019-12-20T16:27:00Z
+sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
@@ -37,6 +33,15 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72974624,imgsize-93356,width-800,height-434,overlay-ethealthworld/artificial-intelligence-tracks-down-acute-myeloid-leukaemia.jpg
         width: 800
         height: 434
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
+    publishedDateTime: 2019-12-23T17:46:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "AI detects acute myeloid leukemia with high reliability, study finds"
     excerpt: "Researchers developed several artificial intelligence algorithms using a vast collection of transcriptome data ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
     publishedDateTime: 2019-12-30T22:07:00Z
@@ -63,16 +68,7 @@ related:
       - url: https://www.bing.com/th?id=ON.53B79936261D63CFBA7628CAB2D0F224
         width: 700
         height: 367
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
-    publishedDateTime: 2019-12-20T16:27:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
-secured: "g0rSQTbSQkKDeQDCEVP+In6Ip1gDyAMH7xEEneb2fErpSaFZnodkTc7l8D/JpY4on/6ojoJ4AHkopAokACOUBKpldZfs00ADbT3khWlRrQkYCDWpE9kfI57YlWq8+6Ia6TZVW0+vm9j0ULVmMrRvrzLDWqy8Fo6P0nYBoa0eRt4rwUUVdOdMxwUWYbLDLXVzFFzb3p4oxfHGM1lvKhPkeWgChLVFPdrbfLZ/6Jc/MpWnSHg6nEH5PZ6Xtq5/Jf4cHQx3UX3zrxgQQfGgMOVnxQ==;JePaxVMB8Cq6f7P0cBMRlw=="
+secured: "jaOeL0XsH8qlFrjzLvSDDnR1R6aDUxhmr8V2VKlKMt0ZOTCcVWWMpxZr+1Px+9U6CmNZt1VzQieGTk9KL0aVOxfn+k8eOtOz7OCxhyVsz/PUhL2tfL3d5SBfx+fQvuX6R3ha0UkQt3e6MAh5nx0pvYHRfmn7rPkj76vbQK6y3+qDBMOknJUrgABztCn1/cayg3gvN79n4cpitioXFQZtdKjwUpJhibVQ+J0/cdQxh9sibDSZ4kPZgei4R9srUJ8aDIBfhl5KiCaD6GPaFy7u+A==;rlWOi9Z6pIpEiDu2gi8CtQ=="
 ---
 

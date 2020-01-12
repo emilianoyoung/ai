@@ -1,27 +1,22 @@
 ---
 category: news
-title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-publishedDateTime: 2019-12-24T05:45:00Z
-sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
+title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
+excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
+publishedDateTime: 2019-12-23T20:30:00Z
+sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
 type: article
-quality: 20
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Electronic Design
+  domain: electronicdesign.com
 
 topics:
   - AI
+  - Natural Language Processing
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-    width: 700
-    height: 393
-    title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
 
 related:
   - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
@@ -80,6 +75,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
+  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
+    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
+    publishedDateTime: 2019-12-24T05:45:00Z
+    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
+        width: 700
+        height: 393
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z
@@ -100,15 +108,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 10
-  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
-    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
-    publishedDateTime: 2019-12-23T20:30:00Z
-    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 5
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -119,6 +118,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "CysbezALxa/TUPlEKVjdBdqmtRDYMXMkzvLjVLj3Fsh8xEL+cFlYOoraWkadsYCe6hqKOBhoW+LFEa16TFtcnImH5kfQy6T84+1Gn6QZtzcMWqhzDs/nWPL/eBnPhsCeSzJr0840I7ocGa19+zj2yhUj4RMGxEuptYl8rGJW6i4l7GysyKSaLZwwHpc7N7wQTBmPhpf3ZiefhvqsPO3GbyzGCZfgjKbrLCpW+P1JwniVj+HR+RbNi6UAQyANF2jDYjARQIqyeh0DEhPd0oFN7g==;i3HI2WgO+Z3BvxEgEdhRtw=="
+secured: "gf92rHH/kblGxghjunaSrGaGF34V/5vQgCgsGMvY39zoVVH4DqYM99ZUm6Xbu4BxnilvtioC4lpyhazuPX8NcEqDW5SLeK6AGxTQ3CJquNEBVail5gqE9+tbtrSLJEj+Ak9S/c8RhrowsaeegaZ3xu31I+tN+WHdcaRNSL3oTIIhhvecvErQoUxosPn09uI+SyvBSHCsNuI+LqWz4Fpko/TLA8mplqEnuvX2SnlVjve0IVTsikVMiJhOCnTy8xocYZzCOmc/adGfxdMqkVZV/Q==;09Mt7s2ygKptGGNAQaatGQ=="
 ---
 

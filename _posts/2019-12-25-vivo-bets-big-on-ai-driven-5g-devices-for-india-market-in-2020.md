@@ -8,7 +8,7 @@ ampUrl: https://m.hindustantimes.com/tech/vivo-bets-big-on-ai-driven-5g-devices-
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/vivo-bets-big-on-ai-driven-5g-devices-for-india-market-in-2020/story-mYgegVq25vJSFjcQ3ehOYJ_amp.html
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,21 @@ topics:
   - AI
 
 related:
+  - title: "Vivo eyes AI-driven 5G devices for Indian market in 2020"
+    excerpt: "New Delhi: Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with ..."
+    publishedDateTime: 2019-12-25T07:21:00Z
+    sourceUrl: https://www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020-11577257069395.html
+    ampUrl: https://www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020/amp-11577257069395.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020/amp-11577257069395.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.969ABF7B6FC6366519D18FF1657274B3
+        width: 600
+        height: 338
   - title: "Vivo eyes AI-driven 5G devices for India market in 2020"
     excerpt: "enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with capturing 17 per cent market share - its highest-ever -- in the third quarter (July-September period) this year."
     publishedDateTime: 2019-12-25T14:28:57Z

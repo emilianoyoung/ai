@@ -8,7 +8,7 @@ ampUrl: https://www.thejakartapost.com/amp/life/2019/12/24/church-of-england-que
 cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Church of England questions ethics of investment in AI"
 
 related:
-  - title: "Church of England Questions Ethics of Investment in AI"
-    excerpt: "\"Artificial intelligence [AI] is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion \"that is not only grounded in theology and distinctly Anglican but is also ..."
-    publishedDateTime: 2019-12-23T20:01:00Z
-    sourceUrl: https://www.voanews.com/europe/church-england-questions-ethics-investment-ai
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.580AD101956FF31860AB748A34BB2DCF
-        width: 700
-        height: 499
   - title: "Church of England questions ethics of investment in Artificial intelligence"
     excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
     publishedDateTime: 2019-12-24T06:31:00Z

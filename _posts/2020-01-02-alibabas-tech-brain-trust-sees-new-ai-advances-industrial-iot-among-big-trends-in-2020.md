@@ -64,7 +64,7 @@ related:
     provider:
       name: ABC7
       domain: abc-7.com
-    quality: 45
+    quality: 47
     images:
       - url: https://www.bing.com/th?id=ON.B9619FE986D8EDB98A5D3402416C05A6
         width: 700

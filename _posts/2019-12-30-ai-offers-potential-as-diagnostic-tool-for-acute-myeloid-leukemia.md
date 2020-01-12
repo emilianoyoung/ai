@@ -61,6 +61,15 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
         width: 400
         height: 300
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
+    publishedDateTime: 2019-12-20T16:27:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "Ib+CweaZDfRjsXwTW7/dvfmVF/4nP7ZMlpDJu+i6vhjSsJyMfjjvMj9zzvX3VOS3nXoClZI75O4KAEqxGVJGPnv92WXN0QwZcupGQ5Yk/CCnZ3OWtR4WVDKZh+cTWnnusoajRbAhAJpSM3RtQ93g4tw5lkXE33Lpz/HaMKQ8/YK6MV4+1+wyOvrYkPcXHx5gWkMyB5DXeaD0OPrngwE9j251enfprLFHShVuXa6W8BMhW4oCU1Dr8HikN8r+CrEBrOkoqlAcynu2gsl8dPcaxQ==;mq9xfmhrux0kRCBP7Qn2tw=="
 ---

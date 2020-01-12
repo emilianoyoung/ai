@@ -32,19 +32,6 @@ related:
         width: 1200
         height: 630
   - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
-    excerpt: "PLANO, Texas--(BUSINESS WIRE)--InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech program. InterGen Data was one of the 34 startups selected–from more ..."
-    publishedDateTime: 2019-12-23T19:06:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191223005502/en/InterGen-Data-Selected-2020-MassChallenge-FinTech-Program
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.4878103E8DAE3EE7582E436DF88723BF
-        width: 700
-        height: 365
-  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
     excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
     publishedDateTime: 2019-12-24T00:03:00Z
     sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html

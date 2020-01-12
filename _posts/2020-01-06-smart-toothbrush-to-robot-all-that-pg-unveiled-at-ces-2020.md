@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1A329B9A25AE7401BD4EEB36297BB0E7
         width: 700
         height: 366
+  - title: "Samsung Teases ‘Neon’ AI Tech: Set To Unveil At CES 2020"
+    excerpt: "However, Bixby is more popular in its home base with the South Korean language. In comparison, the Samsung Neon seems like a new offering with AI to further enhance its presence in the consumer base across the globe. Samsung has also announced that it would unveil the Neon product at CES 2020 in Las Vegas. The company has begun popularizing ..."
+    publishedDateTime: 2019-12-26T05:59:00Z
+    sourceUrl: https://www.gizbot.com/news/samsung-neon-under-works-what-is-it-064572.html
+    ampUrl: https://www.gizbot.com/amphtml/news/samsung-neon-under-works-what-is-it-064572.html
+    cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/samsung-neon-under-works-what-is-it-064572.html
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.01F3B7C9A061BA12755FEF60CFFD71AF
+        width: 600
+        height: 337
   - title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
     excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
     publishedDateTime: 2019-12-30T22:30:00Z
@@ -101,6 +116,45 @@ related:
       - url: https://www.bing.com/th?id=ON.6BA2AB26994A9C27E38533068ED8C508
         width: 700
         height: 643
+  - title: "Samsung to announce mysterious human-like AI NEON at CES 2020"
+    excerpt: "Samsung has been teasing about the unveiling of a human-like AI tech called NEON at the CES next month. Samsung STAR Labs CEO, Pranav Mistry has been tweeting about NEON since the mid of this month. This ‘Human-like” AI tech has been in the works for quite a while now and the company has shared teasers in multiple languages which may hint ..."
+    publishedDateTime: 2019-12-26T09:15:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/samsung-announce-mysterious-human-ai-090701619.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.CC7E61B851D4B9E1DF1EE7E45A41CDD7
+        width: 279
+        height: 157
+  - title: "Samsung to unveil NEON at CES 2020, teased to be a human-like AI assistant with support for Hindi"
+    excerpt: "Called Neon, the new AI-based product is currently in the works at Samsung Technology Advanced Research Labs (STAR Labs). It will be unveiled in January 2020."
+    publishedDateTime: 2019-12-26T04:09:41Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-to-unveil-neon-at-ces-2020-teased-to-be-a-human-like-ai-assistant-with-support-for-hindi/ar-BBYlz8Z
+    type: article
+    provider:
+      name: India Today on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.374F61F40B85003F4DB6B809EA1AC8AC
+        width: 600
+        height: 315
+  - title: "Samsung wants to Kick Start 2020 at CES by introducing their Next-Gen Artificial Human-Like Assistant Platform Dubbed 'Neon'"
+    excerpt: "Perhaps more importantly, Samsung will be introducing a new artificial intelligence platform next week that they're calling 'Neon ... Humans' designed to a combination of devices and software that is designed for companionship, robots and digital pets. Samsung has their Neon website ready to host the live event with a countdown to the keynote ..."
+    publishedDateTime: 2019-12-30T17:23:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/samsung-wants-to-kick-start-2020-at-ces-by-introducing-their-next-gen-artificial-human-like-assistant-platform-dubbed-neon.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.8B743AFB5B5589D1A5672C18C18FE83A
+        width: 700
+        height: 390
 
 secured: "8yKOpOj9JgOIUHVCyuGpXtn9BumCqeE6Xpc9o2ZCLDQj55IzeDaw0c3GyIGR8ZqcL7+l93HkmfgdV/5Bsvff0EKZVzralUzRr0hBsKuKDRYB4yJ3iuvjd2an2rRZrlYqUFsvvZkanpzWAZ8FSE49+VXEQg7jBTHpA+bEWjSsVOpLOwNA30pp1CW2e4e9wOMZ9CpJ/0jZH3XRHz1kDj7mUY5SDJrLrBIgd7Bzd6sfo/zuJR/BsEuYcM7eQRE9GHAOO0U5c3KvS/En0KeyG51lEg==;dSxWJpexmnTKFx0uy8tbMA=="
 ---
