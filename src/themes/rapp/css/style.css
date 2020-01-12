@@ -1869,7 +1869,6 @@ Start post listing style
 
 .post-listing-sec {
   width: 100%;
-  padding-top: 120px;
   position: relative;
 }
 
@@ -1882,6 +1881,7 @@ Start post listing style
   font-weight: 600;
   color: #f0083f;
   font-size: 20px;
+  margin-top: 0px;
 }
 
 .post-listing-sec .single-post .card-body {

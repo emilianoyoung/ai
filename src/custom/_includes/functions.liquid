@@ -17,13 +17,12 @@ Parameters:
 <div class="card">
     <img src="{{ include.params.post.images[0].url }}" alt="{{ include.params.post.title | escape }}" />
     <div class="card-body">
-        <h4>{{ include.params.post.title | escape }}</h4>
-        {% if include.params.show_post_excerpt == true -%}
-        <p>{{ include.params.posts.excerpt }}</p>
-        {% endif -%}
-        <a href="{{ include.params.post.url | relative_url }}" class="btn">
-            Read more <i class="fas fa-long-arrow-alt-right"></i>
+        <a href="{{ include.params.post.url | relative_url }}">
+            <h4>{{ include.params.post.title | escape }}</h4>
         </a>
+        {% if include.params.show_post_excerpt == true -%}
+        <p>{{ include.params.post.excerpt }}</p>
+        {% endif -%}
     </div>
 </div>
 
