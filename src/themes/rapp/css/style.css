@@ -855,12 +855,15 @@ Start App Feature style
 .app-feature-sec {
   width: 100%;
   padding-top: 120px;
+  padding-bottom: 100px;
   position: relative;
+  padding-bottom: 20px;
 }
 
 .app-feature-sec .title {
   text-align: center;
 }
+
 
 .title {
   padding-bottom: 40px;
@@ -872,6 +875,13 @@ Start App Feature style
   font-size: 42px;
   line-height: 1.2em;
   padding-bottom: 20px;
+}
+
+.title h2 {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 1.2em;
+  margin-bottom: 10px;
 }
 
 .title h3 {
@@ -1403,7 +1413,7 @@ Start App Listing style
 .app-listing h2 {
   text-align: center;
   font-weight: 500;
-  font-size: 25px;
+  font-size: 30px;
   line-height: 1.2em;
   margin-bottom: 10px;
 }
