@@ -69,6 +69,21 @@ related:
       - url: https://www.bing.com/th?id=ON.98DCC856A5B2BA285F2B3CF5FF860901
         width: 600
         height: 337
+  - title: "Sanjay Swamy of Prime Ventures explains why it is an exciting time to be a fintech entrepreneur in India"
+    excerpt: "Despite a recent bias towards the consumer and merchant segments, the flourishing ecosystem is sure to help industry startups that cater to the fintech needs of large corporations. With the right incentives and support, entrepreneurs can build a team to integrate AI and blockchain into the Indian fintech industry. Israel has found its calling ..."
+    publishedDateTime: 2020-01-12T01:38:00Z
+    sourceUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi
+    ampUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.57A18C74BB27EFFE38ED38F0CE1DA33E
+        width: 700
+        height: 350
   - title: "Amazon's Cloud arm to drive drone innovation in India"
     excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-07T01:10:00Z

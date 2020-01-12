@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Huawei thanks Indian Govt for 5G trials permission, says committed to India"
-excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
-publishedDateTime: 2020-01-01T00:10:00Z
-sourceUrl: https://in.news.yahoo.com/huawei-thanks-indian-govt-5g-105307364.html
+title: "Sanjay Swamy of Prime Ventures explains why it is an exciting time to be a fintech entrepreneur in India"
+excerpt: "Despite a recent bias towards the consumer and merchant segments, the flourishing ecosystem is sure to help industry startups that cater to the fintech needs of large corporations. With the right incentives and support, entrepreneurs can build a team to integrate AI and blockchain into the Indian fintech industry. Israel has found its calling ..."
+publishedDateTime: 2020-01-12T01:38:00Z
+sourceUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi
+ampUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
+cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
   - AI
-  - AI in Autos
+  - AI in Finance
 
 images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-    width: 500
-    height: 500
-    title: "Huawei thanks Indian Govt for 5G trials permission, says committed to India"
+  - url: https://www.bing.com/th?id=ON.57A18C74BB27EFFE38ED38F0CE1DA33E
+    width: 700
+    height: 350
+    title: "Sanjay Swamy of Prime Ventures explains why it is an exciting time to be a fintech entrepreneur in India"
 
 related:
   - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
@@ -69,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.98DCC856A5B2BA285F2B3CF5FF860901
         width: 600
         height: 337
-  - title: "Sanjay Swamy of Prime Ventures explains why it is an exciting time to be a fintech entrepreneur in India"
-    excerpt: "Despite a recent bias towards the consumer and merchant segments, the flourishing ecosystem is sure to help industry startups that cater to the fintech needs of large corporations. With the right incentives and support, entrepreneurs can build a team to integrate AI and blockchain into the Indian fintech industry. Israel has found its calling ..."
-    publishedDateTime: 2020-01-12T01:38:00Z
-    sourceUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi
-    ampUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.57A18C74BB27EFFE38ED38F0CE1DA33E
-        width: 700
-        height: 350
   - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
     excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
     publishedDateTime: 2020-01-08T05:29:00Z
@@ -123,6 +110,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5C2CCEAC80BCD5281F1682F908C2B825
         width: 700
         height: 399
+  - title: "Huawei thanks Indian Govt for 5G trials permission, says committed to India"
+    excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
+    publishedDateTime: 2020-01-01T00:10:00Z
+    sourceUrl: https://in.news.yahoo.com/huawei-thanks-indian-govt-5g-105307364.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
   - title: "Amazon's Cloud arm to drive drone innovation in India (Lead)"
     excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-06T16:58:00Z
@@ -133,6 +133,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "dZSxlvXv9HkeZhw/rZYzZs7pbczlyVJ4H/cMRng8GGP/UN+b/SvYJdNu+8mCyw5Sm3wACOijTwgZepaWS14lm/DijZvfIK9dTG0Ax5H/aA9GHMB0elpBHaNUKFJF2AcglWyEtjd9oQCTzEq+8z0V3XrtveekObM0fKsdDLJJ9jVgdqOg7hhkCmeRlcIIsdBpdN8fqQmWYYbpihbEJoaKWpbLRgRI3emDd+2rzMhDN0na3W2D9wsvU322UaAF+K0RRR3m5epObTY2dQlo8nD7/Q==;QjLzZRpKhtBOjJWVNBbehQ=="
+secured: "lkiBdQlZbd0V8ks/N9FAYDlviKrr+triEzheYRCGfFY+hqtK6RDi91tibGZ5LQQRJj1R6PZPNPnzgnm3TGwHoBVsct9flEbWzSBeiAiJ9SRnVdV/08uzHmIWAftkWhQBWCy9kk4rUd/4ReMeYczNIOjLEwJfah38HGRXFN83BB5xq/m75lyqD46T2wxb8o6+J2umdZfYkCwtnhntNiEYfiG08K4NUdj83Ga8d/P+nJFjD/awctkwYnzToqXOoHjldHFYrhSSyOQoLDKtos515Q==;W8K4ozHI7EMgBQKSs76KhQ=="
 ---
 

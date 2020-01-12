@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Amazon’s AutoGluon automates deep learning for devs"
-excerpt: "Amazon has created an open source toolkit for automated machine learning, called AutoGluon, designed to make it easier for software developers to take advantage of deep learning models in their applications. AutoGluon is intended for both machine learning experts and beginners, the company says. Officially launched January 9, AutoGluon lets ..."
-publishedDateTime: 2020-01-10T11:04:00Z
-sourceUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
-ampUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
-cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+excerpt: "Amazon has created an open source toolkit for automated machine learning, called AutoGluon, designed to make it easier for software developers to take advantage of deep learning models in their applications. AutoGluon is intended for both machine ..."
+publishedDateTime: 2020-01-10T11:15:00Z
+sourceUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
+ampUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: /assets/images/organizations/infoworld.com-50x50.jpg
-      width: 50
-      height: 50
+  name: ITworld
+  domain: itworld.com
 
 topics:
   - AI
@@ -38,6 +34,6 @@ related:
         width: 700
         height: 393
 
-secured: "5W42ipoucHT2mIG0LVFHU6xSThvR3fHnzSQ4lEWymMe96cSxnyoYVbwXyxONHSyurqABy4Jr2vr6Iti73JaYwOyBdrP/Hd5wflpTccEwbDQg6sSE70iiSMYr6B0xNEVJ8Jhig+JcRaABiMHqUtyLcHgB061HCtKUAfKdmy/C/eTNDgvQ64EMsF/tJORQygls0FTRuwAbICux+teCWvNqT4301IOvFAhB09myfQ+zCdPU/GSmHGdRDzdo7KbRF/oacNP4l43VU5lD/Eu30mh/9w==;jMDRuBW6Wz/LU2CxO2HiOA=="
+secured: "CeDw8m7bf/k5+27kodAX298y93nABOztTbBjK/kH2TAxzsl9sqjKO7b3u6YIwshERcuaZbw0afigBDHy9QGwN+vcVnf4jef7eRcUGMi8CeKiRW8KpK/ulRl6QAjQK3JBHM3LcEI6N4zkqmDalONqZe2os0y1rzebr/lSFWBOGSEP18GEA+GrJfdQUJU6+Q0Ls+InSlIax/Ld1/v7hz8KNpRDLnxTk2/1ldNl+R/4LtB5eFber56CJfiXGylJyht+Xp2pjYtTkCCyqKTPZO74dA==;kMZMG9FsnhkHUz09U4JU9A=="
 ---
 

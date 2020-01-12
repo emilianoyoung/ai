@@ -63,6 +63,21 @@ related:
       - url: https://www.bing.com/th?id=ON.98DCC856A5B2BA285F2B3CF5FF860901
         width: 600
         height: 337
+  - title: "Sanjay Swamy of Prime Ventures explains why it is an exciting time to be a fintech entrepreneur in India"
+    excerpt: "Despite a recent bias towards the consumer and merchant segments, the flourishing ecosystem is sure to help industry startups that cater to the fintech needs of large corporations. With the right incentives and support, entrepreneurs can build a team to integrate AI and blockchain into the Indian fintech industry. Israel has found its calling ..."
+    publishedDateTime: 2020-01-12T01:38:00Z
+    sourceUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi
+    ampUrl: https://yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/sanjay-swamy-prime-ventures-fintech-entrepreneur-upi/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.57A18C74BB27EFFE38ED38F0CE1DA33E
+        width: 700
+        height: 350
   - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
     excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
     publishedDateTime: 2020-01-08T05:29:00Z
