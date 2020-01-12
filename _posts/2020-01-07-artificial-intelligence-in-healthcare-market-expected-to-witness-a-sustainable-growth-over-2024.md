@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T10:11:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-expected-to-witness-a-sustainable-growth-over-2024-2020-01-07
 type: article
 quality: 87
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -71,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DC2C83EE04CB69B4E09AA9C2144F2C3C
         width: 700
         height: 379
-  - title: "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025"
-    excerpt: "The global Artificial Intelligence In Healthcare Market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR 41.5% over a forecast period, according to a new report by Grand View Research,"
-    publishedDateTime: 2020-01-09T08:35:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025-2020-01-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in the Healthcare Market Outlook and Growth Stance Forecasted Through 2025"
     excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the ..."
     publishedDateTime: 2020-01-02T11:53:00Z

@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9FE6CFF7EB58FC71650CF1D4AF8BBDAC
         width: 700
         height: 524
+  - title: "Machine Learning-Based Classification of the Health State of Mice Colon in Cancer Study from Confocal Laser Endomicroscopy"
+    excerpt: "In this article, we address the problem of the classification of the health state of the colon’s wall of mice, possibly injured by cancer with machine learning approaches. This problem is essential for translational research on cancer and is a priori challenging since the amount of data is usually limited in all preclinical studies for ..."
+    publishedDateTime: 2019-12-27T10:29:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56583-9
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.F2BD9394E7EA01BECA1A51A5676C816F
+        width: 685
+        height: 680
 
 secured: "pOGxLJbmv7Z51LpYKA+YNJDyAnGw1tU5LZdPATw/ulc64Mp+tVaMhEfwihjqvkwx+BTk5XE7pxEYJhLLWi+WS1blWieTveCwwE4ckOsFlqZNb3tVqvHBpOzr+9CFCdPKL3aX0dfw0u3KoKCkC9uOfNfX5NcZLtgmYfz54KDvq/6IvpGjIYj+up1sfGG5/xTqcNsA5Rou9JaCNPUxSGHBCPjTTKUmVu+6IEAzb6FK/6u9/a/Np4CQ8MF/6Qyxt/SgHWcqEd6MlyIYH/b0TiePvw==;g1IaT104intMkJOjZ2mOeg=="
 ---

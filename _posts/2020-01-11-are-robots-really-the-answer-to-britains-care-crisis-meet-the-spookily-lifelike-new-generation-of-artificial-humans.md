@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
-excerpt: "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,"
-publishedDateTime: 2020-01-10T14:32:00Z
-sourceUrl: https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html
-ampUrl: https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
-cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
+title: "Are robots really the answer to Britain’s care crisis? Meet the spookily lifelike new generation of artificial humans"
+excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
+publishedDateTime: 2020-01-11T22:08:00Z
+sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
 type: article
-quality: 67
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: /assets/images/organizations/cnn.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Mail Online
+  domain: dailymail.co.uk
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.BCF4B805FE7C99E599675C5B61393EB3
-    width: 700
-    height: 393
-    title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
+  - url: https://www.bing.com/th?id=ON.B947BDAC7D23E3976DBF815BD7B51CA2
+    width: 636
+    height: 382
+    title: "Are robots really the answer to Britain’s care crisis? Meet the spookily lifelike new generation of artificial humans"
 
 related:
   - title: "Neon's CEO explains artificial humans to me and I'm more confused than ever"
@@ -135,6 +131,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F5E0BD62D9D3C7ADA889529210EDE002
         width: 700
         height: 525
+  - title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
+    excerpt: "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,"
+    publishedDateTime: 2020-01-10T14:32:00Z
+    sourceUrl: https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html
+    ampUrl: https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
+    cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.BCF4B805FE7C99E599675C5B61393EB3
+        width: 700
+        height: 393
   - title: "Samsung reveal AI powered 'artificial human'"
     excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathise ... The company envisions commercial opportunities to create avatars to be service representatives, financial advisors, healthcare providers or concierges. \"We have always dreamed of such virtual ..."
     publishedDateTime: 2020-01-07T10:34:00Z
@@ -178,21 +189,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F34A641AF19471140AB2B1D0AC66E928
         width: 700
         height: 466
-  - title: "Are robots really the answer to Britain’s care crisis? Meet the spookily lifelike new generation of artificial humans"
-    excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
-    publishedDateTime: 2020-01-11T22:08:00Z
-    sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
-    ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.B947BDAC7D23E3976DBF815BD7B51CA2
-        width: 636
-        height: 382
   - title: "NEON showcases their first Artificial Human at CES 2020"
     excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
     publishedDateTime: 2020-01-07T07:27:00Z
@@ -365,6 +361,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "Dzx+MiNrt1QsIp293OawvXRS8zU4PkN1vUTUHsnn/jNuKjwp3AcqO6Mc+zeYWnwnvunhneh3qPB8fVXxPevxM5n5XUAoSmHY0kh9XYbWZw2n5okvn04cQ0kvp6f1kbqnkNRlVOxNQcjZg76n7fEdk0v/T8kB42Q7XQIJvGtSO2VgT95skZ+LaMYq0IPoK0/cX+L/0dpZSe1kIk/shHTa+ufuzxrn1xN4UFpaaWaLgrkcYL61OrX2BkKMlYri6+oeQtQI6tvwKsAt3EsN3lqVfQ==;GyQ8lhnhfvsr8ASA0IC8UQ=="
+secured: "bPmSJkjziZyV1W9QgkKRMQrkaZ9eFXXHr6qlxemdvJgwonbz3jxLaelGQ2fSVvlebf8Wao7LOU7IcDqGpXjhNbAAUPgh2osasmHbXNN4jW++EQEIoD5nuBrWsh0e3XFNsxBSVBUW1btS2CWxTwISOEHHslwRoLY4qQI8hLyKX5WLkVM9DPJEe+QWTTuaiBx7sAEyHg+NyGR8nJA8lc/jmaYamXXLJ67peZOGgK5vl2d+NM92wR1IBrHueVi7PUED0vCMSO7oD6BvZwXzMbpfxQ==;10IaBdhABxOeZBikcIhs1g=="
 ---
 
