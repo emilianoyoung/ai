@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
+  - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
+    excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
+    publishedDateTime: 2019-12-23T20:12:00Z
+    sourceUrl: https://xconomy.com/national/2019/12/23/healthcare-ai-tech-is-here-now-we-must-learn-to-manage-the-data/
+    type: article
+    provider:
+      name: Xconomy
+      domain: xconomy.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.34BD48A656483EBF50ED8B6D22765197
+        width: 700
+        height: 467
   - title: "What is the Procedure to Start a FinTech Company?"
     excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
     publishedDateTime: 2019-12-29T02:05:00Z
@@ -69,7 +82,16 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 26
+  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
+    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
+    publishedDateTime: 2019-12-23T16:26:56Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
+    type: article
+    provider:
+      name: USA Today on MSN.com
+      domain: msn.com
+    quality: 19
 
-secured: "op9FiesXLyLdPtrPHGVDG2AmZfsWV6nwA+8VQdOY3sGHeCFQkf7gGqdk9Apmf1+8JiLeHRmIFdOll74ENSrBjNspeWZIbuyZre74UcdYZVmTW2HOkrFs9vtOjgUkPpUJsEhPRUfyxg4lQ6PX5DgdOIT0eR604p5UwTieDA4K1iMAfIeHnXU+r6SYgPohoCN87A9RPQa4DSy9uYcGo4wCPAjseX6aAlhHkWwI810ohz2uklEAvPvLlPMGIL6SJoBtQBJ1F9HqIU79Vl7Z60glpg==;fvpUKXfDEZqYxAyOmOUTBw=="
+secured: "y3lLlHb5wXfJxFhlqYlncZrdma3YTGlC0r+nzmyGkQ29e1PkjjqduQtWZb0BzHH5Lwg8ubP8MtN+qvaveYzUpZM/539sA0icwpJu+2axF+B8kiBSwRRlr2MG4d2kL9t/utmkMUqtEaRJM+pifcU/z3m9nHOwmT/+bz0SW+/V1U6c5rzd+imgIOokKhGFAIoLFz6vyQJAvT0682CxsSomIDp1QsXh/5dIXNGJEkqOcUG1CCIwDbwq7EZe6ydHizuA+vW+9w81GVp8dI1UjKHN0Q==;c4noL4KrAiYBauaR1vGwdQ=="
 ---
 

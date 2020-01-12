@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -26,34 +26,21 @@ images:
     title: "3 Top Artificial Intelligence Stocks to Watch in 2020"
 
 related:
-  - title: "5 Artificial Intelligence Stocks to Consider"
-    excerpt: "The company’s Waymo unit could be worth as much as $175 billion ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing Units), which are chips that process large ..."
-    publishedDateTime: 2019-12-23T15:02:00Z
-    sourceUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/
-    ampUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/amp/
-    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/amp/
+  - title: "Tom Still: Tech trends to watch in 2020"
+    excerpt: "Robotics, along with related tools such as artificial intelligence, will help to fill the gap ... animal and human DNA to protect genes from disease. Genetic and cell therapy is advancing quickly, as well. Real breakthroughs will also come is digital health data, such as what exists in millions of patient records, can be anonymously analyzed ..."
+    publishedDateTime: 2019-12-29T10:00:00Z
+    sourceUrl: https://madison.com/wsj/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.html
+    ampUrl: https://madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
+    cdnAmpUrl: https://madison-com.cdn.ampproject.org/c/s/madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
+      name: Madison.com
+      domain: madison.com
+    quality: 44
     images:
-      - url: https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg
-        width: 1600
-        height: 900
-  - title: "Five Things to Watch in European Health-Care Stocks for 2020"
-    excerpt: "Health care has long been a key point of contention in U.S. elections and 2020’s ... R&D “remains paramount” with innovation -- driven by expansion in artificial intelligence, connectivity, and robotics -- becoming increasingly relevant, she said. Clive sees Royal Philips NV and Siemens Healthineers AG as leaders in artificial ..."
-    publishedDateTime: 2019-12-23T07:30:00Z
-    sourceUrl: https://www.msn.com/en-us/news/money/five-things-to-watch-in-european-health-care-stocks-for-2020/ar-BBYgsqi
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.E5FB9E6D356A78BFBE281518757D46E2
-        width: 700
-        height: 467
+      - url: https://www.bing.com/th?id=ON.0652F2389F2AC41B5EAF50EE628DAB0E
+        width: 356
+        height: 200
 
 secured: "k4Gsx7FWqWFdKG7w+ikhRf716/b/sKEKECzja3stqOnY5Tix9lDL36rc8NiXu8KsN5YVrKQEExy101A+p3NRxHO9UcWeQOGvC4A4CEzsuZAl/yP9Qbzj3f5exvy/xQiQjQ5d9krcflw2qKV320f2JQSajNAora+erKg720H4ORtPkV4ZiH1JmpTgiE3K99/oeMHLaq/WaxfUAkDd7u98ufWqA0mk+oIc7KjVCHu4ILjKqeDdz5bvF3ejlWWvXiXYcY9GQ7ts7dcSVZztuwy2Hw==;3fyJF8k35R3m81VmMVpNdg=="
 ---

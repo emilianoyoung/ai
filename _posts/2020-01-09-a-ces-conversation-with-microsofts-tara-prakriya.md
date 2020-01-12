@@ -37,6 +37,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "LG to accelerate B2B innovation with Microsoft"
+    excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG’s B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG’s autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond ..."
+    publishedDateTime: 2020-01-12T09:00:00Z
+    sourceUrl: https://www.zawya.com/uae/en/press-releases/story/LG_to_accelerate_B2B_innovation_with_Microsoft-ZAWYA20200112082720/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/ZAWYA20200112082720/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200112082720/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.AA2E3F74660B1B446E36CD659E1E8023
+        width: 450
+        height: 317
   - title: "LG to Accelerate B2B Innovation With Microsoft"
     excerpt: "As announced at CES 2020, LG will leverage Microsoft Azure and AI services to accelerate the digital transformation of LG's B2B business growth engines. A year ago, LG started its collaboration with Microsoft to enhance and further grow LG's autonomous vehicle and infotainment system business. LG will expand the scope of new projects beyond the ..."
     publishedDateTime: 2020-01-10T08:55:00Z

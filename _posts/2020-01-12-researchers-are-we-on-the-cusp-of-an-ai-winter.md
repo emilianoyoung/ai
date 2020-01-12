@@ -2,22 +2,18 @@
 category: news
 title: "Researchers: Are we on the cusp of an ‘AI winter’?"
 excerpt: "The last decade was a big one for artificial intelligence but researchers in the field believe that the industry is about to enter a new phase. Hype surrounding AI has peaked and troughed over the years as the abilities of the technology get overestimated and then re-evaluated. The peaks are known as AI summers, and the troughs AI winters."
-publishedDateTime: 2020-01-12T00:22:00Z
-sourceUrl: https://www.bbc.com/news/technology-51064369
-ampUrl: https://www.bbc.com/news/amp/technology-51064369
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369
+publishedDateTime: 2020-01-12T00:21:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51064369
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51064369
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51064369
 type: article
-quality: 87
-heat: 107
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -44,22 +40,7 @@ related:
       - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
         width: 700
         height: 350
-  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
-    publishedDateTime: 2020-01-06T16:19:00Z
-    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
-    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
-        width: 700
-        height: 393
 
-secured: "5ixLtBDsJcToqOfn0WnyyuNdA23vk+K3AFMOYDURYUc217C5pMYgWFxP/h3y7HizTeKtQ5+fhhZOvNUf3+NVRI0iymmj96beGPKGBRoHOzlPkxAa2V126HB9RLFgwo8luM6filhj+n9xA6CEUddHyOTqdxt1K6Ayfospy4oO81rHfsMIk89NNpq59hkyr5PYn/hOQnib8ueW6mnj/wKDMd5HOfUUVF7jYU7D4yA5m6/NzGUd7XRE/QRpkpkF+eaWpcZdmT2Ax2bK4vXv35vFJw==;GsvKogEb4oscYvuZAaH+RQ=="
+secured: "TdUaj3qz/qcDWOtENw03kHdbQwtGQ6SwHeMvWEtAtZGN2tcvJdFGGRBj53710ntJ0GbkgijF7r5wlPgYtfTf+hi00KxLOAcI/VsBdsfSZGNePjq41r0Rlqmi1FweddC7JNAvoVf3AIr8jBi4XUJzUvdyS6pw1cR8idhEtQNsJNngBkvtSG74TzvhEld0/iyfaDuQfSCAVgnMY7Pd0lH/9AxjVtPAk0DnjCpgv5+9U4uoRwFaZf1JqukRZVDQ0WVJupmqo2xSA//ZFmnHGRXSxw==;UG8viSLlRLGbVew/S2VXqw=="
 ---
 

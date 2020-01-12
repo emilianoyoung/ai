@@ -84,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B4E52B61671936F78477A36071FDF3CB
         width: 700
         height: 393
+  - title: "Artificial Intelligence Stocks to Watch in 2020"
+    excerpt: "Some of these technologies include Machine Learning (MI), Natural Language Processing (NLP), Predictive Analysis, Image Recognition, and Robotics. The artificial intelligence market was valued at $23.94 billion in 2018. It is expected to grow to $208.49 billion by 2025, a compound annual growth rate (CAGR) of 36.2%. The technology is already ..."
+    publishedDateTime: 2020-01-12T14:08:00Z
+    sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
+    type: article
+    provider:
+      name: ABC7
+      domain: abc-7.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.B9619FE986D8EDB98A5D3402416C05A6
+        width: 700
+        height: 466
   - title: "Top tech trends 2019"
     excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
     publishedDateTime: 2020-01-09T10:41:00Z

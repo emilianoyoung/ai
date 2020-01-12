@@ -8,7 +8,7 @@ ampUrl: https://www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-sw
 cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11688/11905004/cardiff-vs-swansea-fans-should-not-fear-facial-recognition-say-police
 type: article
 quality: 59
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
 
 related:
+  - title: "Anger over use of facial recognition at south Wales football derby"
+    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
+    publishedDateTime: 2020-01-12T14:05:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.366056A15FB0553FB1FDE21C5145002D
+        width: 700
+        height: 367
   - title: "Facial recognition at South Wales derby 'a step too far', says police chief"
     excerpt: "North Wales police and crime commissioner criticises plans for Cardiff and Swansea clash"
     publishedDateTime: 2020-01-08T18:48:00Z
@@ -41,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C4ED7DD5487182F1B725A9B9F9D1223B
         width: 700
         height: 367
+  - title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
+    excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
+    publishedDateTime: 2020-01-12T11:32:00Z
+    sourceUrl: https://www.itv.com/news/wales/2020-01-12/fans-stage-protest-against-use-of-facial-recognition-technology-ahead-of-cardiff-v-swansea-match/
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.E46EC45D8BC6BEEECF80339153395477
+        width: 700
+        height: 394
   - title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z

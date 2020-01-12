@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
         width: 700
         height: 393
-  - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.msn.com/en-us/finance/companies/big-tech-is-coming-for-banking-experts-predict-fintech-e2-80-99s-2020/ar-BBYhxoO
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
-        width: 700
-        height: 466
   - title: "Big Tech is coming for banking, experts predict fintech’s 2020"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: \"The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organisations’ offering their customers banking products."
     publishedDateTime: 2019-12-26T02:03:00Z
@@ -67,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3F8FC1CE2B919F4CE4E1C4192BA82F2F
         width: 700
         height: 456
+  - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
+    excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
+    publishedDateTime: 2019-12-27T12:41:00Z
+    sourceUrl: https://www.businessinsider.com/audio-tech-marketing-experts-share-2020-predictions-programmatic-ai-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
+        width: 700
+        height: 350
 
 secured: "qVSCf5+3wK9emkfAmBAJmlB4xJ7+XscA/DjvYMcAQtoPq+0TvrjpfdZHwirXj5QA5mtpOgWY1tNrJ4szS582RDgfF8hkUkla5eIL/LynUGY9Iqm4LJCcNgt74WMLr0uBdsMVsGTDsWIoZP7Q/0vbHXPV+/7w4RiaggRLqYXSjlYgZ+mv0AueAgila3Ph6e9XVShJKQvlTKYs9hnHOxdrNl08LIpWkceszu7jNmObDivTyOXlS0pvjeFi7ifqn4RR3wwcH9dmsAXDknCFVd4Y7w==;bcgybrXbrPDUsz7oKTbQqg=="
 ---

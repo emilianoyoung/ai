@@ -67,15 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BBFD8C2D66BEFFA5DFC7ED3FE0E23DDD
         width: 700
         height: 393
-  - title: "Highlights of the day: Chinese chipmakers developing AI-based ASICs"
-    excerpt: "Chinese chipmakers are also developing HPC chips for AI and deep learning applications with the goal of volume producing them in 2021. The development in China is promising big challenges to the US vendors, such as Intel, who have been dominanting forces ..."
-    publishedDateTime: 2019-12-23T08:20:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191223VL200.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
 
 secured: "73VEyJ6YDSYCJYkTpE5MRFudGy2QeTknQVoWq9FLrskld2QdGxdlgfNWKJHebTvvZCUKTLT8aF4mXbm2DrZ0Bs9Z8HEab7P4leidctr4HQCMmRljl4wn7eeVEqBrTjMU2xcjYilN+tRo2AObt1czByb266lip2RitJop8uNCTGPewX/O3/IfmHPHKE7QDuJK9xsuS0xDqSUpnXISdocISJJM9fWgYGyduNVyYFBXgRc8xYAE3yFGoOIaxaiP2/1IXZZAZahFFFdKb54YYWLvdA==;71qUnqZupFbSIrlw7FPBvw=="
 ---

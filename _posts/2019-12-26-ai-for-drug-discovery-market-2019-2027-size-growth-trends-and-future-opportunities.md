@@ -40,19 +40,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Self-driving Cars and Trucks Market Overview, Industry Trends and Growing Opportunities Till 2026"
-    excerpt: "Dec 30, 2019 (Global QYResearch via COMTEX) -- The fresh industrial research report Global Self-driving Cars and Trucks Market Research Report 2019 published and promoted by Ameco Research.com studies industry trends, market gains, Market development aspects, growth speed, and industry situation during the forecast period (2019-2026)."
-    publishedDateTime: 2019-12-30T06:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-overview-industry-trends-and-growing-opportunities-till-2026-2019-12-30
+  - title: "Machine Learning Chip Market :Technology, Future Trends, Market Opportunities 2019 & Key Players"
+    excerpt: "Machine learning is derived from the field of artificial intelligence (AI), which uses algorithm to find out natural patterns in data for the development of computers. This data is used to take better decisions and make predictions in applications, such as stock trading, medicals, machine load forecasting, and others. For instance, many media ..."
+    publishedDateTime: 2019-12-24T06:14:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/37187/machine-learning-chip-market-technology-future/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: ARN
+      domain: arnnet.com.au
+    quality: 6
 
 secured: "EpwPKWk/1p+Ny3jPkSNZ9XUFIsq1khcE0UlgGUnf6hvuTCIW39L37VdnUhIiN0RH9EKC8KTLeDaqooWyLsJpdgF7VwwMBM7BKZJ73ofAhe+Skhy++bFCBpp9vOHWdnkQ4S0luHbVbcVAfcWk1KrOWN2mrkPXssW6zB9MEf7/+um9vDzXufbaMkSZya9MnsIX0STW/59Tz9r4RxuYf8FxW9VV7VNMSKtjXROuGsdZ3OxbIGgSI4hZ02F7DS28/sYFOtVx375f8WsKjIsSlqyGbA==;rEZUW8xexFihlQ932uMWfA=="
 ---

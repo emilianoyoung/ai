@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,19 @@ related:
     quality: 37
     images:
       - url: https://www.bing.com/th?id=ON.06A9F5182330DBBE5A86E7EDCF4E32DA
+        width: 700
+        height: 367
+  - title: "2019: The Year of the Face"
+    excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
+    publishedDateTime: 2019-12-28T16:45:00Z
+    sourceUrl: https://petapixel.com/2019/12/28/2019-the-year-of-the-face/
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D50DAB5DDDD81506800830AA34C46262
         width: 700
         height: 367
 

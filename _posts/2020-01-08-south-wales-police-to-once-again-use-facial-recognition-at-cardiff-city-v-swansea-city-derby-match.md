@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7480F9C75F0347A12CB217F8EBEE5680
         width: 700
         height: 393
+  - title: "Anger over use of facial recognition at south Wales football derby"
+    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
+    publishedDateTime: 2020-01-12T14:05:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.366056A15FB0553FB1FDE21C5145002D
+        width: 700
+        height: 367
   - title: "Facial recognition at South Wales derby 'a step too far', says police chief"
     excerpt: "North Wales police and crime commissioner criticises plans for Cardiff and Swansea clash"
     publishedDateTime: 2020-01-08T18:48:00Z
@@ -54,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C4ED7DD5487182F1B725A9B9F9D1223B
         width: 700
         height: 367
+  - title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
+    excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
+    publishedDateTime: 2020-01-12T11:32:00Z
+    sourceUrl: https://www.itv.com/news/wales/2020-01-12/fans-stage-protest-against-use-of-facial-recognition-technology-ahead-of-cardiff-v-swansea-match/
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.E46EC45D8BC6BEEECF80339153395477
+        width: 700
+        height: 394
   - title: "Germany’s plans for automatic facial recognition meet fierce criticism"
     excerpt: "An alliance between civil society and politcians are opposing the (alleged) government plans to expand the automatic facial recognition system across the country, notably because the scurrently available technology remains underdeveloped and could lead to so-called \"false positives\". Foto: Stefanie Loos [CC-BY 2.0/STEPHANIE LOOS]"
     publishedDateTime: 2020-01-10T10:02:00Z

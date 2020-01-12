@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T17:08:00Z
 sourceUrl: https://medium.com/@ypg.publication/artificial-intelligence-in-pharmacy-and-healthcare-9029bdbcbeb6
 type: article
 quality: 84
-heat: 124
+heat: 94
 published: true
 
 provider:
@@ -41,45 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B9FA02316D03526660BE2C72951411B9
         width: 660
         height: 440
-  - title: "Progenics Pharmaceuticals Announces Phase 3 CONDOR Trial of PyL(TM) in Prostate Cancer Achieved Primary Endpoint"
-    excerpt: "About PROGENICS Progenics is an oncology company focused on the development and commercialization of innovative targeted medicines and artificial intelligence to find ... who require systemic anticancer therapy; and oral and subcutaneous formulations of RELISTOR [(R)] (methylnaltrexone bromide) for the treatment of opioid-induced constipation ..."
-    publishedDateTime: 2019-12-23T11:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-phase-3-condor-trial-of-pyltm-in-prostate-cancer-achieved-primary-endpoint-2019-12-23-7184024
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
-    excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
-    publishedDateTime: 2019-12-23T14:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/aylien-raises-5-million-identify-135600933.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 6
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "Aylien Raises EUR5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
-    excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
-    publishedDateTime: 2019-12-23T12:53:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aylien-raises-eur-million-to-identify-and-analyze-risk-events/article_e696c7ee-cdb7-55b3-9ba6-09309939308c.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
 
 secured: "DRsu3qds3pdD3WIaTD/RfkMKPWaQC6nLEwUTsnZ6CxUditiSIPukFeKIMVIl40/mb+YCyPvkYpsFDTrZC3Yb3SJVOmxmBgylpyHFxxpRYvcI5sYpC/0cn3HBgD+umRwzjYL5Q7HigXNgYEkzRoMYn5rqPu3xMlkB9ilLYs7dMwpbetJRUeLEenF7siFuhnraSlCibNOffLGVzlvWuTUduWoQgbCGMu5Qb9BgO7VOnAut1lBfYQzKuqN91VglXR3RHAuOOXriARD68Zscyted5Q==;pLZdNVH2rZYPATvq4x8l8A=="
 ---

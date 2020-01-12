@@ -26,21 +26,62 @@ images:
     title: "Grilling the answers: How businesses need to show how AI decides"
 
 related:
-  - title: "BMW CES concept shows how autonomous cars will change luxury as we know it"
-    excerpt: "This isn't meant to show off the first self-driving car interior, but instead one that comes well after the driverless machines become commonplace on city streets. It's hard to start somewhere with all of the wild features included, but I suppose let's step into the shoes of the rider. When approaching the i Interaction Ease, the concept ..."
-    publishedDateTime: 2020-01-07T15:38:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/bmw-ces-concept-autonomous-cars-luxury/
-    ampUrl: https://www.cnet.com/google-amp/news/bmw-ces-concept-autonomous-cars-luxury/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bmw-ces-concept-autonomous-cars-luxury/
+  - title: "Artificial intelligence: How to measure the ‘I’ in AI"
+    excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
+    publishedDateTime: 2020-01-12T09:07:00Z
+    sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 72
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
     images:
-      - url: https://www.bing.com/th?id=ON.CD296335E8D84BBBB686CAEFA8B52945
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
+        width: 796
+        height: 417
+  - title: "Healthcare: How innovation is moving the focus away from sickcare and bringing it back into the home"
+    excerpt: "In the latest episode of the Arabian Business Enterprise Innovators Series, in association with UPS, we look at how technological advances are revolutionising and disrupting the $80 billion healthcare sector in the GCC ... leverage the advances in digital health research, such as artificial intelligence, cognitive psychology, blockchain ..."
+    publishedDateTime: 2020-01-12T14:53:00Z
+    sourceUrl: https://www.arabianbusiness.com/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F5E9BE663C9E82188B0EE3CD49039D58
         width: 700
         height: 367
+  - title: "Special sunglasses, license-plate dresses, Juggalo face paint: How to be anonymous in the age of surveillance"
+    excerpt: "Researchers have long criticized the lack of oversight around AI, given its potential for bias. A recent National Institute of Standards and Technology study that looked at facial-recognition algorithms, including from Microsoft and Intel, showed Asian and Black people are up to 100 times more likely to be misidentified than white people."
+    publishedDateTime: 2020-01-12T13:00:00Z
+    sourceUrl: https://www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/
+    ampUrl: https://www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.41CA5E7A38A69F31041E543AF60BFA07
+        width: 700
+        height: 449
+  - title: "Welcome To The Machine: The AI Revolution Comes To ETFs (Podcast)"
+    excerpt: "Artificial Intelligence - and the machine learning algorithms that underlie it - is showing up pretty much everywhere these days, so it's no surprise that there's now an AI-powered ETF firm, EquBot. EquBot's founders, CEO Chida Khatua and COO Art Amador, join Let's Talk ETFs to explain the inner workings of their AI Powered Equity and ..."
+    publishedDateTime: 2020-01-12T13:21:00Z
+    sourceUrl: https://seekingalpha.com/article/4315732-welcome-to-machine-ai-revolution-comes-to-etfs-podcast
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.65E239BE94010E441B7A70EF511676D1
+        width: 700
+        height: 465
 
 secured: "2i7DKx0cvuaOwC8IwNmYhZ2do/bNBjNUeDr/ifPvfwDCRjRl2DDSfOZMTu0mnuF3/dtlzh/VOpNbAa6hkdZxgr/PON9zZZVjxm+hahqjAolSwzfeZaDyclqzDQA0b+VwPVZ9qLl60JIF11Zc39Em2PNaijC7qEqtWuMldvRCUPNsdJdKdSZAOW7k5W9vpFD0KnIX+DxtABRvv/VlL++SwhRpbV6EqAW0Fr6tPf5M8z7+x5ltUwK0/9+0/VES0j3KVgCol1PAY+4ncf+1jF75LA==;JeSlTKrxHbqrXmxEcIHEIw=="
 ---

@@ -176,6 +176,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2396890D089F2BC96A690A8D32E6A78D
         width: 600
         height: 315
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. The research findings were recently published in a top scientific journal ..."
+    publishedDateTime: 2019-12-27T16:35:00Z
+    sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
+    ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/2019/4-usingdeeplea.jpg
+        width: 900
+        height: 342
   - title: "Decrappifying brain images with deep learning"
     excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
     publishedDateTime: 2020-01-08T17:19:00Z
@@ -219,15 +234,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5A68C7E2C4F1AA3E9B841E170DD06194
         width: 700
         height: 393
-  - title: "Using deep learning to predict disease-associated mutations"
-    excerpt: "A research team implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years ..."
-    publishedDateTime: 2019-12-27T22:39:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
     excerpt: "Washington D.C. [USA], Dec 28 (ANI): In an effort to find the origin of various human diseases, a research team has used deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. The research was led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU ..."
     publishedDateTime: 2019-12-29T00:06:00Z

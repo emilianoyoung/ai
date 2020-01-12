@@ -23,6 +23,6 @@ images:
     height: 396
     title: "Instant Voice-to-Text: Transforming Work Styles with the Power of AI"
 
-secured: "WCznXA/oIDHjMRRZSqfjUa7GCIxPRBa6tBqDlM2tRuw6tkjBs7oEYh/DWJYbGTVJVvOprdJiw2CR/VhobWTEiwS6mO1ODdjWdRO4PDpJMezwz/ffr2hiEGMST4WUDRltkBnBxpYD0NLZ4ETDoJNMQSdF2vK+wcNcq5Hi3L0xsYoGVpZUEfa7AmH5rzyn1Qb9n1Uzjd2sLo5rSowXMzUY8nN+he0JGhBC6HyJ4CcFUgc3mNK1Z9/dbzhOMw9m54U66G7LrxEqjNDDQ4ughh9wrQ==;iZsLLXU8/Izm8bBzsZw10g=="
+secured: "G2abKLj3YB5XJFrtzzzybfqC8Owh5a16/qPq208JQmGcsyppuEkxhE67Z5aditBwu7Gpnva1x13EuQv/ASFBdm/2V2A8HPRZXWo3GEile+91RfxVmr8ARiMpLgdd1Qvq2UEiKKTQ3WrtJe2v+ZjbaCZp7UD6JJDYkpn7AufewgDTNJHpQpHk6nO6zlYMRXjhvhBnJ+387pP5fKQzGl7hjAvEOF5E8AhrpPVG8v2NIOcHvvPxbJUUtRVOMiGLjnBXoZ9lp0fm6JH3/WzYUDwgWw==;sq/nNem4pO6IqKTKJlctQA=="
 ---
 

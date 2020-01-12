@@ -25,6 +25,6 @@ images:
     height: 1200
     title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
 
-secured: "bPjvxGlOMDkWUVLnFxX8oB/c1hgOkt+SWCB6pLaaJZx6Y7Yp9xNYhZZCZVaCs/Oo5WAC3vzRq/g5bQ031ka5Q1+GbcZjljfxvp/Y0sjTxWNWswmC4WsJKAYyeIccRxkFpE/yt8xCaxREwQtIFKJqVGvZcAeykYuzOh0O8oLyTpmzMBjrRQU+lkcqsvj4BbWeHqf25H82QHr7LRDERWVIvS90gQ36A0GyNjn4j/nHNz7jnz0M8XEZjwoj/BFzVK4Qwr108ewlJSmf4eFEuuMQug==;7icnzKkQT0emXJT7naCQIQ=="
+secured: "Ugi6yXhLd2p/ETv7MLHl1UnX70sg5bJm5XP541YZ47O1k2WKgROM54DoCvKefvx4bCrNc7U2QmI4xZOSs2rkIJXTdYdTC9xj573HmqvnOPqE2FW187DnsnGcNq6V9AgO9wpeeZqTgzkjJZBG1ut/0Si+eQR65+8CQEZ92bZCzqjtCLitqqZswog6SdEjPA3smzopjDFjUd7J6o84BYdGJ54GBdk2ozXP4tZpsXBXFkINm6lW5GAXV9xKW0d70mTb47eSZWr8iAUMvN9taIso3Q==;LGYYWI3gnTaxWPuyI0cMtg=="
 ---
 

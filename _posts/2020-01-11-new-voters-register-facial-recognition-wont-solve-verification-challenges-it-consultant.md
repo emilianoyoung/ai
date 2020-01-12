@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4BB7A977116E70D5DFBD615B431496F5
         width: 700
         height: 481
+  - title: "Children's Hospital to purchase CCTV cameras with facial-recognition capacity"
+    excerpt: "The National Children's Hospital has said it is purchasing cameras capable of facial recognition and storing the images. The technology is similar to a system used in China for surveillance. It can count how many people are in a room, analyse people's faces and keep up to date with their movements within the facility. A spokesperson has said ..."
+    publishedDateTime: 2020-01-12T15:55:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.84ED662CC33526A38DA026002951B9F5
+        width: 600
+        height: 325
 
 secured: "zznGztBqDwSXi8GXLC98nly6ZoRv2VDibTl9wHLJ9BnpQ/icNPDD7G7gFkrKw93P1ESyGljHLQEFhpycg7uracKnEuqRsGbqf1bySf8awr+xqy5qs4U27/RKYK0zfthvMP2OpvcmvUWfyaW9HGkxKsxvzNZPXN3jdx2kDac7mFJwsd1W0APNoM4AMw/3zOGfB/uCW8+9x7y4/oMqXGW7gyOCpl+nMFaCBRE9HjzBCSK+8LckbDinwXDYlMm3v+R2hK9ef8EcSdobFdXVqI2CXQ==;eR4wEFYwPGKmps8PX8qp1w=="
 ---

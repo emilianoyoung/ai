@@ -23,19 +23,6 @@ images:
     title: "Amid a scientist shortage, AI is being used to scan for diseases"
 
 related:
-  - title: "Doctors turn to AI amid scientist shortage"
-    excerpt: "A shortage of doctors is escalating across the U.S. as Baby Boomers continue to live longer. Pathologists, the scientists who study disease, have been hit particularly hard, leaving companies looking to incorporate artificial intelligence into disease scanning. Yahoo Finance’s Dan Roberts, Heidi Chung and Anjalee Khemlani discuss on YFi AM."
-    publishedDateTime: 2019-12-27T16:12:00Z
-    sourceUrl: https://finance.yahoo.com/video/doctors-turn-ai-amid-scientist-161227530.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8FDD3BD5D8F91091FEE0C337D65B57F6
-        width: 700
-        height: 487
   - title: "New Beaumont research puts scientists one step closer to newborn screening for autism"
     excerpt: "The preliminary, collaborative study used Artificial Intelligence, a computer-based technology which scans a map of the ... “We are always looking for new ways to make a difference in the lives of our patients,” Warner said. “Getting them into therapy early on is a proven way to make their path, and that of their families, easier and ..."
     publishedDateTime: 2020-01-02T20:14:00Z

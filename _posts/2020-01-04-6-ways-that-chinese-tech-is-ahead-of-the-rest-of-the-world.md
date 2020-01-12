@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "6 ways that Chinese tech is ahead of the rest of the world"
 
 related:
+  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
+    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
+    publishedDateTime: 2020-01-06T16:19:00Z
+    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
+        width: 700
+        height: 393
   - title: "Killer robots are not a fantasy. The world must reject and block these weapons."
     excerpt: "These countries are investing heavily in military applications of artificial intelligence with the goal of gaining a technological advantage in next-generation preparedness for the battlefield. These killer robots, once activated, would select and engage targets without further human intervention. The United States and other countries ..."
     publishedDateTime: 2019-12-30T09:07:00Z
@@ -163,6 +178,6 @@ related:
         width: 700
         height: 494
 
-secured: "Oh5q9ANiDL2rnuw6+pdolJY0sCfp2LjBf+pw6wzIbajkdbkzSl9tDc44/UH5Yf1F3C4Nf3dQ7dI2GtEZg3E5cEp4KGA9kDBKX6gBfF0sfmU4ncKAkddA2/6aECRhT0OZNTxTCG/MN+4C0o262cOyGkt3C46QYDBlpZbmxnNJaGk0mOUshHzN0VZgFtW6zsKfVj9M7pMgy9RHRZILbV7Rp337B1JvH78yA8GNXtuoea0Gd9aR11jvDc0mfkwu0co+TSBKrwPMNXPdZBqzZeyZ0Q==;omwPrPl9n/wR/xFHpWzALw=="
+secured: "s15NACoK4EwbCM3IPd7gZmctopcheCHkmpShKTUabOxjE8i8dwmwkQcaFBcS1z/UF3DqrLBmdbvjOdo8PQSULqoIfGDt1tcR4Ik+gdEm0XbXhUuRUUgZ1Mtu+va2eiTLkjLZDU/Es7znZQRBBimVENkRJtEhMyv2SQ4CSVxB9LgwHeDRKUH8ObxQfEdmWkBGQ48pvuMP+sELuRg+bO79eI8+vtvF5mXyhxQad2NM0tXSs67RuCAn5TXgkF0cdS5FkKUDqr2uxC8Y9VvgTr48AQ==;+ZdIG7EuWkggdJsuuTw0sw=="
 ---
 

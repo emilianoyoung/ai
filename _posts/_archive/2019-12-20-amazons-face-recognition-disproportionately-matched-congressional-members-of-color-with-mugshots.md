@@ -74,19 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EC4CA47A0C4F9DE6A989C0B80863FF0E
         width: 700
         height: 350
-  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
-    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
-    publishedDateTime: 2019-12-23T11:43:00Z
-    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
-        width: 700
-        height: 466
   - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
     excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
     publishedDateTime: 2019-12-27T09:36:00Z
@@ -96,19 +83,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
-    excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
-    publishedDateTime: 2019-12-23T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-technology-market-2019-competitive-insights-and-outlook-ibm-corporation-imagga-technologies-amazon-web-services-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -127,6 +101,6 @@ related:
         width: 700
         height: 495
 
-secured: "gyGPViQia/a4Wol2m5ViSzSF77qrFwp0ANL89M2WBdmLyMoxJAkETONdr82siP9RKnBi7WsORJd48K9s7r7b1bBJZGbNvIAOsEaOSuU2vn/v9opKsJw8mURHvtlfgZLJskXVIKn+HO09slEkWyRWWIYubZTW7XITDuEp1bPZ9OUoA/FLWhKz+WnR24qzPFQe6nCO1POFCWe9tLwqjG1w1IAZbg60wh3euE1wvYweUPJMyEzXttoIc7CfapO8MKqRdeoS35gwnPHsyTjMJ+4h6Q==;+QDm/lSwdQa1HOYwWtdF7g=="
+secured: "RI5ljgQo/ShKpCS8WtT1TFwjjLq2FFshHgW7b+mZoc357Cw8lGcUWC3djLSTYXYIGeW/u1ES9v35Ea/qmKnA9IFV9U6lGLmuEZY+boMZNqNGUt3SnlDKpnil6CbAABvdDm9ICwNEFwVIaaSWbLT5A057dhGIaNhYfVUJDuoUL4BVb0IfxC3S5GTkfJSN6XeauphYcBYpf+tnOveIg0kHgyyGwJ/Ph8EH7bs4/OV1t0WwBBQEWtFFsBdPfdTnM1kAAkAo9cUKAYC4X2lAdfNZ3A==;iDebhOgjN0Uoa+SOuXv27Q=="
 ---
 

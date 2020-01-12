@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.056694B6EBF33129938C93F459978599
         width: 636
         height: 382
+  - title: "Voice Recognition Used by Law Enforcement"
+    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural Language Processing (NLP). It is a branch of artificial intelligence that helps computers ..."
+    publishedDateTime: 2020-01-12T08:00:00Z
+    sourceUrl: https://i-hls.com/archives/98105
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A8495746B01F00BD47640F0E58CE4B39
+        width: 700
+        height: 393
 
 secured: "hatcwVI774VFxF9FN/oluJDI2i8RK0+H2sqE+fZtSajjYi2pW+uXtGPByWSfJtpXhnlPSaNkGWecDH3cRrY50C6DFJV9GZYyDRD2JX1rQwW71nlCdR56w1xKjjH8dSypxLCcSG5Rc/eflxI8Nde5ZNXFrvNxxQd0QdSbLGQ5r4qHKiubaVrayaivQfPpVnBh24mxG7y90kYjsaQajbCABHPj8l5ZBLc2PdiRqdcgtorO7RNhg2H6ZBG9GT5DHDPlZc8CmTlRJBLbK6adfabEAg==;Q2YRV4lB9WryjdqoYBOV0g=="
 ---

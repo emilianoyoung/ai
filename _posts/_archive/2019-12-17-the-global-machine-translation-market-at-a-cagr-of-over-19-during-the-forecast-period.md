@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T19:26:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     height: 315
     title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
-related:
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
-    publishedDateTime: 2019-12-12T20:53:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
-        width: 1199
-        height: 600
-
-secured: "gAuCzgFVxmjgMsESlraKIZQ2Bo99x1sF3xhl09suaRzIIBuLekhwwPBOKbisC8o3+cuytrPT3jRlvRryOpmUd+OLWWCHGKhGBZFb+/UrEZXIZc1K5Zrc6q3RhWbVeAViHBM3PxzLZVpYypfz5S0QmFEQmBM8TKrHyUsQpvjmj9MdMS4gJXSAJvgSQw6oqvijdQls8yvBqG/O+IdVwnzqCwy/0/DgHTkqRVAst/+Rz0z1DjN4MszGHNZ5JqbuwiYyDZdpUVEQDSAArjbGgLCs3A==;7+VnUxr68flTdeyaT77+ZQ=="
+secured: "rlS3BZabaonaAw8jR9j8+EjL02COm2c7W/GaJaZ7XQniX2sQNjTBXdFNjYKSjPrr9bFomv5n/Jt/ewNb7tLGwEfLf7efn7gmRfHlpP/1h8kmm3sfCF82kAeG11RT//xm9qewLBWEttK38HyeBwHwFhDHw+UcUBezH8YYSnGpkdldInVler4cuBclRTqdziHNgzcgW/24mZbQM/sddNiW4kLfY+t6UtLKrNimknlKuu3KFLoY18jaKVLDcM0yI1lvEO2EdVGN+FbnPKvHqvPk+g==;Iln7MUGVaG/RQT4XPX8f5w=="
 ---
 
