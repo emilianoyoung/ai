@@ -33,21 +33,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
-    excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
-    publishedDateTime: 2019-12-23T03:14:00Z
-    sourceUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/
-    ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
-        width: 700
-        height: 437
   - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
     excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
     publishedDateTime: 2019-12-23T05:32:00Z
@@ -91,21 +76,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
-    excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
-    publishedDateTime: 2019-12-23T04:01:00Z
-    sourceUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019
-    ampUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
-    cdnAmpUrl: https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.057205BCC25C38951B173C05345712ED
-        width: 200
-        height: 200
   - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
     excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
     publishedDateTime: 2019-12-23T05:11:00Z

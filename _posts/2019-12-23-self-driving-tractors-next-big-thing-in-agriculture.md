@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
         width: 700
         height: 366
-  - title: "Understanding the trends driving natural language processing adoption"
-    excerpt: "The first involves computer vision and, as of yet, is not quite accessible to most organizations. The second revolves around natural language processing, which has quietly become embedded in everything from text analytics to speech recognition systems ..."
-    publishedDateTime: 2019-12-23T03:30:00Z
-    sourceUrl: https://www.information-management.com/opinion/understanding-the-trends-driving-natural-language-processing-adoption
-    type: article
-    provider:
-      name: Information Management
-      domain: information-management.com
-    quality: 39
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/2a851d4/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F49%2Fe7%2Fe09490f74068a0054d016c83a5a9%2Fsoftware-architect.jpg
-        width: 1200
-        height: 630
   - title: "Top AI-Powered Projects In Indian Agriculture Sector: 2019"
     excerpt: "IBM has started a pilot study to use AI-based technology and satellite technology to monitor the agriculture sector of the country. The pilot study will be conducted in states like Madhya Pradesh, Gujarat and Maharashtra. Post the pilot study, IBM’s Watson decision platform will provide a farm-level solution for improving the agriculture sector."
     publishedDateTime: 2019-12-27T05:35:00Z

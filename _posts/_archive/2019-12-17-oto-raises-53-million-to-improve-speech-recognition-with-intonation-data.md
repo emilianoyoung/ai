@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 252
+heat: 232
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Oto raises $5.3 million to improve speech recognition with intonation data"
 
 related:
-  - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
-    excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
-    publishedDateTime: 2019-12-23T03:14:00Z
-    sourceUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/
-    ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
-        width: 700
-        height: 437
   - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
     excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
     publishedDateTime: 2019-12-23T05:32:00Z
@@ -88,21 +73,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
-    excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
-    publishedDateTime: 2019-12-23T04:01:00Z
-    sourceUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019
-    ampUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
-    cdnAmpUrl: https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.057205BCC25C38951B173C05345712ED
-        width: 200
-        height: 200
   - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
     excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
     publishedDateTime: 2019-12-23T05:11:00Z
@@ -220,6 +190,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "yFHhvIPknDZDkwukjFV7CBKeD2InvU/zqs6gvG37H8Dz5ozXt/nV6sGPXBFSJ3shlys+84YYnVCLlcGiT3nqDnyJi2g3Wgrvya9cyLs9yY8VNAiWhpy4yKHrLVKvU2Gjynrc6+i5pFny4CL4uJh0o0Or718O4yGOVyVnAJYCb3d+aVOPO9n1JtAUzxR3wFTxvPyoC53WTZ2gfvy/7Y9V6OWGPdRKsrXnL5WAz8vDo/vunRqQIfZyCPf73fOFACJuWPqOelO2Tjn8uwnSogpnhg==;8vmHzwpu8mM/8LW/T8FrNg=="
+secured: "W9ex11gq4Y5ldkmBWPv8kSHEm7kzTJsNRrwbj+/NWPIeVTwn4rRrzJHUPAfxzjyMQZ3QSbrZPYpXVQRzi4713vrKgGwbI2reS1SIgAwOUuqvO9AM6de9j+U1Ju191S6khj+Fl4t+2roa0svaYcubPvJDaL0xcwt4TnF7ZEGeMRiXr3ZS+1vtwSPNu+13h7o+FKH4sR/dlddsFoocYd4DTlPh4uCy4rb0OxEUukgiH80bPQZ47WtRNM5novhNmElvT08fQiq1PkWAJs/D3VT79Q==;Cebdm1co9xMu9lHMc2AwAg=="
 ---
 

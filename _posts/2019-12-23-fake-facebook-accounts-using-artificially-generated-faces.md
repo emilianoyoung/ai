@@ -69,21 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC682C5FAF1DA8DA47B95F095E13A83A
         width: 700
         height: 393
-  - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
-    excerpt: "File photo: AFP Facebook has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic ..."
-    publishedDateTime: 2019-12-23T03:41:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 47
-    images:
-      - url: https://www.bing.com/th?id=ON.D3697D1C44226C24070006236DF10AA1
-        width: 700
-        height: 367
   - title: "Pro-Trump news outlet used AI to create fake Facebook accounts pushing far-right stories, officials say"
     excerpt: "Facebook has removed hundreds of fake accounts created with artificial intelligence by a right-wing media company meant to promote its ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale use of computer ..."
     publishedDateTime: 2019-12-23T14:31:00Z
