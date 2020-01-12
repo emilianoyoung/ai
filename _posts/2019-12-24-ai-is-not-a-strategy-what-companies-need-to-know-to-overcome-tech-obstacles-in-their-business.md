@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-wha
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
 type: article
 quality: 75
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
       - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
         width: 1200
         height: 744
+  - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
+    excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
+    publishedDateTime: 2019-12-23T20:12:00Z
+    sourceUrl: https://xconomy.com/national/2019/12/23/healthcare-ai-tech-is-here-now-we-must-learn-to-manage-the-data/
+    type: article
+    provider:
+      name: Xconomy
+      domain: xconomy.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.34BD48A656483EBF50ED8B6D22765197
+        width: 700
+        height: 467
   - title: "What is the Procedure to Start a FinTech Company?"
     excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
     publishedDateTime: 2019-12-29T02:05:00Z
@@ -68,6 +81,15 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 26
+  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
+    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
+    publishedDateTime: 2019-12-23T16:26:56Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
+    type: article
+    provider:
+      name: USA Today on MSN.com
+      domain: msn.com
+    quality: 19
 
 secured: "SGHGawduzmAxYG2Z+Rro70Hw/wV7DPPBoHsG+XgUqcxSdwlWIaFeU0uQVeDdxovODB/3XkUFsABdwaFBSR+muFuFXkJIB/XvCZO8fAQDIt1HDGzoQMwKxl/WT1huaqPOGDoDKsQBKEvoe75+KNfVOTt6oa/PRr+7u8r+tXLzc3esExIQJLkrhmIWp48M0InSHAeE5MOlpvhX3KS1nOZE4rPjowt84aNLFIVzPhZ2DZnveumKbKZpWHo7tiJahwToQXi92+FmfjBQb6ltdz7AHw==;BDN5XvAkpxXJ57aKOWAUJA=="
 ---

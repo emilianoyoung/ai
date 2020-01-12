@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EC4CA47A0C4F9DE6A989C0B80863FF0E
         width: 700
         height: 350
-  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
-    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
-    publishedDateTime: 2019-12-23T11:43:00Z
-    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
-        width: 700
-        height: 466
   - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
     excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
     publishedDateTime: 2019-12-27T09:36:00Z
@@ -116,6 +103,6 @@ related:
       domain: theroot.com
     quality: 11
 
-secured: "tbU7JMrRGDLEvlr8xg/W58y0QBuvotIuttB/AAWj35R4L89sNVxOql3S6Qf8sUCB/eiqPVqHZY0YhW3KcocfNjjnGIo7mcHe6a7tBjGXHxtLgo8BKtIL21IGDK5bf6F0NQZ4kBzo2K7rBuZBfaDPDC1iQaPKtLGOJVuRX43KjdR2eZl8wBxxyTljWwtFmOOGgmxD85FWsleKNlIC0S+J+K5SpQZBdKPNMiXGB19Mu6lf66cnzNAj+wVU5pocrOuWDdP7lJpwawfKj1YjyzUhdg==;fx1Q2aHt7qhJgf0xUNLuhA=="
+secured: "8yUW4nK75Q1llyCcDRJjWTPDDUcQ7eSVADIuE320Nni+QQ/wILRf9rAHor7Q8/0k2Ue6wLngXAaRQIcmZdTDlKh10VktSrrZrgaplzt7PSJ7ppyqC8dziW2t+lgzzbrW21u0MwDu23Q0p8Mf2kf1eFzJQrXPQOiqldeidAYt9vEczenf+Llyt0+EJGy04+7xH26tQwfGXV9DHK7HQiycv+fpLvY/lK7yov6yU1ILJdI3AdJC1Op48xJwgajIkSGnKmQSTNBid1SMhvjuZGjwEw==;nWbeuQ61Q2qiw7FwKt84tg=="
 ---
 

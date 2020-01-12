@@ -40,6 +40,34 @@ related:
       - url: https://www.bing.com/th?id=ON.7DAF988D1820FAAAFE31685F0C80AB55
         width: 700
         height: 350
+  - title: "To stop a tech apocalypse we need ethics and the arts"
+    excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
+    publishedDateTime: 2019-12-26T10:54:00Z
+    sourceUrl: https://www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/
+    ampUrl: https://www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/amp/
+    cdnAmpUrl: https://www-theafricareport-com.cdn.ampproject.org/c/s/www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/amp/
+    type: article
+    provider:
+      name: The Africa Report
+      domain: theafricareport.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.7B8E40978C2F06FD02ADC6EDFD4A9869
+        width: 700
+        height: 399
+  - title: "AI specialist will be the hottest tech job of 2020. These are the skills you'll need — and the roles that are hiring right now."
+    excerpt: "Companies like Morgan Stanley and Microsoft are taking novel approaches to train their current workforce on AI amid a skills shortage."
+    publishedDateTime: 2019-12-29T15:40:00Z
+    sourceUrl: https://www.businessinsider.com/the-skills-needed-to-land-hottest-tech-job-of-2020
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8A4BE012CF7CD9D233F8FD8C96F74305
+        width: 700
+        height: 350
   - title: "2019 was the year AI became a political, human rights and trade issue. Where does this leave China’s AI superstars?"
     excerpt: "When Beijing declared plans to become the world leader in artificial intelligence (AI) in 2017, it alarmed the US and the rest of the world, according to former US secretary of state John Kerry. In a conference in May, Kerry said Chinese President Xi Jinping’s announcement was not the “wisest” move: “It would have probably been smart to ..."
     publishedDateTime: 2019-12-26T03:08:00Z

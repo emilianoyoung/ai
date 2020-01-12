@@ -1,27 +1,27 @@
 ---
 category: news
-title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
-excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
-publishedDateTime: 2020-01-08T18:31:54Z
-sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
+title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
+excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
+publishedDateTime: 2020-01-12T11:32:00Z
+sourceUrl: https://www.itv.com/news/wales/2020-01-12/fans-stage-protest-against-use-of-facial-recognition-technology-ahead-of-cardiff-v-swansea-match/
 type: article
-quality: 40
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Wales Online on MSN.com
-  domain: msn.com
+  name: ITV
+  domain: itv.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
-    width: 600
-    height: 315
-    title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
+  - url: https://www.bing.com/th?id=ON.E46EC45D8BC6BEEECF80339153395477
+    width: 700
+    height: 394
+    title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
 
 related:
   - title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
@@ -54,19 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C4ED7DD5487182F1B725A9B9F9D1223B
         width: 700
         height: 367
-  - title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
-    excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
-    publishedDateTime: 2020-01-12T11:32:00Z
-    sourceUrl: https://www.itv.com/news/wales/2020-01-12/fans-stage-protest-against-use-of-facial-recognition-technology-ahead-of-cardiff-v-swansea-match/
+  - title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
+    excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
+    publishedDateTime: 2020-01-08T18:31:54Z
+    sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
     type: article
     provider:
-      name: ITV
-      domain: itv.com
-    quality: 41
+      name: Wales Online on MSN.com
+      domain: msn.com
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.E46EC45D8BC6BEEECF80339153395477
-        width: 700
-        height: 394
+      - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
+        width: 600
+        height: 315
   - title: "Germany’s plans for automatic facial recognition meet fierce criticism"
     excerpt: "An alliance between civil society and politcians are opposing the (alleged) government plans to expand the automatic facial recognition system across the country, notably because the scurrently available technology remains underdeveloped and could lead to so-called \"false positives\". Foto: Stefanie Loos [CC-BY 2.0/STEPHANIE LOOS]"
     publishedDateTime: 2020-01-10T10:02:00Z
@@ -120,6 +120,6 @@ related:
         width: 600
         height: 315
 
-secured: "YtTXIBT4lB3b199FU3P77ydXwnBaOBmTMBp+dC1ucY8jr6Uovt3ZbOstyGu23+Q8hSQbqmm6WF2yC5iCbJvzexIC0+95dhJplxftSQvpnO3P6d8dQq4NeE7rtc+jk5jplUnjVdLs1qcq8ujifYzfdL3hxmQqcGigENRw7KbroJR9Rb7pnPxSnkoyZOCQM9mvsMzhmCKQxT6+YmMwrqWnVqN3ujzlTPXC8sPM9y3v6W0HUb3oiDeQ0lcSKEkHL/WbmPVHn2Xw2eFNhyAnrJjxtg==;XgS1bg0vFP4XEUF5+vYvBg=="
+secured: "6xb6XcsvCQT1xx3uHVAwNqgQxHYXqz/gkga2LX1qXwXMnztNiLXcZGgLohgk0YFjqxiiUHH2P7u6Lg4iqfo919eFzeTP5HRzslpPKHUcTff8mT9PlYDXIFkYD1/WTmG/52wtCJec2MzgfMs1yVaojKBLugwIJRBCh0uND3aWL1FXaYEpz335WYDAbuIlFp1utKSI654ELXdFquWuCjj2YJCakqkU4kDGO341FiG6knaJroC+OlBpqCfomN9ZxPzu1UF/+qqId+IveeidPTFmDA==;zwQp1Cvo+zOm8pwiGjbPBQ=="
 ---
 

@@ -82,19 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EC4CA47A0C4F9DE6A989C0B80863FF0E
         width: 700
         height: 350
-  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
-    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
-    publishedDateTime: 2019-12-23T11:43:00Z
-    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
-        width: 700
-        height: 466
   - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
     excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
     publishedDateTime: 2019-12-25T00:05:00Z

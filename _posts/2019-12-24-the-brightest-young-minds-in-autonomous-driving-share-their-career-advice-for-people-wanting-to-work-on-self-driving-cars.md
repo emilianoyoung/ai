@@ -73,6 +73,21 @@ related:
       - url: https://www.bing.com/th?id=ON.346D41C30139C10D26A49339CDF12A03
         width: 600
         height: 315
+  - title: "BYU professor constructs mini town to test self-driving car tech"
+    excerpt: "The fictional town is named after DJ Lee, a professor of electrical and computer engineering, who constructed it with students as a way to teach them about self-driving cars. “The main thing that we learned is the things you design and build, they work differently in the real world than you would expect from simulations,” said Harrison ..."
+    publishedDateTime: 2019-12-23T15:00:00Z
+    sourceUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.html
+    ampUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    type: article
+    provider:
+      name: Daily Herald
+      domain: heraldextra.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
+        width: 700
+        height: 380
   - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
     excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
     publishedDateTime: 2019-12-26T03:36:00Z

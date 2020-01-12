@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7480F9C75F0347A12CB217F8EBEE5680
         width: 700
         height: 393
+  - title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
+    excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
+    publishedDateTime: 2020-01-12T11:32:00Z
+    sourceUrl: https://www.itv.com/news/wales/2020-01-12/fans-stage-protest-against-use-of-facial-recognition-technology-ahead-of-cardiff-v-swansea-match/
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.E46EC45D8BC6BEEECF80339153395477
+        width: 700
+        height: 394
   - title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z

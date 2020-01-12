@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.88EFE310AF2E3424F2736D922E841EE1
         width: 700
         height: 466
-  - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
-    excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
-    publishedDateTime: 2019-12-23T11:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-from-2020-to-2029-manufacturers-growth-analysis-regions-types-end-users-and-applications-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "B08pa7ZU48Zx0J3sz5i19ohOT3A8ONa7qUfo73bqsoUqjfningpGebNDXxaHseJRcRSWj7XYxCmOLw4D5FH6CqY0MNdGQj8FQndz7yQC0mu+WzGn8+85gkRsZPTA64qpLt4/iAR9fiNQBzv796T0zPhbvLJYMvpRdaIroWWo9ZccXRDVpTiBp6pSBUnZYrdnIy/tWsPTOk6A3np1pQildoOOx+cpofUwulRxcFzY4XgFRtUG9+ecLlYeaBhvpHLK7AFo2Lj2G/15wbZR5be6zw==;PltFQQQzLm6X7sxaYI4FCQ=="
 ---

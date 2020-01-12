@@ -26,160 +26,183 @@ images:
     title: "BYU professor constructs mini town to test self-driving car tech"
 
 related:
-  - title: "Here are the top tech trends of 2020, according to top experts"
-    excerpt: "In 2020, technologies will move toward the ... will begin to appear, and may use fast 5G connections to the cloud to identify people and things for us. The role of AI will increase in business, and the public will become more aware of it. Next year’s tech will appear in the context of a turbulent political scene and perhaps the biggest ..."
-    publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
+  - title: "Self-Driving Concept Car Being Unveiled At CES Triggers Anew The Feud Over Levels Of AI Autonomy"
+    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
+    publishedDateTime: 2019-12-30T14:49:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 124
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
+      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
+        width: 600
+        height: 315
+  - title: "General Motors pushes for self-driving car tests sans steering wheel"
+    excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
+    publishedDateTime: 2019-12-23T18:36:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/general-motors-self-driving-cars-tests-prototype/
+    ampUrl: https://www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
+        width: 700
+        height: 367
+  - title: "News Of Walmart Aiming To Setup Edge Computing For Self-Driving Cars Generates Both Surprise And Questions"
+    excerpt: "A recent business news story indicates that mighty Walmart is aiming to put in place specialized computers at their stores that would be used to aid self-driving cars utilizing so-called “edge computing” capabilities (for background about edge computers and AI self-driving cars, see this link here). Say what? According to the media reports ..."
+    publishedDateTime: 2019-12-23T15:16:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.346D41C30139C10D26A49339CDF12A03
+        width: 600
+        height: 315
+  - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
+    excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
+    publishedDateTime: 2019-12-26T03:36:00Z
+    sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
+    ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
+    cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
+        width: 700
+        height: 396
+  - title: "Honda wants to reinvent the steering wheel with this self-driving concept"
+    excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
+    publishedDateTime: 2019-12-24T05:14:00Z
+    sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
+    ampUrl: https://amp.jsonline.com/amp/2735603001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2735603001
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
+        width: 700
+        height: 394
+  - title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-28T10:49:00Z
+    sourceUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4
+    ampUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
+    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 42
+    images:
+      - url: https://postmediamontrealgazette2.files.wordpress.com/2019/12/autos-autonomous-.jpg?w=1000&amp;quality=80
+        width: 1000
+        height: 750
+  - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
+    excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
+    publishedDateTime: 2019-12-24T15:32:00Z
+    sourceUrl: https://www.businessinsider.com/career-advice-from-the-brightest-young-minds-in-self-driving-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
+        width: 700
+        height: 350
+  - title: "Self-driving DeLorean learns how to drift"
+    excerpt: "Researchers are teaching a driverless DeLorean to steer with the agility and precision of a human driver to improve how autonomous cars handle hazardous conditions. As the DeLorean rolled to a stop and the cloud of tire smoke cleared, Jon Goh peeked out the sliver of the passenger-side window to see dozens of gathered spectators cheering and ..."
+    publishedDateTime: 2019-12-23T20:44:00Z
+    sourceUrl: https://www.futurity.org/self-driving-cars-delorean-drifting-2240422/
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
+        width: 700
+        height: 400
+  - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-27T21:06:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
         width: 700
         height: 393
-  - title: "To stop a tech apocalypse we need ethics and the arts"
-    excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
-    publishedDateTime: 2019-12-26T10:54:00Z
-    sourceUrl: https://www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/
-    ampUrl: https://www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/amp/
-    cdnAmpUrl: https://www-theafricareport-com.cdn.ampproject.org/c/s/www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/amp/
+  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-28T15:26:00Z
+    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
     type: article
     provider:
-      name: The Africa Report
-      domain: theafricareport.com
-    quality: 61
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.7B8E40978C2F06FD02ADC6EDFD4A9869
+      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
         width: 700
-        height: 399
-  - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
-    excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU) that are used in high-end gaming computers, but the company does more than that. Now NVIDIA’s dominance in the GPU space is translating into dominance in the ..."
-    publishedDateTime: 2019-12-23T12:03:00Z
-    sourceUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/
-    ampUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
-    cdnAmpUrl: https://www-profitconfidential-com.cdn.ampproject.org/c/s/www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
+        height: 393
+  - title: "Chinese self-driving, refrigerated truck travels across US"
+    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
+    publishedDateTime: 2019-12-30T04:39:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
     type: article
     provider:
-      name: Profit Confidential
-      domain: profitconfidential.com
-    quality: 59
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.C1578C51AC2EBF5FC8BA69D93E6D7F12
-        width: 300
-        height: 184
-  - title: "New AI tech to bridge the culture gap in organisations: IT experts"
-    excerpt: "Expect traditional organisational boundaries between IT and business lines to start breaking down, and new roles like ‘citizen developer’ and ‘AI Ethicist’ that blend IT and business backgrounds to grow,” he added. Mankiran Chowhan, Managing Director, Indian Subcontinent, SAP Concur, noted that as we move towards the fourth industrial ..."
-    publishedDateTime: 2019-12-26T18:57:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.4D9F1E942243D13F3348008D1BD9F8EA
-        width: 615
-        height: 384
-  - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
-    excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
-    publishedDateTime: 2019-12-23T20:12:00Z
-    sourceUrl: https://xconomy.com/national/2019/12/23/healthcare-ai-tech-is-here-now-we-must-learn-to-manage-the-data/
-    type: article
-    provider:
-      name: Xconomy
-      domain: xconomy.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.34BD48A656483EBF50ED8B6D22765197
-        width: 700
-        height: 467
-  - title: "3 Top Digital Health Trends: 2020 (Pre) Vision"
-    excerpt: "Meanwhile, FDA-approved innovations from Microsoft and others claim the ability of computer vision for assisting radiologists and pathologists in identifying tumors and abnormalities in the heart. While robotic primary care is a long way off, some view AI as a rival to more niche clinical positions. 2. Privacy and security will be more ..."
-    publishedDateTime: 2019-12-27T15:46:00Z
-    sourceUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/
-    ampUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
-    cdnAmpUrl: https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.FA2C904A6C004F3A0B73840202EB0C3F
-        width: 616
-        height: 372
-  - title: "Tom Still: Tech trends to watch in 2020"
-    excerpt: "Robotics, along with related tools such as artificial intelligence, will help to fill the gap ... animal and human DNA to protect genes from disease. Genetic and cell therapy is advancing quickly, as well. Real breakthroughs will also come is digital health data, such as what exists in millions of patient records, can be anonymously analyzed ..."
-    publishedDateTime: 2019-12-29T10:00:00Z
-    sourceUrl: https://madison.com/wsj/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.html
-    ampUrl: https://madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
-    cdnAmpUrl: https://madison-com.cdn.ampproject.org/c/s/madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.0652F2389F2AC41B5EAF50EE628DAB0E
-        width: 356
-        height: 200
-  - title: "AI specialist will be the hottest tech job of 2020. These are the skills you'll need — and the roles that are hiring right now."
-    excerpt: "Companies like Morgan Stanley and Microsoft are taking novel approaches to train their current workforce on AI amid a skills shortage."
-    publishedDateTime: 2019-12-29T15:40:00Z
-    sourceUrl: https://www.businessinsider.com/the-skills-needed-to-land-hottest-tech-job-of-2020
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8A4BE012CF7CD9D233F8FD8C96F74305
+      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
         width: 700
         height: 350
-  - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
-    excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
-    publishedDateTime: 2019-12-27T12:41:00Z
-    sourceUrl: https://www.businessinsider.com/audio-tech-marketing-experts-share-2020-predictions-programmatic-ai-2019-12
+  - title: "Uber Buys Parcel Near Pittsburgh For Self-Driving Track"
+    excerpt: "Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud has confirmed the purchase to the Pittsburgh Tribune-Review but says she can’t yet share details of the plan. The San Francisco ride-hailing giant bought the ..."
+    publishedDateTime: 2019-12-30T15:48:00Z
+    sourceUrl: https://www.wesa.fm/post/uber-buys-parcel-near-pittsburgh-self-driving-track
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: WESA
+      domain: wesa.fm
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
+      - url: https://www.bing.com/th?id=ON.25F3FBA30E1C8827DF8EF206AA9612FD
         width: 700
-        height: 350
-  - title: "8 healthcare companies among the top 25 highest-funded AI startups of 2019"
-    excerpt: "Artificial intelligence-focused startups in the U.S. raised a total of $10.7 billion in 2019, spanning seed, early- and late-stage funding rounds for just under 500 startups, Forbes reports. Of the 25 AI startups that raised the most money this year, several either cater primarily to the healthcare industry or have introduced healthcare ..."
-    publishedDateTime: 2019-12-23T19:59:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/8-healthcare-companies-among-the-top-25-highest-funded-ai-startups-of-2019.html
+        height: 466
+  - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
+    excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
+    publishedDateTime: 2019-12-28T00:56:00Z
+    sourceUrl: https://www.infosurhoy.com/top-stories/engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities/
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 32
-  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
-    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
-    publishedDateTime: 2019-12-23T16:26:56Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 19
-  - title: "What will Fintech scene look like in 2020 according to the industry experts"
-    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
-    publishedDateTime: 2019-12-23T13:15:00Z
-    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 0
 
 secured: "IaIeZRrBnX5+gvURIwXR8N+O6qlUD9iKJHQQatn8wTSTgFJcrGRqQ5OETfSRfQXwHSeDn28Ze9kHhAIaB0Mldfll8vxj8xp2PHa20BURWG/1XhJyzWG+Ygcc1f5Enekbs8/NEh7jbLBt5olbjQqragQ96+mEXBWvLa5x3S/toCHf23Vv2jKiL9bj42VGybp+8ldYjVPTw8pLdPj+CDAuDzkA3foL+l+NH5nMzJBr9h9RX/g8KRoa0jmyaro0bO1zHyNu0hvHi0/nR0PRV7TF0A==;iiNUa5Aac5uh+Ra6Do6x7w=="
 ---

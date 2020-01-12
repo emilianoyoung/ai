@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-te
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
 type: article
 quality: 85
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -72,19 +72,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A57F267D99AE5923A619E93428C3B82C
         width: 660
         height: 440
-  - title: "How AI came to rule our lives over the last decade"
-    excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with mental health issues — already trying out AI systems with people."
-    publishedDateTime: 2019-12-23T11:35:00Z
-    sourceUrl: https://www.channel3000.com/news/technology/how-ai-came-to-rule-our-lives-over-the-last-decade/1153741055
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
-        width: 700
-        height: 393
   - title: "Self-driving cars? This is the automotive fail of the decade"
     excerpt: "Our trust in digital technology companies has become so complete, that when a host of these promised self-driving cars, we believed them ... Or if a child might break free from a parent’s hand on the pavement. Artificial intelligence can’t intuit that. Autonomous driving systems can only operate in a perfect system, and how many times ..."
     publishedDateTime: 2019-12-30T05:32:00Z

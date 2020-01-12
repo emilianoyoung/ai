@@ -28,32 +28,69 @@ images:
     title: "Self-driving Cars and Trucks Market Overview, Industry Trends and Growing Opportunities Till 2026"
 
 related:
-  - title: "AI For Drug Discovery Market 2019-2027 / Size, Growth, Trends And Future Opportunities"
-    excerpt: "Dec 26, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the AI for drug discovery ..."
-    publishedDateTime: 2019-12-26T12:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2019-2027-size-growth-trends-and-future-opportunities-2019-12-26
+  - title: "Deep Learning Market In-deep Analysis And Experts Review Report 2019-2025"
+    excerpt: "Dec 27, 2019 (Market Insight Reports via COMTEX) -- The report presents an in-depth assessment of the Deep Learning including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models, operator case studies, opportunities, future roadmap, value chain, ecosystem player profiles and ..."
+    publishedDateTime: 2019-12-27T15:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-in-deep-analysis-and-experts-review-report-2019-2025-2019-12-27
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
-    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
-    publishedDateTime: 2019-12-24T09:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
+  - title: "Become a Machine Learning Expert from India's #1 Machine Learning Lab and AI Research Center"
+    excerpt: "Deep tech has been the buzzword in the Indian startup ecosystem for quite some time and several homegrown companies are leveraging Artificial Intelligence (AI), Machine Learning(ML), IoT, big data, cloud, mobility, and data analytics and bringing to the fore innovative solutions. In fact, a recent report by Infosys, which surveyed 1,000 senior ..."
+    publishedDateTime: 2019-12-30T08:47:00Z
+    sourceUrl: https://yourstory.com/2019/12/machine-learning-lab-ai-research-center
+    ampUrl: https://yourstory.com/2019/12/machine-learning-lab-ai-research-center/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/machine-learning-lab-ai-research-center/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.FD2E12FE1AAD7E1B1763AC0835566194
+        width: 700
+        height: 350
+  - title: "AI in Education Market 2024 Outlook Analysis, Major Company Profile Analysis | Google, IBM, Pearson, Microsoft, AWS"
+    excerpt: "Dec 26, 2019 (Reporthive Research via COMTEX) -- The global AI in Education market is estimated to gain immense momentum in the coming years owing to new technological developments. AI in Education market Analysis report is an up-to-date granular analysis of the present industry conditions, market demands, reveals facts on the AI in Education ..."
+    publishedDateTime: 2019-12-26T12:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-education-market-2024-outlook-analysis-major-company-profile-analysis-google-ibm-pearson-microsoft-aws-2019-12-26
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Voice Recognition Market Booming by Size, Revenue and Trend in 2020 Scrutinized in New Research"
+    excerpt: "Dec 25, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Voice Recognition Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Voice Recognition marketers and clients to understand the market globally."
+    publishedDateTime: 2019-12-25T11:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2019-12-25
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    publishedDateTime: 2019-12-24T11:27:00Z
+    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "oq15JDZNCBrsyD1WqakH6aLXoomHzEBAnKpZ4/yEPZ2TPOVtkhMr/1ZGBuYa4faOPX6e9KNQ/gk/4qjKf7i6Ee39LnxKILIjSkHpLZwKNwR5hVt8Ck7fOIGyUbgvwO9enfdYXpyrYHtG1WzlfvG1KEqXO7+DpgosBiSr2XnRm6GUdGQx4DHkY6ldz7Z2yWaMoKaV9z47oiezSvvTULxNInPcnCkgx/YF2dYbjMymXbQBzU4e7XVCcI0UODJlGH6iNyliacPJLZ7B+hRBfqfM0A==;o9Rf4tXRRsRlOqUy1DFGrw=="
 ---
