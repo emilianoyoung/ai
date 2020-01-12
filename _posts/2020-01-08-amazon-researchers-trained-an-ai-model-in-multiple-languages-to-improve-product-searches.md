@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-mode
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-model-in-multiple-languages-to-improve-product-searches/amp/
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 700
     height: 350
     title: "Amazon researchers trained an AI model in multiple languages to improve product searches"
-
-related:
-  - title: "Researchers: Are we on the cusp of an ‘AI winter’?"
-    excerpt: "The last decade was a big one for artificial intelligence but researchers in the field believe that the industry is about to enter a new phase. Hype surrounding AI has peaked and troughed over the years as the abilities of the technology get overestimated and then re-evaluated. The peaks are known as AI summers, and the troughs AI winters."
-    publishedDateTime: 2020-01-12T00:21:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51064369
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51064369
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51064369
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.CD6433F22A5F2786E8096C64620ED631
-        width: 700
-        height: 393
 
 secured: "OfngzVGc3sC19Lv8YX4HcAp9NAXL83sSLZUebT/Gd3N/5hTHJwyeJb80iwgMXfcFjAlCHmZZNGvt0gUjwqNSg9vl96hJNdu6Z5TaYBa0ogBivaJJtEXlGep/abvNoo87j5SS+Tw94YLxkoNxc9rBHRZW/COo0f3i/ZMSbjizGlM/+4QOgAZJYvqZyDOtuIkcTg6Bh151J+kvPNDTUlYLeJNhY9h9TFikkyGYqCWnNCftLQUrtKWRk0gFegnjZv2DI2x8MdGADvmnA1JuS4jUvQ==;YIkDEIVIQVzXlZ7lUrlxBw=="
 ---

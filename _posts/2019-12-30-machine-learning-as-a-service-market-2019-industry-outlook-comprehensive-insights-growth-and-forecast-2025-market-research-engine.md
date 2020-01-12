@@ -96,19 +96,6 @@ related:
       - url: https://www.bing.com/th?id=ON.969ABF7B6FC6366519D18FF1657274B3
         width: 600
         height: 338
-  - title: "Deep Learning Chipsets Market Segmentation, Application, Technology and Analysis Research Report 2025"
-    excerpt: "Global Deep Learning Chipsets Market Professional Survey Report 2019 studies the latest industry trends, market development aspects, market gains, and industry scenarios during the forecast period. The report provides the details related to fundamental overview, development status, latest advancements, market dominance, and market dynamics."
-    publishedDateTime: 2019-12-23T09:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-segmentation-application-technology-and-analysis-research-report-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Vivo eyes AI-driven 5G devices for India market in 2020"
     excerpt: "enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with capturing 17 per cent market share - its highest-ever -- in the third quarter (July-September period) this year."
     publishedDateTime: 2019-12-25T14:28:57Z

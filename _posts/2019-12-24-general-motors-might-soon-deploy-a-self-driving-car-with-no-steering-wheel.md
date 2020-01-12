@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
         width: 700
         height: 366
-  - title: "Self driving cars are the only way forward."
-    excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
-    publishedDateTime: 2019-12-23T09:26:00Z
-    sourceUrl: https://www.fudzilla.com/news/automotive/50017-self-driving-cars-are-the-only-way-forward
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
-        width: 620
-        height: 465
 
 secured: "9aEjlZdMIc7uU+JNAozto+gZV/oJiVShQDnHdCguqK9iaNTS3OTadnJIFPLwgY5zzly3eJdhk+4w6BlahZzF3SgeuFOWqpb1Z7Fdwb0UdYT52e9TLlPVpxsudm+gynDrytVPH4UWW0Y7QPHVOxeQgheonX7EnwgvwOPnuahm6msqqtn09JoOaYr4rSyXP3hZl4N8fyqsie4LHdGzKGBqXICgx5DR1MHWTfVft1N4Qv0+1ZbMMeaHCv4cPA6+WGrejphdH2Gc8PI+MniQG9QqAA==;sMQPeRFvT152u6/OoBDkaA=="
 ---

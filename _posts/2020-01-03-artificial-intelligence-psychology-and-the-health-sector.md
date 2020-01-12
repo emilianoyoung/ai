@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care 18. AI can also support other aspects of mental health. Several trials in the ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -17,7 +17,7 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -25,21 +25,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-related:
-  - title: "Crouse Health brings artificial intelligence to stroke care"
-    excerpt: "Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm focuses on using applied artificial-intelligence software in health care to “reduce time to treatment and improve patient outcomes,” per Crouse Health’s Thursday news release."
-    publishedDateTime: 2020-01-09T21:56:00Z
-    sourceUrl: https://www.cnybj.com/crouse-health-brings-artificial-intelligence-to-stroke-care/
-    type: article
-    provider:
-      name: Business Journal News Network
-      domain: cnybj.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.19C1E68506836B08D95A29A8304B883A
-        width: 400
-        height: 300
-
-secured: "Ru2f3tejudwfVTwue0iWjR6DN/0TZhb2H2cPD/ClzwiXHm39Chesh5K3mblMFREtn68kh7m4GRGlGYZYPXSiLYKtMG1b6cLqNxxj2qE9eEhKnMXIcgw9NtNa346dCPhkld1qU8HI4+1FyRTstIgrfLD2GTSX1rD0uaMzHom9vbPmti7Bec8GffR8pXDdIaGsKxvHofVyZbvF08wYWbKbXS9mOm0VA2zPg+MND25vlZFEIfKU6bIEV0Trsgrhk8fVXFxejrWYr5WXCybuziInsw==;4ecym+kjySM6PCuslX93Ew=="
+secured: "mtwEQDpMdp8ukNoUkJmjh2QObbTkjpo914w+LAJm11FBaepekFPqRxsqBvFHKjfdJknAkxymtbW8elTQFf/301xOpPAaF6ihJNDKunERdPm4N1eqkkJZTnUQuTnOWcmDAEkhUPsgcWfy01K8QEwl++hwRA+Y5KHfbTdCYNJMJEm/tpfxXWx9JLYuHGmEJZi2x22usW1tJAyhYxqBedIP1qS2wDQmbZ4TxQK1+Ash40wCixJlSOOiX3DTyX/duS1PeDlAtmekTtgq1mDV+n2gQw==;zXfbh/Yz0yBr+KUPcVw4Qw=="
 ---
 
