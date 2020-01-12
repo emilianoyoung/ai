@@ -1873,8 +1873,12 @@ Start post listing style
 }
 
 .post-listing-sec .single-post .card {
-  background: none;
-  border: 0;
+  box-shadow: 0 8px 42px -8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #f0f0f0;
+  overflow: hidden;
 }
 
 .post-listing-sec .single-post .card h4 {
@@ -1884,16 +1888,12 @@ Start post listing style
   margin-top: 0px;
 }
 
-.post-listing-sec .single-post .card-body {
-  padding-left: 0;
-}
-
 .post-listing-sec .single-post .card h4 a {
   color: #f0083f;
 }
 
 .post-listing-sec .single-post .card p {
-  color: #ffffff;
+  color: var(--text-color-normal);
   font-weight: 400;
   font-size: 14px;
   padding-top: 14px;
