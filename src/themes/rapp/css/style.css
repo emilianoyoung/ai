@@ -1873,6 +1873,7 @@ Start post listing style
 }
 
 .post-listing-sec .single-post .card {
+  margin-top: 30px;
   box-shadow: 0 8px 42px -8px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
   border-width: 1px;
@@ -1883,13 +1884,8 @@ Start post listing style
 
 .post-listing-sec .single-post .card h4 {
   font-weight: 600;
-  color: #f0083f;
   font-size: 20px;
   margin-top: 0px;
-}
-
-.post-listing-sec .single-post .card h4 a {
-  color: #f0083f;
 }
 
 .post-listing-sec .single-post .card p {
