@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
-excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
-publishedDateTime: 2020-01-06T22:23:00Z
-sourceUrl: https://finance.yahoo.com/news/aptiv-self-driving-vehicles-now-220900015.html
+title: "Video shows a grandma freak out while sitting in a self-driving Model S"
+excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
+publishedDateTime: 2020-01-12T21:04:00Z
+sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
+ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
 type: article
-quality: 37
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: BGR
+  domain: bgr.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
-    width: 400
-    height: 286
-    title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
+  - url: https://www.bing.com/th?id=ON.9247CCF47D4673858EB9220C65D5720A
+    width: 700
+    height: 396
+    title: "Video shows a grandma freak out while sitting in a self-driving Model S"
 
 related:
   - title: "On Whether You Could Successfully Hide And Escape Via An AI Self-Driving Car"
@@ -247,21 +249,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9155C460A01B52A5A7DFB9979CE97A77
         width: 600
         height: 338
-  - title: "Video shows a grandma freak out while sitting in a self-driving Model S"
-    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
-    publishedDateTime: 2020-01-12T21:04:00Z
-    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
-    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+  - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
+    excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
+    publishedDateTime: 2020-01-06T22:23:00Z
+    sourceUrl: https://finance.yahoo.com/news/aptiv-self-driving-vehicles-now-220900015.html
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 44
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.9247CCF47D4673858EB9220C65D5720A
-        width: 700
-        height: 396
+      - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
+        width: 400
+        height: 286
   - title: "WATCH THIS: Amazing CES footage shows a self-driving car navigating the narrow streets of Jerusalem"
     excerpt: "The car was developed by Mobileye, a recent Intel acquisition that develops a wide range of mobility devices and software for motor vehicles. Scroll down for video Unlike many other self-driving cars, the Mobileye vehicle doesn’t use any LIDAR or RADAR sensors and instead creates a detailed three-dimensional map of its surroundings using ..."
     publishedDateTime: 2020-01-08T19:21:00Z
@@ -408,6 +408,6 @@ related:
         width: 510
         height: 314
 
-secured: "Je/pnP0ugsp7KEsn7HI5I393dAKVcynti4jTIFxEuIxp+2FQUO0Z84uR48EYqoXTTyHvVLvEgv06cKx26SALk+yQvvTl7Wyo3OZSX1Yv/SwWpgVw3fD8cCok6QgUw6nTSV0eL++iLJrV4YNoCFUshHC76BNk5oAVrSm3ghLXrSClk1BkqCZHka4YdEDbrZCt5LU6Yhh4mByIl6q8STFlhYCq20pGw1UuV/myqahdDbPp1O80WeN5x45auo4GoDZSl7j9U+nQS0YcT7VRE3LinQ==;f9Ytp31vug0kQ6yndlzFEQ=="
+secured: "bMsiqj8RUMwT8LtZMdau7xw5AQD2UWs94SNLsW8k41DomDins7b+opPby/9R3GucuVRPISmxAvyegLF8IPpAqrUQ1VpHdtLc32ZbEa01XVC0oUP1Dw5Y9RxeT5TDFdQYTkMoziSQZkDHDjELFBM91CgECc6GKIuma/95rqRy7iLtRlLyBqjudCE6MtY/5RNqf5aTDrUs2ZLupm2oU42Zf/ayACq2lBnhCSGWOOIVM5/m+/FCWwJPZePcyX9OGdoW/SY/bHSKjyKNDXam7Mhehg==;mCs+P9BpxLYEAAaV86Z+lw=="
 ---
 

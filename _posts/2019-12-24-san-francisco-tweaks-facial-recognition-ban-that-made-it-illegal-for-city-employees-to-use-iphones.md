@@ -550,19 +550,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2A327A7CD94E84CAAE98946A889EE373
         width: 700
         height: 649
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
-    publishedDateTime: 2019-12-23T20:15:00Z
-    sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
-        width: 700
-        height: 464
   - title: "Researchers: Printed masks can fool facial recognition systems"
     excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
     publishedDateTime: 2019-12-24T10:00:00Z

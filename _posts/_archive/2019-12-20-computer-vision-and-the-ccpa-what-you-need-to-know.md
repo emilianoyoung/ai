@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
-  - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
-    excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
-    publishedDateTime: 2019-12-23T20:12:00Z
-    sourceUrl: https://xconomy.com/national/2019/12/23/healthcare-ai-tech-is-here-now-we-must-learn-to-manage-the-data/
-    type: article
-    provider:
-      name: Xconomy
-      domain: xconomy.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.34BD48A656483EBF50ED8B6D22765197
-        width: 700
-        height: 467
   - title: "What is the Procedure to Start a FinTech Company?"
     excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
     publishedDateTime: 2019-12-29T02:05:00Z
@@ -83,6 +70,6 @@ related:
       domain: psychologytoday.com
     quality: 26
 
-secured: "JW4vCOv9Pyz3f/DpYT8BWOqLG0bPj5uBmV9B0WJqHB7HJQTS+S5wl/0UF3VEluxrVHlVrIh2Z111EQoohG9H1BRlQ+CSI00o5I8kjOZVUiIGi6jrmboJ+y71Pt0rL5GYN2FX57RCnHagAESCGVPFwHfZmZiSHh0rrUSqp1Zd1pbFTM+5qPijV73MSP8YSH4L47gOS1E0Yh+mlZxJHKy1sXp5quNA9bbngnlmPZWXA5N3lwUDY2GgEESa/0SFwUw4TX9XZUwoGNUu/e2yNj1oXg==;FPnzNJ/2xSv4ta+fi4fNXQ=="
+secured: "BYYU29xWXDCy1JfCjLRngZNvVG60Ev1F/003nYDj5M/Jp6p7vP9OVSOBYj3B8T7cpDgOIZrgdoOoY/ayMmARBRJ4KaX3bSQ9XjwrUpcK6xNt2JTr+9qOkYVzLcAbBeEUrq6d/rXjuyTWSoOKJuFBPWfjLXBWRZWZ7HtKLPNiOnk+IgIOql6D4BSd5yHJ4dCjgcCcPfi/fCXaT0+f954gkWa4fhxQrwyfVVHyJjO4tKz6y6MJIVM+8Vy6trSas5KK250u4sTL5yIiTbbUIDVmsA==;5TkKjtyQrDOSENT2YJsH8A=="
 ---
 

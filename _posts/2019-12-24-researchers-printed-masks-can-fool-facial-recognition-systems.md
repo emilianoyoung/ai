@@ -559,19 +559,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2A327A7CD94E84CAAE98946A889EE373
         width: 700
         height: 649
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
-    publishedDateTime: 2019-12-23T20:15:00Z
-    sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
-        width: 700
-        height: 464
   - title: "Facial recognition is the future, privacy is a concern"
     excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
     publishedDateTime: 2019-12-25T18:52:00Z

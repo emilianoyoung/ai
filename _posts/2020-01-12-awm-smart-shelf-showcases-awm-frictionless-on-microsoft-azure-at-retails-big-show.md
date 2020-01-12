@@ -1,22 +1,24 @@
 ---
 category: news
-title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail’s Big Show"
-excerpt: "From a technology standpoint, the PaaS and IaaS pieces of Microsoft Azure are heavily utilized to provide a reliable and scalable platform, and on top of this sits a full suite of custom AI and application software. This software supports AWM Frictionless™ as well as powers other integrated and standalone AWM offerings that provide an end-to ..."
+title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail's Big Show"
+excerpt: "Adroit Worldwide Media, Inc. (\"AWM Smart Shelf®\" or \"AWM\"), a vision technology company, partners with Microsoft to enable intelligent retail with their autonomous shopping solution, AWM Frictionless™."
 publishedDateTime: 2020-01-12T15:26:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200112005047/en/AWM-Smart-Shelf®-Showcases-AWM-Frictionless™-Microsoft
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15109570/awm-smart-shelf-showcases-awm-frictionless-on-microsoft-azure-at-retails-big-show
+ampUrl: https://amp.benzinga.com/amp/content/15109570
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15109570
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 62
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "BP6onvt0fK8po3KxvemhNMOEP2Iz+hHnhEcVgIXD3xaCE++9ZW0Yp8fDHXYTSICvzknIIC244Aq4jZ1UMyuC/fCkmS6PbKYvHzH0rf9WS9LP+poRV2+7NRNUYDhb2Lk+Pl1ab4g5RhBeidFA931qFkiK6uEY+bbjKEfzxGJtxpj9lLV/0HpPzqDGiOX/dgom+Zppm6buHF5mHcjSIR2yr7omp2pBEg+ZBOJYHqoAt7IQZj8XzvgJvSPvAxLyhwdB/3+O7hQ3hO1gvQJHJnBJOw==;p+O4pXPtIUwFOAOBC4zuMg=="
+secured: "0JAa2KoyILdMr1ry9bZmpxNeOcLdwWGWV8+UcyFeGlprr7W6peDZC2zxphLKnsJd9vXnpHBbeseKa0ZUZVaTjQG9VFzY7g6n3v6iCjm/34X4Yhub/7Lfj9SSMY2zzP5AxW8D7111ojExXKcnu4g6VohZKOTbH7dBeEfm5cwx3u8txfeusK85tTI+E7mqyQyA9Z7c0qANe0INXIYBnXqLmlUSD3K2/219OUHW2r8zNmwhNDFdqodakfuSff8DCB/YWNKHC7ikILj6HDqDWfwk8w==;8EsxqUTo8ykDnGjfn1JRKQ=="
 ---
 

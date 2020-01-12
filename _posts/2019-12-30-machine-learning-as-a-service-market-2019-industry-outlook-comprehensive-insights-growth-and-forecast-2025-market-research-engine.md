@@ -42,19 +42,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Mobile Robotics Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Mobile robots are typically controlled by software and use sensors and other gear to spot their surroundings. Mobile robots combine the progress in artificial intelligence with physical robotics that permits them to navigate their surroundings. There are 2 types of mobile robotics such as autonomous and non-autonomous mobile robots. Autonomous ..."
-    publishedDateTime: 2019-12-23T20:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
     excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
     publishedDateTime: 2019-12-27T06:08:00Z
@@ -372,6 +359,15 @@ related:
     provider:
       name: Australian Techworld
       domain: techworld.com.au
+    quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-24T14:37:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
     quality: 0
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."

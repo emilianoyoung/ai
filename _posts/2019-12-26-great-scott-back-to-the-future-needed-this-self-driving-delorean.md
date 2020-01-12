@@ -84,19 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
         width: 700
         height: 350
-  - title: "Self-driving DeLorean learns how to drift"
-    excerpt: "Researchers are teaching a driverless DeLorean to steer with the agility and precision of a human driver to improve how autonomous cars handle hazardous conditions. As the DeLorean rolled to a stop and the cloud of tire smoke cleared, Jon Goh peeked out the sliver of the passenger-side window to see dozens of gathered spectators cheering and ..."
-    publishedDateTime: 2019-12-23T20:44:00Z
-    sourceUrl: https://www.futurity.org/self-driving-cars-delorean-drifting-2240422/
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
-        width: 700
-        height: 400
   - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
     excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
     publishedDateTime: 2019-12-27T21:06:00Z
