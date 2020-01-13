@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-ne
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Forbes
@@ -30,48 +30,20 @@ images:
     title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
 
 related:
-  - title: "Amazon Makes Machine Learning More Accessible To Developers"
-    excerpt: "Amazon has recently announced that they have reached a new milestone in machine learning improvement. The company has proudly announced a brand new approach that will bring machine learning technology closer to developers across the globe. Besides their already impressive collection of tools for the development of machine learning models ..."
-    publishedDateTime: 2019-12-24T09:02:00Z
-    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/
-    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+  - title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
+    excerpt: "At the recent re:Invent conference, Amazon Web Services (AWS) announced Amazon SageMaker Studio, an integrated development environment (IDE) for machine learning (ML) that brings code editing, training job tracking and tuning, and debugging all into a ..."
+    publishedDateTime: 2019-12-17T14:01:00Z
+    sourceUrl: https://www.infoq.com/news/2019/12/aws-sagemaker-studio-ide/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
-        width: 600
-        height: 315
-  - title: "AWS Takes Machine Learning Global, Makes It More Accessible & Easy"
-    excerpt: "“This announcement is a ball about making it easier for developers to add machine learning predictions to their products and their processes by integrating those predictions directly with their databases,” said Matt Wood, VP of artificial intelligence at AWS. It won’t be long until all applications have machine learning and artificial ..."
-    publishedDateTime: 2019-12-26T09:34:00Z
-    sourceUrl: https://analyticsindiamag.com/aws-takes-machine-learning-global-makes-it-more-accessible-easy/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
+      name: InfoQ
+      domain: infoq.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.BBFD8C2D66BEFFA5DFC7ED3FE0E23DDD
-        width: 700
-        height: 393
-  - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
-    excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
-    publishedDateTime: 2019-12-24T16:25:00Z
-    sourceUrl: https://towardsdatascience.com/this-area-of-game-theory-can-help-reinforcement-learning-to-scale-to-infinite-agents-7c775a528726
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.C2B89F543D6FD361DF8446E3E4B8654D
-        width: 700
-        height: 288
+      - url: https://res.infoq.com/news/2019/12/aws-sagemaker-studio-ide/en/headerimage/aws-sagemaker-studio-ide-1576565037621.jpg
+        width: 1200
+        height: 630
 
-secured: "5Jj+gvYmeZrVQxzYWM99I2dkANRl4ZMsplhVdPrlNuWfnV8sOrRggR7R9s5uXRNufK7c75a8gNYKp5IxmWBOAJbqwGa3D0yoIGlgdA2zURu2e5Kx6nhuuYm0ama7SzAgYOa/DdYiF6jIvzbV9QBp73WC0jgryFIkeNulCD2ywb1Nnomg7/rVKHt2t6lx9jYnW49GzXOLOWCMHa0maSRqD2cfgwTg99LG3igBMgl579LYR2om4bPYnpmrWRGxJbHsn29k7pITlGzpao9TYRfyMQ==;KI+7LE0Ofpce4HUdUa+DUw=="
+secured: "IccIPFhvDyivPIJFVsIgHeHuTLkjkpwAK+Ubj6bzfQG83uHD3TFoQ4t8E9DlIEyn69jJcF2AtH3poHiewmfbJM7lcO/N0On/UPAjEmqyd4DNrpAY7WedOGrVtCP8aE7/8/MrG7YBxDBLx3x2OGk8A3VnYSGuviMNBwoknqEmzZXitTR+UbQrXIKzIw3zasS/wus+0LW03x33yMijpH5Iffnd9K6Kl7rgRVBHx1YgzizsvLd8viIWDqRUmg8XYjj5w10JGAaaQ5m55Rq1oQo+Bg==;0Gs+XI4tgYoO81GlP8lpcw=="
 ---
 

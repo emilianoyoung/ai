@@ -17,21 +17,21 @@ topics:
   - AI
 
 related:
-  - title: "How Baidu uses Artificial Intelligence to trace missing people in China"
-    excerpt: "Artificial Intelligence (AI) is not just another technology but also could be a powerful disruptive tool for public welfare as has been demonstrated by Chinese tech major Baidu. The company has used AI in China to find nearly 9,700 missing people and also help visually-impaired people. Its successes can be replicated in India. In a talk at IIT ..."
-    publishedDateTime: 2020-01-08T16:38:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/how-baidu-uses-artificial-intelligence-to-trace-missing-people-in-china/article30516654.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/how-baidu-uses-artificial-intelligence-to-trace-missing-people-in-china/article30516654.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/how-baidu-uses-artificial-intelligence-to-trace-missing-people-in-china/article30516654.ece/amp/
+  - title: "Artificial Intelligence at the movies"
+    excerpt: "With this ranking of AI in cinema, you can learn a little more about movie AI with typical adult intelligence. Metropolis was released in 1927 ... The car became a permanent fixture, sporting self-driving capabilities and an adult personality, complete with a fragile ego. As viewers learn when it demonstrates its high-stakes knife trick ..."
+    publishedDateTime: 2020-01-02T12:47:00Z
+    sourceUrl: https://cine-vue.com/2020/01/artificial-intelligence-at-the-movies.html
+    ampUrl: https://cine-vue.com/2020/01/artificial-intelligence-at-the-movies.html/amp
+    cdnAmpUrl: https://cine--vue-com.cdn.ampproject.org/c/s/cine-vue.com/2020/01/artificial-intelligence-at-the-movies.html/amp
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 72
+      name: Cine Vue
+      domain: cine-vue.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.5F21F4FE13B4C878094665F41397015C
-        width: 615
-        height: 384
+      - url: https://www.bing.com/th?id=ON.09AD90BEC7F9091D8FE07CE0BBA24781
+        width: 700
+        height: 393
 
 secured: "KH3SAGlmu87at/OlL8Yc9elnpAJupsTrPvyJjTQlM75Rl2S13An46NfQ2czgnOPyW4P8CrjHKJ7BqoTJ302VDSUcZiOX6lecJVRQ62/h3gIHparMM2NyrvC1keXyANqiQm8pB1nyJzR+1XrGmcFdhdSeZhJMggZVLZGximEnxM5omgp54u3prkr8RuQNWi6HqQ9kEej3SeWne9bpqyz3Pbz/DtHp4rqfWXJEZjDPUn2TiABcTmo0hKFwDw0/eGq5Dxpx/YPb/3jwpkeTJGg75Q==;684KNqch6RxQDxrX+0lcNw=="
 ---

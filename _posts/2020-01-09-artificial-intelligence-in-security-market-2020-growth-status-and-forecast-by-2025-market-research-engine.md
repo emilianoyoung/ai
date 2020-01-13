@@ -250,6 +250,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
+    excerpt: "The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 43.8% from 2019 to 2025."
+    publishedDateTime: 2020-01-13T09:23:00Z
+    sourceUrl: https://finance.yahoo.com/news/machine-learning-market-size-worth-090500968.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/machine-learning-market-size-worth-090500968.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/machine-learning-market-size-worth-090500968.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 26
   - title: "Medical Bionic Implants And Exoskeletons Market to Raise at a CAGR of 7.5% over the Forecast Period 2017 – 2027"
     excerpt: "According to National Center for Health Statistics, 185,000 new amputations are consistently being performed in the U.S every year. Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a ..."
     publishedDateTime: 2020-01-07T08:37:00Z

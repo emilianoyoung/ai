@@ -1,21 +1,27 @@
 ---
 category: news
-title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail’s Big Show"
-excerpt: "To take ease-of-use to the next level, using Azure Cognitive Services, shoppers will be able to be identified with ... The underlying technologies are built utilizing artificial intelligence, computer vision, machine learning, and application engineering to reinvent the retail space as it is known today. The ecosystem of solutions improves ..."
-publishedDateTime: 2020-01-12T15:26:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200112005047/en/AWM-Smart-Shelf®-Showcases-AWM-Frictionless™-Microsoft
+title: "AWM Smart Shelf Showcases AWM Frictionless on Microsoft Azure at Retails Big Show"
+excerpt: "From a technology standpoint, the PaaS and IaaS pieces of Microsoft Azure are heavily utilized to provide a reliable and scalable platform, and on top of this sits a full suite of custom AI and application software. This software supports AWM Frictionless™ as well as powers other integrated and standalone AWM offerings that provide an end-to ..."
+publishedDateTime: 2020-01-12T16:34:00Z
+sourceUrl: https://www.financialbuzz.com/awm-smart-shelf-showcases-awm-frictionless-on-microsoft-azure-at-retails-big-show/
 type: article
-quality: 42
-heat: -1
-published: false
+quality: 64
+heat: 74
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.2A17B5FB71F6E63FF99F9540B91023B6
+    width: 270
+    height: 157
+    title: "AWM Smart Shelf Showcases AWM Frictionless on Microsoft Azure at Retails Big Show"
 
 related:
   - title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail’s Big Show"
@@ -32,6 +38,6 @@ related:
         width: 500
         height: 500
 
-secured: "7LDXwfcVdqfY1hEvLv2r9t+3mi+fvsKh3t3qSB68EMKUIuK2n9LzTz6+VjiJwtM7HqDpZSrI44jjNaYEuTJ8i2roakLMHkW2PYSuPjFR2YIlJfgGNB/YdQwPv5i3DASblmeiMxmDe42lGorWR+8LhqC03Ilj/NapaXOJ9v5ypcfxrIsFJg3v+ms2YgOKHS6ihTWbAf4c9ZZBL0JDLBpBaId/Smf/cv5jQ9Td5ZUGkW8UBL7KQZ4MUvEQhL3AfLouJI9dpEAjuZW5K07Y2MngxA==;iS3T5SAq9IxZSNXbQ1BxNg=="
+secured: "aIe6byat33Ua8HajgWAufgHdzUBhiWEsJqx+w+ytpQjUj59eKkfUtHpVp6gVpwwUFgDOyeYeQIvqQrnylTrOPDOi5hlqDdidWyeZnU+cLGw/1Bi+3+6NWR/WLnzUkBhNYlgPGPcbfNe+ncveKXI5aymNtTTl59jMD4RLqxUlfa/wGcUO1BGTCXXTrD9zk9ip4ljVWy5bhjQoCXH0LeZbbdtmZWEcd6S8HFnU1voKpfr60AxDIQ7hWJj0Zr6GwXMQ5nUoENt0IXfiVCCVT5lysQ==;X8fIadCRsTP4yMHCwOMaiA=="
 ---
 

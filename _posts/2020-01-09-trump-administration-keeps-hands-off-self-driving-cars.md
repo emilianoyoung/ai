@@ -18,21 +18,47 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Feds triple-down on voluntary approach to self-driving car regulations"
-    excerpt: "Feds triple-down on voluntary approach to self-driving car regulations The latest guidelines still do not require automakers to release results of autonomous-vehicle testing Check out this story on detroitnews.com: https://www.detroitnews.com/story ..."
-    publishedDateTime: 2020-01-08T22:31:00Z
-    sourceUrl: https://www.detroitnews.com/story/business/autos/2020/01/08/feds-triple-down-voluntary-approach-self-driving-car-regulations/2847556001/
-    ampUrl: https://amp.detroitnews.com/amp/2847556001
-    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/2847556001
+  - title: "Trump administration’s CES message: We’re not interested in heavy AI regulation"
+    excerpt: "He touted a series of AI principles that the White House released earlier this week, that stipulate the government should ensure AI is safe and unbiased but engage with industry in any rules it develops to ensure that. “If we’re too heavy-handed with artificial intelligence, we end up stifling entire industries, and we want to make sure to ..."
+    publishedDateTime: 2020-01-09T13:44:00Z
+    sourceUrl: https://www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/
+    ampUrl: https://www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/trump-administrations-ces-message-were-not-interested-in-heavy-ai-regulation/?amp=1
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 53
     images:
-      - url: https://www.bing.com/th?id=ON.62D60AAB624743F88B234CF312C82627
+      - url: https://www.bing.com/th?id=ON.7AECCBDD301CD0F1A19D61C9B52FFFE7
         width: 700
-        height: 393
+        height: 449
+  - title: "Trump Administration Seeks to Limit ‘Overreach’ of Regulation of Artificial Intelligence"
+    excerpt: "The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities’ “overreach,” and said it wants European officials to likewise avoid aggressive approaches. In a fact sheet, the White House said federal agencies should “conduct risk assessment and ..."
+    publishedDateTime: 2020-01-08T06:09:00Z
+    sourceUrl: https://www.insurancejournal.com/news/national/2020/01/08/553864.htm
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.A76386067C6F4F23B733CDFD2CD66FEE
+        width: 580
+        height: 392
+  - title: "The Technology 202: Trump administration's CES message: We're not interested in heavy AI regulation"
+    excerpt: "LAS VEGAS — Trump administration officials this week promoted a light-touch approach to regulating self-driving cars and artificial intelligence at one of largest technology conferences ... Not a regular subscriber? BITS: Facebook won't back down from its controversial policy of allowing politicians to make false claims in ads, but the ..."
+    publishedDateTime: 2020-01-09T14:19:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/09/the-technology-202-trump-administration-s-ces-message-we-re-not-interested-in-heavy-ai-regulation/5e161c0688e0fa32a5149a35/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 25
+    images:
+      - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/bb418e7aac2a6b0586ec8160680fec7d-680-453-70-8-PF6LNRBSK4I6VFY3IO7MH74YMA.jpg&amp;w=1484&amp;op=resize&amp;opt=1&amp;filter=antialias&amp;t=20170517
+        width: 1484
+        height: 988
 
 secured: "2HB6H0rrdGGJT0NrlHjcmWV4/3luQYg9KIyyoe1L3fByv8hV1QHhkH4uWniXhyvpU5ZeFJ+IA7+H2D8mxGdhYpGwxr+hY3VBNazkZdko0+qbd6U48wbQbeak6t3C2h751AZjxRY4PWUC+lwQQmOBF/IXvvM23pSi5qT86cdm93LqZLQNG9I9CIP7SGrbZTewuSbv2KCLhp8m5pnxjgHzuqxTYIZZhuaLWcUAN8li2SUTNUKFUE1HKuw04qsKbyHcCzJ85JYIfTq+7oss59FNxA==;xWcA67dtXbmmIpoQGjNa4Q=="
 ---

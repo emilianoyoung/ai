@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F88A2160E581DCC5F193F294E472A94B
         width: 510
         height: 340
-  - title: "Artificial intelligence, machine learning will contribute $1 trillion to Indian economy: Piyush Goyal"
-    excerpt: "Artificial intelligence and machine learning will contribute USD 1 trillion by 2035 and this is a good beginning ... Hub by NSE will strengthen and empower those working in the BFSI sector and will benefit investors and the financial services to give world class services through knowledge, innovation and value-addition."
-    publishedDateTime: 2020-01-06T10:16:00Z
-    sourceUrl: https://www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/
-    ampUrl: https://www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/amp/
-    cdnAmpUrl: https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/amp/
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9B62906FC591C3816F157EBAF979BD42
-        width: 700
-        height: 394
 
 secured: "6vDInU3Rn27b6LJgnkJnYmq3b6nH6j7xm0evMq06tJasGlbHvD+eHvmpJUz0YrYqdpx4JXvbvxHDt4ONa3dqS2HnuOSuuZzAEivn6bLnMbcxvhr8tygQ9CzdRnJxsDHpq9wTNT/d0ym9RaRaMveaQM4NvMXIYcxm0cn3Tkgzn14HjfBqFYxljbYzGZ4JBD3ghQYaXzUdZTPMCNfELTQxcShKy+EOcRAbzcbf56ItygmdIux1lAj0F4/7OJjolfVVvswVkbjyqP4jmI134NENJQ==;1eKsd/uHjlszKOy0j0jicQ=="
 ---

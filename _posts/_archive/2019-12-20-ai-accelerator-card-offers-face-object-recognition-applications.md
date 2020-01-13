@@ -54,26 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
         width: 640
         height: 433
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -84,6 +64,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "UA8gm99LspzBMcl6xZVxqO+p6QwTwDyKdET02H8Jy8ufhHIHHyY6qCOEFiA957H/av5Jkn98ghbzLiZpyxdtBuTY3tW3hmhBj+V689JXT3Kh+8hgFQ3J7X6yPCIlPNwqiLO5NKtwtKLal6XF4hZEKZDvu/GAUY5G6OSq6F/mdGMbPRkcEznnp+IhvM1Qtzk93mzeLMwlde7rck4vMMDqQ+NVNO64Kkr9BJKIIeIXLKx3lGHQTQXfRLVlBwr9KVn4zvfo8hz+BQjhBD/gvw7IZg==;iFMUnYvFQBTulJYaCBD92w=="
+secured: "5SdGhz1nSKSXOms0C4knShCseL+/502NojX4DOKUx+ABjDx6JBMRgG/dqXki7bu1t4WyjXkrae342+afYZM0g3el341274ldfPUB7uEPNy00gEO+poDAGjANj3fMA5yCKHeGEJDLER4DvcXvGgsGh14hQYnh0/A57Y28rSuQrMg+3+iKaB8AhejMgIaOsJo8FNsbe880f24fyCLNBgVZTunp9EIHlKroUMMHeis/DJRLqYtFPidjOvLGxabxqUyGTpCsG8IwxCYduR608NY4jg==;VSE6F4YeucffNyRwCJKwdQ=="
 ---
 

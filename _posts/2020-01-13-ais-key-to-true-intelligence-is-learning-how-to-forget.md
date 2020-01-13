@@ -1,44 +1,34 @@
 ---
 category: news
-title: "Overcoming Bias in Artificial Intelligence, Machine Learning"
-excerpt: "January 09, 2020 - Artificial intelligence is often seen as the silver bullet to the healthcare industry’s numerous problems. Machine learning technologies have been shown to more quickly and accurately read radiology scans, identify high-risk patients, and reduce provider’s administrative burden. But recent studies have revealed the ..."
-publishedDateTime: 2020-01-09T14:32:00Z
-sourceUrl: https://healthitanalytics.com/news/overcoming-bias-in-artificial-intelligence-machine-learning
+title: "AI’s key to true intelligence is learning how to forget"
+excerpt: "Artificial intelligence that constantly reevaluates previously learned information in the same way the human brain does, will help AI intelligently identify the most relevant data and use that in its decision making process. This human-inspired AI can then apply insights to new situations in real time, with minimal computational power."
+publishedDateTime: 2020-01-13T09:18:00Z
+sourceUrl: https://thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is-learning-how-to-forget/
+ampUrl: https://thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is-learning-how-to-forget/amp/
+cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is-learning-how-to-forget/amp/
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 87
+heat: 207
+published: true
 
 provider:
-  name: Analytics
-  domain: healthitanalytics.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: /assets/images/organizations/thenextweb.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.FD1964989E5B81287E5D2E14B3093956
-    width: 690
-    height: 400
-    title: "Overcoming Bias in Artificial Intelligence, Machine Learning"
+  - url: https://www.bing.com/th?id=ON.AEB68D4F440EC797E5D3461D1830E8BE
+    width: 700
+    height: 350
+    title: "AI’s key to true intelligence is learning how to forget"
 
 related:
-  - title: "AI’s key to true intelligence is learning how to forget"
-    excerpt: "Artificial intelligence that constantly reevaluates previously learned information in the same way the human brain does, will help AI intelligently identify the most relevant data and use that in its decision making process. This human-inspired AI can then apply insights to new situations in real time, with minimal computational power."
-    publishedDateTime: 2020-01-13T09:18:00Z
-    sourceUrl: https://thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is-learning-how-to-forget/
-    ampUrl: https://thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is-learning-how-to-forget/amp/
-    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is-learning-how-to-forget/amp/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.AEB68D4F440EC797E5D3461D1830E8BE
-        width: 700
-        height: 350
   - title: "Artificial intelligence: How to measure the ‘I’ in AI"
     excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
     publishedDateTime: 2020-01-12T09:07:00Z
@@ -170,6 +160,19 @@ related:
       - url: https://media.townhall.com/_townhall/resources/images/thog.png
         width: 300
         height: 300
+  - title: "Overcoming Bias in Artificial Intelligence, Machine Learning"
+    excerpt: "January 09, 2020 - Artificial intelligence is often seen as the silver bullet to the healthcare industry’s numerous problems. Machine learning technologies have been shown to more quickly and accurately read radiology scans, identify high-risk patients, and reduce provider’s administrative burden. But recent studies have revealed the ..."
+    publishedDateTime: 2020-01-09T14:32:00Z
+    sourceUrl: https://healthitanalytics.com/news/overcoming-bias-in-artificial-intelligence-machine-learning
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.FD1964989E5B81287E5D2E14B3093956
+        width: 690
+        height: 400
   - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
     excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
     publishedDateTime: 2020-01-07T15:35:00Z
@@ -197,6 +200,6 @@ related:
         width: 160
         height: 90
 
-secured: "NlK/QQoESVm9A3A6QU5DLwK/ZlzI55mLlGLNDbwoFsaWxqFDDEoAndsmy3SRmWMDWO7CHqGng+BshOQbMbWzGolyq50JeBO5b4YH6gOBMIzDQ+Ej8JS9JvBSpXgosZzO3ryM/4RzlNPgpIYl67XBRut+Bw8BeVK94L0zmhcaGOqQfxmhfu7NmiaV4QoRBiCrD6kHqcc5lHRkggiwtFLhqI/iml695AAXGgiK8T/+v9pIYZQvKOZ32NkEh4u+r2/aOZmwYCOVmWI7yyu8dwUwlQ==;FRGGib8YySmI+4UVW8e/gg=="
+secured: "lSUvw8dkRCEolpfYaZ6xYMeeP+CS+IrRdcYZVkBsbZyEzS25tXUOJzchK5LSffmbB6v8v5Ov/3ebabgAm8ncFBSzYMYjsgeYNd5fT0fnj+vEdtGKF34WlRQ/5NxzsztYZ8wbEVMTjDDJMGpmZ+VDO4AE5jNy82u+FCnLqedAHiXEAMEgFEdkcOeimidyyTgZ1neUZf88Y1pJPGgRNUZq/XIwqYzdnCv54MuaADnHhT4OJJONRg1gyxG6XIvAjxd6XJxiDv2eV/wkGDHdaOVcDw==;hoKQofPeCU9rmjWRCMXWig=="
 ---
 

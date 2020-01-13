@@ -1,9 +1,9 @@
 ---
 category: news
 title: "2019 Africa Roundup: Jumia IPOs, China goes digital, Nigeria becomes fintech capital"
-excerpt: "2019 brought more global attention to Africa&#39;s tech scene than perhaps any previous year. Here’s an overview of the 2019 market events that captured attention and capped off a decade of rapid growth in African tech."
-publishedDateTime: 2019-12-30T09:53:00Z
-sourceUrl: https://news.yahoo.com/2019-africa-roundup-jumia-ipos-095309615.html
+excerpt: "Africinvest teamed up with Cathay Innovation to announce the Cathay Africinvest Innovation Fund, a $100+ million capital pool aimed at Series A to C-stage startup investments in fintech, logistics, AI, ag tech and education tech. Accion Venture Lab launched a $24 million fintech fund open to African startups. Like any tech ecosystem ..."
+publishedDateTime: 2019-12-30T12:20:00Z
+sourceUrl: https://www.yahoo.com/now/2019-africa-roundup-jumia-ipos-095309615.html
 type: article
 quality: 17
 heat: 17
@@ -18,11 +18,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.74BDD6185FEA895F789F025E15C46A4A
+  - url: https://www.bing.com/th?id=ON.AD3B6F160ADD860C2FCA14F8DB2957AA
     width: 700
     height: 371
     title: "2019 Africa Roundup: Jumia IPOs, China goes digital, Nigeria becomes fintech capital"
 
-secured: "QTPRJY6xizZC16bEzdTABslVFbTKYmaKc9/ETCxVXVkPRmc6C99eHtUXefAXQBHdKV4R78r77PNa+DxjqwQo0dKywfdqED+ePkZGb1fpEq6/s2gKrdJJAmkndfXlz+0QpNhnlX6E4gD1RTJeuXLHj7EcghQWiHt0XmXe/rMn6oyKE7tBWA9OGUKSfD/IAn0nx9tV0elmjc9O/P0s6Fe0xIPBGu4MAxFbig0Eyngjwm0arnHNorV8wRIJrs2Q2DX178o6LhlbAD82aGtBCBvNMg==;ia2fVVFOSr1XTz0pvQ2Vdg=="
+secured: "Bn3T+Mbvl/dqvGPOhPZ+tFEcZ8SZD6JXhM+ufqrxgKI2DzgxTiQK3TOFNaAc3LBRYzI4AFxSg8p7w/r2+FK56jAwecXKfnQ6ufdc+Drvh8FUEQ4Q8CED+QTtFHtELgCD+XagQCMe6TCaGmTFvTn5408Y9nvYQRuLUEfuvD5j6h9ukDruMtMzNWjmrvzNItZvbrygb2+9MWc1cDuI3FO9XmbdlsfYvcEejkI6J42ca6H/A9stsOUkC9yWyuoSxl2/YeBOiX+8phO99K1NGVx48w==;rt/I0UsthhMWFhGJnpk47A=="
 ---
 

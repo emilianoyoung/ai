@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZC022
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZC022
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
 
 related:
+  - title: "South Koreans learn to beat the AI hiring bots"
+    excerpt: "In a tight job market, South Korea's top firms are rolling out artificial intelligence in hiring. That's got jobseekers turning to cram schools to learn how to beat the bots."
+    publishedDateTime: 2020-01-13T09:47:00Z
+    sourceUrl: https://www.reuters.com/video/watch/idPdNN?now=true
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.5B5603986854F8B787B443270BBEC2A0
+        width: 700
+        height: 393
   - title: "South Korean tech giants to showcase more AI robots"
     excerpt: "At the Consumer Electronics Show kicking off on Tuesday (Jan 7) in Las Vegas, South Korean tech leaders will demonstrate how their robots can live together with humans and what roles they will play, blending artificial intelligence into people’s everyday life at their exhibition booths in the Las Vegas Convention Center (LVCC). Samsung ..."
     publishedDateTime: 2020-01-06T09:30:00Z

@@ -3,12 +3,10 @@ category: news
 title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
 excerpt: "at CES (Consumer Electronic Show) 2020. The deep learning models developed by QuEST Global aim to enhance ADAS by improving the accuracy in detection"
 publishedDateTime: 2020-01-01T23:18:00Z
-sourceUrl: https://finance.yahoo.com/news/quest-global-demonstrate-enhanced-driver-070000056.html
-ampUrl: https://finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
+sourceUrl: https://finance.yahoo.com/news/quest-global-demonstrate-enhanced-driver-230000378.html
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -20,11 +18,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-    width: 1200
-    height: 1200
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
     title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
 
-secured: "bufFBow1BQweBxlHYBLwjeNKG6y+zIyH5CHszERld+q7wtGWQLamROAOb2dx2JEE2YenMxSJLVukCU+lnLhnVmcEF0UErgWRCLE4BIE3Rm1aowiJc+7sTm1zEKixyJBTdoG27edQ2wmyaiMfOnIppvRO/Zqnb9UxDBdTNSQVT5Xkgf2IJHEx0RGWsZgPTavVr3UUSlrL3IvhXG82P8mgFnz01AdMBXnnTFyAFeincBw4w08GkUYmimUEiUjPsWXCp7qA1Tjd8jQ7fDiIn6d1Pw==;WB8gBKbU4/fvd5aa6EqKrA=="
+secured: "r5hWNjzI/jNT7+FFaH+HPhM3ajQCDNAJWHft4a/6yhUY2QztzBQmIaP4RYGSmYXNbEG6TgXB7siiSCZEMITcx+c1r4aa/cz6naK0R5ZD1dtCDhftky2H+TPxbklov6V7DTGhhl5rtX26HNCr7cpyK6ZLmJfDaa0dHBYRguY+dMYieBvzWwGEAVqUqLUUTO2OynJFuYo1xIb45MsBixLsZvRwEkOqnvJexHl7vBmiY46HhHaf8o88Gv8Xw7P+AqGhLOmwnH5RW3KBa4UPfPnGRA==;+Gr9BcPTWTLdm7ak3wv/1A=="
 ---
 

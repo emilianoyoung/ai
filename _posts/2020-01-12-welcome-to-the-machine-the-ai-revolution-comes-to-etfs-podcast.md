@@ -24,49 +24,21 @@ images:
     title: "Welcome To The Machine: The AI Revolution Comes To ETFs (Podcast)"
 
 related:
-  - title: "Artificial intelligence: How to measure the ‘I’ in AI"
-    excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
-    publishedDateTime: 2020-01-12T09:07:00Z
-    sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
+  - title: "Meet the Delhi boy who failed at DU, made it to Oxford, and then set up a profitable AI startup"
+    excerpt: "Oxford graduate Ashish Airon is today the Co-founder of a profitable AI startup called CogniTensor. The Noida-based firm is poised for a 300-percent revenue growth this year and is in the process of collaborating with AIIMS. “It was a jolt for me and the silent treatment at home from my parents, who were extremely disappointed in me ..."
+    publishedDateTime: 2020-01-12T23:55:00Z
+    sourceUrl: https://yourstory.com/2020/01/noida-startup-cognitensor-entrepreneur-ashish-airon
+    ampUrl: https://yourstory.com/2020/01/noida-startup-cognitensor-entrepreneur-ashish-airon/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/noida-startup-cognitensor-entrepreneur-ashish-airon/amp
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
+      name: Your Story
+      domain: yourstory.com
+    quality: 45
     images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
-        width: 796
-        height: 417
-  - title: "Grilling the answers: How businesses need to show how AI decides"
-    excerpt: "In a study based on interviews with 4,400 consumers, Capgemini found that their views on ethics and AI threaten both company reputation and the bottom line – 41% said they would complain in case an AI interaction resulted in ethical issues, 36% would demand an explanation, and 34% would stop interacting with the company. The results show that ..."
-    publishedDateTime: 2020-01-09T13:18:00Z
-    sourceUrl: https://www.computerweekly.com/feature/Grilling-the-answers-how-businesses-need-to-show-how-AI-decides
-    ampUrl: https://www.computerweekly.com/feature/Grilling-the-answers-how-businesses-need-to-show-how-AI-decides?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Grilling-the-answers-how-businesses-need-to-show-how-AI-decides?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.5A3723BF023CA0D020FB912B380406CA
+      - url: https://www.bing.com/th?id=ON.9A4F3256FED2714795E5DA1706BB35A5
         width: 700
-        height: 233
-  - title: "Special sunglasses, license-plate dresses, Juggalo face paint: How to be anonymous in the age of surveillance"
-    excerpt: "Researchers have long criticized the lack of oversight around AI, given its potential for bias. A recent National Institute of Standards and Technology study that looked at facial-recognition algorithms, including from Microsoft and Intel, showed Asian and Black people are up to 100 times more likely to be misidentified than white people."
-    publishedDateTime: 2020-01-12T13:00:00Z
-    sourceUrl: https://www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/
-    ampUrl: https://www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.41CA5E7A38A69F31041E543AF60BFA07
-        width: 700
-        height: 449
+        height: 350
 
 secured: "diT26iNUM5cD3LcjUff+GEhL7B8sODWMQQ66SJh5w+6LLXh1kntvTIaN2JJBnM6Yj322KA5BINWXEb0MgxReAzQWNOjAgMn5EYhCKqhwocaTmfGZPGUfq9WGSi+RJ1/VbTFYofoTt2b6VxokBJHwj0jnpqF3dHgKNYYw8CE2+ajxDNZEtXVWW9yRpqA8xCHj8T3n1fN7w3iXCyRBHUHtwdl53XgkmVjLwvzNpIoUhq5TwpQbQqJI5I8x8KDqCF/hdnEFslWFjJdeNU1Em/sI0Q==;4djb1OEwqR264ZIaHhJbQA=="
 ---

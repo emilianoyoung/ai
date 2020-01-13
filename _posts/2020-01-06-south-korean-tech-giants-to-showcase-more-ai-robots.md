@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.22C0E6F3657CFDEED89A2F539A5022BD
         width: 700
         height: 466
+  - title: "South Koreans learn to beat the AI hiring bots"
+    excerpt: "In a tight job market, South Korea's top firms are rolling out artificial intelligence in hiring. That's got jobseekers turning to cram schools to learn how to beat the bots."
+    publishedDateTime: 2020-01-13T09:47:00Z
+    sourceUrl: https://www.reuters.com/video/watch/idPdNN?now=true
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.5B5603986854F8B787B443270BBEC2A0
+        width: 700
+        height: 393
 
 secured: "JvdqIkmlXuiTT/IfyWW5pvlDfnBtf2HZlKoQBhLI3MqDtTqKbB5P2sPWH6RT4QwI+JMGKVA+QjrQTa2fymDtdT0USIeif22TGzx+MXV5NhjuAW3i0Lc1ZY/0ftpZ3JeQXjJPzdXcwCPAxWVB7lQU6ZA/tjtTTDdDejn1eMwVKIqA1i2/htW9LkGWcZWPbHO5kL6k7ZyFOtGFcDPchNKAVc7YdG7I7Rbe1BED8fe9gi5fxH//97re2T4hivqC8D2WqjGENev4RKlCO+jgzlxi2g==;fynwsVzm++aL7d37WkNYyg=="
 ---
