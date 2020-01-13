@@ -53,6 +53,6 @@ related:
       domain: deccanchronicle.com
     quality: 39
 
-secured: "ueK6wDuHHUqq5kx1C/pGv+pPwmA8zlQo0WjOrUBhl5Dxr+rxs+m+cs9K/2a75ZjCGbq4mimemcIRR2mY9z1qRnS+lUHTLzx69je44JO4u36/YAFUjIyttcphefnyU8hkC7niuoPk2kHnybMUloGhqAL2kFAMpUbUqdTytN8/CGqV1rFN/9ql7oYvzwwqe5QdrICSz5f19Z3XCHK+Aj+Vwm2ni4wplrHPCo4rzk/hpExVzu7pN1iMvjpJI+RrUzZjMP1Y4TmelJv5yl1XTPxdhA==;Mt4QniwhtJ2FUDWyvD7hRg=="
+secured: "kUseIOARN0dquY/da8SXc85vtRuUndAE5fWjfX9kCMf6JJvppNdSxVPutcyNUYrAy5NR3JAIM1dnors4WQgvNgJzi/oxNWRNatvFMEoZXbXaotVWixrwjCSMasO+METPoTKOLGfZKr8KMaB/0orcEIM80nMRiHaQ3nb6eTVEgp4kjBnQ8OZY3+nbY4vdH/iA38+LVRuix5lGDAI+0jvudCYynT4VOyGRG4+WkWhqqPZRZ4AOwGZ8cecw44zTsGI7Utx051UBh712kHM5tQ4NkQ==;KFmiOOlSdzIvl3XTqzz1gA=="
 ---
 

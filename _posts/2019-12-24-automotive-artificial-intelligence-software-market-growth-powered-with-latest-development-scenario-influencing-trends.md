@@ -53,6 +53,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Machine Translation(MT) System Market to Witness a Pronounce Growth During 2025"
+    excerpt: "Market Research Report Store offers a latest published report on Machine Translation(MT) System Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. In 2018, the global Machine Translation(MT) System market size was xx million US$ and it is expected to reach ..."
+    publishedDateTime: 2019-12-31T06:09:00Z
+    sourceUrl: https://www.openpr.com/news/1887580/global-machine-translation-mt-system-market-to-witness
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
 
 secured: "E7UOusYBCcs0615KvA1VFurGbt2lsntOlKsL7uiiFrYn46WkSFGv/kEhxfDtWYUbzVebe2losu8RDtwWuBxvloEXEhoeXSepIHSxqOQ8ORW9FdznZNXfirABLk0/dgkNQQFCjt4rFcZZwoNPoQYxd4UvaS5foJSXbjUFJbz7h6FIxTxnwIMQz0rv/NXWhFpf9foPpiZ7cDm4535dl61M0+2RNMvA1/IYobaFZn5ZGo/PZowJ7giuExTDnJF1yodMVLZHwC0EJuh6C4MpExcfNw==;BlkN1ETOJqIQQSTyZTttMg=="
 ---

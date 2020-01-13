@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Syntiant’s Always-On Voice AI Processors Now Shipping Worldwide"
-excerpt: "Syntiant, the award-winning AI semiconductor start-up providing intelligent voice solutions at the edge ... and now ship an always-on voice solution to OEMs and ODMs that is unparalleled in today’s chip market,” said Kurt Busch, CEO of Syntiant. “We’re the only silicon designed from the ground up to put neural processing into battery ..."
-publishedDateTime: 2020-01-08T12:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/syntiant-s-always-on-voice-ai-processors-now-shipping-worldwide-1028802743
+excerpt: "are being shipped to customers globally. Enabling voice as the next generation user interface, Syntiant’s NDPs have been designed into a wide range of battery-powered devices, such as earbuds, laptops,"
+publishedDateTime: 2020-01-08T13:02:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1967800/0/en/Syntiant-s-Always-On-Voice-AI-Processors-Now-Shipping-Worldwide.html
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
   - AI Hardware
 
-secured: "D6HI7oCSzFe9x3cLFMUtxGM9188ebJfFO6F7OR3rk6yugg/zRygZNHpcTEnsEHhoTImL9SQVeAUC/ZuPinTBV626z0GXGD/0lClzYFxy79DdM/Tk3+fwnpouFdetVvMPgJm00QcQI9BKAbBnLhX50I/iYGGEMSW+34XyELwbhH/fRDmFBvuD3cI0oJ9Mlji2bt9jVPO3AsRKbl9jztUzP9Zupdgq9M7VxghmxKFP5F1Xy1ZvTunxW3GT9XNrx1f0SGgTMhBu2qfO93GyhoWuSA==;uRv135MGmz+1OiiT5X8taQ=="
+secured: "gBsJFXX/Qn8JIJgx9CDaNQb9i/xl2ygKVhvsiaguUs+ogY6UCDl76beMmU9K6NvMEMNDkPvdED5gOEbb/CR8an9+9rXimtBK0+8OyttKcfoMvfDhYyJgZ0KgBMrGQbzhW2vadeDG8W3Mo/9UXqWgeIBkM7QMt1d0T9zovvjxAq0vcwEBfAaYWygYFzH6L07HTrXTB4uyubgvn0hiqGq3kLE5l+G86YKl+WR4uJeTZkzOyArfn0y/IhGurlnAXKuUZt+n8Q6z7Og9nF28Zeltlw==;+Rre7iVBqGKcW/QMAlNWvA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-31T04:34:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Machine Translation(MT) System Market to Witness a Pronounce Growth During 2025"
+    excerpt: "Market Research Report Store offers a latest published report on Machine Translation(MT) System Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. In 2018, the global Machine Translation(MT) System market size was xx million US$ and it is expected to reach ..."
+    publishedDateTime: 2019-12-31T06:09:00Z
+    sourceUrl: https://www.openpr.com/news/1887580/global-machine-translation-mt-system-market-to-witness
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
 
 secured: "oKM00/vpIT67QkhYETGvUCr0vIQHLK1Y7nZDodfjNoS4DJx354yin1IlqIuDcXMbL8Ws+7Ys4QMLj295qUnQMbC1STMV6hYKjZaBG9Hv1UEcCHrAqBLVR898nSBtJ0YcBoPrdMbomzTaOhTVURM2QLl9GpYZJLeyY77P6/ipunPn8fI2FISHaeRjI3uGKN7FaM/z63/K3cHOtc4y9rHnXbzOn+dL5b0AMKzRuTQAwm5NsEXs6zZ7n+GMtWB0ElNL63PZAV2x2nKA485XskdRjw==;UJgMmXOTnL4Y3ZysE3GGEw=="
 ---
