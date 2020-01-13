@@ -21,36 +21,21 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Significance of human intelligence in the age of Artificial Intelligence"
-    excerpt: "Artificial intelligence is one such advancement that is accelerating transformation. Chatbots are having in-depth, multi-level conversations with customers, and can even respond appropriately to emotions they sense. Citing some examples – Walmart is testing shelf-scanning robots that are designed to scan the aisles for waning inventory ..."
-    publishedDateTime: 2019-12-24T11:13:00Z
-    sourceUrl: https://www.ciol.com/significance-human-intelligence-age-artificial-intelligence/
-    ampUrl: https://www.ciol.com/significance-human-intelligence-age-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/significance-human-intelligence-age-artificial-intelligence/amp/
+  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
+    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
+    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
     type: article
     provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 58
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.1B7989D9B4AC7FC0061AD66BAE2CA330
+      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
         width: 700
-        height: 357
-  - title: "Musician-turned-researcher David Usher is exploring the human side of artificial intelligence"
-    excerpt: "Instead of asking Siri to tell you the latest news or fetch the weather forecast, David Usher wants us to have meaningful conversations with artificial intelligence. \"What we're trying to do is force the user [to] have conversations about love and death, the meaning of life, what is AI, and what is humanity, what is climate change — those ..."
-    publishedDateTime: 2019-12-27T19:01:00Z
-    sourceUrl: https://www.cbc.ca/radio/spark/how-making-ai-do-goofy-things-exposes-its-limitations-1.5404048/musician-turned-researcher-david-usher-is-exploring-the-human-side-of-artificial-intelligence-1.5404090
-    ampUrl: https://www.cbc.ca/amp/1.5404090
-    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5404090
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.280EAF3BF1F2BFBEC73C281F2AFACC32
-        width: 620
-        height: 349
+        height: 373
   - title: "Hello, super intelligence. Will robots get along with mortals?"
     excerpt: "Driverless cars are coming to Dubai ... While some predicted it to happen in 2030, yet today we know that artificial intelligence despite making huge strides is still nowhere near human intelligence. But what if we did achieve this in 10 years? How would things pan out for us? If I did an Einstein-like thought experiment about the future ..."
     publishedDateTime: 2019-12-30T20:40:00Z
@@ -64,6 +49,52 @@ related:
       - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
         width: 725
         height: 725
+  - title: "Artificial Intelligence Use Cases to Expand in 2020"
+    excerpt: "Artificial intelligence (AI) is expected to play a much greater role in 2020 ... Facial-recognition technologies are expected to be deployed in areas such as security and ID checking, transportation logistics, healthcare, fast food restaurants, airlines, food and beverage companies, hotels, automobiles, and the energy industry."
+    publishedDateTime: 2020-01-10T12:00:00Z
+    sourceUrl: https://i-hls.com/archives/98055
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.F9917D81D943AF70D5B6A191665CC1DB
+        width: 700
+        height: 393
+  - title: "10 Leading tech trends: How artificial intelligence will evolve in the coming year"
+    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
+    publishedDateTime: 2020-01-06T06:52:00Z
+    sourceUrl: https://www.dqindia.com/10-leading-tech-trends-artificial-intelligence-will-evolve-coming-year/
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.3834D35171684CD23218616FAD2D9B27
+        width: 700
+        height: 393
+  - title: "CES 2020: Investing In Artificial Intelligence"
+    excerpt: "Nvidia is the quintessential picks and shovels company for AI. In Silicon Valley and elsewhere, AI developers use Nvidia's platform for building. The company's GPU chips are the leader for AI and machine learning. I talked to several developers at CES and all were using Nvidia (small sample, but interesting nonetheless). Nvidia is a leader in ..."
+    publishedDateTime: 2020-01-07T17:53:00Z
+    sourceUrl: https://seekingalpha.com/article/4315618-ces-2020-investing-in-artificial-intelligence
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 25
+  - title: "The Killer Intelligence Engine introduces powerful AI capabilities to deliver the strongest Wi-Fi connections."
+    excerpt: "Austin, Texas - (January 6, 2020) - Rivet Networks is incorporating artificial intelligence (AI) into its Killer Intelligence Engine to help customers establish and maintain stronger and faster wireless connections. Online experiences are often defined by the quality of the Wi-Fi connection, which can be challenging because unlike CPU or ..."
+    publishedDateTime: 2020-01-06T19:00:00Z
+    sourceUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/index.html
+    ampUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
+    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "KEoby3kfP/3Io4T7SWqHCaZKHHU6c2OO1YyfZUCxJ6+8Q/HJqMCeo8z7jAqYiPp5lIYEmoPUUDo5RnJi67VFaqi/u9KtJqATuuPkutayiT00THQV26nlZVrrIT3sI2CwbOBVYY4SxM04/Hynp3JxDl7I5HdQb4qZ4f6I+jis/gb60xiZPPGa+2YaO9xM4s+Mw2cugoka2eh4nVYeclp7PSVoAaoav8M6g6qTxfit7WvcDD/PVRfS6FzXwPx26k82hRzR34I853+l8k9LItv9xA==;RygTaO0d6E9QG0claUvAyw=="
 ---

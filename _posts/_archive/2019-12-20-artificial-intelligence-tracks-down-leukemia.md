@@ -18,6 +18,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
+    excerpt: "Their method is based on analyzing the gene activity of blood cells. When applied in practice, this method could support traditional diagnostics and probably expedite the start of therapy. The study outcomes have been reported in the iScience journal. Artificial intelligence is a much-discussed topic in medicine, especially in the field of ..."
+    publishedDateTime: 2019-12-24T12:12:00Z
+    sourceUrl: https://www.azorobotics.com/News.aspx?newsID=11035
+    ampUrl: https://www.azorobotics.com/amp/news.aspx?newsID=11035
+    cdnAmpUrl: https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11035
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.42A01FAFDBB6F7289D13A68EE7207414
+        width: 350
+        height: 215
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
     publishedDateTime: 2019-12-26T12:48:00Z
@@ -69,6 +84,6 @@ related:
         width: 700
         height: 367
 
-secured: "Nk+4jnBR1+Y8kyR7xDnz3wDjIQvLcqFbF41+AG3qQ81dEh+brCK15ykX0DL/whhKoTfAC5eiFuOp00Zq4xyZyWNU9CUf7k0Qkm1M56R3EKRn7mlic2y0uucFPBzPd2Dlq8+zRXseh1m/6kaSO/QbI7FUQ0XFaz5Z0U49WK/ytZruovhXRNHtnx1Z4x3BVKewPMGQhM6AXdOFuCyc4X3ooj8s/NJBrl9C711PvFnALo/Xo2DZEXogmnQpUusLbx7ysyxuDFrOhtxmpqERGBRspA==;jzJItZJiHZudleHFyz0vyA=="
+secured: "fO9RecXeFqRpCbfveyYZ9BJ3OWYN29n0yN3OQpqinucJxg+6Idusl6nhexhBTBGWKp0Hs+P+8EhaJDG6IN/2yTpZUxAMncDSpE5nTQ39dI/6kppPh3fpX3S9E4hdNaLH/pw7mHdBolAUJKbgOFSWBFE1YsjBlbU2x9U0mHsk/qSU/F57qadaLN2I88KAukrPhxmaMW0PwiBLzAQXUN/t717NUHKfKoSjQNME7hZ3SLXkMnWN/5QH0cpQI6bwtDp/uKhJkCp7WR6tVdc/cQmbXA==;vKjslaxncsicH2z+VV1Vdw=="
 ---
 

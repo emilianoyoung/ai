@@ -50,6 +50,15 @@ related:
       name: The Root
       domain: theroot.com
     quality: 11
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -60,6 +69,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "UWTxFGvceUKgPf7gWhYkBtsIv9/gZUeckbbgIy/yRqUfW1AwXkYwyBPcExd/NrIwSQtqCtoNCOdaO+DgcU2YmvSg09zGdr8xS6nY8j9pMF1iyr+zENTN7PAJHAmFrDaLAz35msd5emHd5/K+kETqK88YD8mcvwO88SPAdx7Ms+aAXBLLzMcFRhgxFBma3fuQ0waNcfYwGQUKWEFsZlHWJQRNI6+1As7ZxYC/ZNPH9FpuckZ404Fky2NErAlQE2bxMKHPjDn2oPUS2cvIFJq/ZQ==;cEjuTDmcFSa3Wb0f/5xEQg=="
+secured: "ODzO4sZXWpO9+BuFiyB1W7um8j1QYVaiaZoKYmHNXFRNQVf1Eb4yIVDX2veRhmtCDryBHiPwc6r4a3i2iMMZpG8ONfp3m5lG7o/lYlDpE8CeQi2eqNaKCz5F21Zry0IbF9Auc0hBtY1hM8C6flEL2Q2mJ+QD3/TBtQ6DWo09xbl/2SDsrxVVAGeMA8QbS12j4nb4atpll+edH/cqJVey6g1nEQ//l8QH844oSzYy88BVcZiNlE/teK8mF8tZtPZhBXSjtdcv8LPk58XK7MLefw==;4xQlUNJKLbI/URMFvyaI7Q=="
 ---
 

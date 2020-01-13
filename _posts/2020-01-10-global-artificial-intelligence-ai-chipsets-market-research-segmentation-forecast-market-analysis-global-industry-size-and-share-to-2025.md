@@ -268,6 +268,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E7944AFF37B604D06BED74EE64083792
         width: 700
         height: 366
+  - title: "Europe, Middle East & Africa SCARA Robotics Market Analysis & Outlook During the Forecast Period, 2019-2027 - ResearchAndMarkets.com"
+    excerpt: "Companies in the Saudi Arabia has invested in the field of robotics and artificial intelligence. Around 41% of the activities in the country has become automated indicating the growth opportunities for the scara robotics market. Further, government in the UAE has added up to a leading shift in robotics and automation process inside industries."
+    publishedDateTime: 2020-01-13T10:47:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005442/en/Europe-Middle-East-Africa-SCARA-Robotics-Market
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.0B409027BFDF8AFD8F9430AA10788840
+        width: 700
+        height: 365
   - title: "Medical Bionic Implants And Exoskeletons Market to Raise at a CAGR of 7.5% over the Forecast Period 2017 – 2027"
     excerpt: "According to National Center for Health Statistics, 185,000 new amputations are consistently being performed in the U.S every year. Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a ..."
     publishedDateTime: 2020-01-07T08:37:00Z

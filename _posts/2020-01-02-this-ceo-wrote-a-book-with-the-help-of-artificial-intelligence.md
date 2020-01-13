@@ -5,8 +5,8 @@ excerpt: "And when the transcription came back, it was much easier to work throu
 publishedDateTime: 2020-01-02T17:10:00Z
 sourceUrl: https://www.chicagobusiness.com/takeaway/ceo-wrote-book-help-artificial-intelligence
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: https://www.bing.com/th?id=ON.24C8D6C61BB0C560762E125C8A3F0D46

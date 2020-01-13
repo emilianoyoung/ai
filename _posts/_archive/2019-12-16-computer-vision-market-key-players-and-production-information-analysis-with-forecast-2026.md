@@ -33,34 +33,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
-    publishedDateTime: 2019-12-24T10:08:00Z
-    sourceUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24
-    ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
-        width: 640
-        height: 433
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z
@@ -82,6 +67,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "xcKJE2FQt4qJ4tZVy7iBgukTDM8sQFrIHWGOtWHn+maTDOUbNKJJHqyueTNzr7mqJpiJmBVTOgWuSYENHqe87Y0xmPwGQawBhzIZvUBRsOjFBFFLYAaLk1tTv6wlZapPts43iLEOS9qRH4gmXghTy66ArsWsasqNSBtkPqcH1JZsORvzUVqP/KLqoK4q6LAEkdFtHSdDpLjIu0ZEVuzNLMqgyL03pGp7jj65YLC36NVSMMus2EEdVNb0ZgRmzW1yMbUQav/Sfn4A7TfoVqW1TA==;YeqgwtoJClGhhYmetKCMQA=="
+secured: "3D62N23xJUCRaH5NnWnrmDQtJOuMb30+jpbpg1BcRHzZhhZdFiUxL29vwpFovAYt9F94VEBULbzB/2IVzQTH92KMv/MQ8Dzdks3PE8OH0k4MyFhANgpIAQCvA5i2H5b72LhSiFw2CIBi/vGQ9j5IL3i0rKzQzPgPD6HUmxznPiyNFlJ4H0ySJHUL93CCvdZqc2NYCXrhD1iCTevToFbRBFWATEzi4G6IeDtaFtHrI2FF5BhrI8XdV7Oru9eRTl+DOgyOJUhcbuGT0WqPTlvwpQ==;tgNHHZ4yQCHJRPlW15anbw=="
 ---
 

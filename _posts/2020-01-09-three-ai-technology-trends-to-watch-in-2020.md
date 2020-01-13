@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trend
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Three AI Technology Trends To Watch In 2020"
 
 related:
+  - title: "Five Emerging AI Trends To Watch In 2020"
+    excerpt: "The AI industry moves in waves and trends just as fast as any other, making it crucial that a business stays up to date on what’s working and what isn’t."
+    publishedDateTime: 2020-01-13T12:45:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2020/01/13/five-emerging-ai-trends-to-watch-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2020/01/13/five-emerging-ai-trends-to-watch-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/01/13/five-emerging-ai-trends-to-watch-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.F772C38D58578924C6D2BECCCFDF5270
+        width: 600
+        height: 315
   - title: "Alibaba’s tech brain trust sees new AI advances, industrial IoT among big trends in 2020"
     excerpt: "Lagging in semiconductors, China sees a chance to overtake the US with AI chips as 5G ushers in new era 4. Modular design method will makes chips easier and faster to develop. The traditional method of chip design “cannot efficiently respond to the fast evolving, fragmented and customised needs of chip production”, the Damo Academy said."
     publishedDateTime: 2020-01-02T23:28:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/26121
 cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -18,23 +18,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Artificial Intelligence can help detect blood cancer: Study"
-    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze."
-    publishedDateTime: 2019-12-22T10:51:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 59
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg
-        width: 675
-        height: 365
 
 secured: "vIlegE/IgU/bZpeqEuYJoQsAYgW9hhUrD2RIa71b+Vr/8+YFfAMs6ZRTkosARRABgUGt6Ej8LthS/MhIxgnwaiapm56BwJyD4IjrvX9DW3QZx6IB8VLGd7BtVYvLSuqilEuXv30Hdr5Ll4bJ4cOJkPQWiDDDgPRW7S8mV3b4eKP0dkLvk8DjFQ6zhVVO/pfBxOuRBvL+GeJ+rlaoumz12W8SMsLwEt0mOaZPe0KH/LIScKuQhCiw7eHRbs8mDKOvjkFOqE8NRYuIW9MgOw3ztQ==;DyWKAOfCe3wA++wQQSD0Lw=="
 ---

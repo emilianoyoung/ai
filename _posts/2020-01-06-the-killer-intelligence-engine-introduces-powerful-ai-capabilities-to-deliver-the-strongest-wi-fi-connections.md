@@ -34,6 +34,30 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
         width: 700
         height: 373
+  - title: "Hello, super intelligence. Will robots get along with mortals?"
+    excerpt: "Driverless cars are coming to Dubai ... While some predicted it to happen in 2030, yet today we know that artificial intelligence despite making huge strides is still nowhere near human intelligence. But what if we did achieve this in 10 years? How would things pan out for us? If I did an Einstein-like thought experiment about the future ..."
+    publishedDateTime: 2019-12-30T20:40:00Z
+    sourceUrl: https://www.khaleejtimes.com/editorials-columns/hello-super-intelligence-will-robots-get-along-with-mortals
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 41
+    images:
+      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
+        width: 725
+        height: 725
+  - title: "Hello, super intelligence. Will robots get along with mortals?"
+    excerpt: "Driverless cars are coming to Dubai ... While some predicted it to happen in 2030, yet today we know that artificial intelligence despite making huge strides is still nowhere near human intelligence. But what if we did achieve this in 10 years? How would things pan out for us? If I did an Einstein-like thought experiment about the future ..."
+    publishedDateTime: 2019-12-31T04:52:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/Hello_super_intelligence_Will_robots_get_along_with_mortals-SNG_163457571/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163457571/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163457571/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 41
   - title: "Artificial Intelligence Use Cases to Expand in 2020"
     excerpt: "Artificial intelligence (AI) is expected to play a much greater role in 2020 ... Facial-recognition technologies are expected to be deployed in areas such as security and ID checking, transportation logistics, healthcare, fast food restaurants, airlines, food and beverage companies, hotels, automobiles, and the energy industry."
     publishedDateTime: 2020-01-10T12:00:00Z
@@ -55,7 +79,7 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 33
+    quality: 35
     images:
       - url: https://www.bing.com/th?id=ON.3834D35171684CD23218616FAD2D9B27
         width: 700

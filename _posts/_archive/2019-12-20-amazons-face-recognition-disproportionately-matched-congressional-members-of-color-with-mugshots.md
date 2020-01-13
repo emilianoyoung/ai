@@ -48,6 +48,15 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -58,6 +67,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "TfYXAgXfbnFzRopYcwP/uLTrSHTPVotxpu6r6pex3cQUwBPwyTvGPOw52/FqPiIEm8RFWWryrDuuYho0l+zHFjARpw0d2IlGcc8Kj/aqVuscG8gS+XA5TcFZAhooSiGolTZ2aYkiGnaS6e1bCWtAvZHAYa2pUEcbnVB/kUKofV+pmtt7Pv910Qt0wdz03hFaG8EpoU28TQ7X0/rJ6jbGFJrz6plXEh74O7dKOMP78h1FlTWbEsFe7BPQ/Yptr16CRTvvqzxMh+a74Zw2VgEoOA==;s66LY0BzTj0YpCOVoR58Ag=="
+secured: "/mDzkUPQ4yFkINdWl/mOqzXgCe2zJfM9/OJ2nVt963V4JJdoT0A6KgphsAa5oaYlgO5H5XUg8UbZszuOCJMsGONRfn8MZPyJTKGlmJl7/xrza9Aj9WPNIj3cyZYpsPLwIDmEHC8ma6R1jnjiFNozgGoKLcU/7aX+aCEQK6XzcNh0ZkCKnXH5Eboux7xlu1KM5XbK0Tt3vul09XgM55m03GbAZdwZlRqIBqNdLUngw6zk7BsAYAnS+aug6zjrLnVN4vwproovTfREyc7lqq43/Q==;7vVIi6Cu4m8ziworl7PIKg=="
 ---
 

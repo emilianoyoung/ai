@@ -25,6 +25,21 @@ images:
     height: 466
     title: "OpenAI's GPT-2 secret life as a pawn star: Boffins discover talkative machine-learning model can play chess"
 
+related:
+  - title: "The Secret to Accurate Machine Learning Models is Data Transformation"
+    excerpt: "Business use cases that can be improved with machine learning Both machine learning and artificial intelligence have distinct and practical applications for your business that go beyond driverless cars. Machine learning allows your business to process and more importantly understand data faster, allowing you to run more effective marketing ..."
+    publishedDateTime: 2020-01-12T03:20:00Z
+    sourceUrl: https://insidebigdata.com/2020/01/11/the-secret-to-accurate-machine-learning-models-is-data-transformation/
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8A466A2A98C34BE6B3BCC6CF4C61A8F8
+        width: 300
+        height: 212
+
 secured: "yrtyDJ9SVhO+Ri6hXb0yvKjddILelKqVfkrKJ2NYdljq0yPFbrOKXBmsCTL8Mha05HAak60VAaH2LElQPsRRKdk1XKf8ysg4sgIXBBzf7IFlDAu5hWWPVAc1CCfhkCw7U8UY4BymjkVkCQc+nRQWZ+ErA56xKfbVDg1zO+FpzKJlSMeSeOUsyWtCKghK5yMQgZ73hCPAr0pf8TqIxMIGNaA2+RVbRPIsZvbUgL75gSWCSQ0E7OI3nUtMknIZuJ306CmjIOzBtXZ6r2NB2A12LQ==;9VtjuxNguXlXhJJjJCWIsQ=="
 ---
 
