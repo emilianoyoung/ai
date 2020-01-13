@@ -70,6 +70,21 @@ related:
       - url: https://www.bing.com/th?id=ON.87190AF3CE74EA6A8AF5000872184A94
         width: 700
         height: 393
+  - title: "Dating apps need women. Advertisers need diversity. AI companies offer a solution: fake people"
+    excerpt: "Another company says it’s moving past AI-generated headshots and into the generation of full, fake human bodies as early as this month. The AI software used to create such faces is freely available and improving rapidly, allowing small startups to easily create fakes that are so convincing they can fool the human eye. The systems train on ..."
+    publishedDateTime: 2020-01-13T14:31:00Z
+    sourceUrl: https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/
+    ampUrl: https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.0BBF51DB029F22A0A64F10F790FD1033
+        width: 700
+        height: 449
   - title: "Self-driving shuttles mapping and testing, coming soon to Linden area"
     excerpt: "COLUMBUS (WCMH) – Life could soon be getting a little easier for residents in the south Linden area. Through a grant funded pilot project, SmartColumbus is bringing two self-driving shuttles to the area. They are currently in the mapping and testing phase. “There’s definitely a sense of excitement just seeing them, seeing something ..."
     publishedDateTime: 2020-01-09T11:08:00Z

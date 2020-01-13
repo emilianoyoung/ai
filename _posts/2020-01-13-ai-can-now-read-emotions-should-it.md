@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AI can now read emotions. Should it?"
+title: "AI can now read emotions — should it?"
 excerpt: "As the AI Now report highlights: “Despite the increase in AI ethics content … ethical principles and statements rarely focus on how AI ethics can be implemented and whether they’re effective.” It notes that such AI ethics statements largely ignore questions of how, where, and who will put such guidelines into operation. In reality ..."
-publishedDateTime: 2020-01-13T04:04:00Z
-sourceUrl: https://www.thejakartapost.com/life/2020/01/13/ai-can-now-read-emotions-should-it.html
-ampUrl: https://www.thejakartapost.com/amp/life/2020/01/13/ai-can-now-read-emotions-should-it.html
-cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/01/13/ai-can-now-read-emotions-should-it.html
+publishedDateTime: 2020-01-13T15:41:00Z
+sourceUrl: https://technical.ly/2020/01/13/artificial-intelligence-ai-can-now-read-emotions-should-it-ethics-machine-learning-hiring/
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Jakarta Post
-  domain: thejakartapost.com
+  name: Technical
+  domain: technical.ly
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.4D225586E88D0D7C2C48EE5DDEE1F148
+  - url: https://www.bing.com/th?id=ON.07862218D70F1E6B68757CDB8B58C178
     width: 700
-    height: 468
-    title: "AI can now read emotions. Should it?"
+    height: 417
+    title: "AI can now read emotions — should it?"
 
 related:
   - title: "AI can now read emotions – should it?"
@@ -42,6 +40,6 @@ related:
         width: 700
         height: 326
 
-secured: "xnIA6xSi9k1xy5CsWzxYGGigDNC1IWlSpjvbqcuPCOU9aYhkPhL18R86LdS96wd+gTdCI/lfWviOdy4ZeKmSkBca/O3TQfvk1AptUMD+Puo7ACzxNs+gSDAANAEyeKhk+i0IC3c5LU540a0OmstOgkBq+3zKKG1aZVHBN5oYyMe3O/DN/4to9rZXxkoV8Ogbo/cz+CNdDg3mla3Ou1h2MxmHW/GwiM1i2Jk9vBZL/UbylTWwbsSi0uwyUQgpq+MRhC6d5KsFRtd5gi1FTE67uw==;+mKy+4Nu1qV3MFi/64aJTQ=="
+secured: "/u8fpC27X87EzX3hHRL4h9z5RYsOudtJjlTW8qb1G4jkpJDef7zLEkqhU1MzSIki546ZCAbrekB/4PCQ5rNRFnRLzzD7h1JU557Hv9Xoon2XY338Cd1YsdWQPNQZGIkRFvZbSUpxXC8rwvhRB/aEO+EriN16NQ8CTbsAyeh3cv7pHYeKjSKsLSSDlQOphGUbdHTx9Rc+mlDu2iYv9sML73h1+LoiJOQPDtirF4odyNN1RAwsPZIztFyfZlOXNbYR3Yd05CIgafGHl8uPyfLQ4Q==;uJRqTGo4b11zaQ6/4SU55g=="
 ---
 

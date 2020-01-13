@@ -8,7 +8,7 @@ ampUrl: https://mspoweruser.com/oracle-and-microsoft-expand-their-partnership-to
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/oracle-and-microsoft-expand-their-partnership-to-canada/amp/
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Microsoft and Oracle Expand Interoperability Partnership to Canada"
-    excerpt: "For example, using the interconnect makes it possible to connect Azure services like analytics and AI to Oracle Cloud services like Autonomous Database. Together, Azure and Oracle Cloud offer customers a one-stop shop for all the cloud services and applications they need to run their entire business. From a technical perspective, the ..."
-    publishedDateTime: 2019-12-24T14:38:00Z
-    sourceUrl: https://www.hpcwire.com/off-the-wire/microsoft-and-oracle-expand-interoperability-partnership-to-canada/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.24BA367CCC9080EAB19F98C97D60E30C
-        width: 405
-        height: 228
 
 secured: "mNNz2poGsAzpaTKTnX5M3xO4yFJDpZUtlNlxTW3wsUN/tLxKMnAGTV/q90Kwjc8MdwkqnUEpiztYZu9D6fUmgtY1F2Euwrtn5kc0+Fgs85BAlxGgH+Ceh4lWYh4oe0Em9vvJctgEimZpMlFIkuSMPwMF4lq6KIc79V9A1YCgCGJTVwbZ/G7bT38WyY2ckch8gCqtMqJ66fsqt+w5XcrBS/0+MJ4Vg9IWz2dQAoMnj/ut5n8L9/sXyoX0q8h8kqNU5qpbyt0Wgt7IaQPbh+kNGA==;aInYRzWiMb8XgBhi5AWCBA=="
 ---

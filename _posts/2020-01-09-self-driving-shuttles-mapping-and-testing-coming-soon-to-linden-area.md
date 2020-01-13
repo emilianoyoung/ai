@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.87190AF3CE74EA6A8AF5000872184A94
         width: 700
         height: 393
+  - title: "Dating apps need women. Advertisers need diversity. AI companies offer a solution: fake people"
+    excerpt: "Another company says it’s moving past AI-generated headshots and into the generation of full, fake human bodies as early as this month. The AI software used to create such faces is freely available and improving rapidly, allowing small startups to easily create fakes that are so convincing they can fool the human eye. The systems train on ..."
+    publishedDateTime: 2020-01-13T14:31:00Z
+    sourceUrl: https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/
+    ampUrl: https://www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-a-solution-fake-people/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.0BBF51DB029F22A0A64F10F790FD1033
+        width: 700
+        height: 449
   - title: "Artificial Intelligence Offers Companies a New Way to Fake Diversity"
     excerpt: "Most companies will do anything to promote diversity short of implementing the systemic changes required to become diverse. And for brands looking to appear diverse without doing any of the pesky work of becoming diverse, AI-generated images offer all the appearances of including POC and women without the headache of including living humans in ..."
     publishedDateTime: 2020-01-07T18:53:00Z

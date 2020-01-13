@@ -39,34 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.366056A15FB0553FB1FDE21C5145002D
         width: 700
         height: 367
-  - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
-    excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are ..."
-    publishedDateTime: 2020-01-13T12:55:00Z
-    sourceUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.html
-    ampUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.604FCB2F18EC4FC86D9E9057584C8359
-        width: 700
-        height: 466
-  - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
-    excerpt: "&quot;Super-recognisers&quot; who can identify a range of ethnicities could help increase fraud detection rates at passport control and decrease false conviction rates  that have relied on CCTV."
-    publishedDateTime: 2020-01-10T16:56:00Z
-    sourceUrl: https://news.yahoo.com/facial-recognition-research-reveals-abilities-163751845.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 38
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/8g2pnQ7xr0NaCiMhAd8Oog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk5MjtoPTY2Mg--/https://s.yimg.com/uu/api/res/1.2/EeyXJUXxXkc9wsjmIfL6xQ--~B/aD0zMzE7dz00OTY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_conversation_464/0ad38afc2290b149552566f7319b3825
-        width: 496
-        height: 331
   - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z

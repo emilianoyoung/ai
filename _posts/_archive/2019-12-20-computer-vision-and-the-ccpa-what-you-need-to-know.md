@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-20T00:00:00Z
 sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 69
+published: true
 
 provider:
   name: Medium
@@ -27,49 +27,6 @@ images:
     height: 744
     title: "Computer Vision and the CCPA: What You Need to Know"
 
-related:
-  - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
-    excerpt: "Laura Baldwin: I think they're not sure where to start. And you know, we just did a survey not too long ago. We surveyed our whole audience around artificial intelligence (AI) in the enterprise and what they needed to know about it. And the reality is 73% of the respondents in that study were either trying to figure it out or believed that it ..."
-    publishedDateTime: 2019-12-24T14:27:00Z
-    sourceUrl: https://www.techrepublic.com/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
-    ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 75
-    images:
-      - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
-        width: 700
-        height: 525
-  - title: "What is the Procedure to Start a FinTech Company?"
-    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
-    publishedDateTime: 2019-12-29T02:05:00Z
-    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
-    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
-        width: 670
-        height: 352
-  - title: "What Is the COPE Strategy to Manage Trauma Triggers?"
-    excerpt: "Artificial Intelligence is a branch of computer science where computers are trained to mimic ... Practice COPE to manage triggers as they arise. You may also want to try aroma therapy such as lavender or eucalyptus oil to quickly reduce a stress response. The smell goes to the olfactory nerve which is located in the mid-brain which processes ..."
-    publishedDateTime: 2019-12-31T06:59:00Z
-    sourceUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers
-    ampUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
-    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 26
-
-secured: "YyK0EnOz7JIm34dZexhufzFcnU75pH6KvzSRqhHWxRwau0YLXOX3i9ID8O9ZVP32zyIX9iFTdAwa6SfKYfuUQ4hqGNy8TqIWtsdaefS/7M9kBa4cmcoxPzYqoF4thxKx5xpeB9ZRWzRP2dGxtAzYWYIIwHJdakTa/R7MyE/+E2oRFok8/etuQslUMOTNGm8+fDWWRb+qLZ63WkHwLx4bVkNXnZ6DBWOUiCMDqslO/7VXj2kMwZoWWhF7zBn8Wt1K3HrtK5jb/Wmosy7y81n/1w==;dkuvzy3MnjnIoRoqqk8YOg=="
+secured: "/I8ijBZ5a6rNmKCZ25dfWbtSTVmt3pXKnTY3xLoHY63JB19wGqMQouicQBU0wqWbj0GCLxiCI70e6IKgk/NrGJCCn1svFqPL9dK+64ISbKjSziVDa34RYXiPwWUcsu3UTlh6sAjHY07lIfN0INN6nlrWlbLpptndGJv83bfvaTmQ/UOO5R3VJRUC3PXfU9k4TQMmo3W/BmwL8/V7d/vavTVNTN+Hk7/RJ8Vqv+SGEwVvX5fuHOR2IvHjJ73bti9U6CHpFYZCFV8nEQRU5/g08A==;XobjHgWNqT9KlOaLbJKPHQ=="
 ---
 

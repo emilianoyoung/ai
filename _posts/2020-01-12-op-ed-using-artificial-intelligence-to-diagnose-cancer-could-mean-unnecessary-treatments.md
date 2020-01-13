@@ -173,6 +173,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BE7CE91D3105F07CD0A6D803E94366AC
         width: 700
         height: 350
+  - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
+    excerpt: "AI could intervene directly to improve personalized health care and product development. Importantly, the health management platform precedes the leveraging of AI, so we must equally invest in cybersecurity, Big Data, cloud computing, and blockchain. Artificial intelligence for Africa presents opportunities to put the continent at the forefront ..."
+    publishedDateTime: 2020-01-13T15:16:00Z
+    sourceUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/
+    ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 50
+    images:
+      - url: https://www.bing.com/th?id=ON.3FCFB42FA1C8025BF4F915C7BA67DA16
+        width: 700
+        height: 440
   - title: "Artificial intelligence, machine learning will contribute $1 trillion to Indian economy: Piyush Goyal"
     excerpt: "Artificial intelligence and machine learning will contribute USD 1 trillion by 2035 and this is a good beginning ... Hub by NSE will strengthen and empower those working in the BFSI sector and will benefit investors and the financial services to give world class services through knowledge, innovation and value-addition."
     publishedDateTime: 2020-01-06T10:16:00Z

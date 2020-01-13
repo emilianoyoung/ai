@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Cigna Ventures Invests in Two Breakthrough Companies to Accelerate Digital Health Innovation and Connect Customers to Care Anywhere, Anytime"
-excerpt: "/PRNewswire/ -- Cigna Ventures, a strategic corporate venture capital partner and wholly owned indirect subsidiary of Cigna Corporation (NYSE: CI),"
-publishedDateTime: 2020-01-13T13:05:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-300985200.html
+excerpt: "Cigna Ventures, a strategic corporate venture capital partner and wholly owned indirect subsidiary of Cigna Corporation (NYSE: CI), today announced it has invested in two breakthrough digital health companies,"
+publishedDateTime: 2020-01-13T15:15:00Z
+sourceUrl: https://finance.yahoo.com/news/cigna-ventures-invests-two-breakthrough-140500133.html
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: https://www.bing.com/th?id=ON.893C9B704D2D24BEFD1118B9C7BBD7BD
-    width: 600
-    height: 314
-    title: "Cigna Ventures Invests in Two Breakthrough Companies to Accelerate Digital Health Innovation and Connect Customers to Care Anywhere, Anytime"
-
-secured: "m/0/sUEJZ5KYsvp0oWceKjnABY1huRQUQCYt/w1VT+4xlRkXMa9wM+braTB9gJFF9R6TyDf6OzvbTUzWZNgh9M9xbFvWuiFTHFqSbTOngwsyewuWYbz+XhGX7n7OEQ2qNeK2ic+jFWOmDCzw2qUysCLk9jN2YF3LJyUdbEqBGKsuPJYv78XBcARo8dcQpsMM4yw6ICjjMa+DVjyycHEFm+z/jgYpvkd6ARHezw2hWRPUEnjxFQcfEo2jGO+CeGKZ7UsuMd08QyPPhrnGKxE98A==;qUk8pc46Wqw7r6O+uQkd6A=="
+secured: "kRXy2V99CqxEkZtZy9p+a5XEQlkAr4d1bDYe7WI3YjpMOnPZV1xrepLRX/X0XJD+M6IKdk9iD3exEszxysVrAjpvbba/feF2++G6jAAu/Jd2Y8EpFJQn0u3RdLPaZAsG9Mg/BPP6W3A4dhqk6DhYygbwODGDP0gRY0aT7YzpcDZahD0S1H2n7b9X6+gTctzAiTMiSaJ71/pu3VKpbVk0aVkSYMzk0KXwtNYBLFx4CHAKiCEskRD7k4e/o+gswdCFYn4hGSUoEVLXaKnFknCIRw==;+N9dbV4oCeV7FdcWKDl+TA=="
 ---
 

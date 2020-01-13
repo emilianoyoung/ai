@@ -84,6 +84,6 @@ related:
       domain: eurekalert.org
     quality: 19
 
-secured: "RlY1kYJs4zHDTWF8DAuoealtDnNXg6DlBlteh7H10CHly0SUGYBY04k1vXaAHNoHTqTPtCD6SwKJfFqGd27FTJk6mO4RYcegQU6CVZ+m1vTaKyUxfPF+Bzmb2V69AQE/qxyfEONHp1SgxHTiJO4TibAhmmWvsG42UaK7sIojxJtr4XxMKvuBwOBYo0WecJN89gywkh64LhE+8YVbKMCGii8vkO8/yjX39DvWbNDpP487ylUXXbCPdhxgD7M1bM4QPuSZXuHeX3CnDxd560NqSA==;DRPBTg+fjfpJpjq4oDoD4Q=="
+secured: "DVV2jrcx7uw2hIb+nqSRT9hU/tH1HmUY4uBINYK6JDss27pS1Sg0z4eeb2Q4b/kaofBeCX/Uq2L10J6SGtfVUytdftikOscONPPZN2wmKNtXKnrH4IcmBtkXCPlvlmT7/EYpKbG9i7h/Nw0Zg5p11vPEjLYGGIxwFkpkmj4zLavRsbLbzrXHNKZKVbdSgJKG9gPZh9X/t3dzcvyz9uPNjPyRl9drQYCydqbBJKe8Lp1inRj4dgEine9ET+0OFZosdrX3NzZ5xx0uZAkfKGMS2g==;MBgP4hCrEveXUs435OFGaw=="
 ---
 

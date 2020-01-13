@@ -25,6 +25,19 @@ images:
     height: 338
     title: "Newer data sets are convincing firms to migrate to the cloud: Navdeep Manaktala"
 
+related:
+  - title: "What Is the COPE Strategy to Manage Trauma Triggers?"
+    excerpt: "Artificial Intelligence is a branch of computer science where computers are trained to mimic ... Practice COPE to manage triggers as they arise. You may also want to try aroma therapy such as lavender or eucalyptus oil to quickly reduce a stress response. The smell goes to the olfactory nerve which is located in the mid-brain which processes ..."
+    publishedDateTime: 2019-12-31T06:59:00Z
+    sourceUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers
+    ampUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 26
+
 secured: "NtblnqA+JrXa7O4iSV03TQWvyUpQoIIlGKXThGBnJYzsue8InwmitbYy2nt59JsYfBusbyvWJh0/jPtPCvbX6ZFRSsoS9gk7InleNJmLipoiQXoQQBFBaq6b6PpUVVstK+F86qdJZXHmrCXDImt/HhYgc5U9iFBxul4ismISxwMLOCCnJ8Z5Rj56wP05CHEDAn6xFpauUpWX7p04jm2ZrR0oZbtWt5IyOzqu3cqwDx1oAD9SYaMT4BRLNAYufnvV8IXomtlfd49gxwI0M0L9dQ==;xMXHdIKZArtyxK4D1PsQOQ=="
 ---
 

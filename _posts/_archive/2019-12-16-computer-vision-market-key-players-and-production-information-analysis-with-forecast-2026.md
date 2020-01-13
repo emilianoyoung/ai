@@ -46,27 +46,7 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-24T14:37:00Z
-    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
 
-secured: "TKb5PpGaL/DtKiptKzx3Op2zhg0V6FtkVfBvYNd8f+pDxVfbxEbWZ1ADehii2wRUwFPt0xYYH+fSgJ0UMeXE6zi/go+VDxAYKC+5otKlyCrMHFjucfppAZptnMQ0Eh/c9EaE9xFsETqcIffzd6rYiIXQa/O5lcS0xZ3LkcWHL/BbpoiUjHM4R8KfpRA8cQlmwpcZXKE1aU6iyXOH02B6wJ7/3780wTk6l95xWdNGjwcTRyPUhrEsLXFbKRtw1PGBYhhyjALq3Qtd37zrom7U4w==;dMceZ5KTbedPK+pjzBzxxg=="
+secured: "xh+TzZwHfw5d6antUsA11XI1qswIawrmXRahO4kBA96GeQc5Ysd4V8EG9SeVAITk+1zyPy1HR9xYdzaWz7La2y+CWUZl8wnuMRBkUTNN/V/adxR3ISul12yEhGwC4eIh/QHnzCHp2+BamqliCeI41S8ilxfyqyaHu4hjeRCZumapQte+g3JJ34UcI/+O/997lpOvDjHPCyE+ov0+g24V+yYkUXPd7cfR/VmFfS4/GFRplgQJh5J+NDlRPEsoe723A5YxbpIS/n4Bgi1yseYzZQ==;jQJn6B2EOKIuNRGdhd8W1Q=="
 ---
 

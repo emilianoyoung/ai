@@ -30,21 +30,6 @@ images:
     title: "Tesla's latest update adds a full self-driving visualization preview, better voice commands, and more"
 
 related:
-  - title: "First look at Tesla’s ‘Full Self-Driving Sneak Preview’"
-    excerpt: "Now that Tesla started pushing its holiday update to the fleet, we get our first look at what Elon Musk called Tesla’s “Full Self-Driving Sneak Preview.” Last week, the CEO announced that Tesla is working on a “holiday update” that would include a “Full Self-Driving sneak preview,” new video games, and “a few more things.”"
-    publishedDateTime: 2019-12-24T14:25:00Z
-    sourceUrl: https://electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/
-    ampUrl: https://electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/amp/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.E7D02C6B98985FA7CC62B0B5C6A57F1D
-        width: 700
-        height: 337
   - title: "Podcast: Tesla Holiday Update, Self-Driving ‘Sneak Preview’, Rivian news, and more"
     excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla’s massive ‘Holiday Update’, the Full Self-Driving ‘Sneak Preview’, some big news from Rivian, and more. The Electrek Podcast is me, Fred Lambert, editor-in-chief of Electrek, and Seth Weintraub ..."
     publishedDateTime: 2019-12-27T16:48:00Z
@@ -58,34 +43,6 @@ related:
     quality: 83
     images:
       - url: https://www.bing.com/th?id=ON.ABFD9041F80618DD471187B9574C1116
-        width: 700
-        height: 393
-  - title: "Tesla's holiday FSD preview shows a Neural Net that's improving very quickly"
-    excerpt: "These jokes, while lighthearted, show Tesla’s all-in bet on Elon Musk’s idea that a suite of cameras and a Neural Network are enough to teach a fleet of vehicles how to drive autonomously. Unlike self-driving companies such as Waymo and Cruise, Tesla is intent on not using LiDAR, a component that is pretty much ubiquitous among firms ..."
-    publishedDateTime: 2019-12-24T19:34:00Z
-    sourceUrl: https://www.teslarati.com/tesla-holiday-update-fsd-preview-neural-net-improvements/
-    ampUrl: https://www.teslarati.com/tesla-holiday-update-fsd-preview-neural-net-improvements/amp/
-    cdnAmpUrl: https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-holiday-update-fsd-preview-neural-net-improvements/amp/
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.668834CD84ADBCB4928D300E65012FC1
-        width: 700
-        height: 420
-  - title: "Uber will build a self-driving test track in the Pittsburgh area"
-    excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
-    publishedDateTime: 2019-12-27T12:53:00Z
-    sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
         width: 700
         height: 393
 

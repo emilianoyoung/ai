@@ -24,21 +24,21 @@ images:
     title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
 
 related:
-  - title: "Anger over use of facial recognition at south Wales football derby"
-    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
-    publishedDateTime: 2020-01-12T14:05:00Z
-    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
-    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
-    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+  - title: "New York school district's facial recognition raises privacy concerns"
+    excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
+    publishedDateTime: 2020-01-13T15:45:00Z
+    sourceUrl: https://www.pressofatlanticcity.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_e15c88f0-99a5-590a-a263-29aec19f7734.html
+    ampUrl: https://www.pressofatlanticcity.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_e15c88f0-99a5-590a-a263-29aec19f7734.amp.html
+    cdnAmpUrl: https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_e15c88f0-99a5-590a-a263-29aec19f7734.amp.html
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.366056A15FB0553FB1FDE21C5145002D
+      - url: https://www.bing.com/th?id=ON.284C8786B7422CA2FB4207A20D851247
         width: 700
-        height: 367
+        height: 393
   - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
     excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are ..."
     publishedDateTime: 2020-01-13T12:55:00Z
@@ -54,45 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.604FCB2F18EC4FC86D9E9057584C8359
         width: 700
         height: 466
-  - title: "Worldline presents biometric facial recognition payment solution at NRF 2020"
-    excerpt: "Worldline has developed in partnership with OneVisage, winners of Worldline’s e-Payments Challenge, a biometric facial recognition payment solution which will be showcased next week at NRF Retail’s big show 2020, the company announced. The first of its kind, the company claims, the pay-with-your-face solution leverages 3D facial biometrics ..."
-    publishedDateTime: 2020-01-06T19:18:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/worldline-presents-biometric-facial-recognition-payment-solution-at-nrf-2020
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.AD789EBB814D1DA3749A04811D0099E7
-        width: 700
-        height: 394
-  - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
-    excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
-    publishedDateTime: 2020-01-08T18:31:54Z
-    sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-to-deter-troublemakers-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
-    type: article
-    provider:
-      name: Wales Online on MSN.com
-      domain: msn.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
-        width: 600
-        height: 315
-  - title: "Juniper Research: Facial Recognition Hardware to Feature on over 800m Mobiles by 2024, but Software Will Win Out"
-    excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment ..."
-    publishedDateTime: 2020-01-07T07:20:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200106005813/en/Juniper-Research-Facial-Recognition-Hardware-Feature-800m
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
-    images:
-      - url: https://mms.businesswire.com/media/20200106005813/en/601531/23/JR_Logo_Final_RGB_300px.jpg
-        width: 1200
-        height: 627
 
 secured: "kJo0dQlH4DK3gg7Be2VQpu+aNYg/PWcUdRIwjbXcOvG9KAEzRZOSb5loc2unmM9yli7UnMteCbdrmqmDDuJXD0+TTOTVghPBcJmt9KmFxNgjDUb6HKJ46pncEJm/lDZ2+joLRdm/g10HqTau6N9Ce70+7oqqbT6mMw6oFv/VO0TRV40fpBlk0PNSo7BN4ztzgoNQI37H4RsHwRmRNkJA11vx9Dc85R3u9cc/Ui842qOOptHpC5gUmRHfWp4NIW02c5xe1dZTt6QvivM//uqR0g==;UDz1ApynOpCmhRAEozO3WA=="
 ---

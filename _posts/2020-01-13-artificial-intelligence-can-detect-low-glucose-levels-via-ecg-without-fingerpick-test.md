@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E6A04CFACD8D24198C320C0141868D04
         width: 700
         height: 525
+  - title: "Sensors and AI spot low blood sugar without needles"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Personalized therapy based on the new system could be more effective than current approaches. “The performance of AI algorithms trained over ..."
+    publishedDateTime: 2020-01-13T15:45:00Z
+    sourceUrl: https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DCECEDF40462081F77E6D67F20F3797B
+        width: 700
+        height: 400
 
 secured: "qkA0BTRTKOZL3YiAu7DQOaRpEfS9obd5uqjNlZYeogG7He0mRpV89bM2QJ/N9OTlXgWjf+5sJHx338ooqg9jBpbjPVdIe9zVx3Fa9iOfNUFprFm8WRpnh/gA6O1yy5bbfvewQ0d382LQE6XR37sz3gq5DWj0czD8MnrcUU+nhb0vM3ZTiKxpRzV/26k1/ZGAImOBwvxIYk0R8k2zM1GXxaRwT1oEMItbZC6vWRfcxgLRtfHF9bz2wxupfK1Syu1suG4+51VRlPWa92ZXf3qXCQ==;UmjaftshiYqVZEuCdEo8ig=="
 ---

@@ -26,21 +26,19 @@ images:
     title: "AI can now read emotions – should it?"
 
 related:
-  - title: "AI can now read emotions. Should it?"
+  - title: "AI can now read emotions — should it?"
     excerpt: "As the AI Now report highlights: “Despite the increase in AI ethics content … ethical principles and statements rarely focus on how AI ethics can be implemented and whether they’re effective.” It notes that such AI ethics statements largely ignore questions of how, where, and who will put such guidelines into operation. In reality ..."
-    publishedDateTime: 2020-01-13T04:04:00Z
-    sourceUrl: https://www.thejakartapost.com/life/2020/01/13/ai-can-now-read-emotions-should-it.html
-    ampUrl: https://www.thejakartapost.com/amp/life/2020/01/13/ai-can-now-read-emotions-should-it.html
-    cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/01/13/ai-can-now-read-emotions-should-it.html
+    publishedDateTime: 2020-01-13T15:41:00Z
+    sourceUrl: https://technical.ly/2020/01/13/artificial-intelligence-ai-can-now-read-emotions-should-it-ethics-machine-learning-hiring/
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 59
+      name: Technical
+      domain: technical.ly
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.4D225586E88D0D7C2C48EE5DDEE1F148
+      - url: https://www.bing.com/th?id=ON.07862218D70F1E6B68757CDB8B58C178
         width: 700
-        height: 468
+        height: 417
 
 secured: "hh93tSaP3/MrP2CRIiL34jADdeBsW93XjtTpYBP8c84cNQlgzyY5OOsM/rZAE4t13/3HkkuKjCGeLgcIyaR2Ht9yNF8QhvPrx499dlIIlPg1+mbB653o2Up2wV6nDtKbi8Po8k6udEt2eMtVQ5bFfdjlUzyn67xRG+iQ80vLZRTW0nebJcRHwJvCFoOz8HZKl1dBmigharTwDi+GfeiMkWQ/1a0EsGunJ9H5j0RKsfISKmPnoPpw4wJCXv94h8Wp3CXuwJBStTcagGyYVx/MSQ==;AZthsOnxb0RB0H+t7JRYrw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -63,16 +52,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 10
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-24T14:37:00Z
-    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
 
-secured: "VxC/Umy7vqUi4bsvsPD1xfsPovL8ew/gmq+B+caSh+9+G1HDGR9cvhJ+eGdLrLMUomAMtu4+Pgpfi93hUZUc60c3AAWGqTTtQzkmpHwMPOf4kUOpIzYcRf1rR1pZV8UN0dmNhnSk0Pco27UjhpbKzKra05G8fggLIOj+8QwrrIu6IuphpD3Vxtpgv0yx93a5mTb0DacBtSw9cVo85CdiG37RylnvGuCndyxyUBW2ALtVd3goAADxvarbH36N56FYFHsLrqs2WklCgdUOztS0gg==;4py93vfq0tTWhp8VOKjoRA=="
+secured: "nsaR9Wlq67Y18a2Z7tqyeLLzq1o0QZm3OgeveTzaXV6h002RVcdLV5kF49y4ks4k05LO2raMSvFc5hK19LjxZKc5N71xNRDG4EwpbyMkPme0brJJMe1EyqDc6gnc+HX5KLns1HnprsrF3PeJSLliFAvUvW5vAcz0wZ1bAHmBly63dazxf1PSk+KRClnihsan17BDV6rOmTF94HzvljjlaTmhX4nGOXKkIq/slA88GWY1vmt6efAaUxE6pQ2GiQmk6RLH0vtfzNs55klHXhp6RA==;VCoFHbycmBSjOIfZ38S5zA=="
 ---
 

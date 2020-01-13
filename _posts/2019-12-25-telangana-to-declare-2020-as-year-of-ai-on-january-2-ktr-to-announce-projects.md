@@ -25,19 +25,21 @@ images:
     title: "Telangana to declare 2020 as ‘Year of AI’ on January 2, KTR to announce projects"
 
 related:
-  - title: "Rwanda to allocate 2020 budget to projects focused on robotics and blockchains"
-    excerpt: "The Rwandan ministry of ICT and Innovation will allocate part of its 2020 budget to new projects focusing on technologies such as blockchain, robotics, artificial intelligence (AI) and big data initiatives. Confirming this on Monday, 23 December 2019, in Kigali, Rwandan minister of ICT and Innovation, Paula Ingabire, said the planned investment ..."
-    publishedDateTime: 2019-12-24T14:15:00Z
-    sourceUrl: https://www.politicalanalysis.co.za/rwanda-to-allocate-2020-budget-to-projects-focused-on-robotics-and-blockchains/
+  - title: "For Telangana, 2020 will be year of artificial intelligence"
+    excerpt: "Our Bureau With a view to promoting enterprises working on artificial intelligence solutions and taking leadership in this emerging technology space, the Telangana government has decided to observe 2020 as the Year of AI. Telangana IT Minister KT Rama Rao will formally make the announcement on January 2 here, declaring 2020, the Year of AI ..."
+    publishedDateTime: 2019-12-25T15:35:00Z
+    sourceUrl: https://www.thehindubusinessline.com/news/national/for-telangana-2020-will-be-year-of-artificial-intelligence/article30396929.ece
+    ampUrl: https://www.thehindubusinessline.com/news/national/for-telangana-2020-will-be-year-of-artificial-intelligence/article30396929.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/for-telangana-2020-will-be-year-of-artificial-intelligence/article30396929.ece/amp/
     type: article
     provider:
-      name: politicalanalysis.co.za
-      domain: politicalanalysis.co.za
-    quality: 65
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.AEBF31322104BABB2F4198ED3504DB46
-        width: 700
-        height: 466
+      - url: https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
 
 secured: "+8jafaPBEHgtIGfgKQftpnT3NVMbTF0al7LQy5IYW84dDWhAMTHPHsMK+pl1G7DOhTJ6aBsdRn3H+CQD3+CIT7ep2aajYwz1EnXxOQJ1f4kpZpcAVUpXNy/vB3rb2vdMUZTJSBZkwjcBhiH8UFdIzetc9Fy1NgyekGyTPUpZqsKQHOCfNjzb6e+kgljPt0VRTS1MVUoofE31KOTJcIzdWTgSyp2CekSMibx5jUtVK0BBtfGlG7KkaxC49S20RXM+GirnJneFsutt/GsgFSn2FQ==;2xe/BJZXLRPqR1KMcDSS3A=="
 ---

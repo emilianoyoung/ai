@@ -158,6 +158,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BE7CE91D3105F07CD0A6D803E94366AC
         width: 700
         height: 350
+  - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
+    excerpt: "AI could intervene directly to improve personalized health care and product development. Importantly, the health management platform precedes the leveraging of AI, so we must equally invest in cybersecurity, Big Data, cloud computing, and blockchain. Artificial intelligence for Africa presents opportunities to put the continent at the forefront ..."
+    publishedDateTime: 2020-01-13T15:16:00Z
+    sourceUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/
+    ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 50
+    images:
+      - url: https://www.bing.com/th?id=ON.3FCFB42FA1C8025BF4F915C7BA67DA16
+        width: 700
+        height: 440
   - title: "Op-Ed: Using artificial intelligence to diagnose cancer could mean unnecessary treatments"
     excerpt: "The new decade opened with some intriguing news: the journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
     publishedDateTime: 2020-01-12T11:07:00Z

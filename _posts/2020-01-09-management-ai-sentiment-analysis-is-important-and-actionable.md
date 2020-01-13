@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/davidteich/2020/01/09/management-ai-sentime
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/01/09/management-ai-sentiment-analysis-is-important-and-actionable/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Management AI: Sentiment Analysis Is Important And Actionable"
 
 related:
+  - title: "AI's impact on UN goals for climate, development and global stability is analyzed for first time"
+    excerpt: "Artificial intelligence (AI) represents a powerful but double-edged sword as nations confront global warming, poverty and issues of peace and justice. An international team of scientists this week released a first-ever study of how AI can help—as well as hinder—sustainable development worldwide. Published today in Nature Communications ..."
+    publishedDateTime: 2020-01-13T15:03:00Z
+    sourceUrl: https://phys.org/news/2020-01-ai-impact-goals-climate-global.html
+    ampUrl: https://phys.org/news/2020-01-ai-impact-goals-climate-global.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-ai-impact-goals-climate-global.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.97D3830B45430B5A74FC7ABD8F018E78
+        width: 700
+        height: 407
   - title: "Analyze sentiment using the ML.NET CLI"
     excerpt: "Learn how to use ML.NET CLI to automatically generate an ML.NET model and underlying C# code. You provide your dataset and the machine learning task you want to implement, and the CLI uses the AutoML engine to create model generation and deployment source code, as well as the binary model. In this tutorial, you will do the following steps ..."
     publishedDateTime: 2020-01-04T22:45:00Z

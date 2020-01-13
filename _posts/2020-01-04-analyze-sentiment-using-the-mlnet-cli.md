@@ -43,6 +43,21 @@ related:
       - url: https://www.bing.com/th?id=ON.01CDD0A8C6581A1105158946C434C62A
         width: 600
         height: 315
+  - title: "AI's impact on UN goals for climate, development and global stability is analyzed for first time"
+    excerpt: "Artificial intelligence (AI) represents a powerful but double-edged sword as nations confront global warming, poverty and issues of peace and justice. An international team of scientists this week released a first-ever study of how AI can help—as well as hinder—sustainable development worldwide. Published today in Nature Communications ..."
+    publishedDateTime: 2020-01-13T15:03:00Z
+    sourceUrl: https://phys.org/news/2020-01-ai-impact-goals-climate-global.html
+    ampUrl: https://phys.org/news/2020-01-ai-impact-goals-climate-global.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-ai-impact-goals-climate-global.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.97D3830B45430B5A74FC7ABD8F018E78
+        width: 700
+        height: 407
 
 secured: "86M/vI4AjZQ0HptXnRom1F8hEln8tRXrrXzMGMsALLbmpU+kn6ZjNjzgfHYlEqBwbIXIxGZ55nKZhqA93wkn48XLVVPIh8/6MhtCnBdBz2FZLfrSvZRU3SAcCdas0gDScd1Q++ib6HpWXi9JsjA0IHJfIDL92W80GLH8L0d5wMOTpQCfgDVtnNz6VuWVOsyqeZw+Sc9+4jiDlxUBeps4fOLrd9i3CRgMLTKv+6f+1w/YOB6CWm6yClqWoosCnixNimgnc2uxZHtQcsz48sAk2g==;B4n5i2wvBC3Pw5Q4vP+tSQ=="
 ---

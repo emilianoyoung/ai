@@ -21,49 +21,21 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
-    excerpt: "Laura Baldwin: I think they're not sure where to start. And you know, we just did a survey not too long ago. We surveyed our whole audience around artificial intelligence (AI) in the enterprise and what they needed to know about it. And the reality is 73% of the respondents in that study were either trying to figure it out or believed that it ..."
-    publishedDateTime: 2019-12-24T14:27:00Z
-    sourceUrl: https://www.techrepublic.com/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
-    ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
+  - title: "Newer data sets are convincing firms to migrate to the cloud: Navdeep Manaktala"
+    excerpt: "If you look at Freshworks (a SaaS firm), they have built an artificial intelligence (AI) model for each customer that they work with to reduce the response time in terms of customer support. This capability is built on AWS. With the boom in data, how is your content delivery networks (CDNs) service coming into play in India? A CDN is typically ..."
+    publishedDateTime: 2019-12-29T18:07:00Z
+    sourceUrl: https://www.livemint.com/companies/people/newer-data-sets-are-convincing-firms-to-migrate-to-the-cloud-navdeep-manaktala-11577642365420.html
+    ampUrl: https://www.livemint.com/companies/people/newer-data-sets-are-convincing-firms-to-migrate-to-the-cloud-navdeep-manaktala/amp-11577642365420.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/newer-data-sets-are-convincing-firms-to-migrate-to-the-cloud-navdeep-manaktala/amp-11577642365420.html
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 75
+      name: Mint
+      domain: livemint.com
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
-        width: 700
-        height: 525
-  - title: "Computer Vision and the CCPA: What You Need to Know"
-    excerpt: "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
-        width: 1200
-        height: 744
-  - title: "What is the Procedure to Start a FinTech Company?"
-    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
-    publishedDateTime: 2019-12-29T02:05:00Z
-    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
-    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
-        width: 670
-        height: 352
+      - url: https://www.bing.com/th?id=ON.F372938898A2046B7FB6B9DC8C7D8FB6
+        width: 600
+        height: 338
 
 secured: "w3dqJ3DqDUw6bjxGcw78ZhU2j5URV7aDToeB3bTM7+w7I+gJ7daTIs6v1kD0Hs6s8X0ZW4NFEEf4/O4z/+Oz5ZXfmFiKhY9zdDRyE6YKQa/7VbL9EMj/7YLc2TLMSjD/rfoVvH/BdhWQHSCkWZqqH5QTry5I1IDCe3e4F1RrHls3G7tw230qaRKrjuA+lGwJFNTMVw8qJDARvChbWnNg+aYOfb6L4dVZlqiVmuUOsDX/dlK2PhC1vTu9IiKA9HgSEDa9IxVR4rkjCGK/XTnBRA==;jwI0iDMAL13XcONWyKjMmA=="
 ---

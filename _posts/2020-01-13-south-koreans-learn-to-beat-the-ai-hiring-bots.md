@@ -42,6 +42,19 @@ related:
       - url: https://www.bing.com/th?id=ON.22C0E6F3657CFDEED89A2F539A5022BD
         width: 700
         height: 466
+  - title: "How AI is vetting jobseekers in South Korea"
+    excerpt: "AI is already widely used by many companies' human resources departments to help in selecting candidates, ranging from spotting plagiarism in resumes to checking how candidates react in certain situations."
+    publishedDateTime: 2020-01-13T15:05:00Z
+    sourceUrl: https://www.reuters.com/video/watch/idOVBW0IU7B
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.23F1889CACE1F9B9CA23A0D01BB5FC0C
+        width: 700
+        height: 393
   - title: "South Korean tech giants to showcase more AI robots"
     excerpt: "At the Consumer Electronics Show kicking off on Tuesday (Jan 7) in Las Vegas, South Korean tech leaders will demonstrate how their robots can live together with humans and what roles they will play, blending artificial intelligence into people’s everyday life at their exhibition booths in the Las Vegas Convention Center (LVCC). Samsung ..."
     publishedDateTime: 2020-01-06T09:30:00Z

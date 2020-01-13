@@ -54,6 +54,19 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
+  - title: "Sensors and AI spot low blood sugar without needles"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Personalized therapy based on the new system could be more effective than current approaches. “The performance of AI algorithms trained over ..."
+    publishedDateTime: 2020-01-13T15:45:00Z
+    sourceUrl: https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DCECEDF40462081F77E6D67F20F3797B
+        width: 700
+        height: 400
   - title: "Artificial Intelligence can detect low-glucose levels via ECG without fingerpick test"
     excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: “The differences ..."
     publishedDateTime: 2020-01-13T10:43:00Z

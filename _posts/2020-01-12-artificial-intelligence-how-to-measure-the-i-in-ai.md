@@ -164,6 +164,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BE7CE91D3105F07CD0A6D803E94366AC
         width: 700
         height: 350
+  - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
+    excerpt: "AI could intervene directly to improve personalized health care and product development. Importantly, the health management platform precedes the leveraging of AI, so we must equally invest in cybersecurity, Big Data, cloud computing, and blockchain. Artificial intelligence for Africa presents opportunities to put the continent at the forefront ..."
+    publishedDateTime: 2020-01-13T15:16:00Z
+    sourceUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/
+    ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 50
+    images:
+      - url: https://www.bing.com/th?id=ON.3FCFB42FA1C8025BF4F915C7BA67DA16
+        width: 700
+        height: 440
   - title: "Op-Ed: Using artificial intelligence to diagnose cancer could mean unnecessary treatments"
     excerpt: "The new decade opened with some intriguing news: the journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
     publishedDateTime: 2020-01-12T11:07:00Z
@@ -260,6 +275,6 @@ related:
         width: 160
         height: 90
 
-secured: "DoMlvejr1LgjVRFPGUoIAdo03GQGlGDI5YY77Wz6YcuyKIWOBFi/zLjW1d8laiFA1IHRR3Eh5ZK7xe31LFAiuMmsDvScUZdvecoEo1vR49AgUrymDTfsjswBfeOAb+sQ2zZJYwHFCNojpTnXsQsYuIOHMmq5n7yEVAH5CJ+hMOfwmf7ELJ1wBBfgEmPD914Wihl7HG5mwDLuiOvoH4a44u5kAqlWd9Jxc1VTEJlsbIXyuW5uKPi/0rB7DZ59Bvpe2qt6PII6y9MLv+AJ4AfkLQ==;ObVnE+11yChpztYOjF4Bgg=="
+secured: "A+fOBXcG27WP9SeXB3PlcrdOjTuG9Xd22eWWA2yWo/iSml3nUnxQFmSZg4SJ++crTVI3bvSllF4ThvZM3Y56JXnN/BYChk6JkjFlJoeHaHkTScys7YolFNlGigGcbUsFZT/uxjYaiVYDb/VXjos223kFsKqVVqgWaJnOUHs1qPRslecbi+e3L+hVNs8l2NoBL1Kgz2q3cKXgBg04ECY1HK7y6X1ytyY9umHJWpY4RwBzLU38UHfQhe0BwbpVYKk59grG7egm8yiGvosPfLTVyQ==;hdwIgHHAdaZFNbJAAfP+Qg=="
 ---
 
