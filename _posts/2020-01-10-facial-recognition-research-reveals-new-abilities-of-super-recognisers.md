@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.284C8786B7422CA2FB4207A20D851247
         width: 700
         height: 393
-  - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
-    excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are ..."
-    publishedDateTime: 2020-01-13T12:55:00Z
-    sourceUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.html
-    ampUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.604FCB2F18EC4FC86D9E9057584C8359
-        width: 700
-        height: 466
 
 secured: "kJo0dQlH4DK3gg7Be2VQpu+aNYg/PWcUdRIwjbXcOvG9KAEzRZOSb5loc2unmM9yli7UnMteCbdrmqmDDuJXD0+TTOTVghPBcJmt9KmFxNgjDUb6HKJ46pncEJm/lDZ2+joLRdm/g10HqTau6N9Ce70+7oqqbT6mMw6oFv/VO0TRV40fpBlk0PNSo7BN4ztzgoNQI37H4RsHwRmRNkJA11vx9Dc85R3u9cc/Ui842qOOptHpC5gUmRHfWp4NIW02c5xe1dZTt6QvivM//uqR0g==;UDz1ApynOpCmhRAEozO3WA=="
 ---

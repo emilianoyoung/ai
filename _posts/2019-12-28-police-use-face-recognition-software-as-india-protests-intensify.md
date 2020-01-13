@@ -917,19 +917,6 @@ related:
       - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
         width: 600
         height: 315
-  - title: "Federal study finds racial bias of many facial-recognition systems"
-    excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
-    publishedDateTime: 2019-12-24T16:06:00Z
-    sourceUrl: https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12296532
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
-        width: 700
-        height: 465
   - title: "Study finds bias in facial-recognition technology"
     excerpt: "A recent study by the Commerce Department's National Institute of Safety Standards and Technology (NIST) found that facial-recognition technology is more likely to error on African American, Asian and Native American subjects than it is on Caucasians. The results are likely to boost concerns among privacy advocates about bias in facial ..."
     publishedDateTime: 2020-01-02T23:50:00Z

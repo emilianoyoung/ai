@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
-    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and ..."
     publishedDateTime: 2019-12-24T11:15:00Z
     sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
     type: article
@@ -33,7 +33,16 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
-secured: "ak0KKZrpIcEgl3ORIYPe8Qfp+pZX6ELUFOtC31y4aKh/+KOv3iLZSBQ0v9UHv9iAirp/vSkDPddwhlYvPgNwR1JNdlr66m9QzEVxeMZEO8mTz2b7B8gkSFvQ3jWxnbGFiWUDFt3peXQaAvR2cX6Z26HDLdSQTUbV9bKbMDE/jqubNbttLC6azh0jykMTQDMswahubQ6+WYn4ngsZzTOoIlRqZXDlnz56eOdidYdKPGj6MJ9+DDOxTstzvEPx/H0X3eypuh/cKhECdWeDIYKZvQ==;zdCIb1LUzvIgYRKDRs4axA=="
+secured: "05HFyp/gtAzVxdFl+l+XAJa1QxY2TOhmn2N/70zaFbnFspUdKJ483xnrvAzTKXVrHtXxe/bdNAFR7mfn2XkYocFYb6MVupQEBwkjmDxgjLwTD/d4gSVpfkS35mwDHja5sDaMZegmKVZhQlDhMDZiNxB5ZDMESejkJ9KiXdFFcTjWpg/nOJCyDfRJfurr+nJXIubYapOYckxrX8wSAY949SwF1mq88Vhz2bcoDcx7Bzw1OPqx4IAn0mDzD8fkQIJ290j3oN/GusJpAkBj8awsWg==;uKnzO0oZQdIc950yH5lfHw=="
 ---
 

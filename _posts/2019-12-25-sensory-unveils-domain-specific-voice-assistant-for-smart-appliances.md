@@ -24,21 +24,6 @@ images:
     title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
 
 related:
-  - title: "Sensory Teams With Appliance OEMS For Smart Voice Platform"
-    excerpt: "With a specialized model of its TrulyNatural vocabulary speech-recognition and natural-language-understanding platform, Silicon Valley firm Sensory unveiled the release of its domain-specific assistant for smart appliances. The technology will help manufacturers make a new wave of smart kitchen appliances that don’t send voice requests to the ..."
-    publishedDateTime: 2019-12-24T16:13:00Z
-    sourceUrl: https://www.pymnts.com/voice-activation/2019/sensory-teams-with-appliance-oems-for-smart-voice-platform/
-    ampUrl: https://www.pymnts.com/voice-activation/2019/sensory-teams-with-appliance-oems-for-smart-voice-platform/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/voice-activation/2019/sensory-teams-with-appliance-oems-for-smart-voice-platform/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.FF08B68207E7580BAEAADB926DF87989
-        width: 457
-        height: 305
   - title: "Sensory To Launch New Voice Assistant Tech For Smart Appliances"
     excerpt: "Users who make voice commands can ensure that their voice requests are never stored on the device. This new technology runs on Sensory’s vocabulary speech recognition and natural language understanding platform, TrulyNatural. “There are certain products where having a cloud-connected voice assistant capable of playing music, checking the ..."
     publishedDateTime: 2019-12-26T06:10:00Z
@@ -67,6 +52,32 @@ related:
       - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
         width: 700
         height: 388
+  - title: "Listening in? How voice assistants lost their innocence in 2019"
+    excerpt: "It's important that humans intervene to gauge whether the voice assistant’s interpretation of requests is accurate, and to train its speech recognition and natural language processing algorithms, a machine-learning practice known as \"supervised learning.\" Simply providing general input data and then letting the software learn on its own isn't ..."
+    publishedDateTime: 2019-12-30T04:10:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/30/listening-in-how-voice-assistants-lost-their-innocence-in-2019
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9FE6CFF7EB58FC71650CF1D4AF8BBDAC
+        width: 700
+        height: 524
+  - title: "CES: New tech to give appliances voice-controlled interface"
+    excerpt: "Released by Sensory, a Silicon Valley company pioneering AI at the edge, it is a specialised model of TrulyNatural, the company’s large-vocabulary speech recognition and natural language understanding platform. Voice adoption in consumer electronics continues to gain significant traction, but as more voice-enabled products powered by cloud ..."
+    publishedDateTime: 2020-01-01T22:11:00Z
+    sourceUrl: https://gadget.co.za/ces-new-tech-to-give-appliances-voice-controlled-interface/
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.5E5640C69DE22E5E99A4DE446A43E0AE
+        width: 615
+        height: 324
 
 secured: "bo5saymGvHvJGJPctTtVAvlz185XYTVd9rnRHs+w2uUcJbaziKSwx7NV9So56/djuNbFJ8FY3B6t6MfqMR2UedZvtBvVqrlHV2St6zFKip+1TwhAoWEUjNC1XLro7eZkTObm7V1YkT/zO9+RrKWAPHFkdcSLd6E3cramTlzmiWvfz1Nc/f1KUggF1PBnZxIqJHHxMEpEcDoVt8NM9VFmHl5OH5JCUeqvCDR/St3icTbK0dljQDcsSGXdEoFaNr4E3zB9+5knevChgng8CiNG6w==;qXSDqH2jHu8FaxBEBQEQ9w=="
 ---

@@ -26,34 +26,103 @@ images:
     title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
 
 related:
-  - title: "New York school district's facial recognition raises privacy concerns"
-    excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
-    publishedDateTime: 2020-01-13T15:45:00Z
-    sourceUrl: https://www.pressofatlanticcity.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_e15c88f0-99a5-590a-a263-29aec19f7734.html
-    ampUrl: https://www.pressofatlanticcity.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_e15c88f0-99a5-590a-a263-29aec19f7734.amp.html
-    cdnAmpUrl: https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_e15c88f0-99a5-590a-a263-29aec19f7734.amp.html
+  - title: "Facial recognition could take over, one 'convenience' at a time"
+    excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what the world would be like if facial recognition is everywhere. \"Hello, Alfred,\" said a measured, robotic voice, startling me. It came from a kiosk ..."
+    publishedDateTime: 2020-01-10T13:04:00Z
+    sourceUrl: https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/
+    ampUrl: https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
     type: article
     provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.284C8786B7422CA2FB4207A20D851247
+      - url: https://www.bing.com/th?id=ON.2C953B65CE73943F4E032F4DF1B348F9
         width: 700
-        height: 393
-  - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
-    excerpt: "&quot;Super-recognisers&quot; who can identify a range of ethnicities could help increase fraud detection rates at passport control and decrease false conviction rates  that have relied on CCTV."
-    publishedDateTime: 2020-01-10T16:56:00Z
-    sourceUrl: https://news.yahoo.com/facial-recognition-research-reveals-abilities-163751845.html
+        height: 525
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
+    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 38
+      name: Mashable
+      domain: mashable.com
+    quality: 76
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/8g2pnQ7xr0NaCiMhAd8Oog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk5MjtoPTY2Mg--/https://s.yimg.com/uu/api/res/1.2/EeyXJUXxXkc9wsjmIfL6xQ--~B/aD0zMzE7dz00OTY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_conversation_464/0ad38afc2290b149552566f7319b3825
-        width: 496
-        height: 331
+      - url: https://www.bing.com/th?id=ON.8C342A103904B414ED1D7EC9E777DA51
+        width: 700
+        height: 367
+  - title: "Anger over use of facial recognition at south Wales football derby"
+    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
+    publishedDateTime: 2020-01-12T14:05:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.366056A15FB0553FB1FDE21C5145002D
+        width: 700
+        height: 367
+  - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
+    excerpt: "Don’t look now, but facial recognition is about to become a big part of smart homes. Facial-recognition technology built into cameras offers the promise of greater security and personalization, but it is also a potential privacy nightmare. And it’s about to become a huge part of smart homes. Imagine that as you walk into your house ..."
+    publishedDateTime: 2020-01-11T18:19:00Z
+    sourceUrl: https://www.tomsguide.com/features/facial-recognition-smart-home
+    ampUrl: https://www.tomsguide.com/amp/features/facial-recognition-smart-home
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/features/facial-recognition-smart-home
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.4BB7A977116E70D5DFBD615B431496F5
+        width: 700
+        height: 481
+  - title: "Maybe Third Time’s the Charm for Facial Recognition Vote"
+    excerpt: "A proposal that would ban use of facial recognition technology was first voted on by the Portland, Maine, City Council in November. They voted to postpone. On Monday, the council voted unanimously to postpone again, this time until June. (TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal ..."
+    publishedDateTime: 2020-01-07T22:26:00Z
+    sourceUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html
+    ampUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "APSU’s Science on Tap returns Jan. 7 with talk on facial recognition technology"
+    excerpt: "Last August, all New York City police officers received a text message with the name and photo of a suspected terrorist. The man had caused a panic that morning by leaving suspicious objects – rice cookers – on a Manhattan subway platform."
+    publishedDateTime: 2020-01-06T20:22:40Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/apsu-e2-80-99s-science-on-tap-returns-jan-7-with-talk-on-facial-recognition-technology/ar-BBYFJFt
+    type: article
+    provider:
+      name: The Leaf-Chronicle (Clarksville) on MSN.com
+      domain: msn.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.D1B01DC764E4126A77861362472347F3
+        width: 600
+        height: 315
+  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
+    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
+    publishedDateTime: 2020-01-11T10:15:00Z
+    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
+        width: 480
+        height: 332
 
 secured: "IrTx1AJyJf1qSXxunC8C+Gd6UKEWkcQtkNkhsq0BVcic2DovPaPlwEak2H2DV7CjlsETFClUVzmb5W195UlbbCsCyVBsGvjL2/ykTTjQ85HTj5r+GZKetIj0qPZ7wr+XLHU7ytleaXhdAHnOnS4JZqtoU3CvWz+FC461BIdJna9rNTXNY4YBOWof+EIbiMdvsJGRw2yRc8QXuWR54FUVdKsMGkuigQJba37AHX7X7LJogiPN1HCKGPi4H6a4OfZ+T1Bsafn5fbyciz1o8UkJTQ==;mGUHBMICcYAVRDz9NvT3vw=="
 ---

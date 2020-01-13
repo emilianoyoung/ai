@@ -149,6 +149,19 @@ related:
       - url: https://www.bing.com/th?id=ON.13027A3ADB02745E792FA6E368C3AC06
         width: 649
         height: 365
+  - title: "Artificial Intelligence and Machine Learning"
+    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
+    publishedDateTime: 2020-01-13T17:47:00Z
+    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.13F1E840B77617E20DD29E2F2B5A53C8
+        width: 700
+        height: 484
   - title: "Reimagining the future of travel and hospitality with artificial intelligence"
     excerpt: "Over the years, the influence of artificial intelligence (AI) has spread to almost every aspect of the travel and the hospitality industry. Thirty percent of hospitality businesses use AI to augment at least one of their primary sales processes, and most customer personalisation is done using AI. The proliferation of AI in the travel and ..."
     publishedDateTime: 2020-01-13T10:57:00Z
@@ -275,6 +288,6 @@ related:
         width: 160
         height: 90
 
-secured: "Ql2Trh+NImHNJ6jxqOTlSwefTDQvZW4/T7ng8Pys7fCUjP4hwmpD4ZxXe4jaYLDqFAoe7CskOuZCsYhrpZwBEBiVzICyW1w6CXYRQ9BzbB7tpw25mQ4ok4YWdtebiqsJDwaH+g33uEZgvo99c9FUppLYvLANhkwITt/zGV90XrJDB7kL9Kgc0vdmna9QyMUZ3amxzxt174uAG6uH3KWehSTcXgs4OKW9j0NZrdGUgRTNJXA0Um7tHxhbqjErp57EIaNlG1+CYB1AzmIfzjv0fg==;XzoiPP1OLzvRUHFmx5lNSg=="
+secured: "ithbHzfKWbtY3+dM1aTZvYfS8+XMSvnDNpZhOG+owpDTLvUdsFqA81AP1neiUitMxNBnR42scjbkq2pS1qc3fe8jSTZUBEDI8nIfycmgEXnReOTr3a+RwobnbZzCC/aFRGGgPI5My/4ylaO3UXyP9ACFUX/6aAtWv+8x00KXGCwxQKI5WVkXdT2qUBSHJOVANVn63Nzks25MQ0R6paqrBbQVddA72jOtJtIoV6juVCLRc1aUJu0zhzt111c3q+PRXWEkp5gIXVe/Ed+CorxijQ==;Vu9XB8k49dLdmo7NthZVMw=="
 ---
 

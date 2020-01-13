@@ -8,7 +8,7 @@ ampUrl: https://www.pressofatlanticcity.com/news/trending/new-york-school-distri
 cdnAmpUrl: https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_e15c88f0-99a5-590a-a263-29aec19f7734.amp.html
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "New York school district's facial recognition raises privacy concerns"
 
 related:
-  - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
-    excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are ..."
-    publishedDateTime: 2020-01-13T12:55:00Z
-    sourceUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.html
-    ampUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.604FCB2F18EC4FC86D9E9057584C8359
-        width: 700
-        height: 466
   - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
     excerpt: "&quot;Super-recognisers&quot; who can identify a range of ethnicities could help increase fraud detection rates at passport control and decrease false conviction rates  that have relied on CCTV."
     publishedDateTime: 2020-01-10T16:56:00Z

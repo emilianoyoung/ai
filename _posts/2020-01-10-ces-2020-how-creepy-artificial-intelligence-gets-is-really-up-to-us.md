@@ -143,6 +143,19 @@ related:
       - url: https://www.bing.com/th?id=ON.96CF28EFB8634143492CCB333890EFE7
         width: 700
         height: 393
+  - title: "Artificial Intelligence and Machine Learning"
+    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
+    publishedDateTime: 2020-01-13T17:47:00Z
+    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.13F1E840B77617E20DD29E2F2B5A53C8
+        width: 700
+        height: 484
   - title: "Reimagining the future of travel and hospitality with artificial intelligence"
     excerpt: "Over the years, the influence of artificial intelligence (AI) has spread to almost every aspect of the travel and the hospitality industry. Thirty percent of hospitality businesses use AI to augment at least one of their primary sales processes, and most customer personalisation is done using AI. The proliferation of AI in the travel and ..."
     publishedDateTime: 2020-01-13T10:57:00Z

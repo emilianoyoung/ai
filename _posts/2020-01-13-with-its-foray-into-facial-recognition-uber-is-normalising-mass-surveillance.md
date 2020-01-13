@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BD50F2118F2E2D398647702F67C9A692
         width: 700
         height: 366
-  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
-    publishedDateTime: 2020-01-09T14:42:00Z
-    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
-    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.8C342A103904B414ED1D7EC9E777DA51
-        width: 700
-        height: 367
   - title: "City Employee Claims SDPD Hid Information on Facial Recognition Program"
     excerpt: "In a report to the city’s Fraud Hotline, a former city employee accuses the San Diego Police Department of failing to release information regarding facial recognition to city council, the media and the public A former city of San Diego employee claims the San Diego Police Department attempted to hide information about its use of facial ..."
     publishedDateTime: 2020-01-13T00:15:00Z
@@ -228,17 +213,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
         width: 600
         height: 315
-  - title: "Maybe Third Time’s the Charm for Facial Recognition Vote"
-    excerpt: "A proposal that would ban use of facial recognition technology was first voted on by the Portland, Maine, City Council in November. They voted to postpone. On Monday, the council voted unanimously to postpone again, this time until June. (TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal ..."
-    publishedDateTime: 2020-01-07T22:26:00Z
-    sourceUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html
-    ampUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "Germany’s plans for automatic facial recognition meet fierce criticism"
     excerpt: "An alliance between civil society and politcians are opposing the (alleged) government plans to expand the automatic facial recognition system across the country, notably because the scurrently available technology remains underdeveloped and could lead to so-called \"false positives\". Foto: Stefanie Loos [CC-BY 2.0/STEPHANIE LOOS]"
     publishedDateTime: 2020-01-10T10:02:00Z
@@ -278,19 +252,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6E44457506BC036E850D8E69B4B52210
         width: 700
         height: 393
-  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
-    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
-    publishedDateTime: 2020-01-11T10:15:00Z
-    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
+  - title: "Sensory Does Voice Recognition Without the ‘Net"
+    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
+    publishedDateTime: 2020-01-13T17:25:00Z
+    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 28
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 26
     images:
-      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
-        width: 480
-        height: 332
+      - url: https://www.bing.com/th?id=ON.38827D8C71B2B8C8B9E48890AA662E78
+        width: 700
+        height: 466
   - title: "Area teachers earn national recognition"
     excerpt: "DiBrango said in the release. “To become certified, these teachers have demonstrated not just that they know their subject areas, but that they know their students, the challenges they face and how to help them grow. These educators are proof that teaching makes a difference.”"
     publishedDateTime: 2020-01-07T15:57:00Z

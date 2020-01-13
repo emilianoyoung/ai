@@ -39,19 +39,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "APSU’s Science on Tap returns Jan. 7 with talk on facial recognition technology"
-    excerpt: "Last August, all New York City police officers received a text message with the name and photo of a suspected terrorist. The man had caused a panic that morning by leaving suspicious objects – rice cookers – on a Manhattan subway platform."
-    publishedDateTime: 2020-01-06T20:22:40Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/apsu-e2-80-99s-science-on-tap-returns-jan-7-with-talk-on-facial-recognition-technology/ar-BBYFJFt
-    type: article
-    provider:
-      name: The Leaf-Chronicle (Clarksville) on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.D1B01DC764E4126A77861362472347F3
-        width: 600
-        height: 315
   - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
     excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
     publishedDateTime: 2020-01-09T13:00:00Z

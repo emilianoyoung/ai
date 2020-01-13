@@ -8,8 +8,8 @@ ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -26,45 +26,103 @@ images:
     title: "Anger over use of facial recognition at south Wales football derby"
 
 related:
-  - title: "Worldline presents biometric facial recognition payment solution at NRF 2020"
-    excerpt: "Worldline has developed in partnership with OneVisage, winners of Worldline’s e-Payments Challenge, a biometric facial recognition payment solution which will be showcased next week at NRF Retail’s big show 2020, the company announced. The first of its kind, the company claims, the pay-with-your-face solution leverages 3D facial biometrics ..."
-    publishedDateTime: 2020-01-06T19:18:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/worldline-presents-biometric-facial-recognition-payment-solution-at-nrf-2020
+  - title: "Facial recognition could take over, one 'convenience' at a time"
+    excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what the world would be like if facial recognition is everywhere. \"Hello, Alfred,\" said a measured, robotic voice, startling me. It came from a kiosk ..."
+    publishedDateTime: 2020-01-10T13:04:00Z
+    sourceUrl: https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/
+    ampUrl: https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.AD789EBB814D1DA3749A04811D0099E7
+      - url: https://www.bing.com/th?id=ON.2C953B65CE73943F4E032F4DF1B348F9
         width: 700
-        height: 394
-  - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
-    excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
-    publishedDateTime: 2020-01-08T18:31:54Z
-    sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-to-deter-troublemakers-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
+        height: 525
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
+    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
     type: article
     provider:
-      name: Wales Online on MSN.com
-      domain: msn.com
-    quality: 29
+      name: Mashable
+      domain: mashable.com
+    quality: 76
     images:
-      - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
+      - url: https://www.bing.com/th?id=ON.8C342A103904B414ED1D7EC9E777DA51
+        width: 700
+        height: 367
+  - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
+    excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are ..."
+    publishedDateTime: 2020-01-13T12:55:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.html
+    ampUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.604FCB2F18EC4FC86D9E9057584C8359
+        width: 700
+        height: 466
+  - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
+    excerpt: "Don’t look now, but facial recognition is about to become a big part of smart homes. Facial-recognition technology built into cameras offers the promise of greater security and personalization, but it is also a potential privacy nightmare. And it’s about to become a huge part of smart homes. Imagine that as you walk into your house ..."
+    publishedDateTime: 2020-01-11T18:19:00Z
+    sourceUrl: https://www.tomsguide.com/features/facial-recognition-smart-home
+    ampUrl: https://www.tomsguide.com/amp/features/facial-recognition-smart-home
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/features/facial-recognition-smart-home
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.4BB7A977116E70D5DFBD615B431496F5
+        width: 700
+        height: 481
+  - title: "Maybe Third Time’s the Charm for Facial Recognition Vote"
+    excerpt: "A proposal that would ban use of facial recognition technology was first voted on by the Portland, Maine, City Council in November. They voted to postpone. On Monday, the council voted unanimously to postpone again, this time until June. (TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal ..."
+    publishedDateTime: 2020-01-07T22:26:00Z
+    sourceUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html
+    ampUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "APSU’s Science on Tap returns Jan. 7 with talk on facial recognition technology"
+    excerpt: "Last August, all New York City police officers received a text message with the name and photo of a suspected terrorist. The man had caused a panic that morning by leaving suspicious objects – rice cookers – on a Manhattan subway platform."
+    publishedDateTime: 2020-01-06T20:22:40Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/apsu-e2-80-99s-science-on-tap-returns-jan-7-with-talk-on-facial-recognition-technology/ar-BBYFJFt
+    type: article
+    provider:
+      name: The Leaf-Chronicle (Clarksville) on MSN.com
+      domain: msn.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.D1B01DC764E4126A77861362472347F3
         width: 600
         height: 315
-  - title: "Juniper Research: Facial Recognition Hardware to Feature on over 800m Mobiles by 2024, but Software Will Win Out"
-    excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment ..."
-    publishedDateTime: 2020-01-07T07:20:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200106005813/en/Juniper-Research-Facial-Recognition-Hardware-Feature-800m
+  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
+    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
+    publishedDateTime: 2020-01-11T10:15:00Z
+    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 28
     images:
-      - url: https://mms.businesswire.com/media/20200106005813/en/601531/23/JR_Logo_Final_RGB_300px.jpg
-        width: 1200
-        height: 627
+      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
+        width: 480
+        height: 332
 
 secured: "if/sqvFYnMBI4e3QFZbkUK9S3kVlx1l8L3nPPrSiIeG6Ja0ZnEsp4f2Z8YUtY/KsbPoIZ79D7UCQFvuPQfsCo84m2LB494BTqIgbp7ig6cgI63/OxPtefThfFkbEoEJp5MyZH/VTCmI1y7wNsqsg/pvy34QPiGwLJWukFp8I1U5AIvOB2Ru7wBTAtmxFBPYR0K/EnxwcOfS+/NycB6XvRY39klh07g1YyPJSv+VHkEfOeyH4bStRWfAf1koWO9Yqgf5kzK0yr/ove6gqDGf5Sg==;suQ2UWClGyAZ8bP3Lw36ug=="
 ---

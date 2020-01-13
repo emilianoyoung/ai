@@ -158,6 +158,19 @@ related:
       - url: https://www.bing.com/th?id=ON.13027A3ADB02745E792FA6E368C3AC06
         width: 649
         height: 365
+  - title: "Artificial Intelligence and Machine Learning"
+    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
+    publishedDateTime: 2020-01-13T17:47:00Z
+    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.13F1E840B77617E20DD29E2F2B5A53C8
+        width: 700
+        height: 484
   - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
     excerpt: "AI could intervene directly to improve personalized health care and product development. Importantly, the health management platform precedes the leveraging of AI, so we must equally invest in cybersecurity, Big Data, cloud computing, and blockchain. Artificial intelligence for Africa presents opportunities to put the continent at the forefront ..."
     publishedDateTime: 2020-01-13T15:16:00Z

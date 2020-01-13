@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Big Boom In AI Software medicine Market That Everyone Want to know It | Enlitic, Atomwise, DeepMind, Babylon Health and more"
-excerpt: "DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi, Freenome, GNS Healthcare, Olive, Ada Health, Clarify Health Solutions, Sight Diagnostics Get Sample PDF(Including Full TOC, Table)@ https ..."
+excerpt: "DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi, Freenome, GNS Healthcare, Olive, Ada Health, Clarify Health Solutions, Sight Diagnostics Get Sample PDF(Including Full TOC, Table)@ https://www.theresearchcorporation.com/request-sample.php?id=48925 Artificial intelligence (AI) in ..."
 publishedDateTime: 2019-12-24T06:45:00Z
 sourceUrl: https://www.openpr.com/news/1884336/big-boom-in-ai-software-medicine-market-that-everyone-want-to-know
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI
   - Google AI
 
-secured: "TCwJYBfLAq4rFDziJE4zbpX0shcDT9a5FODYh2yR1YRP6JMaz7v+bEAoYd+YWJPnFFQnJf25b2qz5zuwONRsFMm1YDxMcg7/quNoPNdnizRADseJ4a61thrsS7/mlf/++tzeChmyLeuzxT5mGeSYYTiIpQuXeau7tUhDUBvbm7O0DVL7goOF7sGK4bVXW0sKq2/SB+SVp2hCkYCuewWthAtB1P41o+U6VywXI/upAEqy1UeG+kT2Hv/ghNG2v5GoRytl3RqcahCSe6vUnsXRsQ==;RBsQblhmCEWY4yitMGz0cw=="
+secured: "fYqZ09sC6o6FpHMdSNuSHdqT4wWEbu3WHP0wCmpp3mIBZlVjV7YvspiXD4E/4R39DcIMS/jEC8SEBd/2RmPCB1qy0bpG56uu5dBPsZ+kkDyZZFfhptnhdUYG55w9us7ZD+JHXwaikjfvmojnz5bA9gs79N9IS2UI7G3lopQOpnooeBqg4lZMTcFJSFzL+1AwBzOcKD2ylBumN01cpECvKMEYeHbfskuza9te7rQghJ2++0h5TiiBQiyDdoZO043Wsu5M2zBX5f5XzfjHG6GPXw==;q0m6IAvZ5+pECcUQwPpDww=="
 ---
 

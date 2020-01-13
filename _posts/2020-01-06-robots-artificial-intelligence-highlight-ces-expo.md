@@ -2,25 +2,25 @@
 category: news
 title: "Robots, artificial intelligence highlight CES expo"
 excerpt: "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)"
-publishedDateTime: 2020-01-06T20:36:00Z
-sourceUrl: https://uk.news.yahoo.com/robots-artificial-intelligence-highlight-ces-201446850.html
+publishedDateTime: 2020-01-06T19:33:00Z
+sourceUrl: https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Finger Lakes Times
+  domain: fltimes.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.B810E608EAACA391F14C45813D06CDE9
+  - url: https://www.bing.com/th?id=ON.FD1643A9EA6F2EBEE198FE0B1D4F55C0
     width: 700
-    height: 393
+    height: 525
     title: "Robots, artificial intelligence highlight CES expo"
 
 related:
@@ -40,6 +40,6 @@ related:
         width: 700
         height: 393
 
-secured: "8O2CJ3LWJWjiof/FETWMJOCz84u4Crdn7GJDYE09243vksnTzy3p3YNXAI5htVMZswq7isjH73wzUFhyIMzSEgzbj7XcHboZcHnksaZs+G88AFUjshGyZXA/EUL5TBxdSDMsS1nNmr3JkDplGDOEtVCgdUKvHcjGSOWBoJ+gvgr7dvOUMqDQLOTegbuvcHExSuXxM02qWBPDC9+VMlmSlZp70FFjQpldqvN2EXzTgcZGROQfGR6/PbljrJrZzSEd7jb9cUsgjTQWIa45XYJCOg==;AZJu38FtdXqbLgp7iV9CdQ=="
+secured: "vUJtblGD9UMjU4ALKaXaPbiit+Yc80DQGc4CE5oZnSh9aL345diotB4UOqgAHQso9afl0CkYkjykp+e0MOqZiG6LYafAsuBDJb2JgeNpW1vxCHcaaWr4DRYMq8QvXqlAKtZEXYvVVjJEJlu5FFcAL30Uw9fjiNxAlvElcTLKk4q1G7MHfVLea0dt8G+mdn3xOxGW0QyzforedeP5zfYkeeFnWZDd5/f0uNJHeldwPXIh0AWwA1Sb3BklcB3zcQ0PrFFcvdBfbramiox21mP+NQ==;3hcqjcVLN8zVXWGifFOd4w=="
 ---
 

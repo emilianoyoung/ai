@@ -52,19 +52,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "APSU’s Science on Tap returns Jan. 7 with talk on facial recognition technology"
-    excerpt: "Last August, all New York City police officers received a text message with the name and photo of a suspected terrorist. The man had caused a panic that morning by leaving suspicious objects – rice cookers – on a Manhattan subway platform."
-    publishedDateTime: 2020-01-06T20:22:40Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/apsu-e2-80-99s-science-on-tap-returns-jan-7-with-talk-on-facial-recognition-technology/ar-BBYFJFt
-    type: article
-    provider:
-      name: The Leaf-Chronicle (Clarksville) on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.D1B01DC764E4126A77861362472347F3
-        width: 600
-        height: 315
   - title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
     excerpt: "Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice recognition, machine translation, and voice synthesis technologies. Jarvisen has an instant response rate of less than .5 seconds as well as a built in 2-year global data plan for coverage in ..."
     publishedDateTime: 2020-01-08T19:10:00Z

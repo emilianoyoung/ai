@@ -15,8 +15,8 @@ provider:
 
 topics:
   - AI
-  - AI in Robotics
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
@@ -317,6 +317,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "DhulS8H5toPdf5IN7tozWfSAq67Diudh9ADrYIwbxJB47zLfEd0rxPs6c+Ji8n7/KdxBS3Mo6E3QIp/jjiSd+m80zU+dfyFkhjWfE+TkD2BU6k3MBcMQCrbmQFtc+2jvv219feyf9bJo2iGaMTRXxihhkVdX3KfbiO3nZUHGLKIFsfSn56qSu1Kd1mz/8yOEDZ27mU1WgjKf6WVq1BsvD/C0cMKrrLmFZ9rtSY7vZaGco06qpZn/pyAeT1yc7EXUMPuuzPKNqfS8qAMUoVWXmA==;y+xID6e8of+azTmFtOTyDw=="
+secured: "HFeVu7ixd/O4CM5OZVw9mxv2WKOJYViYqZBT2teew8fENj763VchIgnhrUTh5xDJnO2j27ki54Z0fzuFM6fs3wIolMBo6+L53fFxQOiiJvzDrWouYA6vikl8WbL4fIaEt65o6/oCgaeD9YEmCetxL42DRI7g4X44O2t9G5QzZnfqYeozPjRS4de29TXYpVKsBdjrUt7rKAAbladI18DUaU1oKl7NXoLtKEKSYqV2i1O6DB/fXx+2o1YVlauLHuY0Z8NGHC0ogWQ9UH6aQqJklA==;pkgMKXNLM07G43cpCMzZHw=="
 ---
 

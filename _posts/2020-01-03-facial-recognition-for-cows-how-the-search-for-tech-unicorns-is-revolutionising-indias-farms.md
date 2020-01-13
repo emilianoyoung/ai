@@ -904,19 +904,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
         width: 700
         height: 389
-  - title: "Federal study finds racial bias of many facial-recognition systems"
-    excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
-    publishedDateTime: 2019-12-24T16:06:00Z
-    sourceUrl: https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12296532
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
-        width: 700
-        height: 465
   - title: "Police Use Face-Recognition Software as India Protests Intensify"
     excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
     publishedDateTime: 2019-12-28T05:22:56Z

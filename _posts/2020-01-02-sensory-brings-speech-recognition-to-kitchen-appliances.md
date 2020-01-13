@@ -24,19 +24,6 @@ images:
     title: "Sensory Brings Speech Recognition to Kitchen Appliances"
 
 related:
-  - title: "CES: New tech to give appliances voice-controlled interface"
-    excerpt: "Released by Sensory, a Silicon Valley company pioneering AI at the edge, it is a specialised model of TrulyNatural, the company’s large-vocabulary speech recognition and natural language understanding platform. Voice adoption in consumer electronics continues to gain significant traction, but as more voice-enabled products powered by cloud ..."
-    publishedDateTime: 2020-01-01T22:11:00Z
-    sourceUrl: https://gadget.co.za/ces-new-tech-to-give-appliances-voice-controlled-interface/
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.5E5640C69DE22E5E99A4DE446A43E0AE
-        width: 615
-        height: 324
   - title: "CES: New tech to give appliances voice interface"
     excerpt: "Released by Sensory, a Silicon Valley company pioneering AI at the edge, it is a specialised model of TrulyNatural, the company’s large-vocabulary speech recognition and natural language understanding platform. Voice adoption in consumer electronics continues to gain significant traction, but as more voice-enabled products powered by cloud ..."
     publishedDateTime: 2020-01-02T22:07:00Z

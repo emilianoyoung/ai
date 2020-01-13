@@ -70,19 +70,6 @@ related:
       name: IT Pro Portal
       domain: itproportal.com
     quality: 54
-  - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
-    excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
-    publishedDateTime: 2019-12-24T16:25:00Z
-    sourceUrl: https://towardsdatascience.com/this-area-of-game-theory-can-help-reinforcement-learning-to-scale-to-infinite-agents-7c775a528726
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.C2B89F543D6FD361DF8446E3E4B8654D
-        width: 700
-        height: 288
 
 secured: "7Lyf1LJck5RKxMPM5CRyUT3+DlyWoXh+CI9Kqnoy7L+34ahY7s0yg5D82YuALx3Nku33yKRpVNOSRqtTeXlUy2mXiCcdzy8Zj/42MNEtFuqLdXLZP1u5mtddMeH1cDhrd5u5Hm7ZqMSBguT3FGGFSwp19UewN2GNN7U/fYunVsyKUPwfuZYQQxbqZhcVxHqKWSjRxZOXujlsVEdIUcnaWcXYLosYUJD4gZXn4bjRC3LwbcAuAwn3quJNN3BL/QIZ1FcejhtOr38vKzAxsf2U9w==;128PQX8fGFFjJPNA0/5ViQ=="
 ---
