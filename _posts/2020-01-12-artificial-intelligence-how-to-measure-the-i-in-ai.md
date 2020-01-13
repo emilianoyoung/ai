@@ -162,21 +162,6 @@ related:
       - url: https://www.bing.com/th?id=ON.13F1E840B77617E20DD29E2F2B5A53C8
         width: 700
         height: 484
-  - title: "Reimagining the future of travel and hospitality with artificial intelligence"
-    excerpt: "Over the years, the influence of artificial intelligence (AI) has spread to almost every aspect of the travel and the hospitality industry. Thirty percent of hospitality businesses use AI to augment at least one of their primary sales processes, and most customer personalisation is done using AI. The proliferation of AI in the travel and ..."
-    publishedDateTime: 2020-01-13T10:57:00Z
-    sourceUrl: https://yourstory.com/2020/01/future-travel-hospitality-artificial-intelligence-technology
-    ampUrl: https://yourstory.com/2020/01/future-travel-hospitality-artificial-intelligence-technology/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/future-travel-hospitality-artificial-intelligence-technology/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.BE7CE91D3105F07CD0A6D803E94366AC
-        width: 700
-        height: 350
   - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
     excerpt: "AI could intervene directly to improve personalized health care and product development. Importantly, the health management platform precedes the leveraging of AI, so we must equally invest in cybersecurity, Big Data, cloud computing, and blockchain. Artificial intelligence for Africa presents opportunities to put the continent at the forefront ..."
     publishedDateTime: 2020-01-13T15:16:00Z
@@ -288,6 +273,6 @@ related:
         width: 160
         height: 90
 
-secured: "ithbHzfKWbtY3+dM1aTZvYfS8+XMSvnDNpZhOG+owpDTLvUdsFqA81AP1neiUitMxNBnR42scjbkq2pS1qc3fe8jSTZUBEDI8nIfycmgEXnReOTr3a+RwobnbZzCC/aFRGGgPI5My/4ylaO3UXyP9ACFUX/6aAtWv+8x00KXGCwxQKI5WVkXdT2qUBSHJOVANVn63Nzks25MQ0R6paqrBbQVddA72jOtJtIoV6juVCLRc1aUJu0zhzt111c3q+PRXWEkp5gIXVe/Ed+CorxijQ==;Vu9XB8k49dLdmo7NthZVMw=="
+secured: "7tliEedN6fWoUuvko2onUhGsa5eFroCJxqynhWkUBd9KXgVTngsOMaCs2Ouu+Sz6SPaGt8CRkbzz3xu1+EeOehVFM3SsuhAHgCuuUR7hMTVA+VFvFFAw6RHCC3FUTP/N4UgixLib/Y8LwYe+srbJv+iGaZgabq1iweleWjSdShWqu70ePIfiMQHgRfnIPGTnNSRr9H5lLSkoL/S/Yy2J1MGUDwaa5kKPbxz0MZehseaFfB4tPahLK4YcEHM8PzYb3zJtvt1PPb0SRzQnKQEtgA==;OhDP47gBqknLeU6JB/Lo+A=="
 ---
 

@@ -39,6 +39,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
+  - title: "AI Implementation Isn’t Just ‘Picking a Technology and Installing It’"
+    excerpt: "But actually applying these tools to the task correctly, and getting buy-in from the organization, isn’t guaranteed. Those who have worked with AI tools on a regular basis know that the “hype” of AI as a catch-all solution isn’t all it’s cracked up to be, and that while these tools can ultimately be rewarding, they’re not without work."
+    publishedDateTime: 2020-01-13T16:42:00Z
+    sourceUrl: https://www.law.com/legaltechnews/2020/01/13/ai-implementation-isnt-just-picking-a-technology-and-installing-it/
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.3877A4D911E14CE82FAF07C5964EE482
+        width: 700
+        height: 437
   - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
     excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
     publishedDateTime: 2020-01-09T13:00:00Z

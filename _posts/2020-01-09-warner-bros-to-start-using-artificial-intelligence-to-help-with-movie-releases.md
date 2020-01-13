@@ -68,6 +68,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CA00AF1954DBDE8184D8B747DCB9D817
         width: 700
         height: 466
+  - title: "Will AI reinforce bias in the movie-making decision process or remove it?"
+    excerpt: "Last week at CES 2020, Lynne Parker, asked the question, \"Whose job is it to protect us from the black box?\" during a session on global leadership in artificial intelligence (AI). Parker is the deputy chief technology officer, White House Office of Science and Technology Policy. On the same day, The Hollywood Reporter broke the news that Warner ..."
+    publishedDateTime: 2020-01-13T17:13:00Z
+    sourceUrl: https://www.techrepublic.com/article/will-ai-reinforce-bias-in-the-movie-making-decision-process-or-remove-it/
+    ampUrl: https://www.techrepublic.com/google-amp/article/will-ai-reinforce-bias-in-the-movie-making-decision-process-or-remove-it/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-ai-reinforce-bias-in-the-movie-making-decision-process-or-remove-it/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.C699E1E35B0361CE9C6FAC3BB38383BC
+        width: 700
+        height: 525
   - title: "Will the Next Batman Movie Be a Hit? Warner Bros Is Using a Robot Brain to Make Sure"
     excerpt: "“Artificial intelligence sounds scary. But right now, an AI cannot make any creative decisions,” says Queisser. “What it is good at is crunching numbers and breaking down huge data sets and showing patterns that would not be visible to humans. But for creative decision-making, you still need experience and gut instinct.” In other ..."
     publishedDateTime: 2020-01-09T17:22:00Z

@@ -25,18 +25,27 @@ images:
 
 related:
   - title: "3 AI Trends for 2020: Moving Beyond Dazzle to High-Impact Collaboration"
-    excerpt: "From the first artificial skin to driverless cars that navigate busy streets with ease, 2019 brought a dazzling array of artificial intelligence (AI) discovery. In 2020, the progress made toward AI-fueled collaboration will be as critical as AI innovation—especially in healthcare. But capturing the full value of AI in healthcare requires ..."
-    publishedDateTime: 2020-01-03T14:54:00Z
-    sourceUrl: https://hitconsultant.net/2020/01/03/3-ai-trends-for-2020-moving-beyond-dazzle-to-high-impact-collaboration/
+    excerpt: "From the first artificial skin to driverless cars that navigate busy streets with ease, 2019 brought a dazzling array of artificial intelligence (AI) discovery. In 2020, the progress made toward AI-fueled collaboration will be as critical as AI innovation—especially in healthcare. This is a companion discussion topic for the original entry at ..."
+    publishedDateTime: 2020-01-03T16:16:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/3-ai-trends-for-2020-moving-beyond-dazzle-to-high-impact-collaboration/220775
     type: article
     provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.7EE1B199E68CD97FDCF74D8EC72603D2
-        width: 500
-        height: 700
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
+  - title: "ZephyrTel expands collaboration with AWS"
+    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence and machine learning ... which was the first ZephyrTel product to migrate to AWS. The portfolio is being broadened with immediate effect to ..."
+    publishedDateTime: 2020-01-06T08:31:00Z
+    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "Ws9/sQF5d23+TCuheBIDhFoIyHjN03uDvYAN5PkWad9EfPZOtLcX0USfx0bmRVs41ygs080aEnH9RI+I2Rfs0AxvvW6LakyYm1Tr2B652dl0nwy232HsBJjr95E0irGWjvE3C6Hu0Gkg4GLvSxSf+OIz3qRQIlHjCJlXxmfh6GZTq7MmW1hzUoUwwrjdx9f1Afh6IvGr6UCpLtP/hRmDs87zTn8NtkiIpEycSwUYruhT2zbmXAQNa595JyzWJxv1BcLy1DUL1TT+GL62NWlCAg==;ix8faJv9xdJXzbJbHH2I8w=="
 ---

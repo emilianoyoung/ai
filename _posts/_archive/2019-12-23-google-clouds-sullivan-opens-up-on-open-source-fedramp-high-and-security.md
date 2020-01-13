@@ -23,6 +23,6 @@ images:
     height: 700
     title: "Google Cloud’s Sullivan Opens Up on Open Source, FedRAMP High, and Security"
 
-secured: "0H3YmQaHNIYTwpIDXfckmZDorfgemMsSKCpXna//X0+0QzQvxTPkp2v5KrEWh68qXy3/jNouH63gPrBotNVnFf6HcTCBUzEOSQORUQQJtsgrpxMwIBz2x5/2Ci+LB6k1oKo8M6exDbZAej9HPf2z9apwrensNnhL8nEXkYCt5wYNREB1YRzLTUyh6Jb9qIPAJ06NP8GsUJqrjxtZZw5T1cW/geTBuT9cnpAspERrXIQ7bYMf67w9/OuCNAsFVeIWvuEGnGW/jULJF1qnoxYzkg==;d4uPOoCl/bgSnJRwKbmWOg=="
+secured: "ANjJ2qpUoXRIDrJWH9adXRkI/7DEzwU2T/gQ1k04MbfZnYjvcQ5AUPmlMivH2LzAomLzgK2NirNEMX2EYIVP2b1XHAUNFkQQbghsCOt0YCvM0p5CRM/IDl4HiIcNucblIXtt4L8xm7ZDOs5FfJDUCS0KyVo0qthF7U3SZI7RqGYGWHg/wFAp77YJXBCHtCfHdn3KS1BEhyy6bJUPplEW2CPaQgGMhCMR5Y8kr0CsHcv51L7pi8+4P6M9LWZqkwnLbWhS1Dp4asL5im8lq62+2A==;f8HkZ66KUksoqdWhEvtMQw=="
 ---
 

@@ -8,8 +8,8 @@ ampUrl: https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply
 cdnAmpUrl: https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Supply Chain Digital
@@ -26,32 +26,67 @@ images:
     title: "Inside: IBM Sterling Supply Chain Suite"
 
 related:
-  - title: "Industry 4.0 weaves into the clothing supply chain"
-    excerpt: "He emphasises the importance of artificial intelligence solutions and the use of robotics, machine vision, machine learning, natural language processing and big data analysis \"to become a more efficient and productive method of production.\" Industry 4.0 ..."
-    publishedDateTime: 2020-01-06T14:59:00Z
-    sourceUrl: https://www.just-style.com/analysis/industry-40-weaves-into-the-clothing-supply-chain_id137057.aspx
+  - title: "The AI Eye: Germany's Bundesliga Selects AWS for Tech and IBM Announces Developments for Sterling Supply Chain Platform"
+    excerpt: "Point Roberts, WA and Vancouver, BC - January 13, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-01-13T17:01:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-germanys-bundesliga-selects-aws-for-tech-and-ibm-announces-developments-for-sterling-supply-chain-platform-2020-01-13
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: https://www.bing.com/th?id=ON.6016CE2960B4FAA57F55F0EDD12C346D
-        width: 424
-        height: 283
-  - title: "It Takes More Than a Village to Manage a Global Supply Chain"
-    excerpt: "The IBM Sterling Supply Chain Suite draws on the vendor’s own highly touted Watson AI technology, as well as IBM Blockchain and the internet of things (IoT). The idea, says the vendor, is to enable “self-correcting” supply chains that learn from experience. The open-platform approach allows for the integration of data and networks from ..."
-    publishedDateTime: 2020-01-13T11:09:00Z
-    sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/30710-it-takes-more-than-a-village-to-manage-a-global-supply-chain
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "German Bundesliga selects AWS for personalised coverage"
+    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile, online, streaming, and television broadcasts. Using other AWS ML services, Bundesliga ..."
+    publishedDateTime: 2020-01-13T11:20:00Z
+    sourceUrl: https://www.broadbandtvnews.com/2020/01/13/german-bundesliga-selects-aws-for-personalised-coverage/
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
+      name: Broadband TV News
+      domain: broadbandtvnews.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.5862105C84094B2014A226B2CBC52B0D
+      - url: https://www.bing.com/th?id=ON.7625B75520DAA70A3E6BD8CA8F9FCDCF
         width: 700
-        height: 524
+        height: 392
+  - title: "The AI Eye: Salesforce Report Reveals Impact of AI On Digital Shopping Revenue and Veritone CEO to Deliver CES Keynote and AI Session"
+    excerpt: "Point Roberts, WA and Vancouver, BC - January 10, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-01-10T17:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-salesforce-report-reveals-impact-of-ai-on-digital-shopping-revenue-and-veritone-ceo-to-deliver-ces-keynote-and-ai-session-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "The AI Eye: GBT Technologies to Develop LSTM RNN and Intel Subsidiary Mobileye Secures Agreements with SAIC and Daegu Metropolitan City"
+    excerpt: "Point Roberts, WA and Vancouver, BC - January 9, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-01-09T18:01:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-gbt-technologies-to-develop-lstm-rnn-and-intel-subsidiary-mobileye-secures-agreements-with-saic-and-daegu-metropolitan-city-2020-01-09
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "The AI Eye: Germany's Bundesliga Selects AWS (Nasdaq: AMZN) for Tech and IBM (NYSE: IBM) Announces Developments for Sterling Supply Chain Platform"
+    excerpt: "According to the press release, Bundesliga will leverage \"AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts.\""
+    publishedDateTime: 2020-01-13T17:59:00Z
+    sourceUrl: https://www.investorideas.com/news/2020/artificial-intelligence/01131AIEye-AMZN-IBM.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 0
 
 secured: "FseLcZMW5m8p8aW6qPdCTZJMprwXFXh5hJWYz1YEn1YI4ywOsm+FY70z2VulIW9mHPlZXQMtl7yYnAOkbsjFok7GyqOOw50ozxHtpCegumkckSDNwJw9n91zVXGJeCHDak8ifRbVzEpgfKWQbFPymCF7tATd817oJcMEHtFS7uQaB9DWK+EXyTDJVZBBFFPrz7OEU1kCUA0KDhuv+FQYnMFtbm6oOsvbnUBLjEQrbmG8G2wbigqgmlk4/hN9yQBSsK6G6HqesNrWz9u1UxZH9g==;hCFLTr5Dy6i41x08wrDl1A=="
 ---

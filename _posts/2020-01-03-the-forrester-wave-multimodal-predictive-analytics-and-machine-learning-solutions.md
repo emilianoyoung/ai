@@ -33,19 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.ADFB2B905FBA1AB08620BEB2DD8BBEBA
         width: 700
         height: 525
-  - title: "5 trends that will impact AI, analytics and data governance in 2020"
-    excerpt: "From the algorithms that drive credit limits to the use of facial recognition software, AI-driven technologies are under scrutiny from consumers and governments alike. As a result, many organizations are expected to add Digital Ethics Officers in the coming year. These officers will be responsible for implementing ethical frameworks to make ..."
-    publishedDateTime: 2019-12-24T18:00:00Z
-    sourceUrl: https://www.healthdatamanagement.com/opinion/5-trends-that-will-impact-ai-analytics-and-data-governance-in-2020
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8D656BD9E1815D67532F7B9303D12D58
-        width: 700
-        height: 367
   - title: "Experts Predict 2020 Trends for NLP, Embedded BI and Data Literacy"
     excerpt: "As noted by TechTarget, here are the Analytics 2020 trends for Natural Language Processing (NLP), Embedded BI and Data Literacy predicted by industry experts. The year 2020 is expected to feature the ubiquitous AI capabilities of intelligent assistants enabled by NLP. Mike Leone, an analyst at Enterprise Strategy Group said, “there’s a lot ..."
     publishedDateTime: 2019-12-27T08:39:00Z

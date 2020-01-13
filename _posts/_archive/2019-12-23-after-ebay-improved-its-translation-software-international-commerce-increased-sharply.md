@@ -1,8 +1,8 @@
 ---
 category: news
 title: "After eBay improved its translation software, international commerce increased sharply"
-excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
-publishedDateTime: 2019-12-23T13:13:00Z
+excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay ..."
+publishedDateTime: 2019-12-23T13:11:00Z
 sourceUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.html
 ampUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
@@ -20,9 +20,9 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
-    width: 700
-    height: 465
+  - url: https://scx2.b-cdn.net/gfx/news/hires/2019/3-onlineshoppi.jpg
+    width: 1920
+    height: 1276
     title: "After eBay improved its translation software, international commerce increased sharply"
 
 related:
@@ -42,6 +42,6 @@ related:
         width: 700
         height: 466
 
-secured: "BDCPWNKEeRFuUWj9vi+DBhod6FOZNl+t+7VMuWZsXTKgKHX9Ku1VXKPIvHghEmqiwydSVMlRw1gf7tF2VlQ+SIydI0291gdKxtlEfUDksK7YgBQtvedtk/a+FIu3JH02kzpDJFUpyXQaWiZAtaRTeOP3/rIfTo8njkGW1KYgzo93zGriEb4WMbPSGRPD5WakUT57OhcnQxmoHkgqZ+qR8qXW41dUU/pijo331j2F0ypC3AjiSo4JfH6L+dVtACk3dIaD2hSqJkK2szjaLFp/yw==;AkOae0f4b6k44jM8mey7fg=="
+secured: "euMkJ86DldfGP2h7KB7v/M6aJkbbWkte/5854gkS9dnJF6hWZnkQ92J1Od/Vb1vDtI9ZWlrsEIBFYV1PvNKRPscBuTwR2+0KSkJgnBKbrqYEeyUpAw9i1kjdYAfO/UG6zDOgZt63/fWd0A4QKXX/P6Ucs57E6JWESwtTJvRrtpFutL3kBalAC26uM+Y4gOqe3Ue22dePY3+zqhF4YfzHHRjceiZXGogQ4eJgCdIg8Upe2SVEILtxyc55TFKbFkvHn3DnsXJoPBWa7lm9wj/qjQ==;5AMPUsQ9xRMjjzJg06R95g=="
 ---
 

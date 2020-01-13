@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Transoft Solutions Acquires Brisk Synergies to Leverage Machine Learning and Vision Analytics for Safer Cities"
-excerpt: "Brisk Synergies' BriskVANTAGE and BriskLUMINA software platforms apply continuous deep learning analytics on traffic video to help assist transportation professionals reach their Vision Zero goals to prevent vehicle, pedestrian and cyclist collisions, and improve road safety. The secure, cloud-based Brisk dashboard reports on actionable ..."
+excerpt: "\"Through our continuous investments in talent, and technology and innovation, we can help engineers, city planners, and transportation departments design and plan safer cities driven by machine learning and video analytics.\" \"We are very excited to be part of Transoft,\" said Charles Chung, CEO of Brisk Synergies who will join Transoft ..."
 publishedDateTime: 2020-01-13T17:11:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/2020/01/13/9080494.htm
+sourceUrl: https://www.tmcnet.com/usubmit/-transoft-solutions-acquires-brisk-synergies-leverage-machine-learning-/2020/01/13/9080494.htm
 type: article
 quality: 19
 heat: 19
@@ -23,6 +23,6 @@ images:
     height: 216
     title: "Transoft Solutions Acquires Brisk Synergies to Leverage Machine Learning and Vision Analytics for Safer Cities"
 
-secured: "WRVYqbwMMaTJmt3N0/SmGDdcfa2p+MnVFNmfaFkyEGEu7Cz20nw+LueU9bjc5IJV2APHIj0lmGmSzDHzEbONLDaMEbLv1D+c/LVCybwG5RnWVPaD9ugBzl3A0oSf39pwn1Aeciz580EdpLXURRYSxiSCCgnk0Lc8IySoVbtaMnqoaiesnjYvzo6owlWyu0g1CDH2h5sn3yI8vseug/Mg8UWxZOPfSPrrkZ3MIRPhEPkwTkzt8sMZpbHdqPsFnOwQodLYFGQyeGvwDNcHRhsSRw==;kpNXdV0gPrzPumUyha6C1A=="
+secured: "TSPGn7siWCbenNhBwrPtw/DusFBi2EYHgijp+QWgTw2YoQUvFBzXkKMvDD/g5jPiPyTtPJpTmLd2njWFFumX5J7yYR6G3KHOdBwVajVLnyiJYFOKC2Cn+8guGn3gsTqTGnOpKH387YdJmW7TqSTzdWTcxvgf42t4jtHTvbyUmg98N9xRbAW54D3uYtB8IYhX2thW/2D0+nnyC/6QCvqhUeZ8A+bgNGV6mpRPSajpivlPpDpeHbAeKP69TPa9Bo1HCnoc/8XOnjk+wPIv2l19bw==;nirYM5EAuibU6mqnpbZLuA=="
 ---
 
