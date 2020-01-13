@@ -254,6 +254,10 @@ $(function ($) {
     $(".email").val(email);
   }
 
+  $(".email").change(function() {
+    $(".mailster-form").removeClass("subscribed");
+  });
+
   var subscribedForms = localStorage.getItem("subscribed");
   if (subscribedForms != null) {
     var formIds = subscribedForms.split(",");
