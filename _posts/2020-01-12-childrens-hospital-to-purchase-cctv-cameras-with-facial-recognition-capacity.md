@@ -159,6 +159,21 @@ related:
       - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
         width: 600
         height: 315
+  - title: "No, facial-recognition tech is not some racist Skynet"
+    excerpt: "How ridiculous are fears about facial-recognition technology? Well, “advocates” from the Surveillance Technology Oversight Project are suing the MTA simply because the tech might be in use at the 42nd Street/Port Authority station. The MTA says the plainly-visible monitor above a set of turnstiles and with a sign about “monitoring in ..."
+    publishedDateTime: 2020-01-12T13:14:00Z
+    sourceUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/
+    ampUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
+    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.9858CF31353BA6E9246B5B662050FF27
+        width: 700
+        height: 466
   - title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
     excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
     publishedDateTime: 2020-01-12T11:32:00Z

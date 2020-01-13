@@ -25,21 +25,6 @@ images:
     height: 356
     title: "Marty, the self-driving DeLorean engineered to dominate test courses"
 
-related:
-  - title: "Great Scott! Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities using onboard computers and custom made suspension"
-    excerpt: "Engineers redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn't think of -self-driving capabilities - and they successfully tested its drifting skills on an obstacle."
-    publishedDateTime: 2019-12-23T23:35:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/great-scott-engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities-using-onboard-computers-and-custom-made-suspension/ar-BBYhK3c?li=AA4Zoy
-    type: article
-    provider:
-      name: Daily Mail on MSN.com
-      domain: msn.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.4012467D0FEB633EBEB0E8665762DFEA
-        width: 599
-        height: 289
-
 secured: "jI8CcacMWl9wYNI7iZW35wAdZcFneQPjanlTTM32OduNo2X96Zyqg4qR68PzzBTsXcqemRqiF50LTc66yYVGfrNy+K9Q2oMI+e84dOdZUd1J4CSlAqKj5B4YAE3DLgfNfEVlGnp3hDUKVHxt0kT+MZujxDf63uSX6IXOaosv03X0YErzXd6KSc5r9icjK/eWivIRXsURZ8HjOBwfwQA5B5tAcIqRycAzWRcLTpzx3qLenMss8LBEEwPUzhelMq0LuklYJZ0qBT0StTQNRdMXEg==;XcKJNoIozYX0/uY72A41gA=="
 ---
 

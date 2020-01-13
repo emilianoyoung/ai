@@ -3,9 +3,9 @@ category: news
 title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
 excerpt: "In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
 publishedDateTime: 2020-01-13T00:45:00Z
-sourceUrl: https://www.reuters.com/article/southkorea-artificial-intelligence-jobs-idUSL4N28D1XU
-ampUrl: https://mobile.reuters.com/article/amp/idUSL4N28D1XU
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N28D1XU
+sourceUrl: https://www.reuters.com/article/us-southkorea-artificial-intelligence-jo-idUSKBN1ZC022
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZC022
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZC022
 type: article
 quality: 83
 heat: 93
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.22C0E6F3657CFDEED89A2F539A5022BD
+    width: 700
+    height: 466
     title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
 
 related:
@@ -43,6 +43,6 @@ related:
         width: 700
         height: 519
 
-secured: "7iuNivmVSrRh/izL/whBvEN9+Avom7tud5wSLQGfwLkmbnBJSxAnbBxn6kzu3ZO68gZZPP4vn2rGV45XVHx8DeFJ+EiIfH8f+tiiL1dUSHVLg4MlbluAlm/PbL+lQLuY0rIhdx7TOl07sBNcEULaw/LB5rCLXSAIdZwhiao8L2430IVraXKlHabV4vthzzU++vbBF3Z68g46HM37Kje6Od3WV8S7Go29I0T6HwJuItYcTI9WytNJCEEjdBaX2LSrUXGsm3NxQhVOK7S+aypoKA==;gMNAIcz2kKCpBRHIPXf/Ag=="
+secured: "aMyqYEPdHgaY6vCHwDxVw4SM26N8ypgcpVW95xegvmW/uF3re+GTlP/a6xyjoKuEYWpGP2jwuDrsU0y8uyL4qk0/3ezjOCXp0IW5CVlxkSt0yb/ySVwq50HniwcQCznIo06qVLDuU/R0J5YqXsm2pGCkS3yTLJXwPALSZJtcb2XEy74UQxnVyaoxk4RWHHF1VTHLjVWBD0Uobh+dA2reaO+droLql7DKXGT1u6/A5bcqRsTJYyJAQRK/XGiRK4sT5NRDUHB3CcGEtwbNTbj8og==;NjuorcwUUkAnvtBPGKx3YA=="
 ---
 

@@ -49,6 +49,17 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 54
+  - title: "Neuromorphic Chips Market Study, 2019-2024: Boosting AI at the Edge"
+    excerpt: "Dublin, Jan. 10, 2020 -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes:."
+    publishedDateTime: 2020-01-13T01:11:00Z
+    sourceUrl: https://finance.yahoo.com/news/neuromorphic-chips-market-study-2019-104427919.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/neuromorphic-chips-market-study-2019-104427919.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/neuromorphic-chips-market-study-2019-104427919.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
   - title: "Neuromorphic Chips 2019 - Boosting AI at the Edge - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. The Report Includes: An overview of the global market for neuromorphic chip and discussion on its future market potential ..."
     publishedDateTime: 2020-01-10T14:57:00Z

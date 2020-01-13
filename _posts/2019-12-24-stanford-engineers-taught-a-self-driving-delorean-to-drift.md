@@ -35,21 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
         width: 700
         height: 366
-  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
-    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
-    publishedDateTime: 2019-12-24T00:06:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    ampUrl: https://www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
-        width: 700
-        height: 393
   - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
     excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
     publishedDateTime: 2019-12-24T08:48:00Z

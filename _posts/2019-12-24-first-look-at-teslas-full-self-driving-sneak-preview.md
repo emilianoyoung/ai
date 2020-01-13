@@ -8,7 +8,7 @@ ampUrl: https://electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-fir
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/amp/
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "First look at Tesla’s ‘Full Self-Driving Sneak Preview’"
 
 related:
-  - title: "Tesla update includes full self-driving ‘preview,’ better voice recognition"
-    excerpt: "The update is quite extensive and includes critical upgrades to voice recognition, including text message reading and sending, better “driving visualization,” and a few other more minor enhancements. Perhaps most notable in this update is the improvement to the driving visualization that Tesla owners see on their displays. According to the ..."
-    publishedDateTime: 2019-12-24T00:01:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/
-    ampUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://icdn2.digitaltrends.com/image/digitaltrends/tesla-model-3-red-2-1200x630-c-ar1.91.jpg
-        width: 720
-        height: 376
   - title: "Podcast: Tesla Holiday Update, Self-Driving ‘Sneak Preview’, Rivian news, and more"
     excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla’s massive ‘Holiday Update’, the Full Self-Driving ‘Sneak Preview’, some big news from Rivian, and more. The Electrek Podcast is me, Fred Lambert, editor-in-chief of Electrek, and Seth Weintraub ..."
     publishedDateTime: 2019-12-27T16:48:00Z

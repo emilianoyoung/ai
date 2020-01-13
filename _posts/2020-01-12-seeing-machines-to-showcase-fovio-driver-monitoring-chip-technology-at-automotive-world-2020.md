@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Seeing Machines to showcase FOVIO Driver Monitoring Chip Technology at Automotive World 2020"
-excerpt: "TOKYO, Jan. 12, 2020 /PRNewswire/ -- Seeing Machines Limited, the advanced computer vision technology company that designs AI-powered operator monitoring systems to improve transport safety will be exhibiting its FOVIO Driver Monitoring Chip technology ..."
+excerpt: "/PRNewswire/ -- Seeing Machines Limited, the advanced computer vision technology company that designs AI-powered operator monitoring systems to"
 publishedDateTime: 2020-01-12T22:00:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/seeing-machines-to-showcase-fovio-driver-monitoring-chip-technology-at/article_59926203-db78-592b-8679-187841dd4c05.html
+sourceUrl: https://www.prnewswire.com/news-releases/seeing-machines-to-showcase-fovio-driver-monitoring-chip-technology-at-automotive-world-2020-300983770.html
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-    width: 1280
-    height: 720
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
     title: "Seeing Machines to showcase FOVIO Driver Monitoring Chip Technology at Automotive World 2020"
 
 related:
@@ -142,6 +142,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "Bpa6J40Ietr27UDzNENwquJU0Lb3Fq5E7wPRhRk96px35NfK5NzhJhofCY9wxjyPOlvlvQgt9iqbdO1yO4K7VIN0Lzwp1M+LDmDyw9b5hrmaAx+PjXEcg2SJ5YuiCFAnwtAoEs+6D8iME1DumNLK+cVaDB6fPRi9Ty4QP6iHApGTlT3mbNfN50nXEFMjfyGsUbGIzYzPcy0p1ulmFrZeGwI1VIkbvJBxs89MptHKROOiJjquPKqm+o794GxJH/2nY9GrmjsgBYNNu+9i6NSpcA==;ZeOzSrF03/TKkNzI7chiMw=="
+secured: "x55XMxQedBjT882I6WZCBPnfJoacgN0qfHq8qxJI+xR1loMGYKh0SpWko9zWnGI8q/r9La93nY+WKKSgcrenHcx9QQ1FXqy93yMkm0NKGFj6H4YbLHwVbNDq2p+iqWsbQGC0COa9yZlNP2ntRGPEOG7W873b/Rzyrt1P564aCsTyKC7ub/TKKUsCtk4jEwL6OAjU+VDcHJM+NdCDzYsBptKvQIVduvG4GKSz+CCC/jzhUstVtIU2jDZWjcxPiN6l3ic7DVkbpUFo1AHKRhTSzw==;gm6H7zyinxKXvFbnXfjG8w=="
 ---
 

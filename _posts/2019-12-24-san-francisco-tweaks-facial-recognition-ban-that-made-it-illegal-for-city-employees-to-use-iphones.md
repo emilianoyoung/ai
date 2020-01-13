@@ -367,19 +367,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6CA2457D4897111EC3EA4920BC840C2B
         width: 650
         height: 370
-  - title: "New face recognition feature at airport"
-    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
-    publishedDateTime: 2019-12-23T23:56:00Z
-    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
-        width: 700
-        height: 466
   - title: "Ruti Overcomes In-Store Personalization Challenge With Opt-In Facial Recognition"
     excerpt: "The retailer is taking steps to accomplish this goal by personalizing the in-store shopping experience with a proprietary AI-powered platform that leverages an internally built CRM solution and opt-in-only facial recognition. With this technology deployed across nine boutiques (and a 10 th soon to open in Dallas), Ruti can offer personalized ..."
     publishedDateTime: 2020-01-03T11:00:00Z

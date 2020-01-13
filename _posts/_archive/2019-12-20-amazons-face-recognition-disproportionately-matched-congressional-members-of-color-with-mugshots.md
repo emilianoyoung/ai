@@ -63,19 +63,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
-    publishedDateTime: 2019-12-24T00:40:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems/article_0521f10e-d3f3-52e8-8b5f-d6556f5ea209.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
   - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
     excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
     publishedDateTime: 2019-12-24T05:45:00Z
@@ -89,6 +76,15 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -99,6 +95,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "M3r0fR7ui4g00ybouaXD5JKYiIFnKoQYsQ6F3sExnS4YAkhFvetHAvq8R9OIXkp0vLVayyljSgTF/vaAUPlaJ3jTQDNv6sE2sQ99RNmkuCPk9noROfhyM1tvTl0VVm6ViTi6BxXb9RWSupCRmGoJOhTW8b6sjEvKOygJjMRe+zb2pfa+zN18lsY+u2ZWtpx3QDxvRHeMWADICaR0jfnV4XLxV91WuCdDDDt/oECHJAmUp6idkS/hFuXuSSyftvekxi6U1JghmZBXRBgTBb5mww==;8wSw+i7htJj/34zgZM2/oA=="
+secured: "3Z2SyThqQYN8mG3HW1yDCOl5+tSWR57ifXPWU8liNPTiy5EUMjEDN8pl/Lta165WPZj+gkf45NQvZLViYUhwI4eHMl9B/le3/xyyzNUjUi6TuiZqm7mJDk64MHiHqJ49JqDXj34kj/7YcureEQHmwT+6oH+btIR/iiLdKiG4dLTQGtva86MgPzbTyPRccN1TgSuT57e694Uv3kmZIyApddhyAN54swdNquYpn/FHf7SWl7SXCHokd32WEvK4Sx4GjK/8yC7vVZ824OSWLMn0Hw==;5sPzyy3uY6pI0NZ1EEq4FA=="
 ---
 

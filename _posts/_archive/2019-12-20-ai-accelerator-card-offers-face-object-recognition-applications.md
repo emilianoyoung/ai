@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
         width: 640
         height: 433
-  - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
-    publishedDateTime: 2019-12-24T00:40:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems/article_0521f10e-d3f3-52e8-8b5f-d6556f5ea209.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
   - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
     excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
     publishedDateTime: 2019-12-24T05:45:00Z
@@ -80,6 +67,17 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -99,6 +97,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "med4cGU6TU6bcn6uZQzLq/xJX351NZn6HBDPudjATVC6Gr3wxBnQRKZayytWypM+lUDcACzYfsVqzL/YY2HRGnG/f9LWcAUQeG2Y2DI9FrcAJj77nq/ee1Ft1YLCX41nBbkR8AreNuiWy9qlk4n4Tdbjr0tSwQk3nzry/biPjjtkj3RHVPlXAYruXZSFC/NmglupR3q1iUBMMF/sObV1XTG7Uyzt1x68VgaMs0hkSwMO5qlZnhhCRjfd69F8KQYSga3ihBqqmW2Rc1vCr0Xl2Q==;3UXmGcQYeC7pxQkQbdRVQQ=="
+secured: "A/JyGlMjtoxbK1kSMzKBCdSeYywpP8VvPI4+KR06XghdgpeA4or7XVujCZeOhxGR7C0nMClot/SBCCvkZkpRaPYUqYXt24UfvmmvMN11WxxsdV/q7B8dqClwT/mzHZBvNYRxrCxQezcw+yw7NQhlZOo8JW7hu6V21kzjX+uY20FIANPN9ISQjha3MMo/3hY76183I9EDG/k02gR6oSVM4FJbVNzYFqqKRy2YQ2VgN24z0Oz6isUKw0i7sPU8yV4O1InElbiIufM9LuWvDocSlw==;69hBlMTmZHd1OPtPuaTkJA=="
 ---
 

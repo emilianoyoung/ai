@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
-excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
-publishedDateTime: 2020-01-12T11:32:00Z
-sourceUrl: https://www.itv.com/news/wales/2020-01-12/fans-stage-protest-against-use-of-facial-recognition-technology-ahead-of-cardiff-v-swansea-match/
+title: "No, facial-recognition tech is not some racist Skynet"
+excerpt: "How ridiculous are fears about facial-recognition technology? Well, “advocates” from the Surveillance Technology Oversight Project are suing the MTA simply because the tech might be in use at the 42nd Street/Port Authority station. The MTA says the plainly-visible monitor above a set of turnstiles and with a sign about “monitoring in ..."
+publishedDateTime: 2020-01-12T13:14:00Z
+sourceUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/
+ampUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
+cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
 type: article
-quality: 41
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ITV
-  domain: itv.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.E46EC45D8BC6BEEECF80339153395477
+  - url: https://www.bing.com/th?id=ON.9858CF31353BA6E9246B5B662050FF27
     width: 700
-    height: 394
-    title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
+    height: 466
+    title: "No, facial-recognition tech is not some racist Skynet"
 
 related:
   - title: "How the Police Use Facial Recognition, and Where It Falls Short"
@@ -157,21 +159,6 @@ related:
       - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
         width: 600
         height: 315
-  - title: "No, facial-recognition tech is not some racist Skynet"
-    excerpt: "How ridiculous are fears about facial-recognition technology? Well, “advocates” from the Surveillance Technology Oversight Project are suing the MTA simply because the tech might be in use at the 42nd Street/Port Authority station. The MTA says the plainly-visible monitor above a set of turnstiles and with a sign about “monitoring in ..."
-    publishedDateTime: 2020-01-12T13:14:00Z
-    sourceUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/
-    ampUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
-    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9858CF31353BA6E9246B5B662050FF27
-        width: 700
-        height: 466
   - title: "Children's Hospital to purchase CCTV cameras with facial-recognition capacity"
     excerpt: "The National Children's Hospital has said it is purchasing cameras capable of facial recognition and storing the images. The technology is similar to a system used in China for surveillance. It can count how many people are in a room, analyse people's faces and keep up to date with their movements within the facility. A spokesperson has said ..."
     publishedDateTime: 2020-01-12T15:55:00Z
@@ -187,6 +174,19 @@ related:
       - url: https://www.bing.com/th?id=ON.84ED662CC33526A38DA026002951B9F5
         width: 600
         height: 325
+  - title: "Fans stage protest against use of facial recognition technology ahead of Cardiff v Swansea match"
+    excerpt: "Football fans and human rights groups have taken part in a protest against the use of facial recognition technology in Cardiff during the South Wales derby. South Wales Police faced criticism over a decision to use the technology with fans and rights campaigners saying it is, ''a step too far.'' Police used the surveillance technology last ..."
+    publishedDateTime: 2020-01-12T11:32:00Z
+    sourceUrl: https://www.itv.com/news/wales/2020-01-12/fans-stage-protest-against-use-of-facial-recognition-technology-ahead-of-cardiff-v-swansea-match/
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.E46EC45D8BC6BEEECF80339153395477
+        width: 700
+        height: 394
   - title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z
@@ -303,6 +303,6 @@ related:
         width: 700
         height: 393
 
-secured: "6xb6XcsvCQT1xx3uHVAwNqgQxHYXqz/gkga2LX1qXwXMnztNiLXcZGgLohgk0YFjqxiiUHH2P7u6Lg4iqfo919eFzeTP5HRzslpPKHUcTff8mT9PlYDXIFkYD1/WTmG/52wtCJec2MzgfMs1yVaojKBLugwIJRBCh0uND3aWL1FXaYEpz335WYDAbuIlFp1utKSI654ELXdFquWuCjj2YJCakqkU4kDGO341FiG6knaJroC+OlBpqCfomN9ZxPzu1UF/+qqId+IveeidPTFmDA==;zwQp1Cvo+zOm8pwiGjbPBQ=="
+secured: "11t21q9yxjzwtXhjvTm0K7GWjVPLusT5bWMvy0Wm22Q6aLtju3uU6ojRqtD0t8NqpuKhYgjCiJ0p0DGYZESZ1CkZX6K3i3g2G6HYjNiol0zAZWU0lMsVI+AfzWDL0jn4kJiMuHkpDezYEzNjE35M6aQ6q/qcykh57dKnWZDeuZi+1W0wYTvR2TEmXoEM4dWSpkRB1nN3GjHqzolK/7wvjiEYVk7peZ44WBQP/mvo6UQobOz4jiuBITktl2AA+SCqGzVuNyPpOdSo/++FgspwDA==;Mox3sfSYkB+HfCd28S1XbA=="
 ---
 

@@ -144,6 +144,21 @@ related:
       - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
         width: 600
         height: 315
+  - title: "No, facial-recognition tech is not some racist Skynet"
+    excerpt: "How ridiculous are fears about facial-recognition technology? Well, “advocates” from the Surveillance Technology Oversight Project are suing the MTA simply because the tech might be in use at the 42nd Street/Port Authority station. The MTA says the plainly-visible monitor above a set of turnstiles and with a sign about “monitoring in ..."
+    publishedDateTime: 2020-01-12T13:14:00Z
+    sourceUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/
+    ampUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
+    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.9858CF31353BA6E9246B5B662050FF27
+        width: 700
+        height: 466
   - title: "Children's Hospital to purchase CCTV cameras with facial-recognition capacity"
     excerpt: "The National Children's Hospital has said it is purchasing cameras capable of facial recognition and storing the images. The technology is similar to a system used in China for surveillance. It can count how many people are in a room, analyse people's faces and keep up to date with their movements within the facility. A spokesperson has said ..."
     publishedDateTime: 2020-01-12T15:55:00Z

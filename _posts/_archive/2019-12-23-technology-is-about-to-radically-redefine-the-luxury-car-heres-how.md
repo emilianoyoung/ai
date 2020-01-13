@@ -23,21 +23,6 @@ images:
     height: 315
     title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
 
-related:
-  - title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
-    excerpt: "“The artificial intelligence stack has to be taught anew in each city,” Roy says ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing. The interior and exterior could be painstakingly hand-finished using ..."
-    publishedDateTime: 2019-12-24T00:07:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/emerging-technologies-radically-change-luxury-130008437.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.ABDAC4ECA902CD1AA2BB7F808B1FBD7D
-        width: 700
-        height: 393
-
-secured: "hozp7ASBE2cHh/3CBwRS9UKio/4dJd1CFn/3U8sYk1eLNaon4jR3JvRwf0Qh9En8JufdUt3NCV3kuRhfDKfyeTI+GwB21oknU1aAuK4UXeQHx6A+8K/Fh2B2tEmo4/b7ABN1qWHdzwGFK109BZvulGURCMq9bOkYDpGSegiyHe7X4OUXknWiXQe+NtVMcQ5YPSDSNJ4KmyIRfb4gKe0GXd9ZKYe5aJYzknzDYnBXPGe9hA6VrslaoxrO+mv+ZnSr558RcAABwgvREofFmWQs+A==;vERKde0MU3wHp4xEKg9BYg=="
+secured: "PpTqUC273UvlAY3aU/tZ2XscAqo2o6E84Q264q6dtMmcOU9qsIQLll9Mf2ESIooPIkEGTOYwGIvkZHGeAFUSytwQ7YpPca49eUabGdR+YxaT9WFtikCb0qg5Pmu7898DL5uQBI2ABGJID6AviO6wwoSBTxlUTehSkusqx4F9E3C46ISgBHBMzvtRPdwlqPUFWjIf3aHZLYt4YP2HkQk0RU6YWIUNXpbvjrLl5ON2UzEXUSTUWz8IPCrIYSD16URnU39+cPAtjdYM5vzduMQPbg==;Z6EIkr//sEc8wdr+rwMUjQ=="
 ---
 
