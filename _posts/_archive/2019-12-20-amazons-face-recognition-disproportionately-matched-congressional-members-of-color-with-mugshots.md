@@ -35,43 +35,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
-    publishedDateTime: 2019-12-24T10:08:00Z
-    sourceUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24
-    ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
-        width: 640
-        height: 433
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -82,6 +58,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "PvJSixqMDUb2+7oAIMB4Yx+IbWtMR8CEIhwUli7XjbE5ZGWxqY7tqqNF+GcXS4oqRSMjyMQ0azFQk6JLglrDFN0PCa2Rpm9qRa6P6kgXTkSXBPoWpldmsKrptGMB8v+0+6nVJ+P4kvZg6V1azqMdpdVmyV9ezqpitEb9t82zvNn9p0bz9qbmu8gqVgTQntJP5Ze6y5XwJMy01OSULGzWdhbBNr0TR9ofqdrgb60eInx9WtmixPAeT5btraIOeRY9A27gxWJmpuRhPNG9Oz3Q6w==;+loIfhc5ryjZTcdR8Iz4IA=="
+secured: "TfYXAgXfbnFzRopYcwP/uLTrSHTPVotxpu6r6pex3cQUwBPwyTvGPOw52/FqPiIEm8RFWWryrDuuYho0l+zHFjARpw0d2IlGcc8Kj/aqVuscG8gS+XA5TcFZAhooSiGolTZ2aYkiGnaS6e1bCWtAvZHAYa2pUEcbnVB/kUKofV+pmtt7Pv910Qt0wdz03hFaG8EpoU28TQ7X0/rJ6jbGFJrz6plXEh74O7dKOMP78h1FlTWbEsFe7BPQ/Yptr16CRTvvqzxMh+a74Zw2VgEoOA==;s66LY0BzTj0YpCOVoR58Ag=="
 ---
 

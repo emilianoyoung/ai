@@ -22,6 +22,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
+    excerpt: "Artificial intelligence is a much-discussed topic in medicine ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
+    publishedDateTime: 2019-12-23T18:26:00Z
+    sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg
+        width: 1200
+        height: 1000
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
     publishedDateTime: 2019-12-26T12:48:00Z
@@ -37,42 +52,7 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72974624,imgsize-93356,width-800,height-434,overlay-ethealthworld/artificial-intelligence-tracks-down-acute-myeloid-leukaemia.jpg
         width: 800
         height: 434
-  - title: "AI detects acute myeloid leukemia with high reliability, study finds"
-    excerpt: "Researchers developed several artificial intelligence algorithms using a vast collection of transcriptome data ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
-    publishedDateTime: 2019-12-30T22:07:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/ai-detects-acute-myeloid-leukemia-with-high-reliability-study-finds.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
-        width: 400
-        height: 300
-  - title: "AI offers potential as diagnostic tool for acute myeloid leukemia"
-    excerpt: "We therefore wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence—that is to say trainable algorithms ... Possibly, the diagnosis would then happen earlier than it does now, and therapy could start earlier.” Although researchers have not yet developed such a test, they believe they have ..."
-    publishedDateTime: 2019-12-30T04:20:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/ai-offers-potential-as-diagnostic-tool-for-acute-myeloid-leukemia
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.53B79936261D63CFBA7628CAB2D0F224
-        width: 700
-        height: 367
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
-    publishedDateTime: 2019-12-20T16:27:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
-secured: "qGwx1ce81EzBD+fJuDCOZvwtm2W/uEjdDrEdwDt+6Vrx0DXn8ZNYgbTdm+AR5mPVz/weFpYdE2IxhbU6HGbG8ryoIM2HNjykRyfk8lVsSvdpSD7OgkXenLYBbHa6WqV66DbK+6bsC43APvOS/yn5GyQkcwjjzEeX1z2gnTWm19QSuCf5nW691j0rLNTWO/sYQ5lDXrlVgqlhhwMmR95nZS9yEmrh0IzNGw7oMqYlyWNdSpx2PCjQftPsxntdHVVW1zNwHd4LESu4mwY+7iVgLA==;IoMfsWi3u00hxMujz/u90g=="
+secured: "v11N4DaPS0qgw+THAt42NC8du0XL5xXJd2wWFvIANHPzyKvjDtD5NjaIXSmrh5YjY1Q56xO5Ad9HrheLptvBmzRa8EYmtEWFmFsyylQs44Ey7J7OgRDKtuOiW/C/Wq0Mtmd6DHqvgZlF+AzZhoBndeU/FeRwM8RelZCynQELkLbre4zSIDuWySbGp072tFEPRhzn/8DGnEHDCQoBSZfLjsuLutX8Set+8yTK+rz5o4Z5gJGJTxF5ytBIF77g5P7o7MpTAVL8mBTrZJ37UeTysA==;5x9gvHyZY3u1URKFjaVNGA=="
 ---
 

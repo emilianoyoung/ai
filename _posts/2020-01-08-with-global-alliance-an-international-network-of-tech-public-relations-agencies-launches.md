@@ -24,15 +24,21 @@ images:
     title: "With Global Alliance, an International Network of Tech Public Relations Agencies, Launches"
 
 related:
-  - title: "8th Global Summit on Artificial Intelligence and Neural Networks"
-    excerpt: "CPD Accredited 8th Global Summit on Artificial Intelligence and Neural Networks (Neural Networks 2020) is going to be held in Dubai, UAE during June 18-19, 2020. This International conference will bring together researchers, professors and scientists to discuss strategies for Artificial Intelligence from around the world. CPD Accredited 8th ..."
-    publishedDateTime: 2020-01-10T13:30:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2020/01/10/8th-global-summit-on-artificial-intelligence-and-neural-networks-/14650/
+  - title: "Pocket-lint launches International editions, starting with Portuguese"
+    excerpt: "Through improvements in artificial intelligence and machine learning computers are now able to do a vast array of things that previously haven't been possible at scale or speed. One of those things is translation. Using a combination of the Google ..."
+    publishedDateTime: 2020-01-13T10:23:00Z
+    sourceUrl: https://www.pocket-lint.com/apps/news/150552-pocket-lint-launches-portuguese-edition
+    ampUrl: https://www.pocket-lint.com/apps/news/150552-pocket-lint-launches-portuguese-edition.amphtml
+    cdnAmpUrl: https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/150552-pocket-lint-launches-portuguese-edition.amphtml
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 36
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.5C92AE351867FD9A7D0EF2781FA79F23
+        width: 700
+        height: 466
 
 secured: "iy5FSXyiLk6hfv2rGa3ec42Bv1f87dxW/5EvRlyl6APXaIC+4ApmTd9nTgTgZneGLNmF2lyzRF9Oq6Vh7wR5zSaFSo0Sztww/Olo4HDh333TpiWuhvOeCLE2QuziqBSR8ydemNcnWg/xON8to+kRI1wD74MKHQINCiYPE4mSoBsRDf2ywWs1n470hbM0hspYa+DuEtBy/A5Mm1PZ8uiBR0pV2UJ/eKRjOfTCG4CwmgJN2C+S4UE7dpjJeDdBZRNOIkmWafUP9gNijF2bO/U5KA==;6xpO33qXgJ0ILvPjmdlv/g=="
 ---

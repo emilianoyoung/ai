@@ -83,6 +83,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5A3723BF023CA0D020FB912B380406CA
         width: 700
         height: 233
+  - title: "Here’s how to regulate artificial intelligence properly"
+    excerpt: "From Brussels to Beijing, the Élysée to the Oval Office, leaders around the world are calling for bold regulations to govern artificial intelligence (AI ... dozens of policy areas — from criminal justice to consumer pricing, housing to health care. The lesson: There is no one-size-fits all approach. Seizing opportunities while preserving ..."
+    publishedDateTime: 2020-01-13T11:03:00Z
+    sourceUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/
+    ampUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.6DFCF133DE2ADEEF9C61149897A858A8
+        width: 700
+        height: 458
   - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
     excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the U.S. and also in China are some less crowded areas and ..."
     publishedDateTime: 2020-01-10T05:51:00Z

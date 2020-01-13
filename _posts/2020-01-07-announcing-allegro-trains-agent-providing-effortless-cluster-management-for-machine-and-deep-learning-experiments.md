@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-excerpt: "Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains ecosystem. Trains Agent is a complementary solution joining the open-source solution suite with Allegro Trains,"
-publishedDateTime: 2020-01-07T14:38:00Z
-sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
-ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
+publishedDateTime: 2020-01-07T12:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
-    width: 400
-    height: 145
+  - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
+    width: 700
+    height: 368
     title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
 
 related:
@@ -55,6 +53,6 @@ related:
         width: 685
         height: 445
 
-secured: "H2ScjPYmnir9sHO3IGDyWNbR2Wz9/alUOps64htzbC666+ufafeB+vs/MfbnHSu9bXRjLvlZMuLqD3aLqmn+m97NQSVKoA6H+agzgEpUzif9p3KHkYVKMCkgQwLaP89Xdg357YoLznVDy6vwWNQ6KcjwjTS2fX9CMV6oS9TWp0az4TaZJhu7MAv81T8OxNN5cD+NXbb7C5ZbN529a8ExsWlPcigA82+2ITra1ochdGtt8WiaVccWOoFw/TZGAoSXU9YzU/in+RiiS3PwXlom7w==;XtYSH9wt8c4ub1YJvYZeqA=="
+secured: "dEo/AQTWmQhB/llpzJUrw4hBZUg1f/u1892BElqJfDqz8s4z4mwggF428FZ6RiAfnLTv4hdH5pO1NTvLKiY6NTWxSX12LOH1PqEAPyT3Wz/hJ8eiKus1ck+V4+3gKK1GamC4P6uy67QtHhaKU6nW1gx64koAtqoMJRSAoreULA1XexaBy+IzgmV2sAS7+JPhOQSgr7PI7mToKwbabRkd1IHcchIXKn/XkLGlQxvOk12OkpmIIQSAtL+D8q4Cu3qpBg/a3f/PqBMX2b6ZpplVDA==;sUjhSRs5bmjSWHynO+FM5A=="
 ---
 

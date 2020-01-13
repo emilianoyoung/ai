@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3B2C41D8FB5FE60BCD00079477AB3402
         width: 700
         height: 466
+  - title: "It Takes More Than a Village to Manage a Global Supply Chain"
+    excerpt: "The IBM Sterling Supply Chain Suite draws on the vendor’s own highly touted Watson AI technology, as well as IBM Blockchain and the internet of things (IoT). The idea, says the vendor, is to enable “self-correcting” supply chains that learn from experience. The open-platform approach allows for the integration of data and networks from ..."
+    publishedDateTime: 2020-01-13T11:09:00Z
+    sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/30710-it-takes-more-than-a-village-to-manage-a-global-supply-chain
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.5862105C84094B2014A226B2CBC52B0D
+        width: 700
+        height: 524
 
 secured: "dF1nIVYJvTYBqvTQugFVWMmgBGLu7xjtd2tZ+ohSLCUg+SnxMTZ0YO6lVE1GQP/GZbjgCBgzHtBr7QtYAWWSo6yAXm28h4uTrs1C/RvQYLW3KScbPi9vdZ2sIcZaklRKIEC3US6OUadvlICEzKl/BD1DdPN6Eo+3Euzueh5+4zWusgs8M9ORVqno0000CFR6BZwtPwHBVaVvyvE0G0BITyBg6Yf9zEayUoGOrAOwOatWlsT0BQOUBiHtsOVLseLqbq67lFJpN/eRgHcgBp2V3g==;tD/BmMI7e/4vsGDAxesFNw=="
 ---

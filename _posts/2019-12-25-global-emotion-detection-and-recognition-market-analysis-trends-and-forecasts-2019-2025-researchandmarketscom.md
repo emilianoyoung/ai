@@ -327,15 +327,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Enterprise Artificial Intelligence (AI) Market Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
-    publishedDateTime: 2019-12-24T10:14:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37213/enterprise-artificial-intelligence-ai-market/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
   - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
     publishedDateTime: 2019-12-30T13:32:00Z

@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D80BC925CE3E41494D496B8A72288263
         width: 600
         height: 315
+  - title: "Of Course Artificial-Intelligence Startups Are Helping Businesses Fake Diversity"
+    excerpt: "Pity the man who hates markets. Attempt to do away with them, a la Stalin in the ’30s or Mao in the ’50s, and the rabble will begin to trade illegally. Maintain a command economy long enough, and reformers will arise to push the pendulum in the other direction."
+    publishedDateTime: 2020-01-13T11:30:00Z
+    sourceUrl: https://news.yahoo.com/course-artificial-intelligence-startups-helping-113035205.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.37E52D362820C5CB0864BE6B38F991DA
+        width: 700
+        height: 408
 
 secured: "ckl33OKaCdG6NTnyt3rtULcjArthIP+lJ23muPrfjOQCsSPRRVjbQIdKz6BIvEBO4wJgFBOuok72zp2iE2Ud72Z0alzIGL8IhGfZ630p0g3PCHVKxOMI7YAFcnSXYL8wSqVfevEw5PDGnEKmJ7UjN/UX7cfl2intXoX0ivoGm5nhrgBhZeXtb2JsQdLyv/nIwh8xUQxUzpLx9WQmzcTSYPE5FNF8SjlSZIir0ojO435/9jDeAfSD0sjP7GEy+MLe5jVe4rXZd0OpHyRBoRGrNg==;ZIMgO46PymtSuJkxULcaHg=="
 ---

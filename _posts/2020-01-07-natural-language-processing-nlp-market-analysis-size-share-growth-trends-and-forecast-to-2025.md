@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-publishedDateTime: 2020-01-07T12:06:00Z
-sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-07
+excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
+publishedDateTime: 2020-01-07T13:21:00Z
+sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-13
 type: article
 quality: 55
 heat: -1
@@ -331,6 +331,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "8svBGFuDvGhTSEJmQ1GrVMqFpca0baxLbnbhseexa16N1/QwPnE3FXXlN8OPWnhfvtVNlPZpdGIMELtnOsTCSGzRvzzvG04s9gdXMCsxFFx/aAHvhwZK56ohp4J0rPr3t8C9mJWqp8vW038N5LFyWem7pS6Tp3ieEvwMw1bIGgWuVtwJKkS573xwQdUPEoiR/0JOlkpVyGgPiLNeyyfyC3oWwRZUHef2p76aDyYvrQ4CSZAF0OaYAngDGEjLW/U+72nGPzcV/6pEWIuEDj+7rQ==;yq9kECM+v9TqmPTAPKRiug=="
+secured: "4rurL+Y6GhlfJUUXu5uCZVAyPoBhgCj6tkXHIZQxSGItAODB970j8/aSLktOofI9VEXPI34dZaxmANhC9tkXtqM3ceYRWoFS2lf67oShucgY4C2cDrE+crIAJq0/St6n5fBc3GsH8GkL4aOQpVl48RTGo7gHOWZ7XpSV3Y2NiTwER7CSTax3Bf+6MiYtOjhpgMZA6NTq9Sah7RR7+zKawp6+SIIfa7Lc/jOkpaxspviTax1RQDE5A3pMft+jO8H6o8O7F7exwX961s4pyjttzA==;le0nLhjhGeeTMWSFRtyusQ=="
 ---
 

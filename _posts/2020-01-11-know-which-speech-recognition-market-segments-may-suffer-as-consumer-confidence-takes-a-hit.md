@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-11T09:48:00Z
 sourceUrl: https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,6 +69,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
+    publishedDateTime: 2020-01-13T10:53:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.60101A1A25E5C0D4E2CAC2B8C12BCFB3
+        width: 620
+        height: 500
 
 secured: "4yYHMXKreQOYd5j/ebTynGF36qOs1dzMc9iO703zxe/Ju9oBlvp1BFn5OS/6Mglvqc9rEX89cDbRIzevfshWP6/cT//OfjWwB8scZZpQUtTdHxUPXMDIF1LQ3mRef+iYy449DEubOxgkOZJFtK2cjDRfN53QPk9QR50nygGojlJ1y0A9tCcEIVwMA3T9jPoynJNGGJwZX26Edhk5CBGt88CnYP2nUI68PFQqh8Ni1GzwNgWuMZHJejVGfy65nNEJk2wp4YjHYwgJIxBjqkLApQ==;C1sTeqOIWb/NunIWKA2Rqw=="
 ---

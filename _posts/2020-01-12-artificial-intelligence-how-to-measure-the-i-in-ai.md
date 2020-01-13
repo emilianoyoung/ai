@@ -74,6 +74,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5A3723BF023CA0D020FB912B380406CA
         width: 700
         height: 233
+  - title: "Here’s how to regulate artificial intelligence properly"
+    excerpt: "From Brussels to Beijing, the Élysée to the Oval Office, leaders around the world are calling for bold regulations to govern artificial intelligence (AI ... dozens of policy areas — from criminal justice to consumer pricing, housing to health care. The lesson: There is no one-size-fits all approach. Seizing opportunities while preserving ..."
+    publishedDateTime: 2020-01-13T11:03:00Z
+    sourceUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/
+    ampUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.6DFCF133DE2ADEEF9C61149897A858A8
+        width: 700
+        height: 458
   - title: "Warner Bros to use artificial intelligence to predict box office hits"
     excerpt: "Warner Bros are going to start using artificial intelligence (AI) to help predict how successful their films could be. The platform will allow them to test profitability outcomes depending on different factors including casting, distributor and release date. The studio - which is one of the \"big six\" in Hollywood - has signed a deal with LA ..."
     publishedDateTime: 2020-01-09T14:26:00Z
@@ -230,6 +245,6 @@ related:
         width: 160
         height: 90
 
-secured: "7RA09tVxGCcELUTnEEMUmZPAq7L7QXQMpEPJfgDa1gZtk+OlhpWyOiyFTZywHvdj59LDZFPeaL5BYWv0CVkMP4Au6Wbe8gxZr2U7a6D0ouyr0JDy80Qi2rZvF+z0j0yCGRGrm2+Q31UFOF1BeBjXW2JtOheZOhcNZL0JqX3GCoKoWUU390zTq4Ik7f9IbSWa4aWu9+dMtng+4Xj9LFO4S9cl2GETNvOXv8+jV+P+ouE7XH6dPc3Cb8NS+18p5EVyTk4OpWKy/kD3CsAYlD6gbw==;JG00aoHYH6qhqtXIH74ePw=="
+secured: "7PmTYfUu6OrNh9TAfyoYZ2aG2YYprYGkI2Tw3mLfrFA8kMu0ydXntRqjSQ51ZW/BwvuxtU8zQWODz6BYXkwimj1CMB71XtSLQOxCrkUBWnZKzJAIDldQsgGQJCLJFFtRjkts4X6z/f3YM5T5yK8UBiZTvzOOofYJr4ab0S7IbaFD6MihJSMK3Uq6sc817qhWUuLQWnnptQZ9DVKTpyp7+jYsAGSddRSadZXXnUsStL9XBPxBzSLOnnCYZ8sS76bTKIh4uo4F/JaqAUEbmRKS0Q==;FOlRf8CmCUO5/CvjrmLDog=="
 ---
 
