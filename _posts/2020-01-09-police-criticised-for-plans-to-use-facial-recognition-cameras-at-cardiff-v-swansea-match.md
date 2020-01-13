@@ -250,6 +250,19 @@ related:
       - url: https://www.bing.com/th?id=ON.79369EB21DF3A5335AF056FFBEB3E7E4
         width: 300
         height: 300
+  - title: "With its foray into facial recognition, Uber is normalising mass surveillance"
+    excerpt: "The news late last year that Uber plans to introduce facial recognition technology seems to have mostly escaped the notice of the public, buried as the story was beneath five or six paragraphs in most of the reports on the loss of the firm’s London licence. Or perhaps, as one depressing Wall Street Journal headline claimed, we Brits are ..."
+    publishedDateTime: 2020-01-13T04:06:00Z
+    sourceUrl: https://www.cityam.com/with-its-foray-into-facial-recognition-uber-is-normalising-mass-surveillance/
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.2F7B3C681B1E9F7464CCC73BD7726871
+        width: 700
+        height: 466
   - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
     excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
     publishedDateTime: 2020-01-11T10:15:00Z

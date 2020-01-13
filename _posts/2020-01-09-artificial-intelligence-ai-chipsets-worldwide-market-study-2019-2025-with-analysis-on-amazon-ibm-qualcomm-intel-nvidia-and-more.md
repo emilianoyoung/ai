@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
-excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai) Technologies Co. Ltd. (a Huawei Company) 7.13. IBM Corp. 7.14. Intel Corp. 7.15. Mythic Inc. 7.16 ..."
+excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
 publishedDateTime: 2020-01-09T12:45:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets---worldwide-market-study-2019-2025-with-analysis-on-amazon-ibm-qualcomm-intel-nvidia-and-more-300984314.html
 type: article
-quality: 35
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
-  - AI Hardware
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
-  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-    width: 1280
-    height: 720
+  - url: https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+    width: 800
+    height: 419
     title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
 
 related:
@@ -316,6 +317,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "DVjAyst9rNSvCEce1FSYqc4+CgmesQFOxr2WVnemfvxLZX8ifTusJSfkAvsk4omPxMNCFTWaW3t/t3tMlmO0fLmOn+R/GboSOCi2ONGOn9UNqdsRnopSVbb1QL+p9lV6q4g1ALbg1F0yRn7S+FZ6TWj/IJL2C6KJdsroXQAn6J8q2xkSrbr45P1dBG9gwVlMyKDQKgfjSVYd9C9agjHoG99NjJHn2UHHNj5rZnHMmHfXY1ggfnUAK1c6iX0arQlk5dpC29V0K2JecEurLevLcg==;vDA/kSaOByGAKOGjv5sF6w=="
+secured: "7tF7UyjDR1WloXByu+0HSxaTeDDaZOFD5dNGndlvVFAzaBygrwiFEO6rcsQHLnUL1V6B0j2snEK6+cfSpfM2MgzNw1zJ+3UUJywWegidS+liqfXMV+cby3keAwpb41db9eczqRAxFikLxShYy4k8zHNm+uMOJjMBNqw6o4byS8p3eIXC8AQ9fJjwqBT4/0tjIXejFb/y5ZATfkKgK1y2cLBLYWTAsJPSxp2t1B7uaY7EZ/QU7W5deDMV6q3d/UCGhfIIgoiqmWKEt0udC6yqSg==;lNcjF7RVDfXLx8byqEmUmQ=="
 ---
 

@@ -145,19 +145,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC2FAC96D0EB7D0D7A60C6FFF1CB0F31
         width: 600
         height: 400
-  - title: "Singapore investors plow into health care startups"
-    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
-    publishedDateTime: 2019-12-24T03:35:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
-        width: 700
-        height: 350
 
 secured: "NwzWBDj1srh0IHyTV0dHJW7OcC5r0XiVqN8YN2EXeIPR5QAJs/Zydvmj0HSa9Eq+AR5u1/OwEPV32zoZ8dfk60i+QTbEdgeuEN/MllpAQPjiF9ncKqkdBSdDeTz6yjKdrLjwb6y+IzifxcDXBBXs7lIrW9H5zTSnAtfTLjj9stTVPQaq71e2RYuP6nwmw6dAgRVKrYH5XDBsuq93eQRt64/45oKUFwfRZfybzK6p0u+ngV8dvV5U1kyp7WS8+m6ay71zKhKErkrTuKmmj878Ig==;iviPPKVoJshSdB3iWnyV8g=="
 ---

@@ -147,19 +147,6 @@ related:
       name: heraldscotland.com
       domain: heraldscotland.com
     quality: 34
-  - title: "Singapore investors plow into health care startups"
-    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
-    publishedDateTime: 2019-12-24T03:35:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
-        width: 700
-        height: 350
 
 secured: "qo1/zkbg2ORpqnKpyBEQzzZWbjjZMGKix6gAfWDWnEwNA1rXSxh0JoAp45xJdGWJ2YOjZvAXpfF4ZQTQng2Z5hhqIsXkzOk2VNRVKhiZqhRlq7Vp0fBSg+41ryuZG7ic8mqXAsZMAW5R8rqSTBrwaORBKhswGwSSBxCCSCssW4LFPxmopcoBnLSeKP7uLptx6pAcYvIWio6zHveDtumliBf8Rd8I/X5T0ugU1XLG5RRjwouuY3Ep/xjAW49Gk0L3UDE77O9x8PaiCFZg18Qicw==;/tulEN05GAPTC6nT5gulBA=="
 ---

@@ -58,6 +58,6 @@ related:
       domain: macaubusiness.com
     quality: 10
 
-secured: "M/WCYJNy3v6leOLgsIGraN1upoXroqm7TlADt1HaI2agIwCUtxPNggXqd9kEgwPzXTcOcA2njJOaGCiamFOrLMAzZRa1guVpankFnFADMiAGcDli7hqlHf5r8ZbDEUx/CJC3zqi3c2Edl+bfLvUsqAuFibWjr7kEClJDAB17kFojVGlNenHqiSs8BmhN24giPdjWc6dfETkWS+N0gpR1Fne9fJSqWns7DqgaZh/EmoSM+1MSi39elQd4qJ3hL3BCooafgZYiW9XONdnN4zEjLw==;5mlM489BBF4Qa1g3wX6aYw=="
+secured: "ni5TqBDiZUjksDLqEQjDWGnaKREVoj2Zop0sTBstjp67E4Oy08y/0P32cwUsP4Uxl9HD0teuhmcFthrfT2hhBdsucSRoIV7cd3TbggxZMqsDhtCbFW54QelH5BpuOef61knC1IsSlU0Cz01b6ZkMh4Uuruh0d9IZu3ZAmVnlnpOX/bAoId5IPxBRNLi0YLx1mfzkXLStb/qBBQxsS7rQee/sc3GvZfipUf41yBoTW/VnRjFLsXgiQsyAZLHa7y3yYiU5fYeUPqug8d006ksObQ==;ckb4W/hBroUZxLaiJEhCMQ=="
 ---
 

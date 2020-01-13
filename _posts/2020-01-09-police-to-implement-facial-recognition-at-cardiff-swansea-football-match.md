@@ -237,6 +237,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ADD3BC625BFC937657CD509ADAA73273
         width: 700
         height: 525
+  - title: "With its foray into facial recognition, Uber is normalising mass surveillance"
+    excerpt: "The news late last year that Uber plans to introduce facial recognition technology seems to have mostly escaped the notice of the public, buried as the story was beneath five or six paragraphs in most of the reports on the loss of the firm’s London licence. Or perhaps, as one depressing Wall Street Journal headline claimed, we Brits are ..."
+    publishedDateTime: 2020-01-13T04:06:00Z
+    sourceUrl: https://www.cityam.com/with-its-foray-into-facial-recognition-uber-is-normalising-mass-surveillance/
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.2F7B3C681B1E9F7464CCC73BD7726871
+        width: 700
+        height: 466
   - title: "Police criticised for plans to use facial recognition cameras at Cardiff v Swansea match"
     excerpt: "South Wales Police has been criticised for its plans to use live facial recognition surveillance at this Sunday’s Cardiff City v Swansea City football match. Fans, rights campaigners and a Police and Crime Commissioner say the plans are “a step too far”. South Wales Police used the surveillance technology last October at another match ..."
     publishedDateTime: 2020-01-09T05:00:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Protest against police using facial recognition technology at the South Wales derby"
-excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
-publishedDateTime: 2020-01-12T15:37:50Z
-sourceUrl: https://www.msn.com/en-gb/sports/news/protest-against-police-using-facial-recognition-technology-at-the-south-wales-derby/ar-BBYSAZK
+title: "With its foray into facial recognition, Uber is normalising mass surveillance"
+excerpt: "The news late last year that Uber plans to introduce facial recognition technology seems to have mostly escaped the notice of the public, buried as the story was beneath five or six paragraphs in most of the reports on the loss of the firm’s London licence. Or perhaps, as one depressing Wall Street Journal headline claimed, we Brits are ..."
+publishedDateTime: 2020-01-13T04:06:00Z
+sourceUrl: https://www.cityam.com/with-its-foray-into-facial-recognition-uber-is-normalising-mass-surveillance/
 type: article
-quality: 48
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Wales Online on MSN.com
-  domain: msn.com
+  name: City A.M.
+  domain: cityam.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
-    width: 600
-    height: 315
-    title: "Protest against police using facial recognition technology at the South Wales derby"
+  - url: https://www.bing.com/th?id=ON.2F7B3C681B1E9F7464CCC73BD7726871
+    width: 700
+    height: 466
+    title: "With its foray into facial recognition, Uber is normalising mass surveillance"
 
 related:
   - title: "How the Police Use Facial Recognition, and Where It Falls Short"
@@ -144,6 +144,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F07213A5B9A2934E6BCEBC71CEE06F3D
         width: 600
         height: 390
+  - title: "Protest against police using facial recognition technology at the South Wales derby"
+    excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
+    publishedDateTime: 2020-01-12T15:37:50Z
+    sourceUrl: https://www.msn.com/en-gb/sports/news/protest-against-police-using-facial-recognition-technology-at-the-south-wales-derby/ar-BBYSAZK
+    type: article
+    provider:
+      name: Wales Online on MSN.com
+      domain: msn.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
+        width: 600
+        height: 315
   - title: "No, facial-recognition tech is not some racist Skynet"
     excerpt: "How ridiculous are fears about facial-recognition technology? Well, “advocates” from the Surveillance Technology Oversight Project are suing the MTA simply because the tech might be in use at the 42nd Street/Port Authority station. The MTA says the plainly-visible monitor above a set of turnstiles and with a sign about “monitoring in ..."
     publishedDateTime: 2020-01-12T13:14:00Z
@@ -237,19 +250,6 @@ related:
       - url: https://www.bing.com/th?id=ON.79369EB21DF3A5335AF056FFBEB3E7E4
         width: 300
         height: 300
-  - title: "With its foray into facial recognition, Uber is normalising mass surveillance"
-    excerpt: "The news late last year that Uber plans to introduce facial recognition technology seems to have mostly escaped the notice of the public, buried as the story was beneath five or six paragraphs in most of the reports on the loss of the firm’s London licence. Or perhaps, as one depressing Wall Street Journal headline claimed, we Brits are ..."
-    publishedDateTime: 2020-01-13T04:06:00Z
-    sourceUrl: https://www.cityam.com/with-its-foray-into-facial-recognition-uber-is-normalising-mass-surveillance/
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.2F7B3C681B1E9F7464CCC73BD7726871
-        width: 700
-        height: 466
   - title: "Police criticised for plans to use facial recognition cameras at Cardiff v Swansea match"
     excerpt: "South Wales Police has been criticised for its plans to use live facial recognition surveillance at this Sunday’s Cardiff City v Swansea City football match. Fans, rights campaigners and a Police and Crime Commissioner say the plans are “a step too far”. South Wales Police used the surveillance technology last October at another match ..."
     publishedDateTime: 2020-01-09T05:00:00Z
@@ -316,6 +316,6 @@ related:
         width: 700
         height: 393
 
-secured: "cfwqFkTruam30tTrL8X2YLENK1Uk/DVzF3FsNSRczflswT4mQneshiDF+D7gVc9/UDjw0O+TjSV5tnn8po3eH4xUsBcp8mDfA6ImM2aR1NoQgq+guYLEiL9hU80tRGGNqdkKWuuBvnefRdFGQ+nFdCmlvHrvjnH94RXOyhajHJx9Ajpx4l+kS1I4RRobnEnWlFntHptCFOPtKSIouHIwN4F/Qbt09qX8Rt9d8jwMlbPMyrAqawLgFdvoOa18xn9wOJ0fGXDPq8KO6qsFkWII7g==;MOvfUz3bU1QP4BhMXFHapQ=="
+secured: "v84EBk62qBJWSrEy6UbN2VsV6IYydcuzdsSDKrdmchoNnaEmQnouOt4DTZEtNuwlRcE2IS6xrykvqVf7MaOwol52bfWNn6Xrrfuj++G/CQobFq7HRQ3m2QnR/TxQtS0ayQNp/M+BiGIKuYoKaXt4JWhVR8nTZdXRCDkvrza6UBBib0dAKdPgAz1m0vsAqK3lKBTMj1aH/qdkHGVJpE++nXWO4lMxIlarCQSodtuXqSzFlEXwHcueu2H5MdB5tno8AjkjFR2bnXxjR9gi+HvBQw==;2e1q4YCOeWPlA4USz0xqVQ=="
 ---
 

@@ -23,17 +23,6 @@ images:
     height: 315
     title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
-related:
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
-
-secured: "OH9fJQ3oFXHE7+R3UVEHk0MwjawYBiVrdJ6AC4YDUC4sWsIH3gLeA69PIB+WlwnH2sO2AI9SOyN4v7z75lrXSTvvXqkP4kClRNWJmtoXqSwfDn4a+EbVl/XEh7WM2A7Y4eLy+IPEVPinFaBlGq9gOYQwAaem45h5742TGTYVTxNJq/IGQyjCXfTBFaVFpePoUQ+wMH9JJY0PJxP8cYUGJioLt0WvasawM1XD8a8mLvAvJ8WwmAPQhozxu1un6Ts307TwyB3+WjRQKuTCEaINBw==;ERjxjLu7XXUPPFmgLJuHlg=="
+secured: "11EdkJIgWdZaKpVcAlHDuoKWyFOkxc00DTtAlcSL06KoL1TEwZ7oK//QzunuILvvVvzZu2KcqgU13JlFCY9nKCkZ77dlwzrcXkE/EpOpJ4AJSJwikSgEwPvLxYi6KHh2h91dd8kInkBEO+jRp40wv8UWGaaIlh6aI74HO4DwmrrS+EIr+4drHZUVNU0g+5lMQsogwHFO+FTFdbM9ESPFMaSyoq612uYL/b/dySuetj+OVKPSSFrQ02UzWFBGX4tB6MWWHx120y6bvNLVjXnllw==;95uRXk6pICHoazDftKjyVg=="
 ---
 

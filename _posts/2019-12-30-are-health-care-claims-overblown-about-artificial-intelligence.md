@@ -8,7 +8,7 @@ ampUrl: https://www.pbs.org/newshour/amp/health/are-health-care-claims-overblown
 cdnAmpUrl: https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/are-health-care-claims-overblown-about-artificial-intelligence
 type: article
 quality: 76
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -148,19 +148,6 @@ related:
       name: heraldscotland.com
       domain: heraldscotland.com
     quality: 34
-  - title: "Singapore investors plow into health care startups"
-    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
-    publishedDateTime: 2019-12-24T03:35:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
-        width: 700
-        height: 350
 
 secured: "TenlchKwqEBLs9oKg2OoPTYBW34cWHjplFGM97NIa0Vff5XcxCBwb4/jCvjNRMHeKP+GTWBFcVUEiy8jeTr7wOkLuHtoa5sOlNiCDIvojiPQZdKv6vAX8Kp9zn+aQSGNeIedxxUYjijuQbZfqZz3+7fkK8P3hQLNiCx3RQPtAgvs4rNNDbW7335H+xEeklU2tO6WrjTSS78JKfOB0YD3HA2MZ+L9UaFozzmJxjkyn9UeRYYdc/GOxWEFloOY7hCMQEY6/fUpWkoVp930Z5sOiA==;At4CiRa6eMbjDPj3yZ4HSA=="
 ---

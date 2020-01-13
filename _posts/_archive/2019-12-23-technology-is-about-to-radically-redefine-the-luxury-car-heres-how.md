@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
 
-secured: "cpBam434yGN2oB2PkmaSME7R7gfbY32xK/3OZfjDHaWaByjt8IFuu9qPSHPGFarAxOh7Ez4DLDNTNo7YbHlJvRJsW/Jc7msmMLVekrSrygQRqYojP1Gh6xO/oQjF7zly+yF2uyyn6WKpcC91LkpSVriPhkITEdlPWaHcydr3FTQWhwHk+q1olqZwF3cFT+yt+L+e+fWj22Z+WewVieDA9FoT/r3pD/oP7M+6HtYPdantB5TcOy9/OhVzj86ehYjDQ/n68nHqbawd8T/6hEGcWw==;uBensC26Vfr5UGNdyfX0ag=="
+secured: "EhJ7MiP5Rui0jMFpTGzzcCXCZ6eo7fZLUE6syk2z8b09B34wXjuRvimnmw5LjOmKVu3zlJfrzfqdn3Saw2erU/10VLrKrZUmyPuYK2ZoLBU/OusvV8MZyDS69i1TlAR1MNrnwzGjbKrCbLzTcWrkyLviiPiAaw4YxQtqrWAFV63Gfj4T2yAH5w4xC3vExdRZDj6F+UaIoQdZEJZYc00izcofGwgEBYs7Y0JCysl6npf1t2pffeBFIQLOAuXcdA50LSiOW34PfFqxZi+9TPwWiA==;u/x1Sc/w8PvCOPRL1WGFcw=="
 ---
 
