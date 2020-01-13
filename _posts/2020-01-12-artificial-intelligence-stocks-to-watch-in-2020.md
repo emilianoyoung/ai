@@ -127,6 +127,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B3A16C7F7DAE4E1C09C26BE2325FC798
         width: 700
         height: 466
+  - title: "What Are The Top 5 Fintech Trends Everyone Should Be Watching In 2020?"
+    excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
+    publishedDateTime: 2020-01-12T23:03:00Z
+    sourceUrl: https://www.linkedin.com/pulse/what-top-5-fintech-trends-everyone-should-watching-2020-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.20AD7EF6B1AABAF1651558031CBC50E4
+        width: 700
+        height: 466
   - title: "The Technology 202: Silicon Valley will face new challenges in 2020. Here's what we're watching."
     excerpt: "States are also expected to take a greater role on issues such as autonomous vehicles and facial recognition. 4. Tech giants’ power and size will be under the microscope as antitrust investigations heat up at the federal and state level. Antitrust will continue to dominate the tech policy debate, especially as the House subcommittee leading ..."
     publishedDateTime: 2020-01-06T14:13:00Z

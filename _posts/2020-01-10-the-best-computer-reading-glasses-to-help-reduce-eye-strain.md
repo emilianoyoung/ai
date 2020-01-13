@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?a
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
 type: article
 quality: 89
-heat: 120
+heat: 119
 published: true
 
 provider:

@@ -247,21 +247,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9155C460A01B52A5A7DFB9979CE97A77
         width: 600
         height: 338
-  - title: "Video shows a grandma freak out while sitting in a self-driving Model S"
-    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
-    publishedDateTime: 2020-01-12T21:04:00Z
-    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
-    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9247CCF47D4673858EB9220C65D5720A
-        width: 700
-        height: 396
   - title: "WATCH THIS: Amazing CES footage shows a self-driving car navigating the narrow streets of Jerusalem"
     excerpt: "The car was developed by Mobileye, a recent Intel acquisition that develops a wide range of mobility devices and software for motor vehicles. Scroll down for video Unlike many other self-driving cars, the Mobileye vehicle doesn’t use any LIDAR or RADAR sensors and instead creates a detailed three-dimensional map of its surroundings using ..."
     publishedDateTime: 2020-01-08T19:21:00Z

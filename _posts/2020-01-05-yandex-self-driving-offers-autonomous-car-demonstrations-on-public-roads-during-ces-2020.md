@@ -117,6 +117,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E74BA8C1C89F32FEB6DF0542935DBBD2
         width: 320
         height: 180
+  - title: "Seeing Machines to showcase FOVIO Driver Monitoring Chip Technology at Automotive World 2020"
+    excerpt: "TOKYO, Jan. 12, 2020 /PRNewswire/ -- Seeing Machines Limited, the advanced computer vision technology company that designs AI-powered operator monitoring systems to improve transport safety will be exhibiting its FOVIO Driver Monitoring Chip technology ..."
+    publishedDateTime: 2020-01-12T22:00:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/seeing-machines-to-showcase-fovio-driver-monitoring-chip-technology-at/article_59926203-db78-592b-8679-187841dd4c05.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
   - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
     excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
     publishedDateTime: 2020-01-06T00:37:00Z

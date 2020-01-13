@@ -5,7 +5,7 @@ excerpt: "We use cookies to personalise content and ads, to provide social media
 publishedDateTime: 2020-01-09T12:45:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets---worldwide-market-study-2019-2025-with-analysis-on-amazon-ibm-qualcomm-intel-nvidia-and-more-300984314.html
 type: article
-quality: 22
+quality: 20
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - AI in Robotics
 
 images:
@@ -308,6 +307,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "qi0Ri/2ZBQtEBW0LjpciY9oJyoWI1qH/m0jpMbVicTWNXzJGi4hi4ZmXqbC/Fwa2S2kg5lvUaHmI9cS0smoYCXb+FoTHTp20BqNCy3GGqOCoFdYOODvsN15sAx75ojjIlj6b5/UdzSoefrRZiQgigzS9PPCnxcmyewlWhKQcoJrXvp22rUUdo//vqTyszETH8UarNUaMfvSEG+SL45mT12PJnwFNxTnshXfed0AxNEcCowEECEKwdjWYC1URORZuQNeLQUs/rlhGz2BERjl8/Q==;B/I1t1yU2OJjr02Z/2tFrg=="
+secured: "8ftzgmihWbWRz3vGrDRTvj4TKOL9lpub51NWHq0vM2CKYNlH7ZrtfkdQ8IIcoq6nxsY6KQudmVl/xKOt3A6GOotWfipmnSP79jx+i/c8eCINdz9Ce0mpSxHwbIOrhlGME0my/knMHZqZqolTxIFwZvQXGpAlAP1H6Lmnx4dlhP7DFcBj3JoUoj/jmuxbyL9XSDG1vdmQ846AZYfO7SyISxOtkg8/WBUPg3rXd5dHJvljDC2fFj4/m+y5wnBJngxvf6bUCUYcGES6sVIzxUBXlw==;hnxC8CFj4lCU/CAdy9UXNw=="
 ---
 

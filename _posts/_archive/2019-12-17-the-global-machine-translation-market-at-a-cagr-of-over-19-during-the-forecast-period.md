@@ -23,6 +23,6 @@ images:
     height: 315
     title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
-secured: "B2BpAVX8psP3yFAm81xRX1FiH7bQ8bbnVGhCKb1mJpdzo3llhRvIKZKfRSDqXGVk+V+RMfcuqfwYky0zPAywl4+AAhmZbzvTO8U7TbYH1JfMjFSbDt/UIWpho6kz6sZlr/faIMzkSDQIrsrj0zUBcoQ0oyid/mt6ckthYKjr3y2fGRKG0Jjm8tYvt8DKvUU761rWmaCg4cw8v3Z/9yrWYDStRLTYosvJTqTFXB4QR2cJAupJCyO78i2oPA/9Pk3oBz50FAYWMUCpt3AzCD2RAQ==;wOSH5cRGZ6NQwubba9GNQA=="
+secured: "Vylbrs49sjv5zX2ZLZoINp16zmfuFn3luGISeL1Pe8SwoQ5TZ1qSf5HEU0q4ZKSxcl+q/WamLEc9Sho0iPvxw6Vpj1yLbp6zbdC7WBhIJHy+zSeecI2l/109sny32c10lx2xFsKGLoATXpbZDlPnqJm91J/8EErK58LDOqZuqvZGW2B7Pe0wttHsDvlc62bQ/wyWIBBc9U9Hv5wYcFDlkIDpGgharOJer8rpIPhWn+2LuOMt7LxXoWwixv1LSoUIr3Sr66DFjKOHdOVRKpQ5zw==;tBGvidxPlORSAYz6trzutw=="
 ---
 

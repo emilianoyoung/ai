@@ -87,17 +87,15 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
     type: article
     provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "VS6ASz6+A8g1/9mwlMmb4hd6cemp0W+K0qVKJuxkleAcmfL4BsuzPEFLC5X+SWbg4KAmf3Yw/9SZ7MY3fWB0YcHnTjojuVkK1kcL7QxKIqfmUCDR9RD11j614P2oWBEAn80+/RstA0wp1HU5lpqB0UDliWW+orC/TviFnK9jbxBhoKqY/PKqqL40JhTUbfmltw042rU6s2LX7fKEps+EuPjNMIROCIQAjm5ryi+ycKtLxrO7HVMQjgLgxyyoyjioChtoKrd9STvli2EpbzKFtw==;NAh+zYhk/RJYdF21C7kbjQ=="
 ---

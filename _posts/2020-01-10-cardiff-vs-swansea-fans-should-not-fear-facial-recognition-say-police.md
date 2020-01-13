@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8C342A103904B414ED1D7EC9E777DA51
         width: 700
         height: 367
+  - title: "City Employee Claims SDPD Hid Information on Facial Recognition Program"
+    excerpt: "In a report to the city’s Fraud Hotline, a former city employee accuses the San Diego Police Department of failing to release information regarding facial recognition to city council, the media and the public A former city of San Diego employee claims the San Diego Police Department attempted to hide information about its use of facial ..."
+    publishedDateTime: 2020-01-13T00:15:00Z
+    sourceUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/
+    ampUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.000AA546159B1196D97901372E6F925C
+        width: 700
+        height: 393
   - title: "Is Delhi Police’s Use of Facial Recognition to Screen Protesters ‘Lawful’?"
     excerpt: "The eventual legal answer may lie in whether there is a clear distinction between physical and virtual intrusion of privacy."
     publishedDateTime: 2020-01-07T04:53:00Z

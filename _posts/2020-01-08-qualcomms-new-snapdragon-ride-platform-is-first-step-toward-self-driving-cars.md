@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.77D65AEC3459E4B591C6F7E37CB1E251
         width: 700
         height: 367
+  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
+    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
+    publishedDateTime: 2020-01-13T00:35:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/13/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.B5BCDC1EDA3FE1581BD87FEE79BEEB5D
+        width: 700
+        height: 466
 
 secured: "ajxcBkzlFEqpq+U/tLDy6DqNKn+yjpvKfaOZiEOyT7iMcfngxYrKjBb4O3EmVXKuQnXypMSp0oiRsy7KFZZ562gBLtjrnOIZHfxIYpIun6uah5AF4YDah7mL49NoYUU6fDUMGWTrnYUvo6S8UUyx2q869Cdm3lNkpVQPk6Iv83JSGWn3cVJMaGQdlJccxedyVS/ienuiGBtMvV4VmRw/qgvfyxPreIPCjRRjy9j6yA4w5hjs+oYLbS6Iom7N+v80WVE1ACItO7G/P9WTtFNgeQ==;5v+lIymfmSO002D/o77x0w=="
 ---

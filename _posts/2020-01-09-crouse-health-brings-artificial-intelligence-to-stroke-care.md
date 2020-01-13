@@ -24,34 +24,32 @@ images:
     title: "Crouse Health brings artificial intelligence to stroke care"
 
 related:
-  - title: "Artificial Intelligence, Psychology, and the Health Sector"
-    excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
-    publishedDateTime: 2020-01-03T12:36:00Z
-    sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-    ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+  - title: "AI's health care hype"
+    excerpt: "Two new studies highlight artificial intelligence's potential to improve patient care ... The bottom line: We've got a long way to go before AI lives up to its hype within the health care system."
+    publishedDateTime: 2020-01-07T11:24:00Z
+    sourceUrl: https://www.axios.com/artificial-intelligence-cancer-screening-d0482e55-5c47-457d-ac14-01c70129074d.html
+    ampUrl: https://amp.axios.com/artificial-intelligence-cancer-screening-d0482e55-5c47-457d-ac14-01c70129074d.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/artificial-intelligence-cancer-screening-d0482e55-5c47-457d-ac14-01c70129074d.html
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
+      name: Axios
+      domain: axios.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
-        width: 639
-        height: 413
-  - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
-    excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
-    publishedDateTime: 2019-12-28T09:17:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-healthcare-sector-advancements-090148569.html
+      - url: https://www.bing.com/th?id=ON.C19F5EBE8631676A2D972E708B42FF5F
+        width: 700
+        height: 393
+  - title: "Health Care AI Increasingly In Crosshairs Of State, Fed. Gov't"
+    excerpt: "including through partnerships with health care providers. This new field — sometimes termed HealthTech — often focuses on developing new technologies to improve patient care. Many of these new technologies rely on artificial intelligence to help distill insights from massive datasets, including data about patients’ daily behaviors ..."
+    publishedDateTime: 2020-01-09T19:43:00Z
+    sourceUrl: https://www.law360.com/articles/1232637/health-care-ai-increasingly-in-crosshairs-of-state-fed-gov-t
+    ampUrl: https://www.law360.com/amp/articles/1232637
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1232637
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.B9FA02316D03526660BE2C72951411B9
-        width: 660
-        height: 440
+      name: Law360
+      domain: law360.com
+    quality: 39
 
 secured: "5tidHvycCsK5Ie5Xyq467B8zbdplQ+Jdb5e5dofAwDfhXrr1dRGSRATbgg3BlEh7hh/VPlGeXOFSaQUex+JCS5NwG3Czr0/2gtfE3iLxUrCw8vCBv9w14Xb2QN00XtK1ieL9rHQQhM82AliG+v8HElhoQYrXXdl/WKGMuesXgXtPeOfqR/X9bKI9qplt7hl1gdbAw8hSTmTwDw/ceMd7V+AzZmUM+wgC7ZI45bozIBsvrtANQz90WRSKJXyw7x8YwKeI1AcfS26ja3jBYU09Ug==;Se/wNfrHXxEf0c37UicLfg=="
 ---

@@ -238,21 +238,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9155C460A01B52A5A7DFB9979CE97A77
         width: 600
         height: 338
-  - title: "Video shows a grandma freak out while sitting in a self-driving Model S"
-    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
-    publishedDateTime: 2020-01-12T21:04:00Z
-    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
-    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9247CCF47D4673858EB9220C65D5720A
-        width: 700
-        height: 396
   - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
     excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
     publishedDateTime: 2020-01-06T22:23:00Z

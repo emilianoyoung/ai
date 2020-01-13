@@ -42,6 +42,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BD50F2118F2E2D398647702F67C9A692
         width: 700
         height: 366
+  - title: "City Employee Claims SDPD Hid Information on Facial Recognition Program"
+    excerpt: "In a report to the city’s Fraud Hotline, a former city employee accuses the San Diego Police Department of failing to release information regarding facial recognition to city council, the media and the public A former city of San Diego employee claims the San Diego Police Department attempted to hide information about its use of facial ..."
+    publishedDateTime: 2020-01-13T00:15:00Z
+    sourceUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/
+    ampUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.000AA546159B1196D97901372E6F925C
+        width: 700
+        height: 393
   - title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
     excerpt: "Football supporters have no reason to fear the use of facial recognition technology amid criticism of its use at Sunday's south Wales derby, say police. The system, which was also in use at October's match between Swansea and Cardiff, is designed to identify and help remove fans who are subject to banning orders. Supporters' groups have claimed ..."
     publishedDateTime: 2020-01-10T08:37:00Z

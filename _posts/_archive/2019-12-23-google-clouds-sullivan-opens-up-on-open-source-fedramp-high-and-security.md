@@ -5,8 +5,8 @@ excerpt: "We have machine learning and artificial intelligence that’s really g
 publishedDateTime: 2019-12-23T22:15:00Z
 sourceUrl: https://www.govexec.com/sponsored/leadership-voices/google-cloud/google-cloud-sullivan-open-source-fedramp-high-security/
 type: article
-quality: 24
-heat: 24
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Microsoft AI
 
 images:
   - url: https://www.bing.com/th?id=ON.F9B18BF03BE39443DEBA733C70F27BCB
@@ -24,6 +23,6 @@ images:
     height: 700
     title: "Google Cloud’s Sullivan Opens Up on Open Source, FedRAMP High, and Security"
 
-secured: "FUxdKlRm4IuOs/QXomOp/uCL/pF6AmKgEY51gahP5kjh30kZFvUVv0Am1N9jf47gU7Qc8KKYO80OeJp1Byow5pw38Npw1ujm1m38V97o6MtfnWBsti2GyDWTf3tCD5u6segv3IzsNWic+pyisGwnunaylwBpcuXCKsjds2MF07lHtvCh5mxYKPiDgHkcm8Hq0b86XP+s33rVHBIpTGlT4EcYUkG1OTmcGr0dEW4wf9B/3TY0dpLDUes8/Vr5cMkl/CCxQ9ocqO+mVcrdG4XCfQ==;/JdSieTzy7Qk24yUZA0htA=="
+secured: "vArQJIKkoGrgFsyOKZvKAVcBZgKwS5szzbdvUHOilrZecWbe3Mlyq15nFPtNhpfmyGnOD8YptKXwaNac+81TkcjRy6+h+t6JAChhyvKgtYFVCyQwfk5RwWNSiqFbNvG+JHe7PLZWD7CaGqZPBR7hJ0Tnefg/0nJDaK0TJaTGBwP6QwUfmKKT06UFcfvsNkMNQTvht6Z6L4BcWuT1aqS3VZI7mKhq2fhl1Byr0GBDOuALHXA3IH7BguGn0X7t+KoadIM1ufIWVZboJKE6IrPpAQ==;i5P9WeOjmn0CnjE1fdF70g=="
 ---
 

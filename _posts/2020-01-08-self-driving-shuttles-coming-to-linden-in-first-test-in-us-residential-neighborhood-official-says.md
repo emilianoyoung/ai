@@ -226,6 +226,19 @@ related:
       - url: https://www.bing.com/th?id=ON.036C145036BC45A59B6F375DD441FAFB
         width: 700
         height: 437
+  - title: "Video shows a grandma freak out while sitting in a self-driving Model S"
+    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be."
+    publishedDateTime: 2020-01-12T20:58:03Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/video-shows-a-grandma-freak-out-while-sitting-in-a-self-driving-model-s/ar-BBYSQUI
+    type: article
+    provider:
+      name: BGR on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.355506E6D2B22A7FA49FFA27E8C9EF44
+        width: 700
+        height: 367
   - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
     excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
     publishedDateTime: 2020-01-07T12:13:00Z
