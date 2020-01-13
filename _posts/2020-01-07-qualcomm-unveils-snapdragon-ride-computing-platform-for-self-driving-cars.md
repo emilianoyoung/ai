@@ -239,6 +239,19 @@ related:
       - url: https://www.bing.com/th?id=ON.355506E6D2B22A7FA49FFA27E8C9EF44
         width: 700
         height: 367
+  - title: "Test for self-driving shuttles to run in Ohio neighborhood"
+    excerpt: "COLUMBUS, Ohio (AP) - Self-driving shuttles will do a circuit through a residential neighborhood in Ohio’s capital city as part of a year-long pilot program starting in late January. Three, 12-passenger, disabled-accessible electric shuttles will travel the 2.8-mile (4.5 kilometer) route in the Linden neighborhood of Columbus. The shuttles ..."
+    publishedDateTime: 2020-01-13T07:11:00Z
+    sourceUrl: https://www.washingtontimes.com/news/2020/jan/13/test-for-self-driving-shuttles-to-run-in-ohio-neig/
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 24
+    images:
+      - url: https://twt-assets.washtimes.com/img/icon-facebook.jpg
+        width: 314
+        height: 314
   - title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge of technology"
     excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
     publishedDateTime: 2020-01-10T00:05:00Z

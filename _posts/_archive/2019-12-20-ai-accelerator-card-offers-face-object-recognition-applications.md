@@ -54,6 +54,17 @@ related:
       - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
         width: 640
         height: 433
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -73,6 +84,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "3EkoSDt1RrN7zkEBG4k0mbW3LaSJ1SAn/dzdarC8F6G9jiDO/ARdlNWILm81OP4KV3wSg7U2jynvU3HgJPc5mq4pUCVkYajWuy2bLhtYlMY0QNGFPbhVib0DFISjh1Ws9IwB5qW84iWU9gDJDBFMe78JSZYrni56nMmdWitrv88DyDDKIavQfMzAo8xJ3nCaPB2t9uSPgd2mXiMs2M0eNTNlsTVu2hnIzRFTL+gMwXchvqIIlFUhQX9/5XYN3JpH9zqTBlbA698wwJB5Y6EeUA==;qXbkEczA363Ftep10e2YNA=="
+secured: "cje2indr41f1gshhzz6kLuByAYrRRvSYVwOoQj6Egr2d4v5xekhijXACgssystq+NVoyw5JWcV0PB3U+FFVGfX+sNfMKtitNwL1FgidlBRRoCdiDOsKdyJEXn/Jzz7OAEXogeBWZJkQxDV3fPuozYuQLU2jBKvjVG8jf78Vr6FBkwAbwVbn9UGUavCnPLKbqr2qqEzAy7pgRLeSFRjU6XHClUFd+XEpbvfSW/wMYiQyRx4HvXNMNjxj0ygKUXZnEkxATcgRi0ZLxBVPwbUoucQ==;B/2dicPPeCG0FazspBxxlA=="
 ---
 

@@ -63,19 +63,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-    publishedDateTime: 2019-12-24T05:45:00Z
-    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-        width: 700
-        height: 393
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -95,6 +82,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "ysI2h4jpgFeZuOppo1Cm3XL3ghu9qRVHdvor5QyDUfpij2bcQKu0bbCCcaarOQE1hrb5qkVEVlMcTH++JVroeBnBkeX3XjVMZj9ikRU8gAvamK97IifZD/UA8sN2O/sjJqzf8dv+FOfBCRGGn12SRZBPiP9+nON45g+G8sOrtq/VSxfnxqdkbW80MCiEpZJuy1e6577TJRmpYWjvls4zlaXguAhH0OXHL5OzoQ3ybfDQhlZe2FcoaNbLzV/MDsNQgk7XwDGCsYCB3uC7hm3Iag==;/ak+p5pp+AMli16rKlMAdQ=="
+secured: "xjTTtz4qkChVumyWVVRIYQjYvAd12FOvlfNjyAC68p3xWatUIM6UGZ/LOrfxy0M2b8wCK2IDVzNGwIW9rydH91ITb7ydt+7tUBBhAk+s4X0lH3jIqqa758hi0WsY8iW80CC+zefR4N0EAnVN/GbfwAZU/yJF4HRdBIC4RtiN9V2W83ytCWSvDsWH51FmmeANhsPoY+03z5LTnCqu6m5SF8mJZIjgm1swh7tQaud44Wu/dy28xIRDfaZr8FxyOhFuRU0GG1TAJNWgLKKehhTzmA==;joXxEchXJNirvn5G9wZnWg=="
 ---
 

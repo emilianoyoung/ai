@@ -61,6 +61,17 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -71,6 +82,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "CfJ6QqkeLxru+rJ+0w16xxvXGe5LBSJLkp7TCArSwNxQKEOWYwHJsy/H7Wfu9x2X/ARXn0+iKRyId097WPVGapAxJnQks0rLM218qye0BS/w4xoqcBCTwtTwUChcHm5dZVc6UPByiPIYWMR3+QLgjRFPc9nrkSkYv4Hb0OGke4s2X/B10J+7VbOxE+dlMzLiDx6j9p0vhhBPvJoDEbB8qMSk0RccYfEElWbO0uNExhsR3JEQqzfBZQkf1K397zz8Lv9An1aHTA8ujZN64SVTZQ==;ET1MugFMCuYvtEWeukjWog=="
+secured: "jm6C0ivcBkdNMJsfPZebox18SKbVU/cTD1xUnDL7gWK9FFxQNGgZZdCjNKk5cBTqh5zIyHQd4g4l00pebOVBewFQBqMYL+CJMNR+hGwPbX7OoGM9y1N0/6PdiPKYNgJ3dqf2LiXOI+HbyVWVP7TRtfdPmpCsIZN2Z9YZrWa6ME3RYZ0myNqi4NYboqXUQ26k9jDS90ZUzSpzBNiKn2H6BN6aSINNHne9LeJvKRPYIFLcyHkY/MLEF8YO77TOpG/+g47wTD2IpDAgrCiCBVeVKw==;kAzQFqIJG0siBFlgCLtnZg=="
 ---
 

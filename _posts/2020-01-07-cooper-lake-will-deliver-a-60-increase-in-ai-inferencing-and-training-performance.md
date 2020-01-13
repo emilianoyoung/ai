@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/cooper-lake-will-deliver-a-60-increas
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/cooper-lake-will-deliver-a-60-increase-in-ai-inferencing-and-training-performance/amp/
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Cooper Lake will deliver a 60% increase in AI inferencing and training performance"
 
 related:
+  - title: "Importance of AI in making lending easier and profitable"
+    excerpt: "With the onset of AI, the banking sector has completely over-hauled the lending process; simple, cost-effective, and profitable for both lender and borrower. With the rising number of smartphone users across India, the digital mode of payment has been increased dynamically. In “India Fintech 2019” report, Unified Payments Interface (UPI ..."
+    publishedDateTime: 2020-01-13T07:50:00Z
+    sourceUrl: https://www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/
+    ampUrl: https://www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/amp/
+    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/amp/
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.17BCC2959912FD08EC4F08029F1E98A0
+        width: 700
+        height: 329
   - title: "Groq AI Chip Benchmarks Leading Performance on ResNet-50 Inference"
     excerpt: "Today AI chip startup Groq announced that their new processor has achieved 21,700 inferences per second (IPS) for ResNet-50 v2 inference. Groq’s level of inference performance exceeds that of other commercially available neural network architectures, with throughput that more than doubles the ResNet-50 score of the incumbent GPU-based ..."
     publishedDateTime: 2020-01-08T15:29:00Z

@@ -1032,19 +1032,6 @@ related:
       name: District Administration Magazine
       domain: districtadministration.com
     quality: 19
-  - title: "Voice recognition offers big potential for medical sector says Microsoft Research Asia executive"
-    excerpt: "Medical application of voice recognition has large potential but must be integrated into medical practitioners' work flows, according to Eric Chang, senior director of technology strategy at Microsoft Research Asia. Doctors have to record patients' conditions and search for their medical records while doing diagnoses, and radiological and ..."
-    publishedDateTime: 2019-12-24T06:57:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191224PD208.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.B0B89D2F0DF8FB76191957F507F1E717
-        width: 336
-        height: 254
 
 secured: "OBf+h9Vmwm9U7n3d9aq6Db0kwOIhkr9fY96d7+4jQuIU7hwA9NN59hmc5sB1pfPFcf3bjWcz710K7UNgKnJTYWS49RRI7HNSQ9cyvp9YVsgrekZQfVAzdvBBGoQcWdNEQxdIPoYotXLBIdqZVXBqor91B1C6d4RPrDudEeaIMyfGKL9ujtAf633Mdl9hmm72b5WodblJ9ZCj0DEYsBAK/UnDCnKQCJRH4h2kSPHaGxG1z27rrd7+p6kFNvT4fPtiHp4pCXJT+UQ3DnBgM/cp6g==;BrEDyIORK1cKcYSOgEshug=="
 ---

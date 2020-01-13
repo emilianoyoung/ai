@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-managemen
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Big tech is coming for banking: Experts predict fintech's 2020"
 
 related:
-  - title: "Fintech startups to make a bigger move in 2020, experts suggest"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-24T06:59:00Z
-    sourceUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/
-    ampUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    cdnAmpUrl: https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
-        width: 700
-        height: 393
   - title: "Big Tech is coming for banking, experts predict fintech’s 2020"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: \"The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organisations’ offering their customers banking products."
     publishedDateTime: 2019-12-26T02:03:00Z

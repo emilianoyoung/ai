@@ -1032,19 +1032,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
         width: 700
         height: 344
-  - title: "Voice recognition offers big potential for medical sector says Microsoft Research Asia executive"
-    excerpt: "Medical application of voice recognition has large potential but must be integrated into medical practitioners' work flows, according to Eric Chang, senior director of technology strategy at Microsoft Research Asia. Doctors have to record patients' conditions and search for their medical records while doing diagnoses, and radiological and ..."
-    publishedDateTime: 2019-12-24T06:57:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191224PD208.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.B0B89D2F0DF8FB76191957F507F1E717
-        width: 336
-        height: 254
 
 secured: "5i83VOcAzXLg7gS8GMo+Vejw5NHN8nAJiZHLqwV+O7MCwGyC+mhMucipZtKVd9cLgNM5agXs3g+qPe+tBb0c4/B1/jakw1t7M8+meCAAF8LWURgm3LI4M58wc53m6xuOkBj9eEkK0MQsHv3Tx1biktlj5vc5B05Dp+aBsAGx0tqeoM5t9zoNluVQR6rMcpfprlxk4/BNxsVKaLRO6xR7HIlzyuMdq3wclw9gqV1Ajsr9WbP4UY6nck80JBzeul/uoUtNcFBx7b0UCdanCHJd3A==;T/glEA5pTNQUUtVnm/lfMQ=="
 ---

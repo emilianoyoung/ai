@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3F84C21B1199EF76A266F5B5D51FA1E7
         width: 700
         height: 379
-  - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
-    excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the ..."
-    publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
-        width: 700
-        height: 350
   - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
     excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
     publishedDateTime: 2020-01-02T16:51:00Z

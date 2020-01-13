@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D92FF4C3A2D4254B2D26812CF1CE17F5
         width: 700
         height: 350
+  - title: "Importance of AI in making lending easier and profitable"
+    excerpt: "With the onset of AI, the banking sector has completely over-hauled the lending process; simple, cost-effective, and profitable for both lender and borrower. With the rising number of smartphone users across India, the digital mode of payment has been increased dynamically. In “India Fintech 2019” report, Unified Payments Interface (UPI ..."
+    publishedDateTime: 2020-01-13T07:50:00Z
+    sourceUrl: https://www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/
+    ampUrl: https://www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/amp/
+    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/amp/
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.17BCC2959912FD08EC4F08029F1E98A0
+        width: 700
+        height: 329
 
 secured: "eKbaIOgulrhkW8HDWPsm3UCDtuR3Dv9PWxp+t94iR+8sXSJh8930IE+uCP153xbO7aOtu/K9aU/qyVG68AyLE8EIoBmt8Q1TWnyHtNpS9YAOJsytDQd3ErMcraS4X6wmeId1Etnyd/lF073NigqkxhlzqupYx6G8Qpn+J1bE8oFwNBX82QpkOTxfprIDPmIBDxb/HARhsrnCi4Q1iiEYVzUSxmMtkGMcu4foO2Bz7Luhql2yT5Er3a4qPsJZvou6wADQNfxh7N4CQlQ7klwGxg==;DkgwAOlvVi4hYuZ4mkEs1Q=="
 ---
