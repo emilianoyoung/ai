@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T11:32:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
 type: article
 quality: 62
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -55,6 +55,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence in Education market share. Major industry players with significant revenue share include Pearson, IBM, AWS, Nuance Communications ..."
+    publishedDateTime: 2020-01-07T05:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-driving Car Market 2017-2023: Growth, Size, Share, Global Forecasts Analysis, Company Profiles"
     excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
     publishedDateTime: 2019-12-27T13:22:00Z
@@ -68,6 +81,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
+    excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
+    publishedDateTime: 2020-01-08T09:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.E7944AFF37B604D06BED74EE64083792
+        width: 700
+        height: 366
   - title: "Automotive Artificial Intelligence Market Size, Future Forecasts, Growth Rate :: NVIDIA Corporation, Alphabet Inc, Intel Corporation"
     excerpt: "The report attempts to offer a high-quality and accurate analysis of the global Automotive Artificial Intelligence Market, keeping in view market forecasts, competitive landscape, and technological advancements & risks, and other important factors. Its carefully crafted market intelligence allows market participants to understand the most ..."
     publishedDateTime: 2019-12-27T04:02:00Z

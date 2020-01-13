@@ -41,6 +41,17 @@ related:
       - url: https://www.bing.com/th?id=ON.392162191C2779B8ADE6351428AF025A
         width: 640
         height: 361
+  - title: "VMware Workspace ONE Intelligent Hub Virtual Assistant is out, here's how to get started"
+    excerpt: "The virtual assistant, now officially known as the Hub Assistant, uses the well-known, pre-existing digital assistant, IBM Watson, and features natural language processing. VMware product manager Tony Kueh explained to me at VMworld that Watson was chosen because IBM specifically designed it for enterprise use, allowing it to better understand ..."
+    publishedDateTime: 2020-01-13T05:24:00Z
+    sourceUrl: https://www.brianmadden.com/opinion/VMware-Workspace-ONE-Intelligent-Hub-Virtual-Assistant-released
+    ampUrl: https://www.brianmadden.com/opinion/VMware-Workspace-ONE-Intelligent-Hub-Virtual-Assistant-released?amp=1
+    cdnAmpUrl: https://www-brianmadden-com.cdn.ampproject.org/c/s/www.brianmadden.com/opinion/VMware-Workspace-ONE-Intelligent-Hub-Virtual-Assistant-released?amp=1
+    type: article
+    provider:
+      name: Brian Madden
+      domain: brianmadden.com
+    quality: 15
 
 secured: "05lHcbhn6HHY1AZNG0uVqfw1P0/9jAxCFULcb2i81GeWNGz+uP774z1IAEgFeRBC9r+BShHtqURZ8iKiMOYdpEmq1H6c6uzhFFFLhwQiylFioDrko/+HX+f/4AtYLfiLy9URHfmEMJaZyvfpsMP3AxsQraQ261L56zHbQEuAaTpfctOeeopap/bSNM0hOD8VhgCfYq1dQlERLMljZrhpPjDiORqlnaXbiplzxR7qkjaXF4FJ/URSE9JbF75e+RLu3zPQtGk/FVzq8o5Gmdl/qA==;pwi1LjyMShz0L25RcEw5Rg=="
 ---

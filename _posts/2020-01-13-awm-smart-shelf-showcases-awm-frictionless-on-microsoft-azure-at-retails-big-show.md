@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-13T00:04:00Z
 sourceUrl: https://finance.yahoo.com/news/awm-smart-shelf-showcases-awm-162600490.html
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: YAHOO!
@@ -24,19 +24,15 @@ images:
     title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail’s Big Show"
 
 related:
-  - title: "AWM Smart Shelf Showcases AWM Frictionless on Microsoft Azure at Retails Big Show"
+  - title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail’s Big Show"
     excerpt: "To take ease-of-use to the next level, using Azure Cognitive Services, shoppers will be able to be identified with ... The underlying technologies are built utilizing artificial intelligence, computer vision, machine learning, and application engineering to reinvent the retail space as it is known today. The ecosystem of solutions improves ..."
-    publishedDateTime: 2020-01-12T16:34:00Z
-    sourceUrl: https://www.financialbuzz.com/awm-smart-shelf-showcases-awm-frictionless-on-microsoft-azure-at-retails-big-show/
+    publishedDateTime: 2020-01-12T15:26:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200112005047/en/AWM-Smart-Shelf®-Showcases-AWM-Frictionless™-Microsoft
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 64
-    images:
-      - url: https://www.bing.com/th?id=ON.2A17B5FB71F6E63FF99F9540B91023B6
-        width: 270
-        height: 157
+      name: Business Wire
+      domain: businesswire.com
+    quality: 42
 
 secured: "zmEhCC5a/rnBXiL3PD90z5UgUkLpCyAMctjz2ma287yxtVSg1hr52TNdhC5FcQTGj5MhBYK+AMZPr3EPKtMJQXqQAHiYDl/TYkWBrSn2FyknSq1dYarxZGdrKi/iDGKrZJ6GMMiU4W+oCj9zUb6kn1W7EI84BWTENWw6Zx8UdYPXhJjQ/cHbFHJ5jlI5rd4PvkX52fSJtzIiet8yYuKRKHT35jjIVKmF+01puHMDfKT7O5X652R/LvNenNQZQo3bye9oG9I6HkyRfvFDqsdDZQ==;Dmr8Qevyq2B4LYPhpDPqjg=="
 ---

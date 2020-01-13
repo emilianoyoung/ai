@@ -57,6 +57,21 @@ related:
       - url: https://www.bing.com/th?id=ON.000AA546159B1196D97901372E6F925C
         width: 700
         height: 393
+  - title: "South Korean job applicants are learning to trick AI hiring bots that use facial recognition tech"
+    excerpt: "Video interviews using facial recognition technology to analyse character are key, according to Park. “Don’t force a smile with your lips,” he told students looking for work in a recent session, one of many he said he has conducted for hundreds of people. “Smile with your eyes.” Classes in dealing with AI in hiring, now being used by ..."
+    publishedDateTime: 2020-01-13T05:08:00Z
+    sourceUrl: https://www.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
+    ampUrl: https://amp.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.CA35586C180BB502D5048AE522628AA4
+        width: 700
+        height: 367
   - title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
     excerpt: "Football supporters have no reason to fear the use of facial recognition technology amid criticism of its use at Sunday's south Wales derby, say police. The system, which was also in use at October's match between Swansea and Cardiff, is designed to identify and help remove fans who are subject to banning orders. Supporters' groups have claimed ..."
     publishedDateTime: 2020-01-10T08:37:00Z

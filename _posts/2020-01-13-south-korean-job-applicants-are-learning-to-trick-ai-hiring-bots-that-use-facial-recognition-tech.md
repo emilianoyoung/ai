@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Is Delhi Police’s Use of Facial Recognition to Screen Protesters ‘Lawful’?"
-excerpt: "The eventual legal answer may lie in whether there is a clear distinction between physical and virtual intrusion of privacy."
-publishedDateTime: 2020-01-07T04:53:00Z
-sourceUrl: https://thewire.in/tech/facial-recognition-delhi-police-lawful
-ampUrl: https://thewire.in/tech/facial-recognition-delhi-police-lawful/amp/
-cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/tech/facial-recognition-delhi-police-lawful/amp/
+title: "South Korean job applicants are learning to trick AI hiring bots that use facial recognition tech"
+excerpt: "Video interviews using facial recognition technology to analyse character are key, according to Park. “Don’t force a smile with your lips,” he told students looking for work in a recent session, one of many he said he has conducted for hundreds of people. “Smile with your eyes.” Classes in dealing with AI in hiring, now being used by ..."
+publishedDateTime: 2020-01-13T05:08:00Z
+sourceUrl: https://www.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
+ampUrl: https://amp.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
 type: article
-quality: 57
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: The Wire
-  domain: thewire.in
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.57F445B9CCDE154826C698F0719DDF28
+  - url: https://www.bing.com/th?id=ON.CA35586C180BB502D5048AE522628AA4
     width: 700
-    height: 350
-    title: "Is Delhi Police’s Use of Facial Recognition to Screen Protesters ‘Lawful’?"
+    height: 367
+    title: "South Korean job applicants are learning to trick AI hiring bots that use facial recognition tech"
 
 related:
   - title: "How the Police Use Facial Recognition, and Where It Falls Short"
@@ -71,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.000AA546159B1196D97901372E6F925C
         width: 700
         height: 393
-  - title: "South Korean job applicants are learning to trick AI hiring bots that use facial recognition tech"
-    excerpt: "Video interviews using facial recognition technology to analyse character are key, according to Park. “Don’t force a smile with your lips,” he told students looking for work in a recent session, one of many he said he has conducted for hundreds of people. “Smile with your eyes.” Classes in dealing with AI in hiring, now being used by ..."
-    publishedDateTime: 2020-01-13T05:08:00Z
-    sourceUrl: https://www.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
-    ampUrl: https://amp.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3045795/south-korean-job-applicants-are-learning-trick-ai-hiring-bots
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.CA35586C180BB502D5048AE522628AA4
-        width: 700
-        height: 367
   - title: "Cardiff vs Swansea: Fans should not fear facial recognition, say police"
     excerpt: "Football supporters have no reason to fear the use of facial recognition technology amid criticism of its use at Sunday's south Wales derby, say police. The system, which was also in use at October's match between Swansea and Cardiff, is designed to identify and help remove fans who are subject to banning orders. Supporters' groups have claimed ..."
     publishedDateTime: 2020-01-10T08:37:00Z
@@ -101,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7480F9C75F0347A12CB217F8EBEE5680
         width: 700
         height: 393
+  - title: "Is Delhi Police’s Use of Facial Recognition to Screen Protesters ‘Lawful’?"
+    excerpt: "The eventual legal answer may lie in whether there is a clear distinction between physical and virtual intrusion of privacy."
+    publishedDateTime: 2020-01-07T04:53:00Z
+    sourceUrl: https://thewire.in/tech/facial-recognition-delhi-police-lawful
+    ampUrl: https://thewire.in/tech/facial-recognition-delhi-police-lawful/amp/
+    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/tech/facial-recognition-delhi-police-lawful/amp/
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.57F445B9CCDE154826C698F0719DDF28
+        width: 700
+        height: 350
   - title: "Facial recognition at South Wales derby 'a step too far', says police chief"
     excerpt: "North Wales police and crime commissioner criticises plans for Cardiff and Swansea clash"
     publishedDateTime: 2020-01-08T18:48:00Z
@@ -331,6 +331,6 @@ related:
         width: 700
         height: 393
 
-secured: "lhd7TdITdt3RqhlPCmlpeIu/2GC0chFA9HF+DvS/PaMcjx+d00tEckIhUXwEUWzC4W0wrgcQ6L+8Y05NLXn19zh4CaBVDzrlOWglwuOU78XsVHS4aRqTQieA4P3gJnpelzXgvCFQXT/Uo/VscLu7UcEgDS9OK342wKFTjuOCd4+Aqd0SRrWAtFrGPlUdS2mgo3Za1s3sc0GqAAa1OSNBOiHo5e38vRTT26jLONyfT3L0sOtMLaDfOGZGOWUAcYnxavz/BrCUkxqMOUvLRDxJ9w==;NG8/KFviVfj1vRQZAMiAkQ=="
+secured: "tKjVPWb6wW3QwLBE4ysTEzZSCrt4FNeIniaFUiGouSrV+lSFZiRoFg+PBG6LTqUrnNok6tuLN3DhhXg9aLsLCslc0W8m/zyJto+AHMUmcOo8eKO8dmL9pAQ9aj8MH5SWWDSvxjixwKeNfV6qEGiCniEtgaunB7qWGCSRh38Xq2CAtPaofEmMzVE8wfF5Bkq6vBItSUAYbP0NgPq47PBdUKwU2zzT0Erzx0qsDVU5K1z8GzPTvo6pXcXEdA2nFJMl1+5p+Ql8Cta56LfPTuru+Q==;L4deJCGQE1GbJ94dHIpWKQ=="
 ---
 
