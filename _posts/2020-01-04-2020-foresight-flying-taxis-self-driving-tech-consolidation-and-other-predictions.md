@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.62E53F65939BF1163F3672441CA39494
         width: 600
         height: 315
+  - title: "Google’s AI predicts local precipitation patterns ‘instantaneously’"
+    excerpt: "Google hopes to tap AI and machine learning to make speedy local weather predictions. In a paper and accompanying blog post, the tech giant detailed an AI system that uses satellite images to produce “nearly instantaneous” and high-resolution forecasts — on average, with a roughly one kilometer resolution and a latency of only 5-10 minutes."
+    publishedDateTime: 2020-01-13T19:20:00Z
+    sourceUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/
+    ampUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.2B24D95BC705736C96C138B0DDEA0B8C
+        width: 700
+        height: 350
   - title: "Leading Conversational AI vendor Volume rebrands to reflect growing AI SaaS portfolio"
     excerpt: "The company has also developed two in-market AI middleware SaaS products. 'Big Brian chatbot' is a pre-built NLP-based conversational platform that is optimised for use with an organisation's preferred Cloud Services Provider and is compatible with Amazon Lex, Dialogflow, IBM Watson, Microsoft LUIS, Microsoft QnA Maker, Rasa and Wit.ai."
     publishedDateTime: 2020-01-07T10:15:00Z

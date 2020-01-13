@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Natural language processing is the next step to automation"
-excerpt: "This is where machine learning and more specifically, natural language processing (NLP), are having a real impact. However, voice NLP is not as mainstream within FIs as it is in daily life. Butterworth explains that this can be put down to “legacy telephony infrastructure and very low-quality audio which means that the accuracy rate is quite ..."
+excerpt: "This is where machine learning and more specifically, natural language processing (NLP), are having a real impact. However, voice NLP is not as mainstream within FIs as it is in daily life. Butterworth explains that this can be put down to “legacy ..."
 publishedDateTime: 2020-01-13T15:10:00Z
-sourceUrl: https://www.finextra.com/newsarticle/35053/natural-language-processing-is-the-next-step-to-automation/cloud
+sourceUrl: https://www.finextra.com/newsarticle/35053/natural-language-processing-is-the-next-step-to-automation
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-  - AWS AI
 
 images:
   - url: https://www.bing.com/th?id=ON.FED4338DE90236C333167A425AF10D34
@@ -24,6 +23,6 @@ images:
     height: 270
     title: "Natural language processing is the next step to automation"
 
-secured: "KtcumGzb4V+rb2bsR2E4nv7+LTL1ByUac7KfvZczQVZWCXIqkyp0i96FOPSjPxOO3I0uPHYN6DJPIJb99bPfnhzLjHP2Gp3pj0LrXsn7DoRQyqcEVXtEXlHebwaIKJSRtaKXakgnY/8uMNh29QLzk+OAWwk8fFj6kcyJkU8vWM72YbVlD6y7isFpVOiZB9i8sr5aAwOotu7WgcCtkGMRlKsabGXZkDZnLiK9XxMsXpnAEtGXaqMYg9ckUGLb8366nEBVmWkz+nIWYmMgtF8TLQ==;V0DLYYP1+/dARypKAK/R9A=="
+secured: "3CQCzpdUxL5i7sTauvr662WmwKIZG2F5iRztnFNYXbsHaGKv4ATosgFAfI8YRpri1haVT+2jFFCGH7+WCcGQeD1/p9btdyJ1fq2xETw9Xc67fvYvsSf6xz2RWAY1fRk5gjhWoIsFbv931qPTSvl8ubSMmnKerdwo5VlwACEEvouGA7udTSC88F5zL6m7l903M7/e4vc8Zj3onV1h4qJ3tF1vyTIFINxjwaUUCD9w/xbcUk3Qqr1zx8i10OhQUM0LacxiYz2UYs7F02W9kObF8Q==;D8MYHG2+nRG2c/yTT5b6aA=="
 ---
 

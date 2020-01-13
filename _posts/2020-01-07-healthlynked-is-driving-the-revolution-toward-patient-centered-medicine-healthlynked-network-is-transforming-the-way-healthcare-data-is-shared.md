@@ -31,6 +31,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E04474A75D8807DA9C545CFC1BB60229
         width: 700
         height: 499
+  - title: "Change Healthcare launches new solution for provider-payer data exchange"
+    excerpt: "... to the Change Healthcare Intelligent Healthcare Platform and reach any payer in the U.S. The new claim attachments solution will also support Change Healthcare's artificial intelligence technology, which automates medical documentation review for risk adjustment and payment integrity use cases. With the new update, the solution will create ..."
+    publishedDateTime: 2020-01-13T18:54:00Z
+    sourceUrl: https://www.beckershospitalreview.com/data-analytics/change-healthcare-launches-new-solution-for-provider-payer-data-exchange.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.5EC076E6E61659D467024523BD598AE5
+        width: 400
+        height: 300
 
 secured: "SzY7gzC20hEPyo9UwwMelh6Il683B9CPOjmqtu8ULE5TmrkSnjgcKp1tjaD1AjY6eEd2+JawczyZsq1/i1G+L4VxJEFdZtGbp2G4HHjkrIZULVKvoEyoYa/7qqu7OeErxANsf8dKootCaU/wVuqQpHdDt+Hc7evnbHdC8vR/NhzzgOBsOb+92SuugXkdQm4b17Fd9RirtQE00Bk3qWHjyDBIVwU5b0PdAWrjhwfgoQmTVwGo3/NcXLhH/F5ZtX1YFJg03jq/bBzWNbsVchVuQA==;F3dNdzefpLoPDEvZVTAkzA=="
 ---

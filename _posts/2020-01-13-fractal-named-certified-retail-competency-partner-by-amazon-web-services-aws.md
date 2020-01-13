@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
-excerpt: "/PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100"
-publishedDateTime: 2020-01-13T12:24:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/fractal-named-certified-retail-competency-partner-by-amazon-web-services-aws-300985633.html
+excerpt: "NEW YORK, Jan. 13, 2020 /PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100 companies, announced today that they are a Certified Retail Competency Partner of Amazon Web Services (AWS). As an AWS Certified Retail Competency Partner, Fractal will co ..."
+publishedDateTime: 2020-01-13T13:34:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-fractal-named-certified-retail-competency-partner-amazon-web-/2020/01/13/9080223.htm
 type: article
-quality: 65
-heat: 85
-published: true
+quality: 45
+heat: 45
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
 
 related:
   - title: "Dun & Bradstreet Achieves Advanced Technology Partner Status in the Amazon Web Services Partner Network"
@@ -45,6 +39,6 @@ related:
       domain: prnewswire.com
     quality: 3
 
-secured: "AZxm+jSh53kPz+2V2jeS95rQMhw3cqmepTs3wC/g5DoPta0su4MnbjB4bCTrUoNEMHAR4N/yqtGw3eXmhrBncGi7D3Wi6Gpqdchut1LFOkZ/H/c3mpIVoER7o3oAn1+7L34ITJeDjMDXb7V5kCpHxHhcAaiCXiVn55w8Z5u5wE1gxmA6NkfBf4AJ7oqsNhmZRd7QpykXmOsI894JJGz4OM0/l4R+YNRqs9Cnp9Hquq8tQa9KNf9soT1PjJmWQ6SFqjP94PCrS1yiTkKaKGET1A==;aYDtioKLduRGnt8/AayhhQ=="
+secured: "EVkB4R6TbNiaQuxkkvUQTgfXeCvntBANQWz1busEYZ2M7VYBoNY6O5OYyICvlq6ib6n64r1qzxGLaYlk3evW+QqQfiHK0U4uDPWb3/gmCyQJhIFt5zA3VO16IOVMNPlYRokBX0GXGZzP9vHEBlCU6afekxvLgm3LGSjoOyYNa44PDPw78kIui3aUY9Xe8McuOSJui7ucfMPSgA2iMNWQcqtfd3btPVScgXV5jUEu3X5To8wzktQvGUKEyHv6Bg9MvtfIzzLgxosdCi7+5kpCNw==;XN7j2gSHMYbvhu9K8P5iLA=="
 ---
 

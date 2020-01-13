@@ -21,18 +21,14 @@ topics:
 
 related:
   - title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
-    excerpt: "/PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100"
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/fractal-named-certified-retail-competency-partner-by-amazon-web-services-aws-300985633.html
+    excerpt: "NEW YORK, Jan. 13, 2020 /PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100 companies, announced today that they are a Certified Retail Competency Partner of Amazon Web Services (AWS). As an AWS Certified Retail Competency Partner, Fractal will co ..."
+    publishedDateTime: 2020-01-13T13:34:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-fractal-named-certified-retail-competency-partner-amazon-web-/2020/01/13/9080223.htm
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 65
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 45
   - title: "Dun & Bradstreet Achieves Advanced Technology Partner Status in the Amazon Web Services Partner Network"
     excerpt: "SHORT HILLS, N.J., Jan. 7, 2020 /PRNewswire/ -- Dun & Bradstreet announced today that it has achieved Advanced Technology Partner status in the Amazon Web Services (AWS) Partner Network (APN ... of virtually all sizes digitally transform by embracing data and artificial intelligence (AI)-driven solutions across all phases of the customer ..."
     publishedDateTime: 2020-01-07T15:00:00Z

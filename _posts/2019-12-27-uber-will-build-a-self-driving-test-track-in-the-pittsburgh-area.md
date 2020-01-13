@@ -359,19 +359,6 @@ related:
       - url: https://www.bing.com/th?id=ON.065059412540771F371E70B52C3876A7
         width: 700
         height: 393
-  - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
-    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
-    publishedDateTime: 2019-12-24T18:44:00Z
-    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
-        width: 700
-        height: 350
   - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
     excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
     publishedDateTime: 2019-12-26T20:43:00Z

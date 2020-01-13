@@ -20,44 +20,22 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Voice search optimization: The why and how"
-    excerpt: "Let’s see. Voice search basically allows users to say their queries out loud rather than typing them into the search box to get the results. The speech-recognition technology precisely understands what users are saying and then delivers the best-matching results orally. Reports estimate that about 41% of adults perform at least one ..."
-    publishedDateTime: 2019-12-26T11:25:00Z
-    sourceUrl: https://www.searchenginewatch.com/2019/12/26/voice-search-optimization-why-and-how/
-    ampUrl: https://www.searchenginewatch.com/2019/12/26/voice-search-optimization-why-and-how/amp/
-    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2019/12/26/voice-search-optimization-why-and-how/amp/
+  - title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
+    excerpt: "“The artificial intelligence stack has to be taught anew in each city ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing."
+    publishedDateTime: 2019-12-23T13:00:00Z
+    sourceUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/
+    ampUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
     type: article
     provider:
-      name: Search Engine Watch
-      domain: searchenginewatch.com
+      name: Robb Report
+      domain: robbreport.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.5BDFA1E820CD80471C87C2A432A2ADA9
-        width: 360
-        height: 240
-  - title: "The Pentagon Wants AI-Driven Drone Swarms for Search and Rescue Ops"
-    excerpt: "The Pentagon’s Joint Artificial Intelligence Center, or JAIC, issued a request for information to find out if AI developers and drone swarm builders can come together to support search and rescue missions. Search and rescue operations are covered under ..."
-    publishedDateTime: 2019-12-26T16:06:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/pentagon-wants-ai-driven-drone-swarms-search-and-rescue-ops/162113/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.9C7B9F0B97953270E6674ED1710776B5
-        width: 400
-        height: 400
-  - title: "City strengthens bet on translation and artificial intelligence with new research center"
-    excerpt: "The Macau Polytechnic Institute (IPM) today opened a research center dedicated to machine translation and artificial intelligence, the first with the Beijing seal in the special administrative regions. This center will “fill a gap in the field of Chinese-Portuguese simultaneous translation research” by becoming a “major platform (…) for ..."
-    publishedDateTime: 2019-12-26T13:06:00Z
-    sourceUrl: https://www.macaubusiness.com/city-strengthens-bet-on-translation-and-artificial-intelligence-with-new-research-center/
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 10
+      - url: https://robbreportedit.files.wordpress.com/2019/12/2-exp-100-gt.jpg?w=1000
+        width: 1000
+        height: 562
 
-secured: "Rh2ZJ3Zbf6uSiZJZlSsmYPWRby3jDZRCa86bYuGa9CcRlDG+4ghImrYwu2WtnoyUkgUsitWsXncOWoewG3+fwN6Fc3zGsffoGY4MBoIwrWghxwwtRHHrMVZl1Kpqh5H/5de5/0xs7PfwBVRxAsua+k+eQ4olGzdUH2Z87XJGHDu1a/fiMC0QJD4HiZ93pR/86r0TeNX25Q+vH6HUyxSdHMkNG++8lmpfbwj42c93v6HuQU88WHQnaG9DF5xCjgpjagpziy/VPeB17hOmkZ+gSw==;K9KWw/FN1USibV1f/cfEJQ=="
+secured: "Lu0kYYiSoseRgF5CzIM6ujcbgGsScrH2sNSxQvDT1bXYg7xiubrcm9Wm+QEe6gOn/rbkD0bZmwOOh6z5Jmyv4UOERiLIWJgP4ya/QOJk6UJJPDXjriM3m34rvAUOKiUNJcvTZL/s5gayZ+IO0zZY3Hh+fD9v2GGz11wCMC6YJwFNAmaFx+qo+J2oW1rUn+GHOZrOiiqULzPsw4d4huAjLIlVti4dgi4C6PSBof+pjImWqah/j3QzXSB+uEcObEWWUFFKwYtVgg1kbVo2K2E0gA==;fkdpyWLIBUkugyNMj6DZug=="
 ---
 

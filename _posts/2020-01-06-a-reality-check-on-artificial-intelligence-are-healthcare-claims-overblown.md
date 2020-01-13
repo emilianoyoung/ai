@@ -5,7 +5,7 @@ excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho
 publishedDateTime: 2020-01-06T06:37:00Z
 sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
 type: article
-quality: 68
+quality: 51
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - AI Ethics
-  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.A8E762E20898E18F39F4A26FE2C580E9
@@ -149,6 +148,6 @@ related:
       domain: heraldscotland.com
     quality: 34
 
-secured: "0TS6mu/5bPWE8pBbyXDVrCYFHt0abw47cVV4+8c90cBKUg2t4SjvsAEgzADBBIqu0sqE44UzW8hgwy2h73njfendXDRhgTPqTHpamz+OpPO/EETsdRMaHGKEBMVUHeedLV2tGIGw+NniuWGmfptbO1/mkFWleujEp358phYR4ZW7keFpKoSKU1Fykq+RDm2Z9/JT5gtQkjZ9C4ZpDgWit47+aCqToSmnGu77n2K7QiQa2XQaMne1W++AZmUUEsOLMMuRDlb2BuJjCijxEFNrvg==;kAwinRCxKOOGHbM8qxSXgA=="
+secured: "vEcza1m2UTlmilCPLeSCPZahHy+kaNPHPyWdhwt1FqfmpSXsLXvjbRmOjmhvVph4Zf6BYisT+eQEPcgGfVKovO6loHPIWCmplrvyF56YjK75zdE2GbZJSIG14XXneB5mjXniQvatWKRAZeOiqYuL7TyDSteBey3HQRsTkRrPkoQgfDl/oOt4VhVHsE3IPVJH6cydEtd+XkqzKJoJxE2v2ap73YhHiupFh474LF0LhWTUSVNr798yQMx+rqrNc+BogJvD+7pDkZfPFOtyf0j4Mw==;ubDQjWqCx4XmFOI1vCtWHQ=="
 ---
 

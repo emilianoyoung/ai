@@ -43,6 +43,21 @@ related:
       - url: https://www.bing.com/th?id=ON.62E53F65939BF1163F3672441CA39494
         width: 600
         height: 315
+  - title: "Google’s AI predicts local precipitation patterns ‘instantaneously’"
+    excerpt: "Google hopes to tap AI and machine learning to make speedy local weather predictions. In a paper and accompanying blog post, the tech giant detailed an AI system that uses satellite images to produce “nearly instantaneous” and high-resolution forecasts — on average, with a roughly one kilometer resolution and a latency of only 5-10 minutes."
+    publishedDateTime: 2020-01-13T19:20:00Z
+    sourceUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/
+    ampUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.2B24D95BC705736C96C138B0DDEA0B8C
+        width: 700
+        height: 350
   - title: "Top five projections in Artificial Intelligence for 2020"
     excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
     publishedDateTime: 2020-01-04T17:46:00Z

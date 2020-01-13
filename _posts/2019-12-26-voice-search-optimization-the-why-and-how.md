@@ -39,17 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9C7B9F0B97953270E6674ED1710776B5
         width: 400
         height: 400
-  - title: "Machine learning: the big risks and how to manage them"
-    excerpt: "It creates a significant knowledge gap in the boardrooms of financial services firms and within policymaking institutions about the challenges and hazards posed by machine learning. Given the international nature of financial markets, these are all ..."
-    publishedDateTime: 2019-12-23T10:24:00Z
-    sourceUrl: https://www.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
-    ampUrl: https://amp.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
-    type: article
-    provider:
-      name: Financial Times
-      domain: ft.com
-    quality: 24
   - title: "City strengthens bet on translation and artificial intelligence with new research center"
     excerpt: "The Macau Polytechnic Institute (IPM) today opened a research center dedicated to machine translation and artificial intelligence, the first with the Beijing seal in the special administrative regions. This center will “fill a gap in the field of Chinese-Portuguese simultaneous translation research” by becoming a “major platform (…) for ..."
     publishedDateTime: 2019-12-26T13:06:00Z

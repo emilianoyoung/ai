@@ -363,19 +363,6 @@ related:
       - url: https://www.bing.com/th?id=ON.065059412540771F371E70B52C3876A7
         width: 700
         height: 393
-  - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
-    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
-    publishedDateTime: 2019-12-24T18:44:00Z
-    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
-        width: 700
-        height: 350
   - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
     excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
     publishedDateTime: 2020-01-06T14:06:00Z

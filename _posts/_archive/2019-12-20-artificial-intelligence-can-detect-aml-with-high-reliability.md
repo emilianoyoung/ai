@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/Artificial-intelligence-c
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: News Medical
@@ -25,23 +25,6 @@ images:
     height: 480
     title: "Artificial intelligence can detect AML with high reliability"
 
-related:
-  - title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
-    excerpt: "Their method is based on analyzing the gene activity of blood cells. When applied in practice, this method could support traditional diagnostics and probably expedite the start of therapy. The study outcomes have been reported in the iScience journal. Artificial intelligence is a much-discussed topic in medicine, especially in the field of ..."
-    publishedDateTime: 2019-12-24T12:12:00Z
-    sourceUrl: https://www.azorobotics.com/News.aspx?newsID=11035
-    ampUrl: https://www.azorobotics.com/amp/news.aspx?newsID=11035
-    cdnAmpUrl: https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11035
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.42A01FAFDBB6F7289D13A68EE7207414
-        width: 350
-        height: 215
-
-secured: "40bxeH0WkCfmTDvDoFGXr+gvuK2uMcCXrPQY2S6AbB0GJzEL7KGPBNQf5QTk5JnkhEHVD6L8rf+hpUitqr6Q+pCW/oj7kCI/CF1qEHY3lkWB9L/v8BAgYREj1hGkB1ASVA4T0rPVdXpHrZCpiwgmbsMlYDscszMSq2xRnYgHh/ibNarXXCaHuLw2zEARjWjgzBOtlS55aBYAnHx3GmdJVATqEF4U7VFeZpD/RaTcc98p6yMHtojbhFBFXfJ/2xVtoqjMEyEKFPBVbnKQvHPbvA==;tzCvTgwqhU3EyFqzDwFrGg=="
+secured: "c1KeO27GYTyF+LWP4/tMpsWG7srq4CFIo0NetVs/PTHenv2b45ZAxkh3oy55oAUT2bkjep6iDPIjEXvd6jvX8XWRdMhezexdv+JBe4la2fL7kiZqDJVyBYUvmEa/pjHSMRRxLYX8KvFU82F6Mw8UC/YfUg/KgzifcOxVDL6WnPPF6JcEZeyK+h8GPr+xxDnkLMQm0Va2/uHoETeyFsx+pAm5Bwo2cByv0PRdMXuyTkGVa2VAfzMARsCpupVHYlQ3rpQA65U14D5cLMp5k2p/bw==;e2wz3mDajV+QftivL9e+7Q=="
 ---
 

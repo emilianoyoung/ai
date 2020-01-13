@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T14:40:00Z
 sourceUrl: https://betakit.com/ht-the-healthtech-times-the-threat-of-ai-assisted-healthcare/
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "H|T: The Healthtech Times – The “threat” of AI-assisted healthcare"
 
 related:
+  - title: "Change Healthcare launches new solution for provider-payer data exchange"
+    excerpt: "... to the Change Healthcare Intelligent Healthcare Platform and reach any payer in the U.S. The new claim attachments solution will also support Change Healthcare's artificial intelligence technology, which automates medical documentation review for risk adjustment and payment integrity use cases. With the new update, the solution will create ..."
+    publishedDateTime: 2020-01-13T18:54:00Z
+    sourceUrl: https://www.beckershospitalreview.com/data-analytics/change-healthcare-launches-new-solution-for-provider-payer-data-exchange.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.5EC076E6E61659D467024523BD598AE5
+        width: 400
+        height: 300
   - title: "HealthLynked Is Driving The Revolution Toward Patient-Centered Medicine; HealthLynked Network Is Transforming The Way Healthcare Data Is Shared."
     excerpt: "through a connected healthcare medical record system that is patient centered, the platform provides, third, personalized medical recommendations using artificial intelligence (AI). HealthLynked tackles some of the biggest problems in the healthcare system--finding appropriate healthcare providers, scheduling appointments, slow check-ins ..."
     publishedDateTime: 2020-01-07T12:53:00Z

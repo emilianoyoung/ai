@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
-excerpt: "BROOKLYN, New York, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate professor of computer science and engineering and the director of the Game Innovation Lab at the NYU Tandon School of Engineering,"
-publishedDateTime: 2020-01-09T19:17:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968647/0/en/Engineering-society-IEEE-honors-NYU-Tandon-Game-Innovation-Lab-director-for-contributions-to-computational-intelligence.html
+title: "Google’s AI predicts local precipitation patterns ‘instantaneously’"
+excerpt: "Google hopes to tap AI and machine learning to make speedy local weather predictions. In a paper and accompanying blog post, the tech giant detailed an AI system that uses satellite images to produce “nearly instantaneous” and high-resolution forecasts — on average, with a roughly one kilometer resolution and a latency of only 5-10 minutes."
+publishedDateTime: 2020-01-13T19:20:00Z
+sourceUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/
+ampUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
 type: article
-quality: 0
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.9F909CB543B1194AFF5FCEAD11D3B0DF
-    width: 300
-    height: 200
-    title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
+  - url: https://www.bing.com/th?id=ON.2B24D95BC705736C96C138B0DDEA0B8C
+    width: 700
+    height: 350
+    title: "Google’s AI predicts local precipitation patterns ‘instantaneously’"
 
 related:
   - title: "Five Conversational AI Predictions For 2020"
@@ -39,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.62E53F65939BF1163F3672441CA39494
         width: 600
         height: 315
-  - title: "Google’s AI predicts local precipitation patterns ‘instantaneously’"
-    excerpt: "Google hopes to tap AI and machine learning to make speedy local weather predictions. In a paper and accompanying blog post, the tech giant detailed an AI system that uses satellite images to produce “nearly instantaneous” and high-resolution forecasts — on average, with a roughly one kilometer resolution and a latency of only 5-10 minutes."
-    publishedDateTime: 2020-01-13T19:20:00Z
-    sourceUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/
-    ampUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.2B24D95BC705736C96C138B0DDEA0B8C
-        width: 700
-        height: 350
   - title: "Leading Conversational AI vendor Volume rebrands to reflect growing AI SaaS portfolio"
     excerpt: "The company has also developed two in-market AI middleware SaaS products. 'Big Brian chatbot' is a pre-built NLP-based conversational platform that is optimised for use with an organisation's preferred Cloud Services Provider and is compatible with Amazon Lex, Dialogflow, IBM Watson, Microsoft LUIS, Microsoft QnA Maker, Rasa and Wit.ai."
     publishedDateTime: 2020-01-07T10:15:00Z
@@ -135,6 +125,19 @@ related:
       domain: computerworld.com
     quality: 24
   - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
+    excerpt: "BROOKLYN, New York, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate professor of computer science and engineering and the director of the Game Innovation Lab at the NYU Tandon School of Engineering,"
+    publishedDateTime: 2020-01-09T19:17:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968647/0/en/Engineering-society-IEEE-honors-NYU-Tandon-Game-Innovation-Lab-director-for-contributions-to-computational-intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.9F909CB543B1194AFF5FCEAD11D3B0DF
+        width: 300
+        height: 200
+  - title: "Engineering society IEEE honors NYU Tandon Game Innovation Lab director for contributions to computational intelligence"
     excerpt: "BROOKLYN, New York, Jan. 09, 2020 -- The Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society honored Julian Togelius, an associate."
     publishedDateTime: 2020-01-10T00:37:00Z
     sourceUrl: https://finance.yahoo.com/news/engineering-society-ieee-honors-nyu-191736520.html
@@ -146,6 +149,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "dBZo59y+li4yHzsLSzV6k1VFikdVtyWLjYbhRE6A3fa6qiXW9gsuyDCU4HD2s0sSRE/4azREngdzYH5oo4ejnGqkPz1nRvp6cr1SbtcDTtvtYAxq0T1VLWTEQUW9U4FUE/4mhTq0a4XdULMi22tV8vuc8fGmNU2Ka/cKETaMvrtGQrdZOXt92X7cQZk3ShuOP9K4dpsM9wKCe9fTe5H+2ijvT2GRpmmIckhGV3TRKkrMStRIHEjT5pV5inyuAaTBEKbv8po1s0t4ECEsXh2CjA==;yqRfeNKLBu5O11nW5BKW9g=="
+secured: "cwnMho9j+PNtZ8Wvx4qXNXQo42RPgbQTaOJLHM5AwXJl0GSewKu8iJJjINmgL1WkLGZstapSnt1eknCSzBfSjNjCCpVMK7Hx+otqUn599ZnarUZoHxoKfj9x6pBp5gWNIPQme1jIJOglK0u4YRKeGIAJt4hUIF+UNBOK8WvjAQZBr0eHcrbkRMJJt5lv83wEZLzK/jPUWGI00ocSPt0V5GLjKB3KnXzOSMZuiQBISCbVKipVS1QeTXB4sw7BeOGAKaOlBf8bFWaafJwVAJL7VQ==;crNlb/rfA4S/lPzVrcANVw=="
 ---
 
