@@ -18,21 +18,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Voice Recognition technology and its growing influence"
-    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-    publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.1FDE87332CFA2273EC87DDE9EAA2DE87
-        width: 600
-        height: 271
   - title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
     excerpt: "Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice recognition, machine translation, and voice synthesis technologies. Jarvisen has an instant response rate of less than .5 seconds as well as a built in 2-year global data plan for coverage in ..."
     publishedDateTime: 2020-01-09T00:39:00Z
@@ -46,32 +31,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "AI Implementation Isn’t Just ‘Picking a Technology and Installing It’"
-    excerpt: "But actually applying these tools to the task correctly, and getting buy-in from the organization, isn’t guaranteed. Those who have worked with AI tools on a regular basis know that the “hype” of AI as a catch-all solution isn’t all it’s cracked up to be, and that while these tools can ultimately be rewarding, they’re not without work."
-    publishedDateTime: 2020-01-13T16:42:00Z
-    sourceUrl: https://www.law.com/legaltechnews/2020/01/13/ai-implementation-isnt-just-picking-a-technology-and-installing-it/
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.3877A4D911E14CE82FAF07C5964EE482
-        width: 700
-        height: 437
-  - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
-    excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
-    publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.BB05149FC3C39CBF97306B7E6AD2DA1B
-        width: 700
-        height: 394
 
 secured: "ZnyDCtp9ItFnFw8Fm5Y66xFZBwFPMI7GYAewRtqhmb/ApkxaFgTojujgEHR/qTRNzu8fGxNfSpMD9htazAJpJ5ckzCMucksTmuF/j61SkL+Plqy0oM56jE1D9C4PS80nZKtluCtUCqFO6iICQaMXmO0ImKmAMH7L3a1PyO96kLI/XghUyC73+OmoQ6v+U6aN5plKiisQu0Bmwke+zEgWjsm5EzLgHjpWjO3jiDwp4PjHUjdjCDDYv4ATLlip/ZloN+iqLkEOPqxKHzFbr7FL9w==;iBx/o+bEK28/wDXVbBPWKg=="
 ---

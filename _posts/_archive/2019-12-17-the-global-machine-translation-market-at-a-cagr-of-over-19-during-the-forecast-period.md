@@ -33,16 +33,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
 
-secured: "ynrYjHTXDm+hWRHdwPGuPZpQ5CjgOaF5k0kgBn9hqq4Plp3CEptjwvm95/7ajhzoxUAnYUMpcgdhINrfTE/kZN67yIJHf+vdeTEEPyJE9zd7HIcZa7M92klkNRdBAe00/xpeaAjB5X1T0InjfsDql2+Y4DvxAvAi9TBFD5GqoLGHtdofvTOHCoV/wZjI1WDjL46L4yFN3Iv6UfFl9DGG3mRHCCY/iN5Y8TbtZWbA8z0bmwwbV4YfbdyKQ5zpv1Q09bWs7N17POAl6AReD/59Ug==;y5694GzXBIF71Urajg/L2Q=="
+secured: "ALShrXs6k+UHGf0Q9RjBQ9FKKub4zl0Qe/ck9NSn8bFSvvTKviQJKUAsbztzX8TMYVeGJjUq32CBmPcx0znGact4bc+tmM/4q6uw5HK1K17WB79wVpBVp4lf4HEcXpiOpthSMnW+HY3rNbbTeLUKm4DUzkFlsjcrRQhH0Zcftcje3eLFhtXFKXRuK3cSRfum3F6Tb1aYO7q7Wbk5pZ3xuJMFJjwXerMKl8EYgdBEI9Y0HBt8gNzZzoWV6wo0QSb0cfzwNxSOaQKN7aplcCNIVw==;mbqkvolxT595y3zHZzz+iQ=="
 ---
 

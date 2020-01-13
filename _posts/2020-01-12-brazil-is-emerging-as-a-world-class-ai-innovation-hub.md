@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-clas
 ampUrl: https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/
 type: article
-quality: 89
-heat: 99
+quality: 189
+heat: 209
 published: true
 
 provider:
@@ -45,7 +45,20 @@ related:
       - url: https://www.bing.com/th?id=ON.F5E9BE663C9E82188B0EE3CD49039D58
         width: 700
         height: 367
+  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
+    excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.65EE4A7A43EF5FF11DBBB4275BF77C0D
+        width: 700
+        height: 490
 
-secured: "o2mcFj4FBf2g2miN5Aa5KwiSNeqTc8wzyKpT9XXUzz/DOnYM7OvjuzOmIh3g1bcatIqN0fPvC6SpB6BNkjKpUhG1DzN4kuIuV5pcYmEw1d9V7wmrCSSalzO70TMHWYP6udtz5wntOc2SFUfcUdYST/DZb1khA8eTYoOPR1k7C9Fsj5CThSkp9vBx88r/F0TbiXnIVsmpmwJ2ikg8Y9u+6ZOFSGuEDFUJSYqJjnfUR5ml/9nA3en1xtm+H+yjMz681FyOYJtPuoRyVeQF+DyBEQ==;3OWuZzYmzK/RWnmZnouhzg=="
+secured: "YMRRKTDzX3atVz0TfBZXtpJXcda0vbLv+qj6LgwklcD4DG2UjtE4Y6o1Fgrka2WQyJMDM/9AX2D+7ImoEQ2+zk8AUPxdzifB6B2fFQ4ZnT000QmP5Z1YEeZxhf3JtzGUtPP5yGgJW2U8LhzvuJuvDisXK7NXU6/OMGHUlZ3GHcu8gdGH71kHqseJtLOJRBl6zvFTGVeaIXJaQD41ajjk58uR+BdFv3zXVP9F3PoGa0k2u/IdOucupDAgDtA2af8G7HqneCVxlYQVW3lZjoCZqriz+OVOVp+gDDLvlYRHRoU=;KKfLT8fY4kLZI1ONfuPHbA=="
 ---
 

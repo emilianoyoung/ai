@@ -7,8 +7,8 @@ sourceUrl: https://www.bbc.com/news/technology-51064369
 ampUrl: https://www.bbc.com/news/amp/technology-51064369
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369
 type: article
-quality: 87
-heat: 107
+quality: 187
+heat: 237
 published: true
 
 provider:
@@ -59,7 +59,50 @@ related:
       - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700
         height: 393
+  - title: "Are robots really the answer to Britain's care crisis? Meet the new generation of artificial humans"
+    excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
+    publishedDateTime: 2020-01-11T22:08:00Z
+    sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/11/18/23276890-0-image-a-86_1578766455809.jpg
+        width: 636
+        height: 382
+  - title: "Are robots really the answer to Britain’s care crisis? Meet the spookily lifelike new generation of artificial humans"
+    excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
+    publishedDateTime: 2020-01-11T22:08:00Z
+    sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.B947BDAC7D23E3976DBF815BD7B51CA2
+        width: 636
+        height: 382
+  - title: "Teachers, the Robots Are Coming. But That's Not a Bad Thing"
+    excerpt: "I don’t think artificial intelligence is there yet.” But researchers are trying to get there. Consider the work of Cynthia Breazeal, an associate professor of Media Arts and Sciences at the MIT Media Lab, who leads the Personal Robots group. The group is conducting randomized control trials of the use of an AI-powered, teddy bear-sized and ..."
+    publishedDateTime: 2020-01-07T22:33:00Z
+    sourceUrl: https://www.edweek.org/ew/articles/2020/01/08/teachers-the-robots-are-coming-but-thats.html
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A112C5E86273E0A498433C651D2AF5BA
+        width: 700
+        height: 365
 
-secured: "2NvH0ihigLW+JknvCGSKQ9PXFLOAu5v7yLCpFIg1nNI5xVAmbn8rdro41FrT5OQdyUaBfw18fcpOQuHrGIo7CHJ+qcp3w+yZokvNBgpaAI4RpBDCLE0tFbrj5O/iDqFqpP9130LIAYj41P3D8W5ljgDuNyqXN25zVBGdtrvyzwoRPDfgW+i7kyicOgUipeSYGJofKH3OEsbvumOQqrONSIwAY0oBQRlqqNmW30STTCCVEPzkH99Wjz31Tj0+EwxTrhhBfQ0p5x+2QP6J0FO3Ug==;59HoPL033oPt4d/7I+xC6w=="
+secured: "/Lh2GjG1igh0iw9IYRR01bOWc5fOIhUJlBrn3MSITrNqyurJQ1Cdl1bG2n5nl6lNQMGpl43SMT2XaEF5weHZwkkHzfjzH2hWa+NjzcKAbM71oxL4WUBUpx0uobW6OQ1YJCDnbX8zoT08mWMdavh1PFI1LiVtBhwh1qpM7qVfRrBl/klsmMYt0a4IXxPzxcVSXl7/+WDqcROgbGeVk97RMVA4FT5FOQ1Ddu8/q4emoV2ge9NqeiCEKebo6F/eL+nsB59Ru5iKUxoRMMDPm+T3sWLfp1J52yc2cWXIyY6CWZE=;W21nTaFxCP3nKc01RBBNLw=="
 ---
 

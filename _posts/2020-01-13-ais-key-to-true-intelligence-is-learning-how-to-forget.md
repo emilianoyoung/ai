@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is-learning-how-to-forget/amp/
 type: article
 quality: 87
-heat: 257
+heat: 267
 published: true
 
 provider:
@@ -270,6 +270,19 @@ related:
       - url: https://www.bing.com/th?id=ON.14355C4BC69571AB1054D7EF66870884
         width: 160
         height: 90
+  - title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
+    excerpt: "The good news is that Nvidia thinks it may have solved the problem. Or, the company is at least closer than they ever have been before. The secret? Deep-learning technology, powered by artificial intelligence and super computers, and run on Nvidia’s patented Tensor Cores within their new RTX graphics cards. This technology is called Nvidia ..."
+    publishedDateTime: 2020-01-13T20:20:00Z
+    sourceUrl: https://www.newegg.com/insider/nvidias-deep-learning-engine-boosts-ray-tracing-performance-in-lower-end-pcs/
+    type: article
+    provider:
+      name: Newegg
+      domain: newegg.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.F13294318BE044C6BB39A757E83D8B43
+        width: 700
+        height: 525
 
 secured: "lSUvw8dkRCEolpfYaZ6xYMeeP+CS+IrRdcYZVkBsbZyEzS25tXUOJzchK5LSffmbB6v8v5Ov/3ebabgAm8ncFBSzYMYjsgeYNd5fT0fnj+vEdtGKF34WlRQ/5NxzsztYZ8wbEVMTjDDJMGpmZ+VDO4AE5jNy82u+FCnLqedAHiXEAMEgFEdkcOeimidyyTgZ1neUZf88Y1pJPGgRNUZq/XIwqYzdnCv54MuaADnHhT4OJJONRg1gyxG6XIvAjxd6XJxiDv2eV/wkGDHdaOVcDw==;hoKQofPeCU9rmjWRCMXWig=="
 ---

@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2E54E0A11AB61EEFEE89C1D3A040D2FC
         width: 700
         height: 350
+  - title: "10 Ways AI Will Impact Talent Mobility in 2020"
+    excerpt: "At the same time, they would be satisfying the career progression aspiration of their employees. Research says that AI can help optimize this process. AI technologies can overcome the mobility challenges that are holding an organization back. This technology can help the HR team find better skill matches, tap a larger pool of internal talent ..."
+    publishedDateTime: 2019-12-27T20:33:00Z
+    sourceUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289
+    ampUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.A6A1E8945C48FD23877449F0F485D227
+        width: 700
+        height: 420
   - title: "Security will pull AI laggards off the fence"
     excerpt: "I believe that one of the most significant technology trends that will impact the financial services industry in 2020 will be the growing adoption of artificial intelligence (AI). However, even as financial institutions, issuers and payment companies increasingly embrace AI, I anticipate they will need help learning how to use it to its full ..."
     publishedDateTime: 2019-12-30T05:08:00Z

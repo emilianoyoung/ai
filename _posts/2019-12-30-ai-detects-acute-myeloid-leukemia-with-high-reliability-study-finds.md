@@ -48,17 +48,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T11:12:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 39
   - title: "AI offers potential as diagnostic tool for acute myeloid leukemia"
     excerpt: "We therefore wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence—that is to say trainable algorithms ... Possibly, the diagnosis would then happen earlier than it does now, and therapy could start earlier.” Although researchers have not yet developed such a test, they believe they have ..."
     publishedDateTime: 2019-12-30T04:20:00Z
@@ -72,15 +61,6 @@ related:
       - url: https://www.bing.com/th?id=ON.53B79936261D63CFBA7628CAB2D0F224
         width: 700
         height: 367
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
-    publishedDateTime: 2019-12-20T16:27:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "40Bb6B3uAvGf7n9Y41BvWQOUMJqjSbc4k5JKckBq4t9HNUToL4J6+tGsV2qOCuCwRUybDjAxp6kfqpUkDZ8eNa+yCsWhu6Tlh1K78RVLAcEU1IqirL4OlGGNTDsDnflseH2js0QdMBGg88Umq5YdAXignZCLJ82Cs/scTr6O0u4L1x9keqSdy1FaQ49QF54FNHeE1gM3GbtWVjNP7uLbScmOru+Wat3AEsFFUguRdhd0QKBzbRhmXOZg1MteVdWsteTu5goCdvc4QuASgCTn9w==;PNSWOOwnzLhtQc9+3zuiiw=="
 ---

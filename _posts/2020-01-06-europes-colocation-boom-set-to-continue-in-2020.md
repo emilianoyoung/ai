@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E07A4A74594198B8CF670901A25E9747
         width: 600
         height: 315
-  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
-    excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.65EE4A7A43EF5FF11DBBB4275BF77C0D
-        width: 700
-        height: 490
   - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
     publishedDateTime: 2020-01-03T14:44:00Z

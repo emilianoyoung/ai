@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-ar
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/amp/
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CF24906E0DD8FD1BA0018B2FCBB7E626
         width: 640
         height: 480
+  - title: "New Deltek Reports Forecast IT Investments to Reach $56 Billion for the Department of Defense and $11 Billion for the Intelligence Community By 2024"
+    excerpt: "HERNDON, Va., Jan. 13, 2020 /PRNewswire/ -- According to two new reports from Deltek, Information Technology spending by Department of Defense (DOD) and Intelligence Community (IC) agencies will continue to grow as they work to keep pace with the evolution of both the threat landscape and technology development."
+    publishedDateTime: 2020-01-13T19:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/new-deltek-reports-forecast-it-investments-to-reach-56-billion-for-the-department-of-defense-and-11-billion-for-the-intelligence-community-by-2024-300981769.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.C0A32F47A7CEFAF315C4A081D8866C27
+        width: 700
+        height: 366
 
 secured: "R3q7QF5pyMh7Iaz+DR+/nINGMlgxnVUbwVNfy8iLB9o1Riy0WK6E16jj3/CkC2kkcdWFtL9fLybEa3CLIKAkI7w5Fxph8/AbAvWu2a4OhQR/HShqmuO2oGwNUpeyDjMeUTc+GjmNdhgrhA/yr2AoDshS9ehmisgMCsOeCmwwq+YuO2AY4BOo05X3CY0k26J4NclQqzzz3XXsBw6Yn0xO6QIZLuWoLjabimijVuoAzYNDqqGu0FdNZ0+Q5IbWXPJM2BxZfMbDuRTWEXNJFkeIGA==;n0p85vnoFE1gSYAs+6fJdA=="
 ---

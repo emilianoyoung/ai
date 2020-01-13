@@ -24,28 +24,21 @@ images:
     title: "New Vision-Based Safety Solution Boosts Fleet and Safety Management"
 
 related:
-  - title: "M1, SIT to jointly develop AI solutions for mobile network management"
-    excerpt: "SINGAPORE (THE BUSINESS TIMES) - Telco M1 Limited and the Singapore Institute of Technology (SIT) are collaborating to develop artificial intelligence (AI ... this project is to develop a performance anomaly detection methodology by using deep neural networks (DNN), said M1 and SIT. Another goal is to leverage DNN to model and predict active ..."
-    publishedDateTime: 2020-01-08T02:10:00Z
-    sourceUrl: https://www.straitstimes.com/business/companies-markets/m1-sit-to-jointly-develop-ai-solutions-for-mobile-network-management
+  - title: "Transoft Solutions Acquires Brisk Synergies to Leverage Machine Learning and Vision Analytics for Safer Cities"
+    excerpt: "Brisk Synergies' BriskVANTAGE and BriskLUMINA software platforms apply continuous deep learning analytics on traffic video to help assist transportation professionals reach their Vision Zero goals to prevent vehicle, pedestrian and cyclist collisions, and improve road safety. The secure, cloud-based Brisk dashboard reports on actionable ..."
+    publishedDateTime: 2020-01-13T16:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
+    ampUrl: https://markets.businessinsider.com/amp/news/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/08/rk_jointcollage_080120.jpg?itok=aU0eigm7
-        width: 763
-        height: 509
-  - title: "M1, SIT to develop AI deep learning algorithms for mobile network management"
-    excerpt: "Singapore operator M1 and Singapore Institute of Technology (SIT) have signed a research collaboration agreement, to jointly research and develop artificial intelligence (AI) deep learning algorithms and methodology to upgrade the planning, operations and maintenance of large and complex mobile networks. M1 and SIT plan to jointly develop AI ..."
-    publishedDateTime: 2020-01-08T08:46:00Z
-    sourceUrl: https://www.telecompaper.com/news/m1-sit-to-develop-ai-deep-learning-algorithms-for-mobile-network-management--1321970
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
+      - url: https://www.bing.com/th?id=ON.CCC2EF2E7C217FC84A6434B8AF0CA03C
+        width: 400
+        height: 216
 
 secured: "RDUOGXeci7AbbTQvcavZXusvIqSiH9Xv283SgFTHgoGTOtsm1kgn2qMbHIM9IdlIeU60CJ+dz6CcZBYiyDPDd4vsO5HbI4gr7fGNTkpLQ8PPepBuhLWq+a0IoZY/e8K8Xko6QO2s+VySbKs1K7kok49DgW4hY7gh3hySTdHMbVmbbcxsKsdTYDGQ29MZUXCSdwizXT5kD5pEuoJp2qrV+vubqz6Gt+D/mEFVK3QM50VycJVd9QMHz+CyI22IvWi4TrjLmilmXBmAxsCu/dNavQ==;wBbck58gPckz27rACeU2Ww=="
 ---

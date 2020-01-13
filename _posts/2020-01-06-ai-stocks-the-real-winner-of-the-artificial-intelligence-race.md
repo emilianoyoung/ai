@@ -36,7 +36,7 @@ related:
     provider:
       name: BBC
       domain: bbc.com
-    quality: 87
+    quality: 187
     images:
       - url: https://www.bing.com/th?id=ON.CD6433F22A5F2786E8096C64620ED631
         width: 700
@@ -56,6 +56,49 @@ related:
       - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
         width: 700
         height: 350
+  - title: "Are robots really the answer to Britain's care crisis? Meet the new generation of artificial humans"
+    excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
+    publishedDateTime: 2020-01-11T22:08:00Z
+    sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/11/18/23276890-0-image-a-86_1578766455809.jpg
+        width: 636
+        height: 382
+  - title: "Are robots really the answer to Britain’s care crisis? Meet the spookily lifelike new generation of artificial humans"
+    excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
+    publishedDateTime: 2020-01-11T22:08:00Z
+    sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.B947BDAC7D23E3976DBF815BD7B51CA2
+        width: 636
+        height: 382
+  - title: "Teachers, the Robots Are Coming. But That's Not a Bad Thing"
+    excerpt: "I don’t think artificial intelligence is there yet.” But researchers are trying to get there. Consider the work of Cynthia Breazeal, an associate professor of Media Arts and Sciences at the MIT Media Lab, who leads the Personal Robots group. The group is conducting randomized control trials of the use of an AI-powered, teddy bear-sized and ..."
+    publishedDateTime: 2020-01-07T22:33:00Z
+    sourceUrl: https://www.edweek.org/ew/articles/2020/01/08/teachers-the-robots-are-coming-but-thats.html
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A112C5E86273E0A498433C651D2AF5BA
+        width: 700
+        height: 365
 
 secured: "nyJ+nWOYt/NPsOQn6tEPOdDPlT7T5D7EoiImsmAhQzjdZzl6RbOFo/zVI7/n4z5FWIi3Abmpv1JC0ZznYVTnHJQTdBfVICRwnsSBIDyR31lszWj0qYuAQn+RDykEa9nweMImfGAwaZcYMSZFfM8cBZvCIAF741L5w0B3h+/PN6Y3HwTGMEkVJTF6bvsgg8Bf+JMZcbfdYsSkDtY3MFwnOZYhJIV5PyjMrWBiqpKMSClPsX9i9o7lP2y7Uht+tMY4kSAHGSKiB0RNx0NpcxjlRg==;jagIvexzwHsZg9OtfNmLtg=="
 ---

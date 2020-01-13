@@ -24,88 +24,81 @@ images:
     title: "Teachers, the Robots Are Coming. But That's Not a Bad Thing"
 
 related:
-  - title: "The Future of Politics Is Robots Shouting at One Another"
-    excerpt: "The risk arises from two separate threads coming together: artificial-intelligence-driven text generation and social-media chatbots. These computer-generated “people” will drown out actual human discussions on the internet. These efforts will only get ..."
-    publishedDateTime: 2020-01-07T15:58:00Z
-    sourceUrl: https://www.theatlantic.com/technology/archive/2020/01/future-politics-bots-drowning-out-humans/604489/
-    ampUrl: https://amp.theatlantic.com/amp/article/604489/
-    cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
+  - title: "Researchers: Are we on the cusp of an ‘AI winter’?"
+    excerpt: "The last decade was a big one for artificial intelligence but researchers in the field believe that the industry is about to enter a new phase. Hype surrounding AI has peaked and troughed over the years as the abilities of the technology get overestimated and then re-evaluated. The peaks are known as AI summers, and the troughs AI winters."
+    publishedDateTime: 2020-01-12T00:22:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51064369
+    ampUrl: https://www.bbc.com/news/amp/technology-51064369
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 89
+      name: BBC
+      domain: bbc.com
+    quality: 187
     images:
-      - url: https://www.bing.com/th?id=ON.D48CC30DABF965C2906C0E82721DADB3
-        width: 700
-        height: 364
-  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
-    excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
-    publishedDateTime: 2020-01-07T20:44:00Z
-    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
-    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
-    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C46C08A6F7A8A8BE12E3601A91D69C03
-        width: 700
-        height: 269
-  - title: "The Future of Robotics Takes Center Stage with UBTECH at CES 2020"
-    excerpt: "Each robot is designed to inspire children's imaginations about space exploration while giving them access to advanced, highly programmable technologies such as a new Artificial Intelligence system, a camera with powerful image recognition ability and ..."
-    publishedDateTime: 2020-01-03T14:34:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200103005061/en/Future-Robotics-Takes-Center-Stage-UBTECH-CES
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
-        width: 700
-        height: 365
-  - title: "CES: Toyota's building a city the future full of robots and AI"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+      - url: https://www.bing.com/th?id=ON.CD6433F22A5F2786E8096C64620ED631
         width: 700
         height: 393
-  - title: "CES: Toyota's building a city where the future full of robots and AI"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-where-the-future-full-of-robots-and-ai
+  - title: "Amazon researchers trained an AI model in multiple languages to improve product searches"
+    excerpt: "They say that their AI, which was trained on data from several different languages at once, delivered better results using any of those languages. As Amazon applied scientist Nikhil Rao explained in a blog post, the reason for the improvement is that a corpus in one language is able to fill gaps in that of another language. For instance ..."
+    publishedDateTime: 2020-01-08T17:11:00Z
+    sourceUrl: https://venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-model-in-multiple-languages-to-improve-product-searches/
+    ampUrl: https://venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-model-in-multiple-languages-to-improve-product-searches/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-model-in-multiple-languages-to-improve-product-searches/amp/
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
     images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
         width: 700
-        height: 393
-  - title: "CES: Toyota's city of the future is full of robots and AI systems"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-city-of-the-future-is-full-of-robots-and-ai-systems
+        height: 350
+  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
+    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
+    publishedDateTime: 2020-01-06T16:19:00Z
+    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700
         height: 393
+  - title: "Are robots really the answer to Britain's care crisis? Meet the new generation of artificial humans"
+    excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
+    publishedDateTime: 2020-01-11T22:08:00Z
+    sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/11/18/23276890-0-image-a-86_1578766455809.jpg
+        width: 636
+        height: 382
+  - title: "Are robots really the answer to Britain’s care crisis? Meet the spookily lifelike new generation of artificial humans"
+    excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
+    publishedDateTime: 2020-01-11T22:08:00Z
+    sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.B947BDAC7D23E3976DBF815BD7B51CA2
+        width: 636
+        height: 382
 
 secured: "aQfG6y/jj7kvRPpTtquhk7LByyPMiDlpbuzlhDbN5vcIrBoXdrgPBXiqruEUh4phQ9YO1iWL7fVx8Kz2qJvdWajnVdNPv7qEf+3uwOcAxnShmdIcQBpJCK7/jOAYmqODF9L4VEFWZLdqGLiRfWH/WPTlzhbOiYZNOnOgcb+HDb9fC/RAP208QfVEUsV9sH/MuuhvTyy6EJBkIMC8aXXJ9cZ42XDSlJAYlYGYZJnD1tgMT5WCtfLAtkXaZ4TkqcIi0aD8Zdol9r+8WkubMrNO8Q==;98j+mnCXrZ8GGna3TupYBw=="
 ---

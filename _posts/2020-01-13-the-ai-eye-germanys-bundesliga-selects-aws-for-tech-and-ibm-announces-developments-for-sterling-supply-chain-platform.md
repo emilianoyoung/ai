@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T17:01:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-germanys-bundesliga-selects-aws-for-tech-and-ibm-announces-developments-for-sterling-supply-chain-platform-2020-01-13
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3B2C41D8FB5FE60BCD00079477AB3402
         width: 700
         height: 466
-  - title: "German Bundesliga selects AWS for personalised coverage"
-    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile, online, streaming, and television broadcasts. Using other AWS ML services, Bundesliga ..."
-    publishedDateTime: 2020-01-13T11:20:00Z
-    sourceUrl: https://www.broadbandtvnews.com/2020/01/13/german-bundesliga-selects-aws-for-personalised-coverage/
-    type: article
-    provider:
-      name: Broadband TV News
-      domain: broadbandtvnews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7625B75520DAA70A3E6BD8CA8F9FCDCF
-        width: 700
-        height: 392
   - title: "The AI Eye: Salesforce Report Reveals Impact of AI On Digital Shopping Revenue and Veritone CEO to Deliver CES Keynote and AI Session"
     excerpt: "Point Roberts, WA and Vancouver, BC - January 10, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
     publishedDateTime: 2020-01-10T17:13:00Z

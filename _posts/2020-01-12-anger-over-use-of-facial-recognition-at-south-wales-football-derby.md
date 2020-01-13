@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2C953B65CE73943F4E032F4DF1B348F9
         width: 700
         height: 525
-  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
-    publishedDateTime: 2020-01-09T14:42:00Z
-    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
-    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.8C342A103904B414ED1D7EC9E777DA51
-        width: 700
-        height: 367
   - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
     excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are ..."
     publishedDateTime: 2020-01-13T12:55:00Z
@@ -86,43 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4BB7A977116E70D5DFBD615B431496F5
         width: 700
         height: 481
-  - title: "Maybe Third Time’s the Charm for Facial Recognition Vote"
-    excerpt: "A proposal that would ban use of facial recognition technology was first voted on by the Portland, Maine, City Council in November. They voted to postpone. On Monday, the council voted unanimously to postpone again, this time until June. (TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal ..."
-    publishedDateTime: 2020-01-07T22:26:00Z
-    sourceUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html
-    ampUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "APSU’s Science on Tap returns Jan. 7 with talk on facial recognition technology"
-    excerpt: "Last August, all New York City police officers received a text message with the name and photo of a suspected terrorist. The man had caused a panic that morning by leaving suspicious objects – rice cookers – on a Manhattan subway platform."
-    publishedDateTime: 2020-01-06T20:22:40Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/apsu-e2-80-99s-science-on-tap-returns-jan-7-with-talk-on-facial-recognition-technology/ar-BBYFJFt
-    type: article
-    provider:
-      name: The Leaf-Chronicle (Clarksville) on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.D1B01DC764E4126A77861362472347F3
-        width: 600
-        height: 315
-  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
-    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
-    publishedDateTime: 2020-01-11T10:15:00Z
-    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
-        width: 480
-        height: 332
 
 secured: "if/sqvFYnMBI4e3QFZbkUK9S3kVlx1l8L3nPPrSiIeG6Ja0ZnEsp4f2Z8YUtY/KsbPoIZ79D7UCQFvuPQfsCo84m2LB494BTqIgbp7ig6cgI63/OxPtefThfFkbEoEJp5MyZH/VTCmI1y7wNsqsg/pvy34QPiGwLJWukFp8I1U5AIvOB2Ru7wBTAtmxFBPYR0K/EnxwcOfS+/NycB6XvRY39klh07g1YyPJSv+VHkEfOeyH4bStRWfAf1koWO9Yqgf5kzK0yr/ove6gqDGf5Sg==;suQ2UWClGyAZ8bP3Lw36ug=="
 ---

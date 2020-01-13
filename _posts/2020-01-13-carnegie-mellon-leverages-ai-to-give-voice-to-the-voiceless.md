@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T05:02:00Z
 sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/cmu-cml011020.php
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,23 @@ images:
     width: 700
     height: 393
     title: "Carnegie Mellon leverages AI to give voice to the voiceless"
+
+related:
+  - title: "Carnegie Mellon researchers propose AI that surfaces positive online comments"
+    excerpt: "As the researchers explain, improvements in AI language models — which learn from many examples to predict what words are likely to occur in a given sentence — made it possible to analyze such large quantities of text. The study’s contribution was a technique enabling those models to digest short texts originating from South Asia ..."
+    publishedDateTime: 2020-01-13T20:38:00Z
+    sourceUrl: https://venturebeat.com/2020/01/13/carnegie-mellon-researchers-propose-ai-that-surfaces-positive-online-comments/
+    ampUrl: https://venturebeat.com/2020/01/13/carnegie-mellon-researchers-propose-ai-that-surfaces-positive-online-comments/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/carnegie-mellon-researchers-propose-ai-that-surfaces-positive-online-comments/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.12D75450CDE61D6ABAE3D99F948EDB8C
+        width: 700
+        height: 350
 
 secured: "fBCjqVMS3G4QAhdYnlJtWvEFzjOnGbxyobJn7rghxd/ZPuiO1Hm3TkLtOWGPQz0taE8qo7kjmb8RjbTWbqW7Zq5dxoF6ySXKpe+btcp1vKgpdt1KTDIjS/OMOtURob6lXIP2CqrxNMNOW4Fvv5J7qLWenHFFK6FMO22Jd1ylanafbpgHY9fygSbjXXEQP6HXJERvDFL1IlnrLborkZ18EGsJ+9CLkFywTSlpgwhO8LEkVL44LsxddOHGcmLmVHUPHdpeS+VretpzgeSYpOGlSQ==;SREbcQApQVRgY/NJfosw9g=="
 ---

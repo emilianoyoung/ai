@@ -26,152 +26,152 @@ images:
     title: "Weekly output: FOIAing for facial-recognition software"
 
 related:
-  - title: "Privacy fears as India police use facial recognition at rally"
-    excerpt: "Police in Indian capital of New Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to ..."
-    publishedDateTime: 2019-12-30T12:29:00Z
-    sourceUrl: https://www.aljazeera.com/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
-    ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
-    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
+  - title: "City Employee Claims SDPD Hid Information on Facial Recognition Program"
+    excerpt: "In a report to the city’s Fraud Hotline, a former city employee accuses the San Diego Police Department of failing to release information regarding facial recognition to city council, the media and the public A former city of San Diego employee claims the San Diego Police Department attempted to hide information about its use of facial ..."
+    publishedDateTime: 2020-01-13T00:15:00Z
+    sourceUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/
+    ampUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 159
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 174
     images:
-      - url: https://www.bing.com/th?id=ON.4AF2CFBCCA9C5B2936952FB811ED40C6
+      - url: https://www.bing.com/th?id=ON.000AA546159B1196D97901372E6F925C
         width: 700
         height: 393
-  - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
-    excerpt: "As the year draws to a close, it’s instructive to look back at the months preceding to see what the future has in store. History is cyclical in nature, and this is true of the field of AI. Consider that backpropagation, an algorithm widely used in the training of machine learning systems, appeared as a theory as early as 1980, but it wasn’t ..."
-    publishedDateTime: 2019-12-27T21:45:00Z
-    sourceUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/
-    ampUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
+  - title: "Facial recognition hardware to reach over 800 million devices by 2024"
+    excerpt: "A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment Authentication: Biometrics, Regulation ..."
+    publishedDateTime: 2020-01-07T08:30:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/07/facial-recognition-hardware/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 139
     images:
-      - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
+      - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
         width: 700
-        height: 350
-  - title: "The best facial recognition cameras of 2020"
-    excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit-or-miss, based on a variety of factors, from ..."
-    publishedDateTime: 2019-12-30T21:43:00Z
-    sourceUrl: https://www.cnet.com/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    ampUrl: https://www.cnet.com/google-amp/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
+        height: 401
+  - title: "Facial Recognition: Friend Or Foe?"
+    excerpt: "The growing trend toward more accurate facial recognition is on the rise. It is clear that advances in research — specifically, with more accurate, complex algorithms — are creating an environment of extremely accurate solutions that use the complex and individual characteristics of a person's face for identity purposes. As the former ..."
+    publishedDateTime: 2020-01-06T12:52:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.F4F1E7EE69C8A5371F42D81B655D83C7
+        width: 600
+        height: 315
+  - title: "How to set up facial recognition to sign into Windows 10"
+    excerpt: "You can adopt a PIN, a physical security key, your fingerprint, or facial recognition. The facial recognition option can be handy as all you need do is glance at your computer's camera to authenticate yourself. But, only certain cameras support Windows Hello facial recognition, and you have to set up the feature for it to scan and recognize ..."
+    publishedDateTime: 2020-01-07T17:54:00Z
+    sourceUrl: https://www.techrepublic.com/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
+    ampUrl: https://www.techrepublic.com/google-amp/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.BB67FFF39EEB9CF42BA57B614F8764BD
+        width: 700
+        height: 525
+  - title: "At CES, facial recognition creeps into everything"
+    excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what a world where facial recognition is everywhere would feel like. \"Hello, Alfred,\" said a measured, robotic voice, startling me. It came from a ..."
+    publishedDateTime: 2020-01-10T13:04:00Z
+    sourceUrl: https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/
+    ampUrl: https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
     type: article
     provider:
       name: CNET
       domain: cnet.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.2CAE30B96CA2C942E26B5836F25B6537
+      - url: https://www.bing.com/th?id=ON.EAEF1BE6F316E27F496AB95D91A90445
         width: 700
-        height: 393
-  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
-    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law."
-    publishedDateTime: 2019-12-30T11:45:00Z
-    sourceUrl: https://www.reuters.com/article/us-india-protests-facialrecognition-trfn-idUSKBN1YY0PA
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YY0PA
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YY0PA
+        height: 525
+  - title: "Facial recognition creeps into everything at CES 2020"
+    excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what the world would be like if facial recognition is everywhere. \"Hello, Alfred,\" said a measured, robotic voice, startling me. It came from a kiosk ..."
+    publishedDateTime: 2020-01-10T14:32:00Z
+    sourceUrl: https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/
+    ampUrl: https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNET
+      domain: cnet.com
     quality: 89
     images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
-  - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
-    excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
-    publishedDateTime: 2019-12-26T11:34:00Z
-    sourceUrl: https://www.mid-day.com/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    ampUrl: https://m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    cdnAmpUrl: https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
-        width: 670
-        height: 440
-  - title: "Fight against facial recognition hits wall across the West"
-    excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
-    publishedDateTime: 2019-12-30T10:09:00Z
-    sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
-    ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
-    cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
+      - url: https://www.bing.com/th?id=ON.2C953B65CE73943F4E032F4DF1B348F9
         width: 700
-        height: 466
-  - title: "School district's facial recognition raises privacy concerns"
-    excerpt: "LOCKPORT, N.Y. -- An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education officials ..."
-    publishedDateTime: 2020-01-03T21:09:00Z
-    sourceUrl: https://abcnews.go.com/US/wireStory/school-districts-facial-recognition-raises-privacy-concerns-68057381
-    ampUrl: https://abcnews.go.com/amp/US/wireStory/school-districts-facial-recognition-raises-privacy-concerns-68057381
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/school-districts-facial-recognition-raises-privacy-concerns-68057381
+        height: 525
+  - title: "How the Police Use Facial Recognition, and Where It Falls Short"
+    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, the deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law enforcement ..."
+    publishedDateTime: 2020-01-12T22:17:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html
+    ampUrl: https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.BD50F2118F2E2D398647702F67C9A692
+        width: 700
+        height: 366
+  - title: "The benefits of facial recognition AI are being wildly overstated"
+    excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
+    publishedDateTime: 2020-01-13T20:44:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/13/the-benefits-of-facial-recognition-ai-are-being-wildly-overstated/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.0C3E5ED20F89F1965DEFDC7FA02393A4
+        width: 700
+        height: 350
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
+    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.8C342A103904B414ED1D7EC9E777DA51
+        width: 700
+        height: 367
+  - title: "Railway stations to have smart cameras for facial recognition"
+    excerpt: "Railways has entrusted RailTel, a Miniratna PSU under Ministry of Railways with the work of providing IP based VSS with video analytics and facial recognition system. To have a better coverage and clearer image, four types of Full HD Cameras – Dome type (for indoor areas), Bullet type (for platforms), Pan Tilt Zoom type (for parking areas ..."
+    publishedDateTime: 2020-01-08T22:19:00Z
+    sourceUrl: https://www.livemint.com/news/india/railway-stations-to-have-smart-cameras-for-facial-recognition-11578513121172.html
+    ampUrl: https://www.livemint.com/news/india/railway-stations-to-have-smart-cameras-for-facial-recognition/amp-11578513121172.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/railway-stations-to-have-smart-cameras-for-facial-recognition/amp-11578513121172.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.61E890E30030333A596C2A29D8532CAF
-        width: 700
-        height: 393
-  - title: "From protests to chai, facial recognition is creeping up on us"
-    excerpt: "Facial recognition technology is no longer the realm of movies and science fiction. Just last month, newspapers reported that Delhi Police used facial recognition to identify “habitual protestors” and “rowdy elements”. At the PM’s rally on December 22, it was used to deny entry to “miscreants who could raise slogans and banners”."
-    publishedDateTime: 2020-01-04T22:30:00Z
-    sourceUrl: https://timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
-    ampUrl: https://timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
-    cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: https://timesofindia.indiatimes.com/blogs/wp-content/themes/blogstheme/images/blog-facebook.jpg
-        width: 330
-        height: 300
-  - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
-    excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
-    publishedDateTime: 2019-12-28T07:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
-    ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
-        width: 700
-        height: 437
-  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
-    excerpt: "MUMBAI, Dec 30 (Thomson Reuters Foundation) - Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi ..."
-    publishedDateTime: 2019-12-31T01:02:00Z
-    sourceUrl: https://in.reuters.com/article/india-protests-facialrecognition-idINL8N29301S
-    ampUrl: https://in.mobile.reuters.com/article/amp/idINL8N29301S
-    cdnAmpUrl: https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N29301S
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      - url: https://www.bing.com/th?id=ON.7D2EDE14ECA06EE86C4635BF018657E7
+        width: 600
+        height: 338
   - title: "Even The US Government Admits Facial Recognition Is Racially Biased"
     excerpt: "A new federal study from the National Institute of Standards and Technology (NIST) confirms, again, that facial recognition technology is riddled with a fundamental racial bias. Using nearly 200 facial recognition algorithms developed by 99 corporations on 18 million images from federal databases, the algorithms’ accuracy was found to vary ..."
     publishedDateTime: 2020-01-06T01:09:00Z
@@ -185,777 +185,494 @@ related:
       - url: https://www.bing.com/th?id=ON.3C6A6E3A327EE61A854A5220D80582FB
         width: 700
         height: 393
-  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-27T18:59:00Z
-    sourceUrl: https://cn.reuters.com/article/usa-crime-face-idCNL4N28U2B2
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
-        width: 1200
-        height: 630
-  - title: "Facial recognition software biased against Asians and black people, major US government study finds"
-    excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
-    publishedDateTime: 2020-01-01T22:28:00Z
-    sourceUrl: https://www.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
-    ampUrl: https://amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 60
-    images:
-      - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
-        width: 700
-        height: 367
-  - title: "Facial recognition is the future, privacy is a concern"
-    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
-    publishedDateTime: 2019-12-26T07:45:00Z
-    sourceUrl: https://www.zawya.com/mena/en/legal/story/Facial_recognition_is_the_future_privacy_is_a_concern-SNG_163119875/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163119875/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163119875/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.81A4F520A546CFE573C22A9770616BCA
-        width: 700
-        height: 466
-  - title: "Facial recognition technology needs proper regulation"
-    excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
-    publishedDateTime: 2019-12-28T15:15:00Z
-    sourceUrl: https://www.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    ampUrl: https://amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
-        width: 700
-        height: 367
-  - title: "Police using facial recognition system to identify protesters"
-    excerpt: "With the help of Automated Facial Recognition System (AFRS), the Delhi police are comparing the details of people involved in violence during the protests against the citizenship law in the national capital with a data bank of more than two lakh ‘antisocial elements’, said the police on Monday. A senior police officer said that they are ..."
-    publishedDateTime: 2019-12-30T20:06:00Z
-    sourceUrl: https://www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece
-    ampUrl: https://www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece/amp/
+  - title: "Smart cameras for facial recognition to be installed at KSR City Railway Station"
+    excerpt: "In an effort to enhance security at the Krantiveera Sangolli Rayanna City Railway Station (KSR Bengaluru) and to identify and prevent criminals, especially human traffickers, from entering the station, the South Western Railway is all set to use facial-recognition software linked to advanced artificial intelligence. According to the railways ..."
+    publishedDateTime: 2020-01-09T16:48:00Z
+    sourceUrl: https://www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece
+    ampUrl: https://www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece/amp/
     type: article
     provider:
       name: The Hindu
       domain: thehindu.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.410C04674B26F08F08E99A9ADDC5B0E2
-        width: 615
-        height: 384
-  - title: "Use of facial recognition in New Delhi rally sparks privacy fears"
-    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally — a first for India — raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
-    publishedDateTime: 2019-12-30T13:50:00Z
-    sourceUrl: https://www.dawn.com/news/1525267
-    ampUrl: https://www.dawn.com/news/amp/1525267
-    cdnAmpUrl: https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1525267
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.DB4A07FA2A77EB900EEF3F00F315B641
-        width: 700
-        height: 420
-  - title: "SEC to test face recognition tech in ULB polls"
-    excerpt: "Telangana’s Information Technology, Electronics & Communications Department, which has successfully launched the face recognition technology app for the benefit of pensioners to obtain ‘life certificate’, is now taking up a pilot project in association with the State Election Commission (SEC) to check photo electoral rolls in the ..."
-    publishedDateTime: 2020-01-02T16:06:00Z
-    sourceUrl: https://www.thehindu.com/news/national/telangana/sec-to-test-face-recognition-tech-in-ulb-polls/article30462912.ece
-    ampUrl: https://www.thehindu.com/news/national/telangana/sec-to-test-face-recognition-tech-in-ulb-polls/article30462912.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/sec-to-test-face-recognition-tech-in-ulb-polls/article30462912.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+    quality: 69
     images:
       - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
         width: 300
         height: 300
-  - title: "Success of facial recognition tech depends on data"
-    excerpt: "How does the software work? The police’s AFRS is different from the facial recognition systems used on smartphones. The latter is based on the ISO 19794-5 standard meant for consumer biometrics; the police’s software is more “restrictive\", as per the National Crime Records Bureau (NCRB) document seeking proposals for the system."
-    publishedDateTime: 2020-01-02T17:50:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data-11577986675080.html
-    ampUrl: https://www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data/amp-11577986675080.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data/amp-11577986675080.html
+  - title: "Bengaluru, Manmad, Bhusawal railway stations to get facial recognition tech as test cases"
+    excerpt: "NEW DELHI: Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as ..."
+    publishedDateTime: 2020-01-08T15:27:00Z
+    sourceUrl: https://www.newindianexpress.com/nation/2020/jan/08/bengaluru-manmad-bhusawal-railway-stations-to-get-facial-recognition-tech-as-test-cases-2086909.html
+    ampUrl: https://www.newindianexpress.com/nation/2020/jan/08/bengaluru-manmad-bhusawal-railway-stations-to-get-facial-recognition-tech-as-test-cases-2086909.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2020/jan/08/bengaluru-manmad-bhusawal-railway-stations-to-get-facial-recognition-tech-as-test-cases-2086909.amp
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.1884978B2CF82E94D21585476C983F93
+        width: 600
+        height: 390
+  - title: "Railway stations at Bengaluru, Manmad, Bhusawal to get facial recognition tech as test cases"
+    excerpt: "Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on January 8. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as the Crime and ..."
+    publishedDateTime: 2020-01-08T14:36:00Z
+    sourceUrl: https://www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html
+    ampUrl: https://www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html/amp
+    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html/amp
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.84AC95BE47A4AB627C104AE4BE898619
+        width: 700
+        height: 393
+  - title: "Railways to install video surveillance, facial recognition systems to improve security at stations"
+    excerpt: "Indian Railways (IR) will be installing a Video Surveillance System (VSS) across 983 stations, with video analytics and facial recognition software, according to a Railway Ministry press release. The Ministry has upped the ante when it comes to security at stations by investing in artificial intelligence (AI)-enabled, Internet Protocol ..."
+    publishedDateTime: 2020-01-10T11:11:00Z
+    sourceUrl: https://www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece
+    ampUrl: https://www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/railways-to-install-video-surveillance-facial-recognition-systems-to-improve-security-at-stations/article30534035.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.6BB75D855E6454C157352ED13C05D579
+        width: 615
+        height: 384
+  - title: "CES trying facial recognition for badge pickup at some venues"
+    excerpt: "CES is piloting facial recognition kiosks that can streamline badge pickup at some venues at this year’s show. The Consumer Technology Association, which sponsors CES, has placed kiosks with facial recognition technology across some of the trade show’s 11 venues, including the Westgate, Mandalay Bay and the Las Vegas Convention Center’s ..."
+    publishedDateTime: 2020-01-06T22:53:00Z
+    sourceUrl: https://www.reviewjournal.com/business/conventions/ces/ces-trying-facial-recognition-for-badge-pickup-at-some-venues-1929469/
+    ampUrl: https://www.reviewjournal.com/business/conventions/ces/ces-trying-facial-recognition-for-badge-pickup-at-some-venues-1929469/amp/
+    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/ces/ces-trying-facial-recognition-for-badge-pickup-at-some-venues-1929469/amp/
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.57E336D173C64D0E8B8F509B0293A5EC
-        width: 600
-        height: 338
-  - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
-    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
-    publishedDateTime: 2019-12-27T18:45:00Z
-    sourceUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html
-    ampUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
-    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
+      - url: https://www.bing.com/th?id=ON.0180BA3AFB221AA27AC61BC7F1323725
         width: 700
-        height: 455
-  - title: "FaceMe Facial Recognition To Be Used With IMedtac’s Meds Dispensing Cabinet"
-    excerpt: "Now that the world has welcomed a new decade, artificial intelligence and facial recognition still continue to be at the forefront of all the latest innovations among tech companies. iMedtac is a company that offers high-tech patient-oriented solutions. Among its products is the smart medicine cabinet that requires at least two pharmacists to ..."
-    publishedDateTime: 2020-01-04T04:06:00Z
-    sourceUrl: https://www.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
-    ampUrl: https://amps.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
-    cdnAmpUrl: https://amps-i4u-com.cdn.ampproject.org/c/s/amps.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
+        height: 466
+  - title: "Facial recognition finally activated at New York school district"
+    excerpt: "After receiving concerns over possible student privacy violations from students, civil rights activists and state officials, the Lockport City School District in Upstate New York on Thursday activated its facial recognition, which is designed to detect and preempt threats to campus safety. “I am pleased to report that the District has ..."
+    publishedDateTime: 2020-01-06T23:16:00Z
+    sourceUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/
+    ampUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
+    cdnAmpUrl: https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
     type: article
     provider:
-      name: i4u.com
-      domain: i4u.com
-    quality: 57
+      name: edscoop.com
+      domain: edscoop.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.6CA2457D4897111EC3EA4920BC840C2B
-        width: 650
-        height: 370
-  - title: "Ruti Overcomes In-Store Personalization Challenge With Opt-In Facial Recognition"
-    excerpt: "The retailer is taking steps to accomplish this goal by personalizing the in-store shopping experience with a proprietary AI-powered platform that leverages an internally built CRM solution and opt-in-only facial recognition. With this technology deployed across nine boutiques (and a 10 th soon to open in Dallas), Ruti can offer personalized ..."
-    publishedDateTime: 2020-01-03T11:00:00Z
-    sourceUrl: https://www.retailtouchpoints.com/topics/shopper-experience/ruti-overcomes-in-store-personalization-challenge-with-opt-in-facial-recognition
-    ampUrl: https://www.retailtouchpoints.com/topics/shopper-experience/ruti-overcomes-in-store-personalization-challenge-with-opt-in-facial-recognition/amp
-    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/topics/shopper-experience/ruti-overcomes-in-store-personalization-challenge-with-opt-in-facial-recognition/amp
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 54
-    images:
-      - url: https://www.retailtouchpoints.com/media/k2/items/cache/17040e0f8eaa9a5c4a4cc58d69afe22d_L.jpg
-        width: 900
-        height: 545
-  - title: "School district's facial recognition raises privacy concerns"
-    excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
-    publishedDateTime: 2020-01-04T04:55:00Z
-    sourceUrl: https://www.sfgate.com/news/education/article/School-district-s-facial-recognition-raises-14948076.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.519BC2A3A0C22105031C582A4B9D4428
+      - url: https://www.bing.com/th?id=ON.08234B047A974C258D9E9189AE65F456
         width: 700
-        height: 507
-  - title: "New York school district's facial recognition raises privacy concerns"
-    excerpt: "An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy."
-    publishedDateTime: 2020-01-05T14:00:00Z
-    sourceUrl: https://www.omaha.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_83f5a40f-ec99-5d35-b098-976808493f59.html
+        height: 466
+  - title: "NYCLU blasts 'premature' approval for school facial recognition system"
+    excerpt: "Lockport City School District, in Niagara County, activated facial recognition cameras in all of its buildings last Thursday, becoming the first public school in the state to use the software designed to prevent intruders. The New York branch of the civil liberties union, in a letter to state education officials, wrote that the approval was ..."
+    publishedDateTime: 2020-01-06T21:36:00Z
+    sourceUrl: https://www.timesunion.com/news/article/NYCLU-calls-on-SED-rescind-approval-for-facial-14953124.php
+    ampUrl: https://www.timesunion.com/news/amp/NYCLU-calls-on-SED-rescind-approval-for-facial-14953124.php
+    cdnAmpUrl: https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/NYCLU-calls-on-SED-rescind-approval-for-facial-14953124.php
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 54
+      name: Times Union
+      domain: timesunion.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.63591F20A6E418B7A9CED80ACDCEAB8C
-        width: 700
-        height: 393
-  - title: "Grill thief arrested after photo ran through facial recognition software, police say"
-    excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
-    publishedDateTime: 2019-12-27T21:15:00Z
-    sourceUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/
-    ampUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
-    cdnAmpUrl: https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
+      - url: https://www.bing.com/th?id=ON.0F5FF790D763395C76008D1D47B4F6EA
+        width: 301
+        height: 247
+  - title: "School district’s launch of facial recognition program sparks outcry"
+    excerpt: "A western New York school district has decided to begin using a facial recognition system, a move that is facing criticism from civil rights groups. The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
+    publishedDateTime: 2020-01-06T17:30:00Z
+    sourceUrl: https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/
+    ampUrl: https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp
     type: article
     provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 52
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
+      - url: https://www.bing.com/th?id=ON.3E5038CB1DC1CC40C84F6F6CA0069A97
         width: 700
-        height: 393
-  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
-    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
-    publishedDateTime: 2019-12-29T11:40:00Z
-    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
-    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+        height: 350
+  - title: "How Facial Recognition Technology Works"
+    excerpt: "If you got a new smart device over the holidays, there’s a good chance it comes equipped with facial recognition technology. The smart tech unlocks your phone or tablet and allows quick access to a stored credit card, an airline app, bank account and so much more—all based on the unique features of your face. It also leads to questions ..."
+    publishedDateTime: 2020-01-08T12:32:00Z
+    sourceUrl: https://www.adweek.com/digital/how-facial-recognition-technology-works/
+    ampUrl: https://www.adweek.com/digital/how-facial-recognition-technology-works/amp/
+    cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/how-facial-recognition-technology-works/amp/
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: https://static-adweek-com.cdn.ampproject.org/i/s/static.adweek.com/adweek.com-prod/wp-content/uploads/2020/01/one-platform-yaccarino-content-2020-640x360.jpg
+        width: 640
+        height: 360
+  - title: "Face recognition tech at KSR City rly station by Feb"
+    excerpt: "Bengaluru: The face recognition system will be fully implemented at KSR City Railway station by February, South Western Railway (SWR) officials said. A pilot was conducted between May and October and the Railway Protection Force (RPF) of Bengaluru division proposed use of face recognition software (FRS) in Indian Railways. “The aim of the ..."
+    publishedDateTime: 2020-01-09T23:20:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/city/bengaluru/face-recognition-tech-at-ksr-city-rly-station-by-feb/articleshow/73179078.cms
+    ampUrl: https://m.timesofindia.com/city/bengaluru/face-recognition-tech-at-ksr-city-rly-station-by-feb/amp_articleshow/73179078.cms
+    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/face-recognition-tech-at-ksr-city-rly-station-by-feb/amp_articleshow/73179078.cms
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.AEB615706021C08552E8B824D38DAD1E
+        width: 700
+        height: 378
+  - title: "Is Delhi Police’s Use of Facial Recognition to Screen Protesters ‘Lawful’?"
+    excerpt: "The eventual legal answer may lie in whether there is a clear distinction between physical and virtual intrusion of privacy."
+    publishedDateTime: 2020-01-07T04:53:00Z
+    sourceUrl: https://thewire.in/tech/facial-recognition-delhi-police-lawful
+    ampUrl: https://thewire.in/tech/facial-recognition-delhi-police-lawful/amp/
+    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/tech/facial-recognition-delhi-police-lawful/amp/
     type: article
     provider:
       name: The Wire
       domain: thewire.in
-    quality: 52
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+      - url: https://www.bing.com/th?id=ON.57F445B9CCDE154826C698F0719DDF28
         width: 700
         height: 350
-  - title: "State civil liberties union trying to put a stop to facial recognition system in Lockport"
-    excerpt: "LOCKPORT, N.Y. (WIVB)–The New York Civil Liberties Union is now trying to put a stop to the facial recognition system in Lockport City Schools. After months of preparation, the school district finally began using the system yesterday in the hopes it will recognize the faces of sex offenders or red-flag certain adults who are not allowed in ..."
-    publishedDateTime: 2020-01-03T22:41:00Z
-    sourceUrl: https://www.wivb.com/news/local-news/niagara-county/lockport/state-civil-liberties-union-trying-to-put-a-stop-to-facial-recognition-system-in-lockport/
-    ampUrl: https://www.wivb.com/news/local-news/niagara-county/lockport/state-civil-liberties-union-trying-to-put-a-stop-to-facial-recognition-system-in-lockport/amp/
-    cdnAmpUrl: https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/local-news/niagara-county/lockport/state-civil-liberties-union-trying-to-put-a-stop-to-facial-recognition-system-in-lockport/amp/
+  - title: "Maine City Again Delays Vote on Facial Recognition Tech"
+    excerpt: "(TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal that would prohibit city officials from using facial recognition technology, which critics say infringes on civil liberties and frequently misidentifies people of color. It was the second delay since City Councilor Pious Ali first ..."
+    publishedDateTime: 2020-01-07T17:25:00Z
+    sourceUrl: https://www.govtech.com/computing/Maine-City-Again-Delays-Vote-on-Facial-Recognition-Tech.html
+    ampUrl: https://www.govtech.com/computing/Maine-City-Again-Delays-Vote-on-Facial-Recognition-Tech.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Maine-City-Again-Delays-Vote-on-Facial-Recognition-Tech.html?AMP
     type: article
     provider:
-      name: WIVB-TV
-      domain: wivb.com
-    quality: 50
+      name: Government Technology
+      domain: govtech.com
+    quality: 54
+  - title: "Portland council again delays vote on facial recognition ban"
+    excerpt: "The Portland City Council voted unanimously Monday night to postpone voting on a proposal that would prohibit city officials from using facial recognition technology, which critics say infringes on civil liberties and frequently misidentifies people of color. It was the second delay since City Councilor Pious Ali first proposed the ban in November."
+    publishedDateTime: 2020-01-07T01:21:00Z
+    sourceUrl: https://www.pressherald.com/2020/01/06/portland-council-again-delays-vote-on-facial-recognition-ban/
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.75C0777E12F9677D29527DE2CE2D8190
+      - url: https://www.bing.com/th?id=ON.1076CBC33A3EFC9CFE2A52463EFE2BAB
         width: 700
-        height: 393
-  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-    excerpt: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs Researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. Check out this story on Freep.com: https://www.usatoday.com/story/travel/news/2019/12/30/facial ..."
-    publishedDateTime: 2019-12-30T22:51:00Z
-    sourceUrl: https://www.freep.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
-    ampUrl: https://amp.freep.com/amp/2755613001
-    cdnAmpUrl: https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/2755613001
+        height: 490
+  - title: "Anti-Surveillance Advocates Sue MTA Over Alleged Use Of Facial Recognition Technology"
+    excerpt: "A nonprofit watchdog group is suing the MTA to get information about a video monitor installed in Times Square to deter fare evasion, which drew suspicions that the agency is deploying facial recognition technology. In a lawsuit filed in state Supreme Court on Monday, the Surveillance Technology Oversight Project (STOP), an advocacy group which ..."
+    publishedDateTime: 2020-01-08T19:59:00Z
+    sourceUrl: https://gothamist.com/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
+    ampUrl: https://champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
+    cdnAmpUrl: https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 45
+      name: Gothamist
+      domain: gothamist.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.DDA879B6C96970D61251CA58AB3B6738
+      - url: https://www.bing.com/th?id=ON.701F432868F9328BCD2446784C119EDC
         width: 700
-        height: 394
-  - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
-    excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
-    publishedDateTime: 2019-12-31T01:00:00Z
-    sourceUrl: https://www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.html
-    ampUrl: https://www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.amp.html
-    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.amp.html
+        height: 379
+  - title: "Telangana Election Commission to use facial recognition to verify electoral rolls: G Kishan Reddy"
+    excerpt: "HYDERABAD: UNION Minister of State for Home Affairs G Kishan Reddy on Thursday said that Telangana State Election Commission (TSEC) would soon launch a pilot project using facial recognition technology to verify photo electoral rolls in the forthcoming municipal elections. He said that the use of facial recognition tools in the electoral ..."
+    publishedDateTime: 2020-01-10T03:41:00Z
+    sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.html
+    ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/10/telangana-election-commission-to-use-facial-recognition-to-verify-electoral-rolls-g-kishan-reddy-2087654.amp
     type: article
     provider:
-      name: Daily Herald
-      domain: heraldextra.com
-    quality: 45
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.F53F5EE0AF7E1C233152D63A3B9551DD
-        width: 700
-        height: 466
-  - title: "CyberLink Integrates FaceMe® AI Facial Recognition into iMedtac’s Smart Medicine Cabinet"
-    excerpt: "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced that its FaceMe® AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is powered by IoT and facial recognition technology, integrating into an AIoT ..."
-    publishedDateTime: 2020-01-02T13:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200102005117/en/CyberLink-Integrates-FaceMe®-AI-Facial-Recognition-iMedtac’s
+      - url: https://www.bing.com/th?id=ON.C650CF649AEF0355BEF7DAE45F998CB5
+        width: 600
+        height: 390
+  - title: "CyberLink FaceMe AI facial recognition integrated with iMedtac’s Automatic Dispensing Cabinet"
+    excerpt: "CyberLink, a pioneer of AI and facial recognition technologies, announced that its FaceMe AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is powered by IoT and facial recognition technology, integrating into an AIoT iHospital service platform and enhancing ..."
+    publishedDateTime: 2020-01-08T03:32:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/08/cyberlink-faceme-ai-facial-recognition/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 45
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.7987DFEEF551404235017C31D7E37CB6
-        width: 700
-        height: 365
-  - title: "CyberLink Integrates FaceMe® AI Facial Recognition into iMedtac’s Smart Medicine Cabinet"
-    excerpt: "The New Generation AIoT Integrated iHospital Platform Brings Enhanced Safety for Pharmaceutical Management CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced that its FaceMe® AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is ..."
-    publishedDateTime: 2020-01-03T00:13:00Z
-    sourceUrl: https://finance.yahoo.com/news/cyberlink-integrates-faceme-ai-facial-140000672.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/cyberlink-integrates-faceme-ai-facial-140000672.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/cyberlink-integrates-faceme-ai-facial-140000672.html
+      - url: https://www.bing.com/th?id=ON.519D424728468426AD1FAB9853F63439
+        width: 400
+        height: 200
+  - title: "Railway stations at Bengaluru, Manmad, Bhusawal to get facial recognition tech as test cases"
+    excerpt: "New Delhi, Jan 8 (PTI) Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing ..."
+    publishedDateTime: 2020-01-09T00:03:00Z
+    sourceUrl: https://in.news.yahoo.com/railway-stations-bengaluru-manmad-bhusawal-134843719.html
     type: article
     provider:
-      name: YAHOO!
+      name: Yahoo! India News
       domain: yahoo.com
-    quality: 45
-  - title: "Many facial-recognition systems are biased, says U.S. study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
-    publishedDateTime: 2019-12-26T08:35:00Z
-    sourceUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
-    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 44
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.609F48C5B2B4CF46E1AB4A33371D98B6
-        width: 700
-        height: 649
-  - title: "Many facial-recognition systems are biased, says U.S. study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
-    publishedDateTime: 2019-12-27T00:10:00Z
-    sourceUrl: https://www.orlandosentinel.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
-    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
+  - title: "Chinese tourist sues zoo after being forced to use facial-recognition cameras"
+    excerpt: "Concerns over security of personal data have risen in China after a zoo-goer became the first person in the country to file a lawsuit in relation to a dispute over the usage of facial-recognition cameras. Guo Bing waged war on the country's 'Big-Brother' surveillance system after being required by a safari park to scan his face on security ..."
+    publishedDateTime: 2020-01-08T15:15:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7865273/Chinese-tourist-sues-zoo-forced-use-facial-recognition-cameras.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7865273/amp/Chinese-tourist-sues-zoo-forced-use-facial-recognition-cameras.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7865273/amp/Chinese-tourist-sues-zoo-forced-use-facial-recognition-cameras.html
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 44
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.2A327A7CD94E84CAAE98946A889EE373
-        width: 700
-        height: 649
-  - title: "Facial recognition is the future, privacy is a concern"
-    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
-    publishedDateTime: 2019-12-25T18:52:00Z
-    sourceUrl: https://www.khaleejtimes.com/editorials-columns/facial-recognition-is-the-future-privacy-is-a-concern
+      - url: https://www.bing.com/th?id=ON.06484958238147A8C4D1609A479F680C
+        width: 636
+        height: 382
+  - title: "Children's Hospital to purchase CCTV cameras with facial-recognition capacity"
+    excerpt: "The National Children's Hospital has said it is purchasing cameras capable of facial recognition and storing the images. The technology is similar to a system used in China for surveillance. It can count how many people are in a room, analyse people's faces and keep up to date with their movements within the facility. A spokesperson has said ..."
+    publishedDateTime: 2020-01-12T15:55:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/childrens-hospital-to-purchase-cctv-cameras-with-facial-recognition-capacity-974998.html
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 41
     images:
-      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
-        width: 725
-        height: 725
-  - title: "Why some cities and states balk at face recognition tech"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-    publishedDateTime: 2019-12-25T08:47:00Z
-    sourceUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.html
-    ampUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
-    cdnAmpUrl: https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
+      - url: https://www.bing.com/th?id=ON.84ED662CC33526A38DA026002951B9F5
+        width: 600
+        height: 325
+  - title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
+    excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
+    publishedDateTime: 2020-01-08T18:31:54Z
+    sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
     type: article
     provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 39
-  - title: "How NIST Tested Facial Recognition Algorithms for Racial Bias"
-    excerpt: "Facial-recognition technology is already being used for applications ranging from unlocking phones to identifying potential criminals. Despite advances, it has still come under fire for racial bias: many algorithms that successfully identify white faces still fail to properly do so for people of color. Last week the National Institute of ..."
-    publishedDateTime: 2019-12-27T12:14:00Z
-    sourceUrl: https://www.scientificamerican.com/article/how-nist-tested-facial-recognition-algorithms-for-racial-bias/
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EED55EE013B46088D74063F3494C019F
-        width: 700
-        height: 439
-  - title: "Improved technology will drive facial recognition adoption"
-    excerpt: "Jessica Medeiros Garrison, Nasr Satta and David Logue discuss facial recognition at the Global Gaming Expo. Photo by Networld Media Group. The adoption of facial recognition software to identify customers will increase in the next few years, thanks to improvements in the technology though it has also been somewhat controversial, according to a ..."
-    publishedDateTime: 2019-12-27T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/articles/improved-technology-will-drive-facial-recognition-adoption/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
-        width: 300
-        height: 170
-  - title: "Facial recognition is coming. Get used to it."
-    excerpt: "Land Line recently heard from a driver. “What do you think about mandatory facial recognition?” he asked on our Facebook page. Facial recognition is the complex digital technology that identifies individuals from the characteristics of their faces. “Today, driving through to show my card the guy told me I needed to do a face recognition ..."
-    publishedDateTime: 2019-12-30T19:49:00Z
-    sourceUrl: https://landline.media/facial-recognition-is-coming-get-used-to-it/
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.82E33785B62DF55A6B066DCF0C8329A2
-        width: 540
-        height: 420
-  - title: "Use of facial recognition in rally sparks privacy fears"
-    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
-    publishedDateTime: 2019-12-30T21:16:00Z
-    sourceUrl: https://www.gulf-times.com/story/652120/Use-of-facial-recognition-in-rally-sparks-privacy-
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0794A7B7E77D3CD47CAECBC43D9FC8F7
-        width: 620
-        height: 355
-  - title: "Indian Adventures: Policing, Facial Recognition and Targeting Privacy"
-    excerpt: "The chances for those seeking a world of solitude are rapidly run out. A good case can be made that this has already happened. Aldous Huxley’s Savage, made famous in Brave New World, is out of options,"
-    publishedDateTime: 2019-12-31T00:00:00Z
-    sourceUrl: https://www.msn.com/en-za/news/other/indian-adventures-policing-facial-recognition-and-targeting-privacy/ar-BBYtH5s
-    type: article
-    provider:
-      name: News Chronicle on MSN.com
+      name: Wales Online on MSN.com
       domain: msn.com
-    quality: 39
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.3682FE7917FDE24FDB7A86A69D8E4F91
+      - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
         width: 600
         height: 315
-  - title: "The quiet creep of facial recognition systems into New Zealand life"
-    excerpt: "Facial recognition systems have quietly crept into casinos, airports and some of New Zealand's biggest retailers. Inquiries by Stuff reveal the controversial technology is in use everywhere from SkyCity casinos to shops such as The Warehouse. A security sector insider said he was getting three or four times as many inquiries about the ..."
-    publishedDateTime: 2019-12-31T16:03:00Z
-    sourceUrl: https://www.stuff.co.nz/technology/118202977/the-quiet-creep-of-facial-recognition-systems-into-new-zealand-life
+  - title: "City delays decision on facial recognition ban"
+    excerpt: "PORTLAND — The City Council Monday stopped short of banning facial recognition technology by municipal departments, postponing action until June 15. Facial recognition technology, which uses a computer program to identify a person based on a captured image or video, is not currently used by any city department. The technology has raised ..."
+    publishedDateTime: 2020-01-07T17:01:00Z
+    sourceUrl: https://www.pressherald.com/2020/01/07/city-delays-decision-on-facial-recognition-ban/
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
+      name: Portland Press Herald
+      domain: pressherald.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.ABB3B4AFD0F0CE177B33FA656A393C58
-        width: 700
-        height: 394
-  - title: "U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
-    publishedDateTime: 2019-12-31T14:16:00Z
-    sourceUrl: https://www.yahoo.com/news/u-government-study-finds-racial-231410866.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.01669EDF11B6991D87815410757603A0
+      - url: https://www.bing.com/th?id=ON.7497D6C0B1A49A6F06E61073409C4F4A
         width: 700
         height: 466
-  - title: "5G, AI, data privacy and mass surveillance — 12 biggest tech policy challenges India will have to face in 2020"
-    excerpt: "Adding fuel to the fire, the Indian Space Research Organisation (ISRO) is arguing that the 26 GHz band should ... 2020 might see digital taxation become law. 12. Solving the confusion over Artificial intelligence 12. Solving the confusion over Artificial intelligence (Source: Unsplash) The Indian government has ambitious plans for artificial ..."
-    publishedDateTime: 2020-01-01T05:12:00Z
-    sourceUrl: https://www.businessinsider.in/tech/news/5g-data-privacy-surveillance-ai-digital-tax-and-e-commerce-to-drive-tech-debate-in-india-in-2020/articleshow/73054149.cms
-    ampUrl: https://www.businessinsider.in/tech/news/5g-data-privacy-surveillance-ai-digital-tax-and-e-commerce-to-drive-tech-debate-in-india-in-2020/amp_articleshow/73054149.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/5g-data-privacy-surveillance-ai-digital-tax-and-e-commerce-to-drive-tech-debate-in-india-in-2020/amp_articleshow/73054149.cms
+  - title: "Maybe Third Time’s the Charm for Facial Recognition Vote"
+    excerpt: "A proposal that would ban use of facial recognition technology was first voted on by the Portland, Maine, City Council in November. They voted to postpone. On Monday, the council voted unanimously to postpone again, this time until June. (TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal ..."
+    publishedDateTime: 2020-01-07T22:26:00Z
+    sourceUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html
+    ampUrl: https://www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Maybe-Third-Times-the-Charm-for-Facial-Recognition-Vote.html?AMP
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
+      name: Governing
+      domain: governing.com
     quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.327032444FD3937080D9B0149DF71A1F
-        width: 640
-        height: 480
-  - title: "Indian Adventures: Policing, Facial Recognition & Privacy"
-    excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
-    publishedDateTime: 2020-01-01T23:51:00Z
-    sourceUrl: https://www.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
-    ampUrl: https://m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
-    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+  - title: "Advocacy Group Sues MTA For Facial Recognition Records"
+    excerpt: "Law360 (January 7, 2020, 7:03 PM EST) -- A privacy advocacy group sued New York's Metropolitan Transportation Authority for stonewalling a request for records concerning its alleged use of facial recognition, after a traveler spotted what appeared to be a facial recognition camera in a Times Square subway station. The Surveillance Technology ..."
+    publishedDateTime: 2020-01-08T00:09:00Z
+    sourceUrl: https://www.law360.com/articles/1232162/advocacy-group-sues-mta-for-facial-recognition-records
+    ampUrl: https://www.law360.com/amp/articles/1232162
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1232162
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
+      name: Law360
+      domain: law360.com
     quality: 39
-  - title: "Facial recognition to grow 12.5% annually through 2024"
-    excerpt: "The facial recognition market is expected to grow at a combined annual growth rate of 12.5% for the forecast period 2019 to 2024, according to Mordor Intelligence. The market was valued at $4.51 billion in 2018 and is expected to reach a value of $9.06 billion by 2024, according to a company press release. Facial recognition has been gaining ..."
-    publishedDateTime: 2020-01-02T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/facial-recognition-to-grow-125-annually-through-2024/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.5979CE3C08B1ABCD2B2F5EF711BF233F
-        width: 300
-        height: 170
-  - title: "March of facial-recognition technology raises alarm in India"
-    excerpt: "India is planning to create the world's largest facial-recognition database, with the technology already being widely used by police, airports and even cafes. Critics fear this violates human rights and will turn the country into a Chinese-style surveillance state. In Delhi’s central business district of Connaught Place, the Chaayos tea cafe ..."
-    publishedDateTime: 2020-01-02T06:07:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/02/march-of-facial-recognition-technology-raises-alarm-in-india
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E6230B4C76EC171A0998E55C2C8E7722
-        width: 700
-        height: 466
-  - title: "How facial recognition can play a positive role when used responsibly"
-    excerpt: "Facial recognition has been named as an epidemic of our time as campaigners warn against facial recognition use in shopping centres, museums, conference centres and other private spaces around the UK. Its legal implications are a hot topic around the world, in the US, for example, the government has recently dropped the use of facial ..."
-    publishedDateTime: 2020-01-03T10:30:00Z
-    sourceUrl: https://www.itproportal.com/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
-    ampUrl: https://www.itproportal.com/amp/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 39
-  - title: "Indian Adventures: Policing, Facial Recognition and Targeting Privacy"
-    excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
-    publishedDateTime: 2020-01-03T09:00:00Z
-    sourceUrl: https://www.counterpunch.org/2020/01/03/indian-adventures-policing-facial-recognition-and-targeting-privacy/
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 39
-    images:
-      - url: https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/10/The-Big-Heat-Cover.png
-        width: 510
-        height: 792
-  - title: "Lockport, N.Y., Schools Embrace Facial Recognition Software"
-    excerpt: "(TNS) — Lockport City School District announced Thursday that it has begun using its controversial facial and object recognition surveillance system. The announcement on the district website came as a surprise, since administrators had previously told the Union-Sun & Journal they did not have a set date for launching the system. “I am ..."
-    publishedDateTime: 2020-01-03T20:32:00Z
-    sourceUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html
-    ampUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and alert certain district personnel, as well as law enforcement, if a weapon is detected."
+    publishedDateTime: 2020-01-09T20:52:00Z
+    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
+    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
     quality: 39
-  - title: "Lockport schools activate facial recognition system"
-    excerpt: "A new year also marked the start of a new era for security efforts in Lockport's public schools. The district announced on its website Thursday that it has activated its $1.4 million facial recognition system in all schools. The Lockport Board of Education has yet to approve policy changes the State Education Department requested in late November."
-    publishedDateTime: 2020-01-03T17:28:00Z
-    sourceUrl: https://buffalonews.com/2020/01/03/lockport-schools-activate-facial-recognition-system/
+  - title: "Germany’s plans for automatic facial recognition meet fierce criticism"
+    excerpt: "An alliance between civil society and politcians are opposing the (alleged) government plans to expand the automatic facial recognition system across the country, notably because the scurrently available technology remains underdeveloped and could lead to so-called \"false positives\". Foto: Stefanie Loos [CC-BY 2.0/STEPHANIE LOOS]"
+    publishedDateTime: 2020-01-10T10:02:00Z
+    sourceUrl: https://www.euractiv.com/section/data-protection/news/german-ministers-plan-to-expand-automatic-facial-recognition-meets-fierce-criticism/
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: EURACTIV
+      domain: euractiv.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.BF3A55BCEC1C727C51A62B48C905EE47
+      - url: https://www.bing.com/th?id=ON.ADD3BC625BFC937657CD509ADAA73273
         width: 700
         height: 525
-  - title: "How are police using facial recognition?"
-    excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
-    publishedDateTime: 2020-01-04T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions
+  - title: "Massachusetts City Renews Calls for Facial Recognition Ban"
+    excerpt: "(TNS) — Springfield, Mass., police don’t use facial recognition software and city councilors want to keep the technology away until it gets better and someone does a better job of regulating its use. \"We want to make sure that we as a municipality are not employing technology that has proven time after time to be inaccurate and inefficient ..."
+    publishedDateTime: 2020-01-13T20:22:00Z
+    sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
+    ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: Government Technology
+      domain: govtech.com
     quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
-        width: 700
-        height: 393
-  - title: "Facial recognition system leads to arrest in theft at Fla. hardware store"
-    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested in Tampa along with a program used by the Seminole County Sheriff’s Office led ..."
-    publishedDateTime: 2020-01-02T22:13:00Z
-    sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21119808/facial-recognition-system-leads-to-arrest-in-theft-at-fla-hardware-store
+  - title: "Police to Implement Facial Recognition at Cardiff-Swansea Football Match"
+    excerpt: "South Wales Police has announced that it will be deploying facial recognition technology at the upcoming Premier League football match between Cardiff City FC and Swansea City FC at Cardiff City Stadium this Sunday, 12 January. In a statement, South Wales Police said: “We will be deploying our facial recognition technology at key areas ahead ..."
+    publishedDateTime: 2020-01-09T11:17:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/news/police-implement-facial-recognition/
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
     quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.B1BFF327D2B3B25E87C36F7530B8388C
-        width: 700
-        height: 466
-  - title: "Indian police are using facial recognition to identify protesters in Delhi"
-    excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
-    publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
-        width: 700
-        height: 393
-  - title: "Indian police are using facial recognition to identify protestors in Delhi"
-    excerpt: "Police in Delhi have now used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about India’s new citizenship law that has sparked protests across the country, the Indian Express reports. Protests have erupted around India after the country’s parliament passed the Citizenship ..."
-    publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
-        width: 700
-        height: 393
-  - title: "To learn how police use facial recognition, we must ask the right questions"
-    excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
-    publishedDateTime: 2020-01-04T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
-        width: 700
-        height: 393
-  - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
-    excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
-    publishedDateTime: 2019-12-28T03:56:00Z
-    sourceUrl: https://www.wftv.com/news/local/florida-law-enforcement-agencies-use-facial-recognition-identify-alleged-thief/SGHPUGB5W5CX3FYVSLU7P6EV7I/
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
-        width: 700
-        height: 366
-  - title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
-    excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
-    publishedDateTime: 2019-12-29T00:05:00Z
-    sourceUrl: https://in.news.yahoo.com/delhi-police-uses-facial-recognition-062529810.html
-    ampUrl: https://in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
-    cdnAmpUrl: https://in-news-yahoo-com.cdn.ampproject.org/c/s/in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.1E50C9D0ADFE54506EA8BBD4CD65AF98
-        width: 280
-        height: 187
-  - title: "Indian Police have started using face-recognition software to screen large crowds at protests"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
-    publishedDateTime: 2019-12-28T11:42:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK.html
-    ampUrl: https://m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
-    images:
-      - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
-        width: 700
-        height: 411
-  - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
-    excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
-    publishedDateTime: 2019-12-27T00:22:00Z
-    sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
-        width: 200
-        height: 150
-  - title: "New trials and rollouts of biometric facial recognition to prevent underage gambling"
-    excerpt: "We’ve just got to make sure that whatever we do doesn’t compromise our privacy obligations,” he says. The technology, which SMH refers to as facial recognition software, will not operate at TAB retail terminals in pubs and clubs. During the trial, Tabcorp worked with Australian machine learning and AI company Eliiza and three facial ..."
-    publishedDateTime: 2020-01-03T18:11:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/new-trials-and-rollouts-of-biometric-facial-recognition-to-prevent-underage-gambling
+      - url: https://www.bing.com/th?id=ON.79369EB21DF3A5335AF056FFBEB3E7E4
+        width: 300
+        height: 300
+  - title: "Worldline presents biometric facial recognition payment solution at NRF 2020"
+    excerpt: "Worldline has developed in partnership with OneVisage, winners of Worldline’s e-Payments Challenge, a biometric facial recognition payment solution which will be showcased next week at NRF Retail’s big show 2020, the company announced. The first of its kind, the company claims, the pay-with-your-face solution leverages 3D facial biometrics ..."
+    publishedDateTime: 2020-01-06T19:18:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/worldline-presents-biometric-facial-recognition-payment-solution-at-nrf-2020
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 32
+    quality: 36
     images:
-      - url: https://www.bing.com/th?id=ON.6442B26B504EB7E2476D71ECE45356DA
+      - url: https://www.bing.com/th?id=ON.AD789EBB814D1DA3749A04811D0099E7
         width: 700
-        height: 452
-  - title: "Technology vs. privacy: Washington looks to regulate facial recognition tools in 2020"
-    excerpt: "The high-tech cameras were set to go live at Seattle-Tacoma International Airport by the end of December. In a first among private airlines at the busy travel hub, Delta Airlines planned to start using facial recognition technology to identify passengers boarding at international gates. The scan of someone’s facial features was intended to ..."
-    publishedDateTime: 2020-01-03T13:06:00Z
-    sourceUrl: https://crosscut.com/2020/01/technology-vs-privacy-washington-looks-regulate-facial-recognition-tools-2020
+        height: 394
+  - title: "With its foray into facial recognition, Uber is normalising mass surveillance"
+    excerpt: "The news late last year that Uber plans to introduce facial recognition technology seems to have mostly escaped the notice of the public, buried as the story was beneath five or six paragraphs in most of the reports on the loss of the firm’s London licence. Or perhaps, as one depressing Wall Street Journal headline claimed, we Brits are ..."
+    publishedDateTime: 2020-01-13T04:06:00Z
+    sourceUrl: https://www.cityam.com/with-its-foray-into-facial-recognition-uber-is-normalising-mass-surveillance/
     type: article
     provider:
-      name: Crosscut
-      domain: crosscut.com
-    quality: 32
+      name: City A.M.
+      domain: cityam.com
+    quality: 36
     images:
-      - url: https://www.bing.com/th?id=ON.26F422EF1167D5C12D88091CB793DDD9
+      - url: https://www.bing.com/th?id=ON.2F7B3C681B1E9F7464CCC73BD7726871
         width: 700
-        height: 458
-  - title: "Former acting Lockport police chief hired to monitor school facial recognition system"
-    excerpt: "Douglas E. Haak Jr., who served as acting Lockport police chief for a few weeks last fall, said Friday he will retire from the department as of Jan. 30 to take a job monitoring the Lockport City School District's new facial recognition security system. \"It's an easy fit for me,\" said Haak, a captain who has been a Lockport police officer for ..."
-    publishedDateTime: 2020-01-05T14:13:00Z
-    sourceUrl: https://buffalonews.com/2020/01/05/former-acting-lockport-police-chief-hired-to-monitor-facial-recognition-system/
+        height: 466
+  - title: "APSU’s Science on Tap returns Jan. 7 with talk on facial recognition technology"
+    excerpt: "Last August, all New York City police officers received a text message with the name and photo of a suspected terrorist. The man had caused a panic that morning by leaving suspicious objects – rice cookers – on a Manhattan subway platform."
+    publishedDateTime: 2020-01-06T20:22:40Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/apsu-e2-80-99s-science-on-tap-returns-jan-7-with-talk-on-facial-recognition-technology/ar-BBYFJFt
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.11BF46342BF08BB2CC098AFBA711E1DE
-        width: 700
-        height: 495
-  - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
-    excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
-    publishedDateTime: 2019-12-28T00:06:00Z
-    sourceUrl: https://in.news.yahoo.com/delhi-police-film-protests-run-234158355.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
-        width: 700
-        height: 389
-  - title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India's farms"
-    excerpt: "Hundreds of start-up tech firms are offering everything from wearable health monitors for livestock to real-time agriscience data The boom has excited investors and raised hopes of solutions to the industry’s more intractable problems – if the government is willing to help In India,"
-    publishedDateTime: 2020-01-03T07:01:22Z
-    sourceUrl: https://www.msn.com/en-sg/news/other/facial-recognition-for-cows-how-the-search-for-tech-unicorns-is-revolutionising-indias-farms/ar-BBYzCIu
-    type: article
-    provider:
-      name: South China Morning Post on MSN.com
+      name: The Leaf-Chronicle (Clarksville) on MSN.com
       domain: msn.com
-    quality: 27
+    quality: 35
     images:
-      - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
+      - url: https://www.bing.com/th?id=ON.D1B01DC764E4126A77861362472347F3
         width: 600
         height: 315
-  - title: "Police Use Face-Recognition Software as India Protests Intensify"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
-    publishedDateTime: 2019-12-28T05:22:56Z
-    sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
+  - title: "NY district launches facial recognition technology after addressing privacy concerns"
+    excerpt: "Lockport City School District in upstate New York recently activated its facial recognition system, which had been delayed to allow the New York State Education Department to investigate the district's privacy policies in response to concerns voiced by students and advocates, EdScoop reports. Following its investigation, the department found ..."
+    publishedDateTime: 2020-01-08T15:35:00Z
+    sourceUrl: https://www.educationdive.com/news/ny-district-launches-facial-recognition-technology-after-addressing-privacy/569988/
     type: article
     provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 24
+      name: Education Dive
+      domain: educationdive.com
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
-        width: 700
-        height: 466
-  - title: "Study finds bias in facial-recognition technology"
-    excerpt: "A recent study by the Commerce Department's National Institute of Safety Standards and Technology (NIST) found that facial-recognition technology is more likely to error on African American, Asian and Native American subjects than it is on Caucasians. The results are likely to boost concerns among privacy advocates about bias in facial ..."
-    publishedDateTime: 2020-01-02T23:50:00Z
-    sourceUrl: https://www.travelweekly.com/Travel-News/Airline-News/Study-finds-bias-in-facial-recognition-technology
+      - url: https://www.educationdive.com/user_media/cache/41/f8/41f8d81f3361ad7b6a6c3c7a98732ef8.jpg
+        width: 770
+        height: 364
+  - title: "Police criticised for plans to use facial recognition cameras at Cardiff v Swansea match"
+    excerpt: "South Wales Police has been criticised for its plans to use live facial recognition surveillance at this Sunday’s Cardiff City v Swansea City football match. Fans, rights campaigners and a Police and Crime Commissioner say the plans are “a step too far”. South Wales Police used the surveillance technology last October at another match ..."
+    publishedDateTime: 2020-01-09T05:00:00Z
+    sourceUrl: https://www.itv.com/news/wales/2020-01-09/police-criticised-for-plans-to-use-facial-recognition-cameras-at-cardiff-v-swansea-match/
     type: article
     provider:
-      name: Travel Weekly
-      domain: travelweekly.com
-    quality: 24
+      name: ITV
+      domain: itv.com
+    quality: 30
     images:
-      - url: https://www.bing.com/th?id=ON.AEF71066705E63B8E854310181D2FC53
+      - url: https://www.bing.com/th?id=ON.6E44457506BC036E850D8E69B4B52210
         width: 700
         height: 393
-  - title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
-    excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions ..."
-    publishedDateTime: 2019-12-30T10:45:00Z
-    sourceUrl: https://www.prnewswire.com/in/news-releases/facial-recognition-market-expected-to-grow-at-a-cagr-of-12-5-exclusive-report-by-mordor-intelligence-864922245.html
+  - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
+    excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
+    publishedDateTime: 2020-01-08T18:31:54Z
+    sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-to-deter-troublemakers-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
+      name: Wales Online on MSN.com
+      domain: msn.com
+    quality: 29
     images:
-      - url: https://www.bing.com/th?id=ON.0A09DE6F4F3BF7B103A0452F38C31A04
-        width: 700
-        height: 366
-  - title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
-    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
-    publishedDateTime: 2020-01-05T23:14:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-image-and-facial-recognition-markets
+      - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
+        width: 600
+        height: 315
+  - title: "New voters’ register: Facial recognition won’t solve verification challenges – IT consultant"
+    excerpt: "Technology consultant, Maximus Ametorgoh is very much convinced that, plans by the Electoral Commission (EC) to compile a new voters’ register with elements of facial recognition is not the panacea to remedying the verification hitches encountered during voting. According to him, the introduction of facial recognition technology poses similar ..."
+    publishedDateTime: 2020-01-11T10:15:00Z
+    sourceUrl: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/New-voters-register-Facial-recognition-won-t-solve-verification-challenges-IT-consultant-834886
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
+      - url: https://www.bing.com/th?id=ON.A55B9F1B01F3FC9CC08A7973F2553A62
+        width: 480
+        height: 332
+  - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
+    excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
+    publishedDateTime: 2020-01-09T13:00:00Z
+    sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.BB05149FC3C39CBF97306B7E6AD2DA1B
         width: 700
-        height: 344
+        height: 394
+  - title: "China Facial-recognition Case Puts Big Brother On Trial"
+    excerpt: "Facial-recognition technology has become embedded in China, from airports to hotels, e-commerce sites and even public toilets, but a law professor had enough when asked to scan his face at a safari park."
+    publishedDateTime: 2020-01-08T04:58:00Z
+    sourceUrl: https://www.ibtimes.com/china-facial-recognition-case-puts-big-brother-trial-2898340
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D173C78D8CB4BDC3E35C42C7BE4007B0
+        width: 700
+        height: 468
   - title: "New York school district now utilizing facial recognition system"
     excerpt: "After months of controversy, phase one of the Aegis Facial Recognition System in the schools is complete. Those in favor of the system say the technology can identify guns and weapons, while the facial recognition portion identifies people not allowed in school buildings."
     publishedDateTime: 2020-01-06T05:13:00Z
@@ -965,19 +682,54 @@ related:
       name: District Administration Magazine
       domain: districtadministration.com
     quality: 19
-  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
-    excerpt: "Biometric facial recognition generated $4.51 billion in 2018, and will grow at a 12.5 percent CAGR to reach a market value of $9.06 billion by 2024, according to a new Mordor Intelligence report, with surveillance and security systems and plans like Biometric Entry/Exit contributing significantly. The report notes that governments, including ..."
-    publishedDateTime: 2020-01-05T23:01:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
+  - title: "Apple advances their Presence Detection Invention to Wake a MacBook from Sleep using Facial Recognition and more"
+    excerpt: "One of the main features is using facial recognition up to 5 feet away. This would require their TrueDepth Camera to be updated. On that specific point, Bloomberg reported a year ago that Apple was working to advance their TrueDepth camera that could work at 15 feet from the device in contrast to their current iPhone camera that works at 25 to ..."
+    publishedDateTime: 2020-01-12T11:10:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-advances-their-presence-detection-invention-to-wake-a-macbook-from-sleep-using-facial-recognition-and-more.html
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 18
     images:
-      - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
-        width: 700
+      - url: https://www.bing.com/th?id=ON.7B90AE09EE8F43C4850EF5A1F1D8A9BF
+        width: 600
         height: 344
+  - title: "Carlo Ratti's Eyes of the City exhibition in Shenzhen tracks visitors with facial-recognition tech"
+    excerpt: "Architect and MIT professor Carlo Ratti stokes the surveillance debate with his biennale exhibition, which is set in a working train station in China and actively uses facial-recognition technology. A part of the the Bi-City Biennale of Urbanism\\Architecture in Shenzhen, The Eyes of the City exhibition is now open at Futian station. Ratti is an ..."
+    publishedDateTime: 2020-01-06T12:30:24Z
+    sourceUrl: https://www.msn.com/en-gb/finance/technology/carlo-rattis-eyes-of-the-city-exhibition-in-shenzhen-tracks-visitors-with-facial-recognition-tech/ar-BBYF9qs
+    type: article
+    provider:
+      name: Dezeen on MSN.com
+      domain: msn.com
+    quality: 10
+    images:
+      - url: https://www.bing.com/th?id=ON.0471FD6FC31D188E8C23D3C00278374E
+        width: 700
+        height: 404
+  - title: "Facial Recognition Market is estimated to witness the highest growth during the forecast period…"
+    excerpt: "The Global Facial Recognition Market research study provides a comprehensive 360° view and insights, outlining the major outcomes of the industry. These essential insights assist the decision-makers in formulating better business plans and make informed ..."
+    publishedDateTime: 2020-01-06T07:54:00Z
+    sourceUrl: https://www.openpr.com/news/1889914/facial-recognition-market-is-estimated-to-witness-the-highest
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
+  - title: "Global Gesture Recognition Solution Market 2019-2023 | Increasing Adoption of ToF Cameras for Gesture Recognition to Boost Growth | Technavio"
+    excerpt: "Gesture Recognition Solution Market: Increasing Adoption of ToF Cameras for Gesture Recognition The need for accurate gesture control and the introduction of facial recognition features in electronic devices have compelled electronic device manufacturers to implement 3D cameras into their products. There are various types of 3D depth-sensing ..."
+    publishedDateTime: 2020-01-11T00:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-gesture-recognition-solution-market-230000908.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 0
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/4zhRI.MFUYOjp_Atp_Tmdw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/f900c6246306143ea9252279bd804846
+        width: 480
+        height: 270
 
 secured: "0P8KzfwgwI2DDnVT4GfqyXDL1VRlOsTfNab3gpI3Mlb5yfrZVJ9oBOJUfzhD0addwOETs0VyRh5RKSmZh7tDZpnb6z4e/an3ykMBZm6ZX9XN87Is9J+zZLrOUlv2CcL1QuQSirP6vaZzH2Uv4mOVAnXT5TvX8s2JShyb30byYIanDT/lNcPV15G4QRLCCB+kxyeMdDpq3DBMA/0ZuglLvsTmghUgSIo7hrkN0wj0jqnrEofzB6lo2S1iaBiozDz6Q6NbZJtnAMP6HyeXs5IaJw==;rOXkZt5s8+DL6n3K4SUldw=="
 ---

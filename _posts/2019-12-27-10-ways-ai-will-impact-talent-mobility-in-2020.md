@@ -25,47 +25,62 @@ images:
     title: "10 Ways AI Will Impact Talent Mobility in 2020"
 
 related:
-  - title: "Predicting How AI Will Improve Talent Management In 2020"
-    excerpt: "47% of U.S.-based enterprises are using AI today for recruitment, leading all countries in the ... [+] survey. U.S.-based enterprises’’ adoption of AI for recruitment soared in the last year, jumping from 22% in 2018 to 47% this year based on last years’ Harris Interactive Talent Intelligence and Management Report 2018. 73% of U.S. CEOs ..."
-    publishedDateTime: 2019-12-24T19:56:00Z
-    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/
-    ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
+  - title: "2020 will hopefully be the year AI kills company dashboards"
+    excerpt: "Today we take these steps in the service of dashboards, but the same effort can move us beyond them. Well-structured and well-defined metrics are the perfect training place for AI to learn what’s important so it can provide smart alerts. It’s the foundation that will make business information “push” instead of “pull.” It’s the ..."
+    publishedDateTime: 2019-12-30T16:07:00Z
+    sourceUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/
+    ampUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
+    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.0C4D17432DE326C675D06CCFEA474473
-        width: 600
-        height: 315
-  - title: "VC Investments In Enterprise Tech And AI"
-    excerpt: "I’m going to take a look at some of the top tier venture capitalists and their investments in the field of enterprise tech and AI. Companies with a focus on AI have collected over 9.3 billion dollars in the US during 2018. The number of venture capital investments keeps growing on a global scale, opening up new opportunities for startups and ..."
-    publishedDateTime: 2019-12-25T06:46:00Z
-    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/
-    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
+      - url: https://www.bing.com/th?id=ON.2E54E0A11AB61EEFEE89C1D3A040D2FC
+        width: 700
+        height: 350
+  - title: "2020 will be the year AI kills company dashboards"
+    excerpt: "Today we take these steps in the service of dashboards, but the same effort can move us beyond them. Well-structured and well-defined metrics are the perfect training place for AI to learn what’s important so it can provide smart alerts. It’s the foundation that will make business information “push” instead of “pull.” It’s the ..."
+    publishedDateTime: 2019-12-31T10:52:00Z
+    sourceUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/
+    ampUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
+    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.A4BDBBED907CBE5AEBD4624537C01239
-        width: 600
-        height: 315
-  - title: "From ethics to apprenticeships: How AI will evolve in 2020"
-    excerpt: "Many academics are both surprised and impressed that, although AI ethics has been a topic of study for years, it has become so prominent in discussions about the technology today. While regulators seem to be forever playing catch-up with technology companies, the ‘wild west’ era of AI legislation will start coming to an end in 2020."
-    publishedDateTime: 2019-12-26T09:00:00Z
-    sourceUrl: https://www.itproportal.com/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
-    ampUrl: https://www.itproportal.com/amp/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/from-ethics-to-apprenticeships-how-ai-will-evolve-in-2020/
+      - url: https://www.bing.com/th?id=ON.2E54E0A11AB61EEFEE89C1D3A040D2FC
+        width: 700
+        height: 350
+  - title: "Security will pull AI laggards off the fence"
+    excerpt: "I believe that one of the most significant technology trends that will impact the financial services industry in 2020 will be the growing adoption of artificial intelligence (AI). However, even as financial institutions, issuers and payment companies increasingly embrace AI, I anticipate they will need help learning how to use it to its full ..."
+    publishedDateTime: 2019-12-30T05:08:00Z
+    sourceUrl: https://www.paymentssource.com/opinion/security-will-pull-ai-laggards-off-the-fence
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 54
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.06A9F5182330DBBE5A86E7EDCF4E32DA
+        width: 700
+        height: 367
+  - title: "2019: The Year of the Face"
+    excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
+    publishedDateTime: 2019-12-28T16:45:00Z
+    sourceUrl: https://petapixel.com/2019/12/28/2019-the-year-of-the-face/
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D50DAB5DDDD81506800830AA34C46262
+        width: 700
+        height: 367
 
 secured: "BuiTX98JHqNwZ55tDn14GDtcIwBA7QknTLyFXGM/AIPUbwxLCW4PUnftQ6QVPVGXrwiOVNrIfsvMSF+5quSQnZ3hwTJnQYIW995/kuGZ/BJBIAyHa2IH6PS6Zu/97EQxyfH9OyplqIvkMRhnlh/dpZsF1HuzSbhN6Bjrjm/SuSm9bTmESDmEcDdBC/WIcHsESvAzC7gqcmYtrpVn8cC7/TAKgjNTLFfiwMX9hc483y1vH4iH8MZc4M9PYxZU5unASj10uOOu6uTotmDbfxuqbw==;J0c/RsYON5YfQYLmVIQ/yw=="
 ---

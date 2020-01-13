@@ -1,11 +1,11 @@
 ---
 category: news
 title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
-excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
+excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
 publishedDateTime: 2020-01-06T06:37:00Z
-sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
+sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/?_hsenc=p2ANqtz-_ucienVNAlV7PYrc8Pz1SdpbQZM1e6fOgT2csx5o75U-OoWGIFoIWftsKvfLkMBOeR_vMULzw5v9Q-IemMihui_cvgvQ&_hsmi=81510974&rf=1
 type: article
-quality: 51
+quality: 66
 heat: -1
 published: false
 
@@ -15,7 +15,7 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.A8E762E20898E18F39F4A26FE2C580E9
@@ -84,21 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9DB70C2A99CC3E587B64BC82F6111671
         width: 700
         height: 472
-  - title: "Ten defining health care achievements of the 2010s, from artificial intelligence to immunotherapy"
-    excerpt: "After all, a lot has happened in the last 10 years – and advancements in health care are no exception. In looking back at the health achievements ... I don't know. That's been a major trend.\" Artificial intelligence made big strides throughout the decade, though its potential benefits remain vast. AI systems allowed health organizations ..."
-    publishedDateTime: 2019-12-24T19:24:00Z
-    sourceUrl: https://www.phillyvoice.com/decade-health-story/
-    ampUrl: https://www.phillyvoice.com/decade-health-story/amp/
-    cdnAmpUrl: https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/decade-health-story/amp/
-    type: article
-    provider:
-      name: PhillyVoice
-      domain: phillyvoice.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
-        width: 700
-        height: 463
   - title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
     excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford's Center for Biomedical Ethics. \"It's only a matter of time before something like this leads to a serious health problem,\" said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 billion ..."
     publishedDateTime: 2019-12-31T17:13:00Z
@@ -148,6 +133,6 @@ related:
       domain: heraldscotland.com
     quality: 34
 
-secured: "vEcza1m2UTlmilCPLeSCPZahHy+kaNPHPyWdhwt1FqfmpSXsLXvjbRmOjmhvVph4Zf6BYisT+eQEPcgGfVKovO6loHPIWCmplrvyF56YjK75zdE2GbZJSIG14XXneB5mjXniQvatWKRAZeOiqYuL7TyDSteBey3HQRsTkRrPkoQgfDl/oOt4VhVHsE3IPVJH6cydEtd+XkqzKJoJxE2v2ap73YhHiupFh474LF0LhWTUSVNr798yQMx+rqrNc+BogJvD+7pDkZfPFOtyf0j4Mw==;ubDQjWqCx4XmFOI1vCtWHQ=="
+secured: "qRPCA2ZVc2BM6hPWVZQiE8v4m4VnYQfwPo2nkhDKUmJ7raMDmMxY2NC3/N2dv4Gc8L5kZp5VDvLgxm1jGpiLRnNuDFCyK70jgLJvdEstoquxOw0CzkdUHkAwAZ2rKrR1pRYPBAVx77yqdaQfF8iYhllZRnRU5gAm4GeFvCFrLXGkdzezV+u9/G61YiW7IGnWz5XPSgjwqW3Mw5FyOM4tlXRyta1EjD6NBF1Wns09+RESEXaq9d/AJ1h9Y4J6lKe6NQwKBkDXZ93bbs7oQc/iZw==;b3YMgC9kcEjV87VPQA+A0Q=="
 ---
 

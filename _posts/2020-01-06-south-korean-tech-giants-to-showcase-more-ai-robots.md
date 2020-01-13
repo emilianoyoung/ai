@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T09:30:00Z
 sourceUrl: https://www.thestar.com.my/news/regional/2020/01/06/south-korean-tech-giants-to-showcase-more-ai-robots
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,49 +22,6 @@ images:
     width: 700
     height: 519
     title: "South Korean tech giants to showcase more AI robots"
-
-related:
-  - title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
-    excerpt: "In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
-    publishedDateTime: 2020-01-13T00:45:00Z
-    sourceUrl: https://www.reuters.com/article/us-southkorea-artificial-intelligence-jo-idUSKBN1ZC022
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZC022
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZC022
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: https://www.bing.com/th?id=ON.22C0E6F3657CFDEED89A2F539A5022BD
-        width: 700
-        height: 466
-  - title: "How AI is vetting jobseekers in South Korea"
-    excerpt: "AI is already widely used by many companies' human resources departments to help in selecting candidates, ranging from spotting plagiarism in resumes to checking how candidates react in certain situations."
-    publishedDateTime: 2020-01-13T15:05:00Z
-    sourceUrl: https://www.reuters.com/video/watch/idOVBW0IU7B
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.23F1889CACE1F9B9CA23A0D01BB5FC0C
-        width: 700
-        height: 393
-  - title: "South Koreans learn to beat the AI hiring bots"
-    excerpt: "In a tight job market, South Korea's top firms are rolling out artificial intelligence in hiring. That's got jobseekers turning to cram schools to learn how to beat the bots."
-    publishedDateTime: 2020-01-13T09:47:00Z
-    sourceUrl: https://www.reuters.com/video/watch/idPdNN?now=true
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.5B5603986854F8B787B443270BBEC2A0
-        width: 700
-        height: 393
 
 secured: "JvdqIkmlXuiTT/IfyWW5pvlDfnBtf2HZlKoQBhLI3MqDtTqKbB5P2sPWH6RT4QwI+JMGKVA+QjrQTa2fymDtdT0USIeif22TGzx+MXV5NhjuAW3i0Lc1ZY/0ftpZ3JeQXjJPzdXcwCPAxWVB7lQU6ZA/tjtTTDdDejn1eMwVKIqA1i2/htW9LkGWcZWPbHO5kL6k7ZyFOtGFcDPchNKAVc7YdG7I7Rbe1BED8fe9gi5fxH//97re2T4hivqC8D2WqjGENev4RKlCO+jgzlxi2g==;fynwsVzm++aL7d37WkNYyg=="
 ---

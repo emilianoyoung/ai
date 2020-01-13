@@ -189,21 +189,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F34A641AF19471140AB2B1D0AC66E928
         width: 700
         height: 466
-  - title: "Are robots really the answer to Britain’s care crisis? Meet the spookily lifelike new generation of artificial humans"
-    excerpt: "Samsung’s artificial intelligence (AI) development arm, Star Labs ... With this unveiling, Samsung has made clear their intention – to create robots that will become part of our everyday lives. At the world’s biggest gadget show, called CES and held in Las Vegas last week, they launched Ballie: a yellow, spherical robot the size of ..."
-    publishedDateTime: 2020-01-11T22:08:00Z
-    sourceUrl: https://www.dailymail.co.uk/health/article-7876607/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
-    ampUrl: https://www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-7876607/amp/Are-robots-really-answer-Britains-care-crisis-Meet-new-generation-artificial-humans.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.B947BDAC7D23E3976DBF815BD7B51CA2
-        width: 636
-        height: 382
   - title: "Breaking down Neon: the ‘Artificial Human’ that wants to be your friend"
     excerpt: "Artificial Intelligence has captured our imaginations for decades ... Contrary to the branding, Neon isn’t a Sophia-like quirky robot or a face-less Siri-like digital assistant. Instead, it’s a digital avatar of an AI that can converse and sympathise like real human beings. According to Mistry, Neons are meant to be users’ personal ..."
     publishedDateTime: 2020-01-11T08:42:00Z

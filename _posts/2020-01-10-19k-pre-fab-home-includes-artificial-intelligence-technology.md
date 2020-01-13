@@ -7,9 +7,9 @@ sourceUrl: https://www.inman.com/2020/01/10/19k-pre-fab-home-includes-artificial
 ampUrl: https://www.inman.com/2020/01/10/19k-pre-fab-home-includes-artificial-intelligence-technology/amp/
 cdnAmpUrl: https://www-inman-com.cdn.ampproject.org/c/s/www.inman.com/2020/01/10/19k-pre-fab-home-includes-artificial-intelligence-technology/amp/
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 157
+published: true
 
 provider:
   name: Inman
@@ -24,6 +24,6 @@ images:
     height: 466
     title: "$19K pre-fab home includes artificial intelligence technology"
 
-secured: "0xQqMCO7wBYYI9b/Iz3d0D3iGLEaxDLqJa+UbvBRTjAyNnb6b8NZczK5ClBb8JNFfcpOqisJ5gshl5HLJHuKsdmNj8X8D54T06vFApcVtzK7eyfoPzgk4AkRgna+/P6BH8Av7RfreCHgqzpHX916Hr7YF6AcVoJyBdhXraUk2ji1jXYmlMT4DmhRQ+J8W6LD2azOQozdgpJqLIqhfXMV5w2bY3Pte+bdVfnuxCkEqs9Mp4z2OSLlsn0BZ05hU9vb/+CSxn/JdzhHEn1glg0STg==;CSh9szZxdMFFOUC76P62ag=="
+secured: "2YZzlnMeVRXcVv5vkSe4SNR6xQ2dQPM1adyXNWhYhbDjqzpHxbTErMSyAoKHYwaok1riymKYhTGgy1RJXW1iQZ3/4XWSxCNMFMazShKOVLdeemQAVIUVD+mIl48x9XAbsK7rwG9oodN2JyQAnBz6v0Uc2ZkPrWFA0E2k/4XEvrU0qw1wW429TxjJyBESOuVF+/Kg4koKlTHV5qSN6SJ80OeomfCyWCod//bYhMaLMX6v8EaXJItQZCTybc9pYyfEXX5uqqBdHiXR9C3eEmKJKi3y1NNR7HOR6f2xmfP9yFs=;hjUVGF2xiXKpLLkqRzEK8w=="
 ---
 

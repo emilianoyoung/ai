@@ -25,6 +25,6 @@ images:
     height: 480
     title: "Artificial intelligence can detect AML with high reliability"
 
-secured: "c1KeO27GYTyF+LWP4/tMpsWG7srq4CFIo0NetVs/PTHenv2b45ZAxkh3oy55oAUT2bkjep6iDPIjEXvd6jvX8XWRdMhezexdv+JBe4la2fL7kiZqDJVyBYUvmEa/pjHSMRRxLYX8KvFU82F6Mw8UC/YfUg/KgzifcOxVDL6WnPPF6JcEZeyK+h8GPr+xxDnkLMQm0Va2/uHoETeyFsx+pAm5Bwo2cByv0PRdMXuyTkGVa2VAfzMARsCpupVHYlQ3rpQA65U14D5cLMp5k2p/bw==;e2wz3mDajV+QftivL9e+7Q=="
+secured: "fDsXQ0c2wZJqzbUJCxn6bAEd8WhFrjO8eEa98SJgwY+tNqtYdrqVeXzFylK5Ge/aEvU5cbnfxFagd0/fP1n9V3ZIvPf2x6F7qibJW3z6sbShHU3CQITIlcV+cTeChGV7aGK6U1KU/o34FfgdSpOkZHz5VUWZp/ylsQBML+Ku/Rh4UqhX2tnr/CA6kcTsZY0vaWVzysxTANvOEzLcRfT5TAi10fwCIyTCZvCdej6cf4K56wO7GvJ0VTgbEGPziemoI0a09GdXOvfrl5+wpMtyyQ==;D7/foCmmgtVwj8PRg7mxHQ=="
 ---
 

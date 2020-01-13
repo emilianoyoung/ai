@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
         width: 700
         height: 393
-  - title: "Teachers, the Robots Are Coming. But That's Not a Bad Thing"
-    excerpt: "I don’t think artificial intelligence is there yet.” But researchers are trying to get there. Consider the work of Cynthia Breazeal, an associate professor of Media Arts and Sciences at the MIT Media Lab, who leads the Personal Robots group. The group is conducting randomized control trials of the use of an AI-powered, teddy bear-sized and ..."
-    publishedDateTime: 2020-01-07T22:33:00Z
-    sourceUrl: https://www.edweek.org/ew/articles/2020/01/08/teachers-the-robots-are-coming-but-thats.html
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A112C5E86273E0A498433C651D2AF5BA
-        width: 700
-        height: 365
 
 secured: "wNou/LVYLcow9q10AOGnzf/pD2DSllUzEtv0ZTF0j+AAIH70sQeVbffxUZjoy92212xUklNfkvTY4zOaXVsveVteQ+sfPnKcLfJAx3b4Jt4OhnNJrAbMfJXlI0EZSGZ9NMCgZAAw8Xmrqqox8/gMXXC86+NZL5Az/jkqkwEr6FiOmix/c3lqOomUDzx18Z0XMa7muaxll7qlYv8qYrvlV+ACr4FOzDCdQzrcgy53aNADAEC3RmYY9ms3VXBCCnqUeXEkLkfm4zPPa2zt8y4d/A==;Scd9RP/L0s/wber+CoJXAA=="
 ---

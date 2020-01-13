@@ -24,47 +24,36 @@ images:
     title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
 
 related:
-  - title: "AI in 2020: From Experimentation to Adoption"
-    excerpt: "and 40% are using pre-built AI applications, such as chatbots and virtual agents. I see the excitement building with clients every day. Consider just a couple of recent examples. Legal software developer LegalMation has leveraged IBM Watson and our natural language processing technology to help attorneys automate some of the most mundane ..."
-    publishedDateTime: 2020-01-07T19:15:00Z
-    sourceUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/
-    ampUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
+  - title: "Brazil is emerging as a world-class AI innovation hub"
+    excerpt: "Brazil’s government has big plans for AI, despite having come late to the party. In Oxford Insights’ AI Readiness Index 2019, Brazil was ranked 40 out of 192 countries, a sign that the South American powerhouse is moving up in the AI world. The report looks at how ready countries are to take advantage of the AI technologies PwC forecasts ..."
+    publishedDateTime: 2020-01-12T22:22:00Z
+    sourceUrl: https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/
+    ampUrl: https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 189
     images:
-      - url: https://www.bing.com/th?id=ON.E07A4A74594198B8CF670901A25E9747
-        width: 600
-        height: 315
-  - title: "Europe's colocation boom set to continue in 2020"
-    excerpt: "With the rising popularity of e-sports platforms such as Twitch; AI-enabled technology like facial recognition; and infrastructure for driverless vehicles ... enough to pivot to respond to customer demands and changing needs as necessary. From artificial intelligence and human augmentation technology to cryptocurrency and e-commerce, the ..."
-    publishedDateTime: 2020-01-06T09:50:00Z
-    sourceUrl: https://www.datacenterdynamics.com/opinions/europes-colocation-boom-set-continue-2020/
+      - url: https://www.bing.com/th?id=ON.73B6489B355414B388417DFC2084C8A6
+        width: 700
+        height: 495
+  - title: "Healthcare: How innovation is moving the focus away from sickcare and bringing it back into the home"
+    excerpt: "In the latest episode of the Arabian Business Enterprise Innovators Series, in association with UPS, we look at how technological advances are revolutionising and disrupting the $80 billion healthcare sector in the GCC ... leverage the advances in digital health research, such as artificial intelligence, cognitive psychology, blockchain ..."
+    publishedDateTime: 2020-01-12T14:53:00Z
+    sourceUrl: https://www.arabianbusiness.com/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/enterprise-innovators/437383-healthcare-how-innovation-is-moving-the-focus-away-from-sickcare-bringing-it-back-into-the-home
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 24
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.105AC44E922A2139AE27D81692A49436
-        width: 580
-        height: 305
-  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
-    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
-    publishedDateTime: 2020-01-03T14:44:00Z
-    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 9
-    images:
-      - url: https://www.bing.com/th?id=ON.4C33366C80293E97B4C37F3186E9A535
-        width: 512
-        height: 512
+      - url: https://www.bing.com/th?id=ON.F5E9BE663C9E82188B0EE3CD49039D58
+        width: 700
+        height: 367
 
 secured: "4WfUHbLXohQS2h9L7DELrwgpzEsYjAWz7iejgk9Mo30L/5hwyv2lOOjYdwcAWUixIVZN63h7QJfqeLUkV9svCygHXsFUF/BpolNahNwUIwimzgh/JHr81UG1jAKpnTnZ2szDl5tESG/UNEaV1JWw7nWUW7IJGgxIkcnJXsRIjQwD9au2K/SNf1DosGJEfv5eZefT0zlxTHDbNkiXwFbhaJkq/C7rQqUgv4LrZoMbidKfAGMoUdjSY9naHCmp70NyM17Ao8aWiEDdRdZs4+uGjA==;UFMbI2mo7kC97ksed5IYag=="
 ---

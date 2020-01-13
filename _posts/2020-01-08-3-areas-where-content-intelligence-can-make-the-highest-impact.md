@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AFA4AC9B84180F1E95E69BB7CB36C7D6
         width: 600
         height: 315
+  - title: "New Deltek Reports Forecast IT Investments to Reach $56 Billion for the Department of Defense and $11 Billion for the Intelligence Community By 2024"
+    excerpt: "HERNDON, Va., Jan. 13, 2020 /PRNewswire/ -- According to two new reports from Deltek, Information Technology spending by Department of Defense (DOD) and Intelligence Community (IC) agencies will continue to grow as they work to keep pace with the evolution of both the threat landscape and technology development."
+    publishedDateTime: 2020-01-13T19:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/new-deltek-reports-forecast-it-investments-to-reach-56-billion-for-the-department-of-defense-and-11-billion-for-the-intelligence-community-by-2024-300981769.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.C0A32F47A7CEFAF315C4A081D8866C27
+        width: 700
+        height: 366
 
 secured: "D6Bv6p147wNWUzkL3+JMWy5pz+RQ+tC4kkRisRK1uL0BTtG0eut8z/XvZNhXGe1VdRdxDR6UKpwHTib7UHqPT1ezKG5KM7I9gqQzRD21gcJToGSVsTG/LPJ8KrlDIxsGMYPlkLnvAL3L3HBoR2yy2R7/AeCoxa+NEjLg2UcPYJERp5mJMhEf13hxz98a5u44XTLSl7DStHqeiZDu+/mSxZ92c69WRWyDE8qdCEE4ww3v6AOxyc8s/XhESxstt8FswdkUBRs3812rVR3fCTYuwQ==;yLvkWzwQ//SMVwY7wDzQBQ=="
 ---

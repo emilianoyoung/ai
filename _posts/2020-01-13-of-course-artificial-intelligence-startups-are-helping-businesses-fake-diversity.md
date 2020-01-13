@@ -23,36 +23,21 @@ images:
     title: "Of Course Artificial-Intelligence Startups Are Helping Businesses Fake Diversity"
 
 related:
-  - title: "Five Ways Artificial Intelligence And Machine Learning Can Benefit Digital Marketers"
-    excerpt: "Understanding how artificial intelligence and automation can help propel your business is paramount to staying ahead of the curve as a business leader in today’s society."
-    publishedDateTime: 2020-01-08T12:05:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/08/five-ways-artificial-intelligence-and-machine-learning-can-benefit-digital-marketers/
-    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/08/five-ways-artificial-intelligence-and-machine-learning-can-benefit-digital-marketers/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/08/five-ways-artificial-intelligence-and-machine-learning-can-benefit-digital-marketers/amp/
+  - title: "Artificial Intelligence Examines Over 200,000 Galaxies to Confirm Galaxy Mergers Ignite Starbursts"
+    excerpt: "A group of astronomers led by Lingyu Wang from SRON have now used a sample of over 200,000 galaxies to confirm that galaxy mergers are the driving force behind star bursts. It is the first time that scientists use artificial intelligence in a galaxy merger study. One of the most pressing questions in astronomy is how and when stars formed in ..."
+    publishedDateTime: 2020-01-13T13:23:00Z
+    sourceUrl: https://scitechdaily.com/artificial-intelligence-examines-over-200000-galaxies-to-confirm-galaxy-mergers-ignite-starbursts/
+    ampUrl: https://scitechdaily.com/artificial-intelligence-examines-over-200000-galaxies-to-confirm-galaxy-mergers-ignite-starbursts/amp/
+    cdnAmpUrl: https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-examines-over-200000-galaxies-to-confirm-galaxy-mergers-ignite-starbursts/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 143
     images:
-      - url: https://www.bing.com/th?id=ON.D80BC925CE3E41494D496B8A72288263
-        width: 600
-        height: 315
-  - title: "Here's why digital marketing is as lucrative a career as data science and machine learning"
-    excerpt: "According to Kumar, data science, blockchain, full stack development, digital marketing and machine learning are the most sought after courses among professionals. And the completion rate for such courses is as high as 85%. As per LinkedIn, digital marketing specialist is one of the top 15 emerging job roles in India — with Mumbai ..."
-    publishedDateTime: 2020-01-13T03:27:00Z
-    sourceUrl: https://www.businessinsider.in/careers/news/heres-why-digital-marketing-is-as-lucrative-a-career-as-data-science-and-machine-learning/articleshow/73218353.cms
-    ampUrl: https://www.businessinsider.in/careers/news/heres-why-digital-marketing-is-as-lucrative-a-career-as-data-science-and-machine-learning/amp_articleshow/73218353.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/careers/news/heres-why-digital-marketing-is-as-lucrative-a-career-as-data-science-and-machine-learning/amp_articleshow/73218353.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.8C80317A24D012A672722CB5815AC5B5
-        width: 500
-        height: 273
+      - url: https://www.bing.com/th?id=ON.13D79BC45061D5C7F333F93987C64666
+        width: 700
+        height: 639
 
 secured: "jjBl5+9NGtnoQZUxGG/AL+SZiOIyamrGwnoNlMWbJRdLcRK6b3WaXihluosXXVa6myuP3s+8RszJ0qoNe5532VeKhgG9aF9FjHFYOaRm9ytKuvDfhBN75atgXUtQ3TrWF+up57+9wQ51K8QhXu96czE7IkjhXPk4n31vGaPhJlna0S9zRCIZ+zA9xVkBKVcm/aiptcYYuijuf6Wrfp2xakajjWpZAElZ5B4p+lYw0NNScV4YUUB3sItRbTjG7f1KaMBfq/P0LIdp7J1opUfmHw==;oDgO2yu2UHZYXSplN/Igog=="
 ---

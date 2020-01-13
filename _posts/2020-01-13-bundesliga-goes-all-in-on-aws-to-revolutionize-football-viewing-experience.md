@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts. Using AWS technology, Germany’s premier ..."
-publishedDateTime: 2020-01-13T12:24:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200113005382/en/Bundesliga-All-In-AWS-Revolutionize-Football-Viewing-Experience
+excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
+publishedDateTime: 2020-01-13T11:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://mms.businesswire.com/media/20200113005382/en/766965/23/AWS_logo_RGB.jpg
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
-    height: 627
+    height: 630
     title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
 
 related:
@@ -37,7 +41,20 @@ related:
       - url: https://www.bing.com/th?id=ON.18333DF6C5161292CD58FC1C25B128F4
         width: 700
         height: 441
+  - title: "German Bundesliga selects AWS for personalised coverage"
+    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile, online, streaming, and television broadcasts. Using other AWS ML services, Bundesliga ..."
+    publishedDateTime: 2020-01-13T11:20:00Z
+    sourceUrl: https://www.broadbandtvnews.com/2020/01/13/german-bundesliga-selects-aws-for-personalised-coverage/
+    type: article
+    provider:
+      name: Broadband TV News
+      domain: broadbandtvnews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7625B75520DAA70A3E6BD8CA8F9FCDCF
+        width: 700
+        height: 392
 
-secured: "oJL0Dfo14igMdyz+SmrgrAVOXE2zcnSlj1iXAChFeOTU/pQ3lZ93ukd0kuYugifpm9sDfTgdQooP8du0lxEmPSR1bhjYvlZ7kHO2702UNDq5sIpVPoi9exE5GaxSt4/nZqU7XBPjS1H8yzcVLV6wnHIDtwBUTjUuvMLexmyeYbfmb5v82nRRL/WeAS2jPyUTAm2g3L6r3OpXiHggwThmxzbfUFdcS5UxuQm3rfW5O//fTK7V7XIULzqLlcNvRqMoBGB0+Bk+fsUZUU1EQURRZQ==;8SjSnYkhl2sF18LIgfHoiw=="
+secured: "hx0j8vOy6peBDYQMdgI+Xt0i12K+OgpekVfYiIMcR7q0045L7NpaSxZxzYzC6rGRMyiDG4xf9ACKCXZmfPnZZ6NnzzT65wD0YzSMXSmMJ+Ay+O1wfDAZ4ba/iy2DbjKWKCg8luIE9HNk2zKKKML6ETxH9hlrZp6Na7eeSPbUBjakiPmtMWpTYsCI7cVj6rhF9aZxeIU7kCOsB7qXCCg1RocyXvDfKnuSXJI4prMx2FNJKaHCr8qLW5QeHtDZp1NDgmPjK58mBbuIwmUh+yTQOg==;s+6LRPFzbtwgjUH7rWXcng=="
 ---
 

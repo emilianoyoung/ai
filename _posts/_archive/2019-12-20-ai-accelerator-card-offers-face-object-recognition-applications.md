@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T23:50:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,7 +50,18 @@ related:
       - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
         width: 700
         height: 495
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
 
-secured: "g/ojh4coj1QVT16bDsp0Z2psRgF2hW4kjdYsbK3p/2wLMX4EG+Q8cCV2ZK6EBoqomyUqovIGF1CgilMg6hsRe1XoTmag4S5CMeGZ3Hxqrc6qhGmp4/OOTRF06FBjAYaWvU485S5i05CR1t6gXTH3cMeiP2eziT64h2FfeCvUN/tkzrPpOHSxTm26xH1loafW7OOQjWMpvgdvRvSlTNV5KMYPluFGwV1VtKFzaLq6PpWH09vteenq6nmpRMpxdbMbIl0UHIhb+k//ScWGR3SVVw==;uSYC3g5Jun+sSAajByJjyw=="
+secured: "9fdRMhAcPopQo9J9L563eYtuG4U2kJvYVhds9QMv4g1XQIUuE9DiILyyGuegUfOeYMQebtlIbhUr7j04llfWIKZPCiBJUYOfbBf3bkUi/Pls4GNfcAQAJfs5F1N97m45EyyQuctn421tMMiDNDkWFsSl3BTuEnEc3iagrWEDtBS2LVjKpFo3XgkSfT2FVIOUskJVWcuNvMMDkXCxZ2TAJ5IevkihJk5Kc5kFmX3PlsD319HCJlOJ3VLX/QWEu0WJpLIeQ3XYsADD3uj8goyIzw==;ZlPWmi2rH5rT9f6925ppdQ=="
 ---
 

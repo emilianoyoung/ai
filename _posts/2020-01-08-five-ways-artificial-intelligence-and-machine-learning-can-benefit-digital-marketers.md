@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/08/five-ways-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/08/five-ways-artificial-intelligence-and-machine-learning-can-benefit-digital-marketers/amp/
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8C80317A24D012A672722CB5815AC5B5
         width: 500
         height: 273
-  - title: "Of Course Artificial-Intelligence Startups Are Helping Businesses Fake Diversity"
-    excerpt: "Pity the man who hates markets. Attempt to do away with them, a la Stalin in the ’30s or Mao in the ’50s, and the rabble will begin to trade illegally. Maintain a command economy long enough, and reformers will arise to push the pendulum in the other direction."
-    publishedDateTime: 2020-01-13T11:30:00Z
-    sourceUrl: https://news.yahoo.com/course-artificial-intelligence-startups-helping-113035205.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.37E52D362820C5CB0864BE6B38F991DA
-        width: 700
-        height: 408
 
 secured: "z4qpR38nttIZLuYsYjCfFQgMZUgQD0Ms5LvjZAnKMSrVSIZxSIGQ+IF0E+lJmJemt9kNYfwTuzQ4aaZw/Ndxc0cJ/sW1Hxpw4ZLYMqCn6BitPHyylCzvjq2ywIGMgM1HLVwu84Dx+DVAr2G8EMphMXVJtDKOE09251Qjb+yKYy73SkhCgmJu2ZmjolsecrVGpxTzvVNUWT+51IAr5A6J5K8PfcSF+WWudjeTaVGLhlilmU99sK1OeZ7aAOtEn5QwgBF5XXoh597ooQF4T5yB+A==;Hv3aVFgk5NIn2gfb9vjuag=="
 ---

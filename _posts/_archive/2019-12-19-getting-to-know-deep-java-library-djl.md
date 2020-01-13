@@ -23,6 +23,6 @@ images:
     height: 1414
     title: "Getting to Know Deep Java Library (DJL)"
 
-secured: "RENCqP8tasDbrSvq+OdechBxW3DmWPG8fQkUosedqBo9cd/p29ropzQKvDZrsKwaqlRBrToj+DWuQAJetuFa2R03nO2odfZefOOHTdF7gIuBr+BAqN1M3FluhUpul4le+oaLKP3GNislAEbPvgmTtRDF5nB/khE9wMSWjJljySde3jaMKy37HA+9dxK2lpPCqx7Z2aeaYlncmes/qWLulUepO5i5JRn1Ik9eQxVGYzht88xPMZlLTYHg5N9vR6kBx5mxOWKeFSHVdM5rUrembA==;qsxRoU/4shd+Z6oc1BeXOw=="
+secured: "5gJEqKQKeDtItHmkET2YUXSWId2JiGcfpOy/tVMdNMeVy1gE0MOPxKBG9yYOlH/bo4sPQvx3Ak6txHYlNd11Fyl2dRz3PurCIhMrEGHtqyaL695+alJD+6vzonk5RpN6YlK+q8cG30pfW2zNvDpQjMqGnokNJaTvVWCtl7iDk8jRzwSuri/41BVbpdwDISfsRgkz2eBxe5tlS2NStdXCVk8AySVE/PoEnzIP1I3TlxHVAllLHzHeniPBKXyN0vgvYjKSWB7ZA4xdcxmjg223PQ==;zg3J5bVqj3We8dg8JAZfrQ=="
 ---
 

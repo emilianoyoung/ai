@@ -220,19 +220,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D13D048737B9ABE88723849D2A5A1D89
         width: 620
         height: 386
-  - title: "Apple advances their Presence Detection Invention to Wake a MacBook from Sleep using Facial Recognition and more"
-    excerpt: "One of the main features is using facial recognition up to 5 feet away. This would require their TrueDepth Camera to be updated. On that specific point, Bloomberg reported a year ago that Apple was working to advance their TrueDepth camera that could work at 15 feet from the device in contrast to their current iPhone camera that works at 25 to ..."
-    publishedDateTime: 2020-01-12T11:10:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-advances-their-presence-detection-invention-to-wake-a-macbook-from-sleep-using-facial-recognition-and-more.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.7B90AE09EE8F43C4850EF5A1F1D8A9BF
-        width: 600
-        height: 344
   - title: "Facebook bans deepface ahead of US presidential election"
     excerpt: "No news or research item is a personal recommendation to deal. Hargreaves Lansdown may not share ShareCast's (powered by Digital Look) views. (Sharecast News) - Facebook announced a new policy that bans AI-manipulated videos known as 'deepfakes' that could ..."
     publishedDateTime: 2020-01-07T15:16:00Z

@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K"
-excerpt: "Skyqraft, a Swedish startup using AI and drones for electricity power-line inspection, has picked up $505,000 in early backing. Leading the round is “startup generator” and investor Antler, with participation from a number of angels including Claes Ekström and Tomas Kåberger. Founded in March 2019 and launched that September, Skyqraft ..."
-publishedDateTime: 2020-01-13T10:17:00Z
-sourceUrl: https://techcrunch.com/2020/01/13/skyqraft/
-ampUrl: https://techcrunch.com/2020/01/13/skyqraft/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/13/skyqraft/amp/
+excerpt: "Skyqraft, a Swedish startup using AI and drones for electricity power-line inspection, has picked up $505,000 in early backing. Leading the round is \"startup generator\" and investor Antler, with participation from a number of angels,"
+publishedDateTime: 2020-01-13T17:51:00Z
+sourceUrl: https://finance.yahoo.com/news/skyqraft-startup-using-ai-drones-101508536.html
 type: article
-quality: 77
-heat: 77
+quality: 127
+heat: 127
 published: true
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.3C4259D95F068381715D1CAC79E78C49
-    width: 512
-    height: 399
+  - url: https://www.bing.com/th?id=ON.C0AC2BF9EBAD2FA9AC2C6C61DD0FCA9F
+    width: 700
+    height: 546
     title: "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K"
 
-secured: "/lCdKulinBS5nEH3PyfsM40a7Esuf7CeLik8HqI2bmSEUEIHQ0KE+/MbtMrJBIH+vXoV7fDchBkzo0rDm3vhRT5JJpPynWOj+6Ho8KRH+JHGmIzjo9rVnhNjXL8iiyo2Ey5FMrOBFjvmB0Ai6NqEo0SjUiTFdXIE5cP11DgmRXc1EhZQlVq02CXfvjvFnxpWfWD9McZu/QpIvctAJocjG3EStBZ2Q+f0RuICHyGORQg231luPTm1XAGHd2ZHVX5yfy3wqthZaQFfsZASM8oZVQ==;lNCvd72YPmmo1TCcAC04Qw=="
+secured: "PXjO80YxdL1erbaHTxrJg8Axp9bZ6uO6yoOmI7h9xVJm2ZJnMWBW+1B/KHLyvxoEOujppx/XbtMyMqq9nt9fMP/3J1NPHLzXIeFH+suANn0D3U0gr0eu6BeydkgZn/E60WpcX4X2D9Ztuk9WDmsiWOHPsp3e3XK12kkh9C2Vkt7eOiBujprF9ORBiDsiWdLcL+I/F+qV9eK18S6yKEeKlnUpkB215GrheZbkHDbhmSfH72T8ir9lvB2hy2NeUaTf5cS1AW0CUrCyuhuIc/3wPw==;r7Wjlgz7qkuAkanTnfN9qQ=="
 ---
 

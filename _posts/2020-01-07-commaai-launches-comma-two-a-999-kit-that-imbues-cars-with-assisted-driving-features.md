@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/amp/
 type: article
 quality: 81
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,23 @@ images:
     width: 700
     height: 387
     title: "Comma.ai launches Comma Two, a $999 kit that imbues cars with assisted driving features"
+
+related:
+  - title: "Comma Ai continues to impress with its aftermarket driver assistance tech"
+    excerpt: "Now with more driver monitoring. Way back in 2016 I flew out to Las Vegas to check out Comma Ai's driver's assistance system crammed into an Acura. At the time, it was being developed as a self-driving add-on for vehicles. But times have changed and nearly every automaker and startup has since dialed down their autonomous expectations."
+    publishedDateTime: 2020-01-13T19:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/13/comma-two-openpilot-hands-on/
+    ampUrl: https://www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.017683CE8999323C8FDA47C29CBEEB36
+        width: 700
+        height: 393
 
 secured: "qddbeyhg373pmV5I28+ftWbRr8iQrETNBT859/RHxvMzEyxelJtgIb/UoSrBUxbc5Y+NLJ2BFrKHZQ45vCwdaSan4xOUgD8MC01q+9ZULRw3h3mS0JconLJ2LUURQMASD70RfsW35T00RM4JZ6JeQrPR/8/7u5qmUMza2C5GUW/Pq76aImJHMlvzwvFGDio+g7OImNVR89J+uJKlfeZrHnWx8iXig/jsRB6eCE5hN6bpSsbtLlawqxJ5bApF4TVA/N9c8fV5NyETrkhPwYfzDg==;BfNvtXo7pH+jjdalQ/fDhg=="
 ---
