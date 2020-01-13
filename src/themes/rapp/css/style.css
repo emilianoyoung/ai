@@ -831,7 +831,8 @@ Newsletter
   width: 210px;
 }
 
-.newsletter-wrapper .submit-button {
+.newsletter-wrapper .submit-button, 
+.newsletter-wrapper .subscribed-label {
   border: none;
   padding: 9px;
   margin-right: 10px;
@@ -1526,7 +1527,7 @@ Start App Listing style
 }
 
 :not(.subscribed) .subscribe-label {
-  display: block;
+  display: inline-block;
 }
 :not(.subscribed) .subscribed-label {
   display: none;
@@ -1535,7 +1536,7 @@ Start App Listing style
   display: none;
 }
 .subscribed .subscribed-label {
-  display: block;
+  display: inline-block;
 }
 a.subscribed {
   cursor: default !important;
@@ -2235,7 +2236,8 @@ Start Responsive style
     width: 100%;
   }
 
-  .newsletter-wrapper .submit-button {
+  .newsletter-wrapper .submit-button, 
+  .newsletter-wrapper .subscribed-label {
     border: none;
     padding: 9px;
     margin-right: 10px;

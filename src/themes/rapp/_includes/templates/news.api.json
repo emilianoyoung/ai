@@ -5,7 +5,7 @@
     {% assign for_count = 0 -%}
     "page": {{ current_page }},
     "value": [
-        {% capture news_topic_filter %}post.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
+        {% capture news_topic_filter %}post.topics contains '{{ page.topic | default: site.topic }}'{% endcapture -%}
         {% assign news = site.posts | where: "category", "news" | where_exp: "post", news_topic_filter | sort: 'publishedDateTime' | reverse -%}
         {% if page.minimum_heat -%}
             {% capture news_heat_filter %}post.heat >= {{ page.minimum_heat }}{% endcapture -%}

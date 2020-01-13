@@ -249,6 +249,11 @@ $(function ($) {
     localStorage.setItem("subscribed", subscribedForms);
   });
 
+  var email = localStorage.getItem("email");
+  if (email != null) {
+    $(".email").val(email);
+  }
+
   var subscribedForms = localStorage.getItem("subscribed");
   if (subscribedForms != null) {
     var formIds = subscribedForms.split(",");

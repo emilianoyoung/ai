@@ -26,7 +26,7 @@
             {% if page.query -%}
                 {% assign events_where_exp = page.query -%}
             {% else -%}
-                {% capture events_where_exp %}item.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
+                {% capture events_where_exp %}item.topics contains '{{ page.topic | default: site.topic }}'{% endcapture -%}
             {% endif -%}
             {% assign events = site.events | where_exp: "item", events_where_exp -%}
             {% if page.time_range == "past" -%}
