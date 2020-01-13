@@ -227,6 +227,17 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 6
+  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
+    publishedDateTime: 2019-12-30T13:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "59TL4wTk87Pgb/oNVeYJUGlF3MjRAwTiDnqHtqC7c/3GaJc4abEJ3zOLHEfnAkcxtGgQb+Uu+LiSHTSukZuVSLrzbT83NMlExWt0S+hleVPfZJZ364TlZucJyRLLnrU1rM2Rgn84ymsVwD/18avGiCAUaE7y2WYN6My5b+Pt2W4+LnUqpGDwkKVCsRYJLk0ZFCCL3G/cW/pbKkFjnjy5eXpPp7otqUdHEf283/6CVzkYxCO7Dc6nhJbuySoQ+pIwsaTWIrDqxAjULrF0sxKo4A==;b0YK423e27uAOZ9/YkB5lA=="
 ---

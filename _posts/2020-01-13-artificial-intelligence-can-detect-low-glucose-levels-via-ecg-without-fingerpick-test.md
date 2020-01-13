@@ -24,6 +24,21 @@ images:
     title: "Artificial Intelligence can detect low-glucose levels via ECG without fingerpick test"
 
 related:
+  - title: "AI can detect low glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-13T14:58:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
+    ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.64B4FC51697A9E1513392E735C0FB502
+        width: 311
+        height: 236
   - title: "New AI technology to detect low-glucose levels via ECG could replace finger-prick tests"
     excerpt: "Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: The differences ..."
     publishedDateTime: 2020-01-13T13:29:00Z
@@ -39,6 +54,19 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
+  - title: "AI system detects ‘hypos’ using ECG readout"
+    excerpt: "Researchers from a UK university have devised an artificial intelligence (AI)-based system that can detect low glucose levels ... Based on this information, clinicians can adapt the therapy to each individual. Clearly more clinical research is required to confirm these results in wider populations. This is why we are looking for partners.”"
+    publishedDateTime: 2020-01-13T13:22:00Z
+    sourceUrl: https://pharmaphorum.com/news/ai-system-detects-hypos/
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E6A04CFACD8D24198C320C0141868D04
+        width: 700
+        height: 525
 
 secured: "qkA0BTRTKOZL3YiAu7DQOaRpEfS9obd5uqjNlZYeogG7He0mRpV89bM2QJ/N9OTlXgWjf+5sJHx338ooqg9jBpbjPVdIe9zVx3Fa9iOfNUFprFm8WRpnh/gA6O1yy5bbfvewQ0d382LQE6XR37sz3gq5DWj0czD8MnrcUU+nhb0vM3ZTiKxpRzV/26k1/ZGAImOBwvxIYk0R8k2zM1GXxaRwT1oEMItbZC6vWRfcxgLRtfHF9bz2wxupfK1Syu1suG4+51VRlPWa92ZXf3qXCQ==;UmjaftshiYqVZEuCdEo8ig=="
 ---

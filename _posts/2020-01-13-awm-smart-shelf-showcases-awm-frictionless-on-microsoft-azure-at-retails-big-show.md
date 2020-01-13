@@ -37,6 +37,17 @@ related:
       - url: https://www.bing.com/th?id=ON.2A17B5FB71F6E63FF99F9540B91023B6
         width: 270
         height: 157
+  - title: "Prevedere to Present Its ERIN Predictive Analytics Cloud, Powered by Microsoft Azure, at Microsoft Showcase during NRF 2020"
+    excerpt: "The ERIN Predictive Analytics Cloud leverages the power of Azure Machine Learning to rapidly analyze and deliver insights from vast volumes of data streamed daily from hundreds of global sources. Companies can quickly discover the specific external leading indicators (e.g., wages, employment, consumer sentiment, weather patterns, online search ..."
+    publishedDateTime: 2020-01-13T13:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
+    ampUrl: https://markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
 
 secured: "zmEhCC5a/rnBXiL3PD90z5UgUkLpCyAMctjz2ma287yxtVSg1hr52TNdhC5FcQTGj5MhBYK+AMZPr3EPKtMJQXqQAHiYDl/TYkWBrSn2FyknSq1dYarxZGdrKi/iDGKrZJ6GMMiU4W+oCj9zUb6kn1W7EI84BWTENWw6Zx8UdYPXhJjQ/cHbFHJ5jlI5rd4PvkX52fSJtzIiet8yYuKRKHT35jjIVKmF+01puHMDfKT7O5X652R/LvNenNQZQo3bye9oG9I6HkyRfvFDqsdDZQ==;Dmr8Qevyq2B4LYPhpDPqjg=="
 ---

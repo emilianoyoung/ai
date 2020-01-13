@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-10T11:01:00Z
 sourceUrl: https://tvnewscheck.com/article/top-news/243200/ai-robotics-tools-for-credit-departments/
 type: article
 quality: 69
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 200
     height: 200
     title: "AI & New Robotics: Tools For Credit Departments"
+
+related:
+  - title: "Collins | AI & New Robotics: Tools For Credit Departments"
+    excerpt: "While getting out of the car, she mumbled something about it being time to have robots, not people, take care of our teeth. I’m not quite sure about that. What I am sure about, is that robotic process automation (RPA) and artificial intelligence (AI) are changing the way we do business. It wasn’t long ago that media credit and collection ..."
+    publishedDateTime: 2020-01-13T14:12:00Z
+    sourceUrl: https://tvnewscheck.com/article/243200/ai-robotics-tools-for-credit-departments/
+    type: article
+    provider:
+      name: TV NewsCheck
+      domain: tvnewscheck.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.02AE4045039AC25D72D9689C2EB9DBED
+        width: 356
+        height: 200
 
 secured: "DR8IEsAKA1gCygv7sGO949u5iz2mbEFpG/AIkVo8JnpTvOi3zt8P+J9ZoVsxFKpjdGfLleiK0HeirmI15HL3DRyTm8b4SklyvCdXt7Uqh9z17K/h9dQSSIp0WoJKo1R2PHdtk8rfFp6PAGQNR/URYHRbDZN77+zD6YCnMFD7zvHb4djU3IPy8Z5oDkGLJr02qo9bFHTi1h/EaTxoEUusDR309NKlyHjaLGE0HDyLC/meAVGyGwI9Hk/TLQ8X6UJlfbfEZI6gXmFI7ifSsxUQ+Q==;omtWnta9MiEKa/ydhGBWFA=="
 ---

@@ -101,66 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CA5772348BBE16A9499928B1928F8AAF
         width: 700
         height: 366
-  - title: "Riding in a self-driving car is the best way to end CES 2020"
-    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. The \"self-driving\" term is used way too freely. No matter what your best friend or ..."
-    publishedDateTime: 2020-01-10T17:02:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.E87C8D793B8BF399E36BA48BC633FA1F
-        width: 700
-        height: 367
-  - title: "Self-driving car development is booming, but don't expect the government to regulate it"
-    excerpt: "This has been true of self-driving car development, too. People started out by repurposing tons of equipment and software, piling it into a car and seeing how long they could go without touching the steering wheel. We're way past that now, and the amount of money being poured into the space by automakers and huge technology companies is proof ..."
-    publishedDateTime: 2020-01-09T01:16:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
-    ampUrl: https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 66
-    images:
-      - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
-        width: 700
-        height: 366
-  - title: "Elon Musk says “feature-complete” Full Self-Driving coming “soon” to Tesla cars"
-    excerpt: "There is however some evidence that Tesla is getting closer, with the company recognizing some revenue from payments users made for the full self-driving option due to delivering Smart Summons. Now Elon Musk, CEO of Tesla, has said on Twitter that the feature would be coming “soon”. Musk has said the Full Self-Driving feature is incredibly ..."
-    publishedDateTime: 2020-01-11T17:24:00Z
-    sourceUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/
-    ampUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
-    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.2410965BA87CA4444A1B498B57579FFF
-        width: 700
-        height: 436
-  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
-    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
-    publishedDateTime: 2020-01-13T00:26:00Z
-    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
-    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.9247CCF47D4673858EB9220C65D5720A
-        width: 700
-        height: 396
   - title: "Toyota plans to build 175-acre smart city in Japan"
     excerpt: "Japanese carmaker Toyota has announced plans to create a 175-acre smart city in Japan where it will test driverless cars and artificial intelligence. The project, announced at the Consumer Electronics Show in Las Vegas, will break ground at the base of Mount Fuji in 2021. Woven City will initially be home to 2,000 people who will test ..."
     publishedDateTime: 2020-01-07T12:07:00Z
@@ -176,21 +116,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AAEC4A53E940E3C37BAEFBB71F29E062
         width: 700
         height: 437
-  - title: "Self-driving shuttles mapping and testing, coming soon to Linden area"
-    excerpt: "COLUMBUS (WCMH) – Life could soon be getting a little easier for residents in the south Linden area. Through a grant funded pilot project, SmartColumbus is bringing two self-driving shuttles to the area. They are currently in the mapping and testing phase. “There’s definitely a sense of excitement just seeing them, seeing something ..."
-    publishedDateTime: 2020-01-09T11:08:00Z
-    sourceUrl: https://www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/
-    ampUrl: https://www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/amp/
-    cdnAmpUrl: https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/amp/
-    type: article
-    provider:
-      name: NBC4i
-      domain: nbc4i.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.4F63490687C4894A297A75B8AAA3E6A8
-        width: 700
-        height: 393
   - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
     excerpt: "Makers of self-driving car supporting technology Lidar are looking at other avenues to work in while waiting for the autmobiles to take off. Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new ..."
     publishedDateTime: 2020-01-09T11:30:00Z

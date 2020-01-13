@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-12T16:34:00Z
 sourceUrl: https://www.financialbuzz.com/awm-smart-shelf-showcases-awm-frictionless-on-microsoft-azure-at-retails-big-show/
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,17 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "Prevedere to Present Its ERIN Predictive Analytics Cloud, Powered by Microsoft Azure, at Microsoft Showcase during NRF 2020"
+    excerpt: "The ERIN Predictive Analytics Cloud leverages the power of Azure Machine Learning to rapidly analyze and deliver insights from vast volumes of data streamed daily from hundreds of global sources. Companies can quickly discover the specific external leading indicators (e.g., wages, employment, consumer sentiment, weather patterns, online search ..."
+    publishedDateTime: 2020-01-13T13:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
+    ampUrl: https://markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
 
 secured: "aIe6byat33Ua8HajgWAufgHdzUBhiWEsJqx+w+ytpQjUj59eKkfUtHpVp6gVpwwUFgDOyeYeQIvqQrnylTrOPDOi5hlqDdidWyeZnU+cLGw/1Bi+3+6NWR/WLnzUkBhNYlgPGPcbfNe+ncveKXI5aymNtTTl59jMD4RLqxUlfa/wGcUO1BGTCXXTrD9zk9ip4ljVWy5bhjQoCXH0LeZbbdtmZWEcd6S8HFnU1voKpfr60AxDIQ7hWJj0Zr6GwXMQ5nUoENt0IXfiVCCVT5lysQ==;X8fIadCRsTP4yMHCwOMaiA=="
 ---

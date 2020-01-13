@@ -8,7 +8,7 @@ ampUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
 type: article
 quality: 74
-heat: 254
+heat: 234
 published: true
 
 provider:
@@ -230,19 +230,6 @@ related:
       - url: https://www.bing.com/th?id=ON.355506E6D2B22A7FA49FFA27E8C9EF44
         width: 700
         height: 367
-  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
-    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
-    publishedDateTime: 2020-01-07T12:13:00Z
-    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
-        width: 580
-        height: 358
   - title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge of technology"
     excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
     publishedDateTime: 2020-01-10T00:05:00Z
@@ -269,19 +256,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 23
-  - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
-    excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
-    publishedDateTime: 2020-01-08T11:16:00Z
-    sourceUrl: https://www.dispatch.com/news/20200108/self-driving-shuttles-coming-to-linden-in-first-test-in-us-residential-neighborhood-official-says
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 10
-    images:
-      - url: https://www.bing.com/th?id=ON.A92A3D26CE799C9B0A84C8DFCEACF8A3
-        width: 700
-        height: 525
 
 secured: "zBdV14ZrYK/yrCFuhTuuArLxLmhXMApA5NWLXKRm/T+GU7BPb7tyA3cd+NBChH4dPdVz4aTsDKhoZaQxwTswYN+sbVZD5CX5qV9vxHuJs0oQMNfeP5gfCIKKjWcJLkvMyMZyIuJg/3zXyXE0FArB+I9UOfHopwQ8af44EgBy6cjFBDcELMZ1ehmJrl4UqW/T6ia2x2mP85lDSeTBiPADBXwpCGlI/v6Yu1dHT502swnumpo/TZmvbOnuhkq3Bbe6pTM/VdSJqlO/3czSSm6yHg==;m5caUQVuLuPp2N2+eQiVAA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-l
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -146,6 +146,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5E65A5CF304BA7EDEB03E9DB8665944E
         width: 280
         height: 158
+  - title: "Multicore processor integrates neural processing unit"
+    excerpt: "For voice applications, the i.MX 8M Plus integrates a high-performance HiFi 4 DSP that enhances natural language processing with pre- and post-processing of voice streams. The Cortex-M7 domain can be used to run real-time response systems, said NXP ..."
+    publishedDateTime: 2020-01-07T00:00:00Z
+    sourceUrl: https://www.embedded.com/multicore-processor-integrates-neural-processing-unit/
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.BAF8FABCDE4A7759A89CAFB1970E7A12
+        width: 700
+        height: 393
 
 secured: "GLOQ7MrggXoYXeAfJWQ0JdEDaBxyNtX/Smp9Mv67aHnLZGT4Ismbc3g3hZ7NeL4FNl/2h5s6LmCJHM3FfxvfdNO6FL4VL4oNalmEaDiF2tlq3yqqNHGo3MDYVZfhtWTQtIU+yZ85mCtQkkOzVM/6VqMYpARfYkP1oTyuo3uVWNrJ+nQVY1T1wX8iamdmjt+osdscxTA7mNgsClDekqAXMZy7hiVwG9Ue8BJk/NrwDnNrYbxQaFKwBwmryoGHNWCbntQmPtm3+wlXnnOtTLYJdQ==;H8zaRiIIN90QXTCmpvgjPg=="
 ---

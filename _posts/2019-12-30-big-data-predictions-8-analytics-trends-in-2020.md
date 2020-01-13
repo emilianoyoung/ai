@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/big-data-predictions-8-a
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/big-data-predictions-8-analytics-trends-in-2020/
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       name: adtmag.com
       domain: adtmag.com
     quality: 13
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-25T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "MXg/2I447fpJ1OzARBAXyfRAx9n9+I8fR6kubX4yNhAeaA2hyNOdybH6srmtv4Jwi4bcsdM9diAkiyihWss8VNbf27rR/ZeK5bTvdk3mGFgT0RobqeyiDTPk0iLhpNSChwUk1pCoAuWl4/CjbS2f2HSHbkzU4Pr7/1aX2FgrtDsYxzjob4IzE1B3H1c+IaO9zZhoeVm3CyHzOoLfRiCM+Dhm5Xfsfb2Oy9MAcKESoqffWQXai2VQV6QyovGfGwG2XdxxMfSv52dSeLEjN8RROQ==;7q7phprCBVe9Bz2LUXfPdQ=="
 ---

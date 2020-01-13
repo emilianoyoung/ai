@@ -76,19 +76,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D937EEFFA0B4960332F259302BDD7D6
         width: 700
         height: 379
-  - title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
-    excerpt: "The participating experts expressed different ideas and opinions on future development. Instrumental in strengthening personalized learning, AI is essential for future skill training As a leading global AI adaptive education provider and the only Chinese educational technology company to be invited to the summit, Dr. Wei Cui, a co-founder and ..."
-    publishedDateTime: 2019-12-26T19:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-300979326.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.04D63CC04A6B91820844C0027C9AC793
-        width: 690
-        height: 361
 
 secured: "B307PAujBTSWymrAfB072Zb4/PXErccZBzs0ylb5ETSyJ6/mo/EOA3lzzlrQBgukEylGPe3Jh7mNum25YPfN57P+RdkOowZffG5dYfBB8YSbmLRiHwp5atd3+xQixgKgOYI8vH0jz8p8wu/yW6VayYG6/A+IqyZIdzirPKQW73lATDJAeWMzlad0bsRbKuSnlfg6O0Xp1eCGPqATFoaReIAuYqdgeSObdCV9aGZ9+8/fZUTLo/HO8pS9Y4Gcmh75UVMvw2H7NyAx9IfOtT4T5Q==;X7aoXjijjct8F2OTuWAzAg=="
 ---

@@ -53,6 +53,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
         width: 796
         height: 417
+  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
+    publishedDateTime: 2020-01-13T13:17:00Z
+    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
+    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    type: article
+    provider:
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.C8AD5A1034544731C97682806DE07DFF
+        width: 630
+        height: 473
   - title: "How Baidu uses Artificial Intelligence to trace missing people in China"
     excerpt: "Artificial Intelligence (AI) is not just another technology but also could be a powerful disruptive tool for public welfare as has been demonstrated by Chinese tech major Baidu. The company has used AI in China to find nearly 9,700 missing people and also help visually-impaired people. Its successes can be replicated in India. In a talk at IIT ..."
     publishedDateTime: 2020-01-08T16:38:00Z

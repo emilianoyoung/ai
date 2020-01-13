@@ -26,6 +26,17 @@ images:
     height: 630
     title: "AI in Telecommunication Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
 
+related:
+  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
+    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
 secured: "dfn0nlLa4+HcXjXbFDTzKhGR01kFXXWoSEkG9HjCid8upJHnylXduimLYg0IbqxjXEGnIN4hmepuIxHl1vsggMHPL5vvKVvbbYUSOTnCUqVpL3h5NAg84Grx0VcGmsAPn5/8ZoAR42io9brx3Gy/fpMj8dDda3KJpLWAr57Z495uHVtRq88VS/kJOLCxz9ICI2V7tbqqEbTMK0he9ws4lJh/uNLT4VcAhxy0tgMZpMkO3LN/MaTuZ+Yidm0J8VX9M0yg9zZ6D44hEX5i3NFfTw==;cRtP0grJZ23/Pap4B2Capw=="
 ---
 

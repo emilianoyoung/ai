@@ -26,90 +26,135 @@ images:
     title: "I Tested Qualcomm’s New Self-Driving System at CES. Here’s What I Learned."
 
 related:
-  - title: "VW announces new Silicon Valley self-driving nerve center at CES"
-    excerpt: "On Wednesday at CES, Volkswagen detailed an important new step in the company's march towards self-driving cars: the establishment not just of a new nerve center in Silicon Valley to research and develop the technology, but also the creation of Volkswagen Autonomy, Inc., a subsidiary division to support it. Based out of Belmont, CA (about 25 ..."
-    publishedDateTime: 2020-01-08T18:29:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/vw-silicon-valley-self-driving-center-ces-autonomy/
-    ampUrl: https://www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+  - title: "Elon Musk: Tesla’s Full Self-Driving ‘feature-complete’ is coming ‘soon’"
+    excerpt: "Tesla missed Elon Musk’s deadline to release what he calls Full Self-Driving “feature-complete” out “at least in the early access program” by the end of last year, but the CEO says that it is still coming ‘”soon.” Autopilot is currently meant for highway driving, and the new Smart Summon, which Tesla recently released in its V10 ..."
+    publishedDateTime: 2020-01-13T14:09:00Z
+    sourceUrl: https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/
+    ampUrl: https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
+        width: 700
+        height: 337
+  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
+    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
+    publishedDateTime: 2020-01-07T17:42:00Z
+    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/
+    ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: https://www.bing.com/th?id=ON.49223FF6F1D4859DE63858A6E3BD50FD
+        width: 600
+        height: 315
+  - title: "Riding in a self-driving car is the best way to end CES 2020"
+    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. The \"self-driving\" term is used way too freely. No matter what your best friend or ..."
+    publishedDateTime: 2020-01-10T17:02:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
+    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
     type: article
     provider:
       name: CNET
       domain: cnet.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.A45CA660A9375BDAD397448799722978
+      - url: https://www.bing.com/th?id=ON.E87C8D793B8BF399E36BA48BC633FA1F
         width: 700
         height: 367
-  - title: "Luminar touts big lidar advances, new self-driving tech business model"
-    excerpt: "Luminar Technologies Inc., one of the most highly valued startups developing lidar for self-driving vehicles, unveiled a new sensor system and a new business model on Tuesday. The Palo Alto company is now offering its hardware, software and systems on a subscription basis to the major auto industry customers who are using Luminar's technology ..."
-    publishedDateTime: 2020-01-07T19:25:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.amp.html
+  - title: "Self-driving car development is booming, but don't expect the government to regulate it"
+    excerpt: "This has been true of self-driving car development, too. People started out by repurposing tons of equipment and software, piling it into a car and seeing how long they could go without touching the steering wheel. We're way past that now, and the amount of money being poured into the space by automakers and huge technology companies is proof ..."
+    publishedDateTime: 2020-01-09T01:16:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    ampUrl: https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
+      name: CNET
+      domain: cnet.com
+    quality: 66
     images:
-      - url: https://www.bing.com/th?id=ON.9B535C38AF82294F1F5B74AFEE6F8755
+      - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
         width: 700
-        height: 393
-  - title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
-    excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
-    publishedDateTime: 2020-01-08T20:49:00Z
-    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html
-    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+        height: 366
+  - title: "Elon Musk says “feature-complete” Full Self-Driving coming “soon” to Tesla cars"
+    excerpt: "There is however some evidence that Tesla is getting closer, with the company recognizing some revenue from payments users made for the full self-driving option due to delivering Smart Summons. Now Elon Musk, CEO of Tesla, has said on Twitter that the feature would be coming “soon”. Musk has said the Full Self-Driving feature is incredibly ..."
+    publishedDateTime: 2020-01-11T17:24:00Z
+    sourceUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/
+    ampUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 30
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
+      - url: https://www.bing.com/th?id=ON.2410965BA87CA4444A1B498B57579FFF
         width: 700
-        height: 466
-  - title: "Chinese companies flex their self-driving muscle at CES 2020"
-    excerpt: "LAS VEGAS -- Chinese startup AutoX says mass production of self-driving cars will be a reality \"soon\" thanks to a tie-up on affordable sensors with compatriot DJI, the world's leading consumer drone maker. DJI, which controls more than 60% of the global market for consumer drones, rolled out two light detection and ranging, or LIDAR ..."
-    publishedDateTime: 2020-01-09T09:19:00Z
-    sourceUrl: https://asia.nikkei.com/Business/CES-2020/Chinese-companies-flex-their-self-driving-muscle-at-CES-2020
+        height: 436
+  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
+    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
+    publishedDateTime: 2020-01-13T00:26:00Z
+    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
+    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
+      name: BGR
+      domain: bgr.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.04CF764C8E08DC8698725F3B4CC0841C
+      - url: https://www.bing.com/th?id=ON.9247CCF47D4673858EB9220C65D5720A
         width: 700
-        height: 350
-  - title: "VW announces new Silicon Valley self-driving nerve center at CES"
-    excerpt: "The German automaker also announces the creation of the Volkswagen Autonomy, Inc. division to support these new operations."
-    publishedDateTime: 2020-01-09T00:31:47Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/vw-announces-new-silicon-valley-self-driving-nerve-center-at-ces/ar-BBYKN7e
+        height: 396
+  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
+    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
+    publishedDateTime: 2020-01-07T12:13:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
+        width: 580
+        height: 358
+  - title: "Honda's cutesy CES concept shows self-driving cars don't mean giving up control"
+    excerpt: "The thought of giving up control in the car, frankly, scares people. Honda sees this, and it hopes to calm those nerves with what it calls the Augmented Driving Concept. Making its debut at CES 2020,"
+    publishedDateTime: 2020-01-09T17:18:23Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/hondas-cutesy-ces-concept-shows-self-driving-cars-dont-mean-giving-up-control/ar-BBYcAnX
     type: article
     provider:
       name: Roadshow on MSN.com
       domain: msn.com
-    quality: 24
+    quality: 20
     images:
-      - url: https://www.bing.com/th?id=ON.0F218D55D08B82CD72D97CC4120217AC
+      - url: https://www.bing.com/th?id=ON.7C413DAB130A5CD377DB3D9111D29646
         width: 700
         height: 367
-  - title: "FTC commissioner on new tech like self-driving cars: I 'see lots of risk'"
-    excerpt: "Among the self-driving cars, connected gadgets, and promises of a reimagined world powered by 5G at CES 2020, FTC Commissioner Rebecca Slaughter sees new risks of cybercrime. It’s not just the physical products on hand at the massive consumer tech convention,"
-    publishedDateTime: 2020-01-09T19:33:00Z
-    sourceUrl: https://finance.yahoo.com/news/rebecca-slaughter-on-5g-self-driving-cars-and-privacy-192635027.html
+  - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
+    excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
+    publishedDateTime: 2020-01-08T11:16:00Z
+    sourceUrl: https://www.dispatch.com/news/20200108/self-driving-shuttles-coming-to-linden-in-first-test-in-us-residential-neighborhood-official-says
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 10
     images:
-      - url: https://www.bing.com/th?id=ON.A64EAFBC97A3AC3E9F859B1910E25482
+      - url: https://www.bing.com/th?id=ON.A92A3D26CE799C9B0A84C8DFCEACF8A3
         width: 700
-        height: 489
+        height: 525
 
 secured: "B9Kj3JNYAqG73puwskKvl2ndbk5gQ2XdcgStHwSS5KrfEjLT8lE8Jcjl6Lv9MYZOGOrfUkIb2mYoLSzsMPjosCphDfJBV02dN8abSP05MBLqTUKx56s6vGbjn3JFLubz50oPT9Y0Hj2DlASmygQxZnHikRJxQITwO6KU5IuZm1rB14/jXCiCsVyqPJ4llCm8q/fPze1ViL9RwM1iQ0BZQsv2RQ8J+iPVG2MRDN24J9vQZXggRxvgLbkVexcKOaRK7BPHYOZ6pZNpDr5b/rUubg==;Z6y17F6pudWR9NBX6MJTmw=="
 ---

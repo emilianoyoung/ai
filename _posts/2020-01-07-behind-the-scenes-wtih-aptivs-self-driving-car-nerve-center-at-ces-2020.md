@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8119FFF26B25FF99E440AF93E152C1
         width: 600
         height: 315
-  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
-    excerpt: "These are actually Aptiv's self-driving development cars, which have been gathering data while taking showgoers and tourists alike around the city. Now, their reach is about to expand in a big way. Aptiv announced this week that it has once again expanded the area in which its self-driving BMWs can operate. Specifically, the company has been ..."
-    publishedDateTime: 2020-01-07T16:42:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    ampUrl: https://www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
-        width: 700
-        height: 525
   - title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
     excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
     publishedDateTime: 2020-01-11T16:07:00Z
@@ -67,21 +52,6 @@ related:
     quality: 82
     images:
       - url: https://www.bing.com/th?id=ON.D3397EDC6C23E1B6D7F840CC89631F6D
-        width: 600
-        height: 315
-  - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
-    excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
-    publishedDateTime: 2020-01-07T17:42:00Z
-    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/
-    ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: https://www.bing.com/th?id=ON.49223FF6F1D4859DE63858A6E3BD50FD
         width: 600
         height: 315
   - title: "Honda’s Self-Driving Concept Car Being Unveiled At CES Renews Feud Over Levels Of AI Autonomy"
@@ -340,6 +310,19 @@ related:
       - url: https://www.bing.com/th?id=ON.19341F5FC3D33A5044F1C2D917D1C3D6
         width: 700
         height: 386
+  - title: "I-30 Could Be Rebuilt As Nation's First Highway For Self-Driving Cars"
+    excerpt: "Parts of Interstate 30 in North Texas could be the first corridors in the country built with technology to accommodate self-driving cars. The North Central Texas Council of Governments says parts of I-30 east of downtown Dallas and between Arlington and Fort Worth will need to be rebuilt in the next several years."
+    publishedDateTime: 2020-01-13T14:27:25Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/i-30-could-be-rebuilt-as-nations-first-highway-for-self-driving-cars/ar-BBYU32Y
+    type: article
+    provider:
+      name: KRLD Radio Dallas on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.520F493D8398C88D45B95D6CB477B92D
+        width: 600
+        height: 315
   - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
     publishedDateTime: 2020-01-07T17:21:00Z
@@ -353,19 +336,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7B9DD954E35409EEA913C6A609768DD6
         width: 700
         height: 386
-  - title: "Honda's cutesy CES concept shows self-driving cars don't mean giving up control"
-    excerpt: "The thought of giving up control in the car, frankly, scares people. Honda sees this, and it hopes to calm those nerves with what it calls the Augmented Driving Concept. Making its debut at CES 2020,"
-    publishedDateTime: 2020-01-09T17:18:23Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/hondas-cutesy-ces-concept-shows-self-driving-cars-dont-mean-giving-up-control/ar-BBYcAnX
-    type: article
-    provider:
-      name: Roadshow on MSN.com
-      domain: msn.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.7C413DAB130A5CD377DB3D9111D29646
-        width: 700
-        height: 367
   - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
     publishedDateTime: 2019-12-31T08:09:00Z

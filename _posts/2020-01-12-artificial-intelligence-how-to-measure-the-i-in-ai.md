@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AEB68D4F440EC797E5D3461D1830E8BE
         width: 700
         height: 350
+  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
+    publishedDateTime: 2020-01-13T13:17:00Z
+    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
+    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    type: article
+    provider:
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.C8AD5A1034544731C97682806DE07DFF
+        width: 630
+        height: 473
   - title: "How Baidu uses Artificial Intelligence to trace missing people in China"
     excerpt: "Artificial Intelligence (AI) is not just another technology but also could be a powerful disruptive tool for public welfare as has been demonstrated by Chinese tech major Baidu. The company has used AI in China to find nearly 9,700 missing people and also help visually-impaired people. Its successes can be replicated in India. In a talk at IIT ..."
     publishedDateTime: 2020-01-08T16:38:00Z
@@ -245,6 +260,6 @@ related:
         width: 160
         height: 90
 
-secured: "qjPBY6GUK1q6tASRQy3qALlCa6D/Ox1n8ca+Q8NCldxi5588jaiTjdzdfls5HjDeBNl27BmfigLH7uO4Ey35m70gbLksZgufdv56yA/Li9gL2YKWd1PkzOHmFLW51bOy4eA8CSNe/tW56NQO+9fBoY9TxmmRkoUZ08u6rXAWvFQqvj29bh8xP7ypOYBj+2ll5FwONLxmd5lL9pblfjUIZnB2WGA+9ZOixyetB8Es3rO+tYQOH1TlEr9R0it6rCpITIceAtUYce3pOs4BpXmy9A==;5C2FDJZ+beaLYo1ScGJAzg=="
+secured: "DoMlvejr1LgjVRFPGUoIAdo03GQGlGDI5YY77Wz6YcuyKIWOBFi/zLjW1d8laiFA1IHRR3Eh5ZK7xe31LFAiuMmsDvScUZdvecoEo1vR49AgUrymDTfsjswBfeOAb+sQ2zZJYwHFCNojpTnXsQsYuIOHMmq5n7yEVAH5CJ+hMOfwmf7ELJ1wBBfgEmPD914Wihl7HG5mwDLuiOvoH4a44u5kAqlWd9Jxc1VTEJlsbIXyuW5uKPi/0rB7DZ59Bvpe2qt6PII6y9MLv+AJ4AfkLQ==;ObVnE+11yChpztYOjF4Bgg=="
 ---
 

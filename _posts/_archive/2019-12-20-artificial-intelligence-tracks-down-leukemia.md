@@ -42,6 +42,17 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
   - title: "AI detects acute myeloid leukemia with high reliability, study finds"
     excerpt: "Researchers developed several artificial intelligence algorithms using a vast collection of transcriptome data ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
     publishedDateTime: 2019-12-30T22:07:00Z
@@ -69,6 +80,6 @@ related:
         width: 700
         height: 367
 
-secured: "xjC5SCO04i9X9kzPTRzUxR1bRi5muhgBotzekxwD5nESKTfUWyU39qpyJH/Ew1lTp3xG/Iss5PNKpV2NZ5ODrw41otBJqWaPGSXJQQfB3jakuEed1UcIHItyGD+IcqlgJVxP3oOGWc27qDbSNGIToBgmhOudDmn//6gmO4Y3O+cw1idzDQcCaQpZ11x0bC+SMlEhFClkrFGwzkJ4DnRzHKP0OmJUPiwulHB86XYS5HhoKN2hbepnYw0CLJfwVu3RURUbqRuFSk0j2Xac9KCIRA==;CxjjtK5VoDNkf5sxqk1peQ=="
+secured: "5lMgWhq4foRzI0ptJ8B55gLfU5bkFIjZaVkP70fvJ5lh/epDrJMQWuclZC+eqpEQg0By/atdNdPMW/1T28I2mg73v2r2ip4rJ8F3dQ+Zqa0EA8l5dnDLDhyNcCkH3t7hGzih5fzQQ4skajn2Om+cAiTku8LCctmQf6WYSZFV9qvXjSb+z0mDt0ZKywGg4KxNbErkdzC3x+SNpboLIXgE45Hq/PoMVGiFI7Wr8Ai08w8IVvMcOQ6RUtWIDGHpwXkDL6BWRLlSBytsGpCahE4Syw==;tFoPb8+HmINnxh3pTRG2xA=="
 ---
 

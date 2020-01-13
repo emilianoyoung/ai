@@ -241,19 +241,6 @@ related:
       - url: https://www.bing.com/th?id=ON.355506E6D2B22A7FA49FFA27E8C9EF44
         width: 700
         height: 367
-  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
-    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
-    publishedDateTime: 2020-01-07T12:13:00Z
-    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
-        width: 580
-        height: 358
   - title: "Half of UAE residents are likely to buy a self-driving car in the future"
     excerpt: "Men are more likely than women to own an autonomous car and many consider it safer than its human-driven counterpart If it were easily available to them, half of UAE residents (49%) said they are likely to own a self-driving car in the next five years, close to a quarter (23%) are unlikely to do so and an equal proportion (23%) are unsure ..."
     publishedDateTime: 2020-01-13T06:00:00Z
@@ -265,19 +252,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 23
-  - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
-    excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
-    publishedDateTime: 2020-01-08T11:16:00Z
-    sourceUrl: https://www.dispatch.com/news/20200108/self-driving-shuttles-coming-to-linden-in-first-test-in-us-residential-neighborhood-official-says
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 10
-    images:
-      - url: https://www.bing.com/th?id=ON.A92A3D26CE799C9B0A84C8DFCEACF8A3
-        width: 700
-        height: 525
 
 secured: "wbPeCpWZTFLJOqxOTArM7Zs19FcnsbMJwdO1Bs8SF2IAIUmIK+Xfl8OHoLhiwpxqsuIh+beyAiJhsfjGuL0fmUUq0ptzDWXgdgs1yzu1mPcmmJ4KM1MDLcQJNR0FD7K6uqGmhwv2+yN2GKVzClEOx2OWaKYOKO6FEEG2nfUtMfzphx0SGa6MH/heZMgIHj73K0zZW7sDqVfuFS2s7A2kO7VbB3p7wW0cAfG6Z+dq+Fj3zXhZh6noCs379JwXHUHqmmlBZyX5FtXpJoBK7/5HdA==;v1pNheqd46FHHzhRiMiCBw=="
 ---

@@ -24,51 +24,21 @@ images:
     title: "Honda's cutesy CES concept shows self-driving cars don't mean giving up control"
 
 related:
-  - title: "On Whether You Could Successfully Hide And Escape Via An AI Self-Driving Car"
-    excerpt: "Part of the hide-and-escape modus operandi is that you oftentimes need to be spirited from point A to point B, most likely using a car. Here’s an interesting question: Will the advent of true self-driving cars make it easier or harder to carry out a successful hide-and-escape ploy? Let’s unpack the matter and see. The Levels Of Self-Driving ..."
-    publishedDateTime: 2020-01-06T16:03:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-successfully-hide-and-escape-via-an-ai-self-driving-car/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-successfully-hide-and-escape-via-an-ai-self-driving-car/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-successfully-hide-and-escape-via-an-ai-self-driving-car/amp/
+  - title: "Elon Musk: Tesla’s Full Self-Driving ‘feature-complete’ is coming ‘soon’"
+    excerpt: "Tesla missed Elon Musk’s deadline to release what he calls Full Self-Driving “feature-complete” out “at least in the early access program” by the end of last year, but the CEO says that it is still coming ‘”soon.” Autopilot is currently meant for highway driving, and the new Smart Summon, which Tesla recently released in its V10 ..."
+    publishedDateTime: 2020-01-13T14:09:00Z
+    sourceUrl: https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/
+    ampUrl: https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Electrek
+      domain: electrek.co
+    quality: 88
     images:
-      - url: https://www.bing.com/th?id=ON.1C8119FFF26B25FF99E440AF93E152C1
-        width: 600
-        height: 315
-  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
-    excerpt: "These are actually Aptiv's self-driving development cars, which have been gathering data while taking showgoers and tourists alike around the city. Now, their reach is about to expand in a big way. Aptiv announced this week that it has once again expanded the area in which its self-driving BMWs can operate. Specifically, the company has been ..."
-    publishedDateTime: 2020-01-07T16:42:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    ampUrl: https://www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
+      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
         width: 700
-        height: 525
-  - title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
-    excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
-    publishedDateTime: 2020-01-11T16:07:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.D3397EDC6C23E1B6D7F840CC89631F6D
-        width: 600
-        height: 315
+        height: 337
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
     publishedDateTime: 2020-01-07T17:42:00Z
@@ -84,314 +54,107 @@ related:
       - url: https://www.bing.com/th?id=ON.49223FF6F1D4859DE63858A6E3BD50FD
         width: 600
         height: 315
-  - title: "Honda’s Self-Driving Concept Car Being Unveiled At CES Renews Feud Over Levels Of AI Autonomy"
-    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
-    publishedDateTime: 2020-01-02T12:07:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
-        width: 600
-        height: 315
-  - title: "Self-driving cars may never dominate…and that’s OK"
-    excerpt: "If you’re a business or government leader, AVs are likely to become sufficiently disruptive should they come to market that it’s worth thinking seriously, right now, about the consequences for your enterprise and preparing plans to accommodate the technology."
-    publishedDateTime: 2020-01-11T00:17:00Z
-    sourceUrl: https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/
-    ampUrl: https://www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scottcorwin/2020/01/10/self-driving-cars-may-never-dominateand-thats-ok/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.AD97F5014D79F7A577BD23B78A711F72
-        width: 600
-        height: 315
-  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
-    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020's opening day, Qualcomm announced the Snapdragon Ride platform, which it envisions as the autonomous driving platform for the ..."
-    publishedDateTime: 2020-01-06T19:42:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/qualcomm-snapdragon-ride-self-driving-car-tech/
-    ampUrl: https://www.cnet.com/google-amp/news/qualcomm-snapdragon-ride-self-driving-car-tech/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomm-snapdragon-ride-self-driving-car-tech/
+  - title: "Riding in a self-driving car is the best way to end CES 2020"
+    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. The \"self-driving\" term is used way too freely. No matter what your best friend or ..."
+    publishedDateTime: 2020-01-10T17:02:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
+    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 72
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.A307AB71E8D27EA9565902554C2672FE
+      - url: https://www.bing.com/th?id=ON.E87C8D793B8BF399E36BA48BC633FA1F
         width: 700
         height: 367
-  - title: "Watch Mobileye’s self-driving car drive through Jerusalem using only cameras"
-    excerpt: "When it comes to self-driving cars, the general axiom for sensors is “the more the merrier.” The safest systems are the ones that use a multiplicity of sensors, such as cameras, radar, ultrasonic, and LIDAR. Having these redundant sensors is the whole point: if one fails, the remaining sensor suite can help navigate the car to safety."
-    publishedDateTime: 2020-01-07T22:02:00Z
-    sourceUrl: https://www.theverge.com/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
+  - title: "Self-driving car development is booming, but don't expect the government to regulate it"
+    excerpt: "This has been true of self-driving car development, too. People started out by repurposing tons of equipment and software, piling it into a car and seeing how long they could go without touching the steering wheel. We're way past that now, and the amount of money being poured into the space by automakers and huge technology companies is proof ..."
+    publishedDateTime: 2020-01-09T01:16:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    ampUrl: https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 71
+      name: CNET
+      domain: cnet.com
+    quality: 66
     images:
-      - url: https://www.bing.com/th?id=ON.94390E19600FD1F646169E01E73CC837
+      - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
         width: 700
         height: 366
-  - title: "Driverless air taxis will come before self-driving cars, says Uber Air partner"
-    excerpt: "Driverless flying taxis will be here before self-driving cars, an Uber partner has predicted. At an event at CES in Las Vegas, Scott Drennan, head of innovation at Bell, said he thought air taxis could \"win\" the race to create self-driving vehicles. The aerospace company is one of six vehicle partners working with Uber to launch electric ..."
-    publishedDateTime: 2020-01-06T21:43:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/
-    ampUrl: https://www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/amp/
+  - title: "Elon Musk says “feature-complete” Full Self-Driving coming “soon” to Tesla cars"
+    excerpt: "There is however some evidence that Tesla is getting closer, with the company recognizing some revenue from payments users made for the full self-driving option due to delivering Smart Summons. Now Elon Musk, CEO of Tesla, has said on Twitter that the feature would be coming “soon”. Musk has said the Full Self-Driving feature is incredibly ..."
+    publishedDateTime: 2020-01-11T17:24:00Z
+    sourceUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/
+    ampUrl: https://mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/elon-musk-says-feature-complete-full-self-driving-coming-soon-to-tesla-cars/amp/
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 70
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.AC98FF1EDD8FF3CA36805AAB71F0A24F
+      - url: https://www.bing.com/th?id=ON.2410965BA87CA4444A1B498B57579FFF
         width: 700
         height: 436
-  - title: "My first self-driving car ride with an empty driver seat was surprisingly not terrifying"
-    excerpt: "Last year at CES, I rode in what felt like an endless stream of self-driving cars up and down the Las Vegas Strip. Lo and behold, for every ride a \"safety engineer\" or \"operator\" was inches from the steering wheel, foot hovering above the brake. Safety first, I get it. But still, lame. This year Russian self-driving company Yandex moved the ..."
-    publishedDateTime: 2020-01-09T03:33:00Z
-    sourceUrl: https://mashable.com/article/self-driving-car-no-driver-yandex-ces/
-    ampUrl: https://mashable.com/article/self-driving-car-no-driver-yandex-ces.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-car-no-driver-yandex-ces.amp
+  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
+    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
+    publishedDateTime: 2020-01-13T00:26:00Z
+    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
+    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 65
+      name: BGR
+      domain: bgr.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.52B23113EADED4C19553CF37E8CBE7CD
+      - url: https://www.bing.com/th?id=ON.9247CCF47D4673858EB9220C65D5720A
         width: 700
-        height: 367
-  - title: "Yandex to Up the Ante With Self Driving Demonstrations at CES"
-    excerpt: "Yandex N.V. YNDX is leaving no stone unturned to bolster presence in the autonomous driving space. During the Consumer Electronics Show (CES) 2020, the company plans to demonstrate rides with self-driving cars. The demonstration will be held on the public streets of Las Vegas. These cars will feature the latest generation of Yandex’s ..."
-    publishedDateTime: 2020-01-06T15:57:00Z
-    sourceUrl: https://finance.yahoo.com/news/yandex-ante-self-driving-demonstrations-130201069.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/yandex-ante-self-driving-demonstrations-130201069.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/yandex-ante-self-driving-demonstrations-130201069.html
+        height: 396
+  - title: "I Tested Qualcomm’s New Self-Driving System at CES. Here’s What I Learned."
+    excerpt: "But early optimism about the timing of Level 5 self-driving cars fades by the day. It’s going to be years before fully automated driving technology is ready for widespread use. What you are going to see for now are more cars equipped with ADAS, advanced driver assistance systems. That’s what I experienced in my little jaunt down I-15 ..."
+    publishedDateTime: 2020-01-06T19:34:00Z
+    sourceUrl: https://www.barrons.com/articles/ces-2020-qualcomm-self-driving-cars-51578333950
+    ampUrl: https://www.barrons.com/amp/articles/ces-2020-qualcomm-self-driving-cars-51578333950
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ces-2020-qualcomm-self-driving-cars-51578333950
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
+      name: Barron's
+      domain: barrons.com
+    quality: 42
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/1mxmv6tPCtJzA5hXpHp7og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNzA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/8U8IJw2s1hwNkJ.7fSivPw--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/cd9ed8cf63fa5a7bc41c5e977c67cccb
-        width: 635
-        height: 400
-  - title: "Self-driving car market is Rising at Cagr of 36.2% Through 2023 Globally"
-    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
-    publishedDateTime: 2020-01-07T04:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-is-rising-at-cagr-of-362-through-2023-globally-2020-01-07
+      - url: https://www.bing.com/th?id=ON.F7DE2EE3AC4F7DA937B58D82BDFC81F9
+        width: 700
+        height: 350
+  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
+    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
+    publishedDateTime: 2020-01-07T12:13:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: Computing
+      domain: computing.co.uk
+    quality: 23
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Cameron Roberts: Self-driving cars will not fix our transportation woes"
-    excerpt: "This future of autonomous, on-demand electric vehicles is tantalizing. It promises a hands-free solution to various transportation woes. The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits."
-    publishedDateTime: 2020-01-07T02:14:00Z
-    sourceUrl: https://vancouversun.com/opinion/op-ed/cameron-roberts-self-driving-cars-will-not-fix-our-transportation-woes
-    ampUrl: https://vancouversun.com/opinion/op-ed/cameron-roberts-self-driving-cars-will-not-fix-our-transportation-woes/amp
-    cdnAmpUrl: https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/opinion/op-ed/cameron-roberts-self-driving-cars-will-not-fix-our-transportation-woes/amp
+      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
+        width: 580
+        height: 358
+  - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
+    excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
+    publishedDateTime: 2020-01-08T11:16:00Z
+    sourceUrl: https://www.dispatch.com/news/20200108/self-driving-shuttles-coming-to-linden-in-first-test-in-us-residential-neighborhood-official-says
     type: article
     provider:
-      name: The Vancouver Sun
-      domain: vancouversun.com
-    quality: 44
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 10
     images:
-      - url: https://www.bing.com/th?id=ON.4F23E058F88682DA844EBADF2BC38C3A
+      - url: https://www.bing.com/th?id=ON.A92A3D26CE799C9B0A84C8DFCEACF8A3
         width: 700
         height: 525
-  - title: "For self-driving cars in India, there is still hope"
-    excerpt: "The unedited video showed the self-driving car making its way – the full video is available on its website -- through road intersections without traffic lights, avoiding jaywalking pedestrians and swerving into oncoming traffic like an experienced Delhi cabbie. Like in Jerusalem, drivers in Delhi need to show an intent to move ahead or risk ..."
-    publishedDateTime: 2020-01-08T08:24:00Z
-    sourceUrl: https://www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope-11578469548006.html
-    ampUrl: https://www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope/amp-11578469548006.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope/amp-11578469548006.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.C80EB73F6BA2CD5AFB7968966DBE6CE5
-        width: 600
-        height: 338
-  - title: "Miles to go for self-driving cars to hit the streets in India"
-    excerpt: "The unedited video showed the self-driving car winding its way through road intersections without traffic lights, avoiding jaywalking pedestrians and merging effortlessly into oncoming traffic like an experienced Delhi cabbie (the full video is available on its website). As in Jerusalem, drivers in Delhi too need to show an intent to move ahead ..."
-    publishedDateTime: 2020-01-08T17:55:00Z
-    sourceUrl: https://www.livemint.com/news/india/miles-to-go-for-self-driving-cars-to-hit-the-streets-in-india-11578504089622.html
-    ampUrl: https://www.livemint.com/news/india/miles-to-go-for-self-driving-cars-to-hit-the-streets-in-india/amp-11578504089622.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/miles-to-go-for-self-driving-cars-to-hit-the-streets-in-india/amp-11578504089622.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9155C460A01B52A5A7DFB9979CE97A77
-        width: 600
-        height: 338
-  - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
-    excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
-    publishedDateTime: 2020-01-06T22:23:00Z
-    sourceUrl: https://finance.yahoo.com/news/aptiv-self-driving-vehicles-now-220900015.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
-        width: 400
-        height: 286
-  - title: "WATCH THIS: Amazing CES footage shows a self-driving car navigating the narrow streets of Jerusalem"
-    excerpt: "The car was developed by Mobileye, a recent Intel acquisition that develops a wide range of mobility devices and software for motor vehicles. Scroll down for video Unlike many other self-driving cars, the Mobileye vehicle doesn’t use any LIDAR or RADAR sensors and instead creates a detailed three-dimensional map of its surroundings using ..."
-    publishedDateTime: 2020-01-08T19:21:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7865617/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7865617/amp/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7865617/amp/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.D65718FD5E77B4031581CEA33F934C4B
-        width: 636
-        height: 382
-  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
-    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-    publishedDateTime: 2020-01-06T18:04:00Z
-    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
-    type: article
-    provider:
-      name: CPA Practice Advisor
-      domain: cpapracticeadvisor.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.97BEF2841C169967D3EA79EC79D77E7A
-        width: 700
-        height: 464
-  - title: "The state of self-driving regulation"
-    excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
-    publishedDateTime: 2020-01-07T15:00:00Z
-    sourceUrl: https://www.politico.com/newsletters/morning-transportation/2020/01/07/the-state-of-self-driving-regulation-784107
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
-        width: 1120
-        height: 629
-  - title: "Bosch to offer lower-cost lidar for self-driving cars"
-    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
-    publishedDateTime: 2020-01-08T07:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/bosch-offer-lower-cost-lidar-160000894.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
-        width: 700
-        height: 393
-  - title: "CES 2020: What it's like to ride in a self-driving Lyft"
-    excerpt: "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app, I was presented with the option to travel in one of its autonomous cars,"
-    publishedDateTime: 2020-01-09T11:00:50Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/ar-BBYMi90
-    type: article
-    provider:
-      name: Quartz on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D264674445A75BDCEB4BE98A7FFCEBF1
-        width: 600
-        height: 315
-  - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
-    excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
-    publishedDateTime: 2020-01-09T16:01:00Z
-    sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.19341F5FC3D33A5044F1C2D917D1C3D6
-        width: 700
-        height: 386
-  - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
-    excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
-    publishedDateTime: 2020-01-07T17:21:00Z
-    sourceUrl: https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.7B9DD954E35409EEA913C6A609768DD6
-        width: 700
-        height: 386
-  - title: "Behind the Scenes Wtih Aptiv’s Self-Driving Car Nerve Center at CES 2020"
-    excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
-    publishedDateTime: 2020-01-07T17:21:00Z
-    sourceUrl: https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.7B9DD954E35409EEA913C6A609768DD6
-        width: 700
-        height: 386
-  - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
-    excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
-    publishedDateTime: 2019-12-31T08:09:00Z
-    sourceUrl: https://inews.co.uk/news/technology/tech-in-2020-predictions-analysis-elon-musk-tesla-self-driving-cars-5g-playstation-5-1352167
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.D53B1FDA7388E179F26C13E4763E704E
-        width: 700
-        height: 490
-  - title: "Sony just launched a self-driving electric car, and it may sound bizarre, but it makes absolute sense."
-    excerpt: "The Vision S comes with a total of 33 sensors that power its self-driving tech. Sony’s imaging sensors are usually categorized as some of the best in the industry, finding their way into high-end cameras and consumer smartphones. Not to forget the leaps and bounds Sony’s made with the PlayStation Move controllers and the motion-sensing PS4 ..."
-    publishedDateTime: 2020-01-07T20:30:00Z
-    sourceUrl: https://www.yankodesign.com/2020/01/07/sony-just-launched-a-self-driving-electric-car-and-it-may-sound-bizarre-but-it-makes-absolute-sense/
-    type: article
-    provider:
-      name: Yanko Design
-      domain: yankodesign.com
-    quality: 8
-    images:
-      - url: https://www.bing.com/th?id=ON.770F72360A19549A0657F80733BC3965
-        width: 510
-        height: 314
 
 secured: "pYI2g+RuyMbQMVcx/KNdgyd6PaMmuKooK8h1HeElOsVfW5SCuturAudawmiLfPDQzBSoTduaGRH52HOod4N1XjhpibDqhLO1jVu5mQAB0eZt+R0xSuqhprUP+olkwvcDNQrPCB+LCX+f4/sKjLLodmx0xIPjxjACfGLA2rnydu4TyINSQU5YYi8VS0Sx0sgp2a45qNoN6mCSsX67oy6zN5olwaGswXtTatbs4rbzdMB1WtH8qlzZVwzdbbRVMEt1uWNViDQ9Mb+k6N8c5QCTMg==;7OFm2yZKsab0bmzwBy3WFg=="
 ---

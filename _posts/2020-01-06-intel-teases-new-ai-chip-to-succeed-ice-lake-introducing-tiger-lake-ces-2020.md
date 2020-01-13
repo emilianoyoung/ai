@@ -142,6 +142,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5E65A5CF304BA7EDEB03E9DB8665944E
         width: 280
         height: 158
+  - title: "Multicore processor integrates neural processing unit"
+    excerpt: "For voice applications, the i.MX 8M Plus integrates a high-performance HiFi 4 DSP that enhances natural language processing with pre- and post-processing of voice streams. The Cortex-M7 domain can be used to run real-time response systems, said NXP ..."
+    publishedDateTime: 2020-01-07T00:00:00Z
+    sourceUrl: https://www.embedded.com/multicore-processor-integrates-neural-processing-unit/
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.BAF8FABCDE4A7759A89CAFB1970E7A12
+        width: 700
+        height: 393
 
 secured: "bb+2+45dxdATvMq0S8uapKwoqA3aj5to7MHeaSJS4ysUTuzE10Y2xOz0NrEicrVNWUJfskCPJ3hoRjTUO06HXxXC6LhzsK9A6qXcOH2xNnGHm2ehpEJjA6VCLf8hMq2Gk52LUCCPFl+VyIoLxQa6al/vrlGvEItPMFS36zDVJO8iVGJ7tciZaPjvXBzL8XcsmUlwF1JML2K6tRqVyLbTD13R+HzaoPE1CqA0eRgQd7k1kO9Eeke1wDujaGo0JHqNOPARQk6Pwf3Q7QqH8Sz5cA==;bDi2ADvk+RZl1F0MLfAEYQ=="
 ---

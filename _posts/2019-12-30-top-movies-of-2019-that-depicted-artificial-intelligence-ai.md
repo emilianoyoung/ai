@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-30T10:36:00Z
 sourceUrl: https://analyticsindiamag.com/top-movies-of-2019-that-depicted-artificial-intelligence-ai/
 type: article
 quality: 56
-heat: 56
-published: false
+heat: 66
+published: true
 
 provider:
   name: India
@@ -23,6 +23,21 @@ images:
     width: 700
     height: 466
     title: "Top Movies Of 2019 That Depicted Artificial Intelligence (AI)"
+
+related:
+  - title: "Top Articles of 2019: Artificial Intelligence"
+    excerpt: "In September 2019, Stephanie Neil, Automation World’s Senior Editor, reported on how Siemens is using neural networks in its controller programs to enable controllers to recognize complex patters, much like the human brain. By bringing this technology into the company’s S7-1500 controller and ET 200MP I/O system with the release of the S7 ..."
+    publishedDateTime: 2019-12-24T14:06:00Z
+    sourceUrl: https://www.automationworld.com/factory/iiot/article/21107558/top-articles-of-2019-artificial-intelligence
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7D4C9A4B508D0B1552B7D2847E501D04
+        width: 500
+        height: 375
 
 secured: "rM6NqcRcEH2vRRc5IHYYb91fCFpIaQxH1GFe9ueB6LiFsM50c2uh+FAcmRyURKD0x4wredfUBfpQJbOfjbDyRCeY+lS8I4CYr/RSdx7kKwae8Aavv50HnB2LAzbwfCUvsVkgKpZBRr59ZkRymo8tIQip2rw5EkhGD4CSt1gixHP4G2vSTL+KPJs71MOu4/CUWQ83YV8YAByVUjhf0GOBnq6toyfE5fj/FQceSeL49A91BQ4jmUcbbebhZGPWBkxR65GFsZAJXpl3CtVEozc/tQ==;BYHgcrYs1wDzC/x5dSEiJg=="
 ---

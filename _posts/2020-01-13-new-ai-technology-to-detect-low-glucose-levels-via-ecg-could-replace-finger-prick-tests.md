@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20200113/New-AI-technology-to-dete
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200113/New-AI-technology-to-detect-low-glucose-levels-via-ECG-could-replace-finger-prick-tests.aspx
 type: article
 quality: 51
-heat: 61
-published: true
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -26,6 +26,34 @@ images:
     title: "New AI technology to detect low-glucose levels via ECG could replace finger-prick tests"
 
 related:
+  - title: "AI can detect low glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
+    publishedDateTime: 2020-01-13T14:58:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
+    ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.64B4FC51697A9E1513392E735C0FB502
+        width: 311
+        height: 236
+  - title: "AI system detects ‘hypos’ using ECG readout"
+    excerpt: "Researchers from a UK university have devised an artificial intelligence (AI)-based system that can detect low glucose levels ... Based on this information, clinicians can adapt the therapy to each individual. Clearly more clinical research is required to confirm these results in wider populations. This is why we are looking for partners.”"
+    publishedDateTime: 2020-01-13T13:22:00Z
+    sourceUrl: https://pharmaphorum.com/news/ai-system-detects-hypos/
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E6A04CFACD8D24198C320C0141868D04
+        width: 700
+        height: 525
   - title: "Artificial Intelligence can detect low-glucose levels via ECG without fingerpick test"
     excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: “The differences ..."
     publishedDateTime: 2020-01-13T10:43:00Z
