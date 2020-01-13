@@ -49,18 +49,18 @@ related:
         width: 640
         height: 433
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 54
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z
@@ -82,6 +82,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "8UdeDFR2B4eoAxUE3oMPGeRc6prkY+uTr0vXnNyZnCLkoS6xEN7RWAbPokpdKgtLmw7+MScX9eaeTbnYeuA3O/zImKNQ8o0+zzT6s9Ogd8C5PI2yQPnf/Fq+ZqCL1Kr6yju/P9SZqb77Nl3l1lDYfpxsHPLMfxOLdJ46mRAsq1oIh+ee65RM1kUB5dyY9Jep2gVT3d0+/3s6MZ3Uc1xXik/FobzNU9kgznUaqJAj6rm4f2yB7l0yg8so2Z8Ih/68KZyoas/bBDAYfKlk+4ye3g==;Q7PoH7SkHcvGmrca6Ivryg=="
+secured: "xcKJE2FQt4qJ4tZVy7iBgukTDM8sQFrIHWGOtWHn+maTDOUbNKJJHqyueTNzr7mqJpiJmBVTOgWuSYENHqe87Y0xmPwGQawBhzIZvUBRsOjFBFFLYAaLk1tTv6wlZapPts43iLEOS9qRH4gmXghTy66ArsWsasqNSBtkPqcH1JZsORvzUVqP/KLqoK4q6LAEkdFtHSdDpLjIu0ZEVuzNLMqgyL03pGp7jj65YLC36NVSMMus2EEdVNb0ZgRmzW1yMbUQav/Sfn4A7TfoVqW1TA==;YeqgwtoJClGhhYmetKCMQA=="
 ---
 

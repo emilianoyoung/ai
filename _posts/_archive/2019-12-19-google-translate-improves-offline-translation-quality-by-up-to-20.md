@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
         width: 700
         height: 465
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T19:26:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Invoke introduces real-time translation"
     excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
     publishedDateTime: 2019-12-23T10:10:00Z
@@ -71,20 +84,7 @@ related:
       name: research
       domain: research-live.com
     quality: 24
-  - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
-    excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
-    publishedDateTime: 2019-12-23T11:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-from-2020-to-2029-manufacturers-growth-analysis-regions-types-end-users-and-applications-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
-secured: "LNt1qmvX/UvgO/UqCHMm5oFc7B+ABSYDgiG2aX3LGtYhsy2hfB7s5avPIOSuHDAa7jUTRcSbLbDUoOARWuf9BzwQR4t+9swFg+TQSiHbPOb2TdM860e9kiQ556CMNAVwPGc9M3c+w9egUCRMGtCP18nDgRJ+lL1Vtc70oyJOP1RPxTHXHWVA5HyoPXfkmIvSmdz9sfQ4izZ+gPgJMmGhrbPNHRN8+scg99COqS3/qsispcvmqgnLzBqPMqrhMqFN27YDu/MLtPfgkUoC+IeTWQ==;vd5Zw7eo6/zBv9+J5EL9UA=="
+secured: "PKoEzz2p1ehDt1EdDlyRmEuJNaqgOkmK1HBPiV+TrP/SMbuE0RTMg9ej0EORArnMURQpQmw/yaPoI0+L7CfjP24XZhmMMVA8yY1kVVsSt9NxSstFZoNCAMhfxyq3kempZdukaunWsa866K5/F/AIqeSS4VO9MrIUnHVPHAhQ8qySHC92y/CDCGtquD2PFzrXHJlEVOY1JfiWx20vU02gp9AahYGmHUUUMZTaLsWPW9+uBgh+fqfAGI/5nOs1eQiEwKdbkivNHsTR1yzm/F+vxQ==;+/R6kl/S+w/ACDJwGkD2hw=="
 ---
 

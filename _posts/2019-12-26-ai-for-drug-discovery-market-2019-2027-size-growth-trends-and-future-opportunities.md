@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-26T12:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2019-2027-size-growth-trends-and-future-opportunities-2019-12-26
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "AI For Drug Discovery Market 2019-2027 / Size, Growth, Trends And Future Opportunities"
 
 related:
-  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
-    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
-    publishedDateTime: 2019-12-24T09:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
     excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
     publishedDateTime: 2019-12-26T11:07:00Z

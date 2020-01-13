@@ -51,18 +51,18 @@ related:
         width: 640
         height: 433
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 54
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -82,6 +82,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "sfmyyR5c/CWphE7SuvigTYLlT+c6OPTNQrBnvhfosNUGaV5vMirJALlmij4MzLYWVZNlkAwliGXgZt9PvvvPSYPfPl9KFjSOgbDpYZFQ5WldqDgZ2yX4ZKd8iI3w80AuCRP8Bn8X0Zm87wLNnbDZd7BLgp55EOMqsPZL9E4jx5j2fYKW8SnVK5dedK/MdbHWTx1L7dlxt0EkHutL6WKLtKpF0OSGDFM9vnPQ9CVQCjYDqrnQwKcJvs0NY3EOV3SVQXvDS4sykk2MfaFDt4ViKQ==;lN6pSB0bSVMeS7rUAsYeZw=="
+secured: "PvJSixqMDUb2+7oAIMB4Yx+IbWtMR8CEIhwUli7XjbE5ZGWxqY7tqqNF+GcXS4oqRSMjyMQ0azFQk6JLglrDFN0PCa2Rpm9qRa6P6kgXTkSXBPoWpldmsKrptGMB8v+0+6nVJ+P4kvZg6V1azqMdpdVmyV9ezqpitEb9t82zvNn9p0bz9qbmu8gqVgTQntJP5Ze6y5XwJMy01OSULGzWdhbBNr0TR9ofqdrgb60eInx9WtmixPAeT5btraIOeRY9A27gxWJmpuRhPNG9Oz3Q6w==;+loIfhc5ryjZTcdR8Iz4IA=="
 ---
 

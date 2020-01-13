@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4491F3082D7B0E17F050348067DB4804
         width: 700
         height: 525
+  - title: "China using AI, 5G tech to improve travel experience during annual Spring Festival migration"
+    excerpt: "The robot will use artificial intelligence (AI) to analyse the behaviour of people in the station. Known as the world’s largest annual mass movement of people, the peak travel period known as chunyun in China typically sees hundreds of millions of Chinese people return to their hometowns to reunite with relatives for the Lunar New Year."
+    publishedDateTime: 2020-01-13T10:48:00Z
+    sourceUrl: https://www.scmp.com/tech/policy/article/3045827/china-using-ai-5g-tech-improve-travel-experience-during-annual-spring
+    ampUrl: https://amp.scmp.com/tech/policy/article/3045827/china-using-ai-5g-tech-improve-travel-experience-during-annual-spring
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3045827/china-using-ai-5g-tech-improve-travel-experience-during-annual-spring
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.E07FE9303142EBFF1278366FA4FC5BBA
+        width: 700
+        height: 367
   - title: "Is There A Global Tech War? US To Implement Export Restrictions On Sensitive AI Technologies To Russia, China"
     excerpt: "U.S. companies that want to export the software to other countries will have to apply for a license from the U.S. government. “They want to keep American companies from helping the Chinese make better AI products that can help their military,” Center for Strategic and International Studies tech expert James Lewis said about the Trump ..."
     publishedDateTime: 2020-01-05T22:05:00Z

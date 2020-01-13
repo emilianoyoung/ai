@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/15103267
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15103267
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,17 @@ images:
     title: "Artificial Intelligence Platform Market 2019 Global Trend, Segmentation and Opportunities, Forecast 2025"
 
 related:
-  - title: "Digital Diabetes Global Market - Forecast to 2026"
-    excerpt: "Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum therapy options in the patients suffering from ... technology advancements such as incorporating artificial intelligence to manage the diabetes are driving the market. However, privacy and data safety issues ..."
-    publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/digital-diabetes-global-market---forecast-to/article_7a409362-c424-56c7-a666-4638e22b2ef2.html
+  - title: "Influencer Marketing Platform Market Size Worth $23.52 Billion by 2025: Grand View Research, Inc."
+    excerpt: "Advanced technologies such as Artificial Intelligence (AI), Artificial Neural Networks (ANN), Natural Language Processing (NLP), and Machine Learning (ML) provides better search results and analytics, which is expected to guide marketers in taking better decisions. Key suggestions from the report: Read 100 page research report with ToC on ..."
+    publishedDateTime: 2020-01-13T09:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811638
+    ampUrl: https://markets.businessinsider.com/amp/news/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811638
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811638
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
 
 secured: "rhaxSnHQGVX0s+kxisP2jUNLKkRBXxv7NnbAc0vKmHVcq7NCfYOsWXsmy4K8elbxP3QiiWccgc67a/PYdO+MZnA3CYhIrzCuPqVhub23zi4Werv/rUaX2mwkuY3Ioq7d+1qgyO6wmY2PliZ3toEppWKkkZWsAXhxMKhmuop9nrEKSoO/GHHjZsx8RwYuZUi1rhaGgoeN4lQhe+RRGRkYCE12AjmcAmkeSU1kiMv68CbQdQKuYVGYoSUX646HPhHxQWE+gzccdHM+uZD3hzmF2Q==;oed1C1P+8Dgp1FoBsPZVtg=="
 ---

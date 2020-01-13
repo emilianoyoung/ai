@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C8D7D98030DAB5578B9F8F671D0117BE
         width: 600
         height: 315
-  - title: "How AI is Revolutionizing the Banking Sector"
-    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
-    publishedDateTime: 2019-12-24T09:32:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
-        width: 300
-        height: 300
 
 secured: "bUePDX4hXyg3VB419reXiDViYW/k00mXot6ChLlRuy34XAlCS2ievjG0RrYF24u5uhBLuxobLvOCNsrPsDNGxuFgmfBVO1GrwjIb+N80TaFnGDFNqFLgXI3qEZON1DtDCGhtaIXlctTOSoZ4lvdfPOYzDkvFOp0SO2pZB9+RBvB3zZ0TPuL0byia9sfAMtAemU4gSHiixBpEjpVskhOIpzmkzpbNYI1C+7W/GaIzlmjTMqd0gqkaNNqyDX1sTTSh3azwuAQH1X7E4jjqszFuZA==;7sQqsozFr90253OqPOfkdg=="
 ---

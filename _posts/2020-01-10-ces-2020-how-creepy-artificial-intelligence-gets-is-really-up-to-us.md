@@ -113,6 +113,21 @@ related:
       - url: https://www.bing.com/th?id=ON.96CF28EFB8634143492CCB333890EFE7
         width: 700
         height: 393
+  - title: "Reimagining the future of travel and hospitality with artificial intelligence"
+    excerpt: "Over the years, the influence of artificial intelligence (AI) has spread to almost every aspect of the travel and the hospitality industry. Thirty percent of hospitality businesses use AI to augment at least one of their primary sales processes, and most customer personalisation is done using AI. The proliferation of AI in the travel and ..."
+    publishedDateTime: 2020-01-13T10:57:00Z
+    sourceUrl: https://yourstory.com/2020/01/future-travel-hospitality-artificial-intelligence-technology
+    ampUrl: https://yourstory.com/2020/01/future-travel-hospitality-artificial-intelligence-technology/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/future-travel-hospitality-artificial-intelligence-technology/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.BE7CE91D3105F07CD0A6D803E94366AC
+        width: 700
+        height: 350
   - title: "Op-Ed: Using artificial intelligence to diagnose cancer could mean unnecessary treatments"
     excerpt: "The new decade opened with some intriguing news: the journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
     publishedDateTime: 2020-01-12T11:07:00Z
@@ -182,6 +197,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F3AE4E6AA7147C9C64BBCAEC7EDFB7AC
         width: 700
         height: 440
+  - title: "Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG"
+    excerpt: "Additionally, we present a visualisation method enabling clinicians to visualise which part of the ECG signal (e.g., T-wave, ST-interval) is significantly associated with the hypoglycemic event in each subject, overcoming the intelligibility problem of deep-learning methods. These results advance the feasibility of a real-time, non-invasive ..."
+    publishedDateTime: 2020-01-13T10:10:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56927-5
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.46A6C86CAA725D6B886D64387937DBCF
+        width: 685
+        height: 285
   - title: "WB Will Reportedly Begin Utilizing An Artificial Intelligence To Decide What Films To Greenlight"
     excerpt: "The future is now at Warner Bros. THR is reporting that the studio will begin using Cinelytic, an \" AI-driven project management system,\" to \" leverage the system’s comprehensive data and predictive analytics to guide decision-making at the greenlight stage.\" How much of the decision-making will be left to Cinelytic vs human minds remains to ..."
     publishedDateTime: 2020-01-09T21:18:00Z

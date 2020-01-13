@@ -31,19 +31,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
-    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
-    publishedDateTime: 2019-12-24T09:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "xdHRd2xmDSWnmV3JmhVCSSt2AsIWqiTaAdv/VKvpkv9ml0d3VGSp9gP0s1vw8w0/vR89hCUX7IPcfBLWy4cHA9POrrGStglNVYwOuw9cLwe4B8HYhU6F7CPoLk6VG0ls02MbojO1PGRYqDf5jO4nR7deOHSudF8kVXtQ+425iiWZP8EqEbBiC6H/uAy0wC2fTVAS9cArvEymzHlzK4U6HLpNJ2By6y0O0DuI+gzcDgKdWC6j38GVISgn3qQE//gI7og58V81NFmbn0nRq/QHNQ==;IbLhVCtmBtt/fvESBNFGRA=="
 ---

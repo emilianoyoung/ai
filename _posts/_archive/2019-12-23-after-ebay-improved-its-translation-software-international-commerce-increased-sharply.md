@@ -8,7 +8,7 @@ ampUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -26,22 +26,61 @@ images:
     title: "After eBay improved its translation software, international commerce increased sharply"
 
 related:
-  - title: "Machine Learning Packs an Economic Punch: eBay’s Sharp Increase in International Commerce"
-    excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online — a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
-    publishedDateTime: 2019-12-29T18:31:00Z
-    sourceUrl: https://scitechdaily.com/machine-learning-packs-an-economic-punch-ebays-sharp-increase-in-international-commerce/
-    ampUrl: https://scitechdaily.com/machine-learning-packs-an-economic-punch-ebays-sharp-increase-in-international-commerce/amp/
-    cdnAmpUrl: https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/machine-learning-packs-an-economic-punch-ebays-sharp-increase-in-international-commerce/amp/
+  - title: "Google Translate improves offline translation quality by up to 20%"
+    excerpt: "Good news: Google has you covered. This afternoon, the Mountain View tech giant announced that Translate, its free multilingual machine translation service, is now more robust. Offline, translation accuracy has improved by an order of magnitud in some cases."
+    publishedDateTime: 2019-12-19T17:42:00Z
+    sourceUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/
+    ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 35
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.88EFE310AF2E3424F2736D922E841EE1
+      - url: https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
+  - title: "Jarvisen Translator Review: A translator for serious travel"
+    excerpt: "However, it’s not so much the hardware, but rather the software that will really determine how far it goes. Language translation, especially when there’s some element of machine learning involved, needs constant refinement. So far, it looks like Jarvisen is serious about improving on what it has here, and that’s good news. The company ..."
+    publishedDateTime: 2019-12-24T15:45:00Z
+    sourceUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/
+    ampUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
         width: 700
-        height: 466
+        height: 366
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T19:26:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
+  - title: "Invoke introduces real-time translation"
+    excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
+    publishedDateTime: 2019-12-23T10:10:00Z
+    sourceUrl: https://www.research-live.com/article/news/invoke-introduces-realtime-translation/id/5063282
+    ampUrl: https://www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
+    cdnAmpUrl: https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 24
 
-secured: "M+MCNNZk8bJPm/0uPlXcjjIclqTSu+JXG12GoCq0TKlcoParVCYc1c4yZx5VEc6RxCwGJwRrhgu6UoBKGWYiBXB1fOBgV+sd0znkTGTF8dph2ejz9sSRAjzQM3tJ0vVF474S2bNhhBKbq3nkqz9g8MdyGOXSa740G+4HYUOAgfiThWcZb9NOVUNXRAZ/3rXqWV+/yw2aym8SStTbpEFZkLgHJokCsbQOS4N9t2FpEtW7NrLhi7XoH+8yRK+LA0tPcGjUpIUApw7Kml8b85ssfw==;CCr35cZQzmfC/Omj4ZYgcw=="
+secured: "J0G//Dw+gMd5/TToZHTjFRLqqzBSlKZoBS/YO/rHKcUr/rWYaHwxt/d5O9ej2x+ELu2Z8IwfZAqO8+xYrhUdd2YQmrQX4mkFBeVHWI81SCAZ1pnAFqgoWWyRSi2R0vQe6Krx4BR7E4tPzmjY2n7xmhVZY7LU8PMhFFe2O/RDMcTEsjn0OWOrrLu8fDryDUBiTidlojCLuKW8RCzFtcXAPFyxthzaLdAUcXDlbDDNXJ5uZu6ge0T0gQtId1SDjhTmfTQVrNYy1WYTeR6KU1+eYA==;vy5Sj9SvDZ+s/v/hq+DQfw=="
 ---
 

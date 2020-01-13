@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
-excerpt: "The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 43.8% from 2019 to 2025."
-publishedDateTime: 2020-01-13T09:23:00Z
-sourceUrl: https://finance.yahoo.com/news/machine-learning-market-size-worth-090500968.html
-ampUrl: https://finance.yahoo.com/amphtml/news/machine-learning-market-size-worth-090500968.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/machine-learning-market-size-worth-090500968.html
+excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
+publishedDateTime: 2020-01-13T08:05:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://www.bing.com/th?id=ON.E7944AFF37B604D06BED74EE64083792
+    width: 700
+    height: 366
+    title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
 
 related:
   - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
@@ -323,6 +327,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "PI2bSQvB9iL2SNWpnOtNbOGKJhCIc5A4+4kH6NDIx5B/eTw1CvjrJa68bfQK2TfCuWNSLOJrXqPWJHtuIf3/sYzIISe5Z5grWVIIlcW3hXqd2CHMTdxPt941KYyPz3ByUz4GjjiplEGqtqeK7k+BpyHvn/TMy2HECehgZz1De8sjMWsOpk07y0aET1gPO5FsW2Py8vPHLOf9uOnYCbZ/UWnWxe687XaNX/mmc551Jm6LUGr8pyavZI4MhKOLO+wWhl1LdetHvIoyxV2gm8hmyg==;tLWlbFUIWoyw9DHlfXqMgA=="
+secured: "PBt8lyIympZlIF50YpBrMYAVqQ4yNgfw/Ps0b9zgf9DRam5oxhi+zABscRUgZS+L+ygzR3P+IYRVy9kBXFaLFQPI4gHfPV/agwkHYGYcqp4c7akKuI9Psauz2+2xy8iOtV9wHNm3IJ3vDT5yQiPmwvzZHMZ7xOxufbWzJZ2Qj+I9xogf5IDp+TwDFmOs4S9gZGsMwc2zyLZIP3z56/BB8GoNhCWF6p/fDS17HOrch5DGE9g+dzn951F6iW6Kok/SWm7bgUl+M9QsqxN/ZGhslw==;giXsq+VJadzkSuRx0Xh1yQ=="
 ---
 

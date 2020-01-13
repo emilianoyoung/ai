@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4491F3082D7B0E17F050348067DB4804
         width: 700
         height: 525
+  - title: "China using AI, 5G tech to improve travel experience during annual Spring Festival migration"
+    excerpt: "The robot will use artificial intelligence (AI) to analyse the behaviour of people in the station. Known as the world’s largest annual mass movement of people, the peak travel period known as chunyun in China typically sees hundreds of millions of Chinese people return to their hometowns to reunite with relatives for the Lunar New Year."
+    publishedDateTime: 2020-01-13T10:48:00Z
+    sourceUrl: https://www.scmp.com/tech/policy/article/3045827/china-using-ai-5g-tech-improve-travel-experience-during-annual-spring
+    ampUrl: https://amp.scmp.com/tech/policy/article/3045827/china-using-ai-5g-tech-improve-travel-experience-during-annual-spring
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3045827/china-using-ai-5g-tech-improve-travel-experience-during-annual-spring
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.E07FE9303142EBFF1278366FA4FC5BBA
+        width: 700
+        height: 367
   - title: "Portland, Maine, Leaders Cite Benefits of Face-Scanning Tech"
     excerpt: "(TNS) — The leaders of four city departments are extolling the potential benefits of facial recognition technology and downplaying threats to privacy ahead of a scheduled vote Monday on a proposal to ban use of the technology by city officials in Portland, Maine. Officials say the technology is not being used in the city at the moment."
     publishedDateTime: 2020-01-06T20:38:00Z

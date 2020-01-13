@@ -24,21 +24,32 @@ images:
     title: "Digital Diabetes Global Market - Forecast to 2026"
 
 related:
-  - title: "Artificial Intelligence Platform Market 2019 Global Trend, Segmentation and Opportunities, Forecast 2025"
-    excerpt: "“”Artificial Intelligence Platform Market”” WiseGuyReports.com adds \"Global Artificial Intelligence Platform Market Research Report 2019\" reports"
-    publishedDateTime: 2020-01-10T08:10:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15103267/artificial-intelligence-platform-market-2019-global-trend-segmentation-and-opportunities-forecast
-    ampUrl: https://amp.benzinga.com/amp/content/15103267
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15103267
+  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
+    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
+    publishedDateTime: 2020-01-10T20:05:00Z
+    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.6E354FA1079753A1B44B8B9AF6E85E9D
-        width: 278
-        height: 333
+      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
+        width: 700
+        height: 490
+  - title: "Here’s How Artificial Intelligence for Edge Devices Market Growing by 2029 | Arm, Alibaba and Apple"
+    excerpt: "Artificial Intelligence for Edge Devices Market is growing due to the increasing demand forAutomotive, Consumer and Enterprise Robotics, Drones, Head-Mounted Displays, Smart Speakers, Mobile Phones, PCs/Tablets, Security Cameras will fuel the growth of the market. The prime purpose of the report is to present a comprehensive assessment of the ..."
+    publishedDateTime: 2020-01-11T05:50:00Z
+    sourceUrl: https://apnews.com/Wired Release/5a2e4d5ef832bc8b19dee0737e049865
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "bJ2W4ipPa6zs1fpk5xHNeDYAZdW1+CO9uu1q1YVV9wveg/kT4zrcZK+AhAyeH4hkBJNe6F2atlbvE0nHp9xs+27z56qWhNtf4+CJrTfKccZdZxTphAgLAduGi7ccFiOFS3a8obOsPgQNtjN54kMsUW893edzmT4B+yj8SquBaGZBpMhTJQX7/8UczhH+2dmS2j4LPSM1JXbcgYjtFIeGW+7pOqL4z94k44956x9QewBgabT8PO8Vr+izKYL1i0wQBcvPaJlfUMa3VWA4B2m3MQ==;k7ls7Bd+miRTbzfG7g7sUQ=="
 ---
