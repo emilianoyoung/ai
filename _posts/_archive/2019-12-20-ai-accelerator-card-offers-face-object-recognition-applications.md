@@ -69,6 +69,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "ODzO4sZXWpO9+BuFiyB1W7um8j1QYVaiaZoKYmHNXFRNQVf1Eb4yIVDX2veRhmtCDryBHiPwc6r4a3i2iMMZpG8ONfp3m5lG7o/lYlDpE8CeQi2eqNaKCz5F21Zry0IbF9Auc0hBtY1hM8C6flEL2Q2mJ+QD3/TBtQ6DWo09xbl/2SDsrxVVAGeMA8QbS12j4nb4atpll+edH/cqJVey6g1nEQ//l8QH844oSzYy88BVcZiNlE/teK8mF8tZtPZhBXSjtdcv8LPk58XK7MLefw==;4xQlUNJKLbI/URMFvyaI7Q=="
+secured: "B2unZDKYi4ba7gTOONVq5vRsehtlW/S0N8TMvo6h11ZhVqVz/OmI3XA0V9A/pmHwDGHnjyWUxFXIncFsqXPd8Zz9FiY3rcMQBz1e5QYmhtm8ygcFkl4qb3XgMd09QAMbGB0ers3mf6MRif/TaiKECL8tREDVcjOjvHdFojs6C3XqcD0ZvlUBTA9G0pLesCb6h/X8auV+swMSlAKDCHuuAkKl7oIJkkh2LzvFMXZI8WjjgT25od3zKYc/pJRpmf4Hokrk0ifhuhIZ3uUERVcFnA==;XBZ2LJYFdP6fvzCnE2mwoA=="
 ---
 

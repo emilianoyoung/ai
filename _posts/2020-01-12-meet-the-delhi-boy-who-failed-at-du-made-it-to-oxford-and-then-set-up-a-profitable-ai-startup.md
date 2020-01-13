@@ -24,21 +24,6 @@ images:
     height: 350
     title: "Meet the Delhi boy who failed at DU, made it to Oxford, and then set up a profitable AI startup"
 
-related:
-  - title: "Welcome To The Machine: The AI Revolution Comes To ETFs (Podcast)"
-    excerpt: "Artificial Intelligence - and the machine learning algorithms that underlie it - is showing up pretty much everywhere these days, so it's no surprise that there's now an AI-powered ETF firm, EquBot. EquBot's founders, CEO Chida Khatua and COO Art Amador, join Let's Talk ETFs to explain the inner workings of their AI Powered Equity and ..."
-    publishedDateTime: 2020-01-12T13:21:00Z
-    sourceUrl: https://seekingalpha.com/article/4315732-welcome-to-machine-ai-revolution-comes-to-etfs-podcast
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.65E239BE94010E441B7A70EF511676D1
-        width: 700
-        height: 465
-
 secured: "zh5Ta+rIROz1weZnGdbcnoCCXzrFTE+++6NRiEECrCHkpjgT40IOWxZ/DPszNQLR5pRIs9AmIZhQutJILFV/4UF3/j0tozIjw3NcV3diVt/nVsi25joz57PT1/qXcyLZZDLK1hWZuxZv3pl1XpJH67llyHDF8WlMhQ9C+fUJge8yXnAcPHwJiTusVb3jzepmW/MPq/P3319dZ5zSkwiHayiTeq4ucbAKPP5wWwshil2zQdsm5nNqLvKoLbpgihvOC1EKOaa3E7mM5Nc0oklGAQ==;xiJFX2VMinFYWE2VmT/wQQ=="
 ---
 

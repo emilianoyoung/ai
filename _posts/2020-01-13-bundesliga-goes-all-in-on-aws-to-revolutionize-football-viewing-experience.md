@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Germany's Bundesliga has selected AWS as its official technology provider to deliver more in-depth insight into every live broadcast of Bundesliga games and enable new personalized fan experiences."
-publishedDateTime: 2020-01-13T12:32:00Z
-sourceUrl: https://finance.yahoo.com/news/bundesliga-goes-aws-revolutionize-football-120000865.html
+excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
+publishedDateTime: 2020-01-13T11:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
 
 related:
   - title: "German Bundesliga selects AWS for personalised coverage"
@@ -32,6 +42,6 @@ related:
         width: 700
         height: 392
 
-secured: "yzOAo3hrZGs3KaiPsBugjnhI86j85RK4ECg/LV80DGLKRpG4iXkedaEecbknxefGSWABX6TPGRSjxZN+0iuUOfoiWPLwKu0CID2sNI+QeCyOEKj1q6s2xJqftC4F1vaeH4JQI6HI3+eoj2JbNeG7ZN8ys7zPgkBUJqQy99tz/0C28zoxj+f6IIZZcucs5+IhF+9N2Y5MbdxMnaZ8uwj+jOdeXAcZX5loLquDj0qKeD9Q2jBNLP/30K5Ls/kixWHZQhnUraNUytt0XQoplA/8xQ==;JmzC6aKK80nK+hZvyzkMVw=="
+secured: "CUD+MXzOvMf/l9A9EkxX5McDmAh6oX+CpUffVedR1HeB2KlPvP0UTpcGH/1vDG6ivbFJTG+GUooUq+z7GXC/t+w9/FItE+fUCrszxe3Kdek0JS66QVgL4Eer6BbQuI/JjymSRgjD1g/V1IJGQPATApU2HL2qR6XgzoyOUaHfUkl8O3/m0j8Ud3191VJOoTrqVIpd4hitokIU7TCJoTF38aQSZ2UezWATxRmxXR+2/aecTpM2lXb3FOvL2YKVrYR5d8rOSKaIRzkutYFOTtaEjQ==;mxG1tetuVuYrCAOZXPVFjQ=="
 ---
 

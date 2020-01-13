@@ -22,21 +22,6 @@ images:
     height: 525
     title: "5 times AI replaced humans in marketing in 2019"
 
-related:
-  - title: "Five times in 2019 that AI replaced humans in marketing"
-    excerpt: "Are you a print subscriber? Activate your account. By Ad Age Studio 30 - 9 hours 6 min ago By Garett Sloane - 10 hours 15 min ago By Drew Kerr - 10 hours 31 min ago By Garett Sloane - 10 hours 36 min ago By Jeanine Poggi - 13 hours 43 min ago By George P. Slefo - 4 months 2 weeks ago"
-    publishedDateTime: 2019-12-24T12:30:00Z
-    sourceUrl: https://adage.com/article/year-end-lists-2019/five-times-2019-ai-replaced-humans-marketing/2221871
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.CF28A957EC7D420726675B61B68D3446
-        width: 700
-        height: 525
-
 secured: "prnRpLLAFt+UWJgO56/pF1FOiYUYE1DL52NRbJ8uY6rbJNHCqGb8Zz6UVRucHNzp6NJEUVWx/FqtOho6svnTcoM0yqI+cYpMjmHuv/yCJjT5sSkzL/l/wRPxe3doW+hsKz74Ms6Rj5XC0XskQsWHBwKSrsrPdFN9cyqRjN5j7W6VZzTP4jpkq32Yh4kRybWlRH2ST3Rwd012eix7JYFGrilA6pn6HRoOY2ySSr1NtHj5YZhPuRrepJLABTKihdLsiOAkVHYB8RwswUyEbHvV1Q==;zOjETTVCSU7HjOERYUb5Og=="
 ---
 

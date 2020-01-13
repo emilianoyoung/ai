@@ -60,21 +60,8 @@ related:
       - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
         width: 700
         height: 465
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
   - title: "Invoke introduces real-time translation"
-    excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
+    excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run ..."
     publishedDateTime: 2019-12-23T10:10:00Z
     sourceUrl: https://www.research-live.com/article/news/invoke-introduces-realtime-translation/id/5063282
     ampUrl: https://www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
@@ -84,7 +71,16 @@ related:
       name: research
       domain: research-live.com
     quality: 24
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
+    publishedDateTime: 2019-12-17T19:35:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 11
 
-secured: "PKoEzz2p1ehDt1EdDlyRmEuJNaqgOkmK1HBPiV+TrP/SMbuE0RTMg9ej0EORArnMURQpQmw/yaPoI0+L7CfjP24XZhmMMVA8yY1kVVsSt9NxSstFZoNCAMhfxyq3kempZdukaunWsa866K5/F/AIqeSS4VO9MrIUnHVPHAhQ8qySHC92y/CDCGtquD2PFzrXHJlEVOY1JfiWx20vU02gp9AahYGmHUUUMZTaLsWPW9+uBgh+fqfAGI/5nOs1eQiEwKdbkivNHsTR1yzm/F+vxQ==;+/R6kl/S+w/ACDJwGkD2hw=="
+secured: "BPihnl8j0NJdBiEVHgQzNZmFePT+z9j7gTnaF0y/SVNIDEEZaAgnjEPhmr/wJpOal6/tpqDFwPSGgC9QWzcRCGLSybx+1AtiZhtPYmg0bbW5xozNIsCez34KjhDh2R8h8OepBVto1fSxmqA/r+2jeIE61/R3KW30Rq1VAvhuzC1zyL7BEu5TwTd+4j4pPLsT1nZUS56TjFCqZT9E1i0QKXjNfrPkVOMqoXHIv7g2j1H7hpRxo8V4qdQqepjk7xQcbp+ZvDEcD2Ue/WvaSCE/xA==;8q1CT/ljr68tYq68yQSiTw=="
 ---
 
