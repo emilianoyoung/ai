@@ -252,6 +252,17 @@ related:
       - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
         width: 700
         height: 466
+  - title: "Half of UAE residents are likely to buy a self-driving car in the future"
+    excerpt: "Men are more likely than women to own an autonomous car and many consider it safer than its human-driven counterpart If it were easily available to them, half of UAE residents (49%) said they are likely to own a self-driving car in the next five years, close to a quarter (23%) are unlikely to do so and an equal proportion (23%) are unsure ..."
+    publishedDateTime: 2020-01-13T06:00:00Z
+    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Half_of_UAE_residents_are_likely_to_buy_a_selfdriving_car_in_the_future-ZAWYA20200113054509/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200113054509/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200113054509/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 23
   - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
     excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
     publishedDateTime: 2020-01-08T11:16:00Z

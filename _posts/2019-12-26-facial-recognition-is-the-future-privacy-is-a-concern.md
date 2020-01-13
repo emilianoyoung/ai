@@ -228,21 +228,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
         width: 700
         height: 367
-  - title: "Chinese art exhibition on pervasive facial recognition"
-    excerpt: "The exhibition features a facial recognition system that visitors can opt out of, to draw attention to the inability to opt out in public"
-    publishedDateTime: 2019-12-24T05:30:00Z
-    sourceUrl: https://www.deccanherald.com/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    ampUrl: https://www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1341BC3345DE02EC555F0CADE9141EFE
-        width: 700
-        height: 466
   - title: "Facial recognition technology needs proper regulation"
     excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
     publishedDateTime: 2019-12-28T15:15:00Z

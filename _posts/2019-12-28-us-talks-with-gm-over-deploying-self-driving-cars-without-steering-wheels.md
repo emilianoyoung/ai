@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
         width: 700
         height: 396
-  - title: "Honda wants to reinvent the steering wheel with this self-driving concept"
-    excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
-    publishedDateTime: 2019-12-24T05:14:00Z
-    sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
-    ampUrl: https://amp.jsonline.com/amp/2735603001
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2735603001
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
-        width: 700
-        height: 394
   - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
     excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
     publishedDateTime: 2019-12-24T15:32:00Z

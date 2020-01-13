@@ -1,35 +1,40 @@
 ---
 category: news
-title: "What it’s like to ride in a self-driving Lyft"
-excerpt: "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app, I was presented with the option to travel in one of its autonomous cars, powered by Aptiv. Lyft has been testing these vehicles in Vegas since early ..."
-publishedDateTime: 2020-01-09T11:00:00Z
-sourceUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/
-ampUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
-cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
+title: "Half of UAE residents are likely to buy a self-driving car in the future"
+excerpt: "Men are more likely than women to own an autonomous car and many consider it safer than its human-driven counterpart If it were easily available to them, half of UAE residents (49%) said they are likely to own a self-driving car in the next five years, close to a quarter (23%) are unlikely to do so and an equal proportion (23%) are unsure ..."
+publishedDateTime: 2020-01-13T06:00:00Z
+sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Half_of_UAE_residents_are_likely_to_buy_a_selfdriving_car_in_the_future-ZAWYA20200113054509/
+ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200113054509/
+cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200113054509/
 type: article
-quality: 74
-heat: 254
-published: true
+quality: 23
+heat: -1
+published: false
 
 provider:
-  name: Quartz
-  domain: qz.com
-  images:
-    - url: /assets/images/organizations/qz.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://www.bing.com/th?id=ON.4715F38D382F3E87B5BF3B7B0657E1B5
-    width: 700
-    height: 394
-    title: "What it’s like to ride in a self-driving Lyft"
-
 related:
+  - title: "What it’s like to ride in a self-driving Lyft"
+    excerpt: "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app, I was presented with the option to travel in one of its autonomous cars, powered by Aptiv. Lyft has been testing these vehicles in Vegas since early ..."
+    publishedDateTime: 2020-01-09T11:00:00Z
+    sourceUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/
+    ampUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.4715F38D382F3E87B5BF3B7B0657E1B5
+        width: 700
+        height: 394
   - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
     excerpt: "One of its top executives explained lidar fills a big sensor gap in its suite of autonomous driving technology, and it makes driverless cars a viable possibility. Self-driving cars need to paint a highly detailed digital image of the world around them in order to operate safely and reliably in a variety of different conditions. Bosch has spent ..."
     publishedDateTime: 2020-01-02T13:48:00Z
@@ -258,17 +263,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
         width: 700
         height: 466
-  - title: "Half of UAE residents are likely to buy a self-driving car in the future"
-    excerpt: "Men are more likely than women to own an autonomous car and many consider it safer than its human-driven counterpart If it were easily available to them, half of UAE residents (49%) said they are likely to own a self-driving car in the next five years, close to a quarter (23%) are unlikely to do so and an equal proportion (23%) are unsure ..."
-    publishedDateTime: 2020-01-13T06:00:00Z
-    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Half_of_UAE_residents_are_likely_to_buy_a_selfdriving_car_in_the_future-ZAWYA20200113054509/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200113054509/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200113054509/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 23
   - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
     excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
     publishedDateTime: 2020-01-08T11:16:00Z
@@ -283,6 +277,6 @@ related:
         width: 700
         height: 525
 
-secured: "zBdV14ZrYK/yrCFuhTuuArLxLmhXMApA5NWLXKRm/T+GU7BPb7tyA3cd+NBChH4dPdVz4aTsDKhoZaQxwTswYN+sbVZD5CX5qV9vxHuJs0oQMNfeP5gfCIKKjWcJLkvMyMZyIuJg/3zXyXE0FArB+I9UOfHopwQ8af44EgBy6cjFBDcELMZ1ehmJrl4UqW/T6ia2x2mP85lDSeTBiPADBXwpCGlI/v6Yu1dHT502swnumpo/TZmvbOnuhkq3Bbe6pTM/VdSJqlO/3czSSm6yHg==;m5caUQVuLuPp2N2+eQiVAA=="
+secured: "Of29ingQpCUDnQTSoAm/9i4JB9aYAqQpo2lbl4urKyEZUSzoyRsD6tksQFwoCE6IjgZ7bIfsdY6RDthk4D8Ytg0qj4KiPx/tJgDhLXd/TNc5fHJmCqDolGJopjRvn+aFIhdz9BhmnvHc4h2KLCzWgBK1iLdqv52W5Kh2cUN9mXu//SshVyBpqWvjF1TH7wep564EOi1D19oX6ab7k4Qy1gnUUH7YMQUb2q/f7n8gIWdOq48+uyAOzaYo+E2+K3W9j6ZODzwk5kxkCcAd2NIN5A==;aO7Hthal5KLJkr8gCTUj4w=="
 ---
 

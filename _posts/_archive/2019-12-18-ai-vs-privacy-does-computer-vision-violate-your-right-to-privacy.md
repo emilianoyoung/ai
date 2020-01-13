@@ -29,6 +29,6 @@ images:
     height: 640
     title: "AI Vs. Privacy: Does Computer Vision Violate Your Right To Privacy?"
 
-secured: "Fi15iJG28oztdrNa9VpQKcpETzGthNCeBFuuEDiZpvAYeU2vkuUeBV0ENIcN6LOl+l46gTIyiV98yCECRVFe4aIbtEZI2i+UdqToJrBrdADpaQ+4mAjTrMO7qBr6LkD0MqrpxTiuX/hSg2kOx9c6x8gvbL9Tir7i0ThnBVp8znwDUEiGvzUIZfPd7/8IUxzsSx00tI8sj8kl90yzEijxGY4H1P2WlDkilCtOxLywny39msJvaaKyC/FEB86asssHpFLQi0PzyzT3Vm+qZ4JwlA==;aVaodIhpJf8dIE8ilDi7cg=="
+secured: "h72NwdB21ISfv0fo6MSoKRzJo2RU2+ItrsXNdML8hiC4fnccvfunXdIDS23MfT4naB8DreuucPl8TVK7KB+xwzXHJBrmTlHwRoXVYdjwVzGw5bq2FCa4u01NnnEI7cKmc4NpkaBnG5wzaQqTIz5dbzyHM8SDSWgw6Y23KWOuSpM1PSe3Q5DeH+v73wAywcpjtGLytEEqt58HnG/rCZbD//RXmHwZWS/Rqq2VcieVqNHRI/eyhaxZPN5/AESJrzzWVRL8tzTICQVMjqISmsXR3w==;Fum3oY846jBNYvPAkXv4yw=="
 ---
 

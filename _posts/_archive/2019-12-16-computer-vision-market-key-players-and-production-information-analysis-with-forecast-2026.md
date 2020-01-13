@@ -61,30 +61,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-    publishedDateTime: 2019-12-24T05:45:00Z
-    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-        width: 700
-        height: 393
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -95,6 +71,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "G0k/QbMR8dJGGoa2rC6dvWifxHxM+k4KrzSgH4JcUaZst6TLTbR7NE5QIlucMOihq1nFhc1bwA3htyDE/yv6N6h7HqbifixKp9Q5481zNlPcK8kbpcTz5SP62lpovM7cpDRypwcBpnvL4D+Th8CPQ8/4g3dcvOwX5CZ27v7qpTnwksc8gfToSXAJD8eavC8M67/leHdk6n86za8sQ3z4Lo2dsiwzweRT7WFmLBa44Qkkye6czOSpbdiQvlK5HRs/ZWW7fyozKrNuH9VS7klk7Q==;SqGjwZy+mUuLiwvoEI4pyA=="
+secured: "CfJ6QqkeLxru+rJ+0w16xxvXGe5LBSJLkp7TCArSwNxQKEOWYwHJsy/H7Wfu9x2X/ARXn0+iKRyId097WPVGapAxJnQks0rLM218qye0BS/w4xoqcBCTwtTwUChcHm5dZVc6UPByiPIYWMR3+QLgjRFPc9nrkSkYv4Hb0OGke4s2X/B10J+7VbOxE+dlMzLiDx6j9p0vhhBPvJoDEbB8qMSk0RccYfEElWbO0uNExhsR3JEQqzfBZQkf1K397zz8Lv9An1aHTA8ujZN64SVTZQ==;ET1MugFMCuYvtEWeukjWog=="
 ---
 

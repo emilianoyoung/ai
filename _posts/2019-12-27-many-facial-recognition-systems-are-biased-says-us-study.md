@@ -228,21 +228,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
         width: 700
         height: 367
-  - title: "Chinese art exhibition on pervasive facial recognition"
-    excerpt: "The exhibition features a facial recognition system that visitors can opt out of, to draw attention to the inability to opt out in public"
-    publishedDateTime: 2019-12-24T05:30:00Z
-    sourceUrl: https://www.deccanherald.com/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    ampUrl: https://www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1341BC3345DE02EC555F0CADE9141EFE
-        width: 700
-        height: 466
   - title: "Facial recognition is the future, privacy is a concern"
     excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
     publishedDateTime: 2019-12-26T07:45:00Z

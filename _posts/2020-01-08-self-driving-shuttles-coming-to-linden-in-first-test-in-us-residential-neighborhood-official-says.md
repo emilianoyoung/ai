@@ -267,6 +267,17 @@ related:
       - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
         width: 700
         height: 466
+  - title: "Half of UAE residents are likely to buy a self-driving car in the future"
+    excerpt: "Men are more likely than women to own an autonomous car and many consider it safer than its human-driven counterpart If it were easily available to them, half of UAE residents (49%) said they are likely to own a self-driving car in the next five years, close to a quarter (23%) are unlikely to do so and an equal proportion (23%) are unsure ..."
+    publishedDateTime: 2020-01-13T06:00:00Z
+    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Half_of_UAE_residents_are_likely_to_buy_a_selfdriving_car_in_the_future-ZAWYA20200113054509/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200113054509/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200113054509/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 23
 
 secured: "S4uhAVngoLEAwfDx1mObX5xGt8HTJL2RroCwHkOFyLL9IfY4OOC+Q4bx73wI9kFEbfbX3YyR8FyxCuA6KF0xBOCztUvgkdJxWaMAiru+/WaveLtfLqCS6/VEhvrNkkJNRsvKNzlroQQxr77mlbnaRCZseD7O9qK2cQYTs4EgJFXhqYJb8v/537JrkeyJf0OL/NMb1Vz7RXlUJ0l7BpXxqfrD79MidXZg20fS3rbNx3c2kWp4egQVjntu4WU+7kc4J/CciAGqGaDOuvKYvr5cLg==;xuyteWaaS0FzJ6Tbo72oIA=="
 ---

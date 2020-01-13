@@ -54,30 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
         width: 640
         height: 433
-  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-    publishedDateTime: 2019-12-24T05:45:00Z
-    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-        width: 700
-        height: 393
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -97,6 +73,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "tp+t/oWzN/qRpB+4dJrYFp4ulAZx4tUiDYRchkflO0is6RI0DKQQyvipjtbhdkCeR0YrT6nQsySuH65onpmxcg4PGiDg9YyVOZFHanuVnYZo3b6Vbmd0XXYwuUwHqy8S/D07rk3oPqKve6Jf/jqlX5DWvDKktJyCUao0I+zoRXGDpXuv/KR0X+4IjfMSWaL0Wfhup7UpTCV+oZevJ/AKTfRLVust01rYXLgATaN/SBwV/5nqSFvjvNT1puK26Elm1gInMfpwl2/Ja0oOAwY+yg==;QZxJ/dbixYBrCqf/YwpiSA=="
+secured: "3EkoSDt1RrN7zkEBG4k0mbW3LaSJ1SAn/dzdarC8F6G9jiDO/ARdlNWILm81OP4KV3wSg7U2jynvU3HgJPc5mq4pUCVkYajWuy2bLhtYlMY0QNGFPbhVib0DFISjh1Ws9IwB5qW84iWU9gDJDBFMe78JSZYrni56nMmdWitrv88DyDDKIavQfMzAo8xJ3nCaPB2t9uSPgd2mXiMs2M0eNTNlsTVu2hnIzRFTL+gMwXchvqIIlFUhQX9/5XYN3JpH9zqTBlbA698wwJB5Y6EeUA==;qXbkEczA363Ftep10e2YNA=="
 ---
 
