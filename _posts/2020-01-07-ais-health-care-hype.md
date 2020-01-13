@@ -8,7 +8,7 @@ ampUrl: https://amp.axios.com/artificial-intelligence-cancer-screening-d0482e55-
 cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/artificial-intelligence-cancer-screening-d0482e55-5c47-457d-ac14-01c70129074d.html
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "AI's health care hype"
 
 related:
+  - title: "Crouse Health brings artificial intelligence to stroke care"
+    excerpt: "Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm focuses on using applied artificial-intelligence software in health care to “reduce time to treatment and improve patient outcomes,” per Crouse Health’s Thursday news release."
+    publishedDateTime: 2020-01-09T21:56:00Z
+    sourceUrl: https://www.cnybj.com/crouse-health-brings-artificial-intelligence-to-stroke-care/
+    type: article
+    provider:
+      name: Business Journal News Network
+      domain: cnybj.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.19C1E68506836B08D95A29A8304B883A
+        width: 400
+        height: 300
   - title: "Health Care AI Increasingly In Crosshairs Of State, Fed. Gov't"
     excerpt: "including through partnerships with health care providers. This new field — sometimes termed HealthTech — often focuses on developing new technologies to improve patient care. Many of these new technologies rely on artificial intelligence to help distill insights from massive datasets, including data about patients’ daily behaviors ..."
     publishedDateTime: 2020-01-09T19:43:00Z

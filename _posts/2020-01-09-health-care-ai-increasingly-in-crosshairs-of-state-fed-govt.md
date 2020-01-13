@@ -35,6 +35,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C19F5EBE8631676A2D972E708B42FF5F
         width: 700
         height: 393
+  - title: "Crouse Health brings artificial intelligence to stroke care"
+    excerpt: "Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm focuses on using applied artificial-intelligence software in health care to “reduce time to treatment and improve patient outcomes,” per Crouse Health’s Thursday news release."
+    publishedDateTime: 2020-01-09T21:56:00Z
+    sourceUrl: https://www.cnybj.com/crouse-health-brings-artificial-intelligence-to-stroke-care/
+    type: article
+    provider:
+      name: Business Journal News Network
+      domain: cnybj.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.19C1E68506836B08D95A29A8304B883A
+        width: 400
+        height: 300
 
 secured: "pPGs/57NTZTHsYYln3adEasSg53B0/7uBVl24bdqH3fKoio8iNTWR9oPQBbYqcYX8udytP4Cbk1WJjVIhJsA59w90x8cJPJf9q1E3pfMkjnUEOD0ASQBw6CKqkrHfjTV+xTNNocY7NDvsCt4JtL3JOVdVZqs0HMsOkoT4JGNJbnV4x0Li7IEEuSbDr101XPdjXAjiPZZn5PbAismHIxjAz2easLD++MiUm1pLvB8RobWNiyEnYkDz2QvMOu28YgdJwfaZjPdXFG7IKCx6Ilbtg==;7yDMygSljivLBnlmTwOUWA=="
 ---
