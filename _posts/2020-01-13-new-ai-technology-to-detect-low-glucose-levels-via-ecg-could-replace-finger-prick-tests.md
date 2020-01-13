@@ -41,15 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.60ED460303DE102FF3906715860BF6EA
         width: 700
         height: 379
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-13T16:57:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
+  - title: "AI can detect low glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-13T14:58:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
+    ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.64B4FC51697A9E1513392E735C0FB502
+        width: 311
+        height: 236
   - title: "AI system detects ‘hypos’ using ECG readout"
     excerpt: "Researchers from a UK university have devised an artificial intelligence (AI)-based system that can detect low glucose levels ... Based on this information, clinicians can adapt the therapy to each individual. Clearly more clinical research is required to confirm these results in wider populations. This is why we are looking for partners.”"
     publishedDateTime: 2020-01-13T13:22:00Z

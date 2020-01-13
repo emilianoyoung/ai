@@ -21,16 +21,14 @@ related:
   - title: "Technological Advancements Expand Biopharmaceuticals' Production Capabilities"
     excerpt: "NEW YORK, Jan. 10, 2020 /PRNewswire/ -- The biopharmaceutical industry is driven by multiple factors, all while rapidly evolving in the digital era. The need to engineer drugs to treat emerging diseases,"
     publishedDateTime: 2020-01-10T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/technological-advancements-expand-biopharmaceuticals-production-capabilities-2020-01-10
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15104468/technological-advancements-expand-biopharmaceuticals-production-capabilities
+    ampUrl: https://amp.benzinga.com/amp/content/15104468
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15104468
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
 
 secured: "Hl01UHnmSahXe7DMSMVrJ25nL225OBgJvvs6srhzMa/wqUPL1op4uyZpvLuRNIcjpRiAVg8tkX46dZNBLy3Ra5MN0wIREW/Q0p/AtC3ww0nbtr4X+F3/XpBIMwHG03knjDiUtD+Zt4KQzPKgEAbANWPjBLAAnQkftgvBWbwos91CjBRvlfHDVATuzq+blVU1BT9WwjoX3tD1Ai+5j9sBBSKCsDorjjh0smxop8z8mfm19wRABS2ODi9EaQmhUkE6J4hN5L7hlaV/1JYqoW14Uw==;jnSfKOrCNjGfgORvSBmGmw=="
 ---

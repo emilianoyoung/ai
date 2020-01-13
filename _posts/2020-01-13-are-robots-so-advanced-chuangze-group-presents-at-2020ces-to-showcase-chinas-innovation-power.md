@@ -23,6 +23,6 @@ images:
     height: 359
     title: "Are Robots So Advanced? Chuangze Group Presents at 2020CES to Showcase China's Innovation Power"
 
-secured: "6/CiH7eVdsB3W+PO5wUpbujLvDnpuVgSZsnx5k8lHuryxDl4P9wXd06k0sM8WCceKW1knimNSoVRAbP8SL2eCgCVZcFBiv3JLBTAqZmrQyPTzKoinkTJlydvOC4WdssrWeO4q+oD/hG466/N4aXaTsFIHpwtEQi3JUJ9WipO0FC1NIowfIbzEUhxL/V/PElSm4L9oI0y8UwqxBXuAe8KYe6AURWjuC1zsjpOqiVRCfxNvndi1cmLRpcj8rFidNXu4RcJ1PuRfs8JvWf6Z+YO/A==;I2IRNfS0STI/t+2Mb9JVew=="
+secured: "Qd0Cit1wRM8sK3qu0Dl4jGu28qJxTl31gAqgBk65Rg+meMj6NfxOnzY9GXv7n8kJ5zmPxmTbnuryPcgYq3ebXEZtLsnHOgoM4+PCRV+sr3XsudZS11nY0navNSq7N6v+2HW+Hj4XpYLQYvQNMERB4V+lzvdNNSjhVYuBUODqA82G56A9GXLOhwroYRNo0mzGFLQAkOwzQklxsdBlun2ajN0ColKcCfI13UYG5GGSxJhs7jQ937+9wkFAuPRuYChtVqCg4p7ioGnmA2d0ALc2JQ==;hlvzLugj2o+Og6U/neq4+g=="
 ---
 

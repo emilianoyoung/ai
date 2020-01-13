@@ -93,6 +93,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
         width: 700
         height: 393
+  - title: "Researchers create robots made of living animal cells"
+    excerpt: "Indeed, Bongard and colleagues note in their paper, once refined a little more, the process of creating these unique living robots could be fully automated – a product of artificial intelligence and machine learning that requires no human intervention at all. For the moment, however, a level of direct intercession is still required."
+    publishedDateTime: 2020-01-13T22:01:00Z
+    sourceUrl: https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells
+    type: article
+    provider:
+      name: Cosmos
+      domain: cosmosmagazine.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C30882BCADC02E6DECACC33A390D17E7
+        width: 700
+        height: 525
 
 secured: "QVAcf42VUGzcbpLXEA0nTmP+nGMCOBPwLC0bgFImfDuNqQhdg2sMGtcbLuJvcjSXUxmvaHLaimeb1YNH7GHrtluPRFTqp9Q2S/mGTQ1yTMjZ+qqHhg8pPvI+5og6Guvm55wlA98WPZ9Uzd690zNwWYIMtxkuc6D3r5D15OGPYDgnl2IdknU0edXD0W+FPbq0sXGbpDgvwnZCLIiYbB4NN8/hCfkqGTi55Y4VMBUFVbDhRv1gWK40ReqtYgwq5MUn/JR/npImYmKySEXNYBh65g==;ONNkLNEMPoCQULspu78mYg=="
 ---

@@ -53,6 +53,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
+    excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
+    publishedDateTime: 2020-01-13T21:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
     excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
     publishedDateTime: 2020-01-08T11:48:00Z

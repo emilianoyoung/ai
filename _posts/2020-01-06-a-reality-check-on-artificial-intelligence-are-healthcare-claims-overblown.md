@@ -1,11 +1,11 @@
 ---
 category: news
 title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
-excerpt: "Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag ..."
+excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
 publishedDateTime: 2020-01-06T06:37:00Z
 sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
 type: article
-quality: 68
+quality: 51
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - AI Ethics
 
 images:
@@ -134,6 +133,6 @@ related:
       domain: heraldscotland.com
     quality: 34
 
-secured: "dmT34qTMn9S3e+4+zI2uRCWuGdz56PKBO8KDDZJJIt+1sYcIeI/NcAq0NbgZAupBwmQV0qKlSKGCpaMwYoG06uxjcLPQx4sSQHW31Q0499YSvva6rcD2pxjy3Wg4BQHyVcrn53ktj5DLh008QNP6q7+O82DROEbGPALknVgpwfwKszr6+Q8EDwaojh80gp4hxf3RdKV5B/P0Om3lxg5oXe40uROQmPGoS6pvTTa/92mqVE6VJHCT3DSgOogI65ifHHu4ee5zLhyn8Q1Wwo0CzQ==;ib2+LsjBPq4vPdBGFzAKUg=="
+secured: "3FmgXzz4KaJmkhrnWMJtqQ5pM3K+BPo8ji6GH4h7Ahz2ev7jnNf6qbkKB676qMhmTAZ/kNJmFKYeA9zgTIFxBbv9Jf+x7/7Fj4n8Pmxt+TDmRTERAP0NajQqMeZamUkI4ovOGHZlI75tAdUMRDJFqHZa7bmbIDb4Nv+lNkMMmt5aDNsYup2qHrhDGdpjGPE2TPdvPYkhAPZDGzX1LIdKZnYMuNexa3zrwr9iq/EoI1P71J20JgykB7opjEJMWmVIm88apmgr9taHnmbIfm/ofw==;iuIkY6nZ4C1xvmP2F5TGDA=="
 ---
 

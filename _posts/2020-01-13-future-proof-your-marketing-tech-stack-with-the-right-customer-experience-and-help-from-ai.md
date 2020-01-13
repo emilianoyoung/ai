@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Appnovation's Andrew Dunbar on why AI is vital for customer experience"
-excerpt: "In this interview, he sets out how AI will transform the customer experience ... I cut my teeth at large consultancies such as Sapient, where I spent a decade building and delivering enterprise platforms for a range of blue-chip brands. I then spent nearly 10 years at agencies within WPP, which was a great opportunity to absorb the ..."
-publishedDateTime: 2020-01-08T10:30:00Z
-sourceUrl: https://www.thedrum.com/opinion/2020/01/08/appnovations-andrew-dunbar-why-ai-vital-customer-experience
+title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
+excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
+publishedDateTime: 2020-01-13T22:12:00Z
+sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
 type: article
-quality: 39
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: The Drum
-  domain: thedrum.com
+  name: Direct Marketing News
+  domain: dmnews.com
 
 topics:
   - AI
-  - AI Hardware
+  - IBM AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.703FA8EC26487164ABB3A1A6A94B7EDE
+  - url: https://www.bing.com/th?id=ON.C66B3F544350DC182392CE1B81AE79BE
     width: 700
-    height: 466
-    title: "Appnovation's Andrew Dunbar on why AI is vital for customer experience"
+    height: 387
+    title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
 
 related:
   - title: "This AI Startup Is Improving Customer Call Experience"
@@ -37,6 +37,19 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.E1857924AFDEBB7C899544FB16CEE4BF
+        width: 700
+        height: 466
+  - title: "Appnovation's Andrew Dunbar on why AI is vital for customer experience"
+    excerpt: "In this interview, he sets out how AI will transform the customer experience ... I cut my teeth at large consultancies such as Sapient, where I spent a decade building and delivering enterprise platforms for a range of blue-chip brands. I then spent nearly 10 years at agencies within WPP, which was a great opportunity to absorb the ..."
+    publishedDateTime: 2020-01-08T10:30:00Z
+    sourceUrl: https://www.thedrum.com/opinion/2020/01/08/appnovations-andrew-dunbar-why-ai-vital-customer-experience
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.703FA8EC26487164ABB3A1A6A94B7EDE
         width: 700
         height: 466
   - title: "Adobe unveils Adobe Experience Manager as a Cloud Service to transform customer experience"
@@ -67,20 +80,7 @@ related:
       - url: https://www.bing.com/th?id=ON.98B9EE634236C10184CA467B35A4B2AD
         width: 700
         height: 496
-  - title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
-    excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
-    publishedDateTime: 2020-01-13T22:12:00Z
-    sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.C66B3F544350DC182392CE1B81AE79BE
-        width: 700
-        height: 387
 
-secured: "b3KqKmAfyEvK3lX92Q6LNGd11pT4L0cSzcjvT/13VhHQ9OoQaZ5sMY5PTNlDzK0QIXTJ9o2dMCjkAksbuFPAu7dxvZdOXlUQ3Jd2MPqj47Teafq89xvUv4TdLND2zdgmLERNAhjH6Hdr9d6LedNR1Yxn97UILOjT8Hq9ZXm3zJ5M6dCBOyvucaGX/7CT1n1CavEePyp+xBAK/zZAypIsRuuczUWRjES+E1wZtlHgxrtWhfgLPVU8QgcTOThmmbr0PIyXmiiNuV0GNCkFsnxXKg==;iSpxVjx7GgTPiP1PbK7oMA=="
+secured: "Do0pUWDkFa8JI9A16s87B2ZXOUPDVUj3nxbaf6FYy7RbCEBAMvOKMK2D6zyPUWckt8A9KpplkMXibGY49dVNIqIhmrnqeBXqkXbAanRRiMz3fCaynMvdSCtzSJpOgebXsR2O6fSuc+Y6ToNHZqlCAzPPjWxXPfUTl3A2WhDE8XjGKTrIxWBzouOweymTLN5iLgVdh5eSTYA5u2VeSsb+fVv1cMMILx59g9txbDUMszYvvjRWte28ppSRxdMcfte1xls8o+K+2gsM+qi8+Hv1YQ==;lW2jTkGZ3PQGjkgPiGjbbg=="
 ---
 

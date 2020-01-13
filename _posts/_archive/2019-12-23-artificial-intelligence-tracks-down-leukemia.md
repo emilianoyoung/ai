@@ -37,6 +37,17 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72974624,imgsize-93356,width-800,height-434,overlay-ethealthworld/artificial-intelligence-tracks-down-acute-myeloid-leukaemia.jpg
         width: 800
         height: 434
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
   - title: "AI detects acute myeloid leukemia with high reliability, study finds"
     excerpt: "Researchers developed several artificial intelligence algorithms using a vast collection of transcriptome data ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
     publishedDateTime: 2019-12-30T22:07:00Z
@@ -63,7 +74,16 @@ related:
       - url: https://www.bing.com/th?id=ON.53B79936261D63CFBA7628CAB2D0F224
         width: 700
         height: 367
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
+    publishedDateTime: 2019-12-20T16:27:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
-secured: "1VL9LgvjvXgRh5NQVH3HxafjLqJ3xlsJCen0f0i3yJsCeSHk2dXF0DY728z2DyoKBcV6pV2XScMpuTdTojvm9gccUUUT8PCuxs3NwAECf2j3GBNYNnNXvRdLszXuG89ZzUkVO6tOsOGUGBuEMb2Itbqt9XsqUinFRDU0eJxp4qOSR3+VVJfjoB6FyDCjAc5hsrzj0FBEA2wzwIQ0ywZTaMciaFimC3El2tRfsUUC9zrUyXE6SiBAex+TDxs8fd/EX+pV6jxWqZW3Gx1+EKj73g==;sgL6wyxqhtEffCNKaQ/2+A=="
+secured: "fLMz6jI/OiHvihJY1Ib9kfEkKW7k9wu3wMDGb53kG9Uqp1+97dIHPckT5QBCAOq69si5mAJ3HDHk9f/VDhjy5yzDJSWZI5+g5XPpDsIavKavHLCiT5hnn3atLjTmDnXVFzg8EN0H2z6/Jmp/RCX5U5Bc001AbEm+eTyPjb+gtsxKHcwBRfWdhNFdfRQ6KByYpBlSoSE4x3yD6sqD4DP4MjQbrDOUmPepPbnKsY+okd8xkl0RKYL/xs4bJLV7KQNp2Neh6kTGfd28VDxNXgTQjQ==;sXPyjA9LYzyJWXuZIUPp+g=="
 ---
 

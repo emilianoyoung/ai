@@ -84,19 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9DB70C2A99CC3E587B64BC82F6111671
         width: 700
         height: 472
-  - title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
-    excerpt: "Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag ..."
-    publishedDateTime: 2020-01-06T06:37:00Z
-    sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.A8E762E20898E18F39F4A26FE2C580E9
-        width: 700
-        height: 494
   - title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
     excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford's Center for Biomedical Ethics. \"It's only a matter of time before something like this leads to a serious health problem,\" said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 billion ..."
     publishedDateTime: 2019-12-31T17:13:00Z
@@ -110,6 +97,19 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/shutterstock_575352721-1_1.jpg?itok=uUx7C0Pe
         width: 1903
         height: 836
+  - title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
+    excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
+    publishedDateTime: 2020-01-06T06:37:00Z
+    sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.A8E762E20898E18F39F4A26FE2C580E9
+        width: 700
+        height: 494
   - title: "Artificial intelligence and health care: The revolution has not yet come"
     excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
     publishedDateTime: 2019-12-31T15:14:00Z

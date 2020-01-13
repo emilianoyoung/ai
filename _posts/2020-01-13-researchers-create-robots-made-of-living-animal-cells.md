@@ -1,27 +1,27 @@
 ---
 category: news
-title: "CES: Toyota's building a city the future full of robots and AI"
-excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-publishedDateTime: 2020-01-07T21:00:00Z
-sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
+title: "Researchers create robots made of living animal cells"
+excerpt: "Indeed, Bongard and colleagues note in their paper, once refined a little more, the process of creating these unique living robots could be fully automated – a product of artificial intelligence and machine learning that requires no human intervention at all. For the moment, however, a level of direct intercession is still required."
+publishedDateTime: 2020-01-13T22:01:00Z
+sourceUrl: https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Motor Authority
-  domain: motorauthority.com
+  name: Cosmos
+  domain: cosmosmagazine.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+  - url: https://www.bing.com/th?id=ON.C30882BCADC02E6DECACC33A390D17E7
     width: 700
-    height: 393
-    title: "CES: Toyota's building a city the future full of robots and AI"
+    height: 525
+    title: "Researchers create robots made of living animal cells"
 
 related:
   - title: "The Future of Politics Is Robots Shouting at One Another"
@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
         width: 700
         height: 365
+  - title: "CES: Toyota's building a city the future full of robots and AI"
+    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
+    publishedDateTime: 2020-01-07T21:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+        width: 700
+        height: 393
   - title: "CES: Toyota's building a city where the future full of robots and AI"
     excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
     publishedDateTime: 2020-01-07T21:00:00Z
@@ -93,20 +106,7 @@ related:
       - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
         width: 700
         height: 393
-  - title: "Researchers create robots made of living animal cells"
-    excerpt: "Indeed, Bongard and colleagues note in their paper, once refined a little more, the process of creating these unique living robots could be fully automated – a product of artificial intelligence and machine learning that requires no human intervention at all. For the moment, however, a level of direct intercession is still required."
-    publishedDateTime: 2020-01-13T22:01:00Z
-    sourceUrl: https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells
-    type: article
-    provider:
-      name: Cosmos
-      domain: cosmosmagazine.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.C30882BCADC02E6DECACC33A390D17E7
-        width: 700
-        height: 525
 
-secured: "wNou/LVYLcow9q10AOGnzf/pD2DSllUzEtv0ZTF0j+AAIH70sQeVbffxUZjoy92212xUklNfkvTY4zOaXVsveVteQ+sfPnKcLfJAx3b4Jt4OhnNJrAbMfJXlI0EZSGZ9NMCgZAAw8Xmrqqox8/gMXXC86+NZL5Az/jkqkwEr6FiOmix/c3lqOomUDzx18Z0XMa7muaxll7qlYv8qYrvlV+ACr4FOzDCdQzrcgy53aNADAEC3RmYY9ms3VXBCCnqUeXEkLkfm4zPPa2zt8y4d/A==;Scd9RP/L0s/wber+CoJXAA=="
+secured: "q6gwwhY3W77vToW+KMpwAlVrobtBFrUTY2w3U7o/7rm6Sf5lvtxKr3PtODKjJzJFdRHPlS1HsXJpsmtJ/q38Wk7qGAceuVwGuipdRYEEr1ukjWvkdQhVn+upmoUxgN6qrY8/iisxbvQRlVTnKr1ZYhvuGZeSJXiVifxY784fE0gWIOi4Qi0K6nPOKIOZKybE/ccQDqQLcjYWY8yp42EcKjrrKLrT0nEH+hCGQXom62lovWpzJLhfm8wPZBU0WGTAhBG3fENWvID82+DthtpuIw==;Yr5rFYNxC2wSHS0ijcxxLw=="
 ---
 

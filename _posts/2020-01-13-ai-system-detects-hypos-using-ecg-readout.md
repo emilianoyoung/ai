@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.60ED460303DE102FF3906715860BF6EA
         width: 700
         height: 379
+  - title: "AI can detect low glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-13T14:58:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
+    ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.64B4FC51697A9E1513392E735C0FB502
+        width: 311
+        height: 236
   - title: "New AI technology to detect low-glucose levels via ECG could replace finger-prick tests"
     excerpt: "Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: The differences ..."
     publishedDateTime: 2020-01-13T13:29:00Z
@@ -54,15 +69,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-13T16:57:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Artificial Intelligence can detect low-glucose levels via ECG without fingerpick test"
     excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: “The differences ..."
     publishedDateTime: 2020-01-13T10:43:00Z

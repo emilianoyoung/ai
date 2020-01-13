@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Machine Learning as a Service (MLaaS) Market Key Players, Market Drivers, Emerging Opportunities contribute to reach CAGR of 41.2% in 2023"
-excerpt: "Global Machine Learning as a Service (MLaaS) Market Report (2020-2023) focuses on global major leading Machine Learning as a Service (MLaaS) Market players with information such as company profiles, contact information."
-publishedDateTime: 2020-01-13T17:23:00Z
-sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-key-players-market-drivers-emerging-opportunities-contribute-to-reach-cagr-of-412-in-2023-2020-01-13
+title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
+excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
+publishedDateTime: 2020-01-13T21:03:00Z
+sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
 type: article
-quality: 50
+quality: 54
 heat: -1
 published: false
 
@@ -19,13 +19,13 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
+  - Facebook AI
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Machine Learning as a Service (MLaaS) Market Key Players, Market Drivers, Emerging Opportunities contribute to reach CAGR of 41.2% in 2023"
+    title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
 
 related:
   - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
@@ -54,23 +54,23 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
-    excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
-    publishedDateTime: 2020-01-13T21:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
     excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
     publishedDateTime: 2020-01-08T11:48:00Z
     sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Learning as a Service (MLaaS) Market Key Players, Market Drivers, Emerging Opportunities contribute to reach CAGR of 41.2% in 2023"
+    excerpt: "Global Machine Learning as a Service (MLaaS) Market Report (2020-2023) focuses on global major leading Machine Learning as a Service (MLaaS) Market players with information such as company profiles, contact information."
+    publishedDateTime: 2020-01-13T17:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-key-players-market-drivers-emerging-opportunities-contribute-to-reach-cagr-of-412-in-2023-2020-01-13
     type: article
     provider:
       name: MarketWatch
@@ -112,6 +112,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "pIyJPGTYUi6hJMA3syczRmeESXScmHVoNi7XD3QQP78m0hO7VhWYzAYkjgqSHoiP+xznVrkE+CKE2eCjZMXp2XOUgUc+pHMKiojzUPz1hwNWYLszAEgxwqwbjB15tpMDnyH9b4H8qx1S8uwgGoP6CodBANzlmcWh0zAjbhU1VDKPCspPWOBHDNzJiX4pVL2x8C5Y4FOY4rTQe1DZFU6u7gWaqfITp/mJb4y9aGHpKAWmGe1ODohfGdvqmMuGXmxakJKOmrGaU6HR2EiUuFhUVg==;oKV1+wRg+6nthXv2evVnvA=="
+secured: "U1hAlJZFP4tLFRl9U9WuJZ/QkQma7EFtFThItjoK55c9OpOCaigiWxpO/HoLqP5zBOU6nRDM7q2FdNKel6t4PgGwz8j1CurBTN+zkAWSH7+YPpdO/J+2VygltLKZ89n1d9v3H2G6CXaGgxKqtIXDSqJjXWLqV8xK5fovHxtrszvg1w2Y0t/j7OH1p9ns3q7yUoRXOOZ87JlYD9uZCDbpcI8aYQ+bpjnr/v64E1xeTagFALnEs5MIRJ9jLsyWbjBoFVl5iwsAZuB/AQ2ARj3zPg==;z1O6Wop2VSCHB++MnBq47Q=="
 ---
 
