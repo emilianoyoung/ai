@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T10:53:00Z
 sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,62 +22,6 @@ images:
     width: 620
     height: 500
     title: "what3words and Speechmatics launch speech recognition and post-processing API"
-
-related:
-  - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
-    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
-    publishedDateTime: 2020-01-11T09:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Icons Infocom undertakes implementation of Dragon Medical Speech Recognition"
-    excerpt: "Icons Infocom undertook the implementation of Dragon Medical Speech Recognition with Philips digital workflow solution for one of the leading hospitals in India. The client faced several challenges and was looking to eliminate them. Some of the major problems included lack of qualified medical stenos, high dependency on stenos even in critical ..."
-    publishedDateTime: 2020-01-04T15:32:00Z
-    sourceUrl: https://www.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    type: article
-    provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 56
-    images:
-      - url: https://cdn.newsserve.net/newsR256.png
-        width: 256
-        height: 256
-  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
-    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
-    publishedDateTime: 2020-01-08T11:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
-    publishedDateTime: 2020-01-07T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "64MCOaZF6/ThcKQJTd2maXYmvd3gaO9kVFcp6wqh3ZwdGxORsJXXLezQbhGYkR6JsmASql/DLTpy5OoC3xxxarHO3HhWRVDZ2vz6N0O5HL/JjPabAPyJITTaH+woX391YSeGNDMC4dzi4Um7QKGqj+iDUNtpqM+qIuNbPMrtuiew07nBgPdkDzvnwGHIG6wvguy9lLLM2ryjaZ8/S1IljNfL+5fG824Qb5o36jVMQNoQEEHRDgqF6ju829RZjpynxI9ZA01VRfSJ7MsYc0s4Tw==;vcK0/Q6lYFIkaA6XxB0bWA=="
 ---

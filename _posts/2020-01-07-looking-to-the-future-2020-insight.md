@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0EA7653251F63F550FFBB41E8A1CBEF9
         width: 600
         height: 315
+  - title: "Woven City: Toyota’s ‘living laboratory’ for autonomous cars & robots"
+    excerpt: "We want to turn artificial intelligence into intelligence amplified ... According to Bjarke Ingels, “Homes in the Woven City will serve as test sites for new technology, such as in-home robotics to assist with daily life. These smart homes will take advantage of full connectivity using sensor-based AI to do things automatically, like ..."
+    publishedDateTime: 2020-01-13T17:38:00Z
+    sourceUrl: https://www.therobotreport.com/toyota-woven-city-living-laboratory-robots/
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.F04D06E5EBDE80E3897D388D1778B9F3
+        width: 700
+        height: 466
   - title: "CES Gadget Show: Toilet paper robot and tracking the elderly"
     excerpt: "The robot, around 6-inches tall, has the face of a bear — like the cartoon ones ... The annual showcase is where big companies and startups unveil and promote their latest gadgets, many of them infused with microphones, cameras and artificial intelligence. Though weighted toward the consumer market, much of what’s on display may also ..."
     publishedDateTime: 2020-01-06T20:36:00Z

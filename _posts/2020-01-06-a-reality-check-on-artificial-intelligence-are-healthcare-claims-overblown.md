@@ -1,11 +1,11 @@
 ---
 category: news
 title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
-excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
+excerpt: "Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag ..."
 publishedDateTime: 2020-01-06T06:37:00Z
-sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/?_hsenc=p2ANqtz-_ucienVNAlV7PYrc8Pz1SdpbQZM1e6fOgT2csx5o75U-OoWGIFoIWftsKvfLkMBOeR_vMULzw5v9Q-IemMihui_cvgvQ&_hsmi=81510974&rf=1
+sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.A8E762E20898E18F39F4A26FE2C580E9
@@ -133,6 +134,6 @@ related:
       domain: heraldscotland.com
     quality: 34
 
-secured: "qRPCA2ZVc2BM6hPWVZQiE8v4m4VnYQfwPo2nkhDKUmJ7raMDmMxY2NC3/N2dv4Gc8L5kZp5VDvLgxm1jGpiLRnNuDFCyK70jgLJvdEstoquxOw0CzkdUHkAwAZ2rKrR1pRYPBAVx77yqdaQfF8iYhllZRnRU5gAm4GeFvCFrLXGkdzezV+u9/G61YiW7IGnWz5XPSgjwqW3Mw5FyOM4tlXRyta1EjD6NBF1Wns09+RESEXaq9d/AJ1h9Y4J6lKe6NQwKBkDXZ93bbs7oQc/iZw==;b3YMgC9kcEjV87VPQA+A0Q=="
+secured: "dmT34qTMn9S3e+4+zI2uRCWuGdz56PKBO8KDDZJJIt+1sYcIeI/NcAq0NbgZAupBwmQV0qKlSKGCpaMwYoG06uxjcLPQx4sSQHW31Q0499YSvva6rcD2pxjy3Wg4BQHyVcrn53ktj5DLh008QNP6q7+O82DROEbGPALknVgpwfwKszr6+Q8EDwaojh80gp4hxf3RdKV5B/P0Om3lxg5oXe40uROQmPGoS6pvTTa/92mqVE6VJHCT3DSgOogI65ifHHu4ee5zLhyn8Q1Wwo0CzQ==;ib2+LsjBPq4vPdBGFzAKUg=="
 ---
 

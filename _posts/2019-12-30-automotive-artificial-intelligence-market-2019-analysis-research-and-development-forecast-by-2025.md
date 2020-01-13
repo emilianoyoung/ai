@@ -40,19 +40,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
-    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI Analyst have added a new research study on Title Global Automotive Artificial Intelligence Software Market Report 2019 - Market Size, Share, Price, Trend and Forecast with detailed information of Product Types [Automatic Drive, ADAS], Applications [Passanger Cars & Commercial Vehicles ..."
-    publishedDateTime: 2019-12-24T20:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-growth-powered-with-latest-development-scenario-influencing-trends-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
     excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
     publishedDateTime: 2019-12-26T13:00:00Z

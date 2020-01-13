@@ -8,7 +8,7 @@ ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-do
 cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -41,16 +41,7 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72974624,imgsize-93356,width-800,height-434,overlay-ethealthworld/artificial-intelligence-tracks-down-acute-myeloid-leukaemia.jpg
         width: 800
         height: 434
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
-    publishedDateTime: 2019-12-23T17:46:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
-secured: "wQ0DDM8KKb8IRD6XrXXbT8yRmLJ7ZFFp28hpCTikkV97vCU+rZyhvtXepd9rPyKs+xDH1gC+LRQFJXDW5FR9EDYF8rcAf7DeCKnquGp+taW0XNLBT2TsiNnsrnY3Nck8r6Vbzw/QRJ2aJTDF6fuzrtx+tOLTLfZLuX2XOTFto1wu2g7KGocZ246e+3fsWsLAZuJmtxTsWCmhr9Rf5982a0JYPWHw/JRH9o3YNRKWdqbe5DQmc0WIdk3lXqtcVwy3bT6eYbuQIqwocwQarkhlzg==;0fX4dXMjsAeFLJ8mvU/TTA=="
+secured: "3aZBSzaZnLSOjUsfgtneWNXb2qZ9leDiM2HOxt6bbY9DPP2ZQq20sI3k+4md7oTMZzOQcFX6TydjjJo7YmTFOWNCYs2cWxBrWaAqPtuyqxOwJWnUEOBhGNqwV2pPhpKL4fniydOSfzPeIFTnU7R4/0NJLK1zsSHrRMG+hhx6pqWDEuy4YRpRKLYAsYx0teX/2YXmLq3LepWCTVhI2k8M9zx9Wm5IfRg7ul2Hs3R/6BKr32Xh2G9G0D3D3cOVLZsrbl7fBGrNPNxoPsGP+vBBUg==;SJI7C6uV5mKwKlAqX1S/cQ=="
 ---
 

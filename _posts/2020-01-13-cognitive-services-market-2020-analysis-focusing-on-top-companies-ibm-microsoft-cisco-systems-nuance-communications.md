@@ -1,13 +1,13 @@
 ---
 category: news
-title: "AI in Telecommunication Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
-excerpt: "A recent market research analysis titled, AI in Telecommunication Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with AI in Telecommunication market covering industry surroundings,"
-publishedDateTime: 2020-01-13T11:16:00Z
-sourceUrl: https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2020-01-13
+title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
+excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
+publishedDateTime: 2020-01-13T20:37:00Z
+sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 60
+heat: 120
+published: true
 
 provider:
   name: MarketWatch
@@ -19,27 +19,15 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "AI in Telecommunication Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
 
 related:
-  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
-    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
-    publishedDateTime: 2020-01-13T20:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
     publishedDateTime: 2020-01-11T09:48:00Z
@@ -79,6 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI in Telecommunication Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    excerpt: "A recent market research analysis titled, AI in Telecommunication Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with AI in Telecommunication market covering industry surroundings,"
+    publishedDateTime: 2020-01-13T11:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
     excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
     publishedDateTime: 2020-01-08T18:46:00Z
@@ -98,6 +99,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "dfn0nlLa4+HcXjXbFDTzKhGR01kFXXWoSEkG9HjCid8upJHnylXduimLYg0IbqxjXEGnIN4hmepuIxHl1vsggMHPL5vvKVvbbYUSOTnCUqVpL3h5NAg84Grx0VcGmsAPn5/8ZoAR42io9brx3Gy/fpMj8dDda3KJpLWAr57Z495uHVtRq88VS/kJOLCxz9ICI2V7tbqqEbTMK0he9ws4lJh/uNLT4VcAhxy0tgMZpMkO3LN/MaTuZ+Yidm0J8VX9M0yg9zZ6D44hEX5i3NFfTw==;cRtP0grJZ23/Pap4B2Capw=="
+secured: "JC8Y5tunw9nkmOcpXgmriNMFr22HnfYvausAfxMs6nJGNtW7FDlYyfXusY7nqGUGfKGBVmDjjIH2PIi/hkKZISuKm9XQqLqV2V/vJJtiVYGSqAYgEJRTd8ajDeNWiSrO6Ke8VOzfleXbZZSuXhuG3cxRO319iWokPF3iKg07rjIzsf6gzE7IvYxYGLav/ZHI4P3082EVZfWGLAM3hmX6WfQ4hKzplWzKHWSeNX5wkgxlrmvPp2CaV6JronJWG0zHPi1sJyz+ICfNCVUboafLpg==;/Rn+mWBYAy8um0fKV3nuow=="
 ---
 

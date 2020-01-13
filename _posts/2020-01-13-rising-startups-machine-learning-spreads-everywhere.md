@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T06:13:00Z
 sourceUrl: https://www.techinasia.com/rising-startups-smarter-agriculture-education-logistics
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg
         width: 620
         height: 480
+  - title: "Competing with robots: How online learning can keep professionals winning in the future"
+    excerpt: "Future jobs will need us to possess skills that robots do not. How can we compete with robots and come out winning? Upskilling and online learning can help us with the answers."
+    publishedDateTime: 2020-01-09T09:57:09Z
+    sourceUrl: https://www.msn.com/en-in/news/other/competing-with-robots-how-online-learning-can-keep-professionals-winning-in-the-future/ar-BBYMh6X
+    type: article
+    provider:
+      name: India Today on MSN.com
+      domain: msn.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.896326F17B367D2EC691AAAAE5D0CE29
+        width: 600
+        height: 315
   - title: "Ed-Tech Startup MagniLEARN Recognized as Promising AI Startup in China's Innoweek Conference"
     excerpt: "BEIJING, Jan. 6, 2020 /PRNewswire/ -- MagniLEARN, an Ed-Tech company using artificial intelligence and Natural Language Processing, received second prize for innovation in Artificial Intelligence and was recognized as a promising AI Startup in the third annual China – Israel Innoweek Conference held in Beijing, China. \"Combining Natural ..."
     publishedDateTime: 2020-01-06T14:08:00Z

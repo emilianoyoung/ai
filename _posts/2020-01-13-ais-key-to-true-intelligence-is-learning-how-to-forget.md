@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/13/ais-key-to-true-intelligence-is-learning-how-to-forget/amp/
 type: article
 quality: 87
-heat: 267
+heat: 277
 published: true
 
 provider:
@@ -283,6 +283,15 @@ related:
       - url: https://www.bing.com/th?id=ON.F13294318BE044C6BB39A757E83D8B43
         width: 700
         height: 525
+  - title: "New Deltek Reports Forecast IT Investments to Reach $56 Billion for the Department of Defense and $11 Billion for the Intelligence Community By 2024"
+    excerpt: "IT solutions such as cloud computing, modern data management, big data, cybersecurity and artificial intelligence are in high demand by intelligence agencies with increasingly complex national security missions. Deltek forecasts growth in IC IT investments from $9.9 billion in FY 2019 to $11.0 billion in FY 2024 at a Compound Annual Growth Rate ..."
+    publishedDateTime: 2020-01-13T20:10:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-new-deltek-reports-forecast-it-investments-reach-56-/2020/01/13/9080572.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "lSUvw8dkRCEolpfYaZ6xYMeeP+CS+IrRdcYZVkBsbZyEzS25tXUOJzchK5LSffmbB6v8v5Ov/3ebabgAm8ncFBSzYMYjsgeYNd5fT0fnj+vEdtGKF34WlRQ/5NxzsztYZ8wbEVMTjDDJMGpmZ+VDO4AE5jNy82u+FCnLqedAHiXEAMEgFEdkcOeimidyyTgZ1neUZf88Y1pJPGgRNUZq/XIwqYzdnCv54MuaADnHhT4OJJONRg1gyxG6XIvAjxd6XJxiDv2eV/wkGDHdaOVcDw==;hoKQofPeCU9rmjWRCMXWig=="
 ---

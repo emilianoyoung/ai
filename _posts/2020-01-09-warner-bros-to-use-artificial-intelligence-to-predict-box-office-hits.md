@@ -279,6 +279,15 @@ related:
       - url: https://www.bing.com/th?id=ON.F13294318BE044C6BB39A757E83D8B43
         width: 700
         height: 525
+  - title: "New Deltek Reports Forecast IT Investments to Reach $56 Billion for the Department of Defense and $11 Billion for the Intelligence Community By 2024"
+    excerpt: "IT solutions such as cloud computing, modern data management, big data, cybersecurity and artificial intelligence are in high demand by intelligence agencies with increasingly complex national security missions. Deltek forecasts growth in IC IT investments from $9.9 billion in FY 2019 to $11.0 billion in FY 2024 at a Compound Annual Growth Rate ..."
+    publishedDateTime: 2020-01-13T20:10:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-new-deltek-reports-forecast-it-investments-reach-56-/2020/01/13/9080572.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "t0eBnGz5kWnwWoS3gGVM3HNPUSnGmqG7q2xm3QLPEM7YBbDOtgAWYecCEx58/B50bU6WMXsAuFUsOxY38nvpiBohj8qJntacJuoILgAIGxFmDrJ+V2mJd0UoWGaCNyIqx1puVnQoeTbmlkgFx+eW29+TBEYfjpAiIK7Oy4QyGrtz84eM9XZfqZ5rJnDAYCQ8WPxl4JXiygUX0gH+S5P0hnSty+OMf4dpOTocHYP5K+mSFhKVbJDYlvu3x/88IeHRQXuY6SFRJVe55ey2hPPelQ==;fWt8bIErq0J5glp0E3nsKg=="
 ---

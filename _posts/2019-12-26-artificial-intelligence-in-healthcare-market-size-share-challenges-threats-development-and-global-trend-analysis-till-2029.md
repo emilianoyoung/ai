@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-26T06:40:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-threats-development-and-global-trend-analysis-till-2029-2019-12-26
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
-    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI Analyst have added a new research study on Title Global Automotive Artificial Intelligence Software Market Report 2019 - Market Size, Share, Price, Trend and Forecast with detailed information of Product Types [Automatic Drive, ADAS], Applications [Passanger Cars & Commercial Vehicles ..."
-    publishedDateTime: 2019-12-24T20:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-growth-powered-with-latest-development-scenario-influencing-trends-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

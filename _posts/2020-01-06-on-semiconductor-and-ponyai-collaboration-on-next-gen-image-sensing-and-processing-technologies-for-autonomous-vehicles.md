@@ -33,6 +33,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3F84C21B1199EF76A266F5B5D51FA1E7
         width: 700
         height: 379
+  - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
+    excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the ..."
+    publishedDateTime: 2020-01-06T23:01:00Z
+    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
+        width: 700
+        height: 350
   - title: "Qualcomm Drives More Autonomous and Automotive Platforms"
     excerpt: "The Snapdragon Ride Platform, based on the Snapdragon family of automotive SoCs and accelerator, is built on scalable and modular heterogenous high-performance multi-core CPUs, energy efficient AI and computer vision (CV) engines, industry-leading GPU. The platform with combination of SoCs and accelerator can be used as needed to address every ..."
     publishedDateTime: 2020-01-07T06:29:00Z

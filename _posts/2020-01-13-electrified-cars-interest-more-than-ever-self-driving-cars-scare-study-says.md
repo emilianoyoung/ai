@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Want to Help Self-Driving Cars Drive Better? Give 'Em a Better Feel for Their Tires"
-excerpt: "Theoretically, each time a self-driving car goes for maximum braking power, it'll rediscover worn tires, since there's no feedback loop beyond a car's wheel-speed sensors (the ones that inform anti-lock braking systems and stability control when a tire is locking up or sliding) to reveal grip deficiencies. Put another way, unaware that its ..."
-publishedDateTime: 2020-01-09T17:38:00Z
-sourceUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/
-ampUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
-cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
+title: "Electrified cars interest more than ever, self-driving cars scare, study says"
+excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
+publishedDateTime: 2020-01-13T21:25:00Z
+sourceUrl: https://www.cnet.com/roadshow/news/electric-cars-battery-range-self-driving-cars-safety/
+ampUrl: https://www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
 type: article
-quality: 38
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Motor Trend
-  domain: motortrend.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.DB96056EB99633948718FB883354D1E7
+  - url: https://www.bing.com/th?id=ON.1248C513923DD0917FDA25FCC054D5A7
     width: 700
-    height: 393
-    title: "Want to Help Self-Driving Cars Drive Better? Give 'Em a Better Feel for Their Tires"
+    height: 367
+    title: "Electrified cars interest more than ever, self-driving cars scare, study says"
 
 related:
   - title: "What it’s like to ride in a self-driving Lyft"
@@ -56,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
         width: 700
         height: 366
-  - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
-    excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
-    publishedDateTime: 2020-01-13T21:25:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/electric-cars-battery-range-self-driving-cars-safety/
-    ampUrl: https://www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.1248C513923DD0917FDA25FCC054D5A7
-        width: 700
-        height: 367
   - title: "Telecom Stock Roundup: Qualcomm Boosts Self-Driving, Ericsson's IoT Drive & More"
     excerpt: "In the past five trading days, telecom stocks trended down as geopolitical tensions rattled the market and threatened to spoil the initial euphoria associated with the likely signing of the “Phase One” trade deal between the United States and China."
     publishedDateTime: 2020-01-09T13:57:00Z
@@ -204,6 +193,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
         width: 700
         height: 367
+  - title: "Want to Help Self-Driving Cars Drive Better? Give 'Em a Better Feel for Their Tires"
+    excerpt: "Theoretically, each time a self-driving car goes for maximum braking power, it'll rediscover worn tires, since there's no feedback loop beyond a car's wheel-speed sensors (the ones that inform anti-lock braking systems and stability control when a tire is locking up or sliding) to reveal grip deficiencies. Put another way, unaware that its ..."
+    publishedDateTime: 2020-01-09T17:38:00Z
+    sourceUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/
+    ampUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.DB96056EB99633948718FB883354D1E7
+        width: 700
+        height: 393
   - title: "Video: MARTYkhana where self-driving all-electric DeLorean does flawless drifts like a pro"
     excerpt: "Thought that an autonomous car maneuvering safely through a car park was impressive? Think again. Eggheads at Stanford University have just made the coolest self-driving car you'll ever see - a self-driving DeLorean drifting like a pro. Yes, there are car manufacturers which have begun testing their autonomous prototypes in real-world ..."
     publishedDateTime: 2020-01-03T11:06:00Z
@@ -283,6 +287,6 @@ related:
       domain: zawya.com
     quality: 23
 
-secured: "g3OJtGE78TkUWEKT9I5tOp8NmmstFY2xqB/UWciAbVzeeLyQUV3yJ3fa6tn+YlVBJGQHHrxOuzNplhHtgQS6xknZNsqnHjJB3sQ6sE4cgjYLewvR9gSDxFEkL4os+YTJu9nYSLbyz5JO5qTzVUjnFAYzIA3+E2saIYArn/M0SSx97TuZWoXMWoS6egaJAEOizgPXnYCZW6uICjzKbV2REcGHTXFNbh8PM85lSc2UM2atuyA/ibFwWbcVXOAVhZXsedWNU7QQDSs6GGgCsFtVYw==;VPZbMeDHv5VzIoU+YxcEgQ=="
+secured: "FoIimOPjp0FHATSni5EfzPrXnkrQT94h/Z6S6oZdmGEti1iZ3OhR+WTWErrn1kSkiK7YICKZW5PvE+BcZBpMxczytRtdCofpGBZZfeGLzIVqD080yWGlU89C2Z55Xiua+A/G/tG2ZFXdFNmSPagXFLCFJ3yv4Me4th6pFfg+S0BlsMUmMdLN1nzR3Wz0+yAttSmisG/qUm4zM3gCsNgOnW6BvExFY0ASUU7nvxTRlDMf6SdOAywoC/c/uIMpzSH04e2Hpi8gVXqZVGg01j0HSg==;Pixbaz9o2nnKcJaEKFMmJw=="
 ---
 

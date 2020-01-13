@@ -22,6 +22,17 @@ images:
     height: 150
     title: "Artificial Intelligence Software Market to Reach $126.0 Billion in Annual Worldwide Revenue by 2025, According to Tractica"
 
+related:
+  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
+    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
 secured: "Hl1yK+bL1oR5/hoLGN+YqFXKWiGMDIfI+GNfe7ARI1T8BgRT3CLxlITCNAy57R6IxmedzOeL3MOYxLM5HTeThm1gMJZ743BWLrxXSxvXGOHo6J0LQat3qjS/JpuvY8+951v8C2/C5Yo43l7oGndo/EjpxwZYEXv8Xs1VbWOQVCGWdJvS7oa5wCKC+dDVxuKYAHYNDre6RILxUwCvwPMRmFTLMkEr+Y7zVSWLylzp6Pybw0PUlVJ5H7SgWqXalcfZmY5U3kA1bLuJnSOVZXu6Fg==;gEr/2/NbNUG4oKoU4RioCg=="
 ---
 

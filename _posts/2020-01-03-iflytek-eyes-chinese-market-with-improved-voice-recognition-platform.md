@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T20:15:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/iflytek-eyes-chinese-market-with-improved-voice-recognition-platform/221046
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,54 +24,19 @@ images:
     title: "iFlytek Eyes Chinese Market with Improved Voice Recognition Platform"
 
 related:
-  - title: "Online Translation Market - Investment Opportunities in Competitive Environment"
-    excerpt: "The report further predicts the size and valuation of the global market during the forecast period. Online translation refers to the machine translation which converts the one language into another. With over 6500 languages across the world, it's humanly impossible for an individual to have a sound understanding of many of them. Online ..."
-    publishedDateTime: 2020-01-03T10:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
+  - title: "iFLyTek develops voice recognition for law enforcement; moves forward with AI innovation despite U.S. ban"
+    excerpt: "Chinese startup iFlyTek boasts it has created for law enforcement AI technology that leverages voice biometrics to identify a person, writes Nikkei Asian Review. In upcoming years, iFlyTek aims to use it in fighting phone scams after rolling out the voiceprint recognition system across the country. iFlyTek uses AI to analyze big data to improve ..."
+    publishedDateTime: 2020-01-07T18:08:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/iflytek-develops-voice-recognition-for-law-enforcement-moves-forward-with-ai-innovation-despite-u-s-ban
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
-    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
-    publishedDateTime: 2020-01-02T07:45:00Z
-    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.A58AA421615EEE94F6F0DB3BE79CFB3E
-        width: 400
-        height: 400
-  - title: "Investment Advisors, Fintech Innovations Top SEC’s Priorities for 2020"
-    excerpt: "Commission will also pay close attention to market infrastructure, seniors saving for retirement, and information securities. The Securities and Exchange Commission’s (SEC) Office of Compliance Inspections and Examinations (OCIE) is paying close attention to the retirement community this year, the agency said in a statement. The OCIE listed ..."
-    publishedDateTime: 2020-01-09T17:03:00Z
-    sourceUrl: https://www.ai-cio.com/news/investment-advisors-fintech-innovations-top-secs-priorities-2020/
-    type: article
-    provider:
-      name: Ai-cio.com
-      domain: ai-cio.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.F64E0461B50DA2AAE5F4E965FD7D0C7A
+      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
         width: 700
-        height: 466
-  - title: "Remark's KanKan Continues Transformation of CP Lotus's Traditional Supermarkets Into Smart Stores with Xishan Market Opening"
-    excerpt: "Remark's KanKan was once again chosen by CP Lotus to transform one of their traditional supermarkets into a \"smart\" store by applying their award winning AI technologies in facial recognition, object recognition, and behavior recognition. \"During the market opening, CP Lotus's Xishan store in Wuxi saw significant customer participation ..."
-    publishedDateTime: 2020-01-07T14:12:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-remarks-kankan-continues-transformation-cp-lotuss-traditional-supermarkets-/2020/01/07/9077458.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+        height: 388
 
 secured: "FpSx4lIyJ52fjRox/ico4EAebGwHdM+AGKhKO4zwjysM8RT1Irs3vkb0aR8gI5oRhhG3jmDULWf3N8qhbanyETgXXfqOQtKPbNcOZwdmT1Mvsu+AIW+DH8G6jcLVN6zm9lavFic0mp3ldpzNXdkitLRGINVT9oISQFdBtC5eO/aaa/8VY16EICPeHhGiPr+nmMTjpmKy0z8dJIUxwheBdTtkgHgDIBI9eCMDqjIjHOhayvw56VaoIvsNO9GhOLl/4fE6OYlLguHng3LM9oddew==;pnP4+Tnx6WF1b79/OujQeg=="
 ---

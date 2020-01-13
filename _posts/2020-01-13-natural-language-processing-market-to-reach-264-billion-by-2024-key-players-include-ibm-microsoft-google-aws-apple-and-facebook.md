@@ -18,19 +18,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "AI in Telecommunication Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
-    excerpt: "A recent market research analysis titled, AI in Telecommunication Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with AI in Telecommunication market covering industry surroundings,"
-    publishedDateTime: 2020-01-13T11:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2020-01-13
+  - title: "Artificial Intelligence Software Market to Reach $126.0 Billion in Annual Worldwide Revenue by 2025, According to Tractica"
+    excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Artificial intelligence (AI) within the consumer, enterprise, government, and defense sectors is migrating from a conceptual “nice to have” to an essential technology driving improvements in quality, efficiency, and speed. According to a new report from Tractica, the top industry sectors where AI is likely ..."
+    publishedDateTime: 2020-01-06T12:53:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200106005317/en/Artificial-Intelligence-Software-Market-Reach-126.0-Billion
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.A171C80FE097121EEC593918254B3198
+        width: 150
+        height: 150
 
 secured: "MG/lHKGPSMNwLRBp1cE8sgFAs3QefZIa1At6WPMuPl3pT9PAb97uipn3V1uyhiVLbZ59YL/m2CvyndCad501DjIFTmt3d+NNR8gV36I7FZKsR/jYyb+LoX2ICOJZfN6ZDTYxx1Gn/qVRXJyQ3nNdDe1Xqvf9uJgXiUcdzIV4laLLU6VKXuFXG286uWumSKw/NPEmjnESEJRB60RzFlLGsj/dLdm+lp4jCRHDoXDmRGOrvAcl8bmd2+4SPVLEB8n06T3L/HxB+aOYYPmIO3SwqQ==;7MPQ7HbW8wRDgOSGjINahw=="
 ---

@@ -28,6 +28,19 @@ images:
     title: "Health Care Natural Language Processing Market Emerging Trends may Make Driving Growth Volatile"
 
 related:
+  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
+    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
+    publishedDateTime: 2020-01-07T20:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
     excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
     publishedDateTime: 2020-01-06T06:49:00Z
@@ -54,15 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
-    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
-    publishedDateTime: 2020-01-07T11:09:00Z
-    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
 secured: "+jafdC/gdrIqDZoTxTChVF3cbh8LS39Z9VtcXMtXMS2rty6Nss0PC88fQz0BpzLY4X1UNPQSxvcjqM+Hqs873gqTL6SnHphjia/y92Gjq3H4BeTAaWWiWHbcspNXgN6Rn94QWKQBCcxVRrOTUfqTjwKIm7kja16n7qFqnhuoAhMqBLNpq/GyIAsLmUCp7QZI+txSkVAo6bJUMTZ7jlJPAxAlTKkj8PWbV10ETS865g75TwLbCoavcLtDaP/UCIfAK65wtkkqzZ/7y51lcNZMDw==;hdpQwfVPgetlr9TfIPW0vw=="
 ---

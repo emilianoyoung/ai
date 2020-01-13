@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Feds pledge to keep their hands off the wheel regarding self-driving"
-excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
-publishedDateTime: 2020-01-09T00:01:00Z
-sourceUrl: https://www.yahoo.com/now/feds-pledge-keep-hands-off-222100743.html
+title: "Congress Needs to Hit the Accelerator on Self-Driving Regulation"
+excerpt: "America’s self-driving future promises a multitude of benefits. Most importantly, autonomous vehicles are the key to safer roadways by reducing traffic-related injuries and deaths. Human error causes up to 93 percent of traffic accidents. Autonomous vehicles, on the other hand, won’t drive while distracted, tired, texting, or inebriated ..."
+publishedDateTime: 2020-01-13T21:01:00Z
+sourceUrl: https://www.industryweek.com/the-economy/article/21120385/congress-needs-to-hit-the-accelerator-on-selfdriving-regulation
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: IndustryWeek
+  domain: industryweek.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.97BCD41C7E3AE206BD83305B031429B7
+  - url: https://www.bing.com/th?id=ON.1A26F8EB728676EBC9F6340526F6BAEB
     width: 700
-    height: 393
-    title: "Feds pledge to keep their hands off the wheel regarding self-driving"
+    height: 431
+    title: "Congress Needs to Hit the Accelerator on Self-Driving Regulation"
 
 related:
   - title: "The Self-Driving Enterprise And The Road To Automation"
@@ -82,20 +82,20 @@ related:
       - url: https://www.bing.com/th?id=ON.EA91CC9A8F455A168DA6299235C73E60
         width: 700
         height: 350
-  - title: "Congress Needs to Hit the Accelerator on Self-Driving Regulation"
-    excerpt: "America’s self-driving future promises a multitude of benefits. Most importantly, autonomous vehicles are the key to safer roadways by reducing traffic-related injuries and deaths. Human error causes up to 93 percent of traffic accidents. Autonomous vehicles, on the other hand, won’t drive while distracted, tired, texting, or inebriated ..."
-    publishedDateTime: 2020-01-13T21:01:00Z
-    sourceUrl: https://www.industryweek.com/the-economy/article/21120385/congress-needs-to-hit-the-accelerator-on-selfdriving-regulation
+  - title: "Feds pledge to keep their hands off the wheel regarding self-driving"
+    excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
+    publishedDateTime: 2020-01-09T00:01:00Z
+    sourceUrl: https://www.yahoo.com/now/feds-pledge-keep-hands-off-222100743.html
     type: article
     provider:
-      name: IndustryWeek
-      domain: industryweek.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.1A26F8EB728676EBC9F6340526F6BAEB
+      - url: https://www.bing.com/th?id=ON.97BCD41C7E3AE206BD83305B031429B7
         width: 700
-        height: 431
+        height: 393
 
-secured: "Z/6HxZS6Iqbtnth+LXAviigtoKtFZbhPtk7OqMqYvYtGf9ZV+RmRHyU4shjjCxz7CuaBvAr4hqZT3hRqfPzqLx5/vLfuhwCmyUJZz8tbY32WNnU/NuLeNWE/23xVFYOfEYWiofo993fWeRGZcvlZraISDKMDy4wtmkaCh01K6gp0uCO+cGQGkYLvbOhEkKKz+mCKyIVDeAFSMOUrImEoCM3JAfmNsExywuQ22e4YiPiwi3fm7aZLug3nMt9K+DM7shAIF7cRewqevR140YnhXQ==;nUSnpOjua5paUaAJSPK9/w=="
+secured: "xbGwRjoe8bkXHwMjDe0y61NJ0ZP88J6oUN4byDnSvFhV2Pb8TGQUW/NREsUEJLWo7CGo/aGGv8ThhSWC5gWMt70MTVEtog6oBB2wcNhFmRaMRqydb3iTWbD/TdvK6y43zDLUp6XkNMKK4wzCfkWuk5WHC1lt0QFhyVAgL6rxQMR4jMYtKFbFlhxL7qhFGz640B4beC6ja1m1Ajmws4wpjaSHMq4G1E8pypDhmeSDbRtlQz3OpB71La+PHPkdSumrjLEGE1vxKaOoJtsCpcZ5VQ==;QuP1k2thA65RLMr/BYR8tA=="
 ---
 

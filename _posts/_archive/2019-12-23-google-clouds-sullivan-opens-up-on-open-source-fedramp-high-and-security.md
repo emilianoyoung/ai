@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google Cloud’s Sullivan Opens Up on Open Source, FedRAMP High, and Security"
-excerpt: "We have machine learning and artificial intelligence that’s really generations ahead. And with tools like AutoML and BigQuery, government organizations with varying mission sizes and objectives can more easily incorporate intelligence and analytics into ..."
+excerpt: "We have machine learning and artificial intelligence that’s really generations ahead. And with tools like AutoML and BigQuery, government organizations with varying mission sizes and objectives can more easily incorporate intelligence and analytics into the work they’re doing.” Google recently teamed up with researchers from NASA-FDL to ..."
 publishedDateTime: 2019-12-23T22:15:00Z
 sourceUrl: https://www.govexec.com/sponsored/leadership-voices/google-cloud/google-cloud-sullivan-open-source-fedramp-high-security/
 type: article
@@ -23,6 +23,6 @@ images:
     height: 700
     title: "Google Cloud’s Sullivan Opens Up on Open Source, FedRAMP High, and Security"
 
-secured: "VBv/Pv7rUv3/XeRJrJ/wQT80b9ijRyl4YQ7Wmdeht4auiFHCO6yXXS3I7B76MyzW9lGOwQjt21KTB8sql6PjLDY/djHQNrGcogPxU5ss8zlx+T79WT5m0ds3QYoT/OKSbVFtz0MBsb3UBNA8tjrdfKvAOd5Bv0jQZv0z26Y7XTiLw0E7N6u4RVOhVKwH7z26B35Olk8Ct/YtIdrjLFxSi9302zgIlgVHPnDY78JAAR2vMbHI+r3nFT2YUG/UmUeCWbnOsNM1iviq4tjc4rPjzA==;1jL0pJshT7rG6fnWAtUu1A=="
+secured: "BpO0NAKL4M38u0JElxOFyj5NFnK08SHIIbpTYvczo8GJ4JpYeZHPyewbwF0RcdHmCrZXzXNLyLg9N0EwPRct+QQPrGdsL08SgX/3M3mGUyo7kOF1il8hJ54yLxwjo54nVy9ADJ2BIBM3DBUoc0RgMqqWpVM0QJK8q8d9F2tz86ZWcXZJhyXI5E2ucWZ0PsuN9q7uY6xbK+RZS448IAx6zMfCyLhiFPKnbPEmyAebq8AMp4V7QSsRP+OfsY2EMjQ2qu+/KrpWOpfxRFWUK4Ys7A==;MUYl/97kjXcXnj53q75Yog=="
 ---
 

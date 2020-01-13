@@ -27,6 +27,6 @@ images:
     height: 400
     title: "Set up authentication for Azure Machine Learning resources and workflows"
 
-secured: "D0SHJuTSbVsgjYHaZHoYaE8gOf0o5gC3c/8DL+i4/ps+THxThv0M5vC1c+vzic5mjThGyZdKQKKdlPLVV2YvVKg6lTggZx6yPX9jqzE6bmSBqc7YvAA0Hw5nhcuXpltFM4AQcAmTKymDotJCcP6Tumua/btUP8ayZ+tY1yjudsHKRC22pUt4L0P+8+okn3m20ci9x4W25N5impTKjh62I8DDa3/Gl05e/boYdDGasZaxGzi4RPGuX2XFhpF8C2x1YC73V5AOc3iXjkm/LtcDpg==;gHtHjPwQdjqfssW+psnw6Q=="
+secured: "qSzzPQAipWhN6woKcJQlybQEFsuE0SUeGbMLVkDjkR5jE0xjqLCofczw4uJKLoKe0D17Av/mhm0OV7eb1VJ28TZejgO3UsuhP9TDoUt17iSq3ySFIHJ4Ks12YhjqgLlUrwiGiI9HYXC8dUMlgLZ6wiBShrVZgveb7Mk7OYBmwL9BNVWnJhMY7H2Vj09XJTCQATyGatpW6P54HFTOgh5iDpHQQEUEmZsuYKj5apanuOxnY/7GqZLJS040URBYC5OukMaxQX6vONwOM/UKlCzkfw==;MdqItNsrtlu1iX1igOEXDQ=="
 ---
 

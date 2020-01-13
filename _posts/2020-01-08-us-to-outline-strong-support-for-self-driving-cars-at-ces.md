@@ -58,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
         width: 700
         height: 366
+  - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
+    excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
+    publishedDateTime: 2020-01-13T21:25:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/electric-cars-battery-range-self-driving-cars-safety/
+    ampUrl: https://www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.1248C513923DD0917FDA25FCC054D5A7
+        width: 700
+        height: 367
   - title: "Telecom Stock Roundup: Qualcomm Boosts Self-Driving, Ericsson's IoT Drive & More"
     excerpt: "In the past five trading days, telecom stocks trended down as geopolitical tensions rattled the market and threatened to spoil the initial euphoria associated with the likely signing of the “Phase One” trade deal between the United States and China."
     publishedDateTime: 2020-01-09T13:57:00Z

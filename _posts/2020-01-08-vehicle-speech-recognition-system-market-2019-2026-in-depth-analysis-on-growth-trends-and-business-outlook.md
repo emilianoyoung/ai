@@ -28,6 +28,19 @@ images:
     title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
 
 related:
+  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
+    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
+    publishedDateTime: 2020-01-13T20:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
     publishedDateTime: 2020-01-11T09:48:00Z
@@ -41,47 +54,50 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Icons Infocom undertakes implementation of Dragon Medical Speech Recognition"
-    excerpt: "Icons Infocom undertook the implementation of Dragon Medical Speech Recognition with Philips digital workflow solution for one of the leading hospitals in India. The client faced several challenges and was looking to eliminate them. Some of the major problems included lack of qualified medical stenos, high dependency on stenos even in critical ..."
-    publishedDateTime: 2020-01-04T15:32:00Z
-    sourceUrl: https://www.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    type: article
-    provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 56
-    images:
-      - url: https://cdn.newsserve.net/newsR256.png
-        width: 256
-        height: 256
-  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
-    publishedDateTime: 2020-01-07T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
+  - title: "Machine Learning as a Service (MLaaS) Market Key Players, Market Drivers, Emerging Opportunities contribute to reach CAGR of 41.2% in 2023"
+    excerpt: "Global Machine Learning as a Service (MLaaS) Market Report (2020-2023) focuses on global major leading Machine Learning as a Service (MLaaS) Market players with information such as company profiles, contact information."
+    publishedDateTime: 2020-01-13T17:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-key-players-market-drivers-emerging-opportunities-contribute-to-reach-cagr-of-412-in-2023-2020-01-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
-    publishedDateTime: 2020-01-13T10:53:00Z
-    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
+  - title: "AI in Telecommunication Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    excerpt: "A recent market research analysis titled, AI in Telecommunication Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with AI in Telecommunication market covering industry surroundings,"
+    publishedDateTime: 2020-01-13T11:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2020-01-13
     type: article
     provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.60101A1A25E5C0D4E2CAC2B8C12BCFB3
-        width: 620
-        height: 500
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
+    excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
+    publishedDateTime: 2020-01-08T18:46:00Z
+    sourceUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
+    excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
+    publishedDateTime: 2020-01-10T14:15:00Z
+    sourceUrl: https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "Vs4vgklhJ/SFJWEJK9s/W2+9zKs0S8avgO+NU+/XVpTJ4yVHCDNgTonoaMMq2sQAc8pO7eR/G12F7EDO4CMDWyDnRIehHC1vou0yHrG6duAft3BXULndLJM/2f0frAj21m6oP3jsgV1kZ85hR/np4h3e26EW9T3/h8V4zxK/OoaFLDuuQU+Tg1bPx/nf0DO3Ktj/cLT37TDLt8EBDk0rGIuuyCNTIA/7waBXh68aqvxfOQ3rHokFT6MMqesHGOAWksx7H4jt50QUq/Qy8r6T5A==;7yuWkeO6SUYPGvILmNg29w=="
 ---
