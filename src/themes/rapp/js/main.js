@@ -254,7 +254,7 @@ $(function ($) {
     $(".email").val(email);
   }
 
-  $(".email").change(function() {
+  $(".email").on('input', function(event) {
     $(".mailster-form").removeClass("subscribed");
   });
 
