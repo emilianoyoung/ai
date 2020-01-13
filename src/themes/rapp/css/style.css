@@ -406,7 +406,8 @@ Start Banner style
   z-index: 9;
 }
 
-.hero-section .app-description {
+.hero-section .app-description,
+.hero-section .app-downloads {
   text-align: center;
 }
 
@@ -2066,6 +2067,10 @@ Start Responsive style
     margin: 50px 0 20px auto;
   }
 
+  .hero-section .app-downloads {
+    max-width: 450px;
+  }
+
   .hero-section .app-ui {
     max-width: 500px;
     margin-left: auto;
@@ -2254,6 +2259,10 @@ Start Responsive style
   .hero-section .app-description {
     max-width: 450px;
     margin: 50px 0 20px auto;
+  }
+
+  .hero-section .app-downloads {
+    max-width: 450px;
   }
 
   .hero-section .app-ui {
@@ -2563,7 +2572,8 @@ p.post-publisher {
 }
 
 @media screen and (max-width : 575px) {
-  .hero-section .app-description {
+  .hero-section .app-description,
+  .hero-section .app-downloads {
     text-align: left;
   }
 }
