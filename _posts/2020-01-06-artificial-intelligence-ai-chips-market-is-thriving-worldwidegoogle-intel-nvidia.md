@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T20:57:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
 type: article
 quality: 94
-heat: 334
+heat: 344
 published: true
 
 provider:
@@ -306,6 +306,15 @@ related:
     excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
     publishedDateTime: 2020-01-10T06:06:00Z
     sourceUrl: https://www.openpr.com/news/1893347/artificial-neural-network-market-outlook-to-2027
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Focus on Artificial Intelligence Platform Market Changing the Way of Business in Upcoming Year with Profiling Key Google, Baidu, IBM, Microsoft"
+    excerpt: "Market Research Report Store offers a latest published report on Artificial Intelligence Platform Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. This study mainly helps understand which market segments or Region or Country they should focus in coming ..."
+    publishedDateTime: 2020-01-13T02:38:00Z
+    sourceUrl: https://www.openpr.com/news/1894308/focus-on-artificial-intelligence-platform-market-changing
     type: article
     provider:
       name: openpr.com

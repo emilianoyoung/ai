@@ -1,22 +1,50 @@
 ---
 category: news
 title: "TimeXtender Discovery Hub® Now Supports Azure Synapse Analytics & SQL Server 2019"
-excerpt: "--(BUSINESS WIRE)--TimeXtender, a recognized global software company enabling instant access to any type of data in the organization to support advanced analytics and artificial intelligence (AI), has announced a new release of ... was upgraded to work seamlessly with both Azure Synapse Analytics and SQL Server 2019. This upgrade enables ..."
-publishedDateTime: 2020-01-08T18:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200108005731/en/TimeXtender-Discovery-Hub®-Supports-Azure-Synapse-Analytics
+excerpt: "TimeXtender, a recognized global software company enabling instant access to any type of data in the organization to support advanced analytics and artificial intelligence (AI), has announced a new release of its ... was upgraded to work seamlessly with both Azure Synapse Analytics and SQL Server 2019. Azure Synapse Analytics unites enterprise ..."
+publishedDateTime: 2020-01-08T19:10:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-timextender-discovery-hubreg-now-supports-azure-synapse-analytics-/2020/01/08/9078594.htm
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "L8sXKZ7mPkDBSkFVH8++sISoFLDTpGyQQ47o+VYWpdLJebn2PXnzqzRsOmkxRp22e+NjuK4i7WtFwl1ZGSDJxH51aRkxfoBkOmxx3+apT8M3taBjxAI09NpgyiFcbGMpZniO09RqI+E1UiMIQfrcnMtCuyQOZMhQsG7Gjd4JGLTWb6dheTVk+U9aCbT3lawlosAeXth613tirZc5AkSA8cRwY8t4W6WbQywm4HOTCRjJjD1WvAEcH8Z+dUy2ip9uCNFinXz9wFq2mJgGb1mgwg==;k+lhqvul5FtYwJUEtnp8kg=="
+related:
+  - title: "What Value Does Microsoft Azure Synapse Bring To World Of Analytics?"
+    excerpt: "Microsoft’s Synapse Compared With AWS’ RedShift & Google’s BigQuery? Azure Synapse also integrates with Power BI and Azure Machine Learning to gain insights for all users, all the way from data scientists to the business users using Power BI. Microsoft also said Synapse partner ecosystem that includes Databricks, Informatica, Accenture ..."
+    publishedDateTime: 2020-01-06T11:07:00Z
+    sourceUrl: https://analyticsindiamag.com/azure-synapse-analytics/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.3199EC52B34C41EF62CDF5E1199626A8
+        width: 700
+        height: 466
+  - title: "What Value Does Microsoft Azure Synapse Bring To The World Of Analytics?"
+    excerpt: "Microsoft’s Synapse Compared With AWS’ RedShift & Google’s BigQuery? Azure Synapse also integrates with Power BI and Azure Machine Learning to gain insights for all users, all the way from data scientists to the business users using Power BI. Microsoft also said Synapse partner ecosystem that includes Databricks, Informatica, Accenture ..."
+    publishedDateTime: 2020-01-06T17:17:00Z
+    sourceUrl: https://analyticsindiamag.com/azure-synapse-analytics/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.3199EC52B34C41EF62CDF5E1199626A8
+        width: 700
+        height: 466
+
+secured: "LosEkErcWVKyuOe1enokUzmUrRrsPlfyNNnJUewC+R15/t7LsxaSi+U2Ip6sS+KSAwISoyEsF5WGrgxMaYP8WNIH4zb6/HifiszlAiHv4FGMKQVb6zRcWaEq1Tzj19tZhzXUPr+QXb0hOxxx17Oaxx3u7haMp7wuWK4LDqH2GBRH4U8Uz2mGWcXtAMgYv5QvR3y9am91PB2v3qBo8U3as4qAEwEOs4J4HW+Q3ZLHRWxeQz5wbkZdHrzvrVlhCJX6W7BzUmfgMmaP9m5wWljiPg==;9OzEyLt9BQXMlFd0AYmSeA=="
 ---
 

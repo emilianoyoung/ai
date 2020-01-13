@@ -310,6 +310,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
+  - title: "Focus on Artificial Intelligence Platform Market Changing the Way of Business in Upcoming Year with Profiling Key Google, Baidu, IBM, Microsoft"
+    excerpt: "Market Research Report Store offers a latest published report on Artificial Intelligence Platform Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. This study mainly helps understand which market segments or Region or Country they should focus in coming ..."
+    publishedDateTime: 2020-01-13T02:38:00Z
+    sourceUrl: https://www.openpr.com/news/1894308/focus-on-artificial-intelligence-platform-market-changing
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "o+pxufvufOwLRNYeT5RxFo8SOuEz8wY3+WdKvUiBZq6GEbTSUbeEz6i2oRG2WOupanIzl90Fsy2gTwibB4LZEAQ5GKv90pkVFz9zMcQLE/pkrb/yGU9LxpQKYYM7lz4dTp1z266/IYz2ivjwp1GE0rgvLO3l+scLhJrTyEP5p4R15RmHPB1fEkqdDZ5yCZavrDW26SneKEcJGM8dvbiiRoFTB2cu4ZtV1NVgJQ6gJjkIPHHk9djk97QeaeFnE58ZCZKjA+Ow0WSJD0oj+y9m4A==;Hgv/DEMV2mJqENu+gMUFYQ=="
 ---

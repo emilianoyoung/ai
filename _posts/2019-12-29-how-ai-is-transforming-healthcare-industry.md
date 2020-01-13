@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
         width: 615
         height: 384
-  - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
-    excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
-    publishedDateTime: 2019-12-28T09:17:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-healthcare-sector-advancements-090148569.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.B9FA02316D03526660BE2C72951411B9
-        width: 660
-        height: 440
   - title: "How to Ensure Your Health Care Innovation Doesn’t Flop"
     excerpt: "These days, everyone working in health care is chasing innovation to thrive in this era of increased accountability ... Many organizations define innovation as novel technologies, processes, and business models. They may regard artificial intelligence, just-in-time supply chain, or bitcoin as innovations. These things, at least in their early ..."
     publishedDateTime: 2019-12-28T16:43:00Z

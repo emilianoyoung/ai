@@ -1,27 +1,20 @@
 ---
 category: news
-title: "Global Intelligent Process Automation Market Drivers, Restraints & Opportunities During the Forecast Period, 2019-2027 - ResearchAndMarkets.com"
-excerpt: "As a result, industrial robots are anticipated to generate higher profitability levels for the logistics industries. The deployment of artificial intelligence technologies like machine learning, automation and computer vision in robots is estimated to augment the growth of the market. These advanced automated systems can understand the sensory ..."
-publishedDateTime: 2020-01-10T15:41:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200110005425/en/Global-Intelligent-Process-Automation-Market-Drivers-Restraints
+title: "Focus on Artificial Intelligence Platform Market Changing the Way of Business in Upcoming Year with Profiling Key Google, Baidu, IBM, Microsoft"
+excerpt: "Market Research Report Store offers a latest published report on Artificial Intelligence Platform Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. This study mainly helps understand which market segments or Region or Country they should focus in coming ..."
+publishedDateTime: 2020-01-13T02:38:00Z
+sourceUrl: https://www.openpr.com/news/1894308/focus-on-artificial-intelligence-platform-market-changing
 type: article
-quality: 3
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
-  - AI in Robotics
-
-images:
-  - url: https://www.bing.com/th?id=ON.50F48697E2035D8FA9373BD62F111224
-    width: 700
-    height: 365
-    title: "Global Intelligent Process Automation Market Drivers, Restraints & Opportunities During the Forecast Period, 2019-2027 - ResearchAndMarkets.com"
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
@@ -288,6 +281,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 16
+  - title: "Global Intelligent Process Automation Market Drivers, Restraints & Opportunities During the Forecast Period, 2019-2027 - ResearchAndMarkets.com"
+    excerpt: "As a result, industrial robots are anticipated to generate higher profitability levels for the logistics industries. The deployment of artificial intelligence technologies like machine learning, automation and computer vision in robots is estimated to augment the growth of the market. These advanced automated systems can understand the sensory ..."
+    publishedDateTime: 2020-01-10T15:41:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200110005425/en/Global-Intelligent-Process-Automation-Market-Drivers-Restraints
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
+    images:
+      - url: https://www.bing.com/th?id=ON.50F48697E2035D8FA9373BD62F111224
+        width: 700
+        height: 365
   - title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
     excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
     publishedDateTime: 2020-01-08T06:15:00Z
@@ -306,16 +312,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
-  - title: "Focus on Artificial Intelligence Platform Market Changing the Way of Business in Upcoming Year with Profiling Key Google, Baidu, IBM, Microsoft"
-    excerpt: "Market Research Report Store offers a latest published report on Artificial Intelligence Platform Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. This study mainly helps understand which market segments or Region or Country they should focus in coming ..."
-    publishedDateTime: 2020-01-13T02:38:00Z
-    sourceUrl: https://www.openpr.com/news/1894308/focus-on-artificial-intelligence-platform-market-changing
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
-secured: "hiTStSM/B2ursBtyVvAlu7x1c9jyaekmTz3Tutd48fRY00hnYVzNHGDXtmbt3MUcI3QzDrbxoQOJgD6vrYLHayD8wPFiQRnF0xvaoeCgC0x/2nKbi1jUx8rK6XxX2XWsYe6HriOb+SFBUlFp1tN8CRRNHSvc/DhiA4wenGZhQcsGapyn8jsY28eHUf+P/DaAk60G0clFW455zhoiu8B6kPsnmzfL8pJurjlw9/kvL0SMNQXDXkUFAS7JUkF9PHtRSrltHC9tYtzdEFSo5pXGZQ==;wym6Rclo+n2/mEIMptaUdQ=="
+secured: "wzVxDJ4821C5TDOzKG8n+azYqC6ILyoMMzIh3FakUil0Wc+/wvezaXtdjIJLHtZoTDH6WNOBjQdOj7gi4xtXGvlOTCoDWqN1bzXsvUqjILXWct1lzljorKNptWpmWEBfEiMBf5F1ge311A6AaZrpH9VumxyqRSJ1a5CoZJFRZxXpuEfiiN9gDyoRl5E9ZbjaN4D6KNpNCWQftOB660ZHlmXmfFHgwx4R2igsbziJ5OXLu6rRXO/eFTX8htDF/BpY0pjROO7c2R1ewun/7/gSQA==;+6Wnz/TAvuHrO/rg4FGSdA=="
 ---
 
