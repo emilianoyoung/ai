@@ -2069,6 +2069,7 @@ Start Responsive style
 
   .hero-section .app-downloads {
     max-width: 450px;
+    margin: 0 0 0 auto;
   }
 
   .hero-section .app-ui {
@@ -2263,6 +2264,7 @@ Start Responsive style
 
   .hero-section .app-downloads {
     max-width: 450px;
+    margin: 0 0 0 auto;
   }
 
   .hero-section .app-ui {

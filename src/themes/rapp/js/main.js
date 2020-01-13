@@ -255,6 +255,8 @@ $(function ($) {
     for (var i = 0; i < formIds.length; i++) {
       var buttonId = "#subscribe-button-" + formIds[i];
       $(buttonId).addClass("subscribed");
+      var formId = "#mailster-form-" + formIds[i];
+      $(formId).addClass("subscribed");
     }
   }
 

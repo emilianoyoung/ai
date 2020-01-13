@@ -52,10 +52,14 @@ themes:
   rapp:
     header:
       title: <b>AI</b> Inside Out
-      description:
-        part1: A free, daily digest of what's new in Artificial Intelligence.
-        part2: A professional app of all things AI.
-      screenshot: https://fiona-bi.github.io/ai/assets/images/banner-app.jpg
+      newsletter:
+        description: A free, daily digest of what's new in Artificial Intelligence.
+        form_id: 3
+      app:
+        description: A professional app of all things AI. 
+        screenshot: https://fiona-bi.github.io/ai/assets/images/banner-app.jpg
+        android: /
+        ios: /
 
 
 #----------------------------------------------------------------------------------

@@ -36,15 +36,15 @@
                     <div class="col-md-12 align-self-center">
                         <div class="hero-content">
                             <h1>{{ config.title }}</h1>
-                            <p>{{ config.description.part1 }}</p>
-                            <form action="https://insideout.news/mailster/subscribe" method="post" class="mailster-form mailster-form-submit extern mailster-form-3">
+                            <p>{{ config.newsletter.description }}</p>
+                            <form action="https://insideout.news/mailster/subscribe" method="post" form-id="{{ config.newsletter.form_id }}" class="mailster-form mailster-form-submit" id="mailster-form-{{ config.newsletter.form_id }}">
                                 <input name="_action" type="hidden" value="subscribe">
                                 <input name="_referer" type="hidden" value="extern">
                                 <input name="_nonce" type="hidden" value="55922c927f">
-                                <input name="formid" type="hidden" value="3">
+                                <input name="formid" type="hidden" value="{{ config.newsletter.form_id }}">
                                 <div class="newsletter-wrapper">
                                     <i class="fas fa-envelope"></i>
-                                    <input id="mailster-email-3" name="email" type="email" value="" placeholder="Your email *" class="input email mailster-required" aria-required="true" aria-label="Your email" spellcheck="false">
+                                    <input id="mailster-email-{{ config.newsletter.form_id }}" name="email" type="email" value="" placeholder="Your email *" class="input email mailster-required" aria-required="true" aria-label="Your email" spellcheck="false">
                                     <input name="submit" type="submit" value="Subscribe" class="submit-button button" aria-label="Subscribe">
                                 </div>
                             </form>
@@ -56,7 +56,7 @@
             </div>
             <div class="col-lg-6 offset-lg-6 col-xs-12 order-lg-12 app-description">
                 <div class="hero-content">
-                    <p>{{ config.description.part2 }}</p>
+                    <p>{{ config.app.description }}</p>
                 </div>
             </div>
             <div class="col-lg-5 col-xs-12 pos-r order-lg-1 app-ui">
@@ -64,7 +64,7 @@
                     <div class="col-md-auto col-sm-auto">
                         <div class="banner-app-mock">
                             <!--mobile inside image-->
-                            <img src='{{ config.screenshot }}' class="main-img" alt="mobile inside image" />
+                            <img src='{{ config.app.screenshot }}' class="main-img" alt="mobile inside image" />
                             <!--mobile mockup-->
                             <img src="{{ THEME_DIRECTORY_URL }}/images/mobile-mock.png" class="mockup" alt="mobile mockup" />
                         </div><!--/.banner-app-mock-->
@@ -76,7 +76,7 @@
                 </div>
             </div>
             <div class="col-lg-6 offset-lg-6 order-lg-12 col-xs-12 app-downloads">
-                <a href=""><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="width: 200px;" /></a>
+                <a href="{{ config.app.android }}"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="width: 200px;" /></a>
             </div>
         </div>
     </div>
