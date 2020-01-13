@@ -54,9 +54,9 @@ related:
   - title: "Influencer Marketing Platform Market Size Worth $23.52 Billion by 2025: Grand View Research, Inc."
     excerpt: "Advanced technologies such as Artificial Intelligence (AI), Artificial Neural Networks (ANN), Natural Language Processing (NLP), and Machine Learning (ML) provides better search results and analytics, which is expected to guide marketers in taking better decisions. Key suggestions from the report: Read 100 page research report with ToC on ..."
     publishedDateTime: 2020-01-13T09:05:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811638
-    ampUrl: https://markets.businessinsider.com/amp/news/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811638
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811638
+    sourceUrl: https://markets.businessinsider.com/news/stocks/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811639
+    ampUrl: https://markets.businessinsider.com/amp/news/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811639
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811639
     type: article
     provider:
       name: Business Insider

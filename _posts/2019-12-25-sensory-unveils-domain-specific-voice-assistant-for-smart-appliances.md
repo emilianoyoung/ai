@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5FB91E3A6ECCB9DAA72F5D76AA1D05C6
         width: 650
         height: 370
-  - title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
-    excerpt: "SANTA CLARA, Calif., Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been ..."
-    publishedDateTime: 2019-12-24T15:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances-300979165.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.40B1A661AA6399ACE7181787DF620388
-        width: 700
-        height: 366
   - title: "Sensory platform for smart kitchen appliances brings voice assistant AI to the edge"
     excerpt: "Sensory is showcasing at CES 2020 its domain specific assistant for smart appliances based on its vocabulary speech recognition and natural language understanding platform TrulyNatural, the company announced. Following a partnership with Midea Microwave and Cleaner Appliances (MCA) business unit, a preview of how the system works with a ..."
     publishedDateTime: 2019-12-30T19:26:00Z

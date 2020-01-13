@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-20T23:50:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: BCW
@@ -24,31 +24,44 @@ images:
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
 related:
-  - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
-    excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little ..."
-    publishedDateTime: 2019-12-17T15:07:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
-    ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-27T09:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
-        width: 1198
-        height: 599
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
+    publishedDateTime: 2019-12-25T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
+        width: 700
+        height: 495
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
 
-secured: "4fppjB2h37NzYMBaI/Lh02Btl0dc537R/JgxHaHXN8n4FRUpc+iKn8o7pM6z4bX+1w/1vHzEM/F9eG9SizXHcJdZO3sEPoGqQPgs+7Y899LB747I6VLfzSImH4dUapBdyAIAtCOYrdHTAecrC1uSs7rosWdCWd7m5P5twZ2dnRQAYc32oKNfDwh9quCX1bwybrx4baJ5htS1qFGBcdezZ9DVmi0C+VI+05hKq79qo4b/v+uOwDOM1ppwBSIrcDnLwMV8S4T9p+MXu97S7lQakw==;BFHIDu0gqOTsq86/0FPfAA=="
+secured: "pb4sP1XfzlerrRREUeyS6VrPrQraoOQ+d0IBwL3eAOdjaV0ITjsTi0LMptCXeryN3Z360Yl19VI4uYv42clP/4j+hcgFPbJpAhINt9xLVnVQEdQJO2HtaVNshrW/V6qJ9O2OkhjJNiEDTrIT8puttcsKdp4Ho1JbEcmoNBj1icUR5iMGwOX1uhGbURypLirOwjWS6MO0x7iU5ZsC+Ktk3a9Te8SmmjDlmSYDVa69uP2Sd0rPDLTEchIS3Py/G9SS/GBuIUTk7JfRoX1V2kJ4wA==;uB95ed5Smu6H4cmVX9dCFQ=="
 ---
 

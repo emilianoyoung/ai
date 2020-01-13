@@ -24,30 +24,28 @@ images:
     title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
 
 related:
-  - title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-    excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial neural network was completely neglected in the early stage of artificial intelligence development, then gradually recognized and became a large-scale ..."
-    publishedDateTime: 2020-01-09T19:45:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-    ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+  - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
+    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises, Cloud), By End-User (BFSI, Media and Entertainment, Retail and Consumer Goods, IT and ..."
+    publishedDateTime: 2020-01-07T05:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-rise-at-a-cagr-of-597-forecast-till-2026-2020-01-07
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
-    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
-    publishedDateTime: 2020-01-10T20:05:00Z
-    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
-        width: 700
-        height: 490
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "The global medical exoskeleton market at a CAGR of almost 29% during the forecast period"
+    excerpt: "Factors such as voice recognition control, complemented with artificial intelligence (AI) technology, to aid bodily movements in patients ... Overview Advantages of medical exoskeletons in rehabilitation Medical exoskeletons are used as a rehabilitation therapy device by patients with paraplegia and paralysis, aiding them to stand and walk ..."
+    publishedDateTime: 2020-01-08T00:00:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-medical-exoskeleton-market-cagr-210500009.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 0
 
 secured: "xiXR91ClEJn2r7SVHPFc7mPJtyxN+SrHkOb9X0V29+VLji+V4FlJHcs4kovMQmEnzQnDdhjoCBh6U8Px66k6Y3AxLc+t9MZVwtpamWEX74tMveV1tCfSBy1NcDA4GZ7vKK9vqNfcPujWy6F/IXbHQoDSvBBHTB0vdMU8hUsILha0Jz3dj/Qje4Z2k2ctIjaQ3AwveyObOINFajG0R1j4/83xO8J37V1FMAMfg6aJ4D6hcGSSPWB8s1c2gvlOM/x0qgSyjzrqnSdbkqi7ymC58Q==;Jq8uF4nyCFCVjP9CbdeDMw=="
 ---

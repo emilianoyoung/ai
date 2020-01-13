@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -60,19 +60,6 @@ related:
       - url: https://postmediamontrealgazette2.files.wordpress.com/2019/12/autos-autonomous-.jpg?w=1000&amp;quality=80
         width: 1000
         height: 750
-  - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
-    excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
-    publishedDateTime: 2019-12-24T15:32:00Z
-    sourceUrl: https://www.businessinsider.com/career-advice-from-the-brightest-young-minds-in-self-driving-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
-        width: 700
-        height: 350
   - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
     excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
     publishedDateTime: 2019-12-27T21:06:00Z

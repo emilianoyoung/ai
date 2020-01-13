@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T16:43:00Z
 sourceUrl: https://www.arnnet.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ topics:
   - AI
   - AI in Autos
 
-secured: "BIgePThErW3Svcom35GAp6CUJ5R37I1hJdKrRegKZjZYUcj6B+RhewdSEpnNPhogUFUBkLaEL91/tgi8BT1HMV3dcJlw6ED8dIA03yvUJ/+jOfMrKeBDo+QeLtCVGpfu3fAwq09VkzE/Lu4ofnq1yv2qO7tB/FKgO2Yo7ajO5enMOfPuropoy2ZJhdXR7MnMByFp9U3q48AMgcmJzS6GoVbbIPalS3n6UtpHp0eEurSZXhWxUaHt4qjdv8ocjSXuqqWXILvIXh02WgLNSLUn3Q==;LTe0SeLAa6Vp24mj4bES/g=="
+related:
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
+
+secured: "xRZGI+WRl3NFvUae3LaA9ylUrs3RCPegBVsPgObcJItONFQV5NOhAmKGwUnsTYV7S3bWrr8348PDo6QQbcVLHUfeW/xI1tWvGT8Kh+7+t5YSRZUgsvUm5yO0x9bU5aLLQ1/eDdYh3NnOxpeALUWhsrBwTAQMLhc+b4Q44DnZ4CnfG0N63I49wRVVNiGBif8y9T0IB9Fc7Aul5rE2fqO0gWpLTJ9A9+Swt69zmmL8h51kg//f1RfYBedGj+q8QiAMsTRopHq2vG+0NOqrkO5UQg==;HnlPx7jxCMspzyG1ZF0YvQ=="
 ---
 

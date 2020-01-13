@@ -839,19 +839,6 @@ related:
       - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
         width: 700
         height: 411
-  - title: "Art exhibition in China offers rare reflection on facial recognition and surveillance"
-    excerpt: "Eyes of the City is jointly hosted by Shenzhen and neighboring Hong Kong, a city rocked by recent protests against China's influence An art exhibition exploring the impact of facial recognition technology has opened in China,"
-    publishedDateTime: 2019-12-24T15:12:31Z
-    sourceUrl: https://www.msn.com/en-sg/news/other/art-exhibition-in-china-offers-rare-reflection-on-facial-recognition-and-surveillance/ar-BBYj7hN
-    type: article
-    provider:
-      name: Abacus on MSN.com
-      domain: msn.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.F6264CB93784DA72FD99047738D9F53D
-        width: 600
-        height: 315
   - title: "New trials and rollouts of biometric facial recognition to prevent underage gambling"
     excerpt: "We’ve just got to make sure that whatever we do doesn’t compromise our privacy obligations,” he says. The technology, which SMH refers to as facial recognition software, will not operate at TAB retail terminals in pubs and clubs. During the trial, Tabcorp worked with Australian machine learning and AI company Eliiza and three facial ..."
     publishedDateTime: 2020-01-03T18:11:00Z

@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Deep learning vs. machine learning: Understand the differences"
-excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep learning, which require a much higher level of computing resources, the most common algorithms are Naive Bayes, Decision Tree, Logistic Regression ..."
-publishedDateTime: 2020-01-06T11:03:00Z
-sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
-ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
-cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+excerpt: "Both can handle numeric (regression) and non-numeric (classification) problems, although there are several application areas, such as object recognition and language translation, where deep learning models tend to produce better fits than machine learning models. Machine learning algorithms are often divided into supervised (the training data ..."
+publishedDateTime: 2020-01-06T11:06:00Z
+sourceUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
+ampUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
 type: article
-quality: 104
-heat: 124
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: /assets/images/organizations/infoworld.com-50x50.jpg
-      width: 50
-      height: 50
+  name: ITworld
+  domain: itworld.com
 
 topics:
   - AI
-  - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.C6E9BA3D0630CDD05A14B309F332A045
@@ -29,34 +25,6 @@ images:
     height: 116
     title: "Deep learning vs. machine learning: Understand the differences"
 
-related:
-  - title: "Using Meta-Learning to Train Agents to Learn Generic Concepts"
-    excerpt: "Is it possible to recreate this neuroscientific miracle in artificial intelligence(AI) agents? Last year, researchers from OpenAI published a paper proposing a technique for concept learning based on a deep learning method known as energy functions. Energy-Based Models are a class of deep learning algorithms that focus on capturing dependencies ..."
-    publishedDateTime: 2019-12-31T15:13:00Z
-    sourceUrl: https://towardsdatascience.com/using-meta-learning-to-train-agents-to-learn-generic-concepts-b8378022b1f7
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.89D67A4F8085D6823FB349299C46BC02
-        width: 700
-        height: 393
-  - title: "Competing with robots: How online learning can keep professionals winning in the future"
-    excerpt: "Future jobs will need us to possess skills that robots do not. How can we compete with robots and come out winning? Upskilling and online learning can help us with the answers."
-    publishedDateTime: 2020-01-09T09:57:09Z
-    sourceUrl: https://www.msn.com/en-in/news/other/competing-with-robots-how-online-learning-can-keep-professionals-winning-in-the-future/ar-BBYMh6X
-    type: article
-    provider:
-      name: India Today on MSN.com
-      domain: msn.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.896326F17B367D2EC691AAAAE5D0CE29
-        width: 600
-        height: 315
-
-secured: "Ri6n0tMPjfI+zIHmy09Rnh13lAfUJNz8K0UvRs3AArNve94wHbMVABLxKBqPZFM7IEdJGxR4UpCUX3Q0sSL17KDq+MdTu21lCj+weEleLyGMuGwB5ms2MrMzHGkoh5rYd1hVVdHpCEr1qC7y9rr0olJqksRGiudlAPt9FZoGiKVvce/DlEr7VxOw8Y1TV/FIqzeRx6EtECbJGWP0Z/39eldhsLTJ8rjjc6XRqvmEUsmJzZ7MGqbLJltAXZn12lL9m4h1KV/OI2tY+pR2k5diVQ==;5XqdXQgpMg6c5YJfelCEpg=="
+secured: "/PCcya7L6ep7mXwIM9eNiSPFq3d+8cUet+kx1in9h41TenYu9qUP8PgRGBze9sfMUQLPiC+PUvTlefiKbWpF0V9zXs7+M4x7v5ei4ByOMxfzP5LiCS/dKiQDLCD/HQrxXLyRJ+cSSBg2Ocbin1faPdFIzYGkc+s5w2i4nzY2r2w8shwZS6xWapm40ApCp2Zzlhib93s0+6i1fDul3Sqg2Xf3vPizlL4KOFfxpTrPbYVRjchxHuo8CLT2R5CxSE5WElFUNOJF02ipke4n4htoRA==;4llM/YnSoARL7F9hTPKCeg=="
 ---
 

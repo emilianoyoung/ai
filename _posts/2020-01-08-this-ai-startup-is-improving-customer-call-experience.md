@@ -8,7 +8,7 @@ ampUrl: https://www.entrepreneur.com/amphtml/344674
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344674
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -40,6 +40,21 @@ related:
     quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.703FA8EC26487164ABB3A1A6A94B7EDE
+        width: 700
+        height: 466
+  - title: "Adobe unveils Adobe Experience Manager as a Cloud Service to transform customer experience"
+    excerpt: "Built on Microsoft Azure and leveraging AI capabilities powered by Adobe’s Sensei, the cloud-native solution provides customers with a scalable, secure and agile application that accelerates the delivery of personalised omni-channel experiences with PaaS-like agility. “Our strategy has always been to change the world through digital ..."
+    publishedDateTime: 2020-01-13T15:54:00Z
+    sourceUrl: https://www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.html
+    ampUrl: https://www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.BA01D99EB8E5A6B20EFE9E42317E2004
         width: 700
         height: 466
   - title: "How This UK-Based Fintech Startup Is Using AI Credit Platform To Provide Debt Finance To SMEs"

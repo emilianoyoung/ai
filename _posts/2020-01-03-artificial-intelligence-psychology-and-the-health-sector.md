@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These include autopilots, computer-controlled automobile engines, MRI machines (health services), self-driving cars (transport services), as well as high skilled services such as A.I. radiology reports, legal services, and mental ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Psychology Today
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
   - Machine Learning
 
 images:
@@ -25,6 +26,21 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "+a2xdQ2PPGb9MkR/pS3uO4qfZSZbe5+D+R3zoZC5QeVdWyXAfKHg30kthBlIdhCaTsQ1BVoh1hQ1c7jMnLSyWet2600WM+BUvMJI9SE+XKwMBeb0YRl2EPfh7sbzroHRkxll4iDDsXuRrMU9nni4Z6zmzGNXzRhmRvR3t5zRk8HJ+zeaXs9S27LI08jcft4gL7FI5YNnI3ufu6HM1ouHJspMqsUIWapVmFhcmtwV46QItrRgkNh/pGEhR0kawjTHOpOOBJC1+xc/GRFeyp/5iA==;B0JIvQwPWnsW6Spirpnvvg=="
+related:
+  - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
+    excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
+    publishedDateTime: 2019-12-28T09:17:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-healthcare-sector-advancements-090148569.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.B9FA02316D03526660BE2C72951411B9
+        width: 660
+        height: 440
+
+secured: "g1r2QSdfDxzWY415lpngJ247NLtRfkLij+nsH826L6EOtaW4mC42fin8Dw/iHQUoFz67JqZVNnEMXx47YEtlRBD1Mh7TfGyy7tS5OjLjkZ2FwgZNCEFSnVaasQpcmetGUFKH9TGRn7+VThCyrbiZ8lPTwxvpD2jkqGRi6btbwdjdHLCvQsAyDufTSEQz6p6oULWXnQPfLw339SHp4iXhyB4Asb1E3XIJdj+lyGXgC7uF2IrMmJiyz4Z7pYZ3jQs6ALq6YK2V51YQIMU1BjyjWg==;eZl1ehS6iD1hDUt4+Yjs7w=="
 ---
 

@@ -52,6 +52,21 @@ related:
       - url: https://www.bing.com/th?id=ON.703FA8EC26487164ABB3A1A6A94B7EDE
         width: 700
         height: 466
+  - title: "Adobe unveils Adobe Experience Manager as a Cloud Service to transform customer experience"
+    excerpt: "Built on Microsoft Azure and leveraging AI capabilities powered by Adobe’s Sensei, the cloud-native solution provides customers with a scalable, secure and agile application that accelerates the delivery of personalised omni-channel experiences with PaaS-like agility. “Our strategy has always been to change the world through digital ..."
+    publishedDateTime: 2020-01-13T15:54:00Z
+    sourceUrl: https://www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.html
+    ampUrl: https://www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.BA01D99EB8E5A6B20EFE9E42317E2004
+        width: 700
+        height: 466
 
 secured: "RpvTUtdvRr+iLmkoN5aNkSzhT840bVFuUJC9mwibMkvRB9FglUkpun9GnaLNCVFSQ00mXQg6ySeS6lay1FUC+4lN69LzUC8TROjAsM67BExehQzTEoPYTr/Y2bPJQVoUg5xMoxXJ6n5k9OQMCF/95t7qNjexhYoHndbs7Kp4HE4AeBpgCshBFKOAonb7hBtSiT+56ZvErRzSe40oWJ0QRV1QhiiSOsaSVsmZZo5GnhWB6vVuhVEVV12Wb+YrLvRsi695F82DljgpqhAHgi20sw==;hYFd/N3VfDuVgY2bKrN/cQ=="
 ---

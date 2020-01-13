@@ -5,8 +5,8 @@ excerpt: "This is where machine learning and more specifically, natural language
 publishedDateTime: 2020-01-13T15:10:00Z
 sourceUrl: https://www.finextra.com/newsarticle/35053/natural-language-processing-is-the-next-step-to-automation/cloud
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AWS AI
 
 images:
   - url: https://www.bing.com/th?id=ON.FED4338DE90236C333167A425AF10D34

@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E1857924AFDEBB7C899544FB16CEE4BF
         width: 700
         height: 466
+  - title: "Adobe unveils Adobe Experience Manager as a Cloud Service to transform customer experience"
+    excerpt: "Built on Microsoft Azure and leveraging AI capabilities powered by Adobe’s Sensei, the cloud-native solution provides customers with a scalable, secure and agile application that accelerates the delivery of personalised omni-channel experiences with PaaS-like agility. “Our strategy has always been to change the world through digital ..."
+    publishedDateTime: 2020-01-13T15:54:00Z
+    sourceUrl: https://www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.html
+    ampUrl: https://www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3513862/adobe-unveils-adobe-experience-manager-as-a-cloud-service-to-transform-customer-experience.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.BA01D99EB8E5A6B20EFE9E42317E2004
+        width: 700
+        height: 466
   - title: "How This UK-Based Fintech Startup Is Using AI Credit Platform To Provide Debt Finance To SMEs"
     excerpt: "With each passing year, the fintech sector is providing faster, flexible and secured consumer experience, and is protecting against the risks and vulnerabilities of traditional insurance and loans. In fact, the global fintech market size is expected to grow to $124.3 billion by the end of 2025 at a CAGR of 23.8%. With a vision of providing ..."
     publishedDateTime: 2020-01-10T09:37:00Z
