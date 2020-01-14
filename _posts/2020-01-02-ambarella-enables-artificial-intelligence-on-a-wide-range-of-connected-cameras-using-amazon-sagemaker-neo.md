@@ -3,7 +3,7 @@ category: news
 title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 excerpt: "LAS VEGAS--(BUSINESS WIRE)--Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow®-powered AI ..."
 publishedDateTime: 2020-01-02T10:10:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200102005052/en/
+sourceUrl: https://www.businesswire.com/news/home/20200102005052/en/Ambarella-Enables-Artificial-Intelligence-Wide-Range-Connected
 type: article
 quality: 37
 heat: -1
@@ -38,6 +38,6 @@ related:
         width: 800
         height: 600
 
-secured: "P2w7kbiqCYkutBAmL6cnThHqiQNJTfa1eRl/MxfCJmL4C6TvZOHYd9aa6PHh5tjS+hbRkR/gGGRbGZGfvTYunitarXzDuepONH71ygAEO79M4G7bAmn7wKH0YRuf5bH4D/Anz2D4INATZ3QpqRp5j/G57B9tEmYiQj5kkGrEk+DJ6KJePAYstoraxKD9leVj/nsNQ+QRHtCiZpmlbXh5rXVWXubv3LozRvpGlwRkh2iB/oOgB3jd6libzgAxZegCkh/4xCDL2b0nlttjuHTIoQ==;zSqNeP96x7Qrdj5SkTQZAw=="
+secured: "qsBQWc5DAW51I9RczLGTnTllLro7pFIuIPstKEpG9IGDAHbYgXpl2GErdrJrec5cMpE5iIMzTkEakJMUAhIGOC1gOhxozGT+Z+VvV2ZUJMolAbX+uAAOkGA6e5k4RxbkmYAeUN4TlNhFVdn0VUYy8nNlXMVJIGhnG9MN5LfPlCa6HpDlChxvW4+5SxXvIOFU3dBu1XQGgu32qvZhB5Ph3qZCf6C3hxoA2Dj6K3UvYVz23tMU+px3ELjr8r9AbBv16tDf58w8yp6829g5dAucwg==;AXMJ4PjOWm4EClUqZjVa0w=="
 ---
 

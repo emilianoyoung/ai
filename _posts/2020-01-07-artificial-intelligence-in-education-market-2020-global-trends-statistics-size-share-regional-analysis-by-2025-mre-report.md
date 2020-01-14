@@ -28,58 +28,54 @@ images:
     title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
 
 related:
-  - title: "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025"
-    excerpt: "“Grand View Research, Inc. – Market Research And Consulting.” Artificial Intelligence in Healthcare Market Size, Share, & Trends Analysis By Component"
-    publishedDateTime: 2020-01-09T08:35:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025
-    ampUrl: https://amp.benzinga.com/amp/content/15096479
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479
+  - title: "Artificial Intelligence Platform Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market report provides geographic analysis covering regions, such as North America, Europe ..."
+    publishedDateTime: 2020-01-07T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Influencer Marketing Platform Market Size Worth $23.52 Billion by 2025: Grand View Research, Inc."
+    excerpt: "Advanced technologies such as Artificial Intelligence (AI), Artificial Neural Networks (ANN), Natural Language Processing (NLP), and Machine Learning (ML) provides better search results and analytics, which is expected to guide marketers in taking better decisions. Key suggestions from the report: Read 100 page research report with ToC on ..."
+    publishedDateTime: 2020-01-13T09:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811639
+    ampUrl: https://markets.businessinsider.com/amp/news/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811639
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/influencer-marketing-platform-market-size-worth-23-52-billion-by-2025-grand-view-research-inc-1028811639
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "Artificial Intelligence Platform Market 2019 Global Trend, Segmentation and Opportunities, Forecast 2025"
+    excerpt: "“”Artificial Intelligence Platform Market”” WiseGuyReports.com adds \"Global Artificial Intelligence Platform Market Research Report 2019\" reports"
+    publishedDateTime: 2020-01-10T08:10:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15103267/artificial-intelligence-platform-market-2019-global-trend-segmentation-and-opportunities-forecast
+    ampUrl: https://amp.benzinga.com/amp/content/15103267
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15103267
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 61
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.F09976806D1E0EF0F4294E2A66AF1579
-        width: 600
-        height: 300
-  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
-    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
-    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
-        width: 700
-        height: 373
-  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
-    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
-    publishedDateTime: 2020-01-08T05:29:00Z
-    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.820DBC9D9B739CF5F2CF93320F921140
-        width: 599
-        height: 450
-  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
-    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
-    publishedDateTime: 2020-01-07T11:09:00Z
-    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
+      - url: https://www.bing.com/th?id=ON.6E354FA1079753A1B44B8B9AF6E85E9D
+        width: 278
+        height: 333
+  - title: "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025"
+    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public, Hybrid, and Private), By Technology (Recognition, Operation, and Analytics), By Application (Voice & Speech Recognition, Data Processing ..."
+    publishedDateTime: 2020-01-13T14:02:00Z
+    sourceUrl: https://www.openpr.com/news/1894966/cloud-natural-language-processing-nlp-research-analysis
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 6
+    quality: 0
 
 secured: "Xr5ym1FMbcxxdEYNAuixO+Eqfrzlt2Y8hPoCDeqlCGsPXfTyY5Q1I/tG2o+itRM9wB6qc90ecer9oHvqA8ZZRqZLjmnRx2J2lRrtZNtn0k/tngDK/FP4q2YCF9kXZOGSia7hIZ0AWOeGtcirdNwdFZQUdSApDjFLcZcMy/W3mIouYj0gn7042fviV+2QZvIQTu/VFllU5ZctEf5DRabGIlLm+o5+atQBPj4jCZnHXPkWzYBR+QbAJFQpR+aFVSRQ48nLGzVHuYqzbBzEvG7MYA==;V6iSEhvWsPhSyXL91VSVTg=="
 ---

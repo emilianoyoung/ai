@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI Chip Company Syntiant Joins Qualcomm Extension Program"
-excerpt: "IRVINE, Calif, Jan. 07, 2020 (GLOBE NEWSWIRE) -- Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm [(R)] Extension Program,"
+excerpt: "Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm Extension Program, offering OEMs and ODMs accelerated integration of its ultra-low-power neural network technology with Qualcomm Bluetooth audio platforms and SOCs."
 publishedDateTime: 2020-01-07T12:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07-8184036
+sourceUrl: https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     height: 630
     title: "AI Chip Company Syntiant Joins Qualcomm Extension Program"
 
-secured: "fV48TOvnCjQdS0cQSvsiCLlg46wjMo0jaoAOzlGhT2DMxxwXLMJU9/FrVPypd4ex9P/2lvWGGKwrJ3yjGI2Tba56/9ZdzvAv3X/CWTf4i+UO/Wy88Da7FqYRMfg/Jrm4QZ5BlAJ86OKX/V9jG98MDB4wIPsFiGN6bF57gwife+rUcycxctJbwXc3RgI2nL1vmIdDEHGMt+Evr5dKHrwM3p22yPlKWoZyh0GNXKoHR1VhTOEIaPInPX4Wj8GhE7FV16FfyKEAN+6JQS8tpwUI9w==;7R7AoWXZ0urypyo1ozweJQ=="
+related:
+  - title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
+    excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
+    publishedDateTime: 2020-01-08T00:46:00Z
+    sourceUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/
+    ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 44
+    images:
+      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
+        width: 2048
+        height: 1152
+
+secured: "FmH5jAWjcDepGfNZBjCjTUefJp8FHsU48UgWujnz0BILnhrJy613ZvyXIe6mAW0YcUkRb1M2F9fEMp27HS/bv7IPaInODeBCeDiHtiuDH0SvbWyHs9Hgaw/QM555EgskAaIYsI+Yk6ArIcq5jp+LJfsfY0uNwWvvivT+ap8ouej13Q5tOTnSIE7qo4XMmvtShkZAERMW13/OqFupy48vGLddOD91q/jcSS9EVaogcL/pn26FvE0xFzD8tbjWdj7wR+rJaHY6PSCTNQosYvvFIg==;mhn87uPdsd0/O9HhtpRWAg=="
 ---
 

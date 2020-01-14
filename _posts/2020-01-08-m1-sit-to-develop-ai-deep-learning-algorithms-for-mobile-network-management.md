@@ -31,6 +31,19 @@ related:
       - url: https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/08/rk_jointcollage_080120.jpg?itok=aU0eigm7
         width: 763
         height: 509
+  - title: "New Vision-Based Safety Solution Boosts Fleet and Safety Management"
+    excerpt: "NetraDyne is a software organization, creating solutions to real world problems using computer vision and deep learning technologies. The company leverages global technology centers to push the boundaries of intelligent connectivity. NetraDyne's ..."
+    publishedDateTime: 2020-01-08T04:42:00Z
+    sourceUrl: https://www.cioapplications.com/news/new-visionbased-safety-solution-boosts-fleet-and-safety-management-nid-5529.html
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.BA3F02FC6D04CB4F56FA0858DFBF5CFE
+        width: 450
+        height: 308
 
 secured: "5zdIzKPKYbCu449V5ab4hgQrNY00NeHNlsv+RIePvffhJfouiFGpqeup9i1+J3z8pQgAjYJdCs7X86tZj5r0FsDz02vGeLn17MXNC4pSiOB7CQadoWEgm1GCV7i86Qap8wYf/1tBDTusBXO/V2TWaNgYeobf0OvPeVzrfLJweWLKVppIqqU1r+FkzJVRbnKWddiZuhTNhC6xZx1nYPJqfb5wzRJnGi/DpHTqZ5MhE5tn7iqyQP+EpSSO7OUGCSVt29EvB2yLluvcOY6GbIOU+Q==;fa2SifRsAEZKZiM+3/Od7Q=="
 ---

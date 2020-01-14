@@ -24,34 +24,43 @@ images:
     title: "Competing with robots: How online learning can keep professionals winning in the future"
 
 related:
-  - title: "Deep learning vs. machine learning: Understand the differences"
-    excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep learning, which require a much higher level of computing resources, the most common algorithms are Naive Bayes, Decision Tree, Logistic Regression ..."
-    publishedDateTime: 2020-01-06T11:03:00Z
-    sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
-    ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+  - title: "Rising startups: machine learning spreads everywhere"
+    excerpt: "Eko.ai uses machine learning to automate the slow, manual, and error-prone process of measuring and interpreting echocardiograms or ultrasound images of the heart. The funds will be used to grow the company’s development team and accelerate commercial operations in the US and Europe, according to a statement. More info. E-sports and community ..."
+    publishedDateTime: 2020-01-13T06:13:00Z
+    sourceUrl: https://www.techinasia.com/rising-startups-smarter-agriculture-education-logistics
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
+      name: Techinasia
+      domain: techinasia.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.C6E9BA3D0630CDD05A14B309F332A045
-        width: 116
-        height: 116
-  - title: "Using Meta-Learning to Train Agents to Learn Generic Concepts"
-    excerpt: "Is it possible to recreate this neuroscientific miracle in artificial intelligence(AI) agents? Last year, researchers from OpenAI published a paper proposing a technique for concept learning based on a deep learning method known as energy functions. Energy-Based Models are a class of deep learning algorithms that focus on capturing dependencies ..."
-    publishedDateTime: 2019-12-31T15:13:00Z
-    sourceUrl: https://towardsdatascience.com/using-meta-learning-to-train-agents-to-learn-generic-concepts-b8378022b1f7
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.89D67A4F8085D6823FB349299C46BC02
+      - url: https://www.bing.com/th?id=ON.233198C8F47A251C030C6DA988AC4BAE
         width: 700
-        height: 393
+        height: 420
+  - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
+    excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
+    publishedDateTime: 2020-01-08T23:21:00Z
+    sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 68
+    images:
+      - url: https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg
+        width: 620
+        height: 480
+  - title: "Ed-Tech Startup MagniLEARN Recognized as Promising AI Startup in China's Innoweek Conference"
+    excerpt: "BEIJING, Jan. 6, 2020 /PRNewswire/ -- MagniLEARN, an Ed-Tech company using artificial intelligence and Natural Language Processing, received second prize for innovation in Artificial Intelligence and was recognized as a promising AI Startup in the third annual China – Israel Innoweek Conference held in Beijing, China. \"Combining Natural ..."
+    publishedDateTime: 2020-01-06T14:08:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-ed-tech-startup-magnilearn-recognized-as-promising-ai-/2020/01/06/9076414.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "FGEXB6nCYacYtyLybiUCLUOzWWly+coUtwi1+0FOqQ0lVHv1bLOhv0YcGVXiijr14d+8Ydtr49J6r3wXMJ/poi0slFBMsqXpcSAkwdQT/QgRZHPTPd8DdybSJMBeIwtNUMUxKrVEmNCPA/bbTx1U6+RjlvKvPqkau/trP872mOGxCtxvNigQDbhQqRYLY2ax4I4BY50elDUk1eNIKGYU7TouJapD7J0TAy09jxNUKhP8Oo59AFdMlYSLnXb5mDHxH5CwZYt9qzhIFlODavdvRg==;DUK80LxbcCp1yc/EalWtrQ=="
 ---

@@ -31,6 +31,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence in Education market share. Major industry players with significant revenue share include Pearson, IBM, AWS, Nuance Communications ..."
+    publishedDateTime: 2020-01-07T05:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Influencer Marketing Platform Market Size Worth $23.52 Billion by 2025: Grand View Research, Inc."
     excerpt: "Advanced technologies such as Artificial Intelligence (AI), Artificial Neural Networks (ANN), Natural Language Processing (NLP), and Machine Learning (ML) provides better search results and analytics, which is expected to guide marketers in taking better decisions. Key suggestions from the report: Read 100 page research report with ToC on ..."
     publishedDateTime: 2020-01-13T09:05:00Z

@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Are Robots So Advanced? Chuangze Group Presents at 2020CES to Showcase China's Innovation Power"
-excerpt: "a series of intelligent service robots displayed by Chuangze Group made an impression immediately after their appearance at the show, successfully catching the eyes of many audiences, who are marveling at Chuangze's achievements \"China's technology enterprise, fantastic!\" It is deeply acknowledged that China's artificial intelligence industry ..."
-publishedDateTime: 2020-01-13T15:39:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-robots-so-advanced-chuangze-group-presents-2020ces-showcase-/2020/01/13/9080436.htm
+title: "Are Robots So Advanced? Chuangze Group Presents at 2020CES to Showcase China’s Innovation Power"
+excerpt: "“5G Technology”, “Intelligent Robot”, “Driverless” and “Smart Home” were four hotspots of CES this ... It is deeply acknowledged that China’s artificial intelligence industry has stepped in the world front rank at the application level. Visit our site: http://www.chuangze.com.cn/ View source version on businesswire.com:https ..."
+publishedDateTime: 2020-01-13T15:17:00Z
+sourceUrl: https://apnews.com/Business Wire/f43e392a354d4e6fac2663588345cc9f
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press News
+  domain: apnews.com
 
 topics:
   - AI
+  - AI in Autos
   - AI in Robotics
 
 images:
-  - url: https://mms.businesswire.com/media/20200113005619/en/766966/4/cz.jpg
-    width: 480
-    height: 359
-    title: "Are Robots So Advanced? Chuangze Group Presents at 2020CES to Showcase China's Innovation Power"
+  - url: https://apnews.com/images/PaidContent3.png
+    width: 700
+    height: 450
+    title: "Are Robots So Advanced? Chuangze Group Presents at 2020CES to Showcase China’s Innovation Power"
 
-secured: "Qd0Cit1wRM8sK3qu0Dl4jGu28qJxTl31gAqgBk65Rg+meMj6NfxOnzY9GXv7n8kJ5zmPxmTbnuryPcgYq3ebXEZtLsnHOgoM4+PCRV+sr3XsudZS11nY0navNSq7N6v+2HW+Hj4XpYLQYvQNMERB4V+lzvdNNSjhVYuBUODqA82G56A9GXLOhwroYRNo0mzGFLQAkOwzQklxsdBlun2ajN0ColKcCfI13UYG5GGSxJhs7jQ937+9wkFAuPRuYChtVqCg4p7ioGnmA2d0ALc2JQ==;hlvzLugj2o+Og6U/neq4+g=="
+secured: "Wh9m+w6QoTbmqBg4BkpkQZQsUbQuokPDurf3e6AWR3hlyrwBt5W7mkhoC5egkaw1xTDKGho883EddQLc5Qf0xwggrg+lq4u+sDsA1wVp/noJRInyD8JeHkAolTHRiLC3ib8Vez7iWCJyIEpGCXMblPFAqyyTgFQty6kYdXJFmjpE4QCzMMl14ytIkR5Fd7IlTptH3OjL8OFQRGM+cB1/2pTygX8V33GOp3xyDg726Tq8HKxyCEvrjjgtuSo1MRgJTfgLFvLoT7qD8PWbvjCWwQ==;uZZ1Mb+cg9U5hbQ77QLtKQ=="
 ---
 
