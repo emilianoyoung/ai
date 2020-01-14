@@ -1,0 +1,24 @@
+---
+category: news
+title: "AWS Cloud: Making businesses work better"
+excerpt: "AWS has significantly more services and more features than ... Last year, it added several features that are built on conversational and customer experience Artificial Intelligence (AI). “We have leveraged services like Amazon SageMaker that enables ..."
+publishedDateTime: 2019-12-16T04:27:00Z
+sourceUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/
+ampUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
+cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: The Financial Express
+  domain: financialexpress.com
+
+topics:
+  - AI
+  - AWS AI
+
+secured: "3Xq4EmkEdQ4JDGvjlXNZTCPoc1MvdfzzL+/zwq4BooShLUt2SIdpC/OlsMwpMN7d1raS4L9DbMl6y7VhsKcmognaHOJOCBVBiiLv6xT6/K/Cfo0Qqk5ES0GJh2sO0Hii1ZUCADyE3JkcylSvxAaOPH8UQ53LZNjcZlYRDFshoy+WUbEgi8OfShUDA8EFSO9FhE28GneZ0Mxydn77S7SA8DNP+/N+9UmB30i0IcbFw+Kpl0uW12mluTSuqTJg03nQWd/HEIlnZ9UPfJ4c6O/kHeI9EEBv1yL2ZsEUectfYGo=;WvYxcdL9wUIDShXSnmreXQ=="
+---
+

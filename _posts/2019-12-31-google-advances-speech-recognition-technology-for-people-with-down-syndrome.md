@@ -1,0 +1,43 @@
+---
+category: news
+title: "Google advances speech recognition technology for people with Down syndrome"
+excerpt: "they are collecting voice samples from adults with Down syndrome to create a database that will be used to train the algorithm and improve speech recognition for unique speech patterns. The goal is to collect 500 voices with more than 400 already donated. Voice technology has been integrated in a number of devices, but not everyone can properly ..."
+publishedDateTime: 2019-12-31T17:46:00Z
+sourceUrl: https://www.biometricupdate.com/201912/google-advances-speech-recognition-technology-for-people-with-down-syndrome
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Biometric Companies
+  domain: biometricupdate.com
+
+topics:
+  - AI
+  - Natural Language Processing
+
+images:
+  - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
+    width: 900
+    height: 499
+    title: "Google advances speech recognition technology for people with Down syndrome"
+
+related:
+  - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
+    excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
+    publishedDateTime: 2020-01-02T21:47:00Z
+    sourceUrl: https://mobileidworld.com/sensory-brings-speech-recognition-kitchen-appliances-010202/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
+
+secured: "deuj1Zfm4YMkVJbfn2lvnJwVehXtWt7a9h0DOndbkPynfSQWgcwqRH7xt9c4mxFHgeBc50FsiNs9dGderyWSPn01THYR65KIJxLrPQJ4I+mTlQPj8YAzmgm1FdlkDBOzacNZLGXiRBPWJBop+MMK7+57fSPp+HnVf2pEqje6mzcTuUEqt5d/K/lpFXh7o1hbsVKpNubUt4kBhKPMGXqUi/70OkVORPEQPcan4hk0W45+MwzqAh6zTPhP494l3V4qfKmnF0oz33VYdcZQ3gf+RdtaJ21IQxqWcp9AmPIC3ds=;eLfiuHv6LzrmmIMJzuUM/w=="
+---
+
