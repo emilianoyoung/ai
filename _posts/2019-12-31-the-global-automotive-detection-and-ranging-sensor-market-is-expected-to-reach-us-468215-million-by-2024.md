@@ -172,15 +172,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
         height: 365
-  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
-    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
-    publishedDateTime: 2019-12-25T00:04:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-auto-insurance-market-2027-130500599.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 6
 
 secured: "oH8gDgLpRPUJunra9DtnTCQqhrT0rij//HZ0utjpt4iO626tgPg1rW6M8a3MuK9LDw0wOi0ie8B5N44tiRMjwGPtMIIiijmowuW7qqFPzobYEkakibFtBI05Udp0mW7u13wglZutaZGA3LGNplXErUld47yYwDLW/kSwVBNzjhI+8bjHSPWLC86y3KV9h3cMPSJCi69WJvnT+rkFrHKG/KU7VP0MVJySetqX6FcRcAOLGfDXniOFTWObkCNPnmxZ+JxXWaL3paBRixRcq9HvSw==;f6k8H4Tcbfv8siKKOE9EuQ=="
 ---

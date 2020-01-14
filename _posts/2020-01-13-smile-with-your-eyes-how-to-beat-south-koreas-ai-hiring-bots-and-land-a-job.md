@@ -1,21 +1,19 @@
 ---
 category: news
-title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
-excerpt: "In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
-publishedDateTime: 2020-01-13T00:45:00Z
-sourceUrl: https://www.reuters.com/article/us-southkorea-artificial-intelligence-jo-idUSKBN1ZC022
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZC022
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZC022
+title: "'Smile With Your Eyes': How to Beat South Korea's AI Hiring Bots and Land a Job"
+excerpt: "SEOUL (Reuters) - In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
+publishedDateTime: 2020-01-13T01:34:00Z
+sourceUrl: https://www.usnews.com/news/top-news/articles/2020-01-12/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job
 type: article
-quality: 83
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/usnews.com-50x50.jpg
       width: 50
       height: 50
 
@@ -23,10 +21,10 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.22C0E6F3657CFDEED89A2F539A5022BD
+  - url: https://www.bing.com/th?id=ON.50BB60C1ABEB0EB56F3B371C2E2E471D
     width: 700
     height: 466
-    title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
+    title: "'Smile With Your Eyes': How to Beat South Korea's AI Hiring Bots and Land a Job"
 
 related:
   - title: "'Smile with your eyes': Here's how to beat South Korea's AI hiring bots and land a job"
@@ -73,6 +71,6 @@ related:
         width: 700
         height: 367
 
-secured: "sSz31mzNVPy1YHgglV1jlHsXnqqQVHOis4QcA9mdaE81oOrCIc82FTwcaw34Rv0f+kLSkngxQkud6FZrmQJAY71YwjM3EZAdTl0p84eCFJcNXKCSH/Zbn81D9onyh2TjJ7erawnQ0vPBxq84OzrIg/rLRxvb3EGnMcuoTdkYR/k5lNrPmE2JXHVUFZM/6tV9dNhbEqcL1cMOBnl8hopL5KKX1XBLDQVbwg+tXLsoi/kPo0pdi6FZtoHVBaJ9+GspdavTOrd2kUiYn9ywqVGVIQ==;gpjxIMUwqMihnnjdke7H1A=="
+secured: "hn6ls84wsNjckafu9RG6jHc3FXYrQ9RjwfAg0iZINXAYDVs3Ez0uElWQSJJ8vPnAexQg4aKHEne7jNlQZ79pzufY4qhJyx+y9V2zftde5mvMaPwBvXxazmDJgoVXz7z96bCedtzewS7woPUAbHsoyhtZCPIoxxm4ItZpIqhtaRZ4p85Y79SwX+crxa17m3IcDikdd9zTEvLAvGexhhlgGU72kU4FLLNWVxbm3R26Jopk4hZstsrdfmxbZ0yMk4rXnrdw0Er3xgSsvBLqphRw+A==;l/eIfIKYzXm65DLgQ2E6Zg=="
 ---
 

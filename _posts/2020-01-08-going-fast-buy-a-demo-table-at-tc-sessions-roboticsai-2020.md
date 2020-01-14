@@ -89,6 +89,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C967C6E8511769C4FD290EA2E7F0DAA8
         width: 700
         height: 381
+  - title: "TechCrunch Sessions: Robotics & AI"
+    excerpt: "TechCrunch Sessions: Robotics & AI on March 3 at UC Berkeley is a single-day event that features in-depth interviews, demos, and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
+    publishedDateTime: 2020-01-14T00:32:00Z
+    sourceUrl: https://techcrunch.com/video/techcrunch-sessions-robotics-ai/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.77D026F58308D13051213A3A348ECF09
+        width: 640
+        height: 360
 
 secured: "n02fEoWzi/BZ/kP6ZzUm0CKYQGYDMvy+JsnvrPcHlm+F47p23gLF9dRrjXzAilzL/VpiU8dVMwVwuTVUsWOHIM++GdBgaE9cCnFvx0KUE9pWvZrvwI3MvV8kK4y68vLGPdB5Rh+uNm0fKh73mKs1Xg/5rPy7nm8XCeWWpHNLSTX/YcwG903DB9cgFHS7V/HAO5Ep2e2RDn8zjf47aZzC5hW9Zem24val443p3peZ/mSyKq7R0r7p4e+0fyo1z4Ykj6xFmrUxDAeed4gOpOm19g==;naIrRX9JkE8oObPLc9AcMw=="
 ---

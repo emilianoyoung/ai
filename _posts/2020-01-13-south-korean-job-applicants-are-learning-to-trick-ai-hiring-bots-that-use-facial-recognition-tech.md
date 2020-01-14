@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CBEFBA9D1FDA6BE3A5E6EB67AA401541
         width: 700
         height: 350
-  - title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
-    excerpt: "In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
-    publishedDateTime: 2020-01-13T00:45:00Z
-    sourceUrl: https://www.reuters.com/article/us-southkorea-artificial-intelligence-jo-idUSKBN1ZC022
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZC022
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZC022
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: https://www.bing.com/th?id=ON.22C0E6F3657CFDEED89A2F539A5022BD
-        width: 700
-        height: 466
   - title: "South Koreans learn to beat the AI hiring bots"
     excerpt: "In a tight job market, South Korea's top firms are rolling out artificial intelligence in hiring. That's got jobseekers turning to cram schools to learn how to beat the bots."
     publishedDateTime: 2020-01-13T09:47:00Z
@@ -69,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5B5603986854F8B787B443270BBEC2A0
         width: 700
         height: 393
+  - title: "'Smile With Your Eyes': How to Beat South Korea's AI Hiring Bots and Land a Job"
+    excerpt: "SEOUL (Reuters) - In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
+    publishedDateTime: 2020-01-13T01:34:00Z
+    sourceUrl: https://www.usnews.com/news/top-news/articles/2020-01-12/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.50BB60C1ABEB0EB56F3B371C2E2E471D
+        width: 700
+        height: 466
 
 secured: "tKjVPWb6wW3QwLBE4ysTEzZSCrt4FNeIniaFUiGouSrV+lSFZiRoFg+PBG6LTqUrnNok6tuLN3DhhXg9aLsLCslc0W8m/zyJto+AHMUmcOo8eKO8dmL9pAQ9aj8MH5SWWDSvxjixwKeNfV6qEGiCniEtgaunB7qWGCSRh38Xq2CAtPaofEmMzVE8wfF5Bkq6vBItSUAYbP0NgPq47PBdUKwU2zzT0Erzx0qsDVU5K1z8GzPTvo6pXcXEdA2nFJMl1+5p+Ql8Cta56LfPTuru+Q==;L4deJCGQE1GbJ94dHIpWKQ=="
 ---

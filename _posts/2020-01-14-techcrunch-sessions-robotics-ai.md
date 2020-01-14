@@ -1,13 +1,11 @@
 ---
 category: news
-title: "Maxar’s space robotics head Lucy Condakchian is coming to TC Sessions: Robotics+AI"
-excerpt: "TC Sessions: Robotics+AI is creeping closer by the day and the agenda is packed. Today we’re announcing that Lucy Condakchian, general manager of robotics at Maxar Technologies will be joining us on stage to talk about the company’s work in space, and in particular NASA’s Mars 2020 rover. For decades, Maxar Technologies has been an ..."
-publishedDateTime: 2020-01-06T17:05:00Z
-sourceUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/
-ampUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
+title: "TechCrunch Sessions: Robotics & AI"
+excerpt: "TechCrunch Sessions: Robotics & AI on March 3 at UC Berkeley is a single-day event that features in-depth interviews, demos, and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
+publishedDateTime: 2020-01-14T00:32:00Z
+sourceUrl: https://techcrunch.com/video/techcrunch-sessions-robotics-ai/
 type: article
-quality: 81
+quality: 67
 heat: -1
 published: false
 
@@ -23,10 +21,10 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.545008940EB86145C6D73F7D03BE9001
-    width: 700
-    height: 381
-    title: "Maxar’s space robotics head Lucy Condakchian is coming to TC Sessions: Robotics+AI"
+  - url: https://www.bing.com/th?id=ON.77D026F58308D13051213A3A348ECF09
+    width: 640
+    height: 360
+    title: "TechCrunch Sessions: Robotics & AI"
 
 related:
   - title: "Going fast: Buy a demo table at TC Sessions: Robotics & AI 2020"
@@ -59,6 +57,21 @@ related:
       - url: https://www.bing.com/th?id=ON.39E7806FCA8B9B6403ACC886E23A5416
         width: 700
         height: 381
+  - title: "Maxar’s space robotics head Lucy Condakchian is coming to TC Sessions: Robotics+AI"
+    excerpt: "TC Sessions: Robotics+AI is creeping closer by the day and the agenda is packed. Today we’re announcing that Lucy Condakchian, general manager of robotics at Maxar Technologies will be joining us on stage to talk about the company’s work in space, and in particular NASA’s Mars 2020 rover. For decades, Maxar Technologies has been an ..."
+    publishedDateTime: 2020-01-06T17:05:00Z
+    sourceUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/
+    ampUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.545008940EB86145C6D73F7D03BE9001
+        width: 700
+        height: 381
   - title: "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI"
     excerpt: "She runs the InterACT Lab at UC Berkeley, which focuses on algorithms for human-robot interaction. Dragan also helped found, and serves on, the steering committee for the Berkeley AI Research Lab, and is co-PI of the Center for Human-Compatible AI. Last year, Dragan was awarded the Presidential Early Career Award for Scientists and Engineers."
     publishedDateTime: 2020-01-11T11:27:00Z
@@ -89,20 +102,7 @@ related:
       - url: https://www.bing.com/th?id=ON.C967C6E8511769C4FD290EA2E7F0DAA8
         width: 700
         height: 381
-  - title: "TechCrunch Sessions: Robotics & AI"
-    excerpt: "TechCrunch Sessions: Robotics & AI on March 3 at UC Berkeley is a single-day event that features in-depth interviews, demos, and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
-    publishedDateTime: 2020-01-14T00:32:00Z
-    sourceUrl: https://techcrunch.com/video/techcrunch-sessions-robotics-ai/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.77D026F58308D13051213A3A348ECF09
-        width: 640
-        height: 360
 
-secured: "68SeqzqxWSOr2bCPQxP95L7dP5DOi7S2lQ8LR7pwABdvXIPevFYUdwNbKCiDomlXCVbE52Ny1liMXwRCSKBv0PV4o0XYkhNLCQeiLF3Ed34ha+fMw2liQo6wd1wTXQtKj+6iiP133kPBVC2X2CPOU1uBSW4L/Ckypzar5HNq+Fw0ekL/FhOFFys+JJXi4m367JcHhw/XhsmREY2sMQj6pFmMtzUYGQBD2KPjk/Gm4XNkBeKWqglNsAzAWtSztP6IEi89Sf1kepdwhFBZI1nx1A==;NzFPwD3H0WbC/bLPy47ZyA=="
+secured: "I43aK2Rl+aej7/PxMYtTuMktBJb/4JHEzVcvv9rRgA6qLpHumas89GOVWTBprXXXeRRJ2VFKjlegBA1Bci+/YLObbp/FweS5zPYtgyOxvg59KaPRS5Xt6UfZ/+7gTAgmRbOLysR0uULGvEauAoD20eMM09Q3JERvolhw1p0Qkzi8wMK9mNahA3o2WzFVLweGjONxgyN/CT72Ds7ZWOW1aGxnc01DNTmm1Oh8+JMdYyhIX1QUZJ6nMkowXFx3DMru0eWtLc5Oas0R2WacQyjw3Q==;0JOIF811VzFpHk54JP+T1w=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.pressofatlanticcity.com/news/trending/new-york-school-distri
 cdnAmpUrl: https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_e15c88f0-99a5-590a-a263-29aec19f7734.amp.html
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/8g2pnQ7xr0NaCiMhAd8Oog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk5MjtoPTY2Mg--/https://s.yimg.com/uu/api/res/1.2/EeyXJUXxXkc9wsjmIfL6xQ--~B/aD0zMzE7dz00OTY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_conversation_464/0ad38afc2290b149552566f7319b3825
         width: 496
         height: 331
+  - title: "Trustee Wants School District to Get Refund for Recognition Tech"
+    excerpt: "New York’s Lockport City School District has facial and object recognition that it can no longer use after the state changed the rules. A school board trustee thinks the district should get a refund for the $1.4 million purchase. (TNS) — One Lockport City School District school board trustee is calling on the state to refund Lockport's ..."
+    publishedDateTime: 2020-01-14T00:08:00Z
+    sourceUrl: https://www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html
+    ampUrl: https://www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "+CNOcHYfmm6gfc7+f2nQLGz+svUJr26G2Eyy2BWkQHT7UiWi13NxDdsIZkOOxl70WuqvFD50w4O3LDMk3MobD9jRd6EXFiEBAuQi+FLIMq7o9PGPhr76zCKyH6Jgg1oHRKm1k9E9iig9F2f9zDCCEG2kJ5ZDThYbgtUOBBiNNgSIPOGrr3W8IZK9xSS+XM1P8R97ISULAXNRqqzcrdMs4jhUq+/0Vah6qBG4Q4tYT39H0LIVO6ZSqDQbnphJmVq7bx90hfcN4/VvbcyhHPIFLg==;VGDumm5nwxi/kMqy852KCw=="
 ---

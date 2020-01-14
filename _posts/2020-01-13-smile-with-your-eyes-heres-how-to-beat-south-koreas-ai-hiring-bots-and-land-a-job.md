@@ -29,21 +29,6 @@ images:
     title: "'Smile with your eyes': Here's how to beat South Korea's AI hiring bots and land a job"
 
 related:
-  - title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
-    excerpt: "In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
-    publishedDateTime: 2020-01-13T00:45:00Z
-    sourceUrl: https://www.reuters.com/article/us-southkorea-artificial-intelligence-jo-idUSKBN1ZC022
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZC022
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZC022
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: https://www.bing.com/th?id=ON.22C0E6F3657CFDEED89A2F539A5022BD
-        width: 700
-        height: 466
   - title: "South Koreans learn to beat the AI hiring bots"
     excerpt: "In a tight job market, South Korea's top firms are rolling out artificial intelligence in hiring. That's got jobseekers turning to cram schools to learn how to beat the bots."
     publishedDateTime: 2020-01-13T09:47:00Z
@@ -57,6 +42,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5B5603986854F8B787B443270BBEC2A0
         width: 700
         height: 393
+  - title: "'Smile With Your Eyes': How to Beat South Korea's AI Hiring Bots and Land a Job"
+    excerpt: "SEOUL (Reuters) - In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
+    publishedDateTime: 2020-01-13T01:34:00Z
+    sourceUrl: https://www.usnews.com/news/top-news/articles/2020-01-12/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.50BB60C1ABEB0EB56F3B371C2E2E471D
+        width: 700
+        height: 466
   - title: "South Korean job applicants are learning to trick AI hiring bots that use facial recognition tech"
     excerpt: "Video interviews using facial recognition technology to analyse character are key, according to Park. “Don’t force a smile with your lips,” he told students looking for work in a recent session, one of many he said he has conducted for hundreds of people. “Smile with your eyes.” Classes in dealing with AI in hiring, now being used by ..."
     publishedDateTime: 2020-01-13T05:08:00Z

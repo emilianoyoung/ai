@@ -2,27 +2,27 @@
 category: news
 title: "Instant Voice-to-Text: Transforming Work Styles with the Power of AI"
 excerpt: "Learn how Toshiba's newly developed speech recognition AI helps convert speech to text with high accuracy and contribute to increased productivity in the workplace and beyond. To view the Multimedia News Release, please click: https://www.prnasia.com/mnr/toshiba_202001.shtml The technology behind the accuracy in speech recognition In 2015 ..."
-publishedDateTime: 2020-01-08T01:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/instant-voice-to-text-transforming-work-styles-with-the-power-of-ai-1028801325
-ampUrl: https://markets.businessinsider.com/amp/news/instant-voice-to-text-transforming-work-styles-with-the-power-of-ai-1028801325
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/instant-voice-to-text-transforming-work-styles-with-the-power-of-ai-1028801325
+publishedDateTime: 2020-01-08T02:09:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-instant-voice-to-text-transforming-work-styles-with-/2020/01/07/9078004.htm
 type: article
-quality: 69
-heat: 69
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Natural Language Processing
 
-secured: "P2iHRSt4lPXO38GHL4B3nw25R1X7YtmvvJ9/neyNSBB11tRjEsk+dJ/DFBJpKHvCSOlIUy4iHDqOLCash5wXcIIdwZB8FvJdYaKZV76ncCm8zt3ZE1o1TonIlYm5aWRFp0hdN7PzZkXJtFmQ9wYmOHcG0jTij6x//0XuAkxW3HFk+AMlGXgC9cHNAcXdi3jRi448hryLqmMAtUmpGF4iK7xULPLszMzRE9CjzxKTMJnpdAsIOqe6y+Pc7JsJyfgwP90zKf1E0Bgf3oNhUcWKhw==;cqtZvDyYoBL36j9LK7lG2Q=="
+images:
+  - url: https://photos.prnasia.com/prnvar/20191223/2678594-1-a
+    width: 600
+    height: 396
+    title: "Instant Voice-to-Text: Transforming Work Styles with the Power of AI"
+
+secured: "g3tCdCYGKp+VRBT5jE/8xNezNrCII2bASIST+J+WTC6srAsUwAVgW2w7ik+3GgpaxE58T16mANzo8HTjai6bcT+eFnCdmrHcWHitO2HcNhb2Uv36Zpc6VU0oUlHZZxuet2ve2NTlkMFMrhWDLwkzA60FjeGhoAlUF/oZkbP/Q07Koc4YVhgABu/qCZYF+W94jDZl7uoDgYvF3Po2eGlAYV8INMiV+cyQ1zZ6ZFKtqwj5tAaKyQCnG5WTbg1dU/ULQdJWxJc/jX7JR0Swo11WZw==;J7ui9mqcqS7VC4/tperlaA=="
 ---
 

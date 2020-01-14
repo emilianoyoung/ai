@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T23:50:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
-    publishedDateTime: 2019-12-25T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
-        width: 700
-        height: 495
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z
@@ -62,6 +49,6 @@ related:
       domain: theroot.com
     quality: 11
 
-secured: "kMzuHJHF6/Goj6oKAGb+Xnj0x8R3uMtPRVxqsGnINDj32h9ZW7GdlEFFgGRZAqWKXFT0GrvE+SkkfzmJEZ0GJ8CRsDZca7vRo4ohp8EXNmv21f6mt6MHtkQyTtrMFFTZfUUIgzOG4y7887i1OIA01LCId4ZGXbcEklYffoD4yhNIy2c2JDFuJ9jz4L6gWaTNzdxSFAfyhncEnaCH9mjqQNIGG5pPjx+ll9dk5q+lEC0X6W5QjgrAgQ9gwGg0Zxgjq+0ZmNJ6VR8D3BTshKHs1A==;R7/XzUzSoQj2j2CPcD8woQ=="
+secured: "9Mif+2lBsKKttWihXXzFCq6IMlpdQ5ttrBGhaKRntOUio8zO2azUfH2pIK0FY21lYRSmjs+uL12idyxETpUO5ikOag1NIqj32NQ7BI4ox/QXlD7naJIgIgy7wjsS/G3yUHUEU0d2H1hR8qzVX4zgt/Ol97h4sC3+uCBnON4peDaXJ12pEm6UppehaybzxkHHIYDa06CD2aa8S0YwFUVcboQVg+SocZdNWq0cqVORVZ3LregsYNuzJERDtperhwq1clwdjwTk1tLnnkdrZm0OEA==;zKXn5OPxIqwW9fC7+IKyMA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/07/going-fast-buy-a-demo-table-at-tc-sess
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/amp/
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -89,6 +89,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C967C6E8511769C4FD290EA2E7F0DAA8
         width: 700
         height: 381
+  - title: "TechCrunch Sessions: Robotics & AI"
+    excerpt: "TechCrunch Sessions: Robotics & AI on March 3 at UC Berkeley is a single-day event that features in-depth interviews, demos, and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
+    publishedDateTime: 2020-01-14T00:32:00Z
+    sourceUrl: https://techcrunch.com/video/techcrunch-sessions-robotics-ai/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.77D026F58308D13051213A3A348ECF09
+        width: 640
+        height: 360
 
 secured: "d/x8H9KcF0Ikfjy90bZaIH5O4WgmhioDaKT1Cr+FJrp+Ad1fKLaj7aSo7YPPX0QSRxKVphz+SYY6MiGzremeDt853kaSK2Dhz+H/qaeUCGZLsv7g+jPQjFC63ppPDr73nZ6sP4X8nNlfLyTxaV/evFz1Ha1YaFt5SFgasZTgc3/L07s5b0v+Sl3+A9K6aUlCb7CtcwQaLIxG7/vaUclwTXwo1aFVmm4zHY6fedLHYlRrAyGKQrgjUnci+H1WRNofYbOKbD1ezW4gedB87qdAFA==;Nu8mYg5yeau8X0jj73R9zA=="
 ---

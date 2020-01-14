@@ -39,6 +39,17 @@ related:
       - url: https://www.bing.com/th?id=ON.284C8786B7422CA2FB4207A20D851247
         width: 700
         height: 393
+  - title: "Trustee Wants School District to Get Refund for Recognition Tech"
+    excerpt: "New York’s Lockport City School District has facial and object recognition that it can no longer use after the state changed the rules. A school board trustee thinks the district should get a refund for the $1.4 million purchase. (TNS) — One Lockport City School District school board trustee is calling on the state to refund Lockport's ..."
+    publishedDateTime: 2020-01-14T00:08:00Z
+    sourceUrl: https://www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html
+    ampUrl: https://www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/finance/Trustee-Wants-School-District-to-Get-Refund-for-Recognition-Tech.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "kJo0dQlH4DK3gg7Be2VQpu+aNYg/PWcUdRIwjbXcOvG9KAEzRZOSb5loc2unmM9yli7UnMteCbdrmqmDDuJXD0+TTOTVghPBcJmt9KmFxNgjDUb6HKJ46pncEJm/lDZ2+joLRdm/g10HqTau6N9Ce70+7oqqbT6mMw6oFv/VO0TRV40fpBlk0PNSo7BN4ztzgoNQI37H4RsHwRmRNkJA11vx9Dc85R3u9cc/Ui842qOOptHpC5gUmRHfWp4NIW02c5xe1dZTt6QvivM//uqR0g==;UDz1ApynOpCmhRAEozO3WA=="
 ---

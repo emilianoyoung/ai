@@ -1,14 +1,14 @@
 ---
 category: news
 title: "CES: The Coolest AI (Artificial Intelligence) Announcements"
-excerpt: "As seen at this week’s CES 2020 mega conference, the buzz for AI continues to be intense. Here are just a few comments from the attendees: Nichole Jordan, who is Grant Thornton’s Central region managing partner: “From AI-powered agriculture equipment to emotion-sensing technology,"
+excerpt: "As seen at this week’s CES 2020 mega conference, the buzz for AI continues to be intense. Here are just a few comments from the attendees: So what were some of the stand out announcement at CES? Well,"
 publishedDateTime: 2020-01-11T17:38:00Z
-sourceUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/
+sourceUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements
 ampUrl: https://www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/01/11/ces--the-coolest-ai-artificial-intelligence-announcements/amp/
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -44,7 +44,20 @@ related:
       - url: https://www.bing.com/th?id=ON.CF24906E0DD8FD1BA0018B2FCBB7E626
         width: 640
         height: 480
+  - title: "New Deltek Reports Forecast IT Investments to Reach $56 Billion for the Department of Defense and $11 Billion for the Intelligence Community By 2024"
+    excerpt: "and Intelligence Community (IC) agencies will continue to grow as they work to keep pace with the evolution of both the threat landscape and technology development. Deltek's Intelligence Community"
+    publishedDateTime: 2020-01-14T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/deltek-reports-forecast-investments-reach-200000706.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.EF03D1E343FE2996D619012E511FC158
+        width: 400
+        height: 148
 
-secured: "R3q7QF5pyMh7Iaz+DR+/nINGMlgxnVUbwVNfy8iLB9o1Riy0WK6E16jj3/CkC2kkcdWFtL9fLybEa3CLIKAkI7w5Fxph8/AbAvWu2a4OhQR/HShqmuO2oGwNUpeyDjMeUTc+GjmNdhgrhA/yr2AoDshS9ehmisgMCsOeCmwwq+YuO2AY4BOo05X3CY0k26J4NclQqzzz3XXsBw6Yn0xO6QIZLuWoLjabimijVuoAzYNDqqGu0FdNZ0+Q5IbWXPJM2BxZfMbDuRTWEXNJFkeIGA==;n0p85vnoFE1gSYAs+6fJdA=="
+secured: "Zvxz7ImSsABXUaivn013EGq6C1EH4l6eQnc/zbnk3iaCEyuR7RZ9i7ocgIJvjFLLFIotxHeUqSgQbkV5akZRFENBQ0OiOfEgiYX+g4b29vXOhrYv7YjidhsgykM04oAq3xT3zBvZyCs/Hdue5M3dJOwI1iyoEaHl7xH6snf3yP4tAjw97Hx4wx6SDqbIDxs2rDIxPB2p17Eelj+8Pp2iOU74R/nQws2dL9L6MvlPvFofu4+g6cZGpKz+95HRgtOBaBmU83sqZrekehGmmrALxg==;ZINXXwuZ2HL8pbA8g4bhJQ=="
 ---
 

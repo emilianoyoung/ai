@@ -170,15 +170,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
         height: 365
-  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
-    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
-    publishedDateTime: 2019-12-25T00:04:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-auto-insurance-market-2027-130500599.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 6
   - title: "The Global Automotive Detection and Ranging Sensor Market is Expected to Reach US $46,821.5 Million by 2024"
     excerpt: "The rising demand for object detection, high-resolution target separation, 3D detection, and 3600 object recognition technologies are driving the demand for the automotive radar market. Development of long-range radar with high frequency, development of Lidar with non-moving parts, and compact size ultrasonic sensors are among the key emerging ..."
     publishedDateTime: 2019-12-31T21:50:00Z
