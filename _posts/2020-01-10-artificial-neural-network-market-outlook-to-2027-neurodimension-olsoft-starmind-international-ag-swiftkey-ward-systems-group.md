@@ -64,7 +64,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 0
+    quality: 2
 
 secured: "iHcUT075PctOjafM60xKDU/9WppnztPeuyAXuQ2//nS4zipm+wYMuKBtcvDZPo4ao3vdmhB06zW2im1ov8gncDsZXx5uPrHT/imOMVLtvjP+h5qmQFH2u0DJydpWPaG5USrIJPKi5lWltm/Ky5ZYxn1lwOThgAE+fSYFKAo6q2x6FJT+XY+HamvaSFQ815Kp+dBDpv8V6/F+D4K0Q8yoVkbf9EOxEEoa2QtWCAiDOzEDP72yPphbCGmImvVcIUO5aR8kAQtPRhP2HfFqwcgyWFFQ+uvPbR3mifPrwWqcuaM=;/4mlKUWce2fC4ch7F5PAaQ=="
 ---

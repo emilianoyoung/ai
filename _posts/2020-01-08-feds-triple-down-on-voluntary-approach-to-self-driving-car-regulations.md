@@ -7,8 +7,8 @@ sourceUrl: https://www.detroitnews.com/story/business/autos/2020/01/08/feds-trip
 ampUrl: https://amp.detroitnews.com/amp/2847556001
 cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/2847556001
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "RlplNiWiuOZAlguycJrkNxxgj8wptmuG0mcUum3C26xCQfixcNIkXOq38OL6Pglgt997LL9Nz27nH8PVgfiJBOsEjY+VY1ND01nRdaw2r2c0ISTs2Mls9xTPN/5S5uJOs684cHYiqetnn/FptZwl6DWLCkn/eHv+ItXSVWLWbDWvlzIAU7NJrTkRzZIUvgQia0qugDG0gsjIF69SqC7jIrjwuEuotLYqdvbtv4qDvc75WzvoTrSWCK3dl6MwmKiLuKMa3IwgeOPf/pKHRIuDbHS5Ns9shT5xxlGb2h2cejiM2fpRF9FnuJ8Fyctnw9ueqGeer0JlVhH0iXoRkihDbPgFUfETIF9ypYlRW2PknJezNw+kQs7sbNId/bJDbKG6esRdQLX/GL5EtM+9zFW76o1i8ZA6W8Y7QQEVwu78wj7PvmNne+K+/mXyhrtY2eYCVaiRQSm5x/Qh3iujN+/y2A==;GSN363/qSvDKjk+GDmZ3YA=="
+images:
+  - url: https://www.gannett-cdn.com/presto/2020/01/08/PDTN/4d07a74c-8cee-4f21-9a64-0ae103ed0d8f-dtncent02-78rhdls4loz1lxv14pzo_original.jpg?crop=3052,2289,x195,y0&amp;quality=50&amp;width=640
+    width: 3052
+    height: 2289
+    title: "Feds triple-down on voluntary approach to self-driving car regulations"
+
+secured: "GMzdjQb7NaOFGQON0rzNU4yJVaTxflk1n4YcD416jnl5WkUpveXR9c/hNZMJCikAndX5hxGpqoZysI/yCVk3zH7uvU1COskw5x0Md4loWUCgRWh4YSpWzEpWLYSCKsFPXGjodCXqEp15bFxmhPnjk5t+VM+RBhgvi2p8i7q5GBrLm7bWXs/aumNG+Qpi97bIMmrHw5c6EZNq1GY2EDjAgYqWAfuWj+ccLON0m61QGusv7Mol4LCEZzjJlD0pEDo7KCXStpKgWceG8vy7lNtDfcbIRrqrFMAmugLeCd1E8ITIfKIvtydrOLsmc2WAK6pKMzR488mDfIY2wK8PfEAu7jaySRvt4C0K/ZuaV+lVv0LZ5xC2YeBxsB5bbuhagWygFPHKTsI1Lghx9zAIQuhim2oQNPJR9wKrzllS0sANPNJpZ59FSKfCDpcMz+N7o6GM+/ZWdaKvLwn1YCB4/zRMTQ==;3Y2JCGOOn2JrRoVkm97akw=="
 ---
 

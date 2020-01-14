@@ -26,7 +26,7 @@ related:
     provider:
       name: Embedded Computing Design
       domain: embedded-computing.com
-    quality: 11
+    quality: 28
     images:
       - url: http://share.opsy.st/5e14d76874d04-76219803_nxp007fig3lifestylebagsidewalk.jpg
         width: 1280

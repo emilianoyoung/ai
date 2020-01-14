@@ -93,20 +93,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Facebook to Kick Out Some Deepfakes"
-    excerpt: "However, Twitter has proposed plans to label content that is fake, misleading, or artificially manipulated or created using artificial intelligence ... principal analyst at Constellation Research. \"The selective approach keeps it confusing,\" he told the E-Commerce Times. Facebook has the technology to make its strategy work, Wang said."
-    publishedDateTime: 2020-01-08T11:00:00Z
-    sourceUrl: https://www.technewsworld.com/story/86443.html
+  - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
+    excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies to \"merge ... in a Deep Fake Detection Challenge which was announced last fall -- \"to produce more research and open source tools to detect deepfakes\". While says Facebook has been working with news agency Reuters to offer free online training courses for ..."
+    publishedDateTime: 2020-01-08T00:33:00Z
+    sourceUrl: https://www.yahoo.com/now/facebook-bans-deceptive-deepfakes-misleadingly-110124689.html
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 24
     images:
-      - url: https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-deepfake-1.jpg
-        width: 620
-        height: 386
+      - url: https://s.yimg.com/uu/api/res/1.2/qG04aTgbDJAJEnwoNOsfqg--~B/aD0yNjQ4O3c9NDA4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/64b0d67d06e60d49c179e0303e423e13
+        width: 4088
+        height: 2648
 
-secured: "keUtjkuY/zdStvhN7pnWJisH772hPdAZ4V51aXzIqimsF/zQiMffOk/piXYmmE7RTIvZlZolwKjhXaMcMJQSLfI5E0xs6mMdZah00fetj35KnMuUI9dMcDsBnITBeVUXPXrqe3qUMnB4uOOqoi2rs3rGoW0ixdj/DjhJDJQHzvVNoUr5JZLGQnYcEtyR9AWx1QD44xb7bK0hMJXXV4J+2B7HF6UeJq5SDJc+AMR9klO2bLhMlMXzgWXUzG8GXsa3R/PslEjvqe+41x07wwUMJMouHMvFjHTKl2wAqVEyWYk=;NxRPfY23NFkWPiTvkRCz9w=="
+secured: "7a9kEPOCwYKJ0k99CRThclFq7aUITkB507xZQh6F5HsuVo5nfB8wLvkf6Xu9j1MbQFlGE0Q+1pa1gFWBdbvPb02wpR/eFMQOyC9nGnXGleZrRBD7huI7SxkM5RDc2pNj8Bm72oI/yLpG0wG2vYuP/AeqkOuTH/TgSzvRylsjVWROq5lJc3LYzzC7DJ3EBPk2Q6s4hevACb7/Lb/WsPNM1zwllGITWpMOA+zeb+8WlgNMdUwNdzFjXvEGBQUMdaEHWtYGJnqU7fzhErMLSc4QzD7H0CLowVhvlRR/HvnL5X779HPxxcALeg+glwh87Pj1nCsuuDuEO1jIds3lfwyZsZc6ivcYRWpLuEbyBwbIcdGayLubw8QP/OSmTEhX+ssruBgoQxVSNWu8bcLCb1y8dsdzacoXU5sNDszSumcdrs9krBUbmO57r/87a/Z7b1YN9l7Ae73bu7gi27bHbhmoLg==;FuUxSeelwjEOa2XJSVVWgA=="
 ---
 

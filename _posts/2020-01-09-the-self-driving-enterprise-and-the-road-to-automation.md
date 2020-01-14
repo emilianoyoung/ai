@@ -53,6 +53,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "9V6wwpJcVBqWXLfTNcLn90d00GfH9oIezsnKL1U3CkXgudsnprgt0yAB2pSZjTJVNoT/XWyFmN3cnGeX+t61XSfjd61AhAg2RyhPG3paOE1lP6cTNqiNQ6Zb23KBGevqSwao+TeOMK6dd/kvHCyYCtaLBGynyzuBtvSVnQLIwJw6SWY7JC8YuMtatq74n4WFbG1/bjDYBM//gmR6XYH3WKyU6A0bQ1Fc/6ZFhz3Sd7issKGf2eHFCSCZeiWuM5Cof3u0RvriKF5DXIROT2BIl4uDPTTOhFy80KbaSG6nbKY=;ikvMaBiLK4yCbyNT8hrrPA=="
+secured: "dM+xhzCGkFaoxoRYOF3LuXFiHV1IFTNzW55OEMZ+FcEydpZIi5BqUFOdOmQ6my/azun33XxmLloOYqluThedxP2ejL6N3+u3U/+dUABmfgVp2kajVCSmVtJJ3TxJrheAf/npXfDXnXgTmEI1PycWzByAgk020kv24B/1ZJ45StyOIkVbfVh/VlJLZ2KAzu25JxRJtK/Yx8m/i8gr/Ltj2pD+FSbvaGBGwcL1wBnhFpVzUMqmvfAYqq1LNJWjAqACWqkI/jNWJDQ59tU2bOot8huvibCnixObzenSu5pwQx3ZHiXuasla2Ly6BFEpAjaTjogMF3jjavFiPZTmr++Hy4JEit4qxhobef+p2+P9ZdHLxoQFU/kEwxwmG0ZBfII6OlJTdDlF8E+3slcNsLdFEwQWDPdZIU/dV5E9X4YMIhlgKqYJ4hgFR5z48ioWm0undJLEa+gt5spcdUmaf+PZTg==;8YmyoRYNKCOApZlTzqc/EA=="
 ---
 

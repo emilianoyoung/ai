@@ -72,6 +72,19 @@ related:
       - url: http://share.opsy.st/5e1c9ca535b08-google-home-mini-3739710_1920.jpg
         width: 1920
         height: 1280
+  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
+    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
+    publishedDateTime: 2020-01-14T19:54:00Z
+    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
 
 secured: "ZnGu7Um3Rn6oXihNwrswggqwLIYZ/siUaZ8nCt0hp69tgZJK81dciuLARolfMFrYz1ZOZtb+tgrqmC3ptcpKCwemRLrcCkyqZVZj9jwbUAp+SvLxG0H8Vw/KjcucIdBeGxSw0O8joDeGsmYfi/wGe7SLUbTOgJ0dBQTA9aUDPoOk2An7qzXyMln+/0x/RHniWaWFNMkxhiFq4jlCTn7FY3lYoLWaZYaiTV/9RgCzsw7L6Rp/qqNJdDHiPP4pGxOOqxecLXexiz0JCAesQQyQzj4A4CzQ2zlrNr9NnPqEp4Q=;29F55B95M+OCtYJJZfFpAw=="
 ---

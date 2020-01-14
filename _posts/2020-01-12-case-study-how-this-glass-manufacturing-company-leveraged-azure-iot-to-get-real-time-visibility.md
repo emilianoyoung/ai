@@ -23,6 +23,6 @@ images:
     height: 576
     title: "Case Study: How This Glass Manufacturing Company Leveraged Azure IoT To Get Real-Time Visibility"
 
-secured: "ERohl4jWI5qbZEPqEJZXVDjuwVf825QDT958afMEyCPsoxlmx1YDfy4zHxP0NMzEYdafGpf5U+J/HhoA5fmFh/FG7gdyh8+C/K7HGHA9sT+hTSvEe8chY9IkHIryU1bJH7O4dJYiTJKKXDAEYBaTM/jmmQFS3MSJiVebcfVuvRfiPDZdqrTzdRMzzH3+jeaelq7l/LnKUSwFNvK7MzcRfcGtQj7va+w4r6MXIb7zKFHy+4rHxKKLzJmrNqKih/mJ3aTwHbhFNDwZN3W0AVwm2do+QbDrwaZA9bXgvjB9r1k=;5DAwkBVDffwNDNFZ2H67zA=="
+secured: "JUlsoVwBNUw2brY52S8NYAXw3c2OpW5MExR0jnb3vNiR95bzcyGdMNiluszDv0dEtSH9vWPQCA80tEHGpTxOnyLIsno+S16Ms2JTwKdcOZPOTiFLNepW+PhqEtaMx7RCaKquKtkDWGB6LbMeiy2QNiMqfrXjmVV/r8WvmUElpV/OHXSqUMMf1R2AE2XIiaJV+BBy1arvoSXPypVVp3Bu+/dXoYOx5mJajJ0hC8l5SLeUszsbAdBMjM5iAdfcqtcHqxSMaweE57Bhp5sFvy+4fwe/vcfZfIMNeMQAqRCmP221RlSWN1NZPzCF3U9M1E6LBq6/c2HpyZhVuQsGM3YP4PeTsn4UvOh8trcTMjj+hacoNGJbC0UVzNDuBWXqNQR7PXVgDYfGhBYLyxz12+ww8yClhEI2/vDxO+HikaZgtwpyxTtOvU88S37O+qawcRJeI0yWrGQqJIYzfwjJGwmJQQ==;D52/oZIuZT8Xd6Ycsq4WGA=="
 ---
 

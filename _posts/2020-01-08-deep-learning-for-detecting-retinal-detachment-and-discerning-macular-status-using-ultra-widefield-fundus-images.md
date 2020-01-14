@@ -52,6 +52,15 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/221036_web.jpg
         width: 640
         height: 360
+  - title: "Enabling AI with Intel’s Deep Learning Boost"
+    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more. How are Intel CPUs more capable than ever for running AI inference applications? CPUs today ..."
+    publishedDateTime: 2020-01-14T17:15:00Z
+    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
   - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
     excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
     publishedDateTime: 2020-01-07T12:00:00Z

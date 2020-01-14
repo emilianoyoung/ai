@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potentia
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
 type: article
 quality: 82
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +29,23 @@ images:
     height: 1536
     title: "Obama-era tech advisors list potential challenges for the White House’s AI principles"
 
-secured: "ixCcILhfepbFU8fgi6DWqVaVp7grGwwvxLKs9tRDWgXFKpXX6tEHFjq9z/PaYXqYbu+IY5VCxLQX4aX9B2bwt3h9NQL15uyqrm4qrn9fjoqyuS5rv4LoBfoDrx5rjWpq0o/vqBOPnkar2GTn+dySThkRjluC4uSP+9ed+ubE++zcL+ykJUGvFFGsVs2VJnfR0lSMj6J+xA/kH/2u3TdhAK/ubT5yg5ZasgUoACvfzKvPCifPDR4zdqNaYGALIWndfUZI7LcxVcnw+eRNud+wnIdsSma17cO3Q8ibp2nF12E=;Wv0D/0SfHJsMoqeupmRHhw=="
+related:
+  - title: "The White House’s new AI principles won’t solve regulatory problems"
+    excerpt: "The principles themselves address some of the concerns raised by the AI ethics community and academics who study the effects of technology on society. One such principle calls for lawmakers to consider whether the technology will “introduce real-world bias that produces discriminatory outcomes,” echoing the rallying cries of academics who ..."
+    publishedDateTime: 2020-01-12T03:19:00Z
+    sourceUrl: https://venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/
+    ampUrl: https://venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2017/01/white-house-north-view.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+
+secured: "o6kmNbwcL7YLEsKTPrg0WHZPJETReBl2+bMrE9MurFRtbnF9jE3Q8lNSk6V1cdSrxhpVgUbmcdf44BQxhdux0xlVt1wVawMUJ8i9y32GmariHN4BUzTjQjAkSypXbnJvtt/evcn0ZQs7YqxvTgCfZPXfC08yFppvgjjdnS9De5TP9mllFj7jbJozWXb+N8jNp7zqqDJmfbioUJcLcPMLy4zJYQkX6xKcQAxNrZjUTxOJLnv35L1GQAoGh6u+S3D59PWmrKBhCupwaQTOAGdbtTsQlTPH2aPtv0dTVVAbknK+fmU0R6mRDr928DtFxvNYcbvG4ZEDHoJe/Feq0Cqa8qTNdHQ+wL6NufnS+bVGz/MsnTGE7BKjbi5x1eeOSi2KaWnE3T9Ysgr7XQqOamqOKZjzWORBZVM9ba5qXtBJwca4c7+FEBGzkPYL4tEwjDwufZV0HbI2ofhC4GRIFmjRuQ==;Xg9BS6SoKEzVJYAooeaJcg=="
 ---
 

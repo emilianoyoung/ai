@@ -81,6 +81,6 @@ related:
       domain: streetsblog.org
     quality: 4
 
-secured: "YI+M3sE6jmEaAIztLGngj9+Z6cue0T6N+nuScefk10a0S984dYKBecg8cFhqIYLPJFJSsQkEBsWlJO2nOtFToHUQeNIImmUe+umhT64neTbb2gcpubTGqsaV8Llm/myCUm2+rkolGKh3OM57ywIel4ZKMpt8CpwfUYk/P4IniT+mJz4W34ZwpSOT4+OhaH3vYyytpbwMR674zldXBQKcNCbOTDqpReW1/o1CnN/exMIbeAuWAvn8DEfc+XFDPS9yrzewGTq+D67IOjJcLkVl1F4ZCBzqcV/UXs/wmE+hr7k=;QOh09XrncmKUxSpYWfFURA=="
+secured: "oXBDUK9yK1bXe/hR5+WoOWIyC6KZYIFeDeFCRD+CWbv5W5F5xjMkQ7T4hmkI/VDgyfHZ4PWhXx50zmCxLVhMsiGnPUKZVqK0/f+iap1MLIWnkjy7lTy7lACotqOhkQR0XycrDEh4B6Wr6ltdnvdpytdvo4PrKy3c+NcNJAYDI1fh3C37XJuGe+MasZiayWX+LmrshE1yzttbPtmeVxLor+1sJH+PWEzG6mEyBFhfq+CMb0xzFVNYPDaByv8G35KVcOmYGHnHwwDN2L4Bde7yuuM/6BkDqUDLtTiX6NnhdGQ+8NylYdYiJr+WhpQHc2ICjHTVhplbM7wEJmsX39UO/nhFTg+rbgqnigWjyrJq3fObRjKMpuMthBlBCBE4zeumQlzzbkEH7z+opRQIlchQlrKoTazvjPSnVshAcBbqM1DoRs5fzCkNJLJWvbB7f86B1zkjkefTFJdcta27mOE2Jw==;7ggcI7zBx0TEge+UWuQF6g=="
 ---
 

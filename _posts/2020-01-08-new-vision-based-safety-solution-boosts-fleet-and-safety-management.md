@@ -32,8 +32,12 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 19
+    images:
+      - url: https://mma.prnewswire.com/media/1075566/Transoft_Solutions_Inc__Transoft_Solutions_Acquires_Brisk_Synerg.jpg
+        width: 400
+        height: 216
 
-secured: "MnPgGnLaaTglH2T6da+w7fdCXq1xgVk3jm8AHcYuWGF1URVQaY1aeF6PZiFWAyKZHGRTQDDxYc/+UI7zLvhcozqsxIan0GZxofmMhlXwCvTVZIXV7+Aq+3fxl7WJ2poWYBLvTniM+jGw9R9Sh+MIduDfTKyyk/1MluHHTuTyfTIhNWGflK1FzZ01sE9cb6Y3Ff9cRx3KNshUzRt11M1pWRfV7oK7dxHHCxub6MaK+jrHQXHM3iSNdzzJXGiJ3Uick3DjUId2EVTNt4rEgnIcE69pdJlbJBcsKwe7Wkwea9c=;7pjs3VPfc/Wm/vrSJOeuhQ=="
+secured: "7vCMai1sOtnTlWockW1t2U1EJJcq2630TnnQTXpoFMUR4ZPU/Nn9Pq85lJWEoygLB9kHx6CV3iNn/7Z810TTrVeR4TzRp1eunOJn41GQe6/chKU74hWOcT3EAM/AS7gZQKiCacmV79G8SYC+1Y/2AOps9ZTMwUqd5xVOh/wDkNyb2tZbztiEVOExu5Dg4YQCoozNrjg+A7uU0XVlfy5/HAOa0OKJtJXAmJT2vTptmMgi3X+RPgXuvFix2AWBZyx4twN5cYzE1feBsVu4oUsCVmEwtADDIIG5NNc7yQEz88usVZzQydeKRT/V0itCcNS4WXtKGqbiCat/FTQotLggWd7MNVq9aSTQ1Ef1htzAKfLE9uCLsskdZrw0a2cFDT4OW29fzhbBI5iTFYwBDwAMlbkazqESGtauBde3RahWXU3ESHB64l7GvhyqNNu3mFG5i7BI+fyUA7ccX18za4oXvA==;A9m84ml2QdvmHfHQQcvslA=="
 ---
 

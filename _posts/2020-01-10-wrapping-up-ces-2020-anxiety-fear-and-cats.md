@@ -7,8 +7,8 @@ sourceUrl: https://www.thegazette.com/subject/news/nation-and-world/wrapping-up-
 ampUrl: https://www.thegazette.com/subject/news/nation-and-world/wrapping-up-ces-2020-x2014-anxiety-fear-and-cats-20200110?template=amphtml
 cdnAmpUrl: https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/nation-and-world/wrapping-up-ces-2020-x2014-anxiety-fear-and-cats-20200110?template=amphtml
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "vzE9UVTFRRt0fSdyxSW/zSWvIV8eBb+Yvzea6JgYJtpKag3ltskKaK7PVY9kcWaer+2uWSfI+7D6GU9dm250cZ2/v3Lh5UM3/vEEF0cQsLY+rwhQnmq78sKLHMAtz3yTNVvfVhrTOM5lBUULXIdfHxNm9Ven1VoijuBZLFzlVce3UuP1dL2rIqsR9IS08mDQ3Kry0ZZ8CUr3njC9gF0uk4F8OzeGCKM1Y2TXg4WIeb1z7XTJmjO4AwpEJQVJUHwZgn0d+gYaJ5rfXzdBLAJtOlYM0+aMoBgGf66yn2L0BJfEpm1iTDvG0XacbkEXgNgccBNE+kzasgucul8KK579YjpsDuQvjvKy/Fgb6N35J+04YzHhixE9MTljhoJJZytdL+lTWbc5JHedQFnt8+UUffz0cg09el/kirm6nTk51o9cJYNVrMQ3Dz93dE6fdJzugW8wzhculXX5r+SoPnWizg==;auJIN+MijITyNXxzK1wm5Q=="
+images:
+  - url: https://www.thegazette.com/storyimage/GA/20200110/ARTICLE/200119961/AR/0/AR-200119961.jpg&MaxH=300&MaxW=500
+    width: 500
+    height: 291
+    title: "Wrapping up CES 2020 - anxiety, fear and cats"
+
+secured: "w4neGoDWu3AjFuKRZOUeWSapiw1ttKKKgBXQHZ6y7PdZD9BWTiKtJzTkgpZp7/huUAIcvAnK9Gh+PM1k6MyJpqI5cTEE+IenV+rugaCuoPjRyy/i/v8xYze9zU2ae8L06gfA+o0+Qg3OgulRQTHLsGNRv7XX5K3sHGp6I5Ku57NNpn8n4y0UkIJ7Usgqws2p+VhKH/U9KuIiyWZACdO04R330GGjozlpeUqF/Yui4T+v6TAzLLzbLCOlbjT70wvg5loh94+dRDGHXuBT6uFk7+fsCbtaS5WWo2bTnMZcLa+A9Hm4j0iksIR9wkYbremWQGMi8a+m7i9cZemb6GYixd0hiO9PvbqMZDEBCRZMUksR4u+P52JlUqbXZhZBFOLdVjqTcfmIXmD0aW11c773IZxoHLFmIdu1+eBjdvtsdClCR72vZWAsjRnrvbMZxZKb2OxvcC9ImcAepcTsYRqPbg==;jKbbbADITt7XtG4jGTJreQ=="
 ---
 

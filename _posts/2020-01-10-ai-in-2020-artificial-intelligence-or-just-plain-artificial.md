@@ -23,6 +23,6 @@ images:
     height: 600
     title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
 
-secured: "OEUaagNhbkJeNRstTUmD8043k8UbewafsBQiiM3u/f/kAahY8R19XsL+bFc1ed6AiwyWQHxplNcrN/ekf2YOO0Y1ZAIXXOumkRjwleLbt8HWT4Of/awmS7R77VcUw0FYq4py15gHIIVRFviMrbm/ks7Q/LVB3r38NonqzmcIFLR/UAu78FdzSeDWMxRgTihztnYCWz1XLyGVoVMr3qOZycL1QmJfWKlzcWeA7NcazExTtLljVuL66ph5AFy7TcnikYjbKWyE82AeDzVzzTUEOuHWQ0za+t0HmGFzMXLX2MU=;23Ppi8xAuYh6FokepU1cog=="
+secured: "27VvcWyqjby0fZ5C5XPbBBL2L+i6IeeSAIYGNXJBrg+oKMhXzJu+HDTYzYNs/cFXVzOzid7MMH/TIjp+0mogki5Lco7ZHQ5KOSDdKmUsAbjCTNCBowv0Hae31pdFvQ5Zw5Ldu9al8kVtxKwfxDk3KUyfMGOvRUU3BHiPAAUrUMW9K2BIFqDm0fWQf90oWUUY0eSbxzCmJpWUPgdiRTy+Joi/H87aKa+zYuxF3pydELJT/7nn5SDctqO/0saT4e9pMGOOfdLpQSUUyfz6ZqAnwzMnotLs4Q+TVf3E/OaN9tyAkkJA7nC+j+E+e73S5xmu0xKglwalMoDEkDU3psRaV3jiNvRkPfjpKKRnTsY+G9NlG6RR7lIm4GU+r+m8Ioj/IrTrhzBBXEb0+jhCV4difpMZ7XJVXaEz+k9rYzoL6O9oL2QkURMAzpqlTcuIFsN2H2iwZisG0bsoTTboTU2ogA==;alftVi/BPVApy9wxT+67kg=="
 ---
 

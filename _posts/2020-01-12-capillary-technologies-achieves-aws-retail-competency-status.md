@@ -7,8 +7,8 @@ sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Capillary_Technolo
 ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/
 cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/
 type: article
-quality: 54
-heat: 64
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://www.zawya.com/resources/img/zawya-logo-en-social.png
+    width: 1200
+    height: 878
+    title: "Capillary Technologies achieves AWS retail competency status"
 
 related:
   - title: "Peak Achieves AWS Retail Competency Status"
@@ -30,6 +36,6 @@ related:
       domain: realwire.com
     quality: 34
 
-secured: "abFcudSKbK5eeKPxMCZNhoTOpaiIYCzQD0BcaEZCRwDfoG2DIPY4BdeoKU5wE+Ks1l9+KJMtVUwq+KjG/mfPta5NBJc5GRHDmOFGTpNK1nTMNUPNsbW6jZnk6pxt7rgafOAYipEAOh0EJHrGuNr0xEpEY5jJdJ49jD5UW+RKqCxl/iDv2sIBjBR+oJ2xvdSAj1L4Xr3kcUiHmokQxSEHnLTTNixf5Y9kOmJK7yjqntV6yUMhlkcf366rjMYUts1crjqbMItuREerVgPrTLiI8o6l6CJy77blqm9Ibg64bi633iUHYRHd6sMgx9T2t0SyFiHAT4CXalsh3LobJ/cm4FKdjQMMd/aDj5y510Mp6UuM2AWDvlR9lxkbxIs+Gy09bAb2NLpP5oWMaJFycRogBvckfOiQqMM4uw7iBB8t7iMuNUKKi5Ywyw4iUBTLCl35xJRGchZQI0mEnx9MVDaxfQ==;1IaH1eabFFJO2BOmINna/g=="
+secured: "oYA6l0TIwzBvEMSFKQDHw1ZhE52ou2S/wbA/woLp1FVlUS15FCQB6scNJRzWemUuoiMDE1j6RhgLRWfZh+VQR185ciD5vGFC2eCsUWfsq+hvQ7xy99oisoMUFOVCG45qkJoc+/STsBxhr0leBWbq5nOfFItqlBKjQRXTy3/hOOVw/0qDskLBx+0ngRVUCs5ALWvhM1wRjoKZ8WNIONvk8P5dbxY0F/6h50MKko3cv5bPiB0zNvMJG+yKDilYA3rjEc3PBly5Ab+snLXuIgv0fUTjsPz+TAAfO+1hZgDlIZeEYc7siyTe5Wg/pV3DxTtS6LK5ssQL3XzCT+mPUi8uvAnyWYIvEWqqqwoZypIgY81uYZSSN6GfV8RvABfLE15WBaW61X77raLCu/CXXvqr8EQGbXlSy5/eSrK1azU6LbxaK69CqdZYhRkFkTFXRoEFatWIGxgxXGaF6dc/pg/Q7Q==;Ro6Co/b+/vqUEBNww5IEYA=="
 ---
 

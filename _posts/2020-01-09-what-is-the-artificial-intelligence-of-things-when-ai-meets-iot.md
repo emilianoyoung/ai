@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence is when a system can complete a set of tasks o
 publishedDateTime: 2020-01-09T22:57:00Z
 sourceUrl: https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
+    width: 1380
+    height: 600
+    title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
 
 related:
   - title: "6 ways that Chinese tech is ahead of the rest of the world"
@@ -37,6 +43,21 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/nMTQhMT2WkxcBGvCZcE9qL-1200-80.jpg
         width: 900
         height: 506
+  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
+    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
+    publishedDateTime: 2020-01-08T19:45:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
+    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 44
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
+        width: 1200
+        height: 600
   - title: "Beginning with Blueberries: What Are the Ethical Bounds of Tech?"
     excerpt: "(TNS) — Of all the life experiences helping to shape research in an age of data privacy threats, robotic workers and driverless cars, here's one you might not have ... researchers and students probing the ethical implications of artificial intelligence, automation and other technology -- from the viewpoint of disciplines as disparate as ..."
     publishedDateTime: 2020-01-07T00:22:00Z
@@ -49,6 +70,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "o94JLTwY/rgY9zpR/6VhQHlF5pebNW1OOqgFHd1+2aj9Dzn35ouH2k30q/fCsM0DLMZ8FKXQ0v3ALGPqwvzFkfXRlfwxF1NOqkxEtMZTfHZ0jxnzzY93ZT9BbBkf+313OjlcoCnfMzdSKSfA+FoMFLdWe26oVR1nrX16j+6AMJ0bWt5Lx1dou2TQlpGEWJ05iH0Fx0riokIYonmsKjJMS+dBDI8nZVJdU2p98xCGFkeXgIxFZ44u+ajLVA4UR8ppgdhmlYVwerGnr2rLBLQv+wP4PBmD6Kibhp4p/sJZyNyEtx7yDYE1sMgdlv+FVOsiigRjH5XMJJyafQkrh85SeXF1YiRWWKZZrsCz6w3mVnHJ3G0EN00nMDg37PCriBngLQGkfspaVARX+5Mz4jC0t1AXbUiXBkvlG291ivyZdHZIdDK5vk4LOAASSUvp3v3PgroKnh0+KguRjtRCgh3VUw==;RbHIwO8ozVTQgjMfixGU1g=="
+secured: "bTdePcokFfqlwZMzZV9JLg/wMfJzQFj3OhrSZm6TRQYfbbJEOlCajeR0iIrafLCI/3w/TYDYQCQxHH2/IP/cE3H5o3dCmwTeY368NtZTb9YDg7gLbND0qI6EwK2SqgAFn2BvoSXj64tTBaE9cKrqO1X2eEXibg4G3hXJTjxZP+hZ0rNCOc1juNtP/PD15g/axmB9QZP47bMwPgVhk1TWMqQQYLEFemGJO+4eACJ2Xc21kD9XHImitAtpmqIhaszNS0zSBz1gYfV6Hg9iWPvbIIY8Yd8nHZ/yGFDkMBf0HfOsyTNUauZvK+K5nB5PTge1lYlHkyXRXQycFbFvMEWBkK3shBfeAA33kYzwjDLpnqBToQAq6WDlmNYwKuuxtDg1yTxzjTezs0tXKvMrj1rkhcTz1OrOgkw1RUoNkSkdROiQVaufRfCg0fo83XFRxT8n0KvQbhHub6mS3f7OQvZb+Q==;0Be3yZb0SaLJtKh5FOE4UQ=="
 ---
 

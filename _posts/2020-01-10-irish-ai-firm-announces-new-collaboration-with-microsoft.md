@@ -30,7 +30,11 @@ related:
     provider:
       name: IT World Canada
       domain: itworldcanada.com
-    quality: 60
+    quality: 80
+    images:
+      - url: https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg
+        width: 620
+        height: 250
   - title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
     excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
     publishedDateTime: 2020-01-09T14:54:00Z

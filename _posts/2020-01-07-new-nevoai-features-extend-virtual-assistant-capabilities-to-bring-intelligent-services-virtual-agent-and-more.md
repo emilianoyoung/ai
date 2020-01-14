@@ -22,17 +22,60 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Retail Artificial Intelligence and Extended Reality: Operational and Legal Trends"
-    excerpt: "The retail industry is at the forefront of innovative uses of artificial intelligence (AI) and augmented, virtual and extended reality (XR). Not only can AI and XR tools increase business efficiency and opportunity, but they also enable retailers to provide the customized interactions and convenience that their customers desire. To meet ..."
-    publishedDateTime: 2020-01-13T14:00:00Z
-    sourceUrl: https://retailtouchpoints.com/features/executive-viewpoints/retail-artificial-intelligence-and-extended-reality-operational-and-legal-trends
-    ampUrl: https://retailtouchpoints.com/features/executive-viewpoints/retail-artificial-intelligence-and-extended-reality-operational-and-legal-trends/amp
-    cdnAmpUrl: https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/retail-artificial-intelligence-and-extended-reality-operational-and-legal-trends/amp
+  - title: "CES 2020: virtual reality, artificial intelligence and a small glimpse of the future"
+    excerpt: "Flying taxis, virtual reality, artificial intelligence, and even a new energy drink were among the products that graced the convention floor at this year’s Consumer Electronics Show (CES). You can find yourself spending hours walking the seemingly endless halls filled with the latest technology propelling the world into the future."
+    publishedDateTime: 2020-01-14T08:21:00Z
+    sourceUrl: https://www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelligence-and-a-small-glimpse-of-the-future
+    ampUrl: https://www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelligence-and-a-small-glimpse-of-the-future.amp
+    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelligence-and-a-small-glimpse-of-the-future.amp
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 47
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
+    images:
+      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/IMG_8422.jpg?ve=1&tl=1
+        width: 640
+        height: 320
+  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
+    excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
+    publishedDateTime: 2020-01-07T20:44:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
+    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg
+        width: 1300
+        height: 500
+  - title: "CES 2020: You have to see these robots and artificial humans"
+    excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
+    publishedDateTime: 2020-01-08T08:41:00Z
+    sourceUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/
+    ampUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+    cdnAmpUrl: https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 39
+  - title: "There's nothing artificial about impact of AI tools, technologies"
+    excerpt: "The fact that artificial intelligence features in smart home devices — from digital assistants ... The discussion highlighted various applications of AI in the automotive, technology, video and entertainment, and health care industries, while also providing insight into the considerations companies should consider when evaluating the ..."
+    publishedDateTime: 2020-01-14T09:55:00Z
+    sourceUrl: https://www.crainsdetroit.com/other-voices/theres-nothing-artificial-about-impact-ai-tools-technologies
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 39
+    images:
+      - url: https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Jeff%20Marston_i.jpg
+        width: 800
+        height: 600
 
 secured: "eoD5lDcRv7HR8eqadGxw3ZD66cVcpfQ58qmWNtp1q4uN9oT1A94WKbDRN43Q82QMadKlURYIJtw66MhQF61wX3x19gRoC+gtsL4o/slf0ww2x3La6oD47b+k4yjiSeCJD9BDQm4cBlPXbNPWmVJnt62qOyVi3QPsmPV7YVrBchuxfm5O6ETZni/fEaXR79LZOu+6usR/RfdEyR3XvisxFgQOy2XR2LEE3PqBsmX3MjssmQd27hGqN3NEDlXkjn8GdwVY7utSpnU5UtldW7cHGn6MG1yq+Yoecw0SFB4ftHk=;e99HojLxqUbP6ztTNatY0w=="
 ---

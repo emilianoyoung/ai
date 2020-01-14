@@ -7,8 +7,8 @@ sourceUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-a
 ampUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
 cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
 type: article
-quality: 60
-heat: 80
+quality: 80
+heat: 100
 published: true
 
 provider:
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg
+    width: 620
+    height: 250
+    title: "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver"
 
 related:
   - title: "Irish AI firm announces new collaboration with Microsoft"
@@ -45,6 +51,6 @@ related:
         width: 800
         height: 600
 
-secured: "V6/1boL03qUyHlZcHJRc/G3JXcxlkN3SZGx21ChlQXbvAMf9nyCjvLZXKfL/62SL97upQ/7sXvSpAH8avESqMC97/IgLqTKHmUQZmvMZcjS0hPeRUwsNU7rRYxkaDY2JPVFIC7XmnZ+jcNuLhgNg8bir/JHPN1dwCzrt3xvaY8qCgTHlCSYt8xQGfXB++68Vh5vVeGdZtRV8zAQ1aXyKMl4EW4EMQxKXA6vAbO9jmMBaHAloSzrx4mDttWt49irtG4PGCRNcfzcarUa34iBMRxhp+52nxVHsA/8Ucnwc+Ldfseac81Gmzem8fYZYcJGiS4gYoALNlai9CR62xz1+YEkveD0M8WaDYz6Nxo9xhRjvib0/e3FRxTBA+G2cHSpI8tna3Ae4SValy8KNCPxU4AhQ4IYND9rthURPkvZfrnUVx3mlZw795std8gTHMYSrvbq/tMsH9K9ag9qVVJqWuA==;1c2K/sxhBlTYtXGGbBifCg=="
+secured: "kX/81fpDZxHUZdKvhzOySdcxswICmvYSz6rebZfCN7Z7yEjKxV8pgSVifnyk9yf+ompaFHtnoxbFbnlFTWKgIeGlJZrwvt3j+wrrD7jRKn3zpSo0FCEOdA4dCfeSTXDaU7gXi0owWydY4+N8nW0lXqjJbjGQhdTl+xiFtCId717vmXDDKLZanA1YjZSGef+q6xtn5Y1BVVh53ubkvYIhaKsXKXLr6q4MD/EcWCFJXKLZAUSFLAEAdBbeDv/SAn13SQjq9xcl5GL9ZdDWmYijoODrtrh8ZKyBcfrlWIdWOOm1YzDnyx6bFd/9vubFP67vHzds888TXVvgf7MRiEy1EO92mUdmyMLc4tuoTNLTjIqnoosuf2VucoPXDbizSUQ7h2GonR71uw330IkWncfPXHzVe5IFAK7eSQDlXmkNpHxPbgZuTvXf9MirM6FXuTJ+UFw5234zBv3rLvYVwho5nQ==;2pHwkIkQ4ypUdDL/2PxtFA=="
 ---
 

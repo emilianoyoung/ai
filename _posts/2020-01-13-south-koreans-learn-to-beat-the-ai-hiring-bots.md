@@ -27,41 +27,21 @@ images:
     title: "South Koreans learn to beat the AI hiring bots"
 
 related:
-  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
-    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
-    publishedDateTime: 2020-01-13T13:17:00Z
-    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
-    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
-    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+  - title: "'Smile with your eyes': Here's how to beat South Korea's AI hiring bots and land a job"
+    excerpt: "Top Korean firms are rolling out artificial intelligence in hiring — and jobseekers want to learn how to beat the bots."
+    publishedDateTime: 2020-01-13T17:41:00Z
+    sourceUrl: https://www.businessinsider.com/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job-2020-1
+    ampUrl: https://amp.businessinsider.com/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job-2020-1
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job-2020-1
     type: article
     provider:
-      name: XDA Developers
-      domain: xda-developers.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
     images:
-      - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
-        width: 630
-        height: 473
-  - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
-    excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
-    publishedDateTime: 2020-01-08T23:21:00Z
-    sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
-  - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
-    excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
-    publishedDateTime: 2020-01-13T12:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
+      - url: https://image.businessinsider.com/5d6ecccf2e22af0b8d2b0f53?width=750&amp;format=jpeg&amp;auto=webp
+        width: 750
+        height: 563
 
 secured: "eT/rBWM5OUFEI0Z6I/Pn8SaTVTRWNQoBoEDtkhptZ48VgSkJbJQSlPY1mHY/RVvQ9A6ayYToXis9gCBS95Y+bRjEKGKfnw8WHa+2VGc2DnwG2wLUxrRiezV+VRVtzG75noX9i0rFgqpX2wmq2erVtjSqW4GWHLrG2AqknGDPOCcM7yq/V6KbNBKr2/flbB1RPhnjU6y9VC8LL8AhYwwbGoDp5ou/sD2nuu4DA2BPXm4tkcNeV6zTZuYoimJE0J0PRn+d5Ql83GyT1LUgvbRiWl0b7qBnCtD32Wh/Uf38Zbg=;yIDrAGVGstVw0eZ9Otf8hw=="
 ---

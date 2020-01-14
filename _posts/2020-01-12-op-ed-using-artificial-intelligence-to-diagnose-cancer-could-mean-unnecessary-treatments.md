@@ -7,8 +7,8 @@ sourceUrl: https://www.latimes.com/opinion/story/2020-01-12/using-artificial-int
 ampUrl: https://www.latimes.com/opinion/story/2020-01-12/using-artificial-intelligence-to-diagnose-cancer-could-mean-unnecessary-treatments?_amp=true
 cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-01-12/using-artificial-intelligence-to-diagnose-cancer-could-mean-unnecessary-treatments?_amp=true
 type: article
-quality: 28
-heat: 28
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
 
-secured: "2tQaXa3KXATAmOCLfhPPFjDlfozkoRlkQL8uw5PQrepRChueznBCI0SbkQOLhW9movgkx4nE8EaqmOXQRhM8RgkvAUdelxBd6x7ayJajbBn19F1s3GKpjjXoByI+iaTfPE1T6khfZNGxuvun9K6/E81sMy+/L4QrMAJs6nI1Cf1ijt8teUDQJ4sD614wD6O1F8Sn2Chh9y79wXPHshFxkgcyS6HbNLh3giJZq6gZAufGd2IboLi210S0gUG+dgr1O6evv9GxjoCv6ViWzS9ENso3hhxoyhY5zcIxxvWEoZwwU4PjT1uZ9fgEbPXJbbsEePPYce0jwQXxtSWxc0UJREti2YwbxjwRWU4UonsEKcQXSBLA2j8s7nGuCTQuktvSVmx1VkiLfkf1G+GTRHERcF4+rpTe5KSnI+7/RohqaCM2nzt2a4r1DywtIvychrx3wVn2WFmm7ybFfeGF0fI4RA==;/4sq6aYETcX7zlMUJhPw5w=="
+images:
+  - url: https://ca-times.brightspotcdn.com/dims4/default/e2b42b7/2147483647/strip/true/crop/1764x1152+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2Fc0%2Ffbe5b7e6eb29d395ec34d7270577%2Fla-1536771483-enda60na6o-snap-image
+    width: 320
+    height: 209
+    title: "Op-Ed: Using artificial intelligence to diagnose cancer could mean unnecessary treatments"
+
+secured: "x8Ah0hceF32VtB3Q+yLJJwU5rMLjiQtqEJs9ou79XT+a6/Ehoi5QJe124I2jXfqW0+xZaT3UnvvS8dUf0yeqZL5RUeRXWQJfKfVMXH5fPVFdI23Z7FdQc9zbRapWAfohwY67lTwTInt0ihvKW1gSRrQhUy2nhIouN2l/Ht4F3JG0hgb5/Z+8wzMXD7MNUSWsupM0kNdm6foG13MJmwK+cT3To8trztsJyBnVMB3pLEJ6ENdoKMw3WCJwdRETTEERkuvl2CacxtnKBmoBZ6XvhxEoqFl9LuT6H0amHSQv8ulOI+YOQ1cIMKRyugreVl/GSItbvzOk8R8H7v5jpbN1oWAwJj63Gf7ATKDjC+1P957wMYiyXE8GnE0q6mZ80k81oDCvYN+gwXpkIebN/5tH14jOUBGzxPuzu4VvDcfDglXVoDLGdayd2VMfhuhurDdTfkO/mvSBhs/rYifgU/L84A==;i0ls4pZqdQDxRtu3JKwIJw=="
 ---
 

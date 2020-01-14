@@ -8,7 +8,7 @@ ampUrl: https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply
 cdnAmpUrl: https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Inside: IBM Sterling Supply Chain Suite"
 
 related:
-  - title: "It Takes More Than a Village to Manage a Global Supply Chain"
-    excerpt: "The IBM Sterling Supply Chain Suite draws on the vendor’s own highly touted Watson AI technology, as well as IBM Blockchain and the internet of things (IoT). The idea, says the vendor, is to enable “self-correcting” supply chains that learn from experience. The open-platform approach allows for the integration of data and networks from ..."
-    publishedDateTime: 2020-01-13T11:09:00Z
-    sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/30710-it-takes-more-than-a-village-to-manage-a-global-supply-chain
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0113_ManageGlobalSupplyChain.jpg?height=635&amp;t=1578861719&amp;width=1200
-        width: 847
-        height: 635
   - title: "The AI Eye: Germany's Bundesliga Selects AWS (Nasdaq: AMZN) for Tech and IBM (NYSE: IBM) Announces Developments for Sterling Supply Chain Platform"
     excerpt: "According to the press release, Bundesliga will leverage \"AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts.\""
     publishedDateTime: 2020-01-13T17:59:00Z

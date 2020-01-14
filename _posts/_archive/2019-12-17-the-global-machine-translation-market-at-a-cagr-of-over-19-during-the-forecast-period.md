@@ -1,17 +1,17 @@
 ---
 category: news
 title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-publishedDateTime: 2019-12-17T19:26:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
+publishedDateTime: 2019-12-17T19:35:00Z
+sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
@@ -19,7 +19,7 @@ topics:
 
 related:
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
-    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and ..."
     publishedDateTime: 2019-12-24T11:15:00Z
     sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
     type: article
@@ -37,6 +37,6 @@ related:
       domain: marketwatch.com
     quality: 3
 
-secured: "7chlhW7i8al7R98qgI5uIrmFw3ITr9T4gs7y0wqHmbtPrahdqt/08LOSQWEfNj1rCoRAgyHEk68ASRfOi/AFJrkMOYTytg3Kf2khBA/EMVdtgNjuP7K7x7pHdc596PVkA2FADBPytL4MLsytdC/WQHdcBtIxFqCZe54+LuDolRt2btxMg2a6dGsYyVy9i7Qxz/J1MU6Ll++hysNGz+tP8rK55pV+Sdp9lfLgB/baOtS7trCPDzrEWQ/8En8v4Y6q4A60ZjN/W0cqyGhn2uXOSUgeTAPTE0UbM25WvLE5qKU=;JQGSlj9nZ+G55z52hsZlOQ=="
+secured: "FG+UjU/eOYz5r9DjAhIVV4fADVn6Wi1gNRCM/TP3F3bljMbeifnmBoAM7a7x2cPJN7ooaolFugCcOLSjKzY1GD8Z+7ZU0Nn7lB6xBo/YTcm6FcErfIKEKcdhzkkLrf4TVpyZIqW+z0tOkc50oHeAa2KT0Z5O0xkOS7ALrwQbPcGNkVra/194HnZMC30I6+hmnIkg2qbZf8jdsag+3fVTnkgprr3KQnuTPHD2EnP/9OOGygdMeX34qqopgVDnuZiNjSAh3EY060gUKHgKk9iMGjVX7oO6M35Y8dXpoKk+RMI=;UZwilBdyUuV/76uStwbu4Q=="
 ---
 

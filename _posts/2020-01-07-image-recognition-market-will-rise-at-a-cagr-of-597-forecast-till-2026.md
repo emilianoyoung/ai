@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T05:52:00Z
 sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-rise-at-a-cagr-of-597-forecast-till-2026-2020-01-07
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -22,28 +22,24 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global sound recognition market size is expected to reach USD 4.42 billion by 2025, exhibiting a CAGR of 75.8% over the forecast"
-    publishedDateTime: 2020-01-09T09:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/sound-recognition-market-worth-4-42-billion-by-2025--cagr-75-8-grand-view-research-inc-300984116.html
+  - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
+    publishedDateTime: 2020-01-11T09:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
-  - title: "Medical Bionic Implants And Exoskeletons Market to Raise at a CAGR of 7.5% over the Forecast Period 2017 – 2027"
-    excerpt: "According to National Center for Health Statistics, 185,000 new amputations are consistently being performed in the U.S every year. Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a ..."
-    publishedDateTime: 2020-01-07T08:37:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2020-01-07/medical-bionic-implants-and-exoskeletons-market-to-raise-at-a-cagr-of-75-over-the-forecast-period
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
+    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
+    publishedDateTime: 2020-01-08T11:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "Z7NdrHD1slhbvAedHnjKRp7P5BA/Y2bbIaeReSzS+kiIkmkITFM388yAbb+1dPiiJQopwBIlf/8XjKsZZbM+tsT2/31I0FMyNRos8SeL8XMK4bWQSFPTFEXxo2IoY3vnoXWNQOyz4YzPk/AU+D1pA1Z1U3+SJqpbekgTD48hQUmqQsUi2ithYdaVpz7ae2wvuPGG5DydESPN5SKZTtK//ZEGNkB4pXzl+8mk6UIAi4t3tIvIM/qAtlYyF/CoDxdRpVt9GxVPIQtzHEEAAh8xnqUZH9Bhg/ZOWI7vR44vl4I=;eVvMFyfixo8m980ybEsR4w=="
 ---

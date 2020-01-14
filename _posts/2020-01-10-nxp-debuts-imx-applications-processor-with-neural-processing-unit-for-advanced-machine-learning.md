@@ -5,8 +5,8 @@ excerpt: "The i.MX 8M Plus combines NPU delivering 2.3 TOPS (Tera Operations Per
 publishedDateTime: 2020-01-10T17:17:00Z
 sourceUrl: https://www.embedded-computing.com/home-page/nxp-debuts-i-mx-applications-processor-with-neural-processing-unit-for-advanced-machine-learning
 type: article
-quality: 11
-heat: 11
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: http://share.opsy.st/5e14d76874d04-76219803_nxp007fig3lifestylebagsidewalk.jpg
@@ -34,6 +35,6 @@ related:
       domain: electronicdesign.com
     quality: 4
 
-secured: "J4yuEMTRp/TvudhFtd16V962/llqd9Lxsccel0x3NYpFwNzpuUQDdUbKW32BZxkLcZoOfwKvze5SnwjM8nLS5zBOQB8Eyszu/5XDSAR+mmT4PVKABquFma5+e6VLXqOJU+qDmLVkMJKWJfKMCAcT2AcpZjpP4KN6U69fVsSDGY2wxGh0hFJBT3Y9oSTp2+JxaLwkk4Jy3EvJCXXBK2YXAj88gy9lFLkIqUCLB18OHxjBVBrL62JyFjaW+Ua+tM3iVrrdzYCHlzdvW0CQAEJzVj3/jxUFqQ15gCYfZgaM7FI=;rqy7YIzs0sFLxNdHrlmzeA=="
+secured: "XUFh9jJ2CHjxh6LTsUwsfvXtvmUpTS23n3GzdsBSLA10AFLMuhKUxrgRW3e494LdQbpOAkcO0EiSe8O/xagDdytvAG78oWhmdn6hfEZa+2nk9kKWQFoHlnm0hmZ7vIoVJ6DfhLYjQkbfouhzTm//AMF29QPD7XkDHf/j2ws2YvnDw709WgUzsmuItmlkLrFdrWGsRrE9afBTsWqgTXm2Hp3+yGm2J26S63u3iz6ik27ilHL10jCAikmxh9bHB2vpC46oIUAMac1dPc86h/H8iJFwnARSY+v+jT4dFVu7O7sZG/NkZhRHcdyQsxSU/r4XXVPPCmugphjQaB4SDW+fZVfwZfLMiEHmXSYpmBRq3Hd4rF+b6GR+FtBhGNovTVUtBXISV+bapJziFdgqMnCvFi2xI0DmtL/F3FC//B81Y+wwWz3f+tFfFRBdZZKfEG5AdQ/m7RIosceFIAtqsUS8wg==;p0iLV6NfjiG/Jsx1zGwFyg=="
 ---
 

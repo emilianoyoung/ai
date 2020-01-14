@@ -73,6 +73,32 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2017/03/1488544544_img_2239_story.jpg
         width: 760
         height: 428
+  - title: "IBM Launches Advertising Accelerator with Watson"
+    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PRYW1OHig3OivDLZc9jD9Q--~B/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/938103bda68c090c59b89ba41bbfaac5
+        width: 400
+        height: 225
+  - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
+    excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
+    publishedDateTime: 2020-01-08T21:28:00Z
+    sourceUrl: https://www.techtree.com/content/features/14005/ces-2020-ibm-launches-advertising-accelerator-watson.html
+    type: article
+    provider:
+      name: Techtree
+      domain: techtree.com
+    quality: 39
+    images:
+      - url: https://www.techtree.com/sites/default/files/styles/story_page_315_236/public/2020/1/watson.png?itok=c01gTxN-
+        width: 315
+        height: 236
   - title: "The AI Eye: VSBLTY Partners with News America Marketing, IBM Announces Advertising Accelerator with Watson and CEVA Partners with SiFive"
     excerpt: "Point Roberts, WA and Vancouver, BC - January 7, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
     publishedDateTime: 2020-01-07T16:57:00Z
@@ -82,16 +108,7 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
-    publishedDateTime: 2020-01-07T14:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
 
-secured: "4UYiXXoyLSXSXbbh1WIBwFUbPJoenIRVrquJ/sO7DAEdDb3Vw3ocEvcODWTy1FBZLpXVQFS1hriRFP1H11eudrPTZ+AqjYgWfm3mrVjEn41fUyFP/bUv00OJFWGaqDz6Uv/8A/PWaMEar6ifsg0+23DS17hYxieHUmNNiaIgV5cdD9BLdvLGLzwkLwIamYGpAxOpd+bnkzmxbe9/guzY6zE//MUo9bV3eOr4Hv38aSbP/izEKXaO8GKZShNwq+uL2YOsy6m9ZXHvlW2LkzHPLr77FXwq0tmf/NSR5AFCmQY=;UbJFcnuuLe136J6phAqbmg=="
+secured: "ExA2Ic/2s4zY0smEp0H0tqMVYAy52aV8p736AlNcAYLMwhomrg/1bzWQ3K87f/bu6kbw53FSybDBY3CPvmHgm8epA5ybu67U9bqsosx0POqxk2xakA5Wqd5VibcKDNtMm9XgGUaworOwbTpixIpkwkIlWoeGvOl6M06JvdrR21sjg72czgXA1H9LQqWPYIbETLXsTY2VQb04L3913vUj7rDK4nHa8173997WgnLAOYuUKgbXRWYqiTLV/25u8Pg3bK1m5CQoZW+C95chBLa3OgIqc9w4Hvb7ZwY7BYVFGhZBR12smvoxvsaIVY2ey/rrNETVgVG0xZKSHyvzuUxcw3ftFp6ztBoFwUaKI7fGYDq8GsQSb2vaZPQ27Jwxyqrjo4EU1xv4pXW6nRupHGSSxS4ZBDR6Juvb9hoez0KRTfYj3GVeLj8FyvwAiLwA7ixgjRser0QD1MbuXlfE6eq4Lw==;b42K+05AemkarNzTYrx2ZQ=="
 ---
 

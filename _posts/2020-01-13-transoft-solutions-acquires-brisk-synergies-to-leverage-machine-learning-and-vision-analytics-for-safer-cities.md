@@ -5,7 +5,7 @@ excerpt: "\"Through our continuous investments in talent, and technology and inn
 publishedDateTime: 2020-01-13T17:11:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-transoft-solutions-acquires-brisk-synergies-leverage-machine-learning-/2020/01/13/9080494.htm
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://mma.prnewswire.com/media/1075566/Transoft_Solutions_Inc__Transoft_Solutions_Acquires_Brisk_Synerg.jpg
+    width: 400
+    height: 216
+    title: "Transoft Solutions Acquires Brisk Synergies to Leverage Machine Learning and Vision Analytics for Safer Cities"
 
 related:
   - title: "New Vision-Based Safety Solution Boosts Fleet and Safety Management"
@@ -32,6 +38,6 @@ related:
         width: 450
         height: 308
 
-secured: "Vz8WyUxdb+g4A2et0YRIbOWUBpBEZAT+Zar1gvesGCz2Rbmb4Nt7n0gyO5B26uE0fvBdtND9OJw+XxgNRJktTbdc7q5VZ3dsbz3x/JL0344Vq7YdZ2R/o2NTlkx5bnhqjN2KQPzq/X6o4M+1eJ08KGuCg+WRPBmrcVHJ2+kIHhXI5H+Cb/aRk4uCkXQ8DbYcj9keL5Jpzvz4CVmztk7rfM5LMy/xaTbcD/vMNpA95gF1EfrHB1NvK0wZVPkf+qNvuTvPZoeTS9ez6FfOsarpGTdlmOJQX0YFlk4a3AAXDFvfOAoPS2EcCRjgzjeGpWJgYEF3qo2913Ch87jGz2Oyj+CjA5nWtj4JjEIzQmHadQCdpFDM1aMv1z/Dl+DnMHJpjjsuseoirBgmXYZ0YVyeNNsrN9GSx6gkZC32IsGaMOr4IwWPmwVc00UdWjOuDCL3TdeoJFkZMTuFCEvjuvFyMA==;bgtB7RKu2Gzl+A7pf0imsg=="
+secured: "A1vQk/UXP+d0rvL9tBvXhU2bI5IOXZJFGZSzfeQ3Y73NsI5A2CYYKQGjPKUf61QmQgBBH1VtKNbtozOKcelu5A7Yf8u/LZwwjybe+gQRe22VjqMQcL8wh0gRQPONvL60PabQoa5+V+Vm3o2mZ+eX+xg5hJP5q7THtlP6Ma6w+88J5I0FC/VR48gktT18GXbFHfZm8Qo20JBOsVkn6r/iJhO4wT8u5w4UMgm4d5vj49w1I8iTqw4HRMqrdwMALuff+Rzu13b0oolSeUBVRhd4T6nmEsjT1jMURipQ6yxySifwYb9dlWjAwF1SdI53g+HMQVylgJkIBC5l8yDGk15Altqhsii1Y8day+ht9WkRkRb4Ay34R9rayXnQ74AJWBg7kLyg0XCkAPgQUuOVcHPO8RSKBtdkLwV1UPWpOLokxTa9FZizPiA1PxNat1M+gy1q3YwKlGPeaTzpIUmrUdtZig==;WGFSEL87STfk0+7zqiJFbg=="
 ---
 

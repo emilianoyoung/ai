@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/joemckendrick/2020/01/13/where-artificia
 ampUrl: https://www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/amp/
 type: article
-quality: 67
-heat: 67
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "Fzfsw3fhdg2wUfsPEPc/f7qK0QJM/CmoDFvQP37nq9uKmrltHACZPo3EcNDp0csFewjZtn9WySgnSOP8ChQJ/FERlGXCcin3lOGTHYqHSh0/sv5jxPb1qeJHGKP8Z18wx+DtdP19sKZGDX9dT/fyf/mnGMOqVm8950Ycg9EsXwL1l/7zeXpY0mhrJ3y3njUDwdymqIhkhrFuGd84GLxq4u+MTzB4DY6wJ+9eTc9GoqD1+erMf4egd6NZWpZL9Tg+ESC4lYwosGlh3FyPHe/XfrOgsR7eejF0SXRs1B9054ZPhNus1cprKAQEf9tTyEt3KmmvuIVbg9wmMldcR3I3dDDULNYW2ALzXIOpZ7qhhPUTwVXPdgCIgIRq8bvryjcDxi0Jp/kJ32On81kFkDnnifvlkFT9/j7Bej7vr7OE5RG6pQ3QW/t1WUoGNy26SvtoDmMtT1WiYU/cfG7GJfGz9w==;SDzIdSeGVGwQbFmf9rS+bg=="
+images:
+  - url: https://thumbor.forbes.com/thumbor/711x535/https://specials-images.forbesimg.com/imageserve/1150968776/960x0.jpg?fit=scale
+    width: 711
+    height: 535
+    title: "Where Artificial Intelligence Will Disrupt Next"
+
+secured: "VKt1aaG4nX7MFsp1HBee6Q6B4h62YXGqNIbmS0NHx5WrLvKuZGfvnu9rKW3ORz0Lg/rnUZNgEwdJEBy2IQu7RD42Ogqycarcwb6rYPMaGAxcQbh5j95L08AeX/uk5CBv3lY6zqsWD8NHtDpK0S4iP/bbNQZQ5BmDez9R40xxW3PcGu1ITWT6Lg/LW9+Jsz3WA26mWrJTTJnjJLRV9otmt0zvHFbyqLbDP4plcM75Py/Uc8HkyGXjD6CNM7ubY61FM7aC6t4dDE4jJPN3MbolSbY0HRu7OyL2dXmGiTsopovEXjPD3jDEWVs18qyewgB/vOXndyz3M72Qfsh33AyerPPvPYFiUgilsNhyLtqT7udVxGR9ZHqbitnp/dmQq5V+W3C2xNFqOJGsRu/dFWioio7WQxNY4tPNO3UHzNkTDCeiqNHy2CU/uezS5CLHag+lzwAPDmHX4+HOT+DSGeVU1g==;YmVxAmnQ3YzkeGZBNtYGMw=="
 ---
 

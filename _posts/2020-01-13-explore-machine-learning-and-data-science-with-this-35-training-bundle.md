@@ -8,7 +8,7 @@ ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science
 cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
 
 related:
-  - title: "South Koreans learn to beat the AI hiring bots"
-    excerpt: "In a tight job market, South Korea's top firms are rolling out artificial intelligence in hiring. That's got jobseekers turning to cram schools to learn how to beat the bots."
-    publishedDateTime: 2020-01-13T09:47:00Z
-    sourceUrl: https://www.reuters.com/video/watch/idPdNN?now=true
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: https://ajo.prod.reuters.tv/api/v2/img/5e1c2822e4b04f7ff7c215e4-1578903586142?location=LANDSCAPE
-        width: 1200
-        height: 675
   - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
     excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
     publishedDateTime: 2020-01-08T23:21:00Z
@@ -60,6 +47,6 @@ related:
       domain: marketwatch.com
     quality: 37
 
-secured: "D1psRxIjRIWzWDm4QOItp6DM0IdVWHj6HEia6ejcZtWOrRGxMFnhXnw6odS9rUm01T0A0LjSY3bdYsx2KYyAdtal9VOHlPP8nKLb14BaF601ZAYpovI28UbC65FA5BwCKgYTjv2V2/yHxPcegR+fzgME3hEVb/3vD85e9tYQoTVb5JxoQhZpJAeHYe0sKfx9CbggihbxIVtrkY2oZGmVvTnhaM5k4MIPdmzvnaCsViO55a3vf99yhvFQSSgJBbmVsCvqf11mZFJzofO88OGKIs92J8HJhoK/E0UXINd2lac=;3hosNOldEhvi5Io3TL08/Q=="
+secured: "SXyYEhLVxg2Kg7Lbna685/Xt5ayvBKiNnKnkiG/g0haWHVA5TS/GdXkil9/c2IdHyKU1hDryXNAQr/3/Il6GO3IRkP9wms7q3zx16Vfs86C035v30Kak8kq3xkHTLeEQhpZ9FGiqtlrfP7qz+rnEjqTe+9uIpv0w7R27tVO9xbvFt+AQuONOLYuwetC547BLrXy9J4JA/XF8dI6q+EN0W/bV7p+n7s/ZmPOvBfv78EkKYtCG2ljiqZxlWhLuZz0PR/Gv25aiX72UX17K9l+MltkvWKel0W7tZOTLVOo025zc2KLUNMO3Wg2Q/Z0QZl/5pikB4n4NFDkrmdhH47vfqycB/YCN1f1Rv/j7CB+qnvjp1OZYlELdYzUhcWeTUjTk9KVVQJm6lI/a68Sk4t3gqPbNrUvjTFGRjQGhOZnScvkziPSUfN9CSt16P/Emihw1rcq7AbO8cnFym3qkHSVdfA==;1wk/tgaLWiqzDspB8BZhdA=="
 ---
 

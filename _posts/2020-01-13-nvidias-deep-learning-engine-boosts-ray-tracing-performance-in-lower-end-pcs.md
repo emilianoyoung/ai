@@ -23,6 +23,6 @@ images:
     height: 768
     title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
 
-secured: "InySLMImCK4kQL7ipYCJ6QOs+kEDOCLIo24Ga/tPEmuZpnNu6LON4TTDyFtxQVV+0BA+KMVJDuwd2j4SQ6r3GmSBxlkBxs8q0yt24LRFkyG7oSq3l8fijd4y+zdTxQ1AXnLk4ddqngvGk/i9M0KwY2rQ9umnyt8b7mEdyX+pasmWVMI6lZoDPPhFtUgo/2/fTm8X7bWoBvcdlNMv1LLwlYd2mvw27KaraSldusq8bt4iZY/YIeEDvOauh/MkQLExFJ5CUKDheB7IUV19zd1H+7ZeTkkD+fqQFizS8s4JqQg=;eI6mMrTA10BvmXXVXrLJBg=="
+secured: "J1V1+b3SZ9EsbS63OeR8EUth46kvt3A5jNt7diLZcsew8e2OV+T1uuv6VfxkuPhWTUtsZZzzyhUCVyWEasdn0RWC/f4Gh1HnCrft0PxmjLBlTMYbbGUj+P1VGvxZpAHPSl6JXxOXtush3Rzn1Vp9Ek118Giz9BOlV1WJHbeX024ZQYe39m54R3yNovReEWOGa/4l3lOPOMI4hfa/XC46KG+0D2fq3AwkUa1HJYnUzJcDBjhK8H5ypjAqTOSMKBuRIM9dMboMzVSReRo1jWp4u5eoHaiITH3J6dq/sPibbBkJo6sDf8qBWTYGxT2SIA6rWaR9h8wfHr1cE6uOepJcwrqts/dcTKp6h4UyLsex5/y7xt3TYplutXb6soNSP7cd/7/+oPIaz9srXpo1MWpOomAzVKphoHv5/ihQO5QH8IH6EnK2Oht8hGV4W2ty2vU7NHc729mqovT9KVkfXvhdvw==;4C/ht20VFLcc+JeuoJFYvA=="
 ---
 

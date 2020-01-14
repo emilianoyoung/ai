@@ -29,6 +29,6 @@ images:
     height: 800
     title: "The hottest thing in robotics is an open source project you've never heard of"
 
-secured: "pcDEJ7KzJmz7JYpHS++Oe9hRKD3OqFhCd3KqvZx0BfJMxVoIH1mgHknL3+gKnzarEvbuEN6EFlVA+zuMJ0qr0auIeaLCRAsw+NHG+z3eYEX85WAxUmcITRdI37KHcrTHeaiIICab9rU3x9ByBSYZ3sYRV1KSeKRZQ6z0rA/24N728yWyRyLBh0bmbhMPMk9KWXfyo1EybbUv/CtsLxFT/KXV9GV2yqbRXY9VhcTDMVhHuFWPDppLFSsJvJqS+hHL5zMa4x7XmCJbfz80JdDkKCctP4t4XULg80ahRK52nbA=;OriWvsWOCPgGrT1zw/fzcw=="
+secured: "6WUgLfS3OTon65l3zHX/YFVmZl0cexI7SJ9Iypx9YJn6gQ6h0qThImHbcxjQPGdR2Bp/ALqgnaAq3eXT8OwqkY3XVVBMfeZMgdlXNzE6lOc9ZQ4nPIzhQwQrPIYitUOiMKmzCUn4MLIlbSrj3StNpDP2oFJ5I3M/iQ9d3ihW7nRN/oj7q1CsDr7ZP3ryvK37hyCsjKfSRa4pMipL+eQxXRpxQ4O0DZw8wv0vftcix9JsEPPMBmGoeJxvoE5wY0E/c06FaPYIIMwVkOabI14Fq+qnSIlcp8as6vX7Ce40sR3onXrJMSxTwvtJlZWHorovF+Czj/P+ytR/6scts1P5nKlGMDqhsj8yZhLIly0hPeKs0S2q72k3WC8ESsKqfE/txImJAXOCiGzA3L1RC+PA5mvysvXXwW/TI09oqLBgUzxevnw0ysd+G2eUQALfEJUytsXsqPk3+HOiLDdxENcqiQ==;WOTM58RvNZpXvBRv+8EfzA=="
 ---
 

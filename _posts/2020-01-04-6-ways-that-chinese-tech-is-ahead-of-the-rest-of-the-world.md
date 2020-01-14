@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -38,7 +38,26 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 34
+    quality: 54
+    images:
+      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
+        width: 1380
+        height: 600
+  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
+    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
+    publishedDateTime: 2020-01-08T19:45:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
+    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 44
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
+        width: 1200
+        height: 600
   - title: "Beginning with Blueberries: What Are the Ethical Bounds of Tech?"
     excerpt: "(TNS) — Of all the life experiences helping to shape research in an age of data privacy threats, robotic workers and driverless cars, here's one you might not have ... researchers and students probing the ethical implications of artificial intelligence, automation and other technology -- from the viewpoint of disciplines as disparate as ..."
     publishedDateTime: 2020-01-07T00:22:00Z
@@ -51,6 +70,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "RJ9nHySVXLVWvkNeauejWZIOXSBoBDf0Q/kzz3EY+HFsYuat5YZvSh7OASWhAffhliJBQU+JVydTmh216EXE6gOPunPv99Rl/7NwpBtOECK5d6KsnSNeaodmviAP7FRzRNE2CHJ+e22vckm8fqzJjtASG8ccnW3oVTBds6bAxxsDwZL+67iIQ1wu9r+DAFGxV6Bhqn9qrLrJbVdxSU4KSxfmGdUi0KLKCwcPkUwnKl5dQgWamuPRhN29DcT//OSV26EYipXgZE3WIBka9DVZI7B0AJeZJwfwan5XsAMwhYY=;UBIJWMKxx+9zGwqmSWWbeA=="
+secured: "ON41yMrCptD923oFM+G4k/WrBUmC7pceXZT7CS8LwEUOTu5iUvtaMlTwOUBHlZT0I0invajYoLrfRZ29pkEgXcLR1XEXDikWlrJP0eblwOs0K1F2ZKIgqZ3Njp2+OLIUnYvfD7FRAaCZmSl0N4TU37gy1EEbh3ZcAJOT6PaSy0iCJllpX4LRKpqeAsmXder+i7+Xc46pMJHLfd3dMVRcacp1vwtZqOtZbDEhHX+kYlY8Lzk+kjB3BWEisNMfjEmPpD6tnjKrDl4gF1mHHGwU+f+IAojy7SPcT0tuSdixnJMhENN6iaz+Tl894869iQHCAWK5CMCRvDvbLfcbRQAyZx5OZj2ZqFaCVZWLdLHN2I3/scDyi0u4CTag4HOg4UFCtuC8NCVcHWzasfz2ySerDiCD7AKlMSk747dvy6c3f51d+7OpEooSChWieHBQgoE7qaP6Q5wrDx2uYOnfGQWsHg==;6T4Zwfs8cEpCnOGt1KLJCA=="
 ---
 

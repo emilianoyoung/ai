@@ -48,17 +48,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/G_lvPl6_ldcLRJ6aHK7VhVQwQCs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg
         width: 1440
         height: 943
-  - title: "CES 2020: You have to see these robots and artificial humans"
-    excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
-    publishedDateTime: 2020-01-08T08:41:00Z
-    sourceUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/
-    ampUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
-    cdnAmpUrl: https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+  - title: "An emotionally intelligent AI could support astronauts on a trip to Mars"
+    excerpt: "An AI assistant that’s able to intuit human emotion and respond with empathy could be exactly what’s needed, particularly on future missions to Mars and beyond. The idea is that it could anticipate the needs of the crew and intervene if their mental health seems at risk. Thanks to Stanley Kubrick and HAL 9000, the idea of AI in space has ..."
+    publishedDateTime: 2020-01-14T17:26:00Z
+    sourceUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/
+    ampUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688
+        width: 600
+        height: 337
 
 secured: "UvQg/zsV2kipMAP5MFDebhrfzvnL34ksTx8Yu7i5K1dug/MkAVh6+nmY8pPbX58YeEtOsiH0g7mTmYPGR4MRIUfPp7M0/97P+Vyc0zKzJlv35poWNjp0hskH0e17B4h3fklStKXsBiuFIrDMjHSq/80FkRBK0KljsxKZv+rGRznUMxGYo/I3Phiy1bVdC3JHekAMuw4CvQ2fXI8NA9B+uX9bmPq8InLyNYZUa9VUe1L9ln35qEZ/AQ07XqSm3WPjQTW/Yh5a63NmhhFyYyTK0dNx2UMdu60JC9B4wA/wHq0=;diylhTQivp+ol0YrVTgr6Q=="
 ---

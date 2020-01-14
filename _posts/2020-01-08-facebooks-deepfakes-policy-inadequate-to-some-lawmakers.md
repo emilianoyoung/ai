@@ -95,19 +95,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Facebook to Kick Out Some Deepfakes"
-    excerpt: "However, Twitter has proposed plans to label content that is fake, misleading, or artificially manipulated or created using artificial intelligence ... principal analyst at Constellation Research. \"The selective approach keeps it confusing,\" he told the E-Commerce Times. Facebook has the technology to make its strategy work, Wang said."
-    publishedDateTime: 2020-01-08T11:00:00Z
-    sourceUrl: https://www.technewsworld.com/story/86443.html
+  - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
+    excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies to \"merge ... in a Deep Fake Detection Challenge which was announced last fall -- \"to produce more research and open source tools to detect deepfakes\". While says Facebook has been working with news agency Reuters to offer free online training courses for ..."
+    publishedDateTime: 2020-01-08T00:33:00Z
+    sourceUrl: https://www.yahoo.com/now/facebook-bans-deceptive-deepfakes-misleadingly-110124689.html
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 24
     images:
-      - url: https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-deepfake-1.jpg
-        width: 620
-        height: 386
+      - url: https://s.yimg.com/uu/api/res/1.2/qG04aTgbDJAJEnwoNOsfqg--~B/aD0yNjQ4O3c9NDA4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/64b0d67d06e60d49c179e0303e423e13
+        width: 4088
+        height: 2648
 
 secured: "YwLrzckpTShAKr+JKUYOvFWJscqSgV1dHEGo//EayCwfeCx4USJUhplGcT2UYOe1YXpB3ZSQul9wnhWuGXldzLOrX30aMwEVAsjunNVCh6Ig23DRnRo5nsHI64jJ/u+hRkQ6vKy2sBPF5Zu6oOYMDwt7dmUv6fcMGj3yrdgdTVLeBGFtz+gYJF+zorOGCUjskBdujv6puCHbm6Knp1HLuM3PpUg4qTD9+sGTe5vk/wAtnqj8Se28T3cjOlrZE2ySYS3GmQUKkEB0vmi4Nd9RNr75hn/wFlf9iygrCOzn6/2yWqkDTOt6N9sHG/7Rc35N1YRfmZaEmC7CqXWnkdQdW5PnHhvyRbcGN3N4dZmN+cH3QcRipzIlxCjRti5rCY8SSc1RGrSppUs89V/x9mxhJdtIYkgYrEWsGrV67119DbvDF+QbqZ/4xE8XJXxVGPddSD3gnnIVoaMHWrZOiasXZA==;BVe3e7rrlPJ7axB/akO9Gw=="
 ---

@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Google Translator Toolkit Discontinued – What’s Next?"
 
-secured: "vY9lwvZFuRcqnoEvO5IGP0Qx5Np+8DLKNH8u2/q+owL5t7AzzceKhVoiyjMlaHbuHk+jX+xVuVdU++Ak5IeryItq7AcEuBo+g9NblgXUHOjWtIM6JW3X/YOPE+sBq+4SV3/2g0u7KS3swQri+Sm4xAS85XzMPD+n8qHEp1V22VFNvfIlVgRs4dOZXgCJG7VMuMkpf5Wb5wrnpSeVJmfVB9811rWefZeNAXtEXrIO6eyvEawZpy4rlFobZFVLKCdjYCAohnmpB1CFw6dHLWfIM8SvwlXDQsWsG5sKY9ZM/3I=;CKk4giZGmiI4oedqZtdqTA=="
+secured: "OoRoxK0y0qr8Pw9gqbwORttoZLmbmdtKtIJA/t0lXNKmotABUCC+QYzlS87vBKFZ/tOPW5jWEHl3RqzAp5rZ6Zcfs+N10ibIcgq6InPPrCOmpD6Ags7/9yDcMDWrI1KV74EAqo1l74+9VEtKjrUmaVIDIMBUhMSefUwHmXM2NrF5t+Y2XeQLXEcRm7s/7SvZFN1/tNY0Wmz4i3s3JPtW3W/W3bBCrl5Erk+6ejYinoCirap2BKeDrYDOn5fZCGtE7u4VguKDbhinyeG/KBDtXU2QQXw6YcKQL/2En/UQrFIAxfdZ2AelfDif6EFsZip6extynuT8rHkbv2/9SY+yuJ2xW+cM/mlrG8Dbn428jarDF4LRZ1m4brBOR2AVnuGIiyWvkb/XRzB/d1mxFHWsBjmgP175jCyuD0hW1EbJdRl36p/Yb+haZCqJiJPrz7yYRoPmT12dsOWoZpCIj0qYbw==;PiXzgNzrKOQ/ksY2Eqce1w=="
 ---
 

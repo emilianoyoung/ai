@@ -7,8 +7,8 @@ sourceUrl: https://www.engadget.com/2020/01/13/comma-two-openpilot-hands-on/
 ampUrl: https://www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
 type: article
-quality: 66
-heat: 66
+quality: 86
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "qqi2bjXL+WmOX6IZDS1CcECA42+kfHdm+wKXK3khwk7xwlXgl1yhDdB7D2lyJ25XHat6wGm+U9a+FPzs5oLpUhSv/92nDWlaNsdagZH4ko1W4pE1shRSUhBw6KEMyIVnHl0i6WdC23Oi9r22iXAoRpsY/NcnoRzHYwH9sFQVMJl36wORkdnQw2STGcdK5jG+GZN18oJsRhDK72piCr4ZTevK5qfNH4TsJFbO6eue4y0a5mxBZN4mVxagG3fU2JHFlPlMk25eMj0J4Z1xvRw1799Kpg/AaDMO4tOPCHWjlBOtfVkZtMe2yCcPAamoJ0XkvTqUZ6/181DlzYCercQaYq8hgJFdoRbtggkvLNuM6w/WaaWMrXmK9BhktoI3wRh18mOX0o2HFyZpco1lvfGbj2yRKgn8Kf4JXVnqS54urpAB07CdGxPue+xSd0L1UzKqMqnvyytm1BMwNzApqGi47Q==;tsT6BgXCOgDgoupRGLyiPA=="
+images:
+  - url: https://img.vidible.tv/prod/2020-01/09/5e177c92e98ab569015410c0/5e17819c8db54a0dd03b6477_o_U_v1.jpg
+    width: 1280
+    height: 720
+    title: "Comma Ai continues to impress with its aftermarket driver assistance tech"
+
+secured: "PtsjnuHJPLCtDLYboDtDCJW3ei4rFFWpYayBpT61F8LplH1CmpnjOQt8zukPlS87NwRj8g8UYRR0vQbZ5arU/hBW4zJLs6SyzoGMzL1ERA3bbV8iwJfYjquKQDwHZZh6smsDMmWg0dZqnyeXjQVhj3eBEWwOIOPyaNHu2qNK0oMukNwzYmPGSzCU9k6wJINYpHCjpRb9VygsbUOfj4AM8cyyBCq6ciU075iiIMH0/YqEH6ON4GvvCvWjcRGgve2FMo5IhLkZOYxf51R1/hpr+Fm/VxiR/iLh00ib7ZM+KUxZPUNTEA/hUeRurHPQ8W648YPvUWYhAF0m9anC5GicygHdrQbkFYcbxyD/t0KLMSR4Pjx8UgY0GRwyZuPDtwQ9p6OAXcOk1U+dQ5mewMdh6xFQOlZYR/pUHBIFcAZBiYpY2/1UPP7sZPMYUMeKfMiStfzlmdYslaCBlZqzv1Qr5w==;iwKQB3hGWkPp62VBjc1UXA=="
 ---
 

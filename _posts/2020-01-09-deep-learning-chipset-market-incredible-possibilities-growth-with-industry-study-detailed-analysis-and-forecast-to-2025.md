@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-09T14:16:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-to-2025-2020-01-09
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -22,46 +22,87 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
-    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
-    publishedDateTime: 2020-01-10T20:05:00Z
-    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 37
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
-  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
-    publishedDateTime: 2020-01-07T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-13
+  - title: "Machine Learning Market Booming by Size, Trends and Top Growing Companies- IBM, Microsoft, SAP, BigML, H2O.ai, SAS Institute"
+    excerpt: "New Jersey, United States, - The Machine Learning Market is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success. The authors of the report have used easy-to-understand language and uncomplicated statistical images but provided thorough information and detailed data on the global Machine Learning market."
+    publishedDateTime: 2020-01-14T14:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-booming-by-size-trends-and-top-growing-companies--ibm-microsoft-sap-bigml-h2oai-sas-institute-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
-  - title: "Artificial Intelligence in Accounting Market to Drive Amazing Growth by 2025 | AWS, Microsoft, Intuit, Xero, Sage"
-    excerpt: "Most importantly, the report sheds light on strategies that leading players are banking on to maintain their dominance in the Global Artificial Intelligence in Accounting Market. It shows how the market competition will change in the next few years and how players are preparing themselves to stay ahead of the curve. AWS, Microsoft, Intuit ..."
-    publishedDateTime: 2020-01-07T12:51:00Z
-    sourceUrl: https://www.openpr.com/news/1891085/artificial-intelligence-in-accounting-market-to-drive-amazing
+    quality: 52
+  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
+    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
+    publishedDateTime: 2020-01-13T20:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+  - title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
+    excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
+    publishedDateTime: 2020-01-13T21:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "Machine Learning Market Growth Analysis During 2019-2024 | Microsoft Corporation, SAP SE, Sas Institute Inc And More"
+    excerpt: "The Global Machine Learning Market research report is a professional and in-depth study on the current state Industry. The Market research report provides an overview of the market development status and future outlook of the market."
+    publishedDateTime: 2020-01-14T06:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-growth-analysis-during-2019-2024-microsoft-corporation-sap-se-sas-institute-inc-and-more-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
+    excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
+    publishedDateTime: 2020-01-14T11:14:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-analysis-size-share-trends-growth-and-forecast-till-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Artificial Intelligence in Aviation Market Booming by Size, Trends and Top Growing Companies- Xilinx, IBM, Amazon, Nvidia, Microsoft"
+    excerpt: "New Jersey, United States, - The Artificial Intelligence in Aviation Market is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success."
+    publishedDateTime: 2020-01-14T13:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-booming-by-size-trends-and-top-growing-companies--xilinx-ibm-amazon-nvidia-microsoft-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
+    excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
+    publishedDateTime: 2020-01-08T01:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+  - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
+    excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
+    publishedDateTime: 2020-01-10T14:15:00Z
+    sourceUrl: https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 13
-  - title: "Digital Diabetes Global Market - Forecast to 2026"
-    excerpt: "Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum therapy options in the patients suffering from ... technology advancements such as incorporating artificial intelligence to manage the diabetes are driving the market. However, privacy and data safety issues ..."
-    publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/digital-diabetes-global-market---forecast-to/article_7a409362-c424-56c7-a666-4638e22b2ef2.html
+    quality: 0
+  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
+    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "MO1rEcvlNbf2s3E28DOLfJfXW8UOLlGe6VIhKriOsgaD8gC3SG02F8DK6xPaJU9F7TtHrLHLZuTH5JKWBzS8SYdU3F4Vym4O+eVyJjF1h0iwtfo+WjF+dzWE1Bg4xVeOl1N5Aa+nPM8JBvpzcqHky267NMCT6hFTAHYJzGb04njsSfWIC+/QlqHo9sUXcsb02/TT05KuMgm7cSNs+8cu96YFnuqLExNy4sxmPL6w/67d/xCvWinRchIxByUYAqe3o2GFzDGmGGVpBTIOAIKo1sktV6oqVcSIvdQK+PWbF0g=;L92KeVDjGDoJkZ57bsgh/A=="
 ---

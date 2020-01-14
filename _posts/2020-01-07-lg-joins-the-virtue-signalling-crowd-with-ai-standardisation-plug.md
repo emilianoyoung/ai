@@ -5,8 +5,8 @@ excerpt: "Looking around the world, the European Commission has put together a g
 publishedDateTime: 2020-01-07T11:10:00Z
 sourceUrl: https://telecoms.com/501616/lg-joins-the-virtue-signalling-crowd-with-ai-standardisation-plug/
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI Ethics
 
-secured: "Y/WTHen5LmLFIZMNH0FEJDS9W3nZFmDYLblV0rCgoIigH4TSTUKzL/NIaez0ULG7DuG2HLkM89786e84UKMLkjUGCE1VMBmDNt+CoOInDaDELZDYVEBEnC3s5170fdNNyKdprc8egkEMa3FXriEGwxNnuJnifubhzIOR3+9P505MCXMy4BaxYEZjC5JKiAOUPZ9HasfwBtO62CQABsjKV4SdPEgAxHx4UfrKDb2jgVy/gIh6eZhSR1u8rn+SXEPFxbZA01WquBxmnfttn6+XxOU3DYDQ9ct3vgjPkrGd+/yrnvPC01au380azkRlHcBo8UagBrmwD4bnOgoL8O2yxdISAGXCBoHUOsWMy0Fuy1Lx5dfzhfUg/fnfpczeoZSHnamga+25SfPbEQxgRCReoLxyJAXWBXi3ZFWIGMWzUqquJDVH4i8QuIjt0Zde5nNpejQf75mUhBKZHvebqoXR3Q==;D2fhTOrWfmvHBS4Xacsbfg=="
+images:
+  - url: https://servedby.informatm.com/avw.php?zoneid=1472&amp;cb=1420915497594&amp;n=a5477f91
+    width: 300
+    height: 250
+    title: "LG joins the virtue-signalling crowd with AI standardisation plug"
+
+secured: "HZCYxTU+norZaIyfcN3M0bffBTZpmNKG0qFfcry/EyrEUUqglP+rlaLKYNS3g7Zlh481cZS9QGcUnrlucdqHIPSx5h5n/kWoMNT0hTHrkIcQV8JXK+avC6x+UTOOQ1F9DO2otJr7GnWwLqa8af65BoWfzFduQvR5abUr7GzLptaS5hFOFqlOOUxvJIwVVM48wkagDOUIZbEviNBydUllDWoZcuo8q3SHkQDa2hYaRjBpWX1JfnRYl7Ad9GVyLoQWl5FF2ZLIk+0uWOmMXBa9drb0LHatX8zXHybDqCQbwWLkfqhzSk/Kdor1o1ai8PS6UFJdqyqnSJiZrgReMDDnNAwr+rpDSNsEYWmxFHNW3djHggxf933YUGwHMKgYawOttVpvLugrrlwAbrM53d9rxU2cSk9LhN7jn9vpUCHiU79atdMNwWIRDwXfRbyCy3IlGXlJacXvLu1uf8bzapC1Pw==;sjvjuKcFgc2sDm6Ox0vI4g=="
 ---
 

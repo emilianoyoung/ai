@@ -24,25 +24,33 @@ images:
     title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
 
 related:
-  - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period,2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-07T05:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-rise-at-a-cagr-of-597-forecast-till-2026-2020-01-07
+  - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
+    excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
+    publishedDateTime: 2020-01-13T08:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-  - title: "Medical Bionic Implants And Exoskeletons Market to Raise at a CAGR of 7.5% over the Forecast Period 2017 – 2027"
-    excerpt: "According to National Center for Health Statistics, 185,000 new amputations are consistently being performed in the U.S every year. Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a ..."
-    publishedDateTime: 2020-01-07T08:37:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2020-01-07/medical-bionic-implants-and-exoskeletons-market-to-raise-at-a-cagr-of-75-over-the-forecast-period
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
+        width: 1400
+        height: 733
+  - title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
+    excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
+    publishedDateTime: 2020-01-08T09:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
+        width: 1400
+        height: 733
 
-secured: "V7fF/nBcBtFLZyB2bMm++i2//BrYqkfW/GzX6onTY8VXWLYWx0eKzcIsI6y2qZMw9+azHabXDVrfzXdeRMHLX6JUM25lPIIogvhmBZQC6k6CQkg7OvttvW7ldzepHkiPJnZ4CoMPiPtIJKI0ukqWLqjhqlY/2PhvC10Xg5WTiq3tOC4JFGogQLaMsZAjoCheX54HhM9tsEwSSisExrszFhcxpm1F4Z9Pd7pnrTI6H4M1icu0gGaR/DRpePMvSQo9mfVLKQB/kHS5K45Aa/W6aRxp2SMwpHYRtGrqW4aQtaI=;5gpYtBL/ULUKbfRznJEFbw=="
+secured: "cWy5cmNufve/hnl4lzhMbpKd46lo/nGAwfuV5sX9zTuaBoFx1MngNrldFG54HCG2k6V2P1UDAoCBF4Z99rGB3WNTMCjUNHVlxhFYrUHqZLQx+1WvpNlzNny8/E6pb3cMNAt21v7UyZyklE71yPelaVadiDp1hI4udDzBcTbklTGglvMLARGgIXShk6TRY6l4miMtqabpcyTq16C1Y29aQwpzQCDWJiUqRSDd3fMDq51g/L0yEUIz1vAKxoz4OUS3z6icBFzY7F1cQmVi3EvA8S6wabgGLTO8U1DfIuDiFWbTEUVzTwDPFdkor/Sn0dP6d4B8sULe+2yE7e0eXFkeJyJEhaSeyQJx1ThpZ00NKQe35h0gNSHe3ZhRDDf6efob2D91wYPlzTxa5nEMe+ovu9uygKRywZH6VkF05GOzPeYtxuWvZI6tOb5CgujLPfFAixygvx6Uv1JNJvmOUOsSEA==;9KVaKmyK8oFI3/NpYjfL/Q=="
 ---
 

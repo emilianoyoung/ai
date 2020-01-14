@@ -22,69 +22,60 @@ topics:
   - AWS AI
 
 related:
-  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
-    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
-    publishedDateTime: 2020-01-13T20:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
+  - title: "Artificial Intelligence for Healthcare Applications Market to Show Strong Growth by 2025"
+    excerpt: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis,"
+    publishedDateTime: 2020-01-14T15:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-to-show-strong-growth-by-2025-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
-  - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
-    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
-    publishedDateTime: 2020-01-11T09:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11
+    quality: 55
+  - title: "US Artificial Intelligence Market Growth Analysis, Business Opportunities and Future Scope Till 2025"
+    excerpt: "The US Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. The factors that are contributing significantly to the market growth include investments in R&D,"
+    publishedDateTime: 2020-01-14T10:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/us-artificial-intelligence-market-growth-analysis-business-opportunities-and-future-scope-till-2025-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
-  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
-    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
-    publishedDateTime: 2020-01-08T11:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
+    quality: 34
+  - title: "Artificial Intelligence Chipset Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence Chipset market share. Major industry players with significant revenue share include Intel Co,"
+    publishedDateTime: 2020-01-14T05:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
-  - title: "Machine Learning as a Service (MLaaS) Market Key Players, Market Drivers, Emerging Opportunities contribute to reach CAGR of 41.2% in 2023"
-    excerpt: "Global Machine Learning as a Service (MLaaS) Market Report (2020-2023) focuses on global major leading Machine Learning as a Service (MLaaS) Market players with information such as company profiles, contact information."
-    publishedDateTime: 2020-01-13T17:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-key-players-market-drivers-emerging-opportunities-contribute-to-reach-cagr-of-412-in-2023-2020-01-13
+    quality: 16
+  - title: "Automotive Artificial Intelligence Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The global Automotive Artificial Intelligence market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World."
+    publishedDateTime: 2020-01-14T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-14T05:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
+    quality: 12
+  - title: "Here’s How Artificial Intelligence for Edge Devices Market Growing by 2029 | Arm, Alibaba and Apple"
+    excerpt: "Artificial Intelligence for Edge Devices Market is growing due to the increasing demand forAutomotive, Consumer and Enterprise Robotics, Drones, Head-Mounted Displays, Smart Speakers, Mobile Phones, PCs/Tablets, Security Cameras will fuel the growth of the market. The prime purpose of the report is to present a comprehensive assessment of the ..."
+    publishedDateTime: 2020-01-11T05:50:00Z
+    sourceUrl: https://apnews.com/Wired Release/5a2e4d5ef832bc8b19dee0737e049865
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-  - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
-    excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
-    publishedDateTime: 2020-01-08T18:46:00Z
-    sourceUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
+      name: Associated Press News
+      domain: apnews.com
+    quality: 5
+  - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
+    excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
+    publishedDateTime: 2020-01-14T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1895885/global-artificial-intelligence-in-accounting-market-industry
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 0
-  - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
-    excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
-    publishedDateTime: 2020-01-10T14:15:00Z
-    sourceUrl: https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+    quality: 1
 
 secured: "GjiN8yFh0myhYdywL4QTneDQ0BAYrDQ3TNhZiZu7VFu6mr6Xv2Pp2gxyK/7/L90Kfpvjw7kZqnO2n/HV91Uj/m6phFDcghvEu5vQBrriC8asBnWczYBK+4hEZZBxfh4mx4KLarlXcwGsz5b5vJjU0MztQTYSSJwcqqDJmuwX5HUeLVJJiA9japw4QuOlWNV0Ij2iqBeNFsI/Xis8ni2p8emhmHbpXkEn7pm1374/fQcN0a03W29TSQlWHGdsqnG5fhADrcKamdsoaM5fKyPJtIKm4Wk+Il/8RJNca4tHW4M=;aliTOJVgbWEoYzP5NPqF6Q=="
 ---

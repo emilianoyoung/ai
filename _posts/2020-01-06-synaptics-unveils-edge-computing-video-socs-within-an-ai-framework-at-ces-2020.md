@@ -7,8 +7,8 @@ sourceUrl: https://www.techrepublic.com/article/synaptics-unveils-edge-computing
 ampUrl: https://www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/
 type: article
-quality: 65
-heat: 85
+quality: 85
+heat: 105
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
   - AI Hardware
+
+images:
+  - url: https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg
+    width: 1200
+    height: 675
+    title: "Synaptics unveils edge computing video SoCs within an AI framework at CES 2020"
 
 related:
   - title: "Synaptics releases edge computing video SoCs with AI framework at CES 2020"
@@ -43,6 +49,6 @@ related:
       domain: yahoo.com
     quality: 6
 
-secured: "GBK7v9TzjjeaTCNo6PwdTAQ2RxBmL5C/aHO+4hPjiwyrK8/NepMhu4N+QsV/o/acjubu1VLybrLaiWdIX602nuQMW2HwDvgfuX1WgAjoZzQiNjH0rWggXFroQEKV7vHVwySy+GNZOncwKUu/WQgHvIyD70Ozsg3zrvw8YwTyoqNHKuMPMk9TDd6HcdGQE0r58nOSyEX/WXT72cvk8Uav4H7e1oVIJq4EHxkYnBSufSmskIzQSUqELITzRwD9LKK+aRHzqcptVd0K4Sxrd17e7IgN7H1zXbqHMCcLYUHEOITnKdNHCHEEmxJdRn8zU+yMHnGtLgnshshNdaU2smQ1hiqDLG7n38Ma+FOlN2S0ed5mdopg+9/cy7T8jXa42ZkbYE5IBL8IkRrgI6lsF5o9wXkkRooUF8vSU4DjlxQcSWcjZUL7mlboctcxpAAnYYMwqfVPSzOgVVFh8AZUn1gBvg==;B6ZkyaZgQwj1Eut8Dv1NbQ=="
+secured: "bKLLutHlTMQqKZlLESLcRN+yiA5oXiT7f3owN3VaZhb31maFI/CU4jWfWVMhuuQ5YChGRxfmaPjkCbt6MQgTmWThs7CXyxLrcDLmfRDWVMSem6RrJeX+ihIFdJdPPQbKBSJvepw1xlAJ2Ls7LVf0yUgXRDKkiAoZFBMFp8Bf4ubCWaP18XAuD8bSvGvdZzzShDeo5rJuste1gRMytrGsqnMQC0wDZ1CtAhow1KKHf2h12ZbyDB4LWdYTpNHMFEOskzvBDte2PixJTo6oIBq6X4Cts13kOPZAllZwm7D7kzjKzD6xapjwue72bChXz6K9Xn2I6ulORA+uGeuGFvG/3LNAksQRpHhaF5U9hjyJE8U6nIzMnZEI8acp0s4oI57QMa4qRFnxmixw22fNhqB0DhAGiLrQeKa5On1R3YzSxaxGTAbRAKGiyrpaEPmskofkdOxKYoi3bXP5+PpUwm3WlQ==;Nw8cawvzJqbMXlVmrG3h3A=="
 ---
 

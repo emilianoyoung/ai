@@ -29,6 +29,6 @@ images:
     height: 337
     title: "Artificial Intelligence Makes Bad Medicine Even Worse"
 
-secured: "zfYqGH1s9xnPlrpartNGPs/2AR2sfeWQrU9qSn+XC2S+t4xtFjpYsbIMk0s80o7QDk5eEkSTMKtJ+otL4s3lNA1URDgfLmoL9qzW24xevppDN7lAzPur8llphvY+Ed6KRc9Ncwdk/+jZW+N12LVZyr5D5sLq0tNGhyCFnK8tY/dAXztm4W/AckGJz/JD1zGVTZN8HASx5Agl8qkbWimdlXclc/FJu/i2+Xf49lBDmRN8DD9V+zCRVyUkYg6E1qdOqa5slB4uyIDDqCG4HrSa7nDrXUTMwNmtiCs4+Mns/1g=;mXJinI2WXKxDMVkNERKqlQ=="
+secured: "4odAQgQ61L/o1UaNUyvsQRqlJZy+dMHf1t4QzwQR/Pz3ksm8xqzN+hG6bxRGYRdsmy/TJWxOKfLycSrQTU7Zh/GtjAD5zJSz8K3oykzWd6ngo7h03/BI5BGP0kvEGKl5C7+WqbI079274mX2WLl0STF91+WzquHU4nltUIM4Nflj/aJPwvjdDqK7bcRfsJdfJCpKjB8x5SxC39jgwhnVycl5rOS2KkX/cHGgVA/XwDq/zTRZF/0K5akUcDDPqKXrNKJnjQHCaIm0cLkVnggDyQMdGLxiaNo1BQFgqmlxd5xN9kUA79toKwgjL4CGuVEBr5w5X524KLOLeSlP8fqx87Nq1mT0Bk6Uw6cIE389tFQLOpGur2U9eRS/s9MNNWGIe1NyVHivdd3KKiQ75Oj1nAPfxTwtRqBacFZfl8HwPmq0oINbCLKL0kHuDwXH4tFpnfQjFxw3rKK5Gv0NGG5Jzg==;tdTHRgC1gICyIghBuP7L+w=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 295
     title: "Numerati® Partners LLC's Dr. David K.A. Mordecai Presented at the CFTC's Second Annual Fintech Forward Conference"
 
-secured: "S18to0ikS8+KKSeJ715Rq8XOVtjXDSCc/1vir6zii/X6TfzdLriUor2NEY3bBCnQ/lGSGqVctcOz2a9iIsJbkGSldbp1IMt3qujS5mTERAWiweUCsPHY7v+k8HO/LxM2uyfgBsWGe0JEkheRJpufzMw64uzym6C8gCMuj186hV4+qyXoeyzsUhaIaGPbsppVeSCTxgzJUM16n9+TQur2HJVItQ+3e07FZXqrzUv317TaSF3ruCWbwz8kMJsNb7GDD+INYZaTUH0CumsgeSUdOyoKI5X+QInwDgHT8ot8ZAM=;mvxkE3cwHWDn1k3D/fzUsQ=="
+secured: "Dpn4s+1ujGDjzAKd0Vtkez+rYRRDJUfVIjOvLMQPKowxhkPVcJHBjc2dYWU58/JtOlWcviBf5dL1bzpwgi6eF/ak1LhEb++fiNn8ZfljHnuTPK+67TyMQhdCaJeAwSz9/ogQ3uHGu011Pn+il4S8o65sDqYZP2hzATyp6wwPOGfDpmM90njDEhVCfokKHYXF+/0e23jhmWJvcKDz81MINrkNlIEeUh8Dqmvlhc9lSY0BTPJiftFR/Mig/qWEdCkN8M+m0Eg6QMiAGXcGxuN1YzL6nDYXPKBFi/1S5oPwBnLDHWAZ64qJwXGuPFxqzXZYc2TFg+BWbxi3RNKFcjRlce8I/nrceWyNI8v5BtCldxD4Mt2tOq92Wu8LpXeRLB2yCDzPOSxfsmTFtMFVi4+Fw7unYlAn2PvpGNP6tNY2zqRmk0BobrSt1vHrNv+dd2uUNmyij6+xNeqz1eGOUh00EQ==;K/I2TgaXtwKpqbqFiHviWg=="
 ---
 

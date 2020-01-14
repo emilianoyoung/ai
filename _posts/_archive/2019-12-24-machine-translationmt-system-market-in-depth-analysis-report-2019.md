@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
-excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and ..."
 publishedDateTime: 2019-12-24T11:15:00Z
 sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
 type: article
@@ -19,13 +19,13 @@ topics:
 
 related:
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
+    publishedDateTime: 2019-12-17T19:35:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Yahoo Finance
+      domain: yahoo.com
     quality: 11
   - title: "Machine Learning as a Service Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
     excerpt: "New York, December 30, 2019: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
@@ -37,6 +37,6 @@ related:
       domain: marketwatch.com
     quality: 3
 
-secured: "IzfggpK1+YywQdCvEkeDJ0VPQxLi6NOZdMQ2omu+SrUrS5M8Kr7r0ITePXgTfNF/8QPrAf6elpHhjY6aertX86FhAK28rE/KFRnfgDpGspndKCiLtledmmkslHfa5w/JMmdY43MOZLoRDjtzyJAPk3Gfs6fH/AO+S8rRJJ8TrVECPRzp+fIiYAHMXTpyATbQ+6AgntUESXLeLWpTJmDFiUrgNOl5uAvOH0wP20yiUenRX2hAEwCOeS9E96oxIhwonKwmI7hKr1hJsw1DsmFS709XZNhOxLOfyQocuZtjrZs=;6H4KJmK7ks7JrAMrUY5rNg=="
+secured: "Sb3dH9swweKgTnT3aCTPlwCeNd/DRlQ/ENM8K5lfhvNPmrXdCaelcQOaUaNoJ16N60iVcTBfZHzsIGoc+c7Ya6QQqcYIa6iKwBf5F1ReQclwIFKli7MDlZ11BDU0ajC3U2LH11XL2mCPXtNsnqBhnweEZeFZ1HGpA0UZF0r0WA2TOqbB3eunW21/lx199URAnLDW82AI5DR5O7ZlFhQLjAWtLLZ0OZSJiueJw506HFtGhkq6Rks7J1obB13E3v7BDuP6BujhojXiAz34dw6gS33NpjSGD2aVNdkZM68pFrI=;uP3MTTuBvIdsfWHUtOFUfg=="
 ---
 

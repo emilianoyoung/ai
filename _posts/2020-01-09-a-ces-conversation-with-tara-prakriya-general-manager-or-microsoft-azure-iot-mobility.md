@@ -34,7 +34,11 @@ related:
     provider:
       name: IT World Canada
       domain: itworldcanada.com
-    quality: 60
+    quality: 80
+    images:
+      - url: https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg
+        width: 620
+        height: 250
   - title: "Irish AI firm announces new collaboration with Microsoft"
     excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
     publishedDateTime: 2020-01-10T10:38:00Z
@@ -47,6 +51,6 @@ related:
       domain: irishexaminer.com
     quality: 54
 
-secured: "wMfkYhOSX+7P71LP8isJwDlF1a8fPoxUpwgBTN1GsJzYePw9L9SSpoiRSHABEQwmRuOERIOK6WezKZlt/0hZdnDH/W8Nrs3obTBjgYw/s9JlowpJ9kpr6sgeqR3+CDRtO8MuDyBJODJ9J8u0UHJM3q2Orn8kGrfCpvzYz8dqfwWyRw7EFS+J+d2aJkZ9iZJQnRXQ8alkeM1/F8HaJ9GcypO00Rt4UMaY1ZZXhTVuAtYIBxnzprlq5830z1khpvCFagKpjx4zSSpNL8UulPS+bC38D9yj7CiQNAzXu61fmyY=;sNlPLRndHH7GXy7JpaGRNg=="
+secured: "2aIDyv+SEOjmmf03/PK0Ff5lzgLoo75AkrrbD1lSa23sVIUR6dMDvn0m7u9+ecgG6POqUnPhhaNmoi5VvdEFZpODeLVJdrKs0zR4JdNLNXRE+ocT5d9vTZd6BANAwQL0fT5NgmKPSdJLnYHsO3QVPcXLPNc9jb6UZMVu2Xl9aVbpqfEd9NTqZJTaPAFD1ZxtQmskofA6QCZ78Unqhbjbq+eD9RcIhsscf7reozft32FUO1X1dKhC4bMHRfDryfve3ShZaYvo1T8rNQ4LQ4OYdIqz/qxwunQWRPT2psYRMzXOL8k623KCrEaU7SLFtteWl+UMqmFXcg2OQ/2bR/frxKr2xADFMaxlBPCCrYnCjGK2VyRLb8gSSJ6XsTRHEgl42ML0puE3Re+x0rMvgMU7By9i1J4UWpFEaRbyeKbZ5hXfDFhDd80n/p6YYAo85ujFKaQlY90UmEqU8mjw4As0gA==;rOF1mZ+Mq6DvTQuv6FgA4Q=="
 ---
 

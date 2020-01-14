@@ -60,6 +60,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/09/google.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "Conversational AI Can Propel Social Stereotypes"
+    excerpt: "Alexa, Siri, Watson, and their talking AI siblings serve to make our lives easier, but they also reinforce gender stereotypes. Polite, subservient digital secretaries like Alexa and Siri are presented as female. Assertive, all-knowing Jeopardy! champion ..."
+    publishedDateTime: 2020-01-14T09:00:00Z
+    sourceUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/
+    ampUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: https://media.wired.com/photos/5e1cef377b7b080008560ead/master/pass/Conversational%20AI%20Can%20Propel%20Social%20Stereotypes-01.jpg
+        width: 2400
+        height: 1350
   - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
     excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
     publishedDateTime: 2020-01-14T05:18:00Z
@@ -70,6 +85,6 @@ related:
       domain: marketwatch.com
     quality: 15
 
-secured: "fuzRd5Sm1QISV2on8NoUnnt4Uu9PFXQ95+DwaicwoYLKJebyAgFFace+DrJycfDH1Skc/3wQKhWQ1Oo24ZR7EeiiLfq0KFXJPnXbCEVf8r5ZbQTsmXSGkTLEZto4c2qUqq6XbHRDoZrahrJAZhTdB6iewQzU8UNdiX0ROuaqASngdzSuonmyuxvSibO60BJ+OQNadE65o4usGP0fUMune+nr/ztKIdnC4jW2F8O8IPI6xH6mbHZ4Z4+HmY3pWGwKZe1WSiAefjO2jTmpejqneZhkNo6hHfRqzC/NneqYb/s=;Z871FlLHTrZ2xO/lixy+nw=="
+secured: "0z2fUcbLTEpdlzwVJv+I6AqyQM+Nvr7YtSea8shNmRJja2w5FQyXbin+jV1JiJ73Vvg46v6Yad1FuWINiFW2RD8rEgL47o+AqcU5rtku/CUdAATRXI7HWdMn9BjnrZMXwQ9G6BNyqmshEp4Sw+3GT4OPXhjNu+QlfiXMseVH5OIWsys9fPGmPa4/PlLqkEQGYiS/CxXu6ZiGkiutHNxJV7BKa/zshfQ/1vGTriENx+0xVKydJMsI0400ZqFYQhXax2mox60MfklZtbDCy4Xc8zF9pOGe2zIBZCF+hRLhhmTi2YfKPpXHTCEGlb/IztircMh7rXd+kYmLkbqVBZForg93kmNjsKbMvqzbQ8Bnlfnt6yKvIRfJUgo2VQK9HxoDUiJY2rGt/F6ufq34StxPdzDII1JDnNz2eTkmvtWC+RWwkFvmFI4+lQyX/hwypug7nD+21O+n/2WV6vrVnB8TWw==;6E+gLSfEfJ6petPEa2AyJg=="
 ---
 

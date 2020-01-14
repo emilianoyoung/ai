@@ -28,7 +28,11 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 65
+    quality: 85
+    images:
+      - url: https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg
+        width: 1200
+        height: 675
   - title: "Synaptics Announces Industry-First Edge Computing Video SoCs with Secure AI Framework at CES 2020"
     excerpt: "LAS VEGAS, and SAN JOSE, Calif., Jan. 06, 2020 -- CES 2020 - Synaptics® Incorporated (NASDAQ: SYNA), the leading developer of human interface solutions, today announced a new."
     publishedDateTime: 2020-01-06T15:14:00Z

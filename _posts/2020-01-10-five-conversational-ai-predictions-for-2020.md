@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/09/google.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "Conversational AI Can Propel Social Stereotypes"
+    excerpt: "Alexa, Siri, Watson, and their talking AI siblings serve to make our lives easier, but they also reinforce gender stereotypes. Polite, subservient digital secretaries like Alexa and Siri are presented as female. Assertive, all-knowing Jeopardy! champion ..."
+    publishedDateTime: 2020-01-14T09:00:00Z
+    sourceUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/
+    ampUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: https://media.wired.com/photos/5e1cef377b7b080008560ead/master/pass/Conversational%20AI%20Can%20Propel%20Social%20Stereotypes-01.jpg
+        width: 2400
+        height: 1350
   - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
     excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
     publishedDateTime: 2020-01-14T05:18:00Z
@@ -70,6 +85,6 @@ related:
       domain: marketwatch.com
     quality: 15
 
-secured: "HihE8USA7S7rmL6nI3xLpNOwtsnudNHIx/2KuoEcm6CRnMcrbkQLSK7REzL+/R2GHLmQ/dqPxtQOkbRsJ50TKnAck532wUbyD8a2c4ynY1MsszkIukCfkBcl1jZtBcjVAFDlfJdZesTOESXECnV1t1ZIC6EdozVP2ccfB4o5w5moEZvRX9r577cBUObDoYgKBZNUv3GBJ2V3ouxUHZvTD0emuAt6JMpQnx3T/z/PMWz1LJmRhrLDaa29Zg9RL6S31n21HDDa3L1+v0TPGVllvAxi7rRHDL/EiF4WBvOcgkk=;oaKxV4E/mlsMfk3H2JX7Tg=="
+secured: "9SjFSqwqiQ1MTU3RQa1ibI2PpDLmqO6035tLjBEUe/LhaTksURpHy6+lN8WeIwKfEAU+bpFHD1062eJ2pgzb3oxeXommRoycsyDxysIFgEgujEfnyfdvVmc9sti+AC/xt0UqHf0VoX32D4WjA8Ao6NX5zjZHkT3O87cAu4E6qAqYq8OD38yUGW61MFDVoNxQzoXhxNe+MqnIup+XwFnzCWKNp30RJp5hc7LzPhvvkM8vewd2Y3hmY2mPByP4woVHpJZ+bPbirFVS2spG7c5wF1OPDpJwJp4o4LpQLzVW2RQLCB2O/sHbC3jY74BnXEu9Il2L9Tf5ElKHh47G64UOM4cBgyNQtVjjPA+DvrLiLgWHhRq8LYStiDncFqEJYLES6A/rCzdi2MYNussrXRFoml4QW0aco6hz9Fv0W9UiHFVLSSNtm+zE6cOlF7PGRMzvFgzLnsGL+12CVhH+YtaiUw==;fYEeokRBsNxKa+z9ZIm3AA=="
 ---
 

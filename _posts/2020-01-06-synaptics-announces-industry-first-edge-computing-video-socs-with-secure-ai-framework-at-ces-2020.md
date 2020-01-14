@@ -28,7 +28,11 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 65
+    quality: 85
+    images:
+      - url: https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg
+        width: 1200
+        height: 675
   - title: "Synaptics releases edge computing video SoCs with AI framework at CES 2020"
     excerpt: "Synaptics announced a new Smart Edge AI platform, the VideoSmart VS600 family of multimedia system on a chip (SoC) products that combines a CPU, NPU, and GPU into a single software-enriched SoC. The VS600 family is designed specifically with human ..."
     publishedDateTime: 2020-01-07T09:14:00Z

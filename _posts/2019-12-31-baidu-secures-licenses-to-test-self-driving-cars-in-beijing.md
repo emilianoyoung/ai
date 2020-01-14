@@ -107,6 +107,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "HBT+3glpKA5r9gIWLcRw9CkO38nnGlesd4fv7zfiYihTOnYbhlxALHP77ZuqNypX5v6sPkNlba3A+xukp5eKfG3XM/CCiYaVJds/3awcX91Rz6yEsxaFjWRZ4K9siQU3ZwfCMZ8RjIP1hSQ8L8ExzD+GEqPa7gjdlreSLhm1ePtPwYhrTLA0z163ZYTZNgVfDUBgQEPfgBSR0+WZqMHNZK4MAzY7BSkyxGJVAvHUyHYZKHreFHNlZsJ0a57X1aMFrmhqdITOgj7sWRo4/JwKFM8tRAdSwwr4PpJN3cy2EY0=;VL8/VlLNGSt2JU8/+3iaoQ=="
+secured: "76dd2xqCjzvpSnV8yUGGbcJzGong6Tb+RDsajEHhQCpD5CpEmeDivrTtMUqUytqFWcg0xtHXGseLj1IPlPTRjtNgp1USX8QRMuZPmIMCSHnh+9mCWNtn8vRPm/gE+cH6p3wXvHuYy/mqysxHr4Ni4muW/gu31U+uswzwHSxSXcWthgxGGa0cMyHUpBdOz4a+GXhKpF3FypmAS60/e/872hPccXrW5VhvalHCoWPRsDRVG+8KWbZuqy6HOs482UipvpkapXReH0srvAKjYBVtwHcphf0j7rzxo2Xl1TWtFuiHP024enX2z/NzZmE5MBtvxURtfumJG5657znACKBE3aPEmAxnXl3hyS1+XvaCQnclSoM/c83SOHgHfjoul62Cc/4rgTskFWC/4N/kMHtrgRTFWCCNwYe2l0zdA/SL2NonmXTZ14ZXPxKh8Gcq7iWM6FkvSMn/4cp+mA+2Ii9XYQ==;HUz5Kj0+zDQu1LhmXvLCHQ=="
 ---
 

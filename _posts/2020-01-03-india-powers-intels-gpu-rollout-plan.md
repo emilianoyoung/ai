@@ -25,6 +25,6 @@ images:
     height: 384
     title: "India powers Intel’s GPU rollout plan"
 
-secured: "QAfbuv0XmPLW/qDuycqTtw4qElulPD6BbZnfULr5j5Q6gi8vun11OIK9ZeJX77elBCBfXjf3xcapuGzC3hxoBbDB+JOSnQxCjCaqe1X1hAbxivjOXB9NAoR/K1x2k12AGhcxWJTGUrJcNEP/eywlRKamaq+Hqc8nhFOfhDFvnQSnOnRk0fBlYuAAXHmUwnW94phVjTdXlj6FMcVo3VNsomsNG1+N7p/w8Ld5Bb4zuJkourlzae9o1Mpbvp9FOZsioBRIQ9v20C2WWH72ykrAGpSdt8CxmL7budZPEJPcFIs=;RbTDJdq+AnHGzhitoS10MA=="
+secured: "lduUQ6w9foD9RvasXALU4EM/Aw5nVU2ohBDju4xO/2/vaFlbxnNVsV8cdINUIv67997LMZIC7WJrNOZRd+ksLUX+iS5IP6uhFilIK74nl0HmOVYQaJN726Km2DAtIaexLo0vNmLTkAHLeMEFmfkxqQO6Uf0uNMN7N7YXmapV9WT2vd9hQExpBpUHXEchgYJBUsoVIT+rWjq9dMAsZyuflT1jvnUzBxbvuagpkKBVGlXat9HNYFyf+AGGTQeKmZx9B69UeddCVTouvsZqb6Tn7jP+q3fmFqxQx1Y5DW/+yiw0ubfAAkKLCfhqO9Fdfe7hu/nSz4yyhqCuZCpOj7BkSzScS9U31aYp15ysjkIiMbpw31+hNVBfq1gAYRSeikQHqJkyixnHtk6SHNVLeQqLAQ5XGYXPf0F+iokMjjNfF6Qobq9yK5holPp9HC+z/Xic33IBwyXwwEeUs6tw0sOsZw==;a/cclubn2/2f/JA+fbSyWw=="
 ---
 

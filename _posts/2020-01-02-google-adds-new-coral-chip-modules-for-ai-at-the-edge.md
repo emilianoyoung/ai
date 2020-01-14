@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Google adds new Coral chip modules for AI at the edge"
 
-secured: "ehRARSSlphG9ilg0CTpc7PwgABFB/jGhIqP2f1juty/F1r+mgo6uu1Am2AfjH4qAgWdT89vqi5F84VS6s7828W6H55gDRo+QlGrGQWosuMkyOQ/9dUXL99FQ7tVS7zXQF1x8qSPoWk9vlwvOob2gMTCAGaSDUphpjMUPYj1+XP+HUc9ztG07kfkFtv7o3yE2x2z+XJEOQiwu3x9DEhPi5Rm/YQlO+vM0OsbglwKYXZakJquWG0E+aSSetiAgty+ygoNtJ+1hiYxgdwQ1IKtVsCXpTkJP07dfV20vzQWBGWU=;DQnr7KXea6mYgiIdQdXU5Q=="
+secured: "cZgqFI1L3K1KoEChYdiDDs5zUUI40xS2POWe1L6HIDVNKGGDqBQvN0K+4nvujFTA7YM0ldyu105mAMz+K0ptSlvmm5gbLncWNMhPuNGH2Vn5PkL+k5UtvFg0fVvr+vEdYLeejeJI3aYfGpOGkFMYNTylEArYN3fFZfHpOrQYlJAEAca6knqHlNdHWnWlLzTm5XWL3FjNjUJoUglZU20e4y1WntUqzcoyuClp79mYfrIabzZ4MfejsEHnQhUYscknlvN3UjnARuQCM/AsHQRL08AeMDs+uwxJOGPFahLu2UHv4G64wnZ+m96vAfj/qwg/JkMp+eMVNvFGcghhnAbpyfb46RESjumCtmYIvkJ0kTRJUR79YkUdPGHiFxb3jUgQpWQ1FEqJb+TyW73gWV958VNhhgjEOL+4KcQ0kmrx5HzmzjvV6M7sytLq0+AlAfyLYRhXra+6NdDNiJGbPdFjNA==;Z+pJ5aY+DapWzRTd1mH+Qg=="
 ---
 

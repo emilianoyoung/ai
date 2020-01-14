@@ -37,7 +37,16 @@ related:
       - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1068618392__1_.5e14d0313b40c.jpg
         width: 960
         height: 504
+  - title: "ESG Technical Validation: Predict and Optimize Business Outcomes with IBM Decision Optimization for Watson Studio and IBM Cloud Pak for Data"
+    excerpt: "ESG recently completed testing of IBM Decision Optimization for Watson Studio, which is designed to enable organizations to accelerate the value they can extract from AI more easily. Testing examined how IBM Watson Studio with Decision Optimization collects data, organizes an analytics foundation, and analyzes insights at scale—with a focus ..."
+    publishedDateTime: 2020-01-03T01:08:00Z
+    sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-esg-technical-validation-predict-and-optimize-business-outcomes-ds-os-us.aspx?tc=page0
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 0
 
-secured: "Rythie4qBGowP5m9J/2zvET9lY5Q9pYxDioxIzeYbdGe57ZMSPu3GUXUMDXUrHh4jJfstR1FHMTtwomax/S6AYQfxbbTKrL7BTAnJz98EMPxr4VibOtNQwlUL98weCfS3DKpHWCAnuvw/d7TlwbqJHnI/sESL67KQVMDuGTuZMuldBY2/ekeyrOkPkHflNk50xYiMKuMHjsULyRZ5TvsuaVimNuT+EpesurN3KbEHSdysb9i5XpBPPg5OwhgOseh5xMzQ58GHYjGyg1F0uTIRpNYqrtE51VbhbXxc17P3fY=;WWSk35XmfZqa3LHrM4Lp2w=="
+secured: "MURWnSxD5Kh7jIG7s24tQgYvXSKCPFZekqGRa1SojiofYaVgwDJyLzWHl0VcYOM2fTw7YwDPtyVTV1bCQVnH4U6x7Wh9pkaPAJEW52YEK+gghEaVypZlpOwNFu+gKtbls1hcK173ahfYvW9VbOgERZsOy5k2GWeRPQFQwNfT9HHLZyY4pRfK+5pE5RGWVDpZnSg9Q/wLCZJNwc39dVloqEjx4EUoAIRLVYxnQO262Zn/VvgvC0pGHJiWd85t2CafK9B+aZFufms8G9bt/nl84Ji2wVHjWGGGKLziNMb/rrQJ9PGKCtMP2EnFFBUSdw5rqlAoTBBPC4l+3WokDEd3chESMrlvHreV5KylEXh+i7Sh7lXoQ2Z+Pm82g0pooJ949wiR0KCLv+0+7B/2+0CYwZ4ffABZVLFBkMdqdnJLKaMhjJ60i35lKdFBcGloU4r3HXDFiMCXPT/eY/GCJ7Peuw==;ZNQt+mtPtuy8T5YNAVPqYQ=="
 ---
 

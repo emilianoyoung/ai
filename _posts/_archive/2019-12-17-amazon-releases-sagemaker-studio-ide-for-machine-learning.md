@@ -30,6 +30,6 @@ related:
       domain: forbes.com
     quality: 54
 
-secured: "AArzykiDu4HGSsIKN2CSAzweo9s7dUhK5udoTkAmc7kgFNX9RiE5U/mXr4kk8ygJvqduskVp75vTlYfDpqAeSmib4rPQIla6T6iylNkW4A7cOT/yuGR8U5cLkb09T12JB/Cjcr6XO8FdpSiRjTPovXJhUauPuJSP3VfoY2S+hwCieRUmZTJ71FnjZHFPsAwGu6lKPO8tGpE/QqKReS0zj1WTWj2envlkmPlQ99hdRFrCoG8Cw4Tik+8q1ItVAqKgnOfRS4dRYc8Rw2w6kwlu3OOCyhIjNyLlYA6yBfwNUQk=;U7mYiF/wnbP4z9xtB5g/HA=="
+secured: "zJl5CULjQg297qmVeRUyeQqkwDMorExixUsrMi4SHe3FV0Z5pRmkBdoUUwX3qtB3/GAPbP+V+Pwz0oeXyVuRGOd1MhBpB7qCMo5gKrD8JbO6kFZSBQkDY0DYCiKr2sOsYOq6iBTPXWm85w2xRfaw6DRdClYJ2Ib/UZPFUIwLz2qzqwx9wvJ7RKxbRdfcge0GBeMjup3IiW/s3nuXYrj7ZeUr4dGa1NlGlzA18yTdn/m+0zXBiy5wBh6n8rE13qth722gCE35uZB1IaAQCAwF0Jq4xlwp4Mc7eV7QKkP++ww=;KcAroXipMDKF2fcDdDQoug=="
 ---
 

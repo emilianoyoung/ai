@@ -7,8 +7,8 @@ sourceUrl: https://www.computerweekly.com/news/252476477/AWS-finds-growth-in-Aus
 ampUrl: https://www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market?amp=1
 cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252476477/AWS-finds-growth-in-Australia-amid-maturing-cloud-market?amp=1
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "/VX17DpPqlKwqjel036zJSLyQ2QX4KOG+j2WMectrrfidFhZy/Y8m4IAujXoK+V/GpIDcJCDz3rRZd3zzYGN8+XbweM1gP1r7OgWRPUi6CTGvJ7ffElUFwdA8nw05aGXNhvyMKh8KXGXLYSIYti4OJAjrICdxjG70OPbNvUWKuVqXzMFZVIdMG8eSBgj2PHEi/HM+PB/pt+WVw+BOMBJ6xndxZG6xBEwaHjAmRKnr+kNgntzK5s3aAreAoQxOIGas9sx4FflpZkaS5vCqzWLuGvxcOl1LkrD1AY1aAKoC/3jeeWujOC/FoioLC+CCPPAFVQykyXJ4dZZLi3PIJ7V0kMzeQIZcAIQhHBX3oM/vbnZBdrgIWZRzeqoRf5+tc3wxw7UmE7JUNWjd+AC0iIBN7fsolLVtTgDTv5jEH8B2PXJftjb2md18CxYTSF+ov8UuFl4ZdPyTF4bzs93xPgj3g==;TQ1kFMkPRnWej+E26UnnZg=="
+images:
+  - url: https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/Cloud-10.jpg
+    width: 1200
+    height: 400
+    title: "AWS finds growth in Australia amid maturing cloud market"
+
+secured: "0WX5iDknuIU6WD4SB+WWcwfCSyoUwJ9s8o06NnqcCMD+7uqlQflkItMeQw2JtICk0ibGCkney4i2ZyUar1ARNBa5YLnZ54RtdHQ+IE0N2kHfA6H/teYxmTY9j1iei0Kzk6uPf+daF8iWpWyoYCoHxRnQp4rOj+uWGLVGclkx8ZUqgX3q25SHYTQzN+y7RX3+xCoeT3G0qo6OuaPUR82kqgDSFi7zICVxmI2blsF6R6ijTfE9OIxcFTGvFI3rjEJCIghKRoD8pB/t23G38W8h0bH0/fQNydOYVLeddd21ISQ=;fM4pL5k6zI0sydOKnxoIrg=="
 ---
 

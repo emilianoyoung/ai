@@ -8,7 +8,7 @@ ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainm
 cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,34 @@ provider:
 topics:
   - AI
   - Facebook AI
+
+related:
+  - title: "JP Morgan Keeps Opening Bank Branches While Investing in Tech Including AI and Digital Payments"
+    excerpt: "Or Fintech specifically? Dimon had this to say ... We continue to make large investments in technology, including AI, cloud, digital and payments, as well as other investments in innovation, talent, security and risk controls. These actions will ..."
+    publishedDateTime: 2020-01-14T12:53:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2020/01/156323-jp-morgan-keeps-opening-bank-branches-while-investing-in-tech-including-ai-and-digital-payments/
+    ampUrl: https://www.crowdfundinsider.com/2020/01/156323-jp-morgan-keeps-opening-bank-branches-while-investing-in-tech-including-ai-and-digital-payments/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156323-jp-morgan-keeps-opening-bank-branches-while-investing-in-tech-including-ai-and-digital-payments/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 62
+    images:
+      - url: https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Jamie-Dimon-is-Happy-300x266.jpg
+        width: 300
+        height: 266
+  - title: "Importance of AI in making lending easier and profitable"
+    excerpt: "With the onset of AI, the banking sector has completely over-hauled the lending process; simple, cost-effective, and profitable for both lender and borrower. With the rising number of smartphone users across India, the digital mode of payment has been increased dynamically. In “India Fintech 2019” report, Unified Payments Interface (UPI ..."
+    publishedDateTime: 2020-01-13T07:50:00Z
+    sourceUrl: https://www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/
+    ampUrl: https://www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/amp/
+    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/amp/
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
 
 secured: "AqV0mLgNbyg0n7oXMvGZeYhke98TjB14BhGb3nG7XKCs7ehQC5JsmdJFEZZ2yjuYPr02wPjLY7ib7M1m/zcuF+94Fc6JYrRQDv2KJbnmWhZCJHDSPSQI5rxIpO3lu9BXcXLAT2HzS5xayzOnbn8widmRaajanLCVZBQ1zso16yZlUuX/hBoaJppvPvOs9142G+qc5ClGzK+ytO+qz6VUIIlwJfy0H/Grp0/n+vCxtoeOZCasv/rGabSanNPaK7/1TUg6z9CZ/GeB/NGCOaO/DZ17ms4C0g5oLEI5WXwbLZwQZ6woykiOvyWa2sSAyzViXprfvPxRGFYBlpY4B5gRKfXcyWX92MhrEeFjxW9qIChSkJGNZRB3/gsZWlarE7YDn9AulpQipCvKZHbum0cAA4r/6Y+BBfoHHocLYvtV0LJbDW8tmjpAvOH7qjLFH87HobB+thbYVI7K0ZzbmQ07QA==;DDkJwEHg7NAkMxkZQTqukw=="
 ---

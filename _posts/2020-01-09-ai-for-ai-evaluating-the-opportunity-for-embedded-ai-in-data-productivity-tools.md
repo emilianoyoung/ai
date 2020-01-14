@@ -8,7 +8,7 @@ ampUrl: https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-pro
 cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -39,7 +39,20 @@ related:
       - url: https://winbuzzer.com/wp-content/uploads/2016/06/Microsoft-LinkedIn-Microsoft.jpg
         width: 1024
         height: 683
+  - title: "How Hollywood Is Using AI To Churn Out The Perfect Formula For A Cinematic Blockbuster"
+    excerpt: "Dubbing is another considerable aspect of Bollywood that is believed to be achieved better with AI. In the hopes of pushing movies to a broader reach, Eros Now has collaborated with Microsoft to use its Azure platform — AI speech translation engine, for dubbing Hindi movies into different languages. When asked, Rishika Lulla Singh ..."
+    publishedDateTime: 2020-01-14T12:05:00Z
+    sourceUrl: https://analyticsindiamag.com/how-hollywood-is-using-ai-to-churn-out-the-perfect-formula-for-a-cinematic-blockbuster/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/AI-Hollywood-_once-1-1024x920.jpeg
+        width: 1024
+        height: 920
 
-secured: "evsDpdNHbaJ9CAbMJALv4xSN4DqrMV0fzn86u1tL1c/u6SvcswcWZOgRr2iXHZ9T61nzDOt70nlZ3PKsInK6Y8tLhkS+J9aDG5cS6Buy4nfIi34WWIXCneqMbD+F6pnoKroVEkFIWvdq0rGjtbZJqUFh4zunPBq4RKSna16jOigsvnOt1Up+31UJikorVyh2b5zX06NrClSlvC1a+6yUm3A0bAL/F0Q+/6C6au8WBrJfQVOHRngxPkeJirwvYIybJH/8pcNgy/VUjMsJEdSZL0NooFQwQQ8PtN/FPy05kyA=;xrQl6ERFW9CZpA/cPCHDBw=="
+secured: "xrpQ88LJc2qLyyIC8rB8GXr0idQbXRc0n3fk/57li+LetU0XvDR8pGQ/5N8zIiW45n+kssOe1X0Wgaex6DKnAxzlscsOUxYA+c/xI9/r3iwdvSfLMw4hKYPY5gacqdQUXdE1a1etYAmqIDx/ajR2ocmuLY50AjiNpOliQulcMFttg5pMZtn/QFSxJwVgOK+XPyAJdlDgYQdmxWxuwb8yMLVTfmt7DK27iMwzhJppzHq4z+XNvvssNRzbl6cNgPxdwTubVsIbm8U61GYKHh3TN3cOOCJWpIXd5MYrjQlTGr02nXx9Mz0ENs7MuLzOvdB07Jg0QC1VRUklyLrUX/FIG61vJi+00NCP2c2nCkFtiKPS0jGkf8qxpz1sXqfUa6mNFyjI1+2YjIYog2QDHhNo6z9cD/JTHZYcLDd/vS50bhYtUKzU5Mbybtx7dfnBsQIM1AdVkDrBp1grne1abggxEQ==;+ASqC10xsQ3IG0Ht0NeC6A=="
 ---
 

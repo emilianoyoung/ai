@@ -22,37 +22,87 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
-    excerpt: "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,"
-    publishedDateTime: 2020-01-06T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
+  - title: "Machine Learning Market Booming by Size, Trends and Top Growing Companies- IBM, Microsoft, SAP, BigML, H2O.ai, SAS Institute"
+    excerpt: "New Jersey, United States, - The Machine Learning Market is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success. The authors of the report have used easy-to-understand language and uncomplicated statistical images but provided thorough information and detailed data on the global Machine Learning market."
+    publishedDateTime: 2020-01-14T14:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-booming-by-size-trends-and-top-growing-companies--ibm-microsoft-sap-bigml-h2oai-sas-institute-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
-  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
-    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
-    publishedDateTime: 2020-01-02T07:45:00Z
-    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 31
-    images:
-      - url: https://slator.com/assets/2019/10/seyma-profile-pic.png
-        width: 400
-        height: 400
-  - title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
-    excerpt: "New York, January 08, 2020: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
-    publishedDateTime: 2020-01-08T04:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-forecast-research-and-development-report-2025-market-research-engine-2020-01-08
+    quality: 52
+  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
+    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
+    publishedDateTime: 2020-01-13T20:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 9
+    quality: 40
+  - title: "Deep Learning Chipset Market: Incredible Possibilities, Growth with Industry Study, Detailed Analysis and Forecast To 2025"
+    excerpt: "The Big Market Research has recently added a new survey report to their vivid and dynamic database. They have formulated this report by taking into consideration all the key aspects that tend to have an impact on the global Deep Learning Chipset Market share,"
+    publishedDateTime: 2020-01-09T14:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-to-2025-2020-01-09
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
+    excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
+    publishedDateTime: 2020-01-13T21:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "Machine Learning Market Growth Analysis During 2019-2024 | Microsoft Corporation, SAP SE, Sas Institute Inc And More"
+    excerpt: "The Global Machine Learning Market research report is a professional and in-depth study on the current state Industry. The Market research report provides an overview of the market development status and future outlook of the market."
+    publishedDateTime: 2020-01-14T06:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-growth-analysis-during-2019-2024-microsoft-corporation-sap-se-sas-institute-inc-and-more-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
+    excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
+    publishedDateTime: 2020-01-14T11:14:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-analysis-size-share-trends-growth-and-forecast-till-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Artificial Intelligence in Aviation Market Booming by Size, Trends and Top Growing Companies- Xilinx, IBM, Amazon, Nvidia, Microsoft"
+    excerpt: "New Jersey, United States, - The Artificial Intelligence in Aviation Market is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success."
+    publishedDateTime: 2020-01-14T13:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-booming-by-size-trends-and-top-growing-companies--xilinx-ibm-amazon-nvidia-microsoft-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+  - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
+    excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
+    publishedDateTime: 2020-01-10T14:15:00Z
+    sourceUrl: https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
+    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "h/QOp+3dYI2WCjuD40mLjZma2OWTgAmSJUrzHZRKpCZemmwWqCxDouzRE/jAypXukbsDao3wRqcVEbtequJaGpYE/w4q5hZW3lSkWd1VG1w0e1j0iPZV2B8j4eZVI3CY5H8OGrzCrxG0nmulGWHT/2avnj1c10t3Z2BxHER8fo1UyXFFdQfU/g/zK/fHSb9Mr3FUrtuq/AwLvmFfh6ALDIzDPbZPEnPJZkghKzod6W/wJecl0G64kTSZ+1T5w7fjOEAX4YGh60HGfgJbicZxFyo4uyAackFrB33EADnQuWQ=;A3x0FMglZY0omBtq9qGkaQ=="
 ---

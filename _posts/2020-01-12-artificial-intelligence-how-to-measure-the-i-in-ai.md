@@ -28,6 +28,6 @@ images:
     height: 417
     title: "Artificial intelligence: How to measure the ‘I’ in AI"
 
-secured: "ChWtPYaCNkmoOgkqdV8OTfQcFP0i4BgNap9WqXA23ufwQgp1BzTbujQUe55QcqasPV/MEvl29wdqLX6iOAY4pDpZrmHNQR+v9J48xmEgZpKIgWrjI+Vmd7NWrIGtb0mU0at0HvFWHQRs+5LN9K+ldow6BwZMosBqT8jgfHYhxYMDp54Zpw/91rksAyhnPKF2VVALRGvHI8ziBw0ueQyj0izW1/6aD4V172JONroLA3Jk8LbP9MIkOg/n1Yr8z0ticKEbUHdoyI/bj2sMjS1P6H5SYdPD6Sey0fNByun2Bss=;CdLgcFvb/SvB2v6YIhOugw=="
+secured: "l2pid1UbeyTgv6M6wunMDjxzinqDimjYPFtOa+JZ33tGAPfk22kRHtA5nge/2HQ/y/MoyC6pUmYP6DXbVkTWd0/BNB26YiYJV/JMjKJqvzKNdzXDXCPltH0adneMRABC4JJ0lhZmaKjGfuvCK0s7GRFLyWVF9hdQHpeO7Vr1uNo09tOHecA14AT+hHaZ2FlAKyUFK0NM9g1/zYOB2Q0iCnz+Kue9+dCiP0aCZ6jTMVqsB1G5LZud8kgDRScwgYEXhz8B1MDIyCRz2EHY0/ptB/0rYaffhbDg2CnxHekUHA8o9VChbkU50B7vM999lKgHLcFN2oN4bCAUIFO40Uvz4mKFYg0QogzO+rtA+wmE6duDUHT7mL7m0yOC4VrVjqLw5afJo8MUi+q3wWgqmJyhe/uYjHMX1jfSMLVZSThW3+tT4UefiQ6PINLq2LMl9z4dLaFT9x6Gq+afHzC/0OjkPw==;1XGuzcXKuKNdajH+ThZ57w=="
 ---
 

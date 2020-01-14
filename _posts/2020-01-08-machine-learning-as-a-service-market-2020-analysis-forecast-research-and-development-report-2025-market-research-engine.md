@@ -44,15 +44,15 @@ related:
       - url: https://slator.com/assets/2019/10/seyma-profile-pic.png
         width: 400
         height: 400
-  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
-    excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
-    publishedDateTime: 2020-01-08T01:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
+    excerpt: "Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024."
+    publishedDateTime: 2020-01-02T06:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 15
+    quality: 23
 
 secured: "zXb07Haiy5BocX/ntIIGNQVLeROkofNlOrF9Ukf1WVP+AI4VKHUi0vZu60yZfqO1vw5oAsVIKBMDwR7596qQ5mKnXxLd6FtUoO/52HtSk4SW+kYcfZFT6Fsq79WMMQQgr0nEsWso1QBjitZxu9LcGPJThFEuenaOw0kPX1tEhK7TGjCE8Y3ctFk1N89rVmRAZsMbZ4me3UkcYkTIL+DLSBRvtsx9CJQdwaUq4QrnfYGkh9U9XvYIUn4pNTdYVtP1Rh4nfYNo+9hIftzLwHLl/J1RutiDsFGmuWJGMOYJaCg=;XJFhbTKc8c3LiGqRQRKUew=="
 ---

@@ -39,6 +39,15 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F491938024%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444
         width: 1200
         height: 675
+  - title: "Enabling AI with Intel’s Deep Learning Boost"
+    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more. How are Intel CPUs more capable than ever for running AI inference applications? CPUs today ..."
+    publishedDateTime: 2020-01-14T17:15:00Z
+    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
   - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
     excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
     publishedDateTime: 2020-01-07T12:00:00Z
@@ -66,6 +75,6 @@ related:
         width: 685
         height: 445
 
-secured: "Cbz8UHs4a84AdBZIy6qeiq5Hcr/kzppTR/rP6udPQv/+nOYLPrEews20BHzoxRh89AOhe5B55dwwDCYepruWupmaaw7Q/QxGLE9Tq0dKn7Mw8eSPRBxRXg82KcYknPDDgDKU1T9KM8NN8Hx7Fe1jA2vIjCg18HGzhbIRfZGO5Ta1dD6MTG/Mmp2xmE4H/xD68TVP4SlqG7ok03n7cgPihqmYX7GWpGPPb438I1S6CEnPQ4FAjKcYBY7c/qOPmsgelUoiaDuEMUyfNzI/LmNxyLaVOniK6vWMuDiqspi8IYw=;bh8cKP5xG7xfQmCO15IiAg=="
+secured: "6I5aFsJYYB/gX6Jn5eApnHyHpyaNr3/sKzlgQmX0Xk4rBAuTFcCLXMt14plVaPWrZqdvepYGqsHwfMJCHwtZill6bHxO3rMshvZTMnpQgxlsskoM4P5PMna2W2vvn5JYSM4BWUEGgSVxKkFkzyUMbvP+fHccBgtP6Dz5ZJ+2iljCIu9DTrRL8S8463ltkyZcdyZ29ajHZAWpm/Hf3kjJjKyVQzgP4yybfr61gBw4xdk5IpBU2lyd+diyfdl/IMCSDc9ux2akR1hiRxMmV/Pc11/kHuCfg2fQZlizoYQTAawD0JXUMt9BT/Btl1aMiQOr3q1T6ZVOSd+pl+r1u/CCR7/RZ1uQ33v+zI2ZawtjV8bI8z2r7gsVjbnlwLmrHwxutuNb853iG17WfHfhnJS8lwMoXrfUQUVGzbi4aC3iAsIg1LwB0PKMK9z+eQyY+BlNM+GhllPTuSNhd0X24BgCLw==;wAshr0TvKacD+Fw0yUGlkQ=="
 ---
 

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
-excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
+excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
 publishedDateTime: 2020-01-06T06:37:00Z
-sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
+sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/?_hsenc=p2ANqtz-_ucienVNAlV7PYrc8Pz1SdpbQZM1e6fOgT2csx5o75U-OoWGIFoIWftsKvfLkMBOeR_vMULzw5v9Q-IemMihui_cvgvQ&_hsmi=81510974&rf=1
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 66
+heat: 66
+published: true
 
 provider:
   name: MedCity News
@@ -15,7 +15,7 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg
@@ -23,6 +23,6 @@ images:
     height: 497
     title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
 
-secured: "4iwAU6rXsMAIz/tmXs/8j8vJwT2bUCRoqEsVUj7Y9OzRSACABJmLYh0i0usUqtjfHr8bBHdyw1oeLm2LxvVbBbMGo+hlR0JypnMGjCPODvn3AJu65ump3ZkEPw7dKuWvoDrm+JwwtpKun6wgP1RVx81kzXcNMOG/nL3XlRIBUlENzKapIOGkYEa6tKBXEeyk9g7+vu76SzYL8LEV9aI+gx+V9WR7qTRfMktpQT4SiytN3Y2R1Y5/KeyQRb4P6xx6uqDnq8it+abjgFI7HUR59m5ZdpWewuBsPWgcdEuuYUA=;FMUOdxvg1TeP2i8Ezrz5Qw=="
+secured: "8Pm2r4A7sYLdjus2rQKP6O3Viwl9H6NdJyDWLS2djtsLPZgu8GbNI2Qwj2ElOpnccWrBxjrZQi0O1JCMDWmoJH+eYRNgvPdHZzUuYeZ1Dh2bl4KcPmaUIHooOOCl/FxcgZiY5Wo+P453h2BJnH3rm91mJQUFRx77XcZYy4IW5SMXE1DEIIAjPatfI7Zac2WYMGfGFHyYOIxgj/5vNKF6CJNk5ysF9sxrX5YwAp5suRLODxRWQhfK8GP9bbvPC+yVz5FKGRewHUUs/CWNXpOJ3URbDzehV2f5odI9wvpatM79kq2q14X2VNqFKAshZ8dh+unNC/d4Pv0aeAHTalfRZwXVyYyixXtZsQ4qyOSmHqC+NNTCN03N7fg01NBAkpyafj9sJVwy6T9QUJnTd/6PjlaQA3BKAiTeoKRPgLjndB8bn+M1PEO6QzGA8Z46+FgMTMQPY5CjzvgiN0C+FbcPpQ==;KCaJ8Vsk5akjulbfDz7syw=="
 ---
 

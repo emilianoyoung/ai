@@ -23,6 +23,21 @@ images:
     height: 915
     title: "Sensors and AI spot low blood sugar without needles"
 
-secured: "ZGvHZhVMqp+Gw/F8UAy0pGuiZhYZjOuaYe6EUJdl8oFtkPkaBrlhG1kTQoB7W6LZPpdUccp6gsKbaHZm7BzuQZRdv0xTq8VXhrnk+/70qkN8VHQWPt3GQgBJuYQeB9OJs1WFXCW9W3Z8lEQJfxO6mHlPcis06vPB3bxRCRJREhP6QwRgSgTJ6iaAfTbm88eewTeCiykDOktsdRzMCSXUNP/Jk9qYKqcMJKtjIs+sWLVWVg+Vl08I2QJ+G6OJLDb1aWmf+gQn14bqV+5HK65b4TIUW8m1GrHhNRnwdydsddw=;ytb+XzGXOpNWlSDYoQwngg=="
+related:
+  - title: "AI can detect blood sugar problems without fingerpick test"
+    excerpt: "In a new study, researchers have developed a new technique using Artificial Intelligence (AI) to detect low blood sugar from raw ECG signals ... Basing on this information, doctors s can adapt the therapy to each patient. More clinical research is required to confirm these results in wider populations. One author of the study is Dr. Leandro ..."
+    publishedDateTime: 2020-01-14T11:20:00Z
+    sourceUrl: https://knowridge.com/2020/01/ai-can-detect-blood-sugar-problems-without-fingerpick-test/
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 39
+    images:
+      - url: https://knowridge.com/wp-content/uploads/2020/01/AI-can-detect-blood-sugar-problems-without-fingerpick-test-.jpg
+        width: 640
+        height: 426
+
+secured: "ouLB3MW0hR1e85rjGfHftMRLpk03BIMI9AOaTG97p3w4gU+6jUNpe5sw/LbjFY81iAzByUsUeydcd0HIjoLbkQxwLgaepJ2vaRmvdWJoJLYgNMErd5QwmU+dzm/9rHDZuWTNobgxVGSalEHV7CGac3gswK+rPLyCtVPNMmfHFcFzuBFPTxjqn/X+7AK2NaoFwMP4c8/CP1+PuiOIt0YL/bTWZVYFtfZV1S8IQnevSjTaTr3+4XAnP8/GxZlhYQlqKWf2xWCoFomVpcVMVNulPPXT8AZ/G+rHOWVOsHvxrG1eCRikBjjfG8tcWs8VNmmpdlbTA6xYx3LlcJH/fGCNaSs9widu/MIloKVZRPN7qKvZSjbGloe1hyNh0yf0cEgt+ZqJZagr9/exH18nNB+zAzAoVEFd5dsnzBGBck2X32bXA0KSVbc7fn2Q96oWqdFb+JlpfTgT2yhQLUO7Ul/TsA==;8XX3EAysUlNnSf65WqkdQg=="
 ---
 

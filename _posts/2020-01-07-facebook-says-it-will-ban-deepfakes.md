@@ -91,19 +91,19 @@ related:
       - url: https://www.gannett-cdn.com/presto/2019/04/26/USAT/32128b1f-352f-49ed-9d3d-83a48600d31f-RectThumb.png
         width: 1920
         height: 1080
-  - title: "Facebook to Kick Out Some Deepfakes"
-    excerpt: "However, Twitter has proposed plans to label content that is fake, misleading, or artificially manipulated or created using artificial intelligence ... principal analyst at Constellation Research. \"The selective approach keeps it confusing,\" he told the E-Commerce Times. Facebook has the technology to make its strategy work, Wang said."
-    publishedDateTime: 2020-01-08T11:00:00Z
-    sourceUrl: https://www.technewsworld.com/story/86443.html
+  - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
+    excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies to \"merge ... in a Deep Fake Detection Challenge which was announced last fall -- \"to produce more research and open source tools to detect deepfakes\". While says Facebook has been working with news agency Reuters to offer free online training courses for ..."
+    publishedDateTime: 2020-01-08T00:33:00Z
+    sourceUrl: https://www.yahoo.com/now/facebook-bans-deceptive-deepfakes-misleadingly-110124689.html
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 24
     images:
-      - url: https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-deepfake-1.jpg
-        width: 620
-        height: 386
+      - url: https://s.yimg.com/uu/api/res/1.2/qG04aTgbDJAJEnwoNOsfqg--~B/aD0yNjQ4O3c9NDA4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/64b0d67d06e60d49c179e0303e423e13
+        width: 4088
+        height: 2648
 
 secured: "618AMy1lTa/cuD7uL/AYp5QE6qF4KoGKNo8mlMvsE/qvgQMUoiG0mxSdUjqU6anw070EFaRrpLf88CUhP6mPjudo7EISoreIA/axePB2OQXhuCip7ll/Apar/SCTe4HHCxdn96Qb2XoqPIX7IH0G27xgycEmYwjS/8fCgk9vKFMDNFwOd70VbJV+IXEYyGcv85K1Mxed7H6jL24Y2L6dwXyM4n2y2txPRXmsDs77GgJRYS2KmUDjWTR/nh3/+xB6vLkZao7K/AS1ckCrNSVePIuh89fl7+bn8DR0fkgklbU=;34RpAceOZcC0/cnqZIDIGA=="
 ---

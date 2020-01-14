@@ -43,7 +43,26 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 34
+    quality: 54
+    images:
+      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
+        width: 1380
+        height: 600
+  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
+    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
+    publishedDateTime: 2020-01-08T19:45:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
+    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 44
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
+        width: 1200
+        height: 600
 
 secured: "7gUlutdJsy0Aj1eg/Te0BsLH0b9lDvj6VRxjEpBCnKYu/DkY+jdW5+LuKdnLb4OMBDD85woR0SjPXXI5isuFmgsOJMo1WeGQ5chSOWHCA3h/hm16glgf2m+z4j8QA7Ua5d95+uejYFV2Zed3VC2uQ4PhxzzBLKMjsLvnbFnlx4M0X2W6wRMOXvJBVaOsWyaCPdUkOiv1JmCNTtXwuzAp3iCfbIt8tI8XK9raWxB6rbQkuqwtvVtoRKYjLgsoPp9rX+2lBYNLgKm3j9oeRLo5WANrm5bgbEBH/ra0CNkRJhg=;vy+ZwqcdIBkX4i7W82dMkA=="
 ---

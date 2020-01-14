@@ -33,15 +33,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
-    excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
-    publishedDateTime: 2020-01-08T01:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
+    excerpt: "Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024."
+    publishedDateTime: 2020-01-02T06:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 15
+    quality: 23
   - title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
     excerpt: "New York, January 08, 2020: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
     publishedDateTime: 2020-01-08T04:26:00Z
@@ -52,6 +52,6 @@ related:
       domain: marketwatch.com
     quality: 9
 
-secured: "gPOxhN+CcSzeo/IqjbBTpPDMSDUd8b5sRchXw0C/RuWJ7mE9DSmSpeGxxA7xYQtQioON3/pvxUg+H+GCS0u0XVxqvsQeMekrzgjZjlkN+1P6pENrCmNDie0JyaRCKlVjU17oyb3xSko/zwGt+1tA1x9wX/+tF82ceMUodESMx+LtO+fOK+yVwG4t6rIBFLxNO7Tuu1UGF3yw6+Nru8ZWQ3Iy4vSygJXyxsNyUddqi3s6HPO7TZak2URYvcVyQLTGK1uS4p3ub3FPbZ5ziS14HjlTRr36+PQTZA2STrPow24=;11e5+MWvSoyMid1Au+MBQg=="
+secured: "RahobYduzr4WIw2+0WPj3Qh3eRNhJuwNHIRaCOBidiJX0IOZ3RJfsstak1b7mr/pieVKeloJGJbKjI7A1Rk77ng4SyS/kXT8bqoXMBLP3E/+aQcuYmVlrqHhW+ea9Csly5Y9A1ll+LQ0fxNgHvzFgku459yvz0f9DF1lxjKxclL1diKeC9v4hYLC2tM0V6sg+7HbJd2nYhkvtUa+1kZFY1CcakqDxeAomOjCpZaVL3uBHz6rK+r/EA8Yy7l1HziXM8Nsy80DGA3h+1DU9qL98ne3BuN5M6TU6IRSjD9dMkW1I86X5br7f+2MgbwVNaXZQ+4u5r9rlm2A4qynwoi2pN0cwYqT2ReN3AMZRFsvCLkndG6rfId3vdWPILq2fGeOlzKVmdgZrwNCeMLO4EZeMRIXxHSTNib9bvgW1Yk16wH/YY9AvxD675ekSaEblEuv0hLqPK1uPMmce4pxsQNGbg==;ElnAZDBnCscf8ZzArrvD5A=="
 ---
 

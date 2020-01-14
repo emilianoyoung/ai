@@ -65,6 +65,19 @@ related:
       - url: http://share.opsy.st/5e1c9ca535b08-google-home-mini-3739710_1920.jpg
         width: 1920
         height: 1280
+  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
+    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
+    publishedDateTime: 2020-01-14T19:54:00Z
+    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
   - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
     excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
     publishedDateTime: 2020-01-06T14:04:00Z
@@ -75,6 +88,6 @@ related:
       domain: globenewswire.com
     quality: 6
 
-secured: "vnyBP248JOt5OzxWF/9LY96dKA72nPq2NTgmMdvuJK+F1eOYZweXyRrL7upqGnszzD6G5FDwVok6NBqnKkgVwVFjPZTAPjw2Rjr0drBAa0L8pLSaxstYMnd/vacmkMFvVGu+pSIzYzdcvGnWzeQninrXIEgUJ9rvk5F6gV20Ks3xoxQstOloqUaeEitnwYsgchZTpvfj9U325rzlf6sriIAZrB2CeWFWEd3gyrnICuYYC8zjbVpZg3lZIpPjmZYK/dOOYlJNtwBm1qWxDVcmlhW5q4AUfBHc0qr8CuXqvXs=;3aAlqDA5xv80es0r+SQF8w=="
+secured: "OovpAQntJSzIL58R+Wi92zzVwN0yMX8bALX1GWsNQU/1zbvagMZ1q6cfvpLNWZSVTy2J+H5f/f2vk/20YBmrtaPIKYv5/Dyc4DrNO10fgQ7R7mZqsxfDHz2oTBSEc6XRzJnn0TXuLKue//iH8OWtHL92QgATwdTz16HEmN1g4V27NRaard98+CL5Qxepba/308XZcSTqkaEauDNRhLDq/Ah3yForXTzl2kNTGn3he9TvrUf9mV1Qt0F9yhePfbDTINJpQPxiBxQyYgO/DLRGnaMUbi8891JI2iNva4aqSsw9AF3NajzBxWZNTTE45e0SZ1qSEBccua97oUYC9o0pwv0il7pLa0oSxx69+08+56W190FT3WIRmd+SN9bvMXnbSlwUANi2XnQCFd7XJMbmABmcr0lT9PXmKAWugPqgk7cQU6rEvSLIBFGljh4nLud8b6zwgsSfjQ0BW+X6JkPneQ==;uxA5eok6/I2q3vrv+2SGlQ=="
 ---
 

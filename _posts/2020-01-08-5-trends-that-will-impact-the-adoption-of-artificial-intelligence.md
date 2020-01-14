@@ -24,6 +24,6 @@ images:
     height: 630
     title: "5 trends that will impact the adoption of artificial intelligence"
 
-secured: "eQdbZr4oy5Xnq/tMJf0Lw2vEBhgqwrIjJBu6ljP0p8AmxY/hU0A2lnpN6CirzW7u0//rYABg1H6aFovNwEbLJSSGyCeIWNy/3XxUxLzLZtcGe/joVSDKtX3xp91lN5ZgV08JmUTyY1WWusWU+z6yOVUqsEPNKhkftl8tbj+npXkpWFgbqUB2L3Hy8vHEKL6oeVMmQ5JJKzGTaiLRqZtH2Ybd4qvezeM5YNpplUhmQvF+LUELbscV1N4tWcYqgDhRwjT1kEnmHLe5+6LUgFXdm3Pg9Ocoiw1BIK1n5eH7Bqo=;ehZp9E5qxEeLIS4fbeC8vA=="
+secured: "H8nAS2TKDmuw79LLyGPkYe1h6vmqcy+Zdfy0O+uFblggz/i0dXKdTKsAwKhUJCZzyucmgBIe870BdNY+G5p/gwdi9jU/stBqqVyZ6epaDDpmFq5nACwRoS6ZCXKvmYCLMIZqwpeL9/xjWGKb2Fnt61vvHFcusztmL3P1KW65rxSvgLd/LQi9RoBsuCKs57kMHTZVcvn2Cmuont7yDEOVJ2ACn8lPvlezSVZjkfQxXTX4+nQRweNcwCg8U8d9K+cngkKyOagj3zBhXLzWcbI/w+ECwZ901ADbeimMRL9U0oxslBmotirWE9/hwuKcB0XO5fvvK4OxLy8lu1AKgjBWUkvkso2da7mWaKx2+pLK1loHqdaIlTn0QT546YlKgDHYIbJs//3QbiRlL6hDWniDG9dQTMxTZljOmHAqlceF1kXsfp6cIYTNRd4sQyBXjb9dOAwox7EEhOt+eCli/foLfA==;4l/bpi09wzOupUzQw6t60Q=="
 ---
 

@@ -20,45 +20,58 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
-    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based technologies ... that’s going to affect certain aspects of people’s lives.\" In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the time when an ..."
-    publishedDateTime: 2020-01-09T22:34:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
-    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+  - title: "CES 2020: virtual reality, artificial intelligence and a small glimpse of the future"
+    excerpt: "Flying taxis, virtual reality, artificial intelligence, and even a new energy drink were among the products that graced the convention floor at this year’s Consumer Electronics Show (CES). You can find yourself spending hours walking the seemingly endless halls filled with the latest technology propelling the world into the future."
+    publishedDateTime: 2020-01-14T08:21:00Z
+    sourceUrl: https://www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelligence-and-a-small-glimpse-of-the-future
+    ampUrl: https://www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelligence-and-a-small-glimpse-of-the-future.amp
+    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelligence-and-a-small-glimpse-of-the-future.amp
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
+    images:
+      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/IMG_8422.jpg?ve=1&tl=1
+        width: 640
+        height: 320
+  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
+    excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
+    publishedDateTime: 2020-01-07T20:44:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
+    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 59
     images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&amp;resize=1200:*
-        width: 2500
-        height: 1250
-  - title: "Here’s how to regulate artificial intelligence properly"
-    excerpt: "From Brussels to Beijing, the Élysée to the Oval Office, leaders around the world are calling for bold regulations to govern artificial intelligence (AI ... dozens of policy areas — from criminal justice to consumer pricing, housing to health care. The lesson: There is no one-size-fits all approach. Seizing opportunities while preserving ..."
-    publishedDateTime: 2020-01-13T11:03:00Z
-    sourceUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/
-    ampUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
+      - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg
+        width: 1300
+        height: 500
+  - title: "There's nothing artificial about impact of AI tools, technologies"
+    excerpt: "The fact that artificial intelligence features in smart home devices — from digital assistants ... The discussion highlighted various applications of AI in the automotive, technology, video and entertainment, and health care industries, while also providing insight into the considerations companies should consider when evaluating the ..."
+    publishedDateTime: 2020-01-14T09:55:00Z
+    sourceUrl: https://www.crainsdetroit.com/other-voices/theres-nothing-artificial-about-impact-ai-tools-technologies
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 39
     images:
-      - url: https://www.washingtonpost.com/resizer/G_lvPl6_ldcLRJ6aHK7VhVQwQCs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg
-        width: 1440
-        height: 943
-  - title: "The Technology 202: Trump administration's CES message: We're not interested in heavy AI regulation"
-    excerpt: "LAS VEGAS — Trump administration officials this week promoted a light-touch approach to regulating self-driving cars and artificial intelligence at one of largest technology conferences ... Not a regular subscriber? BITS: Facebook won't back down from its controversial policy of allowing politicians to make false claims in ads, but the ..."
-    publishedDateTime: 2020-01-09T14:19:00Z
-    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/09/the-technology-202-trump-administration-s-ces-message-we-re-not-interested-in-heavy-ai-regulation/5e161c0688e0fa32a5149a35/
+      - url: https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Jeff%20Marston_i.jpg
+        width: 800
+        height: 600
+  - title: "New nevo.ai Features Extend Virtual Assistant Capabilities to Bring Intelligent Services, Virtual Agent, and More"
+    excerpt: "Universal Electronics Inc. (UEI) UEIC, the worldwide leader in universal control and sensing technologies for the smart home, today announced that it will"
+    publishedDateTime: 2020-01-07T16:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/new-nevoai-features-extend-virtual-assistant-capabilities-to-bring-intelligent-services-virtual-agent-and-more-2020-01-07
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 5
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
 
 secured: "fA+obvHpcAvFrWNqAjrL1Wj27zMMPm3ElEEfgsE2lJB/pp+jT1S+Kb3zEHPSso+maT+MgrZG1h4BgfJAjfC4Qov0z9U4VlGZUB2+NtWFkLJgGxzvYCu8c1dZ6yh0wc1Q1ywBQKIFFSdaikBTEYEHPdC9yimR129H/VQlbmqVQMQ/9o2huWnIOUdY+yMeL1dj49exuH69FwuA37xfCk4FL1k6JifKSHCMxkKz3fmCsM2kRWh7L7iXR2Xoh5oPVWfdgAjl+bjAL//VQpqXYpwxtpVX4VriaJbAjPRwH3o0Xa7JMk2d2tNqCbdKewFG3PH+DCYVMmZOzH2/kCj4wzc03T1AFFKyOsAIEAZ6BBJEqb9WA5Q6Ep6f9jRs5WC8qApwCkwmUECYpQisz8KPJXBMI2gQ+a2gUwubH24JUcWBYNKTex2eWekiIpppiZPHyA8gJCWOjZ12Yi4QLRj1OMo+fg==;p88gqJihOb9Kc3R6b310vA=="
 ---

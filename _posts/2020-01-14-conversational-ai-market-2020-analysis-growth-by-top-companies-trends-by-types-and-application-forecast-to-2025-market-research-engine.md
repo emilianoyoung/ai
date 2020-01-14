@@ -67,6 +67,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/09/google.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "Conversational AI Can Propel Social Stereotypes"
+    excerpt: "Alexa, Siri, Watson, and their talking AI siblings serve to make our lives easier, but they also reinforce gender stereotypes. Polite, subservient digital secretaries like Alexa and Siri are presented as female. Assertive, all-knowing Jeopardy! champion ..."
+    publishedDateTime: 2020-01-14T09:00:00Z
+    sourceUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/
+    ampUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: https://media.wired.com/photos/5e1cef377b7b080008560ead/master/pass/Conversational%20AI%20Can%20Propel%20Social%20Stereotypes-01.jpg
+        width: 2400
+        height: 1350
 
 secured: "Js9LebhGzqibHYBgw7W4jjvdqdsY0IAhczVy65K15FCiEWevH/fr3dVGtPfHcISSbnxPDa0b6V2T7ahuOJ2Tm729loFsNffg4+E3X3Gc0X0V3AOzh+y+rMb3MQwP0iAWpr6OO3t1qbb6XY5RBCp+jJuMdC8z3ZGkbdfCGDUyG1UfxYFi11Nsy5vtxFFqx4VhRGvatmrhhxhg/uZJlmUaAs4r2tWgOEzg9r29QIo6Fhhh2u5og3mjzqyHBxYRmxmF6DLEdsDZ4aw8fgs3lDdGJp6Cx/DsVrFkEdDxnitXbCk=;9kBhEBJfRG+WMM//EairzA=="
 ---

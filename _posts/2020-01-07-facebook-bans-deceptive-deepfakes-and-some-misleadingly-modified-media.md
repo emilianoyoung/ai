@@ -97,19 +97,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Facebook to Kick Out Some Deepfakes"
-    excerpt: "However, Twitter has proposed plans to label content that is fake, misleading, or artificially manipulated or created using artificial intelligence ... principal analyst at Constellation Research. \"The selective approach keeps it confusing,\" he told the E-Commerce Times. Facebook has the technology to make its strategy work, Wang said."
-    publishedDateTime: 2020-01-08T11:00:00Z
-    sourceUrl: https://www.technewsworld.com/story/86443.html
+  - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
+    excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies to \"merge ... in a Deep Fake Detection Challenge which was announced last fall -- \"to produce more research and open source tools to detect deepfakes\". While says Facebook has been working with news agency Reuters to offer free online training courses for ..."
+    publishedDateTime: 2020-01-08T00:33:00Z
+    sourceUrl: https://www.yahoo.com/now/facebook-bans-deceptive-deepfakes-misleadingly-110124689.html
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 24
     images:
-      - url: https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-deepfake-1.jpg
-        width: 620
-        height: 386
+      - url: https://s.yimg.com/uu/api/res/1.2/qG04aTgbDJAJEnwoNOsfqg--~B/aD0yNjQ4O3c9NDA4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/64b0d67d06e60d49c179e0303e423e13
+        width: 4088
+        height: 2648
 
 secured: "sBhRg12KOQH9pP90TFn2JEmw5febV8R8ArnrSy9jVZQUYuE66RU/u8arSlkv+YioAzsWrlO4qBMt1etPVA53qdwwbHrq3x9inEW1aPRA/H3pPnnYe+bo5xCVTSaSV0sDpG+8txGp8bha5hsH03K4nHv/Ygux4teTylmVduKRKml8sqar2a+EdjGxabD5xNQtY8CJHQO4So22QI8ShfRd2+XBwavPsmo7fiaRry7/pAAzvrpw/Ru3TAUrh4C0GvAn8ZN0yD2mIIlXCNbDxdGyg8rGucJOGDMsOhiry+CyMCM=;Wri/957cJ26c5WVoq4F1Fw=="
 ---

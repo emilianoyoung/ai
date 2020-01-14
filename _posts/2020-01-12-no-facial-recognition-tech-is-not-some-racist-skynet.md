@@ -41,21 +41,6 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/ronan-glon-bosch-facial-recognition-3-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "Anti-Surveillance Advocates Sue MTA Over Alleged Use Of Facial Recognition Technology"
-    excerpt: "A nonprofit watchdog group is suing the MTA to get information about a video monitor installed in Times Square to deter fare evasion, which drew suspicions that the agency is deploying facial recognition technology. In a lawsuit filed in state Supreme Court on Monday, the Surveillance Technology Oversight Project (STOP), an advocacy group which ..."
-    publishedDateTime: 2020-01-08T19:59:00Z
-    sourceUrl: https://gothamist.com/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    ampUrl: https://champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    cdnAmpUrl: https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 52
-    images:
-      - url: https://cms.prod.nypr.digital/images/299726/original
-        width: 4810
-        height: 3205
 
 secured: "xrU94SL2aemtgKJH64NYEyFrBbr7p57VlG+5N0Wm+fBQl01wAXE0QneBcG+d3TQvbkMxGTEMJyzR2Jm5yY4SUtSSLif7nmMb5frBvH91nIjogZhmLCXSWth4UlsAwgRUMA4NVwkdUO4w/aRmgC9z+lmQWlKeLB4MNwu3O7VBhSPPzLBQNxgCCQJVHsV/11Axdeap0GN9ifXBFY7rTUKw/FDOG1GeZBBrLc09iBYOyMNHQEwtYW9mwhCF1lgX5qFQ38j2ls8MhpD4XizzwQswOziuqMTjuBtPFjyqM97x7Oo=;dhoK1yQuhqLqYpPQpDUJpQ=="
 ---

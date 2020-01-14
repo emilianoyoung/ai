@@ -24,89 +24,22 @@ images:
     title: "Facebook to Kick Out Some Deepfakes"
 
 related:
-  - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
-    excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies to “merge ... a Deep Fake Detection Challenge which was announced last fall — “to produce more research and open source tools to detect deepfakes”. While says Facebook has been working with news agency Reuters to offer free online training courses ..."
-    publishedDateTime: 2020-01-07T11:04:00Z
-    sourceUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/
-    ampUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
+  - title: "Facebook taught its AI to speak math"
+    excerpt: "Facebook managed this by not treating the equation like a math problem but rather like a language problem. Specifically the research team approached the issue using neural machine translation (NMT). In short, they taught an AI to speak math. The result was a system capable of solving equations in a fraction of the time that algebra-based ..."
+    publishedDateTime: 2020-01-14T16:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/
+    ampUrl: https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024
-        width: 1024
-        height: 663
-  - title: "Facebook will ban deepfakes, but many fake videos can still fall through the cracks"
-    excerpt: "In context: Facebook is stirring more controversy around its content policies with new changes that focus on fake videos created using artificial intelligence. At the same time ... The company poured $10 million towards research grants, hoping to encourage experts to contribute their ideas and spearhead development."
-    publishedDateTime: 2020-01-07T22:49:00Z
-    sourceUrl: https://www.techspot.com/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
-    ampUrl: https://www.techspot.com/amp/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-07-ts3_thumbs-422.jpg
-        width: 800
-        height: 560
-  - title: "Facebook’s Deepfakes Policy ‘Inadequate’ to Some Lawmakers"
-    excerpt: "Facebook Inc.’s new policy to address “deepfake” videos came under fire from some lawmakers and disinformation experts who say it fails to address other kinds of online manipulation. The criticism, in interviews,"
-    publishedDateTime: 2020-01-08T20:23:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-  - title: "Facebook Bans Deepfake Videos Ahead of 2020 US Elections"
-    excerpt: "announces that it will ban misleading manipulated media - including edited images and deepfakes ahead of the U.S. presidential elections in 2020."
-    publishedDateTime: 2020-01-07T15:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/facebook-bans-deepfake-videos-ahead-143002598.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/facebook-bans-deepfake-videos-ahead-143002598.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/facebook-bans-deepfake-videos-ahead-143002598.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/nDoBKzSIzw9n_DPgyQBoCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNzA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/trLBykiB9c4xOP5vy6d1aw--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/15426402bebf932325471c670e2a6d6f
-        width: 635
-        height: 400
-  - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
-    excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to automatically detect ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal of confusion in understanding the basic facts of current events. “"
-    publishedDateTime: 2020-01-08T22:44:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
-    ampUrl: https://amp.usatoday.com/amp/2836428001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 30
-    images:
-      - url: https://www.gannett-cdn.com/presto/2019/04/26/USAT/32128b1f-352f-49ed-9d3d-83a48600d31f-RectThumb.png
-        width: 1920
-        height: 1080
-  - title: "Facebook says it will ban ‘deepfakes’"
-    excerpt: "and there would be “significant incentive” for people to develop fakes that would fool Facebook’s systems. There are many ways to manipulate videos with the help of artificial intelligence, added Matthias Niessner, a professor of computer science at the Technical University of Munich, who works with Google on its deepfake research."
-    publishedDateTime: 2020-01-07T04:57:00Z
-    sourceUrl: https://www.seattletimes.com/business/facebook-says-it-will-ban-deepfakes/
-    ampUrl: https://www.seattletimes.com/business/facebook-says-it-will-ban-deepfakes/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-says-it-will-ban-deepfakes/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%252C5304%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fa6df90d0-fc30-11e9-bf3d-41e8fa5d6f01%26client%3Da1acac3e1b3290917d92%26signature%3Df51c7486a6dd8080945bf5ef5ac7482111cf2c46&client=amp-blogside-v2&signature=7c28bf857a46eba7eeca3ef58ca21d26e24a1234
+        width: 600
+        height: 350
 
-secured: "nHTuGaODi7JJIZyk9Ypc2eXZM94DWgyU67rQNmvIaD2H4cGNVrXWExMmES32NsQYJOwiwEoac1ukRSmb1IfnyJAG7elvK2/zj6Rmur/4w849bFnzqHa5/6uZLPbq/Uy3iFVzZIpA5NqLpydoqosHEoGn5i8UbWr5mROfNYubNUrwE7snyK58VClbDzl4WgwBe57AgNzrqMysmug6L+dsWFizidS9fGoi0RiZxyIUUuUfgOZRR8G1MrdYYGSKVh/ihC2IOD0mCZBhlMni+x2sCQaLgTFkbU9lviW9EmS54Tk=;UDesaKjc0sWT04iaUkE3SA=="
+secured: "UGE6jyFb5hrlnZHM/4khFJ3XIYxhpeV3XOG2sZ0RWQQQNCFzZN8W4yGa+YoZ/sb8wJ1XCHDWI3vGiCW1zJ0EpVahncu0NwNvGzCcQqCo8UwCQLIeym8oMhTmYNHvsLDd8iO1LnuHx2neAbKM1aZq7kIY29iKobgl5zB3irHGY5+ZxfocPrcKg+JUQW9FJKLMDeae5weISJ9te3sNinxOjtpCOlsiI3AFfVa0q5ElsAcVwdx+7AT3ykIwMIYnU/e5LJNr5QCSg1JqyvPILWCb5yyRnmpd2XD/4fzUjQM3Mnk/wqyRVX9btvlPzs4bi0U9rHsbwsLOjxOxEO6dO/nDWevX7q9t/QIUKhLlNve87xxHVdgN3FCVTepNzrLGJluOqqS2nT0mziNYeUbtvAdGvFcO5I+kI6rW+RHU8ZFVIVNE9LUuvpdekc8Y+N58ZlOyQSorj/4xOUY1JZ5h5opIUg==;s5X+686xLm/KHpLurdTTwQ=="
 ---
 

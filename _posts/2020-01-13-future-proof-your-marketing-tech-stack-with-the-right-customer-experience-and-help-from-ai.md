@@ -23,6 +23,6 @@ images:
     height: 532
     title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
 
-secured: "sfiHcondfDh7j0NTt4PBa8UMz6A2U7U1OFDKOz3iWMtA1n00Za8pNSRTiVWol9FHw2+dHWxzMSErFIjMHSQywZWCh/3wB3n5WRnrAVDCnOa1TnQOotvfDtXiHndlEHS4nqxCIuEg/19gUXnktkNNQ0iOn5MEoO0PpEHitpFYDgaQ9NqWpk5bNbboxmKTaer+Jo3WDSfiB++U+UEvLewH5t85nMudyiWb1paDDWzv6xBy6VVJlGyOzHryKm4xgzub3Hh/Ph7hI/DgJ/7Jjn6uocOOlQeHkwT8K64DM3B6h1E=;RIqziPEl2giSCnWDrm+jRA=="
+secured: "vcz4NJeCqMJRjfZPuFkeCAG3FZxJJG7jPRCZ9FyYeQfDGOLD8cHrifvt1hjIxS6Sy+tJe4BMXHmtKNXku84mdmg+E4+ZI+I5dzdHd4GLnp5xZ3JKaPnd4pRXP4IhgLhTl4roAvlFEoABOc99dmbCFmaQ2+YLuTk1SOzScbAEmHnmTV7eRKfSbvVKmdIxECnrPg95dWNbSNIr76CdnC7uAwWg7Mwn0a8qY63X1mibChcIXINNBATliQciZ9N/y9/ByCSM2fbexHq7VP94mYWG3M0YcKoWD99pL5Ik32fmzopchIAO0CWIyI2h/SjlMVwZb9iv5A0vvCaH7VAzfK/w6ggjF7/7A6XdF6I/xWB18zTP5UXtyeIq9K3uAG9LaIqzIA+aW8OkbfBbqOHy2CbrkxuCDQOiYlK2Vt5TRf2wg5WHUZzgyzVvKtyZzwYFm1V3XYo7CrDxa2w23nxaYrFDGg==;MDFqIFF2mQy3+m99aOqOdg=="
 ---
 

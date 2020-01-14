@@ -7,8 +7,8 @@ sourceUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-lear
 ampUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
 cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "H60aiIGX8pe7LoyZAAm4+HQaOgamzedBjCR3m2EpmWaG1JncAvOg/9TmOtUyU2xONFY2jMGgoOuFaXvPA259zFrUTpAmLj3jNwLYn+6wjKWgHnktq4EUNNOKr/cBdGqLShDvjWS81lMN12gFXvyjZ48WgCKqmSzhuY9/SZi1NQTdXoPWo/9a8aZLl+5uLAtDJmWIychgOl0xxZJegMIhtuAvRqVLlxTYU2V1zejMF6V1NnjPCSksD1DSQoS2qG7ojLNiHLpmHdb5ikiBZeW2bzrGxtkyHyy1G10kEAGAOYLhR084PVqTlTP4EYdmdD2wZy4aTVQk88mpP/6zqCnAUL+DixXvjDqH750GTGM8PRUGLFoAlsuCprnHwxcGi4ACHMCkmGihUAY38xVCn6louFeefVn8/jCgRsVMmOcqQ1UH371eVw77fN4gicSxap8/TWK//D6hYH2P+G6ZPAMnbA==;TqaugQ3fF5Cjmw23q27oBw=="
+images:
+  - url: https://images.idgesg.net/images/article/2018/01/succession_brain-sharing_intellectual-knowledge_sharing-100746954-large.jpg
+    width: 1200
+    height: 800
+    title: "Deep learning vs. machine learning: Understand the differences"
+
+secured: "8dx+Wij0Oa0AkA5r97LF1R4Sh9BBw+2WrkqXorSO1/jusRloAtjfEGt3fLhA0H4GYjQfW3pct7sCLoU6u+z41G0Q5HuS8ys0QWcE1ERiXCXvzZ9DN1AMOUDcJ9/dtzBU7x2/GY6i9RmfU4k2J/o/VZqQMTC9RtTzerKIp8zdOvEB6tpPZld6cwrNRlIW8HFnUHvdE5fltkqftuh59wZgrv4i66tsq66O2nJhkTp/rNqQ4fFMafHrlnFsp3bdiNMEC4mdCNgkhWeceFbMN7YtGkC4oX7bFuJoLptgogvYny6mnq1ZtCJdh7f/DuXs+ojsuOswpkrShziplhbszZnRDo2xfolKxgQko2C/9xx3IHj8HwYL7XsaJyUaugB4YQdYyw45I3MNR0QMqKW779L6kDgMQP6Ph9it3VFkJMchSu7Y7KjtFvr9CZ+3GIx9JHuV2FoMCN9swszBuMgbFnSDbg==;Dj2uKWqljeE6yBtCjGXQjw=="
 ---
 

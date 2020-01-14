@@ -41,17 +41,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/G_lvPl6_ldcLRJ6aHK7VhVQwQCs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg
         width: 1440
         height: 943
-  - title: "CES 2020: You have to see these robots and artificial humans"
-    excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
-    publishedDateTime: 2020-01-08T08:41:00Z
-    sourceUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/
-    ampUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
-    cdnAmpUrl: https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+  - title: "An emotionally intelligent AI could support astronauts on a trip to Mars"
+    excerpt: "An AI assistant that’s able to intuit human emotion and respond with empathy could be exactly what’s needed, particularly on future missions to Mars and beyond. The idea is that it could anticipate the needs of the crew and intervene if their mental health seems at risk. Thanks to Stanley Kubrick and HAL 9000, the idea of AI in space has ..."
+    publishedDateTime: 2020-01-14T17:26:00Z
+    sourceUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/
+    ampUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688
+        width: 600
+        height: 337
   - title: "The Technology 202: Trump administration's CES message: We're not interested in heavy AI regulation"
     excerpt: "LAS VEGAS — Trump administration officials this week promoted a light-touch approach to regulating self-driving cars and artificial intelligence at one of largest technology conferences ... Not a regular subscriber? BITS: Facebook won't back down from its controversial policy of allowing politicians to make false claims in ads, but the ..."
     publishedDateTime: 2020-01-09T14:19:00Z
@@ -62,6 +66,6 @@ related:
       domain: washingtonpost.com
     quality: 5
 
-secured: "g0XmLsOcuSM+JNNY4QIa+lCAewYbDYOxIUp2/tQzJF+9eAIEBaFKoFJ/hffjtr2c7i+qS4QjVPxflW5JgDqy3LBWe8TNvBafvdIcOp4oxZyPR65QwPpXUFIL69fWoPcKTrWjavt5MXwNoV7sIIG3NCuOEV0+NsGux4lGH8mgxk7LFusi+pXFtcAnOI+wtuYhuvVPKvWB4D/ctvr4OY73XpQGRXyWpGb+CnV2oHSY7DwaYM9eLeeQ4ww0U4BeanuB5GTX6U8Dj8fjEFNzsp5ZLMCqaKZhVPvHMXhW4ESjL28=;nJTnmlbsgZv2RrZyMX0cmQ=="
+secured: "EEp75jsTqqiChyw7fK6Ukg8lvIJxZ3aZmO8bo++uDYkwYcpx3A2McScTeK9v+6p4eyeGEI1suM4lqOGrd3/y+Px4usHlCuxjjpJaYTLU5r20lMmnZLWF/KcY4fx75CP8jF9A4vD1jruXGVWVF5ifRTC4+ZhNxldmfHIo2OTN9ZsgAidGMkGXIcQCRbSMmmArlyPT1e9SThlTmunI6KUb2SxfcGo801eEBRxjUTXQ74sjpHO4aJ5VDn8HmHET79kCb3eFoGxV700ePfOFhii6WlxgiCXBHdVXN6q0j0hzqmSIJe0dcvdPDm6JW8UV+LKJJrpwWCFNEQ2lX8QL5sWYb3MAOlfDba/NUtHS13U/WrV49bltjNXKQ1uDL0C6jNoyIj+05D7ueQ/inc8yo8MiWreR3migCYUQcQ3kpG1UA4vgB6+6w3FI8YqO8jrRcGWH8c+I+jCjdlmwUwY5zo99qA==;veq4oS05gIJDjNFm2Xy3Bw=="
 ---
 

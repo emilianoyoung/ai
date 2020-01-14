@@ -52,6 +52,15 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/221036_web.jpg
         width: 640
         height: 360
+  - title: "Enabling AI with Intel’s Deep Learning Boost"
+    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more. How are Intel CPUs more capable than ever for running AI inference applications? CPUs today ..."
+    publishedDateTime: 2020-01-14T17:15:00Z
+    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
   - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
     excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
     publishedDateTime: 2020-01-08T10:15:00Z
@@ -66,6 +75,6 @@ related:
         width: 685
         height: 445
 
-secured: "P2jAQAOBo7hehL12R0ZC5vZyIDMFpN6TOFFm7kKa5cqKcP+7blCI/1c8P2Iet4BYzRrI1UTmAJXP6XxZO7zoP7GgDGLt7zlTB7sCYtrQj+5KvT7FdeCF0jUUNQVex+5tpLqJfbDSfHSP6lCFWdjlVfm6M1ZuVbD2mow4hM6zJyan+/F1VnL+/JutMZBB14Zt1ydSNczz8F1nVRE0qD5OlGbOc+5ZkiA50m1GdXLgJEJfCtOEtEAAFZAYn6PSBHQRXAQF+C8IuYA7ckXoUFNpAbh/bj1z+MZz5gsdaHmDGzg=;XUd6feVYQO1aquYsA54ptg=="
+secured: "CtpDGMjgL9FDH3kaBGdkvp0/5cMcSLkCPfs6k4KvUouB6n5GtnvzrNYnelmkfaRhUaoQSPYkUWnxZhnPKQeqPqTNlUVJxrp91OWSR0QclccUYfyMHqYZzx72TuPvyZIx/mZwibdNylg+xWGfA//48j6hBwbYVa5Dzz7kOLuIzbDPJSVppVAIy05k86xz7cmlVLdsZuKCMnTsEQ8BJfJJTxXTsPRhQeUU3zDTtZ6nMc+mTEPtW1lrbjZFAEvPqw5s812tyj432B/KMrtfe2gJ/deh8171xTfzRisU5hssI10=;1L4bD+pl3zBxQrfX0qdqZw=="
 ---
 

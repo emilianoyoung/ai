@@ -23,6 +23,6 @@ images:
     height: 629
     title: "How AI will fuel consumerism in 2020"
 
-secured: "DORAjWFYx/IaSRzQYI/62RuN+kL+0/qKyQoMIfudrvxwSfhilS/AsXNE70kZ9s13lq1ltZ0yzVuBgCe+LRzd1iwsMCm4lZf3GflwNDaaCRFBU+siC6bwLsChD6gbbMjQ7wiYv9tRKcuQD/4FlKbSzzrLeJr6V9NDWyZjBw+MLYPRzYWVbA64GnkI2YlGPzGmTNmKJke2X6CKlILGyDd7oY+a5JsUfzpYQD7kgRCAO/z2QfkCr1xAeUeJx6DbEaNPGBUEonWod02u66O/o3KcbSk+IOz/HnM3nlgdNAHmN/E=;vQ5a2lL26Q/iOTuKg/+Abw=="
+secured: "Oq0/qXkATWKNctxkIa5GKOp9Z2M6QzggIn5cQKH8WHYP0hYdadLgYFiJIBHeErhluFltjZ7nNLLWsnvJGjbqaZDu3GEQa47OgHKRw0563Si6uP3X1ma1LhyqRD+OfRalWNhhipIvkOiEo17KcbiH6nPd4ZODArveCjYLva0IfRLha7nTPMgq0j1mnU0Jv2CpFU5ZhWexqGCFQ9lh6cmJ/JbVOnULyG7X9hdlyfKW1bgokZ+Oxpng+N/ent+n1YLpyZGgf0saUA6bEY75HNc0oO8XFnV6UkLfOdqUaDTm+acRDaEk+cj7A5geZ9QftUMdCv/iIKfuW/Un5qo97il39qpnTtcgzlzSjqvSrJgVQXNXNEReeykzsQldalUC9BmH4dKWOtgISixyzUQOfmnM9QOctV07Y5AMPRUpGZ+7g3tMbeHIGeHFGNGLI65H53S3gA2YyadlurO8pE6iZ7BL1w==;h+JIso0vUv00LisLuij1YQ=="
 ---
 

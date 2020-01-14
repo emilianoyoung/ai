@@ -37,6 +37,15 @@ related:
       - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
         width: 2000
         height: 1400
+  - title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
+    excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing Advertising, Image Search, Segmentation on the ..."
+    publishedDateTime: 2020-01-02T12:05:00Z
+    sourceUrl: https://apnews.com/Wired Release/20e8c5c9a540ea70c73effd0085b6585
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 0
 
 secured: "deuj1Zfm4YMkVJbfn2lvnJwVehXtWt7a9h0DOndbkPynfSQWgcwqRH7xt9c4mxFHgeBc50FsiNs9dGderyWSPn01THYR65KIJxLrPQJ4I+mTlQPj8YAzmgm1FdlkDBOzacNZLGXiRBPWJBop+MMK7+57fSPp+HnVf2pEqje6mzcTuUEqt5d/K/lpFXh7o1hbsVKpNubUt4kBhKPMGXqUi/70OkVORPEQPcan4hk0W45+MwzqAh6zTPhP494l3V4qfKmnF0oz33VYdcZQ3gf+RdtaJ21IQxqWcp9AmPIC3ds=;eLfiuHv6LzrmmIMJzuUM/w=="
 ---

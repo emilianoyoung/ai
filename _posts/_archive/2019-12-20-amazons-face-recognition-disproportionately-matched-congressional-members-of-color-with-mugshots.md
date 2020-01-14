@@ -30,6 +30,6 @@ related:
       domain: businesscomputingworld.co.uk
     quality: 34
 
-secured: "ryKROVnYv3mPvjoagTaFozXn9F2KyF9L9AAN8eC6tT/r9B3KW20WIMKG0fOadry6VWKBkzUbfpDjsK7tF3zDErr5A/bZh5RIiZhNSRtqaw90YaXtdlwUc41uo7x6Xgsz8yHjGWt4nC2qjs9HEWvWsynRMHtIX3U6Q14HaA5EHEfxaf7Rb0jy5MHLVBgKOzOLvxyhw76zMbNv7MHup+BN6+syXQqgDHMeM6zT6gXAbCy1snbTKIBnSn0jz1yQl4PTeIB1/f3WZHQwOTvtVfd0nhUY8JtS1wKFTQEEDu3RdGs=;XNkN+yT7Zuv8B7yGKwnoRA=="
+secured: "hQDltVhmfFoyerBkGKdGLR8J9tEQQkTNZwTVksrp4wIID+9mBlp1L3yHW+Ar6JHKGBh9w9f4gg6g+whiRri9y75T4uJ7z570ShQRc8sSpv3k3WgVAVC2zj7h0Il79mOMsaYhIcJ+SNGQpPdfr6r28eWBxMqjr+ld7CNnfYstgPvlYvknVGTHlizCkin/TXu81xlxyEX0aKXKd8vd/ugUc7Y2kvSL/dlhkVebs/wL+cZRyYK84emGI9Llx8qf3tV7xpNXvLKY8MHt5IGRmCP1/fdCrzcxF0jcrENZQdmO/CI=;ayJXvU1rce576X3ReMj4Xg=="
 ---
 

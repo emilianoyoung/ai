@@ -41,17 +41,21 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&amp;resize=1200:*
         width: 2500
         height: 1250
-  - title: "CES 2020: You have to see these robots and artificial humans"
-    excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
-    publishedDateTime: 2020-01-08T08:41:00Z
-    sourceUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/
-    ampUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
-    cdnAmpUrl: https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+  - title: "An emotionally intelligent AI could support astronauts on a trip to Mars"
+    excerpt: "An AI assistant that’s able to intuit human emotion and respond with empathy could be exactly what’s needed, particularly on future missions to Mars and beyond. The idea is that it could anticipate the needs of the crew and intervene if their mental health seems at risk. Thanks to Stanley Kubrick and HAL 9000, the idea of AI in space has ..."
+    publishedDateTime: 2020-01-14T17:26:00Z
+    sourceUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/
+    ampUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688
+        width: 600
+        height: 337
   - title: "The Technology 202: Trump administration's CES message: We're not interested in heavy AI regulation"
     excerpt: "LAS VEGAS — Trump administration officials this week promoted a light-touch approach to regulating self-driving cars and artificial intelligence at one of largest technology conferences ... Not a regular subscriber? BITS: Facebook won't back down from its controversial policy of allowing politicians to make false claims in ads, but the ..."
     publishedDateTime: 2020-01-09T14:19:00Z
@@ -62,6 +66,6 @@ related:
       domain: washingtonpost.com
     quality: 5
 
-secured: "QA8z9Ss+DJIjjCzpESY/vNKSP6ozdC8cvd881q1noGw/sfUf+r60assPlwc+Cof3BG2IQOei83a/nmM0R/9U4jIeAcEdMdxupy3w6fviE+C5Ffmd1gn4aYKzgJ0PeWVMbJ5e2+WHjQKkLaB3s9RDw6EvmbWk/BfYInNXoGpxkEPltwpnqP+mn5AEdzppkaBIv8FJrE+ay8ZK8wvmWQVvLJ8jW3DwVKo77nWKBevLwydZ+ktO4aX8lioE9CWUaudHariQb//mW5odDDW/gvA4PtLmgxJDsmGSJYwudCPxzGM=;4sGH6lhvjHJSTjftFTKdgg=="
+secured: "kbAo15nuK+u3B4CQVko5V+nl/LQN/IBVhYJH2+04EczeoQja26a96KFJoG4YTpeE/0oP7mesRwhaC/o4eg1hTMY0gos9nse9FjVAkmQPCCbAD5EUPLDyEbbmOOPEBkBNH7lYPAq9njlRvtHvLBRDLgiaCedZxfw2yPTsSqVPHggHbaK4JQYUb4xSKa8vkuQjdHf2jqhbOvLP2C17ZItW3TGPl7qJ2u3PiRgtvSq8TrkZjeRYAVuSWA1EriQYtcFwuVWAUQoSandK05Kcf2W2eMi5Np4fnaYKtbo3bFbd0vr6VFeJgV7YVrCpv9KswRMqxE62dgtT9EGUZpFLkp3schesmFNPS5zalv6yrWkZbGbChCaJWjXZ+P9babElZe8TKoKD3gXJNg38DvCCMqR3+IUDJUmtryeu67pacXb/6o/8R5GIftEXmSpUBIDFEFVnoOENVyRKLOjSl1pw1UqA8g==;tsCiILngp1KmS76EXeKggQ=="
 ---
 

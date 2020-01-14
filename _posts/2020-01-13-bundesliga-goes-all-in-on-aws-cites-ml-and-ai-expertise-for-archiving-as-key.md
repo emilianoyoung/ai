@@ -2,31 +2,28 @@
 category: news
 title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-publishedDateTime: 2020-01-13T17:49:00Z
-sourceUrl: https://webuilddesign.com/bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key/
+publishedDateTime: 2020-01-13T15:31:00Z
+sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 51
+heat: 71
+published: true
 
 provider:
-  name: webuilddesign.com
-  domain: webuilddesign.com
+  name: Cloud Computing
+  domain: cloudcomputing-news.net
 
 topics:
   - AI
   - AWS AI
 
+images:
+  - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
+    width: 600
+    height: 378
+    title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
+
 related:
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
-    publishedDateTime: 2020-01-13T11:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "German Bundesliga selects AWS for personalised coverage"
     excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile, online, streaming, and television broadcasts. Using other AWS ML services, Bundesliga ..."
     publishedDateTime: 2020-01-13T11:20:00Z
@@ -40,16 +37,18 @@ related:
       - url: https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/Bundesliga-2017.jpg?fit=1103%2C618&amp;ssl=1
         width: 1103
         height: 618
-  - title: "Germany's Bundesliga Goes All-In on AWS"
-    excerpt: "Specifically, Bundesliga will build new cloud-based services that automate processes, increase operational efficiency, and enhance the viewing experience using AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services."
-    publishedDateTime: 2020-01-14T05:29:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/germanys-bundesliga-goes-all-in-on-aws/231205
+  - title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
+    excerpt: "It is broadcast on television in over 200 countries and is operated by the DFL Deutsche Fußball Liga. Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics ..."
+    publishedDateTime: 2020-01-14T07:16:00Z
+    sourceUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html
+    ampUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
+    cdnAmpUrl: https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 19
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 39
 
-secured: "s39+8pVWJRS7VVIkL9veVcbS8zoHAJqMNzT735toQRK4kuGM1l7W1qsHltrtRD/J6aPHeG+y81dOaPcr8GVNu5h+cUA/Pb9Xxt1Th9tW6l0JfGnXL0dtSOL9au4P37QPQiXWojiyUO2BxT6PjCsxZWS/rCtHRhegfhQwukWDecKQwkxoRCXhjl7FmdBy/4iqW4WkikeUpVxIWXKNj+o2fG307P7z9Y08R9Kp1P5mP0thN871zaqOrvwRaEs05lB2hYVnTdMKKskoq95MCFOQ1oU5LQ2ZetQ9cwlXsIgnJhin9ndgFmwaKjdjs/zM1VHDjdc/MrJ6j/Y58uuYbrqAJehNYknaZzYcL3Q4Dk93QGeii4M/5vICDGm4RaQSweLTUtjPjJNWO/ohLd4TrwI06IkL7PDMdPCOjKaHcX+1l61SpHOXKCPMvxQqs/yiTlRediE5nIggUBmFIwhwDLWDvg==;oNLHPBYmkFW2FvZ8oP9rAg=="
+secured: "aU3cVAn4AmSIBnoxRXCkSpT25Jt92V7Ptxvwg8hd/wUZZWdLY7/V76PdWP1dkC8VParq6i8vULUXkd60GW70um9X6pKZ8QAqZC/46f595D130XUfM6bpU732ZC+vNiPYzFgRgcJO6TxfeFeKGBLtZA29qMKRJdLJI6imxVJB5m/Tmt5V0SMOm/2kvv8KywgW3jkru5Wgu7E+WpINqNLNxg4L1rb+dxFZPNXf4iFTj2zwILtA6H+kmPUinjoenGvo0+vgk5IjFR6CbpbhX/hVFzmerJaZOnsZ2eo/23f0Djmupa9YGG5tOQCB8nST+Hb/QtlX3QW7YTubgb12rKPgo+wSbj6aEj8d/MSdhYvU6y0T+hRfM1LxJdiVIlBn6fuJU/3EeBA+DJcOmP2UvbW2/aBvg7g3sn8XXcfUvrY4eRA7zR2PW6F0rnik7sJbMFHHgrrGQlSXu3Fean00Hb3oZQ==;+jexPk/T9xBhMjI6/c8WDA=="
 ---
 

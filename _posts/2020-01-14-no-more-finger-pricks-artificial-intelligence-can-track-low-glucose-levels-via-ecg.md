@@ -8,7 +8,7 @@ ampUrl: https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intel
 cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm
 type: article
 quality: 53
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
 
 related:
+  - title: "Detecting Low Glucose Levels via ECG Using Non-Invasive Wearable Sensor"
+    excerpt: "Together with the latest artificial intelligence (AI), this technology can detect hypoglycemic events from ... training the system using cohort data would not lead to the same results. Similarly, personalized therapy based on the new system could be more effective when compared to existing methods. The differences highlighted above could ..."
+    publishedDateTime: 2020-01-14T15:43:00Z
+    sourceUrl: https://www.azosensors.com/news.aspx?newsID=13648
+    ampUrl: https://www.azosensors.com/amp/news.aspx?newsID=13648
+    cdnAmpUrl: https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/news.aspx?newsID=13648
+    type: article
+    provider:
+      name: Azo Sensors
+      domain: azosensors.com
+    quality: 44
+    images:
+      - url: https://www.azosensors.com/images/news/ImageForNews_13648_15790064117635412.png
+        width: 950
+        height: 713
   - title: "AI can detect low glucose levels via ECG without fingerprick test"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: \"The differences ..."
     publishedDateTime: 2020-01-13T14:58:00Z
@@ -58,6 +73,6 @@ related:
       domain: miragenews.com
     quality: 12
 
-secured: "lM5ZKJQ4DoiNH0SpLtJNovlXMq43uwkiI9DH3D5GBwYG86MAX77b676go4BUpyy9occ02/JyAsXS01AZL+8/Bdxd/4CKBLjiYkQEivLYmxXxz4Kj0Lx1E7/mk6MAj+PHhKTE8/9T+t4Ka5RT5VmxMDwPuCRw+8OjYFIkJx66aBka7mZGhUlJvOUTMFcTbJLf3lXg5uuZ7ka4k39OpEGoLqKdztBt7zVrOexdW1OFWbJmB/qK3bbjkdqTUFJFdwfR+w7KIo/ibZrLF65uNjcd4VWkyZubCQvhdo+EGVi7nE0=;nC6vjTGQR3syygYHZs44Ig=="
+secured: "Vqgt1Sp7sy7B/iVxD9K6pR0YHxB+fj0w7tJH4AHnQlb+nXauJRHU1ZJrHfQCo1gVgegGY1lLYf9rwURX92vi3h5cUJZfWdQwfV4Q6W/xtxlNqItQE7RW1wGGI7EfdRdXlKsuLv4EyCazek97TuQdO5NogZLP+oOkth/o+J66MEqQTohlDNjcisHtJGr1+fK8mfqMU92m3vqpUb6Kv0LjfBTIVsqDktHsJV7sIOtOj3/FwUsWtaDVL0nGLFxPtW3oQ3v5fGnm9YU2zjPykgu5mERGeJeru6X86Zx547WhQ/ekGYlyDt92KAfdNvfbiCBT/Z87hVKR1pLZJYza7YyBuKyvFdRMWL71SviLPjlcQBaxpPe9SpHEgWPvTI0cJmraZXLug8g2ShPK88+UuXBrSkOaPVBpiV5py96FhIC1ceGIMmS1mH1n4Fl7xmHMOwR4xzbB4FGY9ITJop1XsAL2XQ==;GPZRz61VZOx8jaGmJcFksg=="
 ---
 

@@ -28,7 +28,11 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 54
+    quality: 74
+    images:
+      - url: https://www.zawya.com/resources/img/zawya-logo-en-social.png
+        width: 1200
+        height: 878
 
 secured: "q143aheoPoWFSq+/sXTvC55KKTdPbX7UEBvtQfqBWQ187kESrym8pj+vNkUN4p2DSqnaUJSE9WU9UKbHNqYePHnIB6HBBD3HCJtZkWDA/CSN8eqd0zP8MZ+Ior4Q7P/azDTaroJXWBQZh57qc6TiYJkk+Ad1E0zX37yEFSnIoIXLxZn/QjiqnlwsjyyyDk+PEhqI21GKWLc9fXPGwzRJdHyLOD9z1jbEwwVSAh2JGtkpZK3bgEP4GKLCDVA+tbxusPMhbsBmPu7Q7ZOEI3Kyneheg2YWJfIXfhe06+myM2g=;jLUwxLOUW6luqmJKCLCpxA=="
 ---

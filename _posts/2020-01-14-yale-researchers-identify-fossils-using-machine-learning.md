@@ -31,6 +31,17 @@ related:
       - url: https://assets0.cosmosmagazine.com/assets/parsely-logo-e3e68c87e5824f9be72c9e2ae9df4ca4a27d7f0df595aa6a0c2c3474d551b7f7.png
         width: 300
         height: 300
+  - title: "‘First living robots’ assembled using frog stem cells and AI design"
+    excerpt: "AI-designed cell robots are shown in block format alongside actual versions of the ... a senior research fellow at the Oxford Uehiro Centre for Practical Ethics. “At what point would they become beings with interests that ought to be protected?” he said in an interview with the Guardian. “I think they’d acquire moral significance ..."
+    publishedDateTime: 2020-01-14T15:48:00Z
+    sourceUrl: https://globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/
+    ampUrl: https://globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/amp/
+    cdnAmpUrl: https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/amp/
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 39
 
 secured: "dTMee1w0TiUNkcYYRYTY7ObmZEflVaQsPJJiguD2uO+LZ3H5DvUBwHAVsbslsLn6FmZsA8X0IlE/+4HRgE0+54e1+6+V8/cc9/3S84PgSW54nTHc7s6t/NfnuRijxGWsvE7u37pndZj7mboUQe1x8y8brS3rV+Q93tqT8jLEvJoBeBi3ciOpy1Nv4rZs2cLSEQs8Q3pmMhEKdkjT/OOnfH95szT0x9h5TC/w+naN2TWNxazvLDXXpuQieFqwKy6OD6z3H2mfN/j2QAt2VkFdC8ms20fn1E+n5bTtcUbDhRw=;K5lm/9XZPMBpZGZvfNHv7g=="
 ---

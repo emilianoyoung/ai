@@ -22,24 +22,33 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Artificial Intelligence Chipset Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence Chipset market share. Major industry players with significant revenue share include Intel Co,"
-    publishedDateTime: 2020-01-14T05:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
+    publishedDateTime: 2020-01-14T05:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 16
-  - title: "Automotive Artificial Intelligence Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The global Automotive Artificial Intelligence market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World."
-    publishedDateTime: 2020-01-14T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+    quality: 24
+  - title: "Enterprise Artificial Intelligence (AI) Market: Global Opportunity Analysis & Industry Key Players Analysis by 2019-2026"
+    excerpt: "Research Report on “Enterprise Artificial Intelligence (AI) Market” Report has Market drivers and restraints, along with their current and expected impact, Regulatory situation and expected developments & Market driving organizations. Artificial Intelligence has been one of the fastest-growing technologies in recent years. AI is associated ..."
+    publishedDateTime: 2020-01-14T07:22:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/37491/enterprise-artificial-intelligence-ai-market/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
+      name: ARN
+      domain: arnnet.com.au
+    quality: 7
+  - title: "UK Artificial Intelligence Market Industry Perspective, Comprehensive Analysis Up To 2019–2025"
+    excerpt: "UK Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. The digitalization of banking, insurance, healthcare, and business services in the country is the key driver for the growth of the AI in the country. The country ..."
+    publishedDateTime: 2020-01-14T10:32:00Z
+    sourceUrl: https://www.openpr.com/news/1895616/uk-artificial-intelligence-market-industry-perspective
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
 
 secured: "dhSgJTeh+gTdqEJHXt84VsouF3JmZ7RWSHB9onn/d02dJlYs0xLdBzfZPYCrZ84/wMW9yf32cxENdGS7XhGYpI+Tp+12lx/kveusz53MD+ChGi4VOlYKIc9dTcnWWylaDuZvlXZK6HqQIHaSnBJSbcQOPXnr5l90EvIX91ANSyFHZI5/tOKS0VmpA6hc6h1V1OQZ7PiMz4ZGgzrN3UXhSDvKqPe6xyNdvZuHZAPgHQAedsxjgx4YE9ozjTZlS9wXAcB+o5Gm8sTHEuS/EjwtEsF2HWV0nl2j2i5ms4KIRT0=;dV1fexicvuFCm6RI6qr3oA=="
 ---

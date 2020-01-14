@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/?amp
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Bosch’s facial-recognition tech keeps you safe, entertained behind the wheel"
 
 related:
-  - title: "Anti-Surveillance Advocates Sue MTA Over Alleged Use Of Facial Recognition Technology"
-    excerpt: "A nonprofit watchdog group is suing the MTA to get information about a video monitor installed in Times Square to deter fare evasion, which drew suspicions that the agency is deploying facial recognition technology. In a lawsuit filed in state Supreme Court on Monday, the Surveillance Technology Oversight Project (STOP), an advocacy group which ..."
-    publishedDateTime: 2020-01-08T19:59:00Z
-    sourceUrl: https://gothamist.com/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    ampUrl: https://champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    cdnAmpUrl: https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 52
-    images:
-      - url: https://cms.prod.nypr.digital/images/299726/original
-        width: 4810
-        height: 3205
   - title: "No, facial-recognition tech is not some racist Skynet"
     excerpt: "How ridiculous are fears about facial-recognition technology? Well, “advocates” from the Surveillance Technology Oversight Project are suing the MTA simply because the tech might be in use at the 42nd Street/Port Authority station. The MTA says the plainly-visible monitor above a set of turnstiles and with a sign about “monitoring in ..."
     publishedDateTime: 2020-01-12T13:14:00Z
@@ -61,6 +46,6 @@ related:
         width: 2000
         height: 1333
 
-secured: "fbEKyYocaeU0epwlmyI4eBVQuo7eGreGmiUCTzLgIlqpQouv2F3IXNyerXGNpUdZWHvKADQej67I8ocFaXEi28SwBSFsJLHk+mlKC6p+AGDS2MsVXRUlFTzZpkIqATbnuoAHOqc4+tZHFlS0PYipvzzSlMZSl0k/K3VCGqxw9qtaS0ocTTN1tW186ZQh6Xd/xbe/UI30hDsbQ5p8sJ7a1XLwVJDfA1irXCniAIo4E6fgY4M0LovQXRmA735vbrKOPC5duHo4lwZO53HAzs2xLe9gQ4bi4OBamzD8xBlpR5o=;YFjmjX7HJrJWgQJPHUX4Og=="
+secured: "q1hElpQ8OEveyx9i5b2g5E1/6m+uHqwyhACj7RwxtSdWYsyWrp3S4go/bDMMXjKyNB/XeZ5pwIohCkNFG60zRIOE0fg7IfkUJONy4v0rOseaRPpNdctfV7U3MF1zRtgfaegbhyfco71wO+ErusfSpWvk/fHgWw0LkN4gSrh6v2tnpg1FTycoiOLC2eObrRX27QNckH8UsMOjjc36/RMI4V/oNbTTSmBkH+tOiZ00LNpEZvqyQ7lNOKsOj5h7faKgPJnNol4nn1OICaKDn7shMHg9/7lRcSFcOj/RJQ2EDW44GwJ+YgJyo2wKltgY5E4QTp92oIswbGmKYpNI0ryVnKRHvnPLtz/3SFVCx7NeyJ2TLupdy+mqUZ5rFnpvB9wPLysTYS3qdBhy5z+He36T3cNRl98sQnfisPiOS5E76CvBQnsDJdOO6oJy/HFZyomyUGzZbICxrOKlpcRoSctl7Q==;OpJJ1lQU5W6/LxxnBIk7sg=="
 ---
 

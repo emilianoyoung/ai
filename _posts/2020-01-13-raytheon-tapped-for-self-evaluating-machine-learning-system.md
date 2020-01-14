@@ -25,6 +25,6 @@ images:
     height: 532
     title: "Raytheon tapped for self-evaluating machine learning system"
 
-secured: "l5YCHUU9w7rdU7wnA3p+EpAxFnXGyMnLKydbKP+k8fOImpw+NAccr/G/id1386mn8F+Se9t+NcT3d/yih7kqKjEYi37JZoYp52rp9BkAfgxwOQbTRIx00y1QbU3lGvg/Oy8SBB6t6NXec4amNGbqKP3Q7QaZ4tR1j/X7EIM4qgvUlmGQKnV8SttpTVA8t5H3+Mx0PoMMmLWCGiNgGsr8s8DYw0zY0JMrdh/ls5ipheO1xe/glyHfhk4QeqUKM6rBt2lCYBw11x8CI+q3zud0PnQ8wRLe4jXssuK/1FSuzWo=;prL79qpBstw4n5TllU5Z+w=="
+secured: "OnmFEdhY/yPXxakIFrEfhSONG2dOS8qHbxIa/X9qLYXqfQXOPD3iJvGftE9+Ua8aeXwvr+/DA07tKc7foOuhXNwT9wZe+KNCOKOOred15O7w1xcGTnd1xX9rdC9VNqFnXicDBUmxfbraHrfMv+JbwbJ6kcb3F+uMWsD9A71h9WuDMYEUi64oqFjz3QJBeYNofaYjDoij80/Dgwrp2vjbQGwIZGUE5owTET6hBLaMpDPIxv1jfiAesfwybexEYq399Jcn7zs+xy7QuoS+UefOuLbbszEeXbns15GTLup1s3tTB5U3GqzzyfNFHI08VA/S50xGDSd5JrhCWEXr+3DxwJ8JwByNo8d8dLNzNFTNh3Du7hitADxZqzfy/BgU9owIV7xwgWYPOTuoiQMcivstepDiykRSjycaBXu3i1cGHi0kYwE4UYp+bvIVtR5qhauYX4eQxKMM/1fXaYSAZ8crpA==;nT/jj0AAGoDjQ/HATUl2Xw=="
 ---
 

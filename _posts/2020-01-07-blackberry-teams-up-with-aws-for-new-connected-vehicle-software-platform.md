@@ -39,7 +39,22 @@ related:
       - url: https://zdnet3.cbsistatic.com/hub/i/2020/01/14/fa1a0cb0-0104-41aa-b836-0541476b2854/lg-cerence-partnership.jpg
         width: 3000
         height: 1997
+  - title: "LG announces new partners to build car infotainment systems with a voice assistant"
+    excerpt: "Today the company brought in two more partners – Cerence and Luxoft – to strengthen its In-Vehicle Infotainment (IVI) system. Cerence is a spin-off from Nuance, a long-time player in voice recognition, which powered Siri prior to iOS 11. The goal of this partnership, naturally, is to build a new voice assistant based on the Cerence ARK (AI ..."
+    publishedDateTime: 2020-01-14T15:09:00Z
+    sourceUrl: https://www.gsmarena.com/lg_announces_new_partners_to_build_car_infotainment_systems_with_a_voice_assistant-news-41025.php
+    ampUrl: https://m.gsmarena.com/lg_announces_new_partners_to_build_car_infotainment_systems_with_a_voice_assistant-amp-41025.php
+    cdnAmpUrl: https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/lg_announces_new_partners_to_build_car_infotainment_systems_with_a_voice_assistant-amp-41025.php
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 53
+    images:
+      - url: https://fdn.gsmarena.com/imgroot/news/20/01/lg-webos-auto-partnerships/-1220x526/gsmarena_001.jpg
+        width: 1220
+        height: 526
 
-secured: "2pOdqtk/EtL7uDnQIHtXIxJlN9RMprvhrJm0J068sNXrzaTd+7zdvAq1N5zUfrFrbwJzYt26Z8lreBKjBQFWvZy5Wm4NsbMCohveGuffGmIRG8q+bOos8OCG4NEcV3hfLcLDyl7Ck6s9HHWWwWb6pNj52686t2l7c/rCpIujTQ+AUBK3chSfCkrOE+58w7Bectuj2SYffyTkbrtP7s5y0svOi79trf+xlDx205zkLcwkdviCBSXhstyAru0ndsdcMlRmK4zRxcXb8IEU9CpC/bSRDisvqx7LW2d0deQgz08=;M0f5eLLvQlezJCle37TOJQ=="
+secured: "6QcqmWKsuMXrTomkE3xO3UxiDacE6gC7Ml/0IbFDe0Sdje82q8cRgiRHD9z+8n+5kXwyBfmaDQfQYbZehWBLsnbk27SHukkPh4j/EovwQvBovSh7JPJiMXS4hG/NHlDFCEr3NduBfkhrkQd3ER5164qyEhU+913CU+ZF9NcPxJdxSB69Ejvl0/koRHGSdERU2p4E13oqRFdFHYTJKnl5OQSDoXd5FvVpGGmgg4aNtKRYf+aIXEjb7V5Ba/VQ8W3lsLkfe2RCOo0lmS2aHjsZFmLJeOYemsUIwM9bMU3Ux8U/Bjx3Savicwvk6Btw/42BBiwGTbW/sCo876rJWVRUyg7552O/pPs5KuaD1Vu18z4aOcfCES5UlFC4IbUFfk4e8Eu+VnLhjYaaiYw8i76oUc4J3EeJRR3if9g0L5MC2WJVVr++lVrlvDa8N+hp/ZWw9sLYqOLO2ScA/vlqiNQwxQ==;q3c55TJegd8MIFp7q2n7Eg=="
 ---
 
