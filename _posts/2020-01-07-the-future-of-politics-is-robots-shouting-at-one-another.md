@@ -8,7 +8,7 @@ ampUrl: https://amp.theatlantic.com/amp/article/604489/
 cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -97,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
         width: 700
         height: 393
+  - title: "Teachers, the Robots Are Coming. But That's Not a Bad Thing"
+    excerpt: "I don’t think artificial intelligence is there yet.” But researchers are trying to get there. Consider the work of Cynthia Breazeal, an associate professor of Media Arts and Sciences at the MIT Media Lab, who leads the Personal Robots group. The group is conducting randomized control trials of the use of an AI-powered, teddy bear-sized and ..."
+    publishedDateTime: 2020-01-07T22:33:00Z
+    sourceUrl: https://www.edweek.org/ew/articles/2020/01/08/teachers-the-robots-are-coming-but-thats.html
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A112C5E86273E0A498433C651D2AF5BA
+        width: 700
+        height: 365
   - title: "Researchers create robots made of living animal cells"
     excerpt: "Indeed, Bongard and colleagues note in their paper, once refined a little more, the process of creating these unique living robots could be fully automated – a product of artificial intelligence and machine learning that requires no human intervention at all. For the moment, however, a level of direct intercession is still required."
     publishedDateTime: 2020-01-13T22:01:00Z

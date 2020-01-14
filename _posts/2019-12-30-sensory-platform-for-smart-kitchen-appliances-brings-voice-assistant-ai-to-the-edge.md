@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5FB91E3A6ECCB9DAA72F5D76AA1D05C6
         width: 650
         height: 370
-  - title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
-    excerpt: "SANTA CLARA, Calif., Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been ..."
-    publishedDateTime: 2019-12-25T00:27:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances/article_6367c98f-6acf-5ff0-8f19-be02ebea416d.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A0FCDBABD94E210ADAB31605EB3677D9
-        width: 400
-        height: 224
   - title: "Listening in? How voice assistants lost their innocence in 2019"
     excerpt: "It's important that humans intervene to gauge whether the voice assistant’s interpretation of requests is accurate, and to train its speech recognition and natural language processing algorithms, a machine-learning practice known as \"supervised learning.\" Simply providing general input data and then letting the software learn on its own isn't ..."
     publishedDateTime: 2019-12-30T04:10:00Z

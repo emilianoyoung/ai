@@ -54,19 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5B5603986854F8B787B443270BBEC2A0
         width: 700
         height: 393
-  - title: "'Smile With Your Eyes': How to Beat South Korea's AI Hiring Bots and Land a Job"
-    excerpt: "SEOUL (Reuters) - In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
-    publishedDateTime: 2020-01-13T01:34:00Z
-    sourceUrl: https://www.usnews.com/news/top-news/articles/2020-01-12/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job
+  - title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
+    excerpt: "\"Don't force a smile with your lips,\" he told students looking for work in a recent session, one of many he said he has conducted for hundreds of people. \"Smile with your eyes.\""
+    publishedDateTime: 2020-01-13T10:02:00Z
+    sourceUrl: https://www.msn.com/en-au/news/techandscience/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job/ar-BBYTTTD?li=AAF3IbP
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 63
+      name: Reuters on MSN.com
+      domain: msn.com
+    quality: 33
     images:
-      - url: https://www.bing.com/th?id=ON.50BB60C1ABEB0EB56F3B371C2E2E471D
-        width: 700
-        height: 466
+      - url: https://www.bing.com/th?id=ON.51940CDDCF2F3040711C882195FBE50F
+        width: 600
+        height: 315
 
 secured: "tKjVPWb6wW3QwLBE4ysTEzZSCrt4FNeIniaFUiGouSrV+lSFZiRoFg+PBG6LTqUrnNok6tuLN3DhhXg9aLsLCslc0W8m/zyJto+AHMUmcOo8eKO8dmL9pAQ9aj8MH5SWWDSvxjixwKeNfV6qEGiCniEtgaunB7qWGCSRh38Xq2CAtPaofEmMzVE8wfF5Bkq6vBItSUAYbP0NgPq47PBdUKwU2zzT0Erzx0qsDVU5K1z8GzPTvo6pXcXEdA2nFJMl1+5p+Ql8Cta56LfPTuru+Q==;L4deJCGQE1GbJ94dHIpWKQ=="
 ---

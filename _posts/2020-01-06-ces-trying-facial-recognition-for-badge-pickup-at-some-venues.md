@@ -245,6 +245,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6BB75D855E6454C157352ED13C05D579
         width: 615
         height: 384
+  - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
+    excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
+    publishedDateTime: 2020-01-14T01:31:00Z
+    sourceUrl: https://www.geekwire.com/2020/washington-state-lawmakers-debut-legislation-consumer-privacy-facial-recognition/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.2D7566ED8E4514B4C75B0BB4C820D4CD
+        width: 700
+        height: 392
   - title: "Facial recognition finally activated at New York school district"
     excerpt: "After receiving concerns over possible student privacy violations from students, civil rights activists and state officials, the Lockport City School District in Upstate New York on Thursday activated its facial recognition, which is designed to detect and preempt threats to campus safety. “I am pleased to report that the District has ..."
     publishedDateTime: 2020-01-06T23:16:00Z

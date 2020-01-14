@@ -68,6 +68,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C8AD5A1034544731C97682806DE07DFF
         width: 630
         height: 473
+  - title: "The Emerging Meta-Learning Oligopoly"
+    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
+    publishedDateTime: 2020-01-13T12:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A7EA15E38864FD6CAAFA47358E82BA8F
+        width: 600
+        height: 315
   - title: "Grilling the answers: How businesses need to show how AI decides"
     excerpt: "In a study based on interviews with 4,400 consumers, Capgemini found that their views on ethics and AI threaten both company reputation and the bottom line – 41% said they would complain in case an AI interaction resulted in ethical issues, 36% would demand an explanation, and 34% would stop interacting with the company. The results show that ..."
     publishedDateTime: 2020-01-09T13:18:00Z
@@ -227,6 +242,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FD1964989E5B81287E5D2E14B3093956
         width: 690
         height: 400
+  - title: "No “significant” loss of jobs from Artificial Intelligence in China"
+    excerpt: "Contrary to popular belief in China, Artificial Intelligence (AI) will not destroy as many jobs as they feared ... The national think tank further added that during China’s 14th Five-Year Plan, which starts in 2021, the rise of robots will not lead to “significant” job destruction. China is the leading force in the global rise of AI ..."
+    publishedDateTime: 2020-01-14T01:11:00Z
+    sourceUrl: https://hrmasia.com/no-signficant-loss-of-jobs-from-artificial-intelligence-in-china/
+    type: article
+    provider:
+      name: hrmasia.com
+      domain: hrmasia.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A980D33F16C85157D3F18B865A10EA08
+        width: 700
+        height: 394
   - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
     excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
     publishedDateTime: 2020-01-07T15:35:00Z

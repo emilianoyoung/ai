@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
-excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
-publishedDateTime: 2020-01-13T13:17:00Z
-sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
-ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
-cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+title: "The Emerging Meta-Learning Oligopoly"
+excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
+publishedDateTime: 2020-01-13T12:23:00Z
+sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
+ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: XDA Developers
-  domain: xda-developers.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.C8AD5A1034544731C97682806DE07DFF
-    width: 630
-    height: 473
-    title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+  - url: https://www.bing.com/th?id=ON.A7EA15E38864FD6CAAFA47358E82BA8F
+    width: 600
+    height: 315
+    title: "The Emerging Meta-Learning Oligopoly"
 
 related:
   - title: "AI’s key to true intelligence is learning how to forget"
@@ -54,21 +58,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
         width: 796
         height: 417
-  - title: "The Emerging Meta-Learning Oligopoly"
-    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
-    publishedDateTime: 2020-01-13T12:23:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
+    publishedDateTime: 2020-01-13T13:17:00Z
+    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
+    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: XDA Developers
+      domain: xda-developers.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.A7EA15E38864FD6CAAFA47358E82BA8F
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.C8AD5A1034544731C97682806DE07DFF
+        width: 630
+        height: 473
   - title: "How Baidu uses Artificial Intelligence to trace missing people in China"
     excerpt: "Artificial Intelligence (AI) is not just another technology but also could be a powerful disruptive tool for public welfare as has been demonstrated by Chinese tech major Baidu. The company has used AI in China to find nearly 9,700 missing people and also help visually-impaired people. Its successes can be replicated in India. In a talk at IIT ..."
     publishedDateTime: 2020-01-08T16:38:00Z
@@ -318,6 +322,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Or4itar6J/Ti4ROTFg62wSWsBdqyXFEeCFRC+h8msMGw2bgTlR3EILdllnQTU0v86VBpyIBBRCNXxiBE5d6PPQJXurnR1mYeQuEXut79dCK7K8aYJ6bfwPrVYKCEl/wqGzbR37OEPlvBYQGpVr+QzVmHLzPeT2I5ZBv0F8JqQ2ZY1rrbPf8R2U71yvw5cm72THQjIUDQDRJnRMJ6ErJIfWyBlgn2GRwmMmiTWWhRRCTgR80AiZq/0v1WAN5vU8Ts1ZWDXiZMKvBnHodRgn2CFg==;/OVGfFJiEdrOrsngtyIcaA=="
+secured: "8C3JEqx8x+fpQLS0lwYMkGZwc8yeTmW1/obyspgH8DGFYtKG1ci2hlSqERtC5iR25k/C4MU1fBbr+uxc5mgenMoFc6W8uUZ7q6RSY23cZ97gYIaHhJESKOVrTvWUSgZOfKXnJkpuvOPSK8igB5hCvViCLggj1AVXmRnV311VJSy+PC6cs6W5hlKv4i3DgFWTTe35QBn67Aa6mQFmCluZYjqKRH0pZVDjpCIlqzTdpHNuMhZyZZ8Qw5lW3Mf93oWzXUvkZBBvOx8QgHnjKbjSwQ==;6ACuROBS13FZOYnXO+iNvA=="
 ---
 

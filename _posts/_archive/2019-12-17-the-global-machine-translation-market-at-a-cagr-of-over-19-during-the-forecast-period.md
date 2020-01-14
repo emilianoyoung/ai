@@ -1,31 +1,25 @@
 ---
 category: news
 title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-publishedDateTime: 2019-12-17T19:26:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
+publishedDateTime: 2019-12-17T19:35:00Z
+sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
 type: article
-quality: 31
-heat: 31
+quality: 11
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-
 related:
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
-    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and ..."
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
     publishedDateTime: 2019-12-24T11:15:00Z
     sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
     type: article
@@ -33,16 +27,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
 
-secured: "ZKyAqvz4oDAHIM+o6VscCA0sZ37xYyF9ifV9+A8AZOIGKC+SdOQ4NxXD1zVs7gxAkKuUUc3P30r+jAL+dO7/gdkSBgjnJygCxRNNUyEobvN8jDq0ug66HF14ZdDnCaDuvOKLvBYuOxSPr1BZ6h6CK4jhXhseIupw421XLeqmjyZoCEiuPhdw8VdYOITidtsDzkj+kVwJ9CkOR8VdzV4FtjqnZfzBmS6qu/sfYedv12zdmLEI857GBUvT/X13aN80Ga08k4z6Z+1xfZ/JbY+K4w==;/8hwnB4/ucLEyxFqQk0RwQ=="
+secured: "96inus82VOOYKHonlU84IpDut9C0C/bXT8lnjqEzVLDj/t36wc+CEhmlL6hbqSZ7Tt8ydDirNQ77mXTMrfCPV5Oa++PpDRlegTwpi5VrCE/mOuIslGMQ8OqQiuMv6/dIkwUEZK3nrhpy0czhJSHzGOTZHeGiLWR2JmMq2C8oyN/iC3wX93epdQPc0MsYoUR33T/FweMqwvjl+sotkgS1LsHnM2TSZ8TwZdsa1ipPjsXOpUTY+1pn0+74uPTybqiz08xr22lhu7LLfWFHcZgScQ==;3z7kgDRqKOPIqe8yYdkCfA=="
 ---
 

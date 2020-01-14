@@ -1,21 +1,19 @@
 ---
 category: news
-title: "At CES, facial recognition creeps into everything"
-excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what a world where facial recognition is everywhere would feel like. \"Hello, Alfred,\" said a measured, robotic voice, startling me. It came from a ..."
-publishedDateTime: 2020-01-10T13:04:00Z
-sourceUrl: https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/
-ampUrl: https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
-cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
+excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
+publishedDateTime: 2020-01-14T01:31:00Z
+sourceUrl: https://www.geekwire.com/2020/washington-state-lawmakers-debut-legislation-consumer-privacy-facial-recognition/
 type: article
-quality: 89
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
+  name: GeekWire
+  domain: geekwire.com
   images:
-    - url: /assets/images/organizations/cnet.com-50x50.jpg
+    - url: /assets/images/organizations/geekwire.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,10 +22,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.EAEF1BE6F316E27F496AB95D91A90445
+  - url: https://www.bing.com/th?id=ON.2D7566ED8E4514B4C75B0BB4C820D4CD
     width: 700
-    height: 525
-    title: "At CES, facial recognition creeps into everything"
+    height: 392
+    title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
 
 related:
   - title: "City Employee Claims SDPD Hid Information on Facial Recognition Program"
@@ -86,6 +84,21 @@ related:
     quality: 89
     images:
       - url: https://www.bing.com/th?id=ON.BB67FFF39EEB9CF42BA57B614F8764BD
+        width: 700
+        height: 525
+  - title: "At CES, facial recognition creeps into everything"
+    excerpt: "Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed bandits. During a visit to its Las Vegas headquarters to hear more about its plans, I quickly discovered what a world where facial recognition is everywhere would feel like. \"Hello, Alfred,\" said a measured, robotic voice, startling me. It came from a ..."
+    publishedDateTime: 2020-01-10T13:04:00Z
+    sourceUrl: https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/
+    ampUrl: https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.EAEF1BE6F316E27F496AB95D91A90445
         width: 700
         height: 525
   - title: "Facial recognition creeps into everything at CES 2020"
@@ -234,19 +247,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6BB75D855E6454C157352ED13C05D579
         width: 615
         height: 384
-  - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
-    excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
-    publishedDateTime: 2020-01-14T01:31:00Z
-    sourceUrl: https://www.geekwire.com/2020/washington-state-lawmakers-debut-legislation-consumer-privacy-facial-recognition/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 60
-    images:
-      - url: https://www.bing.com/th?id=ON.2D7566ED8E4514B4C75B0BB4C820D4CD
-        width: 700
-        height: 392
   - title: "CES trying facial recognition for badge pickup at some venues"
     excerpt: "CES is piloting facial recognition kiosks that can streamline badge pickup at some venues at this year’s show. The Consumer Technology Association, which sponsors CES, has placed kiosks with facial recognition technology across some of the trade show’s 11 venues, including the Westgate, Mandalay Bay and the Las Vegas Convention Center’s ..."
     publishedDateTime: 2020-01-06T22:53:00Z
@@ -748,6 +748,6 @@ related:
         width: 480
         height: 270
 
-secured: "ggWehkokVcRJTKIWBqRFMAB3ArzK3A7jHgmnWierLoVkNLvkkUe2HYzFZgwneiRZvyV80czr1vBXzcqw0WWrkK5rr9eQEZjujXQKIX8VKov1GknAb5RoZW6RUZiwByZ32Mt1B3ahLdLw3tiW8TqM+pGxkdOUneEJa7c4Du8zeg8A3wD77xW7IZzJsqM4pkTQ4GEhiYhbrSG0lE0izpqVoEiz6PfHozTaFidyGrHk5vJiDTUD8MhLWG8y4Z/VNwN8irKxMldolje6SNfFdEBCeA==;jc3GPxSizkKpxvZBgoxFTA=="
+secured: "tvb3uBTyyyoSurctTZGKt43pV3M3vbGNrhgowqC9PzGwT3QBCIsAWwv3Ax6PMorw7yrvJeAzxue4WYZwMfG06GkK/gey9Bxq9mtsHr43J5oFPad0PfCNIX9sig6UDP82vYnaD31OWKjZU/N3npG86yOokkzFiUaATFZnnEKmd7bbu8NabEeUkYjdmA/MncZeVhyplsHJ7jbPtVaiI43w1jHt+O0/29HdNrc3VInTGJ/RIPNks7KkWMyP9VCbadkpFXFbXKAJ1FLF6kc5t6/lOg==;so6RAsoki8HFtRkmDg5UYQ=="
 ---
 

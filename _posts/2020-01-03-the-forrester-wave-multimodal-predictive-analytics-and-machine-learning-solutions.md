@@ -46,15 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D84A7E9BD027D93ECA99E28B7614612A
         width: 700
         height: 395
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-25T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "hcAG5lt5CjEVJ9W9j4+Id52SHkNsnOT9Gly2oDF0YQdmiGSjrZ1yn/5KD0o2YzwumTQpXSAYQIIBs9/YVWJH/ASS7MpTTSS2aUo63kLwBYZTfAAsLF36YyLb0FvbCRpedU7sUp45c5GoxHbfvf691A6NofaFP/3rNlWCkdFAo6uE5GUVvIzYoqkmO9xQyyk59Tt16xz4Cf/ejEBRfJ3uA2t1Qb83cvxW3nBQayvlLdBDOVLXQHi9SgDnqQqm9GD3iYcExI08ccY9iCCY8wva1A==;1foY3pIPOcvawe7J87v29g=="
 ---

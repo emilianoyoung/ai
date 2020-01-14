@@ -67,6 +67,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C8AD5A1034544731C97682806DE07DFF
         width: 630
         height: 473
+  - title: "The Emerging Meta-Learning Oligopoly"
+    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
+    publishedDateTime: 2020-01-13T12:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A7EA15E38864FD6CAAFA47358E82BA8F
+        width: 600
+        height: 315
   - title: "How Baidu uses Artificial Intelligence to trace missing people in China"
     excerpt: "Artificial Intelligence (AI) is not just another technology but also could be a powerful disruptive tool for public welfare as has been demonstrated by Chinese tech major Baidu. The company has used AI in China to find nearly 9,700 missing people and also help visually-impaired people. Its successes can be replicated in India. In a talk at IIT ..."
     publishedDateTime: 2020-01-08T16:38:00Z
@@ -241,6 +256,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FD1964989E5B81287E5D2E14B3093956
         width: 690
         height: 400
+  - title: "No “significant” loss of jobs from Artificial Intelligence in China"
+    excerpt: "Contrary to popular belief in China, Artificial Intelligence (AI) will not destroy as many jobs as they feared ... The national think tank further added that during China’s 14th Five-Year Plan, which starts in 2021, the rise of robots will not lead to “significant” job destruction. China is the leading force in the global rise of AI ..."
+    publishedDateTime: 2020-01-14T01:11:00Z
+    sourceUrl: https://hrmasia.com/no-signficant-loss-of-jobs-from-artificial-intelligence-in-china/
+    type: article
+    provider:
+      name: hrmasia.com
+      domain: hrmasia.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A980D33F16C85157D3F18B865A10EA08
+        width: 700
+        height: 394
   - title: "Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG"
     excerpt: "Additionally, we present a visualisation method enabling clinicians to visualise which part of the ECG signal (e.g., T-wave, ST-interval) is significantly associated with the hypoglycemic event in each subject, overcoming the intelligibility problem of deep-learning methods. These results advance the feasibility of a real-time, non-invasive ..."
     publishedDateTime: 2020-01-13T10:10:00Z

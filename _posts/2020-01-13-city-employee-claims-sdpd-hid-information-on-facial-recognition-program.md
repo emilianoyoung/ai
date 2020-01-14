@@ -8,7 +8,7 @@ ampUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-inf
 cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 174
-heat: 694
+heat: 704
 published: true
 
 provider:
@@ -230,6 +230,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6BB75D855E6454C157352ED13C05D579
         width: 615
         height: 384
+  - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
+    excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
+    publishedDateTime: 2020-01-14T01:31:00Z
+    sourceUrl: https://www.geekwire.com/2020/washington-state-lawmakers-debut-legislation-consumer-privacy-facial-recognition/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.2D7566ED8E4514B4C75B0BB4C820D4CD
+        width: 700
+        height: 392
   - title: "CES trying facial recognition for badge pickup at some venues"
     excerpt: "CES is piloting facial recognition kiosks that can streamline badge pickup at some venues at this year’s show. The Consumer Technology Association, which sponsors CES, has placed kiosks with facial recognition technology across some of the trade show’s 11 venues, including the Westgate, Mandalay Bay and the Las Vegas Convention Center’s ..."
     publishedDateTime: 2020-01-06T22:53:00Z

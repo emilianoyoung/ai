@@ -42,19 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5B5603986854F8B787B443270BBEC2A0
         width: 700
         height: 393
-  - title: "'Smile With Your Eyes': How to Beat South Korea's AI Hiring Bots and Land a Job"
-    excerpt: "SEOUL (Reuters) - In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
-    publishedDateTime: 2020-01-13T01:34:00Z
-    sourceUrl: https://www.usnews.com/news/top-news/articles/2020-01-12/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 63
-    images:
-      - url: https://www.bing.com/th?id=ON.50BB60C1ABEB0EB56F3B371C2E2E471D
-        width: 700
-        height: 466
   - title: "South Korean job applicants are learning to trick AI hiring bots that use facial recognition tech"
     excerpt: "Video interviews using facial recognition technology to analyse character are key, according to Park. “Don’t force a smile with your lips,” he told students looking for work in a recent session, one of many he said he has conducted for hundreds of people. “Smile with your eyes.” Classes in dealing with AI in hiring, now being used by ..."
     publishedDateTime: 2020-01-13T05:08:00Z
@@ -70,6 +57,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CA35586C180BB502D5048AE522628AA4
         width: 700
         height: 367
+  - title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
+    excerpt: "\"Don't force a smile with your lips,\" he told students looking for work in a recent session, one of many he said he has conducted for hundreds of people. \"Smile with your eyes.\""
+    publishedDateTime: 2020-01-13T10:02:00Z
+    sourceUrl: https://www.msn.com/en-au/news/techandscience/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job/ar-BBYTTTD?li=AAF3IbP
+    type: article
+    provider:
+      name: Reuters on MSN.com
+      domain: msn.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.51940CDDCF2F3040711C882195FBE50F
+        width: 600
+        height: 315
 
 secured: "PkiKiULoVx+iJV0O2JtmX4xhWuKqcU8+sIllnMWUP44ndXrleAPhbEPouNeCKaKHvEkBeSi6VZlKSYOY07gnAKmWK2zyThwlhebib+d3Xp7o68JZEnpoRxsxLJKPEVOGGxjNj2DB/k36lzXHk8lZzKMs+GaCI3LbG1veteeHNVKWZJjfXyJW/J2Uev5+AhI4dZrX0BG+NUP93FSNMuNv6mU0OeEfNwbl19+nMzxZh9kzt5GaSTqcJOvOiIb7MEhSNl0iKFwcdH0qJAlFIcUhUn9FrwBxNTPM9MqwUtdrcdE=;LKZRvI2fdIL+h2sxUp3+Yg=="
 ---

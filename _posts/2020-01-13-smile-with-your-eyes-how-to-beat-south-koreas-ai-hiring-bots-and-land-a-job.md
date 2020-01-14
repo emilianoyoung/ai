@@ -1,30 +1,26 @@
 ---
 category: news
-title: "'Smile With Your Eyes': How to Beat South Korea's AI Hiring Bots and Land a Job"
-excerpt: "SEOUL (Reuters) - In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
-publishedDateTime: 2020-01-13T01:34:00Z
-sourceUrl: https://www.usnews.com/news/top-news/articles/2020-01-12/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job
+title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
+excerpt: "\"Don't force a smile with your lips,\" he told students looking for work in a recent session, one of many he said he has conducted for hundreds of people. \"Smile with your eyes.\""
+publishedDateTime: 2020-01-13T10:02:00Z
+sourceUrl: https://www.msn.com/en-au/news/techandscience/smile-with-your-eyes-how-to-beat-south-koreas-ai-hiring-bots-and-land-a-job/ar-BBYTTTD?li=AAF3IbP
 type: article
-quality: 63
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: /assets/images/organizations/usnews.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Reuters on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.50BB60C1ABEB0EB56F3B371C2E2E471D
-    width: 700
-    height: 466
-    title: "'Smile With Your Eyes': How to Beat South Korea's AI Hiring Bots and Land a Job"
+  - url: https://www.bing.com/th?id=ON.51940CDDCF2F3040711C882195FBE50F
+    width: 600
+    height: 315
+    title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
 
 related:
   - title: "'Smile with your eyes': Here's how to beat South Korea's AI hiring bots and land a job"
@@ -71,6 +67,6 @@ related:
         width: 700
         height: 367
 
-secured: "hn6ls84wsNjckafu9RG6jHc3FXYrQ9RjwfAg0iZINXAYDVs3Ez0uElWQSJJ8vPnAexQg4aKHEne7jNlQZ79pzufY4qhJyx+y9V2zftde5mvMaPwBvXxazmDJgoVXz7z96bCedtzewS7woPUAbHsoyhtZCPIoxxm4ItZpIqhtaRZ4p85Y79SwX+crxa17m3IcDikdd9zTEvLAvGexhhlgGU72kU4FLLNWVxbm3R26Jopk4hZstsrdfmxbZ0yMk4rXnrdw0Er3xgSsvBLqphRw+A==;l/eIfIKYzXm65DLgQ2E6Zg=="
+secured: "+bXAWK6LZrJT0OoBclg9YW3fQxYLq8fnvsVKFXnEc0eakcUNHORGv7ymuUoHULQ09D05KnTR+PwrWOfUil6XkYqrG/lL+3kyUHIkPqEkYCWHug8+LD014XOBv+ZqffaIN+zEhvRSmhy5OMZJUt6HTctGYCs6uum6dB4k0mQ5L+aoP65xuGtCQTv4/pLrylzVI3mV/yrjuPxYb0n/mV7raOLRDFp2SY+WdxyzbF5yoGEFkycJz6V62MDFQdrpj867XvxQQF9tzSqS5mrXY+83Sg==;2diG3kCQW5WDfdYz5B0njA=="
 ---
 

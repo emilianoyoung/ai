@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
-excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
-publishedDateTime: 2020-01-13T13:17:00Z
-sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
-ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
-cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+title: "No “significant” loss of jobs from Artificial Intelligence in China"
+excerpt: "Contrary to popular belief in China, Artificial Intelligence (AI) will not destroy as many jobs as they feared ... The national think tank further added that during China’s 14th Five-Year Plan, which starts in 2021, the rise of robots will not lead to “significant” job destruction. China is the leading force in the global rise of AI ..."
+publishedDateTime: 2020-01-14T01:11:00Z
+sourceUrl: https://hrmasia.com/no-signficant-loss-of-jobs-from-artificial-intelligence-in-china/
 type: article
-quality: 74
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: XDA Developers
-  domain: xda-developers.com
+  name: hrmasia.com
+  domain: hrmasia.com
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.C8AD5A1034544731C97682806DE07DFF
-    width: 630
-    height: 473
-    title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+  - url: https://www.bing.com/th?id=ON.A980D33F16C85157D3F18B865A10EA08
+    width: 700
+    height: 394
+    title: "No “significant” loss of jobs from Artificial Intelligence in China"
 
 related:
   - title: "AI’s key to true intelligence is learning how to forget"
@@ -54,6 +52,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
         width: 796
         height: 417
+  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
+    publishedDateTime: 2020-01-13T13:17:00Z
+    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
+    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    type: article
+    provider:
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.C8AD5A1034544731C97682806DE07DFF
+        width: 630
+        height: 473
   - title: "The Emerging Meta-Learning Oligopoly"
     excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
     publishedDateTime: 2020-01-13T12:23:00Z
@@ -243,19 +256,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FD1964989E5B81287E5D2E14B3093956
         width: 690
         height: 400
-  - title: "No “significant” loss of jobs from Artificial Intelligence in China"
-    excerpt: "Contrary to popular belief in China, Artificial Intelligence (AI) will not destroy as many jobs as they feared ... The national think tank further added that during China’s 14th Five-Year Plan, which starts in 2021, the rise of robots will not lead to “significant” job destruction. China is the leading force in the global rise of AI ..."
-    publishedDateTime: 2020-01-14T01:11:00Z
-    sourceUrl: https://hrmasia.com/no-signficant-loss-of-jobs-from-artificial-intelligence-in-china/
-    type: article
-    provider:
-      name: hrmasia.com
-      domain: hrmasia.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A980D33F16C85157D3F18B865A10EA08
-        width: 700
-        height: 394
   - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
     excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
     publishedDateTime: 2020-01-07T15:35:00Z
@@ -318,6 +318,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Or4itar6J/Ti4ROTFg62wSWsBdqyXFEeCFRC+h8msMGw2bgTlR3EILdllnQTU0v86VBpyIBBRCNXxiBE5d6PPQJXurnR1mYeQuEXut79dCK7K8aYJ6bfwPrVYKCEl/wqGzbR37OEPlvBYQGpVr+QzVmHLzPeT2I5ZBv0F8JqQ2ZY1rrbPf8R2U71yvw5cm72THQjIUDQDRJnRMJ6ErJIfWyBlgn2GRwmMmiTWWhRRCTgR80AiZq/0v1WAN5vU8Ts1ZWDXiZMKvBnHodRgn2CFg==;/OVGfFJiEdrOrsngtyIcaA=="
+secured: "A6a97dv2WqeF2lM9O0d4asUW2Bbxs+9plwH8RIkt+rxhTvNpDqH232INpG25AgZQNpPWHDKwSF6o7HS8kZd8jFCgmum/dv+TbaSJy7mdxXuDEf76kx8OMHLdhnlAzYE+1iN/m6A4tzXc3cyf3ONEV/i34Tq30jgyHuSCJa0tmrV6K/jERQZPfdQ3swid4lmrql44fxb0zH0nmCt9HejEmmJFBffKVe+CunD7sR/JhaR1NwhpR92yCPwF3cSyIH8TAVvLd32hrAaD76Q3XFBp3g==;gME9Ap62K+VFMyEvSR3s1w=="
 ---
 
