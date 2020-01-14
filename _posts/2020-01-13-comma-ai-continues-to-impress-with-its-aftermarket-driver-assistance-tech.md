@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Comma Ai continues to impress with its aftermarket driver assistance tech"
-excerpt: "Now with more driver monitoring. Way back in 2016 I flew out to Las Vegas to check out Comma Ai's driver's assistance system crammed into an Acura. At the time, it was being developed as a self-driving add-on for vehicles. But times have changed and nearly every automaker and startup has since dialed down their autonomous expectations."
-publishedDateTime: 2020-01-13T19:00:00Z
-sourceUrl: https://www.engadget.com/2020/01/13/comma-two-openpilot-hands-on/
-ampUrl: https://www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
+excerpt: "Way back in 2016 I flew out to Las Vegas to check out Comma Ai's driver's assistance system crammed into an Acura. At the time, it was being developed as a self-driving add-on for vehicles. But times have changed and nearly every automaker and startup has since dialed down their autonomous expectations."
+publishedDateTime: 2020-01-13T20:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/comma-ai-continues-to-impress-with-its-aftermarket-driver-assistance-tech/ar-BBYUQx8
 type: article
-quality: 86
-heat: 96
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.017683CE8999323C8FDA47C29CBEEB36
+  - url: https://www.bing.com/th?id=ON.CABAAB5731864BF363E8A1493D9EEAE8
     width: 700
-    height: 393
+    height: 367
     title: "Comma Ai continues to impress with its aftermarket driver assistance tech"
 
 related:
@@ -45,6 +39,6 @@ related:
         width: 700
         height: 387
 
-secured: "0WAw5HmDuRtVJE4cglpnHMMso2zpDxVE3Io7hcoWm5yJM4VrcRrsZJic6hgbyf4e0X5n03QbLFtbom2qb6n6cZ7AoJvpnkb468AGBarKrBSdc1Q0EyF5lxmZfQGGxkCk2Vqxb1LjJ2Kn4AQIDnvjzLk7nGYoLjCpZuqOQmYpguMi+oE3NiPxJT1Qikz8cMbyZXO88ykwATIv/b9sqVJmvqlPNl2xFjL6C4+FF8to8kVOVLt1yLznI08u6Wq+lpBLohMZ4KdmE5TKMZLcvcEiVw==;VR5EHLIuCYP+kUtgFdF0JA=="
+secured: "22l3VU8wrH3VzDxkZ8CBeFLugPXkGxoFCkD147WpwJ+4QFTr2y8QuaXtkItdR5ei2xx1fQGez7HX/mEJuzKMJ1YGj8LErdcP6T+YiKaSDyjFyRK3kv0PCMmYBWYEItyHvjtD8rjCfqhAWSaMnOMviqeAZl4YzRN1Ir9Re1hTBBTdS+zZ9a1YIQ4hhKzIxa0ynfojqDopGNSEtJ4vVVyx0ke9VUUB8fwpZrcIPFWuN5uZ4TLrJ2rhL7urs3gkCVe9Oy369obHNOVlRU+khAM+dQ==;jx1PYPxeASMq5gR7IoY8fw=="
 ---
 

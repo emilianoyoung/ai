@@ -1,7 +1,7 @@
 ---
 category: news
 title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
-excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something ..."
+excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
 publishedDateTime: 2020-01-06T06:37:00Z
 sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
 type: article
@@ -133,6 +133,6 @@ related:
       domain: heraldscotland.com
     quality: 34
 
-secured: "CRQpF5daDOVQYk/BfYhQ8nqjQxiQla8dZuOhtz5wS0BfLfTs2IvyMJOPyCw7CwhWfsgWcUHmxFzCPB7OD3f6Cae2+pSdJ6RhxjvgWmR01vd1q8eImswjFcF2JEIT6f79lGnhJzurOLV9v9VeVUOwBsFlm/GH/p0ThlEBHEtPORV7iBNYZbsJEtpVg5AyEG2ukH/wFXBWFulH5veWP2wan6WsuJj+GiZlkhh3tLGsNVXu19DgMt32x/yO1PwEH/kiZPZy9pKUIESu9PJOfKVTfg==;ziyCPjNOuNPMuzT5OajKtw=="
+secured: "TTQvW3NIYYS1hDlDN2ahJWxsqGLGf28jv3RvPRsy3+qgJRYrBJ87709DJWkTWm8ZYdx1l6bZIWeJsvBFhpDmsqaC8LO+8zyr801hVIHSHCFlI8a3zzaeAcGMM1Pn19jVj8WaQ7k5dyNc9y2F9gqy1kknsJjY6FJESJhTyQ1ofwllJTqNn9LJGNhuNHEUQE/3XgpX4AQW9blDba7TMCRSjIhLUXPe9kb04h6zlqDRneRZ/8b5CO6ehui7MgB+xEQg6sjZ98moLV+BIVfJY8iInQ==;8WcvUfpp9qgg39Wa2ARsFw=="
 ---
 

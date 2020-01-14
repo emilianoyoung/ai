@@ -26,6 +26,21 @@ images:
     title: "Voice Recognition technology and its growing influence"
 
 related:
+  - title: "Clay County using facial recognition technology to help find lost pets"
+    excerpt: "CLAY COUNTY, Fla. – Clay County Animal Services is going high-tech to help reunite lost dogs and cats with their owners Animal Services announced Monday that it is partnering with Finding Rover, which uses facial recognition technology to compare photos of missing and found pets in the area to make an instant match."
+    publishedDateTime: 2020-01-14T02:54:00Z
+    sourceUrl: https://www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/
+    ampUrl: https://www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/?outputType=amp
+    cdnAmpUrl: https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/?outputType=amp
+    type: article
+    provider:
+      name: News4Jax
+      domain: news4jax.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.326F3F48DC03D098FA2921054D493AE0
+        width: 700
+        height: 366
   - title: "Protest against police using facial recognition technology at the South Wales derby"
     excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
     publishedDateTime: 2020-01-12T15:37:50Z
@@ -54,32 +69,32 @@ related:
       - url: https://www.bing.com/th?id=ON.9858CF31353BA6E9246B5B662050FF27
         width: 700
         height: 466
-  - title: "AI Implementation Isn’t Just ‘Picking a Technology and Installing It’"
-    excerpt: "But actually applying these tools to the task correctly, and getting buy-in from the organization, isn’t guaranteed. Those who have worked with AI tools on a regular basis know that the “hype” of AI as a catch-all solution isn’t all it’s cracked up to be, and that while these tools can ultimately be rewarding, they’re not without work."
-    publishedDateTime: 2020-01-13T16:42:00Z
-    sourceUrl: https://www.law.com/legaltechnews/2020/01/13/ai-implementation-isnt-just-picking-a-technology-and-installing-it/
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
+    publishedDateTime: 2020-01-13T10:53:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 36
     images:
-      - url: https://www.bing.com/th?id=ON.3877A4D911E14CE82FAF07C5964EE482
-        width: 700
-        height: 437
-  - title: "Sensory Does Voice Recognition Without the ‘Net"
-    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
-    publishedDateTime: 2020-01-13T17:25:00Z
-    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
+      - url: https://www.bing.com/th?id=ON.60101A1A25E5C0D4E2CAC2B8C12BCFB3
+        width: 620
+        height: 500
+  - title: "Global Closed-circuit Television (CCTV) Camera Market 2019-2023 | Introduction of Deep Learning Technology to Boost Growth | Technavio"
+    excerpt: "Some vendors are integrating the latest technologies such as AI, deep learning, and machine learning with CCTVs to improve video surveillance capabilities. For instance, in 2018, Zhejiang Dahua Technology introduced IP-based cameras with built-in facial recognition technologies backed with AI deep learning algorithms for real-time monitoring."
+    publishedDateTime: 2020-01-13T20:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005538/en/Global-Closed-circuit-Television-CCTV-Camera-Market-2019-2023
     type: article
     provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 26
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
     images:
-      - url: https://www.bing.com/th?id=ON.38827D8C71B2B8C8B9E48890AA662E78
+      - url: https://www.bing.com/th?id=ON.0E8EBFA5AD18E246557FE740268D9435
         width: 700
-        height: 466
+        height: 365
 
 secured: "mgnfRt7nIPlIZUJ+cHukTs98xmxytyhpZ4xBLH1a+Ukzmgv/M3kEXhZNLuAcM69jDS3FnjbsnuGvftzO2aip1x/TYZOPz212IaYpwRfwo8g/30G0FNcslDby6v/Nt0+qugVXPg+zJNbEUf5J+CC4u9gcqMnahkPull3vCnWIhBYtpNkrqeDGw/p+BkKBQLiezA/9+Ied36D8upB/HeHq0R95I60bXFybWd+PD2/K8IKKUYGLiUvZYVY08zsWqxcC2HlhfnZBkJNFtNSps1II2g==;Pzp1g3b/cr2g+5djlGnRHQ=="
 ---

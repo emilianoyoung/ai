@@ -1,44 +1,44 @@
 ---
 category: news
-title: "Protest against police using facial recognition technology at the South Wales derby"
-excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
-publishedDateTime: 2020-01-12T15:37:50Z
-sourceUrl: https://www.msn.com/en-gb/sports/news/protest-against-police-using-facial-recognition-technology-at-the-south-wales-derby/ar-BBYSAZK
+title: "Clay County using facial recognition technology to help find lost pets"
+excerpt: "CLAY COUNTY, Fla. – Clay County Animal Services is going high-tech to help reunite lost dogs and cats with their owners Animal Services announced Monday that it is partnering with Finding Rover, which uses facial recognition technology to compare photos of missing and found pets in the area to make an instant match."
+publishedDateTime: 2020-01-14T02:54:00Z
+sourceUrl: https://www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/
+ampUrl: https://www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/?outputType=amp
+cdnAmpUrl: https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/?outputType=amp
 type: article
-quality: 48
-heat: -1
-published: false
+quality: 59
+heat: 109
+published: true
 
 provider:
-  name: Wales Online on MSN.com
-  domain: msn.com
+  name: News4Jax
+  domain: news4jax.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
-    width: 600
-    height: 315
-    title: "Protest against police using facial recognition technology at the South Wales derby"
+  - url: https://www.bing.com/th?id=ON.326F3F48DC03D098FA2921054D493AE0
+    width: 700
+    height: 366
+    title: "Clay County using facial recognition technology to help find lost pets"
 
 related:
-  - title: "Clay County using facial recognition technology to help find lost pets"
-    excerpt: "CLAY COUNTY, Fla. – Clay County Animal Services is going high-tech to help reunite lost dogs and cats with their owners Animal Services announced Monday that it is partnering with Finding Rover, which uses facial recognition technology to compare photos of missing and found pets in the area to make an instant match."
-    publishedDateTime: 2020-01-14T02:54:00Z
-    sourceUrl: https://www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/
-    ampUrl: https://www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/?outputType=amp
-    cdnAmpUrl: https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/?outputType=amp
+  - title: "Protest against police using facial recognition technology at the South Wales derby"
+    excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
+    publishedDateTime: 2020-01-12T15:37:50Z
+    sourceUrl: https://www.msn.com/en-gb/sports/news/protest-against-police-using-facial-recognition-technology-at-the-south-wales-derby/ar-BBYSAZK
     type: article
     provider:
-      name: News4Jax
-      domain: news4jax.com
-    quality: 59
+      name: Wales Online on MSN.com
+      domain: msn.com
+    quality: 48
     images:
-      - url: https://www.bing.com/th?id=ON.326F3F48DC03D098FA2921054D493AE0
-        width: 700
-        height: 366
+      - url: https://www.bing.com/th?id=ON.41FAAE2A24FADA099D76759C162EAAF9
+        width: 600
+        height: 315
   - title: "Voice Recognition technology and its growing influence"
     excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
     publishedDateTime: 2020-01-11T11:43:00Z
@@ -96,6 +96,6 @@ related:
         width: 700
         height: 365
 
-secured: "cfwqFkTruam30tTrL8X2YLENK1Uk/DVzF3FsNSRczflswT4mQneshiDF+D7gVc9/UDjw0O+TjSV5tnn8po3eH4xUsBcp8mDfA6ImM2aR1NoQgq+guYLEiL9hU80tRGGNqdkKWuuBvnefRdFGQ+nFdCmlvHrvjnH94RXOyhajHJx9Ajpx4l+kS1I4RRobnEnWlFntHptCFOPtKSIouHIwN4F/Qbt09qX8Rt9d8jwMlbPMyrAqawLgFdvoOa18xn9wOJ0fGXDPq8KO6qsFkWII7g==;MOvfUz3bU1QP4BhMXFHapQ=="
+secured: "qBKdbboF3KCksenCZDuCKjGxnHyD1JdbNcbT0HQDslur9gD09ECihViNWZBCkOXAuC2jEql5P3WtQUKNszccB/Thd4peUFK0Jb/bNNUM+joDJr8D9JlL2XfVTfbGJVLuZkoNUW6feXyJVWTPcR5ogEsVJkBmUUNDbp+BxoFiMNzEWl/+WyrIZa8yjBEPAYoKqHTgrbpNBy6BppfLN/PGUzlQ0Tl5T203s5pOhclEqT9was11N4NeT6hM8yqblx7fyx8WMcJ/awp0NEI+pfdAjw==;LYXP+wxkCWVzP7VTmc9Y/w=="
 ---
 

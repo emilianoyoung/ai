@@ -57,6 +57,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 18
+  - title: "Numerati® Partners LLC's Dr. David K.A. Mordecai Presented at the CFTC's Second Annual Fintech Forward Conference"
+    excerpt: "Numerati® Partners LLC, a technology curation and enablement firm announced that Dr. David K.A. Mordecai presented at the U.S. Commodity Futures Trading Commission's (CFTC) Second Annual Fintech Forward Conference on October 24,"
+    publishedDateTime: 2020-01-14T02:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/numerati-partners-llcs-dr-david-150000161.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.548779FC106808AB80DD849D5DEC38C2
+        width: 400
+        height: 295
 
 secured: "KgWsuoIeCRwXiTVqLQnjx04S/BX5XJntCKSV2ymJNinRZRlUvCrjK8EQj46FdQXXKIdclrs5heJAOTXpk2+XBn41qUAcsJbL3cJUvot+iWzE7SA3Im4kaDW6FzJOPmpHIUAju2Dgs9bMBb9O8FIl47vP+wP6Vc+oY28zyWcvUjM2vEXTScqUdxr9cWEiynXMU5YrYrgFZ0J04wo1cz2bvJhaqYe77EuP9mO8ZOQ8+YGsFmaruQyAkf0Q96iEXJE9S9Sei6P6qphXvDPLMXRmJg==;6JFglhbNrhEaOMDdUdpRrA=="
 ---

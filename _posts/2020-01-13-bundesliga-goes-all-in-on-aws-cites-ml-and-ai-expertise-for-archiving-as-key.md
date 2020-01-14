@@ -2,25 +2,25 @@
 category: news
 title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-publishedDateTime: 2020-01-13T17:49:00Z
-sourceUrl: https://webuilddesign.com/bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key/
+publishedDateTime: 2020-01-13T15:31:00Z
+sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: webuilddesign.com
-  domain: webuilddesign.com
+  name: Cloud Computing
+  domain: cloudcomputing-news.net
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.18333DF6C5161292CD58FC1C25B128F4
-    width: 700
-    height: 441
+  - url: https://www.bing.com/th?id=ON.9134B1E5D6370F1F96CC3432E9463E21
+    width: 600
+    height: 378
     title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 
 related:
@@ -51,6 +51,6 @@ related:
         width: 700
         height: 392
 
-secured: "rUzbh5TdhiNcwpkTGIVDZEixW5OYaFmfAk6OGGr0QRzy5kZSp2jrawrt/ZgRWv3Vnc2XrWNqig5HYznsYWIcAbTagwata4zyMUwRY8T9VQHra1mlU2AktvyG7teiOXdYRQ+g4LNPs2Dj60rrbn+NSssG3DyMRz2PAgheGPZVj1NrQ7+/syR9pUFHHWmce178mEszF6dIFkMs36e0nP/PuTny1MqbzO5pMvPLaeU/JrIKtAxVJtAby+1UmXnT1sdcjYpnkbNL7H5amMEEVe5ThA==;c9r/d6ZNsbXcbasWLxBSTg=="
+secured: "5dgMjvg2LUOBl29VFdTrkk9C/aaPoL9HMwIvb5sFiQrdvDELS3rP0kuKrwWd2a9GdgVsIhWD1ZpBrfou/9Nv/c7AbNDaKuweBhdywjoas6sWX2sgcXObhM0gCG6S4G6aXp6XjtVVTS/mBiY08vjRc7mQt7bnyZjRlVzox53ZkQOCLVpVms415DxDRNPXf2aTy4uIgS7IhOQLj4mvAd1gDTo8mbRefqsg+uuHL6PYvIN9gZUgMkOSvVwNY+fZ/7rl+gosnDuG6oCz13h79JY6eg==;jvVv8pDlzN9FmktBXkhKwQ=="
 ---
 

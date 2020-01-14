@@ -403,6 +403,21 @@ related:
       - url: https://www.bing.com/th?id=ON.701F432868F9328BCD2446784C119EDC
         width: 700
         height: 379
+  - title: "Springfield City Council moves to ban facial recognition; says systems are unproven, inaccurate"
+    excerpt: "SPRINGFIELD — The City Council took its first steps Monday to ban, at least temporarily, the city’s use of facial recognition technology — a technology they say is inaccurate and likely to cast unwarranted suspicion on women and people of color. Councilor said they are also working to protect the general public from unnecessary surveillance."
+    publishedDateTime: 2020-01-14T01:27:00Z
+    sourceUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html
+    ampUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.1EE4C4BC10991ECD2F544E4E38199B80
+        width: 700
+        height: 507
   - title: "Telangana Election Commission to use facial recognition to verify electoral rolls: G Kishan Reddy"
     excerpt: "HYDERABAD: UNION Minister of State for Home Affairs G Kishan Reddy on Thursday said that Telangana State Election Commission (TSEC) would soon launch a pilot project using facial recognition technology to verify photo electoral rolls in the forthcoming municipal elections. He said that the use of facial recognition tools in the electoral ..."
     publishedDateTime: 2020-01-10T03:41:00Z

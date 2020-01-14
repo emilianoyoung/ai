@@ -24,49 +24,21 @@ images:
     title: "BlackBerry teams up with AWS for new connected vehicle software platform"
 
 related:
-  - title: "BlackBerry and Amazon are teaming up at CES to make cars smarter, more secure"
-    excerpt: "\"By working with AWS, we can provide automakers with a unique foundational software platform ... to provide drivers with leading cybersecurity resources and predictive maintenance information via the latest artificial intelligence applications.\""
-    publishedDateTime: 2020-01-06T19:44:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-blackberry-amazon-iot-cars-machine-learning/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-blackberry-amazon-iot-cars-machine-learning/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-blackberry-amazon-iot-cars-machine-learning/
+  - title: "LG hones focus on AI car platforms with Cerence and Luxoft"
+    excerpt: "LG Electronics (LG) has joined forces with Cerence to develop a new software solution that will help integrate LG's webOS Auto in-vehicle infotainment (IVI) system with Cerence's AI Reference Kit, a voice assistant platform for the automotive market. Under the signed memorandum of understanding, the companies will develop an AI voice system ..."
+    publishedDateTime: 2020-01-14T02:51:00Z
+    sourceUrl: https://www.zdnet.com/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/
+    ampUrl: https://www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.D85CEFD3C3E7A09DF788010540FD3E18
+      - url: https://www.bing.com/th?id=ON.94BE8D681F024A10C1FD0CF087B3F526
         width: 700
-        height: 367
-  - title: "BlackBerry collaborating with Amazon to deliver secure connected car platform"
-    excerpt: "The AWS-powered BlackBerry platform combines the two companies' edge and cloud technologies ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. The result is enhanced VVIP treatment for our discerning ..."
-    publishedDateTime: 2020-01-06T16:42:00Z
-    sourceUrl: https://crackberry.com/blackberry-collaborating-with-amazon-to-deliver-secure-connected-car
-    ampUrl: https://crackberry.com/blackberry-collaborating-with-amazon-to-deliver-secure-connected-car?amp
-    cdnAmpUrl: https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/blackberry-collaborating-with-amazon-to-deliver-secure-connected-car?amp
-    type: article
-    provider:
-      name: CrackBerry.com
-      domain: crackberry.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.2943D33E1162DB0A6B1D6D1B9C536BCC
-        width: 700
-        height: 365
-  - title: "BlackBerry and Amazon are teaming up at CES to make cars smarter, more secure"
-    excerpt: "\"By working with AWS, we can provide automakers with a unique foundational software platform ... to provide drivers with leading cybersecurity resources and predictive maintenance information via the latest artificial intelligence applications.\""
-    publishedDateTime: 2020-01-07T19:22:00Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/blackberry-and-amazon-are-teaming-up-at-ces-to-make-cars-smarter-more-secure/ar-BBYFTu4
-    type: article
-    provider:
-      name: CNET on MSN.com
-      domain: msn.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.D85CEFD3C3E7A09DF788010540FD3E18
-        width: 700
-        height: 367
+        height: 525
 
 secured: "7xlOLG+LN2Ja+6j/kFwQwmhEMb8V+dmGP77msfiuXx/NXLxxpgEDHyAkfD9OYJAYnDYp4gXzwxwq1ykZLJzGik8e8qoJPdFUbQDLSLerKYUrhcJ8ct7WOCokCcR+UaRWfRSpHrt9Mwq1xjprwYrGJ/T7SRrvb86bCaoRfwnp9jj3AxDhBYp3Ly3Ry3fwebDsuPVXDWaDiKseoETAeKe8THt++/JYl6zFXRaZLw+1P1CQUY4JbOma7/NSFxxPoUOguURYCpJjuq7N/Vgl1iQGLg==;u5YdmcCuwoRV7hnwnryusQ=="
 ---

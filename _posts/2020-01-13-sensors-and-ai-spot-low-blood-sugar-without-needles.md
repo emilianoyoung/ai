@@ -23,6 +23,21 @@ images:
     height: 400
     title: "Sensors and AI spot low blood sugar without needles"
 
+related:
+  - title: "Sensory Does Voice Recognition Without the ‘Net"
+    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
+    publishedDateTime: 2020-01-13T17:25:00Z
+    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.38827D8C71B2B8C8B9E48890AA662E78
+        width: 700
+        height: 466
+
 secured: "adwJ/WAaTnt5YmUbxzEu5Mf6bZAi7NggReChQO1UOxDFUAPme0GIeXtdSgn9LgEmyfUczQAsdhzhjWY7Nc3STCYHHGVFvt5+RvpdyNsa1eiaJRlealEgbG24lyfd66CdPdqJClAXwk52lvltayCMx//3JeH4qiMtrTTU0LZT1WsdSlMsVfxPiM6qL/wnWbWf/ffv3/sgJiIYCBzXVq64i3P2FoiOns5q2bWTm5C/N7q7toccwQq2oXyHwmeK0iM1WYF3NBFahxX05pp1u4tCdQ==;xtaL/ND716ITDxhflt1KDw=="
 ---
 
