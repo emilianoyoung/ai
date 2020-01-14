@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Raytheon building machine learning system that knows what it knows"
-excerpt: "CAMBRIDGE, Mass., Jan. 13, 2020 /PRNewswire/ -- Raytheon RTN is developing a machine learning technology under a $6 million contract from the"
-publishedDateTime: 2020-01-13T12:45:00Z
-sourceUrl: https://www.marketwatch.com/press-release/raytheon-building-machine-learning-system-that-knows-what-it-knows-2020-01-13
+excerpt: "is developing a machine learning technology under a $6 million contract from the Defense Advanced Research Projects Agency for the Competency Aware Machine Learning program."
+publishedDateTime: 2020-01-13T13:52:00Z
+sourceUrl: https://finance.yahoo.com/news/raytheon-building-machine-learning-system-134500065.html
+ampUrl: https://finance.yahoo.com/amphtml/news/raytheon-building-machine-learning-system-134500065.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/raytheon-building-machine-learning-system-134500065.html
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Raytheon building machine learning system that knows what it knows"
 
 related:
   - title: "Raytheon tapped for self-evaluating machine learning system"
@@ -44,6 +36,6 @@ related:
         width: 700
         height: 465
 
-secured: "wHGPEgwCxBDMQVxe04lLGmuN1z+IjUExhV0zbyeLcZeVuZ0h48LoeJ4t6Ir9dNG9s457ksPe53AKF0WfnGljR+IBmbY2W0+JvaYjicp/MvQQdyd70M4E/Oj6nprhees30M3bACX2dzP9eM9bs1SvWs5nqU6lUgeLEPSiDXwx01DKEeoHK86d8S0J+kr/lVdsKcVywr2Th0UFrMoUzgqPBZip3Gtje0XmArHeWwFh7V45VI6oNUaN7kistZ9FwD7dAPAN2UBp93z/QyUiyBM6zQ==;7fu9h6X+WSYyUwipqNYHzg=="
+secured: "7dz/nzXNIxiufRQod+W0rfAPWSnpb+HFpl5fI1oLINDkEwZDkEQ5VI6ViIRKUDbGP4y3dDO11J+0uV9q0vS2KsWF9SLWX+XALZpDKOtfMLa8riqwfXEesELx9v8X3/zLwQ/bFcikTbLvoX14f6gRi3N0Tnu9LUprlthxTlHEK+ikAUefHBS8l2xGQ/TUWbl4Sqrqp98psMmyCzTsdzDyjcivLYbulQhpjt41bZ7Vd0vV2Kh1shIZ3MgLPGzBm+YvhYF/S0/6vcUadOKp9Fwj6A==;F6oA+E78diBEQxVF1I8Qcw=="
 ---
 

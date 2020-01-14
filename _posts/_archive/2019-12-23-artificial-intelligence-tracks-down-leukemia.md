@@ -22,6 +22,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is a much-discussed topic in medicine ..."
+    publishedDateTime: 2019-12-20T16:53:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.html
+    ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/6-gene.jpg
+        width: 1920
+        height: 1080
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
     publishedDateTime: 2019-12-26T12:48:00Z
@@ -48,42 +63,7 @@ related:
       name: Deccan Chronicle
       domain: deccanchronicle.com
     quality: 39
-  - title: "AI detects acute myeloid leukemia with high reliability, study finds"
-    excerpt: "Researchers developed several artificial intelligence algorithms using a vast collection of transcriptome data ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
-    publishedDateTime: 2019-12-30T22:07:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/ai-detects-acute-myeloid-leukemia-with-high-reliability-study-finds.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
-        width: 400
-        height: 300
-  - title: "AI offers potential as diagnostic tool for acute myeloid leukemia"
-    excerpt: "We therefore wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence—that is to say trainable algorithms ... Possibly, the diagnosis would then happen earlier than it does now, and therapy could start earlier.” Although researchers have not yet developed such a test, they believe they have ..."
-    publishedDateTime: 2019-12-30T04:20:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/ai-offers-potential-as-diagnostic-tool-for-acute-myeloid-leukemia
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.53B79936261D63CFBA7628CAB2D0F224
-        width: 700
-        height: 367
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
-    publishedDateTime: 2019-12-20T16:27:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
-secured: "Wd83hTDzA5HFFUt16mON1fAtdC/pLlq76jg1AWejc80nh02RafT9VvqUGeZ0mfra7+zDdyVA+006aRysrc1tnYbtoOToHrQdbhaN9CpTq8pdG8SbQ6YuRXMs2YEncvplKgnsQESfqSgr6h2s/dujYeBks2tY+KV7DRAjyFaPzOC6sfaNqoNhiS/MXDCqlC8T2LiAeLarAOiSMYj5tngzbxuVjT06OqYOri6+2msx7pHteDIdSCM0b1YJ8Eqhf+Mh0r+j7iTV88YPa0Qszeng5w==;0+co9Ppucy0oskXfowdKtw=="
+secured: "h4Je0kvVmW+qs9PR8GCbzB1oBaospiSTO/QDAYNsuN68SZmX8UudIn5Jzcu259SbBADyXJMTxVSV2SRFOifN3W9y6ZDFH3ACNJa+Bge3K3Sv3Aq9IzZa3ooGnr7XI7fxqqwr1lk4DK3243MspzFC5Qlbl4qqVlZF4rgtw1rZAFy8tqDFHJETMKy0cj73dZ8yf//xMjNBdJz13SU6euM81krMre2cXPTPGpFQI+Vx7gk7/CksOGoXgyUVtfi65WTNZ/O9C/hmD0TphJqKhpfvsw==;72hcMHgkZkw3oGMEpgRMnw=="
 ---
 

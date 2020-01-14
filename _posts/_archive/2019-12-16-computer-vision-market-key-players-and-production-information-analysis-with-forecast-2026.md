@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T17:52:00Z
 sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -18,16 +18,29 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
-    publishedDateTime: 2019-12-16T16:43:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T19:26:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
+  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    publishedDateTime: 2019-12-24T11:15:00Z
+    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
-secured: "9RB7+fSXSWmt4LIFqP9Z+dvwzOhyVILjnyXJCIDcxLrtNnnw5Ie9DHAwJ0AcS+IoNxGnLZ0FFSfqWDnv3NI46+CGTlRa1GCflw+pU2TcJfjSbynyCaIdgZsYsA2uTGuZAcGzL5WWMvueVJSV3SvPslU+cqvHx/c4EKHPI+qMBSj3aPl/3J+JijvEDAFER0IxFdaDcDq5W0ov65HrsteyCoxsvo3UfHKYiwNBpNVicxnQ0zKEHsF7FHVrd/v5hipQRtwwpRkD9EmN7lCWA59/xw==;IwfCKhiFRDfg375GqTShZA=="
+secured: "45N2tWkO5bdI6QFgMhceg/XYXXctktOZCfeCkTVwDyMcXtvEY/OX9q7a4aAzjlj3s4n4UJwviMOLGOmlcf5Y8S5qz/TnDLMFl6gbDjfw8XPMPGQ37MmaUXolfBVvyxDQa6xVLu0tmPOje6MWY2csHK4sEwwUgtj8fX3L50UZrCSs6NNvTWJQz6dVvaC2L/5kzh7uAtPGHR2f3J/LjU8E2pgtNudGkqD2Fw5X297IiWvr0kwAXHHja9ZbHpqjg3ELsU96pbxkuect5OUUJkIvBg==;Br4heSe6Rx04C/mABY0lSA=="
 ---
 

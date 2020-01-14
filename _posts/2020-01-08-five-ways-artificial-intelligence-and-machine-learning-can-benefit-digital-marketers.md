@@ -40,7 +40,7 @@ related:
     provider:
       name: Business Insider India
       domain: businessinsider.in
-    quality: 49
+    quality: 51
     images:
       - url: https://www.bing.com/th?id=ON.8C80317A24D012A672722CB5815AC5B5
         width: 500

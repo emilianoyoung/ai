@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Digital Diabetes Global Market - Forecast to 2026"
-excerpt: "Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum therapy options in the patients suffering from ... technology advancements such as incorporating artificial intelligence to manage the diabetes are driving the market. However, privacy and data safety issues ..."
+excerpt: "/PRNewswire/ -- Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum"
 publishedDateTime: 2020-01-09T13:00:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/digital-diabetes-global-market---forecast-to/article_7a409362-c424-56c7-a666-4638e22b2ef2.html
+sourceUrl: https://www.prnewswire.com/news-releases/digital-diabetes-global-market---forecast-to-2026-300984276.html
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "Digital Diabetes Global Market - Forecast to 2026"
 
 related:
   - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
@@ -45,6 +51,6 @@ related:
         width: 700
         height: 450
 
-secured: "4aoNkH3d2UHQjjEdSaMNMugHFjnjUtRZz0Hiik2wILOWkIO33fnrl/bm6F9VOn6u4DWSFqtKrHaoDFr5Iau+EKR9v0VcH1JtyA09JmEJfnM24k8U/jV3xl5XOfadtN/817IUUDG4lZPfbnQQFAXyVkbS3Wi+rRISpUSpEQjAI4Hh69z/dna300pU4/YcGSmY67d/EVYwPlXB3RSYpinvR75cAqmhqoo4UsNYa6hUt/tzXbFP4sK5L1ZUxYVsX/me1lUiw05hjSr5rav640FFfw==;DRJ9SNQh7NH11GcROShdkQ=="
+secured: "VRzfUcI0l4SyHVBwGODX/Qtx05oGHwblGXLx7e95Mpq8xqaZfFGkT/6ls0bHXtEZ7q47i3IXZIBkEvSfkpix2t16rsyTFtJ9Xv+qatYwTfdp/m9Xl34/6In7IeiitLYRwtz7yGl4HIn1e6NRWdMixyLKqWRGP6Miw+FH+hXicThpY9nj4scfFnglLOFvg7rwQQ0xqlc6gMv15G1u3JpwTpEYdYSiIuckNpv8ec9R7os18QBHazCXYx8ZoZk4anaM/jFuqJ/V40pNcdOn0DD9VQ==;6rr8vQaKzY+3q+WCFFGJWQ=="
 ---
 

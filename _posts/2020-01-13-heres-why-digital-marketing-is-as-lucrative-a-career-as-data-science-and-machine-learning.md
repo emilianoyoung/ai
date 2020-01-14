@@ -7,7 +7,7 @@ sourceUrl: https://www.businessinsider.in/careers/news/heres-why-digital-marketi
 ampUrl: https://www.businessinsider.in/careers/news/heres-why-digital-marketing-is-as-lucrative-a-career-as-data-science-and-machine-learning/amp_articleshow/73218353.cms
 cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/careers/news/heres-why-digital-marketing-is-as-lucrative-a-career-as-data-science-and-machine-learning/amp_articleshow/73218353.cms
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: https://www.bing.com/th?id=ON.8C80317A24D012A672722CB5815AC5B5

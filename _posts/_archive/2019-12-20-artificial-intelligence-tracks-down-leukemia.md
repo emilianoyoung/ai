@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence tracks down leukemia"
-excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
-publishedDateTime: 2019-12-20T16:27:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
+excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is a much-discussed topic in medicine ..."
+publishedDateTime: 2019-12-20T16:53:00Z
+sourceUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.html
+ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://scx2.b-cdn.net/gfx/news/hires/2019/6-gene.jpg
+    width: 1920
+    height: 1080
+    title: "Artificial intelligence tracks down leukemia"
 
 related:
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
@@ -53,33 +61,7 @@ related:
       name: Deccan Chronicle
       domain: deccanchronicle.com
     quality: 39
-  - title: "AI detects acute myeloid leukemia with high reliability, study finds"
-    excerpt: "Researchers developed several artificial intelligence algorithms using a vast collection of transcriptome data ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
-    publishedDateTime: 2019-12-30T22:07:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/ai-detects-acute-myeloid-leukemia-with-high-reliability-study-finds.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
-        width: 400
-        height: 300
-  - title: "AI offers potential as diagnostic tool for acute myeloid leukemia"
-    excerpt: "We therefore wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence—that is to say trainable algorithms ... Possibly, the diagnosis would then happen earlier than it does now, and therapy could start earlier.” Although researchers have not yet developed such a test, they believe they have ..."
-    publishedDateTime: 2019-12-30T04:20:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/ai-offers-potential-as-diagnostic-tool-for-acute-myeloid-leukemia
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.53B79936261D63CFBA7628CAB2D0F224
-        width: 700
-        height: 367
 
-secured: "i8oUYRTlBM25JmIkKL0WWP1gkVx8sAosys0p4vpRs3V984w0cSb/v5i8F3blweWuvQ0wpNv/A3uecDfbbB2DPcvmb8C92Znnh/nZD/o1vQXO/XWygkM4Abzw9jntHPboc9S0jHCpczFpIFReQnWTIgw9+evXDXosiY8Q+qFsAPn8ePFDRNfFJ4d8aJE61AHqlH0Fbo0N/tVV0qAv1TR4afZp4SPMpUzLT4AXGnNby7aMCuCthrEjlbzHdnx+kFU0BjMb5dJT+G0+ePTJVyqdAA==;ycKyKAnTXKpyl0eGz/xkjQ=="
+secured: "WO5j6D1P9b5daGBM0BpyWfUzgprLfO6plCSwVRa4KwEwqL1dwMdzHW8FwcgMZ6wJetGs0i1rNMkhWL1TzyP3N8BNl5e54vT+iMMOdExcb64H0ZZ3YJV5UkdjE1JoehB0ZWEM6AADQOMUAv7+VP6NnPDB4nDEMqSmXFC23moyG4QraeUrq961FlGAr082RayIrvA7inYDORFgg35cbfyrs6w70mbfHeWL8J99WfzetEzC778bd+KRPV/lQOUcFz21+qjJaepFd0KcXgQmWajhgA==;jyPN67XNK/4PCr8lSledlg=="
 ---
 

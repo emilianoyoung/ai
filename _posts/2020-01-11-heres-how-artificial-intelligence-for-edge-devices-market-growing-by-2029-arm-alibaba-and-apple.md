@@ -38,14 +38,18 @@ related:
         width: 700
         height: 490
   - title: "Digital Diabetes Global Market - Forecast to 2026"
-    excerpt: "Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum therapy options in the patients suffering from ... technology advancements such as incorporating artificial intelligence to manage the diabetes are driving the market. However, privacy and data safety issues ..."
+    excerpt: "/PRNewswire/ -- Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum"
     publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/digital-diabetes-global-market---forecast-to/article_7a409362-c424-56c7-a666-4638e22b2ef2.html
+    sourceUrl: https://www.prnewswire.com/news-releases/digital-diabetes-global-market---forecast-to-2026-300984276.html
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
 
 secured: "UVjuY4FG4jvrt6N6U9c2bZFDhTf+7yf/pqWL+BIbg5sQ6PSrq7K3SsSmN+co8BYT49IYgecZ5Rb+WnfIrJ5/1KfpYx541xUZsicmIQyDiE3jihlpoYpgarJ2m27R43Wf3FpYKU4E9HX8WBWRlRJVZSZPq6VRyws4ikxeVCz4pFfeCG1v+3TvxRRw62484odnLEv0+2fkPjwc1tQ9i0vNDA5ZjNhQRXY3yTG6ewJ0HVYNYQkoX5VDP96MG8FrJNey1ziFG+NX/MGda5X4jd2VkA==;nqs2g/d28XA/afm8A4gNJw=="
 ---

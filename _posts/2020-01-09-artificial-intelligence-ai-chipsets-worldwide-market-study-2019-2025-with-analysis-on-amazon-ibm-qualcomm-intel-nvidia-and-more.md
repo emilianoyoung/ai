@@ -316,6 +316,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "uj1UhsTT399NAWYlCcsZV7EGTgg3GDo0OpByOtDf52rs3oqXrefGxcJKhpmIa4CR+RPJVoMPyDmpuIzItqssCZmDzRINtmkluL8cgo89b1Y3fXgA7W3HEz+Z9p6GR1buQtErkxTuAENYi9lhfLdUwZLap3AM8DoyVrMQibCSGYY/iF4nXNthg9m8BtzZ9c1dYBzrd4SjX6DcgAPAWz7ID6XGgpwnpofLcqW0kzRpHYXoJHCezredOW1rpgvJDHyPuE6Ai3vdZD1mNhkoy0Q+ug==;1qWHfRr9s+pNywKMHaVJLg=="
+secured: "dffQGuROth/+Faj2WYw7uh9QlGM1dPfH2En6VGSvVjgywYQxg7d82AEqU0Z1R+f3RyZH9oq2daTUCY2VrOeiHPvYYmMnVivkXXkfX6ZZui1EC8RDLwKNaGUeIpdBtoGIY79EzoOxlpCjm+6oqcy9rRhtj0OQg0Kg5+I0S/05TWiVUGkFcVMnoE+Ms8Is3ExJFycZyRL0WQPCvBv1AZ5LGlqLMKa+m+0PZQ7piFsXSm1Fk1+rDFaLCJ59yofBkVo+lB2MbLQenLMzykKrt+Pklw==;IFy/pUgvwMajpfSTgCYmmg=="
 ---
 
