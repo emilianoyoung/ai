@@ -26,6 +26,19 @@ images:
     title: "School district’s launch of facial recognition program sparks outcry"
 
 related:
+  - title: "CyberLink FaceMe AI facial recognition integrated with iMedtac’s Automatic Dispensing Cabinet"
+    excerpt: "CyberLink, a pioneer of AI and facial recognition technologies, announced that its FaceMe AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is powered by IoT and facial recognition technology, integrating into an AIoT iHospital service platform and enhancing ..."
+    publishedDateTime: 2020-01-08T03:32:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/08/cyberlink-faceme-ai-facial-recognition/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
   - title: "Lockport, N.Y., Schools Embrace Facial Recognition Software"
     excerpt: "(TNS) — Lockport City School District announced Thursday that it has begun using its controversial facial and object recognition surveillance system. The announcement on the district website came as a surprise, since administrators had previously told the Union-Sun & Journal they did not have a set date for launching the system. “I am ..."
     publishedDateTime: 2020-01-03T20:32:00Z
@@ -48,19 +61,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
-  - title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
-    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
-    publishedDateTime: 2020-01-05T23:14:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-image-and-facial-recognition-markets
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
-        width: 877
-        height: 432
 
 secured: "V6fF4KoDy9rmkoKRT9VqOQRJC5pJhRnocVEAHovFNYfEjWDpdMSygzGDv1Vf5LUgrLSaB2XQNGJ0sw+DXz3UPLbwmM4GSgrJ2W0o/0Y9qRaFPFO9Q+QwkLPrFXhEsTNlpQfzCnM66eO4TMYM5Nify1AoISXd7l+dhQ/egX7D8M79nsB9T/x960saDaWvx7YvRArCf/Hlk6VbyIogXKmgN9yhiarHlYob+LPeJosl/I6DfxJy/YOgFfXS9DVrAoaskLEbqgozuK8s5BzSuYMfOp1ga5aXTj9xY3CNo3pZVD6ppMhB7h3G1aglcq1ZUbClTZl+SsInuALYtMWYyDgYWqqPKfzqSAmG7SH3JDdvAMwOMRu6B1pLN2Sf1U2GUOAEGItfm4LnplassdmAfoo6X8FS8vjDEi4T54RJRP9njp4Jfq3bbt5Lnfbm+6NO+xpEiCya3Il4SKPCd/pRF5EfgQ==;PNQkJml3x/ZOY/G4/yJ2BA=="
 ---

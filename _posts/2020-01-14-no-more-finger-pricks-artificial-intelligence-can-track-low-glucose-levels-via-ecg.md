@@ -7,8 +7,8 @@ sourceUrl: https://www.medindia.net/news/no-more-finger-pricks-artificial-intell
 ampUrl: https://www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm
 cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/no-more-finger-pricks-artificial-intelligence-can-track-low-glucose-levels-via-ecg-192543-1.htm
 type: article
-quality: 53
-heat: 93
+quality: 153
+heat: 193
 published: true
 
 provider:
@@ -73,6 +73,6 @@ related:
       domain: miragenews.com
     quality: 12
 
-secured: "Vqgt1Sp7sy7B/iVxD9K6pR0YHxB+fj0w7tJH4AHnQlb+nXauJRHU1ZJrHfQCo1gVgegGY1lLYf9rwURX92vi3h5cUJZfWdQwfV4Q6W/xtxlNqItQE7RW1wGGI7EfdRdXlKsuLv4EyCazek97TuQdO5NogZLP+oOkth/o+J66MEqQTohlDNjcisHtJGr1+fK8mfqMU92m3vqpUb6Kv0LjfBTIVsqDktHsJV7sIOtOj3/FwUsWtaDVL0nGLFxPtW3oQ3v5fGnm9YU2zjPykgu5mERGeJeru6X86Zx547WhQ/ekGYlyDt92KAfdNvfbiCBT/Z87hVKR1pLZJYza7YyBuKyvFdRMWL71SviLPjlcQBaxpPe9SpHEgWPvTI0cJmraZXLug8g2ShPK88+UuXBrSkOaPVBpiV5py96FhIC1ceGIMmS1mH1n4Fl7xmHMOwR4xzbB4FGY9ITJop1XsAL2XQ==;GPZRz61VZOx8jaGmJcFksg=="
+secured: "Y1RxajwkpsXQo4oVElBnI7iKvPfzIx576SQJ8rKDJ9/7/HDv+MwZ6osr+jVa70jxSx3yhxNqxEGx2J3EFvx5O2Tn1Pz99YoI19w4HH59GtF/neJq+WHi1Y07xMhBP/i4oeAaagCA1ODPwEnVfAlpFoDhzJ3gV8A88p3UXO4ld0KhcdAoLTbMvd0S5Zzjrnb0uh+VBw0L4EeKgmVAkbQraTyrNoD2vXru6tdpXLNmfzJNdDxLeqdB2xox24IVGP65cpnGWV7o0MAv0Orbzd8KxwhtPo3PRtFhvi1WykbfzKGjYylI1YJ+rFSTbd/kLDWynpF8j/a07VFNvksSMHR00cXdxYFAbzA+itCdBt3ZIK22jHxuZ5dtBAvJSk2jzak2fYUxaRqHTlIjDvs70tYRSA56GXdzv04CQm5LSa9izmqlw05M4StfpN4WJ++z9ZgtaZhZUdhOuRBRS2+al0YX5uzQzCdi7ERHyaiY3gVVDNc=;Jhl1RBIW7JE0NQ+9u5SFnQ=="
 ---
 

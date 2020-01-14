@@ -42,6 +42,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+  - title: "Artificial Intelligence in Energy Markets, Worldwide, 2019-2024 - Rising Deployment of Smart Grids, Growth of Establishment of Smart Buildings"
+    excerpt: "The \"Global Artificial Intelligence in Energy Market: Focus on Product Type, Industry, Applications, Funding - Analysis and Forecast, 2019-2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-01-14T21:19:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-energy-markets-worldwide-201500748.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "Ho/nkR5QGBOXHCHAS8c/SHuIL2ZBYgCAmC8RBLjF8u+kcC0JHNz5yjM8MTGVMxvUhRVzwrBrPmgMLusDUoEjpFM8wzwBHM4/mfbFdnI9TZDfORSPPdfc1YQgHs++AJ+ahBJ05WkDCcx8LCUYcs342+m7Rw3C6i2y+bCVdsZN/M3HNVAWVaw0//qWmeUK1+3Z+PxWt9OUPTvP+P2huTlX/6ruAE6KAsURuJRtnYRAB/FBAlhF+6MZTJq3RXCApEbRBWPRVgr/3RSN7HDf/d7ESXp+nzxk7qs9RngVK4KwlJuzHY/ctkYxRw5qWbwurndj68zbfEuqxqFuvldYrlmQqDQ6Qb2Nt+e8+IYNT/2sXlwa6/jL7CqrGAL5HeMeDX/D767B0c1l6bqPdsGlh1VJBCPvg/UrT2J4P/Dqqc1SugRglQZbFWO6ILa2BQJE4TsleAxupufqN8jrFTp9gsrRcg==;tdCctc8X0965w0mn4sCrWg=="
 ---

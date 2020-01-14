@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T10:16:00Z
 sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
       - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
         width: 1200
         height: 627
+  - title: "Artificial Intelligence in Energy Markets, Worldwide, 2019-2024 - Rising Deployment of Smart Grids, Growth of Establishment of Smart Buildings"
+    excerpt: "The \"Global Artificial Intelligence in Energy Market: Focus on Product Type, Industry, Applications, Funding - Analysis and Forecast, 2019-2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-01-14T21:19:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-energy-markets-worldwide-201500748.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "3zK/JahYo0XUo11RG6C3sNp4ZWZ0Yx/cIfftx+rrk0LMXSM0I9oO5j7UQzIDJQZbfzBTU6zzdYckwwawz1jk+YNlbH/JdxX18t+q+Y5xhIPaWDDN0ZmQO8Tvuxnx0xEBuLuhARFBL4FF39QC0HLD5gIxFTYyeV260mznNwQ6hR/bccRiU/SP3kc5wpn8VPFtibVa06BovKQ+dYiWYWqVg82XhJWO1cT6WFLMgwopIVrQyooBthmHM9NM8hqGKfcQQk+YeOrWHnSzw1V1/9FW/Tb0ZZrNLjG59OS9A7ZwEMk=;lcSPJtTxJrCdnrMix6FvqA=="
 ---

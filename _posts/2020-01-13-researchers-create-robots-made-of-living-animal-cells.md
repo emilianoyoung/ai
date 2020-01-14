@@ -24,17 +24,6 @@ images:
     title: "Researchers create robots made of living animal cells"
 
 related:
-  - title: "‘First living robots’ assembled using frog stem cells and AI design"
-    excerpt: "AI-designed cell robots are shown in block format alongside actual versions of the ... a senior research fellow at the Oxford Uehiro Centre for Practical Ethics. “At what point would they become beings with interests that ought to be protected?” he said in an interview with the Guardian. “I think they’d acquire moral significance ..."
-    publishedDateTime: 2020-01-14T15:48:00Z
-    sourceUrl: https://globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/
-    ampUrl: https://globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/amp/
-    cdnAmpUrl: https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/amp/
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 39
   - title: "Yale researchers identify fossils using machine learning"
     excerpt: "In recent years, machine learning has risen in popularity as an exciting frontier in data science. This type of statistical technique can be leveraged to gain insight in all sorts of applications, from suggesting the perfect song on Spotify to predicting the weather. The newest application? Classifying plankton fossils. Recently, a Yale-led ..."
     publishedDateTime: 2020-01-14T05:42:00Z

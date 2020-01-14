@@ -23,6 +23,6 @@ images:
     height: 503
     title: "New Laser-Based Imaging System & Artificial Intelligence Algorithm, Used in Conjunction, Accurately Identify Brain Tumors"
 
-secured: "Iftc11cW5ffov32BnclYXT6Pef3PIf2WIZUZK0/wXWfD+/nD3rfrapecAbfEk6TPUw5eKBaETSrP3I7TfnbpMX7Ixo3mtG5X1uCNH3BlKFiqovRqoac8VRai6lGyPp1VHxqoWocsz6CZr8pXhy+IL9X7Le4a+TViuFS+fovPCH1dXQk+xUrPweuMyX+/V8jeGNdv/L5sv0IKeMHT7BIA/6nqx5JMUAG7YUTemkOaCayHZB+BdT9esH/tidOWpwIwVjPvQDdNHCxpaUK/6uTq60kaov1zX8JHpDYo/2hEJx8=;KCP4Q46cxHsye7s14a1urA=="
+secured: "Veo6b3/7n/JEdPgKeKwqrYkSytJoH49yl4QulWYTyMKUGb0c5Uqb6cof6lBnOwaoq02ReXOFQZOI3OzrvMkWytRXoXnC2B/MqvElCuGwV+JeTRTR8m86CRYzaV1OtTlNs5O1ExK+tP7qu9WVCTSXycFcBb+DNslD9hmgFiLzUxURpxoZ/Ls7/HSLIn9sP2T1jZ2readV6vUXJvN9wnrhx1hu5vEpKlorOexRr66FF2Qy7BuICDQbmPmzm8HWxuM41be6rc5QzETzEDCsZGIelUVsPmANxgEsdyC9dMz2Vp1WLO4Fy/ZzRh17PVjAtsiB2R19ypj2R2z96WjwwnnUSrxB3VaOieWtVgVJGs6EeiE7qHnMJsQ+ysoTKa7KmAEcg0cR63rPV30HdmckF6K9WKOHan1k3wD8KKQwC2ZvnIVPFWD1a/bRXnNgdfFINFjNeAeBVK59OrTAWnb0os/Y9w==;L2hVE16jLjVntI5fJjTTcg=="
 ---
 

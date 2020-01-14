@@ -20,28 +20,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Researchers create robots made of living animal cells"
-    excerpt: "Indeed, Bongard and colleagues note in their paper, once refined a little more, the process of creating these unique living robots could be fully automated – a product of artificial intelligence and machine learning that requires no human intervention at all. For the moment, however, a level of direct intercession is still required."
-    publishedDateTime: 2020-01-13T22:01:00Z
-    sourceUrl: https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells
+  - title: "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence"
+    excerpt: "Scientists used computer algorithms to \"evolve\" an organism that's made of 100% frog DNA — but it isn't a frog. What happens when you take cells from frog embryos and grow them into new organisms that were \"evolved\" by algorithms? You get something that researchers are calling the world's first \"living machine.\" Though the original stem cells ..."
+    publishedDateTime: 2020-01-14T21:15:00Z
+    sourceUrl: https://www.livescience.com/frogbots-living-robots.html
+    ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
+    cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
     type: article
     provider:
-      name: Cosmos
-      domain: cosmosmagazine.com
-    quality: 39
+      name: Live Science
+      domain: livescience.com
+    quality: 53
     images:
-      - url: https://assets0.cosmosmagazine.com/assets/parsely-logo-e3e68c87e5824f9be72c9e2ae9df4ca4a27d7f0df595aa6a0c2c3474d551b7f7.png
-        width: 300
-        height: 300
-  - title: "Yale researchers identify fossils using machine learning"
-    excerpt: "In recent years, machine learning has risen in popularity as an exciting frontier in data science. This type of statistical technique can be leveraged to gain insight in all sorts of applications, from suggesting the perfect song on Spotify to predicting the weather. The newest application? Classifying plankton fossils. Recently, a Yale-led ..."
-    publishedDateTime: 2020-01-14T05:42:00Z
-    sourceUrl: https://yaledailynews.com/blog/2020/01/14/yale-researchers-identify-fossils-using-machine-learning/
-    type: article
-    provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 19
+      - url: https://cdn.mos.cms.futurecdn.net/hPio9oXE73b6NhFJiBF2HD-1200-80.jpg
+        width: 800
+        height: 450
 
 secured: "fMFXTm51GUM6W9TFyhl6GognpiM8Ry6+8XMx1+DAFB6ERixthyUGR8OhNaQifw1AuKQ1CD9Z2Y+3VdxE3A8THa4SHa5XawCKWZn4mHnaKkOGCk2C1yHIT1HE96iYeccFiUw3rYv77QjsfKKd+F0/T+c+cD0OD2j59ZUlTwK9/wSnaML3zIziqhTsx5gAl2rrAlhXWOeiEHxqbp//AHCoHCstdKfRSyyRUWh3YyFdPT0tzQy7yvVAdlsbkyge76piw5uTwBjj3C9Htqr7L0mGFw72i3R0o9mYbMrkAjDhatjhJEGZEdQt1rz7Xa0XpCvhY99opk1sdz8Z95eAbcCW+0UjW8e9QUGy6Gvd7jMWny5xq7654rhHEmku2vp7sBtCOqRPIdibcrAeKqj953Z4G3wHiobav3IMVkLpV1UNF6VbOw+y7R1rquMGWb846Mctnc6L9layPvPnGg9P1tigNg==;gH9GutYvY+6i/7kxnOPLwg=="
 ---

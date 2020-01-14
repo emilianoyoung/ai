@@ -31,6 +31,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
+    publishedDateTime: 2020-01-13T10:53:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 36
+    images:
+      - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png
+        width: 620
+        height: 500
   - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
     excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
     publishedDateTime: 2020-01-08T11:48:00Z

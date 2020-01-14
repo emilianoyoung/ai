@@ -34,7 +34,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 84
+    quality: 184
     images:
       - url: https://cdn.vox-cdn.com/thumbor/kZDgOL323H6bmnb5b22dfqgR09s=/0x0:5630x3753/1400x933/filters:focal(2365x1427:3265x2327):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66097507/1185354768.jpg.0.jpg
         width: 1400

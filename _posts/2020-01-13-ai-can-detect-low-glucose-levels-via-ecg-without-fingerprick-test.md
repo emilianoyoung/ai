@@ -30,7 +30,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 53
+    quality: 153
     images:
       - url: https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg
         width: 1200

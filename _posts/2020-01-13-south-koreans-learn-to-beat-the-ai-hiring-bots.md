@@ -27,6 +27,21 @@ images:
     title: "South Koreans learn to beat the AI hiring bots"
 
 related:
+  - title: "'Smile with your eyes': How to beat South Korea's AI hiring bots and land a job"
+    excerpt: "In cram school-obsessed South Korea, students fork out for classes in everything from K-pop auditions to real estate deals. Now, top Korean firms are rolling out artificial intelligence in hiring - and jobseekers want to learn how to beat the bots."
+    publishedDateTime: 2020-01-13T00:45:00Z
+    sourceUrl: https://www.reuters.com/article/us-southkorea-artificial-intelligence-jo-idUSKBN1ZC022
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZC022
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZC022
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 83
+    images:
+      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200113&t=2&i=1475675870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0C015
+        width: 818
+        height: 545
   - title: "'Smile with your eyes': Here's how to beat South Korea's AI hiring bots and land a job"
     excerpt: "Top Korean firms are rolling out artificial intelligence in hiring — and jobseekers want to learn how to beat the bots."
     publishedDateTime: 2020-01-13T17:41:00Z
@@ -42,6 +57,15 @@ related:
       - url: https://image.businessinsider.com/5d6ecccf2e22af0b8d2b0f53?width=750&amp;format=jpeg&amp;auto=webp
         width: 750
         height: 563
+  - title: "How AI is vetting jobseekers in South Korea"
+    excerpt: "AI is already widely used by many companies' human resources departments to help in selecting candidates, ranging from spotting plagiarism in resumes to checking how candidates react in certain situations."
+    publishedDateTime: 2020-01-13T15:05:00Z
+    sourceUrl: https://www.reuters.com/video/watch/idOVBW0IU7B
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "eT/rBWM5OUFEI0Z6I/Pn8SaTVTRWNQoBoEDtkhptZ48VgSkJbJQSlPY1mHY/RVvQ9A6ayYToXis9gCBS95Y+bRjEKGKfnw8WHa+2VGc2DnwG2wLUxrRiezV+VRVtzG75noX9i0rFgqpX2wmq2erVtjSqW4GWHLrG2AqknGDPOCcM7yq/V6KbNBKr2/flbB1RPhnjU6y9VC8LL8AhYwwbGoDp5ou/sD2nuu4DA2BPXm4tkcNeV6zTZuYoimJE0J0PRn+d5Ql83GyT1LUgvbRiWl0b7qBnCtD32Wh/Uf38Zbg=;yIDrAGVGstVw0eZ9Otf8hw=="
 ---

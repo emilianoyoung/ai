@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/dominos-is-tapping-nvidia-gpus-to-ramp-
 ampUrl: https://www.zdnet.com/google-amp/article/dominos-is-tapping-nvidia-gpus-to-ramp-up-ai-powered-pizza-delivery/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dominos-is-tapping-nvidia-gpus-to-ramp-up-ai-powered-pizza-delivery/
 type: article
-quality: 67
-heat: 77
+quality: 167
+heat: 177
 published: true
 
 provider:
@@ -33,6 +33,6 @@ related:
       domain: crn.com
     quality: 34
 
-secured: "LNm8vjvMkzTWV5jeSLdQ6ZLj6NX6WsWDs+8jNKtvq6nJJz0qH8MlCOilczgQSxFfLhLRItDt+OM3qS2smA2zpOyhi0FwJeVPytx8k6zGoYbKWVFh1HU0WSQrF37H3KfSqRMTb4Hqh6eS7G5wok+3derRnDhiaE8doWnSqax4miINliE74jxY1XgtIvnmJRQ6ubDG2nR4V8BF49VvZSUDiE0eyTkySj2V+YUrfodi0lKXgKfqQTKihy5T5V3EK9xqd6BE071/HK2TN2CxOW1+p0PNaektUWRZKZ5IXiyf1M71wSZlAvtkKBb2vmEb/RJLYSQ3OMtfPSea//iSMtocEJ3t8y07bdvt92M13NhjI6rdOk9fxlazH6QLz7TE1YSi0Od55/1j22z/GoDsbqWNETAhqvZqe/lXeVEwXjjzAfunBIoV4ahpE0MYjM0pLtfGAb2PgEiB8BMvsh59lOFacA==;AhBtf93hlqACd6TrrBNyDA=="
+secured: "087KbAlXDPxa8KVlDUPFsMP3nRaOnGlOzwh+TotoKOcjjnaFwTmrXPlSCMqgFcbwxECibtfmHxy7E9B7R9OvAAu+LztjKx70MEZMh/ZekqdzFC/nT7lgDeYbvoZ8jV+GUhIMNk5KIJ/zSUc4CAd8idL5cbPCWeo8AxeckDYmswWWCI0TAWLgx9XrS19BzpMPKBPx09CioceLBfMBNtWIzo84ni+asP5irSdQ2zVCCWLxtcbmfJfqjQGOTPmXSNxrQZF6eeuCxz0amOUvZn9vff//CoTJDcu53AVsiFicWR4XPdJH9iZhLKzVnunoPfGtlvP5tzBpprd+9rk5ZprKyLrV8ORQpiOHTL7OG1OYKPlQPc7R54O0qpl5YVoF815x2Oxj7U6uXhuaKcKuIl7j8wU/EsZeb4kqNNLkpk21MB4nAZB4DmFpOim6l6So4UJBC3xXN/jTAPzY1Rv+JAtNcEOPbUwEkaDRaFkyQUW6NvU=;G1WwY8JgPX1wu+XZSRNrXQ=="
 ---
 

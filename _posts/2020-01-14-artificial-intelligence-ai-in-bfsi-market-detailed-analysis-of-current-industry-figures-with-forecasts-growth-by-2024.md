@@ -44,6 +44,15 @@ related:
       - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
         width: 1200
         height: 627
+  - title: "Artificial Intelligence in Energy Markets, Worldwide, 2019-2024 - Rising Deployment of Smart Grids, Growth of Establishment of Smart Buildings"
+    excerpt: "The \"Global Artificial Intelligence in Energy Market: Focus on Product Type, Industry, Applications, Funding - Analysis and Forecast, 2019-2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-01-14T21:19:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-energy-markets-worldwide-201500748.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "X7nGbh5cfDFQv5A0C4ZADPkxgCjTk2PgjBXySk4/KdHFzae2dQ/SFJ6XhRwKo/aYrXRYIOj6IbSzwl/4ZyrXdIJ+mpO6Y3T/cywaxmCZeSGyxd/CiI837ugJkx3nPxR/EkI6iJ3IZIKFVICZY/GMjaK8dF2RyZMV078PrSlEzNeBVNU5znpKZ6LyY6ELeLUG8wC2ZVn1cLbeN0PvRbXu7bEPk/26W85kMgr7EXulswh7XGHm3EmldMCTWF7VAanre1tasQQC/HySWbp2WbVZVToXLiczvA6TmZraFiAXuMc=;r7wtA7NFg5/g2nJcj5Yplw=="
 ---

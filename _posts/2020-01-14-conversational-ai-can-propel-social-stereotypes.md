@@ -8,8 +8,8 @@ ampUrl: https://www.wired.com/story/opinion-conversational-ai-can-propel-social-
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-conversational-ai-can-propel-social-stereotypes/amp
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Wired
@@ -27,62 +27,6 @@ images:
     width: 2400
     height: 1350
     title: "Conversational AI Can Propel Social Stereotypes"
-
-related:
-  - title: "Five Conversational AI Predictions For 2020"
-    excerpt: "The year 2020 will be an exciting time for conversational artificial intelligence (AI), as chatbots join forces with other digital assistants and integrate deeper into back-end technologies to deliver better user experiences and increase productivity."
-    publishedDateTime: 2020-01-10T11:08:00Z
-    sourceUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/
-    ampUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1130053721/960x0.jpg?fit=scale
-        width: 711
-        height: 474
-  - title: "2020 AI Predictions: What We Got Right In 2019 And What's In Store For 2020"
-    excerpt: "My hope for 2020 is for there to be less of an effort around frivolous applications of AI and more emphasis on smaller, more focused but real applications of AI that deliver clear benefits and return on investment."
-    publishedDateTime: 2020-01-08T12:16:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/08/2020-ai-predictions-what-we-got-right-in-2019-and-whats-in-store-for-2020/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/08/2020-ai-predictions-what-we-got-right-in-2019-and-whats-in-store-for-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/08/2020-ai-predictions-what-we-got-right-in-2019-and-whats-in-store-for-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1047502598/960x0.jpg?fit=scale
-        width: 711
-        height: 474
-  - title: "Google’s AI predicts local precipitation patterns ‘instantaneously’"
-    excerpt: "Google hopes to tap AI and machine learning to make speedy local weather predictions. In a paper and accompanying blog post, the tech giant detailed an AI system that uses satellite images to produce “nearly instantaneous” and high-resolution forecasts — on average, with a roughly one kilometer resolution and a latency of only 5-10 minutes."
-    publishedDateTime: 2020-01-13T19:20:00Z
-    sourceUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/
-    ampUrl: https://venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/googles-ai-predicts-local-precipitation-patterns-instantaneously/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/09/google.jpg?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
-  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
-    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
-    publishedDateTime: 2020-01-14T05:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "PC4kh6y000ssZ07KMQGew5/yt6jM+a7Z2k9w4JTFePMRuQEbQndFl+KRvX6pqF3G7jpfDzCuvwrgjWmg6QVkPoLtwI5jL3xdQf6Mo7U/YJb2XI0ct18AwrhntsMLNN5p2OdZuzLZerCpz/gAfGvmdQAXUT9cbEUWEFLMopz4f8Gu7LTdiT4gbLFhCA+WvVgnfrl10LpB8AXKSJna1fsQZGoj17pcNkM64jcUiFTxtHZMnxhAEJ7D/XeukLR0iRFRX6s2/z9q+p5TcpzDbxkR1jbuApDFjfA/C6LGAvqXiixf27jrcFxabF5uDQC3kKFKYvHnOmhEP+XJpcV19YGHnCyAYYQ6qFeL4iplmDnC4hvWpUtWYL7JEV8d/USuVic1VZN/d3Nz4CCsqMJGOsFIrzD7kHS66Cd34eH7NTNxK6p0e9iMIAL4XmzjbMvt/2FFzd21N+kDMDOdzEKQFzmXVw==;eATOyPRPl2BT/+AQ05OZfA=="
 ---

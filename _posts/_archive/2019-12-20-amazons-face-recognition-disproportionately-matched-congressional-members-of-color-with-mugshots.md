@@ -30,6 +30,6 @@ related:
       domain: businesscomputingworld.co.uk
     quality: 34
 
-secured: "hQDltVhmfFoyerBkGKdGLR8J9tEQQkTNZwTVksrp4wIID+9mBlp1L3yHW+Ar6JHKGBh9w9f4gg6g+whiRri9y75T4uJ7z570ShQRc8sSpv3k3WgVAVC2zj7h0Il79mOMsaYhIcJ+SNGQpPdfr6r28eWBxMqjr+ld7CNnfYstgPvlYvknVGTHlizCkin/TXu81xlxyEX0aKXKd8vd/ugUc7Y2kvSL/dlhkVebs/wL+cZRyYK84emGI9Llx8qf3tV7xpNXvLKY8MHt5IGRmCP1/fdCrzcxF0jcrENZQdmO/CI=;ayJXvU1rce576X3ReMj4Xg=="
+secured: "ajnYguuz4Xuewqtx3e5VZcChbTPjBhZl0ic7ia2GvcsDjxWCt1iRHpSI4nx5lbWIycyYeeap9Ln9Dhg6SpRmvfzMz8C73vrsTG6n7ULAmkCnBvTJHDbeMC+UqkNeLS30j/Gbpj928wVKX4pS40uEfpJ8YvcO2fniAuCB6jLwDAx61sQn/JpOu7OX/uI2t6Rk6IOcFvvePXqUR2a3QZ8WtDhYS9nDtnrC++IY2Nf6EnbTRRAD62/LwnQouLPrT3jaLFdL97v2EfeFGKLsmEO1XTKkJC7C1nFQuWdXd183DY8=;iMCBLKiUWBj2+ghmfWZH6w=="
 ---
 

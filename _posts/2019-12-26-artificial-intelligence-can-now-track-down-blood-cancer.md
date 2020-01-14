@@ -40,6 +40,15 @@ related:
       name: ETHealthworld.com
       domain: indiatimes.com
     quality: 39
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
+    publishedDateTime: 2019-12-20T16:27:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "ssRlZO9G/Tze5v43VstfQLzzlmMcBnFGQ5z2MbCfnlccd20Xuoc3k+woBuoXDKONyJFFQOOySNbUX6FYKgxtt11tmnB7cSl86bat3ezJjFH6gghJfc262/kAfW2bxlxpCTfb8qIqiLftu+6E95CmDg0C5uB96u8m9R21K+pqdTq9lYGzdahA1FGV9XKYdjz78reKXxasQIw8ecyNKK5m3rxuOWaOVR/tojrtiEVuN2oxMQGtqMRhUnFGpEseCpwOjnsO3+v/blF7savJEAA9zdT/cccpvOPlHRQtU+GjpPI=;uTuGtQyxz6ecOFNyFU292A=="
 ---

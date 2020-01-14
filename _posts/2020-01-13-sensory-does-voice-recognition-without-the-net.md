@@ -24,69 +24,43 @@ images:
     title: "Sensory Does Voice Recognition Without the ‘Net"
 
 related:
-  - title: "Voice Recognition technology and its growing influence"
-    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-    publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
+  - title: "Sensors and AI spot low blood sugar without needles"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Personalized therapy based on the new system could be more effective than current approaches. “The performance of AI algorithms trained over ..."
+    publishedDateTime: 2020-01-13T15:45:00Z
+    sourceUrl: https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/
     type: article
     provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
+      name: Futurity News
+      domain: futurity.org
+    quality: 39
     images:
-      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
-        width: 600
-        height: 271
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
-    publishedDateTime: 2020-01-13T10:53:00Z
-    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
+      - url: https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg
+        width: 1600
+        height: 915
+  - title: "AI can detect blood sugar problems without fingerpick test"
+    excerpt: "In a new study, researchers have developed a new technique using Artificial Intelligence (AI) to detect low blood sugar from raw ECG signals ... Basing on this information, doctors s can adapt the therapy to each patient. More clinical research is required to confirm these results in wider populations. One author of the study is Dr. Leandro ..."
+    publishedDateTime: 2020-01-14T11:20:00Z
+    sourceUrl: https://knowridge.com/2020/01/ai-can-detect-blood-sugar-problems-without-fingerpick-test/
     type: article
     provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 36
+      name: Knowridge
+      domain: knowridge.com
+    quality: 39
     images:
-      - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png
-        width: 620
-        height: 500
-  - title: "Voice Recognition Used by Law Enforcement"
-    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural Language Processing (NLP). It is a branch of artificial intelligence that helps computers ..."
-    publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
+      - url: https://knowridge.com/wp-content/uploads/2020/01/AI-can-detect-blood-sugar-problems-without-fingerpick-test-.jpg
+        width: 640
+        height: 426
+  - title: "AI replaces prick test to detect blood sugar levels"
+    excerpt: "The novel artificial intelligence system works as well as CGMs ... differences are also important and that training the device using cohort data would not provide the same results. Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was able to personalize tuning of detection ..."
+    publishedDateTime: 2020-01-14T21:37:00Z
+    sourceUrl: https://www.news-medical.net/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx
     type: article
     provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 24
-    images:
-      - url: https://i-hls.com/wp-content/uploads/2020/01/sound-856770_1280.png
-        width: 1280
-        height: 720
-  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
-    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
-    publishedDateTime: 2020-01-14T19:54:00Z
-    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
-  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
-    excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
-    publishedDateTime: 2020-01-06T14:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 6
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
 
 secured: "rfJQ2XHl0qjerjNs8AfQQpkftXJsVCBh0+EXUnRxjtptepnnArpT2afMhG7DRW/oNf7JvKWVVpwND+6k2i5lB1R+MqeweAsUwlw+3yf/C/zsMuoLUd4Wv7mjGlONhMi5ZWFlxVLW2QiKFN4H7tRSU09EEKoxgJMRVycT4LxOCYwtOk6W6M35QFs8N2W7n9LgTIFYbaIFN4fzDV+Y8lq7l8dMxWwnWCwOFlWc6gQDIGP+S3KytV6A8mOjCo4Z72mZBUOIk2l9GeGxMng/i4XR/D9sRZI2upiKaRO4CTMAgRgCUDmh1332lDNanR6i0VcthjsBV2c7Ub73MPYAgwyYVHny6LyPnQP6gMkH9RL8EPwjb8aL+ZZqncH2ykhB/7FBVJgEEl+mRIiMjJdXt+oYgDkD9zRp2+iI6BweeBSode2VUOLpLzCwsWo1kPZdFO2JMretr0j7O9Orygmc3NyMVg==;L5X8TS0NLE4vq0r9Lc6lXg=="
 ---

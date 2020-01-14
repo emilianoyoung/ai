@@ -18,41 +18,15 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
-    publishedDateTime: 2020-01-14T03:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
+  - title: "Machine Learning as a Service (MLaaS) Market Key Players, Market Drivers, Emerging Opportunities contribute to reach CAGR of 41.2% in 2023"
+    excerpt: "Global Machine Learning as a Service (MLaaS) Market Report (2020-2023) focuses on global major leading Machine Learning as a Service (MLaaS) Market players with information such as company profiles, contact information."
+    publishedDateTime: 2020-01-13T17:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-key-players-market-drivers-emerging-opportunities-contribute-to-reach-cagr-of-412-in-2023-2020-01-13
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
-    images:
-      - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
-        width: 1200
-        height: 627
-  - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
-    excerpt: "Dublin, Jan. 09, 2020 -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The."
-    publishedDateTime: 2020-01-10T18:33:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chipsets-123905061.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-  - title: "Global Closed-circuit Television (CCTV) Camera Market 2019-2023 | Introduction of Deep Learning Technology to Boost Growth | Technavio"
-    excerpt: "Some vendors are integrating the latest technologies such as AI, deep learning, and machine learning with CCTVs to improve video surveillance capabilities. For instance, in 2018, Zhejiang Dahua Technology introduced IP-based cameras with built-in facial recognition technologies backed with AI deep learning algorithms for real-time monitoring."
-    publishedDateTime: 2020-01-13T20:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005538/en/Global-Closed-circuit-Television-CCTV-Camera-Market-2019-2023
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
-    images:
-      - url: https://mms.businesswire.com/media/20200113005538/en/767042/23/Global_CCTV_Camera_Market_2019-2023.jpg
-        width: 1200
-        height: 627
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "vkQdMPr0OPsyQ0hQjsyb1ul4lWa1Yw3FbTgyf8BqNzIvNuOm7QQNQ+3FlOAIrMcB98AUJKwFVe1ktdOxSIq9rv92ld2wHtOg913lgf4tiHCsDULzEwXgMmOuJJq7CgiVDISTouo/OhzPgqRIbFq2cTdPLQYlwgxWmzE3XVv2bqFYcmUFoY+MoEVRuehmS2fwxSrT5llA8o3RHo4hy0zz+vXuGzrbpoXUOXQ9gK2/PUoMj3klvWy9dtn8NGdmj4Iqaa3TyBqullNMJgxwr3YHne7cgOz2GYBseaaz1hfGq+0=;qeJvnVGEu1TBzFSQKuzkmA=="
 ---

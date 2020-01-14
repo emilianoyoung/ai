@@ -7,8 +7,8 @@ sourceUrl: https://www.theverge.com/2020/1/14/21065095/google-ai-weather-forecas
 ampUrl: https://www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research
 type: article
-quality: 84
-heat: 94
+quality: 184
+heat: 195
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         width: 600
         height: 400
 
-secured: "7XoPlex23eXu+Oikfq+SkElxKr5CmqJkn8IZ1isDyxQtK6sng1wk8PwmKGJ/eqWCF3dFm6Iu6w+09kI271g9VMaANgBXrIA5FdJoBHWdwUNjeO71c35avP1v4qEDM4vs9r7AyZi6VzKGc+b0I2/eECIwKSpKkZXStOEBrG3GwGyrNa8qa0jMeznKdEEw0kNHqZmnLeyDHnoZf5+vQbtMDmX5CVKPIs3HSHGKXgm6SLvex3JNBitkD91Ublo/Pcv8TNIFG3D654tZ6VLRi5AVg03HoI0lXta/ldzvq9TwBuJg+PAW+9jhqjKC+oFtaX1kToEuQek4Jc59cIZR2otZsmlOStfC02SmrCl11p2tZuvXP0fi7aRYQVXlTvdXiCAMBhUcPQxZGcfAVZ/vpypFEee49yTsMqe4sebwN+pJUxyKLpFhnKnx6eeK3899iHcS2JuQ8RfNcRZa9BEpz6t0GQ==;tyNtWXMwrtbPm+oINoFohA=="
+secured: "IkeNtd64lmL/Jf73W1zDxAjzxpU5yTiMrWigW0UbCOu5TeMk+kT2Ck9PgEmTCoWW/f9QwaYEOv66DAWfcz+H3st0Ek73g+tm+t7ImINaKiTxl28KPJ6z9fNohHVZBVAz4wJ/BKi/JkE5cp6V9XRM/2Yi5oZA8XcSjxalct8dwpqk+bupt5jOPtujxclUiQSz0IixY6b9+J3POxuNbWkCtCBlTx5HFSbFaBe+n8wuCv1dsuydSj20r333Dou45HCPaDX/3/taTeG+kDnNgn3eIFKrdoTIkHzqCYe12icFyKzVeFpSmHjLQN0cU6XKsOHTjskIMKBiX+vvwtjnK0niebMY5lOg3X4PwjJrqsxoaPFma3Rma9dGEH90jZd7gR/84PIWhGPtz8JPTy/VtbyanmaaX4fwrr7wOQcsvc8Ro2ond07bWJJ6JhXsIpAG99fxeY9XOGFwicOxxjZxsBiZRgtldmtFpEVf4LpMYfniJ74=;i+OpXPuz/Fp+SafjtYemHw=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.wsj.com/amp/articles/robots-mood-enhancers-and-scooters-top-
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-mood-enhancers-and-scooters-top-consumer-trends-for-2020-11579005000
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Robots, Mood Enhancers and Scooters: Top Consumer Trends for 2020"
 
-secured: "Avb9trxSJRjSV6yr6J7hJj/84ZexzdT7qTQdBEbHASOYDj678wdps8avkSiaScVhHxEhOE0EzLeqGzcwYXnKpreUs+pfSDwbCWQ1NpgrB4cwOgVusngSE3FK1l+/JFvWKBaUwX1JVoJxt1mvsNjhMryMr2a2ARESn3p0zKp1X7up8DS1QotXHJlQnD/F8PGTiSXad97wTMz8jZZ2NiG/4c6lM8u2ug+edbXh/KRBBDwjs7wCPK+zjj4TNVjYgr4bWKfV/EdtY7itkZfYXAM3or5cvGAJ8ZElxpQNT/8rle4gHOUz7IYRnQ1becDtqwMQOK+Ypbb0kBQOrwEDn2NgfNwogrV5G5Xp0IZDSOgOEGP1mOX0SAY3x2O0GsbIQU0xMqHtgfzdSQkpAUudyPPaLc18diVZ9rQx2HvSYOVrm5x+7aqGTyOlKQLTl/vTLhiELvZ9KEpHR9i9r1reOnKa1w==;pLNTQiS/eQVcKhHtjCnPjA=="
+secured: "P9j18WsY2neFnp9QWqmJwIi61zg8+/eSdMk6ljPIwgOL5ejHzl5hnZ2QKN3rDQifzxFnNfdymhst+Kj1F1ZAgOGQ7Cpy2HigQS36sY87PlwKinPcRtESFNU97D6RhydiusOHbAFoS+pX/eMRYMdBTnrYo1Nd3ReXHlqtxPmwBMbMOqF2Dm6xWic5KhoZSBu5dJjI6CYvY9H6g13SXf/c7y7bF+dVpog347v2hD7XSnYVtZghZiSVLm9ainN7taAJ8XHsZOnfKKmNWDWcgrjJYck5/lYBd7v6M0rOBJdoR9gxywIVgupKzNaa6pjrSqE6/VKjwHj0DLVI3TqDSfhdXGVQ1R6r+CaHF+L2pRlV6jus+V2rP9iR18ICv0+mtatMg2OTU3z/2nI1fskxuP01kTnykiKmwvJVMlRimY8Km/wNDK5yR5QE/Y14fHUxtk8uzk5XFoMpfIumce/HO46fFQ==;gO2qReP3VTxJBdmlvnY/0Q=="
 ---
 

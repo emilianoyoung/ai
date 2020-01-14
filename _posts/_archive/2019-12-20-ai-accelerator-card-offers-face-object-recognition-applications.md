@@ -30,6 +30,6 @@ related:
       domain: theroot.com
     quality: 11
 
-secured: "zriNO9HZMy5R6wWx9BzMsDnJ/9GHhLOtuZuPP+pKvLf72vER5pR95sUTHAsvwSAcmDSsf52wBKU8fJaZ4YB+5VZ4L9LL2XvocNvRunS/zTbyDkg7CQwOPhY3WUVvfeA0oVnrZSV+SVzJGLymn7xFEYFKClyx0pk+VBNaIoX4n2eo1dP7WVX0qgru08fExMMYR/hEvPItF8pR7hccyynw4evu9GGx0FVg45tkCPHCTcOGzVyA99JOlyX5S6uhYFo51VwrlfgrQBfYKOC8O+u6WhldJqMxOup1NPsNAa3uCcE=;KvCLtvF+tda/6RACyzWJvw=="
+secured: "5H8hYgYkDflNgpHoBpCkbvn9VdNdelulJuBhta2/Wz3jiycfcPgqoT3Vn3FSXWrDMbIcIPeHS+SEL2zILFWv8PNoMiU46A6lRIhDjM3lUfwd62aMZXRGiFUXMs8DCBmSbnohrmcppjIG8JI6dEpgOVrLzgdTvvYLLBKOccy2fZDxumMvWuxBu1k7cUUN5ltaFjt84STJOByktk6hJXBQ+z+DwzAQtH4kad09aynRGxMmmAsIjZWLQElHuhH+3KN7lwBMvoXlA3EQHgLdN8nlZAauG+yz5HtynQXCnTjrEdE=;W/cQrUd41Nsi5IetbVp/KQ=="
 ---
 

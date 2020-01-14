@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Preferred Networks Releases Optuna v1.0, Open-source Hyperparameter Optimization Framework for Machine Learning"
-excerpt: "/PRNewswire/ -- Preferred Networks, Inc. (PFN, Head Office: Tokyo, President & CEO: Toru Nishikawa) has released Optuna (TM) v1.0, the first major version"
-publishedDateTime: 2020-01-14T04:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/preferred-networks-releases-optuna-v1-0--open-source-hyperparameter-optimization-framework-for-machine-learning-300986220.html
+excerpt: "Preferred Networks, Inc. (PFN, Head Office: Tokyo, President & CEO: Toru Nishikawa) has released Optuna (TM) v1.0, the first major version of the open-source hyperparameter optimization framework for machine learning."
+publishedDateTime: 2020-01-14T20:55:00Z
+sourceUrl: https://finance.yahoo.com/news/preferred-networks-releases-optuna-v1-050000110.html
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "AyZWjxE+UDMBUWwGtMdEM4y0G96HiGJ4o1gyTLtJ43Thb5KRm7tV+RH72g40NHxbSAdJqcjfd2CzLpxktsHjd0Bqv1pHkQnoAasKxXaS4ujIhpS2vj5rkn+m6vvaseEFApeZUXPhBcefGi5xFomPa6CB0m7knDhIavmKRg8+3Q1/NPonKVa/vnvbEfogNm+sLKkh2cVnhU34PBy5vSLKwIx8bfC0pUGfc/MAiEo4UlROFeCgBzKiPAfF39XWxW4DxhLSVqqPLDllmTPKGdxGsYCIbOP9KGdzGZntM56jDWI=;n4+vE5hg90pnrwvsdlgAHA=="
+secured: "GVG3NU42JyMGTIyVfjPzMzyG5lDkHb64plACpetuZiJ9Zta7iBfZkzyj3etQpnb0CdHZAlJ2mFwxqpQvzOOFUE3XAvJVYvtIeS3j6Fon8zSbAfGuGYTcE2+qoCqBx61y5beo7/Tvs9yPArUDMEY+LLOKYwVWt8aaa32//OMkWy4kcEFBhFHJLHVxcRH6/iUlKOrZYr9B4h/85Wy9Gx6xY6WYCoSMOno535pJUnD7XwX0YUf3eN6ovxCz1f2zamTjrC33zMAx1P2lGpG6y1+p9lCuhAVpGPFSuybQ3Ls/im0=;Sa3nrdklT774Zq5E3KgzGw=="
 ---
 

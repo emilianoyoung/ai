@@ -22,6 +22,19 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
+    publishedDateTime: 2020-01-13T10:53:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 36
+    images:
+      - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png
+        width: 620
+        height: 500
   - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period,2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-01-07T05:52:00Z
