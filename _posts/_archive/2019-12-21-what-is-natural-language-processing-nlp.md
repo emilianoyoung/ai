@@ -34,6 +34,6 @@ related:
       domain: infoq.com
     quality: 19
 
-secured: "6gmbzHLfPoZvm7CfJNkmXZnUKYYu9sNWULszNpOzh+FpBIC8foFeoPzjYnF8Lc5VUzBGuARcY1uw3ndcsUkBrTqET+9L3C6KMN1eJc5mluxIZzKtE1fRD4GByA8kK1TdTVkD93clkOgAA2bMIMUMoCQE0eAr8ilsSczko8wxZRY4J7FrO0ZjLwP3lZAlWh5bPllzlHcDj7tQrdfq8yYcQByGtr+3JEUq/Izq+stuBJjKK+JCHnjr+6qZE/jl4euz6mO64HueKJeKK6xD2bFuoOeH8B7PTqFdSNsw6A4VN3k=;E1sWmfSmyP5D21ko01kKvw=="
+secured: "e3fekucNRcdM4L8eLTsX59O2agQ84laCnaBtiqE15ZY0R9zO52L4yY7uizNYv3pWluCM2GYEZ8uq7qyLblAL3lsQGGet92o4Jo8RgeNixGxIqid5EBAPDpNbLN6J+YhLoi/Mb98YF5p7i1K8vlG5KZLhePPog9qDafcQ+Z7oPthuZCq6Xy2vQrHKeCtrpsyQHsW8JT3yD+Br1uNxzEVCq16GetxF6QobiBSYeNcYuj5VORZ2ftB6m+h1IzwZ+rROishxBxkBLCCsGL1VKb7m/uBhsWI0OEpogNUz27l6B2Y=;NEW/RTcp8j7pqpx2Cj64yQ=="
 ---
 

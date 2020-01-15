@@ -37,21 +37,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1415000bf81b00062454db%2F0x0.jpg
         width: 1069
         height: 589
-  - title: "Want To Lease A Lidar? Luminar Has Novel Subscription Plan For Its New Self-Driving Car Perception System"
-    excerpt: "The upstart lidar maker is expanding beyond hardware with the addition of much-needed commercial software and a computing system that makes its technology plug-and-play capable for autonomous vehicle developers."
-    publishedDateTime: 2020-01-09T22:14:00Z
-    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/
-    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e167b77888ec00007eabf94%2F0x0.jpg
-        width: 1200
-        height: 800
 
 secured: "sUCVKsDVbPVZL4LZEAl1DmXSqkDmtkJX5q+q+Ga0Dr1hP1SCY6wUTEsUia0KLw3as+t0U2niagr6drbkBty9DdlCLJDdeJ7AL799ta5pPerPNLGlippTD+F0Pi3IKHIL0BSo0+P6C1Gn5vO/uVOYaII1zNrAHc56oJ5fZL7Rv0TJdsWP9JJdDRvWlSm23F2IBHanpW/i8zBiQbpNMydpSe8ZmAZSK97Jc+9w866nWTAHyfe5we/pJIfS6KRCPuOsDrbn6oNnJ1dyohFUf1f4ai4Q1h4/p42K0yCs+p2uXjA=;yeFNNmbAola46mgJlyINWQ=="
 ---

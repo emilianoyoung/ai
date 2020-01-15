@@ -24,32 +24,60 @@ images:
     title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
 
 related:
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "San Diego company hopes to have driver assist features like automated parking and highway auto-pilot in vehicles as soon as 2023"
-    publishedDateTime: 2020-01-07T02:46:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+  - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
+    excerpt: "Matter of fact, I didn’t have to: The car itself did all of the steering. A couple of days earlier at the giant Consumer Electronics Show, Qualcomm announced a new platform for self-driving cars called Snapdragon Ride — and to showcase its powers, Qualcomm gave me a ride in an MKZ that had been tricked out with all the sensors and chips ..."
+    publishedDateTime: 2020-01-15T15:30:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 40
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 65
+  - title: "Want To Lease A Lidar? Luminar Has Novel Subscription Plan For Its New Self-Driving Car Perception System"
+    excerpt: "The upstart lidar maker is expanding beyond hardware with the addition of much-needed commercial software and a computing system that makes its technology plug-and-play capable for autonomous vehicle developers."
+    publishedDateTime: 2020-01-09T22:14:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/09/want-to-lease-a-lidar-luminar-has-novel-subscription-plan-for-its-new-self-driving-car-perception-system/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
     images:
-      - url: https://ca-times.brightspotcdn.com/dims4/default/89fecce/2147483647/strip/true/crop/7952x5304+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6b%2F86%2F2c06ec954a7f83d32cbb7d4cb4a6%2Fautonomous-driving-2.jpg
-        width: 840
-        height: 560
-  - title: "Qualcomm Shifts Gears, Turns Towards Autonomous Driving Safety"
-    excerpt: "The phone equipment company’s Snapdragon Ride platform focuses on driver assist technology and hopes to be foundational for driverless vehicles. Qualcomm hopes to see products ... In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its ..."
-    publishedDateTime: 2020-01-07T22:26:00Z
-    sourceUrl: https://www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html
-    ampUrl: https://www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html?AMP
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e167b77888ec00007eabf94%2F0x0.jpg
+        width: 1200
+        height: 800
+  - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
+    excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
+    publishedDateTime: 2020-01-13T18:05:00Z
+    sourceUrl: https://www.pcgamer.com/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    ampUrl: https://www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    cdnAmpUrl: https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
+        width: 1200
+        height: 675
+  - title: "FTC commissioner on new tech like self-driving cars: I 'see lots of risk'"
+    excerpt: "Among the self-driving cars, connected gadgets, and promises of a reimagined world powered by 5G at CES 2020, FTC Commissioner Rebecca Slaughter sees new risks of cybercrime. It’s not just the physical products on hand at the massive consumer tech convention,"
+    publishedDateTime: 2020-01-09T19:33:00Z
+    sourceUrl: https://finance.yahoo.com/news/rebecca-slaughter-on-5g-self-driving-cars-and-privacy-192635027.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/mGFZxY5Zhv9Xh3fSp3tGAA--~B/aD0yMzAyO3c9MzI5NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-01/4ed8fce0-3313-11ea-bebf-595411372cfa
+        width: 3294
+        height: 2302
 
 secured: "B4AyT7wRkZ7Snh1/ZYOUFHQs10Qx5KphXh06Xlpvc6cxDtLThiCwGWUyq/JQFg0pG5HjCTHG+sjFObCTLIBptHkcyi/zJQYhNo3TUq6LuBN0rwVayedd26C9ZB5rMxz57ZUSUQu6upaihNa+P5sJM6AZStxy63O9Cs6uEKdf8szTty84vN7DKb/ZbPY2fejazDXdjTA2/vgMEmebr7+qdKcz6wi2D+tVSPAatNxeKUR9Xn891616EXwXsbR3aIB2gUFB89Qr5/iy5nvpcZDEd/H1SGZn75KTDJMu2FpP5/AsEDQ5lj6IMFeLF1o6gxArTun928KobAM83utuNMW32AVByfg+CtC9lA3oCaBKMlitQplJpV1Lgbqvoi+gNSCNZ9q2ABTElDhYxuHf07apS/D2awQeLXOLGDqSFXNSrS6Y8hdzm7jsYqtPxZk7FzwXIk3jx0ZQYY9zo99JK5KeUw==;EiyHjdCeAa4CKnrE4CP8SA=="
 ---

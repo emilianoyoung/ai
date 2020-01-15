@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Launches Advertising Accelerator with Watson"
-excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
-publishedDateTime: 2020-01-07T14:51:00Z
-sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+publishedDateTime: 2020-01-07T11:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://s.yimg.com/uu/api/res/1.2/PRYW1OHig3OivDLZc9jD9Q--~B/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/938103bda68c090c59b89ba41bbfaac5
-    width: 400
-    height: 225
+  - url: https://mma.prnewswire.com/media/1062495/Ad_Accel_w_Watson_FINAL.jpg?p=facebook
+    width: 2699
+    height: 1414
     title: "IBM Launches Advertising Accelerator with Watson"
 
 related:
@@ -118,6 +118,6 @@ related:
       domain: marketwatch.com
     quality: 31
 
-secured: "QhzBLlK4O3hHRMjnjiPWYfwD0m8yWX590bUgG3UMEZj4K1x99DLsJ5DfoOnUxzKNNZ6UXOnmakvTQda//FVecE99P/Rc5bYeBj1qUP2ho85v6Gzq9sVzxqO2Ib0dIFPTZsqM86r0wJ2ls6wpaHCj7LVqA2ZIxydt0BZs96JaJyZbjDmj2eueT+4AkgeovQV6LtmTgyCLPGnkEt0LQlsDl8swoLxnCK3sEowJs9Y3VvvSOwBjmjwpZafCmJ+PsqgGByh2A/T7ypib/2IK874lgKFVcaKcI32mDBbqjEXF+Mk=;5ewDtJCjEfVYTuryx1b12Q=="
+secured: "v87YqPpYkCj9S8ytdO1xqou+2NJ7OmUPDsnZmJvPZj4oBGpKh7rh5iXzI6Nl8Vx9O1RncpColkxTwOVZGzYP9E5JnhvnXjd0j8b7+czzu40kk3gLxSij/SOQNlafEAWtjfsPGJ178aegXGRmSm7jlfpE7IcdAjPpOBENBh8cQrphx4J04tME2xfYere04+evxgdI1dFzAfOPVR7xTlDJlOjApVa2uvzyHcItgr7lXtEAA4kiznGyiMyPXjfLF1aEy1V//CYiXKTXBApiCVVzhLnEwEq1q8e1hxRYpsEntiU=;p4Z+XUB9rAC7y32aV2rofQ=="
 ---
 

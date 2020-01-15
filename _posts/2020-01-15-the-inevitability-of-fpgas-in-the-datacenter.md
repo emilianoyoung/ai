@@ -38,6 +38,6 @@ related:
       domain: news-medical.net
     quality: 29
 
-secured: "ub9X75m9LnwiHUGH49VhqORr8fHTE+yaw8IZhvqNSDViQxwS8jst5EdGWrzR/+eWKZvJ3LpBm0bEacIuV/lrs2LkZA+HAeLY9HRRXtljBUEVOojH9T1kJoXGqtqzBQsAhXB3vPkJNLEGEuN/+pw+7dJxaH/+dOmWeYiwuA+cZ9DbN8G0mWsyevBjRPBw6wxIhUC4sJLHFzglTrJsh4j3bIzaUQz9+5ew3jmpt6zSNGJolVQ4soqoOqIzPi8cWCukOGq7/1QRGE8T4t9nEvo+pfnXlA8eW8nfr5ZqpNqHp2U=;tmUYLIY1fbGUsrIM3nOlMA=="
+secured: "Iv39bvV8oE5k/U7nIGHLpjqYxxulmjZKxXvb6/fwZgmVWVqwYkF3+Es3rhSvpz8EbKdVS1WUTnTqodcH0csf6nDktjEgIc+QQDP2MC9d5TjboV3VAjZWSOlCe3BE/E8on8b0Ixd2S6pLRiRDRdIxIxmKErwKEeF3qDQpz7PeLfnhncJ2+k/7OH0aoLXgXmQ/e54wvcti6RlgpGaaHE70deirOe9Tr0XbWfg8qKh11/RaBduW+LxHdI60cYulCB3O0vz8rP1cB9xS1en13iguWssOrObf/kjLKn4Hps+liIhvu8k7bO5YU7HNQE3bwrbsgE7nBtZd6aoQsxGxx4uJpWb81//tUaFLEWLZUjJz2F+OSzuKBICz4ATRfWC26DYNlj1OFh7XFT3q31zB34NzuUTXrJJS+/hzcLhPztRl7f2A+ogqkwjds1yfoW+gYwspFh070dTqfSdBjw3uQRCjug==;wNlfBaci8vFhUngoACBVPg=="
 ---
 

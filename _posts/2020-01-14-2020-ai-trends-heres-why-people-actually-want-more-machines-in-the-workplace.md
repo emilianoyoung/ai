@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/sap/2020/01/14/2020-ai-trends-heres-why-peo
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/01/14/2020-ai-trends-heres-why-people-actually-want-more-machines-in-the-workplace/amp/
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 1192
     height: 670
     title: "2020 AI Trends: Here’s Why People Actually Want More Machines In The Workplace"
+
+related:
+  - title: "UAE workers more welcoming towards AI robots in workplace"
+    excerpt: "Sentiments regarding the use of Artificial Intelligence (AI) in the workplace have grown warmer across the UAE, with a large number of workers saying that they are looking forward to working with AI-enabled robots, a new survey has found. According to the second annual AI at Work study conducted by Oracle and Future Workplace, 72 per cent of ..."
+    publishedDateTime: 2020-01-15T18:28:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/UAE_workers_more_welcoming_towards_AI_robots_in_workplace-SNG_164525726/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_164525726/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_164525726/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
 
 secured: "+60/VhF0OgciAV93Uz18rcZ53fijsxnOWKHX7jzaxIUkU3gK4HSnH+YOOUDdtwV2wXbiFIClP2dNcnkECmDhPSL0mJPomQ/6kXGJ9VIBJA8OAV4uCrpnP0+MPDu6popPqHsNjBUJTAfFkbGUipIGGb6FOLXStWWGnpyQu6Gq4/MAC1iaXpHQQHGXpOscAFylaq/Rt8GxYgb+PYJ6xu/431iNmBNv7JmOqxyEBMN47Hli4j5v/qiw7Bgm0KUM7yHOcG/ua75FqJKl3Yumat2HQDr40syVL0Bnfs3QAX+NQ7P8sC1P/pJ3wytMSVOn47NaJ2rpzwuCpGRH4s67Z3yuri5bAOcPhW03eKpzNHw780BSL7uCEG3vPS7LhIbmYnnxqQLhELm8yjPJk9eBnrrrE9TbyBwF7iFxrAHfMNo6vs660belPg5ebgAk06zbqEm2J5SBL/008S4956d82oT4vQ==;uweYVW7zkg27QaCa+RH5PQ=="
 ---

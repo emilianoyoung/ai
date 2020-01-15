@@ -61,6 +61,15 @@ related:
       - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1051617224.5e1c25379b3da.jpg
         width: 960
         height: 532
+  - title: "Machine learning set to burst the bubble of digital marketing"
+    excerpt: "There is no single source of truth The rise of machine learning will require digital marketers to give more agency to the main platforms such as Google and Facebook to manage and price the campaigns. Because they have so much data that they are legally prohibited from exporting to a third party, digital leaders have to trust the mega-platforms ..."
+    publishedDateTime: 2020-01-15T18:16:00Z
+    sourceUrl: https://www.bizcommunity.com/Article/196/726/199499.html
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 19
 
 secured: "AV/3dPBRUbFBtwXGbD57o9g6D6Hexae4VazUkkbrmzqACzSNk1GPG/dsbAddmh5o5ZoyFacNin4i55SovuPFQP5sD+FZZbzvtIlaht3CDgzAa69a20KXro7q0NC8B2EQzTR640uOQfIHZNLyBCmS3cFf7YPg/cf80kAWDwnrHvQ0zHwEz1if73U5z0trkNxYVmhNBoHySMB6aEQ8j2vRf6RaCtCHRDT2d6Nfvd7mAS1KPw0I6IOHfMv3XnlU+YM97DCxlAbR9K+0pEWwdQRH2J1TdAP7NmI26ahPC2Z1GGQ=;W/Zj6leCbAjE4LCgAR7VLg=="
 ---

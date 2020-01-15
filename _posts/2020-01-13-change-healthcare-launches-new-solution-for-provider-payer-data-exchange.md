@@ -39,6 +39,15 @@ related:
       - url: https://www.techworld.com/cmsdata/features/3780397/nhs-app_thumb800.jpg
         width: 800
         height: 450
+  - title: "Google Health has the data, but can it gain patients’ trust?"
+    excerpt: "Just a year into his new role, Google Health Vice President Dr. David Feinberg has a lot on his plate. The former Geisinger Health CEO must manage the tech giant’s multitude of health projects, from imaging work using Google’s DeepMind AI, to prioritizing accurate medical information over quackery in search results, to providing cloud ..."
+    publishedDateTime: 2020-01-15T18:39:00Z
+    sourceUrl: https://medcitynews.com/2020/01/google-health-has-the-data-but-can-it-gain-patients-trust/
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 19
 
 secured: "DMUY2xIDqk9MLSpQzMLIQHGEG2VQq+VJNq2FjNRouhBJwQN4sWBfNeTS20zbCg4/TkBW3HbSuDzM6k3xjib1DGIO3XMy/txFxoH4/Kw8Fh3+SxrNHMXPFnaSvxdsiLh6EoOyu6Ym1K8sTLgvjZrXQPH4Ju3xo5SRORtFD+JJWCb80SrIzothG+OCFAQsWKH6CATsoquxpPp3FhNsNt0D3GpLDzzAtCBgc44+u6W1Dmku7g7tfA26PSqJtkM14J+ovElOXr0FFXFsGcobCRMtP2qWEEsz1owD2kGC2xx8/FE=;ljp9Tk7TJqopBE+cUpqp7g=="
 ---

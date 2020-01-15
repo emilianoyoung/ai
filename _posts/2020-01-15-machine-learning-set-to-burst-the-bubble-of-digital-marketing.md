@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
-excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
-publishedDateTime: 2020-01-13T22:12:00Z
-sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
+title: "Machine learning set to burst the bubble of digital marketing"
+excerpt: "There is no single source of truth The rise of machine learning will require digital marketers to give more agency to the main platforms such as Google and Facebook to manage and price the campaigns. Because they have so much data that they are legally prohibited from exporting to a third party, digital leaders have to trust the mega-platforms ..."
+publishedDateTime: 2020-01-15T18:16:00Z
+sourceUrl: https://www.bizcommunity.com/Article/196/726/199499.html
 type: article
-quality: 28
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Direct Marketing News
-  domain: dmnews.com
+  name: Bizcommunity
+  domain: bizcommunity.com
 
 topics:
   - AI
-  - IBM AI
-
-images:
-  - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1051617224.5e1c25379b3da.jpg
-    width: 960
-    height: 532
-    title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
+  - Machine Learning
 
 related:
   - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
@@ -54,6 +48,19 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
+  - title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
+    excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
+    publishedDateTime: 2020-01-13T22:12:00Z
+    sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 28
+    images:
+      - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1051617224.5e1c25379b3da.jpg
+        width: 960
+        height: 532
   - title: "Integrate machine learning models with your data"
     excerpt: "Integrate your best algorithms and machine learning models seamlessly into your application in a way that will help you deliver real-time experiences, while at the same time giving you the corporate governance and ease of use that you need to scale. Kinetica seamlessly integrates machine learning models and algorithms with your data ..."
     publishedDateTime: 2020-01-15T17:39:00Z
@@ -63,16 +70,7 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 19
-  - title: "Machine learning set to burst the bubble of digital marketing"
-    excerpt: "There is no single source of truth The rise of machine learning will require digital marketers to give more agency to the main platforms such as Google and Facebook to manage and price the campaigns. Because they have so much data that they are legally prohibited from exporting to a third party, digital leaders have to trust the mega-platforms ..."
-    publishedDateTime: 2020-01-15T18:16:00Z
-    sourceUrl: https://www.bizcommunity.com/Article/196/726/199499.html
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 19
 
-secured: "vcz4NJeCqMJRjfZPuFkeCAG3FZxJJG7jPRCZ9FyYeQfDGOLD8cHrifvt1hjIxS6Sy+tJe4BMXHmtKNXku84mdmg+E4+ZI+I5dzdHd4GLnp5xZ3JKaPnd4pRXP4IhgLhTl4roAvlFEoABOc99dmbCFmaQ2+YLuTk1SOzScbAEmHnmTV7eRKfSbvVKmdIxECnrPg95dWNbSNIr76CdnC7uAwWg7Mwn0a8qY63X1mibChcIXINNBATliQciZ9N/y9/ByCSM2fbexHq7VP94mYWG3M0YcKoWD99pL5Ik32fmzopchIAO0CWIyI2h/SjlMVwZb9iv5A0vvCaH7VAzfK/w6ggjF7/7A6XdF6I/xWB18zTP5UXtyeIq9K3uAG9LaIqzIA+aW8OkbfBbqOHy2CbrkxuCDQOiYlK2Vt5TRf2wg5WHUZzgyzVvKtyZzwYFm1V3XYo7CrDxa2w23nxaYrFDGg==;MDFqIFF2mQy3+m99aOqOdg=="
+secured: "2AQX2E8m+dSXi72toFdyg4lGjNWycelHZwSDY5y+m4Evs2Pnk6+hEWF75GPEWupBNr6XtzTr6KIPACjJxeAfCQL46jylZpPBMOO5PljJ4X6xvAL5oWnOU+sWC3tg1NwiPLmSBlV36nR2UEOhDKCH19Tuq+gn9al33W4qewyiR+COdGISfVxJTpOn+O1xjauXUne3DucP0dD/wxvh9cOnPMmHd9Zcw63Itu7qlAdtf6J1x+2V1SaPnHE/XhJ6Uaicl5+IOFFNMMWMQnOJZREQqyf/+lsAZviDT1M3jX+Vu1Y=;4d4eLvf/R+qVOMnCNbtXEA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 400
     height: 430
     title: "The Case for a Light Hand With AI and a Hard Line on China"
+
+related:
+  - title: "Uses And Limitations Of AI In Chip Design"
+    excerpt: "From there, formal will give valuable input to the whole system verification. SE: One of the problems with those chips, particularly the ones used for safety, is that the AI running on those systems are basically opaque. Is there any progress in understanding what can go wrong with those algorithms? Brinkmann: The machine learning guys are ..."
+    publishedDateTime: 2020-01-15T18:46:00Z
+    sourceUrl: https://semiengineering.com/uses-and-limitations-of-ai-in-chip-design/
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 34
 
 secured: "J+X2NqBvdBRkn1VEqgFBMtBbf5eDIyzegUjpai+UqAYnvR9voQWh9q7G/9C9+SJaOgujGYmEs0z2AwrENGnArsbzz9Fs3yXDePVfSND1Ybza1/5JZrJCgHvPSEPQfI1uuWjYHkLka0Su80cWysufvvSwjVw5kmzCFhuf+nv+KcDFEmQVv+/j4vIJ1ISutzX9jBjn7rFS+OOaItxdiIH91P1QAyMzG8qWFx6fJoTV+tQ4pyhwz7twG0lRRYWxTgvLOjEtPgPT11aylz2cqsblL9m769JyYVvYmMDH7wxyTft0f5ra1KKjUzcrg6sDYmsiEjU7o37O0SzjM++CAPSjrwTk4nw5yBu5effTJO7tE64iDhZHI1R5v2+DiFm1h9iqRYqE0N5y7i3gd+heP7a/bShkAgYCEQQsg8CzsXxN84o6mB1/dtrG7xJuYEx191UGUCvEtiAUiFGKYjI3Ki//HQ==;Zr7kpJBjgPLEmb0rgwS1iw=="
 ---

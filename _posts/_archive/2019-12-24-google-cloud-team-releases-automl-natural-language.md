@@ -30,6 +30,6 @@ related:
       domain: pcmag.com
     quality: 69
 
-secured: "XBT2xUXAN+YaHVrq1vhFzw0uSmM0QfRPXcll0t4dK0KyXfe92B8XskHwCypzdz2TtWHbM1M3CPJ3o+YGSFYNgyvJvh3HixX74qxeyyj+L0HAlceXy/s+DSj9/SeyS52FzHNfukpdGI2b4FsJgwBcC/NV8crJcPmBOoW90688wFM+5+WLBmnAQD86Nrm0/s0fYIVCrekTtpOpe65nk+jHJZkQJFnm9yUJ6A/HUdycYPzSk6zj+ZAqSRgaNntrEHMV+5AQeCY0ucpWwFi02j0YtxhOvRr9ft9X3aIgBNVc1kw=;IOW7YJ5w9gutoT64aNT9Qw=="
+secured: "MV3ZNiW0FNJhhUiSZDYjReCYPRnbJqfFpkS5U7Eq40Va6wVBTubswrQ+uZbQk3/sQFj4yuOgqD4PR155l8wBd7ZBWFcuMXF5IKeLVZOnq/BqqtI/mqA5BgznKWfE4MH6nMwAdHZD2Q1eDYRbdVDZYROgMw/hWAFls4T4VufSYGR5hcRHLnGbj0deufHY3FrMekjuZxEFEK4yrPNg086UwseCZRAiZFYWjhYrc+z1D18e466744WPXr/ZePahPaWFpBfS0xxvI8g13nnarQVb/Bv1zBVhJzhO2sqmXXrBTxg=;PEeh/X+LlplchzXTiGfbKg=="
 ---
 

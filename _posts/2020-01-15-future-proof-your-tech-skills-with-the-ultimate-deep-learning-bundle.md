@@ -8,7 +8,7 @@ ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -67,7 +67,16 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 19
+  - title: "Machine learning set to burst the bubble of digital marketing"
+    excerpt: "There is no single source of truth The rise of machine learning will require digital marketers to give more agency to the main platforms such as Google and Facebook to manage and price the campaigns. Because they have so much data that they are legally prohibited from exporting to a third party, digital leaders have to trust the mega-platforms ..."
+    publishedDateTime: 2020-01-15T18:16:00Z
+    sourceUrl: https://www.bizcommunity.com/Article/196/726/199499.html
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 19
 
-secured: "lBjRPJ8jSTofRo1a8PmDm33AnOQa5W+mTb23664KaTDOrnjl6dppPzajpZFVGQ+PhXOezOw55mJdWloXZBGt6QbmnVUcLt8q1kE3TdPrULaf2bnJHVzIklQtTH/KSM4CBDxobEIxw86TbGaxToK/0TlPC0EynbiufxFeEDTFAen55sTNsBOQ5SdB5xMLZgIlAAoQE22aC255wE02vhVQGojFrL9JDmJoJBsh0VtPSS5xi1QCztW4Q/JJw//qVe7h5NWZEyqKXR93QFLHwn4b5jxs/dkbH6r23IPUIDR2TG4=;/HpZCDlgYvHcBeyYvGvIzA=="
+secured: "/vhXXB9NrFprnQSspZpxTrB31zjKvSLrbhcZVT36iznoRfzVWcv4KlSx4Tvd7hGz6RK8tkNqv5fmIfwZUSiSQ818cFRy3hWjQ1VKit0n4jCfFck6+GTVEycw38VQQrBoKljSc9z4SaCoOE+76mBTA1JKForFHQZwIBhlzb8jBKTM4+H2IsDC4U/8O8Dg2YMMAVBNMRwYse8vs3CtNOXarZntavqvj3kkZXdI6K37FMUH+kP8++3kRmzKa7xu67KIDvO+INueZsRztL3/yyTFNJnuC5idzXJ1vaUCxYfJ6pzFnWpMrPxYcGdC64Y2OCVn1hr7RH/ZFZIU1tgvaUg7oz31zUY8pY6h+DvgspHJKr10O4jVwNs8wlqYsSA3uTIxr5tb9Mn3v1Q1mbaA8dtRK1wS9PGtuV4VSzojtFmE5cVtZcxKHu+MHbvKHwxH2kvb6ePUNiIlZ4jKUsdlrSr/dA==;RPvijP2vpxETY0LiinJi7w=="
 ---
 

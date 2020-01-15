@@ -63,6 +63,15 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 19
+  - title: "Machine learning set to burst the bubble of digital marketing"
+    excerpt: "There is no single source of truth The rise of machine learning will require digital marketers to give more agency to the main platforms such as Google and Facebook to manage and price the campaigns. Because they have so much data that they are legally prohibited from exporting to a third party, digital leaders have to trust the mega-platforms ..."
+    publishedDateTime: 2020-01-15T18:16:00Z
+    sourceUrl: https://www.bizcommunity.com/Article/196/726/199499.html
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 19
 
 secured: "SXyYEhLVxg2Kg7Lbna685/Xt5ayvBKiNnKnkiG/g0haWHVA5TS/GdXkil9/c2IdHyKU1hDryXNAQr/3/Il6GO3IRkP9wms7q3zx16Vfs86C035v30Kak8kq3xkHTLeEQhpZ9FGiqtlrfP7qz+rnEjqTe+9uIpv0w7R27tVO9xbvFt+AQuONOLYuwetC547BLrXy9J4JA/XF8dI6q+EN0W/bV7p+n7s/ZmPOvBfv78EkKYtCG2ljiqZxlWhLuZz0PR/Gv25aiX72UX17K9l+MltkvWKel0W7tZOTLVOo025zc2KLUNMO3Wg2Q/Z0QZl/5pikB4n4NFDkrmdhH47vfqycB/YCN1f1Rv/j7CB+qnvjp1OZYlELdYzUhcWeTUjTk9KVVQJm6lI/a68Sk4t3gqPbNrUvjTFGRjQGhOZnScvkziPSUfN9CSt16P/Emihw1rcq7AbO8cnFym3qkHSVdfA==;1wk/tgaLWiqzDspB8BZhdA=="
 ---

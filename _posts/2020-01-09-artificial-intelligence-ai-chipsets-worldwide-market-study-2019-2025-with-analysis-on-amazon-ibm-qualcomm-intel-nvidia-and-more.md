@@ -1,21 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
-excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai) Technologies Co. Ltd. (a Huawei Company) 7.13. IBM Corp. 7.14. Intel Corp. 7.15. Mythic Inc. 7.16 ..."
 publishedDateTime: 2020-01-09T12:45:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets---worldwide-market-study-2019-2025-with-analysis-on-amazon-ibm-qualcomm-intel-nvidia-and-more-300984314.html
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
 type: article
-quality: 17
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
-  - AI in Healthcare
   - AI Hardware
 
 related:
@@ -67,6 +66,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "CZQZm6HZia7CbFBS8SDb46rDxFYgzzNq+y2XIeWxqgG0+XC1vzaB7YsVXrRz6hHYqNxHRsc2rvoG1ihBFdr57Y+1msj/x7y7MAPKKARo2IQxkIYQEsTkcVZksWLjDZ2Ln9pSfKSugFnZ4Imx5Q5MI8l/R1pGMG/L+vm2iy/oEgW0QpNK3/JI3f0NX8p330kXpHnJuK3U5FJCcs762K3iqIyAaBuc9aa445UeG+imIG3Zu5HG9NbY3TIYfsc+kpzDn0yA1t7PFrwrKZywYXTJDurR5EvPXlww2zN3KdORCKg=;wsrjQddRvR4y8096c43a7w=="
+secured: "scHK6TzOArBky4ROwFK81jx3wusPQOOZ1taR3SLOoPo6WpGeUTfm8q3+OmPWPE0njxfOfi1rdHMbIHuQTWp26kd4EQ/1Wl9skYKKVv6QjPQimoLVkz9/mEE5yO6gF++AiIXLVWxD31Tovhpdu03zYg+Hak/V8lWufWptv+cMcpz8/iCQ2IeTzoA7Sqpvp7Q0/ID0ZHno1lEhyAtrLl19EXRp97NmN7WLN1tYSOdBJ0v1AA4zlB38ZaTrRgZspZ+0dqIpZAOIUn8KBzPWgIj570SX7mw60Bq8ma8svTSicJc=;c5I0kZNS1Ogjog2ckpAsZQ=="
 ---
 
