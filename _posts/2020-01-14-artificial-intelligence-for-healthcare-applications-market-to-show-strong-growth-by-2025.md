@@ -68,6 +68,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 1
+  - title: "Government should embrace innovation in health care sector, industry members say at ‘Redefining Hong Kong Debate Series’"
+    excerpt: "Speakers envisioned Hong Kong in the next five years to make progress in health care technology, such as harnessing artificial intelligence to interpret imaging scans, or rolling out Uber-like mobile apps to match patients with doctors – a service already available in mainland China. The Hong Kong government has set out policy directions to ..."
+    publishedDateTime: 2020-01-15T21:31:00Z
+    sourceUrl: https://www.scmp.com/news/hong-kong/health-environment/article/3046258/government-should-embrace-innovation-health-care
+    ampUrl: https://amp.scmp.com/news/hong-kong/health-environment/article/3046258/government-should-embrace-innovation-health-care
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/health-environment/article/3046258/government-should-embrace-innovation-health-care
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 0
 
 secured: "D00eb9mB3tcmhOlZZdwl9WhNMKSkMiUR1zwdmWMTGih3vM8pezOjKKinQKGIaK2UzU+7ixDwOnlSOnGzxcZ9miXjrftZ2VRgZPq/nkk6/bkLzjWDaeE33wSQHTekcSCUbyZVAXfYowDdxvZN4HS6aLLcQLchB55rK9Mpj4fOVs+cZpOnPdKsWgswC0wZgX7TMaD87gth4FO0LMLG+fX+Y8lSIe5qJm8i1CUQja7aYNA7ayCtd0Zjlp5tIIVK5+bjgEWeUbqEt9jVj/hYQiqCQHXJIgaVZXpOXSHQgdbvBwg=;nOH8ExPUCMKSFiN5FclYRg=="
 ---

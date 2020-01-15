@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T21:24:00Z
 sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
 type: article
 quality: 168
-heat: 378
+heat: 388
 published: true
 
 provider:
@@ -315,6 +315,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 11
+  - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
+    excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
+    publishedDateTime: 2020-01-15T13:49:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/15/the-technology-202-facial-recognition-gets-another-look-on-capitol-hill-today-from-skeptical-lawmakers/5e1dfc4588e0fa2262dcd2b5/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 3
 
 secured: "i9cieljipvSMEB3ObQXCjFWTq/f6ESZzgEJBY9I1tHdqGqr5LYM+4FG/k3vdFyZPI7tavp5/c20eFwcHQ+EVwu0AV9saYdkewktEIX6UNE8/jAQHT9lL9dhR+WcasNPMNYaw3ZlwNlH/5DjeXo2UBXGtp9EMnX1eGr6DpD8cZ6jDiNUlXfTZnjQCkFc6CDwyVXvpmJ9f6jvxa8BR6PEVWAKZ5FSNu0k3Cy8f/lWzbAUy30OW6/Nop7Lu55/yOgWlzMzyL8+Y3Z4LvJeuHkfMxJcx/Kyb0jcNAs+jMJEXex3d25+SSsQA3WF9Tq6FQ6rJtPLqTkRiH3LFPDqXtGkaT8S7bzKyJGmERSHnQZ5zD5zoi0+H/9NGRlhiXA81mlg4I5qKmFL8Q5u6n5K9x1mi1j8qLPkFmkYdPnd53EJvxnxqn0LJs3BCPEplYiFDtSx2xNRqMmZl42fFK4K29dlwl8qQUjyVtICB0NiuJr7JwPI=;BICAxES/HY0v7u2i4XVbcQ=="
 ---

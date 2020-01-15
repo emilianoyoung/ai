@@ -23,18 +23,16 @@ topics:
 
 related:
   - title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
+    excerpt: "SAN FRANCISCO, Jan. 8, 2020 /PRNewswire/ --  The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new"
     publishedDateTime: 2020-01-08T09:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15089483/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025-cagr-25-4-grand-view-
+    ampUrl: https://amp.benzinga.com/amp/content/15089483
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15089483
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 15
-    images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
 
 secured: "ge7m0hm/3AwgfXqt1DCwX7MIeE90pSywUuBUn0TgaQHFNnW4KXlNewgbRVZkfexZFIQNax3bQ1u/3cyCve9cKLfh+DxIxiDaL6Oh/7xe4qUA4emnNwSYsxmcW+daF9XfWrwWfAh3mRLUCVpgpUErqgnd0i4llC5xnMSUvdZILmmyVB5Qk1lS7SbIVv2hqLNgCuzzDo7Dm0ZjM6TkNIWTYhegLbbfhAaynsc34pjOMCxxbMp6xDduv4R4yQ9CLUzvsHUTxEz9fMZMlQ5k8QARmyIUkIsGE3gGSBAXKN/rCIU=;egnPGWmLl+OiO8kTiidXiA=="
 ---

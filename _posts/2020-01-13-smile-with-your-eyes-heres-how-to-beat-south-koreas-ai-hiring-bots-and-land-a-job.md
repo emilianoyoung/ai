@@ -66,6 +66,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Companies Use Artificial Intelligence to Help with Hiring. Korean Consultants Teach You How to Beat It"
+    excerpt: "Artificial Intelligence is supposed to free the hiring process from prejudices and biases. We can have a totally neutral system that evaluates candidates and selects the best possible candidate, regardless of race, gender, or any other characteristic. It sounds fantastic, but it's been an abysmal failure in that matter. Artificial intelligence ..."
+    publishedDateTime: 2020-01-15T22:30:00Z
+    sourceUrl: https://www.inc.com/suzanne-lucas/companies-use-artificial-intelligence-to-help-with-hiring-korean-consultants-teach-you-how-to-beat-it.html
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 1
 
 secured: "wjyTg7+LhlXiqO2hd5mR9WhBsPKQAWxO1gXMERMI1e7YJ0yHRwSgMt7cfV2LOOHB3IATShmPYpUm3n3zG19Wvzdy8TdJBezneTtX/jrisLnL0Z/TQGtEEQPnnoNKejNVqRO347IjXBvYjG7hb8MUBHVOhaae2jB8GrrrMUMdqyX7IIKKCxt/hh8DbH7uSx+d9qeEgAiyFAKfi951UmnSghgldYuxhpX2l4Ut2i9OyCrWCCiMy+tmZH8o3mNmjZVLIArvFhDGCFwwkcrVymeMq8oRfv5Tgd4/gVt3exyF3vKv20xGjlrl6u5jimKMPz5ZwJrOzvyNvmOb/Y/Zc0SG+ZOPVrEiiopCUh3EHwP3ynzhG+Yv26+m1RCmBfBwjxL0//Xl4cnRJ7Fq0+w+SGEp6vqzovcwCbYlX99S1tCGHfSljnYStoz5CNq83HJbnk/rgLGAhsuuYCSttqDWtPbhEw==;sbBLnsstKsy0Xigvjg8AGw=="
 ---

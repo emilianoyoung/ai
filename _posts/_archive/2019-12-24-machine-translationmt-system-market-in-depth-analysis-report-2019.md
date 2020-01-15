@@ -28,6 +28,6 @@ related:
       domain: marketwatch.com
     quality: 3
 
-secured: "TFJj18LDt7tLPu/xrphUw7uGUHOgtuEc/Rw9to7jCZg8I2vDqB0iWUcK6459ZMdy4wrvEWN/4dvtZ9To+ZlxBjk8YXjaXejx67DcYrH3azNfpu1BbAmIKPnTwoip73pFZ33tbOHVuaaZ85sZM1hEgRr7GzaU7sRvShuXZ0n7Ib2x7YYM3zE39nP1j5A31kvG78Km7KR7Zq+xftFk7tN8cqs4U/mlC6m9pvc++fVz3FgLS7fjlzPvdopNrQncyO1pdQmhwFIjs2ejSYLr4fYCq+evn001lMm9U/VzPRLXyL4=;fsJMi8iCkrx4Rcb5C8LA7Q=="
+secured: "5kL5aK8YKeYD+O3gHrZPXMkDZ5YhwvBFlpYuBIWBanfmN5t2Ll8DKZbAWbcQnn4OEg2IHnLL0QjA8crAyzuIa6eauiM+NVlGZtXkyjxcBEKgDbEzeltxaHg/eGkvskZ4xKBjKRz+SNSDKuThNVfMmfSZyQiU3rXVBn02sz1X2XThyFN+1hQjOx4hYRaXqWO7pCFC7csH0nLy0XB8fSJ+ZEbHxo3MYT1bV0XkXPoSFs6aQXetT/+ZeQVLA7mEFebQzKyrMofPUO6f/y9o2Zrb/M2NnDRv66Afs1Bp8nxETYM=;1H3UPzU9ZQbqCoDrtUB51A=="
 ---
 

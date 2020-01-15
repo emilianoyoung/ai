@@ -30,6 +30,6 @@ related:
       domain: forbes.com
     quality: 54
 
-secured: "ZAMYfT8gVNVezJp8LKk2agehndfHhNYG3AInADFiMdPNdAAFzN+QUdF0L/H+7vqsEG+CX//CfIukZtCobPBG2nvZN9RkDAL0ViGCQiWPaDY8WnyVibC7eQBQTW/AIcHaVdVmb35YrkQ+r0NUApCOKlWzq9m2Actqs45sPKXX4Qrdemn6o4h1XYIXE9mGAanSjCfI9wFxO4E4InCPBIPCgegnaTKcrkvB0OTA5WZhNp01/Fkc95V0i5DJbUbw41g1xRWcKjrlEY6H8O2NsR7MT2rOzs0YaQew6uVGW/pnhRA=;f8KPl5ECENzsZ3RmgqXpRw=="
+secured: "nF9wVLygHaI+klE7iZLDbafDtnUrnrQetHthz218cxlNYNRqMj7XFdEs56BNG9jkr1FuyyqnuflQxWTm0akP+Q9dKBIVExYRIXGGxyXb4EHHz+gFf6OBlMmlEpL91WI0NviUQf7j+ggY8vQJYxDd8qE3aORQLxuC+c1B+7V3AjpJ/sq1+EfU/jprwaJ0Upyuw0nJnielhBZfwCUUWr+V1plKiwh4zf6Byv1A+hhdqgQtpx+90k5SK9K8jd8qw3eGk7s7cSe36d8ZjvPinfn57sZdbeNSQ8GIGavjmvi/Q6M=;R7ytDObiAuf/MnQdVMajXQ=="
 ---
 

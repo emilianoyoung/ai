@@ -2,20 +2,26 @@
 category: news
 title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-publishedDateTime: 2020-01-13T17:49:00Z
-sourceUrl: https://webuilddesign.com/bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key/
+publishedDateTime: 2020-01-13T15:31:00Z
+sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 51
+heat: 71
+published: true
 
 provider:
-  name: webuilddesign.com
-  domain: webuilddesign.com
+  name: Cloud Computing
+  domain: cloudcomputing-news.net
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
+    width: 600
+    height: 378
+    title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 
 related:
   - title: "German Bundesliga selects AWS for personalised coverage"
@@ -42,16 +48,7 @@ related:
       name: Rapid TV
       domain: rapidtvnews.com
     quality: 39
-  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
-    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search historical footage and surface ..."
-    publishedDateTime: 2020-01-13T15:17:00Z
-    sourceUrl: https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 14
 
-secured: "NZ9xbAeVihLwfHjWp9ZLyTrILiKRrMAv1tXlh+ffpbUYvIuP/zxkC3Xv/f1wjJ4otljE/NWZbnI67vOGcnFVIwrk4Qzf51kCcnXzDDCqJwmeV3Jubl6Hz1DyG1R5Be/s0ODfkIjCNNiMzqTQpp6Khqo/bhbMGMUSJRDT/L3I47JB0zEEwA0YvIL20C9p/9jEh2TOhl1vG0sOkNlCGd2Wjnw1QZLKJajV+d+ep/os5THGL741epJIGZ1d3TwexIsMwC3UMDlmKP3vfbLh+cnNrHE7mqgNc/7uCJTO2/ruPcLyIStAyZ20hz04jKa3DZyZXShSeAzMGnao8kMiSVwuZkAiDihyT3XCR+vOtbMjhd0OoPioPanFhn6tZbxY0Y4lbqVUuKlvYzvv/SH+gEjlOMPiZz/XHmwypyzzCnviVUi6Z+YKeOlAqhgOykik+9HDrQiWYEQkHKK0OBj+sojxdw==;MoBSj96K8h8py9JYR2niRA=="
+secured: "pS5/dPNsPf9FXSvduwsYk4JhfKHvl8E6ENNo6gb8qydJHXLSNLIXDODa4p7k/aXoCe1CgTfh9apokSEOkk5VGRG3uVNqj5O/DLBJKgw8SQpOMgWU4T8gbrwnUcH77pzyYRtP8BK/OYeRfuCLv1QJ1KcZKRM2htfh7KvadHKC7wjxPgWaSDraPTXl0nck+fPlnt7cbXFPMTtXwRVXokPoqV8jixIP7RpLwp7EgzQkqMIRfYUM8Il7weKfzg9VW5s03CX0g5FE8SLR4RC3qAOSQH7Rse9EwCkPVdnko2+z3iNmKjxVa1YJNRHf2hsyHEKI4hUNbBdZp9vc5i2WpbP23LQWiCAnixZiUhNoqSGHHWewuX+9tksHBDjKf5Eh27dDWRU4hlq6+ti2+v50CvAeDYsgbs70QecFFrZom5ISqV6QcglOPshPS6ReVst5LaM52mvizROMKwwGG2CLOd8VlQ==;dY5cPo/qCgft0tnr6ue7YA=="
 ---
 

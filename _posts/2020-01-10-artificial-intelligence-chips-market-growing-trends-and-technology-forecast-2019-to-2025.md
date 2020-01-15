@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-10T14:55:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-growing-trends-and-technology-forecast-2019-to-2025-2020-01-10
 type: article
 quality: 55
-heat: 325
+heat: 335
 published: true
 
 provider:
@@ -222,6 +222,15 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 13
+  - title: "Global Artificial Intelligence (AI) Chips Market Intelligence Report for Comprehensive Information 2017-2025"
+    excerpt: "The report offers a holistic overview of the Artificial Intelligence (AI) Chips market with the help of application segments(Electronics, Automotive, Consumer Goods) and geographical regions(United States, Europe, China, Japan, Southeast Asia, India, Central & South America, ROW) that govern the market currently. Artificial Intelligence (AI ..."
+    publishedDateTime: 2020-01-15T22:12:00Z
+    sourceUrl: https://www.openpr.com/news/1897062/global-artificial-intelligence-ai-chips-market-intelligence
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 13
   - title: "Automotive Artificial Intelligence Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
     excerpt: "New York, January 14, 2020: The global Automotive Artificial Intelligence market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World."

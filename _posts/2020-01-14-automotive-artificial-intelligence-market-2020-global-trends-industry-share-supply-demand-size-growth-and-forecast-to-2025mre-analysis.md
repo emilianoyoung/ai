@@ -231,6 +231,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 13
+  - title: "Global Artificial Intelligence (AI) Chips Market Intelligence Report for Comprehensive Information 2017-2025"
+    excerpt: "The report offers a holistic overview of the Artificial Intelligence (AI) Chips market with the help of application segments(Electronics, Automotive, Consumer Goods) and geographical regions(United States, Europe, China, Japan, Southeast Asia, India, Central & South America, ROW) that govern the market currently. Artificial Intelligence (AI ..."
+    publishedDateTime: 2020-01-15T22:12:00Z
+    sourceUrl: https://www.openpr.com/news/1897062/global-artificial-intelligence-ai-chips-market-intelligence
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
   - title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
     excerpt: "New York, January 08, 2020: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
     publishedDateTime: 2020-01-08T04:26:00Z

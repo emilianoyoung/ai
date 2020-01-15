@@ -315,6 +315,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 11
+  - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
+    excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
+    publishedDateTime: 2020-01-15T13:49:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/15/the-technology-202-facial-recognition-gets-another-look-on-capitol-hill-today-from-skeptical-lawmakers/5e1dfc4588e0fa2262dcd2b5/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 3
 
 secured: "b1UBeEEB39pJdazNQyOlgMLc3PGWn3FAyXwIl50dcfhR1iG2Pl7nNjCVBfBbc8pp4RNpFK8uO+V2dA6nanS8H0+rOjYzAfwsnv2LUS6ymS7pm6R35HnwWYbzhxLrocy6pIoMBYCFBAl5hCA2o5ZqIarImcugfvdf0RdJx2WMzQcKtLFWwWGiVhFmumlLH0EzFWjs4l0L552ml16zLZQZrOEPacNhL/XXSwLBJaw5+pdlC5kJ1unldEqLLLdewghu3DMdJpnbQMv4xxiA0WQzNyWz8jsKm8WZIHVsBz4EROZNB3wyW+Sry5eJlvyhp4SsquLqLy3j5mhJKNwrTIXAflCYTKBQeTsMd9U6VEOesGlDqytTJDqkSvloRKxjjO7uZuj7Kh21g6yBlpM5iayO0aHp0f9Kc5b8fHs8GS7gUppnvFNriCNaAd2zP3tx/LotrqKAXRdZdMpNIQDtEnUh+g==;utxicl66y5gy3BXniVOtYg=="
 ---

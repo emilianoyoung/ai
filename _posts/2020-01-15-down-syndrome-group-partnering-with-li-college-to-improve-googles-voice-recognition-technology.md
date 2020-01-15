@@ -309,6 +309,15 @@ related:
       name: 7News and TheDenverChannel.com
       domain: thedenverchannel.com
     quality: 28
+  - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
+    excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
+    publishedDateTime: 2020-01-15T13:49:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/15/the-technology-202-facial-recognition-gets-another-look-on-capitol-hill-today-from-skeptical-lawmakers/5e1dfc4588e0fa2262dcd2b5/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 3
 
 secured: "mIJxundFF/I8hqv/yBQZIT3B8ojW61djEV/TD5vK8LyQsQJarkYw3MMLFY1CNeJVy/r4MZVWmB8TIzD0cUybrA0lynPIOJUPOAmfZx28vSwi64kZ1QjudsWv3yHQ4S88u/IHl7iCPtGKU9jnBiaysErM6N07GI9a9JlZ31Bsv2MxwUmmZBAgvBC5O3IhY7nR0MazZ8MJFGu6WIo1wnBgsk7krvkyY3132u6h1inA57x3K8zcNLq91b2HcWaO/q0FZ/Hrm/5pQTtfvhEbGqTKSbcws3Y270WDe3GfLTAGWnTtAk0upvwAa7mvVnvQGr4KB2zTyEkqYtfc+WiDzfv/lvHJ3a9XnTMj7rOQAlaPHFFIabZcN8VlR+JQCVm+BT/iAJmbOtb/7Wi9G4goS3q/TX3GJPJQLudxfG47tUCrO712dPOf723CgHyvFyumi6Mr4h2OEMIntaPGfK/U1HEsWw==;80gHHJmu1S90NWM/WcsJvg=="
 ---

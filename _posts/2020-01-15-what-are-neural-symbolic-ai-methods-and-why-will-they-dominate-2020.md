@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-met
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Machine Learning
   - AI Hardware
 
-secured: "SxZiaDTc8VAXykE5CezdlJHh1lp/Qg8ojnwiaNX8UJDjRD9cmlD5OlqZbBBgcrVfRf+n/tKjQeB6MYT8s+eVJQxy9nKcXdiqPuMA0uwuxBqgLDHxqSCyWZzjKcmZh8YPIu6U2J/KeUdxQZHw+tdw4yXjKuZSUHL38Oke8IuOTn9eMIuT/cjMGZs8paJRsyXA7hmrk68ySJKw2OIx62p6wu2Tv8JBnuLULxEyo8AgUZVay3Jg8ahMk0zv9WMALLsbOG8Q9GdxslgIWHkkgv7LIJEuUU9irlXHc3SR6fbY3KE=;2CveNQxJMe0H884m8CLy+w=="
+secured: "pQ9iMOV/8wBdB54qJCHII3hkSfBbKGkVQ/7u6IMUrzBOcRlr6yReURZg3JFTylAPrwCeoEFF2Dt0FT9P1avCA6RGtRcAfai5huQQH+/QphkfqVwzbYdkXIDGuJ7d8oHdd6U9xWmYJsQEi9XZUktXxpRww5ppLMiyG5/i3UR2f8Slj0bsXcOBHDqWQI3gOtIRwWSlRiKzVrax5YJcqr91AAnXHDU1VvNFX69TrC4yjVWUaWsBS+0RNQI/rxM3ALaK5gRXEkfFE4KZ/HtEvbF1oRXWQgrGVYMnZ6hzpEQwrwc=;aCjC9ZRoKLVfHbB/clI/Gg=="
 ---
 

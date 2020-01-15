@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
 type: article
 quality: 65
-heat: 105
+heat: 106
 published: true
 
 provider:
@@ -81,6 +81,6 @@ related:
         width: 1240
         height: 827
 
-secured: "D60wi+ag1xf/VjQ3DZzDh/1HO9WXxG+MtlqlgkRZkDXu2y6QMYB0r/ylxZZ/iIkGrumZsXMiMtLYyQ+UTNYlwsK+gKcY5BQ1Rm5+TnZPklJX8VbIVUTxnKx6j7Qj2iKng+UX37yazUsWS6dWJnDZU0HdrOLcDLZSC7TQV8cDh5pryVOxVEVQc0TFyjC7pSfE/xP3d5T30NSzCLtKlv/gTqq+Pj5Aq5AU1I2Oezk4UL3LT0cUlukYxGJletRFzIaJMudPoHiYJh9gilRaApz6pErYK3nRcCleZEe370eMcSw=;K5kCK6gwRvKqXKZGCs/tXQ=="
+secured: "/FEUThwqvLYFTK36XGQyPwll843NAs96Q1UfPOTSgA+a913RFAU67mcgs1QQY5Aymmj9WsHPENerNTo7goUzRn0SpL/4UzmxnSN/ZmSOUHz/jO6b2ZL7vG2EC1ozv0tdj0Rpv2HDR8lr1/4ERvdvslW7+v9CJph618W0M3Ir6ZGMvTFi7slUKl136VR+KRB0J8FD2f5t6/GV5y34MLZ0hPGXTwKZS/ql7BSLyih1CqVm2NYXEB98otR7QxY7nNbY2lXb1HeVyAHTzYYLScucV4P8wX5xWCqrNoFyrKLEQkw=;JWdjDP6Xc8PzwDoe62erFw=="
 ---
 

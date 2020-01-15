@@ -41,15 +41,17 @@ related:
       - url: https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg
         width: 1200
         height: 1000
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-13T16:57:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
+  - title: "AI can detect low glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-13T14:58:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
+    ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
   - title: "New AI-based technique can spot low-glucose levels without fingerprick test"
     excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique that can detect low-sugar levels from ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
     publishedDateTime: 2020-01-15T16:14:00Z
