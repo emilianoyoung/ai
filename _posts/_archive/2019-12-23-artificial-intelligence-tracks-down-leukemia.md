@@ -22,17 +22,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T11:12:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 39
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
     publishedDateTime: 2019-12-26T12:48:00Z
@@ -54,6 +43,6 @@ related:
       domain: eurekalert.org
     quality: 19
 
-secured: "9J36XGgL86pUxV7xg73Er19BnGMxLXdXrYZk35Ns8lVoeyp9LtelHqVlYTqpCDEs7E5KdFl6cplEzGdSrm7Qwg4NzaOCCAGqriSlTVJMZxe5se1L3QYc/xYUAm1AeBG8bTlEOMwLr8sTnvfHMn5U8goy/xnlZZ1x6g+L789Poyx9aBjKxzIPx74bZWFbtmUKTjF8jl7SQ8t8eILC+4dhdjMi6/gv2eekjMoCvaIymRaljcTvKIbuyC9rOZU0LRQJ8nfkPUbR4iGUFRXCPZ5T3kQtbR4PVuKOS/DFqIXfIKA=;kZLhIX2i1gxobWZs54wrBw=="
+secured: "AzCSfpBZs1toGxPK+fe0jcgq6Dcgj/7f4tywkhbrlcoVZEoAClZLaG1kSfjv5TTUpn4CY6WC+BPDhy1PHwyloai1w3Y55SD7luA413qzPVCpLQBV7K3Y49NElj36Ok214FHdZ8pCkhk4qlQLNigolEZdaKRoP7pyBIhOKpBdVYyIVYv+QQ53nvdnT85hMsXv3gWPtjDU5wdVHkclaZlV+XUIp+ungSuiTmpu0iY3tZltIBIxF7OUc9Bfl0RQeRJg+Q3Gx0D/QO1jg1qGN7IDFydmDwuU2hXL4NSEUNCNS/Q=;34/SYJ4aTvVrxZ4yNjEP2w=="
 ---
 

@@ -37,6 +37,21 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
+  - title: "The Emerging Meta-Learning Oligopoly"
+    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
+    publishedDateTime: 2020-01-13T12:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1195656750/960x0.jpg?fit=scale
+        width: 711
+        height: 474
   - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
     excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning and NLP Certification Bundle for the skills you’ll need to join this revolution."
     publishedDateTime: 2020-01-15T10:02:00Z

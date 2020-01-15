@@ -44,6 +44,15 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/q8ovojP5sq6cYvlxDrjAkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNzA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/4xaJAXwDPoTFHkUa2kM2fw--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/b223e404b917d8148a772e0f60a32f30
         width: 635
         height: 400
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
+    publishedDateTime: 2020-01-13T11:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
 
 secured: "HevZK/JGhraKeTtYnocYRE4CMP++m/V3222Q0aW980GvR3ktYRirHP+/vANZJNrx+C/o/vpKPncK9VLgALHGLrcLUU8mDY2mvl/DzJZonQRmG5vszB9+NGwxgWpJTlL/cwyjVF6rHUeoIejdMLBXrZe3BDBqSnw4d8yyMMfynYRVlq1aI3dvKTZp/2hefs9Km6slINdwku0HsKDEBxzrHv8O/GaH/t1SlkWDHNq8ZKO5+RWQmC++bZ6sTSpq1pz/yH8ydDTaX9MKZfqDhgRD5HBGEuY6CCTvf3/P8wq4eAk=;xNiJyXeNorXtQ5JDQlqVcQ=="
 ---

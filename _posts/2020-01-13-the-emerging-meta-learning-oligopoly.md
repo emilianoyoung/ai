@@ -1,23 +1,33 @@
 ---
 category: news
-title: "New approach using deep learning could speed up brain image microscopy by 16 times"
-excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
-publishedDateTime: 2020-01-08T23:21:00Z
-sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+title: "The Emerging Meta-Learning Oligopoly"
+excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
+publishedDateTime: 2020-01-13T12:23:00Z
+sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
+ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
 type: article
-quality: 48
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: News Medical
-  domain: news-medical.net
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1195656750/960x0.jpg?fit=scale
+    width: 711
+    height: 474
+    title: "The Emerging Meta-Learning Oligopoly"
 
 related:
   - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
@@ -35,21 +45,6 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
-  - title: "The Emerging Meta-Learning Oligopoly"
-    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
-    publishedDateTime: 2020-01-13T12:23:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1195656750/960x0.jpg?fit=scale
-        width: 711
-        height: 474
   - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
     excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning and NLP Certification Bundle for the skills you’ll need to join this revolution."
     publishedDateTime: 2020-01-15T10:02:00Z
@@ -74,6 +69,17 @@ related:
       - url: https://technical.ly/baltimore/wp-content/uploads/sites/3/2017/05/ff1812.jpg
         width: 1200
         height: 900
+  - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
+    excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
+    publishedDateTime: 2020-01-08T23:21:00Z
+    sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
   - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
     excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
     publishedDateTime: 2020-01-07T12:27:00Z
@@ -93,6 +99,6 @@ related:
       domain: marketwatch.com
     quality: 37
 
-secured: "3fNmiszAnBqjLs3VH+brVxYAoXePM81mhuSC5cOdukHzRZd57JnyrHUgPhF/yvZZEFhJGTAectsUzXX4ZgfuSXBaj1JA5F+9WqKF5PpZmQgE6tcC8+VoYp7aYNXf9DEwvPswwENjeWm/wmsoDa2mlLYsFVt46l8md5KRO/+eH6OjX/UT25dPQVolY2BKDg7dhwcgk7qReEGa6Cs/aIcqP958zNuv8eIcaJfTQQ3T7i7+ni3fNzDPtmnYBcHMQQHnxZ/1KoIMMpp9IWkY6friTBq4RreKPadOLSmxVC9IDZA=;Z4TnugQLuIAmitU9r1LzZg=="
+secured: "EzhozsHe8yf8dARQaynitoOliynHT7K2vz6yhganKWZfc2W2IwAxItFWy0wCpmwW4l9CijzAWhiUVeTkAFECsYtcwDnNrOVn6FHjVUdiyVAzECXHETAx04UkPZCKpnmdptvFSftTZeC1Icen0anuTyTic2Ot2ezDEcDqoT088c/tmcp2O4Xs1zMB9TnYObWn4K7zXuZsRhauhJl+Vy6A2NBRytt3o7zYhE7dJkIZ/KDZBGkpocKlfxpIykW6wR5dB9VfD+asT5oR5g8nxVlfPTkzX77ULfZ+VAOuXl/Arvq9gFfZubpHws4jy/+XNoQ0Ere3IXIp6x3QKMTKzvwJy4wTKnUbTxXpYOsGC2G4GMg+1FXJS+UWopWa83Lncb3KcG6e5kecfedNswNKRr6mzUuBL9zybf7/A/zeraH0X54quuyGHZ37Ri9WKygHr09YoniqCiCpQY4MHFDKqKdrZA==;pC4QYUiT56jm9KXR+yUOUA=="
 ---
 

@@ -34,6 +34,6 @@ related:
       domain: infoq.com
     quality: 19
 
-secured: "zpOWHbq9l9DDINy6nJyfETw7iItKsI/7HZx9lKGxqiQSkHPuVwzFU2lAJkjfdKDzIejCd39WpeJgJEmLvNerqK6v2Sy5nxVbErqNz8Ls65XOpD/5++Iq7g7hGrqR1/AzvvQV1i495v4Y2CgoWsej/SlB8xyH2nzivPd+NPHmjpMbL5zZgYnKIPlhtX8+8qMuvEUNWuDHHoRjLrnEeDwuFfxYgyyhkFRaZTx6jTn/6gcIAlok2Lgvgp5xj5QwPIWi2SzkZc3vQvSQi+iXaHAjbnWhIWdH0/W1Ef+E683EpAs=;64CkMiU4FNYTpjlLdMv9HA=="
+secured: "wwsez9+L5wuWL/FJH7nnWshTEsGSOkKHJOtR/LOKLkix5Vl5m1I7z80Y1/CMHaXdt//xZQvc0MS1hJf4VWfszJnmW32FuPQpc4Jh9pjUDLVmFuaM3RUeyA14Tsj9I0zVgf3N5G0qMtIOw/ihX0lFZZz8uFYcDZO9MYlJgHRe0T4E5koifMIu4G4Y6BqNMM8TDADizZFj1VSWsfKympA7MWONoKDrqbP80wf0fcKasZ+jabeL6o/+4u8oLkkasyWFus+Jz0y5jmC0yyNA/O2rpXvt6gRUGItoo4S6SD4qTdk=;G1iVU+ceDPvWi7nh2N8qPA=="
 ---
 

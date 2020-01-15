@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google Cloud Team Releases AutoML Natural Language"
-excerpt: "AutoML Natural Language works with a wide range of content such as collections of articles, scanned PDFs, or previously archived records. There are three steps in how the tool works: AutoML Natural Language also supports analyzing PDF documents ..."
+excerpt: "AutoML Natural Language works with a wide range of content such as collections of articles, scanned PDFs, or previously archived records. There are three steps in how the tool works: AutoML Natural Language also supports analyzing PDF documents, including native PDFs and PDFs of scanned images. To help with challenging use cases such as ..."
 publishedDateTime: 2019-12-24T00:00:00Z
 sourceUrl: https://www.infoq.com/news/2019/12/google-cloud-automl/
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "beT4xBWRE6y9YlzhrwF99N9QqJKyxuq24ZGszdRIGOP6TlYjElDQw/kY3xHXEIvEMhkuvdZ/lLVBhvRd+mwb2cXs3U0sAf4pY/zXvqvHmIYnILZOkH4/z44uVyLEKo5U3OkAanonHZfNOxH4xVQ+5cYNYaEI7N+KOfg+IhbyefWOe4d8eIVlkEm/NkqBw8pNBURwJ1qLj9iYdEfvsGBAHTP5Qxps2M9FgwUVCUqR83GLrJ0+/sTVCMyBFJ5EteoU0TdbWYED19YY2R93xr2LyARicnHK4a4l/Hpb2LmzgJI=;8EklwJ4kora+1Uw90pdVbA=="
+secured: "4cTeRAaHTymGVfLWWVAg7vMkpdDBgsZXFHfKdI3E0FmkRMKOAVyViuVxJnPtIVNrOCtcjfRlAfaFiLw7qOal/G3rkuDo9Rj1CXcbLeRl8yXxky2NGwdVtwrmuebrCl+NFTyOuyEXuWVFZ70GE+BeW/qrFSXzlAGlvnQYzn57BJnKz6IqFx5Bg2yN1IlZcQ5GEEfY5AC3ZAViMYiekHvycmN469oIac8f6cAfRCvZ13QviKjJBPQbVAs6DPPH1C8+OPZA6y/DlESDv6yex+Ng1k65q4yHZ8M9kTDTRqsuHew=;BYvFXcfRoS0WJ5ukC8uXuw=="
 ---
 

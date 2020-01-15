@@ -19,7 +19,7 @@ topics:
 
 related:
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
-    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and ..."
     publishedDateTime: 2019-12-24T11:15:00Z
     sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
     type: article
@@ -37,6 +37,6 @@ related:
       domain: marketwatch.com
     quality: 3
 
-secured: "Aa3dTmz6K0XO953h+bAHjwrxgB56mmMP8bdI2JZ69ZVVJ1cIqGLuz62oz+SC1hNbDVqmihf0h8ru+RQE9K3s/E/VDsHb/ydKDp2qXEPbCntFhw1/HuE4drqAUuNTOL9soAq7iN7/118GqdWbc92ddb8Ow8OE3+qDxRC27XhX5/uBdTe2kTg7XXjNBcMsLyvvx3KPeuQ2mTsk7ROrZFCxPT0xjBZItXLylvpABw1xg8Gh9MSzu6pTvt829wIEfBmHULJWhS5JD8TX/AWsUSkVpiJAhpR0yTNZnVfiumc99dw=;YagahCv0Xr9kS9g9oThpJg=="
+secured: "bBd/V4MIOdCNvSMRjheb/Vx5WJ/AAV/sZTNdJyBj1MGerSR8DpanPiCpKOxmvto7LSpQKfBcAbhWJ/hGGrGALRE9H2fGxrETH1LgZvsPbY6MJycVLpwkAfZWcIsFqBGc+YoWSLwgx6JWsDN8NWuOOnnEgRIYgQn+wxRb4fZEBsnakxozVhOevjaGWQH3mqtf9sUdnxPCoFg6vYGB+BvNI5KaYtoxTVI+spvby/TNIVsrUs5//hEnv0UTYj9yyF+5FQcwoiyYLpxQGcXlAZfHtU3R03LwYf+DUdhaju1ZJX0=;iqqWNWsi9+Sw2fDBxrHX9g=="
 ---
 

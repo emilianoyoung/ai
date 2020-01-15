@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
-excerpt: "SAN FRANCISCO, Jan. 8, 2020 /PRNewswire/ --  The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new"
+excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
 publishedDateTime: 2020-01-08T09:05:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15089483/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025-cagr-25-4-grand-view-
-ampUrl: https://amp.benzinga.com/amp/content/15089483
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15089483
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
+    width: 1400
+    height: 733
+    title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
 
 related:
   - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
@@ -34,6 +38,6 @@ related:
         width: 1400
         height: 733
 
-secured: "/Cvw6rLWX3NBD/gQh+Zvqx0Yf65W7GZBVkb/exi/iy1Ug3qWUE4coBLA5I/7aNwqE092+uJ1e1WWiPo1Y456T2gh8R/c2UJPubbeOg1NSdveVqp3vCt4IESh75mnmopRw8CW2bmHnHdBYkbIE2PSBrm8bGLmDESY/OsPDFC+YJknjzz+nFjStyn8DW7gTUKGYiojEgGqgfzqSc4toeb2rkV5N+sIeXlvHJWnRg4zTh6kWkLljmDzc2jdBP8xUNyasgtSwSDZsMbcbUOSF04p0UE/Pm2dANAMUKDYbVJLRME=;lX8pf5igfJ3Q65fznkoybg=="
+secured: "RklqrYBfTD/Sip0yiY0C8OU8l0h5T8EiqzoW99zezy9qr0ANTwW9STiID8pQDN8xyffvlaBa8y402sRNH2kW05/tYOysSLMpG1F+XFdjYc5WnYOR8VOyE5bnm14/LiXFC4i6x9hhUsP8cEgNjHo3AFYFTwkbr+5/+fyb87jPExecwjxklC2AxJgAgEduHIGDN8QYkiGKz0CI2asBie0g8S1NTW+omIzx/FDSInb+awPbZENyX8cf4tg5F4gRdJqtMTXFbEe1eUYBAGRWr4IkC0Jzpb2Sg0DAQWdmSC/sXs7U57BbU94h8/5UXdFxWydg1rj3jbywDoozPa5f0zFISBULYTShW+HlDQlzyE5eyt32EIIrUTAIOIDa/GB1sk9stxCUQv/sYQAexbLufT9iu8NWlYb3o+VWM/4Dc0BKH0MFjmwvkZI4wiwh6bdI5OrDXvryJZwHEIBp93UovsGTpw==;dUUYLEgWgWLsuK2iNWYrcA=="
 ---
 

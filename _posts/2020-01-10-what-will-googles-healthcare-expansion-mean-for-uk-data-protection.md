@@ -39,19 +39,6 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/data-analytics/3.jpg
         width: 400
         height: 300
-  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
-    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
-    publishedDateTime: 2020-01-11T13:21:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
-        width: 1440
-        height: 1080
 
 secured: "uqBsTcw3/jSqSvs01RP3st7uxaPukeE/prZwyunTOq2QouQVRB9CKZTFLK8fmXkkNau9PLqIcaUSFknCw5cfuOCFFl5wSoYlhnJYWM3b58a/4XBd0MN9E0wvK0CCumP4dx2IleXDld05hz5S9jR8TGiS4FtSi90nY5ARrs9QK0aEfm17zXe0NWJMnoIS1UPBs1xm0I2oSJUQNd8Hc+J2xBKH8Y6UcH056X2Qm6yvERkXq7nAQNTB5CVUo7zjDrFTu3+2mLD2C/ywZrPUYEp8djh2LA0K1SdXSE6TCOpQoi9H3YZUmZeWeBreE8AfCAQv8Bxaejiqv5ukW9tsAkBDICkbFSDck1f1HdgGa04Av4KFvBvqNTLcIFsMxvCAplIllS/dPvPD48rewm6l5XYTtIExStD5jGmPV9g1dS9OVerEdFwBGMNjbQFpU4J8kUB1z/Ii/GhoJm4RiX5402j6bQ==;QAZyvGXh/M1Vu7QLGZcsqw=="
 ---

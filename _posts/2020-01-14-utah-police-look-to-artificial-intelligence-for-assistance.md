@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Utah police look to artificial intelligence for assistance"
-excerpt: "PROVO, Utah (AP) — A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies, The Daily Herald reported. The Park City ..."
+excerpt: "A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies, The Daily Herald reported. The Park City company can gather real ..."
 publishedDateTime: 2020-01-14T22:52:00Z
-sourceUrl: https://www.stltoday.com/news/national/govt-and-politics/utah-police-look-to-artificial-intelligence-for-assistance/article_8f8540c1-7e24-5291-b8c6-41a10d990b4d.html
+sourceUrl: https://www.miamiherald.com/news/business/article239296528.html
+ampUrl: https://amp.miamiherald.com/news/business/article239296528.html
+cdnAmpUrl: https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article239296528.html
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI
@@ -29,6 +31,6 @@ related:
       domain: kansascity.com
     quality: 37
 
-secured: "xjYmUWr4FjGI24qejXpKVHEtqjTt90xgMY3uQZtM1n3uogNIN37py+ikuE0U/kNJaokIwQLPgj79NWNvUiw8yE+dZ9ZS0p28emSbn98t52K+SgTKv+qlsoeyw9MRo1kwlefraq/vExGUFdzasGhs033DZARSWPNsRDeW41sLTJdnzgPpeBU589WpsvLZCFKMwQU60szdTPvWKJLUXKcBBQBprQLE5Q09bxRLlm8Rb2KdGclBQcpGighvhituG5rC8IwLnsqT5gDBsVbizpoYcZLIIvaYQtSgX4WW6NTZDeg=;pnoZDUiXrHfUGT1WcDO9lQ=="
+secured: "W2aD6k+2Kpqy0RnN42G0tJDKsGH9ais2z+UYl5dmT7WKJ5OZCHNFEzSrfthvpGvR9B5MWEzZUquQ4C98eYBQwWVSPBORzFLIYHAAEod03C6718yJPhbo8CZjI6utU/77aR9rG5DesVTWy6zd7pmnIiP5tzaSSJgkwyeDkNS7mv3VFVLOfqeO9K3KMUvma1zFCZkA74N/FUH6dQZ6zKtOI3L8FeZ8f2ZSGi1mseXdUUxt5E13pNpt3eRTGi+1oricf1WVdDYt4k8qg934m2c3i3sE7DNya0MUs7h9SLVeZTY=;ISJeBZ6j2keOa5AYIj/Bvw=="
 ---
 

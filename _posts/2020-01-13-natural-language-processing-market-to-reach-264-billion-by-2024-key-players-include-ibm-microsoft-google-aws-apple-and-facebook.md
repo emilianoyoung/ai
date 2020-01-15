@@ -31,19 +31,6 @@ related:
       - url: https://mma.prnewswire.com/media/1076432/Sales_Force_Mobile.jpg?p=publish&p=facebook
         width: 800
         height: 553
-  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global sound recognition market size is expected to reach USD 4.42 billion by 2025, exhibiting a CAGR of 75.8% over the forecast"
-    publishedDateTime: 2020-01-09T09:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/sound-recognition-market-worth-4-42-billion-by-2025--cagr-75-8-grand-view-research-inc-300984116.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
 
 secured: "Yyq1eOvIbYnQjKBtQ2vYwjD6h+A2HclstycV3zxkCkAQbEAFehUfUdzCO6ZYdRG7vxuWq7CmrNtnY0JQAD2hSzxyYlRNP5Y6woLjBWUhR6bMQWX5k623R7n72qpUN6s9MWw4sk8Qh1Gu2Ir56mI13ZkoY/FqFcJXlpp7YYTpiZtBHHq6Z6mHsqeY+a8eNm4YQUB0C5/IAza0KZWvvgwqYt/6OILoLlyOYhGy3UzqNghZ8E0e8DWJW1cM8MAlW3eB3aZBYeGHWcbnrQTCranIxViE/XAQEIf8TutbK6+8P/c=;k5F9vb+5pR5p2l7nLnEAwg=="
 ---

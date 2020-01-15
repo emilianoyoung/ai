@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T15:31:00Z
 sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
       name: Rapid TV
       domain: rapidtvnews.com
     quality: 39
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts. Using AWS technology, Germany’s premier ..."
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005382/en/Bundesliga-All-In-AWS-Revolutionize-Football-Viewing-Experience
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
 
 secured: "aU3cVAn4AmSIBnoxRXCkSpT25Jt92V7Ptxvwg8hd/wUZZWdLY7/V76PdWP1dkC8VParq6i8vULUXkd60GW70um9X6pKZ8QAqZC/46f595D130XUfM6bpU732ZC+vNiPYzFgRgcJO6TxfeFeKGBLtZA29qMKRJdLJI6imxVJB5m/Tmt5V0SMOm/2kvv8KywgW3jkru5Wgu7E+WpINqNLNxg4L1rb+dxFZPNXf4iFTj2zwILtA6H+kmPUinjoenGvo0+vgk5IjFR6CbpbhX/hVFzmerJaZOnsZ2eo/23f0Djmupa9YGG5tOQCB8nST+Hb/QtlX3QW7YTubgb12rKPgo+wSbj6aEj8d/MSdhYvU6y0T+hRfM1LxJdiVIlBn6fuJU/3EeBA+DJcOmP2UvbW2/aBvg7g3sn8XXcfUvrY4eRA7zR2PW6F0rnik7sJbMFHHgrrGQlSXu3Fean00Hb3oZQ==;+jexPk/T9xBhMjI6/c8WDA=="
 ---

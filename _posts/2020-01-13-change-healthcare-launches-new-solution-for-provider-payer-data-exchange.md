@@ -39,19 +39,6 @@ related:
       - url: https://www.techworld.com/cmsdata/features/3780397/nhs-app_thumb800.jpg
         width: 800
         height: 450
-  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
-    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
-    publishedDateTime: 2020-01-11T13:21:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
-        width: 1440
-        height: 1080
 
 secured: "DMUY2xIDqk9MLSpQzMLIQHGEG2VQq+VJNq2FjNRouhBJwQN4sWBfNeTS20zbCg4/TkBW3HbSuDzM6k3xjib1DGIO3XMy/txFxoH4/Kw8Fh3+SxrNHMXPFnaSvxdsiLh6EoOyu6Ym1K8sTLgvjZrXQPH4Ju3xo5SRORtFD+JJWCb80SrIzothG+OCFAQsWKH6CATsoquxpPp3FhNsNt0D3GpLDzzAtCBgc44+u6W1Dmku7g7tfA26PSqJtkM14J+ovElOXr0FFXFsGcobCRMtP2qWEEsz1owD2kGC2xx8/FE=;ljp9Tk7TJqopBE+cUpqp7g=="
 ---
