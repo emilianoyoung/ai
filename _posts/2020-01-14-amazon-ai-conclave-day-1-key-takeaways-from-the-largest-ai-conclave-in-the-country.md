@@ -38,6 +38,6 @@ related:
       domain: yourstory.com
     quality: 33
 
-secured: "llK9Hn3I/X884rNNIza08v+JTMAgfqo+oVIdEG21deClUm6IgzmNrzPYWhqg505b4HCdLV2V+Ogcx32+jTYy6NlwqrURH/rv/QsWCM9HJ57rCL4072w00kN7A16G9LOPD6zgU7NXfEw8N5U8u2Wm4dzn64VlPx4WkvYbrolmiOT3KZmn9xU3SVJKKy7k4rH3vASnAwIkrw6nFEfbth16u8xFvXa86qh2sBh1jn6SX5ak8Y3lhBkbIZih1zAtzJirOVTVP6/ZEzGzmEfYbPWpOr9WVdIrFzGllT0H5InMTS8=;KDGeJW0rwSl2OQSBIehzxQ=="
+secured: "5Lhu5j0PmZIcWCQLrzRDWbHqOoJEqvNQ8hL3HA++4JbicrxE35kBYX7itX61XUntmzA9zTIuxVIOxP4Rvi7OYTFbhQ02xTXT6nAVnHcw3hLAw0n5h6rhhC9EkrjB22nshS+CHTHSiyzkE0OBronQ380f9qrLo80SzJyyHZxz7ofdzalSoAgGrxhOUmt+yzz+KUPbY3VRYllFh9PdpRCORra6YyNoBzZuDHV7R7wJtQWWKQf1ycvpJcmMrAzH4U93ZeFTAFHkDcqbadWK2gFUesbJXvCehLEEcDVjJylk3KA=;dJz1aOass8aN+kqkZOkc2A=="
 ---
 

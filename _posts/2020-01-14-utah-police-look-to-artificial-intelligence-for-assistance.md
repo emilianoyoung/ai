@@ -1,23 +1,32 @@
 ---
 category: news
 title: "Utah police look to artificial intelligence for assistance"
-excerpt: "A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies, The Daily Herald reported. The Park City company can gather real ..."
+excerpt: "PROVO, Utah (AP) — A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies, The Daily Herald reported. The Park City ..."
 publishedDateTime: 2020-01-14T22:52:00Z
-sourceUrl: https://www.newsobserver.com/news/business/article239296528.html
-ampUrl: https://amp.newsobserver.com/news/business/article239296528.html
-cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article239296528.html
+sourceUrl: https://www.stltoday.com/news/national/govt-and-politics/utah-police-look-to-artificial-intelligence-for-assistance/article_8f8540c1-7e24-5291-b8c6-41a10d990b4d.html
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI
 
-secured: "jdb2wUsMO0PYND+gEGciaOYm6SQDoE2wD0LlLQ5sBTmLXTjfxFuav8PQHQc3H4DKBqAm5Q6Og3zCHV/jtDzx9C6ynK0haHVjpoh47GNmGwj+d2O+FgxX/OCgGKSQjlbYFvUwgzdOFyPicX/yn7xePjGCbWA9GLCuR7UJpVX4DuFGurioaHPFm629WdQAdhoFsykFVMkgjugM8TifJf275Hj0ZBAMiLNfPcmMuZztWzFm0EgjycUwvzgrYbOM3i3meTJS4LL8b3V/jqgBwjW+UJkw+Dk+SPGM/pGCGikL8ik=;9eaEVHIf8f8EAJpL+d1oOw=="
+related:
+  - title: "Utah Police Look to Artificial Intelligence for Assistance"
+    excerpt: "A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies,"
+    publishedDateTime: 2020-01-15T00:21:00Z
+    sourceUrl: https://www.usnews.com/news/best-states/utah/articles/2020-01-14/utah-police-look-to-artificial-intelligence-for-assistance
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+
+secured: "xjYmUWr4FjGI24qejXpKVHEtqjTt90xgMY3uQZtM1n3uogNIN37py+ikuE0U/kNJaokIwQLPgj79NWNvUiw8yE+dZ9ZS0p28emSbn98t52K+SgTKv+qlsoeyw9MRo1kwlefraq/vExGUFdzasGhs033DZARSWPNsRDeW41sLTJdnzgPpeBU589WpsvLZCFKMwQU60szdTPvWKJLUXKcBBQBprQLE5Q09bxRLlm8Rb2KdGclBQcpGighvhituG5rC8IwLnsqT5gDBsVbizpoYcZLIIvaYQtSgX4WW6NTZDeg=;pnoZDUiXrHfUGT1WcDO9lQ=="
 ---
 

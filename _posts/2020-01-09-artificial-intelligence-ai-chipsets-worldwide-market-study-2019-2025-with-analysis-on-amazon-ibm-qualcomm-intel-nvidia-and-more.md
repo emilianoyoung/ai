@@ -66,6 +66,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "PQSf2I5srXvVe/2+XoEwBqijF3nzOXTpfh4WmSyVrZRgn8ObQ4BVyq7zuiZVDxHmclvug4/ewNSJBjuayx0DDogE/1dBgkTHgxXjnIkrbzXfFUHfqfI7dSWg8Nmuo7d2DV5DRJu+ymqZWP85uw+2izkaKcnqoxr7ZhAZxI0gw3MLy36YKpwNvU/4sDT5EyudCHsj7cVQsp0n2vkHhxwTURgdSER3f6giaemRFLXzlljBWxgLxikRK1CW7coI2wpmqA9Et083IsF579/ZDAqE2J8R0gI90usGFJLWrMPELPM=;TKBKpgOg8nQHzLipM0/zEA=="
+secured: "zIQVEs2YOSsICTgzDA6Ovh04WS6TuGare16i2JfKQMmOVsCWnURuj2z3h69zmnjNrd9zyDNWs+0bMHYFH3Iu6SsQfpwjoZFGieaiM+HnHnyuAJ1Pzj3tmeEKSd/UKQ+4JjzpY07wk06YOeY84t+o4BM+cCgYixpYSCIxEEEpn/5v7c6MvFATbOVYFG+ddd1hHOjAGtTU+VRo2uQU1esPqW8enMVNPhSmllFOK67dNB39SHNvW1Ht/iN73f2M9WFV2RHPwADywZzbMFmllKXJUiS1pcr6+GG8nS4NOh6qlKA=;WJ/tS54L1ZVzULVcDZESDw=="
 ---
 

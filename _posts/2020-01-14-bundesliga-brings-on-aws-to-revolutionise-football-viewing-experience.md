@@ -46,15 +46,6 @@ related:
       - url: https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/Bundesliga-2017.jpg?fit=1103%2C618&amp;ssl=1
         width: 1103
         height: 618
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts. Using AWS technology, Germany’s premier ..."
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005382/en/Bundesliga-All-In-AWS-Revolutionize-Football-Viewing-Experience
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
 
 secured: "Lt7EWQFjWoFW31JUHc34maEoBC37wt1vKlt3MVQgHuVBwcIFSj+ioCj9vL5e2XG7XEJ/NoPKZO8iF4wqlxKGoIJe0Nkp14QvpMU6Y7BRBzAPvW5x2znBc5ezncP/Sdj3cTWQ8ER/dkFfWiFx6OStEI/neH4PpiQWETlohUo3IKhpH4x4dbNsgFYhGNXry+rneZC/fSWmpISGcPCwNj2JbPJtDzN+txQmftCjPe0JOI1mwpY+sENydSv7Cbv34aXrbTT33bLUqxlsA8MOkfud91c3HRYzTQKD6Fjo4v5SF5A=;l8EhK2KJimokAsu2/UZqcw=="
 ---

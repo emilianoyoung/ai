@@ -2,10 +2,10 @@
 category: news
 title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
 excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
-publishedDateTime: 2020-01-14T12:47:00Z
-sourceUrl: https://www.vice.com/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-ampUrl: https://www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+publishedDateTime: 2020-01-14T11:00:00Z
+sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+ampUrl: https://www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
 type: article
 quality: 103
 heat: -1
@@ -444,6 +444,6 @@ related:
       domain: ajmc.com
     quality: 0
 
-secured: "DHepKP7lZy5Ej05qCc1MfIe6ryiNz9aMtlYhz+KmK476PX2Xhvkv2Vj/MFCd//46EXc2Y4RhSH4lDeMma0zZQeodN1CmpAc7ZWv5mxc7k+N+z9eKBrBSKOCXzRS14Aqhzxn1zFklhVLcFzd5QNfPn+6sLzIuavHlHY0RNR23hNBa6K74Ue2ojPBNXkRKpgLEDSwHPD319OgW05ayomUI3gVLYflHo/ph0mO8R7CBgbXepgpn/p1dei3HUXHF36LfUU178e1F+GBpmhWsZ/wK8xoKdlR90F0d2wcLjaHQaPoNo3x9aiFgTVx4PrVki1dWR+LnYwJH+IpVA9DpR+IyZa8m8kzQGHmqNWsmb5rIt6qwqhcXHWD7lREzFC8OeAXf2pcrqwue+o2QMZmcClr8rq4XKLADyxTtkiN1EGuaPXgh+iAxtJkOkpKpu+K1DSmQlks3vUsN63YhdyfjiuSrKQ==;VpgwtsV7EbTYqtqoFo63cg=="
+secured: "vSLnVtSzJdE249UdGNNhyBuutmVz3Cs2K/yEiywWcx3Bfzv46OabBKdAfHPwqHmqRieOhf85jRcdchRrs7yMtEoXj26YbGiI1TZ7aZsDXh05DfRXzhBmUIA0Rw2hA3tC3xu0LEhGCbCaHWJywxvFpZz0FpbLe+ubiP1vNWRt5sH5GKL5SFe1i7+RvkVs7DPfYH2CGhGSrtc8IfDpy/RqcS0K4M9YSJON2jJS7foPWzD+KI21VVasfs1QFghv4hReQ4MuFuw7zTzdUV82sEvNQQDCFZ31cbdw8W1rezUTACQ=;sUB7eXxh2G+BvYDdqr44sQ=="
 ---
 
