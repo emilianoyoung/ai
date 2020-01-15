@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T22:03:00Z
 sourceUrl: https://seekingalpha.com/article/4316857-intel-to-lead-ai-revolution-over-next-decade
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -18,32 +18,24 @@ topics:
   - AI Hardware
 
 related:
-  - title: "The AI Revolution Is Coming in Emergency Care"
-    excerpt: "Artificial intelligence is poised to have a transformative impact on emergency department teams and the broader world of medical diagnostics."
-    publishedDateTime: 2020-01-13T13:09:00Z
-    sourceUrl: https://www.usnews.com/news/healthcare-of-tomorrow/articles/2020-01-13/commentary-the-ai-revolution-is-coming-in-emergency-care
-    ampUrl: https://www.usnews.com/news/healthcare-of-tomorrow/articles/2020-01-13/commentary-the-ai-revolution-is-coming-in-emergency-care?context=amp
-    cdnAmpUrl: https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/healthcare-of-tomorrow/articles/2020-01-13/commentary-the-ai-revolution-is-coming-in-emergency-care?context=amp
+  - title: "Voice control alone unlikely to solve the driver distraction problem"
+    excerpt: "Advanced voice recognition technology, developed by the likes of Amazon and Google, is increasingly finding its way into the vehicle. Among other things, it is hoped that the ability to control the increasingly diverse set of features found in the modern car through voice could help lower rates of distracted driving, and in turn the injuries ..."
+    publishedDateTime: 2020-01-14T10:55:00Z
+    sourceUrl: https://www.automotiveworld.com/articles/voice-control-alone-unlikely-to-solve-the-driver-distraction-problem/
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
-  - title: "NRF 2020: How AI Is Revolutionizing Retail"
-    excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
-    publishedDateTime: 2020-01-14T23:06:00Z
-    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail
-    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
-    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 4
+  - title: "Moreover, Asia-Pacific is expected to grow with the highest CAGR of 60.4% over the forecast period of 2019-2025"
+    excerpt: "As of 2016, over 30 companies are applying AI into the creation of driverless cars. A few companies involved with AI comprise Tesla, Google, and Apple. Artificial intelligence is assisting doctors. Also, the implementation of artificial intelligence in healthcare is helping the industry to boom in the market. For instance, Microsoft has ..."
+    publishedDateTime: 2020-01-14T19:55:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-moreover-asia-pacific-expected-grow-with-highest-cagr-/2020/01/14/9081482.htm
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 59
-    images:
-      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
-        width: 300
-        height: 250
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "oDt8oXGwELhk7/hHRnA21gGolGFXQ0ZNpRhDyW0ztch/FDQ1vYEGiALIlCpuD24nkZJc2Mphmkpd0fGQNOlsmcxqYkzjG08TnTUoH7s+jY12EvTySQWUdOL6jkNlyts28rFn+yp/a6Nq128w4+dFSXLoT/q8r6+jFt3lTpa5odcnedpgJhUbfOhvn+gwPuWxy5aesNxJHwFFt8oCsDPmELgMaTjFJrsQZonATXdLG7gRu47osEVsg3TXlrDc/bFVSd3gLneqWdj/Bome8hnd8BpM+OrVUqWGjUH6HwU5xJyLnFOa6vsCA3UWJ3hBa5njK3WsgGxhZmBobacVGyUyF3jWA77vgAuxK1n6LIR+BjNn5arqZ3M4Z1Fz+C8JAmmrLu2n7jCx2TzyrnZD0jg2LAXMqccxSAwhgpxWfXw88IM167C/71VuLjSY/MnPp5KPIvnq8dVgPZ/BEjTs5xQYcA==;/76MIlSaixirxySl0MnzRQ=="
 ---

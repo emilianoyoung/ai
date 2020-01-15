@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T17:52:00Z
 sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -18,16 +18,25 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
-    publishedDateTime: 2019-12-16T16:43:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+  - title: "Machine Translation Software Market 2019-2024"
+    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024."
+    publishedDateTime: 2019-12-16T08:39:00Z
+    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
+    publishedDateTime: 2019-12-17T19:35:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 11
 
-secured: "vZ1RTvZLey8jy7g+aGHBLHPkcd9dhJAgks1cdr0mN6V+9cRx60K+SwixpBMLSI+mBsAvRepE7wO/dgp0wYNNy/Z5mebc3UXjfSlG29R3JREei4KtHuHMuzL7xP/KZkw/J6d4T50VdPNMP+gVVG062AtCoww62IeFnB7+cBwO97qKKg1Ab6kEmDdtdPjVeH3rfkDGTgbg2AWV+Jjn7yRedkqv4ZUebHvaW+eM9aVxQpKcTTuCBqaIqdU8R/tiUY44gZd2m4NVe1nRkIWkeL3CxJmv1LiTT3Vr+OClVy7/6j8=;w2W1rnh9B2kT9A0OCtfd8A=="
+secured: "Q3XUlwRAxfUzEOdWUtFEAyxHSFb8iGrxVFIGcpSM4XoAGYj9+Ur5BtO2m2dODaufL+crtVRembrtOOKOSoGHsc4lnPgZ8SURw9/ljTuuD+tDUpaXPW8kHTZDYblb92di8Vov/RQHwJTHIZ1lHQi//oICp76RcnrAtqYnBOc2ZRHyrNHbyreIS0cu4gSPIF8lfU9Z3Jd/N4NKgE7QvzfwbUsYssSZUqrch8MYhqy64A8ahEAh2SswmsoAaKnXiMegHbdm3YiPT9dsp0yapR0hWOIafUgMztPDHe9NKgLs+44=;f0pZKDE3jvnRfDDXWwiFHw=="
 ---
 

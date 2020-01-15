@@ -35,6 +35,15 @@ related:
       - url: https://images.medindia.net/amp-images/health-images/new-tool-identifies-diabetic-patients-at-risk-for-hypoglycemia.jpg
         width: 1200
         height: 1000
+  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-13T16:57:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Detecting Low Glucose Levels via ECG Using Non-Invasive Wearable Sensor"
     excerpt: "Together with the latest artificial intelligence (AI), this technology can detect hypoglycemic events from ... training the system using cohort data would not lead to the same results. Similarly, personalized therapy based on the new system could be more effective when compared to existing methods. The differences highlighted above could ..."
     publishedDateTime: 2020-01-14T15:43:00Z
@@ -50,17 +59,6 @@ related:
       - url: https://www.azosensors.com/images/news/ImageForNews_13648_15790064117635412.png
         width: 950
         height: 713
-  - title: "AI can detect low glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-13T14:58:00Z
-    sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
-    ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
   - title: "New AI technology to detect low-glucose levels via ECG could replace finger-prick tests"
     excerpt: "Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: The differences ..."
     publishedDateTime: 2020-01-13T13:29:00Z

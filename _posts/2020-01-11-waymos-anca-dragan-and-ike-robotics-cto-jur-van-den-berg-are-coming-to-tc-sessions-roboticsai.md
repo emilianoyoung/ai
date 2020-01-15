@@ -8,8 +8,8 @@ ampUrl: https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-ct
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/
 type: article
 quality: 174
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -39,11 +39,24 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 187
     images:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024
         width: 1024
         height: 558
+  - title: "Cultivating robotics and AI for sustainable agriculture"
+    excerpt: "The issue of agriculture sustainability is a people problem. However, it might be the robots that save humanity. Automation and artificial intelligence (AI) will help relieve the effects of an aging agricultural workforce and a shrinking supply of field workers looking for less strenuous work. Self-driving agricultural machinery and autonomous ..."
+    publishedDateTime: 2020-01-14T14:31:00Z
+    sourceUrl: https://www.controleng.com/articles/cultivating-robotics-and-ai-for-sustainable-agriculture/
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 69
+    images:
+      - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
+        width: 645
+        height: 350
   - title: "TechCrunch Sessions: Robotics & AI"
     excerpt: "TechCrunch Sessions: Robotics & AI on March 3 at UC Berkeley is a single-day event that features in-depth interviews, demos, and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
     publishedDateTime: 2020-01-14T00:32:00Z

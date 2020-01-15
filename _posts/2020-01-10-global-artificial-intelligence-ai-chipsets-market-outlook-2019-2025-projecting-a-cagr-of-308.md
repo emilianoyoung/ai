@@ -32,15 +32,17 @@ related:
       - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
         width: 1200
         height: 627
-  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 08, 2020 -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted."
-    publishedDateTime: 2020-01-08T23:54:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-180846870.html
+  - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
+    excerpt: "market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+    publishedDateTime: 2020-01-15T09:00:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15124976/global-artificial-intelligence-ai-market-in-healthcare-sector-2019-2023-28-cagr-projection-through
+    ampUrl: https://amp.benzinga.com/amp/content/15124976
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15124976
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "1B8AOz5A+mrsEp9X5XLh/aIMSN9K4D2NLTlILXTqYHpew6bezvLaTjRkuR28urG2uAhmMPyUqT5s+V/XRGS04k7/qPfBga6iZG/xcTOXZh8qqKyYuo48vyxLEYJkwO6orJeBYz5GjGBx0uB1AAo+VaizwQkfaxA0ghrvGi5D8Zzrp9AlAIPo+0FngPNNn+qoOWeJ7+lu4jnTz+gT8fo2FEp8LY5pKAETO1Qjv3K7EqkUYgVOumdZwhb4oFN5+kBj5KEvh4AJnsK6aP1/dRmxCbCpfetU4UKo+LJVMLeQUlE=;spgI1HQYinZCpdZP8bLyNQ=="
 ---

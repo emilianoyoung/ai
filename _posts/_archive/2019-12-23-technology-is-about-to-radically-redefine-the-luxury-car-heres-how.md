@@ -32,6 +32,6 @@ related:
       domain: ft.com
     quality: 24
 
-secured: "+b1NMLMbB8yMEKxG1NuzM9AgXbs4Fuld8d+N4sGPZNx5E9hnmi0yU/hSbh3f6a3uIu5fG0qKrqJzihHIcd5gz9Y836kDDe2ZT67HNO0MIQmRSi34DTDA9CwXAqayvr6pED/ckKbRmQ41c9sKa5+Ee6TDHPOu8EIAFYcEsYa43W/FsrW1aqO0PO0qfJp0VSx6w+cfMkXsur3crXWWqKyYArnvxIIZmuXhVO1OlT0235I2u/gdsS0CqrAX8jbyxRTQa/OGs1UW1Xd+8dIdeCj1suNYdYLh9r+OaKe4Gnm1F4Y=;m8tEXZr/6mOqK0HO7Z0ztA=="
+secured: "ELm1sbMgQr5UTcPshsj6MSL+e/IaUqynf32xfnJuFbXEAfpCYlHXUSDQKeb4A09zog0NQrvc+HYZ+mFVdoHcBiWxNgTmiPsriRgR/NSloPe6U+UzKQoicCBYA2Fl2+/CBniivF+paUDWq4d8rZC+df6uhV7FSzeXuN0mpSyoElHd1iU/I9+A46+5tktrwlU6BODh05TryMWs8Q9nQi0NOb2UxmUNZRXWYLiOcpSqRRJK+NY81tpt2u7HBZ7HL2fjgth6+2AYQ502d9WzPI+gn/n+OOK0gbgX2Md22Aexyx0=;lUgSV4ag195qfZZdnfCM5A=="
 ---
 

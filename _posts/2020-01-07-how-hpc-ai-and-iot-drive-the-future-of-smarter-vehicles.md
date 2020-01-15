@@ -61,6 +61,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
+    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
+    publishedDateTime: 2020-01-14T11:28:00Z
+    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
+    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 7
 
 secured: "FPXMTqDwSkn4VEdkZX1FuKT/hzHtItsUrKe6awUGve12Dr78jAiqXmiP0OCIIQd8N1Vm64KxigJRZ48hUoKEV/qkk27fyMimYMBnyBCSyDILdhBTHCZEYCjx5uwjm96AsUXlS9oP/pvM0IDdfwYNYcxmSRFEWJIjzLuGp2DbTFksgWhhznrziVstJrgObPNya/rKD+8xJ98HULwunnIMT6pJozQBdDL0dHRiNpLlEsT0h19NHDoa/yIW2cCB3yBI2b6RL9VHTEkfb8vQjPSmLtH/D3/zimxrv1We2xzGNs/2qJBKZvXILAch3MZYXau5XfUQm+S2oIPkR5Me8JQ9JuiMymzEV8hyRo5i7x/E+glSDh/i0F7NiDNV3GTwwpGgoXxJJZ81MC5f8qZQKwkkWWocWMADlcmEHqkU4DnJJ4kV1i0151YL0lepFZRtj5tNumsTirsJ7klzA3zccw5FQQ==;9jwKY3R8ztZYnZTEcT6htg=="
 ---

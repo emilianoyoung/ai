@@ -19,6 +19,17 @@ topics:
   - AI
   - AI Ethics
 
+related:
+  - title: "Trust in Provider Care Teams and Health Information Technology–Mediated Communication"
+    excerpt: "Rapidly advancing health information technologies are changing the nature of team-based care; there is a critical need to examine how trust functions in contemporary team-based care. Welcome the the new and improved AJMC."
+    publishedDateTime: 2020-01-14T14:14:00Z
+    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/trust-in-provider-care-teams-and-health-information-technology-mediated-communication
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 0
+
 secured: "Kiwmg2zOtcnAlBPpmHJ/zxCBwnsetpTq3xmFIo0LEMSc0ynW5fl+2zzvcO17pN0icMcnuBm/66vok9q+2WqTyzNwINfeoMGwi81b9IuxOuV8EGev0NYwOB7Cu3auhkpBK+jG9s58MQkbkBfdYcT1VyEztTtAeJ5qmKWfcJEF32syqKjBG8EFGOs7b4Mx2dvudBBsDOIf8Na+qWu5CByxPyk2sqA50nPsH17tebCMurl1vRkVyWQ/D3CLgmlMnMGdSAu2o6zsuX3PIvBJXoJH0I7jxU8HBX8oyj96JPch3ME=;AwKyz9PaLU+IOmypg5bzIA=="
 ---
 

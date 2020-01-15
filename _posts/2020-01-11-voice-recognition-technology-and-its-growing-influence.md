@@ -26,412 +26,258 @@ images:
     title: "Voice Recognition technology and its growing influence"
 
 related:
-  - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
-    excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
-    publishedDateTime: 2020-01-14T11:48:00Z
-    sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+  - title: "Artificial Intelligence Chips Market Growing Trends and Technology forecast 2019 to 2025"
+    excerpt: "The Artificial Intelligence Chips Market research report includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers,"
+    publishedDateTime: 2020-01-10T14:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-growing-trends-and-technology-forecast-2019-to-2025-2020-01-10
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 146
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
-        width: 800
-        height: 600
-  - title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
-    excerpt: "Fight for the Future, the Boston-based nonprofit promoting causes related to copyright legislation, online privacy, and internet censorship, today announced that it will team up with advocacy group Students for Sensible Drug Policy to launch an effort to ban facial recognition from university campuses in the U.S. To kick start the grassroots ..."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/
-    ampUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+  - title: "Machine Learning Market Booming by Size, Trends and Top Growing Companies- IBM, Microsoft, SAP, BigML, H2O.ai, SAS Institute"
+    excerpt: "New Jersey, United States, - The Machine Learning Market is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success. The authors of the report have used easy-to-understand language and uncomplicated statistical images but provided thorough information and detailed data on the global Machine Learning market."
+    publishedDateTime: 2020-01-14T14:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-booming-by-size-trends-and-top-growing-companies--ibm-microsoft-sap-bigml-h2oai-sas-institute-2020-01-14
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 94
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "How to set up facial recognition to sign into Windows 10"
-    excerpt: "You can adopt a PIN, a physical security key, your fingerprint, or facial recognition. The facial recognition option can be handy as all you need do is glance at your computer's camera to authenticate yourself. But, only certain cameras support Windows Hello facial recognition, and you have to set up the feature for it to scan and recognize ..."
-    publishedDateTime: 2020-01-07T17:54:00Z
-    sourceUrl: https://www.techrepublic.com/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
-    ampUrl: https://www.techrepublic.com/google-amp/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg
-        width: 1200
-        height: 800
-  - title: "The top facial recognition cameras of 2020"
-    excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit or miss, based on a variety of factors, from ..."
-    publishedDateTime: 2020-01-14T11:06:00Z
-    sourceUrl: https://www.cnet.com/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    ampUrl: https://www.cnet.com/google-amp/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/top-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
-        width: 3413
-        height: 1920
-  - title: "Bosch’s facial-recognition tech keeps you safe, entertained behind the wheel"
-    excerpt: "This story is part of our continuing coverage of CES 2020, including tech and gadgets from the showroom floor. German supplier Bosch is working on bringing facial recognition technology to the world of cars. Similar to what’s available on many smartphones, the feature is a way to keep the passengers safe, entertained, and comfortable."
-    publishedDateTime: 2020-01-08T14:07:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 86
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/ronan-glon-bosch-facial-recognition-3-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
-  - title: "The benefits of facial recognition AI are being wildly overstated"
-    excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
-    publishedDateTime: 2020-01-13T20:44:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/13/the-benefits-of-facial-recognition-ai-are-being-wildly-overstated/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/inacrowd-796x417.jpg
-        width: 796
-        height: 417
-  - title: "City Employee Claims SDPD Hid Information on Facial Recognition Program"
-    excerpt: "A former city of San Diego employee claims the San Diego Police Department attempted to hide information about its use of facial recognition software. While the use of a facial recognition program was suspended by California Governor Gavin Newsom starting Jan. 1, 2020, NBC 7 Investigates reported on complaints regarding SDPD's handling of the ..."
-    publishedDateTime: 2020-01-13T00:15:00Z
-    sourceUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/
-    ampUrl: https://www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/city-employee-claims-sdpd-hid-information-on-facial-recognition-program/2243084/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 74
-    images:
-      - url: https://media.nbcsandiego.com/2019/09/ES_RAW-SDPD-HOUSING-PARTNERSHIP116-2.jpg?resize=1200%2C675
-        width: 1200
-        height: 675
-  - title: "College students demand schools ban facial recognition"
-    excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
-    publishedDateTime: 2020-01-14T22:07:00Z
-    sourceUrl: https://mashable.com/article/college-students-facial-recognition-ban/
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
-        width: 1200
-        height: 630
-  - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
-    excerpt: "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ..."
-    publishedDateTime: 2020-01-14T21:24:00Z
-    sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg
-        width: 760
-        height: 380
-  - title: "Digital rights group, students team up against facial recognition tech on college campuses"
-    excerpt: "Digital rights organization Fight for the Future and college group Students for Sensible Drug Policy on Tuesday co-launched a campaign urging higher education institutions to ban the use of facial recognition technology on campuses."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://thehill.com/policy/technology/478108-digital-rights-group-students-team-up-against-facial-recognition-tech-on
-    ampUrl: https://thehill.com/policy/technology/478108-digital-rights-group-students-team-up-against-facial-recognition-tech-on?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/478108-digital-rights-group-students-team-up-against-facial-recognition-tech-on?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 64
-    images:
-      - url: https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg
-        width: 980
-        height: 551
-  - title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
-    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 63
-  - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
-    excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
-    publishedDateTime: 2020-01-14T01:31:00Z
-    sourceUrl: https://www.geekwire.com/2020/washington-state-lawmakers-debut-legislation-consumer-privacy-facial-recognition/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 60
-    images:
-      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
-        width: 987
-        height: 554
-  - title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
-    excerpt: "On Monday night, the Cambridge City Council unanimously approved a ban on the municipal use of facial recognition technology, joining three other Massachusetts municipalities in passing similar legislation. The ban makes it illegal for any city staff “to obtain, retain, request, access, or use” face recognition technology or information ..."
-    publishedDateTime: 2020-01-14T20:55:00Z
-    sourceUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.html
-    ampUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 59
-    images:
-      - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
-        width: 540
-        height: 360
-  - title: "Clay County using facial recognition technology to help find lost pets"
-    excerpt: "CLAY COUNTY, Fla. – Clay County Animal Services is going high-tech to help reunite lost dogs and cats with their owners Animal Services announced Monday that it is partnering with Finding Rover, which uses facial recognition technology to compare photos of missing and found pets in the area to make an instant match."
-    publishedDateTime: 2020-01-14T02:54:00Z
-    sourceUrl: https://www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/
-    ampUrl: https://www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/?outputType=amp
-    cdnAmpUrl: https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/local/2020/01/14/clay-county-using-facial-recognition-technology-to-help-find-lost-pets/?outputType=amp
-    type: article
-    provider:
-      name: News4Jax
-      domain: news4jax.com
-    quality: 59
-    images:
-      - url: https://www.news4jax.com/resizer/TVcPcchoV3BT5DdOD9KJxP2P-TE=/1280x720/smart/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/NBCMUWZ3VBCHFJDKTCAI4FAS7I.png
-        width: 1280
-        height: 720
-  - title: "The battle against facial recognition goes to college"
-    excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 54
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
-        width: 1280
-        height: 720
-  - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
-    excerpt: "Don’t look now, but facial recognition is about to become a big part of smart homes. Facial-recognition technology built into cameras offers the promise of greater security and personalization, but it is also a potential privacy nightmare. And it’s about to become a huge part of smart homes. Imagine that as you walk into your house ..."
-    publishedDateTime: 2020-01-11T18:19:00Z
-    sourceUrl: https://www.tomsguide.com/features/facial-recognition-smart-home
-    ampUrl: https://www.tomsguide.com/amp/features/facial-recognition-smart-home
-    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/features/facial-recognition-smart-home
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 53
-    images:
-      - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
-        width: 1200
-        height: 825
-  - title: "Anti-Surveillance Advocates Sue MTA Over Alleged Use Of Facial Recognition Technology"
-    excerpt: "A nonprofit watchdog group is suing the MTA to get information about a video monitor installed in Times Square to deter fare evasion, which drew suspicions that the agency is deploying facial recognition technology. In a lawsuit filed in state Supreme Court on Monday, the Surveillance Technology Oversight Project (STOP), an advocacy group which ..."
-    publishedDateTime: 2020-01-08T19:59:00Z
-    sourceUrl: https://gothamist.com/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    ampUrl: https://champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    cdnAmpUrl: https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 52
-    images:
-      - url: https://cms.prod.nypr.digital/images/299726/original
-        width: 4810
-        height: 3205
-  - title: "Springfield City Council moves to ban facial recognition; says systems are unproven, inaccurate"
-    excerpt: "SPRINGFIELD — The City Council took its first steps Monday to ban, at least temporarily, the city’s use of facial recognition technology — a technology they say is inaccurate and likely to cast unwarranted suspicion on women and people of color. Councilor said they are also working to protect the general public from unnecessary surveillance."
-    publishedDateTime: 2020-01-14T01:27:00Z
-    sourceUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html
-    ampUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
+  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
+    excerpt: "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,"
+    publishedDateTime: 2020-01-06T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 47
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
-        width: 2176
-        height: 1578
-  - title: "No, facial-recognition tech is not some racist Skynet"
-    excerpt: "How ridiculous are fears about facial-recognition technology? Well, “advocates” from the Surveillance Technology Oversight Project are suing the MTA simply because the tech might be in use at the 42nd Street/Port Authority station. The MTA says the plainly-visible monitor above a set of turnstiles and with a sign about “monitoring in ..."
-    publishedDateTime: 2020-01-12T13:14:00Z
-    sourceUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/
-    ampUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
-    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+  - title: "Technology Trends: The evolution of machine learning and artificial intelligence in 2020"
+    excerpt: "Technology trends in the upcoming year will focus on how new age technologies such as machine learning and artificial intelligence will advance While technology trends in the past year revolved around making machine learning and artificial intelligence ..."
+    publishedDateTime: 2020-01-15T16:44:00Z
+    sourceUrl: https://www.dqindia.com/technology-trends-evolution-machine-learning-artificial-intelligence-2020/
+    ampUrl: https://www.dqindia.com/technology-trends-evolution-machine-learning-artificial-intelligence-2020/amp/
+    cdnAmpUrl: https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/technology-trends-evolution-machine-learning-artificial-intelligence-2020/amp/
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: https://thenypost.files.wordpress.com/2020/01/port-authority.jpg?quality=90&amp;strip=all&amp;w=1200
-        width: 2000
-        height: 1333
-  - title: "Anger over use of facial recognition at south Wales football derby"
-    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
-    publishedDateTime: 2020-01-12T14:05:00Z
-    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
-    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
-    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
+      name: Dataquest
+      domain: dqindia.com
+    quality: 45
+  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
+    excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
+    publishedDateTime: 2020-01-07T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 39
-  - title: "Massachusetts City Renews Calls for Facial Recognition Ban"
-    excerpt: "(TNS) — Springfield, Mass., police don’t use facial recognition software and city councilors want to keep the technology away until it gets better and someone does a better job of regulating its use. \"We want to make sure that we as a municipality are not employing technology that has proven time after time to be inaccurate and inefficient ..."
-    publishedDateTime: 2020-01-13T20:22:00Z
-    sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
-    ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "India Artificial Intelligence Market Analysis, Growth, Trends and Forecast 2019 - 2025"
+    excerpt: "India Artificial Intelligence market is estimated to grow significantly at a CAGR of 37.2% during the forecast period. There are a lot of opportunities available in AI technology in India with the increasing adoption of technologies."
+    publishedDateTime: 2020-01-14T10:29:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/india-artificial-intelligence-market-analysis-growth-trends-and-forecast-2019---2025-2020-01-14
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-  - title: "Activists fight to keep face recognition off college campuses"
-    excerpt: "Fresh off a campaign to ban facial recognition software from being used at concerts, Fight for the Future is trying to rally students to persuade their schools to take a similarly strong stand against broad use of the powerful technology. Why it matters: In the absence of legislation limiting its use, activists want to prevent facial ..."
-    publishedDateTime: 2020-01-14T14:23:00Z
-    sourceUrl: https://www.axios.com/facial-recognition-college-campuses-fight-future-e2b262d1-a031-48c1-83e4-53ca1cff4f10.html
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+  - title: "Artificial Intelligence (AI) in BFSI Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+    excerpt: "Market Study Report adds new research on Artificial Intelligence (AI) in BFSI market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
+    publishedDateTime: 2020-01-14T15:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-01-14
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: https://images.axios.com/n1OHl8BFB6kAtUNWSk8eO_NnzGU=/0x0:1920x1080/1920x1080/2020/01/14/1579011213053.jpg
-        width: 1920
-        height: 1080
-  - title: "Another Massachusetts Community Bans Facial Recognition Tech"
-    excerpt: "(TNS) — The Cambridge, Mass., City Council voted to Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other ..."
-    publishedDateTime: 2020-01-14T17:54:00Z
-    sourceUrl: https://www.govtech.com/public-safety/Another-Massachusetts-Community-Bans-Facial-Recognition-Tech.html
-    ampUrl: https://www.govtech.com/public-safety/Another-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Another-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+  - title: "Deep Learning Chipset Market: Incredible Possibilities, Growth with Industry Study, Detailed Analysis and Forecast To 2025"
+    excerpt: "The Big Market Research has recently added a new survey report to their vivid and dynamic database. They have formulated this report by taking into consideration all the key aspects that tend to have an impact on the global Deep Learning Chipset Market share,"
+    publishedDateTime: 2020-01-09T14:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-to-2025-2020-01-09
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-  - title: "French government wants to test facial recognition in video surveillance"
-    excerpt: "French officials say they want to establish a legal framework for developing facial recognition for security and surveillance, extending concerns about the rapid spread of the new technology. Facial recognition technology, a form of artificial intelligence that can identify a person by analysing a digital image of their face, is already ..."
-    publishedDateTime: 2020-01-14T17:45:00Z
-    sourceUrl: https://uk.news.yahoo.com/french-government-wants-test-facial-172825670.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 38
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/zbzCDAC.HvGwwCy_Q7ffRg--~B/aD01Nzg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/rfi_english_75/916a51cc38e3769dad620b24a702ecdf
-        width: 1024
-        height: 578
-  - title: "Surprising results after activists test facial recognition technology on Denver City Council"
-    excerpt: "DENVER — A test done by a grassroots campaign to ban facial recognition technology in Denver found it falsely matched Denver City Council members to people in the sex offender registry. 5280 Not 1984 believes the technology isn’t ready for law enforcement. “A big concern that our group has is the proliferation of false positive responses ..."
-    publishedDateTime: 2020-01-14T05:33:00Z
-    sourceUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council
-    ampUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
-    cdnAmpUrl: https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
+  - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
+    excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
+    publishedDateTime: 2020-01-13T12:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13
     type: article
     provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
+    publishedDateTime: 2020-01-07T13:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+  - title: "US Artificial Intelligence Market Growth Analysis, Business Opportunities and Future Scope Till 2025"
+    excerpt: "The US Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. The factors that are contributing significantly to the market growth include investments in R&D,"
+    publishedDateTime: 2020-01-14T10:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/us-artificial-intelligence-market-growth-analysis-business-opportunities-and-future-scope-till-2025-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "UK Artificial Intelligence Market Industry Analysis, Size, Share, Growth, Trends and Forecast 2019 - 2025"
+    excerpt: "UK Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. The digitalization of banking,"
+    publishedDateTime: 2020-01-14T10:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/uk-artificial-intelligence-market-industry-analysis-size-share-growth-trends-and-forecast-2019---2025-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
+    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
+    publishedDateTime: 2020-01-08T11:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+  - title: "Artificial Intelligence (AI) In Fintech Market Growth Prospects and Precise Outlook 2019 to 2025 | Autodesk, IBM, Microsoft, Oracle, SAP, Fanuc"
+    excerpt: "The latest market report on Artificial Intelligence (AI) In Fintech 2019 offers an in-depth analysis of this business vertical involving key information concerning industry deliverables, predominantly market tendencies,"
+    publishedDateTime: 2020-01-08T14:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-growth-prospects-and-precise-outlook-2019-to-2025-autodesk-ibm-microsoft-oracle-sap-fanuc-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 28
-  - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
-    excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
-    publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+    publishedDateTime: 2020-01-14T06:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 27
     images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-face-recognition.jpg
-        width: 1280
-        height: 721
-  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
-    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
-    publishedDateTime: 2020-01-14T19:54:00Z
-    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 1200
+        height: 627
+  - title: "Machine Learning Market Growth Analysis During 2019-2024 | Microsoft Corporation, SAP SE, Sas Institute Inc And More"
+    excerpt: "The Global Machine Learning Market research report is a professional and in-depth study on the current state Industry. The Market research report provides an overview of the market development status and future outlook of the market."
+    publishedDateTime: 2020-01-14T06:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-growth-analysis-during-2019-2024-microsoft-corporation-sap-se-sas-institute-inc-and-more-2020-01-14
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
-  - title: "Choose a speech recognition mode"
-    excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
-    publishedDateTime: 2020-01-14T23:12:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
+    excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
+    publishedDateTime: 2020-01-14T11:14:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-analysis-size-share-trends-growth-and-forecast-till-2024-2020-01-14
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
-  - title: "Early Recognition of Burn- and Trauma-Related Acute Kidney Injury: A Pilot Comparison of Machine Learning Techniques"
-    excerpt: "Severely burned and non-burned trauma patients are at risk for acute kidney injury (AKI). The study objective was to assess the theoretical performance of artificial intelligence (AI)/machine learning (ML) algorithms to augment AKI recognition using the novel biomarker, neutrophil gelatinase associated lipocalin (NGAL), combined with ..."
-    publishedDateTime: 2020-01-14T10:12:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-57083-6
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Artificial Intelligence Chipset Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence Chipset market share. Major industry players with significant revenue share include Intel Co,"
+    publishedDateTime: 2020-01-14T05:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
     type: article
     provider:
-      name: Nature
-      domain: nature.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 16
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-57083-6/MediaObjects/41598_2019_57083_Fig1_HTML.png
-        width: 499
-        height: 685
-  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
-    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
-    publishedDateTime: 2020-01-14T11:28:00Z
-    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
-    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+  - title: "Artificial Intelligence in Aviation Market Booming by Size, Trends and Top Growing Companies- Xilinx, IBM, Amazon, Nvidia, Microsoft"
+    excerpt: "New Jersey, United States, - The Artificial Intelligence in Aviation Market is exhaustively researched and analyzed in the report to help market players to improve their business tactics and ensure long-term success."
+    publishedDateTime: 2020-01-14T13:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-booming-by-size-trends-and-top-growing-companies--xilinx-ibm-amazon-nvidia-microsoft-2020-01-14
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
+    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
+    publishedDateTime: 2020-01-14T08:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
+    publishedDateTime: 2020-01-14T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
+  - title: "Automotive Artificial Intelligence Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The global Automotive Artificial Intelligence market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World."
+    publishedDateTime: 2020-01-14T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
+  - title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
+    excerpt: "New York, January 08, 2020: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
+    publishedDateTime: 2020-01-08T04:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-forecast-research-and-development-report-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
+  - title: "Global Closed-circuit Television (CCTV) Camera Market 2019-2023 | Introduction of Deep Learning Technology to Boost Growth | Technavio"
+    excerpt: "Some vendors are integrating the latest technologies such as AI, deep learning, and machine learning with CCTVs to improve video surveillance capabilities. For instance, in 2018, Zhejiang Dahua Technology introduced IP-based cameras with built-in facial recognition technologies backed with AI deep learning algorithms for real-time monitoring."
+    publishedDateTime: 2020-01-13T20:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005538/en/Global-Closed-circuit-Television-CCTV-Camera-Market-2019-2023
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 7
-  - title: "Trust in Provider Care Teams and Health Information Technology–Mediated Communication"
-    excerpt: "Rapidly advancing health information technologies are changing the nature of team-based care; there is a critical need to examine how trust functions in contemporary team-based care. Welcome the the new and improved AJMC."
-    publishedDateTime: 2020-01-14T14:14:00Z
-    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/trust-in-provider-care-teams-and-health-information-technology-mediated-communication
+    images:
+      - url: https://mms.businesswire.com/media/20200113005538/en/767042/23/Global_CCTV_Camera_Market_2019-2023.jpg
+        width: 1200
+        height: 627
+  - title: "Here’s How Artificial Intelligence for Edge Devices Market Growing by 2029 | Arm, Alibaba and Apple"
+    excerpt: "Artificial Intelligence for Edge Devices Market is growing due to the increasing demand forAutomotive, Consumer and Enterprise Robotics, Drones, Head-Mounted Displays, Smart Speakers, Mobile Phones, PCs/Tablets, Security Cameras will fuel the growth of the market. The prime purpose of the report is to present a comprehensive assessment of the ..."
+    publishedDateTime: 2020-01-11T05:50:00Z
+    sourceUrl: https://apnews.com/Wired Release/5a2e4d5ef832bc8b19dee0737e049865
     type: article
     provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
+      name: Associated Press News
+      domain: apnews.com
+    quality: 5
+  - title: "Digital Diabetes Global Market - Forecast to 2026"
+    excerpt: "Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum therapy options in the patients suffering from ... technology advancements such as incorporating artificial intelligence to manage the diabetes are driving the market. However, privacy and data safety issues ..."
+    publishedDateTime: 2020-01-09T13:00:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/digital-diabetes-global-market---forecast-to/article_7a409362-c424-56c7-a666-4638e22b2ef2.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
+  - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
+    excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
+    publishedDateTime: 2020-01-10T14:15:00Z
+    sourceUrl: https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 0
 
 secured: "OovpAQntJSzIL58R+Wi92zzVwN0yMX8bALX1GWsNQU/1zbvagMZ1q6cfvpLNWZSVTy2J+H5f/f2vk/20YBmrtaPIKYv5/Dyc4DrNO10fgQ7R7mZqsxfDHz2oTBSEc6XRzJnn0TXuLKue//iH8OWtHL92QgATwdTz16HEmN1g4V27NRaard98+CL5Qxepba/308XZcSTqkaEauDNRhLDq/Ah3yForXTzl2kNTGn3he9TvrUf9mV1Qt0F9yhePfbDTINJpQPxiBxQyYgO/DLRGnaMUbi8891JI2iNva4aqSsw9AF3NajzBxWZNTTE45e0SZ1qSEBccua97oUYC9o0pwv0il7pLa0oSxx69+08+56W190FT3WIRmd+SN9bvMXnbSlwUANi2XnQCFd7XJMbmABmcr0lT9PXmKAWugPqgk7cQU6rEvSLIBFGljh4nLud8b6zwgsSfjQ0BW+X6JkPneQ==;uxA5eok6/I2q3vrv+2SGlQ=="

@@ -20,6 +20,19 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
+    excerpt: "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ..."
+    publishedDateTime: 2020-01-14T21:24:00Z
+    sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 168
+    images:
+      - url: https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg
+        width: 760
+        height: 380
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z
@@ -35,6 +48,21 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
         width: 800
         height: 600
+  - title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
+    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
+    publishedDateTime: 2020-01-14T12:47:00Z
+    sourceUrl: https://www.vice.com/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    ampUrl: https://www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 103
+    images:
+      - url: https://video-images.vice.com/articles/5e1cfd16c2e43d009af72413/lede/1578958543535-GettyImages-1189384731.jpeg?crop=1xw%3A0.7455xh%3B0xw%2C0.0374xh&resize=2000%3A*
+        width: 2000
+        height: 1123
   - title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
     excerpt: "Fight for the Future, the Boston-based nonprofit promoting causes related to copyright legislation, online privacy, and internet censorship, today announced that it will team up with advocacy group Students for Sensible Drug Policy to launch an effort to ban facial recognition from university campuses in the U.S. To kick start the grassroots ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -50,21 +78,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "How to set up facial recognition to sign into Windows 10"
-    excerpt: "You can adopt a PIN, a physical security key, your fingerprint, or facial recognition. The facial recognition option can be handy as all you need do is glance at your computer's camera to authenticate yourself. But, only certain cameras support Windows Hello facial recognition, and you have to set up the feature for it to scan and recognize ..."
-    publishedDateTime: 2020-01-07T17:54:00Z
-    sourceUrl: https://www.techrepublic.com/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
-    ampUrl: https://www.techrepublic.com/google-amp/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg
-        width: 1200
-        height: 800
   - title: "The top facial recognition cameras of 2020"
     excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit or miss, based on a variety of factors, from ..."
     publishedDateTime: 2020-01-14T11:06:00Z
@@ -80,21 +93,6 @@ related:
       - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
         width: 3413
         height: 1920
-  - title: "Bosch’s facial-recognition tech keeps you safe, entertained behind the wheel"
-    excerpt: "This story is part of our continuing coverage of CES 2020, including tech and gadgets from the showroom floor. German supplier Bosch is working on bringing facial recognition technology to the world of cars. Similar to what’s available on many smartphones, the feature is a way to keep the passengers safe, entertained, and comfortable."
-    publishedDateTime: 2020-01-08T14:07:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 86
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/ronan-glon-bosch-facial-recognition-3-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
   - title: "The benefits of facial recognition AI are being wildly overstated"
     excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
     publishedDateTime: 2020-01-13T20:44:00Z
@@ -108,6 +106,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/inacrowd-796x417.jpg
         width: 796
         height: 417
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
+    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 76
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=
+        width: 1200
+        height: 630
   - title: "City Employee Claims SDPD Hid Information on Facial Recognition Program"
     excerpt: "A former city of San Diego employee claims the San Diego Police Department attempted to hide information about its use of facial recognition software. While the use of a facial recognition program was suspended by California Governor Gavin Newsom starting Jan. 1, 2020, NBC 7 Investigates reported on complaints regarding SDPD's handling of the ..."
     publishedDateTime: 2020-01-13T00:15:00Z
@@ -136,19 +149,6 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
-  - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
-    excerpt: "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ..."
-    publishedDateTime: 2020-01-14T21:24:00Z
-    sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg
-        width: 760
-        height: 380
   - title: "Digital rights group, students team up against facial recognition tech on college campuses"
     excerpt: "Digital rights organization Fight for the Future and college group Students for Sensible Drug Policy on Tuesday co-launched a campaign urging higher education institutions to ban the use of facial recognition technology on campuses."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -164,15 +164,6 @@ related:
       - url: https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg
         width: 980
         height: 551
-  - title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
-    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 63
   - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
     excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
     publishedDateTime: 2020-01-14T01:31:00Z
@@ -229,21 +220,6 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
         width: 1280
         height: 720
-  - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
-    excerpt: "Don’t look now, but facial recognition is about to become a big part of smart homes. Facial-recognition technology built into cameras offers the promise of greater security and personalization, but it is also a potential privacy nightmare. And it’s about to become a huge part of smart homes. Imagine that as you walk into your house ..."
-    publishedDateTime: 2020-01-11T18:19:00Z
-    sourceUrl: https://www.tomsguide.com/features/facial-recognition-smart-home
-    ampUrl: https://www.tomsguide.com/amp/features/facial-recognition-smart-home
-    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/features/facial-recognition-smart-home
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 53
-    images:
-      - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
-        width: 1200
-        height: 825
   - title: "Anti-Surveillance Advocates Sue MTA Over Alleged Use Of Facial Recognition Technology"
     excerpt: "A nonprofit watchdog group is suing the MTA to get information about a video monitor installed in Times Square to deter fare evasion, which drew suspicions that the agency is deploying facial recognition technology. In a lawsuit filed in state Supreme Court on Monday, the Surveillance Technology Oversight Project (STOP), an advocacy group which ..."
     publishedDateTime: 2020-01-08T19:59:00Z
@@ -274,58 +250,6 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
         width: 2176
         height: 1578
-  - title: "Voice Recognition technology and its growing influence"
-    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-    publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
-        width: 600
-        height: 271
-  - title: "No, facial-recognition tech is not some racist Skynet"
-    excerpt: "How ridiculous are fears about facial-recognition technology? Well, “advocates” from the Surveillance Technology Oversight Project are suing the MTA simply because the tech might be in use at the 42nd Street/Port Authority station. The MTA says the plainly-visible monitor above a set of turnstiles and with a sign about “monitoring in ..."
-    publishedDateTime: 2020-01-12T13:14:00Z
-    sourceUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/
-    ampUrl: https://nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
-    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/12/no-facial-recognition-tech-is-not-some-racist-skynet/amp/
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: https://thenypost.files.wordpress.com/2020/01/port-authority.jpg?quality=90&amp;strip=all&amp;w=1200
-        width: 2000
-        height: 1333
-  - title: "Anger over use of facial recognition at south Wales football derby"
-    excerpt: "Protest held before Cardiff v Swansea as fans say technology is taking away their rights"
-    publishedDateTime: 2020-01-12T14:05:00Z
-    sourceUrl: https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
-    ampUrl: https://amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
-    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 39
-  - title: "Massachusetts City Renews Calls for Facial Recognition Ban"
-    excerpt: "(TNS) — Springfield, Mass., police don’t use facial recognition software and city councilors want to keep the technology away until it gets better and someone does a better job of regulating its use. \"We want to make sure that we as a municipality are not employing technology that has proven time after time to be inaccurate and inefficient ..."
-    publishedDateTime: 2020-01-13T20:22:00Z
-    sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
-    ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
   - title: "Activists fight to keep face recognition off college campuses"
     excerpt: "Fresh off a campaign to ban facial recognition software from being used at concerts, Fight for the Future is trying to rally students to persuade their schools to take a similarly strong stand against broad use of the powerful technology. Why it matters: In the absence of legislation limiting its use, activists want to prevent facial ..."
     publishedDateTime: 2020-01-14T14:23:00Z
@@ -339,6 +263,17 @@ related:
       - url: https://images.axios.com/n1OHl8BFB6kAtUNWSk8eO_NnzGU=/0x0:1920x1080/1920x1080/2020/01/14/1579011213053.jpg
         width: 1920
         height: 1080
+  - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
+    excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are \"typical recognisers\", and at the top there is a small number of people who excel at recognising faces—super-recognisers. Since 2009, researchers have ..."
+    publishedDateTime: 2020-01-13T12:59:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.html
+    ampUrl: https://medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-facial-recognition-reveals-abilities-super-recognisers.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 38
   - title: "French government wants to test facial recognition in video surveillance"
     excerpt: "French officials say they want to establish a legal framework for developing facial recognition for security and surveillance, extending concerns about the rapid spread of the new technology. Facial recognition technology, a form of artificial intelligence that can identify a person by analysing a digital image of their face, is already ..."
     publishedDateTime: 2020-01-14T17:45:00Z
@@ -363,74 +298,17 @@ related:
       name: 7News and TheDenverChannel.com
       domain: thedenverchannel.com
     quality: 28
-  - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
-    excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
-    publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop
+  - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
+    excerpt: "They’re people with speech differences and they’re helping improve the technology of voice recognition, CBS2’s Carolyn Gusoff reported Tuesday. Voice recognition saves time and enriches life. But what if your smart device isn’t smart enough to recognize you? “They don’t answer what I say to Siri,” Jake Lunney said, adding when ..."
+    publishedDateTime: 2020-01-15T00:01:00Z
+    sourceUrl: https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/
+    ampUrl: https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/
+    cdnAmpUrl: https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 27
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-face-recognition.jpg
-        width: 1280
-        height: 721
-  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
-    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
-    publishedDateTime: 2020-01-14T19:54:00Z
-    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
-  - title: "Choose a speech recognition mode"
-    excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
-    publishedDateTime: 2020-01-14T23:12:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
-  - title: "Early Recognition of Burn- and Trauma-Related Acute Kidney Injury: A Pilot Comparison of Machine Learning Techniques"
-    excerpt: "Severely burned and non-burned trauma patients are at risk for acute kidney injury (AKI). The study objective was to assess the theoretical performance of artificial intelligence (AI)/machine learning (ML) algorithms to augment AKI recognition using the novel biomarker, neutrophil gelatinase associated lipocalin (NGAL), combined with ..."
-    publishedDateTime: 2020-01-14T10:12:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-57083-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 16
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-57083-6/MediaObjects/41598_2019_57083_Fig1_HTML.png
-        width: 499
-        height: 685
-  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
-    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
-    publishedDateTime: 2020-01-14T11:28:00Z
-    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
-    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 7
-  - title: "Trust in Provider Care Teams and Health Information Technology–Mediated Communication"
-    excerpt: "Rapidly advancing health information technologies are changing the nature of team-based care; there is a critical need to examine how trust functions in contemporary team-based care. Welcome the the new and improved AJMC."
-    publishedDateTime: 2020-01-14T14:14:00Z
-    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/trust-in-provider-care-teams-and-health-information-technology-mediated-communication
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 0
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 11
 
 secured: "S8o/3MazHAfzIINTbDNMIkXPYEZT1XQh+qxLi869/cmCwl/9vGCPoQX0LEli/wJYr/h8wn5ay+kRmOPNmag7p1B8oKQJeji5h9YQX2EYtg/o0+i/6C9BMveas/LgKGCLEIfKysRlcXZsoW6u6PrELhRH9mq9EzM4rHnay5OylGiKhoqsIxJ/cnW3ikJ7hyoydWBkmqmnqvaVh7FoQxU2NvI1fxq5bcEsWp6pTefMfeUKEykvtrlEvXpDreQaxO5e72BeT4EgkhOc4EoXHWsUqcj2mtJkjQdRD8l26TnBFE0=;CT3SiCbYqe2+qErNnVitmw=="
 ---

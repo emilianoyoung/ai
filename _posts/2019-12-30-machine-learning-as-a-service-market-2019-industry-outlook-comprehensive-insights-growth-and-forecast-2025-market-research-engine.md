@@ -31,15 +31,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
-    publishedDateTime: 2019-12-17T19:35:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 11
 
 secured: "/V/Ex9PPLgoDx4VIsUhv9+2za42ounUBK3C+TrDQI2dpzlU48Fzr4dpTQzxaiw+0VNmeqz9axo32yj962PmgNk3OWUe3XrOUA09YOqAzfUBABZcu295cMd0R2oIrRrOoi6twfBBJ4NaPUt7VWSBBKXlwlZHVNO/5fT5pnN/6S32a1oh6qVOCly0Qucll8fLJrZ3iLbWeFeb1vYzVD+odyF6o/nzWQVTB2lko/NlGGBKe/hBUnGiIrU3EbrZ1X973N4XyZ64nM+VYHeGEYm6Ilm5dd0g4dwFRqlmnOSUHIPc=;RWc/qbR8tUuz7Wci0B9crA=="
 ---

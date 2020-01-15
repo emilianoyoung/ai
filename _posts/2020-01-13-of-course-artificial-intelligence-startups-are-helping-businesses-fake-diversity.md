@@ -23,34 +23,43 @@ images:
     title: "Of Course Artificial-Intelligence Startups Are Helping Businesses Fake Diversity"
 
 related:
-  - title: "AI or BS: Distinguishing artificial intelligence from trade show hype"
-    excerpt: "AI wasn’t always poorly represented, though: There were some legitimate and legitimately exciting examples of artificial intelligence at CES. And all the questionable AI pitches were more than counterbalanced by the automotive industry, which is doing a better job than others at setting expectations for AI’s growing role in its products ..."
-    publishedDateTime: 2020-01-14T21:32:00Z
-    sourceUrl: https://venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype/
-    ampUrl: https://venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype/amp/
+  - title: "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence"
+    excerpt: "Scientists used computer algorithms to \"evolve\" an organism that's made of 100% frog DNA — but it isn't a frog. What happens when you take cells from frog embryos and grow them into new organisms that were \"evolved\" by algorithms? You get something that researchers are calling the world's first \"living machine.\" Though the original stem cells ..."
+    publishedDateTime: 2020-01-14T21:15:00Z
+    sourceUrl: https://www.livescience.com/frogbots-living-robots.html
+    ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
+    cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: Live Science
+      domain: livescience.com
+    quality: 153
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/IMG_9100-e1579014434237.jpeg?fit=2000%2C1000&strip=all
-        width: 2000
-        height: 1000
-  - title: "There's nothing artificial about impact of AI tools, technologies"
-    excerpt: "The fact that artificial intelligence features in smart home devices — from digital assistants ... The discussion highlighted various applications of AI in the automotive, technology, video and entertainment, and health care industries, while also providing insight into the considerations companies should consider when evaluating the ..."
-    publishedDateTime: 2020-01-14T09:55:00Z
-    sourceUrl: https://www.crainsdetroit.com/other-voices/theres-nothing-artificial-about-impact-ai-tools-technologies
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 39
-    images:
-      - url: https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Jeff%20Marston_i.jpg
+      - url: https://cdn.mos.cms.futurecdn.net/hPio9oXE73b6NhFJiBF2HD-1200-80.jpg
         width: 800
-        height: 600
+        height: 450
+  - title: "‘First living robots’ assembled using frog stem cells and AI design"
+    excerpt: "AI-designed cell robots are shown in block format alongside actual versions of the ... a senior research fellow at the Oxford Uehiro Centre for Practical Ethics. “At what point would they become beings with interests that ought to be protected?” he said in an interview with the Guardian. “I think they’d acquire moral significance ..."
+    publishedDateTime: 2020-01-14T15:48:00Z
+    sourceUrl: https://globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/
+    ampUrl: https://globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/amp/
+    cdnAmpUrl: https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6408570/living-robots-frog-stem-cells-ai/amp/
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 39
+  - title: "Meet the xenobot: world's first living, self-healing robots created from frog stem cells"
+    excerpt: "However, their lifespan can increase to several weeks in nutrient-rich environments. And although the supercomputer -- a powerful piece of artificial intelligence -- plays a big role in building these robots, it's \"unlikely\" that the AI could have evil intentions. \"At the moment though it is difficult to see how an AI could create harmful ..."
+    publishedDateTime: 2020-01-15T04:32:00Z
+    sourceUrl: https://www.azfamily.com/news/us_world_news/meet-the-xenobot-world-s-first-living-self-healing-robots/article_fdfd7469-dfdd-5e43-9c43-3d042e84609d.html
+    ampUrl: https://www.azfamily.com/news/us_world_news/meet-the-xenobot-world-s-first-living-self-healing-robots/article_fdfd7469-dfdd-5e43-9c43-3d042e84609d.amp.html
+    cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/meet-the-xenobot-world-s-first-living-self-healing-robots/article_fdfd7469-dfdd-5e43-9c43-3d042e84609d.amp.html
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 30
 
 secured: "0TWKJDAB+rcRTUz80z6TXd4qvwLBBwOCaPXIUUAFv4WnwhvSNjR34RiVXsBt37sNcLM88NdFAOTXY1C+Fsk6m2Gtp5n/3iQmRfriCXwnSM8cKd5boP0u1P9lAWlaB7h/m0R3AujRIpsnwgnzP6Wr6N6T7UYR8KOH4D8p55Ylb6398MVeueg3J6Q7l6K3u2Am/HDNeqRfc1VomQzGKTHqCI082X26b/nQ2WuNZ/3oVL2pziQ6bfuefNRxyZnnPnPv0Al9YvHfHvn8k8je2gwB/H33GsGK/sbf1R78nUaNdGU=;dqU1lXIGUwwiy+9IJkg05Q=="
 ---

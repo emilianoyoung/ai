@@ -57,14 +57,14 @@ related:
       domain: marketwatch.com
     quality: 28
   - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
-    excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai) Technologies Co. Ltd. (a Huawei Company) 7.13. IBM Corp. 7.14. Intel Corp. 7.15. Mythic Inc. 7.16 ..."
+    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
     publishedDateTime: 2020-01-09T12:45:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets---worldwide-market-study-2019-2025-with-analysis-on-amazon-ibm-qualcomm-intel-nvidia-and-more-300984314.html
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
 
 secured: "iHcUT075PctOjafM60xKDU/9WppnztPeuyAXuQ2//nS4zipm+wYMuKBtcvDZPo4ao3vdmhB06zW2im1ov8gncDsZXx5uPrHT/imOMVLtvjP+h5qmQFH2u0DJydpWPaG5USrIJPKi5lWltm/Ky5ZYxn1lwOThgAE+fSYFKAo6q2x6FJT+XY+HamvaSFQ815Kp+dBDpv8V6/F+D4K0Q8yoVkbf9EOxEEoa2QtWCAiDOzEDP72yPphbCGmImvVcIUO5aR8kAQtPRhP2HfFqwcgyWFFQ+uvPbR3mifPrwWqcuaM=;/4mlKUWce2fC4ch7F5PAaQ=="
 ---

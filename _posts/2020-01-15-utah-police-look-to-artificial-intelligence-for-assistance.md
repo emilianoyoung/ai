@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Utah police look to artificial intelligence for assistance"
-excerpt: "A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies, The Daily Herald reported. The Park City company can gather real ..."
-publishedDateTime: 2020-01-15T01:50:00Z
-sourceUrl: https://www.kansascity.com/news/business/national-international/article239296528.html
-ampUrl: https://amp.kansascity.com/news/business/national-international/article239296528.html
-cdnAmpUrl: https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article239296528.html
+excerpt: "PROVO, Utah (AP) - A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies, The Daily Herald reported. The Park City company ..."
+publishedDateTime: 2020-01-15T03:06:00Z
+sourceUrl: https://www.washingtontimes.com/news/2020/jan/14/utah-police-look-to-artificial-intelligence-for-as/
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - AI
@@ -31,6 +29,6 @@ related:
       domain: miamiherald.com
     quality: 37
 
-secured: "JkJvhtvtq+FlSEvV7mopW9PC8k4b/AwM01Rpq8euiikbIZSZtZrJPearqC0QgsEw6wVhBXvjoQ4J04aUrqrJdJXZdb+SU08udXzgltF2VW8LWLQ93vJ3EZodnMYPvq5S9HHjZbIRU+/kvd8hkwBrgM2zc4LdE58Nw1eHab+Cc2wmEd10YwqHZAju7Uah0UXkqguWKTXmJ+EWAk0uYe9GQMSdOfNlVpfMfp7Y6YRbwvk4YnrdPL7V3dAMqfOJKA2rqKtGJ05eSejdr6rWwPLYbvj6Lc8cTG2n30zTkenD+pU=;ntTHUXB2inUxbT6i82OpsQ=="
+secured: "kbX2gvnldHuwwbq+jyRQuUqAZ5jCUF0egYaCFqSV3g2sRkaoviizCwLhbV+zofPbXGtgsUQIxwg1fAGYiVWaynzqjifZSSe6aon3m0uhU0Nmbu+BFCZvX6h/hnmpFP9WuV2M4woq/BZJkb3oEL1hg8EXFkauh/EOAPlvhyuaTkfoQG6F2e+QpxS2zILMYievUQtToucAmgQw5i/dDYF8UsVYeDwqbPj80LRdChEB6IBgzkXsUdfNfd1De7FnFUPUH08JOMMcFnWtrzcdh9skOr+wCWu5XkLOf4QHKUM9Smg=;i+z6uEBWrD3nQonHB8K5Xw=="
 ---
 

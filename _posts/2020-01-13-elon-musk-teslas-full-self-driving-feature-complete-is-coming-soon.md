@@ -8,8 +8,8 @@ ampUrl: https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/
 type: article
 quality: 88
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -38,26 +38,11 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 82
+    quality: 182
     images:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg
         width: 796
         height: 419
-  - title: "Riding in a self-driving car is the best way to end CES 2020"
-    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
-    publishedDateTime: 2020-01-10T17:02:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
-        width: 1200
-        height: 630
   - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
     excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
     publishedDateTime: 2020-01-13T00:26:00Z
@@ -73,6 +58,19 @@ related:
       - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
         width: 1200
         height: 680
+  - title: "Are self-driving cars safe? Expert on how we will drive in the future"
+    excerpt: "Cars are changing – fast. But are innovations such as autonomous and flying cars a bright new dawn, or just a wild pipe dream? And if they become the future’s way of getting from A to B, can we trust them to take us there safely? Here are five key questions answered by an expert. At present, the general public doesn’t trust the concept of ..."
+    publishedDateTime: 2020-01-15T00:06:00Z
+    sourceUrl: https://uk.news.yahoo.com/self-driving-cars-safe-expert-123820942.html
+    type: article
+    provider:
+      name: Yahoo! News
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/vB2d8Lo3x6K97szQS9loZQ--~B/aD0yNzk7dz00OTY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_conversation_464/02d4b0a18e633a0891f643b84d518402
+        width: 496
+        height: 279
 
 secured: "uIl2F2AN682TkYG+hGtp6FKRsrl3BLw9RjaSZYhXXqS5NJnt94rJ77Y02GHT7qEVNpAEpll4B6vg5xqMnlIZCpxYQ+5Ou2M8hXe7BH+SP1MaKWPVN4EBZGIzmcystZyWWcf9jF090caNMIs/g8gI53Qp88ZcED+/UJEvR/j/+Fv3dqxnygZwqZ8FGRri8VBD+paJTtjNey6jClyQaKXVXc3dfE9Eqc8WxIG3sT+/NydSoqQpVA3VaVk6zbqkiu5Peay4PQJf46QmpvblbP53/P2RORU32soLWblipvU2+dykbA/Myyk79P/EXN6b0tiyGmMOnIr+T4rUoBZTEt0RjEmGgQR37whlhuImm38VEKCaJRXhYBAXIzTmBXIDffTduDNoUOFO8kAWRWkZNFuAneUzMK+FFBxaAjPDY/MeSNRMbdE63Wd1l2IPd2RSScPXTuxQxulZTi2c9oEANcoF0Q==;NoOnnbwE8PVer9rBs3jIaA=="
 ---

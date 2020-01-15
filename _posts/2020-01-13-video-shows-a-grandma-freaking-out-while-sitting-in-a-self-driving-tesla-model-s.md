@@ -26,6 +26,19 @@ images:
     title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
 
 related:
+  - title: "Elon Musk says Tesla’s early access group will get Full Self Driving ‘soon’"
+    excerpt: "Full Self Driving is an upcoming Tesla feature that currently exists in an unfinished form. According to Musk, the feature will eventually make it possible for a Tesla vehicle to drive itself from an owner’s driveway in the suburbs, onto the highway at high speeds, into the city where there’s traffic, weather, pedestrians, and who-knows ..."
+    publishedDateTime: 2020-01-14T23:27:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/14/elon-musk-says-teslas-early-access-group-will-get-full-self-driving-soon/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 182
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg
+        width: 796
+        height: 419
   - title: "Elon Musk: Tesla’s Full Self-Driving ‘feature-complete’ is coming ‘soon’"
     excerpt: "Tesla missed Elon Musk’s deadline to release what he calls Full Self-Driving “feature-complete” out “at least in the early access program” by the end of last year, but the CEO says that it is still coming ‘”soon.” Autopilot is currently meant for highway driving, and the new Smart Summon, which Tesla recently released in its V10 ..."
     publishedDateTime: 2020-01-13T14:09:00Z
@@ -41,34 +54,19 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&amp;strip=all&amp;w=1000
         width: 2564
         height: 1236
-  - title: "Elon Musk says Tesla’s early access group will get Full Self Driving ‘soon’"
-    excerpt: "Full Self Driving is an upcoming Tesla feature that currently exists in an unfinished form. According to Musk, the feature will eventually make it possible for a Tesla vehicle to drive itself from an owner’s driveway in the suburbs, onto the highway at high speeds, into the city where there’s traffic, weather, pedestrians, and who-knows ..."
-    publishedDateTime: 2020-01-14T23:27:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/14/elon-musk-says-teslas-early-access-group-will-get-full-self-driving-soon/
+  - title: "Are self-driving cars safe? Expert on how we will drive in the future"
+    excerpt: "Cars are changing – fast. But are innovations such as autonomous and flying cars a bright new dawn, or just a wild pipe dream? And if they become the future’s way of getting from A to B, can we trust them to take us there safely? Here are five key questions answered by an expert. At present, the general public doesn’t trust the concept of ..."
+    publishedDateTime: 2020-01-15T00:06:00Z
+    sourceUrl: https://uk.news.yahoo.com/self-driving-cars-safe-expert-123820942.html
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
+      name: Yahoo! News
+      domain: yahoo.com
+    quality: 24
     images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg
-        width: 796
-        height: 419
-  - title: "Riding in a self-driving car is the best way to end CES 2020"
-    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
-    publishedDateTime: 2020-01-10T17:02:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
-        width: 1200
-        height: 630
+      - url: https://s.yimg.com/uu/api/res/1.2/vB2d8Lo3x6K97szQS9loZQ--~B/aD0yNzk7dz00OTY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_conversation_464/02d4b0a18e633a0891f643b84d518402
+        width: 496
+        height: 279
 
 secured: "4oSt0GAO0roEYmtPD3YF9RK6G4s5hLWeEeFkTk338ZWVyaFQfPgVQ2M3EXs71h9z4Jpf1/Vf4HCcLWSJ/MHrtTC07Xm6fejASxiam9synI8ohMZ5U3LpBWYSF1nvviyzAzo3cIOnJegUEORsVSfcX183B+ATzy+kef61cQYlAEauXsSDLoIzmAnBYotGDnbRqycA8Xw/eGXvniRg6lA3nZ04j/BlaUM7Jwa4t4tG//7hXbgJTOcgTNn2LpB06IFSocI+hXHdnHCiyBoSdXTiHZGnxETel520kaIxHpK7wAU606kafncD9jJfC1wTRx59l2rh1mJlg4gMQTrL4oPvCxg23Zhcwf06xHxwDXgUIMZc5YVVJR8w9k8enBpL8z5T3su0ECV0Lv3R5l8E2XQLmJACuJSVrjIoNs+B85+niXW5oaokbe+L3oobYr5BFTmQpFkX11YfZ0G2pgEouMVhfQ==;8pwTPwOabzlMfUZneJ6B5A=="
 ---

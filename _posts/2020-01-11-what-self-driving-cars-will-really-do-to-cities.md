@@ -39,6 +39,21 @@ related:
       - url: http://cdn.cnn.com/cnnnext/dam/assets/200108111821-woven-city-toyota-big-1-super-tease.jpg
         width: 1100
         height: 619
+  - title: "Riding in a self-driving car is the best way to end CES 2020"
+    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
+    publishedDateTime: 2020-01-10T17:02:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
+    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
+        width: 1200
+        height: 630
   - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
     excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
     publishedDateTime: 2020-01-10T05:53:00Z

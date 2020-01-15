@@ -18,25 +18,25 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
-    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and ..."
-    publishedDateTime: 2019-12-24T11:15:00Z
-    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
+  - title: "Machine Translation Software Market 2019-2024"
+    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024."
+    publishedDateTime: 2019-12-16T08:39:00Z
+    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Machine Learning as a Service Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
-    excerpt: "New York, December 30, 2019: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
-    publishedDateTime: 2019-12-30T07:10:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2019-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2019-12-30
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 3
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
-secured: "Ab5dTT5vpu5CdyNP3eBhRCdXkWQZBYvCnpvvGGeiSuxeeH7IIwDrhmeH5dReH6EpZgpgx2EpcZmKDcFRDSt9vIxjQOAV8iyuoFjM8HbewslTYYYwbxgi2493p/DbthWHuw1XcQWWTmC9uG78MSGQIOaDNoHCdCbxy/rFnobEWQnattycoaWJ2nHI8qUzBcYZRzOOJnSV/dWKNCxmegZ9tMOtuxiOmnVRRG/1NAonkUO96d4OpGJXajBCtLf2RZePHVT+YBAb5suSxORI7Svkn9q0pLt+nHEuZrXJPM+4rPE=;xVuO+fuyQAG4ENaHtuIaqQ=="
+secured: "Ps0SixUT3o7oxJQN8QEsW8nZzgL0+Wku00M+6DlL7YrIdp5lbMYH5rT6GI6vaaoN1uLuuB4xN3OIs2kRiWrW9RhdSRf5kTRLCKWpR4jXgnmbXJ+wHy4QG2P4PCk79Zg+TUKkA5xiEK1We2Rge6lYanZHrfNkNIrhWnY40Hu6VQxxT3d+VFsTu8D8C91MQ2hOvuTTqeKysPUD8rVNyomMOjIPs/Xi1kJXmfYgR81PkzX+8+Ld8edRLsHbFSYEYdbynZDkcFIhA6BfRvpbb2JwwOs/gzXjlCN5sMLD2Kxaagk=;gTcDoYZlBI33aHtNCHgY/A=="
 ---
 

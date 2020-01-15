@@ -7,9 +7,9 @@ sourceUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-
 ampUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 187
+heat: 217
+published: true
 
 provider:
   name: TechCrunch
@@ -44,6 +44,19 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/robtoics_ancajur.png?w=1024
         width: 1024
         height: 558
+  - title: "Cultivating robotics and AI for sustainable agriculture"
+    excerpt: "The issue of agriculture sustainability is a people problem. However, it might be the robots that save humanity. Automation and artificial intelligence (AI) will help relieve the effects of an aging agricultural workforce and a shrinking supply of field workers looking for less strenuous work. Self-driving agricultural machinery and autonomous ..."
+    publishedDateTime: 2020-01-14T14:31:00Z
+    sourceUrl: https://www.controleng.com/articles/cultivating-robotics-and-ai-for-sustainable-agriculture/
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 69
+    images:
+      - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
+        width: 645
+        height: 350
   - title: "TechCrunch Sessions: Robotics & AI"
     excerpt: "TechCrunch Sessions: Robotics & AI on March 3 at UC Berkeley is a single-day event that features in-depth interviews, demos, and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
     publishedDateTime: 2020-01-14T00:32:00Z
@@ -58,6 +71,6 @@ related:
         width: 2600
         height: 1456
 
-secured: "EI+hDiL0AVn3iOSmFALBvABu/uX9Q0iJanebqXDD/xlHj+BWuAuJNFAWiRo/+8Nj4rbKqEmCmBSDZX7K50NvBrKLvnzwLDxNS8KeJWD77VivEe1mdJAC2XV+nvmAderu27/W/WKZeEsp9JBAWd47TAjpqPrfRQnrZtg+wccPerkzgL/q0UmrtHZHouXzTDaS3tAV2fPCHWTgByRz+VIiLKPKywgEuCNEOqTWG3xUU65ts83HbkYO1TExH8hQpgC5YmafZet4KRg5iA71xDnfrJCgABE0FAkWpp/k1/PE8kwp8LDMrEmfKiiUzcBZBKWIS5jQY+3whmZgO4wbBSFm7lia6hc3zy4jf1TD7otUf++nul4MjrBj9q56MOY2IXHqVjzbHZVY4P+28RAH8T1E2FK9o0oV7y2Mlxb5f0XdvSPQtzVquo0mnjvtxEeyANxGcz2MDepAbMRVtlmvTD2NHg==;zzppQS6XhuEOUZFcbfZVHA=="
+secured: "R9jYdTBOHLgt86S1dYN8/bz36H+OSV5jNWoGUuu7PZzt9NzR+ccROZSGxKvBN5oabI0tesJltAPb3y7a9BolvcBw6qGV3QUC1JKDHEYvi8ksALhNP6k0nJ5LXQACfRQ6yg1DoRa9Lr8HT7N2kwn0IaDZ3VrYsQtI7g5q2YptvIKM0buXRBDXQT2HvK4V2qACFAwjIdjKm7cYsmLk/gtYghGCV+EN6FtpqYm/Cdysm11vlmOx0tTErKUDDleeqDWgD9e4B71lZuAXQI7VJrf0UKGu9tSwbfO202lMZ5ryVbmmC7Mpz7gV9xjl2rqVIb5W5QEDS6X2QexmSyx+qboZ8WsPYCc8m+FOzzHGt3FZ5yK26GGjl9SaEBFZJZi5zhPEDQaPF+XmiWOpBGLDzzIe99QiKw9Z6gi98LcJG8pCRuF+jnjWSXIabgSSRkmKcEbT7VP0ezS7tXRMvlzQY1r0ReMyor1Dcumqg2yC7BEMrsg=;T45i8Lruht7khT4xSePhhA=="
 ---
 

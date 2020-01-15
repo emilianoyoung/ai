@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T12:47:00Z
 sourceUrl: https://www.marketwatch.com/press-release/whats-driving-the-artificial-intelligence-in-agriculture-market-growth-top-players-2020-01-14
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -22,19 +22,19 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Cultivating robotics and AI for sustainable agriculture"
-    excerpt: "The issue of agriculture sustainability is a people problem. However, it might be the robots that save humanity. Automation and artificial intelligence (AI) will help relieve the effects of an aging agricultural workforce and a shrinking supply of field workers looking for less strenuous work. Self-driving agricultural machinery and autonomous ..."
-    publishedDateTime: 2020-01-14T14:31:00Z
-    sourceUrl: https://www.controleng.com/articles/cultivating-robotics-and-ai-for-sustainable-agriculture/
+  - title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
+    excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
+    publishedDateTime: 2020-01-08T09:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 69
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
     images:
-      - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
-        width: 645
-        height: 350
+      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
+        width: 1400
+        height: 733
 
 secured: "ge7m0hm/3AwgfXqt1DCwX7MIeE90pSywUuBUn0TgaQHFNnW4KXlNewgbRVZkfexZFIQNax3bQ1u/3cyCve9cKLfh+DxIxiDaL6Oh/7xe4qUA4emnNwSYsxmcW+daF9XfWrwWfAh3mRLUCVpgpUErqgnd0i4llC5xnMSUvdZILmmyVB5Qk1lS7SbIVv2hqLNgCuzzDo7Dm0ZjM6TkNIWTYhegLbbfhAaynsc34pjOMCxxbMp6xDduv4R4yQ9CLUzvsHUTxEz9fMZMlQ5k8QARmyIUkIsGE3gGSBAXKN/rCIU=;egnPGWmLl+OiO8kTiidXiA=="
 ---

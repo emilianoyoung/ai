@@ -20,19 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
-    excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-    publishedDateTime: 2020-01-13T15:31:00Z
-    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 51
-    images:
-      - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
-        width: 600
-        height: 378
   - title: "German Bundesliga selects AWS for personalised coverage"
     excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile, online, streaming, and television broadcasts. Using other AWS ML services, Bundesliga ..."
     publishedDateTime: 2020-01-13T11:20:00Z
@@ -46,6 +33,24 @@ related:
       - url: https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/Bundesliga-2017.jpg?fit=1103%2C618&amp;ssl=1
         width: 1103
         height: 618
+  - title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
+    excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
+    publishedDateTime: 2020-01-13T17:49:00Z
+    sourceUrl: https://webuilddesign.com/bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key/
+    type: article
+    provider:
+      name: webuilddesign.com
+      domain: webuilddesign.com
+    quality: 31
+  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
+    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search historical footage and surface ..."
+    publishedDateTime: 2020-01-13T15:17:00Z
+    sourceUrl: https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 14
 
 secured: "Lt7EWQFjWoFW31JUHc34maEoBC37wt1vKlt3MVQgHuVBwcIFSj+ioCj9vL5e2XG7XEJ/NoPKZO8iF4wqlxKGoIJe0Nkp14QvpMU6Y7BRBzAPvW5x2znBc5ezncP/Sdj3cTWQ8ER/dkFfWiFx6OStEI/neH4PpiQWETlohUo3IKhpH4x4dbNsgFYhGNXry+rneZC/fSWmpISGcPCwNj2JbPJtDzN+txQmftCjPe0JOI1mwpY+sENydSv7Cbv34aXrbTT33bLUqxlsA8MOkfud91c3HRYzTQKD6Fjo4v5SF5A=;l8EhK2KJimokAsu2/UZqcw=="
 ---

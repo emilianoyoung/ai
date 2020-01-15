@@ -1,19 +1,21 @@
 ---
 category: news
-title: "AI can detect low glucose levels via ECG without fingerprick test"
-excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: \"The differences ..."
-publishedDateTime: 2020-01-13T14:58:00Z
-sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
-ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
-cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+title: "AI can detect low-glucose levels via ECG without fingerprick test"
+excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+publishedDateTime: 2020-01-13T16:57:00Z
+sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -91,6 +93,6 @@ related:
       domain: miragenews.com
     quality: 12
 
-secured: "cRNnjwCMUXKV1alyrpAo1O5zH5cn3v54BRUfV5PtUSLZIgyCK3Is7CVcEusoUYSAADcIcy0t/Af2CLaMf0/WfRDv6SHx7DMkVg7tQTmwLxFqOBEZRehM0lxl9mbJ+hGEwj4ExPhevC9bO3fK6MQyxf4ExJyGno0yX6a9wFUuRr97FvA1QQYZ/Oj3fKIoDh/T0H1nJxB878/6V1t5AGuFg2p6jWGnDD+xgdzDq7fF6ugIqhsc38k+jz4uP4y65AAGa9LhAg6b/6LNLjwm9RMDa9GJhK8Zt1NZkofJiinNTo+9x1podRnhzeGpEwhKGtcGOM737isgz3b2tDAsYjYV62/FJRjQ9kgCG+EcYM42hxzo0NAA19yR6EfKOdOhQl1xUzxtL8jhhfGzzc1m1am2pE7rH4JD4PU0VT5KJdACFEbEERRSVyVIik+GZlKYqf15DLE5VPtC4QLbowldNmdyWQ==;pIhCOgyjj+bvffHbrOg6PA=="
+secured: "BLwvH9mEPkMx6Sy7z2AvXE2//yyQl1m1HaU3u0UMZrDBcmdKftrbGSrYqS+MNf/P7LhFmr8KLsnRMs5t0igFhIRWrqRnjnvVQS2wTv9NKmNxJ6h4bmpvjYrsGOH9mMR5BnuxrN6RtIiziESrY9z25XgjIz1A8liqGfkejzFVBEBYlqGrY934AL2AbpcuTYeFGksqG3L2BVovLchmzxmhQaDyFOc0eG/msMhugbon+cMsI8k+3cm1HAgcGUDOHrH1Lanmrq3AegTT0vGU6+cSHYp8cLHqkwr2phARPPIZPz8=;yuXB7G00un/8LAw6atQwRA=="
 ---
 

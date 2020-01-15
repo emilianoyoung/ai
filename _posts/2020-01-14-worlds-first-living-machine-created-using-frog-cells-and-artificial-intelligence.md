@@ -7,8 +7,8 @@ sourceUrl: https://www.livescience.com/frogbots-living-robots.html
 ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
 cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
 type: article
-quality: 53
-heat: 64
+quality: 153
+heat: 184
 published: true
 
 provider:
@@ -37,7 +37,31 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 39
+  - title: "Meet the xenobot: world's first living, self-healing robots created from frog stem cells"
+    excerpt: "However, their lifespan can increase to several weeks in nutrient-rich environments. And although the supercomputer -- a powerful piece of artificial intelligence -- plays a big role in building these robots, it's \"unlikely\" that the AI could have evil intentions. \"At the moment though it is difficult to see how an AI could create harmful ..."
+    publishedDateTime: 2020-01-15T04:32:00Z
+    sourceUrl: https://www.azfamily.com/news/us_world_news/meet-the-xenobot-world-s-first-living-self-healing-robots/article_fdfd7469-dfdd-5e43-9c43-3d042e84609d.html
+    ampUrl: https://www.azfamily.com/news/us_world_news/meet-the-xenobot-world-s-first-living-self-healing-robots/article_fdfd7469-dfdd-5e43-9c43-3d042e84609d.amp.html
+    cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/meet-the-xenobot-world-s-first-living-self-healing-robots/article_fdfd7469-dfdd-5e43-9c43-3d042e84609d.amp.html
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 30
+  - title: "Of Course Artificial-Intelligence Startups Are Helping Businesses Fake Diversity"
+    excerpt: "Pity the man who hates markets. Attempt to do away with them, a la Stalin in the ’30s or Mao in the ’50s, and the rabble will begin to trade illegally. Maintain a command economy long enough, and reformers will arise to push the pendulum in the other direction."
+    publishedDateTime: 2020-01-13T11:30:00Z
+    sourceUrl: https://news.yahoo.com/course-artificial-intelligence-startups-helping-113035205.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 17
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/sxJqwjUBXzLyZD5pd_yjFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03NDYuOTc5NDcyMTQwNzYyNQ--/https://s.yimg.com/uu/api/res/1.2/5QrSUnIT24anBF7SuAz0_g--~B/aD01OTc7dz0xMDIzO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/the_national_review_738/c395f58fb63d49ef4b022fa288b0df8b
+        width: 1023
+        height: 597
 
-secured: "Tvk7Uc9WQ8vORJjdMJk5ESPV9Hfgfw8dSW5i9AgrH/4ZxjGqRM+l/SZk3c+yvs5YTnBnlQuEL2sURXemlY/o3XGZPrc9YECc3dvxXR/X8Z/x+vD0UoDQLCNUlSGOECOvs6XvrqoRMBxHmyDc7J0Srqv1v/twSorkaQYUxcG3G0WrMhsitxTP1dEGZ3jdsoK/eMOlENBklDsmRxJz1Ylx+Zbh3AGs21U2kd/Kcp5zCwXLGtjY/I+aqh4LGXUndn1Dk83HfYXGdMXnwYqf80vglgxKbzq76+cNn/lLZpFtNShYUi9hsZTE4eZ1muRer4yCE41GxciaE7Rxvv2k8q0iaNefKYYYj4KcW8Tme/z1iIBWn7UGtKXFnALvJ79cm2IgUvfYPDyAqgaC2VSgQk5LwJlBtmidYQHBO1oXAPnoWo+SU+3cojB9jSIsMPIlF5l4Leg8Y9LZh+iOBZ+hqFqCyA==;xPmM9D6EFstAib++FTOr4A=="
+secured: "FRV5ij/cRJYMmwiakEIpuvVBPOA7PaJXPQK6ECwGxF2VTvo5wVhXXcFbR7Q1sz+u4uexjNDkCvnGCanLkKBx35V0EY1yEHf47gz3TRnfAnbnHawxfoaNRSoGgROiQvgFMYs3bkm2faUT5qbZSGJ5J4PIJB3sYAtOhL/9PbKpe6cRZGWxummVqInfG45CWI81s92kb0gqtwKoKcGK3VSygwPNVJX/cbK3dFZD0ADvd29Noukg9oVOLiGRoSuBdFRTNAvfGFdQc+xgo4wJYiPnx+qnxuw1nUiDIfYLoT1c31AD7dwFgQP5Nkdp0IxM8y05mj06zwaQH9XQ95Vm9O8OHhX7mbinGe3f5jSdsbsus99k90esQjAn5JrizuIx41TdeOswTidrc7UO5NpzqdbiZqTbvUl0e4BJF05IHsRcAtmYwjNRz4K+XE2vQpwsbU+fKU5wTOequlu1DT0NfT6roeA8cRDA501a3qj2l68p+9w=;UdtY5W7K87K4Xq0R7xGAZg=="
 ---
 

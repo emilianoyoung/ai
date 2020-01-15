@@ -50,15 +50,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 7
-  - title: "UK Artificial Intelligence Market Industry Perspective, Comprehensive Analysis Up To 2019–2025"
-    excerpt: "UK Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. The digitalization of banking, insurance, healthcare, and business services in the country is the key driver for the growth of the AI in the country. The country ..."
-    publishedDateTime: 2020-01-14T10:32:00Z
-    sourceUrl: https://www.openpr.com/news/1895616/uk-artificial-intelligence-market-industry-perspective
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 7
 
 secured: "gRlNNUxQYfywzIM2IeVlh8CepEC7RV+VEKnWzMgzf2+ql6nyZ5xAKsbu+Q7g3ACZAd/UbTuZ4UHqDxKEFNt4p9VDbdUXQ6ggtIPMAcCdkmffyEdCfkSs1dITQUyhXJvMKEVaPSC34g2nTisj1A0K5H4XS3rCluEcIqOEZK6JUnWxVWizwd3H8OW9F4vn9iA1xGmAeih9DJsL0fXmuj8F5wmDfIB703JIzWe1+D70PyytfrdfMhk711GBTIjJf8lKei2sUp03tHVdau7zy49eYFjTu3fN2d55FyvCQDxNqAQ=;Q5oIRkTQ2616AiWrP3LZbw=="
 ---

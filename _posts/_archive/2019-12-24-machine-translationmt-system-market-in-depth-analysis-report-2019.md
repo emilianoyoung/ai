@@ -18,15 +18,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
-    publishedDateTime: 2019-12-17T19:35:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 11
   - title: "Machine Learning as a Service Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
     excerpt: "New York, December 30, 2019: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
     publishedDateTime: 2019-12-30T07:10:00Z
@@ -37,6 +28,6 @@ related:
       domain: marketwatch.com
     quality: 3
 
-secured: "+2JqzVxoYZtEk5JUQv/x8sogiruRo6cs2Tk9+e4sKXs1gF2FG4HUVRw67X6hhmGSdzpCOZTPK9fQLRPwb6Ecw3n/UINEETXOdvTQUf01d1oBmYyPTDwnypcOYkGhpwBettbBwLD2/fuv6w1WULk8Hu6tgc9q27EIPQAR6Hb+ejlYDTijf0P5iPQSDtxlPH1u1jgBMpDTj/CngqlOPkQXwTZoDNRY9hPLyZVOWAtxjNI6l2AEF/tTJS4j/ZHeqhErJyk6TYjsC//rgz4ZqeYt6nuZZgAEJuAS4wfomOFTYKk=;DxuOJHF2DfugOs+UquDmtw=="
+secured: "TFJj18LDt7tLPu/xrphUw7uGUHOgtuEc/Rw9to7jCZg8I2vDqB0iWUcK6459ZMdy4wrvEWN/4dvtZ9To+ZlxBjk8YXjaXejx67DcYrH3azNfpu1BbAmIKPnTwoip73pFZ33tbOHVuaaZ85sZM1hEgRr7GzaU7sRvShuXZ0n7Ib2x7YYM3zE39nP1j5A31kvG78Km7KR7Zq+xftFk7tN8cqs4U/mlC6m9pvc++fVz3FgLS7fjlzPvdopNrQncyO1pdQmhwFIjs2ejSYLr4fYCq+evn001lMm9U/VzPRLXyL4=;fsJMi8iCkrx4Rcb5C8LA7Q=="
 ---
 

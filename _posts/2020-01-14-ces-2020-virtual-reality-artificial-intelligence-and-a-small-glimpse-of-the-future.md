@@ -8,7 +8,7 @@ ampUrl: https://www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelli
 cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelligence-and-a-small-glimpse-of-the-future.amp
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -64,6 +64,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
+    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
+    publishedDateTime: 2020-01-14T11:28:00Z
+    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
+    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 7
 
 secured: "PtYYTXwDfOzI0JzJ7doeB/3OuEINbDA02Hx+Xzq+puZU6QbqGwA/b4PnjPe7SVa/u8QqvcomFDP3muJCvRLKYGeoKZCe/JXSQnZ9gvJUrCfUAwhPPpHPpI9TdNKdybV4HusyTexM4HE4Lg11QEIeeW+EWI15favxijAxhFnkaPUdm9OwcsLeHeXLCvLxh0Q1BkA3GJiFPfJnh0LOQBSwgC/RddXhBE5bBW3cBFwJkXoE892A23EA5IS3UCOfyzKyuEero8nyRmYTq3gk34B35aeMkynvxIOfIy4ngQbRMsJ9xgE2PrDfJ4Fo3UTqYKa5xgBlRe+yc/fbbpFbxrQG6IxEfBongSwNz6pNxs9aJCpKV+VKo3qQuTqd+JCfAZrvFFi4IfWI1s63nVQriI1jBdbCKJEBTErjRVSwDmDEF44I+7UCe+D0GokM58hoEtErMFoDBKF1BfbD+8aLmPi5ZA==;kC7Ohyxjy8YfhvaR+SLwMw=="
 ---

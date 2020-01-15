@@ -18,42 +18,36 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence Robots Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 08, 2020: Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,"
-    publishedDateTime: 2020-01-08T03:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-07
+  - title: "An emotionally intelligent AI could support astronauts on a trip to Mars"
+    excerpt: "An AI assistant that’s able to intuit human emotion and respond with empathy could be exactly what’s needed, particularly on future missions to Mars and beyond. The idea is that it could anticipate the needs of the crew and intervene if their mental health seems at risk. Thanks to Stanley Kubrick and HAL 9000, the idea of AI in space has ..."
+    publishedDateTime: 2020-01-14T17:26:00Z
+    sourceUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/
+    ampUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-14T05:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 156
+    images:
+      - url: https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688
+        width: 600
+        height: 337
+  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
+    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based technologies ... that’s going to affect certain aspects of people’s lives.\" In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the time when an ..."
+    publishedDateTime: 2020-01-09T22:34:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
+    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
-    excerpt: "Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024."
-    publishedDateTime: 2020-01-02T06:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-  - title: "Enterprise Artificial Intelligence (AI) Market: Global Opportunity Analysis & Industry Key Players Analysis by 2019-2026"
-    excerpt: "Research Report on “Enterprise Artificial Intelligence (AI) Market” Report has Market drivers and restraints, along with their current and expected impact, Regulatory situation and expected developments & Market driving organizations. Artificial Intelligence has been one of the fastest-growing technologies in recent years. AI is associated ..."
-    publishedDateTime: 2020-01-14T07:22:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/37491/enterprise-artificial-intelligence-ai-market/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 7
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&amp;resize=1200:*
+        width: 2500
+        height: 1250
 
 secured: "wBVBxoEiyxqNE1E0ZCilL4gTTfoKkfe8rOyorNNSPzVdbxd6CPIBprkyzGDVXEoYQNDWLQalgPwz3Sik2zGrk33aubLiqiHl3KeYdrcTO4smAuE8hpAvOi6KLV+LDDkIesucS+/YvkGHtKHr9ErXGYF1I4WmcID2ZEkSti6mrBdXhjTnAEextsIAJrRNa5+hXvYBAIuvbQWzRNPgHmIncuO5Wnx8qknZXaD4TN+LvBvuWxF9LdzxooDmbAtEBEeLqBAO/JlTFJlcto89lsj6MBj0Rus9IsWlWZmzDL5G5xg=;aWbOvsAy2hQYADAhBYm5Dw=="
 ---

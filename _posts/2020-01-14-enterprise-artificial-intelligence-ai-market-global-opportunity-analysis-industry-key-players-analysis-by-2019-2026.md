@@ -44,15 +44,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
-  - title: "UK Artificial Intelligence Market Industry Perspective, Comprehensive Analysis Up To 2019–2025"
-    excerpt: "UK Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. The digitalization of banking, insurance, healthcare, and business services in the country is the key driver for the growth of the AI in the country. The country ..."
-    publishedDateTime: 2020-01-14T10:32:00Z
-    sourceUrl: https://www.openpr.com/news/1895616/uk-artificial-intelligence-market-industry-perspective
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 7
 
 secured: "2tmYQD9B08X9YCpK7fkabRtnd64R36SYU4dNxcBP8G0f77kbDiGrO1wrxWIBmqtXEgtQNBSVrYKRSLSaPVoT6957Pw4JrXdzQX6HLbWuwiAAebn7dFlHshS0nKqAnFJPEgmjmKT6G2P6MGLXoRHWO1gDy5vTMfsNY1EVw1w7eeQxgp4xOsxx9kMBygbdSuIBalIC9tHhU8tRXb1Fda0KNhkAi97VwlhS7LuWJTYK+3ANSCDn5c8qGH/nNC/XTBfhAEUPVGpusxrXwMceREfECTAX40/wWxpcWGq3BO1rBig=;kzkj4Gq8jn8DUtY3Rl8FMA=="
 ---

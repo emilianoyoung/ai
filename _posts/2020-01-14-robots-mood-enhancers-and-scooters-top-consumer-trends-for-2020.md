@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Robots, Mood Enhancers and Scooters: Top Consumer Trends for 2020"
 
-secured: "3dv6CpvXrYH4cPFI+AKQTUheTWe03lbun/wEB7AN8pjGUO/mNgQipgJILyEGBUx5XK7o8+KnOQwXOZqDwJRyMAs8KQVpnzmXEKYc5ahyJIAKdKK8mpS5wG3JZmnp/ooZ+bsroMATIzRtnyzc9QvzdKGrCZNS/n55dNz8Mxhvahdpiy4WJT0ENjnEqlLQRulw6e368PtBva+hdegqK5nJBLO4t3xJI4C8amwSto7Dddrn6eIi28D1Wfry/TDBj0Sytf8vlIo/H/ueqvlcWeWk/dsgzBvrjMdZs1jDWR1hfN3NY2/fs/MvYkW7w6ZC5Dz1gb21ufh3rKx4HHvbXyK894bzd7wHnUK7YYch3JB9y3an5kQMp0ki6Hjj+9V6glvBs/0P155XR7G2UM/UX/5IcXIdJbEBf/3u32HOJa+xfMDF/5e+zHRu1toDECXzR+k1MZMZbdQGtrzTcHRB1svpBw==;UWLx/rQII4OOT+H9TtOyBw=="
+secured: "t+HYp36RZI7R45PjHcwWkt45jiCuVoNO+18/8DSLBKom0elAgbuer5PE1uCXiDbu8+CEXnnk/FSnEpZ6DA1rmBltzFTzhy7S9xgPrdvtGBLR0uc4bpNBX30NGlTc7La/Dcit/Tsm2FxwpEiF5SCRahNoA2WMNv363Tf4YnQrPkayJhhWHrgfCh1Rgo7pR/OvnvLcj/Md1wtEEruC7FTdUNri/KrhOD0Z5bLx4cZzA0DGeWzQhahlWGLnqtxoAYPTL01FMiWvdo7R8XqwCRXGItlnFvyWEi2a5kyfgL7oVX0kuRAbUgxCh5ZFlMqWhCGndM1bSyEI6smXotkuqpJaOAdTsqPklmiJM/opW41MJwch9CiwLaqEBRtgvXira6/Q8tK0fL9PF0wIUISrgzinxqkbR1dH9P1oL/IgKXiRd9y8a5vW/vRcnOVrO1e8S8zEMwKKH1t/j29zf/b8cJBIDg==;yDkGUhp+L8+f3wEtLrBM8Q=="
 ---
 
