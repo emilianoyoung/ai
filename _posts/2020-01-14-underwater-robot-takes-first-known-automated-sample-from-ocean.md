@@ -3,7 +3,7 @@ category: news
 title: "Underwater robot takes first known automated sample from ocean"
 excerpt: "Slightly smaller than a Smart Car, Nereid Under Ice was equipped with artificial intelligence -based automated planning software -- including a planner named Spock -- that enabled it to decide which sites to visit in the volcano and where to take samples autonomously. \"We can eventually see having a network of cognitive ocean robots where there ..."
 publishedDateTime: 2020-01-14T20:23:00Z
-sourceUrl: https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=299825
+sourceUrl: https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=299825&org=NSF&from=news
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 220
     title: "Underwater robot takes first known automated sample from ocean"
 
-secured: "m8yP4nKzd8jZRiBAJ48EzqbJEXcsfF+73iKASTFmFSuXkW+7885sQ64GCy1IB3SrGm5q6P07OxOAyRPrJhK/jGkxmFajqU2xZ+inqqmNgnlwLosNS8wlkr05iucBQeygYrWaZqpUhHTc0Cy2afJjnSMvT21fWjqLsAIguKpy/pnxYngOLiFFbFkZoTGjS+W7XWZf1bFbCriJ+ceaOhoGp9mKGIALHTWEu7dg12WnZ+cI7kSgEAKtKepIIF/5PTIevBGN1c5o+LvNBYTyKGQo7LvbRovgAaM0Hq59ehS4VIQfQ00wGo908pyogGUXFmQl+avBylCvxtCfINbXaw4GlLWntZd9nxQBH9YFQ3Wry8AuTXWbXESVxK1xmnGpTPqeiw+avqC5K02qH3hIw/KQf7QuqXiqKbMV2GLpK0k3bDs8yJf1NSUulYWrjyMETFoBmmYHN1wf087iS435jwGJhg==;ttLyYObhFXbZhP+jSa3drw=="
+secured: "Phtsk5JXuMt+HXRLsfQpLJ7JHxcNS7r6YsktlcIzNYIkF5d77v7X0YOlA3EcQ0e6SEA0mLkde7N+0Nd8EYHZzraTkL9lqAmMkMsKNx8P1Lhr5s+Il+LUkaQQHS4VDyvxr91GJnAyT3cFjTTG+v7NkAlkZI2PGKIJ/sS+koneAygvUac6IdB4kvQ0+HRm3j2vb+FB4A4Nzmu1W0ThZu5COWE4Lvi7IuwKk/1z8eGQSTMcSaTqqDpyJnNd41ZukZLEkPRv4AcDtFDQ7izAxl9tFWvSjrbDkaku7FIbAaX7TmQ=;bz+zQVHshRiDaJ8sztBL8Q=="
 ---
 

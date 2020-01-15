@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial
 ampUrl: https://venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype/amp/
 type: article
-quality: 104
-heat: 124
+quality: 106
+heat: 126
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2020/01/IMG_9100-e1579014434237.jpeg?fit=2000%2C1000&strip=all

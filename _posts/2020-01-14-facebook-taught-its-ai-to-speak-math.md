@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Facebook taught its AI to speak math"
 
 related:
+  - title: "Facebook taught its AI to speak math"
+    excerpt: "Facebook managed this by not treating the equation like a math problem but rather like a language problem. Specifically the research team approached the issue using neural machine translation (NMT). In short, they taught an AI to speak math. The result was a system capable of solving equations in a fraction of the time that algebra-based ..."
+    publishedDateTime: 2020-01-15T00:03:00Z
+    sourceUrl: https://www.yahoo.com/now/2020-01-14-facebook-taught-its-ai-to-speak-math.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/nQSnr4B4qjaVHCkzXkRHkA--~B/aD0xMDY3O3c9MTYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://o.aolcdn.com/images/dims?crop=7952%2C5304%2C0%2C0&quality=85&format=jpg&resize=1600%2C1067&image_uri=https://s.yimg.com/os/creatr-images/2019-10/a6df90d0-fc30-11e9-bf3d-41e8fa5d6f01&client=a1acac3e1b3290917d92&signature=f51c7486a6dd8080945bf5ef5ac7482111cf2c46
+        width: 1600
+        height: 1067
   - title: "Facebook to Kick Out Some Deepfakes"
     excerpt: "However, Twitter has proposed plans to label content that is fake, misleading, or artificially manipulated or created using artificial intelligence ... principal analyst at Constellation Research. \"The selective approach keeps it confusing,\" he told the E-Commerce Times. Facebook has the technology to make its strategy work, Wang said."
     publishedDateTime: 2020-01-08T11:00:00Z

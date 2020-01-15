@@ -46,6 +46,19 @@ related:
       - url: https://nationalinterest.org/sites/default/files/main_images/A877%20%281%29.jpg
         width: 1555
         height: 1187
+  - title: "What If Future Naval Wars Are Fought by Drones and Robots?"
+    excerpt: "“The immediate danger from militarized artificial intelligence isn't hordes of killer robots, nor the exponential pace of a new arms race,” Evan Karlik, a U.S. Navy lieutenant commander, wrote for Nikkei Asian Review. “As recent events in the Strait of Hormuz indicate, the bigger risk is the fact that autonomous military craft make for ..."
+    publishedDateTime: 2020-01-15T00:07:00Z
+    sourceUrl: https://news.yahoo.com/future-naval-wars-fought-drones-094000139.html
+    type: article
+    provider:
+      name: Yahoo! News
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/Ygbzk_4qETQ1FppgWP_WDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NzcuMDY2NjY2NjY2NjY2Nw--/https://s.yimg.com/uu/api/res/1.2/Q5N5zV0EEFPJbCgFAdOh8w--~B/aD0xMDk5O3c9MTQ0MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_national_interest_705/fc7a4d9d5e8ccd1d63f97918a924002d
+        width: 1280
+        height: 976
 
 secured: "3qN1CX+vcBblmJ09/1ihXRIjZ+k7QggqY80LXUZyUiU4wGMd+JFP/h3awDk0OhWIO5md8prc0amQuaDGCTAhl3VY1r2ulXz7QT8uiWZ4VzbWNo5slCDgRFZ1BnKm5Lv2RZj7NNd67n0IJllVYBWlgygN9b/rks+79rwhJvBYuOdtLtVX6KGcHWUVx7Wws4aCaMZWf1/P5uh00Sj64tRPhAWmMr2n7Aj4eTGXEqo0kPV7MnYhDPZ8K/Yirnv+86BvXfMA/rmYoE++z4nPDx4FpEUzXBdeK6WGoHIsH6+S4Qo=;EfzrGKAYgHKimDllsKSaDg=="
 ---

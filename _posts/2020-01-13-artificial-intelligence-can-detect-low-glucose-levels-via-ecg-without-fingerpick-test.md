@@ -70,6 +70,15 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 31
+  - title: "AI can spot low-glucose levels without fingerprick test"
+    excerpt: "London, Jan 14 : Researchers have developed a new Artificial Intelligence (AI)-based technique that can detect low-sugar levels ... Basing on this information, clinicians can adapt the therapy to each individual,\" the authors wrote."
+    publishedDateTime: 2020-01-15T00:24:00Z
+    sourceUrl: https://www.newkerala.com/news/2020/6932.htm
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 19
 
 secured: "nTzs2/lgxMU08D9iL9b4YkY8sJIGQEgE0gfo6v7cup1mMuAwktVuMmSrQLwR7nUgI5MLWwOSP/wfQgVNIxrzLJz5TBQdd7p3PjK88WpG8OYVVo2QVhPoAf9c29RKqJGIvIqxJUCH0etx6vc62T0EyFi8j/CwMeycDwEJCI3xJcMfsxxuIw5YR6Rd3cbJJCbSnYlvoHSYBBoGF/XAS2izdgOgF6uHtQoWYfyg5RP56fdMWUErG19P927sd22MbucbwOxymr38CtCGLxA7fKAYUNHT7FnJFUAYG2ZKV+gChxE=;I5QnZs6AyeKwOjIfkCSBBQ=="
 ---

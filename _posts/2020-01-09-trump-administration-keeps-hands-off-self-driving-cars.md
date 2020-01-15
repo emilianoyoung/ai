@@ -78,6 +78,19 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F09%252F2b%252Fc8abd82b6f39439e8d61c3d76f2b757c.5ab1b.jpg%252F1200x630.jpg?signature=66Qx60AQT4rGarwdHtg3rkaQk9o=
         width: 1200
         height: 630
+  - title: "Are self-driving cars safe? Expert on how we will drive in the future"
+    excerpt: "Cars are changing – fast. But are innovations such as autonomous and flying cars a bright new dawn, or just a wild pipe dream? And if they become the future’s way of getting from A to B, can we trust them to take us there safely? Here are five key questions answered by an expert. At present, the general public doesn’t trust the concept of ..."
+    publishedDateTime: 2020-01-15T00:06:00Z
+    sourceUrl: https://uk.news.yahoo.com/self-driving-cars-safe-expert-123820942.html
+    type: article
+    provider:
+      name: Yahoo! News
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/vB2d8Lo3x6K97szQS9loZQ--~B/aD0yNzk7dz00OTY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_conversation_464/02d4b0a18e633a0891f643b84d518402
+        width: 496
+        height: 279
 
 secured: "wM5oQeQ4Ztp1cLDmmEQk+j/+mqfvc/RK0mL3tB04RqLIxVC+lUI51xjPB0wDex30eKLAMLxMEy/d1sr8P8evabYmIXkze/7Uy+Aq+eEDsRbzJnMzEQo5qDdS7PdaoJumbHN6TOR99tynxoO4ZTxmtilbwwaJp+w4khsqAq971ntAswPwVy/VGyy9V3XV+PkJA077FfUKMc+O79Qdgc0g0H2/4GKXj7xM8GiF0QxeA86jXBDYd+GjPGr2U9ti31XLd0kx/j7Prd87v6vjxxEl5HM4+yGQt8AxvTU46XZEgpI=;l7UNX4MkpjWZpJen80km/Q=="
 ---

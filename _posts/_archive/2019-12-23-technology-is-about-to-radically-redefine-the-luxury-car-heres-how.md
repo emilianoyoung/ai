@@ -32,6 +32,6 @@ related:
       domain: ft.com
     quality: 24
 
-secured: "/dRbPqHEHshyxNKQugMoJ2DMAG66N3uoPIARWz4Ic2uFVaSuMF3vheNb39VhqFInJIoNnO8LkATJeEQQTcgY2MbzY8IePGd3+j4szGEwgt048tYL6gzzHJPnfVNXFgmSki6siDwPtc5CSMGOPSAKiY5/DbLKiz0CiLOMbuTLliP/iAVlygvpa8BBTj2bqeBE6uegfdsV5BPWS/pes+YikjHzUwy0Ltd2kY46iT8JDnGY7bO+RyyAiZ+l4TyIC9bEkUe3PxEGxFLmrqcR9Eww/9l2kOER7FC5JyxjCrPeQ6s=;3uAg82LrXbekUZG8lUzV6A=="
+secured: "z+Y0wtrj3eKZ4uou+nPZEdOGcQAknxgr7rGkFIsGoXNzE7/4XAuwYZz6Wy38J+0qT74io2P8TW1gH0Hooir0NKi3L0ujApsy5lb6ikb1YMZj+8uRaIOmQdQb31e+6GJEIXwWkYE8UvjMX9XxpTy+I9Q0Wth5lchCLEpRbX+O4TFJVFN1M/APVS1h9gFZX8qSzsEYflBrMmY+/DpR00+sRysM4pX2awzM57logamTgIcyh0Hu6XvBVrKMFI2QyIukFqnmQMLTGxne6Yx4T3dPqwflu5GMt5Om7MwP8N+WHxg=;AGfC2P3vuZW7qM+G/uoc7A=="
 ---
 

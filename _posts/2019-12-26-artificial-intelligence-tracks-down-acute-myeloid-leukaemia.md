@@ -40,15 +40,6 @@ related:
       name: Deccan Chronicle
       domain: deccanchronicle.com
     quality: 39
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
-    publishedDateTime: 2019-12-20T16:27:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "jqWkXbFCaAEpTPnrhn5eJOy3YDrDgUmSBCEW/rz2P49t09JzL1hQvLTUYQlXKiS47E2RnfcigCJh79WAQCSG6pIAPDU6pvvrBQ23HQNc1yHEkd9rUY8UZd+X/wHTzEphRU4ByikzagCF+6K3wmNuzLmnWW/L4kKGotqi7qGOoVFR1nwmZY6CzHVzxb8NV5X5J6CWA9UOImN/0c3VbV1XWsJa4NoVtHJcRYO4/nAx0fYG5Q1/yfOehX6h6T/LesZbLlLiOkC8RwXEhLJTzxJZPh8B/WqerrR4ba/6LnnZgJ4=;UoKs8AHCK35UFjx+CYs1ig=="
 ---

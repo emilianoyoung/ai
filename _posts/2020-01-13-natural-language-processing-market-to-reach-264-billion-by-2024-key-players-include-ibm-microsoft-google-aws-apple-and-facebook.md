@@ -31,6 +31,19 @@ related:
       - url: https://mma.prnewswire.com/media/1076432/Sales_Force_Mobile.jpg?p=publish&p=facebook
         width: 800
         height: 553
+  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
+    excerpt: "/PRNewswire/ -- The global sound recognition market size is expected to reach USD 4.42 billion by 2025, exhibiting a CAGR of 75.8% over the forecast"
+    publishedDateTime: 2020-01-09T09:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/sound-recognition-market-worth-4-42-billion-by-2025--cagr-75-8-grand-view-research-inc-300984116.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
+        width: 1400
+        height: 733
   - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
     excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
     publishedDateTime: 2020-01-14T22:24:00Z
