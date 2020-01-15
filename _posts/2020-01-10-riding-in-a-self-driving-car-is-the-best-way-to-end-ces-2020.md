@@ -45,6 +45,19 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&amp;strip=all&amp;w=1000
         width: 2564
         height: 1236
+  - title: "Elon Musk says Tesla’s early access group will get Full Self Driving ‘soon’"
+    excerpt: "Full Self Driving is an upcoming Tesla feature that currently exists in an unfinished form. According to Musk, the feature will eventually make it possible for a Tesla vehicle to drive itself from an owner’s driveway in the suburbs, onto the highway at high speeds, into the city where there’s traffic, weather, pedestrians, and who-knows ..."
+    publishedDateTime: 2020-01-14T23:27:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/14/elon-musk-says-teslas-early-access-group-will-get-full-self-driving-soon/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 82
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg
+        width: 796
+        height: 419
   - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
     excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
     publishedDateTime: 2020-01-13T00:26:00Z

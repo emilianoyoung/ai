@@ -32,6 +32,6 @@ related:
       domain: robbreport.com
     quality: 24
 
-secured: "q2ubdyAAll86get+vIZvIkE2kgWz8G9qsIYT6eJ1kE70wgyWXy26cSUKsWwdTMfqZ1ZP5GyWkSNMVCdndcVDe6LXCt5/qSarzZI/meKAjsUrtuqZ7EUEQBloRhKrh36k93XzstvwEFXYVjYgEqn3f3NU9BOQKYl5oyC9i+AEZutog2P8ffSic1LKdOD1U8avd0P4wVA7MkDXfHB+M++oqy8rSd7lmcWBU6kajm0oDE12iRjNGauvV+6foRwZfZ58Rp0ktPXIs1ZW1vfO+XRF1v/iC90SwMxiMmiY8F+JB08=;IlxS1Crf4/sXhAwBiMw0bA=="
+secured: "6Qfy2Y/SbdrwE+HiBpNv9Gqx10pNrdSJVRfwe3Nr3k7RtyM1mHZ8UeSsCLXBN6xZMnKs9EEgFpExO9j35zkZ4zdQZQJFoLujbcnTFenuWKnsgFYPC7GpcQLacMiOFhIZ3RRXv2YLGdMoajPXDE9bL906DA3rXF/tA2grGTkv+2Eqo6y/gfr6W/eyi/FokUXZLvH7XqV2L4FjHq5Vf41GymVDgqLktZIOCuVNCrJY97yklSHX3RObtOFjNyVqPFFVGIAbp2zGNzn1VBPwCRBbSeYmOuPH0nwdSJvjQ2BdsR4=;C63Ya5WrRc+a6ea9UWtgmQ=="
 ---
 

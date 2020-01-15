@@ -34,11 +34,11 @@ related:
         width: 800
         height: 600
   - title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
-    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
-    publishedDateTime: 2020-01-14T12:47:00Z
-    sourceUrl: https://www.vice.com/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    ampUrl: https://www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a ..."
+    publishedDateTime: 2020-01-14T11:00:00Z
+    sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    ampUrl: https://www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
     type: article
     provider:
       name: VICE
@@ -136,6 +136,32 @@ related:
       - url: https://media.nbcsandiego.com/2019/09/ES_RAW-SDPD-HOUSING-PARTNERSHIP116-2.jpg?resize=1200%2C675
         width: 1200
         height: 675
+  - title: "College students demand schools ban facial recognition"
+    excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
+    publishedDateTime: 2020-01-14T22:07:00Z
+    sourceUrl: https://mashable.com/article/college-students-facial-recognition-ban/
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
+        width: 1200
+        height: 630
+  - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
+    excerpt: "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ..."
+    publishedDateTime: 2020-01-14T21:24:00Z
+    sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg
+        width: 760
+        height: 380
   - title: "Digital rights group, students team up against facial recognition tech on college campuses"
     excerpt: "Digital rights organization Fight for the Future and college group Students for Sensible Drug Policy on Tuesday co-launched a campaign urging higher education institutions to ban the use of facial recognition technology on campuses."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -378,6 +404,15 @@ related:
       - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
         width: 2000
         height: 1400
+  - title: "Choose a speech recognition mode"
+    excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
+    publishedDateTime: 2020-01-14T23:12:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
   - title: "Early Recognition of Burn- and Trauma-Related Acute Kidney Injury: A Pilot Comparison of Machine Learning Techniques"
     excerpt: "Severely burned and non-burned trauma patients are at risk for acute kidney injury (AKI). The study objective was to assess the theoretical performance of artificial intelligence (AI)/machine learning (ML) algorithms to augment AKI recognition using the novel biomarker, neutrophil gelatinase associated lipocalin (NGAL), combined with ..."
     publishedDateTime: 2020-01-14T10:12:00Z

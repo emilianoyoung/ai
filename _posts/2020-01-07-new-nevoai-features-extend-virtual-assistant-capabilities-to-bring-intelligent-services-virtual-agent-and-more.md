@@ -63,19 +63,6 @@ related:
       name: Kim Komando
       domain: komando.com
     quality: 39
-  - title: "There's nothing artificial about impact of AI tools, technologies"
-    excerpt: "The fact that artificial intelligence features in smart home devices — from digital assistants ... The discussion highlighted various applications of AI in the automotive, technology, video and entertainment, and health care industries, while also providing insight into the considerations companies should consider when evaluating the ..."
-    publishedDateTime: 2020-01-14T09:55:00Z
-    sourceUrl: https://www.crainsdetroit.com/other-voices/theres-nothing-artificial-about-impact-ai-tools-technologies
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 39
-    images:
-      - url: https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Jeff%20Marston_i.jpg
-        width: 800
-        height: 600
 
 secured: "eoD5lDcRv7HR8eqadGxw3ZD66cVcpfQ58qmWNtp1q4uN9oT1A94WKbDRN43Q82QMadKlURYIJtw66MhQF61wX3x19gRoC+gtsL4o/slf0ww2x3La6oD47b+k4yjiSeCJD9BDQm4cBlPXbNPWmVJnt62qOyVi3QPsmPV7YVrBchuxfm5O6ETZni/fEaXR79LZOu+6usR/RfdEyR3XvisxFgQOy2XR2LEE3PqBsmX3MjssmQd27hGqN3NEDlXkjn8GdwVY7utSpnU5UtldW7cHGn6MG1yq+Yoecw0SFB4ftHk=;e99HojLxqUbP6ztTNatY0w=="
 ---

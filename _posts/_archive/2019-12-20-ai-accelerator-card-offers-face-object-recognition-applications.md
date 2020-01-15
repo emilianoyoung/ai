@@ -30,6 +30,6 @@ related:
       domain: theroot.com
     quality: 11
 
-secured: "5H8hYgYkDflNgpHoBpCkbvn9VdNdelulJuBhta2/Wz3jiycfcPgqoT3Vn3FSXWrDMbIcIPeHS+SEL2zILFWv8PNoMiU46A6lRIhDjM3lUfwd62aMZXRGiFUXMs8DCBmSbnohrmcppjIG8JI6dEpgOVrLzgdTvvYLLBKOccy2fZDxumMvWuxBu1k7cUUN5ltaFjt84STJOByktk6hJXBQ+z+DwzAQtH4kad09aynRGxMmmAsIjZWLQElHuhH+3KN7lwBMvoXlA3EQHgLdN8nlZAauG+yz5HtynQXCnTjrEdE=;W/cQrUd41Nsi5IetbVp/KQ=="
+secured: "xVC9tOT9/oB3d3bX6wLchNveomyqgyzabAXZlBeKI+ypAIQH/+FSWZ6si0AH/nWbKQNGjIoUTd51ptHuJRyj3CZVr/2ZXBYT9ylTHNLwvcNq9Cz8dg2RdJZBmkhqcrbdzlZeZs85iDdzM+5TP2y6h4E8CF8WO0EXnAKP+mU9Bo8k9qbhJ35+vx2+i1svWwMxran9TSAxf8IxHKqYTndnXTnZMEYwzCsdjm+yxG9ioE6K2fPYN/2m/EmQPT2bOL/R6rrLrG1or9JlnK1khvWvweSn3A+1bDFfWWcmPG+2zcY=;hpD3dk7Jkuzm/CZ/tENe+A=="
 ---
 

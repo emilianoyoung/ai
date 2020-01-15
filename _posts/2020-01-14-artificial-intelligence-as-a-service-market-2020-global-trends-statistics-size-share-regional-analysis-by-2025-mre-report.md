@@ -32,6 +32,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
+    excerpt: "Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024."
+    publishedDateTime: 2020-01-02T06:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
   - title: "Enterprise Artificial Intelligence (AI) Market: Global Opportunity Analysis & Industry Key Players Analysis by 2019-2026"
     excerpt: "Research Report on “Enterprise Artificial Intelligence (AI) Market” Report has Market drivers and restraints, along with their current and expected impact, Regulatory situation and expected developments & Market driving organizations. Artificial Intelligence has been one of the fastest-growing technologies in recent years. AI is associated ..."
     publishedDateTime: 2020-01-14T07:22:00Z

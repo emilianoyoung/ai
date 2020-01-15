@@ -8,7 +8,7 @@ ampUrl: https://www.usnews.com/news/healthcare-of-tomorrow/articles/2020-01-13/c
 cdnAmpUrl: https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/healthcare-of-tomorrow/articles/2020-01-13/commentary-the-ai-revolution-is-coming-in-emergency-care?context=amp
 type: article
 quality: 67
-heat: 67
+heat: 87
 published: true
 
 provider:
@@ -21,6 +21,32 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "NRF 2020: How AI Is Revolutionizing Retail"
+    excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
+    publishedDateTime: 2020-01-14T23:06:00Z
+    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail
+    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
+    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
+    images:
+      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
+        width: 300
+        height: 250
+  - title: "Intel To Lead The AI Revolution Over The Next Decade"
+    excerpt: "The Habana Gaudi also has much higher scaling efficiency than Nvidia via its Ethernet-based interconnect. Intel is also developing its own AI-infused GPUs: Ponte Vecchio GPU will feature a matrix engine that is akin to Nvidia's tensor cores. It will be Intel's 7nm lead product in the fourth quarter of 2021, which means that it should enjoy a ..."
+    publishedDateTime: 2020-01-14T22:03:00Z
+    sourceUrl: https://seekingalpha.com/article/4316857-intel-to-lead-ai-revolution-over-next-decade
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "VwjrKUF3MeNnM4PK2dnye4HP+mD+mmAOm7BgVrBtldYxW1WeaV2xjh4R24zzVvTH5Skc1I2tlkICeZYxippsCieYhzF+ADeUVy5ROk1bUlKmRweI1w2XEKVgY0KwR/4QR/xdKTdMjD/8cXQ20OSfjdk/FRo9Dw1TaakstfNXYODqn15cVbyRPlrE1TF/npJGgbFmTh9lOKN5ZMf8xMmbHh5hkE9UQyhp02AUD8Zh2l07PmZnz6PPl/Ct94IHp8FlHAcHoJQR7/ClhJDqb5Ce7sJf1Pre0stJBd5mw0Mv2LRRZcsEqUlmJizUYSbwjBytIDTIh+PxHVeAheQwXMPWJegAUt0LhOOc58/5J8e6WCWWU+KDlkxYUkNS0G/Dy/QC8eD7TKpmdOdxsP067ljAvopSTHD9km9uP8BO6W2vrw9LrNA3lCEOiYyVpS5zV/c5W926rq1zMuwEPXVRciXo0g==;XjtGqIisTNshfwLJTIW3Rg=="
 ---

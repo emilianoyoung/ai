@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-10T20:05:00Z
 sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,24 +24,39 @@ images:
     title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
 
 related:
-  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
-    publishedDateTime: 2020-01-07T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-14
+  - title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
+    excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial neural network was completely neglected in the early stage of artificial intelligence development, then gradually recognized and became a large-scale ..."
+    publishedDateTime: 2020-01-09T19:45:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+    ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-  - title: "Digital Diabetes Global Market - Forecast to 2026"
-    excerpt: "Digital diabetes includes products utilizing advanced technologies for monitoring, managing and tools that help in deciding optimum therapy options in the patients suffering from ... technology advancements such as incorporating artificial intelligence to manage the diabetes are driving the market. However, privacy and data safety issues ..."
-    publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/digital-diabetes-global-market---forecast-to/article_7a409362-c424-56c7-a666-4638e22b2ef2.html
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
+    excerpt: "/PRNewswire/ -- The global sound recognition market size is expected to reach USD 4.42 billion by 2025, exhibiting a CAGR of 75.8% over the forecast"
+    publishedDateTime: 2020-01-09T09:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/sound-recognition-market-worth-4-42-billion-by-2025--cagr-75-8-grand-view-research-inc-300984116.html
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
+        width: 1400
+        height: 733
+  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
+    excerpt: "NEW YORK, Jan. 08, 2020 -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted."
+    publishedDateTime: 2020-01-08T23:54:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-180846870.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "TSyf8PU5mxHJ7GTjwWVBLPkfx4cr+W7g8hU1bo/BzTZinJv+7t2d0mzfLlVVineb7TlFYEb2dTTqxqm7j7zi4/RiSaltORFqdV23XQNgQWSmRyQFU2Y7uj26/VHxwWiZpf4JEEHuaYBuT3fHXPUl5vxllZcDhcypSpP7WfiQ2zvbnbrlaqvIafMqWdCYFTg8p+CwnUAf5TO3w8HYFsb6BtxgIkIfOl9SQbFEoQNZKWkQVjWwLkh481cfpjt2tQfl1jbPrF/b6mFBcT+X9SfSbuXBeQhDwInRnNunydUpGqIs5TvgG4otTBHBqf+mHC8kOzAlpJGZYj0OyOrJEH2nUL/IPjmIhAX0xEptLkd7Zbkjkut5cFOxl7Hnn+1aXgvY4QiaUmaDlDr4O5sFg8yGCRk5qHYLv4zVDxN/i8V2+tNs3u73gjgFN4+BNBVkqu3aVnGWYi00WVMNlx3UdxNMww==;fAPNQ7O1Gcnwp/yhAdMuVA=="
 ---

@@ -30,6 +30,6 @@ related:
       domain: businesscomputingworld.co.uk
     quality: 34
 
-secured: "ajnYguuz4Xuewqtx3e5VZcChbTPjBhZl0ic7ia2GvcsDjxWCt1iRHpSI4nx5lbWIycyYeeap9Ln9Dhg6SpRmvfzMz8C73vrsTG6n7ULAmkCnBvTJHDbeMC+UqkNeLS30j/Gbpj928wVKX4pS40uEfpJ8YvcO2fniAuCB6jLwDAx61sQn/JpOu7OX/uI2t6Rk6IOcFvvePXqUR2a3QZ8WtDhYS9nDtnrC++IY2Nf6EnbTRRAD62/LwnQouLPrT3jaLFdL97v2EfeFGKLsmEO1XTKkJC7C1nFQuWdXd183DY8=;iMCBLKiUWBj2+ghmfWZH6w=="
+secured: "aLiOIPk8ierGdzCXeJLy8TcIeWC0GSkX5MaItQaVHD3u7bzx8L8KovTQgl/iHfayqeNNKZ63cRODyIP8Q6tSAfm8HTWlKb1uP78tqAQJ2LGulm8ir3kvTXJ2/vXiDke+rGXNyVF1mLxgYbrWc2TWfBHkgJFr5zb+enGtSedLn7+8rLxLHMkr0h7LdwQlJy0fa0puCiY1drpSCI/yLIB6Mvjzw6+E2mj2uNYncHlpUHOn6DhB/uTc69WJcqvhG6nM/6tUvBHEcnYxXf0+RjQ2dJC45ib0X8b0cBbL42PRUFo=;bWsUu0/UTO99r/Szp2un7g=="
 ---
 

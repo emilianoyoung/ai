@@ -40,6 +40,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale
         width: 711
         height: 494
+  - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
+    excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s, and it doesn't look like the excitement is going to wear off as a new decade dawns. The past decade will be remembered as the time when machines that can truly be thought of as “intelligent” – as in capable of thinking, and learning, like we do ..."
+    publishedDateTime: 2020-01-14T23:15:00Z
+    sourceUrl: https://www.linkedin.com/pulse/top-10-artificial-intelligence-trends-everyone-should-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
+    images:
+      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFXksQAM4u1_w/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=Ra4q0V6V0nExM8vWqzHT4Se_pQWfOByCgh-V1bqAUqk
+        width: 1384
+        height: 600
   - title: "What Are The Top 5 Fintech Trends Everyone Should Be Watching In 2020?"
     excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
     publishedDateTime: 2020-01-12T23:03:00Z

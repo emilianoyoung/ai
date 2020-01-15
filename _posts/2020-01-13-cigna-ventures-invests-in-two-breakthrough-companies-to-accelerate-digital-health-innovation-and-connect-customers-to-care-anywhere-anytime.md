@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/cigna-ventures-invests-in-t
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-1028812735
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -24,20 +24,16 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Innovations In: AI and digital health"
-    excerpt: "Over the next decade artificial intelligence is likely to transform the biomedical world. Deep-learning algorithms could aid in developing new drugs, interpreting medical images, cleaning up electronic patient charts, and more. This special report explores the promise of this nascent revolution"
-    publishedDateTime: 2020-01-14T14:13:00Z
-    sourceUrl: https://www.scientificamerican.com/custom-media/innovations-in-ai-and-digital-health/
+  - title: "Agilence Introduces Artificial Intelligence (AI) and All New Mobile Capabilities in Latest Software Release"
+    excerpt: "Agilence, Inc., the leading provider of predictive data analytics & reporting solutions to the retail, restaurant, and convenience industries, today announced it's 2.8 release of the Agilence Data Analytics Platform."
+    publishedDateTime: 2020-01-13T11:00:00Z
+    sourceUrl: https://www.omaha.com/news/national/agilence-introduces-artificial-intelligence-ai-and-all-new-mobile-capabilities/article_94960e21-a7fb-5d36-9b19-f4eb8536170d.html
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: https://static.scientificamerican.com/sciam/cache/file/70F2EB1F-4F5B-4BB2-999FAB56031F105D.jpg
-        width: 790
-        height: 496
+      name: Omaha.com
+      domain: omaha.com
+    quality: 14
 
-secured: "Wnyb7irGXaJwFprcjoBNeV7IDk0zfzrHIA9WFj1NchYIsnco1h85LD2M+PlrqSA2nNvDcfi8wp8OmwM3L3lWiVFOq3sLkgYWQ8iRvEkjySAuUJT2FcXl1yOIINttCnJIQSm5z3vFmBKGgpeFmVaJbSYPphMczJd6nFHE/FN7bPdb0isXUwf9Qak0iDNfSxNEMP+L1ABVnAIaLxNJ/WmZwYNy3KU4dZYNfOolRqEvBZEDp+ke/CvSAu5NquV66Xxv+soId50C0IQh2FSN56EVfTnljn0ZckfHMuBc+tRBh50=;pI26C++7PMf/bGSbzy1jYQ=="
+secured: "DAMK247KE1LSyQBRI4E7hSnYQ16uN9TK8XVuTkkMXRmPiaIbRz00mBeJQTKr9Xv7ZfCjvQhzN8sN3xJZOqrvh72eFrEKlQw4800TNkK/r/gsUni9A54bgTqyuYGygVgZFIVd1tdghcbB9+cLHzMFEplq4KltcDdowIGTDkRol9k/G2/Ile/R5EdphelAACZ5Z6OeP2ipQ0QHV6nQG3RHjIUpvOI33obfqpatxEu6axKP7lvsls5lP710wWms/CkO+SPtyOPEpBY7rYuzO6N4Jeoo01pMDMFE+y5z4YbKrTo=;kWr0bYesSBmq7vJOpdpfEQ=="
 ---
 

@@ -35,6 +35,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
+  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
+    excerpt: "Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024."
+    publishedDateTime: 2020-01-02T06:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
   - title: "UK Artificial Intelligence Market Industry Perspective, Comprehensive Analysis Up To 2019–2025"
     excerpt: "UK Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. The digitalization of banking, insurance, healthcare, and business services in the country is the key driver for the growth of the AI in the country. The country ..."
     publishedDateTime: 2020-01-14T10:32:00Z

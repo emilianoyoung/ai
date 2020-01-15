@@ -8,7 +8,7 @@ ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
 cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
 type: article
 quality: 53
-heat: 63
+heat: 64
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
       domain: globalnews.ca
     quality: 39
 
-secured: "EPJuzuzwKOpKeUC6v5OF9QOS8D83EMplPcJpdeicjuKalbdtESjYvifTCNhLLg6vgC7WmdGGKuNkCzHv9rvve8Ig+7nft7iLrqSsrDwXdpz53UCIT7DawYKBs/HHtqkqXydfLHHO8AmwEl5Pc7yhgdeVWDImg4ovUET+vrKw/1HtCZecmwutM0U5YwZ22VpqRJVpJEpt/s4cF0i3fo9ymxjgk1kOTBEZ0L1p62p53rmcm4wqj5zXSWM0wxhSR5TFIgbBUiK66SQ+Ddn/ofMp5OfIA3sc4ItglwtKR/hx7T8=;07oNxKYMvcEvVTiWLsFJCg=="
+secured: "sum1ii0Q969g142dbjoc9zhH/zKrgUtLDAasKQu29PY8GMvWcPumX438bBvp2Z2i1O6Gi2KiPaboqsFjGQV+stBTRP0Aikwa0vOUmGID+4iQMaYNWzRMZ8V6OxlFE1AOr0a9LO2jQyxG1Ol0L1eEBNvB/aZLG3zfe2ktTmtZqnc1kC8Q9qNTfegIAdRCm0YMaYqDCI2Rb0CvClOQeVfi2LBEepcK4CdWmZztsw7iryu5l0nVZv4SLECRpKUklcZz35Rd/YAUapdQi9GjDjUQ6pBv6PVmwwVCT71JtKNEFkuSHLSpjnjOKoRazIeSl3NkUVlP1kTAGWSOvrD67kl2HeCvnyMg3D8KDzrhXw3h0lBMWX+aTOAgdn9h2IXqDmF6dmx4YpTkC6sYIPrCmvVx1A1gNarEWBWFZ6+c5dCiCJp3k/E/bQokQwx6/g81Piozc9YV2OoaFqFOe3vAJi++4Q==;RyfKNT3zKGkRDT6EroaAVw=="
 ---
 

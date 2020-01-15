@@ -44,15 +44,6 @@ related:
       - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png
         width: 620
         height: 500
-  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
-    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
-    publishedDateTime: 2020-01-08T11:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
 
 secured: "Z7NdrHD1slhbvAedHnjKRp7P5BA/Y2bbIaeReSzS+kiIkmkITFM388yAbb+1dPiiJQopwBIlf/8XjKsZZbM+tsT2/31I0FMyNRos8SeL8XMK4bWQSFPTFEXxo2IoY3vnoXWNQOyz4YzPk/AU+D1pA1Z1U3+SJqpbekgTD48hQUmqQsUi2ithYdaVpz7ae2wvuPGG5DydESPN5SKZTtK//ZEGNkB4pXzl+8mk6UIAi4t3tIvIM/qAtlYyF/CoDxdRpVt9GxVPIQtzHEEAAh8xnqUZH9Bhg/ZOWI7vR44vl4I=;eVvMFyfixo8m980ybEsR4w=="
 ---

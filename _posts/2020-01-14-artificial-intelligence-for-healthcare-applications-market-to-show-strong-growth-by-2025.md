@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-14T15:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-to-show-strong-growth-by-2025-2020-01-14
 type: article
 quality: 55
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -22,69 +22,34 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "US Artificial Intelligence Market Growth Analysis, Business Opportunities and Future Scope Till 2025"
-    excerpt: "The US Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. The factors that are contributing significantly to the market growth include investments in R&D,"
-    publishedDateTime: 2020-01-14T10:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/us-artificial-intelligence-market-growth-analysis-business-opportunities-and-future-scope-till-2025-2020-01-14
+  - title: "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025"
+    excerpt: "“Grand View Research, Inc. – Market Research And Consulting.” Artificial Intelligence in Healthcare Market Size, Share, & Trends Analysis By Component"
+    publishedDateTime: 2020-01-09T08:35:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025
+    ampUrl: https://amp.benzinga.com/amp/content/15096479
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-  - title: "UK Artificial Intelligence Market Industry Analysis, Size, Share, Growth, Trends and Forecast 2019 - 2025"
-    excerpt: "UK Artificial Intelligence market is estimated to grow significantly at a CAGR of 35.9% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. The digitalization of banking,"
-    publishedDateTime: 2020-01-14T10:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/uk-artificial-intelligence-market-industry-analysis-size-share-growth-trends-and-forecast-2019---2025-2020-01-14
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 61
+    images:
+      - url: https://www.grandviewresearch.com/static/img/research/us-artificial-intelligence-in-healthcare-market.png
+        width: 600
+        height: 300
+  - title: "Innovations In: AI and digital health"
+    excerpt: "Over the next decade artificial intelligence is likely to transform the biomedical world. Deep-learning algorithms could aid in developing new drugs, interpreting medical images, cleaning up electronic patient charts, and more. This special report explores the promise of this nascent revolution"
+    publishedDateTime: 2020-01-14T14:13:00Z
+    sourceUrl: https://www.scientificamerican.com/custom-media/innovations-in-ai-and-digital-health/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "Artificial Intelligence Chipset Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence Chipset market share. Major industry players with significant revenue share include Intel Co,"
-    publishedDateTime: 2020-01-14T05:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
-    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
-    publishedDateTime: 2020-01-14T08:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
-    publishedDateTime: 2020-01-14T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
-  - title: "Automotive Artificial Intelligence Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The global Automotive Artificial Intelligence market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World."
-    publishedDateTime: 2020-01-14T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
-  - title: "Here’s How Artificial Intelligence for Edge Devices Market Growing by 2029 | Arm, Alibaba and Apple"
-    excerpt: "Artificial Intelligence for Edge Devices Market is growing due to the increasing demand forAutomotive, Consumer and Enterprise Robotics, Drones, Head-Mounted Displays, Smart Speakers, Mobile Phones, PCs/Tablets, Security Cameras will fuel the growth of the market. The prime purpose of the report is to present a comprehensive assessment of the ..."
-    publishedDateTime: 2020-01-11T05:50:00Z
-    sourceUrl: https://apnews.com/Wired Release/5a2e4d5ef832bc8b19dee0737e049865
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 5
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: https://static.scientificamerican.com/sciam/cache/file/70F2EB1F-4F5B-4BB2-999FAB56031F105D.jpg
+        width: 790
+        height: 496
   - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
     excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
     publishedDateTime: 2020-01-14T12:24:00Z
