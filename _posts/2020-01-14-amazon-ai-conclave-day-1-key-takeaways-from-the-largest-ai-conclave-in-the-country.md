@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/2020/01/amazon-ai-conclave-day-1-key-takeaways/amp
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/amazon-ai-conclave-day-1-key-takeaways/amp
 type: article
 quality: 53
-heat: 63
+heat: 64
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
       domain: yourstory.com
     quality: 33
 
-secured: "80T00H4R+bBuNN2Zlbe9hG+nG5vNztFN6QDUuOKDeAuVyvkTg7Wq4gr1RjJSfpkparvh9u6k6qLaX7sZTXHaRx6644duJWHJKXFEUuGxpfCVb06wNz96oo9U6Xm+Zl95ggExbuggs4Pyedx3xWtbZTXV+/10jl2SbLllaECVtFztMTI6sKQ6UJy5QIx/9vfOfOfXo3AVlneL9Cs9SwQH9qmE2bk2Bef9DFMqkxZ5MWmJGWyJLOUZyHXkLQnGcf4ejjide+e1tRXliFSJS2ybQ50515iSFWMhNqIJpF+KL5s=;pDLpel/gw//mGZEvhXhkwQ=="
+secured: "llK9Hn3I/X884rNNIza08v+JTMAgfqo+oVIdEG21deClUm6IgzmNrzPYWhqg505b4HCdLV2V+Ogcx32+jTYy6NlwqrURH/rv/QsWCM9HJ57rCL4072w00kN7A16G9LOPD6zgU7NXfEw8N5U8u2Wm4dzn64VlPx4WkvYbrolmiOT3KZmn9xU3SVJKKy7k4rH3vASnAwIkrw6nFEfbth16u8xFvXa86qh2sBh1jn6SX5ak8Y3lhBkbIZih1zAtzJirOVTVP6/ZEzGzmEfYbPWpOr9WVdIrFzGllT0H5InMTS8=;KDGeJW0rwSl2OQSBIehzxQ=="
 ---
 

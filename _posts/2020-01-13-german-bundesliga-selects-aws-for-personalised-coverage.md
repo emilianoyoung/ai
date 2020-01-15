@@ -48,6 +48,15 @@ related:
       name: Rapid TV
       domain: rapidtvnews.com
     quality: 39
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts. Using AWS technology, Germany’s premier ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005382/en/Bundesliga-All-In-AWS-Revolutionize-Football-Viewing-Experience
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "C4U9CJ5OfAMjb/oKDeE914m5hpJFZWDGoBsEhzBf9yv08Mk0NwNBY9cDErZTtDCQg4a2EkKII7epVlRC+IAwey3qvGyy13hSaUiFfLKjo7zFqeuYUasy8F05ViyxQJ7X0Q9lBlUEujwRiiHJfd4WrJ27+6mNFddw1o3/ahQ+cezFDbmaXG3WKTf8YCjI29V/SExmqm4P60eMEw25jcKD2K5JjFS1X92gE9kyFPot6b/6ljsSBK6VYSLI3Mk96Ci8UjIv5Dd3YJ6qOML2nB7bd83vc8SpBxN8/oGj1cwYgcA=;INjVDWNeI/CRslMlClfHHg=="
 ---

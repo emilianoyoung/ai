@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T12:15:00Z
 sourceUrl: https://blooloop.com/theme-park-digital-technology-predictions/
 type: article
 quality: 117
-heat: 137
+heat: 138
 published: true
 
 provider:
@@ -54,6 +54,6 @@ related:
         width: 711
         height: 474
 
-secured: "Ehzm3FXKHgcPkgVZPVlMnE7rx1Rn0gxS7yR3uxyHPDBUDuPqky5AVIqZfSSVupkEMy/lg+NBccNuM675AnBDg19zoxt9QpjKST1Psnss5x3pemF6pkGubT78fdBQLLNbqZBCOrS4tzRLzgG/4w+0/xYFBF5BBSMphpjixuFkwEbameoMHL1OKY7rRV5ofiJYHlVsnU45KfmWUuWZOKhfu3kz0FfyVNHOBI8Xtu0xvMkXLk6C9IjkttvNPBUUoa1Q0P9ro+LN0KxDjOHdZD5xnqhg66sOOa1QdJaROjosew2kocAX3gKRKh9XPrzAyqGI;Fx72+8Gq/4oV+kjzeKx8zg=="
+secured: "x1+ocWy4gZ7DPk5xCXD2EmFe1zav3LxgEGugJJZKz+YOU4Hb8E1cDLkYMHq2YUg2gispmYvjBcneZWSrHrmG+DpgciRCABJHvhZL1pP4hI1LOAhwltxxBvIZNl5kfwtlEX9dE1nfTXite1JvaVBTOQ9u16Rtosheh4xJHr5Xxdk7faAmWiLpzYYprMQXdOmOFI8tuUFT1CaXHFzl0BOrTtzoEmMUAz0AjQZCRQKzd/5oU+jqfchHalGPGU4J9+viiNSg3uihkySpQkzr+ZUyP9Hc62Low3b9LyveENhmbXlBfoUVI1X/RuU2babVCIuh;o7e7rzll4uPyEUqbPNrwOg=="
 ---
 
