@@ -48,6 +48,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
+    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
+    publishedDateTime: 2020-01-14T05:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "A1vQk/UXP+d0rvL9tBvXhU2bI5IOXZJFGZSzfeQ3Y73NsI5A2CYYKQGjPKUf61QmQgBBH1VtKNbtozOKcelu5A7Yf8u/LZwwjybe+gQRe22VjqMQcL8wh0gRQPONvL60PabQoa5+V+Vm3o2mZ+eX+xg5hJP5q7THtlP6Ma6w+88J5I0FC/VR48gktT18GXbFHfZm8Qo20JBOsVkn6r/iJhO4wT8u5w4UMgm4d5vj49w1I8iTqw4HRMqrdwMALuff+Rzu13b0oolSeUBVRhd4T6nmEsjT1jMURipQ6yxySifwYb9dlWjAwF1SdI53g+HMQVylgJkIBC5l8yDGk15Altqhsii1Y8day+ht9WkRkRb4Ay34R9rayXnQ74AJWBg7kLyg0XCkAPgQUuOVcHPO8RSKBtdkLwV1UPWpOLokxTa9FZizPiA1PxNat1M+gy1q3YwKlGPeaTzpIUmrUdtZig==;WGFSEL87STfk0+7zqiJFbg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T17:51:00Z
 sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 34
+  - title: "Baidu beats Microsoft and Google in natural language processing competition"
+    excerpt: "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ..."
+    publishedDateTime: 2019-12-30T17:30:00Z
+    sourceUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 32
   - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
     excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
     publishedDateTime: 2020-01-02T18:00:00Z

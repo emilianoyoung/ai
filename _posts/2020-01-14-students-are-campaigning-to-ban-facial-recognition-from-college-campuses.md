@@ -2,12 +2,10 @@
 category: news
 title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
 excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
-publishedDateTime: 2020-01-14T12:47:00Z
-sourceUrl: https://www.vice.com/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-ampUrl: https://www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+publishedDateTime: 2020-01-14T11:00:00Z
+sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
 type: article
-quality: 103
+quality: 63
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://video-images.vice.com/articles/5e1cfd16c2e43d009af72413/lede/1578958543535-GettyImages-1189384731.jpeg?crop=1xw%3A0.7455xh%3B0xw%2C0.0374xh&resize=2000%3A*
-    width: 2000
-    height: 1123
-    title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
 
 related:
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
@@ -444,6 +436,6 @@ related:
       domain: ajmc.com
     quality: 0
 
-secured: "JI9kwnimKEll0uZ73PyqctqeBbjJBEQIjG2ZZJBZ11P2am346teyMr7N0Y8zouDae9kqZFJk2DrFrs8BFvooWmc5y35Ki9pagwTuxSfPzeXtOzywGQ/4Pzzzs7kvBG35xzghkMAs7wCoDCVOLkl75tYmgR4Y8mN46R0gPH4KIFr1A2oUH2rGBCyafiQ/ThoqqRIQuqQvqGO96h43p+/cdAZJLCo9AB4bpiKWUZ8OQoCIX2P1sXOGzVqUtm/ISN6hcre2RkokmvfsbJdEGvPj9zl+emFI/iOSXRw/7RlIhRtVG8wqR4A6p0C3famdEhcgBdK4Gjza6eDnas4/XyxDpO1dvEJJJOVjTzjWJ5/AAUjK57CULFW3Y08odvFmyGkCOa2QVV/uPYMw4zvqBOYf7OzqSIGfExLLYXPqySiJWURqnPnnHmJaGmY4ny4yuQo1oGkRxI5WNohaAlKV1zpWJA==;UbO64VUQKKErtYM01o+WsQ=="
+secured: "7QuHz+dYOnCenF5Na70ks1VfTQ3xTm7WbdaVDCqoQytn7LEnCPM2DfdjXstFEAKl8UwK1LM6gG6CUHVVuQ+wZD6hq27ApnIgFi8SDwJ2BXoKL6IH9i25FLzbEYWr+/hdqVDcXbMGENK6eH/YJcFzKWCY0lbzoKoiA7kHUZOzZmkHEkdVhbhaN6ZjuwUaLTYeymFa9rNGibKGeRf3XG8MZ7yPjTxFVy5FVS7q44PUeh+RgLt9lvV6hbyIumIK3cL3pggru9rv3xPmAOfgiSzfhhg2f2PZ6+AMqL8tOi8hnRXqQUJ2zsL6XtekdSoMut8VDYI9Of8zGqRweSFDtcDLdY7FwdaYk7V0xDvR+Ap+/icnYgwIKRaNCTdQCJlyoL1rvm3Fjp1ZG8yRfsNjKv3ZKqJUWY4uIj5mOFcRoqjdDT1YYsSseZmst0DkiyOFBLvAoDpPduIKzJ76M5pidCdu0Q==;PJAKJRHdrX9VeKK0RwMaBQ=="
 ---
 

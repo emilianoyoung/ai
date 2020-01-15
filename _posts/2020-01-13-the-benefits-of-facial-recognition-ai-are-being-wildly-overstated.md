@@ -43,21 +43,6 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
         width: 800
         height: 600
-  - title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
-    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
-    publishedDateTime: 2020-01-14T12:47:00Z
-    sourceUrl: https://www.vice.com/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    ampUrl: https://www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 103
-    images:
-      - url: https://video-images.vice.com/articles/5e1cfd16c2e43d009af72413/lede/1578958543535-GettyImages-1189384731.jpeg?crop=1xw%3A0.7455xh%3B0xw%2C0.0374xh&resize=2000%3A*
-        width: 2000
-        height: 1123
   - title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
     excerpt: "Fight for the Future, the Boston-based nonprofit promoting causes related to copyright legislation, online privacy, and internet censorship, today announced that it will team up with advocacy group Students for Sensible Drug Policy to launch an effort to ban facial recognition from university campuses in the U.S. To kick start the grassroots ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -174,6 +159,15 @@ related:
       - url: https://thehill.com/sites/default/files/facialrecognition_eyescan_istock.jpg
         width: 980
         height: 551
+  - title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
+    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
+    publishedDateTime: 2020-01-14T11:00:00Z
+    sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 63
   - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
     excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
     publishedDateTime: 2020-01-14T01:31:00Z

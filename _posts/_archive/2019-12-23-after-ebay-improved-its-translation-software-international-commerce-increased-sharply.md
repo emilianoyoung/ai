@@ -4,11 +4,9 @@ title: "After eBay improved its translation software, international commerce inc
 excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay ..."
 publishedDateTime: 2019-12-23T13:11:00Z
 sourceUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.html
-ampUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
-cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
 type: article
-quality: 16
-heat: 16
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "gLnU8pyQxXIWQOab73gpGNNdzmpX62LVHi/EgMZZ8C2qxcLfJ6UPlQw0Ql+XZUwfOSNSt8bDywIW/jCwEUqBhkZX0IPxkrVHrqMXj4GlTGdQ50nWvNiEVkgcMnmCNUGW/1LOfpfDW80sDFX7IeAXTkNe2UmlhGgU10/Jvc4sDvLWm+OHShLPk/Y/du4lnV5V6++GzngDSLavg1LEytOP8rM09xnIh/SO/hjPX8sK9jUiRic3q9AhVRcM759TBirwCSkrFqjTQKexEL3asQhVwKUuKFh2VDDMlQg82b9E/0E=;KWLoqFEG6BcnFmbm/Xcccw=="
+secured: "yQijBbKR0ZIJ3W9UvDVPz3U4/WpbL/45xYrvLN+Cl5P0livSW7mxJNd98Y4Z7Nq+0E2Dd0o7sYMajGbWUZzGqAtOdETlRbAmTfH3cVFwaOlV7hlRjga898o99GBgPLFy73ONlyVaTHL2a31nDHCvuBDwRqiPYw9Ro23pnoliofn/TjPCmb8LC/JJ+OR+cLe74+05vxxff7xQq4o6AvcSUSLcpsRpdqXhQ1+svzB3Uv5FnVDSAR7V3wH4T1O671zs6mOnFu0RAYBJx1sF5SjrqhBHarjyEtXbc1Hxz2VV5/E=;LekKbAl9I4Ujh2mYwe2KVg=="
 ---
 

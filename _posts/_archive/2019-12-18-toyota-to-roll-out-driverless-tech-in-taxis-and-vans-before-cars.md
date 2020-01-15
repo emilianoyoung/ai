@@ -5,8 +5,8 @@ excerpt: "Toyota and its suppliers, including Denso Corp, which also invests in 
 publishedDateTime: 2019-12-18T09:07:00Z
 sourceUrl: https://www.iol.co.za/motoring/industry-news/toyota-to-roll-out-driverless-tech-in-taxis-and-vans-before-cars-39403332
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2019/12/18/39403332/21819_1_1_s.jpg&operation=CROP&offset=0x118&resize=1920x1075
-    width: 620
-    height: 347
-    title: "Toyota to roll out driverless tech in taxis and vans before cars"
-
-secured: "RO71Fisdwru0dVCULr1TWriFGU2n7Ty1h5CNCeRKSnblo5EbW7t0nJdIM0O8o+jcmBXR/YvAvbsx0jFNgKuK0cggof2tt8aIEIKSg1y4ReI1htRVMVSIBSd2ecZH2qBCacM5p8CiVhkroE8dmIxuvl8fMpy03Tjvw0R5DHi5HdqlfYSinTA1qa+3p8oD+TvVwDD3mUqxyeL212/JBJsSp7K4qo2bfLwJH7OL+siiLyMX+Myy8Qa2VAseM7Xg5fMkk8YaefwMUjZoyPz2+fphXIACcpXGBRfbKxJpIdT4QlY=;twY7ycZu468t8cieDBSfZg=="
+secured: "k8BdM8lDd4RIuyhT/VgRSFU6W6UHI2TDsXWTIb+/9qUrAYQ5VE+AFPotyGPapsz8NGimmq6sSSFwXyo7UDWmv+RDeIZlCV83AcNDJCsJQx532wBcbQq3XL8YvYui7TwX4K9ft1t0fIvJtPSol+tG/+LoIc4HCGmvd3kBsEGuOxmKcTWcO/FpcCTKA72RK6PgLXNB0TGogKJlIFA9yZf0HzHjt7v1vpdC9ZxbRKIZv02FJKoYDwl9BV1bfKdUQmiiLO075PmOF5G9U7IP57Le2N23WMpePazHD+87VWff7/Qhw7NwoTuA6iDAcU9lQLu7XstJcVgP/Qx9qgzluMmOPfjpF/FnDJzAz9sAGI2SsLzZspPT/+tVTTPGYfLOniHYHIi7ml0ubA9kTYWhePjnMgeC9AB/DlxGYxtTJ6uZ/rtUXEDOioLAHTmcGAJp5Df52C1beES2Bnmh+iSaWab49Q==;uOdl4X28MY5oYC8Rhoqhew=="
 ---
 

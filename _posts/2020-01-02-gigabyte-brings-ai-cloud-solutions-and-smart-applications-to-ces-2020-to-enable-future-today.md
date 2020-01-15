@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 34
+  - title: "Baidu beats Microsoft and Google in natural language processing competition"
+    excerpt: "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ..."
+    publishedDateTime: 2019-12-30T17:30:00Z
+    sourceUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 32
 
 secured: "GiPML3SHMV7niuCpltpVAOyHIVLDgvUQc2vbKyY+pVNxXyadmtSbNZyOq3t7AxHFxyH4M6Mse1zyNkOw7TO7CTplcZbpPEHFM0O3GqxBQpJD79Cgb8kwtIsXbSuhau+3Oxt/6X/SkVRwRQz+31y5SXRYmVpTdV8HWLjmLoBvTet99ZzlIQjWHbX1fVpt+ePVLNxtBM72racuL8GX5EAHKx9H1hSRFvtzv0GqWhxXpzm2cmdBcq16qWhdIB5GnZRuEWB8XlbowVhgyzRcAr9ZMTlotJJtXc5VBdo1JyLM37vLTguLTGYwa/pTv6qSHdRYwmt7rL6M/n6Jf6IuqZa/yUR633DXIctQ6hKZwIch3iFhAlWN2ONFBLqD6iqK1bwMywVJjxOKGIzwrTfYELbN8Wsr8JLRfza5KW7PicA76YCdQ7Cb8u+s2m7ik17LTtGetBGYFNKjNfByn/ldKlOAow==;fQQq0fTn7VM9VeicnzCoDg=="
 ---

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "IBM Launches Advertising Accelerator with Watson"
-excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
-publishedDateTime: 2020-01-07T11:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
+publishedDateTime: 2020-01-07T14:51:00Z
+sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - IBM AI
-
-images:
-  - url: https://mma.prnewswire.com/media/1062495/Ad_Accel_w_Watson_FINAL.jpg?p=facebook
-    width: 2699
-    height: 1414
-    title: "IBM Launches Advertising Accelerator with Watson"
 
 related:
   - title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
@@ -118,6 +112,6 @@ related:
       domain: marketwatch.com
     quality: 31
 
-secured: "ONk7vc4R69PjI/jAeZwTuVhvHJ6Yxn62OVh/lR4H2zIkNoKJ+Nmblz8LeZa4hjPshbrF0N8D8VhcXgkTk3CD/GaAoOOMenrryHjsf3FudJfjSo9CID0q4UXN1esWZikrlkgR0Y5TgrnfaHiFuTXCG6ju6FSFShtgN95+0Kt8vWn08MF412xdFw++p2zpJjVMs1EPJbNXn5lqJbZ7VBSJlkHARNtwPKLZ37V2jhfXZHIw3gTaQXseGRPkiQwPNrzK07UCqgpIp7TsBqwm5sEMT+drXS2eJfZxjTTRYfprNtFAemZUEH26H4n6N9VAD90OjtPIe7W8cz/eQZp4Nx0tz2pU3h/TbkeGPOwdUY+J5salMAJ5/b2E3R1ViGK62dHY+EX77VNxpQaHl8c29xBszqcuiW7rAUWbx5CMx84apxs40DsnWFnfOh0QqA5nVBZnr6wwkSyR15gx9fqEprvd+A==;4BeX9raG5zlslKc/sJK9dw=="
+secured: "pEtLTZhMkGS14GxhQLHMqqD/KY87Bs/C2MgLSPz5LDY6RyHRsyMbgiNWi4ISDEeo7z8gqY86QncvSbY5jkGGxdcvngaE2ldhXC4t0qPBSTXSWBaLwTb/nz4oZ58pIJs+all8SVXWeFOAndMSI2u9EEjZT3HGddL3MUcdMV2EnkcjQlZKGrFKwEcvHZ8jjwEHfmqhAch7Vl2WHGxJiCk78SwKvoRs8kNvrnC2EcP4xUZ7LAvtw7mK8ltIWxgPViMmOa4cWyfrCYQtKWBe6mX9sW7VzBAJHHjOdlHaonnKSaqJw20O4Scdb86OOAWO4apRztAmGs6vkDiSyGkLajGGtkJDp8p4thYnI01Nh3Z+JxojlfT2FgQNdr5ZnYCI9LZR3yVE1OSGUjqf81lMRl6EQbweNFbezCSP2xi1QtHZORL+XuGUoRkpQNIpxwKDVD16B7QIpArjCpwcXVvSeYOzvA==;QHLc32Xi6Bf6q2/ThR52hQ=="
 ---
 

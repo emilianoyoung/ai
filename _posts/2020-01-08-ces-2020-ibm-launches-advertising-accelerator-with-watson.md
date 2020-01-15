@@ -82,19 +82,6 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2017/03/1488544544_img_2239_story.jpg
         width: 760
         height: 428
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
-    publishedDateTime: 2020-01-07T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: https://mma.prnewswire.com/media/1062495/Ad_Accel_w_Watson_FINAL.jpg?p=facebook
-        width: 2699
-        height: 1414
   - title: "IBM Is Launching An Advertising Accelerator With Watson"
     excerpt: "IBM recently announced it is launching an Advertising Accelerator with Watson, which is a first-to-market offering that leverages artificial intelligence to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience Recently, IBM announced the launch of an Advertising Accelerator with ..."
     publishedDateTime: 2020-01-14T21:34:00Z
@@ -117,6 +104,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "IBM Launches Advertising Accelerator with Watson"
+    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 19
 
 secured: "PGmNFhKdp6Gu0GZRtQ+ZxSas6SQtbSariOuecMTGUtNoYX3tA97rpW7aeHncdCrzn6PaikKfUpHxyhnGXsidXZEn29ecPWBbT/NpM8+S14SZ7NZQm3cFfqFGCjzysnWPq6ohARjxE8HEhw/sk9WqKm2l/Tf5zoHXRaWuQbCgIMf9eXocNOr7ZSNeP19DYrMmQaqHAOVw77PVj5avjsKbry3bWY8HTlvuaq1HFc6y+MqWTYIMSwOPcGj/PaZUIR/MVIpEO78+vCm/6IpIz/rZa9v4AxyDCGXoOW+EdCyv8NvAan8SKOcbyVJyd2VB5pIdhRFnYVpnqG9KUpAufB8if6JnhtsHI9uY/QamnSSacpHmXGlI08d13RMZ3GpzkycFO8u6rsVnh1LuN1N0bG14B8w74xVg6ufYCu68yxa2qyORJMNN7YNsIh5oYK3FXh0JoYiX6dzq7QM9wjyOL57psg==;0D2z88Z8dvUenf40G/G2Lw=="
 ---

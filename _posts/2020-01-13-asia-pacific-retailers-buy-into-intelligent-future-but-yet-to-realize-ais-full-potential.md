@@ -52,6 +52,15 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56927-5/MediaObjects/41598_2019_56927_Fig1_HTML.png
         width: 685
         height: 285
+  - title: "Budgetary, policy, workforce issues influencing DOD and intelligence community IT priorities"
+    excerpt: "IT solutions such as cloud computing, modern data management, big data, cybersecurity and artificial intelligence are in high demand by intelligence agencies with increasingly complex national security missions. Deltek forecasts growth in IC IT investments from $9.9 billion in FY 2019 to $11.0 billion in FY 2024 at a Compound Annual Growth Rate ..."
+    publishedDateTime: 2020-01-15T15:02:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/15/dod-and-intelligence-community-it-priorities/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 0
 
 secured: "5tII1U0geOzhB3yMz6LT+OSQ8gkwEMeaklQqXSOrZJqnqW4qBQcNBqQZzu1CcM1rSi9Ucr8zTQ/IPluMvJJMLytr6wvswqtOOWIoHhq/CLFiInf3AHsWxXZEoI91TMJQ8BDi3PbkVscVj6/sAn98gn2BI2XfvAe1xyhUVpeAgS9eWR13IcVaa6vFWkOnggBFKUHy+XDjVu53yE2lgSMKTtG0kUiivfBXKxXnUwEfNFIllucLjv6PtkdPaQZDWoqYKk0M9S8fpAPlz8b8jJVNXgpt4HNRs5Nwz6W6GMBA9jb9QDpJgazbHt3XpVglE5HSVvYSA5RdOG3bd6gYS4rxgAUZVE2tqtcpzXc1AmWmcoggecUpcUjmHeo4KTW6/STQcmcqVnLvXxCThBz3aGlE/5S/owickhR5kUiUpzzcLKNT6wF0WgyomoEx0iTshGWrxBpJUZyWZeOtV1b77XxyRw==;f5cfv05F7ExQjrdiMF/k2g=="
 ---
