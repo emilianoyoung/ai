@@ -34,6 +34,6 @@ related:
       domain: infoq.com
     quality: 19
 
-secured: "iXD8OOxhIXR8ZzFwEBQsIBcbItOH5JKiIYxp9UUalhLel6F8LxzzUuzsBtDpxzoEJLxf420ddQGlS9gQN6TXGlpcdBxpKhuCqsZBEoaL4K92syHSOoH9MruzUK0qUzlnrMN4oGd1RlAoCFiqU/8deT3uW7BJHnJGrg9PnsEbwzkDP0/V1D5NeItTchDPiIHZk3nf2z1MYnLb7yx/k5ggZQjjT1geKq/8DYD75QczhGO2IyURtzj83XOcdyL6WGEMkdnBkUjVkyKzT1jQG2P5DArEREoDSrwd3CXF+B2MAiQ=;80WhhajoVhYxPTh1t6mPYw=="
+secured: "zpOWHbq9l9DDINy6nJyfETw7iItKsI/7HZx9lKGxqiQSkHPuVwzFU2lAJkjfdKDzIejCd39WpeJgJEmLvNerqK6v2Sy5nxVbErqNz8Ls65XOpD/5++Iq7g7hGrqR1/AzvvQV1i495v4Y2CgoWsej/SlB8xyH2nzivPd+NPHmjpMbL5zZgYnKIPlhtX8+8qMuvEUNWuDHHoRjLrnEeDwuFfxYgyyhkFRaZTx6jTn/6gcIAlok2Lgvgp5xj5QwPIWi2SzkZc3vQvSQi+iXaHAjbnWhIWdH0/W1Ef+E683EpAs=;64CkMiU4FNYTpjlLdMv9HA=="
 ---
 

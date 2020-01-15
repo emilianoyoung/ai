@@ -30,6 +30,6 @@ related:
       domain: forbes.com
     quality: 54
 
-secured: "Bm9tSpNQWr0iSHDtJphsm/fNYxH6L5ibdhQWAQedKdgZUj7WW2gJbc3VdzGCxkvGXJGmPwiOsyTg87YyB1B5cDjwG2f7qpGwUu7yqOjzapQv1NGn1e0Q3gvOkerDqFSsp9GnpfThz3ciKCzBEbfaBxVBqVNqPOeVt8U1CVaPHirNWm6PvnxKExjR4KPtObKiK2c4tL6UgeMUQomjx8eh8GWSNh6Lb5qdvqVLNjy8N3vGwnqxIwYliOPIUXGH4rD1drZe0mYlr1JgGBgaME3TGXcy4ABlqNArJNP7gT8/Hlc=;a1yZpY8wF88DEg4KdZsHtA=="
+secured: "F9hQ371Aye5fKacd1CrC448cRp83sMePTH3auiGVBBWTmykkq6IXS7f52c7Cm86sHPElF3N5rpjnNJdtGd0SxZWWvXbSCzs1UvUv8rAr59fC1OywtfGvYtvP2pXAkGV/jE/+Xgn55MmBmPju91FC+VciWFCd/EXzcG1s7Za7y+EDe7vBWNUyUcFPf3PppK3c3ZxFMC5asCLY3ekVQ6IZmvAnulBDf+268nsv8ocq2o6C7royr/pSaU3P0D+9hXJ/o14DMe83tRJXfNduujVioUIfO/4cFvQCgG9C/FmfOc4=;706ObIqmyd1mhmEj/5o4hw=="
 ---
 

@@ -17,6 +17,17 @@ topics:
   - AI
   - Google AI
 
+related:
+  - title: "Time To Harness Artificial Intelligence - Nairaland / General - Nairaland"
+    excerpt: "And thinking machines is precisely what artificial intelligence (AI) is all about ... “AI projects in the past have often tried to boil the ocean - to solve multi-faceted problems like self-driving cars. Today’s enterprise AI projects are more practical, often focusing on customer experience pain points. “What’s happening with AI ..."
+    publishedDateTime: 2020-01-14T02:23:00Z
+    sourceUrl: https://www.nairaland.com/5630013/time-harness-artificial-intelligence
+    type: article
+    provider:
+      name: Nairaland
+      domain: nairaland.com
+    quality: 33
+
 secured: "aPOrrCTNwZxHswyvjEkL76DLxzmURl6Bt54+WUe8ZwIN4X0lzuZ3GzkwJHDryHZK5IASoqfyvihv8vwIwlnBnbfJyd4n7+9fRgNslo5U6Snjvn3Ko5LzH9L6oFlMDl+PGLIIUFu46b0PoWxdhKE9lZQb8bkMMxuJKpkWJDJezMasyy4tUYqsChw5zHNYmOTdywLR97kk4C/gCf4eTB2HVV1lM3KfcooTWk1OUSAUP0h0zu76lYGDNxo7n7ICnQGmR7JnGSmhYkX4h1DFN4jgC1rHpLgrV+Y1MTt56nszAqY=;zuvSLvjvjpYhnruw36JL2Q=="
 ---
 

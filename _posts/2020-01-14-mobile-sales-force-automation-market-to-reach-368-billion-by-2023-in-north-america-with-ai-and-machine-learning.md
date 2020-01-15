@@ -37,15 +37,6 @@ related:
       - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
         width: 1400
         height: 733
-  - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
-    excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
-    publishedDateTime: 2020-01-14T22:24:00Z
-    sourceUrl: https://www.fieldtechnologiesonline.com/doc/machine-vision-artificial-intelligence-transportation-s-fast-lane-to-innovation-0001
-    type: article
-    provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 13
   - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
     excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
     publishedDateTime: 2020-01-13T12:24:00Z

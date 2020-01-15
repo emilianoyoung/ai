@@ -38,6 +38,6 @@ related:
       domain: yourstory.com
     quality: 33
 
-secured: "2TbG8LUnLJeJu+pM2urT+S3aRF0+eHpaZCyPoFKEBCcvKbicqwxfppUGEBChVl5/NvGbHrQZH5VxPNh7FYe0N1l3RgHegqs3errJfYSrND56CD/v8pBF1uyvCP+8MPXTlfWuC0wPtFbVEDKt9+RP2yLWGhca2vgb3Emtsh1dSnOupdziU6gSxQaYb02g0Esu8qCV8waMFyGFwYY+TKFE/iZZwwXLBAHXiGYDjsnywMuMx7awq/lmfAjs71Rb+CgMWp18x56ZhxcweRnapXuew57NTBib9J1C5uJ+lfjLkro=;gvaiJ3E2gwc5nxUAC5V4jA=="
+secured: "/pj1bl8B3/jLKbskJ6LcWoKt0uF6nE9CvZzBV/aiz5t+OV4h5vyCGlJ8eNXV5ZOQNQ3bZa9dpJ0IZAGyOG7Cu/pLQpnrIOCx51RyiE7wWQuKCP5i48m7G7Y2Ah+gR3Wyg2v9ILmJEfm/wQ+MjnaWYfZQR/2hMc6fI1P8k7vjM4QcrIMHcNzcpX+ZAbnUiL+bO/6fJ/o/R+YgfZ+43sCJvVoj4lQhGsblkxa71pbKROa/j+5Epl+dpjMVZHc5g9GPtq0twpbgnKgP29GtC9KtjC/B6y+1A4jNcfvcr4u1y00=;qSZWpraeUZd/HBZk9Z4kSg=="
 ---
 

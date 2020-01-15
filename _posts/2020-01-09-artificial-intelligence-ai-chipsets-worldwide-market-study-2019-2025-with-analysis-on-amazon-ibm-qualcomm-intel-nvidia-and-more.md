@@ -1,22 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
-excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai) Technologies Co. Ltd. (a Huawei Company) 7.13. IBM Corp. 7.14. Intel Corp. 7.15. Mythic Inc. 7.16 ..."
 publishedDateTime: 2020-01-09T12:45:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets---worldwide-market-study-2019-2025-with-analysis-on-amazon-ibm-qualcomm-intel-nvidia-and-more-300984314.html
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chipsets---worldwide-market-study-/article_676fd5ee-8fcd-5fe0-a60f-ccd54f569ae5.html
 type: article
-quality: 2
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
-  - AI in Healthcare
-  - AI in Robotics
+  - AI Hardware
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
@@ -67,6 +66,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "L92QYpaPzVR77de6hO8L1LXfcmjx81r1hN2JCTjHsAqgNzLbWdlf0D2/0XzL+QJP1kgGb4+IfQXtbki1Ftnls8wCU+asaDnFrSZsBKKCU8Dwm2BSeB3R9pyAlvySkCMiQA8gv+oRp1Gp0POcjiqGn1y/mxT851hbrcniu1goSZKQeWi7SeIwqfNLxNF0DhKnq2Ke30iV8ANZK8LwYqEJAtq5iAwh984X1LkphDqGLsmQ1L2tpT9o9Vfsp9sR0aAvlqku2bnya/prnQURXxz7IfEu8MinWo3hTTgoY+fQEf0=;l0sziNi3fDWN9k0j7YLPTg=="
+secured: "mqKWjWFj9vzGnGn2ICeCqV35+szVvCYYbFvUc5UgEqtTuprWb0sBH3joKLNIR/zhLuhPVrsfrtKxcF0TwyN4Ncn4sae62+r1dfcc6jg0P7uUO2qlfKxzkvJezuBMzl7bPn5VIBkwKCMbJWQeW0TNjtyFRIBKltm96fDI5T6RO2PVnnuISwwMqz0gHXJ9Sv9GXQmR7l57pK1bm5DX31cKVEc18oj8rWNvqUsEMzl/N7xtbt8nkb1L0WA6Jbn8A9TeSwZfU1W+bkqxP6CltxyJYMyap1FK8zHqwZRSn65bhV4=;BV6/E+Dw7gdY2Knd5UeI6g=="
 ---
 

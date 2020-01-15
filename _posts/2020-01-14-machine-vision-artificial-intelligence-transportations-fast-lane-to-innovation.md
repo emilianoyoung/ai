@@ -18,41 +18,30 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Mobile Sales Force Automation Market to Reach $3.68 Billion by 2023 in North America with AI and Machine Learning"
-    excerpt: "/PRNewswire/ -- Booming customer demand for industry-specific solutions, monetization of professional services, and greater use of machine learning"
-    publishedDateTime: 2020-01-14T14:25:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/mobile-sales-force-automation-market-to-reach-3-68-billion-by-2023-in-north-america-with-ai-and-machine-learning-300986675.html
+  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
+    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the U.S. and also in China are some less crowded areas and ..."
+    publishedDateTime: 2020-01-10T05:51:00Z
+    sourceUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/
+    ampUrl: https://guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
+    cdnAmpUrl: https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/features/artificial-intelligence-in-transportation-is-not-science-fiction-anymore/amp
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 57
     images:
-      - url: https://mma.prnewswire.com/media/1076432/Sales_Force_Mobile.jpg?p=publish&p=facebook
-        width: 800
-        height: 553
-  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global sound recognition market size is expected to reach USD 4.42 billion by 2025, exhibiting a CAGR of 75.8% over the forecast"
-    publishedDateTime: 2020-01-09T09:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/sound-recognition-market-worth-4-42-billion-by-2025--cagr-75-8-grand-view-research-inc-300984116.html
+      - url: https://guardian.ng/wp-content/uploads/2020/01/AI-640x360.jpg
+        width: 640
+        height: 360
+  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
+    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
+    publishedDateTime: 2020-01-07T15:35:00Z
+    sourceUrl: https://www.fleetowner.com/technology/autonomous-vehicles/article/21119908/artificial-intelligence-in-transportation-is-not-science-fiction-anymore
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
-  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
-    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 17
 
 secured: "mzscCPheO2b+/YrXVLEECnfBE9VqGpNph0gVw4Yl4H3gk3wl2TP99I4XKMpyGhU1YtN1PrmC52eQC+mdOuQx+N61fc2vv14ttzE0eQtKD6AnmeZXVYR3s2oF3BJhHUbWSSQNFKy7I7cNOh/pg7++9hw8pFS893Dno4cck4joXeODyAD8QhKN0Ouez/15pW0EHT8XvddqhdozbzMI4ixMnOBOW9qPeawQvbpasC59XnBay6bkl/XTJipmlv+TbN2Q5ErpEg2n52LvHJn5nNqaE0XDDK96EivwZJVwpyymnhNWy/LiepRlUmwL+KXSfpnPgvvZaL6XHdkQ3/Io4nSYzbdXV84M7WwJjj/LN3GMqVdcR2mjhy7JBSJAcUrXlmIFi4qHaqy0PzTMEd6pupdDyub++FvbhdY1VHrd/lsliexFz62QOmpdgRmR73mcFv/+pwKzGsFRGcx5lfx4vp8V8Q==;BswPYv3so1HFUvjPt2nGaQ=="
 ---

@@ -44,15 +44,6 @@ related:
       - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
         width: 1400
         height: 733
-  - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
-    excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
-    publishedDateTime: 2020-01-14T22:24:00Z
-    sourceUrl: https://www.fieldtechnologiesonline.com/doc/machine-vision-artificial-intelligence-transportation-s-fast-lane-to-innovation-0001
-    type: article
-    provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 13
 
 secured: "Yyq1eOvIbYnQjKBtQ2vYwjD6h+A2HclstycV3zxkCkAQbEAFehUfUdzCO6ZYdRG7vxuWq7CmrNtnY0JQAD2hSzxyYlRNP5Y6woLjBWUhR6bMQWX5k623R7n72qpUN6s9MWw4sk8Qh1Gu2Ir56mI13ZkoY/FqFcJXlpp7YYTpiZtBHHq6Z6mHsqeY+a8eNm4YQUB0C5/IAza0KZWvvgwqYt/6OILoLlyOYhGy3UzqNghZ8E0e8DWJW1cM8MAlW3eB3aZBYeGHWcbnrQTCranIxViE/XAQEIf8TutbK6+8P/c=;k5F9vb+5pR5p2l7nLnEAwg=="
 ---
