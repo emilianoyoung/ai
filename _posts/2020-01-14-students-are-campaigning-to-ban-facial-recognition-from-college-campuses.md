@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
-excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a ..."
-publishedDateTime: 2020-01-14T11:00:00Z
-sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-ampUrl: https://www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
+publishedDateTime: 2020-01-14T12:47:00Z
+sourceUrl: https://www.vice.com/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+ampUrl: https://www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
 type: article
 quality: 103
 heat: -1
@@ -220,7 +220,7 @@ related:
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
     type: article
     provider:
       name: Fast Company
@@ -444,6 +444,6 @@ related:
       domain: ajmc.com
     quality: 0
 
-secured: "YZ7QPsMf/NWiK2DHUgpBwcztnIyCyIj58zoLiFDSIufL1AG21xouP5aYQ2PgJEIpRCUslFIVuab2/08+G9X35RckR6J3z/9SVM7YD3ZDCDGxvFWssughUbg3LPTCTsP0N1zUvRCnPoiaV44QjAQEi9BMh/Hfc04GxYTuSxRCvGCoFMSSi35MEqOm/EL/WgL2VE7Vl117pxUXWI+xAJFgjcq9ASfMVsWyL7H0nIDmq3dbcdEO1D5HpgUZpReoUGUQP1Y9am5bej8PMVy+XcOlPHST0prIGqqm+jJFI475ygOzGskYY6hxKE5GLGD/xwBn2cJibHJBOymK+0lfyLkvFU00t4N6/zEf1VJcqDRrkEbm0sKQYD9xr7alEoWdGzdi3gVj2zNvkRawI/xx1zmIM+wnDmrVrUzIUoAaZ7GaBMx5C1JX2Cjt1nPihkEIw+KpHg3J0wFJfvvbrntQf8F0ow==;0sMNbcwGVzRJk5S1KhCPeQ=="
+secured: "uHFV2D7y0EE1g8zi3HKarYsO9WNBGsaor8DaiWkUvp3ZK16cNsJQTmMFCE12FcYOpbySdNNH8DmVxEgRI+dh3jEhnSZDhLiScLr4v7XFdsFflX89496IjnKgS/wuN3t6DudjH4ekUv/OA49kjSjQewtxstIQK6rp7v+7cDil8DxE4NH2GByjc+1opsVyfwrl550Oa/SSNnwOzS4aK1NPGHkVkdm6wHeZdiJgW01bpyrzkOZW5lGZh9KOFsnsGNke8w7UwBvoJceiGLILIDpwP1nteB/qYJeXWGDk0zCFZWo=;p5IGQJRU0U4beA8VfFxrCQ=="
 ---
 

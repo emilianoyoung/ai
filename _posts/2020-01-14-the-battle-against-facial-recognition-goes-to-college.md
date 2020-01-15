@@ -3,7 +3,7 @@ category: news
 title: "The battle against facial recognition goes to college"
 excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
 publishedDateTime: 2020-01-14T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
 type: article
 quality: 54
 heat: -1
@@ -40,11 +40,11 @@ related:
         width: 800
         height: 600
   - title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
-    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a ..."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    ampUrl: https://www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
+    publishedDateTime: 2020-01-14T12:47:00Z
+    sourceUrl: https://www.vice.com/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    ampUrl: https://www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
     type: article
     provider:
       name: VICE
@@ -440,6 +440,6 @@ related:
       domain: ajmc.com
     quality: 0
 
-secured: "WpVFbt5Z9XkG+2AVXQElEGOd8Myum29bwI/oUsj061oIe174KSueVrUHFH/czUrYiW7F4IFP8bLaav70p/K/zRloD2nJph5PcNn8O4yqsRI80KTKJSsgCRYtVs93yXr+NaVNY/+GXfyPegKd81TXbRFgX+IkrfGu0s9IqzDwKnPgVmK6XSMwkcETF57AqpeKuhlE2f/k+G3QiC1apSfNHwdO6C8mNyQgfjjIiiLWRGGA9bQ7M3OgUIE13Y5qe/tzOGkYAitYSiRJ/Eq5yJguog2jRGDV/gbx84eZYsaYJLU=;CwrdLoMmz4bRaPOe8OjaVQ=="
+secured: "NbmNpQQCityBR07BOqzo1QRSEqKtEQCPulq+IEiWruQKccfx5GlYpiIDpnAhs5mE5Em+4+FyKRmXglwuSRutVLLdjIG7lkHJCztHiptS8crOhzR6arLDILSY7Fj77cQsAgvsC3jqGica0jwTtDlLRulKvdam9GL5RN20TMIaCbbNHm2hqezSVGigWEipmj4MEACuGLCM+dvArBVuonCAbCRkt0kyVpwvIDXIN9AXhkxOcs8NwvXo4+hSbQJ2zWCaSSk0FOdoYUwV7yT2OhDVxbV/s5k9XVGz+t791I8BRWA=;FOh8qtPJrXLJ9G8Y8D8Imw=="
 ---
 

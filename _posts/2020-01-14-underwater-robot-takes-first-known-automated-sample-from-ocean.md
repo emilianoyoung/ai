@@ -23,6 +23,6 @@ images:
     height: 220
     title: "Underwater robot takes first known automated sample from ocean"
 
-secured: "5ump+Y550Dyaji/gKvf9O4qiuVf7bHLiRiixMmTXpINPhpi3UG8uitEYDSG4bpGuuHLMlwRfGD2ag72NZjU9UZnIzktEV/o2aMUvZtzeIs7Mlgge+w3o3LWhV4NA/dG5aaH/FQuast6qRl0JGjXHheLTT8eKNhQ0zUEF+CMrKUpbC4z3TrNNUlnc7xcBjJmUWgS/8yyRTHZqRqClX3GPsjPfm2GKkf06bmSf5d5m0O6yjkQIpKD9jOTcN+onK+P9l6nYXzOoF6SvvLaHECEiIlJz2mYU6nPAD5WNe1XXWoY=;72oRQLM/1Y8rktMkI32/HA=="
+secured: "6hyInnPGjyndpJyq5Gnq3zquo7orTaamlk30+13NjDUkGYncfE151eIg8XJm3HyKFFsvrm/OXXymN/hUuRQma5MHgMceHZ6DEt2svBPs6XHMoqD177Y1/yZ9+g0gQ7emiaNZ6dZhdHrKVViB884GBGINrKKdHfOkfY+OeJeC3mIQu5n1wwqd2NIB+R0fQB52qKSAGmvVyIQw6+R5Ata3GJL44oIfFwGn+0VwS1vcxEpsPMtNuP6ZgDOTOe2FX4uISCqXzFSFdmdMjN0qICYocN8YHgS//zi4ZBOKe7tFlA7caYNDM+beJ8QT+JE7jU7McimqzEv9qJ0ODhlfEImc7lqW6UiBFZTqVwV0hSW3AnkRJ8MU0c6rJmw+rU27hS3AloS2BQOY8uusULxhwvLu/TGZg41kxAsjBWts9pH0TmPlJIag4RlnelHp8aBCBgNKmencAZExZkLqC7AC/0fKFQ==;Atp4eOb7xb1rq30GkjFK3A=="
 ---
 

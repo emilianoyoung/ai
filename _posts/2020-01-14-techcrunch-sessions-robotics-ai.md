@@ -42,6 +42,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/robtoics_ancajur.png?w=1024
         width: 1024
         height: 558
+  - title: "Announcing the agenda for Robotics+AI — March 3 at UC Berkeley"
+    excerpt: "We’re bringing TC Sessions: Robotics+AI back to UC Berkeley on March 3, and we’re excited to announce our jam-packed agenda. For months we’ve been recruiting speakers from the ranks of the most innovative founders, top technologists and hard-charging VCs working in robotics and AI, and the speaker line-up will capture the remarkable ..."
+    publishedDateTime: 2020-01-15T03:08:00Z
+    sourceUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/
+    ampUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024
+        width: 1024
+        height: 558
 
 secured: "nE00HcmtA6Hc6CwvlYjKyd624y0IJFabmw/pSrFrZ3HImOfkHnMPDRHRNaNYJQCIt9PSKd/01/c5gUAuIDtPsV8mXHI0zbZtMbjDKUS6WNnmC2XCaX9CMOTKVS0cgkMKsRIqRQG5mG0/gF+isNYIid1wOqZLEA+PEvT07BaDFTZOict7LcE7e+vx41ieQJyNlDDk4fBzZRxg8li2aFsY+8WN+LxSiVBptt5cz6Py15WAappb2p/fPn7XcZey/Axj69KjVysRd8G50u+IZkgrMi1AnfX07EhJ/eCioscPKGRaRrfn6GI5bnMiqjU/c9ysCo03ZtMzrOhesXFeLHgmWymhk90BZFpBnSpSTWo2PlRMaLpZxtTlRmqLeun+momJdDJdRhtFgik1jew3awTwLvdRMNvJixQqJQMgGJqCUTZGzZcJMAoP9TwD613u0w+GW/xQ7DwjxOVafFhgRZrDhw==;bW3R24wtMrz4sicks4cWdw=="
 ---

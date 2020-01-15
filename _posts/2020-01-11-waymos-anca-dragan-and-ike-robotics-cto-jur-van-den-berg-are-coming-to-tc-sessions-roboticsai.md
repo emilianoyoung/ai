@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-ct
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/
 type: article
 quality: 174
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI"
 
 related:
+  - title: "Announcing the agenda for Robotics+AI — March 3 at UC Berkeley"
+    excerpt: "We’re bringing TC Sessions: Robotics+AI back to UC Berkeley on March 3, and we’re excited to announce our jam-packed agenda. For months we’ve been recruiting speakers from the ranks of the most innovative founders, top technologists and hard-charging VCs working in robotics and AI, and the speaker line-up will capture the remarkable ..."
+    publishedDateTime: 2020-01-15T03:08:00Z
+    sourceUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/
+    ampUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024
+        width: 1024
+        height: 558
   - title: "TechCrunch Sessions: Robotics & AI"
     excerpt: "TechCrunch Sessions: Robotics & AI on March 3 at UC Berkeley is a single-day event that features in-depth interviews, demos, and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
     publishedDateTime: 2020-01-14T00:32:00Z
