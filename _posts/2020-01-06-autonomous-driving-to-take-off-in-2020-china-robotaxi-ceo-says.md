@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
-excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
+excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the ..."
 publishedDateTime: 2020-01-06T23:01:00Z
-sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
 type: article
 quality: 24
 heat: -1
@@ -38,6 +38,6 @@ related:
         width: 690
         height: 560
 
-secured: "dlhHEyC+hZHQtQmWugbNWtjccZXTu99NUI4WokuDpC3Wnb/6QSrlfs3oLZ98ROdkPDUAtXc2zaEVfJmk3wEaa0mitYZ7b9tCMb4KjqxLfcaaJbwA1G+FkEkCqXu53720OJgpA3v2DlWXxtNZW0DNyObw1N4+m74uRtcTnTDB103sZ7Qkddpcd559l0q92LZ727W2F58KiUfCIDU7wmns8qwNohNNCz/b1y0m4YzMLWynPYEV/vXB+OBx2mYrzMDJscsXNTsXwnDvJh+O4JqihI14Lay/nn6Dty0LA2xQ4Ejg8Nm6zvjt1XgAeAlk8cLaz4bRVnZ3yUfGFTqZxV7O7C634UIRUfhiT58KGROuiqS7M2kDuBJYh0VzaxmmzXNfeo1pblEqk5+5yHfu2vMGMa7C1QXXmYW7UzkmZ0MvIY2TSPhM/4o/M4QVTwfcSnIs3Vcx0YQg6VTIwZHc1LHcrg==;rPXxYOreJrQXKTrB3nmupg=="
+secured: "imd+awOF5dvNdGluWcU6FjulDAA8ppq2jMJmgMWffEXUmJCL1FrVb3jXqzuUioAYJzIOarzvVxqbPT2GBKD3Hhkc/L5QTH+E11uU+O3wKyF3Q0GVDcyN5EdM3hNO8OHfkgwsqVL+VXWvTmXacoQtcKWL4hYHKl586L2qv1y6ubrrVVAXJwsWGVZPiA5udr6wcQ18mTgTGp+2DI4WCwSRZApZ8x5xJ5dS8ST/8UOjLktJdOTnNR5ZhlLE/07t4yvb9u6ovfgqNQScDZ82lkr9m06C/E49dmY3jOysSCPeH2M=;araYmYP+eBJM5mFY8GYlnw=="
 ---
 

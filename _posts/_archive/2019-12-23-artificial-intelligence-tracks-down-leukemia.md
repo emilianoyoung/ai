@@ -54,6 +54,6 @@ related:
       domain: eurekalert.org
     quality: 19
 
-secured: "0SzH5ihcZbE9TpYm/gEdXwRVBoEnGjUyWZI1dsXwHiJgJn6hXk9HGg1Psr3l8NuWxg1PS237m7dRjNqpNCtMsMIFPJAhWLNwOpetPwj5lTiobqjdPFqZgNRj37aV5dIE30aEutAttrwpFHfZPzlCIjuXAOiDe/7f6YTJ3lZslDfclMV/tm/N/mJ7xKGkF2YKvHHqpXoaJStBsYXQI98boif5e0FSZYhwuuAo79ELW6dsKfYWKkVmBCieLjs5M3br1zSqnsrpMc+8dUeaK7R/W2Ngpy1RnCoMffqWrEj1vRQ=;vh6A/+XL/xKt6M7k6SgOgA=="
+secured: "4OJAVqpY9KyU4dLwbi7H9OQLWzMvgnkcTROm7VOtFOu2ZCKZt2EVVx/628spByvPh2EReG4rRPnlrOHnX3yvprN/iE2Sl19kc33MhLSwXSAivj6VfxI1Qz6ypYeXhlm4qZu/vIfhIGjGfgF8pZeUkC9hkoB6bKmC2OpDJzgxIzCsuIK+M+GaZpEGG/LMAE09VK9CyOFu4mHDFDg645GaYKnAy6g/1A2WD/ChRt0oRKoIUY9MYJ0xOZ4CJGl7/Jpp+Wd28Os6+TcAxpfkcPbjRt0QN+POf5xwXSkbBS/Ccog=;GLpajWTjLVJASa1ETiQzUg=="
 ---
 

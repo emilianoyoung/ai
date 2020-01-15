@@ -3,9 +3,9 @@ category: news
 title: "6 ways that Chinese tech is ahead of the rest of the world"
 excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
 publishedDateTime: 2020-01-04T12:00:00Z
-sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+sourceUrl: https://www.techradar.com/in/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+ampUrl: https://www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
 heat: 104
@@ -70,6 +70,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "ON41yMrCptD923oFM+G4k/WrBUmC7pceXZT7CS8LwEUOTu5iUvtaMlTwOUBHlZT0I0invajYoLrfRZ29pkEgXcLR1XEXDikWlrJP0eblwOs0K1F2ZKIgqZ3Njp2+OLIUnYvfD7FRAaCZmSl0N4TU37gy1EEbh3ZcAJOT6PaSy0iCJllpX4LRKpqeAsmXder+i7+Xc46pMJHLfd3dMVRcacp1vwtZqOtZbDEhHX+kYlY8Lzk+kjB3BWEisNMfjEmPpD6tnjKrDl4gF1mHHGwU+f+IAojy7SPcT0tuSdixnJMhENN6iaz+Tl894869iQHCAWK5CMCRvDvbLfcbRQAyZx5OZj2ZqFaCVZWLdLHN2I3/scDyi0u4CTag4HOg4UFCtuC8NCVcHWzasfz2ySerDiCD7AKlMSk747dvy6c3f51d+7OpEooSChWieHBQgoE7qaP6Q5wrDx2uYOnfGQWsHg==;6T4Zwfs8cEpCnOGt1KLJCA=="
+secured: "VWvY+pochdmfeEEmX6F/Td9yWd0AGuDxDTvCmDbTQLezThi+uExPENIIYPklTFDbbvnqcKnmXqBHK3hPdYThNGJj51/e4mcea3rM9qfVNfZDrgtRfyYNuRW72qMDj41rMNiDGHNlM27DUfiYGCdIizIb2DorF/Sy2glIJMELcpc0DxZfhEWr/mZSa5uJQwlY52PY1I2DPjYR6+wl9+Wj25jlC/pBwUZkpLtunw4Yf5Og4gGPv+GNlJOv31X0bWbQBGT6C1b8YuSb5wa/k9sMIif0Azv5xB93wHnXlOVC7g8=;tqkisET9a58hJJQlYd/S7Q=="
 ---
 

@@ -50,6 +50,6 @@ related:
       domain: indiatimes.com
     quality: 39
 
-secured: "KH0AJypEi+7Obub5BHdY0/cozesncm9lgHnwb8n/44wV9mNj2tsDPKFR9A+b96OxkO9gDsVVjD3OnkVgVDrcQ/3LIWluiUUhaKJt89c1A5BLRqWBLC7JLVcBkc9Z2c7MMM3XpntcYne+MwDc/GFaoeAAGexXRSrBUIsEsDxWbzqxF93hWVcp8P/dycrE2tDLcHd6xgBlrZltD0UxRCi3kOV6tgMPlofuHnEiAgT2CP/Ls1ZMEvNgW7Kafqv9uvHIpUGymxQE7X/mMtziua8NpqRZKshFFD8QZjVllvr2ufc=;PfvbpM/5we011OyukDBUAg=="
+secured: "SpU/ZZl+Fnr2RcJ3bC9utKxjJPzXI8aMmz38L3pZFJDb5+0haEQqRN0WjYOEyRK35+n5YHAapz8FOUcdbasOW9Q9FFViW8RYPzGC0gdj5CEUhEQAaYS0ALcq5SlWKFpJy6C+EGYIlt4TPmRbV1mJtwot6xRBp2qcVcpiL15tEoG+iJT8LHgvrUoJ0hoL0GTj0JK5tbAUY4n1PjLi4SY49qde+Syd+4KpZEGTKxT1/qJGB4lWBa1lTX3hQwUC/go12ckeROVsoQf2yEc15tHzA3sX/g4h6y9uLMAiBc7MDrY=;u1b5Sqmjndc3gkomHPMMWg=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Set up authentication for Azure Machine Learning resources and workflows"
-excerpt: "In this article, you learn how to set up and configure authentication for various resources and workflows in Azure Machine Learning. There are multiple ways to authenticate to the service, ranging from simple UI-based auth for development or testing purposes to full Azure Active Directory service principal authentication. This article also ..."
+excerpt: "In this article, you learn how to set up and configure authentication for various resources and workflows in Azure Machine Learning. There are multiple ways to authenticate to the service, ranging from simple UI-based auth for development or testing ..."
 publishedDateTime: 2019-12-19T20:35:00Z
 sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication
 type: article
@@ -21,6 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "VzyLrouoUjRN5WwgGFhukYeQmTs2JMSHczLYizlGpm6gKmwnihUTezGbfPLegNolTZL7DbFHk5JjLR+aTyTjKELmwgIb/H1ut6/2D45Jl/hp71PBwx5Yettkjd+fijp4y42qyxAtwNdkxXNONogR5OSKN5Q1nBebazGlrjB3Im/RZwcURWagPzYDk5Jt/SgLxGl4tkDGd+PA7ZwaXevez6kHu8MEXYRqE6kuocpVWjR8dLNY/iaaDzzFwv4Jb0TVhBUAVgFvMrM1yEYn+T1joVQFWIQr5eVJSQEoCawb+Tg=;ifOoivNfzsvV1PF/Rbj5pQ=="
+secured: "eUkp5tNZzECqeUys2pgA80wh1MJN9E7suCeIB1dw1+O9BrANnYMbsw/ab3q7PwKytKhJ0h2sTEHmVZjFXvFqor9YWkWrA1g11wvPeo4fdb/RixZyGNx8upLeDMALScwaT2C08YsQptyVeuz6jBIYUgmiXmfGxSNASPruqiLjbwhpUZZf/vd4hBSFGcE5fT2B0Xa2HO6tYuFFOiC4sXtnkVBKgC7MdGV9nenF6WPr/rb8fyoKOw5KB6xi2SeNpy9iCi+PMNl2eeoZzDsIRBvbDqPcRDHZ9P08NaeRX4g1xy4=;qBS3i2np4tTHc5e/+EH6oA=="
 ---
 

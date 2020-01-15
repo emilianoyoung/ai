@@ -17,15 +17,17 @@ topics:
   - AI
 
 related:
-  - title: "Utah Police Look to Artificial Intelligence for Assistance"
-    excerpt: "A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies,"
-    publishedDateTime: 2020-01-15T00:21:00Z
-    sourceUrl: https://www.usnews.com/news/best-states/utah/articles/2020-01-14/utah-police-look-to-artificial-intelligence-for-assistance
+  - title: "Utah police look to artificial intelligence for assistance"
+    excerpt: "A Utah city police department is considering a partnership with an artificial intelligence company in an effort to help the law enforcement agency work more efficiently. The Springville police may work with technology firm Banjo to help improve the response time to emergencies, The Daily Herald reported. The Park City company can gather real ..."
+    publishedDateTime: 2020-01-15T01:50:00Z
+    sourceUrl: https://www.kansascity.com/news/business/national-international/article239296528.html
+    ampUrl: https://amp.kansascity.com/news/business/national-international/article239296528.html
+    cdnAmpUrl: https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article239296528.html
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 37
 
 secured: "xjYmUWr4FjGI24qejXpKVHEtqjTt90xgMY3uQZtM1n3uogNIN37py+ikuE0U/kNJaokIwQLPgj79NWNvUiw8yE+dZ9ZS0p28emSbn98t52K+SgTKv+qlsoeyw9MRo1kwlefraq/vExGUFdzasGhs033DZARSWPNsRDeW41sLTJdnzgPpeBU589WpsvLZCFKMwQU60szdTPvWKJLUXKcBBQBprQLE5Q09bxRLlm8Rb2KdGclBQcpGighvhituG5rC8IwLnsqT5gDBsVbizpoYcZLIIvaYQtSgX4WW6NTZDeg=;pnoZDUiXrHfUGT1WcDO9lQ=="
 ---
