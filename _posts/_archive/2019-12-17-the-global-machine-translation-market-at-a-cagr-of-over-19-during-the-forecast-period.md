@@ -37,6 +37,6 @@ related:
       domain: marketwatch.com
     quality: 3
 
-secured: "nI4Ly2yDp2+N2BZb4r39NMZ4yGbYDhUojS0i5BwUtPxzdgiybUxuvTbJLdwTP90ESj+ZbkI+o9Ju/22W66DujLrnroJcYIAN09JSPpQKp2X50wIsUJyF/a2SzAbnaN2rF33siJl0xvNfvZH07YSl4Rzrsxn7av/b6t/DdfpUtkitb3p/t16XAGigUxLuERwiY2Uhd0Mf2aFLyhKwBVCqcjvZvliVY3FOehRGD3NS8ScasSkz6+dzaEvAeEz8d8bbjjchQifE/oQV8k/1DnPzSq2Rd8lIPFbxeOH4hh3+Nbw=;wYjqnBiGbszQtMfWnGmTDw=="
+secured: "O31J5AZo+tiPXDH93gdY8p53XOtpkyO0H26eGTYtGv3SU3Yw98LyBCvf/4vVx51948qPZMjruy3DdyHgFjq0jlYBM7e9PgncGS1F+eGThgIvUHv8KXlrTt8vHqik43eBpF2++tdBPbGktn9vNLhPxq+/td5g2Xw2iWGtAtuzLK4ZujSL5chYWtF8Ee472zX6E/hfhTouSJPBqLN7DMM5fJDnzlJykI4g0gwddWFSIWgjVvdIdtvFJ0hWU6CoWFmjzhRfw+o2ptmZ04UxiPEdocn5fMa01g+dz+wOIi1l41w=;ZnBzEn3EmBk/tHFv+I4FxQ=="
 ---
 

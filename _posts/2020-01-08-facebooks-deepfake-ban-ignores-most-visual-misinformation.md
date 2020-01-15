@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Facebook will ban deepfakes, but many fake videos can still fall through the cracks"
-excerpt: "In context: Facebook is stirring more controversy around its content policies with new changes that focus on fake videos created using artificial intelligence. At the same time ... The company poured $10 million towards research grants, hoping to encourage experts to contribute their ideas and spearhead development."
-publishedDateTime: 2020-01-07T22:49:00Z
-sourceUrl: https://www.techspot.com/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
-ampUrl: https://www.techspot.com/amp/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
-cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
+title: "Facebook’s deepfake ban ignores most visual misinformation"
+excerpt: "Experts in AI and misinformation are concerned that Facebook’s new policy on deepfakes ... Henry Ajder, the head of communications and research analysis at Deeptrace Labs, which released a study on deepfakes last year, applauded Facebook’s move. “Some people have criticized the move as responding to a “non-issue” on the platform ..."
+publishedDateTime: 2020-01-08T23:10:00Z
+sourceUrl: https://qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/
+ampUrl: https://qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/amp/
+cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/amp/
 type: article
-quality: 68
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
+  name: Quartz
+  domain: qz.com
   images:
-    - url: /assets/images/organizations/techspot.com-50x50.jpg
+    - url: /assets/images/organizations/qz.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,10 +24,10 @@ topics:
   - Facebook AI
 
 images:
-  - url: https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-07-ts3_thumbs-422.jpg
-    width: 800
-    height: 560
-    title: "Facebook will ban deepfakes, but many fake videos can still fall through the cracks"
+  - url: https://cms.qz.com/wp-content/uploads/2020/01/RTS2XMID.jpg?quality=75&strip=all&w=1400
+    width: 1400
+    height: 879
+    title: "Facebook’s deepfake ban ignores most visual misinformation"
 
 related:
   - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
@@ -45,21 +45,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024
         width: 1024
         height: 663
-  - title: "Facebook’s deepfake ban ignores most visual misinformation"
-    excerpt: "Experts in AI and misinformation are concerned that Facebook’s new policy on deepfakes ... Henry Ajder, the head of communications and research analysis at Deeptrace Labs, which released a study on deepfakes last year, applauded Facebook’s move. “Some people have criticized the move as responding to a “non-issue” on the platform ..."
-    publishedDateTime: 2020-01-08T23:10:00Z
-    sourceUrl: https://qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/
-    ampUrl: https://qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/amp/
-    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/amp/
+  - title: "Facebook will ban deepfakes, but many fake videos can still fall through the cracks"
+    excerpt: "In context: Facebook is stirring more controversy around its content policies with new changes that focus on fake videos created using artificial intelligence. At the same time ... The company poured $10 million towards research grants, hoping to encourage experts to contribute their ideas and spearhead development."
+    publishedDateTime: 2020-01-07T22:49:00Z
+    sourceUrl: https://www.techspot.com/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
+    ampUrl: https://www.techspot.com/amp/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 74
+      name: TechSpot
+      domain: techspot.com
+    quality: 68
     images:
-      - url: https://cms.qz.com/wp-content/uploads/2020/01/RTS2XMID.jpg?quality=75&strip=all&w=1400
-        width: 1400
-        height: 879
+      - url: https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-07-ts3_thumbs-422.jpg
+        width: 800
+        height: 560
   - title: "Facebook’s Deepfakes Policy ‘Inadequate’ to Some Lawmakers"
     excerpt: "Facebook Inc.’s new policy to address “deepfake” videos came under fire from some lawmakers and disinformation experts who say it fails to address other kinds of online manipulation. The criticism, in interviews,"
     publishedDateTime: 2020-01-08T20:23:00Z
@@ -126,6 +126,6 @@ related:
         width: 4088
         height: 2648
 
-secured: "6VUfNXKo/X8qCXd9d6FHzB7PiY09NhEZbQnatG0SNwNrfnBvEeT9y147PPItFYhxRVUK1V7c06nLd88vHLQ9YNA+nmZn6gUdhsSMZRdxpt8d6VVJudkKi/6ns9TYT3uaf4iHiyLReLVa4qgmaSCTHxwRaBxQEQOQiZsXJyFvNBAQFhsrDaOKG62RhkFKZ4gh0u+IvRJzI50zakoxMTyOhmyOUK7RNtT42VYT5cdBTzYLzdAZjJRpep3iJjnAfcmMkcRbgiwQkIOJgSRlz+Uy58bOvDZAAbbn1AS1aaKn3acUuXveYI4f1eL2xWetAjC+kV06d5rarAr+RqgBCe6cuiWTC9nunhc3+ULctG9B98FTHQ0jPmSmbR48rRCiJkNnP/4xAfDrq9pXORKKycXj94O3nD1lCKi6f+uUCs6nhPsxYrNYlB6f9A+G82MZATgJ0NSscrpb2QCFaiHAYeQIdw==;P1iITzjkIeOk/jtjEVx4Yg=="
+secured: "JTezKStIRJpAelDMu30evG5dZ0axHelmpLs+W9xWmUWFYlizXj1M8cQkSuiXhBVJygvrfIjHmjH65SZng51XH6MM+Ndx/5BGZbIk6o3MFA66Ca1+mdzpAPEKj7MTdDZHe9xBHdTqcyuF73jZNCoOIM9PTmdJGW57wT+cCYWoG7BQp/6KBAL0wBbZEjYDVNAajCaXZmR2QrUBmcQrhdxvmJ7wqxnDyMetWWw9WZDGKhEyf+OYiPLm2RlT1bQ6RUr2W1r1Dv682I+fDCU7505mtRHWuxu7PHz9AyARMZ8KKDA=;AVPWenLw5cSY9tb+xTJgpQ=="
 ---
 

@@ -62,6 +62,6 @@ related:
       domain: retaildive.com
     quality: 19
 
-secured: "JlwfNKPpFVqGptQ4oSvw5sdWq+QJy7eY9LUYMkumjZWoY6dgpuX0yLRfFy6lkP2JRuoivsQQ+qLlO8panVxzi+h1pqo+OP5Gz0Kt8+/B04/44fOif4Ez16pqV/hDgwiKRXVyc9LwA2xyWQUwyrfzV6WXTfxK6TzjeKX1QUp6ZZ/QUBroatOwHaGEN2/VVjfahFqYJoVPMvxqaHi3ZkaUUzlD2/Qe1dgKHBBpPxsQL8ZR5osehl8+4U/kF0xWLB81cl4hetKS0cZZYkkYhabsZPc5ZGp7Ud12Z2OZN1Wulwo=;hM6py1NhWV8DNkc3zXLyJw=="
+secured: "0s0h/7tjDOMtSI+lH8T+rgaw3ocygVi0Q+KojQVov/45h+ybxVT9XWaPb08kjGIKgNhJWnRNTE4zuB4N45ANoJdQ2LbtclGhJ3mmqR4vDnSyDfUG/9flxfx4XRzxS1Ayonipfr0Ax+AwONvWyYXOb3W1bq//xRf3pWwCmasMnwXF4sIj9K0VCApmIiyj2C2fIHo9BgBsNpfX/Qio9bAcsQ9dmLD1X1DHeV8H7JSDATkN0G/G7GCRADLg1j7TK5L8IdfmIXRlm1ysUJr+t9lTr3/jXU1NJzCDe0f3US1Y4ZJz+X9kFxP30YyEx9O6lEW/TUM2FkOkOH/PMYohrqDur0qpTjEfL7BXF/elN39Rj4jAl10/+bTLUEJKHYqQ3N1KWTFInykZ7X6u7b0P6YfgUs7stfUrgn0V8o1pamrAUigwbW1ceux9NuUr8TZ6ZHYtv/8cRtPKTaFnVcHnkqGDKA==;ZcP10sFFkJ3tKgf0attlHA=="
 ---
 

@@ -50,6 +50,15 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 48
+  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
+    excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
+    publishedDateTime: 2020-01-07T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
     excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
     publishedDateTime: 2020-01-13T12:50:00Z
@@ -60,6 +69,6 @@ related:
       domain: marketwatch.com
     quality: 37
 
-secured: "n24aBBe626uWMn2XoYcmq18bjthN/kLXdgksKsAZ/86E3kkjZ4jT4o0Tumn9ErfOFJj0snsZ6F9pVgbPGK9PDpE/ja5xZkYj9DiWlZynC0W/vlcknLtT8m+PRLry9jMtrhSwxryap5LY1LVs2x+tUeArHfsxDj7B2MQDTV3XeMDWk+B/vOG5d4oqhVC0edLrZ+Wc3CcGsfIoDC6u/1LY4oOkqAyq4mo7MAtm+4Bar/wb9QGIQI3qqYIqUh8HgxgTGuUUlBys8TutgtWhNomhXUglvuorzl09OCVVDimGfEU=;7P6BC3aTlJHSfZnmGeHmZw=="
+secured: "8dlOH0dEGUllqWFMRFB6BUOU+Hh38JjmH8S2vWc1TymB1tlrKBEbYY4JothscsdGQDDSr0RiSzOwdqBUdRnAaZfmjCXGT0lgiyP7cgxboyp5WScOXQT76G2o8fVFQ8C4vp3iJ6XQCkx6sY6wdOCDEYZiEddwOsYbe/zNPM4jtQ4bSHYUVSjLEt2pxO9WwbnydV36OxrvEiEEKQKfaDx4/fymEvEW5eh4PPza1cF/UwO8aEr21EqMLZPXciSmGL10oibW69PWdXjdNT3Q4EF55fFPeDN+S3bccEWFrKXV8zzDa5d5M7UbzxQc9rvbiepBVWQpt/vpaaYJ5yypImoGQ+Hq2Uieewmj6IdtZaevahJR6DwQmcB8pLY9zuzoJlCzm1Ox2MPY094rPweHVJWeANRV0gM1UX5vCa7QaNd2jg4+pLc/fVTZi14cpqTQTV2AUF5xlLJNqcYaY0OQ5wEQNw==;qh3CWGfNvSpsQu5zhI4hvQ=="
 ---
 

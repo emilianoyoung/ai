@@ -41,6 +41,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024
         width: 1024
         height: 663
+  - title: "Facebook’s deepfake ban ignores most visual misinformation"
+    excerpt: "Experts in AI and misinformation are concerned that Facebook’s new policy on deepfakes ... Henry Ajder, the head of communications and research analysis at Deeptrace Labs, which released a study on deepfakes last year, applauded Facebook’s move. “Some people have criticized the move as responding to a “non-issue” on the platform ..."
+    publishedDateTime: 2020-01-08T23:10:00Z
+    sourceUrl: https://qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/
+    ampUrl: https://qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781809/facebooks-deepfake-ban-wont-remove-most-visual-misinformation/amp/
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: https://cms.qz.com/wp-content/uploads/2020/01/RTS2XMID.jpg?quality=75&strip=all&w=1400
+        width: 1400
+        height: 879
   - title: "Facebook will ban deepfakes, but many fake videos can still fall through the cracks"
     excerpt: "In context: Facebook is stirring more controversy around its content policies with new changes that focus on fake videos created using artificial intelligence. At the same time ... The company poured $10 million towards research grants, hoping to encourage experts to contribute their ideas and spearhead development."
     publishedDateTime: 2020-01-07T22:49:00Z

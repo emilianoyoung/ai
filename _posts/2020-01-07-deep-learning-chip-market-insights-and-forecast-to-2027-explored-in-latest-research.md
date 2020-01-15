@@ -1,19 +1,21 @@
 ---
 category: news
-title: "New approach using deep learning could speed up brain image microscopy by 16 times"
-excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
-publishedDateTime: 2020-01-08T23:21:00Z
-sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
+excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
+publishedDateTime: 2020-01-07T12:27:00Z
+sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
 type: article
-quality: 48
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: News Medical
-  domain: news-medical.net
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -48,15 +50,17 @@ related:
       - url: https://technical.ly/baltimore/wp-content/uploads/sites/3/2017/05/ff1812.jpg
         width: 1200
         height: 900
-  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
-    excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
-    publishedDateTime: 2020-01-07T12:27:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
+  - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
+    excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
+    publishedDateTime: 2020-01-08T23:21:00Z
+    sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
   - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
     excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
     publishedDateTime: 2020-01-13T12:50:00Z
@@ -67,6 +71,6 @@ related:
       domain: marketwatch.com
     quality: 37
 
-secured: "3fNmiszAnBqjLs3VH+brVxYAoXePM81mhuSC5cOdukHzRZd57JnyrHUgPhF/yvZZEFhJGTAectsUzXX4ZgfuSXBaj1JA5F+9WqKF5PpZmQgE6tcC8+VoYp7aYNXf9DEwvPswwENjeWm/wmsoDa2mlLYsFVt46l8md5KRO/+eH6OjX/UT25dPQVolY2BKDg7dhwcgk7qReEGa6Cs/aIcqP958zNuv8eIcaJfTQQ3T7i7+ni3fNzDPtmnYBcHMQQHnxZ/1KoIMMpp9IWkY6friTBq4RreKPadOLSmxVC9IDZA=;Z4TnugQLuIAmitU9r1LzZg=="
+secured: "YWklJ1reQfwlRXWWmZgYVj5x071LoH9SYWpk7m8Cn3Ot9K4vsZv+RZGLPY3pEdm3648AX3131tx/Rjmdu76J88XIUF/1K4pQKeB7kkqg9GgM8xBfhGRVGLzkpkqeuNT73Eo3mgVnEVbJ7dAh2qmdwnRz1pMM/VP7cyWU9A/kZjAL+N8zTkZqC6nWCESslyvAzXVw4Xq+OzB7K8qUsVV26/YlBEfp7JcZkd04qILC66ygs6K4sX8YXN8z5VXvUfNi172KVbaEmK/hJ2188U11+MwlEtX9vmXWxEC8SMKbE8I=;TaQj9fRn8wO5xuk2xzn05w=="
 ---
 

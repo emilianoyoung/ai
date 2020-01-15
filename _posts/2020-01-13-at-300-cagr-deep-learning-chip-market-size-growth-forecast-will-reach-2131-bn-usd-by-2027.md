@@ -61,6 +61,15 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 48
+  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
+    excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
+    publishedDateTime: 2020-01-07T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
 
 secured: "oazwk7JBaUur0/C+To0sAYmtveHNGwSG8GqiJGErhFOUAIEPwCcgzPwAGKMlMykZ7nOuE1bfL8PaTBmFGu7ZEq6XjHiR30K6KMF3mZYgjWrpA0X/Vyd3rfLW4sUTgDzTA7owU6vVTFAZ7YVGEs235d2ZotxOA2G5GUb1hbvDbyO26k8qJhqiDUjO151OVljfA823M0aw43pzX/vcOZO51l55tusKDVfyX+D8KTJUvdE7MqCZkTA2IKPEIhyUlWakqjOlroYvn9k02VcN5Z3rtQBfnECdyrzzwAyzSC0KTdw=;LtSKXsdCzBZZL7rc1xrnWA=="
 ---
