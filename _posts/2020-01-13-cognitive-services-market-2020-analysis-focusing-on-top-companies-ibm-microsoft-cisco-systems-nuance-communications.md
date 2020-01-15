@@ -50,15 +50,6 @@ related:
       - url: https://mma.prnewswire.com/media/1075566/Transoft_Solutions_Inc__Transoft_Solutions_Acquires_Brisk_Synerg.jpg
         width: 400
         height: 216
-  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
-    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
-    publishedDateTime: 2020-01-14T05:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "8qNnFQqe0wJmZcYvrLcHosmVRamQpkapGOpcROZb/Rw6zORNtVBWBJdG+HgrgXc3tF6rykO/e8BXe1K4VEuL3yuBlJEgoVXAJ/Hm0kwDuTZF69wKmN/gjqJjySHLwP3oCgE1YLL2o+Xp04ewTuhwnQPz/Bk1lJ9RLs4JOF92Shj2czWXHZDsdLdbKdQ1kdUXP5OFoym9y8Od6mjrcmJcTFxo5gn3PEn4sugsCx/PNPeLMNApq/mUATABwYrHLZfQrO69RAu70iTww3vSc2TeBtV+V6cBew2PY+GSPS2JOFo=;k8PEXQmQou9ycrkrhbygBA=="
 ---

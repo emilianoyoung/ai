@@ -22,12 +22,14 @@ related:
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z
     sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
     type: article
     provider:
       name: The Root
       domain: theroot.com
-    quality: 0
+    quality: 11
 
-secured: "9VdkVhaPgSN9C21FcoPBoCbAcpMDZyujchhMuC2CZZ1zzQCaySTWGsU2c70S+VzFUREWxXIrVxCEbcndlaVuwL/76lv2YtTrNpQC86E4vgpWHQQfqkyqGGvIBD7qKyAb+9Ypm4SNkgszKgd8zVldHduD9Ywx87ZHwYmHaoZHsLHFil9zXlCTprg1HwYdQ2uI6yPkT3H+G1sHBIRKaf2IrR5+Y3EWBm8dlcaIT06Gm1fEoArhmgltKamztd0x3KGs3WepG7E4+3JYXB8Nj0Cm4ZYDa5gw5DVJY1u4CGruIXY=;A5muAL6YsddVLfGMBhbOjA=="
+secured: "aL5PwZvt5WD8AqTovr40Iz7xT8pZ0ZJs2/DXIqhTNR+soAu95qXmEzu42gr4o0pZjo2sLBeDuLI79T5a1s1BIiraHv03zRoGW/IgX/fOZ1hZIiWHMIoAvmgxxmqbr/nzxnt7HM8eEcLqTHdTWIfefiwcKfNnPqFPTt6sPU24Rti+k3qGqeLo2mHPOiRexCWyqkuvY/XH6HbVI6slM16fBN3zPAci5bVLq517ziu9o5QcnTlxv9J6F7rimcG3oinkGXxtcD0bLXBdY6lHrnhbrauF8tfuoCBK/U84cXzrPaQ=;8eO7dmooZaM6GQHKGBKLpg=="
 ---
 

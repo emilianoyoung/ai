@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
-excerpt: "Artificial intelligence holds the promise to revamp how much of corporate America operates, but one problem can be determining whether early initiatives are on the right track. For Hussein Mehanna, the head of AI and machine learning at self-driving-car ..."
-publishedDateTime: 2019-12-30T13:12:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12-1028787955
+excerpt: "When Hussein Mehanna was at Facebook, the social media giant went from testing less than 100 AI models to over 3 million each month."
+publishedDateTime: 2019-12-30T13:07:00Z
+sourceUrl: https://www.businessinsider.com/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: Markets Insider
+  name: Business Insider
   domain: businessinsider.com
   images:
     - url: /assets/images/organizations/businessinsider.com-50x50.jpg
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "JmO/fVIOys7MWDm2uWPmlMJ0qFsn4a3jCEqVG1EVWxELKSL/jgj4isnvv8FrIcwjSzUV8DOYaEl+vCU28KuoVs1dydUyrsU8Fcz7FX5ayIOaFZgya9f+5bR3pkcXdo0FO4YO4hX5O+KnuPyWOnka6V4z3tXfEIVW94tIDUODOyUG49i61zVYy9g/XLvkIgKva6kqQuWxhTK2AFA2n8N7DZp2UPl3ccz0p4bNUFdj9+c//i7NXXQrEUtbb+8lAQosHRO55FuUFq7/XhM+glSf66ilbPd48TVIm8fglYk76UI=;g8ROL6OWOl36Ojtdo6RnVA=="
+images:
+  - url: https://image.businessinsider.com/5e066222855cc242fd196ed2?width=1200&format=jpeg
+    width: 488
+    height: 244
+    title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
+
+secured: "ZAVCDLGqYRqxxDNcc2YwiUFVCAHySS54e95QEpTGJrQbeDsPLdHUpy+F36rZR+95716CALVdI103UlWHXcjVe1Uy9aqk2HyQRyqjzRMX99+PMBAaydruYu4C6m59SPUzlbFOmSJKnGjkDdGNhYGW6GKKWJriLxZFGXJvleL12hne603/tB0iHoxahWtLGF4RhztX/6EY1jZWjTjQspoSRYY0R+DzXkiadySRcHJofNjLek8RsCOUI8KX5bfSwCxiilY7Erueg/BVatEoRok8zcd6CPdRBdYxZhgUmh/BhaC4g7mU0GIaAUg69A8914+n5RXsywi55g8H9mnokLBpLD7XegKmk77EqSClyD3XiQi1pWtMNsLcR8kn33KJqqaO6f0vh5ekMIzevaImxnmOGofAreEczDO2RWnFhfA5r37NYVFd8uf8IhoOZzy+SbzVr+gFag2dSZbOCinwHkJOSg==;9U5HgwQMUD1UHnMwYyx5+w=="
 ---
 

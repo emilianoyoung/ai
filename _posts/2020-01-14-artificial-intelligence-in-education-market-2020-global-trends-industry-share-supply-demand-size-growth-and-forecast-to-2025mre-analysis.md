@@ -49,6 +49,26 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+  - title: "Technology Trends: The evolution of machine learning and artificial intelligence in 2020"
+    excerpt: "Technology trends in the upcoming year will focus on how new age technologies such as machine learning and artificial intelligence will advance While technology trends in the past year revolved around making machine learning and artificial intelligence ..."
+    publishedDateTime: 2020-01-15T16:44:00Z
+    sourceUrl: https://www.dqindia.com/technology-trends-evolution-machine-learning-artificial-intelligence-2020/
+    ampUrl: https://www.dqindia.com/technology-trends-evolution-machine-learning-artificial-intelligence-2020/amp/
+    cdnAmpUrl: https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/technology-trends-evolution-machine-learning-artificial-intelligence-2020/amp/
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 45
+  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
+    excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
+    publishedDateTime: 2020-01-07T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "India Artificial Intelligence Market Analysis, Growth, Trends and Forecast 2019 - 2025"
     excerpt: "India Artificial Intelligence market is estimated to grow significantly at a CAGR of 37.2% during the forecast period. There are a lot of opportunities available in AI technology in India with the increasing adoption of technologies."
     publishedDateTime: 2020-01-14T10:29:00Z
@@ -76,6 +96,28 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
+    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
+    publishedDateTime: 2020-01-10T20:05:00Z
+    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 37
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
+  - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
+    excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
+    publishedDateTime: 2020-01-13T12:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
   - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
     excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
     publishedDateTime: 2020-01-07T13:21:00Z
@@ -170,6 +212,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
+  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
+    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
+    publishedDateTime: 2020-01-14T08:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
   - title: "Automotive Artificial Intelligence Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
     excerpt: "New York, January 14, 2020: The global Automotive Artificial Intelligence market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World."
     publishedDateTime: 2020-01-14T05:28:00Z

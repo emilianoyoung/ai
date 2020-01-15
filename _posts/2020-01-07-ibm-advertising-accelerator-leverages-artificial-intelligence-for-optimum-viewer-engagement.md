@@ -73,6 +73,19 @@ related:
       - url: https://tr3.cbsistatic.com/hub/i/r/2019/02/12/3b55ae83-1c0a-461a-8ccf-3964205e96a9/resize/1200x/715741543e5422545dc09137e2673bd0/ibm-watson-940x705.jpg
         width: 1200
         height: 900
+  - title: "IBM Launches Advertising Accelerator with Watson"
+    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PRYW1OHig3OivDLZc9jD9Q--~B/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/938103bda68c090c59b89ba41bbfaac5
+        width: 400
+        height: 225
   - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
     excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
     publishedDateTime: 2020-01-08T21:28:00Z
@@ -108,15 +121,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
-    publishedDateTime: 2020-01-07T14:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
 
 secured: "ikFn6vYuuxqaJh+cZCGQN7uV5ULd/KijdtP3w66T2wiadwukmQuTtP3koIwX6Of6peKBkdIyRGJ1Wxy3rq1GuUfNHGKpGvuFavi99yrIHJTHLzWt5Eh5sl01HniGXQselM+34qYSMxb6d7cMyxZ0FTiB4EtVit+ScNCb9W//3bgYbi4iX+8HAWBUwbeAzPKYphUV/J3aOJpLKx8Kw2Q/6UCI5JXfqZCl3qNeedoLixTjuqhsf7Aur7GN3FEeoiWK5hZFSMC51T0Occz/4TmyOUOFObc/+xyr5bAb3z6MwQf8/eknrn/PicN5CKkrUwNv/PgTNSDzx5khXGXrh8D0gpgjJKr9dM8G6mtrCHqrRSKzs3kIdNhR+zb8um8d5p3VEGoPfJoYnbMyHKmK8MPIAeEDmLV4LhJxRBXJl6bu3WVOu2p/DblBLNT3Jm/6B3vs7yng6x3uIGEYHYsqPB9YMw==;sr4eyBArm49lwfs6g7jbJQ=="
 ---

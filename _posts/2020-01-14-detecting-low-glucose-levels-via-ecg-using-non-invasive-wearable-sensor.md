@@ -52,6 +52,17 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
+  - title: "New AI-based technique can spot low-glucose levels without fingerprick test"
+    excerpt: "Researchers have developed a new Artificial Intelligence (AI)-based technique that can detect low-sugar levels from ... Basing on this information, clinicians can adapt the therapy to each individual,” the authors wrote."
+    publishedDateTime: 2020-01-15T16:14:00Z
+    sourceUrl: https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/
+    ampUrl: https://www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/new-ai-based-technique-can-spot-low-glucose-levels-without-fingerprick-test-722291/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 37
   - title: "New AI technology to detect low-glucose levels via ECG could replace finger-prick tests"
     excerpt: "Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: The differences ..."
     publishedDateTime: 2020-01-13T13:29:00Z

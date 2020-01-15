@@ -8,8 +8,8 @@ ampUrl: https://finance.yahoo.com/amphtml/news/asia-pacific-retailers-buy-intell
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/asia-pacific-retailers-buy-intelligent-010000834.html
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: YAHOO!
@@ -26,41 +26,47 @@ images:
     title: "Asia-Pacific Retailers Buy into Intelligent Future but Yet to Realize AI's Full Potential"
 
 related:
-  - title: "Artificial Intelligence and Machine Learning"
-    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
-    publishedDateTime: 2020-01-13T17:47:00Z
-    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
+  - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
+    excerpt: "Read the full chapter on capturing the Fourth Industrial Revolution. The future is intelligent: By 2030, artificial intelligence (AI) will add $15.7 trillion to the global GDP, with $6.6 trillion projected to be from increased productivity and $9.1 trillion from consumption effects. Furthermore, augmentation, which allows people and AI to work ..."
+    publishedDateTime: 2020-01-13T19:12:00Z
+    sourceUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/
+    ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
     type: article
     provider:
-      name: aha.org
-      domain: aha.org
-    quality: 56
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 50
     images:
-      - url: https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg
-        width: 1500
-        height: 1038
-  - title: "Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG"
-    excerpt: "Additionally, we present a visualisation method enabling clinicians to visualise which part of the ECG signal (e.g., T-wave, ST-interval) is significantly associated with the hypoglycemic event in each subject, overcoming the intelligibility problem of deep-learning methods. These results advance the feasibility of a real-time, non-invasive ..."
-    publishedDateTime: 2020-01-13T10:10:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56927-5
+      - url: https://www.brookings.edu/wp-content/uploads/2020/01/global_tanzania_drone.jpg
+        width: 6720
+        height: 4480
+  - title: "Op-Ed: Using artificial intelligence to diagnose cancer could mean unnecessary treatments"
+    excerpt: "The new decade opened with some intriguing news: the journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
+    publishedDateTime: 2020-01-12T19:00:00Z
+    sourceUrl: https://www.latimes.com/opinion/story/2020-01-12/using-artificial-intelligence-to-diagnose-cancer-could-mean-unnecessary-treatments
+    ampUrl: https://www.latimes.com/opinion/story/2020-01-12/using-artificial-intelligence-to-diagnose-cancer-could-mean-unnecessary-treatments?_amp=true
+    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-01-12/using-artificial-intelligence-to-diagnose-cancer-could-mean-unnecessary-treatments?_amp=true
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 27
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 48
     images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56927-5/MediaObjects/41598_2019_56927_Fig1_HTML.png
-        width: 685
-        height: 285
-  - title: "Budgetary, policy, workforce issues influencing DOD and intelligence community IT priorities"
-    excerpt: "IT solutions such as cloud computing, modern data management, big data, cybersecurity and artificial intelligence are in high demand by intelligence agencies with increasingly complex national security missions. Deltek forecasts growth in IC IT investments from $9.9 billion in FY 2019 to $11.0 billion in FY 2024 at a Compound Annual Growth Rate ..."
-    publishedDateTime: 2020-01-15T15:02:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/15/dod-and-intelligence-community-it-priorities/
+      - url: https://ca-times.brightspotcdn.com/dims4/default/e2b42b7/2147483647/strip/true/crop/1764x1152+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2Fc0%2Ffbe5b7e6eb29d395ec34d7270577%2Fla-1536771483-enda60na6o-snap-image
+        width: 320
+        height: 209
+  - title: "Retail Artificial Intelligence and Extended Reality: Operational and Legal Trends"
+    excerpt: "The retail industry is at the forefront of innovative uses of artificial intelligence (AI) and augmented, virtual and extended reality (XR). Not only can AI and XR tools increase business efficiency and opportunity, but they also enable retailers to provide the customized interactions and convenience that their customers desire. To meet ..."
+    publishedDateTime: 2020-01-13T14:00:00Z
+    sourceUrl: https://retailtouchpoints.com/features/executive-viewpoints/retail-artificial-intelligence-and-extended-reality-operational-and-legal-trends
+    ampUrl: https://retailtouchpoints.com/features/executive-viewpoints/retail-artificial-intelligence-and-extended-reality-operational-and-legal-trends/amp
+    cdnAmpUrl: https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/retail-artificial-intelligence-and-extended-reality-operational-and-legal-trends/amp
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 0
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 47
 
 secured: "5tII1U0geOzhB3yMz6LT+OSQ8gkwEMeaklQqXSOrZJqnqW4qBQcNBqQZzu1CcM1rSi9Ucr8zTQ/IPluMvJJMLytr6wvswqtOOWIoHhq/CLFiInf3AHsWxXZEoI91TMJQ8BDi3PbkVscVj6/sAn98gn2BI2XfvAe1xyhUVpeAgS9eWR13IcVaa6vFWkOnggBFKUHy+XDjVu53yE2lgSMKTtG0kUiivfBXKxXnUwEfNFIllucLjv6PtkdPaQZDWoqYKk0M9S8fpAPlz8b8jJVNXgpt4HNRs5Nwz6W6GMBA9jb9QDpJgazbHt3XpVglE5HSVvYSA5RdOG3bd6gYS4rxgAUZVE2tqtcpzXc1AmWmcoggecUpcUjmHeo4KTW6/STQcmcqVnLvXxCThBz3aGlE/5S/owickhR5kUiUpzzcLKNT6wF0WgyomoEx0iTshGWrxBpJUZyWZeOtV1b77XxyRw==;f5cfv05F7ExQjrdiMF/k2g=="
 ---

@@ -80,6 +80,19 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2017/03/1488544544_img_2239_story.jpg
         width: 760
         height: 428
+  - title: "IBM Launches Advertising Accelerator with Watson"
+    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PRYW1OHig3OivDLZc9jD9Q--~B/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/938103bda68c090c59b89ba41bbfaac5
+        width: 400
+        height: 225
   - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
     excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
     publishedDateTime: 2020-01-08T21:28:00Z
@@ -106,15 +119,6 @@ related:
       - url: https://cdn.pulse2.com/cdn/2020/01/IBM-Automation.jpg
         width: 1200
         height: 693
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
-    publishedDateTime: 2020-01-07T14:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
 
 secured: "86bVjUhNBqET6GQgC0Xz2h+AYukH8uIynqeoKx7lxfg8gMx+GVmflOWjUAFQIn9TVvK3la2Qt0zx6a4KGk/rWPYLLfZYLIBYRixLl7i+ZAZ3/8hWaHTZSUcZl7EXwLUjRwuSGoAMVDJzUdP08OwPmKBIft1NKtWQGEPN12/OsIPI686PEOeHomO0T8HhWuwSUGBhlaZpLiNlm5NA+BruTSQH9KPJ8AqTtm1aY7FjpO/cjXHL6+aJf4ImGckV79gUK29loGnr2ibeTzC5Dy/c4jQ6e0sAX3C/njsNAvp9dRE=;ULS0zVUbtHC1j87oxEcdTA=="
 ---

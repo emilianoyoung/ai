@@ -22,12 +22,14 @@ related:
     excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ..."
     publishedDateTime: 2019-12-17T09:39:00Z
     sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 34
+    quality: 54
 
-secured: "qcMGUNGzUxOIGPoM2vyqDrnW7JK+iDzHKMqOAdy42o6hd3mM0mHPuPVDuHaRAmWtP0HApUEAt2ylYb9VDhKmxZ+WXhxFPwB03UHOqYXI6b8+CP0LzicKGtzlWnk2TY6AeCBPRZgX0ad62xKtpQWVNY0NRCElSO7xwnCAC8T+raWT21rDNPotr67KV3mGyS69PRBWD49X06rmkk6B/IYl9rldwosjEgS4r2SXVgnqAEf9fw6yWTYSLm4ZnoUCvkBu0/rSwA8qXepxYetcYGmqkVTvgGEEUjRQZr0Vc+C8meo=;h6dDjOE4wfeEuUQ5Xa21kg=="
+secured: "JRnCBAs4rm0wtweONxa59DcMlPKI62lbB7MrTIXQI6/XoXh9ZAjS4lfFlAf9h+P/pe293ksSTqtoDHDjTFVwJN9TxyJb7Wx7LUKw0rRT2Q+Vx8mIYs14muGOrSdKwhgs3ZSBaBkem8GIMFIXoV6LBG3uyW8Wl8W47cVkEIKnjqqSUtUOWZC4xsE91mNRU9U/eU2DPkMARX/ZnLvogY4wLkV9nvQb/+aoD19kmtjvIhvI7XQ1lFWNfXe5wGDBt+FbB0dU1Y0RosBHaJ/ltNAD1Op++zL/dNBtlPYnXceDZis=;Dw1lgWcVmGKqtkXP7jPNJQ=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Like the functions of biological sensory nerves, the proposed APT nerv
 publishedDateTime: 2020-01-14T10:25:00Z
 sourceUrl: https://www.nature.com/articles/s41467-019-14214-x
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14214-x/MediaObjects/41467_2019_14214_Fig1_HTML.png

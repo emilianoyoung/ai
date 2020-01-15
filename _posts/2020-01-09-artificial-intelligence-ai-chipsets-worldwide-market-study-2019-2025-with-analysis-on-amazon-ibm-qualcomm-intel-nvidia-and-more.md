@@ -5,7 +5,7 @@ excerpt: "We use cookies to personalise content and ads, to provide social media
 publishedDateTime: 2020-01-09T12:45:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chipsets---worldwide-market-study-2019-2025-with-analysis-on-amazon-ibm-qualcomm-intel-nvidia-and-more-300984314.html
 type: article
-quality: 2
+quality: 17
 heat: -1
 published: false
 
@@ -16,7 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - AI in Robotics
+  - AI Hardware
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
@@ -67,6 +67,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "hXjiqYbKrepN29v4Vc7H0lKWrVRxMXa/hrK+ZcEUMTmCwVYjLLG0IM5OM/a1VkJ2/VtWLL7q6xeVqpOYzC99eFNioL1DSiknkDTpKyv48Z5wvFl/O7OcaKz+Immq3UjMklD7Q1kUlhZazm82JTtwDRxJp3RHoK6/fyc/CFJPAKtQjPs8wq5fHHzjmR1+JaUJUpb1JLCjnJNlwkcM23uFUrkdbMtzWU1tncTklg4V4jD/cyoqObgnZuOK3ENykgEnRbIXQqBtGO0c4JNvpjnWrQ1bTI5hN6hbdu55v7UeZVY=;HGpsx+ik3wkbmBJTxOCG7Q=="
+secured: "CZQZm6HZia7CbFBS8SDb46rDxFYgzzNq+y2XIeWxqgG0+XC1vzaB7YsVXrRz6hHYqNxHRsc2rvoG1ihBFdr57Y+1msj/x7y7MAPKKARo2IQxkIYQEsTkcVZksWLjDZ2Ln9pSfKSugFnZ4Imx5Q5MI8l/R1pGMG/L+vm2iy/oEgW0QpNK3/JI3f0NX8p330kXpHnJuK3U5FJCcs762K3iqIyAaBuc9aa445UeG+imIG3Zu5HG9NbY3TIYfsc+kpzDn0yA1t7PFrwrKZywYXTJDurR5EvPXlww2zN3KdORCKg=;wsrjQddRvR4y8096c43a7w=="
 ---
 

@@ -73,6 +73,19 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2017/03/1488544544_img_2239_story.jpg
         width: 760
         height: 428
+  - title: "IBM Launches Advertising Accelerator with Watson"
+    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PRYW1OHig3OivDLZc9jD9Q--~B/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/938103bda68c090c59b89ba41bbfaac5
+        width: 400
+        height: 225
   - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
     excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
     publishedDateTime: 2020-01-08T21:28:00Z
@@ -108,15 +121,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
-    publishedDateTime: 2020-01-07T14:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
 
 secured: "fDhIobxA7MvNeELzeG1qgyCsBKXEiOR4lb+FxzLshMC1UZ/8FIziGqp14Y7T2BL+7SNmbjtDxpmPnvFwrYOXAJ3M7+BSs0R7PKIv0F/7hLKBvnwouQG/AeGh7HuejVCjYhKAlgBKQcoxLtk90Uccv5bZE/iaK6D1nCQJRxfma3H+U92XQuULg96sXZMr59HexwW3IehyCscVCzZQzh/Sya+wRCYFw0V7enSm6Ap5KAIextpkuFvHDGBjWKlCa4V757W/+kRvybaF144ZqL1z9aMuCypTAQh6ndDUpMNYk8x5+hingDVCZLfNFB7YEE6w+Rv+8jAh7JbgTwN7iHizfOXQ+Kyhrlxk4n6Kw882M2BzGgdfk63VcH1ZeC6eYG7I5xK3j0pDlIZVPdtGSTqaC/BJMFceOCYZfWQEXw5oVL/BlsDqj4RhuVi4zcMbPlAMc0hbMQo88AchwXkjsE/d0Q==;6FhyfikUHO/ryV+cL8XHew=="
 ---

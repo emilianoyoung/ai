@@ -7,9 +7,9 @@ sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
 ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
   name: Android Authority
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg
+    width: 920
+    height: 470
+    title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
 
 related:
   - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
@@ -39,64 +45,29 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
-  - title: "The Emerging Meta-Learning Oligopoly"
-    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
-    publishedDateTime: 2020-01-13T12:23:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+  - title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
+    excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
+    publishedDateTime: 2020-01-13T22:12:00Z
+    sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 28
     images:
-      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1195656750/960x0.jpg?fit=scale
-        width: 711
-        height: 474
-  - title: "Microsoft is throwing support behind these Hopkins AI and data science startups"
-    excerpt: "Through a new program, Microsoft is supporting five AI and data science startups founded in Johns Hopkins‘ FastForward program. The teams are the first to receive Microsoft acceleration awards. It’s a way that the storied tech company is working with new ventures, and is doing so with a Baltimore-based university. “Johns Hopkins has a ..."
-    publishedDateTime: 2020-01-15T00:01:00Z
-    sourceUrl: https://technical.ly/baltimore/2020/01/14/microsoft-acceleration-awards-grants-hopkins-artificial-intelligence-data-science-startups/
+      - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1051617224.5e1c25379b3da.jpg
+        width: 960
+        height: 532
+  - title: "Integrate machine learning models with your data"
+    excerpt: "Integrate your best algorithms and machine learning models seamlessly into your application in a way that will help you deliver real-time experiences, while at the same time giving you the corporate governance and ease of use that you need to scale. Kinetica seamlessly integrates machine learning models and algorithms with your data ..."
+    publishedDateTime: 2020-01-15T17:39:00Z
+    sourceUrl: https://www.itweb.co.za/content/kYbe97XxNlB7AWpG
     type: article
     provider:
-      name: Technical
-      domain: technical.ly
-    quality: 50
-    images:
-      - url: https://technical.ly/baltimore/wp-content/uploads/sites/3/2017/05/ff1812.jpg
-        width: 1200
-        height: 900
-  - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
-    excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
-    publishedDateTime: 2020-01-08T23:21:00Z
-    sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
-  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
-    excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
-    publishedDateTime: 2020-01-07T12:27:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-  - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
-    excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
-    publishedDateTime: 2020-01-13T12:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
 
-secured: "oaazWdPxM9EtKyt6CSEkrqEp4Xa5faEuRMAb3+QTDsveIZWRqj0rKx60xP65x/M8D3/FRrabzPZGzWuVHJg23qd0e6QoiFYG2D8tJOAIG4xkpnlo/+EabJZT87aXXdbWX+yJ3tgO4PuRbf04qebinzNDcj/pwOMJSGmaUpDrZ+CgKRT6jI/rcKo2fMvGLnDhxQzm0Zy1Jkv7ZjQbu975GVH7sMOvvRpcuM+8w2l0SdmAhosJBcJ32afonuGMQFAaEsqxseSy11lACrOT5OrtmZrp2GkNFqrCiFYCkvrqXSk=;lbKtjvmNyXO/FcP8m0kJnw=="
+secured: "lBjRPJ8jSTofRo1a8PmDm33AnOQa5W+mTb23664KaTDOrnjl6dppPzajpZFVGQ+PhXOezOw55mJdWloXZBGt6QbmnVUcLt8q1kE3TdPrULaf2bnJHVzIklQtTH/KSM4CBDxobEIxw86TbGaxToK/0TlPC0EynbiufxFeEDTFAen55sTNsBOQ5SdB5xMLZgIlAAoQE22aC255wE02vhVQGojFrL9JDmJoJBsh0VtPSS5xi1QCztW4Q/JJw//qVe7h5NWZEyqKXR93QFLHwn4b5jxs/dkbH6r23IPUIDR2TG4=;/HpZCDlgYvHcBeyYvGvIzA=="
 ---
 

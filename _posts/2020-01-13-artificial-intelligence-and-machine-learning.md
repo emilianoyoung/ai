@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-13T17:47:00Z
 sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: aha.org
@@ -25,43 +25,30 @@ images:
     title: "Artificial Intelligence and Machine Learning"
 
 related:
-  - title: "Asia-Pacific Retailers Buy into Intelligent Future but Yet to Realize AI's Full Potential"
-    excerpt: "Trakomatic, an award-winning Singapore-based video and sensor technology start-up, is investing in AI solutions from Microsoft Asia to deliver intelligent retail experiences. With consumers increasingly demanding seamless online-offline shopping solutions and sustainable business practices,"
-    publishedDateTime: 2020-01-13T01:52:00Z
-    sourceUrl: https://finance.yahoo.com/news/asia-pacific-retailers-buy-intelligent-010000834.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/asia-pacific-retailers-buy-intelligent-010000834.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/asia-pacific-retailers-buy-intelligent-010000834.html
+  - title: "The Emerging Meta-Learning Oligopoly"
+    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
+    publishedDateTime: 2020-01-13T12:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/3sdz7GXwD4EfEnJrzkZADg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/uu/api/res/1.2/SxYOmT5uk4GJH6itt86rYQ--~B/aD0zOTk7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/2e65cf15426ab60ebfa591055974dfd6
-        width: 600
-        height: 399
-  - title: "Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG"
-    excerpt: "Additionally, we present a visualisation method enabling clinicians to visualise which part of the ECG signal (e.g., T-wave, ST-interval) is significantly associated with the hypoglycemic event in each subject, overcoming the intelligibility problem of deep-learning methods. These results advance the feasibility of a real-time, non-invasive ..."
-    publishedDateTime: 2020-01-13T10:10:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56927-5
+      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1195656750/960x0.jpg?fit=scale
+        width: 711
+        height: 474
+  - title: "Rising startups: machine learning spreads everywhere"
+    excerpt: "Eko.ai uses machine learning to automate the slow, manual, and error-prone process of measuring and interpreting echocardiograms or ultrasound images of the heart. The funds will be used to grow the company’s development team and accelerate commercial operations in the US and Europe, according to a statement. More info. E-sports and community ..."
+    publishedDateTime: 2020-01-13T06:13:00Z
+    sourceUrl: https://www.techinasia.com/rising-startups-smarter-agriculture-education-logistics
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 27
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56927-5/MediaObjects/41598_2019_56927_Fig1_HTML.png
-        width: 685
-        height: 285
-  - title: "Budgetary, policy, workforce issues influencing DOD and intelligence community IT priorities"
-    excerpt: "IT solutions such as cloud computing, modern data management, big data, cybersecurity and artificial intelligence are in high demand by intelligence agencies with increasingly complex national security missions. Deltek forecasts growth in IC IT investments from $9.9 billion in FY 2019 to $11.0 billion in FY 2024 at a Compound Annual Growth Rate ..."
-    publishedDateTime: 2020-01-15T15:02:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/15/dod-and-intelligence-community-it-priorities/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 0
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "8/e/gnM+feTREu35tYYcENx64phmy4OZHz7h8l0YAUTlEuu97S/F89BQQitOodxn5h/vbqQL9VzD7xympJDKC0zijgkUbfTgbh0T/XDlvpfuL8L7TmArPTB7kcCSpQWVQ0LqHNWphL+/zffk8VckZaB9cMK+hVBRGmTe/vkhGg5/X3iDgeC6Ml4T3OlFQR8Y0YXj5uZtaUpX5lB6LDKW4QUCpO7p0P4FXUDZvTuAy+J9DykLFR1cnMJ4tW/LRMD0fMx6ze2LIGtpp15CFNF0M3nQzAS0gkTAObVhsnmT1SQRU9+RIxYWzN5Vj8TEh9msD2y6qy+qtjHjVRx4iTiyy5ZxVX8myWhK/9FwGFM7hNw8A3i6BizQmC7ps+T8Vy0QQdGUFHoV+K3rIGoHh6VFfQjRynrbl0OlVdNYqaUML3dnh2hKFApUFfbHwCQ2E1O7S38GfP26KmrTQeFfmkCZBA==;IjyMmyA2mKloL17YHpta7Q=="
 ---

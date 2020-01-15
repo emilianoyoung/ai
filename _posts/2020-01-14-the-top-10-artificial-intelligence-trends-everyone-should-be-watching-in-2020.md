@@ -51,7 +51,7 @@ related:
     provider:
       name: ABC7
       domain: abc-7.com
-    quality: 41
+    quality: 43
     images:
       - url: https://CNTSYNCONT.images.worldnow.com/images/19095329_G.jpg
         width: 940

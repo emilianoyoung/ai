@@ -5,7 +5,7 @@ excerpt: "today announced the launch of Advertising Accelerator with Watson, a f
 publishedDateTime: 2020-01-07T14:51:00Z
 sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - IBM AI
+
+images:
+  - url: https://s.yimg.com/uu/api/res/1.2/PRYW1OHig3OivDLZc9jD9Q--~B/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/938103bda68c090c59b89ba41bbfaac5
+    width: 400
+    height: 225
+    title: "IBM Launches Advertising Accelerator with Watson"
 
 related:
   - title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
@@ -112,6 +118,6 @@ related:
       domain: marketwatch.com
     quality: 31
 
-secured: "pEtLTZhMkGS14GxhQLHMqqD/KY87Bs/C2MgLSPz5LDY6RyHRsyMbgiNWi4ISDEeo7z8gqY86QncvSbY5jkGGxdcvngaE2ldhXC4t0qPBSTXSWBaLwTb/nz4oZ58pIJs+all8SVXWeFOAndMSI2u9EEjZT3HGddL3MUcdMV2EnkcjQlZKGrFKwEcvHZ8jjwEHfmqhAch7Vl2WHGxJiCk78SwKvoRs8kNvrnC2EcP4xUZ7LAvtw7mK8ltIWxgPViMmOa4cWyfrCYQtKWBe6mX9sW7VzBAJHHjOdlHaonnKSaqJw20O4Scdb86OOAWO4apRztAmGs6vkDiSyGkLajGGtkJDp8p4thYnI01Nh3Z+JxojlfT2FgQNdr5ZnYCI9LZR3yVE1OSGUjqf81lMRl6EQbweNFbezCSP2xi1QtHZORL+XuGUoRkpQNIpxwKDVD16B7QIpArjCpwcXVvSeYOzvA==;QHLc32Xi6Bf6q2/ThR52hQ=="
+secured: "QhzBLlK4O3hHRMjnjiPWYfwD0m8yWX590bUgG3UMEZj4K1x99DLsJ5DfoOnUxzKNNZ6UXOnmakvTQda//FVecE99P/Rc5bYeBj1qUP2ho85v6Gzq9sVzxqO2Ib0dIFPTZsqM86r0wJ2ls6wpaHCj7LVqA2ZIxydt0BZs96JaJyZbjDmj2eueT+4AkgeovQV6LtmTgyCLPGnkEt0LQlsDl8swoLxnCK3sEowJs9Y3VvvSOwBjmjwpZafCmJ+PsqgGByh2A/T7ypib/2IK874lgKFVcaKcI32mDBbqjEXF+Mk=;5ewDtJCjEfVYTuryx1b12Q=="
 ---
 

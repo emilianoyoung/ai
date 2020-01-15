@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/14/ai-driven-disrupt
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/14/ai-driven-disruption-and-transformation-new-business-segments-to-novel-market-opportunities/amp/
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       - url: https://mma.prnewswire.com/media/1075566/Transoft_Solutions_Inc__Transoft_Solutions_Acquires_Brisk_Synerg.jpg
         width: 400
         height: 216
-  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
-    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
-    publishedDateTime: 2020-01-14T05:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "rD6sPkBK3KWtAJ2kZ7v5sLCOnQzyg5UkC9VDJpioMpgBKYrcDb/jBaoTdavC4ymuTJYctbMlC9bbEHlpHlzMLvZWjry0QOOtfxjkZaqzJy8unrUCV9qrTW0yMrCnHpw9iiWNuy1Diqi78bY4Rx1UU2hcW+FkNnn7k3tudQPTdaZHv3XyYAn5Lu6O925+HVO4QV5h+ssS+4HOOKH8ES3xRGUgiZFJQZAerhxE0DgtOAP8MsFSrlCRt63SBFiIehV1zScaEUBU+Qz0lub8KPC8JXgj7jTiYOnMIfVqgzL3oi6nXRdZ9Ynsyi8m990k/aK9hDHtFHPgYIO1wXM45B0hAlia0ErD0rot2quDIJL1OHXKS/vZE6jmTRW3cUn1TTNMUluzpUCjhOi4zs45CO+aRNclsJp0K8Iz0PDpL1inrJFevOvtZKIqRoEkGs/z6sT7ROMDsAc7jOXAJtq1NUo4XA==;9fkuaxoX0pWGsVmuUZmlMQ=="
 ---
