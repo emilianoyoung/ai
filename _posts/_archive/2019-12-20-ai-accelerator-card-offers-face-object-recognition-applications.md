@@ -1,17 +1,17 @@
 ---
 category: news
 title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-publishedDateTime: 2019-12-20T23:50:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+publishedDateTime: 2019-12-20T00:00:00Z
+sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: BCW
-  domain: businesscomputingworld.co.uk
+  name: SecuriMetrics HIIDE
+  domain: findbiometrics.com
 
 topics:
   - AI
@@ -30,6 +30,6 @@ related:
       domain: theroot.com
     quality: 11
 
-secured: "E4HFY8Ydyr+Zm4UNnWm9NKSaTdUvfONcjVHyyofgnQUbyF2G1uhofx62JO9Fw2pjwLNjK4AuEqDu058bGVOO48+GnDXvcJoXpZyGLhFa5um6a8mIkOzN5wOe5uhpDzqZcK+yy9t4AvBDzuH2Rc/rHLkYBWMcHq17GK0pWLDfPFfbf5LeHKCA8jRWDqyTm8XbZplsdxunpfUl64Zr/lNu+y1HrTRdL1YngChDa4FjVxibtg6CGju+FLBg2Uve3woqAbDvCUYC2B2NEL1aFTOUlKzpUlEPPOuTuzFIiuEhN1Q=;csjJTHTxwLT1FxNJsJs3cg=="
+secured: "v528o9q/M7o/9c9NUlthC4OeiGJLWONzT7Ozy/QZ867ZybC7xFbr7jXp7Lk6AH0LO5q6Dr4K1wS52pj4yvwgc3jNqYUzg+Mb/QkaEt5ILhjsMFg6CDjogEDuy/DCzzIg0jT8WzYcU8V87Dm/LxIjubbbxNnuxV0xL9/UQ4cd2Ffu7tzUAFyI3FkXBj8I99ZglWQ3eobsh/ykcboQMfYpW90fqen9SgeLF0Q3tkAcTjp0q9GtHBcKU55GgGT3qFE9UQ0KaL1yilQPUc4GmfHx2ezqe6nttF99x31B+2uSRRw=;lTIuFa9WMu4/esOKczqt4Q=="
 ---
 

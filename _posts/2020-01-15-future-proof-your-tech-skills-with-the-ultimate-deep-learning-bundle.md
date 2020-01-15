@@ -1,19 +1,23 @@
 ---
 category: news
-title: "New approach using deep learning could speed up brain image microscopy by 16 times"
-excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
-publishedDateTime: 2020-01-08T23:21:00Z
-sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
-cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
+excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning and NLP Certification Bundle for the skills you’ll need to join this revolution."
+publishedDateTime: 2020-01-15T10:02:00Z
+sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
+ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
 type: article
-quality: 48
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: News Medical
-  domain: news-medical.net
+  name: Android Authority
+  domain: androidauthority.com
+  images:
+    - url: /assets/images/organizations/androidauthority.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -35,17 +39,6 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
-  - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
-    excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning and NLP Certification Bundle for the skills you’ll need to join this revolution."
-    publishedDateTime: 2020-01-15T10:02:00Z
-    sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
-    ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
   - title: "Microsoft is throwing support behind these Hopkins AI and data science startups"
     excerpt: "Through a new program, Microsoft is supporting five AI and data science startups founded in Johns Hopkins‘ FastForward program. The teams are the first to receive Microsoft acceleration awards. It’s a way that the storied tech company is working with new ventures, and is doing so with a Baltimore-based university. “Johns Hopkins has a ..."
     publishedDateTime: 2020-01-15T00:01:00Z
@@ -59,6 +52,17 @@ related:
       - url: https://technical.ly/baltimore/wp-content/uploads/sites/3/2017/05/ff1812.jpg
         width: 1200
         height: 900
+  - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
+    excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
+    publishedDateTime: 2020-01-08T23:21:00Z
+    sourceUrl: https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
   - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
     excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
     publishedDateTime: 2020-01-07T12:27:00Z
@@ -78,6 +82,6 @@ related:
       domain: marketwatch.com
     quality: 37
 
-secured: "3fNmiszAnBqjLs3VH+brVxYAoXePM81mhuSC5cOdukHzRZd57JnyrHUgPhF/yvZZEFhJGTAectsUzXX4ZgfuSXBaj1JA5F+9WqKF5PpZmQgE6tcC8+VoYp7aYNXf9DEwvPswwENjeWm/wmsoDa2mlLYsFVt46l8md5KRO/+eH6OjX/UT25dPQVolY2BKDg7dhwcgk7qReEGa6Cs/aIcqP958zNuv8eIcaJfTQQ3T7i7+ni3fNzDPtmnYBcHMQQHnxZ/1KoIMMpp9IWkY6friTBq4RreKPadOLSmxVC9IDZA=;Z4TnugQLuIAmitU9r1LzZg=="
+secured: "oaazWdPxM9EtKyt6CSEkrqEp4Xa5faEuRMAb3+QTDsveIZWRqj0rKx60xP65x/M8D3/FRrabzPZGzWuVHJg23qd0e6QoiFYG2D8tJOAIG4xkpnlo/+EabJZT87aXXdbWX+yJ3tgO4PuRbf04qebinzNDcj/pwOMJSGmaUpDrZ+CgKRT6jI/rcKo2fMvGLnDhxQzm0Zy1Jkv7ZjQbu975GVH7sMOvvRpcuM+8w2l0SdmAhosJBcJ32afonuGMQFAaEsqxseSy11lACrOT5OrtmZrp2GkNFqrCiFYCkvrqXSk=;lbKtjvmNyXO/FcP8m0kJnw=="
 ---
 

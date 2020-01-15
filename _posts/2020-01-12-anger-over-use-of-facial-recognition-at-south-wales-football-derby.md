@@ -37,10 +37,10 @@ related:
         height: 600
   - title: "Students Are Campaigning To Ban Facial Recognition From College Campuses"
     excerpt: "Over the years, facial recognition technology has appeared in a growing number of places, including weed dispensaries, retails stores, and even churches. Now, the activist group Fight for the Future has joined Students for Sensible Drug Policy to launch a national campaign aimed at banning facial recognition from college campuses across the ..."
-    publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.vice.com/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    ampUrl: https://www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
-    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    publishedDateTime: 2020-01-14T12:47:00Z
+    sourceUrl: https://www.vice.com/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    ampUrl: https://www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
+    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/epgnek/students-are-campaigning-to-ban-facial-recognition-from-college-campuses
     type: article
     provider:
       name: VICE

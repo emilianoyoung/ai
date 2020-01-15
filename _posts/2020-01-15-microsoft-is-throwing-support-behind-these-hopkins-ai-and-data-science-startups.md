@@ -39,6 +39,17 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
+  - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
+    excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning and NLP Certification Bundle for the skills you’ll need to join this revolution."
+    publishedDateTime: 2020-01-15T10:02:00Z
+    sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
+    ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
   - title: "New approach using deep learning could speed up brain image microscopy by 16 times"
     excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
     publishedDateTime: 2020-01-08T23:21:00Z

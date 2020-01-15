@@ -18,6 +18,15 @@ topics:
   - AWS AI
 
 related:
+  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
+    excerpt: "models for the development of computer vision applications at CES (Consumer Electronics Show) 2020. This solution that will"
+    publishedDateTime: 2020-01-05T23:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 14
   - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
     excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
     publishedDateTime: 2020-01-06T02:34:00Z

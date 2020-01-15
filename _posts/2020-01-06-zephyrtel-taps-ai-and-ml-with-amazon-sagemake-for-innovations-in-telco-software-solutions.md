@@ -27,6 +27,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 19
+  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
+    excerpt: "models for the development of computer vision applications at CES (Consumer Electronics Show) 2020. This solution that will"
+    publishedDateTime: 2020-01-05T23:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 14
 
 secured: "Zucz4R1yw4IJSJZiJqXBxph6SPVBP4CMfseIiSzNETn/6pghXURnY8zeRVJFWp9JOD7S8Jpl71Lx+lKBAPOAbHzAlYcb999grp+b2x2SXFLgdri+/fTZFShOmovxqO8YW839z050mrp35mPq8zgIcEyODswdGD4RUggnO5QfFkRoDljYvIWvTCekMaoYWfZi1YNkqRmBNvFoytZg/zgvGkwTLdKpSQH7kJWWYLMWX47DWvGYD+YvJFyldSWXrsIXvL2gw/u8HcDax++/wsXDy6gVXzvjnNFld4eKwMV+ZJTeRX60ACIhiX0WqdfgefsZNLWzTt7sAUTU4PNQuzGKs8r1v6BEUSUbdCnlMZrSR/e9u0Aoc1VIYY+SZolo/NWIi95iqj/TClYBDO2f5GbO8ixN7NCaQyK4WtBD1voxGC4gUDGXmFcJgiK4LkMHz59QMpPkkSjljR58RPZkLL8DzA==;n8MHZZkxs/dOn9HLTME74g=="
 ---

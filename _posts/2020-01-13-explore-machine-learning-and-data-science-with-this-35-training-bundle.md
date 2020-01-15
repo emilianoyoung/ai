@@ -8,7 +8,7 @@ ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science
 cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
 
 related:
+  - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
+    excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning and NLP Certification Bundle for the skills you’ll need to join this revolution."
+    publishedDateTime: 2020-01-15T10:02:00Z
+    sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
+    ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
   - title: "Microsoft is throwing support behind these Hopkins AI and data science startups"
     excerpt: "Through a new program, Microsoft is supporting five AI and data science startups founded in Johns Hopkins‘ FastForward program. The teams are the first to receive Microsoft acceleration awards. It’s a way that the storied tech company is working with new ventures, and is doing so with a Baltimore-based university. “Johns Hopkins has a ..."
     publishedDateTime: 2020-01-15T00:01:00Z
