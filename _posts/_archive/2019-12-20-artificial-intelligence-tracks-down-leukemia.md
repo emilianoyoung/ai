@@ -34,6 +34,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "0S4PHTMjpZ/alrlemTRjV3ByFfCmco+yOyb+9HJ1yNnrTGXvSJDfVOGa7Cjd0YYob4vihZObapFAh0Ta29zo4pB/MhkXFqXpxzU0Kw/iHc3hW4pQ/j2mJdIXbfDXjg3M0xnd7K6vmKAnIaLSREJ4xILIkZ0N16EPDkK5xn0Nbz8vlCTpBwjVLVZj6o/VagEUX3IH5n/QESm1/a0/pkHIWDjJzWk+Uqoy42uLFOfRev21O1i5uYDDWdf6ErSzrSvoiilaW3awGdystLW337H0JC7NHxxqd8xXn0RTevC/hsk=;TssCSQfR5hskLcknq2VQFg=="
+secured: "o6IKUXcKZSDEMa9ZXxsbKKCu6sGhoK5FRUm4HxRcB6k+OswkGzwE7OJKDwCDccJpc6fW4Zv06FMJl6aSBLYYG27HisApzEAJoO1Kplmf6D83j6I+fvTv+K6MqsnQ+5xoQG3YbVHM7mZyqBcLkvsdVQQFWTxIqQ5FRDApJWmlCIAdp8jhWhuJsM6I8wE9KJMRDu4z0CenvCHTjeDC3u7RMOMR9jLsWjV2toWdq1+KylyBUpTafkhl2EaFTAj6pgVkP88z+M5sjcs37b4SCDBYQYEYkKEEj2LmGKx5mU817Rc=;AsFMx41+y5+yhlFn4dSHvA=="
 ---
 

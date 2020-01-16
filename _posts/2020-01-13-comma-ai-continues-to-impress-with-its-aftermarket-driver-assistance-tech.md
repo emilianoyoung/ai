@@ -28,6 +28,6 @@ images:
     height: 720
     title: "Comma Ai continues to impress with its aftermarket driver assistance tech"
 
-secured: "KJRYaM5MroljXQ7cbXpt3VMnQyYt1xqNz0GW0sr2GvACTE5qpKjHxo1sHx4w1of9c+ZDn8CMzwGgD8X/ZIko9Q9ayOAjaYTQjzNz6LyNIUKHv5vOh/kXij+k3CYLMOGckCWhj2LNjVfKwmnGhp/2sBIDCYHl6SsqU5Y5MpDTdi/6aCJ5f4qWFgybZIiUZISx++iJxFoykzS8C4GT7+/F02Bq0huaLS3LuPm++KK4dgDq9lGg4BxnZTPpaJKMyd6vwz9i7TsCRfp9QcxjmOOOvY5sXq+MeFyBuhm24+APei8=;2GdB9qt4+h033RQoPegksA=="
+secured: "KakSbVIQB/2L469eJS/Rh94EAQBic3K4hRLt0irbV9DBlxiZSTxtgqbBE/nUOxhrfq4OOn0xiInZU2Tusj2+u90J3MAWpm+YWrs3o0ZWt8qn0y1wm/MMDkfIsI1gL3A7EF3KTYktAZp8kSkNzljew9r8rRkGDxUuRtoCcT8g6cgLQlft4VkkYT+QW8sMF3KkdgoXcvGl/TnCECO2eW+V9epQlhY+GpDTNCJW2bP4mP/TmxZ6BvQ6wwRE8xytHXnX0rWTFGBLVFdI7KRt6CdXeesffhCO7yukpdomJQDn5rIcogBmZU02V9EZl0xUvh97fDzHxNIhLJJqXNPcrg2uG5KgjxOGosGT2cIUBoXBbo3+6vmzL2J/1m+Fsc04Mey0YD1WXST7Q047R/0/K0Ai0agJbUaoZCKMzuz41GL6tSwCyo0LeHxD9lUQT3O6hJxSoeicp6Q79xhOv5Z8uE8m/g==;hL2c89zrUJO9aECBqWSpVQ=="
 ---
 

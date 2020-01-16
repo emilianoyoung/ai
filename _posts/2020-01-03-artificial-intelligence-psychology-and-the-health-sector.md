@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing ... is in the recent development of chatbots which deliver Cognitive Behavioural Therapy (CBT) 10. In some areas in the world, these chatbots can be really ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These include autopilots, computer-controlled automobile engines, MRI machines (health services), self-driving cars (transport services), as well as high skilled services such as A.I. radiology reports, legal services, and mental ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
-heat: 61
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - AI in Autos
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 207
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "OXf5s64AdlXKKRleC/V/pJ1kfJgWOQ2RPIoF4zG5WcTuR5hk+q8xHc5QHsx5qnd7SaKayp79imxqnTGZKYHGN0075bs2CLccR2C0EShwXhSeQCjQ07isQdr9g8VfsyF/pbXbMmLXOfUOyT1rqIjziGgV2M915F2wlMHRA5dul5sYzgmyamTt5fB4HP4RrmeWofwqzKtQKbpkEEP/YRAzHwXPaW0ZM0Tfv/x92gbPjvHr/df/RYNA6Au92C0y6HXhb4Q8oEVkz6S6BPRqZ2v3LbWRLHKeTrJEi6sHeUX2oeGR07wX3uBAQAJSnriQvo8rWljOkzdMd7RDJbCfBmWU50TP5qXOtiY49R5KrubIw2/8jl32Mgk5AXs1wyYjL96zVOjM6g67zGZlym8zuE9ibdkbCDdiyORIoQWDztYjr5/XBET0yvQIWLzgQAT9ApvXvbTRkC6T9IFrTIgmjscYEA==;EsmvvzGXRpz8jxBrdcuOLg=="
+secured: "nZPDbZlBqL8YTYS0j0u/+w2vA/p2alP0lqpkU6zxq0s6FVjK78uurLMOMIm7URIk7CaDFSKggBZGPixFYWjqXRhJGpw0PuAVAN2AUGXNWikfzo8qOIeKvGM4UNry3sfW2XcnPUI95/Ikx3dOWHQawvB3MTunTl1KBajN/EQ0xkbqpetHrqRdmnu4x/ycBsPaQMD1DRAg9UPyNX3HAJUxbs3tZKC7hDLA382ropcoU3zt5iQDFMo4HuSTNkQDk6XKsBVhW4Iyfb697lklSSU9Xdaikfd1dMIQrltm7yPXFKk=;Ne2bWq6urU4f/McmSA3eHA=="
 ---
 

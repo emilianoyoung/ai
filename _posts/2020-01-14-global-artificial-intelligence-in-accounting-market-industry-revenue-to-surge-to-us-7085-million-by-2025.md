@@ -18,41 +18,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "Artificial Intelligence Robots Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 08, 2020: Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,"
-    publishedDateTime: 2020-01-08T03:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-07
+  - title: "Computer Vision in Artificial Intelligence Market Revenue Analysis by Top Players"
+    excerpt: "According to the AlltheResearch analysis, the key players in the Computer Vision in Artificial Intelligence industry are Cognex Corporation, Omron Corporation, Intel Corporation, Basler AG and Google LLC."
+    publishedDateTime: 2020-01-16T07:44:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-market-revenue-analysis-by-top-players-2020-01-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-14T05:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
-    excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent."
-    publishedDateTime: 2020-01-08T12:11:00Z
-    sourceUrl: https://www.openpr.com/news/1891892/artificial-intelligence-in-healthcare-global-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
 
 secured: "rv+E7TrNyUYlRb/DSL/Kxot+HNISNBkDDYOEoz0cIlZHb/OBp4Q+dZEGKE2+A0wPev4bi/zARN/jXsu+E4d5MhQihFPu+AIqV/Ss7NCVCA2tRF5/mQytJVHP+rHv3lNJadfOGVd5o2MyW4RzmLy3NvjNwsQR7aXQVkgpxEep+xAyrpoq/0m3EWiHi5JhIWysX5W7q3vgGrO7oHDXvrNQH3dCZWq51xGBmDCvK+KmWtNRVkIPK6JozQKhXZFnajhDIlxuMcrY3k+1oQTrzZlQopIXzqp5cZdwo2qan97kbg0=;CjtAa1TPTDhUjDntd2PnEw=="
 ---

@@ -24,41 +24,30 @@ images:
     title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
 
 related:
-  - title: "An Introduction to Microsoft Azure and the Microsoft Cloud"
-    excerpt: "Azure is full of services and products, offering a complete solution for any organization and Microsoft is doing its best to ensure that the platform provides for any scenario, especially where big data, analytics, AI and machine learning are concerned. Throughout this guide, you will learn what cloud computing is all about and how Microsoft ..."
-    publishedDateTime: 2020-01-02T17:51:00Z
-    sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
+  - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
+    excerpt: "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip)."
+    publishedDateTime: 2020-01-03T15:08:00Z
+    sourceUrl: https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03
+    ampUrl: https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp
     type: article
     provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 54
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 89
     images:
-      - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
-        width: 1200
-        height: 1555
-  - title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
-    excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
-    publishedDateTime: 2020-01-09T14:54:00Z
-    sourceUrl: https://www.autonews.com/ces/ces-conversation-tara-prakriya-general-manager-or-microsoft-azure-iot-mobility
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
+  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
+    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
+    publishedDateTime: 2020-01-06T02:34:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 46
-    images:
-      - url: https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tara-main_i.jpg
-        width: 800
-        height: 600
-  - title: "Sketch2Code at Microsoft AI Lab"
-    excerpt: "Computer Vision is a discipline inside artificial intelligence that gives an application the capability to see and understand what it is seeing. Using Microsoft Cognitive Services, we can train Custom Computer Vision with millions of images and enable object detection for a wide range of types of objects. In this case, we trained the model to ..."
-    publishedDateTime: 2020-01-03T09:33:00Z
-    sourceUrl: https://www.microsoft.com/en-us/ai/ai-lab-sketch2code
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 34
+      name: Deep
+      domain: thefastmode.com
+    quality: 10
 
 secured: "l3Dt0cqSFFxZupQ5s9SmPxfhiM9f7KP3QnilWryhBjBwSDQlgVbQBqy0EtzDmL+O3Jwj27ypSLsVnSNksY3V9R/Ca2FZghuiSZFU9G/Xri+lRaJqlGXHPY+AWQN7G/bl/5RIGCtSy6L78qvON6GhS3Jju22OZwhFbluk3VP6BPAcf9HixCfP2cuJSjmrYZ5y44oyqZ8UUjusOe408HQRfeTLiQTOewroPUzpOGy0joCUg0g3xai5y8wNBBgqPbMru8NDlAVTXDaKyDAJ+sx3/uxl4u9k6bEtOtPSYf9pnbs/6rh7ASs7ZbgQWm/Se3NdVVkyZYMSu9BaoZPWONUpEd/xGfRZPPXzyn46VPL7lAX6L9sHBRx8YQsbmA0vhgkiSzD9Jn8mJwjjJpwY24d9t1jzb3VvLiMk/0wmiya1g8SHU+LpQkGbeA+d+2S8AAkM3e7uxOvNNbcjjOiknoIPAA==;LqFrj3AwP9UDXNHkMB2rDQ=="
 ---

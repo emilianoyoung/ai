@@ -125,6 +125,19 @@ related:
       - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao
         width: 470
         height: 246
+  - title: "Kubota to release self-driving rice planting machine in October"
+    excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
+    publishedDateTime: 2020-01-16T07:45:00Z
+    sourceUrl: https://www.japantimes.co.jp/news/2020/01/16/business/corporate-business/kubota-self-driving-rice-planting-machine/
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 24
+    images:
+      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/b-kubota-a-20200117-870x951.jpg
+        width: 870
+        height: 951
 
 secured: "ePmbA7wRHL8pJDif897F+8aNwfDm6whuCAHy8wszdDZ6R5zfoyvpkFSVpowP4AurhsnM8pg6SBdxh3vkAlx+k6W84z2GSjhs+C590VsAVTAMzErAsSzBlBIfLBBQv3V/7/TddQYqxXaDpLFDLPtrQqeK+CwLavXR/BxnjnZUDltXjt1Bk1BVtN3JA3m1XWI4nIfQAWJVJALA2MRFUHxA2F7NEGZx0+5FmbFx9vGAMdCNDJ9CGbn+U0EoDd+HQDcwFV0JHPD28uy8sIx03FzMPiJL0ex3Qu4FZMmIUw4LKj5WMIF6xjiKjjwb98AnFxtl+5fqb8ktc5f6aHIPa7lac7WcxB966b1/SslO4aSbiYmXIBEIZX1OEX/gQcUdJVpLAhf1Y3zeMrfiBllaZBFdbiq94sNOo2/YKbtXidzrPJ9lha5YaxNy2h+Aq6cJgXLE7QUF7GMd7DTzwR+k7X+Lbw==;TGg6tOV03kD0J9AYEeKENg=="
 ---

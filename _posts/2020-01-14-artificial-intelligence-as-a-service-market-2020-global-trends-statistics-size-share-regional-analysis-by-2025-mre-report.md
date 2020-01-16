@@ -50,15 +50,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
-  - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
-    excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
-    publishedDateTime: 2020-01-14T12:24:00Z
-    sourceUrl: https://www.openpr.com/news/1895885/global-artificial-intelligence-in-accounting-market-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 1
 
 secured: "DacENzuG4ieNWJwf88zvViQMxo4XtkJf+pQ/OB9msobO7g4jwFHr/yFgTkENrfE4P8bwGzH4pQnpwVchHQjBWD18tlidxCeFb+Xruk6x9YGrSaF8WGjp5rfOTIWQmp7eiSBQYL19yzE83rTaAnl1r1ZzenqHMhSvvX8dCFbUBKpUgiIbIQDUHfmDW5xA+5qWDGX1mJYA48iaFo3zdCm+zn2T9l/ho8hysiDVe03aySM8hD7t3GHWO+E/9IlRF/sPmPLAbR8D/mADxDrAbRCz5rKmFX78d5EzIYg6taaFE4I=;7N6iGKO9tGh2tFMVBKaZeQ=="
 ---

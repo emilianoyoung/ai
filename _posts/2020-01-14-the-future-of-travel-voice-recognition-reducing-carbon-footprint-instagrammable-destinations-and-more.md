@@ -20,6 +20,19 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
+    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
+    publishedDateTime: 2020-01-14T19:54:00Z
+    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
   - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
     excerpt: "They’re people with speech differences and they’re helping improve the technology of voice recognition, CBS2’s Carolyn Gusoff reported Tuesday. Voice recognition saves time and enriches life. But what if your smart device isn’t smart enough to recognize you? “They don’t answer what I say to Siri,” Jake Lunney said, adding when ..."
     publishedDateTime: 2020-01-15T00:01:00Z

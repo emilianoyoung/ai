@@ -2,8 +2,8 @@
 category: news
 title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
 excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
-publishedDateTime: 2020-01-07T19:00:00Z
-sourceUrl: https://www.prnewswire.com/il/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
+publishedDateTime: 2020-01-07T12:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
 type: article
 quality: 32
 heat: -1
@@ -38,6 +38,6 @@ related:
         width: 573
         height: 282
 
-secured: "SY2oYC9+q08wtlqY01TsQZooSOn0C05narsjcGDXO7WPgvSCu9omU9lh8LMRD2nXZA1Euo/JU5GsALFoSKsSwzbDh4xSrY//vvyCGdnG4DdMVT14Q376VNCyziTBsyJ3l9o5RJZAoS8MuYtxy804v2b1SCQsjvdNEam8VQuFylB5PT2H8n08PirX3mOnPDDmIlVStfjP9HuuNG821MkzQWSKNxQaNXTOWadFw0IeXoaQUeUOQBVD8KFe1c6vK9o9dKMsJmwga6E/tQQKXHKZIOsl8pPFbKnP01vzvH8cbM8=;xToK/iaHI7xJtv6PVZLGjA=="
+secured: "XDSRcLUCdqxUlGkxzoRqCo7ytID96ihea1IWoj1EfPUepIuYVsv6ol2BVJelMdHCtO1xW4M88raXGUEyF2uuRqosXmSgnDSIYTvtZwCSQoZO2dEDS/gMZzGbhAtIoq9zkYhLdNKLTWMnyEwtg1/1p2ZRRvfEHyGFAPlIkI2n46ipE06Jmq24L7TkBmOfZKc1nFuDXLEGHVIELtUc3nap8mTzl2VKJnkMQ9gQBw5WvE177VI9z0YayXP8wVyKwUlcU3jim6U6auGfvd49dug6cpSxknlSidfn/Nae1Eh/anA=;mjhfxfORURwpmqN7N3w6Bg=="
 ---
 

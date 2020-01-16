@@ -8,7 +8,7 @@ ampUrl: https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-i
 cdnAmpUrl: https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,19 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
+    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
+    publishedDateTime: 2020-01-14T19:54:00Z
+    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
   - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
     excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
     publishedDateTime: 2020-01-14T11:28:00Z

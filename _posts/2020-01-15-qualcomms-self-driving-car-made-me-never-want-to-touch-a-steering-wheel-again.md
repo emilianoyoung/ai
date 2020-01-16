@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
 type: article
 quality: 85
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -116,6 +116,19 @@ related:
       - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao
         width: 470
         height: 246
+  - title: "Kubota to release self-driving rice planting machine in October"
+    excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
+    publishedDateTime: 2020-01-16T07:45:00Z
+    sourceUrl: https://www.japantimes.co.jp/news/2020/01/16/business/corporate-business/kubota-self-driving-rice-planting-machine/
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 24
+    images:
+      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/b-kubota-a-20200117-870x951.jpg
+        width: 870
+        height: 951
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
     publishedDateTime: 2020-01-13T00:35:00Z
@@ -130,6 +143,6 @@ related:
         width: 1240
         height: 827
 
-secured: "PMDBusq48VcAfTHLPExG94ilPeYaohYsqf9+3pp3sa2NsSH0fV4Au2OUEF9XiKdpxL6eACfiTjKmlkyjrm9iNTc28TIgwBdIQosKQ4Hnn/ZOxGn0HT5rXQzvB48ZUe9RCwv2O9a+/7yQOeqVee4kUsgSUB2UcXkjVMt9edRBl1GM16O4SFx6GgXW66qkb8mhTvqVfDfTW83o6DDuOWTXMWQTzS310t6IY5MV02I9xtRktYavlovAsqzfE05ATZkxCRQc4rXm6OQMWdBCwWoW9ZI1RK9yjR3NhukFxQQEIRs8gEPlywZ3Q5lGy7eWlxm1bDyBsNych9qMqJhqO3zFSqtpLimpJa327j+8x87xIl8nwNlB/SHpfG/LHTm7xUIOviXEMH0SMvZV5QGS76KjtHK778BcaJRK1DrSI+hZBg8dfKGm9QbD8RunXOiIHot63c2NqvZDK4VLlJScVCqctg==;8QnQdoFWM/tAD33Ohnf1Uw=="
+secured: "Twmt79MX5lsdREs2Z86hH70EKn+ufTYbH/6USlic/rT9gG9k2jUZmQV0jB6F+frSVNlN+0wnSDqnsXKhcMV+Fm6jiJwPlcs1/i2zr/8Z38BDdkX8oS8jsS5vb1fwhxF73CMFZeSDrSuS44zbBKiz9CSXRz56ksGs9sCSwuL67kCluhUsIZH9pG671nfF1MendwO3PgJL5noIuImg85MKJIv3bOQvQmXOe0a/IdNWp7+khcS4U7zUeqcUwpRPKOzjK0+HMA6vaHkMwj3uQ9GsRcD9goMiMmMpezo8tK5Rga9UOMJVC9OQ6/gOYeowA64NhEJmb0K+4jJ49i9kOuqt8hd0RYxmSmQOs7GXVO6eTUZLKq3PZ6beQ/3ByN1ObzVDTBbhyfYe/G7HJN0I5sKxtS1IiEppcJlv4Yn+ca40AksoS/fvwuoBH19cF3he83/+yt4wIh9+gqtGCmWVTIJdwA==;zNwUTojiiYyuGRQQQsiyEg=="
 ---
 

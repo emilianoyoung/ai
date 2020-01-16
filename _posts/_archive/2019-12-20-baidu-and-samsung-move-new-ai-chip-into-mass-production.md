@@ -23,6 +23,6 @@ images:
     height: 298
     title: "Baidu and Samsung Move New AI Chip Into Mass Production"
 
-secured: "X/eQhHMG6ubn1UfEqhP87nvXiBCe9zAOBd3rX+2R8rK7TEP3rvYwh+RdPMVsJotNdUp70GsAk9fGTjPkdUFId5UTHhHghRCYAd5e9WsoL6ak8AKfjP4JuXODpI/3WyHtKX7tnWbN63OP2Wx7gsndscH4QjrlPaGMRVVot3GammW9gQlNxF+2162fBS3U4QZsRaE1YW+J/IP0b279HFO2oWIEDb/FbhToENiXubSTi98aci1DmgIqW+jHPNS1FpeScrrG1PevbSiepIU/Kex11ksbTEyHPMAaZg4ez2XZ4m0=;+4gQCKVLwoZOUEfc3bbJbw=="
+secured: "NuTE6Ukpnp2pzunpxYFrjtr8j6fYDw00aR6Nwpys5n49SO7Zt/BEe3RUsoWhso77DHLmKyJzTIHak8X5BBtttcJ3NV2IesvgU5kxVP33Lyr6G5fZTKmxkkjzvnKym2qHMGgpxZBF6gvUMggpkbUdHeBpcrSfFWslOwdBhGHY0kN59cmOKBacmYNWynujoLmh+bYVucOCovuLm7FR4ZmY9VWu07TxmsVsyWtkVX7rrgcitp4/qC2DFYPfU8AOulXK+rzQv8o+S7adx9Qzc7D7R9TRIg7gJz4h4iQvdmiDS+g=;h2r4mIlAAyZ6QgKNqVfCQg=="
 ---
 

@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
-    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
-    publishedDateTime: 2020-01-10T20:05:00Z
-    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 37
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
   - title: "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025"
     excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public, Hybrid, and Private), By Technology (Recognition, Operation, and Analytics), By Application (Voice & Speech Recognition, Data Processing ..."
     publishedDateTime: 2020-01-13T14:02:00Z

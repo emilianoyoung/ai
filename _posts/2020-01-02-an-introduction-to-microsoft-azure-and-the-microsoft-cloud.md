@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T17:51:00Z
 sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -46,19 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 34
-  - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-    excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
-    publishedDateTime: 2020-01-02T18:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/GIGABYTE-Brings-AI-Cloud-Solutions-Smart-Applications
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: https://mms.businesswire.com/media/20200102005179/en/764632/23/GIGABYTE_Datacenter1.jpg
-        width: 1200
-        height: 627
 
 secured: "d/ByPG5B3klrO5nrwGgb2RH51Llp+FAeBobTwS8EI3JNIRrVmobJ1tj7yRTHAFp6dHaMeooQ2nbNiNz0JfqU3kl/rYdY7DUoIjT8SwomL48EDJOsplvldOBzsE4db88u9wbA7BkFokJBNOXR5Q8NXCQKSMxdEKDqSVqyMWlSpY2SA25yI8gpxq1uQ7bvjpQxHr9l/v+/XF0j86dIRr3AOyCL+qzEDE4B3V/lSqIjJRSJ53RFKlGXdgKcasfLF/k/SVtCsf8xbOSkg9AJxH3mcclBdvgV7BKzAOYzyTD8c1fdzFzUSMakwoYgAm/w7M+i4uXCUHkgEtjedWd7UYDnVMH7PbPvOnPtF+C+9Yz8MWiPARb6lgJ2PBC7VXPxjVjmxmtiLuRPqgQphoXbGzn2VY8a5+XGB7EQKeUoO9r/LUnUjVm4tpD82Smxty2LzmiMkT/7YkKCfckAZ6F9yB4PJw==;XQPwQDDAIzSzbVh/VmFzpw=="
 ---
