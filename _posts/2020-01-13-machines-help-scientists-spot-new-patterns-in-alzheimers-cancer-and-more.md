@@ -23,6 +23,6 @@ images:
     height: 676
     title: "Machines help scientists spot new patterns in Alzheimer’s, cancer and more"
 
-secured: "ySMsBQD6SyQQ8QEVvI7cgoeD0sJin95Oh8Xeqbo6kUllNhk2lHymEgilwH0KCyTEzTKfahz/5T5ST0bR3L1132m2zu3DKjTVLD4OPL/Y8sRbQTJ6vipWaw5Mt88x07UHGXP8eWzciB/r7fFa/AOnwcvpe+XUJHyB89zELtG4VHxEgG4vw/dW0PsYhgUD+I2itVrrvVZg8u5tnlqIbJl2GKWjCZk1USRS8BcMvaJyCittBVr5618f6Ia5bZceNShBQiA50A6+cSAv/HOajU1ZMDlqPn+ElreCeDtH8DH/e9k=;2SoCeAL2zFLJagMhbei2hg=="
+secured: "0NF+4SFCqhYGuDam68FsCyQR0rvOrmgGUjSQiYMAhTNxMkK1xthmAsBBl9OPKcuGYTydauoM71M9l7GsKA9VcFii0QLnZoyNyF4i2hV+phQTEa8sYaHIq4OHWyMZ12FFuaOU2iL0SC4+2kWcouIRfkTFPhUCiLFHiTd+4zk6j2L4RtIvd91wxxi5wqdRCFu3GTONLZusDanedzW6oVOaBv5u7Esrp/j4XUZMaiKwdf68c9gOsGiFT+dEHqhehUniRSSXhNfA/o5Ur199sC/hfdEzQ5S7IKtJH+w43YmZIkU+6IHkfjgNXv6CBJ5bv/Sgge0foNJE2CFsa9DHz9+FUzTMwG358ka2fu8MfHyYp9CTMjA7rqEJOlqn6l2LgRBGudxcHGHwSPLyZm5GmyMjJ8WBpFTeYDbVJr9L3TJA4nSzk2FUv++rQjiCphRcI18bFafKxsxlVzYy1IdCyBD1Vw==;tdP0/q3oVTAP8BsQeVNYig=="
 ---
 

@@ -31,6 +31,6 @@ images:
     height: 417
     title: "What are neural-symbolic AI methods and why will they dominate 2020?"
 
-secured: "N2xo2vj3MgmC3frgqV1qrDLtCMCkgSaD93qxdBqde2V62UH/mgj/FRaMwlfcTMkIBFSZgVvVCcFAqI66INjij5JYnp00C7ZSYqnbLSFPxMDjxxpxDqRW3RJKFjAcyq8ETu5s2Ezv2GCP2HqbbQjFXMgzloWewqxIzg+uvA2ZTU44wLG4uhDchLlfUFqRSQw9yJrA+Qa/7WOvi0dFXu4oSB071m6//VIX+EmqZd7T+Q15pT+LL/tOa72jF7qALNwZRIxkUYV8pIyrCJ7OfmQGXGdv13z8EV3vsC15GFHKmdg=;ZwnA3IpHpdBM0TJpYLjMAA=="
+secured: "Tv+vB7tw5uEgdKsRB0Km2XyZU1Wl2+GkdKizbhxaHYI/Sb8A0RZ1TGQNsDZ83erxGcWSldUGWWmOwGR5BKpqPbjkLdtrv9gsOzOl6h6WZHqc+CQDIfjsBw1DakeVn3SluX1mcB0eDHzUFGOfQXBKDcdDdBzq2epcoQjM4kNt5bswOlXvglwaCHYBtBtY0D4eFT1pBUXfDeSb35jFbCsi98m18qHdURP6+043AqB9CAOHdy96hfCdQAE11JeX+1vrfcIVg+4Yjspoa03VdpelCtfZ+eKqqNux+bG6E7n3K7YbSkc0j8gaKwMrsyqcmvBLQQ2oF1CNcYDluazr2YqeVjcK8J9BAPo9ax0rOcpI+CZi+5WY2QVcknlFWnhfqMtpw9/Nox/MsPgz7kqJn82k0fXJ3V9w+uovSagZIH+XeBj/+X7bzHJ3wdwLV1dpwMOveBdLT9AX7YpnxtYUbP5Pzg==;46DWCNqhyDfC0wxq82LnCQ=="
 ---
 

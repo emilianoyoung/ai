@@ -23,6 +23,6 @@ images:
     height: 1013
     title: "Killer robots reconsidered: Could AI weapons actually cut collateral damage?"
 
-secured: "bVIX/EbpCFls0U0ZoMUYm6V2kyCNmOkvdv0jjZ4C8BHa5Bie6W/m6Dw+MhgbJ0YBflnh0UV5RPVDs/Mjs03A9fi89324dPPYUg8/lorHuEIOBpdhbGvuh2NtWzxvDJXAQuJrMPPPp8X9aqw8esUxoCRAhgHOFYjZEcLYaCFVFbvvz79/zGY+/McQMbYU5/9h1WRhm8oRt7bI9odrce0N3lzzhQSBAQPeizNUHBxvX/fW9MjAi/giDTJTq+VCvPjHU7Xw8/GPEfXLXAufLo36ngxgeijmFZz7bidYwTeWtNo=;9akN/kqpFsxUBFX4lKzLuQ=="
+secured: "IivU1pLHPLOn781mxjbF+Y0cFmqU1QKZ72yYiCqJL9A2qqOHE1ntfG4LDSGzzVp849aGn8kRzIOmZfLcH5XKLj3Gl2DvCDh9sy+PtQ37F7adsF0MaSXVzezR4o7EL4XYdWmYeeXVw2dRimPCijto9XmIc36sYIvt7nKPHZo6bZsedjKYxFDEdLtSlJsze0HPUUJhTp/F48vD2FuMByY7ncadJ+rrLRJVWcEznnveW2aY6oFHq0kfDp+O8Zrg6YhpJocaK4DHvKvgC4XbcrI6Mjvax1MOCddUiQ56GBu9L6NjQAVsTOYVsBhpCCzb8r7d/69jOo0oahPFq/CxMBhW0Wp85LHSeC4VXnlCIAUFdOER2rrJhEkvZ3fZtmMT1BvESlnoHmaoBxpARwyfbwFAGm5Dxtk5/IoyUCxPOMAqL/yyA3tTN3NAE/wdaEiB9/g+HDwOGRajHEcaH+d2Z+SCjw==;xlTqLZqE5T70vZeLC72kXg=="
 ---
 

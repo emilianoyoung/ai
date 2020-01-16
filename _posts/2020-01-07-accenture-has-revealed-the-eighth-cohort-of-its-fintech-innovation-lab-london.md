@@ -27,6 +27,6 @@ images:
     height: 400
     title: "Accenture has revealed the eighth cohort of its FinTech Innovation Lab London"
 
-secured: "G2zffhbhLZzYd5WSSurVn6CKQJd7gN8T359f+6kHEiqnQLWq2UxwMcpr45/H31IufuKDA7MAh2Sz2ZzL/p6v2G7c9pCWaMcix/nvC5SiehFD4SF0PC19eZ9EL08S8Ds2oL67Ys0mnu0h5AP3tV5XgOYerKonJvsxTfrAe9BKEFjujqj2lMIgz1ITww8Im7+bVm5FZH+vs0kCes0ywYnMyZ/XwF/mU0A7IzC/9YWKjR1VtEiiIVlEsOOIHqSZrsuijOz4/gAfaKjQ9goZgN9r7HK1sQAOgV0rzhlGJEqmeFA=;CykCyp7Fb9BcYb2CVPzVDw=="
+secured: "Bc8y9LXpqSpMN+tXpovMjDsDZZHW7oTz15nTDEw/mbPEgCvSnrDabv7oom3L8avWWONRO/3AkR4v1DMU2MQI2JF4m8Wxi35VF1DRKfi+mG+Uf/lCMGNbtwxThe/j6BxxrcQaFhdsWh8z/NuhkF9sbUt8eA1vRiZaN4J2UeIv9w1+O5yEXdcvBwYaZObe6SWnnviq52mGKyNw4mqeUXw5lI8qxAdimlKwldEEupAQ+//AAepcOj3HqmA3iOlj6DKbJ+wHf/dfup78VsAZphRUlHnHxO+qy73hIcZKLsQR9utgcAttGxbz5WAJPCmvIGda1DySQ4p0oWdUsNaPe4uR1qWFoffdWcqeZ2V+cPcpzibS/gzx+brdEXvMUwO/aomh7dVjYP5zEkK4PI16reMAK0HuuvEpxr+fupO224ObdmEDwIJhApXfEF9aV1EWHjRJB66XwlXDni1xeGe4j3DvHA==;cyzWECgkPryqVOda8EdxnQ=="
 ---
 

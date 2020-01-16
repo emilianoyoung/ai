@@ -29,6 +29,6 @@ images:
     height: 589
     title: "Lidar Pioneer Velodyne Debuts $100 Auto Safety Sensor As Self-Driving Cars’ Pace To Market Slows"
 
-secured: "gi/4V8+UKnpwP24XxyXQM2gp3qXObddC5XNaxgBcobbnshmYSWamr8Qjd5iNxxf6iclR976YinvxvsODKTxH4TZSIb4xqmEYIDj0CxAUVYMBQFGIH+Ba5tfpow65TEtXK8wtyFZiPCzNvkbXcW8lY+NIQs6kr5h5Wwzdp1ETAQDYPVtFoLHZ6+D/pvvwkwRjNuf9w21b6STkxo8HIDNSGwXBEOhSuSjG7T2Zfws3pYvd7uWh7cVXCw3Mq/lrdJxNGTZaypbIM3tcCYNb/yGiO+2gSrgIYLG0WxoO4FN4oew=;JO5PcagsvCjFeU1WHFCXmA=="
+secured: "nZ0cG52TuQAmcpozrYTuoo5mfuJak9viFZvJ5YNvVMD5VdcASVXDinwk7XI3U6XT8pUN4OF9wYKMUYgqjPAxnxn37rNcSqlfRQ0uhPcP00j3qMw7O+Rbdz7XKEc/EgShz1DWT30mSl8h+2Q31jOOLX3j/yqaUCqkCdA1lnLNPVZy/ggVBTUX7+pFmafRg5HRfAyZFDzUW2vy9iYZv8U8trJ21wWe5+tbxLdxJc/BAfHwTP1JCPNtsmu8CZTPMN4Psqw+2t6pJYuuE2bfURGgGwhS/lYf+smIUHlAt6eBd3Edpg49DVkEUIndMyI5yxNir7lJ+WWr4H5qD40XWFfnET1Ovwkc/NSNsk+pJWjD7B2XES0YwpoNfflE3TXHPFyRyR0flhlCa0K+j/PKUItS5E7t+E9EtNvaMh2EnrhYUDoZJAusMoSGDo5Yxo95VYr+1jUCM7Ozf8RnF1iXMuZBrg==;237kaKgINmALJgUUm8CcIQ=="
 ---
 

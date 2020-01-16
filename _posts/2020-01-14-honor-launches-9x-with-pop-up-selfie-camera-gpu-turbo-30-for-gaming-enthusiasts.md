@@ -25,6 +25,6 @@ images:
     height: 384
     title: "Honor launches 9X with pop-up selfie camera, GPU Turbo 3.0 for gaming enthusiasts"
 
-secured: "oqNNPtLzUbKtGDzlezvdP9Z/DEXgvSor6vMTAv75EHTSrQV/hbg/HnVniF285iJ3kyWpUi0U6WtcUuwI7huXL2Ye4dlOYZupEPH3P9C4p4DK5jZDwhTPNekXVNenyrKB+eUmljkEiPKz/T3dbylBkuRBMTFgkYpRKkw8ybeNkksWa2p2QWgn7DFeOGcxoVw2bQFLlcAdZbZCArG95Dwb7WH5IUiL9oXv7Lxv+MVmIkNimFhgMn53VXaH90mx4d+nMmNxO1KY/8iCk2Xf4kxwvm1KD2OGuFZg+M9SJHh2djY=;qHxe4lAp5XihRflZaNKe7w=="
+secured: "n4zImW67AtrPQ5H/EWoe4sP57yBRs5N+yKkSKi1jkilPXAPaBFvdZN6auXSaDr0YB60Hpn1/zNWxmjeweP/tb3GbIBYDVL18COtzEZ7MsfofL78oldlp6mgOmH9BOnH3OzgBOEBXCw6UHP0qs1+5vq09mSAnEkWDcrelOK6nP8lcBBl0dryv3wL5/ePE+Lt7bCyn2oo+fjHLfHfhCW1t2IrnUZlChZOG6beDWkbmRTI67ZW+WTdvzeplLjYyt46NZilKwR5l5PWgz4xKXW0nJXin6oZ4Ww1CNHx0Ktb8jPsbuTe3vQO/32Yfviqa0RolKFyGxKdiLG2HT6JsUEC7DWEPeakDmm8Yy7Tp4ZL+Sr7+//e5JetOvLDm/1KyUNz/ebhYXbuoYlmd7ZiKoq0J3U1jc76SlpQ2M34z1DUuR7yXb4RL6KG3zcRiZB45Z2EjlIzOg96vIMRu1foCEqNa4g==;l/jEJvSB8F/2ijybDSxQMw=="
 ---
 

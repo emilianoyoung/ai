@@ -29,6 +29,6 @@ images:
     height: 600
     title: "DeepMind researchers introduce hybrid solution to robot control problems"
 
-secured: "f/8gB3vbndS71XsWyK9itg5bh80fOSpcg//FIJ4DVaslHS3W0K3MBaJp2qfc+NNTYF93ZgGPSuwD+Fka2Az0+IZOCvKqa2emMQ7ueqtSfP6zR5Cpc+i23iNGqqpRCS/46fauZaZpMbc0ArAqfMU5+kCzeLlVLcydLQSADRMmh+Bj66Be3Psh8SQWoVDq1fYs2rQnzLvJgQA8/m79ZRiGvnk+wYJ9JX7PhsPRx+c5aVKhsp93BMsXT6Gq1dZNJiQ+7S+7Rqqx6+IsimJX4qD4D8XA+JtyR20SY8hbEl3S1hM=;Qv7zMJ6b0iLbe7b0CpAveQ=="
+secured: "8TB0gq0iS2+qYDG1zIoXu9SNax1tVI6iSdlhqGagFF6NmaK4tEtPY3xdSOzjyoYLorC99okNIpD2K59ZAnZ2UbTRTfvOBoelE2bcgpwD0agz56zFFvsiCJl+yPSSQxj3+FFgMKmcSKQJOT2avMcgD308pD4Sqc2m7KzuGVObCjfKHVQFuIg3WA7wlU0UMhq4/nDY60gvCZmOc91HUU9kpmCNp+VvPaGPQmtfWhadg2nEBxTToG0XZY3mlvKjrs1p6iDqGOOTrS3R7r37gHvYtVszJiPF1hZje2Eq3BmNzed1e8tfbRERhQTtVsFmc5xnzxgykQLik3+FHO4aLH01Tg99Ard2NsbmAZ1yqFprE50oJkGwXeHdy2hEXlb5/M+tqf7A8wMYX28+OVVySfoIpXvI+cCqd24vGVZo3zFCxveB9oH96jVF3YPRC5NcnB5NEKaKFHqJWkc/uvGFPwht9A==;fbCSWUYz+/I+XyIuVzH4+w=="
 ---
 

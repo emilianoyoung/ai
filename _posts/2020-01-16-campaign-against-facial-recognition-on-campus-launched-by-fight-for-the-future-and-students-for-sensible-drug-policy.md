@@ -171,7 +171,7 @@ related:
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
     type: article
     provider:
       name: Fast Company
@@ -194,6 +194,19 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z
@@ -234,6 +247,6 @@ related:
         width: 1484
         height: 988
 
-secured: "0VSfQShfteRC3JJ4HSZ5gn38mToLRlPz/4eI/bJLD4J24WVvBRDP1Lkr2JVwSm9Qp9FA0s4e9swdWmCzpXVlLSSi7N7BUQiBjpVo8FFDhI4/m52hmOELnamukkh9V9+PuM2qKJCB+SkUww9vnjyjyFkV7x80WSMTierxWnhP47EvprCqLrMNCEPgfGdXCWOHf5uKXV8QZZx9GxQNC4o6LYFEid39SI9Tmm1q2P58uNVD7QRlp9JfwvLPTyPtclmQiliEv3GgxhO4ImufeAT7gj/HHeY3vRfMe+LbRgRuulk=;O4vLJL277cJXKCRcb0xmnQ=="
+secured: "1Fk6TScEc63R0hj+6Leull9AS1Bf68QlFQ26u51rxBrKUXOJIjpBIhZPcG5jeGNdp0o94ND0Ta4TDYsepGZXVABOzbySRCRxPddgWStczaBFQAgvvzfJ+q977Kk7vHbbc5zDDZKk2Fc7YGbqRJQrFwt1Kid49UP1BJOd46PtM3bTX4YaS1dIiNRS+QO/9kjKIWP7ixsYLR8djNgGk7TntAF5SX3C7YgQg+cbwWYTYSYRAzeA6s2OY7BvmQYIEfXRp9dJGGVHsph6pd8uIja5K0yc7qa3t7oLkKHcUar9v+VZaoY6pGkZ82HxMBcB8/OyWZyWIK1CEUNnMvEMv15KEPWKj0FARPovBZL1Zjyta3NnW+gTXKyf79ANkkre8MQXvHEF13clSJ0Y8AGoyLMwXxR566Nf50jImFXIzGv4kDVo5FcpCN5vXpmQcuEe7suJXD0Zf+bLTjQO8lzugDktmQ==;sWR6mcTKIrKs970p8W+/2w=="
 ---
 

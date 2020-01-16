@@ -24,6 +24,6 @@ images:
     height: 292
     title: "‘Don’t set it and forget it’: Artificial intelligence’s role in media buying is taking shape"
 
-secured: "/evJCU8MyjVW0rBgAsAjjS8RpT0F09zQ4cvJcgBwXehYIM5cnAEY8P/PmhMa8qIQ7liopRWazJ3Cp6k1jAaEHagZUi+IfXjuaYbexJMdzsPgTTBA+J3BzAD9xhkYKfIFKQkHvmNHWC5pmgb1qXA14oN8H2e7XtIYtppDMUKErvb/2+GRD7xPLmjOozs+hh7zII1IBs6bbB2Ty1x7DTvWwsiKrSqsx4/XLQBTvgpf9pbHcEjkRGVfejk/VSopYbipxxumtsUZZXzlx7b3DTd39eiiQqCCfSxrwuM0/iZHVls=;LSn6jeAkYViJKVrK4IMwRg=="
+secured: "reswkyOulP/o2EcpJ4qhoqSO0XhiMXv7mstzymD7MWCTXYff4+GNqBxz+oWzzbfSZNTEPsGlekBFqTC4ZZLkd4ik5bhfTqz1XmfOmFHW4PMKFV5gBYfHHyygcrGDdCAjX12sPCN/wsGfQahFPeqX8AY4vNcKmoDfDKkk6FF0NH/h2fXswx4wSGNAThDqrntfRCynizbq5Sbm6Q5TSmBbLWXeeWdRRp+xbB3/Y9HQQKfIeyYdWqG0HKgaWvprUrAn9FXL738YBnWpUGStrpb0u5YJd32sQD3USmVnBbO1d9y1PaormaABm36oGcNJSkdtkhoDp6ddVVNYnGhowfJOkS6kYwKw/WMgsQFGtzCIdLhT0y/VIDxc7wi7fVmZOSmNDmpfohsPKUhkP84DvsSJdXs9z25Hg/x7FXVrW2gapnhTe4+Z56Rlvo42utNO9V0EPM5rhgkbHcWYgjidv85qqQ==;CZ64VSRBh79fzwPV1BddHA=="
 ---
 

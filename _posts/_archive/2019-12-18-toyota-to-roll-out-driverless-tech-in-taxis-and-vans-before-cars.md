@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Toyota to roll out driverless tech in taxis and vans before cars"
-excerpt: "Toyota and its suppliers, including Denso Corp, which also invests in TRI-AD, is adopting a longer view toward cars with self-driving technology and artificial intelligence (AI) than many competitors that already market vehicles capable of autonomous ..."
+excerpt: "Toyota and its suppliers, including Denso Corp, which also invests in TRI-AD, is adopting a longer view toward cars with self-driving technology and artificial intelligence (AI) than many competitors that already market vehicles capable of autonomous highway driving. Many of Toyota's rivals, however, have pared development targets after fatal ..."
 publishedDateTime: 2019-12-18T09:07:00Z
 sourceUrl: https://www.iol.co.za/motoring/industry-news/toyota-to-roll-out-driverless-tech-in-taxis-and-vans-before-cars-39403332
 type: article
@@ -23,6 +23,6 @@ images:
     height: 347
     title: "Toyota to roll out driverless tech in taxis and vans before cars"
 
-secured: "CesxDtGa8FdrJ7jjrUBhCQ8rfqHyqV2blQR6XQ03NdzVUONOyCHEypeZucn5bSBALzBs5OcgNH54gN4/f1wjFcDbW/cjDUoH72JC4ZxZeLpTHzfHEPIGvNlsCqDezc8t5Izu8y28CluyBwlk83otzvecm124jrxsgXoyKkPm/+R9XNKC7EStBWH5uIgTfr2+Wwlno0cJ5I2Zb3gKw6OSpWzWFSFX7BSsQJXYf++8MCbi4WQxEil8EUk9+CI1giKJ3pTyACx9SN45P0CAAOE7bkC41OQ/7w0PMSK1rqfQccw=;HuvxamkaSErtvsfWfIaIkw=="
+secured: "Nokymy6hRlpd1a4CxtN3+81C+RBtvd1ij3pRWqXRRl2OSKgSfqNlKJizbToJmPSgxT91o7Xg8UvMWg74GBv57cbeIGtIYVUA/+NhUnWyHgfEQtFlOB/nL9Y27IGQJkDfWqv+TzZazjmRj8vYAh0kbgeyQt2ul0yaGY6e8NSgvOnL5ElP4AOsvYj96FYRf66LxGQXrWUKd9Qlll1OHimd/PBSEzqPuanjDEepV/QOCWvLdIgM2UzFQGoPI/M+1K8EKAI6vlka9/PJvKHgmGSaLx3EricmKk5W8CbOjTJXa5w=;SlfgEjp2vYYdgPlVXGebrw=="
 ---
 

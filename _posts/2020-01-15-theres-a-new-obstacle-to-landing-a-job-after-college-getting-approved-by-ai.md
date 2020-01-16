@@ -25,6 +25,6 @@ images:
     height: 675
     title: "There’s a new obstacle to landing a job after college: Getting approved by AI"
 
-secured: "CCZvj7hzimug6npKdw+qf2Auo5Mr7XGvW6VlFOr/C/T/iUL69a4WObOf6lkx4U2U4xv7iYCxLNrmBfF0iX6M44CW++V5FyjEgT3wK1k1cUUohw2wA1Aw9PaZAM8eStqTsnbBmnVV4VEtw6veRHoeTwbjBFH1msOMVJRi2fSJNwD8Pm+icbRVTVKQLmfCaPrJhX3QfcM/IOXwWNPAHCO0vbf1j0Tk1fX8lAzpbWYgHBz2aelR5hH/8aGzXkE8Pz17w6aanRZ03+IWKNJRKpclJsUJmlDl9/m33NNP2YM7IsY=;dtf3ARBsvsT8yT9TUmBPDg=="
+secured: "B9pW9AGSiUqTYGOvUzXW5U1DgJpfrh1e+z/rDQuEjjvr4nGyptfsHPLCf2vcGe1SiKEbp6ENukLUyHCvStV9q98EBbAoJU3G02WHAS0ViyGsryU5MkJ4u6BqKHdwG9S1+pX7ckD0KcF5WYHXc28S6US2Ho7cUfmRqufO8gTPMBYF5Ri0X94DLQbZJY3wGst7cdsAMcdJ+2c/nQbdx4GpIDEH+dzqfqT4zqgHaDi0i54623gWaiF/LjG9g7AXSQLZlAJDMK8NS1ugnBjbdbRLdrE9bvpaaqSsNVwcBCIpUB+LfaoLvHicFuM+BTcOE9y3E3g1hNlvqcn8qcQAMd6Lb9RbsdpjfuD636tJ9N4novEL4Qk7s6LrLGEPLfHVIg7+wjcmiXlnlz8eA2SAN2EfDoPtAq7+vBQod6SGxI5grX2Xacs/vKE93m60riIprk7RUFQz/jAaPMU6xqojM6Fccg==;3TU9DkW7FLUx4dTqXFouiw=="
 ---
 

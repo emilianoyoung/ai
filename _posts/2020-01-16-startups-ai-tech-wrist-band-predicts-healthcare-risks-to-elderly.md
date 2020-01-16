@@ -22,6 +22,6 @@ images:
     height: 537
     title: "Startup’s AI tech wrist-band predicts healthcare risks to elderly"
 
-secured: "f/5OLwhba7m0EOo+RRZSK7mzQrM9bYvDps/+eCRRA20UnyHAFygWbCif/HA3HVPOPDpUxOwZJM3fnNCQOvo1ODgX2+HwU5o4I5I1fVPUzgewoQp8GvmuA28359ZJorfI2KoPh8qNM5RaBGevZSf+imRoP1uNM1jWFmm+un4jbEddTUmLffdAq7Yhb/8xSCZ3fOGQFHlhRYY44FYSuDGkC9CV5nYaZjdzzRKYijc1PUn3UGeVbzUI12ew+ER2hfJzAcPokyvF/dyyucuWODkbvR7Y0v1R7P0kqcOCl34+FJY=;MQhLCKqjdQQ1NSUDzlEutw=="
+secured: "VHMy0XJv//xcqWwzpm1wftgOrW/Xcg9MIQvVRFbOIYJNxgYpnTAIS/3Q+f7+1pUVJE1y8khpGTafruKUatNRdWc1Ndtbbdaa6G5Z6jVFn2wyJdsAummoKZ8PpdP7h4I9tvQcKPf1ndHVaF7EG6U5ZGDTCMmJt9pIYHBx1LC5mOSVa7h98En/TLFTrTjq7tbd4+7K7oroCzNcdlQ4GXgEhtyFlQP3+spCMQ1QO6SuB9LgEeinZPVF1fulEc7k5Hw4keeylMXkO861zuFElHmireAwLuazUr9GfcGOZiQGz5f2ofQp3Q87Q1ET7Z1iO9vUEwBn2eRoIFTknmqHXZlCi66FJ0Zh+DZBDBHFgnEM7q0I++3R06fyhxALIcr/re0wLZqU3zEjgjgVAWgY+I6rNt8nbptqCr6x1ex3flA2Ltu3fYLRMDrqv8P/e4QB2vYKGoh5y77M8T3gDel3ziAI9g==;UQK+hngufX7KOSM0pvuCkA=="
 ---
 

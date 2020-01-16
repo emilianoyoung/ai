@@ -38,7 +38,22 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/Mockup-1-e1578777547819.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "6Sense raises $40 million to automate B2B sales processes with AI"
+    excerpt: "The company claimed revenue grew by 100% in 2018, the year that marked its acquisition of AI startup ZenIQ, and that the growth continued well into 2019. “As a startup, a company can sell via personal relationships and word of mouth. In the scale-up growth phase, the equivalent is account-based marketing and sales,” said Lieberman."
+    publishedDateTime: 2020-01-15T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/6sense-funding-40-million/
+    ampUrl: https://venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/04/6sense_official-e1578989067587.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
 
-secured: "hj/FrqhxIm8Dh6w9tnbzfs1KQRWel/A6shrvVrJE03Dh3rWcfA9jYqZTlyTvCa/KiBXF8TWuYVPaedMnYg+SB/GA5Ust9e2b31ZUBhMtrDchRwLDrZekZmDWq0MJO+AgiXQo0hCX8KKeBxVkqE6T3Xa2TBavi7pPlbNLmm0ZrGC2LuNoZYm61uBL0zv96S+SMEZcgvu47+Gg+QXrVx0pSBgDQaHr8LmdhDBww+dkQHQKHu23gH7kk6B6rNjcNOfciLTWVzFbWmExeCazZ4eyDOIeBKv9FatL6VPOc0LECfI=;6z7ArYJuVORXooHeBHhRWA=="
+secured: "Q8YnOd+AfEbJBlKSY5L/ef4wYNi90etmt87fbm+0LQhVny692L/oiK/zGZJKLGfbYQxj9g+K+nOTxr7dv+6MBcBk74Qa8nqb+wEHBWTLHS1B3Xwgtmw3e/KkyV/ZOfH93zIf1WLXnk7IVlTle16VBI942LHNf5xPbXTMwdWwO0a7rp8HfZ9pXyTfEkvrWVVRgjD1HUk3v5kwqhEBd5H6zEqfKZRX2kNM5gT26UYDBZWY+KgkIyU29vP2n7sdv/e1bAxmIQZOXWbT9O2fjbExVMVFCb3wq6pJUiNjqUgcsrSDgeSRcqRD7W5+ptp7CFMeen/0jtyHFxifb2+HWCIhegbXeAEBcubSX86arJ0XhHlQKfCgPDnY0AiiTdvAaOwYqyR5qXPiLAucoPjtsTI20GyZ32jqIinglVVQLUuUeW5eVF2+6OwNPTtfsMDHMTLUige6ZEgs0SRRU4ATsZOXlg==;rvJ1IW/akMn+iaUhBy1EOg=="
 ---
 

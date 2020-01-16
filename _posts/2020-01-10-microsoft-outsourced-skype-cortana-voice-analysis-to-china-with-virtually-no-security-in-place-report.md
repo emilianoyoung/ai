@@ -8,7 +8,7 @@ ampUrl: https://www.gizmodo.com.au/2020/01/microsoft-outsourced-skype-cortana-vo
 cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/01/microsoft-outsourced-skype-cortana-voice-analysis-to-china-with-virtually-no-security-in-place-report/amp
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,23 @@ images:
     width: 1200
     height: 628
     title: "Microsoft Outsourced Skype, Cortana Voice Analysis To China With Virtually No Security In Place: Report"
+
+related:
+  - title: "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report"
+    excerpt: "According to the Guardian, workers who were tasked with transcribing and vetting these clips in order to improve Microsoft’s voice-recognition technology were given no cybersecurity support to keep the recordings from theft or seizure by governments. A contractor on the project, who was based out of Beijing, told the paper that new hires ..."
+    publishedDateTime: 2020-01-12T12:32:00Z
+    sourceUrl: https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163
+    ampUrl: https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 58
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--yLbSiilu--/c_scale,f_auto,fl_progressive,q_80,w_800/rnlvvsunsjuyaznjm5th.jpg
+        width: 800
+        height: 450
 
 secured: "Y5nFCSETS5dVxmYn7h7efQsEt4Wt1544/2O+Lj2ekccKjoqU1+Wisr5OQUnFm9uxuNQDtVPTrhLZi3C8knJqsOU+6mFA4QDbgl+BwChtYpZsjsYM6fKBWKV0bVfZsTplB3285cyFZk/V07ZPoW9xjR7rQbZVve9CH8mbAgE3Sf+29PVioVY4vq9SKiVtla9YLXLt+f5YQTbKmSNexKbbo+zpim7Y+/zWDE124nSWuv23FbYylfqmmfCzwtnt4l1EVfRRrivQndHZ7oH6g2oMk4VKvWQsTIIz+uTom9eC66c=;6PI5yGr1zN8vZnlrm6XD1A=="
 ---

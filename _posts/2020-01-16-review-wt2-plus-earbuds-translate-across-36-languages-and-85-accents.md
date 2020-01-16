@@ -29,6 +29,6 @@ images:
     height: 774
     title: "Review: WT2 Plus earbuds translate across 36 languages and 85 accents"
 
-secured: "7AApMBaMJSAdvEgrT5+LMskkwMFpQY7yR2A1ZV3XfeNe+l7sjBPQzpTCL1XpI4n9OUeE5TRczpQp0Zaqv3IglIsUSpSNewrJPPWQGHjuNgVLO6N6MeBzn+xmy/v5pOfkob2Pok9k6LfQd5iDYcMxdmmvs7SCCWt5D9KdW5GxZLDkUFu2YZQ1oFJDH+62n8i+I6UKoDEPdSEqef1XT++ys2VMoyAE8FJN4rmECZiYCzQAf2bTY9Y+EHMnpeWR+2DrKBPAssTIRlxuJoDNEGlMVgM0wCsSigDCf+egse3b5fw=;mY/ODeoIfdPnlq2olnVMHg=="
+secured: "bkNU5uHXKBQuX7okciTJuho6GhBdi+t52GZm3vQGV7/LVep2c7w6Bps2CbQapRPl4thpBXTFP2P7TOlD2JcIpvU5zOmqxpQlpOzpN+AIKkWST7r3lpFXphSNrbiXsFTAyoADtyv2ZuSR08LmlKB8LDk5pWzMcmFtdjTKF4ij/PM6sA7nOgl+qeQIwlmU5oi46h8FtYcIHp+e3aczWsfMX1TQ2BBNKwGYb4smYTjNSm/exuxvthHIkpnmyHT+YxjPhvkEk1SOWcgk6Ifa5bkHmS9EtxOY16V85tmfj6FZOU9A6wgWQdDhp6LNjazIuYQxQ90e+lqHke5AyusWvu2mexhKXJ6nr7AhVtLWKfVFhX8qc4GaYXNf5I4jbC1jRVuxpidiKwrmEM+yLOY9FQ8oDpLSBLvsmISOAuFVaORzHpchGPrZcJClTlgvaqpi1ABbKF8Ht+uVkAwiByQ/t5cs0A==;tHCT/1sjROBKlM3MvdG+cQ=="
 ---
 

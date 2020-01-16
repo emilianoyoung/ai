@@ -23,6 +23,6 @@ images:
     height: 315
     title: "EVERSANA and Noom announce strategic partnership to improve therapy adherence and patient engagement for complex therapies"
 
-secured: "3k/lkRGSdRFV00tjVlbRopKU9jX3WJ482cFArHTU0NWgApkkG8Pq6XpgEh0U2jG//FrU88dfC1+yL9cGKUg1VjD+PW5Z1V1LMeUwIXKrWT0BYkA1vBHmDNrnwcHoKGjecS1cfE8ozazv+Kwcp+a46fgOk0a1Ux6jOJXZMkt9q/3TrrCkr1L3g4s560PJlhWBT+mbYbG7VgMIxlrw9SugWuc5VMmBc8CsM+YVvvSyKvFyFU0RAaklQiQEtrumWxPVxUpViLa2t4LgG37GDMPWuZYrlQURw1LLrWcw/3Qk5Z4=;EMhSVi8b2mg9onaeWqvb9g=="
+secured: "Fv8FascZzwLpLkZaUE7KhnKeKFgcCdsTycykfV5h9C+EzSQybUCUcL1EA85/UpdFeHPZ5Wv22d9+CXws82eKQHYdRiMVeKTRSsCGQh9mFDxDRYEIE+5oTq5PHuu3TCGRskebHJYmzisHJINs2SHZhWnCPJOphlslV6k5J47ANI1XZQmXewUrJjDLHvU664Gwk3JW+s8DG4uj3GY2MyYMPVBO+O94tehAhuA6yv0OMOkPXpdaaoO3UWd0Ltx9gtYTSEq6e27WOrhaa3PyJC4UKZU9cnM5mplLuHyAJ1DX1w1iwU//Iwim/PHmHKxDHQIUQCgjl2/iJuxCm02bkfCCWMSBY/NUbixtUiTeGM0pOK7PoTkOQ6ntD6t797OdAJadxazDleczS+Fwma0CG1sIkBXhGpWhP9zImn/8IkXVAwodUX3pB18e7CZhXcjUd2nONBMhUHDlONgyoJm5sU+KcA==;jONK/CDiHMNWQ5h1+2bTGA=="
 ---
 

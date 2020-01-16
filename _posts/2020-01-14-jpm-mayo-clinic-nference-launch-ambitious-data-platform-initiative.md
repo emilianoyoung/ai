@@ -23,6 +23,6 @@ images:
     height: 676
     title: "JPM: Mayo Clinic, nference launch ambitious data platform initiative"
 
-secured: "m+mDue07mRnU46C6n50AXjddv1v0Bqf0DhrDrZ62P8kcOt7pSqzgYPzVCeqQFlbAgrYZD80KAeIv7teOWXUip+xyDePavDE72eUFCJvRIbRj7jCGSuEQ92sf446vxDUDygRyNvyaN+U2OqlWNOavDk2Cx16ELotpoBAgQdCODzMW39+JEf+wHYR18R7Z/8BE0x0eQwdVmgx6Os/BqxsqwR5q593cjKIvJfC1rOcoroAftbPG1zFbQMcXU0kxIHML9ImTepTvGtXQaaVsCxqG7iksWf3Dm9PU6UDfx0lzjoQ=;erZFScF+GjQoLYNgLj/ahA=="
+secured: "Ps2I8OBVgrIHaQemcdttxIfnX+Ibi2+k/ov35fMArlyddrLNEK3176zB9QMWvlsGwsCGD9vd7YFV3u99mbB2tA/yBuxXQDuZROS/qgw95yKSXQ05I0iZDTZeRI9RdXz/xy/yYuNg5RkpgqPYLAF2larvq7YFzDAkj2Hbx5wKzFiMxEx9WY2jpSWkbrGBbuRe9SoNKwkq6aO0v6xonsxkRxN7FkpXaetBrWkmlbWk2TDBh/nt4ZzZEwll//JH01TLkI+wCRRJWqAxYr/lhH3YtqajkgK+50RzZZMysXtqsE9VCf/ZgLw0zszwvS83KRR6i0O0mu/T06UClHc0zL61zt9F5XkN26sZYaeHZxJyi+6giKZd2gB+6qbs5+RxLvJ94Hss48ERlXpzd54LwGK5J/msJAcaC/VW7O9q2F+8Gt7HTNQMdDBL5UX4K0LgJcah4NVbIfCVSXGGnH7ih0NrmA==;P3eWIPo6ff0fbGAMlEPX9Q=="
 ---
 

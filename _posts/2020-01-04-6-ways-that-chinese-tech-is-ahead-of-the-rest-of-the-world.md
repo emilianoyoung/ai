@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,34 @@ images:
     title: "6 ways that Chinese tech is ahead of the rest of the world"
 
 related:
+  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
+    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
+    publishedDateTime: 2020-01-09T22:57:00Z
+    sourceUrl: https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
+        width: 1380
+        height: 600
+  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
+    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
+    publishedDateTime: 2020-01-08T19:45:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
+    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 44
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
+        width: 1200
+        height: 600
   - title: "From 10-second toothbrushes to pizza robots: Here are 9 of the weirdest tech products at CES"
     excerpt: "The carry-on is equipped with AI, self-driving and computer vision technology ... If it is more than 6 feet away from its user, it will alert them via a smart band on their wrist. Jennie, a cuddly robot puppy created by robotics startup Tombot, is designed for Alzheimer and dementia patients, or others who could use some companionship but ..."
     publishedDateTime: 2020-01-10T22:49:00Z
@@ -44,6 +72,6 @@ related:
         width: 614
         height: 345
 
-secured: "H1Kq49+zAfPJv7cAH4Hagm3L7O3NoO58uiyNJOkqaIGRzf2NY/CvqwVWA8WZHAozDPc1XXrdeAk6Lj3G4SdEoE15AekImo9h01cHyQfJc5ZhsTJUQvDVNCFZjdk2r6uW/sDrtk/04Xe17yy1421W1NOLo2AU3RRLnOAECRW7fIrKLMgPxaxsj6HqlT+JHr3ry82VNsvkpGvh+HYI9h6J4CV8PPotnNIArviG+xQ4odJysUxak8skwYmN6s2J4n0hdCGJyup5FL792hruK2KuJrCl+rE/pXtWXmfUbqwQavU=;iTJ9n2q+tKnDFTZ3/1jqiA=="
+secured: "cSp7Ba7RTAOQzetb21uSDU/ZwdgxUGf4Om7N+YPSut1dbRh66MaHLQNCFSDVEK/+/+8761ea9V7u6iteHCgirvRke+0r/coodR4T8if9dGkq6IoW49gFUBxqqvDRvEWWdM0mLaFRVjzSWO8oNEyVGDaX2aeEGlDPiKxfbnr52Xh2o8AwWz1XSt8rayvwpXnefomNt3DRRpyn7CHC5wtUmD8iUHkMNweEFfOuBQ91GkXGqmMg/hZceuesk15RiYrJ9gvbxIGqWXPfgAHe48w5CzVDPGHtYPIj/K7L/IX2CU+yNkkM3EMgtzF9L3XUvx+I/7yvBzMUnA8BmxEBwHW/7N9rWuuWSvQaHXDBuOkwWr0dJ4RcNs30rgRLlK2YQ+dk9cPlFMryI0y9HtO9nVvUrHFfE4MXkmhDHujAyPEv6pOc9W8/EK5eTwDaSPoDMGjZz8Fsk859iz8Cnat71sI2MA==;s4jLBz54ezpKsWI/GkBpvg=="
 ---
 

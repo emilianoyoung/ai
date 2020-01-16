@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Introducing Spokestack—a First-of-its-Kind Service Enabling Custom Voice Assistants on Mobile Apps"
 
-secured: "rT4u5XJdO2ZSag6P1yjsXquOHe/Hegw6+7e2FWQ/9NTAG9GQjyqF0YsphU0/BV92zcxsc8V8+ysMxzbmR9zJL5JmI+7p1WlO+s54tOBEu43K+4P7x5jXXZFt0rYa4U5I/1lRVzp3kRDKlIofA87AnlmGZhM6an+PiWic06vvkeenMcYpNIKIrnoH7+yTDZrYdUof5Nz9aCqa9hGYN2L+zWHSyohAWptnBhhC1g+lRe+vKnm66swzoPhzVpVMNxAF9R3NZcD3K9wEKjYO3Ka4NComKlQl+sms0B5Itkj2VWo=;OvStBT4JP/TY1dOFGpAlxw=="
+secured: "evSSP8Qn3BQ1/mXmPkD9zY8He4OwJGbq+s6EdSkAbrwrESwbmSHwGTYUVg0tCgbcb55xp8gjZNN+crITPBJ27IPNRvV1yAXN0LSsQDoO2kTWy7toFc5UQDrcjTOWQB+w31Cf02xfcfpW43I1CKGh4Au+HfM9PcpChpqyacvUOiXzzmF8rhxGEo1G3dJtJDZaeR9pLZUHDyp9gOcLWtfeRVyzJpctqd7g2yDSUFSClzYiRWC9rhnvrILttIk2KjRYC9z7J5vbvuRv39Ruf9xwPe6dSiOisdvChXzjYtoNZ+AknKu30LzlFCoysRy4haL78eEA/yv8db7LSGddvOP2aU3G8tiircqOm2JoaylIIj4TDc7gyGudnhnY19EqQF243uP5FmCLiN2DXuX5c1p1+X1nMpfHRt+E0tMmjJKLPJTnElzcz8mghEuoJ0Fyh7gUuGZbSkHoyVKWmEnEseN75A==;enjfmu8EFalVdl/Rv6a14g=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 574
     title: "2020: The year of seeing clearly on AI and machine learning"
 
-secured: "ti/wv7waW/sMJJjgBoXcmF+Y7hT6QHMvAPCm3IErxJ32abDf35wKApbp/u9NfOeT9xhvb/wnilU+o08Hr4vA7RTw10elqM/GkNg3v1ZN6MNKgEel++9tH+2GPfsSJH8f86YsCssm3e6zKJOslchFjR1Ka0P0iocEwAqEVsuB72GBLHPeyduiC0DebxFU5Nej26EsKHDO4PlxcGKDkH4bkHhqMY+1Abhb+zsgLRDYQkqEbOVNh/uyacZYRZLMiBft/5ungBrN4sWeSGm9QGO2hZXdqcBMaI92rhrZLCA1OVg=;qWTUayFy0CMcnLxbJYpnpw=="
+secured: "xyRFAqtELFALl801WbUNHg/Q6vetqILN1N9dxYXI/Bd6VRT9D/hh2TdiiDZdmagPuc1t/+19kr8THvg5l4n8RFJLG7T/LLPWSn+arOB7uUExe6arv5u0v+m32Jwem2v16Ssiv0pE9H+lY/YiH7X00Ehi+fqRetjkgQRtiOO+XGqu8H8zKdFqK+RKBCVp9s2yyUnCDk41p8AEbCwH5RH/6AJ3frtlLl5elis2H2X3AE26YI66fyC9vCOC2ELLMF2rNEJMtid0sPHsppNC3cJgCfxnvD5P+wOwNrO6lmQMS+52dhUYfxap8v7vcSK50IEpkPmQr0BNqEVJzgyuhnQzmia47PNk/1ogHJTZfWdYSTQqX6CbZklKG5FoTa8fuOFFyNWNVYqwaFb4cCZe+89GuoLcJxpMsBYccVnMVVUJSG2ekvoKXKrW7I5J+SNV6yJpM/fJBwl5WR6aWgPk90XpXg==;mwui1eT9SWgxkvzyShLykA=="
 ---
 

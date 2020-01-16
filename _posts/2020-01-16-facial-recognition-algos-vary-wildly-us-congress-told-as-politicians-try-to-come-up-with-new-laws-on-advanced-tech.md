@@ -26,19 +26,36 @@ images:
     title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
 
 related:
-  - title: "Companies Seek Clarity Over Facial Recognition as European Regulators Increase Scrutiny"
-    excerpt: "European Union privacy regulators are scrutinizing how companies use facial recognition technology, which early adopters already have deployed in a number of situations such as a retail shop and a casino."
-    publishedDateTime: 2020-01-15T15:30:00Z
-    sourceUrl: https://www.wsj.com/articles/companies-seek-clarity-over-facial-recognition-as-european-regulators-increase-scrutiny-11579084203
+  - title: "US lawmakers concerned by accuracy of facial recognition"
+    excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51130904
+    ampUrl: https://www.bbc.com/news/amp/technology-51130904
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51130904
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 61
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: https://images.wsj.net/im-144056/social
-        width: 1280
-        height: 640
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11DDE/production/_110528137_gettyimages-1139859279.jpg
+        width: 1024
+        height: 576
+  - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+    excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+    publishedDateTime: 2020-01-16T01:11:00Z
+    sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/
+    ampUrl: https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
+        width: 750
+        height: 563
   - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
     excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
     publishedDateTime: 2020-01-09T20:52:00Z
@@ -54,7 +71,18 @@ related:
       - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
         width: 940
         height: 627
+  - title: "Why your palm could be safer than fingerprints or facial recognition"
+    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
+    publishedDateTime: 2020-01-16T05:27:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
 
-secured: "+dqQCAHMb/JxuDQjSSxTHr3IHUu5v9SMu7Ag4rEFQVB7XsS0IQsG8evqyPVUGplGYfAZxZHdI7/twngzuNqPNM7qY2HkmOCI03ShXJffHfmgFVhh1qCKNQ6odS9im8MD/I3f9rHUVvsm3yaBoeV1/uTYoqsbgDblwoOAVQHpLYm3v7i0ZzNrZ8bxzyxRY0+4kM4vnf7aH8PIFbJlJ3nP3jK815GDkkm1po5zk5vw7ZyCgKtMWloSFG+YgPrPH4u2mpzFi3NNIn5CARJioYDh3z29/uBg6a2gPWDIRO4q2EU=;6xOLnPW5RagIqkkfxGwfTA=="
+secured: "CedtJcKEmz/ah7jltAJgbezgBEUB8LNGJhE3j1ZY24vdHjnd1rJIydE53KU0avJAne2O8E18CSC3bMCR51rGz6cATqSNmcH5s9t9cGNb8oRUXgj7Gmy1VWR121eRrXTIuIne+xgff2hXx7McAwmBf2MZwIKBEQ8+ohXLtIfb1bQAttqesOhhLrjlBlIkLpraTggziksHn5IaOnQBjJu3VZWpCoDc9b7ktLwVvVG09Fe4Rx2RJgQk/6YhyPPLbtTFf+2Cr9C+aFjG5LIJ5cyzl7UXIYNrunycwWnIgyxgnEqnhpHZj62RggolyXM3nBSH/aCUL+5WbQC7CudbuQLO0OdfPrsbVVkUmcYxZsoaMjHitvUpno0dj8fw+5qq3zHCfKnbhNdSD3Y/JRVznDGUBAn5pt43MFuFSMvNMKaZBeXvVxWF8W3YGAmlJDCsFmZGkIqVRhS74G5yK2Yshgn6pQ==;QKl3LLmD9M3KNTKDzHifWA=="
 ---
 

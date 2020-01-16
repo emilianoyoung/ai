@@ -23,6 +23,6 @@ images:
     height: 345
     title: "From 10-second toothbrushes to pizza robots, here are 9 weird tech products"
 
-secured: "zBSHXScjqp7zM7hDDkOoqSQhaELow5Brg4SOXLHLZWjar98JZacwcg8bwriPEULle3tu1an22/QQvNaHvu4Ij9ziJdJkFZwrBYgENK1SI3gX2idWP+fL2O1ljxiqLoer1nT+pN6JAJGAM3sk99+pw43xLwDJBISGvK73hjreoqoBZpr1bxsEHS09lM7YdA/ZWZVyOWy+Sj9knhHs5PlKHZ8kzZxshg0tSluibkUhRkBhuA9TLsv89nXqPGlu8org+jW9j4odgUtXO/AkaJMnpqo9i6FmQ0STZVq2BtUHKn8=;82XnoHh3BpGCzcnWdKFtyg=="
+secured: "jbcGCo8XvmdZy618vCNkaP/tMCP9OuynjUt8ichDftotL3UcWJuWOjOUUV/9uyRQQG5MlG6pj1CIAxU61JzsD9d0gLgEGsA+tCOW+q3J7aZtM2X/1+2CYmggHoAZjv6Jv53XUJHg+WBtOofwlUPrxxiqhvL5uq1PFZbnjGgTBjDNcyfdu0dOJp5UAusKB0b8Ps/53zmCS8TxtRp0fKWylOfXMAOx2G1SoeSCmVuxOogzh+NYbWxw7nyaIsrrIKMybysG3FhJadBH567STsYaoX/VtH9HEqdGB3FLYeW6BR2rAbehB0zCYHUvdEhhYmaBxoQZVRxXHkRSOR0IkF3rkaZPDOPbvD4VQtEE5Ny9/7cROG49/6/MIruxbpLTeycc2+GPtee0deQQhhG2sd0rc0SH5z0s9au8eU/Xl7lXu5+saxEQ5QlxQRHHSRyOb1Cxtd5zFEXquzy4sjb9yHeHKQ==;bTObTt5ousT+lSPK+Qt4LQ=="
 ---
 

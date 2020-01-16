@@ -1,19 +1,23 @@
 ---
 category: news
 title: "US lawmakers concerned by accuracy of facial recognition"
-excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
-publishedDateTime: 2020-01-16T04:43:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51130904
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51130904
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51130904
+excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide."
+publishedDateTime: 2020-01-16T04:58:00Z
+sourceUrl: https://www.bbc.com/news/technology-51130904
+ampUrl: https://www.bbc.com/news/amp/technology-51130904
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51130904
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 129
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -41,7 +45,48 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
+    publishedDateTime: 2020-01-09T20:52:00Z
+    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
+    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
+        width: 940
+        height: 627
+  - title: "Why your palm could be safer than fingerprints or facial recognition"
+    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
+    publishedDateTime: 2020-01-16T05:27:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
+  - title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
+    excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
+    publishedDateTime: 2020-01-16T06:12:00Z
+    sourceUrl: https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/
+    ampUrl: https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 21
+    images:
+      - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
+        width: 1000
+        height: 563
 
-secured: "7+Pe7PDGubhwoliGD0+OxAIMRqqFBYe4W16V/oSeUNkKp/CS1JTlM+jnsz+zt21kFc29FsMPLPN4/yTSN2rXPyUgkRO0xhtDretofsqJF8stoqNvbLD44XPPVE8F0L4gHYSDsw1N2pH2LsnzazSR5ycjkvuCdHRToj7kfbub6jyi1jAX52e5CwLNQcC5cd/oBWjRy8ExaUnBtWPtNW3LiLWc9j3yfdWULx0kdbqIB92tatVc6/zpqmUnDVMMarLFknRrdoH/g0Py5jnfJI1Qzbzhfoq/RKfwFalWYsNoLlQ=;p3negEnYWC13OdNM++G+xA=="
+secured: "sGXPKzL4x1+IRY+0Hx3VC4abI+3HDxZb/YsyIW158hIrkNPvLkNDAaolfwgYHZb6QHFLCY4BP4HlOqPgCelpRi9UgE0mNi8Ev/kW5mq3TRH3c6vVP9diY6GVPwxzIODEnSEPhSOtw4B8Ohq79+Fvz//OogjY6QcHOyCQgIdJyP43CRvNPWVCRh78pwq8mV60uKRMK1lHLpQfkG2zEXH7wr1nHeNVtZQGDmUpDpJsAusLsp4+6SeOxyjXFqi/kjQIDlBXl2nxTaDGR1M/oiwpLLmAem+fd3ReKsSaCev+Nhc=;BD4Vd3Cjo7gKrMkvFn3JkA=="
 ---
 

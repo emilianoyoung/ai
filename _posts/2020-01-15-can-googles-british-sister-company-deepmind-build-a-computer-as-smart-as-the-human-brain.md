@@ -26,6 +26,6 @@ images:
     height: 536
     title: "Can Google's British sister company DeepMind build a computer as smart as the human brain?"
 
-secured: "StLvEFIzNUTkMJ5uUcGvxoEHWFssB5KV64r782TA8u5ESLkTpCkofFe32sXIPDJiahJvyCAHaVa1HdJqA6LcAJtmt1O+LF06BrNc6kclctL0Y0Qn8q/b+S/kbBIyH8R0Fi96j9rsKtupOOmMAhUdP9At4B+bl9StVacW0PPI9PYI8Qh3lOLtQkA06aerjCaAniuRAKn8bNVliuB14f6arzQ/c3kzmCmO1SiPfqufO+BJ/1DGsy+Wj9082fVOlflqxVy2GMwKnhkYVdbpBVyS/96ajYiQfBbNRQGq89NXcak=;CYMjCziKtNutIfK21iROQg=="
+secured: "ctd+mv51+1nD7MPSOx0d3wkMF3wIIPNDEwyXlDVZli3bxoViokfcMxuWPm3CbqgdedJSOJaR2Y1ImbG+lgtySFdrmruR8TOP6J5cgQuMQEC0rfWxOMyG7MxeQUldNS31/7aatwDO1hyp+ZDfsxCisHvRHyYNITDHDUqapheu+JsNzrwqgbzk3IoPJ2OOXXhr3Y9gMMqXNE3wVN/LPn/kvDh5VCPc4LJ/6xzwmZCz/SRFzU0O3M+PbifvwGyQXlKuqm7OgOKxf7YpRRkPrDAnbyHTIx+Bqc15I/JcAnR8RsaAcHpzbXutWpPVmrj0Okx0ibAsO+O7PbMJUPZ/KarxOjzQjzyrmv7ruuwjbgcRN9YzrprQFLAOV0clRjsHEUTW/3XMqA1M42yH6ykV727cbl0qebHXc8XYk6tWLRgs5YWad6UzyM7F2QSOkllPTu7ovMY5i0LlSUj6rK7wGwW4sQ==;ee6+2kk/qxFDcxjd6xNaaQ=="
 ---
 

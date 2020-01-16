@@ -26,6 +26,6 @@ images:
     height: 578
     title: "CES 2020: Older adults embrace AI with transparency"
 
-secured: "4HVNDD3z59XRsYxLdS/8uZGIWAcPU442CTAJ1uk3y0+4qgKm12AK3Fy0chW02Z0RF1VttroZPmS8RqPMedtQfpzQ7JmS/Rr1fGZ/MUPy5Ud6d67kwi1fKpvYbGpGxJs2H4EU2MdtImjUd/v49bqvKNpojjFzv2rqKgu2aF6zofRxaCZa4sFqaPu50bxgzaz46GM807MlwAH6EVQnazMbC/CjKTAAKRnJOhMy++idYGeDr6mFL5I0g50eY/5F8cYwVWyfnMEoGvfyjUH8sj5xn3UhXOakBxIK18jDZ4VlvXk=;B3bxbSgfTRLXHLgHYg1P6A=="
+secured: "DaB0yhG1WOjm/73BR+wwYX+HJMts+/ESg86UwROilXMXGYqTRx8uEbnWqy9DU4hwRIXQri32071a+mzV3I+d+XJ0hE+ZqRJHb1zQPmHBEakNYS4sUAtNrbfCk7E1hh/c0QG0s2WjWh1njQM4fj0+5ptAJ7qjIlwGqdqwwqGu8oX7/Audnrw9FgmTHeKNvY3MPZzRdAhdiI49aeyy4ommjvS0iharq77eICBvmOVrDY2/nODclckIT1KV20jKk+1yKnH9jher8kId9QyFaZrmwx3rqtuzVgvZPmwNU5HhcGXcWGQBBnbb9N6cRQcSCgHtO5nzdULaYbArwsjC/PxNo1rN821fWl5Ow5cZaae3T9+PAOcx3NJZKhfoCnpA4feJs9WCJx+NfpAFu5Gmt3TvRPPbOfhyHjaRgDQsyxc9hxfnwpMlu+7x2gOTtFL/742q5MHMmck1nMOZmlqUiDGMOw==;DcahbamwEHLbW5LQWi0r4w=="
 ---
 

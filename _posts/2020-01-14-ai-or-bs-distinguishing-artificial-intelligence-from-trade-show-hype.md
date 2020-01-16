@@ -30,6 +30,6 @@ images:
     height: 1000
     title: "AI or BS: Distinguishing artificial intelligence from trade show hype"
 
-secured: "D0qwGWBsQlqO3K4xY275gM/+3OL87srfZ5Vzovbj8+wIWbsrSGGwiZbasiiixdGTASdizRmEWF2vs8ppcfUkO0lIWomkQZjT7SqQHc5GokOO+XVfGTho9SXVp/rAIJQInNEXimBq7kzAB742uqnRb4ctH5K48qeGlQrMDf+3it4Bzyj+0gnsgHuKXY/1qUjtAGZHtrSX8f3F7img2TKkZd7JzUqUdrAEx6cUCWU654sFuONZmMmS5s0mpjw5ZcFR3Hsr34n4djzqOc4rdUlTVWctsEUEtDDto5PYOnsjt8E=;0Q4v01NLL8rfVqgFaUO93w=="
+secured: "+/JC8Un5kK+WSNU+t7c9QKdcgmkvrsLgJaLdxar+pmFipZYwxbD5H5AruIiwgFPGmhGn3Cbjp4rSiaLYaQkfCqPrq3muFFWIIyWmo6Zr9V+HTy4hqe/qm8YUlY097CkhqOYpU5RrH3K/70GJ6urcKbFYBUZ81ZK8WKtThb2iAXftsaQSOdX7hNGmiUtYKxjYpDE9Y3BQ7Rqij+voSSYF/PBdIjQVHytBzgIfXfE88ZRhwclr0rQ/5+wEusQwH+qCF3lMB9TD9VGWo4MWIR0nOpxZTfljQKRusV4i3k6q42ftzuVwP3SrefjSrs/91RXmpwISseXLFEwqvFp+Fjzqopck1Ri4edsl7yhmHLpRKMSZuO/INgkaLPzU7qRIDnDGu7YMZjshw0de2mmCWYdOx0n4wnhSSdRW5EXfrWEQvHmfuVyAgoNrSA3ZI/pLaxSKEN/VT+9OvWuFCtgLsevfxQ==;1PQN5Bi52DfPRcrr3eRVgw=="
 ---
 

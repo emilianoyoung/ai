@@ -25,6 +25,6 @@ images:
     height: 384
     title: "Digital ID verification firm Socure to tap into Indian fintech market, double headcount"
 
-secured: "CuTbdkb6RfQiA3G+29iQ6cQwQtMVlD/vXbUBQ0RR2OGrQlCeaqbwkfMnnz/Hv5DztOrJuk8p3SYCLf8adhVdNjByzsRXCtrXRvhmk6974MdIDc5+CfB8zpQUlDYLpzepVVyRU8WJ6db6Utw8XW99R3+6iljZCZw4IgKXFR2/6ib6CektCKXf8KUwD8Fzw2eBO2aqQkgbR8jfjQSHuHypqqvpde1P111k7DezzkKbK69A7KdD2lCQdWqRC9ZXtk3joaZFU62ZvG/4mTDu1Vuec+TgmwNHjM2wmHPkBjxTHCw=;pqdCXujSl1b2Ff+8Ql139A=="
+secured: "eYMkd3k9UDDz3q76bjYLaPROM33LGRUQBp+r3ziRCirsO8lAWqKrgC1l9QXujthjHNWRncIa31dukspC1PDzdQLTCgCb3nzkkHyu1BHGuEzI8YkbxDqDM9GZeQ+Og3dxTNUWv/nCXPgKb9HNN0cWp8hTOZB7HjGZDdemfFJ1QG9aG/A9DzQ+tpnql/OJbR+Fl3zf6EKlvg/KEM6mCbxbDNgmrAewOmhqHvBJ1P1oXbadcxejFKHsaT5QwlESTqYHRhllJiww38pd9tKrnuf+khZ5nCIqKEE+HsolgCXk4O/5eSfff5dWUmNaSbsk7rAWYmrGo6wYR8OJkpel11s5O1Z+xlbT1RqxfeIkHfwOyM+lOTGtOqLCVuWer6ob/kvo+yMFqvfhtX31dxfrG2LVDpDGPCGn0IGP6q2sHua+pM1BVlCazrrv/sWEyhHFVmtcbMCZND90iBjHhyqDR4hO/g==;s2DO1idPeQTRANQ4XzN1gg=="
 ---
 

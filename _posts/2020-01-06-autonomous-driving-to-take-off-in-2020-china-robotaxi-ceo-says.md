@@ -23,6 +23,6 @@ images:
     height: 512
     title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
 
-secured: "rNbfIYQwUjLcQr8H46zyms6T4zkjOK2C7Vvo7DgsUI8EuVZyPhFhWnYYQHGU5iHPAPuewkqFbxEz0ovfDwfo9R743YVTv4iyg+moiprzjXbWng+laHXQALuS+tBT6pOSCsVsb1FLOGaqi0C5Wxi0Ez7hDa966TE4Iw7FUW2ZI8Sh5SP0ST/xNil0ve6eFBiwjtDA0/oxWNzI2ClToZwWZJZhXzKtVHXvvbT0WUUOQ3UGcPdg1ZEcAkTfaxqMfemifQFGb5y4uTst/qD5gnRf8aMdaWHcGb3AxMP60M4KxNo=;7jlxUXriwY/5zGBRbvfmSw=="
+secured: "VWMwd5EuMfeqFfTGRxCTZe/qBx//36uqeXVNUvfJ+JTp7faj+rF8QcXAV3xAxRtgqQqw72mnGbPBhmTktNaqbJQ4uOB6crILHRErRQbp13YnQSQ28daxR8mxoAiSNN+YxuY02HyTf93K6ZL6lvufXx1j6u85WV1iun320xtRdk+a6QRTao+keG2Mivhbgw8NGuRbQqQIQvPbKl9p8vwR2cxfGPpwsrDVJiAgqAFkipzj2/O7Cv6xz/SLo/xSzDEG9xkJeGuGUktRCVl7VVPiVBAt95VIvWOEGUDtX0IG+jItimTbJ8nRqYYcf8gGGJ5cl+99Um9xdJ/thUQ4dibhaV+aXk1eZdJ/8mO/90Pqe4OglcG3Jt5qIG2BV20lolyf2b+z6iRkHJldmmYNrEVNn7Y2rm+No8WNxFRkLHvl3FWjsVtey0v8Kang4m5981HXAIO4py63+nb0/DKB695UAw==;eBi0TrX2Qgsqu6gFRj2WnQ=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 1080
     title: "Vermont releases report by nation's first state-led AI taskforce"
 
-secured: "nBT+XfRuJKEgh3yWcwMFErublCIsj/yMxpvcyoDmmK8uSSyA0UUonVnBCsQ0/FI4XavjmJb+L/d5CvbWhicLa8X6VGpX+/yk3x45ToFr0myj/LVHolZlVZ2SZxUbaA2X/G6YxhwgHPubB09r0iLstW83yohf/ieaF5/eNDXKEgQOwQ/57brXmsSM8lSwfC7u0jcreTL3s8ZMEc9PAvbqjOpxzaA7Lb9DJVkQ0kiIjABChbWqHs5LZJdSTgTyHt1bbUCASU5h6dUryp+ifBtTrAK4yV5cfCVlcS8VLuNmacs=;HWUl+OBI1cWqwkx9SeU2gA=="
+secured: "XqSLH3Ex7fJA/tqB3S9CUZ8applAe2L9qj/cgsiN0K3VfqqvkmkdoXwDgwSOSsaCrmspgGkW6mPJOTtZIHWlqBOS8NyVyWF1JWx9NQTwBvc/cGaTsjAlf/7oCbfyQfep32WjXDS+zuOPQ/8CUDifp1aoKcfI3lJvt/XN5PNqHi4c0xvgPi9VQQvw+UvCdfNCxYgulNLFQCgAx+gOmB5oNB2s7OODwlKoesJ1Zl/+MfYoTNDp8JZRu7ALC/AqK2uaD6UhI0whHxaoef4EDv5SxygFJvAr5sIkz8aJhfbL6YNb4KaPKWOK/tOBpz0/RFfUQGm6FdEqjC3enRFfqVPIaGDC2rcEirGcifHSsAMVyxU3oMzr53y+SHxXQwmipEogAEofXmEZ/jWc+T3ZJ8jPUAxgFMxV/HtkHc8XqYA0cB80YX653FOm4ZPG6QyQpr1KgxHkRUyB+G+dn/PXBV2jWg==;7D6eU0/zJIXEtv8j+Cvhaw=="
 ---
 

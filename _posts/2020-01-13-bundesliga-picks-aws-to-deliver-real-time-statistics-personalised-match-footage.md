@@ -35,13 +35,17 @@ related:
         height: 337
   - title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
     excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-    publishedDateTime: 2020-01-13T17:49:00Z
-    sourceUrl: https://webuilddesign.com/bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key/
+    publishedDateTime: 2020-01-13T15:31:00Z
+    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
     type: article
     provider:
-      name: webuilddesign.com
-      domain: webuilddesign.com
-    quality: 31
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 51
+    images:
+      - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
+        width: 600
+        height: 378
 
 secured: "dDzp9DKH7HU6+2bBEbaKZG4JyDlc4NoHIt3KcbSDvtgtBjq0X7JNYnu9LPUo31hNUJrdPX+AK3h9IVKgyV64vDzg1fvohqMLFyx7vfvho9ASX0SHJ0y+eGzZJOZBol1/SCC0Z4E6W65/sLGoGe5ngx+AFbIKsXKZBbDnDQFcHe0kDaVvejhEha4wrCpJqnxAL/zcCVK5jqZVaXkjMVOFNOIgBHAjO3F7Aisdf6koSZ4QUABVCBZlWzZodRK+LPjSxunhccijUWvQOmUucgfvUcx0n6eKxHwDgbg3EB6gE1I=;nWRXyesGW93WIxa4JSYQZA=="
 ---

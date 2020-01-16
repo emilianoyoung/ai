@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T02:10:00Z
 sourceUrl: https://www.businessinsider.com/smartest-enterprise-acquisitions-past-decade-wall-street-analysts-2020-1?IR=T
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,23 @@ images:
     height: 512
     title: "These are the 19 smartest enterprise tech acquisitions from 2009 to 2019, according to analysts"
 
-secured: "FPacZhyFWPYU+KZJ/1fQuWGYmkMtmjRn04JGf6YkGKi50c1CHjtjjrlzXWxo5JSDZlZP0E8yTzh82ELIZFKzv4j04D+cNJ689mxgTssbG9p95mNu22oS66HM54uMRFTi9w46E08MGp3lnJbqYbX2Ckb73XOiJBV/iyV5hMiK2OawCGv7t5hGP8JzKzAUHmL3U5ZeMmPsCdZmpzWz/KwUubIMwnQ21Qib4xvckjJbhk9ZGNinjRCwnNSgPrLwam94BMo7IFDYbOUcwHJJLjmXvV0kGbWbxnQ5PbNQFI7yrhU=;HcC3t0kbVZ4mZwcu3ZWFCg=="
+related:
+  - title: "The Self-Driving Enterprise And The Road To Automation"
+    excerpt: "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes."
+    publishedDateTime: 2020-01-09T13:09:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
+        width: 711
+        height: 461
+
+secured: "nxDgrYaL0p1b1NiAJG+Flfd7UuK/T91/yyNTRJK0AsXXXRcjY4X233T2joyWY3Gg8pgEfWLc5yqRIstWnVDdkZ4Dm/OGTooqiPCnRImTWV7U/SZwUXoL4C5mo+nbIpVKLDzUxr88YHQaDUZCvHEio3gmrIhfyQO2CFGBGsmd5/RAl44HFMY1+czSB1Ws1SsioKxFG/BEmjrYq0KniO5BSEbAEzM3C2hpdrMsgTDzGJWlPp+/LUNVtYmFtOUi73Hq2a7cO662G7SIGgJ0RkJcTHkV6OMTJlhfjQOOvaxx8RgUUYeH5k48vs6jYZqEGaHoyUz3ZChITc+kC0ATENnYIMkHWBbfUZnb2JFTnnLgNIn2+E3clN/izOgXwO4gD1JffvU7uYbqmz12LiITyYwCNsNjFS+tsiw8iwfd14M+4ojgRd0yicgO9J+qG4MRi1UCTvgnCB2VeG8H1B7YLfQHyA==;8/F7sSxjtCQwaoejebdZfw=="
 ---
 

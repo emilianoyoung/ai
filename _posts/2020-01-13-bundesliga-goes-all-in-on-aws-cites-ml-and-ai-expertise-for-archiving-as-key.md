@@ -2,20 +2,26 @@
 category: news
 title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-publishedDateTime: 2020-01-13T17:49:00Z
-sourceUrl: https://webuilddesign.com/bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key/
+publishedDateTime: 2020-01-13T15:31:00Z
+sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: webuilddesign.com
-  domain: webuilddesign.com
+  name: Cloud Computing
+  domain: cloudcomputing-news.net
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
+    width: 600
+    height: 378
+    title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 
 related:
   - title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
@@ -43,6 +49,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "Byz6Fj1WSV5Ne+JohKennWLmfFmIOajWOEPbHa/7PYagklCEN6K0AH1dpas9XNhTxTA4o/EfKEkySqcnKJwpHT6Y8MCyRTT7KmA8+dQKwdXv64oXXJyZ95Oz5CUW16C8pi5hq3cpd6L6T3uGQVheZ5cs4hFmeL1+SU79bCtdNCScezzHww3zcD9Ne8XLTC2cAS3OfsTM6kQyZNHzWVT9BVoUsYmGyKSE6dRnnFRX9Bj8SmlmqX7iPhaC5mxwa33bq6O5yl0yGEAySelQFkg7Xr58Q3NjzQcKygo/g9Srt9+tIosYIDkqQvqxTbpoVlqjIsSafFXeT73zjb2HRtVRR8+sUcV7otLbcVxq+TBmtRFv4M3ITauu5yPv5ZNswaoQYVKJivFIAvfZvocH+8c7JtJkL2nY+jQRIRor0cYv+J5koGSmw12BSQViog822suTDR8q7xr2kSP9sYbXtqSjKA==;Amv6AbdWwxcRHsixD9k2rA=="
+secured: "KB+SJoVP6OEcajqS7yibQmXjbAg0ys+pMnC+HXwgb1P12ZUqRy8MSQJmFySjI0HdAq/Gj2xCyJagHYfLRoXtX8v2nxOGObEduL8VZcqr4rzOYge0kCzfliy9JnCGo2i/58iR5eGTCVEwu+3JFItVm4Pn41AmyqhhX8QxiOruig7Fydn3EQZJreHgv3If7bIIBm0lmv4XD7kbiz1RLiprR2nnXrdM/4PxvV1xgjzL9ZTOKIk26RS6/SS/GwY98UWkxAx0pgDZAFy1tQCa5KqOqU+r5tgr9phwkKU4QJxXUck=;vXjDnJwYogJw8ayFu44p6w=="
 ---
 

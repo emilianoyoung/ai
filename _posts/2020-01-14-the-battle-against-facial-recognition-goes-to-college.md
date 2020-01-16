@@ -3,7 +3,7 @@ category: news
 title: "The battle against facial recognition goes to college"
 excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
 publishedDateTime: 2020-01-14T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
 type: article
 quality: 54
 heat: -1
@@ -194,6 +194,19 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z
@@ -234,6 +247,6 @@ related:
         width: 1484
         height: 988
 
-secured: "xPFMmQiFOnEU1KAwG6/xMMxHsYsWPIllWzU/cMQxufdhr7poRMeUlGO2PhazBd9a+on3SjgplH0sg36kBfzerO407IBo430lPdzsKzn25Ux9CBXj0cds92i2iy3YMuXLkYI7zO7bM7JphNWKUdhA3NnIs8y6wItUl68Huuamjj2dVQD+pNCk1Bc8naqfgfnvRANfl1pAXu4w1AAGRv9Ot4RRf2FjgA2GvczuDC6fACWYLMVVeMGEroiiW6FgyxiH0Z6ZutzoXAeJISSu0oXOxFB4CFZs/HG6Df+XgEGK+bg=;wcWFS9RH37gn8eQBsrI5XA=="
+secured: "K4BaJBDIGYf1HrLLA1Y2BYmzyIXeSazTA0FT4REAtnMiRgwoGEjQF6patFMymymgFTtxTQmqyfvzCiJDQ2CeaABuDuoQ2iemyDddWBeIm2lN3ghNEqCRsgymaN+A6A5rFcAoGGdSxaKevjSbP+BFHUVTCnJxguWAvxq9oI8xJd8SulLNKrbszTmRP3pB+bRaUXc4HGc3qbZlmva13fcStyrwYp3AdG5XnavL29lIv5jNJYi6prwOCnZwERZCaEm5eGpTeT39LuSLviUfpi0lFU6Zw4JAA0OZTZKzeYn84fo=;pGIBXblbVXfJYwgpk/4n7Q=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 1000
     title: "No More Finger Pricks: Artificial Intelligence can Track Low-glucose Levels Via ECG"
 
-secured: "Kp/6L4/P7hHr3MHXydWhNGoXdiTCGoUqNp5SWthDSTrODyfYxr0C+afAyWSWRuytyQOup24dRKpYHt6lCuY+bV8Ov1GYfPO3oyOBlHNsdlDIwxW9rh+yXEpeR5CFvC9xQ6ajrhh18vF25auN7Jv48Zj+Ee3M7890mXd0wvjX6SZM/aLhqEZLrFL8Nq72eYvOWPaN14rM0DOxa01iRm624QdU9tYSPuv/6lLlB3sFspD+rE3F7A6gzeO7IRVWQHqlje+xgart8pcsMU8mDutExWs2FBzqcmXROCk+9eTL46k=;dxrzQXMetwpxlivgv8onyg=="
+secured: "qK5hzCAr8muRtarz+OEdNnWN6MseyEUALxNLcLhTuALTZnq9HDrkpA5QawYiE6APAPcPxb9GjmNihDGiYi/fC6LYT/oZdknoOLUXo6yy+U80QqW4WM6rLT9L3aojEnEzo+ykbxKi2Y0JwuD83klHc2fZCvRaKl2yuJAm5ikPt3t5PQJ5EqNOly9aIo4oy+R5kt5S64OGPmsyP3gWIsY2V4dIY3fv6c11z79UqVNwqdDC5nSNrpYoB6Y1z+s1C6xS2q2qYQJWZdN/OWpWMSP0wEgWjjXATUBBvZYts1AMLUyMKLUxrPGF50dIBIBr+uBzup7PfgmJIG59DMOgUWktaJJRs6Bt+Js3T+o2B4hl6+wuBhqkLdUsOpLn7p83YN713np3n9xjYwO1Rq/qUmBbHu4YtP8Fn1MkfLwE6xQbYZlrP17nmmUaMNkoYjn2HZanFaloAPu7MibNrTAaX9FtqA==;Xjn3pNfV+gKUUGLVeT/I2Q=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-i
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/amp/
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     height: 535
     title: "Where Artificial Intelligence Will Disrupt Next"
 
-secured: "MsW1dxEN8bFcpTQ5QAkQX93uMRNnYF0Q9hTrB2q+vCjXCqZyi2neQ8+T0KT0oL6O1jT7arxa/bYKtXtkzMJSxt5NRTDAaQDFgeAWdLou59To7vT6YaIntfc4RvIe90OLLSJk84uopWGXon4g9Txuivroz7lMMJF+cBNjMPoRSfm9pBC2GqYgS4Ah1drdUb6aBIHRQ+8Tp4X/2sOp9EmiQHprdyWYjbc7HGpMtlfl+pEF+y+/dyzmGCHSKw41ZenxyPSUo94RXH44Wh1hXBUBnpb1UQPfVxyRVxHC1oFP6a0=;MOn/NJMUqalEAweJ7+Ghwg=="
+related:
+  - title: "Apple snaps up artificial-intelligence startup Xnor.ai for about $200 million: reports"
+    excerpt: "Apple Inc. has acquired artificial-intelligence startup Xnor.ai for a price near $200 million, according to reports Wednesday. The acquisition, which"
+    publishedDateTime: 2020-01-16T01:19:00Z
+    sourceUrl: https://www.marketwatch.com/story/apple-snaps-up-artificial-intelligence-startup-xnorai-for-about-200-million-reports-2020-01-15?mod=u.s.-china-trade-talks
+    ampUrl: https://www.marketwatch.com/amp/story/guid/7DE98E79-29A9-43A8-A665-C51489BC052E
+    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/7DE98E79-29A9-43A8-A665-C51489BC052E
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+
+secured: "s+JXalfGTmK3Qkj5Qn0ghw8e99aZjhp+M8zp7H+XmOOEcUtDBYKOQ+QGRJ26vaDhinU1KeXkJAnYauZM4XenamNNsOjcBGfoMXsjRedmheGCGdhaoBQWKxg0Rl9XYsigHKKx/NkqdsKa1lldAX0S5lIovMI34ntdcQrLQjCMfa55oYg2tOee6nbXOTazNC+q25b5M71Mslah4qammVwhAGM6ayspKfzsGkXQYmOaJIDviiJThhgrMwO87Q43hsPxwF/F9wThnJOXiSOyDhRHjjIxpenq2hk+TWG+BbkxjyrcvcAExCB6fh6WuXtGHYfUGVOZXqLK6nkqtSeMGZvBqCqlDGNxJCJ94vIGbbSleHJGNGzyb1tj8Ttzy+KVPiNt/6Bk7hm+F3+pOib/LtSDtaWtWUGQNssPG0kyptx4fbBjDYwKCks3NVCXbP1/jB0+K/KEuBjXz34QGZ+c7ZNOsg==;dru32YdrRYDhtFHR96Gsrw=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 432
     title: "AI and shopping: Every customer can be a VIP"
 
-secured: "JarDiaPL3MytOhZj6e1oAab6s1smgKM/Z6+gKOIqTQ1ZNTAol+RPvdRwQ19GELM53pQ1k6OKu3a+CJTtEw5Xi79FDGYQ4d2IeGMN4IAPg4nZnT/6qllposqNnawbzaqo31WoMaYIlu40tznorAppjcEvIZ/Nc6hdeCScp4wnq7cp9zAIED8cMVsTQJ1cnPOsvd6omv0axw/chHvI+44+3ZISQBaWkm0ym0SGpDxS7faGmxZMFP5lct+BBenxIgNBKqysLIc4YKAu4tw+oYsQyIgTlOtZzprJr9e95eYosrw=;TkPngyN9rz/2RyI0INxB6g=="
+secured: "vDmPI+gpDC4xugaTlINOhIO5y4Pmo5gpIL7aVYVf/HtgNrGUeEc5LreJb9YsooVPtfI6ZhRICmGUBcCFses5dO/a5h01ItvTTJdXuo+h1OPx/ti7qaYFsP4g6weqbGbZUTLulDqOrkVRqrkUgcazLi9I1uQU34m/ThUyG5R8Hzgfjjy1mFOX18EzQoCwLXwxkqhiWKh50gKf9cSDkjT28IoGspoSfh7S2nMMduqJOaWlPQtm5UVAaMHi5FsW8UUz36JA0YkmnDMnelNgFVEnBs/u2tErbsPWmVN/kQPgW7tCbgpTEjbGHm1pIsvxEzEldAPWFDJSquh9VtDNMZ17Hhu/ebbQ+ylqkmh9X+ILvEukeLa4ZNhmpNrC0WLRJE8dgMiea7NxLizFr00hXkWEBHh9Uffi0MMg7+9z04gg2YN6uEWWH8umxLKVwO7JGYwG4TVD/ydAHd+Ks9yVbqe60w==;EzTJnIeEvZDPbJJjZyD5ag=="
 ---
 

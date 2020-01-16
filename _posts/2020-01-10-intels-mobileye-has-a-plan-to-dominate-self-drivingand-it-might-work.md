@@ -27,6 +27,6 @@ images:
     height: 380
     title: "Intel’s Mobileye has a plan to dominate self-driving—and it might work"
 
-secured: "UsidA+l8+bkoMrlrty/zLJe/ryJcLW9/UM8T19p9FpMuf/ogNd/3nL5JOHb+zVEhSiwEP3xC1wTyWtyHI0NcDg//F38cPtZLmx/mfVwl7gHdQZp8bVFqmh9pCSiFVvw9EDtXqg9BhC6/cVHl0aQs3NTDirzEqf7G3jODVbzJDidajI8MmphMXxqlfw8qa4UohNeUIY3Q2RX3lKNr9sLyt4oaHqZypU2CdwdZqjj7tq6moqwLA+ODpIkcyLM2IGMArx3P7G/Bdw4p/MPpNyIDFJOjp/cgxHQUUis1/yGpxu0=;YOcbhvVSNOnkG1T4kLPYUg=="
+secured: "RdQy4kKFkHVlXWaY21+AiSaYhJ1NKOmIRyGObtTD4Lzi2Rx+XXjz6d35scHuwxGjk6hXa89D1aEFckQsN9agOu1qpJYDE03ljyoFMG7rRUjcMKKmXshbwJwo1R0b7rnovxR9RLWZBz8uQNZuE257jGmq0bN2rE2f71xCNsnAzqJuimfYZ4v4ZSspTt4GU/LvJHjeYuKvKaE5Ia5Wq1UPvVCQKy4Bv3Rk1FoHPUJyfReYlNjReeJ9chiJfveXB9xdCSV7MrY8AKMigUtC4EcUT23x/5aBVNmm0pCmCc7JOL0+goCyZrivxNjkizQz6x8Te3Hz4dh/dZsugwNSAHeZ9zzq8g70qpB+k8V0Ifrsrg6P6UPk+pwbWozqUqEvVr5tk1YeR8RsG/QLEyUcksVpgQ4gIXd6L7AKdCcx9ISzMjB2fW07qSQ+mbo5XzjWGOyrq9ZukgdQ5iUu+sSyt2k++Q==;gV0xNK//tQ1hvU7yPgQa7Q=="
 ---
 

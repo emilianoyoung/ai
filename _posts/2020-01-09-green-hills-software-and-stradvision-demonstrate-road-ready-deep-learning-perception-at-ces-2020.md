@@ -23,6 +23,6 @@ images:
     height: 740
     title: "Green Hills Software and StradVision Demonstrate Road-Ready Deep Learning Perception at CES 2020"
 
-secured: "MnWzR0Hx1DJQpfSewhBnpbdV0MXSyseHzCMNgf4lv1mmPBMo6GBM3cS3SXM1Hz65CLx8h5rocVZq2SQREWy4Qjc6s9MhlqfSAvP1YBSuHKgH+xxWjbxi2aLDiP1y9q1QzqsbsL8hRFw1IihRtSOymfeL01OO/JvjGA1/9yfciGl7FhiI2sP8plLtN+0Ar3VLlWuuHeQNjA5zjw9ECh7sFp0XPsr26U+u22ULlUL8cH/7PG74/AtawgCz5wENrK6J6lx5/jDpCyqzXwI/+pHf2XN+gTTx3m6cGxefhk+2B7Y=;4WMyZe0MO8oguEzRhNNSJw=="
+secured: "H3adYOsPqqDQuTFbxrPJH0c/S8GDTEokCsf/mlYIcAU8AYfGaXRhU0lBJSvpLHQ25T3lJX+tN0pC420vsAlNLzzaAoRq6btjekD3dNU1aVoijljZ1Rar9WxkezjlDYzDtIkJ5zjIDNhIofNXCME1v1LAWWegXUJG0mPaDlwS5ez2xfxwY9nL+2Rd7y+VoVTbs8RShW08YFe+D1Cgb49k82xga8K0u9lEn5RCyrvXqH5dqdX5QTUFM9KuhsO1JpEoKYHPDtwNPeSyn5yepxhFt+a3DkV20BpSQ2YU2rA9ydaz3EUwPTkUggdfTzBaW6CJDIdognSHY3mvu0FGE2/RnW3BSLbiSq2DAjF/MU+BiJkYqVLNgL18P2tDwzdMpGeyOkszec+wV5hM7UVaqbdpEwhmmMaSoJe4KK6sLPz+m+PtZ4OGmilI86ylO+GeLK84fS1bTcvL/2n6A1+y/N5cGw==;IhlHa/3LcfatFyrXnFDxDw=="
 ---
 

@@ -85,6 +85,21 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg
         width: 1280
         height: 800
+  - title: "Apple Reportedly Acquires AI Start-up Xnor.ai For About $200 Mln"
+    excerpt: "(RTTNews) - Apple has acquired artificial intelligence software start-up Xnor.ai for about $200 million, Geekwire reported citing people familiar with the matter. Xnor focuses on the efficient deployment of AI in edge devices like smartphones,"
+    publishedDateTime: 2020-01-16T03:26:00Z
+    sourceUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15
+    ampUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 87
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range"
     excerpt: "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ..."
     publishedDateTime: 2020-01-16T00:43:00Z
@@ -209,6 +224,6 @@ related:
         width: 600
         height: 330
 
-secured: "zCqoE0j1UGpYewWSx4aFVPv8Ep9ikdak4N7f1LlzmgUc67HPyyel8fAAkeyZpGSeXIFJw2eHsFr6QfPzPrS4xiJtXyV84mmER2SBOmMD7L4FDR5IHNtq9ar06paAjoSHqu4mm837Sv6fVtDiXyRln9uQpKLN3exMjC3xTwWdmxp//QrAGTgHtRckExVwXoJ8RisJ/FZ8GE4FewpV/71RB4OvsS0UYQuLwByWkSJIlSpQqu9NhFPHud/6ik8zMREp/6KDjW/Bn7iBGkQ80jwKIfuUNYegMaLe7gyOhIxRZDw=;FLwId6UtwzN9A04cdG7xYw=="
+secured: "gZzYZKwc7oNZ9NDrir+TaUpWbSQQcl4ZJNd4evUN8Nn05Rev0jiUdnmFXy6b2fwiE++miNdgnJTsnD2b9ujPkvpv0t0UxCU2HNG+M+2vJjRRpgOapbbBlziKBaZ0zuBmLYG7V6CI/Zn3wFNlbL0HDqKav9DaSfpUe3LmUZKDa6hP6iL7MVUmG0wr6OT2cDLPtQfvGD/cBaSojs4e4uAGHCvfgLs++3yBfd/P7Nj+SSnEfS09FY5ZDKa2NsWWNOHD/9g97e4AiZEdVE1pSTlv4w9wC9MjA5RCc8r6MAHhRqx8Go79oa8akY35GJ6hfJ0MVUHtjRbhN5t2bwh5pAwViShr4TB7mqgkQQ6tlur7yvlv4w0t9kDcYXVB/2Y6Js5ORiKg14QvMn4zEqK1tlAaEHSxJcbIM1vC7y3lMreK9sd7E5APj5OhV5X4wH8kDcULNkFEm6wfOuzX8Ufcg41UnQ==;b6ZRQprZQciViWaZ0rCQ2Q=="
 ---
 

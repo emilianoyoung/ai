@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-fie
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Zinier raises $90 million to embed field service work with AI and machine learning"
 
 related:
+  - title: "6Sense raises $40 million to automate B2B sales processes with AI"
+    excerpt: "The company claimed revenue grew by 100% in 2018, the year that marked its acquisition of AI startup ZenIQ, and that the growth continued well into 2019. “As a startup, a company can sell via personal relationships and word of mouth. In the scale-up growth phase, the equivalent is account-based marketing and sales,” said Lieberman."
+    publishedDateTime: 2020-01-15T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/6sense-funding-40-million/
+    ampUrl: https://venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/04/6sense_official-e1578989067587.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "Iconiq leads $90M round for AI-powered field service startup Zinier"
     excerpt: "The San Francisco startup this morning announced that it has clinched a $90 million funding round ... ISAC provides features for handling core tasks such as scheduling repairs and dispatching technicians, plus an AI-powered automation layer that optimizes the flow of work. The platform suggests specific actions that field service teams ..."
     publishedDateTime: 2020-01-16T00:36:00Z
@@ -44,6 +59,6 @@ related:
         width: 718
         height: 400
 
-secured: "kSVxVimRkGUqtP2NZF6GzygHtqFrhSHhgOtR1IPORYwgitOc8Wvx4ZB8B1b8kXZNH6oEz3mrL5/mCKS3rSnqP0EBKIwFmjqINXLYYu4WwqsUnjTW6F9CEyh8hc7Mg9GM2KuIhr9vz7aYi3pKHMIdE24rZJAeXc/VpV3gMkdP4OofGmt97P1S5RccNLLujcJmzZejM+JsOfT7ENlp47LUrkz33RXgfMccVotjP/zv5hN/0vvvmQGyAgoZRu2s7gagRO31rCp5CwCQ3gx5I03eTWPp6S8Xu/yiS0EPXeiA3H8=;oNN37YtGk+bOjULJ/GdaOg=="
+secured: "bZbF8uvpLkCcPGcyoxr83i+AYL3M51XXgAkswUoe23tRuwjYfeZ3DNzAaJ9oHWeJXxLNJvmzgLZP658tZDrb26a4Y/BBQmzGwZRxbkHhqg96fzrmPR7M3X63bH0RqxALbJ89efVDHQItfVHyk9O9MOif1BGpldYrnX9lEJD4TpdaPnOYE3GJqZly+6wKx5DVsRJE8k4N2MLMP6iAwnfDdXBJvBpI6elQO3ysMveGLLQy+ZpeaFDEYQIrpWdzPfkHpBnjuepSOfGk/AK22QkKG25X4eXHNjPMENUpYWlIb4q9OfjPbNCAW1DfQn9seNi6H1q91o+VW1FORlcVHUCcLjogfpnjZz/FeR8AC03n02pY0KzQfokYXmpUE99J3/W6HLNMn0/dno+lCVGuCTXdu0fKdSjM0Q8QmKPFRPfq8lkPNISoyNx+UWJrfDREuZFqfKjyKCUn15XVUzj6Vqz+cA==;0bizPBIrTgKhoSN3oHNTsg=="
 ---
 

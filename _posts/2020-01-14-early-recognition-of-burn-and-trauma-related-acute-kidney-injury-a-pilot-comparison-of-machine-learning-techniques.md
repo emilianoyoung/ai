@@ -23,6 +23,6 @@ images:
     height: 685
     title: "Early Recognition of Burn- and Trauma-Related Acute Kidney Injury: A Pilot Comparison of Machine Learning Techniques"
 
-secured: "AD/LOs5Dt5zliXc0S650Fi8RqEvb3nHp9mID/0mb1yolZy9otz2v9dLjBaYpxV4brLNLiWY7n3xo1iVu7uMAlboH+TnErBEuggzSKEWXqA5fDnNeeGU4N78U6LtRn4+R4NpSuIt7FhkRZjy3hEu3o+gbSO2VO/fxq4rtKOH/rdUG6tRdC2k6V8P9s2kmZZ08k8U8yPjvAYdbTLDN+U+b8C6qpJY2US/qV5vkNr3+IQPNB9XJFNwpMeydfVwlg1DdZ3lkDvMsZzOe9fF/uUrv9oj5FGJtI5FDj5BFgptWatI=;NfObr4T5xHf2++aoPeKfYg=="
+secured: "Y8JEyOPyM/j3ukyu7NmY61gIs2unFvh/5iW7vw7zdMGKL+mWeZePdfnji0CkL5etRV6s7M1fRvGY+jbTadXIjwRd6F/w7D4B4hJGnOWsk4uPuuNzoGUQgamy56KSy8p5vpq/7ARx8K6Mk5/FazDtRK75gYM4KnVq2VnjMnkwvhNMz4dl1ib2mbiP98xxPQcgk9pSraItAjh44sU33rMkwTTQnWfOHcug5uXROtdaguwGbVO8VfQgc9UBDUx3Ffg7xDKYjjFQeby8AmFHX1QzGXUnL19mLgLLjYTO1fXoMyQZk+kozBDRoHH5e68f+lQ0axWkq93A8/lpVaXlwDsjR1cNrkO9EMcATZ6N4FR2Pvd0/2+4miaLEloeU/XyJPfHjQhOh/7ctq54xpEQ5QzPRtdDmWuvDCbhBvXER9ku0/3AIJTEm8NoKLRHUOFt5n5G7wyek3vabbaRMKX9+gOrhQ==;n47cQQK14wv6zmmC6L+d/w=="
 ---
 

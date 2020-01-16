@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/15/apple-acquires-edge-ai-startup-xnor/a
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/apple-acquires-edge-ai-startup-xnor/amp/
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -75,6 +75,21 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg
         width: 1280
         height: 800
+  - title: "Apple Reportedly Acquires AI Start-up Xnor.ai For About $200 Mln"
+    excerpt: "(RTTNews) - Apple has acquired artificial intelligence software start-up Xnor.ai for about $200 million, Geekwire reported citing people familiar with the matter. Xnor focuses on the efficient deployment of AI in edge devices like smartphones,"
+    publishedDateTime: 2020-01-16T03:26:00Z
+    sourceUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15
+    ampUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 87
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range"
     excerpt: "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ..."
     publishedDateTime: 2020-01-16T00:43:00Z
@@ -214,6 +229,6 @@ related:
         width: 600
         height: 330
 
-secured: "VoEmuk5wHnnVHtji+ADJtlVG0AR+Rz6mz0prOb+BuuBcDeSc+uGW+JJ6m3GeaA6za8H8+6Qmlg8juDeqCRJ3wZhnGW4YdlZ1iFVYb+JsagOUKfB2S+VaHc2w/pKlXSHOb4DHlKfrf7+Ra+tGR7Jxy1d6hs4rV3wR0yY+GHpZKgBa/78Yszlm+r5wQXcnETZ0uf3wVmTRoOKv91xdj3qOYW7fQDM8qYlHS66eTarZaOvhPb9Ei9tbbAm5hogVXnMFdmiPavF5pGSCGHS6iop2iZn6ebxEI7kt0NGexsKi7FY=;KqCY7nxOaOPDmBdJR/nJPg=="
+secured: "Lk5lySr6NqOyHh/A8gsODah4nLH7Ii8OwgQWey53s1G5c8QcYBQrkek9+99tvRBPr2dySsziMptdIyuJ95bBSeoYR4bBzF+boEtDt4X9S/yPVSV+RjMhvuA4ODzw/X+KGTrvdaGTRvPa9376hMIKgXvXh0aki7Qh1QitFiPSL28QukvF1fHGoj63vbS+auf5H1dW1UcleoniSNnzBTroPCxb564HOvesGkrPxHPu6X3YURV6KB6bA5Ie8Wmumf1rOjIrKONYr99clfEYU5TCJTBP9gsfecY+2++JCK+wjdiZB0R0sG7lEW6FacbEnuKpQwXG+1qb5Lucimj8puVfwgnqAuGhQnJG/2J1I+SO4JLsbFlqtDge0vOh9/CpC4dVfM5Od4EbzecadOXzfZUiJ1LfB32/4A+MVMKOZAzk5yO1AhZNZDX7QfO4cHQ8TgVzqOycfE5GDkFbqRk3xbbqJA==;VFIjKjJIXDRlKNH8ngyxlQ=="
 ---
 

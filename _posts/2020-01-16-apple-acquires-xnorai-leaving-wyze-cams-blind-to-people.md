@@ -74,6 +74,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1999%252C1250%252C0%252C82%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1001%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-12%252F75e192d0-1788-11ea-bd6d-8c627f5d6001%26client%3Da1acac3e1b3290917d92%26signature%3D0f5131d5cb20591e0ad29fe556c9cce65e962445&client=amp-blogside-v2&signature=2e2945736063afc22e912be615a0a4c644f042ff
         width: 600
         height: 350
+  - title: "Apple Reportedly Acquires AI Start-up Xnor.ai For About $200 Mln"
+    excerpt: "(RTTNews) - Apple has acquired artificial intelligence software start-up Xnor.ai for about $200 million, Geekwire reported citing people familiar with the matter. Xnor focuses on the efficient deployment of AI in edge devices like smartphones,"
+    publishedDateTime: 2020-01-16T03:26:00Z
+    sourceUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15
+    ampUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 87
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range"
     excerpt: "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ..."
     publishedDateTime: 2020-01-16T00:43:00Z
@@ -213,6 +228,6 @@ related:
         width: 600
         height: 330
 
-secured: "z02OigcDgSAwsdseLQPPFP2tRbpHoM5TnfTFGF9ApjwwA4JlMd2u82ho3jinKKQ6Jq8y6fe7JVLG8vF5nzlGUA33AzXNDdSScf+F7Nd9dz4YzVbYKwk1UpLla3UJAoT1CtSKSZfxmvMRZO63CvJ2pvdB6HvjzrwZFDn91HO301c5WMlSlcE9HCnatotTP2TePU6ibcr1C10i1o45VdpR17eppE42E+ItmA3Qgigp8FwbKEgWSyl5gnZ92vLxtezdFgBSzsqJ/NZ+RfhOqDtTm05jJKfUBwMJQL4qFDOrbu4=;C0J7jPZgyL3EVkvF6rXhMg=="
+secured: "LQeIWVbgZmpxUlR/GAoK0snXkoK34+BsEirWjKTUqSmfvomnevR8ZVQwYvdVPhWN1xTSN35aIdS08anCA8W0Xpn1XuIUtxbsKkZ1/czXp4CkSZdbId+lS/2gWyPzpgW+Xuv058VWkA7TtxS4VGTMXS841dmHLKQOYW2QOods5+U63PXQrmUeu/A2zDVvqsBp+Ro/uOoIye9hUl5izGGr84C5c1s7NOE8JDavo5IDqAb9RkpaxM3KrtfBr31HCGJLEBrvr5AsEVIIBgBNgXm5/egLxIj6fd7qGqFuiP3SxMmhbvRIMQ9bNvPY1B9/aRisjz0SE4lfnVC+G+2TJFz6thK4PPaIcNQi0J9ugLDv27rDry81nXAIp7wZSRi/RUZPv9iwaaYffzx6h6HWoJAL6sjR4qw189UkXKr4EYvrh2aOkj7ATeTlTdFqFnmRRD7Aa/KedepxwvGewOrIuS5vXA==;r4zXfuTSrcnVWwyUB3jT7g=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Turkcell Announces Artificial Intelligence Principles"
 
-secured: "G/drdo79Xw6GYilQbd52yjTv0d4f6FZWTliD3hHVvvAfHhzZ5QgsEMxefG1PY+k2LX6R8Z3ASqvharbnnYe1SIjEAT0P2VjNcCPr+AOjcpD/DcWew4zQjy70Lh1jd5+4CVhMFdJDA/jGIPHwdb75wBIyEC3C+zsGx8Aam+RwhA5yfsw9XXrlc0pk+Yn7r9XYN47R+ucd6DPb6q46glzkqXnxinNP3/b0UT1oQt6uUMcI1yIlNQQVYm6GTCACX3MCzx8/XiXwB0ZlBfAExsjcvu71+3xcFQ8ac+O6c+g08Ck=;Z20HzbGhpbbNQf6nPstV+g=="
+secured: "Vt1CDgxObsKSGUEOz4zczxwX3jrBafRozdNFaUkELR1sNQdO00E88Xp1F5HFU0F/42BzTkgjiIvQivPmpxLGTgiDyV+O3w5wToZxiNM2U6q6SfwckHRSThXlauM2ofTAl7yA2olRpG8dIONiw4bi3HSG2/WA2SxCOdxfGIfL3RdlyiyBVIOulYW/+dCPv6Lrhxsdf/+nuD5sFVt0gHb7OfKaFZU1URa1kzsd7bPKhUF0KWzfVU+DjDRLEISRStOMkAxpCuK/nq/Wqlu5Q0vJZo4qAuocvWUlVVBbSOAaU4ol5DmHsQqa4FsdzUcykFeNDsOg+gUxUAsnjP2vqWEMb8awi6DG7kKgJH2QFSo6cyqnUvmad6TytZleMFjLak+q+8nd4SEWCdm1HbSBBf0wfu28RZEl3kJgEaHLVk+Bq6E/7ky5wWP+taPQM2BLiZaIKqa49KBCdygytbX+AYGsxg==;k5XjjeOzxjHOqXHtEbwSPg=="
 ---
 

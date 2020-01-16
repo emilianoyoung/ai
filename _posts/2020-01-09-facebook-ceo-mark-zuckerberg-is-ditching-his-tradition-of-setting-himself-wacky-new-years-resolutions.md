@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Facebook CEO Mark Zuckerberg is ditching his tradition of setting himself wacky New Year's resolutions"
 
-secured: "9hC8PVFWb9M+a/YkNdDb/A6QiZgSF1bo3m4ZUuE3Pzfm4MQnzrv27kWpvJOltRpn/XmiSQbkVdomL9xGSG82MbKWBpUwoiHZ3p6riccxzrAGhOtVQN8UMs8D74eswWVwMX3ZtLqb/vUXxPUXVPQRQ805ZU8SNUv+4EGv8F2d2ONjby342IcDNFkA6MqD61wvpB5LmhJ9thyWImL2VtUVUwIxyVdm11dt4JNYh6c+hGHyj/C5zs+qARzABWVkM9FZ5DTbeSHJTRFtgnpLzYMFUV3+2AyP76I0YROAlxc4HEk=;viAjyNKvq+q+JQosDMnVWw=="
+secured: "H2F1Vh3u8HomC/Eh8gRlX6dP5X7d0f4fuQAswtCGWmnhRN3oxNHnKP1ZGw21f+qDfA2SlLZmvtBzb7MvxQF9KvmNkqOhnMFp3TqiKAYDxX8wwGPjcuON9K7UAODFIo0Y1x0CxoBDwVQN86EGpOT6l9KOhws+HAVvVE5xkMKZ1bK0Ge98rvbKIwZdvxBelquQN5Z79YxWkczt2LL99jHmTWC6x/Tadyw+jrIPnYocgWKiITLtu1IELg+Wpclbdf4qI0IZA4lmjQJIX7Si3i1/NGVrJPJo0xWwFhXfxIKQ0Cn0bhEWitKYUHVI5TEZLhNb+ILFUakh+x2pNYr4e/MlppLvyacOnxLcIaQYsMWlRThzD+e3etapBr+3s1eXLYUW7MoJQRZ+Iydu3tmR8/KVSuNOmoQ6hI8fA/MIGs0iEJC+nymqXV0IxE2VVe2Oz/jqqO965JP0XYRNuUC7YYtG2g==;+pNx0geBY307DeF2VFcK4Q=="
 ---
 

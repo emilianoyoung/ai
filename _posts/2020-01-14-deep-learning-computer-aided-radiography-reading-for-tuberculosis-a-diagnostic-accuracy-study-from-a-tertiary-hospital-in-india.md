@@ -23,6 +23,6 @@ images:
     height: 685
     title: "Deep learning, computer-aided radiography reading for tuberculosis: a diagnostic accuracy study from a tertiary hospital in India"
 
-secured: "y22XxgOCNvZMP6Ly+legKCuD57O1yiImpaOINnevDXaNT1mhGDkss2r3rbTI0w0Eyz14ZBQgNaL4EtIIC05olgYGzeRfkghTlu3KYOACIHwrp3lh19At+YSs+++jMRMfBpKcgCNYWFDfqA9dlI/Kkg7BIW6vtlaHXuyj1AAg9Iw7bdNVjPtFLBhM43h6mGDuR0ZMFyD4R447yi5WYr/EzVr205kObXTkGb4xS0jYaZwvFhQ4LPy+bwk1MWL5msF6zvIoLfaqtjgfNL3bsWnhd5MzlQtM8MtcbOBRsqoPoGs=;5RRNYvt56bd5FUhaL51W1g=="
+secured: "u7GPByY0sQ9skOQY/md/GTg2AnJlR/WUilcywq/opjmn+b7TTx8WE04eO3uiK91ZYXjsjrkOk/xh4IBsQbxPbD2p5vUSh8zD2nCwoxTO3rSKS7dNd1vUtRODl14ioWFk3epISgJaR5nZGSnUjb1vyGf+gEpUjbcybyU6uTxB2tOEDMoDYA7K3laA52ExOvGkAAoigtHMu7b/cyl4LihnzcwG07gLVL9CUP6qNzrMOR4QbkvcrnTaEaqnIiUy3gIE54IagYac+Z/Cs7LaCInydeKe6BARZfoXl3Sa5GERA1aJO7iGjXKG07EMQsSKqdHbSvihL+8M6YvW6YR46Fmv6dUuHA8K5GbqpcDBsqVPSl4IsjenXTgSpHXfoTaLH0+JjiLiUwbzkvFRynth+PHH0LMo+RMD5/BdCZnMUMnKmROq342k3EPZL/zJTZhPR//XLJ5rlLbjMX3xyRp7wP9qfw==;oLimpPouALQ8yaWkQMUfMA=="
 ---
 

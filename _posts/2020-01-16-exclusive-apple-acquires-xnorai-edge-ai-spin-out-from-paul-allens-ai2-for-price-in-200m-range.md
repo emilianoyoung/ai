@@ -90,6 +90,21 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg
         width: 1280
         height: 800
+  - title: "Apple Reportedly Acquires AI Start-up Xnor.ai For About $200 Mln"
+    excerpt: "(RTTNews) - Apple has acquired artificial intelligence software start-up Xnor.ai for about $200 million, Geekwire reported citing people familiar with the matter. Xnor focuses on the efficient deployment of AI in edge devices like smartphones,"
+    publishedDateTime: 2020-01-16T03:26:00Z
+    sourceUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15
+    ampUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 87
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
     excerpt: "Apple has purchased Seattle startup Xnor.ai, a company that specializes in on-device artificial intelligence, reports GeekWire, citing sources with knowledge of the acquisition. Apple is said to have paid around $200 million for Xnor.ai, and while both Apple and Xnor.ai have declined to comment on the potential acquisition, much of the Xnor.ai ..."
     publishedDateTime: 2020-01-15T18:01:00Z
@@ -214,6 +229,6 @@ related:
         width: 600
         height: 330
 
-secured: "YeIepFQIXRI+pnRLb+MIoQ+DLzI5wYWKHpuEmxkj6tqJ3UlGdeElsoJcmzr5sUQ44SYrWV2r93aBDxFSr1u9u2xAvsacmw3OZBgCkqYJRqSOKVQI5pcSQLnZ3s5uOOAM2S5TeYBZ0giuU+WZ4+h8Ew3f8tXWsfgOpLhFGpbF8FI3ioCVV4Jj9ji2blEUjmGF3I8ZTTOU/rdsHSaucHGHGpS/6APWo7BXVxTwktCIZPU+0bncpdJWQDFMMUsj7I3t+K/IKKGhfit6WrTd5xGSfHcbfZ1txjouC68dnD9sTYM=;PFCtZtpN6t8lbIHYjn1rDA=="
+secured: "Vn+Ro043Fk4UIXpuCqdhWMyQW1IxUpECG4kTJls5HqEGf7W+GpQtahQlXXrJy+9bmNpJNz5RjqWjfP7AaT3PZpIG7O17zyASpJkkeAfRPd3aI0STYimh5H8RlkXyltmytINtGR0XNE2LxVT7lHZVZhdlxBgxeOOp6iCuVYItgxXKg9KzyWNzREIBOQH7vuOvx1ewXY6wYDUidp4OnFlreYKOGf6lTK+rdEq04LJR62yDZXwuRaVHdJK/sV96Ek78UdrcdANrTHAglpKo1pm9jgGzT3JT7gZZWxH6HMIEGlMalU9rsqstA72jrYqTBu8aAa98l4rywRLZuj5KPbgD0ge48mh6qC9P+cAY1mdRxAgetzhckuAEDqpmfsTTwlUoDbiqOFsBvX+fdBe2tPiRdflbM2JJjZD8Bc9HtCNkEoAU1pxpp6HbYV8oXzL4mK4rtbceIAGXZ9Rsv5dePQNrIQ==;5AJ+eD999ezL3NhVWHsmBg=="
 ---
 
