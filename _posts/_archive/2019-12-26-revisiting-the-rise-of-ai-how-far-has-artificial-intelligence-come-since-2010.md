@@ -4,12 +4,10 @@ title: "Revisiting the rise of A.I.: How far has artificial intelligence come si
 excerpt: "To most people, few things say “A.I. is here” quite like seeing an artificial intelligence defeat two champion Jeopardy ... In 2010, Google officially unveiled its autonomous car program, now called Waymo. Over the decade that followed, dozens of other companies (including tech heavy hitters like Apple) have started to develop their ..."
 publishedDateTime: 2019-12-26T10:00:00Z
 sourceUrl: https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/
-ampUrl: https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp
-cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Digital Trends
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://icdn2.digitaltrends.com/image/digitaltrends/christies-ai-art-header-1200x630-c-ar1.91.jpg
-    width: 1200
-    height: 628
-    title: "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?"
-
-secured: "z4eaA+VZZxenxHPriTINzxamMAc09vnkO+TK450jL4nMnK9fyVdZmaXbVBp2fCq59kZ0g42elVS/slcYWkXUx401oXNNXT4m7q3yyiO7x/uZk0jJ3grg9iC5YVcoou15/YXhW4zrfzOQnk9sEka6i8PHEzCu4/k9l7nduya9fTN8usiQIEQ0dF5/9PyGdaegmJiKpeKqOSAuYku7/oJhAan19oUhVKWLa3EsBGmR546I695LrRcRWWD2B7qEYOsZwYbNL2GT8K6AVAEmQFQPGE5eNT5Nw/MEu1VHJHFFAfw=;JuO3HYzAXjP7+6V9jwvSCQ=="
+secured: "OHTn7n9h360hobZ428cyIVFMnKqge6+e6+zjl3k+eToKP3laO3h2vz8qRjGyBvgSr5ZP1/U6Sj2DENc3AbVPFGhBONifi56kQH63yCHN/LIqRq5C93ydz6XiWFzTm23Y2Zu+kJI6ILtmksmIJ9tpK6WVRudRAzKbvTw0NaZOk2DjQjp8keUzDU69OT1vjaYYm8J3rZroidJqhLnQnSTvULe91UXu6lF/R1EJAoO0ckJl4M+z/CTVlXzpm6/Ct840Emp8TjNM9pjcRAt/pnXeLxs/yCc/uhOt8YtY0nlzTWBq9DibIAOgVZg8J+8GM4EPXPSx1oXVmHmngLJC32tc1iUXQr04Pze17NYKWIofkJypalhqMiOC8PmzyHBnPXFLHz1LoYgT462zxTS3imt0E8zngz5njv53pKCamY1IklYjkGKCkeH6oJ7tytc7JX9LyOsEtte+9/a82uvtzYfhSg==;GTwGWSHvhJfV+08tPH6GzA=="
 ---
 

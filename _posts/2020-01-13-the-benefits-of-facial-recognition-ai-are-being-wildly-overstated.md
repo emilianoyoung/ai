@@ -28,6 +28,19 @@ images:
     title: "The benefits of facial recognition AI are being wildly overstated"
 
 related:
+  - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
+    excerpt: "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ..."
+    publishedDateTime: 2020-01-14T21:24:00Z
+    sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 168
+    images:
+      - url: https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg
+        width: 760
+        height: 380
   - title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
     excerpt: "Fight for the Future, the Boston-based nonprofit promoting causes related to copyright legislation, online privacy, and internet censorship, today announced that it will team up with advocacy group Students for Sensible Drug Policy to launch an effort to ban facial recognition from university campuses in the U.S. To kick start the grassroots ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -116,19 +129,6 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
-  - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
-    excerpt: "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ..."
-    publishedDateTime: 2020-01-14T21:24:00Z
-    sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg
-        width: 760
-        height: 380
   - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
     excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
     publishedDateTime: 2020-01-14T01:31:00Z
@@ -142,21 +142,6 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
         width: 987
         height: 554
-  - title: "How the police use facial recognition, and where it falls short"
-    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
-    publishedDateTime: 2020-01-14T01:50:00Z
-    sourceUrl: https://www.orlandosentinel.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html
-    ampUrl: https://www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 59
-    images:
-      - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
-        width: 1200
-        height: 960
   - title: "UK police use of facial recognition tests public's tolerance"
     excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
     publishedDateTime: 2020-01-16T10:16:00Z
@@ -172,6 +157,21 @@ related:
       - url: https://s.abcnews.com/images/Technology/WireAP_dd085e0d41e5454f92345ab8045bbbcd_16x9_992.jpg
         width: 992
         height: 558
+  - title: "US lawmakers concerned by accuracy of facial recognition"
+    excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
+    publishedDateTime: 2020-01-16T04:43:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-51130904
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-51130904
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51130904
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11DDE/production/_110528137_gettyimages-1139859279.jpg
+        width: 1024
+        height: 576
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -185,21 +185,6 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
         width: 1280
         height: 720
-  - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
-    excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
-    publishedDateTime: 2020-01-16T01:04:00Z
-    sourceUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428
-    ampUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
-    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 51
-    images:
-      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
-        width: 1200
-        height: 630
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z
@@ -215,19 +200,6 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
         width: 800
         height: 600
-  - title: "Choose a speech recognition mode"
-    excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
-    publishedDateTime: 2020-01-14T23:12:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
   - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
     excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
     publishedDateTime: 2020-01-15T17:37:00Z
@@ -241,19 +213,6 @@ related:
       - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
         width: 635
         height: 423
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
-    publishedDateTime: 2020-01-15T00:00:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
   - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
     excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
     publishedDateTime: 2020-01-15T20:10:00Z
@@ -280,6 +239,41 @@ related:
       - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/7791c5031c0c2d9d36d30a1baac53364-680-453-70-8-O7C3FGBTCII6VFY3IO7MH74YMA.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
         width: 1484
         height: 988
+  - title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
+    excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
+    publishedDateTime: 2020-01-16T06:12:00Z
+    sourceUrl: https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/
+    ampUrl: https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 21
+    images:
+      - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
+        width: 1000
+        height: 563
+  - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
+    excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
+    publishedDateTime: 2020-01-15T23:00:00Z
+    sourceUrl: https://www.fastcompany.com/90452524/despite-what-you-may-think-face-recognition-surveillance-isnt-inevitable
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+  - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
+    excerpt: "They’re people with speech differences and they’re helping improve the technology of voice recognition, CBS2’s Carolyn Gusoff reported Tuesday. Voice recognition saves time and enriches life. But what if your smart device isn’t smart enough to recognize you? “They don’t answer what I say to Siri,” Jake Lunney said, adding when ..."
+    publishedDateTime: 2020-01-15T00:01:00Z
+    sourceUrl: https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/
+    ampUrl: https://newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/
+    cdnAmpUrl: https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/2020/01/14/google-voice-recognition-voice-impairment-down-dyndrome-backyard-players-and-friends-molloy-college/amp/
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 11
 
 secured: "gRgI21nDIGkT4lGtKN8P+xhK5HEIHejWjSwPm3AB6wQhgWvNKNnQaGg0hRGBQ0yGO0f3LEg4o6z0bhwQrVuWd0YrLnBBVbc/Fubas1ehvk/Px8o4x3xVCahOQB2j5fFLYTXKi4XEAVIVTqeWCwXgABuYjYacTWGl/KsIW9XZVrDvkMzoc47M9CllPjFkbQX4mEevUI6ZE1bpzqxQefmQ4Y0jOKV3EggMI6BmngqlAuIw5jmI/qLWvV82eUcgig00pWRA0bVtQf86ahd/V5KS4NYdRrFTq7Dq//b5q++HSOmfU3T4y0RwpQ5BG/FjqwyOY+srJ1Uq0iAdp6cBnyZ5kv0Qjj8H/CQg6hCbAqR/O0UmB7vIZvMno5QrhMPCxl4mB6Myazbnb6YDXtCFeb+TMK25urTJztYj+JxfIdoSksJyZjHxbgqY7rxKeGMM5+T1Z+ofYBtPngjC/UGoUqZwBQ==;0X79zxbEtCdXodKhB3chtQ=="
 ---

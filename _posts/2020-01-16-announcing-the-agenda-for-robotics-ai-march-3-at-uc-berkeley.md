@@ -7,8 +7,8 @@ sourceUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-
 ampUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
 type: article
-quality: 119
-heat: 129
+quality: 219
+heat: 229
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 1024
         height: 558
 
-secured: "IqWwxj1kQ1CjGdIg0Bp/18L0faeSbXPOLtlZ5mbVmq4opBWxya0IdjChoO7C8xZY6m3jASZe4DoRUA/++IzUvQP9YLJJ5p6cGhfTSdECqFNMDx+12f/ncuU6n5/CAZrq6kTrB7USIETD18N4XAuKxgO4TUZKmhVp/clf2n/bpRFhFppevIxUkyPhjBgmScvuPVhNUELMCNvgO97VEKTT9sSnCU6cxVvz0+YX/AVZ1Nz+AoJG7WwQXdrnurdBoA+W7CNS6aJ+fY+8/WVXW3d6l0Bb4qll+tgpdfWls8GxbTC/cociAfhfsQpAbEfL9ReCzl9Pt7LH3NQg3VJI2Pj2OC7LQIM37bkF99WYhs6KvGqJCD9fJSjQRM3+cU5QsFpzSvzeu+pKWvZe3ugJ5Al7ysQzBVs6f5RqBFc885V8J00lC9uCeU0aCWXD/aQttP4YCaFav10DWLnJPR7BXFV2Fw==;RrovohxE3PDSQN14UD0hIQ=="
+secured: "eNrrSbTXmhHXRuahCO0xgZiYlHwHsmLUH7CzlvgdwYBgmqlDKkA1enSsKgsYyzIV9lIwS/rdqNenrmxhPjHGnvrn+jyfR5dKC2jd/PsS6dMxe2iIUuFLe/NiaQXMURwP2glLOf2Tzwwj0ahIwRpIU3Vrb+QVdDETIz6xwGxm2WkySO+3JyhDyaAu3hHxmuhMZFR7VW01vLKWfO2KPIJqlOjgtYtjxVVNreArdSmxIeVEBWj3SXL+YhWuHfZsafw7CLHB/9rbKd6GlyyinaXZhZDIpzRCTLCj8Gkm7T5zRuqB5hLdmN3KoeysmTFZTIIiZ08Hj3bAkwvRTRoKZXiKpYmUr0NTb8dSb8cmKxpXCQngiiPkiM93B5qL3edBKecQm3GhstL0suyG9BjEuudesiXGuZSCSeFF4jSxNLE1uIVYgE48c6wRDhC+e3opu+YiqLkqYa7/VS8qMyCryhKA5AhQ5itZEA5MIXtcIp902sk=;ugjs+EnSpd6FA+BR0nDyMg=="
 ---
 

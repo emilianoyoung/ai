@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
+    excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
+    publishedDateTime: 2020-01-16T13:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-vonage-partners-with-artificial-solutions-deliver-conversational-ai-/2020/01/16/9082672.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "8PoVRcQNkZFydNiQZZVdGa469kZwU6+f52OkSM4GWieBZ0pF84rD9FB/I6PJb3tMIT2u2dF2HryZnbcCcS0oq26B7kSGi522KZ53tcHYJY8ChnuFUtkZxvVhD/OHTSsBAAMsUndTu+6T5mWVyqr1utJKYVahSE1CfcjGs/GAbZE+kyJo3W2GYvWVt7znn2axILyM/7aiMNOoTuIFS5tnYAKaUpczIiDF0EcAOivxGm3V4JT8sMXA1p7Pmggvx0V9va7imrEOokSvJj0rll+wvPi1a8CCcUwr4Fp5hT4pEG0ppibuZCNSgz9GiOqSYxNKxEBPDEsWqPzAeigmiH58pz6jIR38gA93wqW6h2L1xoZ+u2pyXqD1Wv9t8iUclsHIuz27qo4rHOlphcFfHovCDoKj3kq16d5kACW9sV2O1TQnDZ3LUbW6G2X6QXUDsa+2cCrnAkI6c550l4O7hP4N+Q==;XP66zj+NC7/gj5fa491Bjw=="
 ---

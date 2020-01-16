@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
-excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial intelligence tools."
-publishedDateTime: 2020-01-16T12:30:00Z
-sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
+publishedDateTime: 2020-01-16T11:29:00Z
+sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: insider
+  domain: insider.com
 
 topics:
   - AI
-
-images:
-  - url: https://image.businessinsider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
-    width: 1200
-    height: 600
-    title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
 
 related:
   - title: "Apple acquires edge AI startup Xnor"
@@ -205,6 +195,19 @@ related:
       - url: https://images.axios.com/PCebkBLlBZYdriB-ovRaQrJP98Q=/198x0:2498x1294/1920x1080/2020/01/15/1579117038960.png
         width: 1920
         height: 1080
+  - title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
+    publishedDateTime: 2020-01-16T14:58:00Z
+    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: https://image.businessinsider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
     excerpt: "Apple has paid almost $200m for an AI start up that specialises in bringing intelligence to “smart” devices, in one of the largest in a spate of acquisitions by the iPhone maker to make up for lost ground in a key technology. The company’s offer for Seattle-based Xnor beat out approaches from other big groups including Microsoft ..."
     publishedDateTime: 2020-01-16T01:22:00Z
@@ -235,6 +238,15 @@ related:
       - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/wyze-cam-pan-1.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 500
+  - title: "Apple acquires on-device AI startup Xnor.ai for $200 million"
+    excerpt: "In brief: Apple is on a spending spree for AI startups, and the latest is a Seattle-based startup that makes on-device machine learning tools that literally sip power and cost very little to manufacture. Apple's latest acquisition is Xnor.ai, a Seattle-based startup that focuses on low-power machine learning tools. According to GeekWire ..."
+    publishedDateTime: 2020-01-16T13:48:00Z
+    sourceUrl: https://www.techspot.com/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 47
   - title: "Apple Acquires On-Device AI Startup For $200M: Report"
     excerpt: "Apple has acquired a startup with technology for enabling high-speed artificial intelligence on devices, according to a report. The report from GeekWire says Apple has paid roughly $200 million for the acquisition of Seattle-based Xnor.ai, which spun out of a research organization founded by Paul Allen, the late Microsoft co-founder."
     publishedDateTime: 2020-01-16T01:21:00Z
@@ -272,6 +284,15 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 37
+  - title: "Apple’s latest acquisition is Seattle AI start-up Xnor.ai"
+    excerpt: "As the war to build the best smartphone camera rages on, Apple has purchased an AI start-up called Xnor.ai, in a move that has already had an impact on customers who have purchased Wyze cameras. Based in Seattle, Xnor.ai has developed technology that runs deep learning models on edge devices, such as phones IoT devices, cameras, drones and ..."
+    publishedDateTime: 2020-01-16T13:29:00Z
+    sourceUrl: https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
   - title: "Apple acquires edge AI startup for about $200M"
     excerpt: "Xnor's AI-enabled image recognition tools could be a natural fit in future iPhone models. Xnor was spun out from the startup incubator of A12, which was founded by late Microsoft co-founder Paul Allen. The startup had raised $14.6M in private funding."
     publishedDateTime: 2020-01-16T00:18:00Z
@@ -304,6 +325,6 @@ related:
         width: 600
         height: 330
 
-secured: "zJIGh9jOozjnk62MQsO20fOMneCF2zT1AAzGs19TljxQrb9a8X7TRcovrcNR56jj0MQe28Lv8ORxCTlo6LWC0+ll67YhWoXvzpxrAp6hpXAMohigH7CEKTwrzJVJ2/4LMZzHTffWDrsxOFLe6IQSlqwrNlTPw1azPu2xkGcV3TJa8Q4ACMH9UuJVyWLoKI6iQVRyJca699mlZLrF/f1pUjuUJNezNg4J+EGX4BZiLA2zl3IzH8575VMuwbPZDd9cKFSngrufxs9bSfuE9JAbgfnbK60x+n/sRLTdeeDaX/E=;ed0aksjThLI8Y02Ir1/B9A=="
+secured: "9BfjtGSCfQ6qBdq6trCT6kYx6Y69Z8IkqJVl71SrPdUlBiEUFa+le97nhiYyqdCPIpi4zgzR3bhitVsGZf+QjAA7ytXJ2MriOJtiMpDbb1dTPqvtYVQ8Ya+RnQYMyBdX/nsekEfJMJCaGwRKGXkMjWs0Dq/rcCj3WosBx1qNnlu9U5Vd5fOyl5DE0c9azRVExBT+X236OcmqHn7TvRQVQTA2DDu/f3Mbf1E0UD4XPbT0QIrjhu6JX+TJsYY2JN4cvd+LB5Q4LU9LUAZfIEu7gklwZ6y8hl868Ojaj0wzN7D+H5JtU6Jr/JtlkDfLvalP2+viORu0tYaxX1AAB+tCNmPv/kX4tEZSsj3TP/2HxSOUDdU9L7qlJ3IEw5L1IItSC7zTF2u8m1dMB5drBJtgxhEauIWPR0BFikk9uVuBlvb4keRJBubD2buvjYn0W5ECtvkmq9yJuBbAU3U9+sp5iQ==;7TiLsm6T3cyd+nskO3FtQw=="
 ---
 

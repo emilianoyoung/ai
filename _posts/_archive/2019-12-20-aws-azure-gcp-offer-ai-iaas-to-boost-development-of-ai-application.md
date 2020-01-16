@@ -5,8 +5,8 @@ excerpt: "AI IaaS products offered by AWS, Azure and GCP mainly consist of edge 
 publishedDateTime: 2019-12-20T09:09:00Z
 sourceUrl: https://www.digitimes.com/news/a20191219PD215.html
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: https://www.digitimes.com/newsshow/20191219PD215_files/2_r.jpg
-    width: 336
-    height: 224
-    title: "AWS, Azure, GCP offer AI IaaS to boost development of AI application"
-
-secured: "CZrEY1ERQbogyvQ7r3x4scnkFhAE/bfsg2nMsmZ1nXUERBuIgq1nIi+NIOKegXga8OCjwiLaNWXUMS7l8ZDG4ZR2zcEK2vl3DNqmH7g/QlPZdxa67rnhBh49F/YZDH/UWZ/N0HKuhii2vAKKOFpbmEvlBCDm6+Y8PyiL6ryEJ9SqEdisiBlAPCgI/63qB2e3oBDSs21qzzOzxnM4UZx1PruLnVjYsmFW642/bFD1bAZhF0ivVkYGzn2KShwIQA8qYrvO6BIyGkkgks7PtSrSUJhvQFD4ElgYAaTjlUpwZak=;hSGepjB7D7Jg2RlIYwfmFA=="
+secured: "QDVNqH6DGM0xxSnoYMLPi87AlE5OGqYf903swp6oIypqz4HdKTN089nCB9s+8qyZt5yWlmYu50qwbFNG2EiOXOSaBqr9saouITMG5IxHg7O4vJ2jOQpwQlsWxWZmVvM1BIP3ZbuzhnLuKAcWoiKOqPSAwtYF6LA+aZfCCWpfki6ohB3+92apb0raIDBsg2Xy7UU8KuCLbwmatAKhCxbJX/Kr3i4c6Z6VM1YZy4fgPbfLLIk/zfWu4uIN+UlvfR2jOBxgBLEwUAG3jWRSrheXn1Q4hSTSjuY8hd4J5ZzeJGU=;+5+LO8/H/47IFmn9910iug=="
 ---
 

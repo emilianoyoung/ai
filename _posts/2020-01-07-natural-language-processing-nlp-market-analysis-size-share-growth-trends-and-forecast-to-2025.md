@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T13:21:00Z
 sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-14
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
         width: 2000
         height: 1400
+  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
+    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
+    publishedDateTime: 2020-01-10T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-forces-analysis-revenue-challenges-and-global-forecast-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
   - title: "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025"
     excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public, Hybrid, and Private), By Technology (Recognition, Operation, and Analytics), By Application (Voice & Speech Recognition, Data Processing ..."
     publishedDateTime: 2020-01-13T14:02:00Z

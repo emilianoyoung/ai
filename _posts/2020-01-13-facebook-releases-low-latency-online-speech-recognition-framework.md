@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,19 @@ images:
     title: "Facebook releases low-latency online speech recognition framework"
 
 related:
+  - title: "Choose a speech recognition mode"
+    excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
+    publishedDateTime: 2020-01-14T23:12:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
   - title: "Speech and Voice Recognition Market"
     excerpt: "The advent of advanced technologies in diverse industries such as healthcare, banking, medicine, and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
     publishedDateTime: 2020-01-16T03:46:00Z

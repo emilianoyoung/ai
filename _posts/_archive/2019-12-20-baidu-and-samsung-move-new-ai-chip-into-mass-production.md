@@ -5,8 +5,8 @@ excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wi
 publishedDateTime: 2019-12-20T22:27:00Z
 sourceUrl: https://mobileidworld.com/baidu-samsung-move-new-ai-chip-into-mass-production-122005/
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://mobileidworld.com/wp-content/uploads/AIchip.jpeg
-    width: 400
-    height: 298
-    title: "Baidu and Samsung Move New AI Chip Into Mass Production"
-
-secured: "v2fLkHeX/d7J01AM+63h2e3dPE6EijqvqVCuO+qAdE5BvY9XSbRn6nqHCaG+j2q7ce9pjiVPYgtfeEGsFQ3qOJBc/KEsNnxyGP+jN+qhq53eqKGHs5Sht2IMOYXsKzT5j4REDvgV1CeP1iftaib2MWb46XrmJW5uzgHzmVm4HzZM5h0hsy+IQsylMs4rwnT6aOV9CDYktqzscZdhHqEQPikbaLxG+Z9U6u7s4aR1FAQhgiudQbpdzfhZoJTMWgGQqX0KEFkELFLnVn0bJlB6Ju3T+BOiTFIkoEHVqQOb08k=;9c/XQlBp1Pd/hybIF+2VVw=="
+secured: "kErw7JlSJIVF331bOd7zqK9VgT/agvuhX+TsjPyQGzPse6f+hQtX5Zlbva0tfGn301tAIk2WqjehDNgG8bf3YudZLU8PlXJS/zQKE8qIbyd+xjDSSxzelr1qDOpiGSuF5ikHY9WIcMlbMVHAlX+7r6AX/afi+Jfw+A9S3I/qBgO2M2pUIqVY2LxXpqqicrzxXjMuFH3QJgVYcj8utYlT8MPdyuflsX8X+mgyZX2TrzC+YWbH502JEOGcrsRRoC7HHTgiwdK0qbkDMXzmBEzIDHdpSXs5KXrDecS8KARHjeuYs23r6mz1lC1BMKIaC2hFIQCv9BxJNIf/k56fRIlED5fDKdnPDshzTsZoS72rfqStsSoOMElsooVWzuDyzBwRuBWo4sdGZRYOiadGppi8AUxfnF4eeoJi3302/R30hkh66txcD4vpdiQc4Jo80vXkCpvVP80BZXXWgcO8ngc/8Q==;+YDlrovrHZEZCr5ovRj/ag=="
 ---
 

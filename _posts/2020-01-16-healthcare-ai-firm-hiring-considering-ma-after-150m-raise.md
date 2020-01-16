@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Healthcare AI firm hiring, considering M&A after $150M raise"
 
-secured: "ZFw7MtrBRQsA/5xvftzHqSTfPDR2aGyRXvW5GbtcfJ7NM1/au+Sh6w54L/kNvXhjgiOj0oVhRY91lKpUYsUa26HpFmFBaCx5Bc5w84JwMZSiD4I5pvhm0RpLCLgO/ox/3m/XB7QPMvcGJxdXXUtTvY3oQEmFskHZOIGNRU6+h3tsacJT1EnMXwzNl+S9kI6wqp4m+zdo8UyOMYeMdwAWq+SAzUisYvQV1pwWOvfLtWQcun0ca+2e8TH7U5MrO8SfegWGBLBW2R8Dtn7X6pkV2G9yPjVyEddfoI8WpSb3Quc=;fq3/WKqadSls7PnYtrGQgQ=="
+secured: "X67d0Cg3gKLR0VYQetVskeSE+ss/StfRE3hVdiupPcest09IwL7nNTjm0EQqYZbB4N5Mhv8f0+X8WJIvX7DX0ntNLRFnhtVhhqsy2cSB7UjuzR8rNFeIByko8Hm3N7N0Cpqdy7izhrulJI8eZMAapKeMSC1Yuj4OV+kHYMvHAm29ma66BmkH7A18LG0Va3kx+kBOhOJa6OPIJlH8YRXnt5gv3KW01x5ptYh4vUiHIG7Aljaq7WR57h+e/kIcxlYrHjxLcJubq+ROZNQwR6owPJDx2k+ymtmV0I3tUNCMK/55Ej/qSb6/zjaMZpOn/5V+nyt5v0olrnfI05giveAjGa/mmDPgh3YAdVJKfGD8U8pm/xGnUXpYXKRof0F3+DgEqUiCjww+hLPkUKCH0lyGull7LSNt1HK9go66DmNNQgGCok4QQfj6oXjj3MxU0agOELZ0e/PrPkxbFTJTJdfNmA==;vXZIGSW7RT7nHA0FpjJ5jA=="
 ---
 

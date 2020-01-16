@@ -7,8 +7,8 @@ sourceUrl: https://www.theverge.com/2020/1/14/21065141/google-coral-ai-edge-comp
 ampUrl: https://www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud
 type: article
-quality: 89
-heat: 89
+quality: 189
+heat: 189
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 933
     title: "Coral is Google’s quiet initiative to enable AI without the cloud"
 
-secured: "N3eD7rp/9dZuu+fNXo5egGX9QMbpR7MhG/qeLZoK7zPn7L0mpww9vg4phJNAxjnq4kzBl3HUE89SmKsvUgzCv2UxiGvXJ4zhrnjy3tJMHB0iGK0d4GtvQoOkabGwGy7IGoO5CzcukaM+dzvq8z1OarE4zWRnFKMaxPGLlDb4TW1uQFG1crH4PoF9voQWeLFpFj0iXdxYI3NgULZhQReRH4xUb8O7pkr4RqfMvhLwmExLfdp6gF4SDe3GKXzUUk3A9v/xYWW6udnEAUhQHmhcEUxgA3b2szR6CunjvBB7+E9EFMyz1T6mwa9H9+oCuQeeCm0H0gIHZkcsZ+nlaEmoFUUGsuYIjRXXM6xYlUGuGoTdCIGRMZUP0zCh7OLkg7gEpljIY4KUvPB4x1Ee7R5Tbi1FfDGWUWe+kxbEU/x7O62aNGR9CcAiYxEAc7gkW/NHy5t77ikM+9gJpfjU3cZnsg==;mHt1kM1U/t9cR09i5G1RLw=="
+secured: "AEUDLvDkyLYKQnOVUPlGwLjFRuyhPVxaX22Wmt4mwitZfRqxA5iK2XYXryWy7f8ZuDFgZ5cKiBaGSZ/rEV7d5EAsPyQiFWnNtxggqWFpHMgt0cQ8SZ0Tafk8QheL/ntlUDfPh2Q/hE3fjlzDroM2oJg3tgMBDsxYq7JSM836DZwPqkx8qRr6cwbKjwLvCvwfyerk3WPuUYJTqaIYscpzRLu59en/MnOJoE5GpBU/yfDMRZeaWineK3HWnZBaA5VMVPKASwbqRDSzE+ydMQ/zsKeMcXlbfg/LslESQAtmuUZT+jq5TVjF8HyxfMb7xZ6zD8aM89L1FsXgwdKhu1/mSzfYycDV7USMaEMwQLg2Vi6wf3bBqxYFfirvTADcWddxGftfC4K+TCmeyF2eR+GiRaRZKPAiI4E+AtalHKivz1DjKfgBuBVnwHpzMMRf1PRm2JEuBOmUnwlagVgAe4iG1//BsKvhqdmgANY4KkuEwD8=;IR4O+Alh9FdT6ErjA0au/g=="
 ---
 

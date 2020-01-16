@@ -1,39 +1,95 @@
 ---
 category: news
 title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
-excerpt: "SAN FRANCISCO, Jan. 9, 2020 /PRNewswire/ -- The global sound recognition market size is expected to reach USD 4.42 billion by 2025, exhibiting a CAGR of 75.8% over the"
-publishedDateTime: 2020-01-09T09:05:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15096553/sound-recognition-market-worth-4-42-billion-by-2025-cagr-75-8-grand-view-research-inc
-ampUrl: https://amp.benzinga.com/amp/content/15096553
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096553
+excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive the market growth. Other factors, such as increasing adoption of advanced technologies ..."
+publishedDateTime: 2020-01-09T10:10:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-sound-recognition-market-worth-442-billion-2025-cagr-/2020/01/09/9078820.htm
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Natural Language Processing
 
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
+
 related:
-  - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
-    publishedDateTime: 2020-01-13T08:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html
+  - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
+    publishedDateTime: 2020-01-11T09:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period,2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-07T05:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-rise-at-a-cagr-of-597-forecast-till-2026-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
+    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
+    publishedDateTime: 2020-01-08T11:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
+    publishedDateTime: 2020-01-13T10:53:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 36
+    images:
+      - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png
+        width: 620
+        height: 500
+  - title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
+    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
+    publishedDateTime: 2020-01-05T23:14:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-image-and-facial-recognition-markets
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
+        width: 877
+        height: 432
 
-secured: "v9OlUeNeg69LVPZar/m6cH5xnFUIJAJg35j66ZjDivlRVvlZscjrab+Rlg2HANZEnB8+0LjsSXwh4Ysy9YsVPbj4szZg5DkeZ2VcOj+M3LTsCFuRacdiqUycczaCKDCu0JN1EEz9g+4L0RlAuKfUGDGZUhjTx1pQILJIJUnHWrjDLzwYlNhd9mqB3tktHFHoha3uglNKz0VRj2HyBw9jCUubjwKTY3uCcLB23dG8XBtapFStGcvSD4bXqs2Rfy4hEuyefo9ylja8uow7aGJ7mReV9UetEYeia1q2zCEXALk=;n2uAcGn3Nm7yiEBG3AWJaQ=="
+secured: "wfySziIZXODByMm2xRODDYXVoe/TxCnUK2kX5Ujgubdzw1vBsOWgJaNez5hAwUgnwLnL/gbRClgTYEbFRBNDj5P+MBLgzDzXbRAOMW7WCK619ezquH3H3mavjocObqe0c5OX9E3lTG0CfXa7T3UvfQ8EF7Z0R6hPEj4V9EDX2CxCk7forRM7IdNY8lK8ZSJ4ZkEnz15MCX5FBWAALRItTmMPQPMXKNsWpds2nqLNWMV9bmXKOdUCVTGfC3UoIE7fVYT8Av48TKHLL4RiLwlgH2qF1Rcrrr55+kVFxnQFcdQ=;TN2le/ZXDjdoxizGRygdqQ=="
 ---
 

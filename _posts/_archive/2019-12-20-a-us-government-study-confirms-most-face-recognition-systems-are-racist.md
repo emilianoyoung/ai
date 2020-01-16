@@ -5,8 +5,8 @@ excerpt: "Almost 200 face recognition algorithms—a majority in the industry—
 publishedDateTime: 2019-12-20T15:47:00Z
 sourceUrl: https://www.technologyreview.com/f/614986/ai-face-recognition-racist-us-government-nist-study/
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
@@ -17,12 +17,35 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: https://cdn.technologyreview.com/i/images/ap17193571675443.jpg?sw=1200&cx=0&cy=205&cw=1993&ch=1122
-    width: 1200
-    height: 675
-    title: "A US government study confirms most face recognition systems are racist"
+related:
+  - title: "Why some cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Mass. -- Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the ..."
+    publishedDateTime: 2019-12-17T19:40:00Z
+    sourceUrl: https://abcnews.go.com/Business/wireStory/cities-states-balk-face-recognition-tech-67783126
+    type: article
+    provider:
+      name: ABC News
+      domain: go.com
+    quality: 19
+  - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
+    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of ..."
+    publishedDateTime: 2019-12-18T00:03:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 14
+  - title: "Is facial-recognition tech too young to trust? Some governments think so"
+    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the ..."
+    publishedDateTime: 2019-12-21T09:22:00Z
+    sourceUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so
+    type: article
+    provider:
+      name: The Providence Journal
+      domain: providencejournal.com
+    quality: 3
 
-secured: "94/TTNayNGjM+vLAYRwBsKHWBcvwjxlC8+JLlzz0qHBym5D1jCyNMRHIFssmhdhB1aFjpjSj1rxDqh9tpw6fP6Dj/bVeO832Y1Vmy6JxXAzySIarCjiIQUZxAISHDDakH9TiGS4N/BlfAB+Ss+lgl/l+d5oizBDZqGhloTv8rdJiSs4p0aQ8fY/yrwJb4t8AB5Gh113p29pNy2jzxY+3/sISGLlEUwHafPU5VjEQxxfY+EporE5VBJUvVnqHrjW39sIoCgYjO8bSVSaM7gonckXHMqbWzc0RclpJkfiQOFA=;pAhHTcu4LqXqi83oglKlSA=="
+secured: "1JKm6ShdmEz/hSxcW1Ladbe2qjPRJfz3sHkyhiCLmjRshYPWpfcU1l9LtR9CCbuEb2rAALbhR1c30/xXnuLtz1Kd33ety0sLFKg7GiZh4lwRM8p9wnwtsjnG44NjN9OkTbAJEZ2HTJSK0NlxFjrkbouChj4FC1SG/JIrLPD2COMlYZbJwYP4wqF6wSHk/TDkvYtObgF5iQg1ziRdr4VsuSvghnNHnvKX0aekAvByYPihZfU/aXQ00oX0WkMfUVKgNDj71PCAE8eGPO2waMMasumUurWAgXyb9qLvPc94pWY=;yWYrL2LrqWcqVn6b6FLcuw=="
 ---
 

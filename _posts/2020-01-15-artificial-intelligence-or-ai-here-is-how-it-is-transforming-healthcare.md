@@ -8,7 +8,7 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
 quality: 88
-heat: 90
+heat: 110
 published: true
 
 provider:
@@ -25,6 +25,34 @@ images:
     height: 365
     title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
 
-secured: "VyYQ4dv7OAK7LdGp/A7oC2uGvm0UN7fQCtchYRSiPHX9T75MMNeOLNm/BPqcxBuH13LUYLEqVwaVeRFlNKXnDuAE37DpX2Sp99NFSp/KQgaS9blLwZ6KtsE6Ca1d7lYrl3uOARgxuGbLIcaY5uBqGqzv/RFxZ9NGZ75zTVBaEGNQUEWvd27L944BqGH/rSZR72ygQKErRkAzFUMQ9gHkEhb0aYHNWFBO3qcDRhK6BWiidPYmS2S6C7YHPbT4YF/PkIWLe0VkwSjbLGCQpgXfF9nsu8zynJYE7vfAX18wHI0=;+s6nMspir2p9CbsB+c0ZNA=="
+related:
+  - title: "GBT Technologies Transforming the Future Healthcare AI Market"
+    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC PINK: GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
+    publishedDateTime: 2020-01-16T14:19:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-gbt-technologies-transforming-future-healthcare-ai-market-/2020/01/16/9082714.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
+  - title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
+    excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
+    publishedDateTime: 2020-01-16T14:33:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01161Healthcare-AI.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 43
+    images:
+      - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
+        width: 649
+        height: 328
+
+secured: "/nCv0M8oCPX0zaqteJ2vkkiiuMUEvAZVt3j6haWNx63ItchTfVkseKA/QFRlAK+zKw/gKHiMDKVIYwRjMT8c8PI+6Nd4Z3GH/KpbxGx+NMw9ICDejUm3M/aEDcaQH0CktvojR2Ky0Rqj7gx6Kp+jXidE39Pn95fgI1ANdLSSS1azffDoBhez9t3PlQH4HnEB5oKhpOXLDJnuKE4rCuK9hYmfVB1qCqXA3nVXE95SQCOzgw0E24WXgZ+/uc8Qz+nFKwbifxyP6+Hm0bMoWF3R604Blwh7V/uBhpWUIw3p2yA=;aIAq2SyrmFEd5aO/nhNZjA=="
 ---
 

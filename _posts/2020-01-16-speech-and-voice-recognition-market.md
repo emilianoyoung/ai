@@ -33,6 +33,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Choose a speech recognition mode"
+    excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
+    publishedDateTime: 2020-01-14T23:12:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
 
 secured: "h3IDsNCZ3HlF6vB32fuQy2E3HR27rEElzC/0YCVXBEYHqcda5BFB10B6Gq4Nq3MnbqS8kFUeo8cZdT8r1uNvK6wxpsQKO7zqRAwDeNSqFBvRVbP37Lc6aBGcqgEO3johzxV040vpw5rt3AdfdWiIawWl5P4wkfaEG0owG7eIC9SW42Y4Tb8k5sO7hDGK0FHtqXdR2N8pBtYHIfN88TsB/gpf2+jcxsPd8wP1Fhwn205oDpjsXe0GRQfx/rzrswdtD6njv+y6y0kIKepKSUZbycwkBUeoeW0e5HSCJMEbaOI=;jSPB3ORdvpRz1GQ7N8o95Q=="
 ---

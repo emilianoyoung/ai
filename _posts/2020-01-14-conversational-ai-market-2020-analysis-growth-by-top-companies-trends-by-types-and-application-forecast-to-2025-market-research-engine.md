@@ -58,6 +58,15 @@ related:
       - url: https://media.wired.com/photos/5e1cef377b7b080008560ead/master/pass/Conversational%20AI%20Can%20Propel%20Social%20Stereotypes-01.jpg
         width: 2400
         height: 1350
+  - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
+    excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
+    publishedDateTime: 2020-01-16T13:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-vonage-partners-with-artificial-solutions-deliver-conversational-ai-/2020/01/16/9082672.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "n4K9xbndgUC8DfeDS9FAD17KNIkqwmAUZHj/tNdjLBaelHaI2AAqt2nq40Rs7GubUu3nP0hUQHfhNpeAsQ3/happTcmyvb5WCnBWSB6oHHrT4xmTlxQChdZPC3sz0vW57tb1XZXm8eO1qlBqKA7ZWx6LEo79Bn4/O/4tHAhMWxcPCjF8Zct38GdcmkizzDEfW4ov+6lZLOAJzFGg3ns5YZgZRlPEzC4wcEz5J+Lf3UccU+DOO9isuhcaMJo3ylYnAh/c3fu40wjtNVm4ohJjMUoTaAtsE1MMbeBzYOuRIF4=;Hu/DgJBrfKRIYD3RIeyX+g=="
 ---

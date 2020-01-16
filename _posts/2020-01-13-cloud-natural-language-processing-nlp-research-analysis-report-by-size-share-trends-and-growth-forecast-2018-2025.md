@@ -57,6 +57,15 @@ related:
       - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
         width: 2000
         height: 1400
+  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
+    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
+    publishedDateTime: 2020-01-10T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-forces-analysis-revenue-challenges-and-global-forecast-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "eSsKae/RZvrVY5FdyAgTsqxRrKfTcThsgBEAq691183m9xsXrqS9EWt22V1j8oyh0Ijj9nemRNur9JuSSbrD5s/8DR0bpn/GIsu/l8qsPh1GZUGde1/dh/pnyzZ0O1eimXCg4Lnp/H21mUC5RIlppXChd8yUbkSakWrvlpM+lxh6NtIWHzr0IQ7puUXgs7aMkBvDU+crADxLHCVPcMymYzSiMZRKlnWZoEJD9Cd18pXnlcZYdjk+M0gE0tlLE93XpV9VdLTjJwsT9/kaNjq5MKl5PYCuwl/osqS+6ASEFB0=;SKRRt3iUBUuTS2+StrUjXg=="
 ---

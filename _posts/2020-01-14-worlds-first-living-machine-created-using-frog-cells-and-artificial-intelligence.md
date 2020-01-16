@@ -7,9 +7,9 @@ sourceUrl: https://www.livescience.com/frogbots-living-robots.html
 ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
 cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 153
+heat: 163
+published: true
 
 provider:
   name: Live Science
@@ -25,6 +25,17 @@ images:
     height: 450
     title: "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence"
 
-secured: "f8QhYbYRnW3ggvWG+icKbRSgN4Dc/FR4RDn9omi9XW06XmnWs+soWDfmQXzeKuGy5SGQryXgdIZ8AG4yZ7CRBeTSVNsB/NL6ZuyaaMoAUwTpYdYG8oRaIItms+rVlZ84bDvm+cWfK18oLlCbiavlCrpkyvByiZcx9HU1P+s5w+SY5T7XORU1f0LkQZy8MggQZ7k+PhyO0Coxct5LZWeXhhldvIC5zlAa2TAwHCvjVXivppBFsGAyQmEMqx13DI3D9mFzo1jj1iHnMklDpV4yNgzx5e8baDfBQEpfh8N4ZgFBqPe4kzaPpewLIWGh1k4wEtuGzwRGndm8p0Arviaobb0bScEUVmjAlHM3RLDghDxos/mE4qBYC0v6Uqhje+n0a/KKhp/SVIecXwJVAEu7HIJJryunx3fYbdrzMjyqHVpBUeJ+rqnst3EqgvcutsTsSOkv60ZuNIR2unhP7rj+6A==;6fZXG9eR2I5EGtjUk0tcPg=="
+related:
+  - title: "Meet the xenobot: World’s first living, self-healing robots created from frog stem cells"
+    excerpt: "However, their lifespan can increase to several weeks in nutrient-rich environments. And although the supercomputer — a powerful piece of artificial intelligence — plays a big role in building these robots, it’s “unlikely” that the AI could have evil intentions. “At the moment though it is difficult to see how an AI could create ..."
+    publishedDateTime: 2020-01-16T13:57:00Z
+    sourceUrl: https://kfor.com/2020/01/16/meet-the-xenobot-worlds-first-living-self-healing-robots-created-from-frog-stem-cells/
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 10
+
+secured: "wHCR0J6AkAXoRtjQZ1TeLucn0M0RZ4L0ly5ppNZmLyokRQ6G28OFLpTbmAwKE6eoD3iwqSIoM1DemOUZJIpNDjc2bTFeWuc7rZxOPuhVzQtmhWPdna/ytJgKwjnmaj14TARf35cFFPLy6Zm1T6XQEkw/2OjogWvq8vKhlxzdVEtrp8A4V5k6KCzgqJn0Mh53iJd1wnJ9iCvkmICBm8QPX+OFVtWBnrfbLUd1nDLEfQE0Xu63vhq77NiBScMjecV0LKDvmqcJZ53bBzq/wJAiLEiU6fZ2uaPkiFmj4dP8jkq30SCVJGflM1E4SqrTIox/y+Y/TP7lllIknj91CfdTusa7xafVBHk+kjbkt/mvL2pp8XlL18uxufEK64nKReuJCzDrgTJsU5mo39CfOjQxOI9czKk1bTwtJNCDKwLe/inEgYWYKsBG3H4AoOLUeg3vvPquHLFW55aWGaYLMjKYEa6e+3R6KboJFPCJGBCp3q8=;JmBUBvxGkcm2o9EU8+HrWA=="
 ---
 

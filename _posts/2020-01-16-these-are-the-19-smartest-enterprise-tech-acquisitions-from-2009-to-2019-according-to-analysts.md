@@ -43,6 +43,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
         width: 711
         height: 461
+  - title: "Mobility And Innovation: The Deployment Of The 'Olli' Self-Driving Shuttle Starts In Turin"
+    excerpt: "/PRNewswire/ -- Olli, a self-driving, electric, 3D-printed shuttle, is an innovative product developed for urban mobility and designed with"
+    publishedDateTime: 2020-01-16T13:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/mobility-and-innovation-the-deployment-of-the-olli-self-driving-shuttle-starts-in-turin-300987784.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: https://mma.prnewswire.com/media/1076769/Local_Motors_Olli.jpg?p=publish&w=950
+        width: 949
+        height: 712
 
 secured: "nxDgrYaL0p1b1NiAJG+Flfd7UuK/T91/yyNTRJK0AsXXXRcjY4X233T2joyWY3Gg8pgEfWLc5yqRIstWnVDdkZ4Dm/OGTooqiPCnRImTWV7U/SZwUXoL4C5mo+nbIpVKLDzUxr88YHQaDUZCvHEio3gmrIhfyQO2CFGBGsmd5/RAl44HFMY1+czSB1Ws1SsioKxFG/BEmjrYq0KniO5BSEbAEzM3C2hpdrMsgTDzGJWlPp+/LUNVtYmFtOUi73Hq2a7cO662G7SIGgJ0RkJcTHkV6OMTJlhfjQOOvaxx8RgUUYeH5k48vs6jYZqEGaHoyUz3ZChITc+kC0ATENnYIMkHWBbfUZnb2JFTnnLgNIn2+E3clN/izOgXwO4gD1JffvU7uYbqmz12LiITyYwCNsNjFS+tsiw8iwfd14M+4ojgRd0yicgO9J+qG4MRi1UCTvgnCB2VeG8H1B7YLfQHyA==;8/F7sSxjtCQwaoejebdZfw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T08:26:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16
 type: article
 quality: 53
-heat: 63
+heat: 73
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     title: "AI in Retail and e-Commerce Market - Industry Insights By Growth, Emerging Trends And Forecast By 2025"
 
 related:
+  - title: "Artificial Intelligence in Manufacturing Market : Key Facts and Forecast Predictions Presented Until 2025"
+    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
+    publishedDateTime: 2020-01-16T12:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-key-facts-and-forecast-predictions-presented-until-2025-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
   - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
     excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
     publishedDateTime: 2020-01-10T14:15:00Z

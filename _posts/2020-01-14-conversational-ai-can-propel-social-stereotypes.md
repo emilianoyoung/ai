@@ -57,6 +57,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
+    excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
+    publishedDateTime: 2020-01-16T13:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-vonage-partners-with-artificial-solutions-deliver-conversational-ai-/2020/01/16/9082672.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "XWyfWPbk1AnnSENxYx69hOXEKdPGECp6cGyI95dREJRJNQsMXBoreysUQDwWufaJI+udzg1+Q8kRXRntCMnmTCMIgqnzKPi40LAwTQSTtMpZVt08J15TfO0yEF8TQzCZymbh1uxI1InDngdjkAdWwkTFaXA4N6F44L/mcaOJY2IhzM85TnJQmoNXPHARXdynmGBjYVpk2IGXOudv5J3Ls3GrjWraeeOoxFdfhATJ6O2PqnIt5+Hqw2x14fvgNno1ApJOU3ImQ7Bq4YbU6+2QX8EPdTAqlQ/tf4JRVfcMQh8UipwX5cellQe7SuXB4F/zWuYIy+Q80Env7XsIoJBU19FWoDNVN3V8u5uojBgSL0wb6gQiAkSHJbddmb6isAGJQbV7J/IYF4MYyjR5EBxiahMA+zek4PBwgLiXaVpd9Bu3dBYA7F6StpPN8Q+5u5bnSKWn9VsGrcGM2no1nQEw5w==;C9vpx1cHm/DVEJLLtOlViQ=="
 ---

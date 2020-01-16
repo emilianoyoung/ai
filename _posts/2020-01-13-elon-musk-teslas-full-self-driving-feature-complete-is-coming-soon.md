@@ -8,8 +8,8 @@ ampUrl: https://electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/13/tesla-full-self-driving-feature-complete-soon-elon-musk/amp/
 type: article
 quality: 88
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -38,41 +38,11 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 82
+    quality: 182
     images:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg
         width: 796
         height: 419
-  - title: "Riding in a self-driving car is the best way to end CES 2020"
-    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
-    publishedDateTime: 2020-01-10T17:02:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
-        width: 1200
-        height: 630
-  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
-    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
-    publishedDateTime: 2020-01-13T00:26:00Z
-    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
-    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
-        width: 1200
-        height: 680
 
 secured: "pYQPZoZ/QrYz5RpQGF2MxxaZIiCxS3Q/YIG0WQmI5TDhrObJvioPaLjx/Up2IRMtAWJXXxH/839sGysqhmq90TNGZdZyfdG54bJn85cuCf7rKpaBOfxoCC0uwyURoZ3iC+WjSXraNYa10BdplwErzgN6A7E1sJ/vgSYcN7pitxW6Ovg+XkjlYUY220Lr50xgdtxZC6TjorDapbOVJzw/R6gkgJyECmH7eUz5Js8Xy8sP4SvXwg8EeVPSQ07A1fGprufSYPIcl/YvQkloaiesMpwF9VY1OjkYB8bsmZQNhyARBMreYIm1Xfg1m0gjlKMHedQjqxCq4X0m9zuRUhTqPKmcxK7nU8DwitRfTVVTfox5+kbRFLfti85oOKIoX9eDZop7ZPuApdLh2Zoim8UJkNx9Vnw5h2SIprWZOF7G6vdDqVkTvUAi0Qc7NVzH9u8+4VdyC8Ov3VhhvAo751IjSg==;PNFjaoNfEvG3/uVl91+hnA=="
 ---
