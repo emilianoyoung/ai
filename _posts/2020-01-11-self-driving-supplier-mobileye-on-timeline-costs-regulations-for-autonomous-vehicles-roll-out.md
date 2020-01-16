@@ -43,6 +43,19 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106331425-1578694177734shashua_amnon_mm_20200110_img_1027.jpg?v=1578694283
         width: 5795
         height: 3863
+  - title: "Self-driving supplier Mobileye: Autonomous vehicle timeline, costs & regulations for roll out"
+    excerpt: "Self-driving technology provider Mobileye told \"Mad Money\" host Jim Cramer the public can expect to see robotaxis hitting the road as soon as 2022."
+    publishedDateTime: 2020-01-11T04:58:00Z
+    sourceUrl: https://www.cnbc.com/video/2020/01/10/self-driving-supplier-mobileye-autonomous-vehicle-timeline-costs-regulations-for-roll-out.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 43
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/106331526-6ed3-mm-d-block-short-011020.jpg?v=1578700711
+        width: 400
+        height: 225
 
 secured: "bPS4rZ8/ZszhB9C/k2EMH6MU9MV+MfQrWtoiqiU1UX2FXniZ2zJgw6Voy4V7ciaY0sM5Rm6viL73hK6/V7ERFArpA6i2FO1Nx+sR6e1uozykz2mFH6ngr/lJ8Ya8a28/Vm0FxbuBCcolZOvXQeIuGBEchsmAEVdeTErT2CIWlwhsViH9pOXuEKLaB83YHCmqRlB8+zYGaRvv6ixLOqIXIVFkazY5UGyreg8uqQTR5pVcbBn73wAAo7taWxQ5bkBzvFboDwebwgSH0ugQhBBwbRYW8PqyT7SSuFDqby6DxZ2U5xBy0QiYSssqQokzPr9G3HiZwt+1v/+ElM/mXlSqgfjep+93vrQ0WwS6j5CVs0f7QuX+AK4pAZwgY50U0xvh76rs1sPoHVwiYs8wcwEnkUvsvfrs3rbvCk7iu/P5rfkb7C3YCjuwHQtQ7uqqIkdUdO2pOLJIBSvnxc5cklq+oQ==;FElMjLYtNBAjWzQCNIf+kw=="
 ---

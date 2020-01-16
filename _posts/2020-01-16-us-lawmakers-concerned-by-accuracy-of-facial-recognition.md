@@ -2,22 +2,18 @@
 category: news
 title: "US lawmakers concerned by accuracy of facial recognition"
 excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
-publishedDateTime: 2020-01-16T04:58:00Z
-sourceUrl: https://www.bbc.com/news/technology-51130904
-ampUrl: https://www.bbc.com/news/amp/technology-51130904
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51130904
+publishedDateTime: 2020-01-16T04:43:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51130904
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51130904
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51130904
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -190,7 +186,7 @@ related:
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
     type: article
     provider:
       name: Fast Company
@@ -228,6 +224,19 @@ related:
       - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
         width: 635
         height: 423
+  - title: "Activists: Facial Recognition on College Campuses Decreases Security"
+    excerpt: "Digital rights group Fight for the Future is collaborating with Students for Sensible Drug Policy to launch a nationwide effort to ban facial recognition technology from university campuses across the United States. The two groups jointly announced Tuesday ..."
+    publishedDateTime: 2020-01-16T22:39:00Z
+    sourceUrl: https://www.campussafetymagazine.com/university/facial-recognition-college-campuses/
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: https://www.campussafetymagazine.com/wp-content/uploads/2020/01/facial-recognition.jpg
+        width: 1000
+        height: 500
   - title: "Clay County introduces facial recognition to help locate missing pets"
     excerpt: "“You can snap a picture on your smartphone or you can upload a picture on your laptop to their database and it’s an instant search through facial recognition software,” Clay County public information officer Annaleasa Winter said. The program is similar to the technology investigators use to catch criminals. It takes in 130 scan points in ..."
     publishedDateTime: 2020-01-16T19:51:00Z
@@ -355,6 +364,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "5JFqEy77qaTvF6uv2Jn5NHjp0tn9T6O2QJxI5Y8UHsGos1qI87p2C+D9HpslShlyHvI0UWEJTn7OaZaHgelE4yJiAsqIPeKUuhgtBe5VEtjxzg0Hpewrl1ds8e194YZ+37CmYTVmHjCiVxenmk/GTqe8/S5bzyu0iVc0BpAxazUkTMJs+e0QO2Xh+9sH2AESE2iMEZ61elPm0/HPdgIIR0HHdXXGBvhZ8MStNm8mQRnYaqWsLukUFzXeGjLBc52FDK6wdBjAqlB9ROa8aJBIF57d/ThetD3VGRXcW71x1bQ=;/q6NHgFJDSChsyt5glyh2g=="
+secured: "Rxor8EuVOi6ozyC5r6VSypEO5T/AlY+hdVD9ap/DYUIhpnnmjLOXQsz8B2kCjsQ7mbPfG73FlZZOPjr6X0WcFrCEwo7ll2v/ZpLPDwScZ83bubhAhyxFDvTGRW5mRBsqZXDnnl1lZGPOjSPGDYKcPC9VDYtQKad/97lbX4XRBYW02m3AQtEYrAcKt/W4/PDOhj3v2IJi8NPxFKDIAOTyVmq+qoJx5zup8COwlkqEE0rQ1Ekg7MO3zYhTkrRGGNT5wRHvDEgbGkDyF7UsIFGBPdMVFvp9XGHwBBTeqXQ/3+k=;2mLb0gM0vYUJxPSSo6Jb6Q=="
 ---
 

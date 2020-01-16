@@ -26,6 +26,6 @@ images:
     height: 578
     title: "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing"
 
-secured: "1v48c9xwq1wd5tZUnQD3DccRrxxChtdPcn6tqsjpvoqJoNRLwF3hyxTXIyFWVMYvKT8LwJrxu1yiL2Yl+fBvDpaq+k99Ot+kccWU9FtW2lpXCaAHLW4sZTcywlmOkyiNfScGXF5/00Cp54owUqZ1cMLE2nCsFPFE1pwCZ17WeKbnNQ84PxnmZEiMF4Zp48EK+VD+ob4gvvhMzS8pHwIMXESi1PRj7CpxFI4mt2//sbEFPyXJz7qQ4SLBKdqTCz1lwhkdWb4vWi9CCqn8zrk2ffs/619ZTo6ia/hm5gdjNkI=;T7TeMenlt/4IqtIHMbZ+bA=="
+secured: "vy+8wiVhmjrQgfnekbwK+tdlzEjS9R7hNhRWIqcULBHZ+hgYjYHvAo4gUGdkjc1FSY8SMImMOWShauhksQ/Ju/geuGpeIDZUEA0+2QkAeCz9/zt8V3G51y3Yrs4ST09hNydG26xsBQW7Po2WYITp6wQ+9wFGkf3eN5QiJ5msv4XpOuPsGmft7Yc7nBUuOxtse7KYEEp4DDjucZ12CzO1QgPdHE13LiE/lUscUCPs41g7ZZwaiLjR56kc6vhE/lVVsdHBTTw/7Ruzwe4IZE6ykFrZeEGQzdEb9svUVSsqPH5M9kYWz8xX6PQYq4GoAFURVPiuUv5Q7KGj4l8Qn9CwG2PrLnPm3KfgOejGCMmmTIz192msvy9sjRuWWh6J5V/U0VQHM05UNCjoY9os8F9KQ+kueOdVCykzMPJs6tUcCJYbWG2O9Mo1IKsJkj2EEnTf6gfcu9vgDOigANx1x4+F+Q==;I2JIfRbz1MyQZXwFJFNpZA=="
 ---
 

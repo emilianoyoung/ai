@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg
         width: 620
         height: 480
+  - title: "New Tech Lets You Test Your Blood Sugar Without Needles"
+    excerpt: "“Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection ... She continues to contribute to HealthCentral while she works towards her masters in marriage and family therapy and art therapy. In a past life, she worked as the patient education editor at the American College of OB-GYNs ..."
+    publishedDateTime: 2020-01-16T22:22:00Z
+    sourceUrl: https://www.healthcentral.com/article/new-glucose-monitoring-device-for-diabetes
+    ampUrl: https://www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes
+    cdnAmpUrl: https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/new-glucose-monitoring-device-for-diabetes
+    type: article
+    provider:
+      name: HealthCentral
+      domain: healthcentral.com
+    quality: 44
+    images:
+      - url: https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg
+        width: 1254
+        height: 836
   - title: "AI can detect low glucose levels via ECG without fingerprick test"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: \"The differences ..."
     publishedDateTime: 2020-01-13T14:58:00Z

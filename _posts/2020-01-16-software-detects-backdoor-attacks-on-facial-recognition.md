@@ -54,6 +54,19 @@ related:
       - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
         width: 1200
         height: 630
+  - title: "CBP Expands Facial Recognition for Global Entry Travelers"
+    excerpt: "Over the last few years, Customs and Border Protection has been rolling out facial recognition programs at ports of entry across the country, including the nation’s international airports. Now, the agency is increasing the use of the technology for its optional Global Entry program. The Global Entry program allows frequent travelers who are ..."
+    publishedDateTime: 2020-01-16T20:33:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/cbp-expands-facial-recognition-global-entry-travelers/162498/?oref=ge-homepage-river
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: https://cdn.nextgov.com/media/img/upload/2020/01/16/NGairport20200116/open-graph.jpg
+        width: 400
+        height: 400
   - title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
     excerpt: "As the longest running biometric modality, fingerprint payments will take the lead in this market as standards coalesce around the technology more easily than for facial recognition payments.“Many consumers are now used to making fingerprint-based biometric payments, both for contactless and remote payments,” remarked research author James ..."
     publishedDateTime: 2020-01-16T17:01:00Z

@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
-    publishedDateTime: 2020-01-14T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Aviation Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
     excerpt: "New York, January 16, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
     publishedDateTime: 2020-01-16T03:34:00Z
@@ -80,15 +67,6 @@ related:
       - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
         width: 1200
         height: 627
-  - title: "Intelligent Apps Market Outlook to 2025 - Google, Facebook, Intel, IBM, AWS, BigML"
-    excerpt: "The presence of several AI developers and technology solution providers that are developing smart apps for various business verticals contribute to the growth of the intelligent apps market. Global Market Insights, Inc., headquartered in Delaware, U.S., is a global market research and consulting service provider; offering syndicated and custom ..."
-    publishedDateTime: 2020-01-14T17:43:00Z
-    sourceUrl: https://www.openpr.com/news/1896195/intelligent-apps-market-outlook-to-2025-google-facebook
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "HAYxw986vwbbo7nn8yjpJfBnieAgew2cdUQ9ajFVhidPi50CoZWEp1FQLf6dNLgp6Qwatcx/ChKrgofIYbn0tcHITmL25af7kRb5TQPXJwJYuUZi2EVLq6tyOdUXXUNMAQbGvY8Gd3L35TWBq72PTlpr98PqrJa/URkeEcLmvjn7+GVtL1mU6GhS6lTue6fz2Zquqpty3ZKPcaJsQC1hijiMNJr7EGD+3sEqEmq8r5hoo4qhwzrA7cnO+nfGCUymil0UX8pcXc2IGlHrEWUhjht8e0ZUysq/pagRCNtKoAw=;xYxdxGsvv/W2c6+v0Ri+LA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T13:00:00Z
 sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,23 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+related:
+  - title: "Mojo Vision’s Smart Contact Lens Puts An AR Display Directly On Your Eyeball"
+    excerpt: "and “the world’s most power-efficient” image sensor that’s been optimized specifically for computer vision, all adding up to what Mojo Vision claims is “the smallest and densest dynamic display ever made.” Although the device is still in its research and development phase—the company is currently performing clinical studies under ..."
+    publishedDateTime: 2020-01-16T22:46:00Z
+    sourceUrl: https://vrscout.com/news/mojo-visions-smart-contact-lens-puts-an-ar-display-directly-on-your-eyeball/
+    ampUrl: https://vrscout.com/news/mojo-visions-smart-contact-lens-puts-an-ar-display-directly-on-your-eyeball/amp/
+    cdnAmpUrl: https://vrscout-com.cdn.ampproject.org/c/s/vrscout.com/news/mojo-visions-smart-contact-lens-puts-an-ar-display-directly-on-your-eyeball/amp/
+    type: article
+    provider:
+      name: VRScout
+      domain: vrscout.com
+    quality: 41
+    images:
+      - url: https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/MojoVision_1-1024x683.jpg
+        width: 1024
+        height: 683
 
 secured: "xxe74QgkeTpuFioaGD9Pdb0XF0ZJPR26jwL89aZeBQPSdQ21W7xproqkplTp6isLdKpPf/oXre1r/WH2JZHQ7YijQrO9kwp+g4FmcIqrxwqLrnoxshqt5R1BvOcL6MBATRxCADcp9loZtg0rjI3cmgXC/TXcJsIHyYMrsfiwCz//aVA7VC2oqefjNI/35YCx0AcHoj7c374oWX2Sae3faREUCxo1sxAH7N6I/GLBqfPGSVi+6cazEOjjQH1IjzLmNsmisy3LweqnejpWTq+4cpqUuXpPSx0x2gReE4sYYeBGf8m+qPIuOsuoM2FlcwEw9V5dYx0RZGklFFiPuB7N8Dlb1qqNdP4rTBfoYBaR0URCvFJ500dcLiDBfW3BX+yPNqlR5JrydB6Pxyr5zvMxdI/FtCI2gMc4vR+amzQf/zNyPjA/DweXcK5qzBosAjIbT0SdSPJUj/M4YzQcWEQwCg==;JSyyMRir/0GEVTa28wdhfQ=="
 ---

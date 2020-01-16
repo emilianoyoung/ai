@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says"
 
 related:
+  - title: "Self-driving supplier Mobileye: Autonomous vehicle timeline, costs & regulations for roll out"
+    excerpt: "Self-driving technology provider Mobileye told \"Mad Money\" host Jim Cramer the public can expect to see robotaxis hitting the road as soon as 2022."
+    publishedDateTime: 2020-01-11T04:58:00Z
+    sourceUrl: https://www.cnbc.com/video/2020/01/10/self-driving-supplier-mobileye-autonomous-vehicle-timeline-costs-regulations-for-roll-out.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 43
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/106331526-6ed3-mm-d-block-short-011020.jpg?v=1578700711
+        width: 400
+        height: 225
   - title: "Self-driving supplier Mobileye on timeline, costs, regulations for autonomous vehicles roll out"
     excerpt: "Self-driving technology provider Mobileye told \"Mad Money\" host Jim Cramer the public can expect to see robotaxis hitting the road as soon as 2022."
     publishedDateTime: 2020-01-11T05:02:00Z

@@ -24,6 +24,6 @@ images:
     height: 630
     title: "AI and robots could be the future of agriculture — Strictly Robots"
 
-secured: "Yay0o/WFPrsbHaGnVgBtpC9dZhvfZOhbOAsdy5E+7ZhaR29OA67upXPt+R52Hq6dSuWK73Xrxu1/1Bw6/hWnXpeL+2AMnkQftt8oIC6+RJ6gojgRL9DFIi88VDJFwzGpnQPnDsuD+g0+cGd98xWj1gNZKWPuLd+SvZhZfeM1p0Nf6d5O4ZMTN/sflz/Nwg6dOBls1An8y0jtxIcqa2F45qGiuFcu+4+y/u7CExDdBZQFf9kJAW0TPU0I83qtw7emP3g4vm8ZfO9FN47fDO+drjJV5DHF0u5RSPKfS916v/4=;LNBDh9NqWzurvDH1GVhLCw=="
+secured: "e10qPYHnXHnEaagFPXLl3iAsFar6dXHWEBrjhN39EY7B5PPg8Yxe48NAFQGh1umL1R8kTIksGKFG+YgmtPY2GmD3bxaTCBDtkk1UMdhgkxdXKzPpRbnufFB3sxLotr6rfZFk2/f8rPkQ4Kdgai3JOJe0CVZ8DXnm67sfc9jdpbAUaDpCyJaj2VzocQAH4XPZIAbf5pP5OCUG84CctAUiUBQekF8gqgAzzCrsrJZaUjoI0V0zEKMd1m6/In2xMYkGNG5AqZbZgfPmD+hdqu0TPlI9Uwyer1526HZSw5iF+rzv1OUr9PEAulG1LaXtNV/T/DleBiSQ9kZYbn9ju5X3AGBe7XAg0OwebdrHdehAOynhY3Bs2NhsQpUnrO3Y79shUyl7hXTlw2OKgefJP4VHfUfgtFwwlS4wb5iQz7Lji6hJjs+gjvsB8F/6EPjUt+IiUNc26ywmKE846P1U3MNJ6Q==;GCjpYi+fN7UB4zS7Yn1qMg=="
 ---
 

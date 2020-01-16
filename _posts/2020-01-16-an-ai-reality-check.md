@@ -8,8 +8,8 @@ ampUrl: https://www.itproportal.com/amp/features/an-ai-reality-check/
 cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/an-ai-reality-check/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: IT Pro Portal
@@ -24,6 +24,19 @@ images:
     width: 1200
     height: 675
     title: "An AI reality check"
+
+related:
+  - title: "Self-Driving Vehicles Need a Reality Check"
+    excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
+    publishedDateTime: 2020-01-16T21:45:00Z
+    sourceUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html
+    ampUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "n8Fvga5MBUr3nWKwwWRNxc1O3MLyQnyf3cJZhPlWnheNUryyujljz6WJ1WgQNlMoKPm+3O/rak2IsVmQYMGX41uaO0cNnWYjjqZtFiajVLuwSuYgd8wdLwCAuilNhPu2yYPGBS2B7dtdiXzLL6zk2/8R6EmKbFIo62pkt1GGhX4+Z0KT2cD3HFCm7j3NyU7G3Lv9o6QI6LINYxP/97PQXmVLGDvsUO7luCKwhCwcLsc1veLaKdJ+dheJet/GPLEcfVIx52/UyL5sPCReDOJZsAF97QPGN8ITZcuELoneBww=;IQwIFvrDh3wmw86IPzFuiQ=="
 ---

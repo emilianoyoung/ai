@@ -24,67 +24,28 @@ images:
     title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
 
 related:
-  - title: "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026"
-    excerpt: "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,"
-    publishedDateTime: 2020-01-15T15:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15
+  - title: "Artificial Intelligence for Healthcare Applications Market to Show Strong Growth by 2025"
+    excerpt: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis,"
+    publishedDateTime: 2020-01-14T15:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-to-show-strong-growth-by-2025-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 75
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
-    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
-    publishedDateTime: 2020-01-13T20:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
+  - title: "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020"
+    excerpt: "HTF MI newly added the Global Artificial Intelligence Platform Market Study that gives meticulous investigation of current scenario of the Market size, share, demand, growth, trends, and forecast in the coming years."
+    publishedDateTime: 2020-01-16T17:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020-2020-01-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-16T06:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
-    excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
-    publishedDateTime: 2020-01-13T21:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-16T10:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+    quality: 66
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -102,19 +63,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
-    excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
-    publishedDateTime: 2020-01-14T11:14:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-analysis-size-share-trends-growth-and-forecast-till-2024-2020-01-14
+  - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
+    publishedDateTime: 2020-01-15T09:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200115005015/en/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: Business Wire
+      domain: businesswire.com
+    quality: 44
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
         width: 1200
-        height: 630
+        height: 627
   - title: "Deep Learning Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
     excerpt: "New York, January 16, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
     publishedDateTime: 2020-01-16T03:44:00Z
@@ -128,6 +89,50 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence in Healthcare Market"
+    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
+    publishedDateTime: 2020-01-16T03:41:00Z
+    sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
+    publishedDateTime: 2020-01-14T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Here’s How Artificial Intelligence for Edge Devices Market Growing by 2029 | Arm, Alibaba and Apple"
+    excerpt: "Artificial Intelligence for Edge Devices Market is growing due to the increasing demand forAutomotive, Consumer and Enterprise Robotics, Drones, Head-Mounted Displays, Smart Speakers, Mobile Phones, PCs/Tablets, Security Cameras will fuel the growth of the market. The prime purpose of the report is to present a comprehensive assessment of the ..."
+    publishedDateTime: 2020-01-11T05:50:00Z
+    sourceUrl: https://apnews.com/Wired Release/5a2e4d5ef832bc8b19dee0737e049865
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
+  - title: "Intelligent Apps Market Outlook to 2025 - Google, Facebook, Intel, IBM, AWS, BigML"
+    excerpt: "The presence of several AI developers and technology solution providers that are developing smart apps for various business verticals contribute to the growth of the intelligent apps market. Global Market Insights, Inc., headquartered in Delaware, U.S., is a global market research and consulting service provider; offering syndicated and custom ..."
+    publishedDateTime: 2020-01-14T17:43:00Z
+    sourceUrl: https://www.openpr.com/news/1896195/intelligent-apps-market-outlook-to-2025-google-facebook
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "x3c31YHek7opYGFuF/01xyOmqJ/5PC8LLdGgq2HTAnhFIxnjKZagxXMPhUmhbwukxmrKAiE/YuCiy/Y7ThlA4jHL1sjAVA7AOcuC7WHf+sPaew9IPPBRLcsKkLiLgoPhO1Uns9WdS0OXmxG33w3ZePykx6ej8/Fg1PpHjqKt0WKiOpKMYna7Huf0UEE3RoIj9Z2gQfSUDZMCIIdAE1goB8hH+7oemSCFdT1G2kKaVLYq+EX+MLIDN5TmISJF7IYKKjPQ1FhqQE8kvqIUCiQLJtQYgk+c6525KrTNRy06UnnFhpwSqBe/7gGu5fKAsBjSVIfpDkhYbKqmhh701zB4iCS0M59pQ2SraKqUJF8XDqfc8HEepuWjdKEsHcOvRuHu/jMntzX6JzdRQGFErEXtsReUXJzCCLhrBHylSnnIQclwXeVHyCZlN75EvlDRalUqhg/t8xPJkcRtuffjPOiDlQ==;TVi8dcHNmAIMMyupcuNckg=="
 ---

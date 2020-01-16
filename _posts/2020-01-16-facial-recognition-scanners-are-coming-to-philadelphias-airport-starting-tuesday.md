@@ -8,7 +8,7 @@ ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-ai
 cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
 quality: 154
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
         width: 1200
         height: 630
+  - title: "CBP Expands Facial Recognition for Global Entry Travelers"
+    excerpt: "Over the last few years, Customs and Border Protection has been rolling out facial recognition programs at ports of entry across the country, including the nation’s international airports. Now, the agency is increasing the use of the technology for its optional Global Entry program. The Global Entry program allows frequent travelers who are ..."
+    publishedDateTime: 2020-01-16T20:33:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/cbp-expands-facial-recognition-global-entry-travelers/162498/?oref=ge-homepage-river
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: https://cdn.nextgov.com/media/img/upload/2020/01/16/NGairport20200116/open-graph.jpg
+        width: 400
+        height: 400
   - title: "Software Detects Backdoor Attacks on Facial Recognition"
     excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
     publishedDateTime: 2020-01-16T15:04:00Z
