@@ -1,0 +1,51 @@
+---
+category: news
+title: "How AI Is Revolutionizing Health Care"
+excerpt: "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive."
+publishedDateTime: 2020-01-15T19:45:00Z
+sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/
+ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/
+type: article
+quality: 89
+heat: 99
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AI in Healthcare
+
+images:
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg
+    width: 640
+    height: 640
+    title: "How AI Is Revolutionizing Health Care"
+
+related:
+  - title: "NRF 2020: How AI Is Revolutionizing Retail"
+    excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
+    publishedDateTime: 2020-01-14T23:06:00Z
+    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail
+    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
+    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
+    images:
+      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
+        width: 300
+        height: 250
+
+secured: "4el1YQtWYt7HJW7+mjeGzEPKBDG8s530vBrAw78wgrMbYHToRFhTusBI7+M7/6iHBqoCBqODeZ6VIkKNDHNAI0MMIZJJDSmAQYkRXz5+RY/HkFoD3SWa2ucYgJeiOr+Oq6kyV5GVL1jecZNR34tS4YUsTYm08cPxqbAN3QZS5fYl+Hgffbrgf3NX7EJAARcF3j3xYOm5nE8TIuQSIBqSQRsxn69d+XqCh9/WCocvQNaV70BEG0BCwWXMCxfL8Q0vjHOg/uAbhJWK7Q2yNHaLBwm0fib0PYyDdpNmcYd95Mk=;UOm8a/2IvWVcQ9WwieIQqw=="
+---
+
