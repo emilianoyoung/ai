@@ -26,6 +26,21 @@ images:
     title: "How the police use facial recognition, and where it falls short"
 
 related:
+  - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
+    excerpt: "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ..."
+    publishedDateTime: 2020-01-16T16:46:00Z
+    sourceUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition
+    ampUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
+    cdnAmpUrl: https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg
+        width: 620
+        height: 349
   - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
     excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
     publishedDateTime: 2020-01-16T01:11:00Z
@@ -41,6 +56,36 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
+    publishedDateTime: 2020-01-09T20:52:00Z
+    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
+    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
+        width: 940
+        height: 627
+  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
+    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ..."
+    publishedDateTime: 2020-01-09T22:34:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
+    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
+        width: 1200
+        height: 600
   - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
     excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
     publishedDateTime: 2020-01-16T01:04:00Z
@@ -69,6 +114,32 @@ related:
       - url: https://image.businessinsider.com/5e1f849ab6d52d23c07e6a13?width=1200&format=jpeg
         width: 1126
         height: 563
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
+    publishedDateTime: 2020-01-15T00:00:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
+  - title: "Sensory Does Voice Recognition Without the ‘Net"
+    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
+    publishedDateTime: 2020-01-13T17:25:00Z
+    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 24
+    images:
+      - url: http://share.opsy.st/5e1c9ca535b08-google-home-mini-3739710_1920.jpg
+        width: 1920
+        height: 1280
 
 secured: "M6nEc5QbeKR4zJiga7EMOSA/15Pyx930Zu1lygCIGDEf2gA2LY/PljKaA5aJjYH5loiNzVPHa/C8lqoO1hnfVtn0Agmng8WgP5XDxyJcml6ttfx4hcx8FILEQU47pGd7R67ONllTTC5GNxEFSCgUf6D6By3iXhfuJCpBFlFWQweH5ndsRCN/WOZsID3p5HYe0inzMteSJQXH5/RSoOdZ86RS2MnDBBjJrzZWIoLxJQizjbEBfNREQCZR1sbV08EaZ+5d0pXvY6XBilRPlZ31/rxuuv1AtxI0RN+zWlmb+IY7njd3zluJ4j3M1tYclYA1DxlS2NWpe5Ybzh8Xwz21JrAtrknF1Ed5vRj64GKsIUxPSA0gI4bkjasm9wwsGpFlTNeUCk9uFDTdom2eKf3LRjx32GAoBbpgTooKlgY5npx9oAzwW6Wi+7+yAF3rdhcHfuh7LMSMeijMCkL+EEm5jg==;hmVjP72WeSP9wvTmHL2dsQ=="
 ---

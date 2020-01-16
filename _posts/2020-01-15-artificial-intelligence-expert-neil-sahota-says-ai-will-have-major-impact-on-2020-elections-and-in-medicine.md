@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence Expert Neil Sahota Says AI Will Have Major Impact On 2020 Elections And In Medicine"
-excerpt: "/PRNewswire/ -- Artificial intelligence, or AI, will play a significant role in the 2020 election campaign and may also lead to major breakthroughs in"
-publishedDateTime: 2020-01-15T10:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-expert-neil-sahota-says-ai-will-have-major-impact-on-2020-elections-and-in-medicine-300987177.html
+excerpt: "What is certain is that machine vs machine battles will become more prevalent.\" The author of the influential book Own the AI Revolution (McGraw Hill), Sahota is also an IBM Master Inventor, who led the IBM Watson Group and is a professor at the University of California/Irvine. In addition to its potential impact on the election campaigns ..."
+publishedDateTime: 2020-01-15T20:36:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-expert-neil-sahota-says-ai-will-/2020/01/15/9081764.htm
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
     title: "Artificial Intelligence Expert Neil Sahota Says AI Will Have Major Impact On 2020 Elections And In Medicine"
 
-secured: "2hXNjMYlUZD4Jjm0brzW4r5q5xqeFGnINwOBdG1VH2LtIw6iilfRZkS5s/kTPMg9RVS+s+L2+LJuMdbAgnP2EQzq/KLYu6ouRryLflliHlI+IX3U5XJgtLKEnIYpNWOsfXzyXYi+ot6KzF3zqpk8EVOfOa9xUGDwna7+X8LBh2QTXFpdWYEYRrJcMSZgjPIJgUvQnkWhoRA+IJ5NjrIXgpoAA3r1U4eO1TgT0jNPjCiXZT3yehr3r0MRfS50+wLTOZP2OUDT23i9YpbQSLE4ZmROypNqFGm4LqUYgZSygXY=;1mCOqaN5X8lkTHO2PAsHNQ=="
+secured: "WnrQvfRbKgQk8+52SPsk0YUSP/PUPVIRe/qGndGMB7z15TpwZI3mB/CwJIWCD//gDp6G78uOlcujE8O3Xzxdom4hwZPH5df2jOE+1czf6et5ZBPSBmT+RkL2rWimLl1EbtPrk4iUWELbJeOu7apkELkT/vYEmXQMzBZ5XhszD72GJNIN0aioIczByGLtKJ9eJc/LjvDr3WUS42pHAs+GQxg1EHvh8mEjaOgwPJxGnzusDm17OQNdIWuJ1eIRYy84+yFr4+8CktV24b774J21I+vgL4W9ikGD+2NhquG7zxg=;OyskiggnPBbDNSB/v/nmyw=="
 ---
 

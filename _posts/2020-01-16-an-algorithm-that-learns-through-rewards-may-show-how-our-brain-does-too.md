@@ -39,6 +39,17 @@ related:
       - url: https://miro.medium.com/max/1200/1*YaCKYPDAZ31OA5OgTT3tjA.jpeg
         width: 600
         height: 256
+  - title: "DeepMind found an AI learning technique also works in human brains"
+    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/
+    ampUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 56
   - title: "Prostate diagnosis may benefit from some deep learning"
     excerpt: "Now Dutch researchers from Radboud University have developed a “deep learning” system they say is better than most pathologists at determining the aggressiveness of prostate cancer. It actually does the very same job – analysing pieces of tissue (biopsies) taken from the prostate then calculating a Gleason score, which provides a grading ..."
     publishedDateTime: 2020-01-12T14:57:00Z

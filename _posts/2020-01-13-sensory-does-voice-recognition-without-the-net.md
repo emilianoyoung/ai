@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T17:25:00Z
 sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,39 +24,122 @@ images:
     title: "Sensory Does Voice Recognition Without the ‘Net"
 
 related:
-  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
-    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
-    publishedDateTime: 2020-01-14T19:54:00Z
-    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
+  - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
+    excerpt: "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ..."
+    publishedDateTime: 2020-01-16T16:46:00Z
+    sourceUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition
+    ampUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
+    cdnAmpUrl: https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
     images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
-  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
-    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
-    publishedDateTime: 2020-01-14T11:28:00Z
-    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
-    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+      - url: https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg
+        width: 620
+        height: 349
+  - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+    excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+    publishedDateTime: 2020-01-16T01:11:00Z
+    sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/
+    ampUrl: https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 7
-  - title: "Voice Recognition Used by Law Enforcement"
-    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
-    publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
+        width: 750
+        height: 563
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
+    publishedDateTime: 2020-01-09T20:52:00Z
+    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
+    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
     type: article
     provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 4
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
+        width: 940
+        height: 627
+  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
+    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ..."
+    publishedDateTime: 2020-01-09T22:34:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
+    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
+        width: 1200
+        height: 600
+  - title: "How the police use facial recognition, and where it falls short"
+    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
+    publishedDateTime: 2020-01-14T01:50:00Z
+    sourceUrl: https://www.orlandosentinel.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html
+    ampUrl: https://www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
+    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
+        width: 1200
+        height: 960
+  - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
+    excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
+    publishedDateTime: 2020-01-16T01:04:00Z
+    sourceUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428
+    ampUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
+    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 51
+    images:
+      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
+        width: 1200
+        height: 630
+  - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+    excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+    publishedDateTime: 2020-01-15T16:41:00Z
+    sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: https://image.businessinsider.com/5e1f849ab6d52d23c07e6a13?width=1200&format=jpeg
+        width: 1126
+        height: 563
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
+    publishedDateTime: 2020-01-15T00:00:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
 
 secured: "+lfVgiqVv8fVyGPIqpgzfJfQGF6I5LVlucjEgUSvdye+fTcGVytIrih+1VICdMzv3oKSU3fz05niD7vT2VM3N2zL5mwXk0Q9LVlcGMiOS6l2mT8ZdwC59ais01ybRskqsi4ACBFcGl+/74pH1WY21EZ/uA3gwh3KPGJa9gShQZO7YWAghi4QOsNbhYnPTky3KiGufHvgbUW+QX8j6Gl62Jf9z/si+YcEiFgjmFyhPe9Tr/pM34H7P7CXv6Z3ziz7bq4B8KSYENj2Z/VcCUNij7pVJlciK4BvkXwdkuTJKyHCyrHlH+U96RT0SUV6D+L0DW9rEnvgr2CfNCdHMyTKgQJ2QXOZx+0YuPz7QgQ/LuhN1tI6n+zqJ4L3exYXnIPqYU/a7yEnHwZKavPRcmx3nYtiuVckC5CtZDsrVcTppFhZeR8io89aYXna/ryh/OLuHpMXGahcO69uC+ShVhp7pw==;ac1UxbLVNVuLerix+4ZMUw=="
 ---

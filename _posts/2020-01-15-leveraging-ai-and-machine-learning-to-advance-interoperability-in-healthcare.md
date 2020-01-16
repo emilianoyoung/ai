@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-15T19:00:00Z
 sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: HIT Consultant
@@ -25,73 +25,41 @@ images:
     title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
 
 related:
-  - title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
-    excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ..."
-    publishedDateTime: 2020-01-15T18:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
-    ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
+  - title: "Enabling AI with Intel’s Deep Learning Boost"
+    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more."
+    publishedDateTime: 2020-01-14T17:15:00Z
+    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
+  - title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
+    excerpt: "Or, the company is at least closer than they ever have been before. The secret? Deep-learning technology, powered by artificial intelligence and super computers, and run on Nvidia’s patented Tensor Cores within their new RTX graphics cards. This ..."
+    publishedDateTime: 2020-01-13T20:20:00Z
+    sourceUrl: https://www.newegg.com/insider/nvidias-deep-learning-engine-boosts-ray-tracing-performance-in-lower-end-pcs/
+    type: article
+    provider:
+      name: Newegg
+      domain: newegg.com
+    quality: 21
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Unlocking contract insights with natural language processing"
-    excerpt: "Your article was successfully shared with the contacts you provided. Artificial intelligence solutions using natural language processing (NLP) have emerged to address the challenge of fewer human experts available to determine the content and intent of policy wordings. (Photo: iStock) Large commercial and specialty insurance is a complex ..."
-    publishedDateTime: 2020-01-10T16:37:00Z
-    sourceUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/
-    ampUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
-    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
+      - url: https://www.newegg.com/insider/wp-content/uploads/2020/01/IMG_0231-1024x768.jpg
+        width: 1024
+        height: 768
+  - title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
+    excerpt: "The Umbra plug-in system attaches infrastructure data streams to artificial intelligence / machine learning (AI/ML) programs for fully autonomous infrastructure automation and configuration management. Umbra guides users through the IT and security operations decisions too often made in the dark. After Umbra attaches to a data stream it ..."
+    publishedDateTime: 2020-01-16T00:33:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/15/9082022.htm
     type: article
     provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 59
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
     images:
-      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/01/Solution_Coding_iStock.jpg
-        width: 620
-        height: 372
-  - title: "DeepMind found an AI learning technique also works in human brains"
-    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
-    publishedDateTime: 2020-01-16T04:58:00Z
-    sourceUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/
-    ampUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 56
-  - title: "How Deepmind Restored Beauty To Chess - Gaming - Nairaland"
-    excerpt: "ARTIFICIAL VS HUMAN INTELLIGENCE A few years ago, the A.I. company DeepMind set out to use games to hack human intelligence. They thought that if they could invent a better computing system, one that taught itself how to do things without human bias or preconceptions, they could “solve intelligence and then use it to solve a lot of other ..."
-    publishedDateTime: 2020-01-12T11:53:00Z
-    sourceUrl: https://www.nairaland.com/5627097/how-deepmind-restored-beauty-chess
-    type: article
-    provider:
-      name: Nairaland
-      domain: nairaland.com
-    quality: 54
-    images:
-      - url: https://www.nairaland.com/attachments/10871647_17pps8if7tuxve7hf3utlq_jpeg_jpeg17d9e2dcc727d3cf1e17cfe8e16ea724
-        width: 720
-        height: 478
-  - title: "Designing better nursing care with robots"
-    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
-    publishedDateTime: 2020-01-15T23:10:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
 
 secured: "sX7FqPff/XkY4ngEnbQRsJFeOROC3JP0xcpVVFI2869OFHa7CfMCaSIJtRhSmzoDtUbWJ20s4lubEUoPbrt3pwdncqs5zdPCDI129Q1ZoP5/bYxWAREN0w3QNftz1pdVcouILF5WC3C/ueMMZO2cTiaP9iskCXYJTQZVHG+J1Fw8elnOnykCdzFvSllZsH2s43IgVe8eYFqJJkEWDORIf5VJxURJ82DIngIp9aNvt8AlQkBXnLR9sVIJBOr3ISB9dXjspSxy35ktfRHVkEJLTFIOTy5us3PLLdf3ZeFc1luhznj11fp01KQKy34Zg9J4FSO8/PgD+FSw58GhgynRaFU3h2NaA8C6xpE4npA8bZjS5elY2GJ+1cN3VY1HFde386fKA8BcRvpd0BWu2B+kSlrJ4XqDC1R7/Vf6H3DFt2wXcSoYiZNsXYxdXZ3+Gpe3dSkwQ9piWLFAayv5nT7uTw==;6eeKt1ibJX7+Vz+4Uu7KaA=="
 ---

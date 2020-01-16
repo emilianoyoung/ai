@@ -3,7 +3,7 @@ category: news
 title: "The battle against facial recognition goes to college"
 excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
 publishedDateTime: 2020-01-14T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
 type: article
 quality: 54
 heat: -1
@@ -209,6 +209,32 @@ related:
       - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
         width: 635
         height: 423
+  - title: "House Hearing Shows Bipartisan Support for Facial Recognition Rules"
+    excerpt: "House Oversight Committee members from both sides of the aisle expressed support at a Jan. 15 hearing for imposing some level of Federal regulation on the use of facial recognition technologies. The hearing – the committee’s third such session examining the oftentimes controversial technology – looked at how the private sector is using ..."
+    publishedDateTime: 2020-01-16T14:55:00Z
+    sourceUrl: https://www.meritalk.com/articles/house-hearing-shows-bipartisan-support-for-facial-recognition-rules/
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 39
+    images:
+      - url: https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg
+        width: 800
+        height: 450
+  - title: "Maloney dives headfirst into facial recognition"
+    excerpt: "Rep. Carolyn Maloney, the newly installed chair of the House Oversight and Reform Committee, signalled on Wednesday that Congress could soon introduce legislation to regulate the use of facial recognition technology. “Our committee is committed to ..."
+    publishedDateTime: 2020-01-16T16:01:00Z
+    sourceUrl: https://www.cityandstateny.com/articles/policy/technology/maloney-dives-headfirst-facial-recognition.html
+    type: article
+    provider:
+      name: City & State New York
+      domain: cityandstateny.com
+    quality: 39
+    images:
+      - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
+        width: 360
+        height: 362
   - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
     excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
     publishedDateTime: 2020-01-15T20:10:00Z
@@ -271,6 +297,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "znGL/fF3thf3J9Kn5wpONRr+jL2OF1NtWlUAfQdLrUAOl3sCKYj0gnwa8hkNyFU4OARoN9CvgFC2Y36dZMRCvNyR37OOqRVdTY0GThIr8nmj1aGKnm8bfPPz8IMhKrR0MAKL8PMGESW3wzBgQuc0ymbWJ6Yvrj2v5Hzzy5Q8eVgd/2n86Jytik3IuBpIXNZFQ3MGy7y2Kih9epVwITb5R8EvEQL5vUpKqlUFEkuGh7UC/Lr5xDF34CWJyaYVqpTcmCcHFYg3FXcbwvq4Jao0QNWDz3ib8xi5Y5iB76r5ED6GqUWjmrdWU29BHH9k/82TLB0meMoapLm5s7q/G0HXgARMgipq73Yrijk15ZyOYYFDI1ETiz0OJwoTf2KwaIf4dgItCQ2aEc1gJ0GykxKodfzfMxLyGR3exN9uAy13mEZcqiDZOzwn/+9kS1xRakXGiDRvBH5jrUK1P/CuvPda3Q==;+lFAeT4+Ok6cnfpMkvKg4Q=="
+secured: "wbjOnAO7EeN4NGHMXcraS8aP/j0kGvGzk0u2xUrnDzqyrLMfIMPodNU/nIJ1tBSvEacfbWpLUfcyzeLmzP6dvu5rtcaQUyAzUSeDQR3kmnqddS4QZX/edaFdjU0fobl08k21xSaRxYGVwf6RiDzXlG87XQLvTIwdRgYjD9nHPxjO9kv1zf34zxF6PCp8jWVAk0muy1TLazohjqRKAm7+7+/uRyKJdfscjHo3i88xnPCggluj/wMoAeVce4L2BYwolRYUoTQFVJgaY6hDwo6rPOpMbChmJSc3xgXKa0zmL2g=;xbEnUlJTb7PSHLk3hvC2aA=="
 ---
 

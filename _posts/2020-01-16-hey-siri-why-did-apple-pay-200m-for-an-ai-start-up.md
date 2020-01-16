@@ -158,6 +158,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg
         width: 796
         height: 482
+  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is"
+    excerpt: "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ..."
+    publishedDateTime: 2020-01-16T16:33:00Z
+    sourceUrl: https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained
+    ampUrl: https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained
+    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 66
+    images:
+      - url: https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg
+        width: 720
+        height: 406
   - title: "Apple acquires AI start-up for $200M"
     excerpt: "Apple acquired a US-based AI technology start-up in what appears to be its latest bid to boost device performance and privacy, Bloomberg reported. The company reportedly agreed a $200 million purchase price for Xnor.ai, which specialises in building tools enabling AI algorithms to be run on devices rather than the cloud or remote data centres."
     publishedDateTime: 2020-01-16T12:51:00Z
@@ -327,6 +342,6 @@ related:
         width: 600
         height: 330
 
-secured: "Jsnj7QAg/6PzNzxiBRjhT+H7f7w8+VXSPuQGE/CDdV8/QJwKIN0aXCsJfNKYy3W5oNKtCNjt1zCK4vJaNGuKstpDP82DqE03D/XjUXh1d+79v9pUR1G3Eq/jZO6hRJjbRtoqo8eBHypCEbxZc/2/UILSyaO+HxV5aYqRd1YIlL9iwlyfRNFXO7nFOSJW1uiDg5fFb4tQ/q5k1mhy/ss90BIRCT0eLrgsTKgEo8bvtr1IAd8TdD5G2rp+3D1waOMSUiURdBhBzGfIEfqHE+557Y/URBacF5dOdLAEoHp13As=;F/mtLKrp574FVS+XytuhaQ=="
+secured: "+g+aMk22elbhq96InQuvErJ7bUXrUYuz64uSkgaBcZQUwdgPQ3htg0mwzSUtYDiP14RMKrO9NyUeUh8YlSPgP9cHeIotarNU8KkgBMwcLAFuhzkHmoLeyZ9dTfFsC4WFqv4FOvwz/8wWZsRF6svwNTxR3lYLVTyavrbJjIqqDeNssQ0KBlzE28mrfxe5CcnDNZvWHRDR7aFIIyQlKAKBMvcbWiCaqFPFQNPIycLpsQVGKrfjyAogKUhoXKe0TlTH52Jpf0D91p6KQQEKjtxfIIN94dbHKaB7r7o+5gv8IFY=;8jUzQIbXn5plB62u6fZkUQ=="
 ---
 

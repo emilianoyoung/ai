@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Progenics Pharmaceuticals Announces Presentation at the 2020 SNMMI Mid-Winter Meeting"
-excerpt: "NEW YORK, Jan. 16, 2020 (GLOBE NEWSWIRE) -- Progenics Pharmaceuticals, Inc. PGNX, +0.32%, an oncology company developing innovative targeted medicines and artificial intelligence to find, fight and follow cancer,"
-publishedDateTime: 2020-01-16T13:11:00Z
-sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-presentation-at-the-2020-snmmi-mid-winter-meeting-2020-01-16-91841137
+excerpt: "Progenics Pharmaceuticals, Inc. PGNX, +0.74%, an oncology company developing innovative targeted medicines and artificial intelligence to find, fight and follow cancer, today announced that an abstract highlighting data from its PSMA AI program has been selected for a moderated poster presentation at the 2020 Society for Nuclear and Molecular Medicine (SNMMI) Mid-Winter Meeting,"
+publishedDateTime: 2020-01-16T13:10:00Z
+sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-presentation-at-the-2020-snmmi-mid-winter-meeting-2020-01-16
 type: article
 quality: 47
 heat: 47
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Progenics Pharmaceuticals Announces Presentation at the 2020 SNMMI Mid-Winter Meeting"
 
-secured: "XmKNLB5ODvN9YZqVQV7MP17MpScgXx8LMHHgq3NvkC0AM9HDjM9gtKEEqlDdWEuJj/6J7R2KEji7dqwTIqs4jx1d4UKrcf9C7uyI6aLX57WMBVo+t7fWhcpEjKsC+zqpCqGklLkx35910sUWp3b7eiambCuqqPMo58dRBVkPiyANANKvZBfI4jUoxLvWffzrmGmxpQZ8gC0p4YZDuYwuuL/uEYf/RHwu3WoJzLEs6mUCOsc/WCflGUtOQWFbWwVFNiw/+xBoNXljdwXyXu9PuIqjTG1LvUsxdeEYkenPJLs=;mgmpVixK0OExupPG7Lx2nA=="
+secured: "DuJPUQ1Fk/UdEsqDtR34skBu6VzhbWLv2bcNYBl+ReQ7f6V++NVFilZrHnOX0FX8XT6nJuYFA821Q3HyNbqhqmiZnMjmWmp4NiI8kqm7v7aC6ft8FgP3cBRBcuEsxgOGAV8q7SVTc9iwGYq9engpCmKasL1j+TR4EFJHwCgqZvMRiZCywlBqnV9UzMP/zhdaQX3WudR9hy/q1jp4kbDxUgjzRPT8TDjCyfBmHdJiWTqjOh10UvN+NvPJGN/4RmICGEq2KqLx+LzQsbJPWXois4oI2eToreU50LMZLuAoqLI=;pbtqjf8qvMeJRaHg3jq+Pg=="
 ---
 

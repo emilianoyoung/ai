@@ -154,6 +154,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg
         width: 796
         height: 482
+  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is"
+    excerpt: "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ..."
+    publishedDateTime: 2020-01-16T16:33:00Z
+    sourceUrl: https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained
+    ampUrl: https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained
+    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 66
+    images:
+      - url: https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg
+        width: 720
+        height: 406
   - title: "Apple acquires AI start-up for $200M"
     excerpt: "Apple acquired a US-based AI technology start-up in what appears to be its latest bid to boost device performance and privacy, Bloomberg reported. The company reportedly agreed a $200 million purchase price for Xnor.ai, which specialises in building tools enabling AI algorithms to be run on devices rather than the cloud or remote data centres."
     publishedDateTime: 2020-01-16T12:51:00Z

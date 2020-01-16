@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T00:26:00Z
 sourceUrl: https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
       - url: https://cdn.technologyreview.com/i/images/sadiseasesofnervou00gord-web.jpg?sw=600&cx=118&cy=106&cw=2723&ch=1532
         width: 600
         height: 337
+  - title: "DeepMind found an AI learning technique also works in human brains"
+    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/
+    ampUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 56
   - title: "Prostate diagnosis may benefit from some deep learning"
     excerpt: "Now Dutch researchers from Radboud University have developed a “deep learning” system they say is better than most pathologists at determining the aggressiveness of prostate cancer. It actually does the very same job – analysing pieces of tissue (biopsies) taken from the prostate then calculating a Gleason score, which provides a grading ..."
     publishedDateTime: 2020-01-12T14:57:00Z

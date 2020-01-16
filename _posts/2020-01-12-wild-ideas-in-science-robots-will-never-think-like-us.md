@@ -25,6 +25,6 @@ images:
     height: 413
     title: "Wild ideas in science: Robots will never think like us"
 
-secured: "d4yJzRau3I27jIjoezzpenMr1lbtItSBSOc1IL84/t3NCc6+LPa+HwAmTWUMRKzwjb/+6+T2BFrxTW/kcooRrzsSFobos1NqR2qEwR8K6zGeDZtuR7795pSVf9p22R4BZi1rZYWEdXt5xuvqo97K3Twg+RKBMG8o5ZrgVuXupiLnKAu/AL+PUef07C0ATFPF3vO2ZKlFSEHz7zmSrp3zIJJiT8O/jThZpSdchG0/txbDdlmu36tNEmYN65Ak0JL4H7qZ339NlRs0Id64lk5e4XCyzfHjwh+xawGJI7GyKQw=;l2t+orHI39kFq9kv7zIGfg=="
+secured: "cpD4tmQRSumf7VffaC+Zc/oQJr8BT8CW7ET5P/T8/YpkNGhbRqPOVbllE3wpJOV7i2NwH1MRk/yj0LcxsOU0sw3KWBYU5X2OxxCVKkDy9cf5thXO8bOuEUi3X8h/cdFuaa+Lt7tPSnUKLVvO48F5ZtfIiWtyiYalgad/AR0ZY8FXS97IuAPKcg7RAsU+35cwsrtpS8kv/mKNylzpcOyG1YNmnvDoEhyriTqpQx7KkMC+wlwaoTVG2JJyNhKlsxEv6V1U4KNccIkdrubgdoWIoP3UZ0LpqmTsJ0tMRlj3h8i7F9gBzkDteez6ubLModIxTbz9FjNz/t7YgXWC36qkUGgGMOa6ysNEbvaI9UEhBUGlfhHXTc7wOS8eoDdxPG12WyLN+hcyJDzlIM5WmKoAR2Brr2WyhkoZXE+v0k5rtgj4y/C50KNHwwt1nEmxdNOGwbtw/7dFYmFFPVAF1FSLzw==;rYpDW6ZlhZ897siNC2x64Q=="
 ---
 

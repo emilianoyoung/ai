@@ -8,8 +8,8 @@ ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial
 cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Popular Mechanics
@@ -26,34 +26,120 @@ images:
     title: "The Trump Administration Wants to Regulate Artificial Intelligence"
 
 related:
-  - title: "Here’s how to regulate artificial intelligence properly"
-    excerpt: "From Brussels to Beijing, the Élysée to the Oval Office, leaders around the world are calling for bold regulations to govern artificial intelligence (AI ... dozens of policy areas — from criminal justice to consumer pricing, housing to health care. The lesson: There is no one-size-fits all approach. Seizing opportunities while preserving ..."
-    publishedDateTime: 2020-01-13T11:03:00Z
-    sourceUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/
-    ampUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
+  - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
+    excerpt: "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ..."
+    publishedDateTime: 2020-01-16T16:46:00Z
+    sourceUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition
+    ampUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
+    cdnAmpUrl: https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg
+        width: 620
+        height: 349
+  - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+    excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+    publishedDateTime: 2020-01-16T01:11:00Z
+    sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/
+    ampUrl: https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
+        width: 750
+        height: 563
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
+    publishedDateTime: 2020-01-09T20:52:00Z
+    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
+    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: https://www.washingtonpost.com/resizer/G_lvPl6_ldcLRJ6aHK7VhVQwQCs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg
-        width: 1440
-        height: 943
-  - title: "The Technology 202: Trump administration's CES message: We're not interested in heavy AI regulation"
-    excerpt: "LAS VEGAS — Trump administration officials this week promoted a light-touch approach to regulating self-driving cars and artificial intelligence at one of largest ... Not a regular subscriber? BITS: Facebook won't back down from its controversial policy ..."
-    publishedDateTime: 2020-01-09T14:19:00Z
-    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/09/the-technology-202-trump-administration-s-ces-message-we-re-not-interested-in-heavy-ai-regulation/5e161c0688e0fa32a5149a35/
+      - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
+        width: 940
+        height: 627
+  - title: "How the police use facial recognition, and where it falls short"
+    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
+    publishedDateTime: 2020-01-14T01:50:00Z
+    sourceUrl: https://www.orlandosentinel.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html
+    ampUrl: https://www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
+    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 25
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
     images:
-      - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/bb418e7aac2a6b0586ec8160680fec7d-680-453-70-8-PF6LNRBSK4I6VFY3IO7MH74YMA.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
-        width: 1484
-        height: 988
+      - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
+        width: 1200
+        height: 960
+  - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
+    excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
+    publishedDateTime: 2020-01-16T01:04:00Z
+    sourceUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428
+    ampUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
+    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 51
+    images:
+      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
+        width: 1200
+        height: 630
+  - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+    excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+    publishedDateTime: 2020-01-15T16:41:00Z
+    sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: https://image.businessinsider.com/5e1f849ab6d52d23c07e6a13?width=1200&format=jpeg
+        width: 1126
+        height: 563
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
+    publishedDateTime: 2020-01-15T00:00:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
+  - title: "Sensory Does Voice Recognition Without the ‘Net"
+    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
+    publishedDateTime: 2020-01-13T17:25:00Z
+    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 24
+    images:
+      - url: http://share.opsy.st/5e1c9ca535b08-google-home-mini-3739710_1920.jpg
+        width: 1920
+        height: 1280
 
 secured: "0S+ih9EKrH03iucGDeEWSZGdI54v5KPqeop0lI2LgnUXaX9CZhZCVHHYyzHF4+t7wa+iABmBVaIL7RMNhwZLocGNVkoQbPjPJmuFFkmxCQq9oE/QLDRYa5i977RJWruYcfcIM958mwFl+PMnEqVRkbR4+GcYAUHZSCns+nfObKq3qMA5ksu6cfAyZhQ/EnAgWs8OihUUOutkeI9uM12lUgIKBWWRpBN5x71nTUqaTQQ19zLbu/huXxtQFUJvPNIbmVak9V8aIw0nXHzpf3orocXt5Po1qLcJxwwmXcWSW71f+QJCTk1eOu3T+Uy9az0tMujoa2goQVoDfYheihIa0VK+joxXQFSp7Z+bNenBplQbQ4+UYkvVagOb+PSNFMNlWFBZqbPR4etMzOi4xhMGLhQ47CuiJrb80ryjnsVDxNQOmKlU8Iw5tjBY/jbWblauXv9Hq1XvNBwNhEBy/iNzNQ==;9ASuSElWVX0y+fIdK9/4cA=="
 ---

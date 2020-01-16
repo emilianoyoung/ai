@@ -184,7 +184,7 @@ related:
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
     type: article
     provider:
       name: Fast Company
@@ -222,6 +222,32 @@ related:
       - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
         width: 635
         height: 423
+  - title: "House Hearing Shows Bipartisan Support for Facial Recognition Rules"
+    excerpt: "House Oversight Committee members from both sides of the aisle expressed support at a Jan. 15 hearing for imposing some level of Federal regulation on the use of facial recognition technologies. The hearing – the committee’s third such session examining the oftentimes controversial technology – looked at how the private sector is using ..."
+    publishedDateTime: 2020-01-16T14:55:00Z
+    sourceUrl: https://www.meritalk.com/articles/house-hearing-shows-bipartisan-support-for-facial-recognition-rules/
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 39
+    images:
+      - url: https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg
+        width: 800
+        height: 450
+  - title: "Maloney dives headfirst into facial recognition"
+    excerpt: "Rep. Carolyn Maloney, the newly installed chair of the House Oversight and Reform Committee, signalled on Wednesday that Congress could soon introduce legislation to regulate the use of facial recognition technology. “Our committee is committed to ..."
+    publishedDateTime: 2020-01-16T16:01:00Z
+    sourceUrl: https://www.cityandstateny.com/articles/policy/technology/maloney-dives-headfirst-facial-recognition.html
+    type: article
+    provider:
+      name: City & State New York
+      domain: cityandstateny.com
+    quality: 39
+    images:
+      - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
+        width: 360
+        height: 362
   - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
     excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
     publishedDateTime: 2020-01-15T13:49:00Z

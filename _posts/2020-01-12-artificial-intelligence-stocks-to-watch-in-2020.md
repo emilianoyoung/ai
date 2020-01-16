@@ -5,8 +5,8 @@ excerpt: "The artificial intelligence market was valued at $23.94 billion in 201
 publishedDateTime: 2020-01-12T14:08:00Z
 sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: https://CNTSYNCONT.images.worldnow.com/images/19095329_G.jpg

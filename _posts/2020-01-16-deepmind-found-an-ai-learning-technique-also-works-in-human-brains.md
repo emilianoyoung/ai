@@ -21,75 +21,47 @@ topics:
   - Machine Learning
 
 related:
-  - title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
-    excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ..."
-    publishedDateTime: 2020-01-15T18:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
-    ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
+  - title: "What is Machine Learning? Why its Matters and how does it works?"
+    excerpt: "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. The process of learning begins with ..."
+    publishedDateTime: 2020-01-16T00:26:00Z
+    sourceUrl: https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
+      name: Medium
+      domain: medium.com
+    quality: 69
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Unlocking contract insights with natural language processing"
-    excerpt: "Your article was successfully shared with the contacts you provided. Artificial intelligence solutions using natural language processing (NLP) have emerged to address the challenge of fewer human experts available to determine the content and intent of policy wordings. (Photo: iStock) Large commercial and specialty insurance is a complex ..."
-    publishedDateTime: 2020-01-10T16:37:00Z
-    sourceUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/
-    ampUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
-    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
+      - url: https://miro.medium.com/max/1200/1*YaCKYPDAZ31OA5OgTT3tjA.jpeg
+        width: 600
+        height: 256
+  - title: "An algorithm that learns through rewards may show how our brain does too"
+    excerpt: "In a paper published in Nature today, DeepMind, Alphabet’s AI subsidiary, has once again used lessons from reinforcement learning to propose a new theory about the reward mechanisms within our brains. The hypothesis, supported by initial experimental findings, could not only improve our understanding of mental health and motivation."
+    publishedDateTime: 2020-01-16T01:45:00Z
+    sourceUrl: https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/
+    ampUrl: https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/amp/
     type: article
     provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 58
     images:
-      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/01/Solution_Coding_iStock.jpg
-        width: 620
-        height: 372
-  - title: "How Deepmind Restored Beauty To Chess - Gaming - Nairaland"
-    excerpt: "ARTIFICIAL VS HUMAN INTELLIGENCE A few years ago, the A.I. company DeepMind set out to use games to hack human intelligence. They thought that if they could invent a better computing system, one that taught itself how to do things without human bias or preconceptions, they could “solve intelligence and then use it to solve a lot of other ..."
-    publishedDateTime: 2020-01-12T11:53:00Z
-    sourceUrl: https://www.nairaland.com/5627097/how-deepmind-restored-beauty-chess
+      - url: https://cdn.technologyreview.com/i/images/sadiseasesofnervou00gord-web.jpg?sw=600&cx=118&cy=106&cw=2723&ch=1532
+        width: 600
+        height: 337
+  - title: "Prostate diagnosis may benefit from some deep learning"
+    excerpt: "Now Dutch researchers from Radboud University have developed a “deep learning” system they say is better than most pathologists at determining the aggressiveness of prostate cancer. It actually does the very same job – analysing pieces of tissue (biopsies) taken from the prostate then calculating a Gleason score, which provides a grading ..."
+    publishedDateTime: 2020-01-12T14:57:00Z
+    sourceUrl: https://cosmosmagazine.com/biology/prostate-diagnosis-may-benefit-from-some-deep-learning
     type: article
     provider:
-      name: Nairaland
-      domain: nairaland.com
-    quality: 54
-    images:
-      - url: https://www.nairaland.com/attachments/10871647_17pps8if7tuxve7hf3utlq_jpeg_jpeg17d9e2dcc727d3cf1e17cfe8e16ea724
-        width: 720
-        height: 478
-  - title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
-    excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
-    publishedDateTime: 2020-01-15T19:00:00Z
-    sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 53
-    images:
-      - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
-        width: 1127
-        height: 1057
-  - title: "Designing better nursing care with robots"
-    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
-    publishedDateTime: 2020-01-15T23:10:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Cosmos
+      domain: cosmosmagazine.com
     quality: 39
     images:
-      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
+      - url: https://cosmos-images2.imgix.net/file/spina/photo/21082/200113-Prostate.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835
+        width: 835
+        height: 471
 
 secured: "JOvCF81sva+5qb589PoR5+G/NssYYIPOscPr/ZWp+89SoT4w/NNQfTRBkGtK2e/z67Gb4id7RJ7of32mbTpXt7lv8ouUgXj1sSXpSYxYY8hH/HhJ3MHHW2dkExVMsqbZXtlbRqeNiHbZHDT071n0fTENwk0jgTuxCcHIv3r24T+iaEPbv+ahX9Q8zgwjXXUDmHzsAzczE5pL1Id9A/4hcy3HUy/BzM8IU/92OQnKucSETMzarctmbdT480XXoiSQpGrpBd1SUPsJuxGDqiXZSLlOLbLvlsoNQvjbQOfYLswJs/8Dn3g77/MzKuxNvxT0JC8SfHYbnrOc5STqa6t7gLEU36L/b03tP1gFwpUHA3hklkeSeQst6O79dkqfdSDNNYzwtfTNPinOPbL61jDyH/+P73OrzdALrG+JWHRvCfwTIp1mt+vgTg+7r9ZPRAKCyCwfgNGoV8rRLHCa9mtfzw==;LevAYXEo0vo6EDdtycTEnA=="
 ---
