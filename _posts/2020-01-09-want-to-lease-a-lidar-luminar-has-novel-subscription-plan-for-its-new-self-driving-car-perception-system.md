@@ -131,19 +131,6 @@ related:
       - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao
         width: 470
         height: 246
-  - title: "Kubota to release self-driving rice planting machine in October"
-    excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
-    publishedDateTime: 2020-01-16T07:45:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2020/01/16/business/corporate-business/kubota-self-driving-rice-planting-machine/
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 24
-    images:
-      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/b-kubota-a-20200117-870x951.jpg
-        width: 870
-        height: 951
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
     publishedDateTime: 2020-01-13T00:35:00Z

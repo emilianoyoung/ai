@@ -46,6 +46,19 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
+  - title: "Facebook Releases Open Source Speech Recognition Platform"
+    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
+    publishedDateTime: 2020-01-16T01:03:00Z
+    sourceUrl: https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
 
 secured: "h3IDsNCZ3HlF6vB32fuQy2E3HR27rEElzC/0YCVXBEYHqcda5BFB10B6Gq4Nq3MnbqS8kFUeo8cZdT8r1uNvK6wxpsQKO7zqRAwDeNSqFBvRVbP37Lc6aBGcqgEO3johzxV040vpw5rt3AdfdWiIawWl5P4wkfaEG0owG7eIC9SW42Y4Tb8k5sO7hDGK0FHtqXdR2N8pBtYHIfN88TsB/gpf2+jcxsPd8wP1Fhwn205oDpjsXe0GRQfx/rzrswdtD6njv+y6y0kIKepKSUZbycwkBUeoeW0e5HSCJMEbaOI=;jSPB3ORdvpRz1GQ7N8o95Q=="
 ---

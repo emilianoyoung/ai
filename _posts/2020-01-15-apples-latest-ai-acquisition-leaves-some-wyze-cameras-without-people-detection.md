@@ -44,17 +44,15 @@ related:
       - url: https://images.macrumors.com/article-new/2020/01/Wyze_Labs_Inc_WyzeCam.0.jpg?retina
         width: 1840
         height: 1226
-  - title: "Apple Makes $200M Acquisition In Race For AI Dominance"
-    excerpt: "Apple shelled out $200 million for an artificial intelligence (AI) startup that makes smart devices smarter, topping bids by Microsoft, Amazon and Intel, according to reports on Thursday, (Jan. 16), citing sources. The iPhone maker purchased the two-year-old Seattle-based AI firm Xnor, which develops low-power edge-based AI. The machine ..."
-    publishedDateTime: 2020-01-16T12:38:00Z
-    sourceUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/
-    ampUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
+  - title: "Apple’s latest acquisition is Seattle AI start-up Xnor.ai"
+    excerpt: "As the war to build the best smartphone camera rages on, Apple has purchased an AI start-up called Xnor.ai, in a move that has already had an impact on customers who have purchased Wyze cameras. Based in Seattle, Xnor.ai has developed technology that runs deep learning models on edge devices, such as phones IoT devices, cameras, drones and ..."
+    publishedDateTime: 2020-01-16T13:29:00Z
+    sourceUrl: https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 37
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
 
 secured: "uT5E4sxanMe9XAkW0xZH9gzLW/YcJq2TV/eFOdmgBBFR1XyJoRdBWA9iQDHR+Hmr0Kvq2btJwd/0AFvF7i12hkFedUwPYSTYEyKthHBidFXTh++hQILZZXZbcKUzWyUbuAvxtSjSIKTpOrnZU1w1aBozdY2L0H9FQEfV9ds6vh8xY85VXmj6M9PJrQckf4tXecHi8wRrGv2ytqDLBl+jO4TfVbEITlMncs6DntSY9p2vJboU/JIaDFmHTF22Zz7O+BjoAf44cQCg5mMx3ntUxt9GE5AgUerIvcakfZQ6EvkfqcyZE5LO/l2iYHWUBeVoAmcId4Zj2BqPwlnQb78MVa1v/Ya7t2KSyQFw/q3THF+C/OOUHSu+gW4oDgIImclpF8gX7JTxEroq9wxvjf4tFXlE217/KlPw0qebCqXBcwvOqoemRYVOPqYYBatpsCQcHCBLqD60nTO0POIAgmCzqQ==;faWQYHDBS2RPIY6t88Q6Wg=="
 ---

@@ -34,11 +34,26 @@ related:
     provider:
       name: Philadelphia Inquirer
       domain: inquirer.com
-    quality: 54
+    quality: 154
     images:
       - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
         width: 1200
         height: 908
+  - title: "EU mulls 5-year ban on facial recognition tech in public areas"
+    excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
+    publishedDateTime: 2020-01-16T20:56:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+        width: 1200
+        height: 630
   - title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
     excerpt: "As the longest running biometric modality, fingerprint payments will take the lead in this market as standards coalesce around the technology more easily than for facial recognition payments.“Many consumers are now used to making fingerprint-based biometric payments, both for contactless and remote payments,” remarked research author James ..."
     publishedDateTime: 2020-01-16T17:01:00Z

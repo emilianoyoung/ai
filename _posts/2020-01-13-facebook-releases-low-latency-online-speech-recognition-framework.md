@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
+  - title: "Facebook Releases Open Source Speech Recognition Platform"
+    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
+    publishedDateTime: 2020-01-16T01:03:00Z
+    sourceUrl: https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
   - title: "Speech and Voice Recognition Market"
     excerpt: "The advent of advanced technologies in diverse industries such as healthcare, banking, medicine, and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
     publishedDateTime: 2020-01-16T03:46:00Z

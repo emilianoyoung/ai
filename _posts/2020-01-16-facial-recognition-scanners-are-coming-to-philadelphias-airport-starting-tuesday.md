@@ -7,8 +7,8 @@ sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international
 ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
-quality: 54
-heat: 74
+quality: 154
+heat: 184
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
 
 related:
+  - title: "EU mulls 5-year ban on facial recognition tech in public areas"
+    excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
+    publishedDateTime: 2020-01-16T20:56:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+        width: 1200
+        height: 630
   - title: "Software Detects Backdoor Attacks on Facial Recognition"
     excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
     publishedDateTime: 2020-01-16T15:04:00Z
@@ -53,6 +68,6 @@ related:
         width: 1200
         height: 800
 
-secured: "opHFTCS3ay3kdV0vDoj8HcV8qFwuCN2o025D/6PHTxSxwfs7dIS2G23dKcPpnDcoxj9eTLX7TiaNaoblrY3O9b/cRtIDVs5vKjbnAh5CxEFBe2FlR4Ad4Qs/m0Pfldd4WiKK8kb4qRVJAJ/qN0wrOWG7wYbCOHkUJ7kgPULH5HqZJENiRlYbe8eqrsPTkKxLR8eXquNDQF+pcyIpnazT2BcyvBdThiNP3R8XZ5ThPn1rcTMcsNCTMs0XZV+Wc8VY9Q3hEFW1sWJyVtXahZT2e/pfjtDMShVeU5hD1yZ76jacYZCfDIcDighcLwqHTQ8vUM0JB7INwoT0YSWWrsrqs3PhYT0cqnXu2YpSAFEciQ7/vhw9elJl919FVzNtbuUniAuBT/+oUNU5dLHKpmQbOz/krQFjBiBiW/HiIelQqQXbcKwP5HNVfsPOuVEj6Mx3ZbXf9rm8mwHXzLqKSdBVFQ==;Q2lfRhFXA4NvMW8nG8i9tA=="
+secured: "Z76NxkT5vsTX31qGi+jYKMQft8voLZ4Ix2Y4xPfQV9B5oCmb27YME2wOOfAFB9OkjQAh38jrxp++p+IjukXq9HOle/A94+BvWgu/ecEsnvT+G9SWhd2fVkjYHnrXhs6VV2p4AAYWl5NXcFNSGgW7pK72DPsRJ9ZtgwkFh8alVBwK0LYcIBFv7mEJprQVNbdOdfwuqs1NQOQ5BtYcFDLvc/+wAS7Putr+QDDXMRGpa8YKSJ/mQWA+YMbYV0Of2xgRWSzOFr8CHmZA2tA6N5b/vT6TZsn2uzHN/stDvRRj6a1afL82Qb22HAN9uq57Lv82SdLDxpzQF96WEiU8RNKyAfKAWj2Ydg6vEDSfthmJVFK5qp/mSlIiFHYXPKEAGCZXwh6Kr6LjFZv04dyBPKv55rJm04cU81cYo/2XYUUCURD4eZ/XyU1VpWZIOe+7xVCf6ixbL6EvyxjTb/kGl9PGMT7y8jdQtRjnI9a6qfeZN5U=;QUanKE4sRRloPGkMp+orWg=="
 ---
 

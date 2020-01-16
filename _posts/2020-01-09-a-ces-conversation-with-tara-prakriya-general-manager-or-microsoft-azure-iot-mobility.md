@@ -39,6 +39,17 @@ related:
       - url: https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg
         width: 620
         height: 250
+  - title: "Irish AI firm announces new collaboration with Microsoft"
+    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
+    publishedDateTime: 2020-01-10T10:38:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 54
 
 secured: "2FfierHHPCzQszQxv5QHssR4yZl3xY9/dG2Q73SbOhsOr08pC1YmpPemjOP8rv3E7i6vBtpCtoRGmBmzY7vwp3N3UWTJwnxHs2KpSar0p3NC0+oHleElfpv8wFJNcx3Dy29M1sr8YdCt2lifrIV3wT+3GWO3pE+TyiVihWDj4MsyXr8Ijb/aI+sT/++aMGqQAOxReA/MS9/fPahygSZy9E6xzv0onSBPkfuJujHZrr8qGujCPuBhdYecRG1bWscJuBQxbxvRsgu2QS3P9C19tEeT9+tLJDMgrStH/Ox8VJIJr6Pr4y3lxmi3P3sokS7gXRJrHiXbS8YuLVBIJo7vsWiErlRBFJhl8e8GwitAea8EXMQj88nVHpEbCccF/pAmsBos6+M/PEj4Hhx1SEhMLWZvwxSju5P9C/xfHFuq9M7NY+3UwSmwhghQ1zJnmEXcAG4JqBj+A6qs5iXFU75bgw==;xwPg2nkM+uSMKtAK56tLzQ=="
 ---

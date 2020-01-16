@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-fo
 ampUrl: https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/
 type: article
-quality: 79
-heat: 79
+quality: 179
+heat: 179
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 1227
     title: "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others"
 
-secured: "BY9Dt+qEMJev2NeNYoH6Td3bqQfQhKGjiau7z0HG/S7pdSWBYJnXBAG2MRlZubQhGhUgFktcx6im9HyE343iCNnpnv/ruODQVmmmqxBQzsGyvxp19rai7fjFf6acT3f3TPVvIt5ZEC8l0dfEkGDPtSowGPtOJpDiQhHSh7JA3L7+cPZFtmUBFNHMij8Ozw+t5Cl9MYvsnEOJ1tU9CuYWB76TnYYVjOdhJsYR4mjZOGotvIZIROItg8AQ5W4ZydG2sUK0HehwAg1uqZPV6Ik2mvH/JPUpT27/j3/XpG31VuBWmX9ukMSiXQ28zsvq7VSKlqD93TU7hyd+DcRWzKU4shFij+Iaq5+CAyN6npbdq8t3aRZzkdEGv43KAEy1dkTJ+KttAYTXBPslL23e7quCDtRGr4TFIkLdTSt4kvBHNXazf3pvKGmdNl0ZK2aXoMmrKAI5O82gBpC/YMh0HSTlqg==;qoRPwAB4FWcgSqXoLfLD6w=="
+secured: "M0M3rtvRVcClPM5tn7CVwgZIgeupqqjhHLphpWnb1CJHQ0ErNY0nIzDcu5WocnZ6RiQKM64N5rdXurKk+9EnFnpbL8mZZcjhimHgHEDZMjyc+mX+lg7BhSVep2gU5pg4Ujq9+qunf0ATstkIBTvtpwon4UH7iDQAVEQS1yPYXDxOQ4eQswKA9YzsgSOlv16TgfLwuoXVzF/yW7jrwMBzTxcUxedZM3u7adQVMJT2CHGvpBEsDg0EGEYfNTgMZ3OdwF5LZ97c2nBZ1AjGuo0K78pO0dMaku9d9oyz7R2TIk1U202c4qY8gc05Io+AS8gLVQAMNbqDtt30io+d3c1nU7U+nJTDycexZkw2A954uu+D7zhIWfnrstLsxMYI3Fp7RvX4sq/DMk4rAudt3gxmrxOTWs1qfCNlrsxZziaUJoSPkgg2juLct9f7tKKoggJTF8vvLnPOADcRB5BZm3pINe+lxLTY/0eWAKwGFRdSFyU=;vY6KoWkD7YcYQ1VvdsVvdQ=="
 ---
 

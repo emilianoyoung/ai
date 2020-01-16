@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-16T19:25:00Z
 sourceUrl: https://medium.com/swlh/can-ai-save-our-oceans-lets-start-with-the-data-ccd0dc91f302
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 67
+published: true
 
 provider:
   name: Medium
@@ -26,34 +26,6 @@ images:
     height: 540
     title: "Can AI Save Our Oceans? Let’s Start With The Data."
 
-related:
-  - title: "AI For Good Starts With Collaboration"
-    excerpt: "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed."
-    publishedDateTime: 2020-01-16T10:53:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale
-        width: 500
-        height: 279
-  - title: "Irish AI firm announces new collaboration with Microsoft"
-    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
-    publishedDateTime: 2020-01-10T10:38:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 54
-
-secured: "JPo/OVzarPEiowZGs3MR0kGKGY492xjfj860ndT9z0lPGnPnXsG5DuV/10RH1Je5Nx4o9u74VaD2PPW6LkT1KaGuUWSujxpz9nWG+HB6bIXc2j8/LhJO8AotZHQsejB0VHwnntPBsBHbBa7AT1KS04t+st3URO2H3obF9Xeg0yEjC3sPQwoMvmq9KzNdm75NSKc4S3qWTPW56PxgvWoY07xmt3dvfOhV5z73ci6prO/YQkEoJSU72x8B6sx71ZU8SWdAXbFmHOCcMZaz5vjFxp+yneGpWo0Bd0XkK+CNi4Q=;eZCmyUWsnwr5WFwa+M3nwQ=="
+secured: "E612e8DI0mVDUFcx91qZATQdyJo4Gk2mDy1LM2w58FDzzRBnghY4jpQE0sCR7aJS5qW6P6aRb/6h7vHwoEQoAm5daLGY/193epduD6l21D1i2GG+SgATa7FjitIU9esC7uoSLG98VCD4MAv5k8dsecpNM2rnbgz0B81rDC0owjtfIv6SAztD6nbaMEvK4ampw6hr0gPzw0SC9gGmSuWvynD5w7hzauBSXY53Ekn2IhRr1bDOAg11KY9weHmBAkukjQW1PTYeEGhqTLFiVnFnLQEWGQpGWYCBEIr/oVM6cGk1KiyyRBsVQDj0QyjtmK7Lz1tJPnO3zr8jgTnJrRI2EyrmTeFg63sR35cRo381HYwRzwvdrkeeT9Qtv/NwxzLXEHV0gpy+UIbiE+LokmVioPQg9y/yBd3G5XXsO8YTjgwQIqjRi7rcTdnizHlI5jC4BsCaEOGQm7wRYLKNzf/yVA==;528xMWjt5C1I48zagnmYiw=="
 ---
 

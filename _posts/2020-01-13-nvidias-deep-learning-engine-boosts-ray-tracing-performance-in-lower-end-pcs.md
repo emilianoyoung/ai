@@ -37,15 +37,6 @@ related:
       - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
         width: 1127
         height: 1057
-  - title: "Enabling AI with Intel’s Deep Learning Boost"
-    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more."
-    publishedDateTime: 2020-01-14T17:15:00Z
-    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 36
   - title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
     excerpt: "The Umbra plug-in system attaches infrastructure data streams to artificial intelligence / machine learning (AI/ML) programs for fully autonomous infrastructure automation and configuration management. Umbra guides users through the IT and security operations decisions too often made in the dark. After Umbra attaches to a data stream it ..."
     publishedDateTime: 2020-01-16T00:33:00Z

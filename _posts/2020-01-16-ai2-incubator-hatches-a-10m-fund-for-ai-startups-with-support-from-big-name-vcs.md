@@ -44,21 +44,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/AI2-05.jpg?w=1024
         width: 1024
         height: 605
-  - title: "VCs double down on hot Seattle startup scene with $10 million Allen Institute AI Incubator investment"
-    excerpt: "The news comes a day after Xnor was acquired by Apple. The edge computing AI startup was one of the first companies to receive financial support and mentorship from the incubator, and was reportedly acquired for roughly $200 million. The $10 million fund is being supported by Sequoia Capital, Kleiner Perkins, Madrona Venture Group, and Two ..."
-    publishedDateTime: 2020-01-16T15:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/
-    ampUrl: https://venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/AI2-Incubator-Team.jpg?fit=1800%2C900&strip=all
-        width: 1800
-        height: 900
 
 secured: "UjS8CHdf2/e8nefztIi4bJZ40kDu45S2SzduAZMBajyHwfLCAaXN1EyyOilDWEWAY8bfdyullHz40yXt+jj/4H1GtMbU7xCff5iQW/WiSLQnxYE3JXNjys9vW++zSwAFCsBoxl4UalsiZQcrNRUqJNCI65ere6mNpxuafXBymjD2Doe3mU13j4/Uricn214MkykZHhTaFSHLrYX74CFg275NWyNMrn1nhUJYb+H9n53GQO8jYGdK/Cq5Dy3TexEBeBLjcZmibmz+hWW+9BwpN3Dc3gWGnQH8sTWTmp9s9VMKPwmuN2muWfM58yfwXI51jzLNco6ApXfUrCDOrqpSAC1GX2vIis4lwRLOZaGauj363Db0JY82qwMeDXB1bLN+iOMO5tI9lne64MQxH0hF9e3eQeWX3iQpuFcFjCEEYP7d+7+sz6J6D1bgzdT6B/Zwz2RkMHO3o9/IK7lCqv1lPg==;0jNLqi/+5ZihuzLCXX2Kpg=="
 ---

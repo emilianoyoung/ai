@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expa
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs/amp/
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-ai2x-630x405.jpg
         width: 630
         height: 405
-  - title: "VCs double down on hot Seattle startup scene with $10 million Allen Institute AI Incubator investment"
-    excerpt: "The news comes a day after Xnor was acquired by Apple. The edge computing AI startup was one of the first companies to receive financial support and mentorship from the incubator, and was reportedly acquired for roughly $200 million. The $10 million fund is being supported by Sequoia Capital, Kleiner Perkins, Madrona Venture Group, and Two ..."
-    publishedDateTime: 2020-01-16T15:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/
-    ampUrl: https://venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/AI2-Incubator-Team.jpg?fit=1800%2C900&strip=all
-        width: 1800
-        height: 900
 
 secured: "xF3SLei2VD8OazUxMN6KUysnTk2pTzFZ8GLKvjk9utUc1i0klyYV4/weCKP2t4jUq5mGFdCLH3o0HPfQLSHGjl62otXWqmMSuUTUH600JswcZlArOUdlSCCeUUYSE8ZyIEBPl//v4rM+oVV9G+1KhhNbfQGJYfFURh5Ir2pCsovxdXG+swkF9P2Xjq9MwA127zFiFl1o9+zqsKAqG7aOPrz5rAoSRGlag7bx0n9FPQCRuy+HLYZ5oHmbwzoPv6tFcGmess8wNXlOJuPPkvp2IinMEEAiIxUi4qfpUiFOEyY=;wwd6/4W68Mcsh1txc7vzZA=="
 ---

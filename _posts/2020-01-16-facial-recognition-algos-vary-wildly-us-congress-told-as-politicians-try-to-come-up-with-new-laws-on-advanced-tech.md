@@ -154,20 +154,20 @@ related:
         width: 987
         height: 554
   - title: "UK police use of facial recognition tests public's tolerance"
-    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
-    publishedDateTime: 2020-01-16T10:16:00Z
-    sourceUrl: https://abcnews.go.com/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
-    ampUrl: https://abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
+    publishedDateTime: 2020-01-16T20:55:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/UK-police-use-of-facial-recognition-tests-14979724.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: SFGate
+      domain: sfgate.com
     quality: 59
     images:
-      - url: https://s.abcnews.com/images/Technology/WireAP_dd085e0d41e5454f92345ab8045bbbcd_16x9_992.jpg
-        width: 992
-        height: 558
+      - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
+        width: 375
+        height: 211
   - title: "US lawmakers concerned by accuracy of facial recognition"
     excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
     publishedDateTime: 2020-01-16T04:43:00Z
@@ -186,7 +186,7 @@ related:
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
     type: article
     provider:
       name: Fast Company
@@ -224,6 +224,19 @@ related:
       - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
         width: 635
         height: 423
+  - title: "Clay County introduces facial recognition to help locate missing pets"
+    excerpt: "“You can snap a picture on your smartphone or you can upload a picture on your laptop to their database and it’s an instant search through facial recognition software,” Clay County public information officer Annaleasa Winter said. The program is similar to the technology investigators use to catch criminals. It takes in 130 scan points in ..."
+    publishedDateTime: 2020-01-16T19:51:00Z
+    sourceUrl: https://www.actionnewsjax.com/news/local/clay-county/local-county-introduces-facial-recognition-help-locate-missing-pets/PIJ2HPD4H5FMFCTPW5JK7W3KDQ/
+    type: article
+    provider:
+      name: Action News Jax
+      domain: actionnewsjax.com
+    quality: 39
+    images:
+      - url: https://www.actionnewsjax.com/resizer/TtOT9niLyfyT9HVcPnNRWXdkIh8=/1200x628/arc-anglerfish-arc2-prod-cmg.s3.amazonaws.com/public/VWPKBHIR6ZB77BJKCL4F2RE5ZM.jpg
+        width: 1200
+        height: 628
   - title: "House Hearing Shows Bipartisan Support for Facial Recognition Rules"
     excerpt: "House Oversight Committee members from both sides of the aisle expressed support at a Jan. 15 hearing for imposing some level of Federal regulation on the use of facial recognition technologies. The hearing – the committee’s third such session examining the oftentimes controversial technology – looked at how the private sector is using ..."
     publishedDateTime: 2020-01-16T14:55:00Z
@@ -276,6 +289,19 @@ related:
       - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/7791c5031c0c2d9d36d30a1baac53364-680-453-70-8-O7C3FGBTCII6VFY3IO7MH74YMA.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
         width: 1484
         height: 988
+  - title: "Activists pressure colleges to abandon facial-recognition tech (EdScoop)"
+    excerpt: "\"Promoted as a technology to create a safer and more secure world, facial-recognition software, which is capable of identifying a person from a digital image or a video frame, is beginning to pop up at colleges across the country — but digital rights ..."
+    publishedDateTime: 2020-01-16T20:37:00Z
+    sourceUrl: https://www.avnetwork.com/news/activists-pressure-colleges-to-abandon-facial-recognition-tech-edscoop
+    type: article
+    provider:
+      name: AV Network
+      domain: avnetwork.com
+    quality: 23
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/UfZPqWvHAnhiMM9LBmGWAn-1200-80.jpg
+        width: 750
+        height: 422
   - title: "CyberLink and VIVOTEK Announce Strategic Partnership Combining Facial Recognition and IP Surveillance Solutions"
     excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced a strategic partnership with VIVOTEK (3454.TW), the global leading IP surveillance solution provider, adding CyberLink's FaceMe® AI facial recognition engine to VIVOTEK's IP surveillance solutions. The new collaboration will be showcased in VIVOTEK's ..."
     publishedDateTime: 2020-01-16T18:39:00Z

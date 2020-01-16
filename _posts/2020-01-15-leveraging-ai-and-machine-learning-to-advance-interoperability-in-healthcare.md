@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T19:00:00Z
 sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
 
 related:
-  - title: "Enabling AI with Intel’s Deep Learning Boost"
-    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more."
-    publishedDateTime: 2020-01-14T17:15:00Z
-    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 36
   - title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
     excerpt: "Or, the company is at least closer than they ever have been before. The secret? Deep-learning technology, powered by artificial intelligence and super computers, and run on Nvidia’s patented Tensor Cores within their new RTX graphics cards. This ..."
     publishedDateTime: 2020-01-13T20:20:00Z

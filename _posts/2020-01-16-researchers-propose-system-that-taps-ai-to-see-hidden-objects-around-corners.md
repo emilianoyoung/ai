@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/16/researchers-propose-system-that-taps-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/researchers-propose-system-that-taps-ai-to-see-hidden-objects-around-corners/amp/
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 39
+  - title: "Report: Detailed, fast imaging of hidden objects could help self-driving cars detect hazards"
+    excerpt: "Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars “look” around parked cars or busy intersections to see hazards or pedestrians. It could also be ..."
+    publishedDateTime: 2020-01-16T20:29:00Z
+    sourceUrl: https://www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/
+    ampUrl: https://www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/amp/
+    cdnAmpUrl: https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/amp/
+    type: article
+    provider:
+      name: Tunisie Soir
+      domain: tunisiesoir.com
+    quality: 28
 
 secured: "xgEyaQbrkjFl+noZ43upXafQu1uccebzg70ub27fG3OvSlR9G3LtPTBaqHf5rba0X8PcjcM14Vi2yq8Q5HNg0KXqnNr8Cs4K3kmoVbRIEiGgi3KW+oeZCxCdNHly6lDd1/uWNKtv/BGAjZcizi/4Ya/s0b0jts/yHbmLv3iHlPvh3ds5bQDfiuAbIO3BDopqtd+c5QY3fhaYBcidhRyjI+sWCyGBwkghRPuVto6Frcuc4h2AuSD6KVlNCww4DDp/RA4ODGWqMzl7M/zwSKlcJ/S32hnzSbKWsVNnS7UNzpoq+YLstpaYuiV40gSCUU0F3sNkrQtyJmXRsNpr8Za0q92os5D5QzmYUXFGPUQyYBZFcxlcuGVIKtb85p0ATfbG8HQPBm6Y6K4bn3+5QrRM6+QEmnTDCoKYDLVzHWMqeM4R03y5MwcltfbQV+32TcnRZClZKQgbYq01ex6Eq3cBzA==;8KpRj7NtOBi8Qi4o3VD+XA=="
 ---
