@@ -40,19 +40,32 @@ related:
         width: 679
         height: 365
   - title: "GBT Technologies Transforming the Future Healthcare AI Market"
-    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC PINK: GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
-    publishedDateTime: 2020-01-16T14:19:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-gbt-technologies-transforming-future-healthcare-ai-market-/2020/01/16/9082714.htm
+    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC:GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15134360/gbt-technologies-transforming-the-future-healthcare-ai-market
+    ampUrl: https://amp.benzinga.com/amp/content/15134360
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15134360
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 54
+  - title: "The age of artificial humans is here"
+    excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
+    publishedDateTime: 2020-01-16T15:57:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html
+    ampUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
     images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
+      - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
+        width: 600
+        height: 337
 
-secured: "dQAofYDtQMdDX/mxWiNZ0IJtMsWYQwyj/40ULalCquvi9tTHiND+g7kMT6CRmhm44Kbj4NB2n5mynCHKFNTkkW4013PzzdF+EXx440zcL2kKDEoQovEEUbOwyrqJHtCPgdPoAw2umrR7w0s7vgW8AS3KLuP4bAGV284k0DismLLUY/WNHYVvg7EXCJ4L51+8/jNj5BH1FhYLWZ0Fum6cGDFMdOOYSFf4enFfa/JPlxow6byxfwL7oFqMz2e3YSH6uF1bcfBIlxfScKHnRtK9cQx29ya1BsxXuhy54eS0ldw=;pOJ8HebokNgxGIYOPEjF+A=="
+secured: "Mpc73HJ0S6EZ/b3J4YfkLKkeT7/1Nw53qsg0FlxqPWCVEUlgqbdWoBr9GHLV9cRwV6Bq+VujG9IAECNYC/VuuMzAqxqBmgns5T0ReLVBcrjVu2vqT9KU/rikEDR3RfVdX1QZwL+H4LewDGYJSAbDPEK0QzGbz7jC51CrPBqRiqxOYL3jXsRXLpzskMh8/oKf9mLl5ZP1yT42HQugMGWawOOWxD9sfnPpDpML4PxhoI/HXc7/Y8lQwc4rkOm6Qy9QbLlaXt+gwHfb269MuNibMGV2gmuWLcZTD7fHsG1tj/EUe0m3zAQ9dGC+h1b5UvSYp5ih+CML3EpWHQIa1YerPoCke4ZtUW31XF0o4aLmNecloO6cxe8hMpWxG6llTd9EssZl7ciEGFo9t1eQNJAccdwJ/fbSI9EmN6u8TJUOrRw/JAWCh48/s4/eYNqrzGEZPQvdeinTDO4uy3+G5uTpvA==;l1BI3xFEDC16aXMSpk4qPA=="
 ---
 

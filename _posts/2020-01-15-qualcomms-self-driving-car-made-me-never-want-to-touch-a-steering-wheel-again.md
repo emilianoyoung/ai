@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
 type: article
 quality: 85
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/amQzI-xYD7xjc4Nq8Frs_M6vOd0=/2018/10/15/0d11de19-7f2c-4b3a-b33c-ceddafa9d20b/hyundai-kona-electric-ogi.jpg
         width: 1200
         height: 630
+  - title: "The AI that allows self-driving cars to ‘see’ around corners"
+    excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/
+    ampUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg
+        width: 2501
+        height: 1563
   - title: "Want To Lease A Lidar? Luminar Has Novel Subscription Plan For Its New Self-Driving Car Perception System"
     excerpt: "The upstart lidar maker is expanding beyond hardware with the addition of much-needed commercial software and a computing system that makes its technology plug-and-play capable for autonomous vehicle developers."
     publishedDateTime: 2020-01-09T22:14:00Z
@@ -143,6 +158,6 @@ related:
         width: 1240
         height: 827
 
-secured: "V+LG/o5WRVzoQ2u03QtMmKd/V1Z3WdULJAwvKnDwKTasNhy57d+21cRNgWFCmrvCQ1bEQDVXTnwozJCgOb+5DItbd7kZegY91wQD/aE7I4sIGsmhwkh07ro66WgFhp7DnwUQM3FZWaYYuNNGgoM1ypIYvoOkz7B9q3P1VHLYBfc6pZvYbVBr3ajAs08TbSg1Z0gwdBsJYRIZGYJEbYO4a2fBNaA6a1CAXGXWBGGS3Ywq1ubnya1yPenq35M2UrlrEg/z7Vzc1HLhSXgQJrr/E9EH94wYGWIT9/DRGq4coxAKcjo2QMd65h4hNRqfkA6s9lw33IFhiy+XGtTONEllEJCcx/bo8d9tO6Gd9MEBLBTlNuutNEmVj5N9NU6SE6q1LY8C09WFBkRzN2rjk34qApD5GdjfvXe8uuPcQjwOSUdd/jDs8cgeeybzJtbtEwncYh7Xe+EfZqgIr6ddFlZ/tg==;l0eKkwEg+DFaFdpSbqeQQw=="
+secured: "bG5fLR4JDDNP043wpCJGAT+8RNcvHyovhxGISTkP7rtcFmjaWceLUAdHFAC4Dua4rYCVVjn/sGihTNlssIFuQJpWoVyELjsRgrvl36z64CxyWac2gJMItSNd5ECwt7A2IeTy4mOTVAE3iOQgxvs42SAOLr6jScD1vtkwJq1TdDh3zxrFwEQs0B+4S1Zrhbrw8h4qqPCydqH2HQt8UJ3U2CevcPQF5ErerjuyIM7/64PMq9Jm4PCOV/F+kmPazsHnx5W509inqcUtYmpXXCp5y1SX+129RKjCf9DllJVVX8TR/A0Ze9E2P4caQyE4VBm2UDr7itnzVXwNsdIXF54bZ0t1MgyhAKWO3qXESmLMe7+jqIla9nr8rGU+iB/aaaNPnTagfm9bMOqoMO9opTbFDgCpMTsQNK5XVlBUGDo8X9bB6zPDIYsCQQ0SzTIAliddt7ohbnysKbmpMK2biYEurg==;7Csgbh3pP+e6Hs4NdBQiOw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T17:25:00Z
 sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,19 +24,39 @@ images:
     title: "Sensory Does Voice Recognition Without the ‘Net"
 
 related:
-  - title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
-    excerpt: "And with the voice and speech recognition technology industry expected to become a $1.46B market by 2024, brands must ensure their voice solutions are highly customized so as to set them apart from the competition. The ReadSpeaker VoiceLab addresses mounting demand for custom, digital voices by offering flexible pathways that allow any brand ..."
-    publishedDateTime: 2020-01-13T13:51:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-readspeaker-launches-voicelab-unleash-branded-voice-solutions-/2020/01/13/9080242.htm
+  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
+    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
+    publishedDateTime: 2020-01-14T19:54:00Z
+    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Mobile ID News
+      domain: mobileidworld.com
     quality: 24
     images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
+  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
+    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
+    publishedDateTime: 2020-01-14T11:28:00Z
+    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
+    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 7
+  - title: "Voice Recognition Used by Law Enforcement"
+    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
+    publishedDateTime: 2020-01-12T08:00:00Z
+    sourceUrl: https://i-hls.com/archives/98105
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 4
 
 secured: "+lfVgiqVv8fVyGPIqpgzfJfQGF6I5LVlucjEgUSvdye+fTcGVytIrih+1VICdMzv3oKSU3fz05niD7vT2VM3N2zL5mwXk0Q9LVlcGMiOS6l2mT8ZdwC59ais01ybRskqsi4ACBFcGl+/74pH1WY21EZ/uA3gwh3KPGJa9gShQZO7YWAghi4QOsNbhYnPTky3KiGufHvgbUW+QX8j6Gl62Jf9z/si+YcEiFgjmFyhPe9Tr/pM34H7P7CXv6Z3ziz7bq4B8KSYENj2Z/VcCUNij7pVJlciK4BvkXwdkuTJKyHCyrHlH+U96RT0SUV6D+L0DW9rEnvgr2CfNCdHMyTKgQJ2QXOZx+0YuPz7QgQ/LuhN1tI6n+zqJ4L3exYXnIPqYU/a7yEnHwZKavPRcmx3nYtiuVckC5CtZDsrVcTppFhZeR8io89aYXna/ryh/OLuHpMXGahcO69uC+ShVhp7pw==;ac1UxbLVNVuLerix+4ZMUw=="
 ---

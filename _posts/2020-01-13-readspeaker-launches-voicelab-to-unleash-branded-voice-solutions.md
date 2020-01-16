@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T13:51:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-readspeaker-launches-voicelab-unleash-branded-voice-solutions-/2020/01/13/9080242.htm
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
 
 related:
-  - title: "Sensory Does Voice Recognition Without the ‘Net"
-    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
-    publishedDateTime: 2020-01-13T17:25:00Z
-    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
+  - title: "Where Voice Experiences Fit in Customer Service"
+    excerpt: "Fluss added that voice is the most ubiquitous and easiest form of interaction for most people, and the cost of the underlying technology for voice recognition has dropped. “When a customer is calling into the enterprise it’s because they tried web and mobile and still have questions, couldn’t complete their transaction, or because they ..."
+    publishedDateTime: 2020-01-16T15:56:00Z
+    sourceUrl: https://www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/
+    ampUrl: https://www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/amp/
     type: article
     provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 24
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 44
     images:
-      - url: http://share.opsy.st/5e1c9ca535b08-google-home-mini-3739710_1920.jpg
-        width: 1920
-        height: 1280
+      - url: https://www.cmswire.com/~/media/e66e4fbac85346988b8614552b01df68.jpg?mw=1024&hash=F9A672BDE93FDCF1491E09293D8024FD552E99A6
+        width: 640
+        height: 480
 
 secured: "VgbkEhfWXAOGhZ5Sx3cb2sm5ZLFhrMWEC2KHA/HOS+YMFqPCNNHtWzrftlol5W1fHUnH+y9p+oZSC7M9h6Kjmx3rxPBVxjBYFru+h34IHH63vVlRdYUBrl2p1lET399wXyKRhlDX4ux+/L+ISa6kNgwz+0S59WYfJWTTOhU6tMcXrsSVNhQYOuDcr8vHS3loSx8avWBLnqjwpi9yJ3ThJHXg76IwGYjJhM7xhWX1+8lUBqv1i46j4YSlgA0gyTxUcQiWRhEf/iKsyuSatHkyN925kias8WNRIrE/lQbHS9c=;PtHWbE33VxX/rytnHZI8yg=="
 ---

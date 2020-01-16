@@ -4,10 +4,12 @@ title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
 excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ..."
 publishedDateTime: 2019-12-17T09:39:00Z
 sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
+ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ topics:
   - AI
   - AWS AI
 
+images:
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453
+    width: 1199
+    height: 675
+    title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
+
 related:
   - title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
     excerpt: "At the recent re:Invent conference, Amazon Web Services (AWS) announced Amazon SageMaker Studio, an integrated development environment (IDE) for machine learning (ML) that brings code editing, training job tracking and tuning, and debugging all into a ..."
@@ -30,8 +38,12 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 19
+    quality: 39
+    images:
+      - url: https://res.infoq.com/news/2019/12/aws-sagemaker-studio-ide/en/headerimage/aws-sagemaker-studio-ide-1576565037621.jpg
+        width: 1200
+        height: 630
 
-secured: "7uf3O6CmuKtYobfFxx/Jd1tyWjZW1pfsH7LjkL+TD6ts42De73IIGoBX7P3gBDSl4figqA4kU0dxB9mm/4fGA2zDwUsKjXKKuRixGL5UxsOz8My9uZCwF4M3GzyRDLK+Gl9mhN5I2G9Jg+/8cdKX+wlmyhZ9j+Xp9h9LtDc20hkR4ug/SlYi8cpEk9gSJXYsziIUDRWoI8QugIgNz8zldIL4JU0lsk1vTWrDfdnrGuNTsFetuxlh0PFPQ4DMOmO/JN2VRLN4q4qaOY08Dos2pZ8+5hWO8vZo7cYDyA2fBBA=;Qu2XK0GPPhf1kJ6I21iExA=="
+secured: "uWzbRJ+vODblhnIzftc+AlWcep7MBIrHtG0+i0qIed61NlIoMeMzSH1OKyRHntQrc3xiOnkf4kDD3bi9BN+0p9IgJjUsxGqJ3TVCxA9zM7R454R0P4DWB8kgrdrlpzLadZAgYndm/87YHB+UQVLs6jApNLLxW2l5k5tiYrwNPecBG/NIruj+PA3JocrGwPXpIzx0b3caB27JUYNvcO8ehoiJTTLAOJEpSk2mnMnmlfLXnumrzklI/AW2aPtnQNXKapB7E8/8kVDVIbIEPiUNyv4DS90xG5HrH3rIavLM30E=;znAo8RYcBCCW4eSGK4YD2Q=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T11:15:00Z
 sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -26,8 +26,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 11
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
 
-secured: "zcE/A+0ricr9Y9XzQQLR0CJGU+eUMKjMMkLPFXziVGhPPEuchDWpS93ihmh7auT1+lywE0CfyzOYmswCKRrslPeIZ01V7emUzAZqSYyetwSLQbXK3QD8Eks9OacfXC26tMIuOZ+Z38396/OYnd4u1/Tc1jm+oZuuQNXe8qN0ZKtDqjLZFkl8Pqv4IdszytZgO1QFncBcctvOvLQ7awu70kl2SjdsXDf2zZ+vIXqzdgfy6HIGdD8tYuBJNZvTLwAaNaHXPZ1t/Fu4PDJbbneNbQLZ9BbIUuRugWz4Yuty3co=;zgcnl7m+DElNCjqbYoLd1Q=="
+secured: "nf9ctsY+QmkmLIxarb5mz94osZ/fOBqgESaIx+kVaRLTKwdlDyW47pmJlclzapm4N4q7kE3Po6XyLNF2QB6bNIvmIlJNYp0xhNL8bLIUn7NW6LnyujsoCQJJRpyCtHZWNcorSfl94OyRfGB9F5xmVE7Qspe5K9hYQtm5zOP9cKIgj3MQADfyxxgGDPl00wG18R5/9VgiBCAs37TulKg4fi9KFuhlJGNY68td7GP1vyY7+8xsIQMOaGa64dbLhBkCKJxzt9T8D1MrFZXxUTVIPF2D+1bDe9zUFV4UlyNQkyg=;/CEn4wkwQcBu8n9XyinNDg=="
 ---
 

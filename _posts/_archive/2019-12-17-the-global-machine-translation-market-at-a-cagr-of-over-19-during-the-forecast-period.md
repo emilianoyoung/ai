@@ -5,8 +5,8 @@ excerpt: "These factors have increased the demand for language translation and i
 publishedDateTime: 2019-12-17T19:26:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
 type: article
-quality: 11
-heat: -1
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
 related:
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
@@ -28,6 +34,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "cbXTJotCoQtbL7YSydBH63frUyy7Di7GzGEYTrRHe+OJmA3WjJL7uMfs7lmZQhR6ljYkiyGdtMWMkL2QwCttlHwJ6CuLiha0R2SzjF7dCCYE7MWrFXHgNl6H+9Kcd9j9sSnY8RfYsDSiV6Zkr8Z5LTDadIlBrenQjTE6mVlYWbb2BXzT8KYvaqiqbAgJ9glBFkb1cxexu8V9PQ8npG/0fZuWNdnmK7TWRG5Gu2HKMyUWxi9U2ZbRzsy/yb53bLqN59BlzjU3fqFtq13PqAqLLEvWb3zsYrKPOLNmA25Ce+g=;WAd9suUbZtupt7RCumecEg=="
+secured: "9cy20lhz+vhTcFyoYKdWGTwu7csKjDkIyEFUkXoy1OWAJcTSbNmlSXjPSlLIcGuQ8NwZN8ymZM6rvnQE70s8f9TatgkRByNLdVqYfU46TKLTVwJOizeRbhlA5R2zPBzfgF0ufqHb87zAHV1wmMlFJASco3O/sbVKCDBx9frDdowgKuLbqgrtwFUjrt4xQPCpomlkXkff8gSyVEqIywDr2/y1K+xp7WobKdiHEChk9xwVdqzlq/ss3yLsNl82HULkAdy/F7BD6tLh+UfmtvVzoYgfNkAXuHqqZ6Odc2VYMKc=;POeZj2H0VLyvuoAmZRPgug=="
 ---
 

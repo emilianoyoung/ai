@@ -54,17 +54,15 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg
         width: 620
         height: 480
-  - title: "AI can detect low glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting ... Likewise, personalised therapy based on our system could be more effective than current approaches."
-    publishedDateTime: 2020-01-13T14:58:00Z
-    sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
-    ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-13T16:57:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "AI can detect blood sugar problems without fingerpick test"
     excerpt: "In a new study, researchers have developed a new technique using Artificial Intelligence (AI ... doctors s can adapt the therapy to each patient. More clinical research is required to confirm ..."
     publishedDateTime: 2020-01-14T11:20:00Z

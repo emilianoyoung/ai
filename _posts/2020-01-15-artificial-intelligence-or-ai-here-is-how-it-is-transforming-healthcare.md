@@ -8,7 +8,7 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
 quality: 88
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -27,18 +27,31 @@ images:
 
 related:
   - title: "GBT Technologies Transforming the Future Healthcare AI Market"
-    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC PINK: GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
-    publishedDateTime: 2020-01-16T14:19:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-gbt-technologies-transforming-future-healthcare-ai-market-/2020/01/16/9082714.htm
+    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC:GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15134360/gbt-technologies-transforming-the-future-healthcare-ai-market
+    ampUrl: https://amp.benzinga.com/amp/content/15134360
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15134360
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 54
+  - title: "The age of artificial humans is here"
+    excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
+    publishedDateTime: 2020-01-16T15:57:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html
+    ampUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
     images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
+      - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
+        width: 600
+        height: 337
   - title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
     excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
     publishedDateTime: 2020-01-16T14:33:00Z
@@ -53,6 +66,6 @@ related:
         width: 649
         height: 328
 
-secured: "/nCv0M8oCPX0zaqteJ2vkkiiuMUEvAZVt3j6haWNx63ItchTfVkseKA/QFRlAK+zKw/gKHiMDKVIYwRjMT8c8PI+6Nd4Z3GH/KpbxGx+NMw9ICDejUm3M/aEDcaQH0CktvojR2Ky0Rqj7gx6Kp+jXidE39Pn95fgI1ANdLSSS1azffDoBhez9t3PlQH4HnEB5oKhpOXLDJnuKE4rCuK9hYmfVB1qCqXA3nVXE95SQCOzgw0E24WXgZ+/uc8Qz+nFKwbifxyP6+Hm0bMoWF3R604Blwh7V/uBhpWUIw3p2yA=;aIAq2SyrmFEd5aO/nhNZjA=="
+secured: "pVjQUEhj59EVOyK+FWIMC9qpAV8n9dGxLosmBkjCgU1No88WVyRzBM0EupQLQPIKdH1DsDlCgyHc9kK5X/qbaz7HyBiWQp3P/Ek8U1SerWLmsGDx5bElfhJYu0q01wyqT++ODQqSmwl0yTQtPHgd+fdAA2zq7gfdrRbsSdgJfJCT78ZwjSEhAslawvKro8vbMWw463+RDvljlQL7qNwtl25KsNnnooYb3sMYftmlHeOpRZFB+FHdrA6LhwR8vQL22hooJ0IV6Pg5y+3FD4bHcuYISoywSEUpUwSZ1NabZJ0=;dAsi720pGFOEr9ZThfC64Q=="
 ---
 

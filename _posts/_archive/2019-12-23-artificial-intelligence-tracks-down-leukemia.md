@@ -21,17 +21,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T11:12:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 19
-
-secured: "8OtxDvNkcmMOVMZBXLewTGqOVGWyu6rk3npy2sW6t1t2LxROqv2YJqlJYdlJ4bmnXWebg9hi62n2jhAJ4bg+Fk1gJY6VTdst0ypA0tzjuJL0npMtfeWeNCajI6E8cTLCAJZJsHC+pB536hnRLaMMXCGsqOtOyCrcBS9+M0GWqogAmZy73rSIt/T4RiCJFiTsvgHXGSQwogMKDntNooejhBp/5+jFK+hNRXvO6tuG3XQg15AryqXGX976zvHzNkTUwAWlFNIvlWFL1k8JR9gGSdlJaXGPB/wKuH/+633Q/fQ=;fMWHGt04KnAp77R2fveOqw=="
+secured: "7qAwlDBTxrwOekezpH8wIhiLGTZbK6BisRP5VN1UmrZYPl1PIJiOzd/jo0TE1WkMoE4uzGDevH6COTF1f2+YXGTBj20yAuWiHffckppzMIr3+EhGUu5S/mkBltChfetFVz25maV9siKiYjKmio1YH7gogm5uklDWitTcjgZxmcvlr8xjVF63GX1d7SohnINNzmyiQhUACH37SmsCehYkQ4ibsI8jd+M3AbeBT1qv1uAk93hzFjc+/7DCRsb053bzi3MuvmsRU4EDGt78a4LHrPhsNbvy0fpRIG1jYHtHhq4=;3rO8lN9kezvsrCw0iNd8jA=="
 ---
 
