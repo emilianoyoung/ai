@@ -27,6 +27,6 @@ images:
     height: 744
     title: "Computer Vision and the CCPA: What You Need to Know"
 
-secured: "v2MOCr0aqRilHmo13BivIOElAQ/ZEVxroQ/7ZjdoVj6FRl+kZXoWm/9jeCJpTTnOnADREgYOgqcQdtzrni0E3uqJUVgVLTjxz3znGJnPmAST8WLqQFOFNeYwL5C8TF1kNkImuDu8SS5kVcvEZj7Jkr+iHyBfv6aqhWetdJgARm+4heHqE0XGn5kt6zQOYBcHi4ojs9lNOo3iaEDkimhIHTgQeBVa4QUNVsW0xQLDOgoIUedFR+x/ZYkoCfnQVFXb0+BfeFRANXa3LOFgzy7zPi+kOVqXp9ILPYYlNrZGbo0=;qAZWQpVbguoxyn4IEUtu7g=="
+secured: "s+iRW0a+sdw3ObsjNXf1WimuGpXoRJUapQlQoQhQsLITx9VRBch+gAKm3Ya32SrgzuMXU5aXjK0leAzG9dg9Qa8gYfzx/I0GkDktQIIdAtPOQMF1+SA9DRUY1z0bwSmHW4CLOPVzvWmgt3RU8vnmqLqY07tgMMKYJfXKQmeUlRCTwXolv4PJ2q4SYwNxUgzNah9M5HlnPi1h4fpv5PZsttqcebKTpkjXez/62mTmRIg/mmjY9hSnDgSuRC0+Hvni0/GwsqoySqxIVuK14z/f2NxAz6Nv1V4/gSkVcA3Th2U=;fpMQYJLpzX7aR96Ke/EI2Q=="
 ---
 

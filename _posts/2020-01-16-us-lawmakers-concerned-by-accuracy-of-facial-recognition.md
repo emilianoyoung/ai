@@ -2,18 +2,22 @@
 category: news
 title: "US lawmakers concerned by accuracy of facial recognition"
 excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
-publishedDateTime: 2020-01-16T04:43:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51130904
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51130904
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51130904
+publishedDateTime: 2020-01-16T04:58:00Z
+sourceUrl: https://www.bbc.com/news/technology-51130904
+ampUrl: https://www.bbc.com/news/amp/technology-51130904
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51130904
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -153,6 +157,21 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
         width: 987
         height: 554
+  - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
+    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
+    publishedDateTime: 2020-01-16T21:03:00Z
+    sourceUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html
+    ampUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
+        width: 1029
+        height: 630
   - title: "UK police use of facial recognition tests public's tolerance"
     excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
     publishedDateTime: 2020-01-16T20:55:00Z
@@ -171,7 +190,7 @@ related:
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
     type: article
     provider:
       name: Fast Company
@@ -336,6 +355,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "RUp+SEhOAdxg6clLUR/puxwVv6OTtGHE4D/mzXQd6Ouw5MAfxS3Yhhxy0nO585Goi+pVzTxAm3Mall4aZU9enoDMDvOtBpIdeb0KIfoH6fVUA21VDcntY8Me7cCLDbXxO/962twcO3eajBWovDPd3j+vW/YPUxNLFGuMyZQUok0IrklE8XBYJVNYC3ONb02B0b8gwbasdw1b3CIzGjWqYPvmI+QCsYhTI6sAGBBixP5AKzEql0fwxUl8cH6oyJvZbclNS6wFuDz6Z/qlMF3Q+X69bXU7+nCQZaNuU/YMw10=;PXI+Fef7asIWIANK+UwLCg=="
+secured: "5JFqEy77qaTvF6uv2Jn5NHjp0tn9T6O2QJxI5Y8UHsGos1qI87p2C+D9HpslShlyHvI0UWEJTn7OaZaHgelE4yJiAsqIPeKUuhgtBe5VEtjxzg0Hpewrl1ds8e194YZ+37CmYTVmHjCiVxenmk/GTqe8/S5bzyu0iVc0BpAxazUkTMJs+e0QO2Xh+9sH2AESE2iMEZ61elPm0/HPdgIIR0HHdXXGBvhZ8MStNm8mQRnYaqWsLukUFzXeGjLBc52FDK6wdBjAqlB9ROa8aJBIF57d/ThetD3VGRXcW71x1bQ=;/q6NHgFJDSChsyt5glyh2g=="
 ---
 

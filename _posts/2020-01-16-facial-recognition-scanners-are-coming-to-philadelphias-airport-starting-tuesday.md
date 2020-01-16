@@ -8,7 +8,7 @@ ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-ai
 cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
 quality: 154
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -67,6 +67,17 @@ related:
       - url: https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2020/01/eye_2771174_1920.5e2094c94897f.png?auto=format&fit=max&w=1200
         width: 1200
         height: 800
+  - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
+    excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
+    publishedDateTime: 2020-01-16T21:45:00Z
+    sourceUrl: https://www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html
+    ampUrl: https://www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "Z76NxkT5vsTX31qGi+jYKMQft8voLZ4Ix2Y4xPfQV9B5oCmb27YME2wOOfAFB9OkjQAh38jrxp++p+IjukXq9HOle/A94+BvWgu/ecEsnvT+G9SWhd2fVkjYHnrXhs6VV2p4AAYWl5NXcFNSGgW7pK72DPsRJ9ZtgwkFh8alVBwK0LYcIBFv7mEJprQVNbdOdfwuqs1NQOQ5BtYcFDLvc/+wAS7Putr+QDDXMRGpa8YKSJ/mQWA+YMbYV0Of2xgRWSzOFr8CHmZA2tA6N5b/vT6TZsn2uzHN/stDvRRj6a1afL82Qb22HAN9uq57Lv82SdLDxpzQF96WEiU8RNKyAfKAWj2Ydg6vEDSfthmJVFK5qp/mSlIiFHYXPKEAGCZXwh6Kr6LjFZv04dyBPKv55rJm04cU81cYo/2XYUUCURD4eZ/XyU1VpWZIOe+7xVCf6ixbL6EvyxjTb/kGl9PGMT7y8jdQtRjnI9a6qfeZN5U=;QUanKE4sRRloPGkMp+orWg=="
 ---

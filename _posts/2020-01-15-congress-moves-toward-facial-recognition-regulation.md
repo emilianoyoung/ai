@@ -73,6 +73,21 @@ related:
       - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
         width: 3413
         height: 1920
+  - title: "US lawmakers concerned by accuracy of facial recognition"
+    excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51130904
+    ampUrl: https://www.bbc.com/news/amp/technology-51130904
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51130904
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11DDE/production/_110528137_gettyimages-1139859279.jpg
+        width: 1024
+        height: 576
   - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
     excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
     publishedDateTime: 2020-01-16T00:34:00Z
@@ -142,6 +157,21 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
         width: 987
         height: 554
+  - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
+    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
+    publishedDateTime: 2020-01-16T21:03:00Z
+    sourceUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html
+    ampUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
+        width: 1029
+        height: 630
   - title: "UK police use of facial recognition tests public's tolerance"
     excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
     publishedDateTime: 2020-01-16T20:55:00Z
@@ -157,25 +187,10 @@ related:
       - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
         width: 375
         height: 211
-  - title: "US lawmakers concerned by accuracy of facial recognition"
-    excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
-    publishedDateTime: 2020-01-16T04:43:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51130904
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51130904
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51130904
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11DDE/production/_110528137_gettyimages-1139859279.jpg
-        width: 1024
-        height: 576
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
     type: article
     provider:
       name: Fast Company

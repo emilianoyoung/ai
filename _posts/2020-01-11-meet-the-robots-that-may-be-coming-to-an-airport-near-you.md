@@ -58,6 +58,19 @@ related:
       - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
         width: 645
         height: 350
+  - title: "Pittsburgh company IAM Robotics is hiring and moving to Strip District’s Robotics Row"
+    excerpt: "IAM Robotics’ robots, dubbed Swift and Bolt, move about the warehouse floor completely on their own. “We have the only robots that can drive around a warehouse and pick up items off of a shelf by themselves, using computer vision and their own ability to see,” says IAM Robotics founder Tom Galluzzo. The robots then add those items to a ..."
+    publishedDateTime: 2020-01-16T21:10:00Z
+    sourceUrl: https://www.nextpittsburgh.com/latest-news/pittsburgh-company-iam-robotics-is-hiring-and-moving-to-strip-districts-robotics-row/
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 17
+    images:
+      - url: https://nextpittsburgh-images.s3.amazonaws.com/2020/01/15143003/unnamed-1-640x480.jpg
+        width: 640
+        height: 480
 
 secured: "drTgps4hkkVZgv0Japq/uixze9Xx98e589kvicLzIBwMdXoT1zT60YgXgHnRnA67x2wDR1fFLMU7ZoAVC/ha0kqnemnVk47HuiCpfF89P+8hnMdXaKlpynB1SYlnMQ6dXMhcY8nm2AxOH8AFm/yWktzsCtUfLmIbOmjW+Y5ZyFYfaSm1DsZnzXnYEydBXfcwNOh0HuE69MddjuN5Lp3cgTy1qthlyDh4kmABI61FKqUr1I2R1StlIHLrMBGQ/CmPavla4Ep4JKWZmtx9MxYr/Rbqkxa7H7b5VeQxoc1sTzOxn8SxcECQ9M7PKWfj9OVDW+UtDOZfG4U0YkIrSIqi0c0db6Larrc+Yh6ogz+eYPZhNE87pWAY8943UkvhhpwCkJ0OQM6HN6br4Gu+kQWVTUlu562tpwmIclroijRrLzsAgom7/47hruHdmKq8N2K3kjXwNldRnXhuKqWInAME6A==;410OoejAYDVQslIG5ol0qQ=="
 ---

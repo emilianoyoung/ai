@@ -1,43 +1,28 @@
 ---
 category: news
 title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial neural network was completely neglected in the early stage of artificial intelligence development, then gradually recognized and became a large-scale ..."
-publishedDateTime: 2020-01-09T19:45:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/x5wn4g"
+publishedDateTime: 2020-01-09T20:50:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-global-50-billion-neural-network-software-market-2020-/2020/01/09/9079369.htm
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
-    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
-    publishedDateTime: 2020-01-10T20:05:00Z
-    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 37
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
 
-secured: "YJgxMRbo733KgHxW31WH5vngEHM9Uw2e7GyMgfg8jbY054nd11GL6dQg+AfL9LsZeTw/GckIdkX4eD6NtL0HA5BedoZvR6FTUXGn98vEqVMK5eOpvzPGldUjXwRNOnq6gXGLGT296QkVb7V4h/HNq1KRE6mtzFRhZoCf0Wl64pFZWil/wj2JHTOY1L5v8mzXZ/dbzmcyQB2vP6J/Odlq4Jnk3eSRp+ba9jaas22SNEkyYL/wWS7EoVSbpcEwZd6smupDXQVqC+J3+zNC59UgL0t1JDguPX8/D7o7pqWxARQ=;tkIkAK2hAgmab8LX705GYw=="
+secured: "XeSgSIEEtkO3tVsXAsIETOqqUJX5dlvDHCD8A1a6mGGvlrfQgr8CeNTKHJYW/T07+dVCWOVtBiXpJ67k891XtXiTpIQ/81D4if5b332nAApAUJhdmgVYyp+McCK/7+qqutOhl0G+HBzMCdNJ/Wg+w14tXi/fwLDQZezSR0i7sKnHpL3ys5pMRS1/3gfk4ZhevIyydCf9MDyD8BVm772DcDV3nc1YjmkCm220d+9vjNh1F+A/Fb/jUYCQ6YVbjdK7FUjI0hsAP++aXFBICPC6y0Y4GuCX9LXOyUgb6n0XDBo=;/R0zOKxKV0euUlrTaL6f0w=="
 ---
 

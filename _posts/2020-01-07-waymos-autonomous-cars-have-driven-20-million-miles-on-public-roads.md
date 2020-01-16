@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Waymo’s autonomous cars have driven 20 million miles on public roads"
 
-secured: "TvT9NVxgRNXc+Ziq7jScYT7dvdWLcGLJCduXzA0ZxBUcwayseqyX7N4sPn56rKmzF0bDW4Td8x/X3jkAPNnIxEMZxPmXVomuOaJ2ty01qWlvVpk2AlX7vpygtgKPGHQ0aYQTNMnfKMDUcl+ktHPqZBFedOICpuII6JIEjTEruQg37gNdDEyVf2SlPK0JrC8yB+o2TBUKWQC4bCgRPWQdFkAKPUgDeSBnRROu5AT9EpKtz7Emc/phBFrK/jYMqWb2X9P1/Qf1tVM/VY5DEfu6ngpt7VfBpWO6wMFdiKk+iy0=;/+ZEjVH7xKXZd/jNmBnWeg=="
+secured: "4342Q/sI201vzX9cmdnX6VJlc/5M4UK0xRiCKueBHCo6GZLQNqldfybN/HIJbzZqEYOdFGbrclF7vB8kUhYnX2U/9FvsPGehEQDlDdXijSXRQ+Mtfx/f5SbS5Kzfr3dL8zxJdXCX9Vq8fhiRrdUcETua4fosZDur01uG8ELPF8uFCz7mfXHHvbXdurtjY2NGqhP+2psGBY5nqTIDwT0HA4XiLckS8BYZs/hyadEjDF+Xn6Lbu8AOwj0Yauzlsk30INqhhRHLzVcxlJUOYS51UEyw0rQBMFJfhdTff7Q8lgWm4s2YsZhFatTjCSy1zzqFFoFaxEU6WwXxga/3fZZX0NkSkrq4D6YGsrd0JuSI50QkSSaTIhaLG/S6bgDMSkOu3iLGEUDKLAslT0uEzOtlt+hDo04NmTEFSx/XjeYnk0w/ScvL3fT9r/r+2y4TRn4gHAB3R2q8hNFc8TojrXXKQQ==;R37jQYrQuHy9uCpzh7pZrw=="
 ---
 

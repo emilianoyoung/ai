@@ -67,6 +67,17 @@ related:
       - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
         width: 1500
         height: 844
+  - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
+    excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
+    publishedDateTime: 2020-01-16T21:45:00Z
+    sourceUrl: https://www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html
+    ampUrl: https://www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "vu9j/GCrA+SxvsrhhudMTVOeG77xg7rwEop/OIjiEQQyeCXN+R19StVZGARhjAaPJcPl9nqlP8qUnR6hoM/mfha0s8xp2WPj4khcJx0cQDASA5hQSVPoCVz9TMjqWaaL/x5rJGEvEGn6GjQtftezG5Y2qe2ru7k/g+xtukLfF/tlfhZye6PKEqh7/cm89S4pWHd90kEpVapi9bUDDVCs6gLMvpuLG7Yb44XZFoblwSvYBb818Zv/KNRTv18q7l8HBnZHlLQaAt88tLbPyx+0Os9d/eW53BBs9qT8Pe5i1x70/ve5iHVRJN4fsyb4HGa+6+5LYSmcJQvb1zX7P0cbSDDpD1k/0pNHlvGalsyWVhM/I3E8vLXOTxqqL28RrCxJ56Lp8KT/rHTtpdtKfObF5Pay4T8RrAAOMPPLyVojnscuuORc6BAPH2YfQ9dtc/2i8QsZo7pcOR1LCaPJZvHRzg==;5flDeZZxLtuliciJPd9kMg=="
 ---

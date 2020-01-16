@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-ct
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -58,6 +58,19 @@ related:
       - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
         width: 645
         height: 350
+  - title: "Pittsburgh company IAM Robotics is hiring and moving to Strip District’s Robotics Row"
+    excerpt: "IAM Robotics’ robots, dubbed Swift and Bolt, move about the warehouse floor completely on their own. “We have the only robots that can drive around a warehouse and pick up items off of a shelf by themselves, using computer vision and their own ability to see,” says IAM Robotics founder Tom Galluzzo. The robots then add those items to a ..."
+    publishedDateTime: 2020-01-16T21:10:00Z
+    sourceUrl: https://www.nextpittsburgh.com/latest-news/pittsburgh-company-iam-robotics-is-hiring-and-moving-to-strip-districts-robotics-row/
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 17
+    images:
+      - url: https://nextpittsburgh-images.s3.amazonaws.com/2020/01/15143003/unnamed-1-640x480.jpg
+        width: 640
+        height: 480
 
 secured: "sH0T25mDhb6iMrQ3K9IhExGTF9EuvW8n0bPg+62rU4Megn0ohu0T8M+RTvOlYbDhzoj90BqckOGX41zDfcRo92f0xYCnnDBKOmQuiimDkE+Rcp5Uw1TatLieymgC1an/h9vHeeyga1974gOZyA8YWAYPy019bSTJ5l1kQfX1aJZxLCJCo/8LZQXtthMH7kQiSC/4Vyx2JiO9FWyyOgXRJCXVU1sxYdRe1ySmLCDJDTBHVVEp4e5sHlQZhAaAMm1AhYPW2k+iowxD3sfYvn3e3X1uhLPNkp7jJi20uclRHfEaRsxyWRrxBMHpP/uPXzANKjy9GYsdaP2Cp6YyMZ716++cypEVfawNWpFkMsNnzB9HNu8yLK7fP7F92Hoqwrk2GhF0MZNyX0QUWKSE/f79D1VrqZ5EEiWTUefrQGygtexL9AnLHdZqK6tGXRdwUhgf9CCfk9f2rpimJX0CgY6Exw==;YkgrzsZ2d0CgqpCFVTTB4A=="
 ---

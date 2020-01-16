@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T22:34:00Z
 sourceUrl: https://www.crn.com.au/news/azure-scores-iso-iec-27701-privacy-standard-certification-536497
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 690
     height: 428
     title: "Azure Australia wins new privacy protection"
+
+related:
+  - title: "Meet the new twist on data encryption that promises better privacy and security for AI"
+    excerpt: "AI and privacy needn’t be mutually exclusive. After a decade in the labs, homomorphic encryption (HE) is emerging as a top way to help protect data privacy in machine learning (ML) and cloud computing. It’s a timely breakthrough: Data from ML is doubling yearly. At the same time, concern about related data privacy and security is growing ..."
+    publishedDateTime: 2020-01-16T21:44:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/
+    ampUrl: https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-654683563.jpeg?fit=1906%2C953&strip=all
+        width: 1906
+        height: 953
+  - title: "Opinion: Advances in AI and satellites can help us meet the SDGs"
+    excerpt: "The strengths of AI — including automating routine tasks ... and companies open to sharing data must consider regulatory frameworks, data privacy, and ethics. Maxar shares satellite imagery and information to aid disaster response, including pre-event imagery, post-event imagery, and a crowdsourced damage assessment through its Open Data ..."
+    publishedDateTime: 2020-01-16T11:06:00Z
+    sourceUrl: https://www.devex.com/news/sponsored/opinion-advances-in-ai-and-satellites-can-help-us-meet-the-sdgs-96366
+    type: article
+    provider:
+      name: Devex
+      domain: devex.com
+    quality: 39
+    images:
+      - url: https://lh6.googleusercontent.com/WgCJvow87tD1Z4t9kEJALCV5JrHjQIfQDb5vkn30i9rfb1nGqTuqsygGHQaTqWTATPx8NmWCzYc9Gt7oiseWq_kuOxNMEdWAarkFPA2HEd9yt_e5lIT4pB0hKrQMe_sZ5lIu8Gk5
+        width: 800
+        height: 450
 
 secured: "dldfVIKTai6U4keJSE4avj/irsPmlDToHmc5Jbz3IhixCBdLGfcQZbvupyF7aSG5+j8TEAKemo5np0lUzcGMCR8xAMTiIZ3LqClMRHBSk5ZKaZ0BsCBE5SsiA0FLOQeN/nAqBdDHvHV4+2Foak61OwQ6gkUwWkErhClCShBprtR8YiHZ/EPxaUIJmbXADxeotZ39GX+ob9SqHOCvv+7yn4ObNqHHICAJ6juwJrc4aiXhnfizxc4U6cRsf9hWS3byPsvfFkGc54iQVo2HtkIqNbrMmVNrcPfAG4kShkNfH90Gm0ZuUGAUED1qnzbGzEWcs+4M22KbxGHe+YUkPlD1SSoewiykW45ZGyata5HC9S3K1bE5EHEKLHMN6CM2HaIuxLehpH43abeJZdO0J6LPHZzelvtxqZHOerHvzAF2DDZbEZLDOLNF7SNX7UikWKiGHs4KSp+6QOd7foluwgvqrg==;CB7IIQy2lZBqtPW/H2EbJw=="
 ---

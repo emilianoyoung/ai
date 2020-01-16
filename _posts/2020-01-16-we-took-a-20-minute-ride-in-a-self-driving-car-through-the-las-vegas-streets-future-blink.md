@@ -25,6 +25,6 @@ images:
     height: 630
     title: "We took a 20-minute ride in a self-driving car through the Las Vegas streets – Future Blink"
 
-secured: "/c16rr4f08JnLfeKnaHsi7Xm423zsxkcuGyn6GJgjAq1ABXUAUAob6vxbcmBhHogmCha1VTuUpMKKVuBJXyzYQ6wXv98xHtOpn4pU7319fbdNCbzWa+76U0HA3e1xnSugYlbotJd33NBBZg9QPFCB8bs/KAtyRrmk5wyIm2u54fBZWnqdes/EC4vkcFLvGBvzBFw2urYGZ4rxdxtK7rMmd4TC4/GTDeskAi00GzA+kRn/cdTqDIGFYD70zCuLtdLmOx8qB+c9HVQIzKQk3aGJHlWe703FdLbluyN/uiT8fc=;9g1MmtFy3DdwEFiE0LuASw=="
+secured: "p+GVbk96Oq13W3rXHaIGxG5rClrzCQO8AJbGlJyUx8TIOLvlLBWBxxLtOEODHgnHr/VHKrwbdYDz05Q1WpJQdYFdeMEzPk/bBSbALAfDBbSzJBxDOJoMVISt4/B2wNycJwtTn30cOk3kKCuenyfCfmymyt9/zTkuVMHf1MiDFAm+1WNIXQ0rvCXMjxGUseqCPza691cz8TjtCXJ0lxHWNRhy1e0zOfLDpjMk4Koe9T/A96BXedmOil3hbH/uSDYQZX9rMZ7yWvci7TM5A4z+dQkTUr5fTYF27BVq/21jS5ax1bryIOolWRAr1dIDL69YSfLfQNUR4gX/JbB+kmneKKWKCCFDEreMmHIVaEvKBe/cRCHQ6Kw4Wotz+yla8KgP/JI3JNaa35fd6tT97cYWX6OaDh/BstCdACLBlys9rFDqa+pjTbTEvT6KRn99kS3WrESPTt/62RcBaG/VVM53Kg==;x1BD9duDaoZie/N4RU38qA=="
 ---
 
