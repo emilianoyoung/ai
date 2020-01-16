@@ -37,21 +37,6 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
-  - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
-    excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
-    publishedDateTime: 2020-01-16T01:04:00Z
-    sourceUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428
-    ampUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
-    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 51
-    images:
-      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
-        width: 1200
-        height: 630
   - title: "At House Committee Hearing, SIA Shares How Effective and Responsible Use of Facial Recognition Makes the Nation Safer"
     excerpt: "The Security Industry Association (SIA), the leading trade association representing more than 1,000 companies and organizations developing and delivering security solutions, testified today before the House of Representatives Committee on Oversight and Reform."
     publishedDateTime: 2020-01-16T01:47:00Z

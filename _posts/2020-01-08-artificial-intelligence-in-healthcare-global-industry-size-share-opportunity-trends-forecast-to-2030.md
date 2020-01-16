@@ -55,6 +55,15 @@ related:
       - url: https://static.scientificamerican.com/sciam/cache/file/70F2EB1F-4F5B-4BB2-999FAB56031F105D.jpg
         width: 790
         height: 496
+  - title: "Global Artificial Intelligence in Healthcare Market"
+    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
+    publishedDateTime: 2020-01-16T03:41:00Z
+    sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
     excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
     publishedDateTime: 2020-01-14T12:24:00Z

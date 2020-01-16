@@ -3,7 +3,7 @@ category: news
 title: "Speed time to better AI outcomes"
 excerpt: "Accelerate data science and AI project delivery with IBM Watson Studio Premium for Cloud Pak for Data. IBM may use my contact data to keep me informed of the products, services, and offerings. By Email By Telephone By Postal Mail You can withdraw your marketing consent at any time by sending an email to NETSUPP@us.ibm.com. Also you may ..."
 publishedDateTime: 2020-01-03T01:31:00Z
-sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-speed-time-to-better-ai-outcomes-ds-eds-us.aspx?tc=page0
+sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-speed-time-to-better-ai-outcomes-ds-os-in.aspx?tc=page0
 type: article
 quality: 19
 heat: 19
@@ -17,6 +17,6 @@ topics:
   - AI
   - IBM AI
 
-secured: "nOlayB5eHHn84zQAUjwYBmfqfFCKyV0p5Ox2BiIuQyARyfd56HCIkPpRooe+Gf6IMRnl7B9pdHzhaQCZ55FC0fP+frm8eLer/uEcBS5/pz760zay6wJuhVJv8i+eYx/j6/dM/LHu4xArXLQqUTxoK2VbAvFDs1FkImHTuz2hSOJkKGiMo51XYbiN0FH9UJ3sPpVvlG7CEIApjhEtSZg9RwHQHAUUfZ06oQ3oDnfbXeqjqaRx1pknmBwMjct3wyPiBmKaYS383K3uSe3garDNKTjJJjL0YUtrmEywr7oLaWo=;mTdH3YyER2haMlX/vqhN0A=="
+secured: "CEMStTo9O9dmQIy3dkCJA16ZVzFDYf9/+DD7OBM5TxIHb7BB5QlnrUm62A12MOILnGJyxDvF1B8w6Gnt28i163bAVerjZDbUL23uKvAERhmXDzvxXhy8HDzw/VjvwpZuQbQRPXzqhw0r1794QxxCFr4EnlqncfLrbLOFXq9HziE+XHz4K+2/ixqOe4JYzVDY8HP9sFr9rGAGfV3XsVYts8wWSe8kojJOOOtAmOjZoYdQ9fxgIpEf119S+gC33Az8scP/+XS+LX1eD3+lZowFYy9wUDsbC5/8nSMCxfUEma0=;qNjq0JZAozttTb8usYhUfw=="
 ---
 

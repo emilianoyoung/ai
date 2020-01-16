@@ -29,6 +29,6 @@ images:
     height: 2108
     title: "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab"
 
-secured: "UnJRI+puq62DyinpKv7l+UVskY5Ud4EKjPV4+Sr5rLD2wRDITkqMk4AAJdAkYM7CWyfA3OcDtjs2Q5Ntms1aTTJDY2XGUWptlZv5LbFs3Jwv/uc6SuRrBnOAQVWHWrAl3Ulo7j4j+STBxjrDIGrXZ4rjYVgAck5jTz6dL5SVPedlgRZgCk1DM/2bX0tMxwXnqoxY31+EGgTL7kvF18KoTOZD94G+FmrgZVhZ9B6vaCQcM9cmw3AzC32SfRRiCLkcMTwpmzywM1FPGIxMVYhzRR63v02DgfnbvjpCN/ypheM=;CZxUdJ0QzdoEo63MzQ3QXA=="
+secured: "ZPDzLzvEhzc1J81BK2ySq+hA+Os0xu+YE9CWX2nrEFDrKOrqPY9GFphoi07/72dD2gUevdHVOJPtlT/v+ezvj3kHTYbW0s2RWbWxyfOPcm7/HpZkAQLp+4G2y8Tu35VH33DEF1oQjYsapSI5NrYSCnBcEgjC3uKALMQCgym+KoUjUqt41rRkkPzCmgPjtyUqQQsb+F6q3t3l/SwTTTaTGQt42vS/AiUGU4GJxh4DvFBOUq0WytE8Z6etTjol3SvLAw36s3QhL5GZ0hBrNbLOdURh6lbDDIRpyesWKAXwS4+j8xQdrbYli3uY1l9kulVGWbnPOywdvtWtvAgv8IPOSSUMR6w2YAqkl/2zBAUjBIrSGzXsT2aEppJ9kIYQRg1zWCAayb8+drDgyAqdobxU0FSMvSF5W3Kt5Xp01xqdBttvNkpQc0RG1YWonvbRa4CDTZxK1irlUqW+5LFK6bdYrg==;+dBABgvFCnBd2b9ZzWm/Gg=="
 ---
 

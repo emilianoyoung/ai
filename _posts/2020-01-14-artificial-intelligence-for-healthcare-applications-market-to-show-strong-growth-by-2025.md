@@ -50,6 +50,15 @@ related:
       - url: https://static.scientificamerican.com/sciam/cache/file/70F2EB1F-4F5B-4BB2-999FAB56031F105D.jpg
         width: 790
         height: 496
+  - title: "Global Artificial Intelligence in Healthcare Market"
+    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
+    publishedDateTime: 2020-01-16T03:41:00Z
+    sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
     excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent. This statistical surveying Artificial Intelligence in Healthcare report investigates and ..."
     publishedDateTime: 2020-01-08T12:11:00Z

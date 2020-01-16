@@ -35,6 +35,19 @@ related:
       - url: https://cdn.androidheadlines.com/wp-content/uploads/2020/01/androidheadlines.com-design-1-768x597.jpg
         width: 768
         height: 597
+  - title: "Alibaba Makes Shanghai Permanent Host of Its New Top Fintech Conference"
+    excerpt: "(Yicai Global) Jan. 16 -- Alibaba Group Holding and its affiliate Ant Financial, operator of Alipay, plan to make Shanghai the permanent host of its new industry-leading Inclusion Fintech Conference as the eastern metropolis aims to turn itself into a financial technology hub. The first event will run for three days on the Bund starting April ..."
+    publishedDateTime: 2020-01-16T03:11:00Z
+    sourceUrl: https://yicaiglobal.com/news/alibaba-makes-shanghai-permanent-host-of-its-new-top-fintech-conference-
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: https://s3-us-west-2.amazonaws.com/www.yicaiglobal.com/documents/alibaba-makes-shanghai-permanent-host-of-its-new-top-fintech-conference-/top.jpg
+        width: 720
+        height: 480
 
 secured: "k0mx0ggFTrCZR9mElMoypjSrmk07o3u7WxfroCB1Ip2irPB90cIWAzd6JPLS/dX02V4aRfLraYTed1kCuS8fKTnNovkJxtc2NxI1TpUdy9pkxydCLDeVQx/aweDLcSJiOIbqm8DuE0L7lZ+AmAGBrvuS132QaBHkow1N+H9oedsCDL+bEWKNwVXt85SrQutREWPWGOSmfoxpipEUccXXenHJJrY40PhMI7gjNp0L8Udgr5VkuTl7s0fcu0sQsjWSAKXvHi6uPSeHsK/tsLaC9MsYvoh+nXNil6Mhggi81TY=;9flgdWw9MVadeWu/bTqS5A=="
 ---

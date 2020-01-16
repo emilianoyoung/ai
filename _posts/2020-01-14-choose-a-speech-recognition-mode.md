@@ -37,6 +37,15 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "The advent of advanced technologies in diverse industries such as healthcare, banking, medicine, and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
+    publishedDateTime: 2020-01-16T03:46:00Z
+    sourceUrl: https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "2ouC6aZHv+bbW0iQJhOo8nV/+w6wbDeKwsdb9GjXMVYD2BKIcDcOC+6pMiepuk13fgMtR72mfWZ7YASIeRVrL4155eDlBb6aUQz+wV9wU9dFCeHEtOmMzzqJyUnTA86iTe5WPr4zwRlLpAlmf0rzRwRrlOAy9n5neLomDZxj/eVAStxdkwIkOAOB5lRI1sIn0p4HTfW9f0e9ngBNtJuMw09vwN0gpAgJyW20X+ZWPtn5pJxUnA7nxTq+HPZt2264wjXBG0tnXuAQR4rxc6WNXadpzP2zJkcqgVRYncK1A1w=;y+B6qVwv7k1EY9Col0foUw=="
 ---

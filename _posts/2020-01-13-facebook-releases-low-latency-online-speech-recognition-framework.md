@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 19
+  - title: "Speech and Voice Recognition Market"
+    excerpt: "The advent of advanced technologies in diverse industries such as healthcare, banking, medicine, and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
+    publishedDateTime: 2020-01-16T03:46:00Z
+    sourceUrl: https://www.openpr.com/news/1896891/speech-and-voice-recognition-market-global-industry-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "HBjBpZgZB5VkHwOKUwFZF1VscGSQJynylzKvnUEUvyGi41vDMmZLq5LJeVT86D9bMeb4Xai0/1zVfm3W6YH6gyox7nk9A2I+I6rf9J9Hg6IHPuhm/j6vJSFEJBQfFGtsGDedDCz71liIwGwNgrZcJ6jOaccUghKqTqTSqsw6rtKf5IWFttmUOh8SAZ4gLqhElCqMFvC6lFxgAm8EldCGSE6rKJ7BMfYQmfhHYPu9A/NEd5JPCGTX3jwPYRuMT+FanmPeu2naSOMgroyolYMe8pbnlOF/5+UGQRUn2zUg2j/Y3cOp3jy3ok77tBHtYDVZlll8evgSNAxCRsp/hUUKGjdL2DrYa38aR8R/AOViS6MlMY/hPBC9zks8Nzcbs9PyRd7/aqGwRqe7dJ5Q4Q1N5K1as6wzqjLer2Tqb3hqS1L0Tmt9AzagjTipPl9mX/CwQBK33UpvHdoF4Z/6QpWXsg==;ptRpmwJdDXBN5qBc4I1U6w=="
 ---

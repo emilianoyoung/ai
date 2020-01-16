@@ -3,7 +3,7 @@ category: news
 title: "Apple snaps up artificial-intelligence startup Xnor.ai for about $200 million: reports"
 excerpt: "Apple Inc. has acquired artificial-intelligence startup Xnor.ai for a price near $200 million, according to reports Wednesday. The acquisition, which"
 publishedDateTime: 2020-01-16T01:19:00Z
-sourceUrl: https://www.marketwatch.com/story/apple-snaps-up-artificial-intelligence-startup-xnorai-for-about-200-million-reports-2020-01-15?link=MW_home_latest_news
+sourceUrl: https://www.marketwatch.com/story/apple-snaps-up-artificial-intelligence-startup-xnorai-for-about-200-million-reports-2020-01-15
 ampUrl: https://www.marketwatch.com/amp/story/guid/7DE98E79-29A9-43A8-A665-C51489BC052E
 cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/7DE98E79-29A9-43A8-A665-C51489BC052E
 type: article
@@ -39,6 +39,6 @@ related:
         width: 711
         height: 535
 
-secured: "Sj3pJdjJbjQUwxdSaInJa04cUnew/GQQcDh3ZOwZ76E7bZjo7qEfI9gwiPFlvfCOvAk1uIZyvMCp5m7Trhsm1dOmClLIfs2fJEaN7H4j4etF7qoHakujuJeOCHiRSwfG39kVtMrVUH7SEXxyJW5ARZe6AC1FrDY0QHZPwKGpUHj9ShdLZ1u+MNL+JIO4k0IGLnxl2pjnK9nd496y+cTxZbArPQHi1cH3HRYIB2Es7HJJqMWqiOFnRLFa65U4oYXDAtP3te9p5vDDJbPqDUjexFisJqtfxU6hRf4H+3xjxlY=;OAcpxMIMTG6WNPmwpXE3fg=="
+secured: "EWtxld2twy9QBPv7qnUrGwz8VWdGrqnnJvZwf1THk1kDStQ0b8hIKqfDyrNFGrkUUmQz0sMRr+gvnRpEzLQNdzhudnqDs57/5mXHQ+LTkK1WwoUOvpZ1AQmuKBB+0Q5ggzMiJJtY0n0vstCuaBWBTD5GDDUGlGm54YoCiHV9S9yT+HclRWgMJ+8OAUVIpgzce7cLwuge0jg3ufXu40ZGeI2EPRadYyey5bCBjBSD6Wp6p/cguDIgBLgDoFy+tA4ZIqryxKtJO92IzdE0C51kdQVCrfYfENbH+wWhMXxSJhE=;XHjmbR1V/NxkhXi1WxXtLQ=="
 ---
 

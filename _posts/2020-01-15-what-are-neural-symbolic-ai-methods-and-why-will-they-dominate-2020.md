@@ -7,8 +7,8 @@ sourceUrl: https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-
 ampUrl: https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/
 type: article
-quality: 73
-heat: 74
+quality: 93
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,12 @@ topics:
   - Machine Learning
   - AI Hardware
 
-secured: "vyCJ580DykwEFp+mrjMisTehFqf50dzALlHOpWLCb20JGcZlrHSsV5/yfxeYzQwxrlDmj2EnV2hfiuU9BIUKCfzgeSaGMuamj/9MXu+wgMD6y7EeZpr1Ez4zDB/5nBZE+cLvDKZ0a/8tLtOwgQpG1ojwZUIIeVFm7lY3yKd0yjmwDR+bSJZzlu88G62qdYoMoN0LJ2+gU0fn1taKOnZ6HUafwsCt+1D54hwTYGEXv6StELcGi6pFfLlkIs3pBJUqsQkSTvYi+qIbBECy+s+anrG768ujt+PGATzJHJD0o64=;yStv5iPJfCwVBqwBM3Mu1A=="
+images:
+  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design36-796x417.png
+    width: 796
+    height: 417
+    title: "What are neural-symbolic AI methods and why will they dominate 2020?"
+
+secured: "6a/VqrPXjkSkYY9JYi0VnzZnUj8j6ZCB9si77A4NBcmlvi3T/AssEluE+KI1XV4R+hBgu8GNT3sVIWqxWoCGv4kUcmaY2G2EduA6XC68OAGGfoCqIR/efgKog8+GkScmvnUexP3OJ646mFsRr/C6RdjXFlYqK/pINKJCuqBZRIIki/W92eqatBpAoIP72hf+rH+QagItz2c3AdF+zsSA05MFmVUEZkWngYSLJr3r3Dv8J6P099edroqf2FKhtSKYGB2ZKOoZPmXhPjYVj4Np/MmZqVOLP/Vg313b//LHhFw=;ofeH1dk9XRjWE1f2LSsmdg=="
 ---
 

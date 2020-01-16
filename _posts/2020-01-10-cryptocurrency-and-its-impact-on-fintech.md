@@ -37,6 +37,19 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
+  - title: "Alibaba Makes Shanghai Permanent Host of Its New Top Fintech Conference"
+    excerpt: "(Yicai Global) Jan. 16 -- Alibaba Group Holding and its affiliate Ant Financial, operator of Alipay, plan to make Shanghai the permanent host of its new industry-leading Inclusion Fintech Conference as the eastern metropolis aims to turn itself into a financial technology hub. The first event will run for three days on the Bund starting April ..."
+    publishedDateTime: 2020-01-16T03:11:00Z
+    sourceUrl: https://yicaiglobal.com/news/alibaba-makes-shanghai-permanent-host-of-its-new-top-fintech-conference-
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: https://s3-us-west-2.amazonaws.com/www.yicaiglobal.com/documents/alibaba-makes-shanghai-permanent-host-of-its-new-top-fintech-conference-/top.jpg
+        width: 720
+        height: 480
 
 secured: "0Kvqp6JaOTiOuEeGbkHHWQeK8R3SSpePVlSUt4rfVlTy37TLQyXGOdl/5c0JCWFORPpdLPYAUJQoHslmOfbxSyebKLIx97S9vVNz3KnCXUD27AfRe7rJXZOmlSv+484XUfzGqKJVamyfpjN20Zt4pC/kV0mUN3GkLU7segb1EDx+5yNDTQ13fiHOs1F0DdGdY0FhULfu+gkyjhOSmMqiKjTNHFG15lt3u2FAFT69j8Fx5tqwqR3Lz0I8fQYFS5kS6P7GYmct+Vfi2GX8rdG8xyfr0MELEm3BTAXd6XvYuf18r+uCROjH+CbLdXCeWLedAn2pUpNyEKZaXe1cCnHi34c/NUAEeYvdhv17H+l8A+K+23OUE1W3ivj2FHcBqksgTrUAmaiBdanrKLrSgSgXVG/dJbhlrYdkEmzXMLgpSsWjQ0USsTqAvXHTBknWobSE66t7pGyG++wS0zK8wqejdQ==;L6ATcTamJStOZBjS4iVYuQ=="
 ---

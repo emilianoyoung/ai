@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
-excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
-publishedDateTime: 2020-01-14T12:24:00Z
-sourceUrl: https://www.openpr.com/news/1895885/global-artificial-intelligence-in-accounting-market-industry
+title: "Global Artificial Intelligence in Healthcare Market"
+excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
+publishedDateTime: 2020-01-16T03:41:00Z
+sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
 type: article
-quality: 1
+quality: 34
 heat: -1
 published: false
 
@@ -15,7 +15,7 @@ provider:
 
 topics:
   - AI
-  - AWS AI
+  - AI in Healthcare
 
 related:
   - title: "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025"
@@ -55,15 +55,6 @@ related:
       - url: https://static.scientificamerican.com/sciam/cache/file/70F2EB1F-4F5B-4BB2-999FAB56031F105D.jpg
         width: 790
         height: 496
-  - title: "Global Artificial Intelligence in Healthcare Market"
-    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
-    publishedDateTime: 2020-01-16T03:41:00Z
-    sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
   - title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
     excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent. This statistical surveying Artificial Intelligence in Healthcare report investigates and ..."
     publishedDateTime: 2020-01-08T12:11:00Z
@@ -73,6 +64,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
+  - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
+    excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
+    publishedDateTime: 2020-01-14T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1895885/global-artificial-intelligence-in-accounting-market-industry
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 1
   - title: "Government should embrace innovation in health care sector, industry members say at ‘Redefining Hong Kong Debate Series’"
     excerpt: "Speakers envisioned Hong Kong in the next five years to make progress in health care technology, such as harnessing artificial intelligence to interpret imaging scans, or rolling out Uber-like mobile apps to match patients with doctors – a service already available in mainland China. The Hong Kong government has set out policy directions to ..."
     publishedDateTime: 2020-01-15T21:31:00Z
@@ -85,6 +85,6 @@ related:
       domain: scmp.com
     quality: 0
 
-secured: "o2id0RnGTZbpUUrnItwCeppNB5GzfKc5NnPLhuiLJSHcO1m89T5CERPb38xDOsKPTfY0K/xo6cgSXiKcqSNP/Fcj5gG+Ru/zDeWx24q1cBXHpWApgZoTmSllGgaIjGbFyck/mjJfMUv3I9KF95VyVZaCyecJ4g3MP+HxYmixMIvC4wKagu7znqG0Vfk27rcg9qs036d4J5HyumN2pIfZIHMmtbQIGtpT1XgDKhLNVcGuCH9SQBqIyufmop4ilmzooK99wnrYMTd30aVhxF6w5BY2Mq4SseBMsiWwUV8jX7A=;vIaaUP4qV4uvWjZpzDmX2A=="
+secured: "QaZrE/7l//r68cYdoRBhYiFtb5j54ymO2ftNc8B7eKcn6vSlHHSg5SpJHBo761BBvqV8UnOd88ywj2xhX7iHs8Dhc/284MWun14EJDpiK0TnlZ44UfP2FzaFwEbNNb2hkhSlUpvi51m+SOjE1tvXdlc9oyr5E5Uwmth2e/v+V/2Ul/YigxPhE4pKOb8+YZVCtqIwp91woE26NaekqTWC6qKE4pvyF2FgI0jBO/Cnw/0muHF7dqgMF0h89GeClksmi+i7vIy6AnZEF6gz09cbBnMPbbhXJwOwv6h3TOD/grw=;IoIU2NpqZ102KyuCTzRLaQ=="
 ---
 
