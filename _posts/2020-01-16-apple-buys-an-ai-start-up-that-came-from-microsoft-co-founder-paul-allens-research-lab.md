@@ -7,9 +7,9 @@ sourceUrl: https://www.cnbc.com/2020/01/15/apple-acquires-xnor-ai-startup-that-s
 ampUrl: https://www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 65
+heat: 65
+published: true
 
 provider:
   name: CNBC
@@ -23,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "zzoMqaFVFub06TSbywi1ISk+CpAya8hHI7rOWNAEl6DoPd91eIiuBDWj2weKd+JmpATpWvkDgSu7xDjIWk6dt+kBh1OISWfmsPiMAbAtOJY5kMzyBnkKJGE33OAh19rKrtUiOcS1+rG/NIeOEqyD+VqXNLuOUtQUWbrU6udCP4ItYa9LZlvOhVIWoQUiDJILUnoPlx4j4PhrFd1ICtltP544ke+km68QNsaARRX8DaKVAVOMBrPXT4GlBXO0ixZ8RQceQG5Ggu3B3bX32kAvpKBXl15Hi7dt3tvFH8sn7vM=;rvRgXqOwDpSvbSnpqEk9cQ=="
+images:
+  - url: https://image.cnbcfm.com/api/v1/image/103407475-GettyImages-146170267.jpg?v=1532564184
+    width: 3000
+    height: 2108
+    title: "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab"
+
+secured: "UnJRI+puq62DyinpKv7l+UVskY5Ud4EKjPV4+Sr5rLD2wRDITkqMk4AAJdAkYM7CWyfA3OcDtjs2Q5Ntms1aTTJDY2XGUWptlZv5LbFs3Jwv/uc6SuRrBnOAQVWHWrAl3Ulo7j4j+STBxjrDIGrXZ4rjYVgAck5jTz6dL5SVPedlgRZgCk1DM/2bX0tMxwXnqoxY31+EGgTL7kvF18KoTOZD94G+FmrgZVhZ9B6vaCQcM9cmw3AzC32SfRRiCLkcMTwpmzywM1FPGIxMVYhzRR63v02DgfnbvjpCN/ypheM=;CZxUdJ0QzdoEo63MzQ3QXA=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Launches Advertising Accelerator with Watson"
-excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
-publishedDateTime: 2020-01-07T11:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+excerpt: "today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to hel"
+publishedDateTime: 2020-01-07T14:51:00Z
+sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://mma.prnewswire.com/media/1062495/Ad_Accel_w_Watson_FINAL.jpg?p=facebook
-    width: 2699
-    height: 1414
+  - url: https://s.yimg.com/uu/api/res/1.2/PRYW1OHig3OivDLZc9jD9Q--~B/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/938103bda68c090c59b89ba41bbfaac5
+    width: 400
+    height: 225
     title: "IBM Launches Advertising Accelerator with Watson"
 
 related:
@@ -118,6 +118,6 @@ related:
       domain: marketwatch.com
     quality: 31
 
-secured: "6358w7m5HQxAKSewH8a1vRsm+iMnS7/OGh8QPsPSwwEagsfWkG508sSyjNNc4j46GY7556TBC7ZgjjB2MAPy0zL9fBAq1ZHf2/Dm1JdTk/IdHoJCA1+9OZNmA4ryxsbbbYDBy9vpnjScGF0byeIpOlo35HQxvf9qNy6//GdzjwzP3TaBmT1w8u4HoyOB9Fu6ECkTGwPiKkSLQGIawgetnX72xe+6Ra7m+a26GaWyTwv1Llyw8p+X1dh3EFl8zywWHGytIYQuS7HDh8PTBRci0ftk8sveYtbzxtJBbHAVYkpzAGleIO/daJ8iOYB53CG6MZlEG1zov3Ke/yIueq6b9S83AuKq8gqgct+u2USv75syurashnw2em8NpHfoRkCPzn1jnqkki9d65WvXnW34GiEOVIZRTJoWVFuvfTPz6I2QnOoYtKXUIiTPNpBXRaluo34gDhBb1mBHiicAmdUrIw==;kIG1/6GjtMVjEDt/0KuUVQ=="
+secured: "BFdSEehDpm4/UzIiiRWRJ7eZxDnVR153l8hLr7epiGxArXszLgDLTt7Bfmr93lXEZoZNo0O1G0UnP6acXe/UE0X9awo8gkHB6fR/BzzWzMfYnhItYLwZlN6DtqVhMAUf/wqBd3kz72we4V9Hv2Zt+1yMxONy/ZGqixq/jjq2rktDY+/PQdbaRHWCClt37sVIvh0u7FMgoEyayK5mtNewKCQDudVmBikBeADRgM8Ud2B9xPPDihuA2sUh9ePyUtdv1Vw7TcKH03yzflHdZQqUqe37iEOqd6q4X73IfpgOAxI=;/1kRJyZnEnFeNuMLLCnU8A=="
 ---
 

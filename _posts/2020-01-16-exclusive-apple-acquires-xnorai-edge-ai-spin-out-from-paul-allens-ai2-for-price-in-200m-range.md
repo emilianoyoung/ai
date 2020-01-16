@@ -86,6 +86,21 @@ related:
       - url: https://images.macrumors.com/article-new/2020/01/applexnoracquisition.jpg?retina
         width: 1600
         height: 838
+  - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
+    excerpt: "Apple has paid almost $200m for an AI start up that specialises in bringing intelligence to “smart” devices, in one of the largest in a spate of acquisitions by the iPhone maker to make up for lost ground in a key technology. The company’s offer for Seattle-based Xnor beat out approaches from other big groups including Microsoft ..."
+    publishedDateTime: 2020-01-16T01:22:00Z
+    sourceUrl: https://www.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    ampUrl: https://amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb59f287a-37f3-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
   - title: "Apple acquires edge-based artificial intelligence startup Xnor.ai for $200M"
     excerpt: "Apple had paid the same $200 million for another Seattle-based AI startup, Turi, in 2016. Forbes had ranked Xnor.ai at 44th on a list of America's most promising AI companies. They applauded the company for developing a standalone AI chip that could be run for years on solar power or a coin-sized battery."
     publishedDateTime: 2020-01-16T00:43:00Z

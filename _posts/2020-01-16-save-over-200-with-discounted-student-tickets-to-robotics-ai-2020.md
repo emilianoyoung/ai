@@ -28,6 +28,6 @@ images:
     height: 558
     title: "Save over $200 with discounted student tickets to Robotics + AI 2020"
 
-secured: "S1LEkOplsk+JCyncF8W3F8FP1R9AYjRcHO+rLkgB6gSXgxQ8rGGQK86EzCgXefv9odUMihcPxlLxPtBn/P3AzwehXrOWvyPg/QGo8V/RqSrEpsVjaOE1TAbPmAiUHLZuMNGJxHH8MDMLx1OpNj8rvsDBad6qn4CyrNIASiOvq8m6DZ9aSoUf4LC6GuHLXZ/jXUwgM/3rsj27a/h11axtlpNrcOZXgt8amGQ1JkPqlgsnx0KxuygGHys9oPCENGFWw07UL/e6CHP74Tu/BeoVRgoY7rlXo7m2Twzo4TfiHWU=;a1NjYWxC+IGRYInbHEuO4w=="
+secured: "RhzXROITmjanN0JMfcZ/D8OzwXeGne4GWGAIbNtphUV10lHWTq7H8ZylCzjsTDkW5jj+MLtmKxrH4guZzSK06em2A/st2y7z7R/s5TQQw8xKvb6SUbpCkQA5Y/szhyfOBstXy/+KOo1qJkbA9zOXYpqMmUu1pc+9PA3d9eglhLC12O46fOZVar7buqIX6wITj4utImNUxTMZw9ou+4j/XKwTHX5AlLKHI0G9DFNYMmth049BkavGj/gCtjImZAcXGPx/Ie6C4GEX4Orh12P5lY9DYTJE77NsziTs8I0PHU+BMKVGz+IvcRlFkL9i9cXtLdkFKffG+doBmFpOlvxWpdtnllKspN3Apxy561llxqXRzaeBj7DtTPXJQmlyNtsz3xK7dKUoGcAE7yjvEVlfy/lxjU0AeRjH+fjj3hvqMiiCkcRaNsIc+nSzM1AOGv+6cCEqTkUAkcjz0QxPuKQYFQ==;+75l9DESmWlMSlMbm+/KCg=="
 ---
 

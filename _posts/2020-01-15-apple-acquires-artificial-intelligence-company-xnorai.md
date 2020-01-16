@@ -81,6 +81,21 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2018/05/180506-xnor-630x354.jpg
         width: 630
         height: 354
+  - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
+    excerpt: "Apple has paid almost $200m for an AI start up that specialises in bringing intelligence to “smart” devices, in one of the largest in a spate of acquisitions by the iPhone maker to make up for lost ground in a key technology. The company’s offer for Seattle-based Xnor beat out approaches from other big groups including Microsoft ..."
+    publishedDateTime: 2020-01-16T01:22:00Z
+    sourceUrl: https://www.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    ampUrl: https://amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb59f287a-37f3-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
   - title: "Apple acquires edge-based artificial intelligence startup Xnor.ai for $200M"
     excerpt: "Apple had paid the same $200 million for another Seattle-based AI startup, Turi, in 2016. Forbes had ranked Xnor.ai at 44th on a list of America's most promising AI companies. They applauded the company for developing a standalone AI chip that could be run for years on solar power or a coin-sized battery."
     publishedDateTime: 2020-01-16T00:43:00Z
@@ -119,6 +134,6 @@ related:
         width: 600
         height: 330
 
-secured: "1d311uDswMVXjkhtNOf8tprYxjFHOw6wZeCOShnSL9W1qvW5A4ajGf0sW9gdkO6xCpEgcNnPyjl6urXjho5CnMov73vhLKTQHYX6uRxBf24CAGyQpbP0Icxtkiamq1+Ac94fjIx54Brospl7J8wjqpERwukUYsZkDXgVJngWaL3vEDbyYqbNTbi84X/JZXaRBhSL7RU+1YyxW1r3VBYh/L5fxEQlcDbFdzEqvlaeneVfFhxqrqF4a7y7zFemQ11T4hyxdg3eZF5UfbIvdF7jZ9JGpIBVmtYmkYBR5UkvLB0=;sfqBtf70cT3OJM9Kf8yPwg=="
+secured: "t3Uzr6oAZvgpWGFrVOoaJNou3Q4pyYhxTcHNzPZWfb7VXEadeOCU7w6IKz+eKN8JIv43QzDFtjXC1bRJGZ/EnUQbbBuHCyIgoCWhhqPQCUKqqj/JdG3QYdVOvJMNpeo/oGkz4Smlp8QbAD2yEx1tHcwRMG5oFjp29pGAepj27AEpgLJy39NPtsZIcc3PWjHSI7+5ajpFgq/OcHtwjPAdxnWVFvFbDXQjHy+exBhkU+3hBkGOArbCnRSh9jyA/96mhGkjFVVhZXpsdnqtKM8ItK7o0wZMBwaOql61cVFslLOba3tiQi1kk0/7nK4rc3AjQ4HiUlNjBfgcDblYNH1hQ4u3eM7o81xB1TDvclGw+N6u2oazbrgQydxITwBFUePtakNmcqXAAd7NLXgFZuCuocW8NYQkhqhRpytI42k7SSEAE4Q4kqxg4fhRepVByALCALfFgYqpFmm2+HQsxvuD7g==;/algLn7bk80qdsiGKGCyfg=="
 ---
 

@@ -91,6 +91,21 @@ related:
       - url: https://images.macrumors.com/article-new/2020/01/applexnoracquisition.jpg?retina
         width: 1600
         height: 838
+  - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
+    excerpt: "Apple has paid almost $200m for an AI start up that specialises in bringing intelligence to “smart” devices, in one of the largest in a spate of acquisitions by the iPhone maker to make up for lost ground in a key technology. The company’s offer for Seattle-based Xnor beat out approaches from other big groups including Microsoft ..."
+    publishedDateTime: 2020-01-16T01:22:00Z
+    sourceUrl: https://www.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    ampUrl: https://amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb59f287a-37f3-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
   - title: "Apple buys edge-based AI startup Xnor.ai for a reported $200M"
     excerpt: "Xnor.ai, spun off in 2017 from the nonprofit Allen Institute for AI (AI2), has been acquired by Apple for about $200 million. A source close to the company corroborated a report this morning from GeekWire to that effect."
     publishedDateTime: 2020-01-16T01:04:00Z

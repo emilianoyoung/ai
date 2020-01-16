@@ -8,8 +8,8 @@ ampUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-laun
 cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
 type: article
 quality: 51
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mic
@@ -28,6 +28,21 @@ images:
 related:
   - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
     excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+    publishedDateTime: 2020-01-16T01:11:00Z
+    sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/
+    ampUrl: https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
+        width: 750
+        height: 563
+  - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+    excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
     publishedDateTime: 2020-01-15T16:41:00Z
     sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
     type: article
@@ -35,50 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
-  - title: "Voice Recognition Used by Law Enforcement"
-    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural Language Processing (NLP). It is a branch of artificial intelligence that helps computers ..."
-    publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 24
-    images:
-      - url: https://i-hls.com/wp-content/uploads/2020/01/sound-856770_1280.png
-        width: 1280
-        height: 720
-  - title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
-    excerpt: "Sensory, Inc. is a pioneer in AI-enhanced face, voice and speech recognition technologies, with biometric software that leverages advanced on-device machine learning. As we enter a new decade in identity, connectivity and mobility, the Sensory’s technology is set to have an even greater impact on how we interact with each other and our ..."
-    publishedDateTime: 2020-01-14T19:54:00Z
-    sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
-  - title: "Facial recognition hearing leads the Hill’s packed tech agenda"
-    excerpt: "We'll be back on our normal schedule on Tuesday, Jan. 21. — Busy, busy day on the Hill: Today’s House hearings on facial recognition technology and media market diversity, and a Senate hearing on U.S. preparedness for “industries of the future,” offer an overview on some of the biggest tech discussions unfolding this year."
-    publishedDateTime: 2020-01-15T15:00:00Z
-    sourceUrl: https://www.politico.com/newsletters/morning-tech/2020/01/15/facial-recognition-hearing-leads-the-hills-packed-tech-agenda-784408
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 19
-  - title: "Software detects backdoor attacks on facial recognition"
-    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty ..."
-    publishedDateTime: 2020-01-15T00:00:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "At House Committee Hearing, SIA Shares How Effective and Responsible Use of Facial Recognition Makes the Nation Safer"
     excerpt: "The Security Industry Association (SIA), the leading trade association representing more than 1,000 companies and organizations developing and delivering security solutions, testified today before the House of Representatives Committee on Oversight and Reform."
     publishedDateTime: 2020-01-16T01:47:00Z
@@ -89,6 +60,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "G9sREX4boCtIsHXbJ0b3xKTsPkBkfgB/12G0XzoBIerioGM7T/GSQVwXnHgKgfahwO4g5xXpEvAzH08IfiO5SmpRsVpDihggJzHQfjn6KAVRwxuMnDcnyld79GcyAklzFFvNg2lSbTaHIIjbwLnnJwxNo9w/r77ORPepzWPouU/ML2nnYBmHOm4XNgRrNKy4z6+a3K0WiwMsWlJskRpEB2mxa4iyTrlY+Lp1yvtVcEq14uQzHS6BIrXbla73jAE+JOrmzJjUnW0lrqWbmLAG7cqUgcKAQFLcEQM56B98yL8=;GHqljrG4LQ2wDonJsXqMhw=="
+secured: "/H98sWkaYHmkPQOkPO30b4z6gaeDc5Fc+K4FnweCwRlx+EnXlfi7+lcR4FLmpUdrKop1mRi78KWitxwObwx3RLRt0gxAhKXKxkQaVPztMxzbnOlS6vUPRnKLn21xpT6SGeK6CtU9MHDWsXkIRqOPd63Yw99yVr3qHkci6vTCCVAUDlTYV765mIs99MavqBKahsyXdvJ+qHAYaMAo6x8/67fPhltiEqAgA4rIOcz7Lz8mpyilkobuGB05jQZrlc88JX2JiD7FCBHUiUrycxVMhhQX+tCubj3BGJitiEPsMnSjRFSqx+uXWoTMwe8OqMD5+g3CeHf+LQsbgwHMST6Zq+JW2lFbc1yxS1ETQpyHdE3EpFaHSBdR2AL1tn7UwrQPzdJR6suOMT+Pzw+5a8nHZiy1O3hpVl7YGdic/iMCoeri00izChnN/3W8lwHA3Qr0i9tVvdhL/rU7MXobdOOOUA==;tpEyUN2B+nWgTPkUF0O+IA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-rob
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 800
     title: "The hottest thing in robotics is an open source project you've never heard of"
+
+related:
+  - title: "MarsCat robot is more project than pet"
+    excerpt: "There's a growing fear that artificial intelligence combined with robotics will displace the value of humans in many contexts. But could these trends also apply to our traditional four-legged canine and feline companions? After its splash at CES 2020, I had an opportunity to get up close this week with two prototypes of the MarsCat robot ..."
+    publishedDateTime: 2020-01-15T18:43:00Z
+    sourceUrl: https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/
+    ampUrl: https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
 
 secured: "6WUgLfS3OTon65l3zHX/YFVmZl0cexI7SJ9Iypx9YJn6gQ6h0qThImHbcxjQPGdR2Bp/ALqgnaAq3eXT8OwqkY3XVVBMfeZMgdlXNzE6lOc9ZQ4nPIzhQwQrPIYitUOiMKmzCUn4MLIlbSrj3StNpDP2oFJ5I3M/iQ9d3ihW7nRN/oj7q1CsDr7ZP3ryvK37hyCsjKfSRa4pMipL+eQxXRpxQ4O0DZw8wv0vftcix9JsEPPMBmGoeJxvoE5wY0E/c06FaPYIIMwVkOabI14Fq+qnSIlcp8as6vX7Ce40sR3onXrJMSxTwvtJlZWHorovF+Czj/P+ytR/6scts1P5nKlGMDqhsj8yZhLIly0hPeKs0S2q72k3WC8ESsKqfE/txImJAXOCiGzA3L1RC+PA5mvysvXXwW/TI09oqLBgUzxevnw0ysd+G2eUQALfEJUytsXsqPk3+HOiLDdxENcqiQ==;WOTM58RvNZpXvBRv+8EfzA=="
 ---

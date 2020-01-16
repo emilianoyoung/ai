@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets"
-excerpt: "PITTSBURGH, Jan. 15, 2020 /PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any liabilities, effective immediately. \"The opportunity to acquire exclusive ownership of Cozmo, Vector, and Overdrive fit perfectly into our mission and purpose driven culture,\" says ..."
-publishedDateTime: 2020-01-16T01:47:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-digital-dream-labs-acquires-anki-robotics-artificial-intelligence-/2020/01/15/9082280.htm
+excerpt: "Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any liabilities, effective immediately."
+publishedDateTime: 2020-01-16T02:10:00Z
+sourceUrl: https://finance.yahoo.com/news/digital-dream-labs-acquires-anki-194600689.html
+ampUrl: https://finance.yahoo.com/amphtml/news/digital-dream-labs-acquires-anki-194600689.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/digital-dream-labs-acquires-anki-194600689.html
 type: article
-quality: 15
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Digital Dream Labs acquires Anki Robotics's assets"
@@ -38,6 +41,6 @@ related:
       domain: prnewswire.com
     quality: 47
 
-secured: "RW5k2TXHQDgMwhhvJoqiDt1O4uEeXqRF1Ciuv1pwgM5mfnskx7HgqTRPMdIuQkme2pS3sAsbkfext9DULl/q95R7a9mPhRBsXIoasPPplUvOdmn/Fix8Wp0KUHTWiEHip0cC/ug6DjS1OVaWoGt1nHITlUEVNcXuyQUNEdCmmcYB8r3FGfdfR/Y1bJlXZEJV8k1Gij/tYEujuRmij9qDaNQ2dB//JpzvR7IDEQBXjjc8sqt3Q16R54BoBn7qLg4jZ1nPeMrno7s21TNmBxsxQyMYeZEXW3RrOliRhJX/M10=;jWhZNuPtEJ6Ca9JE+4N/0A=="
+secured: "G3rE6ZYyU/biZgjKEHqzJwz2L9wYXH87cUEdz6XEWI5NDJVJY9HpyD+poo9iBCuvEBXwGKXKhJ9hU6yG23ze+O8ZK48LzYqwbZIYT5c3W+5jX06XwoAMbz92tsY/pKfohGo917FO6GNiDndCL4uqZEmGCCXXYlivcIUSabxguwDOhCsGx+TKUtWnttI1xRuqptcwOaI016pLc+cDrKVkshdIP6v5lVGA+TNxSKumoWBxTX71/GKXpmAve6JhaeDXYks91991ClrqPxUb265gRZmzigbcnRkcQNHgRovB4mA=;97O6GHJEtNdWXDZvf5/MdQ=="
 ---
 

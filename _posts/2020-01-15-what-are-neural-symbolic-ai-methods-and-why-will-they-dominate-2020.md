@@ -25,6 +25,6 @@ topics:
   - Machine Learning
   - AI Hardware
 
-secured: "hEwUOgiJZVnCRCTRIMLs2M4jS/aNnqrok6P6aDhW6Cd/ZIpVr8UtgVt6LHVpLv3XeKIOp6z7ryZOlveo0w3p/L747bE/hr03+i85eoSxu2s/U/4+6Kn8l/jZ7d8Se5Vwcos8nFEfZIVDqCmU1/FlFmsdiRN1sf7kh23k4Txxg0A/gK/K4eB+6KDhz0miIgYtoraxasOvEqV4+jQPKX+wVh5BuXI/Q42S1HsUxIp76DZPazy0Md/+HS3wScFeQnHypdS69Bmp2k+oJzpFlvuEaqhXhx0ws/2S+gA2RvV5Ck0=;DLGT/kMJtS+9xCbLKfKZVQ=="
+secured: "vyCJ580DykwEFp+mrjMisTehFqf50dzALlHOpWLCb20JGcZlrHSsV5/yfxeYzQwxrlDmj2EnV2hfiuU9BIUKCfzgeSaGMuamj/9MXu+wgMD6y7EeZpr1Ez4zDB/5nBZE+cLvDKZ0a/8tLtOwgQpG1ojwZUIIeVFm7lY3yKd0yjmwDR+bSJZzlu88G62qdYoMoN0LJ2+gU0fn1taKOnZ6HUafwsCt+1D54hwTYGEXv6StELcGi6pFfLlkIs3pBJUqsQkSTvYi+qIbBECy+s+anrG768ujt+PGATzJHJD0o64=;yStv5iPJfCwVBqwBM3Mu1A=="
 ---
 

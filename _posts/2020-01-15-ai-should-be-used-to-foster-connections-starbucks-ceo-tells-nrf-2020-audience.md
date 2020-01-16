@@ -28,6 +28,6 @@ images:
     height: 802
     title: "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience"
 
-secured: "jT6k/fTnMDht5hCgy65/w3luee0SkqfePFIXe2HEQ6BmyNwMwGpYn6WVE1hfCgow2/Nwej2p3mWt1P7c4HAzJdYLefyJ1KLUMWOdnwdQXKR0nKk0Q+B1iCTdQxR0puJSlTGngZypjhbrB56xW4E1lBH+se2oYjAIxtoD9MK4jWA4Web/5qG1Ne3YRnxzDqthn9yuO5lr4JHsSGgl/8zoMIVPmpzmOImuUYCllNub2EFoEpcv7doB/Xs14WVNqfzpNplDCTmAuNsSDEi4FFYiu9115kfWVIjxN/p1Tn775as=;Dg+5v/yCnvipjC8wURRM4w=="
+secured: "3QsxUIrevPoHF3yZRxAejkqXiuXJMPkZxxUB1C2oJHc7bmsnorpj0ZoBPlga+G0GdSez9jOh+6wl4z70Vk9hPqX8CEaK2s64WkNl+wbuTKqShLjoAioey1k+Ob9hnCU4kKlcAZV6JskflkP+zirIDroprG++OoJCMojO74YtxWxCRswdhrGJF2vU5idSayVuPt1me+d/1yAMezMvuOZ7valTaOT/BPxCbTH8UBD/zdEqv6L5oSgoVQ2KVxJtx5ZugQPInI/8Hp4Jl9ntTgsPzXjBJJIEP4hotAc+g3MvtPHH6Grk8wZFEhSt0+2nrcjufGGGqCLiBTPdtz8jDuaES/Z0bet+Dj4n6gSA09R56YzkgwJIuHHYQReYjfwRxrfOZJuwcTsUnu4UyRwkXkx4FZS+OEjxJjZsy2ONkubgLCSPDLrCZ3bGRlgqG3VS992pWYAPGwktMcGrI3BOPI7Mww==;EYrG0QIRCrZPfJsntwgliQ=="
 ---
 

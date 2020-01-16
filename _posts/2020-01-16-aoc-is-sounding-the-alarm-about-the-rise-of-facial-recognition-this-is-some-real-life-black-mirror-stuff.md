@@ -1,0 +1,69 @@
+---
+category: news
+title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+publishedDateTime: 2020-01-16T01:11:00Z
+sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/
+ampUrl: https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+type: article
+quality: 70
+heat: 100
+published: true
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Computer Vision
+
+images:
+  - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
+    width: 750
+    height: 563
+    title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+
+related:
+  - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
+    excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
+    publishedDateTime: 2020-01-16T01:04:00Z
+    sourceUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428
+    ampUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
+    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 51
+    images:
+      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
+        width: 1200
+        height: 630
+  - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+    excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+    publishedDateTime: 2020-01-15T16:41:00Z
+    sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "At House Committee Hearing, SIA Shares How Effective and Responsible Use of Facial Recognition Makes the Nation Safer"
+    excerpt: "The Security Industry Association (SIA), the leading trade association representing more than 1,000 companies and organizations developing and delivering security solutions, testified today before the House of Representatives Committee on Oversight and Reform."
+    publishedDateTime: 2020-01-16T01:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/house-committee-hearing-sia-shares-202000953.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+
+secured: "DC1oSPY8a9+GCWQk/IJ5J18W0osXSj16K0mZVoWEPqQhTAEdt3eQv4CmF79kKYfgC7zDcXNQnFqHW+eplK6oKoIGFNSHw4UuZQXGg7ZcNoO4G5Mv2TAi/knGXLKTMncGvaReON2OD4sY0vAZE0nQSGwAOoHXpwXMvrNrHe5CQO9jSIj+bmNFGVPCEU6q6Um90syU1r8cKnP3kiT1hOsXuEf/t83d3ecyQ7fAYsCooVpABSIRSXlqBaYPxraNQecfCxXUrZjSlKvx6BD373ZyO89DGzbi5VxRU/AdsU9s4Us=;pZJJMT/4HaPkr++WGA90ag=="
+---
+

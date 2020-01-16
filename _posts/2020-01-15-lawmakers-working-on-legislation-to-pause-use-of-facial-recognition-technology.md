@@ -321,6 +321,17 @@ related:
       - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
         width: 635
         height: 423
+  - title: "A middle school’s facial recognition database exposes student data"
+    excerpt: "GDI Foundation security researcher Victor Gevers uncovered an unsecured facial recognition database in China belonging to Ruoergai Middle School in Sichuan province. It was left open to the internet, with no firewall or authentication methods protecting it, according to Gevers. The database contained high-resolution pictures used to train the ..."
+    publishedDateTime: 2020-01-16T02:07:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
   - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
     excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are \"typical recognisers\", and at the top there is a small number of people who excel at recognising faces—super-recognisers. Since 2009, researchers have ..."
     publishedDateTime: 2020-01-13T12:59:00Z
@@ -377,6 +388,6 @@ related:
       domain: washingtonpost.com
     quality: 3
 
-secured: "W9kw2hQbiVPkVh1/88gBrBn3o9jbtsDfTLUPLkaUFPBWfZLqaRwjck8/pinVNiCAH9xI7MA1d+GmcUadUsWyzg2jxxGDh0s4gakLsZJ338J0g9eUdoEqcEK6O6yPM10UJC4BFgSwa01hPjYr8JLXCVKFIVBfhFxrmbABFBugURoChp2On21Y4IKSWA6KpBTHPCBzLQknaW1UOrytUiTnZoe+0V3ZW9uUdk1Ug23HDUaKvEq43oFHEgPjgFHAwSbZlDYyF+M93kPE1035fhKsMUf1XoN1iaHYo6Lw0E/3DUU=;0/DB5TRTEi+HClWgDNRGsA=="
+secured: "eUgVz0KEZbA1wW1QCYEyBOF3yYvhPfYtDSEjlKIP8mRdtkeLmynQG0Zm8CuTWHMxNbUmJ9xO5KOPhWam9KvVQSFINP6lUNg1miPFPxV2greo91ijpdDW+AGKYoMC6rJ9CWAybePGExDP3c4xGzPn1GjFV9R8w8yCjrJNby+pElfxXuXjN9eEsWumtCLWJRSP8BN/0wwvxDb+kKr7fZykfPZwJAtTa7W/wfNliWl9rYjG+BKdfBrlkNXzWE+3l0fV4t8r1ia/Jov4/w/YPYxiBuhtVozqeoALwdxB+HM1tASt7I4U6kURxVvpz/n+7PnmSNFXR2B8EwwDRxSvrhid/qj8/SqmkOlWttxxIqMWgVS5SSmYUUX/rTDVpPLmADBXnzCNJBqdEgKZF00cSBWulUdeKalj0kUT+aemUFGCaV0tPTuEDgFEMliYqKNbHPqF/CEmIk6yqUUbdvYqBFaO6Q==;TNl+X/D5QUTMetze1td4WQ=="
 ---
 

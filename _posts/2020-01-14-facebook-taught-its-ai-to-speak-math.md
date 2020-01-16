@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Facebook taught its AI to speak math"
 
 related:
+  - title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
+    excerpt: "Similar to diagramming a sentence, the program turns equations into a tree that can be read by a computer like any other language. There’s already an extensive amount of research in machine translation, so the Facebook AI team simply used a popular translation model to map problems to solutions. “Our solution was an entirely new approach ..."
+    publishedDateTime: 2020-01-15T19:24:00Z
+    sourceUrl: https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+    ampUrl: https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 73
+    images:
+      - url: https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*
+        width: 640
+        height: 358
   - title: "Facebook taught its AI to speak math"
     excerpt: "Facebook managed this by not treating the equation like a math problem but rather like a language problem. Specifically the research team approached the issue using neural machine translation (NMT). In short, they taught an AI to speak math. The result was a system capable of solving equations in a fraction of the time that algebra-based ..."
     publishedDateTime: 2020-01-15T00:03:00Z

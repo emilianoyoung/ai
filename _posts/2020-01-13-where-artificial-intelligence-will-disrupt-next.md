@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-i
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/amp/
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 711
     height: 535
     title: "Where Artificial Intelligence Will Disrupt Next"
+
+related:
+  - title: "Apple snaps up artificial-intelligence startup Xnor.ai for about $200 million: reports"
+    excerpt: "Apple Inc. has acquired artificial-intelligence startup Xnor.ai for a price near $200 million, according to reports Wednesday. The acquisition, which"
+    publishedDateTime: 2020-01-16T01:19:00Z
+    sourceUrl: https://www.marketwatch.com/story/apple-snaps-up-artificial-intelligence-startup-xnorai-for-about-200-million-reports-2020-01-15?link=MW_home_latest_news
+    ampUrl: https://www.marketwatch.com/amp/story/guid/7DE98E79-29A9-43A8-A665-C51489BC052E
+    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/7DE98E79-29A9-43A8-A665-C51489BC052E
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
 
 secured: "VKt1aaG4nX7MFsp1HBee6Q6B4h62YXGqNIbmS0NHx5WrLvKuZGfvnu9rKW3ORz0Lg/rnUZNgEwdJEBy2IQu7RD42Ogqycarcwb6rYPMaGAxcQbh5j95L08AeX/uk5CBv3lY6zqsWD8NHtDpK0S4iP/bbNQZQ5BmDez9R40xxW3PcGu1ITWT6Lg/LW9+Jsz3WA26mWrJTTJnjJLRV9otmt0zvHFbyqLbDP4plcM75Py/Uc8HkyGXjD6CNM7ubY61FM7aC6t4dDE4jJPN3MbolSbY0HRu7OyL2dXmGiTsopovEXjPD3jDEWVs18qyewgB/vOXndyz3M72Qfsh33AyerPPvPYFiUgilsNhyLtqT7udVxGR9ZHqbitnp/dmQq5V+W3C2xNFqOJGsRu/dFWioio7WQxNY4tPNO3UHzNkTDCeiqNHy2CU/uezS5CLHag+lzwAPDmHX4+HOT+DSGeVU1g==;YmVxAmnQ3YzkeGZBNtYGMw=="
 ---

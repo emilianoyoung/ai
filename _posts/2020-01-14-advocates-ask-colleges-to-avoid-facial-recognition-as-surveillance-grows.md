@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T21:24:00Z
 sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
 type: article
 quality: 168
-heat: 428
+heat: 438
 published: true
 
 provider:
@@ -312,6 +312,17 @@ related:
       - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
         width: 635
         height: 423
+  - title: "A middle school’s facial recognition database exposes student data"
+    excerpt: "GDI Foundation security researcher Victor Gevers uncovered an unsecured facial recognition database in China belonging to Ruoergai Middle School in Sichuan province. It was left open to the internet, with no firewall or authentication methods protecting it, according to Gevers. The database contained high-resolution pictures used to train the ..."
+    publishedDateTime: 2020-01-16T02:07:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
   - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
     excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are \"typical recognisers\", and at the top there is a small number of people who excel at recognising faces—super-recognisers. Since 2009, researchers have ..."
     publishedDateTime: 2020-01-13T12:59:00Z

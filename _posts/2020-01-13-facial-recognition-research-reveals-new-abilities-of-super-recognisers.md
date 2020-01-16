@@ -317,6 +317,17 @@ related:
       - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
         width: 635
         height: 423
+  - title: "A middle school’s facial recognition database exposes student data"
+    excerpt: "GDI Foundation security researcher Victor Gevers uncovered an unsecured facial recognition database in China belonging to Ruoergai Middle School in Sichuan province. It was left open to the internet, with no firewall or authentication methods protecting it, according to Gevers. The database contained high-resolution pictures used to train the ..."
+    publishedDateTime: 2020-01-16T02:07:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046275/middle-schools-facial-recognition-database-exposes-student-data
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
   - title: "French government wants to test facial recognition in video surveillance"
     excerpt: "French officials say they want to establish a legal framework for developing facial recognition for security and surveillance, extending concerns about the rapid spread of the new technology. Facial recognition technology, a form of artificial intelligence that can identify a person by analysing a digital image of their face, is already ..."
     publishedDateTime: 2020-01-14T17:45:00Z

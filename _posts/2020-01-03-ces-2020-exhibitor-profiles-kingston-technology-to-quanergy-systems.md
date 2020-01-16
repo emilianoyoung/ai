@@ -1,22 +1,22 @@
 ---
 category: news
 title: "CES 2020 Exhibitor Profiles: Kingston Technology to Quanergy Systems"
-excerpt: "OpenR8 AI software is a no-code web user interface for AI algorithms which can make AI much easier. It’s also portable green software with Python, CUDA, cuDNN, TensorFlow, Keras, PyTorch, OpenVINO, TensorRT, Caffe, Spyder, Jupyter Notebook, Jupyter Lab, pip, conda, etc. LeddarTech provides the most versatile and scalable auto and mobility ..."
-publishedDateTime: 2020-01-03T18:36:00Z
-sourceUrl: https://www.financialbuzz.com/ces-2020-exhibitor-profiles-kingston-technology-to-quanergy-systems/
+excerpt: "OpenR8 AI software is a no-code web user interface for AI algorithms which can make AI much easier. It's also portable green software with Python, CUDA, cuDNN, TensorFlow, Keras, PyTorch, OpenVINO, TensorRT, Caffe, Spyder, Jupyter Notebook, Jupyter Lab, pip, conda, etc. LeddarTech provides the most versatile and scalable auto and mobility LiDAR ..."
+publishedDateTime: 2020-01-03T22:21:00Z
+sourceUrl: https://www.oilandgas360.com/ces-2020-exhibitor-profiles-kingston-technology-to-quanergy-systems/
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Range
+  domain: oilandgas360.com
 
 topics:
   - AI
   - Google AI
 
-secured: "JkRusLLwml1r2RiDyhdUKtPvzScEzMo2k5Twc2aWXVGpg2iLbCANsjdykprUXVTKNML1c55rQNGdEsdY8E+Sf8TjGw5HcBXRm8+PiNxiKKeD9dF8oQTlHWMPtswUPD2cCbdsgP0LMHRtQRY6tyzVxNkjAhsJE052ZZEuk5dlm5xRfCStcjcPsrLhsX/ajbpqaJf6RfiG26HVX4281Ht7ibM4bHAd8flGAzvieDgOEnMPXB8/cZ0ovSJLNE/v0P1lqoZvCMXbI5xUNojcu5Q16S6V5df8EjbYvbIyhOTjloU1dDa+YKtKktEUHNuOxo0lrHo7xEARlGAumIblI95UPRu2F9Fx/afHJnDjVV/eCSe1XBbBmKVYF3GL2xDkgeubWX7LUQ+KZuAKJJQJaXGY3rniESUaXmuSbRZr8Czy2vw6JBOJ1CMmoA+VgPlQWTm8X6rVI7BnYHau3NJtjLDxHA==;BE/DMt8KX5z3YhhbB5he1w=="
+secured: "bzyIywXfQlaz9aN9AqsYwI4cHtZQ5N3I+t1sClOaChkS5/r7axWw8UA3HKaHLrDJp8xcsY/dFXvrSQi7X7hleF6KNfLXJhTQH+vUkoueQ3v20Ij1ZM1j3mWWwkRJPOhnt5qL6kofZHi4ENE1cXU7dUggtg07vtq60bTXVcqH3rL2VHI0Cdo3moZjgtcIThGbqBeL5Ihnx5pNq2XjYhNDMhcfcGsWgd7VKTi3M5T8TTYsNXj8RzXdShOyUu8WrR9YbnTGevx0CtYgUTAuMC+AJrz9u/ALF9tpF8a+j2z+0o0=;RBSMBXNEoOYaJyBn9mCwfA=="
 ---
 

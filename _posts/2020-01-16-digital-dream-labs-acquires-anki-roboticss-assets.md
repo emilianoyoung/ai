@@ -8,8 +8,8 @@ ampUrl: https://www.bizjournals.com/pittsburgh/news/2020/01/15/digital-dream-lab
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/15/digital-dream-labs-acquires-anki-roboticss-assets.amp.html
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Business Journals
@@ -21,6 +21,17 @@ topics:
 
 related:
   - title: "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets"
+    excerpt: "Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any liabilities, effective immediately."
+    publishedDateTime: 2020-01-16T02:10:00Z
+    sourceUrl: https://finance.yahoo.com/news/digital-dream-labs-acquires-anki-194600689.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/digital-dream-labs-acquires-anki-194600689.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/digital-dream-labs-acquires-anki-194600689.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 67
+  - title: "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets"
     excerpt: "/PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any"
     publishedDateTime: 2020-01-15T18:46:00Z
     sourceUrl: https://www.prnewswire.com/news-releases/digital-dream-labs-acquires-anki-robotics--artificial-intelligence-assets-300987766.html
@@ -29,15 +40,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 47
-  - title: "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets"
-    excerpt: "PITTSBURGH, Jan. 15, 2020 /PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any liabilities, effective immediately. \"The opportunity to acquire exclusive ownership of Cozmo, Vector, and Overdrive fit perfectly into our mission and purpose driven culture,\" says ..."
-    publishedDateTime: 2020-01-16T01:47:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-digital-dream-labs-acquires-anki-robotics-artificial-intelligence-/2020/01/15/9082280.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "7hi1Rz0VRGV2+NaHPexBsijV5kvelPfLuszuU+9ShFUSeQlP7cj/ieGcNSINCspXpDKjoeskI927UuDWlww9UTJDZPqT2uLfAN0pvLWMRnBu4AQtcZlZ5+9AkETzHew+j01b9nRL/tr4Km9HvOmYqISUXJmO6YkOOuMcoQq7R7NQrVkpsZEjM/15o8Dq5zqYQIFrl0Ltd7VmKussz/uQjngRyOSZPQ/9VCiyI02EJGUGsh2O1tuE5UBLiGZkLmRcsTQxuxufl4sfzhv982RF8w0CXbp0WTbTSPwlVSL633I=;aevk1wv0apYKSyMwPh9M4w=="
 ---
