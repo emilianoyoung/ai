@@ -8,7 +8,7 @@ ampUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the
 cdnAmpUrl: https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -131,6 +131,19 @@ related:
       - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
         width: 900
         height: 300
+  - title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
+    excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
+    publishedDateTime: 2020-01-16T18:19:00Z
+    sourceUrl: https://www.inforum.com/opinion/4868033-Plain-Talk-Podcast-Congressman-Armstrong-talks-impeachment-trade-facial-recognition-and-the-Astros-cheating-scandal
+    type: article
+    provider:
+      name: INFORUM
+      domain: inforum.com
+    quality: 30
+    images:
+      - url: https://www.thedickinsonpress.com/incoming/4789639-crnfqj-ARMSTRONG1.jpg/alternates/BASE_LANDSCAPE/ARMSTRONG1.jpg
+        width: 1140
+        height: 712
   - title: "Sensory Does Voice Recognition Without the ‘Net"
     excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
     publishedDateTime: 2020-01-13T17:25:00Z

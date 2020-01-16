@@ -276,6 +276,19 @@ related:
       - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
         width: 1000
         height: 563
+  - title: "CyberLink and VIVOTEK Announce Strategic Partnership Combining Facial Recognition and IP Surveillance Solutions"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced a strategic partnership with VIVOTEK (3454.TW), the global leading IP surveillance solution provider, adding CyberLink's FaceMe® AI facial recognition engine to VIVOTEK's IP surveillance solutions. The new collaboration will be showcased in VIVOTEK's ..."
+    publishedDateTime: 2020-01-16T18:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-cyberlink-vivotek-announce-strategic-partnership-combining-facial-recognition-/2020/01/16/9082949.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
   - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
     excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
     publishedDateTime: 2020-01-15T23:00:00Z
@@ -297,6 +310,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "4rHBi5lnfZFQyZdzGqqd9SJSOTewJAA3Y1GRFEl4CXHvtXjpHv4vU3AE681fuFak6nllvpHWin1E8a4+PcGZtQvJxZxymQDJiNrhvnlYgbYuPfWsvXoEPIcZZDBXqe5Dyg6wjJHi2DE5cjgzqdz5VaEwm+Q7CcUpfEI1zId/eymW/ThFheINkq/i3SGGIwt1OjYolNAg05tLICBGAlIi4zKMJaUPEegl4ZQmKDMLoE9hHIAIDzrK0DyF0GXyY6M1MRC4ESRHYEhPuIEHL5s8mqhMxpGKzyMNeOhCpcpCmAI=;GgZRi33UIXEn6TPwIKSWVA=="
+secured: "iRzKMTKPYQJUzfCMRDZuA8QMIyK7H7CfIGjyF1F+OZd+PyF7E6OZGULg91vrBrnL06WejDtEibcZQwZmARKIpEedYlRU/G+U7V6tgfC98ByDmUf0qXemiGLXWHbo9RU2hK3doQyh3n3C9VzUdKhTYtSeI4ubCV2HTn/V2xihxllyvU5EqRjyNddd8AZy5Wy2OJDF9y00A0pgV7dF6XlkdZjbZx0/aJs3EuVJfhrhHAVlb0F1xQ9Kwc90bG3ZsuL8b0XsOQ717yhDmts1oA59yFomyVaJJA1iu+Bo5CDouOJNvxLj7xL9WNWTCjyskvG6evhHXuUvsDbw0oZWKJI5i2fBmVnZkUdtznjhJka9/x/KrbpKqPY25cQ0NEa/yIq5cLE2sZ7QvSbj8UlMUDetz7byuRXypzNrTen/YEqlBM19ndl78qKGmew5s9HYlazSB9Hls9sELaibIdML/fcltw==;vmb7fnX85eku0T4QU5kzYg=="
 ---
 

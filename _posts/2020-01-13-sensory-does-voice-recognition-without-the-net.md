@@ -140,6 +140,19 @@ related:
       - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
         width: 900
         height: 300
+  - title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
+    excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
+    publishedDateTime: 2020-01-16T18:19:00Z
+    sourceUrl: https://www.inforum.com/opinion/4868033-Plain-Talk-Podcast-Congressman-Armstrong-talks-impeachment-trade-facial-recognition-and-the-Astros-cheating-scandal
+    type: article
+    provider:
+      name: INFORUM
+      domain: inforum.com
+    quality: 30
+    images:
+      - url: https://www.thedickinsonpress.com/incoming/4789639-crnfqj-ARMSTRONG1.jpg/alternates/BASE_LANDSCAPE/ARMSTRONG1.jpg
+        width: 1140
+        height: 712
 
 secured: "+lfVgiqVv8fVyGPIqpgzfJfQGF6I5LVlucjEgUSvdye+fTcGVytIrih+1VICdMzv3oKSU3fz05niD7vT2VM3N2zL5mwXk0Q9LVlcGMiOS6l2mT8ZdwC59ais01ybRskqsi4ACBFcGl+/74pH1WY21EZ/uA3gwh3KPGJa9gShQZO7YWAghi4QOsNbhYnPTky3KiGufHvgbUW+QX8j6Gl62Jf9z/si+YcEiFgjmFyhPe9Tr/pM34H7P7CXv6Z3ziz7bq4B8KSYENj2Z/VcCUNij7pVJlciK4BvkXwdkuTJKyHCyrHlH+U96RT0SUV6D+L0DW9rEnvgr2CfNCdHMyTKgQJ2QXOZx+0YuPz7QgQ/LuhN1tI6n+zqJ4L3exYXnIPqYU/a7yEnHwZKavPRcmx3nYtiuVckC5CtZDsrVcTppFhZeR8io89aYXna/ryh/OLuHpMXGahcO69uC+ShVhp7pw==;ac1UxbLVNVuLerix+4ZMUw=="
 ---

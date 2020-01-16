@@ -28,19 +28,21 @@ images:
     title: "What Are The Top 5 Fintech Trends Everyone Should Be Watching In 2020?"
 
 related:
-  - title: "Artificial Intelligence Stocks to Watch in 2020"
-    excerpt: "The artificial intelligence market was valued at $23.94 billion in 2018 ... But it is now far from just a gaming company.It’s graphics processing unit (GPU) chip technology powers much of the gaming industry but also self-driving cars, cloud computing, big data, and more. These GPU chips are able to process massive amounts of data."
-    publishedDateTime: 2020-01-12T14:08:00Z
-    sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
+  - title: "How AI Technology Will Change The Way We Treat Advertising In 2020"
+    excerpt: "Very soon, marketing personalization strategies will largely depend on smart automation technologies to make each customer part of a fascinating branding experience."
+    publishedDateTime: 2020-01-16T18:27:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/
     type: article
     provider:
-      name: ABC7
-      domain: abc-7.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://CNTSYNCONT.images.worldnow.com/images/19095329_G.jpg
-        width: 940
-        height: 627
+      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/973718316/960x0.jpg?fit=scale
+        width: 711
+        height: 474
   - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
     excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
     publishedDateTime: 2020-01-14T23:15:00Z

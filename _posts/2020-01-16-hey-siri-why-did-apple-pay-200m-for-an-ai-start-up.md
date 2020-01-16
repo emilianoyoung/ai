@@ -100,6 +100,36 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Seattle AI startup drew interest from Amazon, Microsoft, Intel before selling to Apple"
+    excerpt: "(GeekWire Photo / Taylor Soper) Apple wasn’t the only tech giant eyeing Xnor.ai. GeekWire broke the news on Wednesday that Apple acquired Seattle startup Xnor.ai, paying around $200 million for the three-year-old company that specializes in low-power, edge-based artificial intelligence tools. Exclusive: Apple acquires Xnor.ai, edge AI spin ..."
+    publishedDateTime: 2020-01-16T18:37:00Z
+    sourceUrl: https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/
+    ampUrl: https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 79
+    images:
+      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-xnor-door-630x473.jpg
+        width: 630
+        height: 473
+  - title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
+    publishedDateTime: 2020-01-16T14:58:00Z
+    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1/
+    ampUrl: https://amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: https://image.businessinsider.com/5ae36d7919ee864e008b4618?width=750&format=jpeg&auto=webp
+        width: 750
+        height: 563
   - title: "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range"
     excerpt: "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ..."
     publishedDateTime: 2020-01-16T00:43:00Z
@@ -173,6 +203,21 @@ related:
       - url: https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg
         width: 720
         height: 406
+  - title: "Apple acquires Xnor.ai in bid to out-AI Google"
+    excerpt: "Xnor.ai's technology should give Apple edge computing capabilities that align with the company’s recent assertions about protecting user data — a controversy that convinced Apple to attend CES after a 28-year hiatus. And while the iPhone's A12 Bionic chip supports machine learning to a degree, the Xnor.ai purchase suggests that Apple's ..."
+    publishedDateTime: 2020-01-16T18:30:00Z
+    sourceUrl: https://www.tomsguide.com/news/apple-acquires-xnorai-in-bid-to-out-ai-google
+    ampUrl: https://www.tomsguide.com/amp/news/apple-acquires-xnorai-in-bid-to-out-ai-google
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/apple-acquires-xnorai-in-bid-to-out-ai-google
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/tdSCaighy2tWhggyXG2hPR-1200-80.jpg
+        width: 1200
+        height: 659
   - title: "Apple acquires AI start-up for $200M"
     excerpt: "Apple acquired a US-based AI technology start-up in what appears to be its latest bid to boost device performance and privacy, Bloomberg reported. The company reportedly agreed a $200 million purchase price for Xnor.ai, which specialises in building tools enabling AI algorithms to be run on devices rather than the cloud or remote data centres."
     publishedDateTime: 2020-01-16T12:51:00Z
@@ -218,19 +263,6 @@ related:
       - url: https://images.axios.com/PCebkBLlBZYdriB-ovRaQrJP98Q=/198x0:2498x1294/1920x1080/2020/01/15/1579117038960.png
         width: 1920
         height: 1080
-  - title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
-    publishedDateTime: 2020-01-16T14:58:00Z
-    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: https://image.businessinsider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Apple acquires low-power AI startup behind Wyze on-device person detection for $200M"
     excerpt: "Apple has made another acquisition in the artificial intelligence industry. GeekWire reports today that Apple has acquired Xnor․ai, a Seattle-based startup that focuses on low-power artificial intelligence technology. Xnor․ai notably provided the AI behind smart camera company Wyze’s on-device people detection feature; the acquisition by ..."
     publishedDateTime: 2020-01-16T01:07:00Z
@@ -342,6 +374,6 @@ related:
         width: 600
         height: 330
 
-secured: "9kpFlu0Cmrz0S9tH2sYQGtmgIeFE1X1Bo38wtUNz0anL4aJ84J+4eGEIolw/RQMrXhDi1IDf6jRza2PmvKONpQVCTGslBx0u4xtWGNZYKx/EHWRaIWHvzyU38hdV55H0Z+JZBnhF6wO1F3BSvjnd26ioIhy5E1if1CglJYUIl8C/hQdHDwp/FJs/qV2EajQCboRHT0asvNWL2BOgmAVmJj2gjUjTkPOwMf/yuxptXqWuz796tihAKEmm/3TS7yP2TuL3GuV3y8ov0fRXdBclKyIT79/yWWZiZii1nel7x2k=;wjipwheZ8rGvPRtvglon5w=="
+secured: "sfpPMBNWuDPa7NlFxE13zydATP/fVOvQ6QLlAq9ULWq665l6vXuToDYOuQPaGoglHWsL+4pCEy+gtFMQC+o690LAp66vHBPe1ECGOBm6Hp9GD584klOB7aH6Z/SfC0HYmyDd5UWCqq0wIrjm2DOyZqVrZSK+bkzaBaNbun9XlF852L/DhWFUlOFFXQyIDdMD5mHcRgh9LGNXRGmt1Myh9tM/msTKmQE1XL7uMVWTipnK3H7gbcNmgdFuT7RI4B09Rowvh9gImOuaWYbRPpTT0XhT1rpgwK9IWLD/OSwDblI=;D/URyiOT1Vpn4BGdu4vNUw=="
 ---
 

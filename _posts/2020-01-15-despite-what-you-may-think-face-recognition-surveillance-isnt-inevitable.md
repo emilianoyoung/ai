@@ -283,6 +283,19 @@ related:
       - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
         width: 1000
         height: 563
+  - title: "CyberLink and VIVOTEK Announce Strategic Partnership Combining Facial Recognition and IP Surveillance Solutions"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced a strategic partnership with VIVOTEK (3454.TW), the global leading IP surveillance solution provider, adding CyberLink's FaceMe® AI facial recognition engine to VIVOTEK's IP surveillance solutions. The new collaboration will be showcased in VIVOTEK's ..."
+    publishedDateTime: 2020-01-16T18:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-cyberlink-vivotek-announce-strategic-partnership-combining-facial-recognition-/2020/01/16/9082949.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
   - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
     excerpt: "They’re people with speech differences and they’re helping improve the technology of voice recognition, CBS2’s Carolyn Gusoff reported Tuesday. Voice recognition saves time and enriches life. But what if your smart device isn’t smart enough to recognize you? “They don’t answer what I say to Siri,” Jake Lunney said, adding when ..."
     publishedDateTime: 2020-01-15T00:01:00Z
