@@ -23,6 +23,6 @@ images:
     height: 576
     title: "Evolution of circuits for machine learning"
 
-secured: "NLgr2wZ4lgB5mJDB5gfsBxzjqW2BWCwW+QGINBUYA9Agr2DC8l667MZbEwrgbKoNZhkIHYxIQ8TMMNihHkaAITRMubE6TfKyatdkGgQSGL6NnvKpX/L82mj86s8/wwA7+oKtO65TRC7+aWqKoA/E+hP2IZ3LJxFOiK4RwG1GjBfbAJpRGJaj66WwM3HmBxRRESeaDr4ftRcfJ6crBdA717hIEw+7+Y3hFQeuuWVJw3nXeeyL7uuPQtBECxG350fX94UtmLUdLIUxpYTK++ZyXjXI+bJn40Ijqa2U7T7u0Wk=;goFo7v79lXrI0yfHOnjMvw=="
+secured: "lby0qHkp7VHwkxuP1jE3UJNkj7e/b4cPuLkfzYRc6lcy443jQVzso6hPnxBrcJLfkBsPp4yrR3QAq3k9BBMjUcboliAj+PSaKjUGuunnZgOjZaaGfmzAz29xJwCI9/+CJb+z/leEdwQyR1FD3wXv6GzKftgYMlCi1sGHrR1IDUOg5nYv1m2HAvAOS4Tc9V2zACRfdK+oo+NSy+PqL/SHJ0Tr7CosUAMOZwTUe+oaw6lfw4pR+PzaML4PIU1XPcbMPglBfIGz9A8YRie9+5Cakn/jvAV0zQcx8JUX8akEBrKh0y/vXhFyqQJxubmUR+xh4fMfd2BiMvM0J5Um4FScxnUirQIJUPCyFzj759gBNMNEWueUKrloAzVPvjLxkivxbZpxFvKG9hJtpm+zHakMMRKhWt/EoA7lnU03SurTapruK//v1do8/7hTW6Fu+OHY1pyg4+CU/6IBH1YoArHtOA==;YtSJBlKsEzG1i5TlZT76bw=="
 ---
 

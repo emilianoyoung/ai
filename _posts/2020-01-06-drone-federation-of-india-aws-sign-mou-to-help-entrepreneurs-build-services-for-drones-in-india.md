@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-servi
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 800
     height: 400
     title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
+
+related:
+  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
+    publishedDateTime: 2020-01-06T13:56:00Z
+    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
+    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
+        width: 600
+        height: 338
+  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
+    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
+    publishedDateTime: 2020-01-08T05:29:00Z
+    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 39
+    images:
+      - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
+        width: 599
+        height: 450
 
 secured: "fHKhut4F+Zrk3jv6MamHQdaCL0dmqKt48kgWBm6Wl2nswYBKu2UV51zdh1kn7NH3jNPIkxEm3FWuwtPgT0LCzkEFKRH7yhggvU+lfpQoWKKP4npk0IO7XTg/UZPxIYK080KXjhlGUn+SAIdXaD/ZD9f9EuBUX4jcTqE++UdieJWavHSiACAyTi+XFVP/FmHqxzIeZQePgS2J5TdRPocHsNR0n0UmS4rO+2/Yrgkj4/YLiW0AM53oiVyz47NXdY3yQYvSVL0V3n8wA1uW+L2re9ngUCAMUT2M4BlxfeuaA4sZ0OizANUlmXpX7k35JoNNCDTHK8urkrIg+MVNHutZk8zUvqeHidbrQuchbw0qN9aCesGG2Xeai9tYNaQOOoIe5OoXb4TOlSlTF2yWq6LBk09xjGFUAXgXXhS2kFKssT8azV2pLIszatmOJgSycROhsoh9UpJ8uUAMiEztyQSZwg==;IadGjAdpvH9lgCCBeygDjQ=="
 ---

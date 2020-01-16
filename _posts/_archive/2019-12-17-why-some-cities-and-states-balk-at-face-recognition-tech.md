@@ -35,22 +35,7 @@ related:
       - url: https://www.gannett-cdn.com/presto/2019/11/19/USAT/4673ca8f-44ed-4dcf-99a0-2c54536bf6fc-AFP_AFP_1LW6JF.JPG?crop=3104,2328,x175,y0&quality=50&width=640
         width: 640
         height: 480
-  - title: "Is facial-recognition tech too young to trust? Some governments think so"
-    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the ..."
-    publishedDateTime: 2019-12-21T09:22:00Z
-    sourceUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so
-    ampUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so?template=ampart
-    cdnAmpUrl: https://www-providencejournal-com.cdn.ampproject.org/c/s/www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so?template=ampart
-    type: article
-    provider:
-      name: The Providence Journal
-      domain: providencejournal.com
-    quality: 43
-    images:
-      - url: https://www.providencejournal.com/apps/pbcsi.dll/bilde?Site=PJ&Date=20191221&Category=NEWS&ArtNo=191229992&Ref=AR
-        width: 2351
-        height: 1457
 
-secured: "lN2YjKKG58CKpzCeqJI9f/HufETWUxziGf9zFh7fI2Y4YSOLJ5Kjk4cCthk23lA0tTfLsuxg+y4P+2f2T+h/1qBD5fteNbG9Wr2n58gPGzx5GTOXPBS/QhzUgyg6UTZp9kuRokTidVvaQzaEhz51Jxw+19vhMIjuyP+EFIhxFLru32TKIasdSmuzPjSpJNRJE1ZYQfuSkkD7gSudYD/KRVAAufVWrBB5B4PCfdzCjRUkNKObFl7yQIeZfgqa5vBJRIWRM+Wd7mkyIrfgtnxjKaFlUJdkhbRX8tSnhdIFo1Y=;JJu68AXkbSCcoMc5yO9aUg=="
+secured: "t+R3rlDIF0pBIjEwAXnLE4vlDRqJ59VIhZ/qeixf8+CFdXk16ylKXIvDAfws+0LwZxPoOvoJ/6+yFH2ZeFip0XlPkQzDaB+fB22LX1rC76b4m1AyH7+O2nZqf38B08YGizyab9jZdd9r8L8dS6a7897vUFT0llT/2PhnyJ87pXEvxhjZkwEtt8CGWVLf8dUHts32zYR0E/JEff5rnvbbjHAOqjX46WgcKC+Mr2+8xtfLqRs/ZO612RGvd3LMrrTH7AFbL9KOwBTo5dem/V49Q28zbn4grPQzhTZxXgPqe1k=;Dog7Jrf15JltAI/RcysnKg=="
 ---
 

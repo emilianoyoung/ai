@@ -3,7 +3,7 @@ category: news
 title: "The battle against facial recognition goes to college"
 excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
 publishedDateTime: 2020-01-14T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
+sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
 type: article
 quality: 54
 heat: -1
@@ -277,6 +277,6 @@ related:
         width: 1484
         height: 988
 
-secured: "B7IkqOu5+6brCcVEPzyu4LxwaJdkItIv0QBC7nSiWM7WO61942nR5X12RBNp/UcBi1aopaLJzmVsrnaLaReZgb1ViBtypmQ/u13bwW4AHtPQsssFzv62tv3vElQMyhw64Due5VzKy8r16TZaEGkeXepfCQ4RC95imSAUhM5fv8UaWnXM6x8l0tgRW6FyoDAJXj6p4KfazNektI0TXTjGm29X8Dgm/ODvMed471viIIP5RpUELJmDEsZAUS1G4cRyx1APv72Dw7QxI2u6hJr74Y2OJiGXF5kuWb4Lojnk81w=;n3Db07zbWRRVsXCUJN5NxQ=="
+secured: "wjq9HEKVaxyI2oH3e/nuNk+mpBXdAv5+bTqcQrbQWqTmIlE5Tf/NqE6twXvCSoVmM/iMuW6nJp6ANILYHZUMlPhyrIdCkeOJwNv4o66iDts5nqPPFpe22ExbkozsmJucj6pBjBoaIiUiwccCq6UDAzDRJ0kay6Avr9viRuGhJlOqzXMYEXI1iJlilPlvEBVj/WGu2rq3m815jdUlnacZdX+Cfz9RTni9jOjS9sfQg3y8csQDdnDnYSzfxlXweBZSlylOLjjoGXI5MHbq7PsmyWCnu/cOxpaNExsY7+7F3GE=;IXF8Pw9dkL4bEsuS9zzodQ=="
 ---
 

@@ -33,6 +33,15 @@ related:
       - url: https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg
         width: 1200
         height: 675
+  - title: "Synaptics Announces Industry-First Edge Computing Video SoCs with Secure AI Framework at CES 2020"
+    excerpt: "New Multimodal Platform Purpose Built with Perceptive Intelligence for Applications Including Smart Displays, Smart Cameras, Video Soundbars, Media Streamers"
+    publishedDateTime: 2020-01-06T13:03:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966410/0/en/Synaptics-Announces-Industry-First-Edge-Computing-Video-SoCs-with-Secure-AI-Framework-at-CES-2020.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 6
 
 secured: "wQNtGiwA/uy3kJwWnT5xU+8vOqGPjKQGQ7j6qHHrq7PNI/8fSH6zsJixiEQlYWLa8vvPJ5DnHA6sGy53mqKElFF6Gd/cgwJ7ac9cyJF1AkVtlpQ5huaTBqZlKdX+qa5WR8QH5M2AQN8ZKvzyqSAc92iN+OJLXqJR5WVN8ae5KY1VD2hsvSZJG62IBTFZg/rC/N18oOR+ac8wT9OZ3QED6IaKlU+/GKTu2jk4jBrwjtnyeHEdcsjPweZx+TPIveUvLvphwSOBQ87dM5HixTAvfo8qAP22DY3qmCw3p3X9TmA=;Bkg88zmgD+FWqnyiED7ZTA=="
 ---

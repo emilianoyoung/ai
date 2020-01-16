@@ -158,6 +158,36 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg
         width: 796
         height: 482
+  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "Apple just can't get enough of AI startups, it seems. The tech giant has reportedly purchased a little known AI-company for around $200 million. According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with ..."
+    publishedDateTime: 2020-01-16T11:29:00Z
+    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    ampUrl: https://amp.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    cdnAmpUrl: https://amp-insider-com.cdn.ampproject.org/c/s/amp.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 64
+    images:
+      - url: https://image.insider.com/5ae3713a7708e950833d4608?width=750&format=jpeg&auto=webp
+        width: 750
+        height: 563
+  - title: "Apple buys edge-based AI startup Xnor.ai for $200mn: Report"
+    excerpt: "improving Siri and other AI and machine learning-based tasks Apple has acquired Xnor.ai, a Seattle based start-up specialised in low-power, edge-based artificial intelligence tools for around $200 million. “Apple buys smaller technology companies from time to time and we generally do not discuss our purpose or plans.” said Apple in a ..."
+    publishedDateTime: 2020-01-16T11:17:00Z
+    sourceUrl: https://www.thehindu.com/sci-tech/technology/gadgets/apple-buys-edge-based-ai-startup-xnorai-for-200mn-report/article30576553.ece
+    ampUrl: https://www.thehindu.com/sci-tech/technology/gadgets/apple-buys-edge-based-ai-startup-xnorai-for-200mn-report/article30576553.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/gadgets/apple-buys-edge-based-ai-startup-xnorai-for-200mn-report/article30576553.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: https://www.thehindu.com/sci-tech/technology/gadgets/gthvb5/article30576552.ece/ALTERNATES/LANDSCAPE_615/16NETAPPLE
+        width: 615
+        height: 384
   - title: "Apple confirms purchase of AI startup Xnor.ai"
     excerpt: "Apple confirmed to Axios it has purchased Xnor.ai, a Seattle-based startup that specializes in putting artificial intelligence on devices rather than via centralized servers. Why it matters: Doing AI work on devices is a key trend, especially for Apple ..."
     publishedDateTime: 2020-01-16T01:12:00Z
@@ -214,6 +244,17 @@ related:
       - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/Apple_logo.jpg
         width: 620
         height: 500
+  - title: "Apple buys edge-based AI startup Xnor.ai for $200 million: Report"
+    excerpt: "Apple has acquired Xnor.ai, a Seattle based startup specialised in low-power, edge-based artificial intelligence tools for around $200 million.IANS | January 16, 2020, 16:48 IST San Francisco: Apple has acquired Xnor.ai, a Seattle based startup specialised in low-power, edge-based artificial intelligence tools for around $200 million."
+    publishedDateTime: 2020-01-16T11:18:00Z
+    sourceUrl: https://telecom.economictimes.indiatimes.com/news/apple-buys-edge-based-ai-startup-xnor-ai-for-200-million-report/73299305
+    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/apple-buys-edge-based-ai-startup-xnor-ai-for-200-million-report/73299305
+    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/apple-buys-edge-based-ai-startup-xnor-ai-for-200-million-report/73299305
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
   - title: "Apple acquires edge AI startup for about $200M"
     excerpt: "Xnor's AI-enabled image recognition tools could be a natural fit in future iPhone models. Xnor was spun out from the startup incubator of A12, which was founded by late Microsoft co-founder Paul Allen. The startup had raised $14.6M in private funding."
     publishedDateTime: 2020-01-16T00:18:00Z
