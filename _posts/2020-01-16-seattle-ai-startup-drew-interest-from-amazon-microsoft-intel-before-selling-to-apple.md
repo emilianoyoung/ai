@@ -104,21 +104,6 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
-    publishedDateTime: 2020-01-16T14:58:00Z
-    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1/
-    ampUrl: https://amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: https://image.businessinsider.com/5ae36d7919ee864e008b4618?width=750&format=jpeg&auto=webp
-        width: 750
-        height: 563
   - title: "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range"
     excerpt: "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ..."
     publishedDateTime: 2020-01-16T00:43:00Z
@@ -252,6 +237,19 @@ related:
       - url: https://images.axios.com/PCebkBLlBZYdriB-ovRaQrJP98Q=/198x0:2498x1294/1920x1080/2020/01/15/1579117038960.png
         width: 1920
         height: 1080
+  - title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
+    publishedDateTime: 2020-01-16T14:58:00Z
+    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: https://image.businessinsider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
     excerpt: "Apple has paid almost $200m for an AI start up that specialises in bringing intelligence to “smart” devices, in one of the largest in a spate of acquisitions by the iPhone maker to make up for lost ground in a key technology. The company’s offer for Seattle-based Xnor beat out approaches from other big groups including Microsoft ..."
     publishedDateTime: 2020-01-16T01:22:00Z
@@ -378,6 +376,6 @@ related:
         width: 600
         height: 330
 
-secured: "yPOmLtIH9DY2GvnwU+Jjaq/XjhiVQ/sSo8/G9V2dVXGjqOFH9RsM6F2VX3EjtJRXLmv99Q9vuxGj/hQzkpLjrTk8aPlnSpnh/PnaNNxM5dulejVwxlKYSzjPJDOHUMzMZwHVZJj8MIvCFln+RD0MzxHIPsIPzkcJZWaOHq8CL7D7x1eRP85YJvmIORJUuzWKDDYG+qVBcb8LR6CKdLTRFs6zTLFDg5xu9zWkekbDWVEXxlbmvI3XVC9EQ+dfl4G35+66L0ib6dTCbrw/sY9qzKvWypfDZkb4aIhCmZYpQrk=;mthY0j1Ur3nPyimOChOd8g=="
+secured: "L5Nze4takuK3quhzI2tME36Z8jvJgNNjE3oBM/ishQA+ZVqeOkoeZNZCOv4PngU8gc90o+3S3APLzhAFFLk7oGJsXGqHye+cZGOsEZSfyjXpwC97J9qEVqFWU71px+TCECtNuiubrjOucyXZxDRlA9eiJXWZBth5GtuJ1PvhyOrTw6sW17GPyU268s5NdqAea3uWn1l97fCLYAqhJ00h42aXn8Ah/SZTuqY0QgRb1p7aNf6f/XNSTn1u50sHHQi3K9XGEkcRaIWdN3muki94FXQr6sZod6ob2NzZb4alhqWn7/iAY++fLyA/8g30HeIVdXBnjtP9YOAxKkq8t0n269OxNwVXrljvEoBRNLfgWig0OseYxoaFTOWbyiea3BDQLwhmpTxyf7Ahis4AzsbH1XYA/Tn+O3TErjBblPxvzs526KBkXq/Ej309+STiZDL+JAUnfxDbQW3dFFaK3QcMWQ==;izX1XzHIImeAw3bKFl86ow=="
 ---
 

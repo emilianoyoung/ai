@@ -41,6 +41,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Deep Learning Market 2020: Study By Evolving Industry Analysis & Forecast To 2025"
+    excerpt: "The deep learning market will gain momentum over the next six years with the increasing adoption of the technology across several industries including IT & telecom, retail, and hospitality to improve customer-centric services. The database of the customers is available to various platforms, which are used by the companies to extract valuable ..."
+    publishedDateTime: 2020-01-16T19:03:00Z
+    sourceUrl: https://www.openpr.com/news/1898619/deep-learning-market-2020-study-by-evolving-industry-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
 
 secured: "FH7LpyyUDdBL4/87APfS60HIqxTNNXZwlzcWLC7Md/a+w0yncGvmpjyXns0GV3RCLINuJeyc5w47n3HJ9QQ+LD3DdSYD/tmsr/Pgwv5NONf4mcti9ZGLK/ikRJQBtsSgYKiz433LncHsaWBlq1KhpNRHHuxtKT/6bXbvp/Ho6I/HpdjW72MUaEp5UCe8T+7nnHhs/57oBkhbhejynHc84QI1yW5pyhW7IlBtvyTHfaii4uLpJOn8zVY3SzTChm2NfFRuiX/A4yBcCuV/GNVrma3KLUeGPd6FSsn6jLkDkWM=;Wktuqrgl7GB7A3WwlQh3RA=="
 ---

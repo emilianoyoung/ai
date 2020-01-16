@@ -28,6 +28,6 @@ images:
     height: 1600
     title: "Artist Refik Anadol Turns Data Into Art, With Help From AI"
 
-secured: "IkMi0mxMIn2UyYOkxdK0xZeJhDRmfBcberREC1/Gwk1lYuxuKTitJVXC7oEpvI+JKedsXPpQtXM2xCCWW/cdAypCUiKi4UHJ7kuLF8jTYp5z+hJ+AMUa80JqQ+83NCiWKVWUjoLLtX5hcgMGTvAHMZJ2NUgSYlD9G2ET5gDLvbN7TahIjoum9HbtCfLgxN260PzMzYtCrcIOFy+n7g6vIoUVw8CVsUokC8GaUXUCA4kxB7VuZ8vFHutY6feS0ff4h85bNmZwUdwnynpGkpHNMhJJLbN3RSrFA2yZ06Tzdk4=;jQdO8oy9ZXj9CN/hs6xAyA=="
+secured: "W0melnySlDLu8L9fg0sO5EX6i0ku++G9iga53RIB5pJp+v6vwFO6aTitLXCRRkWOE85xizakbspwiyekQQghuCu5a227DyNR+BF2M6inFLdT3KW4eyJvS6wdgoKsQ3hlynjDLM+d5Fl/3/J1SrBGcj+Mi7hDoLCfAmJzq7oau225HzsHk+Yl9tjv10zn5rb/wNtxzVKhfhZa3LQYSLxj0tfh9peyQrhFLwVnDg9vn2Hn+uq8k/lN1e/KJtSxdT0oqZ4coX2m9tekiFjvGBsUhKvbSWtBc4aJRSJfxpUGZUJBkEAglCR+qFiKwl0aGahb5ybkA79Y60lOm6gOrIW4wirjJBumq4Ky/JL7xSCQRmOn6Tk93TRh6EbqRSwd3Rx/j1ewPnpzJgNOXls66ssn5lCeJdZnARnBtSVEoebc6VyNDrsaGsMoesTvx6joDWfxUYWkMp/a0qgq6xeMQfE9mg==;4TDfKfogLmb/F9EpUdJkDA=="
 ---
 

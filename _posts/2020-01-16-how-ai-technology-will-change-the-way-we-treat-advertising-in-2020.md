@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technol
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
         width: 1080
         height: 720
 
-secured: "+E0WmHANEZd7Ui0ItY+/bNiWnppu0vIO5NFy9Z52qpxjHd0CuYrBH799LLqgaBZiDoYoBZqZpfNKTvpmcmUuReDl1W4XpnhyojhgFmTgXrALThX6EW9qMPLfxvW3e6wlE1bSqWTsT9vrwLfL73i2utj0n3o1bF7A6LH3mojitlscdCq384do/DXnWvrStp3qghw/PgBqbseFFeE8gMf8rC54kErl989V86uOJCbqt6x4pcGI4roEtkOzSQpph2iCxK4YJBHJAIHAbtFAOShtR4KwXx2bY6O3aLcN6OZ6Was=;pm6lTiyz6CjmE5sB56Oq0A=="
+secured: "V0j3s3Xt20v9k06mWbf00J3gJAWAS7afTtL/yns4ZBiWCTSDdU1Ix5j9+WWVjvpwwib7/n52hoidCxYXlr2eNNdLu01sMVToGFJdmPjZTYIQ7Kn1ONmFg21YqvBd3EpwJyt+XHqXfR3+GsK2wA6sPlkvjXy4B1BXm7iO/cltMpg1zN8cYcBvBY0lQB3eOCsDcak3DP+yBFlX3SvNUCiP/8aAW8wnc/fLuQ0BNyJ8Xl/ENwRGDPNVMPbgaiLcitRAwb/GvBWSAe+g2xQv0aJx5B79piYlAC08PBFktK80auon4kbZXWSfbwPBIScQa9aeKgLqfQvPxb0+kGfGkwjUA3d6+Ay+EpC7qeQ4GiXaddx9VyANr+R+18/h5w8TJN3E9aePX233VtL9NYrLaAW0CHhAglCN9Fx9dZSxV8Zq6GSIb4rP+B43P9BSDyvhNbZWOXfp7suo1UE1TO8eLpOnMQ==;eL3OQAKwu/56c3yLbnsJbA=="
 ---
 
