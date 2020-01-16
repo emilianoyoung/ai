@@ -33,6 +33,15 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 14
+  - title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
+    excerpt: "The Umbra plug-in system attaches infrastructure data streams to artificial intelligence / machine learning (AI/ML) programs for fully autonomous infrastructure automation and configuration management. Umbra guides users through the IT and security operations decisions too often made in the dark. After Umbra attaches to a data stream it ..."
+    publishedDateTime: 2020-01-16T00:33:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/15/9082022.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "eUFaFr5JbSYd1uHZtnVzJ8Dz+KOWgN/WIsXtSx+StYnskCx6Pc5oUnbhjeXUfh9xYmyBEWPVBRoqGKVKS2M+XtUvSeEwwTL9ZlmNDu25LBWILf4Vz3+0ua8VxNI9iuGxnQjxR+LFY+S2zSFfrTYYJ8bUaKNz9v1OqeTRM+HJDVCS62jJOY7OSrgBJJaLmIA3FHTMJ7v/9a1i00ue4AOgC2mk5KYaP9Y+SZACTvMc3teSRuPBKP98DGzel8BcBeumFi+PtaqzW1a0LZaBaR2lc+wR0Z7uYMD4wtAZpjY6yiE=;BRzmIiyuv28eT1O+qrqNqw=="
 ---

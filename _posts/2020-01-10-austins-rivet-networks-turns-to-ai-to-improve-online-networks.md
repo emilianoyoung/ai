@@ -8,7 +8,7 @@ ampUrl: https://www.statesman.com/business/20200110/austins-rivet-networks-turns
 cdnAmpUrl: https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200110/austins-rivet-networks-turns-to-ai-to-improve-online-networks?template=ampart
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
     provider:
       name: GitHub
       domain: github.com
+    quality: 19
+  - title: "Cujo AI Taps Aviatrix for Cloud-Native Networking Software"
+    excerpt: "To ensure business agility, CUJO AI's infrastructure is 100 percent in the cloud, capitalizing on Amazon Web Service, Google Cloud Platform and Microsoft Azure. As such, the company needed cloud-native networking software that would embrace and extend the native constructs of public clouds to provide the simplicity and automation of the cloud ..."
+    publishedDateTime: 2020-01-16T00:27:00Z
+    sourceUrl: https://www.lightreading.com/cloud/cujo-ai-taps-aviatrix-for-cloud-native-networking-software-/d/d-id/756831
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
     quality: 19
 
 secured: "bI7+6pCs16nc7WPYzbbOJAkh1jjoA2GSMGjdc5QqmSNMXGWqTcnO/4JSE/3Miyoyrmqlf5vy1Yj3x3kicVs4Hd23rvKALAXkJST71TV7p7MJxG8uFdslUrHS3Yj1v0RsU8ZYGXEDcXXgHiROieTqdS4YjXaKkcgKt1MiPNTEXGBmBe3/u4aNGrQDngRB5wkmgBMzu/rI9zQGKLdf87j2SXnozPmet5WKBF9zYauaEoF4QWC2nqxZes5T4OuMkQYvLdFt9+c7NFNFMfHW9W7IbG1ZgYxg9ECGqxonbzmHI9Own6Ac9dWCLzTZ6yJqAqbHGFff+VdA96OQgMKaztKvQmWQ2oQmbrlg3L5eEPMvlIwqFtEqKzTo3lYiGWFzqe5Mj2guH+pzgdEtXKUIhhlqYkFKK3TJnyTvRUEmvET45JyiEQBqinqSZy82ANDz3Lvgf6KaC6/C941TJjmdC9Vp0w==;ElAlh4hwTgRKgwQqbfG3aA=="

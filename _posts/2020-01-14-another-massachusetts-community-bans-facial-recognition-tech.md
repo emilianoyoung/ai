@@ -93,6 +93,36 @@ related:
       - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
         width: 3413
         height: 1920
+  - title: "Congress moves toward facial recognition regulation"
+    excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a responsibility to not only encourage innovation, but to protect the privacy and safety of Americans consumers,” Rep. Carolyn Maloney (D — NY) said today ..."
+    publishedDateTime: 2020-01-15T19:27:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/
+    ampUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
+    excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
+    publishedDateTime: 2020-01-16T00:34:00Z
+    sourceUrl: https://www.cnet.com/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
+    ampUrl: https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg
+        width: 756
+        height: 567
   - title: "The benefits of facial recognition AI are being wildly overstated"
     excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
     publishedDateTime: 2020-01-13T20:44:00Z
@@ -263,6 +293,19 @@ related:
       - url: https://images.axios.com/n1OHl8BFB6kAtUNWSk8eO_NnzGU=/0x0:1920x1080/1920x1080/2020/01/14/1579011213053.jpg
         width: 1920
         height: 1080
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict the use of facial recognition technology. Cambridge’s new measure prohibits city ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
   - title: "Facial recognition: research reveals new abilities of 'super-recognisers'"
     excerpt: "Researchers believe the same applies to facial-recognition ability. A small proportion of people struggle to recognise friends and family (a condition known as prosopagnosia), most people are \"typical recognisers\", and at the top there is a small number of people who excel at recognising faces—super-recognisers. Since 2009, researchers have ..."
     publishedDateTime: 2020-01-13T12:59:00Z

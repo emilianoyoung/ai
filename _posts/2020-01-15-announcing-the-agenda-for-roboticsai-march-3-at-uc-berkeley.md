@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
 type: article
 quality: 187
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -42,6 +42,21 @@ related:
     quality: 174
     images:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/robtoics_ancajur.png?w=1024
+        width: 1024
+        height: 558
+  - title: "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley"
+    excerpt: "We’re bringing TC Sessions: Robotics + AI back to UC Berkeley on March 3, and we’re excited to announce our jam-packed agenda. For months we’ve been recruiting speakers from the ranks of the most innovative founders, top technologists and hard-charging VCs working in robotics and AI, and the speaker line-up will capture the remarkable ..."
+    publishedDateTime: 2020-01-16T00:31:00Z
+    sourceUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/
+    ampUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024
         width: 1024
         height: 558
   - title: "Cultivating robotics and AI for sustainable agriculture"

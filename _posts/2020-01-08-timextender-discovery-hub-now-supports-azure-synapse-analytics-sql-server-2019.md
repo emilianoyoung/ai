@@ -1,7 +1,7 @@
 ---
 category: news
 title: "TimeXtender Discovery Hub® Now Supports Azure Synapse Analytics & SQL Server 2019"
-excerpt: "Azure Synapse Analytics unites enterprise data warehousing with Big Data analytics, and allows for querying of relational and non-relational data for BI and machine learning. With SQL Server 2019, Discovery Hub customers can better manage and utilize Big Data analytics through the use of Big Data Clusters using either structured or unstructured ..."
+excerpt: "TimeXtender, a recognized global software company enabling instant access to any type of data in the organization to support advanced analytics and artificial intelligence (AI), has announced a new release of its ... was upgraded to work seamlessly with both Azure Synapse Analytics and SQL Server 2019. Azure Synapse Analytics unites enterprise ..."
 publishedDateTime: 2020-01-08T19:10:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-timextender-discovery-hubreg-now-supports-azure-synapse-analytics-/2020/01/08/9078594.htm
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "PfwV4Dl6/55MsMOl/7mUk9pxnghioWIkM0R/c2PbWqzJfZI1lmOJ8VaiJWyCajdDT6ps4ZC7j8X66K3UNe2Dw+LQFEn8SkBqEogYYUgXxkgAs7y/D9TYM5oLJpQHnqscxesdYEO99bo1PGfOAfXVgGnhCHISvZu1U0ET5GoNEUAStzccqQTLdeKj4FnuSOl0/bvKoWOFkMefY8Ac93YrnkBT++mje7x1Vs6G75bYwNQdd01lv5Jv9PjpZLdcJlujst7R2CGKm25HscE+Gwq4/+Pqh2WAuoccpLa1zBCqmOU=;8m01j3B3I9iV+3eXE6yH6A=="
+secured: "5XWvhuJHYkGpfvPeS5JtxQj9Us5mu40BNmUKd8fU5ghTTzZ1N75P5uo1HkqxJ4srdwjZDpl/gC19M6fT2QykPc+siclbr/VX067F09mI4jAPPndPcsLeLmuVuO6Y0XDzE6Dj9qEG6nfUsC8c5BfslkfqhSls1wpd9avccpCXKD5NOQjTfvCwtz8dvNUYp73yuCY+NpKiCdy2WBnlwGpqZA0mr2NbZYh8xMsY0urX1CxyhfKrwnK/lF73RPA+O2rPn9ZWIWmifSGdzJyVNhhf1V4jeiU/FJPNwTTNFWfWUaU=;j+UbqIaqaRGnV8RthBKnmQ=="
 ---
 

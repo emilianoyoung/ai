@@ -19,20 +19,18 @@ topics:
 
 related:
   - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
-    excerpt: "market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
     publishedDateTime: 2020-01-14T03:00:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116798/global-artificial-intelligence-ai-market-in-bfsi-sector-2019-2023-32-cagr-projection-through-2023-
-    ampUrl: https://amp.benzinga.com/amp/content/15116798
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116798
+    sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
     images:
-      - url: https://mms.businesswire.com/media/20200113005533/en/766971/4/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
-        width: 480
-        height: 270
+      - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
+        width: 1200
+        height: 627
   - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
     excerpt: "market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
     publishedDateTime: 2020-01-15T09:00:00Z
@@ -53,15 +51,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 22
-  - title: "Enterprise Artificial Intelligence (AI) Market: Global Opportunity Analysis & Industry Key Players Analysis by 2019-2026"
-    excerpt: "Research Report on “Enterprise Artificial Intelligence (AI) Market” Report has Market drivers and restraints, along with their current and expected impact, Regulatory situation and expected developments & Market driving organizations. Artificial Intelligence has been one of the fastest-growing technologies in recent years. AI is associated ..."
-    publishedDateTime: 2020-01-14T07:22:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/37491/enterprise-artificial-intelligence-ai-market/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 7
 
 secured: "vkQdMPr0OPsyQ0hQjsyb1ul4lWa1Yw3FbTgyf8BqNzIvNuOm7QQNQ+3FlOAIrMcB98AUJKwFVe1ktdOxSIq9rv92ld2wHtOg913lgf4tiHCsDULzEwXgMmOuJJq7CgiVDISTouo/OhzPgqRIbFq2cTdPLQYlwgxWmzE3XVv2bqFYcmUFoY+MoEVRuehmS2fwxSrT5llA8o3RHo4hy0zz+vXuGzrbpoXUOXQ9gK2/PUoMj3klvWy9dtn8NGdmj4Iqaa3TyBqullNMJgxwr3YHne7cgOz2GYBseaaz1hfGq+0=;qeJvnVGEu1TBzFSQKuzkmA=="
 ---

@@ -74,6 +74,15 @@ related:
       name: GitHub
       domain: github.com
     quality: 19
+  - title: "Cujo AI Taps Aviatrix for Cloud-Native Networking Software"
+    excerpt: "To ensure business agility, CUJO AI's infrastructure is 100 percent in the cloud, capitalizing on Amazon Web Service, Google Cloud Platform and Microsoft Azure. As such, the company needed cloud-native networking software that would embrace and extend the native constructs of public clouds to provide the simplicity and automation of the cloud ..."
+    publishedDateTime: 2020-01-16T00:27:00Z
+    sourceUrl: https://www.lightreading.com/cloud/cujo-ai-taps-aviatrix-for-cloud-native-networking-software-/d/d-id/756831
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 19
 
 secured: "Yt14U2CnRfTzu0Jg7x2rBGqCG5vTwUDkQS3uF8tpT8dFob7A8MhONxAjfkGm4LOMVQevqVLVCazB2NhjdufvIkoyX/7U/E0gfTxL9+zAguaXa9FwOtZXJjpc5/cAlGiUXpwSp9OsrJk9RHHCCQYI8gVDPXtsicGCcUjAJ1rr+04Y7ynFFDvYNzz5p6WbecXDI40hwJIIDan50MfF0Foz0W4syGYtqScOJLHkaEQqL1MenPGc7NztRsZzyU+wWmGDAtIH59WKo5RCnh6I1hGwLWCYofzjdkTPdz/8220o4pIHKuUPVvzZ3oJ1dAAuIsqdhuCL8E0xNFVCQ74AGRocxenKJglyvL/Cx0iW9xDfZE0rv5aa+8q1rE0+rYlloUwBFTj0ZU4E7kF276IuVqYdgc6kfrYVgQVD0VMk3Olp2umMa3sAuBF4BvUYRFQ/BQRU3OenOGxJ4Zf5LgeqHiY9XA==;RCUdrX/ka4oRAoyxav2AaQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 39
-  - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
-    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
-    publishedDateTime: 2020-01-09T18:30:00Z
-    sourceUrl: https://www.ttnews.com/articles/qualcomm-moves-toward-self-driving-vehicle-tech
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/images/articles/qualcomm2.jpg
-        width: 1200
-        height: 670
 
 secured: "VPKjaM8gdT8PpfLQnV/PqWpv5T07OTxNxKl+jv8ZBcBUzQXNZIQd8IJCTZ0S3AE2TseCjxOhZuPZEkXcnBBKsjOYhTpMZ22l0JPHpUvIBo6/MSPpZeWkWdgglwunqCFqRIlcDt1oArFfRazuKD/E9ItvkYzooKw6MPjkjBA6HGG0SFM6NnO9hoISApex3P2n8O0Jp3OPPgnEdTTtvAxug5QUzx0alOZJs7r30j/bQ/EGtdYYD8+IayN1bP6qRaIDKBGEB1IHDTpL6DLQwgTqdzYJWlKEho3Paob4XrLuOX13VfeW0LJHUKnRC5I3msD4hM6ROCvObqt7A0GMu1R/PE91Bh4XOpDCTWXn7Wx5wN04vHs6zgiOECU600fq3UmSZFKbP2tcsBk1lsUiib1POr7GEBmruXj2f171prrq9Nm1hIY89+GnZ0+kCb7Ozmd8uCH7KeLlA+q+nX81egrEng==;MagLLSSgIbS+t0totsuG7w=="
 ---

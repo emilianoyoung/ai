@@ -39,6 +39,19 @@ related:
       - url: https://www.cmswire.com/~/media/7644a0cdc7bb41339f8a118f355972f4.jpg?mw=1024&amp;hash=7608FDAEF65C86343297B2F2BBFE0C534C159883
         width: 640
         height: 480
+  - title: "Not Just Voice: The Natural Language Revolution"
+    excerpt: "What’s really at the heart of the movement changing customer interactions is Natural Language Processing (NLP). Considered a kind of AI, it includes, yes, the speech recognition that enables a voice assistant to respond to a talking human, but only if it understands the use of the words that it hears. Being able to interact in a natural way ..."
+    publishedDateTime: 2020-01-07T11:06:00Z
+    sourceUrl: https://www.dmnews.com/marketing-channels/article/21108689/not-just-voice-the-natural-language-revolution
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 24
+    images:
+      - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1024463026.5e143cea91810.jpg
+        width: 960
+        height: 581
 
 secured: "E8Vi0OGJnR21LRCVc6R4IERcKNq1HIta+ZNyTywp9NQ0kt+NR5GkYOQlxG/hxFf++l+7XST+esyJZzd4Nrfk49T/gDqXv/y6eOHFu2Q/oFErAE1jBLlBrnpjhR47SWvO4Oac2v2W4KkIC/i9mJ7hWQYuvzPft598rSWphX0J3WbiUFFp5w6Y6ikBdsKMEOkaV4U2N67Qd/GHQaEh7gr3q1YJjuuQw/JOkDxWz8IRgbBTX8B7dwD+8uynHo/SnBu/SOq4HRgFwgcw/WW7WvfV9PiZSsBG7xPC2jamhgvZn27M84GTOieJSZs4pQD5yD1VuzhC81kYZ4F1ut8WPiXjN/98vFJlvWDbI6Qn5Do6xvz+PUtqbr02DSl3tsvqGBdvMUECAiWHYjJYnrTBVPw5zKzRjApylhUx5+Tx5+pb4Id5u4+M+xg2q/NTXDXk5Pfnh6MCuOStF28dqMVP/BQp7A==;/aJaW+aSnI1qmYt02eHkTA=="
 ---

@@ -24,19 +24,6 @@ images:
     title: "A machine learning based prediction system for the Indian Ocean Dipole"
 
 related:
-  - title: "Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG"
-    excerpt: "Additionally, we present a visualisation method enabling clinicians to visualise which part of the ECG signal (e.g., T-wave, ST-interval) is significantly associated with the hypoglycemic event in each subject, overcoming the intelligibility problem of deep-learning methods. These results advance the feasibility of a real-time, non-invasive ..."
-    publishedDateTime: 2020-01-13T10:10:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56927-5
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 27
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56927-5/MediaObjects/41598_2019_56927_Fig1_HTML.png
-        width: 685
-        height: 285
   - title: "Deep learning, computer-aided radiography reading for tuberculosis: a diagnostic accuracy study from a tertiary hospital in India"
     excerpt: "Tuberculosis (TB) is the world’s leading infectious disease killer. Early and accurate detection of TB is essential to achieve global control of the disease. However, many high-burden countries continue to have large gaps in TB diagnosis. India has the world’s largest TB burden and accounts for over one quarter of the 3.8 million ‘missing ..."
     publishedDateTime: 2020-01-14T11:10:00Z

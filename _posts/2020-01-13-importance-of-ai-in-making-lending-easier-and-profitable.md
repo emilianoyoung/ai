@@ -20,32 +20,78 @@ topics:
   - AI in Finance
 
 related:
-  - title: "JP Morgan Keeps Opening Bank Branches While Investing in Tech Including AI and Digital Payments"
-    excerpt: "Or Fintech specifically? Dimon had this to say ... We continue to make large investments in technology, including AI, cloud, digital and payments, as well as other investments in innovation, talent, security and risk controls. These actions will ..."
-    publishedDateTime: 2020-01-14T12:53:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2020/01/156323-jp-morgan-keeps-opening-bank-branches-while-investing-in-tech-including-ai-and-digital-payments/
-    ampUrl: https://www.crowdfundinsider.com/2020/01/156323-jp-morgan-keeps-opening-bank-branches-while-investing-in-tech-including-ai-and-digital-payments/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156323-jp-morgan-keeps-opening-bank-branches-while-investing-in-tech-including-ai-and-digital-payments/amp/
+  - title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
+    excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ..."
+    publishedDateTime: 2020-01-15T18:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
+    ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 62
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 101
     images:
-      - url: https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Jamie-Dimon-is-Happy-300x266.jpg
-        width: 300
-        height: 266
-  - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
-    excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook, Google and Amazon were broken up, they would not have the same resources to invest in cutting-edge research. “This is the new space mission,” Cuban said of AI."
-    publishedDateTime: 2020-01-09T01:49:00Z
-    sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
-    ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
-    cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
+    excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning and NLP Certification Bundle for the skills you’ll need to join this revolution."
+    publishedDateTime: 2020-01-15T10:02:00Z
+    sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
+    ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
     type: article
     provider:
-      name: Variety
-      domain: variety.com
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 89
+    images:
+      - url: https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg
+        width: 920
+        height: 470
+  - title: "Unlocking contract insights with natural language processing"
+    excerpt: "Your article was successfully shared with the contacts you provided. Artificial intelligence solutions using natural language processing (NLP) have emerged to address the challenge of fewer human experts available to determine the content and intent of policy wordings. (Photo: iStock) Large commercial and specialty insurance is a complex ..."
+    publishedDateTime: 2020-01-10T16:37:00Z
+    sourceUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/
+    ampUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
+    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 59
+    images:
+      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/01/Solution_Coding_iStock.jpg
+        width: 620
+        height: 372
+  - title: "How Deepmind Restored Beauty To Chess - Gaming - Nairaland"
+    excerpt: "ARTIFICIAL VS HUMAN INTELLIGENCE A few years ago, the A.I. company DeepMind set out to use games to hack human intelligence. They thought that if they could invent a better computing system, one that taught itself how to do things without human bias or preconceptions, they could “solve intelligence and then use it to solve a lot of other ..."
+    publishedDateTime: 2020-01-12T11:53:00Z
+    sourceUrl: https://www.nairaland.com/5627097/how-deepmind-restored-beauty-chess
+    type: article
+    provider:
+      name: Nairaland
+      domain: nairaland.com
     quality: 34
+  - title: "Designing better nursing care with robots"
+    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
+    publishedDateTime: 2020-01-15T23:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+  - title: "Machine learning set to burst the bubble of digital marketing"
+    excerpt: "There is no single source of truth The rise of machine learning will require digital marketers to give more agency to the main platforms such as Google and Facebook to manage and price the campaigns. Because they have so much data that they are legally prohibited from exporting to a third party, digital leaders have to trust the mega-platforms ..."
+    publishedDateTime: 2020-01-15T18:16:00Z
+    sourceUrl: https://www.bizcommunity.com/Article/196/726/199499.html
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 19
 
 secured: "yTZAzjXkv1ZhhBFFbzebCBRi6udKJ1618qDemB/6iTjjDXg5BiD0QrTn/puBFze3Pv4h67Vi6r9GbjgAPwu4IDceWspwipXOuoRCErhrI5U+Qg0zNDznFhgieMALmFJBSXp7MmwcCMAjzN3hkZui49+vSBaECjmkuZKG7VJo+TL81f5aFtTH5oK785lGxmhSzmFERJ2NEZCwhoMfLWon95r97gNItrA3EiAt+bhthfqgD0391u3893RnU2o0Sx84AYsJW5mWtBx7g/kvZeGLtgOhpNUCj/u+Ov09ie2CljIVdqAdI9g8pU6JMGHsndGrvUS1Ox2dmH2RTvtGspfE2PD4uHWCUvpr3CkH7hxuPmO+9X9nSg3o+JU6CkhdrbN4HqPhSQNWh7pdAVVNAI6pjzIiRcZhQYcTUZtIt1v2h9cXywjFhWXrPJNPlCWNDUVMWLL+Cp567WOdL23Q1sit1Q==;VELS/OCCDnGRHQh7OCBjpQ=="
 ---

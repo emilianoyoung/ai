@@ -72,6 +72,15 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56845-6/MediaObjects/41598_2019_56845_Fig1_HTML.png
         width: 650
         height: 685
+  - title: "Cujo AI Taps Aviatrix for Cloud-Native Networking Software"
+    excerpt: "To ensure business agility, CUJO AI's infrastructure is 100 percent in the cloud, capitalizing on Amazon Web Service, Google Cloud Platform and Microsoft Azure. As such, the company needed cloud-native networking software that would embrace and extend the native constructs of public clouds to provide the simplicity and automation of the cloud ..."
+    publishedDateTime: 2020-01-16T00:27:00Z
+    sourceUrl: https://www.lightreading.com/cloud/cujo-ai-taps-aviatrix-for-cloud-native-networking-software-/d/d-id/756831
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 19
 
 secured: "ikLDCUsX7UWxSRcVbeWTKZbaI2eBxJFv5TJsSlnreQ90aouC0sJ9z3JzFn4sMbw97UkovgK/3JDB9N7vfTOooaaBh59o20UhYYgSky3c3eWPOnbMnRvNMS0LVljXcqxov4wr5isxurM3T74HDC9545dK4r+YlhqQepx8CjIHGnwWsKyLtiRHSRAQlvA/UiHjEtDjBpsOL8avp/QAvpIGR+FOPyVIP1TbF5/rQtThRdC/9VeCvdaNP0zLho32bLEdnQk0MWPC+pCxleTt/AZvHc3yYlh7Ke2dTMeMzjwc01Y=;WP0Uaer1wFeITaAlKUsaPw=="
 ---

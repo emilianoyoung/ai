@@ -38,6 +38,6 @@ related:
       domain: yourstory.com
     quality: 33
 
-secured: "x5scZoFIhqMoJK5cbhQyYnP1bNPD8jOz6RONLH7JGiRzkEkSLlhQap18GabNqh7a+qs425mQUEegZF6g309ImLMwi97HPRHnElEB3r1zQ1oVM0Da3JdlVr2GWm7D61KdK/XPJ8l/9jMa3KmlMSUtSTyI9pfwPlv5Eicd9OkyT/LvapqG4PbuEfoYgilYlN6CukaXF82xkgpCGHBFA9whlF/bbp3Hw4aUBJEZLPfaOTbP/XEPO6cHmM0dojnJWLxUsPGis0QFAE6oVLuXPXHy2/w/6tH5kvxHDeYLh6B0hM0=;zW7B2InGIjFaST5FOefs/g=="
+secured: "6jVKvzDI5qEXepzi9rFULdngdUirvdgCjyQG34JRzt/0kO8Dw2wp24lttWqFR67C3we5ck0nEBANxjyDp2Uuxu6W7vl5DiGk9kaUbdAqTEwf1q8BTbb4n+L74TE34MCoc6f706XszQWsPeQzopaQF57oE/jMDVyxBBQPqitf6y0Jql0gIWm7c9+NhjevWT252bdF8B2bJkJtVd6IsxB/giky94/jjBj8xbHcfYz82KG7Le1YRDPQA/Fv4Ln3cAnFd8tdqFLRfxdwuC/GDfYCUgtJATWBe+MfpdC0W1KvFsg=;4Llavev3vt1uZYYSWkn0sA=="
 ---
 

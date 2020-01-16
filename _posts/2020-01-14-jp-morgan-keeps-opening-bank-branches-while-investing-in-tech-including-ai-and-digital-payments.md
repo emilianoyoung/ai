@@ -8,7 +8,7 @@ ampUrl: https://www.crowdfundinsider.com/2020/01/156323-jp-morgan-keeps-opening-
 cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156323-jp-morgan-keeps-opening-bank-branches-while-investing-in-tech-including-ai-and-digital-payments/amp/
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     title: "JP Morgan Keeps Opening Bank Branches While Investing in Tech Including AI and Digital Payments"
 
 related:
-  - title: "Importance of AI in making lending easier and profitable"
-    excerpt: "With the onset of AI, the banking sector has completely over-hauled the lending process; simple, cost-effective, and profitable for both lender and borrower. With the rising number of smartphone users across India, the digital mode of payment has been increased dynamically. In “India Fintech 2019” report, Unified Payments Interface (UPI ..."
-    publishedDateTime: 2020-01-13T07:50:00Z
-    sourceUrl: https://www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/
-    ampUrl: https://www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/amp/
-    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/importance-of-ai-in-making-lending-easier-and-profitable/amp/
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 39
   - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
     excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook, Google and Amazon were broken up, they would not have the same resources to invest in cutting-edge research. “This is the new space mission,” Cuban said of AI."
     publishedDateTime: 2020-01-09T01:49:00Z

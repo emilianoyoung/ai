@@ -41,21 +41,6 @@ related:
       - url: https://s2.reutersmedia.net/resources/r/?m=02&d=20200108&t=2&i=1473852583&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG071MB
         width: 800
         height: 545
-  - title: "Feds largely leave self-driving-car rules to makers"
-    excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
-    publishedDateTime: 2020-01-09T12:34:00Z
-    sourceUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers
-    ampUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
-    cdnAmpUrl: https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 44
-    images:
-      - url: https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200109&Category=BUSINESS&ArtNo=200108779&Ref=AR
-        width: 1600
-        height: 1139
   - title: "Test for Self-Driving Shuttles to Run in Ohio Neighborhood"
     excerpt: "Self-driving shuttles will do a circuit through a residential neighborhood in Ohio's capital city as part of a year-long pilot program starting in late January."
     publishedDateTime: 2020-01-13T06:40:00Z
@@ -65,19 +50,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
-  - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
-    excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
-    publishedDateTime: 2020-01-09T16:01:00Z
-    sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 24
-    images:
-      - url: https://www.extremetech.com/wp-content/uploads/2020/01/Velodyne-Lidars.jpg
-        width: 1344
-        height: 742
   - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
     excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
     publishedDateTime: 2020-01-06T18:04:00Z

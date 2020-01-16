@@ -71,15 +71,6 @@ related:
       - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
         width: 600
         height: 271
-  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
-    excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
-    publishedDateTime: 2020-01-07T12:27:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
   - title: "India Artificial Intelligence Market Analysis, Growth, Trends and Forecast 2019 - 2025"
     excerpt: "India Artificial Intelligence market is estimated to grow significantly at a CAGR of 37.2% during the forecast period. There are a lot of opportunities available in AI technology in India with the increasing adoption of technologies."
     publishedDateTime: 2020-01-14T10:29:00Z
@@ -98,6 +89,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
+    excerpt: "Browse 31 Market Data Tables and 148 Figures spread through 216 Pages and in-depth TOC on \"Global IoT Chip Market\" The rising demand for IoT chipset-based consumer and industrial devices, along with the integration of artificial intelligence (AI) across various industry verticals, are some of the prominent factors contributing to the market ..."
+    publishedDateTime: 2020-01-16T00:31:00Z
+    sourceUrl: https://www.prnewswire.co.uk/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029-852898245.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=facebook
+        width: 1447
+        height: 757
   - title: "Deep Learning Chipset Market: Incredible Possibilities, Growth with Industry Study, Detailed Analysis and Forecast To 2025"
     excerpt: "The Big Market Research has recently added a new survey report to their vivid and dynamic database. They have formulated this report by taking into consideration all the key aspects that tend to have an impact on the global Deep Learning Chipset Market share,"
     publishedDateTime: 2020-01-09T14:16:00Z
@@ -120,15 +124,6 @@ related:
       - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
         width: 2000
         height: 1400
-  - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
-    excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
-    publishedDateTime: 2020-01-13T12:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
   - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
     excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
     publishedDateTime: 2020-01-07T13:21:00Z

@@ -5,8 +5,8 @@ excerpt: "services that use machine learning and artificial intelligence. \"Cred
 publishedDateTime: 2020-01-15T23:56:00Z
 sourceUrl: https://www.mobilepaymentstoday.com/news/persistent-systems-gojoko-team-with-aws-on-community-bank-credit-union-platform/
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "b8Bl5aAprpNiBWlq3omFRXMIpXYLSa0AuXmk3YH+8zfcNY0VSP31aSvt7IqWGl9rS5sXqyFtxs0j4mD1cBF1YPKXrCm90Hf1NNnwGZTccvyJzTx/TPe1sx/SdSlaZVuGNaxNPX1YfAF0vLIZLQW/cmwVUvgAEdCgYvWSR+ZoamZAHJDgaz1gtSpQMtAeEBCoCLKtXHQuYVl+PJiOHxWELl+Zo65ac3tzwju30A3edgWrsDiLy4ketjF0bKmRiJApKvTKYsTXuL4or9wJmzJz75F3g/E6SAR94pkj3E4MIwQ=;QUtyLJ9/l1CpXkeOD7g9yw=="
+images:
+  - url: https://nmgprod.s3.amazonaws.com/media/files/5a/27/5a278f7f1e99e5ea9684888629302b0b/cover_image.png.640x360_q85_crop.png
+    width: 543
+    height: 360
+    title: "Persistent Systems, Gojoko team with AWS on community bank, credit union platform"
+
+secured: "i3I9I5+h8fUt5VMIRiDwa2xETvGO/ml+QgDjOeuiBDKohVEGWbvkHxTXL/NiU7+xdE7AMERA+VStO81TqDa0rzTNW3sXqNEFibfHdN1r8+wZFVrZn2oEc+bGhvQpRtZe+e/KYxgZ13lefzAEqGjNXxxqBjtSZVnePaMF/HoGoooh+CphsBbsc97SoETznveFvEFwLy9KJcvCTQqrRpvDwNREipxC2IvFxOQ8a6RhpEOi2E3S9zfCv0zxyoKEMGwb4xTZXhMcZZG/GSI42U0omUGx6Jo6THXWrER+2LEda5o=;CAXekw2L1lemAQohYoW0QA=="
 ---
 

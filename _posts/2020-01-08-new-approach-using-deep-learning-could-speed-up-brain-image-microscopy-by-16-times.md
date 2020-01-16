@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-l
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -20,32 +20,67 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Machine learning shapes microwaves for a computer's eyes"
-    excerpt: "The new machine-learning approach cuts out the middleman, skipping the step of creating an image for analysis by a human and instead analyzes the pure data directly. It also jointly determines optimal hardware settings that reveal the most important data while simultaneously discovering what the most important data actually is. In a proof-of ..."
-    publishedDateTime: 2020-01-09T21:02:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/du-mls010920.php
+  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
+    publishedDateTime: 2020-01-13T13:17:00Z
+    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
+    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 74
     images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/221244_web.jpg
-        width: 1440
-        height: 716
-  - title: "Data for Machine Learning Get’s a New Lease on Language"
-    excerpt: "San Francisco, CA – Venga has released its third solution in its rapidly growing suite of products for Natural Language Processing (NLP) Data Collection. The new addition to the family is InVimage – a cloud-based solution for annotating text within images. With each annotation, we automatically capture the X and Y coordinates, OCR (Optical ..."
-    publishedDateTime: 2020-01-09T00:59:00Z
-    sourceUrl: https://slator.com/press-releases/data-for-machine-learning-gets-a-new-lease-on-language/
+      - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
+        width: 630
+        height: 473
+  - title: "The Emerging Meta-Learning Oligopoly"
+    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
+    publishedDateTime: 2020-01-13T12:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://slator.com/assets/2018/02/Venga_2019_Upd_900x600.png
-        width: 900
-        height: 600
+      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1195656750/960x0.jpg?fit=scale
+        width: 711
+        height: 474
+  - title: "Microsoft is throwing support behind these Hopkins AI and data science startups"
+    excerpt: "Through a new program, Microsoft is supporting five AI and data science startups founded in Johns Hopkins‘ FastForward program. The teams are the first to receive Microsoft acceleration awards. It’s a way that the storied tech company is working with new ventures, and is doing so with a Baltimore-based university. “Johns Hopkins has a ..."
+    publishedDateTime: 2020-01-15T00:01:00Z
+    sourceUrl: https://technical.ly/baltimore/2020/01/14/microsoft-acceleration-awards-grants-hopkins-artificial-intelligence-data-science-startups/
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 50
+    images:
+      - url: https://technical.ly/baltimore/wp-content/uploads/sites/3/2017/05/ff1812.jpg
+        width: 1200
+        height: 900
+  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
+    excerpt: "The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power,"
+    publishedDateTime: 2020-01-07T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
+    excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
+    publishedDateTime: 2020-01-13T12:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
 
 secured: "3fNmiszAnBqjLs3VH+brVxYAoXePM81mhuSC5cOdukHzRZd57JnyrHUgPhF/yvZZEFhJGTAectsUzXX4ZgfuSXBaj1JA5F+9WqKF5PpZmQgE6tcC8+VoYp7aYNXf9DEwvPswwENjeWm/wmsoDa2mlLYsFVt46l8md5KRO/+eH6OjX/UT25dPQVolY2BKDg7dhwcgk7qReEGa6Cs/aIcqP958zNuv8eIcaJfTQQ3T7i7+ni3fNzDPtmnYBcHMQQHnxZ/1KoIMMpp9IWkY6friTBq4RreKPadOLSmxVC9IDZA=;Z4TnugQLuIAmitU9r1LzZg=="
 ---

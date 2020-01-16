@@ -18,25 +18,25 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Machine Translation Software Market 2019-2024"
-    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024."
-    publishedDateTime: 2019-12-16T08:39:00Z
-    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
+  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    publishedDateTime: 2019-12-24T11:15:00Z
+    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+  - title: "Machine Learning as a Service Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "New York, December 30, 2019: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
+    publishedDateTime: 2019-12-30T07:10:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2019-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2019-12-30
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 3
 
-secured: "VtNmeDHXODJBm5lTbxD07ISDa1McZcf7CsD24aEni8S9OTFNQc0z+mg8Iu3ZuT7etEESt/HISBdbYm2dbUgTSXJJBkmzg+iR8pB0v68lo0St0gkU+BzrkLqcnR+n7ACesEB2DiC+WhhueJCtI5etR0gkGdjvWA5gJKKLm4gTilY/+gA89hBl1abK6+xakl1fq78FY3OCdO4p2v6FGHKdv4bHdeB9/bGdd5i4I/RiicuhZBjKOkwLlHFnVHW6wj/DV8eveFbJG93rmfugAR2yKXjEEg6vvPbxeDsxm2BXd2g=;d43E2OqtPqiRyK8/xCPk0w=="
+secured: "r9CDmNulFpG+/jHXiRkJwMa2KFPpeD1/rxkP+QVA2ekdOSjJEGTVloYvjsYTFGChASwGdjQYRpbJPjGVWxmk0pJlbKE9CYKf3vg6NrjZVJB96ODgMap1aXawC/T5I2rZDJvpSa8mGag8EwUrPEHvVzAwxxNazxjITJ54iDzYQOBKJGo0BqavAzEEPmfvY8Km+Y9YngqxMIgxLmG0HuQlWfl0uYjUZSUGtj60uf9F4tJuy9/Rzib99l0kgPI0BARph5RHr+sNSdfOiMNYHO6XpeFbCsbeKrfzA4uaEq3157s=;/Mh0VBSVBwVIwuzogO+57Q=="
 ---
 

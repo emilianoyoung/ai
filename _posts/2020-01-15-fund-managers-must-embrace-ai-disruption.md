@@ -24,6 +24,6 @@ images:
     height: 281
     title: "Fund managers must embrace AI disruption"
 
-secured: "BPeyoiGYdILRvwAetuqlCZhYUmnHSLncVa/4BAv/WFC6CRf9SL3gu4DhoSk8CeLQ3a2Pgd/vGwRv5km3xOX6zAlZ8p1uwNhBL26B9k9X8n5Yxb2ZKs7ZtMRqgfhTULIewCpVDEKUwPHVhXXsvInRW//tY12qjxhJiGD43pZyTm9OEDNxLIyMLdFmzbsJ53lBqHzSkJG4wrPD9NYyjBKt9wtxaRfDRweb0yu/+jy9ia+vZaRUMdSBHfpyP/Knel7GTennCLvRbkDulNf2pL5Lpimxm6K4kmezkxZf8p1iX0E=;+hONI23HjLBWfM/BjXAEAw=="
+secured: "a5TJ5TxxGOkGxbbeEMAUDthGXakywTIsJInQgmnIh6T+QXFA/ehNJMDPGoZ/wzZjTZoLFG446jEgkNVV7F3ezXQjZvly5b6JJgTmWWqlcj9CgD5yO/De0yy+ppl3AiqMN8cYH7GCeHHTyW8tkt5PC5/+1Ylst0eoBaJ2JUQI9GeU73vcZNl64qM3kmDV2v8RwkWLnkwDC8CzlZW1FLmLmNksz1srBJiGIY5d4TXUwe/tslKmdzPnEaP3KJeZjtmHN/PMG+6vWGKQ42L/LigqXHZWggiGn0TsQnQbUdTMHQnedsrehKbdBWCKkFhca/+UnfjEERbDN9qtg3xdeRWIo22dll8H1BlRBuIo/eRnH7/1HGZioBjEoGo5Jww2jW/a0P+yNtk792bIFSULrZOZLZfK+YpFg0idFhF2QUe0g6fNQvXYFkmIH5TlXhcXoCpSwdkcOXU0QLYUbIwMcyF7oA==;5qM/Pl2ubPAfZ1SXgHaaZQ=="
 ---
 
