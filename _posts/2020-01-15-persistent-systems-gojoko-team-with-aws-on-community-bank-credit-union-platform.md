@@ -23,6 +23,6 @@ images:
     height: 360
     title: "Persistent Systems, Gojoko team with AWS on community bank, credit union platform"
 
-secured: "i3I9I5+h8fUt5VMIRiDwa2xETvGO/ml+QgDjOeuiBDKohVEGWbvkHxTXL/NiU7+xdE7AMERA+VStO81TqDa0rzTNW3sXqNEFibfHdN1r8+wZFVrZn2oEc+bGhvQpRtZe+e/KYxgZ13lefzAEqGjNXxxqBjtSZVnePaMF/HoGoooh+CphsBbsc97SoETznveFvEFwLy9KJcvCTQqrRpvDwNREipxC2IvFxOQ8a6RhpEOi2E3S9zfCv0zxyoKEMGwb4xTZXhMcZZG/GSI42U0omUGx6Jo6THXWrER+2LEda5o=;CAXekw2L1lemAQohYoW0QA=="
+secured: "9GI2Qm/Doj/GpEYwhbNsCy3BNHbOwZ3Z/pardxZSw5iftUxerEc70eoAx9xicLhtL+boCALNp4hGhOkR5V3H/SjKUOswY0A+URkf0y8sdW+qPuH8yTDFK0rYr/dmDL3Lz4iAnZVgeMs3MHWO7pQjYBE6RIWUx3DOwJHzZPxUa3jl5IIyqylY5hGsFqGorGZWL7fciVbFUOZkZXAQC4kxmOQKnlauE5rqKJ+xhOnLT4D4gPIWwVlOnNgy+51G4gig+zsbUo+FE0eMXxkt9KlOR4grioQb9xS9CPAFa2Yv0C/86mtjrfOXscfjOPUrJLRagJhc+CZgOhnE69rO2bwfD377HfGBjONMchjJGzDmXu7ZPDfcYPAI3yMqSz6Win3OUEFh2TYdF1yKWzenhVTSP32Cr0a3xzMmrg3cme1sZXqc+VHoyh9MZWdd4hBaC2UpqMKYrcjF73hbjjSs9fUbtA==;icK/ll9I8s8TBbgJgAlJHg=="
 ---
 

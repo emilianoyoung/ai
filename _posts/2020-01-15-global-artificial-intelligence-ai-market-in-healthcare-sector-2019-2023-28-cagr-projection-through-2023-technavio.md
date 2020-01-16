@@ -1,22 +1,21 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
-excerpt: "market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
 publishedDateTime: 2020-01-15T09:00:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15124976/global-artificial-intelligence-ai-market-in-healthcare-sector-2019-2023-28-cagr-projection-through
-ampUrl: https://amp.benzinga.com/amp/content/15124976
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15124976
+sourceUrl: https://www.businesswire.com/news/home/20200115005015/en/
 type: article
-quality: 27
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
@@ -51,6 +50,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "NutUlEOgVH//juiyz4ueRtS5AFvwJerv//XvNkveXYAcUIPSTkJyigUB2+kFgPrOJU7Zrqrvs5IOcZYB1CdEqzUQun+J+iJc8F/RX9IAe2jxLv/T+QuxAf9Rb4qX+R0GlpbQnMgnma/589VfxNOKMG3dwlZPScC35arR/T8MKmkaPX2TsyKZHjwWzNPHnsF8KhZiProqSY8TSJJJT+TODJgBNDOPHd15aM7qM3T1eej9bt6gxLK/PqTU1T8d9b/6dbzhA/8BjNABCFZNe1wUN2Hrq3gPy7dLW+5O8+eJbIg=;1FDRF6uU5qGI+hG0EcIeGA=="
+secured: "PknysZiJl2dnhyTyIuHXusLQLQA9TlBNOLTuEBjOfvR5isa0StKGKxqXx7Cv0Z9Vz5WufqONRafGvXwgt93ikUSNATjgklA0b18BxfbC3KHP9iBOspuZ9NfWWOtZA+VpLsDMUbtaRkZRno+fqOtTJ7ZVX6+p6fbFTf9DQHYIBdtjiAZJzm1SFavOhbDIzKorR90DCxpQLE02KVhfh13JqoA8uoHwbEZBoR3+GqJ0O764ebIDXbUz92EkgNrsWGUr4NsxoABmRZcFH5Zz03uDxinb2CozzcngSlpTTSNdfcU=;7+KcgKc1s6DzoRqwLqS2Mw=="
 ---
 

@@ -94,18 +94,18 @@ related:
       domain: marketwatch.com
     quality: 40
   - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
-    excerpt: "Browse 31 Market Data Tables and 148 Figures spread through 216 Pages and in-depth TOC on \"Global IoT Chip Market\" The rising demand for IoT chipset-based consumer and industrial devices, along with the integration of artificial intelligence (AI) across various industry verticals, are some of the prominent factors contributing to the market ..."
-    publishedDateTime: 2020-01-16T00:31:00Z
-    sourceUrl: https://www.prnewswire.co.uk/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029-852898245.html
+    excerpt: "According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global IoT chip market was valued at $9.40 billion in 2019 and is projected to grow at a CAGR of 15."
+    publishedDateTime: 2020-01-16T01:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-iot-chip-market-projected-233000342.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=facebook
-        width: 1447
-        height: 757
+      - url: https://s.yimg.com/uu/api/res/1.2/qpQVRDbFUHZxcrzHXvF71g--~B/aD0yNTE7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/292049f36221d0fdfe6b0dd3551733a3
+        width: 400
+        height: 251
   - title: "Deep Learning Chipset Market: Incredible Possibilities, Growth with Industry Study, Detailed Analysis and Forecast To 2025"
     excerpt: "The Big Market Research has recently added a new survey report to their vivid and dynamic database. They have formulated this report by taking into consideration all the key aspects that tend to have an impact on the global Deep Learning Chipset Market share,"
     publishedDateTime: 2020-01-09T14:16:00Z

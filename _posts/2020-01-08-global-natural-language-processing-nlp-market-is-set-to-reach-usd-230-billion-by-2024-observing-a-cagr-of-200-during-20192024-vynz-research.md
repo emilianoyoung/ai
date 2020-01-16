@@ -32,16 +32,14 @@ related:
         width: 1200
         height: 627
   - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
-    excerpt: "market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
     publishedDateTime: 2020-01-15T09:00:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15124976/global-artificial-intelligence-ai-market-in-healthcare-sector-2019-2023-28-cagr-projection-through
-    ampUrl: https://amp.benzinga.com/amp/content/15124976
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15124976
+    sourceUrl: https://www.businesswire.com/news/home/20200115005015/en/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
   - title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
     excerpt: "Dublin, Jan. 09, 2020 -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The."
     publishedDateTime: 2020-01-10T18:33:00Z

@@ -23,6 +23,17 @@ images:
     height: 270
     title: "Natural language processing is the next step to automation"
 
+related:
+  - title: "Chatbots: The Next Wave of Construction Automation"
+    excerpt: "Thanks to advances in natural language processing, bots today can identify valuable information from everyday speech. Natural language processing is extremely powerful. Last year, Google released a voice assistant that is indistinguishable from a human. In this video, you can see the bot booking an appointment for a haircut with a real person ..."
+    publishedDateTime: 2020-01-16T01:41:00Z
+    sourceUrl: https://www.contractormag.com/technology/article/21120618/chatbots-the-next-wave-of-construction-automation
+    type: article
+    provider:
+      name: CONTRACTOR
+      domain: contractormag.com
+    quality: 4
+
 secured: "7WU6Rhc+rOJfsZ74T88Gg2uNbdZxAKlc+CjezQVjsadeqb5aws8eRK7yElAO+4DSGBIMgy+84tID+ih26ZGeCCsudsuFPdGftAcOCEoRfsG1+jIZlfkKC5qHP89CxI+lXkPvWo4PdKz5xo2srZ9apC8qJDhMqArEU2iENFXCOBtJPOmtLmcVLRxUY97eu9x4mI8s6kvoxbqhu4cDgo/9DaqNU0xxBYf4cDbOYHqarbSM7wpON1wYcnRjtVLBNhi29bf7xEPxQN/pBUGNjp2DQnyBND2QL4z+eQzAoyBWVHS2CEBX5o7BaLa+1D3GW96s+nWuTLe5mLbGLiIlMjwlrDu2UNTuahzV2k1Rgnx2Rslhn+BKNDJ/GhysOMTnLKTmXro77w2Fq3QH613XLp8dzN2eHawOpYmjNmWWAR9kydr/6KgL5p9/jJPOq/xOEHoKyG06NGeRxo9nNM1aYpdOVQ==;QUlXIsmUpBiBkh3D9fC3lw=="
 ---
 

@@ -341,6 +341,19 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/zbzCDAC.HvGwwCy_Q7ffRg--~B/aD01Nzg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/rfi_english_75/916a51cc38e3769dad620b24a702ecdf
         width: 1024
         height: 578
+  - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
+    excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being used now and put guardrails in place for its use in the future. Members of the House ..."
+    publishedDateTime: 2020-01-15T20:10:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/lawmakers-working-legislation-pause-use-facial-recognition-technology/162470/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
+    images:
+      - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
+        width: 400
+        height: 400
   - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
     excerpt: "They’re people with speech differences and they’re helping improve the technology of voice recognition, CBS2’s Carolyn Gusoff reported Tuesday. Voice recognition saves time and enriches life. But what if your smart device isn’t smart enough to recognize you? “They don’t answer what I say to Siri,” Jake Lunney said, adding when ..."
     publishedDateTime: 2020-01-15T00:01:00Z

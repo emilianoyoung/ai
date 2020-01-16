@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T22:01:00Z
 sourceUrl: https://cosmosmagazine.com/technology/researchers-create-robots-made-of-living-animal-cells
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,19 @@ images:
     title: "Researchers create robots made of living animal cells"
 
 related:
-  - title: "Yale researchers identify fossils using machine learning"
-    excerpt: "In recent years, machine learning has risen in popularity as an exciting frontier in data science. This type of statistical technique can be leveraged to gain insight in all sorts of applications, from suggesting the perfect song on Spotify to predicting the weather. The newest application? Classifying plankton fossils. Recently, a Yale-led ..."
-    publishedDateTime: 2020-01-14T05:42:00Z
-    sourceUrl: https://yaledailynews.com/blog/2020/01/14/yale-researchers-identify-fossils-using-machine-learning/
+  - title: "Scientists used stem cells to create a new life-form: Organic robots"
+    excerpt: "These are novel living machines. They’re neither a traditional robot nor a known species of animal. It’s a new class of artifact: a living, programmable organism. Xenobots are made using an artificial intelligence system that relies on, aptly enough, evolutionary algorithms. The scientists program the cells using a supercomputer at the ..."
+    publishedDateTime: 2020-01-16T01:33:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/15/scientists-used-stem-cells-to-create-a-new-life-form-organic-robots/
     type: article
     provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 19
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Quadruped-800x534-796x531.jpg
+        width: 796
+        height: 531
 
 secured: "IDLg5Z5ODpj9kZO10mgFeSNmppNmaOAgzN2Dk8nofaFVR6XQOsDMwDOp1ykhUN4xxq/dNsOFtU9algPUIhYtrTqYJVv+N8tTyq39LM2B005tTG5l0QrKzOIqdS73wk/Vs8WnbH95GM4F+/Clk2jl4/pU56h+uGDvFl7G/i/QN6RYaM1YEluZIbLy0YF1bjXpBlrrMcd/01JeBsQXOSJa5tv8IK+QiVUYORSnbSwCk423G0Qh5hGebH+rUjGqHXING7m+RaI1+Nineu88wq+7PPDyrzrOq04CFJpg0sew4hg=;olrtweyKtNUQvn5WajRxow=="
 ---

@@ -332,6 +332,19 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/zbzCDAC.HvGwwCy_Q7ffRg--~B/aD01Nzg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/rfi_english_75/916a51cc38e3769dad620b24a702ecdf
         width: 1024
         height: 578
+  - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
+    excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being used now and put guardrails in place for its use in the future. Members of the House ..."
+    publishedDateTime: 2020-01-15T20:10:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/lawmakers-working-legislation-pause-use-facial-recognition-technology/162470/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
+    images:
+      - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
+        width: 400
+        height: 400
   - title: "Surprising results after activists test facial recognition technology on Denver City Council"
     excerpt: "DENVER — A test done by a grassroots campaign to ban facial recognition technology in Denver found it falsely matched Denver City Council members to people in the sex offender registry. 5280 Not 1984 believes the technology isn’t ready for law enforcement. “A big concern that our group has is the proliferation of false positive responses ..."
     publishedDateTime: 2020-01-14T05:33:00Z
@@ -364,6 +377,6 @@ related:
       domain: washingtonpost.com
     quality: 3
 
-secured: "7ak18lZ28ypVZYXsTl+0xhLokhRQTRvLgCErp6hR5lrmrNRSepjBB3l8co1XHmU6j5cZ3oqyhZCbessGAOyEgzZZDcmaXT7gqLQ1ODOMCo4oFAZNCh0xzxyZZ9MAn69hESNGbituVKxOt/1ZqL1flM4AATabn2c3gkcnFAu/Ze1Z0ez0xxnDOQe3x1lnpUstuCRMgeOBoSIlxWhpKZoUcZau17x784k2/U0iDAXJlte7AVdLdLensZhrXh+cvyiDyTfvsnBuUEwvopzrp4WP6AVG8WljLMEAD1Y1BE2nqts=;qWKfXCD/yvHUPp84XXx4cQ=="
+secured: "80rJbohWWbkFNVCeFLgOee/8Z2sPZdZfbDlNRD0ej5vhXyAuovOOA+l7Di39XsmmxpvoRxmSy9AsE3s5x8LWE7o419K9sWTwSppFsn3axmsmD8wNzaQ7dkwSMtl4wzl9+xV1k9vFOipbC3UDRQ7H8wd8kzwkFEIvvcYSbLhFKD3c77zDpC1vgd4dOy4k3PnuQhz5yKrVgaoIXwdM9gmuOOJ6aUDygaoQL4hDfibjzaIyFCRayzTNgvbGGa627UruoAdCSMu10mslJKXr24bIywfJjwJS/gNFXZ65s/ZDixkOC0ASb8hFkiVeThw25nynwgR79sdWftFEQH/WZzgA71IleTOlgYNNySD1Op7VXaGvglxQzn++CB7FHFqIOmhFZSANECgVlC17cydwVKfK4/e9KTiz1KVHxJxb27aexP3InqFAM7OtMgc112eZiPpuGNT6D0RM0CXn3dLYWbXjzQ==;kkfSTBRWUraXnHpmb9dmzA=="
 ---
 

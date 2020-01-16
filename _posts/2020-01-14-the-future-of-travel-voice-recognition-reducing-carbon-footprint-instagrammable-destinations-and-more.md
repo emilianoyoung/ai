@@ -70,6 +70,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "Artificial intelligence and the future of rep visits"
+    excerpt: "As access to healthcare professionals (HCPs) declines ... By combining the best in industry expertise, brand strategy, CRM technology, and artificial intelligence (AI) and machine learning, reps can have the tools to make anticipated relevance possible. At a recent Digital Health Coalition Midwest Summit, Intouch demonstrated examples of ..."
+    publishedDateTime: 2020-01-16T01:21:00Z
+    sourceUrl: https://pharmaphorum.com/views-analysis-digital/artificial-intelligence-and-the-future-of-rep-visits/
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 19
 
 secured: "csoraXsqxECIT1TBzP7t3qpqowUe1pLNgDNQDbMTe5aNRR55FiovJ4iRryoEt3A99N2SB0yeXk5+s5Zf/HaBmf6WXZmFD/+kgM5Yeyw5Z//KE1O0Y1XziWpOrzlXmfFsSP286vvlA6f84Ne+uUr/jB4ZLbr4OJwX/BokefBNZOeioTv5EM3H519d4bQZ8KUO8u0LMkYwmilGX4xk4be6d+NCeXXiYQHgJhMzwt1MWHeCzWJodyp4wQK59+8es6vzRXuzHzgyV/Ica63BfwDsNo84eftHER4p59FtCZOLhMs=;bJs+mUa6jxrpEOdNxQhCCw=="
 ---

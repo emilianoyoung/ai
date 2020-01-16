@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-
 ampUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
 type: article
-quality: 78
-heat: 78
+quality: 98
+heat: 98
 published: true
 
 provider:
@@ -23,6 +23,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "eqdaQ9KmyYSyi3mvbYTSiIuiPHx1jEttvzISDnFNyu9owDpu5WHeMb/nFiLI1VZj4YOmsbbcMHYLuIClLf+XzXoRyVlJ+834NNQrhymRYADX7xmtjvdCQqv3iE0U7gACnkidJVA8BSqxMbJ86sQQCa03AvERvP9xYHkKh6TtvZYinUZ2QiKSJIv5k1UswrxoQ1YIO2IcYdT77ZqumeHLutv7gmxaXBDWMwmjhC8nzN2ptJza4Y0ggfeCdUKsYe6OJhK2kXYNEltm0YywbgC41kYvpC5DdbMhD3q5E+sqgVc=;qmXctbYCehMHGhAtK+veLw=="
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2020/01/Mockup-1-e1578777547819.jpg?fit=1200%2C600&strip=all
+    width: 1200
+    height: 600
+    title: "Zinier raises $90 million to embed field service work with AI and machine learning"
+
+secured: "Y0XCksc5TXjJrrFnGxq1iZxoNulUybhJHsDPUlsqPqH1srHvELqLgm4xsojS0S1TNnJAcxc5mvXzweETCZh5/gtrKK5GNkLEyObQ2NVnz2O81HG28ahDiaw+i+bZQvlxv4ZziTzLmTCT+Dhz2x+KA+a6R0n3PAR4dDfDtBLZ3IulfXfjcoGlcKO8/Syxtv+OHOM/3s3dZC0d8jonO3gRHWGCL6XPQVxBYF7MeZelKbOXGl0Ki0keXrqIlKc9EG+eLUMC3nHbK4gaH8GpwqDhEXW3HD+6+WT/sAEs2Eh5TYI=;O1UNuwCTPYo1wLJTS3TuZQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T19:54:00Z
 sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,72 @@ images:
     width: 2000
     height: 1400
     title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
+
+related:
+  - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
+    excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
+    publishedDateTime: 2020-01-16T01:04:00Z
+    sourceUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428
+    ampUrl: https://www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
+    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/campaign-against-facial-recognition-on-campus-launched-by-fight-for-the-future-students-for-sensible-drug-policy-20513428/amp
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 51
+    images:
+      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
+        width: 1200
+        height: 630
+  - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
+    excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
+    publishedDateTime: 2020-01-15T16:41:00Z
+    sourceUrl: https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Voice Recognition Used by Law Enforcement"
+    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural Language Processing (NLP). It is a branch of artificial intelligence that helps computers ..."
+    publishedDateTime: 2020-01-12T08:00:00Z
+    sourceUrl: https://i-hls.com/archives/98105
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 24
+    images:
+      - url: https://i-hls.com/wp-content/uploads/2020/01/sound-856770_1280.png
+        width: 1280
+        height: 720
+  - title: "Facial recognition hearing leads the Hill’s packed tech agenda"
+    excerpt: "We'll be back on our normal schedule on Tuesday, Jan. 21. — Busy, busy day on the Hill: Today’s House hearings on facial recognition technology and media market diversity, and a Senate hearing on U.S. preparedness for “industries of the future,” offer an overview on some of the biggest tech discussions unfolding this year."
+    publishedDateTime: 2020-01-15T15:00:00Z
+    sourceUrl: https://www.politico.com/newsletters/morning-tech/2020/01/15/facial-recognition-hearing-leads-the-hills-packed-tech-agenda-784408
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 19
+  - title: "Software detects backdoor attacks on facial recognition"
+    excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty ..."
+    publishedDateTime: 2020-01-15T00:00:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uarl-sdb011520.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+  - title: "At House Committee Hearing, SIA Shares How Effective and Responsible Use of Facial Recognition Makes the Nation Safer"
+    excerpt: "The Security Industry Association (SIA), the leading trade association representing more than 1,000 companies and organizations developing and delivering security solutions, testified today before the House of Representatives Committee on Oversight and Reform."
+    publishedDateTime: 2020-01-16T01:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/house-committee-hearing-sia-shares-202000953.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "KaMGZ3rKY4ixmtgbX+YQyZ4tcg/j0dQsa985SONaiH1ta+HBCx6k5S7I5/zyGl2RqrmlOlDC2x/gIEgm6U0pYC/tQ9g3UZrrBWzRfMRxBkKtD+fG25jh4BE+0BS2QGeK1ds5AcA/Mr9PGbhORmfGAu1CCdOUDnHoQLZvNedDEofkcTvccaYhbbm3s/nFYC25/SujCuuPNjBNrDaEWYEDSTB0Y8lI2I8oGf/Cw5sWWakj84es6xYr/OlaRkrDB3E5uD0iY3BfJKULMdcdKS9pz0KfapRUEhhie/R0lXilh+fjVk5PB2OFaDDyqS6CwmSzvdgWy1S7UXkgbeWULpD/VBQ77bepsso+ctG5FMpOawYpUM7IhmFgoH3ixJZAkb5Phsb9pL7/rHs2XaSrSk6b65R6SbLCCUX80XfFsnPC1l4rPOCcPuZqjiz8HYAmpRgHyjjeE/ISBoGF+upstXIfVA==;u1XqGiSJzbtYrXV0u7k1uw=="
 ---

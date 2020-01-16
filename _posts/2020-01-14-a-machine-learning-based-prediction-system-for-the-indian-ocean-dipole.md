@@ -37,6 +37,15 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56589-3/MediaObjects/41598_2019_56589_Fig1_HTML.png
         width: 594
         height: 685
+  - title: "Does Machine Learning Improve Prediction of VA Primary Care Reliance?"
+    excerpt: "Machine learning models, used to predict future use of primary care services from the Veterans Affairs (VA) Health Care System, did not outperform traditional regression models. Objectives: The Veterans Affairs (VA) Health Care System is among the largest integrated health systems in the United States. Many VA enrollees are dual users of ..."
+    publishedDateTime: 2020-01-15T00:00:00Z
+    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/does-machine-learning-improve-prediction-of-va-primary-care-reliance
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 19
   - title: "World Premiere in Zurich: Machine keeps human livers alive for one week outside of the body"
     excerpt: "Our mission is to drive the translation of outstanding scientific discoveries into new therapies for patients and breakthrough innovations in the fields of Regenerative Medicine and Robotics. www.wysszurich.uzh.ch. The perfusion machine replaces the functions of various organs in order to keep the donor liver alive outside of the body."
     publishedDateTime: 2020-01-13T16:05:00Z

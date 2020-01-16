@@ -23,6 +23,6 @@ images:
     height: 900
     title: "House Intelligence Committee chairman praised Facebook policy on deepfakes"
 
-secured: "+1T0JXSqR8DbKIgSggnzG5VX3YGiB8L9z7yoiwUVY4FuSVaK88AA5ny0hPjl/7c9YaYfJTorB/6GhHCmx7PreXtO8xqzQv3Pm/HjWTryaER4RBFLjFqQmSdDTKejdaL+FKNTCMart1uFzsTp52+WKrePOvgUN4b5FHwp/6oO3M0/mzDouphLeQawB8OZoPpTedG2uKnRON4r15R8YwFG2s6jOvmxLF7yd5QoUr4ITpnuwHVV820AYL3Gk4QSbAQLRLZVGMwMtF5t4WZfYHAF8ZG46f7+2V6dvVq/8sbKYtw=;8yiODI+byiybZIxwyLtMKg=="
+secured: "rq1o+j/AjvJjaOG/JWCzrD/2uaStdGUw/L8VBdats4n5AwBFXLjhdSvHDDr4tUcHIz7d1LJLKEjEEaPIa407g/AJdnbE5Wms37iJt95ViJ13fONqB5uZHypNkXJrTW0vTdXr489lAHohJwdf+AIPdRZtE7UsDT+yuKrdAhQETtm31iebR6iH14Xs3IxX0CN7/iq2PKcDwS+CJ6B/AidQ6T+33h23aNJxCQh2wx5KyHMoV1oksoObEBxcNcdqyfU/jBZgI5h72DCCKbxSC8CV7MZHZ6d2POtlfEvPzIqBXsXnAvkjh6AAsqbRJe+XitTHOV4kjHB5uvBcb89bOjRnKEW2zqbsbG7rZ/16sRnzKwLiSLzUD3VuSgv2gicek6uzS8zqEpUBD9B5LdMafo1xQ1mLXjylj6t8YB+as9nWPSx/JhKaZMH8/FnXzz+1rsagpg9Z+0sJzR8vzdCtos6bXA==;tqLsQv3AJBLMp6wboKGRFQ=="
 ---
 

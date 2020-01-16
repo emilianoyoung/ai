@@ -44,6 +44,15 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56589-3/MediaObjects/41598_2019_56589_Fig1_HTML.png
         width: 594
         height: 685
+  - title: "Does Machine Learning Improve Prediction of VA Primary Care Reliance?"
+    excerpt: "Machine learning models, used to predict future use of primary care services from the Veterans Affairs (VA) Health Care System, did not outperform traditional regression models. Objectives: The Veterans Affairs (VA) Health Care System is among the largest integrated health systems in the United States. Many VA enrollees are dual users of ..."
+    publishedDateTime: 2020-01-15T00:00:00Z
+    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/does-machine-learning-improve-prediction-of-va-primary-care-reliance
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 19
 
 secured: "YnWggpW6LHabqKoeiGpfcJPgzZ4tzG67G3P7KDXP1QI72LfywbDD6H0tmYZRL0lHcJwBSuU2KdMEeuJlWcST+jAK5M7kE0KPMg90l4UBflzH3SAPfD1sE6bEcAB1ABuBgIXvecWLvhcTxhzIK/lgu0+qt+cJfm4cUH7xZl47TAjRIt1KjuX8HKESe/m90xLTXHAB+skuskokdeokbJacVP86oUW5vj/3RNQzMWe+L4nNzpwBPNvyb0MFYGUtHpakrbdkj/yOsS6/WHPH4hG6tJoG7hqCB53w4THbRlXU/2w=;zY/a44cNmE6cntxpS4h8ng=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelli
 cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ces-2020-virtual-reality-artificial-intelligence-and-a-small-glimpse-of-the-future.amp
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "Artificial intelligence and the future of rep visits"
+    excerpt: "As access to healthcare professionals (HCPs) declines ... By combining the best in industry expertise, brand strategy, CRM technology, and artificial intelligence (AI) and machine learning, reps can have the tools to make anticipated relevance possible. At a recent Digital Health Coalition Midwest Summit, Intouch demonstrated examples of ..."
+    publishedDateTime: 2020-01-16T01:21:00Z
+    sourceUrl: https://pharmaphorum.com/views-analysis-digital/artificial-intelligence-and-the-future-of-rep-visits/
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 19
   - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
     excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
     publishedDateTime: 2020-01-14T11:28:00Z

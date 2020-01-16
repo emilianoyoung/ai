@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/15/apple-acquires-edge-ai-startup-xnor/a
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/apple-acquires-edge-ai-startup-xnor/amp/
 type: article
 quality: 89
-heat: 129
+heat: 159
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Apple acquires edge AI startup Xnor"
 
 related:
+  - title: "Apple just bought a low-power AI startup"
+    excerpt: "It's reportedly spending somewhere around $200 million. Apple has acquired another Seattle-based AI startup, Xnor.ai. The startup specializes in low-power edge-based tools that allow AI to operate on devices, rather than in the cloud. The tech could allow Apple to bring edge-based AI software to future iPhone models. Apple is giving its ..."
+    publishedDateTime: 2020-01-15T20:17:00Z
+    sourceUrl: https://www.engadget.com/2020/01/15/apple-acquires-ai-startup-xnorai/
+    ampUrl: https://www.engadget.com/amp/2020/01/15/apple-acquires-ai-startup-xnorai/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/15/apple-acquires-ai-startup-xnorai/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1999%252C1250%252C0%252C82%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1001%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-12%252F75e192d0-1788-11ea-bd6d-8c627f5d6001%26client%3Da1acac3e1b3290917d92%26signature%3D0f5131d5cb20591e0ad29fe556c9cce65e962445&client=amp-blogside-v2&signature=2e2945736063afc22e912be615a0a4c644f042ff
+        width: 600
+        height: 350
   - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
     excerpt: "Apple Inc. acquired Seattle-based artificial intelligence company Xnor.ai, bringing on more talent in a key area of technology. The company, founded in 2016, had raised millions of dollars to build tools that help AI algorithms run on devices rather than remote data centers. In recent years, Apple has pushed to run this type of software on its ..."
     publishedDateTime: 2020-01-16T00:29:00Z
@@ -56,6 +71,21 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2018/05/180506-xnor-630x354.jpg
         width: 630
         height: 354
+  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
+    excerpt: "Apple has purchased Seattle startup Xnor.ai, a company that specializes in on-device artificial intelligence, reports GeekWire, citing sources with knowledge of the acquisition. Apple is said to have paid around $200 million for Xnor.ai, and while both Apple and Xnor.ai have declined to comment on the potential acquisition, much of the Xnor.ai ..."
+    publishedDateTime: 2020-01-15T18:01:00Z
+    sourceUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/
+    ampUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
+    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 72
+    images:
+      - url: https://images.macrumors.com/article-new/2020/01/applexnoracquisition.jpg?retina
+        width: 1600
+        height: 838
   - title: "Apple acquires edge-based artificial intelligence startup Xnor.ai for $200M"
     excerpt: "Apple had paid the same $200 million for another Seattle-based AI startup, Turi, in 2016. Forbes had ranked Xnor.ai at 44th on a list of America's most promising AI companies. They applauded the company for developing a standalone AI chip that could be run for years on solar power or a coin-sized battery."
     publishedDateTime: 2020-01-16T00:43:00Z
@@ -68,17 +98,32 @@ related:
       domain: appleinsider.com
     quality: 52
   - title: "Apple buys edge-based AI startup Xnor.ai for a reported $200M"
-    excerpt: "Xnor.ai, spun off in 2017 from the nonprofit Allen Institute for AI (AI2), has been acquired ... An acquisition by Apple makes perfect sense when one thinks of how that company has been directing its efforts towards edge computing. With a chip dedicated to executing machine learning workflows in a variety of situations, Apple clearly intends ..."
-    publishedDateTime: 2020-01-16T00:36:00Z
-    sourceUrl: https://au.news.yahoo.com/apple-buys-edge-based-ai-225404360.html
-    ampUrl: https://au.news.yahoo.com/amphtml/apple-buys-edge-based-ai-225404360.html
-    cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/apple-buys-edge-based-ai-225404360.html
+    excerpt: "Xnor.ai, spun off in 2017 from the nonprofit Allen Institute for AI (AI2), has been acquired by Apple for about $200 million. A source close to the company corroborated a report this morning from GeekWire to that effect."
+    publishedDateTime: 2020-01-16T01:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/apple-buys-edge-based-ai-225404360.html
     type: article
     provider:
-      name: Yahoo! News
+      name: YAHOO!
       domain: yahoo.com
     quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/53CKpvpavupNvL.O9ySi1Q--~B/aD0xNDQwO3c9MjU2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/cd973bc70839f3cf52c93d3f9a8515a5
+        width: 2560
+        height: 1440
+  - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
+    excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
+    publishedDateTime: 2020-01-16T01:36:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 14
+    images:
+      - url: https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4b45ead200c-600wi
+        width: 600
+        height: 330
 
-secured: "zWKtTAnxtZQRtsXMUCcOVhtOcJ/R+2E8IzitjxFj220EpyTWJijDnALCLHJCZHLwFYKymKtlEthdUVtFqj83qPHiUC+SWLcAFQk8pa2e7GdzB8XkEuEeNJ6nd5XgT6b1IXbqA/jNrbbEafk4mkqcFv7u/WBmnHRu8SYYR3TQhWFol+nW8cRtXHm6O3Wo/LyBYIrgL8AiVjxuI67a/ESyoeTnbfY6AuoqqhuIwalC6QVpHqppul1nn9nqb1MiN1orn1zOdmnmXHVe1gXdVsbxLCYtW+CUlED86uI9ZZQtJrs=;EFgoFx0MwBpRGPV6dLRIjw=="
+secured: "CDEeRqB0bt3u2Zg1U3kRgKlz4Fc/czPlO5/zFu6P0vSHgL4Hrque8mJL5OcAOEQ6MowORtK8lhqWO36QLwVDnubHOIRXEgHnh/u01KnC0vICZkL6htennvCq6cYyBtTY9tlPQ9BoWq6SfNmeL9sEnBmOp7vBniUgnX93IQxPD2FOumj8WvkjRIHpFWvweLKON7CwYiS7Ai+f6JOCbWNF4EWX3JDKQaelateCXUOJgeWqoQbpdO+L+YhK6+F2vktswHEOQxcl/meG4kCjUPdl/zn2WhBBu67a+CCO+KSZxdh3sVpuo1TQWGPsHlGJtXaWY/XjYU35k9MJ4d45nb0p5+QXSLVcr87Tcckc5H3tGGfIVDt+11w9A4sQgnoOcd7Qqix7uLmaUnmhx7Rv+W27OJl4Y1piYi2jss9kCC8C6mtuxop5DGXDO2CLk+zX1FvPQsK5jy4FcmrqcrFjW2kM3A==;Pu24s7U3Te2xcz5zhlC14Q=="
 ---
 
