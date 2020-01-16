@@ -24,6 +24,19 @@ images:
     title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
 
 related:
+  - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
+    publishedDateTime: 2020-01-15T09:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200115005015/en/
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 44
+    images:
+      - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
+        width: 1200
+        height: 627
   - title: "Global Artificial Intelligence in Healthcare Market"
     excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
     publishedDateTime: 2020-01-16T03:41:00Z
@@ -33,19 +46,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
-    excerpt: "The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home ..."
-    publishedDateTime: 2020-01-15T20:29:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-healthcare-sector-2019-/2020/01/15/9081733.htm
+  - title: "Global Closed-circuit Television (CCTV) Camera Market 2019-2023 | Introduction of Deep Learning Technology to Boost Growth | Technavio"
+    excerpt: "Some vendors are integrating the latest technologies such as AI, deep learning, and machine learning with CCTVs to improve video surveillance capabilities. For instance, in 2018, Zhejiang Dahua Technology introduced IP-based cameras with built-in facial ..."
+    publishedDateTime: 2020-01-13T20:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005538/en/Global-Closed-circuit-Television-CCTV-Camera-Market-2019-2023
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
     images:
-      - url: https://mms.businesswire.com/media/20200115005015/en/766998/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
-        width: 480
-        height: 270
+      - url: https://mms.businesswire.com/media/20200113005538/en/767042/23/Global_CCTV_Camera_Market_2019-2023.jpg
+        width: 1200
+        height: 627
 
 secured: "Johep6N7cBmpvpp0aC48Q4AC+z1VgdBgcMT9H0bB++KxHvC9pPLiQoQy/HOpAtJBGXfFPQGKj2/neQy9L4bCXejSHxYXAph+bL0h7B2SguVdNo3De7bMOe66cRfZEOVnWKOYJN1yTZy0vk3pW8bdf5wMvzNt+WGdCfzwdInypSU3tWuGz4SJ41NUXlzJxcjJ5187zkkWoQoCVxRgpP9vDA3PFrrvzObs0jNjcMb1zhOUGNmxumz64MRob0Hd0y3cxmErTQPzFl1py/X3+rkNK3Bpw7nCMhg+sHc5I7XJ1VV4beld38SDIFLn72z+fD5GUo6iItvYFJnQrZwLAamRMHHUJgomz4RagGsJR+58flWpeAzJfs31JS2vYhUZ+i2PiYE7jWI3mK44RkUZ7ArDc2ukMkVs75iv2MlI+uwcgwhRbDcIGA4QjiiruCmt2EwYPY6tVtsua5NJzgXqJwe0Zw==;nlvhc5Ockl3jkHFHQWG0lQ=="
 ---

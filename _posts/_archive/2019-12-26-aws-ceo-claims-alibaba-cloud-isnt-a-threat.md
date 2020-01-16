@@ -25,6 +25,6 @@ images:
     height: 275
     title: "AWS CEO claims Alibaba Cloud isn't a threat"
 
-secured: "F2N194ng/wp6sIFRFi911Zzvs+lFacD8CY5rA3jC1CxMckamVuMjFVNncbxWuWdrHnCJJkbWHxbirBaemJFFWeHyUP24Oqh1W8pTJF9pNReMwwOfL/5ISm5AVkPo6ClULM4THL+VHvcweceGjxcZL1BKddpe93Mr3tjsKAzI6N56C9f36eYDl8M/0hhrAPChdswAaGjoi4TAIv8pJj0SGbG0IIgXbP6KF286FTC5d9OlOhCJWcyJnm73ojOmBBBgUIOfCDamHHYZlKu298hpCRoyNZMBKTi+ZtMDdWkeClE=;J7O0B9UcIT6+0MhpNfFYSg=="
+secured: "yBBZRtMfX77Rxr2ntBbXyQA75wr95SCRu3Ay3i/abXtvSdEMrZCjYh1CXaX6j2htFzro+Yq7I3vxP8SEwwViK/v/+Z55ZQcPpC1SclBUKjCiUAWSjMlPR/5hxMpJCRBwoMhWAG/GiR0Bovkd3iDy24AqmwpChRaZUkie082pGZpTUDPx/zlSnO/MTLCvz/Y2mYKuoiUqHE1jMXdMg5hODY7j+9L4Apv1S9DMk3JGGJ+4kxhvN+gppo5mWVhLrPaaXFqZHEq4LHmVCuNoALXkO5TBjuZRvAYfkLlWDVyUIpQ=;rRSdlKay6l9nLHuiw3elbQ=="
 ---
 

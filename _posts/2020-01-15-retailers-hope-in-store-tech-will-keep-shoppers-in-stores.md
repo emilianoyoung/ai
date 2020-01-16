@@ -3,7 +3,7 @@ category: news
 title: "Retailers Hope In-Store Tech Will Keep Shoppers in Stores"
 excerpt: "A number of startups and established technology vendors at the National Retail Federation’s 2020 Vision conference touted how they can help traditional retailers keep shoppers spending money in physical stores."
 publishedDateTime: 2020-01-15T18:40:00Z
-sourceUrl: https://www.wsj.com/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202?mod=newsviewer_click
+sourceUrl: https://www.wsj.com/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202
 ampUrl: https://www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Retailers Hope In-Store Tech Will Keep Shoppers in Stores"
 
-secured: "1WZ7yJVBcRPU6WVOBHIbypX81ERkrKMtMdikZIuW6z5JhVI0WJeyJI+9FwJcmZDlGkdRvLfbNSvtZPSMJVMAfT6sEVkX9VvSpXL6PKEk60FqqfU1AmiBBkByydgud/A+b3+EqIHkrioFRpciH9uu+a0pSK4VeE2OzR+/w4yYhExm0hfIPggstQzbd61i2O6Lxff6YQ+BnHKjsJFhqD5XMR7bDPsyHlxhP4iGLNEvUiqbkh8AIHF5JxpMqMKmhU+KGJkcLzSpWy/Vjhkrk+ls2c6fQn1xDXHHePN7pVyYpbw=;fBlxYuYQK1QkZRkrtHRB/Q=="
+secured: "r4/J87spefZmX7OZQzHC0GEWtqp0PSPmcvdrMYxKW898u5eY8mxziiRsNdbH6EcG4olRrGrZ7UbnUx9P/UJT6y8RXTMFCOaAVmQlilpg3cRZcXnVgd5o/rPm2sumlWndcj1UB/iPgLaWOn5L+BYgm+4kS3o/2yefXFXvm865CZy68BVnav5Y6jPqjDD33H2BprTWdGkf9/pspyUxKrAy8bP7GPp62QMtNPdnTewbr6UibY5hkFnSVE5o8b+feZk3/ci0nPD1xReuFj2O7vgtIAfbUO0tde0R6yZgVAg/OPQ=;OHO4qnyOeUITz50k6evB2w=="
 ---
 

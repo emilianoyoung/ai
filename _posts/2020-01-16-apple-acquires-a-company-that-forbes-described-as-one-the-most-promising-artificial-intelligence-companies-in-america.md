@@ -223,6 +223,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Apple buys AI startup Xnor.ai for around USD 200 mln - report"
+    excerpt: "Apple has added to its portfolio of artificial intelligence assets with the acquisition of Xnor.ai, a Seattle startup specialised in low-power, edge-based artificial intelligence tools, for around USD 200 million, GeekWire reported, citing sources with knowledge of the matter. Neither Xnor.ai nor Apple gave a comment on the matter. Xnor.ai co ..."
+    publishedDateTime: 2020-01-16T08:16:00Z
+    sourceUrl: https://www.telecompaper.com/news/apple-buys-ai-startup-xnorai-for-around-usd-200-mln-report--1322894
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "0NvkfofoyRuGflzDnjqAyEz6wWfHPpHWF08siUIcvCw44hcVjp98qxy/QWDFo9ZVzsXWz4qRF95uYJ/QGDdf3X8auk6jTO9wUrR8vAeFu/8wewEjmzcNCBE2S6IWV0KOa4iJOoyOpIkmE3RJ+dm37lhJNpoZkfQ63+O3p/QQkIn7N9qX2XjpokhstezUpwEfrh9bWpfddTTb41k5qYroI0gEoh/y8/u9fKUtqOa7WVEUOpxDQfTrx82G8TObztjAej0zrguYybp3Wjn+PYzQPD1U+1vc1ijzHW/LW2aAH/yuDbNf9OStKmLLtRH3fu0xc/CDNKyY1XNwGmH6WpAxV6UDHQSanA91xqtgpoBNMZ94y4zSr1uNl1Ek4H9ILAoZ9sHBEFP6nlkZO/Kkv7wwmcEPMAvYAYIe+DVKu1T2hESVgmB3rw6+ttjgmNorwvgAP4mSmQQBTxVW7DkMj1k3eQ==;/grSD87ewIjnXvgNp8XEag=="
 ---

@@ -27,6 +27,6 @@ images:
     height: 531
     title: "Scientists used stem cells to create a new life-form: Organic robots"
 
-secured: "zt2N4vGoP2wk/uOVk1N1tsCuSnQgJ1aGGtpXNx9XAYXpz7cCGpBoOxi5jXwHOkyYpP+cZz9LVK2ccg/HA+XcYgcVdqDEIk7Tliu3hySkx4j1KzDB89YO1idoQ4sBY648tAQ8ODNJcPigoHRptIK7paLKbyA0R+380SwkxpJ6+uxNbw1PtPoW/pN73uloFCY10tF0CNpmciynoIQsU+jSCvI7AYLQeWWVsuhDqHt+YceaEIIdBjCehXZ5AqR2mNxIVIT9UOusmIbBcy9nZ3f8IbUkwmhXBppEvTOVkB5wO50=;aPEd8IqYN3tRJwGm9U8UuA=="
+secured: "e4bDpUB216gOD/mE2xgQQRJbuvAnhlPx9n20nnnS9c27Hik+hBLWRaP58Pf/MK7IR0CZ1FvDVgX2Yt7HGUu8OSa6Nuylr54We2wj+IzqA96eupdOmQ/HAQbIJSQDpb9dZB2IhHSjWCNv/pLXZ9TxhJfWc/Ue4F3CD8M6Ksy2wzEynt69+qrlVGhk72J4L7DQGYoXRYShrqEr0PDNmWWFntRry74D0rs02xwHL9NUms0o1ry1FpjSXcw1dn3sFhE1lxdUY9vLxgTTfWSwWFxwrVChp6cwAO4ashWiqFTD6NGiP9mm3dFB/2mg99oB6fvJWfprosRsuI2NMKvtwSKx/w5/WGLG1u0rhIW+IMGzDoj/PY0ZLSp4JYbAfZ9kX9Am12HsNyHQ+Orr+KSixZ5XkU/ALjxjfiusV4YXb0f+ehDUb0z5SIHe2IBJilEdlB2+oEdyoc+b2q6Qp69jkwu+sA==;4b61ljIAEwoVClbaZXYz/A=="
 ---
 

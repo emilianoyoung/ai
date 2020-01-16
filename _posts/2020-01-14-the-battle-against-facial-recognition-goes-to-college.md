@@ -3,7 +3,7 @@ category: news
 title: "The battle against facial recognition goes to college"
 excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
 publishedDateTime: 2020-01-14T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
+sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
 type: article
 quality: 54
 heat: -1
@@ -181,6 +181,21 @@ related:
       - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
         width: 1200
         height: 630
+  - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
+    excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
+    publishedDateTime: 2020-01-14T11:48:00Z
+    sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
+    ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 46
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
+        width: 800
+        height: 600
   - title: "Choose a speech recognition mode"
     excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
     publishedDateTime: 2020-01-14T23:12:00Z
@@ -247,6 +262,6 @@ related:
         width: 1484
         height: 988
 
-secured: "K4BaJBDIGYf1HrLLA1Y2BYmzyIXeSazTA0FT4REAtnMiRgwoGEjQF6patFMymymgFTtxTQmqyfvzCiJDQ2CeaABuDuoQ2iemyDddWBeIm2lN3ghNEqCRsgymaN+A6A5rFcAoGGdSxaKevjSbP+BFHUVTCnJxguWAvxq9oI8xJd8SulLNKrbszTmRP3pB+bRaUXc4HGc3qbZlmva13fcStyrwYp3AdG5XnavL29lIv5jNJYi6prwOCnZwERZCaEm5eGpTeT39LuSLviUfpi0lFU6Zw4JAA0OZTZKzeYn84fo=;pGIBXblbVXfJYwgpk/4n7Q=="
+secured: "56tugV/1GxSSzOttq6uhIjpvikGsUsDRll8ZyHUVT0DyrdDOMct+ldCppGGAVW1GdOa4vHqs3mXO6Ll/de2rtw7WCJ62qObOr8Q3oIoqGvNCDtAwq2W8QcvgslJjCCE1ZUlaQ2Tkqrtk1dMGe31IyWmql1yuqgqlfsWh+26r2YsCcVI64LGD7wnZm24JW35Rr7YfV2h2W8i5l+jdMSt6n3nDzvWCbs5+OLUG7wXYGq3V7+O5+us6yguHvPWzT/nBwjwoGqltMVnQHICthsz9URj3DooiNweV3z/N+nSACiY=;/+jFQwhda2yF4WPp8pUpzA=="
 ---
 

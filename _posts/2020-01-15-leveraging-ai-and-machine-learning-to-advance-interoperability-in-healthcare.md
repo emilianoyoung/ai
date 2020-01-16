@@ -5,7 +5,7 @@ excerpt: "Without syntactic and semantic interoperability, that diagnosis runs t
 publishedDateTime: 2020-01-15T19:00:00Z
 sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
 type: article
-quality: 36
+quality: 53
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png

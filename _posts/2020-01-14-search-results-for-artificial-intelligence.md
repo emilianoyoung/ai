@@ -17,17 +17,6 @@ topics:
   - AI
   - AI in Robotics
 
-related:
-  - title: "Search results for deep learning"
-    excerpt: "Boulder, Colo., USA: Rare metallic elements found in clumps on the deep-ocean floor mysteriously remain uncovered despite the shifting sands and sediment many leagues under the sea. Scientists now ..."
-    publishedDateTime: 2020-01-14T23:17:00Z
-    sourceUrl: https://phys.org/search/?search=deep+learning+
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
-
 secured: "sXmML0i1uvLP69oJx2f8o78WKrIs+rpLtwfekRRu4iO9JCgn6EC5FG155OdI6E/7zDnROWDNEVZc44TXkBdAOjg+O0a4gGrALVpnqqlqidrf6NVibK8OwpoV4woDSY/TICK08C+uXIQhmRj9t1crRub4KbaGzAjb6lYIkbQ8tZqTQRA6eB0ntsm/3A/rTjsyCz1/2K3gyg6+5loKq8oKs+oijed6rWGsrqnooeLoNHTEVCeFCLxaUT18+cKLWzqffAlcRrIMMFxQ84FSSoCu6cXjEiWx8DmZbZ6wnZIkG28=;W/1DF6I/EBpj9kpzeRfVDw=="
 ---
 

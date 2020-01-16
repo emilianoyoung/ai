@@ -73,7 +73,7 @@ related:
     provider:
       name: HIT Consultant
       domain: hitconsultant.net
-    quality: 36
+    quality: 53
     images:
       - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
         width: 1127

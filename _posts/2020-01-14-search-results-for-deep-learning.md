@@ -18,15 +18,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Search results for artificial intelligence"
-    excerpt: "WHOI's robot, Nereid Under Ice (NUI), samples a patch of sediment from the mineral-rich floor of Kolumbo volcano off Santorini Island, Greece. This is the first known automated sample taken by a robot in the ocean."
-    publishedDateTime: 2020-01-14T23:17:00Z
-    sourceUrl: https://phys.org/search/?search=artificial intelligence
+  - title: "Yale researchers identify fossils using machine learning"
+    excerpt: "In recent years, machine learning has risen in popularity as an exciting frontier in data science. This type of statistical technique can be leveraged to gain insight in all sorts of applications, from suggesting the perfect song on Spotify to predicting the weather. The newest application? Classifying plankton fossils. Recently, a Yale-led ..."
+    publishedDateTime: 2020-01-14T05:42:00Z
+    sourceUrl: https://yaledailynews.com/blog/2020/01/14/yale-researchers-identify-fossils-using-machine-learning/
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
+      name: Yale Daily News
+      domain: yaledailynews.com
+    quality: 39
+    images:
+      - url: https://yaledailynews.com/wp-content/themes/ydnlabs/css/images/blueY.png
+        width: 417
+        height: 417
 
 secured: "q2l80x973RtVvMStHh5RprRBAECAXFicbb+VBGiSl89/zy8xdGVJjTDru5CAOO9QceEeCVpZdDQfG61uvvg25/oQZB8hCijpD3q9/EAPNHJ8ANgFQ+GE1I0dXDAY8jek5rI5WkCRUEX6i8HKW9ZOEDC4XiNi9gUN1VxW38D0udYmRhs/PMDCnSn7jp8O7cmxfzbzferOiWk0BVYNweAlCO/npJ0kuQFVIta+qW1ujUsAYo3Qfg/fKjhBiyuEq+thKQxpH9B0ZisK4WJQNEbQ25xv/t3GSvqeydncbj42+EY=;3UeAdsCevw8bjwNM2uoaIQ=="
 ---

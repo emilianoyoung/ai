@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T00:26:00Z
 sourceUrl: https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://cdn.technologyreview.com/i/images/sadiseasesofnervou00gord-web.jpg?sw=600&cx=118&cy=106&cw=2723&ch=1532
         width: 600
         height: 337
+  - title: "Prostate diagnosis may benefit from some deep learning"
+    excerpt: "Now Dutch researchers from Radboud University have developed a “deep learning” system they say is better than most pathologists at determining the aggressiveness of prostate cancer. It actually does the very same job – analysing pieces of tissue (biopsies) taken from the prostate then calculating a Gleason score, which provides a grading ..."
+    publishedDateTime: 2020-01-12T14:57:00Z
+    sourceUrl: https://cosmosmagazine.com/biology/prostate-diagnosis-may-benefit-from-some-deep-learning
+    type: article
+    provider:
+      name: Cosmos
+      domain: cosmosmagazine.com
+    quality: 39
+    images:
+      - url: https://cosmos-images2.imgix.net/file/spina/photo/21082/200113-Prostate.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835
+        width: 835
+        height: 471
 
 secured: "PB14YkPNukrL3UMZ5ek35izBe1F0Y0TBCz67jROh0WS3i4G0L25sKVYofyrkOyn6fa7GK+DiIGJlIKSfPySzYChFS/1hJL0gYpu16qTUHyigs0wjoKbWFhubWvKz78v+23Sk8PBEDz5Kc6rKosYXyixFyuiW80w2w5LCKK8xjTL8aBf8LxImqbjcnEwbpveXqFx296MDfHytfCvJNVHTrht2tHUA/xUA7Nc4kDuFktwcfGvKpVXrhg9JeynHjFoZ3fYyM+gYohMdTpxIgbrZ4hzyfaU9qgAOdvCZfdlzI794UQ5cFN/+GijAuwHNXXQGzHYaCzoB0pA0C+n7QVuP9inbfrbIXgFe8I+uhenTh/ltDP3bk7N9w2x4nDhlcCRsrjgPuQNGrvkyd2GrOcuqp4JNmE6YxdC5W5IGMpkQ0Jw2gUngO4FXl2I2UvempIw5cjkjdO8dmh3zqT1CFKnfWQ==;uIXXNjZC8XG/TxRs7P/FxA=="
 ---

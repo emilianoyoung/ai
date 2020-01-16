@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gai
 ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - Microsoft AI
 
 images:
   - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1054938092%2F0x0.jpg%3FcropX1%3D243%26cropX2%3D5753%26cropY1%3D0%26cropY2%3D3101

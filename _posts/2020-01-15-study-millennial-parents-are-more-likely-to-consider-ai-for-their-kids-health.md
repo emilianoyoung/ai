@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Study: Millennial parents are more likely to consider AI for their kids' health"
 
-secured: "w5LJ/bHq0OrpuveSnaqSKI6pKibhfC0M4USKRxn6s3ke5aeghQCjLuxBcmbiaFh6Lizn9RhrnGKvB2++YndhKxPfICnCnby4GwfXuxgpqiEo66nf/MS8kHxlzWPdO6ePBRt+fP2YLot9mu2YMkEZ2IoZAQiklhV6pijExqR+fEWqr+4laSsjgdN1Mg6hCJS3a5NS0WV5qz+pozK4rpLLm1MncEL891p+N53cIYCw1pp94BjpXZ/82ebi+jXo5J+mZaRePslWV80it2J1WBShgrkQwTWaYbMwCbjuhneP/04OinlXNYeuZZp8n8kmfh+vnLSADt7GxcbOYo2uztBIAzSduQJMquoxuQ7MOdcpKKkIqyHI05N2lg64xbn7vOWQSd4LO6tFJIM5IhHHQK/+y5uzLL68z93MmiSuD8S9nB/8PD11e5uE/tsZZD1oVtKNjESbQoXM3ra4HCj/xFqhNA==;y9+ze3erqkPWqLXgZw98Rw=="
+secured: "1PZPIk8yezIjF1R8RmoMAFcLrOjyZQonJJTkAkZ8i4WLGYKdpl2oj3k6K5IqZ2diMBQXn4b/ktsUHXemI4sWMJ55hX0qByE3wNEgb/6qS+eWnVjxJGqBlSHT1RTm0hgcEvE/UogxgJAH9IgmacR1kMHuXoSlLJQNsyTSegcBXlOQwriJDJehPwv5RESiAdrcyy55/A4OKZS6J/wNp3TB9AN3phbSM4vl6jtYUy89DCkTnX3GChOn1CR04dRDvARVXxTVO/gP2ML8sGDBFb9sg4sfq7eedQF+W1HBKG6rh7YBh+whUFGrMgAfBZpLvcFx/nU/HRnSSXHWNem+LxKQjofs9MsmeIkJnOQvGnCo6VHmS6x6kGFqM0gM1uPPzZaOWo+ZCptotz2h/0r/asgOiLz7+/RpMubXpzCJokefux9oD/Kaz3mHpEJtsXvbgz3PZeg/FPzjPzHU6zqx2wIk4w==;JWAL6+1L1EAI25h8lnAotg=="
 ---
 

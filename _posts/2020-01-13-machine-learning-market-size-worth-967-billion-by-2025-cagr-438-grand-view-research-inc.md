@@ -23,19 +23,6 @@ images:
     height: 733
     title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
 
-related:
-  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
-    excerpt: "SAN FRANCISCO, Jan. 9, 2020 /PRNewswire/ -- The global sound recognition market size is expected to reach USD 4.42 billion by 2025, exhibiting a CAGR of 75.8% over the"
-    publishedDateTime: 2020-01-09T09:05:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15096553/sound-recognition-market-worth-4-42-billion-by-2025-cagr-75-8-grand-view-research-inc
-    ampUrl: https://amp.benzinga.com/amp/content/15096553
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096553
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-
 secured: "sUeM13tO/pzEl6nj7zqFvLWw0IIR24rqa+M746/Kh+CSsnYp0HDnkJHt52/4zgd5dT9vOKnU404aLBjmw2i35fuDW4UPfDsGzUnSRE26tnkR36E5YTbQvhVoP2Upk2jZfnfzFYSbTjorZP0wWyXGxBA+kme1rd+0LcCxzqCij8t9Rbp1j0eKqDjpFdiY9Pmlje8BX7ktsCaG30Q/otfOhORJSYgXNA710kFVzZJ+wsuIIC/FOd1bzqThjj8q02hmKFGNK+k5a1ocPoGexMJgklV7MVOq6qkPCY5FwSdDAS8nde+NyLXcK9rUr6Sgo3MKJhUHTZMR4n1787EPKjZLz9CJlz4XU5R9rlgaBjDrr4mMhogUr/jvCGdyV/z9OFStea0CAecdE+z4HTED/N7J84kZ1jy6CaNVNggz+pcRdbgdm/LXg4tQe8p1tpqS3PBVn66cd7swMJMP8knKTWY+dQ==;H2AyqRWKBOWbkbrLdsNaTg=="
 ---
 

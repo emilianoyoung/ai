@@ -23,6 +23,6 @@ images:
     height: 307
     title: "Simple Fintech Enpowers Exchanges' Liquidity with AI-Based Algorithmic Trading Technology"
 
-secured: "UuYYZMxka1OPCSdUsECBwVWi4+Y4eppi6w8OFokt+P8j/kNVI3X7Nuuap3LBy7hdp8E2ockbVFYpm2HigHc8tnnrO3pZv0XKFkQ0pwl9N2frsR4/yMB1asjT4+H10zkYSDU3D9SYsC2NqQXVtxCbudOklr7R3A+LBRT+jm4gCwXZY2cJ45+kubughzCh0oyYiAC5ZYRkqP5zs2X9dccp7xiapc7n1eIPTIhwnwobJq/DGdD45h92ejisNtWhlcQr8R49qA/4u2+UsorJyLzxdj5Ig/0ySF2Q3JhKRv8WdKo=;b2EkV43FG769OocAL4epZw=="
+secured: "x5iWx+lF+2SYjMJy/p7Q0E2hElOfV8JPxZ0BJK8SwmFgPEOplR07XhlRfG1blVXAUw+eE6B0iIe5PvhWA0/iQcc89a1ZpMUZNEsShF4aRqnran1Zhd+Tgu+I304SJhfkl1b2JnE6RbCWD6L3u4CrRUJRi/6yUhJm+tJJ9YyMllTUI+zKR1MpMqI7ZB3Z8f7I+B77wk1K/bviapmXe88UAwGDrmMgkKCAFAIVWlW+RBGelcF2yHna7ZPG29ilc0xUEjoZRbVufDC/SGNy5pITZpQQvzn0ckBumBXVcEPqKI4hXsiV0iYk1NN3CURCfMTJddXe2Xr1hxrzIMB76rhuNRvNtnp8ckHJabZ5OsT0LYKnj29ZEbVPjvipsS/CUlbQLPMyl2WM1rCpMrKh4nSxTR7KTJYf5oDA51+vPZM4qJDR9kTOSv9e+WMm1gHX2d1A5P+lQ0Y0DB+PWfzpHU2ubg==;SR1VomYFSj5zDOy+A/ssPw=="
 ---
 

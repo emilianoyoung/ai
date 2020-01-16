@@ -28,6 +28,6 @@ images:
     height: 675
     title: "The Secret to Building AI? Quantify."
 
-secured: "nVdT+SuToRMLAk3+URu9G5JeNthUX8KzOI/CbiLK1fYOEjcMMwnJ3Dk8wq/TspDG4Yjn0jvF7x6uK1KWgs9TNV2Icv//6gDXzw8sB5BQBZs88IZnNMnWvCNq9FFV3wU2mLYP/0pbKIC2NlQzrKID4a9B2AeuPWhjMZhf65rZ7/UGnDRffYUvpqt+9ynzpqL4FC57EZQFMy/+8t+IJFnzR/gL6z+Hx8Q0Ko6X5eoOEKjIoj5BvMgZQs8XH7MCTixju9+VQFvi15WEiCi36RoRfYUpmGA0/QWLBJ6Q/QWvbng=;bqVtn/IVBik42QcTQitbgg=="
+secured: "LxcIhghthctfzK+nOC9KuUIrghzIZFzGJv0eZNdDczHDENSSO1scRsB+xGv1ERMWcZyR/eyq6T4fwyGr+IqerIJyaL8/A+cagXOD5gz2Cbj84/f4ES4kEC5R9FfLXnD1E2RNxQAqkCtFQHX6rIc7+xxayI0Ctz1LVsEOVoYaFKV/LmoyGozOl3yIDRlqsChoqPDNh6kKpwjpmpmIHGYL1wkPQn4OLFFBMqhkTxeynOh8vd1m2I9GolvsoIKC7bpwteCY6is4aeE5oWanJfPm0UlErYLruhbV8mXYuZzRhIhNfh7YOqeEeynNeVVLvs3iP+kcz0fNk8lzqjjQErA6r7oa1IS60rnzB/XEnzC9lYgiBLmNfZ3z4CWB1i4ZrjzrJ7xB2oiAvYzkwFh5zrnkDXEn5vF3z9/ZFRU4KYQMwg7AybCN29ZHRG3bzAEu1MhR8RN5Q+aoAHzW5s0R4SYhGQ==;dR+Z7/uYVAreFcBzz3OtPA=="
 ---
 

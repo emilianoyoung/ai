@@ -23,6 +23,6 @@ images:
     height: 436
     title: "Top Jobs In Autonomous Vehicle Industry & How You Can Land Them"
 
-secured: "kjVoUhzblO6eMArsORI2VQx4+klAYp7Yzqw4pub+7a78Ae7C58EfTo1k6P+E475pLPWuk78CAVjs+SnGbrbROeAVOMa+wV5ryG+bfXW0EkdFp8fsbfI8YSZMmLMNCxgkWV35AVC1DkK0ZoyunxZYaaQiGUOx8frZ8sradACMf9pySDB0gGLLAjI6Jl90ZNuTS20wUsEqCQ+bNZ0leak99YmzWfv4VSSL9OdKAioO2nPcr5qHNR+gce8bRv5LrtdaUcWMNxIws6hWxXFMX/AEJzr7X+7UOf/4BjumWOD5rVU=;kDna8/ApWlja/ATnIGSUXA=="
+secured: "68/82SX8e+dmxefqhIzHvlJFK+zvrB5+oeeXhwTPBrKxtxCQhQN9ifmtt/EuH06fe9ei9xompNFG2l26XPIVJifurzSHOKp8X2XmSycM4qt1CF6hgAnF6ka4NlbZHY96WfRrYt7yK1mY8D7N+ftR5JdTkctE+wRd3YWAh4egRXidUKlTqGawJctn9mXXT5iAeT9XWKsskW3nPlF6HDYseOv74nHMbfBXxDzgeaZxVmkufQUMjZ/ErV8t6TqQDsL1MeTbPly4T+Qlu98qQ2Pa9IMD2rH4NL0M+xf8tRw+5YUO+9Grdn37q0WA402KDsU1EQJRaF70MhtHd/Ddde22vQeVWzK2T28I8U1KAwsKaGtHI6TaPTr0V9Qu9AUt+AW1yEE5mHpJRAQV5YMWQ7/V+zvWTEF/zWHjwHfu9d0aPvP0/dUbPpb/qTKcVHSPq+hJbT0wwff3PnhuFJjgS+GwWQ==;ARYSuGhcMlNXXziuBIKgwg=="
 ---
 
