@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T10:16:00Z
 sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
         width: 1200
         height: 627
+  - title: "Intelligent Apps Market Outlook to 2025 - Google, Facebook, Intel, IBM, AWS, BigML"
+    excerpt: "The presence of several AI developers and technology solution providers that are developing smart apps for various business verticals contribute to the growth of the intelligent apps market. Global Market Insights, Inc., headquartered in Delaware, U.S., is a global market research and consulting service provider; offering syndicated and custom ..."
+    publishedDateTime: 2020-01-14T17:43:00Z
+    sourceUrl: https://www.openpr.com/news/1896195/intelligent-apps-market-outlook-to-2025-google-facebook
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "VHS97iqErOfFT9kGqZuXmfmsvWh2BQ01AqLCn3VAYrPiKFQIAg00VuReZHSfG37uezc5Hv1h0EO/DBRRtUWwED0agUFlcLYX6o4ZFyvBgM+P6fyrjGMVrGN2rVyHUhaK/cDXDKIvLLp6jgE617bvmfR5QW/Gn2757KZoItXSOq6ZAu2LV2kuZRcORTnsPxLgYn8+tXYUsAPb91SwCb90DTY543i2Y1boN9cjcV/7MYBcFGMiTzC6VTwR+1LDpYLQVZ538+nJt3aCzNiyr+XJia62HxpjPrPDRaWYT1rifP8=;Al0i1xxQpS7GQE3+llNJ9w=="
 ---

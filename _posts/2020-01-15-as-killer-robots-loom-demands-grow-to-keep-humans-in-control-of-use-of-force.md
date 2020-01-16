@@ -23,6 +23,6 @@ images:
     height: 630
     title: "As Killer Robots Loom, Demands Grow to Keep Humans in Control of Use of Force"
 
-secured: "0Htnj3Oxyngt+w0/0UYMEKFti14KSQzsvgY6LSwiSRSPuTdDsjPTO9jTDkqhkX/VdvRg6HOsOuvn1G14lFAiFEuNOTn/8Bl9hQW+8aNx4Bjrj0r0DB4sz7b1+ZAHgA/jyGb/IxD9ISKnV+pPyTXr5rlqYj2EzhDzgCNh04L/TK1jOolppY9Au/dzuMbp7sLR99o+pW0dHItVLbfsgpyUh9iQllH8BTbx9Gs8CHcxwjTDZ1MFcgQ3SgvOxw3RIJBpYKYdwwDEuOpKt4fzL/chWskstzE8h9pGmyjQKnLSdOE=;P04q03LzDhHUd8FQm8CShQ=="
+secured: "DSn1m0VIfG3TS6VVRlIXkMXLQUxtfd3d63z4RBXhH4Z9GlW4ui4TVkgrdi3BkDy1Cgf3d2BgNGSILSan7W2g1zn1+rFQca4nF0qOzk35YZpUs499fzx4WwUritjYl6HEpqb1MZDkkGtVyDAesGnp+0bNJ0ardDQUnknkQNF0/dSU48UoK5o8muDtPh+2fDsomnBjsZ2W5NiIjCDagb8N5SYvfSx8xK1dH/u5GkgV95jekpwemdPWevtQwk5Buz5E+SpZBmYbkgNmbcNfZ5FhvJFSpPaQuSwg1ta9qyKHFM6syDDBqpuReQ8zCOYYAWj/9c2geelP8+JlS4oV3hjLhPrH+tpFr7mi8AzaXhcZZGqCH71aVovUEmNSx/FMK2ww+MbIamdnDTUuxXi0Eci4Y/95aYr468YCF4vUTKohAa9AysPmbRIpL8BH2Rx5K6m2o1GFvCjCGVqlZ3U7C/L/Ug==;ZBqHk/UQxZ99K9g8s1A5MA=="
 ---
 

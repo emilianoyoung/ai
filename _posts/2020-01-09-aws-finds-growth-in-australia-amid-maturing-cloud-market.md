@@ -25,6 +25,6 @@ images:
     height: 400
     title: "AWS finds growth in Australia amid maturing cloud market"
 
-secured: "oo9H2e0zNVH4y4Faly49fCsrJotLMZ1c+XMNnW/fcU5ci5aCoeqWRxbT6YBJjzmKknTEEsbl4VgfrLTQllw9E3WJDmld3W5PDjS4yBHTmZIOmkkjliX1gcXtfXqu7yJx2CmS1SD/duWy6WmtxriWeRBqwByPaUUVR868EBeVmtPlZKPraMPyVLwS1gJb7jHc5PpmrXT53xEokg5QBrYtNP1gvDf+pG7F0+c6s031j6HFUI7dr6NEUED2BFYIXq9WmH2miJCK+01zvoFfXBUEvzMz1YX724rGarg6z791Rbs=;09AOF9p0IrbOVK/1RBT6fg=="
+secured: "yCKz+mOvl65tBsgJeR2M4KdV2UCzZ7us3rpVNPzH6T9fCNoZJjQra2Ch6irq1liP21wfsadCCbUXF1KMt1aM7oQJiOM23pw6/oCjkNBBoGgR/MA5g2VhMX/P+qSoo96lIp4D8lczJ/a56CIJdNTOEzH1IdjOjEl+3vUGiVrJKBrJ+dmMN77M0+at9Jxi++VSdN9aWaIb3W7GB6VgdQcBMgNV3TueDb3y8ui7nqiyKzWJZC5FHHF+fPPNIcd0vHcdoabSTtqUWtJUseohMbmSaxm+LeP//f4eGNE3q4sTISr31qu/64/MpocioJXeqsfN7PlTe1tQP7+o3R/4FDgNghuZ+GTR3vvCM5Tymu6R30KQJgGw5w1i6d6mF2gAD0jlRwJWIOc79pum+D0R1e7gc/ev8zJhjFUndDiwIvNTRMmzXcAUI+84ssD/avS0/vDppcoK2Hw874oDwU/XLa+DzA==;SKC9K7zkgmMFv1CH/eXaJQ=="
 ---
 

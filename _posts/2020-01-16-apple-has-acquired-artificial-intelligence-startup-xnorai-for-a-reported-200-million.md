@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
-excerpt: "Apple just can't get enough of AI startups, it seems. The tech giant has reportedly purchased a little known AI-company for around $200 million. According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with ..."
-publishedDateTime: 2020-01-16T11:29:00Z
-sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-ampUrl: https://amp.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-cdnAmpUrl: https://amp-insider-com.cdn.ampproject.org/c/s/amp.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial intelligence tools."
+publishedDateTime: 2020-01-16T12:30:00Z
+sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
 type: article
-quality: 64
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: insider
-  domain: insider.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://image.insider.com/5ae3713a7708e950833d4608?width=750&format=jpeg&auto=webp
-    width: 750
-    height: 563
+  - url: https://image.businessinsider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
+    width: 1200
+    height: 600
     title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
 
 related:
@@ -158,6 +160,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg
         width: 796
         height: 482
+  - title: "Apple acquires AI start-up for $200M"
+    excerpt: "Apple acquired a US-based AI technology start-up in what appears to be its latest bid to boost device performance and privacy, Bloomberg reported. The company reportedly agreed a $200 million purchase price for Xnor.ai, which specialises in building tools enabling AI algorithms to be run on devices rather than the cloud or remote data centres."
+    publishedDateTime: 2020-01-16T12:51:00Z
+    sourceUrl: https://www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/
+    ampUrl: https://www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/amp/
+    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/amp/
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
+    images:
+      - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/02/Apple-logo-shutterstock-650-e1552381548177.jpg?fit=650%2C399&ssl=1
+        width: 650
+        height: 399
   - title: "Apple buys edge-based AI startup Xnor.ai for $200mn: Report"
     excerpt: "improving Siri and other AI and machine learning-based tasks Apple has acquired Xnor.ai, a Seattle based start-up specialised in low-power, edge-based artificial intelligence tools for around $200 million. “Apple buys smaller technology companies from time to time and we generally do not discuss our purpose or plans.” said Apple in a ..."
     publishedDateTime: 2020-01-16T11:17:00Z
@@ -287,6 +304,6 @@ related:
         width: 600
         height: 330
 
-secured: "wPk2NleHLJJ1YdHc5+tXhb9SSKG+/2EQ+NUzeVe5rFHE0LYMR1ZPKSkCGqOPXIL97h0jvqs/l/eib8xPlHwu1KwCkJS3uuo2WjMuR2nneWNgC7OoHKI1F3s63H28rhpkAlNd9YipPXXO2ZcW4Z1aQzsqidwPtSaXVD1K052clITkvPhgVe4AuONSwIwgxk8fA03zRinMSZMioF7Qi1eiaeMLrwYZgPPgDFjLhV97VFkFb92rSVNFvfXXoDza/sFTvUW2Yqqlz+JbWMKdqYNS8No+FNg5PTQLdA+8yjYJgew=;SQcHW2YIh6yAPnTuXuze+Q=="
+secured: "zJIGh9jOozjnk62MQsO20fOMneCF2zT1AAzGs19TljxQrb9a8X7TRcovrcNR56jj0MQe28Lv8ORxCTlo6LWC0+ll67YhWoXvzpxrAp6hpXAMohigH7CEKTwrzJVJ2/4LMZzHTffWDrsxOFLe6IQSlqwrNlTPw1azPu2xkGcV3TJa8Q4ACMH9UuJVyWLoKI6iQVRyJca699mlZLrF/f1pUjuUJNezNg4J+EGX4BZiLA2zl3IzH8575VMuwbPZDd9cKFSngrufxs9bSfuE9JAbgfnbK60x+n/sRLTdeeDaX/E=;ed0aksjThLI8Y02Ir1/B9A=="
 ---
 

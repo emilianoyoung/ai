@@ -54,7 +54,16 @@ related:
       - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
         width: 800
         height: 400
+  - title: "ZephyrTel expands collaboration with AWS"
+    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
+    publishedDateTime: 2020-01-06T08:31:00Z
+    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "Xfgypkt7bO7zyBY8AsGdyyCZRBeSdvyrVVKOr3PtMtQFMAYmET+EvUx8zNC+fi6P2BFdEISNymfcxDeSOV1g7a+IDuZcbj4foCP5J0PIhnKedBMu4pXvaOKaXD53y/ZOgy2TEu+XuSuSwD0cUjRK7/9vjwlQ41VEcMrcQGpTKVhxWRr08QnR10mtjZREvUJsprmyeFqFdw5/9l77Kx1EEEMeItF6phF46/pJCgoMUKnJo1jTXEE4RZR+VqolEp31gwNriRZMjVvQTdWbQp4hLdtrBNIQGgZFcuZa1Cej0+I=;G+C1uBITT5F8D0t8TRCQeg=="
+secured: "LQfvL5h45P3A+lqbfuCQB+fPhozXpCHu5kgsgwjCtXpqKDlneUvfgCl2cArkwpjAcBPKVcM71fH6mIlU/EMAIXH4co3ihtRetaFcU55YgMTeQVVLABD6zBLFCqc3sAN990nQUgjIT2r6f+R0A1Pcaq4kYV9N84SijODOyOcb7ff7WlSeDqISlryzdRchcKvfhA2Dt6NdzNrqoIzP/Svm4G8P8TPl55d9hdf2URUcyZkVNxEz6fs4L0cUawA8LEdILmPd2onvAbBhbzjLvbIFhlKY1wr/nMmaXSp4GQHV9i1967+LjFncK9fLZHk+/kQE9ycGu5jlnnFsfIbsXNNULvk4GcFiGdPAT8LED5q/i71cqr5xO5puiJTYMLzEgoO0rL5QtYtUX0sxMIx9TeVUi6j6ch/A2g8Dhe3sIGrcYYWqFp4vepL14DmBshFM9APM3i0xkXwMra2dMkEChHqy5A==;61lRbFMkdX0ipIs7BUF/5A=="
 ---
 

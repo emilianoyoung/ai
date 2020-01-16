@@ -41,6 +41,19 @@ related:
       - url: https://www.zawya.com/resources/img/zawya-logo-en-social.png
         width: 1200
         height: 878
+  - title: "Accenture’s FinTech Innovation Lab London includes 50% more female founders for 2020 cohort"
+    excerpt: "Despite global investment in fintech dropping in 2019 ... wealth-management platforms, synthetic data, uses of AI, deep learning and more, working to solve a myriad of business and societal problems. The fintechs selected to participate in the 2020 ..."
+    publishedDateTime: 2020-01-06T11:04:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/81039/accentures-fintech-innovation-lab-london-includes-50-more-female-founders-for-2020-cohort
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 14
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
 
 secured: "3kg6Oz8KTxEpmsihOe/U0V7UmUyUnsguYv8lafU3KdSNNF5Jf4VFTtaU3Hx3JOoDpA/4KHS7EYmXTG+1ejuiYByVqErV4sQCCez1fxo5AndgV6d8txSdXnXogz5SGUKRs6T4QAMeXIyTo22aXchW/yRxpPbaM5JN4c5TSWZAygRkiU+7jws1kZyjGdL84Qd/yXSE5yppBsS7+aiUntTLkXwpD2J29C2TyjtljVyANTdym6xVYA6DUveg7O9i4QijzurhiVCJVmLxyQNdQlmURRb8qiz951BjiffAMfBGvJ9cwD4O08cAgvLITmeURIKlPDqo6xp/lHuWp6GYyI5qlmxWTH2rX3qwlSRmeBZgFjDr62GXhLS4sniv5m1xkCnTQGPddvn9H7ukzRqBFQCu66zP8WaUXTe2jHFBOlq4R55yEHiNcakqnt8ARWsLfetLfBkSZC0fjjtQWVQUTkHvRg==;mRAU/VhYKN230deUfSz2dw=="
 ---

@@ -115,6 +115,19 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2018/05/180506-xnor-630x354.jpg
         width: 630
         height: 354
+  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial intelligence tools."
+    publishedDateTime: 2020-01-16T12:30:00Z
+    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: https://image.businessinsider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
     excerpt: "Apple has purchased Seattle startup Xnor.ai, a company that specializes in on-device artificial intelligence, reports GeekWire, citing sources with knowledge of the acquisition. Apple is said to have paid around $200 million for Xnor.ai, and while both Apple and Xnor.ai have declined to comment on the potential acquisition, much of the Xnor.ai ..."
     publishedDateTime: 2020-01-15T18:01:00Z
@@ -158,21 +171,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg
         width: 796
         height: 482
-  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "Apple just can't get enough of AI startups, it seems. The tech giant has reportedly purchased a little known AI-company for around $200 million. According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with ..."
-    publishedDateTime: 2020-01-16T11:29:00Z
-    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    ampUrl: https://amp.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    cdnAmpUrl: https://amp-insider-com.cdn.ampproject.org/c/s/amp.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+  - title: "Apple acquires AI start-up for $200M"
+    excerpt: "Apple acquired a US-based AI technology start-up in what appears to be its latest bid to boost device performance and privacy, Bloomberg reported. The company reportedly agreed a $200 million purchase price for Xnor.ai, which specialises in building tools enabling AI algorithms to be run on devices rather than the cloud or remote data centres."
+    publishedDateTime: 2020-01-16T12:51:00Z
+    sourceUrl: https://www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/
+    ampUrl: https://www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/amp/
+    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/amp/
     type: article
     provider:
-      name: insider
-      domain: insider.com
-    quality: 64
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
     images:
-      - url: https://image.insider.com/5ae3713a7708e950833d4608?width=750&format=jpeg&auto=webp
-        width: 750
-        height: 563
+      - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/02/Apple-logo-shutterstock-650-e1552381548177.jpg?fit=650%2C399&ssl=1
+        width: 650
+        height: 399
   - title: "Apple confirms purchase of AI startup Xnor.ai"
     excerpt: "Apple confirmed to Axios it has purchased Xnor.ai, a Seattle-based startup that specializes in putting artificial intelligence on devices rather than via centralized servers. Why it matters: Doing AI work on devices is a key trend, especially for Apple ..."
     publishedDateTime: 2020-01-16T01:12:00Z

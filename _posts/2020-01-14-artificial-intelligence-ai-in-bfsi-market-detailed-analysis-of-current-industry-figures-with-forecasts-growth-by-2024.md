@@ -80,6 +80,15 @@ related:
       - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
         width: 1200
         height: 627
+  - title: "Intelligent Apps Market Outlook to 2025 - Google, Facebook, Intel, IBM, AWS, BigML"
+    excerpt: "The presence of several AI developers and technology solution providers that are developing smart apps for various business verticals contribute to the growth of the intelligent apps market. Global Market Insights, Inc., headquartered in Delaware, U.S., is a global market research and consulting service provider; offering syndicated and custom ..."
+    publishedDateTime: 2020-01-14T17:43:00Z
+    sourceUrl: https://www.openpr.com/news/1896195/intelligent-apps-market-outlook-to-2025-google-facebook
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "HAYxw986vwbbo7nn8yjpJfBnieAgew2cdUQ9ajFVhidPi50CoZWEp1FQLf6dNLgp6Qwatcx/ChKrgofIYbn0tcHITmL25af7kRb5TQPXJwJYuUZi2EVLq6tyOdUXXUNMAQbGvY8Gd3L35TWBq72PTlpr98PqrJa/URkeEcLmvjn7+GVtL1mU6GhS6lTue6fz2Zquqpty3ZKPcaJsQC1hijiMNJr7EGD+3sEqEmq8r5hoo4qhwzrA7cnO+nfGCUymil0UX8pcXc2IGlHrEWUhjht8e0ZUysq/pagRCNtKoAw=;xYxdxGsvv/W2c6+v0Ri+LA=="
 ---

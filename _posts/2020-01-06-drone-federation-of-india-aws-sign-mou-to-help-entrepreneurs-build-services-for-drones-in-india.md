@@ -54,6 +54,15 @@ related:
       - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
         width: 599
         height: 450
+  - title: "ZephyrTel expands collaboration with AWS"
+    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
+    publishedDateTime: 2020-01-06T08:31:00Z
+    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "fHKhut4F+Zrk3jv6MamHQdaCL0dmqKt48kgWBm6Wl2nswYBKu2UV51zdh1kn7NH3jNPIkxEm3FWuwtPgT0LCzkEFKRH7yhggvU+lfpQoWKKP4npk0IO7XTg/UZPxIYK080KXjhlGUn+SAIdXaD/ZD9f9EuBUX4jcTqE++UdieJWavHSiACAyTi+XFVP/FmHqxzIeZQePgS2J5TdRPocHsNR0n0UmS4rO+2/Yrgkj4/YLiW0AM53oiVyz47NXdY3yQYvSVL0V3n8wA1uW+L2re9ngUCAMUT2M4BlxfeuaA4sZ0OizANUlmXpX7k35JoNNCDTHK8urkrIg+MVNHutZk8zUvqeHidbrQuchbw0qN9aCesGG2Xeai9tYNaQOOoIe5OoXb4TOlSlTF2yWq6LBk09xjGFUAXgXXhS2kFKssT8azV2pLIszatmOJgSycROhsoh9UpJ8uUAMiEztyQSZwg==;IadGjAdpvH9lgCCBeygDjQ=="
 ---

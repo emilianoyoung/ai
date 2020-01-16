@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature
 type: article
 quality: 83
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -28,6 +28,34 @@ images:
     height: 933
     title: "Apple’s latest AI acquisition leaves some Wyze cameras without people detection"
 
-secured: "LlKIEC5JQF/Q/uexTO6AWTjSj+PqolFUtaFXN2aB+IGkeHtVEMWwjO2reGtUspMAfofzzmcXqhQhnqGNExZnEODma6rVlSn8a/0kyGdZUs6RCdOieEtvXxQON1lCusv1D4CLZO28y3NS8Lf36z72KOAjXaHl39O5TG5HhK31hrqfBvTN9qUiUkUHpVa6CFMR5s2kQnBI0mfyZyYwCLYRAHQUOU8n7a40JREeO7Gs3VO1h4Zsv9EqXvmqQz55kqN0otESvkQqFE1iAhI8YitUPXweg9JahC4IhkFO/v1bTIc=;BgrmjCKuLy+qq2c9xI06gQ=="
+related:
+  - title: "Apple's Acquisition of AI Company Leaves Wyze Cameras Without People Detection"
+    excerpt: "Apple's recent purchase of Seattle startup Xnor.ai, which specializes in on-device artificial intelligence, appears to have had a knock-on effect on home security cameras made by Wyze, another Seattle-based company. The Verge reports that the Wyze Cam V2 and Wyze Cam Pan rely on Xnor.ai's on-device people detection, but now that Apple owns the ..."
+    publishedDateTime: 2020-01-16T11:05:00Z
+    sourceUrl: https://www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/
+    ampUrl: https://www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/amp/
+    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/16/wyze-cameras-lost-people-detection-apple-xnor/amp/
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 53
+    images:
+      - url: https://images.macrumors.com/article-new/2020/01/Wyze_Labs_Inc_WyzeCam.0.jpg?retina
+        width: 1840
+        height: 1226
+  - title: "Apple Makes $200M Acquisition In Race For AI Dominance"
+    excerpt: "Apple shelled out $200 million for an artificial intelligence (AI) startup that makes smart devices smarter, topping bids by Microsoft, Amazon and Intel, according to reports on Thursday, (Jan. 16), citing sources. The iPhone maker purchased the two-year-old Seattle-based AI firm Xnor, which develops low-power edge-based AI. The machine ..."
+    publishedDateTime: 2020-01-16T12:38:00Z
+    sourceUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/
+    ampUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 37
+
+secured: "uT5E4sxanMe9XAkW0xZH9gzLW/YcJq2TV/eFOdmgBBFR1XyJoRdBWA9iQDHR+Hmr0Kvq2btJwd/0AFvF7i12hkFedUwPYSTYEyKthHBidFXTh++hQILZZXZbcKUzWyUbuAvxtSjSIKTpOrnZU1w1aBozdY2L0H9FQEfV9ds6vh8xY85VXmj6M9PJrQckf4tXecHi8wRrGv2ytqDLBl+jO4TfVbEITlMncs6DntSY9p2vJboU/JIaDFmHTF22Zz7O+BjoAf44cQCg5mMx3ntUxt9GE5AgUerIvcakfZQ6EvkfqcyZE5LO/l2iYHWUBeVoAmcId4Zj2BqPwlnQb78MVa1v/Ya7t2KSyQFw/q3THF+C/OOUHSu+gW4oDgIImclpF8gX7JTxEroq9wxvjf4tFXlE217/KlPw0qebCqXBcwvOqoemRYVOPqYYBatpsCQcHCBLqD60nTO0POIAgmCzqQ==;faWQYHDBS2RPIY6t88Q6Wg=="
 ---
 

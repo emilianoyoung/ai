@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-dr
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -54,7 +54,16 @@ related:
       - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
         width: 599
         height: 450
+  - title: "ZephyrTel expands collaboration with AWS"
+    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
+    publishedDateTime: 2020-01-06T08:31:00Z
+    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "HY2jux0t2fO5jwMTJ3p2i2Z+Boxy7/v3oSipytQupixXCZTgAFkg1h6Sg1KCeBehrXNHyBGUmzoBFTV/H/cWfeDpwF9G3g5cxlJaUnNFRbMWgSSOsxePqdl/XLImPSMM6OYcX3dCzksUCXbleb/IMwGzVtDhcgXZpUJO2K+vVu6L+gOCMoPPb2kazRZnvMSZHXhI3JqvgL++5FYPfkeyHkUuKAdhNMqXTUxlMmXSJeh1AF3tvTOAqq+GvuExtFiW8/tnCbRVTrgEsU7XrlhaVgNthyN/SOZKMjuGjsgSJiQ=;C3ELXYnnY1H411u405ez3w=="
+secured: "iCo2ahXvumH5PfSsgQN7H8wfb8vvx2p5GqOWMKhzJjWfi8oyGabAO3f0jYeemG24AtpBxm7Y2YSJ/o1VTB4LQ1+kFU+KptwrBOWfevrEsugGV9ygtUN0j+Ulx2ebvvjEqcJiJUSf3kN7R/6a54LpqXv4rNKeqtMiStPDTimeNbdPDytsGCwDGfwp17JNehTukGEk4MwlFpZyshuzNK8SjzGDXHy2cKYHdgBg1dHg9LVImnVSVv/sCP1BAFKH3hic5axlTFIP/5AqxKbh2jNj4rwrwzZUiJKICSVwq3iT20wudte5JnnVD6z8Ol0OZAtVXkhTqfHXk4Pw+fLJsAMiIXLIuz5BJiwEYfGsHcARstbyx14276xBhYihjALWZAJV6paP7SWvs39OIuzyljO92OLxgCpAgGrzAHa7vza4HFC7ULK57p91ahtY3gxuXqUUPLkl/4hNNMU4LjUifcBHbw==;yed2R7PbfqjT+kuEkuKFJA=="
 ---
 
