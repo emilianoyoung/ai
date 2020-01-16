@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
 type: article
 quality: 101
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -82,6 +82,19 @@ related:
       - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
         width: 1127
         height: 1057
+  - title: "Designing better nursing care with robots"
+    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
+    publishedDateTime: 2020-01-15T23:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
 
 secured: "AppX1o+mCkU2ssQz3rHDHicSyk3Sf7K7+6vyRLJ1y48D0PdsvIc8bLPhPn1+JfSlCpSkxesUptt/eJVBQHBzR4nzuhNvOH/XwNdZ4wMEZmyk+zJaZhmGY1mgbAW9cAjGVHGKOdjX13inj/0urnqvPKBpc40d+MLd3mJ8jvFBz4VamtJP82bzzOWuM8VMSLJszB0Cyqp9e6Jb1in8an7+np+wyXdVghEd3sL+DyPKRRXWPyTS/bPydRXm6vsU6dNH98s2gyW6ioprWnattaIphueByPGzj16DEcD7uSizNyHN1xrGwQMY0NE1N7EQJ1XVbGOMmv2OSenI4T20Pk82DB6lp0KJ8Z9oKAM4Z+aaZ5vEBkO5cDYQtohL9dM/fkEGdZT/tXl7VSh1whELyCdL9GCUV/pY0BJ3mcCoucj7yfjsVfS4ctQ/KvB8QVhK0KPpn+R2JcrJvsXmfRminweoXQ==;PMYDZRvx59tlIPGwG8WGTg=="
 ---

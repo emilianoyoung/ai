@@ -208,6 +208,19 @@ related:
       - url: https://www.crn.com/resources/0259-0e772d4203ed-1bc94b93f3e0-1000/xnor.jpg
         width: 610
         height: 457
+  - title: "Apple buys AI startup Xnor.ai for a reported price of around $200m"
+    excerpt: "Apple has acquired Xnor.ai, a startup specializing in low-power, edge-based artificial intelligence tools, GeekWire reports. Quoting “sources with knowledge of the deal”, the report says that Apple has paid around $200m for the company, and suggests ..."
+    publishedDateTime: 2020-01-16T09:50:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/apple-buys-ai-startup-xnorai-for-a-reported-price-of-around-200m
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 37
+    images:
+      - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/Apple_logo.jpg
+        width: 620
+        height: 500
   - title: "Apple buys AI startup Xnor.ai for around USD 200 mln - report"
     excerpt: "Apple has added to its portfolio of artificial intelligence assets with the acquisition of Xnor.ai, a Seattle startup specialised in low-power, edge-based artificial intelligence tools, for around USD 200 million, GeekWire reported, citing sources with knowledge of the matter. Neither Xnor.ai nor Apple gave a comment on the matter. Xnor.ai co ..."
     publishedDateTime: 2020-01-16T08:16:00Z

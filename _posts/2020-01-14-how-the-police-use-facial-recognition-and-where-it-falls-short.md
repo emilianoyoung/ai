@@ -153,10 +153,25 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
         width: 987
         height: 554
+  - title: "UK police use of facial recognition tests public's tolerance"
+    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
+    publishedDateTime: 2020-01-16T10:16:00Z
+    sourceUrl: https://abcnews.go.com/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    ampUrl: https://abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 59
+    images:
+      - url: https://s.abcnews.com/images/Technology/WireAP_dd085e0d41e5454f92345ab8045bbbcd_16x9_992.jpg
+        width: 992
+        height: 558
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+    sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
     type: article
     provider:
       name: Fast Company

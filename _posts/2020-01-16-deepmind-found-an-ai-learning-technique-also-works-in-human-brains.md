@@ -77,6 +77,19 @@ related:
       - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
         width: 1127
         height: 1057
+  - title: "Designing better nursing care with robots"
+    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
+    publishedDateTime: 2020-01-15T23:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
 
 secured: "JOvCF81sva+5qb589PoR5+G/NssYYIPOscPr/ZWp+89SoT4w/NNQfTRBkGtK2e/z67Gb4id7RJ7of32mbTpXt7lv8ouUgXj1sSXpSYxYY8hH/HhJ3MHHW2dkExVMsqbZXtlbRqeNiHbZHDT071n0fTENwk0jgTuxCcHIv3r24T+iaEPbv+ahX9Q8zgwjXXUDmHzsAzczE5pL1Id9A/4hcy3HUy/BzM8IU/92OQnKucSETMzarctmbdT480XXoiSQpGrpBd1SUPsJuxGDqiXZSLlOLbLvlsoNQvjbQOfYLswJs/8Dn3g77/MzKuxNvxT0JC8SfHYbnrOc5STqa6t7gLEU36L/b03tP1gFwpUHA3hklkeSeQst6O79dkqfdSDNNYzwtfTNPinOPbL61jDyH/+P73OrzdALrG+JWHRvCfwTIp1mt+vgTg+7r9ZPRAKCyCwfgNGoV8rRLHCa9mtfzw==;LevAYXEo0vo6EDdtycTEnA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T23:01:00Z
 sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 1024
     height: 512
     title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
+
+related:
+  - title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
+    excerpt: "The AI announcement was aimed straight at the current tech battlefield of autonomous-vehicle technology. After emerging during the 2010s, it’s now potentially set to deliver in the 2020s, with likely consolidation of companies along the way. Intel Chief Executive Officer Bob Swan started his CES conference with new from Mobileye NV ..."
+    publishedDateTime: 2020-01-07T03:47:00Z
+    sourceUrl: https://siliconangle.com/2020/01/06/intel-makes-splash-ces-autonomous-driving-tech-ai-tiger-lake/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/intel.jpg
+        width: 690
+        height: 560
 
 secured: "VWMwd5EuMfeqFfTGRxCTZe/qBx//36uqeXVNUvfJ+JTp7faj+rF8QcXAV3xAxRtgqQqw72mnGbPBhmTktNaqbJQ4uOB6crILHRErRQbp13YnQSQ28daxR8mxoAiSNN+YxuY02HyTf93K6ZL6lvufXx1j6u85WV1iun320xtRdk+a6QRTao+keG2Mivhbgw8NGuRbQqQIQvPbKl9p8vwR2cxfGPpwsrDVJiAgqAFkipzj2/O7Cv6xz/SLo/xSzDEG9xkJeGuGUktRCVl7VVPiVBAt95VIvWOEGUDtX0IG+jItimTbJ8nRqYYcf8gGGJ5cl+99Um9xdJ/thUQ4dibhaV+aXk1eZdJ/8mO/90Pqe4OglcG3Jt5qIG2BV20lolyf2b+z6iRkHJldmmYNrEVNn7Y2rm+No8WNxFRkLHvl3FWjsVtey0v8Kang4m5981HXAIO4py63+nb0/DKB695UAw==;eBi0TrX2Qgsqu6gFRj2WnQ=="
 ---

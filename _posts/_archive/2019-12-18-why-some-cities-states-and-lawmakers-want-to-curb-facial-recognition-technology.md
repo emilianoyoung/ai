@@ -8,7 +8,7 @@ ampUrl: https://amp.usatoday.com/amp/2680483001
 cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Why some cities, states and lawmakers want to curb facial recognition technology"
 
 related:
+  - title: "Is facial-recognition tech too young to trust? Some governments think so"
+    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the ..."
+    publishedDateTime: 2019-12-21T09:22:00Z
+    sourceUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so
+    ampUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so?template=ampart
+    cdnAmpUrl: https://www-providencejournal-com.cdn.ampproject.org/c/s/www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so?template=ampart
+    type: article
+    provider:
+      name: The Providence Journal
+      domain: providencejournal.com
+    quality: 43
+    images:
+      - url: https://www.providencejournal.com/apps/pbcsi.dll/bilde?Site=PJ&Date=20191221&Category=NEWS&ArtNo=191229992&Ref=AR
+        width: 2351
+        height: 1457
   - title: "Why some cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Mass. -- Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the ..."
     publishedDateTime: 2019-12-17T19:40:00Z
@@ -38,6 +53,6 @@ related:
       domain: go.com
     quality: 39
 
-secured: "bSkgwQVh/toUHGygaE3aKXWvQJIH6EYZCUT6/hA+rUL7IRTIEwCbmgyO26VPa0pwFGXE2oR/iPi+eISjD6wZ/PEGUNzo+WR6Qv19zq385j5TV2nOurmfPPTykecnZuRhQ3bY9xgHA921YxKQjvxA8IWyybK/jdGdGf/eCGDoSjCpS7i8NOZ8uZtcCh7tqSPjC5k6PQfjX6ZCbrIvxMNRUiJQCZqUO9FZlF7Gjqm/3urz2+2Up21cDSFq8Gpbo+kr3Ne1tCIKXhUk+yokG4A92OuOlj4IAw9AEDHuqju2C1o=;XhJrhSNzD3IeDvW7jXDO8A=="
+secured: "gsQcCg9ZN5I18JDU511vRCXVv18k2plqb/fpQKehUs0pPzC8jHQioMLCZqC1xON5s2AEKyIaQ7MxKko1Afd7zuuvIwjVQ3gK+fYNEI2H0JnF0sMDImCEA81eeOflp38XUuHJ2D36y9IkooveePDBFqccIM9l/t9lioLfGya0FYHmJCp13UV0CefLnuy8orEUzKNM6M0mB5hmI2Z94JwpADvFYsxFlSbrf1ocxMzIeAZDyceiEeGCPL7+ZaCNDV8NKNkZ7nztH03I4Zonk5i+g9jjLmk1wTl2AS1GZ3GA9cU=;WwqkjO5+MSaY9s6PSkvWZA=="
 ---
 

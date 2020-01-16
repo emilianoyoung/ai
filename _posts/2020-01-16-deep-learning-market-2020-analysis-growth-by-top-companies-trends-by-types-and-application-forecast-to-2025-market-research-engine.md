@@ -106,6 +106,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
+    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
+    publishedDateTime: 2020-01-15T22:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
+        width: 1447
+        height: 908
 
 secured: "Ak9Bi1Z1/y0uBPG3ePVr2pyirvoSLjLlai5N1oDc6wwWeZeEdfhPaTv+Q0iP6le9bdEQ9859IRB2cWo61MRg8Tu+t0KK4vnCPl2xJOv+dzpiBlrFC+fP51YJ1zfh5yqL50RFNji2NhGcyvMCnCQMYmSyaVyaYhdaaJhD4V4Jc869TeIxhnlva1JBsmJrjhJC6BANi+l+Zbj2Qv2m492hNMvTxIXzlU0hi6/U2FP2/jLWfN9gFVqWtsNpMYYadquaAzpA3Vc9a7Gepxzwpd6Lo7jltSEvI85UJ4KEZsPI1IU=;v7EX4Xb2lhzm2k5Fp5StMQ=="
 ---

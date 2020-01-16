@@ -79,6 +79,19 @@ related:
       - url: https://www.nairaland.com/attachments/10871647_17pps8if7tuxve7hf3utlq_jpeg_jpeg17d9e2dcc727d3cf1e17cfe8e16ea724
         width: 720
         height: 478
+  - title: "Designing better nursing care with robots"
+    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
+    publishedDateTime: 2020-01-15T23:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
 
 secured: "sX7FqPff/XkY4ngEnbQRsJFeOROC3JP0xcpVVFI2869OFHa7CfMCaSIJtRhSmzoDtUbWJ20s4lubEUoPbrt3pwdncqs5zdPCDI129Q1ZoP5/bYxWAREN0w3QNftz1pdVcouILF5WC3C/ueMMZO2cTiaP9iskCXYJTQZVHG+J1Fw8elnOnykCdzFvSllZsH2s43IgVe8eYFqJJkEWDORIf5VJxURJ82DIngIp9aNvt8AlQkBXnLR9sVIJBOr3ISB9dXjspSxy35ktfRHVkEJLTFIOTy5us3PLLdf3ZeFc1luhznj11fp01KQKy34Zg9J4FSO8/PgD+FSw58GhgynRaFU3h2NaA8C6xpE4npA8bZjS5elY2GJ+1cN3VY1HFde386fKA8BcRvpd0BWu2B+kSlrJ4XqDC1R7/Vf6H3DFt2wXcSoYiZNsXYxdXZ3+Gpe3dSkwQ9piWLFAayv5nT7uTw==;6eeKt1ibJX7+Vz+4Uu7KaA=="
 ---

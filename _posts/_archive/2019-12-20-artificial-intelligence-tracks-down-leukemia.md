@@ -24,6 +24,21 @@ images:
     title: "Artificial intelligence tracks down leukemia"
 
 related:
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 59
+    images:
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
+        width: 800
+        height: 448
   - title: "Artificial intelligence tracks down leukemia"
     excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
     publishedDateTime: 2019-12-23T17:46:00Z
@@ -34,6 +49,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "o6IKUXcKZSDEMa9ZXxsbKKCu6sGhoK5FRUm4HxRcB6k+OswkGzwE7OJKDwCDccJpc6fW4Zv06FMJl6aSBLYYG27HisApzEAJoO1Kplmf6D83j6I+fvTv+K6MqsnQ+5xoQG3YbVHM7mZyqBcLkvsdVQQFWTxIqQ5FRDApJWmlCIAdp8jhWhuJsM6I8wE9KJMRDu4z0CenvCHTjeDC3u7RMOMR9jLsWjV2toWdq1+KylyBUpTafkhl2EaFTAj6pgVkP88z+M5sjcs37b4SCDBYQYEYkKEEj2LmGKx5mU817Rc=;AsFMx41+y5+yhlFn4dSHvA=="
+secured: "rrP2He6yDP06spB3ESDrCVZTb2Gbnp7qltVzNIiDI6UzfYn87HKzQ2YGo8XbreMTmvwh8Qzds7Oc6JIBhVqrjQCKpvIjD2w3WGp7PwAEkUFwJwnhAG/Mr6fpty4TUFW5ogYSgCtbWSlKD3Wo/M6uJQulxvEZkAG8cD3l3FX7vWxXaZZmFllGhKyD0WZq5HI1J6HhWJq0JUlm6LAT9cvsMsRqETJKDCrBCNQ61azxqdCEM1cpSOLfGRgLRGHU8dXh/TFl6SXmndTbNURQyBD+W4TecLe2W9GVNgG4MCpoUVM=;qPP6QHfX8AkreOPu6Z1q/g=="
 ---
 

@@ -26,7 +26,20 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 85
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "New York, January 16, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
+    publishedDateTime: 2020-01-16T03:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2020-01-15
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

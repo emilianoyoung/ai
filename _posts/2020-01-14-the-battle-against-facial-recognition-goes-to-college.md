@@ -3,7 +3,7 @@ category: news
 title: "The battle against facial recognition goes to college"
 excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
 publishedDateTime: 2020-01-14T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=feedburner
+sourceUrl: https://www.fastcompany.com/90451470/the-battle-against-facial-recognition-goes-to-college?partner=rss
 type: article
 quality: 54
 heat: -1
@@ -166,6 +166,21 @@ related:
       - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
         width: 1200
         height: 960
+  - title: "UK police use of facial recognition tests public's tolerance"
+    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
+    publishedDateTime: 2020-01-16T10:16:00Z
+    sourceUrl: https://abcnews.go.com/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    ampUrl: https://abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 59
+    images:
+      - url: https://s.abcnews.com/images/Technology/WireAP_dd085e0d41e5454f92345ab8045bbbcd_16x9_992.jpg
+        width: 992
+        height: 558
   - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
     excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
     publishedDateTime: 2020-01-16T01:04:00Z
@@ -262,6 +277,6 @@ related:
         width: 1484
         height: 988
 
-secured: "XLVkFdaWrfxHsAylmu70PO3EY82kfSHF1KkxB4TiklRJ8AqsyR0Ji/mEr4ge3AdfxQXs9DIc0XDT/kOXjWd/OIcluwR0YVdUo4arqFMSka3dG6rulocsEKiAUFS2komFW2J9lElnn6ypP0MVXWduyakB2vyXRFVxQwKWzLxAbFXDLxbA/CFEiz3C2fianzoeakL1ebvz1f5Jnq40BqEzX28brC43B9XYlEVa2KIodifiAR4klYy9fV25sdIKuj+3sGbwg8ASXat7nsDcqictrZ8G43vKIyQUUkA4z5MPpmD4O70DhaySAgSU3SBSt0tZqrKF1fNY44goCHCa5U4c3tWr3jQ8ClyIpw4vaW/7FXvAQOTaDbO5fkgkCdSEE7dvlGCJEkAJOF1VZ4zUmpZBmddpXuXNPoWMjfpCG5U9TE0oPATcKiheHmYlJvxLRI2UvCBsZG3frHyTk8ea6z/+9Q==;wDjP/gOH3w4EqpOzZXjg/A=="
+secured: "B7IkqOu5+6brCcVEPzyu4LxwaJdkItIv0QBC7nSiWM7WO61942nR5X12RBNp/UcBi1aopaLJzmVsrnaLaReZgb1ViBtypmQ/u13bwW4AHtPQsssFzv62tv3vElQMyhw64Due5VzKy8r16TZaEGkeXepfCQ4RC95imSAUhM5fv8UaWnXM6x8l0tgRW6FyoDAJXj6p4KfazNektI0TXTjGm29X8Dgm/ODvMed471viIIP5RpUELJmDEsZAUS1G4cRyx1APv72Dw7QxI2u6hJr74Y2OJiGXF5kuWb4Lojnk81w=;n3Db07zbWRRVsXCUJN5NxQ=="
 ---
 

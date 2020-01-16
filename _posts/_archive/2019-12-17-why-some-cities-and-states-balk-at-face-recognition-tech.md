@@ -35,7 +35,22 @@ related:
       - url: https://www.gannett-cdn.com/presto/2019/11/19/USAT/4673ca8f-44ed-4dcf-99a0-2c54536bf6fc-AFP_AFP_1LW6JF.JPG?crop=3104,2328,x175,y0&quality=50&width=640
         width: 640
         height: 480
+  - title: "Is facial-recognition tech too young to trust? Some governments think so"
+    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the ..."
+    publishedDateTime: 2019-12-21T09:22:00Z
+    sourceUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so
+    ampUrl: https://www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so?template=ampart
+    cdnAmpUrl: https://www-providencejournal-com.cdn.ampproject.org/c/s/www.providencejournal.com/news/20191221/is-facial-recognition-tech-too-young-to-trust-some-governments-think-so?template=ampart
+    type: article
+    provider:
+      name: The Providence Journal
+      domain: providencejournal.com
+    quality: 43
+    images:
+      - url: https://www.providencejournal.com/apps/pbcsi.dll/bilde?Site=PJ&Date=20191221&Category=NEWS&ArtNo=191229992&Ref=AR
+        width: 2351
+        height: 1457
 
-secured: "YpZtSSSo+NCiK/cr2qJj2feWJbSabFXKOgfX/blDq9y97ZR4A70xF1wAHWxAqv2NAeULkkLpTe7ycd7cUQ7RCErQ11jLPqzkP0I4g8VmIiTwH/sqxvs22Zz9ibcSxv6s/9TLtKaZogftVYbP8/oafnIjg4w91u43VK6jub+IHRyj6T9LphovzULZR0gLeXC4eM1SsenvzzpE6+Hm5iUDSamRq8E2nYbWqt3JUJj9RnHN2kTH1fNY+8MfR/Y2C2a29MPZD34p8m50U0jAjFbcKOURhUH8pfi3Mf+kP1/j4J8=;hZ4ZM8pQWnr84M6RqqMdqA=="
+secured: "lN2YjKKG58CKpzCeqJI9f/HufETWUxziGf9zFh7fI2Y4YSOLJ5Kjk4cCthk23lA0tTfLsuxg+y4P+2f2T+h/1qBD5fteNbG9Wr2n58gPGzx5GTOXPBS/QhzUgyg6UTZp9kuRokTidVvaQzaEhz51Jxw+19vhMIjuyP+EFIhxFLru32TKIasdSmuzPjSpJNRJE1ZYQfuSkkD7gSudYD/KRVAAufVWrBB5B4PCfdzCjRUkNKObFl7yQIeZfgqa5vBJRIWRM+Wd7mkyIrfgtnxjKaFlUJdkhbRX8tSnhdIFo1Y=;JJu68AXkbSCcoMc5yO9aUg=="
 ---
 

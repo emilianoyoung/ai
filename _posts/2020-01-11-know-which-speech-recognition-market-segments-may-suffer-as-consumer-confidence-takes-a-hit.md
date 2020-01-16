@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-11T09:48:00Z
 sourceUrl: https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -80,19 +80,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
         width: 877
         height: 432
-  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
-    excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive ..."
-    publishedDateTime: 2020-01-09T10:10:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/09/9078820.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
 
 secured: "F5G7joy+FT0jMLQvZR8lou6aTJBTzziUEITKENuRXBHTzTo7HFpn3ns8UqS5mr30MlEkQ0BQOfeBW+UBrbIh6SXAFiujm/ZCAWZphrskSPZevVBYhruebPg0i1lYVv338cUUfB911e29TcRRbn2fwLLmjr65CM8VxdIR1iWXPPTkKbkolhF/iL9JRtoUIYe9Q6DeOP25z0FtUfi5+UjSIgyFQ+vSeRqxcIBgBdQ4x5oq/ATGDAjfLwnlNsOTz4QvS6+o/1Yo2Z/YNiT9/wMetfJNiMRGg+aTuE1XokpqmVs=;kB1b+w4nRBnpv28W++AwNA=="
 ---

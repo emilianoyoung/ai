@@ -25,6 +25,6 @@ images:
     height: 365
     title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
 
-secured: "9o1Vl75iLGjJD2QcmaW4fjzq9gW9V8xTKtPvKAIoclUJ3oFogkk0r1QI4CLmmLpyaXKRrM6m8ghR2Bbp+wlnJI8Q99qT/lcCDKfhgt8mrrji1eANUHQA5RueEMsCqljKchV0e4zmbsWZ3VLlIVkzcUnSm4re+orxY2nscqYmXZoyc/lPh0s5h9QgatvoRQEoPFfkg8fmCR/q6flHP4MyC+Mc9a++j1AHYILBLP+jNUK4xTXM59l+a0OPBdvzS48u0uUuItqJKstW0AsX6/RgDNZv6A5+KpnBxEtMVsR0krg=;bzzG/izHsXwOLx7uttcLeg=="
+secured: "0m1lrwt5lH6YuMVSGluglOR+YY5ZnGbii4y4u6Cgqcmoeux9rgswo55gbyrkJomMkvjoBpJM7XrZIE5n2l/LlOYwlMG+O712PcGAyzo1YxVRLKo8FBkaO9NrMjii7zS2wHEos5D/rXsulyw+cNKo8aOeidvb+99AIDsQ52YrFurrrYyoEX3qrRpW674bDZdtVXcBFryTJQU9jzOXkzjcPQwvVaQwHSFxQNHrJA3i4OcoMDuddBcwvgK/yMIDgzDSZg4KKxRD88fGGCrUOp0PKiNXLZ2T4TFgl2kW04pWqRY=;7ZJ7hSr0wkfxEK6aqVZzjw=="
 ---
 
