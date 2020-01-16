@@ -33,6 +33,17 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
+  - title: "US lawmakers concerned by accuracy of facial recognition"
+    excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51130904
+    ampUrl: https://www.bbc.com/news/amp/technology-51130904
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51130904
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 69
   - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
     excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
     publishedDateTime: 2020-01-15T16:41:00Z

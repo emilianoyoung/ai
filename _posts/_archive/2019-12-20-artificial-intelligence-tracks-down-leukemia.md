@@ -27,18 +27,7 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T12:48:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    type: article
-    provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 39
 
-secured: "bnioaVLuYbPJ91njJYOrnaeM0oXjOerz5cTYhnsmhUPtXRGY6UXaxy7vE3OWH+kvQxzZfm9lT9qC21JM8qZTEZLnlldVqbYlu71JXps/dJ0rCcAqqYjPv/V6pXFA/EoYw7hDl8qIBku7C8pZfXq8fzPBjpzsUgT89jT8NvvR2rhQ54OojFw027dyRpLABehxKS+DlUUf7JiINy/1Jl8l0fniTWxdIfM40fdIpXcaJSM5DZ9InhoSbhWlOewTwhGGHirMw7fLo77hTsJ6cef1yFZo2Bft0PlZ9yvpmuqbZ+M=;9ngCKEub5WWGmDcB8D4tXg=="
+secured: "BqpDstRAYqYwoowmIpdgGlPOs7zheWo93/Avbjs6IVhV7hoMTTcUi+WxGljnMQeo9pRoytxXp0vsd8ha4OhE/DT7su5B/tqgwMdBXWpXZusch7ji66YXNU7zDGu9iTxqb5UzxFECvQrbvzyrb0RW8XfxcY6SI8bSrzMfE6eu0xSv2VL7quT4eP92rOIkGShowAnKYaKnYEvZSaQZnnpxsJXHAm6fLSIVpOcSwTKHYjkXnZUEeK5PvBspBWEZecy0WykxNiDTiKFvoZjUJ3qewpCFqhqcV4JlCtu7/D4eErI=;XigNRy0UEh2fzLnNZqqr1w=="
 ---
 

@@ -17,6 +17,19 @@ topics:
   - AI
   - Computer Vision
 
-secured: "3s7xvnCTlGqCH4i7WULc+YkwBm1oOLK1xf/ZN2Ez/Mxr+8PgdSotVN2mdUnfqCGe7FgTKhuyz5I29CKFhxomLYLNlDHV/bD9nqVmji61qdwa5G1lP4nuO0oH6dLje0P6STGI9diVIgmErfewtI+kx96k8tKpZW6IOmtSx8pV9TSvEnezVvVJSu5iCuCOzvc3UMO7UxqA3Elads6rDoBT4Dg0gvTy77FetSnyJvqJuhhbbQd7sX6np/rh2kAILb46VK0FpdG3g3qsdGI4e/nAo+KnKKsr7rex9kmgBOe9sWI=;ykwSGlvnPhUJ8q0y6JM2Kw=="
+related:
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
+
+secured: "s5jglBRq1rt+5SZjbs0TYF9048BzbNEW9quhcsAUIFr2hnqeo6JXmAaVCIEmq6ODkoKKOGQYQtL9Mc7GLWgojGWKPpJVgmYXVqb4k/NaINCFAG0SxOm5CsSdtQDkQv5s8/4EVruggQKW9JNV86LJ8MOFU+sIAwKs8l8OxkETBI++6RRwF6FmQc5Pzb7JSyXISGw02j7uwNWvLD+D/yHu9w+IJgTnNu0Vw8S+9esOll/R2Dz+uedaNv91sNjAyWEja0WbHSIEMI+17TKjiUabeb4eBPZhjivFgbs1q/OrCDc=;WpMeySsh6aRNvkp579ny2Q=="
 ---
 

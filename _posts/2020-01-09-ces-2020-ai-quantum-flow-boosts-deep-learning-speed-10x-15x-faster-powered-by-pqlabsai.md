@@ -23,6 +23,6 @@ images:
     height: 249
     title: "CES 2020, AI + Quantum Flow boosts Deep Learning speed 10x - 15x Faster - powered by pqlabs.ai"
 
-secured: "hPmp1fnGEwF7sdHl4vqBvji2HFmNMhI/eHg796SgSodPJrTgR185+j2Rmv5p8En0PKLAnxy5e5MjOoqklw95WfLPRLhmaWJkjAIQq4StSx2HMduWwA6Sslvf3C7xZ5xrk9m6XjlRYzCQKyzKexlPI9YHrf0pQHSzFQ71xVH7bxfUQUgDfvaW1PTbvZDSDMcmO20c3SHdM4LdPHd3afnEm6lLd7djuJdmKnEdxpL6ctOZNbsT6aOqvUd5SSF7fq0HvpivAzdp+d7P37rzOXUTtzHoh/iBb0gIiHINHU5Ont8=;j0AnYs31TGSlpDEt8Rohpg=="
+secured: "QcofhN8gjKy2NacWhHuITUxuwknZYffa4soL8MFUnUbwNDt5iZnrE4RxFYOS4wRoOcay6QIE+Jyec/6Df6llJIZFDxOMTx4fiEb97jDIM4Vo+PiLbAN/+HxwAoqA1IumSpWdppUeWOES1nKCidTNvCKO4cjHfxBbgTSs49dhm01BnfC7MyM4qr42oSOtWW00fhBDe0sVQyhEp/2+j3LoXg0XBciI6FGMvue1pfY3vg/orDd8Xbfk13blU6KFaB+rZvfcsGKvHXFnrRwuqf0LLbM2LGED7fJ14bRRWz/IoLDuoNKBaYo6gjM8fHXijxwNL/0SXB8SFY6KWiQuzbQBkALXqwfAzciJZ6VnMZ6U1SBF7lqj9rQX+bi3scZdBTo2IXpatVVcPZ2SBBLItjR4jOZ2fN+N0Rh2cwAsOTJbnsZOELMlYuRzOp8brDwlLi9Vm6lMJ9AIN+1d7t6/rTstRQ==;rk0KvvBOom/1vM7/lQUasg=="
 ---
 

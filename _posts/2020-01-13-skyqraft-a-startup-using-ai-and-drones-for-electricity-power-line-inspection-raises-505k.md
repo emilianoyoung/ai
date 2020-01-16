@@ -28,6 +28,6 @@ images:
     height: 799
     title: "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K"
 
-secured: "zFhKL3J/9tVIU7iDnUkTdtdwTXWBkfUAn1+CZYsP2Fw6SfOnehoiuBaePeFgOTyl7+pDZ9CoFIFENfco58KXxiSUhH98/G+SoRNhgAn8OUXxK9aWguBUecz5I2ABgVLIXI3DYmxkxMn5b1/ntBiayvGbgQILiZnN+hGcWfiyKVthGU8AdBaTBSwwFZOPKRP3nIMR/tcK//5BiPfQMKv4ClzJ9blbgb5k3+o+/Kmmi78O8cFyUQHMSzSTjPlyRmQtglv+odiU4IQAHJmCmgzBPZI1+s8iwFIa/cuWPUcswQs=;ma5W2FK5/GfqAuF2SVhbgA=="
+secured: "19aa7RdR+NC3jsjZqVdpm/FMZIJKyYM+y59GrbITnaX41GrDc9oCynq5Klq2Et2miVPF8S6bWB7cqqCXy40d7X9sqUh9YigpVHiIUoe16k5ICEJggZIlc0ryUmywsbzVWqMwMSwd9g6WxoPG9bSqvN/FWkivl3i1/PH103c4qaXGj7PxNfZYLZptj6RlKBoh1W2mI7Exxx/w1csDQabPjOexyyGJA/CZWDwycfkRg5tM+bxuy9SGkonZOqzdJybuz2Fb/2HoYczeGxoIaf9RyxeKL4jlXNjn0jhUgAaOosn412TP3yXE69dISU2H2acvb7uyDzh/F6yzi42SSg8jAXo09On9EZBB+7VNPROje8npk6n6S7KwIygDvGyt6vvGXbV5uy+yz8Veiw0cZAwsWsDYZxQXoFGkLSKj06WW4woGMd2kJQYtsXhZ5WOH7UPB4Ghr57904DRmYeaYQCVGpg==;JGw6nZfV6v1LeCmLsUdxcQ=="
 ---
 

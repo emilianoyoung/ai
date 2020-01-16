@@ -65,6 +65,32 @@ related:
       - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/01/Solution_Coding_iStock.jpg
         width: 620
         height: 372
+  - title: "The hits and misses of using Artificial intelligence for recruitment"
+    excerpt: "Artificial intelligence is making huge strides and has been occupying some of the best minds of this century, but the hype around it is just as massive. Artificial intelligence is entering everyday lives and products, and many of us find ourselves in positions, both in our professional and personal lives, where we need to evaluate the ..."
+    publishedDateTime: 2020-01-16T05:17:00Z
+    sourceUrl: https://www.livemint.com/mint-lounge/business-of-life/the-hits-and-misses-of-using-artificial-intelligence-for-recruitment-11579090581935.html
+    ampUrl: https://www.livemint.com/mint-lounge/business-of-life/the-hits-and-misses-of-using-artificial-intelligence-for-recruitment/amp-11579090581935.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/business-of-life/the-hits-and-misses-of-using-artificial-intelligence-for-recruitment/amp-11579090581935.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: https://images.livemint.com/img/2020/01/15/600x338/AI-kkGH--621x414@LiveMint_1579090652699.jpg
+        width: 600
+        height: 338
+  - title: "DeepMind found an AI learning technique also works in human brains"
+    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/
+    ampUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 56
   - title: "How Deepmind Restored Beauty To Chess - Gaming - Nairaland"
     excerpt: "ARTIFICIAL VS HUMAN INTELLIGENCE A few years ago, the A.I. company DeepMind set out to use games to hack human intelligence. They thought that if they could invent a better computing system, one that taught itself how to do things without human bias or preconceptions, they could “solve intelligence and then use it to solve a lot of other ..."
     publishedDateTime: 2020-01-12T11:53:00Z
@@ -92,6 +118,15 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 19
+  - title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
+    excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
+    publishedDateTime: 2020-01-15T19:00:00Z
+    sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 16
 
 secured: "yTZAzjXkv1ZhhBFFbzebCBRi6udKJ1618qDemB/6iTjjDXg5BiD0QrTn/puBFze3Pv4h67Vi6r9GbjgAPwu4IDceWspwipXOuoRCErhrI5U+Qg0zNDznFhgieMALmFJBSXp7MmwcCMAjzN3hkZui49+vSBaECjmkuZKG7VJo+TL81f5aFtTH5oK785lGxmhSzmFERJ2NEZCwhoMfLWon95r97gNItrA3EiAt+bhthfqgD0391u3893RnU2o0Sx84AYsJW5mWtBx7g/kvZeGLtgOhpNUCj/u+Ov09ie2CljIVdqAdI9g8pU6JMGHsndGrvUS1Ox2dmH2RTvtGspfE2PD4uHWCUvpr3CkH7hxuPmO+9X9nSg3o+JU6CkhdrbN4HqPhSQNWh7pdAVVNAI6pjzIiRcZhQYcTUZtIt1v2h9cXywjFhWXrPJNPlCWNDUVMWLL+Cp567WOdL23Q1sit1Q==;VELS/OCCDnGRHQh7OCBjpQ=="
 ---

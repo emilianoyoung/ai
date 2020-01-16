@@ -36,7 +36,11 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg
+        width: 640
+        height: 640
   - title: "The AI Revolution Is Coming in Emergency Care"
     excerpt: "Artificial intelligence is poised to have a transformative impact on emergency department teams and the broader world of medical diagnostics."
     publishedDateTime: 2020-01-13T13:09:00Z

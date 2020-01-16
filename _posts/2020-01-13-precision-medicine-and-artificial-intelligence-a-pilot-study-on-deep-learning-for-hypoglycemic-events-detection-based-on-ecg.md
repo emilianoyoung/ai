@@ -37,6 +37,21 @@ related:
       - url: https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg
         width: 1500
         height: 1038
+  - title: "Asia-Pacific Retailers Buy into Intelligent Future but Yet to Realize AI's Full Potential"
+    excerpt: "Trakomatic, an award-winning Singapore-based video and sensor technology start-up, is investing in AI solutions from Microsoft Asia to deliver intelligent retail experiences. With consumers increasingly demanding seamless online-offline shopping solutions and sustainable business practices,"
+    publishedDateTime: 2020-01-13T01:52:00Z
+    sourceUrl: https://finance.yahoo.com/news/asia-pacific-retailers-buy-intelligent-010000834.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/asia-pacific-retailers-buy-intelligent-010000834.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/asia-pacific-retailers-buy-intelligent-010000834.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 50
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/3sdz7GXwD4EfEnJrzkZADg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/uu/api/res/1.2/SxYOmT5uk4GJH6itt86rYQ--~B/aD0zOTk7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/2e65cf15426ab60ebfa591055974dfd6
+        width: 600
+        height: 399
   - title: "Budgetary, policy, workforce issues influencing DOD and intelligence community IT priorities"
     excerpt: "IT solutions such as cloud computing, modern data management, big data, cybersecurity and artificial intelligence are in high demand by intelligence agencies with increasingly complex national security missions. Deltek forecasts growth in IC IT investments from $9.9 billion in FY 2019 to $11.0 billion in FY 2024 at a Compound Annual Growth Rate ..."
     publishedDateTime: 2020-01-15T15:02:00Z

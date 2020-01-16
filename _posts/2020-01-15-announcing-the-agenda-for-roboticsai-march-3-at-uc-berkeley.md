@@ -8,8 +8,8 @@ ampUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
 type: article
 quality: 187
-heat: 227
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -39,39 +39,39 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 174
+    quality: 206
     images:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/robtoics_ancajur.png?w=1024
         width: 1024
         height: 558
-  - title: "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley"
-    excerpt: "We’re bringing TC Sessions: Robotics + AI back to UC Berkeley on March 3, and we’re excited to announce our jam-packed agenda. For months we’ve been recruiting speakers from the ranks of the most innovative founders, top technologists and hard-charging VCs working in robotics and AI, and the speaker line-up will capture the remarkable ..."
-    publishedDateTime: 2020-01-16T00:31:00Z
-    sourceUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/
-    ampUrl: https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/
+  - title: "Meet the robots that may be coming to an airport near you"
+    excerpt: "Robots are staffing airports around the world and performing such tasks as check-in, security and concierge services. Nearly half of the world’s airlines and 32% of its airports are seeking a partner to further investigate robotics and automated vehicles in the next three years,"
+    publishedDateTime: 2020-01-11T20:31:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
     images:
-      - url: https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024
-        width: 1024
-        height: 558
-  - title: "Cultivating robotics and AI for sustainable agriculture"
-    excerpt: "The issue of agriculture sustainability is a people problem. However, it might be the robots that save humanity. Automation and artificial intelligence (AI) will help relieve the effects of an aging agricultural workforce and a shrinking supply of field workers looking for less strenuous work. Self-driving agricultural machinery and autonomous ..."
-    publishedDateTime: 2020-01-14T14:31:00Z
-    sourceUrl: https://www.controleng.com/articles/cultivating-robotics-and-ai-for-sustainable-agriculture/
+      - url: https://image.cnbcfm.com/api/v1/image/106328864-1578670951519preview-1.jpg?v=1578671880
+        width: 2849
+        height: 1875
+  - title: "Going fast: Buy a demo table at TC Sessions: Robotics+AI 2020"
+    excerpt: "Startup founders, set your sites on TC Sessions: Robotics+AI, which takes place on March 3, 2020. This annual day-long event draws the brightest minds and makers from these two industries — 1,500 attendees last year alone. And if you really want to make 2020 a game-changing year, grab yourself a demo table and showcase your early-stage ..."
+    publishedDateTime: 2020-01-10T00:08:00Z
+    sourceUrl: https://www.yahoo.com/now/going-fast-buy-demo-table-210034450.html
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 69
     images:
-      - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
-        width: 645
-        height: 350
+      - url: https://s.yimg.com/uu/api/res/1.2/c6uiDq5JAl9hkdZqiElwMQ--~B/aD0xMDkwO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/5055134b04220666fee06e4faa36f1a0
+        width: 2000
+        height: 1090
   - title: "TechCrunch Sessions: Robotics & AI"
     excerpt: "TechCrunch Sessions: Robotics & AI on March 3 at UC Berkeley is a single-day event that features in-depth interviews, demos, and networking opportunities with top robotics and AI technologists, founders, investors and researchers."
     publishedDateTime: 2020-01-14T00:32:00Z
@@ -85,6 +85,19 @@ related:
       - url: https://img.vidible.tv/prod/2020-01/13/5e1d015f791cad6e6f77da77/5e1d01c2b0f8f754de2c6cbc_o_U_v1.png?w=640&amp;h=360
         width: 2600
         height: 1456
+  - title: "Maxar's space robotics head Lucy Condakchian is coming to TC Sessions: Robotics+AI"
+    excerpt: "Today we&#39;re announcing that Lucy Condakchian, general manager of robotics at Maxar Technologies, will be joining us onstage to talk about the company&#39;s work in space, and in particular NASA&#39;"
+    publishedDateTime: 2020-01-06T17:00:00Z
+    sourceUrl: https://news.yahoo.com/maxars-space-robotics-head-lucy-170005328.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 63
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/LdwGUu9oImMlM1lPaIi1JQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02OTcuNg--/https://s.yimg.com/uu/api/res/1.2/ibbTtBe47gLNlqgGz2L2Jw--~B/aD0xMDkwO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/73651ccfdf7f83a165f0c22ec6a9b41a
+        width: 1278
+        height: 697
 
 secured: "R9jYdTBOHLgt86S1dYN8/bz36H+OSV5jNWoGUuu7PZzt9NzR+ccROZSGxKvBN5oabI0tesJltAPb3y7a9BolvcBw6qGV3QUC1JKDHEYvi8ksALhNP6k0nJ5LXQACfRQ6yg1DoRa9Lr8HT7N2kwn0IaDZ3VrYsQtI7g5q2YptvIKM0buXRBDXQT2HvK4V2qACFAwjIdjKm7cYsmLk/gtYghGCV+EN6FtpqYm/Cdysm11vlmOx0tTErKUDDleeqDWgD9e4B71lZuAXQI7VJrf0UKGu9tSwbfO202lMZ5ryVbmmC7Mpz7gV9xjl2rqVIb5W5QEDS6X2QexmSyx+qboZ8WsPYCc8m+FOzzHGt3FZ5yK26GGjl9SaEBFZJZi5zhPEDQaPF+XmiWOpBGLDzzIe99QiKw9Z6gi98LcJG8pCRuF+jnjWSXIabgSSRkmKcEbT7VP0ezS7tXRMvlzQY1r0ReMyor1Dcumqg2yC7BEMrsg=;T45i8Lruht7khT4xSePhhA=="
 ---

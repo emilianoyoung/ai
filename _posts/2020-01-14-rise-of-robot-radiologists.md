@@ -23,6 +23,6 @@ images:
     height: 497
     title: "Rise of Robot Radiologists"
 
-secured: "otH5Yi1zNi2QnJZLjzEfyGGszkglhJufv98NKyMNnykB1emU/tN4Y/aoC6pPwG3UZ1ngM0G8eTi1QFDiPA/zuKOo/nQSt6w9IvBGjwVtNeunuzhiuQDojK+AIabbXhwJni6+ZFqmIEMMLmvtB6qfeonUBxkTkIPRuwNDJpHw698t/2jODb+53zbQ29fR8B66kgSvDcXiGpRY7waOJ/9kNTukJUwxWL7SAwTNUdx5LMuP6pAfhls/6bSzSfmJOSjgJBYfFqFu7vXsblXCLeRR2QjKr0XTYXf3XlTvh7/RhMc=;WkaCt9ruARdHzeOAwCp0OA=="
+secured: "c0bMUXwcXRmepWKu9WpwSoqpzr7WnQEWi6M+RY1xIgu/ggvbW2FxPRzfQAW8IjXTErTqYmwvM+5O/JaDxDQYCb7LkV9MH6o1V4G9EBWqAFkFvghrfwyIcgZ5p4A1IKmaHO06wLqNzx/gLR51Iic8HbzzhlSw0eYsDFOvv3Wj6PtbYY7D/oYkM5MxHnR/+p8YnGVEM/Wqa/qfgwbSNqgLOHSQOMnsLGiIv/A21Feqr3hbDu9Ll8noBw7yI1t25HrAWTlxLX/anvIJhMZwxY+IxfLzOue8zYR2P/B+mXLM9fHRK9HWRbBl9VwiDPBLCouJhXTM+ZNBe9UWgd4v5M2A5Kk+nyNhB5HkGFrvrhjv6AOE5BXJWpCOzI/w/P5IZ4j37d/EvxHnDotlsBGMFne2xH7ZpEiDscB9H7/7gSrFCYXtXZrrC1odFcuaLvpR4TxgWDLEKneegdcY2QHa7mATqw==;mqf69xj+xUhnLlEo8DFnzA=="
 ---
 

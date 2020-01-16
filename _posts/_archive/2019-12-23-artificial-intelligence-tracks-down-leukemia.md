@@ -21,6 +21,17 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "0X5smQ5jTOTUNAyxRyfIVfw25afiAs7bfh1LuADLjNMLi0+WJiWgWBhVk84qlBg4Tli+QG/wHh3DHX3ISp2zz3AYy4JcR02xAr3jz0DRZFwiFmb2KNA/bMuy4YUd1dEYEBRGM1UJXrndWAHYbP+OyxxamhIIcfmBC7M3JCKn7t7NiKLpCV5ADWxEBhv4EnjX61VTP7+ZPCNofLTl5dzJ3olRVeDsuKVueArLY/FnKfPpIFTuE0c7WvKxe4ZbBzKCS0aDhmx2fvmWzLowWL+NzFeewkN84njAKNMy0WHb2XA=;iVF0qhBVvTuANpaFVn62SA=="
+related:
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
+    publishedDateTime: 2019-12-20T16:27:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+
+secured: "WaY0GgGfeVGeu3HVu0Ox5zgRDQnLY2z+z/XKfqztEJYDvwGEbSwqm9JZfDER8atqPNkVeK+JDPxR+ZVRHVTg77PGmAWdyrGDIt5NfpP9NMFhoT06qhm22BWC6hHNx/GyQCjtKIx02TV1Ip78NstVRW4qWihsVsqKhPBy8hZWJv9odYKMSj9Jrd2UHNZ1m+78gvFhV0edzkd/dePbtpVl4ZVkxLv6VbtdrZPAQJqXA5iuBeefNUuGLs6G1VZkBUM/qhUBEAp3H2Nvw4Jn8Eu9nmWl3f7+WzOgnBUobFIwkgI=;Vg+OdSpKR/ElhmNmPA23Ew=="
 ---
 

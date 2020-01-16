@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-fie
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
 type: article
 quality: 98
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 1200
     height: 600
     title: "Zinier raises $90 million to embed field service work with AI and machine learning"
+
+related:
+  - title: "Iconiq leads $90M round for AI-powered field service startup Zinier"
+    excerpt: "The San Francisco startup this morning announced that it has clinched a $90 million funding round ... ISAC provides features for handling core tasks such as scheduling repairs and dispatching technicians, plus an AI-powered automation layer that optimizes the flow of work. The platform suggests specific actions that field service teams ..."
+    publishedDateTime: 2020-01-16T00:36:00Z
+    sourceUrl: https://siliconangle.com/2020/01/15/iconiq-leads-90m-round-ai-powered-field-service-startup-zinier/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/unsplash.png
+        width: 718
+        height: 400
 
 secured: "NulpUxkzkB/rpOgv+A8vyKCBQmGCxj5jkpjoR0EjBMv7hpQCj1AgPyhu78KNX5khWKOnfqm87ZMoQf2A60GCsVC5x0V/saVwuntqKK7EuUy52b2l7mVQrJxZ3g8uGJubDR/GPLQRm0LX3YNaLLF94iniwX2YY0cN0j7IpWY7JNmJ7V3hBO7PygnxGow3zSDppbO9wESybgG0C2a9r202D21owkqquKw7pEJRsuKPywHxfzcAPgY3RUSZDGsjR/j06973gXqHeh351Z/1NPw9AEzn0NONNZdA9D2qC7IS+4CDkT1lFWP71pcYAEEQJ3s79DA7nQ54TVoZTeVwT8vzWO51EWcW3JaWh2M6NKggYy38SDHK6F4rabDvsXUF3/r9P2DN8IiGO1dBv0wKELaM57VjhhhSUY/Txscmx+IijawcT25HLElQN4FDv+T6RKswfmD09wnX7HsTRnC2Sz32wg==;FELiohfUzHjikN+1DPYzPg=="
 ---

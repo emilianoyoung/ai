@@ -7,8 +7,8 @@ sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here
 ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
-quality: 70
-heat: 70
+quality: 90
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - AI in Robotics
   - AI in Healthcare
 
-secured: "KcKDm2BomzNHoOJLejAdwdlFeOL9KL2jtNMjb+coI2bJb+siWs27Vm3u0HV+HZ/JJB12XkT/xD8qkztDbIoBYjlLEUyzRojXb2cEAgUTPGOslAABg4aXgjg5ByKWDlTuD6IWvLwYY07PyO+4h/b5WalxtebZ3zNofuT8QFfuVeKDp/p2hvSWlv2oYqOwEMmffdEm/7RRyZ/2ohhQpmse2tjK6Xo50OXgu13ZAUCjjQ7483Ece2vkTP3yn0sU4ZVME0qb48tbDIzGUeN787f8PMSFMAHTUn8YqvkL9MkQngI=;9WM1J/iKrT6f6G6AWitrqg=="
+images:
+  - url: https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg
+    width: 679
+    height: 365
+    title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
+
+secured: "EsVuhtC+O52pXaJlGfAID6dneiGGrthU3ksPMggXKlluF3RbBsCtnver/ab2halcQUWn86/LHdgStZV5u4Jei15pXec3T+rTvfOMTt8S3K9NL51oOTj6wWvuzLvlcJ3qGjfYKO8XNIt31gfO1m8DVI5BWJh/kAFlW3yNCQ76K6qBFYyqs/IoCqy9ZI3g893Z5D7BEs85nVSt7vEeyE1vY1++bclumef8li4290jgU7m+/IMRCzknUcyJFEZ4y2KCT842lGsolgfP7GvTQrDVEjNWvlNokL6snKObMB63kyw=;48/QYTtSsZ0DlF8TVeA3uQ=="
 ---
 

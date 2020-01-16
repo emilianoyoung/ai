@@ -23,6 +23,6 @@ images:
     height: 480
     title: "China's Canaan to Release Its Second AI Chip This Year"
 
-secured: "45Tvwow4QF1IaGFtyJGhS84fZIv4wuExei7OQd89O8umCH2PK4GsEFwsULroY3h07gBg9T0Y2laFHqtTQ/ZrDdL6qwwf1LX7KUxzu6UJ1mvjmFndsW/M29kGA5NO227gR380Y35dxnU55F+ccY1KClwFbqZ0/HzEjy5pDJBvBsT4n8w+tI19eAxUgI6WDl1Z/ExdF6MziRjsI0/k1EVhPlQ/Ay+xgzX2ys+splLWMrnV0GCY6fowcGwSE7cmolMgB9TXgucAGwmI+kFr0mw0Ivw3krE10hv3bqFYHe0sPn8=;40rNTKgPB8YPai44R7KvtA=="
+secured: "80pwlOqt7xPFbfCcAG454cvxdTiq9yk7L4trdfMbdFABefAHQ/nc9BUgzHKRyfap+3oKdkZ9kKaFh37ka/6gxGwncydRfd+lwECf3TKH8+aPb0KNvcz/z+ajZ0q6vc/Xm2DLedohpyzhvhdOc/YLM4kMhqPlx1byDG+62JnqkPx7UnIU8S7amSnmjIA46KAbclEmpRWucaoNkD+K0J7TMbrk11tDGCvPjDWgKTWjWSI43F0NBGvgfiaGPWcQdko8PQTw7jy/y692S6yye0rpDyxQ9vc8Ivy1di235ewlFgV05sujnTQT1Hnf2ZoAPsPuZw79GiPTngcmHyFsRVXHoMU6QtLgMEFA6mfFm2wdWtihOpMRknfU1u6QF9km9H4/XbFJM8cuS2Kgrd5eE6o0J/rQjDgHN6wSMt+uGT2zPiTRZpqFV8gjTA3yolyAK0xhiKfmAAEjqzScd/iVdMwRIA==;qupxvwR9VJfKVdgubS1aIQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T15:00:00Z
 sourceUrl: https://www.politico.com/newsletters/morning-tech/2020/01/15/facial-recognition-hearing-leads-the-hills-packed-tech-agenda-784408
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Why your palm could be safer than fingerprints or facial recognition"
+    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
+    publishedDateTime: 2020-01-16T05:27:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty ..."
     publishedDateTime: 2020-01-15T00:00:00Z

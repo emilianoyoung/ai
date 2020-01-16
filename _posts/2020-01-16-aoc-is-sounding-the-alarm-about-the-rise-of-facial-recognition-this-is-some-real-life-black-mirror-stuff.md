@@ -8,7 +8,7 @@ ampUrl: https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
 
 related:
+  - title: "US lawmakers concerned by accuracy of facial recognition"
+    excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51130904
+    ampUrl: https://www.bbc.com/news/amp/technology-51130904
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51130904
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 69
   - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
     excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
     publishedDateTime: 2020-01-15T16:41:00Z
@@ -49,6 +60,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "DC1oSPY8a9+GCWQk/IJ5J18W0osXSj16K0mZVoWEPqQhTAEdt3eQv4CmF79kKYfgC7zDcXNQnFqHW+eplK6oKoIGFNSHw4UuZQXGg7ZcNoO4G5Mv2TAi/knGXLKTMncGvaReON2OD4sY0vAZE0nQSGwAOoHXpwXMvrNrHe5CQO9jSIj+bmNFGVPCEU6q6Um90syU1r8cKnP3kiT1hOsXuEf/t83d3ecyQ7fAYsCooVpABSIRSXlqBaYPxraNQecfCxXUrZjSlKvx6BD373ZyO89DGzbi5VxRU/AdsU9s4Us=;pZJJMT/4HaPkr++WGA90ag=="
+secured: "CiKnkJyQUP9OEp0LmlIgvXktBlCi+M8QcXfYpg88f3rofHd5Fa8ND9tNHblKm/UJMVOT16PYMU7reHNFvDXVzJ2DKnZ140ulSw63zMIDCmfQHcwRVApYtzRw4Q7/K3j+z+ta2qp7LWcGEj73UEYirvpr62t+E2LwzY5dEOmH56XZRKdryOFw2JSXGJRoR9Dv2xX9ZaBsd8kObglr+ym3shTHb+rXihqqicox8flNi69hZQVL0BXwlqtVw5RwtjohIhnmcfVEb/mAajwc6VDn1yhwsZg/T0G9IBvpExTktmyx2QfXSZGeuq0jrnNvqDg3TZstmkMC2CAHJum0zOZn7+ET9cBQdAbNQrIDLmJcMAJfvVeGHX8fMyJsiUAwnKhRnXICaDlD1TqYxvLq+81RNEzHGYK4cSIqViqcO7l2ujAClbn51ocX00jWFB0lg4ggDKnJaEkO4X4+mz/IWxYgYQ==;5mnVfwXSX5jUiIJxR7/BIg=="
 ---
 

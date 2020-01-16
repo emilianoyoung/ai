@@ -37,6 +37,6 @@ related:
       domain: marketwatch.com
     quality: 3
 
-secured: "xKRyCA1tEH+AUcjCxEW/CzggpQmqD1JpqzsnbTxN31j2kJ4PMP3BvTYj7nHwK0wauv/PFdpJLzjxz53nDbY/I1tapueIV1A1q5cnl/5Hfl/09oZVmTffIxgQ/zMx2AwPNPDI9auJXxpTdyqCs7pZVEvVkjh5seGQF+fSM2y6uHlpITTDyTSIuhvTpCOeRhhYZz5X+63bbaVwKliJlH8ktTP5BI+cyyw5779/701flhLJyNccoQQO7Gn8nXAFwDW7nsXgm700kt3vmGHcfoVQeLLOjL4LAnxb1YK2NU9QCP0=;GlUaRcAfvSbsxeoyo3LoSw=="
+secured: "li0S2jozWHFZmc3lXhzix1KWtNDC+xEli/zqjSq0B8hNqu1CZlniVaMoDgGbdHeBny5INSzjjRC11YShtOFWlBNmk7HRq4SPLYfUuwXEUM6LqNutrMmjpOuNjH7kKX4HNqQlDa234J2yPx0fRKKD76K3u5eYbjJdQ3At0uCTLd7tmty0IVGEDIYtBVeXIZhEFtYGD6YOGh9nFF2gvtMIAXrVnxNFk7mhhCCg2SvyURJOPLAfzTkBAuP4MXurn+YfzPQ9w7O9JjuWvOsUXXZ7KKk+L6lVZU0DFF4ueU0fK9Q=;sAXpaGPuMjuvdQRqb+1OTQ=="
 ---
 

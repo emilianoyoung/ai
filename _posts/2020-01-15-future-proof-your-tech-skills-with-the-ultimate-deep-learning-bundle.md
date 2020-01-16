@@ -60,6 +60,32 @@ related:
       - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/01/Solution_Coding_iStock.jpg
         width: 620
         height: 372
+  - title: "The hits and misses of using Artificial intelligence for recruitment"
+    excerpt: "Artificial intelligence is making huge strides and has been occupying some of the best minds of this century, but the hype around it is just as massive. Artificial intelligence is entering everyday lives and products, and many of us find ourselves in positions, both in our professional and personal lives, where we need to evaluate the ..."
+    publishedDateTime: 2020-01-16T05:17:00Z
+    sourceUrl: https://www.livemint.com/mint-lounge/business-of-life/the-hits-and-misses-of-using-artificial-intelligence-for-recruitment-11579090581935.html
+    ampUrl: https://www.livemint.com/mint-lounge/business-of-life/the-hits-and-misses-of-using-artificial-intelligence-for-recruitment/amp-11579090581935.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/business-of-life/the-hits-and-misses-of-using-artificial-intelligence-for-recruitment/amp-11579090581935.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: https://images.livemint.com/img/2020/01/15/600x338/AI-kkGH--621x414@LiveMint_1579090652699.jpg
+        width: 600
+        height: 338
+  - title: "DeepMind found an AI learning technique also works in human brains"
+    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/
+    ampUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 56
   - title: "Importance of AI in making lending easier and profitable"
     excerpt: "With the onset of AI, the banking sector has completely over-hauled the lending process; simple, cost-effective, and profitable for both lender and borrower. With the rising number of smartphone users across India, the digital mode of payment has been increased dynamically. In “India Fintech 2019” report, Unified Payments Interface (UPI ..."
     publishedDateTime: 2020-01-13T07:50:00Z
@@ -98,6 +124,15 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 19
+  - title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
+    excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
+    publishedDateTime: 2020-01-15T19:00:00Z
+    sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 16
 
 secured: "/vhXXB9NrFprnQSspZpxTrB31zjKvSLrbhcZVT36iznoRfzVWcv4KlSx4Tvd7hGz6RK8tkNqv5fmIfwZUSiSQ818cFRy3hWjQ1VKit0n4jCfFck6+GTVEycw38VQQrBoKljSc9z4SaCoOE+76mBTA1JKForFHQZwIBhlzb8jBKTM4+H2IsDC4U/8O8Dg2YMMAVBNMRwYse8vs3CtNOXarZntavqvj3kkZXdI6K37FMUH+kP8++3kRmzKa7xu67KIDvO+INueZsRztL3/yyTFNJnuC5idzXJ1vaUCxYfJ6pzFnWpMrPxYcGdC64Y2OCVn1hr7RH/ZFZIU1tgvaUg7oz31zUY8pY6h+DvgspHJKr10O4jVwNs8wlqYsSA3uTIxr5tb9Mn3v1Q1mbaA8dtRK1wS9PGtuV4VSzojtFmE5cVtZcxKHu+MHbvKHwxH2kvb6ePUNiIlZ4jKUsdlrSr/dA==;RPvijP2vpxETY0LiinJi7w=="
 ---

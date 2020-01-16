@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/study-millennial-parents
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Study: Millennial parents are more likely to consider AI for their kids' health"
 
-secured: "rO3fnBEfrFnrxSduxzCKRFvje5poTy05YumDOY8TBfG4b0TOBIAHl8z6inNGy2TIb7YqUxaMLVfM7D0Y3bXJVjkqVgLM3+gi15yHh5qGe2Kq4G4xxdzuvTwhPGt1DOsq6TzH3H2Bv4THEYH7FW+yaat/SFAGmX+BmakOPnORUU07JznCx2lbqEBgUWjnc6lkf4Z5caHRvBRbhSZCPrS+adztNdQcWIIWJntGQ/r5CbisrSpjPg/heudFObKT+D+7FDOB+wbh2f9JItmwB1L2XzPNZLW1+XZ1+kUA4LoJiDwJn7QzM8Nb73m40rpHZk8s9mLF6Ky/m+lVfiztN9w4XVuX7tyPDEVWNt/+Xx75tSyo6gdGV/1JMOeSD4w9rfvKK0JNceRPBR+ZXi4r4RkCeEmMMR2q6AvRGSam1BZkVsrAvRznD8C0daXY920hrzLC9+ECo0/1WvXOQV5kG3R+6g==;aiJJxSa6bmLVYp2io+84Zw=="
+secured: "H9tUcxRhs+Mh3Y1YgsdLc47VBu9bAysPGo2HIQB3MlQdMIA3FVLV154uihp+2DQA2mJLhwLfv1+jAHz3Syb+e4gaja8bFPwUNDFzTg9hPuMe12preK1F07aH9tBCWTKGhz1onPl/T0siRkMB2+5jwQmWt5ps3EpqhXBiIGI9P6TGBpSkjwnF43lrGByHH+jn4u2/ZJN/9lpwHKFl30t7HXFYpniBMrO0VN5sU+5/Tku1Bfde1aZL3VR/yVp3z1P8hApcEhoiCGaR3+fMzJDi9WKeaiQFdp9DU3wbF3JxeOF+EUAQVvUbqHL7H7+Sgrp71dVEj4Cvk/j9BEPbcmtsbCTTU6PBHAnyhJAeTNjT977fcVjRXnm4BpQiEFu0dVIbbNzxH19tRT8rdbo1hqhJQqOsuidiyRGZCodsMl8IK3KKVoUDQpjHo5gcWMjhOZps3NVJX8cuI2kVuhwFBMIDcg==;5BTqP7oDjnRe7TtAn+OzUw=="
 ---
 

@@ -32,6 +32,6 @@ related:
       domain: ft.com
     quality: 24
 
-secured: "MgjfU2vNALrp29d9GNEMO6rwSi4MWvSDjD7yemRP2GO5PPOahIwQYyN29aoW6KrxFqxomq+VyJMHJnwMqSr1R+O8fdWFlr6l9MloWt4asxKNQYgfQacwfdo7/+wHqml5TEZLCHNtV1r74jvezPIAQIQncJppvssUJ8iXWA+40QrDGFysR3WdDbMM2Mhissoj+czYjzhKC/K53+9GFBC/yyy2QyHnRBtbDybAzzgt4zoosTRBZjEEHp0atGJvA1+gBvGnNt4aTLjIWiJwiQ1yr6W5hOKS5TboI8/Eo7PF9uk=;0HjgAev0XVVwDmM5r0tq+A=="
+secured: "CGkTiFkeefgyXDyIEZOXOtW14G66JINjj9J21yLRZhYjbOpJdHm2cCtz2ulMKdwgkG7AQfnmod4OvwMykxTz+g/dvVk1TUu+ZatTAadeEFMvrL2Tj69qpsz6FSrZguJbn4yJFQ4RUUi976VqqaK6Syy4oxeo9QL3s4NerAvAQDHH/mt6LI6h9F7OrvLnjketd+ekCGQgALnxwegP9M+o4fCKCQAFpmRQUNZZuiqkIPn1ijIwVeU3bafPxlLjUrM11pdong5a6WPD+4wOB3ld83fMmU764yDUq+a3K5vI2tg=;KbVbQWHiKmoC/LKgohZIHQ=="
 ---
 

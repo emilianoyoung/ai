@@ -52,11 +52,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 13
-    images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
+    quality: 0
 
 secured: "Yyq1eOvIbYnQjKBtQ2vYwjD6h+A2HclstycV3zxkCkAQbEAFehUfUdzCO6ZYdRG7vxuWq7CmrNtnY0JQAD2hSzxyYlRNP5Y6woLjBWUhR6bMQWX5k623R7n72qpUN6s9MWw4sk8Qh1Gu2Ir56mI13ZkoY/FqFcJXlpp7YYTpiZtBHHq6Z6mHsqeY+a8eNm4YQUB0C5/IAza0KZWvvgwqYt/6OILoLlyOYhGy3UzqNghZ8E0e8DWJW1cM8MAlW3eB3aZBYeGHWcbnrQTCranIxViE/XAQEIf8TutbK6+8P/c=;k5F9vb+5pR5p2l7nLnEAwg=="
 ---

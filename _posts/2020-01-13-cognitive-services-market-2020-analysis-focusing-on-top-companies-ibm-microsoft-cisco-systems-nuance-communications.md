@@ -38,18 +38,16 @@ related:
         width: 1200
         height: 1455
   - title: "Transoft Solutions Acquires Brisk Synergies to Leverage Machine Learning and Vision Analytics for Safer Cities"
-    excerpt: "\"Through our continuous investments in talent, and technology and innovation, we can help engineers, city planners, and transportation departments design and plan safer cities driven by machine learning and video analytics.\" \"We are very excited to be part of Transoft,\" said Charles Chung, CEO of Brisk Synergies who will join Transoft ..."
-    publishedDateTime: 2020-01-13T17:11:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-transoft-solutions-acquires-brisk-synergies-leverage-machine-learning-/2020/01/13/9080494.htm
+    excerpt: "\"Through our continuous investments in talent, and technology and innovation, we can help engineers, city planners, and transportation departments design and plan safer cities driven by machine learning and video analytics.\" \"We are delighted to welcome Brisk's employees into the Transoft family. A special warm welcome to Charles Chung ..."
+    publishedDateTime: 2020-01-13T16:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
+    ampUrl: https://markets.businessinsider.com/amp/news/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-    images:
-      - url: https://mma.prnewswire.com/media/1075566/Transoft_Solutions_Inc__Transoft_Solutions_Acquires_Brisk_Synerg.jpg
-        width: 400
-        height: 216
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "8qNnFQqe0wJmZcYvrLcHosmVRamQpkapGOpcROZb/Rw6zORNtVBWBJdG+HgrgXc3tF6rykO/e8BXe1K4VEuL3yuBlJEgoVXAJ/Hm0kwDuTZF69wKmN/gjqJjySHLwP3oCgE1YLL2o+Xp04ewTuhwnQPz/Bk1lJ9RLs4JOF92Shj2czWXHZDsdLdbKdQ1kdUXP5OFoym9y8Od6mjrcmJcTFxo5gn3PEn4sugsCx/PNPeLMNApq/mUATABwYrHLZfQrO69RAu70iTww3vSc2TeBtV+V6cBew2PY+GSPS2JOFo=;k8PEXQmQou9ycrkrhbygBA=="
 ---

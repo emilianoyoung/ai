@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Transoft Solutions Acquires Brisk Synergies to Leverage Machine Learning and Vision Analytics for Safer Cities"
-excerpt: "\"Through our continuous investments in talent, and technology and innovation, we can help engineers, city planners, and transportation departments design and plan safer cities driven by machine learning and video analytics.\" \"We are very excited to be part of Transoft,\" said Charles Chung, CEO of Brisk Synergies who will join Transoft ..."
-publishedDateTime: 2020-01-13T17:11:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-transoft-solutions-acquires-brisk-synergies-leverage-machine-learning-/2020/01/13/9080494.htm
+excerpt: "\"Through our continuous investments in talent, and technology and innovation, we can help engineers, city planners, and transportation departments design and plan safer cities driven by machine learning and video analytics.\" \"We are delighted to welcome Brisk's employees into the Transoft family. A special warm welcome to Charles Chung ..."
+publishedDateTime: 2020-01-13T16:00:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
+ampUrl: https://markets.businessinsider.com/amp/news/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/transoft-solutions-acquires-brisk-synergies-to-leverage-machine-learning-and-vision-analytics-for-safer-cities-1028813392
 type: article
-quality: 19
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://mma.prnewswire.com/media/1075566/Transoft_Solutions_Inc__Transoft_Solutions_Acquires_Brisk_Synerg.jpg
-    width: 400
-    height: 216
-    title: "Transoft Solutions Acquires Brisk Synergies to Leverage Machine Learning and Vision Analytics for Safer Cities"
 
 related:
   - title: "AI-Driven Disruption And Transformation: New Business Segments To Novel Market Opportunities"
@@ -49,6 +49,6 @@ related:
       domain: marketwatch.com
     quality: 40
 
-secured: "A1vQk/UXP+d0rvL9tBvXhU2bI5IOXZJFGZSzfeQ3Y73NsI5A2CYYKQGjPKUf61QmQgBBH1VtKNbtozOKcelu5A7Yf8u/LZwwjybe+gQRe22VjqMQcL8wh0gRQPONvL60PabQoa5+V+Vm3o2mZ+eX+xg5hJP5q7THtlP6Ma6w+88J5I0FC/VR48gktT18GXbFHfZm8Qo20JBOsVkn6r/iJhO4wT8u5w4UMgm4d5vj49w1I8iTqw4HRMqrdwMALuff+Rzu13b0oolSeUBVRhd4T6nmEsjT1jMURipQ6yxySifwYb9dlWjAwF1SdI53g+HMQVylgJkIBC5l8yDGk15Altqhsii1Y8day+ht9WkRkRb4Ay34R9rayXnQ74AJWBg7kLyg0XCkAPgQUuOVcHPO8RSKBtdkLwV1UPWpOLokxTa9FZizPiA1PxNat1M+gy1q3YwKlGPeaTzpIUmrUdtZig==;WGFSEL87STfk0+7zqiJFbg=="
+secured: "PrIR4NclCYT98UJRtAXuidSbtVzogTfN0ZNFD6acHF88I9KcCW4Oc5azgNfldeFlgpEJeneRvZiJqN8cTZA7FF169F1TewrxNQ4EKHsyGS/D8jAfYrHMUlBix5sD5XEWrsqvAz2cuI2QQPTHuGBY9TtqZwTpSvV9RtM3Pdr5XeomWZe//+r+3d2V0a1F0hCBi7tOkEvTMHfW7Wxsl5bTE5lfzbM+O0CTCYK2mk2mEprqr4aRvR9ysBdxyyhfrEvPioNlUHYtyEztPeZuqkBDexNm8EyqQGgB9xSq1Kf5LrHFuGvT8ZasWPBAdqonQPH+sSvXExg+pc3zyM8U29nmKNZWl+Y37/liQ70BVyHEEvTcmb6OUynzlTijJ9LvugkRaSay6ou+hjqLIJ98//MqlDFhslH68yfH96SaWlagQVD1Xg8ez11h7ys/yXtj0SJwwSHlFSrYuYgNLHZw4FeK+g==;FU2zo4CWkheNYMxHNOJu7A=="
 ---
 

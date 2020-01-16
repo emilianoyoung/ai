@@ -37,6 +37,17 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
+  - title: "US lawmakers concerned by accuracy of facial recognition"
+    excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide."
+    publishedDateTime: 2020-01-16T04:58:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51130904
+    ampUrl: https://www.bbc.com/news/amp/technology-51130904
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51130904
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 69
   - title: "At House Committee Hearing, SIA Shares How Effective and Responsible Use of Facial Recognition Makes the Nation Safer"
     excerpt: "The Security Industry Association (SIA), the leading trade association representing more than 1,000 companies and organizations developing and delivering security solutions, testified today before the House of Representatives Committee on Oversight and Reform."
     publishedDateTime: 2020-01-16T01:47:00Z

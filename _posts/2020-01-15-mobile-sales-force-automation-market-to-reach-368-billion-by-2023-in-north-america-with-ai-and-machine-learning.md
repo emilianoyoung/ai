@@ -45,11 +45,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 13
-    images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
+    quality: 0
   - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
     excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
     publishedDateTime: 2020-01-13T12:24:00Z

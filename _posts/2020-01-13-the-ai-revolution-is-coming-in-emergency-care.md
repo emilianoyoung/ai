@@ -33,7 +33,11 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg
+        width: 640
+        height: 640
   - title: "NRF 2020: How AI Is Revolutionizing Retail"
     excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
     publishedDateTime: 2020-01-14T23:06:00Z
