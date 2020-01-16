@@ -8,7 +8,7 @@ ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
 cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
 type: article
 quality: 153
-heat: 184
+heat: 183
 published: true
 
 provider:

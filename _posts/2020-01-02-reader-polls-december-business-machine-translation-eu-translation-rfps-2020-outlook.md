@@ -23,17 +23,6 @@ images:
     height: 400
     title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
 
-related:
-  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
-    excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
-    publishedDateTime: 2020-01-08T01:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-
 secured: "RahobYduzr4WIw2+0WPj3Qh3eRNhJuwNHIRaCOBidiJX0IOZ3RJfsstak1b7mr/pieVKeloJGJbKjI7A1Rk77ng4SyS/kXT8bqoXMBLP3E/+aQcuYmVlrqHhW+ea9Csly5Y9A1ll+LQ0fxNgHvzFgku459yvz0f9DF1lxjKxclL1diKeC9v4hYLC2tM0V6sg+7HbJd2nYhkvtUa+1kZFY1CcakqDxeAomOjCpZaVL3uBHz6rK+r/EA8Yy7l1HziXM8Nsy80DGA3h+1DU9qL98ne3BuN5M6TU6IRSjD9dMkW1I86X5br7f+2MgbwVNaXZQ+4u5r9rlm2A4qynwoi2pN0cwYqT2ReN3AMZRFsvCLkndG6rfId3vdWPILq2fGeOlzKVmdgZrwNCeMLO4EZeMRIXxHSTNib9bvgW1Yk16wH/YY9AvxD675ekSaEblEuv0hLqPK1uPMmce4pxsQNGbg==;ElnAZDBnCscf8ZzArrvD5A=="
 ---
 

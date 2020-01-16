@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/13/comma-two-openpilot-hands-on/
 type: article
 quality: 86
-heat: 89
+heat: 86
 published: true
 
 provider:

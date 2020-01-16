@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weath
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research
 type: article
 quality: 184
-heat: 195
+heat: 194
 published: true
 
 provider:

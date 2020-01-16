@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
-excerpt: "SAN FRANCISCO, Jan. 8, 2020 /PRNewswire/ --  The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new"
+excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
 publishedDateTime: 2020-01-08T09:05:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15089483/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025-cagr-25-4-grand-view-
-ampUrl: https://amp.benzinga.com/amp/content/15089483
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15089483
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
+    width: 1400
+    height: 733
+    title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
 
 related:
   - title: "What’s driving the Artificial Intelligence in Agriculture Market Growth? Top Players"
@@ -30,6 +34,6 @@ related:
       domain: marketwatch.com
     quality: 42
 
-secured: "SV9932ejyqfbZ4fzPUn+DboZSGj8+4nNzTXQ0bOoT3IIRUgEluH29QeoK9K9qI15BB/woNw7wM4t+S0xHd/qZ9y2eyGI8h19TN8pu1PLNuj4hP7i7xb/n1IqgSZNX8b8im5X2jlhjDzjYm+WwUyeUm7GosE6NB44vqSLTLhwY5CpVheWhe7o6zXWSKKfzLhOjTEnhE46E3lwYn9S2/n+mCgW5pj2Eb8OWHSfCJ1XynGaL7xXxPBD/5fgq/7c876j7Zqq35s+juEzGofAGjpI4VzItRLhD/Al+yP6NptWAU0=;15XWyWEHCVnfn0wIGmMn3A=="
+secured: "sAhL/WNfGrwpq3Op6kCGmNA4E1N231kBqygPY5th5C5K26Dg3rxHlPMAB/7SWRXwi0FjV/xjS565o1cKYkRHyNrIidCIPaou2wiImkWqIt87+BwZBP48SvC8rz+jW9VO5stWCMKi/wST3XDpSe2AKu1Y3rKodvDs/j49rgbwPDBAezEyWczUh2/EEUhqvlLzP/7yYXJ2JpwRcAEZA02HDjrUnVRzoOAxfHxEDqhWxs2NpDSc70Xw2JzcAWDXDnTl4mcAFsA7yT47C/rNaCyvtV+r7u8ls8ezYW1RgSmie/Y=;69j5dMyKRqHQEZrg/ttUfw=="
 ---
 

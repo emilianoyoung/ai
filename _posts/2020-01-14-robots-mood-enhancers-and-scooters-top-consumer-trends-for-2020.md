@@ -8,7 +8,7 @@ ampUrl: https://www.wsj.com/amp/articles/robots-mood-enhancers-and-scooters-top-
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-mood-enhancers-and-scooters-top-consumer-trends-for-2020-11579005000
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

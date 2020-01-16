@@ -37,6 +37,6 @@ related:
       domain: openpr.com
     quality: 10
 
-secured: "ZN6K6xRn9X4IKJYX/ppMTauqYd5Xd/ZzvHqOTIAQGHLJVulh0tmDVxEdtOtd75c2mmDBDTEKuQzH/B5SUSB24b13G1ltBiUyqlYcKCrd/WZDGGRt2UXB0mmi+7VA0h/j6tUrEtN7HHoW522et6TLHXiu8PjnwvSEOnX4q4vPyDfbzDcdrtXaWWuLy0wHJnGSzXYWDpVXiE3JyQv5a+yUWLY21Wqgl3EJdgET1WjK5UgDdo2bFnOCvysqAgiOd37CbGaGXVPdhfrVG5u07uFtvbYW9O4Wy4Pt20RhmQDky/Q=;JaxL3n4YHNxKQE8b67kXRQ=="
+secured: "VtNmeDHXODJBm5lTbxD07ISDa1McZcf7CsD24aEni8S9OTFNQc0z+mg8Iu3ZuT7etEESt/HISBdbYm2dbUgTSXJJBkmzg+iR8pB0v68lo0St0gkU+BzrkLqcnR+n7ACesEB2DiC+WhhueJCtI5etR0gkGdjvWA5gJKKLm4gTilY/+gA89hBl1abK6+xakl1fq78FY3OCdO4p2v6FGHKdv4bHdeB9/bGdd5i4I/RiicuhZBjKOkwLlHFnVHW6wj/DV8eveFbJG93rmfugAR2yKXjEEg6vvPbxeDsxm2BXd2g=;d43E2OqtPqiRyK8/xCPk0w=="
 ---
 
