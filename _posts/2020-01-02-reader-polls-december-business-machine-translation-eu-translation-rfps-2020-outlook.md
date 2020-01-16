@@ -24,6 +24,19 @@ images:
     title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
 
 related:
+  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
+    excerpt: "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,"
+    publishedDateTime: 2020-01-06T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
     excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
     publishedDateTime: 2020-01-08T01:53:00Z
@@ -51,6 +64,6 @@ related:
         width: 1200
         height: 630
 
-secured: "4pJ5SUPnRN20ZEC7M8L/vf+fIkG0QLYi8DoZTcPEQwcq98QqJfedX1b/FGR0ofvf89ib4TygTV2IqdXmwRXpQRzGVE10TC3jvLSiAU8dvaaKaFgK5Sha9+FfHzlFj2IEKnLIczHLAdnaNVQcyZCwvdBBdh4jXK6vAhodqhCndWM29vV9lgGJwIXS1FPWTA0o05t9Ib9uo6rk6GP3hKg60gWZFCgBVpqg7ZMBTwYSr75JqSnqFV/B22Pk/6Y6rbQcNK2iEb/6BhMDF5ZoJHIrFbD2VT3UwmLhSZQhJmhaTpM=;n0cjRlXayUyYoqfFdg/4wQ=="
+secured: "XLYWSSbI/a7lFzSYt8g0Hfdei5+TfDi5f7f8yAY7Ct/J7Wmpq/OtrVoPEfd/TT3+E0msJYtRCb6nFu8uHXPiUI5cc6MGWMQhSzApkMusBpxlHNxLZlRk1m5MF2uOum+YMxu0ZCrfQtC8iANXYsIPEsn5IbmF4FflOHF8Bl0T8sTYadiiXsfuwTJ29UF1Xy4ORdQvqqx9sGPWENQtmZ3/WcBnyGTUtXAqRQtlCisKzKFbH4asOpWwPU+fNkvTyKH94EpiwRX+iADzfHoc1T7sBsNDRaKfdtb2cc33PxmunE9EtPg0cuzoZzBqoV5FotwqyXENhSqJRY2GmPW3n6ERD9H2srLKecnW6b503BUv8LO79SkxE7K2nxLWQF5ybTXe2NJJKpizgwvGjnwtzNZ3Ahwf2IQaDum9OPI7t4pnZTOa0WJmNjKJ3cUEbKaJednJtn8WBxXfhwFxWxImipEE0w==;aF20FnIOeD+bG53yEIyTzg=="
 ---
 

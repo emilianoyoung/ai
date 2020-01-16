@@ -32,6 +32,6 @@ images:
     height: 560
     title: "5 technology trends for the roaring 20s, part 2: AI, Knowledge Graphs, infinity and beyond"
 
-secured: "EcM/kwe32ST4tVDRI0CUL3h36rFILF3RF7BEAQfG2dOqibU23QWcpcZNMoTIFWCaPl2KLVgM2/neB//OY2RFag2MZxHiMrRM2WeP6NiXCCwnOevup2TjX13/kjiCPYc0QUaD768QoDKE6BlOcgFrNc32AcljPjv5zLtWj5DwoDLMyDY49evNZ6aSpB/e072lRyk5Ig5AiL5pNaHBRbUWBHs9fUtuHMLr85mOeSkOAaCrKSBekmCo+vYHHEkwEvH3iIUFX0RHZWzS/tudnNJRTAnvy0pwRB2c0oGC4XHYT1U=;CetRbSHMvLawoBiJun/tlw=="
+secured: "VRyyfuUtas/uEt+mKcZ2AfTj7xI0BxblEMNF+589uuPJeaM65qxSXx/t275591XeSOxaDTGh+fCWLeySE0eQgAZ+x0LxyoEr/JtFoqJQXeBirf8uPcxPDGmM4qgjAA36jopCYAwFoqEhLCaCn5rbGr+X7y1V10rjX1g5nsDijD6T4tIiru8k+czusOyhjg9s7pbd1O4dkZMtUQVKQBjxHFCwFNHiJKeRyoGR1Ow59KjHNr1FSw6w10q/wWTdo9dwDe+4rSohKXSxQ8m4moyiGZxJAyg7Q/Asc/l4/mgRCEJyE+eJkGAi5Dfrvwlx9a3K6/suC5OsCqJGpwjVUwYcAR+oek0qxWLL0PApCM75/RBeBOSW9sKRBtXdcwwBxM5R+FcCfZ3th9uuIZ49FyU8H1ALMLrNcwR+MC6ZVTgXtiTlh4W4v+gHNkWMm1WNHW4eR0Lmq7V9AIRISK4hVAL8uw==;YBXkponw87eE/byYi2gtzg=="
 ---
 

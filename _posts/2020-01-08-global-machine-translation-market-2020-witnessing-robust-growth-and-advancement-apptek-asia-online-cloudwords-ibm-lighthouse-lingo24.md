@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-08T01:53:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
 
 related:
+  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
+    excerpt: "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,"
+    publishedDateTime: 2020-01-06T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
     excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
     publishedDateTime: 2020-01-02T07:45:00Z

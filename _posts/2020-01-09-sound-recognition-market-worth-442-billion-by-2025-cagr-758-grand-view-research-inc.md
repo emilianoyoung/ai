@@ -3,7 +3,7 @@ category: news
 title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
 excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive the market growth. Other factors, such as increasing adoption of advanced technologies ..."
 publishedDateTime: 2020-01-09T10:10:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-sound-recognition-market-worth-442-billion-2025-cagr-/2020/01/09/9078820.htm
+sourceUrl: https://www.tmcnet.com/usubmit/2020/01/09/9078820.htm
 type: article
 quality: 13
 heat: -1
@@ -90,6 +90,6 @@ related:
         width: 877
         height: 432
 
-secured: "wfySziIZXODByMm2xRODDYXVoe/TxCnUK2kX5Ujgubdzw1vBsOWgJaNez5hAwUgnwLnL/gbRClgTYEbFRBNDj5P+MBLgzDzXbRAOMW7WCK619ezquH3H3mavjocObqe0c5OX9E3lTG0CfXa7T3UvfQ8EF7Z0R6hPEj4V9EDX2CxCk7forRM7IdNY8lK8ZSJ4ZkEnz15MCX5FBWAALRItTmMPQPMXKNsWpds2nqLNWMV9bmXKOdUCVTGfC3UoIE7fVYT8Av48TKHLL4RiLwlgH2qF1Rcrrr55+kVFxnQFcdQ=;TN2le/ZXDjdoxizGRygdqQ=="
+secured: "pT9B3FrbwkDIM+Hi5vYoGt6IzkaoyvSHUjU5no6A9gzYFjbgql6RyA8nzBazYEl3M+/C0icPVcMZzSPydEOSpqVvoFQDjZ3vzUWLN9VOJfMMMRUSNJrQQZmH+gSwvVRdbrr7gSL7nd7CyGGGeDFwgsTFnm7vBThZmrskgcU0KVS6+/cMfN/bP7ZJlyGBwg+aDIL6Km9+x4ESha73xe7UVqYd7YVGyYza1b0KryfqRqCHNql5KNWkeccvXWkNB5qMGGXam0PSp5T3YL85roNhMAAy0IgyYjUsz+3Vv2G4l/0=;ARAsQpVWVc15/JPGNjr79A=="
 ---
 

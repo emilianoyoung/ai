@@ -8,7 +8,7 @@ ampUrl: https://www.propertycasualty360.com/2020/01/10/unlocking-contract-insigh
 cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/10/unlocking-contract-insights-with-natural-language-processing/?amp=1
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Unlocking contract insights with natural language processing"
 
 related:
+  - title: "How extensive signal processing chains make voice assistants ‘just work’"
+    excerpt: "One of the main appeals of this kind of interface is it ‘just works’ – there’s no user interface to learn, and we can increasingly talk to a gadget in a natural language as if it were a person, and get a useful response. But to achieve this capability, there’s a huge amount of sophisticated processing going on. In this article ..."
+    publishedDateTime: 2020-01-16T17:10:00Z
+    sourceUrl: https://www.embedded.com/how-extensive-signal-processing-chains-make-voice-assistants-just-work/
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 38
+    images:
+      - url: https://www.embedded.com/wp-content/uploads/2020/01/2001cevaf0.jpg?resize=1024,603
+        width: 1024
+        height: 603
   - title: "Not Just Voice: The Natural Language Revolution"
     excerpt: "What’s really at the heart of the movement changing customer interactions is Natural Language Processing (NLP). Considered a kind of AI, it includes, yes, the speech recognition that enables a voice assistant to respond to a talking human, but only if it understands the use of the words that it hears. Being able to interact in a natural way ..."
     publishedDateTime: 2020-01-07T11:06:00Z

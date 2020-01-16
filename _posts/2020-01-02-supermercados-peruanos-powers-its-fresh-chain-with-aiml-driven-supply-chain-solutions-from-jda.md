@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Supermercados Peruanos Powers its Fresh Chain with AI/ML-driven Supply Chain Solutions from JDA"
-excerpt: "Developed on Microsoft Azure, these SaaS-based solutions are driven by AI and ML from Blue Yonder for exacting precision and to make more informed, risk-aware business decisions. “No matter what, inventory out-of-stocks cost lost sales and worse, prevent future sales. With the ever-evolving grocery market and myriad of options for shoppers ..."
+excerpt: "Developed on Microsoft Azure, these SaaS-based solutions are driven by AI and ML from Blue Yonder for exacting precision and to make more informed, risk-aware business decisions. “No matter what, inventory out-of-stocks cost lost sales and worse ..."
 publishedDateTime: 2020-01-02T19:08:00Z
-sourceUrl: https://www.newswiretoday.com/news/172063/Supermercados-Peruanos-Powers-its-Fresh-Chain-with-AI-and-ML-driven-Supply-Chain-Solutions-from-JDA/
+sourceUrl: https://www.newswiretoday.com/news/172063/
 type: article
 quality: 7
 heat: 7
@@ -17,6 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "S6lYdKrrCtUuADgvPnFwmwOPMeBL9/wHWT1pNBYnD51jvMx6etJdEg3VVPco02y2F7djGnuVGjFWHLtU9cnzDgH1NqQ8nNT1Z8To/POdcZ28OhjhoWBKzak7Qj/JetSmYWozha8NM9aYvqtKPMQTsoJLI8/jAO22QYB3TfzAdHIDCPHlq7wF8vkxZRFG25WVlqMvsg43diU6qZCubq3nkux8xIkm/BKeJyk7yq7NCTsFF4BmQWa9QxmK0bkSDR4vsSRN4x4jIBEGcsul2Ai8u2dHysVsPnGjvQ+BOqy1QiE=;qOuwFe6QQa7vd7eP7ebjYA=="
+secured: "Cqmi/KMWrFJGHppFJRnJ0sTNTpziwcrpkqIS0eKJX0ue4tXyikZUsb1SgqHNz0a5s2/zUxLslkg1WTBYpP1lTj6UP3wsJNRok+/eDCtvQy5UozAwF09zggWAAN/jvCEV4tSefrKgTCBt+SAcMhf3o+AOiqgCh0+CQ1owKWe8VN5WxJzf3p35yEuDN+DMpJPuxEJ1BfNNoDQ2QtN8xzKQ0wmjnKC33C7ruM3/urpTMgCD6tN/lHYbeEUbldhOS8opEBV/jmT8FcnldnYDL4cz3qA5174FUR+DtyBCPM64MdA=;ayi3QGeshzk6qQr296ZEbA=="
 ---
 

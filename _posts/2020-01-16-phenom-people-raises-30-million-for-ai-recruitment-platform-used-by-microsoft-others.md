@@ -28,6 +28,6 @@ images:
     height: 1227
     title: "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others"
 
-secured: "2YXgwnteTGSEXszplPuNrU6D0F5rbwhP1mF5/OxsKphR7PMfIrKJJioNZusN4ent31AwEOQFFeNffr0YwVkKpcGj6+Yo5dpQXWbcvh/cDkB2Dzy6zXHMcbSIEBil8HhTSFzKXJMoP91BHFVma4s9jDBP2tB4tcz9KaOgz4klNY4Bb/T6ZPafFsSS7bri2dATWOGQ0ampwFlLA/u25VnNqD1RCRodXkt76vVJyIu5WsQ/DV0t7qTmZPJLa6GnpLjRDnqEM+VXjwE+wKvOQ9RZETOssVG8SiuoH03ouQ+6NU0=;4oOnGI/10a1+dLTHe8A+1A=="
+secured: "BY9Dt+qEMJev2NeNYoH6Td3bqQfQhKGjiau7z0HG/S7pdSWBYJnXBAG2MRlZubQhGhUgFktcx6im9HyE343iCNnpnv/ruODQVmmmqxBQzsGyvxp19rai7fjFf6acT3f3TPVvIt5ZEC8l0dfEkGDPtSowGPtOJpDiQhHSh7JA3L7+cPZFtmUBFNHMij8Ozw+t5Cl9MYvsnEOJ1tU9CuYWB76TnYYVjOdhJsYR4mjZOGotvIZIROItg8AQ5W4ZydG2sUK0HehwAg1uqZPV6Ik2mvH/JPUpT27/j3/XpG31VuBWmX9ukMSiXQ28zsvq7VSKlqD93TU7hyd+DcRWzKU4shFij+Iaq5+CAyN6npbdq8t3aRZzkdEGv43KAEy1dkTJ+KttAYTXBPslL23e7quCDtRGr4TFIkLdTSt4kvBHNXazf3pvKGmdNl0ZK2aXoMmrKAI5O82gBpC/YMh0HSTlqg==;qoRPwAB4FWcgSqXoLfLD6w=="
 ---
 

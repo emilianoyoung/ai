@@ -27,6 +27,6 @@ images:
     height: 545
     title: "Best speech to text app of 2020"
 
-secured: "YtSp/57O/8Xv/kjyBINJgXEgIfueNvaRcIteCjmb9pX7fQ+bPa/7yYPaj7To+QOJpKFzRyXnesMMuDJe/azenIag9xpFuIdLXgsBw9oyQ0Ia5pNCZF2M11+uyq4YmBaf+cEoMYZHRiFDZIbwN+sUHMrnZySGy+9Yapre6+weiZwTQ/VIUHJFDx6vxCBw2HFcw9pwUmR0c5GHDcPD7LGUH3lyMLYgV3upmto37ie6/+L1AwwQ2tihOtbIUm+xTZxKrwaZUOMFBCkvu7M3TtfjlPCpUXGbE/rAEZV224qDDzk=;0O91lM1e5b44Tl++JnSrqA=="
+secured: "qfqrRucr7rlexiVQc7WlU8dFdtBwosuuw0plFS5QqMWe6Lw63kF8HmiwbiKFawTOtNN90LEsvKLb1RkDXevULMbySurhImr4B1j0Y9oD6h0GbhPTNInpDVaCz7ltH94PZEFrtNDollvXLYrWKaP/0crl3nqLsxbEHjMpa4eTr9aZJyIsXL7unZZArlT4ZyucGjH1GDLiFZYtxgGy+lIu+mOzER5ShMakNHX8Jb7cc7G7qDEH5f+1KgK/O0ZM3coFB+SrAJ350sBud1lcZaA8/xQVqUvCTKvfNC5tysJmUV3rh9Qvpx1YkSpvsJ0y1EWUH/RrKCs/DfVDJxnPEJ4MaBTV1q6fxo9LlBy8tsdkKa5Ajck0mAmD85xv6vAHaKSZt7ceWRWKUsXyf742t4WHs+ojbptOHihwq9SFBpMqJJmsZRkW5vpEtbuTHpP9m6YQYqQiJRoXSkEQF7dlBasshQ==;s/YLXMInijLu6sJXL0Ix4g=="
 ---
 

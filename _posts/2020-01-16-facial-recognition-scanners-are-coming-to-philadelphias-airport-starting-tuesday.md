@@ -8,7 +8,7 @@ ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-ai
 cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
         width: 1500
         height: 844
+  - title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
+    excerpt: "As the longest running biometric modality, fingerprint payments will take the lead in this market as standards coalesce around the technology more easily than for facial recognition payments.“Many consumers are now used to making fingerprint-based biometric payments, both for contactless and remote payments,” remarked research author James ..."
+    publishedDateTime: 2020-01-16T17:01:00Z
+    sourceUrl: https://www.vendingmarketwatch.com/technology/mobile-payment-systems/news/21121613/facial-recognition-hardware-to-feature-on-over-800m-mobiles-by-2024-but-software-will-win-out
+    type: article
+    provider:
+      name: VendingMarketWatch
+      domain: vendingmarketwatch.com
+    quality: 27
+    images:
+      - url: https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2020/01/eye_2771174_1920.5e2094c94897f.png?auto=format&fit=max&w=1200
+        width: 1200
+        height: 800
 
 secured: "opHFTCS3ay3kdV0vDoj8HcV8qFwuCN2o025D/6PHTxSxwfs7dIS2G23dKcPpnDcoxj9eTLX7TiaNaoblrY3O9b/cRtIDVs5vKjbnAh5CxEFBe2FlR4Ad4Qs/m0Pfldd4WiKK8kb4qRVJAJ/qN0wrOWG7wYbCOHkUJ7kgPULH5HqZJENiRlYbe8eqrsPTkKxLR8eXquNDQF+pcyIpnazT2BcyvBdThiNP3R8XZ5ThPn1rcTMcsNCTMs0XZV+Wc8VY9Q3hEFW1sWJyVtXahZT2e/pfjtDMShVeU5hD1yZ76jacYZCfDIcDighcLwqHTQ8vUM0JB7INwoT0YSWWrsrqs3PhYT0cqnXu2YpSAFEciQ7/vhw9elJl919FVzNtbuUniAuBT/+oUNU5dLHKpmQbOz/krQFjBiBiW/HiIelQqQXbcKwP5HNVfsPOuVEj6Mx3ZbXf9rm8mwHXzLqKSdBVFQ==;Q2lfRhFXA4NvMW8nG8i9tA=="
 ---
