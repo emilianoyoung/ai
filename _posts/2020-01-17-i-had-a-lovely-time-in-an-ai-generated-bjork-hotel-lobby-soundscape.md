@@ -28,6 +28,6 @@ images:
     height: 567
     title: "I had a lovely time in an AI-generated Björk hotel lobby soundscape"
 
-secured: "cOMp3sWv43+AsU6OEDMcdM0ye1Uz8aU79/ngd/A3DpupvlhVQXjgUNnhu7ixkx8sQryIpqYPKTG+jBMessFcbjW3+RFiE+MvHdYr+UYT0BJNj8NgvVheXgINcL1HdN0Mi55+1EyGmgJbL31gYqUAQbLpj9E3XtrXdbvP7G7djSsCDiRf92Sm+O7JW8L0dKPzUD6nbDAoC6uiPFQn6SF58iTmhFmlo1Dy76Qk8icN8gEVS1spIGS/bLrEZihe51DTCqDoPUmPXrcYbpA5Lxp9THx3Kh6N/ZanYWdiOWFawBo=;y5YRDzqrQmUlAPaB2wgVBw=="
+secured: "m/58objo+HyOe0zvp3kWLHPBgfEJtkPtgn2MuFWrQYuWvS/3Uf8WlU+O6YM2SnooSEIaohTv7yeDNLEYoiuUJLtaSEgDoARoji3SI7k92d0+o3Gb0FyQgaq0ZPsHRNCLWD/qygFTeopNiFoILQi0ZXPrAihMxsbTR0xvTXgr+eBJGg55/itivuqShbTptGzr5rRDrWAPrnuOyuuhhYiEYgYv6ymRFi+dVJn+SujLsjw43BiTekV9u6I1At4XcEamNaAHDCS89F0bZi4tywoSopyAWx/Tx+nmu/uO1hr4dElIDMeqa9TTujCjLCMXuiE/16fAD8yfhO5yCWe48TvbzulqBPXHVEMTJ5EeKHAI7f901ObkAyGgLnpJ+Y4HtBFPshl55jYfNb8R0U81Yn3JOX1hjW2LOoL3vdsJbiWbNPS5eeX9mK2CPQWLaZ8qDbmoIpdWAF/micH0ABEcMd0tpA==;Oqaw7f4JdRuFYUaxAl7MSg=="
 ---
 

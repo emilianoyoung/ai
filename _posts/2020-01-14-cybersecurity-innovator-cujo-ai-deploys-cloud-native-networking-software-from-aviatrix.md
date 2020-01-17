@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Cybersecurity Innovator CUJO AI Deploys Cloud-Native Networking Software from Aviatrix"
-excerpt: "To ensure business agility, CUJO AI’s infrastructure is 100 percent in the cloud, capitalizing on Amazon Web Service, Google Cloud Platform and Microsoft Azure. As such, the company needed cloud-native networking software that would embrace and extend the native constructs of public clouds to provide the simplicity and automation of the cloud ..."
+excerpt: "SANTA CLARA, Calif., Jan. 14, 2020 (GLOBE NEWSWIRE) -- Aviatrix, the leading provider of cloud-native networking software for the multi-cloud enterprise, today announced that CUJO AI is deploying Aviatrix's software across its worldwide cloud network."
 publishedDateTime: 2020-01-14T13:02:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/cybersecurity-innovator-cujo-ai-deploys-cloud-native-networking-software-from-aviatrix-1028816102
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15119350/cybersecurity-innovator-cujo-ai-deploys-cloud-native-networking-software-from-aviatrix
+ampUrl: https://amp.benzinga.com/amp/content/15119350
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15119350
 type: article
-quality: 41
-heat: 41
+quality: 31
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -36,6 +34,6 @@ related:
         width: 600
         height: 600
 
-secured: "N4/bCdIOxighuMM/Cx6yi7nRsaw5GzF99l1l0KB0bTzxUvWchTcbdtybmesjxOdKWyU89fGjP2SnvD9wgyY+BBcKubSm5LHdsucbESSZinEwoAOn2H+Q5fsK5cGBuRa8L/Omv2ZuCeFTGrqAuOLxfH/MAGqGY7OJNSReWTmcaFJVNWBUnQy7BnF6zxF3JeuuYJPvobvSs7JuiHN4KWtiBrS0AdG7LegtsPKN4jsEAY6P0N/lVKl5LiE4SqKJn2TYqI8rqX+dzjIUeDFMypxCSb8g+vesSMfbYsbTDt0Dc+s=;cm1n1bbyxUBnGorEWj/DjQ=="
+secured: "LzUbJjicGcEtqLdozZdmxkUGmUR96neVu2UAVy+LxuDLV9f7nJ62A9erUOGDUasW/LA4DGulyPbfQ8t5oB3sb8tp+cq/NCf2gs2hd+Ar9igXLNwV6lNSk9NcI6qiGbhLwpjnh9Vu9uU3XUlvfYG2OVK//dqV3V9KIZjB8By+GnAU7A2+fNVI9p2+U3AgAhtovQpy5aCZ9yn07z6jQl/GozLkHFxZ10V7sQipngOkXc/iW/FCDlkA0lJnXMPA8YHsKH+iRdddiJEF4THKu/yW5wrSMDxWRQ6J22VdKbWTGIU=;5UQMa+p6EwSVdsrJboQj0Q=="
 ---
 

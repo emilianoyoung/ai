@@ -62,6 +62,19 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
+  - title: "Exclusive: Mojo Vision’s AR contact lenses"
+    excerpt: "Before leaving Sun in 2001, Deering had built a reputation as an expert in artificial intelligence, computer vision, 3D graphics, and virtual reality. And he too had poor vision. After Sun, Deering spent a decade working out all the problems of focusing a micro-display—either within a contact lens or implanted in the eye—at the retina."
+    publishedDateTime: 2020-01-16T11:00:00Z
+    sourceUrl: https://www.fastcompany.com/90441928/the-making-of-mojo-ar-contact-lenses-that-give-your-eyes-superpowers?partner=rss
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 24
+    images:
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-MojoWebHeroShotofLens.jpg
+        width: 1280
+        height: 720
 
 secured: "2jPDC7CdjeuTtmxI9BKuDclHqrsoTCr6wRCxAMmPRUfoRLWkmlpx7cOAICBMBAYs20obEAcX5drf5em6fHCJCxHdbld8NfDv0kdj3bc/ujWk5XBs29TGwKvBC6P2fwp740XyZVWI5t42KGun9rk+ehDTzl3YCvZzPuFz7/sfjMvYjXVSKo2M6qaT/qjCkUi18JD/hpRWD7thg0KG6QmeLQf+p6nPUjQZK9w+7jlYBsdCrG9nbE0isNB53nMwU84Emts4qixGkFge3XDzTJlnTIKp/zqG/KwYkKy2Isg2ShM=;w2D0saRwzlyzINtd+OPhdg=="
 ---

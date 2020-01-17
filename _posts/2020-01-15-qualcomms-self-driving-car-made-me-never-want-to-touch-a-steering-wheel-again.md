@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
 type: article
 quality: 85
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -185,7 +185,16 @@ related:
       - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
         width: 480
         height: 360
+  - title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-17T14:36:00Z
+    sourceUrl: https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
-secured: "f0BPh7yCaFWN/+EPvCRApy8pDSw2wD0h7b5P0zGHBewouUOoGcp8jtTHZD/Kku5ypfn78BH/LJ34Mw39Yu0d1KcykR2lHRwU3k1OIiwBNC6yl6eJTowu8/8UI32Os1BkXJfGqz5kzIPD/dKsXacmshxFLVqGsGoUlQJz4912v2zNohjbN/dVd3V8ADOmb/4qFUBlh0CnoVVEEl/R+c9iicKNzMJqX38IHCQgqGdvPQfW/Q8zDXmrSHsKNwH+IJkhRKzRaMxP5zxN6REpeqQ5fScOhHCL1v1YtEqDUCylwPCjs00R7HXfxbOoo344tycH+X1rB2g3NEmML167PiCRkFndau30gZaAqicUgiWQGyKRBwgddMbMiEJgjMtffsR9ybf43GQEqOD/4eHVSttJhnPCUbOOYumFzqsktZ7l4rQCkOVtMFvvyiMOBopO1MGHzeY8ZF+PMt8F7LGluvVOBg==;O1/0X/MOrbAOnYaqi1v3BQ=="
+secured: "/zv4SwG1Olo8YoW+oshi2DqRDne5AO8KdPTlO+fMOpxRojHvIhRLDhkrfJ57roBbXvE3f/UcJF98Sk2gK91VyWUdix1Kw/2H83P3h2FT5v/Fns6vg4WjBfNUZ6gO1BrriXngBCYF8Q7lwGWsWLSwQXo6jmyK/TNp5dWMn5V7v87uT9q3nThynPb8giQ5a+SqEaB/dOgaleSN8bgJTkXUkkEF2Y0xzmN7BfZUlxxhz/Bq0o0KNrwZS3i9DY+l05aADX28bQcxFfwSHljd52l/CM6EAslP/e8YRxytOXyJXrjQmBoCtbDm7XsT9S7wqRTUTwPnPxHVfN6dk57ZsmuXIJgKzq+B8jtvcoCdx7wmE2zGesa28bNzGoN7ZqF+ahFEh6rF26vnZXEGCzqQdzCNWhEi81SIOMJY9lXpijik/VzZoNyr7DQm8k+uSkbM9NC/sdvU0cqq0LHL+C+pq1kJTQ==;Nv0xBDrqBlQ1zNyDAUE5PA=="
 ---
 

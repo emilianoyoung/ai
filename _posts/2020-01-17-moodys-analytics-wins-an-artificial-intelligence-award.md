@@ -1,23 +1,21 @@
 ---
 category: news
-title: "Moody's Analytics Wins an Artificial Intelligence Award"
-excerpt: "Moody's Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution,"
-publishedDateTime: 2020-01-17T12:00:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15141703/moodys-analytics-wins-an-artificial-intelligence-award
-ampUrl: https://amp.benzinga.com/amp/content/15141703
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15141703
+title: "Moody’s Analytics Wins an Artificial Intelligence Award"
+excerpt: "Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution, which helps institutions automate the spreading of financial statements. This press release features multimedia. View the full ..."
+publishedDateTime: 2020-01-17T14:47:00Z
+sourceUrl: https://www.oaoa.com/news/business/article_2199b57c-047b-5a26-ab1d-0eb87353549b.html
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
 
-secured: "pLoNa/FSLmkkeOXPcn53Ux6/2fp5z8UMZm+H+2oT82nRGa07X7VQi9poyBWsOAUbwiM5Kqdx4pf0jely/1/JFrINj2hkMXH9+xyXesruGUz11kM9lOJ2XzROffm6kBwcvxBaXWeeP91onAL6GBTjKO66Y54EyY5Gtywaz+GqcdW/NJ6i6Mu+Di2mQZQuVNGzERpWdCJL7fIGvlxvGtoEKn37kZwMkzmCHXtK/MnDsr0m44gQPVZGsaxQgD8QkLjErY9YiLPrkGs5QUQkG3A5V4jBn8hFXSkPe/rWabh1pg4=;p8+gIXNdWoqVIo5HKNKn6A=="
+secured: "sXYe3ac34dZlTSy+H2Yazzo31R19hBs5UuQhvLZIIUtGDfq0d9aDgNWwbwPbsDo22h/onBWO+BYO5XaulSeuPi0j1cbR6HZ4nrWIfEpk+bnWbC151tAVLpKH+7CZSxcgnSHnYuhZ5jDzp1/qMDSC2iQRIWzq0YQe46wZ+e5vXIk6tucvl2g8GldGWaad5khCwxBLdc0XBIEqKz4SnO87K6YK5RwFXMDQ1MNvPKuCsehwQCkIS0Dqhk7Fn0bnbP5GKes7YUacbLkkiCYrv4TUwpCwzJq+S30alxHkw++gt1I=;1YIQzaS4+u+HH70HtoWk9g=="
 ---
 

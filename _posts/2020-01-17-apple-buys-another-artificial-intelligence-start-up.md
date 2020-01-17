@@ -26,6 +26,6 @@ images:
     height: 2000
     title: "Apple Buys Another Artificial Intelligence Start-Up"
 
-secured: "KtOXU2oyZMsiOFeP8WdlGWn/Llk8qVqzLJ1pG/y8xeip84ZBjuZH1f8tCj16DuqaX/Oy4sjirkhVmfAwTVL79NusmG+vhFWjVj72gLsxIaEk+fxQ3W9Rkyfrnltav+yHXmOv0Thy/K6koKy6l9sYilwCMD+aR5mLcTbDO/5J3B0YEZr2qoGiVteTqzHiHk+1dR3CGkDIpzRgyCLeI2jf1u7shAHbj/pHQMDlco84/+Az38o91Jup0yA4p5tS0D2F8SWXX7MMPAVHWZ/v5MQm/oU2kSlhnHYpRJNawfK/GQE=;g86EZ6BJJ9eImtZqDFNSdQ=="
+secured: "sioBIjttlu8H0ewN+HGfQXuO9kY7dKELVIEY5C8YXZNPciGdG8mvbHhIhVREA4FCij2+raN65z74P/SqrkQZ3/vuFNBoJX2MaRGLHQJMat4vKvq5E6bjkUvu576gEAyHmhV/h6sfQK05pMwD4WXiLML+bQxRNpfgurwbabKyIn732/tAtNainuhiYN28WR+4R4UzEYYkypjWGzpFqv7U5eHccCnU7MyLE6afc1HSmNoiG5lUP9EGigv+cuTsadASnZFdSthp4ePc1x5pq4dDOGvkPEdGVoXFQRCwVEpfRnh/pUpI81cMG1WOIDGcYxbb0yDHfTaW9BjswYsiGejpBHynulfQcLz0n1Q9rkbmLO8Y61wLK06K+P3tcNVE7oeH1cShcXe+OnYOfY92dwOllBqiCHyMdX0xqZXMwaO87RQgwPoDmpholz8BY7TGlYKmlcRegVx6kEXL3B1Wq/Cz+Q==;QR+X8bKKoOKoOxLCqoeqJw=="
 ---
 

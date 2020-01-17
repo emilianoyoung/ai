@@ -55,7 +55,7 @@ related:
     provider:
       name: Morning Call PA
       domain: mcall.com
-    quality: 54
+    quality: 154
     images:
       - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
         width: 1200

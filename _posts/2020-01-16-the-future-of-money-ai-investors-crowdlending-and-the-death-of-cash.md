@@ -26,19 +26,32 @@ images:
     title: "The Future of Money: AI Investors, Crowdlending, and the Death of Cash"
 
 related:
-  - title: "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts"
-    excerpt: "Just as technology has transformed many other industries, it’s impacting the legal sector as well. Rather than just take over tasks that have traditionally been done by lawyers, artificial intelligence is expected to completely transform the industry and make online courts ubiquitous."
-    publishedDateTime: 2020-01-17T06:01:00Z
-    sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/
-    ampUrl: https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/
+  - title: "The defining moments of IBM Watson last decade"
+    excerpt: "Unveiled to the world just under a decade ago, today, IBM Watson is being used by millions of people in thousands of different ways to unlock the value of data in new and profound ways. Across countless industries, Watson is helping businesses around the world harness their data, increase productivity,"
+    publishedDateTime: 2020-01-16T19:18:53Z
+    sourceUrl: https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: IBM
+      domain: ibm.com
+    quality: 117
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e214479735f8c00079a0916%2F0x0.jpg
+      - url: https://www.ibm.com/blogs/watson/wp-content/uploads/2020/01/Year-In-Review_Image-Header_1.16.2020-990x498.jpg
+        width: 990
+        height: 498
+  - title: "TSB hands over management of its banking systems to IBM"
+    excerpt: "In the wake of its disastrous IT migration in 2018, which left millions of customers without access to banking services for days, UK bank TSB is making a raft of moves to sure up its IT capability, including an expanded partnership with the vendor IBM. Announced yesterday ... enabled technology like artificial intelligence to give customers ..."
+    publishedDateTime: 2020-01-16T09:14:00Z
+    sourceUrl: https://www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.html
+    ampUrl: https://www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3514331/tsb-hands-over-management-of-its-banking-systems-to-ibm.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
+    images:
+      - url: https://images.idgesg.net/images/article/2018/03/ibm_mwc_2018-100752721-large.jpg
         width: 1200
         height: 800
 

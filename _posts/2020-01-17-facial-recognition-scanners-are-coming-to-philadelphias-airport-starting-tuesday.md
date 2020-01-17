@@ -7,7 +7,7 @@ sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-
 ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp
 cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp
 type: article
-quality: 54
+quality: 154
 heat: -1
 published: false
 
@@ -120,6 +120,6 @@ related:
         width: 608
         height: 342
 
-secured: "CaU3C9BQC2UREuZTIQzG4l1Smv+HJnKzpsm5QxqBP5U2IUIwhjVpfiewZ7o70kmTaSa9ThEU7T1KmDzeAC0U68maMIy2HYiP6t6JYvxApB5BuZW+dm7oJu0N5gwTDowCR/4XeEs7Bk17Ui+UbCJSFrNkAnBby/DOdclq0PA+dRP7Y7jA7eWzD/liuDeyIyaOTyAvatq1JV+VCKdSlqfKwb55A5nGw5XKsqWjuv1sh9roMm3hCQ3BysCNgg2qkAczQpyTWhBx5xiWPLPRysRfpWCHZjHHYGxf8B0+gIMJJWJjTGKA+Gv6NDcHwhRvnnhrUYHWwtSNfR41W0YY4qyJ+OOGDV/Mp+SMLcpI0EUoi6rPiCQ20OU51JmURI5LZ5JteHRpGKaLaM1NacPef9A4CUduPSN0oYu6oa6eKUORqVLq+r/x7v00NJ8KBJEl7J+K0unTAGMMh5gSf+y+fQhLsQ==;LJNmVxRlF0KayV06v/53EQ=="
+secured: "uCp4OctWIcS4ShF9Rg03GGc3+49Iv/uesN+sFaYQTYE9uD0gK3HpAX6l4eCcr6Hft6LpvNEzDk/mq1KcNu/aOVTnwnaMm5S6FCiJeC17nTozCiFwgAIIb4i4hxD+vBX0jWz05dNrZ3CN/3xAl0j0UnlGQxuT1HDsd7equdokwFWhrBTHAIOK986a7k686ps0Un5Me26tVQAFZnPaw52iEy3JsTAPnDeaQAA7s2FeIoROftanWZbvjfVQWygBtXhg8R2WIrCTlS6q0JkUUJdsIiT1lUfso/Y9QspyTqKur9jT3wBIAJogcBQ3jCcGlEBSV3HuJzBhj0Y3Usdmq7ZSWVIXVt82FiSc2CwJDec9c24PX6oPKX3+FbzhubddVJeQskHnO+DwPtjNyRxySOyghagzmpSduqqG+/c2aj213U9t6NB+uMFChNzD6ry+rLD6xG468DnGofLR3UyXBY8OPURRcRDYJhLBbzFukiJJEKQ=;ghFBlvP/5cD6biABbr9khg=="
 ---
 

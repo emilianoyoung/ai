@@ -181,6 +181,15 @@ related:
       - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
         width: 480
         height: 360
+  - title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-17T14:36:00Z
+    sourceUrl: https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "44XKhrCFQlZnM4mUnWQMM+cDzkAfJiXowo6z5M6GwX35BTbITOH5VttXXcOGi40WyJIiHxJVy1pNt4K+eULqpYz840qZ3s6iNh+iEJhTFMQyzlHTD7u09tSG5b986h9SYFRrzCdn334IOgb6FdSDrQX567VrsnHEVsYRVSDSvbRpe7u5wAWGcAtyI5215pgKRjmyyO+pGwDj8CU+BQLSk5+rlRp+/yQ8EKRqkMFVal2vdmhTDS4Ou3fm9iqiiHSagxQ8wQ8MiiBEtmcTsQe9bgVAkkBZ8yv0c7l2T6Nhx38=;YzModvMRnjT/WIddC++yLg=="
 ---
