@@ -25,6 +25,6 @@ images:
     height: 448
     title: "IBM to Google: Istio, Knative, TensorFlow should be under 'open governance'"
 
-secured: "daZww8CGSuYpbPHDtalwPEVUUWgIq7VntvtLNQ29/lN2DEXJagLYNVIORNcnXzta/4qLDK4t4Ielco5CBF3BxUVxtcwnehPdLX0UYOLebrxEipUrRoFuE8Ab2rpTF7riPoSupmVDEayuAmNIwTaoWSi6A6LMraR7jybt2bSbRbsnFgNc6PFcfr0lCuRd8Zzkj+yVnEp94wY9vyuILeGIUoWBaXcWM/+0YvG7LMABMPdRpVpc1gX+B26lGScnzaepClX1rsEDYXnmHN2IR2rmjpnJ33OJ3Uyq/tkHKkOuq9k=;x8+TIsTR/+MNpGr/CM+o9A=="
+secured: "5Orhde2m2pK3kQLt+63I1FSEa0VPE5ggKIP05nztAPMU7a13pNqgMrUgRXHuHlOSNtAv8zG6aJYkv8Hnqg6UQ4TRhK9sssh0LG06M0Mi2KwuieBBBiWv+joZsmAAKVvZ66HiAK01Ng0KQ/TZCXyRHd7xtjRtMqLWJvbvFKQAWrLiL3JwkURnCVr5iM6p34zTeQmrvyzcldiKnV7gG3Fze+A8vqA3g/QXyjMKcajiMjrF7O8mOM1G/+ruH+hnjLftKBozGsrfW0KzMx28cyRQGg9H1g8KxsZqrNx4zPi5ZXA=;dqlEN/tQaB6sL5nEU11jyQ=="
 ---
 

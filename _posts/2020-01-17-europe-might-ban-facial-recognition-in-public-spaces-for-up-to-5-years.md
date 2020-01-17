@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Voice Recognition technology and its growing influence"
-excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-publishedDateTime: 2020-01-11T11:43:00Z
-sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
+title: "Europe might ban facial recognition in public spaces for up to 5 years"
+excerpt: "Facial recognition technology may soon be banned in the public spaces of the European Union. The European Commission is considering a temporary ban, lasting 3-5 years, on such technology in public spaces, for private and public organizations alike. This is according to a draft white paper on artificial intelligence, obtained by Euractiv and ..."
+publishedDateTime: 2020-01-17T14:41:00Z
+sourceUrl: https://mashable.com/article/eu-facial-recognition-ban/
+ampUrl: https://mashable.com/article/eu-facial-recognition-ban.amp
+cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/eu-facial-recognition-ban.amp
 type: article
-quality: 44
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: TWCN Tech News
-  domain: thewindowsclub.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI
-  - Natural Language Processing
+  - Computer Vision
 
 images:
-  - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
-    width: 600
-    height: 271
-    title: "Voice Recognition technology and its growing influence"
+  - url: https://mondrian.mashable.com/2020%252F01%252F17%252F7e%252Faa4856d86c7c402887ddee86110e215e.c80a4.jpg%252F1200x630.jpg?signature=axZn3vvlYSj68lH8DIH9qHic0mA=
+    width: 1200
+    height: 630
+    title: "Europe might ban facial recognition in public spaces for up to 5 years"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
@@ -39,21 +39,6 @@ related:
     quality: 89
     images:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
-  - title: "Europe might ban facial recognition in public spaces for up to 5 years"
-    excerpt: "Facial recognition technology may soon be banned in the public spaces of the European Union. The European Commission is considering a temporary ban, lasting 3-5 years, on such technology in public spaces, for private and public organizations alike. This is according to a draft white paper on artificial intelligence, obtained by Euractiv and ..."
-    publishedDateTime: 2020-01-17T14:41:00Z
-    sourceUrl: https://mashable.com/article/eu-facial-recognition-ban/
-    ampUrl: https://mashable.com/article/eu-facial-recognition-ban.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/eu-facial-recognition-ban.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F17%252F7e%252Faa4856d86c7c402887ddee86110e215e.c80a4.jpg%252F1200x630.jpg?signature=axZn3vvlYSj68lH8DIH9qHic0mA=
         width: 1200
         height: 630
   - title: "Companies Seek Clarity Over Facial Recognition as European Regulators Increase Scrutiny"
@@ -129,6 +114,21 @@ related:
       - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
         width: 1200
         height: 630
+  - title: "Voice Recognition technology and its growing influence"
+    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
+    publishedDateTime: 2020-01-11T11:43:00Z
+    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
+    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
+    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
+    images:
+      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
+        width: 600
+        height: 271
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z
@@ -171,6 +171,6 @@ related:
         width: 768
         height: 432
 
-secured: "Kap7IhlWnGR7U4yi7bIoYYLqCAxbJy26JtVcYoJpfTTU66ey8OdcVzDhwNRNWIEzRtoyu34t90wSKRC9PrZSwcjjkt1cd8BoYo/k96EhpuxG1F6R7cAMMZEbjQc5ddDt8rtiqRea9pKgGpB/cC/AUcYAjXDsyDEpfUq1tvpN3WZGctVYONTQm1QQeZqFuj6q8l6gB03YqaQoUGhgREwXAB+AXXZ7TcTHR0Fs+MODJgWcoa30g91eMraMgN/WXQeugd4Wf2Nbe2zN+8oQLxSi2UEEGqWmOgcSu4lLnJiS7Xg13Wpg6ufXbKN/CEY5EO0L6qWeVtNIL7WeNVYFqq+hz9Q/2h3wgpD4YwSdYZp7xLcKF+Ue2ksZHSA8beDqYXoWDdCaX2WgMBVIadfzirV3KbXsx2nOpEWM0ipFny15ItSgVtBLj8Pxt82qRXKA3oGluqyRaEd9vK92FwfIYTu/VA==;YlA8Ktjs+l8PFeG71x7kZg=="
+secured: "9QGRPnRNkaOQVjCnaM6lmqlE02Ed/iz68pTaFzMGE+VTi8GmrvgE14y2cdC2CYn/34nnoY6rpEijpJOlua3cingvvVdkQgqwCFF823epoqYAz3LLYMYCKRESLrk1fT4AZfX7pG47piwR0R8Oc2qwVaXsWic0STbteZRWhU7Y8kyH2BVjdhQ2WGm0CgUoaKTyXiynojvCHXv1DMHfdLTpdVrUNFWTKGE2+iiRXNvbAzyP2NNvTro9HRRh9gEw9pVVy6Hkp5MJYXfWKFGNetl5qkYxUlUqv8JWLIRSOr3etjc=;1DT01Om/pQ0h/KGdGixOzQ=="
 ---
 

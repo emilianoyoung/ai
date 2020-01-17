@@ -2,22 +2,18 @@
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
 excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T12:08:00Z
-sourceUrl: https://www.bbc.com/news/technology-51148501
-ampUrl: https://www.bbc.com/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
+publishedDateTime: 2020-01-17T13:46:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51148501
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -201,20 +197,20 @@ related:
         width: 1029
         height: 630
   - title: "UK police use of facial recognition tests public's tolerance"
-    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
-    publishedDateTime: 2020-01-16T20:55:00Z
-    sourceUrl: https://www.sfgate.com/business/technology/article/UK-police-use-of-facial-recognition-tests-14979724.php
-    ampUrl: https://www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
-    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
+    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s ..."
+    publishedDateTime: 2020-01-16T10:16:00Z
+    sourceUrl: https://abcnews.go.com/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    ampUrl: https://abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: ABC
+      domain: go.com
     quality: 59
     images:
-      - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
-        width: 375
-        height: 211
+      - url: https://s.abcnews.com/images/Technology/WireAP_dd085e0d41e5454f92345ab8045bbbcd_16x9_992.jpg
+        width: 992
+        height: 558
   - title: "US lawmakers concerned by accuracy of facial recognition"
     excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
     publishedDateTime: 2020-01-16T04:43:00Z
@@ -554,6 +550,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "dFy0AwPsapc6darjpqTEzql95XBlOwnqnBZEPnaYOFn9vVjh004xlZnKXh1xqmy2bJWM8ewDLeJsQsI/NYOybrUZOi6F8lzZzsLIkdk3o1WPRPr6q2B6IsBPBpQ+kFlwuwh0Ccq5/8rTJRHw3xhCqcS5J0+EzoEtj5fnHBC5ooAr8zrbDjZ9FCK8kTtrRGm7RwK7/WhjOA3jgDrvDrIHPNyfq1JfNrZckX4BX1eO+MvMJQzS2E1sHQhwplo3T+C2C38lQs5n8FU0hF0V03Q3+809fXx3RvE0/gJTOfSrhwx/Mi5+fk2eixNhKEVozwQXaOF+7PvBtAN+LTjUh5S+pRDFeOHtUxfBCy2KURhOGcT0Z/MN3zf56D8QmXrzigrK8Dbo4wmbTchOmt51iWxJc8n6hUcW/VDUBETdlAFRYIcEleELxXh2y8tsMOPeAWCbS0QWA+/vVGn4bFHGY1AoPw==;HO5JmRSRjPTWWwdhMYb++w=="
+secured: "Xcf2en7ost0P8tRwQLLKjOQ4bKKHexYcIO6gAyZzDLTy4fz1zjagjAmVbm8dFoYWIceutSLPWn7EqsHxCLEx4Vb7mRObCGNkmmVtfzcGNFFRd7J0nHgQQsk6i/M19fNrF2zJYuXSwxn15k1ZmNqCRfwVXCaULtax/U3Z3y0jDhBtGA9IeClFAZcGN7UuQrK7NptO4BP0Weth3k0ig4T2oos4n4IdWcf10uWb1tF63bPWNJhL5I20bmGliq2wubDE0WUGj5/fAlNX2c+v0kkdOt4CsY+m+aQBYmPh+D8JaQo=;AT/PyYZ9XpYfn+LRJzwANw=="
 ---
 

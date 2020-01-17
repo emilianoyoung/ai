@@ -41,6 +41,21 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
+  - title: "Europe might ban facial recognition in public spaces for up to 5 years"
+    excerpt: "Facial recognition technology may soon be banned in the public spaces of the European Union. The European Commission is considering a temporary ban, lasting 3-5 years, on such technology in public spaces, for private and public organizations alike. This is according to a draft white paper on artificial intelligence, obtained by Euractiv and ..."
+    publishedDateTime: 2020-01-17T14:41:00Z
+    sourceUrl: https://mashable.com/article/eu-facial-recognition-ban/
+    ampUrl: https://mashable.com/article/eu-facial-recognition-ban.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/eu-facial-recognition-ban.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F17%252F7e%252Faa4856d86c7c402887ddee86110e215e.c80a4.jpg%252F1200x630.jpg?signature=axZn3vvlYSj68lH8DIH9qHic0mA=
+        width: 1200
+        height: 630
   - title: "Companies Seek Clarity Over Facial Recognition as European Regulators Increase Scrutiny"
     excerpt: "European Union privacy regulators are scrutinizing how companies use facial recognition technology, which early adopters already have deployed in a number of situations such as a retail shop and a casino."
     publishedDateTime: 2020-01-15T15:30:00Z

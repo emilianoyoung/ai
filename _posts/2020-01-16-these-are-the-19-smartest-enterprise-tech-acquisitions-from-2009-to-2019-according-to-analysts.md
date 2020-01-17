@@ -56,6 +56,15 @@ related:
       - url: https://mma.prnewswire.com/media/1076769/Local_Motors_Olli.jpg?p=publish&w=950
         width: 949
         height: 712
+  - title: "Congress Needs to Hit the Accelerator on Self-Driving Regulation"
+    excerpt: "America’s self-driving future promises a multitude of benefits. Most importantly, autonomous vehicles are the key to safer roadways by reducing traffic-related injuries and deaths. Human error causes up to 93 percent of traffic accidents. Autonomous vehicles, on the other hand, won’t drive while distracted, tired, texting, or inebriated ..."
+    publishedDateTime: 2020-01-13T21:01:00Z
+    sourceUrl: https://www.industryweek.com/the-economy/article/21120385/congress-needs-to-hit-the-accelerator-on-selfdriving-regulation
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 4
 
 secured: "nxDgrYaL0p1b1NiAJG+Flfd7UuK/T91/yyNTRJK0AsXXXRcjY4X233T2joyWY3Gg8pgEfWLc5yqRIstWnVDdkZ4Dm/OGTooqiPCnRImTWV7U/SZwUXoL4C5mo+nbIpVKLDzUxr88YHQaDUZCvHEio3gmrIhfyQO2CFGBGsmd5/RAl44HFMY1+czSB1Ws1SsioKxFG/BEmjrYq0KniO5BSEbAEzM3C2hpdrMsgTDzGJWlPp+/LUNVtYmFtOUi73Hq2a7cO662G7SIGgJ0RkJcTHkV6OMTJlhfjQOOvaxx8RgUUYeH5k48vs6jYZqEGaHoyUz3ZChITc+kC0ATENnYIMkHWBbfUZnb2JFTnnLgNIn2+E3clN/izOgXwO4gD1JffvU7uYbqmz12LiITyYwCNsNjFS+tsiw8iwfd14M+4ojgRd0yicgO9J+qG4MRi1UCTvgnCB2VeG8H1B7YLfQHyA==;8/F7sSxjtCQwaoejebdZfw=="
 ---
