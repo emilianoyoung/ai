@@ -54,6 +54,21 @@ related:
       - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
         width: 1200
         height: 630
+  - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
+    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
+    publishedDateTime: 2020-01-17T12:08:00Z
+    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html
+    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 54
+    images:
+      - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
+        width: 1200
+        height: 800
   - title: "Software Detects Backdoor Attacks on Facial Recognition"
     excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
     publishedDateTime: 2020-01-16T15:04:00Z

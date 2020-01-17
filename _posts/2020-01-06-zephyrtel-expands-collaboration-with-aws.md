@@ -48,19 +48,6 @@ related:
       - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
         width: 800
         height: 400
-  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
-    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
-    publishedDateTime: 2020-01-08T05:29:00Z
-    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 39
-    images:
-      - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
-        width: 599
-        height: 450
 
 secured: "wVwzQrDW8RhzVSdAQPzAa3UCXlJjk/5IW5CblP09TfUDqdHSwbll9wqSZyWso8w9XfByUQFxj51O79e7vZ5r4Sr4WheyGw53EmxQ1arErapiGV63ALhutosY/OSxGP/pLYbYCzIVoenBLtOdT1GghkM0dTLx61SUl4xgdBlcgeJ/Jmncz73CLBVQZrSx3Y0bcwKcW2L90DQzEIucARx/5owC+eFZ4fcwZkugcVBXqkiz/inrfwtLYMYyIulawZpSjhHgeWQfrhBFpIpRmaY07gMqDsW7TvjAAjusLppM5bU=;WPY0JSbsbVG4WpgsPYknog=="
 ---

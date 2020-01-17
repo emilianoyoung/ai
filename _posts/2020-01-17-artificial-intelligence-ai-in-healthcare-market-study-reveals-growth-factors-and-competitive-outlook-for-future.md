@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T08:30:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17
 type: article
 quality: 78
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2024"
+    excerpt: "Global Artificial Intelligence (AI) in Automotive Market This report helps to analyze competitive developments such as joint ventures, strategic alliances, mergers and acquisitions, new product developments,"
+    publishedDateTime: 2020-01-17T11:04:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-2020-by-company-regions-type-and-application-forecast-to-2024-2020-01-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

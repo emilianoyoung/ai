@@ -2,20 +2,26 @@
 category: news
 title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
 excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
-publishedDateTime: 2020-01-17T05:41:00Z
-sourceUrl: https://www.techworld.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/
+publishedDateTime: 2020-01-17T05:32:00Z
+sourceUrl: https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Australian Techworld
-  domain: techworld.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+    width: 600
+    height: 246
+    title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
 
 related:
   - title: "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026"
@@ -136,6 +142,6 @@ related:
         width: 1200
         height: 630
 
-secured: "F0cEIOcjlZUgvZoSDWFVhU1wPMvvnPEvRD0/5TkycBrX/PLdDEYnnvW2rOSEQMc+k1EH95rO40yrPWw2N2W1ccQKouDb9seIDWlToFjwbeVU6WB8NNEFvp4HGo1melxNLiwKijb76MZWvCB4ktQ4nFyoDZIiTQiuH5Iv/WIPkTFzudxxOJrupUNRZOI6Rg8mDVYAOU3QkJ22+XJG3gxRf/gh2Cmjli70ZKZMAAKCGJU3mt7H5ViSMyHKCYsRAEoLhOtgphFKDsu0/oGHIP5RlQCLRIiekHHjhJrPcQigH2o=;5TeTTquZkIX+/bMp8kt3tw=="
+secured: "w0lbmY+TfEJ2HB4pwucepCS8dCn9Fv3IQS/J3fnSJ+EP0huRx3U7/N4DfeczdwDXZipqeTGA/BCbKKXl/6AX6MO0eREPkIwHib0Ko692vfA0a70OdUqjDBHYmS872quA3ai/huQR5i69dt6zJyZNRtAlRUwBfnx83/sbfgx5g52QTHuydRqrPMYrrJkAObbp+kJi0N7tAZJQeHTcjHaXLYHm/H+iCO2qO/wQ+2EdMC4Ho0j+7oW6CK3JSRgsEdbo8dbtTlsjPPKG96+F/wpGcJBONdQTxstUqiCnX8dpyMU=;Ckz786aiv/y17avGQET6Hw=="
 ---
 

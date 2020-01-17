@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-dr
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
         width: 800
         height: 400
-  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
-    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
-    publishedDateTime: 2020-01-08T05:29:00Z
-    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 39
-    images:
-      - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
-        width: 599
-        height: 450
   - title: "ZephyrTel expands collaboration with AWS"
     excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
     publishedDateTime: 2020-01-06T08:31:00Z

@@ -63,6 +63,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) in Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2024"
+    excerpt: "Global Artificial Intelligence (AI) in Automotive Market This report helps to analyze competitive developments such as joint ventures, strategic alliances, mergers and acquisitions, new product developments,"
+    publishedDateTime: 2020-01-17T11:04:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-2020-by-company-regions-type-and-application-forecast-to-2024-2020-01-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "20 People to Know in Health Care: Tina Steltenpohl"
     excerpt: "I believe the health care industry is changing quickly as we learn to incorporate the use of artificial intelligence and other technologies to better serve our patient populations. We are already seeing movement to more outpatient procedures and treatments ..."
     publishedDateTime: 2020-01-17T10:57:00Z

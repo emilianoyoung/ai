@@ -82,6 +82,21 @@ related:
       - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
         width: 1200
         height: 960
+  - title: "EU eyes temporary ban on facial recognition in public places"
+    excerpt: "Draft white paper suggest prohibition lasting three to five years is being considered"
+    publishedDateTime: 2020-01-17T12:14:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
+        width: 605
+        height: 363
   - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
     excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
     publishedDateTime: 2020-01-16T01:04:00Z
@@ -112,6 +127,21 @@ related:
       - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
         width: 600
         height: 271
+  - title: "Russia’s Yandex Is 'Creepy': Its Search Engine Uses Facial Recognition To Expose Identities In Anonymous Images"
+    excerpt: "Yandex, the most popular search engine in Russia, is being accused of using machine learning and deep learning neural networks to provide facial recognition services to users. According to a Daily Mail report,"
+    publishedDateTime: 2020-01-17T12:12:00Z
+    sourceUrl: https://www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470
+    ampUrl: https://www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/russias-yandex-creepy-its-search-engine-uses-facial-recognition-expose-identities-2904470?amp=1
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/18/russian-internet-search-engine-and-news-aggregator-yandex.jpg
+        width: 1024
+        height: 708
 
 secured: "TtfOmSJFGDhop9/HOXbsuMqQzqw+cnI0wJPr63PdO5fXmDjRwrbbcjwufQU0W8helLLSmwwqGfwRfGBNRrZ49ud29UTIgEZ7z06EKYPo60PSSHOrTOnIYryc2XteFsYbdc37kyJB+Razz0cchnirLU61XnUyzubeLlIJmFSvHlqgI+LORXhEpN1y0gxelbHr1NZrW4jr0u7OLQMQDMu++Y0gTu9WePWht5VqifFU4zF/1DJVP1nMoBOzPrTXFFftsqBDeca9EZQqD+rrCuOlPPFEskYIzBHUnxWeJSrL75U=;9j1JuymGA9xTZF6IEB8sUQ=="
 ---
