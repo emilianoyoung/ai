@@ -139,6 +139,21 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/tdSCaighy2tWhggyXG2hPR-1200-80.jpg
         width: 1200
         height: 659
+  - title: "Apple acquires American AI start-up Xnor.ai for $200 million"
+    excerpt: "From a solar-powered AI chip to AI-enabled gizmos to monitor grocer shelves, the start-up has produced a lot of notable innovations in 2019 before being acquired by Apple. Xnor.ai’s acquisition will help in improving Apple’s data privacy and data security tech, something that has always been a priority for Apple CEO Tim Cook, GeekWire reported."
+    publishedDateTime: 2020-01-17T13:28:00Z
+    sourceUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece
+    ampUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: https://www.thehindubusinessline.com/info-tech/dezkwk/article29814313.ece/ALTERNATES/LANDSCAPE_615/BL29APPLE
+        width: 615
+        height: 384
   - title: "Apple acquires AI start-up for $200M"
     excerpt: "Apple acquired a US-based AI technology start-up in what appears to be its latest bid to boost device performance and privacy, Bloomberg reported. The company reportedly agreed a $200 million purchase price for Xnor.ai, which specialises in building tools enabling AI algorithms to be run on devices rather than the cloud or remote data centres."
     publishedDateTime: 2020-01-16T12:51:00Z

@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Apple Makes $200M Acquisition In Race For AI Dominance"
-excerpt: "Apple shelled out $200 million for an artificial intelligence (AI) startup that makes smart devices smarter, topping bids by Microsoft, Amazon and Intel, according to reports on Thursday, (Jan. 16), citing sources. The iPhone maker purchased the two-year-old Seattle-based AI firm Xnor, which develops low-power edge-based AI. The machine ..."
-publishedDateTime: 2020-01-16T12:38:00Z
-sourceUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/
-ampUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
-cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
+title: "Apple acquires American AI start-up Xnor.ai for $200 million"
+excerpt: "From a solar-powered AI chip to AI-enabled gizmos to monitor grocer shelves, the start-up has produced a lot of notable innovations in 2019 before being acquired by Apple. Xnor.ai’s acquisition will help in improving Apple’s data privacy and data security tech, something that has always been a priority for Apple CEO Tim Cook, GeekWire reported."
+publishedDateTime: 2020-01-17T13:28:00Z
+sourceUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece
+ampUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
+cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: Business Line
+  domain: thehindubusinessline.com
 
 topics:
   - AI
+  - AI Hardware
+
+images:
+  - url: https://www.thehindubusinessline.com/info-tech/dezkwk/article29814313.ece/ALTERNATES/LANDSCAPE_615/BL29APPLE
+    width: 615
+    height: 384
+    title: "Apple acquires American AI start-up Xnor.ai for $200 million"
 
 related:
   - title: "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range"
@@ -137,21 +144,6 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/tdSCaighy2tWhggyXG2hPR-1200-80.jpg
         width: 1200
         height: 659
-  - title: "Apple acquires American AI start-up Xnor.ai for $200 million"
-    excerpt: "From a solar-powered AI chip to AI-enabled gizmos to monitor grocer shelves, the start-up has produced a lot of notable innovations in 2019 before being acquired by Apple. Xnor.ai’s acquisition will help in improving Apple’s data privacy and data security tech, something that has always been a priority for Apple CEO Tim Cook, GeekWire reported."
-    publishedDateTime: 2020-01-17T13:28:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: https://www.thehindubusinessline.com/info-tech/dezkwk/article29814313.ece/ALTERNATES/LANDSCAPE_615/BL29APPLE
-        width: 615
-        height: 384
   - title: "Apple acquires AI start-up for $200M"
     excerpt: "Apple acquired a US-based AI technology start-up in what appears to be its latest bid to boost device performance and privacy, Bloomberg reported. The company reportedly agreed a $200 million purchase price for Xnor.ai, which specialises in building tools enabling AI algorithms to be run on devices rather than the cloud or remote data centres."
     publishedDateTime: 2020-01-16T12:51:00Z
@@ -217,6 +209,17 @@ related:
       - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/Apple_logo.jpg
         width: 620
         height: 500
+  - title: "Apple Makes $200M Acquisition In Race For AI Dominance"
+    excerpt: "Apple shelled out $200 million for an artificial intelligence (AI) startup that makes smart devices smarter, topping bids by Microsoft, Amazon and Intel, according to reports on Thursday, (Jan. 16), citing sources. The iPhone maker purchased the two-year-old Seattle-based AI firm Xnor, which develops low-power edge-based AI. The machine ..."
+    publishedDateTime: 2020-01-16T12:38:00Z
+    sourceUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/
+    ampUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 37
   - title: "Apple acquires edge AI startup for about $200M"
     excerpt: "Xnor's AI-enabled image recognition tools could be a natural fit in future iPhone models. Xnor was spun out from the startup incubator of A12, which was founded by late Microsoft co-founder Paul Allen. The startup had raised $14.6M in private funding."
     publishedDateTime: 2020-01-16T00:18:00Z
@@ -240,6 +243,6 @@ related:
         width: 600
         height: 330
 
-secured: "lbzVbMEfducbf37E224W8mX1YVtlHaWzAWKEzrcnHT3M0DFqmNCdheA7QLfo3ly1gimtCHgVRuTnYPE81KmK6EZ2cUhNZNJpdelUIu06ByEIBQGNQqZtAIq1T4a79pE7MhACA/J4OQ/ZIzxmgkfrOAfTdwvmtQDzrdD8CVMExugFMsdU9HUnyLxDutPDHrtkBMtOmuitY3nq+6iOBaoDK+Tb5rz1DlHQDtFcxxV9lt+Ksg0rlgPoE5DIzzKyv6n9HmOaXsSzNW807o0AMFS+hgJRFxHXoYOeTI0XcSocRar9SgUr5q0D05DztzoE+tqSZsmRL57+Cf0JpGZF29pn9tbFzWDNSYAEAC9wHGGGwNYRSGIwrOtindknfdqLDOQEmzODAIzu6+HjxHKkrxxugU7cnNYkLLJtyFGZlWC3mJ0vEfnb/0jfNcUP11ibGyb+Jv1zRTyFwOaVWG8kFW9vKQ==;zRTIpX7HImQyk5qjiT43PA=="
+secured: "fOf9e/py25h0h5FqBsUKi+XC6v9oVzShxKODSv38xITxuwbODEyuxsF3Tgo2uWog3r4NTk8G0mbNePeoZrGQgAhmsqQYV3cLldhW6oLwGfMgBwBqnrPajl76a3JMdRoCfVX91Hm0Mtk5ZMNf27hZ+CU1iK/PYikFuK2f/S/NzCnplPV9KBf2SQVDECY+UksgD+vmzLQCJG/Zo6iTmduqfCDJze2I93bbKpxtJgkZPg2jR1lH4QTKZtkApPffcxZ67ErN0eB5fI0OI0tqTag7WRPdaJrnEUO93Hy14D+t+Jc=;/ultMuByHJvDvWcNV91OBQ=="
 ---
 

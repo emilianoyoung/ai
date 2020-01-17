@@ -143,6 +143,21 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/tdSCaighy2tWhggyXG2hPR-1200-80.jpg
         width: 1200
         height: 659
+  - title: "Apple acquires American AI start-up Xnor.ai for $200 million"
+    excerpt: "From a solar-powered AI chip to AI-enabled gizmos to monitor grocer shelves, the start-up has produced a lot of notable innovations in 2019 before being acquired by Apple. Xnor.ai’s acquisition will help in improving Apple’s data privacy and data security tech, something that has always been a priority for Apple CEO Tim Cook, GeekWire reported."
+    publishedDateTime: 2020-01-17T13:28:00Z
+    sourceUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece
+    ampUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: https://www.thehindubusinessline.com/info-tech/dezkwk/article29814313.ece/ALTERNATES/LANDSCAPE_615/BL29APPLE
+        width: 615
+        height: 384
   - title: "Apple acquires low-power AI startup behind Wyze on-device person detection for $200M"
     excerpt: "Apple has made another acquisition in the artificial intelligence industry. GeekWire reports today that Apple has acquired Xnor․ai, a Seattle-based startup that focuses on low-power artificial intelligence technology. Xnor․ai notably provided the AI behind smart camera company Wyze’s on-device people detection feature; the acquisition by ..."
     publishedDateTime: 2020-01-16T01:07:00Z
