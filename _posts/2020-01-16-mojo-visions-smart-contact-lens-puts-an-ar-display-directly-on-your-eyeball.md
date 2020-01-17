@@ -41,6 +41,19 @@ related:
       - url: https://9to5google.com/wp-content/uploads/sites/4/2020/01/mojo-ar-contact-lens-timeline.jpg?quality=82&strip=all&w=700
         width: 700
         height: 392
+  - title: "AI contact lens being developed"
+    excerpt: "Startup Mojo Vision has been developing an AR contact lens which really means people will have difficulty telling what is real or not. Mojo Vision is calling the technology Invisible Computing. Last week the company let selected media have a look at working prototypes, powered wirelessly, though plans for the next version include a battery on ..."
+    publishedDateTime: 2020-01-17T10:40:00Z
+    sourceUrl: https://www.fudzilla.com/news/ai/50136-ai-contact-lens-being-developed
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: https://www.fudzilla.com/media/k2/items/cache/1caacaa9c9f56d30a557a35a6a1218c0_L.jpg
+        width: 620
+        height: 465
   - title: "Mojo Vision is putting an augmented reality screen on a contact lens"
     excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
     publishedDateTime: 2020-01-16T13:00:00Z

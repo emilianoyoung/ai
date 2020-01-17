@@ -67,6 +67,21 @@ related:
       - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
         width: 1200
         height: 627
+  - title: "20 People to Know in Health Care: Tina Steltenpohl"
+    excerpt: "I believe the health care industry is changing quickly as we learn to incorporate the use of artificial intelligence and other technologies to better serve our patient populations. We are already seeing movement to more outpatient procedures and treatments ..."
+    publishedDateTime: 2020-01-17T10:57:00Z
+    sourceUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.html
+    ampUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://media.bizj.us/view/img/11578453/steltenpohl-tina*600xx4896-3264-16-0.jpg
+        width: 600
+        height: 400
   - title: "Global Artificial Intelligence in Healthcare Market"
     excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
     publishedDateTime: 2020-01-16T03:41:00Z

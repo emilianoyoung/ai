@@ -43,6 +43,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/973718316/960x0.jpg?fit=scale
         width: 711
         height: 474
+  - title: "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026"
+    excerpt: "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,"
+    publishedDateTime: 2020-01-17T08:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "What Are The Top 5 Fintech Trends Everyone Should Be Watching In 2020?"
     excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
     publishedDateTime: 2020-01-12T23:03:00Z

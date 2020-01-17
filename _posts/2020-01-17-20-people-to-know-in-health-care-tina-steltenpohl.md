@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Healthcare Market"
-excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
-publishedDateTime: 2020-01-16T03:41:00Z
-sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
+title: "20 People to Know in Health Care: Tina Steltenpohl"
+excerpt: "I believe the health care industry is changing quickly as we learn to incorporate the use of artificial intelligence and other technologies to better serve our patient populations. We are already seeing movement to more outpatient procedures and treatments ..."
+publishedDateTime: 2020-01-17T10:57:00Z
+sourceUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.html
+ampUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
+cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
 type: article
-quality: 34
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://media.bizj.us/view/img/11578453/steltenpohl-tina*600xx4896-3264-16-0.jpg
+    width: 600
+    height: 400
+    title: "20 People to Know in Health Care: Tina Steltenpohl"
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
@@ -70,21 +78,15 @@ related:
       - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
         width: 1200
         height: 627
-  - title: "20 People to Know in Health Care: Tina Steltenpohl"
-    excerpt: "I believe the health care industry is changing quickly as we learn to incorporate the use of artificial intelligence and other technologies to better serve our patient populations. We are already seeing movement to more outpatient procedures and treatments ..."
-    publishedDateTime: 2020-01-17T10:57:00Z
-    sourceUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.html
-    ampUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
+  - title: "Global Artificial Intelligence in Healthcare Market"
+    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
+    publishedDateTime: 2020-01-16T03:41:00Z
+    sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://media.bizj.us/view/img/11578453/steltenpohl-tina*600xx4896-3264-16-0.jpg
-        width: 600
-        height: 400
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "Artificial Intelligence in Aviation Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
     excerpt: "New York, January 16, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
     publishedDateTime: 2020-01-16T03:34:00Z
@@ -108,6 +110,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "9COhlJ8poh063H+0hZbQW9lKMkWKgGVTUGP5gHPYPxTYTcXr7TN2k8CbLcnSIcp/fi/utsn6vbvS1+jmdOcfflh2F7qEYQXjw8l7ZPtIaPzxxQ96wa6vLMBsdn0RJRgjeOONSOWBCHu48mrF2qzj/FHJpuea1c+PE57ihtGARa/ADFjaEoKTDrhrKrfGfzTjHlvXD+iEr32E3Ey+Ew0owg6TnEI3vQGkI1VAzgDpjnCJCbMX9VTCG7gzNmewPjNKKSzEUrO4JEZtnSyfMf2SF2lL5TmuWHev2wWbJDALgko=;ilQYwqs/cGp8spW12HnsfQ=="
+secured: "W6BJN8HxN7+z2y7ltPC6Ds4BgsBeIsgU8U4zqjLtcVnUU+gugz2vSAms9Eme6v4btbtF6n6wWA6kBVWXaZWN54Cha5/P+vTEfku2y1YX1HYYZGGb8CJOrD0DqE3tjIHNzgDGKzTvaYw4s9HfF8LbzHY9Z+cTUFgcg3MIsUYyu2kjtZzrvVKPtR17+X6n9QhKLWe3UkDtfKvpv9r+3UgMPpPfk77asA0OlHVEIxYJ/UeYRDvB54Hoan+J3pTAfbZHJlsAillNZoDYqiG11EJzAb8miZ21vJ6d0hgIjSPjwRg=;JolcaSREYnutm6hfCOkPdg=="
 ---
 

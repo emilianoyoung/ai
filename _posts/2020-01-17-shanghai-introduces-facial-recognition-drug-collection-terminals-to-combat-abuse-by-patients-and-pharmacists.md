@@ -180,20 +180,20 @@ related:
         width: 1029
         height: 630
   - title: "UK police use of facial recognition tests public's tolerance"
-    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s ..."
-    publishedDateTime: 2020-01-16T10:16:00Z
-    sourceUrl: https://abcnews.go.com/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
-    ampUrl: https://abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
+    publishedDateTime: 2020-01-16T20:55:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/UK-police-use-of-facial-recognition-tests-14979724.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: SFGate
+      domain: sfgate.com
     quality: 59
     images:
-      - url: https://s.abcnews.com/images/Technology/WireAP_dd085e0d41e5454f92345ab8045bbbcd_16x9_992.jpg
-        width: 992
-        height: 558
+      - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
+        width: 375
+        height: 211
   - title: "US lawmakers concerned by accuracy of facial recognition"
     excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
     publishedDateTime: 2020-01-16T04:43:00Z
@@ -315,6 +315,19 @@ related:
       - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
         width: 360
         height: 362
+  - title: "EU considers five-year ban on public facial recognition tech"
+    excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.siliconrepublic.com/machines/eu-facial-recognition-ban
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: https://www.siliconrepublic.com/wp-content/uploads/2020/01/AdobeStock_230414646.jpeg
+        width: 800
+        height: 600
   - title: "EU suggests temporary ban on facial recognition"
     excerpt: "EU states should consider banning facial-recognition technology from public places for the next five years to give governments a chance to assess risks of abuse, the European Commission said in a proposal, Reuters reports. The ban would exempt security services and research projects. EU states should also create special authorities to monitor ..."
     publishedDateTime: 2020-01-17T06:31:00Z

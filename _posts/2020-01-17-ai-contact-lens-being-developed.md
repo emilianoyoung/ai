@@ -1,25 +1,26 @@
 ---
 category: news
-title: "Mojo Vision is putting an augmented reality screen on a contact lens"
-excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
-publishedDateTime: 2020-01-16T13:00:00Z
-sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
+title: "AI contact lens being developed"
+excerpt: "Startup Mojo Vision has been developing an AR contact lens which really means people will have difficulty telling what is real or not. Mojo Vision is calling the technology Invisible Computing. Last week the company let selected media have a look at working prototypes, powered wirelessly, though plans for the next version include a battery on ..."
+publishedDateTime: 2020-01-17T10:40:00Z
+sourceUrl: https://www.fudzilla.com/news/ai/50136-ai-contact-lens-being-developed
 type: article
-quality: 34
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Fudzilla
+  domain: fudzilla.com
 
 topics:
   - AI
-  - Computer Vision
+
+images:
+  - url: https://www.fudzilla.com/media/k2/items/cache/1caacaa9c9f56d30a557a35a6a1218c0_L.jpg
+    width: 620
+    height: 465
+    title: "AI contact lens being developed"
 
 related:
   - title: "Mojo Vision demos wildly futuristic AR contact lens that’s ‘years away’"
@@ -52,20 +53,16 @@ related:
       - url: https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/MojoVision_1-1024x683.jpg
         width: 1024
         height: 683
-  - title: "AI contact lens being developed"
-    excerpt: "Startup Mojo Vision has been developing an AR contact lens which really means people will have difficulty telling what is real or not. Mojo Vision is calling the technology Invisible Computing. Last week the company let selected media have a look at working prototypes, powered wirelessly, though plans for the next version include a battery on ..."
-    publishedDateTime: 2020-01-17T10:40:00Z
-    sourceUrl: https://www.fudzilla.com/news/ai/50136-ai-contact-lens-being-developed
+  - title: "Mojo Vision is putting an augmented reality screen on a contact lens"
+    excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
+    publishedDateTime: 2020-01-16T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: https://www.fudzilla.com/media/k2/items/cache/1caacaa9c9f56d30a557a35a6a1218c0_L.jpg
-        width: 620
-        height: 465
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
 
-secured: "xxe74QgkeTpuFioaGD9Pdb0XF0ZJPR26jwL89aZeBQPSdQ21W7xproqkplTp6isLdKpPf/oXre1r/WH2JZHQ7YijQrO9kwp+g4FmcIqrxwqLrnoxshqt5R1BvOcL6MBATRxCADcp9loZtg0rjI3cmgXC/TXcJsIHyYMrsfiwCz//aVA7VC2oqefjNI/35YCx0AcHoj7c374oWX2Sae3faREUCxo1sxAH7N6I/GLBqfPGSVi+6cazEOjjQH1IjzLmNsmisy3LweqnejpWTq+4cpqUuXpPSx0x2gReE4sYYeBGf8m+qPIuOsuoM2FlcwEw9V5dYx0RZGklFFiPuB7N8Dlb1qqNdP4rTBfoYBaR0URCvFJ500dcLiDBfW3BX+yPNqlR5JrydB6Pxyr5zvMxdI/FtCI2gMc4vR+amzQf/zNyPjA/DweXcK5qzBosAjIbT0SdSPJUj/M4YzQcWEQwCg==;JSyyMRir/0GEVTa28wdhfQ=="
+secured: "2jPDC7CdjeuTtmxI9BKuDclHqrsoTCr6wRCxAMmPRUfoRLWkmlpx7cOAICBMBAYs20obEAcX5drf5em6fHCJCxHdbld8NfDv0kdj3bc/ujWk5XBs29TGwKvBC6P2fwp740XyZVWI5t42KGun9rk+ehDTzl3YCvZzPuFz7/sfjMvYjXVSKo2M6qaT/qjCkUi18JD/hpRWD7thg0KG6QmeLQf+p6nPUjQZK9w+7jlYBsdCrG9nbE0isNB53nMwU84Emts4qixGkFge3XDzTJlnTIKp/zqG/KwYkKy2Isg2ShM=;w2D0saRwzlyzINtd+OPhdg=="
 ---
 

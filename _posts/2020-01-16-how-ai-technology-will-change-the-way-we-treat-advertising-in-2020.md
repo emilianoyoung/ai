@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technol
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "How AI Technology Will Change The Way We Treat Advertising In 2020"
 
 related:
+  - title: "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026"
+    excerpt: "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,"
+    publishedDateTime: 2020-01-17T08:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
     excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
     publishedDateTime: 2020-01-14T23:15:00Z
@@ -56,6 +69,6 @@ related:
         width: 1080
         height: 720
 
-secured: "DHbWD+MitsPFoo7Q4uxOCBjwgnZxBMkycak3yyEbB5HwxFoLLrzSD21leJdJCy2tCWsY4ATYvJ36HJ7Ep53E4xu3yaTIe+DtUq9Xnpasmtb2pAP/IpzQF8OXDbCu7VuIniFYvUvtrXTUej+H7USR2oYPYZLbwpseAUng89a/jB0TENg2AFgqEE0jSryOzRjSfcosW3+HVQepq9RXmkFSWUjTErSBX9QRNUe6Z4pKwExoTulXwNTJQJ3qb/+u9S7xshDcjwNj4QpAYLTv+y2VceqrFcAQPtZ6gzAG34PaegvMXQReTVFcl90lErcfsGcYoyRlOuOR7CIK7cM7kL7zlGUHwBbz98mtSBxzmbY6MIIhFXR22Bj5j8qRa4xu7R9Tu0LxBctz30PSzNqQgsAtwPcYaNSgkLPF2oRBKS9ppNtkSP4wk7shBpt+Bqv6pw0sGUY1psgsqiGAr6u6mvmnLA==;N+2g8WnE17aGwodbNtcn7w=="
+secured: "4txF27cChAby25T5REFE+T+7nug8kmgIH88ZQzytIh2IPWGpz4R/kQqeo+wZhnTnBvMbNKvjBCtawojcBHFXEKqOjFL+l+/veQp6ajHp9DmY9dPR0v9ckjcPTfWR87yTPVnp+acoXEuOwloCVw33FDJQfxVqMt1XVgICcTI70l0RUBKI+ygpEOYFKsMrsuE8QdgQtgEkyNabqT3TiLIw6q+/+4xMEm0P/zSoktqce7meQwjFdgEyPQVbsn36hrfdzUm2q/WNO4LWILtPgmC+LUEAUG6qI1QHivXshaIU02lQ4Y+mIYsF208sZ8LX2xuxh0XNjmT9sD2mJyDplzZmSedKJin0XE0i26qp8GpLi6CbGx5DtNAHmxTXZT+EeZPGdSc2pqGko2ei4FrscYPvI+TE4fsRHsyFBjhoE1+VKeDLSE8fH60xbMRO0JRIW3JCPWp8D1oBNLr+1321u8k+3g==;X/76ZLextvV7Hlyq5+mVXw=="
 ---
 

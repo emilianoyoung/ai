@@ -43,6 +43,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/973718316/960x0.jpg?fit=scale
         width: 711
         height: 474
+  - title: "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026"
+    excerpt: "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,"
+    publishedDateTime: 2020-01-17T08:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
     excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
     publishedDateTime: 2020-01-14T23:15:00Z

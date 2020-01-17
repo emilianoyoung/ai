@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Despite what you may think, face recognition surveillance isn’t inevitable"
-excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
-publishedDateTime: 2020-01-15T23:00:00Z
-sourceUrl: https://www.fastcompany.com/90452524/despite-what-you-may-think-face-recognition-surveillance-isnt-inevitable
+title: "EU considers five-year ban on public facial recognition tech"
+excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
+publishedDateTime: 2020-01-17T10:49:00Z
+sourceUrl: https://www.siliconrepublic.com/machines/eu-facial-recognition-ban
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Fast Company
-  domain: fastcompany.com
+  name: SiliconRepublic
+  domain: siliconrepublic.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.siliconrepublic.com/wp-content/uploads/2020/01/AdobeStock_230414646.jpeg
+    width: 800
+    height: 600
+    title: "EU considers five-year ban on public facial recognition tech"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -309,19 +315,6 @@ related:
       - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
         width: 360
         height: 362
-  - title: "EU considers five-year ban on public facial recognition tech"
-    excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
-    publishedDateTime: 2020-01-17T10:49:00Z
-    sourceUrl: https://www.siliconrepublic.com/machines/eu-facial-recognition-ban
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: https://www.siliconrepublic.com/wp-content/uploads/2020/01/AdobeStock_230414646.jpeg
-        width: 800
-        height: 600
   - title: "EU suggests temporary ban on facial recognition"
     excerpt: "EU states should consider banning facial-recognition technology from public places for the next five years to give governments a chance to assess risks of abuse, the European Commission said in a proposal, Reuters reports. The ban would exempt security services and research projects. EU states should also create special authorities to monitor ..."
     publishedDateTime: 2020-01-17T06:31:00Z
@@ -428,6 +421,15 @@ related:
       - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
         width: 252
         height: 335
+  - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
+    excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
+    publishedDateTime: 2020-01-15T23:00:00Z
+    sourceUrl: https://www.fastcompany.com/90452524/despite-what-you-may-think-face-recognition-surveillance-isnt-inevitable
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
   - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
     excerpt: "They’re people with speech differences and they’re helping improve the technology of voice recognition, CBS2’s Carolyn Gusoff reported Tuesday. Voice recognition saves time and enriches life. But what if your smart device isn’t smart enough to recognize you? “They don’t answer what I say to Siri,” Jake Lunney said, adding when ..."
     publishedDateTime: 2020-01-15T00:01:00Z
@@ -440,6 +442,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "rgW+2hP6FDVVxdzgVQi9/rldE0+7SByT2vnQcmQV7UFe2OZeBV1+A/PJAdGlXU5XkUzCKFhgvWSvF3+nt6gh3vBkcUKRqZfln8qpBIPzNO/YEOvE/pHtE6VWqJmFYGc7DRrap3u2YGVTTyDrX6jdXO/KovIcpJDZGNHgiD4Q4EV5ZxD8J/zShNTkfL61R/ENQvv5i2d0wAmwM+zZi8UO7vhoX5qDaddqCfRf4euD36bf1HFNVPa8ff14G51RiSYFGB/jfQVJZQCqLfgc8aB7ftF1/xw4rYQOVIJp13egqzrAC9IQMEm+0z16AanBSa3uBCwHGCTdaXXmruXcZyBj2P6Gg8ElpTh8TBsiUNlTPQ3aQ6TixriRVO4Xhc9zQRc+DWS2Hmmc/fmGcvDPKoD6IdwnL2mAHwgWe/uaH8q7qgsVvlwFBT31jWklLTe5d2AG/WjOq0zWxMC6c9WTvZD+Xw==;thtQkcz2a+Tw7FYSESmqUw=="
+secured: "+Eoqt0htIwwxZGsUm4A8yxKHeMe5DkMu4AOBCbcmuJ3U5bbFAB2ts2Jcr4iOfGuzqtBlPG5dmZkPG+dDo+Hyv2So/z7oITuJuxvY7c1GnqKv3w+0N3bn4JNvGD8GSEv9Rd/fzGIBGWliuRY3CLH4981TSTGSc+goJYH0yr9ton5utKNaQqFrondzvVp2myMwCmm6dlR3/Zm+cmvMtJ8i7hcYizTYlN8M26ZwJcUFFEQUoK63X1H2pxCF4c9tFZFem6paRO/J9L0LndhOsIZCMHloEptGqUKZn/ZNHmBfa1o=;oeUdDOmm3K/CKIvRHfE5ug=="
 ---
 
