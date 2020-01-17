@@ -289,6 +289,19 @@ related:
       - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
         width: 360
         height: 362
+  - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
+    excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
+    publishedDateTime: 2020-01-17T01:32:00Z
+    sourceUrl: https://www.scmp.com/tech/policy/article/3046346/shanghai-introduces-facial-recognition-drug-collection-terminals-combat
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 35
+    images:
+      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/17/954dfb26-3827-11ea-9933-e21be988cd59_image_hires_075545.JPG?itok=nD34jsvg&v=1579218950
+        width: 1200
+        height: 630
   - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
     excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
     publishedDateTime: 2020-01-17T00:32:00Z

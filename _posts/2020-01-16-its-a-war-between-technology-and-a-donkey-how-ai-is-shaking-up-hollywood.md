@@ -24,6 +24,6 @@ images:
     height: 363
     title: "'It's a war between technology and a donkey' – how AI is shaking up Hollywood"
 
-secured: "G8sMaPob6gGLThLktZdSz336EKb++8kEYzyLF4V9uLb5X2CUzU+bGJATDSFtiygHchMFyUqdQnKsPJSz5VH9DfEm4zu7OKI9nPQmZtudpqeVf94QxbPZ02hUKQDZo238aDk5EWQDYakRuxRbXS+bWEsoPEEaPfegRJPO4yUAV0jiLwN3EXVv7JpGdPOWt7PmSfNY+cCusCBLQTukaMXpLZug8ALLi2P2x07bTmVixbv+JKUXws+BNYv5OdfEcL2a3CBDSBssz2g0MzUT8tcD3MGTI0GC2OpzzUlSOC2GUBw=;RWmiC9bNwuCWxtqXZAAfHA=="
+secured: "2mDxgqCXi4mG2dpTQyKOti9JJZxCkzJKwYu78cnZxSOpq/Ukpi+W2+ei8PKLR5m3l+osVWbYvK9BQdUA9/QH4jkxiruoPCYuBPGkmsBMB2REYVXDbEVT63JrQoXYh96YuiCLLr+CtkDeALFReh83vd27erRUH2X81w55/6ogSYxfmJ3JRpbZlfpoMaVLzCxmwFKvaMGxrUx24JlpcqV7JrIwcLFraeq6VKaND/i5KOI5266r5oA2mC/1/l1hCdDltde7pX6CvggRvp2VTKNtDTt7z2l71qLHpeGMovm+ZCNpzkg/N+8M1jOpBSByyKIlyH3JiCBlLqF0Ev8donsj7WG2S15WrBG2xPA7zDBDRRfvVq44//hK3f6Z2cqRojdVKCUe38uW+h0ioPYjJE1GD1h4+hcHumNUTK8P4yvpdyJ6xA9t4X5RBq6bp+HD6KzvdNvd+k5iDN0a6i4dGG+abQ==;Xkc2pQ1Yj7YLvfJbG1b2nQ=="
 ---
 

@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Choose a speech recognition mode"
-excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
-publishedDateTime: 2020-01-14T23:12:00Z
-sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
+title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+publishedDateTime: 2020-01-17T00:25:00Z
+sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: /assets/images/organizations/microsoft.com-50x50.jpg
-      width: 50
-      height: 50
+  name: BCW
+  domain: businesscomputingworld.co.uk
 
 topics:
   - AI
-  - Natural Language Processing
+  - Facebook AI
 
 images:
-  - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-    width: 400
-    height: 400
-    title: "Choose a speech recognition mode"
+  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+    width: 512
+    height: 512
+    title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
 
 related:
   - title: "Facebook releases low-latency online speech recognition framework"
@@ -43,19 +39,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
-    publishedDateTime: 2020-01-17T00:25:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
+  - title: "Choose a speech recognition mode"
+    excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
+    publishedDateTime: 2020-01-14T23:12:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-choose-recognition-mode
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: Microsoft
+      domain: microsoft.com
     quality: 39
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
   - title: "Facebook Releases Open Source Speech Recognition Platform"
     excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
     publishedDateTime: 2020-01-16T01:03:00Z
@@ -79,6 +75,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "GRImyHwCMRNkr5+3omVdlSSPsQhUObxe0I3BbsTBil1TFL1aJohBCmxu5dd0wEmTQzQEL2nB+qwaTuneQ1/ha20bP1ZUkYiN9kPks9XhP+oyAI89w2zacohXCbB5RWLKE4pJEV7EK9xwgKeQBQiqCLWOJwAL5wUeKeRtGhbsqqIqa6EXstNf7gT6/yfuUNcChB1MFeo0SJ2AlsL+YQ9FykMhuD4XfrDpZEemTYCjTk+yGVnoEBdR2rwgjvZc6xPcgHYIRv2GRjOVFj8cn2Ul2VtQbIAIBklCxSOGUGYiyFU=;igBKwHbKKQ+zr4y3nRhk0g=="
+secured: "CYitPMRk0w+LKUiSuBaCGw5Wf0arXVN1oWqXMZh2BdDWQ0O4xTnnlWdbjOK7GZtibHQE76xt1dkeUD83s+FU1komSq7dyhfPtId3xygebyyf3MsQ2uOB3drYrGv3eEcdH6SoTrDrpCcQiwmsnQU4JJg7z7Ucr3QIecrfaO9REztv/jDLwYfDrqIxVGNc8ZiC9izPiaDUXDeKS2p4/gHcf4/d2/kgfkHZHDk23dfRyzdL2nVkUhtkTiXgirSNcpJYhlvbdzNqM7C4MGLVWkfrstvUH6RKxN280sbkCBApe0s=;tk5MU5MN/al03Er2pROzKA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI Chips: 5 Predictions for 2020"
+    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
+    publishedDateTime: 2020-01-17T01:04:00Z
+    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 34
   - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
     excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
     publishedDateTime: 2020-01-16T13:39:00Z

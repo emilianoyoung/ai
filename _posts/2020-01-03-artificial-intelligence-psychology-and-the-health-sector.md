@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... One example of this is in the recent development of chatbots that deliver Cognitive Behavioural Therapy (CBT). 10 In some areas in the world, these chatbots can be really helpful such as in Germany, as only a small number ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These include autopilots, computer-controlled automobile engines, MRI machines (health services), self-driving cars (transport services), as well as high skilled services such as A.I. radiology reports, legal services, and mental ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
-heat: 61
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - AI in Autos
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 207
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "NDF5ZMfMwkvKFS1nunEHu4+BmQHtDacQ3Coo00B5K5gJrD/o6jq61JRWhxSLOnqklGQugkqAxRCWSJ/I25w9uzQ5sJxsYOLQSjmpEo9DuqUu5CmelSPjf5OwfVrJV8ctdzDb5TKGihdFezGwDAho2/T+gVxOepufusGjZ9EdNg3gAx9KYcktYRKQNg2zwrnTCBVPtZD4/uvOQOrvxaZNy+estotqJVvP+x1pe7cCjCk7hs0R1VC+hMSs6gMl7GiZ0JIJMPHJ71Ep555ygffjiwUQIdu2aW+XJUonqE4+l1D55gmjH4TMsUrb5Nf22cMkpxpPk/9ynUBEsj9PK3FfIhXO6Pu2dF/7Uh8bA1Glm6DDgtC9VJ0RMJA/Pc43jk+xSrptJsrC9WDjDUafmnH3Q8cCJ59aXxtsmnRiebNcAJlK8P4VkXaNvptmMfAOe9B0dPFHWKMI30eUeU46Oum1NQ==;AmbkxRZiLRnPRp7r7gD0Eg=="
+secured: "OUjNQC63Yd6eGD3yQNAJM1AXC53v/XM2GB4DmqLn5zkN/WO0V7GDPesjpHJzmj9szPz8zvkzlJvtl2njsqZzX2lh5IlNXYbtnHEE3fmt40MKKcT28uRdmgOveNRnJzIfZgOBB6lL60Qgm44JyqRVvO6+LbOdYB6GwxZ65QkFzDNOunfymdCHML6ukHXldYaJSe6fhuX7VAhabfG+ivV4ZJZMDSciWTaRY9VeUtoZX11XOT0dtRJr32W3G9YMjlvg6Dunpo4AJT6+59TcyrHrPVNayCejhHCyjTwGcW+2ahU=;h0Q55yiq2cQqhiVg4h9qUA=="
 ---
 

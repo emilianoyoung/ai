@@ -46,6 +46,19 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    publishedDateTime: 2020-01-17T00:25:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 39
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Facebook Releases Open Source Speech Recognition Platform"
     excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
     publishedDateTime: 2020-01-16T01:03:00Z

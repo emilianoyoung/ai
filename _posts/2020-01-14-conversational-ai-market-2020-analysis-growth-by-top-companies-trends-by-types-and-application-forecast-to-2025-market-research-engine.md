@@ -58,6 +58,15 @@ related:
       - url: https://media.wired.com/photos/5e1cef377b7b080008560ead/master/pass/Conversational%20AI%20Can%20Propel%20Social%20Stereotypes-01.jpg
         width: 2400
         height: 1350
+  - title: "AI Chips: 5 Predictions for 2020"
+    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
+    publishedDateTime: 2020-01-17T01:04:00Z
+    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 34
   - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
     excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
     publishedDateTime: 2020-01-16T13:39:00Z

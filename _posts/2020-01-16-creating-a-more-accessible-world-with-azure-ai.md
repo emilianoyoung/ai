@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T08:00:51Z
 sourceUrl: https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Creating inclusiveness at our first AI for Accessibility Hackathon in Asia Pacific"
+    excerpt: "identifying opportunities to use AI to build a more inclusive and accessible world around us. Their solutions were developed on Microsoft Azure and used Power Apps to create solutions that tackle problems faced by the community every day. Team Grab from Singapore on their communication solution for people with autism Problem statements on ..."
+    publishedDateTime: 2020-01-17T01:17:00Z
+    sourceUrl: https://news.microsoft.com/apac/2020/01/17/creating-inclusiveness-at-our-first-ai-for-accessibility-hackathon-in-asia-pacific/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/01/Feature-image-1600x1065.jpg
+        width: 1600
+        height: 1065
 
 secured: "pvD54vnvnp9NbPJKmj8mCRi/Kfnz+Wo/GTxIFJO+WReHCj483ST8iVHwsmh3qtYcZtjiCt1mb/jQvC6114CHFHgBFEEjNkl3aZrUhf9c909jeJlS+fZbIUnSgup8+U2VLKs4MGBk7tbSvJ/grI2UNF2qnIe/gBStTqqzwqMjmDN3s+Bninoc+XnS2xhFtDjz4C4cJK9zRFNR5q5Xs19wZVYvb5eA5G/waCKby1Rvc11MAkWE4DyViKnpTS40WNvhwvvfi94uXzWPEB1sr5gdZET4Oq5rJTV3DC3fimqjUFmpusbwMSJQWf+N/3HExLBE;uudFOtg1OFKZqEYp9V/OKA=="
 ---

@@ -1,0 +1,62 @@
+---
+category: news
+title: "Creating inclusiveness at our first AI for Accessibility Hackathon in Asia Pacific"
+excerpt: "identifying opportunities to use AI to build a more inclusive and accessible world around us. Their solutions were developed on Microsoft Azure and used Power Apps to create solutions that tackle problems faced by the community every day. Team Grab from Singapore on their communication solution for people with autism Problem statements on ..."
+publishedDateTime: 2020-01-17T01:17:00Z
+sourceUrl: https://news.microsoft.com/apac/2020/01/17/creating-inclusiveness-at-our-first-ai-for-accessibility-hackathon-in-asia-pacific/
+type: article
+quality: 33
+heat: -1
+published: false
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Microsoft AI
+
+images:
+  - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/01/Feature-image-1600x1065.jpg
+    width: 1600
+    height: 1065
+    title: "Creating inclusiveness at our first AI for Accessibility Hackathon in Asia Pacific"
+
+related:
+  - title: "Creating a more accessible world with Azure AI"
+    excerpt: "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,"
+    publishedDateTime: 2020-01-16T08:00:51Z
+    sourceUrl: https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e79a07b9-c903-4f16-8e4f-ee19d7dfdf0d.jpg
+        width: 1024
+        height: 576
+  - title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
+    excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ..."
+    publishedDateTime: 2020-01-15T18:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
+    ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 101
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+
+secured: "5DtwaM8sWwJfw5q7AoLKxbPjjhkwV35Z9vp/0lc9kuxIuywnkg7ljT5UZCdSFqyI/D5PIjOiEf5m4RPW8vCU+RziG+0KhUxUYjl3rgx6XK8uW7UahOp5Qcq6eNdG6TneOOr464vKwUm4P/zPP6kBMp7GCEyugA4pX7KKOjN3FdF/YnoYfaqIxXazzzp5M3/uHVFKs55BEx7DwCjCVGYrjVPnJwoVp3iwCm4jL4/PCyeciG4Cm+iPLarMYTT+3/iMz//hFtrhPXg5BZuOPuR2uoyb9j/KHHJfqObhZsxS780=;EszB8QFwGT4HCCHuhCUFtw=="
+---
+

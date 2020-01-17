@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T21:24:00Z
 sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
 type: article
 quality: 168
-heat: 428
+heat: 438
 published: true
 
 provider:
@@ -280,6 +280,19 @@ related:
       - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
         width: 360
         height: 362
+  - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
+    excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
+    publishedDateTime: 2020-01-17T01:32:00Z
+    sourceUrl: https://www.scmp.com/tech/policy/article/3046346/shanghai-introduces-facial-recognition-drug-collection-terminals-combat
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 35
+    images:
+      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/17/954dfb26-3827-11ea-9933-e21be988cd59_image_hires_075545.JPG?itok=nD34jsvg&v=1579218950
+        width: 1200
+        height: 630
   - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
     excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
     publishedDateTime: 2020-01-15T20:10:00Z

@@ -1,20 +1,21 @@
 ---
 category: news
-title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
-excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
-publishedDateTime: 2020-01-16T13:39:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-vonage-partners-with-artificial-solutions-deliver-conversational-ai-/2020/01/16/9082672.htm
+title: "AI Chips: 5 Predictions for 2020"
+excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
+publishedDateTime: 2020-01-17T01:04:00Z
+sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
 type: article
-quality: 17
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: eetindia.co.in
+  domain: eetindia.co.in
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Five Conversational AI Predictions For 2020"
@@ -60,16 +61,16 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI Chips: 5 Predictions for 2020"
-    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
-    publishedDateTime: 2020-01-17T01:04:00Z
-    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
+  - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
+    excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
+    publishedDateTime: 2020-01-16T13:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-vonage-partners-with-artificial-solutions-deliver-conversational-ai-/2020/01/16/9082672.htm
     type: article
     provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
-secured: "6qnNNqDnUmOwJot/rFBnfUVhYf8bVsGDHoBz5kMj6Nm8N8sBinLTOuAPrShQoVjg7uSFnzqw2ytUxIQCGo2Yxy1Pp1Wpjf7/RMbU9O8OcSb0IwaJVCNPW6k7MqCPuUldQwHJh2e25w4GPT8/CdVMl0JStGU6aN1JsYjW8UbK0/CgdGatsMTlr5Q6y0PsdakFy6bHqK/jEMtw0PldOor9BTK4SB251M/Sga09HkTHZx1X0UQ6WYc30m/izBxwiHAnGT4RYIOM0QssRcGO7SmENCZh4a//pzLpy7389aVDLrw=;LmreHGfNyCoyUa2UvFxe0w=="
+secured: "psOaCr2XbWFkfFt5YWpmMhmGtbBfDiSPwd1NWFKeq4j2uLCREtWaS3WGpgkvAtOw4WdrW/HErtsLRLZ2yNJndyJ8AA3MmYGM/sHrRITknnDq8eg9+2fzJkZzWTlUsFog0JE50Dh59m3nTor5ptJcTGQ7KUl2C67Dqtx3cDGDbjdtNUyjT5VON/etZczVxlUk555KL72MzQkWzlpxzKP5tnWgVn8I+kAlAJwqU6NOKdbufjKaCp+5fvXIz4ZjIl+l63xtyNxOBe+NhSJI5zaJbQskEbnCMeXCTxwAoL6emCEdb8X7W8FPfFfjj0NVmTywnAUm8diSWSF57arbcC931qRMcSvj6rlUTESRZOafdLLRPtV3moKmc9kfUuwsnDFuDaomRUIYpULeUAzn2buQU+x6/ouit/WZjxQ/pVnYa7dNdGofMUbyBI3zGZgs8rObr4g3ebOAV8pxa5dJ9fjPFA==;g2xUa8ECVYfjGWc/4wTwpA=="
 ---
 
