@@ -24,59 +24,17 @@ images:
     title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
 
 related:
-  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
-    publishedDateTime: 2020-01-07T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-14
+  - title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
+    excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial neural network was completely neglected in the early stage of artificial intelligence development, then gradually recognized and became a large-scale ..."
+    publishedDateTime: 2020-01-09T19:45:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+    ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Self-driving car market 2018-2023 Application, Revenue, Excessive Growth, and Region-Forecasts"
-    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
-    publishedDateTime: 2020-01-14T12:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2018-2023-application-revenue-excessive-growth-and-region-forecasts-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
-    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
-    publishedDateTime: 2020-01-10T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-forces-analysis-revenue-challenges-and-global-forecast-2020-01-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
-  - title: "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025"
-    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public, Hybrid, and Private), By Technology (Recognition, Operation, and Analytics), By Application (Voice & Speech Recognition, Data Processing ..."
-    publishedDateTime: 2020-01-13T14:02:00Z
-    sourceUrl: https://www.openpr.com/news/1894966/cloud-natural-language-processing-nlp-research-analysis
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
-    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "VcXhcjDMdMUPHx8RCSY9YlMtV2lfJT0lT8AHCb+CPr9mXTl+stDNPOsE9dU1+/TSPq5t8qAJAhs5rX/tlbU3DK44DnIA6O3rBDOjig+k1V9e/7ESzkj8kExYMfES8mYOrYlZknlQ/B5x6PRhxJVsmq1XfK9lASLXoeYjkUxGxolK99iQGjASjwNwHYeLvU/S/DAVwGfwEx+MVXEk2uoYJdPbrmACofUWMV2ixuliaCj0XUSKyawSU81yzdWgyIP2HcWuAq1TMgA6rmZ1uzFsk3OUAW6t/wVc6AtJNtFJQ+C4zyAh24OoXYbDW7K0BWV14yHT/rfGW6Tla+TShpqLR9paSRhgZiCrkjfYkQKWCT5Bj22Z9N3oF8ZKGhsmaCuOo3rLfYWspYPrfW66gpSWmwb67Mloo293hW8XoGg7E2u+ZPTvsH9qKbZHcdslmHkmnxZ8uKS9Z9OVRs2bh5iZcw==;mJvHYknXPm9EHI7oEk0vtQ=="
 ---

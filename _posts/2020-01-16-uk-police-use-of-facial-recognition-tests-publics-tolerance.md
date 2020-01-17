@@ -421,6 +421,15 @@ related:
       - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
         width: 252
         height: 335
+  - title: "How Facial Recognition Market will Grow at Highest CAGR"
+    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
+    publishedDateTime: 2020-01-17T10:28:00Z
+    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
   - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
     excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
     publishedDateTime: 2020-01-15T23:00:00Z
@@ -442,6 +451,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "YHiI03jQJu8kv13GFaQCkQZ+s8SmImRgUAz96WJq7I1VyatCZog7mVdMhQB4UgN2twmAcLeCp9zUlB1/2Yq9dR0/a2E6vlT73tebeowJZe5Q97VGFp9Q13lNJkZ0HHcFYXW3u/fsG6LtnnMLya2TurPB2Fy3VPi5ljxSJbMKH5RWc0nTtrQjq0ZnJriEvSa6mAX5HGg+wZ3zDc0yB5j8I9lyKKbAnvfTzS1A4N2tjI7HfXdaOrcWnS6lzx7KpqraCz1FlXx+Vvk01uH3c5EfZoc6VBaeRtDlvew7rBG+Zc8=;Zv6kHPKxPvai2SnnR4HWfg=="
+secured: "cHu8exmBfLxOOloKGy7hjGRGZuDQ8RkyolXs4r5uG1uuggQgBbo6W7PRrxp0ZViH8Ly+swvlzNgPivdJ4Pn4lVYIOhaOnFoE9SN69fvOd/EM0PA6bHfZtkgE27L+M7dR1LGSzi2I345Z0NZUgWUSF0F9BQAVQAzscgOR9Rq2Bg7z7Enctx+qrxGn+Z5DcUaggyFQxnUvKp5ZGxd8ehS+0eDjAOyceZyRGs7/6ZKmhdkLMNY/4V/PuFfQXYH+X36Dz4UwS6o7KpiMoCQiX3n+RxUt255wzb5gxLGfFMdeWOkdEaIxhNGc8gP3aiEKvFforARDYyhnwxR5S4f15AzulnWHzkn/Y4I/EGoneJuETufGgYZ+xeeBAYep6BzTwqJjNRIzR2srQ+lSwvV3YzbPp+XbAQvlMXfC2szAs424LwgNd6CrUW/uTRzLYl2VlINTnLdhvmmkvskzfqRCIfGQzw==;SZlIbx11KqpJdSShx9CIUA=="
 ---
 

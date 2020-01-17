@@ -25,6 +25,6 @@ images:
     height: 532
     title: "Facebook’s AI Research Chief Talks AR Glasses, AI, And Machine Learning"
 
-secured: "cKr2hhtlURs6QzSkVOepmJ4DJujNG5oulxTkjr6Q79kWv2zXk4/bNBiiW7CUkyGhap5695Y61XtNLowyQEhp/JD6/tWM/RH63Jv6WWCQnBtzHXcyUE7sh5+gWkQS3hD/PlrZuf1Po1fsCyLE76ayiFl7irY9pc9y4FWoHUHukWNBZGgQs4rwyUCDZwJzj9qqwEEwkLZXUo1dju7z/J+9vBD5YGVY3tVGbevYyYFbgOMdhBIAsQr1lyNH6arPGBT+I2mIUgW3SVp0ctQMlFXgJDRSvWrSaAUaNu82WcHko6g=;qPM7Oku1eLsMWhG2iy+hEg=="
+secured: "FVcvNxnuI3Ewc9eUSiRivrifGQlL+QuD5B2nIme4+WLkC+MThjLEYSMus5ladq6zsI7F1H6JtJxVJ5diBMT6Xju1eZjhjlgcSzVyRlUK6hcgq9Z4vTq4FoCKlJgqgP54+Xct1/76eFWvBmJ4xREdXs3D5uqaGjwnwTidZOyQNN8wo0wSm+7fxo2o/lj/xWQQOV64VRalVgGh4LGU1djlLsqExAQ88MvPl0gdDIpDyObZuH1YOjHgrkxrNMgXFVeux2WsqEWCKgGNgzBqtkIFOsgpP9yA6kEWa/vsH3PXsMM=;MtOCpFlw8WpU1UEQ417r8g=="
 ---
 

@@ -421,6 +421,15 @@ related:
       - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
         width: 1000
         height: 563
+  - title: "How Facial Recognition Market will Grow at Highest CAGR"
+    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
+    publishedDateTime: 2020-01-17T10:28:00Z
+    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
   - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
     excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
     publishedDateTime: 2020-01-15T23:00:00Z

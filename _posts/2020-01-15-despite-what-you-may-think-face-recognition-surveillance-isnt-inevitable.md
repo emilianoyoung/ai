@@ -428,6 +428,15 @@ related:
       - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
         width: 252
         height: 335
+  - title: "How Facial Recognition Market will Grow at Highest CAGR"
+    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
+    publishedDateTime: 2020-01-17T10:28:00Z
+    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
   - title: "Down Syndrome Group Partnering With L.I. College To Improve Google’s Voice Recognition Technology"
     excerpt: "They’re people with speech differences and they’re helping improve the technology of voice recognition, CBS2’s Carolyn Gusoff reported Tuesday. Voice recognition saves time and enriches life. But what if your smart device isn’t smart enough to recognize you? “They don’t answer what I say to Siri,” Jake Lunney said, adding when ..."
     publishedDateTime: 2020-01-15T00:01:00Z

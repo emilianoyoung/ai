@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
-excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
-publishedDateTime: 2020-01-16T00:00:00Z
-sourceUrl: https://www.komando.com/video/diy-how-to/tomorrows-tech-today-latest-in-self-driving-cars-next-gen-hud-for-your-car-x-ray-vision/702102/
+title: "How to Invest in Self-Driving Car Stocks"
+excerpt: "Amazingly, breakthroughs in related technology such as artificial intelligence and the internet of things make autonomous vehicles a reality. Or at least, they will be much more of a reality in very short order. Let’s break down further what, exactly, goes into driverless car technology. The task of autonomous driving is accomplished with a ..."
+publishedDateTime: 2020-01-17T11:14:00Z
+sourceUrl: https://investmentu.com/self-driving-car-stocks/
 type: article
-quality: 14
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Kim Komando
-  domain: komando.com
+  name: Investment U
+  domain: investmentu.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
-    width: 480
-    height: 360
-    title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
+  - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
+    width: 730
+    height: 467
+    title: "How to Invest in Self-Driving Car Stocks"
 
 related:
   - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
@@ -155,19 +155,6 @@ related:
       - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao
         width: 470
         height: 246
-  - title: "How to Invest in Self-Driving Car Stocks"
-    excerpt: "Amazingly, breakthroughs in related technology such as artificial intelligence and the internet of things make autonomous vehicles a reality. Or at least, they will be much more of a reality in very short order. Let’s break down further what, exactly, goes into driverless car technology. The task of autonomous driving is accomplished with a ..."
-    publishedDateTime: 2020-01-17T11:14:00Z
-    sourceUrl: https://investmentu.com/self-driving-car-stocks/
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
-        width: 730
-        height: 467
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
     publishedDateTime: 2020-01-13T00:35:00Z
@@ -181,7 +168,20 @@ related:
       - url: https://apicms.thestar.com.my/uploads/images/2020/01/10/485282.jpg
         width: 1240
         height: 827
+  - title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
+    excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    sourceUrl: https://www.komando.com/video/diy-how-to/tomorrows-tech-today-latest-in-self-driving-cars-next-gen-hud-for-your-car-x-ray-vision/702102/
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 14
+    images:
+      - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
+        width: 480
+        height: 360
 
-secured: "lV9EiIePlRk/J/e5wLhIuweMYTawPrPce7oQyRfM4ZTz7a56PDzpjS5KHpeH1fS2puSw1w+qOQMECzcJM3tl/j2E7M4QzptV8ykTN/201VdcntO6yB3Ies7PBCHN1ALZvXSG3GTZempSXhITP/g/2alF1516rJskjkKKDJf3PF8YGR+2GgtnpFFRC6/ZL/O46LJpwUu70gNpyRhUrZMlW05Hw+JXDSKIsum31jioWdPo/js9FondHRot8GfERsdvQAocwQ6cSIRQ6Dv0+l7MwJw/E37KqFjkE0dkYim6+lc=;fDe6PSJIAzJZCUAyXP1EBA=="
+secured: "jruuZD6gnBpWIp+r6sLdqCpPw2Vfo+RsgzAZp5krEZHIzCZ2ciOsZAyngny/O3kPy5uUecT/zgprIc8p0kxVwH2gsLFzR1Bs+CHvY4TNJ7jYbLiYk1gkncjIgqeN6ymcx0P8W2Q8QtnJlnQtv7ugcdQ5Ue31a5hxFGATX4qmWQ26fXaGwQOt1YNYW4+Mg0BZVBrw/tk0ougQPrOpOAmtu0NtjLCstGFqy+A6YG0nLYATYN2N1jwZ63R4H3JWIubZzbSEh4hiTkPt7Ha1v9UYEls1aOjjV+ml27rOgCQRc5o=;JJcvWJXfKXjuBCewL2Azhw=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
-publishedDateTime: 2020-01-14T05:28:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
+excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
+publishedDateTime: 2020-01-17T10:12:00Z
+sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-report-2020-competitors-and-their-respective-market-share-rd-status-and-future-projections-2026-2020-01-17
 type: article
-quality: 33
+quality: 45
 heat: -1
 published: false
 
@@ -19,13 +19,13 @@ provider:
 
 topics:
   - AI
-  - AWS AI
+  - Machine Learning
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
 
 related:
   - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
@@ -41,15 +41,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
-    excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
-    publishedDateTime: 2020-01-17T10:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-report-2020-competitors-and-their-respective-market-share-rd-status-and-future-projections-2026-2020-01-17
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
+    publishedDateTime: 2020-01-14T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 33
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -68,6 +68,6 @@ related:
         width: 1200
         height: 627
 
-secured: "R1SZkhnTr4rCOEJhZy3JqyJKA0HOqOCx3adaNwL8DVxkviekGbioFy3r8I29kXWJhqP102VAWsCOsfTnTISaXXFSa+LzrIwYThno5iQKxwZ7k2qEEmbC8tU0mmO/b9D5mxIz44L1/Pd4/eBvEoEZXGsBT2oNbY3w/VmCugwg0U5lLWjpZJ1zXyTYjXG2nJLAZH49RFtRpxtUn4KBdPWA4UCC7H6jaWnrFKJN5oH2edOwpOhF5ZYi9UZ2YoPDdR0Tpm8DSUnQCLXkU1KegYI1dNfHkdb9CTuh3KAu9Py5EBU=;46OuPIQgCq5NFDKF3kAmng=="
+secured: "3/c0lu74/tECsipJfXudAhnnpe1ba+d/9LGSwAdpVSXNding55Kg/GucHObQLATa5wISrjsDlWpBzz0OhcZuMcwufhmo98FUlZCT0qMaT0uNJXMqhpEppnLCRpDk3hxZqxWJzV8pN2+W+hGUrucLx4aPsd72kT2EiBNhF+pgWf/1OyBhdE0r9e7FPajIZdrnMk+dg2tH81s9a5K9t8bWhJYaHL7FZm+QfURr+TX2V4Ir5v0srGYevtBxpBbuwHNGacFT8L7k8NIBbNpNeKfdRCjatKlubKI8jopp9hzsmD4=;1cT+1vr1Y7DZdSPeSj4uxw=="
 ---
 

@@ -155,6 +155,19 @@ related:
       - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao
         width: 470
         height: 246
+  - title: "How to Invest in Self-Driving Car Stocks"
+    excerpt: "Amazingly, breakthroughs in related technology such as artificial intelligence and the internet of things make autonomous vehicles a reality. Or at least, they will be much more of a reality in very short order. Let’s break down further what, exactly, goes into driverless car technology. The task of autonomous driving is accomplished with a ..."
+    publishedDateTime: 2020-01-17T11:14:00Z
+    sourceUrl: https://investmentu.com/self-driving-car-stocks/
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 24
+    images:
+      - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
+        width: 730
+        height: 467
   - title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
     excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
     publishedDateTime: 2020-01-16T00:00:00Z

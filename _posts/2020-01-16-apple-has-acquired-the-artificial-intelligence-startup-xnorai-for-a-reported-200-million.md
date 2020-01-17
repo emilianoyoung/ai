@@ -139,19 +139,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 37
-  - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
-    excerpt: "Editor's note: This story is available as a result of a content partnership with the Financial Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription."
-    publishedDateTime: 2020-01-16T11:55:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/16/hey-siri-why-did-apple-pay-200m-for-an-ai-start-up.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
-    images:
-      - url: https://media.bizj.us/view/img/11447466/1-apple-launch-51-091019*1200xx5359-3014-0-264.jpg
-        width: 1200
-        height: 674
   - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
     excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
     publishedDateTime: 2020-01-16T11:29:00Z
@@ -171,6 +158,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "KZTfH+fTbnohrhYeUaUItye9YlFO+UetSu5+yI5l4eBKZUY9+mCD6ceXFliUxOiWZvvxAKJBXHJdlF+MGl/NYCc2w9wcjPRA4HfEgIAqGAnWzDs872J4Yc1wVvJ5uU2P+7NzObupjP8VT96F5ukyh7cvSiac6ALxbzXhabLdAaPJJS9KOzAVNpNwkS5i+nvTaLBFoGT+zCL3CY67duQdafauthzv8gpkSqM2fL7wNs2SWEEgmwjZDYUFl+UoMasqk5M6ySL+t07TVaqUQHW/i/ABiSBmk00BFyBpNp7P9k7q/S5HIlWJnQmQ9hCr5DcXo2Ft+sf7u8srQCWDfiwtyV2jV9ZKMr4oRAMbWuuugfatHOj1+z0GNt6Ci1F0wBI1L3u6vw0NvtfwYvYZzXbrYyLtzkp9SzA6ZRIIVgh4ZpSS/PcPANOb7pO3shhfW33zNet0xEijlIjMPrPTCX+Clg==;6QjdBQzgOAlYNoOmDcu9HQ=="
+secured: "WFlFHHqVAVpl/XwksDQFr/kgDmHOsEgCInI9NBf400dNgv3eAoF7Z2tteK/kxBxSsyhYFL/h1Ldh4e7Zrtqvqix19SAk+S10JBFwUKjeKrq76kjytktMdkfeF8ytHyIpIRnKKrQhh0/4U6oREtPXDcpBmS3jeM9VWkpW7V8iF3INHGNIp86y5AttU1Ojm1wPUILFcMOHNXpyoPXsKbDoRY8Vjc6DuNV+cEeH0r4BdQRFIOE23L0GfVL/R3YXdfEWYwDtbugol/Bx76NtKOjhpHsSbCweotZW0NzEWctID74=;7/Ayr2QljVSH8RZ9XLJZcg=="
 ---
 

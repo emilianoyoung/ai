@@ -1,27 +1,21 @@
 ---
 category: news
-title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
-excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
-publishedDateTime: 2020-01-17T00:32:00Z
-sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
+title: "How Facial Recognition Market will Grow at Highest CAGR"
+excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
+publishedDateTime: 2020-01-17T10:28:00Z
+sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
 type: article
-quality: 31
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
-    width: 304
-    height: 430
-    title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -367,6 +361,19 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
         width: 400
         height: 400
+  - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
+    excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
+    publishedDateTime: 2020-01-17T00:32:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
   - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
     excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
     publishedDateTime: 2020-01-15T13:49:00Z
@@ -421,15 +428,6 @@ related:
       - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
         width: 252
         height: 335
-  - title: "How Facial Recognition Market will Grow at Highest CAGR"
-    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
-    publishedDateTime: 2020-01-17T10:28:00Z
-    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
     excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
     publishedDateTime: 2020-01-15T23:00:00Z
@@ -451,6 +449,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "kpG2iONXi6iQnUPBS8SWhh1o8C111GVb3xYIGYnqp4sAKM6qyaZdAan6x8d+vjPZjBtme3fwcyxRVLIPZAJqt1kgpZ6Y5Brf7SDdayQVu3hRH/UMrOuR4Y7Qm9wqFbTIsLX4GGLDYLJiRQozvygtZ3pApvnBdrKJfiSom4rFv4E18PehhCDjTFfGmaX5O4w1HhOSfI21FsHGXHrDyHk+pxrdnDqzPFQeeC0U7Q7Di0kIrCp5QdrVY9nneIXLgJGYpbLTwSSadWa4jvmGtA7gUq7mFKnOpciKdALIotPlTO7A+9vJEfvQg7Fn41TocRYz5hbqRVyjYnUOtUz+dgCNGN89L4U6P9Ba/nYN+9xnZtPMXxwZqyc8Ds4+7Xta2ETwEYNyJVIbR9zLXv3X6d8kbmHtJDfkbHGlXRkMTi5KqJmxOkPP9WI38pqnGjd4VKHfVc/Tg5cXZtg8UXmweBwl9g==;2Ff6dMkHCcS457bOehr/jg=="
+secured: "VuEC5PzFuja5k+1SxFaN0VTcpckOonhqUYFY20dLw4BYkvWJdfjKK8Zezgv3xIqN6OdaEiM9f77TB6qvhLBSFbGrMRyjB/p2cYpE3CR5dw7TfRGFfzfOXcmy5221rDICs9qla0bNSRKMjQTNCrPfLw8zcJ2/CJWZKi+NsUplTQP91c8Pb6e7rQPNd5I7RfgrL7alfJHNZcslMUUpcm+aiIXwS3eFvOlS+DV/nW+QGh67eA+7crS9zVPCupkyUjynNJNCo5177X0YXNyyV+83mG2CYCQOXMAhQwf+A/VRASc=;B/yB973P2VPYYE52pa1pEA=="
 ---
 

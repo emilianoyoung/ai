@@ -146,6 +146,19 @@ related:
       - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao
         width: 470
         height: 246
+  - title: "How to Invest in Self-Driving Car Stocks"
+    excerpt: "Amazingly, breakthroughs in related technology such as artificial intelligence and the internet of things make autonomous vehicles a reality. Or at least, they will be much more of a reality in very short order. Let’s break down further what, exactly, goes into driverless car technology. The task of autonomous driving is accomplished with a ..."
+    publishedDateTime: 2020-01-17T11:14:00Z
+    sourceUrl: https://investmentu.com/self-driving-car-stocks/
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 24
+    images:
+      - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
+        width: 730
+        height: 467
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
     publishedDateTime: 2020-01-13T00:35:00Z
