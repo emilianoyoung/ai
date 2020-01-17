@@ -129,6 +129,21 @@ related:
       - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
         width: 1200
         height: 630
+  - title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
+    excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
+    publishedDateTime: 2020-01-17T21:48:00Z
+    sourceUrl: https://www.theregister.co.uk/2020/01/17/eu_ban_facial_recognition/
+    ampUrl: https://www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 43
+    images:
+      - url: https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg
+        width: 1000
+        height: 527
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z

@@ -2,18 +2,22 @@
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
 excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T13:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
+publishedDateTime: 2020-01-17T12:08:00Z
+sourceUrl: https://www.bbc.com/news/technology-51148501
+ampUrl: https://www.bbc.com/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -550,6 +554,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "Xcf2en7ost0P8tRwQLLKjOQ4bKKHexYcIO6gAyZzDLTy4fz1zjagjAmVbm8dFoYWIceutSLPWn7EqsHxCLEx4Vb7mRObCGNkmmVtfzcGNFFRd7J0nHgQQsk6i/M19fNrF2zJYuXSwxn15k1ZmNqCRfwVXCaULtax/U3Z3y0jDhBtGA9IeClFAZcGN7UuQrK7NptO4BP0Weth3k0ig4T2oos4n4IdWcf10uWb1tF63bPWNJhL5I20bmGliq2wubDE0WUGj5/fAlNX2c+v0kkdOt4CsY+m+aQBYmPh+D8JaQo=;AT/PyYZ9XpYfn+LRJzwANw=="
+secured: "2HMeeubWokzFXAvxTXVmO6li0hDMW4GdlhEboud7p9OHq48GNfvBLdIJDSmkbI9xcX9Snt/8r6hYOdbQOwtdm2WVlzNAU2ZPxAjkpVUVb/45w5lGdz2nUP66n3r1m5MYDjJgr0/d06vM0AVdqgfO/Vl9Tbofe41BGxiUGfFFwz+Wefle0XDMqjmt4u5zGclXAXwfCwd/ac8iQvv3BpgtbNhB5BIGwIUqY0f0xkzhMn8B6r8/F2lyQoVBsyAkUAJ3kh+gQn3Kb/fr0tTsdE39QyZGw7n9ZcWpyYWtgXXlKGM=;qA5IjiVhABDTz07KRSoGqQ=="
 ---
 

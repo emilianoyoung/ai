@@ -2,13 +2,11 @@
 category: news
 title: "Nations dawdle on agreeing rules to control 'killer robots' in future wars"
 excerpt: "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,"
-publishedDateTime: 2020-01-17T11:39:00Z
-sourceUrl: https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZG151
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151
+publishedDateTime: 2020-01-17T10:59:00Z
+sourceUrl: https://af.reuters.com/article/commoditiesNews/idAFL4N29I24J
 type: article
-quality: 87
-heat: 107
+quality: 67
+heat: 87
 published: true
 
 provider:
@@ -24,7 +22,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+  - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
     width: 1200
     height: 630
     title: "Nations dawdle on agreeing rules to control 'killer robots' in future wars"
@@ -59,6 +57,6 @@ related:
         width: 1200
         height: 630
 
-secured: "hxHUNGdQeIPVXuDDhmgqtVkfMr6nzkD44pa2fWmK4QOnl7Kc0eQusL7E3ZicY4cArbRV2B/RNnlHg8KyUWgcnFulzxfwZm0ALayhCiny5MXCZ4ILZ1EdNdvngLKK7wHINCrveI9L1RZcme0JIsSCFYMk16b7s+npy19m5v+GHptwPH4unEaE4YJrwbPckreGdNs6CgpRrT+U1OPwNR2yGY0SODdfI8WERCaWOUkr9RnbiB5pQKbVHiiy2WeaCTg4+bkvK+/CnKZFZKNO2N2rZ/3AlW6yAGGfzgEY19iAcQ8=;90dZw8Wrjqv0VUXEHNNsOw=="
+secured: "0KWcUswbcoYkv0bVSJL2NLrCRKUveVT0oTCOHpK/Oa+40aHW9jtZRothw+CQBEjyG8H8X24a/u41/vWuXVegKY6qcdg5E/D3ZFR57PBtUoXlfVrolkz6Tb2hkneXffBgsW4h+9XnRUplySQZJAo5YdZ5ZWktSh4XJSVwkyZ+gLUk1XxVYgO+bKkQLFFENEa2Y3Viq81e5GLqmAL97FvY0S70aP+jhMH7DNwhF++TrjRp/80kGfF5LHCLUqb21TS/dWsAyJ2CcbA85mkHVkM+hXODxYfl1IZX3+I4veWQ5kQ=;D+qBEZPy5ppOMJjtE872rw=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 500
     title: "Ethical AI is Built On Transparency, Accountability and Trust"
 
-secured: "V5jLEJ5Tri5bu457qL6/tIsM3qCNZOLMCW0Vj41KwsTl8kUk/+/FWpjJXCbKKSoUYu79F+GZB5WwWqMZ3hx2WPfMukWg23X+VvjB/J01tLUIYg2we9ycdHzIfsA4nlz3dctgSnAQxssTFAL7DT+gXPUsYUczmeaNgvhr3o4uBoFHRjnw2S/x/zqc7tOFYgINFH7ykquEWDbA1wauesnIqz4x7/QUyoGALm2LeYANF0+E6Zg93iFRPZaBiA2aHgDJIXDOPVh1h9sVu6akQRQmAsdvZvNa63JN+zyyv3hzQ9Q=;BcS6k2o7OoPMsYGcjNQRuA=="
+secured: "aLqPQuCqdiAiyjL28/K8jCLlOT3pJLof9dyzkx9C9HflGHDtFmMKJt406ynBGhDKRW4HREO+h8fR3riDb1Pe6/bBPS8r9PvCCgehBUede2wN+gkyJmSEvWkEAc9CxzNbP0W9shdx+Z3E1s4IUoYQFrZgGqZGQ+PREfsg50xdlw27q1bhrFdIcMd4nsUHiHEkAOMPzdRQI8pa2W7awwv7OvafkYVTLGj5SAuCofPMJJAlKRCQfVX7jOpkRmbQ+VOjONu/iUsPO+GL9vcE4icB8ibVXfxqsQkc0PadKfQOmOcXmqmwxvnSUJ+dfHY3+zFpPxV1vWg4JGKOdRECi8Zrgb5YeKORhztHpIiVc9nOD+2HFQO84ffSEJvjR90H2/PgvNv+HHobasdRNcljju0e3R9NeTKbTa+1rHGAKVZ/KxttGqMlXJ39Ss97Qg2NPbPQxvPaQlG+dcmQrrctTMLx7Q==;8Aj29rm2UZuTARTSUyXqQw=="
 ---
 

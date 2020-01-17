@@ -56,6 +56,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/amQzI-xYD7xjc4Nq8Frs_M6vOd0=/2018/10/15/0d11de19-7f2c-4b3a-b33c-ceddafa9d20b/hyundai-kona-electric-ogi.jpg
         width: 1200
         height: 630
+  - title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
+    excerpt: "Cruise co-founder and CTO Kyle Vogt said Friday that disengagement reports released annually by California regulators are not a proxy for the commercial readiness or safety of self-driving cars. Vogt, in a lengthy post on Medium, called for a new metric to determine whether an autonomous vehicle is ready for commercial deployment. The post ..."
+    publishedDateTime: 2020-01-17T21:35:00Z
+    sourceUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/
+    ampUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
+        width: 1024
+        height: 576
   - title: "The AI that allows self-driving cars to ‘see’ around corners"
     excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
     publishedDateTime: 2020-01-16T15:00:00Z

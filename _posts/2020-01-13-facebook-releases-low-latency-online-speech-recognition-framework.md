@@ -31,6 +31,19 @@ images:
     title: "Facebook releases low-latency online speech recognition framework"
 
 related:
+  - title: "Facebook Releases Open Source Speech Recognition Platform"
+    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
+    publishedDateTime: 2020-01-16T01:03:00Z
+    sourceUrl: https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 41
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
   - title: "Choose a speech recognition mode"
     excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
     publishedDateTime: 2020-01-14T23:12:00Z
@@ -57,19 +70,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Facebook Releases Open Source Speech Recognition Platform"
-    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
-    publishedDateTime: 2020-01-16T01:03:00Z
-    sourceUrl: https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
   - title: "Speech and Voice Recognition Market"
     excerpt: "The advent of advanced technologies in diverse industries such as healthcare, banking, medicine, and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
     publishedDateTime: 2020-01-16T03:46:00Z

@@ -129,6 +129,21 @@ related:
       - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
         width: 600
         height: 271
+  - title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
+    excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
+    publishedDateTime: 2020-01-17T21:48:00Z
+    sourceUrl: https://www.theregister.co.uk/2020/01/17/eu_ban_facial_recognition/
+    ampUrl: https://www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 43
+    images:
+      - url: https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg
+        width: 1000
+        height: 527
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z
@@ -171,6 +186,6 @@ related:
         width: 768
         height: 432
 
-secured: "9QGRPnRNkaOQVjCnaM6lmqlE02Ed/iz68pTaFzMGE+VTi8GmrvgE14y2cdC2CYn/34nnoY6rpEijpJOlua3cingvvVdkQgqwCFF823epoqYAz3LLYMYCKRESLrk1fT4AZfX7pG47piwR0R8Oc2qwVaXsWic0STbteZRWhU7Y8kyH2BVjdhQ2WGm0CgUoaKTyXiynojvCHXv1DMHfdLTpdVrUNFWTKGE2+iiRXNvbAzyP2NNvTro9HRRh9gEw9pVVy6Hkp5MJYXfWKFGNetl5qkYxUlUqv8JWLIRSOr3etjc=;1DT01Om/pQ0h/KGdGixOzQ=="
+secured: "IwBh7FfjaN6SRrKKJtg901X2JuyV80Mi6LDIYQZrFhtXgI/rK2npvwjJ2IRv6FLWb+jG6w5z5dJ1BtKro8CaaRrX8M9DDpMTmLUzvHWi4lBHLCrOy4YVD1dO/rFoj7Aqpjrpn66Nylf/gTMusl0YXhPZ2ouqJd2AxJEFO63eY7VFGWU1nfPEyYgExjzSIg9zv/tM8WL696DeJm2qfelOupyMNT8ieGAyn+RyEYfzZS9MkoecTyz61zdgx+Vd3yLO9ponWGm/CmaJzUogXckJVSQ/lg8iNVQY9l0v0EIwdirp5D+MguzLGarBZPPLbViZ8gtvWluaylJBUNwQpSPxjE2tvvixRbyiqeOH7ZXCmvujecUYS9cSH5pWfJuLnmjLRBPHqeZxNhRVsj7kxWwg9iUaoHUhgNTRUuZ99i5jYKpQ6reyAcHOqeoxCa8Cgt2n+dIAC3YZ/mqSGpd3hcvByQ==;zSqpOmKUAr1XZSBFnXTnqQ=="
 ---
 

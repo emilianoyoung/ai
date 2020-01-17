@@ -1,21 +1,33 @@
 ---
 category: news
-title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
-excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
-publishedDateTime: 2020-01-17T14:36:00Z
-sourceUrl: https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players
+title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
+excerpt: "Cruise co-founder and CTO Kyle Vogt said Friday that disengagement reports released annually by California regulators are not a proxy for the commercial readiness or safety of self-driving cars. Vogt, in a lengthy post on Medium, called for a new metric to determine whether an autonomous vehicle is ready for commercial deployment. The post ..."
+publishedDateTime: 2020-01-17T21:35:00Z
+sourceUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/
+ampUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
 type: article
-quality: 0
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
+    width: 1024
+    height: 576
+    title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
 
 related:
   - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
@@ -48,21 +60,6 @@ related:
       - url: https://cnet2.cbsistatic.com/img/amQzI-xYD7xjc4Nq8Frs_M6vOd0=/2018/10/15/0d11de19-7f2c-4b3a-b33c-ceddafa9d20b/hyundai-kona-electric-ogi.jpg
         width: 1200
         height: 630
-  - title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
-    excerpt: "Cruise co-founder and CTO Kyle Vogt said Friday that disengagement reports released annually by California regulators are not a proxy for the commercial readiness or safety of self-driving cars. Vogt, in a lengthy post on Medium, called for a new metric to determine whether an autonomous vehicle is ready for commercial deployment. The post ..."
-    publishedDateTime: 2020-01-17T21:35:00Z
-    sourceUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/
-    ampUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
-        width: 1024
-        height: 576
   - title: "The AI that allows self-driving cars to ‘see’ around corners"
     excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
     publishedDateTime: 2020-01-16T15:00:00Z
@@ -203,7 +200,16 @@ related:
       - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
         width: 480
         height: 360
+  - title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-17T14:36:00Z
+    sourceUrl: https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
-secured: "ZX6wS4/maCUk1yqem+F5M6rhOHiwghHRWIXwPDy6H0xQE/TLS4BbEKoZdxornJdjF2iBz2Z/51/7OY0XlkYEFXsI2O16Lvuwlq43X5U7pWCE4SkkAqF5FrVsxSqPNTzm04SSxZc9VpyP0ci7sq6v+hZO30A3C+rs0VjFOwgruiHC/kbrwEIFh2A+T4nVTXfuvJA4RfDnKxJy8l2xjiMEDz6UUF9LyAIEUQeU+7AITJJgz+4fq9ojsmU2ePL4g/Ar+AonD5EQ/BX3ircaV/uUBxFR/Tbcol02DSXgf5k6s8Q=;8uVKE5w9Uw/SsyA/FO7GkA=="
+secured: "5+BeB0FB1cU8HPjmuqCBiC0kAuLZdV5MiT82klKn3poz3Cm7y2e9Q7CFLDhljaAYcey8pwTdxCepQ/ObMhI564R/0CbIz+5zCw+44BVByVSMO4g0/okSSJgUzQ9ak11+gbhxJKCK75T0k/jT91rPIfteBs9JTKkmR/sC8Z2/mQ7UnX+3+4qsKVvgL5vQvivo0u5eLnOGRcOMCZD93HDZTfo55pKNnO9dMPsX+B94CsiRqgGA0awXkcAJYW0h7mAXkT7dVwQpY+y/O+OrU4nhbVFvx699Dl6vYak/N7WoT/0=;q2/vFu/r1WN9g4HKnLIwJg=="
 ---
 

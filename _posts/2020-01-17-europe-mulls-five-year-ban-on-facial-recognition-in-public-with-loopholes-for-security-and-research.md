@@ -1,27 +1,29 @@
 ---
 category: news
-title: "The EU might ban facial recognition in public for five years"
-excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
-publishedDateTime: 2020-01-17T16:57:00Z
-sourceUrl: https://www.technologyreview.com/f/615068/facial-recognition-european-union-temporary-ban-privacy-ethics-regulation/
+title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
+excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
+publishedDateTime: 2020-01-17T21:48:00Z
+sourceUrl: https://www.theregister.co.uk/2020/01/17/eu_ban_facial_recognition/
+ampUrl: https://www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
+cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: The Register
+  domain: theregister.co.uk
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
-    width: 768
-    height: 432
-    title: "The EU might ban facial recognition in public for five years"
+  - url: https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg
+    width: 1000
+    height: 527
+    title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
@@ -142,21 +144,6 @@ related:
       - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
         width: 600
         height: 271
-  - title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
-    excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
-    publishedDateTime: 2020-01-17T21:48:00Z
-    sourceUrl: https://www.theregister.co.uk/2020/01/17/eu_ban_facial_recognition/
-    ampUrl: https://www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/17/eu_ban_facial_recognition/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 43
-    images:
-      - url: https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg
-        width: 1000
-        height: 527
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z
@@ -185,7 +172,20 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/18/russian-internet-search-engine-and-news-aggregator-yandex.jpg
         width: 1024
         height: 708
+  - title: "The EU might ban facial recognition in public for five years"
+    excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
+    publishedDateTime: 2020-01-17T16:57:00Z
+    sourceUrl: https://www.technologyreview.com/f/615068/facial-recognition-european-union-temporary-ban-privacy-ethics-regulation/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 39
+    images:
+      - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
+        width: 768
+        height: 432
 
-secured: "dMuNlGCX04BQoHc64ca3nsEol5bGdb15jNMgFS0NXeU2GREHRgJ8aVZapsiVrF4beEz/xKV/3oLnQ/JK1SE7Y66WsaDRIfMrNdTuJwlRIXU9v/8Tfw+8DsJI4GcCnTRLzppIrmPQS/1+gnZ2ezK5BNdr2tAlXY63etmZwTciCyOkRpysnd5/cWpszd0lnQd2RTW43xoJ4fhFPvteT1KPjekpU1sFcE/2atU/nuLOCMi1QUpOp6YzIOWWYO2CH8lBkM1MpfIcTyRPYLsXIYGo2rZQQlrm0Zw8z0ySY3NhRXu/AxeWUku9PhbvodqTk3VVSEoHlLSlbphGl2xfUfbhCqYNiI/7MtmiP2z1+VQCDDSQQn5AdcyCUB41xk/u1CgxbZEJMw1kfinMhYTohWMk7QVLMJ7fDynfWen3fWZjRJQXu/GbZ0UrIIGwREkzcs/ok73XoUofuOEaXdAHhA/I/g==;N89wD8nh5mG4qQFJHm29WQ=="
+secured: "sJjyRGg5RXlSL1O1JKHnpfJkS0r3GcZbGzfvrF2+COURv2q8+AUL3ejwszFEVnohaYI7wx49lKw4JUHZ2eh5DlqQnLnFYC8IoXKV69t5Y4CzmS6jBQcnzh2sZmu2QmJabDlXiNzr529mW+v0ka458+L8KZGZtDkGNcy7IA2QEZDd9wWoKX0uqDXGA2T/gUv7PU23mgSTcReH8BorwCj5gO0f7ofdYl/ZHpKaRvCDl7fNuZEQyMXlMNMEZ906BSi53f+bo4RQPPDPABhdFNhQKoJ/iwA0wrl5Fwn4+L+MZIU=;2LVcfgukGDFsq8j/zh5YDA=="
 ---
 

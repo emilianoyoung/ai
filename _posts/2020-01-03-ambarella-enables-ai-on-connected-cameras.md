@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T16:10:00Z
 sourceUrl: https://www.businessghana.com/site/news/Technology/203582/Ambarella-Enables-AI-on-Connected-Cameras
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,14 +25,18 @@ images:
 
 related:
   - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-    excerpt: "Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on ..."
-    publishedDateTime: 2020-01-02T10:03:00Z
-    sourceUrl: https://www.wallstreet-online.de/nachricht/12025814-ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/all
+    excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on ..."
+    publishedDateTime: 2020-01-02T10:04:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
     type: article
     provider:
-      name: wallstreet
-      domain: wallstreet-online.de
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "qmKlygiUMr/5z896cU/z4QDzlZP0sowLGsxnIHVlB7O0p7aPA7hH95ColSXiK7rZ6+FK5mwFafKRy04NwzQuaVC5iRhIL2xU0oQFHWM7R52feAzWYnqKH66agJoLqEeCjkyu9z4+XTgmks8gfE14TlB6uGxGqBBSYuCPrlXgwGpvSr3HdXWdEf7Sak2rx8SAYnSGdZuQQs6jslOwtbbMwqoylMM7iZ/OqmZsZjKnPtoxweDoB0+2rMQFGKe/XAu3VNQY4wtaRaUoNIu6P24rWLMR/H+JmExCtsTNIYEHLmQ=;9N4PIgZxG3pVhKcLCoRsRA=="
 ---

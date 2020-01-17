@@ -5,7 +5,7 @@ excerpt: "The framework was developed by Facebook AI Research (FAIR), which clai
 publishedDateTime: 2020-01-16T01:03:00Z
 sourceUrl: https://mobileidworld.com/facebook-releases-open-source-speech-recognition-platform-011505/
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg

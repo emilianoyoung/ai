@@ -17,6 +17,17 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "RCZXkzy5Ku24yvnpIgDOLM/gF7LvWL19vYwxGEAmpS2bfEDVxQKM4QzQ/HbmEAw+ljTgWMH7PHiN20fdugg2rBuc12vr+B32rqNikRWHcN1Kyd37L8pJyacEZ8rATc/94OwbL/x62cQFxD05i6ngmonU7PXzCQZ4kYpbsxI/Va73lNl8mcdLB6WgGPNJX18pzaFyjoPkwh+50yZemg0xD0/tfYP9wAlETEnusgy+4OyOiIvJsImKIHgXnMUADe2IDJiWKkACCgRTy/noVV8hUahZ3AGwdPZlSd7NK/qwh7M=;/EhYxZcoaTrdc7XBJCwdRA=="
+related:
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-18T01:07:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-global-machine-translation-market-at-a-cagr-of-over/article_f028e5aa-dc0c-5577-930d-693d92c9e430.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+
+secured: "jFajfDVvxKaIPyPU1p3p78NLoTppbV8XjpptHu2pHPcbCYaRzFD8qvmte0zLYZ4QyX/Xc3jY+iTKKhcAB5yVZmIGidC+QeAkHU7CJuyEx6k9e2OwvDtY+kIt9ahqURcLWUpFV7oTRTxiD8ehIxAH4TqTqfstvD5hZG9cxc3GXnGYHFJWGgi033Q3kad6yT2kYXtCffHf51HZ6aw0pJsTUz+V0NcxsktvT23af+SODZU4m18PRXQ/VkXbm3Omi16EAzb/+iYay37FITEzr7uwam91wIThuwtp6XbKe9VFOhc=;lHhB9TQBV2BLQTf5QpFPfQ=="
 ---
 

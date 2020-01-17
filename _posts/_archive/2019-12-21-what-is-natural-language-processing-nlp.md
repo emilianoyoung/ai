@@ -40,6 +40,6 @@ related:
       domain: infoq.com
     quality: 19
 
-secured: "F3oxNOhZ8TfIQoN4hLvc6/ypgBUvxWxnZYZsIfUyzPbuXkM8o2MYBaQvwZG/Y3tIMC3/uCUdqKwqKXIkZk4qIQ1E4n0kRbL7Zcxsujs9bLfzvAC4AGnxvBXDbhLVed0ePUc5BMN1Hb2G9JZ3m5ximlBHxhoQLveqbxwdzaRST5o6CipxZdatAg6RnYS6uM+aYU7iv6H4PxIW1E5aSsNUMxX66XQbb1Vl82X6BBqZD3I7DTiZFgosukOkinJK4nJAp15mWt5MycGPs0ZwUkHerrwjWQwldxUK222690Zu8l8=;zH8557FAvxZS0Mnh/QJfOQ=="
+secured: "7FYIG7d4OB0nrJNmfTSJ0l4KcJRcfXBXpIRR5DZQmXjq1uXDjHk9sQnasV/dFtAclZuPNDMOA2JInyqUPBjcv1KxcC2AJ4rLHnBdao/oDsSQl3M5KDp28Mcd3oeuLoI1Fo+g4hb+glo3DgtMOJJm4GycuROvcfuvasYn5ZSF/GwKcSQxpj1d+f4TAfsBt+zy/ZE5/rAJ0gKNmYQIn4SUPQIYieKhd0wfkHU+15Id+fRhaUQkcBobYD2KOXp81YSUSYCjQTq8wcQlGKCXMXhoOjZSzx9XhoDp6MCUW5odCC8=;XwL3/ERXFxq4Hf3+PfigOg=="
 ---
 
