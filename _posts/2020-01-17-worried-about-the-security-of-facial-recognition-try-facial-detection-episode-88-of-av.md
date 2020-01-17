@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Philadelphia International Kicks Off Facial Recognition Pilot"
-excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
-publishedDateTime: 2020-01-16T21:03:00Z
-sourceUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html
-ampUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
-cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
+excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
+publishedDateTime: 2020-01-17T22:05:00Z
+sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
 type: article
-quality: 59
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: Commercial Integrator
+  domain: commercialintegrator.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
-    width: 1029
-    height: 630
-    title: "Philadelphia International Kicks Off Facial Recognition Pilot"
+  - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
+    width: 1202
+    height: 656
+    title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -196,6 +194,21 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
         width: 987
         height: 554
+  - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
+    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
+    publishedDateTime: 2020-01-16T21:03:00Z
+    sourceUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html
+    ampUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
+        width: 1029
+        height: 630
   - title: "UK police use of facial recognition tests public's tolerance"
     excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s ..."
     publishedDateTime: 2020-01-16T10:16:00Z
@@ -466,19 +479,6 @@ related:
       - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
         width: 304
         height: 430
-  - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
-    excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
-    publishedDateTime: 2020-01-17T22:05:00Z
-    sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 30
-    images:
-      - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
-        width: 1202
-        height: 656
   - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
     excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
     publishedDateTime: 2020-01-15T13:49:00Z
@@ -563,6 +563,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "65n785iOPuaCZsaVBH8Ffic2ELvnUG4NwTXG/h0f6fI7lTJ8mzp46HDbRIJnJFWwiwxYWHRaFWzLX5nTg9iksbS7qXCdd6Y3OfcQjgBnPYv7IV0F0Xm0CddEkg5SacvMi+MxKV/ePfjP3NXjGe3ChzaCN81jnTDxUC0kZBCY55DMXvz5miHwEuMKfryfo2EjM78JF/8xqSztm6SzmhTBpto48pzLdRPSPtb85VXLhRRLXN0TuDMGErOzALQ3xfX8I3vhV6CU3sEwFU6W32m3/iVBwNxx1CIE+mwYD0FFTiM=;y9P3kCQTEJANk/L4EU/EoQ=="
+secured: "EWan26gcF6osU6PZ9eD/yi+ZWaLdDhT1SBbSiEDClpUw8csnfmWhbOXYBVrB70laDHNSBGrbPZZzUDcMkwYX7ZJzZ+lwJ2GkAeSSMg4Eo3rgV1YgWXaM8KxKJ+fLdNIMLdZCVBHmtfHR/7Vnbj5+1s3gvhqMqwNajZSYa4enYcPb8pEFIRU1HX2gbDb8/aIQkljllNy7sK360xdk8fzD/tuti+dvWQmX+2ZAWmqInVu4iGb4hyChFkvwTbjDV8LwLJBCrL5h/ARxeL5nWYreAR7MS5y9iP2VpUnbDQACN5U=;2JmlnyCbNJGtYQPRv5rQXQ=="
 ---
 

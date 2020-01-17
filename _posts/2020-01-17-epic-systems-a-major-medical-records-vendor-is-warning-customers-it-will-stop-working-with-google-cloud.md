@@ -29,6 +29,6 @@ images:
     height: 2003
     title: "Epic Systems, a major medical records vendor, is warning customers it will stop working with Google Cloud"
 
-secured: "8UCwuZhD4b+CJJTiq9djK9YnegSN9ZOv10Ds2xmmx0fVTrvOSjgG6isod+s14/LvX8DEzQH7mvLZMp2xGuuev5+fKxUmYSEI+Cw4HdW8atVKgr/Fg2QXAjDPo3IgUIAIUBU2AP97zX4ROxnqGah2kHOpyPtweU5NMYO0IhEWVsU4m0xryBxs8g6H2Lw+48cLQWIsiMvpbPKnIJmFLCy4Xd3TAyoJ2i1L66P78whfUaxudtPx6xqn/IpMSMMEyHAGqo77I2aYdssfEZALj/HE7V8yc7yEyN4FJRHmo4YiPBE=;9tg9R/QgfttpvAtv8Ovg5A=="
+secured: "1pOmv10s2cuQ5KyexWgoxrCczjkCZD5ElICpRNwAffshs9R/Q6BdhV3/dfMFGvUexbgz39P6FufjfxN1gfjqSDR2E0GU2Dng18/7yrAsko6OI3Jc94mm5E6Cq8THyrl/FbLfE25wCFNkSQHaCfMkM6krWcLWWpzqm2sfZVaJAJbjHZfFDB+lAEDrRxxZteXy+F0p4umXiUzOhVffieDxr+0y1RZAAJIKCaA0Hjo7kJCDJsyH5EqOsz/RuaqZ62ugZDERDnjWSoLXUZ+htabeDwfQD/Q/1weyxLOgOJCZHhVerTIWbH8T0/pclnVUMh/4q/ezOiCr3ejrvkGo5efhzA8233e4DdN5eMrmLMLimGREN/xD/H4sm1mM422rWyqsiay+BU0Nl4ITAn9/+pFQ2asdGtzSQiBfNfexRc3QShfwKW1PcbABgQzmu1SaX6JNCAPo1ns8xkA2B/MdPXXDAg==;bt03Z2xl1vzj0z3ZpsI/ig=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-20T00:00:00Z
 sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: SecuriMetrics HIIDE
@@ -23,6 +23,23 @@ images:
     height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
-secured: "IJo7mRzv8t4Baca9cTxR+bYb9m4Ba6TmcmzDhfdrz/jXmy01NxpfoxeDWNH4aQBpgYxwjrRvaJS45fqkc5V1eequ1XBZtWZ/L6wwwXwMapLRo6t0NCprVddGw5E6vuF9Y97DahAaskPendsyKgqDT+RZ0oZSAK1tFGCNfmMxE1bdiK6gV6qFZIU78fWouEckE935DBbM4lnobNrniePdvZbUSGrf355DbRFbR6IC+y+g7iCFRnVHaaDfsmJlb0/aeVfxVr5Cz0qcvFSDf9fz+hYy/csCguVqn+1SsZx5skk=;somz/saZ2ANgrSCqiN+LQg=="
+related:
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 31
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--fhLjKD68--/f_auto/p2xfzifpd4u2ghg5oz63.jpg
+        width: 594
+        height: 396
+
+secured: "ZlimO6Q9gxkZP2kq3wrvau6RbO8pVdwNY34jp40Ij0zoRi+DrSWS+uDN+9v7Xad9oAJL5BdYhXklyX8Nk1KSowQPt5Rt+PNNCOfFs9b5epWNvgnXrZ26UE8d6b91vUTMcL19FMI9Oh8If+rMbC+S+E7eTAJEmd2bEB6cODu33NrzosfQX5SInufklHEFP93FO250rxCZDb/4+KOx3x/YTet/laqbwhQYs98kLPoZnVU91HQUMGrmGPytxNdgEbgHClYEPf2DcnUTVKko3OKMrzIUgbk2ZTGjG3K05/IpGb0=;2gpc55tQkywOZF4kRo+uFQ=="
 ---
 

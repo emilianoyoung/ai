@@ -1,32 +1,28 @@
 ---
 category: news
 title: "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference"
-excerpt: "AVRA Medical Robotics, Inc. (the \"Company\") (otcqb:AVMR), a medical software and artificial intelligence company that is in the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence,"
-publishedDateTime: 2020-01-17T17:10:00Z
-sourceUrl: https://www.marketwatch.com/press-release/avra-medical-robotics-attends-jp-morgan-healthcare-conference-2020-01-17
+excerpt: "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ..."
+publishedDateTime: 2020-01-17T22:16:00Z
+sourceUrl: https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Associated Press News
+  domain: apnews.com
 
 topics:
   - AI
-  - AI in Robotics
+  - AI in Healthcare
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
+  - url: https://apnews.com/images/PaidContent3.png
+    width: 700
+    height: 450
     title: "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference"
 
-secured: "YdwMcXZHVQIQ3mP+ASvcsYuhcD313kjToHwtlUdVXwPC4ohMyHzCOkafs0Nclanvf6o4fW2+bMNpUYfUB8mLjBKIm1DJCNSaKvw57H0OnpQR+6G1Qtl1AMyDZeCVCWgXSgDRinYoQlpJznKbwoEwXFcYthaGU+rfPhSzD2wvV92sUdpQtVK1Xj2DDQZCxgTNpYBbSjEAzn4fA1w6A8MS14s7uNuzq6SNYeREkEAM8Ha+M6NozO1F72X09/wJfRJ5iymahyPKh8CT/M6z3BVAyuZ4TQ3srRmsmpiNajZA23s=;iKNLUUA7lzKHRPCiBB1xYw=="
+secured: "yX1umpYAPppkrJW6xixtrDoCSaDKRiTJPrIukIx4NA3S6mv2MHB+D0YEqgV3qhUhcphEJD6CT5NJ1UpaMoZ+v6xC9mLGsYXeYOJJgGOpltpBdY+ahto2AnkkbSkpv/657yGNgAxL0PJbe4CRtDeLAOPACywJsJQGzPPY0Ow4hHT6hmDBu0iXdUSwEvFrO48FrKV//UK9BJ9Vvxdu03RsgwtJRpTovLTsujWsyDW+GEHH+mMnI1/+6oSI4farOKxNkvKX4ClCQ6utEXMy9Jr1d0c0Xxuv2uSwVJ9ePqCPfsQ=;lMndwrXkYmjSaxXyhd1zOA=="
 ---
 

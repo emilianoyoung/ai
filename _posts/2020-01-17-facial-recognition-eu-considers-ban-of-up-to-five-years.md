@@ -470,6 +470,19 @@ related:
       - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
         width: 304
         height: 430
+  - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
+    excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
+    publishedDateTime: 2020-01-17T22:05:00Z
+    sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 30
+    images:
+      - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
+        width: 1202
+        height: 656
   - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
     excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
     publishedDateTime: 2020-01-15T13:49:00Z
@@ -554,6 +567,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "2HMeeubWokzFXAvxTXVmO6li0hDMW4GdlhEboud7p9OHq48GNfvBLdIJDSmkbI9xcX9Snt/8r6hYOdbQOwtdm2WVlzNAU2ZPxAjkpVUVb/45w5lGdz2nUP66n3r1m5MYDjJgr0/d06vM0AVdqgfO/Vl9Tbofe41BGxiUGfFFwz+Wefle0XDMqjmt4u5zGclXAXwfCwd/ac8iQvv3BpgtbNhB5BIGwIUqY0f0xkzhMn8B6r8/F2lyQoVBsyAkUAJ3kh+gQn3Kb/fr0tTsdE39QyZGw7n9ZcWpyYWtgXXlKGM=;qA5IjiVhABDTz07KRSoGqQ=="
+secured: "+LzG+PxlvU453GHsRMnrGF/Id2FAMfM/iuR4bTts3hWKIwRUvXK0JQTcURucKBZGf/ZPb8mplWLm9soQLvyQGZFhP9NafBR1JdvUXV6u1I9BD3rsOpTxMgXgJNvNiHMoK4BAJg7HKLKzXH8im0lA0fLcVycFCRfjKN3gWxS32WodVDX9Oc2kCJTo4e5n2uEN2x/fvO2RAp0dLTRQC4qoo5T3/CPXF4NEId9Px+aRtqxk6ojD00pGTx+p/flqFxSJSBThBn/W/9k8RohjyLoh3WnULql4AsTT+p/capTvgPpE+mhoseDBY/KvALCywcRQxJ22uc9ExpjlxNg5kaPqJV1Q6dXpjKBH5bzHQpNB2uFTtWgDAtccrna8qh2qj+m1fMIc2g3ZPQaeFj/QZcmfxGUc6LmZcU18xggIpKMT9vSbActnncubCkwBSEPqji+2zM+QwHgBEiGBHTjCSIwDBA==;o1welpCB20UAE02mbgjaLA=="
 ---
 

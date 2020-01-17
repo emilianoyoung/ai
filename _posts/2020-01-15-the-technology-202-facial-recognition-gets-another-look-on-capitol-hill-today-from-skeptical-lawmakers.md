@@ -479,6 +479,19 @@ related:
       - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
         width: 304
         height: 430
+  - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
+    excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
+    publishedDateTime: 2020-01-17T22:05:00Z
+    sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 30
+    images:
+      - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
+        width: 1202
+        height: 656
   - title: "Activists pressure colleges to abandon facial-recognition tech (EdScoop)"
     excerpt: "\"Promoted as a technology to create a safer and more secure world, facial-recognition software, which is capable of identifying a person from a digital image or a video frame, is beginning to pop up at colleges across the country — but digital rights ..."
     publishedDateTime: 2020-01-16T20:37:00Z

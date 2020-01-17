@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "EU mulls five-year ban on facial recognition tech in public areas"
 
 related:
+  - title: "EU mulls five-year ban on facial recognition tech in public areas"
+    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
+    publishedDateTime: 2020-01-17T01:52:00Z
+    sourceUrl: https://www.reuters.com/article/us-eu-ai-idUSKBN1ZF2QL
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
   - title: "Europe might ban facial recognition in public spaces for up to 5 years"
     excerpt: "Facial recognition technology may soon be banned in the public spaces of the European Union. The European Commission is considering a temporary ban, lasting 3-5 years, on such technology in public spaces, for private and public organizations alike. This is according to a draft white paper on artificial intelligence, obtained by Euractiv and ..."
     publishedDateTime: 2020-01-17T14:41:00Z

@@ -466,6 +466,19 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
         width: 400
         height: 400
+  - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
+    excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
+    publishedDateTime: 2020-01-17T22:05:00Z
+    sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 30
+    images:
+      - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
+        width: 1202
+        height: 656
   - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
     excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
     publishedDateTime: 2020-01-15T13:49:00Z

@@ -1,50 +1,39 @@
 ---
 category: news
-title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
-excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
-publishedDateTime: 2020-01-14T19:49:00Z
-sourceUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.html
-ampUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
-cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+title: "EU mulls five-year ban on facial recognition tech in public areas"
+excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
+publishedDateTime: 2020-01-17T01:52:00Z
+sourceUrl: https://www.reuters.com/article/us-eu-ai-idUSKBN1ZF2QL
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
-    width: 540
-    height: 360
-    title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
+  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+    width: 1200
+    height: 630
+    title: "EU mulls five-year ban on facial recognition tech in public areas"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
     excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
     publishedDateTime: 2020-01-16T21:29:00Z
     sourceUrl: https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
-  - title: "EU mulls five-year ban on facial recognition tech in public areas"
-    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
-    publishedDateTime: 2020-01-17T01:52:00Z
-    sourceUrl: https://www.reuters.com/article/us-eu-ai-idUSKBN1ZF2QL
     ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
     cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
     type: article
@@ -84,6 +73,21 @@ related:
       - url: https://images.wsj.net/im-144056/social
         width: 1280
         height: 640
+  - title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
+    excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
+    publishedDateTime: 2020-01-14T19:49:00Z
+    sourceUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.html
+    ampUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 59
+    images:
+      - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
+        width: 540
+        height: 360
   - title: "How the police use facial recognition, and where it falls short"
     excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
     publishedDateTime: 2020-01-14T01:50:00Z
@@ -201,6 +205,6 @@ related:
         width: 768
         height: 432
 
-secured: "Fhg4zgvj6UxF8PHtl77moMeS2W3Z9GAyLtyg40yxS9Tm0rMFlcn+6hTp9jBFriD5TKibzw+tvbmbP/VASkURdU/E/bMMijAH7/rk+LQyRcA9ntEfWvriW5oYldWyF+YRIBN9juqok17xiFX8tfZivymV2UbCOHLK4uUcExjFcEZF59T0gW8T0dvFm+zcCDJ4CH+ZteNtUmvENP1/ABxgKtuzV1omGpDRksWkXy1cNRa5vmDxLVxODdInuVdEmzcbqoEnXeqyPeUScaiVyDJmsGW5+PYdl6143ekqtvnBiSQtHa2TiTuttdUPU+MwdzHT1dPiWr58nyJOaImoaPtJMaO+/6+qxbLrbAEr2ApmryXvHXa5HvRjEtc2sjn+gfKvEb/d7y+vpfUgmR84qEBio2xm8zGBRKPNbkH0bpyvzEQZnSM3+MIJtYVs52k03qr1HVpa8IymwONf/qyq/jti+w==;0oCLI27kDjnW6i/JgsPDYA=="
+secured: "F8y1XxgrMG+FbDlU1v98y5dXKAf4q9yryDmpaQmEQ3/KLQ/XNIi7VdvJML5wZN2Bp9R2GWdEptpykQoH/O1D//EHxflAQjNlV2jqiw+OQMz5Sv+qDka892iuKF+RTn1hLPFzVAgUsMjwMlRSqPnEQeiakf4s+QL4qQSX57oy+Wm2kCZxC53JWNejQLzZ+WnhTGzqRhdqWBVuXHjl+LblRDi7tQ+H0JOKH4I1OGc/QR4XrEROu71pOUNSrYTCWNLGfPYrfiMclKvghTxVwzm0PcITCeTjekp+QolPGQ793hc=;wArcy8rkb1br0QVBzt6h+A=="
 ---
 
