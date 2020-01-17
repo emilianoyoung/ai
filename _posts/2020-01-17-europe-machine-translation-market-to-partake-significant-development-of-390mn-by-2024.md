@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
-excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
-publishedDateTime: 2020-01-14T11:14:00Z
-sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-analysis-size-share-trends-growth-and-forecast-till-2024-2020-01-14
+title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
+excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
+publishedDateTime: 2020-01-17T05:32:00Z
+sourceUrl: https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/
 type: article
-quality: 45
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
+  - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+    width: 600
+    height: 246
+    title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
 
 related:
   - title: "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026"
@@ -93,20 +89,20 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
-    excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
-    publishedDateTime: 2020-01-17T05:32:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/
+  - title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
+    excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
+    publishedDateTime: 2020-01-14T11:14:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-analysis-size-share-trends-growth-and-forecast-till-2024-2020-01-14
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-        width: 600
-        height: 246
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
-secured: "JtE44yiX43v2EzjeTEW2zfcLm3M/rXH4jTvickHOS80L6QdzORgNRdQC2rilZ1/BgYYOkqr9oxOXP7PlQWOkeSKaFXxRuVcSiNUOk3U5+X0KKJ+d1aArr2FPKZpJZ4skCfbaWaK7NmCZqdNSvvDwOrPfFM9W2hZysP/pc18LNU32I6V34828ebXHbpaomdFE9DSUWlJqopwaxnpsAbtpZBmvx9zm2WxhC/2YfmO8u2ewXbXmfIZtc60iLb3A0LSOGObypllsdiTNixAAvxBCT6EiLRppgEhkn+CIaSYjTO0=;26uzWKy/G3LL10B457BIHQ=="
+secured: "5zTTlU4lxgQAIXUugumtzdDCsCO0vHuTTFewm8P6ikPeaawd2d2aCf4rLpnCJpuhJw+0t53qyLMvxhsrrrpdva036+VN92Ulstqb39q5x/Gt4ZtD3FPA0UVCYmXI4h8Gc6Z3LBG96LMi3DsEv28DcknGdi8fZC1JIvuJptQnkN+rfZ5SvQOtHpG1tAIwSqXTR0tj92pff6nMLr+poKDaYfdmWrQQfj2jSpePwUC+LPHMhX9qQVNzxYLEYv31wuElJk1xcrHdd6qRRTVYI7CuaE6hhakw1CaWIAxzvAhMlJk=;lwT9UZjagW1gpGhOj+UJVA=="
 ---
 
