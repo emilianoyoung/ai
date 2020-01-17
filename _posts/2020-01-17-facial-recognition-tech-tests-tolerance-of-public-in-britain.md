@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
-excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
-publishedDateTime: 2020-01-15T17:37:00Z
-sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+title: "Facial recognition tech tests tolerance of public in Britain"
+excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
+publishedDateTime: 2020-01-17T05:15:00Z
+sourceUrl: https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Harvard Crimson
-  domain: thecrimson.com
+  name: Paducah Sun
+  domain: paducahsun.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
-    width: 635
-    height: 423
-    title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+  - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
+    width: 1200
+    height: 630
+    title: "Facial recognition tech tests tolerance of public in Britain"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -222,19 +222,6 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
         width: 1280
         height: 720
-  - title: "Facial recognition tech tests tolerance of public in Britain"
-    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
-    publishedDateTime: 2020-01-17T05:15:00Z
-    sourceUrl: https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html
-    type: article
-    provider:
-      name: Paducah Sun
-      domain: paducahsun.com
-    quality: 54
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
-        width: 1200
-        height: 630
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z
@@ -250,6 +237,19 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
         width: 800
         height: 600
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
   - title: "Activists: Facial Recognition on College Campuses Decreases Security"
     excerpt: "Digital rights group Fight for the Future is collaborating with Students for Sensible Drug Policy to launch a nationwide effort to ban facial recognition technology from university campuses across the United States. The two groups jointly announced Tuesday ..."
     publishedDateTime: 2020-01-16T22:39:00Z
@@ -429,6 +429,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "VVULqNsemkIXmNLrix4kWrn8JAVT3ejYt4Jb8YTVTG0F7dOSLyNsLbiS8Vc+G9zNHa18FI/68vs1j7IjX+1W0TbpwW/w4GH11VxSvsnhnHzPGSFHX+jZzQoFhyMWk/LbIgxpTY3iyvFtU5jDI0Zc8dWHnCZ19/GHJhDoVynWptenq1K2B12cvDWOqK2jl7TVSuscmjXIVIPSazjv3xwjwQ7hYtkBu+uFkynLW881HESlwdhEdB8+gzH6vqrY3Shqx9YCqWoftycW8sWv6ebP+ANCFg+QqfAsnitxvflPf1M=;GEqbWg/S2M2aiNG5GLK90A=="
+secured: "6ZlfuMCRUgEdIV1wgfMzUlt7nxYSSAGpKu6J9AHXBIvnQ13LeKxNTRvIkBhl/T2wkj9gDsNh5NB9SUnko8DGOh8DrCMAa4UyetlBDTgMJJX3QM/MJEYFGUVSeS30iWyf0/ravknj5h23QagjzRSXJiQ9NOZzZGznZ9eVaB3p6DfdU4t7jbG+tTjRgtEH5N6pkQlKpEbQ+2r9+pHwkRi9XcfXTvOOZfs4cKn6kuUtmhxSw12QnzGg7mgFVu9uq01Ui8QrmjKWnq5wxgLvdwnBpOXIX8UW7tz6er6JMasGTSw=;PnqxDjEABqFh6DuAm2+jfA=="
 ---
 

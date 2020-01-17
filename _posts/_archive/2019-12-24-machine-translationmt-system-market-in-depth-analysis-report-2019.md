@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T11:15:00Z
 sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,21 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-related:
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-
-secured: "wdnW9wKTrlfaFk8OaV2thV992XrciY2/hvr6mVDkCCp3Fw96gAaIy0fJszUWS8GYVUDf2hC/1aLpaHQJ9B3n2TcuHoarMrKx31feE5N+8QmKaPig1LQXbhPbDvPWdXuyAV+UDY5gN5M2GjUNbFtzgR1h9dS3aPG3Zns1jUjMPZPZGTKYNvKgxo2k3bj3p8+NN7TlIvqT49oXYzcGIAiH/618KmmtBut+vJ2foPbAhWrp/ApVkvXT+YeNSDEVPeKyID5YkB1Y7+9I5Cih6OUJvFFM1nP43GByV6P+dlsL61M=;QaWu9GzqKfhZoaHwmHfjGA=="
+secured: "KFoZUkiUrexENfNxbfNUg2yud3+fQQuxqV5ZN+LFKcQwQjuIMbBG+BgLl+Bg3w2NhvkSXSOPwN0hwTzMw+h9aioM5pOkdN57VOvkBRTDTYsnOPtV4mbLH+g/GGCBUWzKi60voLLo9eL4wWezHdQKuYQfgCZNap3QDJ8J6sjqSVNSdrxvP7jpdGsHRkFy4HpI3e4lYQbimfxZMRffLW8Bp35LGtXx6wIYXYrT9dUJlIYe7Bn8vk15pCJhy2FiIsM93xtWFg8LcOgYHfs+/ZImsfrzA8yMDpi4J4Cv3c+fRDY=;BnCWWq7DaPaqhU67V/Irjg=="
 ---
 

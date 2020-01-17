@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-16T19:54:00Z
 sourceUrl: https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Independent
@@ -24,32 +24,32 @@ images:
     title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
 
 related:
-  - title: "Machine learning greatly reduces uncertainty in understanding of paleozoic biodiversity"
-    excerpt: "Now, by combining ancient marine fossils with modern machine learning and one of the world's most powerful supercomputers, researchers have composed a new record of Paleozoic biodiversity in which the age of average fossil layers can be resolved to within 26,000 years, the authors say. The computational approach allowed Jun-xuan Fan and ..."
-    publishedDateTime: 2020-01-16T19:11:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/aaft-mlg011320.php
+  - title: "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019"
+    excerpt: "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ..."
+    publishedDateTime: 2020-01-17T03:45:00Z
+    sourceUrl: https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 46
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 66
     images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
-  - title: "Yale researchers identify fossils using machine learning"
-    excerpt: "In recent years, machine learning has risen in popularity as an exciting frontier in data science. This type of statistical technique can be leveraged to gain insight in all sorts of applications, from suggesting the perfect song on Spotify to predicting the weather. The newest application? Classifying plankton fossils. Recently, a Yale-led ..."
-    publishedDateTime: 2020-01-14T05:42:00Z
-    sourceUrl: https://yaledailynews.com/blog/2020/01/14/yale-researchers-identify-fossils-using-machine-learning/
+      - url: https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg
+        width: 450
+        height: 380
+  - title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
+    excerpt: "Or, the company is at least closer than they ever have been before. The secret? Deep-learning technology, powered by artificial intelligence and super computers, and run on Nvidia’s patented Tensor Cores within their new RTX graphics cards. This ..."
+    publishedDateTime: 2020-01-13T20:20:00Z
+    sourceUrl: https://www.newegg.com/insider/nvidias-deep-learning-engine-boosts-ray-tracing-performance-in-lower-end-pcs/
     type: article
     provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 39
+      name: Newegg
+      domain: newegg.com
+    quality: 21
     images:
-      - url: https://yaledailynews.com/wp-content/themes/ydnlabs/css/images/blueY.png
-        width: 417
-        height: 417
+      - url: https://www.newegg.com/insider/wp-content/uploads/2020/01/IMG_0231-1024x768.jpg
+        width: 1024
+        height: 768
 
 secured: "LT8k3P+T+OFJMVIJ/B///PGzXGLeR4ljXVzhaHAwZsCkyiOWqR3dOm9f/rnBJ5CqusCGoXHPBKDkj/uw9ZAf/R5of7CY52Yp+BNUyAXDH1HGgV39/jdJ5bNK3Cgi3q2rSsfxNHBV1JCT8vYWi55LOpnE4aun/nTXu8c6UOG18H8S/MkdVB1kQmeHPUFs7R8171ktiMb4WZBDdMcWciMuT5cvVtSCu+DY4nPSfzZXxaeaiL01WSuKGWWaRR7BYQVISxP3PKyfvBDqTmuCIXUllof6y09zcLLBTjF4uiPjt2aRa9j6Nm0CRe2QHm+PUUgVm6Hzz+RTElVBz6sYXmy37viURDfpHChChWg/klDr2imr7uBlA6GdZB0Ci8UWIS0LcgexKWnRTdHzTMN/RMNfq0BVqgrSMHKksN7r7aPGSdIRFVeBx3dLSyyWooHZnbQTkTF6MTGkxHEam3Sw/wxI0A==;sobfJAE2/5eebeiKUIT8vg=="
 ---

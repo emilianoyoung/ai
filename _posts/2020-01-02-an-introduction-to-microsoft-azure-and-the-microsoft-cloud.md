@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T17:51:00Z
 sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "An Introduction to Microsoft Azure and the Microsoft Cloud"
 
 related:
+  - title: "KKBox’s new Microsoft deal includes plans for AI music"
+    excerpt: "So yes, KKBox will be migrating its service to Microsoft’s Azure cloud platform, but the press release for the deal outlined another aspect to the companies’ collaboration. “KKBox will leverage Microsoft AI technology to build an AI-assisted music arrangement system and an AI-assisted lyric generator,” it explained. “In addition ..."
+    publishedDateTime: 2020-01-06T20:09:00Z
+    sourceUrl: https://musically.com/2020/01/06/kkboxs-new-microsoft-deal-includes-plans-for-ai-music/
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 54
+    images:
+      - url: https://musically.com/wp-content/uploads/2020/01/kkbox.jpg
+        width: 1200
+        height: 630
   - title: "Sketch2Code at Microsoft AI Lab"
     excerpt: "Computer Vision is a discipline inside artificial intelligence that gives an application the capability to see and understand what it is seeing. Using Microsoft Cognitive Services, we can train Custom Computer Vision with millions of images and enable object detection for a wide range of types of objects. In this case, we trained the model to ..."
     publishedDateTime: 2020-01-03T09:33:00Z

@@ -23,17 +23,6 @@ images:
     height: 576
     title: "Evolution of circuits for machine learning"
 
-related:
-  - title: "Search results for deep learning"
-    excerpt: "Boulder, Colo., USA: Rare metallic elements found in clumps on the deep-ocean floor mysteriously remain uncovered despite the shifting sands and sediment many leagues under the sea. Scientists now ..."
-    publishedDateTime: 2020-01-14T23:17:00Z
-    sourceUrl: https://phys.org/search/?search=deep+learning+
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
-
 secured: "lby0qHkp7VHwkxuP1jE3UJNkj7e/b4cPuLkfzYRc6lcy443jQVzso6hPnxBrcJLfkBsPp4yrR3QAq3k9BBMjUcboliAj+PSaKjUGuunnZgOjZaaGfmzAz29xJwCI9/+CJb+z/leEdwQyR1FD3wXv6GzKftgYMlCi1sGHrR1IDUOg5nYv1m2HAvAOS4Tc9V2zACRfdK+oo+NSy+PqL/SHJ0Tr7CosUAMOZwTUe+oaw6lfw4pR+PzaML4PIU1XPcbMPglBfIGz9A8YRie9+5Cakn/jvAV0zQcx8JUX8akEBrKh0y/vXhFyqQJxubmUR+xh4fMfd2BiMvM0J5Um4FScxnUirQIJUPCyFzj759gBNMNEWueUKrloAzVPvjLxkivxbZpxFvKG9hJtpm+zHakMMRKhWt/EoA7lnU03SurTapruK//v1do8/7hTW6Fu+OHY1pyg4+CU/6IBH1YoArHtOA==;YtSJBlKsEzG1i5TlZT76bw=="
 ---
 

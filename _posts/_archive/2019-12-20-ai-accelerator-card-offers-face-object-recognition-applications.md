@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-publishedDateTime: 2019-12-20T23:50:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+publishedDateTime: 2019-12-20T00:00:00Z
+sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
 heat: 64
 published: true
 
 provider:
-  name: BCW
-  domain: businesscomputingworld.co.uk
+  name: SecuriMetrics HIIDE
+  domain: findbiometrics.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-    width: 512
-    height: 512
+  - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+    width: 400
+    height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
 related:
@@ -40,6 +40,6 @@ related:
         width: 594
         height: 396
 
-secured: "mlHPSHzqDz522JyBb2eEMJ1277nt93p/vVlfv7ajkgg+mn0APYuxAltTOobirckVu0gdLVBbEkbZKSsN+CcvJ8Hbn4NlhAuRWiUmNH3XCxy3wCCSsMXkNbJjtlz2BKS8jueNFV1ILyTFNd8jxB0g78TUftpYMObnIzqgSZNKfod+IIYOt25yHEu6jAIIllYBLyfBBUVK/iVkK9X4J1Iin85EI6ah1tRTdpsOsIXVA80Z2nHJyYso5xFy9VZLxEl6gw6SSDL/DH5AxtJWOGJOZd58ETXSo9RCFtDWTqZ0E3Q=;Ja7PGi2aUAAM9hxFRPxU1g=="
+secured: "Q2My7Cg7DAZ3ptKGu2a5fWs1+vktqWDXHZNhgdXYMCObqs2L8/eghZYFENJMQ6cBPPcwo5uMrNc+pS6Ijp97I1LBYyVDzHlazpG8s0YbRLeLTNxS/MRkXyytxG1W6QNZ08XUVJPjXvmj0IWM9Wb855TftsiNtMO77tlxq+/0MQvtYGVNKCqviLsM60Z5zKMxdh8qT0DZ9f1yDS43hIFOir9pFZ/hpJKjJhq6cHexS204Luegq5ZOB/klsNyaOpthbNrFGIGb+WnZ+WHWnSWF84mAVGSuYB1Cnl0eUdlXsdw=;frfODNb8jDuf+Ysk8umBEw=="
 ---
 

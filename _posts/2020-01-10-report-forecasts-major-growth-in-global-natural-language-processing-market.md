@@ -68,6 +68,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
+  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
+    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "VcXhcjDMdMUPHx8RCSY9YlMtV2lfJT0lT8AHCb+CPr9mXTl+stDNPOsE9dU1+/TSPq5t8qAJAhs5rX/tlbU3DK44DnIA6O3rBDOjig+k1V9e/7ESzkj8kExYMfES8mYOrYlZknlQ/B5x6PRhxJVsmq1XfK9lASLXoeYjkUxGxolK99iQGjASjwNwHYeLvU/S/DAVwGfwEx+MVXEk2uoYJdPbrmACofUWMV2ixuliaCj0XUSKyawSU81yzdWgyIP2HcWuAq1TMgA6rmZ1uzFsk3OUAW6t/wVc6AtJNtFJQ+C4zyAh24OoXYbDW7K0BWV14yHT/rfGW6Tla+TShpqLR9paSRhgZiCrkjfYkQKWCT5Bj22Z9N3oF8ZKGhsmaCuOo3rLfYWspYPrfW66gpSWmwb67Mloo293hW8XoGg7E2u+ZPTvsH9qKbZHcdslmHkmnxZ8uKS9Z9OVRs2bh5iZcw==;mJvHYknXPm9EHI7oEk0vtQ=="
 ---

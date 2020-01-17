@@ -2,27 +2,27 @@
 category: news
 title: "Horizon Robotics reveals Horizon Matrix™ 2, its second generation scalable, low-power, ready-to-use autonomous driving computing platform"
 excerpt: "a Palo Alto startup to provide HD mapping technology for autonomous driving. At CES 2020, Horizon Robotics and Faurecia, a globally leading Tier 1 supplier, is announcing a strategic partnership to co-develop multi-modal AI perception solutions and accelerate commercialization for next generation intelligent cockpit systems. \"We are excited ..."
-publishedDateTime: 2020-01-10T08:02:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/2020/01/10/9079517.htm
+publishedDateTime: 2020-01-10T08:22:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
+ampUrl: https://markets.businessinsider.com/amp/news/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/horizon-robotics-reveals-horizon-matrix-2-its-second-generation-scalable-low-power-ready-to-use-autonomous-driving-computing-platform-1028808576
 type: article
-quality: 21
-heat: 21
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
-    title: "Horizon Robotics reveals Horizon Matrix™ 2, its second generation scalable, low-power, ready-to-use autonomous driving computing platform"
-
-secured: "BXtH4DOszXOInIookelXRel8JosQdCxJkmtiU9yPwyvdew9WXsnAa0bCL7RFyXPfxgXv5dCEqHQe9RLqwS16XVim/VzbHqD6eZZbAvG1w18vFrj6nMpsVFOZZ5CMhjDZhitrPTz4UXqV0A4zSCB7ougfTYxLgXnEapIeUFO0OdJ3E6kV97f76pFjag2Joot+7Vw6rq/JHzhrdgmEDI+2sAbLVfQuFhtrQFLJvrtDuf9Dr3gTOWX+pC5xHb1yjPKhIvEx64o5XvNdmvD6sm5yYhGmJ2Y4QIx7Q3jXG6c/sFg=;um5ao56x25mwai3+73b8AQ=="
+secured: "/3bFHIvDmly8o1pF51XbyEGIu7F7OJjcI1Be1kvujN8UY2mgsT4Q6eWk70tbpyHK+4thQ6ZRRRFLoQ3ila9Dx9bKllBaacP+DtPiH7SRmO7JxWvOK0BuVyXySWT6wEOqZhOV04nNkGAOzLL2e3LccQBPGOR8Y2hLykzbTMPWSlpaANr9tmB0y6fs0rBp4gTGpP4S6NvdjpslfGiBAm/gYTJ8D0ScZrF+6DeCNPT4HfayH9Qdxh2ifh+4qv2Ij1MmJ6hI8myLj7zQo6mlx9rP4EWvjt5oEJnw3IuSgDkXdv0=;tnaN1yO12Yu5N+Frv632kA=="
 ---
 

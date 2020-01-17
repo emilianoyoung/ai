@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025"
-excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public, Hybrid, and Private), By Technology (Recognition, Operation, and Analytics), By Application (Voice & Speech Recognition, Data Processing ..."
-publishedDateTime: 2020-01-13T14:02:00Z
-sourceUrl: https://www.openpr.com/news/1894966/cloud-natural-language-processing-nlp-research-analysis
+title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
+excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
+publishedDateTime: 2020-01-13T12:24:00Z
+sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
 type: article
 quality: 0
 heat: -1
@@ -66,16 +66,16 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 12
-  - title: "Natural Language Processing Market to reach $26.4 Billion by 2024 | Key players include IBM, Microsoft, Google, AWS, Apple and Facebook"
-    excerpt: "According to recent research \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by MarketsandMarkets, the global Natural Language Processing (NLP ..."
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.openpr.com/news/1894880/natural-language-processing-market-to-reach-26-4-billion
+  - title: "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025"
+    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public, Hybrid, and Private), By Technology (Recognition, Operation, and Analytics), By Application (Voice & Speech Recognition, Data Processing ..."
+    publishedDateTime: 2020-01-13T14:02:00Z
+    sourceUrl: https://www.openpr.com/news/1894966/cloud-natural-language-processing-nlp-research-analysis
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 0
 
-secured: "eSsKae/RZvrVY5FdyAgTsqxRrKfTcThsgBEAq691183m9xsXrqS9EWt22V1j8oyh0Ijj9nemRNur9JuSSbrD5s/8DR0bpn/GIsu/l8qsPh1GZUGde1/dh/pnyzZ0O1eimXCg4Lnp/H21mUC5RIlppXChd8yUbkSakWrvlpM+lxh6NtIWHzr0IQ7puUXgs7aMkBvDU+crADxLHCVPcMymYzSiMZRKlnWZoEJD9Cd18pXnlcZYdjk+M0gE0tlLE93XpV9VdLTjJwsT9/kaNjq5MKl5PYCuwl/osqS+6ASEFB0=;SKRRt3iUBUuTS2+StrUjXg=="
+secured: "P7jgmVZgGjhA04dNalU4OawdVDEyydVTcjpgyz0KfGhWKa5UUar4g7EiT02ZRFcqs8BL5xoOdows8wQMdNA1mYAj8lC4UML+w6ZZAga5yN/CeyK+grvoqIwTgDpUj/ZDZayHkenBm/n6c3MJGlSTCcEIzAmJi2+24LKasfA/KqyLIAb1x9jdIRONBNDBsld40kwk0ccn7ZW+0kN1bZ7/VMlEDttuUtywodLOKcLYfpG53MudXO+KBnFtTQbltH1C/J1yjjWz7yQd17zpO1Ry54OLtrDvUnNsySA7Wlm4UvQ=;JJAFG3mtmo3bFdw9IqJdQw=="
 ---
 

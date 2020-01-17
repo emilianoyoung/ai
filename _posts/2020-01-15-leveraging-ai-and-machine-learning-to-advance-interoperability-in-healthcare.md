@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T19:00:00Z
 sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
 type: article
 quality: 53
-heat: 73
+heat: 63
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
 
 related:
-  - title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
-    excerpt: "Or, the company is at least closer than they ever have been before. The secret? Deep-learning technology, powered by artificial intelligence and super computers, and run on Nvidia’s patented Tensor Cores within their new RTX graphics cards. This ..."
-    publishedDateTime: 2020-01-13T20:20:00Z
-    sourceUrl: https://www.newegg.com/insider/nvidias-deep-learning-engine-boosts-ray-tracing-performance-in-lower-end-pcs/
-    type: article
-    provider:
-      name: Newegg
-      domain: newegg.com
-    quality: 21
-    images:
-      - url: https://www.newegg.com/insider/wp-content/uploads/2020/01/IMG_0231-1024x768.jpg
-        width: 1024
-        height: 768
   - title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
     excerpt: "The Umbra plug-in system attaches infrastructure data streams to artificial intelligence / machine learning (AI/ML) programs for fully autonomous infrastructure automation and configuration management. Umbra guides users through the IT and security operations decisions too often made in the dark. After Umbra attaches to a data stream it ..."
     publishedDateTime: 2020-01-16T00:33:00Z

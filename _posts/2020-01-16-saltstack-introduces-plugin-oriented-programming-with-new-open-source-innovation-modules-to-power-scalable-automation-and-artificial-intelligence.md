@@ -36,19 +36,6 @@ related:
       - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
         width: 1127
         height: 1057
-  - title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
-    excerpt: "Or, the company is at least closer than they ever have been before. The secret? Deep-learning technology, powered by artificial intelligence and super computers, and run on Nvidia’s patented Tensor Cores within their new RTX graphics cards. This ..."
-    publishedDateTime: 2020-01-13T20:20:00Z
-    sourceUrl: https://www.newegg.com/insider/nvidias-deep-learning-engine-boosts-ray-tracing-performance-in-lower-end-pcs/
-    type: article
-    provider:
-      name: Newegg
-      domain: newegg.com
-    quality: 21
-    images:
-      - url: https://www.newegg.com/insider/wp-content/uploads/2020/01/IMG_0231-1024x768.jpg
-        width: 1024
-        height: 768
 
 secured: "hH7z/wAlyIvqOQ67Gk9TODsbU3jylwWY+Kn5MUM5V5iuCVMTnoykE1sBVtwbkMhORVRJ8s9kGJRV9g0LC3zMXwi/MBHWnhJsiXQZH8UqmxMwj3CWaOqkYsZUzDktj+Zd+Ru06IJecLJB48iy5jsonDRwpFSLLfeiNiBi4d5krimvVw0282fgchykqzx1VsTewEZalQc/Hbhd4ncNSTg3oimcpfCwVXshQVLI51FfbNuAsdvI2gtAnF8Fzv0oh0zyCjqkiFur90nWelmLw7vMUnUntS73Wi0yndy8cJzbTVg=;bHJK/H8MREZryP8G3fx4tA=="
 ---

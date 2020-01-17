@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T05:42:00Z
 sourceUrl: https://yaledailynews.com/blog/2020/01/14/yale-researchers-identify-fossils-using-machine-learning/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,32 +24,15 @@ images:
     title: "Yale researchers identify fossils using machine learning"
 
 related:
-  - title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
-    excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
-    publishedDateTime: 2020-01-16T19:54:00Z
-    sourceUrl: https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html
+  - title: "Search results for deep learning"
+    excerpt: "Boulder, Colo., USA: Rare metallic elements found in clumps on the deep-ocean floor mysteriously remain uncovered despite the shifting sands and sediment many leagues under the sea. Scientists now ..."
+    publishedDateTime: 2020-01-14T23:17:00Z
+    sourceUrl: https://phys.org/search/?search=deep+learning+
     type: article
     provider:
-      name: Independent
-      domain: independent.co.uk
-    quality: 58
-    images:
-      - url: https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg
-        width: 2500
-        height: 1875
-  - title: "Machine learning greatly reduces uncertainty in understanding of paleozoic biodiversity"
-    excerpt: "Now, by combining ancient marine fossils with modern machine learning and one of the world's most powerful supercomputers, researchers have composed a new record of Paleozoic biodiversity in which the age of average fossil layers can be resolved to within 26,000 years, the authors say. The computational approach allowed Jun-xuan Fan and ..."
-    publishedDateTime: 2020-01-16T19:11:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/aaft-mlg011320.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 46
-    images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
 secured: "ekAxeP7SGP9u3S8JRu+Uivu0DtyQjI6ZK8rta+sDfE1zrmSQ9MHNI60XqvUGQQovqCzpjdH5IDi5YYtNwuGCDgbPhcl31qR2i0sRzzjpMg/UjnmhnjdPkPjoUUQo4HFdauo+eZkJF0s9YHV65Lwuj23490GTuqA82YSMLstoKIW1OLHy/ZZi0o+FrT+apc4sufRzWJvPuWy45VtJbgA8WrOqejTZ6o38G3JlFHfz53+V/A11t3vMy/NWqREaHKCCyA4/BpGIPUQdy7GlS6nZhqm6IzI65CzRTY4O++/CUbE=;ArhPea1ez7SogADdLklPQw=="
 ---

@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
-excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
-publishedDateTime: 2020-01-15T17:37:00Z
-sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+title: "Shanghai is testing facial recognition at pharmacies to catch drug abusers"
+excerpt: "Every few days, China finds a new way to introduce facial recognition in people’s daily lives. According to a report from the South China Morning Post, Shanghai is testing face recognition terminals at pharmacies to catch folks attempting to buy controlled substances in substantial quantities, likely for resale. The report noted buyers of ..."
+publishedDateTime: 2020-01-17T07:58:00Z
+sourceUrl: https://thenextweb.com/china/2020/01/17/shanghai-is-testing-facial-recognition-at-pharmacies-to-catch-drug-abusers/
 type: article
-quality: 39
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Harvard Crimson
-  domain: thecrimson.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: /assets/images/organizations/thenextweb.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
-    width: 635
-    height: 423
-    title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg
+    width: 796
+    height: 420
+    title: "Shanghai is testing facial recognition at pharmacies to catch drug abusers"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -110,19 +114,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/inacrowd-796x417.jpg
         width: 796
         height: 417
-  - title: "Shanghai is testing facial recognition at pharmacies to catch drug abusers"
-    excerpt: "Every few days, China finds a new way to introduce facial recognition in people’s daily lives. According to a report from the South China Morning Post, Shanghai is testing face recognition terminals at pharmacies to catch folks attempting to buy controlled substances in substantial quantities, likely for resale. The report noted buyers of ..."
-    publishedDateTime: 2020-01-17T07:58:00Z
-    sourceUrl: https://thenextweb.com/china/2020/01/17/shanghai-is-testing-facial-recognition-at-pharmacies-to-catch-drug-abusers/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg
-        width: 796
-        height: 420
   - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
     excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
     publishedDateTime: 2020-01-09T14:42:00Z
@@ -250,6 +241,19 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
         width: 800
         height: 600
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
   - title: "Activists: Facial Recognition on College Campuses Decreases Security"
     excerpt: "Digital rights group Fight for the Future is collaborating with Students for Sensible Drug Policy to launch a nationwide effort to ban facial recognition technology from university campuses across the United States. The two groups jointly announced Tuesday ..."
     publishedDateTime: 2020-01-16T22:39:00Z
@@ -429,6 +433,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "VVULqNsemkIXmNLrix4kWrn8JAVT3ejYt4Jb8YTVTG0F7dOSLyNsLbiS8Vc+G9zNHa18FI/68vs1j7IjX+1W0TbpwW/w4GH11VxSvsnhnHzPGSFHX+jZzQoFhyMWk/LbIgxpTY3iyvFtU5jDI0Zc8dWHnCZ19/GHJhDoVynWptenq1K2B12cvDWOqK2jl7TVSuscmjXIVIPSazjv3xwjwQ7hYtkBu+uFkynLW881HESlwdhEdB8+gzH6vqrY3Shqx9YCqWoftycW8sWv6ebP+ANCFg+QqfAsnitxvflPf1M=;GEqbWg/S2M2aiNG5GLK90A=="
+secured: "XEbg8fonK95hAQWmYigXOrFnnRp2uTk1Jv7N8PbdEf8D/FpY0+1n7se/ZJD1r20kuuE9iP+Hk/oxVSrbKL2GaqhDWqd/98SbrWorejz2dRhj/nJY4Dmq616FqQdedcArRpDSdFZCUAaRfG/YGl6NKgDj52M0SXCyOsMhbCAlnL8A1N+S9heAOVqHR2rDLx91KojJ41tPLpSh5vP2Qs3mZExAzyYixmKLgftzc4xKkDLcjIJPbnRocBUpDTuBfu4W2oWcf29o8sRiNiX/SU9480LEVeLT6Rl0BtxtYkqwhMs=;ce+0VuuxtqkjeuNKElKCTQ=="
 ---
 
