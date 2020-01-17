@@ -1,19 +1,23 @@
 ---
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
-excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to ..."
-publishedDateTime: 2020-01-17T13:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
+excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
+publishedDateTime: 2020-01-17T12:08:00Z
+sourceUrl: https://www.bbc.com/news/technology-51148501
+ampUrl: https://www.bbc.com/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -362,6 +366,19 @@ related:
       - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
         width: 360
         height: 362
+  - title: "EU considers five-year ban on facial recognition tech in public areas"
+    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial ..."
+    publishedDateTime: 2020-01-17T16:27:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/eu-considers-five-year-ban-on-facial-recognition-tech-in-public-areas-1.4142814
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: https://www.irishtimes.com/image-creator/?id=1.4142813&origw=1253
+        width: 1200
+        height: 630
   - title: "EU considers five-year ban on public facial recognition tech"
     excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
     publishedDateTime: 2020-01-17T10:49:00Z
@@ -524,6 +541,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "aOBq5nXS7+n76AxaVb+/L0TOtrneHYscRqZE+IERTch2IcR76QohoaEk1jO4BDKny2ux0OaG1enFqQD1uKdJOX2eD6NXMaeo5bV8MaLKXZy5dH1imHL43Swlh3fO+ls8d7T/WpAJBR7GEziKCni58FJ2lBEqVTz1cwF9swx5mutrID3rB62LEZqfgjhuoa+BhPzoWwMp0YGnkWrQRuKLklMCpLOfizG5b2BeRmDByDbupjFlYrgM7r3ocHWygVmWivsg43H18FETSwMSi90pUjCubYsdtiCnWd+/kjSYVSQ=;SkMg0dME5/Az9gpHeyGJDQ=="
+secured: "aK/6ZwrXcRZ5zj/rRGh92GZ0h8eVN9F7SxfEl2el8+sLaM8K9AoNcsNeOzCzFqIGWMrnoXnupyk2T/AuvkkTwerP8NbrDUX2Ncmj13uwrPIybXH0kAoILWAeFbTX/aYgkIOODSOpWrTh+Fl7fh1dw/H1D5qUChcgh8E7kl8JyrSLB8bfE2FpkCyu1tq+iG/TLyuuDBTxSSFMHhJkJUn8E+O7XNXvtkP379Kc5wUXvpU9pZQQ/xwVeGWsjZgDB2rEDTjBuDXkAUQf+VaCZHTb4lci46aQtRQnu1npDteshrY=;nJC8Vaqu/FI9dz2c16X1Sw=="
 ---
 

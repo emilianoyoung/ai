@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
-excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
-publishedDateTime: 2020-01-15T20:10:00Z
-sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/lawmakers-working-legislation-pause-use-facial-recognition-technology/162470/
+title: "EU considers five-year ban on facial recognition tech in public areas"
+excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial ..."
+publishedDateTime: 2020-01-17T16:27:00Z
+sourceUrl: https://www.irishtimes.com/business/technology/eu-considers-five-year-ban-on-facial-recognition-tech-in-public-areas-1.4142814
 type: article
-quality: 34
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Nextgov
-  domain: nextgov.com
+  name: The Irish Times
+  domain: irishtimes.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
-    width: 400
-    height: 400
-    title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
+  - url: https://www.irishtimes.com/image-creator/?id=1.4142813&origw=1253
+    width: 1200
+    height: 630
+    title: "EU considers five-year ban on facial recognition tech in public areas"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -375,19 +375,6 @@ related:
       - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
         width: 360
         height: 362
-  - title: "EU considers five-year ban on facial recognition tech in public areas"
-    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial ..."
-    publishedDateTime: 2020-01-17T16:27:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/eu-considers-five-year-ban-on-facial-recognition-tech-in-public-areas-1.4142814
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: https://www.irishtimes.com/image-creator/?id=1.4142813&origw=1253
-        width: 1200
-        height: 630
   - title: "EU considers five-year ban on public facial recognition tech"
     excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
     publishedDateTime: 2020-01-17T10:49:00Z
@@ -440,6 +427,19 @@ related:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/17/954dfb26-3827-11ea-9933-e21be988cd59_image_hires_075545.JPG?itok=nD34jsvg&v=1579218950
         width: 1200
         height: 630
+  - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
+    excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
+    publishedDateTime: 2020-01-15T20:10:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/lawmakers-working-legislation-pause-use-facial-recognition-technology/162470/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
+    images:
+      - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
+        width: 400
+        height: 400
   - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
     excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
     publishedDateTime: 2020-01-17T00:32:00Z
@@ -537,6 +537,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "MUASEei2S3po0/2v5j1Xb8ZpBDwvHRPTBGqsXLRxy4EPYD4NfbPoXe55EEPLGXkX629EE6QOldtL9Nip38mQXDZwV5oUEKK/3O1UZKxXicvNylG+C8eXJBe8+GhI1Lk1lWoOdgaSm6DXRKRmsEzzvnbNTAetqdALuwE5aaiRHT0+iFFiUkEBLrQdJWf6swNL3+yEg5tYpDHiA0F9M2Ssrsulw4pFKPTP3rChWLAD8tOUQVjQyzHm7VUe4dw5ibiXBjygW2Ka7v/QjkzwcJn9B4WasadpDbO+c3IxmTaWieKN3NgZabOrmcSnpxeG3nq5ojyZkkscwnVCIiXX5tjSBTu7qbUvXL5b1ftL0+K0bvQ9XNlWR8KYyFPGGyCr45m6hqMO0DkLkX0x3Z3DJl2Skl+jkG6KM/j/7GWPD7id7WLh9m1R6EjnV5lYJ640+D99tutiysL0SJHm2/Yo5e+o3Q==;oeD9GvGy8lGM8QRkREJxEQ=="
+secured: "VMFM/nSTyAscjpNSXvO/a9eMStAVD5uQOxfzLb9rLa4FWDR/gxp4J2aWH1NuQozYmYTRXK7eJ8lwIa8ysDo8Lc4CnL+p9Ezz43VcKf49/ZBm4iJYvkXKm7xWQykgEks1WPDT3sl/Z4XbUQ0Rrg9wmCEwW4I6s5ZziWvGy3oQr4R3FqZvQIQbaXgYyIsRv2t5+0o2tOZsMit5IUgPd+/qTc4s/lXx6XIFI/RMvyX5xuJd12BvbK8CqVX9x3adAZQ2Z86xbh8WOjdi2PS7nSIO27SaTfjsQ+z7flqMM/E4rMI=;kNlWZp6OqwK4VNQVQnnqig=="
 ---
 

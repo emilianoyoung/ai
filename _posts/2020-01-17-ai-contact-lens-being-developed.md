@@ -75,6 +75,19 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-MojoWebHeroShotofLens.jpg
         width: 1280
         height: 720
+  - title: "Mojo Vision developing “smart” contact lens"
+    excerpt: "Mojo Lens features a power-efficient image sensor that is optimized for computer vision, a custom wireless radio and motion sensors for eye-tracking and image stabilization. The device increases contrast, highlights edges, magnifies objects and zooms out ..."
+    publishedDateTime: 2020-01-17T14:52:00Z
+    sourceUrl: https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 24
+    images:
+      - url: https://4euxkl47p0vx1fmnm22vvi3p-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg
+        width: 300
+        height: 250
 
 secured: "2jPDC7CdjeuTtmxI9BKuDclHqrsoTCr6wRCxAMmPRUfoRLWkmlpx7cOAICBMBAYs20obEAcX5drf5em6fHCJCxHdbld8NfDv0kdj3bc/ujWk5XBs29TGwKvBC6P2fwp740XyZVWI5t42KGun9rk+ehDTzl3YCvZzPuFz7/sfjMvYjXVSKo2M6qaT/qjCkUi18JD/hpRWD7thg0KG6QmeLQf+p6nPUjQZK9w+7jlYBsdCrG9nbE0isNB53nMwU84Emts4qixGkFge3XDzTJlnTIKp/zqG/KwYkKy2Isg2ShM=;w2D0saRwzlyzINtd+OPhdg=="
 ---

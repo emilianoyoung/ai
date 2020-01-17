@@ -1,0 +1,43 @@
+---
+category: news
+title: "How Are Businesses Taking Advantage of Machine Vision Today?"
+excerpt: "It’s easy to confuse machine vision with computer vision. Not only do the terms sound a lot alike, but they are closely related. There are, however, important distinctions between the two."
+publishedDateTime: 2020-01-17T16:55:00Z
+sourceUrl: https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
+ampUrl: https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
+cdnAmpUrl: https://themoderatevoice-com.cdn.ampproject.org/c/s/themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: The Moderate Voice
+  domain: themoderatevoice.com
+
+topics:
+  - AI
+  - Computer Vision
+
+images:
+  - url: https://themoderatevoice.com/wp-content/uploads/2020/01/Robotic-Vision-macrovector-Freepik-.jpg
+    width: 800
+    height: 800
+    title: "How Are Businesses Taking Advantage of Machine Vision Today?"
+
+related:
+  - title: "Using machine learning to fine-tune views of the ancient past"
+    excerpt: "A team of researchers affiliated with several institutions in China and two in the U.S. has developed a way to use machine learning to get a better look at the past. In their paper published in the journal Science, the group describes how they used machine learning to analyze records of the past. Scientists use fossils to date rocks because ..."
+    publishedDateTime: 2020-01-17T14:53:00Z
+    sourceUrl: https://phys.org/news/2020-01-machine-fine-tune-views-ancient.html
+    ampUrl: https://phys.org/news/2020-01-machine-fine-tune-views-ancient.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-machine-fine-tune-views-ancient.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
+
+secured: "4gY7utPOS+ATii0GKZqFm4IepI5FvtCnnCey2A7zCsmZuoNjnznPeeRz44S5WhKHUO0XJrkFPXT6acba5VgHCJHpHPpEr8eu2c16MOr7k8ddQ/sPQuTJ6a2ajVPX3uJBjNVq4+mw3Nu9AUawVBDqf36ps1u3ya5Doj8uM4qftqReiYc/9O3918HPUIjKm/jwqaIYsCjZ2I0g5NApvik1qZp6R8Pqrn0wYCX9nllv7EP0VUImBSz9KTw5rj3ZvGayRU2/Qd62p5vyHy+CtC/Uhb8jFLFwIA9kOKRAhVvFPEk=;MA6cVBCBGY5WNn3W3DusrA=="
+---
+

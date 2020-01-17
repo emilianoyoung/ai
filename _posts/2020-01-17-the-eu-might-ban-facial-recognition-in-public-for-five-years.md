@@ -1,35 +1,44 @@
 ---
 category: news
-title: "EU mulls five-year ban on facial recognition tech in public areas"
-excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
-publishedDateTime: 2020-01-16T21:29:00Z
-sourceUrl: https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+title: "The EU might ban facial recognition in public for five years"
+excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
+publishedDateTime: 2020-01-17T16:57:00Z
+sourceUrl: https://www.technologyreview.com/f/615068/facial-recognition-european-union-temporary-ban-privacy-ethics-regulation/
 type: article
-quality: 89
-heat: 179
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
-      width: 50
-      height: 50
+  name: MIT Technology Review
+  domain: technologyreview.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-    width: 1200
-    height: 630
-    title: "EU mulls five-year ban on facial recognition tech in public areas"
+  - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
+    width: 768
+    height: 432
+    title: "The EU might ban facial recognition in public for five years"
 
 related:
+  - title: "EU mulls five-year ban on facial recognition tech in public areas"
+    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
+    publishedDateTime: 2020-01-16T21:29:00Z
+    sourceUrl: https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
   - title: "Companies Seek Clarity Over Facial Recognition as European Regulators Increase Scrutiny"
     excerpt: "European Union privacy regulators are scrutinizing how companies use facial recognition technology, which early adopters already have deployed in a number of situations such as a retail shop and a casino."
     publishedDateTime: 2020-01-15T15:30:00Z
@@ -146,20 +155,7 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/18/russian-internet-search-engine-and-news-aggregator-yandex.jpg
         width: 1024
         height: 708
-  - title: "The EU might ban facial recognition in public for five years"
-    excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
-    publishedDateTime: 2020-01-17T16:57:00Z
-    sourceUrl: https://www.technologyreview.com/f/615068/facial-recognition-european-union-temporary-ban-privacy-ethics-regulation/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-    images:
-      - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
-        width: 768
-        height: 432
 
-secured: "UpF2MK42Gn2x0GBS0U+zXQw3yAyHxw42zeT4oXASZkq8+MEm8EjwDJGGMtppNMH29/+hnGhOdiF+UVJ+hDlLkAJhjHdrTD/u0OKTv20hkoq/HLVvvLeFyUQpO3pAUgerUYMmf70rcoJ0dzpiKTYFk+zp+O6/9ff6YITC2LStlFOfQ/drEaVlqKSvDtFceiMoN0f9scLN7tDBHWrg1ZKkGq7W/TnTj/pat5qxm0rxVGtBdP7iuII89bVV/cxLSbBPV6AoIBS2aDBdBdbwGyejGlmMsF5mK43i3Fgsq8xCPeQ=;FJ3lNANNkNYE8VpN8rayvA=="
+secured: "NEBwyIN4bgCmFGHK6xKovyxw26dHM9NV1Nj7d7wep5mOgdFwgt/JuqMQ8C2YdRmXJT9tB6vq8MjJXoNMHOvKpfL5jg1h6jI9p3S3UaaNImLEXAV78tHxDvGf4wU5obYzmXj79VGQQVtVNyx+QiZQTEklwHt7Pp1uq9Dwytr96c+RV7yIdDC+PJcLlVj2W366vavHZCiyFNv1SViQ9orzURW5wDPc1FxJ9gEjlv5z0Leb1soyLP8xdsz5d4H7Y1ajj8Z9TdBQYXKggQfdkqn1OVLjJFPMs6HPBdftR47fEAg=;a7KMP8kRJ7dhebzimPGilQ=="
 ---
 

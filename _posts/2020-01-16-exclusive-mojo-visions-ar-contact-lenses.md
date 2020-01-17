@@ -76,6 +76,19 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
+  - title: "Mojo Vision developing “smart” contact lens"
+    excerpt: "Mojo Lens features a power-efficient image sensor that is optimized for computer vision, a custom wireless radio and motion sensors for eye-tracking and image stabilization. The device increases contrast, highlights edges, magnifies objects and zooms out ..."
+    publishedDateTime: 2020-01-17T14:52:00Z
+    sourceUrl: https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 24
+    images:
+      - url: https://4euxkl47p0vx1fmnm22vvi3p-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg
+        width: 300
+        height: 250
 
 secured: "NpPb/DNFDjVGe+yBvBHTki6CKmHdw0on3zTqNAkvfq3TFV6gyNaxRheryos3UCKww7EvJ2NpakLVHxewqZzlGni0CnQrPylLriMXzBgLbEkt41MOJO4/Ma3IN/grwG8QZE2TU0swc/PYOlNfVBw38vXfT+n9viMmeXkz4MFJIcb3VG0/bR8StjrS+o5ZcTUiNEakWhMmD4TYlJVl3U2TgJPm245jY6dRZCGGg6xDi5dCnX+8QJ0Y64VZYGJNra9qJF+T+dfhPF/Lgjzqcpasj6nBDqF8w8lcHZ1a6yNxDaI=;3ZQk1lLCkNs4Yx3rYI62/g=="
 ---

@@ -142,6 +142,19 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/18/russian-internet-search-engine-and-news-aggregator-yandex.jpg
         width: 1024
         height: 708
+  - title: "The EU might ban facial recognition in public for five years"
+    excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
+    publishedDateTime: 2020-01-17T16:57:00Z
+    sourceUrl: https://www.technologyreview.com/f/615068/facial-recognition-european-union-temporary-ban-privacy-ethics-regulation/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 39
+    images:
+      - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
+        width: 768
+        height: 432
 
 secured: "1Fk6TScEc63R0hj+6Leull9AS1Bf68QlFQ26u51rxBrKUXOJIjpBIhZPcG5jeGNdp0o94ND0Ta4TDYsepGZXVABOzbySRCRxPddgWStczaBFQAgvvzfJ+q977Kk7vHbbc5zDDZKk2Fc7YGbqRJQrFwt1Kid49UP1BJOd46PtM3bTX4YaS1dIiNRS+QO/9kjKIWP7ixsYLR8djNgGk7TntAF5SX3C7YgQg+cbwWYTYSYRAzeA6s2OY7BvmQYIEfXRp9dJGGVHsph6pd8uIja5K0yc7qa3t7oLkKHcUar9v+VZaoY6pGkZ82HxMBcB8/OyWZyWIK1CEUNnMvEMv15KEPWKj0FARPovBZL1Zjyta3NnW+gTXKyf79ANkkre8MQXvHEF13clSJ0Y8AGoyLMwXxR566Nf50jImFXIzGv4kDVo5FcpCN5vXpmQcuEe7suJXD0Zf+bLTjQO8lzugDktmQ==;sWR6mcTKIrKs970p8W+/2w=="
 ---

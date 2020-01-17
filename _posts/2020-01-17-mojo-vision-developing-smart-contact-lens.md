@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Mojo Vision is putting an augmented reality screen on a contact lens"
-excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
-publishedDateTime: 2020-01-16T13:00:00Z
-sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
+title: "Mojo Vision developing “smart” contact lens"
+excerpt: "Mojo Lens features a power-efficient image sensor that is optimized for computer vision, a custom wireless radio and motion sensors for eye-tracking and image stabilization. The device increases contrast, highlights edges, magnifies objects and zooms out ..."
+publishedDateTime: 2020-01-17T14:52:00Z
+sourceUrl: https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: MassDevice
+  domain: massdevice.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://4euxkl47p0vx1fmnm22vvi3p-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg
+    width: 300
+    height: 250
+    title: "Mojo Vision developing “smart” contact lens"
 
 related:
   - title: "Mojo Vision demos wildly futuristic AR contact lens that’s ‘years away’"
@@ -65,6 +67,15 @@ related:
       - url: https://www.fudzilla.com/media/k2/items/cache/1caacaa9c9f56d30a557a35a6a1218c0_L.jpg
         width: 620
         height: 465
+  - title: "Mojo Vision is putting an augmented reality screen on a contact lens"
+    excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
+    publishedDateTime: 2020-01-16T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
   - title: "Exclusive: Mojo Vision’s AR contact lenses"
     excerpt: "Before leaving Sun in 2001, Deering had built a reputation as an expert in artificial intelligence, computer vision, 3D graphics, and virtual reality. And he too had poor vision. After Sun, Deering spent a decade working out all the problems of focusing a micro-display—either within a contact lens or implanted in the eye—at the retina."
     publishedDateTime: 2020-01-16T11:00:00Z
@@ -78,20 +89,7 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-MojoWebHeroShotofLens.jpg
         width: 1280
         height: 720
-  - title: "Mojo Vision developing “smart” contact lens"
-    excerpt: "Mojo Lens features a power-efficient image sensor that is optimized for computer vision, a custom wireless radio and motion sensors for eye-tracking and image stabilization. The device increases contrast, highlights edges, magnifies objects and zooms out ..."
-    publishedDateTime: 2020-01-17T14:52:00Z
-    sourceUrl: https://www.massdevice.com/mojo-vision-developing-smart-contact-lens/
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 24
-    images:
-      - url: https://4euxkl47p0vx1fmnm22vvi3p-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg
-        width: 300
-        height: 250
 
-secured: "xxe74QgkeTpuFioaGD9Pdb0XF0ZJPR26jwL89aZeBQPSdQ21W7xproqkplTp6isLdKpPf/oXre1r/WH2JZHQ7YijQrO9kwp+g4FmcIqrxwqLrnoxshqt5R1BvOcL6MBATRxCADcp9loZtg0rjI3cmgXC/TXcJsIHyYMrsfiwCz//aVA7VC2oqefjNI/35YCx0AcHoj7c374oWX2Sae3faREUCxo1sxAH7N6I/GLBqfPGSVi+6cazEOjjQH1IjzLmNsmisy3LweqnejpWTq+4cpqUuXpPSx0x2gReE4sYYeBGf8m+qPIuOsuoM2FlcwEw9V5dYx0RZGklFFiPuB7N8Dlb1qqNdP4rTBfoYBaR0URCvFJ500dcLiDBfW3BX+yPNqlR5JrydB6Pxyr5zvMxdI/FtCI2gMc4vR+amzQf/zNyPjA/DweXcK5qzBosAjIbT0SdSPJUj/M4YzQcWEQwCg==;JSyyMRir/0GEVTa28wdhfQ=="
+secured: "vuNYLNfLvzlIBM9i6srT2GpO4Y/yxKUI9+CPF9O1aZjnDIRnp775XCwXwqGZWIXi2LHY4WGFjurRZuoGZi/d/XME0xI2YXdwDzbAuoUe8LvP8jOS1jkevCM4pJ8k2UMAojddB1JHyDkfSG8YE1IK7zKozLld0u1S5AVaS9n8ZWECRKIBfIZdiMz5V0HQWwa94g0IDdmvOEma7/FsMS5GcKuLyqTkn7PznJOscDgSwi5xDA2lcyVB2/bAvs70CNSFGR67VI60wa8uOxOQQZFfqWdScTbY/DNHs/3Q2kQlZB0=;8q2lEQ6ssyur4M3inpYLww=="
 ---
 

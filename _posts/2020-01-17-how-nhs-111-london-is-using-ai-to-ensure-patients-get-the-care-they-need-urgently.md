@@ -28,6 +28,6 @@ images:
     height: 800
     title: "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently"
 
-secured: "3NASUNLoHn2Se9Kf7GHi8Yhein5X2+OHEC5B2kedaD8PgP5wVccLkXp5mKbbAFWxa66DRb0d4BvP+UIW3TZkBI9zE2CQnb+2hF2IhCoobgWVgNg8yiogYtPAe1qF7pSIpeyR2r08v1eaWv9t4XIy8+pOf1i6jc723v5mSCiwKI1bdZFvbbvvfgcSPvwOPjY6AJA3OUghDDCwBzE1f09GR8G+PpYfrShIam2JLY60oU4G+5u4ypr9qK9ka/LOgkyxXG044pYAz0bEqHbrgq9naIJWcEieJj25dnXN6od2mH8=;fKQI0QW/hkXIMS/OVDi5iw=="
+secured: "izo+URxbgayvbMNLJwpFLfroln8wZnF/VK9KR+5KvG256DdEmMeuX7JFdP8bmta5CWSMNsBr+U2IbQNaN9x0TnoRBcF9wFjmRRiQTbTTL4z16r2aIAtqR/By7OSsELK0h4CjZqg9AI0XH+LIi8BNeBOo1hDKqQpb8b6OdigmvjYFBkvVmVVgX+c+qImHq6DaEYdt2gdMEPp+ZPai3/KZuHgbdBsCyUVHU++d9hoj+RN6Avagb8E5hzBNMqUPUmh7NMkOyoe3GfwBo+fVp4mRC21RW4cpqHiTj95J0bgU6UUeCyHBiR59GkicLlsYveqAzf1xCT1R+i2o9OeDiGQLzN+/qBaT9wSKLytwNYXTNCm+T7ZN5bePnyzJRbyJZscnn7zzQdDy6fSKKkWGZRzOTKqZVFOgrWjj3IEO+a8zwhXTXZ4QOX0WcgeYFk97KMTn5AwMGDQ1+sg+USzP8GLghg==;fBsBPSucRj56KMdsQapcXg=="
 ---
 
