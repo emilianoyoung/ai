@@ -159,6 +159,19 @@ related:
       - url: https://apicms.thestar.com.my/uploads/images/2020/01/10/485282.jpg
         width: 1240
         height: 827
+  - title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
+    excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    sourceUrl: https://www.komando.com/video/diy-how-to/tomorrows-tech-today-latest-in-self-driving-cars-next-gen-hud-for-your-car-x-ray-vision/702102/
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 14
+    images:
+      - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
+        width: 480
+        height: 360
 
 secured: "Nsgrzs6jKKwfynVABs0mhz4wHMeahRlRBJNYkAAB7ZL53GbURQr/jNfor2+5HQxMbeId46JWrQNdZ94xY64kA5EulTiPgT2n5dQ6+Ogv4B1yCgMk9worn0uU09LndNIX+IoR5OSQdGOd24nxgUbWWrnwp3GrEjoDmuxQ07L35doAdv/f3vfD5U3j/hpUXL6H4ESyaINTR8HoQ9Gt8s8MKp4IXcfFXXW44SuEFMe4uxorHOv9VSx5+6xPDcTBxBGWnBKc5/J1BxBGY+H9lzRVa8XT3hlAMTEbsmhdkLrFDDDdhL0r6k2kKuLSWo+Dl4kIzQr8bqA01zwPwaVZ+BJQ01ymV//721HyJMKLW7jmVer8kUKwWn7WmtQF1OM0mTqRISrt/ktKH2oZJ4xbX6InOsUSB7Sawk7DCc/fV9EataYAuKZf2BRW9Gm1VGRDJzWxvbwOvrrdORK84+FPagGQzA==;KHUgVK+1zNEsYR8J7TEJCQ=="
 ---

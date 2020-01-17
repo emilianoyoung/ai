@@ -95,6 +95,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "IBM Launches Advertising Accelerator with Watson"
+    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+    publishedDateTime: 2020-01-07T11:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: https://mma.prnewswire.com/media/1062495/Ad_Accel_w_Watson_FINAL.jpg?p=facebook
+        width: 2699
+        height: 1414
   - title: "IBM Is Launching An Advertising Accelerator With Watson"
     excerpt: "IBM recently announced it is launching an Advertising Accelerator with Watson, which is a first-to-market offering that leverages artificial intelligence to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience Recently, IBM announced the launch of an Advertising Accelerator with ..."
     publishedDateTime: 2020-01-14T21:34:00Z

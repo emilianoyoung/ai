@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-s
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 711
     height: 474
     title: "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers"
-
-related:
-  - title: "The Future of Money: AI Investors, Crowdlending, and the Death of Cash"
-    excerpt: "And AI is inserting itself into almost every aspect of the financial world. “Fintech” describes the convergence of technology and financial services. First colonized by networks and apps, it was then radicalized by AI and blockchain, and now underpins a global wealth redistribution mechanism. Today, we’ll discuss the ways in which AI ..."
-    publishedDateTime: 2020-01-16T14:00:00Z
-    sourceUrl: https://singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/
-    ampUrl: https://singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/amp/
-    cdnAmpUrl: https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/16/the-future-of-money-ai-investors-crowdlending-and-the-death-of-cash/amp/
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: https://singularityhub.com/wp-content/uploads/2020/01/stock-1863880_1280-future-of-money-fintech-AI.jpg
-        width: 1068
-        height: 601
 
 secured: "ZMVfWxgtKrkxLSEpEe8KQNUOibL93VPtFGc/jhTFT4XBCmWNWRBKszAm/5tV1+h4yd/aIrDcz+bLI7+ftYm+YnHBx/Zi36tZa1NTXG3G0hJ81/SDzDWWYUEr5MAjAD/KSRiNBTf98uw5k1YaiiaJFRhv6xp2Whmq5lt68L434O5tC9yxDp0OH9veAsneMcyQonzYPEQj9vbLYniQsU0/90pHwxmJmjwWMI7NbvC6Aimdb9zUpafwQnbaNzJ9PaZ66MuSt91NhYcdFq29vul3ukPVRsfMNTMJx8nu8Njlago4cYRqST3YVDDm7xvmN1FgLIGuo80lY2wyIHfpys6snSl5t8LSa9W+L2cOPWfg2bqnBPKGY5Epgwy3fdB3poffGx+o+/PSj3ZmOD9aRBkYz8BQ5HYVqreM43e+yNbexYttk2yy2rUl1JpjMdbQeWKheKdnaRJp17SThgFfRUAk/A==;3hsIolLTWX88/xSAEcIzng=="
 ---

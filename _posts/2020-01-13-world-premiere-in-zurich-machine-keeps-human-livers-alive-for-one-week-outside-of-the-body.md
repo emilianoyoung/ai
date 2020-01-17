@@ -3,7 +3,7 @@ category: news
 title: "World Premiere in Zurich: Machine keeps human livers alive for one week outside of the body"
 excerpt: "Our mission is to drive the translation of outstanding scientific discoveries into new therapies for patients and breakthrough innovations in the fields of Regenerative Medicine and Robotics. www.wysszurich.uzh.ch. The perfusion machine replaces the functions of various organs in order to keep the donor liver alive outside of the body."
 publishedDateTime: 2020-01-13T16:05:00Z
-sourceUrl: https://idw-online.de/de/news729772
+sourceUrl: https://idw-online.de/en/news729772
 type: article
 quality: 14
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://idw-online.de/de/newsimage?id=323116&size=screen
+  - url: https://idw-online.de/en/newsimage?id=323116&size=screen
     width: 800
     height: 533
     title: "World Premiere in Zurich: Machine keeps human livers alive for one week outside of the body"
@@ -51,6 +51,6 @@ related:
         width: 685
         height: 285
 
-secured: "UAaY8bnJ3zST2YqCzIkQh5oBJlOJzvDfzuBDyZDC8dGmHJHifF0oLjIMv4GMPvYoEIn6TzcS2+9txQYsxgL4BUQY1Tf99HkzxKz25M000iUinGslHu/ho0Ykjrq8g2HAwlsGRZuhjz1TI6sTjyochJo6TmQdPN9m6EgX4ViXQqbyBXlolWQy8dj6o4wGOBvCZoLqVLAO5+G1MXj8SAaEeiIAOSly3xZVO6lpdfsdn07PahU03GrlUdPSUsBmJegRmdxayT4bud103zZJIFcIustCkGkN6XZ7bwYY7bg6t+U=;CYmFa0hseuEqTdY8xFpw7g=="
+secured: "8Ck+4tXfnp+s+HEPuC6xBfRslWZnGOYE299mP2CLWbw4DvIirRYkWCPZ5jfaUnY1gfdPkyX0ADEMUw2dT3pBlhiNarr0RG46twoKK62nTGh6iV7Wr5LZR5SVYVXsY305iq+eTtIYsf2ePBiiBdX0hr6p0tAFZq55fX4mzPEiGCzr6xV0lEe0A1lLA/VeMx5/s+x0IoOjtCUiLQAeGs5wSFgb0dmOZivfbpwr2epv/PKcdU8oTs/JzyiHRlXps43/TbMpMDUOrZAEqVknSXKW1JKpSZzM+mOKydb1r7e/dXM=;7xJxHxfN5KE910noKeDVgA=="
 ---
 

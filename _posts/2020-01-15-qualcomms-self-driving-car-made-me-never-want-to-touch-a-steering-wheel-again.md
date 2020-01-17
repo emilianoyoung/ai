@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
 type: article
 quality: 85
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -159,7 +159,20 @@ related:
       - url: https://apicms.thestar.com.my/uploads/images/2020/01/10/485282.jpg
         width: 1240
         height: 827
+  - title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
+    excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
+    publishedDateTime: 2020-01-16T00:00:00Z
+    sourceUrl: https://www.komando.com/video/diy-how-to/tomorrows-tech-today-latest-in-self-driving-cars-next-gen-hud-for-your-car-x-ray-vision/702102/
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 14
+    images:
+      - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
+        width: 480
+        height: 360
 
-secured: "UZfZrjoCLst4eNlUCaIihDSN8ZuTUoIG3ylQYC+XFfF80/dOH+9E9JTxrui7RN3yLBO7K2KKxapjtpCV8byl5iD4i8PZnh6XCE+i6r8NNqhOs0+HW8Szm3EcThBXuP8OyJfsI0h/wxxKWRru04ZQF14P4a4bA0F14wMSufI9Xf/IdLjzM2SWabcyhS77bu/jTHZLjA8MjNV9JlSsTx8aYb5y5/p61MBS58ytPpDR/ls8m0XM/dYqKivnyhLKOocHMW1/6rAtjXm08FPGsiIvsEduharAGyw+R9edW+CV50LnmoPAGpt5uOZmt3E9W9qQfRPeZv+WD4uKrQkU4ub8lOFIitIQ/TMjEy6utC6tojrFYPvuJgZo9/5STQFwRHthlINzzLWny0X8sEusGwOQPmd2r0qmJtbZI9hV31n9NGkOm351JDGUVGwyZcxJnWMafjKq31HjdanKeBW4ewLaWQ==;ZOWkzS8RXlUIzLfQYu3SOw=="
+secured: "P41CEjzDPnR1EWsyg1bg//mifsHQeyZhj1UleSCY9UaWiSXN1qI/XsJokIe6aG9IcYbPbAs1Q9jX90CRi4uyXyXd2NJ2FibvorE9lJ4hGi/YFI3bh8cQVzew+dOqTKr9lVo/CKJSbXa4jM9vYS4WiK/iDPGPOSKADTzqYlp7wisLTdu/PCtzTpQdII3cIqXvBIJNT9ARc8XS81ftrn3G6GYzL1JwIpS9OCtf7J9wi9DB7R4Y/8UmG2ps//GsOoj+gyRqqPMSAWeZyhKK6rd9qBXxfnG8/pvfnuC5EgjdydS1hUctoAVlV6N61NWrZe7ULDo4msyZTPWX2HAQ4TTGnlpQsxKQ+vYaYqCrB8df3fTnysU2EUqiR86nIuFStCZi4ZXFAiQTKIOiBBGkiwfkq8V0J9WpGD1IXiQNQcdQDJgrcwIUrDJh+UWbkchCn2Zge7wzcp+EsF1Mtm5iA+8siw==;M7Gl/6nVY0klBc1ZrGEOQw=="
 ---
 

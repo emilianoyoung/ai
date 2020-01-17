@@ -54,6 +54,19 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
+  - title: "Understand AI and Machine Learning With This $40 Training Bundle"
+    excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
+    publishedDateTime: 2020-01-16T16:00:00Z
+    sourceUrl: https://www.extremetech.com/deals/304990-understand-ai-and-machine-learning-with-this-40-training-bundle
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/sale_25319_primary_image_wide.jpg
+        width: 992
+        height: 558
 
 secured: "i1QukGa4M+fM3WVSe23SX+gvkXyN1rKkweOmJRZI5lf6BD36d32e5wiuMVvALi9tgF/4Mri0WixnMAPBQW1D/is5lGSoQNwbErYgSXHSvOz43+ZLQRbL/ZWoJx2pCSSs/fbP6P9I8CSO+AYqF9VZ6iW9QY9F5t18fg4SSn56DhaRc1cRvuiooYFxlUSDh1SZh/xFg1fTN4o/VXV57le3Ho4Qj34k3aTEQ46pTv+iA4HmvpqDTHxYOzPUifgKJ6Slwz2zLBaZ53Lazhn//sTd/UWWB52aTG0zcw+zI/E786ToMtnMnoinjtfbAIqf1idnKMkWToeDc+hpB8IuVE63q1mS+gsDja43OS3O/EWJh+rCf6UuyrJk+Gzw4m6xZQr03hEvTu5TU0HWmxTb6dFZB/Mp9qzpXrXyyVtjiL0n1g1Nivkb2Cn0TONA+N2pFEAxOU6VKhASqBIk7BVAw7upkg==;Ta0y/h6hadMjmUZh8PnY7Q=="
 ---

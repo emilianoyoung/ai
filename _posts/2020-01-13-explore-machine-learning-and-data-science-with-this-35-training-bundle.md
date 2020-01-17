@@ -41,6 +41,19 @@ related:
       - url: https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg
         width: 920
         height: 470
+  - title: "Understand AI and Machine Learning With This $40 Training Bundle"
+    excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
+    publishedDateTime: 2020-01-16T16:00:00Z
+    sourceUrl: https://www.extremetech.com/deals/304990-understand-ai-and-machine-learning-with-this-40-training-bundle
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/sale_25319_primary_image_wide.jpg
+        width: 992
+        height: 558
   - title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
     excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
     publishedDateTime: 2020-01-13T22:12:00Z

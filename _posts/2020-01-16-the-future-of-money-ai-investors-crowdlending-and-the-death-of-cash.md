@@ -26,21 +26,21 @@ images:
     title: "The Future of Money: AI Investors, Crowdlending, and the Death of Cash"
 
 related:
-  - title: "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers"
-    excerpt: "These technologies touch on a variety of legal and ethical concerns that the business community should take notice of."
-    publishedDateTime: 2020-01-16T15:27:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/
-    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/
+  - title: "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts"
+    excerpt: "Just as technology has transformed many other industries, it’s impacting the legal sector as well. Rather than just take over tasks that have traditionally been done by lawyers, artificial intelligence is expected to completely transform the industry and make online courts ubiquitous."
+    publishedDateTime: 2020-01-17T06:01:00Z
+    sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/
+    ampUrl: https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 87
     images:
-      - url: https://thumbor.forbes.com/thumbor/711x474/https://blogs-images.forbes.com/forbesbusinesscouncil/files/2020/01/erik-lucatero-VcOwZMahmCQ-unsplash-1200x800.jpg?width=960
-        width: 711
-        height: 474
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e214479735f8c00079a0916%2F0x0.jpg
+        width: 1200
+        height: 800
 
 secured: "2mnRfradZLmJVBFTnCIZNVyRa5ZsotJ3k9lpO0XS7MYxBJCCVewx78vamvTD5IwpyLVs289T4cjmtBB98MxeeMM0qWqk7XMv5OEztygJ1X4MaMzR6sIC2Tm9yT8dBnpaHP7pEH6P2MzAqLzzKPoJF5siwvv7hEO0XpjivDJkh07WkaqBM9CRb3Oir95e+uNL51MD0tqhldHrYwC5Q4gCZWAbBV0N5HiB5SVV9nFiBOF0hd8LqkMpNRL0Cr6WKcKYcdmo8SYXPepv9JWGsuDzELX0WlikoJ7kjfSnQ25VsOhorUK1XrNJjygJaTprvbjfP/mnagelABbXGP3FG3qiB9PZRd+Ykd1mXHbUolMP6eQJ0l8U3FOuPP06rM5pAl8YI7geeaufH5ov7vfEg1lwdSB1KFs0ZT9cFIxPwyRiT3/eFys+2IY0VK05aF+hMJzKw3WccSGnfn93EwkMcmzQ/A==;ad1EBGGWxcbFZd8L55hwKQ=="
 ---

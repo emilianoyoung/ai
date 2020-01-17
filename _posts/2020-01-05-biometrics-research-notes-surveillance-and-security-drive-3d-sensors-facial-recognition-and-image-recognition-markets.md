@@ -54,17 +54,6 @@ related:
       - url: https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Lockport-School-District-1024x512.jpg
         width: 1024
         height: 512
-  - title: "Police Use Face-Recognition Software as India Protests Intensify"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally ..."
-    publishedDateTime: 2019-12-28T05:50:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 54
 
 secured: "o+y6nlpqpnE7/9jxsy+xiH6MH640IXX7aS6qWXauN+/XagDKHZa5yzjZvA2u2y5QO52P+tAps2zgsTgsnVMkjBPwrzr07UFe4i1+S8ZzhRgjlnE7hLWUU6x1/tK0Cqa8VcFpn93KNb324Kmc+nqbbgp0jJtlH4SF136BstkfyrFn+M34vKC5in3SkHCWz7muuqHcrhklq+qbaEzGTHrBNTN664Xs+UfYysuLOrZScS/m30doEa4qKmNQiwmZycTWG9jwD8xsLEdY3I6d1dJG9ukaiJLmQhWP9fq5T4JN+0ub54ez6WhuAIeWDminqcDgQRRzjt4aT/yUUq1QY826TTx9SNkfgl23NST9FcErIJDStnhxRwNoin5bbztic3F4ABr/U/XYNYKCB/lU+AFUT7aTtkmGYL30il86jnqo2J33z05Vw9Er/pngGpp8xITToWJ/APb6tm1V5ggizZNOCA==;iQbuImurgPvGIK2rWGYFeA=="
 ---
