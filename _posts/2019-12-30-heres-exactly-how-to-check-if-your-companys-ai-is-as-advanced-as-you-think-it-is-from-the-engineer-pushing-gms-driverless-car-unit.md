@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
-excerpt: "When Hussein Mehanna was at Facebook, the social media giant went from testing less than 100 AI models to over 3 million each month."
-publishedDateTime: 2019-12-30T13:07:00Z
-sourceUrl: https://www.businessinsider.com/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12
+excerpt: "Artificial intelligence holds the promise to revamp how much of corporate America operates, but one problem can be determining whether early initiatives are on the right track. For Hussein Mehanna, the head of AI and machine learning at self-driving-car ..."
+publishedDateTime: 2019-12-30T13:12:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12-1028787955
 type: article
-quality: 52
-heat: 52
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Business Insider
+  name: Markets Insider
   domain: businessinsider.com
   images:
     - url: /assets/images/organizations/businessinsider.com-50x50.jpg
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://image.businessinsider.com/5e066222855cc242fd196ed2?width=1200&format=jpeg
-    width: 488
-    height: 244
-    title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
-
-secured: "xH9GocR+0RT/Vk+d5CA9ew4DT8J8cUsFv2qjn5Vt1WuxzLFI3hSII+kMDneTIf+eJ1dIQ5flbRAdL6L/Spg3AsnGkW7RLwVNnZXnUj+EDTv1Y8SYMPWHmDloMk6OL1sme/OOW8Ytc1DgS4X2c4HW9Plct593+5zdJSeIMmOa+Is510sZzl8pu4+NU9VA6E7NYWKNAui3cSE925IThzpbzOcsyPKW1ZTRUmPJtK8FVktRHkxQ/Q4M2sXxniyutmJ8C6bEzIq2WzzTZOeVn0D/I9lDxipjAdgoCrgQBkPGBWymgqQAJhJSFBwWi9Q8IEoudXTv9JRiBpWEH0zmvOGCnEIynfwxikyUqLTSXUXIbYr3aG8IRTorwQ8Rx6vz4qFI7uZOp9+Q8x1cqQ5Cquwt2TgFsbjcer9kuy4oqN9DyqXzMB1o1zxAmQCPongBv4QWTsAKT6rvZ99KEoqLcbavXw==;LrtsDROObS0IBeDqb/jZgg=="
+secured: "ipbkgCX4yv1OrUkorItgBygaIfEPpBWEs8zW7j01AB4Lh89YiAQ0COoAoQ50B+lgVGpy8qaNtj6jA6ErPNG9tO2QgrYUXmWFuhWQQGIq6td9qr0CAX8grRJMw/U8Pn+f7o3rsuAJuALo28X/B/PyK4RKeRg4K3SHTsbeZP8cpexIJDWe7XcNpwSFEa2jJp2E+utJ/4RS9SmU/HeUx3ALGuo77IIJvpyBcyH7SKc2Zdy0HfAnR5D+GqkVXqrabKtqUgYg9+hdq4w6aY2OviW4pG9CSpwHBAq02ztXb8spsdo=;0rFcJU6/5e6bXcbSO8tr7Q=="
 ---
 

@@ -23,6 +23,21 @@ images:
     height: 1080
     title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
 
+related:
+  - title: "PROTXX Launches Collaboration with Alberta Healthcare and Machine Learning Innovation Ecosystems"
+    excerpt: "/PRNewswire/ -- Silicon Valley-based digital healthcare technology pioneer PROTXX, Inc. today announced a broad collaboration with Alberta-based"
+    publishedDateTime: 2020-01-14T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/protxx-launches-collaboration-with-alberta-healthcare-and-machine-learning-innovation-ecosystems-300985235.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: https://mma.prnewswire.com/media/1065213/PROTXX_innovations.jpg?p=facebook
+        width: 1000
+        height: 524
+
 secured: "yYM3GG9D3Wi86LHWdyjfGeKPB3E+dl2YF+jmtnrYKM/1x8ax1/Ze53+PYxZ5Ucq0Y+o3XTYPO8ShUU4GU/luc0thcMeeO3i60VznIkHnJbf4+S1VBNW6wEpy3YjYd6EHwbaTO2XcIzEAHzHdeVX6Wbk40fwe/0Pwg+J+HWm6cbSf2wiPOM0QCBnQ3X1pC487AiHo5K4duG2ch+yIbtgDojh4ELFwcGcMVfDY5yCMQ4YSRwaYwkHAwhO0W2Av1hDYdIERunli1GitBM7LsKPmqpIiqyrwUuOrbYpxeWyQ4lU=;3TrksuW53bwbJCMLr0Esgw=="
 ---
 

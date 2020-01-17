@@ -23,6 +23,6 @@ images:
     height: 473
     title: "An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection"
 
-secured: "xfbEkpRkL/gUz3iuP5EuqHhi0tFEKsqDz8w+MVX/GOw+kOa7mZdkVk18bpbJRfuiBmvaPH3Y5vy8XtOPevTkTB8bIDP5wQHE3FJgJYWJR5MkLx3n+Piuw+JMGldzilGDxdMuyrp4n3UtTUPeYaGqrD1l6/m0KTZyIrAaobt7PP38f2YH/oUsxEda28VL4KEjPKN7Hqmslxqrfi8uPXgE042BbVjKTY+d0VzdolXtFGgWLXkrIYX580RpVrMhhvjWDZyIhFj9u3Krb++uIaVpRG3mlB1vExhkVHw6qgbQR9A=;jfWfcMqvj5S36yPBAoSu8A=="
+secured: "2nksGkEdxg41BroylJ+hkXuZlPWCVY+COEShHToSku5TNqAD0q3IILvf2PFvingqNSCaxJzTbJy0Ca24+qlfYDzFFzUR8OXaL3kT0mIjjlycHIyppCK7wdC1vcFjL1BGv+t4ajVCl5nKeC+EDkrCmKdFAEz67lZSxu/3JsXqiEfTlWwLDerqqbEjdE5RN7rBsvhTpNdsj+sD9T0Rzezqefah3Z+XXZ9zoLuSvboQ5vFEhW0+Iq9dSlCJ8J7hcVwgmZ+rRkoSJQj6Hezf/OiePrfWWX/aY6hhx9V0RVEQjAC6Ir7AEgiw7Ohai/yyzGe0p7y5mnl2adPI9P71fF3tvWXWLJNlsB844Ov3Xds38+5icyq6mi3NXmSr+JCO7woKDeBvEY3bA+SgVvdlONXMtLdqE+BadOd8UlTZTmCw1z9EZu0mbfGO/P4Pm6Wya0by0x/fYXxK1k65sUmfIHIrzw==;02uEvKTDoCSM8+At5o0LIQ=="
 ---
 

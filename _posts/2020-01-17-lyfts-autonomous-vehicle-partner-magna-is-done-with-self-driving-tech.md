@@ -1,40 +1,35 @@
 ---
 category: news
-title: "Self-Driving Vehicles Need a Reality Check"
-excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
-publishedDateTime: 2020-01-16T21:45:00Z
-sourceUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html
-ampUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
-cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
+excerpt: "The auto parts maker plans to focus on assisted driving. Two years after teaming up with Lyft to collaborate on self-driving technology, Magna said that partnership's coming to an end. The auto parts maker plans to focus on assisted driving products, instead of fully autonomous tech. Magna isn't fully severing ties with Lyft, in which it ..."
+publishedDateTime: 2020-01-17T03:02:00Z
+sourceUrl: https://www.engadget.com/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 74
+heat: 114
+published: true
 
 provider:
-  name: Governing
-  domain: governing.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
+images:
+  - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
+    width: 600
+    height: 350
+    title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
+
 related:
-  - title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
-    excerpt: "The auto parts maker plans to focus on assisted driving. Two years after teaming up with Lyft to collaborate on self-driving technology, Magna said that partnership's coming to an end. The auto parts maker plans to focus on assisted driving products, instead of fully autonomous tech. Magna isn't fully severing ties with Lyft, in which it ..."
-    publishedDateTime: 2020-01-17T03:02:00Z
-    sourceUrl: https://www.engadget.com/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
-    ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
-        width: 600
-        height: 350
   - title: "Howes: Self-driving vehicle hype forced to reckon with reality"
     excerpt: "Howes: Self-driving vehicle hype forced to reckon with reality Next-gen auto industry won’t arrive sooner because its potential is oversold; not to investors or dreamers besotted with a Silicon Valley fairy-tale Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/columnists/daniel-howes/2020/01/16/self ..."
     publishedDateTime: 2020-01-16T04:48:00Z
@@ -76,7 +71,18 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 800
+  - title: "Self-Driving Vehicles Need a Reality Check"
+    excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
+    publishedDateTime: 2020-01-16T21:45:00Z
+    sourceUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html
+    ampUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
-secured: "SvuCjmFjoBaUM3aQ10/9dHsqPkrsFis0CTCEoJND8m4bVVgp/8uaPPsbkKWR9I+2g6kBkxdWdYX5bNR4BzTQfkLKjJW/Vv9z9RTGnxUrnTcr6RmBkzkuHw61aTsfz2uvMoNeLvWSMh9vO2RJB+OOnlNBpV4ZHfvDqeKgJqDRMauQ600ODjHfpUcv3IxXaUxFSuT6wHzfY5BOyovv3UY9yoIY8ptqieEAA8iESfGHqC7yaMUI4V2YakB1+5+PeMoD1fCEHRk4P6/OVEHIra9zPsgoRo7SHV9RC+/sDuU3z20=;8YeqDw1dCsJ+T382zE3rNg=="
+secured: "ImADa1EfZfvVJT7zoFEU7+RGw/RLU3/k3JersuWEX/GI81ZmmOSljDMsWshsOiZl82IoYIRv2pkNSjenz5CQjed/wiB18T0YtR1v/pdKGG+KNotOk5F1I6ac0+TnD0WxgSu5hQpwCBE//3Jkuira5ergvobIQWGSUzCaOMZ4yVhTi1W7HrIDH5rVtCwJXn1czQvyZZ6xK3MqvVLzol43nvjvf/lkSoCpTQvmPqRXfjAgCZQRZYZgFFHVcH4ERxa0mhqjjxIzD58jERkDp+LVgtsfIv4lP9t7RJC9gLiUUEE=;kAHfHL4rqnxEdC4lWlahEg=="
 ---
 
