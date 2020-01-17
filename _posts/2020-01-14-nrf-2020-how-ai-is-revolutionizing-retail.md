@@ -41,6 +41,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg
         width: 640
         height: 640
+  - title: "Crouse Health using AI software for stroke care"
+    excerpt: "A company called Viz.ai is providing the system. Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm says it focuses on using applied artificial intelligence (AI) software in health care to “reduce time to treatment and improve patient outcomes,” per a Crouse Health news release. When a patient is transported to ..."
+    publishedDateTime: 2020-01-17T17:31:00Z
+    sourceUrl: https://www.cnybj.com/crouse-health-using-ai-software-for-stroke-care/
+    type: article
+    provider:
+      name: Business Journal News Network
+      domain: cnybj.com
+    quality: 39
+    images:
+      - url: https://www.cnybj.com/media/16828/revitalize_download-square.jpg
+        width: 625
+        height: 521
 
 secured: "JZxBj0ngl7llZi7FZzx1M9MXvB8sURrntSvfY+MJZ4yAk/txyT8Jvc4Px3XTAupzfDx4f7NkHoU3136ZXKh/xIYnMwEHEeQuKqyu9AMP/dFevBwlAd8GJaPuJkjhyeOH21ZZUgAdGTJphz6MBcGy3jzDLTTNRaTdPPaqWqlWqTK8JiFABVk+pc93T33QoSvcLegenyJDX8PY3kR/U1/mAWvwOZWop0GTO/IqXR4v5IEqOcqaXFHJsbu338BGrHaOFZ0LiZu4XTYgx8JUzC+4egxScjSDJHRLbGnl9/1melgkpVb54v8x011gFzgsfzJmKdSWFxCidbF7jMgRXZt0kEKjz7S1GqZrAW+1zWM/Oqv6XVA/eBuX+XZVhcgcPS7A3T59PfPtZmAEItJ/jChXlD/QP/nEKa9Q28DzD5CIuYqye7RmQckPtU1qmsnLF8nbcvMV0Qf/eLGoIlPzGg2k5w==;SYkiJxWQCCK5iYQFBXZsoQ=="
 ---

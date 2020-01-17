@@ -39,6 +39,21 @@ related:
       - url: https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg
         width: 2400
         height: 1600
+  - title: "Björk and Microsoft use AI to create music that changes with the sky"
+    excerpt: "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ..."
+    publishedDateTime: 2020-01-17T18:42:00Z
+    sourceUrl: https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/
+    ampUrl: https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F1753deb0-3954-11ea-9f26-47e800c6b449%26client%3Da1acac3e1b3290917d92%26signature%3Dd74572e0141a4d05afbcc4cbd4f09da27109c50e&client=amp-blogside-v2&signature=397c2e6c49f4a56b1d74ddeac5f8b83a354ed9cd
+        width: 600
+        height: 350
   - title: "Uses And Limitations Of AI In Chip Design"
     excerpt: "From there, formal will give valuable input to the whole system verification. SE: One of the problems with those chips, particularly the ones used for safety, is that the AI running on those systems are basically opaque. Is there any progress in understanding what can go wrong with those algorithms? Brinkmann: The machine learning guys are ..."
     publishedDateTime: 2020-01-15T18:46:00Z

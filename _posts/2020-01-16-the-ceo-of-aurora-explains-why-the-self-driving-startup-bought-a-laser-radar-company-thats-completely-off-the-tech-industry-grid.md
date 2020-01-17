@@ -27,6 +27,6 @@ images:
     height: 600
     title: "The CEO of Aurora explains why the self-driving startup bought a laser-radar company that's completely off the tech-industry grid"
 
-secured: "DW9Fy/ZTXPi2D1EYXK4vluMkHorLuB246FX+Vnz+pVpstA5GhSEQ81rdbMvXa35q2EYwn/rUb/SegeHYFGBs34gyD2BbISXQR2YhhEvuhY60HatYFZMv1Cy19U3XONJvO0UuS4Gj1PVKpTDmXrqgP+1msxmNSUIcoFcezRget97x7AD7A3Jl7UbZnjXRi3brVOCglfxSX+BNkP0FJT+QTkKGsMjQeKL7X3HsEqmeBHKg6TcTivkZUEmnTFn/DPVz1vwN7gcmeOapcY3DIoDXeWLSODH7aox0MTAkmK8YhC8=;IPBbCGw8quersFyw5Vb5Kw=="
+secured: "ZC7PlPgSVGkISc6Yecn3zN0AKt/s9iyo3VZRcM0ozeQmPijUqM9bQ++XzdU+ioyE0PPyaRFLDrpK3bUjtDbmwrcnMU54vPJdhpSnT99VoSivDyeYCtxVEbot7SBzRIU+nKKC22ePBsXnepzLvpse02Hf7VKLe3fclGqXVnXMbqx/rzyhyukds2yVbsEDHm3vBFo49HkKXSPd06fQjL1QcOFKyNgQXJeRv4iN90XEsfoTnz+iH7KYsXQRzY7cG/FfosaMdpLNB8w6t94q30u0GO0QvSKedI6Bd0e0IwaacG4twhsOG0ykLf7UgATerJNy83Zss2l/iwTFMZ4HtFFyg0bGGfSYDHoVOnwrBRT6FoZF+Z4D9X8xHvRQ4hsNqINO1q0M5oNAR0tmnyG51ZKAfpyi5/o4Hxiu7SpotgyJN9/7zDf5E51/oDbh6ZAXO1lEQU+tJgXWb/rhGjv3/bYS8g==;cRavMij5fA/lThLowdlItA=="
 ---
 

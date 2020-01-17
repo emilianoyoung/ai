@@ -21,32 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-    excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
-    publishedDateTime: 2020-01-17T17:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
-    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
-    publishedDateTime: 2020-01-17T10:49:00Z
-    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 54
-    images:
-      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
-        width: 1000
-        height: 500
   - title: "AI in Retail and e-Commerce Market - Industry Insights By Growth, Emerging Trends And Forecast By 2025"
     excerpt: "Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
     publishedDateTime: 2020-01-16T08:26:00Z
@@ -60,6 +34,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
+    excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
+    publishedDateTime: 2020-01-10T14:15:00Z
+    sourceUrl: https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "xTc8IzASK3FtiGp1iLR7uPIWVBYJmbjZo/7yAArS7MrtfOpcjYDQ4KABqLk6K8ToDeSReARIZAhIgI8OTYJ/ZSlQayekz7iC6qWPfaGf0ojyIWKFlsIhOw93/LjSTY9fMFlTKeasQTsFdC7WU9/aFNkksFVWM8JYnGXJ0t8xwoG84ThcwRc4GW49tcMz5ETZoD33AcedDqS5eURd+QveCS4F0RqczVVJqGiBv4b/A8XnS87oZ2zeRbOFY87aH9Eq2rKfFzuzkrcd2KxrgMJJG5fLSmYnwhxTO4Uh2IGd+R0=;kuw5TgzrC1hHgWFwJhCZbw=="
 ---

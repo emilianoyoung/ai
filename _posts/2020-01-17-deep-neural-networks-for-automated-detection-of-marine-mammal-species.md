@@ -23,19 +23,6 @@ images:
     height: 258
     title: "Deep neural networks for automated detection of marine mammal species"
 
-related:
-  - title: "Application of artificial neural networks for automated analysis of cystoscopic images: a review of the current status and future prospects."
-    excerpt: "AI-assisted cystoscopy may improve image recognition and accelerate data acquisition. To provide a comprehensive review of machine learning (ML), deep learning (DL) and convolutional neural network (CNN) applications in cystoscopic image recognition. A detailed search of original articles was performed using the PubMed-MEDLINE database to ..."
-    publishedDateTime: 2020-01-13T08:07:00Z
-    sourceUrl: https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.html
-    ampUrl: https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.amp.html
-    cdnAmpUrl: https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.amp.html
-    type: article
-    provider:
-      name: UroToday
-      domain: urotoday.com
-    quality: 4
-
 secured: "u7Ijs074RwrD4qxk6NYLZ0BJjca00M6e4R1/yBkdRXTpLimjlZlnH+n4MSIW50uORzmzlOrb2E+dHnvrd/1WUzAw9lHnlTFncA8pnY0p6zWfGv9/ZG3KDMVmUskyWYr3nfRtfxsEaSDBqytZyD1lqoeruI/NGw+xrfIiCARHFu11t2aOBcYC50hw8cU9M4HJrX/Fpsg6w20QYJvWO1QVaKaQF7Li83gf529DRl4WH1DUvAC7LZvHggZMMF5KCfTt2L3KeiEdTMwF+MTcvMGNrvzM76V/Ezqfzi1ywrvlUBo=;wWmruy/rtyQJF6c4g5zPVQ=="
 ---
 

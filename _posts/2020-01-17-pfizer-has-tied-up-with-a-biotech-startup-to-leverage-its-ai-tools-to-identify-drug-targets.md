@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T17:25:00Z
 sourceUrl: https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1
 type: article
 quality: 57
-heat: 67
+heat: 71
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
         width: 750
         height: 448
 
-secured: "VU9B1dIsJM2d3g5j0fiBYjxHusJoduOhEMnp5ac6JBxs7UXE564ECOfawR7sigSMFrrCAlKmUIXoDwpJ9nVpVaEPmvRLRKN3TWrwbso3BM83blXbCiYrXWGIh+WxnJYSsW7Ia7XgMZL4JrR0GJHJf0+U/mqgEoTM2FJF6wM7vIgLYoWavpgYfotskE6gPd6P/FQiGq35pmK1f2EpIDf8+9pKS4g/bdLDWalsyZ8Ro+frBcmGFKPJFDD4Gcujf1vGTwVnTyEHWQneEnp4BtYQzn4rS8ADoxYslLl4DvPJxaA=;TgCIlBDWjIIQerlfej1cEg=="
+secured: "FsTX/9CQ+9IeE1v4erzaVvbW9fVbc4vXGOrfczwgaDoI3GYv0JJ8HHEVsHktVxdZefuMVW/FtLk0S/Pa7HvKCqnicJuJzxSYyuTTAKAJpPTjatbJKlBs6ematQ4vq1H/B+UhFxvLHGvV58hMVzNa2+tLDadZDDyxfzu25BlhBcqgz1dyzJxNdedwjgkTzXsftamf+2j7FSHw4b4XuPsRXXSwXHB1XkPEya5Qv1gBJSMtktUGHvWlfFw2gGYv8HJoormaN22XcEAo8OtXbuz6FSIwfdaAwqntNxxHGN5GQ+w=;fcZ7LrFA7vXQ1PWve5n3jw=="
 ---
 

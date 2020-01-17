@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 675
     title: "What is Natural Language Processing (NLP)?"
 
-secured: "3394mY+F5I6Z0LeORxcrS2q9QebJeETICwkVRFsL5gdOlLMO9K+zSP4riXeX16nfkuhQymXxNwX1VhXzrsAUGyWAcvzEEv+4PXk+J8Na/NT1kqrm2yJwPMBXl71U3yXqLLmRaSLWmYG2QL2beprdN+hY26RWk1iHKGrE+29ya+VuoFqsS3mu8LFhIy5Eu0eFl4mfRD+fyvUHAeQkXW51qtao+TE2Co60lmIQpJaA+8I6gkjxxx4M2bpIjQJ7nuzBK1ip8ROfAhsrt+NzQOK8KQJhgvdftSlhqEf5kRJCHJg=;x7/aAaWEPTLiHggsX8dT5g=="
+related:
+  - title: "Google Cloud Team Releases AutoML Natural Language"
+    excerpt: "AutoML Natural Language works with a wide range of content such as collections of articles, scanned PDFs, or previously archived records. There are three steps in how the tool works: AutoML Natural Language also supports analyzing PDF documents ..."
+    publishedDateTime: 2019-12-24T00:00:00Z
+    sourceUrl: https://www.infoq.com/news/2019/12/google-cloud-automl/
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 19
+
+secured: "F3oxNOhZ8TfIQoN4hLvc6/ypgBUvxWxnZYZsIfUyzPbuXkM8o2MYBaQvwZG/Y3tIMC3/uCUdqKwqKXIkZk4qIQ1E4n0kRbL7Zcxsujs9bLfzvAC4AGnxvBXDbhLVed0ePUc5BMN1Hb2G9JZ3m5ximlBHxhoQLveqbxwdzaRST5o6CipxZdatAg6RnYS6uM+aYU7iv6H4PxIW1E5aSsNUMxX66XQbb1Vl82X6BBqZD3I7DTiZFgosukOkinJK4nJAp15mWt5MycGPs0ZwUkHerrwjWQwldxUK222690Zu8l8=;zH8557FAvxZS0Mnh/QJfOQ=="
 ---
 
