@@ -39,6 +39,19 @@ related:
       - url: https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg
         width: 2400
         height: 1600
+  - title: "Groq Hardware Now Available on Nimbix Cloud for AI Workloads"
+    excerpt: "The Groq processor is designed specifically for the performance requirements of computer vision, machine learning and other AI-related workloads, and is the first architecture in the world capable of 1 PetaOp/s performance on a single chip. Nimbix is the ..."
+    publishedDateTime: 2020-01-17T17:46:00Z
+    sourceUrl: https://insidehpc.com/2020/01/groq-hardware-now-available-on-nimbix-cloud-for-ai-workloads/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: https://insidehpc.com/wp-content/uploads/2020/01/groq-1.jpg
+        width: 483
+        height: 483
 
 secured: "ZrZcqXdLpaegRa+HOgJUrdetftNXhKSe3q9rOTWjHrM5nbGcT1HtyUAiWtDhWy2n4LwYd67zKA4Q+uAzZ/BKKDej9pTBucXc5WoBA5PLIScdNwVc1fnhuX8fUgwGNB1Rn2kkaah3JmybPJhr875DqZPS1uCnlgy9jRqqQJih9U2JgQzvIvT1pM5VMy/DxN3LOXkxprPhSgU6zaZSIXKVONl/lQqi1UgJSKsDxKPbCVlxcjF7AdQmYWOgc6smez0XiGX9lxa4rGShAkhn2DGriVh5lTvdY93GFtuTVM2+JRc=;mU7KO62uS0jF7WU1DfYYZA=="
 ---

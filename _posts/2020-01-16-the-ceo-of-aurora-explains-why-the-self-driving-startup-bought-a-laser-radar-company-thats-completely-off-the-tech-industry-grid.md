@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The CEO of Aurora explains why the self-driving startup bought a laser-radar company that's completely off the tech-industry grid"
-excerpt: "Chris Urmson explains his startup's motivation for buying an obscure company based in Bozeman, Montana."
-publishedDateTime: 2020-01-16T18:14:00Z
-sourceUrl: https://www.businessinsider.com/aurora-ceo-interview-self-driving-startup-acquisition-strategy-tech-industry-2020-1
+excerpt: "Blackmore, the laser-radar company located some 100 miles southeast of Montana's capital and founded in 2015, lives in the unlikeliest of places for a self-driving tech startup. But Urmson said that Aurora was attracted to Blackmore for the company's sophisticated laser-radar technology, which Aurora want to use for large trucks operating on ..."
+publishedDateTime: 2020-01-16T13:18:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/aurora-ceo-interview-self-driving-startup-acquisition-strategy-tech-industry-2020-1-1028823418
 type: article
-quality: 40
-heat: 40
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://image.businessinsider.com/5d7bc1ea2e22af145f751b69?width=1200&format=jpeg
-    width: 1200
-    height: 600
-    title: "The CEO of Aurora explains why the self-driving startup bought a laser-radar company that's completely off the tech-industry grid"
-
-secured: "O/mty7Th5Uu1QVXKxyd37/OKnSwL+CW9ER328RrHt9M0SZHLyfcSAKbyToLBxOP+hzRhuuyIT/KIt3sBx6CbY91A8Gw5PWc+rL8wl1XG8isNRfa4N35dcVwl4W+XfLdONGir7Lf0FE8jT1qgXk0wTuTXpym8x38zdVy4Feves/fds5Oh5Vq19Z7DGYk+hYrJToAdXpQ3rdp8g4EwHygZjxmxJJQqerZ7g9+NNtwoPjdTlDnLTprH/CnP+qcOhajVdP3zUI3eprsWdud+EVoZrLUrzL9OnYF2pVwlWXNmuh+0uYiFS5/Oj5ocli9DMT69QT0R4835OVSBN6vdQurvTN1AhI0c7adMQYOhbuZIjC8cvZtBxcmwUpgpJVINjs5dN8M32AAAUMVO55ByPNDG2PG6xiZfDx1QU8I2omQYzWRD21u8LyuJcLTLXM5xUVPjFIQ3xdi+oaNOEpXI6QTzVA==;BIjz961YxLqJZy1o8KDtzQ=="
+secured: "EIFMeECrVGeEQwIlOtrfgLZWs+wTQicUA2j/yqYAmGSjl5w5GCdt2CpfdYd7b6Huj/d+Kx/tz1VEPeSWosfpj/Q/Qv9lFz6HZlmjx9kcRj/oFDuSSbTMCQF0EajdhyoDXreWjtVcM76r3yXCe1kxKSUTBNeYV9iFqO9KJ+XLd+PEV/u6a2TZjtXm6C2+oxnn7KYfBECkPpz8plqk/V/odQ85g0p7Z18enrCFXwCU6U/enWDW0D5b8bOr+eedLSCL6eAq+15yW5oC35iDsCF2nyWp/IdBpHmT5gMChZTS9wMVjKUrEov4XJUtjAj74YefkepNOrVeZss+HmxQvYWd6oALO/72MXIvmr/17VobyV+HAgc5JbNeBSmDTSPO3NHMLivxj79HIYyXhA6t0sJGPBfUbaLOXGDcu9dggS6HaTfiBxFxIxZBpPh0bTbsVouADq9lhxKXJBrFbuV5Baa+Fg==;Eo12YxdpG63zcXS/3Uotjg=="
 ---
 

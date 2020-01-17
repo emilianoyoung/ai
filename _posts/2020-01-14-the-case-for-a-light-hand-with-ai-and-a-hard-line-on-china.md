@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
       - url: https://i1.wp.com/semiengineering.com/wp-content/uploads/2020/01/raik-brinkmann.jpg-1.png?fit=320%2C206&#038;ssl=1
         width: 320
         height: 206
+  - title: "Groq Hardware Now Available on Nimbix Cloud for AI Workloads"
+    excerpt: "The Groq processor is designed specifically for the performance requirements of computer vision, machine learning and other AI-related workloads, and is the first architecture in the world capable of 1 PetaOp/s performance on a single chip. Nimbix is the ..."
+    publishedDateTime: 2020-01-17T17:46:00Z
+    sourceUrl: https://insidehpc.com/2020/01/groq-hardware-now-available-on-nimbix-cloud-for-ai-workloads/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: https://insidehpc.com/wp-content/uploads/2020/01/groq-1.jpg
+        width: 483
+        height: 483
 
 secured: "gkCbpqz0cS9EiKqT7aKPFjMSdK7YGdQhPa8QiO0nnJPBr5JLCaa0p3BuynadCreWpuGws86vkh7CqokxsC/zXZZL8uVsuO7tEDq7EyfNsEsEHys4uzvGqzo+4Jl11YFrgxNtekPyJ60oppNFuzevfVXUzVijlR41BUquJCqbWphSsPPjMRWZaWTKXDHF9ARp9nrYj9oJxZquGQ2rg1XVbHidGgkGUnL+t1spTYW9B43rMI4b3RPcxYgY7/aSbNDIQFx/LBF+fJyOgKVzdtjmAK9J8ucRhz6fqhtO3HnAtYhPic2KU/sJyqN2cko1yvMIxywglYt22/lvDYvgAYEPliIWlo8654aPvMAMg0dzKAMkXV1OpOh65QI4OEigN1OEabSNeflz6fyEAN8jagZYmsLMhgYEW/3cKjuu6mDCqPMRXjzPStMvanEHgxVJcS8XlEXMewU+JvHedKx3dOhZXg==;5KiQ1T2Cf/tPqIu8zTGfjA=="
 ---
