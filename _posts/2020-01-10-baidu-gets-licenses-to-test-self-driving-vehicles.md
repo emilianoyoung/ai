@@ -70,9 +70,9 @@ related:
         width: 1200
         height: 680
   - title: "What self-driving cars will really do to cities"
-    excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost certainly never come to pass. Self-driving cars, left to their own devices, will likely do ..."
+    excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost ..."
     publishedDateTime: 2020-01-11T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=rss
+    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=feedburner
     type: article
     provider:
       name: Fast Company

@@ -8,8 +8,8 @@ ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-
 cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
 type: article
 quality: 50
-heat: 60
-published: true
+heat: 50
+published: false
 
 provider:
   name: Brookings Institution
@@ -24,21 +24,6 @@ images:
     width: 6720
     height: 4480
     title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
-
-related:
-  - title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
-    excerpt: "The emergence of artificial intelligence (AI) and its progressively wider impact on many sectors requires an assessment of its effect on the achievement of the Sustainable Development Goals. Using a consensus-based expert elicitation process, we find that AI can enable the accomplishment of 134 targets across all the goals, but it may also ..."
-    publishedDateTime: 2020-01-13T10:06:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-14108-y
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 46
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14108-y/MediaObjects/41467_2019_14108_Fig1_HTML.png
-        width: 685
-        height: 343
 
 secured: "FN5bTg5ZxeAC3kCkhesaXKv3Sh64bCg3SmlAC5Ct/f5SNs3tLdxdPgO5b7N5E5GuFAfW7WWdS51ut2srFqP98KtucCYzdcWKDGE4JlaW9J67MyV77erFHWPyfq2l7m9YnyywmdQ9iHTww5takCzxeR1nitAf2L9T3B79XPg1P3M5Rr1gtpUEnEhRzJ7ZRXUPteFHJo7gnYFx/D3FyOzJO/IOOWZZD4mIc+x6wI4Oia6ejqitUWuZZ03JvU106scL/cR97RLDV2z0jsaeVjSFIVvA3Fp7TczjWVYooBxraEL2EOgnxxGBSqSVKBl67IKXBf8LoKEeLK8/eTnQxugy2Mx5566mLGgCzcjnuSrYbdL1tEnsnZDxqFd5G82MRWomBXpHaZMtRLqrVkHyyfxlCw2aCUI+dI6gH7kx9fMMz5w5O1usmmgepn1pPFj2c3N2UkRl26wZKdlkmVuoVirNag==;kn8QvSiL+pSjqOpv/QvUuQ=="
 ---

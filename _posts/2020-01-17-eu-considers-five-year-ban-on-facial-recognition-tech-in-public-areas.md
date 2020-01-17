@@ -375,6 +375,19 @@ related:
       - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
         width: 360
         height: 362
+  - title: "2019 Proved We Can Stop Face Recognition Surveillance"
+    excerpt: "This piece originally appeared on Fast Company. In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest ..."
+    publishedDateTime: 2020-01-17T18:26:00Z
+    sourceUrl: https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable/
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 39
+    images:
+      - url: https://www.aclu.org/news/images/share/default_fb_share.png
+        width: 1200
+        height: 630
   - title: "EU considers five-year ban on public facial recognition tech"
     excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
     publishedDateTime: 2020-01-17T10:49:00Z

@@ -23,21 +23,34 @@ images:
     title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
 
 related:
-  - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
-    excerpt: "AI could intervene directly to improve personalized health care and product development. Importantly, the health management platform precedes the leveraging of AI, so we must equally invest in cybersecurity, Big Data, cloud computing, and blockchain. Artificial intelligence for Africa presents opportunities to put the continent at the forefront ..."
-    publishedDateTime: 2020-01-13T19:12:00Z
-    sourceUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/
-    ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
-    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+  - title: "European Union to restrict the development of artificial intelligence"
+    excerpt: "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ..."
+    publishedDateTime: 2020-01-17T13:58:00Z
+    sourceUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/
+    ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
     type: article
     provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 50
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
     images:
-      - url: https://www.brookings.edu/wp-content/uploads/2020/01/global_tanzania_drone.jpg
-        width: 6720
-        height: 4480
+      - url: https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png
+        width: 788
+        height: 525
+  - title: "European Union mulls new tougher rules for artificial intelligence"
+    excerpt: "The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU's executive arm is set to propose the new rules apply to \"high-risk sectors,"
+    publishedDateTime: 2020-01-17T14:51:00Z
+    sourceUrl: https://www.sfgate.com/business/article/European-Union-mulls-new-tougher-rules-for-14983285.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
+    images:
+      - url: https://s.hdnux.com/photos/01/10/04/70/18894393/3/rawImage.jpg
+        width: 2048
+        height: 1365
 
 secured: "cyGdezM9v8AXoa2Q+gbbfG+eFBS34iA3WKPRh1Vd4b17NsAbTL/B3o8ntlRLD57jqFB4UYURGq9G7/s5+sTW8jTE8hUZ8+qCq4GlGKMcuPlEFb/ZtiGv+NHeRYEV4owKrSvaDIroe7tkaL14E5aQEh4dftrZ5wz+tQ/2+yjBFaBOuhhZw+ekTvFhErY+b09L8gedIgx3U2Gg5XvVeBDHLl8lTAdwO7HZ+H9M1mn2K6Sd0xjJGqbkIx0Gp/WqhkzENb/pH+gd7jf87mx1IOftZUKNtzgzuwwgwTAJeXrQHiOukjpf/f3CreK3r1vDvhr6t0kccwPjjk8ggyy7jy7EQGKoEf/tPTWQYTMICPVIEYYzFgnMqr7fsybMwuBTWRxI/EFRLmxjivDuSXawgJXBAyHxi4GUxAVCAy2HPXfNCQtbqcitB38SdeKwSCv+FGJavLZYhWNOVG3+kUxVRgwWOg==;bJXfyLJs1kNYOjEp1Rbm9A=="
 ---

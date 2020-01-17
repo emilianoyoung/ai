@@ -54,6 +54,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
+    publishedDateTime: 2020-01-06T17:45:00Z
+    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
   - title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
     excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
     publishedDateTime: 2020-01-10T06:06:00Z

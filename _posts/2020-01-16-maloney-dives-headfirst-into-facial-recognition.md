@@ -362,6 +362,19 @@ related:
       - url: https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg
         width: 800
         height: 450
+  - title: "2019 Proved We Can Stop Face Recognition Surveillance"
+    excerpt: "This piece originally appeared on Fast Company. In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest ..."
+    publishedDateTime: 2020-01-17T18:26:00Z
+    sourceUrl: https://www.aclu.org/news/privacy-technology/2019-was-the-year-we-proved-face-recognition-surveillance-isnt-inevitable/
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 39
+    images:
+      - url: https://www.aclu.org/news/images/share/default_fb_share.png
+        width: 1200
+        height: 630
   - title: "EU considers five-year ban on facial recognition tech in public areas"
     excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial ..."
     publishedDateTime: 2020-01-17T16:27:00Z

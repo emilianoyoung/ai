@@ -57,6 +57,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
+    publishedDateTime: 2020-01-06T17:45:00Z
+    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
 
 secured: "bUMRcLbENIzYMDuO+QcMgU/xS0GaPyjKe0kJ/yhtZdEYTQIpK1gZWzB1PZ/0Gy2pLaUKPlsxkxzAwbQ2gOTCGrTSoy9qgFP6YAunu+e9+XGHSPoBYunZNkOxC0SdgcF9EtHmZSAwMaNU+o12W7xLn2egww9lCF9q1qhZZxhhls3yLUVJq6paf53QJi/mKeKHqeGmuvV0fibLaejGUy1NNoLsaNfEu1siUBIC10Bqd/TdZYfEY8kAwe1m2fY2CQZXVg+QypYhobKq3w2c1F5C/8d7J/Af20bDhIzyESVahK4=;3E4mvDvLkyEkFgcqkDz99g=="
 ---
