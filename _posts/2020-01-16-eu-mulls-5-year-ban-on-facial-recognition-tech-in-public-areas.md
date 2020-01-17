@@ -95,6 +95,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "EU may ban facial-recognition technology over fears of abuse"
+    excerpt: "Foo Yun Chee The European Union is considering banning facial-recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial intelligence and widely used by law ..."
+    publishedDateTime: 2020-01-17T03:40:00Z
+    sourceUrl: https://www.independent.ie/world-news/europe/eu-may-ban-facial-recognition-technology-over-fears-of-abuse-38869556.html
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 24
+    images:
+      - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
+        width: 608
+        height: 342
 
 secured: "wic88uh4rI6BJXbr2p2aXSw2HL+rdlc3RBL10iUnKisbaCceonrtNSA4MBis3Kgkm6m5xFekvAegBm1qERANF6ZO5MrSeNucGZhLNMbpYqm4odDohrjXm1rW5RpJ1hlvDWGfHbs+Z2pVxu7HzsmUdsCxiHRQZVpHVQuklPdb/tbGBMvLmea060OQLvANv1h9olTFQMio9llbX3im9ZFI4J6jvkvRo1GthTQPqO1D618Ruv2cEmUFUkhadh7WvWZt+kv9QMXipPiS52zsJwoMF1q6pQnDzrf/5Z7zpV5t3g8=;2ra3P0687GxyLqd3FXzmtA=="
 ---

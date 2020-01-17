@@ -1,31 +1,44 @@
 ---
 category: news
-title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
-excerpt: "Facial-recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only non-citizens are required to be scanned."
-publishedDateTime: 2020-01-16T10:57:00Z
-sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
-ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
-cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+title: "EU may ban facial-recognition technology over fears of abuse"
+excerpt: "Foo Yun Chee The European Union is considering banning facial-recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial intelligence and widely used by law ..."
+publishedDateTime: 2020-01-17T03:40:00Z
+sourceUrl: https://www.independent.ie/world-news/europe/eu-may-ban-facial-recognition-technology-over-fears-of-abuse-38869556.html
 type: article
-quality: 154
-heat: 214
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Philadelphia Inquirer
-  domain: inquirer.com
+  name: Independent.ie
+  domain: independent.ie
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
-    width: 1200
-    height: 908
-    title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
+  - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
+    width: 608
+    height: 342
+    title: "EU may ban facial-recognition technology over fears of abuse"
 
 related:
+  - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
+    excerpt: "Facial-recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only non-citizens are required to be scanned."
+    publishedDateTime: 2020-01-16T10:57:00Z
+    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
+    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 154
+    images:
+      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
+        width: 1200
+        height: 908
   - title: "EU mulls 5-year ban on facial recognition tech in public areas"
     excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
     publishedDateTime: 2020-01-16T20:56:00Z
@@ -91,20 +104,7 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
-  - title: "EU may ban facial-recognition technology over fears of abuse"
-    excerpt: "Foo Yun Chee The European Union is considering banning facial-recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial intelligence and widely used by law ..."
-    publishedDateTime: 2020-01-17T03:40:00Z
-    sourceUrl: https://www.independent.ie/world-news/europe/eu-may-ban-facial-recognition-technology-over-fears-of-abuse-38869556.html
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 24
-    images:
-      - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
-        width: 608
-        height: 342
 
-secured: "Z76NxkT5vsTX31qGi+jYKMQft8voLZ4Ix2Y4xPfQV9B5oCmb27YME2wOOfAFB9OkjQAh38jrxp++p+IjukXq9HOle/A94+BvWgu/ecEsnvT+G9SWhd2fVkjYHnrXhs6VV2p4AAYWl5NXcFNSGgW7pK72DPsRJ9ZtgwkFh8alVBwK0LYcIBFv7mEJprQVNbdOdfwuqs1NQOQ5BtYcFDLvc/+wAS7Putr+QDDXMRGpa8YKSJ/mQWA+YMbYV0Of2xgRWSzOFr8CHmZA2tA6N5b/vT6TZsn2uzHN/stDvRRj6a1afL82Qb22HAN9uq57Lv82SdLDxpzQF96WEiU8RNKyAfKAWj2Ydg6vEDSfthmJVFK5qp/mSlIiFHYXPKEAGCZXwh6Kr6LjFZv04dyBPKv55rJm04cU81cYo/2XYUUCURD4eZ/XyU1VpWZIOe+7xVCf6ixbL6EvyxjTb/kGl9PGMT7y8jdQtRjnI9a6qfeZN5U=;QUanKE4sRRloPGkMp+orWg=="
+secured: "YnbR6klYx9dQntlFu9ropcEcOL1fNXCqt7+x9WwpxvtjdA9qoIWgazinXoCNaOqTgCe+NIEXAk5zxlFZCrc2+scfnINi1WhZJzt6aTGPxG6cFpybJtA5GRWobXNJi2SYmTzeb4NblSJbkmjzfXBQyL3/uAlrfwKi8M/8P3mZIKEhbNxoH6R+1LrS+6B1s1dz3v4Fjf6l1UidxadfJrEpygM/LW/Vc6UhQwQJ3QjxNT1/Aq2KpfPn0QR2Cv3zCHkbLmT5/jMIZk/d/cN8inbiEcedwUDCCLCa27kscuVF7C4=;08ng8MT0bB34SacybWzFBw=="
 ---
 

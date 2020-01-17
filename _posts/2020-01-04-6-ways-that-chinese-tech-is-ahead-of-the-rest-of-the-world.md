@@ -3,9 +3,9 @@ category: news
 title: "6 ways that Chinese tech is ahead of the rest of the world"
 excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
 publishedDateTime: 2020-01-04T12:00:00Z
-sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+sourceUrl: https://www.techradar.com/in/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+ampUrl: https://www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
 heat: 104
@@ -72,6 +72,6 @@ related:
         width: 614
         height: 345
 
-secured: "cSp7Ba7RTAOQzetb21uSDU/ZwdgxUGf4Om7N+YPSut1dbRh66MaHLQNCFSDVEK/+/+8761ea9V7u6iteHCgirvRke+0r/coodR4T8if9dGkq6IoW49gFUBxqqvDRvEWWdM0mLaFRVjzSWO8oNEyVGDaX2aeEGlDPiKxfbnr52Xh2o8AwWz1XSt8rayvwpXnefomNt3DRRpyn7CHC5wtUmD8iUHkMNweEFfOuBQ91GkXGqmMg/hZceuesk15RiYrJ9gvbxIGqWXPfgAHe48w5CzVDPGHtYPIj/K7L/IX2CU+yNkkM3EMgtzF9L3XUvx+I/7yvBzMUnA8BmxEBwHW/7N9rWuuWSvQaHXDBuOkwWr0dJ4RcNs30rgRLlK2YQ+dk9cPlFMryI0y9HtO9nVvUrHFfE4MXkmhDHujAyPEv6pOc9W8/EK5eTwDaSPoDMGjZz8Fsk859iz8Cnat71sI2MA==;s4jLBz54ezpKsWI/GkBpvg=="
+secured: "UonPaQkHmUXSyXWXW0GLtPScOyO8NmV84W1g8pGVEjbQlNybg38v3GarYL/DpxfgYob4hf9CD9I6V+Cdz3f2sb9AaQ5fKlg5e2T177tYCqr/+bTJ0ijGZ7MVftTYRd1cMxvjAgONHGQA7sQRR34I00WdWwoHY2ZSvSFsDih8Y8QXJqSEsIfcic6znobtwT7eUSYJlW7GX6Qo+aFgAk48+vks70Q5JMW6hhnp4HFNx01KO9UbL7DQAgGO7XUl4gsz33SBiXXRygRnCov4qbhCbFH9Ujpziqh33u7W9Wm4Juc=;q0zGjZeZ59YGKBLVhLcF+A=="
 ---
 
