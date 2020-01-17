@@ -1,28 +1,24 @@
 ---
 category: news
 title: "VoiceFoundry Announces its Consultant Listing on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
-excerpt: "analytics and artificial intelligence technologies for businesses. Additional resources: Salesforce AppExchange and others are among the trademarks of salesforce.com, Inc. About VoiceFoundry VoiceFoundry is passionate about customer experience. We specialize in the delivery of Amazon Web Services (AWS) contact center solutions and are uniquely ..."
+excerpt: "TULSA, Okla., Jan. 16, 2020 /PRNewswire-PRWeb/ -- VoiceFoundry, a global provider of enterprise, cloud-based contact center solutions leveraging Amazon Web Services (AWS) and an authorized Amazon Connect reseller partner,"
 publishedDateTime: 2020-01-16T14:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/voicefoundry-announces-its-consultant-listing-on-salesforce-appexchange-the-world-s-leading-enterprise-cloud-marketplace-1028823616
-ampUrl: https://markets.businessinsider.com/amp/news/voicefoundry-announces-its-consultant-listing-on-salesforce-appexchange-the-world-s-leading-enterprise-cloud-marketplace-1028823616
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/voicefoundry-announces-its-consultant-listing-on-salesforce-appexchange-the-world-s-leading-enterprise-cloud-marketplace-1028823616
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15135196/voicefoundry-announces-its-consultant-listing-on-salesforce-appexchange-the-worlds-leading-enterpr
+ampUrl: https://amp.benzinga.com/amp/content/15135196
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15135196
 type: article
-quality: 29
-heat: 29
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "u4YwoxMnYe5+7L5Rjxh5dIUf9hNSUWRTzv43xcNM9vYvsFQg+BrgQVmabdJzFhGAd0Igplolb7KrNlLMZdx/6L3+hUf93DIe6hOM0nMG62l3+v50DYefAnrXSbnu4bguSoB6ts/Eb11wWy7CMUMbxcPZeoTulsIQwOltzMKxBgHtGQ6dd1upk9NAEC+44LN4qS1EsP5LukSXvJ64uuJfxXPh2rbkOnbO2od+ltjDOSFkdhR4OvCGHhaVVClQw0SjYJV5inqKNXyi8Og8w42qWVId2Y/J+jkwyQ/lWGgxeuw=;I2LWoy7oTR5mlFBM5WyTJQ=="
+secured: "23xPa3Pf9SAtnjrG92U6mSg3qNCeT9J3gQwXtEAopv5ZdUY6A4feI3enF+yGcvQK6y30a7FC6cwe6mkqMFrj4mcFjd9ofBDV7ZCWLhAvJl17mttJipQQA8ztxf25B1SzGFJ1Evi6uKdlghAHGVIJOWiVkG7L1VMbdPJtXozr5GwVXF/Y8gm9FbJaDlu3Dz/fEekbc262MHgF1Nvnz3T3vGtIJSwUQac7yy0utPlKKzKXzg1+uqHsQxhC04S0A+BqKkd50sM2+HMK7E1eq2Idn1Bcdw4uSZtlGWBhsJG/M+8=;S7EJq0qRwebJzsELPVtgLQ=="
 ---
 

@@ -289,6 +289,19 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
         width: 400
         height: 400
+  - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
+    excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
+    publishedDateTime: 2020-01-17T00:32:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
   - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
     excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
     publishedDateTime: 2020-01-15T13:49:00Z
@@ -364,6 +377,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "Rxor8EuVOi6ozyC5r6VSypEO5T/AlY+hdVD9ap/DYUIhpnnmjLOXQsz8B2kCjsQ7mbPfG73FlZZOPjr6X0WcFrCEwo7ll2v/ZpLPDwScZ83bubhAhyxFDvTGRW5mRBsqZXDnnl1lZGPOjSPGDYKcPC9VDYtQKad/97lbX4XRBYW02m3AQtEYrAcKt/W4/PDOhj3v2IJi8NPxFKDIAOTyVmq+qoJx5zup8COwlkqEE0rQ1Ekg7MO3zYhTkrRGGNT5wRHvDEgbGkDyF7UsIFGBPdMVFvp9XGHwBBTeqXQ/3+k=;2mLb0gM0vYUJxPSSo6Jb6Q=="
+secured: "EO40bD5I3XV8fMr5j0noq7U1LihBSQkheJSMrN3oY49i4VmIpTdw3QNpzT3+9KEdRbYvPYp9YX0LaOzp5rGhzB19KreIESBXYMUxG1vzz0NWD1vgKAf8tWyS2fwPZ3fm6rhTqLeiBcPyghR5aMcVknf1gJzBdn1VUbgujK4SqvL9oaKsie8lHQl1CF7HI4qX9UDjQ1XW4Cli7xwYJ9jya9S4JevZQB7qWkG9k3RedT4ZRSBynq4dqETKQOwaAoKmicXK514aKZSKs9dzs2DrzptUzNZlfuDgGLn0nm9DtfD5rPEytZPW+Lh151invY8JsUpC0efSWpUAT6ZurhXbbgScAwp8+rTidKY5LXHTpq7sZm985CIZ42tQKnphlmAm4qVQUU4C3edjbpkS8V6UQscQDVQbSiEtEP6xAvfdQ+Ov1KTXPuOtmH2JVx9+y1YSRawrJJTAuTXtKCoBPtLcaA==;LBXpNCIs1MqTrCl6b+XVxg=="
 ---
 

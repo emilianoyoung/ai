@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Philadelphia International Kicks Off Facial Recognition Pilot"
-excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
-publishedDateTime: 2020-01-16T21:03:00Z
-sourceUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html
-ampUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
-cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
+excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
+publishedDateTime: 2020-01-17T00:32:00Z
+sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
 type: article
-quality: 59
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
-    width: 1029
-    height: 630
-    title: "Philadelphia International Kicks Off Facial Recognition Pilot"
+  - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+    width: 304
+    height: 430
+    title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -153,6 +151,21 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
         width: 987
         height: 554
+  - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
+    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
+    publishedDateTime: 2020-01-16T21:03:00Z
+    sourceUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html
+    ampUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
+        width: 1029
+        height: 630
   - title: "UK police use of facial recognition tests public's tolerance"
     excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
     publishedDateTime: 2020-01-16T20:55:00Z
@@ -289,19 +302,6 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
         width: 400
         height: 400
-  - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
-    excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
-    publishedDateTime: 2020-01-17T00:32:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 31
-    images:
-      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
-        width: 304
-        height: 430
   - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
     excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
     publishedDateTime: 2020-01-15T13:49:00Z
@@ -377,6 +377,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "65n785iOPuaCZsaVBH8Ffic2ELvnUG4NwTXG/h0f6fI7lTJ8mzp46HDbRIJnJFWwiwxYWHRaFWzLX5nTg9iksbS7qXCdd6Y3OfcQjgBnPYv7IV0F0Xm0CddEkg5SacvMi+MxKV/ePfjP3NXjGe3ChzaCN81jnTDxUC0kZBCY55DMXvz5miHwEuMKfryfo2EjM78JF/8xqSztm6SzmhTBpto48pzLdRPSPtb85VXLhRRLXN0TuDMGErOzALQ3xfX8I3vhV6CU3sEwFU6W32m3/iVBwNxx1CIE+mwYD0FFTiM=;y9P3kCQTEJANk/L4EU/EoQ=="
+secured: "Mi6k1NhtfCU3SheHTkdXPEySQx6m0MtGzAYJLBIQmpYIAkcezN+d1PrmLQbwC7xiCavKtKV1hW4ORzJ3GNrr/rDPQzWFQ5yfJGRpT/MN4+h/eP2dRyw7lLGTbek5TN3yrO3cLJIUW+2eVaql6FX2fMiHrM7XOMpzGKB0aTSPq2t07Pfq5Rqn6DRkxjEbnQTN+WCQs43SSEPp6EaV34flQPl7TtRJwfKQgxzdGuwixU5FvHeIXvlmLEVnPVY9EeDvxlRUxVwwpBUOAv4PHkc4wrJDPDLc6hXuwUAQnzQ24FY=;nnZ8r3j45IYliJPyOUQc3g=="
 ---
 

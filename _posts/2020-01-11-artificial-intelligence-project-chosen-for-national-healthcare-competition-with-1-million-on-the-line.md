@@ -52,6 +52,19 @@ related:
       - url: https://medcitynews.com/uploads/2020/01/StartUp-Health-Feinberg-600x400.jpg
         width: 600
         height: 400
+  - title: "Nvidia says it has a solution for healthcare’s data problems"
+    excerpt: "Healthcare leaders wouldn’t stop talking about one topic at the JP Morgan Healthcare Conference: artificial intelligence. At Boston Consulting Group’s annual look-ahead for 2020, audience members rated digital, analytics and innovation as the top strategic priority for healthcare companies, even above pricing, access and M&A. But ..."
+    publishedDateTime: 2020-01-17T00:56:00Z
+    sourceUrl: https://medcitynews.com/2020/01/nvidia-says-it-has-a-solution-for-healthcares-data-problems/
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: https://medcitynews.com/uploads/2018/10/GettyImages-889905792.jpg
+        width: 748
+        height: 467
 
 secured: "PqrgkbI/hj6PAwb1FANtDDxuMdwKnas05NKCiUh5715Uw8kNUAuMSkRypoi2zZnTAbC1S0evkJkp8w6R6x3vRMOlUqNaopJKjuHS2XWgno9ZlXItlIW9CiG48jMcK+6X82JtLHDd8+HWDl9i+ptNry2k/VpI63+ZoE2PJffBuuUTCQ1Iz0GsCKVqZTSmeSP10aCIfSRvzywhXdjyato4LlZXKXUUjsh2psCNKfIInaIPq9YJx3zvK6tkq8H8/SGMs/gsnvQMScIxX8SSdU9cYXlrB90mVR0RQVodky+tGiKwjdn/JVuD5Gu4gOHY4BYms0Io8xFNk/Es6hMnAnDW7vFednhHgnFs6HMervC9Y3VxT6C0nZNnM4T4mBkCkOziU0RBqb5JoGkH+j7gnVune5qGDRYksDlhYbRtijyZQHi+QaJ0r1HzA11DD7vW8KXrsWQ9Kv9dkqUA9bLEV0AEHA==;G6xZCNPi21C2dN2A9lZBpg=="
 ---

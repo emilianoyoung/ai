@@ -3,7 +3,7 @@ category: news
 title: "CBP Expands Facial Recognition for Global Entry Travelers"
 excerpt: "Over the last few years, Customs and Border Protection has been rolling out facial recognition programs at ports of entry across the country, including the nation’s international airports. Now, the agency is increasing the use of the technology for its optional Global Entry program. The Global Entry program allows frequent travelers who are ..."
 publishedDateTime: 2020-01-16T20:33:00Z
-sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/cbp-expands-facial-recognition-global-entry-travelers/162498/?oref=ge-homepage-river
+sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/cbp-expands-facial-recognition-global-entry-travelers/162498/
 type: article
 quality: 39
 heat: -1
@@ -92,6 +92,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "bDQLgQ70bh5c1ooctp11atOUi7VREmVYDL0zDPbOe7JFETZmXqoWXfiYcFyfM5Aa2f3dRPIxt0eBwJqFBwX7oHNenOvfDzFD3UHZN7bfF5FrWd1Y2BdwSvlXnpFspR9L0Eq4HxPkclRoEiQ0DhDadoDf/ZISubpDkvl0Fr0u7+ScowIa+G6CppHK/amYcX4lBFxMzj6/3DVlEhKojuQ9Kdlj94IrxF5I+L04ZY3o196hucsAHWuXLlw5o/odu3EJojBzSV1ra4I9C5+BwFTgPKB0BOf2pf7f6moMhB/ct1H+2QndvgFl2/13uAdpx0hBmtqt8wkrzD2D9dv4H95gsN0WLh7zY7eraGv929swNy3tCCRNvgyoZwGU7Qm/GpJuR9xf+yZtlhA1t1XeIWFrvw4u3gpsqwwui0pdz7MOFMRehUa375M8FDTCv94zJVIkx5Ha7KkpTH1xfy4jQTL3cQ==;Gkj1z9ebNupyq5LcC77T4Q=="
+secured: "2nWRY4r5dtE1Pc9rV2EOK4f6Dz7FfFnUYYlXn2sl4RPqMWUZ1y7j3hM1KuihCbQRf1J6GofGcTOGYqVN3wSsJsGEiU11OHXQts9XH6ctdJ9pofBtYp5afQU9MCk1A72S7KAkt93oJSnUITR+N37TTzBWX5JrFbRkLkOv8xZ9ty8OEVgkZJ6/pnEBNxr4LSNUwccbn/IkYEpXdummyf2KNpphsJpEGcE6FozrYctWDKO2hdmWd79+3BApy1wLNRl9AoDy+q+zYtKk4p+6k7PQRnnFO5FNFGchu1gfanVecRE=;HSgJ02pZ1uxdhPbRwAgPeQ=="
 ---
 

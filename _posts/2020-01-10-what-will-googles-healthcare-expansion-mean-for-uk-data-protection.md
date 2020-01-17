@@ -39,6 +39,19 @@ related:
       - url: https://medcitynews.com/uploads/2020/01/StartUp-Health-Feinberg-600x400.jpg
         width: 600
         height: 400
+  - title: "Nvidia says it has a solution for healthcare’s data problems"
+    excerpt: "Healthcare leaders wouldn’t stop talking about one topic at the JP Morgan Healthcare Conference: artificial intelligence. At Boston Consulting Group’s annual look-ahead for 2020, audience members rated digital, analytics and innovation as the top strategic priority for healthcare companies, even above pricing, access and M&A. But ..."
+    publishedDateTime: 2020-01-17T00:56:00Z
+    sourceUrl: https://medcitynews.com/2020/01/nvidia-says-it-has-a-solution-for-healthcares-data-problems/
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: https://medcitynews.com/uploads/2018/10/GettyImages-889905792.jpg
+        width: 748
+        height: 467
   - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
     excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
     publishedDateTime: 2020-01-11T13:21:00Z

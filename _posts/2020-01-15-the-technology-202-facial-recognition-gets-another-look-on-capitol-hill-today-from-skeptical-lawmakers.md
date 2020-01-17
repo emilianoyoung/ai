@@ -302,6 +302,19 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
         width: 400
         height: 400
+  - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
+    excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
+    publishedDateTime: 2020-01-17T00:32:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
   - title: "Activists pressure colleges to abandon facial-recognition tech (EdScoop)"
     excerpt: "\"Promoted as a technology to create a safer and more secure world, facial-recognition software, which is capable of identifying a person from a digital image or a video frame, is beginning to pop up at colleges across the country — but digital rights ..."
     publishedDateTime: 2020-01-16T20:37:00Z
