@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-met
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/
 type: article
 quality: 93
-heat: 94
+heat: 93
 published: true
 
 provider:

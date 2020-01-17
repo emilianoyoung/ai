@@ -90,6 +90,21 @@ related:
       - url: https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200109&Category=BUSINESS&ArtNo=200108779&Ref=AR
         width: 1600
         height: 1139
+  - title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
+    excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
+    publishedDateTime: 2020-01-16T23:47:00Z
+    sourceUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024
+    ampUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
+    cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
+        width: 800
+        height: 450
   - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
     excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
     publishedDateTime: 2020-01-13T18:05:00Z

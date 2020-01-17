@@ -1,27 +1,29 @@
 ---
 category: news
-title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
-excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
-publishedDateTime: 2020-01-09T16:01:00Z
-sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
+title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
+excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
+publishedDateTime: 2020-01-16T23:47:00Z
+sourceUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024
+ampUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
+cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ExtremeTech
-  domain: extremetech.com
+  name: Jalopnik
+  domain: jalopnik.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.extremetech.com/wp-content/uploads/2020/01/Velodyne-Lidars.jpg
-    width: 1344
-    height: 742
-    title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
+  - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
+    width: 800
+    height: 450
+    title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
 
 related:
   - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
@@ -99,21 +101,6 @@ related:
       - url: https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200109&Category=BUSINESS&ArtNo=200108779&Ref=AR
         width: 1600
         height: 1139
-  - title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
-    excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
-    publishedDateTime: 2020-01-16T23:47:00Z
-    sourceUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024
-    ampUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
-    cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
-        width: 800
-        height: 450
   - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
     excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
     publishedDateTime: 2020-01-13T18:05:00Z
@@ -129,6 +116,19 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
         width: 1200
         height: 675
+  - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
+    excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
+    publishedDateTime: 2020-01-09T16:01:00Z
+    sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/Velodyne-Lidars.jpg
+        width: 1344
+        height: 742
   - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
     excerpt: "Its foray into safety-autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Tesla and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
     publishedDateTime: 2020-01-09T18:30:00Z
@@ -156,6 +156,6 @@ related:
         width: 1240
         height: 827
 
-secured: "UkEzuUTwX+UoEQf7ccNVBxJqaYvyKFCf62oBC4+d+UtbGPF9rreC0k/8AWiNx1nfc6gu0QY8x+Cm1aGDa2sgkFywGJ3xSxNgYBL9wZUdYoirJouB6BU7mQnb223CIK7biuyRu+HE1ibOiQrGmgywKQBGfLLdPNxR9AM3pq4FvC89OvLvEeoHST1qvNTh3utCxUC6odv4yqwsKsFsN6lgn7ChMOrJccxA7Bz1MaJ0dWp8v09cfbGpNzfwFmvWDPQME0nGxk6AEsJAxiW0urL/M3Q89zK9HaYtAR3pu+6OTPIIrszJsX4WRs/rlvPjTEMNAL9GgsX0C1drs9SUnbFIiVz2VPQOkNrZeCYEXHSf49OrLa6NQgbBXRlnPlyltbgjnSwHSe198Eu2t1MVG8XRY3QKVeKnZTNQ3k6Zp9Uv3qcyHIrvyrkMX5J9pFFc/sTzd0b9r0xYLJnkK1SfMombGA==;rTZaOxhwglsnZevro+1gbg=="
+secured: "44XKhrCFQlZnM4mUnWQMM+cDzkAfJiXowo6z5M6GwX35BTbITOH5VttXXcOGi40WyJIiHxJVy1pNt4K+eULqpYz840qZ3s6iNh+iEJhTFMQyzlHTD7u09tSG5b986h9SYFRrzCdn334IOgb6FdSDrQX567VrsnHEVsYRVSDSvbRpe7u5wAWGcAtyI5215pgKRjmyyO+pGwDj8CU+BQLSk5+rlRp+/yQ8EKRqkMFVal2vdmhTDS4Ou3fm9iqiiHSagxQ8wQ8MiiBEtmcTsQe9bgVAkkBZ8yv0c7l2T6Nhx38=;YzModvMRnjT/WIddC++yLg=="
 ---
 

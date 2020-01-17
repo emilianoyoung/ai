@@ -27,6 +27,6 @@ images:
     height: 398
     title: "AlphaZero beat humans at Chess and StarCraft, now it’s working with quantum computers"
 
-secured: "T2YhCor437Rngh47M8wuyuhrKBjBrG9AaWazb4GHVP1cGaoLtsau1NB8aEo7B8kUYE4gSrZXfMkEL/NEqFady4NEF6dM5/jN/fCHjFZWNKlgm6/KTjSef6ynIQ+b3SFUOixbExB3ao+gjK67a5COOmsf+x8bOm1Jpti5AKh3G3+rupoGPT7i/I5e6ZycnZD52wNnnGBnvPdGODMg9JMg05ngiVDs3uzXHkafvE4U3MUqp2ibiYEd30I996rqZ/O+8ThY/x3UNUnQiaiWAoJaGLfpFdhhgCp4QixvMyEostg=;JGRAKdVwqxD0xnwTb78QtA=="
+secured: "Q+rwJkdGPmbK/4B/LWKLGzG5XzRcGhzSQ6CkzFYgG854c7hh+/UJ5ERphsHcK32MYn59N9pWytO7Jd/lstfx0rWioCvg8PmtEyum7n5ZJ3VS6CbxhwkvBtNyTmlK6bpqUEw1SSj05j8Rm8Xcpnc1y4R4MR9cq8d0/MiUATiswSVAVgArVqG29hL8DTo309K8JfIFWbsBAxlW/8ihOoIkjoSNzjKCQFtyab1boe2Axs25AXj2Synmlb5g4FDlb+GmhfuX4MZFqpkahxmBvKirHxPp+Q/XUx19YnFmwgkNlHth0tWoP4lDEkflr8J5URTlBTL6cg6aRlje70Mxwm/NG5JGjMjM/kgR8G0+4MnKzQN9ru41sNsKIvKTX4X7ne7fAxFTkZB6tY2kRpcErZElrXiB7OBxfkNZQ+JILCfDZU3s2mTAbp2Pg1VJJnDCfuPZCxSPlgOhfju8HEDvHT4oDg==;2r1oB6POTMxOHRB+b7zAjg=="
 ---
 
