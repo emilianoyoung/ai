@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence Can See Around Corners in Real Time"
-excerpt: "Detailed, fast imaging of hidden objects could help self-driving cars detect hazards. Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars “look” around ..."
-publishedDateTime: 2020-01-16T15:37:00Z
-sourceUrl: https://scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/
-ampUrl: https://scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/amp/
-cdnAmpUrl: https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/amp/
+title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
+excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford University in the USA have created a system that bounces a laser beam off a wall to create an 'image' of objects hidden from view. The 'image' captured won't ..."
+publishedDateTime: 2020-01-17T09:32:00Z
+sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+ampUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: SciTech Daily
-  domain: scitechdaily.com
+  name: Mail Online
+  domain: dailymail.co.uk
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://scitechdaily.com/images/Imaging-Around-Corners-777x524.jpg
-    width: 777
-    height: 524
-    title: "Artificial Intelligence Can See Around Corners in Real Time"
+  - url: https://i.dailymail.co.uk/1s/2020/01/17/09/23514880-0-image-a-98_1579253477085.jpg
+    width: 636
+    height: 382
+    title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
 
 related:
   - title: "Researchers propose system that taps AI to see hidden objects around corners"
@@ -41,21 +41,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/df112978-8d5f-4235-80dd-264758329d91-e1579063150693.png?fit=831%2C414&strip=all
         width: 831
         height: 414
-  - title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
-    excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford University in the USA have created a system that bounces a laser beam off a wall to create an 'image' of objects hidden from view. The 'image' captured won't ..."
-    publishedDateTime: 2020-01-17T09:32:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+  - title: "Artificial Intelligence Can See Around Corners in Real Time"
+    excerpt: "Detailed, fast imaging of hidden objects could help self-driving cars detect hazards. Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars “look” around ..."
+    publishedDateTime: 2020-01-16T15:37:00Z
+    sourceUrl: https://scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/
+    ampUrl: https://scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/amp/
+    cdnAmpUrl: https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/amp/
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 49
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 59
     images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/17/09/23514880-0-image-a-98_1579253477085.jpg
-        width: 636
-        height: 382
+      - url: https://scitechdaily.com/images/Imaging-Around-Corners-777x524.jpg
+        width: 777
+        height: 524
   - title: "Deep learning enables real-time imaging around corners"
     excerpt: "Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars \"look\" around parked cars or busy intersections to see hazards or pedestrians. It could also be installed ..."
     publishedDateTime: 2020-01-16T15:10:00Z
@@ -79,6 +79,6 @@ related:
       domain: tunisiesoir.com
     quality: 28
 
-secured: "QQetqgZV3E2ZiEvr3LE2YWWCUr2shn9LsJig7bsRFiB1F1uf8cEJe8pjpRdLdX9S+jGMIYrGtjOx8iwKhMNlSHeJoDmOdXgKu0u3A31rAaVehhz2kpOxFlaSegzNQ7mSUOzFCl5siWOtKyGtRi/Dy2lnkJ4LJyHHMWmnjL721lwJMzhO3ojmDE+lviOC30Ut0BpqBzGRNOsXf/e1GU0yQ1pJufHD3KN6QKTBAQMfL9jrXK1vVxlx7yJz14M14GtyOlKBdfZKlTL/PJWI/pHauoKd6bchEfxSnMx7Cq+rNCO74AG0cDv8EDduNvur3P5d0r3fiTR7u4IK5rJnuxZzSmSIn65JNBeMZkqqfbsPFx36JESEweMYKkz9AmEvjgENO7b+swEgGBC1uS+5ZEaE+qcBbNwFUmTBkQlX7hx71X7tJ4oMb/YEu4trnOEd6WHHKAsg9MRvYwf+xXxcGEvn7A==;swfWGQYdTb9RTt3/+GYSCQ=="
+secured: "GZeg5Sr0be7OY0rPt+J5TSpqYvEZS+bl/15T7aAEJwxJBeCKGtODGsbu0leYnJv9noU9e/i1ZR/ACJJFKnj66RF/1CYdQXEIEYL/klfaXEnIBQ8AQxMtRazk26hnUL6MG63EONEZMkqbl2TPRefh18hPC58pK3ZDGrowe6SVGxckfXBWkalEJfPIm12/iZNQ0lwiuFLc5OB0DJEZpMNUgUjH/rXGR3SVkHcoKGCsrp8ZV5EDO6+1mm1yzm+ieLbIJTM7lRlkHvevGXRe5bpoK6zNZj7ySEIomiVMWgMRN/4=;T3u6ySoZvoOEVVJ639vgpQ=="
 ---
 

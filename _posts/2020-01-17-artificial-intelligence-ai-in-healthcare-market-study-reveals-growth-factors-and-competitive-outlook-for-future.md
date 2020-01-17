@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence for Healthcare Applications Market to Show Strong Growth by 2025"
-excerpt: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis,"
-publishedDateTime: 2020-01-14T15:23:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-to-show-strong-growth-by-2025-2020-01-14
+title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
+excerpt: "Artificial Intelligence (AI) in Healthcare Market - Global Drivers, Opportunities, Trends, and Forecasts to 2022 Artificial Intelligence (AI) refers to the creation of intelligent systems that are able to perform tasks without human interventions and instructions."
+publishedDateTime: 2020-01-17T08:30:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 78
+heat: 138
+published: true
 
 provider:
   name: MarketWatch
@@ -25,18 +25,18 @@ images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Artificial Intelligence for Healthcare Applications Market to Show Strong Growth by 2025"
+    title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Artificial Intelligence (AI) in Healthcare Market - Global Drivers, Opportunities, Trends, and Forecasts to 2022 Artificial Intelligence (AI) refers to the creation of intelligent systems that are able to perform tasks without human interventions and instructions."
-    publishedDateTime: 2020-01-17T08:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17
+  - title: "Artificial Intelligence for Healthcare Applications Market to Show Strong Growth by 2025"
+    excerpt: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis,"
+    publishedDateTime: 2020-01-14T15:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-to-show-strong-growth-by-2025-2020-01-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 75
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -99,6 +99,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "1fBMZjokMOEpW/4vpCW0joO162Rc81BhNzAm2qPBzwqSN/GjEGhntJCHQVEZbCRTvUqJ8+rANePhbmzh9N20JPDcQZVDnKCwy8d/m6f2SxfLJPHfOqeFoudTpVWNrBY5AaZbmMDcQXeWvenbePDHzGRPKv9SER+QXodHrgr2B3zpzFf4g4J8oZ/GtoA+/KKrAtEVjqPII08VCdkeqhJkGwruo3mWIhuU7MujOgIEYqmNKy9TixZqExQ9G/Q3177KEUWfKo1t2kE5aOkoMKioNk9LU10zQxNeiC0KGbY4r6U=;rgGFRCqIrjYOFmy4V9pyUA=="
+secured: "yctKS6DWh2EM+YKkcdKCqYMJT1Dzd1nrVkDKGWLICGcDJ2MRWlFJldbHtafLLQmw7frYyFjK1W1eKjeAMuw386uMyVmNJyCYegNFzN1OUm6ZTyVnWRTXTahQYWrvq+HijM+WapgJc3x7wvLwE/u306ZDxnmJJtuZYphVdH9jsIzTfr5xsA4GIdFNAY87KqLAPsr9ETZFAsPp/3i8bRBNi7LLCMtjT5UKslNIoltM24VtgPZ6XCwiGO4T0zUrOtkn6uV2WZ3hOrUr5zj69cpycJnIHpWIJ7hK6vqPq+NHrtc=;4xvKUzpy18175VZQltT12A=="
 ---
 
