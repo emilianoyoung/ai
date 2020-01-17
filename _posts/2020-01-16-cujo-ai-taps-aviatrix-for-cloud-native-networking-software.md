@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T00:27:00Z
 sourceUrl: https://www.lightreading.com/cloud/cujo-ai-taps-aviatrix-for-cloud-native-networking-software-/d/d-id/756831
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,16 +25,14 @@ images:
 
 related:
   - title: "Cybersecurity Innovator CUJO AI Deploys Cloud-Native Networking Software from Aviatrix"
-    excerpt: "SANTA CLARA, Calif., Jan. 14, 2020 (GLOBE NEWSWIRE) -- Aviatrix, the leading provider of cloud-native networking software for the multi-cloud enterprise, today announced that CUJO AI is deploying Aviatrix's software across its worldwide cloud network."
+    excerpt: "To ensure business agility, CUJO AI’s infrastructure is 100 percent in the cloud, capitalizing on Amazon Web Service, Google Cloud Platform and Microsoft Azure. As such, the company needed cloud-native networking software that would embrace and extend the native constructs of public clouds to provide the simplicity and automation of the cloud ..."
     publishedDateTime: 2020-01-14T13:02:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15119350/cybersecurity-innovator-cujo-ai-deploys-cloud-native-networking-software-from-aviatrix
-    ampUrl: https://amp.benzinga.com/amp/content/15119350
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15119350
+    sourceUrl: https://markets.businessinsider.com/news/stocks/cybersecurity-innovator-cujo-ai-deploys-cloud-native-networking-software-from-aviatrix-1028816102
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
 
 secured: "21h9BFfxRpv7QqaYRIhQhrBQLG3CtiMEQT/bE8XyNIYOE9wOCPr4nsytAkIR+DVMtMGA61aVMlbEuqqwrtWfM1gkclV5cxhdhZKAOE7aHyskr/67zoSWqYtHg6aRMAUmb6fsvvwZxItVFV7ppOU7YDq25DyyaqcxlkIfSku83NTS+Juoy6gzcGNV2+61saJg31N816FXdfOTYVf2boeZaxMF/Ym10tLfgd+dNbCbcWnID97GWpIzlK9LA04mpCOuSRYsHA2HdX2tsbyov71J0t4T3XDEu4EVdePBSiiQdJQ=;3y1QDdpazuX4MpRF5WLNBw=="
 ---

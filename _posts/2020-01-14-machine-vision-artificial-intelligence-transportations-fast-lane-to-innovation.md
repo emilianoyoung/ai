@@ -18,30 +18,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "18.S096 Special Subject in Mathematics: Applications of Scientific Machine Learning"
-    excerpt: "Machine learning and scientific computing have previously lived in separate worlds, with one focusing on training neural networks for applications like image processing and the other solving partial differential equations defined in climate models. However, a recently emerging discipline, called scientific machine learning or physics-informed ..."
-    publishedDateTime: 2020-01-15T00:17:00Z
-    sourceUrl: https://github.com/mitmath/18S096SciML
+  - title: "Mobile Sales Force Automation Market to Reach $3.68 Billion by 2023 in North America with AI and Machine Learning"
+    excerpt: "/PRNewswire/ -- Booming customer demand for industry-specific solutions, monetization of professional services, and greater use of machine learning"
+    publishedDateTime: 2020-01-14T14:25:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/mobile-sales-force-automation-market-to-reach-3-68-billion-by-2023-in-north-america-with-ai-and-machine-learning-300986675.html
     type: article
     provider:
-      name: GitHub
-      domain: github.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 33
     images:
-      - url: https://avatars0.githubusercontent.com/u/47117905?s=400&v=4
-        width: 400
-        height: 400
-  - title: "Application of artificial neural networks for automated analysis of cystoscopic images: a review of the current status and future prospects."
-    excerpt: "AI-assisted cystoscopy may improve image recognition and accelerate data acquisition. To provide a comprehensive review of machine learning (ML), deep learning (DL) and convolutional neural network (CNN) applications in cystoscopic image recognition. A detailed search of original articles was performed using the PubMed-MEDLINE database to ..."
-    publishedDateTime: 2020-01-13T08:07:00Z
-    sourceUrl: https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.html
-    ampUrl: https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.amp.html
-    cdnAmpUrl: https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.amp.html
-    type: article
-    provider:
-      name: UroToday
-      domain: urotoday.com
-    quality: 4
+      - url: https://mma.prnewswire.com/media/1076432/Sales_Force_Mobile.jpg?w=950
+        width: 800
+        height: 553
 
 secured: "Gubzh/94EAPpDE7KA3CrEspVAygOGepiSpQcpBK/b5ECj1pdYMNroaSKVBb9j1B29d6dN2DlxhC067dEksN5e0qVzLH/9MT43FdC4fxucifCMkBrJRAXKv1GXPseHO6j35ndiu+7ENggpSn9li5/XAU3OSlE9esn1LhbZSick5JGX2MhmGAptOu206QK/ezxRX+Prx9ppr1dC3Sh1twR03zSrQ2iMbBLSr6EU/H3pr95MdbWf0Q2wgdtAGwgoaKi6jb4oVwxMKU8tu8kctbJcbV26IeyXrRMDzOa+GXJiJBUtE2Ts/EtpeuAxPJc6Pucq0UOSGNhjgd3s8iJTGGYlRp7WTWfx5kn3UtuxX8p3lCY9oHA4YmB704jYKF8lCFmgkDBc8Cwu2KHi4bT0INR4hYFn41sE/bfZ3AWvuFUnYEjSGKVFOTvSn5dyXwzTEuRTo2vEJhJ2qgmDX3kcQiQEg==;GoByfH0+nm+ylnfBOHQJdA=="
 ---
