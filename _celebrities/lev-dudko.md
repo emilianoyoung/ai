@@ -2,7 +2,7 @@
 name: "Lev Dudko"
 bio: "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics"
 type: "profile"
-heat: 555
+heat: 475
 published: false
 
 affiliation:
@@ -11,7 +11,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=zEQGLhoAAAAJ
-  citations: 150991
+  citations: 154510
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 128
     title: "Lev Dudko"
 
-secured: "6eIxCs1iD9MdioOeBUTDMv1ZuOZKWusd6XKJZvTaC9fNn9JnHecWU5HtYFPtLnPrRidp4p+3wOUJY21R09aIthbxya6kO8vVJbPvhXoDdmacFDUmVqUCpIGdD08DL7pCtMYRxcHbB01+zq0DkwidHH+Y9P7JhYmvDhDO+wNsPNHHnN9V1cSsmCfHJHpvXZ6se2kzk0NJsF/r+XLWQ3oonNU+OUgo12Bbk4pu+4vvbOe9rmtAGttS/0ejXLIZAWml0qHW17MBUPyeurwUxtBv2w==;XhozWu7ulmn9LUGlK2xPWw=="
+secured: "0fHtUsVwb0ieB+N9Ae+VEm60UDM2K/V3HSdzuZkikVoLbR3Y0dSlTFCxVqW8QDKBibEjPyE05Dk5dg8P6XYYw6dENUXlnkr7oNFk0BJlYreOYIbtIkSu512EJ079kTWi4ZUH1I16adsJJ5leiPvKT79HC50vr9Js1UkHu6TjIxMPFTmb4iaWHcYGYsvMD94kEOKdKewuCsub4gRrjxwTwDKgDWsRmqANUrz/nQFMU6NGSRPQKC+NrMmrSuNiiYXQ020swG6GYbYZbNLDnuA2hyk3fPlp2xSu55acmcN0ttiJ0JM0UUBHkNgxElyozz1W;Q4ZF+PzQEp5OGFT4W9yq7w=="
 ---
 

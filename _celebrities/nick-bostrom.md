@@ -2,7 +2,7 @@
 name: "Nick Bostrom"
 bio: "Professor at University of Oxford; Director of Future of Humanity Institute; Director of Governance of AI program"
 type: "profile"
-heat: 97
+heat: 60
 
 affiliation:
   name: ac.uk - Homepage
@@ -12,7 +12,7 @@ website: https://nickbostrom.com/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=oQwpz3QAAAAJ
-  citations: 13105
+  citations: 13536
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Nick_Bostrom
@@ -26,6 +26,6 @@ images:
     height: 250
     title: "Nick Bostrom"
 
-secured: "OP+5GaTkyaMEXjEHczxft3U9KTUTjhKvcLeJekIjzpwd1WRH+gnh37kcL5aESc/q2ebjTyLEpvNaphcjXYMfUJFqHgSHSeP9HdjDZfw2P/mX3ltUqk4Mqx2kr18wbCm/6pWe3Q5CMNTMCTcCNWWTv41gdR+zgYc0o2YaUOIkhhSBsIlnypT/ypisPo5vU3NnbIPQwu3Uj5CfkS50YNisiBbHMNu8JNoJKz8qbrXzwIbpokKb74avrech2OY5uUnYTjmW0f5LIyfgW4yyCmcBNg==;MVARaMIVkN8YRo4ieszBpg=="
+secured: "RszWNf+GdM/AE/ofbTN0nXSr1+YHU7O2VKCCEmbQap6PMxLcFRTvox+jvsaD1HbpiztTXXqsqjNPNrN317A1KnAEerc6F82vSacuIiLRt9ATY3pvrKWHfvorTiUzXo8aHGd3HpL2zfipO5EVCpLUWH3tCFnpkih4pi3xuc9F8z99oFjFsZwZ3WrzV9HNmtK7yPMZEz4U5CEQRaFpiGxncTGLMc7yjWJ2FoesrJMtWwwBAxnXyh6f2D9qjSTwrHGR2IUskoIszTKCawtwlPTKt5QXNiHz0lfI1ShHZ725Z//yC/whdkKjmAX5gdvsC9SI;nU6kfkmd9W+HwgZ2hzWeAQ=="
 ---
 

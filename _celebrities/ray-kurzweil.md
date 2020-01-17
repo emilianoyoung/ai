@@ -14,6 +14,6 @@ images:
     height: 546
     title: "Ray Kurzweil"
 
-secured: "ZhYTnmPRD+ZJZ3awQKESiVEP+r75CKm8Qqwl9JL8AMv2L8hWzjlXm9zDgm/rBLqyu6mt6d8R7byUcAUZIYQS56TtYt9A0vGZZ9L7jxOWkAmu5fqEWnYR8MPtDKh18NoKbtmXNyNNV1G2hg6i8s3Uz4Bgp0AIFsj2Eq64n+YCUB4/zgbWzGUtAcEkpVIpaAtM9gNhOxbqSiluhqjNQCG1TDkYoImJiUygoosXpUqDCvHkVH5YIb2L2vaffxs3NyVhNCbnoBlZaQfZ+HMg52f0aA==;EXNewuHJlOMuThnbzZqPJg=="
+secured: "RP5Iish6+1+LXVPHN1/3Oj0mqN3X8eE0NKyWUOmqaujxOBG+gSKYZGNOk17I7IZf90cVtIsCJ14K65GvM+/Ywm/AjDDpVoHcQLwI9TsDyEs5U5GaV6cAIp7lg3XSmT8Els+s8jjDyWbfb2zjli7RQv4HxEVeWyP45POxTI7KwAVolzaBgZXq3D8ptRTs5jesWUIhe7WNX+N5C13dwd9KmOraeQMwHCvcd3CcedNJqoxT7+Uy1RJ6Uc1xkIiD2lz8JpK02lKIicuwll4X2vX/3VwszAdUiV+FLHf4wkaNhkcoAXg7OTBrqsMcptx7JwL5;mosJkc5gSAhX1lqEK9OLdA=="
 ---
 

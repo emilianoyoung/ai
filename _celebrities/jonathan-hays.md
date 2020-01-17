@@ -2,7 +2,7 @@
 name: "Jonathan Hays"
 bio: "Queen Mary University of London"
 type: "profile"
-heat: 693
+heat: 609
 
 affiliation:
   name: qmul.ac.uk
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1DS8DjgAAAAJ
-  citations: 145445
+  citations: 149798
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     height: 128
     title: "Jonathan Hays"
 
-secured: "6DqOQ9LzOfwNdLw8OP/UvwKq4+iYxlnrzI3vhXWrOJP7u08ifivIoTaTQnIxIuoAaxpcSekAVusHF3DeWxe83hjVoquBsKAF6LWr8PQgu5rjndtEWgE8Lj7dsdCqmD0xnS4F+IcQ4ENEE+iu4rg4y2RGkG5CC07qUeHdFsIBxl1kGLfElbc8xJ+brOIDeqB4MqMc8yUh44Q7hw9FB8QQH4RRrgj1BYAolz4UaGMIKgbgmJwki3q1UToOXL5dNcajKd0uULraacyjbNYoemoDIw==;sjKBFplORdmFsNgiYWTJMQ=="
+secured: "F160Wqmkjka2Ikjva3NSPzqu7DnLXDG4jPByOCHypv7HSkY0nKloICoP4D2vNTfcuVoGxkutL0wGTtguECJJHM0qk5e2G/ER11gbMR5QV9+hbsaBwBUe7GlLHdZw9nQ+SYqF2Og+3+ChDo+s2wRDamYxwNNMwWSO/WngmAzJ2ctb2ce2bqiYJ1C2LOjk3TIs6QNs/hKKKcGM6IMwp+dkV3vu1xsKhJMl2WEy1eyNC0AQneWHCH/4TljhwyLZqkBgFqp4WdMWW9Y5Qulz6kAGZita5/H3jO85Z59cW/cCnKVQEjwj+Wd7H1LKNTDRWp1y;l5L+MUaRwunbIIbj6lEavw=="
 ---
 

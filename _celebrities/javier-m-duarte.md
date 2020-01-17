@@ -3,7 +3,7 @@ name: "Javier M. Duarte"
 bio: "Lederman Fellow, Fermilab"
 location: San Diego, CA
 type: "profile"
-heat: 499
+heat: 496
 published: false
 
 affiliation:
@@ -15,11 +15,11 @@ website: https://t.co/Z06UY9gVRv
 twitter:
   username: jmgduarte
   url: https://twitter.com/jmgduarte
-  followers: 149
+  followers: 151
 
 googleScholar:
   url: https://scholar.google.com/citations?user=GTtW9H0AAAAJ
-  citations: 106799
+  citations: 110430
 
 topics:
   - AI
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Javier M. Duarte"
 
-secured: "t3x6DgYuA1ktp1UruCMlErnjGYmeFxxIuMYFUObZxJZJXPnJSQoDwXmBJOLgsYGGiZwo3n0Dza4sSSlqBYR3UCB9wnTKkOBzUuKx/zV3leLiBoLXeEscUEz8snAkfC/YeTpBiTCj31zH9PB1hq7QQpjKd1Rle6uglGto4MfG6LAA9aIMNZVbyVCV5N8211zoAb7G5TAuur4pD7TNGBhswKDlI4dWXId53FpsAC9x8f1YaRHadLYCfyxWn6bxXEjxR+UEZp7DMj3gkWdRK5y7Ww==;+A0WVj4HxV+8fP3p0p4gQg=="
+secured: "ErAQspoISqEbr+r7+WxDaeIgbwTwMLRCLVZuZxOT/3V3MhRNQTCrsR1ZqD0E+WXa7qhbi+NxTBSSLwH2Bujlk+AOwlfNjOpFDM6TlGHvuWqov45qfnpT9jL28c191O71KxVh2+gZmLJNFtxp2TDHsK+zLOm1LInbQ1YeQ+sqEzC1E1SrEu+ZnXQ78TGT0K4IpsbpbaD6H2BtqOI5P+M2t0qW69hm7AN+lGIKt97ZZ/boEup5nZHJJSqGgdI7hvcOLCq6/5yEW6tisk4QCN1G8kKgTvh9sRt1p/NrvfS2a0qWjtASJTVfEH5NSGQ76+YD;+ST/CMdSlF3MfHPi9g9Lcw=="
 ---
 
