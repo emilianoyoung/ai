@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Moody’s Analytics Wins an Artificial Intelligence Award"
-excerpt: "Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution, which helps institutions automate the spreading of financial statements. This press release features multimedia. View the full ..."
-publishedDateTime: 2020-01-17T14:47:00Z
-sourceUrl: https://www.oaoa.com/news/business/article_2199b57c-047b-5a26-ab1d-0eb87353549b.html
+excerpt: "Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution,"
+publishedDateTime: 2020-01-17T12:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/moodys-analytics-wins-an-artificial-intelligence-award-2020-01-17
 type: article
-quality: 17
-heat: 17
-published: false
+quality: 67
+heat: 67
+published: true
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "sXYe3ac34dZlTSy+H2Yazzo31R19hBs5UuQhvLZIIUtGDfq0d9aDgNWwbwPbsDo22h/onBWO+BYO5XaulSeuPi0j1cbR6HZ4nrWIfEpk+bnWbC151tAVLpKH+7CZSxcgnSHnYuhZ5jDzp1/qMDSC2iQRIWzq0YQe46wZ+e5vXIk6tucvl2g8GldGWaad5khCwxBLdc0XBIEqKz4SnO87K6YK5RwFXMDQ1MNvPKuCsehwQCkIS0Dqhk7Fn0bnbP5GKes7YUacbLkkiCYrv4TUwpCwzJq+S30alxHkw++gt1I=;1YIQzaS4+u+HH70HtoWk9g=="
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Moody’s Analytics Wins an Artificial Intelligence Award"
+
+secured: "571929LBBYFjbMhwI6oF5DVKYxz8EQR1Ujo3n1yopkadqAx8n+Q/z0RhJpvqsxuDOywORetwhFo4T92TUgcAEQEqyYywkmzalpKjTksiT22kH4Mr+KIGPSPg+DXGSSUqFuB+3ZNl0OBb6gXCXJsw9hEWq5MdMzSPbUFMvHdeFeRxYPcZjU5biXiZ/9KJ0M8FpmroB0UzFMTv16DEAyZ4SaDogMO+cyu8c+hMZDjLFI9ntPjqIzqaTnZUtYvUPul6Flr1PPlVRQdXpSVh0T42KYTIpE4elsPacs/5EI7d9IY=;8UKlhKNjrbl4ZIXJOST37Q=="
 ---
 

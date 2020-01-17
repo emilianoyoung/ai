@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-f
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -37,6 +37,6 @@ related:
         width: 252
         height: 335
 
-secured: "4kJqg6/WA2jAtgY3Clrf0HlAN8owBeEjDX69QLEwBy4+kXUrDc7UTsfUDwFY4FFN7+MvrUCARV9or6V7aX1zTlhQLKYigDcdw5ggz8uafvNznn8gjhluDyN4+F+cItiY8uaQOnZp3/vLxarZodQByDXp7kfcw0etWTnQI7qlkUTHLP9LLFph1jxuF3oV3Yy9TuE2xaDN2Nh2SnXa3r+9hVBOHf89kyU0FBz6o9M7dEWPDQSxD13NFqqJJsEqkMdREjSiz4jeaMVeQ1dq8NSZ4ov8Kv8fsFFgCX3sCyafNg5tOwyYWvmA/gTxIC+XaCBLSAs+7J5sDeM37kdRzOS6hAHAD1tI/fGmhxZDo3+1EGJoSgEBt3AR2zzHXEVnDKuNZS2ksBBOoPCwI75cxwj8hTFR5v+wQ4ZOXiep94WT/rHI+KFH1DFFR0SrGKbik4gC4XdORLCCGQuptKYnfI5GDg==;oSBvpej2D4XtiPGZlkZy1w=="
+secured: "gZCF6kQmdEB00ULmCP51HR38iFeoCiIJ5jQhus7ixGkaJkTujEETZKoo2hrRaEVSKjbSykNqD6ztSWDtl9+iPAFqlszb/oEyVTdHG/WZnJaA532sXM/x8JQGfq1fxscgopJ8n7FH1emnbbQPFVFkRgptXqZhQXO7PT3vNMRi2e0q9cMHLGs/wM12wwD4ZNZJ1LED2/CSUWpqUj+sBQy3LtAN1F19J3XJzLLaTHcuG9RFq3ki5HL56JclNGJ/cqwpMBMrqSLmhgStqAckd5QLQRXjHHkxvNLiLGmNRQMZ1YsXKrgKTTVKF0QMvtV3z2r2TS71gmMDba4qHG2MaP/vjjRqgN/DX1rRFbwK2z9UiU4f+3lnaCwXlkRe+11GfYbb1LG8IajSYEotrE23aWsp5s+V32Z9vmya44IfYF1YfZwJAtDfFNFDgHAr0ev5A1FZxADldiPCuYEMSOfCipkZ7A==;195vm52zcWDmjhiVdgNe1g=="
 ---
 

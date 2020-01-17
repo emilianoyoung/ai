@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T13:12:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx
 type: article
 quality: 67
-heat: 67
+heat: 68
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 2000
     title: "Apple Buys Another Artificial Intelligence Start-Up"
 
-secured: "sioBIjttlu8H0ewN+HGfQXuO9kY7dKELVIEY5C8YXZNPciGdG8mvbHhIhVREA4FCij2+raN65z74P/SqrkQZ3/vuFNBoJX2MaRGLHQJMat4vKvq5E6bjkUvu576gEAyHmhV/h6sfQK05pMwD4WXiLML+bQxRNpfgurwbabKyIn732/tAtNainuhiYN28WR+4R4UzEYYkypjWGzpFqv7U5eHccCnU7MyLE6afc1HSmNoiG5lUP9EGigv+cuTsadASnZFdSthp4ePc1x5pq4dDOGvkPEdGVoXFQRCwVEpfRnh/pUpI81cMG1WOIDGcYxbb0yDHfTaW9BjswYsiGejpBHynulfQcLz0n1Q9rkbmLO8Y61wLK06K+P3tcNVE7oeH1cShcXe+OnYOfY92dwOllBqiCHyMdX0xqZXMwaO87RQgwPoDmpholz8BY7TGlYKmlcRegVx6kEXL3B1Wq/Cz+Q==;QR+X8bKKoOKoOxLCqoeqJw=="
+secured: "nTCOul9L+nIUAwVkZNAChaYcU8oQLVZ7BVaDKI2uscdXKAhYVqhA+Gx2FyKZjchhgDLf8wjOdDvVhqBYPDleZn09q6vlYi66hxTfm52Dg5O9J/Se6J6iJVUO8KcpYvXgIQRJmNLdDFKCYE7uSBEnwxAJQENxaXlvkNnKTw8v5HZ+KsSmt3XzdgD2uV4UWcQ2U9V++BkeBJpfq5zDkqa4YqCE/IOOEJPgm8bjy75wEEChR9in0kfO6cN7wuAyLbKNSkmpsopNhFIAADMpff2jplWp52AcyKe77UGtckLXjTSRmCJi/y8SYTKOtPgl7GQZo6f9KfsjlbHqMpg89tdTlF2jY7UkP8spA8IaQl9JIUL7hKWAt4voDY1V0wVuQVBzFQAeMfnfzZN4PYZRxf47dvWXQLjENmP5aUvZG3BmS1XIffCzi3+zdFlhQmenxGtHECQBxIO/TuoLtDZJTH//Og==;SRaoxep4bO7BvLAxGkApvA=="
 ---
 

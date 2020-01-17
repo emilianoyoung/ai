@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
-excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T12:08:00Z
-sourceUrl: https://www.bbc.com/news/technology-51148501
-ampUrl: https://www.bbc.com/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
+excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to ..."
+publishedDateTime: 2020-01-17T13:46:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51148501
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -392,6 +388,19 @@ related:
       - url: https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg
         width: 480
         height: 270
+  - title: "The EU might ban facial recognition tech for five years"
+    excerpt: "While facial recognition tech is pretty handy, and even still somewhat jaw-dropping when applied to personal technology, such as Apple’s Face ID, which is found on iPhones, widespread use of the technology in public by private and governmental organizations risks turning where we live into a surveillance society the likes of which even Orwell ..."
+    publishedDateTime: 2020-01-17T15:10:00Z
+    sourceUrl: https://www.fastcompany.com/90453208/the-eu-might-ban-facial-recognition-tech-for-five-years?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-the-eu-might-ban-facial-recognition-tech-for-five-years.jpg
+        width: 1280
+        height: 720
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z
@@ -515,6 +524,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "LsvbhHFOAOKHY3ZO0aSvGAS9+Zl7pqZbBHzrNhyXIOPyNqtRhoZdncO2UvMomw9Am6z5ydSnP4q0K5LoOEXlnHiKxTli7kyO4Hj5ZZrz9j4ON2LXF6khqGTQT3GQkrKK+EZemhCQA7VyF3WS3ivhRn3y7U8m3cseqCAVveqg/lcOwFTqhf2Md3wO0mS/WzlADL8GMwdf1IzT9ggjgnQZgrstl7ibkGJncYQ4J00SqJW+J7R6NYLQt/JrKkkJUUn6pNaR3LOfxD1mPipv6qTUg7RQjI4O2/lR4Y3Af4aQguE=;+JbI55oiu50Eh4dnHH4MWg=="
+secured: "aOBq5nXS7+n76AxaVb+/L0TOtrneHYscRqZE+IERTch2IcR76QohoaEk1jO4BDKny2ux0OaG1enFqQD1uKdJOX2eD6NXMaeo5bV8MaLKXZy5dH1imHL43Swlh3fO+ls8d7T/WpAJBR7GEziKCni58FJ2lBEqVTz1cwF9swx5mutrID3rB62LEZqfgjhuoa+BhPzoWwMp0YGnkWrQRuKLklMCpLOfizG5b2BeRmDByDbupjFlYrgM7r3ocHWygVmWivsg43H18FETSwMSi90pUjCubYsdtiCnWd+/kjSYVSQ=;SkMg0dME5/Az9gpHeyGJDQ=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "College students demand schools ban facial recognition"
-excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
-publishedDateTime: 2020-01-14T22:07:00Z
-sourceUrl: https://mashable.com/article/college-students-facial-recognition-ban/
+title: "The EU might ban facial recognition tech for five years"
+excerpt: "While facial recognition tech is pretty handy, and even still somewhat jaw-dropping when applied to personal technology, such as Apple’s Face ID, which is found on iPhones, widespread use of the technology in public by private and governmental organizations risks turning where we live into a surveillance society the likes of which even Orwell ..."
+publishedDateTime: 2020-01-17T15:10:00Z
+sourceUrl: https://www.fastcompany.com/90453208/the-eu-might-ban-facial-recognition-tech-for-five-years?partner=feedburner
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Fast Company
+  domain: fastcompany.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
-    width: 1200
-    height: 630
-    title: "College students demand schools ban facial recognition"
+  - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-the-eu-might-ban-facial-recognition-tech-for-five-years.jpg
+    width: 1280
+    height: 720
+    title: "The EU might ban facial recognition tech for five years"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -151,6 +151,19 @@ related:
     quality: 74
     images:
       - url: https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=
+        width: 1200
+        height: 630
+  - title: "College students demand schools ban facial recognition"
+    excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
+    publishedDateTime: 2020-01-14T22:07:00Z
+    sourceUrl: https://mashable.com/article/college-students-facial-recognition-ban/
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
   - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
@@ -388,19 +401,6 @@ related:
       - url: https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg
         width: 480
         height: 270
-  - title: "The EU might ban facial recognition tech for five years"
-    excerpt: "While facial recognition tech is pretty handy, and even still somewhat jaw-dropping when applied to personal technology, such as Apple’s Face ID, which is found on iPhones, widespread use of the technology in public by private and governmental organizations risks turning where we live into a surveillance society the likes of which even Orwell ..."
-    publishedDateTime: 2020-01-17T15:10:00Z
-    sourceUrl: https://www.fastcompany.com/90453208/the-eu-might-ban-facial-recognition-tech-for-five-years?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-the-eu-might-ban-facial-recognition-tech-for-five-years.jpg
-        width: 1280
-        height: 720
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z
@@ -524,6 +524,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "m7bUGDKyWcIOB3wjLT5sdfSWnfckF2hC9+BMJdAi2TGG3ElXHYujOTXgirXfqzEuk3B7T8rajOuuexOJUzuIkSddgipvFh5LnDYqaITpX/B8gt6aoAn5FsO+9KRLpLDem8PAjkJk19Ny0K4zY5Z9oanVZHJLgIjZknfXk7Nk8zyNzXNg8DV5v2CWEF2VYa7JHJt2UGupuxa4blPY/EABkQ23PBIBSdw1PNEP0Ci7Q48BdgKZuZgKgZ90AyPS2I9CHjVqElSEYBAH03DwVhOzZeE+rU9qmEj360nTRccQubhsDgt9oc1MzJPbSRYANl5awSdiSOF77vq9ZO0X/iXp3UH8Bkz1ACFQsoaeTRP5qjvUVgewEvOGeUy7JOPkLS77vBSkQ/BGPMS+1z9z+ZSbk/HMkc/umJ7uYkLx43RstK/UJlueirRS/+YSjMCukNQjBsex0vzBPfOHUhb1t1XR7g==;YLI2HYwKxXK2oGC5OSZddg=="
+secured: "Z/BBTVsXkenRs76T8gzTp7zyObBMTnEsS1aXLguNlGkwRb4h99ClHEdJIUjpbf+Rm9k/V96p5MA7Ds2NZCqnwnSWjJc6lrY/VdVpBRS1purTQqKp8kiQL0TY6Yata6YFSrzxDdHKp8BC9s18lJUWTb5aYgbPJGf9WPOsZBbUFmVHr/Dei/Uyfl8SgHWgyectOjR9WlPTaf+7uHAFeN5uo0/MrqvHNMvEQXLTGUESngpgF5HL0klZv6uHTMqUy8BYhfMgU7jSGvRhSqxx7rfizS4vytbaawxFYiys9nmKnSM=;RLhJMpVFxFlXfHslZYn7NA=="
 ---
 

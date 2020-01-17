@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZG151
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Nations dawdle on agreeing rules to control 'killer robots' in future wars"
 
 related:
+  - title: "Killer robots must have human control, experts warn"
+    excerpt: "Countries are rapidly developing 'killer robots' - machines with artificial intelligence that independently kill - but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems have been used for ..."
+    publishedDateTime: 2020-01-17T15:14:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7899479/Killer-robots-human-control-experts-warn.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/17/15/23526948-0-image-a-121_1579274069115.jpg
+        width: 636
+        height: 382
   - title: "As Killer Robots Loom, Demands Grow to Keep Humans in Control of Use of Force"
     excerpt: "These countries are investing heavily in military applications of artificial intelligence (AI) with the goal of gaining a technological advantage ... They call efforts to regulate killer robots “premature” and reject concerns that such weapons will threaten the right to life and principles of human dignity, or that they would fail to ..."
     publishedDateTime: 2020-01-15T23:21:00Z
