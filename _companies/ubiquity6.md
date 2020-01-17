@@ -2,13 +2,13 @@
 name: "Ubiquity6"
 overview: "Ubiquity6 is working on some of the hardest challenges in computer vision, augmented reality and mapping."
 type: "profile"
-heat: 3325
+heat: 6487
 
 website: http://ubiquity6.com/
 
 linkedin:
   url: https://www.linkedin.com/company/ubiquity6/
-  followers: 2011
+  followers: 2459
 
 crunchbase:
   url: https://www.crunchbase.com/organization/ubiquity6
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: ubiquity_6
   url: https://twitter.com/ubiquity_6
-  followers: 1317
+  followers: 49988
 
 size: 11-50 employees
 yearFounded: 2017
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "Ubiquity6"
 
-secured: "wAxYvaACfJE/VBgpyXK2zQId8ORr7DQX+lCgnZtiP1pxwRj4cqLfSpDWPJfO+qAwjJ2WpoNrB99syJjf7JCRxHh9u/cmFST8+wUTct8ovv69SKwfq2NGghaiGUOw2z5sFSGPGLGKAdfb/GqYRBFXDfsPq4IANKnM4Zvv57xiBUXHBW7g1PopNyuLw+XgG4rVraY9Kn4ISgxelgwGQE3gKakhM1KFP7O/5MlP8hux2yIInbUxR4fedoCFRN8hUkADY2nbdizKRWp4uFQW0V7KZg==;qX/i1nPrCJ/ifGdfbVDfjw=="
+secured: "Xu9l5IBWciG3nPZMK9b2qGsKcybBOFjk9EJyClyJiD5t+uD0XTyCbb7BQm6hX06i1G5zmQN/jWIJ/b3/xIqYcH9q5QfbYytBCPVi9HQMaP8KGoL4wGrFlyKwrC8SOd1nIQSYOLmWXxrhgwYjA1QEncyMgtE1BojC1/EcI9DrLSn3T8y5xxqghYGI/6XpEIiFdTF0BwB1kS9mnzdX//swwK7X8W0m4m6lWBRXPPQRwUa0zLoo6SMg+xuVRK/s4Z1fQgSurLo4R23chqhonJ/Dt6pCks/sLCjuO5iTG1lOrw3yY3VSHTstEEX1lHmSVsgo;FmsgUdebmpkNqZu6P8GXsg=="
 ---
 

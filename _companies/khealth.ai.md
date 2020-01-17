@@ -2,13 +2,13 @@
 name: "K Health"
 overview: "K puts personalized health information and quality care at everyone’s fingertips. We are a global team of doctors and developers who are passionate about using advanced machine learning techniques to turn clinical health data into knowledge that can help you better manage your health."
 type: "profile"
-heat: 3292
+heat: -51
 
 website: https://www.khealth.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/k-health-inc/
-  followers: 2284
+  followers: 2474
 
 crunchbase:
   url: https://www.crunchbase.com/organization/kang-health
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: KHealthInc
   url: https://twitter.com/KHealthInc
-  followers: 392
+  followers: 420
 
 size: 51-200 employees
 yearFounded: 2016
@@ -43,6 +43,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=lGPbuXpBSUw
 
-secured: "lWi9dMKyYu45yLhxc4npMhWRB9RZ3VfGU2AaEFedH5+ULY/m8gRf3s3pPv0U1Zfi2+gyQvOAMTEWl+yGNVcsWRl5ZDWqbkijSQ4C2I+ZCNrMtBXwLzAHErJQfsbQ9GB4lyi9O1VNt4Y6aGGxN47UelggfhsEU0JXV0rt2qC6bUFYJGqxAl6g4jo/hgbQicI91Z3MYLND1IyT7qvc1d0ESZQAV2MqQRkigVXSOFapZ+BwijBBQptuRTK0nE3DuI73YgQn4Uc/XQLOWtvyXTNWvQ==;0R7BKKKZPYOeiC/evycbLA=="
+secured: "0S04lqHmMVuhqEF78QoLa4jo1rjMbyM/PH3dgKQ8wgANzkhUeeKWZgPZULlZr3JGKV+SNCWqEJXtAxbYFSeldaR38ZFxGLWp79wiCx8geA+Qc3CM+HB7YoXV92JA8XUBQw50QoVS4EXOXE9dYK4U4kotpD5ZrnV8DlFYx04Fyfbojdq0INrubkPxzg4KeC7L21xsqHWInm/3vK/cgQ34cSagLDo0A+bzE2eA1oTbpCNIWLUEi17na5UQsICwHBhvAn1JnT3bsbljixUbhOJ6JtEFdIn1vrebo/BSpNDRs1XeUppO730wIqvoBKvIQ7de;66dD3MC7lkdSDPvQs0sT2Q=="
 ---
 

@@ -8,13 +8,13 @@ otherNames:
   - "chumenwenwen.com"
 overview: "出门问问 人工智能领域技术与应用的领军者"
 type: "profile"
-heat: 11189
+heat: 10
 
 website: http://www.chumenwenwen.com
 
 linkedin:
   url: https://www.linkedin.com/company/3773376
-  followers: 2482
+  followers: 2560
 
 crunchbase:
   url: https://www.crunchbase.com/organization/mobvoi
@@ -22,7 +22,7 @@ crunchbase:
 twitter:
   username: Mobvoi_Official
   url: https://twitter.com/Mobvoi_Official
-  followers: 8720
+  followers: 8711
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -48,6 +48,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=z-H_xsUFD68
 
-secured: "sPhevZCMZaF7ZR1e+WxavJznhaQRgW+EZBySXVhSHGYl5VJedXtmn7uWHoDNTKXFODpeHkjlaYiYmtC9kTC4mfrBVg/EgE+H5HWbudfIVp57e8BAUCSrunQyrr8iYOi1YkICNJ7Iv54ZGw4/jLERsqmQJo8e7YcX3Vt/oIhjW2ZR6gJoUT9QzGSR1SDSFl81vKiFkVa/qsLpmC/5nOyHc+wI7LnKRY+KGyZ9waRfrfoE2oeoGdv34KZNKrCG9MBKkB4caAZOEG52wCZqef/53A==;Gco2On61qz0Omt1vWpldCg=="
+secured: "gOD+f/hYbunsR7RNp3op0ICAkNNcPo2bTJIEHuT2F9XyDRs+6YqTnhwJZBDFb7UeEIVxzZCUhvw+1LcdoXRDfelcJuNA6sfxYqfmthNu6ynelHD8uJTJQcIIwd0HPltOR0okSFuIZ+wmI/GVBYFCSBEf1oLdKaN45sqfT/axLz5ai4QB3er/ljMRfBMAIZ3PUXFDP3fIVonVai2Nus5J57YAa1oecJ+y3FedswKbUsi4A79x+owJuxbifH3KCQNxUZldc6ftTggTyWO9ZP7VEYarVp5gucGLL43/o+7Vj7zIN8HBAzVLEfoTDW9G+W0h;OzltDo3wcNv2g5qNn3iZmw=="
 ---
 

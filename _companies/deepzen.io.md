@@ -2,13 +2,13 @@
 name: "Deepzen"
 overview: "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals."
 type: "profile"
-heat: 0
+heat: 36
 
 website: http://deepzen.io
 
 linkedin:
   url: https://www.linkedin.com/company/deepzen.io/
-  followers: 248
+  followers: 284
 
 crunchbase:
   url: https://www.crunchbase.com/organization/deep-zen
@@ -37,6 +37,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=kaNKxfTjpzQ
 
-secured: "dtZFWWZ1uVvWA+KRXPipMRCu2YM5PxfLN6DkG78Aq/JhT8lpoeVpffzX38GnNC7BJQgiwv8LsUtqTQ3xIPBFiBbM5ARnYg01kuTRubuD2b3l9ac6u3UgjRTkR0GU9C4e4zNccQJtm99HRj6d6fiKWlOIC1Vi5k9ruYKD3AT8a2aOenharK+vKF/ytSjiA84ZsQah+bWqugYzqhwON2sbIKHXwLHDS0XDVmisons1MthiN/Ase7fcplvRNw8SU7Ic9qwMq8tr0lL8+m33HE1oBw==;+P/uKYiy+bhXBxAcnwEuSg=="
+secured: "Zn+swwuePUfD0oJKk677nvOuQqFoHuRhixiBjI7VLRmjiES1gCDmhPigfXr9uvf+FbYvTm4NiJsXrE+kKbqc3x433oNZZwvc2x7/gQ8XkqiREmZfzaKvR0/eUHuTj5y89Vh18DI67kA7d9+vX5OwJEZwTcw3Np3OS55jukK7s4GO+RGyxXhROuFvCXYTtIHlC3Tra4Z1pXghKAeCUHTjPgTBwMkrbifprW5XeYXSER6k6aN4kil/+6wVA3fK7cnSLHco2Z8HehoSj7gum2u3jLvgPOKo4EKfaNXHeG6WdIs/J7fKT4W3TCjZbTR5UU2w;yEifgKjDYdp39XcgwKwlpA=="
 ---
 

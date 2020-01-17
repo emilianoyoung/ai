@@ -2,13 +2,13 @@
 name: "Skelter Labs"
 overview: "Skelter Labs is an artificial intelligence technology company developing innovative core technologies with the key focus in Conversation, Speech, Vision and Context &amp; Entity Recognition. As a technology provider, Skelter Labs’ priority is to create value for businesses by making existing solutions work better with applicable AI."
 type: "profile"
-heat: 0
+heat: 120
 
 website: http://www.skelterlabs.com/
 
 linkedin:
   url: https://www.linkedin.com/company/skelter-labs
-  followers: 803
+  followers: 927
 
 crunchbase:
   url: https://www.crunchbase.com/organization/skelter-labs
@@ -31,6 +31,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "trKua8qVQCMwhkIeb2DtOO9e+2fGGQ4+BIlhLYj2ZXwMBcFCuPSrrGAp0jYB6mW7YCRpnrmdaKy+m58tqxSnC0ISvcCT2RKf/5B8kIrPDfyjDBSX+JgiL1sIX23ATQGMlYu52bSM8IuhV1dH7xWMzemQQfL10NBFQ4Fdqm0Kf7lWQStoC3Z+egLsutCFytz79ksmjrl6fytJA0rYfJX3eIXAqGgffCJMzT3Mu81weaFuxpoWGpabHAa7rk6zS/BVLqRHgI3UrrmyweD001z70g==;aveSZyNXE/KLiy8NMDNjQw=="
+secured: "+jQyTAuc2KluGI75Z7gwiYdDeYX1o8qTZYkAKN3gyMUAcKyuibvD2vEqNEF3c0RLDmmqipDFxRYS4T0kWwZwMy32f67UsiY+qfA707BHCasX351w636WFP3xRy79s8pIw+JxcVlnOy3jAkyoypFc3xytQKD2UkVQmbLDYCh0Zt+jmiUwhIjCyNIugIL4rMakYqC7bzfqAW1KlYHIkphxDC68K1lSXWDEIqf5um8VIyXj84l4TO3Oi7eBCfeXXqyJ1MYEQ1ovIih7TJ3Q+PRCDhIjux0a6z2vtUVzLuYEVAsBSqcqIyu5wTAMvJwueg9x;wWSGt9SCgwKa+N3Eq6qWTA=="
 ---
 

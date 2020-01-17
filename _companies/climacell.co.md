@@ -2,13 +2,13 @@
 name: "ClimaCell"
 overview: "Have you ever checked the weather only to be caught in an unexpected rainstorm without an umbrella? ClimaCell is revolutionizing weather forecasting. We are bringing a new approach to weather forecasting, and providing the forecast accuracy and reliability necessary for the 21st century."
 type: "profile"
-heat: 3460
+heat: 54
 
 website: https://www.climacell.co/
 
 linkedin:
   url: https://www.linkedin.com/company/climacell
-  followers: 2643
+  followers: 3049
 
 crunchbase:
   url: https://www.crunchbase.com/organization/climacell
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: weatherrevealed
   url: https://twitter.com/weatherrevealed
-  followers: 815
+  followers: 824
 
 size: 51-200 employees
 yearFounded: 2015
@@ -39,6 +39,6 @@ images:
     height: 400
     title: "ClimaCell"
 
-secured: "llLyRzW6drnSuA6NOrCukhigEfW31u1K/8o6Xw/AHirpeDpagXFPJDVwRG8PmaRPBPnlVatoOlI7UpenMo3+btDM1NjB1FjYm5VCeiBpf7UFqClHNZzMcwQ5kz2nnNxhpVphHdXrZvFyT/1xGsgwOgmw7bmvPVhNMf3mu5U95fphcW+0mofA2Beq4jcugA8fYOpm91qPchHjpEBkyARpV8vmJJ/eb9477zUY7ggghA5SZj59elMyi8zvdPQBjx/TIV/nRFujQRGY8u0wVOz17g==;lOO7oO9DnuvA5Bi7Ebi6Nw=="
+secured: "wwy2hed8CyNjPUJTJPn5lt6X2+b64Dfi2+11prXmvF4wjsena9VUr346p7e+/OH+PaZjlM/k1mAGsnreYp5B2hd/z/1h9m0Hi8rSK7Tyk/6uJ+liRiRnmxNhhDa/AKysKjvOSujrldtKEwYcvQvvtkhGlx/PUE65C3ZkQvrjXJeCbIQKKP6CthgsOrfdb55k8jTqU7g8Uwx6HY3mXdMdqITJW16O3jbMSxqjPDxfHqn/E0/Q0qok8E51qcR7IL4kKNakFFsGsOHo5HDPB+lpzTYQTZvsmbjFLezPAYOg1WzLujZIliHY8lpwMpZYgbRh;Z1tweQUw+YWNX5s6XfXYhw=="
 ---
 

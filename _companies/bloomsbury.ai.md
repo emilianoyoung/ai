@@ -2,13 +2,13 @@
 name: "Bloomsbury AI"
 overview: "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise."
 type: "profile"
-heat: 382
+heat: 1
 
 website: http://bloomsbury.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/bloomsbury-ai
-  followers: 271
+  followers: 272
 
 crunchbase:
   url: https://www.crunchbase.com/organization/bloomsbury-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: bloomsburyai
   url: https://twitter.com/bloomsburyai
-  followers: 111
+  followers: 118
 
 size: 2-10 employees
 yearFounded: 2015
@@ -36,6 +36,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=N0mRn1bQyzU
 
-secured: "5PSrHuiFbpRJM0tCt8J7UqWl/EC/Ea/5Yn3JYjiAM1HBOBqBrUNHH/TpWL9xS3sKJheL2Z5Kpgy4XK3uiU0wIvnIKR4IFCJkKqF/XcaaLDY8Ehc1ZNdUJvshrfsi0IHSvTpDAGEX2LP4WJebjqNdSGfoGLz0tHDPBPs7JRhKeEF7KN6GY11NQYrteF0lj1u9q7BqQ5cBx2yGxkh0bRhtE2Cnbf5X0QR4p/p3t53ZPPt9FVU8Yt8tBapwx8RUoH7gD6TbygOM7tuW4I1lL1voeQ==;uDbQpv+r8kkkj0K4OnCx/w=="
+secured: "KTKQgRLKuwfxxCLx4huvqZ1qDQoFetIqPaNJPG0BRqvRZUDFJRWmmGOx/MdVbuWHc5W6W0HRGrZS0NuRAk6Tls/NXIfJ8dnFPozS8xq8eOkCKA23qbG/nZsS5GKXlKkQ8MNamuIBneyTAOEmSKcS5mOFyKwrCk8Gj/1EzfKvVVg2ARuv/of/ab1FEwzTpG8QjX9m35bylmpCufOf24x1QNbJA37ECa0QpWrQDQwHaHKdWFot6szr7bVpFYAhDgecaxKPsRIh448t0+t9HM7wysoVs/YvXsxyln9ClstNYuSxPMmKKTFbmGNeGmsdymC5;Tq3C5Ewnsn3PBoHlrFKC5w=="
 ---
 

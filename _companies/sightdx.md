@@ -2,13 +2,13 @@
 name: "Sight Diagnostics"
 overview: "The faster we diagnose, the faster we can treat. At Sight Diagnostics, we aim to improve health through faster and pain-free diagnostic testing."
 type: "profile"
-heat: 1763
+heat: 28
 
 website: https://www.sightdx.com/
 
 linkedin:
   url: https://www.linkedin.com/company/sight-diagnostics
-  followers: 1765
+  followers: 1984
 
 crunchbase:
   url: https://www.crunchbase.com/organization/sight-diagnostics
@@ -34,6 +34,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=IWwwJ8L7Veo
 
-secured: "eNn0LmnZqLMS/0afwS0qVNRmuyO/fwyGOrBkzhunRn5gms6mPZv0jWXWs9dAbO6eVMS90KyyVC9OWNhp3+788+Hb/P8LdzLhvmt9l1CmDaYuAGNM5D/6RtY/WSgK25K93xq7ve1yv9zf1NYhUIxnclHsEnCVYogQPvEu8WKmfr8KbnkpyeV9dehDg0sHm+lJrxFu7FVCFUl6/d10Axi2Z0WBwSr1GFMx/MXCwdCAdHbDvuRd4MsxGwLDlXFAeIqVQD4AT4hM/GY2VA5W5RXVLw==;vQW7jfPquh+oq7pn2MXyeQ=="
+secured: "GOShIluuzsTyebRLQDk2ebmaOI9IUyT1fIhYfGvseFUQLuzwdJaMqtlzzM4sQwGBbJEtOjpFYpfAQv+iDlKHA/7wxIG7ZU4iN435+W8NyZfTJcDAwn6IKJfBzI1CGRo+HCYGHNjogZ3+Rp6CuGfSwQxbjS4zqSKiXt0ImJNF78krcSYz3tC6pJ5WOuLxoogc4nnlvRhomjKbtIN4zs/C5zXQVtcS0CdVmYJjzDqZyYbdyzBKUBelW8SdSbnzdoAjLD9V95jTMxDK17Nc0GdYYSVf0jQ8k4edtlbE4i6O8a7r2FuaKrsznHkLszQMnEFk;l1syD0d4xfbuT4ZFOeSbtw=="
 ---
 

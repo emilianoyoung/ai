@@ -2,13 +2,13 @@
 name: "Airbud Technologies"
 overview: "Airbud is a voice platform that allows enterprises to easily add voice capabilities to their websites and mobile apps. We use natural language understanding to let people have two-way conversations that simplify their access to information. Starting with healthcare, we enable organizations to customize navigation and better engage their customers."
 type: "profile"
-heat: 258
+heat: 57
 
 website: http://airbud.io/
 
 linkedin:
   url: https://www.linkedin.com/company/airbud-technologies/
-  followers: 260
+  followers: 702
 
 crunchbase:
   url: https://www.crunchbase.com/organization/airbud-technologies-inc
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "MLAn9+zaR+1s2YOftJaZywVsxLzRtOL/Z9E76yW3rhXdHYMzM3bXov+uOdJpE4AsyEosGnex7fiPG/tNz/R6x3F4woiRv3adF/GBXGjbHPmDz7jQvOHloMXrgXdMoSYYb6eDssZOVYf6Ne6N4u6n+dJYVgiV8f+HK0KwIZaPOtsQ5tpwY/lLY9ESLs+p8g8QY2oMQveOr4ew1IKgkyIPmsk0p849P9en1Zt2schfdAN73Pp1WsSOdPOMelFsxKUMd5juQnyjMuEo7aZNe6lD/g==;YE4pOSU6zMWUbTcoMnSSmQ=="
+secured: "XH9JzXBDB1ilMAIx87Xi7KTKwFaZ3wZ9IitUgZXDMUFpv6/s3M595WYvIHX0J5h+r5UhG5q/nEQn3/wS5GMWVg4RG87yeq5OrWn4h0Imq5eVQs1RdPD8ejI2MSYRSEFTToYDqV0+3coCHLoeQPVbi1xFiu7mTnXilinzL4yWSvq2z10RK91m4/nE998Gi+KBg/I8OURzx1K0ffQAdptAR836s9BwpspyAHUmbVHHPwBrbyZcsFinNqeG0YNk9+Etd/lY4jIuU0ouBxIjs4QjOdVNwvaBn+TeiUbiabeNIuUjC4Q7gmWW/wiNtmyr9Q7+;qJ5sI3VrguFKUCZTqPmUKw=="
 ---
 

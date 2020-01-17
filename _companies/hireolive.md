@@ -6,13 +6,13 @@ otherNames:
   - "CrossChx, Inc."
 overview: "Olive figures out where she can have an impact, onboards quickly, does her job extremely well, and gets smarter over time. For more information, visit www.hireolive.com."
 type: "profile"
-heat: 10277
+heat: -248
 
 website: https://oliveai.com/
 
 linkedin:
   url: https://www.linkedin.com/company/hireolive/
-  followers: 7691
+  followers: 8136
 
 crunchbase:
   url: https://www.crunchbase.com/organization/crosschx
@@ -47,6 +47,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=mYaqdIwAE24
 
-secured: "FyJTtJjkeyxfAe16mwAOGAmwm+0QhqYpE+fEV4YrQaO8V8F/ZKkFM/iyp9FdhQPSPzLsYtg+8wvHrZ0icrmlm0ke/6y/jgWkcXf9GkZwOQHwmN5b0/Y7SZQCx5+z4G/lciM3bBsJvaGZGAOkWW5T2z6YFkvmMEk5D7RD9To2KvtE71KaBWUwMOk4uqByPY3p8Ey5DJIO1mkBGL5nIk3UirnUzLIEUKTlsbLIqq8pypzlWQZ59dHGYH53Wz2vI5sBE916bBNpDa1/p+9dEWI9Ow==;tCw1dQYi/7xHUeBhmPR3xw=="
+secured: "i2ZLRlDrWYxHOIYEw/K6aY7tNXQv6iqaSEP6K1JWYX2pA4jrYTL9mNtXSAz3iQ7cleDaT6qMquS+MgnnWYnVc2kivmv+wIYe3e2W3IOJDwJTjyxsOjL2yUhbJ4qzsRqMng1HlBEF9nsQ2sQwRmkaFpa6IXrYuFtdemz2Tz/Z6YOaYMEq/PRg8HLudreYgHA7akWkxlL3aKiKQCTqYcjhU3zfBztbzluSNvfITUtJ/WQefcmi0zAs6EFFii7c01EOsvd1v6icCSIitrx199Z94xu0i83V5qurqbZcGR5ckNjlrawXQPn7UXFQSdMAwr9v;01W8MudbObhxRvuE5x4Saw=="
 ---
 

@@ -2,13 +2,13 @@
 name: "Klarity"
 overview: "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore."
 type: "profile"
-heat: 5636
+heat: -340
 
 website: http://klaritylaw.com/
 
 linkedin:
   url: https://www.linkedin.com/company/klaritylaw/
-  followers: 385
+  followers: 410
 
 crunchbase:
   url: https://www.crunchbase.com/organization/klarity
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: klaritylaw/
   url: https://www.twitter.com/klaritylaw/
-  followers: 2610
+  followers: 2603
 
 size: 2-10 employees
 yearFounded: 2017
@@ -36,6 +36,6 @@ images:
     height: 400
     title: "Klarity"
 
-secured: "D4KBnGzQh7Xwm31skLTROj7PqsSHguKzsyjSKdHbVYZCCJEM7tarXlYuOHSzPYIXGZD6JWSh7jJGop6abht5RyKoskKoiToV3c4nhpvKsV+mGgaQ54EEkm02CDaafDZ65hUeltBE/ammVUlnJoVBta4YOKda9Jz7KzRuhuKV2yf6xolAULoAqD40sP6iMjCBsWEACx1gox5aCfPWcuwxDR3/EA+Zfxeay/KvKPu5RH1P/TIhrdj1em07tc25r/oznEu9mNepDbvIMcntx0t9xA==;eucDx4Dp/3PsZGYggS3bGA=="
+secured: "ONi7tGVvgB8tUY33WAS900O3VXqN8Frpz/V4kvCPPZ/5M196k5HfeFIbMDPrUqAq20d9W7PKhjyNRViLeM9PdgJAv5f0c8hnwLZXkF799qV8HnQtIgLb7rcrDmwRdDIK0afthgfLll8tk6StErSNXUpDAfvjhi1rMDJlE5XUkRIE+yjyFcF2YcPk8JP8WvVfifjQzlTqHgcuq/TSsM8RYT+T3XCgb496H01I5ya0rCoPADin7wA1cQpqnKyX+NmzD6sUampPZ7SHcGtP1ze5YwpirKDMaJLdpHP2di41VhAB7Sxzw++CayRqIB1Ox5Ti;h9UM2JLd0828gXSL8DuCDQ=="
 ---
 

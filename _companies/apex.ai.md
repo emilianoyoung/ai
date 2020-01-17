@@ -2,13 +2,13 @@
 name: "Apex.ai"
 overview: "We are building an operating system for autonomous vehicles that never&nbsp;fails"
 type: "profile"
-heat: 875
+heat: 43
 
 website: https://www.apex.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/apex-ai/
-  followers: 876
+  followers: 1208
 
 crunchbase:
   url: https://www.crunchbase.com/organization/apex-ai
@@ -36,6 +36,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=lhnJR9EUJHc
 
-secured: "mwdp8a5EgkN8IICJCjr6ATNKSJsNcgr7TwEiuPLNJv5r0yRan5q39H4prGHI6nSSL8hj14qN6EZLXDTbnN2GWDGjgTVtUdrS3cMgmB7gMjCcPbZlKaN60tOo7Fic8mEzZrTBHUPofMSXbXjuVg6+hELsgFR5tlIKlvVZ7qoXRWL24FMukwAm6ASXnCKK5RmH95pUCLKk0VpQ+zH3p7ng0NkhbogFuG5CgPH9xiwlQscuhoWH+9Ew5oYvNCHgMkAwbyYUnJ8A0Or7ZwDAjbtg+A==;YkwFIFG0ktVNd6+wH02xVw=="
+secured: "7wkovgLfk35djzTTATzk2V0VgaK1q1MfakaXp8ig3jM1RAiVR1PVERyvy9SmRxBZaEM9g1L978xX65Q2aO5T4cEy821ptMyDTN+dJU365pAAb+vUta9Yb5uO2asaXtSK1XzS25GTMt4DE6rwdqILPHNQzxO10z5n7BItEw28oKoVurqb+Yvqs6dXxdCT2MCSy7raBMmIrSFzeSVWKmvb3bWE3nR5FbfkCEJFrYO1YAG/3RdrUnHx0GvpMNMnPzAhYHJds34sGJ/QOVHluHTHIuR4HILBL/3ftRAbYb//fNjZk3nMHkV4OBfhz4i0clK1;3CGQnnz6PnUqoz1KR3Qjuw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Tetra"
 overview: "Delivering the benefits of self-driving technology safely, quickly, and broadly"
 type: "profile"
-heat: 4818
+heat: 33
 
 website: https://t.co/Rou5HQzEBc
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: asktetra
   url: https://twitter.com/asktetra
-  followers: 4830
+  followers: 5077
 
 
 funding:
@@ -32,6 +32,6 @@ images:
     height: 400
     title: "Tetra"
 
-secured: "rtlOEu0dAoSP5OMjAmgwSHM4UDsq9d/JKU9qY+WdOiMVrrzsM7J/sW05XmGi8lKjG+alI+TS2F7Peuxe/7saEUfu3dem/wPFKvqB6mupFD2qmICwxMB9FbgfwU7c7qvDxVPiFbLtweqsu9cSEw9gE+yJzkysqEopRGmlwAxzLMeqhR3dQA3lPe3nymFWkgubtcelQzQJIIdcXIs50mI5qYJEDuQmcrFuJP0kCohbnxTNbnYZv5FsSe4OIOOZ/JlpzopwRnRLyfjSQ5BkCoZMjg==;Mmk8j2G6wA8HsxdWTLgQsQ=="
+secured: "rxsNGShCdaCea5Fr2ei6rRH8WLRCtCSPISFXbyrC9jappJs8Oti14Kifpdc5Etojbd74z2Yt8/Cnj3HkqjTKZbmki4DQFcuC87OtJJQNLByKEwvv+mE5FpCBKMq9TGeuPpLJ7vQ/ZEXPjC9FrX+vyfsen94uWVKdIyMCMXp0HBxDohsJgXzETrRb3dxitI790eNZzmLGcMTYZfdb7ProETlcAEwPcbhzbbtv/CM4S+p/GOGCnf/zTCYBy9TqTI8TxAtOENeE4kn83szcUifxkrUTXVNMDoDkW0Gzk5f/sU/TqRigoBcQWyCZVYLXiEeN;aUhYRWlshiPFNHm9NhEBhg=="
 ---
 

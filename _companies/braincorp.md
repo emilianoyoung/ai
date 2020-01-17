@@ -4,13 +4,13 @@ otherNames:
   - "Brain"
 overview: "Brain Corp is a San Diego-based AI company creating transformative core technology for the robotics industry. Brain Corp’s comprehensive solutions support the builders of today's autonomous machines in successfully producing, deploying, and supporting robots across commercial industries and applications. Brain Corp is funded by the SoftBank Vision Fund and Qualcomm Ventures."
 type: "profile"
-heat: 10592
+heat: -40
 
 website: https://www.braincorp.com
 
 linkedin:
   url: https://www.linkedin.com/company/brain-corporation/
-  followers: 9186
+  followers: 9583
 
 crunchbase:
   url: https://www.crunchbase.com/organization/brain-corporation
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: braincor
   url: https://twitter.com/braincor
-  followers: 657
+  followers: 687
 
 size: 201-500 employees
 yearFounded: 2009
@@ -45,6 +45,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=XqYInxl6RIk
 
-secured: "3DWdnCj+YycQMMOijaeR3FhWkDlbrqDOWMDiI0n7mP40hfUMfbyFz0mMANuUc5A8M5IT+XONkx0eiGdeF37mptC4XnsseKVlRytu+aaWJfJP5PCFh8ggKzmfUsIewiKqANszI6E9d74HWkBYxfBy7aqDqNjk+yGsYiPs8O80peDqKBtWoStZsufx4J0U/hMbP18vQ/IJBTeqXllvZTejpP5qxk+iXcBMpMGnnHmVNrO1D2VEcGAgTPDhnGvfN72/XP7UQHjiuG0y0WFp/x10+A==;x7TwY3TdYzDh+i4DHI713Q=="
+secured: "bMtK8IJHli+/+WYB7I0hlxgktLYXsib3xtZBDb6Mygz1Pui10pL8wXdrSDGLdu7ChibVSqoZHnWWI+uX1Kw9xo/7f907wmUhmJR1/lsEIO8U8/px0qyHFo8TcPpV/M0OSgXi4i8mbmNcK3uispxIpabRhTdyPRnXRtkutJlSnopWbDY2TJq8UPoLbkRPp7zmVzjPtwFsv2FGq/Or9bFjE7F1rKy0HvzbJMV3Z1Jdg+bUFucVM/Rf/9sWIcA3fZpnMm8xMQOt8yAywjlY5eB1dc/3cGPBzAeuzk0tdHEDuBgEk0xFoOuzX5b5U2a7KadJ;T3EtE3icSJKbymz1Q1oh2w=="
 ---
 

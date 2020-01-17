@@ -2,7 +2,7 @@
 name: "Boulder AI"
 overview: "Powering autonomous robots. Empowering their builders."
 type: "profile"
-heat: 1431
+heat: 3
 
 website: https://www.boulderai.com
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: boulderai
   url: https://www.twitter.com/boulderai
-  followers: 1432
+  followers: 1460
 
 locations:
   - San Diego, CA
@@ -34,6 +34,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=UoXpoP7ibGk
 
-secured: "wBs8pKuudknPfRFrDEecCgT4cNucXvb0SbCLrwtczN2YbA2TcTyF/0kesN38Dll8vaArGRcARIEutCKuKEJdtPJKdhGxoPq9cbBkmL0eHHlWeJkL/lDFernFvXK4kpLYCy6+QcvKU1AU0EA8BGSQqHg+mQM1kRgCj1qT26qpHfTPET+PcXcDxMOc6jnekBmPmzjW2M7snV8zbIVN2ztgI9Rjc9c+/QS/9d/8k0opw2537CNeG6UVSwQyEfj1nJ3y1zcTYSc27jZ1IHt9/oU0ew==;w+AnwVdnm9o54fIr+RDEog=="
+secured: "JghJ+m66QWjRXdRDTB4Ug+teKzNfWkKjOmNwPh6oxb6Q7jpqmTEO2Pi989z288Hx5uKenQYwxqKt6KKxv8rdPA5GMnfm2zsQv/8euLYjBXXEpWSMjlj17tJ5rIKP56Y/0zAef6elRrSidi9i3ZjsQhXP/oB/te9S4Mm4dGAak6XfV9lP3jN4yUBfwiue2O51UaYJvIllelSKMpF0G5Bx5On09cSQHrsmRkJQRJktGQilPR/Xcu+D/6Xxs1NvfFXAGqrrpej6KVA5XKUHQGTS6dh8Cc+mLkz/YyA/8Ri4i6CiNSGv9LOfMYhx7hd1EPan;0a/V3yCUFXOt+4tJeQAFUg=="
 ---
 

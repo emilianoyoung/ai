@@ -4,13 +4,13 @@ otherNames:
   - "Embodied, Inc."
 overview: "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life."
 type: "profile"
-heat: 2760
+heat: 4
 
 website: http://www.embodied.me/
 
 linkedin:
   url: https://www.linkedin.com/company/embodied-inc./
-  followers: 2761
+  followers: 2799
 
 crunchbase:
   url: https://www.crunchbase.com/organization/embodied-inc
@@ -36,6 +36,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=TOj9VNZqki8
 
-secured: "V3rSwQGod6CJxNErMdjXXY9zl5gGOOn5wGZN8/nvUX9XIOOHK75UTW10XhS9/BvnX8OmGBRMl4S4Z8k1EhYpXi9KpEIHYuAjN3rqrlkK0xDPKtuwXfvIBDD8+uJo9ADspGVB/rOr1VTWdeoPGBqVC3oKt1cq6r4KFz8BP8rWzmYWvL+SERrE0PXFOQ+BlClS3z6MPM6eMjZqtFVrZeQsjYQy9Nf6IbQI5AHTQ+GvA42s/v+5KjIswvmAnqhJHvWVB0t8Gc0F70dl7GhGulR1cQ==;Y+sVWEpeqRDfQ5MC6qy0vQ=="
+secured: "xi2fTUWJVhTS0QNAScC9pDwtZyz0lqH5pLMTqAAga6/BuY+dJnSA7LPF8TEQhJXrBeK8Nmg4R5GclJZLB3fJQWNUw+2emr1AmxVRlYKkh0EKmP19BMkBucRGcjnUQlhgjs/UVFF95rSAJ3SIDnBYE7GwCt8gqR9zsZtBhy7dox3V19FyDZtHlk3vCCq8uCHNoKEOCirrgpN9e1aWbYvl3XR3QstsWFWXoKVJHI40T3HwqB5FNb5V4SgaLvkrlL+CvSCplNOqnVrw3/61KesReU8AwiIvemWUpHN5SVoaXfMigROtEUJRcHQ0H9h5T7TB;1PVKiKayMzb+nDcFqltHBQ=="
 ---
 

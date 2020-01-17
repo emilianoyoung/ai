@@ -2,13 +2,13 @@
 name: "VisionLabs"
 overview: "VisionLabs is one of the leading face recognition and analysis solutions vendors. VisionLabs products are based on state-of-the-art algorithms and technologies, developed by the company."
 type: "profile"
-heat: 1175
+heat: 1
 
 website: https://visionlabs.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/visionlabs
-  followers: 371
+  followers: 390
 
 crunchbase:
   url: https://www.crunchbase.com/organization/visionlabs
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: visionlabsllc
   url: https://www.twitter.com/visionlabsllc
-  followers: 1043
+  followers: 800
 
 size: 11-50 employees
 locations:
@@ -38,6 +38,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=XbCC2ItE_RI
 
-secured: "v6g0aZ8c3Th9pYxdOdtYMczADrvmzr5gj0bCpduYV1rzxb8DwlzU8WpU+D8W0g0F1nLqiqtVEVrA57srPmaq68xno8duyi7407ZhDGKcj1mIpLndCMVuedbaFIdWrNAvdXisbiI0QHcKxyj7eWKiJH0Gw/YQxzo3LcMGVMIQgrmK87EqzKZXLh5nAWyHfIRGKQxVzfqJU2C2pZ4pyG8SP4+os1igVbBJcmng1myCG7cuNX5M49c4cFdWVJcXxNobCfcKkLwyCdnnj2cUe5sKig==;YiYEA5CO7RRfI6MYegWMZA=="
+secured: "S3W83aJsuZgc4VWEiJBRkY0wxeYUMQM7RbQa6fR1OYGjHX7WHCuIxjkAy1G8gBYPUna9ON9mpNe2H7Q6kp55ZeSVMW7nuHO84Lx0hqGZGJCq6+7Qz2yB2WWGsNhe0cUu8hreU/6Vd07i1ZH3s0FKTgWIzbWlu4K39vD2mPbvWbknb9J3V4+PbUuqLvWlV7Uqvic/6ndgienrO/bBFqAXJIkQqyWdr+MvMkgXbZPs5YPIqnwHAlkMFMRwOnAmu4qw1ewqe1gOpKsBEfZe3ZjVbF36UIV1LwClrUbohiedrU9B8J/cJX0ks74/h6kmU1dX;Chu8sOKt9ie3oNn7sa/l/g=="
 ---
 

@@ -2,13 +2,13 @@
 name: "care.ai"
 overview: "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered."
 type: "profile"
-heat: 204
+heat: 192
 
 website: https://care.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/careai/
-  followers: 141
+  followers: 167
 
 crunchbase:
   url: https://www.crunchbase.com/organization/care-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: caredotai
   url: https://twitter.com/caredotai
-  followers: 1401
+  followers: 1520
 
 size: 11-50 employees
 yearFounded: 2019
@@ -40,6 +40,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=DWTje5pDap0
 
-secured: "AOZxRPVk2boXt2FKJOOxvM+nPjoHUr9EGOa/PzAicnpBmrspfv6zhohp/R7h2nDksQr1cSFXwSbTlCUPfF2hG1ztmxZI3jBkQNoYOEVb9wGgCmAjckv/uHUS9KND1/8IS5TZIJZWxIpCt2KC/IqFhWQbPbiFK32hGXzslIMqMkGkVd9Tgw3j1zn4ZDVZ9PGN/pI9x/aFjcm26paVKlA/XcqUhdSF6CBxD0hATWl50gQ1GggxwewIexpv7p3mkVM1mhD57XI3k+2uLezvD2iQ/A==;3sDKjGP+zl3mpVyApmcmzA=="
+secured: "3rMyqMUR+PquC6slR5ttvXNXtowdzdo2GlOPgNHQa78QJOwA2OMqhKL1pzcn1aLYwKls6BRrnqgQrriX4d29H8qds1ss+JvEVY8waq77NGC7lHXdMjA27yCw1K6D+m1m5EA39kDF3Io8AGT8eq+dDoBOuWVsTqESc2E/8ruqVB91aph3G4BApRf0+42SBJ3HoF1eOjfBzeb688WpYg2YTerbVqqPGXe173rqwk7mX1N7tak5Xhojzt+dSaQuFSkpjPbAeo1007ByqiiHXFSmUZyL5kAPg8kzVuZxhbDeO0jV/X3OQbhAKZZjJj7m0+t1;//knO50d4TBjxEhJx1521w=="
 ---
 

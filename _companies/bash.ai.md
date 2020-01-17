@@ -2,13 +2,13 @@
 name: "Bash.ai"
 overview: "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions)."
 type: "profile"
-heat: 167
+heat: 2
 
 website: http://bash.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/bash.ai/
-  followers: 148
+  followers: 165
 
 crunchbase:
   url: https://www.crunchbase.com/organization/bash-ai
@@ -36,6 +36,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=AtqYoCjw3gA
 
-secured: "W6nkkXNnr1HKk6q1VtVa/hzwsr9u5E0nsnpC84HAjBvJxBNZPq3Nfq6bj00OBwczpIQkTHzZ0ZMICYCd838xLN+O1PaFauTpixfVkYECCuc98nsQUM/5kCQlSneShJ2EZmVx++ODSDfO9FPAVuH2XEkKyXDCx2KS9o3YfUweExX68RQRlTuYZTh4T7O1CdaaypIZ3d9wzTDZB1syG7QhDyl0AHYR46LbyqJqLN1uDhFBKBKaKwfKNc3lWQp0r2uIT2CN/fKDujANt5wxh8Ly3A==;Av8QsQJVbNsGM/J5EyouuQ=="
+secured: "g9GLw9wMOoXCMaz+zHv9sDUw4hJUE0jmaER9d6QirOxwTZgf9pBTVdWt+kX+UGeIAAraJicpqydXUNMJncPDxoQ5DjIkeasXMPU0WIUwFhYGjwwhtYyASKI/2KD9fJKrJDn45iR39nxwgL/gtRaJkYuaHxi3zOQZFQearDQFRDMX+V4lJAKLJ7sYaGNaLkMSXBiTLOo1XmeaR4iI03fo0ZS+e2tHWhwxQDM/s3289LV9gs3ANCDeNsYZn2Ap28KdpZwFXAfxGjTIjbdoMN2rqUENbrghQoKixhyD1We2lDTKVQ8uB9ggLbhEAy5URYUX;lOjZQFS9PMqQBmAYcpB6Bg=="
 ---
 

@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: beaconcure
   url: https://www.twitter.com/beaconcure
-  followers: 197
+  followers: 196
 
 locations:
   - Tel Aviv
@@ -30,6 +30,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=kag2mOw2Tj0
 
-secured: "PvBYitd6yaDoW2NJLUA9mb7FRXcsQIPL90WWNuIaAF5rrLk0btFHh8UsqWJpw7ScTMtYrmQK2C4FS6sda8GGGsFL92enTQ9QQbjw6wnROqyQXiU5T9H/VQXUq8KsVMwsH6ya6Ub4d474X4nK1TWZUuMzsSir+xlG0OikV7lQO/YvR4lpBmQuNTa3BvRJtLXEaYhQSPD2Lm7n/nXR+htF7MAi8dMI1/a2Sf8/i9mWbywgEawY9O7MSIUamyeKIbC7mx2L9jPEXrNg6s9nPE+oAg==;kPq6vGyRT92Q93JgN2E2cw=="
+secured: "As/3rwcTTS9JpZ/9fIKVeBR/qQmaRWD3eh7YwCoHxBwjyFYs+/PhnozY5VTyar07TOg9jMF10AMyfrNlzHkBMcwPXlhraLAXz306tqqy8n40yKk6ri+aKX4ztaAWhWRhN9SNfIufUICqeiNK6ACmvwRxLrufSLaWVbnmRMWLHhFJf7eKz0z79+Mu4rcsqnh4I/1kvymsNiAdNZ1png9xnQy6TA9w7uGvFteBWFGv7J7EWkZkCghaw1oEa3kQs9C8fUXm2eiLw6w6HAYCCrn2d/TvqUUJQOLhLm59hFCoOWg8x8+HP7Mrcgo1QKjWNXSX;reqHG1VW096YxkECiDDQOQ=="
 ---
 

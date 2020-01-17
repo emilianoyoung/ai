@@ -2,7 +2,7 @@
 name: "DeepL"
 overview: "Deep Lens deploys it’s digital pathology cloud/AI platform, VIPER, to pathology labs worldwide and identifies patients for clinical trials in oncology."
 type: "profile"
-heat: 418
+heat: 2
 
 website: http://www.deepl.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: deeplcom
   url: https://twitter.com/deeplcom
-  followers: 419
+  followers: 438
 
 locations:
   - United States
@@ -36,6 +36,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=-zBT7vwa3PA
 
-secured: "jtdt2Dy5M72daqoeM/dtJ8rRUMYACBnF0pSsbWlLf3cGqUdSX2NVR/unOQu3hmVGS7zdnGxQQ/hYqAF4v303OiynMaOp3WCq225qhBvO87efz47zNueL8oh+SilegpyqDIsiKjMsXXbg6NK6rNx4xX82xK4B7PUWD+GTGEsSjihcO4nvw8UqkVO/OOLw9RuBxuI6h8/dgKDuiITf9eLlQBzpc7GUw1nritcZ1ULHSKA9nEhSvs5gKS1lHP3Cu9FOZYm0/KcimHsTsCLHW9pd+Q==;2AxOpUb2VhB3FFEzZpl43w=="
+secured: "YQknwpdjyI6PQuNKXtnsxzgvj5BjnANbJ3CWQ9a6ui2EWFoby2nnsd5MDosl7nJClqBKD3wbTHz8ss7uQutIaBzU/U9b8YUJV3nrBs3YoPho5Wqr3rylFknS1XDn4+4gk+sXmb/vB/NL5zi5luw0VBkQZW57W+Rr35fEYWJhw3RgwUigljmL8TDAbaKvZCJbEtd/Mr8RKxzYrlyBIuv3ZNWT+OjELfAhNO9zDqv/0Arop2mv8h9XLx3xesGIGLKt+sP5HP8vmExj+ku/Zm/tK1H2L21W9aGZydCtjKJXgkMVp/GxXR9TVOaD50trQJ45;SVVCeiIW83nL3cIQ1TIJJQ=="
 ---
 

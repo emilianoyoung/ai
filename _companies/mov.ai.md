@@ -2,13 +2,13 @@
 name: "MOV.AI"
 overview: "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use."
 type: "profile"
-heat: 26002
+heat: -3124
 
 website: http://mov.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/movai/
-  followers: 526
+  followers: 548
 
 crunchbase:
   url: https://www.crunchbase.com/organization/ground-drone-ltd
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: movairobots
   url: https://twitter.com/movairobots
-  followers: 579
+  followers: 907
 
 size: 11-50 employees
 yearFounded: 2016
@@ -43,6 +43,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=KF0y_gPMnGI
 
-secured: "1weKGUUNAEQF8RjB/XvxTF0mrbHKL5fUDeQvnzaaX/8f/RTDN/8eloCNb9SH2nxJx01hj8zxwP6jvP4TYN0daOkcCvIh5MZhxyqD+9qUfQgTSvo98efU8lia6IWiOgN3G4jrewEO+BGJF+JO9bzi6KQJYZPN03AXNbV/xAhGZlRA7eZh7afXgXmkNaCzTsBMzulHrEnAqwaQGjXzFC6yQj+ys9rv2v3pmXN8jlMxrD6uNqIFHTwHedKhPOIcNaJH0r1oMNejLV5TV9QMzABbgw==;mQ1wn7CCwCtPx61sklHxDg=="
+secured: "KJ7HDL2bLRZIO391OXhw8u7MAPTq3l1czbaynMfUzXRp66iRkwX2OOutX04uaEcnD6JuYNtSdk3CjaiNcKo3zY0DA6KXu5ejcyzuFYFkGmYdup8aENH0XL1Hw9j+piS0CNM8S9SF3YfL5JK5WMK4VYjEz1mWIAB6r6YUdx32gZV5GmnsHLnkuivmVZLIy6mOZXHM+T7AWCqCQeqwTFT5oRIXanv6z0AGe6OuiQB4dDoD8J14CTGUTrZ4lY11WmP8PHnBRe250jr2tvaxxjeeHJNh4C4hX8BP540pMx6I6FhRL6q+0S/R1Slj5mVTh2T6;0pz4b4SgFRQDPDMkb4FzBw=="
 ---
 

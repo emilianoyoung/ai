@@ -2,13 +2,13 @@
 name: "DeepMind"
 overview: "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems."
 type: "profile"
-heat: 341218
+heat: -30256
 
 website: https://deepmind.com/
 
 linkedin:
   url: https://www.linkedin.com/company/deepmind/
-  followers: 73638
+  followers: 87709
 
 crunchbase:
   url: https://www.crunchbase.com/organization/deepmind
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: deepmindai
   url: https://twitter.com/deepmindai
-  followers: 11385
+  followers: 11457
 
 size: 501-1,000 employees
 yearFounded: 2010
@@ -44,6 +44,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=SUbqykXVx0A
 
-secured: "IShVnNLYDYsNAdnTJxj30HkzRYvNombwlLw60fmM6VeYOM6yIswAgfepcPphtQMuHH4R0lZhT62l7wPYy4Grq4eAT5w+NREPRM6LVgXPMrIhY0nbCEI/63b63vI6M3JfPVqZlkuu3ZdggdacCxavhBXY3Q+35wsEWJITj7KkUTu1IktAnWONkJeT9kq4KdM2ReHybTyQb4iLt/joNGqTpVFXqC7GC2G74L83/7Y6CCvNn/mEDABiCWeDUkFOgF+wCnfFrqw7D4eUX8ygoPqCVA==;r4RUmV134WDKdN1lA06Dqw=="
+secured: "lf7d0s2BvcGLdjgrHEt7cs9MlUwePW8m2wSMl+PL3/KdJTjurIGy/m+bXa5RuWQM1dtKef19pwyOvXtMUHtmLtuJw7docuw1oEOilyNDUW4Hh25HH5actlrP0+EWuFjGJwWKfwpbxP416Q5COnFs58pup977ZmJ5QUyaOszo82WxO4//G7/cEfT8VoHei5gs/PzKEZGm+ffulv2R3Plmu9GsckGJ9K7nuvm+UC8zVrRKf6wZjRtxdZNn6hksr8nVpyyWhIC1Gzjd28pxIw4C0edGoiBLz6brsmNxDbJI4+O1S80OUSFgXGSz78qgHqur;i/gQBd1s+StLjD8CYCYLWQ=="
 ---
 

@@ -2,13 +2,13 @@
 name: "TNH Health"
 overview: "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations."
 type: "profile"
-heat: 1179
+heat: 9
 
 website: https://tnh.health/
 
 linkedin:
   url: https://www.linkedin.com/company/tnh-digital-health/
-  followers: 1143
+  followers: 1217
 
 crunchbase:
   url: https://www.crunchbase.com/organization/tnh-health
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: tnhhealth
   url: https://twitter.com/tnhhealth
-  followers: 37
+  followers: 39
 
 size: 11-50 employees
 yearFounded: 2013
@@ -43,6 +43,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=jT8f0JOdEu0
 
-secured: "jmzwLGexndJtlZ3XoqgyZNuW0w5PWNNtJreRo/iCvI9NCT/68uCaRcicun5JbPjG7qFv3opQi/LRmZApXHH85uSnyB8/NjdE0G1BwMofV6rrykDmb76E9f8K+LbKov1V8D9/Jpg4mSbQrBReYxdjShgmpa19ayNXW3K9ENLuJdoRUcFN/VqHrXNbKc2MDQJNzdGRE9iOiFAiyG8p67wOQT8aT38wo5/zB+U+NlR5x2HNyULVnp91xE1WhTR6JPNfCtxS3/lt0TO7nlCN22kVcg==;eQMTjny5XUQo+0eP8uFHzQ=="
+secured: "MYIObaDMPjRFCkDjPXSAYFayRpEAO9mwDMfCmWb9NAMfoilml+80BtEReQQYT9LsbAYxr7w0jUSoUo9Jxq3c0fVRupLmJLnG32x+thnd6Hacs7QtEuv5NzNmVe0VJubumEUlWrHX+4imFvjskLWD7K8YrWeCgYy1HxWL2Hk6cIgAQ3ImwQ+6P2hOj4+e7OJCMmE4iMla8+l7+M0btJH1k+FGRQmuu3yfNO+BNZHqSlHM7ERGwM9lJL7VW3iQx7IMB5wz72uCZCNp2nS3hUQEPEnxekpNRWe7ZrCE4vtXb2UBWVIPONGfiQPVpL5g6gtc;wYdP8yCNkQgtdmc+rL0Ydw=="
 ---
 

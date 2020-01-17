@@ -2,13 +2,13 @@
 name: "Anki"
 overview: "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI."
 type: "profile"
-heat: 34420
+heat: -3081
 
 website: https://www.anki.com
 
 linkedin:
   url: https://www.linkedin.com/company/anki/
-  followers: 8333
+  followers: 8426
 
 crunchbase:
   url: https://www.crunchbase.com/organization/anki
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: anki
   url: https://twitter.com/anki
-  followers: 1582
+  followers: 1786
 
 size: 51-200 employees
 yearFounded: 2010
@@ -43,6 +43,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=ABFcdwfU3F0
 
-secured: "CgGSH49LCRIJq1vnvj+5ozMy+BqObQc+gR0Fx1QDIhE3tZpKj2gcX05Q5LQ3OxIF3GHY+QwoN3VwypzTn5FZDG8lrVZCtwqnXhpFzj9Wl1hh8pEzROi3S5E+fZ+eeaKBfxeZ4VsHRVVe5eUvkez0lk62X82AR86ygkartMXc+tY/SOhPHRIWKAyf3x6MKjrJ78B9bGfsqzNRuxDUGeO4Lgc12G4dJdC/zUYnc/P2XIZA3oKaRWCDCu2CRDlCk2spcdGEepD9RdlwMJnWSowRQA==;iYJs8OsVJxcosMMQj1Kq9g=="
+secured: "mie8devll2jnKIMUEBaKKzJbCia1Jde7sBIXR8Faz3cXzp1V9yC9KOEGe8ZUPGmTPt/U2aC14YPvvrGCvzjRAyA2ILRwQXKCa1xwsumRE2aGVAtxZBZwG+n0UbfF70Aq2+ZNw9qOyglmiuBdQRrGdbjOhNlC1+dIfMke5r0LdJ48lTRtYD0h+vJDIU4PNO+oaXybDH7k0Jhq5SbagcIryUZco4TEvEnMzlYxuWbnZDWWF1W5tnA11p7rypC9pgg8zBZwAR8z4TwgJrSh6a7H+kt+Ux1pX4qrSLZ+EViA62N3QsyxxL/r3LA0mkBCtJRy;H3OCuvOvmsz1Ybqzwhsd2g=="
 ---
 

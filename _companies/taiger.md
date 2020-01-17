@@ -2,13 +2,13 @@
 name: "Taiger"
 overview: "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology."
 type: "profile"
-heat: 485
+heat: 1242
 
 website: http://www.taiger.com
 
 linkedin:
   url: https://www.linkedin.com/company/taiger/
-  followers: 8903
+  followers: 9573
 
 crunchbase:
   url: https://www.crunchbase.com/organization/taiger
@@ -16,13 +16,14 @@ crunchbase:
 twitter:
   username: Taiger_CO
   url: https://twitter.com/Taiger_CO
-  followers: 3817
+  followers: 500
 
 size: 51-200 employees
 yearFounded: 2009
 locations:
   - SG, MAD, NYC, DXB, NM, HK
   - Singapore, Singapore
+  - Singapore , Singapore
 
 funding:
   status: Early Stage Venture
@@ -32,7 +33,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://twitter.com/Taiger_CO/profile_image?size=original
+  - url: https://pbs.twimg.com/profile_images/1199655602424877056/ANWtCK5S_400x400.jpg
     width: 400
     height: 400
     title: "Taiger"
@@ -40,6 +41,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=X9wiSLxokXA
 
-secured: "pgTxhAkwSSfNmIrLL/VZhZZbKqJFgaJG3BCiSY4Je43n6qyDb8IPI41w6tuZSdBWHa5uUjzk1i4YkZ0OXDtn+wLFyh4eL0SfJyJmR51f+fdnMNMqsrWJoPS9OOu4Fh6BPycKxHvOzHfg0vV1cCR6+UBzJdi/hEkiBEahdy/ZdGIrJ4PfmFJcBDR8HC2xRs1hSIG3mOQ2ZmSMXMcws7eUgHK0XBkTV9MfKdPLoZlaGElMgSZa4WEh3kLPLkCXYtBvxfCM0c4BWSv2syFs19DTPg==;sAyFE0eX8A9ZJ2iuvzm5YA=="
+secured: "N0zzMcjKKU1xOHK3d7VERGSFAHOXDB94XcTNqneuZWECYvfvvFF/EaUuDPuglSmHkE982d+2UIB/ScuXtE7Yqj6/pqHFDxEKzSyEoB2VRejnRrQ9IeGcMCVgJKPNGMoxfUpT/4DRdjXBIEGhh1h95ozGHx66m+eiWeceZApg/ric7GJSmosKfrNQ+kwCgRL3NtQ74FIS1B+1T+kXZMLeGYFRkFK0cpStxGpuBSL4u2o7xEhikKeIF4quoiAhv183crtVO108SHIUNEaPaZWwtcbHQYgaPS0/C728JwZYx8Z6LXH/q3N7rE2e1eeFpfZe;XzfiFgyhw5M4OKry5h69iw=="
 ---
 

@@ -2,13 +2,13 @@
 name: "Mediktor"
 overview: "Free face detection and recogniton API provider. Leading Face Recognition on Cloud."
 type: "profile"
-heat: 727
+heat: 114
 
 website: https://www.mediktor.com
 
 linkedin:
   url: https://www.linkedin.com/company/mediktor
-  followers: 0
+  followers: 830
 
 crunchbase:
   url: https://www.crunchbase.com/organization/teckel-medical
@@ -16,10 +16,13 @@ crunchbase:
 twitter:
   username: Mediktor
   url: https://twitter.com/Mediktor
-  followers: 732
+  followers: 777
 
+size: 11-50 employees
+yearFounded: 2011
 locations:
   - Beijing
+  - Barcelona, Cataluña / Catalunya
 
 funding:
   status: Early Stage Venture
@@ -41,6 +44,6 @@ images:
 videos:
   - url: https://www.youtube.com/watch?v=VrnosHhMfgA
 
-secured: "qFW1T23spmlKQ8GrdAFcwjg+fTpsRT0ysZx3F9vXy/HYlgvtNVO4Jue2LTY0LPW1krOddNjT0NM+bIOi8exy+adTzlUMVPFjqlND+Q31I9YCuW15jYTNCF+xw4MCysinpTYvz1xAgT+QCpEwMCYUz+5Dl/141O+wekwpLK8rDfG6ki0VaTwxeUyQ2tEwgqAYskxmYV2T+UFpW0AzSQ+ZHYcVC090b2g/b1fvy0ESq1/YzRTh0rb7Zom3v++YZlRfo6i56v7k6pAhnC/IHyx+Sw==;Mx0p2ipQkeWMFUy5kjhWTQ=="
+secured: "W4RMoALLiHDrO6XN/TeOaogc7nMBpUr4nYIfZcfLefKU0bb5UWIbFmFKx1pFO1gj5k/Y4Ost/yX1pi+MPQx9woWEDaiztbDNAVXRi+NnG1cD2Z+xOPAFB6d7/91jEjhUfz867FDO+w8UsUGvLJYLA1QKbG9Ex/D8zZsfGknSwnPQdSvGDNHrSoraAH9YeQ2gsa2Je6/wZOA39msGVPBxdIAEhc/bziRQRGzoWKzZxYYZZf8FEUs9ld7Q0gW/MSvJ25MjlMZPmjkg+Rzx3e8XSLrzMdN3oDft9mqGjMuplZ8uCvz5GLMDk2egQ43pCwAB;8qDUP2QWX8bQ3ruhFSzbYQ=="
 ---
 
