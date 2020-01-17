@@ -15,7 +15,7 @@ twitter:
   followers: 1483
 
 locations:
-  - New York, NY
+  - New York, New York
 
 funding:
   status: Seed

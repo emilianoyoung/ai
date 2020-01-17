@@ -21,7 +21,7 @@ twitter:
 size: 11-50 employees
 yearFounded: 2012
 locations:
-  - Austin, TX
+  - Austin, Texas
 
 funding:
   status: Early Stage Venture

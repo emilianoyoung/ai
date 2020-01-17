@@ -21,7 +21,7 @@ twitter:
 size: 51-200 employees
 yearFounded: 2016
 locations:
-  - NEW YORK, NY
+  - New York, New York
 
 funding:
   status: Early Stage Venture

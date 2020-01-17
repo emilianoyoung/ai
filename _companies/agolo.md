@@ -21,7 +21,7 @@ twitter:
 size: 11-50 employees
 yearFounded: 2013
 locations:
-  - New York, NY
+  - New York, New York
 
 topics:
   - AI
