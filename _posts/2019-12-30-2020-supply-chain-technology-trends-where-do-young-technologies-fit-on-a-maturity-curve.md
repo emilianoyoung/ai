@@ -29,6 +29,6 @@ images:
     height: 676
     title: "2020 Supply Chain Technology Trends: Where Do Young Technologies Fit On A Maturity Curve?"
 
-secured: "HpcsiPyjRzPEe155Ib/76Dhrf/yDdigClndYx+2EB600IKkRNnI6sCB3bzJiBi1nBh4e8cKGYB0J9CVVX2SNjxGc4NduSqAQ9W1A3YuH6FM6NpxfmrUP13DYisDfP4SGVbCq93NyMBoJGtt/JTpOpPxgiUwN8u58fprwVqZ3KJHEyvD29NYsbRFRN+HNzOPe9tq0sA41B/FU0AAr/bV96qp0Vd4YkgHJA1WnOuxFegiy1Q//bzX8hZ+RR+6Nx8YszO5F+qaBQRhBXheVMtkJlH+DwwzYf1Rvg8+iaufkirI=;ZcuE3VoCXiNeCm5NlVs7Wg=="
+secured: "vYNiI0LgJBjd1mNyXVPPMaMuc2E8yC4cwOQVOCMb812LD3G9xlzE0TOt0evMbetEKH4IArAj6blSmsqvBfBzim67RbWMBASlPhpDKBdXvVpI7lskaJWT/V8DmIXrTHuCFy4m40FY0S2aid7VXml/f5cNqTbjVDr41njq8O/N0uFZ/sk+EyjIZnjdIvnIQP0sTZgbMimh8t6HC2yxVqVnbt7NejJBXUcM3a2QB7scIoe4JlRbbmg1IuotSJ0/MTZyoZoyi14GcuNsdQ7nCiV0H0MOy1mLcwLC+RnYw7f/KMIlQL7fcWJ1k+Iuj0b5baQwiz5bB5+wFSZMk9YjkXTrK/Xnhig6Kn1LlR7FizjDdvMmqkDJJrfqM2+YmuhtOBbh0KdVqY5MGASBG7rusMt0kCzk7ndhVGMjpKtphE8SZtqzeRYyTmwblfqoTXtcWoer3H1rzurOdSor+pJUytWApg==;FG+0VqAfqDrmuDvrti3Q5w=="
 ---
 

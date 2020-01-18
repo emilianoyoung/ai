@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
-excerpt: "LAS VEGAS, Jan. 8, 2020 /PRNewswire/ -- Sogou Inc. (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, brings its latest AI-powered products and services to the Consumer Electronics Show (CES) 2020 in Las Vegas,"
-publishedDateTime: 2020-01-08T05:05:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15109988/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020
-ampUrl: https://amp.benzinga.com/amp/content/15109988
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15109988
+excerpt: "/PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, brings its"
+publishedDateTime: 2020-01-08T05:04:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020-300985487.html
 type: article
-quality: 58
-heat: 78
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://mma.prnewswire.com/media/1075574/AI_Vocational.jpg
-    width: 323
-    height: 400
+  - url: https://mma.prnewswire.com/media/1075574/AI_Vocational.jpg?p=facebook
+    width: 5128
+    height: 2684
     title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
 
 related:
@@ -39,16 +37,7 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
-    excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
-    publishedDateTime: 2020-01-06T13:46:00Z
-    sourceUrl: https://www.design-reuse.com/news/47338/zglue-chipbuilder-pro-iot-ai.html
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
 
-secured: "6Tp60MxV31Dw5QSiYT5M/OcF7rNrUVhOPNxkZedk1ZPp++JtyxvpijXmNBiFMfeX0ydbEI7QxvJkpId3x7AMd25tBJGZF0Hr9pxSSAUiN3XGQsquTNfb4CGIripEpQ995KzmaslcjBSRuFMjaLxPTCQXXhvorEvrjPsEtr0B/x+pP5A1Aeme5gHKUPhDL8/MrMvVs0y+4KnylwjkByPrBmYzm4BlRnWOP2Ir+dTDRt/vXludHvP3KZ6D5nHDjfwin0tx5oTtGzQfbX5saWg+AlnC+RNx/84tOlVOiFhM4RuOTgVSRN8zJwEZuDVs+koxSsNgUEkoFnbXz9MuovLYpMO0zUKfDHzkogp948nLwTT/Zh3eCg4pA3Ll6ri+NBroAMa4355o3/7aHr7uidPFwGQ8CPGJOo8PZ34SZ/RZZPLjVWiOuGI14SSHqHQKoNafdiOHaSYtuDtKv4DFT089Dg==;vbJuw0P84+DKfz1OHI1vmw=="
+secured: "4QcCQB1dbhr2R0qvKqZwfHBzzbza6rVjDXs76Ptg3PSgoOh/XSAB9X5hafb8gdB2EsvR0BSFrtIA9dKATo+oxY9m/b/2+6qFdNfZBG+bLZIuZDZNSXtXDo1H//8lIqMfmjS0n0xKfmfG92xKE/IPojNsN3o1jwzsRA+ik5sJqYALYXqYUcDIIXGbbRcA5t31QhguR3Y0dEr49pQ7lfwLz5/DXoRckgdDhB5RktRr4k3I/vNgRzZ4lg7bXafwpPPMAJJ4PKWHdHgTEORsaIOUsCo9AWoKJTaz8TuAq+GWyA8=;C3bno4kk1BsB25TSMwbmkw=="
 ---
 
