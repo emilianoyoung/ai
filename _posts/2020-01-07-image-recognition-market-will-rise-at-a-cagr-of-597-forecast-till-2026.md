@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
+    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
+    publishedDateTime: 2020-01-18T04:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
     excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
     publishedDateTime: 2020-01-08T11:48:00Z

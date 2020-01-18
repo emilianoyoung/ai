@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-11T09:48:00Z
 sourceUrl: https://www.marketwatch.com/press-release/know-which-speech-recognition-market-segments-may-suffer-as-consumer-confidence-takes-a-hit-2020-01-11
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
 
 related:
+  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
+    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
+    publishedDateTime: 2020-01-18T04:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period,2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-01-07T05:52:00Z

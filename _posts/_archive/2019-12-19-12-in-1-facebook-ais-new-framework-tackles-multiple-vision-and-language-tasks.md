@@ -27,6 +27,6 @@ images:
     height: 419
     title: "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks"
 
-secured: "kV8NlSJN2tPhl+8WmZvC2QViHS23N7WAD9VzPWXhpbOMu3APe9l/NbVzV6G10b9pAxMqPm/EUG2SFKpBKLqywjMdu0dFINcZizh5VHGV2EYdUmmKpk+UYPjueBMRUvrgMvRW4qUTAuJZvjDkzXDYagYZDVsUenocaTPLRF1Ob1RQJrzXhJv+tPfQsHmpW6Py7mOaSa6I6lgNAeUK9fiHMTZZ921xtDSKJFy1MP4rnICASmehWSbgL3Ass3xhgfXPlFEAGPbpYUtlkfgMEkk9rxOT5975M1bgZwWK34Yb4UA=;fQjVP+g8eml2Dt8JK8kmqQ=="
+secured: "ow/71EkDztyGA/p365JBj4vCxvvJHHLyCwvfTdkQj5B11LYYV/NvkdkwlXN/iYOv+kaRprghu0npHlCeoTxbYqZhKUUmBnWbovlJJ5ip75JjgwcToaygMr9N7qUWwp5lBHrhuyJOHihRbB0k3bWXwmySCTJK4LPzThx9iHMKwVCYi17gGQw4lHHUW7VxKCtsKNoNL5ZeV4e3/UohHbhMc3HmhBq0lnZCwWw2gBkKWt7o5DavkQxp3HkJT4tB+v3tp9YcCWNOLE9N9EPzEwxt5GPkVB6cuId5mo8Bv50rIQE=;eYHkjjuTN1WdkbAgv0cB9Q=="
 ---
 

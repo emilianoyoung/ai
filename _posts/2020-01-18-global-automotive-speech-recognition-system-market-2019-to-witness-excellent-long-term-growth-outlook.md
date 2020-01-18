@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
-excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
-publishedDateTime: 2020-01-05T23:14:00Z
-sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-image-and-facial-recognition-markets
+title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
+excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
+publishedDateTime: 2020-01-18T04:59:00Z
+sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
 type: article
-quality: 21
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Computer Vision
+  - Natural Language Processing
 
 images:
-  - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
-    width: 877
-    height: 432
-    title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
 
 related:
   - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
@@ -33,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
-    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
-    publishedDateTime: 2020-01-18T04:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -89,6 +80,19 @@ related:
       - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png
         width: 620
         height: 500
+  - title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
+    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
+    publishedDateTime: 2020-01-05T23:14:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-image-and-facial-recognition-markets
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
+        width: 877
+        height: 432
   - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
     excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive the market growth. Other factors, such as increasing adoption of advanced technologies ..."
     publishedDateTime: 2020-01-09T10:10:00Z
@@ -103,6 +107,6 @@ related:
         width: 252
         height: 335
 
-secured: "YNSH9k3LgSd3PpkGsPy5mkQSwwJlULZ9eenMBz+wFJPDJYNjcZl8r6JzUMr5MdJXcsorfcxLMrd4NvEEoHCERhCTCKd0SrifCMTvw7BlDrINKlcMWRv72onGlbNraBzbJ+gcG/QQYqX86LzOAc2qKRORJaNpUxamR1bMscqs6D8rSy8zUu4zaMkNRVo4JgxwnA2MDeAMQt1Y9XdKmFqR55MNC/qqcOPDmj75wwFsfNaphZ7FDgAzNMO+Kbg1X9Nxn623vS2uFsvogWDsUrHNjQ1rVeoM8XRcFfTxqdkYKhBsy2ii6WLChkst9HCzxPhNwPZj/a8jbMojFc/J/6Dlw3pGI/Otro8IQySmxBzmkt3L1iPj1KtG5AqEnvF4HFbVgFUXvQuWFiXxP9Ay/op2yVIBaKvGcaFnKMPLBqKUcUqvDj3VnsWPggQlD1X9D65rEcNDcIbDTDaQunxmM/M7fw==;IP7geEafx4mOdpriMXa6VQ=="
+secured: "G/65tHHUlbQem+DCmk3Chi8WPU+tk4pSCLyk29zaRpoiG+3fD6JU3O4qILsNztgKAP6UAUzwxBSueNTpSAqurZFNv2jyQxhguU1h/ffYi7YuSNMBhoPOWbXodlmo/90hn9Md5XXrMTHvyKJOWpOPh6zugyk9HnCqEexU4WXh8yplZpsTJTRLT2hbtYIkXhMBFw523iLEyvoL5swe0UmFPAB9pEW5fIE+RE5B1sUmM3tyrjL47yzRk2cBb8DUzNmWHmkm1Bxk3p/IJK+8KUXcBh3yeQV7uqTW4t0euX1BuzQ=;LDkyHkumeFeSy1deQ1MIkQ=="
 ---
 

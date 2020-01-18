@@ -23,6 +23,6 @@ images:
     height: 347
     title: "Toyota to roll out driverless tech in taxis and vans before cars"
 
-secured: "wIxV2Ugi4H3bfsTUxC6U36ZB5i+1cBnCx/G426uya55JLoZZGjrevyje34rcxfloU3UWORtwSookancFnBLG7OCAwTKLbmXWpa8OeWCTf8Mi7nrsp973u7JtEB3nYNoKKyhmRduZ6+27ZA4cQdRbLjVIO+Abmh0XDKlk2TRQgQ6vg03DezVOQicfAeju3mpbIZNnR1HpWYC6yfBRWCuZFt/zf7JwVkQI5RpFrA8bqor4ulRnk9XSoSSyBHbSmkI0aouxcEjgvFY/a7XsjlTVmVrmmnvxN29EdiC66RlFj20=;iA6ohkAxTxAh3JbvY2dphg=="
+secured: "12dXYmUL23hDLkQdv1DE7loQ8gSNuAiiQp/jBqqlPqH7hJmN/0mQ8LYctCZ5P21KZncsOEw+mEFCNKsocg6G9zjp240z+rQDeE7Q+NpMPN2FcTYeOmaoYPzJV5+779G0Ve0TeEwKT2Ar2EzOH/YzX58/+SCB5Hil9gB+fE3agMpGSyDpHL19AB57IfwRbLO+kN8fG/aY8dTJxlPRg8w9rfmWn3vUD6c9CZGXBZUb6ieQhTiX5eDAkC5WqqRPxieLnTX8mDnNjh4c6NS5E6gSjQe1SDy8SHENJmG1w9GnOXI=;WcVejogvGpMIxaVHMRrlSg=="
 ---
 

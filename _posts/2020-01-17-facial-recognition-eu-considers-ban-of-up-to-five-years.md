@@ -2,18 +2,22 @@
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
 excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T13:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
+publishedDateTime: 2020-01-17T12:08:00Z
+sourceUrl: https://www.bbc.com/news/technology-51148501
+ampUrl: https://www.bbc.com/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -593,6 +597,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "ZHL2nj4KzlcI9fXbKAlJhdHKyI31ZHDwk6XPHYyhyaV7EDo/91TeVrh3uOhSk4habmtNr+k/fQaVevXXPvjY19ZVtsYAWOWLvOutK92gg1XXjEDk2Y8GUEQeUylzHW/M9hUzPk/SsQK5h1GoHT0XLCxC2X6GyVFeQczpvkb0HLQ31oY6Da8yAMjUP1OedptnrWw7af2P2wEhiWr3PYBuwE3zrzN6ljhpPkraYGWf0AS1enU/xN2TR2QbvQy520UwtOLjEj6v+wM5HC5AfCokObKlSeN8VcE+Wqgo7JvZrj1XPfUd+q6EfBVTFDyoTyFxXb27BFx9+KNvlVeLBlKpfLUsQ9HST5G3CrFxvxY1MSFyHG2Y+5dzvMxMYleW78d4ddQVrQNcHng4hxS0rfF5dtPdMQQsYf/XzQPkXtIcbeGTggnGfxvU7R0KmDqOAnXrZsn7dSy9Eo6mtD2YA6Iopg==;unayvArMj9o1Zz4BOmXMtg=="
+secured: "/QuCxizX7ZXGgJ0qTNMdVaYRApFHf7dePlB6Qw63F/bB6Iz0PLIAxJZq0CuPVpb6gNEW4AI1+GzZRTgorOG/iaecOFfuguAnlU/NgBY92sXYVPzG4YWT+JCjwiDeZ1SRQw9Pgtn99KP4utGd26LcHs2qW+oIue1y/1SUmUs4W1xbWims3x2BpClF9YIYq0Yj/V94wPxEogegnHxFpKOIccXvRAPMuxhHUZuCePQFi6f7SRPuVdnx2qAS7CwIqRjWPj4HlJZgolNOC9uxszmv9reKtA7nSmYSJr0eqCIIrrA=;czNsrSjdlI0pLUN9jmqfVQ=="
 ---
 
