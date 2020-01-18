@@ -129,6 +129,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all
         width: 1200
         height: 601
+  - title: "Facial recognition: EU considers ban of up to five years"
+    excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
+    publishedDateTime: 2020-01-17T12:08:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51148501
+    ampUrl: https://www.bbc.com/news/amp/technology-51148501
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
+        width: 1024
+        height: 576
   - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
     excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
     publishedDateTime: 2020-01-16T00:34:00Z
@@ -144,6 +159,21 @@ related:
       - url: https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg
         width: 756
         height: 567
+  - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
+    excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
+    publishedDateTime: 2020-01-18T21:39:00Z
+    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt/
+    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-nyt.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F18%252F70%252F2b1b4ace8b224d6384a8c1f7260572fc.e70ff.jpg%252F1200x630.jpg?signature=aZyPGadLiymI3dJjpvv7OE2nG20=
+        width: 1200
+        height: 630
   - title: "The benefits of facial recognition AI are being wildly overstated"
     excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
     publishedDateTime: 2020-01-13T20:44:00Z
@@ -271,21 +301,6 @@ related:
       - url: https://e3.365dm.com/19/07/1600x900/skynews-facial-recognition_4709130.jpg?20190703181850
         width: 1600
         height: 900
-  - title: "Facial recognition: EU considers ban of up to five years"
-    excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-    publishedDateTime: 2020-01-17T13:46:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
-        width: 1024
-        height: 576
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-18T01:29:00Z
 sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/designer-accessibility
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 400
     height: 400
     title: "Use a keyboard to use Azure Machine Learning designer (preview)"
+
+related:
+  - title: "Import your data into Azure Machine Learning designer (preview)"
+    excerpt: "There are two ways you can import data into the designer: You can register existing datasets programatically with the SDK or visually in Azure Machine Learning studio. You can also register the output for any designer module as a dataset. Select the module that outputs the data you want to register. Your registered datasets can be found in the ..."
+    publishedDateTime: 2020-01-18T22:47:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-designer-import-data
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
 
 secured: "pUXwyiWWMQlKEbMhpeglOLYhgfvojVR9sfvbVO2s4fZYQICdeDojW7r4O+ITm/qDKL9TvK6UWjseF9txZ0dvV3GV+99AwvGIOkRfsyU1MBb8m8nE7T+Kc9CKlsUevzzTT+b1mS83wgaHK1sA52rnL4VVR1Pxv/ROB/lcNV0JL87seFJiXXj9kBqREkH/fkmmiuq8ZE/R7WQEMH70+dAShiu5jRrKGw32aO5wS6IUojF2Qvq3MUd7hh+gqAC3uv9xOkAQIwcc9uV9aQHs/7pXAURXoXHgDi4TR6MgdCx/Nsg=;cKrgJwrD1y23JTcsuATtHQ=="
 ---

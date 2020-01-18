@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://tr2.cbsistatic.com/hub/i/r/2019/09/25/ad9f6a19-686a-4383-b9e0-4d5cca38d599/resize/1200x/ee305c191ab3d54326490b6d17feb414/istock-512454930industrycloud4.jpg
         width: 1200
         height: 799
+  - title: "The Most In-Demand Hard and Soft Skills of 2020"
+    excerpt: "Soft skills are more about behavior and thinking, personal traits and cognitive skills. They’re typically more difficult to measure ... Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use. So, recruiters should start becoming familiar with ..."
+    publishedDateTime: 2020-01-12T18:44:00Z
+    sourceUrl: https://business.linkedin.com/talent-solutions/blog/trends-and-research/2020/most-in-demand-hard-and-soft-skills
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: https://business.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2020/01/in-demand-soft-and-hard-skills.jpg
+        width: 1620
+        height: 1000
 
 secured: "hvdbSbjZh+m8C4YEh3eBla07i11K2EAjkgXzUnJ2PYjRNUra9CpY/5QZSjYcbwU+h0hyeB1RRYCzQOQH6D1x7dKa3NZF53vQvtwxCboXAsAFoXfKvnjj60aR+DS+xV9Zsgg03tLKL/oZI4bYGZcQwsWj2MSa1FZkWAmb9E6SYYOoWhN5S63MIO25kFbaJkbQOOja2AXc1E7Yf9oBWS7+dupp2L0J/enhKsG1KAdg6Fi5qBrku1HZT3aVtL2wCA9E8p+rFATlY1IsqforxqZIJAieexPDAerXRj0vKnkExwOP2QSF3Ol0OIOWCsP+3AyZxQdNncMsG+wsWHCw4mfFT/+XZqUlPmm3ccHX8p4pL/vRE+in2UJw6bLGDz8/cBBy+gESqvbgPusfnOg0Br87zD1q+EmNbCRCdTyC3h9gklkZ57EcCSBosTNFJTYZjiotxN2aE/wl9NbIhQ8us9BD8w==;O1wIXlhN0klbrK7NUth3lQ=="
 ---

@@ -55,6 +55,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI and machine learning topics of lecture at NU-Q"
+    excerpt: "Artificial intelligence continues to reshape all aspects of everyday life. From driverless cars and supermarkets with no cashiers to factory automation and e-learning, the rollout of machine-driven data and automated processes are redefining how the world operates, especially across the media industry. Senior explained that machine learning is ..."
+    publishedDateTime: 2020-01-18T22:31:00Z
+    sourceUrl: https://www.gulf-times.com/story/653656/AI-and-machine-learning-topics-of-lecture-at-NU-Q
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 56
+    images:
+      - url: https://img.gulf-times.com/Content/Upload/Slider/120201913050956207162.jpg
+        width: 620
+        height: 355
 
 secured: "WB3uYz80cgYIKVGUcJy1YAGr1lZJXsthAUBfFWQSRAhdkJXSfBELDKWgsgigHMITUv6mcRhvfdYo7ywyCePaJePKq5dklHTwU0X63ZRPo/YgqewTn+ZUM/Y5oeBqBMJOyFK+VbjyOfI8DGCp+bL/m2dCb/Rlvj/p5VBJ7wUzuH1Lhh0184ulSWlUhUf62Da57a9EYwaM/RQj2ivAh+h3xxF879vfCec+yvWLJblQ77BZLgHB2sa0o4esHznr5Ylb1Y6bNxN6IxgeIDfNh1Q0U7n5p/xSKVtqTpAIdPmZDUI=;ndWC1kAGb0sTpLSv6xFiAw=="
 ---

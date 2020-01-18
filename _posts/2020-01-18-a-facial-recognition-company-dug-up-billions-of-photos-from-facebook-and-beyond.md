@@ -1,27 +1,29 @@
 ---
 category: news
-title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
-excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
-publishedDateTime: 2020-01-17T00:32:00Z
-sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
+title: "A facial recognition company dug up billions of photos from Facebook and beyond"
+excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
+publishedDateTime: 2020-01-18T21:39:00Z
+sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt/
+ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt.amp
+cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-nyt.amp
 type: article
-quality: 31
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
-    width: 304
-    height: 430
-    title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
+  - url: https://mondrian.mashable.com/2020%252F01%252F18%252F70%252F2b1b4ace8b224d6384a8c1f7260572fc.e70ff.jpg%252F1200x630.jpg?signature=aZyPGadLiymI3dJjpvv7OE2nG20=
+    width: 1200
+    height: 630
+    title: "A facial recognition company dug up billions of photos from Facebook and beyond"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -157,21 +159,6 @@ related:
       - url: https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg
         width: 756
         height: 567
-  - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
-    excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
-    publishedDateTime: 2020-01-18T21:39:00Z
-    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt/
-    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-nyt.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 85
-    images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F18%252F70%252F2b1b4ace8b224d6384a8c1f7260572fc.e70ff.jpg%252F1200x630.jpg?signature=aZyPGadLiymI3dJjpvv7OE2nG20=
-        width: 1200
-        height: 630
   - title: "The benefits of facial recognition AI are being wildly overstated"
     excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
     publishedDateTime: 2020-01-13T20:44:00Z
@@ -539,6 +526,19 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
         width: 2176
         height: 1578
+  - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
+    excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
+    publishedDateTime: 2020-01-17T00:32:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/17/vivotek-cyberlink/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
   - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
     excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
     publishedDateTime: 2020-01-17T22:05:00Z
@@ -636,6 +636,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "kpG2iONXi6iQnUPBS8SWhh1o8C111GVb3xYIGYnqp4sAKM6qyaZdAan6x8d+vjPZjBtme3fwcyxRVLIPZAJqt1kgpZ6Y5Brf7SDdayQVu3hRH/UMrOuR4Y7Qm9wqFbTIsLX4GGLDYLJiRQozvygtZ3pApvnBdrKJfiSom4rFv4E18PehhCDjTFfGmaX5O4w1HhOSfI21FsHGXHrDyHk+pxrdnDqzPFQeeC0U7Q7Di0kIrCp5QdrVY9nneIXLgJGYpbLTwSSadWa4jvmGtA7gUq7mFKnOpciKdALIotPlTO7A+9vJEfvQg7Fn41TocRYz5hbqRVyjYnUOtUz+dgCNGN89L4U6P9Ba/nYN+9xnZtPMXxwZqyc8Ds4+7Xta2ETwEYNyJVIbR9zLXv3X6d8kbmHtJDfkbHGlXRkMTi5KqJmxOkPP9WI38pqnGjd4VKHfVc/Tg5cXZtg8UXmweBwl9g==;2Ff6dMkHCcS457bOehr/jg=="
+secured: "jcinx02GSELtH4W4AF4z/b7CBsWcP7tU4cXdzTrqPuGzkfOLsKiv8fecOavVSWEVpUsz+SO9ucOWlyrL5J3yRcnoJsvHGZb4ZUkxx9sbzzk790NNtytk78BkkKG9bruRjD/un43XnK/HWJOudAayd3jrSOw0L7yZx4v3ZkUv0XjICZWbUct0JNUEfdIVE7DeC1z8etttGI3x2Qum8ea2Hd6ImPFg2rEH8Qd5y7TqnfnEXmFZR641k0/H86r5OfJ4KPbr24ZD4SMYEmZncFUTTqAp49FTsItxlnRBhprEf2o=;80B6swl5TdfHBpfqq3WOzg=="
 ---
 

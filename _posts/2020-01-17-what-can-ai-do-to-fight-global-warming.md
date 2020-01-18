@@ -26,6 +26,6 @@ images:
     height: 578
     title: "What can AI do to fight global warming?"
 
-secured: "LOtJ40ZrGL/ft5HjcFGoDCb4ZMTUdmiJ7GXzBXHRxz75M+mJf7q3CsBEK/wJEcVHzNkw7dAioURKqZ0T9NAxoMaN/3y6hUe76NpJK5CXwE1uDCN2Zq6xRCcJozwPPIxW4Pm23DsreVdZ/8OMBxTr40BJnR+BwMRz1RXtxVPjc5caMnMyVIqz7TyHyXlxRfi6luzCNHG+j9OGz+GOKkUdueHavsQuuC7S91H2p2U5sMy210QqG0jTFIx4BmOlhggfwyujABwdE+z/NZpLgrXFaB2+46KFAH/1i+ZwAYPVvxg=;HswvPwAE7VTf/zzy7ogFTA=="
+secured: "3cU0ilA0l2E1V1RFOEdfgB4w/5TuXuMvB2Ba9sYdV0Lhlk6raUNRWiXFC5B+oGu64f/umrEycDRykbypvI+/9wY8ciyRkqZyC0iSLiMIbFm4A+z5cID0AyVjAUTa0WYpfd0bnydYWtmB2xgKmU4WqUbWzdqZBEkWQodvYbgogiPDZB37HEfajIdzBmzQaJiD8tqc1hg13Or7N0VafKf0Ng0ihmD7hUv2A4oNUAJTClA984o9qq39IPnAUz1wqTnukVDBvvLSZT5M0dhMp6MV2Q6XhDbVSdIb8ZVT0VUlNAcx2XPsu2ZL25Q5XET77+Vw7x6sP2JWaJ88cxeyr4waBKvlvlnkCycNhYyBEONPQTkKqb6Ei+lNDkeypRNc2N+NEgnduMEM992mzLntwVT21oWWJgxkYBCXDxFUWbOWtTrGgUthjLlpK+JAHH8npNggYmmt66KdSCx/Av9r6DticA==;/daOrZxV/XeKEp7384rM0g=="
 ---
 

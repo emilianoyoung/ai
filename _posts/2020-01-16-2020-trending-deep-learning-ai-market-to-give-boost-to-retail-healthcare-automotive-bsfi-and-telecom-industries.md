@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T04:57:00Z
 sourceUrl: https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -55,6 +55,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI and machine learning topics of lecture at NU-Q"
+    excerpt: "Artificial intelligence continues to reshape all aspects of everyday life. From driverless cars and supermarkets with no cashiers to factory automation and e-learning, the rollout of machine-driven data and automated processes are redefining how the world operates, especially across the media industry. Senior explained that machine learning is ..."
+    publishedDateTime: 2020-01-18T22:31:00Z
+    sourceUrl: https://www.gulf-times.com/story/653656/AI-and-machine-learning-topics-of-lecture-at-NU-Q
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 56
+    images:
+      - url: https://img.gulf-times.com/Content/Upload/Slider/120201913050956207162.jpg
+        width: 620
+        height: 355
 
 secured: "1eKO7nGEQjAJc9RUPAg4FpqgPaDxKn7igMK75vF303/7HF4GFacx3PR3C3YYvthJgmE3Y3Y53o87vFEeEJC9yaNrflpJOUTzoxkCK+nduUo5UOZZFNGA9MpOz3yff+MBzD8HeNruV3mmzILID7PAWI+nurbk/MUPCw+zYz60WTAzJ30uEiCyiV8jAwNHBHxfhurnsKUsc4xwkpyrHCoL5tx7OBRNoPl+7Vv5VTZwqyhMaZ3QDynB/Z2uGGBqd70apVsGHjah4+PfagHz7tcuaInJeL8+/JwOSJlJUYUQh2s=;OFoCHEQZ+P9TO16WO013iQ=="
 ---

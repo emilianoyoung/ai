@@ -2,18 +2,22 @@
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
 excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T13:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
+publishedDateTime: 2020-01-17T12:08:00Z
+sourceUrl: https://www.bbc.com/news/technology-51148501
+ampUrl: https://www.bbc.com/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -144,6 +148,21 @@ related:
       - url: https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg
         width: 756
         height: 567
+  - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
+    excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
+    publishedDateTime: 2020-01-18T21:39:00Z
+    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt/
+    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-nyt.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F18%252F70%252F2b1b4ace8b224d6384a8c1f7260572fc.e70ff.jpg%252F1200x630.jpg?signature=aZyPGadLiymI3dJjpvv7OE2nG20=
+        width: 1200
+        height: 630
   - title: "The benefits of facial recognition AI are being wildly overstated"
     excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
     publishedDateTime: 2020-01-13T20:44:00Z
@@ -621,6 +640,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "+BxpXf/f9oy62UfVFPWHX4RLLs9USeF2IjWdpHTmUHYFoIJDzPUL7eijdGlF7qnTUZ6shXh85ly3plUSygGAaZKS4eqgSe4vPEqMqe2JkwXEACgg88TwOc9nsiKClPfjEPm5N/fkp0vF83Xt1Gt78MOWdE7pneTs/8EmvKbmx4/cHYJ1DNFW9akeyX7ewYx0BQ7I4BZJp2Eb8B4Y/L3sQygGvhQDIW+PVdgPGRM7QUL42DmZx+4DZ+4GmFQqgykX98WeWSopju5lK//iH8V3gKbGXJofsb0nntQaSqVr/JaxDHyuRn2GMunzlwuntrOZX4jz3iZxjRiTtnNmOIpdZAw0EjDSqaWdfWBlxpUaYWg6mvbD2TmnN6uXEDTMKGCG1MA6d7RKfGVY8amOwmskpUgJ2Id3oO//GXUkev/RgiSoqR9K9tCzbsnwmxsTGzczPwQf32XMOmfL1pvTNyINAQ==;bhtvH/+gzJQxOnT6K+C/uw=="
+secured: "9LSueDAjkJExyo0TAlXo+PhPC8m3RIL6LoIkqPGVpwj7fU5JIuqZg2Kcn1I/EQDg03g6HXNn0FMj3GXqHAodTALviuEmtAz+iBkYxvLB52pZ9u+nzro2lWWzdesEfhqw8Mu6F/i5mFlk6XrJyW6PnFGJ3p7B8V4LtI4v3sqJtnkFNBbkx/AB8tEzZind5umBa90WLM+wD83XAy2i5IYf1oKWpnAjy7rXdtnY2EKb1jZ4ad+NRZuB3JKwpLiDLYdQ2nRTJrNV1sbLH8s08ywqmRzmhmhGK++rMatvpFT193M=;44IN8Q5oEK1ThVryi4kGyQ=="
 ---
 
