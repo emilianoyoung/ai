@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
-excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search historical footage and surface ..."
-publishedDateTime: 2020-01-13T15:17:00Z
-sourceUrl: https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513
+title: "Bundesliga plans to “revolutionise football viewing”"
+excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search ..."
+publishedDateTime: 2020-01-18T05:48:00Z
+sourceUrl: https://gadget.co.za/bundesliga-plans-to-revolutionise-football-viewing/
 type: article
-quality: 14
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: gadget.co.za
+  domain: gadget.co.za
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://gadget.co.za/wp-content/uploads/2020/01/3922455488_3413e0bd67_b-1000x600.jpg
+    width: 1000
+    height: 600
+    title: "Bundesliga plans to “revolutionise football viewing”"
 
 related:
   - title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
@@ -46,20 +52,16 @@ related:
       - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
         width: 600
         height: 378
-  - title: "Bundesliga plans to “revolutionise football viewing”"
-    excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search ..."
-    publishedDateTime: 2020-01-18T05:48:00Z
-    sourceUrl: https://gadget.co.za/bundesliga-plans-to-revolutionise-football-viewing/
+  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
+    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search historical footage and surface ..."
+    publishedDateTime: 2020-01-13T15:17:00Z
+    sourceUrl: https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: https://gadget.co.za/wp-content/uploads/2020/01/3922455488_3413e0bd67_b-1000x600.jpg
-        width: 1000
-        height: 600
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 14
 
-secured: "dDzp9DKH7HU6+2bBEbaKZG4JyDlc4NoHIt3KcbSDvtgtBjq0X7JNYnu9LPUo31hNUJrdPX+AK3h9IVKgyV64vDzg1fvohqMLFyx7vfvho9ASX0SHJ0y+eGzZJOZBol1/SCC0Z4E6W65/sLGoGe5ngx+AFbIKsXKZBbDnDQFcHe0kDaVvejhEha4wrCpJqnxAL/zcCVK5jqZVaXkjMVOFNOIgBHAjO3F7Aisdf6koSZ4QUABVCBZlWzZodRK+LPjSxunhccijUWvQOmUucgfvUcx0n6eKxHwDgbg3EB6gE1I=;nWRXyesGW93WIxa4JSYQZA=="
+secured: "3VXNVNj2R8jHUV8SHGD0QzOrqr3mXm7vWnIhq8/Yu+bX0nK+yGvxWbLdw1xnIKWZUFCDY0NlQfbiPvD9dAKof1JTXl1kgn13Qd5Ep9wOvxpKPev1A8wk6vLlL7r8/4mkBHFJmF+aJU+UxvsHGpgTd+3FX5yHus2IDkc9Zcls+AC2mWM6/aSXVAc9MQliblt2D6s7btcWITW8taBiL5GfVUuAu66gk7X+3j4hKAPmGY2aj3F3maW2n9Whc7/hcbDAYbGONInTJdRYYK4mKaShiaX4wRCW/JjZyMyocFj3gXk=;I7H+Nudko9rssqN0Z5b8Mg=="
 ---
 

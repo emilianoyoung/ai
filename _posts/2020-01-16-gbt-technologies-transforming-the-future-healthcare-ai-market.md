@@ -35,6 +35,21 @@ related:
       - url: https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg
         width: 679
         height: 365
+  - title: "Four Ways Artificial Intelligence is Transforming Real Estate"
+    excerpt: "It's not uncommon to use tech when buying or selling real estate, but according to many A.I. developers, we've only just scratched the surface. Paul Armstrong, CEO of Here|Forth, explains how A.I. will make buying and selling real estate smoother than ever before."
+    publishedDateTime: 2020-01-18T05:01:00Z
+    sourceUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate
+    ampUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
+    cdnAmpUrl: https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 57
+    images:
+      - url: https://img.chdrstatic.com/media/2aabb234-2cad-425a-977d-f728807e2ed5.PNG?width=400
+        width: 400
+        height: 237
   - title: "The age of artificial humans is here"
     excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
     publishedDateTime: 2020-01-16T15:57:00Z

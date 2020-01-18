@@ -23,6 +23,6 @@ images:
     height: 372
     title: "Houston Astros Playbook Now Includes Major Lessons on Ethics and Corporate Governance"
 
-secured: "C5cKY2F1X6n8oiacyI8ERq8I9rcFAut5K+ipV6mSMEtYnQHck2eqFYvsF5uVuJ2ln+ZCnbicG4ky0wG1DzDX7yEBhDDEBJyiIQHKjH8iGtUofCs8Uq2NYB/SvFP+/HUpDKwPaTlvr+xWn7QDxrqEGLmSVeHpFVLsWJ3QX6kdMn6B9s9oFWs2+wUveXXmrMi+lOSxxGs0Kmp7jKckQo7IUXvlwRYbLeJOxxK7T30IjJf6YbvuDeG9v0Re9sgYioz26Ng0K41g1VWES30fIAX7zbMkOjAOwokzvNZoAByDGE0=;PUnoxBiM7IC+WBrGh/RguQ=="
+secured: "kjWD1BJlmUd//lK629GL53kkeHzhxqFR8tynS1JBwZnXlBp1cWw6+6atC/N0B4/u6IY2EpPJYU/zBRdHCRr/3XCnhJ3XQ04AEM8dyskrBBtIdoZ6Q041Qvp0TR+2RrduY0PIf9iZVO0pTzlD34fwjTkTVd8RuNhb9wAgnOmGIDVrzPfcDss5KE75oihpwr/yykaPDHmUQgi4eoGHWS4mxdGAaseV/xCOVYJzU6i2+d47elpZ7AYfFjGxVSC2mDUFl5pf/0RPGfnVqXLt5QsA9UuNyUr7aDced8lNOVcp7LLYvD6JXZr7VTO6rkM1RyNc7YyK/5f23sDkT0cJSdkCCoVXnvGEqPErZ/3wv9rx5PywRqtZb/8Z/2zjVT07niNPqxElDY6SDx8kKm7kxnA1YSKZndvQp0/1rgnp6l/HcpgkgUsYa6o+6hsJXKgNLoeSlpLH08dhD8uKRmT18dG5PA==;FbZ0erx/F6+OW2rMxrh7hA=="
 ---
 

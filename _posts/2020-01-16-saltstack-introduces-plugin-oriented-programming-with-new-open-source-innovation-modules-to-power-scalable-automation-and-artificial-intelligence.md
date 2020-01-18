@@ -36,6 +36,17 @@ related:
       - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
         width: 1127
         height: 1057
+  - title: "Is Artificial Intelligence the key to unlock the limitless possibilities in Healthcare?"
+    excerpt: "Artificial Intelligence and Machine Learning are taking the major scoop of technological development and leading the digital transformation era. While entering the new decade with digital transformation, industries like Manufacturing, Banking, Automotive and Healthcare etc. are transformed in a manner that, there are certain tasks on which ..."
+    publishedDateTime: 2020-01-17T08:20:00Z
+    sourceUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/
+    ampUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
+    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 46
 
 secured: "hH7z/wAlyIvqOQ67Gk9TODsbU3jylwWY+Kn5MUM5V5iuCVMTnoykE1sBVtwbkMhORVRJ8s9kGJRV9g0LC3zMXwi/MBHWnhJsiXQZH8UqmxMwj3CWaOqkYsZUzDktj+Zd+Ru06IJecLJB48iy5jsonDRwpFSLLfeiNiBi4d5krimvVw0282fgchykqzx1VsTewEZalQc/Hbhd4ncNSTg3oimcpfCwVXshQVLI51FfbNuAsdvI2gtAnF8Fzv0oh0zyCjqkiFur90nWelmLw7vMUnUntS73Wi0yndy8cJzbTVg=;bHJK/H8MREZryP8G3fx4tA=="
 ---

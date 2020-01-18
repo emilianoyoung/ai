@@ -1,27 +1,28 @@
 ---
 category: news
-title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
-excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
-publishedDateTime: 2020-01-16T14:33:00Z
-sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01161Healthcare-AI.asp
+title: "Four Ways Artificial Intelligence is Transforming Real Estate"
+excerpt: "It's not uncommon to use tech when buying or selling real estate, but according to many A.I. developers, we've only just scratched the surface. Paul Armstrong, CEO of Here|Forth, explains how A.I. will make buying and selling real estate smoother than ever before."
+publishedDateTime: 2020-01-18T05:01:00Z
+sourceUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate
+ampUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
+cdnAmpUrl: https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
 type: article
-quality: 43
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Investor ideas
-  domain: investorideas.com
+  name: Cheddar
+  domain: cheddar.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
-    width: 649
-    height: 328
-    title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
+  - url: https://img.chdrstatic.com/media/2aabb234-2cad-425a-977d-f728807e2ed5.PNG?width=400
+    width: 400
+    height: 237
+    title: "Four Ways Artificial Intelligence is Transforming Real Estate"
 
 related:
   - title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
@@ -39,21 +40,6 @@ related:
       - url: https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg
         width: 679
         height: 365
-  - title: "Four Ways Artificial Intelligence is Transforming Real Estate"
-    excerpt: "It's not uncommon to use tech when buying or selling real estate, but according to many A.I. developers, we've only just scratched the surface. Paul Armstrong, CEO of Here|Forth, explains how A.I. will make buying and selling real estate smoother than ever before."
-    publishedDateTime: 2020-01-18T05:01:00Z
-    sourceUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate
-    ampUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
-    cdnAmpUrl: https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 57
-    images:
-      - url: https://img.chdrstatic.com/media/2aabb234-2cad-425a-977d-f728807e2ed5.PNG?width=400
-        width: 400
-        height: 237
   - title: "GBT Technologies Transforming the Future Healthcare AI Market"
     excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC:GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
     publishedDateTime: 2020-01-16T15:00:00Z
@@ -80,7 +66,20 @@ related:
       - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
         width: 600
         height: 337
+  - title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
+    excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
+    publishedDateTime: 2020-01-16T14:33:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01161Healthcare-AI.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 43
+    images:
+      - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
+        width: 649
+        height: 328
 
-secured: "Mpc73HJ0S6EZ/b3J4YfkLKkeT7/1Nw53qsg0FlxqPWCVEUlgqbdWoBr9GHLV9cRwV6Bq+VujG9IAECNYC/VuuMzAqxqBmgns5T0ReLVBcrjVu2vqT9KU/rikEDR3RfVdX1QZwL+H4LewDGYJSAbDPEK0QzGbz7jC51CrPBqRiqxOYL3jXsRXLpzskMh8/oKf9mLl5ZP1yT42HQugMGWawOOWxD9sfnPpDpML4PxhoI/HXc7/Y8lQwc4rkOm6Qy9QbLlaXt+gwHfb269MuNibMGV2gmuWLcZTD7fHsG1tj/EUe0m3zAQ9dGC+h1b5UvSYp5ih+CML3EpWHQIa1YerPoCke4ZtUW31XF0o4aLmNecloO6cxe8hMpWxG6llTd9EssZl7ciEGFo9t1eQNJAccdwJ/fbSI9EmN6u8TJUOrRw/JAWCh48/s4/eYNqrzGEZPQvdeinTDO4uy3+G5uTpvA==;l1BI3xFEDC16aXMSpk4qPA=="
+secured: "0tVA/kIOPSfjDhIWrE8o5kfYGhkrPVYBkx/92LnX5JHi+G2+SVsKGKDamFA9OBtMiNRSQ53MvfZvKCtjDhzb49MzNb9UgY7JP/YPhpbT3C1rKbAPl2eKTzuxQy5Erfuzw1jcys1ocveBlj7HKoiOphNsRGaGXklpFPHsLk/U/MAHQ0YI/kVuZ4MA0aMW7LJQmzs732ch1cKouFbBFdb1Tpt6NguzxYZ8Wx0ClO5x8ZzEw5J4BuYEpyVAcNxhbWVAz2mqCRkSDo0EMy51Uy6HsTpzOvqjzB69laZSpPnjGys=;hNWbhaLhZ1b8S7Lpy22STQ=="
 ---
 

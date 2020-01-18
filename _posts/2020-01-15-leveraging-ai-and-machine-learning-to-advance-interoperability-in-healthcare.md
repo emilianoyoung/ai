@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T19:00:00Z
 sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
 type: article
 quality: 53
-heat: 63
+heat: 73
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
 
 related:
+  - title: "Is Artificial Intelligence the key to unlock the limitless possibilities in Healthcare?"
+    excerpt: "Artificial Intelligence and Machine Learning are taking the major scoop of technological development and leading the digital transformation era. While entering the new decade with digital transformation, industries like Manufacturing, Banking, Automotive and Healthcare etc. are transformed in a manner that, there are certain tasks on which ..."
+    publishedDateTime: 2020-01-17T08:20:00Z
+    sourceUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/
+    ampUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
+    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 46
   - title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
     excerpt: "The Umbra plug-in system attaches infrastructure data streams to artificial intelligence / machine learning (AI/ML) programs for fully autonomous infrastructure automation and configuration management. Umbra guides users through the IT and security operations decisions too often made in the dark. After Umbra attaches to a data stream it ..."
     publishedDateTime: 2020-01-16T00:33:00Z

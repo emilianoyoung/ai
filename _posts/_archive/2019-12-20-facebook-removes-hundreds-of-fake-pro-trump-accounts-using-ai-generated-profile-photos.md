@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/
 type: article
 quality: 81
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,6 +29,23 @@ images:
     height: 797
     title: "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos"
 
-secured: "Z92S/ZKd9mh63PDaNZEwO7uvPeL4YOIXEhRBFTrW9WJtuKo0TBRIaVfwf/6CnS2ptQo/866C62hg42u+A35nAzREEvgBkE6j9s/RYLzD56o6fnEz+177ANC1HerEjCq170t0eSoczQOP8ghd9SuHBaOSV2ujBCNz/WiPZPLc7iqmpHTC3SWqW5xpxKmIjJMEV4Ve1Q/Lqk6CznEYySF6h30Nflz2R9gKeuXP8ZyLztZkRVVENZ/xNQJqWMJ27pNd7UaSlk/VwRWWyssTEMmpZA2SnQuNAB7O+ZgfA1eTaQE=;CRT2Mvt2CktUwViIN4w1Qw=="
+related:
+  - title: "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages"
+    excerpt: "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,"
+    publishedDateTime: 2019-12-21T04:58:00Z
+    sourceUrl: https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
+    ampUrl: https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 88
+    images:
+      - url: https://images.wsj.net/im-138654/social
+        width: 1280
+        height: 640
+
+secured: "yGKf2MSwVLqvuMRdxVuOjhe65bG9EvCV7Xq3uTJR9pCrgrNJAoQUXDRLUxUYD+Cbjo8hFdY15OlMX8FVZw6nsvs7jv1hVuOON8UEvbdFVignjMOmLD2ckO7Z/qlAxtwahuTFOMbVoRJeXQ+aCZNlBRTww0F5BeH94GAKBKXgCtG8m4xaPw/92bWv4m65vNMKfbsrKS4iMmIeqVvZN4jrHLLv+mPU6RjT7QNazxNlzNiED18i4k3gGnHynLIMZceeI2Kjj3hTyOonWNEJ8oAJWk6e3P+3uXsPDEP6CSgMedk=;X32rc4vEY162ufO/VKwlTw=="
 ---
 

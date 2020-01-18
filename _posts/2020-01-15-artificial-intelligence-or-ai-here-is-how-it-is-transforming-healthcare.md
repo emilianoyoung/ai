@@ -8,7 +8,7 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
 
 related:
+  - title: "Four Ways Artificial Intelligence is Transforming Real Estate"
+    excerpt: "It's not uncommon to use tech when buying or selling real estate, but according to many A.I. developers, we've only just scratched the surface. Paul Armstrong, CEO of Here|Forth, explains how A.I. will make buying and selling real estate smoother than ever before."
+    publishedDateTime: 2020-01-18T05:01:00Z
+    sourceUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate
+    ampUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
+    cdnAmpUrl: https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 57
+    images:
+      - url: https://img.chdrstatic.com/media/2aabb234-2cad-425a-977d-f728807e2ed5.PNG?width=400
+        width: 400
+        height: 237
   - title: "GBT Technologies Transforming the Future Healthcare AI Market"
     excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC:GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
     publishedDateTime: 2020-01-16T15:00:00Z

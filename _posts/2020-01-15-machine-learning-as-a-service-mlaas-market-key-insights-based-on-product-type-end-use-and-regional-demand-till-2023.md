@@ -5,7 +5,7 @@ excerpt: "Jan 15, 2020 (AmericaNewsHour) -- Machine learning has become a disrup
 publishedDateTime: 2020-01-15T15:12:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-2020-01-15
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
