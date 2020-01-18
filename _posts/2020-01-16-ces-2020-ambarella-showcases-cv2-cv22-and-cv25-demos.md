@@ -5,8 +5,8 @@ excerpt: "CV22 Dev Board The company showcased more partnerships with various co
 publishedDateTime: 2020-01-16T18:00:00Z
 sourceUrl: https://www.anandtech.com/show/15408/ces-2020-ambarella-showcases-cv2-cv22-and-cv25
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Computer Vision
 
 images:
   - url: https://images.anandtech.com/doci/15408/20200107_093313_678x452.jpg
@@ -23,6 +24,6 @@ images:
     height: 441
     title: "CES 2020: Ambarella Showcases CV2, CV22 and CV25 Demos"
 
-secured: "BCjIpFqIYOh54Z0JqyGF+iMWeeV7uUdFFJpI1WdTfkcSloeQy3Vhf9h0zXKCHf7t5g4zYkHcLEFisLk5QDtJKvB2DcDDzcb7opq18Vge7mEEHLm12zVC5B9S5cxN8N9srGc6DzwhbqUvbflrsK5y/N4hL1X0OsOSH/j9t0IeI1pil7fIZ1u0nuC3yp5C1E6n7zs2OjO2TzyOcPwV/n+56bCWtAksTLDmvkFlrFCMWxi1rHuHL2pg809BORldYdIWahsFHejgLx+VKVnIUPS/nJtu1ZC+fgsMXk9tJTIO8ZI=;3oJD2LUXuvJZSwKEayMmXw=="
+secured: "j3bqXwPS14i1KXUBucY3OpvBxwQbur1lOCbmgVytwp4JAXLfg20RCJXWjsxOlFFu3U33CYjnX5bDqfWKf1sU7KCyaoaOCmKH2+Grqq4FfnMTY2FHdeJ9dp+eKXi6yRcOiG444Bp1NFPBN6jd69AU/+azmyHj2PvzlX8/zEqcbCBFxxsEhcQzcPsK9LxDCVWOURjShD0+j92zpnEpbrK3JRDblFmQaMLwL/gICMbS9/yg1BFf2k2VIia/DPMS4oJ8L6ErFj7Ilo8CscCdkGo5UsRwCJrN74739USojU/gAJteddscoiKhOoLTRvfxzZ4r+0ThieYtxd0rn4qNO1TjPh8yh2Fj5eX2tYjr4gUJPI1I0hyqIOYpSYwqmm8I7XAmAFM3C+N12Bu2Uji/mW/lygAV5qOQmuEAhOt/l4vHYAYopJec6eWIgrYvCOe/0taoCUuYr5VFNFHs3ffzOcatDg==;6B2YkaFnh24EvC8Ii2Cc6w=="
 ---
 

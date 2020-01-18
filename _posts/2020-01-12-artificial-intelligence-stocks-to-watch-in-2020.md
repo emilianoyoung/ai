@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-12T14:08:00Z
 sourceUrl: https://www.abc-7.com/story/41551663/artificial-intelligence-stocks-to-watch-in-2020
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 940
     height: 627
     title: "Artificial Intelligence Stocks to Watch in 2020"
+
+related:
+  - title: "The Top 3 Tech Stocks to Watch in 2020"
+    excerpt: "From Google to Apple, every big-name tech company is putting forth resources to make its next breakthrough. We hear about a lot of products on the news, such as self-driving cars and robot nannies, but where exactly should we be putting our money?"
+    publishedDateTime: 2020-01-10T13:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-top-3-tech-stocks-to-watch-in-2020-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "3/ezjWidEjLKvu6jG32q3E1m9sZRhgtB1Ki12xkkeeQh+90mBvalbIOn13uSy0+D3sapuGGmNITl6HSNdLMyQtk0QrTk/xBp8uPbSqZbDPqN0w2aaUKvrNtEYC3mbdtsLu5jDAaFMqN1D7Dl6UeOeFn8SR6OPIUhx4rBmGafFwZmBrVKFouFRIwajQiiosGyC0rDBkLhkp0LmO8K0BhfRhjHtj6pZFfAsdQoeEx5hHCQJl4uvWUJyRBPFW0JcpoHDMjE9PRktC2t6gtm9NZmPZYKfvEiRyJZuAgudNwSv6r0o8CU+nOTTaBe/62HjBUOQzAf8R5ULlYrZSLwvv42gZw6Jjj/Dw93X8sU9qlWMWhetKxKCVMhGPQWbW7SSKEcQxXWpNvXDoJ2Qs144bnpjZOoDophcArpEFZgNdkynnCdY2kjKsqdLwzIQ+x0CTYkDWdqTSwJ36n1jiAGSyB5vg==;/IE+SjRQwaS9rTGKj3a89w=="
 ---

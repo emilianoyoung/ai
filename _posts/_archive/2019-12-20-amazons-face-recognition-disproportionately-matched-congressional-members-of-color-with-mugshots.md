@@ -8,7 +8,7 @@ ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-mat
 cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,21 +25,6 @@ images:
     height: 396
     title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
 
-related:
-  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-
-secured: "RebjILDRjjac4Zn0dbV2Ltpv7Ad34HH4rMvBrr+1c7bYeccvRGKp7jp/FjBKbJPzB59I/Bna6vI6CtRSi8yveRddgz/1r7IYyV7xzXb/9KqTtvd2zqsLe0FAsukpZty5YpVEJ4a7sphyv1es89RgBHQ1zPew2kKBYD25UekYEfgwvhtiGAJs3Yg3YU2G6VD+pufn18zA3OSZnzKp7Y2Pq/XgBivvWzWUgwkF/CgG2NqlaxVoIaORar/3VY6VtICuFN8eZF7qMK/LLxvFNtL1fTq+32ldZ1rIAlHVZtjumnk=;Ufv/0YbO+AvXddXWhfEpoQ=="
+secured: "qup7Q9fV5mia3/dT0oRqk/l8ZVxtxRCsMpsMikUqDQr45ecMvjRsWFMmhexvKa+Btl3xFnvt2hNCENFsqepC+OkslN04zDccGJ7cPcpcCg0QFyX5npUFE+fQGxXOKQNFqh12tyg6yVkXb7heePCMgNzOf97t45TIG9mPdBFh/afaSZi9UVYyuFDg9rPt52REnDFkSwPp1omfxfkSb01aWn3sNlDXn/FAOSEzAD5rV16xqVqPHznc37t2Hf9B3IzgJpokLfHHSZ8VMe9nTPiwdFtxhYEciUxudwA0ZAEv68A=;OitFvN0+gPAblEqk4O7ZNQ=="
 ---
 

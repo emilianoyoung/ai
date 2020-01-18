@@ -29,6 +29,6 @@ images:
     height: 520
     title: "Difference Making: New Tech Makes It Easier Than Ever"
 
-secured: "uZOOy4fC8E1aLZFlBXoM7EaJFFV9Z6+AOKx/MR31G/ebF59fa+2HOzw/JEzr+fVHAiCaxVPK4Vf+BXSIOG/3mtJIi2a3YM/llDgnVtEHtVBrsCBTXfsvebWi90KqnH89GLDIp6SFbH9h/f68YWfx+zjwq8G+FefpZa80zFUztFUkRAJyxCFnpj11RQ3bM06g5bV/cm9rqYjnW2aSYOc5W8yadqjzvKGMCUMqmLgouzAJasGDuciXn+j6KJcRYRfTMmgHyZIRdR2lQNLcJ933CN9WpHoVhO+tNlHCnnh0EbE=;7IkLTzAvo130bUH3Khcr0g=="
+secured: "foIq7Meszh4/6VJxYpxowd6mKqKXpo+bStu6m4JqgJlh0mHOE0Mhubv80vwaSeEh2+CVC8WEpojJb9YweInHlTEajK+3Thd+fCN4ih6Yee0LMXwiOwlncgGDZrv4zNeouz5LBpUGA2iA1Eb7lckCEW7h0PUe+DqO9oLvBaxWz6Ee2IUobovauKNShLpB4wTNwmgr9aNE+xgCGo/uuWaamj5bix75gFTPi6UCk/YxlNnIeqkIbsqd2c0ODYQdAUbgKHfebZtvoJkuvwYXXAEaaK3KsY23f7ImvH2XT3MQBKxz5suOutE+9ffhyYnt39F4R70/thIcNXbTwrJE+LwVRx3BmRexUW4zoywQWqI2SJDN2vpmQ9sHa2TAVz8kM86Xfx3He9AyNuJ3G+77RQZhJFRgDhzuT1oVjYy2tMJ6ZFfYVBtwAlZY4jj7wbS3DUKj6r+X8glm+/yNth5x03DRdA==;ps9HLiIP/Y/eXjb+ckRsQA=="
 ---
 

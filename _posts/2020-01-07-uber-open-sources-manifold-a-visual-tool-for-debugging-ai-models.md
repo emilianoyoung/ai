@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Uber open-sources Manifold, a visual tool for debugging AI models"
 
-secured: "QNBqSG8RmusCRBZyMxy+fgsBduT77II+BmgmYrhfpuG56MYLUOLbBrRZ/pbFxicaf0zahjAfghm8JIAWHT44IReMS9RwKoUozHUF9L5IzZ5/wBUAcERP195uK2TOr6Nvh2dL70ttgOzXSaeiRs65iEmBTh2xL9HTJLhXjd+EGeUTIEeueRvJPoZg22Wh1NyF5DYYmfyC+jCLhQlYXYrLHB9MNqhFH3NIh1NsfJzr3dHRzBOF91Sl/qoESj+CHpjoacSWGb9unJvGUtaxsWHDSbGWrANAeEIGjvhnnvNlDnk=;ZItohQKRnja704fayfUOJA=="
+secured: "cbKp17snUeLnIaj6uBmUTuadcORqrlpXyzBAKqBVC8idCDYCTa4ctTbcDofoSj3CaLcWYb7tUsiLTWJ/95/rBMgEhyqwrMgBmxpgbr7IHP2VgpOzADMYZtFz81/QIOrlZ9+40YlZ/uTfRB1b92M1s2Eyu1gKhUXWXXPrbCOJ5akMCwEinV6QxYKADeJWKb8PHBilEL/k7z4LlFCm8niL1S/PhTSjkQ4sYyFW3qJDEEoo+iuCpFF9eSn9lwftCk0sKf5RsliqnfbuCX+EGBEDorkc2k5pmNXxTWJCVkNZyUTOnbyFUlIM4CDGxLA6E7KaHYAFA+3T4OO8/qk+e4bkiydIYWxMbuY2xjT3wtJHZ5O2pF/rNY/N/8NEFCm7QJhgSlzRdh0w7JZ6gnESQl88Halh47f7+WNjVLehu+JKPSYWhs+VpAD8NyxXItKxFlcjJZw0PaszoUwGYu2m8FAfHQ==;vMrNSh1uhjpvqowChiYu6A=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 600
     title: "The 10 most important skills you'll need to nail a high-paying job in 2020"
 
-secured: "b8FKGVkql72/aRB13uE6wud+dCGcxPAzDhSxAgsoQQEAbUJyBVXeZkCA1eVQJuq9vIA/UM8fUmg4L63m8U2PyH1vBR/K+Zpr8ZL6NVX8FK0IXlUyiHsbdfS6PLnbyg+Qrc644WpPdTkGO6G8hp89PqmxDBCDfnPhr2kGYviIVQ4VgM8PyVlUI2mHrY3yoY/xzyzvhfxTR4SYYMgkaS9EIFObfFxgVssf8n+dn9Lv5HTIEAhDyRCaELkkevcDhO2VDIZXgbWcJkXo5bTH+EJrkQqTbM7Sse/BgQFLR+t4xQU=;d3YJzYvHW6Ox5se36/h0tA=="
+secured: "dO1av3hmQ/zoHKij0LvujUUm98QipCOEmWQ6/tqJvYE9C82eBShWtgc3Hqa8l3QftjysNgxQ+VvXlLb7BziBDstjEdARMP1tPhzG8owDlK1+yWA8Jb7hfKAEZcN4O1rsG2WB6xLDEP5kkW32Q6H6FqpS6UvGx3z3ApFfqKn+89FR/W8QZF5hJT856kGzzgNGjN+ij5Icj3UIBhvyhwXOAVdB1Re1RCF+hlZ7xd0cMRjD21CLfKLTnJd+D4MDJVdAucVjGr/GxrxrfC5LWtlW44zLpD9iEDMnzL7Q5NSBHF5epCwvYTDMlefCoFRt6Sx7XoZQ+xKNiSCQMV+XO+SyNW1+Ew0YwiXPvak4oOtJSvFQEn+o0KFalZh6Izs88y3N/RPqn3a1QjJN4DTXylC/+pb363B/BD+21aQ7recopkbc1Vngbcear8GLdIdFXInK4b2Eak7QPzFetiNmPCfqmA==;af30+f7TauC8Ogqo7DT9lA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T06:13:00Z
 sourceUrl: https://www.techinasia.com/rising-startups-smarter-agriculture-education-logistics
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -20,19 +20,6 @@ provider:
 topics:
   - AI
   - AI in Finance
-
-related:
-  - title: "The U.S. Leads in World-Changing Startups"
-    excerpt: "A new report shows the U.S. dramatically leads with new companies focused on emerging technologies. The United States enters 2020 on a favorable technology setting, with 23 of 36 of what CB Insights labels \"game-changing\" tech startup companies this year being based in the country."
-    publishedDateTime: 2020-01-14T20:00:00Z
-    sourceUrl: https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world
-    ampUrl: https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp
-    cdnAmpUrl: https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
 
 secured: "c/9CE/3wY9Q2whfi4yUUu50AEteUtblb/ucqf7+zUndkjpoyMDZAdxumYhr3uZ2NqL4aCRYrSCkzIhf+X75AFN4PzMbAg7Df4iDtCXOdDgl0vuDARkbE1UdGoGlinQgMij8S2sm2TL14pcff6MyXwFcPQQk4hne3ke6o41ZNTJhYCYmk2yofri8CwUROF4/euS3Ze803vXlqB2c8D3RI+NUNRReb3kioyA/8IbOBeqVcymowHXPJKqkvkkk44f9sNFsWW78g0dRvXKDnxrXpEpyJJH4zpmU0QOWQtYXr8QZIlO5I/k0v7rXvtsTrVCSEEyVWLW5Fevs/y49lE2xRDoG30ctQwhH59b9Ff8DWLP1FTsuW9aPPzCcID4p79T/QbG535VlnqiWQDl7QhVCrB6CnYvFQxKW5jdzdUZpYJdPjO7gw+Z1gxKM2jzO95bUkpLthKNsQl1TqT9MeqDPDTQ==;MUoMS+F4zU68cMsPgq735g=="
 ---

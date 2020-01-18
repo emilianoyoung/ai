@@ -7,8 +7,8 @@ sourceUrl: https://www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-imag
 ampUrl: https://www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-image-recognition-bokeh-effect-videos-report-2903533?amp=1
 cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-iphone-12-camera-may-have-ai-based-image-recognition-bokeh-effect-videos-report-2903533?amp=1
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Computer Vision
 
 images:
   - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/gettyimages-apple-logo.jpg

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T13:12:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx
 type: article
 quality: 67
-heat: 68
+heat: 78
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     height: 2000
     title: "Apple Buys Another Artificial Intelligence Start-Up"
 
-secured: "OzhkUh+JQQLnmFzvYUdyEUvb/N6OhqMxtYN5X/wxDpW/1LdEUpmpjn4wbqKSD0UMeiw4uxOfJrWl0GTMFcX4fq1nQsfC3tnyBVU+NoBV2nXbRX7Vrg0NnARn1+I27V2UOiICbnV8ABOMVEDGD7CW8T0mcGj78JvFpY/aldmDuuJjyG+c2BZorAPpmK59VMWr5HhnL/nwwWkynv+fHdLqiD/S/qzh8c+FDnKZopuQN6vUsZKR73n6cRw1cQ4nADtYr8mJSK4dn8b/C0KBsXrakXLWi8sawDnK0u8qAVH0P6x3JcV6YRYJX4k2KGPry9ypSPzRAmCX3uyPdxuGoWubugb8/4Hkmc+QeSgd6EWw5Z8ow6hQfH21sQY361NaSjhbFOVVUhJNRCKg1PZ/ZMcAHa++XaEvDrHBNSoh8lcveOlurtxP8narh+eafjs9sZxfLcS6e+aySH23gta+sFgdKg==;/AljSXeFxScQJ8yhoFPxFg=="
+related:
+  - title: "Apple News: Why The Tech Giant Bought Another Artificial Intelligence Start-Up"
+    excerpt: "acquisition that investors have caught wind of ( Spectral Edge, to bolster the company's computational photography). CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks."
+    publishedDateTime: 2020-01-18T12:10:00Z
+    sourceUrl: https://www.ibtimes.com/apple-news-why-tech-giant-bought-another-artificial-intelligence-start-2904861
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 33
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/10/06/apple-10-6.jpg
+        width: 800
+        height: 600
+
+secured: "VWirTIrGT5gBfmd2OxXvRWFD9ekPobYmbjirb+AOM/g/Q7R3udfCEQpiIKXAPOh8MuSeZu5LsuvAHE32/g+B4gSIQJKdWXitHMv7pTchQHnJxxbmUjxvGmsYByL9xTiHEQT+URc6pn6RvSQ6FfqakxhAPtUeeMR3sBNcYDE9TB6hgGEI1IPKCZCGNwSryRSM8iFqEWKNVT8UiS8FYH5sISaK42sq762zmGJGngZVAWEIpfZAQ08GHiCnyUA4V9WTGf0W/heGAGb/ONZ0TQFPEpOVtg2l1Zj3MDKBKLxQG5EhUUyGyoUhBEeFBu0W0EcEE65BntZwg3oqDbHXuDoYENzQMddNbTdH7iaDQNJtXZ0lQrNLfjtHMd+hhfEu1wSWJHKP7HQBZ426KEt0ZX7/7wO4T5o7UDVV/edsoM5m0UO+O1GwlXgRnb+sFYJaQtwfapckB8ZQUNAsmcKk56pc0A==;/ZoD4r+85xeCCQ476Yw/aA=="
 ---
 

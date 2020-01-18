@@ -167,21 +167,6 @@ related:
       - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/02/Apple-logo-shutterstock-650-e1552381548177.jpg?fit=650%2C399&ssl=1
         width: 650
         height: 399
-  - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
-    excerpt: "Apple has paid almost $200m for an AI start up that specialises in bringing intelligence to “smart” devices, in one of the largest in a spate of acquisitions by the iPhone maker to make up for lost ground in a key technology. The company’s offer for Seattle-based Xnor beat out approaches from other big groups including Microsoft ..."
-    publishedDateTime: 2020-01-16T01:22:00Z
-    sourceUrl: https://www.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
-    ampUrl: https://amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb59f287a-37f3-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
   - title: "Apple acquires low-power AI startup behind Wyze on-device person detection for $200M"
     excerpt: "Apple has made another acquisition in the artificial intelligence industry. GeekWire reports today that Apple has acquired Xnor․ai, a Seattle-based startup that focuses on low-power artificial intelligence technology. Xnor․ai notably provided the AI behind smart camera company Wyze’s on-device people detection feature; the acquisition by ..."
     publishedDateTime: 2020-01-16T01:07:00Z

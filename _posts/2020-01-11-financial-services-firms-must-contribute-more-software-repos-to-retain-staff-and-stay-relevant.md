@@ -23,6 +23,6 @@ images:
     height: 668
     title: "Financial Services Firms Must Contribute More Software Repos, to Retain Staff and Stay Relevant"
 
-secured: "kJRObltSqD8CmNT59YxKlPvYCARaujJhAeONe+2Flwwur//XF5on6LG+Yjfrd15e3NF/2TLQXRL3pijdkwx3SuprK95kvwuRsFpoWqqF/Hn9bSUSniKBQCkj99GUvVGxtk83amy8iAjCQuDzpcThYG3a56I1Buls6MCUPuRCAzYl1Tsg//cWgX1VEgsHKGviEVoPJXsk/cVKJ3jmZFSZ3t8COyjJQ+3+9G5m/5w0iyGDTF0JDfdSbgLqOjxEClSpN7yRITQQRT214lfIAx98lxulz+mgQSZxEyz+owEKJh0=;FG0/klRd8OdzspPvUEtpRA=="
+secured: "gw+ULXMl6Qe90q2U90v5Pry6XivMSTPZadHi08AmYjB+5SS03c6dehBacF2gpqjI7iYXqxvQN/fmXZGYDBNJCZxklDEjXvByWHQAtrm4332HJASpz9oNkW8TieKUOH7iFfE5mCW9JyXCSfd2NbLPFV2vMr36oszXrSLzSjF1CcNtuQ/W+alSEoXlP4vGHjUqoQoddDFzXtCgIRUSDhW/BRcEg+oDZt+yIulUspcVZj700WXfKaLKoK4bR+N0u8DNvXOHwkS5Hhoe01aBMQnVtS7W+hpr0wPRQhgg0CZ/8P9cHy/DN4a/73p1uI87+k8rQNl/AA5VGYU5PXDIGjdLkKNH7wdb/nvNCfKNE6YwICQGeI+V/q941zZdSPW4NbWwAsC9h5npBqKtochGeb8ZVUu+LIKTf4Xe0ff3nQR5QD/BTKOfBQMmyexfpci94SUmLgaX1ucEAyCXIsKpPxqJ5w==;PHqv87sZZvxwWa0obckSAw=="
 ---
 
