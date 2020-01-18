@@ -7,8 +7,8 @@ sourceUrl: https://www.cnet.com/news/new-ai-dog-trainer-uses-computer-vision-and
 ampUrl: https://www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - Google AI
 
 images:
   - url: https://cnet1.cbsistatic.com/img/fWHvXXNhn2vuzxeOrGZW83vxgMM=/2020/01/16/54bce4bf-92df-44da-bf91-3e172ee7f65e/sf-pcs-image.png

@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Could an AI ‘human’ become your friend?"
-excerpt: "Putting a human-like AI in your home, one that learns your preferences for pizza, behaviors or finances, raises concerns about where intimate information could land."
+excerpt: "AI ethics issues and deep fakes,” said Thomas Husson, a principal analyst at Forrester Research. “But if they’re able to successfully express emotions, they would help enhance interactions between consumers and brands, and more broadly humanize technology.” It’s tall order for a company that Mistry says has only been working on Neon ..."
 publishedDateTime: 2020-01-11T02:06:00Z
-sourceUrl: https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/
-ampUrl: https://www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/
-cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/01/10/could-an-ai-human-become-your-friend/amp/
+sourceUrl: https://www.eastbaytimes.com/2020/01/10/could-an-ai-human-become-your-friend/
+ampUrl: https://www.eastbaytimes.com/2020/01/10/could-an-ai-human-become-your-friend/amp/
+cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/01/10/could-an-ai-human-become-your-friend/amp/
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: https://www.mercurynews.com/wp-content/uploads/2020/01/neons.jpg?w=1024&h=596
+  - url: https://www.eastbaytimes.com/wp-content/uploads/2020/01/neons-1.jpg?w=1024&h=596
     width: 1024
     height: 595
     title: "Could an AI ‘human’ become your friend?"
 
-secured: "v6epgI1s8kbJxK/mxGnbDn3mK9LvZFlq2UYCN8y92kjv3XcQY84l/4odEer1q/l4uq/ssiwQ00HMrV1yFJj/ga+6AEXzM73MB6M6g6HdoiJeatB/vXC6ywqNfEI3idD/pDmnDKEEAjTrg4nFgeDeQc78JgYH1hMmsv2JuMrtl9ra7nnFevxCgHPso8kFIo1Y9Muq/PoFlNRDGbd1z/fSBYHkIFam3b/5T6yV7CFUZt2D7zitJyZ/CVWKyBUHZmko1E2YuoqLZ1YdZ7J+Od1rttgZVSW+cs5UcMUVPOkif0HU0QWKqvpLQyEqUGEN8cQM1OxqtXCXvcWR1IvWRH67v8GZFErIg2R57V9lTmxfA1ss8AxqfpGqWRsXktQwb5tDaYA0rx6FFAycCGQzlsCcO9aYVxJELROEDubXISmMhRFZvqzsEV8D5D73tB9Udd4R+bioRyA9+3ZCBW1uZ7Jicg==;k9Q7BBERlmAWLjnSHIVW3A=="
+secured: "C2mrs94Yc8dVrjGxvKt2WRXPsuD1XQmmDp6vRgHTKMEiCMcisvq7/qr2NXsFE9n+7iYWVf3pbxxhE6+YCwixBqEPNxrA3MZa4HR9mUyS9kOgr/nI5LgQ1A4QsVG8osl7SYSgHrs4evDl2AX5v9rB/uDhuBS8iGlKbB5sZeBav1l1oeiKUB7nmHioE0lzgSyjLnoShm6Cqh8kQLoOX8NX1G8KtcqzXtOnA+yBTkklnfH3Wcw5ZIzk84PLnBWCsEQSsNnJoDImZzoZBLXND4fHcwWgZC7XFVT3ZjOqT3fWP4Q=;j/Ni8eu038FcN1Ubao4fMw=="
 ---
 

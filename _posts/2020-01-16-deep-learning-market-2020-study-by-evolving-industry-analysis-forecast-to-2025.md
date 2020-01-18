@@ -5,7 +5,7 @@ excerpt: "The deep learning market will gain momentum over the next six years wi
 publishedDateTime: 2020-01-16T19:03:00Z
 sourceUrl: https://www.openpr.com/news/1898619/deep-learning-market-2020-study-by-evolving-industry-analysis
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Computer Vision
 
 related:
   - title: "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020"

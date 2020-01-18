@@ -57,6 +57,19 @@ related:
       - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
         width: 2000
         height: 1400
+  - title: "Artificial Intelligence Market Analysis 2019-2026: Covering Current and Future Growth, Trend, Feasibility, Regional Outlook and Future Forecast"
+    excerpt: "Posted on Jan 8 2020 4:51 AM \"Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc,"
+    publishedDateTime: 2020-01-08T06:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-2019-2026-covering-current-and-future-growth-trend-feasibility-regional-outlook-and-future-forecast-2020-01-08-2197555
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
     excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
     publishedDateTime: 2020-01-10T13:00:00Z

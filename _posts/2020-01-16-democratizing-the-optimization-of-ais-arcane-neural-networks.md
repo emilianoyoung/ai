@@ -27,6 +27,6 @@ images:
     height: 800
     title: "Democratizing the optimization of AI’s arcane neural networks"
 
-secured: "WhN6JrPV6tiKL1H/Q5QrH4Luqgn2XJ+fjjz8qPAniwim3bjAKRXpGdEH/URj10lhVW5W9ixoAh1WviXbQzV1hKlZLiKwhSDhUqdQ899kIg+iAPhTxQeeV+urF15m4HGT7L4MKiWJCI4P34pV9HhmWbJyG+DwveswEWTXZaIyeDKgmjlT3GmcyDJ0g3nZYbc/+oqjerRjZT0hZyMC7o9qxV8l4+NMlPtZ1nqaFqSuQ5mXHSs+uulfkHV6CIP0k083ZK0MPC0mPdhCn5s+dAH5Po8Jk9bXXrw0mT/7CtO0fJ4=;oD83WeC8HjYj8znN1U4ocg=="
+secured: "KfXVZp9nuVuurrffnCla85PPCjdBIA6tB/x4wm2mofYtfDCRA4IlI3XFkdkTZiSjz/svocwbCF1eESpmMX1hjq4GpcvIKwJ94RZGpiGwykVKyaEhujjh9YFa6IqEgGD1N5Dkpg/W9pBEg3wPqAJOxyuRth9Dd8yx+VRqz2VzoVm8wHXlQFxVOZaj5XE99l8GopVSQg85aOLAR1NtyAERiva9jOzcfNWg+ehnLJCZI3BScD+iqK1vGalV0mNT6U0UigaOYZQ3SBCfrcXHwrJuj4CsC7qFr5ndvQASkj13M8YzweH+eGEzBXxygUS+IhdA9jvyNmrpIFmL66yoEY1/K/RcbnrcC3kjATMnOPyzt1fLnX9T8e4+za9PeYkU7DsYGHNEWF9PqIlp490mw7FN1uDpuz/OjXfVjRbr6+DcI2bXe/I68FfzowCk+Igq5XR09A817YzHwJVgLQZp0+xesw==;DoNJxS+OKavi+3AoFjGNZA=="
 ---
 

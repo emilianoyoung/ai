@@ -114,6 +114,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all
         width: 1200
         height: 601
+  - title: "Facial recognition: EU considers ban of up to five years"
+    excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to ..."
+    publishedDateTime: 2020-01-17T12:08:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51148501
+    ampUrl: https://www.bbc.com/news/amp/technology-51148501
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
+        width: 1024
+        height: 576
   - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
     excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
     publishedDateTime: 2020-01-16T00:34:00Z
@@ -271,21 +286,6 @@ related:
       - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-826006490-1200x628.jpg
         width: 1200
         height: 628
-  - title: "Facial recognition: EU considers ban of up to five years"
-    excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-    publishedDateTime: 2020-01-17T13:46:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
-        width: 1024
-        height: 576
   - title: "Facial recognition scanners are coming to PHL next week"
     excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
     publishedDateTime: 2020-01-17T23:16:00Z

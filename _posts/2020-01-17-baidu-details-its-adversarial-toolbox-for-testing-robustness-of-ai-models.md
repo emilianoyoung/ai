@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-tool
 ampUrl: https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?fit=1200%2C600&strip=all

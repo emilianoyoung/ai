@@ -1,19 +1,23 @@
 ---
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
-excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T13:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
+excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to ..."
+publishedDateTime: 2020-01-17T12:08:00Z
+sourceUrl: https://www.bbc.com/news/technology-51148501
+ampUrl: https://www.bbc.com/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -593,6 +597,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "jpWn9G+gYNKLR4vXx7vNiumZXH5F70LCxqejVOfel2k2rsaD2Zy8UCNaAJMx+0147AnrxZlE3oT6ui0YLNhf/1hrWWO3F2k6r50O8bhs1qXKzP4wOZkr0XEKPBCcliVFrle9q3BFYVeB3JznN7jWIhgFeVrfmv9MxkYPAUP3cLlXQrGz8GLLG2AWswWuw5ptzrDRmGFTzbknu8lSGuMfVj1wQRX7B16oSbKozcFbfTmE1ZollD+ifwBKaVp8A+UR9NhRdJTNLXa3vtNVdwKEPnCfmk5vP207OUprpeo5Z/eq7ku6ZPTXAuo7+SBwRk2WlKGH5Pb0XgwQ/Kslkl9yhkYCoEyZqvMr+kOmYIK5k3teph/ucY/7rx93JH9xfuc4DZ3FmIAVuE7qRMI5qNapyDf0F0R+PMP0gOKDMKjFVCTV4IGhzRMApkFAfTubXUaAV7p1o1u3uI8Ef2Bbxn1R7A==;pwRBYE9vmCalRds/SlBw7w=="
+secured: "ouix41ShiiLuUFkHXFnMdBchAXdCPycQpf4rropJWtM2B1N2KiHOXLF8SPa9Q/byFtEGWFauIief0JnzR5TZzYFoGfjp8MQ5J0aCOK+uOCPPRfbBEOXi5P9f8K7IbnldXpXhjAQRUedsAmikyF4toF+Pthm7EpLx2FCbffE7QkeYNp9dsKfcSdMTk3zHWFl+4Xmqp/zghQTYsdLvRUGHy3Ji2TYrQEh4DvrUzSmv3tDbKW4eIBB2U6sPfyOhg1F5NVwE24yMM/x0s7F7PC+R1oNutPYEguQr/M6fCWflxFk=;pW3/cMVXm5O47c1xjKsYag=="
 ---
 
