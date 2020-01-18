@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
-excerpt: "market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
 publishedDateTime: 2020-01-14T03:00:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116798/global-artificial-intelligence-ai-market-in-bfsi-sector-2019-2023-32-cagr-projection-through-2023-
-ampUrl: https://amp.benzinga.com/amp/content/15116798
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116798
+sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://mms.businesswire.com/media/20200113005533/en/766971/4/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
-    width: 480
-    height: 270
+  - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
+    width: 1200
+    height: 627
     title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
 
 related:
@@ -40,6 +38,6 @@ related:
         width: 1000
         height: 500
 
-secured: "/PXp8NM8jSmyEHFNkvpd+cDCaQ5ajuI5AWTl2yNOls7Fm4MbLR64j9v+AiYleBdL6pWxcZIT3+ps+PLiZyKCNrQFLOaep92o35H/0pQR7DKHhnD5llfBRgeRsYvLMEOZHjBdXyKcMWTsBTZgBfHE33Jju+pURk64nMOoJzSK2rYbdckimjL2K6dAeVOwG0OGB6w06b5OA45nS1aeVgZrAcOzNCweAgLL6p4MU/NXeGqhFxewylQCmJ1Qfv6I1lVTqew7ZGQfZetCV4TDCIua6+0i+KGwjn7rgIEkGsiis1c=;SSJJqyCytHo+c+n15UvrBg=="
+secured: "8kkfYGaT6AiuGZMle0gNLDndKG7PEsL3lqeK9nz1Tbi9k3VyCsM3ajT5rnxxQjPC/E/QlRJWEGNqHHULxdu67EMSQkKzM9KrCnbRFzyH/3/Ki4bSKBNWqiQwNoYdkeMnPe+qZJq76QVP+dL1QNa5GPewX1tfEkLj509/pG4I/RoW7xQTDBiJteANVqRamwSevpzS6eEskKlealbLq4GPRneF94QjJbHER3PhMwOJ5brDOEQdlfpt0Hm1dmnAJP8lPZbZAu90xsJycW0fpWV4Byt4FphnLQwXhZ5afjm0zwE=;hhHSy32CuHyWw+zKfUjQhA=="
 ---
 

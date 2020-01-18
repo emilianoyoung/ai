@@ -2,22 +2,18 @@
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
 excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T12:08:00Z
-sourceUrl: https://www.bbc.com/news/technology-51148501
-ampUrl: https://www.bbc.com/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
+publishedDateTime: 2020-01-17T13:46:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51148501
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -260,6 +256,21 @@ related:
       - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-826006490-1200x628.jpg
         width: 1200
         height: 628
+  - title: "Facial recognition scanners are coming to PHL next week"
+    excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
+    publishedDateTime: 2020-01-17T23:16:00Z
+    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
+    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 59
+    images:
+      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
+        width: 1200
+        height: 908
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -567,6 +578,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "+LzG+PxlvU453GHsRMnrGF/Id2FAMfM/iuR4bTts3hWKIwRUvXK0JQTcURucKBZGf/ZPb8mplWLm9soQLvyQGZFhP9NafBR1JdvUXV6u1I9BD3rsOpTxMgXgJNvNiHMoK4BAJg7HKLKzXH8im0lA0fLcVycFCRfjKN3gWxS32WodVDX9Oc2kCJTo4e5n2uEN2x/fvO2RAp0dLTRQC4qoo5T3/CPXF4NEId9Px+aRtqxk6ojD00pGTx+p/flqFxSJSBThBn/W/9k8RohjyLoh3WnULql4AsTT+p/capTvgPpE+mhoseDBY/KvALCywcRQxJ22uc9ExpjlxNg5kaPqJV1Q6dXpjKBH5bzHQpNB2uFTtWgDAtccrna8qh2qj+m1fMIc2g3ZPQaeFj/QZcmfxGUc6LmZcU18xggIpKMT9vSbActnncubCkwBSEPqji+2zM+QwHgBEiGBHTjCSIwDBA==;o1welpCB20UAE02mbgjaLA=="
+secured: "lIYd72ae/BPID5E/7RhYsfZ+FTfJ/+nYXcFwXlO8HvVY0hh6M9oLLq/4ndTUQzI1T/JNSkECR/bsiUZix01WF9G/Ada4rL3aK6WODm7p4iEM/+FC7l+7H7LnhDm1LqIMjqcXy78nCYWhOC+S/2yldbndSrrMC/5/pxcG4gA1vkGK8UL02ieVMZuIGCGSg2mgqoL4cP7tidQMHuB4ApxuaLR4+8ukgcDG1FkSBFelwTFEx0KCYop1L0Uq60FIn42U/eIUrido4CAPav9YX9pFScR0E9mEJkGytytfn4AWU34=;QvFaNJ6UrEdaStXRnl41hA=="
 ---
 

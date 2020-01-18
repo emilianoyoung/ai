@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
-excerpt: "There’s already an extensive amount of research in machine translation, so the Facebook AI team simply used a popular translation model to map problems to solutions. “Our solution was an entirely new approach that treats complex equations like ..."
-publishedDateTime: 2020-01-15T19:24:00Z
-sourceUrl: https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
-ampUrl: https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
-cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+excerpt: "Similar to diagramming a sentence, the program turns equations into a tree that can be read by a computer like any other language. There’s already an extensive amount of research in machine translation, so the Facebook AI team simply used a popular translation model to map problems to solutions. “Our solution was an entirely new approach ..."
+publishedDateTime: 2020-01-17T06:06:00Z
+sourceUrl: https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+ampUrl: https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
 type: article
 quality: 73
 heat: -1
@@ -47,11 +47,11 @@ related:
         width: 600
         height: 350
   - title: "Facebook Invented a New Language for Machines to Solve Complex Math Equations"
-    excerpt: "Similar to diagramming a sentence, the program turns equations into a tree that can be read by a computer like any other language. There’s already an extensive amount of research in machine translation, so the Facebook AI team simply used a popular translation model to map problems to solutions. “Our solution was an entirely new approach ..."
-    publishedDateTime: 2020-01-17T06:06:00Z
-    sourceUrl: https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
-    ampUrl: https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
-    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+    excerpt: "There’s already an extensive amount of research in machine translation, so the Facebook AI team simply used a popular translation model to map problems to solutions. “Our solution was an entirely new approach that treats complex equations like ..."
+    publishedDateTime: 2020-01-15T19:24:00Z
+    sourceUrl: https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+    ampUrl: https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
+    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations
     type: article
     provider:
       name: VICE
@@ -62,6 +62,6 @@ related:
         width: 640
         height: 358
 
-secured: "EoNhPKDopBHYdMkj2GD4gMkadVgZ+PgbX7bV9fTM/CpVYDInfVDEArQPFIOPZnDRWsgJRB9Ku7LV4Ge+Es2jOBml6tqyrS9J3JV6pP4L+0lMcuLU5g7Zc3hY6yf1AmGTD86UAs2XFGsc2C7mJAbi5lqal2LbErK4Fq3ivO3eMXdDP81Cl1VxenQg2CsDNfSJtu+viKERBPiBCtOqQzsfkhFrWLtByTSj9WT+kxJvXAUIHh/qGmuH7eE0Q1/AWcnKrFr/EZgNgJ9qhXjKhRzY1zqdgoRc/oBl4ygeQgreY7MfVYZMbAKWPaW8zCex9LDzYi8PsJ12w7cwtki9d//nvzc7vr7MaI9LzsSgTqAr7oBBth3ftXidOtvoTKpFqlpF30EpLe9PYSqz7+7DW7KllaH+dr81fDupiFtvX4xBCDQDxL05XijhwC0nfcWPuDCGCpPIkMhBm55s8WfiipHaFw==;1CyWD1gnct3+//92KvYbaQ=="
+secured: "lgGHGeU71xJfgZ37ys4fxvhy05LzZj60mvbMmYgvJFsDc2hvEp7q0mq9l5pIxnWCaHnWqHOTGt8YjtZicBicIGOUODBluvZk3pFrxcJwoatsblzAaI9ITS4d4UfB1/ebQms3xCosOd9QidC54VsMiwIUksxiLuuoeTSIEmkSf59l88yIDRLhjzYqLXHEh9lABTxapVXI2Go3ZJyShHFqCDFd8P1d7HxJjgWMICGgoJfgtpHAYaYsyVLqN//GzrKz3x4Uw09KhwsWRKVV3w5z+Et6iq6m9txFAqGC3ptXz1U=;OTODHeezOO90OBcyjueTbQ=="
 ---
 

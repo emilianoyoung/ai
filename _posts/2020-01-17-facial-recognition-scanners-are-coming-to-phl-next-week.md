@@ -1,27 +1,29 @@
 ---
 category: news
-title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
-excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
-publishedDateTime: 2020-01-15T13:49:00Z
-sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/15/the-technology-202-facial-recognition-gets-another-look-on-capitol-hill-today-from-skeptical-lawmakers/5e1dfc4588e0fa2262dcd2b5/
+title: "Facial recognition scanners are coming to PHL next week"
+excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
+publishedDateTime: 2020-01-17T23:16:00Z
+sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
+ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
-quality: 23
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Philadelphia Inquirer
+  domain: inquirer.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/7791c5031c0c2d9d36d30a1baac53364-680-453-70-8-O7C3FGBTCII6VFY3IO7MH74YMA.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
-    width: 1484
-    height: 988
-    title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
+  - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
+    width: 1200
+    height: 908
+    title: "Facial recognition scanners are coming to PHL next week"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -269,21 +271,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
         width: 1024
         height: 576
-  - title: "Facial recognition scanners are coming to PHL next week"
-    excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
-    publishedDateTime: 2020-01-17T23:16:00Z
-    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
-    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
-    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 59
-    images:
-      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
-        width: 1200
-        height: 908
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -507,6 +494,19 @@ related:
       - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
         width: 1202
         height: 656
+  - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
+    excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
+    publishedDateTime: 2020-01-15T13:49:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/15/the-technology-202-facial-recognition-gets-another-look-on-capitol-hill-today-from-skeptical-lawmakers/5e1dfc4588e0fa2262dcd2b5/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 23
+    images:
+      - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/7791c5031c0c2d9d36d30a1baac53364-680-453-70-8-O7C3FGBTCII6VFY3IO7MH74YMA.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
+        width: 1484
+        height: 988
   - title: "Activists pressure colleges to abandon facial-recognition tech (EdScoop)"
     excerpt: "\"Promoted as a technology to create a safer and more secure world, facial-recognition software, which is capable of identifying a person from a digital image or a video frame, is beginning to pop up at colleges across the country — but digital rights ..."
     publishedDateTime: 2020-01-16T20:37:00Z
@@ -578,6 +578,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "uOypGOMGNss1kiWFaaiMrMnzXyyH3HDTCEeGJSdw8BBW3o0bXhSDZmyeBvtOjTkC3XJH+1sUDoSB7YlGKqvtpVRjgINpSRSVAbIEas6JfvSk6W5MvelCZB3TBTtyv3eypxpQp1bpYu4nw86ewcgubhTH31K3G8UR6mcOibb6Z+8A+4y2hU6PSyDyqSqrZptGXs8WX7Ayd+cyGhqsCgf6XjskAc6TiwcLz8nK5vSJYE3sSCFl9+OeuTwlke1N7rJnkcfJl+11ZrsKPFhGEi1GG6Om6Y0FQ+kDtZLw5OyXlO0=;YFYQ++5b/CqkKigTkV1dPA=="
+secured: "OFQxSSZ/yKk+0G68hOpAqUhHh9yWqye/gcYaSiXBgfwMKM8PipOPWaiwfK8Ow0BA+2icA/g2cCvmEARj40IhbqRZ1u6NgC9p1FquBJapUw0W0Zq1g0hfTFpaPulOj9Mq9OusKZR91SqvVuCkzdFhKPhOh05xrX2SOKWmP6ptz/P9MdfwlBlmQRxuGLsp0wG++gqxwcvEC4HuJpDrrj8f9fBR1u3/qkTkUMVLL4SNliMNBGpW1/eZGnSMaYIeVnioVZpWbDT6x+UNJhbaZsz3FPNfF30D918KUL1GVoczVNs=;3fpCL+m0sd0FVPX/IKUPyQ=="
 ---
 

@@ -5,9 +5,9 @@ excerpt: "... the process of building a fully autonomous medical robotic system 
 publishedDateTime: 2020-01-17T22:16:00Z
 sourceUrl: https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Associated Press News
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: https://apnews.com/images/PaidContent3.png

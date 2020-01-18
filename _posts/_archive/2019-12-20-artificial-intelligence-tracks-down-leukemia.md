@@ -5,7 +5,7 @@ excerpt: "Used in practice, this approach could support conventional diagnostics
 publishedDateTime: 2019-12-20T16:27:00Z
 sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-    width: 900
-    height: 300
-    title: "Artificial intelligence tracks down leukemia"
 
 related:
   - title: "Artificial intelligence tracks down leukemia"
@@ -34,6 +28,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "7gIxOir2Kn0njXvi6ethDoUROPZKXQGdI4d/EnzJq5OHUcDzqBrrZO7LVFQbYcsUr0BmHtKHGOOJdR/qx/I2+1/sVh8lihQ0wikZrF7Wqwxk7pGQ2Qc4rR53TFIKj8RWkSvQychddBijJ/HhsN4thLRu2EmHVRT59dalK6Kv09NCb6Rsh0vZkxSYv2YoJPgv0VGAH48oPs4cvzV+dOWJM5ChN52VeB8tDyGJz1SgUWt/jVx7io9G4T+DxMQbeoWoJCsbhzJPCltfmcnl6N1y8gSM3zY2uSeVUvwYYLA7gx4=;YUtM/Obmb+b3wnRY/TOoNg=="
+secured: "QghJcaagXryJ67C26+QAOCnlfNkKBnAmdVNib3ruXxUp8E3JPDCEADooW07zJSZW+4LFeEzLVAMS7GA1ORckwK0Itjmi6MfiKdcror0qfksBfOhxjMCugc/e5Ou2A0r26sd5G+JENOXlDJQ3zDVL/Bnaa1InoZ6yfl1kNAnLdKpHJ8FU7CtzlHn4L9BumD5+S47ZNg63O+wp0N5L1WtYDPS2J80uxq0sZIoEiGGRSzeLdiPhk/YbAud4H2rs7++Iju4sSZsgetxS7hhBzq3Jgv3S+fevMGldSi1cpu4IRhQ=;YY8bnT2T647KJMBxj9rVKg=="
 ---
 

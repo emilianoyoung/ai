@@ -26,15 +26,17 @@ images:
 related:
   - title: "Nations dawdle on agreeing rules to control 'killer robots' in future wars"
     excerpt: "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,"
-    publishedDateTime: 2020-01-17T10:59:00Z
-    sourceUrl: https://af.reuters.com/article/commoditiesNews/idAFL4N29I24J
+    publishedDateTime: 2020-01-17T15:45:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZG151
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 67
+    quality: 87
     images:
-      - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
   - title: "Killer robots must have human control, experts warn"

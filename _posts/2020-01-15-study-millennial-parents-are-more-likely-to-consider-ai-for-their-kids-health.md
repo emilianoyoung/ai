@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/study-millennial-parents
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

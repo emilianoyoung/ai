@@ -30,12 +30,8 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
+    quality: 19
 
-secured: "NXAmCj5Oobn7hT8hZnAND6Mqs8VZrutxAN0xlRPt0ZF5EkKxigUpFD+PZW5Ir0AySpcFXcWy5jYBgw4gR9aEHYU98qCqdg8KWhWMJssCnNlNgV4f1TlVNIbfDR7xE/y/D2AVDBHgcZng4uh/5lz1DjZr2ANtBPXYifcHC74M3PrqWPGo3dfXMoasmoQMgcn08sz85YOxahvWqjlEEDO+Aj1VtrMVWzw8A+zdW25XNAiVdpraeRwrgK3AOHT5hq+qyirBCpH1J3qRoeVlkyRH3FGOdeYtxarqZ7UJDgTQikY=;0CHepSyStiu53wypw6wheg=="
+secured: "lMvAFvdmHL+CVFDTGlvybkHl9/FMOZrUSTqqJEo/joUM48YlvULYqc8W0wIYVsu/zqx4ez/mC98BJwlB9O/vHN8zaIvkpsL3VgT1EEmLqAhbIXWspfCcGdBqr0CVj+qAqkRAY3y4ozjkydqOpIo/GzcxWodZyC6iosRBwELg3EmexuTiEBZidHsUK/3eBJEmN4jeC8/rwmzOxMT0asYh3SfIL4MvTovbF3BHzFFQH+pLkkrCGreuAMN2Cgu/PRzyKtnkRzOgKjxGtwu2Fh1UjIaH9KgTxdQccvYwYN6IWSM=;eo2AJA3N9QC6KoKB5gC+yQ=="
 ---
 

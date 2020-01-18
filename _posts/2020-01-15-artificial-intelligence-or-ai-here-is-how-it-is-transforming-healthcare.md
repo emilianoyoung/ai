@@ -8,7 +8,7 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
 quality: 88
-heat: 120
+heat: 118
 published: true
 
 provider:

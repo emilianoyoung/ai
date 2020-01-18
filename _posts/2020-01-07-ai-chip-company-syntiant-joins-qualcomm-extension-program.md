@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI Chip Company Syntiant Joins Qualcomm Extension Program"
-excerpt: "IRVINE, Calif, Jan. 07, 2020 (GLOBE NEWSWIRE) -- Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm [(R)] Extension Program,"
+excerpt: "Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm Extension Program, offering OEMs and ODMs accelerated integration of its ultra-low-power neural network technology with Qualcomm Bluetooth audio platforms and SOCs."
 publishedDateTime: 2020-01-07T12:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07-8184036
+sourceUrl: https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07
 type: article
 quality: 84
 heat: 84
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "AI Chip Company Syntiant Joins Qualcomm Extension Program"
 
-secured: "bvMaxUZqstBqg3nWQlWpuIGlPo0rg/pzjWoQR2WB/XzE26n2l9abofL1hISNXi3KM1P1bZvdp/asIQOdnDtkQyQS/JUreFuJfgdWa4Du59iFenCxvEC6UUVRYJHqFTPleYz4+swwrL/n5ujW/sS8qlTfEF0yIKJHFnTIJucXJ/l77GE5HlSa7NBEVIHlqK3DUhDRn1yneWBKs6Yh67zYF0hReNVR9Oi2sZAIPPSa0l0ZF+WGA9q9KbyRjXDrlgoG0a9bH1cWRw08Mskxb3aZSRkSS1wUa6K+VKPjNdS5PJ0=;Jv1NTm2llWA8xRq5ZMlaLA=="
+secured: "EhUfEA2DEsT3vDsSeW5UkCJB3GqpsYgjVGFfcmt9tK3w9pB0iE5h1BMp1ET6xwhvru5HkrRfxoHO7zzFP4/Jbwi8Ci3GW/TvyBzZAbEfGxEJgVFLu341LIwP3BO7wpYH+zdsW+im3FljUY9nF9C80xvY1FPbGunRfE3Pqa0LrHOYdyghkIyCC3B8tpRos+WUcN99W6DAZGcxC5cvZ0Wh7hYy9b38Fmnh2eRYN1ngZNmgA/4YqqVBhPajKDIMguXcR/6d/Q8eGLIfIF0g4ciW20VsfqoN1uwaf7sXf3URGsw=;j+fvJwUAad4If595iFGalA=="
 ---
 
