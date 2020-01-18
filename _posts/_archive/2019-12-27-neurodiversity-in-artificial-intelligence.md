@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Neurodiversity in Artificial Intelligence"
 
-secured: "78mCge+GaKNq1sAbJxSYZnRGZpBb48PqPijILHS9CLPlZbdF/UmENS9slBxZ+H0kC1mRVxD/3eGeqfGskfFKIHsDkvram0vHvXHqTfPH3ILqN/3ZKAvRm/xUTQtuV2J8sczrYgEitfd1ovu/zN3kd9uerOwAdle6/KxTj5blVED65UyrLYJ2+nhO4HlI6QlnF9Cflp+Su6Qn+415mrx/K1W0Xz//pdi8gU955TE6lAKerUb7gJAmpZOMVSb7jzZFN5qbSBtfMCIzuAC4o/asMm9THcGK6pzWN+4vKcNt29k=;3sfcjSEKGvB5lIAI3avT7A=="
+secured: "e76Zmx1BaQAXES8NQl/JIgF/HuWPKijeALz0ywH5q2xs+mMwZHK/WzCqERLQ2+QXDSu2JmcRI/YCANP3dmL5hVR4CHzjNE4W+an6vfm8xcjFbLKoVRFaPPsZjuQjHgoRhWXdZkFgGFiHITx9HXxUbXekfq7MoHI9WxelVlMPzS8qES6OGDYoul0cgtF1Yq0edF+uIRcSeu5klXgYHCtntBaw/sUAnUoR5vg8ZKUo5TrXcMTHqbpWjVHtNzbb4CmgVPKTHFPXzsJXMK4rnAZyPxAycaqxujubyMtPu3SUgxU=;GTXRzB6I06AfRBp1I5HcZA=="
 ---
 

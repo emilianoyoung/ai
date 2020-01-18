@@ -8,8 +8,8 @@ ampUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-lea
 cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
 type: article
 quality: 53
-heat: 63
-published: true
+heat: -1
+published: false
 
 provider:
   name: Brookings Institution
@@ -25,22 +25,22 @@ images:
     title: "Whoever leads in artificial intelligence in 2030 will rule the world until 2100"
 
 related:
-  - title: "Wild ideas in science: Robots will never think like us"
-    excerpt: "They can now classify objects in images better than we can. And as IBM and Google’s DeepMind have demonstrated, they can beat us at games such as chess and Go, and even achieve the highest rank in the computer game StarCraft II. But at the same time, AI systems are inhuman. Even inhumane. Our AIs do not comprehend our world or their place ..."
-    publishedDateTime: 2020-01-12T23:00:00Z
-    sourceUrl: https://www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/
-    ampUrl: https://www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/amp/
-    cdnAmpUrl: https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/amp/
+  - title: "Will Google’s more-efficient ‘Reformer’ mitigate or accelerate the arms race in AI?"
+    excerpt: "Also: AI is changing the entire nature of compute \"The reversible Transformer does not need to store activations in each layer and so gets rid of the nl term,\" write Kitaev and colleagues, referring to the N layers of a network. With these efficiencies, they are able to cram a twenty-layer Transformer into a single GPU, they write."
+    publishedDateTime: 2020-01-17T22:13:00Z
+    sourceUrl: https://www.zdnet.com/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
+    ampUrl: https://www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
     type: article
     provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 44
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: https://images.immediate.co.uk/production/volatile/sites/4/2020/01/cover-illo-ab70bc0.jpg?quality=90&resize=960,413
-        width: 960
-        height: 413
+      - url: https://zdnet3.cbsistatic.com/hub/i/2020/01/17/d6a939b3-3e00-4284-8ae9-b410aee8530d/reformer-lhs-hashing-jan-2020.png
+        width: 1658
+        height: 1014
 
-secured: "a8njxGbmby9UQlKXUqoFd+FVRWshOBoM6F560AWlEcUeuBcmBwvC9HEGueJ0KtpFH8RckCoELvlKigTT0uXy5JX1JJh12Q0kQfAv8z61gs5icG7QGS8mhlBuCZNmpmQOmkVV9IzCutlkrluW+qBzkM1OTseQ/rcghyCJ45xELaA/8HJWnR0DKfl/fssWajzCiA059FVou8ZqjE+oGKwWILSqCLZG6Nx1QeBSh9AA+UaiZFPzTSHaH9JPr+77NcKeSGhiu0v5yQEW9moNeYpY53H5wqoeZlmIotR/9JOpo8w=;bPwrhsKwwDUIDMfJRkN9Fg=="
+secured: "5mhEUCwkwEHokZEyI34qpm5uTMXyx1VCNJq6YDeYWpYh3qEjCAwwcAM98wP3poxug9Nx3PQlljXtddRgRn8jPzVo0RSh08nj9kjCLJYyej8zygzt67fk7Fx/O1iyJlqIin4QHVms6P17GNpD8usoP9WM9NFagsQfzQJOgNP9izEiq90tCEyo2eKFZ/6wlcdgfxBTTMig695QpSSROE/YzgiWncpZGn8R/OQ0her9UHKkTIX0/F5Haf4mfwKiOguScw/xKs1N39CK3EBAj2T0aYetKZlp8OohhNkCFKAukMchBdJubDnjKVX/W/GmP5EWp2qzFTFtCzzMtPpnlWoVYhRnKEO2AHLEf/cu/fazDdq3jIG0IsXHKAhiQiYG1dB2opeszWUKtKLTl/D3U+JsYSjZUxFJ/iXAuOs7rQ5XOQ/WnfgaVyWjb/iGJgcBrKlpZ14QhkEz6FfPbWqoRBerbg==;RPBxdzbrz+Lfcaelrp4IUA=="
 ---
 

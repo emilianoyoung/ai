@@ -38,6 +38,21 @@ related:
       - url: https://9to5google.com/wp-content/uploads/sites/4/2020/01/mojo-ar-contact-lens-timeline.jpg?quality=82&strip=all&w=700
         width: 700
         height: 392
+  - title: "Mojo Vision demos wildly futuristic AR contact lens - 9to5Google"
+    excerpt: "The company was founded in 2015 with prototypes arriving by 2017. Sometime during the 2020s, they hope to have a final feature set that includes a hi-res microLED display, fast wireless data, and battery power, as well as eye tracking and computer vision. The last two aspects would make for an eye-controlled UI, and fulfill that sci-fi vision ..."
+    publishedDateTime: 2020-01-17T00:59:00Z
+    sourceUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/
+    ampUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 44
+    images:
+      - url: https://9to5google.com/wp-content/uploads/sites/4/2020/01/mojo-ar-contact-lens-timeline.jpg?quality=82&strip=all&w=700
+        width: 700
+        height: 392
   - title: "Mojo Vision’s Smart Contact Lens Puts An AR Display Directly On Your Eyeball"
     excerpt: "and “the world’s most power-efficient” image sensor that’s been optimized specifically for computer vision, all adding up to what Mojo Vision claims is “the smallest and densest dynamic display ever made.” Although the device is still in its research and development phase—the company is currently performing clinical studies under ..."
     publishedDateTime: 2020-01-16T22:46:00Z

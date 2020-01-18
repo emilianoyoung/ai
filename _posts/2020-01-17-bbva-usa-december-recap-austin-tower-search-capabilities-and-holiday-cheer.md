@@ -1,28 +1,30 @@
 ---
 category: news
 title: "BBVA USA December Recap: Austin tower, search capabilities and holiday cheer"
-excerpt: "Last month, the bank also announced that it was one of a few companies that participated in the beta testing period for Yext Answers, a new natural language processing search engine that businesses can embed in their own websites and use to provide brand-verified answers. The search engine product – now available – is integrated into BBVA ..."
-publishedDateTime: 2020-01-17T22:09:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/bbva-usa-december-recap-austin-tower-search-capabilities-and-holiday-cheer-1028827214
-ampUrl: https://markets.businessinsider.com/amp/news/bbva-usa-december-recap-austin-tower-search-capabilities-and-holiday-cheer-1028827214
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/bbva-usa-december-recap-austin-tower-search-capabilities-and-holiday-cheer-1028827214
+excerpt: "HOUSTON, Jan. 17, 2020 /PRNewswire/ -- In December, Ryan Companies, along with Page and BBVA USA, announced their plans to build a 60-story, 770-foot-tall multi-use tower in downtown Austin. BBVA currently conducts business operations on the site and expects to continue in a new 4,"
+publishedDateTime: 2020-01-17T21:00:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15146518/bbva-usa-december-recap-austin-tower-search-capabilities-and-holiday-cheer
+ampUrl: https://amp.benzinga.com/amp/content/15146518
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15146518
 type: article
-quality: 51
-heat: 51
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Natural Language Processing
 
-secured: "ZGhIsKW4Ju4+0q3N1fypU19+XG3OyGkU4WXIos5kTwkoTaoj9QNRapf1nu5iXwjo0Uo5LLid5TKohSL8A2lvmSJjlHLXkBB0nGMozxEIvaXiNfJ6iapgd38u2wuNyCKjve6y0i3QOY+5erhN0URLeP46wA+Al7bP1Yh9K9mQNeAnZUpWQ60jzLzOtD8QX2N04xLN/F5ISkKeO8aQas4iVY95leYNPS8W66upTRCgzbDdt1OgIzv3l8iPZnKDSlfaRwYg94rrfZHA/IBn8IA3YZ7z915pc2S7vfLlTXBAMoY=;29icVnIuCirL9kB42Pk/OQ=="
+images:
+  - url: https://mma.prnewswire.com/media/876186/New_BBVA_Logo.jpg
+    width: 400
+    height: 225
+    title: "BBVA USA December Recap: Austin tower, search capabilities and holiday cheer"
+
+secured: "z3khv1y96I0//ZRSMBPZY8dd2AEf2IYpysL1kxVP7EL/DhFasxQ9HvV2ftmUh51qS1rjodp9mRde7hVOZ/5oFYI1EpAUzY1Ai7aigCNIwiNjcfG6Ekq2ZUUdHrYIln2oncbx6pz6Zx5tbxjeI7sT6AcEOaKxKrqLdrYxZUTq5rFaBulFTVSDat4ILYMmdusUWoEAqrKftT/3WFIK/6CoyPfE0TWHrSczRuiLXsSErP9JuBJ3gN/VQWj9nU3ftRN1UIA+RKvxwwrjLDaeI9oG1h+2+h2RYWk0vsEbSZ2B3RE=;FhId6QhZnroTwuYdXYlP0g=="
 ---
 

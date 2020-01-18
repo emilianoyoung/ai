@@ -1,45 +1,34 @@
 ---
 category: news
-title: "Mojo Vision is putting an augmented reality screen on a contact lens"
-excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
-publishedDateTime: 2020-01-16T13:00:00Z
-sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
+title: "Mojo Vision demos wildly futuristic AR contact lens - 9to5Google"
+excerpt: "The company was founded in 2015 with prototypes arriving by 2017. Sometime during the 2020s, they hope to have a final feature set that includes a hi-res microLED display, fast wireless data, and battery power, as well as eye tracking and computer vision. The last two aspects would make for an eye-controlled UI, and fulfill that sci-fi vision ..."
+publishedDateTime: 2020-01-17T00:59:00Z
+sourceUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/
+ampUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
+cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
 type: article
-quality: 34
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: 9to5Google
+  domain: 9to5google.com
 
 topics:
   - AI
   - Computer Vision
 
+images:
+  - url: https://9to5google.com/wp-content/uploads/sites/4/2020/01/mojo-ar-contact-lens-timeline.jpg?quality=82&strip=all&w=700
+    width: 700
+    height: 392
+    title: "Mojo Vision demos wildly futuristic AR contact lens - 9to5Google"
+
 related:
   - title: "Mojo Vision demos wildly futuristic AR contact lens that’s ‘years away’"
     excerpt: "The company was founded in 2015 with prototypes arriving by 2017. Sometime during the 2020s, they hope to have a final feature set that includes a hi-res microLED display, fast wireless data, and battery power, as well as eye tracking and computer vision. The last two aspects would make for an eye-controlled UI, and fulfill that sci-fi vision ..."
     publishedDateTime: 2020-01-16T00:00:00Z
-    sourceUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/
-    ampUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
-    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 44
-    images:
-      - url: https://9to5google.com/wp-content/uploads/sites/4/2020/01/mojo-ar-contact-lens-timeline.jpg?quality=82&strip=all&w=700
-        width: 700
-        height: 392
-  - title: "Mojo Vision demos wildly futuristic AR contact lens - 9to5Google"
-    excerpt: "The company was founded in 2015 with prototypes arriving by 2017. Sometime during the 2020s, they hope to have a final feature set that includes a hi-res microLED display, fast wireless data, and battery power, as well as eye tracking and computer vision. The last two aspects would make for an eye-controlled UI, and fulfill that sci-fi vision ..."
-    publishedDateTime: 2020-01-17T00:59:00Z
     sourceUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/
     ampUrl: https://9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
     cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/16/mojo-ar-contact-lens/amp/
@@ -80,6 +69,15 @@ related:
       - url: https://www.fudzilla.com/media/k2/items/cache/1caacaa9c9f56d30a557a35a6a1218c0_L.jpg
         width: 620
         height: 465
+  - title: "Mojo Vision is putting an augmented reality screen on a contact lens"
+    excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
+    publishedDateTime: 2020-01-16T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
   - title: "Exclusive: Mojo Vision’s AR contact lenses"
     excerpt: "Before leaving Sun in 2001, Deering had built a reputation as an expert in artificial intelligence, computer vision, 3D graphics, and virtual reality. And he too had poor vision. After Sun, Deering spent a decade working out all the problems of focusing a micro-display—either within a contact lens or implanted in the eye—at the retina."
     publishedDateTime: 2020-01-16T11:00:00Z
@@ -107,6 +105,6 @@ related:
         width: 300
         height: 250
 
-secured: "xxe74QgkeTpuFioaGD9Pdb0XF0ZJPR26jwL89aZeBQPSdQ21W7xproqkplTp6isLdKpPf/oXre1r/WH2JZHQ7YijQrO9kwp+g4FmcIqrxwqLrnoxshqt5R1BvOcL6MBATRxCADcp9loZtg0rjI3cmgXC/TXcJsIHyYMrsfiwCz//aVA7VC2oqefjNI/35YCx0AcHoj7c374oWX2Sae3faREUCxo1sxAH7N6I/GLBqfPGSVi+6cazEOjjQH1IjzLmNsmisy3LweqnejpWTq+4cpqUuXpPSx0x2gReE4sYYeBGf8m+qPIuOsuoM2FlcwEw9V5dYx0RZGklFFiPuB7N8Dlb1qqNdP4rTBfoYBaR0URCvFJ500dcLiDBfW3BX+yPNqlR5JrydB6Pxyr5zvMxdI/FtCI2gMc4vR+amzQf/zNyPjA/DweXcK5qzBosAjIbT0SdSPJUj/M4YzQcWEQwCg==;JSyyMRir/0GEVTa28wdhfQ=="
+secured: "+PIvV7G3HG1cN4rgm+BNj5bj7ln5J6iAXAgPTw1o/HzV9nZPHmo78osdwI7JRx7yi1Fr9ctbWgyFaKm+dOQwGQuSScrbIytNNPROfOqY1UULH7LwpxYg+oLCdvKV2FGsGCB/dQL5kR3Je0i4gdrhNDQzGrlqdyAi1YUH+RHN+08ms6C04YQ21dT5Zln7KTN5KlJWXmmBpalLNNGr0g4Xjx3aSbEwSkqRIdKaYEkayEo/Cm6ifPzBejLLw/MKkvi52p5UJ6kN58gQtDX+VkXkGZaEH9p1Ed5OVooL95eltkg=;IEii2XpIr0cXYplHIEMYYA=="
 ---
 
