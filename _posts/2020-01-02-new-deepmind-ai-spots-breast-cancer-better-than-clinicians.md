@@ -67,6 +67,19 @@ related:
       - url: https://image.businessinsider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
+    excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
+    publishedDateTime: 2020-01-01T18:11:00Z
+    sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 54
+    images:
+      - url: https://wi-images.condecdn.net/image/wkXOj9Je0nB/crop/1440/0.5235602094240838/f/pa-49283169.jpg
+        width: 1440
+        height: 753
 
 secured: "5sen+VLKFkjFo8KH+jteG472JWvCbtia9lpFP0pRK+dz7nIgoxFGuaO32ml2dKKf/foV/0kP+Fi2XssePPEK3IriRkrLPvShuPFv4/9epmzQzOYXoG32Ctip33drkFecbSbmb7Us0j9qljv34BEZSZR+euk3LgI97bbhlH56vr/VXuYH2PJva/Hjx19SmKvXcVjgaTzidncz6rjROA2+mpYTAdHkuGVI8ViR5K3w6lCGiY32GoOX0n9wbyVYdZs7KG6GfET0SMLItO7PUs34HX2j2uFdg2Ng6LGH0VRRsN21Dll32UFPF4ndj75BBsOUPVwbZz8ThCfINhjBHwUFWr5G3kQhy769lbA7zyNPrCIvD9hq6hv5wy5WoFS5NYorL8kSDhBhamNRVn971iKfVA98CUxeo5XEDrklvEmEqqA9ISTs9DcKjqptpSx2JrGn1dpd3BXlMfH7JaegbMZ//w==;SoBdF5IS0eXho98MVhgrEw=="
 ---

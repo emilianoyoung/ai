@@ -1,69 +1,58 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
-excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+excerpt: "market in manufacturing industry is expected to post a CAGR of around 31% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
 publishedDateTime: 2020-01-14T06:30:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116989/global-artificial-intelligence-ai-market-in-manufacturing-industry-2019-2023-31-cagr-projection-th
+ampUrl: https://amp.benzinga.com/amp/content/15116989
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116989
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
-    width: 1200
-    height: 627
+  - url: https://mms.businesswire.com/media/20200113005995/en/767292/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+    width: 480
+    height: 270
     title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
 
 related:
-  - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
-    excerpt: "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027."
-    publishedDateTime: 2020-01-14T10:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
+  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
+    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
+      name: MacTech
+      domain: mactech.com
+    quality: 54
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
-    excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
-    publishedDateTime: 2020-01-17T10:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-report-2020-competitors-and-their-respective-market-share-rd-status-and-future-projections-2026-2020-01-17
+      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
+        width: 1000
+        height: 500
+  - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
+    publishedDateTime: 2020-01-14T03:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
         width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
-    publishedDateTime: 2020-01-14T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+        height: 627
 
-secured: "fK6iee6aenLQb25Opgk/BSJrgY9uxgcM9xnGxXWiG+nKT2ElMkwLHP2/Z/sI58H+Ix5Rj2wd99QysB1+qWXZrsaW5t0N5WBMGGY3fyduBa1IO0hBWehXxj1hklL+zjpALDPO+wJ9iif7BPL4aBqsie8JajOSf3sENYv+ztKKMuRB5ZU/oAFz6Wn27ec8LSIoktlc8kztD/FXidg2dh7ckaq8IihwifkyCHx/RzLIM5a2+lZQZc7BbWTG0KKg93mis09hodmOCivfjAmy1a/rCD5sMNQr7jelgWLthcRtsLvrG5alWFr96jnBveqnsG978e1LQeotA7J5CzJ8ed/J9Zt7dtcZt77Tr0+3uYaPkkWvZT/2WaDLwkCMgDX8uMDQrmBo339Kc4tJjPvYD1Bd43V3UhzKuxIPcw9a3ndevyfs2U5Lfi7KNTanYvraDWMTnSj/VagrDAWlBgJxAzOoQw==;hZjzxG70kce16PuUZskTrQ=="
+secured: "HM14qsKze0UGTuXSOpOSjD+4WRWx8W8kZh77xfi9tcWaJVE8EmJY24suNSKv4cO6M50z9fISX8oJ74VfCaqqVXquPd4WXc7QrVQik64bBUv6IVEJ8CcU6LL42hggfN4w/HGoUhYYalpF63qc3ElT4nwbhg5q150COn+28X6ohQRJnnExATzk6fKsYG+SnySeEaTSN2AO+DTpp5g+3xYlFJq7DUQmMw3Ta0ZcguHIzIPgdzhq790E9IphgaNWqrtVr/MPz77IS0C+NKaWNGP+jJ1Ne5ytA4eI3sdx/XTSzeY=;2ipI2uuH2rwaTI1s7ANHcA=="
 ---
 

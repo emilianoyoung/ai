@@ -1,35 +1,44 @@
 ---
 category: news
-title: "DeepMind’s AI Is Mostly Better Than Specialists at Breast Cancer Diagnosis"
-excerpt: "Google’s DeepMind team has just published “International evaluation of an AI system for breast cancer screening” in the journal Nature, revealing their recent progress on artificial intelligence for medical diagnosis."
-publishedDateTime: 2020-01-02T22:38:00Z
-sourceUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/
-ampUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
+title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
+excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
+publishedDateTime: 2020-01-01T18:11:00Z
+sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
 type: article
-quality: 102
-heat: 142
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Wired UK
+  domain: wired.co.uk
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e41a50bf81b00072e5ca7%2F0x0.jpg
-    width: 1200
-    height: 800
-    title: "DeepMind’s AI Is Mostly Better Than Specialists at Breast Cancer Diagnosis"
+  - url: https://wi-images.condecdn.net/image/wkXOj9Je0nB/crop/1440/0.5235602094240838/f/pa-49283169.jpg
+    width: 1440
+    height: 753
+    title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
 
 related:
+  - title: "DeepMind’s AI Is Mostly Better Than Specialists at Breast Cancer Diagnosis"
+    excerpt: "Google’s DeepMind team has just published “International evaluation of an AI system for breast cancer screening” in the journal Nature, revealing their recent progress on artificial intelligence for medical diagnosis."
+    publishedDateTime: 2020-01-02T22:38:00Z
+    sourceUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/
+    ampUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e41a50bf81b00072e5ca7%2F0x0.jpg
+        width: 1200
+        height: 800
   - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
     excerpt: "The biggest improvements over human scanning was found in the U.S. portion of the study. Artificial Intelligence (AI) powered by Google’s DeepMind algorithm may be more accurate at spotting breast cancer than real life doctors."
     publishedDateTime: 2020-01-02T18:13:00Z
@@ -58,19 +67,6 @@ related:
       - url: https://image.businessinsider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
-    excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
-    publishedDateTime: 2020-01-01T18:11:00Z
-    sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 54
-    images:
-      - url: https://wi-images.condecdn.net/image/wkXOj9Je0nB/crop/1440/0.5235602094240838/f/pa-49283169.jpg
-        width: 1440
-        height: 753
   - title: "New DeepMind AI ‘spots breast cancer better than clinicians’"
     excerpt: "A newly developed artificial intelligence (AI) model is able to spot breast cancer better than a clinician, new research has suggested. Google DeepMind, in partnership with Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital, has developed the model which can spot cancer in breast screening mammograms in ..."
     publishedDateTime: 2020-01-02T14:06:00Z
@@ -85,6 +81,6 @@ related:
         width: 555
         height: 330
 
-secured: "zeZDR1VdDTQgy6ZZwmE7bm4262A9/ZkjTEl9cEB7Nhlhar9oSlqZcPBYFc5Owob73Uhtd6ll6xbX8GftqRTr/OxSejCco+SDwX5PBfug5vXP5gp/tsYtO5NmrfQftuKyvLZ4Ymt0asIt0HXvXT0G4ybq0bthyaI4yYa/c1kuxwTpCAyA6RfWObTer82fM0w3y2ocX/peI4ZLS0igNMZAK/4zvnI1KBmoVYTErW0VBtWGXm3TkQKg5zQnN5pzo0JPjW+uAPzvnBOXr+y+BDvcfIDQ922QLL65grPLnXhowUntic32MKu5v8HMCDObp6Da63hIjFd14Ceq93W9P9ZgtsmdyakbSiwZarLhEj19TA335clQBcmqYampE+flfpvmK13/BAXh9TZNPr3amcxNNMeyJpGfSK69X9eSoK0JHFTF96FapLySHm9DkGPS+vef+m2KEnvTZD9UBtWbEKteYA==;9Vb8dfKTq/NnUqWARlmRqQ=="
+secured: "AseOGKswnpkSRODb3v1EAombL+Jw90mSx3loyF/DsGrdXt9efM78z5qJ26dD+h+uS2Xg5K6KhC+cxmbSioNlo7OdLyUq+b73UMoum79/i0RSG6DbUpFK/7OWT1RMNDygbYuu41tjegLuX+yag608ygdToyDc1v1inO62DQyHltCuYUAPU6TC9av+8Z6tnxpZPITmLD/TNmcqCw1nVKIO3s+5roq8N2eMg2shWSVOgOKez7uqI2HWOEuzI0H8HQX6xPPd8N8euJLa8/HpaMG3RfH6OSFgaS4tZVUzzPkFb9w=;QmxfY1sT0vQzNkyZuWeqnQ=="
 ---
 

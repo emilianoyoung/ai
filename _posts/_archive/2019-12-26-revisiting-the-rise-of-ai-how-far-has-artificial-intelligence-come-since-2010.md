@@ -29,6 +29,6 @@ images:
     height: 628
     title: "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?"
 
-secured: "r62zcrSZvsqKC5Y2SpwerKWm9BHoAXALfv0UyzGSX8GbkRofabWxao+C5s6bYIfLHUqf6AtpjN1fckqq7h8wDLM5g+xVmlK4tpg6Ro0UgkYaN0I607U4W2a1LMpxfp7F2RIW2mAF2PTsvlwTmaNqrRJ9xoxWRHa/tjMUUwOkey0niwo61fVUN89cHJwVnXhGxJx83dRawaQFLBjmCKwBTzFkRLJQ63Fy34QLBHVxWYajwqHF6sR+n32RYEUiwfUBaqTk0OH6d4Huyim712F3AQIgaULuuy0UCLFFuUIMpTw=;obNG4WYkpSwRH1JpAJjm0A=="
+secured: "ey7oBQpZBH738hMhFV2/TE9Lhimx6cJ7s7f6gwtm4x78R2U0rMjZVczBKJViZkWiS/6HX2jqElaTV4/tMdvyLj6iNDSimO0aDyJ98rCeeUTaWlwmnhUJp2qWj7HdPIKaKibKxthCqDmjofH21Oxh/G/VULAK200M8QqKuFP1YEQvX+TXI52ueVwJTfmHQ09aDhxdsT3Ib4LA1oyGmq8qVk/jIe4Q7Z5pRpBtHAIqo2O2dpS3kP4Rs5Kz5AV4mX0xC1/O/WbHKkIvxNyvco267sVdb46y6POimh+DUULWHm4=;1dJHzBbKyx4sjuRvT1Ofog=="
 ---
 
