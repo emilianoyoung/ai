@@ -25,6 +25,6 @@ images:
     height: 576
     title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
 
-secured: "cvmIy8tQ7zcUfHQ9i3Hsb1IzlWUFUZBjl7S76uywVbyz+et0W3MDWhgDMnUh5dCerL1VD0pgR9uvj+/a5LVfu6g1a7gPP3vPHQMlU8uvEzf8v+zBLFW1D7g7SmdIz1qyCkiWH3KkpJymdHpL8EYxMDzY6hVnq8kzm66fo9nPlBpV3wyVwBWn54hwNl2/PA0WZzBMdnEp+7v3RZCzNl+XoKNTxP1fiUaQgGPf+AdpN9D4ts/NR1+WIr/U/JWZaU4csgPCDTuxshN0HypYLpRutBla37brFE/Z69hKEvPZ0Wo=;YKlPCaWqdYsBX7dxSHFY6g=="
+secured: "B2gBU4ENjqoWlfwUHwTkch8uTu0qyWOvFeI2tfPqEdt3cgtXaJSk3y1m2x4tpagp5XJrh361hyxZvEK52hpohjoRpOVC0iUgsXVeVPcSOYJ3lG5gPsGoKXgLYFaW7hdEz+gZ2TbJoO434dHep1DtF1y/cV0HsrTC96PcIsuC/7ACo59hpVM//nJKyQbz5GgVS3MhnEf+1E3+4U99t7bBrxRx2u2wRoXKFcBEgtgMNCxHgfRepQCuAlWVJpEk9RqYoWc28q56LxYy2PmFJPU6XiAZh+8nSTTuzFIIjb3m7zZbwaMNqh/8ws5fZ4fmqi+GjzGYIQC9ArC1R45vhLcnAV42HLM9sM7YvGuZbTNKtLq8tQDvVJ2dE18AAn/9/yMcOIuJqUcbjcqpADabvLkbph0E6c1d5GIIUFzmddAMTh0fezGNWjEXjv98eX5VkSusKKZUSaKhMiDDT1nIf5vVPg==;jABQBNnYLclBN1sSA1wteg=="
 ---
 

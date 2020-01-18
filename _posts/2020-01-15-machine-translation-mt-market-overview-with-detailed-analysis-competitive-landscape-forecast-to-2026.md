@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T15:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15
 type: article
 quality: 68
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -102,6 +102,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
+    excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
+    publishedDateTime: 2020-01-14T05:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -115,6 +115,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
+    excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
+    publishedDateTime: 2020-01-14T05:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
     excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
     publishedDateTime: 2020-01-15T22:30:00Z

@@ -7,8 +7,8 @@ sourceUrl: https://mashable.com/shopping/jan-16-ai-and-machine-learning-training
 ampUrl: https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp
 type: article
-quality: 119
-heat: 159
+quality: 121
+heat: 161
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI in Robotics
   - Google AI
+  - Computer Vision
 
 images:
   - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=
