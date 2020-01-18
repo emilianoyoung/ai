@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Facial recognition scanners are coming to PHL next week"
-excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
-publishedDateTime: 2020-01-17T23:16:00Z
-sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
-ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
-cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+title: "EU Mulls Temporary Ban on Facial Recognition Technology"
+excerpt: "Facial recognition is on the cusp of its biggest ban yet, as the EU is reportedly mulling over the idea of enacting a temporary ban on the technology until the risks can be appropriately managed. In 2020, it's safe to say that facial recognition technology is a bit controversial. Activists have spoken out at length about the problematic ..."
+publishedDateTime: 2020-01-18T16:06:00Z
+sourceUrl: https://tech.co/news/eu-ban-facial-recognition-technology-2020-01
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Philadelphia Inquirer
-  domain: inquirer.com
+  name: Tech.co
+  domain: tech.co
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
-    width: 1200
-    height: 908
-    title: "Facial recognition scanners are coming to PHL next week"
+  - url: https://images.tech.co/wp-content/uploads/2020/01/17152526/eu-facial-recognition-ban.jpeg
+    width: 1920
+    height: 960
+    title: "EU Mulls Temporary Ban on Facial Recognition Technology"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -286,6 +284,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
         width: 1024
         height: 576
+  - title: "Facial recognition scanners are coming to PHL next week"
+    excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
+    publishedDateTime: 2020-01-17T23:16:00Z
+    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
+    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 59
+    images:
+      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
+        width: 1200
+        height: 908
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -457,19 +470,6 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-the-eu-might-ban-facial-recognition-tech-for-five-years.jpg
         width: 1280
         height: 720
-  - title: "EU Mulls Temporary Ban on Facial Recognition Technology"
-    excerpt: "Facial recognition is on the cusp of its biggest ban yet, as the EU is reportedly mulling over the idea of enacting a temporary ban on the technology until the risks can be appropriately managed. In 2020, it's safe to say that facial recognition technology is a bit controversial. Activists have spoken out at length about the problematic ..."
-    publishedDateTime: 2020-01-18T16:06:00Z
-    sourceUrl: https://tech.co/news/eu-ban-facial-recognition-technology-2020-01
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: https://images.tech.co/wp-content/uploads/2020/01/17152526/eu-facial-recognition-ban.jpeg
-        width: 1920
-        height: 960
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z
@@ -621,6 +621,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "/pEIHkOuV0n+j2MqxuNVLH8Svc2+Cr3XnG/h4zrMUmTVkLbkaUDiOZ2XZyLdom6aqr3Fm1VUXLK6ys8ora9csqobniHguEj0+MypnG2sjOoO6YNUuEvfptCupz69e3sy3aUN8fv4+8yU62c4NFnNtKV2gz9bqq9pBbeVJ7jrQGbWlaSX38RM1i5aNW02KQAjwVv8ExRV2ckyIKGAVrzYzkAZEqqEmTpctVF1vZiyljbli1aYnvqKd3RYBzZVRjF6GH+WWVodniBlT8UpsVJrSUIXC1oFM6m/sMmtGT7TK6L51Ad/MCEdHPKCQsr4FFcBeVavjFCFNS0FMiOKhBw9f9JcDaqoOYhZoydM3Qhjk4qtPltpSbFY/jvJp2W0IKU2+4wpv4lzy3O1RlHCLyYBcs+shVlXy0GF5dHK/4Bhes9OEakk+a5Ry0f1zduD1DWue7FschYama9Y/DX9Kc+CIA==;SGYxRrfXIw8Rw1EqML6FoA=="
+secured: "mBqGwMhdab+YENgFfqyjvC5V2Z0B1KUh0U3PUM79MSs80u9zHEr0+cGMCPKpyF3p4LpUDg3JDTdwY30KaPJDhA9gFt1gaG9W76eCJsHP5vQXiJUOSazjxi5gV5udl89voj44Zj1bKHbA5i/kB6218Ng2UYvMO1AZiFze6DYscAx4YLzKQTFu/ng+Ak7cL3GBSAquIs+oNJoeK1Hb1y7JZig2OpM2LrP6lkZ+Zd5A+INpCjLjB0Dfw0hLO8895HMt59M9lyeXFRmBQg5uoHfxiZS6UoOMPl87LX9vdUUcu/U=;SmNnx3N9R5XMeosMe67gfA=="
 ---
 

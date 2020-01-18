@@ -3,7 +3,7 @@ category: news
 title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
 excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
 publishedDateTime: 2020-01-06T06:37:00Z
-sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/?_hsenc=p2ANqtz-_ucienVNAlV7PYrc8Pz1SdpbQZM1e6fOgT2csx5o75U-OoWGIFoIWftsKvfLkMBOeR_vMULzw5v9Q-IemMihui_cvgvQ&_hsmi=81510974&rf=1
+sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
 type: article
 quality: 66
 heat: 66
@@ -23,6 +23,6 @@ images:
     height: 497
     title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
 
-secured: "PqhKBf8WdpJK1tZlNflIaBZb22HesfBOaDwCUGj9tgpH0eYTf9G1DasjNXtwANOl1O/rM7n+5kFe5UKqAtqy6JFng2sbf2kSKvb439cvd7ygsVBABq+j2zUlb071NnkkwzFZ1SvSgL1xfoFqYMv9UgvFdB7ri9QGPccqs4+N+9vKgV6llY9JmFxufTb4B7AfWIFFDWYqBVRW1uoNcWSF9iEhH7SNrMg16utRicgenZ9956UB3AqFWtkviKPk59gpcQYZeAm1MsQ+/8AUzr/3nfTvUh2A9loD67MqqNIluWVUWjYELn9Rz1UpdeZsBuG6fCbd7YJuvl0lhv81ZpgAFcBemfdnpz2bzl5/4XCLTQnzEwzNJzCa/Dh21a5Xsxg7vCZlCocMJv4Hz4qZ10+RK9jB5rrYW6GJMHCmPN8MxTP1Wjz5CcrPrtpHC9p6oe4WdJSjoZMLPpXTg1+d75eQsw==;Zlij/PlSy0wt58SsZ5Rk5A=="
+secured: "vh5SaDJyL/M7rTi+Vkao7k6OmuxHE5ACbs+70c9gU1OOfUJ7JwFAiyOksfeyhzFbnm3+g9jOKr8HUbsdYK1yOlId2f3mIwUPiRsjPzinEn4y5bCK2MCYTLvW8flpyFY+IsbOUSpJSsz88Y8v13Rf02nYefyBy472YYYLI7xC/6shYl4IVX/74mcNazE9FinAJDlnBL/JQiSwiRkFNMvDaGmcJgxiXcisXH4xBLhhk3XgEu6TBfcDnYiJ7+FOTJ/SGws7oIWfS7JzZVQZE3ZyBAJr8BlqvnRmn4m6j2SKvVU=;UnYGuaA+knyYrvXi5n/P1Q=="
 ---
 

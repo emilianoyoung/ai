@@ -461,6 +461,19 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-the-eu-might-ban-facial-recognition-tech-for-five-years.jpg
         width: 1280
         height: 720
+  - title: "EU Mulls Temporary Ban on Facial Recognition Technology"
+    excerpt: "Facial recognition is on the cusp of its biggest ban yet, as the EU is reportedly mulling over the idea of enacting a temporary ban on the technology until the risks can be appropriately managed. In 2020, it's safe to say that facial recognition technology is a bit controversial. Activists have spoken out at length about the problematic ..."
+    publishedDateTime: 2020-01-18T16:06:00Z
+    sourceUrl: https://tech.co/news/eu-ban-facial-recognition-technology-2020-01
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: https://images.tech.co/wp-content/uploads/2020/01/17152526/eu-facial-recognition-ban.jpeg
+        width: 1920
+        height: 960
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z

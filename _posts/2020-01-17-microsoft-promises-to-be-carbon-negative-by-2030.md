@@ -36,6 +36,6 @@ related:
       domain: commondreams.org
     quality: 37
 
-secured: "4G1LEEfnHjadKs/3iOTOmTk8PO3PW47JIVolS3kd3czGlfnzkQl10DsCpEmn9HeNfTOxNh/wWynrfQNtzPNOyTjsBqwweM5NwkWzAuDcm+caqM3q3Hu3XmFHOV7mnZelEqhdNHgo3LMq26x4bQO7sj/qFG7ev9Z01RX3CzBCIubeNKpR9KQff+fnCrvqifsnjtqEcAbvtPciW+N40o9LdK7wjWT+VOItZrNlLtnxjnImpeBtGLp2VqgKgBCnI7BP2cW//CuUZOIQVNOPYs1Ko8/MHXTAC5rIh2Jy7ZwjGCc=;altKJ+EjrDuTyE+FJA6/TA=="
+secured: "9t7XhWKBFs8z7rvdFz+m18eI9rCNBb0DKLdqwJETmlReqbJTbFHS30lqBn5pyVsfpztrJqrNtlpaqqGeJEpccabMWtnBIy8l4ZmuEMFVSHnMaLWRMFnE/r5sq3AJheUTqJPOvPE3glEE+GiG0++17Dq1yCpncXx4I1i5yWI/3YOmaSZ5O/pvg13CVwmjpoEbOxE8NInBZ16yEsS+mlI33GhkP7Z9uGsTnvMv7yJbP2N07rFzUbYACeZu++QEkLDJi68V4UC1Z+Lm/pWe6unWuHZx4NNKZl76hHb5RLKAVN4i8wfY9EJmfHYVjhBosh5rVAPalu+Er4p3rj/vRjZoKFeNEHZF5eBG3qOp/OgHfaVkX/ATF2HGXvAOD+osEzHecrW2S5yK8GVL8sGvlW1Jz1X6lKHD1jfSE3v+yjeiRtW8wmSQNizMxb+lV3w7Ds7rDLLU+4qIUEbv0py8kXLOqQ==;mhq5/Rbl1SXg8U1/6V5rtA=="
 ---
 

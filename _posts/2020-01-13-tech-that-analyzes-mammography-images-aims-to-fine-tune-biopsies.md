@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Tech that analyzes mammography images aims to fine-tune biopsies"
 
-secured: "Wkqy+Plsa48FpZ3yCbXBsJJtdXpWXPbNkDPUIbqUjraq8wyO1IQUVnVr2lLypzz6k/wGR7wP/CitcWaJdl8kBr/Dbm5B+M/jEUR/TWnj/BWRkgPNSBjiD8NzErsJNUgmlE3JOedBp+KoSKoRbNJReBCsIkr2gNvWS1zfu3qM6H1Dt5lxoqI6TrpF8Z37ShOlYp2oY4+ne8HjsTqOeAYpx15cYvVENneiVaPEZ6lbnCokIt8/0AXPkAxZzi8tjkmT/s/lV1kh2bsejI93jAzThjE1dxYuWaRE3D9cZ1TfuSs=;HVjYjqwnkHMiUkLMN+Woig=="
+secured: "ZBP3EKLw/8E9fa9OaFT+NgpHRG+QwZqFZiuZYn5bHqfmK2prgkp6yeB67iUWRh7kWg+DK8tuIcRbdswboHtAKHdbW3j3UTXH7LN8+pz640htP0GnMqnZsJ8kv+79i8y8TxMwd5cpqFCeLfOBsdZQM7qwpCvn+LXwqZyURro1L9MZ+1kY7YZ6IEE2yf61rWSNsBmYUj1TLBkE5zAkh765mtI2N5dBlzCb6o0Tc8ILT7odGdO/VzZueay7RS/hlt1MycOGaFhF+zBkZNiOsWZZW3r7iY4Yb/dU+uyBQfzVbIpCszTXQKi+KfTqd24UKzWfKIWMRewau3hCf33XZhSvqhQ0y6jNxsW8BloKIY/UlTF/JvejA+HO2Z0QpVJR5rKdzeEDh+FlF9unlrE3lTC7kwC3cx/P94C49uG9dPUrbgEL3LvFCrwA0YB68lA/bZWpBYys4bPm9xW02AEKJZTxnA==;Y5xH9SHNd+CtWhIJl86M1A=="
 ---
 

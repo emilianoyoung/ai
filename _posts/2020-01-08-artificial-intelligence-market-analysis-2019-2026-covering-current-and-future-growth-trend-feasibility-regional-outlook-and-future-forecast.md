@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence Market Analysis 2019-2026: Covering Current and Future Growth, Trend, Feasibility, Regional Outlook and Future Forecast"
-excerpt: "Posted on Jan 8 2020 4:51 AM \"Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc,"
-publishedDateTime: 2020-01-08T06:05:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-2019-2026-covering-current-and-future-growth-trend-feasibility-regional-outlook-and-future-forecast-2020-01-08-2197555
+excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9."
+publishedDateTime: 2020-01-08T04:04:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-2019-2026-covering-current-and-future-growth-trend-feasibility-regional-outlook-and-future-forecast-2020-01-08
 type: article
 quality: 33
 heat: -1
@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
+    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
+    publishedDateTime: 2020-01-10T20:05:00Z
+    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 37
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
+        width: 2000
+        height: 1400
   - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
     excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
     publishedDateTime: 2020-01-10T13:00:00Z
@@ -82,6 +95,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "6L1FZZWUHX6uwlmpMdyfs5UMRUuXObmUvRPpguY9zWACVVL7HuDMy6JLsBrtpI0xKgW4smdJdQ3gSqiepre3EublA3w8K72GLtqxzyY8KTk58o1hwZeIK2f4jRYYufLOePP5xzOlakWcuqycHlsMOGebwZbR/33HOMMfrbSsJdRz4GF92/oRgdslUGCZHmYOScGRNEvUOqs56wpIBxYpACeLtb5Dw6jksgE03ZE8YIOeZuyCsuXmuCtzMNfWxZjd0Qp+zxkJF40IEOLyL8+tGLpsSRLiI2QyUQAZ2hOUhuw=;CLio42vmr74tUKP+5C8JkQ=="
+secured: "UVEL+q6L7Qy0PC95QloTeKw5JO5QHvxCndlurGyqQj1opxAf85zeEhUCcc/GDVR5m4YQo4ieTdC25EAvokIY7LKJScyR1Jwdr0JzFAEsEgzyOaGqcuWo61sfob+lLV0bw7u73Oy04eZ1F3uEIXut3I+qQrNu7T/UleVukGg9cvFbHDqqzPH0waI+DRkOEfUBiqeQyjo/WZvAaim7C94W9Gw8M2rNd1uqqt19eh/bLHqCYhi4Pcfewgjo7UHg1gt9b/PQMmO5kNfHT124nIiJw0Wc8zPSp1X4MTMAMM0dja8=;rKzc1TBstOVSpk7vrmN+eQ=="
 ---
 
