@@ -8,8 +8,8 @@ ampUrl: https://amp.itweb.co.za/content/mYZRXv9PbaBqOgA8
 cdnAmpUrl: https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/mYZRXv9PbaBqOgA8
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: ITWeb
@@ -24,6 +24,17 @@ images:
     width: 814
     height: 459
     title: "AI, analytics drive 4IR in the public sector"
+
+related:
+  - title: "Alteryx: Intuitive Data Analytics Solution Driven By Industry Tailwinds"
+    excerpt: "Open Source Software There are a wide range of open source tools available for data analytics including R, Python, Pytorch and TensorFlow. These tools are less intuitive and require a basic knowledge of programming which limits their widespread adoption. It is possible that these tools will be made easier to use over time increasing their ..."
+    publishedDateTime: 2020-01-14T17:11:00Z
+    sourceUrl: https://seekingalpha.com/article/4316758-alteryx-intuitive-data-analytics-solution-driven-industry-tailwinds
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "hs6I415cWx17ZAv3dnFwwzPN/watjcX1o9y/oIxr8EzaMAaaSs1g9AQb+flLiLctI0iQCDo2TCPinGaEvyB3tgFJMncywGiAs8fHOvirxZJ0Xo6O8gk+gaR2CUSOwW5S2KCCANvGPB8hZpKPXU0KVd9oFMboW1Rfg8HJ/G9Kl55zWc3n9HBpriKOFJ5qsUFNs1NyEMCTi3zCxTCqcsiwQhy25HTwfncw9DlBWvyA+onQM3SlWacpCVhq/Qu2VIEKG67lIhlhdHnmxbQEBgF8M8xLxeAt8Y5GKaXL2YCzep/RjcNFPPYnMH8yR7b80eFlJegrw7eNXxesMHRG7fJIawUoPRwOLzgzeuH/TZT0bKTTKXD3IzsyROkD+nhxor07SyQ7W3kZ5dLZ4f7SBVpYKZtVEZYHdSgY+9GCUZoTMYTJS5qLTKqy+S9yufR56HsKUu6ybZY1TzA6Z+rQS3eatw==;6gUbgRpO+vJxdLPDX6myRg=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-ct
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/
 type: article
 quality: 106
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,47 +30,21 @@ images:
     title: "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI"
 
 related:
-  - title: "Meet the robots that may be coming to an airport near you"
-    excerpt: "Robots are staffing airports around the world and performing such tasks as check-in, security and concierge services. Nearly half of the world’s airlines and 32% of its airports are seeking a partner to further investigate robotics and automated vehicles in the next three years,"
-    publishedDateTime: 2020-01-11T20:31:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
+  - title: "Maxar’s space robotics head Lucy Condakchian is coming to TC Sessions: Robotics+AI"
+    excerpt: "TC Sessions: Robotics+AI is creeping closer by the day, and the agenda is packed ... Students, grab your tickets for just $50 here. Got an early-stage startup? Book a Startup Exhibitor package for $2,200 and you’ll get four (4) tickets along with a demo table to showcase your company at the conference."
+    publishedDateTime: 2020-01-06T17:05:00Z
+    sourceUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/
+    ampUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 113
     images:
-      - url: https://image.cnbcfm.com/api/v1/image/106328864-1578670951519preview-1.jpg?v=1578671880
-        width: 2849
-        height: 1875
-  - title: "Cultivating robotics and AI for sustainable agriculture"
-    excerpt: "Root works closely with a set of growers who have granted the startup access to their facilities to run product tests. The growers provide feedback on experiments and the types of features they will need for the robotic harvesting system to provide greater value. Root also is using AI and machine learning to teach their robots new tricks."
-    publishedDateTime: 2020-01-14T14:31:00Z
-    sourceUrl: https://www.controleng.com/articles/cultivating-robotics-and-ai-for-sustainable-agriculture/
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 69
-    images:
-      - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
-        width: 645
-        height: 350
-  - title: "Pittsburgh company IAM Robotics is hiring and moving to Strip District’s Robotics Row"
-    excerpt: "IAM Robotics’ robots, dubbed Swift and Bolt, move about the warehouse floor completely on their own. “We have the only robots that can drive around a warehouse and pick up items off of a shelf by themselves, using computer vision and their own ability to see,” says IAM Robotics founder Tom Galluzzo. The robots then add those items to a ..."
-    publishedDateTime: 2020-01-16T21:10:00Z
-    sourceUrl: https://www.nextpittsburgh.com/latest-news/pittsburgh-company-iam-robotics-is-hiring-and-moving-to-strip-districts-robotics-row/
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 17
-    images:
-      - url: https://nextpittsburgh-images.s3.amazonaws.com/2020/01/15143003/unnamed-1-640x480.jpg
-        width: 640
-        height: 480
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/lucy_header.png?w=1024
+        width: 1024
+        height: 558
 
 secured: "sH0T25mDhb6iMrQ3K9IhExGTF9EuvW8n0bPg+62rU4Megn0ohu0T8M+RTvOlYbDhzoj90BqckOGX41zDfcRo92f0xYCnnDBKOmQuiimDkE+Rcp5Uw1TatLieymgC1an/h9vHeeyga1974gOZyA8YWAYPy019bSTJ5l1kQfX1aJZxLCJCo/8LZQXtthMH7kQiSC/4Vyx2JiO9FWyyOgXRJCXVU1sxYdRe1ySmLCDJDTBHVVEp4e5sHlQZhAaAMm1AhYPW2k+iowxD3sfYvn3e3X1uhLPNkp7jJi20uclRHfEaRsxyWRrxBMHpP/uPXzANKjy9GYsdaP2Cp6YyMZ716++cypEVfawNWpFkMsNnzB9HNu8yLK7fP7F92Hoqwrk2GhF0MZNyX0QUWKSE/f79D1VrqZ5EEiWTUefrQGygtexL9AnLHdZqK6tGXRdwUhgf9CCfk9f2rpimJX0CgY6Exw==;YkgrzsZ2d0CgqpCFVTTB4A=="
 ---

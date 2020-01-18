@@ -7,8 +7,8 @@ sourceUrl: https://www.theverge.com/2020/1/14/21065141/google-coral-ai-edge-comp
 ampUrl: https://www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud
 type: article
-quality: 189
-heat: 189
+quality: 191
+heat: 191
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: https://cdn.vox-cdn.com/thumbor/ttwWM7P7I6eYsZ5rb-kB6B6jBXs=/0x0:2000x1125/1400x933/filters:focal(840x403:1160x723):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66098768/google_coral_edge_tpu_accelerator_dev_board.0.jpeg

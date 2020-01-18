@@ -24,49 +24,21 @@ images:
     title: "Cultivating robotics and AI for sustainable agriculture"
 
 related:
-  - title: "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI"
-    excerpt: "and is co-PI of the Center for Human-Compatible AI. Last year, Dragan was awarded the Presidential Early Career Award for Scientists and Engineers. Van den Berg is the co-founder and CTO of Ike Robotics, a self-driving truck startup that last year raised $52 million in a Series A funding round led by Bain Capital Ventures. Van den Berg has ..."
-    publishedDateTime: 2020-01-11T11:27:00Z
-    sourceUrl: https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/
-    ampUrl: https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/
+  - title: "AI and robots could be the future of agriculture — Strictly Robots"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
+    publishedDateTime: 2020-01-16T21:53:00Z
+    sourceUrl: https://mashable.com/video/farmwise-ai-robots-farming/
+    ampUrl: https://mashable.com/video/farmwise-ai-robots-farming.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
+      name: Mashable
+      domain: mashable.com
+    quality: 87
     images:
-      - url: https://techcrunch.com/wp-content/uploads/2020/01/robtoics_ancajur.png?w=1024
-        width: 1024
-        height: 558
-  - title: "Meet the robots that may be coming to an airport near you"
-    excerpt: "Robots are staffing airports around the world and performing such tasks as check-in, security and concierge services. Nearly half of the world’s airlines and 32% of its airports are seeking a partner to further investigate robotics and automated vehicles in the next three years,"
-    publishedDateTime: 2020-01-11T20:31:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: https://image.cnbcfm.com/api/v1/image/106328864-1578670951519preview-1.jpg?v=1578671880
-        width: 2849
-        height: 1875
-  - title: "Pittsburgh company IAM Robotics is hiring and moving to Strip District’s Robotics Row"
-    excerpt: "IAM Robotics’ robots, dubbed Swift and Bolt, move about the warehouse floor completely on their own. “We have the only robots that can drive around a warehouse and pick up items off of a shelf by themselves, using computer vision and their own ability to see,” says IAM Robotics founder Tom Galluzzo. The robots then add those items to a ..."
-    publishedDateTime: 2020-01-16T21:10:00Z
-    sourceUrl: https://www.nextpittsburgh.com/latest-news/pittsburgh-company-iam-robotics-is-hiring-and-moving-to-strip-districts-robotics-row/
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 17
-    images:
-      - url: https://nextpittsburgh-images.s3.amazonaws.com/2020/01/15143003/unnamed-1-640x480.jpg
-        width: 640
-        height: 480
+      - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=
+        width: 1200
+        height: 630
 
 secured: "deoAKfJc88/DiMaMv0offO4FYE5Q7vKXADYo1PYOsKQPwLqdNVGJOODNewp0C+RIFORHWduv2VxUz+vD03t/M9nH8wSk3zorFe69fucIZZa2RnE9yTZm4Xka6CoipIgkFbTfQz8ya2HXmIHGilIHhhs2w+qpqA6VLyJKpeUK5g7y4Hd1axlKxIJAxepjyAHy37rwLOzZfmNvnmbLNAVhNC6BhYKI9k8SoZ8Pam+VmeqIHbu2bRUtVOftPVIwbieWjAbydAQB7xx/i2tm1bfEELFqwx2IIB1reMMNgDACcFQ2l1XleIdJkK9z36kQMYt3ZTTUc2JqQRC6zZZrQkBV40aiZL7Dr5EaSF3H5xFIF0X7oRpPehqTW8+zKkpOlOE5SC4X+boNQDEaAXZOu0Kg8StqxjU6qF500N2WHCJib0ZfNuV/lqPvYvMKD0glGC41yXZeXywkRlbxr2Y2yPfzkA==;4lG8a0xr2NWsJ/yHFDKkvg=="
 ---

@@ -7,9 +7,9 @@ sourceUrl: https://www.demandgenreport.com/features/solution-spotlight/tealium-l
 ampUrl: https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp
 cdnAmpUrl: https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: Demand Gen Report
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: https://www.demandgenreport.com/media/k2/items/cache/2d88ab916503b4690740bdbf348148be_XL.jpg

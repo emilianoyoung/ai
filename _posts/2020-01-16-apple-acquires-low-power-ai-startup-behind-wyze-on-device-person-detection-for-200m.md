@@ -173,6 +173,21 @@ related:
       - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/02/Apple-logo-shutterstock-650-e1552381548177.jpg?fit=650%2C399&ssl=1
         width: 650
         height: 399
+  - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
+    excerpt: "Apple has paid almost $200m for an AI start up that specialises in bringing intelligence to “smart” devices, in one of the largest in a spate of acquisitions by the iPhone maker to make up for lost ground in a key technology. The company’s offer for Seattle-based Xnor beat out approaches from other big groups including Microsoft ..."
+    publishedDateTime: 2020-01-16T01:22:00Z
+    sourceUrl: https://www.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    ampUrl: https://amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8ea5f6b2-37e0-11ea-a6d3-9a26f8c3cba4
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb59f287a-37f3-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
   - title: "Apple acquires on-device AI startup Xnor.ai for $200 million"
     excerpt: "In brief: Apple is on a spending spree for AI startups, and the latest is a Seattle-based startup that makes on-device machine learning tools that literally sip power and cost very little to manufacture. Apple's latest acquisition is Xnor.ai, a Seattle-based startup that focuses on low-power machine learning tools. According to GeekWire ..."
     publishedDateTime: 2020-01-16T13:48:00Z

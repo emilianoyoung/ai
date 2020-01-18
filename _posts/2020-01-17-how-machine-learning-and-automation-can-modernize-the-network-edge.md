@@ -5,8 +5,8 @@ excerpt: "A data-rich, highly dynamic, dispersed infrastructure is the perfect e
 publishedDateTime: 2020-01-17T21:51:00Z
 sourceUrl: https://siliconangle.com/2020/01/17/machine-learning-automation-can-modernize-network-edge/
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Finance
+  - Google AI
 
 images:
   - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/web-3706562_1920-geralt-pixabay.jpg
@@ -33,7 +34,7 @@ related:
     provider:
       name: Nature
       domain: nature.com
-    quality: 39
+    quality: 41
     images:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-57549-y/MediaObjects/41598_2020_57549_Fig1_HTML.png
         width: 685

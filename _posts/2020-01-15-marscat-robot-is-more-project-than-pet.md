@@ -39,6 +39,19 @@ related:
       - url: https://tr3.cbsistatic.com/hub/i/r/2019/11/21/6a5a10a3-8789-4a91-9f3f-ba7b503e08dc/resize/1200x/ba19e2b5ae134b95fc156867f97ea074/your-robot-coworker-just-wants-to-help.jpg
         width: 1200
         height: 800
+  - title: "SD Times Open-Source Project of the Week: ALBERT"
+    excerpt: "Google is releasing the project as an open-source implementation on TensorFlow. The open-source version of ALBERT contains several ready-to-use pre-trained language representation models. “The success of ALBERT demonstrates the importance of identifying the aspects of a model that give rise to powerful contextual representations. By focusing ..."
+    publishedDateTime: 2020-01-10T14:10:00Z
+    sourceUrl: https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-albert/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2020/01/wood-cube-473703_640.jpg
+        width: 640
+        height: 426
 
 secured: "qXZUeZFkthQtShgZcGz008IDgEWlv0I1o9hqnuf7Xc3dIDidt8CQPv9PuhZGx06/QjLU/OOUfE6gSNY78BcTdxfNegO6pFQOyk0nCYou87cyQ/yehhrx9Z2LRbO/o+zvQ80QpoGC9ZchMp9DSO0cgQNv1l7jLGdZw8a7OvDO66gf1UyNHuhwbg8ZKf+7a/OCBoZA/63T/3nrvORmow6gno15wkRmJUKOoy7bYh2KHeFOBHfchhhfkNpqVLf1yVygh0UiL5hgmhTkzSt80uUBYjRlhf3qKMFGER3Vlm/8isP3fHcMbgO+e2Bo//pfw2IGwBwSe0KGxFZ4jhjH7RbkG221bhK/ueeIuI3nwQOFsmJWcSDcHz3v5WlQ6dnwxHEF+Wj0w76OeTRL63R1Hu7spCIglSYkKupbI2rl9fDk3wswoOzuWrZHsv+Ho7awhJw9btIoOdGtIAeJzN2q174ovA==;DmHcVsOCUlPGVil9iPqiXg=="
 ---

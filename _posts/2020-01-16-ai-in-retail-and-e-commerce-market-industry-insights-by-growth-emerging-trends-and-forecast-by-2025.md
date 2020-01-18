@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T08:26:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16
 type: article
 quality: 53
-heat: 73
+heat: 63
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
-    excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
-    publishedDateTime: 2020-01-10T14:15:00Z
-    sourceUrl: https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "bGMEaCArYnb6mH+pSjFwukTS3M4a3Rs0KlZagm6YHJ+cCYXLhMkYElgF3iebtRjeHi05Spp8PvReGPTti/KS64QrQKSB/dFqdikqdSMrfvox15cMqpaxXDGOmKX95v7cp3TD8wOCnp3hUgxcUXwFZ0KaP3oi/E6gsNUTGon3OTn5da/NokwAPSWwBRasvwBEiogyT9L0iB+ntX04el7fecmr3Y3ZMLbsJjksMw53MKt3DbicAwsm16u7K/SLSmsvKNCvpXFKA2FOgBOxSf1NbtPstAXmh+VedVJHMqADC3U=;g9YG39BRVs6f5b9gkURMow=="
 ---

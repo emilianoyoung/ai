@@ -18,28 +18,43 @@ topics:
   - Computer Vision
 
 related:
-  - title: "AI in Retail and e-Commerce Market - Industry Insights By Growth, Emerging Trends And Forecast By 2025"
-    excerpt: "Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
-    publishedDateTime: 2020-01-16T08:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16
+  - title: "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft"
+    excerpt: "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market."
+    publishedDateTime: 2020-01-15T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 61
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Manufacturing Market : Key Facts and Forecast Predictions Presented Until 2025"
-    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
-    publishedDateTime: 2020-01-16T12:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-key-facts-and-forecast-predictions-presented-until-2025-2020-01-16
+  - title: "Cognitive Computing 2020 Global Market – Opportunities, Challenges, Strategies & Forecasts 2026"
+    excerpt: "“Cognitive Computing 2020” WiseGuyReports.Com Publish a New Market Research Report On –\" Cognitive Computing 2020 Global Market – Opportunities,"
+    publishedDateTime: 2020-01-09T08:55:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096514/cognitive-computing-2020-global-market-opportunities-challenges-strategies-forecasts-2026
+    ampUrl: https://amp.benzinga.com/amp/content/15096514
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096514
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
+    images:
+      - url: https://www.abnewswire.com/uploads/1578562921.jpeg
+        width: 600
+        height: 400
+  - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
+    excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
+    publishedDateTime: 2020-01-08T18:46:00Z
+    sourceUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "5bQYAFkRYxCzXze65SB1hziS6zPi5b9Nc6sD/G/3Ow4e9zwukpWaPe67Q07bmovUEVyeVG1XgxywPOSR3ywClzfZprKx4JNdpj93siTOFb2EqHGlMRPy0o57K8L6JZIVlFOuh5QJ7YYc6VVZ30BYqAryURpOnEdAgjIL+ZBXehTSbrQPTy1taLjmRNU3qv8W3nMsndC7U7ElP9ZN+UTQLCuo2bAJZTw4QZEb9pv32FddiuVSLhuAYz0DJAyEO87s/bvSJSbe5Sc3CU+4AKeK0ELr7MA6I1ZXVwLCvbSDtjY=;uhA5nJRH4A+2TVKDrOg3HQ=="
 ---

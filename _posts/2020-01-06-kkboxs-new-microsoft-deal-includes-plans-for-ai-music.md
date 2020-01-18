@@ -37,6 +37,19 @@ related:
       - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
         width: 1200
         height: 1555
+  - title: "Microsoft Introduces Power Virtual Agents, a No-Code Solution to Building AI Bots"
+    excerpt: "Another use case that Microsoft has identified is in the area of Human Resources ... While Power Virtual Agents has been designed to be a no-code tool, it has been built on top of the Azure Bot Framework and Azure Cognitive Services. However, since no code is required to build a bot, a graphical interface is provided in the service that ..."
+    publishedDateTime: 2019-12-30T17:41:00Z
+    sourceUrl: https://www.infoq.com/news/2019/12/Microsoft-AI-Bots/
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 49
+    images:
+      - url: https://res.infoq.com/news/2019/12/Microsoft-AI-Bots/en/headerimage/coverimage-1577724458394.jpeg
+        width: 1200
+        height: 630
   - title: "Sketch2Code at Microsoft AI Lab"
     excerpt: "Computer Vision is a discipline inside artificial intelligence that gives an application the capability to see and understand what it is seeing. Using Microsoft Cognitive Services, we can train Custom Computer Vision with millions of images and enable object detection for a wide range of types of objects. In this case, we trained the model to ..."
     publishedDateTime: 2020-01-03T09:33:00Z

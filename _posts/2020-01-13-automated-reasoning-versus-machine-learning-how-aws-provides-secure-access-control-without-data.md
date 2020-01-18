@@ -5,8 +5,8 @@ excerpt: "Turns out, the same goes for machines. The intelligence required for f
 publishedDateTime: 2020-01-13T18:16:00Z
 sourceUrl: https://siliconangle.com/2020/01/10/automated-reasoning-vs-machine-learning-how-aws-iam-provides-secure-access-control-without-the-need-for-data-reinvent-womenintech/
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Neha-Rungta.jpg

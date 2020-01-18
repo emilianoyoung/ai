@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-r
 ampUrl: https://venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/linkedin-is-using-ai-to-spot-and-remove-inappropriate-user-accounts/amp/
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2016/04/20160325_135925-e1579206214251.jpg?fit=1200%2C600&strip=all

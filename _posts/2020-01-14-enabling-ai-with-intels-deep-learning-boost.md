@@ -5,7 +5,7 @@ excerpt: "Getting more performance out of a system to handle machine-learning (M
 publishedDateTime: 2020-01-14T17:15:00Z
 sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ topics:
   - AI
   - Machine Learning
   - AI Hardware
+  - Google AI
 
 related:
   - title: "Don't want a robot stealing your job? Take a course on AI and machine learning."
@@ -29,7 +30,7 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 117
+    quality: 119
     images:
       - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=
         width: 1200

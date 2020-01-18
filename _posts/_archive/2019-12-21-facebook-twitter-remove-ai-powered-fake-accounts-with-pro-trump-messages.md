@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages"
 
-secured: "LdrI3waKdk8kGnZt8PV53u4YAeshG7Jh3w1tqXtjgPpWgK3PtU/uzWGwrMvDxHkvLjz8SDNxYY392Tsmzdy6inrC7rbj0aX/DXYXezE90gWpHoyBJRCxo9nm/iovssilT98KdL9FJMI+5zvliXyTAAXdSVt5cnh67SMCKAPhxLZL+y/NLulKGlCkm/z4lNBx6KF6owWsfAmPhPN1D8Cqd+wIWVZt884LaIdSDIiK6hLf0Hh9Je1rE3lWzp70lYcFgR2RAU4QQmIMl0R0moEf19KTauYOsetrE8XOfUnaqRo=;GXcxwpXDPnTKBrJLfcMiFg=="
+secured: "2CE0/mnTUffpTS5jSHrNJa8wIK5V3QgIlz/Bv2nuochw8tki2L2EjxF6VbWDtScLkR0i4mwZs7LshL0G6dFJV/iXR2hN7fRIVu9pbykBUp7c6lUO/UkWk7I9CdikFFWMU7ZE2RmEf/gv08Py9aP7a/7KXQYFDRPWCSQ4Gh0ySURvlnoYveGG3TSgfzFfq69x1CpxbhBWXRPoIyxqCt5l/xGQMf7oM4AA2e1RxAY86f45oretjE619sNuOOU3EyY7XHQbQB7eUJoAfQyErIxJyjrUPRX+jwYQNbt2D2Fhh5w=;BjmnvGEmOfhQxMpwsRu19g=="
 ---
 

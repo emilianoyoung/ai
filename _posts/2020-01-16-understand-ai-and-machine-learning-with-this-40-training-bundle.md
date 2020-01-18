@@ -49,7 +49,7 @@ related:
     provider:
       name: XDA Developers
       domain: xda-developers.com
-    quality: 74
+    quality: 76
     images:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630

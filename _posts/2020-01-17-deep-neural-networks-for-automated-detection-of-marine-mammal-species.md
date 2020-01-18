@@ -5,7 +5,7 @@ excerpt: "We show that deep-learning architectures are capable of producing fals
 publishedDateTime: 2020-01-17T10:35:00Z
 sourceUrl: https://www.nature.com/articles/s41598-020-57549-y
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-57549-y/MediaObjects/41598_2020_57549_Fig1_HTML.png
@@ -32,12 +33,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 41
+    quality: 43
     images:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/web-3706562_1920-geralt-pixabay.jpg
         width: 1008
         height: 638
 
-secured: "u7Ijs074RwrD4qxk6NYLZ0BJjca00M6e4R1/yBkdRXTpLimjlZlnH+n4MSIW50uORzmzlOrb2E+dHnvrd/1WUzAw9lHnlTFncA8pnY0p6zWfGv9/ZG3KDMVmUskyWYr3nfRtfxsEaSDBqytZyD1lqoeruI/NGw+xrfIiCARHFu11t2aOBcYC50hw8cU9M4HJrX/Fpsg6w20QYJvWO1QVaKaQF7Li83gf529DRl4WH1DUvAC7LZvHggZMMF5KCfTt2L3KeiEdTMwF+MTcvMGNrvzM76V/Ezqfzi1ywrvlUBo=;wWmruy/rtyQJF6c4g5zPVQ=="
+secured: "GHjVtLkczEqlwl4D1NQZ8GnhtjUFZS1jlezhrS6Ixqe+cdMgC0afQxsAVeAxQTyGyPkcwfSHIm+aFeJ6SFt03gZUQPKYAUo8SwmQzzVN092QvBnDv7VILvPdx7QQf9ptJ3K6WOb63nF1NOMYLPVFvhErRz4A+F+sHMMeABTVrReeY5oDIC69fyezmjAdq4lsnYDiSe1NsZQS6qd/8XIHvNvf4/9I63zh12XUHMMzcKLB9lHKdX8s8G0TVkpeFFpn+xu50ozNC2XL0xk6OSyXJIJ8RDFjwRm+XMUwxcW7uZ+QwdYrRQjA3byk3p+BkT2hsLc9SwQEQIX+Pz/8e0Wm3ECy6pxPcAsslTdez2hF0xtDYeczDFDxLrVHayOc7kwDhwTGi4iSOxdn4Ncd2oxbzU8NOoz+q5hqWc7soiLdDymC2tHtfFIUpP4I7m6FpsJqH/6zRxt0mAcbWAhqCPstcQ==;WdMEeDoNEW12Rq6F2sBzBg=="
 ---
 

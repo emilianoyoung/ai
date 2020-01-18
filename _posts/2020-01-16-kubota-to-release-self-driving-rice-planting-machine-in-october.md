@@ -34,7 +34,7 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 117
+    quality: 119
     images:
       - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=
         width: 1200
@@ -75,7 +75,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 36
+    quality: 38
 
 secured: "wCcJ7d84CRBv4/QHIrtNXntQkjy2ymHAsfqNOdn7Za4632vX14Upp2PVY6CVJtjtzJp/1H8ULnWhIjBWeat0yCdZZmNzshneMNmo5lGt/YiHonHS9dkoqReF0chzFTWkEXFvVAZdpw48lrJiDC+WuXk1HUCKqgaEAMT94jxr/wu9XI8dfVVPwJvkywIoBW9vLd0jW4OcLDcbnGjf4MHU0SV3OjUteOjFsxrXfwkyCd4vDg3rCS5w6ugy5LVbLIiKrWUvjfLcY43T7CuRo6s1O9XuBpkEL3cPFHRgrFlOxroiYxOu3D9fjEUeRwePbWcq/4pFd4TQp7PCNvSPSjZwezyxycFgOd6yiFQyDm6+Hpu38wvq56Bcuq9fExmEJinqVMkTEVC1IgJkYu57DsCvUmYcjc1u2qviKONDY+UqTC+LYKTrELG6+abQ/PuYmD1XnBXgbC0K36sBv7v8uTfXiA==;NUtrufi2zSRs7fkqowRBqw=="
 ---

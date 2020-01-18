@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/video/farmwise-ai-robots-farming.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -23,6 +23,21 @@ images:
     width: 1200
     height: 630
     title: "AI and robots could be the future of agriculture — Strictly Robots"
+
+related:
+  - title: "Cultivating robotics and AI for sustainable agriculture"
+    excerpt: "Root works closely with a set of growers who have granted the startup access to their facilities to run product tests. The growers provide feedback on experiments and the types of features they will need for the robotic harvesting system to provide greater value. Root also is using AI and machine learning to teach their robots new tricks."
+    publishedDateTime: 2020-01-14T14:31:00Z
+    sourceUrl: https://www.controleng.com/articles/cultivating-robotics-and-ai-for-sustainable-agriculture/
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 69
+    images:
+      - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
+        width: 645
+        height: 350
 
 secured: "e10qPYHnXHnEaagFPXLl3iAsFar6dXHWEBrjhN39EY7B5PPg8Yxe48NAFQGh1umL1R8kTIksGKFG+YgmtPY2GmD3bxaTCBDtkk1UMdhgkxdXKzPpRbnufFB3sxLotr6rfZFk2/f8rPkQ4Kdgai3JOJe0CVZ8DXnm67sfc9jdpbAUaDpCyJaj2VzocQAH4XPZIAbf5pP5OCUG84CctAUiUBQekF8gqgAzzCrsrJZaUjoI0V0zEKMd1m6/In2xMYkGNG5AqZbZgfPmD+hdqu0TPlI9Uwyer1526HZSw5iF+rzv1OUr9PEAulG1LaXtNV/T/DleBiSQ9kZYbn9ju5X3AGBe7XAg0OwebdrHdehAOynhY3Bs2NhsQpUnrO3Y79shUyl7hXTlw2OKgefJP4VHfUfgtFwwlS4wb5iQz7Lji6hJjs+gjvsB8F/6EPjUt+IiUNc26ywmKE846P1U3MNJ6Q==;GCjpYi+fN7UB4zS7Yn1qMg=="
 ---

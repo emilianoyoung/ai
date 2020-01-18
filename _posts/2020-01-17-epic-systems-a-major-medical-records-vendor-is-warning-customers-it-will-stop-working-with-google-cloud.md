@@ -7,8 +7,8 @@ sourceUrl: https://www.cnbc.com/2020/01/17/epic-systems-warns-customers-it-will-
 ampUrl: https://www.cnbc.com/amp/2020/01/17/epic-systems-warns-customers-it-will-stop-supporting-google-cloud.html
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/17/epic-systems-warns-customers-it-will-stop-supporting-google-cloud.html
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: https://image.cnbcfm.com/api/v1/image/106120359-1568071954183gettyimages-1135936634.jpeg?v=1578964019

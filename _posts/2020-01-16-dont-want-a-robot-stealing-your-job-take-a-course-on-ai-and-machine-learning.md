@@ -7,8 +7,8 @@ sourceUrl: https://mashable.com/shopping/jan-16-ai-and-machine-learning-training
 ampUrl: https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp
 type: article
-quality: 117
-heat: 157
+quality: 119
+heat: 159
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Robotics
+  - Google AI
 
 images:
   - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=
@@ -63,7 +64,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 36
+    quality: 38
   - title: "Kubota to release self-driving rice planting machine in October"
     excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
     publishedDateTime: 2020-01-16T07:45:00Z

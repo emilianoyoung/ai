@@ -40,7 +40,7 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 117
+    quality: 119
     images:
       - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=
         width: 1200
@@ -66,7 +66,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 36
+    quality: 38
   - title: "Kubota to release self-driving rice planting machine in October"
     excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
     publishedDateTime: 2020-01-16T07:45:00Z

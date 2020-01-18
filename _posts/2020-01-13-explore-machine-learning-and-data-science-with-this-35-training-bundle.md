@@ -7,7 +7,7 @@ sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-scie
 ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
 cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg

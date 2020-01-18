@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-mode
 ampUrl: https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all
@@ -72,6 +73,6 @@ related:
         width: 1365
         height: 617
 
-secured: "At+HNKC7/ol7T74zmM5uECyfzvCqPdYvfTzan5s8GsUUE545K7Q6Hy1r7JLkt7ZTlVSDCXe1DAXL9gL+MCZTDOTuL48bZ9mhuA/wwBSZowWZ4JvzP22Q3uUIfXz5Z0/Ce82L52FDC1B9MUw7U/X/VOZTC6aFIzh5NPzGNeK+tOMygKJ1W5PdBssiAfUei13Cj9lJllGp6E7hW9RyEv5vA+qOPkbDEpJQMKJ92SvcApdW2DioLP6MdQAvg8b3VldPYvKvflvE3EEM/CkrjvVVBrZuGti3qAGrb2nXT5Y1obs=;B9bYAXj/V6a7uzzM0Io94A=="
+secured: "bgYOdf5MGDxxXZ5iJ9X7wzxMZgF3W+dKB6O4PBX7JTV5ZucaQzJ/bcWIEBG5Loi+7id7wY2ffZ9B2qT+VVpDMDZamTPrqaK2ly/mQydg82Ki/+WGl4v8r1Lq4Et/byRBJuzZMOiqAyHy/vo9Xmn3HP8ZMKFsK9EKmOuKDoguBkqxiBJvbV97HzMsz08bQXCHdnBqBg7MKDSQtHlBMwsnwSKT4E1H6zQPU2A3uUHj5AI7FN1Xcv4NAN6DyNPdhUsCTnSP2GSaKoiLgzsnG6N1pyml9mtfB/U0wOkFgPJuHoCVgDivDkHEjpuYpzWaWhn+pjR0vXNsi2wM8P8lExj9SJcs9Mq7ZM7dcBDnLVjho7XNqYXYu1EtpB5wlU7SPxYJKn6cRhf/mX2kH11xqSBT3JSDWQEx8CpgvKHqKVrxFhwKLTgm9jEFnH6evuUV4ncsqDpB7GZkagfmBI4yy65ywQ==;zTsno+zBhhzbW1gBlMFR0g=="
 ---
 

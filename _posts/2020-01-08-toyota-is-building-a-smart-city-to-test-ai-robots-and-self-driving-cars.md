@@ -3,12 +3,12 @@ category: news
 title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
 excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
 publishedDateTime: 2020-01-08T10:21:00Z
-sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
+sourceUrl: https://edition.cnn.com/style/article/ces-toyota-big-smart-city/index.html
 ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
         width: 1200
         height: 680
+  - title: "Carmakers move from cars to building cities at CES"
+    excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
+    publishedDateTime: 2020-01-07T18:07:00Z
+    sourceUrl: https://www.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    ampUrl: https://amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa4e8f394-313b-11ea-a329-0bcf87a328f2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
   - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
     excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
     publishedDateTime: 2020-01-10T05:53:00Z
@@ -87,6 +102,6 @@ related:
         width: 1280
         height: 720
 
-secured: "jvuQWRU480C9+kWkYBq5yJHGZEzdb6Rj3avCCDICSvUM9JQ/TPiPYMU+6FLcFVjYDQSh1qGXqr2oUKFWGUxgLEe1PQ7ljqOtnuV/mgriOVC2Sdvl0ET0MZ0832Y6fhSxO9ulCcYqZsFVxDbEmzHIxECz8PFG5l9hdRLohQfg3mT56a7xgvKg8DJbDfDLC6bnmiMi8/HjtaU9qe7VfpgjMoM26/adZHwj37Auqt9ifeVzUaSC3CygXm5O7DNKohHkOOR5vGFFFBaSsbk3XZ4yFvpEl6a97X/RkYbFFI28rgc=;hqhL+UkiRUbwiVptVR3lbw=="
+secured: "R02Q7ek4UqcliPDDWCMhmuXa9Nt/RMzgZJz9gjsWkb+gHzz4AUXRkwnweOM/Sb4FSBlYgFeoSBbxWv4ru/ZZng/ZXjFgKq1agnbxtxp6rUXmUC8GvcqiowDCjgI7s/U9Ah6Dw1L8TWE1b0/M4U2jjt1l8efrHh3MkCdftjO+eslYfQLiruAtdr035xgfsDjFw/j5i8Mxv3VxTraDbEYgSUlRBG0hZPGCjw69x5PghEuyUDiQVpvRO1GaVCoIHsbKsbq1MDU8I9dGExhpKfgegzCsmAnysBnU5NEQvPlWinU=;Xc0Qvsktrko/A7Peo2M63Q=="
 ---
 

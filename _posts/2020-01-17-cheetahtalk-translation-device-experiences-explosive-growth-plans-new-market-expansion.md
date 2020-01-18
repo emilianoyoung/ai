@@ -5,8 +5,8 @@ excerpt: "/PRNewswire/ -- Cheetah Mobile (NYSE: CMCM), a leading mobile internet
 publishedDateTime: 2020-01-17T23:00:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion-300988836.html
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Microsoft AI
 
 images:
   - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg

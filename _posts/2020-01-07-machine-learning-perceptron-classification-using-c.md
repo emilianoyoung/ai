@@ -23,6 +23,6 @@ images:
     height: 450
     title: "Machine Learning Perceptron Classification Using C#"
 
-secured: "8KBIMDGOcdVMaBRHzdoElsaFWyUuqCytrHHM4iRCMYS3LAvnHxzwkbTJ26j1BA4LykOqQtAvioolL4ItuS8WiEQYWb9t/N6KxiGieP18oEp4L76TRCSbFkjIK9iQ60nnFjh1bmzfP9Pob6PWe3SREOl6WvVTH2RCs/GsvUEWAJKV/CC4ZKRfe2cm1AAXgTBo+h/U/SLro+6ztWbqqFkUQqp/ZyT4CL1HSiSAHsRoGZGlWL3RmI6+C9Gi97BOwvzNrFELyHVa6mOa9SJ6tYB03R5pVuYuynVTzbi5YS8dCUM=;2PBVEROaC1MrzyV/BrNoFw=="
+secured: "O1nys+/fopJi4Xcr4yTtZQbhIMv+XgSkwGUpo70/bzIZeE50oyRWIJ4K0MnP0vZ8ge8KzUZXfX7YILBrQ6gOVorlfNlvdyPUELypBFBx0rHCF6kxDomHiUuR4d9/f+RpzeclxVsF7OUDtWJstzXFesXh3r95USEFzv1u9Z7pFby/cDCEyXvss8VFXbIdz+V9NO9osw7JZyynbsXbU/wlM1FCNyhlSgH+RdmQ7OCec0soXsFvOcVloXP9Oh81MQhoe6inKywz1i+jl48fz27R0e+Kywvsqe81csEEB799RUAeTjxlZxro9izwJmOb4HTrguFe62jp14hFvndc77e3Uy+nHSw+wqLNmNaPoZ+igTntlPew7AQYg5iylKESD8djMdhS4g3skcraEYcVY4z0jqjxsVKM9CQqOW+4r7dm/SgIeRJETZ5TMlSqmcPLvODEJaKF/tsLYZK77qAOh7Kq8w==;+bVNDghRxliGb/mE9z1kqQ=="
 ---
 
