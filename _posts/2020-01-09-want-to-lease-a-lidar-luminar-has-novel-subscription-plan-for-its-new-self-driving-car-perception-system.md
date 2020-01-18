@@ -75,21 +75,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
-  - title: "The AI that allows self-driving cars to ‘see’ around corners"
-    excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
-    publishedDateTime: 2020-01-16T15:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/
-    ampUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg
-        width: 2501
-        height: 1563
   - title: "Feds largely leave self-driving-car rules to makers"
     excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
     publishedDateTime: 2020-01-09T12:34:00Z

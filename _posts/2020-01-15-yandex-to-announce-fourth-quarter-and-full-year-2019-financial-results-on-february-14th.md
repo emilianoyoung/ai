@@ -2,22 +2,26 @@
 category: news
 title: "Yandex to Announce Fourth Quarter and Full Year 2019 Financial Results on February 14th"
 excerpt: "MOSCOW and AMSTERDAM, the Netherlands, Jan. 15, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ and MOEX: YNDX) today announced it will report its financial results for the fourth quarter ... is a technology company that builds intelligent products and services powered by machine learning. Our goal is to help consumers and businesses better navigate ..."
-publishedDateTime: 2020-01-15T16:04:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15125568/yandex-to-announce-fourth-quarter-and-full-year-2019-financial-results-on-february-14th
-ampUrl: https://amp.benzinga.com/amp/content/15125568
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15125568
+publishedDateTime: 2020-01-15T21:50:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-yandex-announce-fourth-quarter-full-year-2019-financial-/2020/01/15/9081793.htm
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Finance
+
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "Yandex to Announce Fourth Quarter and Full Year 2019 Financial Results on February 14th"
 
 related:
   - title: "Ann Arbor District Library to hold discussion on artificial intelligence, finance Jan. 24"
@@ -36,6 +40,6 @@ related:
         width: 1280
         height: 720
 
-secured: "TrT9AjQrr9kJsl4UloNDmtbuJFdh+TjNUmYCfQIbiHvtBVeg0bgsWl7mMcipCOdY2COplFqAPBiiaBNtX/d9cMA1k/l1nDmfjBq+/pdewMbV8YUHs8v2e5jid97t2e6ye/YLLL6u++FcAgN3jzwkh2a54hslIQiLZ3KvZjTdqpREkScwvgGq2N+B9Ze7gJZ8qAlEWbZz4QRBbuJu/C/UJpgvqQTnoX1YKQrWtXsduBrui82b6xkdZ8LSF4C3ohoDlQq8eQ6E+yYaVjYmspxLJMyRql29J/lTTtlrsL3Gypo=;c4v+TW96HmxcwRO8rolDJQ=="
+secured: "ZBhyjgE/se+lY25EUJ+n9628jmXNKfVrnKWsHK0mkgq54H5eEh/gCyWywtUKbINYMVD1oIy2DewmxVdvVCD03yKCA6K1Zp+wsrSBdEXXT7W/ILA4b8j9wDtSTtxSiPKvuV15AyRPkFfEBHgJ54v2pFGNcWJ5c7ROVzbrT2P58Du0a0PMVzOszD9b9OvNXvwA9etRg2Dtp2L+hwyc1O31Rm/3nzHWX/abHC724lDJOu21Zsi6ywcDhzHfOMri/OxSmGvDAHTB2rRp0nOmG35s0Z8AWmqxUzXdbX13k7BQT9I=;bRw8Lg06rcTafvLtn3Y/bw=="
 ---
 
