@@ -129,6 +129,21 @@ related:
       - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
         width: 605
         height: 363
+  - title: "Face recognition mobile application in 10 polling stations"
+    excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
+    publishedDateTime: 2020-01-18T16:53:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
+        width: 615
+        height: 384
   - title: "Springfield councilors renew call for ban on facial recognition"
     excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
     publishedDateTime: 2020-01-10T20:52:00Z

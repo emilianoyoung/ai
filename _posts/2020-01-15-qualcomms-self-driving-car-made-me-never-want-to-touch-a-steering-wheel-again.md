@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
 type: article
 quality: 85
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -103,6 +103,21 @@ related:
     quality: 44
     images:
       - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
+        width: 800
+        height: 450
+  - title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
+    excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
+    publishedDateTime: 2020-01-18T17:13:00Z
+    sourceUrl: https://jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916
+    ampUrl: https://jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916/amp
+    cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916/amp
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--E8Ser8s1--/c_scale,f_auto,fl_progressive,q_80,w_800/ugisluglqvfjuwou1zyt.jpg
         width: 800
         height: 450
   - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"

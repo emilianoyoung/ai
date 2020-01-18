@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Massachusetts City Renews Calls for Facial Recognition Ban"
-excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
-publishedDateTime: 2020-01-13T20:22:00Z
-sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
-ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
-cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+title: "Face recognition mobile application in 10 polling stations"
+excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
+publishedDateTime: 2020-01-18T16:53:00Z
+sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
+ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
 type: article
-quality: 44
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI
-  - AWS AI
+  - Computer Vision
 
 images:
-  - url: https://media2.govtech.com/images/facial2.jpg
-    width: 940
-    height: 630
-    title: "Massachusetts City Renews Calls for Facial Recognition Ban"
+  - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
+    width: 615
+    height: 384
+    title: "Face recognition mobile application in 10 polling stations"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
@@ -129,21 +129,6 @@ related:
       - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
         width: 605
         height: 363
-  - title: "Face recognition mobile application in 10 polling stations"
-    excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
-    publishedDateTime: 2020-01-18T16:53:00Z
-    sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
-    ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
-        width: 615
-        height: 384
   - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
     excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
     publishedDateTime: 2020-01-16T01:04:00Z
@@ -189,6 +174,21 @@ related:
       - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
         width: 600
         height: 271
+  - title: "Massachusetts City Renews Calls for Facial Recognition Ban"
+    excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
+    publishedDateTime: 2020-01-13T20:22:00Z
+    sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
+    ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: https://media2.govtech.com/images/facial2.jpg
+        width: 940
+        height: 630
   - title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
     excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
     publishedDateTime: 2020-01-17T21:48:00Z
@@ -261,6 +261,6 @@ related:
         width: 1280
         height: 720
 
-secured: "r1Y+C/ZUr21AHNH7KyBPL/eqK2f+Vb4uQn8hjKBCS/PC/yeDvQkJQo50/x2cHOmo1wHcFEDKt9f3yoaVKBNCED8gbzgwXhjx1GvHMePqbGkmHr4f/KDbQB0i06pEpyaBi/pOsu++55qyF76l32SN5Qf4lUUkAibCZKmyAhtWbisgCbE6b6pbdgCboQdw8AF5alKzElHg3ljfsRWKprHv2sy/woIVM6gzG/+aQ9E8M6ZbDeTOWGM1SOwVWH9CCOWvZ2KdCG200jwAul/7zwQoP8FNmO9+w0fsPIvVUxjJiss=;1V2jS5McCDbQB+6MKzh86Q=="
+secured: "wpZV8nzPArNLKDgABgZdhWCdUkrpZGDS0TfUOkL4XpUOX8OIOGhf07yK2ueTn3GM+6kanfs8MCXdXYS5G1YEUtUfheD7kz9ltfVyTQ/uPQvczSCqraz1i3a6K3LgxvENbiedL/Nktmpx2QjoL691BAKxJjS7bHYXzXoq4mh1sBtRqotmpwcCAb4y7AQXNCoj3jHuBU2IBHkWeGu9cKIJybstrz00JgmNVw5FNIzqwO6qPSSknyz21YSNOLmBJ5gOYGK6LADNlv+6sejw1tUIMjqd2k9SFDi8CK0apu/ZdaM=;bcfVa0RF3OKXKIDV9uZz2Q=="
 ---
 

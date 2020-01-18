@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
-excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
-publishedDateTime: 2020-01-17T14:36:00Z
-sourceUrl: https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players
+title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
+excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
+publishedDateTime: 2020-01-18T17:13:00Z
+sourceUrl: https://jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916
+ampUrl: https://jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916/amp
+cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916/amp
 type: article
-quality: 0
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: Jalopnik
+  domain: jalopnik.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://i.kinja-img.com/gawker-media/image/upload/s--E8Ser8s1--/c_scale,f_auto,fl_progressive,q_80,w_800/ugisluglqvfjuwou1zyt.jpg
+    width: 800
+    height: 450
+    title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
 
 related:
   - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
@@ -108,21 +116,6 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
         width: 800
         height: 450
-  - title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
-    excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
-    publishedDateTime: 2020-01-18T17:13:00Z
-    sourceUrl: https://jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916
-    ampUrl: https://jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916/amp
-    cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/cruise-cto-says-safety-reporting-for-self-driving-cars-1841073916/amp
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/s--E8Ser8s1--/c_scale,f_auto,fl_progressive,q_80,w_800/ugisluglqvfjuwou1zyt.jpg
-        width: 800
-        height: 450
   - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
     excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
     publishedDateTime: 2020-01-13T18:05:00Z
@@ -203,7 +196,16 @@ related:
       - url: https://i.ytimg.com/vi/1Na2pyZ-zfA/hqdefault.jpg
         width: 480
         height: 360
+  - title: "Self-driving car market 2018-2023 and top key players are Microsoft, Apple, IBM, Cisco"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-17T14:36:00Z
+    sourceUrl: https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
-secured: "ZX6wS4/maCUk1yqem+F5M6rhOHiwghHRWIXwPDy6H0xQE/TLS4BbEKoZdxornJdjF2iBz2Z/51/7OY0XlkYEFXsI2O16Lvuwlq43X5U7pWCE4SkkAqF5FrVsxSqPNTzm04SSxZc9VpyP0ci7sq6v+hZO30A3C+rs0VjFOwgruiHC/kbrwEIFh2A+T4nVTXfuvJA4RfDnKxJy8l2xjiMEDz6UUF9LyAIEUQeU+7AITJJgz+4fq9ojsmU2ePL4g/Ar+AonD5EQ/BX3ircaV/uUBxFR/Tbcol02DSXgf5k6s8Q=;8uVKE5w9Uw/SsyA/FO7GkA=="
+secured: "8dA22SsDXTBGQQT+7a+n0uvskFgbY0pw4SENxTXt/z7ANJXg7zHOUFIJjghNblJrYHkvPBKf6bacMUEfhS553nW+6f3pgjuJI3M/MhytwdM8Rc3WViRZKHflCcDssJmRqRZDvhz5ioKIo36LnGkxBXf2RQwAbVb1prEQXq8l2bGHaCqrhOeDgVYJ19uDImP2SANefPkjfBciIiu33yYSV0sGd2dhyH7SicTJBqAFrzBJ13EVVnu029xnak6V2pOc4ouQek6iPPkBlkHwW2AAMS0lvHM82gf3MAPC1f3821s=;f76RFjil1AaTtDqlky9lPw=="
 ---
 

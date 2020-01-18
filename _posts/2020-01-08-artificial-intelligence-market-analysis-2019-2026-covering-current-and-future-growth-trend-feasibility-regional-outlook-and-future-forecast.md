@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence Market Analysis 2019-2026: Covering Current and Future Growth, Trend, Feasibility, Regional Outlook and Future Forecast"
-excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9."
-publishedDateTime: 2020-01-08T04:04:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-2019-2026-covering-current-and-future-growth-trend-feasibility-regional-outlook-and-future-forecast-2020-01-08
+excerpt: "Posted on Jan 8 2020 4:51 AM \"Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc,"
+publishedDateTime: 2020-01-08T06:05:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-2019-2026-covering-current-and-future-growth-trend-feasibility-regional-outlook-and-future-forecast-2020-01-08-2197555
 type: article
 quality: 33
 heat: -1
@@ -95,6 +95,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "UVEL+q6L7Qy0PC95QloTeKw5JO5QHvxCndlurGyqQj1opxAf85zeEhUCcc/GDVR5m4YQo4ieTdC25EAvokIY7LKJScyR1Jwdr0JzFAEsEgzyOaGqcuWo61sfob+lLV0bw7u73Oy04eZ1F3uEIXut3I+qQrNu7T/UleVukGg9cvFbHDqqzPH0waI+DRkOEfUBiqeQyjo/WZvAaim7C94W9Gw8M2rNd1uqqt19eh/bLHqCYhi4Pcfewgjo7UHg1gt9b/PQMmO5kNfHT124nIiJw0Wc8zPSp1X4MTMAMM0dja8=;rKzc1TBstOVSpk7vrmN+eQ=="
+secured: "Gf5VYON0X0jP+jRKZUkrlyEth2UrzXj2Ok9q1EfcND5Cz6oJh5Lu8omnBGQ90sPAfS2aWuoiSHJ0zHJaIsnR2ZuLEkAmBOrpPekYPXtnlEjcKgT4+C4TbwgqN7mGzE0D39o1PbQroPadsduYRBefOmVY2rj8SZp75914hB4jYZycfYpCdb8/8uJn0jCnD9JyQbDovyBFr4p1rQGIhdu8YR+xjhD3/PBe2gNrNdu0qF/c78LIt37MNKhiMpXizMeHJ4hEI7w6sxGI1obHmIWKeHdveXcr5QKeS66tR1hDlmw=;khzRzlsvlLdkp8mGi2xqlw=="
 ---
 
