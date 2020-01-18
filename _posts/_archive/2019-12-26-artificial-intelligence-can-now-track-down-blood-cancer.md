@@ -1,54 +1,43 @@
 ---
 category: news
 title: "Artificial intelligence can now track down blood cancer"
-excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out on this topic and the results are available through."
 publishedDateTime: 2019-12-26T11:12:00Z
-sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html?hsamp_network=TWITTER&hsamp=b1Yr8mJKrqRGS
+ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
-  name: Deccan Chronicle
-  domain: deccanchronicle.com
+  name: The Asian Age
+  domain: asianage.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
+  - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg
     width: 800
     height: 448
     title: "Artificial intelligence can now track down blood cancer"
 
 related:
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
-    publishedDateTime: 2019-12-23T17:46:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T12:48:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
-    publishedDateTime: 2019-12-20T16:27:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/d-gc-ait122019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: ETHealthworld.com
+      domain: indiatimes.com
     quality: 39
-    images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
 
-secured: "BVg5nPCcUnSlShFuHFJxE0Ob/LdVcVucdZswIpQ2bu6SLS0M2EZLwctUw/FoR1lHXGZmNCBr0I58lENhTuEuHR1zYZ5KmPgTdL32L3SNm/7Wzkcpt7h3gNTDQgXPcXUh6zv+YC7Y6Qg/vZQXPAzoleEK9E997l0T27mK3If3Y7d6EukPFeIEEaFbPBcSwDYSpr4h/Zb+ir+S7nsRozDkpQ8oOKM8mDeKjpn8ymrj8yT+pwht5LTq/xBpep/JcbA2KYDrcWiZk3haUah/EgeEA4gfTvO22b7FnBGhZWr/AU8=;tlW8e41HvhvXCNaNIRoXYA=="
+secured: "fIhn9uoFzoHi6Xz736lObl550vj9rf8uqzF5p6XI9dGwKbZYRpXzTwoACKL/RqrsUQAw6pP2F5GEssAgZ2aoxZFjn0y2PYt7MRWTFXMABoLjePkjuJtUIU37ohLfNEZcqFMbmrXBhjR137r5umSj89wBcPoF4fgx1+GHdd7wt6SSi5+4ZwQE5gR8+YW7kZaagDvsXDK/c6ceafmWy2BLX11AfwnOeZ140Tzsn1toMVvzwbDT/+8kafwS1aslr3fXmHzqBMuaxevWuaM+hKvj69QJYnuKOtlTodpA/++rQ/I=;6fc98O2iEVhpGmfIniqmrg=="
 ---
 
