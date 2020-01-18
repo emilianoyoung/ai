@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T17:46:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -22,21 +22,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T11:12:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 59
-    images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
-        width: 800
-        height: 448
   - title: "Artificial intelligence tracks down leukemia"
     excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal \"iScience\". Artificial intelligence is a much-discussed topic in medicine ..."
     publishedDateTime: 2019-12-20T16:27:00Z
@@ -51,6 +36,6 @@ related:
         width: 900
         height: 300
 
-secured: "HwqW+YsrIuZgdFrVbu87QuXyhMxw+8OuSOFmFrFRxAbwZuaTyEIZRH7JrEIN3x+zLUP+tVYVu/jN5A7Pv2ycmaIZZWq5NVZmhXeEPsu4OK/Mr57ofoAFpzRXElwUa8hZq/3Gvf3+eXZBNP693llr4OgJwOCp1EGVnOCEbWHsj9agbW+X8Z+gkv4ChKgSlw6MAWneRvHKO+UVhprn5QPqZJnssQN3jJM9xYQiyFbcZKqL9c3pTTTYt0L0L7T7QIjwfpVUk9C5j+SPaAkksSzRlVvhe67egdoDA7dvpikE9hM=;wSY/PnktkblpH41pxcly0w=="
+secured: "B0n4XGz3zoM4L1a9K4JNyoCclwFOR9Neckfr0fYcb2sXHYFFfAVU1iQDM45pCwxSnoS5RXKTmDmr2hjmNI6pab8RitzCBNXP2eMQfUs77PdFdo7Ip0FrIQI/tJyKIV3mrDXiIzP/FhgJBPz4ZbeIq+ufL0wfX8wqNO13e2+OEF1PvenvquLlvHd0UrqYX2gU+3JQ1dKCPl5GpWaIZ+sauGUGChu/o4WE3yQ85apgrHZqgxLMU4vyFtHHzD+DTQfelHLHJ3BPYa7ZCSfMxSFsmbLyOb3kabEWkfCC9KfP5Y4=;qljaa0Dv3RdW29ekgoALiw=="
 ---
 

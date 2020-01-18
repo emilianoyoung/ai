@@ -1,27 +1,33 @@
 ---
 category: news
-title: "College students demand schools ban facial recognition"
-excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
-publishedDateTime: 2020-01-14T22:07:00Z
-sourceUrl: https://mashable.com/article/college-students-facial-recognition-ban/
+title: "EU considers banning facial recognition technology in public spaces"
+excerpt: "The European Union is debating a potential ban on the use of facial recognition technologies in public areas. Facial recognition-equipped systems, such as those found in mobile devices and cameras, are advocated by law enforcement as a way to track missing persons and as useful tools in criminal investigations. However, critics say this ..."
+publishedDateTime: 2020-01-17T11:56:00Z
+sourceUrl: https://www.zdnet.com/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
+ampUrl: https://www.zdnet.com/google-amp/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
+cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: /assets/images/organizations/zdnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
+  - url: https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg
     width: 1200
-    height: 630
-    title: "College students demand schools ban facial recognition"
+    height: 675
+    title: "EU considers banning facial recognition technology in public spaces"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -82,21 +88,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "EU considers banning facial recognition technology in public spaces"
-    excerpt: "The European Union is debating a potential ban on the use of facial recognition technologies in public areas. Facial recognition-equipped systems, such as those found in mobile devices and cameras, are advocated by law enforcement as a way to track missing persons and as useful tools in criminal investigations. However, critics say this ..."
-    publishedDateTime: 2020-01-17T11:56:00Z
-    sourceUrl: https://www.zdnet.com/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
-    ampUrl: https://www.zdnet.com/google-amp/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg
-        width: 1200
-        height: 675
   - title: "EU mulls 5-year ban on facial recognition tech in public spaces"
     excerpt: "(Reuters) — The European Union is considering banning facial recognition technology in public areas for up to five years to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive — set out in an 18-page white paper — comes amid a global debate about the systems driven by ..."
     publishedDateTime: 2020-01-17T14:21:00Z
@@ -166,6 +157,19 @@ related:
     quality: 74
     images:
       - url: https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=
+        width: 1200
+        height: 630
+  - title: "College students demand schools ban facial recognition"
+    excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
+    publishedDateTime: 2020-01-14T22:07:00Z
+    sourceUrl: https://mashable.com/article/college-students-facial-recognition-ban/
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
   - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
@@ -593,6 +597,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "m7bUGDKyWcIOB3wjLT5sdfSWnfckF2hC9+BMJdAi2TGG3ElXHYujOTXgirXfqzEuk3B7T8rajOuuexOJUzuIkSddgipvFh5LnDYqaITpX/B8gt6aoAn5FsO+9KRLpLDem8PAjkJk19Ny0K4zY5Z9oanVZHJLgIjZknfXk7Nk8zyNzXNg8DV5v2CWEF2VYa7JHJt2UGupuxa4blPY/EABkQ23PBIBSdw1PNEP0Ci7Q48BdgKZuZgKgZ90AyPS2I9CHjVqElSEYBAH03DwVhOzZeE+rU9qmEj360nTRccQubhsDgt9oc1MzJPbSRYANl5awSdiSOF77vq9ZO0X/iXp3UH8Bkz1ACFQsoaeTRP5qjvUVgewEvOGeUy7JOPkLS77vBSkQ/BGPMS+1z9z+ZSbk/HMkc/umJ7uYkLx43RstK/UJlueirRS/+YSjMCukNQjBsex0vzBPfOHUhb1t1XR7g==;YLI2HYwKxXK2oGC5OSZddg=="
+secured: "g57yG+HaKGnhcaN8AG6ydwPc/YVRz7xzUiDOp8J18Y6DXQjVuYbSLe5XhMr3cn2fZ2WIzmfq57cOc+EywzUkcLMtQ+7JO6sZNvtG6wpmSYwKabj5L5GrDfbqNRPoIlItDChW59en5QeifRzu9kpkDbwLV2EMt46pjqogbfEKvdHlz97A2ZSOgKFQKhp3TADE83P0c701Y5oSOQBh9Fn1y/EE37PC4/Xx8mAceYxsM9BfMK5YXRu2x5goCMnomYxsZGFKoK2KGmS01VKhECt03KdhZcx6CEODkiJlqGdxAXg=;1h6fZzDClnxQMZss9piqcw=="
 ---
 

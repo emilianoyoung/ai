@@ -29,6 +29,6 @@ images:
     height: 500
     title: "Tesla patents data pipeline and deep learning system for autonomous driving"
 
-secured: "nyce3hU7p/FB2YFDpCSCFiiTXNSoqfqbMjMi3vJcIL432c0xjHnzfGqAND+n5nuaGKLm544lJhQH5Ghua6hvqrRlfigWzoUekH+GS4MtoyrymtASDd2kc5d4Zb/FAqx20hJTgoZ7prPYIhboPgGFZ+H6xyblHcshr05pOc/j32mKJ1R9kG3TeHUGJnN/qsjd7HNYU7NkfdXefjyl5R4rF3QZHA8gJ3oWwjnzUxfL5wlwaLYHWTcAKvfVTTHmRnh9aLAo3LIsyfD5A0xijOT0KTbq0evipQ7GX/1KfoOKTGw=;CjQByStNoy6rMIorV0Wstg=="
+secured: "6cksIoisQliy3GOdggsVM46n+K4obiod8v2Ehrk8fc87D+x0P09Ujwu60Lc1pyRGeE17cMHyIMO0hSgGxdy7C0I7PesHC+npsKZICWfJXo+kIdkqILvADFOxES3rDsH2wy5t2Q8hGO+yqAu9iHhzAkkkOXLKn12XLCgboj5kkUcWSMQc9WY73zdmDkHQbcJwJsDMboUCHV14Q6IsBQj948Tr0iijtjWv4kHtcDix7Ci+nSh6Ty8/hfXyEv/qqELbczPBMfvBVaTbHyTgucBmdqDOo/Icrlba6qG4BMjPGDM=;7WGYIZdW0NYLl1wn2gKfng=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T11:15:00Z
 sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -26,8 +26,12 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 11
+    quality: 31
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
-secured: "+rwm92BtKwMSamHrdyIm1MOqzKdwgWM8XHRCFFVfgCRkDjtM+Z+s6AIoSWW9eq5GAwdNsBtzOElfUxAhY0OT1xaCeqKLQWEhJ0m/9KFfI6C1ERtTtRY9fOduCCKSATLCpg3yOgA0bSfsZ9NcQlRmT3pMxmRZG12D+hvxRorL994d3TGLAvJE7AKR5TbMKcycFrGjX8hEmjfo7AHRNtH0SFxKUXMqDw/V83KoTnhV5rX4d70qLfxdn0VrLW+l0CNb0yWJiShyov/w+PbwDy5bHlX0RXsy9c6xHr6HcXUDbc0=;rMeSKiWJSbV2xTqNVckeAQ=="
+secured: "6W/TfD9kNDYxB5X+IhP/H0cPhhLuqysEqE2asLzseqX3zHZFIjkIc/den9sBqW9QqtrSs2RDEI0JUvh/og4K6YCOij2IQ8/e3S+FqdvgCvcTxpaIYhGRj2Ef3XlKd9nD8tWA0gvqSOENlYtoP4CaR9vyK3gmzwEz7CIASxcLAbAkhvdgh/M7tK7g6FktRVYmR/guhkGZ9BjQOASdRWlaJqXr8z9FooxA32BtzO7FAiAU7+yfsvkSHd/YC4me2icPtnR225GigCgFrOEmKtei3hMuhtOD8eKmBj7rXSsBwMA=;EX/w0VVFIaHqCurSmG/Wzw=="
 ---
 

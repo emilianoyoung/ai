@@ -78,6 +78,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "EU considers banning facial recognition technology in public spaces"
+    excerpt: "The European Union is debating a potential ban on the use of facial recognition technologies in public areas. Facial recognition-equipped systems, such as those found in mobile devices and cameras, are advocated by law enforcement as a way to track missing persons and as useful tools in criminal investigations. However, critics say this ..."
+    publishedDateTime: 2020-01-17T11:56:00Z
+    sourceUrl: https://www.zdnet.com/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
+    ampUrl: https://www.zdnet.com/google-amp/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg
+        width: 1200
+        height: 675
   - title: "EU mulls 5-year ban on facial recognition tech in public spaces"
     excerpt: "(Reuters) — The European Union is considering banning facial recognition technology in public areas for up to five years to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive — set out in an 18-page white paper — comes amid a global debate about the systems driven by ..."
     publishedDateTime: 2020-01-17T14:21:00Z

@@ -45,6 +45,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2017/01/white-house-north-view.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Turkcell Lays Out AI Principles"
+    excerpt: "We are proud to become the first company to contribute to AI ethics in Turkey. The field will continuously expand and we will witness its transformative impacts in our daily lives,” he added. Speaking to the importance of AI applications being developed in Turkey and the advantages they offer to those developed abroad, Turkcell CIO Serkan ..."
+    publishedDateTime: 2020-01-16T16:21:00Z
+    sourceUrl: https://mobileidworld.com/turkcell-lays-out-ai-principles-011601/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: https://mobileidworld.com/wp-content/uploads/scroll.jpg
+        width: 599
+        height: 479
 
 secured: "Fu6rpEK6b78UMDINxWgN7+C9Ua+Evf7WSL5DmCzl8x/6PVHRDaFYmrxso7gGIzzzNBxuRnYHSTJBoUKFAXqvO2SWCgRPO6yx70U88hDrcB/aG/Z/onCuKatGJWTMd737vyb/6IBVyKPbNs8JoQDZPuxJTg+FVDe/fksoCQvtDKpAi7+qw4GDGtZfZ8wfFZq7jhSlPbOoDh5KxISGahzKVjbmvY7zo2XzJr0eMTw5AIsvXObrHu/m2i6A3fPgNoyAwkO2SL98ZKetky1yzFqJcfgHPlCj7+EfDEeiYgpxeooxRKw+BTKsSaqByegXnZoKnW+mdeC3tAXSlei75ueWCcxYJX8ZM+Bm1eVOoFMDhub6Uhsg1fFOJZ2+qD9OrNz1SZcovy/xA+th1tpQmIv/7FL7SQoETZXAa6Jyx3HV4DIFQDFmvzX6gocliU8Eyp1CaVuRc/wm8ZmXaHdlgx5kcw==;Fdpfri/hO6yg8d2rMGNZaQ=="
 ---
