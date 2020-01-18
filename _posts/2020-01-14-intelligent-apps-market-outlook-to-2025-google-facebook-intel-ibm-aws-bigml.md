@@ -120,6 +120,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Robot Software Market – Growth Strategies & Worldwide Growth Survey by 2025"
+    excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). Each segment and sub-segment is analyzed in the research report."
+    publishedDateTime: 2020-01-17T18:21:00Z
+    sourceUrl: https://www.openpr.com/news/1900051/robot-software-market-growth-strategies-worldwide-growth
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "3Eb0X2xld/V+HNNhh7k6fCpFkK3AuyBr6r7TvdKH3woT/eSA70lKYIQlvF5sKdWiJXQkULMuighN7AfgZhrQWfsO2xAyCEGP7fDryy5OQjZjeepM/TPIRgvHAwmWDmYM0kgUFw6W0YH+F4L7Rb0jVdCAhQ4jHfLclLdputgw8rqhMn6PkkLavb+uKcK6oW+zunhrACyUCAPmeT00VVpvMW64t0yMEjI/p/tt4SJ7u88HmRhC6dPpVRc6Ivean1RpkPuojop5bOSgkI2YK/ZnmHy90AFWCETyPSJIldLnzcE=;4VmOV2EZR/1STrYouKCqGQ=="
 ---

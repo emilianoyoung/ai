@@ -1,31 +1,21 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) in BFSI Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
-excerpt: "Market Study Report adds new research on Artificial Intelligence (AI) in BFSI market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
-publishedDateTime: 2020-01-14T15:05:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-01-14
+title: "Robot Software Market – Growth Strategies & Worldwide Growth Survey by 2025"
+excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). Each segment and sub-segment is analyzed in the research report."
+publishedDateTime: 2020-01-17T18:21:00Z
+sourceUrl: https://www.openpr.com/news/1900051/robot-software-market-growth-strategies-worldwide-growth
 type: article
-quality: 60
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
-  - AI in Finance
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Artificial Intelligence (AI) in BFSI Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+  - AI in Robotics
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
@@ -50,6 +40,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 75
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in BFSI Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+    excerpt: "Market Study Report adds new research on Artificial Intelligence (AI) in BFSI market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
+    publishedDateTime: 2020-01-14T15:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -117,15 +120,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Robot Software Market – Growth Strategies & Worldwide Growth Survey by 2025"
-    excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). Each segment and sub-segment is analyzed in the research report."
-    publishedDateTime: 2020-01-17T18:21:00Z
-    sourceUrl: https://www.openpr.com/news/1900051/robot-software-market-growth-strategies-worldwide-growth
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
   - title: "Intelligent Apps Market Outlook to 2025 - Google, Facebook, Intel, IBM, AWS, BigML"
     excerpt: "The presence of several AI developers and technology solution providers that are developing smart apps for various business verticals contribute to the growth of the intelligent apps market. Global Market Insights, Inc., headquartered in Delaware, U.S., is a global market research and consulting service provider; offering syndicated and custom ..."
     publishedDateTime: 2020-01-14T17:43:00Z
@@ -136,6 +130,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "HAYxw986vwbbo7nn8yjpJfBnieAgew2cdUQ9ajFVhidPi50CoZWEp1FQLf6dNLgp6Qwatcx/ChKrgofIYbn0tcHITmL25af7kRb5TQPXJwJYuUZi2EVLq6tyOdUXXUNMAQbGvY8Gd3L35TWBq72PTlpr98PqrJa/URkeEcLmvjn7+GVtL1mU6GhS6lTue6fz2Zquqpty3ZKPcaJsQC1hijiMNJr7EGD+3sEqEmq8r5hoo4qhwzrA7cnO+nfGCUymil0UX8pcXc2IGlHrEWUhjht8e0ZUysq/pagRCNtKoAw=;xYxdxGsvv/W2c6+v0Ri+LA=="
+secured: "giG7vE7b+PR4hPzVshVXf/SmWrjllUZw+lbxoKouorPJt8YL6RCeLB4yh8pXh9uXwCEX8yyyygf8cKSbdLKVY2IMDwEajkOPLf3LNnENKoXW17/2TzmH1ZmzwxAgRLaK+rE2JE2nlZXSXPZIHKemC+bLbwK8kePRcwf/ZwrntI0qmA7SNWjQ8wl0OO2ZRuSNzSYQT3qXuJGyreJVsFx5Ycngn5hMj1YqS37FLODwpBRX4qI60OzJ/ekZVaJSklUy+PQqt3DLDVXgq5nLgA0OsMTNqDIhwnl5BiE4fPOGKfE=;b+YS1uYai0cnA9R+l0Ld3Q=="
 ---
 

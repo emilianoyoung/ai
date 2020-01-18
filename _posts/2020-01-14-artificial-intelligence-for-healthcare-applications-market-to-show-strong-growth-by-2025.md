@@ -117,6 +117,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Robot Software Market – Growth Strategies & Worldwide Growth Survey by 2025"
+    excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). Each segment and sub-segment is analyzed in the research report."
+    publishedDateTime: 2020-01-17T18:21:00Z
+    sourceUrl: https://www.openpr.com/news/1900051/robot-software-market-growth-strategies-worldwide-growth
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
   - title: "Intelligent Apps Market Outlook to 2025 - Google, Facebook, Intel, IBM, AWS, BigML"
     excerpt: "The presence of several AI developers and technology solution providers that are developing smart apps for various business verticals contribute to the growth of the intelligent apps market. Global Market Insights, Inc., headquartered in Delaware, U.S., is a global market research and consulting service provider; offering syndicated and custom ..."
     publishedDateTime: 2020-01-14T17:43:00Z

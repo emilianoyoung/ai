@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T10:16:00Z
 sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -69,6 +69,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+    publishedDateTime: 2020-01-14T06:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 1200
+        height: 627
 
 secured: "VHS97iqErOfFT9kGqZuXmfmsvWh2BQ01AqLCn3VAYrPiKFQIAg00VuReZHSfG37uezc5Hv1h0EO/DBRRtUWwED0agUFlcLYX6o4ZFyvBgM+P6fyrjGMVrGN2rVyHUhaK/cDXDKIvLLp6jgE617bvmfR5QW/Gn2757KZoItXSOq6ZAu2LV2kuZRcORTnsPxLgYn8+tXYUsAPb91SwCb90DTY543i2Y1boN9cjcV/7MYBcFGMiTzC6VTwR+1LDpYLQVZ538+nJt3aCzNiyr+XJia62HxpjPrPDRaWYT1rifP8=;Al0i1xxQpS7GQE3+llNJ9w=="
 ---

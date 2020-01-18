@@ -5,8 +5,8 @@ excerpt: "The pipeline graph is organized as a list of lists. The top-level modu
 publishedDateTime: 2020-01-18T01:29:00Z
 sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/designer-accessibility
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png

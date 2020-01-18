@@ -37,21 +37,6 @@ related:
       - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
         width: 1000
         height: 500
-  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
-    excerpt: "market in manufacturing industry is expected to post a CAGR of around 31% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
-    publishedDateTime: 2020-01-14T06:30:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116989/global-artificial-intelligence-ai-market-in-manufacturing-industry-2019-2023-31-cagr-projection-th
-    ampUrl: https://amp.benzinga.com/amp/content/15116989
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116989
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: https://mms.businesswire.com/media/20200113005995/en/767292/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
-        width: 480
-        height: 270
 
 secured: "DJiaUxpnv2K2p9bAGGYHioFFQZdEklz4NGoLYNHYmGO+XSjyIZFALHvN9jdIJEIuqgdsuwUClt+Xgy8KHN7GwblSG9ABzW8dQBHfe/9lRcVXMemnXhhdVlVcQepnCImYQLcYEDjUG4bxGNRPd15CRXOp6yBgrEyEUBUTOm6o3eVPzBr4GmiQzmPlLocUvWObQsPqbX++YgnhGv3yXCVw4QiWE71PkEGuwy5XTmefdvfNrFeqwLA4p/fcQ/Um1D6VeK0qnnHhideratBx2FB0y4y8yBWEXzFR8ZLDxsYKySyZU1x7L4o5FMPoWzl1VBmYjSscEknRUcUQ+kCCnFpBys52+gdCWH7kUVncvGW6qYjjSIYRqrkv4QBCXefUVTMibew72Odm2Cyg3oeyoE8kSiftsyXfrkzWbppeAiGQ4TC9fX/sjWAECGWsEs2vQFPYeeQmd0PsFPMuDh9hD4XAxQ==;79zuSSmLvk+S43kHsEodtg=="
 ---
