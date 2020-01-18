@@ -25,21 +25,6 @@ images:
     title: "Apple confirms purchase of AI startup Xnor.ai"
 
 related:
-  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
-    excerpt: "Apple has purchased Seattle startup Xnor.ai, a company that specializes in on-device artificial intelligence, reports GeekWire, citing sources with knowledge of the acquisition. Apple is said to have paid around $200 million for Xnor.ai, and while both Apple and Xnor.ai have declined to comment on the potential acquisition, much of the Xnor.ai ..."
-    publishedDateTime: 2020-01-15T18:01:00Z
-    sourceUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/
-    ampUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
-    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 72
-    images:
-      - url: https://images.macrumors.com/article-new/2020/01/applexnoracquisition.jpg?retina
-        width: 1600
-        height: 838
   - title: "Apple buys Seattle-based artificial intelligence company Xnor.ai"
     excerpt: "Apple acquired Seattle-based artificial intelligence company Xnor.ai, bringing on more talent in a key area of technology. The company, founded in 2016, had raised millions of dollars to build tools that help AI algorithms run on devices rather than remote data centers. In recent years, Apple has pushed to run this type of software on its ..."
     publishedDateTime: 2020-01-15T18:35:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technol
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -68,6 +68,19 @@ related:
       - url: https://media-exp1.licdn.com/dms/image/C4D12AQGTugHoI6--eg/article-cover_image-shrink_720_1280/0?e=1584576000&v=beta&t=49RhFZY1gqcbf3ekKoeiT3Rp7PwKous92dzflwUZFfw
         width: 1080
         height: 720
+  - title: "The Technology 202: Smaller companies taking a risk as they challenge Big Tech in hearing"
+    excerpt: "For instance, Amazon declined to voluntarily allow the National Institute of Standards and Technology to evaluate its Rekognition algorithm's error rates. (Amazon CEO Jeff Bezos owns The Washington Post). \"We’re left in a position where we have to trust these companies, but we don’t have the options to say no or scrutinize the claims they ..."
+    publishedDateTime: 2020-01-16T14:25:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/16/the-technology-202-smaller-companies-taking-a-risk-as-they-challenge-big-tech-in-hearing/5e1f447e602ff16e78f418f8/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 15
+    images:
+      - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/43572665e7be2b8ca08046d9a801d074-GK2R6OFINYI6TBZTJDEHENPTSY-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
+        width: 1484
+        height: 988
 
 secured: "IG5p5uI+qhNZd2rq6CXpF3VfDOy5MpXTi51+clGeQ3UzmUbEXTc6WaNNh/UnZluTIHXKLaP2diCzhMBVOWe3J62iwP4DbuPgEbmaH9EAIXyfzyQz2QsF1Qos4BRKOkKRZlf+VW2gVrYSE6OMMWBxLDqxFf+OI1b7k2SeMl4U/A0TKQ3iErZB5FEVREsoX5n49qkYlveg10o6QhBwWyAOWI8IlReNvZT8tMxiP9DKKfPMJ0y7eQMIWcP5N4s4FgVUktwG+m8NB7LfThdDQNBy3CxOpWq6iVxNkU133VkpVaJrb2SjWD6Yg4NJdpMLI9wdnw8ubu+ySL7kqpzvdcUd0WXkIeqC99b3cj6bLZX9rdZsC/wiihv1sHnSv7w1DN5B4eV5YyRyxYhm9aHmTyDEnTLyAFpgo2KRuyL8zIx31taZdyHp1qnXXIQ9W55ABdIS+Buwa6F6OF0wBci8JLjveg==;0O/89XTfEpNTD4vt0VzDNw=="
 ---

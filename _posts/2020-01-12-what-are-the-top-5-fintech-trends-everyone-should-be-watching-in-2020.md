@@ -69,6 +69,19 @@ related:
       - url: https://media-exp1.licdn.com/dms/image/C4D12AQFXksQAM4u1_w/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=Ra4q0V6V0nExM8vWqzHT4Se_pQWfOByCgh-V1bqAUqk
         width: 1384
         height: 600
+  - title: "The Technology 202: Smaller companies taking a risk as they challenge Big Tech in hearing"
+    excerpt: "For instance, Amazon declined to voluntarily allow the National Institute of Standards and Technology to evaluate its Rekognition algorithm's error rates. (Amazon CEO Jeff Bezos owns The Washington Post). \"We’re left in a position where we have to trust these companies, but we don’t have the options to say no or scrutinize the claims they ..."
+    publishedDateTime: 2020-01-16T14:25:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/16/the-technology-202-smaller-companies-taking-a-risk-as-they-challenge-big-tech-in-hearing/5e1f447e602ff16e78f418f8/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 15
+    images:
+      - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/43572665e7be2b8ca08046d9a801d074-GK2R6OFINYI6TBZTJDEHENPTSY-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
+        width: 1484
+        height: 988
 
 secured: "kcNKyBxMyXtaD2GelRHGLG2MWRv7DM4n7qaGvxUgePTesq29uJCAeVRaZ/RslMylnajEFplmapiGtodfcFfa7Se/NwGWg3/C/Q0Ey75GpmHLqStP07uVO5mCyCwAJcehaV/kpdDBCFz2kJPJLhvyQL2W3oJFSXg1nhMBUJuLpigQmsJHymegc/QlTGMliJCNBGQHtR6Ry+Yb/c++FJNQHy7H+HCxjhw7vHWF9hc4EPink7oyHMvQgHERLuKDCFy0po8+taOTjXB1PHSoP7AV3vBF947VbWkxehFDUPcIqJ+490L7YytmZs9YWXi9OdGq8WdpkiscrVzFQRtFjZyMW6+pwXAWn82cwTZ3631JWSdFusSSDCPMR0nhmcufmiD2NZAGjiXTe60ykj2KYSYS1G9iN/Dtt/rKMOBpPoV/4TSFhWWciWb+Fbx5gM8uCuYzTTtk1MM6F/g260kfk3JtRg==;ug8hWSrDDdGNj1I3OxxhdA=="
 ---

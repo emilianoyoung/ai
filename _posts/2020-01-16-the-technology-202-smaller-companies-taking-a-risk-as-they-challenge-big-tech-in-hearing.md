@@ -1,31 +1,27 @@
 ---
 category: news
-title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
-excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
-publishedDateTime: 2020-01-14T23:15:00Z
-sourceUrl: https://www.linkedin.com/pulse/top-10-artificial-intelligence-trends-everyone-should-bernard-marr
+title: "The Technology 202: Smaller companies taking a risk as they challenge Big Tech in hearing"
+excerpt: "For instance, Amazon declined to voluntarily allow the National Institute of Standards and Technology to evaluate its Rekognition algorithm's error rates. (Amazon CEO Jeff Bezos owns The Washington Post). \"We’re left in a position where we have to trust these companies, but we don’t have the options to say no or scrutinize the claims they ..."
+publishedDateTime: 2020-01-16T14:25:00Z
+sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/16/the-technology-202-smaller-companies-taking-a-risk-as-they-challenge-big-tech-in-hearing/5e1f447e602ff16e78f418f8/
 type: article
-quality: 36
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
-  images:
-    - url: /assets/images/organizations/linkedin.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
-  - AI in Robotics
+  - AWS AI
 
 images:
-  - url: https://media-exp1.licdn.com/dms/image/C4D12AQFXksQAM4u1_w/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=Ra4q0V6V0nExM8vWqzHT4Se_pQWfOByCgh-V1bqAUqk
-    width: 1384
-    height: 600
-    title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
+  - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/43572665e7be2b8ca08046d9a801d074-GK2R6OFINYI6TBZTJDEHENPTSY-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
+    width: 1484
+    height: 988
+    title: "The Technology 202: Smaller companies taking a risk as they challenge Big Tech in hearing"
 
 related:
   - title: "How AI Technology Will Change The Way We Treat Advertising In 2020"
@@ -56,6 +52,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
+    excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
+    publishedDateTime: 2020-01-14T23:15:00Z
+    sourceUrl: https://www.linkedin.com/pulse/top-10-artificial-intelligence-trends-everyone-should-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
+    images:
+      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFXksQAM4u1_w/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=Ra4q0V6V0nExM8vWqzHT4Se_pQWfOByCgh-V1bqAUqk
+        width: 1384
+        height: 600
   - title: "What Are The Top 5 Fintech Trends Everyone Should Be Watching In 2020?"
     excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
     publishedDateTime: 2020-01-12T23:03:00Z
@@ -69,20 +78,7 @@ related:
       - url: https://media-exp1.licdn.com/dms/image/C4D12AQGTugHoI6--eg/article-cover_image-shrink_720_1280/0?e=1584576000&v=beta&t=49RhFZY1gqcbf3ekKoeiT3Rp7PwKous92dzflwUZFfw
         width: 1080
         height: 720
-  - title: "The Technology 202: Smaller companies taking a risk as they challenge Big Tech in hearing"
-    excerpt: "For instance, Amazon declined to voluntarily allow the National Institute of Standards and Technology to evaluate its Rekognition algorithm's error rates. (Amazon CEO Jeff Bezos owns The Washington Post). \"We’re left in a position where we have to trust these companies, but we don’t have the options to say no or scrutinize the claims they ..."
-    publishedDateTime: 2020-01-16T14:25:00Z
-    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/16/the-technology-202-smaller-companies-taking-a-risk-as-they-challenge-big-tech-in-hearing/5e1f447e602ff16e78f418f8/
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 15
-    images:
-      - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/43572665e7be2b8ca08046d9a801d074-GK2R6OFINYI6TBZTJDEHENPTSY-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
-        width: 1484
-        height: 988
 
-secured: "7qwtK2VbDml6DDP695wxqgylXqp109EL+2EpMDLHt6kQ3qDlpk1k+/fsDHYlEmK4bFtaPD8fREPBwmbV1BvQKJc7uefeATW+RCnBpYvOPOk4eVGARML9CJJL4RF8Q2z9h+xAQTHQWkvizCiqNAxWDExSDPxEGC/bEHLAe1uZJc/guO2DpJbV/qApg6h+km+LpNogz4t2DqwLtU2bKCIi5B6bDpqRasOhxmaP481QEve54+PNnrALHKlXBFHwtEl+t18rXm/X6nCNkfMvlUDYzxs+/KCm6DIyv2g6C8RcIhb8TUSGniBYFipq2ZT0WyCBXr2y0F3IEKdvm20qw94PAuhyiDJrGKr3KiRFL7e8QnNG4XgGAIeV/kJYu/vZSvtVT3T1U6zy8TCIZI2xP5P1RhM1d0uHl3zPKi9IqAk00U1D/cjamnnCwRzt3km+RdglYOVfD23I+XjsVjYXW+JKDQ==;gAqHl7nCl6k5rrlo2utgzA=="
+secured: "wLzAsfmtjC9FWbjLeye0pVJPQXQs+bIAFUhOOuulPl19hyKROAYA8IcTmSSLWiHgnLraHTC3k7laTLm+Xvjn96gDqiyHB3XQCAJZlYObJ8YYygqtFwZa2TMGczLJ9THhP0vNHJ6nRTMz3rJ68mHCLGKeq1oDPOB5J9k673dRjI3/J9iLZ7RE2GBtLKyXcww/uVZpMIhJcxqoivDdY949NPER/z/sWk9Hulf2eSbkXPROxcVbb5OG0+EgdEi19DSemApU6q5XvPFgfWwD7Ps6aheXwr+P7q/koJa2nT2EQLU=;dI3Mu9x77b8aubjxaIgcjw=="
 ---
 

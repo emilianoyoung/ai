@@ -8,8 +8,8 @@ ampUrl: https://www.seattletimes.com/business/technology/apple-acquires-seattle-
 cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/?amp=1
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: Seattle Times
@@ -25,21 +25,6 @@ images:
     title: "Apple buys Seattle-based artificial intelligence company Xnor.ai"
 
 related:
-  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
-    excerpt: "Apple has purchased Seattle startup Xnor.ai, a company that specializes in on-device artificial intelligence, reports GeekWire, citing sources with knowledge of the acquisition. Apple is said to have paid around $200 million for Xnor.ai, and while both Apple and Xnor.ai have declined to comment on the potential acquisition, much of the Xnor.ai ..."
-    publishedDateTime: 2020-01-15T18:01:00Z
-    sourceUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/
-    ampUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
-    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 72
-    images:
-      - url: https://images.macrumors.com/article-new/2020/01/applexnoracquisition.jpg?retina
-        width: 1600
-        height: 838
   - title: "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is"
     excerpt: "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ..."
     publishedDateTime: 2020-01-16T16:33:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Face recognition mobile application in 10 polling stations"
-excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
-publishedDateTime: 2020-01-18T16:53:00Z
-sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
-ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
-cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+title: "Five-year ban on facial recognition being considered in the EU"
+excerpt: "Notice a bug? Let us know here."
+publishedDateTime: 2020-01-18T18:30:00Z
+sourceUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/
+ampUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
+cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Android Police
+  domain: androidpolice.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
-    width: 615
-    height: 384
-    title: "Face recognition mobile application in 10 polling stations"
+  - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
+    width: 1200
+    height: 800
+    title: "Five-year ban on facial recognition being considered in the EU"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
@@ -129,21 +129,21 @@ related:
       - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
         width: 605
         height: 363
-  - title: "Five-year ban on facial recognition being considered in the EU"
-    excerpt: "Notice a bug? Let us know here."
-    publishedDateTime: 2020-01-18T18:30:00Z
-    sourceUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/
-    ampUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
-    cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
+  - title: "Face recognition mobile application in 10 polling stations"
+    excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
+    publishedDateTime: 2020-01-18T16:53:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 59
     images:
-      - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
-        width: 1200
-        height: 800
+      - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
+        width: 615
+        height: 384
   - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
     excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
     publishedDateTime: 2020-01-16T01:04:00Z
@@ -276,6 +276,6 @@ related:
         width: 1280
         height: 720
 
-secured: "wpZV8nzPArNLKDgABgZdhWCdUkrpZGDS0TfUOkL4XpUOX8OIOGhf07yK2ueTn3GM+6kanfs8MCXdXYS5G1YEUtUfheD7kz9ltfVyTQ/uPQvczSCqraz1i3a6K3LgxvENbiedL/Nktmpx2QjoL691BAKxJjS7bHYXzXoq4mh1sBtRqotmpwcCAb4y7AQXNCoj3jHuBU2IBHkWeGu9cKIJybstrz00JgmNVw5FNIzqwO6qPSSknyz21YSNOLmBJ5gOYGK6LADNlv+6sejw1tUIMjqd2k9SFDi8CK0apu/ZdaM=;bcfVa0RF3OKXKIDV9uZz2Q=="
+secured: "7WtR3L87GazWYjhl1Cc3mCd7B8RmK+WheH7KVcJtk2TjJrJeD2ixHxeNZ7WF/3iPMZPZJBjO0NUHy173tAf6zhV9eSdEa28sy1RO+hXeXwjjg4kdaAGnQckihONW1A205kMo0R+qztaDLonUmely8YTJHswEaaZHUGb6vcHblLsRTOhcKvP6mJNDLlyIONL+bXG4MPYb2inm9v0bpFe2jSVW7w90XarR5F1xg6oRliSnlfjKoJpPNU+6TuwY948g/+y5SMUsN/gZeqByk2ttwKAm3ziF5KDb+mqfYBaGps8=;RWuw2aS6rIm/iUjLi0b1jQ=="
 ---
 

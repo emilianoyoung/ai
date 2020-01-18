@@ -144,6 +144,21 @@ related:
       - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
         width: 615
         height: 384
+  - title: "Five-year ban on facial recognition being considered in the EU"
+    excerpt: "Notice a bug? Let us know here."
+    publishedDateTime: 2020-01-18T18:30:00Z
+    sourceUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/
+    ampUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
+    cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 59
+    images:
+      - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
+        width: 1200
+        height: 800
   - title: "Springfield councilors renew call for ban on facial recognition"
     excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
     publishedDateTime: 2020-01-10T20:52:00Z

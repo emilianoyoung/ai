@@ -1,0 +1,48 @@
+---
+category: news
+title: "Compound’s Mike Dempsey on virtual influencers and AI characters"
+excerpt: "In a series of three interviews, I’m exploring the startup opportunities in both of these spaces in greater depth. First, Michael Dempsey, a partner at VC firm Compound who has blogged extensively about digital characters, avatars and animation, offers his perspective as an investor hunting for startup opportunities within these spaces."
+publishedDateTime: 2020-01-18T18:11:00Z
+sourceUrl: https://techcrunch.com/2020/01/18/compounds-mike-dempsey-on-virtual-influencers-and-ai-characters/
+type: article
+quality: 67
+heat: -1
+published: false
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1150572105.jpg?w=600
+    width: 600
+    height: 400
+    title: "Compound’s Mike Dempsey on virtual influencers and AI characters"
+
+related:
+  - title: "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers"
+    excerpt: "These technologies touch on a variety of legal and ethical concerns that the business community should take notice of."
+    publishedDateTime: 2020-01-16T15:27:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/
+    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x474/https://blogs-images.forbes.com/forbesbusinesscouncil/files/2020/01/erik-lucatero-VcOwZMahmCQ-unsplash-1200x800.jpg?width=960
+        width: 711
+        height: 474
+
+secured: "GRswPDit8Lwz64IXyaVYEYNNSRzbQBNtVYQZnWcsx7jMabei4wewh2l8a9VTtjy4bpMTjbWakL9hRxma9RUB4eh/h4DAJChkfYO/XixoyBP8CAC6hmh59NLFXegl6kX7/elY7lfzlzV4KslASa2k+GLfeLQB2oGcL1G1m2+ByymhOZ231kIaEKGX/YB+uMoRCuq+3/al+MyXHmOy4wFoQRBWI4FwiIWe32updh1i+Rfjd3AY3+Yo4SNKxt5UQ2jayUgVhyi2vEuebbbhxkA2iUGf6hGcoUdn7ZlWCiY1VW4=;lqQrfAbjg8Dkv23nTCRh3w=="
+---
+
