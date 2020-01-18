@@ -1,26 +1,26 @@
 ---
 category: news
 title: "CheetahTALK Translation Device Experiences Explosive Growth, Plans New Market Expansion"
-excerpt: "CheetahTALK is powered by AI technology from Microsoft Azure Cognitive Services, with machine translation and Neural Text-to-Speech capabilities, as well as Automatic Speech Recognition from OrionStar. The palm-sized device translates 42 popular languages ..."
-publishedDateTime: 2020-01-18T00:58:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion/article_eccc976b-a75f-5eb8-82b5-404f1cf92702.html
+excerpt: "CheetahTALK is powered by AI technology from Microsoft Azure Cognitive Services, with machine translation and Neural Text-to-Speech capabilities, as well as Automatic Speech Recognition from OrionStar. The palm-sized device translates 42 popular languages including English, Spanish, French, Italian, Chinese, Japanese, Germany and Portuguese ..."
+publishedDateTime: 2020-01-18T00:11:00Z
+sourceUrl: https://www.finanzen.net/nachricht/aktien/cheetahtalk-translation-device-experiences-explosive-growth-plans-new-market-expansion-8409829
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - AI
-  - Microsoft AI
+  - Natural Language Processing
 
 images:
-  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-    width: 1280
-    height: 720
+  - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+    width: 600
+    height: 315
     title: "CheetahTALK Translation Device Experiences Explosive Growth, Plans New Market Expansion"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 600
         height: 315
 
-secured: "EKM6XXChuGZ1GzYCAPqcHFMuclTvtlMYip3YgrdOG0LkWClifqyPxG6tzeLhhJ02NjQEohXTkT2L5rgJyCo8nwzHFK9lflWpHNeut8iOdi4X78cM5UGUv5O71jUHq51YonE/dhBKsHQUWvSXvnr+HCSgRrKrWNOxD3biY7g92n2KQZTyF9EkS1O5xQC2JXI7KCSsbEh6LeOeDNLA+iPWOTu/Z84dm/veHYzB+hsPBY8gBkc6SiDPchXXzzREj/64YV247tdTeOlbDJcIH77uNpIi7H40F/4z7Lf1QVstn3U=;wVwM4ArCZZsLUZp03w2L+A=="
+secured: "gFXi3h1MtVshHBpJN885XataL/9uw2Ayf5ZH/sHvZyAoiAztvQVlXFFRtcQ3dx/P5g6KqsrWEXHzRKkWbYohYZ4szMLTsIK41KxYCnt0QG7M4aGLmtlrLEJGb3svstGvgDZI88qXgWHxHmHYvtTEqTX+yvVGOoK95Gn9jmAn3yE4Tz1gE0pu8NLKCey0+CZnFZYjTUXBBlwsJkVfPgqKCEv3rkRR2T0whZYNSjBU8yPJ6ebFm4Txphewm7idwFpnqBwnsB5SPomnS8PbP5xHVUsfKpuC4GeVC+gJxkqkix4=;teHP1Y2mgpEamb5+zJ5m0Q=="
 ---
 

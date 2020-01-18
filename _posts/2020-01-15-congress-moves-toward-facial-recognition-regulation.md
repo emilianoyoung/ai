@@ -7,7 +7,7 @@ sourceUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recog
 ampUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
@@ -487,6 +488,21 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
         width: 400
         height: 400
+  - title: "Springfield City Council moves to ban facial recognition; says systems are unproven, inaccurate"
+    excerpt: "Springfield police don’t use facial recognition programs. But tech companies including Amazon with its Rekognition system, are pitching the systems to police agencies. Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations ..."
+    publishedDateTime: 2020-01-14T01:27:00Z
+    sourceUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html
+    ampUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 32
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
+        width: 2176
+        height: 1578
   - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
     excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
     publishedDateTime: 2020-01-17T00:32:00Z

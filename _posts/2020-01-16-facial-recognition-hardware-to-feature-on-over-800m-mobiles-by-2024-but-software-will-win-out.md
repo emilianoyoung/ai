@@ -95,6 +95,21 @@ related:
       - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
         width: 1500
         height: 844
+  - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
+    excerpt: "Police don’t have access to those videos unless a homeowner gives them permission — something Ring has been less than transparent about in the past — but imagine if those faces were sent to the cloud, where they could be matched up with, say, Amazon’s Rekognition software, which can match faces with a huge database? What to know before ..."
+    publishedDateTime: 2020-01-11T18:19:00Z
+    sourceUrl: https://www.tomsguide.com/features/facial-recognition-smart-home
+    ampUrl: https://www.tomsguide.com/amp/features/facial-recognition-smart-home
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/features/facial-recognition-smart-home
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
+        width: 1200
+        height: 825
   - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
     excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
     publishedDateTime: 2020-01-16T21:45:00Z

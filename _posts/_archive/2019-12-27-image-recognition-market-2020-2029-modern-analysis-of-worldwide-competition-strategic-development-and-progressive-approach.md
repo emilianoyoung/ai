@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
-    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and ..."
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
     publishedDateTime: 2019-12-24T11:27:00Z
     sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
     type: article
@@ -51,6 +51,6 @@ related:
         width: 700
         height: 450
 
-secured: "esUshrvk6YwdyTNNciKOUVcnRZVUnLUpxwW0JM1ufjFYyYC0NiX4KEVkdm9NxeEpBKJN18oe7UGV1fr+CmKBFV24bi+YFVR4vJt29PHn/Es5IPsm6psTYFKBID2AMMiNqPoX98ex81U8FiYh3ClvuyBBAYwb2RArEwU4/ZrYTCBRnH1DObzTFjM08ugwqelNLBySJGFXG6Mx8row7LPzHQkDI9Odq7CHd+fGulxBtuQDexRjpa13255mpbBSVIgGGmO2CftmSMeyRiZjeUg3uX9kHjdwlCgkUw2gS4/5xvM=;YFv+ZVzATvBomRmrtOsACg=="
+secured: "tm1Vi2JYVMuZ3RihKlSdwLsI1NNY8zCvo32S9bc3Bqv5WzKukJLM1k60/EmC1LyTHWcOd6zIKvMwwJfRfFZi2WnnKogCb38WfktXyEBAr9l6GDxcLQb5hezYU9RKG7W9RZD9AcoMC8c1LbvqUBeOO7P76ezjWn2YradJZrXaCKmWx2U0y7Sayj6lMWTOFaNWy8AJUXKsfd3d6Ji1JWuEcfCatBEo5q5LvKBrjOi3yulaOiRO3yoDUVUFdmdDVeE8oryoC+NZY2tcTueLE1C1SBZv3BxR59w4KYs4p1gp46M=;jLSD5Z8kng/JiK2uGyw6Ew=="
 ---
 

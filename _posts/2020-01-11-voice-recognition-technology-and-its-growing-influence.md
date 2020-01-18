@@ -144,6 +144,36 @@ related:
       - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/14/e74e6b07-15fd-4d9c-b1ab-e9bfb7a9730a-shutterstock-1318206677.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
         width: 1200
         height: 630
+  - title: "Springfield councilors renew call for ban on facial recognition"
+    excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
+    publishedDateTime: 2020-01-10T20:52:00Z
+    sourceUrl: https://www.masslive.com/news/2020/01/springfield-councilors-renew-call-for-ban-on-facial-recognition.html
+    ampUrl: https://www.masslive.com/news/2020/01/springfield-councilors-renew-call-for-ban-on-facial-recognition.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/springfield-councilors-renew-call-for-ban-on-facial-recognition.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 44
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QAN4PSN47JDHXNZQBFAT5UGBLQ.jpg
+        width: 1024
+        height: 789
+  - title: "Massachusetts City Renews Calls for Facial Recognition Ban"
+    excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
+    publishedDateTime: 2020-01-13T20:22:00Z
+    sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
+    ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: https://media2.govtech.com/images/facial2.jpg
+        width: 940
+        height: 630
   - title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
     excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
     publishedDateTime: 2020-01-17T21:48:00Z
@@ -200,6 +230,21 @@ related:
       - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
         width: 768
         height: 432
+  - title: "Surprising results after activists test facial recognition technology on Denver City Council"
+    excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
+    publishedDateTime: 2020-01-14T05:33:00Z
+    sourceUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council
+    ampUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
+    cdnAmpUrl: https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
+    type: article
+    provider:
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 33
+    images:
+      - url: https://x-default-stgec.uplynk.com/ausw/slices/8d1/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/8d18871f1b9b4c1781a22de73289bd7e/poster_74d992e1d3da49f3bc0cc1ce7922fe77.jpg
+        width: 1280
+        height: 720
 
 secured: "Kap7IhlWnGR7U4yi7bIoYYLqCAxbJy26JtVcYoJpfTTU66ey8OdcVzDhwNRNWIEzRtoyu34t90wSKRC9PrZSwcjjkt1cd8BoYo/k96EhpuxG1F6R7cAMMZEbjQc5ddDt8rtiqRea9pKgGpB/cC/AUcYAjXDsyDEpfUq1tvpN3WZGctVYONTQm1QQeZqFuj6q8l6gB03YqaQoUGhgREwXAB+AXXZ7TcTHR0Fs+MODJgWcoa30g91eMraMgN/WXQeugd4Wf2Nbe2zN+8oQLxSi2UEEGqWmOgcSu4lLnJiS7Xg13Wpg6ufXbKN/CEY5EO0L6qWeVtNIL7WeNVYFqq+hz9Q/2h3wgpD4YwSdYZp7xLcKF+Ue2ksZHSA8beDqYXoWDdCaX2WgMBVIadfzirV3KbXsx2nOpEWM0ipFny15ItSgVtBLj8Pxt82qRXKA3oGluqyRaEd9vK92FwfIYTu/VA==;YlA8Ktjs+l8PFeG71x7kZg=="
 ---

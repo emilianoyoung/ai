@@ -41,6 +41,21 @@ related:
       - url: https://cnet1.cbsistatic.com/img/fWHvXXNhn2vuzxeOrGZW83vxgMM=/2020/01/16/54bce4bf-92df-44da-bf91-3e172ee7f65e/sf-pcs-image.png
         width: 1200
         height: 674
+  - title: "Canelo and Boxing Trainer React To Winning Best Fighter and Trainer of 2019"
+    excerpt: "The Mexican fighting machine ended the year by moving up to 175 lbs and defeating feared puncher ... Here is what Canelo has had to say (Spanish to English translation): “It is an honor to receive the BWAA fighter prize of the year but it represents an even greater pride to do it by your side @caneloteam. Many thanks to all who voted; Let ..."
+    publishedDateTime: 2020-01-18T11:22:00Z
+    sourceUrl: https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/
+    ampUrl: https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/
+    cdnAmpUrl: https://www-boxingnewsandviews-com.cdn.ampproject.org/c/s/www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/
+    type: article
+    provider:
+      name: Boxing News and Views
+      domain: boxingnewsandviews.com
+    quality: 57
+    images:
+      - url: https://i2.wp.com/www.boxingnewsandviews.com/wp-content/uploads/2020/01/Canelo-and-Boxing-Trainer-React-To-Winning-Best-Fighter-and-Trainer-of-2019.jpg?fit=1366%2C650&ssl=1
+        width: 1366
+        height: 650
 
 secured: "Z7Iwaqs5Vjq5zE8IIybm2pOsDZkUSE0QJzQSzfFBNAjfE2TcOcoNpGsYkYr0gSUzZzSnEJz4Daf8D3yoykQjRlFwteHyX64Sq9hLkdOcBAB7tju7gxaJ59epCouRdZbEdomTUSNIraE7u0HOI+3TnJi1zPgwDJicQpw52CHn7GTNW3zR+l1fhRRYsVeL+AAxtx7nWx0tsAVEKR2QlRrBb1GvFGGRdqad80sGVs4wQo3MH7iLdEtcBeyECnrnd7h59va9PG4hxaOikvUhqCMrbUZ3+hH3dZaf/z9Zg4fWz4dgbe6eEWX7E6BrR7iuNlbt0uqt8pjBRlAcpLsxuAnMRO+/Qfk0vJjOchWLx/pv2i9puIFs/srLX/OKGG2GJKmBweaRJ+apIbiYZwQfSv5Tgr/IHhhbApI1Kwz/WMiiq9DnFfC1l3iuUZKjH91FawwpqxFLxRxs9kqArfXmFoRtBw==;zmdDmDRRfRlhsUaCWyol9Q=="
 ---

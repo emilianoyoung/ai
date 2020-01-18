@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Velodyne Lidar promotes CTO to take over as CEO from founder David Hall"
 
-secured: "9zQHKNVecmz6SvQ7/bft1zoihqoj3rFjB73Bqy8I98ce38zwOTqNMTdP4c2wj1DZ2wjVhHtUZceS7zt/HvemJ4Pe7U8U1qssoJf73FW+JoZQGFPA65KjluMoLqDB/xWoEYFcnVqXBOY9/Twr0/RTmBt6Ci378VFBm+/+zC4baaNwyLrJZwqAnvdhgBYpJjMJIssaRY/bmrOVrxDvTR0U5/aPs/+x2H/9QxJqoWjVKog1deG8Tiwf/hePNKn9Z0pkI1EbWsQGfJ2Eeq+ZvctxAnrhxQ3q6AZa3Kv/x1InH3I=;hQT+kr/2jYHTSY3odijn5Q=="
+secured: "HMz6texqNwu5wmC3k/TY5W2Cz+pbb4DV6nATusB1P44SkLr5pbKjBFBaAOSPsMUFBxPQ0BbMXgioP4b92n1ZW6k6+W8I31Y9E8rXUj4D5z0YtFiuUvbAZ+UoQvTwl9DgB39vfmgJoDcYfbfvd/GRLDmCl6x2oPNGQXV2tdl48iIq+NA0KLei/YqoQOi64MMFkzZn0c0Lo712OyBwZrxIc0MnnK+mBywCCT6jCb0kzCmF8IZtZJ7pAeJQYl2flAjRql6J+rDtztwNk+xa/bnzf2DyoJaLOGySr/vhV1ACcYvhZiyYDU01ejZ/FP80gXK6sSOYjjBDZisk4QrMdYhdCAXhu+EF1uBgX3hR1qqUx1r1c3wAJkTrM16C3ITu88A34CzYL+WO0KT1rotecWk3vbU+68Bw4lbl1iDrGJvXf3xVd2oqte5O0ZN0WVNd4XluILX/yMXwAXvNr7Y0W+YKWg==;z/05rVVS8TYkwU/h1+huHA=="
 ---
 

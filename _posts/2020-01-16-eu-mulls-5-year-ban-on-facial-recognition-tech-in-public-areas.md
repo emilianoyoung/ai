@@ -86,6 +86,21 @@ related:
       - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
         width: 1500
         height: 844
+  - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
+    excerpt: "Police don’t have access to those videos unless a homeowner gives them permission — something Ring has been less than transparent about in the past — but imagine if those faces were sent to the cloud, where they could be matched up with, say, Amazon’s Rekognition software, which can match faces with a huge database? What to know before ..."
+    publishedDateTime: 2020-01-11T18:19:00Z
+    sourceUrl: https://www.tomsguide.com/features/facial-recognition-smart-home
+    ampUrl: https://www.tomsguide.com/amp/features/facial-recognition-smart-home
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/features/facial-recognition-smart-home
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
+        width: 1200
+        height: 825
   - title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
     excerpt: "As the longest running biometric modality, fingerprint payments will take the lead in this market as standards coalesce around the technology more easily than for facial recognition payments.“Many consumers are now used to making fingerprint-based biometric payments, both for contactless and remote payments,” remarked research author James ..."
     publishedDateTime: 2020-01-16T17:01:00Z

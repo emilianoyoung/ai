@@ -54,6 +54,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Congress moves toward facial recognition regulation"
+    excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
+    publishedDateTime: 2020-01-15T19:27:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/
+    ampUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "The top facial recognition cameras of 2020"
     excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit or miss, based on a variety of factors, from ..."
     publishedDateTime: 2020-01-14T11:06:00Z
@@ -69,21 +84,6 @@ related:
       - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
         width: 3413
         height: 1920
-  - title: "Congress moves toward facial recognition regulation"
-    excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
-    publishedDateTime: 2020-01-15T19:27:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/
-    ampUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
   - title: "EU considers banning facial recognition technology in public spaces"
     excerpt: "The European Union is debating a potential ban on the use of facial recognition technologies in public areas. Facial recognition-equipped systems, such as those found in mobile devices and cameras, are advocated by law enforcement as a way to track missing persons and as useful tools in criminal investigations. However, critics say this ..."
     publishedDateTime: 2020-01-17T11:56:00Z
@@ -498,6 +498,21 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
         width: 400
         height: 400
+  - title: "Springfield City Council moves to ban facial recognition; says systems are unproven, inaccurate"
+    excerpt: "Springfield police don’t use facial recognition programs. But tech companies including Amazon with its Rekognition system, are pitching the systems to police agencies. Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations ..."
+    publishedDateTime: 2020-01-14T01:27:00Z
+    sourceUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html
+    ampUrl: https://www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/springfield-city-council-moves-to-ban-facial-recognition-says-systems-are-unproven-inaccurate.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 32
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
+        width: 2176
+        height: 1578
   - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
     excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
     publishedDateTime: 2020-01-17T00:32:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vi
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -46,6 +46,21 @@ related:
       - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/14/w600X390/Now.jpg
         width: 600
         height: 390
+  - title: "Canelo and Boxing Trainer React To Winning Best Fighter and Trainer of 2019"
+    excerpt: "The Mexican fighting machine ended the year by moving up to 175 lbs and defeating feared puncher ... Here is what Canelo has had to say (Spanish to English translation): “It is an honor to receive the BWAA fighter prize of the year but it represents an even greater pride to do it by your side @caneloteam. Many thanks to all who voted; Let ..."
+    publishedDateTime: 2020-01-18T11:22:00Z
+    sourceUrl: https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/
+    ampUrl: https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/
+    cdnAmpUrl: https://www-boxingnewsandviews-com.cdn.ampproject.org/c/s/www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/
+    type: article
+    provider:
+      name: Boxing News and Views
+      domain: boxingnewsandviews.com
+    quality: 57
+    images:
+      - url: https://i2.wp.com/www.boxingnewsandviews.com/wp-content/uploads/2020/01/Canelo-and-Boxing-Trainer-React-To-Winning-Best-Fighter-and-Trainer-of-2019.jpg?fit=1366%2C650&ssl=1
+        width: 1366
+        height: 650
 
 secured: "dvM9hXsBVn5s33px2DZVP9tDEvcWKMyt6nC2eYoIyXLqnIADBmw8TY4N1Vmyw1GkvbOCgEBAoxyp2Rp89NCFQPs6MrOjeHZI93Nw9dzkb2EE2YefhnJ1vDSSVtSymxrhjMR4FzCZX6U2ALe/iaGCk6+GT7rAzGhSr3d9buRk9tYN3i1LHAerM8CrwS4UL0uPooL9I4EpICKtfB6mSxJ6B4sRrHnfsePUiM4k7HIgDf31qB76++cc3d4v2CHSAdsp9opsr+Z+eElHQ5AT3dZ/urRT5tXaTcMbWg1BdJ7U88ExQcVPQkEHcfvpnz6NV2MVovHmlcl+AWEripkYE8vZVIDAK+R92Xe19j0/y7JY/zgeDTCetN6fJGUv0PFpTqew+BQuedwjbij/z1xua+jnGWp/tWnbde4wO2upQUmauEZ9M68Ua69Uw/vVdrLG2HWIQ78GdJ5DhHr0DLKQnyitdw==;SaP4zkOB7+erDRuLOtRU9g=="
 ---

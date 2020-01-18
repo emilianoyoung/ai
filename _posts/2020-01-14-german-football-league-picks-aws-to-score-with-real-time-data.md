@@ -23,6 +23,6 @@ images:
     height: 667
     title: "German football league picks AWS to score with real-time data"
 
-secured: "XKhBQzuwjtC+fNsgI4g8ZGGHLcxxP+Asq0576+GL2CiWhiIg09ZyevN90mnec1RlTbxj99FmvNVuM0T3Zd1EOuswpNlphs0XvIbXtzvFZbWZoqi8IMfkt/JnhzAZoHY/kuf1lLjXmpQKJdG7Qm0vgTWxrIi3J+HC2HfrZzRTUCGt01TW+ZtedBsLy+wcwsrnfXroDC7lA63TskJUsvj+TJ4uGHER0TiAITgZHw65l+TsAO9aEr5wqljzHSMM9OHHctxHjiiC0IMv3jZ79mZZojY0DLdWWZdWwGAJLSUG/aI=;0/9td4H0P+hb8EkaV+UKDQ=="
+secured: "HrYFcSoRFPbgLaCKKl5b5B2E80dSILag/icukz/ABmhrWoahRBB94WSV3qjElwWlAlcwkbVLibdzOSrG2sjkf/BqPw069ICOrW6Y1WMtaYJO6n140PouNNCMDvIhS3VTkKOEc53myJR95OcgyxQLotIMRh3TBZT5uX4cPvokiKHlsEzJsiBJXz4HgYx61+31OaH6tX4OK2zOFX887r6SY4Tugk5wpiDLTl/4ZaV7MioNBTiNAax8hsbJXEjCb+NoVD4u1LAUkeDvTvYpDy//B478u/3mMj+JtVbxA5KiUXztuH87XfW6KM7BpBfD67bvCeOqIxBWcBoTv2sgmZWs+qMUJILJBPT71uvynU6sWHtrO30WtXpvQn33dWHj/Yobm0yGXO+7FvgOjDlHDy42gxKP+26iXhl165J2jWz/59AyXdPzfM7wlI6tpsrD0xRPYhrrxjaIYhBUHGmSkKA4Jg==;sBZNRUALqI4JLiTNZYPJSw=="
 ---
 
