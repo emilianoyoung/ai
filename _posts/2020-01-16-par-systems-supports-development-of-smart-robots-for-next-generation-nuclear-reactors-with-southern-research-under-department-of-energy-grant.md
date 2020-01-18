@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T19:36:00Z
 sourceUrl: https://www.roboticstomorrow.com/news/2020/01/16/par-systems-supports-development-of-smart-robots-for-next-generation-nuclear-reactors-with-southern-research-under-department-of-energy-grant/14679/
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,32 +16,6 @@ provider:
 topics:
   - AI
   - AI in Robotics
-
-related:
-  - title: "Researchers developing facial recognition wearable for emergency service workers"
-    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
-    publishedDateTime: 2020-01-16T21:22:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
-        width: 300
-        height: 250
-  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
-    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
-    publishedDateTime: 2020-01-14T11:28:00Z
-    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
-    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 7
 
 secured: "myv5cGXhrC+9jpvuNngP6PNCLSEnuHpewRnXcB5t5kI/Z4XZNVxw4qY5BksBf2FLZ+f9Dw4qrLnfaD36cesb0fzUUK5TEBD5dbmNHsl6zodgYoRtsgokROC8XnEWFucVNqvS36LgKLuoIvKnh2jPTzPZjucWgv2A0/sfCVfwzitWVfrJ7JAFF4lbkmPum4qOBVEa4CXP9egCjdc8/6wWBToDf1yZxLWyi5kfjfiWwYXjiV7izuHCKwpC0CnBWTYqNwancfmTnbzJsX0Ghn1C4XcMBJpukNONyoq28M1jD5M=;LiqTR/Vkepnj5wdQh84fyg=="
 ---

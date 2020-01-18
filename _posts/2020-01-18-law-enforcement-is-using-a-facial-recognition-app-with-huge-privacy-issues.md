@@ -1,44 +1,35 @@
 ---
 category: news
-title: "Researchers developing facial recognition wearable for emergency service workers"
-excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
-publishedDateTime: 2020-01-16T21:22:00Z
-sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
+title: "Law enforcement is using a facial recognition app with huge privacy issues"
+excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
+publishedDateTime: 2020-01-18T19:45:00Z
+sourceUrl: https://www.engadget.com/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 87
+heat: 137
+published: true
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
-    width: 300
-    height: 250
-    title: "Researchers developing facial recognition wearable for emergency service workers"
+  - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
+    width: 600
+    height: 350
+    title: "Law enforcement is using a facial recognition app with huge privacy issues"
 
 related:
-  - title: "Law enforcement is using a facial recognition app with huge privacy issues"
-    excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
-    publishedDateTime: 2020-01-18T19:45:00Z
-    sourceUrl: https://www.engadget.com/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
-        width: 600
-        height: 350
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z
@@ -65,6 +56,19 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 39
+  - title: "Researchers developing facial recognition wearable for emergency service workers"
+    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
+    publishedDateTime: 2020-01-16T21:22:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
+        width: 300
+        height: 250
   - title: "Voice Recognition Used by Law Enforcement"
     excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
     publishedDateTime: 2020-01-12T08:00:00Z
@@ -86,6 +90,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "K5od3H7DCcYbGbGaGlmwV0h6l+Hms4XjgSVACkAgP/KNRlOkBZJUs0Iyu+JDXahz12G21aC0FsX5iJmCQsfUjP8F/V58bXS8A4rHdGkj8nVAELHhaYARqJTNr5Tu0Y3oCJ92NViCuMwdsGv/cNlxctnAtv+csUH5B1rJ9e42re2j6CFSb3At9XQQkw2E1y34ADLVNJ8Hbxi43TCUHRZ124QFvjgQtSTMlyTfzxpyjaOAFwQCwXZkQOBFC/c1X/r0x6mymdv2DWS0NW+lcfGJj8BtfZlbWGIP8Q7mMkNZVsE=;wE+QUTd1KcjAIiRTmXIzSw=="
+secured: "scXsGnBfz2v1+O7V4fV8r0gh/wbQPLvK/JDC3JyR9pTCpwqLe2yNuOrGj5rQUan57OT/R/LPQ7ZnpOmwfri4C47qa/YABn9b7F2vdmh3GtwXlM2r7ZGlikp4uJCBoaqDFV+DYjHtI9JZYNlxZnYax24fKSPwJTIJYZd0ABAsmb8VjBoe5rHSapkGbaWufoCBkmZ4r6GH7ihUJH74nGIZ0S7IHnbCSv3gXjJBQQ45PT6DR78OLW1bwkdkg2ISf0Fhth/tUi3/hQom4oBMGS14MzLDL54hSazIUePt/cpuVgM=;img3Wi7Hs/eZuO2cadDsYg=="
 ---
 

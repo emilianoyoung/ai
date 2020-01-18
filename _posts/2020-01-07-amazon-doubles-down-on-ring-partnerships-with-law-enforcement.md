@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partners
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/09/09/23185846-0-image-a-8_1578561041268.jpg
         width: 636
         height: 382
-  - title: "Voice Recognition Used by Law Enforcement"
-    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
-    publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 4
 
 secured: "cM+W/n2v+NqbrLjfVR7nWY+/9lGQWLTkysOf2BduJBGuwK2I9b362qjCOQOTEH4Vrl5A+BaghwPg3BWwyRCXXZcO5hKr9NquCsht83WNrTjJxwKihlvrvlYaI7+QPch7oZnW7jHzlnHiBkxXzMGnaMNXqPeUXdC4s6jw6NF6ThBEItRexKQZ0iUU/x52yzS+of7+YZKkX/JraQ0jlnF6jznxLl4bb+mXFwJHk/2Ki+7unRpZc/ZsFkrmcdHSm7vXx3hvIBVtz1lurIYdYeNGZzN+R3SWZ8EZm9yoPkNt7od2MF3LBrsnwhUsVdbAefpHts8yGdVAQsfRpy3A5qKegnshV5ZL+9A/qK92cOaI8hTDMzx37QQlFAWqNJ2fcHJ9erVbMCQT9hbtFbRqpkNCh/ihlJhSFBZn3ajWHuumg2F1fbg0saUOK8G/sAPok24QnrjWfdYotBYOUyxd9yGVBw==;tHaG+kXVsmr/r1RwbngT1w=="
 ---

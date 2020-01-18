@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T11:15:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2017-2024-with-detailed-insights-of-key-players-and-technological-innovations-2020-01-15
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -50,17 +50,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
-    excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
-    publishedDateTime: 2020-01-17T03:12:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag
-    ampUrl: https://amp.benzinga.com/amp/content/15140449
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "UvS6EQ2CoFYaClll/gadk7p0mh5yIna0Pfo8YWHDz7fdB8TlKxq4aETJdgrey8Ak+4cs93tAmUq7SvMjYwvhrm3etzL3u+/RTXR0Q0gwLn4ME9DoBbl2S9L6u+JdCc/xGqkOIO+p/Vn67WjUVOji6Dvf/lQ2wQrB+yFygU+11tFTpv1cNJZcaSFXCV/3H7+Fu0EwcrKblZBBrblN+71NgjJ1t91gXZDIJFDXcONS6w4dSgfPRnsuRMTWRZ1kVOQpJzUWBhoSX/C3YysA9IkVLAkwQtN6HxbjTY95ypzjjJM=;SvNyQMct2UZ6/xm72MtaVw=="
 ---

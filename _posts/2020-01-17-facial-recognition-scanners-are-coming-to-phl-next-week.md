@@ -7,7 +7,7 @@ sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international
 ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
-quality: 59
+quality: 159
 heat: -1
 published: false
 
@@ -621,6 +621,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "/pEIHkOuV0n+j2MqxuNVLH8Svc2+Cr3XnG/h4zrMUmTVkLbkaUDiOZ2XZyLdom6aqr3Fm1VUXLK6ys8ora9csqobniHguEj0+MypnG2sjOoO6YNUuEvfptCupz69e3sy3aUN8fv4+8yU62c4NFnNtKV2gz9bqq9pBbeVJ7jrQGbWlaSX38RM1i5aNW02KQAjwVv8ExRV2ckyIKGAVrzYzkAZEqqEmTpctVF1vZiyljbli1aYnvqKd3RYBzZVRjF6GH+WWVodniBlT8UpsVJrSUIXC1oFM6m/sMmtGT7TK6L51Ad/MCEdHPKCQsr4FFcBeVavjFCFNS0FMiOKhBw9f9JcDaqoOYhZoydM3Qhjk4qtPltpSbFY/jvJp2W0IKU2+4wpv4lzy3O1RlHCLyYBcs+shVlXy0GF5dHK/4Bhes9OEakk+a5Ry0f1zduD1DWue7FschYama9Y/DX9Kc+CIA==;SGYxRrfXIw8Rw1EqML6FoA=="
+secured: "7aAcyHL7KEBmBdB8MDQsgL4EWkT9wX82Lelv9/ga/fu3fPEecJklk/cAiRRxckrRuvCxJeMGmPVormgs67r23vTTM8QKXVVfj2yN/nxNDGCPBc9YaWfGJsrZkNydbQeUJf2JzrTZ/pzYDQ6SE1vnuttRR5jSIZCuGmJoC1fgyM0IeAUR875Uea7OM2V3MMv7wezGYZ1ky27DT2lhqfwo6w4UyAEec5neSRwTSv1BOiy1WUkiypzmLCNVPiXVsHqhzYMqn1019BbrCBK6lkmBnkHBAQVYAfduD/Hx66J7Zwm+9ao9ytAW6uf7VnuioybALRhnV7e+0fTUUtCoInWNCbVHHLm28X8Sr7nQytJeMEdDOYRIGNh4ep0zN1DywMJzah/0vkIK3flNA4SlOcB76VBWRO5Whcn9rsVhNuq+DgL9W+QZzMDPvfvHapOCpvf//h6KEXEOjMOHmTLSMLI35ABBORrxvJbKYCBhr9u99VE=;RU23WR28HwJODHhFYDLgXQ=="
 ---
 
