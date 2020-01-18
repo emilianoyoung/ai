@@ -5,8 +5,8 @@ excerpt: "Pfizer teamed up with AI biotech firm Insilico Medicine to leverage In
 publishedDateTime: 2020-01-17T17:25:00Z
 sourceUrl: https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1
 type: article
-quality: 57
-heat: 71
+quality: 59
+heat: 73
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: https://i.insider.com/5e21c48162fa8132960b1932?width=1200&format=jpeg
@@ -41,6 +42,6 @@ related:
         width: 750
         height: 448
 
-secured: "xDLQZ00NqyzrxiE/2Ui60n3b8sBNp2RV7uvRoFjOTF++gO6C7MRa09CXklHSfRAmKgltyWcsbQhxQuLwzXK8cDyaVQUaLca7n5jusHbR5rvyCtTg9c2QewriIJzwzq2r8Wbg7htEk9G2riJtqLSSO/QSlHaURJ/5J0RW7Pb/UiEDqV2qameWHxOhHpmSzHG8qB155O9WcAAuEAABRlkpGJaCF2MHryEIGdOqmDhoi5EMHqwCDHVqWsLuFCoyGK7CzChToZPY+ebjOzesQ4omLrV5Mzy4ZT5GX8Zda5hMMpZkNxLSAwIxRdK72KMrqlT319Scg1AIZyVQUhO2T8rov4fy9rTaeOJQSd1WLS9OmVyRHq3cIw6R9QAUirYBCo+xpQp2ncztgHNOozYmw2NNW5awNzT0bD+5DTZXpPY6bdvTI6u/z77yaJmMbPPZc6limshUqxLH71hTg0K2MSYP1Q==;UALDbVOJr0lynKigZ/ISlA=="
+secured: "QnvNBoJhV4quKSMzxvaMB8ziZjbgnLjMPDREdA12mye8ZWNP20W9uh3wesaEXeQ/2TbZ8ypFX/CmqcPsSX9r3nEG6OTxQhzMicZGvoZL8YS3D5VyjmpkdbrNYafhVIhDC4sUYBgU9EipttHKcKRfc0u+6BdvcW2zByTe4T0RAkDwFhoJkWGbhD4iwWpug0daL8TtZYu9ygQ40bvtH0rE1Yvw28pFn0O3LXC9DTVMb2Ha+2LCGDj4Tv1SYkcmvynBqbaPTVBbnS5iwg1jlNlzPl+v+YqRvAsa1YTPZD0kd8qdXtOm/8aLZZVQDVEUwHkPodwb2J/G1MMiXDgo+goZFgsxVhl147CRQzugHDBR3LchNTzfH3fy4ZrBug9dTuZorzSCMRg4gHUf8DNavraUr0mY4QueEPSVJYfhGQWZ6Raqy0WmA5E9xjgTLSN76Yj7I51/e1JAvtczpUQ9VNWR0Q==;CP+3aA6jikZYw6yAj2RoyQ=="
 ---
 

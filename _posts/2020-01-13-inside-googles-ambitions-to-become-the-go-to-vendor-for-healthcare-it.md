@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
-excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
-publishedDateTime: 2020-01-11T13:21:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
+title: "Inside Google’s Ambitions To Become The Go-To Vendor For Healthcare IT"
+excerpt: "One tool is Google Cloud’s AutoML, which allows organizations to develop custom models. For example, Imagia, a Montreal-based startup that develops diagnostic tools for healthcare providers, uses AutoML and Google’s Cloud Machine Learning Engine to train AI models to detect Alzheimer’s. The American Cancer Society also used Google’s ..."
+publishedDateTime: 2020-01-13T20:08:00Z
+sourceUrl: https://www.cbinsights.com/research/google-hospital-healthcare-it/
 type: article
-quality: 37
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: CB Insights
+  domain: cbinsights.com
 
 topics:
   - AI
-  - AI in Healthcare
+  - Machine Learning
 
 images:
-  - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
-    width: 1440
-    height: 1080
-    title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+  - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/18103828/DeepMind_Health-572x364.png
+    width: 572
+    height: 364
+    title: "Inside Google’s Ambitions To Become The Go-To Vendor For Healthcare IT"
 
 related:
   - title: "What will Google’s healthcare expansion mean for UK data protection?"
@@ -65,20 +65,20 @@ related:
       - url: https://medcitynews.com/uploads/2018/10/GettyImages-889905792.jpg
         width: 748
         height: 467
-  - title: "Inside Google’s Ambitions To Become The Go-To Vendor For Healthcare IT"
-    excerpt: "One tool is Google Cloud’s AutoML, which allows organizations to develop custom models. For example, Imagia, a Montreal-based startup that develops diagnostic tools for healthcare providers, uses AutoML and Google’s Cloud Machine Learning Engine to train AI models to detect Alzheimer’s. The American Cancer Society also used Google’s ..."
-    publishedDateTime: 2020-01-13T20:08:00Z
-    sourceUrl: https://www.cbinsights.com/research/google-hospital-healthcare-it/
+  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
+    publishedDateTime: 2020-01-11T13:21:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
     type: article
     provider:
-      name: CB Insights
-      domain: cbinsights.com
-    quality: 24
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
     images:
-      - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/18103828/DeepMind_Health-572x364.png
-        width: 572
-        height: 364
+      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
+        width: 1440
+        height: 1080
 
-secured: "PqrgkbI/hj6PAwb1FANtDDxuMdwKnas05NKCiUh5715Uw8kNUAuMSkRypoi2zZnTAbC1S0evkJkp8w6R6x3vRMOlUqNaopJKjuHS2XWgno9ZlXItlIW9CiG48jMcK+6X82JtLHDd8+HWDl9i+ptNry2k/VpI63+ZoE2PJffBuuUTCQ1Iz0GsCKVqZTSmeSP10aCIfSRvzywhXdjyato4LlZXKXUUjsh2psCNKfIInaIPq9YJx3zvK6tkq8H8/SGMs/gsnvQMScIxX8SSdU9cYXlrB90mVR0RQVodky+tGiKwjdn/JVuD5Gu4gOHY4BYms0Io8xFNk/Es6hMnAnDW7vFednhHgnFs6HMervC9Y3VxT6C0nZNnM4T4mBkCkOziU0RBqb5JoGkH+j7gnVune5qGDRYksDlhYbRtijyZQHi+QaJ0r1HzA11DD7vW8KXrsWQ9Kv9dkqUA9bLEV0AEHA==;G6xZCNPi21C2dN2A9lZBpg=="
+secured: "hU6XV7MYhc6kMf+FF+/U3S06hGQTpcdF6+YwDLG+mIB0X148y33QjG0Ovemo1yDvR5uJRntiz3BxXCqLW+Hsc7Jg1dQ2Am72Mlb9vQC433PDahkOYQi9tFYqerPT/aL6knfvo7/TrnHyueACvY8HsdtHH+iBFExQDsA27gzcBNXS8wyIu+22WJhlP062v3vfUIQ1qFkT463htYzww64Lq+XNtOyAtF6wghpUkvXmS5sJy7T6TR0brVwxRaAmGYSVYQILJqEyPtiF7CiViWp+wRlzgRvi0eFZ5nia4vYzyU8=;Ae9M+5Dh4IpeXRGcKBTB2A=="
 ---
 

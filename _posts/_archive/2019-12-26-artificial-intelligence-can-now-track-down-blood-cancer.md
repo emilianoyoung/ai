@@ -8,7 +8,7 @@ ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-
 cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,18 +26,25 @@ images:
     title: "Artificial intelligence can now track down blood cancer"
 
 related:
-  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T12:48:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
+    publishedDateTime: 2019-12-23T17:46:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
     type: article
     provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 39
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T04:58:00Z
+    sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
-secured: "fIhn9uoFzoHi6Xz736lObl550vj9rf8uqzF5p6XI9dGwKbZYRpXzTwoACKL/RqrsUQAw6pP2F5GEssAgZ2aoxZFjn0y2PYt7MRWTFXMABoLjePkjuJtUIU37ohLfNEZcqFMbmrXBhjR137r5umSj89wBcPoF4fgx1+GHdd7wt6SSi5+4ZwQE5gR8+YW7kZaagDvsXDK/c6ceafmWy2BLX11AfwnOeZ140Tzsn1toMVvzwbDT/+8kafwS1aslr3fXmHzqBMuaxevWuaM+hKvj69QJYnuKOtlTodpA/++rQ/I=;6fc98O2iEVhpGmfIniqmrg=="
+secured: "FPmShFduDTcDBppBIHneTv8qTSvrROocRjerTgm6SJEmag7MHuVRFmJmhUff+aw1a0KPMgqJ6yLQY3pDwiAi7CASoIyQvG0/5WTfSVplKzi1PGko3iBSH06XLpnFuAY21OBQsf3Gfql4V7SPwIqU5C8wfsJAvnAQ3GTXxnb52S3PddH7dsMhrmHhyD79HZN8xzRO8KO4CZYduclZC9FixvfU671GFQL5OxsHCTGS4OK2PuhtGslgMjYn0hZ4TTTND2AloDzCh1clDIIrCrjtZdcwJ9ePaHpe9HuYa1P0PBQ=;17nm8T5BtUnG4FiKZSyHFw=="
 ---
 

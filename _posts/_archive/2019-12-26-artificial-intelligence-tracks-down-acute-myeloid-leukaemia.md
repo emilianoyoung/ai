@@ -2,18 +2,16 @@
 category: news
 title: "Artificial intelligence tracks down acute myeloid leukaemia"
 excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-publishedDateTime: 2019-12-26T12:48:00Z
-sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+publishedDateTime: 2019-12-26T04:58:00Z
+sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: ETHealthworld.com
-  domain: indiatimes.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
@@ -35,7 +33,16 @@ related:
       - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg
         width: 800
         height: 448
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
+    publishedDateTime: 2019-12-23T17:46:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
-secured: "eaWA1GQo/C0vopqfmi2r2FUYFAcLv/L6QAxBWwoIJbUBSq/ACRRaJyPQBXdv8+o/4aoMWIHZcG/4C7Fbz9hP2x4KHgmHpNTqMaR2PP5OzoE7EIwBrMtT6DxhUXDL7/wozdo+Tc4Ae3+qymgbO9A26NkuVE60lufQXeWBgIPW13QifCnbD2CYxdBCWaLuLrsPhUUyY/PXi8IwzdV7AJZWd38qb8gm+e2XDAStn4vj/63BJSyn1X2yGEC1WPyk2UZBK1U1sE6H1095xLKvvFYHJomezr7eRb2YQMVqVLIOA78=;M6Sd0Gvw3rw+jeGw8powgA=="
+secured: "+uETpSFDkPuobhVPcePNAir3zI0kKeO86eo6vs2z+kJzWDykoXDJXYUBXVNiCgEJKbSIyPBk5gFYmWc4nctQ2Zqvp2KQqMd69ca3RWOgul37Fk6ifuOfrohfKv5pnKW1myzUnWsBBQbncd/5ndkMBoms3ryYd6D1uahUPdwRoF26mvNmVMTM3fMlS9sM8BwBR3bFAUcyi+7446vadVlqwfI/chzevvl5p32cJwGivNoLa3JfmWFpbdUrzwMVqp8MFJCqEFwcFtVmHr1hfEqsTtivPmqsy68YXxGb34SCtzw=;30/B6g2myafkk4Tg1JU1XQ=="
 ---
 

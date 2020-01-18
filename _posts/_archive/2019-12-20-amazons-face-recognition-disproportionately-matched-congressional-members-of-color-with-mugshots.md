@@ -27,19 +27,19 @@ images:
 
 related:
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
-secured: "vAxEcsc0vpypnt4wPBVqsQCsquwv7t1xd8Kc+KUdCOjZPIOdoSnCgRSsqaSJCpLO4BNC63PyiZW86h6XiG2dOaLkWaMYUargZwJqgFzNa45g6pflr3T6kcQ1Iu2I/2djf6raPeuXzac8lM7hhDogzMtaqy/n6FMQWGq6wNzgEIZoh7sjeCIY9yekxGprXisCFx8Y6t9Doy56V0+l90FAbmsp6HJ+P5YG8cNznibrPsRpGbUjXe6oUltxDmWYgyoxdBUfnKz2z00QP6ouy3t5sU2zffu6npwWiHM7ZkKYMhw=;LwUUd6hBJLge1anHl5d1gQ=="
+secured: "aeaBwGXN+Xgh+NUvq4zQs1Q4XS6gimmb+VZSeIfakB9xTVkEBKT7ykJHiih6FDfdJhecT5AUqH2wXUfZa2k2h/1f/jIr2CBFtTnpAJE7Zik/qZWBe/yKZKql44mQVvOtqzIA2TNVJwfHCCUFSo1x+PWDI7SSzE3kOaQp3g2huNsE9PicGxqBOjFS7TAEmJMf7+yi+RwfcQNXXKO9F4WuznhhAQ4OIKwqIQkn0efGnlzFc00ZS9Vs/oSAf5KD0vaNIHmEssldE7OW6bcq4OUtHQyf74y525m25zoG5pbZbyo=;eVXg5NVE8oHL8d4Pkr09kg=="
 ---
 

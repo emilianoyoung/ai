@@ -65,6 +65,19 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
         width: 1440
         height: 1080
+  - title: "Inside Google’s Ambitions To Become The Go-To Vendor For Healthcare IT"
+    excerpt: "One tool is Google Cloud’s AutoML, which allows organizations to develop custom models. For example, Imagia, a Montreal-based startup that develops diagnostic tools for healthcare providers, uses AutoML and Google’s Cloud Machine Learning Engine to train AI models to detect Alzheimer’s. The American Cancer Society also used Google’s ..."
+    publishedDateTime: 2020-01-13T20:08:00Z
+    sourceUrl: https://www.cbinsights.com/research/google-hospital-healthcare-it/
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 24
+    images:
+      - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/18103828/DeepMind_Health-572x364.png
+        width: 572
+        height: 364
 
 secured: "33H/ttG1AU1xHEVfJF3QYNZVlBPP8xXYfgeCjeErX1VSYYJ66mncQyIjq2OpVzF+rV11S11b27O79DTyuRLzEjvVfoXR4aPiyB+vkR0Kvt1/mjbxwtUuPykPmGpznECqAQ8jhJ6PrxJyHM0kQSp7/useQ4Q2zX4mhlWVp65BLg+D3zH8E8QWZkm7b63Lx/Zch2WfhkDi8rqbybXXKGXn0iU0mYJT+4Du+raT+nylOhDU6a1f61QusQ/yNhZFlIzo+uRqrO1WjWXSZCqhLgQWQZ/HFK2egpDZh3Z5ELwv7kU=;yXkfFDV63G6PHB7Ub2e29g=="
 ---
