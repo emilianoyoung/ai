@@ -51,11 +51,26 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 104
     images:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/ambarella-2.jpg?fit=1200%2C655&strip=all
         width: 1200
         height: 655
+  - title: "BlackBerry and AWS combine forces to create edge-to-cloud platform for automakers"
+    excerpt: "The platform uses Amazon SageMaker for developing ML models and AWS IoT edge services for in-vehicle ML inference. \"By combining our technologies and strengths into one dedicated cloud-based offering, we can ensure automakers have the tools they need to deliver the driving experience consumers want, without sacrificing on the security and ..."
+    publishedDateTime: 2020-01-06T15:53:00Z
+    sourceUrl: https://www.techrepublic.com/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    ampUrl: https://www.techrepublic.com/google-amp/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: https://tr4.cbsistatic.com/hub/i/r/2020/01/06/d81bdd9c-466b-4013-8c76-a311e4f76e23/thumbnail/1200x675/9bb56c6a9dff43731ee7c67b12bb93cf/ces-2020.jpg
+        width: 1200
+        height: 675
 
 secured: "Lv9lZuba4Es8SKD4hhTXxwNngLRvdlHYhJEYAaM+zrIaxJrZn4TBKBCgJr3azAuZ7gNWZZ73+iqfQisxdlHf6NZd+esi6BWSMUXnUnFE3gEga/3h1/HwZC1ayN76nTb9U8ZQ5/qjXGOXYT8Wlewl8etxgkhCiVpUQR4rd+l+0hd5nLgJSlbgYhpZg2//fvSbqolmgYSmz6BeZGxBOp5D10mQe9VqX0RUVzRrzODuP8KAWdCqOjKMzR5jC+uWoruOKv2crhrv2UwSbqTnghdBqiPcKwThMpRXlmpPwXiGO4wM/+5tCCeZouA2AtlZZvmaeCPo5zbM69KAc+g7lCsLZj64EmPWeaTFkUOt1xLbp6Wc4rq+v0RTilMt7frWVFAX//RGTZDzA6S8nlwbm+KyWg715FfUcB6HX2mufhPf9y8YN1EI1yDxulR3BvJ3lHWgdmdtgLNBUl3OSlDIFzA6vg==;zClAl/wwy3f4lpD5wnR9NQ=="
 ---

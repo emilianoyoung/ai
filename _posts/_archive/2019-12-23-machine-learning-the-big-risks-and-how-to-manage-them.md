@@ -25,23 +25,6 @@ images:
     height: 281
     title: "Machine learning: the big risks and how to manage them"
 
-related:
-  - title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
-    excerpt: "“The artificial intelligence stack has to be taught anew in each city ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing."
-    publishedDateTime: 2019-12-23T13:00:00Z
-    sourceUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/
-    ampUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 44
-    images:
-      - url: https://robbreportedit.files.wordpress.com/2019/12/2-exp-100-gt.jpg?w=1000
-        width: 1000
-        height: 562
-
-secured: "cOt+I5KDme9wlSDRP29gZCqImL5hQF9xkE6854uuR4GGeLcTJDBJzrx/SYrAGDmBIoxfBXiYsqJ2epjz8A0k/cYZMLhrYol/KR8QXgkXiJUuTIjkECHfi4niQXf7MT6BiCrwjncPiGHMziyrGYJSlsAt0yrjIn2s11lhueAu0rHu2vKyiScL8BBLU49H69g2cW2fdYg7+WY84ZZd5C5G24DO+C54zeyMxQV9OqXRja7plno6di6D9jq3yRtGItALR7LI4kBqWPtJn5wk1Gaz8In4bAGr9JZcNdUkvZ5zoZA=;9DrcPVaKuMU8IRcyZsbNog=="
+secured: "WY50bz5uyNVJJLyWiaf3uYSN/hmfNW0vPFJintPI6K6V7DyOKHCWVidAMoOeN2z7G72M3FonCPpH5ITLW/+WVPOJ1HZcf3G79NpsVgNBrKtF5Ih2glAkVUXF8QQPGYnP4ebwDM/jY4OjsN59/pgz8LXzNmdoNOEUqMya6BtnuSMY3jMmebSN0KgoknT+bV8A1vjXJewdMvIPeIGy4w7ELV0AZ29YlxLskKRaiyRMrEIlhInWqfljGWIHs1yYSOgcrb+z/hniYDTkns3wre6EVuB1IdT8FyEaAFf0rK4WAOo=;rSTE3qLW8NRqeP0vhKyUkw=="
 ---
 

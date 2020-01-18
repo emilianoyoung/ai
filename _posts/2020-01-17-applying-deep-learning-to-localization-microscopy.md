@@ -41,19 +41,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1195656750/960x0.jpg?fit=scale
         width: 711
         height: 474
-  - title: "Artificial Intelligence and Machine Learning"
-    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
-    publishedDateTime: 2020-01-13T17:47:00Z
-    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 56
-    images:
-      - url: https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg
-        width: 1500
-        height: 1038
 
 secured: "x7q5HrN8FpBAIPvX6MOWoxgpi9StbHxKXZJTGcOh8AksqHi/etZbju834z4cApw9nvPKt3T0vvTxzyghIA7r7obP1XoXz/lIGPN7p4kL0geRpLFh+Dk73TuSFxqfJiZ2CAxxMpTVTwj2eI1cR2Ngkh9nSDvwvV9d1pgAA7sle2h/xhvYbcpPREzC09KGN4E56L/9SK/zMzCrr4NUIjXtqz7lZ5Si5lfpiltiR8kYEEUl/bsv3oMd2eOvB189gOc/12cfqcVmJpqB5D2bKK90bZH9EgjAB5YCEmIXoF8yJKwjY/9Yo/Vj9xD82ORlsM1hqoXbVt0WJGe93lt9iyWAxnFsiQou9mynZs0ULK6GZh7FwLHsIF9N21qaKTEwu4v2RsZMOXf0qFP7XEIF21EDcVZ/goGft4dk+x70WQF+qIeII7Oun5GFkn/BlGCva4Gphv8oTU4Y0iIEJzq5LbVGaQ==;wuDYHemKKie12DKjLhweTA=="
 ---

@@ -25,36 +25,92 @@ images:
     title: "Artificial Intelligence and Machine Learning"
 
 related:
-  - title: "The Emerging Meta-Learning Oligopoly"
-    excerpt: "All of us are, through our data and money and a few levels of indirection, helping provide the education that will transition today's narrow AIs to tomorrow's artificial general intelligence."
-    publishedDateTime: 2020-01-13T12:23:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/
+  - title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
+    excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,"
+    publishedDateTime: 2020-01-06T19:54:00Z
+    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
+    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg
+        width: 1181
+        height: 663
+  - title: "Artificial intelligence: How to measure the ‘I’ in AI"
+    excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
+    publishedDateTime: 2020-01-12T09:07:00Z
+    sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
+        width: 796
+        height: 417
+  - title: "The Self-Driving Enterprise And The Road To Automation"
+    excerpt: "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes."
+    publishedDateTime: 2020-01-09T13:09:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 74
     images:
-      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1195656750/960x0.jpg?fit=scale
+      - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
         width: 711
-        height: 474
-  - title: "Applying Deep Learning to Localization Microscopy"
-    excerpt: "Two such technologies that can be combined to produce a better understanding of biological systems are localization microscopy and deep learning. Localization microscopy is a recently developed technique that has the potential to transform our understanding of cell function at the molecular level. It provides pin-point accurate information ..."
-    publishedDateTime: 2020-01-17T10:39:00Z
-    sourceUrl: https://www.news-medical.net/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx
-    ampUrl: https://www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx
+        height: 461
+  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
+    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ..."
+    publishedDateTime: 2020-01-09T22:34:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
+    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: Popular Mechanics
+      domain: popularmechanics.com
     quality: 59
     images:
-      - url: https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1096541144_80b03e6813c6441f98f150075dcfff1e-620x480.jpg
-        width: 620
-        height: 480
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
+        width: 1200
+        height: 600
+  - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
+    excerpt: "AI could intervene directly to improve personalized health care and product development. Importantly, the health management platform precedes the leveraging of AI, so we must equally invest in cybersecurity, Big Data, cloud computing, and blockchain. Artificial intelligence for Africa presents opportunities to put the continent at the forefront ..."
+    publishedDateTime: 2020-01-13T19:12:00Z
+    sourceUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/
+    ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 50
+    images:
+      - url: https://www.brookings.edu/wp-content/uploads/2020/01/global_tanzania_drone.jpg
+        width: 6720
+        height: 4480
+  - title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
+    excerpt: "The emergence of artificial intelligence (AI) and its progressively wider impact on many sectors requires an assessment of its effect on the achievement of the Sustainable Development Goals. Using a consensus-based expert elicitation process, we find that AI can enable the accomplishment of 134 targets across all the goals, but it may also ..."
+    publishedDateTime: 2020-01-13T10:06:00Z
+    sourceUrl: https://www.nature.com/articles/s41467-019-14108-y
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 46
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14108-y/MediaObjects/41467_2019_14108_Fig1_HTML.png
+        width: 685
+        height: 343
 
 secured: "q8SwFbWAs2sCqvFI6/RQzb1DlDkRBswTEYmD899vr1F0X5COsRpYVvI2SI2EPKIdf4y1fgyHkgth6MzHNGJmYHysUTJeiM4ep0l6jFXU5Pf+LK2pk5Q83xaru2gheeVXh33jgepc13ya8n5PBu9bkgyWIQTHlPENAA1tUNjjwCHaGzTYtE80xE9htWWkYm830zR8fb5Q4zF8ylcr2yP+XpcUtVmuAdqXa0YLkBbo4S4w4qSnp78eXKqEUg67eKtYgHdkY6FOmKR2PR/U/a8yt269YFCpU3c5Rv2A1gh6JnF4mV4cEz8CljdRYrRaUq81uk5Lb00eh+Db8yhB9VtvIb84U/nsuwlTWbUzCxu0/W1yYo4pGVEHWSsKY58DU/Hvj4kV/8B0wTxwM0bwk04s3eRsOQCHEXRLoeknpuDpE9QR7jKZRDLC+i9AecqxmI6zMrGkphi2hc90N7iIb+Ijsw==;XueJc73DbfYGyDS80+hMMg=="
 ---

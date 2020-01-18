@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T11:15:00Z
 sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,34 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-related:
-  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
-    excerpt: "An extensive and elaborate primary research on Global Image Recognition Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Image Recognition marketers and clients to understand the market globally."
-    publishedDateTime: 2019-12-27T09:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
-    excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality ..."
-    publishedDateTime: 2020-01-02T12:05:00Z
-    sourceUrl: https://apnews.com/Wired Release/20e8c5c9a540ea70c73effd0085b6585
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
-
-secured: "Sb78TubuVT4Ep57EIe4dY/YyTLMf7LQRVkhYzfeKQOwTBqdI0+tWlXz91NyOIBayj9az36TuE2TDbADevy7YhvvyKCmkHZHW3uxPQZ+02fibCADbIkZ3C4BGjAgxRtupBDia9p7FIZlLjrysRlfLy0Dq7UD7qgVMktvHp8tZSPhYasmCUE9F2BA+PIL0ZiWJyh4oItSGuGMGafdxNnx8LgV6IAUMxp1QFJJQ541d2CQmF0z92TlFM5wPWXrM1avIZZ824anc0TDHqgYovjPWHDHBvCWBYi45aPiYB7a2pIA=;E6/3iqjX4SIDqyanI5Y/kg=="
+secured: "WRetybgsfmmuh1CZhbIREXczruDieMIg2KmdjGGS53b+tnZkxCh//Uo+CND1PJeLZBnjrO7wdi9btBTLITyShCH8Txh24U7V8wwAfQsEC9Cms8v6/Tyr3QlzKMgWzuZqcOldCSuSq6xLCCCBDtFX3s/LvHbv1Ql/3fKqjHjDp3R9GNVW+PGcvv14s3ihbfEYK1381JsP77ms+2XzlQCER2KH6PO1P0d1HkI89Eqvx3PVZCXYcpsTDBdYAw9CxCLAB5KEOop2XBPtX/QnG5GOdA0fPYLCQACsJ+8uIOKXloc=;IciN4xwQTOQHefc0f7AY9A=="
 ---
 

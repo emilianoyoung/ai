@@ -69,21 +69,6 @@ related:
       - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
         width: 940
         height: 627
-  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
-    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ..."
-    publishedDateTime: 2020-01-09T22:34:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
-    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 59
-    images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
-        width: 1200
-        height: 600
   - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
     excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
     publishedDateTime: 2020-01-15T16:41:00Z

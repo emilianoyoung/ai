@@ -25,6 +25,6 @@ images:
     height: 388
     title: "Applications For 2020 Facebook AI Residency Program Open"
 
-secured: "QWoOmFqW0/bfwTl4awoh2QgmjYMazZLmZLqMv76fTTa+i992+HJpZOdi+S0fN/D739oidtgounT9Bnbkh1xPclopHn0dc+NMaBdNfGevtnJHUdH6mpuXblE7U1dE5Azx7aB6RQ4NhXlwgqrEn1PB/M8zMhwm3X8SvsV1U3vHWaOzclEy63Zu8h1zgVUNppH+ZVuMzoUW7ZAd+gYau0beK3Bw1F2DQ+9wsInqXaenIc0WvI3S7wguD6t/2vzPGMeHQwb9NivrufzGyuvLF8BlM6SvUEazBWDOmlz6oWz6eSQ=;wBiXIlQ5LjFsMRNHbew9Xg=="
+secured: "rC9KosBsWpbtSCoX/JOsAeiX4zvoiEQ7OYu474UHkOqxMtiHkABG3keRRMUuiSa6cDnr35ut9rriM3IDSQvKTJSPFdX9vkQc/TXBeWryaVaqnYBVDU3YEs4qdLsxorC42Rv8ROA/sbw5/Lbkkg6NHwKSna7WRZjMveavlsAz8N8MHym30rgv3NjeL0DFzCziXNfLMR6TQY7HjwECn9xGFcxY1ggkpUb8l2HJcc2hR3OUqHPNVGNswAOg3LFkPatjb9bBNhuBynVkywEE1egBx3l6BA45yJE9mHuW8/+B6hE=;qofWMFfXkh5gX2yUyY3evA=="
 ---
 

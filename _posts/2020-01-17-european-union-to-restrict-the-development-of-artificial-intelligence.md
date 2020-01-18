@@ -8,7 +8,7 @@ ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-devel
 cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "European Union to restrict the development of artificial intelligence"
 
 related:
-  - title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
-    excerpt: "The emergence of artificial intelligence (AI) and its progressively wider impact on many sectors requires an assessment of its effect on the achievement of the Sustainable Development Goals. Using a consensus-based expert elicitation process, we find that AI can enable the accomplishment of 134 targets across all the goals, but it may also ..."
-    publishedDateTime: 2020-01-13T10:06:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-14108-y
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 46
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14108-y/MediaObjects/41467_2019_14108_Fig1_HTML.png
-        width: 685
-        height: 343
   - title: "European Union mulls new tougher rules for artificial intelligence"
     excerpt: "The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU's executive arm is set to propose the new rules apply to \"high-risk sectors,"
     publishedDateTime: 2020-01-17T14:51:00Z

@@ -39,19 +39,6 @@ related:
       - url: https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png
         width: 788
         height: 525
-  - title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
-    excerpt: "The emergence of artificial intelligence (AI) and its progressively wider impact on many sectors requires an assessment of its effect on the achievement of the Sustainable Development Goals. Using a consensus-based expert elicitation process, we find that AI can enable the accomplishment of 134 targets across all the goals, but it may also ..."
-    publishedDateTime: 2020-01-13T10:06:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-14108-y
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 46
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14108-y/MediaObjects/41467_2019_14108_Fig1_HTML.png
-        width: 685
-        height: 343
 
 secured: "lPvtvG1LPSnbETtS5PBrZv1Co3q0M+SEm+H3jII89CfaJAAepox4nAva4D1BQZ1bND+WXQcgX3LTgDhuiSfq0N2PYcY0SGZitDqFFB4ncz5sxMKWeZ7NoCC9cCj9W94MSa+eaaKA9v33YhlaOLpfryYjLjl9vJjEYqvMF/jbjV0y/eu/EHO3bLFVM2Kp24lfVQ5e09ha4F4SXQtd+xW+2PAoZy7HiZlFwd2UGQVoG8L5ffSyzAypkC4vlipDWrjmDUeI30CqAY6PMPLGymi/J2bZVWcalE7KASdQ9ppzEIEZNvK23ORacWzSe9P9YFa6xC/2uZuPn51sBTQpeJOthVMezcD6ED8olXHmiuJPTqmg71K517rtu8SEEnE6o7QzL5hF6+19GIqQs52MM6MPBhCFJiPuoQFPCcYTkDpbumgm3Zt4loj109d/+EJeo7hxO0+3jVwXMBHoAsYrP3IJLA==;Ltb7ypk0M7vv1nbHYwREDA=="
 ---

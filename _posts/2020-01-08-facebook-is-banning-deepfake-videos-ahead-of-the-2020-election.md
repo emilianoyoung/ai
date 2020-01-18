@@ -54,6 +54,19 @@ related:
       - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
         width: 1380
         height: 600
+  - title: "Meet the 11 power players of Amazon Web Services who helped build it into the biggest cloud business in the world"
+    excerpt: "Amazon Web Services has nearly half of the public cloud market share, well ahead of Microsoft and Google. These 11 executives are leading the charge."
+    publishedDateTime: 2020-01-08T18:06:00Z
+    sourceUrl: https://www.businessinsider.com/11-executives-power-players-amazon-web-services-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: https://i.insider.com/5e137ed2855cc26bf008cad3?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "From 10-second toothbrushes to pizza robots: Here are 9 of the weirdest tech products at CES"
     excerpt: "The carry-on is equipped with AI, self-driving and computer vision technology ... If it is more than 6 feet away from its user, it will alert them via a smart band on their wrist. Jennie, a cuddly robot puppy created by robotics startup Tombot, is designed for Alzheimer and dementia patients, or others who could use some companionship but ..."
     publishedDateTime: 2020-01-10T22:49:00Z

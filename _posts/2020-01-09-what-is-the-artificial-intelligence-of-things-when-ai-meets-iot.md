@@ -43,6 +43,19 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/nMTQhMT2WkxcBGvCZcE9qL-1200-80.jpg
         width: 900
         height: 506
+  - title: "Meet the 11 power players of Amazon Web Services who helped build it into the biggest cloud business in the world"
+    excerpt: "Amazon Web Services has nearly half of the public cloud market share, well ahead of Microsoft and Google. These 11 executives are leading the charge."
+    publishedDateTime: 2020-01-08T18:06:00Z
+    sourceUrl: https://www.businessinsider.com/11-executives-power-players-amazon-web-services-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: https://i.insider.com/5e137ed2855cc26bf008cad3?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
     excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
     publishedDateTime: 2020-01-08T19:45:00Z
