@@ -8,7 +8,7 @@ ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-devel
 cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "European Union to restrict the development of artificial intelligence"
 
 related:
+  - title: "How Is Artificial Intelligence Changing The Face of Web Design and Development?"
+    excerpt: "With the help of AI or artificial intelligence, object recognition, deep learning, and image grading will be more accurate. Artificial intelligence or machine learning applications are able to help web app developers face problems related to coding, security, user experience, quality analysis and much more. Businesses all across the globe will ..."
+    publishedDateTime: 2020-01-19T06:27:00Z
+    sourceUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development
+    ampUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-web-design-development/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 55
+    images:
+      - url: https://images.yourstory.com/cs/1/a8255b902de611eaa742cd45a762896a/AI-for-enterprise-Apps-1579071380502.jpg?fm=png&auto=format
+        width: 1073
+        height: 786
   - title: "European Union mulls new tougher rules for artificial intelligence"
     excerpt: "The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU's executive arm is set to propose the new rules apply to \"high-risk sectors,"
     publishedDateTime: 2020-01-17T14:51:00Z

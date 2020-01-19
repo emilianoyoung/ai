@@ -28,6 +28,6 @@ images:
     height: 338
     title: "2020: The Year Of Artificial Intelligence For Your Business"
 
-secured: "kobLYBMPO0PMfwF7G1ATM4RBmNTxox72kFpbgVjyu0mbQ++eiADiX1mFSecgVZ/QHsaDTEbS4YUR7cGHpFcdwAldj6v/XQD+v55eSq4cUF/KmN3UrBW8gq/Q6HB2Mvm37/VPvVJytuQFGIDNLoLg5Fz1Ob/ERGZp7x8mIFatQ9wPNEWMyNU4LWb5lnHd6d1gRFdfoLiRTOgFHN2IFGwx+pYx/46Hi2/sugHXH6CBloCGb8vux8EtUZwnA0+tM7MNgA0OmbKnkoKieGiCK0hVidERTXHEZMfv9ei/XPnUTY8=;AL34ABwXM9V+rObEpy+0Dw=="
+secured: "qTnkdDgPCF3B5dOg4V+pM3haCEyu4wr2Ol2oSFrY8Pk28smtKsbxmlXzzyCLz5AnqRfDMz0obwAHc8XdLb8qJcDaScHncdDqHJp7HzgPC9++0nlb7h69LFfUc8vj8DVXXhttPEYiuwr7E5p732uvcnr9xiolwoxtG3vQ3q0AEAwZut6wmaydh/jBvNVECc37s1UtE+u5rflCZd8tiftn9rTFS8jkidg7EZSwm91QZJUmMSM+J7YFoIHxgZbt6+LtZJhQsQxIP2iqodIvcUOCmU/tOT9mouSNXBQlJbtoWVIbgZ4ua/8j+KgF1kcNZsSjbXAyLGz4O0MAHdHQ+QXKl7ZikkAxZxuEhfiu289oamTI8pDQnkgvXkoA/5E9/LTjxq1mlbsUloNQDGtdmul2Vek7wAVSjPMC54Xckgmofsuvqp61A952/FANiySMRRYVrQ9kx1GwY84fkilLLngheA==;c3WWN9OD+jxg/Zu6P/jC/g=="
 ---
 

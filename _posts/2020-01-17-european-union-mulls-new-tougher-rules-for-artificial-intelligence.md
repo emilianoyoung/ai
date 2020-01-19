@@ -39,6 +39,21 @@ related:
       - url: https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png
         width: 788
         height: 525
+  - title: "How Is Artificial Intelligence Changing The Face of Web Design and Development?"
+    excerpt: "With the help of AI or artificial intelligence, object recognition, deep learning, and image grading will be more accurate. Artificial intelligence or machine learning applications are able to help web app developers face problems related to coding, security, user experience, quality analysis and much more. Businesses all across the globe will ..."
+    publishedDateTime: 2020-01-19T06:27:00Z
+    sourceUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development
+    ampUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-web-design-development/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 55
+    images:
+      - url: https://images.yourstory.com/cs/1/a8255b902de611eaa742cd45a762896a/AI-for-enterprise-Apps-1579071380502.jpg?fm=png&auto=format
+        width: 1073
+        height: 786
 
 secured: "lPvtvG1LPSnbETtS5PBrZv1Co3q0M+SEm+H3jII89CfaJAAepox4nAva4D1BQZ1bND+WXQcgX3LTgDhuiSfq0N2PYcY0SGZitDqFFB4ncz5sxMKWeZ7NoCC9cCj9W94MSa+eaaKA9v33YhlaOLpfryYjLjl9vJjEYqvMF/jbjV0y/eu/EHO3bLFVM2Kp24lfVQ5e09ha4F4SXQtd+xW+2PAoZy7HiZlFwd2UGQVoG8L5ffSyzAypkC4vlipDWrjmDUeI30CqAY6PMPLGymi/J2bZVWcalE7KASdQ9ppzEIEZNvK23ORacWzSe9P9YFa6xC/2uZuPn51sBTQpeJOthVMezcD6ED8olXHmiuJPTqmg71K517rtu8SEEnE6o7QzL5hF6+19GIqQs52MM6MPBhCFJiPuoQFPCcYTkDpbumgm3Zt4loj109d/+EJeo7hxO0+3jVwXMBHoAsYrP3IJLA==;Ltb7ypk0M7vv1nbHYwREDA=="
 ---
