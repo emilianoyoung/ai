@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T05:39:00Z
 sourceUrl: https://www.sciencefriday.com/segments/livingrobots/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     title: "Living Robots, Designed By Computer"
 
 related:
-  - title: "These tiny living robots could help science eavesdrop on cellular gossip"
-    excerpt: "They’re designed by AI and made of frog cells. An entirely new being is swimming into the annals of science—a living robot designed by artificial intelligence. In a paper published earlier this week, computer scientists from the University of Vermont and biophysicists at Tufts University describe using AI to design a totally new organism ..."
-    publishedDateTime: 2020-01-17T21:42:00Z
-    sourceUrl: https://www.popsci.com/story/science/frog-cell-living-robot/
+  - title: "Designing better nursing care with robots"
+    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
+    publishedDateTime: 2020-01-15T23:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 38
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: https://www.popsci.com/resizer/UA4cwwiJVI8aQ6EV0O1MvD0HKTw=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/2UEZBP6WTVFPVGNAC376SDURWQ.jpg
-        width: 1200
-        height: 628
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
 
 secured: "ZIIziuvO3rC35sK8dI2rqtMK+mXSomiTNcxIaJRUrdPYgjOvH/VAHKdUChK5T2YGrwZUI2OLRpZD2l/P7nNB4I7SXTXDHNK/WzyVBofqHxCMmGeeX23P9Y13W7G8ohIw+hVA74tclXYV6pG8xPbOwPnu3alRCPse/JRK0Uzj4ux2w7bDSVlwjqWIDz/AxLwkByXedQCj2kM4zngj3puEfQIYj1oen04Jzd60Z81NJmTcqGAlwcmQ6XMDAJjBKiSeXMzXDxM6zwgtPKk4NUVBlxUm6/9ukTk0U3cJHlIdlxPxGJ8LgSRVJaXmIUGQsUYN3E7aeWi2TZiVU8cF2/5We00fmXS9lquaeGIVaKEXBC2pkGedFIu93rnb4pgjvSJUesKFKQnMz3dxCQdIzaLXQLJzyWgnHFmd7MVIUeNp7LMAHA59ErIe7PZUG0rkLAVD8npY0YcI/+EB6x5ZrpVDcQ==;lIPGBqRF5Rk2muV5vjG0cw=="
 ---

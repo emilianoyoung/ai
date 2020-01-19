@@ -320,6 +320,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
         width: 1024
         height: 576
+  - title: "Las Vegas police use facial recognition to arrest assault suspect"
+    excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
+    publishedDateTime: 2020-01-19T17:04:00Z
+    sourceUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/
+    ampUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
+        width: 600
+        height: 400
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -670,6 +685,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "D5lzpOZs6zLrMjR8u/FecB8th8rBtDA5jQ38GYAWr7BReqIMt1Mew1s0pdf2nFbLAB8gLO+Mmn8sthcGSGTTfUD796OP1qJHF7UVcaQCgDp/6ptlwj1iZeLPKjDv4LSMI1M6PYt0lNgTqmCaoA3FaRqnY+NZhMwg5BOpdpQMuCIN7sQ41ic2/NodTFcmYrjYehUpX9ZgxvN45fzVzHHiCA6j+ChDhO+jLjQ4XOA2USjrPgEGPOWCuO+PIidEOBEO2ZmeXMb0u3VukyQM7KOGE4UWKKMfCdEHEiInDkrGH+8=;BzB1+AlgFjhyITlX1dwkAg=="
+secured: "Co8iqniFxOZciZfsJTl/H79BEsKs7pgDxvzc9T9UMqwTQp0gYIZlC8fnsF32VMYbABL2HLf7bFNZcWN2PajemPFiY5N7oO5JZNw7xx9RS478393kmHVr8r4sKIqEJF+NgpdWYgCLnKogf+SHX95QcnAs9sP3TZwXmuiaxtmIbNRWLyCUTWVMETYnpagYfpgq2+Ep3v8BINAiIyTAzQRNA3SnV2II1GpikM6uL0IH8Ygyk/C0/aahvzejR2gD5f5JSSVQO6yTYHZ6qrMkT5MWlk87MLqt7OC7BbmBGMBQ59bXx+cXF/SvRgTTFhYeGmEFxqm5VfUWNwmKLuEmzY/zYTOGrNX5/6g/84FtG2C0CBa1M3CbTW5rxkW3YMd80RwQk6+703ANncFayS1loUaSQQljiCYWXcUpArF8Nk/a3L7JkDPHnlI4wyXKSL/lZduSs1ToRLPc+ywp1fBdOeCLKA==;wVe3pNmBRR7gvrxivJuojg=="
 ---
 

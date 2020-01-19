@@ -316,6 +316,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
         width: 1024
         height: 576
+  - title: "Las Vegas police use facial recognition to arrest assault suspect"
+    excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
+    publishedDateTime: 2020-01-19T17:04:00Z
+    sourceUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/
+    ampUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
+        width: 600
+        height: 400
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z

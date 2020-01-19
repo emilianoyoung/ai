@@ -8,7 +8,7 @@ ampUrl: https://www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.amp.ht
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.amp.html
 type: article
 quality: 74
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -56,7 +56,20 @@ related:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/19/ebeba03e-3a19-11ea-9933-e21be988cd59_image_hires_015207.jpg?itok=J5zEDWp7&v=1579369937
         width: 1200
         height: 630
+  - title: "Facebook Apologizes For Translating Chinese President's Name As 'Mr Shithole'"
+    excerpt: "After running translation tests, the company found that its system also translated similar words that start with “xi” and “shi” in Burmese to “shithole” in English. Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, told The New York Times that he could understand why a machine would have made ..."
+    publishedDateTime: 2020-01-19T17:50:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/facebook-apologizes-for-translating-chinese-presidents-name-as-mr-shithole/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 21
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bugew1av3at2vazdz2cv.jpg
+        width: 800
+        height: 450
 
-secured: "MWKcTGd4ABaOIYuhYIXP57Eszvy/56pHlQCGri6GhE6or6jQIKqykDEPjDkW+RfSyZ113tlP7/NHjI19qFHdo/mMQ2zYeSnavX0UzzTOPgeVXdHRLCYePpUdNrNeLqXn7OY3CN7Tqvr8HYQ/ZuKPMgcpwGGsP+PhpZlF56mpt5yMxRZ0I3cpV3I6z9d1qYqcnrxtw3IFZSsg/rBZzlpv58vToNRTvcNUgc3fq6cJmRhTkHb2zfjBKzrPKDhh3Vt9WQlub32Y4Qf+44ec25uY9k9jwsdQaSQLPvc21FSbe846Mt1EVqxmLtyZ4nwcBeBf0/nhp6OWiz6SC+jgq82rhQu9tYqprUwW3QL3SAFkdkjLfs3nQxLjTaLYGuZRupM1YFI7jGIxHE+LlCGvuAVOvMLGqsiHvVmCs6m9B42BqtIOlIJ83dqhQiOuEQ8Y3m8XdJzSrSeWs1Mc22yZEc/1dQ==;VtQM9Y19eRFvS+L9z4BI1A=="
+secured: "UBUH8cX+F7VexBkoYG4D+xz6HEGmBRGr/JpI0RVGcsWkbc0hGyvGCT4IQtVkbwM5NQrYd2VtHpNvPC8viWLwcstuujK6uwHEn1KNOgjDj7QhpCJJQsGXetW0jHOZnayp4aZzIkcUCguKoRFPNk69YxjAV2Nf1IKivUOT5hE69/90LND/nDB1diaYixoQvsyi+9YFzcuIhEXnDWhz/YHRg1tVBK9+yvoT2rXGpyC9ZyhU0w1O2Vxa6hK6pYcLM7yPTCBwTQn+35JfrtaErhhGaVGG2tn61U1C9hUh0T5AxVR0KMtkQib4C43eGtVeTt32RC3J7oRjodl/YumO40APmYeNG0asCddYTAewobp03eD/gt+J1wgh/FtklFZsrbXJgNoWkpSJSrYdC8LR+5MjbqpisnzLBORXOAtaLGLtsMri2WMBv/glxcAEt+B97PBaalf85n3oKgv43WTvzEJGUg==;eBvWjPKbsrEH6bPhIn3KJQ=="
 ---
 

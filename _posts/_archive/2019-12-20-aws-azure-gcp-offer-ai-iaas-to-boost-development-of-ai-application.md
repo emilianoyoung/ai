@@ -23,6 +23,6 @@ images:
     height: 224
     title: "AWS, Azure, GCP offer AI IaaS to boost development of AI application"
 
-secured: "i6xw4HzqRHsi5ZwVKQFlT+LdMcaJMPJnOMTAtNiCEyoQIeDbC9ESXLQ2ywYJmqzuUCxrHUjdzoDKDd+K9wSEduB62YT6zF6dbNmaIiB2kTQBs4Wv6RUXizC3iCS8N7Kag1Wos9AOnbFxAf0Qk7m1H3pX1VcJGOjzMB8sW02HoDw0I1BG6p5V+hhWnvnJOlJTWWysuCpF3Yv6vn8R1NGNS2cYgbVhHMY96RxlDLraW2a0g3fpA+T/CSRr4gcTCfQf3wZLCVEnsBG5tbPcL9qUqKDD7/qaQETkPm2IUJkyVks=;RpixYix0bNzMcfD95gt5NQ=="
+secured: "BHy/OKIoOozwkig6pNVCYrUHmRYhMSkpq7q6ctGxOXaaqCDTc7wRKL31tZZORppx7GhqCkz7doCXBZeRSwH43ixin+G6J5n7zlPyGbqkmdNXJHvkvr1FFzjv7bW3hFxhCg+YRMKsg/dwb0nj1DcETF8uGuYegSQgsVtX/5+TC8zydT9rPqG4db8Pq+ukNABoVb8iSSPeZBizGlY3ve0C8TXfTUTuAYnRCP3qdOd8Li6hfEucwXiPMXLBw4PM+IEpJvehDvixyKPDS+AWNOQFGdx/RCN83BWnnRoWk6L77Tc=;VY4mdNd08+SmngQmQhJmLw=="
 ---
 

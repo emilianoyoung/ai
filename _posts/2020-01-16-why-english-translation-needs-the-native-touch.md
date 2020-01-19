@@ -52,6 +52,19 @@ related:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/19/ebeba03e-3a19-11ea-9933-e21be988cd59_image_hires_015207.jpg?itok=J5zEDWp7&v=1579369937
         width: 1200
         height: 630
+  - title: "Facebook Apologizes For Translating Chinese President's Name As 'Mr Shithole'"
+    excerpt: "After running translation tests, the company found that its system also translated similar words that start with “xi” and “shi” in Burmese to “shithole” in English. Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, told The New York Times that he could understand why a machine would have made ..."
+    publishedDateTime: 2020-01-19T17:50:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/facebook-apologizes-for-translating-chinese-presidents-name-as-mr-shithole/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 21
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bugew1av3at2vazdz2cv.jpg
+        width: 800
+        height: 450
 
 secured: "qoBYMoDQ5rkAfBSfvl3dQK3FLkLSPBQs7MUo0agBsKSnOyvhCd+2jOdag6vYYxBCY7aia45bHt9TjFW9tgbILjfcmMFsonoDa9qhFzOE1sPWWv5ibZrqVCgowZseNcx2TRGrjDcVDSAhj0wrIO5eZ6wDNxRGzrA/3p1wv207HIspFf8uHv7qRvxh4RwrURpSW2leZz8Spz0M1rCF37ZHZVSzPkvSfoqMmql4rui/BFiTkzWxSvK6D66WfL3UYX2+2b8PXIMVD7bY7FsNEmdXj1TI1s7CH/GHxLKwxU5DPRYnH1PIWXPpLEz7WUX8X5dnfy+yezL2/En4OPC+bL6P6PXdQjKUY6HashFytgaUtZKUc5Rx3Oj+SM5y5EOCHJ9pQnqyEyxu5vjMuSkPLXYFkiCFAd6kCEuRGQLKc7wd2gjVPLBzHYoXK6ukwMukRhQzeeImI8wDxKxIaHQ4lIozVg==;h+/hJRPUEKFlE30T7BJgfg=="
 ---

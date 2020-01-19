@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Facial recognition tech tests tolerance of public in Britain"
-excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
-publishedDateTime: 2020-01-17T05:15:00Z
-sourceUrl: https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html
+title: "Las Vegas police use facial recognition to arrest assault suspect"
+excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
+publishedDateTime: 2020-01-19T17:04:00Z
+sourceUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/
+ampUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
 type: article
-quality: 54
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Paducah Sun
-  domain: paducahsun.com
+  name: Las Vegas Review-Journal
+  domain: reviewjournal.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
-    width: 1200
-    height: 630
-    title: "Facial recognition tech tests tolerance of public in Britain"
+  - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
+    width: 600
+    height: 400
+    title: "Las Vegas police use facial recognition to arrest assault suspect"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -329,21 +331,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
         width: 1024
         height: 576
-  - title: "Las Vegas police use facial recognition to arrest assault suspect"
-    excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
-    publishedDateTime: 2020-01-19T17:04:00Z
-    sourceUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/
-    ampUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
-    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 59
-    images:
-      - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
-        width: 600
-        height: 400
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -357,6 +344,19 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
         width: 1280
         height: 720
+  - title: "Facial recognition tech tests tolerance of public in Britain"
+    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
+    publishedDateTime: 2020-01-17T05:15:00Z
+    sourceUrl: https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html
+    type: article
+    provider:
+      name: Paducah Sun
+      domain: paducahsun.com
+    quality: 54
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
+        width: 1200
+        height: 630
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z
@@ -681,6 +681,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "6ZlfuMCRUgEdIV1wgfMzUlt7nxYSSAGpKu6J9AHXBIvnQ13LeKxNTRvIkBhl/T2wkj9gDsNh5NB9SUnko8DGOh8DrCMAa4UyetlBDTgMJJX3QM/MJEYFGUVSeS30iWyf0/ravknj5h23QagjzRSXJiQ9NOZzZGznZ9eVaB3p6DfdU4t7jbG+tTjRgtEH5N6pkQlKpEbQ+2r9+pHwkRi9XcfXTvOOZfs4cKn6kuUtmhxSw12QnzGg7mgFVu9uq01Ui8QrmjKWnq5wxgLvdwnBpOXIX8UW7tz6er6JMasGTSw=;PnqxDjEABqFh6DuAm2+jfA=="
+secured: "J1CQQNxTgdzonFcMXochcPtO/lj90YwJa2aIPl0SHaWw2D1Dv6AnTMRyEMrJmDbMUGxqQ45WlsMPhP8/KX5sSjQgG610454xTUI+FkBPU8OQXUjjAtEGflVUCmeEwvaKdjcwQAD1l8qcb7q+6wSeV5i2Zl+XUKZMBydtLOpIyza4Efnld4LZkJF531gD33ombG7GRkyNHJF7oW+oYPgUisv5svqi7hIg5A+Dr+kSBaSSqeGJY8pHWs9f7vBr72WB7nNE/qSjuHNK1kPxpMeabQB+nx2w9SeIffmretk82M4=;GsUL21FKTeEyvPhCZtbA+A=="
 ---
 
