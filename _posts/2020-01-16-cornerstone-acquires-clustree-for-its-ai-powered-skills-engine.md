@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-f
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

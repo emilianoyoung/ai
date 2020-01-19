@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T17:25:00Z
 sourceUrl: https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1
 type: article
 quality: 59
-heat: 73
+heat: 69
 published: true
 
 provider:

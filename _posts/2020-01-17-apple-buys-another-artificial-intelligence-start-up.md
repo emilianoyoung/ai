@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T13:12:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

@@ -82,6 +82,21 @@ related:
       - url: https://image.businessinsider.com/5e1f849ab6d52d23c07e6a13?width=1200&format=jpeg
         width: 1126
         height: 563
+  - title: "The Inevitability Of FPGAs In The Datacenter"
+    excerpt: "This, in a nutshell, is what the Vitis machine learning stack, which sits underneath the Caffe and TensorFlow machine learning frameworks and has libraries for running straight AI models or for adding FPGA-boosted AI oomph to workloads such as video ..."
+    publishedDateTime: 2020-01-15T14:16:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/
+    ampUrl: https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/xilinx-acap-everest-logo.jpg
+        width: 735
+        height: 539
   - title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
     excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
     publishedDateTime: 2020-01-16T18:19:00Z

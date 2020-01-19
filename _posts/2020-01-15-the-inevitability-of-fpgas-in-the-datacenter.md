@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
-excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
-publishedDateTime: 2020-01-16T18:19:00Z
-sourceUrl: https://www.inforum.com/opinion/4868033-Plain-Talk-Podcast-Congressman-Armstrong-talks-impeachment-trade-facial-recognition-and-the-Astros-cheating-scandal
+title: "The Inevitability Of FPGAs In The Datacenter"
+excerpt: "This, in a nutshell, is what the Vitis machine learning stack, which sits underneath the Caffe and TensorFlow machine learning frameworks and has libraries for running straight AI models or for adding FPGA-boosted AI oomph to workloads such as video ..."
+publishedDateTime: 2020-01-15T14:16:00Z
+sourceUrl: https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/
+ampUrl: https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/
+cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/
 type: article
-quality: 30
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: INFORUM
-  domain: inforum.com
+  name: The Next Platform
+  domain: nextplatform.com
 
 topics:
   - AI
-  - Computer Vision
+  - Google AI
 
 images:
-  - url: https://www.thedickinsonpress.com/incoming/4789639-crnfqj-ARMSTRONG1.jpg/alternates/BASE_LANDSCAPE/ARMSTRONG1.jpg
-    width: 1140
-    height: 712
-    title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
+  - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/xilinx-acap-everest-logo.jpg
+    width: 735
+    height: 539
+    title: "The Inevitability Of FPGAs In The Datacenter"
 
 related:
   - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
@@ -82,21 +84,6 @@ related:
       - url: https://image.businessinsider.com/5e1f849ab6d52d23c07e6a13?width=1200&format=jpeg
         width: 1126
         height: 563
-  - title: "The Inevitability Of FPGAs In The Datacenter"
-    excerpt: "This, in a nutshell, is what the Vitis machine learning stack, which sits underneath the Caffe and TensorFlow machine learning frameworks and has libraries for running straight AI models or for adding FPGA-boosted AI oomph to workloads such as video ..."
-    publishedDateTime: 2020-01-15T14:16:00Z
-    sourceUrl: https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/
-    ampUrl: https://www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/
-    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/14/the-inevitability-of-fpgas-in-the-datacenter/amp/
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
-    images:
-      - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/xilinx-acap-everest-logo.jpg
-        width: 735
-        height: 539
   - title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
     excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
     publishedDateTime: 2020-01-17T06:11:00Z
@@ -110,6 +97,19 @@ related:
       - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
         width: 378
         height: 234
+  - title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
+    excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
+    publishedDateTime: 2020-01-16T18:19:00Z
+    sourceUrl: https://www.inforum.com/opinion/4868033-Plain-Talk-Podcast-Congressman-Armstrong-talks-impeachment-trade-facial-recognition-and-the-Astros-cheating-scandal
+    type: article
+    provider:
+      name: INFORUM
+      domain: inforum.com
+    quality: 30
+    images:
+      - url: https://www.thedickinsonpress.com/incoming/4789639-crnfqj-ARMSTRONG1.jpg/alternates/BASE_LANDSCAPE/ARMSTRONG1.jpg
+        width: 1140
+        height: 712
   - title: "Sensory Does Voice Recognition Without the ‘Net"
     excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
     publishedDateTime: 2020-01-13T17:25:00Z
@@ -124,6 +124,6 @@ related:
         width: 1920
         height: 1280
 
-secured: "NwVEBvGa2shX3MNKTuFBlPn5dJZupi+v1FJJZg8PG+4jl+JkXEh1iYvKVfyJmycPsQewQ+zse74ugzliKnYypN4NO+AYXI0pwDVJI/asad1Irj65I2n0X/XFsTvjzJW1RlHqBAhVZAH++6mOxA3nqqKEAiApuj6a1djKv4L29H05Qu/YT1n95rERdwik/E0IbtHmqzgo/o5yj7Y7rY/CsWVX7GyLCkGUsScP053OOeC4k4FM4L5XvHvIOR/pPPD4gt6qaYnVVu4acy2EgUfmrN7Nat6eEQcBRHmgHeK/P6QBBz1vD95laldGJ21VFW4QfJrTlbK3aGXhmFI/P2GgTaxy9457i8z/Dkcxa4s6PxiarzVEq0qLOD5k73zvtDV06p/TrycKuGG+Al/12NyGk2p0XSEywrAZkLckVj5ponV7VJAX8VF+/WQtzVXuc25tyslAC03ImTFEEiFuTJs48Q==;6a5ygQ4zvWAe9K/UXFwWyw=="
+secured: "h6OrLUNpmISBIinKyWxq6SkI8QAath+KwA7CuV3ICKLhkGSr6PJcJqZx7xRtcHJw9TXf5QXDdOq7T7LFKkLmzA62bSVnpx/dCcaAhN8GUrD3V1XtyGq5bQRw9Vg8S0cXObug54LPA0zdm0Xwh2UQKEObkF+9fZRm7ZQvQBNscV41Q42tapY/ylFwYFqZSmLhIXilHcFf6E1+S1fW0Y+mSlXIynTKy/QTS2KC5fKFP+DRP086YfvC3FtXpFXbiFc4lJEnruxnGGoFdjio38aVLS3csyrSfJgws16dcgzYG5s=;FvF3ucl0xp6rtWgqokXjNg=="
 ---
 
