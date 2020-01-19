@@ -62,6 +62,19 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 49
+  - title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
+    excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network -a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
+    publishedDateTime: 2020-01-19T03:25:00Z
+    sourceUrl: https://www.aninews.in/news/science/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study20200119085547/
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 49
+    images:
+      - url: https://aniportalimages.s3.amazonaws.com/media/details/41772505464_ac67baac42_b_rzCORue.jpg
+        width: 600
+        height: 450
   - title: "Application of artificial neural networks for automated analysis of cystoscopic images: a review of the current status and future prospects."
     excerpt: "AI-assisted cystoscopy may improve image recognition and accelerate data acquisition. To provide a comprehensive review of machine learning (ML), deep learning (DL) and convolutional neural network (CNN) applications in cystoscopic image recognition. A detailed search of original articles was performed using the PubMed-MEDLINE database to ..."
     publishedDateTime: 2020-01-13T08:07:00Z

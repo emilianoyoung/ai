@@ -39,6 +39,36 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-654683563.jpeg?fit=1906%2C953&strip=all
         width: 1906
         height: 953
+  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
+    excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
+    publishedDateTime: 2020-01-18T14:10:00Z
+    sourceUrl: https://www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+    ampUrl: https://www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 56
+    images:
+      - url: https://www.chicagotribune.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+        width: 1200
+        height: 800
+  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
+    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app ... The company eventually started answering my questions, saying that its earlier silence was typical of an early-stage startup in stealth mode. Ton-That acknowledged designing a prototype for use with augmented reality glasses but said the company had no plans ..."
+    publishedDateTime: 2020-01-19T03:21:00Z
+    sourceUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+    ampUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 54
+    images:
+      - url: https://www.orlandosentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+        width: 1200
+        height: 800
   - title: "Azure Australia wins new privacy protection"
     excerpt: "Microsoft Azure has been certified as a data processor for the new international standard ... “Modern business is driven by digital transformation, including the ability to deeply understand data and unlock the power of big data analytics and AI,” the blog post read. “But before customers – and regulators – will allow you to leverage ..."
     publishedDateTime: 2020-01-14T22:34:00Z

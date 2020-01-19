@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T19:47:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
 type: article
 quality: 92
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -63,6 +63,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 42
+  - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
+    excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai ..."
+    publishedDateTime: 2020-01-09T13:50:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chipsets-worldwide-market-study-2019-/2020/01/09/9079053.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
   - title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
     excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
     publishedDateTime: 2020-01-10T06:06:00Z

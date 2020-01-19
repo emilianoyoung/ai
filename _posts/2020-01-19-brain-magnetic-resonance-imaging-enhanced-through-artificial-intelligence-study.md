@@ -1,31 +1,27 @@
 ---
 category: news
-title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
-publishedDateTime: 2020-01-17T17:18:00Z
-sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
+title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
+excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network -a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
+publishedDateTime: 2020-01-19T03:25:00Z
+sourceUrl: https://www.aninews.in/news/science/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study20200119085547/
 type: article
-quality: 55
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Asian News International
+  domain: aninews.in
 
 topics:
   - AI
-  - IBM AI
+  - Machine Learning
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+  - url: https://aniportalimages.s3.amazonaws.com/media/details/41772505464_ac67baac42_b_rzCORue.jpg
+    width: 600
+    height: 450
+    title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
 
 related:
   - title: "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence"
@@ -43,6 +39,19 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg
         width: 620
         height: 480
+  - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
+    publishedDateTime: 2020-01-17T17:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial intelligence to improve resolution of brain magnetic resonance imaging"
     excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network –a model that is based on the functioning of the human brain–that \"learns\" this process. \"Deep learning is based on very large neural networks, and so is ..."
     publishedDateTime: 2020-01-17T14:39:00Z
@@ -54,19 +63,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 49
-  - title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
-    excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network -a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
-    publishedDateTime: 2020-01-19T03:25:00Z
-    sourceUrl: https://www.aninews.in/news/science/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study20200119085547/
-    type: article
-    provider:
-      name: Asian News International
-      domain: aninews.in
-    quality: 49
-    images:
-      - url: https://aniportalimages.s3.amazonaws.com/media/details/41772505464_ac67baac42_b_rzCORue.jpg
-        width: 600
-        height: 450
   - title: "Artificial Intelligence to Improve Resolution of Brain Magnetic Resonance Imaging (1 of 2) (image)"
     excerpt: "The method, designed by researchers of the UMA, enables the detection of pathologies with increased accuracy and definition, without additional tests."
     publishedDateTime: 2020-01-17T15:26:00Z
@@ -92,6 +88,6 @@ related:
       domain: urotoday.com
     quality: 4
 
-secured: "BlnvNYa/CMweI8U396H6dpNsCti2RJuZgBlq/BO8uGOblmfH9PC3gfHHDXpWTb4LhoKoJhHAhg2NNc+nhKP3qRUzxhxW2cxMtGbaWRGpr2Cxp2yiIOuEMw/u+ti0hCyM7mqtRyv9QVOLarYVfoJs6T4u+qG1AB7SjNCe5VgjImbKj8rA0Zhsgo6nR78DFamd9zwuPuyf7qTWSwy3VedCFgikLZGSxuQ3W/So/GY93Fzu+LSWP0fdYTONjsq6zNnKO3vsTdb1DmbNl+wzPnLM3vyrvzEg51BNiD2tAKcvi4s=;QKA9OOv608+IEjpd6TugXQ=="
+secured: "3NFTS4Di31gU8ccO9h+Xt63AFMMryK7GbWoZlCXcI89zXUn6e5FuVR9BhZ9NiwsOd3IX3ikEBIqIZRMqLU+Rfvnf9oRyo2//s4OXFZ6js3tFSFfr1fGxSS81zSO7atEQAW8cy+OjPGbiJ+YfFDEtlsHUt7c/yMG2kXDDf9WPGUSEsggiNO3un8bUZJu4JFjpsnYSMwssZW35IzyOWFEwAiP7oB4r3ZmNhcM+Sb/ioj7bAqhfvd4ZfNumgzhOErXWQKrHu5Ik/5qR6YfS2w+xr5hEV1A3Q7rc0IKV707U1UM=;5AKPOqd7nuKr+dZCjMZQNA=="
 ---
 
