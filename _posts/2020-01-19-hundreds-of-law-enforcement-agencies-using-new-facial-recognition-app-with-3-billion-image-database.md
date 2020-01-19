@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Facial recognition tech tests tolerance of public in Britain"
-excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
-publishedDateTime: 2020-01-17T05:15:00Z
-sourceUrl: https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html
+title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
+excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
+publishedDateTime: 2020-01-19T01:10:00Z
+sourceUrl: https://www.dailymail.co.uk/news/article-7903225/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+ampUrl: https://www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
 type: article
-quality: 54
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Paducah Sun
-  domain: paducahsun.com
+  name: Mail Online
+  domain: dailymail.co.uk
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
-    width: 1200
-    height: 630
-    title: "Facial recognition tech tests tolerance of public in Britain"
+  - url: https://i.dailymail.co.uk/1s/2020/01/19/00/23576338-0-image-a-40_1579395253729.jpg
+    width: 636
+    height: 382
+    title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -327,6 +329,19 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
         width: 1280
         height: 720
+  - title: "Facial recognition tech tests tolerance of public in Britain"
+    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
+    publishedDateTime: 2020-01-17T05:15:00Z
+    sourceUrl: https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html
+    type: article
+    provider:
+      name: Paducah Sun
+      domain: paducahsun.com
+    quality: 54
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
+        width: 1200
+        height: 630
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z
@@ -342,21 +357,6 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
         width: 800
         height: 600
-  - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
-    excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
-    publishedDateTime: 2020-01-19T01:10:00Z
-    sourceUrl: https://www.dailymail.co.uk/news/article-7903225/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
-    ampUrl: https://www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/19/00/23576338-0-image-a-40_1579395253729.jpg
-        width: 636
-        height: 382
   - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
     excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
     publishedDateTime: 2020-01-15T17:37:00Z
@@ -651,6 +651,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "6ZlfuMCRUgEdIV1wgfMzUlt7nxYSSAGpKu6J9AHXBIvnQ13LeKxNTRvIkBhl/T2wkj9gDsNh5NB9SUnko8DGOh8DrCMAa4UyetlBDTgMJJX3QM/MJEYFGUVSeS30iWyf0/ravknj5h23QagjzRSXJiQ9NOZzZGznZ9eVaB3p6DfdU4t7jbG+tTjRgtEH5N6pkQlKpEbQ+2r9+pHwkRi9XcfXTvOOZfs4cKn6kuUtmhxSw12QnzGg7mgFVu9uq01Ui8QrmjKWnq5wxgLvdwnBpOXIX8UW7tz6er6JMasGTSw=;PnqxDjEABqFh6DuAm2+jfA=="
+secured: "jIUtpYdV0tI8STZleX4tgfhOQtcCHezN6x9RR0iRAFRbM1DNdDSNt3T+vWzeTwkbGCOzkt4z6/ZnE71eVyPW4gjlSKAPaCJMkiedtGJ/PZXbwmimMoxGegjUabKNDLzp/xB9xoiJEY9m3+ANuNFS4YKGiaUE/2jcOPBDyqjqCcotWf5jOR1/67mKsnFRdyILxKbuKulLg7rcW2+DdwG0ahotTySUtCE3hf4RzEZuT94clvzGR5d7HqH3/YyOXV5+9cRAHt/mqbL9Sea/sYlu9s2x1FGbI2JVE/l5G4ntygQ=;2CLRY/1PFVvpDQobqKuj5g=="
 ---
 

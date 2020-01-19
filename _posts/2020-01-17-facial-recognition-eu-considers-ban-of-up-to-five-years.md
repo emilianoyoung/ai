@@ -1,19 +1,23 @@
 ---
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
-excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T13:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
+excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to ..."
+publishedDateTime: 2020-01-17T12:08:00Z
+sourceUrl: https://www.bbc.com/news/technology-51148501
+ampUrl: https://www.bbc.com/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -342,6 +346,21 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
         width: 800
         height: 600
+  - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
+    excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
+    publishedDateTime: 2020-01-19T01:10:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7903225/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/19/00/23576338-0-image-a-40_1579395253729.jpg
+        width: 636
+        height: 382
   - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
     excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
     publishedDateTime: 2020-01-15T17:37:00Z
@@ -636,6 +655,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "e6RLHyx3X15PV1q39ddLvkm6oVIUoE2FKNJ/Z4PcTVl4qU03uiO40erP2n2g7e2cJVKM2n2soUgRFvlxwWE1+37qdDmMZawTtm1lFc7o/4Ug6YTbKtQfd2nHi1t3J84clptEV725aM8Si98Yjy1SN+6cjtC5p5qv8saUsV8rvNrjvZypYxN8l0ghYT2VKUS+CiFLjO5nFjXmmZjW0hSTaUc/eS5WoYUDrD1HdDtM3l5wLvs0ulhLD1HV9mKZco3T6RGwAlo+kHGpQ26JLxbZwjz8k5ugyCs7nlM71RORsuAbqBM8+IDv09TxxAj2/acGkg6M/d+qDfCsnKOWF8MVhJSkCggRlyYGQyWILM2ttwY3KuZ71wr17rryup/yJofQuDiaKRhY9PLniyqSbHdDoWlyNUuQKSCFW470+oPxyt28ovqDH4tymPfRtmTfpOY+m0DIc4va61uYkW9EoJWyHw==;KH+RQewl8CddoIWEGdngwg=="
+secured: "d3Ub//75Gi+E+NPmPHq2jAScPj1px6N3wr0Q/sYxFmHeBlCv5vc1/jWXPMxlAPOG4i77GK0hRKJTbLYXN/jDP4YCenOrLIsQ1ciMIIQo1YmW+dlw4EvlEfafyAh/OKX0lybDogVmaiHI0ODVPbYGht8X2qQMg4Wh7N+6LdnVyiLei3pVhGTm3EAE4ROARPtV8dH0GWh/My62XhViuYQQ+Jp2+7wi8lyFLKfSzfvrppvRH6pgBigtcZ0lyyEmKeEK7uOFRmu6Db4oUTx6hcZLPDcyarnhQ0ex0yVA3jYkF2A=;jy43foCuL2iB6CDYHC/Jiw=="
 ---
 

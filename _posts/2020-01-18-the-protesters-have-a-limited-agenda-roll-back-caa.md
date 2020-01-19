@@ -25,6 +25,6 @@ images:
     height: 448
     title: "The protesters have a limited agenda — roll back CAA"
 
-secured: "CBwFnjElcoIKrKIrCXE6ZQl6qNYDk8PeAh0dM8fQSdFdVuvQS3uQWkbzvcxcB+Il3lpZCVaN7xq8AJDsvRUldRiotcIZL5+XHDCTt66Kdzs9kkKMaDJ1K6iQxTthiFyinHQji1vX7zI0PRFZW+v1yEgjXBDydqLMkye/vZVMqRj9K3D62Ct01MUXBzRv9i0gGqtCJ6Di0q7FtLDfpE8vNnjalrbSFiRf/jtxxG/r0z/kK7u75b6KE680TLQ4RL23L6G4jwx5r9rAtrNn0B3d0gKz7WFvXXMspssuCSfrDO0=;3HU5T0YMwDF8jMynlqIroA=="
+secured: "ViD0miROSJ6eewhRGLhY4tdlHwLv6j6BJ7yrBObXZfzVJ/EAuYWwJZE2FEa72MEBye3HNQnPvWtG7YQV+qeJnshhcC5rVVLdH/FCrj6AeKTa9iz4lspkcggb55Gzgjpo+YXYpUxh3/1KvJ21wtozWrviZ1E5W/g1QxskPuCYVhAg0Pm0sbnzastiI6Sz8RAhdtGariELyr7ng5MuBGL4zTj6D/Ap9lbwPmm7YrpIUVD3RwmRv7F4eodG6vEZBDsmssSvRDiPYuGus12mB5WqzK2xp5BWMvqf/Fx1Lt3z8HDuxrBCrgfu1i7Typvc9Gj/S+mdcPLB0/SnDCfjAz622no+4TNLVDkutNENOSFKy7Du2KVpC/cKlDAz/3bR7F7bI20Cwn0c2AFGRDCI0cKJLhLqgP6X4ySPj/UudW7gV8+pXZ5Z54B7ZRpGfgeWEPUN6hQTSIJ1YVJNfB1PUaYW+Q==;VSv2Q/eVEA9a4FNgzz5rbA=="
 ---
 
