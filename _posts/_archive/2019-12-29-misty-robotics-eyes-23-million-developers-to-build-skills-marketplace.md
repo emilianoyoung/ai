@@ -29,6 +29,6 @@ images:
     height: 676
     title: "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace"
 
-secured: "dmo9JbzhwKEBFhrQqJlXnEUdAms1ofosWILUo/YM7rsVXGw1ajFh0ac4gbGwG3nR32dI9D50C18ToSlM7iU3trOn+6bInKmeiNVuBhuFXSqrl0z8HTkvhD7Ae5Hm2PYN0QNCe3C7eq3v9OILCqWcqR97L/2vUFAAb7DfjgrXncNxivYvTIjLBLUu69/zFgjXW9w6dECbdJHiOYdI2SY1mtdLBMUrIVt9JFMa1Ps1LShu0CPtmRstdt1ZrqGbVssEV+1ivFHkWKGF/J+mO+/9+BIdYh9DOW+SzZpbOVvIzmQ=;kRLqVn3JNdYsF15Xvjxxzg=="
+secured: "NML4rW+cN3AuFLXoZ1RqMm4JZNmNPss/MtCc1lkQHCxKvv53u9WOCG+teCrUexietP6tVJgsgVdgcIOx2sxd3f4ZFQmhUia6TxXpm2/7g3zsESGcEKzGijO/AU91bCZ10Y5Ka6jmgsczktyIcIegViHIUV+iiawavNfb3BT4SeF00/N3Bf5W6DNbBh2nnSQt5D+QGtVag80QMhWSPWXFU8yi3qqodfP0d8kfAY6/+reZAfSZKeMKsFxQPG9quVsHph9aa56cB4DhiWSQos1snipLvMGQt3m2j6cvlkJWgc8=;kEKGQHcxOn4aAfRlQ0uF7Q=="
 ---
 

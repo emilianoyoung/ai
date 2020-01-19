@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-stock
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio-2020-01-18?amp
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 512
     title: "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio"
 
-secured: "Rh4esRfFdwBNMUzPPjcFxCQ2kzQLx/6GDkMffZd+VoiPLIDxVdGc/5XY4aiyqpUroqvoCfEWAHkBRLBHJXyzm5/GAasjMfng0mUgU2tG8m3SRky1IRQyAd+6TiAPbvt/ZdTLeyVFt+C+otqV/gzKTYpDgqTIpWQumd145Kkxe2O7Eu9XLej7clQjhIma/rV9nDRqCZaM3e/QjNqyNugyXnDP8quZ5ZP5Ygz2e/jDeE3orKwxS+xOZfD/4P7LCmjYwoIyRxe6EnvxFQ4SjYhElM6ykbYpUI9R2UmQpZJkAKo=;848fszog+45NaV9/1VXTPA=="
+secured: "fm7k0UwNt7a7V/ALoPF3EvoKNnvwf+zRMzMWcvM07TZ1SgFcdnPVXGIXUYUs51wHELyCEtthLXFyRrs4gzVaKVmZypyNlVxn7qygFnJ6g64U1aS+HtaxiThlUe62mnAta4JTgKgcSk1CRjCAk2PN/5pm7HxqDEhz5nH2musIAqgZlqqAAvqyZHKnYlSYOZAaBJGb+Op2zZZjviA2EX+bRP2CUEL6/8ELkGo6XkFjlUPhEa7omzkqxZFyrW8dE4tGvuOyAIIXb+7fU67T5bTbXiT45FcynrGADVxXN8xiKqc=;ETXO8cA8MJ4CFJUf+frN0g=="
 ---
 
