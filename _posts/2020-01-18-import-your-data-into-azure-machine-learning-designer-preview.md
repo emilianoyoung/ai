@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-18T22:47:00Z
 sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-designer-import-data
 type: article
 quality: 56
-heat: 66
+heat: 67
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         width: 400
         height: 400
 
-secured: "qyaKq4lL7S1Y8dB52nAkBuo1o0o2kIl0opeQYl1dfuFHsSMZfEPDrVU1/SPdgeKGYBSRN6rieUlIK90nN2Ui8qRKqya0nZwfbD16iQVZlGmuaM6ApyJsuF7C475nGlpgjvwPVwERdBelU5i5UybK9LGDHFc+lMdpYo5FUbK0GJclmkTxsRmBk7vEcX20xLVw0YVD04FptvpqKhakAZQl8sDqhyv+DNzZ/5yIS9aeIp4nPE6uCiTu/tzTgNP0nsRjRxIBFWPDiYG+li1renBQ9T4szk6p6SnpxpIIBgN2YHc=;WNu+PQSmYcoH3OAuxROd7g=="
+secured: "RgoxL3Ad35zzp4WO/h3ctphzAt0jD1S6ioQul6R5+w9BlmV5G7DR8vgMpqOzGeU7sbAfUUoH9sfUaeEzCtVKJa5iZRb7SShNUGh5AVQWHN8y3Q8YugmyjkLaTh/M8HPNwbHmdkfh1/8FNi8XXpM0OuzKSYOFC8SUJ6bFk4U+A6L3KeFE+iQ4OpcbrLBbNLbU5Vg0dZ+9ab8ADDtPlPSrA33m4AnbcjE+V3dxqGKPT9EqH7+u5unJTkjSc2o/k2eTkuASuyqTiqDoBBZrW0mQk/UntarnCdJ/PF5VNRdNaS4=;53ff5Qk3dR5GBIBZgvLWVQ=="
 ---
 

@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
-excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app ... The company eventually started answering my questions, saying that its earlier silence was typical of an early-stage startup in stealth mode. Ton-That acknowledged designing a prototype for use with augmented reality glasses but said the company had no plans ..."
-publishedDateTime: 2020-01-19T03:21:00Z
-sourceUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
-ampUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
-cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
+publishedDateTime: 2020-01-19T03:20:00Z
+sourceUrl: https://www.dailypress.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+ampUrl: https://www.dailypress.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+cdnAmpUrl: https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - AI
+  - Facebook AI
 
 images:
-  - url: https://www.orlandosentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+  - url: https://www.dailypress.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
     width: 1200
     height: 800
     title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
@@ -82,6 +83,6 @@ related:
         width: 800
         height: 450
 
-secured: "EMesZscre4iReCwd24Q751RWXdr+Q7O1gkcmpPBKwlsvJrrr9GBAtFSyW7r5mlMy+PacIZ8nFAqo8rDu6dChphnxAkw+NUOdJe0DSJ8TQglGHG+HR1HbbMHOHvl/zHunoOIRbBPGDykvXzFrVk5dvoyki7qgt/8yL5NsIjA/C4VU0rbwDJ60bub63vpaBrsCCsovALPhDPHpLpHbXsU6b+g5PECp8q53v4xMhKRu3jFzJT6wmsAvpO3kqVaF0I7S8sRD+l+3VBLnDuVn3Grpa1CVFpie38feELEjF2vn8NI=;xqsKUy4jAR1QaLR61HTOsA=="
+secured: "3pqvUjvvPbGFT19HMdK3+xOegfrY2sZu3W3tqJrFYFTNWSJHPnIyF6cCmsKmRT9X5vt2+WACY4uLLYG0FXcTxfY7U/OlqcYAe9fAY5RBX7PWcjBRBUPtaWwvjG35a+Z4zX0aUO7XPZLc8yqmDiSpq4fum0QSWWeoAeEYULKPss9I8KUbh+gB3Xzv6rty6lP0bsk4BNpf3qTAxgIzM+J0yoBVfTDRBeiwHwrxq/eg6G8t36v1syoB/uemDSizWeFaar66jM5ndkEYAu7sEY8Gp05zKA1PxiYedjS3wSkq42M=;h5AW6HQk6UwCOUNfsqts+Q=="
 ---
 

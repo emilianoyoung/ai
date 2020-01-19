@@ -8,7 +8,7 @@ ampUrl: https://www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.amp.ht
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.amp.html
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
         width: 1200
         height: 630
 
-secured: "c7KTZY3swYAdHp/2GzCzvr28FCEnN8lDB0DDZHseKIzZ9qpC4awxJ0mbMbCyaOYkkVz9gW2kKeIOVhOvKEHaUKbYOL3bEF8M4OZtLu5IaU4+u5YHtT6lGihzXfKhFWucIDEQT0eaiwIoN3vJLGiwDX4ohiix2/iT54TryHdM/kXqhrXWTrUWLMmF3/hvhPhJY6K2oq3xAZTdtKmj57LqFA0dN+oFQOrLS0Fn+59F4R4FsJ6P5SNz0LwC/6CnNoem6Jxp66qc4YEbTiB7QK0jnSZujKuZGHH5XTw4m7bOZ2zR53ou/HUkNtoon0S9Y9ZQrVP5vkIxfQK0FN/DjNsHIod+gu3gR0ANNA6W50XrJ43hfKPtlzVHL4JRs4A0aodcruLJsn7tkhrI5SR75AKGVNvXJsvnKUkKI8UpLLcCLuf+fVotXj49tTQz9pUZvynbOaVTXXz3sZGeTHMVYyszuQ==;8t5EoGpn3dUb9YpGzDy1NA=="
+secured: "8tfO7IERj8Rrh2HMt06slPqQy/X5y4ZyKjmI1F7imdmfuv15W3xLK8NgxhT9sRaHu9F/T9dnYQKGDj1cMf37xVOCf+0SWWWt/IBvHZRVKqgmeBlqw3mhbcj0En3Cn2QkVmaxz4rfFLHs2xVo8FIoW7I/M/7JWXqtjn8r0Emnf7TxqkcK3hWxmnYTdYiaayrzFEEjC+pn8U5f8sVnBgthffd5fEpKkCEqQvEIcNLInt4AWqbcxkIdjqOoGbWIQif76XgboEWrX9KQg27VYJEP2xF7zTIfVkbrFzgFG9SvEMYPf3Pwsm40jybagy1s6Kp6Sg5uagwCUPcYr9f/d8H9cTYZvMVLtidW3b7Pm0aia2xuULq4VCb9ceyihJy2JtgPpB1uJpf7Ikorm6IPc66mazreXPquV5ZQ9033tIK4c0OvT9L/aQcbxdd27d2aDrF9SFzFYk5ms0ptyIp558zRHA==;vD40OVYUqw+qyh6ZS1xhOg=="
 ---
 
