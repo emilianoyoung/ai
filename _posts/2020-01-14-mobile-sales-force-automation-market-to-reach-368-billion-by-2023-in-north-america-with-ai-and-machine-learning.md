@@ -33,6 +33,19 @@ related:
       name: Field Technologies Online
       domain: fieldtechnologiesonline.com
     quality: 13
+  - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
+    excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
+    publishedDateTime: 2020-01-19T13:36:00Z
+    sourceUrl: https://www.analyticsinsight.net/intelligent-automation-benefits-across-businesses-industry-implementation-and-key-market-players/
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 11
+    images:
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
+        width: 1634
+        height: 918
 
 secured: "N9dASZ0KQZoKAvOyejHjMzoDQtq2ruBTyECM2+MgWfZAPMPEQvtCCITst9vtqHzwP8eqEw5n9iGQ/PIbudPBcKoo3wimPIdICE/k1w1vzWNZm5kieiw9pA3xSZbf23tPthaZ2dIAhA3rDkRxQ/iMjM0Ckf5CcPPJJZTN2kmjxZx500YRClVl0+bZezTrmrrIHRYF4uLowY70HivbkhCXASDWd/XifDBVg5Ad1aUiOWu2TJY4KmGbdodoTDxrozzlkzT8ihomQRVyBuNlyJbgK8JGbR6dHMiQYz6QWSI6wPJqiEGwzfDdg3lVCICTZliksbl1Xd8Y0BqqZO6zxCyMgSY/W4QpoOhtWjURkwCV6vUUuvFq5HjLAVAsVes7FD7bZV9quFI18kqIQDGb1kILbIb3J1xwR+4HNA0a7OL5WYBAGT5/4UvbMHkd9jZd/USxLX4qC3S8IZbp2EslYMEhjA==;zFM5Y00TzufYacP5JC0QaA=="
 ---

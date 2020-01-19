@@ -8,7 +8,7 @@ ampUrl: https://thehill.com/opinion/technology/478731-how-to-build-ethical-artif
 cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 551
     title: "How to build ethical AI"
 
-secured: "BjY3isjf8o1mjkp+dvk7wRlsLRBKLzdwI6Oz1Rt9ij6VKd1u4H6EC5QQz2gKQ/PG79XfixPrxXSCgP3FiT0v3eYWfphBAirP+1K9O6eGBmfDvDtpzLcY2eCt/dTAQq0o9AaCpr1O35zRxZw84HrzPkutB10Fe0r3wOoUqTCefGTnHGDVGjfbufXoYX791tqv6VnquAtAWjmm7pAC9xWcQekfH/VB4IY3hzIVfNSjH9vPBvwGNg2apoiEO2wR+1uVyeicLwrsErXrAdeqBqc7bkxd7s4aNh37cmpNF6Liz0Oqe6cfZvGL2hCWyEZR/qM67WPETtMC0J/vxNFm1jF+vqXHJykFQeBr3z0WkwVM2gTPaaol+v+Zq1vH38YxTogA+fCiKIyAvJzqiuDw8CuQHZSpk+DnrhK6EV2SB8iCYdlHgbc8tKlez7UrvvbgXX1gDbNEFhcMIPA0T42/HhX8Aw==;QxGK3/hG9PxlqOxWwG6rsA=="
+secured: "HyzWtF0EB8CR5hyN0pgmhwaH92gA507k/xCQ5gieFR2f01HMUeQ2MlCpv68TkMW+a5URGSARbQoXT0l3eUdySPE1WFXyC39o5zy4ERmcGf7pMfqWbap5aBU27InE4JF76NNV+IMUGnO40zO0tWL1NyTCTizGMxNmNEQrdGP+JIhcrmPSbePbIbzIX8QyV54cnnV8OODEX721RrrsThOh1okIQyoU87xzwT/e4vj1ZlisKZMw+2pse6JUeLjOQPGpDKO4J46a7Y4P9inqjStDahCLp+EYS9ah1kdC76Q1dt/b0l0sCASpr8z80YZaIkE8Qzsn7Mjp1WagSra36KyfmU3gmWHLZnmxjMr7Ubq38GgwqjUEjfwuUOCNh4Pv99jkbquQVxWdxg1oaHXj2kYol+nSya1bfb/QF4NUv0gK/nxDMnwL8YKfNiyjICeKs59H6Cuvdn11GFMyxIvb6a0wBg==;x+ZFxLqCeAIc8/TO7DSj0g=="
 ---
 
