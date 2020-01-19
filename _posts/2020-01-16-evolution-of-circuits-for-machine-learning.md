@@ -23,6 +23,19 @@ images:
     height: 576
     title: "Evolution of circuits for machine learning"
 
+related:
+  - title: "Facebook Apologizes for Vulgar Translation of Chinese Leader’s Name"
+    excerpt: "Advertising Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, said when he first saw the translation he thought someone intentionally made it to embarrass Xi. But on closer inspection of the original Burmese post, Wong said, he could see how a machine would make that error. Xi’s name sounds similar to ..."
+    publishedDateTime: 2020-01-19T19:46:00Z
+    sourceUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/
+    ampUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+
 secured: "lby0qHkp7VHwkxuP1jE3UJNkj7e/b4cPuLkfzYRc6lcy443jQVzso6hPnxBrcJLfkBsPp4yrR3QAq3k9BBMjUcboliAj+PSaKjUGuunnZgOjZaaGfmzAz29xJwCI9/+CJb+z/leEdwQyR1FD3wXv6GzKftgYMlCi1sGHrR1IDUOg5nYv1m2HAvAOS4Tc9V2zACRfdK+oo+NSy+PqL/SHJ0Tr7CosUAMOZwTUe+oaw6lfw4pR+PzaML4PIU1XPcbMPglBfIGz9A8YRie9+5Cakn/jvAV0zQcx8JUX8akEBrKh0y/vXhFyqQJxubmUR+xh4fMfd2BiMvM0J5Um4FScxnUirQIJUPCyFzj759gBNMNEWueUKrloAzVPvjLxkivxbZpxFvKG9hJtpm+zHakMMRKhWt/EoA7lnU03SurTapruK//v1do8/7hTW6Fu+OHY1pyg4+CU/6IBH1YoArHtOA==;YtSJBlKsEzG1i5TlZT76bw=="
 ---
 

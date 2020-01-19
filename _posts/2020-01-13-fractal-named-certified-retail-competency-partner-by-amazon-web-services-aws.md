@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
 
-secured: "FLddDseIfcvtK5jIccmhLlTUqYflhVCkPfvdTW/8+pc4Ga3ngY7x2z1yKm9tTHz6xIREbtKvNo38eq7O9KqheGMevohHCNriNM0XEYEsIGUF/XmN6IqQXYlHu2W5FoIIZHLqCzc/Ao0dlcwOeB935vFS9HMt8agZxZ/9sRdo05od8qrzqiItzgrRfuIAMdosu72PsE3fQue3l4Y0dNWf5o1re+pkzCwgiCZ032OQZYPBf9gxf0DdnInniJVPu7OONWhkYXZyRLD4clqnWrL23jCjU//JKI3b+OEhNdGnAdY=;yA4o3TRiZBwWfDBSBTViHw=="
+secured: "W33Y/QbcLFWix5cMok+Aic7atSaDOJlFqzbxoYx0vzuDFbtbr3qH+7+OdfDJ+ygphWX878euBuUX0uSDTjMjdZfa7ZHvlKxJCZE3DC4WyHTKfcJqHK1OlINfFKdcP9roXBCQMB1r8sDpoT7+Lt3qmRXDP5N5tJOD6A/0bfJdcSHDlDbXJFzYqGwG/qRYoplvBHkEWJZBQ6uOaAx+RKD+4080hXgfO+nAxNXT4hegQurYJiG1PE5S5akes76lXQq5+o8ykOm0a87bLFnqsPRmDcgNClA7NVJgIMBLwsU1BF0=;MvJmWU9WzcbwKYkcuqsJZQ=="
 ---
 

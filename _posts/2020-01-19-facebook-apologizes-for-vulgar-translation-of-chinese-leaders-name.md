@@ -1,75 +1,39 @@
 ---
 category: news
 title: "Facebook Apologizes for Vulgar Translation of Chinese Leader’s Name"
-excerpt: "Facebook apologized on Saturday after its platform translated Xi Jinping, the name of the Chinese leader, from Burmese to a vulgar word in English. The mistranslation caught the company’s attention when Daw Aung San Suu Kyi,"
-publishedDateTime: 2020-01-19T01:51:00Z
-sourceUrl: https://www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.html
-ampUrl: https://www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.amp.html
-cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.amp.html
+excerpt: "Advertising Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, said when he first saw the translation he thought someone intentionally made it to embarrass Xi. But on closer inspection of the original Burmese post, Wong said, he could see how a machine would make that error. Xi’s name sounds similar to ..."
+publishedDateTime: 2020-01-19T19:46:00Z
+sourceUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/
+ampUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
+cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
 type: article
-quality: 74
-heat: 105
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: https://static01.nyt.com/images/2020/01/18/reader-center/18xp-jinping-PROMO2/18xp-jinping-PROMO2-facebookJumbo.jpg
-    width: 1050
-    height: 550
-    title: "Facebook Apologizes for Vulgar Translation of Chinese Leader’s Name"
-
 related:
-  - title: "Why English translation needs the native touch"
-    excerpt: "Of course, more than one of these could be true in any given situation. One likely culprit is the use of machine translation rather than human translators. Anyone can put text into a free online translation program, while there are also proprietary ..."
-    publishedDateTime: 2020-01-16T03:30:00Z
-    sourceUrl: https://www.japantimes.co.jp/community/2020/01/16/how-tos/translation-needs-native-touch/
+  - title: "Evolution of circuits for machine learning"
+    excerpt: "But by analysing the enormous digital data sets that are currently available, AI techniques such as machine learning can now teach computers to make sensible predictions. One of the most basic operations that machine-learning algorithms can carry out when provided with a large set of inputs (such as the age of a car and how many kilometres it ..."
+    publishedDateTime: 2020-01-16T10:18:00Z
+    sourceUrl: https://www.nature.com/articles/d41586-020-00002-x
     type: article
     provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 24
+      name: Nature
+      domain: nature.com
+    quality: 39
     images:
-      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/p07-kopp-translation-a-20200116-870x1231.jpg
-        width: 870
-        height: 1231
-  - title: "Facebook apologises for rude translation of Chinese leader Xi Jinping’s name"
-    excerpt: "Facebook Inc said on Saturday it was working to find out how Chinese leader Xi ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China ..."
-    publishedDateTime: 2020-01-19T01:34:00Z
-    sourceUrl: https://www.scmp.com/news/world/united-states-canada/article/3046702/facebook-apologises-rude-translation-chinese-leader
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 21
-    images:
-      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/19/ebeba03e-3a19-11ea-9933-e21be988cd59_image_hires_015207.jpg?itok=J5zEDWp7&v=1579369937
-        width: 1200
-        height: 630
-  - title: "Facebook Apologizes For Translating Chinese President's Name As 'Mr Shithole'"
-    excerpt: "After running translation tests, the company found that its system also translated similar words that start with “xi” and “shi” in Burmese to “shithole” in English. Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, told The New York Times that he could understand why a machine would have made ..."
-    publishedDateTime: 2020-01-19T17:50:00Z
-    sourceUrl: https://www.gizmodo.com.au/2020/01/facebook-apologizes-for-translating-chinese-presidents-name-as-mr-shithole/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 21
-    images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bugew1av3at2vazdz2cv.jpg
-        width: 800
-        height: 450
+      - url: https://media.nature.com/lw1024/magazine-assets/d41586-020-00002-x/d41586-020-00002-x_17557546.png
+        width: 1024
+        height: 576
 
-secured: "kXdDwolB3bgAWFVekKcFFgwCYP6Hl8GaBgUrccdxFWQm/S2YHaBylqPpdMjsY4sj5slOPK2nR9YZ5Q3PR949/Ge7K6qHQC0a1v/0/1B+F5w9KBnVyAywt+TJQnAy5a+PwB8ufLIPJaBysF5Q++oWed8jYMddtcS7CHhEu/zVtGRrPxQmEAvJVBhX6RP0QhEnp5vEeQKl/jIRv8XlqxSdZtt0mI7iVK0IrRYFk2nl5fniRgWrI/ROCL00H61zfKj9UDvpDsyBSBK2oxPyvLuWyVyDPEgxGV9QzGT/1kKTVJWZ3tACEjdy3QFt+udPZz6pmVfLEiuEBf+Rj8v3Ci8bNNE+ke6SLDc70tUHD2uBFKyAETN763wAzVXqR4fcc2Cd3Ttl0JTr4usMmBIBVExUHFmHDQVAEfE+o3VSBvHZfUPzWBFWPQPFZWdzuC1/2S99jannReYFJObxUOnDe+6mKw==;C423xI80hy6tFpNdzd0POg=="
+secured: "h0oFhZ7n0SR2VKjOia/aTbH+hQvyQNdeDz0XoE6E8xZPLA53EQ8evroujELnOxbDHDyWZkLsl9EKNTaaXekHRfZ1OxfZxVWMk8hof9CN6FY/b0dXFq1UdVV3pxiNcic4R8GhJ2alTkq+m0g0XKsQanAOOClF7HTzYwu9zZ/YdGqWV4qjoyQKwGHxSwJrY2uC1j/nuvL2ivW0wyo+Vc66cVjxfBVyIWEH3mT/EUItpVKc+QseImeXZXLnz+tDxFLsUruQ9n+ZMn+d7eJZrUAAHB2kUWoGkbbAz/jD8UUdlECE1xR0F1uIF8SSBzP9HzYbd4zDiyuzSsl7myW0KNXlKBMLVDviWZLx+4FaGfMI6yM59ko7tWeoJZoSqHfhA1V0fcCC4utiGz/e0F3xUbpbNvaxpAwFIdbgdfWZ2iwkpDQyWlnFvwJrS8QT+23lZRDxK2m90/smQYwbJFHUmuB53g==;zl2kZBOnhgbg+VAmNUioug=="
 ---
 

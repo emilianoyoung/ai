@@ -141,19 +141,6 @@ related:
       - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
         width: 1447
         height: 908
-  - title: "Deep Learning Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
-    excerpt: "New York, January 16, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
-    publishedDateTime: 2020-01-16T03:44:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-15
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "w0lbmY+TfEJ2HB4pwucepCS8dCn9Fv3IQS/J3fnSJ+EP0huRx3U7/N4DfeczdwDXZipqeTGA/BCbKKXl/6AX6MO0eREPkIwHib0Ko692vfA0a70OdUqjDBHYmS872quA3ai/huQR5i69dt6zJyZNRtAlRUwBfnx83/sbfgx5g52QTHuydRqrPMYrrJkAObbp+kJi0N7tAZJQeHTcjHaXLYHm/H+iCO2qO/wQ+2EdMC4Ho0j+7oW6CK3JSRgsEdbo8dbtTlsjPPKG96+F/wpGcJBONdQTxstUqiCnX8dpyMU=;Ckz786aiv/y17avGQET6Hw=="
 ---

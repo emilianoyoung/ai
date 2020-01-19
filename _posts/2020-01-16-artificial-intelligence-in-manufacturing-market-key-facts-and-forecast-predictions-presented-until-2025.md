@@ -21,15 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "AI in Retail and e-Commerce Market - Industry Insights By Growth, Emerging Trends And Forecast By 2025"
-    excerpt: "Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
-    publishedDateTime: 2020-01-16T08:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16
+  - title: "UK AI in Manufacturing Market Industry Perspective, Comprehensive Analysis Up To 2019-2025"
+    excerpt: "UK AI in manufacturing market is estimated to grow at a CAGR of 32.3% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. According to the government of UK (gov."
+    publishedDateTime: 2020-01-15T10:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-industry-perspective-comprehensive-analysis-up-to-2019-2025-2020-01-15
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

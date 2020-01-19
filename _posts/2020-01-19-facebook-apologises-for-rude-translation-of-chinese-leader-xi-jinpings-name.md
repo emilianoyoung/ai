@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-19T01:34:00Z
 sourceUrl: https://www.scmp.com/news/world/united-states-canada/article/3046702/facebook-apologises-rude-translation-chinese-leader
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -24,34 +24,19 @@ images:
     title: "Facebook apologises for rude translation of Chinese leader Xi Jinping’s name"
 
 related:
-  - title: "Facebook Apologizes for Vulgar Translation of Chinese Leader’s Name"
-    excerpt: "Facebook apologized on Saturday after its platform translated Xi Jinping, the name of the Chinese leader, from Burmese to a vulgar word in English. The mistranslation caught the company’s attention when Daw Aung San Suu Kyi,"
-    publishedDateTime: 2020-01-19T01:51:00Z
-    sourceUrl: https://www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.html
-    ampUrl: https://www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/world/asia/facebook-xi-jinping.amp.html
+  - title: "Facebook Apologises For Translating Chinese President's Name As 'Mr Shithole'"
+    excerpt: "After running translation tests, the company found that its system also translated similar words that start with “xi” and “shi” in Burmese to “shithole” in English. Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, told The New York Times that he could understand why a machine would have made ..."
+    publishedDateTime: 2020-01-19T21:13:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/facebook-apologises-for-translating-chinese-presidents-name-as-mr-shithole/
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 21
     images:
-      - url: https://static01.nyt.com/images/2020/01/18/reader-center/18xp-jinping-PROMO2/18xp-jinping-PROMO2-facebookJumbo.jpg
-        width: 1050
-        height: 550
-  - title: "Why English translation needs the native touch"
-    excerpt: "Of course, more than one of these could be true in any given situation. One likely culprit is the use of machine translation rather than human translators. Anyone can put text into a free online translation program, while there are also proprietary ..."
-    publishedDateTime: 2020-01-16T03:30:00Z
-    sourceUrl: https://www.japantimes.co.jp/community/2020/01/16/how-tos/translation-needs-native-touch/
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 24
-    images:
-      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/p07-kopp-translation-a-20200116-870x1231.jpg
-        width: 870
-        height: 1231
+      - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bugew1av3at2vazdz2cv.jpg
+        width: 800
+        height: 450
   - title: "Facebook Apologizes For Translating Chinese President's Name As 'Mr Shithole'"
     excerpt: "After running translation tests, the company found that its system also translated similar words that start with “xi” and “shi” in Burmese to “shithole” in English. Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, told The New York Times that he could understand why a machine would have made ..."
     publishedDateTime: 2020-01-19T17:50:00Z

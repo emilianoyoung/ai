@@ -27,6 +27,6 @@ images:
     height: 630
     title: "AI Chip Company Syntiant Joins Qualcomm Extension Program"
 
-secured: "9t28elecKAZ27Cwm5J7BSn3Tu8Mt8SsHqXHQGdpTUbWxqYtoWcOU+NQHfFiCBc7yh/6dzzoSoa+keP0+THiVrXNDNYs36rjhCW42PEItvz//rzQhlcYabYCYWyJl+KH20qT1HLEmfguhAsEqW7/zwhtQu4eBD46sVP7oMWJWkCkk1F19hRxXw2IskIIBQVyoPwYnRME3Q6AGNZyxzpwKgjNylvwAnuorZYKjl+KQiTEXwlxMEPbev6ba7j8/Ox1rRRePz9uUw8tBoGFKzlCv8GGxCV71afp6m+e6YVIO9E4=;gFEUVQ4oAblRNdHHgzloGQ=="
+secured: "uwwQ1mvZHIBCjK2AK3ommt2aVR8fYL8cqAzSFPnyghnvsiZrF6aIE1jmV5BQb+Gh/eHiUDDblWCWFhH+hMLMBNoWFEfSueV0mu4m6ZaMJldvdhHTgrZ8dWqY6T9pW/WAQagKyENsoiqQE2CKldCFq4w4EUUxse6YuUW2CNz5p9W0GF1wDvne8xg7FZiK/1E3YSPAfdSikZ5Jd4VvqgKlAVrcJ8dgIVMojuOlTLDppDohDdxZRs2Ff80PbAu+O6t/rtRtn5NY/mgPShQ7rcoCRI1j/2Bu1H1e7yUvUIyVOU8=;Z3PjVnTJHZKs1RsvAv0i/w=="
 ---
 
