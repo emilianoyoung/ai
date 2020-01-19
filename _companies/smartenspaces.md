@@ -8,7 +8,7 @@ website: https://www.smartenspaces.com/
 
 linkedin:
   url: https://www.linkedin.com/company/smarten-spaces/
-  followers: 625
+  followers: 632
 
 crunchbase:
   url: https://www.crunchbase.com/organization/smarten-spaces

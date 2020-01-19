@@ -8,7 +8,7 @@ website: https://www.algolia.com
 
 linkedin:
   url: https://www.linkedin.com/company/algolia
-  followers: 12253
+  followers: 12265
 
 crunchbase:
   url: https://www.crunchbase.com/organization/algolia
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: algolia
   url: https://twitter.com/algolia
-  followers: 6192
+  followers: 6194
 
 size: 201-500 employees
 yearFounded: 2012

@@ -8,7 +8,7 @@ website: https://www.facebook.com
 
 linkedin:
   url: https://www.linkedin.com/company/facebook/
-  followers: 5278855
+  followers: 5283211
 
 crunchbase:
   url: https://www.crunchbase.com/organization/facebook
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: facebookai
   url: https://twitter.com/facebookai
-  followers: 2553
+  followers: 3324
 
 size: 10,001+ employees
 yearFounded: 2004

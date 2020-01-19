@@ -8,7 +8,7 @@ website: https://wayve.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/wayve-technologies/
-  followers: 1727
+  followers: 1730
 
 crunchbase:
   url: https://www.crunchbase.com/organization/wayve-9739

@@ -8,7 +8,7 @@ website: http://fetchrobotics.com/
 
 linkedin:
   url: https://www.linkedin.com/company/fetch-robotics/
-  followers: 11884
+  followers: 11905
 
 crunchbase:
   url: https://www.crunchbase.com/organization/fetch-robotics
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: fetchrobotics
   url: https://twitter.com/fetchrobotics
-  followers: 9011
+  followers: 753
 
 size: 51-200 employees
 yearFounded: 2014

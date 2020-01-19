@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: kuznech
   url: https://twitter.com/kuznech
-  followers: 1927
+  followers: 843
 
 size: 11-50 employees
 yearFounded: 2010

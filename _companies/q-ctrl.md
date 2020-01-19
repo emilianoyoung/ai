@@ -8,7 +8,7 @@ website: https://q-ctrl.com/
 
 linkedin:
   url: https://www.linkedin.com/company/q-ctrl/
-  followers: 1173
+  followers: 1177
 
 crunchbase:
   url: https://www.crunchbase.com/organization/q-ctrl
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: qctrlHQ
   url: https://twitter.com/qctrlHQ
-  followers: 2632
+  followers: 1402
 
 size: 11-50 employees
 yearFounded: 2017

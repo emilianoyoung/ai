@@ -8,7 +8,7 @@ website: http://www.biofourmis.com/
 
 linkedin:
   url: https://www.linkedin.com/company/biofourmis/
-  followers: 3996
+  followers: 4009
 
 crunchbase:
   url: https://www.crunchbase.com/organization/biofourmis-pte-ltd
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: biofourmis
   url: https://twitter.com/biofourmis
-  followers: 546
+  followers: 547
 
 size: 51-200 employees
 yearFounded: 2015

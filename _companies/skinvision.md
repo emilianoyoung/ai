@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: sknvsn
   url: https://twitter.com/sknvsn
-  followers: 7506
+  followers: 1000
 
 locations:
   - Amsterdam, the Netherlands

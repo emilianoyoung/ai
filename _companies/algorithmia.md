@@ -1,6 +1,6 @@
 ---
 name: "Algorithmia"
-overview: "Algorithmia invented the AI Layer."
+overview: "AI-powered business insights. Complete research in record time. Find what others miss."
 type: "profile"
 heat: 57
 
@@ -8,7 +8,7 @@ website: https://www.algorithmia.com/
 
 linkedin:
   url: https://www.linkedin.com/company/algorithmia-inc
-  followers: 4416
+  followers: 4435
 
 crunchbase:
   url: https://www.crunchbase.com/organization/algorithmia
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Algorithmia
   url: https://twitter.com/Algorithmia
-  followers: 464
+  followers: 3667
 
 size: 11-50 employees
 yearFounded: 2013

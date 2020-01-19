@@ -8,7 +8,7 @@ website: https://tact.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/tact.ai
-  followers: 2990
+  followers: 2995
 
 crunchbase:
   url: https://www.crunchbase.com/organization/tactile
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: tact_ai
   url: https://twitter.com/tact_ai
-  followers: 485
+  followers: 1297
 
 size: 51-200 employees
 yearFounded: 2012
@@ -32,7 +32,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://twitter.com/tact_ai/profile_image?size=original
+  - url: https://pbs.twimg.com/profile_images/918585008654139392/e9LvtuBl_400x400.jpg
     width: 400
     height: 400
     title: "Tact.ai"

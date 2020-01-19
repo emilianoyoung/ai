@@ -10,7 +10,7 @@ website: https://www.tusimple.com/
 
 linkedin:
   url: https://www.linkedin.com/company/tusimple/
-  followers: 6953
+  followers: 6965
 
 crunchbase:
   url: https://www.crunchbase.com/organization/tusimple-llc
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: tusimpleai
   url: https://twitter.com/tusimpleai
-  followers: 1774
+  followers: 1776
 
 size: 201-500 employees
 yearFounded: 2015

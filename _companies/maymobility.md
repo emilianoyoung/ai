@@ -8,7 +8,7 @@ website: https://maymobility.com/
 
 linkedin:
   url: https://www.linkedin.com/company/maymobility
-  followers: 3936
+  followers: 3944
 
 crunchbase:
   url: https://www.crunchbase.com/organization/may-mobility
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: May_Mobility
   url: https://twitter.com/May_Mobility
-  followers: 2478
+  followers: 777
 
 size: 51-200 employees
 yearFounded: 2017

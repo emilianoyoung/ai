@@ -8,7 +8,7 @@ website: https://www.pony.ai
 
 linkedin:
   url: https://www.linkedin.com/company/pony-ai/
-  followers: 7765
+  followers: 7777
 
 crunchbase:
   url: https://www.crunchbase.com/organization/pony-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: PonyAI_tech
   url: https://twitter.com/PonyAI_tech
-  followers: 16
+  followers: 509
 
 size: 51-200 employees
 yearFounded: 2016

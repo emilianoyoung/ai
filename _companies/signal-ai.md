@@ -8,7 +8,7 @@ website: http://www.signal-ai.com/
 
 linkedin:
   url: https://www.linkedin.com/company/signal-artificial-intelligence/
-  followers: 6225
+  followers: 6237
 
 crunchbase:
   url: https://www.crunchbase.com/organization/signal-media-ltd
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: SignalHQ
   url: https://twitter.com/SignalHQ
-  followers: 2103
+  followers: 2856
 
 size: 51-200 employees
 yearFounded: 2013

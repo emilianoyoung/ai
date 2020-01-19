@@ -8,7 +8,7 @@ website: https://nuviainc.com
 
 linkedin:
   url: https://www.linkedin.com/company/nuviainc/
-  followers: 1380
+  followers: 1407
 
 crunchbase:
   url: https://www.crunchbase.com/organization/nuvia-ed93

@@ -8,7 +8,7 @@ website: https://www.apex.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/apex-ai/
-  followers: 1208
+  followers: 1210
 
 crunchbase:
   url: https://www.crunchbase.com/organization/apex-ai

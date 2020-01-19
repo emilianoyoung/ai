@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: mythicinc
   url: https://twitter.com/mythicinc
-  followers: 25313
+  followers: 7055
 
 size: 11-50 employees
 yearFounded: 2012
 locations:
   - Austin, Texas
+  - Austin, TX
 
 funding:
   status: Early Stage Venture

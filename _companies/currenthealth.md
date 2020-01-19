@@ -11,7 +11,7 @@ website: https://www.currenthealth.com/
 
 linkedin:
   url: https://www.linkedin.com/company/currenthealth/
-  followers: 2629
+  followers: 2639
 
 crunchbase:
   url: https://www.crunchbase.com/organization/current-health
@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: HeyCurrent
   url: https://twitter.com/HeyCurrent
-  followers: 13310
+  followers: 13307
 
 size: 11-50 employees
 yearFounded: 2015

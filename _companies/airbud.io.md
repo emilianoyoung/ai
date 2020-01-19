@@ -8,7 +8,7 @@ website: http://airbud.io/
 
 linkedin:
   url: https://www.linkedin.com/company/airbud-technologies/
-  followers: 702
+  followers: 701
 
 crunchbase:
   url: https://www.crunchbase.com/organization/airbud-technologies-inc

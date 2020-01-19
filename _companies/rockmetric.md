@@ -8,7 +8,7 @@ website: https://www.rockmetric.com/
 
 linkedin:
   url: https://www.linkedin.com/company/rockmetric
-  followers: 813
+  followers: 814
 
 crunchbase:
   url: https://www.crunchbase.com/organization/rockmetric
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: rockmetric
   url: https://www.twitter.com/rockmetric
-  followers: 568
+  followers: 480611
 
 size: 11-50 employees
 yearFounded: 2015

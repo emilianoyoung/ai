@@ -8,7 +8,7 @@ website: https://www.kairos.com
 
 linkedin:
   url: https://www.linkedin.com/company/kairos-ar-inc-/
-  followers: 1741
+  followers: 1742
 
 crunchbase:
   url: https://www.crunchbase.com/organization/kairos-ar
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: LoveKairos
   url: https://twitter.com/LoveKairos
-  followers: 4705
+  followers: 420
 
 size: 11-50 employees
 yearFounded: 2012

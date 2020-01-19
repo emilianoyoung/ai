@@ -8,7 +8,7 @@ website: https://www.rev.com/
 
 linkedin:
   url: https://www.linkedin.com/company/rev-com
-  followers: 8612
+  followers: 8613
 
 crunchbase:
   url: https://www.crunchbase.com/organization/rev
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: rev
   url: https://twitter.com/rev
-  followers: 201
+  followers: 4913
 
 size: 51-200 employees
 yearFounded: 2010

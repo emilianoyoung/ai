@@ -10,7 +10,7 @@ website: https://www.tempus.com/
 
 linkedin:
   url: https://www.linkedin.com/company/tempus-health
-  followers: 11837
+  followers: 11877
 
 crunchbase:
   url: https://www.crunchbase.com/organization/tempus-3

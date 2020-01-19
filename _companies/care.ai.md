@@ -8,7 +8,7 @@ website: https://care.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/careai/
-  followers: 167
+  followers: 168
 
 crunchbase:
   url: https://www.crunchbase.com/organization/care-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: caredotai
   url: https://twitter.com/caredotai
-  followers: 1520
+  followers: 4440
 
 size: 11-50 employees
 yearFounded: 2019

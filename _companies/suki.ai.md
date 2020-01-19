@@ -8,7 +8,7 @@ website: https://www.suki.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/SukiHQ
-  followers: 14447
+  followers: 14451
 
 crunchbase:
   url: https://www.crunchbase.com/organization/sukihq
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: SukiHQ
   url: https://www.twitter.com/SukiHQ
-  followers: 485
+  followers: 1359
 
 size: 11-50 employees
 yearFounded: 2017

@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: asktetra
   url: https://twitter.com/asktetra
-  followers: 5077
+  followers: 5082
 
 
 funding:

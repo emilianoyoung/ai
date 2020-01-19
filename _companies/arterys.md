@@ -8,7 +8,7 @@ website: https://arterys.com/
 
 linkedin:
   url: https://www.linkedin.com/company/2649064
-  followers: 5979
+  followers: 5982
 
 crunchbase:
   url: https://www.crunchbase.com/organization/arterys

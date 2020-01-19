@@ -8,7 +8,7 @@ website: https://www.irobot.com/
 
 linkedin:
   url: https://www.linkedin.com/company/irobot/
-  followers: 43981
+  followers: 44005
 
 crunchbase:
   url: https://www.crunchbase.com/organization/irobot
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: iRobot
   url: https://twitter.com/iRobot
-  followers: 36727
+  followers: 142
 
 size: 501-1,000 employees
 yearFounded: 1990

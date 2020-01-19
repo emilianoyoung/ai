@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: leapmind_inc
   url: https://twitter.com/leapmind_inc
-  followers: 16016
+  followers: 5282
 
 locations:
   - 東京都渋谷区

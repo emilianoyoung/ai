@@ -8,7 +8,7 @@ website: http://www.kreditech.com/
 
 linkedin:
   url: https://www.linkedin.com/company/kreditech/
-  followers: 7086
+  followers: 7091
 
 crunchbase:
   url: https://www.crunchbase.com/organization/kreditech
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Kreditech
   url: https://twitter.com/Kreditech
-  followers: 10
+  followers: 1929
 
 size: 201-500 employees
 yearFounded: 2012

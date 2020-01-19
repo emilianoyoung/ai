@@ -8,7 +8,7 @@ website: https://sightmachine.com/
 
 linkedin:
   url: https://www.linkedin.com/company/sight-machine/
-  followers: 2778
+  followers: 2782
 
 crunchbase:
   url: https://www.crunchbase.com/organization/sight-machine
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: sightmachine
   url: https://twitter.com/sightmachine
-  followers: 1516
+  followers: 2103
 
 size: 51-200 employees
 yearFounded: 2011

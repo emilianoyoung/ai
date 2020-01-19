@@ -8,7 +8,7 @@ website: https://www.luminouscomputing.com/
 
 linkedin:
   url: https://www.linkedin.com/company/luminous-computing
-  followers: 398
+  followers: 399
 
 crunchbase:
   url: https://www.crunchbase.com/organization/luminous-computing
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: LuminousAI
   url: https://twitter.com/LuminousAI
-  followers: 283
+  followers: 390
 
 size: 2-10 employees
 yearFounded: 2018

@@ -8,7 +8,7 @@ website: https://www.marble.io/
 
 linkedin:
   url: https://www.linkedin.com/company/marble/
-  followers: 1607
+  followers: 1610
 
 crunchbase:
   url: https://www.crunchbase.com/organization/marble
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: marblerobot
   url: https://twitter.com/marblerobot
-  followers: 9012
+  followers: 431
 
 size: 11-50 employees
 yearFounded: 2015

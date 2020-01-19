@@ -8,7 +8,7 @@ website: https://five.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/five-ai/
-  followers: 5267
+  followers: 5273
 
 crunchbase:
   url: https://www.crunchbase.com/organization/fiveai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: _FiveAI
   url: https://twitter.com/_FiveAI
-  followers: 1047
+  followers: 175
 
 size: 51-200 employees
 yearFounded: 2015

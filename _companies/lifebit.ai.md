@@ -8,7 +8,7 @@ website: https://lifebit.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/lifebit-ai/
-  followers: 852
+  followers: 856
 
 crunchbase:
   url: https://www.crunchbase.com/organization/lifebit-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: lifebitAI
   url: https://twitter.com/lifebitAI
-  followers: 91
+  followers: 5793
 
 size: 2-10 employees
 yearFounded: 2017

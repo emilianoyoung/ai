@@ -10,7 +10,7 @@ website: https://www.microsoft.com
 
 linkedin:
   url: https://www.linkedin.com/company/microsoft/
-  followers: 9678044
+  followers: 9696489
 
 crunchbase:
   url: https://www.crunchbase.com/organization/microsoft
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: Microsoft
   url: https://twitter.com/Microsoft
-  followers: 1848
+  followers: 401
 
 size: 10,001+ employees
 yearFounded: 1975

@@ -8,7 +8,7 @@ website: http://www.kodiak.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/kodiakrobotics/
-  followers: 2329
+  followers: 2335
 
 crunchbase:
   url: https://www.crunchbase.com/organization/kodiak-robotics-inc

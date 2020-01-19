@@ -8,7 +8,7 @@ website: https://www.armorblox.com/
 
 linkedin:
   url: https://www.linkedin.com/company/deep-6-ai/
-  followers: 2882
+  followers: 2885
 
 crunchbase:
   url: https://www.crunchbase.com/organization/armorblox

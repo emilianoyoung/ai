@@ -8,7 +8,7 @@ website: https://healx.io/
 
 linkedin:
   url: https://www.linkedin.com/company/healx/
-  followers: 2009
+  followers: 2016
 
 crunchbase:
   url: https://www.crunchbase.com/organization/healx
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: healx
   url: https://twitter.com/healx
-  followers: 12709
+  followers: 1621
 
 size: 11-50 employees
 yearFounded: 2014

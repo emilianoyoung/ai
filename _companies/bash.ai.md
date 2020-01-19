@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: letsbashit
   url: https://twitter.com/letsbashit
-  followers: 22
+  followers: 23
 
 size: 11-50 employees
 yearFounded: 2017

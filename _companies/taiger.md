@@ -8,7 +8,7 @@ website: http://www.taiger.com
 
 linkedin:
   url: https://www.linkedin.com/company/taiger/
-  followers: 9573
+  followers: 9583
 
 crunchbase:
   url: https://www.crunchbase.com/organization/taiger
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Taiger_CO
   url: https://twitter.com/Taiger_CO
-  followers: 500
+  followers: 499
 
 size: 51-200 employees
 yearFounded: 2009

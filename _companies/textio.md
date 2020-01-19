@@ -8,7 +8,7 @@ website: https://textio.com/
 
 linkedin:
   url: https://www.linkedin.com/company/textio
-  followers: 12168
+  followers: 12172
 
 crunchbase:
   url: https://www.crunchbase.com/organization/textio
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: textio
   url: https://twitter.com/textio
-  followers: 5187
+  followers: 5180
 
 size: 51-200 employees
 yearFounded: 2014

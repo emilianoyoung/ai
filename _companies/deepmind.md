@@ -8,7 +8,7 @@ website: https://deepmind.com/
 
 linkedin:
   url: https://www.linkedin.com/company/deepmind/
-  followers: 87709
+  followers: 87994
 
 crunchbase:
   url: https://www.crunchbase.com/organization/deepmind
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: deepmindai
   url: https://twitter.com/deepmindai
-  followers: 11457
+  followers: 513
 
 size: 501-1,000 employees
 yearFounded: 2010

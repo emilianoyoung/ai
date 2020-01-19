@@ -8,7 +8,7 @@ website: http://www.labgeni.us/
 
 linkedin:
   url: https://www.linkedin.com/company/labgenius/
-  followers: 1981
+  followers: 1984
 
 crunchbase:
   url: https://www.crunchbase.com/organization/labgenius
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: labgeni_us
   url: https://twitter.com/labgeni_us
-  followers: 845
+  followers: 16028
 
 size: 11-50 employees
 yearFounded: 2012

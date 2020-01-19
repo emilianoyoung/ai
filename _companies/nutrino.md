@@ -8,7 +8,7 @@ website: https://www.nutrinohealth.com/
 
 linkedin:
   url: https://www.linkedin.com/company/nutrino
-  followers: 1287
+  followers: 1289
 
 crunchbase:
   url: https://www.crunchbase.com/organization/nutrino
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: NutrinoCo
   url: https://twitter.com/NutrinoCo
-  followers: 589
+  followers: 123
 
 size: 11-50 employees
 yearFounded: 2011

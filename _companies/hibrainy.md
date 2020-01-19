@@ -8,7 +8,7 @@ website: https://hibrainy.com/
 
 linkedin:
   url: https://www.linkedin.com/company/hibrainy/
-  followers: 156
+  followers: 157
 
 crunchbase:
   url: https://www.crunchbase.com/organization/hibrainy
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: hibrainy
   url: https://twitter.com/hibrainy
-  followers: 2583
+  followers: 1760
 
 size: 2-10 employees
 locations:

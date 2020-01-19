@@ -8,7 +8,7 @@ website: https://ada.com/
 
 linkedin:
   url: https://www.linkedin.com/company/ada-health
-  followers: 8131
+  followers: 8152
 
 crunchbase:
   url: https://www.crunchbase.com/organization/adahealth
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: adahealth
   url: https://twitter.com/adahealth
-  followers: 3258
+  followers: 3264
 
 size: 201-500 employees
 yearFounded: 2011

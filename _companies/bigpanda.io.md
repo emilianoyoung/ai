@@ -8,7 +8,7 @@ website: https://www.bigpanda.io/
 
 linkedin:
   url: https://www.linkedin.com/company/bigpanda
-  followers: 5373
+  followers: 5385
 
 crunchbase:
   url: https://www.crunchbase.com/organization/bigpanda
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: bigpanda
   url: https://twitter.com/bigpanda
-  followers: 200
+  followers: 202
 
 size: 51-200 employees
 yearFounded: 2012

@@ -8,7 +8,7 @@ website: https://bluehexagon.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/blue-hexagon-inc/
-  followers: 3615
+  followers: 3618
 
 crunchbase:
   url: https://www.crunchbase.com/organization/blue-hexagon

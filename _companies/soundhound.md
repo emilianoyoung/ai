@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: SoundHoundInc
   url: https://twitter.com/SoundHoundInc
-  followers: 1737
+  followers: 390
 
 locations:
   - Santa Clara, CA

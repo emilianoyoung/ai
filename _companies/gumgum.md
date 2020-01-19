@@ -8,7 +8,7 @@ website: https://gumgum.com/
 
 linkedin:
   url: https://www.linkedin.com/company/gumgum/
-  followers: 12252
+  followers: 12258
 
 crunchbase:
   url: https://www.crunchbase.com/organization/gumgum
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: GumGum
   url: https://twitter.com/GumGum
-  followers: 1759
+  followers: 3402
 
 size: 201-500 employees
 yearFounded: 2007

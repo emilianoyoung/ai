@@ -8,7 +8,7 @@ website: https://www.vian.ai
 
 linkedin:
   url: https://www.linkedin.com/company/vianai/
-  followers: 2393
+  followers: 2412
 
 crunchbase:
   url: https://www.crunchbase.com/organization/vianai

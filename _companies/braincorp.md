@@ -10,7 +10,7 @@ website: https://www.braincorp.com
 
 linkedin:
   url: https://www.linkedin.com/company/brain-corporation/
-  followers: 9583
+  followers: 9595
 
 crunchbase:
   url: https://www.crunchbase.com/organization/brain-corporation

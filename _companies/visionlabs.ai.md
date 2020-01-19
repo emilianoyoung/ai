@@ -8,7 +8,7 @@ website: https://visionlabs.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/visionlabs
-  followers: 390
+  followers: 391
 
 crunchbase:
   url: https://www.crunchbase.com/organization/visionlabs

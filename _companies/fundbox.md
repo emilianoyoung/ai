@@ -8,7 +8,7 @@ website: https://fundbox.com/
 
 linkedin:
   url: https://www.linkedin.com/company/fundbox
-  followers: 10736
+  followers: 10741
 
 crunchbase:
   url: https://www.crunchbase.com/organization/fundbox
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: fundbox
   url: https://twitter.com/fundbox
-  followers: 10
+  followers: 2648
 
 size: 51-200 employees
 yearFounded: 2013

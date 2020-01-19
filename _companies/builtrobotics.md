@@ -8,7 +8,7 @@ website: http://www.builtrobotics.com/
 
 linkedin:
   url: https://www.linkedin.com/company/builtrobotics/
-  followers: 1535
+  followers: 1542
 
 crunchbase:
   url: https://www.crunchbase.com/organization/built-robotics

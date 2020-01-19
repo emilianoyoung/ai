@@ -8,7 +8,7 @@ website: https://www.skydio.com/
 
 linkedin:
   url: https://www.linkedin.com/company/skydio/
-  followers: 5910
+  followers: 5930
 
 crunchbase:
   url: https://www.crunchbase.com/organization/skydio

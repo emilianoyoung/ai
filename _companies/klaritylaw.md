@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: klaritylaw/
   url: https://www.twitter.com/klaritylaw/
-  followers: 2603
+  followers: 10
 
 size: 2-10 employees
 yearFounded: 2017

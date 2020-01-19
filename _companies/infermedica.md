@@ -8,7 +8,7 @@ website: https://infermedica.com/
 
 linkedin:
   url: https://www.linkedin.com/company/infermedica
-  followers: 1333
+  followers: 1334
 
 crunchbase:
   url: https://www.crunchbase.com/organization/infermedica
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: infermedica
   url: https://twitter.com/infermedica
-  followers: 2601
+  followers: 225
 
 size: 51-200 employees
 yearFounded: 2012

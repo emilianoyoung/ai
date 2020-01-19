@@ -8,7 +8,7 @@ website: https://www.gong.io/
 
 linkedin:
   url: https://www.linkedin.com/company/gong-io/
-  followers: 26155
+  followers: 26243
 
 crunchbase:
   url: https://www.crunchbase.com/organization/gong-io

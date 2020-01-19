@@ -8,7 +8,7 @@ website: https://www.taskus.com/
 
 linkedin:
   url: https://www.linkedin.com/company/taskus
-  followers: 41850
+  followers: 41909
 
 crunchbase:
   url: https://www.crunchbase.com/organization/taskus

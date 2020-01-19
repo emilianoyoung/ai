@@ -8,7 +8,7 @@ website: https://www.sightdx.com/
 
 linkedin:
   url: https://www.linkedin.com/company/sight-diagnostics
-  followers: 1984
+  followers: 1988
 
 crunchbase:
   url: https://www.crunchbase.com/organization/sight-diagnostics

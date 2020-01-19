@@ -8,7 +8,7 @@ website: https://www.deeplens.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/deep-lens/
-  followers: 751
+  followers: 750
 
 crunchbase:
   url: https://www.crunchbase.com/organization/deep-lens
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: deeplens_ai
   url: https://twitter.com/deeplens_ai
-  followers: 864
+  followers: 2205
 
 size: 11-50 employees
 yearFounded: 2017

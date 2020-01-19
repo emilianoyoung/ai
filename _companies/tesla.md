@@ -10,7 +10,7 @@ website: https://www.tesla.com
 
 linkedin:
   url: https://www.linkedin.com/company/tesla-motors
-  followers: 5265959
+  followers: 5282737
 
 crunchbase:
   url: https://www.crunchbase.com/organization/tesla-motors
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: tesla
   url: https://twitter.com/tesla
-  followers: 4750375
+  followers: 4761335
 
 size: 10,001+ employees
 yearFounded: 2003

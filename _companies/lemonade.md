@@ -8,7 +8,7 @@ website: https://www.lemonade.com/
 
 linkedin:
   url: https://www.linkedin.com/company/lemonade-inc-/
-  followers: 35595
+  followers: 35652
 
 crunchbase:
   url: https://www.crunchbase.com/organization/lemonade
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: lemonade_inc
   url: https://twitter.com/lemonade_inc
-  followers: 5282
+  followers: 4139
 
 size: 51-200 employees
 yearFounded: 2015

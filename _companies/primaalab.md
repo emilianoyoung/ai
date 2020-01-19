@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: primaalab
   url: https://twitter.com/primaalab
-  followers: 823
+  followers: 1035
 
 size: 11-50 employees
 locations:

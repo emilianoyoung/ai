@@ -8,7 +8,7 @@ website: https://www.affectiva.com/
 
 linkedin:
   url: https://www.linkedin.com/company/722122
-  followers: 17210
+  followers: 17302
 
 crunchbase:
   url: https://www.crunchbase.com/organization/affectiva
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: affectiva
   url: https://twitter.com/affectiva
-  followers: 10143
+  followers: 10152
 
 size: 51-200 employees
 yearFounded: 2009

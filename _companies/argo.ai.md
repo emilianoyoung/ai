@@ -8,7 +8,7 @@ website: https://argo.ai
 
 linkedin:
   url: https://www.linkedin.com/company/argo-ai/
-  followers: 22513
+  followers: 22554
 
 crunchbase:
   url: https://www.crunchbase.com/organization/argo-ai

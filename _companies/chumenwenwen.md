@@ -14,7 +14,7 @@ website: http://www.chumenwenwen.com
 
 linkedin:
   url: https://www.linkedin.com/company/3773376
-  followers: 2560
+  followers: 2561
 
 crunchbase:
   url: https://www.crunchbase.com/organization/mobvoi
@@ -22,7 +22,7 @@ crunchbase:
 twitter:
   username: Mobvoi_Official
   url: https://twitter.com/Mobvoi_Official
-  followers: 8711
+  followers: 8713
 
 size: 501-1,000 employees
 yearFounded: 2012

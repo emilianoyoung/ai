@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: replydotai
   url: https://twitter.com/replydotai
-  followers: 6769
+  followers: 370
 
 size: 11-50 employees
 yearFounded: 2016
 locations:
   - New York, New York
+  - New York, NY
 
 funding:
   status: Seed

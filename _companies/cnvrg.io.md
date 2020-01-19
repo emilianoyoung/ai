@@ -8,7 +8,7 @@ website: https://cnvrg.io/
 
 linkedin:
   url: https://www.linkedin.com/company/cnvrg-io/
-  followers: 610
+  followers: 611
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cnvrg-io

@@ -8,7 +8,7 @@ website: https://www.khealth.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/k-health-inc/
-  followers: 2474
+  followers: 2477
 
 crunchbase:
   url: https://www.crunchbase.com/organization/kang-health
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: KHealthInc
   url: https://twitter.com/KHealthInc
-  followers: 420
+  followers: 1036
 
 size: 51-200 employees
 yearFounded: 2016
 locations:
   - New York, New York
+  - New York, NY
 
 funding:
   status: Early Stage Venture

@@ -8,7 +8,7 @@ website: http://www.narrativa.com/
 
 linkedin:
   url: https://www.linkedin.com/company/9329868
-  followers: 331
+  followers: 332
 
 crunchbase:
   url: https://www.crunchbase.com/organization/narrative-visualization
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: NarrativaAI
   url: https://twitter.com/NarrativaAI
-  followers: 7055
+  followers: 3058
 
 size: 2-10 employees
 yearFounded: 2015

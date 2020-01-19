@@ -8,7 +8,7 @@ website: https://www.speechmatics.com/
 
 linkedin:
   url: https://www.linkedin.com/company/speechmatics/
-  followers: 2692
+  followers: 2697
 
 crunchbase:
   url: https://www.crunchbase.com/organization/speechmatics
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Speechmatics
   url: https://twitter.com/Speechmatics
-  followers: 8038
+  followers: 1197
 
 size: 51-200 employees
 yearFounded: 2009

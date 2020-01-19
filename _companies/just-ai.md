@@ -8,7 +8,7 @@ website: http://just-ai.com/
 
 linkedin:
   url: https://www.linkedin.com/company/just-ai-uk
-  followers: 101
+  followers: 103
 
 crunchbase:
   url: https://www.crunchbase.com/organization/just-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: JustAIglobal
   url: https://twitter.com/JustAIglobal
-  followers: 345
+  followers: 23157
 
 size: 51-200 employees
 yearFounded: 2016

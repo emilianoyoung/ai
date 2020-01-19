@@ -8,7 +8,7 @@ website: http://www.gnshealthcare.com/
 
 linkedin:
   url: https://www.linkedin.com/company/gns-healthcare/
-  followers: 2992
+  followers: 2993
 
 crunchbase:
   url: https://www.crunchbase.com/organization/gns-healthcare

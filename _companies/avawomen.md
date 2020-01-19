@@ -8,7 +8,7 @@ website: https://www.avawomen.com/
 
 linkedin:
   url: https://www.linkedin.com/company/ava-ag
-  followers: 9064
+  followers: 9071
 
 crunchbase:
   url: https://www.crunchbase.com/organization/ava-3

@@ -8,7 +8,7 @@ website: https://www.gideonbros.net/
 
 linkedin:
   url: https://www.linkedin.com/company/gideon-brothers/
-  followers: 2989
+  followers: 2993
 
 crunchbase:
   url: https://www.crunchbase.com/organization/gideon-brothers
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: GideonBros
   url: https://twitter.com/GideonBros
-  followers: 4556
+  followers: 180335
 
 size: 11-50 employees
 yearFounded: 2017

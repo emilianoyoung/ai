@@ -8,7 +8,7 @@ website: https://www.robinhealthcare.com
 
 linkedin:
   url: https://www.linkedin.com/company/robin-healthcare/
-  followers: 587
+  followers: 588
 
 crunchbase:
   url: https://www.crunchbase.com/organization/robin-healthcare

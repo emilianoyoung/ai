@@ -10,7 +10,7 @@ website: https://geenee.me/
 
 linkedin:
   url: https://www.linkedin.com/company/geenee-gmbh/
-  followers: 394
+  followers: 395
 
 crunchbase:
   url: https://www.crunchbase.com/organization/geenee
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: shopgeenee
   url: https://twitter.com/shopgeenee
-  followers: 2648
+  followers: 1411667
 
 size: 11-50 employees
 yearFounded: 2014

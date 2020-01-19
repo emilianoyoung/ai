@@ -8,7 +8,7 @@ website: https://www.google.com
 
 linkedin:
   url: https://www.linkedin.com/company/google/
-  followers: 14841408
+  followers: 14872554
 
 crunchbase:
   url: https://www.crunchbase.com/organization/google

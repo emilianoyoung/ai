@@ -8,7 +8,7 @@ website: https://flatiron.com
 
 linkedin:
   url: https://www.linkedin.com/company/2682361
-  followers: 21136
+  followers: 21180
 
 crunchbase:
   url: https://www.crunchbase.com/organization/flatiron-health
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: flatironhealth
   url: https://twitter.com/flatironhealth
-  followers: 752
+  followers: 1797
 
 size: 501-1,000 employees
 yearFounded: 2012

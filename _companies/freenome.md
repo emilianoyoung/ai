@@ -8,7 +8,7 @@ website: https://www.freenome.com/
 
 linkedin:
   url: https://www.linkedin.com/company/freenome/
-  followers: 4103
+  followers: 4113
 
 crunchbase:
   url: https://www.crunchbase.com/organization/freenome
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: freenome
   url: https://www.twitter.com/freenome
-  followers: 102
+  followers: 427
 
 size: 51-200 employees
 yearFounded: 2014

@@ -8,7 +8,7 @@ website: https://www.kabbage.com
 
 linkedin:
   url: https://www.linkedin.com/company/kabbage-inc/
-  followers: 31583
+  followers: 31603
 
 crunchbase:
   url: https://www.crunchbase.com/organization/kabbage
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: KabbageInc
   url: https://twitter.com/KabbageInc
-  followers: 23158
+  followers: 30466
 
 size: 501-1,000 employees
 yearFounded: 2009

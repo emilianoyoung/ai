@@ -8,7 +8,7 @@ website: https://www.rethinkrobotics.com/
 
 linkedin:
   url: https://www.linkedin.com/company/rethink-robotics/
-  followers: 17769
+  followers: 17788
 
 crunchbase:
   url: https://www.crunchbase.com/organization/rethink-robotics
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: RethinkRobotics
   url: https://twitter.com/RethinkRobotics
-  followers: 370
+  followers: 201
 
 size: 11-50 employees
 yearFounded: 2018

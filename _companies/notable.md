@@ -8,7 +8,7 @@ website: http://notablehealth.com/
 
 linkedin:
   url: https://www.linkedin.com/company/notablehealth/
-  followers: 719
+  followers: 721
 
 crunchbase:
   url: https://www.crunchbase.com/organization/notable

@@ -8,7 +8,7 @@ website: https://www.anduril.com/
 
 linkedin:
   url: https://www.linkedin.com/company/18293159/
-  followers: 3681
+  followers: 3690
 
 crunchbase:
   url: https://www.crunchbase.com/organization/anduril-industries
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: anduriltech
   url: https://twitter.com/anduriltech
-  followers: 27066
+  followers: 27072
 
 size: 51-200 employees
 yearFounded: 2017

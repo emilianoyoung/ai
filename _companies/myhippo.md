@@ -8,7 +8,7 @@ website: https://myhippo.com/
 
 linkedin:
   url: https://www.linkedin.com/company/hippo-insurance
-  followers: 4575
+  followers: 4593
 
 crunchbase:
   url: https://www.crunchbase.com/organization/hippo-insurance
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: hippo_insurance
   url: https://twitter.com/hippo_insurance
-  followers: 383
+  followers: 25310
 
 size: 51-200 employees
 yearFounded: 2015

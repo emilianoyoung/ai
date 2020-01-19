@@ -8,7 +8,7 @@ website: https://www.enlitic.com/
 
 linkedin:
   url: https://www.linkedin.com/company/enlitic/
-  followers: 3336
+  followers: 3340
 
 crunchbase:
   url: https://www.crunchbase.com/organization/enlitic
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: enlitic
   url: https://twitter.com/enlitic
-  followers: 6552
+  followers: 5891
 
 size: 11-50 employees
 yearFounded: 2014

@@ -8,7 +8,7 @@ website: http://www.skelterlabs.com/
 
 linkedin:
   url: https://www.linkedin.com/company/skelter-labs
-  followers: 927
+  followers: 941
 
 crunchbase:
   url: https://www.crunchbase.com/organization/skelter-labs

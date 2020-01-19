@@ -8,7 +8,7 @@ website: https://www.xnor.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/xnor-ai/
-  followers: 1962
+  followers: 2005
 
 crunchbase:
   url: https://www.crunchbase.com/organization/xnor-ai

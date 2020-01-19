@@ -8,7 +8,7 @@ website: https://www.fdna.com/
 
 linkedin:
   url: https://www.linkedin.com/company/fdna
-  followers: 1133
+  followers: 1134
 
 crunchbase:
   url: https://www.crunchbase.com/organization/fdna-inc
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: FDNA
   url: https://twitter.com/FDNA
-  followers: 5890
+  followers: 9026
 
 size: 11-50 employees
 yearFounded: 2011

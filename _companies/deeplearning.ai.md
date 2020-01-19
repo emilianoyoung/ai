@@ -8,7 +8,7 @@ website: https://deeplearning.ai
 
 linkedin:
   url: https://www.linkedin.com/company/deeplearningai/
-  followers: 186241
+  followers: 186916
 
 crunchbase:
   url: https://www.crunchbase.com/organization/deeplearning-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: deeplearningai_
   url: https://twitter.com/deeplearningai_
-  followers: 277568
+  followers: 11454
 
 size: 11-50 employees
 yearFounded: 2017

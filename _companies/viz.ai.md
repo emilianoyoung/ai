@@ -10,7 +10,7 @@ website: https://www.viz.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/viz.ai
-  followers: 4421
+  followers: 4434
 
 crunchbase:
   url: https://www.crunchbase.com/organization/viz
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: viz_ai
   url: https://twitter.com/viz_ai
-  followers: 6927
+  followers: 6942
 
 size: 51-200 employees
 yearFounded: 2016

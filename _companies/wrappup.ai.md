@@ -8,7 +8,7 @@ website: http://www.wrappup.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/wrappup
-  followers: 269
+  followers: 270
 
 crunchbase:
   url: https://www.crunchbase.com/organization/wrappup
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: justwrappup
   url: https://twitter.com/justwrappup
-  followers: 1330
+  followers: 1343
 
 size: 2-10 employees
 yearFounded: 2015

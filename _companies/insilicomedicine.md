@@ -8,7 +8,7 @@ website: http://insilicomedicine.com/
 
 linkedin:
   url: https://www.linkedin.com/company/in-silico-medicine-inc
-  followers: 3303
+  followers: 3313
 
 crunchbase:
   url: https://www.crunchbase.com/organization/insilico-medicine
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: InsilicoMeds
   url: https://twitter.com/InsilicoMeds
-  followers: 2668
+  followers: 4393
 
 size: 11-50 employees
 yearFounded: 2014

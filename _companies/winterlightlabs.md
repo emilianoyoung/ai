@@ -8,7 +8,7 @@ website: https://winterlightlabs.com/
 
 linkedin:
   url: https://www.linkedin.com/company/winterlight-labs/
-  followers: 532
+  followers: 534
 
 crunchbase:
   url: https://www.crunchbase.com/organization/winterlight

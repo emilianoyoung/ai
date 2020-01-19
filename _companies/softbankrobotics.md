@@ -8,7 +8,7 @@ website: https://www.softbankrobotics.com
 
 linkedin:
   url: https://www.linkedin.com/company/softbank-robotics-japan/
-  followers: 403
+  followers: 406
 
 crunchbase:
   url: https://www.crunchbase.com/organization/softbank-robotics
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: sbreurope
   url: https://twitter.com/sbreurope
-  followers: 390
+  followers: 16181
 
 locations:
   - Tokyo, Tokyo

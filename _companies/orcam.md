@@ -8,7 +8,7 @@ website: https://www.orcam.com
 
 linkedin:
   url: https://www.linkedin.com/company/orcam
-  followers: 4723
+  followers: 4734
 
 crunchbase:
   url: https://www.crunchbase.com/organization/orcam-technologies
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: OrCam
   url: https://twitter.com/OrCam
-  followers: 84
+  followers: 654
 
 size: 51-200 employees
 yearFounded: 2010

@@ -8,7 +8,7 @@ website: https://www.freedomrobotics.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/freedomrobotics/
-  followers: 253
+  followers: 254
 
 crunchbase:
   url: https://www.crunchbase.com/organization/freedom-robotics
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: FRDMROBOTICS
   url: https://twitter.com/FRDMROBOTICS
-  followers: 7706
+  followers: 10
 
 size: 11-50 employees
 yearFounded: 2018

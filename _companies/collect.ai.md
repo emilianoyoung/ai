@@ -10,7 +10,7 @@ website: https://www.collect.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/collectai/
-  followers: 721
+  followers: 724
 
 crunchbase:
   url: https://www.crunchbase.com/organization/collectai
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: collectAI
   url: https://twitter.com/collectAI
-  followers: 482
+  followers: 13889
 
 size: 11-50 employees
 yearFounded: 2016

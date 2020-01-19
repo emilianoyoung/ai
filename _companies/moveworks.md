@@ -8,7 +8,7 @@ website: https://www.moveworks.com/
 
 linkedin:
   url: https://www.linkedin.com/company/moveworksai/
-  followers: 1559
+  followers: 1565
 
 crunchbase:
   url: https://www.crunchbase.com/organization/moveworks
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: moveworks
   url: https://twitter.com/moveworks
-  followers: 1324
+  followers: 532
 
 size: 51-200 employees
 yearFounded: 2016

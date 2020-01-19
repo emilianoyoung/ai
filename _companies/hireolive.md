@@ -12,7 +12,7 @@ website: https://oliveai.com/
 
 linkedin:
   url: https://www.linkedin.com/company/hireolive/
-  followers: 8136
+  followers: 8142
 
 crunchbase:
   url: https://www.crunchbase.com/organization/crosschx
@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: hire_olive
   url: https://twitter.com/hire_olive
-  followers: 221
+  followers: 12804
 
 size: 51-200 employees
 yearFounded: 2012
@@ -39,7 +39,7 @@ images:
     width: 400
     height: 400
     title: "logo"
-  - url: https://twitter.com/hire_olive/profile_image?size=original
+  - url: https://pbs.twimg.com/profile_images/1126261339029164037/KgmTJrZI_400x400.png
     width: 400
     height: 400
     title: "Olive"

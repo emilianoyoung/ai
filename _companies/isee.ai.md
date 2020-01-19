@@ -8,7 +8,7 @@ website: https://www.isee.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/isee-ai/
-  followers: 506
+  followers: 509
 
 crunchbase:
   url: https://www.crunchbase.com/organization/isee-c0f5
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: isee_ai
   url: https://twitter.com/isee_ai
-  followers: 142
+  followers: 347
 
 size: 11-50 employees
 yearFounded: 2016

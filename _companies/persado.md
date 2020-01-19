@@ -8,7 +8,7 @@ website: https://www.persado.com/
 
 linkedin:
   url: https://www.linkedin.com/company/persado
-  followers: 12946
+  followers: 12949
 
 crunchbase:
   url: https://www.crunchbase.com/organization/persado
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: persado
   url: https://www.twitter.com/persado
-  followers: 4459
+  followers: 16
 
 size: 201-500 employees
 yearFounded: 2012

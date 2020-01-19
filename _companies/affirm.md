@@ -8,7 +8,7 @@ website: https://www.affirm.com
 
 linkedin:
   url: https://www.linkedin.com/company/affirm/
-  followers: 28179
+  followers: 28217
 
 crunchbase:
   url: https://www.crunchbase.com/organization/affirm
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Affirm
   url: https://twitter.com/Affirm
-  followers: 6910
+  followers: 6919
 
 size: 501-1,000 employees
 yearFounded: 2012

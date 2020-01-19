@@ -8,7 +8,7 @@ website: https://lilt.com/
 
 linkedin:
   url: https://www.linkedin.com/company/lilthq/
-  followers: 2618
+  followers: 2628
 
 crunchbase:
   url: https://www.crunchbase.com/organization/lilt
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: lilthq
   url: https://twitter.com/lilthq
-  followers: 101
+  followers: 986
 
 size: 2-10 employees
 yearFounded: 2015

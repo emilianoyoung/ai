@@ -12,7 +12,7 @@ website: https://www.sensetime.com/
 
 linkedin:
   url: https://www.linkedin.com/company/sensetime-group-limited/
-  followers: 27283
+  followers: 27313
 
 crunchbase:
   url: https://www.crunchbase.com/organization/sensetime
@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: sensetime_ai
   url: https://twitter.com/sensetime_ai
-  followers: 7532
+  followers: 416
 
 size: 1,001-5,000 employees
 yearFounded: 2018

@@ -8,7 +8,7 @@ website: https://www.sophiagenetics.com
 
 linkedin:
   url: https://www.linkedin.com/company/sophiagenetics/
-  followers: 25092
+  followers: 25133
 
 crunchbase:
   url: https://www.crunchbase.com/organization/sophia-genetics
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: sophiagenetics
   url: https://twitter.com/sophiagenetics
-  followers: 1193
+  followers: 21602
 
 size: 201-500 employees
 yearFounded: 2011

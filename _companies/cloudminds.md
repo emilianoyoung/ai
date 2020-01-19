@@ -8,7 +8,7 @@ website: http://www.cloudminds.com/
 
 linkedin:
   url: https://www.linkedin.com/company/cloudminds-technologies/
-  followers: 2425
+  followers: 2428
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cloudminds

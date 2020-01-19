@@ -8,7 +8,7 @@ website: http://www.prophesee.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/chronocam
-  followers: 2530
+  followers: 2534
 
 crunchbase:
   url: https://www.crunchbase.com/organization/chronocam
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Prophesee_ai
   url: https://twitter.com/Prophesee_ai
-  followers: 3293
+  followers: 1404
 
 size: 51-200 employees
 yearFounded: 2014

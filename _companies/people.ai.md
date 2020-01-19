@@ -8,7 +8,7 @@ website: https://people.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/people.ai
-  followers: 5386
+  followers: 5400
 
 crunchbase:
   url: https://www.crunchbase.com/organization/people-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: ppl_ai
   url: https://twitter.com/ppl_ai
-  followers: 421
+  followers: 4469
 
 size: 51-200 employees
 yearFounded: 2016

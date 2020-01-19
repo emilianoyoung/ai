@@ -8,7 +8,7 @@ website: https://www.conversica.com
 
 linkedin:
   url: https://www.linkedin.com/company/conversica
-  followers: 15472
+  followers: 15514
 
 crunchbase:
   url: https://www.crunchbase.com/organization/conversica
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: myconversica
   url: https://twitter.com/myconversica
-  followers: 10714
+  followers: 10751
 
 size: 201-500 employees
 yearFounded: 2007

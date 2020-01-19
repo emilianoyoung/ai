@@ -8,7 +8,7 @@ website: http://www.brainomix.com
 
 linkedin:
   url: https://www.linkedin.com/company/brainomix
-  followers: 1346
+  followers: 1348
 
 crunchbase:
   url: https://www.crunchbase.com/organization/brainomix

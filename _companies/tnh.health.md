@@ -8,7 +8,7 @@ website: https://tnh.health/
 
 linkedin:
   url: https://www.linkedin.com/company/tnh-digital-health/
-  followers: 1217
+  followers: 1218
 
 crunchbase:
   url: https://www.crunchbase.com/organization/tnh-health

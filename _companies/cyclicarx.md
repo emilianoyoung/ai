@@ -8,7 +8,7 @@ website: https://cyclicarx.com/
 
 linkedin:
   url: https://www.linkedin.com/company/2620666
-  followers: 2193
+  followers: 2199
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cyclica
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: cyclica
   url: https://twitter.com/cyclica
-  followers: 15544
+  followers: 15557
 
 size: 11-50 employees
 yearFounded: 2013

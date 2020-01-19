@@ -10,7 +10,7 @@ website: https://fraugster.com/
 
 linkedin:
   url: https://www.linkedin.com/company/fraugster/
-  followers: 1273
+  followers: 1276
 
 crunchbase:
   url: https://www.crunchbase.com/organization/fraugster
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: fraugster
   url: https://twitter.com/fraugster
-  followers: 1796
+  followers: 103
 
 size: 11-50 employees
 yearFounded: 2014

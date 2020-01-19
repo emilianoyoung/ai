@@ -8,7 +8,7 @@ website: https://www.graphcore.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/graphcore/
-  followers: 8353
+  followers: 8378
 
 crunchbase:
   url: https://www.crunchbase.com/organization/graphcore
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: graphcoreai
   url: https://twitter.com/graphcoreai
-  followers: 1619
+  followers: 5232
 
 size: 51-200 employees
 yearFounded: 2016
 locations:
   - Bristol, United Kingdom
+  - Bristol, Bristol
 
 funding:
   status: Late Stage Venture
@@ -32,7 +33,7 @@ topics:
 
 tags:
   - Europe
-  
+
 images:
   - url: https://media.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_400_400/0?e=1582761600&v=beta&t=KsG0umxFdcvWPcIPr3sDkYnLYjyUHZQraioRRnGiQO8
     width: 400

@@ -8,7 +8,7 @@ website: https://capital.com/
 
 linkedin:
   url: https://www.linkedin.com/company/capital.com/
-  followers: 1003
+  followers: 1006
 
 crunchbase:
   url: https://www.crunchbase.com/organization/capital-com
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: capitalcom
   url: https://twitter.com/capitalcom
-  followers: 326
+  followers: 327
 
 size: 51-200 employees
 yearFounded: 2016

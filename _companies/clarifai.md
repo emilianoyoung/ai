@@ -8,7 +8,7 @@ website: https://www.clarifai.com/
 
 linkedin:
   url: https://www.linkedin.com/company/clarifai/
-  followers: 6410
+  followers: 6429
 
 crunchbase:
   url: https://www.crunchbase.com/organization/clarifai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: clarifai
   url: https://twitter.com/clarifai
-  followers: 442
+  followers: 443
 
 size: 51-200 employees
 yearFounded: 2013

@@ -8,7 +8,7 @@ website: https://www.sighthound.com/
 
 linkedin:
   url: https://www.linkedin.com/company/sighthound-inc-
-  followers: 399
+  followers: 400
 
 crunchbase:
   url: https://www.crunchbase.com/organization/sighthound
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: sighthoundinc
   url: https://twitter.com/sighthoundinc
-  followers: 2259
+  followers: 1513
 
 size: 11-50 employees
 yearFounded: 2012

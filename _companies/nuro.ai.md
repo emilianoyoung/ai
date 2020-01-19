@@ -8,7 +8,7 @@ website: https://nuro.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/nuro-inc./
-  followers: 14015
+  followers: 14043
 
 crunchbase:
   url: https://www.crunchbase.com/organization/nuro-2
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: nurobots
   url: https://www.twitter.com/nurobots
-  followers: 50630
+  followers: 589
 
 size: 201-500 employees
 yearFounded: 2016

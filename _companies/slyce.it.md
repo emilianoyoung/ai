@@ -8,7 +8,7 @@ website: https://slyce.it/
 
 linkedin:
   url: https://www.linkedin.com/company/slyce/
-  followers: 2236
+  followers: 2238
 
 crunchbase:
   url: https://www.crunchbase.com/organization/slyce

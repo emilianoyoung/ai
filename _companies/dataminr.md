@@ -8,7 +8,7 @@ website: https://www.dataminr.com/
 
 linkedin:
   url: https://www.linkedin.com/company/dataminr
-  followers: 37674
+  followers: 37694
 
 crunchbase:
   url: https://www.crunchbase.com/organization/dataminr
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: dataminr
   url: https://twitter.com/dataminr
-  followers: 1284
+  followers: 3630
 
 size: 201-500 employees
 yearFounded: 2009
 locations:
   - New York, New York
+  - New York, NY
 
 funding:
   status: Late Stage Venture

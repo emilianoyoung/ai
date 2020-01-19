@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: movidius
   url: https://twitter.com/movidius
-  followers: 532
+  followers: 382
 
 size: 201-500 employees
 yearFounded: 2005

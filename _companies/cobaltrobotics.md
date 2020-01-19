@@ -10,7 +10,7 @@ website: https://www.cobaltrobotics.com/
 
 linkedin:
   url: https://www.linkedin.com/company/cobaltrobotics/
-  followers: 1528
+  followers: 1533
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cobalt-robotics-inc
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: CobaltRobotics
   url: https://twitter.com/CobaltRobotics
-  followers: 706
+  followers: 707
 
 size: 51-200 employees
 yearFounded: 2016

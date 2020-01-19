@@ -8,7 +8,7 @@ website: https://owkin.com/
 
 linkedin:
   url: https://www.linkedin.com/company/owkin
-  followers: 3611
+  followers: 3617
 
 crunchbase:
   url: https://www.crunchbase.com/organization/owkin-2
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: owkinscience
   url: https://www.twitter.com/owkinscience
-  followers: 653
+  followers: 1330
 
 size: 51-200 employees
 yearFounded: 2016
 locations:
   - New York, New York
+  - NEW YORK, NY
 
 funding:
   status: Early Stage Venture

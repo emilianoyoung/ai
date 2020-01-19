@@ -8,7 +8,7 @@ website: http://rtr.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/realtimerobotics/
-  followers: 1053
+  followers: 1054
 
 crunchbase:
   url: https://www.crunchbase.com/organization/realtime-robotics-inc
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: realtime_i
   url: https://twitter.com/realtime_i
-  followers: 971
+  followers: 972
 
 size: 2-10 employees
 yearFounded: 2016

@@ -8,7 +8,7 @@ website: https://www.invoca.com
 
 linkedin:
   url: https://www.linkedin.com/company/invoca-com/
-  followers: 7940
+  followers: 7947
 
 crunchbase:
   url: https://www.crunchbase.com/organization/invoca
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Invoca
   url: https://twitter.com/Invoca
-  followers: 4388
+  followers: 2820
 
 size: 201-500 employees
 yearFounded: 2008

@@ -8,7 +8,7 @@ website: https://www.tamr.com/
 
 linkedin:
   url: https://www.linkedin.com/company/2965831
-  followers: 6844
+  followers: 6860
 
 crunchbase:
   url: https://www.crunchbase.com/organization/tamr
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Tamr_Inc
   url: https://twitter.com/Tamr_Inc
-  followers: 3829
+  followers: 3831
 
 size: 51-200 employees
 yearFounded: 2012

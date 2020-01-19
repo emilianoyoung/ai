@@ -8,7 +8,7 @@ website: https://cortica.com/
 
 linkedin:
   url: https://www.linkedin.com/company/cortica
-  followers: 4255
+  followers: 4256
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cortica
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Cortica
   url: https://twitter.com/Cortica
-  followers: 1310
+  followers: 1311
 
 size: 51-200 employees
 yearFounded: 2007

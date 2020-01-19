@@ -8,7 +8,7 @@ website: https://www.upstart.com/
 
 linkedin:
   url: https://www.linkedin.com/company/upstart-network
-  followers: 13021
+  followers: 13026
 
 crunchbase:
   url: https://www.crunchbase.com/organization/upstart
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Upstart
   url: https://twitter.com/Upstart
-  followers: 5302
+  followers: 5306
 
 size: 201-500 employees
 yearFounded: 2012

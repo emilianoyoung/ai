@@ -8,7 +8,7 @@ website: https://verbit.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/verbit/
-  followers: 6026
+  followers: 6056
 
 crunchbase:
   url: https://www.crunchbase.com/organization/verbit-ai

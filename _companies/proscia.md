@@ -8,7 +8,7 @@ website: https://proscia.com/
 
 linkedin:
   url: https://www.linkedin.com/company/5216638
-  followers: 3349
+  followers: 3361
 
 crunchbase:
   url: https://www.crunchbase.com/organization/proscia
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: ProsciaInc
   url: https://twitter.com/ProsciaInc
-  followers: 1398
+  followers: 628
 
 size: 11-50 employees
 yearFounded: 2014

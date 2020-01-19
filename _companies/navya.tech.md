@@ -8,7 +8,7 @@ website: https://navya.tech
 
 linkedin:
   url: https://www.linkedin.com/company/navya_group/
-  followers: 15569
+  followers: 15582
 
 crunchbase:
   url: https://www.crunchbase.com/organization/navya-technology
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: NAVYA_Group
   url: https://twitter.com/NAVYA_Group
-  followers: 1888
+  followers: 599
 
 size: 201-500 employees
 yearFounded: 2014

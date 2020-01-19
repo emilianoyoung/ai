@@ -8,7 +8,7 @@ website: https://www.socure.com/
 
 linkedin:
   url: https://www.linkedin.com/company/socure
-  followers: 3938
+  followers: 3946
 
 crunchbase:
   url: https://www.crunchbase.com/organization/socure
@@ -22,6 +22,7 @@ size: 51-200 employees
 yearFounded: 2012
 locations:
   - New York, New York
+  - New York, NY
 
 funding:
   status: Late Stage Venture

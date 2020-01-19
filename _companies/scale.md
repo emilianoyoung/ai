@@ -10,7 +10,7 @@ website: https://www.scale.com
 
 linkedin:
   url: https://www.linkedin.com/company/scaleai/
-  followers: 5479
+  followers: 5509
 
 crunchbase:
   url: https://www.crunchbase.com/organization/scale-2
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: scale_ai
   url: https://twitter.com/scale_ai
-  followers: 5012
+  followers: 7549
 
 size: 51-200 employees
 yearFounded: 2016

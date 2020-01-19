@@ -8,7 +8,7 @@ website: https://www.brightmachines.com/
 
 linkedin:
   url: https://www.linkedin.com/company/bright-machines/
-  followers: 4772
+  followers: 4794
 
 crunchbase:
   url: https://www.crunchbase.com/organization/bright-machines
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: bright_machines
   url: https://twitter.com/bright_machines
-  followers: 824
+  followers: 826
 
 size: 201-500 employees
 yearFounded: 2018

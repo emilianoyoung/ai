@@ -8,7 +8,7 @@ website: https://www.recursionpharma.com/
 
 linkedin:
   url: https://www.linkedin.com/company/recursion-pharmaceuticals
-  followers: 5899
+  followers: 5915
 
 crunchbase:
   url: https://www.crunchbase.com/organization/recursion-pharmaceuticals
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: RecursionPharma
   url: https://twitter.com/RecursionPharma
-  followers: 29624
+  followers: 6770
 
 size: 51-200 employees
 yearFounded: 2013

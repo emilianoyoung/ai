@@ -10,7 +10,7 @@ website: http://www.embodied.me/
 
 linkedin:
   url: https://www.linkedin.com/company/embodied-inc./
-  followers: 2799
+  followers: 2798
 
 crunchbase:
   url: https://www.crunchbase.com/organization/embodied-inc

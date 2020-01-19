@@ -8,7 +8,7 @@ website: https://www.sentinelone.com/
 
 linkedin:
   url: https://www.linkedin.com/company/2886771
-  followers: 28025
+  followers: 28049
 
 crunchbase:
   url: https://www.crunchbase.com/organization/sentinel
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: SentinelOne
   url: https://twitter.com/SentinelOne
-  followers: 1200
+  followers: 2261
 
 size: 201-500 employees
 yearFounded: 2013

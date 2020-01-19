@@ -8,7 +8,7 @@ website: https://wavecomp.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/wave-computing
-  followers: 3566
+  followers: 3571
 
 crunchbase:
   url: https://www.crunchbase.com/organization/wave-semiconductor
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: wavecomputing
   url: https://twitter.com/wavecomputing
-  followers: 1588
+  followers: 1590
 
 size: 51-200 employees
 yearFounded: 2010

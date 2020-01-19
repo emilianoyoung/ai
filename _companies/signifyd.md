@@ -8,7 +8,7 @@ website: https://www.signifyd.com/
 
 linkedin:
   url: https://www.linkedin.com/company/signifyd/
-  followers: 5695
+  followers: 5694
 
 crunchbase:
   url: https://www.crunchbase.com/organization/signifyd
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: signifyd
   url: https://twitter.com/signifyd
-  followers: 2856
+  followers: 7538
 
 size: 201-500 employees
 yearFounded: 2011

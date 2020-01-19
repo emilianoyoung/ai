@@ -8,7 +8,7 @@ website: https://aurora.tech/
 
 linkedin:
   url: https://www.linkedin.com/company/aurora-inc./
-  followers: 20697
+  followers: 20736
 
 crunchbase:
   url: https://www.crunchbase.com/organization/aurora-6292

@@ -8,7 +8,7 @@ website: https://voyage.auto/
 
 linkedin:
   url: https://www.linkedin.com/company/18078448
-  followers: 4530
+  followers: 4537
 
 crunchbase:
   url: https://www.crunchbase.com/organization/voyage
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: voyage
   url: https://twitter.com/voyage
-  followers: 424
+  followers: 425
 
 size: 51-200 employees
 yearFounded: 2017

@@ -14,7 +14,7 @@ website: http://www.cambricon.com/
 
 linkedin:
   url: https://www.linkedin.com/company/cambricon/
-  followers: 2978
+  followers: 2982
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cambricon-technologies

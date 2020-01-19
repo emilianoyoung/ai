@@ -8,7 +8,7 @@ website: http://www.gatik.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/gatik_ai/
-  followers: 682
+  followers: 687
 
 crunchbase:
   url: https://www.crunchbase.com/organization/gatik-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: gatik_ai
   url: https://twitter.com/gatik_ai
-  followers: 427
+  followers: 4563
 
 size: 11-50 employees
 yearFounded: 2017

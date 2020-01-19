@@ -8,7 +8,7 @@ website: http://www.zendrive.com/
 
 linkedin:
   url: https://www.linkedin.com/company/zendrive/
-  followers: 8024
+  followers: 8032
 
 crunchbase:
   url: https://www.crunchbase.com/organization/zendrive
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: zendrive
   url: https://twitter.com/zendrive
-  followers: 8761
+  followers: 8772
 
 size: 51-200 employees
 yearFounded: 2013

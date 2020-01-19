@@ -8,7 +8,7 @@ website: http://www.bossanova.com
 
 linkedin:
   url: https://www.linkedin.com/company/bossa-nova-robotics/
-  followers: 5821
+  followers: 5850
 
 crunchbase:
   url: https://www.crunchbase.com/organization/bossa-nova-robotics-inc

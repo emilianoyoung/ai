@@ -10,7 +10,7 @@ website: https://noodle.ai
 
 linkedin:
   url: https://www.linkedin.com/company/noodle-ai/
-  followers: 14894
+  followers: 14921
 
 crunchbase:
   url: https://www.crunchbase.com/organization/noodle-analytics-inc-noodle-ai
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: noodleai
   url: https://twitter.com/noodleai
-  followers: 7
+  followers: 50685
 
 size: 201-500 employees
 yearFounded: 2016

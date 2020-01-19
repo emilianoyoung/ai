@@ -8,7 +8,7 @@ website: https://www.preferred-networks.jp/en/
 
 linkedin:
   url: https://www.linkedin.com/company/preferred-networks-inc-/
-  followers: 1416
+  followers: 1417
 
 crunchbase:
   url: https://www.crunchbase.com/organization/preferred-networks
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: preferrednet
   url: https://twitter.com/preferrednet
-  followers: 508
+  followers: 824
 
 size: 11-50 employees
 yearFounded: 2014

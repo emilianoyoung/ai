@@ -8,7 +8,7 @@ website: https://www.liulishuo.com/
 
 linkedin:
   url: https://www.linkedin.com/company/liulishuo/
-  followers: 3496
+  followers: 3494
 
 crunchbase:
   url: https://www.crunchbase.com/organization/liulishuo
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: lingochamp
   url: https://twitter.com/lingochamp
-  followers: 983
+  followers: 854
 
 size: 1,001-5,000 employees
 yearFounded: 2012

@@ -8,7 +8,7 @@ website: http://ubiquity6.com/
 
 linkedin:
   url: https://www.linkedin.com/company/ubiquity6/
-  followers: 2459
+  followers: 2475
 
 crunchbase:
   url: https://www.crunchbase.com/organization/ubiquity6
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: ubiquity_6
   url: https://twitter.com/ubiquity_6
-  followers: 49988
+  followers: 50282
 
 size: 11-50 employees
 yearFounded: 2017

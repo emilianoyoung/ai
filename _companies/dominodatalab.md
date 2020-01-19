@@ -8,7 +8,7 @@ website: https://www.dominodatalab.com/
 
 linkedin:
   url: https://www.linkedin.com/company/domino-data-lab
-  followers: 5643
+  followers: 5657
 
 crunchbase:
   url: https://www.crunchbase.com/organization/domino-data-lab
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: dominodatalab
   url: https://twitter.com/dominodatalab
-  followers: 8779
+  followers: 4874
 
 size: 51-200 employees
 yearFounded: 2013

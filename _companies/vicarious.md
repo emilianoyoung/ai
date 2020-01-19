@@ -8,7 +8,7 @@ website: https://www.vicarious.com
 
 linkedin:
   url: https://www.linkedin.com/company/vicarious-fpc-inc/
-  followers: 4730
+  followers: 4738
 
 crunchbase:
   url: https://www.crunchbase.com/organization/vicarious-systems-inc

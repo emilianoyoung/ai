@@ -8,7 +8,7 @@ website: https://lexmachina.com/
 
 linkedin:
   url: https://www.linkedin.com/company/732353
-  followers: 2480
+  followers: 2481
 
 crunchbase:
   url: https://www.crunchbase.com/organization/lex-machina
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: lexmachina
   url: https://twitter.com/lexmachina
-  followers: 4140
+  followers: 91
 
 size: 51-200 employees
 yearFounded: 2010

@@ -8,7 +8,7 @@ website: https://datarobot.com
 
 linkedin:
   url: https://www.linkedin.com/company/datarobot/
-  followers: 48448
+  followers: 48554
 
 crunchbase:
   url: https://www.crunchbase.com/organization/datarobot
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: DataRobot
   url: https://twitter.com/DataRobot
-  followers: 3627
+  followers: 23352
 
 size: 501-1,000 employees
 yearFounded: 2012

@@ -11,7 +11,7 @@ website: https://dialogflow.com/
 
 linkedin:
   url: https://www.linkedin.com/company/1443713/
-  followers: 3048
+  followers: 3051
 
 crunchbase:
   url: https://www.crunchbase.com/organization/api-ai
@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: Dialogflow
   url: https://twitter.com/Dialogflow
-  followers: 513
+  followers: 12947
 
 size: 11-50 employees
 yearFounded: 2010

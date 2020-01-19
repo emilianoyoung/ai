@@ -8,7 +8,7 @@ website: https://www.eyediagnosis.net/
 
 linkedin:
   url: https://www.linkedin.com/company/idxtechnologiesinc
-  followers: 1123
+  followers: 1126
 
 crunchbase:
   url: https://www.crunchbase.com/organization/idx-2

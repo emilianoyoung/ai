@@ -8,7 +8,7 @@ website: https://ekar.ae/
 
 linkedin:
   url: https://www.linkedin.com/company/ekar/
-  followers: 6237
+  followers: 6241
 
 crunchbase:
   url: https://www.crunchbase.com/organization/ekar
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: MyEKar
   url: https://twitter.com/MyEKar
-  followers: 54347
+  followers: 2554
 
 size: 11-50 employees
 yearFounded: 2015

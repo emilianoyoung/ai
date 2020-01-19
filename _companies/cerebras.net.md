@@ -8,7 +8,7 @@ website: https://www.cerebras.net/
 
 linkedin:
   url: https://www.linkedin.com/company/cerebras-systems
-  followers: 3131
+  followers: 3139
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cerebras-systems
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: cerebrassystems
   url: https://twitter.com/cerebrassystems
-  followers: 17681
+  followers: 17675
 
 size: 51-200 employees
 yearFounded: 2016

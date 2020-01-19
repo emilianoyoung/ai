@@ -15,7 +15,7 @@ website: http://www.megvii.com/
 
 linkedin:
   url: https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86/
-  followers: 9454
+  followers: 9462
 
 crunchbase:
   url: https://www.crunchbase.com/organization/megvii-technology
@@ -23,7 +23,7 @@ crunchbase:
 twitter:
   username: faceplusplus
   url: https://twitter.com/faceplusplus
-  followers: 8782453
+  followers: 1846
 
 size: 1,001-5,000 employees
 yearFounded: 2011

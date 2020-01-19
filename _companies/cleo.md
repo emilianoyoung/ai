@@ -11,7 +11,7 @@ website: https://www.meetcleo.com/
 
 linkedin:
   url: https://www.linkedin.com/company/cleo-ai/
-  followers: 3008
+  followers: 3011
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cleo-ai

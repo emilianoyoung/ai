@@ -8,7 +8,7 @@ website: https://www.climacell.co/
 
 linkedin:
   url: https://www.linkedin.com/company/climacell
-  followers: 3049
+  followers: 3059
 
 crunchbase:
   url: https://www.crunchbase.com/organization/climacell
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: weatherrevealed
   url: https://twitter.com/weatherrevealed
-  followers: 824
+  followers: 825
 
 size: 51-200 employees
 yearFounded: 2015

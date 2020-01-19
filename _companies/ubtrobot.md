@@ -8,7 +8,7 @@ website: https://ubtrobot.com/
 
 linkedin:
   url: https://www.linkedin.com/company/ubtech-robotics/
-  followers: 16140
+  followers: 16153
 
 crunchbase:
   url: https://www.crunchbase.com/organization/ubtech
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: ubtechrobotics
   url: https://twitter.com/ubtechrobotics
-  followers: 8437
+  followers: 8439
 
 size: 501-1,000 employees
 yearFounded: 2012

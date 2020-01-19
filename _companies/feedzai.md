@@ -8,7 +8,7 @@ website: https://feedzai.com/
 
 linkedin:
   url: https://www.linkedin.com/company/feedzai
-  followers: 19192
+  followers: 19210
 
 crunchbase:
   url: https://www.crunchbase.com/organization/feedzai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: feedzai
   url: https://twitter.com/feedzai
-  followers: 3323
+  followers: 1049
 
 size: 201-500 employees
 yearFounded: 2009

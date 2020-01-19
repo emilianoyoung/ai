@@ -8,7 +8,7 @@ website: https://matterport.com/
 
 linkedin:
   url: https://www.linkedin.com/company/matterport/
-  followers: 17633
+  followers: 17655
 
 crunchbase:
   url: https://www.crunchbase.com/organization/matterport
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Matterport
   url: https://twitter.com/Matterport
-  followers: 429
+  followers: 1663
 
 size: 201-500 employees
 yearFounded: 2011

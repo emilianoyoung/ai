@@ -8,7 +8,7 @@ website: https://narrativescience.com
 
 linkedin:
   url: https://www.linkedin.com/company/narrative-science/
-  followers: 6435
+  followers: 6442
 
 crunchbase:
   url: https://www.crunchbase.com/organization/narrative-science
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: narrativesci
   url: https://twitter.com/narrativesci
-  followers: 6741
+  followers: 1484
 
 size: 51-200 employees
 yearFounded: 2010

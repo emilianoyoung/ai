@@ -8,11 +8,15 @@ website: https://rul.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/rulai-inc/
-  followers: 1776
+  followers: 1777
 
 crunchbase:
   url: https://www.crunchbase.com/organization/rulai
 
+size: 11-50 employees
+yearFounded: 2016
+locations:
+  - Campbell, CA
 
 topics:
   - AI

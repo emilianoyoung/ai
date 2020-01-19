@@ -8,7 +8,7 @@ website: https://aicure.com
 
 linkedin:
   url: https://www.linkedin.com/company/aicure
-  followers: 3135
+  followers: 3139
 
 crunchbase:
   url: https://www.crunchbase.com/organization/ai-cure
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: AiCureMed
   url: https://twitter.com/AiCureMed
-  followers: 1551
+  followers: 1555
 
 size: 51-200 employees
 yearFounded: 2009
 locations:
   - New York, New York
+  - New York, NY
 
 funding:
   status: Late Stage Venture

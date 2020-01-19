@@ -8,7 +8,7 @@ website: https://www.clarifyhealth.com/
 
 linkedin:
   url: https://www.linkedin.com/company/clarify-health-solutions
-  followers: 7479
+  followers: 7482
 
 crunchbase:
   url: https://www.crunchbase.com/organization/clarify-health-solutions
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: clarifyhealth
   url: https://twitter.com/clarifyhealth
-  followers: 10856
+  followers: 10864
 
 size: 51-200 employees
 yearFounded: 2015

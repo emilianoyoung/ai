@@ -8,7 +8,7 @@ website: https://www.oaknorth.com/
 
 linkedin:
   url: https://www.linkedin.com/company/oaknorth-platform/
-  followers: 2955
+  followers: 2963
 
 crunchbase:
   url: https://www.crunchbase.com/organization/oaknorth
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: oaknorth
   url: https://twitter.com/oaknorth
-  followers: 10118
+  followers: 1487
 
 size: 501-1,000 employees
 yearFounded: 2015

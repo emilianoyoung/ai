@@ -8,7 +8,7 @@ website: http://www.foodvisor.io/
 
 linkedin:
   url: https://www.linkedin.com/company/foodvisor/
-  followers: 1269
+  followers: 1270
 
 crunchbase:
   url: https://www.crunchbase.com/organization/foodvisor
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: foodvisor_app
   url: https://twitter.com/foodvisor_app
-  followers: 175
+  followers: 7706
 
 size: 11-50 employees
 yearFounded: 2015

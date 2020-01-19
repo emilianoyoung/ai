@@ -8,7 +8,7 @@ website: http://aidoc.com/
 
 linkedin:
   url: https://www.linkedin.com/company/aidoc-inc/
-  followers: 0
+  followers: 55
 
 crunchbase:
   url: https://www.crunchbase.com/organization/aidoc
@@ -16,10 +16,13 @@ crunchbase:
 twitter:
   username: aidocmed
   url: https://twitter.com/aidocmed
-  followers: 3720
+  followers: 3728
 
+size: 11-50 employees
+yearFounded: 2008
 locations:
   - Los Angeles, CA
+  - Richmond Hill, Ontario
 
 funding:
   status: Early Stage Venture

@@ -10,7 +10,7 @@ website: https://aira.io/
 
 linkedin:
   url: https://www.linkedin.com/company/airaio/
-  followers: 2374
+  followers: 2506
 
 crunchbase:
   url: https://www.crunchbase.com/organization/aira

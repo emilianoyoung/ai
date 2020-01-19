@@ -8,7 +8,7 @@ website: http://benevolent.ai
 
 linkedin:
   url: https://www.linkedin.com/company/10929741/
-  followers: 11393
+  followers: 11471
 
 crunchbase:
   url: https://www.crunchbase.com/organization/benevolent-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: benevolent_ai
   url: https://twitter.com/benevolent_ai
-  followers: 3054
+  followers: 3055
 
 size: 51-200 employees
 yearFounded: 2013

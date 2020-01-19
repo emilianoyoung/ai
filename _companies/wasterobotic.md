@@ -8,7 +8,7 @@ website: https://wasterobotic.com/
 
 linkedin:
   url: https://www.linkedin.com/company/wasterobotics/
-  followers: 270
+  followers: 271
 
 crunchbase:
   url: https://www.crunchbase.com/organization/waste-robotics
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: dirtyjobrobot
   url: https://twitter.com/dirtyjobrobot
-  followers: 49660
+  followers: 49716
 
 size: 11-50 employees
 yearFounded: 2016

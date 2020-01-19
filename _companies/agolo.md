@@ -8,7 +8,7 @@ website: http://www.agolo.com/
 
 linkedin:
   url: https://www.linkedin.com/company/agolo
-  followers: 921
+  followers: 925
 
 crunchbase:
   url: https://www.crunchbase.com/organization/agolo
@@ -22,6 +22,7 @@ size: 11-50 employees
 yearFounded: 2013
 locations:
   - New York, New York
+  - New York, NY
 
 topics:
   - AI

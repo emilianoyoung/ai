@@ -8,7 +8,7 @@ website: https://www.babylonhealth.com/
 
 linkedin:
   url: https://www.linkedin.com/company/babylonhealth/
-  followers: 29860
+  followers: 29943
 
 crunchbase:
   url: https://www.crunchbase.com/organization/babylon-health
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: babylonhealth
   url: https://twitter.com/babylonhealth
-  followers: 55
+  followers: 49032
 
 size: 1,001-5,000 employees
 yearFounded: 2013

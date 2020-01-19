@@ -8,7 +8,7 @@ website: https://www.zymergen.com/
 
 linkedin:
   url: https://www.linkedin.com/company/zymergen-inc-/
-  followers: 10043
+  followers: 10058
 
 crunchbase:
   url: https://www.crunchbase.com/organization/zymergen

@@ -8,7 +8,7 @@ website: https://www.artiq.eu/
 
 linkedin:
   url: https://www.linkedin.com/company/artiq-eu
-  followers: 551
+  followers: 556
 
 crunchbase:
   url: https://www.crunchbase.com/organization/artiq

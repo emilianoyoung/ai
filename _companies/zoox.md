@@ -8,7 +8,7 @@ website: https://zoox.com/
 
 linkedin:
   url: https://www.linkedin.com/company/zoox-inc/
-  followers: 33588
+  followers: 33652
 
 crunchbase:
   url: https://www.crunchbase.com/organization/zoox

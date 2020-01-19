@@ -8,7 +8,7 @@ website: https://axyon.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/axyon-ai/
-  followers: 655
+  followers: 657
 
 crunchbase:
   url: https://www.crunchbase.com/organization/axyon-ai-srl
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: axyonai
   url: https://twitter.com/axyonai
-  followers: 11419
+  followers: 11424
 
 size: 11-50 employees
 yearFounded: 2016

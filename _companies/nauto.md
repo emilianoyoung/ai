@@ -8,7 +8,7 @@ website: https://www.nauto.com/
 
 linkedin:
   url: https://www.linkedin.com/company/nauto/
-  followers: 6688
+  followers: 6696
 
 crunchbase:
   url: https://www.crunchbase.com/organization/nauto-inc
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: NautoInc
   url: https://twitter.com/NautoInc
-  followers: 1481
+  followers: 1889
 
 size: 51-200 employees
 yearFounded: 2015

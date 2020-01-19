@@ -8,7 +8,7 @@ website: https://www.buoyhealth.com/
 
 linkedin:
   url: https://www.linkedin.com/company/buoyhealth/
-  followers: 2886
+  followers: 2895
 
 crunchbase:
   url: https://www.crunchbase.com/organization/buoy-health
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: buoyhealth
   url: https://twitter.com/buoyhealth
-  followers: 3674
+  followers: 3711
 
 size: 11-50 employees
 yearFounded: 2014

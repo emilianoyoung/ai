@@ -8,7 +8,7 @@ website: https://www.starship.xyz/
 
 linkedin:
   url: https://www.linkedin.com/company/starshiptechnologies/
-  followers: 6979
+  followers: 6989
 
 crunchbase:
   url: https://www.crunchbase.com/organization/starship-technologies
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: StarshipRobots
   url: https://twitter.com/StarshipRobots
-  followers: 1359
+  followers: 8035
 
 size: 201-500 employees
 yearFounded: 2014

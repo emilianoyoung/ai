@@ -8,7 +8,7 @@ website: http://www.quantib.com
 
 linkedin:
   url: https://www.linkedin.com/company/quantib-bv/
-  followers: 1350
+  followers: 1351
 
 crunchbase:
   url: https://www.crunchbase.com/organization/quantib
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Quantib
   url: https://twitter.com/Quantib
-  followers: 1402
+  followers: 29627
 
 size: 11-50 employees
 yearFounded: 2012

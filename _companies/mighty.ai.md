@@ -10,7 +10,7 @@ website: https://mighty.ai
 
 linkedin:
   url: https://www.linkedin.com/company/mightyai/
-  followers: 2024
+  followers: 2026
 
 crunchbase:
   url: https://www.crunchbase.com/organization/spare5
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: mighty_ai
   url: https://twitter.com/mighty_ai
-  followers: 401
+  followers: 96
 
 size: 51-200 employees
 yearFounded: 2014

@@ -8,7 +8,7 @@ website: http://www.getcruise.com/
 
 linkedin:
   url: https://www.linkedin.com/company/getcruise/
-  followers: 31288
+  followers: 31363
 
 crunchbase:
   url: https://www.crunchbase.com/organization/cruise
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: cruise
   url: https://twitter.com/cruise
-  followers: 816
+  followers: 815
 
 size: 1,001-5,000 employees
 yearFounded: 2013

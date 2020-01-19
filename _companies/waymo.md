@@ -11,7 +11,7 @@ website: https://www.waymo.com/
 
 linkedin:
   url: https://www.linkedin.com/company/waymo/
-  followers: 50682
+  followers: 50773
 
 crunchbase:
   url: https://www.crunchbase.com/organization/google-s-self-driving-car-project

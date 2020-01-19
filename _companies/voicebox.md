@@ -8,7 +8,7 @@ website: http://www.voicebox.com/
 
 linkedin:
   url: https://www.linkedin.com/company/voicebox-technologies
-  followers: 1384
+  followers: 1385
 
 crunchbase:
   url: https://www.crunchbase.com/organization/voicebox-technologies

@@ -8,7 +8,7 @@ website: https://bearrobotics.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/bear-robotics-inc/
-  followers: 553
+  followers: 555
 
 crunchbase:
   url: https://www.crunchbase.com/organization/bear-robotics-inc
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: bearrobotics
   url: https://twitter.com/bearrobotics
-  followers: 4948
+  followers: 4951
 
 size: 11-50 employees
 yearFounded: 2017

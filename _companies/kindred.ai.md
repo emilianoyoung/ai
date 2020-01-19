@@ -10,7 +10,7 @@ website: https://www.kindred.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/kindred.ai/
-  followers: 4752
+  followers: 4759
 
 crunchbase:
   url: https://www.crunchbase.com/organization/kindred-2
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: kindredai
   url: https://twitter.com/kindredai
-  followers: 1033
+  followers: 2601
 
 size: 51-200 employees
 yearFounded: 2014

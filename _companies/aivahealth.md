@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: aiva_health
   url: https://twitter.com/aiva_health
-  followers: 15600
+  followers: 15599
 
 size: 11-50 employees
 yearFounded: 2016

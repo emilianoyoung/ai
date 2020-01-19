@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: theirisai
   url: https://twitter.com/theirisai
-  followers: 2817
+  followers: 36726
 
 locations:
   - London, England

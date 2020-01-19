@@ -8,7 +8,7 @@ website: https://aurorainnovation.com/
 
 linkedin:
   url: https://www.linkedin.com/company/aurora-innovation-ab
-  followers: 678
+  followers: 679
 
 crunchbase:
   url: https://www.crunchbase.com/organization/aurora-innovation
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: ain_sweden
   url: https://www.twitter.com/ain_sweden
-  followers: 4783
+  followers: 4785
 
 size: 51-200 employees
 yearFounded: 1996

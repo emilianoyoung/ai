@@ -8,7 +8,7 @@ website: https://huggingface.co/
 
 linkedin:
   url: https://www.linkedin.com/company/huggingface/
-  followers: 2687
+  followers: 2717
 
 crunchbase:
   url: https://www.crunchbase.com/organization/hugging-face
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: huggingface
   url: https://twitter.com/huggingface
-  followers: 2568
+  followers: 2584
 
 size: 11-50 employees
 yearFounded: 2016
@@ -31,7 +31,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://twitter.com/huggingface/profile_image?size=original
+  - url: https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg
     width: 400
     height: 400
     title: "Hugging Face"

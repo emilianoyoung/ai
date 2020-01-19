@@ -8,7 +8,7 @@ website: https://www.mediktor.com
 
 linkedin:
   url: https://www.linkedin.com/company/mediktor
-  followers: 830
+  followers: 833
 
 crunchbase:
   url: https://www.crunchbase.com/organization/teckel-medical
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: Mediktor
   url: https://twitter.com/Mediktor
-  followers: 777
+  followers: 8784053
 
 size: 11-50 employees
 yearFounded: 2011

@@ -8,7 +8,7 @@ website: https://aeye.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/aeye-inc.
-  followers: 2849
+  followers: 2854
 
 crunchbase:
   url: https://www.crunchbase.com/organization/aeye-inc

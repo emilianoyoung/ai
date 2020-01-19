@@ -8,7 +8,7 @@ website: https://www.neurala.com/
 
 linkedin:
   url: https://www.linkedin.com/company/neurala/
-  followers: 3332
+  followers: 3347
 
 crunchbase:
   url: https://www.crunchbase.com/organization/neurala
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: neurala
   url: https://twitter.com/neurala
-  followers: 1349
+  followers: 1662
 
 size: 11-50 employees
 yearFounded: 2006

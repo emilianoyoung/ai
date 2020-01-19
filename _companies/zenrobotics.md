@@ -8,7 +8,7 @@ website: https://zenrobotics.com/
 
 linkedin:
   url: https://www.linkedin.com/company/zenrobotics-ltd/
-  followers: 3246
+  followers: 3255
 
 crunchbase:
   url: https://www.crunchbase.com/organization/zenrobotics

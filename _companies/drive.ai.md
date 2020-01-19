@@ -8,7 +8,7 @@ website: https://www.drive.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/drive.ai/
-  followers: 10368
+  followers: 10380
 
 crunchbase:
   url: https://www.crunchbase.com/organization/drive-ai
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: driveai_
   url: https://twitter.com/driveai_
-  followers: 4874
+  followers: 6553
 
 size: 51-200 employees
 yearFounded: 2015

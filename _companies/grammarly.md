@@ -8,7 +8,7 @@ website: http://grammarly.com/
 
 linkedin:
   url: https://www.linkedin.com/company/grammarly
-  followers: 23224
+  followers: 23264
 
 crunchbase:
   url: https://www.crunchbase.com/organization/grammarly

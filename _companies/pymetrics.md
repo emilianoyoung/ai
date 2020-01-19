@@ -8,7 +8,7 @@ website: https://www.pymetrics.com/
 
 linkedin:
   url: https://www.linkedin.com/company/2714872
-  followers: 14987
+  followers: 15011
 
 crunchbase:
   url: https://www.crunchbase.com/organization/pymetrics
@@ -16,12 +16,13 @@ crunchbase:
 twitter:
   username: pymetrics
   url: https://twitter.com/pymetrics
-  followers: 629
+  followers: 2640
 
 size: 51-200 employees
 yearFounded: 2012
 locations:
   - New York, New York
+  - New York, NY
 
 funding:
   status: Early Stage Venture

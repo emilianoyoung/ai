@@ -8,7 +8,7 @@ website: https://standard.ai/
 
 linkedin:
   url: https://www.linkedin.com/company/standardcognition.com/
-  followers: 1805
+  followers: 1806
 
 crunchbase:
   url: https://www.crunchbase.com/organization/standard-cognition
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: standardAI
   url: https://twitter.com/standardAI
-  followers: 833
+  followers: 1738
 
 size: 51-200 employees
 yearFounded: 2017
