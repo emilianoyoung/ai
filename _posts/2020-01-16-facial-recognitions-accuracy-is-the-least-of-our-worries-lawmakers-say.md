@@ -133,6 +133,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all
         width: 1200
         height: 601
+  - title: "The European Union considering temporary facial recognition ban"
+    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
+    publishedDateTime: 2020-01-19T16:40:00Z
+    sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
+        width: 800
+        height: 560
   - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
     excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
     publishedDateTime: 2020-01-18T21:39:00Z

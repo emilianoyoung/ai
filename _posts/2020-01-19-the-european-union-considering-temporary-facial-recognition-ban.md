@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
-excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
-publishedDateTime: 2020-01-14T11:48:00Z
-sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
-ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
-cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+title: "The European Union considering temporary facial recognition ban"
+excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
+publishedDateTime: 2020-01-19T16:40:00Z
+sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
 type: article
-quality: 46
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: /assets/images/organizations/techspot.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
+  - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
     width: 800
-    height: 600
-    title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
+    height: 560
+    title: "The European Union considering temporary facial recognition ban"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -129,21 +133,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all
         width: 1200
         height: 601
-  - title: "The European Union considering temporary facial recognition ban"
-    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
-    publishedDateTime: 2020-01-19T16:40:00Z
-    sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
-        width: 800
-        height: 560
   - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
     excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
     publishedDateTime: 2020-01-16T00:34:00Z
@@ -357,6 +346,21 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
         width: 1200
         height: 630
+  - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
+    excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
+    publishedDateTime: 2020-01-14T11:48:00Z
+    sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
+    ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 46
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
+        width: 800
+        height: 600
   - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
     excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
     publishedDateTime: 2020-01-19T01:10:00Z
@@ -666,6 +670,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "M35PFBMgdqe/Mfx885dlHkOuEeyunAeslR1hkad7X2KIaeed56eS3EicJ3vneleCZfruEnPJaAZFPcYCWUpCWhB1GmovYvz5MoQWKAj8dTl1/mEYEQOE4/sCqfBDqglZyBeAWDZIdKBKK7cIAWVd6Y1FBeFSJlzsEOOah1RQCMO1G+nN6XSSLLEvS+1F414gLR2P1VzqnccuVsS5jxb2taXrJnsGL+YCKigTwjM4snkzASn+T54sBicPw4XbZgRQ6306yKzB2ugZhDIPW/Fxo6Cof3Mmg0oPXfvqRCdYXmw=;8lhzY4g9pjMEW7ujK7ogcA=="
+secured: "D5lzpOZs6zLrMjR8u/FecB8th8rBtDA5jQ38GYAWr7BReqIMt1Mew1s0pdf2nFbLAB8gLO+Mmn8sthcGSGTTfUD796OP1qJHF7UVcaQCgDp/6ptlwj1iZeLPKjDv4LSMI1M6PYt0lNgTqmCaoA3FaRqnY+NZhMwg5BOpdpQMuCIN7sQ41ic2/NodTFcmYrjYehUpX9ZgxvN45fzVzHHiCA6j+ChDhO+jLjQ4XOA2USjrPgEGPOWCuO+PIidEOBEO2ZmeXMb0u3VukyQM7KOGE4UWKKMfCdEHEiInDkrGH+8=;BzB1+AlgFjhyITlX1dwkAg=="
 ---
 

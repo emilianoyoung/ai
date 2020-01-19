@@ -123,6 +123,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all
         width: 1200
         height: 601
+  - title: "The European Union considering temporary facial recognition ban"
+    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
+    publishedDateTime: 2020-01-19T16:40:00Z
+    sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
+        width: 800
+        height: 560
   - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
     excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
     publishedDateTime: 2020-01-16T00:34:00Z

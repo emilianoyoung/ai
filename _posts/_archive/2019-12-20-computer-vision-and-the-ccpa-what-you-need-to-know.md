@@ -27,6 +27,6 @@ images:
     height: 744
     title: "Computer Vision and the CCPA: What You Need to Know"
 
-secured: "SWi7hm2nqt2ZLhAvjjoXMkLrKzdNuG/jFksw8YiTFO8BzdDBg5Qn1OEFHb6K2rhA68zpaM/1w3ZoCoETm3D+Y+FwItYHbPgWHixcxEq7pIZlCstPlEwoV8etqnUHfkgX+IC2dISSWK/i6lvxjKkzX1NANZlOYCRVhXVC6vTVIs24/MyPXBR1L5IzlOfXg9x49qYs8ltOGxWTBx4rFA4FEbmSZx0aREdyyPICQ2v14hCV+VJ2prUkQPwEWhbcPmJ2zxnK/q2NLv6jpBYpTcIdYkqMVoMxGi5VTnFAxxel2YI=;yKI/h7qPmIkH6csb0ua5+g=="
+secured: "hm1ZEpFnDqekkf/Av65KoSJNhhHv3HIFLr1QvhYdYcC2u1LpyZPbwEYTxZCXeqb8FsqlfQIX/Qul33EfyeM32be4wPWdD9RC8pQYNF7J6H9OYjZrkoA/BzfcF5CmdTJ6+YzdOK/Oz612PMqBcZys7470gMnMr8HxVL7p5KWiNnbk/0Yb00CDg3bK/QOjXtCGCbyblYQAE87RIJiIoBPMawmX9MtVlhMrseDuqJkKMrP0+gQfq9OenX/hU9Bk93g2OjE99v+/UJEN0yuphMTowyAt1y8Ut3DXcAZINc8zdmo=;3OSuIuvSpDqimJ/e1QfkdA=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-20T00:00:00Z
 sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: SecuriMetrics HIIDE
@@ -23,6 +23,23 @@ images:
     height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
-secured: "COdTqjNtnRid3NPtIVuuGWDEJXLgO8ldnpkK5dcr5m9+OySutwI+ZyCyXCHSxJMlgE6cZXJf9xcIWLAanCpAGnWSlhFXXYQjNzbXSrJT8MX2ewezeglc9ATtXTusMF9YfpSxNwQsWumX3OljzBbi3Fet0tSM6Dp2JtfswN5cH69Mtk0ZKLrd2U5V9CycBklJha98V1RbdkVmVVTmOiFz2LaWIxlYRv9TMWKud7O71J86/lr9rZ4hhvKStjxemivmhShL/KptXjTSv6zJKqSydvpDd8Ggl1yXwmqeeQeJwdI=;Kau9SzWLecdQGeOx2887tA=="
+related:
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 31
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--fhLjKD68--/f_auto/p2xfzifpd4u2ghg5oz63.jpg
+        width: 594
+        height: 396
+
+secured: "ZvgtD8O2RWkZBuWGunMU+wNZ++3mVwg5gzv4Z3EThII+BDsg2k2UOrX8cnlxC2WXcywjBXT3p/xF2/4M/8LbvIOZK3FkzAxuBkjsDhMZgrsmI6bUvPTGKC4R5vAPCsayZv4Rj6qgQNXnB1lUsMZ4QLFbBSnEUDq2v4YOD6vPgLVbgxv4GDzSebwnvphxYNvN5WaIy1Nbim7ERyQhqbVFpfHfvuEKBfolk05Z1M16IfzDrvs7TXhzctJWU9+wgQidOsXS2swi58n1QPxE5WxqoO5jUczptQp4pxu+bvRSGfw=;MNKn6zvvHiDcnaqgH+gsAQ=="
 ---
 
