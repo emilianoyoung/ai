@@ -1,45 +1,28 @@
 ---
 category: news
 title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-publishedDateTime: 2019-12-20T23:50:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+publishedDateTime: 2019-12-20T00:00:00Z
+sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
-  name: BCW
-  domain: businesscomputingworld.co.uk
+  name: SecuriMetrics HIIDE
+  domain: findbiometrics.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-    width: 512
-    height: 512
+  - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+    width: 400
+    height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
-related:
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 31
-    images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/s--fhLjKD68--/f_auto/p2xfzifpd4u2ghg5oz63.jpg
-        width: 594
-        height: 396
-
-secured: "fjMzEDrZtDqxmjqkgMzaKa0c1teoQwnZgY4vyQwlj1WcOdgyfEw/ZZ8QYp9XV4r2NgVNpwOwSLAGULhTOEuWbK+fQ31fiB0jwrkNjN5/zsGNgyG4aXZ/Ui7yFn7XMsXuMo35tLDdA859Kun8tAMre3Whbtmi3Jy79nT9QeoXhjpIqK3B47hqta/EmThw32rTt66S4ACT4gShJP9kSeWzwaptb2in8ikniLNaZmzA5fwJ/nSBno2lmDw13niXkXF8KAALp665eXpkhjxfHaHUn5SSjOSDKhwg9lHzEHgc6Ro=;is2uYT278xUI0oki+VL+mA=="
+secured: "W8GikDgdUYvPveGw3A+/bjI44lY3ugdOV7ywDFx6cziEkNs1SLkbgs0XSfE3wnw43CnaxDY3hFJTmMbuE1heFxCorpKS5rKBqXkZv31Tts7pwhYZErdKcSGdz5GVIsC/9HqM7pK0VHyoRbp1rAqo7p2P678gMz0GtaE3JGVDfBP7LmVhvf9f2VcTtdmzjcQoxmmCvlMgF+srFzt09Fx1M2aVirvtNwXB0grhJxWdg2G46djdDMBSl0S2qFD3S+GfI/kC9te8t9TdiLaSMygrmbWCVzVHXESS666S2NESpfM=;qpwXzpxSFakPCf+HfBSEqw=="
 ---
 

@@ -12,7 +12,7 @@ heat: 44
 published: false
 
 provider:
-  name: Financial Times
+  name: The Financial Times
   domain: ft.com
 
 topics:
@@ -25,6 +25,23 @@ images:
     height: 281
     title: "Machine learning: the big risks and how to manage them"
 
-secured: "WY50bz5uyNVJJLyWiaf3uYSN/hmfNW0vPFJintPI6K6V7DyOKHCWVidAMoOeN2z7G72M3FonCPpH5ITLW/+WVPOJ1HZcf3G79NpsVgNBrKtF5Ih2glAkVUXF8QQPGYnP4ebwDM/jY4OjsN59/pgz8LXzNmdoNOEUqMya6BtnuSMY3jMmebSN0KgoknT+bV8A1vjXJewdMvIPeIGy4w7ELV0AZ29YlxLskKRaiyRMrEIlhInWqfljGWIHs1yYSOgcrb+z/hniYDTkns3wre6EVuB1IdT8FyEaAFf0rK4WAOo=;rSTE3qLW8NRqeP0vhKyUkw=="
+related:
+  - title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
+    excerpt: "“The artificial intelligence stack has to be taught anew in each city ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing."
+    publishedDateTime: 2019-12-23T13:00:00Z
+    sourceUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/
+    ampUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 44
+    images:
+      - url: https://robbreportedit.files.wordpress.com/2019/12/2-exp-100-gt.jpg?w=1000
+        width: 1000
+        height: 562
+
+secured: "YZfVO88QaqJ0DAmxdx9YyZ4rKKgGRrYrI8zfmO/58N0EymZBo8rdLMCIjVXmFSW8ZPu7XEMSaJtdFunySXusIPkrtmxW2TgPaHCtd4T6/AEVyL9dell0VHEm9Y2yRDtmnNvxRfLoo/o73p6OiuCySyvT9icir54LKINfHqudIhfPJ/q3HpRiarL6INvd7ctP8rWX62iN1BM9bXpv5TEAlUR+vK304dMIcWOxFIQl+rFcyPgAbpuT7Xb55EyhoMf3cHelM51fOC7EzKa1lmYMlS3K20nI1RUegtKqmK83iqM=;CVh4eP3asVDjD1idX1p/jg=="
 ---
 

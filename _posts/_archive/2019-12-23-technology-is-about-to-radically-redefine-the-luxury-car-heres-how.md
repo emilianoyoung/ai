@@ -34,7 +34,7 @@ related:
     cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/90ac19fe-2008-11ea-92da-f0c92e957a96
     type: article
     provider:
-      name: Financial Times
+      name: The Financial Times
       domain: ft.com
     quality: 44
     images:
@@ -42,6 +42,6 @@ related:
         width: 500
         height: 281
 
-secured: "40izrUtfwLG1Ao0+iE0cVaesDmWa+4i8FzmwNa1xQ6GHzFUpexcpj+lavEBuYkalwCKsEyRxn6xGZ1MPJXAM5zxzrr9ePVIyNAgQGh+bBFD/+c+1CFZxuhBt9g4d1vdqCnGLi24hmheT9gp4SKVgrEozYIxeMtTVjKA4KlRPcv2bcvlv05sAi6fA9qbNmSX1VjLOY8hQ8o7xLIoGXZzIez0ohPpu6gvqGmtxnXZGG/yyMl43Z0dixhSXEAbor+ZZOxWMZF5O4HBJwU38ePzcbvx9nCH0Ulmyy6mPmFtWa2I=;GPLZzcIUWCJXvN26OCIffg=="
+secured: "Mp9kP/0wTiLI0PPabmEIfJWp6cxb5w8etMs8O6iuBjBJf9DuFUOSpUoy848GPadBRT1yX8bpRQaL60UxtP/tfkm/tlSPzojX+y8hpdDklS75dKtvi50Esi7+LAMmOlcCHv6CdjXeVcigHkA9XpqBhVEUjZfcpzTzbSBSyiCs8UsVbuaQVMQ7F9OYbiT3bh5q0EFmbtytmWnqv7gtkBh8/b+jJARaeKulTZPfFYKCuO0zW+9Dlws97Lj/qUW07wXtwhQEOqB+WLp1UHvzPy8fYfXA3G6tbyvmq9/Ng1/V3k8=;ZImpHxDcDh+5lnsxY3hvbg=="
 ---
 

@@ -8,8 +8,8 @@ ampUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-re
 cdnAmpUrl: https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Rapid TV
@@ -26,19 +26,6 @@ images:
     title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
 
 related:
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
-    publishedDateTime: 2020-01-13T11:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
     excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
     publishedDateTime: 2020-01-13T15:31:00Z
@@ -65,6 +52,15 @@ related:
       - url: https://gadget.co.za/wp-content/uploads/2020/01/3922455488_3413e0bd67_b-1000x600.jpg
         width: 1000
         height: 600
+  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
+    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search historical footage and surface ..."
+    publishedDateTime: 2020-01-13T15:17:00Z
+    sourceUrl: https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 14
 
 secured: "ogeXubDrHLL897EomKnGJ3au6x4hYaGZoQCS6NL4OT3pfUWyvLtdUNyvjR+3cmDYEcnohIi6o4aNzPV4dTmvd1xld7t15GiUCrkArbifqXbEOCivRX/17mG+c8BCysH371wtbhmQfp5/H2X7V9rnBkLEL/hFU05qR2SaeSR5oE3xcKLyO7q6kybBxoWSwt3cJbbKsnkSTd6OSAPmVYPnRYNhB3a4XeOZ5zkLJXgU1mhKVU3OQMZBKceniuFxDI+GqeuY2uqKweuudyoINpY7xglRrx5PipBmWANSSvilvTesHuHd2ZuIEBPgGw/sOfFU6CzAEsndfGxWYybr+eKKLvaUTH7OU87Tojnd2iy1r41veUzRoPiuFhtkcKPzrifNUbsVSdK/jco8VQDi69FpLimqZESllfxl0s7RVLXjK0d7J5G0MpO5vVzInnCr4Qqr3aoN+TNzgqhA92ZEi6sKsQ==;7oi3UGKm8Gugc5xRSSRssA=="
 ---
