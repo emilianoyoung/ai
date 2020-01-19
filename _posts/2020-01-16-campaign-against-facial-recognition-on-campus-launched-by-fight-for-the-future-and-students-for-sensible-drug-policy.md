@@ -159,6 +159,21 @@ related:
       - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
         width: 1200
         height: 800
+  - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
+    excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
+    publishedDateTime: 2020-01-19T09:50:00Z
+    sourceUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228
+    ampUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 58
+    images:
+      - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
+        width: 1024
+        height: 768
   - title: "Springfield councilors renew call for ban on facial recognition"
     excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
     publishedDateTime: 2020-01-10T20:52:00Z

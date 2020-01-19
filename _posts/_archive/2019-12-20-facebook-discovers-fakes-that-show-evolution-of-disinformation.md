@@ -12,7 +12,7 @@ heat: 74
 published: true
 
 provider:
-  name: nytimes.com
+  name: New York Times
   domain: nytimes.com
   images:
     - url: /assets/images/organizations/nytimes.com-50x50.jpg
@@ -29,6 +29,6 @@ images:
     height: 550
     title: "Facebook Discovers Fakes That Show Evolution of Disinformation"
 
-secured: "3+dnV2JLabukm4SWhDl7ns6sU7EihP3HS395iaNUAHGAbp+8y3ErI6hNM3rpTPiXU6+pQl8q2YuWWuV4Kj9DpO4BKYFtXMafp37TCRZfzap0K+VNETb80GAA8dCsviGVjIH+3nrztKB7hiqeFt3RXNa6t49M0RIo9yMtDiQyAYFD590PhOoS0jt2h6jypaU4CvZKilI5aIOslszgyRmIo2fPJ+OP6r8vRjgQmTymedPXcZHgzLCeAs4bUuHp6+QynbPpZX+SOBXUxfz3w2YSMAe63/pRX2xU0CI4Lz6OnA0=;raKEg6O9XnTwQ2k34xJgoA=="
+secured: "bksWAprgpSN0Er+FLxOMI/91oHZh4Klxs/1B6t3zdivDBkLnvnotGWFuiD1VKqmiJsx+fUrJX+hXoHhLZ5IDXxNDqJMKRc+MlXYXLaIMzEOM5qT5XnoilQuU1XfX6qC7ZzGbXDzgwBDh7inmRg+Txa7PusX9isX2t6xgHmd2ALWoLtc22mq9a0nxLgYbbb8tIpIyG9Br7bT/uh9wdYh/s+6TrTXNRBYqmCR10ShhMV59Pm4aVbjBhXRTmcx4QX+i2yjceT4jZj3k1obfVnrXxV5Ki0epxixse6ncVped388=;yAkF3zugWim0v2m0D8LgCw=="
 ---
 

@@ -1,35 +1,46 @@
 ---
 category: news
-title: "EU mulls five-year ban on facial recognition tech in public areas"
-excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
-publishedDateTime: 2020-01-16T21:29:00Z
-sourceUrl: https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+title: "EU plans five-year ban on use of facial recognition tech in public spaces"
+excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
+publishedDateTime: 2020-01-19T09:50:00Z
+sourceUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228
+ampUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
+cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
 type: article
-quality: 89
-heat: 269
-published: true
+quality: 58
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Trusted Reviews
+  domain: trustedreviews.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-    width: 1200
-    height: 630
-    title: "EU mulls five-year ban on facial recognition tech in public areas"
+  - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
+    width: 1024
+    height: 768
+    title: "EU plans five-year ban on use of facial recognition tech in public spaces"
 
 related:
+  - title: "EU mulls five-year ban on facial recognition tech in public areas"
+    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
+    publishedDateTime: 2020-01-16T21:29:00Z
+    sourceUrl: https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
     excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters."
     publishedDateTime: 2020-01-17T01:52:00Z
@@ -148,21 +159,6 @@ related:
       - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
         width: 1200
         height: 800
-  - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
-    excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
-    publishedDateTime: 2020-01-19T09:50:00Z
-    sourceUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228
-    ampUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 58
-    images:
-      - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
-        width: 1024
-        height: 768
   - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
     excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
     publishedDateTime: 2020-01-16T01:04:00Z
@@ -295,6 +291,6 @@ related:
         width: 1280
         height: 720
 
-secured: "UpF2MK42Gn2x0GBS0U+zXQw3yAyHxw42zeT4oXASZkq8+MEm8EjwDJGGMtppNMH29/+hnGhOdiF+UVJ+hDlLkAJhjHdrTD/u0OKTv20hkoq/HLVvvLeFyUQpO3pAUgerUYMmf70rcoJ0dzpiKTYFk+zp+O6/9ff6YITC2LStlFOfQ/drEaVlqKSvDtFceiMoN0f9scLN7tDBHWrg1ZKkGq7W/TnTj/pat5qxm0rxVGtBdP7iuII89bVV/cxLSbBPV6AoIBS2aDBdBdbwGyejGlmMsF5mK43i3Fgsq8xCPeQ=;FJ3lNANNkNYE8VpN8rayvA=="
+secured: "h/BfKty8dL1lGbfJUByzVJzuuNd481gzfLseSKqcryegO18PaO+FhJenfoQeSC7UxFiusilXSJgjFPFOUufHaRLB6cdVdGor75d295jYA2sUpu60jeDJNN/kj6KQLM+TYdcgQEKyenQn5PLj1qpYykHhjrMNbFFmyRqeOkcidKFEvQpFf/oAx/z8THdslgKCCJsHB3sUupJlF+VA2YHxYZA5DPfn4br0bDRiqzj1DYtk6v5fgK/e/KsvwJWV6g7iUi/UfwjIGIaxK6i1Hg2p0phSgyw3SQ6kC2PxP+o/mDY=;wkuHv4On0+IRczKI/JaqLw=="
 ---
 

@@ -144,6 +144,21 @@ related:
       - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
         width: 615
         height: 384
+  - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
+    excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
+    publishedDateTime: 2020-01-19T09:50:00Z
+    sourceUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228
+    ampUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 58
+    images:
+      - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
+        width: 1024
+        height: 768
   - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
     excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
     publishedDateTime: 2020-01-16T01:04:00Z

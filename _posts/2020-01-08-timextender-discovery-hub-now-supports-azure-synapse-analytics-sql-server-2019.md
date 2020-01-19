@@ -23,6 +23,6 @@ images:
     height: 335
     title: "TimeXtender Discovery Hub® Now Supports Azure Synapse Analytics & SQL Server 2019"
 
-secured: "7Z8oYbsauLLRpZkvpq2C0f/bjZTWZl1xFYbNZa2r7ypue5buNsr4rdWc9tmXCYDOaNOv/Jtpia5nqXKzTyiFlINqTpzsOXmFQeVVxXcnIX1O05xas3R+4tNg3VeCi3TjViBpCQRtC/OAZ7cOViYcbRdyoBOJsY7Hde0p/WszAkBqJZ4TqwN4RIFm45P5IeWwoPBIQni95dCJkJBpBkZcGdQyTh6c0bCiGzGr+zAwP1BaYeKBEooGcia3sX3YiZxFeeonCD/EpKiwubPWqbiwSD2OxhIqjlFv0hsL9v5Ukyk=;0II1OkTQ03/96RmmfDu7Rg=="
+secured: "DMI4ceDNdfwXbRPUcAj+Q3BQulQj6oBQn/ihl5e98d6EEtYGlLPZviBOIloJakkT6XCUz/tXvEq2gzAngjdDKS/oWhS9iNWy6dJFPXcVlux63Q7phOOxK0E5eTXxCVvK1/jgTezoQgfWz9opSGtrc0OAtQaVuKzm4ZJ4Ar2EL1CYFV5wvztvzewolhjtwQgvhDR58mNlXlg/SmGT/wk6vuIrVwA0RN4knvkpCS4/OpyDLqnlayNnQM9kmKE6ivRKkz5YeKeoy9IBMqUnTHJ2QZG+TLzYHntrlyI919284ow=;x7DUIGJ3tI2nKs49YfemTw=="
 ---
 
