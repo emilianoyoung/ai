@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T11:24:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-57162-8
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,32 +24,21 @@ images:
     title: "A machine learning based prediction system for the Indian Ocean Dipole"
 
 related:
-  - title: "Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG"
-    excerpt: "overcoming the intelligibility problem of deep-learning methods. These results advance the feasibility of a real-time, non-invasive hypoglycemia alarming system using short excerpts of ECG signal. The study presented in this paper aims at exploring the ..."
-    publishedDateTime: 2020-01-13T10:10:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56927-5
+  - title: "Indian Ocean Dipole can be better predicted thru machine learning, say researchers"
+    excerpt: "Researchers in Japan and The Netherlands have, for the first time, used machine learning techniques, in particular artificial neural networks (ANNs), to predict the Indian Ocean Dipole (IOD), a positive phase of which has affected weather and climate in India and Australia in a spectacular fashion so far in 2019-20. The IOD has both positive ..."
+    publishedDateTime: 2020-01-19T09:25:00Z
+    sourceUrl: https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece
+    ampUrl: https://www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/indian-ocean-dipole-can-be-better-predicted-thru-machine-learning-say-researchers/article30599330.ece/amp/
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 27
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
     images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56927-5/MediaObjects/41598_2019_56927_Fig1_HTML.png
-        width: 685
-        height: 285
-  - title: "World Premiere in Zurich: Machine keeps human livers alive for one week outside of the body"
-    excerpt: "Our mission is to drive the translation of outstanding scientific discoveries into new therapies for patients and breakthrough innovations in the fields of Regenerative Medicine and Robotics. www.wysszurich.uzh.ch. The perfusion machine replaces the functions of various organs in order to keep the donor liver alive outside of the body."
-    publishedDateTime: 2020-01-13T16:05:00Z
-    sourceUrl: https://idw-online.de/en/news729772
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 14
-    images:
-      - url: https://idw-online.de/en/newsimage?id=323116&size=screen
-        width: 800
-        height: 533
+      - url: https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/uqqgfu/article25140539.ece/ALTERNATES/LANDSCAPE_615/bl0504ndgarrGR64PMO4U3jpgjpg
+        width: 615
+        height: 384
 
 secured: "ponEijGmcYvIJS/bOcuCGW40eYKIVU9Oz7d5NcRkmwj/CntHof3Db+UbXh2NBRrAXGgrNDbBx+xf+ZBctp5B70RtNmizTzBdqTURJ6JEqRY1suM+0Z++aiRzFAq+aEFddgv6hFZ03NLyKnjsE8nHXowW5Sdjsk64Saric40+g8uXr3IKj/lET+Cc4Mk3hSRbBQt4VL7l2lojKyYrvJ/PUHmkqkAzEkwJox2BWSoNiPssz3ZNfeOlqhtdINGyIhL4/NHI5Ny+Ir+It8kqOzLcBN6g2xI6aBOOzQ4us0dTyQFTGBZsooNYGIb+wFqYtWB4id3tMrEOFT9U6LEctw+PEEezngwkXbq0B13I9Iv+oA9UR6pyyGZwlk+kR2FS1mV8a+BXju4tiomGnUdPP9AQlqV6KdcpAhGb8N6LvU2eW/Gqcz3jz7uYTmpdBjLdcvs+d1EZrIKTgM12KNtGRCCKxg==;r5vk7ujGpqCUQ/aZJ2xfZA=="
 ---

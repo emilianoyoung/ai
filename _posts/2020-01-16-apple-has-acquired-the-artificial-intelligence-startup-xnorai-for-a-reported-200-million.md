@@ -3,11 +3,9 @@ category: news
 title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
 excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
 publishedDateTime: 2020-01-16T14:58:00Z
-sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1/
-ampUrl: https://amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -23,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: https://image.businessinsider.com/5ae36d7919ee864e008b4618?width=750&format=jpeg&auto=webp
-    width: 750
-    height: 563
+  - url: https://i.insider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
+    width: 1200
+    height: 600
     title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
 
 related:
@@ -173,6 +171,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "PykXynmqgRmjPueuvO9rDuQCjltU92tm5XKp3ZEXMI2VQ2BJyxJhuobmKNiVz0AuCG0VKOkYkT+B/LPxqmxEGllER8Qav2Yi5iYc+llVGLh2PYpHbucNwBV7DqfUZt9qFk21QmuEa9MeKLmAFHkxye456g6ssXdd1BHNmiqP/E80pIe9RalYD0DhimKRakreWp+fKLhmUQLj7QBtllBEY3y/PiUmko2OIIhnYWuzuIYBl0fN3GhOagkFUR2OyRbKvCDPkx9UF+/Affw7oixTsq+qeAAttOLJTAK2lzownWc=;FSNFB5xsugkuzkW25AaJbQ=="
+secured: "d1JO6A+gkxyaTAKsUpH1/QxmN1CVSFfrH0WHwNPX89Z/4gJb4ZVmxBWHp6pa7C5UgMw4dwXwmsVkEQDhiyRqtzbNicxs9wZZvGhzgx0/dOYqHPOxevDQL+5ARmrqu75dz8r4Wgmr4PPYlSdxYfV95s5Oxjvdar11XgHGHq0YtLVqEVtLFRZWM7KIqIAiiEUWGZgr1i+tCPHm1sax/LO8VArS6wQRF7NIJpWBV7aBzZxylDxyQeT0t7ILyFoWOCigOtS3XAejSWxVLklxeRm1s6kNV7uLgHzhuy03+2vJsRU=;y5g3yamXFQfyUOJmG2zXhg=="
 ---
 

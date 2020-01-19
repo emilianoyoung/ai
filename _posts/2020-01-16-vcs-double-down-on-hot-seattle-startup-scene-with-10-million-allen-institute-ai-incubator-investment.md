@@ -89,21 +89,6 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-xnor-door-630x473.jpg
         width: 630
         height: 473
-  - title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
-    publishedDateTime: 2020-01-16T14:58:00Z
-    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1/
-    ampUrl: https://amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: https://image.businessinsider.com/5ae36d7919ee864e008b4618?width=750&format=jpeg&auto=webp
-        width: 750
-        height: 563
   - title: "Apple snaps up artificial-intelligence startup Xnor.ai for about $200 million: reports"
     excerpt: "Apple Inc. has acquired artificial-intelligence startup Xnor.ai for a price near $200 million, according to reports Wednesday. The acquisition, which"
     publishedDateTime: 2020-01-16T01:19:00Z
@@ -130,6 +115,19 @@ related:
       - url: https://www.thehindu.com/sci-tech/technology/gadgets/gthvb5/article30576552.ece/ALTERNATES/LANDSCAPE_615/16NETAPPLE
         width: 615
         height: 384
+  - title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
+    publishedDateTime: 2020-01-16T14:58:00Z
+    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: https://i.insider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
     excerpt: "Editor's note: This story is available as a result of a content partnership with the Financial Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription."
     publishedDateTime: 2020-01-16T11:55:00Z

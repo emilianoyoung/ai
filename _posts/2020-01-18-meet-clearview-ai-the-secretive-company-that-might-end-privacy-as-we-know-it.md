@@ -2,25 +2,25 @@
 category: news
 title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
 excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-publishedDateTime: 2020-01-18T14:10:00Z
-sourceUrl: https://www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
-ampUrl: https://www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
-cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+publishedDateTime: 2020-01-18T18:10:00Z
+sourceUrl: https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+ampUrl: https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+cdnAmpUrl: https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: https://www.chicagotribune.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+  - url: https://www.baltimoresun.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
     width: 1200
     height: 800
     title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
@@ -83,6 +83,6 @@ related:
         width: 800
         height: 450
 
-secured: "em/ASVNVaeUMpfTmNuu91NLMepf6uINgVazinWdCNDiq4jEwyuIQiKwlUzbnZmq64E1C0qywFI6jdQ+jO8JkRecs+lJP5mcCc86RfRw5dGGeSKRMeXL1w3j+DmOwd/aXPeqiDPt7RAgOhglTOUNJ8eQifl8Jv8NgOnGWH80kZzk3a58l8hB4Eo8kO/rv5LXwl5+jMC+UqADKIBtHXcG2npe7s/Lt7t2QpsTLeA5r0n9C92uugVysxawa1X7YdAQjFDmKhuucspGJk/VIjKn+qpr7frKCHPzwKM+IPEPu3r0=;IW86AOk8TTFqXLD6dQHtdg=="
+secured: "AXeG9pqlxafxL3zwsmYzQ8WPAYPOyd4lR+6HXaO2+F9XN7mLomfhGt8FBDwfdTpw7RsW2F1RLhgULIsN/CcmKgKZfnIYZygetSn8LO2y7Kxd6lQyWXrgLEhuncioA6tmjiZgA3S0CbMo5BcT89558HqRgwK0imGLZ7KUHAbJe1P4QvI767/KEBDCMSC5YQhucRCobn9FUJqnPbD8x4yeGUzZW7n17rGnJsxqPCPHrXpHyF6aT/TX31jQtk4m+VuCEVcEFn1ec7vtLjSTK2eB8ds4eKh6SkJcJDP4GU2ep6c=;i1n7dy7koglnooPE4MbJ/Q=="
 ---
 
