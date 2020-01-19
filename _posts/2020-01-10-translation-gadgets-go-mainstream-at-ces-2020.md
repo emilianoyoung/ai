@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
-excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
-publishedDateTime: 2020-01-08T01:53:00Z
-sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+title: "Translation gadgets go mainstream at CES 2020"
+excerpt: "Luckily, several pocket-sized gadgets in several different form factors were introduced at CES 2020 to solve this problem, translating various languages into a person’s native tongue. One of these gadgets, the Lingolet One, was a CES Innovation Awards Honoree for its artificial intelligence (AI)-based translation capabilities that includes ..."
+publishedDateTime: 2020-01-10T15:17:00Z
+sourceUrl: https://electronics360.globalspec.com/article/14537/translation-gadgets-go-mainstream-at-ces-2020
 type: article
-quality: 35
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engineering360 News
+  domain: globalspec.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
+  - url: https://electronics360.globalspec.com/images/assets/537/14537/lingolet-15.jpg
+    width: 752
+    height: 421
+    title: "Translation gadgets go mainstream at CES 2020"
 
 related:
   - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
@@ -41,19 +37,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Translation gadgets go mainstream at CES 2020"
-    excerpt: "Luckily, several pocket-sized gadgets in several different form factors were introduced at CES 2020 to solve this problem, translating various languages into a person’s native tongue. One of these gadgets, the Lingolet One, was a CES Innovation Awards Honoree for its artificial intelligence (AI)-based translation capabilities that includes ..."
-    publishedDateTime: 2020-01-10T15:17:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14537/translation-gadgets-go-mainstream-at-ces-2020
+  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
+    excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
+    publishedDateTime: 2020-01-08T01:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: https://electronics360.globalspec.com/images/assets/537/14537/lingolet-15.jpg
-        width: 752
-        height: 421
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
     excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
     publishedDateTime: 2020-01-02T07:45:00Z
@@ -81,6 +77,6 @@ related:
         width: 1200
         height: 630
 
-secured: "PcSGV35imlDcmSvkQNmgv17uJHaZ5+ed7zPfiLbyt1d8PoaGki1JGNJ3IXbUwf3+vdLllLhPbW3iMKCyDlCwZpaSlSPQCQUstg6Y6H/wQ5tlJ/3NoX8jVRnjAIjcIfqoXg0VGFaDIrvjmlpzKlnl7EmhQ6GpPncUJiNpy0W0MZwraqQVN5qlMvEGg1lhSXvVomQrHWIv/7j+wqE2hsVAk9FTIamw2W7nPR0mWwuPMUw1FieB+lCBvEcVtRg0dGbUSvbAKpyvZRtfchjTdG9Z1ajEIFKe1f/bjoJrvJ8K234=;WyHocpCyIxFf9oVsEZvPng=="
+secured: "MtYBDZKhhqa4zAX3pSyMYSI78k7JG2gBNnQ0UD4XhVFkCR78vO3D4UwNhWbafyw89dES8b1zZDqNrkd5ymIaEOsg0y0+Q+JT4srqBFm+dCIA/o4QRH0iW3Avv+SK4kqqOvOSp4G5RF4Gb93IDUE6Tg6W5q4DNhs94BHmpVxPge/I1lxqmQl/KgDgy+5G9Ok0AOSlL30I1In/Jy1vjX/kTfGBc2zhL53rBEGXcxPCSn0x2FHeNwRZOXJMmgByE7YP2eI39Era+aVfFJRNEws5gynjpRtVYTiQs8POyuaNXZ4=;OmlYBacQOswBpt/teBHPng=="
 ---
 

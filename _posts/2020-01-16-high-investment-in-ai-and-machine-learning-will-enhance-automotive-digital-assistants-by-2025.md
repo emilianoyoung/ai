@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T07:01:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/high-investment-in-ai-and-machine-learning-will-enhance-automotive-digital-assistants-by-2025-300987879.html
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,19 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+related:
+  - title: "Will AI Dominate Digital Marketing in 2020?"
+    excerpt: "With AI, you can get more precise and analyzed data which helps you increase your conversion rate, which will translate into more leads and sales ... other third-party tools are actually using two appreciable AI-powered technologies – natural language generation (NLG) and natural language processing (NLP). For example – Socialbakers ..."
+    publishedDateTime: 2020-01-17T12:32:00Z
+    sourceUrl: https://www.business2community.com/digital-marketing/will-ai-dominate-digital-marketing-in-2020-02276105
+    ampUrl: https://www.business2community.com/digital-marketing/will-ai-dominate-digital-marketing-in-2020-02276105/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/will-ai-dominate-digital-marketing-in-2020-02276105/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 39
 
 secured: "GKo+yDpmoIz/QcAkVUsmMU0cGpJYPbGCNgiTZo8KLJFngssoFEkjWE7PqJ9dO7xoGivBIBgvmeaUVFLH8yA0BcFdzUYPcHep3Sx6JYqUdqrgKOVPdkE5GOBe3hkc0u6YhjTNYOW86J/RlP8bUN4Xdnt7S1jBjiOIq3/ENabUlXmw29y7aIeFlkHZ0257WZNcNcYPs5c0N7pZUbGqei50HN2ZLEBgCLQSIlx3nIp34NGKUpXhI9zu9ojrYE30KahjL++/lyQGY1BSNgvsWuY9vyeQFRn65peIXTdeMBrtFR9OW5OaFbY1ah+OTY13GsYBTuPNyZl5ZJW/pJ1ezsnW9LgHG/9YXPOiLsCF5N4UKkfgIMtjgrjD7vokxK+EzAJhhAh4U3Xzp8s8OP962VoKLnf2mVQzwYYu992dgLXErLI28PF0nepXeCNxmhSWBiC0eQq/hk3RfdICZWLvOxaJ3w==;aYGXCV5PpYVc1J9RMSGJ8A=="
 ---

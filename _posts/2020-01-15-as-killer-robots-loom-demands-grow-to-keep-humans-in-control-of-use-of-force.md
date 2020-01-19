@@ -54,6 +54,19 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/17/15/23526948-0-image-a-121_1579274069115.jpg
         width: 636
         height: 382
+  - title: "Nations dawdle on agreeing rules to control ‘killer robots’ in future wars"
+    excerpt: "NAIROBI: Countries are rapidly developing \"killer robots\" – machines with artificial intelligence (AI) that independently kill – but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems ..."
+    publishedDateTime: 2020-01-19T22:35:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/20/nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: https://apicms.thestar.com.my/uploads/images/2020/01/17/498447.jpg
+        width: 1240
+        height: 825
 
 secured: "DSn1m0VIfG3TS6VVRlIXkMXLQUxtfd3d63z4RBXhH4Z9GlW4ui4TVkgrdi3BkDy1Cgf3d2BgNGSILSan7W2g1zn1+rFQca4nF0qOzk35YZpUs499fzx4WwUritjYl6HEpqb1MZDkkGtVyDAesGnp+0bNJ0ardDQUnknkQNF0/dSU48UoK5o8muDtPh+2fDsomnBjsZ2W5NiIjCDagb8N5SYvfSx8xK1dH/u5GkgV95jekpwemdPWevtQwk5Buz5E+SpZBmYbkgNmbcNfZ5FhvJFSpPaQuSwg1ta9qyKHFM6syDDBqpuReQ8zCOYYAWj/9c2geelP8+JlS4oV3hjLhPrH+tpFr7mi8AzaXhcZZGqCH71aVovUEmNSx/FMK2ww+MbIamdnDTUuxXi0Eci4Y/95aYr468YCF4vUTKohAa9AysPmbRIpL8BH2Rx5K6m2o1GFvCjCGVqlZ3U7C/L/Ug==;ZBqHk/UQxZ99K9g8s1A5MA=="
 ---

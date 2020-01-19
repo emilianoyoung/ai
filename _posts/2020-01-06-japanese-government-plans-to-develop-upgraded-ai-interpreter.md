@@ -1,35 +1,38 @@
 ---
 category: news
-title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
-excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,"
-publishedDateTime: 2020-01-06T19:54:00Z
-sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
-ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+title: "Japanese government plans to develop upgraded AI interpreter"
+excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
+publishedDateTime: 2020-01-06T14:08:00Z
+sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
 type: article
-quality: 89
-heat: 169
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - AI
-  - AI Hardware
-
-images:
-  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg
-    width: 1181
-    height: 663
-    title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
+  - Natural Language Processing
 
 related:
+  - title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
+    excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,"
+    publishedDateTime: 2020-01-06T19:54:00Z
+    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
+    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg
+        width: 1181
+        height: 663
   - title: "Artificial intelligence: How to measure the ‘I’ in AI"
     excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
     publishedDateTime: 2020-01-12T09:07:00Z
@@ -127,16 +130,7 @@ related:
       - url: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_487365628.jpg
         width: 1000
         height: 700
-  - title: "Japanese government plans to develop upgraded AI interpreter"
-    excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
-    publishedDateTime: 2020-01-06T14:08:00Z
-    sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 19
 
-secured: "DJAJ+7NAGyL/0v6jqEuyY0ndIr/zGbL3OqPSrrusQJM35XefL85v8H/9ab0xPMVMiGZ+tbT01kJjlF9CrBxXnI14CP09eoPz8WhURQ2enQhzaaYshG1cLuhenTiCcPKmq/n1H33H928p9O5TkhHX+pI+AfAK8L4iVvgRqQPGHqv0wnycDaN9IDFXAwhaYyR4dUA9dBGY4fzeUtKousxY5KEfJAHRmKhQKfIWBJRq1Tg8vRTwaaYHaTe/J5ZsFfD6tW4sDLy7xzYEPuyke9eTnvI0daoSGCG/ZhjmFbJsudU=;EvcUy7kcI1U1IHx61kPSFw=="
+secured: "CsFUGpWZyicDkmvVtwsRJ/UU72QWpuTOiournciuNw7dmhSX7BPblp1UVfhfTIzmn1oCZL/qf1bx0984ocIgPk6rTbRvAFueshfI0Gij5goNOPy6jkvr+CC5mujaE0qFubCI0IoZnsN31v+uXHmUShkatU8BWBTNjNTFD3iGQA30wjtLKkD5Y39d9lGQmAs/1FQrQSXlry928d0TTAYiQ5e2ZQnQTfcfs0lSmFMh9Jms+C7gBRPrSQjWxIgM7QLYBWv9EsBbwSw3+fs9RyCV8rC2zEqaBLwbu7r0IKqzn2g=;IfeftQMZS+zbKHW4T38MJw=="
 ---
 

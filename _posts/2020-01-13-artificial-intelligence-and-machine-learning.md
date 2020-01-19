@@ -111,6 +111,28 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14108-y/MediaObjects/41467_2019_14108_Fig1_HTML.png
         width: 685
         height: 343
+  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
+    excerpt: "Research at the Dell EMC and Intel HPC and AI Innovation Lab is demonstrating how organizations can build better ... using parallel processing such as those used for image classification and language translation. Basically, the Lab wanted to create a neural net that can process more than one experience at a time, so it could do the task ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 36
+    images:
+      - url: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_487365628.jpg
+        width: 1000
+        height: 700
+  - title: "Japanese government plans to develop upgraded AI interpreter"
+    excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
+    publishedDateTime: 2020-01-06T14:08:00Z
+    sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 19
 
 secured: "q8SwFbWAs2sCqvFI6/RQzb1DlDkRBswTEYmD899vr1F0X5COsRpYVvI2SI2EPKIdf4y1fgyHkgth6MzHNGJmYHysUTJeiM4ep0l6jFXU5Pf+LK2pk5Q83xaru2gheeVXh33jgepc13ya8n5PBu9bkgyWIQTHlPENAA1tUNjjwCHaGzTYtE80xE9htWWkYm830zR8fb5Q4zF8ylcr2yP+XpcUtVmuAdqXa0YLkBbo4S4w4qSnp78eXKqEUg67eKtYgHdkY6FOmKR2PR/U/a8yt269YFCpU3c5Rv2A1gh6JnF4mV4cEz8CljdRYrRaUq81uk5Lb00eh+Db8yhB9VtvIb84U/nsuwlTWbUzCxu0/W1yYo4pGVEHWSsKY58DU/Hvj4kV/8B0wTxwM0bwk04s3eRsOQCHEXRLoeknpuDpE9QR7jKZRDLC+i9AecqxmI6zMrGkphi2hc90N7iIb+Ijsw==;XueJc73DbfYGyDS80+hMMg=="
 ---

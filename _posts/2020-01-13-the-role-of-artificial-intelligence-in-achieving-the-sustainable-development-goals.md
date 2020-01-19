@@ -109,6 +109,28 @@ related:
       - url: https://www.brookings.edu/wp-content/uploads/2020/01/global_tanzania_drone.jpg
         width: 6720
         height: 4480
+  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
+    excerpt: "Research at the Dell EMC and Intel HPC and AI Innovation Lab is demonstrating how organizations can build better ... using parallel processing such as those used for image classification and language translation. Basically, the Lab wanted to create a neural net that can process more than one experience at a time, so it could do the task ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 36
+    images:
+      - url: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_487365628.jpg
+        width: 1000
+        height: 700
+  - title: "Japanese government plans to develop upgraded AI interpreter"
+    excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
+    publishedDateTime: 2020-01-06T14:08:00Z
+    sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 19
 
 secured: "cyGdezM9v8AXoa2Q+gbbfG+eFBS34iA3WKPRh1Vd4b17NsAbTL/B3o8ntlRLD57jqFB4UYURGq9G7/s5+sTW8jTE8hUZ8+qCq4GlGKMcuPlEFb/ZtiGv+NHeRYEV4owKrSvaDIroe7tkaL14E5aQEh4dftrZ5wz+tQ/2+yjBFaBOuhhZw+ekTvFhErY+b09L8gedIgx3U2Gg5XvVeBDHLl8lTAdwO7HZ+H9M1mn2K6Sd0xjJGqbkIx0Gp/WqhkzENb/pH+gd7jf87mx1IOftZUKNtzgzuwwgwTAJeXrQHiOukjpf/f3CreK3r1vDvhr6t0kccwPjjk8ggyy7jy7EQGKoEf/tPTWQYTMICPVIEYYzFgnMqr7fsybMwuBTWRxI/EFRLmxjivDuSXawgJXBAyHxi4GUxAVCAy2HPXfNCQtbqcitB38SdeKwSCv+FGJavLZYhWNOVG3+kUxVRgwWOg==;bJXfyLJs1kNYOjEp1Rbm9A=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZG151
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/17/15/23526948-0-image-a-121_1579274069115.jpg
         width: 636
         height: 382
+  - title: "Nations dawdle on agreeing rules to control ‘killer robots’ in future wars"
+    excerpt: "NAIROBI: Countries are rapidly developing \"killer robots\" – machines with artificial intelligence (AI) that independently kill – but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems ..."
+    publishedDateTime: 2020-01-19T22:35:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/20/nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: https://apicms.thestar.com.my/uploads/images/2020/01/17/498447.jpg
+        width: 1240
+        height: 825
   - title: "As Killer Robots Loom, Demands Grow to Keep Humans in Control of Use of Force"
     excerpt: "These countries are investing heavily in military applications of artificial intelligence (AI) with the goal of gaining a technological advantage ... They call efforts to regulate killer robots “premature” and reject concerns that such weapons will threaten the right to life and principles of human dignity, or that they would fail to ..."
     publishedDateTime: 2020-01-15T23:21:00Z
