@@ -14,6 +14,6 @@ services:
   news: https://ai.insideout.app/api/news/
   learning: https://ai.insideout.app/api/learning/
   projects: https://ai.insideout.app/api/projects/
-  celebrities: https://ai.insideout.app/api/celebrities/
+  people: https://ai.insideout.app/api/people/
   companies: https://ai.insideout.app/api/companies/
 ---

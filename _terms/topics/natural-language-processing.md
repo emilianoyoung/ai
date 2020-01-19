@@ -14,6 +14,6 @@ services:
   news: https://ai.insideout.app/api/news/natural-language-processing/
   learning: https://ai.insideout.app/api/learning/natural-language-processing/
   projects: https://ai.insideout.app/api/projects/natural-language-processing/
-  celebrities: https://ai.insideout.app/api/celebrities/natural-language-processing/
+  people: https://ai.insideout.app/api/people/natural-language-processing/
   companies: https://ai.insideout.app/api/companies/natural-language-processing/
 ---

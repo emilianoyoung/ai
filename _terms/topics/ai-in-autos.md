@@ -14,7 +14,7 @@ images:
 services:
   news: https://ai.insideout.app/api/news/ai-in-autos/
   learning: https://ai.insideout.app/api/learning/ai-in-autos/
-  celebrities: https://ai.insideout.app/api/celebrities/ai-in-autos/
+  people: https://ai.insideout.app/api/people/ai-in-autos/
   companies: https://ai.insideout.app/api/companies/ai-in-autos/
   projects: https://ai.insideout.app/api/projects/ai-in-autos/
 ---

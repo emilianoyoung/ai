@@ -15,6 +15,6 @@ services:
   news: https://ai.insideout.app/api/news/computer-vision/
   learning: https://ai.insideout.app/api/learning/computer-vision/
   projects: https://ai.insideout.app/api/projects/computer-vision/
-  celebrities: https://ai.insideout.app/api/celebrities/computer-vision/
+  people: https://ai.insideout.app/api/people/computer-vision/
   companies: https://ai.insideout.app/api/companies/computer-vision/
 ---

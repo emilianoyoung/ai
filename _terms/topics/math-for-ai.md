@@ -10,5 +10,5 @@ images:
   - https://ai.insideout.app/assets/images/topics/math-for-ai-4.jpg
 services:
   learning: https://ai.insideout.app/api/learning/math-for-ai/
-  celebrities: https://ai.insideout.app/api/celebrities/math-for-ai/
+  people: https://ai.insideout.app/api/people/math-for-ai/
 ---

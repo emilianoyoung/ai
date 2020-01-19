@@ -20,5 +20,5 @@ services:
   news: https://ai.insideout.app/api/news/machine-learning/
   learning: https://ai.insideout.app/api/learning/machine-learning/
   projects: https://ai.insideout.app/api/projects/machine-learning/
-  celebrities: https://ai.insideout.app/api/celebrities/machine-learning/
+  people: https://ai.insideout.app/api/people/machine-learning/
 ---
