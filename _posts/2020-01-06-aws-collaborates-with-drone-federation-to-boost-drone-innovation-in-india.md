@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-dr
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     title: "AWS collaborates with Drone Federation to boost drone innovation in India"
 
 related:
+  - title: "Irish AI firm announces new collaboration with Microsoft"
+    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
+    publishedDateTime: 2020-01-10T10:38:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 54
   - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
     excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
     publishedDateTime: 2020-01-06T12:36:00Z

@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
-excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network -a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
-publishedDateTime: 2020-01-19T03:25:00Z
-sourceUrl: https://www.aninews.in/news/science/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study20200119085547/
+excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network-a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
+publishedDateTime: 2020-01-19T08:30:00Z
+sourceUrl: https://health.economictimes.indiatimes.com/news/industry/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study/73371825
+ampUrl: https://health.economictimes.indiatimes.com/amp/news/industry/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study/73371825
+cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study/73371825
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Asian News International
-  domain: aninews.in
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://aniportalimages.s3.amazonaws.com/media/details/41772505464_ac67baac42_b_rzCORue.jpg
-    width: 600
-    height: 450
-    title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
 
 related:
   - title: "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence"
@@ -88,6 +84,6 @@ related:
       domain: urotoday.com
     quality: 4
 
-secured: "YsBKwuGGM3PBlnpVzkeP8LHRkyF0aAYar2bFXC1ElRZ3i0Brib9OtAnoG/Q3asy5Ma6uNBVQBJAv0fppJ8q+Sp0u9jtohnQ8D8DhmtyHEHtOyRTIF/vMqq7ypFauqER0wqQ60KaRWLqCYG5KCE6N7ffDaEH4m90rwAhGy9lxLkOQNKHDlua/bei4zhInnt2GnpCw7GlS6p85foFw2fuYMrC2ExZnpIvlLqqhaQaE+ti2hUzZ8EGHaRquESjPDfUDe8MBgiOafFSzLYgnylG2eqFj/QaOIzjct60VRvldyVGqvic7Au8MpUVg4q25308lsp5OcWHq7dnyuBDJDrf0glrLPXUcWSYlcOsjzNTMztfFuxac29kkQSeB8b6+IpWgOzLfy2K2PoC4078jl96DI1Zb1XSv7/m0DljRi8Gisk3G2ZvU0PNzj/LndXMxCPwQ0k8DINx9gQQ74yczgEn2Kw==;kV4OVOZ143kTvGnEHw1Gcg=="
+secured: "eWRLyU35TOxEeksUAW7h0dJKVSU8PDmYw9ArSRCTr8ylyW2hjqv2IwqTD5aWkSL7nWBugeQc+qVGRFy60LENFPhxwlIqogRd/TZlRK0D6ebsbITpsyUnbnVAF+QXMtp9Rut8Np9QoRL9ecVey0KAjsp2A4pfonHbaSZ5T0ID3HhCuZ0lOC9pc7REm4LEFLNBp12yhDve9C0Djw8Lzy8aKmobOlRCm9vBoKZ9JjPsgekrwvSzOF1P0AEmmC3IIVVkzU8GCI/2qcZYJh71BfDLSG/6n5hFG/OWBHSYgyXz9+LxjHv3My2eJLVE7/t23wk5gn0s/B3gtYE01tnkUHZzKecD7cC6xPNUjKKHoMZlrHxY7f6fThVag0BWBM8t/IleQwktpxsU4wDXXvwPM0bMp5zlvlGnewZUY71ExQyl0VQE+eioABOp1+r6EAyoviJtA4alyV7W7bhHDOVRZCHmRA==;NcAnfp23Rh5QBVbww5PDxA=="
 ---
 

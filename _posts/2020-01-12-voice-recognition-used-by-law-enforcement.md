@@ -72,6 +72,17 @@ related:
       - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
         width: 300
         height: 250
+  - title: "Australian police using face recognition software as privacy experts issue warning"
+    excerpt: "Privacy experts have described as “very dangerous” revelations an Australian entrepreneur has developed facial recognition technology that is being used by US law enforcement agencies, allowing surveillance images to identify suspects by matching their social media profiles. The New York Times reported on Sunday that Hoan Ton-That - an ..."
+    publishedDateTime: 2020-01-19T08:55:00Z
+    sourceUrl: https://www.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
+    ampUrl: https://amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
+    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 33
   - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
     excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
     publishedDateTime: 2020-01-17T03:12:00Z

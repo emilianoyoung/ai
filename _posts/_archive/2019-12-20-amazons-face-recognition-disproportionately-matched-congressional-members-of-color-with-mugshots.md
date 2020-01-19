@@ -8,7 +8,7 @@ ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-mat
 cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,21 @@ images:
     height: 396
     title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
 
-secured: "qup7Q9fV5mia3/dT0oRqk/l8ZVxtxRCsMpsMikUqDQr45ecMvjRsWFMmhexvKa+Btl3xFnvt2hNCENFsqepC+OkslN04zDccGJ7cPcpcCg0QFyX5npUFE+fQGxXOKQNFqh12tyg6yVkXb7heePCMgNzOf97t45TIG9mPdBFh/afaSZi9UVYyuFDg9rPt52REnDFkSwPp1omfxfkSb01aWn3sNlDXn/FAOSEzAD5rV16xqVqPHznc37t2Hf9B3IzgJpokLfHHSZ8VMe9nTPiwdFtxhYEciUxudwA0ZAEv68A=;OitFvN0+gPAblEqk4O7ZNQ=="
+related:
+  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
+
+secured: "RXZJpoKjsmX+G1wE/dYuSmKnf9QxmbtDJcnLmmaf8JiRlydclGd7MHSyeg3Q6tGsDA7F3hDQlmqcgGio7nOuV5p5KXN7UnqHkYT9Ps7BW2pVYGjTZZYl6vl1pjMmfNs1Wg8vsv5T6dehLlyQk3recaUkUCBQozOmJ2lwMUL5lxgn1CCgzXPm9Ae+5Kb1EkSsy8PI/4uMS8rWdwuCeRyFu/UX89wrUaD8wBWqOPUp6XMhZyJsZ2YsRmy3Z9TkVCV86/PkiEOmWVFCIlx1XPox29CgbxpiI6EqlMAHfZfwQb8=;AsF9eBEOvJ/OV2228GUEFA=="
 ---
 

@@ -51,18 +51,16 @@ related:
       domain: medicalxpress.com
     quality: 49
   - title: "Brain magnetic resonance imaging enhanced through artificial intelligence: Study"
-    excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network -a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
-    publishedDateTime: 2020-01-19T03:25:00Z
-    sourceUrl: https://www.aninews.in/news/science/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study20200119085547/
+    excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network-a model that is based on the functioning of the human brain- that \"learns\" this process. The study was published in the scientific journal Neurocomputing."
+    publishedDateTime: 2020-01-19T08:30:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/industry/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study/73371825
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/industry/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study/73371825
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/brain-magnetic-resonance-imaging-enhanced-through-artificial-intelligence-study/73371825
     type: article
     provider:
-      name: Asian News International
-      domain: aninews.in
+      name: India Times
+      domain: indiatimes.com
     quality: 49
-    images:
-      - url: https://aniportalimages.s3.amazonaws.com/media/details/41772505464_ac67baac42_b_rzCORue.jpg
-        width: 600
-        height: 450
   - title: "Artificial Intelligence to Improve Resolution of Brain Magnetic Resonance Imaging (1 of 2) (image)"
     excerpt: "The method, designed by researchers of the UMA, enables the detection of pathologies with increased accuracy and definition, without additional tests."
     publishedDateTime: 2020-01-17T15:26:00Z

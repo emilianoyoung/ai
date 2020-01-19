@@ -29,19 +29,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "What Value Does Microsoft Azure Synapse Bring To The World Of Analytics?"
-    excerpt: "Azure Synapse also integrates with Power BI and Azure Machine Learning to gain insights for all users, all the way from data scientists to the business users using Power BI. Microsoft also said Synapse partner ecosystem that includes Databricks ..."
-    publishedDateTime: 2020-01-06T17:17:00Z
-    sourceUrl: https://analyticsindiamag.com/azure-synapse-analytics/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 53
-    images:
-      - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/azure-synapse-analytics-microsoft.jpg
-        width: 800
-        height: 533
 
 secured: "tKmwlZXr1SKKlrAmUpr+42rAXsEsECBMXfGq0VMclu34vKumYPjKKdTrAqp7WthRTwIZYd6NcJLQZEfGt5Bfh84JawMiAgFMWNnKHjFG/CrpkgYrBbiPAEOIeudk1lmWzOXRxbAwO8s3sKJb2PYzGUXylW7QK/Sch8Tp0Gji2eu6jcLmWwTupgo6IFFkiwB1I+pv+Vo8rsU8OoqsKejHPCvOFId/GgEkUUlHR/K/i5VlK+ni1tBETnTLO0UNgcQbusGv0hUpoGiD0F59Eht0asgc0F60J4EQDzd63mB+vHA=;f7DSj85lAHUt/yvFsPKtpA=="
 ---

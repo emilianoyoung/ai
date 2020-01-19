@@ -33,6 +33,17 @@ related:
       - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
         width: 600
         height: 338
+  - title: "Irish AI firm announces new collaboration with Microsoft"
+    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
+    publishedDateTime: 2020-01-10T10:38:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 54
   - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
     excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
     publishedDateTime: 2020-01-06T12:36:00Z

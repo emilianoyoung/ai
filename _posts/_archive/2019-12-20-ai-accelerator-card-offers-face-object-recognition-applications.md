@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-20T00:00:00Z
 sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: SecuriMetrics HIIDE
@@ -23,6 +23,23 @@ images:
     height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
-secured: "W8GikDgdUYvPveGw3A+/bjI44lY3ugdOV7ywDFx6cziEkNs1SLkbgs0XSfE3wnw43CnaxDY3hFJTmMbuE1heFxCorpKS5rKBqXkZv31Tts7pwhYZErdKcSGdz5GVIsC/9HqM7pK0VHyoRbp1rAqo7p2P678gMz0GtaE3JGVDfBP7LmVhvf9f2VcTtdmzjcQoxmmCvlMgF+srFzt09Fx1M2aVirvtNwXB0grhJxWdg2G46djdDMBSl0S2qFD3S+GfI/kC9te8t9TdiLaSMygrmbWCVzVHXESS666S2NESpfM=;qpwXzpxSFakPCf+HfBSEqw=="
+related:
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 31
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--fhLjKD68--/f_auto/p2xfzifpd4u2ghg5oz63.jpg
+        width: 594
+        height: 396
+
+secured: "BHXgYSzO1qlIPtcMqxafDU4RVmyQF80ymn3aw4WQe7htYxTI7k2GtkcBH/+e3EuA6m3XwqTUs4CMPA7CajCVnCrKtNDlba+kAskQSGXL7JhegersKqaWY07Qa/YS7awuNSMwjuWNcOqn2KjG38yuw8TY78jWJewap/fbzHRJ/biFd5OdpB/3kpxdJrf5YeCFfmRbxkpxxMpaV/yU4KIybtNqav7OyQv+h8gLTL8lzPX/pBisbenzHMNnZIQfo39rWzO6Wn1vv7hvD6jQzvEnW5BurfXv/ldgYDJV1+2di7g=;8JuhcEncv1BGgsjDbPV0NA=="
 ---
 

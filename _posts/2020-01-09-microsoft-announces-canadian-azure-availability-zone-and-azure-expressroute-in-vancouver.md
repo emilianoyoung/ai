@@ -8,8 +8,8 @@ ampUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-avai
 cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
 type: article
 quality: 80
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT World Canada
@@ -26,30 +26,45 @@ images:
     title: "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver"
 
 related:
-  - title: "Irish AI firm announces new collaboration with Microsoft"
-    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
-    publishedDateTime: 2020-01-10T10:38:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+  - title: "Microsoft takes Azure to the next level"
+    excerpt: "Also announced at the Connect (); 2018 conference was the general availability of Azure Machine Learning, .NET Core 3 Preview, Cloud Native Application Bundles for distributed apps, Azure Kubernetes Service virtual node public preview for serverless ..."
+    publishedDateTime: 2020-01-04T00:00:00Z
+    sourceUrl: https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/
     type: article
     provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 54
-  - title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
-    excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
-    publishedDateTime: 2020-01-09T14:54:00Z
-    sourceUrl: https://www.autonews.com/ces/ces-conversation-tara-prakriya-general-manager-or-microsoft-azure-iot-mobility
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 46
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
     images:
-      - url: https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tara-main_i.jpg
+      - url: https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg
+        width: 660
+        height: 371
+  - title: "An Introduction to Microsoft Azure and the Microsoft Cloud"
+    excerpt: "Azure is full of services and products, offering a complete solution for any organization and Microsoft is doing its best to ensure that the platform provides for any scenario, especially where big data, analytics, AI and machine learning are concerned. Throughout this guide, you will learn what cloud computing is all about and how Microsoft ..."
+    publishedDateTime: 2020-01-02T17:51:00Z
+    sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 54
+    images:
+      - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
+        width: 1200
+        height: 1555
+  - title: "What Value Does Microsoft Azure Synapse Bring To The World Of Analytics?"
+    excerpt: "Azure Synapse also integrates with Power BI and Azure Machine Learning to gain insights for all users, all the way from data scientists to the business users using Power BI. Microsoft also said Synapse partner ecosystem that includes Databricks ..."
+    publishedDateTime: 2020-01-06T17:17:00Z
+    sourceUrl: https://analyticsindiamag.com/azure-synapse-analytics/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/azure-synapse-analytics-microsoft.jpg
         width: 800
-        height: 600
+        height: 533
 
 secured: "MjelnpB0LqBeWRYX0pQ7n4tuDtrDdN5/HbRV7JJw9xvkYcp9dFgaMoC0CnmD7j/Nil6miHdrcqK2U4W9igrL7CPEi644EqaB+KKtagJSlq17p9m9YWmrsqMplH3SbRNZwrJCofogw/APztg7IBwkYbntGwcdSMfmvNVmh7e+pfRr94wheNYMBxxsrBI+4i28CEaTjX29vkGhdvxsfCrCJgYM2uEtnshsbfD7GjBpIc2bYPV+5D5e46TflgGns7Ax2Dh9OVEjCzrG4KXS1VbLPMdxWRcTepGkD3FxhjHrNp5e68vhxDeU3SdY6Sl9M0meECZVzZWPRoTCh9Y1lPuthUj9OXTL2X1om3AnJbfsB5MKubddW1zu1AGt1wij9ZgngNUx6Z2nzq2mm3HnOdLhFsY/Sa4rj7aXXmb5Bj45/4RCwPS75oGuZMcenNX2FL5JxSRGkm5Sj6tBWAeRCe2MLg==;nNcmAueiPxUmNatqg8QmMg=="
 ---

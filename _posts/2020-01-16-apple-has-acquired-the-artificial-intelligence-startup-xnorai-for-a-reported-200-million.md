@@ -3,9 +3,11 @@ category: news
 title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
 excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
 publishedDateTime: 2020-01-16T14:58:00Z
-sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1/
+ampUrl: https://amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
@@ -21,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: https://i.insider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
-    width: 1200
-    height: 600
+  - url: https://image.businessinsider.com/5ae36d7919ee864e008b4618?width=750&format=jpeg&auto=webp
+    width: 750
+    height: 563
     title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
 
 related:
@@ -171,6 +173,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "4XDLvwKde36mxxZKxxLjaJb6gn0N6ojh0mnahE/U/bTjesT3/AO3EWX2wh78ovu69XCBuyt+BNXvBpb82Si/AsiTXi53jQNyRubv2lK5JN5n7Xa3ewTMUTpwO/7oLJ0lcor5Y+0fo5yWRHOy9W8+erjszY3pkELH5fZvEBcRXo1n5g3yNby8GTEXeKTMI8/hNAA7Qtt9S7Hgc+HrmVdv+wDwjot3MJqoPgB5KK11qgNEeA76ejZpPotXPEgwrcUUWhA3olsXXIdFzNUTCyx6ejP5x97Svaw7+j1j2HGp+LxUKIJo6UAJ+muphq4y61kj85fL5DAZTHETule4yRXGX1yxSOQkgoWlXd+TdtUF/pDK9iy0UPNjdIVykWu4kYEEHxN8ZiEodiZInlkm3jLnqhRup56wEeQxn8IjJAcIsBt6UbuNlo4jtoWYCgH0iaUtYv7ChHRYQ/Pv9ubXR9I3QA==;pOGGiYlNxb3Crui9i/QC5g=="
+secured: "PykXynmqgRmjPueuvO9rDuQCjltU92tm5XKp3ZEXMI2VQ2BJyxJhuobmKNiVz0AuCG0VKOkYkT+B/LPxqmxEGllER8Qav2Yi5iYc+llVGLh2PYpHbucNwBV7DqfUZt9qFk21QmuEa9MeKLmAFHkxye456g6ssXdd1BHNmiqP/E80pIe9RalYD0DhimKRakreWp+fKLhmUQLj7QBtllBEY3y/PiUmko2OIIhnYWuzuIYBl0fN3GhOagkFUR2OyRbKvCDPkx9UF+/Affw7oixTsq+qeAAttOLJTAK2lzownWc=;FSNFB5xsugkuzkW25AaJbQ=="
 ---
 

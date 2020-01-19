@@ -20,34 +20,45 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver"
-    excerpt: "Azure ExpressRoutes, a service that provides a private connection between an organization ... Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. Ottawa will begin piloting its new 311 AI chatbot in the first quarter of 2020. Sanders also said the city is experimenting ..."
-    publishedDateTime: 2020-01-09T21:12:00Z
-    sourceUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868
-    ampUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
-    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
+  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
+    publishedDateTime: 2020-01-06T13:56:00Z
+    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
+    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 80
+      name: Mint
+      domain: livemint.com
+    quality: 58
     images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg
-        width: 620
-        height: 250
-  - title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
-    excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
-    publishedDateTime: 2020-01-09T14:54:00Z
-    sourceUrl: https://www.autonews.com/ces/ces-conversation-tara-prakriya-general-manager-or-microsoft-azure-iot-mobility
+      - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
+        width: 600
+        height: 338
+  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
+    excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
+    publishedDateTime: 2020-01-06T12:36:00Z
+    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
+    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Your Story
+      domain: yourstory.com
     quality: 46
     images:
-      - url: https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tara-main_i.jpg
+      - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
         width: 800
-        height: 600
+        height: 400
+  - title: "ZephyrTel expands collaboration with AWS"
+    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
+    publishedDateTime: 2020-01-06T08:31:00Z
+    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "GFjQJC4GrNkC47aHZx3/VCD6I/0DNbf7Q+3s0qB3p1xmgMMUtXXgdi0zlAfY2dKEHx2dHqe/QAzt/XYcR73ROUayQW0blkSmyIaYE2fuI1i82Aoz810Mp05Xpytz/IQGvg6W9vErD8eEVX1RV3moIYa7hvOcwk51gRb3WNtU+w3DNK9riAxZ0MX9vGpfgp1FycplvLNpS3j7dyEsbPq0ytRHjkYWAMryEgR0igA8aq/7qK2MNX3TbrXA2UKLREh7oWYFKZW8uQ4epaNI2GmKRpIdJIu0JXoqZepYV7bKbmVNxtwDf/G9AlmcUX1LysSBazY6eUKtLNKQISrnYykDmtwF5Nfi1bBoUxNKUT8BXBd1pXQeFNDCcznolH62gCn0g3Y1TWJbmWZcBAeRGt1wFkKQ7zh0XOb/lzou3RlMEI28kkK1fcW/KI3t90IaYfO9ZO5uwAaGGdCSrm1EDLM5Fw==;RGQHv9PhPZuOQheKMq6ezQ=="
 ---

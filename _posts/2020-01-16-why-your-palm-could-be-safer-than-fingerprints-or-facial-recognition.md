@@ -63,6 +63,17 @@ related:
       - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
         width: 300
         height: 250
+  - title: "Australian police using face recognition software as privacy experts issue warning"
+    excerpt: "Privacy experts have described as “very dangerous” revelations an Australian entrepreneur has developed facial recognition technology that is being used by US law enforcement agencies, allowing surveillance images to identify suspects by matching their social media profiles. The New York Times reported on Sunday that Hoan Ton-That - an ..."
+    publishedDateTime: 2020-01-19T08:55:00Z
+    sourceUrl: https://www.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
+    ampUrl: https://amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
+    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 33
   - title: "Voice Recognition Used by Law Enforcement"
     excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
     publishedDateTime: 2020-01-12T08:00:00Z
