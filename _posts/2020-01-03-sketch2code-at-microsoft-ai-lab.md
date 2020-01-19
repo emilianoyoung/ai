@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T09:33:00Z
 sourceUrl: https://www.microsoft.com/en-us/ai/ai-lab-sketch2code
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -20,21 +20,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-related:
-  - title: "Microsoft Introduces Power Virtual Agents, a No-Code Solution to Building AI Bots"
-    excerpt: "Another use case that Microsoft has identified is in the area of Human Resources ... While Power Virtual Agents has been designed to be a no-code tool, it has been built on top of the Azure Bot Framework and Azure Cognitive Services. However, since no code is required to build a bot, a graphical interface is provided in the service that ..."
-    publishedDateTime: 2019-12-30T17:41:00Z
-    sourceUrl: https://www.infoq.com/news/2019/12/Microsoft-AI-Bots/
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 49
-    images:
-      - url: https://res.infoq.com/news/2019/12/Microsoft-AI-Bots/en/headerimage/coverimage-1577724458394.jpeg
-        width: 1200
-        height: 630
 
 secured: "B2vaEguEXE1cK1Oc1Ie2cc1WFSZV3fTVXat4K8tiNO6nnVCk/kf6dbj2LeU7IWk1KOdTye/vTrvBxNVo/znqrooUX/nkz726NAjIekL978QwYKhKoHIiPSKKGNs8wSGrwtU1+Hmi2FChj51v9HWGaDo/i+3L+axnLMiZA6Y367mMy92j9fqPi4rpw9+pofCIhFrUyXvtO2naCXU4ht/B+6lvJqDEk3P2wF/pLlXUqoq+0MjQHKj1RmOQ67SfOW50Wl3GDtNpKznM1ICzCt3UgD76j8Jc5P4WA/QQLty2DNQ=;SRH2P5bFszQBuIfGHSLNpg=="
 ---

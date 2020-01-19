@@ -25,6 +25,6 @@ images:
     height: 595
     title: "Could an AI ‘human’ become your friend?"
 
-secured: "NRmgmjIQlDAeWtndYDakzyBWAsW+1bHfFjLpQytqVKSYGeEha3rIz9HztAvrdwhSK7V6S8HK6EsXfLuDYozFoAZgqTse/aYkAq854N3GSvEvysd/TmFrpksjMPWQqd1MJcVaRDN3sU3WHLh1ipTuc8TFzuG4F5zKUwmLc+GafgCA3bmtY473oxOuIMDFowAJBXlGJKvdmGbY77pJruqEAM4dJU5cYgVH2NpY/LljQ7Z/HT7+kH+ayWYG1lutUWnle4B6ghSJzLEGZB8cgSoWm+jV0V1l/4K2QmGW4hkQjaY=;DmGu+dzqzyb5/poEI8iqiA=="
+secured: "A1xpZeDnu3XX3DCN0RU4wDV2vYSrLS3K22osljaBh7wz9nn2td7WEoHzPenEQF5cJQXuJAMsYNBvwtmfHz7b6P8u+1C0S6yeMCw6p6BPrWP+2+QZxe23MUmAY0uVVbQYZ22O+DBV1BBgccJhJ+B1U0b0FSdF/fGlkUPmE8WJq6dJiaMmkbRb13O1eEci7obTYk+A8HlZ3pS9jcSZR//ycL5ERqhaYzjjA7DACSQWOr3UktFIvrbZIpFRxTswa4nKF6l7KKoR/SbpIcCIzS2lyD2yL/Mp1e4sdLhBixv56bC+oPAVvCTgWy1lBx9DK0F2b0Lf3lDM5Eqh3tKrY+j6VJ8Y+LidJ8sRYhgCo+xYVNQ3biNzaffb1D/NDG5XTL4804mOnCqINQe/w/mxyp8Dhk74EN4OgqAnlPGEwU/9a+uQTsjlRZcilyRxsCl4s+o0sW836tmRJbKcgQhi8kGcCQ==;h1Y6jzcVUXwqsH7upOSkBg=="
 ---
 
