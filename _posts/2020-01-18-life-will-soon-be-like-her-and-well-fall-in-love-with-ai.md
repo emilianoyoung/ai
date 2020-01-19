@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-18T09:06:00Z
 sourceUrl: https://thenextweb.com/syndication/2020/01/18/life-will-soon-be-like-her-and-well-fall-in-love-with-ai/
 type: article
 quality: 69
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 960
         height: 413
 
-secured: "zxiiwMI2F0GOHRiDaAYmT0IDVld0ogcobDcIaWoTW9dNrMv+hRCVPVfTx0ME1uTGlh3sG8fcP7Nm5Nx4iUUEkqAM9lEhGZbQh+wQtX/SOHeNY/IIa+EWWvdGBTLyoLKEbk0RHJXZPtrWMa6a2loBjyDvXLWj8AKQtN+21Or1IRoUUUFT1yhDdVWZNijSY7SktQP2jfJlvGzWIisGt5h1EY+B3kkC/nDSvxOslS7O87w/+L2pumK1qvqjbq6htZIfXbMt0tHXER/YoCBBGqrs4GPSWspY/Cv7ItmLrBV9jWVqOkGi0SzqvBW1fnlqKyL+tWzPtQEPgwH9rKuiTC05TCg6ztEJUQzX1Tr3YH555nmg/cGu5oA5bqpRNY4fIXgvwXAtEA5gCiBs3Batc0tHrUqK3nMQs0ZWEk1Y8vY7g+8aA9yAEEYyYQFeZm3hnwwO9JobU153RfxBLeNf/RTsFw==;n3R0ylbR85+ZnydgjWD7iw=="
+secured: "0tOnjDd85Av8A8ISD0Z5JDGeQWEJz92OYivLLL0quGWt9qZqNV6ip3EmFk9hZSki+Y2b8lvPIFTNYk+cclyFqdXdYKnF+Lxil/MIj7H7azA8kAXfImW14puzPMqqNVOHoXMv8RFCJiybun6ttwDz+6k8vHp6t2ihbxcoAHX9aPl5gbX0X4fiXZo62RUC+1NxKtsrURz5H1o7s60fB7wG+nrnY1JNbtqXROLtdd2qiyGplmfmplJo8kxpYjw85gFpaQ5puwEI/34jZSqozDoh7hZBreMC41v7UmWlPdxThLI4WuP34A/uS3qYykrJnylag4Rx9KqNBt73Ll6eXE2l10h2R/1fJHaOaCjP72PZqnrlEctyAAk7omxIRKJnfWsiW0MdxaREQxGXA2nIUiJGgejIWu5p3As640CZSRiOlVamREALszTjerMXSJbypE9GizOiewcImgKhKovnogZm9w==;TJ9vLLn2qaWWDEtLhlxPAQ=="
 ---
 
