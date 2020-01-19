@@ -10,8 +10,7 @@ topics:
   - AI
 
 images:
-  - url: https://image.freepik.com/free-vector/new-year-2018-calendar-icon_1095-437.jpg
-    width: 626
-    height: 626
-    title: Year 2018
+  - url: https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/AI_Poster.jpg/220px-AI_Poster.jpg
+    width: 220
+    height: 330
 ---

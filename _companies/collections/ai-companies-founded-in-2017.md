@@ -10,8 +10,7 @@ topics:
   - AI
 
 images:
-  - url: https://image.freepik.com/free-vector/2017-blue-background_1051-1022.jpg
-    width: 626
-    height: 626
-    title: Year 2017
+  - url: https://upload.wikimedia.org/wikipedia/commons/f/f5/D%C3%A9tection_de_personne_-_exemple_3.jpg
+    width: 800
+    height: 533
 ---

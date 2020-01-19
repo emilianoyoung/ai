@@ -10,8 +10,7 @@ topics:
   - AI
 
 images:
-  - url: https://image.freepik.com/free-vector/creative-2019-lettering-colorful-style_1017-16132.jpg
-    width: 626
-    height: 455
-    title: Year 2019
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Artificial_Neural_Network_with_Chip.jpg/1500px-Artificial_Neural_Network_with_Chip.jpg
+    width: 1500
+    height: 1200
 ---
