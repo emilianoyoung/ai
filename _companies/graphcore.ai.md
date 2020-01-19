@@ -21,7 +21,7 @@ twitter:
 size: 51-200 employees
 yearFounded: 2016
 locations:
-  - Bristol, Bristol
+  - Bristol, United Kingdom
 
 funding:
   status: Late Stage Venture
@@ -30,6 +30,9 @@ topics:
   - AI
   - AI Hardware
 
+tags:
+  - Europe
+  
 images:
   - url: https://media.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_400_400/0?e=1582761600&v=beta&t=KsG0umxFdcvWPcIPr3sDkYnLYjyUHZQraioRRnGiQO8
     width: 400

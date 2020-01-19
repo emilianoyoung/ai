@@ -1,14 +1,14 @@
 ---
 name: "Rulai"
-overview: ""
+overview: "Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement.  These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning  technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions,completing tasks and learning from live agent:customer interaction.  Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning. For more information please contact www.rul.ai."
 type: "profile"
 heat: 0
 
 website: https://rul.ai/
 
 linkedin:
-  url: https://www.linkedin.com/company-beta/15260840/
-  followers: 0
+  url: https://www.linkedin.com/company/rulai-inc/
+  followers: 1776
 
 crunchbase:
   url: https://www.crunchbase.com/organization/rulai
