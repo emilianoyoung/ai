@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Global Travel Technologies Market 2019-2023| 9% CAGR Projection Over the Next Five Years| Technavio"
 
-secured: "TM8NxmTigjMprkgj7jsPU24TprYsx9JjFdK6q+fR7aOJgkZYFBiA1Lqgir7lCN7+2xonOdyE5aMPYIW2TKZmCF8BfpYROyPBst93f9FnmOWifKgxiTVISJAHN7eZ91HPw0sUGCORevTiSAj9/YtczNiE3bvws8u54zgIj0ONy5llXC9FrSTOhQUG0gcakMDyfei488/DKZeut/ipTOxu9mH9NXCQhiZ+iO/soBTAZ/hROZud1xM8LCA2noT9LpxN9ZghNjED59EfripgPGU9vuL/qVn89r7mfSfmFFqlAtY=;xkzpVBbIznThc0CgqlmvCQ=="
+secured: "vefeBn7ObROzGDizMbYf5QVORvgejUUXeX8IDIzeplJ97WAgO8v9WTNoUYboMeSbcwdyDeK84RAyRbBDqEsUat9m7SvuFh+IeVzuliCij30Ag7Pi/rt6NnGssvpwtcB0dAUEJ10BzjChjuZG7RhQC3QEHxsVF+EjM/6lZg7dMCYKbeN1iyACZQWhNko4iBu2XVTw+R5t/Osaae1X+KMXazI8QOE6cS/ockfNO9AJQT6zfylCOVP+fow4OmT6XAHE7c18/Oon01a2zL81TyJPjT26MaXICB993bYFUAxRbWQ=;1UdXiIpVaHNCsorqoVeQhg=="
 ---
 

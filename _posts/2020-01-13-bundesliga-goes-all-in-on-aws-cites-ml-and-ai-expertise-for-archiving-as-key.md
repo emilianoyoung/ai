@@ -24,6 +24,19 @@ images:
     title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
 
 related:
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
+    publishedDateTime: 2020-01-13T11:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
     excerpt: "It is broadcast on television in over 200 countries and is operated by the DFL Deutsche Fußball Liga. Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics ..."
     publishedDateTime: 2020-01-14T07:16:00Z
@@ -52,15 +65,6 @@ related:
       - url: https://gadget.co.za/wp-content/uploads/2020/01/3922455488_3413e0bd67_b-1000x600.jpg
         width: 1000
         height: 600
-  - title: "Bundesliga picks AWS to deliver real-time statistics, personalised match footage"
-    excerpt: "With Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search historical footage and surface ..."
-    publishedDateTime: 2020-01-13T15:17:00Z
-    sourceUrl: https://www.telecompaper.com/news/bundesliga-picks-aws-to-deliver-real-time-statistics-personalised-match-footage--1322513
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 14
 
 secured: "5B+LQGlBmeCpMvzIes1poroJepaMDYBnBXe40ulDzH+EJGkObA4/CLfegpLe7SnLQ3VbrUmQXXu2PTgwl6MJqGz72TSfnlcq9MoQBWZhNXHQKByN3oR70MIg0YEqHhM8AD+9JQMthf9ReG+1MFkVEYkyqf+ZWd38dtkpflFBUgi05wrDBaeCLzgLg+K5RebvlerMqA0fubbrU0R/zn6L/Ir565GlM5UfEcOCxMr5hakfdNrBHOIhXnMcPlFsJ4BsNxE5zicujTWLoge75NtXU/zxDu0tdyP5TJ+5jzuy66PKFUONIuorN6XavItNz18nqgtkGGtHh40ZL/pC7Jp1oUhRn8OrWC8pkY57ng8bVAT7jGpE8c7X1sxaduN7kI3onVnDfltFF2sXyIb+Epqs5i+mjjvYm7bp5FDFFVzX3E0nLafjYTVUv5fDwPy1IjJu1w/wCft8ZnmWoTu9BcIFuw==;l5bqU3YfD7pmhy2iuJ5/gQ=="
 ---
