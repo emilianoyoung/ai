@@ -54,21 +54,6 @@ related:
       - url: https://www.chicagotribune.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
         width: 1200
         height: 800
-  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
-    excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-    publishedDateTime: 2020-01-19T03:20:00Z
-    sourceUrl: https://www.dailypress.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
-    ampUrl: https://www.dailypress.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
-    cdnAmpUrl: https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 56
-    images:
-      - url: https://www.dailypress.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
-        width: 1200
-        height: 800
   - title: "Opinion: Advances in AI and satellites can help us meet the SDGs"
     excerpt: "The strengths of AI — including automating routine tasks ... and companies open to sharing data must consider regulatory frameworks, data privacy, and ethics. Maxar shares satellite imagery and information to aid disaster response, including pre-event imagery, post-event imagery, and a crowdsourced damage assessment through its Open Data ..."
     publishedDateTime: 2020-01-16T11:06:00Z

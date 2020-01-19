@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T15:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15
 type: article
 quality: 68
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -89,19 +89,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
-    excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
-    publishedDateTime: 2020-01-14T11:14:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-global-industry-analysis-size-share-trends-growth-and-forecast-till-2024-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
