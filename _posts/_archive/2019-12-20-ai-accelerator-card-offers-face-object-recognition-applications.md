@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-20T00:00:00Z
 sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: SecuriMetrics HIIDE
@@ -23,23 +23,6 @@ images:
     height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
-related:
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 31
-    images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/s--fhLjKD68--/f_auto/p2xfzifpd4u2ghg5oz63.jpg
-        width: 594
-        height: 396
-
-secured: "YHqlNwrcHYP6d7h5DsDl4jQUeoaF8nhaLWA18MYUYBDjlgE6K5tYwi5CUg2DcVwv5o2IDC2KU6eAWQRd2IGBTGCnssJhNxiW7z466uHewCH6A5CcJdAQTCpggmOtkmL99THJ4CPZjwV0Zt0ckD4YdCYnXYIpXZA0tID7xPeu1MIchWGAiWCSqiODNN6CXnOo7mUDa+2fr1coXmbKw6KBcnKo/96j1W2cGjsEoE5aBTygbr0Dt6Co+3bFce3pIT62W9vY3xz8t4UChl5DEktJ6YW2ydC9gUR/Sy0uDwEcjFI=;Ii83LaSNj/pnYd2w8MVy/Q=="
+secured: "COdTqjNtnRid3NPtIVuuGWDEJXLgO8ldnpkK5dcr5m9+OySutwI+ZyCyXCHSxJMlgE6cZXJf9xcIWLAanCpAGnWSlhFXXYQjNzbXSrJT8MX2ewezeglc9ATtXTusMF9YfpSxNwQsWumX3OljzBbi3Fet0tSM6Dp2JtfswN5cH69Mtk0ZKLrd2U5V9CycBklJha98V1RbdkVmVVTmOiFz2LaWIxlYRv9TMWKud7O71J86/lr9rZ4hhvKStjxemivmhShL/KptXjTSv6zJKqSydvpDd8Ggl1yXwmqeeQeJwdI=;Kau9SzWLecdQGeOx2887tA=="
 ---
 

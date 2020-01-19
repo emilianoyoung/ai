@@ -1,29 +1,33 @@
 ---
 category: news
 title: "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio"
-excerpt: "Artificial intelligence (AI) is probably today's hottest tech growth trend. Spending on AI systems will soar from $37.5 billion in 2019 to $97.9 billion in 2023 -- that's a 28.4% compound annual growth rate -- according to estimates by research firm IDC."
-publishedDateTime: 2020-01-18T18:07:00Z
-sourceUrl: https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio-2020-01-18
-ampUrl: https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio-2020-01-18?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio-2020-01-18?amp
+excerpt: "Artificial intelligence (AI) is probably today's hottest tech growth trend. Spending on AI systems will soar from $37.5 billion in 2019 to $97.9 billion in 2023 -- that's a 28.4% compound annual growth rate -- according to estimates by research firm IDC. And that's a conservative projection. So it makes great sense for investors to want some ..."
+publishedDateTime: 2020-01-18T22:07:00Z
+sourceUrl: https://www.fool.com/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx?source=eptcnnlnk0000002
+ampUrl: https://www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx
+cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: /assets/images/organizations/fool.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
+  - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553710%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-nvda-stock-nvidia-stock-mu-stock-micron-stock-crm-stock-salesforce-stock.jpg&w=700&op=resize
+    width: 700
+    height: 466
     title: "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio"
 
-secured: "rJsNu4YdI0X8Cy1BGs5HGhsmTTh+P0Q+Z/Hrq2hf4xzBXCSBAfLUgxNIOJ8FDF+hQwQtl5K+4igGNvKV7fbQ/g5M09Nda8Ec3e2PU+FRmSdSMN7ztLnKyQ4BX+AQgToMgURrBEvcMBYdzIUKBAPnHIpfEc8w18etJPWUFujULg2mg/dKoRABJWEQq+wHdBvbWoleTxJOS0YurbpLsVpbywblxGAWL1z47+dkg9DeEx4by8x/QkXa4Q4+dzsYii2lsA5eO7xqUNROoFw9+cyECOC0BJfVDC8eCSMW1fbTrE4=;fifygQ9yCyToTqANdKZiTQ=="
+secured: "GSBi4H5QYQ+g4iOQz1ce4mxGIDmOT3hqXo7lcNSk0oaf6zrbzVvt7abWBxLox8WtLhVk1V6btyt7UCf5hJBDSAOHYX21Yerp+pJ5AIm3GPx0s/JSbsFHyZyY7+z/drRiX1gdWQMuZWZ4fEVTa33vEQYc0wGGqs5RXJ5isqxC25wDXwscV/UewwL4vIFRM9V8Ww9WqMO+Xk9hmt0DpXI+YhVaaDCI0qiLmjwoN6s/Kicq17pa2m8P31QDzrCI0g/Fmy4MQ1Z6wJeIqVzIpN8noKK9ihMNamJoeOkneRJYdVg=;u6p7sDCtoFR61bDTJJdLxA=="
 ---
 

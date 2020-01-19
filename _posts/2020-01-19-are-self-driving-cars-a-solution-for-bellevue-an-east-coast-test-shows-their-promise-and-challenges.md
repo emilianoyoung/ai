@@ -25,6 +25,6 @@ images:
     height: 240
     title: "Are self-driving cars a solution for Bellevue? An East Coast test shows their promise and challenges"
 
-secured: "y+5aXgEBNco+7EB+wq1gCXZ94FnWUisaSwVQt/Mhl7BnJoaBPAPT2rtCNcJI5cbUUQutNL45uwDB6phq424jMg/B51OU09CZIRlGn5jfLuAPErtCSOSTEAQsTpQZFH0c439Bqpq4oWAuDpKpmLf0LcA2cOmn4w5WLCSzj1Atx0n+/mjO9HePwU1XNL+x3PFoj28l8Frlv45mIOHK2HG+vpXl/P/tREMFm07gYucKyt5fajggO27GN8jl5HAgLzQVXe+xxj9U2X27GdO6pOp10hW99CfpqsPtoPKl+WNNwno=;mXdu3QkuuMHbporLCE1jUg=="
+secured: "tkqxSI+BYowZRVePbUlbL6K9taPU+lqv5R7BxZUmXhwOzhnSsNlu7QY5FwkYO3Up56OdIo0e0MM/fa40ivUhz3sF2WIQ31/OBdWHfWrmm4A9sD7Tz1pzIS/P/BcTjQXU0ffruSbtH6YTHzZFH3WBFaAhK4cClbDuRefjcj8hCqBEeuPWNGBsgv72dNH8cxBxardDEs6adU/pRL536bVpHVPZLxzEHyqHPk6fK3OTNlIPhbO9tP8UgUApaIgU6uRj4Ns5NPwAeyx7o5uIh9KEjfbwhGhP5JFqSJeUQPbbzSAWgfSWHUzbZwOdqBJ3zbGcKcQLYC8Th7Ygis0P96UaQsdZyIeAvX2SCBel6i/tgxLcgKaC+EyTUg/85fZ5NaVGF01BduO0wWJQKLpRq7mVui/NQ+N2ZE/iOC6wqgbxl7DzEYPW+QvyRc8K7WU9BlA3iTUdj1t6uQgeJ0jn47uQDg==;jJaNUJXKwc1/OrDppsaqUg=="
 ---
 

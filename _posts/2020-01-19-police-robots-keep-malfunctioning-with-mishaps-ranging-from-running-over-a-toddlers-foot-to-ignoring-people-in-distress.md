@@ -29,6 +29,6 @@ images:
     height: 563
     title: "Police robots keep malfunctioning, with mishaps ranging from running over a toddler's foot to ignoring people in distress"
 
-secured: "nbAUzGYABE9ajHj5810daraDuwRMsXNuWZPU2/okhZ4PWuwWHXv98UOfLwNyg7rBccoAtwYyelznqD0IqMx/3YH1LgP6LbupQAwejBaSDCoFAw90rwseoKEEWKWWD0rqGhzhNmxbOEkCWHP7s9fdebZnGVECIjmmHVvHLZM+Dqj6DEw9b7CdiTJl5U0/7w6qzWl9xiUeNYYQO2a1lHpzmPVodn4TuB3Ym58uztW7M6Zn+wHM8kzhM0P5a4aBLfxls6AaQ5IB+E38w1wm/ae9UycPMR+hM8JiFLW0vLPOcns=;8Skmd5zVLvi1St7/Ueo9yw=="
+secured: "GsUfn/Jcw4LEQyTOWcW/yxp3jHxJ2v3ogn1WJDQaMzOrshKZdkyV2N1og1bJQz1fzrdADS5Olq82v8EBJEQw2oaxrN2uE38lBPqqKSG5FaR7/rN8WlQ99Dxa5myQDwTVseBlMBHEr5gTAs//5McUVwF/iAlfWZHhNb9unbva/vGppadY6oN+NuaxZA4vL3rB+mwso55t+B5z8MrrCwNHzM2qxeyLgylWCUWPFWXHOBNWqoUwQYP1fwMJ+DpvklfEu64MMOsdLYsluurZRb/eMbon5k1Efsw+/i68o/6GwRO+yt4ZVGEX0czYdOldS5XHqO/5iKhCr1UW5IC/kYPK2QCljXl9XKbQ4k6Iv8/iqzQnooZ8+w48sciSMprG9vSozsbP6OG3goUwOZxS8yz4Z24/GaYZUTWe9/kqW9oByr8j3InGeV4bE46+cNT1KqR2BAIj0VdDCf1IAy/SEL4PIg==;Hc2dB/mfrTus7kGftxDEGw=="
 ---
 
