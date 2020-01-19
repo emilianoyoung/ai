@@ -242,20 +242,20 @@ related:
         width: 1029
         height: 630
   - title: "UK police use of facial recognition tests public's tolerance"
-    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s ..."
-    publishedDateTime: 2020-01-16T10:16:00Z
-    sourceUrl: https://abcnews.go.com/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
-    ampUrl: https://abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
+    publishedDateTime: 2020-01-16T20:55:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/UK-police-use-of-facial-recognition-tests-14979724.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: SFGate
+      domain: sfgate.com
     quality: 59
     images:
-      - url: https://s.abcnews.com/images/Technology/WireAP_dd085e0d41e5454f92345ab8045bbbcd_16x9_992.jpg
-        width: 992
-        height: 558
+      - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
+        width: 375
+        height: 211
   - title: "EU considers five-year ban on facial recognition technology"
     excerpt: "The European Union is considering a ban on the use of facial recognition software in public areas as it considers how to regulate the technology. The ban would last between three and five years, although exceptions could be made for security and research projects, according to the proposals seen by the Reuters news agency. The plans have been ..."
     publishedDateTime: 2020-01-17T14:57:00Z

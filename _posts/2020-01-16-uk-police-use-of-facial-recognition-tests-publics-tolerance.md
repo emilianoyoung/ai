@@ -1,28 +1,28 @@
 ---
 category: news
 title: "UK police use of facial recognition tests public's tolerance"
-excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology’s ..."
-publishedDateTime: 2020-01-16T10:16:00Z
-sourceUrl: https://abcnews.go.com/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
-ampUrl: https://abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/uk-police-facial-recognition-tests-publics-tolerance-68321764
+excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
+publishedDateTime: 2020-01-16T20:55:00Z
+sourceUrl: https://www.sfgate.com/business/technology/article/UK-police-use-of-facial-recognition-tests-14979724.php
+ampUrl: https://www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
+cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s.abcnews.com/images/Technology/WireAP_dd085e0d41e5454f92345ab8045bbbcd_16x9_992.jpg
-    width: 992
-    height: 558
+  - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
+    width: 375
+    height: 211
     title: "UK police use of facial recognition tests public's tolerance"
 
 related:
@@ -651,6 +651,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "Im0XdsfONY3Lzgudbw39yfNofZ0Q4RhLBY6CQsb7D8uixNozaO7Vi3/0fiG3yzoykeJkkGCWEFm0Ze7fNSFsaZXpwx+6gcd4pUpwUfXDdwF9O62tbXsVa0Sw3E8d9CAt1pLeWe0bIIuDl7ls3/q3tCqIZPyYwaWX1DMw5i1S2V85g8bw79XZnv7YbU9DVjiU6TPEhBEV7VwyO8JwIieRUyZK68XV5Fb9b5hb5KK09yg/j6c3+iO7+yNijy5LQGxyyRRqqf7ObNHl8B6UL60Sh7IGD6wystevJcKRKqgZVYwitux2CHzsYJQy1zOgS+8MDRg2rqDD2thDTn8Gs1ExH2rpL3PQtQlXV4sDNgpknu61uuy3gztAAFD+tvaYJQdCPp58ywDFNidnnpRrF6Uq8isg+N8QS5UAL73f46Q+MsfczYGmNJ0+u7RJh+K97t/A56hj24b3cHchkeQapCnLaQ==;pjbP2OvQipGaoCERXK/Tpg=="
+secured: "boXGlUYDHocH0Ai4tzcQAlNgOGK3RB+VJmG4LOjeyHyIYkW8kP0qxnSCDrcXllCXDbn2ksHHvKToeEreTlrtY79SEoufSlIaO9HSX7C337xd0srk6wBQB40eosjivh6KjvZmVvitVetlTEH7U7t9qwqwqBwqOop7uFjT8FyFNOm54AGRWteXYXNKVBUDnGCjnFN6TYWcoV9WxLYSbW6oSomwJQerKbPPt/LesazC9ajkgWrF/zmCg793a9/5kKCVLMPAkY71+l0uuhm1vSujtFm5yE1DaFdXPNRp5OBqQUA=;nxzZj+nuk2cto4Kt2ov7WA=="
 ---
 
