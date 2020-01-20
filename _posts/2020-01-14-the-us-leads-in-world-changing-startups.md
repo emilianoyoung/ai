@@ -39,6 +39,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2018/07/space.jpg?w=1024
         width: 1024
         height: 649
+  - title: "Making the world better, one step at a time - your startup fix for the week"
+    excerpt: "For more inspiration, we have a few startup stories to boost your Monday. Zeta is an umbrella platform that provides full-stack, cloud-native, API first services, including a digital core and payment engine for issuance of credit, debit, and prepaid products. Oxford graduate Ashish Airon is today the Co-founder of a profitable AI startup called ..."
+    publishedDateTime: 2020-01-20T00:57:00Z
+    sourceUrl: https://yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv
+    ampUrl: https://yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/indian-startup-wren-zeta-shaadidost-rapidor-grocurv/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 40
+    images:
+      - url: https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/Imageyl7q-15789327307881-1579451072062.png?fm=png&auto=format
+        width: 800
+        height: 400
 
 secured: "4UAlOeNBqv+4f3KmdqbQOjHZV/1RRv2spUhufeDvirkfYHA9kVb8ZsryDkuedLhjGVtxkQomeT42H8aXGC3VB6KtxbuchBD+ByiLMnpInOGn/Hmiqa6VD+ge9lo6xKQkoiMaeZC5TsVi/BE84Rz3E5oCxn9/eWAGtjk6e2SNT5K84LtizSP8vvsSGw3sJkDZCLgopAKEhZYhUKzh0z0BhDW26ViY1TJjjlPUAKTlYnhQ3W0OpF8d/QlLmeL9Q3bvQOS4A+cPyA441IqvF2K+MsSgQdocIN8wcYugbB5gSoJCEKfDRCjU/3TeXJytdBE98yBSfJ6YYqkikTizVhoBB/PND5bpE9Clx8ysUfd45AlkSdlZG+6YQv2vBTuc23hWVIBywrbEFVLQSV6Js22vi90T/zVt1c+2IcPJzQgHpTfQjNw2Mn5ZQGwwPkhqNCtgEKZp6z5gWei3kZDGwTyqfA==;+CBYz84gKvtJrMgAFCEUUg=="
 ---

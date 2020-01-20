@@ -183,6 +183,17 @@ related:
       - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
         width: 730
         height: 467
+  - title: "VW: Fully self-driving cars may never happen"
+    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
+    publishedDateTime: 2020-01-20T00:04:00Z
+    sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 24
   - title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
     excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
     publishedDateTime: 2020-01-16T00:00:00Z

@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-le
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,17 +19,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
-    publishedDateTime: 2019-12-23T17:46:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-
-secured: "whNm9FoIcdxqDSL3rfFiO2ahVEg1rln6otNqXYd1tz0W9GA7UCsCDlg7RIB72YvBPGft58BZlXzKCTfQGt+sEBLvfmmMa4dMVt2aSSRpKKshj55OFgSrXROIbiYhUn/Szf50xpz+JSmHGU3xpAJtEdcAknV2Dqgq6CtZC3vmajo3xp3lZjN1Bnr2jhquG1I7ZyYFplXmp7q7cGiv4Pf13LlyJxOBvF1NQC9qqBR1W/mUMYG/fgO25X2tn18sGXiAtWGarwBpaH1lY12AcDaMYbXAyZLt/F+vx1Cz9+/nKm4=;6Q4pWn1T5SVC562ew9yR3Q=="
+secured: "OKhYryWnZaerrwcRpgo5pdEUBcXTX6LhmHYhI4NPa/OZEOd++FgNYDE+DiuX2JvbUC4axPKpPhdi23m6eepRYLqIkH0BcT3cuWtGNd1doBaFJIT12TIzIDtzhD9qF3ceuUHFc6GWJ8SDOLIsHqpz3LJk9I0yGaG9AaS9TKpl2ao6WLvbL/qw1Fpb7Ym/1Xj/c/tHcPL80iCS//91pjunTR/R3Y+pau0KKX3MyMKKvqebJXRerffek1q5WNeED+ISvh4FxRVygEtXrGEcSV4/4eIJ/unZWpO6TZDSQegcTN0=;faPw4q5doBEOABS4ebwfUg=="
 ---
 

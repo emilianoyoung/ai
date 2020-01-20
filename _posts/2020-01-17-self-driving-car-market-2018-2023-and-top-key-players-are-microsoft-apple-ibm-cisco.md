@@ -177,6 +177,17 @@ related:
       - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
         width: 730
         height: 467
+  - title: "VW: Fully self-driving cars may never happen"
+    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
+    publishedDateTime: 2020-01-20T00:04:00Z
+    sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 24
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
     publishedDateTime: 2020-01-13T00:35:00Z

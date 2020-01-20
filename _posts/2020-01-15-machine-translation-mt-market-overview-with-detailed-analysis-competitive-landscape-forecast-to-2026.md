@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T15:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15
 type: article
 quality: 68
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -119,19 +119,6 @@ related:
       - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
         width: 1447
         height: 908
-  - title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
-    excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
-    publishedDateTime: 2020-01-17T05:32:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 31
-    images:
-      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-        width: 600
-        height: 246
 
 secured: "NIfaWd7qbIxheumzhZ3bhHKgN5GbC97EdIaPcJ4XcdaUbqwcbAbyaYxLVk74AEUJq8MgN/KmgrPeBJSasd4nTBzJ4hnNBgTaI8/jDfrIF/ZLa1laHmDuoh5r2MepyiOqGe4POlyfF5cA81MYeYgSM0vtRD46WRHDpi9qavmSbLK4LJaCAoCRqq07MSO34rdInFxLvLRVQDvgCqFG4fJ3r5yAtUoGwgNT7bslzKdIdKcdbCQu2Q6L0d/NlIBsufb1iIkvPeu0xdHho4msrjlo5Q64ovo3xJIKHCcWwVGqxrg=;dl76G7zJz1T8dZTjVg+Vnw=="
 ---

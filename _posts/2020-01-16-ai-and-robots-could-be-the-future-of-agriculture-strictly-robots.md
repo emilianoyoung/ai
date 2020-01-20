@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/video/farmwise-ai-robots-farming.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -38,6 +38,19 @@ related:
       - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
         width: 645
         height: 350
+  - title: "‘Rise of the killer robots: the future of war’"
+    excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
+    publishedDateTime: 2020-01-20T00:30:00Z
+    sourceUrl: https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg
+        width: 1080
+        height: 564
 
 secured: "e10qPYHnXHnEaagFPXLl3iAsFar6dXHWEBrjhN39EY7B5PPg8Yxe48NAFQGh1umL1R8kTIksGKFG+YgmtPY2GmD3bxaTCBDtkk1UMdhgkxdXKzPpRbnufFB3sxLotr6rfZFk2/f8rPkQ4Kdgai3JOJe0CVZ8DXnm67sfc9jdpbAUaDpCyJaj2VzocQAH4XPZIAbf5pP5OCUG84CctAUiUBQekF8gqgAzzCrsrJZaUjoI0V0zEKMd1m6/In2xMYkGNG5AqZbZgfPmD+hdqu0TPlI9Uwyer1526HZSw5iF+rzv1OUr9PEAulG1LaXtNV/T/DleBiSQ9kZYbn9ju5X3AGBe7XAg0OwebdrHdehAOynhY3Bs2NhsQpUnrO3Y79shUyl7hXTlw2OKgefJP4VHfUfgtFwwlS4wb5iQz7Lji6hJjs+gjvsB8F/6EPjUt+IiUNc26ywmKE846P1U3MNJ6Q==;GCjpYi+fN7UB4zS7Yn1qMg=="
 ---

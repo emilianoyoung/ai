@@ -23,6 +23,6 @@ images:
     height: 534
     title: "MSIX full program is announced, including Facebook’s head of marketing science"
 
-secured: "8cthhyDMpFrzqihfwo1aYbTJYsp0+RoCdnXEIqD5zW+v/MzAfSzVuxSJ14ONAb3hT4vZXxKX4xykTFYsQm59ObCfh3rr4TQhRadwTyCsdPQeoOWleDvzW2wRpcsbHm+fhKkN/6K2JYOgBlM45puGoQrdWrkwzwKAHy3pyjJLlTSNf4Vp0g30IsHORSneWriwgRpg8ZwRhGDhOEyUysdTZkoHRz05mHO4BZP6C8T7ore4IXQfeLBXzHoi+kz5Qtv4SST5SeOOihxfKzfiHTS8XHR0DlUT90y6BjaTsG8Jx9c=;qNRhwYOeJ0UcKHz4PJpHxA=="
+secured: "NQdSU2WAYjx3k3iAftg1+nWSDeBFpePjxqL5MyhJ1u4wBKnGphSjqZREXUKhz/iwnB3bQ1Nlj/Mq9zbnP8gZlv3fv31dZQDhkN/D/7yuLP52nJOV4EeDfkKVQdRWZoCc75mDTfkGDjgC00LkS6Y8dpSnVx3amqVjcQx+vVHnvF5CqQDdsziyWH+f20/MhO7S9QxgPiWfFK9GmMxT1fGyYC+rMjNKGMaJc+kkp6HPe2o9XE/EAuweIHRaoURFVzgZHGVsY9u6nyUFqRGluy80S3FOJL14JE8s3kdNZOSNIjQeJqbyYZ5exB+dFKAymZqlSpT+qlXSI4EUKopPx2u/zADPBARCq+kBnXFN/J+1oooNOp4y3//kidwqPLvXtZrzRHrZPFwPBZtJC/uvdBxfo2+aYPB1EtAoPXhTVV2F1J5rTr43nyby/iLmlJFxhNXEuOoBLgpPBP0KK8onbJQM9Q==;7OIoqkvPNOM6P6Y3diyqjw=="
 ---
 

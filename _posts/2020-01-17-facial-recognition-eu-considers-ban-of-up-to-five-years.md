@@ -2,18 +2,22 @@
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
 excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T13:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51148501
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
+publishedDateTime: 2020-01-17T12:08:00Z
+sourceUrl: https://www.bbc.com/news/technology-51148501
+ampUrl: https://www.bbc.com/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -696,6 +700,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "TJyRIZaR4TWDXE51lBkaDSnvBLGYAnrGR4x0HBRTK4W3NrXauBQopcLxBVIxM1I6+ca3XdBFAuvpqg3HxcEzBKq/InTuv7EZFLGioPul9Jz6ecR4mKkugUE+LT4BHxVl7LgMzCaPLGg7JnQiepwpeNsaKwNLOlP2MOyH1+0/kIdROovVtpxFWONZyEB6QekVZgh+K/aHaTcJ+FgpaAaEIil2CN4UNlgPWwLmAN2gaiPEQzERQsBQIeOc54NB4OJLxVgQP0QTNzblg7ndN5OPoKjePhG9lZjG0FcTpWG26/nAs98skfhIzJHl2O9Ch1H19FRuEgoYy9qKiGThupPVZ/KVViGRx4sjUqklMAYcTSYp2ULm5kBoMvFuYKpr6qTeVgvORcB17JcVrVVeFHyxAuaDQft86LT2//C4ZCqUMlDtBgphCC1s39gnRCwQIcSkiBKHK02Zxg34t8lqb5kAVw==;MTRos3XcKFq7Quug8vdmAA=="
+secured: "bufT3CbV9q1p5Su0C41ysDeqkEcFWjAsi+8qTJB4XdtsDmhA7SKytDPE07FhkmKLrVY81n8OChBd0ohaBksjHNlIz87R1dYbA57rSDxOWLeXdVeTVyrAgoMDbMZqEUM0B3cCjgU1LqlvzEJqdg1w+DAAk2+eyCC6l2of7LKaD0mjNQPUfJIa2u2WseL1EEHUm/5L3f16KylFPbbkfKS71MT+KZGzUET2//nxDZdyYViknh6UD+Hki4oW1t3mgUujgpksW2fCkWfzdUf2WViKdGVLYV87jPgzsHAniwPM6Gc=;isj25mav7ZE14SUUw0hlJw=="
 ---
 

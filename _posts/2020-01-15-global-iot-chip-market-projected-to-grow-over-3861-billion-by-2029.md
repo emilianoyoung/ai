@@ -115,19 +115,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
-    excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
-    publishedDateTime: 2020-01-17T05:32:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 31
-    images:
-      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-        width: 600
-        height: 246
 
 secured: "x3c31YHek7opYGFuF/01xyOmqJ/5PC8LLdGgq2HTAnhFIxnjKZagxXMPhUmhbwukxmrKAiE/YuCiy/Y7ThlA4jHL1sjAVA7AOcuC7WHf+sPaew9IPPBRLcsKkLiLgoPhO1Uns9WdS0OXmxG33w3ZePykx6ej8/Fg1PpHjqKt0WKiOpKMYna7Huf0UEE3RoIj9Z2gQfSUDZMCIIdAE1goB8hH+7oemSCFdT1G2kKaVLYq+EX+MLIDN5TmISJF7IYKKjPQ1FhqQE8kvqIUCiQLJtQYgk+c6525KrTNRy06UnnFhpwSqBe/7gGu5fKAsBjSVIfpDkhYbKqmhh701zB4iCS0M59pQ2SraKqUJF8XDqfc8HEepuWjdKEsHcOvRuHu/jMntzX6JzdRQGFErEXtsReUXJzCCLhrBHylSnnIQclwXeVHyCZlN75EvlDRalUqhg/t8xPJkcRtuffjPOiDlQ==;TVi8dcHNmAIMMyupcuNckg=="
 ---

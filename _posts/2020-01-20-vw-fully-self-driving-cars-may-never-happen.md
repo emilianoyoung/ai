@@ -1,33 +1,23 @@
 ---
 category: news
-title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
-excerpt: "Cruise co-founder and CTO Kyle Vogt said Friday that disengagement reports released annually by California regulators are not a proxy for the commercial readiness or safety of self-driving cars. Vogt, in a lengthy post on Medium, called for a new metric to determine whether an autonomous vehicle is ready for commercial deployment. The post ..."
-publishedDateTime: 2020-01-17T21:35:00Z
-sourceUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/
-ampUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
+title: "VW: Fully self-driving cars may never happen"
+excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
+publishedDateTime: 2020-01-20T00:04:00Z
+sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
 type: article
-quality: 69
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: News.com.au
+  domain: news.com.au
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
-    width: 1024
-    height: 576
-    title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
 
 related:
   - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
@@ -60,6 +50,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/amQzI-xYD7xjc4Nq8Frs_M6vOd0=/2018/10/15/0d11de19-7f2c-4b3a-b33c-ceddafa9d20b/hyundai-kona-electric-ogi.jpg
         width: 1200
         height: 630
+  - title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
+    excerpt: "Cruise co-founder and CTO Kyle Vogt said Friday that disengagement reports released annually by California regulators are not a proxy for the commercial readiness or safety of self-driving cars. Vogt, in a lengthy post on Medium, called for a new metric to determine whether an autonomous vehicle is ready for commercial deployment. The post ..."
+    publishedDateTime: 2020-01-17T21:35:00Z
+    sourceUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/
+    ampUrl: https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
+        width: 1024
+        height: 576
   - title: "Want To Lease A Lidar? Luminar Has Novel Subscription Plan For Its New Self-Driving Car Perception System"
     excerpt: "The upstart lidar maker is expanding beyond hardware with the addition of much-needed commercial software and a computing system that makes its technology plug-and-play capable for autonomous vehicle developers."
     publishedDateTime: 2020-01-09T22:14:00Z
@@ -174,17 +179,6 @@ related:
       - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
         width: 730
         height: 467
-  - title: "VW: Fully self-driving cars may never happen"
-    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
-    publishedDateTime: 2020-01-20T00:04:00Z
-    sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-    ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 24
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
     publishedDateTime: 2020-01-13T00:35:00Z
@@ -221,6 +215,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "So5DoEbFYQ+cl7OAfOXnF4uzZDektSHrRHi0IjMnQ0TmJteR1wkuKWDQgCwYU3oYoCD6lReqFOkpUU0l5fBI72Os9p0XXrAvYl94b/Od/UM4OC26A+wx+A8VpI9flrXQh+dv9+A4r5lf8oU/bnX6Za6xcvGIEkrl7Iqobs8WHlLiZ553ZSgkqnyeAEZzT9mFo1SrCWA9IksiEFqaCF5LllVMbDCf3DSbtgq68PoVy94jZjoz4hduPPB0ILyOvNQJUHVQjPd+73THuM6IhV28ZXPMKzCmOQeebrgmUJdzdGrrwAZK2ieUwtp6XT0FfCi6LNcrZ2GbdgXg//Itxp9FmHzj+ISjIyhVvh7ss8vjWKvt84lrfEg5QoQ/ofF30jow4/PAEqzyrUTqT55uB3SPmwve2xiaKeoRiaK4NtczigwGZf/GjvirN4ND6dblOZ7X3yvsKnbvuMtlluAUiwOzEA==;Xe+6pyDXO761vJ7ra/3hGA=="
+secured: "PCicczW0XN0hUTAI/Y6skZZjFx8PL2VOgDsK/y3khJsAsxI1tSE/HPFsAP6OqZPrNo07My3OEXIXbLIfUYzstxidvSz9Gg/TXlFSNRQdXK28oQS6hFUE+kziGgPA3M4W4k2HJdNjEAh1G4dXDKHhSeL8FG+YEnpPIK7av9Vp5NzsH9/lpldJwowzoBeJ67fAQi4SUdJbc/Zkuj18Bru4Ty9f6dx8fvjNLwFIgnyJaNwxQbhhPe0wtGtP+yn7aofI1BT6Vb//vFZqsRTRJtOwbiGrd8wkQhApLETMef692R0timKHJcjIjDd4LOsp9pBe8HPwcMZg6nm2b7dYk/jePl4WOVB9QefIK9Jf9xXdzs6nbE+Mdffgh088K7AounYapqVJZpOCuEPDCL8OYBmt7tBFtYNOxn4b8TQEHQptElG41HEjsJ+DWxzukYRyFF5m6niyF9BgW4URsCt6RUeNyQ==;zDvPE9PQM42F0zP6z68ySQ=="
 ---
 
