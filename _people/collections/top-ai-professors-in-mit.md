@@ -10,8 +10,8 @@ topics:
   - AI
 
 images:
-  - url: https://web.stanford.edu/group/webdev/identity/public/img/stanford-social.png
-    width: 1000
-    height: 1000
-    title: Stanford University
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png
+    width: 1280
+    height: 662
+    title: MIT
 ---
