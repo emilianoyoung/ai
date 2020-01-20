@@ -23,6 +23,6 @@ images:
     height: 450
     title: "‘Digitisation of soft skills’ will play a vital role in the re-skilling needed for Artificial Intelligence journalism"
 
-secured: "LK2Q90Ca9P4O00kBjFI5zFaXKYrwainwWQXM4PCrZlAVSPScD1yuV4BXg7iAN5Cw2VhJGmXUpLY2u9sHiSDc+kHq8druQCwvYGy3LDhoRxj8D9RxPDwilr9hm4HAblv5mMuOhdoj1wHEM31KQcT9t+1JwxhrwDPk8K6SaI9EhbHkXom51nhkojv1+Y59fWooLjx2WucGRc45QT30JFxwrA9rXHO+IbNs5WEYBzVnb17JaRYhsd50IEhtaHYe1Qxls7bfxojZGZJjf2ol0xsk5OdZ5sZKfMMN3+5F+KvDS+o=;DeFckX6FQnMJNZtOGqOwVw=="
+secured: "wneesiGpDFu8bt9toXd7Od07lvY/huE9qDcTpVqqqEzMOjbr7LUekwSSD2BW5f/V3x4N7hjv88RZ8freUqnaGQdzwbcQQ2LtyNLvdMIhIKhLr1PtI0Hkldh8RlPuTgVX0/uox4QZRu1KhfWhvn0BXP5QbAPRDJKiP/OUKH+cPDEphxGbURC8aKAWsvtqBRnnxQf8HakSNTxRQuKwheerJVdWbknlkrKwj2dTUxGeMltjdGmwFNEh+9SimUbIy+Yk1e/K+joxVXYgYokuIYooojtHz3DkrsF44VrWAX3KrTZSde4Leweo3vEppRNAeAX9sBbc8ExxiY0ITFGYapQb9fiCO2gBgMDAXg/QKsQ+GSEZU40ksP2kI8xiBgX+pM+tndGyjLr+cvAnLwHuWZmHOvD4bQq+c5fFW7qsJihwcATchpr+CCwGyyQwNmm0SyxEm2VzGpiGyWXyGNRHrvHOAQ==;W2iSgXDwMiXNVo51WbpovQ=="
 ---
 

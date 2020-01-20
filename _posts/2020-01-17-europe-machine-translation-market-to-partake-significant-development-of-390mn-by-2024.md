@@ -39,6 +39,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198341263%2F0x0.jpg
         width: 1200
         height: 728
+  - title: "European Union to restrict the development of artificial intelligence"
+    excerpt: "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ..."
+    publishedDateTime: 2020-01-17T13:58:00Z
+    sourceUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/
+    ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png
+        width: 788
+        height: 525
 
 secured: "w0lbmY+TfEJ2HB4pwucepCS8dCn9Fv3IQS/J3fnSJ+EP0huRx3U7/N4DfeczdwDXZipqeTGA/BCbKKXl/6AX6MO0eREPkIwHib0Ko692vfA0a70OdUqjDBHYmS872quA3ai/huQR5i69dt6zJyZNRtAlRUwBfnx83/sbfgx5g52QTHuydRqrPMYrrJkAObbp+kJi0N7tAZJQeHTcjHaXLYHm/H+iCO2qO/wQ+2EdMC4Ho0j+7oW6CK3JSRgsEdbo8dbtTlsjPPKG96+F/wpGcJBONdQTxstUqiCnX8dpyMU=;Ckz786aiv/y17avGQET6Hw=="
 ---

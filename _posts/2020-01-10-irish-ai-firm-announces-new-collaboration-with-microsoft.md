@@ -20,45 +20,50 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
-    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
-    publishedDateTime: 2020-01-06T13:56:00Z
-    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
-    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+  - title: "Artificial Intelligence application with Android using Microsoft cognitive services."
+    excerpt: "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services allows you to recognize computer text, faces, describe ..."
+    publishedDateTime: 2020-01-06T07:22:00Z
+    sourceUrl: https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
+      name: Medium
+      domain: medium.com
+    quality: 92
     images:
-      - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
-        width: 600
-        height: 338
-  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
-    excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
-    publishedDateTime: 2020-01-06T12:36:00Z
-    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
-    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+      - url: https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg
+        width: 540
+        height: 960
+  - title: "An Introduction to Microsoft Azure and the Microsoft Cloud"
+    excerpt: "Azure is full of services and products, offering a complete solution for any organization and Microsoft is doing its best to ensure that the platform provides for any scenario, especially where big data, analytics, AI and machine learning are concerned. Throughout this guide, you will learn what cloud computing is all about and how Microsoft ..."
+    publishedDateTime: 2020-01-02T17:51:00Z
+    sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 46
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 54
     images:
-      - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
-        width: 800
-        height: 400
-  - title: "ZephyrTel expands collaboration with AWS"
-    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
-    publishedDateTime: 2020-01-06T08:31:00Z
-    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
+      - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
+        width: 1200
+        height: 1555
+  - title: "Sketch2Code at Microsoft AI Lab"
+    excerpt: "Computer Vision is a discipline inside artificial intelligence that gives an application the capability to see and understand what it is seeing. Using Microsoft Cognitive Services, we can train Custom Computer Vision with millions of images and enable object detection for a wide range of types of objects. In this case, we trained the model to ..."
+    publishedDateTime: 2020-01-03T09:33:00Z
+    sourceUrl: https://www.microsoft.com/en-us/ai/ai-lab-sketch2code
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+  - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
+    excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
+    publishedDateTime: 2020-01-08T18:46:00Z
+    sourceUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "GFjQJC4GrNkC47aHZx3/VCD6I/0DNbf7Q+3s0qB3p1xmgMMUtXXgdi0zlAfY2dKEHx2dHqe/QAzt/XYcR73ROUayQW0blkSmyIaYE2fuI1i82Aoz810Mp05Xpytz/IQGvg6W9vErD8eEVX1RV3moIYa7hvOcwk51gRb3WNtU+w3DNK9riAxZ0MX9vGpfgp1FycplvLNpS3j7dyEsbPq0ytRHjkYWAMryEgR0igA8aq/7qK2MNX3TbrXA2UKLREh7oWYFKZW8uQ4epaNI2GmKRpIdJIu0JXoqZepYV7bKbmVNxtwDf/G9AlmcUX1LysSBazY6eUKtLNKQISrnYykDmtwF5Nfi1bBoUxNKUT8BXBd1pXQeFNDCcznolH62gCn0g3Y1TWJbmWZcBAeRGt1wFkKQ7zh0XOb/lzou3RlMEI28kkK1fcW/KI3t90IaYfO9ZO5uwAaGGdCSrm1EDLM5Fw==;RGQHv9PhPZuOQheKMq6ezQ=="
 ---

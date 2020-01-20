@@ -35,6 +35,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
+    excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
+    publishedDateTime: 2020-01-14T22:24:00Z
+    sourceUrl: https://www.fieldtechnologiesonline.com/doc/machine-vision-artificial-intelligence-transportation-s-fast-lane-to-innovation-0001
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 13
 
 secured: "lby0qHkp7VHwkxuP1jE3UJNkj7e/b4cPuLkfzYRc6lcy443jQVzso6hPnxBrcJLfkBsPp4yrR3QAq3k9BBMjUcboliAj+PSaKjUGuunnZgOjZaaGfmzAz29xJwCI9/+CJb+z/leEdwQyR1FD3wXv6GzKftgYMlCi1sGHrR1IDUOg5nYv1m2HAvAOS4Tc9V2zACRfdK+oo+NSy+PqL/SHJ0Tr7CosUAMOZwTUe+oaw6lfw4pR+PzaML4PIU1XPcbMPglBfIGz9A8YRie9+5Cakn/jvAV0zQcx8JUX8akEBrKh0y/vXhFyqQJxubmUR+xh4fMfd2BiMvM0J5Um4FScxnUirQIJUPCyFzj759gBNMNEWueUKrloAzVPvjLxkivxbZpxFvKG9hJtpm+zHakMMRKhWt/EoA7lnU03SurTapruK//v1do8/7hTW6Fu+OHY1pyg4+CU/6IBH1YoArHtOA==;YtSJBlKsEzG1i5TlZT76bw=="
 ---

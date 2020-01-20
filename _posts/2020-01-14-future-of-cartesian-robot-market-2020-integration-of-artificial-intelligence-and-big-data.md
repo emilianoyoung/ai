@@ -28,60 +28,60 @@ images:
     title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
 
 related:
-  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
-    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
-    publishedDateTime: 2020-01-20T11:05:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation
-    ampUrl: https://amp.benzinga.com/amp/content/15149083
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
+  - title: "AI and robots could be the future of agriculture — Strictly Robots"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
+    publishedDateTime: 2020-01-16T21:53:00Z
+    sourceUrl: https://mashable.com/video/farmwise-ai-robots-farming/
+    ampUrl: https://mashable.com/video/farmwise-ai-robots-farming.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
+      name: Mashable
+      domain: mashable.com
+    quality: 87
     images:
-      - url: https://www.abnewswire.com/uploads/1579519636.jpeg
-        width: 417
-        height: 455
-  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
-    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
-    publishedDateTime: 2020-01-17T10:49:00Z
-    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
+      - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=
+        width: 1200
+        height: 630
+  - title: "Cultivating robotics and AI for sustainable agriculture"
+    excerpt: "Root works closely with a set of growers who have granted the startup access to their facilities to run product tests. The growers provide feedback on experiments and the types of features they will need for the robotic harvesting system to provide greater value. Root also is using AI and machine learning to teach their robots new tricks."
+    publishedDateTime: 2020-01-14T14:31:00Z
+    sourceUrl: https://www.controleng.com/articles/cultivating-robotics-and-ai-for-sustainable-agriculture/
     type: article
     provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 54
+      name: Control Engineering
+      domain: controleng.com
+    quality: 69
     images:
-      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
-        width: 1000
-        height: 500
-  - title: "Mobile Sales Force Automation Market to Reach $3.68 Billion by 2023 in North America with AI and Machine Learning"
-    excerpt: "/PRNewswire/ -- Booming customer demand for industry-specific solutions, monetization of professional services, and greater use of machine learning"
-    publishedDateTime: 2020-01-14T14:25:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/mobile-sales-force-automation-market-to-reach-3-68-billion-by-2023-in-north-america-with-ai-and-machine-learning-300986675.html
+      - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
+        width: 645
+        height: 350
+  - title: "‘Rise of the killer robots: the future of war’"
+    excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
+    publishedDateTime: 2020-01-20T00:30:00Z
+    sourceUrl: https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
     images:
-      - url: https://mma.prnewswire.com/media/1076432/Sales_Force_Mobile.jpg?w=950
-        width: 800
-        height: 553
-  - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
-    excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
-    publishedDateTime: 2020-01-19T13:36:00Z
-    sourceUrl: https://www.analyticsinsight.net/intelligent-automation-benefits-across-businesses-industry-implementation-and-key-market-players/
+      - url: https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg
+        width: 1080
+        height: 564
+  - title: "‘Xenobots’ Could be Stage-1 of a Real Terminator-Like Robot"
+    excerpt: "Let’s start with first congratulating the group of scientists and researchers who made ... Remember, it’s experiments like these that gave birth to fully self-aware AI like Samsung’s Neon and even Sophia the AI robot. Also Read: Say Hello to Neon: The AI Video Bots That Have Human Emotions With Xenobot, you are seeing the next stage ..."
+    publishedDateTime: 2020-01-20T07:05:00Z
+    sourceUrl: https://www.thequint.com/tech-and-auto/tech-news/xenobot-what-it-is-and-how-was-it-made
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 11
+      name: The Quint
+      domain: thequint.com
+    quality: 39
     images:
-      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
-        width: 1634
-        height: 918
+      - url: https://images.assettype.com/thequint/2020-01/7560f7fe-1cc8-48be-9839-5725cae490ca/hero_image_3.jpg
+        width: 2000
+        height: 1125
 
 secured: "VHS97iqErOfFT9kGqZuXmfmsvWh2BQ01AqLCn3VAYrPiKFQIAg00VuReZHSfG37uezc5Hv1h0EO/DBRRtUWwED0agUFlcLYX6o4ZFyvBgM+P6fyrjGMVrGN2rVyHUhaK/cDXDKIvLLp6jgE617bvmfR5QW/Gn2757KZoItXSOq6ZAu2LV2kuZRcORTnsPxLgYn8+tXYUsAPb91SwCb90DTY543i2Y1boN9cjcV/7MYBcFGMiTzC6VTwR+1LDpYLQVZ538+nJt3aCzNiyr+XJia62HxpjPrPDRaWYT1rifP8=;Al0i1xxQpS7GQE3+llNJ9w=="
 ---

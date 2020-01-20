@@ -20,19 +20,30 @@ topics:
   - Machine Learning
 
 related:
-  - title: "A bioinspired analogous nerve towards artificial intelligence"
-    excerpt: "Like the functions of biological sensory nerves, the proposed APT nerve had the potential to target human-machine interaction based on artificial intelligence, such as user identification, feedback control of prosthesis, and intelligent action of a robot. Figure 4a illustrates a basic process flow combined with algorithmic analysis of ..."
-    publishedDateTime: 2020-01-14T10:25:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-14214-x
+  - title: "Researchers impart new ability to control paralyzed hands via artificial neural connection"
+    excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
+    publishedDateTime: 2020-01-07T19:59:00Z
+    sourceUrl: https://www.news-medical.net/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
+      name: News Medical
+      domain: news-medical.net
+    quality: 34
     images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14214-x/MediaObjects/41467_2019_14214_Fig1_HTML.png
-        width: 685
-        height: 443
+      - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fStroke-620x480.jpg
+        width: 620
+        height: 480
+  - title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
+    excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
+    publishedDateTime: 2020-01-10T06:06:00Z
+    sourceUrl: https://www.openpr.com/news/1893347/artificial-neural-network-market-outlook-to-2027
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "ryfMpylbs7+L6GQDFAm/jxGXP+amyKj/kKPwef9rN9fPhGGcNS6EuEsRIno0dAkPy1JzhYRwsCkhdeUYByseWGV3iS1zbBgAU8ZgQjcp3pYPeUL44ceVTiTS6xnHv4cwb02eziwsq5w4fbDmDyfgmEnT0vhjSq4m8zMcuXL5qSfJGW9ZxsVd8bEP7ah7bErZ0OiZXM05GicM5FqoWOc69XUYXXCKZ28KtKg2tjOF+ZH6GewH+FaT0jq8OZ5J/mkv5EmnQPEtABOvqCCqs1iMN/BHVq65hFAc7Rrl4sFdKLKj97cfMfs6/l94Rz1T1zCh6SvOiUWT7+1Cnd3v+OO51uZXluNxmBIOQEEDWt/WtfeWsiyNZwS+vIDqXpTtHw6qq2M+IQ4c72YrnNx5Ve21V8gJaO0LWrHF28vk49rAXKfahnhY2Zse52jIvHMVklS/Verh9d/fj3Xj/JIF8WP1/Q==;elN+4mFz8W4VeJSRJSyXlA=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/26121
 cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Deccan Chronicle
@@ -26,22 +26,27 @@ images:
     title: "Artificial intelligence can now track down blood cancer"
 
 related:
-  - title: "Artificial Intelligence can help detect blood cancer: Study"
-    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze."
-    publishedDateTime: 2019-12-22T10:51:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
+    publishedDateTime: 2019-12-23T17:46:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
     type: article
     provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 59
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg
-        width: 675
-        height: 365
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T12:48:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
 
-secured: "Z+66xOlCmQzsmsT0u9bp33FaPsbC9jWu2y4Lzt0HjC7rvklpeXjy/fQXOG1rTOlRxAYYhdJXbA9C7uExIz/FDcQAqHZWLMo8OnRUjQgwsVlTGm8csXB+6O0/sonNnXY3xcIq/YFXbUWs2eMz6xxnWYnObo2D+1krQzygwpJHi/WCTNi/9dbRtGdWfkJwDQ4AQirF46eCaK/PZTzEnxFzsZ8hQgB+FJhIafSa6gFd6CTpQNsAuE8s4nTjuotV9z3oOkJp+iVDq0qzf6i/Ky8+oPqaja9PojYREmAoBEnIrbM=;pyYwBk4HO6bK0OIpKhcQdw=="
+secured: "4GvyOwGpBrVs3UXHri7tjbcTiTKYrcNmKNYA6XcyQfND/UxB3BIg0Cww4AC8grPIjSmc2jFZpkH5CdJkplbFzcQ3A7qoQSeczH5RfHcqbYQUnFhd4xLZft/JflJzxBkifG6i5pUiHV8NHiYLb2lh2dIjs8sUyWRNKNyc9vwNNYEU/KQA0g1rlMndjDiGW8vd8X3Wm8cA3IohzBqIfGnyZ8qf33R4OrnYYVbhhJQ4Uzjr4Hz4VpRnioVG00wYNKDa6CIjnci3Zk4z4HWwr6I88TAZHBtxg6hvVROTBMlw6ag=;YE1ZAf8A7s0Jam+Jp+wQsw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-18T09:06:00Z
 sourceUrl: https://thenextweb.com/syndication/2020/01/18/life-will-soon-be-like-her-and-well-fall-in-love-with-ai/
 type: article
 quality: 69
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Life will soon be like ‘Her’ — and we’ll fall in love with AI"
 
 related:
+  - title: "Whoever leads in artificial intelligence in 2030 will rule the world until 2100"
+    excerpt: "A couple of years ago, Vladimir Putin warned Russians that the country that led in technologies using artificial intelligence will dominate the globe. He was right to be worried. Russia is now a minor player, and the race seems now to be mainly between the United States and China. But don’t count out the European Union just yet; the EU is ..."
+    publishedDateTime: 2020-01-17T21:59:00Z
+    sourceUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/
+    ampUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 53
+    images:
+      - url: https://i2.wp.com/www.brookings.edu/wp-content/uploads/2020/01/200117_global_ai_fig2.jpg?fit=400%2C9999px&quality=1#038;ssl=1
+        width: 400
+        height: 857
   - title: "Wild ideas in science: Robots will never think like us"
     excerpt: "They can now classify objects in images better than we can. And as IBM and Google’s DeepMind have demonstrated, they can beat us at games such as chess and Go, and even achieve the highest rank in the computer game StarCraft II. But at the same time, AI systems are inhuman. Even inhumane. Our AIs do not comprehend our world or their place ..."
     publishedDateTime: 2020-01-12T23:00:00Z
@@ -44,6 +59,6 @@ related:
         width: 960
         height: 413
 
-secured: "dfcSRRo8QeoLV+TJWFjJ164YWfHkN/EOcZOC13X5N7OZYjINprXfcotiq1HKs2zXf1NeDYc5Adn4/tVM9d33avYaB0HkvqkWrQ6XC/Y7ZGbrbA/+y6zfC7PhQBv2bvfplcxHjxb6w7iw3O9GmePjw/ErfxBEdRO8Y4jD5ig+ebgeYGLJnbXKQtMCv1zr867k8S6Xv+uS3u55j7shctD+aT1HszOLRzdXbabI5olrkfPgu3++pzRO0plZvAgPhDhP0e2aTURltirOCpasj7ZD4wK+IjW8fpgce4f2tSSK5hITw9vzDPESQvM/TeoyfTKKlbU2tve4I/MW/AsapQeQ2+jrOcKetNZpTy1Shitpfdvkdkhy4PFpPIT+BMCtfckro6kgbVn38NCqY9Y1iSloJKNf4oYbSbr4nC73PBQ2V0gCvgsTdBZzxnLUrE3izBpKx08lx69mpc0uR2S417hfTQ==;im6K4/SJ2KzaaoCvpl1g1w=="
+secured: "VaEHIp6Ebi94EL2nPGuDoBCy3CMDuWDgqXl4MWlyR60IIU+QzXSKyqEa0sLHYuA/oOe/PBPkFrI/tcYSwY5T3/Ck1c3yXjexO/VF60namEyuWdC8rZidyVJPU7eGdLkuhPaYP515epDjabTAm0IXiGNxR2ukEMkVblLMGiLNse3BvPg9QzE9fg4FVquQXTvJ6jHhdjrQEx1m7mOCAfDeWP1ChJdvV5+8v9G/XcxdCnGbCJOrjgVM8B4UDP5SJoTFLNsMQrIfAL+e5sF2vDpLO6sPIhKg9FZ2dUvlPbtmQzCaji5TPLP6frQ1DXMx55CeAv3vj2GI/L0Hqj0hFPilLc2BXt78XErJulZLtj2U4E8Dfeu5JVBMtUcforedFCFv8cDnE+e66Dtea78i2hAasuu6KnSNh26/dHS6gj881LvhL6ZPvixjdkEBXXMi4g+eYO+2d+kmDs9rpqMe0a5xbg==;cwlbFEoZ/OkOa6n8ebpE9Q=="
 ---
 

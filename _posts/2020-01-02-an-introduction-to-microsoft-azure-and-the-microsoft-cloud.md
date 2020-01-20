@@ -37,6 +37,17 @@ related:
       - url: https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg
         width: 540
         height: 960
+  - title: "Irish AI firm announces new collaboration with Microsoft"
+    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
+    publishedDateTime: 2020-01-10T10:38:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 54
   - title: "Sketch2Code at Microsoft AI Lab"
     excerpt: "Computer Vision is a discipline inside artificial intelligence that gives an application the capability to see and understand what it is seeing. Using Microsoft Cognitive Services, we can train Custom Computer Vision with millions of images and enable object detection for a wide range of types of objects. In this case, we trained the model to ..."
     publishedDateTime: 2020-01-03T09:33:00Z

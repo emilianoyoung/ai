@@ -45,19 +45,19 @@ related:
       - url: https://tr2.cbsistatic.com/hub/i/r/2019/09/25/ad9f6a19-686a-4383-b9e0-4d5cca38d599/resize/1200x/ee305c191ab3d54326490b6d17feb414/istock-512454930industrycloud4.jpg
         width: 1200
         height: 799
-  - title: "Computing's AI & Machine Learning Awards 2020 are now open for entries"
-    excerpt: "Artificial intelligence is the major topic dominating the IT industry today, and there are hundreds of companies competing to be heard. We're proud to announce the return of Computing's AI & Machine Learning Awards to identify the frontrunners from the rest of the pack. We have 28 categories this year covering AI tools, projects and services ..."
-    publishedDateTime: 2020-01-20T11:00:00Z
-    sourceUrl: https://www.computing.co.uk/ctg/news/3085084/computings-ai-machine-learning-awards-2020-are-now-open-for-entries
+  - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
+    excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
+    publishedDateTime: 2020-01-10T22:21:00Z
+    sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
+      name: InvestmentNews
+      domain: investmentnews.com
     quality: 54
     images:
-      - url: http://www.computing.co.uk/w-images/ec985e82-f2fe-42c9-9922-b38973adf831/3/AIMachineLearningAwardswinners8EBTICandBT-370x229.jpg
-        width: 370
-        height: 229
+      - url: https://s32566.pcdn.co/wp-content/uploads/2020/01/CoverStory-image-20200113-900x600-1.jpg
+        width: 900
+        height: 600
   - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
     excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
     publishedDateTime: 2020-01-20T09:12:00Z

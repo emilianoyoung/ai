@@ -18,67 +18,32 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
-    excerpt: "An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins."
-    publishedDateTime: 2020-01-06T19:47:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
+  - title: "Researchers impart new ability to control paralyzed hands via artificial neural connection"
+    excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
+    publishedDateTime: 2020-01-07T19:59:00Z
+    sourceUrl: https://www.news-medical.net/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 92
+      name: News Medical
+      domain: news-medical.net
+    quality: 34
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI"
-    excerpt: "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),"
-    publishedDateTime: 2020-01-08T07:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08
+      - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fStroke-620x480.jpg
+        width: 620
+        height: 480
+  - title: "An artificial neural connection allows a new cortical site to control hand movements"
+    excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science, showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
+    publishedDateTime: 2020-01-07T15:39:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.html
+    ampUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Neural Network Software Market Is Thriving Worldwide with Google, Neurala, IBM Corporation, Microsoft Corporation"
-    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Neural Network Software Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Neural Network Software Market and factors such as driver,"
-    publishedDateTime: 2020-01-08T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-is-thriving-worldwide-with-google-neurala-ibm-corporation-microsoft-corporation-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
-    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
-    publishedDateTime: 2020-01-06T17:45:00Z
-    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 42
-  - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
-    excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai ..."
-    publishedDateTime: 2020-01-09T13:50:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chipsets-worldwide-market-study-2019-/2020/01/09/9079053.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
 
 secured: "bUMRcLbENIzYMDuO+QcMgU/xS0GaPyjKe0kJ/yhtZdEYTQIpK1gZWzB1PZ/0Gy2pLaUKPlsxkxzAwbQ2gOTCGrTSoy9qgFP6YAunu+e9+XGHSPoBYunZNkOxC0SdgcF9EtHmZSAwMaNU+o12W7xLn2egww9lCF9q1qhZZxhhls3yLUVJq6paf53QJi/mKeKHqeGmuvV0fibLaejGUy1NNoLsaNfEu1siUBIC10Bqd/TdZYfEY8kAwe1m2fY2CQZXVg+QypYhobKq3w2c1F5C/8d7J/Af20bDhIzyESVahK4=;3E4mvDvLkyEkFgcqkDz99g=="
 ---

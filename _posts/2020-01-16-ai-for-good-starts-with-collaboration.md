@@ -59,6 +59,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1999%252C1250%252C0%252C82%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1001%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-12%252F75e192d0-1788-11ea-bd6d-8c627f5d6001%26client%3Da1acac3e1b3290917d92%26signature%3D0f5131d5cb20591e0ad29fe556c9cce65e962445&client=amp-blogside-v2&signature=2e2945736063afc22e912be615a0a4c644f042ff
         width: 600
         height: 350
+  - title: "AI2 Incubator hatches a $10M fund for AI startups with support from big-name VCs"
+    excerpt: "The AI2 Incubator program draws upon the resources of the Allen Institute for Artificial Intelligence in Seattle. (AI2 Photo) Seattle’s Allen Institute for Artificial Intelligence is kicking things up more than a notch for AI startups with a $10 million pre-seed fund for its incubator program. The AI2 Incubator’s fund is backed by some of ..."
+    publishedDateTime: 2020-01-16T14:40:00Z
+    sourceUrl: https://www.geekwire.com/2020/ai2-incubator-hatches-10m-fund-ai-startups-support-big-name-vcs/
+    ampUrl: https://www.geekwire.com/2020/ai2-incubator-hatches-10m-fund-ai-startups-support-big-name-vcs/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai2-incubator-hatches-10m-fund-ai-startups-support-big-name-vcs/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 82
+    images:
+      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-ai2x-630x405.jpg
+        width: 630
+        height: 405
   - title: "Seattle AI startup drew interest from Amazon, Microsoft, Intel before selling to Apple"
     excerpt: "(GeekWire Photo / Taylor Soper) Apple wasn’t the only tech giant eyeing Xnor.ai. GeekWire broke the news on Wednesday that Apple acquired Seattle startup Xnor.ai, paying around $200 million for the three-year-old company that specializes in low-power, edge-based artificial intelligence tools. Exclusive: Apple acquires Xnor.ai, edge AI spin ..."
     publishedDateTime: 2020-01-16T18:37:00Z
@@ -89,6 +104,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/AI2-Incubator-Team.jpg?fit=1800%2C900&strip=all
         width: 1800
         height: 900
+  - title: "Apple Buys Another Artificial Intelligence Start-Up"
+    excerpt: "CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks. Apple's latest acquisition is all about low-power edge-based artificial intelligence (AI). Here's what investors need to know. Apple chip exec Sri Santhanam detailing the A13 Bionic's machine-learning capabilities in September."
+    publishedDateTime: 2020-01-17T13:12:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: https://g.foolcdn.com/editorial/images/553773/apple_keynote-event_sri-santhanam-a13-bionic_091019.jpg
+        width: 3008
+        height: 2000
   - title: "Apple snaps up artificial-intelligence startup Xnor.ai for about $200 million: reports"
     excerpt: "Apple Inc. has acquired artificial-intelligence startup Xnor.ai for a price near $200 million, according to reports Wednesday. The acquisition, which"
     publishedDateTime: 2020-01-16T01:19:00Z
@@ -152,15 +180,19 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 37
-  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
-    publishedDateTime: 2020-01-16T11:29:00Z
-    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+  - title: "Apple News: Why The Tech Giant Bought Another Artificial Intelligence Start-Up"
+    excerpt: "acquisition that investors have caught wind of ( Spectral Edge, to bolster the company's computational photography). CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks."
+    publishedDateTime: 2020-01-18T12:10:00Z
+    sourceUrl: https://www.ibtimes.com/apple-news-why-tech-giant-bought-another-artificial-intelligence-start-2904861
     type: article
     provider:
-      name: insider
-      domain: insider.com
-    quality: 24
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 33
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/10/06/apple-10-6.jpg
+        width: 800
+        height: 600
   - title: "Apple buys AI startup Xnor.ai for around USD 200 mln - report"
     excerpt: "Apple has added to its portfolio of artificial intelligence assets with the acquisition of Xnor.ai, a Seattle startup specialised in low-power, edge-based artificial intelligence tools, for around USD 200 million, GeekWire reported, citing sources with knowledge of the matter. Neither Xnor.ai nor Apple gave a comment on the matter. Xnor.ai co ..."
     publishedDateTime: 2020-01-16T08:16:00Z

@@ -32,16 +32,16 @@ images:
 
 related:
   - title: "Amazon’s AutoGluon automates deep learning for devs"
-    excerpt: "Amazon has created an open source toolkit for automated machine learning, called AutoGluon, designed to make it easier for software developers to take advantage of deep learning models in their applications. AutoGluon is intended for both machine ..."
-    publishedDateTime: 2020-01-10T11:04:00Z
-    sourceUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
-    ampUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+    excerpt: "Amazon has created an open source toolkit for automated machine learning, called AutoGluon, designed to make it easier for software developers to take advantage of deep learning models in their applications. AutoGluon is intended for both machine learning experts and beginners, the company says. Officially launched January 9, AutoGluon lets ..."
+    publishedDateTime: 2020-01-10T11:15:00Z
+    sourceUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
+    ampUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+    cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: ITworld
+      domain: itworld.com
+    quality: 59
     images:
       - url: https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg
         width: 1200

@@ -33,6 +33,15 @@ related:
       - url: https://media.nature.com/lw1024/magazine-assets/d41586-020-00002-x/d41586-020-00002-x_17557546.png
         width: 1024
         height: 576
+  - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
+    excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
+    publishedDateTime: 2020-01-14T22:24:00Z
+    sourceUrl: https://www.fieldtechnologiesonline.com/doc/machine-vision-artificial-intelligence-transportation-s-fast-lane-to-innovation-0001
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 13
 
 secured: "h0oFhZ7n0SR2VKjOia/aTbH+hQvyQNdeDz0XoE6E8xZPLA53EQ8evroujELnOxbDHDyWZkLsl9EKNTaaXekHRfZ1OxfZxVWMk8hof9CN6FY/b0dXFq1UdVV3pxiNcic4R8GhJ2alTkq+m0g0XKsQanAOOClF7HTzYwu9zZ/YdGqWV4qjoyQKwGHxSwJrY2uC1j/nuvL2ivW0wyo+Vc66cVjxfBVyIWEH3mT/EUItpVKc+QseImeXZXLnz+tDxFLsUruQ9n+ZMn+d7eJZrUAAHB2kUWoGkbbAz/jD8UUdlECE1xR0F1uIF8SSBzP9HzYbd4zDiyuzSsl7myW0KNXlKBMLVDviWZLx+4FaGfMI6yM59ko7tWeoJZoSqHfhA1V0fcCC4utiGz/e0F3xUbpbNvaxpAwFIdbgdfWZ2iwkpDQyWlnFvwJrS8QT+23lZRDxK2m90/smQYwbJFHUmuB53g==;zl2kZBOnhgbg+VAmNUioug=="
 ---

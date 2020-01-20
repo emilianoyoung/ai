@@ -97,6 +97,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence and Machine Learning"
+    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
+    publishedDateTime: 2020-01-13T17:47:00Z
+    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 56
+    images:
+      - url: https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg
+        width: 1500
+        height: 1038
   - title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
     excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
     publishedDateTime: 2020-01-15T19:00:00Z

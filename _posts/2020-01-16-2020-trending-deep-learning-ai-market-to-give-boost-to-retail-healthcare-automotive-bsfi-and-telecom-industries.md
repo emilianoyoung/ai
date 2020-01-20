@@ -89,6 +89,19 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
+  - title: "Artificial Intelligence and Machine Learning"
+    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
+    publishedDateTime: 2020-01-13T17:47:00Z
+    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 56
+    images:
+      - url: https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg
+        width: 1500
+        height: 1038
   - title: "Understand AI and Machine Learning With This $40 Training Bundle"
     excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
     publishedDateTime: 2020-01-16T16:00:00Z

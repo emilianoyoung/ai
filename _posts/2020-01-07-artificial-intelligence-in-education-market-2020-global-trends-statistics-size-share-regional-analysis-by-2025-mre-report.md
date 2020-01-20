@@ -43,19 +43,19 @@ related:
       - url: https://www.grandviewresearch.com/static/img/research/us-artificial-intelligence-in-healthcare-market.png
         width: 600
         height: 300
-  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
-    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
-    publishedDateTime: 2020-01-08T05:29:00Z
-    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
+  - title: "PROTXX Launches Collaboration with Alberta Healthcare and Machine Learning Innovation Ecosystems"
+    excerpt: "/PRNewswire/ -- Silicon Valley-based digital healthcare technology pioneer PROTXX, Inc. today announced a broad collaboration with Alberta-based"
+    publishedDateTime: 2020-01-14T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/protxx-launches-collaboration-with-alberta-healthcare-and-machine-learning-innovation-ecosystems-300985235.html
     type: article
     provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 39
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
-        width: 599
-        height: 450
+      - url: https://mma.prnewswire.com/media/1065213/PROTXX_innovations.jpg?p=facebook
+        width: 1000
+        height: 524
   - title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
     excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent."
     publishedDateTime: 2020-01-08T12:11:00Z

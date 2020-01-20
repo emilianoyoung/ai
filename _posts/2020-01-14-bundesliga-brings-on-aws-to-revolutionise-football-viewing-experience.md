@@ -8,7 +8,7 @@ ampUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-re
 cdnAmpUrl: https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
 
 related:
-  - title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
-    excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-    publishedDateTime: 2020-01-13T15:31:00Z
-    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 51
-    images:
-      - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
-        width: 600
-        height: 378
   - title: "Bundesliga plans to “revolutionise football viewing”"
     excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search ..."
     publishedDateTime: 2020-01-18T05:48:00Z

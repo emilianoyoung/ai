@@ -29,21 +29,21 @@ images:
     title: "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia"
 
 related:
-  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
-    excerpt: "Apple has purchased Seattle startup Xnor.ai, a company that specializes in on-device artificial intelligence, reports GeekWire, citing sources with knowledge of the acquisition. Apple is said to have paid around $200 million for Xnor.ai, and while both Apple and Xnor.ai have declined to comment on the potential acquisition, much of the Xnor.ai ..."
-    publishedDateTime: 2020-01-15T18:01:00Z
-    sourceUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/
-    ampUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
-    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
+  - title: "Apple buys Seattle-based artificial intelligence company Xnor.ai"
+    excerpt: "Apple acquired Seattle-based artificial intelligence company Xnor.ai, bringing on more talent in a key area of technology. The company, founded in 2016, had raised millions of dollars to build tools that help AI algorithms run on devices rather than remote data centers. In recent years, Apple has pushed to run this type of software on its ..."
+    publishedDateTime: 2020-01-15T18:35:00Z
+    sourceUrl: https://www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/
+    ampUrl: https://www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/?amp=1
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 72
     images:
-      - url: https://images.macrumors.com/article-new/2020/01/applexnoracquisition.jpg?retina
-        width: 1600
-        height: 838
+      - url: https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg
+        width: 780
+        height: 501
 
 secured: "coLBcDu2XVgtO9qs2OEn4fp7wa/U69D86QXUF+y1LwG7KNgC/f7Nq9fKfSmTSpqRf/Zu1GHFK+gN7k8vo+FMD+rvWuSWp5oq24ieIKMxxnlJDYv0CYLALv8GqkQ/EoCZ3mh9oP2Ep305Nvrq25cpULaDQde8P9pK2k7Aj8h1lgN1m1ppf53O4075+fnDqVOgR08ZxfuExBNidFvcvN3U6VblSs3LfURwdsDp49TkQIH3OtjZs3gPo11kNYONtnrko6H2R7rKPgoNDftLW02olG4aktR8q6m6JxoHOydE24bQCs3PZJMZbBWsQjWX07NpcE8Rv03zn1huiYHX+Z92WNd53nKg3nYHg2caZuD1YXPpECs97h0ugk0FXFAhJarrf/K2sy/YM6GH8BT/jGUal2V+79/kWYBx65k7aFoU8tHUsySdXa/ItZVTpMMLFSs+5osssfEna5rMVVnCg52JCg==;2KkLolTZMwZf0MABbn9G6A=="
 ---

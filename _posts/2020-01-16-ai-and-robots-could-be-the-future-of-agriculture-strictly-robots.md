@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/video/farmwise-ai-robots-farming.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -25,6 +25,19 @@ images:
     title: "AI and robots could be the future of agriculture — Strictly Robots"
 
 related:
+  - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
+    excerpt: "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027."
+    publishedDateTime: 2020-01-14T10:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Cultivating robotics and AI for sustainable agriculture"
     excerpt: "Root works closely with a set of growers who have granted the startup access to their facilities to run product tests. The growers provide feedback on experiments and the types of features they will need for the robotic harvesting system to provide greater value. Root also is using AI and machine learning to teach their robots new tricks."
     publishedDateTime: 2020-01-14T14:31:00Z

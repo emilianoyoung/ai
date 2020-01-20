@@ -25,6 +25,6 @@ images:
     height: 338
     title: "Opinion | Machine learning reveals computers as bad students"
 
-secured: "XGjkNF4r+JXCH5uIYYrW8oW8f9dm3AKPmqfCzwntUi252vvErvjx3ZuSDGVx3H2F4wt214f8fd9FPL/SZLFT0PwEo6wUjJdmJ0anZUQtQOPnI9dfguZeHGRlesKqKizEeorCdUKTJ16ODsE0jL+DctukPX2yL78fEkdwstRJqtBbKlI3cETJ1umw4tdu98BUQKuqw+hVscSlgmoLehJxDf1REmAiNf/dqG8Zg0QL/3b4ZvMty/0OgZtxGaOZvfy9GPX8rXqo/n4C7a06RlNsYGSZdC866CVha7t3kS8auG0=;6isG3voT6ILLR0Tx3E8vaQ=="
+secured: "+HqbKFQpD3/2L+hwC0N5YsZ6wxbMRGPCA7DWhmjCJHkU5bWTYf9gh5NiiNADwaL3Pz2BdFvs/JJXZIVN2QQW8322eBkJo9ft6EGzOFTSQQdd0D+7/0HuxV7t7Fakc6YlNjd+6a/Y2NfW1FLnGQgqy2MQrh7syu/1Qz0qHSHw5oLUmtHsh+ZW2luprB0m0aKG/yuzPC2f4ySPkeLVKNmKeZ8ys1d+6cQGLYWaRgc47xlXdrEf4g9agKv5b6fKX6aaTEbvHhzmL7IqOHRyDUseFyoGUlYoNEOqbxrmQzOBJgHYmbk+129On1Rt31/b5KRi1Tal3D7QZd+8uo2rVYCCceFUpHF4zJph/wFs11NzS2wxU8Jj0VUmSMNo+31cy0ncPygjbRheML6VP8tdR/YIMGRCG3AcS6ZYtj1uR29H2yqp3SnFExvv7Yws3SnqZQ6riGioVoAbYqzIJkVobT1pKw==;qc/t1cyquJerAaPm0GRyRQ=="
 ---
 

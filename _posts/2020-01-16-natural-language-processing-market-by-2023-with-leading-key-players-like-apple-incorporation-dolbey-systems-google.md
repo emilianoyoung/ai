@@ -27,30 +27,6 @@ images:
     height: 630
     title: "Natural Language Processing Market by 2023 with Leading Key Players like Apple Incorporation, Dolbey Systems, Google"
 
-related:
-  - title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
-    excerpt: "Advance Market Analytics released the research report of Global Automotive Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Automotive Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
-    publishedDateTime: 2020-01-20T16:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Neural Network Software Market Is Booming Globally with Top key vendors Google, International Business Machines, Microsoft"
-    excerpt: "Neural Network software is used to simulate, research, develop, and apply artificial neural networks, software concepts adapted from biological neural networks, and in some cases, a wider array of adaptive systems such as artificial intelligence and machine learning. Apart from this, the research report offers the vital key segmentation of the ..."
-    publishedDateTime: 2020-01-20T10:19:00Z
-    sourceUrl: https://www.openpr.com/news/1900816/neural-network-software-market-is-booming-globally-with-top-key
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-
 secured: "TZQz/LFJqagZz2mWNi909fgJpAKD+F/mYys4idkQhCL/R5RSH5VGGq8yQHkENmNrQDKDUvG1TfLGSKII4S7p19OGXb3ca00kM0m3AE5VuH0rUI2IuECMmGW/iKdyXCQQbKW4kuKvxqF7OrNvn75UYZxVmSIkwlfDAZMNEuHcACPkq6ZYN1Y1MEgjod7/MThzc8y8KN8Q00N+TslrzciFaIGjdOs6gHn9hhe4zBsMzqMBKpwxntFFn+AaSr57W/WIusXUskonrn4acvNf8zp07GnBS7Kt+ekwObCdz55Amw4=;1S7ULngLe5zO5LZmV2q7vw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T08:03:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,30 +27,84 @@ images:
     title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
 
 related:
-  - title: "AI-Powered Storage Market 2020 – 2025: Business Profit Growth, Statistics, Competitor Landscape, Top Key Players and Industry Trends"
-    excerpt: "“AI-Powered Storage Market” Global AI-Powered Storage Market is expected to grow from USD 10.71 Billion in 2018 to USD 25.05 Billion by 2025, at a CAGR of"
-    publishedDateTime: 2020-01-20T08:55:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15148714/ai-powered-storage-market-2020-2025-business-profit-growth-statistics-competitor-landscape-top-ke
-    ampUrl: https://amp.benzinga.com/amp/content/15148714
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148714
+  - title: "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026"
+    excerpt: "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,"
+    publishedDateTime: 2020-01-15T15:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: https://www.abnewswire.com/uploads/1579513552.jpeg
-        width: 489
-        height: 288
-  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
-    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
-    publishedDateTime: 2020-01-20T10:41:00Z
-    sourceUrl: https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
+    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
+    publishedDateTime: 2020-01-13T20:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-01-16T10:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Software Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
+    excerpt: "Kenneth Research provides an extensive study by our analysts which offers forecast assessment by correlating the historical data with key market dynamics. The Artificial Intelligence Software Market further includes trends and opportunities that are highlighted,"
+    publishedDateTime: 2020-01-16T04:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-software-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
+    excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
+    publishedDateTime: 2020-01-14T05:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
+    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
+    publishedDateTime: 2020-01-15T22:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
+        width: 1447
+        height: 908
 
 secured: "B762JcIsFRdFiH3gqru/2QvhX1EI1BXeNxkMyaI9Cof/khsC+czjqtGXuR0KrtvBHyfwYkSZ7836CX/UB12RghsFNoRmavVE/CbXCj608WWRrV6xdpxrFbJgiCnL07tbelzOOfo5K+cAhdIBbUHCW2ZPUw/DmYou2283cXtgP6K+COC7IJ1WxS0SS2F0qD8NuEhXp5c5qifhh6N+/MlGNGNywQVhKNnTLPMQuj2ALKw50bvO6dt5NZ2PyEn+p/58vo9a9QthuUJNOCMNoCSysrywn+rwumITcvMElk6zsPQ=;dgE1ABzD23WCBEc3ULpPSg=="
 ---

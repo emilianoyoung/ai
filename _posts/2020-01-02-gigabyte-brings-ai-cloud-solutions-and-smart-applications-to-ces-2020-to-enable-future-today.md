@@ -39,6 +39,19 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Artificial Intelligence(AI) applications in Higher Education Business"
+    excerpt: "Artificial Intelligence/data science has become widespread phenomenon in recent times. Every industry and sector tries to apply AI in its domain to solve problems. The range of AI applications vary from very fancy applications like ‘driverless car’ to ..."
+    publishedDateTime: 2020-01-06T07:08:00Z
+    sourceUrl: https://www.cioapplications.com/cxoinsights/artificial-intelligenceai-applications-in-higher-education-business-nid-5508.html
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: https://www.cioapplications.com/newstransfer/upload/cm4tplklk.jpg
+        width: 450
+        height: 308
   - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
     excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
     publishedDateTime: 2020-01-06T02:34:00Z

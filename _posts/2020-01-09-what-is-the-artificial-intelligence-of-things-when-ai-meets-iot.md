@@ -28,62 +28,62 @@ images:
     title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
 
 related:
-  - title: "6 ways that Chinese tech is ahead of the rest of the world"
-    excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
-    publishedDateTime: 2020-01-04T12:00:00Z
-    sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-    ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+  - title: "Meet the robots that may be coming to an airport near you"
+    excerpt: "Robots are staffing airports around the world and performing such tasks as check-in, security and concierge services. Nearly half of the world’s airlines and 32% of its airports are seeking a partner to further investigate robotics and automated vehicles in the next three years,"
+    publishedDateTime: 2020-01-11T20:31:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/meet-the-robots-that-may-be-coming-to-an-airport-near-you.html
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
     images:
-      - url: https://cdn.mos.cms.futurecdn.net/nMTQhMT2WkxcBGvCZcE9qL-1200-80.jpg
-        width: 900
-        height: 506
-  - title: "Meet the 11 power players of Amazon Web Services who helped build it into the biggest cloud business in the world"
-    excerpt: "Amazon Web Services has nearly half of the public cloud market share, well ahead of Microsoft and Google. These 11 executives are leading the charge."
-    publishedDateTime: 2020-01-08T18:06:00Z
-    sourceUrl: https://www.businessinsider.com/11-executives-power-players-amazon-web-services-2020-1
+      - url: https://image.cnbcfm.com/api/v1/image/106328864-1578670951519preview-1.jpg?v=1578671880
+        width: 2849
+        height: 1875
+  - title: "Brave New World Of Retail: Walmart’s Robots Are Just The Beginning"
+    excerpt: "The retail industry has decided that robots and other automated inventory systems are better than humans for certain tasks."
+    publishedDateTime: 2020-01-14T12:03:00Z
+    sourceUrl: https://www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/
+    ampUrl: https://www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: https://i.insider.com/5e137ed2855cc26bf008cad3?width=1200&format=jpeg
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d4c40a854780006e876f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D202%26cropY2%3D2890
         width: 1200
-        height: 600
-  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
-    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
-    publishedDateTime: 2020-01-08T19:45:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
-    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+        height: 800
+  - title: "May AI boss you? More UAE employees comfortable working with robots"
+    excerpt: "An unbiased approach to salary increases, promotions, and hiring are some of the reasons why artificial intelligence-enabled robots will make good managers in the workforce, a new study has discovered. Results from the second annual AI at Work study, conducted by Oracle and Future Workplace, revealed that the use of AI is becoming more ..."
+    publishedDateTime: 2020-01-17T18:46:00Z
+    sourceUrl: https://www.khaleejtimes.com/business/local/may-ai-boss-you-more-uae-employees-comfortable-working-with-robots
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 44
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 54
     images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
+      - url: https://images.khaleejtimes.com/storyimage/KT/20200117/ARTICLE/200119369/AR/0/AR-200119369.jpg&NCS_modified=&exif=.jpg
         width: 1200
-        height: 600
-  - title: "From 10-second toothbrushes to pizza robots: Here are 9 of the weirdest tech products at CES"
-    excerpt: "The carry-on is equipped with AI, self-driving and computer vision technology ... If it is more than 6 feet away from its user, it will alert them via a smart band on their wrist. Jennie, a cuddly robot puppy created by robotics startup Tombot, is designed for Alzheimer and dementia patients, or others who could use some companionship but ..."
-    publishedDateTime: 2020-01-10T22:49:00Z
-    sourceUrl: https://www.ksl.com/article/46702570/from-10-second-toothbrushes-to-pizza-robots-here-are-9-of-the-weirdest-tech-products-at-ces
+        height: 745
+  - title: "Pittsburgh company IAM Robotics is hiring and moving to Strip District’s Robotics Row"
+    excerpt: "IAM Robotics’ robots, dubbed Swift and Bolt, move about the warehouse floor completely on their own. “We have the only robots that can drive around a warehouse and pick up items off of a shelf by themselves, using computer vision and their own ability to see,” says IAM Robotics founder Tom Galluzzo. The robots then add those items to a ..."
+    publishedDateTime: 2020-01-16T21:10:00Z
+    sourceUrl: https://www.nextpittsburgh.com/latest-news/pittsburgh-company-iam-robotics-is-hiring-and-moving-to-strip-districts-robotics-row/
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
-    quality: 28
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 17
     images:
-      - url: https://img.ksl.com/slc/2769/276993/27699367.jpg?filter=ksl/responsive_story_lg
-        width: 614
-        height: 345
+      - url: https://nextpittsburgh-images.s3.amazonaws.com/2020/01/15143003/unnamed-1-640x480.jpg
+        width: 640
+        height: 480
 
 secured: "UPYEwmVLCf6WLjk4WvAaQfCn92YSnD/9NtuOOPOhc6gUaHUiNKFBrCoWpgn4h3r73d+u1yY/GdXxdPE1g0BvT1vdDWaL8VqCBxOF9QunFVHu+mlieobClOdYPPBY98eANqpEON1cwVODy+c+tlPKuSJUzII+1E9B09NfxJnobMr6vZywmx/V2rZ1Br0SfcqHoalkFPM4uhyfBRLsYOD4/c9yvYNX6u7CqQ7iMpmKKRSLqcKhhkabsz7UEjbHNQR/bornjs5i3/Scg7jn84VlKxsb2TeuBlQDMyK0aKgaf3QFLGukZDWqxwMYMdlZBVPFDuX2xRHjvviHggbnc5lFd9shBbM6Oc9KOy5BaZePc+Q77QtwaZXOdozmR6gDtNupZLzKy0C5hMMGTpQQQ07Hu7zJpHGrb3vnWIgVOA3BqegXl+IXcitqevKW/RLZ/MAwfla8V+3mH1L7DwPb9wTX9Q==;HeRbLwdhOppBVq354I54lw=="
 ---

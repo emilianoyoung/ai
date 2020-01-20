@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T03:45:00Z
 sourceUrl: https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/
 type: article
 quality: 66
-heat: 76
+heat: 66
 published: true
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 450
     height: 380
     title: "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019"
-
-related:
-  - title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
-    excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
-    publishedDateTime: 2020-01-16T19:54:00Z
-    sourceUrl: https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html
-    type: article
-    provider:
-      name: Independent
-      domain: independent.co.uk
-    quality: 58
-    images:
-      - url: https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg
-        width: 2500
-        height: 1875
 
 secured: "s7GBufCruVkx1GhDYatdFR/fgrBHF7AI4LntPorMC2ZHZpxluWDc+ZsbY2hSxWiLqH+NqvEajN1fWaU2oO7dEBzz4fJHhhqpVJalEyTSFEnz+NuZTCUB+NswsncQ1SY4A/blkrQziXbvzZ0+DsO9D8ixaWjbGtpz8quY1YdA76ddGV0zYWlTqTUFbwKfedbX+WSf+E4iudQOMgblXslx4m/iCoZdTGVKLk+lUnSC8DJzFBgMCOsv3mfKgtxlIeqL2mWs+R1aBMd8tUf50s/bR0Bxvp8ytOpMY4bVgQcuVyE=;6h2HfsZdWYjoKF6+jBz7QQ=="
 ---

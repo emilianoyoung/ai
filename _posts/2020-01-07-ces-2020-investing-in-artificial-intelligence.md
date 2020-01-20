@@ -19,19 +19,17 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
-    excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
-    publishedDateTime: 2020-01-10T22:21:00Z
-    sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
+  - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
+    excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook ..."
+    publishedDateTime: 2020-01-09T01:49:00Z
+    sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
+    ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+    cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
     type: article
     provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 54
-    images:
-      - url: https://s32566.pcdn.co/wp-content/uploads/2020/01/CoverStory-image-20200113-900x600-1.jpg
-        width: 900
-        height: 600
+      name: Variety
+      domain: variety.com
+    quality: 34
 
 secured: "N/2ojyLuOAXsXeykbO9zy1J7+IEz3yIaquTZkuZNolyiQ+GBx816BRkPvdn3GJy+N+7qtrELEg/ZtJVL6NcGLe5ookSdV5Agr+sxSCV57GHEko9m+NZ0Q1EsRh1ZU5iz9n/1v9EBEAc31eR7QsrGQpJM3bvOt2jQhesJ5+8TpyAKITmPZbCSU54xl44u3ePio3VqQOC0XXRHeJV33JVkHUekT7nWIK2prmN2U9URI5ZjgAgzeiBb28lRHclzfnY1xWbLInbxCHb80ULNOkk7D78HUWo7fdxjlrZQezRN7kaMQ87YmjvyG4xZ+cTxKejN01rs0zxY4tDbzFjCYJ/XKxrlbJKrpwdWr3r1lZH1JUB4vanIw8ZjeAbC/RAq/KwaDoz+KsBmB193W2X2QJ7Ysyy7iTrlFcZ8Mn9r1SR1BmLT51v+d+t7bL41aIOrXKW55w3mrr4wemekVWrTQkmHmg==;bXwdGyBbhhQGPgMckRhv3g=="
 ---

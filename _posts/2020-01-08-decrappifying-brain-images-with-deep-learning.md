@@ -39,19 +39,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg
         width: 620
         height: 480
-  - title: "Data for Machine Learning Get’s a New Lease on Language"
-    excerpt: "San Francisco, CA – Venga has released its third solution in its rapidly growing suite of products for Natural Language Processing (NLP) Data Collection. The new addition to the family is InVimage – a cloud-based solution for annotating text within images. With each annotation, we automatically capture the X and Y coordinates, OCR (Optical ..."
-    publishedDateTime: 2020-01-09T00:59:00Z
-    sourceUrl: https://slator.com/press-releases/data-for-machine-learning-gets-a-new-lease-on-language/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: https://slator.com/assets/2018/02/Venga_2019_Upd_900x600.png
-        width: 900
-        height: 600
 
 secured: "3cWa3OB9GcWfmjhgsv6B5odGBN11wOb19vcB+/rNeoVFUasrNjBhEhnAc6LoYfLL0Bj5S7ZJV9OWtckeEZsDIYga6s66JocvSPN36ukTl62lTp6My+CuXVdizrYg511lyQEtLLTm0ssnMMqj4YbgqPXPB5ZofgpQlBHA6Ztnx+XH04vmhu9umnudZzGoSzi9QA9AakqY2G5uEL/iotQEiHRC0P6aBouRO1Xx+wQpTm5rSvAAxrMCCkf7NPbojupO8Wo6CVAMuZ7Bc+MU7CU5KYWiPNmbJ1572t63YYaiOjX/Vza28dGCmkllimKVtCuhT+FG7ZiCD51wcEm9m5cxT2xr1MW0sdPgjF+5ipQ+PrIXJgYfkh8VlJ1n0L5f05+YdrP3pESExygLAHUx6srMCGZ5IjLehaCpp8+QaMkxg+B32d0t5KeLaVdEYNTR0oTQ1kVZBZ/dpqfz4WrzCOX8Vg==;WTgFVUK8GkUMNkg/43OFNA=="
 ---

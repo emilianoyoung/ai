@@ -25,15 +25,21 @@ images:
     title: "Being human in the age of Artificial Intelligence"
 
 related:
-  - title: "Why Managers Won't Be Replaced by AI: The Creativity Of Human Intelligence"
-    excerpt: "Today, around the world, across most industry sectors, front-line, midlevel and, yes, even executive-level managers spend 54% of their workdays on administrative coordination and control. In contrast,"
-    publishedDateTime: 2020-01-16T13:08:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/why-managers-wont-be-replaced-by-ai-the-creativity-of-human-intelligence/
+  - title: "The age of artificial humans is here"
+    excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
+    publishedDateTime: 2020-01-16T15:57:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html
+    ampUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
+        width: 600
+        height: 337
   - title: "Artificial intelligence, human gene-editing ethics and more at the AAAS Annual Meeting in Seattle"
     excerpt: "SEATTLE, Wash. -- The growing use of artificial intelligence in society, how math can help address political gerrymandering, the ethics of human gene-editing, and the spread of infectious disease among ocean organisms will be discussed at the 2020 American Association for the Advancement of Science (AAAS) Annual Meeting, the world's largest ..."
     publishedDateTime: 2020-01-13T15:02:00Z

@@ -23,49 +23,21 @@ images:
     title: "$7.5 million grant will fund development of socially savvy artificial intelligence teammates"
 
 related:
-  - title: "European Union to restrict the development of artificial intelligence"
-    excerpt: "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ..."
-    publishedDateTime: 2020-01-17T13:58:00Z
-    sourceUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/
-    ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
+  - title: "Socially savvy artificial intelligence to be developed at UA"
+    excerpt: "Artificial intelligence is everywhere. Whether it’s Siri, Alexa or Google Assistant, people use AI agents on a daily basis to communicate, to remember things and to make everyday life more convenient. Now, University of Arizona researchers are looking to take AI to the next level. Like something from a science fiction movie, they are hoping ..."
+    publishedDateTime: 2020-01-20T15:00:00Z
+    sourceUrl: https://tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.html
+    ampUrl: https://tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.amp.html
+    cdnAmpUrl: https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/local/socially-savvy-artificial-intelligence-to-be-developed-at-ua/article_0f8879d4-3543-56ba-a7dd-12c18c0b3d7b.amp.html
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 57
     images:
-      - url: https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png
-        width: 788
-        height: 525
-  - title: "How Is Artificial Intelligence Changing The Face of Web Design and Development?"
-    excerpt: "With the help of AI or artificial intelligence, object recognition, deep learning, and image grading will be more accurate. Artificial intelligence or machine learning applications are able to help web app developers face problems related to coding, security, user experience, quality analysis and much more. Businesses all across the globe will ..."
-    publishedDateTime: 2020-01-19T06:27:00Z
-    sourceUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development
-    ampUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-web-design-development/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 55
-    images:
-      - url: https://images.yourstory.com/cs/1/a8255b902de611eaa742cd45a762896a/AI-for-enterprise-Apps-1579071380502.jpg?fm=png&auto=format
-        width: 1073
-        height: 786
-  - title: "European Union mulls new tougher rules for artificial intelligence"
-    excerpt: "The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU's executive arm is set to propose the new rules apply to \"high-risk sectors,"
-    publishedDateTime: 2020-01-17T14:51:00Z
-    sourceUrl: https://www.sfgate.com/business/article/European-Union-mulls-new-tougher-rules-for-14983285.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: https://s.hdnux.com/photos/01/10/04/70/18894393/3/rawImage.jpg
-        width: 2048
-        height: 1365
+      - url: https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/85/08513400-1dc1-589e-8d7b-5f0836a08307/5e224e7ec3a7a.image.jpg
+        width: 750
+        height: 415
 
 secured: "UZ+wNHhgIPfRUMomsPIm+25FoXRcQuSK65Pb66xkAVU/ryrAtLPZSoh8PmdnfzwkBKw/ftABewPUX8EvgKkqZjel+XF4DxoIJIZzicFE/ijXB964QoAo634UNbr99OPPU55b91PZDeiKSIf+n5YdIUZtsF2OPsWBRKRnXUEitHHK6SxlFrbksPZsvI8HZw/eWaPJ/zPPPzowRuzTkb3Rn9goxoCx2XjLtPGLQGdbxdcGLh10d9wS5Whu+rSNXqZX7+IYLDpOPptTQbUYhzUSVPMgEajwthTkIwH35MO3HXQ=;M7jWNyN+m6IJQz29hkXtoA=="
 ---

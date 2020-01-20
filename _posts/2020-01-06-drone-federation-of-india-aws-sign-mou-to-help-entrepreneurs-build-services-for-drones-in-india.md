@@ -41,17 +41,19 @@ related:
       - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
         width: 600
         height: 338
-  - title: "Irish AI firm announces new collaboration with Microsoft"
-    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
-    publishedDateTime: 2020-01-10T10:38:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+  - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
+    excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
+    publishedDateTime: 2020-01-08T05:29:00Z
+    sourceUrl: https://www.cxotoday.com/news-analysis/aws-dfi-powering-indias-commercial-drone-innovation/
     type: article
     provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 54
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 39
+    images:
+      - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
+        width: 599
+        height: 450
   - title: "ZephyrTel expands collaboration with AWS"
     excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
     publishedDateTime: 2020-01-06T08:31:00Z

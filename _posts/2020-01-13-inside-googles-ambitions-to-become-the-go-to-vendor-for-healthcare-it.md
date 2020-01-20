@@ -67,6 +67,19 @@ related:
         height: 467
   - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
     excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
+    publishedDateTime: 2020-01-10T20:33:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
+        width: 1440
+        height: 1080
+  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
     publishedDateTime: 2020-01-11T13:21:00Z
     sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
     type: article

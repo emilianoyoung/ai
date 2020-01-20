@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-l
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/221036_web.jpg
         width: 640
         height: 360
-  - title: "Data for Machine Learning Get’s a New Lease on Language"
-    excerpt: "San Francisco, CA – Venga has released its third solution in its rapidly growing suite of products for Natural Language Processing (NLP) Data Collection. The new addition to the family is InVimage – a cloud-based solution for annotating text within images. With each annotation, we automatically capture the X and Y coordinates, OCR (Optical ..."
-    publishedDateTime: 2020-01-09T00:59:00Z
-    sourceUrl: https://slator.com/press-releases/data-for-machine-learning-gets-a-new-lease-on-language/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: https://slator.com/assets/2018/02/Venga_2019_Upd_900x600.png
-        width: 900
-        height: 600
 
 secured: "IEUdJhx7hQCEQzPePo0E3tMd/foDQGtcn/KXzM6GL4ZOx770aZ3VIh3qRYGzhESQ0bMKGtCJri4S3e9D69MKSnJHyjWxhmqf+wYcJnEpXPfFidWgPaTgQBjt53E0CIpDmeVut1sCMX8WajUx86nkAPRB6Kb3a7DOZVlcdnhyaYyj3yBfTUCFR2frkZzhjzOmzBTdFN/JvO3AejgQzZPML1AIsVcmPnBDUwwyJFQmuFwf8ETub7kXh9pNfW6145HWA26YMcve+WIzAKGYOUjiOS+xGpW2rVj1gI1N2IovDuk=;us6l8QU74M50fxHd3kbrkg=="
 ---

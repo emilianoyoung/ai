@@ -8,7 +8,7 @@ ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
 
 related:
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    sourceUrl: https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/
-    ampUrl: https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
-        width: 1200
-        height: 628
   - title: "Why Google thinks we need to regulate AI"
     excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
     publishedDateTime: 2020-01-20T04:00:00Z

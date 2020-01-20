@@ -33,6 +33,19 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Artificial Intelligence(AI) applications in Higher Education Business"
+    excerpt: "Artificial Intelligence/data science has become widespread phenomenon in recent times. Every industry and sector tries to apply AI in its domain to solve problems. The range of AI applications vary from very fancy applications like ‘driverless car’ to ..."
+    publishedDateTime: 2020-01-06T07:08:00Z
+    sourceUrl: https://www.cioapplications.com/cxoinsights/artificial-intelligenceai-applications-in-higher-education-business-nid-5508.html
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: https://www.cioapplications.com/newstransfer/upload/cm4tplklk.jpg
+        width: 450
+        height: 308
   - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
     excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
     publishedDateTime: 2020-01-02T18:00:00Z

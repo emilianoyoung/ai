@@ -39,17 +39,6 @@ related:
       - url: https://themoderatevoice.com/wp-content/uploads/2020/01/Robotic-Vision-macrovector-Freepik-.jpg
         width: 800
         height: 800
-  - title: "Using machine learning to fine-tune views of the ancient past"
-    excerpt: "A team of researchers affiliated with several institutions in China and two in the U.S. has developed a way to use machine learning to get a better look at the past. In their paper published in the journal Science, the group describes how they used machine learning to analyze records of the past. Scientists use fossils to date rocks because ..."
-    publishedDateTime: 2020-01-17T14:53:00Z
-    sourceUrl: https://phys.org/news/2020-01-machine-fine-tune-views-ancient.html
-    ampUrl: https://phys.org/news/2020-01-machine-fine-tune-views-ancient.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-machine-fine-tune-views-ancient.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
 
 secured: "wdkQZuSVLh3wkBhkIMzeyLl7upo/kBeMuP8xNfCgI/CV5u6Ufju5npxwq2nwwjK9Z4bQDTl/rfBZ300AWcm9MT4L1C7qwleXsMn/T7wAjAPe4Lt2h7U+1THGJVdxjysPJyDTmLF052M67C1dn8Q7Vxy4QcGLSpcbw3wplDyEK7qe+EHBBniMTp2vWhGFsQNH0wjo9+0Yuhi9v9RqnmIC28+TLB7c9p5LeDYbCpVtSBZVHPQJHtgCQ+A+HTo2U2X5fTO0hxYmS1Af2HPGxug/Ja+9YS77xY+cgkyyvY4RbubCezZs/OokB4LBII+JKy86s974HPBI4WS6+LlMg2W91ZvvjSWIO1B+nOqvwd5HFFL9rwn4YIX0OZfIoprRdaWnpqNRvx3OY+wu5imOemm29tLFe2ojPgSa3HuW0AD6Z3Ml9iPfR+iWOdkpXKmUO9yf43XumKuxJD0W6RnnLL72yA==;TiRTo9dD/fXks+T8fj2HFA=="
 ---

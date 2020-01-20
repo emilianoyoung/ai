@@ -54,6 +54,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d4c40a854780006e876f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D202%26cropY2%3D2890
         width: 1200
         height: 800
+  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
+    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
+    publishedDateTime: 2020-01-09T22:57:00Z
+    sourceUrl: https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
+        width: 1380
+        height: 600
   - title: "May AI boss you? More UAE employees comfortable working with robots"
     excerpt: "An unbiased approach to salary increases, promotions, and hiring are some of the reasons why artificial intelligence-enabled robots will make good managers in the workforce, a new study has discovered. Results from the second annual AI at Work study, conducted by Oracle and Future Workplace, revealed that the use of AI is becoming more ..."
     publishedDateTime: 2020-01-17T18:46:00Z

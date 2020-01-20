@@ -76,21 +76,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "20 People to Know in Health Care: Tina Steltenpohl"
-    excerpt: "I believe the health care industry is changing quickly as we learn to incorporate the use of artificial intelligence and other technologies to better serve our patient populations. We are already seeing movement to more outpatient procedures and treatments ..."
-    publishedDateTime: 2020-01-17T10:57:00Z
-    sourceUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.html
-    ampUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
+  - title: "AI in Retail and e-Commerce Market - Industry Insights By Growth, Emerging Trends And Forecast By 2025"
+    excerpt: "Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
+    publishedDateTime: 2020-01-16T08:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: https://media.bizj.us/view/img/11578453/steltenpohl-tina*600xx4896-3264-16-0.jpg
-        width: 600
-        height: 400
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence in Healthcare Market"
     excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
     publishedDateTime: 2020-01-16T03:41:00Z
@@ -131,15 +129,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 7
-  - title: "Intelligent Apps Market Outlook to 2025 - Google, Facebook, Intel, IBM, AWS, BigML"
-    excerpt: "The presence of several AI developers and technology solution providers that are developing smart apps for various business verticals contribute to the growth of the intelligent apps market. Global Market Insights, Inc., headquartered in Delaware, U.S., is a global market research and consulting service provider; offering syndicated and custom ..."
-    publishedDateTime: 2020-01-14T17:43:00Z
-    sourceUrl: https://www.openpr.com/news/1896195/intelligent-apps-market-outlook-to-2025-google-facebook
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "lqcdI8ou9ojeCdzCk0g8sflvYH4qHuukfcESZHbyt9Dw3clUIui1qLjDdmmvLE/NH3ypF2YzegUKsIOYwZLOljPp4Yl1vpCUlWaBjl4l1QL5iK4RDsjCoaIRWPnC8WJsqKYbAC6fSgBwsL2mlsFBrALGYPznvSWQaRNvrnTwLR9kNcKKG+3a3owfZrb58LSZCUv5U60iscdEEm3kdOSE2eQm7EG0RoTbA3OvlSglA3WgrHOFUevCO0/EoFVP8O36b2oQWCg2M5KEZdLOB5zwMzjDHVE/s1exGqp3uHzWDv8=;1WyuiChouI+lqhRz6lCaFw=="
 ---

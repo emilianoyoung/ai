@@ -48,32 +48,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-14T05:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Self-driving car market 2018-2023 Application, Revenue, Excessive Growth, and Region-Forecasts"
-    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
-    publishedDateTime: 2020-01-14T12:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2018-2023-application-revenue-excessive-growth-and-region-forecasts-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
     excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
     publishedDateTime: 2020-01-10T20:05:00Z

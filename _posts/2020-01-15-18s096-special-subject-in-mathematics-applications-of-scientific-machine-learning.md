@@ -24,15 +24,17 @@ images:
     title: "18.S096 Special Subject in Mathematics: Applications of Scientific Machine Learning"
 
 related:
-  - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
-    excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
-    publishedDateTime: 2020-01-14T22:24:00Z
-    sourceUrl: https://www.fieldtechnologiesonline.com/doc/machine-vision-artificial-intelligence-transportation-s-fast-lane-to-innovation-0001
+  - title: "Application of artificial neural networks for automated analysis of cystoscopic images: a review of the current status and future prospects."
+    excerpt: "AI-assisted cystoscopy may improve image recognition and accelerate data acquisition. To provide a comprehensive review of machine learning (ML), deep learning (DL) and convolutional neural network (CNN) applications in cystoscopic image recognition. A detailed search of original articles was performed using the PubMed-MEDLINE database to ..."
+    publishedDateTime: 2020-01-13T08:07:00Z
+    sourceUrl: https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.html
+    ampUrl: https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.amp.html
+    cdnAmpUrl: https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.amp.html
     type: article
     provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 13
+      name: UroToday
+      domain: urotoday.com
+    quality: 4
 
 secured: "IIdbdcBxb4sE4GwjJln2PryHokHO2BzqDHRRxR8tN42CJ1PPiGNJ9vHMU5IadBPVhvCctneD3mMSYKbWMYyjuqtoHjIGaiek72bI/xwcUbkHhLGCv2ttKkOInHUOrJu84XOuXsuSygiQKH0SVzEU3CLvUFR+wTndu+YeSlfem3igyJ8CkvY9Bq6/Ae98ah2TJskmU2CvamA7ytULDz2q9HPnJ4iDIVyJ1yVV8xgUcgNJhFuDak6MJQgQuW5OnyJy9PkBMZBYpXdeLK4i2nlLaj5bg4H9DmPl+RaUCHrpv8K3aTsgWGtJQIGmBl9XHnRrmJRfn0DZXuTYEDiwLYYOCBkfTUxDuQyBObX56LNCQmejIddu1AzkLJ6/sNepoNfrhfK17L1HBvBJ4VodkOzrfo4MypgCu0M3pIZgVDJe8XCZo/F39DTGBE3MUhoUWDZqQnOA3IdlMJvx4SHf4QYF/Q==;45cO29YOygS+wNYixWRa2Q=="
 ---

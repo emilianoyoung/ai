@@ -8,8 +8,8 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
 quality: 88
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: TheHealthSite
@@ -26,71 +26,62 @@ images:
     title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
 
 related:
-  - title: "Four Ways Artificial Intelligence is Transforming Real Estate"
-    excerpt: "It's not uncommon to use tech when buying or selling real estate, but according to many A.I. developers, we've only just scratched the surface. Paul Armstrong, CEO of Here|Forth, explains how A.I. will make buying and selling real estate smoother than ever before."
-    publishedDateTime: 2020-01-18T05:01:00Z
-    sourceUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate
-    ampUrl: https://cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
-    cdnAmpUrl: https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/four-ways-artificial-intelligence-is-transforming-real-estate.amp
+  - title: "How AI Is Revolutionizing Health Care"
+    excerpt: "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive."
+    publishedDateTime: 2020-01-15T19:45:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/
     type: article
     provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://img.chdrstatic.com/media/2aabb234-2cad-425a-977d-f728807e2ed5.PNG?width=400
-        width: 400
-        height: 237
-  - title: "GBT Technologies Transforming the Future Healthcare AI Market"
-    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC:GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
-    publishedDateTime: 2020-01-16T15:00:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15134360/gbt-technologies-transforming-the-future-healthcare-ai-market
-    ampUrl: https://amp.benzinga.com/amp/content/15134360
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15134360
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg
+        width: 640
+        height: 640
+  - title: "NRF 2020: How AI Is Revolutionizing Retail"
+    excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
+    publishedDateTime: 2020-01-14T23:06:00Z
+    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail
+    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
+    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-how-ai-revolutionizing-retail?amp
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-  - title: "The age of artificial humans is here"
-    excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
-    publishedDateTime: 2020-01-16T15:57:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html
-    ampUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
     images:
-      - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
-        width: 600
-        height: 337
-  - title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
-    excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
-    publishedDateTime: 2020-01-16T14:33:00Z
-    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01161Healthcare-AI.asp
+      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
+        width: 300
+        height: 250
+  - title: "Crouse Health brings artificial intelligence to stroke care"
+    excerpt: "Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm focuses on using applied artificial-intelligence software in health care to “reduce time to treatment and improve patient outcomes,” per Crouse Health’s Thursday news release."
+    publishedDateTime: 2020-01-09T21:56:00Z
+    sourceUrl: https://www.cnybj.com/crouse-health-brings-artificial-intelligence-to-stroke-care/
     type: article
     provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 43
-    images:
-      - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
-        width: 649
-        height: 328
-  - title: "The transformation role of APIs in healthcare"
-    excerpt: "As the industry seeks to offer patient-centric healthcare, its key growth drivers—including affordable insurance, telemedicine, remote diagnostics, and medical tourism—are often accelerated by digital transformation (DX) technologies. These technologies include cloud computing, IoT, artificial intelligence, mobility, and analytics ..."
-    publishedDateTime: 2020-01-20T03:30:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Business Journal News Network
+      domain: cnybj.com
     quality: 39
+    images:
+      - url: https://www.cnybj.com/media/14947/crouse-health-sign-on-hospital-er-b.jpg
+        width: 400
+        height: 300
+  - title: "Crouse Health using AI software for stroke care"
+    excerpt: "A company called Viz.ai is providing the system. Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm says it focuses on using applied artificial intelligence (AI) software in health care to “reduce time to treatment and improve patient outcomes,” per a Crouse Health news release. When a patient is transported to ..."
+    publishedDateTime: 2020-01-17T17:31:00Z
+    sourceUrl: https://www.cnybj.com/crouse-health-using-ai-software-for-stroke-care/
+    type: article
+    provider:
+      name: Business Journal News Network
+      domain: cnybj.com
+    quality: 39
+    images:
+      - url: https://www.cnybj.com/media/16828/revitalize_download-square.jpg
+        width: 625
+        height: 521
 
 secured: "DFuhH0p1RVPaim9jaHmlL+tKofcb3qjSZh9Bmne2kw2+quzmZffggg1/Rfm5OmGGoVmpivpU4jFtnSpYu5fmv7NNTnp+5wCVqGzqkaRfnwXvCQboVPr+kJMaxp6bM2surp+3rQ9tYo2MXvve8t40V1DgpZV/PFZFoFxfTZZHkFMJQ2IHuaUxXkFpLrDTqw5ZXvWT1t+N2DP01yZexPDKMjpg+flTEQXXjMl5Jc49U1zT/2qmodQ92Sod5bnEfqj2pJcDufSOA+nDiG5/sSdmALUOdkDp3bv0dCdxInojzpw=;0JjoITKAKkiS3/ctPyz81w=="
 ---

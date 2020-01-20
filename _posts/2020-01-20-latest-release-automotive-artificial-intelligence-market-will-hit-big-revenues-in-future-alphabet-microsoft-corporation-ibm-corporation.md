@@ -27,28 +27,60 @@ images:
     title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
 
 related:
-  - title: "Natural Language Processing Market by 2023 with Leading Key Players like Apple Incorporation, Dolbey Systems, Google"
-    excerpt: "The Big Market Research has recently added a new survey report to their vivid and dynamic database. They have formulated this report by taking into consideration all the key aspects that tend to have an impact on the global Natural Language Processing Market share,"
-    publishedDateTime: 2020-01-16T15:35:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-by-2023-with-leading-key-players-like-apple-incorporation-dolbey-systems-google-2020-01-16
+  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
+    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
+    publishedDateTime: 2020-01-20T11:05:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation
+    ampUrl: https://amp.benzinga.com/amp/content/15149083
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 76
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Neural Network Software Market Is Booming Globally with Top key vendors Google, International Business Machines, Microsoft"
-    excerpt: "Neural Network software is used to simulate, research, develop, and apply artificial neural networks, software concepts adapted from biological neural networks, and in some cases, a wider array of adaptive systems such as artificial intelligence and machine learning. Apart from this, the research report offers the vital key segmentation of the ..."
-    publishedDateTime: 2020-01-20T10:19:00Z
-    sourceUrl: https://www.openpr.com/news/1900816/neural-network-software-market-is-booming-globally-with-top-key
+      - url: https://www.abnewswire.com/uploads/1579519636.jpeg
+        width: 417
+        height: 455
+  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
+    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: MacTech
+      domain: mactech.com
+    quality: 54
+    images:
+      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
+        width: 1000
+        height: 500
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+    publishedDateTime: 2020-01-14T06:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 1200
+        height: 627
+  - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
+    excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
+    publishedDateTime: 2020-01-19T13:36:00Z
+    sourceUrl: https://www.analyticsinsight.net/intelligent-automation-benefits-across-businesses-industry-implementation-and-key-market-players/
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 11
+    images:
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
+        width: 1634
+        height: 918
 
 secured: "Yn5IerNPFqTFNtWWrGEwFda6DvKqv7t/UVNiVPo8EHBgq1GcatWm2FTKeDN2llnWaA8jxWGTiGFY/IIs9WXqLLTcnkzUMTeLAq3IxaVnM79PjetrcJdHaJyIZ3YCEVwp6FqSI/jIsgK9qrvQ5n+FxXcC7Oc4xTYr1vr5YVcOSAMGS/y5fE8Gr4yLjtQKSNANezHYKte1i1egagYqHWSjzzFwfNqfhf9w2Ef8ST/JJ6Sqcx1EYaLWXpCMU1coaFDGBmIDb7P1lDoYVHQ6mXyhBmZURm3+V0XNiHdlIVOdRhA=;7GttUxBrZ+yNmXz2BgNz9w=="
 ---

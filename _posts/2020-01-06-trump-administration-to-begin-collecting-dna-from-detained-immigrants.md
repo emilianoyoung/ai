@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/6/21052229/ice-cbp-immigrat
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/6/21052229/ice-cbp-immigration-dna-collection-detainees-trump-administration
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 1400
     height: 933
     title: "Trump administration to begin collecting DNA from detained immigrants"
+
+related:
+  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
+    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ..."
+    publishedDateTime: 2020-01-09T22:34:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
+    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
+        width: 1200
+        height: 600
 
 secured: "FsuHoJ4F/24RCVBicMZnjvdgNMQpFsnUqq877sqUQRXaEq3y1U+/kuADr8U0Ip8nCa8PFPle2tQBueAGYCH4OgSB+sEPOcdHrMO7J4DZVcGpPcniv2wuaci6/6kljzmAqLMjTUqWf4Xnf+W+al0rPzuEWG6Vs57ywgvPupwWB9u8LVkzodhjIZrjGxN48aMENKTlTVlaE4AQxLn7Q2C9lZdtcw84lroaDAUxEcXGqBmIv1M+ORe/hoC5UAkLqdSFqRLujgrpnTcja3gg4gZ1vzGSX6T9MB9z32XmLU7A24E=;P/XQK/vsH1019Gqje7hhiQ=="
 ---

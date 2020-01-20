@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
 
 related:
+  - title: "Artificial Intelligence(AI) applications in Higher Education Business"
+    excerpt: "Artificial Intelligence/data science has become widespread phenomenon in recent times. Every industry and sector tries to apply AI in its domain to solve problems. The range of AI applications vary from very fancy applications like ‘driverless car’ to ..."
+    publishedDateTime: 2020-01-06T07:08:00Z
+    sourceUrl: https://www.cioapplications.com/cxoinsights/artificial-intelligenceai-applications-in-higher-education-business-nid-5508.html
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: https://www.cioapplications.com/newstransfer/upload/cm4tplklk.jpg
+        width: 450
+        height: 308
   - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
     excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
     publishedDateTime: 2020-01-02T18:00:00Z

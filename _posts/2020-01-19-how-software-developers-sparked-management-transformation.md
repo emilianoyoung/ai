@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-develo
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "How Software Developers Sparked Management Transformation"
 
 related:
+  - title: "European Union to restrict the development of artificial intelligence"
+    excerpt: "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ..."
+    publishedDateTime: 2020-01-17T13:58:00Z
+    sourceUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/
+    ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png
+        width: 788
+        height: 525
   - title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
     excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
     publishedDateTime: 2020-01-17T05:32:00Z

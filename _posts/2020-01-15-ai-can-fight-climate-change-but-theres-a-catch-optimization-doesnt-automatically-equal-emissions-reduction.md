@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ai-can-fight-climate-change-but
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 2483
     height: 1385
     title: "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction"
+
+related:
+  - title: "Chatbots: The Next Wave of Construction Automation"
+    excerpt: "Thanks to advances in natural language processing, bots today can identify valuable information from everyday speech. Natural language processing is extremely powerful. Last year, Google released a voice assistant that is indistinguishable from a human. In this video, you can see the bot booking an appointment for a haircut with a real person ..."
+    publishedDateTime: 2020-01-16T01:41:00Z
+    sourceUrl: https://www.contractormag.com/technology/article/21120618/chatbots-the-next-wave-of-construction-automation
+    type: article
+    provider:
+      name: CONTRACTOR
+      domain: contractormag.com
+    quality: 4
 
 secured: "TOeHAOlf//W6S/sSI5wqvPDTTfXtmcVGGKXonPm8FelIV7iLhKUKP7VixWi35X6hoP5wWnNFgW2lvno1UQnkoTZ8wSIE8gjdFq13TOTKUNiNh0GsGts/s25dTwBI4zX5c7q6Xil+Ru4gZvVnQEoVAmHJXzE2NnXinxdatSzttSgmf+l4Ln/criFNeUkgBggmi0nwxyIZmAyB22I1hKIy+VRNd1NZ7LaHGRCEKM2j4wUNVvXx0HEtQKiq41ysM5+Jb1j/j1XPo2RCvciHprBN5jHNVIMzzL6zBJz/3wx/waw=;e1IXQZacL7ogp1glM45ppg=="
 ---

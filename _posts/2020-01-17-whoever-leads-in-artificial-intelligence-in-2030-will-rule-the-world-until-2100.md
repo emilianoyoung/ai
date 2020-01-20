@@ -25,21 +25,34 @@ images:
     title: "Whoever leads in artificial intelligence in 2030 will rule the world until 2100"
 
 related:
-  - title: "Will Google’s more-efficient ‘Reformer’ mitigate or accelerate the arms race in AI?"
-    excerpt: "Also: AI is changing the entire nature of compute \"The reversible Transformer does not need to store activations in each layer and so gets rid of the nl term,\" write Kitaev and colleagues, referring to the N layers of a network. With these efficiencies, they are able to cram a twenty-layer Transformer into a single GPU, they write."
-    publishedDateTime: 2020-01-17T22:13:00Z
-    sourceUrl: https://www.zdnet.com/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
-    ampUrl: https://www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
+  - title: "Life will soon be like ‘Her’ — and we’ll fall in love with AI"
+    excerpt: "These were to keep the emerging AI or robots from causing any harm to the human ... Hanson also suggests that by the year 2035, robots will be able to accomplish almost everything that humans do. They might even start their own ‘Global Robotic Civil Rights Moments’ by 2038 and compel leaders to provide them with equal status in the human ..."
+    publishedDateTime: 2020-01-18T09:06:00Z
+    sourceUrl: https://thenextweb.com/syndication/2020/01/18/life-will-soon-be-like-her-and-well-fall-in-love-with-ai/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: https://zdnet3.cbsistatic.com/hub/i/2020/01/17/d6a939b3-3e00-4284-8ae9-b410aee8530d/reformer-lhs-hashing-jan-2020.png
-        width: 1658
-        height: 1014
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-copy-3-796x417.jpg
+        width: 796
+        height: 417
+  - title: "Wild ideas in science: Robots will never think like us"
+    excerpt: "They can now classify objects in images better than we can. And as IBM and Google’s DeepMind have demonstrated, they can beat us at games such as chess and Go, and even achieve the highest rank in the computer game StarCraft II. But at the same time, AI systems are inhuman. Even inhumane. Our AIs do not comprehend our world or their place ..."
+    publishedDateTime: 2020-01-12T23:00:00Z
+    sourceUrl: https://www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/
+    ampUrl: https://www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/amp/
+    cdnAmpUrl: https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/amp/
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 44
+    images:
+      - url: https://images.immediate.co.uk/production/volatile/sites/4/2020/01/cover-illo-ab70bc0.jpg?quality=90&resize=960,413
+        width: 960
+        height: 413
 
 secured: "5mhEUCwkwEHokZEyI34qpm5uTMXyx1VCNJq6YDeYWpYh3qEjCAwwcAM98wP3poxug9Nx3PQlljXtddRgRn8jPzVo0RSh08nj9kjCLJYyej8zygzt67fk7Fx/O1iyJlqIin4QHVms6P17GNpD8usoP9WM9NFagsQfzQJOgNP9izEiq90tCEyo2eKFZ/6wlcdgfxBTTMig695QpSSROE/YzgiWncpZGn8R/OQ0her9UHKkTIX0/F5Haf4mfwKiOguScw/xKs1N39CK3EBAj2T0aYetKZlp8OohhNkCFKAukMchBdJubDnjKVX/W/GmP5EWp2qzFTFtCzzMtPpnlWoVYhRnKEO2AHLEf/cu/fazDdq3jIG0IsXHKAhiQiYG1dB2opeszWUKtKLTl/D3U+JsYSjZUxFJ/iXAuOs7rQ5XOQ/WnfgaVyWjb/iGJgcBrKlpZ14QhkEz6FfPbWqoRBerbg==;RPBxdzbrz+Lfcaelrp4IUA=="
 ---

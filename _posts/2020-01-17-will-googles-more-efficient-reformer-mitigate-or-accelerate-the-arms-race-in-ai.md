@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/will-googles-more-efficient-ref
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,21 +30,21 @@ images:
     title: "Will Google’s more-efficient ‘Reformer’ mitigate or accelerate the arms race in AI?"
 
 related:
-  - title: "Whoever leads in artificial intelligence in 2030 will rule the world until 2100"
-    excerpt: "A couple of years ago, Vladimir Putin warned Russians that the country that led in technologies using artificial intelligence will dominate the globe. He was right to be worried. Russia is now a minor player, and the race seems now to be mainly between the United States and China. But don’t count out the European Union just yet; the EU is ..."
-    publishedDateTime: 2020-01-17T21:59:00Z
-    sourceUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/
-    ampUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
-    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
+  - title: "Google’s AI language model Reformer can process the entirety of novels"
+    excerpt: "We believe Reformer gives the basis for future use of Transformer models, both for long text and applications outside of natural language processing,” added Kaiser and Kitaev. In an interview late last year, Google AI chief Jeff Dean told VentureBeat that larger context would be a principal focus of Google’s work going forward."
+    publishedDateTime: 2020-01-16T19:15:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/
+    ampUrl: https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/
     type: article
     provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 53
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
     images:
-      - url: https://i2.wp.com/www.brookings.edu/wp-content/uploads/2020/01/200117_global_ai_fig2.jpg?fit=400%2C9999px&quality=1#038;ssl=1
-        width: 400
-        height: 857
+      - url: https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
 
 secured: "dVAfYWvo4IQj1KLNzZhsVdSMsqJh/EHeOLyi6i1smMQzwZZ4gdXdpNS8u3lS/aTkijk0qiXJYUp6KJpDePD6jqTss2h+Lvs8Xx9WaeTlFRmB2SwvKKBxhl5NDNsJDtc7bW9dSt1r1wFCPjZmQqpELHKZoZn4JIHaNzd7PX88eBJm3iuAmjIs5DD2OVbYgsUSBCcafljWzsk9CqTVKFO9P/+yNKayTxsTao2EGytr7042PrehE4qJ3ktyElvPM3x7iV3jn9CzV5y6/WcfTcktDNcO8P0gNXMHI398XdEPyvJmKOV0Si95tP0J5brEiX1rL4H/IkpHaCqAL9cpHBU757CdoALC7czhePylguHDZ0yc1shglr70kRZIMz7CPivVlqXPSioGTdRtifmhDGY4hadsdrA6xFUt0gO9L9xQHOsY6VCfJ21Td32EINxLgaJkSx+c2+Fg8COjGV9v7HZwkQ==;HlhBxOrsHYiU5v19rr0vTw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "6 ways that Chinese tech is ahead of the rest of the world"
 
 related:
-  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
-    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
-    publishedDateTime: 2020-01-09T22:57:00Z
-    sourceUrl: https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
-        width: 1380
-        height: 600
   - title: "Meet the 11 power players of Amazon Web Services who helped build it into the biggest cloud business in the world"
     excerpt: "Amazon Web Services has nearly half of the public cloud market share, well ahead of Microsoft and Google. These 11 executives are leading the charge."
     publishedDateTime: 2020-01-08T18:06:00Z
@@ -54,21 +41,6 @@ related:
     quality: 48
     images:
       - url: https://i.insider.com/5e137ed2855cc26bf008cad3?width=1200&format=jpeg
-        width: 1200
-        height: 600
-  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
-    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
-    publishedDateTime: 2020-01-08T19:45:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
-    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 44
-    images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
         width: 1200
         height: 600
   - title: "From 10-second toothbrushes to pizza robots: Here are 9 of the weirdest tech products at CES"

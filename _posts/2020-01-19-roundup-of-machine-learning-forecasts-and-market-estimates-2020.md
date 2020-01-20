@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/
 type: article
 quality: 91
-heat: 192
+heat: 232
 published: true
 
 provider:
@@ -31,6 +31,19 @@ images:
     title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
 
 related:
+  - title: "Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast"
+    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-01-16T06:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Asia-Pacific wearable AI Market: Industry Growth, Market Size, Share and Forecast 2019-2025"
     excerpt: "Jan 20, 2020 (Heraldkeepers) -- The Asia-Pacific wearable AI market is estimated to grow significantly at a CAGR of more than 29% during the forecast period. The economies that are contributing to the market growth in the region include China, India ..."
     publishedDateTime: 2020-01-20T12:58:00Z
@@ -148,6 +161,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Manufacturing Market : Key Facts and Forecast Predictions Presented Until 2025"
+    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
+    publishedDateTime: 2020-01-16T12:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-key-facts-and-forecast-predictions-presented-until-2025-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
   - title: "Deep Learning Market 2020: Study By Evolving Industry Analysis & Forecast To 2025"
     excerpt: "The deep learning market will gain momentum over the next six years with the increasing adoption of the technology across several industries including IT & telecom, retail, and hospitality to improve customer-centric services. The database of the customers is available to various platforms, which are used by the companies to extract valuable ..."
     publishedDateTime: 2020-01-16T19:03:00Z
@@ -157,7 +179,25 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
+    excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
+    publishedDateTime: 2020-01-20T10:41:00Z
+    sourceUrl: https://www.openpr.com/news/1900862/global-automotive-artificial-intelligence-market-industry
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "Natural Language Processing Market : Dynamics, Segments, Size and Demand Analysis during 2019 - 2026"
+    excerpt: "Global Natural Language Processing Market valued approximately USD xxx million in 2018 is anticipated to grow with a healthy growth rate of more than xxx% over the forecast period 2019-2026. The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural Language processing ..."
+    publishedDateTime: 2020-01-20T07:54:00Z
+    sourceUrl: https://www.openpr.com/news/1900560/natural-language-processing-market-dynamics-segments-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "uCiZyWvAOJhQVIYxxYALoFfui+aPjE6gdx/ZZMBJzCdB9IQ7jNc6L0WxALE0mp88p/LldiOJ+J0/VZBE+zoBLrDXpLVvauF9CRs2qjiWAwkFMQQBBvabFDWnZjjQWKL7k9dABjU9FbWdwkCVdrfyAKs6Lwc412tzONvraSLHiObehop5J1qwwOsYdZeWTx0/4swsfjVwpcemDdXDaaXQeRltBt22EkzkVp/Q9iMxup6VShtcbgjnig5xxsl/3RKcdT4wyGSWDUV5fVRebKLr514EroMSP9axCeSmBRXfhOAMJx26Ql3UxrJBxYKh2ZzA75Q50WkYaFYZbeBr6dRFUf8oOUteEo78LHMtedTwHkZSVDc5ravxFXXjFAOR4I/PGdn5ulF9vL+qczJrKpCgGWnkPOALL6bBWvRAqARfdtJPAz+R9qpLYe3cgLKnLVaaTppqLm7cUldt+F3f2DDEfg==;OBdgs52cEhg2eqlUj5/a0A=="
+secured: "RDKur3wzq9+U62lD5T91Bkh/yvJL/V5Cdfl62+qrs2SwlMp2SUXoLNnQVn1XwV9KBTxpoihqe4ZKYz4NLaVsHNLo+MV9mMjgfyIkjcLLjMmDAa87XKvjGVQwkGyc8154evsygtc6jT6CFUbvNUN/VAPgWHpksBXoQRHn4JLyFsKyqmH0FWJHiRak5qnHR0WcPMwQm/vSKsHJUehw4K/61B8njhg8SA6bWJHLWA+l0FV+xkzqDgaD5m+cI2cokMcw9MOft870zNa6J+FUUxDobOYLOYnKj3GlVZRdBvwrkMg2GY3oe2i5XDCL6B/0pSTIo4WJ3Qf52IiPbVvxsm/Ro9yoct9AGPA5mSqa485L0A1Qmr6b61kJ2CvxW/m2PsPn81g0xFEdkCNjOF5OIf4uJwnXmijY+x+fidBEcb6OoMBBa1oHNCYWijruYRYH1s/Z20DHBZHyzCMcc11yb0l6PA==;wxCAD7NX5W18uMma+Jz0XQ=="
 ---
 

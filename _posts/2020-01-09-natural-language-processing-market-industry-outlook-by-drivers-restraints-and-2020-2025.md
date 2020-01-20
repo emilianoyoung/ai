@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-09T08:37:00Z
 sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-industry-outlook-by-drivers-restraints-and-2020-2025-2020-01-09
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Retail and e-Commerce Market - Industry Insights By Growth, Emerging Trends And Forecast By 2025"
-    excerpt: "Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
-    publishedDateTime: 2020-01-16T08:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
     excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
     publishedDateTime: 2020-01-14T11:14:00Z
@@ -67,6 +54,34 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
+    publishedDateTime: 2020-01-14T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cognitive Computing 2020 Global Market – Opportunities, Challenges, Strategies & Forecasts 2026"
+    excerpt: "“Cognitive Computing 2020” WiseGuyReports.Com Publish a New Market Research Report On –\" Cognitive Computing 2020 Global Market – Opportunities,"
+    publishedDateTime: 2020-01-09T08:55:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096514/cognitive-computing-2020-global-market-opportunities-challenges-strategies-forecasts-2026
+    ampUrl: https://amp.benzinga.com/amp/content/15096514
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096514
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
+    images:
+      - url: https://www.abnewswire.com/uploads/1578562921.jpeg
+        width: 600
+        height: 400
 
 secured: "mV7t5qhdZgf9ZxqZCEFB+I1zwZe9gHJ/xgKBqVBx4JSV/qO5Tbn4zxOOVpm/oN9TTAKJ/L5vkUhz50mpLYCu8qKhRWMEJF6WCT9oAD85l91Qeg2PJAOquMPqm3rVuIlxcU8ZEyhdWQYwuPnIyPSnYriZt94OWR7z52Y4LkpdubB07VGbofTsjpISKQyP1BmWNz4oVMXOBDdJ5VT9DyLU8Z06bq1EweleoGNg20vj/wWSWcpY83rDI6V4krZr5hwKumxkLoeR+ZwCelH51XK+Cs75FDIl2DyJi2+o6VaEU0M=;dr3BTI6q/+nTg4iiGrKl+g=="
 ---

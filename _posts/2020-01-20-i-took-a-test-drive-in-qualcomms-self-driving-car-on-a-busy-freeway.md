@@ -86,6 +86,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e167b77888ec00007eabf94%2F0x0.jpg
         width: 1200
         height: 800
+  - title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
+    excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford University in the USA have created a system that bounces a laser beam off a wall to create an 'image' of objects hidden from view. The 'image' captured won't ..."
+    publishedDateTime: 2020-01-17T09:32:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 49
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/17/09/23514880-0-image-a-98_1579253477085.jpg
+        width: 636
+        height: 382
   - title: "Feds largely leave self-driving-car rules to makers"
     excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
     publishedDateTime: 2020-01-09T12:34:00Z

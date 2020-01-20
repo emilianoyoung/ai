@@ -25,6 +25,28 @@ images:
     height: 480
     title: "Researchers impart new ability to control paralyzed hands via artificial neural connection"
 
+related:
+  - title: "An artificial neural connection allows a new cortical site to control hand movements"
+    excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science, showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
+    publishedDateTime: 2020-01-07T15:39:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.html
+    ampUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
+  - title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
+    excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
+    publishedDateTime: 2020-01-10T06:06:00Z
+    sourceUrl: https://www.openpr.com/news/1893347/artificial-neural-network-market-outlook-to-2027
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
 secured: "8vBlBt5tidF9vpQ9fpbiSlwgT6edrC68xHP3rr7EdEOZTRSudl3v9QagBXr4NzMEKdWCt1AyTuVAUO9QF8rbK2YJUN04G9p1nZRh7NUfd1ZGoCgwJEJn5HeTp1mviiSQWUl0oRztE6jf9vGZkqkYarShHkLLYXGOrUNonJ5SiRPGrxZVFUmmr4TIfkEfVkbrcv/sAZtCZ1rjXbg9jKkI5FmUKTdvP1X3Lp/jEPNmm56lpSo2weie/LuyIpq4y4gIUbbDbUgkkxiYeAHIt53X3s94pFiKEwI9Z1tnUQw9geE=;g9RVcQm0RCivV3RaBzsSsw=="
 ---
 

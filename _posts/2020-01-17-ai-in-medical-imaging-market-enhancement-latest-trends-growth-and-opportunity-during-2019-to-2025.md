@@ -65,6 +65,19 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 49
+  - title: "Does Machine Learning Improve Prediction of VA Primary Care Reliance?"
+    excerpt: "Health Care System, did not outperform traditional regression models. Welcome the the new and improved AJMC.com, the premier managed market network. Tell us about yourself so that we can serve you better."
+    publishedDateTime: 2020-01-16T01:59:00Z
+    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/does-machine-learning-improve-prediction-of-va-primary-care-reliance
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 39
+    images:
+      - url: https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg
+        width: 270
+        height: 270
   - title: "Artificial Intelligence to Improve Resolution of Brain Magnetic Resonance Imaging (1 of 2) (image)"
     excerpt: "The method, designed by researchers of the UMA, enables the detection of pathologies with increased accuracy and definition, without additional tests."
     publishedDateTime: 2020-01-17T15:26:00Z
@@ -78,17 +91,6 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/221867_web.jpg
         width: 1440
         height: 960
-  - title: "Application of artificial neural networks for automated analysis of cystoscopic images: a review of the current status and future prospects."
-    excerpt: "AI-assisted cystoscopy may improve image recognition and accelerate data acquisition. To provide a comprehensive review of machine learning (ML), deep learning (DL) and convolutional neural network (CNN) applications in cystoscopic image recognition. A detailed search of original articles was performed using the PubMed-MEDLINE database to ..."
-    publishedDateTime: 2020-01-13T08:07:00Z
-    sourceUrl: https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.html
-    ampUrl: https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.amp.html
-    cdnAmpUrl: https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/118323-application-of-artificial-neural-networks-for-automated-analysis-of-cystoscopic-images-a-review-of-the-current-status-and-future-prospects.amp.html
-    type: article
-    provider:
-      name: UroToday
-      domain: urotoday.com
-    quality: 4
 
 secured: "BlnvNYa/CMweI8U396H6dpNsCti2RJuZgBlq/BO8uGOblmfH9PC3gfHHDXpWTb4LhoKoJhHAhg2NNc+nhKP3qRUzxhxW2cxMtGbaWRGpr2Cxp2yiIOuEMw/u+ti0hCyM7mqtRyv9QVOLarYVfoJs6T4u+qG1AB7SjNCe5VgjImbKj8rA0Zhsgo6nR78DFamd9zwuPuyf7qTWSwy3VedCFgikLZGSxuQ3W/So/GY93Fzu+LSWP0fdYTONjsq6zNnKO3vsTdb1DmbNl+wzPnLM3vyrvzEg51BNiD2tAKcvi4s=;QKA9OOv608+IEjpd6TugXQ=="
 ---

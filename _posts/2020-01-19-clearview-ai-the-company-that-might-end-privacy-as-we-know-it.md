@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
-    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
-    publishedDateTime: 2020-01-19T20:50:00Z
-    sourceUrl: https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
-    ampUrl: https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is"
+    excerpt: "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ..."
+    publishedDateTime: 2020-01-16T16:33:00Z
+    sourceUrl: https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained
+    ampUrl: https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained
+    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 54
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 66
     images:
-      - url: https://www.mcall.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
-        width: 1200
-        height: 800
+      - url: https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg
+        width: 720
+        height: 406
   - title: "Clearview AI: The company that might end privacy as we know it"
     excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
     publishedDateTime: 2020-01-20T03:34:00Z

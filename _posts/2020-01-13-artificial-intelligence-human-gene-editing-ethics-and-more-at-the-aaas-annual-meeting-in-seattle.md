@@ -40,15 +40,21 @@ related:
       - url: https://www.deccanherald.com/sites/dh/files/article_images/2020/01/19/file78uvgzoba0mwflzi1oj-1579426179.jpg
         width: 1200
         height: 497
-  - title: "Why Managers Won't Be Replaced by AI: The Creativity Of Human Intelligence"
-    excerpt: "Today, around the world, across most industry sectors, front-line, midlevel and, yes, even executive-level managers spend 54% of their workdays on administrative coordination and control. In contrast,"
-    publishedDateTime: 2020-01-16T13:08:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/why-managers-wont-be-replaced-by-ai-the-creativity-of-human-intelligence/
+  - title: "The age of artificial humans is here"
+    excerpt: "or more intelligent than human beings falls under the brand of artificial general intelligence (AGI). In fact, Cross referred to Soul Machines as an “AGI research\" company instead of an AI research firm. AGI is pretty much every world-dominating robot or AI you have seen in movies, like, say, The Terminator or Avengers: Age of Ultron."
+    publishedDateTime: 2020-01-16T15:57:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here-11579187404431.html
+    ampUrl: https://www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/the-age-of-artificial-humans-is-here/amp-11579187404431.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
+        width: 600
+        height: 337
 
 secured: "GDotMo6hetD7LcpZY8W7de8BlxEqk1V2dnqgRjB4LfDbmFgl3W+8ursSZgDquYoegtwUm8Cx8YhWz5cuxex/ue2WCdy+MizKIsSti9kOyZO/UgfIQH8EMR5CDyH5Tg7+Gr3KTs+ZiDxhNLDAbDrWnOgFU7XOsVNPlMn5wrCgRHDejN6POylpYsz753qAh+cTcym65TlXSTV0ienbhG7oYURVhlUFvnaqNPg05EUOARV8+zCGGYJSC3b70ij6OMQyPpXMsiEge63rnZPrcXEDQ6cRSfWjpgkmehLCQT3nQ+Y=;mVlswGVKVyhu7/LCk4sJmg=="
 ---

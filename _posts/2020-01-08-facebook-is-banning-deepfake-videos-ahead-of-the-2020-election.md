@@ -26,60 +26,36 @@ images:
     title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
 
 related:
-  - title: "6 ways that Chinese tech is ahead of the rest of the world"
-    excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
-    publishedDateTime: 2020-01-04T12:00:00Z
-    sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-    ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+  - title: "Facebook cracks down on misleading videos"
+    excerpt: "They will be removing a video if it \"uses artificial intelligence or machine learning ... RELATED: Is that video real? Research lab fights Deepfake videos to stop spread of misinformation The bottom line: you still can't believe everything you see on Facebook. It's best to get your news from a trusted source."
+    publishedDateTime: 2020-01-08T19:57:00Z
+    sourceUrl: https://www.wfmynews2.com/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
+    ampUrl: https://www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
+    cdnAmpUrl: https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 44
     images:
-      - url: https://cdn.mos.cms.futurecdn.net/nMTQhMT2WkxcBGvCZcE9qL-1200-80.jpg
-        width: 900
-        height: 506
-  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
-    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
-    publishedDateTime: 2020-01-09T22:57:00Z
-    sourceUrl: https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr
+      - url: https://media.wfmynews2.com/assets/WFMY/images/d26bd8b5-8985-41a8-b85f-2d97e10b02d9/d26bd8b5-8985-41a8-b85f-2d97e10b02d9_360x203.jpg
+        width: 360
+        height: 203
+  - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
+    excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal ..."
+    publishedDateTime: 2020-01-08T22:44:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
+    ampUrl: https://amp.usatoday.com/amp/2836428001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
+      name: USA Today
+      domain: usatoday.com
+    quality: 30
     images:
-      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
-        width: 1380
-        height: 600
-  - title: "Meet the 11 power players of Amazon Web Services who helped build it into the biggest cloud business in the world"
-    excerpt: "Amazon Web Services has nearly half of the public cloud market share, well ahead of Microsoft and Google. These 11 executives are leading the charge."
-    publishedDateTime: 2020-01-08T18:06:00Z
-    sourceUrl: https://www.businessinsider.com/11-executives-power-players-amazon-web-services-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: https://i.insider.com/5e137ed2855cc26bf008cad3?width=1200&format=jpeg
-        width: 1200
-        height: 600
-  - title: "From 10-second toothbrushes to pizza robots: Here are 9 of the weirdest tech products at CES"
-    excerpt: "The carry-on is equipped with AI, self-driving and computer vision technology ... If it is more than 6 feet away from its user, it will alert them via a smart band on their wrist. Jennie, a cuddly robot puppy created by robotics startup Tombot, is designed for Alzheimer and dementia patients, or others who could use some companionship but ..."
-    publishedDateTime: 2020-01-10T22:49:00Z
-    sourceUrl: https://www.ksl.com/article/46702570/from-10-second-toothbrushes-to-pizza-robots-here-are-9-of-the-weirdest-tech-products-at-ces
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 28
-    images:
-      - url: https://img.ksl.com/slc/2769/276993/27699367.jpg?filter=ksl/responsive_story_lg
-        width: 614
-        height: 345
+      - url: https://www.gannett-cdn.com/presto/2019/04/26/USAT/32128b1f-352f-49ed-9d3d-83a48600d31f-RectThumb.png
+        width: 1920
+        height: 1080
 
 secured: "FvzMpLszX4r4q/UxCd2OHyL5ufxTLNIJV+dleMSDqgPb7RtX6OePgFeSVY6oPvvy4WfeVSnQUxcL181z6nlNwaCrVcdY+1NmDAZ9ED/M+H2E+UnAEXcrfY/G33cayjIhOUQ4ZfEOKgPKaa+oeu6v/l6HnT2GkUYsi3z15v6iV5XUMo4476Hq/RPyB540sZZgZ+HRhGJJabewoNNrBi43U1SdomAdnYgbd2IQTDrbr52vneq4eeIim5dxrrL1zxqpEQ65Bow60Z1N6aaI+JAAi9Z0DMTpfuqNW4iGYIgT/OI=;D4dt0pjSdYd3G1/0Z3NuOw=="
 ---

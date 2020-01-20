@@ -70,6 +70,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI in Retail and e-Commerce Market - Industry Insights By Growth, Emerging Trends And Forecast By 2025"
+    excerpt: "Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
+    publishedDateTime: 2020-01-16T08:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-retail-and-e-commerce-market---industry-insights-by-growth-emerging-trends-and-forecast-by-2025-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
     publishedDateTime: 2020-01-15T09:00:00Z
@@ -83,21 +96,6 @@ related:
       - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
         width: 1200
         height: 627
-  - title: "20 People to Know in Health Care: Tina Steltenpohl"
-    excerpt: "I believe the health care industry is changing quickly as we learn to incorporate the use of artificial intelligence and other technologies to better serve our patient populations. We are already seeing movement to more outpatient procedures and treatments ..."
-    publishedDateTime: 2020-01-17T10:57:00Z
-    sourceUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.html
-    ampUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-tina-steltenpohl.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://media.bizj.us/view/img/11578453/steltenpohl-tina*600xx4896-3264-16-0.jpg
-        width: 600
-        height: 400
   - title: "Artificial Intelligence in Aviation Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
     excerpt: "New York, January 16, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
     publishedDateTime: 2020-01-16T03:34:00Z
@@ -129,15 +127,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 7
-  - title: "Intelligent Apps Market Outlook to 2025 - Google, Facebook, Intel, IBM, AWS, BigML"
-    excerpt: "The presence of several AI developers and technology solution providers that are developing smart apps for various business verticals contribute to the growth of the intelligent apps market. Global Market Insights, Inc., headquartered in Delaware, U.S., is a global market research and consulting service provider; offering syndicated and custom ..."
-    publishedDateTime: 2020-01-14T17:43:00Z
-    sourceUrl: https://www.openpr.com/news/1896195/intelligent-apps-market-outlook-to-2025-google-facebook
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "9COhlJ8poh063H+0hZbQW9lKMkWKgGVTUGP5gHPYPxTYTcXr7TN2k8CbLcnSIcp/fi/utsn6vbvS1+jmdOcfflh2F7qEYQXjw8l7ZPtIaPzxxQ96wa6vLMBsdn0RJRgjeOONSOWBCHu48mrF2qzj/FHJpuea1c+PE57ihtGARa/ADFjaEoKTDrhrKrfGfzTjHlvXD+iEr32E3Ey+Ew0owg6TnEI3vQGkI1VAzgDpjnCJCbMX9VTCG7gzNmewPjNKKSzEUrO4JEZtnSyfMf2SF2lL5TmuWHev2wWbJDALgko=;ilQYwqs/cGp8spW12HnsfQ=="
 ---

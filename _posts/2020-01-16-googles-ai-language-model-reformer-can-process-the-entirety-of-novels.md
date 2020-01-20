@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-ca
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,23 @@ images:
     width: 1200
     height: 600
     title: "Google’s AI language model Reformer can process the entirety of novels"
+
+related:
+  - title: "Will Google’s more-efficient ‘Reformer’ mitigate or accelerate the arms race in AI?"
+    excerpt: "Also: AI is changing the entire nature of compute \"The reversible Transformer does not need to store activations in each layer and so gets rid of the nl term,\" write Kitaev and colleagues, referring to the N layers of a network. With these efficiencies, they are able to cram a twenty-layer Transformer into a single GPU, they write."
+    publishedDateTime: 2020-01-17T22:13:00Z
+    sourceUrl: https://www.zdnet.com/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
+    ampUrl: https://www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-googles-more-efficient-reformer-mitigate-or-accelerate-the-arms-race-in-ai/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: https://zdnet3.cbsistatic.com/hub/i/2020/01/17/d6a939b3-3e00-4284-8ae9-b410aee8530d/reformer-lhs-hashing-jan-2020.png
+        width: 1658
+        height: 1014
 
 secured: "pYYJc7DsXVyp3VEAEKg0p0/9IY5jv6f9LwyNOxJfnzl1UrUq746ZjlTPNOjNEK2oFYEixQUlBWihMrmwOBuYT8V8fGWEI6AfXCYzdmwnQiB7UrFwJbxWnkAA3+OZ9eceGKAp1A1cU04gs7iC1VarGY9XaCGDd1diJIkT9sGYnpUtr4gtnzXgfd2ovvhfIk2V+9iwLXE3qWjnIKXlEUmbzdJpplFsms8ebwv7xMpAaDgM0FO1S2Rx4oLZRiroyVMUOuPTvvxpiEOolZLuliKDwNASXxKt3z4Su7LeRDIYMf/ILJCath5svXIq002VVoIhj9Zvm5ZNhF/s+88G6Tr20i33NYFMh8JuqYjJtRNAaLO1j7xjmBn4tm24ZWBO/7mo4BTKSamHMsrQPkZSXaGATo5aF6vXnwyDkmmojXxXWrY0n27DGgeiPr/K+jwC+DMWdcYmWN7h2Nhpec3xTCA2Qw==;F98DnQiC/pE90n0DwmBvow=="
 ---

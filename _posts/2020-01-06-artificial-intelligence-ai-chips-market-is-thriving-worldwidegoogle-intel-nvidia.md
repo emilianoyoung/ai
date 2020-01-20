@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T19:47:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
 type: article
 quality: 92
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
         width: 252
         height: 335
-  - title: "Artificial Neural Network Market Outlook to 2027 - NeuroDimension, OLSOFT, Starmind International AG, SwiftKey, Ward Systems Group"
-    excerpt: "Rise in demand for analytical tools and spatial data, growth in demand for cloud-based solutions, and an increase in the market for prediction solutions are the prime factors driving the growth of the artificial neural network market. However, the lack of trained professionals is the primary factor restraining the growth of the artificial ..."
-    publishedDateTime: 2020-01-10T06:06:00Z
-    sourceUrl: https://www.openpr.com/news/1893347/artificial-neural-network-market-outlook-to-2027
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "Ayoll+dEUksc62WfLyEslWI/4xTj1Ax8Q6nnZSEiGGsjuuPQMwmbo7LvURbRMJawVfWiEiFrg+q0PfRNkvj2adhfPLhsj+hNt3RubZV21Hnf/YmRFzDw1HfUbmhw2VesBR2Cn6TxGDd+96KHltpd8NfYNrCj4MHskuIkHTot4JpVTwjTYG1sRDC+aVvbOk1TYPzp1nyazmG/gmtGBbmoATLMSP1lrHFgu+2dOE3VTuGgJqu4JMf51KQ517J1S0k3F9WVyD13wI0vUd8MPkLRF7zRd3cOYAL1wOz5NBIbMJU=;072gJwrep+rE++jKClo7fg=="
 ---

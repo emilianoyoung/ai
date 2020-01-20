@@ -25,36 +25,21 @@ images:
     title: "Apple confirms purchase of AI startup Xnor.ai"
 
 related:
-  - title: "Apple buys Seattle-based artificial intelligence company Xnor.ai"
-    excerpt: "Apple acquired Seattle-based artificial intelligence company Xnor.ai, bringing on more talent in a key area of technology. The company, founded in 2016, had raised millions of dollars to build tools that help AI algorithms run on devices rather than remote data centers. In recent years, Apple has pushed to run this type of software on its ..."
-    publishedDateTime: 2020-01-15T18:35:00Z
-    sourceUrl: https://www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/
-    ampUrl: https://www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/apple-acquires-seattle-based-artificial-intelligence-company-xnor-ai/?amp=1
+  - title: "How the Xnor.ai purchase opens Apple’s AI future"
+    excerpt: "smarter person and object identification in Photos and smart object recognition in ARKit. Another place where Apple may be able to make a difference is in CCTV video, improving playback and person recognition systems in these. Wyze delivered this using Xnor.ai. Apple’s interest in HomeKit Secure Video and its focus on HomeKit, along with its ..."
+    publishedDateTime: 2020-01-17T16:20:00Z
+    sourceUrl: https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.html
+    ampUrl: https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 72
+      name: Computerworld
+      domain: computerworld.com
+    quality: 61
     images:
-      - url: https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg
-        width: 780
-        height: 501
-  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is"
-    excerpt: "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ..."
-    publishedDateTime: 2020-01-16T16:33:00Z
-    sourceUrl: https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained
-    ampUrl: https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained
-    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 66
-    images:
-      - url: https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg
-        width: 720
-        height: 406
+      - url: https://images.idgesg.net/images/article/2019/02/iot_internet_of_things_lifestyle_connected_appliances_by_elenabs_gettyimages-1018211724_2400x1600-100788445-large.jpg
+        width: 1200
+        height: 800
 
 secured: "OC2vu/fpp7YiuKaJCXpIXMcNvs2Mueq/IMxC8ZYkJWN2sXLqgW2dMsUHkyEGAdtt7M2GJRAu7gSOnN+PtjVj/uDsPkbhjoPWb4GtpB0ctKx6LTHj0tpaDCf15wPhtseWEfRmSM4oCc/zKyQanaxqt7dryfCfVzEbAqFjK7pGI3Al7fwUQLtUDfeOzguFpK2dF47MU6DVrUfco4+zYhAilrJaiJ1Hnei3YGdmLVc2DzoE8dJcKoTp7fnsjzZTar+BSaZPpttJHKR6PZDDuLtP4G2nMEEvNcIpgblhGS21ImA=;gtBK02PqOE5OHb2c7qVvVA=="
 ---

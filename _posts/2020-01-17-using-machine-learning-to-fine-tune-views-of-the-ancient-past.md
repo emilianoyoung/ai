@@ -20,34 +20,30 @@ topics:
   - Machine Learning
 
 related:
-  - title: "How Are Businesses Taking Advantage of Machine Vision Today?"
-    excerpt: "It’s easy to confuse machine vision with computer vision. Not only do the terms sound a lot alike, but they are closely related. There are, however, important distinctions between the two."
-    publishedDateTime: 2020-01-17T16:55:00Z
-    sourceUrl: https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
-    ampUrl: https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
-    cdnAmpUrl: https://themoderatevoice-com.cdn.ampproject.org/c/s/themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
+  - title: "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence"
+    excerpt: "Related: The 6 Strangest Robots Ever Created \"They're neither a traditional robot nor a known species of animal,\" study co-author Joshua Bongard, a computer scientist and robotics expert at the University of Vermont, said in a statement. \"It's a new class of artifact: a living, programmable organism.\" Algorithms shaped the evolution of the ..."
+    publishedDateTime: 2020-01-14T21:15:00Z
+    sourceUrl: https://www.livescience.com/frogbots-living-robots.html
+    ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
+    cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
     type: article
     provider:
-      name: The Moderate Voice
-      domain: themoderatevoice.com
-    quality: 44
+      name: Live Science
+      domain: livescience.com
+    quality: 153
     images:
-      - url: https://themoderatevoice.com/wp-content/uploads/2020/01/Robotic-Vision-macrovector-Freepik-.jpg
+      - url: https://cdn.mos.cms.futurecdn.net/hPio9oXE73b6NhFJiBF2HD-1200-80.jpg
         width: 800
-        height: 800
-  - title: "A Machine Learning Approach to Growth Direction Finding for Automated Planting of Bulbous Plants"
-    excerpt: "The framework takes as input three x-ray images of the bulb and extracts shape, edge, and texture features from each image. These features are then fed into a machine learning regression algorithm in order to predict the 2D projection of the bulb’s growth direction. Using the x-ray system’s geometry, these 2D estimates are then mapped to ..."
-    publishedDateTime: 2020-01-20T10:12:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-57405-8
+        height: 450
+  - title: "Meet the xenobot: World’s first living, self-healing robots created from frog stem cells"
+    excerpt: "However, their lifespan can increase to several weeks in nutrient-rich environments. And although the supercomputer — a powerful piece of artificial intelligence — plays a big role in building these robots, it’s “unlikely” that the AI could have evil intentions. “At the moment though it is difficult to see how an AI could create ..."
+    publishedDateTime: 2020-01-16T13:57:00Z
+    sourceUrl: https://kfor.com/2020/01/16/meet-the-xenobot-worlds-first-living-self-healing-robots-created-from-frog-stem-cells/
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 26
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-57405-8/MediaObjects/41598_2019_57405_Fig1_HTML.png
-        width: 685
-        height: 268
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 10
 
 secured: "E7j6ZBrenYiePGgU8n0SoD1gdWA9FS6jaOrp5fADM6Rm53BNnogl4Sjr/sv6nt+pagmNqhwRR+1lYpzzl4SkS2SFEa/p3Lo2ifevXhx4HV+ySxVbqduj+QZzEvQF3bGbLWCknQQi5QOOl3pxPjmuIcTb08QmgIN2qRPB8QvVAL5CfXWQGgvp8E9m5Lv3vAFgf4/FXeqierCWtBpFE9JxegR8pEzhfZAfRuSbIzMFE3HVb1rsnfRYaD+W9JT63Zc9tCYhDN9ZuH306nZFg+WwTJi7uayesfo0jEGryGF2MqT7OmPae4B2aPEKyq50K+ywzECu23r7BHwZQnHVn+wMutNN6mEuIrgtMjv8MLRC2Lge2Kd8f4DdrssotFwhm/A644GXwldACS74pXHMtutkhEH+yWnPuQrXUHhNfVkIsTfVc1hKo56UJPC+wbjpnzdaNNrYonpdSnSOr71z+YDgVA==;NUwv2LtYUADkCKOLbyPUdw=="
 ---

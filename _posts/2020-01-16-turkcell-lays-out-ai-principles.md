@@ -54,6 +54,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2016/12/White-House-Matt-Wade-Flickr.jpg?fit=2048%2C1536&strip=all
         width: 2048
         height: 1536
+  - title: "Here’s how to regulate artificial intelligence properly"
+    excerpt: "From Brussels to Beijing, the Élysée to the Oval Office, leaders around the world are calling for bold regulations to govern artificial intelligence (AI ... dozens of policy areas — from criminal justice to consumer pricing, housing to health care. The lesson: There is no one-size-fits all approach. Seizing opportunities while preserving ..."
+    publishedDateTime: 2020-01-13T11:03:00Z
+    sourceUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/
+    ampUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: https://www.washingtonpost.com/resizer/G_lvPl6_ldcLRJ6aHK7VhVQwQCs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg
+        width: 1440
+        height: 943
 
 secured: "QGiS6rTAIizjdENzmc3jyhTkmqRV5KjqLvo0Lb6ufzZXPUM5qUqWHtQV+wA3qIyPg5Pg9DyqO08rMKhV4crDqbyIWjgoWyD4g2iUxki4ctb5I7EbkaQ1speJOhJSCdL5KCbkxGj8ZQkAs7KPt4Nd0zlHsgHY5WM+WbJAjB/ex5Bo5g/w++5hAeZUPNXhLEYIImNKFSiQeQcABwZyENOmgSLf+wvoDQtxoHfTPK950WjU69ekCG38rLC13x7fMhfoYi7VTGaFgJNiQkgB4f8FsXAiJJ9s6FEs5r7vTtW5Xlk=;eh3VXZ3wAgYzl91C0XdZGg=="
 ---

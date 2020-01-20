@@ -18,32 +18,19 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Is Artificial Intelligence the key to unlock the limitless possibilities in Healthcare?"
-    excerpt: "Artificial Intelligence and Machine Learning are taking the major scoop of technological development and leading the digital transformation era. While entering the new decade with digital transformation, industries like Manufacturing, Banking, Automotive and Healthcare etc. are transformed in a manner that, there are certain tasks on which ..."
-    publishedDateTime: 2020-01-17T08:20:00Z
-    sourceUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/
-    ampUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
-    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
+  - title: "Major Brazilian Bank Tests Homomorphic Encryption on Financial Data"
+    excerpt: "An entity performing computation may be legitimate but at the same time curious about your information: When you ask a cloud service how long it takes to get to work ... The first step was to use HE to encrypt transaction data, as well as the machine learning-based prediction model. Financial analysts usually pinpoint factors in someone's ..."
+    publishedDateTime: 2020-01-10T19:47:00Z
+    sourceUrl: https://www.darkreading.com/threat-intelligence/major-brazilian-bank-tests-homomorphic-encryption-on-financial-data/d/d-id/1336779
     type: article
     provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 46
-  - title: "20 People to Know in Health Care: John Williamson"
-    excerpt: "What disruptive technologies have shaken up the industry in the past five years? Artificial intelligence (AI) and robotic process automation are making their way out of the research labs and into the software being used across the health care industry on a daily basis."
-    publishedDateTime: 2020-01-17T10:55:00Z
-    sourceUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-john-williamson.html
-    ampUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-john-williamson.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-john-williamson.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
     images:
-      - url: https://media.bizj.us/view/img/10638447/john-williamson-headshot*600xx1878-1251-0-0.jpg
+      - url: https://twimgs.com/nojitter/darkreading/dr-logo.jpg
         width: 600
-        height: 399
+        height: 600
 
 secured: "H/keUK2zZvoTe2C5LMyNVTlQXBR0yS/CSbNwZ6r1XxbfL8Wh7zLSH+TgVXGGY6ITnZCBZLjLgB/FvrTJRvb21GPjhCJCt7ZE6ytjEVo1sUt4VF988AopKiIzGBk1Y62+IoxjhqPs/8VczS+FFNXFlX7thyOAHHV26DKXpSBHz9NnV2+Ik5izGPgwiWtbLixUcG1Za94bvTlBD8/s7w9kSnHk8U4FAenJnao8NDzdy+eZJFfDyO6Z8u7sJOS4nA/slipXW561cCqGnUa6r6Um6az4YNTp47F4//v0lQcs/smtTScmQc8GPzjqJVuzLNxJGZIoVAf4QDl6epaeXF70ggYE1miPjEJJdPP/n4u7BWrV7jVtjJW0VetiF1UpXyE7BLy8iysAHyV7ig7FTnRFY3tsbSXKR9OGLt/5QVNpZ5yn8PpNpq6/b0CUmtHJalw/dwfbByMYr70aNfHCPpnjVA==;a5KsZNgVZLuY0YRTNczUMA=="
 ---

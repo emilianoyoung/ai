@@ -28,110 +28,41 @@ images:
     title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
 
 related:
-  - title: "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026"
-    excerpt: "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,"
-    publishedDateTime: 2020-01-15T15:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15
+  - title: "Computer Vision in Artificial Intelligence Market Revenue Analysis by Top Players"
+    excerpt: "According to the AlltheResearch analysis, the key players in the Computer Vision in Artificial Intelligence industry are Cognex Corporation, Omron Corporation, Intel Corporation, Basler AG and Google LLC."
+    publishedDateTime: 2020-01-16T07:44:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-market-revenue-analysis-by-top-players-2020-01-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 85
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
-    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
-    publishedDateTime: 2020-01-13T20:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
+  - title: "Artificial Intelligence in Fashion Market to 2027…"
+    excerpt: "research analysts, and key opinion leaders specializing in the artificial intelligence in fashion market. Some of the players present in artificial intelligence in fashion market are Adobe Inc., Amazon Web Services, Inc., Catchoom Technologies S.L., Facebook, Inc., Google LLC, Huawei Technologies Co., Ltd., IBM Corporation, Microsoft ..."
+    publishedDateTime: 2020-01-20T07:06:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2020-01-20/artificial-intelligence-in-fashion-market-to-2027-europe-market-to-capitalize-on-rising-demand-fro
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-16T06:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-16T10:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Software Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
-    excerpt: "Kenneth Research provides an extensive study by our analysts which offers forecast assessment by correlating the historical data with key market dynamics. The Artificial Intelligence Software Market further includes trends and opportunities that are highlighted,"
-    publishedDateTime: 2020-01-16T04:57:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-software-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
-    excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
-    publishedDateTime: 2020-01-14T05:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
-    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
-    publishedDateTime: 2020-01-15T22:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: PharmiWeb
+      domain: pharmiweb.com
     quality: 39
     images:
-      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
-        width: 1447
-        height: 908
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
-    publishedDateTime: 2020-01-14T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
+  - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
+    excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
+    publishedDateTime: 2020-01-14T12:24:00Z
+    sourceUrl: https://www.openpr.com/news/1895885/global-artificial-intelligence-in-accounting-market-industry
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: openpr.com
+      domain: openpr.com
+    quality: 1
 
 secured: "UskXGbsIUvzH/1wal8gKSd24zhvsNuvBBtzn8Q54gJDtevDolNagZAHsrjF4QW79TbOD9vIBJtbIpGG8FF6JClfaIawmJ4ihypm0ZvceoXUKO1hpRlniDWqApuoSHtnbCH44JfO1gaRI5Whq4TJfCfBzl+nzCAUi39OP9TfPHKXdMsmYDGEDYb4dyPSzUWrMZJiX0/vBBqD57xXHdevADZnF/excN1p9Eg0tFhAxK54WMCRa0UDeTo5ntq7386ny5pSNY3MAonw8iqEdIwTQQKukiXplfJJUce2+VaC85b8=;DygXSf97n3eSW9ZzQCC3lw=="
 ---

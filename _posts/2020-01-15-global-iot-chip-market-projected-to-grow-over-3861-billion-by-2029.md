@@ -50,32 +50,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-01-16T06:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
-    excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
-    publishedDateTime: 2020-01-13T21:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast"
     excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
     publishedDateTime: 2020-01-16T10:31:00Z
@@ -102,6 +76,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
+    excerpt: "Automotive Artificial Intelligence Market 2020 Wiseguyreports.Com Adds \"Automotive Artificial Intelligence-"
+    publishedDateTime: 2020-01-20T08:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
     excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
     publishedDateTime: 2020-01-14T05:41:00Z
@@ -111,19 +98,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
-    publishedDateTime: 2020-01-14T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

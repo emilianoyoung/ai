@@ -28,21 +28,19 @@ images:
     title: "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft"
 
 related:
-  - title: "Cognitive Computing 2020 Global Market – Opportunities, Challenges, Strategies & Forecasts 2026"
-    excerpt: "“Cognitive Computing 2020” WiseGuyReports.Com Publish a New Market Research Report On –\" Cognitive Computing 2020 Global Market – Opportunities,"
-    publishedDateTime: 2020-01-09T08:55:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096514/cognitive-computing-2020-global-market-opportunities-challenges-strategies-forecasts-2026
-    ampUrl: https://amp.benzinga.com/amp/content/15096514
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096514
+  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
+    publishedDateTime: 2020-01-14T05:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
-      - url: https://www.abnewswire.com/uploads/1578562921.jpeg
-        width: 600
-        height: 400
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
     excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
     publishedDateTime: 2020-01-10T14:15:00Z

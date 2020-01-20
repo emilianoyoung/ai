@@ -25,114 +25,157 @@ images:
     title: "Artificial Intelligence and Machine Learning"
 
 related:
-  - title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
-    excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,"
-    publishedDateTime: 2020-01-06T19:54:00Z
-    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
-    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+  - title: "Dive into AI and machine learning with this $40 training"
+    excerpt: "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ..."
+    publishedDateTime: 2020-01-19T14:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/
+    ampUrl: https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Engadget
+      domain: engadget.com
+    quality: 104
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg
-        width: 1181
-        height: 663
-  - title: "Artificial intelligence: How to measure the ‘I’ in AI"
-    excerpt: "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ..."
-    publishedDateTime: 2020-01-12T09:07:00Z
-    sourceUrl: https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa
+        width: 600
+        height: 350
+  - title: "Zinier raises $90 million to embed field service work with AI and machine learning"
+    excerpt: "Zinier’s eponymous suite delivers insights, general recommendations, and specific tasks by running operations metrics through proprietary AI and machine learning algorithms. As for ISAC, it triggers preventative actions based on equipment health while anticipating stock transfers, and it scans technicians’ calendars to help define ongoing ..."
+    publishedDateTime: 2020-01-15T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/
+    ampUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 98
     images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg
-        width: 796
-        height: 417
-  - title: "The Self-Driving Enterprise And The Road To Automation"
-    excerpt: "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes."
-    publishedDateTime: 2020-01-09T13:09:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
-        width: 711
-        height: 461
-  - title: "The Trump Administration Wants to Regulate Artificial Intelligence"
-    excerpt: "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ..."
-    publishedDateTime: 2020-01-09T22:34:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/
-    ampUrl: https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 59
-    images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/Mockup-1-e1578777547819.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
-    excerpt: "AI could intervene directly to improve personalized health care and product development. Importantly, the health management platform precedes the leveraging of AI, so we must equally invest in cybersecurity, Big Data, cloud computing, and blockchain. Artificial intelligence for Africa presents opportunities to put the continent at the forefront ..."
-    publishedDateTime: 2020-01-13T19:12:00Z
-    sourceUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/
-    ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
-    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
+  - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
+    excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ..."
+    publishedDateTime: 2020-01-15T10:02:00Z
+    sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
+    ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
     type: article
     provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 50
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 89
     images:
-      - url: https://www.brookings.edu/wp-content/uploads/2020/01/global_tanzania_drone.jpg
-        width: 6720
-        height: 4480
-  - title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
-    excerpt: "The emergence of artificial intelligence (AI) and its progressively wider impact on many sectors requires an assessment of its effect on the achievement of the Sustainable Development Goals. Using a consensus-based expert elicitation process, we find that AI can enable the accomplishment of 134 targets across all the goals, but it may also ..."
-    publishedDateTime: 2020-01-13T10:06:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-14108-y
+      - url: https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg
+        width: 920
+        height: 470
+  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
+    publishedDateTime: 2020-01-13T13:17:00Z
+    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
+    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 46
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 76
     images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14108-y/MediaObjects/41467_2019_14108_Fig1_HTML.png
-        width: 685
-        height: 343
-  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
-    excerpt: "Research at the Dell EMC and Intel HPC and AI Innovation Lab is demonstrating how organizations can build better ... using parallel processing such as those used for image classification and language translation. Basically, the Lab wanted to create a neural net that can process more than one experience at a time, so it could do the task ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
+      - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
+        width: 630
+        height: 473
+  - title: "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries"
+    excerpt: "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S."
+    publishedDateTime: 2020-01-16T04:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_487365628.jpg
-        width: 1000
-        height: 700
-  - title: "Japanese government plans to develop upgraded AI interpreter"
-    excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
-    publishedDateTime: 2020-01-06T14:08:00Z
-    sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Understand AI and Machine Learning With This $40 Training Bundle"
+    excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
+    publishedDateTime: 2020-01-16T16:00:00Z
+    sourceUrl: https://www.extremetech.com/deals/304990-understand-ai-and-machine-learning-with-this-40-training-bundle
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 19
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/sale_25319_primary_image_wide.jpg
+        width: 992
+        height: 558
+  - title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
+    excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
+    publishedDateTime: 2020-01-15T19:00:00Z
+    sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 53
+    images:
+      - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
+        width: 1127
+        height: 1057
+  - title: "Venture Capital Accelerating and Shifting to AI and Other Breakthrough Technologies"
+    excerpt: "He is the sole author and writer of nextbigfuture.com, the top online science blog. He is also involved in angel investing and raising funds for breakthrough technology startup companies. He gave the recent keynote presentation at Monte Jade event with a talk entitled the Future for You. He gave an annual update on molecular ..."
+    publishedDateTime: 2020-01-19T13:47:00Z
+    sourceUrl: https://www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html
+    ampUrl: https://www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html?amp
+    cdnAmpUrl: https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html?amp
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 51
+    images:
+      - url: https://www.nextbigfuture.com/wp-content/uploads/2019/12/spacexmoonbase.jpg
+        width: 1280
+        height: 720
+  - title: "Why KPMG is treating employees who want to learn AI to a $450 million training center that feels like a luxury resort"
+    excerpt: "The facility is in the heart of Florida, and it's a case study in how positive company culture can play a role in driving digital transformations."
+    publishedDateTime: 2020-01-14T16:03:00Z
+    sourceUrl: https://www.businessinsider.com/how-kpmg-infused-culture-into-a-new-450-million-facility
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: https://image.businessinsider.com/5e1cde09f4423114d571e3cd?width=1200&format=jpeg
+        width: 1200
+        height: 600
+  - title: "Creative storytelling with subtitles: Is artificial intelligence up for the task"
+    excerpt: "So, does it mean the world of subtitling will remain human-driven even with the advent of AI? It certainly will not, as machines start learning the nuances and growing intelligence. There are many areas where automation can help reduce manual effort and increase speed right away. Examples include time-code shifting, workflows for Quality Check ..."
+    publishedDateTime: 2020-01-19T08:24:00Z
+    sourceUrl: https://brandequity.economictimes.indiatimes.com/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836
+    ampUrl: https://brandequity.economictimes.indiatimes.com/amp/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836
+    cdnAmpUrl: https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/creative-storytelling-with-subtitles-is-artificial-intelligence-up-for-the-task/73373836
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 32
+  - title: "Nvidia’s deep-learning engine boosts ray tracing performance in lower-end PCs"
+    excerpt: "Or, the company is at least closer than they ever have been before. The secret? Deep-learning technology, powered by artificial intelligence and super computers, and run on Nvidia’s patented Tensor Cores within their new RTX graphics cards. This ..."
+    publishedDateTime: 2020-01-13T20:20:00Z
+    sourceUrl: https://www.newegg.com/insider/nvidias-deep-learning-engine-boosts-ray-tracing-performance-in-lower-end-pcs/
+    type: article
+    provider:
+      name: Newegg
+      domain: newegg.com
+    quality: 21
+    images:
+      - url: https://www.newegg.com/insider/wp-content/uploads/2020/01/IMG_0231-1024x768.jpg
+        width: 1024
+        height: 768
 
 secured: "q8SwFbWAs2sCqvFI6/RQzb1DlDkRBswTEYmD899vr1F0X5COsRpYVvI2SI2EPKIdf4y1fgyHkgth6MzHNGJmYHysUTJeiM4ep0l6jFXU5Pf+LK2pk5Q83xaru2gheeVXh33jgepc13ya8n5PBu9bkgyWIQTHlPENAA1tUNjjwCHaGzTYtE80xE9htWWkYm830zR8fb5Q4zF8ylcr2yP+XpcUtVmuAdqXa0YLkBbo4S4w4qSnp78eXKqEUg67eKtYgHdkY6FOmKR2PR/U/a8yt269YFCpU3c5Rv2A1gh6JnF4mV4cEz8CljdRYrRaUq81uk5Lb00eh+Db8yhB9VtvIb84U/nsuwlTWbUzCxu0/W1yYo4pGVEHWSsKY58DU/Hvj4kV/8B0wTxwM0bwk04s3eRsOQCHEXRLoeknpuDpE9QR7jKZRDLC+i9AecqxmI6zMrGkphi2hc90N7iIb+Ijsw==;XueJc73DbfYGyDS80+hMMg=="
 ---

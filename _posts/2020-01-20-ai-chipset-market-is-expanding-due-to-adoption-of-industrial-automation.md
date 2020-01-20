@@ -27,19 +27,6 @@ images:
     title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
 
 related:
-  - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
-    excerpt: "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027."
-    publishedDateTime: 2020-01-14T10:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
     excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
     publishedDateTime: 2020-01-17T10:49:00Z
@@ -53,19 +40,32 @@ related:
       - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
         width: 1000
         height: 500
-  - title: "Mobile Sales Force Automation Market to Reach $3.68 Billion by 2023 in North America with AI and Machine Learning"
-    excerpt: "/PRNewswire/ -- Booming customer demand for industry-specific solutions, monetization of professional services, and greater use of machine learning"
-    publishedDateTime: 2020-01-14T14:25:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/mobile-sales-force-automation-market-to-reach-3-68-billion-by-2023-in-north-america-with-ai-and-machine-learning-300986675.html
+  - title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
+    excerpt: "Advance Market Analytics released the research report of Global Automotive Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Automotive Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-01-20T16:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: https://mma.prnewswire.com/media/1076432/Sales_Force_Mobile.jpg?w=950
-        width: 800
-        height: 553
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+    publishedDateTime: 2020-01-14T06:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 1200
+        height: 627
   - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
     excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
     publishedDateTime: 2020-01-19T13:36:00Z

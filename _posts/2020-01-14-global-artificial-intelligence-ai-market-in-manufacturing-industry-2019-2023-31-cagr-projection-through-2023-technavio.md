@@ -24,32 +24,60 @@ images:
     title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
 
 related:
-  - title: "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,"
-    publishedDateTime: 2020-01-20T05:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20
+  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
+    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
+    publishedDateTime: 2020-01-20T11:05:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation
+    ampUrl: https://amp.benzinga.com/amp/content/15149083
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 76
+    images:
+      - url: https://www.abnewswire.com/uploads/1579519636.jpeg
+        width: 417
+        height: 455
+  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
+    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 54
+    images:
+      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
+        width: 1000
+        height: 500
+  - title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
+    excerpt: "Advance Market Analytics released the research report of Global Automotive Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Automotive Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-01-20T16:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 32
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "UK AI in Manufacturing Market Industry Perspective, Comprehensive Analysis Up To 2019-2025"
-    excerpt: "UK AI in manufacturing market is estimated to grow at a CAGR of 32.3% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. According to the government of UK (gov."
-    publishedDateTime: 2020-01-15T10:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-industry-perspective-comprehensive-analysis-up-to-2019-2025-2020-01-15
+  - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
+    excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
+    publishedDateTime: 2020-01-19T13:36:00Z
+    sourceUrl: https://www.analyticsinsight.net/intelligent-automation-benefits-across-businesses-industry-implementation-and-key-market-players/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 11
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
+        width: 1634
+        height: 918
 
 secured: "PCSpQKtOPBKUWJB/obNeNpLy72Z8+sX/niwabTjW62irpV8pBFU3xaDQn983Slejqon28ws+OYYetyQEZOfPl9n/nEpxoexkCUFFL+Mcmz5Xp7aE3lwBVzyzZcRDZXr2y1p7YcjKG19ulWokzRpSHcPpQNpPNdMNWLNMbdOeWLLPS0FoL8IQt8XjJHiBJTCtsB1Grmv75blh4tOBCtJ5pJdhqkLe5nPuVVEdiSYv0Cq3iFoTOZWDb/srTlxB++anjBrGB5+x+F+QJeTO/Ij9BING3cprmPMInwbRiTp2mg7Zd2KI7cZ2mEyrinNOjtMOvq2Msqn9q4Yem8zEYjOvnTJjn9ACG4sBbo0otbQHMjaEp+RhYZl2kbEo3Q6pVmtxgTm0RtsMwO90pSgG3QI90pOcVBcNFRkgNcRiUkg1ekEY0x3S/SzhD+E5/BLTDoxF0WSmw5OdxA/t1xeKQp0k8g==;QOJ8UjGoFEH/kyFObA+RMQ=="
 ---

@@ -136,19 +136,6 @@ related:
       - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/xilinx-acap-everest-logo.jpg
         width: 735
         height: 539
-  - title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
-    excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
-    publishedDateTime: 2020-01-17T06:11:00Z
-    sourceUrl: https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry
-    type: article
-    provider:
-      name: Insurance Post
-      domain: postonline.co.uk
-    quality: 39
-    images:
-      - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
-        width: 378
-        height: 234
   - title: "Sensory Does Voice Recognition Without the ‘Net"
     excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
     publishedDateTime: 2020-01-13T17:25:00Z

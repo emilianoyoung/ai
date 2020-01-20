@@ -43,6 +43,19 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
+    excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
+    publishedDateTime: 2020-01-13T15:31:00Z
+    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 51
+    images:
+      - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
+        width: 600
+        height: 378
   - title: "Germany's Bundesliga Goes All-In on AWS"
     excerpt: "Specifically, Bundesliga will build new cloud-based services that automate processes, increase operational efficiency, and enhance the viewing experience using AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services."
     publishedDateTime: 2020-01-14T05:29:00Z

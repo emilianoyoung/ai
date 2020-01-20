@@ -8,8 +8,8 @@ ampUrl: https://www.entrepreneur.com/amphtml/345112
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -27,6 +27,23 @@ images:
     width: 600
     height: 338
     title: "2020: The Year Of Artificial Intelligence For Your Business"
+
+related:
+  - title: "2020: The year of seeing clearly on AI and machine learning"
+    excerpt: "Late last year, I complained to Richard Socher, chief scientist at Salesforce and head of its AI projects, about the term \"artificial intelligence\" and that we should use more accurate terms such as machine learning or smart machine systems, because \"AI\" creates unreasonably high expectations when the vast majority of applications are ..."
+    publishedDateTime: 2020-01-14T18:04:00Z
+    sourceUrl: https://www.zdnet.com/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/
+    ampUrl: https://www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: https://zdnet4.cbsistatic.com/hub/i/2018/11/30/eb36294b-a7fb-4514-ab2b-8f58d536211a/20140909-idf-56.jpg
+        width: 640
+        height: 574
 
 secured: "qTnkdDgPCF3B5dOg4V+pM3haCEyu4wr2Ol2oSFrY8Pk28smtKsbxmlXzzyCLz5AnqRfDMz0obwAHc8XdLb8qJcDaScHncdDqHJp7HzgPC9++0nlb7h69LFfUc8vj8DVXXhttPEYiuwr7E5p732uvcnr9xiolwoxtG3vQ3q0AEAwZut6wmaydh/jBvNVECc37s1UtE+u5rflCZd8tiftn9rTFS8jkidg7EZSwm91QZJUmMSM+J7YFoIHxgZbt6+LtZJhQsQxIP2iqodIvcUOCmU/tOT9mouSNXBQlJbtoWVIbgZ4ua/8j+KgF1kcNZsSjbXAyLGz4O0MAHdHQ+QXKl7ZikkAxZxuEhfiu289oamTI8pDQnkgvXkoA/5E9/LTjxq1mlbsUloNQDGtdmul2Vek7wAVSjPMC54Xckgmofsuvqp61A952/FANiySMRRYVrQ9kx1GwY84fkilLLngheA==;c3WWN9OD+jxg/Zu6P/jC/g=="
 ---

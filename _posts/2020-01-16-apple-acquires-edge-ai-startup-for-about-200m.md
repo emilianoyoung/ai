@@ -107,6 +107,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24fee4a854780006cb3b81%2F0x0.jpg
         width: 1000
         height: 666
+  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
+    excerpt: "Apple has purchased Seattle startup Xnor.ai, a company that specializes in on-device artificial intelligence, reports GeekWire, citing sources with knowledge of the acquisition. Apple is said to have paid around $200 million for Xnor.ai, and while both Apple and Xnor.ai have declined to comment on the potential acquisition, much of the Xnor.ai ..."
+    publishedDateTime: 2020-01-15T18:01:00Z
+    sourceUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/
+    ampUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
+    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 72
+    images:
+      - url: https://images.macrumors.com/article-new/2020/01/applexnoracquisition.jpg?retina
+        width: 1600
+        height: 838
   - title: "Apple acquires edge-based artificial intelligence startup Xnor.ai for $200M"
     excerpt: "Apple had paid the same $200 million for another Seattle-based AI startup, Turi, in 2016. Forbes had ranked Xnor.ai at 44th on a list of America's most promising AI companies. They applauded the company for developing a standalone AI chip that could be run for years on solar power or a coin-sized battery."
     publishedDateTime: 2020-01-15T18:57:00Z
@@ -241,6 +256,15 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 37
+  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
+    publishedDateTime: 2020-01-16T11:29:00Z
+    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 24
   - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
     excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
     publishedDateTime: 2020-01-16T01:36:00Z

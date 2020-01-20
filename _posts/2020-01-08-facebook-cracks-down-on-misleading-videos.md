@@ -26,6 +26,21 @@ images:
     title: "Facebook cracks down on misleading videos"
 
 related:
+  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
+    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
+    publishedDateTime: 2020-01-08T19:45:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
+    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 44
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
+        width: 1200
+        height: 600
   - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
     excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal ..."
     publishedDateTime: 2020-01-08T22:44:00Z

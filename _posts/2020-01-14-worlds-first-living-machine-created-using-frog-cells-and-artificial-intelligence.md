@@ -8,7 +8,7 @@ ampUrl: https://www.livescience.com/amp/frogbots-living-robots.html
 cdnAmpUrl: https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html
 type: article
 quality: 153
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     title: "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence"
 
 related:
+  - title: "Using machine learning to fine-tune views of the ancient past"
+    excerpt: "A team of researchers affiliated with several institutions in China and two in the U.S. has developed a way to use machine learning to get a better look at the past. In their paper published in the journal Science, the group describes how they used machine learning to analyze records of the past. Scientists use fossils to date rocks because ..."
+    publishedDateTime: 2020-01-17T14:53:00Z
+    sourceUrl: https://phys.org/news/2020-01-machine-fine-tune-views-ancient.html
+    ampUrl: https://phys.org/news/2020-01-machine-fine-tune-views-ancient.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-machine-fine-tune-views-ancient.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
   - title: "Meet the xenobot: World’s first living, self-healing robots created from frog stem cells"
     excerpt: "However, their lifespan can increase to several weeks in nutrient-rich environments. And although the supercomputer — a powerful piece of artificial intelligence — plays a big role in building these robots, it’s “unlikely” that the AI could have evil intentions. “At the moment though it is difficult to see how an AI could create ..."
     publishedDateTime: 2020-01-16T13:57:00Z

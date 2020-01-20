@@ -45,6 +45,19 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106328864-1578670951519preview-1.jpg?v=1578671880
         width: 2849
         height: 1875
+  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
+    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
+    publishedDateTime: 2020-01-09T22:57:00Z
+    sourceUrl: https://www.linkedin.com/pulse/what-artificial-intelligence-things-when-ai-meets-iot-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: https://media-exp1.licdn.com/dms/image/C4D12AQFcJrsY9oO5sA/article-cover_image-shrink_600_2000/0?e=1584576000&v=beta&t=9V4fZAxAQk2u92wAtP5M3eJEgisdnVi4vS1LIzjbvig
+        width: 1380
+        height: 600
   - title: "May AI boss you? More UAE employees comfortable working with robots"
     excerpt: "An unbiased approach to salary increases, promotions, and hiring are some of the reasons why artificial intelligence-enabled robots will make good managers in the workforce, a new study has discovered. Results from the second annual AI at Work study, conducted by Oracle and Future Workplace, revealed that the use of AI is becoming more ..."
     publishedDateTime: 2020-01-17T18:46:00Z

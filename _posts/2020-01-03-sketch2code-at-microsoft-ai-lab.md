@@ -48,6 +48,17 @@ related:
       - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
         width: 1200
         height: 1555
+  - title: "Irish AI firm announces new collaboration with Microsoft"
+    excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
+    publishedDateTime: 2020-01-10T10:38:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/irish-ai-firm-announces-new-collaboration-with-microsoft-974646.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 54
   - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
     excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
     publishedDateTime: 2020-01-08T18:46:00Z

@@ -123,19 +123,6 @@ related:
       - url: https://image.businessinsider.com/5e1f849ab6d52d23c07e6a13?width=1200&format=jpeg
         width: 1126
         height: 563
-  - title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
-    excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
-    publishedDateTime: 2020-01-17T06:11:00Z
-    sourceUrl: https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry
-    type: article
-    provider:
-      name: Insurance Post
-      domain: postonline.co.uk
-    quality: 39
-    images:
-      - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
-        width: 378
-        height: 234
   - title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
     excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
     publishedDateTime: 2020-01-16T18:19:00Z
