@@ -1,33 +1,29 @@
 ---
 category: news
-title: "EU mulls 5-year ban on facial recognition tech in public areas"
-excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
-publishedDateTime: 2020-01-16T20:56:00Z
-sourceUrl: https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
-ampUrl: https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+title: "Alphabet CEO backs temporary ban on facial-recognition technology"
+excerpt: "Part of this includes a moratorium of up to five years on using facial recognition technology in public areas, to give the EU time to work out how to prevent abuses, the paper said. \"It can be immediate, but maybe there's a waiting period before we really think about how it's being used,\" Pichai said. \"It's up to governments to charter the ..."
+publishedDateTime: 2020-01-20T18:29:00Z
+sourceUrl: https://www.aljazeera.com/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+ampUrl: https://www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
 type: article
-quality: 89
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Al Jazeera English
+  domain: aljazeera.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
-    width: 1200
-    height: 630
-    title: "EU mulls 5-year ban on facial recognition tech in public areas"
+  - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/1/20/dccfa1973fd14e5abe2bd26378c6542c_18.jpg
+    width: 583
+    height: 325
+    title: "Alphabet CEO backs temporary ban on facial-recognition technology"
 
 related:
   - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
@@ -60,21 +56,21 @@ related:
       - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
         width: 1200
         height: 800
-  - title: "Alphabet CEO backs temporary ban on facial-recognition technology"
-    excerpt: "Part of this includes a moratorium of up to five years on using facial recognition technology in public areas, to give the EU time to work out how to prevent abuses, the paper said. \"It can be immediate, but maybe there's a waiting period before we really think about how it's being used,\" Pichai said. \"It's up to governments to charter the ..."
-    publishedDateTime: 2020-01-20T18:29:00Z
-    sourceUrl: https://www.aljazeera.com/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
-    ampUrl: https://www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
-    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+  - title: "EU mulls 5-year ban on facial recognition tech in public areas"
+    excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
+    publishedDateTime: 2020-01-16T20:56:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 44
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/1/20/dccfa1973fd14e5abe2bd26378c6542c_18.jpg
-        width: 583
-        height: 325
+      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+        width: 1200
+        height: 630
   - title: "CBP Expands Facial Recognition for Global Entry Travelers"
     excerpt: "Over the last few years, Customs and Border Protection has been rolling out facial recognition programs at ports of entry across the country, including the nation’s international airports. Now, the agency is increasing the use of the technology for its optional Global Entry program. The Global Entry program allows frequent travelers who are ..."
     publishedDateTime: 2020-01-16T20:33:00Z
@@ -178,6 +174,6 @@ related:
         width: 800
         height: 462
 
-secured: "wic88uh4rI6BJXbr2p2aXSw2HL+rdlc3RBL10iUnKisbaCceonrtNSA4MBis3Kgkm6m5xFekvAegBm1qERANF6ZO5MrSeNucGZhLNMbpYqm4odDohrjXm1rW5RpJ1hlvDWGfHbs+Z2pVxu7HzsmUdsCxiHRQZVpHVQuklPdb/tbGBMvLmea060OQLvANv1h9olTFQMio9llbX3im9ZFI4J6jvkvRo1GthTQPqO1D618Ruv2cEmUFUkhadh7WvWZt+kv9QMXipPiS52zsJwoMF1q6pQnDzrf/5Z7zpV5t3g8=;2ra3P0687GxyLqd3FXzmtA=="
+secured: "CcKOmTSZ/TYZdrLjAgLs+I0VdVgbnlMhfZ2dEwHVp+MGyPbNuntdDjNxsKzEK+790TWC52SPuVeANj+SKebenF89OhECe8ae5LtIyeeWD3cj7h1x7oDG5NaQwa/q8dMT0f65dlA+ujcGE9RQA+wRI6a91CrR1LAHSrpi9UjY9o+81RZ7RSO8TWUk1fqJRq4GJq/0m95C8j113OFwKjZLH6vpxBI/yBOEHJ+cQCNgidKfBUZkNkBqYBaFlgFLO+A7O27oYWwmK8CWqNYKV/JRqstmLHc+X7kW7pJS+VWSinc=;/jJRK8nnwMNIpQolPyJOyw=="
 ---
 

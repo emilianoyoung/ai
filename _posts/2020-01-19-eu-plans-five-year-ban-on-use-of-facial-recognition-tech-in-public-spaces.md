@@ -204,6 +204,21 @@ related:
       - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
         width: 1200
         height: 800
+  - title: "Google boss calls for temporary ban on facial recognition technology"
+    excerpt: "Google chief executive Sundar Pichai has lent his support to a proposed temporary EU ban on facial recognition technology, over concerns it could be misused. “I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,” said Pichai at a conference in Brussels today. The statement ..."
+    publishedDateTime: 2020-01-20T18:05:00Z
+    sourceUrl: https://www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/
+    ampUrl: https://www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/amp/
+    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/amp/
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
+    images:
+      - url: https://www.cityam.com/wp-content/uploads/2020/01/1194872492.jpg
+        width: 1024
+        height: 683
   - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
     excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
     publishedDateTime: 2020-01-20T06:48:00Z

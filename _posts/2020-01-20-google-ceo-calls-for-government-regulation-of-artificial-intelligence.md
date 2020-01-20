@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Google CEO Sundar Pichai: This is why AI must be regulated"
-excerpt: "The project applied Google-developed object recognition AI to drone surveillance technology. Google vowed in its AI principles not to create AI that would harm people, but Pichai noted that \"principles that remain on paper are meaningless\" without action, pointing to the tools Google has developed and open-sourced to test AI for \"fairness\"."
-publishedDateTime: 2020-01-20T12:16:00Z
-sourceUrl: https://www.zdnet.com/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
-ampUrl: https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
-cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
+title: "Google CEO Calls for Government Regulation of Artificial Intelligence"
+excerpt: "Alphabet and Google CEO Sundar Pichai called for government regulation of artificial intelligence technology on Monday. “There is no question in my mind that artificial intelligence needs to be regulated."
+publishedDateTime: 2020-01-20T16:00:00Z
+sourceUrl: https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/
+ampUrl: https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/
+cdnAmpUrl: https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/
 type: article
-quality: 89
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: /assets/images/organizations/zdnet.com-50x50.jpg
-      width: 50
-      height: 50
+  name: National Review
+  domain: nationalreview.com
 
 topics:
   - AI
-  - Computer Vision
 
 images:
-  - url: https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg
-    width: 1101
-    height: 828
-    title: "Google CEO Sundar Pichai: This is why AI must be regulated"
+  - url: https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/Facial-Recognition-.jpg?fit=1200%2C700&ssl=1
+    width: 1200
+    height: 700
+    title: "Google CEO Calls for Government Regulation of Artificial Intelligence"
 
 related:
   - title: "Google boss Sundar Pichai calls for AI regulation"
@@ -45,6 +40,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
         width: 1024
         height: 576
+  - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
+    excerpt: "The project applied Google-developed object recognition AI to drone surveillance technology. Google vowed in its AI principles not to create AI that would harm people, but Pichai noted that \"principles that remain on paper are meaningless\" without action, pointing to the tools Google has developed and open-sourced to test AI for \"fairness\"."
+    publishedDateTime: 2020-01-20T12:16:00Z
+    sourceUrl: https://www.zdnet.com/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
+    ampUrl: https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg
+        width: 1101
+        height: 828
   - title: "Alphabet CEO Sundar Pichai explains why AI needs to be regulated"
     excerpt: "This is the stance of Alphabet (parent company of Google) CEO Sundar Pichai, expressed in the form of an op-ed article in the Financial Times Monday. Pichai calls AI \"one of the most promising new technologies,\" but also highlights possible risks stemming from careless use of AI, naming a few historical examples in which breakthrough new tech ..."
     publishedDateTime: 2020-01-20T14:28:00Z
@@ -238,21 +248,6 @@ related:
       - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 500
-  - title: "Google CEO Calls for Government Regulation of Artificial Intelligence"
-    excerpt: "Alphabet and Google CEO Sundar Pichai called for government regulation of artificial intelligence technology on Monday. “There is no question in my mind that artificial intelligence needs to be regulated."
-    publishedDateTime: 2020-01-20T16:00:00Z
-    sourceUrl: https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/
-    ampUrl: https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 57
-    images:
-      - url: https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/Facial-Recognition-.jpg?fit=1200%2C700&ssl=1
-        width: 1200
-        height: 700
   - title: "Google CEO supports AI regulation to limit \"negative consequences\""
     excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the E.U. commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
     publishedDateTime: 2020-01-20T14:51:00Z
@@ -332,6 +327,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "GMZE7FISlF4By6hy0ZCIN8h8silWbMWTQ+1JNmn6c8DF7FX2PTZ9+8ig31h3Pz3Cssu5sszoIOSq1xBuqQ53MPPhKl/eASW0mnjFQK6FRJgjvvBvp68psn6HPhK7z2UL+1bdBk//HNjz71QKjR9uqcnLPzC8ktYT/Xslws0G6ufmJJSOAJw2ZHAtcorS5evh+R1J1u8Lra+uRKFMm2eIKqwYgwhQHbY47b8E2WyU6sBElIlRNUGyqfdT+qn5Kebui/CJ1sCGSdw2FqHvWjSIt8VD3BHLpML/h1tS+02xhcwyj/XwbeDa2A1Lw2z1dqiGJ/35b7tmiJZiRxDVPUoT9IzhTmiUN4o2ID1+5OpOhcbuXfPrrcJTLOOJXVd+dBCLmxUt9bu2/WUNWRNSX7x5F9BBtwa+JFe1j8fUAcPJg+4C28Dzv8cC1tMXTY0+QyE25CkJKueNICNf4qUqk1fUtw==;YFaS+8WisxcxtOWRqegIRg=="
+secured: "G+MhKy8D47O4l6DfvvduoiE7ELy8C73VDDcsBfOT02nhv1ZU/YRtL87302Uc5azX4QQ6wy+6i2n5ZM/mAQIWbON10LVHOnWveAFRDSsMni0cqf04xkmuJTbYUfK25AfHPbzLzJR6kVRKJIhFjSyRqWvdUGtU6AuHn4WJBxz6f13UmpW/HWw0oJjF+s9CtWF4Ktij/Wor50K2ecT3k3RbcEwRt6NPTOtTigUCSlQ824jjvQ3+bJqFkNoS8iZ/yU4V1LGWggBUQnIhvwpNvmhL39ZZPTIt2lsYxZUQGX5gvUg=;hOeeh0ArRXDigkOsq8RC0A=="
 ---
 

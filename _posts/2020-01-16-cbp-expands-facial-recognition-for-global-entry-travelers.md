@@ -69,6 +69,21 @@ related:
       - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
         width: 1200
         height: 630
+  - title: "Alphabet CEO backs temporary ban on facial-recognition technology"
+    excerpt: "Part of this includes a moratorium of up to five years on using facial recognition technology in public areas, to give the EU time to work out how to prevent abuses, the paper said. \"It can be immediate, but maybe there's a waiting period before we really think about how it's being used,\" Pichai said. \"It's up to governments to charter the ..."
+    publishedDateTime: 2020-01-20T18:29:00Z
+    sourceUrl: https://www.aljazeera.com/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+    ampUrl: https://www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 44
+    images:
+      - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/1/20/dccfa1973fd14e5abe2bd26378c6542c_18.jpg
+        width: 583
+        height: 325
   - title: "Software Detects Backdoor Attacks on Facial Recognition"
     excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
     publishedDateTime: 2020-01-16T15:04:00Z

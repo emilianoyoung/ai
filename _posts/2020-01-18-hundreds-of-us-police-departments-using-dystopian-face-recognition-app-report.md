@@ -41,6 +41,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
         width: 600
         height: 350
+  - title: "What you need to know about Clearview AI and its facial recognition app"
+    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
+    publishedDateTime: 2020-01-20T15:36:00Z
+    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
+    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 74
+    images:
+      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
+        width: 1024
+        height: 512
   - title: "Why your palm could be safer than fingerprints or facial recognition"
     excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
     publishedDateTime: 2020-01-16T05:27:00Z

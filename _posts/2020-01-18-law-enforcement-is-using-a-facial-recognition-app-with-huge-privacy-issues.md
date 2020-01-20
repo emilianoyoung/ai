@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Law enforcement is using a facial recognition app with huge privacy issues"
 
 related:
+  - title: "What you need to know about Clearview AI and its facial recognition app"
+    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
+    publishedDateTime: 2020-01-20T15:36:00Z
+    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
+    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 74
+    images:
+      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
+        width: 1024
+        height: 512
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z

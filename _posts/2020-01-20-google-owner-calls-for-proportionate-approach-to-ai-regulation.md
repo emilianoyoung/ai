@@ -193,7 +193,7 @@ related:
         width: 1200
         height: 628
   - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI ... investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a ..."
+    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
     publishedDateTime: 2020-01-20T10:53:00Z
     sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
     ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
@@ -237,6 +237,21 @@ related:
       - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 500
+  - title: "Google CEO Calls for Government Regulation of Artificial Intelligence"
+    excerpt: "Alphabet and Google CEO Sundar Pichai called for government regulation of artificial intelligence technology on Monday. “There is no question in my mind that artificial intelligence needs to be regulated."
+    publishedDateTime: 2020-01-20T16:00:00Z
+    sourceUrl: https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/
+    ampUrl: https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 57
+    images:
+      - url: https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/Facial-Recognition-.jpg?fit=1200%2C700&ssl=1
+        width: 1200
+        height: 700
   - title: "Google CEO supports AI regulation to limit \"negative consequences\""
     excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the E.U. commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
     publishedDateTime: 2020-01-20T14:51:00Z

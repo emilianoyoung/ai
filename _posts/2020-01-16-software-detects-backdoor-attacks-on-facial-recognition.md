@@ -69,6 +69,21 @@ related:
       - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
         width: 1200
         height: 630
+  - title: "Alphabet CEO backs temporary ban on facial-recognition technology"
+    excerpt: "Part of this includes a moratorium of up to five years on using facial recognition technology in public areas, to give the EU time to work out how to prevent abuses, the paper said. \"It can be immediate, but maybe there's a waiting period before we really think about how it's being used,\" Pichai said. \"It's up to governments to charter the ..."
+    publishedDateTime: 2020-01-20T18:29:00Z
+    sourceUrl: https://www.aljazeera.com/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+    ampUrl: https://www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/alphabet-ceo-backs-temporary-ban-facial-recognition-technology-200120172909980.html
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 44
+    images:
+      - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/1/20/dccfa1973fd14e5abe2bd26378c6542c_18.jpg
+        width: 583
+        height: 325
   - title: "CBP Expands Facial Recognition for Global Entry Travelers"
     excerpt: "Over the last few years, Customs and Border Protection has been rolling out facial recognition programs at ports of entry across the country, including the nation’s international airports. Now, the agency is increasing the use of the technology for its optional Global Entry program. The Global Entry program allows frequent travelers who are ..."
     publishedDateTime: 2020-01-16T20:33:00Z

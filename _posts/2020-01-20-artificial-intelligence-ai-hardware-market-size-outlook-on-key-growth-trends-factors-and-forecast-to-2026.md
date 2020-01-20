@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
-excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
-publishedDateTime: 2020-01-15T09:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200115005015/en/
+title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
+excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
+publishedDateTime: 2020-01-20T17:47:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20
 type: article
-quality: 44
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
-    height: 627
-    title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
+    height: 630
+    title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
@@ -46,19 +49,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 75
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
-    excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
-    publishedDateTime: 2020-01-20T17:47:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -102,6 +92,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
+    publishedDateTime: 2020-01-15T09:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200115005015/en/
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 44
+    images:
+      - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
+        width: 1200
+        height: 627
   - title: "Global Artificial Intelligence in Healthcare Market"
     excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
     publishedDateTime: 2020-01-16T03:41:00Z
@@ -143,6 +146,6 @@ related:
       domain: arnnet.com.au
     quality: 7
 
-secured: "lqcdI8ou9ojeCdzCk0g8sflvYH4qHuukfcESZHbyt9Dw3clUIui1qLjDdmmvLE/NH3ypF2YzegUKsIOYwZLOljPp4Yl1vpCUlWaBjl4l1QL5iK4RDsjCoaIRWPnC8WJsqKYbAC6fSgBwsL2mlsFBrALGYPznvSWQaRNvrnTwLR9kNcKKG+3a3owfZrb58LSZCUv5U60iscdEEm3kdOSE2eQm7EG0RoTbA3OvlSglA3WgrHOFUevCO0/EoFVP8O36b2oQWCg2M5KEZdLOB5zwMzjDHVE/s1exGqp3uHzWDv8=;1WyuiChouI+lqhRz6lCaFw=="
+secured: "IElKg3igvqoMwfTEtcJn0DuoMugFIn69Wyzfx+V4IQis2par8OGH+iqZBRrXj5Jhp2Sei72z11Pwu5+48GRCcLjd4U0GcHwNstN7+DqcUlaCDPUgMuBghjx5l0ZK1thzBNizLHtSHbETtBoe1DgGYR3neaurpVhs9GtC4c4yusiRHoBcBAS7/ZC9Na4n1STOzD7EOBsWzX3p7IB2SWe6JkoUQyQ4dLRxq1dQ7s39zojPeDWGn1f9ALHBqotmsGodSmNAPY1my9it5NjquW0F2ja//k3Jt7FULX9eI1YmM8w=;1Yqr8W0i1FEsg4B5dnnb1A=="
 ---
 

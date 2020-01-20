@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facial Recognition App Used by Law Enforcement Agencies Detailed in Troubling New Report"
-excerpt: "Over the past year, more than 600 law enforcement agencies have started utilizing a facial recognition app developed by the \"tiny company\" Clearview AI. The privacy-poisoning app, which allows users to potentially match a name to a face within seconds ..."
-publishedDateTime: 2020-01-20T17:58:00Z
-sourceUrl: https://www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
-ampUrl: https://amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
-cdnAmpUrl: https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+title: "Google boss calls for temporary ban on facial recognition technology"
+excerpt: "Google chief executive Sundar Pichai has lent his support to a proposed temporary EU ban on facial recognition technology, over concerns it could be misused. “I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,” said Pichai at a conference in Brussels today. The statement ..."
+publishedDateTime: 2020-01-20T18:05:00Z
+sourceUrl: https://www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/
+ampUrl: https://www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/amp/
+cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/amp/
 type: article
-quality: 65
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Complex
-  domain: complex.com
+  name: City A.M.
+  domain: cityam.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/h3znpz9affmqxjtkm8a1.jpg
-    width: 394
-    height: 222
-    title: "Facial Recognition App Used by Law Enforcement Agencies Detailed in Troubling New Report"
+  - url: https://www.cityam.com/wp-content/uploads/2020/01/1194872492.jpg
+    width: 1024
+    height: 683
+    title: "Google boss calls for temporary ban on facial recognition technology"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
@@ -86,6 +86,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Facial Recognition App Used by Law Enforcement Agencies Detailed in Troubling New Report"
+    excerpt: "Over the past year, more than 600 law enforcement agencies have started utilizing a facial recognition app developed by the \"tiny company\" Clearview AI. The privacy-poisoning app, which allows users to potentially match a name to a face within seconds ..."
+    publishedDateTime: 2020-01-20T17:58:00Z
+    sourceUrl: https://www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+    ampUrl: https://amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+    cdnAmpUrl: https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+    type: article
+    provider:
+      name: Complex
+      domain: complex.com
+    quality: 65
+    images:
+      - url: https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/h3znpz9affmqxjtkm8a1.jpg
+        width: 394
+        height: 222
   - title: "UPDATE 1-Alphabet CEO backs temporary ban on facial-recognition technology over misuse worry"
     excerpt: "BRUSSELS, Jan 20- The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes."
     publishedDateTime: 2020-01-20T14:54:00Z
@@ -189,21 +204,6 @@ related:
       - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
         width: 1200
         height: 800
-  - title: "Google boss calls for temporary ban on facial recognition technology"
-    excerpt: "Google chief executive Sundar Pichai has lent his support to a proposed temporary EU ban on facial recognition technology, over concerns it could be misused. “I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,” said Pichai at a conference in Brussels today. The statement ..."
-    publishedDateTime: 2020-01-20T18:05:00Z
-    sourceUrl: https://www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/
-    ampUrl: https://www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-boss-calls-for-temporary-ban-on-facial-recognition-technology/amp/
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: https://www.cityam.com/wp-content/uploads/2020/01/1194872492.jpg
-        width: 1024
-        height: 683
   - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
     excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
     publishedDateTime: 2020-01-19T09:50:00Z
@@ -390,6 +390,6 @@ related:
       domain: financialexpress.com
     quality: 23
 
-secured: "LMfOwNEbD9THYNhg3eJx/y50KT4TwEAeLjH3o4xd1R2KqW0sem3x5YLG2Fjw1mWBizx5KIUVDLbxPNn6dGaKibABFTx0SNX58oLiBik78upR8/EbQSulM5ZIiqq3pJqF7PZF81z+7IT8QzWKeTE9ob7u1+2nByHM49FYjneYTFXzJBHOya1LS7pQdt4XMJw+Z2OqJkMcpkEBS5wz8rwCMvu3qVFbLxVtmNaS2VmeePne/EWda/PmBxgOIZn7nZpckN6Wo+PqTRMkfVQLs/bz6DGRqfYz9oTRXnUyBEU3mhP5lE97fJjvMvGVy373K7nEgBro7X/ZLBWKBEcjFq+YboiQ+1WvBGOAAAjv8xY6M4Z7aS17iwj4JIJ2ban+BMhx2KweOHJAQACCepkqDVtrxAGPkkuykFHbfOG5tONPxygIZnQZCE7OPN6EIkTxf14CitDweqIAY2xz3xQtU8tpPg==;NdedX/+HhjiBOdgBJY7Wyg=="
+secured: "2qwGLPCKm6R43hEq9sFd6ixWE3Lpa8TqaLfy26txNZzjGnN+tOZDzpiGNgAp9szrBx+gcoz71Qm9NTF4LJBCRWWFMFyi6Jum9rnaWvE5r4uQKMA43kIbtPtJKTsER8ZeYVVVMYuHFuaWck+mtRDb3gvKQyujobQYN/fR8XS0f7dGz5IGM2Y+5BIbp1smsSxCfuGk/5k26WRC23BIt7LrejKiOwzHp3v2/PUWgd6TXfkiiI684j53VcDM2F10sgwYKa79I8ywqX42Hz9sRBwuYWb5cemRtps9KfiyOjTpqeo=;IkXtD8U76ytJfJD3wlZrfQ=="
 ---
 

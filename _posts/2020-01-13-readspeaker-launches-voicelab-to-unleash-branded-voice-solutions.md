@@ -24,34 +24,32 @@ images:
     title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
 
 related:
-  - title: "Where Voice Experiences Fit in Customer Service"
-    excerpt: "Fluss added that voice is the most ubiquitous and easiest form of interaction for most people, and the cost of the underlying technology for voice recognition has dropped. “When a customer is calling into the enterprise it’s because they tried web and mobile and still have questions, couldn’t complete their transaction, or because they ..."
-    publishedDateTime: 2020-01-16T15:56:00Z
-    sourceUrl: https://www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/
-    ampUrl: https://www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/amp/
+  - title: "What is Voice Recognition"
+    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
+    publishedDateTime: 2020-01-11T11:43:00Z
+    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
+    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
+    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
+      name: TWCN Tech News
+      domain: thewindowsclub.com
     quality: 44
     images:
-      - url: https://www.cmswire.com/~/media/e66e4fbac85346988b8614552b01df68.jpg?mw=1024&hash=F9A672BDE93FDCF1491E09293D8024FD552E99A6
-        width: 640
-        height: 480
-  - title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
-    excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
-    publishedDateTime: 2020-01-13T22:12:00Z
-    sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
+      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
+        width: 600
+        height: 271
+  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
+    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
+    publishedDateTime: 2020-01-14T11:28:00Z
+    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
+    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
     type: article
     provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 28
-    images:
-      - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1051617224.5e1c25379b3da.jpg
-        width: 960
-        height: 532
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 7
 
 secured: "VgbkEhfWXAOGhZ5Sx3cb2sm5ZLFhrMWEC2KHA/HOS+YMFqPCNNHtWzrftlol5W1fHUnH+y9p+oZSC7M9h6Kjmx3rxPBVxjBYFru+h34IHH63vVlRdYUBrl2p1lET399wXyKRhlDX4ux+/L+ISa6kNgwz+0S59WYfJWTTOhU6tMcXrsSVNhQYOuDcr8vHS3loSx8avWBLnqjwpi9yJ3ThJHXg76IwGYjJhM7xhWX1+8lUBqv1i46j4YSlgA0gyTxUcQiWRhEf/iKsyuSatHkyN925kias8WNRIrE/lQbHS9c=;PtHWbE33VxX/rytnHZI8yg=="
 ---

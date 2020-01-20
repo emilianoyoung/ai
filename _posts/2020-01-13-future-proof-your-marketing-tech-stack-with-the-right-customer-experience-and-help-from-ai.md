@@ -39,19 +39,6 @@ related:
       - url: https://www.cmswire.com/~/media/e66e4fbac85346988b8614552b01df68.jpg?mw=1024&hash=F9A672BDE93FDCF1491E09293D8024FD552E99A6
         width: 640
         height: 480
-  - title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
-    excerpt: "And with the voice and speech recognition technology industry expected to become a $1.46B market by 2024, brands must ensure their voice solutions are highly customized so as to set them apart from the competition. The ReadSpeaker VoiceLab addresses mounting demand for custom, digital voices by offering flexible pathways that allow any brand ..."
-    publishedDateTime: 2020-01-13T13:51:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-readspeaker-launches-voicelab-unleash-branded-voice-solutions-/2020/01/13/9080242.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
 
 secured: "i1QukGa4M+fM3WVSe23SX+gvkXyN1rKkweOmJRZI5lf6BD36d32e5wiuMVvALi9tgF/4Mri0WixnMAPBQW1D/is5lGSoQNwbErYgSXHSvOz43+ZLQRbL/ZWoJx2pCSSs/fbP6P9I8CSO+AYqF9VZ6iW9QY9F5t18fg4SSn56DhaRc1cRvuiooYFxlUSDh1SZh/xFg1fTN4o/VXV57le3Ho4Qj34k3aTEQ46pTv+iA4HmvpqDTHxYOzPUifgKJ6Slwz2zLBaZ53Lazhn//sTd/UWWB52aTG0zcw+zI/E786ToMtnMnoinjtfbAIqf1idnKMkWToeDc+hpB8IuVE63q1mS+gsDja43OS3O/EWJh+rCf6UuyrJk+Gzw4m6xZQr03hEvTu5TU0HWmxTb6dFZB/Mp9qzpXrXyyVtjiL0n1g1Nivkb2Cn0TONA+N2pFEAxOU6VKhASqBIk7BVAw7upkg==;Ta0y/h6hadMjmUZh8PnY7Q=="
 ---

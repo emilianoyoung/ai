@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
+    excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
+    publishedDateTime: 2020-01-20T17:47:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence (AI) in Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2024"
     excerpt: "Global Artificial Intelligence (AI) in Automotive Market This report helps to analyze competitive developments such as joint ventures, strategic alliances, mergers and acquisitions, new product developments,"
     publishedDateTime: 2020-01-17T11:04:00Z
