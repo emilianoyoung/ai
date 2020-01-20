@@ -8,7 +8,7 @@ ampUrl: https://amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
 cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,23 @@ images:
     height: 281
     title: "Why Google thinks we need to regulate AI"
 
-secured: "YEcY0+q/Sb8XpcmLkSQSnt0/nHATBMfRSjmkjDcIJUV+nlB5KSNa5kRdX6IDQ/4vEy9rFDB/Xzj78FHsKkgst5REWfzkYQC8hQXj8qzRU+MNEOW9HUizH79PahAgWb7xzIJUHsfcXdIWmCd0IFQtg7Dh7KEr6ZsSYL6G6Tv35UuBf07Np4Nss6rQV4UQENdB9/iNEU3YdPKdqgKUwux+N+JOmF142F0sfyuqkhUdrueWVnVgXD1P1h7n6/RxYWjsJyBsE9VfuzVPSNEQiikOUzLNevZNJYlBsm8RboyzCOE=;h+jlkC6S9IdFBMplOHaFTw=="
+related:
+  - title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
+    excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
+    publishedDateTime: 2020-01-20T05:20:00Z
+    sourceUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/
+    ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 57
+    images:
+      - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
+
+secured: "aAPbceRVul+AlHDobaqmfnDzYMYLiN78ozur0QInzaEQu8qfPyWmFdAFhYwPLI+p/tUp0LetqyGANpsAYL6e+iW67Ii8YW+FFi9qrUBGEpEyfEJaMXqV+yKL1YyT5wVP8sEEIMGuEEVXf5TGZrxRuC9q1D0njpaDGePKqAl5OdPbWZNkXfbbNkuySPLXDnkaNrnEdajCGalaN7z0KD7x2jbXm00LSEYlymWe61DEKUWXdORXkpSoZYZMIrnu1xMbCgz/ARwhQYfNmZFav+KKEMz/U/+2GZpa1daTlOTLY6Fnu6wxbiLjoYDzTuCgnUp9mM31mqTX26dsYecELPjiz6TXybCe7vPHDipylKcD8nXqQhA0PE5LZCBRhsiHwNtwHahNHhYa266LSGjDYMCwkMKE6yZJI5q2btH1RfQ7t8hu/4AgrWRvfB4niMH3106oEM4xbr/UVNGAYEwoz8U6QA==;+KGP2+mixSmW2qkeOsh/Qw=="
 ---
 

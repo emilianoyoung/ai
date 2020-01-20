@@ -1,29 +1,23 @@
 ---
 category: news
-title: "EU eyes temporary ban on facial recognition in public places"
-excerpt: "Draft white paper suggest prohibition lasting three to five years is being considered"
-publishedDateTime: 2020-01-17T12:14:00Z
-sourceUrl: https://www.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
-ampUrl: https://amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
-cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+title: "Telangana Municipal Elections 2020: In a first, face recognition app to be used in polls on pilot basis"
+excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app in a bid to counter impersonation by voters on a pilot basis in 10 selected polling stations. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
+publishedDateTime: 2020-01-20T05:24:00Z
+sourceUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/
+ampUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
+cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
 type: article
-quality: 59
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
-    width: 605
-    height: 363
-    title: "EU eyes temporary ban on facial recognition in public places"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
@@ -114,6 +108,21 @@ related:
       - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
         width: 1200
         height: 960
+  - title: "EU eyes temporary ban on facial recognition in public places"
+    excerpt: "Draft white paper suggest prohibition lasting three to five years is being considered"
+    publishedDateTime: 2020-01-17T12:14:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
+        width: 605
+        height: 363
   - title: "Face recognition mobile application in 10 polling stations"
     excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
     publishedDateTime: 2020-01-18T16:53:00Z
@@ -290,18 +299,7 @@ related:
       - url: https://x-default-stgec.uplynk.com/ausw/slices/8d1/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/8d18871f1b9b4c1781a22de73289bd7e/poster_74d992e1d3da49f3bc0cc1ce7922fe77.jpg
         width: 1280
         height: 720
-  - title: "Telangana Municipal Elections 2020: In a first, face recognition app to be used in polls on pilot basis"
-    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app in a bid to counter impersonation by voters on a pilot basis in 10 selected polling stations. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
-    publishedDateTime: 2020-01-20T05:24:00Z
-    sourceUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/
-    ampUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 23
 
-secured: "sAE+pTln0oNCWXlPk7DMZiPA1NvhOU1NSdKoERSP272HXA7djNO9r6Rju5G+mcrdlktPXcmWipkZ/QGfNL2fZtB5dpjeSL9N1WX0RkhYpWX2+wb6K3TS9PGBisNK6ILu4wPWZfsm6zBh/jKyh2Xxo1HhZLa02NZwgqqIyFYlIKgWAv/UypQSg0T2SEZb4g4NBDOzbZxzAJgmzUuJaxI8KqCQoAt6IQbXJ8Ab1DEBdV3XS1rQ7oOOD9eHHzfxUAIm1iYfEbhsNmJc5hu+Wbs19KHAO+NKJB1watbQn5vauUw5b1vQWqFd0H/R10CPQb1WEDVCFioeGoQnXPiPZr5i2/dD6+v0FVMpDGBHv/VwvSYYBt3mS+AUH71+qKkyeoIsJMmbbaz8MmlhnRrtmur96RI8PVl7/KxuomWd70wi0rdB3DU9W/BTpdtiv87Q0O6mGdMtv2FOTO1UQt+kIOkQZA==;iFa9MKk0wv7JeeA09roTew=="
+secured: "QXdXXrxi75G0B6fmEqFfZs71KcEyQMo9EGn9mDZGDtoz+5KQeajTJV1VcbTqKkO0MHNctJFeEkmjmreL1v5e5FmGG+IzrFmHDcRujSiervB8ms3NU//njkTv9X58Kn1S1agQniebg5tYnegNFXHkE7K5c84PMnMHsjicIQQhFsZp2aQGvTyP3Zi5UejbXjGl2PMe/IrDdhA6yCzyDrkfBxVFxFeHJJZVa/J/Ppi4WsEywDAfh2XCZdR+giMLwnhSPaehPkQjEVgiPavpAIfPgvnJTv+eQS2krHFCRvvn9irkJp3x7h0P0PALY6GuqQVxbmrRh13JBMktEAS8wi9y6PIojxds37u1xnhy03Xl+pG6ybMnwEH1GMH5uNGgeNDYt0fULKfveLiSzcxO2WV7Dl6mbBxioC4g/GmGs52YImcb24Ng1fJ6HSX1f8zue5gA6eq5udLIkZClbu6fAHGoWA==;mpIzjyoCUjOQUlmVqR1E5Q=="
 ---
 

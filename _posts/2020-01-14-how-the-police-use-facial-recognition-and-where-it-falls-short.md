@@ -290,6 +290,17 @@ related:
       - url: https://x-default-stgec.uplynk.com/ausw/slices/8d1/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/8d18871f1b9b4c1781a22de73289bd7e/poster_74d992e1d3da49f3bc0cc1ce7922fe77.jpg
         width: 1280
         height: 720
+  - title: "Telangana Municipal Elections 2020: In a first, face recognition app to be used in polls on pilot basis"
+    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app in a bid to counter impersonation by voters on a pilot basis in 10 selected polling stations. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
+    publishedDateTime: 2020-01-20T05:24:00Z
+    sourceUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/
+    ampUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 23
 
 secured: "M6nEc5QbeKR4zJiga7EMOSA/15Pyx930Zu1lygCIGDEf2gA2LY/PljKaA5aJjYH5loiNzVPHa/C8lqoO1hnfVtn0Agmng8WgP5XDxyJcml6ttfx4hcx8FILEQU47pGd7R67ONllTTC5GNxEFSCgUf6D6By3iXhfuJCpBFlFWQweH5ndsRCN/WOZsID3p5HYe0inzMteSJQXH5/RSoOdZ86RS2MnDBBjJrzZWIoLxJQizjbEBfNREQCZR1sbV08EaZ+5d0pXvY6XBilRPlZ31/rxuuv1AtxI0RN+zWlmb+IY7njd3zluJ4j3M1tYclYA1DxlS2NWpe5Ybzh8Xwz21JrAtrknF1Ed5vRj64GKsIUxPSA0gI4bkjasm9wwsGpFlTNeUCk9uFDTdom2eKf3LRjx32GAoBbpgTooKlgY5npx9oAzwW6Wi+7+yAF3rdhcHfuh7LMSMeijMCkL+EEm5jg==;hmVjP72WeSP9wvTmHL2dsQ=="
 ---
