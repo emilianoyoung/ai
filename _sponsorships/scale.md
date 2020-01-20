@@ -16,8 +16,13 @@ messages:
     image: http://images.ctfassets.net/1qgw036lpkfx/4hRbGdjwzh2MCEJSsXfSB6/a55fb71f3aa900f9e38fd078526700e8/1.png
 
 schedules:
-  - "2019-12-12"
-  - "2019-12-13"
+  - "2020-01-20"
+  - "2020-01-21"
+  - "2020-01-22"
+  - "2020-01-23"
+  - "2020-01-24"
+  - "2020-01-25"
+  - "2020-01-26"
 
 placements:
   - TodayNewsPage
