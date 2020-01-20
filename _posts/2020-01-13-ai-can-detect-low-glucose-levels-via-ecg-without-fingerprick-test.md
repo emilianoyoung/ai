@@ -2,26 +2,24 @@
 category: news
 title: "AI can detect low-glucose levels via ECG without fingerprick test"
 excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-publishedDateTime: 2020-01-13T16:04:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php
+publishedDateTime: 2020-01-13T16:57:00Z
+sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg
-    width: 720
-    height: 302
-    title: "AI can detect low-glucose levels via ECG without fingerprick test"
 
 related:
   - title: "AI replaces prick test to detect blood sugar levels"
@@ -109,6 +107,6 @@ related:
         width: 616
         height: 323
 
-secured: "6HO56GY+z1iiyd7YUhnTcIuvawKLuUCOig8fAmBR/pDPnJPpZx7r6ZQzA4OJoL6MUXqQGlr+RJuokNKD4QOV8KBl3AzrASPP9j4l6RH1Or5EcbtwHYta57myhoWz+v+ekVhnFd/aRbgXbLKPnxI+uxB2zkOPVdK8AYUqDdrPajuKF33X9wq67IXLPL9o73Bsw5kWdj6uGzjPTq18FySU2y6b2e5Ooh36ZxxvfKbX48j/4Npvg2HCaqjDcRbpvKBci8jHwIJs9JpwceDDbohy+a/0ZTL6c01HhNxMDF/OOKM=;EEW6n2oG0IlDAqsWNT+xYQ=="
+secured: "HI4QyTPgqF4s2afcZpYBziLeMX7XM4LwU0NWNhuNDR1qMyDAJ0n3cojFANIpGP7wPARixI9mp1xAtXBhmZG+/ymzTHNknQjWnHdRZxhLTQO2zbacvFintaWNkTHeIGKjt4sUx6Tp3slTnyJEaxnA7rWFU/6OIO8ARswXppj/EkdDZoa1DrucSUOmhMhdUpgfZQwXkGXd5v7cSDxD81gognR/jwWSNalaHEmug7OhKY8O5Q13fbpkXipKee83GwdO0lNcCcANy7Y+wrPSn1HRH66PjWtMjD+wJ4nUmrxRboM=;sgGQzYan5MENTlzLk2HlzA=="
 ---
 

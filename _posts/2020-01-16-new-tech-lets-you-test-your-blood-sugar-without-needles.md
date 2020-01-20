@@ -58,17 +58,13 @@ related:
         height: 480
   - title: "AI can detect low-glucose levels via ECG without fingerprick test"
     excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-13T16:04:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php
+    publishedDateTime: 2020-01-13T16:57:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg
-        width: 720
-        height: 302
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Sensors and AI spot low blood sugar without needles"
     excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia ... that training the system using cohort data would not give the same results. Personalized therapy based on the new system could be more effective than ..."
     publishedDateTime: 2020-01-13T15:45:00Z

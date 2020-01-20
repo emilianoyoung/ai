@@ -23,6 +23,19 @@ images:
     height: 309
     title: "Nanowire Network Could Advance Design of AI"
 
+related:
+  - title: "Inverse design of porous materials using artificial neural networks"
+    excerpt: "The ability to generate optimized nanomaterials with artificial neural networks can significantly revolutionize the future of materials design in materials science. While scientists had progressively created small and simple molecules, complex crystalline porous materials remain to be generated using neural networks. In a recent report on ..."
+    publishedDateTime: 2020-01-20T15:53:00Z
+    sourceUrl: https://phys.org/news/2020-01-inverse-porous-materials-artificial-neural.html
+    ampUrl: https://phys.org/news/2020-01-inverse-porous-materials-artificial-neural.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-inverse-porous-materials-artificial-neural.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
+
 secured: "PUZkdVhprOnZPAUt6oGf34Ru6M5gzpnWnIG+CbhExmc5mJ2ou260G1MS1dQ9Y18JOIsn4Jc/Mqfqds9nNGG7jCJv5gMQuaWFlLhzzTTuZri6/I6wSTYbybyKNojNQjCuZ180DrLeIHpm0xtvMZke4gcqt0EZKQ9f37aKwSdFRjQuIkIkwxGsxnym4VOehkZQIs9ZT1rnV2oN1Qz9Kwtn0dMwbirJbeFQAVRzI5cgmgCVqBP+oD8gUOPN8RNDSLER2lGGGTs0gxBiwO8Keqvlp/OZd8i7QJHEQankWniB0/M=;VRRCxFG7rmaCKJnnJXRRUw=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
-excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
-publishedDateTime: 2020-01-20T14:45:00Z
-sourceUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/
-ampUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+title: "No question artificial intelligence needs to be regulated: Sundar Pichai"
+excerpt: "Pichai urged regulators to take a 'proportionate approach' when drafting rules on artificial intelligence. The chief executive of Google parent ... Regulators should tailor rules according to different sectors, Pichai said, citing medical devices and self-driving cars as examples that require different rules. He urged governments to align ..."
+publishedDateTime: 2020-01-20T14:56:00Z
+sourceUrl: https://www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558
+ampUrl: https://www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558/amp
+cdnAmpUrl: https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558/amp
 type: article
-quality: 87
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: WION
+  domain: wionews.com
 
 topics:
   - AI
-  - AI Ethics
+  - AI in Autos
 
 images:
-  - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
-    width: 1024
-    height: 692
-    title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
+  - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/27256-untitled%25252520design%25252520%2525284%252529-20170811103258.jpg?itok=RgBCKobA
+    width: 918
+    height: 506
+    title: "No question artificial intelligence needs to be regulated: Sundar Pichai"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -60,6 +56,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
         width: 1200
         height: 630
+  - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
+    excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
+    publishedDateTime: 2020-01-20T14:45:00Z
+    sourceUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/
+    ampUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
+        width: 1024
+        height: 692
   - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
     excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
     publishedDateTime: 2020-01-20T13:18:00Z
@@ -90,21 +101,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/seXfCZxKybpW6F3DxoXHbv7v26Q=/0x0:2040x1530/1400x933/filters:focal(857x602:1183x928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132207/vpavic_171003_2029_0067.0.jpg
         width: 1400
         height: 933
-  - title: "No question artificial intelligence needs to be regulated: Sundar Pichai"
-    excerpt: "Pichai urged regulators to take a 'proportionate approach' when drafting rules on artificial intelligence. The chief executive of Google parent ... Regulators should tailor rules according to different sectors, Pichai said, citing medical devices and self-driving cars as examples that require different rules. He urged governments to align ..."
-    publishedDateTime: 2020-01-20T14:56:00Z
-    sourceUrl: https://www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558
-    ampUrl: https://www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558/amp
-    cdnAmpUrl: https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/no-question-artificial-intelligence-needs-to-be-regulated-sundar-pichai-275558/amp
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 73
-    images:
-      - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/27256-untitled%25252520design%25252520%2525284%252529-20170811103258.jpg?itok=RgBCKobA
-        width: 918
-        height: 506
   - title: "Sundar Pichai says AI should be regulated, asks governments to step up"
     excerpt: "Alphabet and Google CEO Sundar Pichai wrote an op-ed in the Financial Times today outlining the need for regulating AI. Pichai highlighted that deepfakes and “repressive uses of facial ..."
     publishedDateTime: 2020-01-20T09:04:00Z
@@ -229,6 +225,6 @@ related:
       domain: pymnts.com
     quality: 37
 
-secured: "D72s2fmmkcPUOwkFqr3MIJ/4bMoeLE2Dvx5fVI9k94F76H5QA/orPjs4ZKHryCTBa/hiMvBEGlU/ShsMnp/vPaQZViUyLS3iLhJ5twSRKn9vh1tE7W+r9piYjpEnPiFRhgbSnhIbkDtd3XIAcCvj33hYC+W909gA3ca9y0T+trUV+Opcko6C8fkBXIeWkKGIno1+t8jMFtoHwV4d7ickebgd1y/5B8U187MMFg0AGfJLn5U6OyMJPI/M3zuxGTlZzUqS/wjifZEBIBoL7cuKkdmlfviw5YjfrIsE6JNK84bIaK1YsIbwtD4L+WNpXUmoxdwYF0uXwUnZ/0syNirVo8Z58veJSKtJC86/p8Eu27/gPOuY4ii6tDTpeejMcOA+fpLXi218Eyb+39/gdpEHSh/xoWq0BftChQh7WzgaKDlCstRsSRaAKVzYWHMxa0QUfL0TCRfL0f7JUdGMJ7GPag==;ryubk4dl7mItlrPMbsOGmg=="
+secured: "JVVbgmTUC51yvnedcCSwmp+WpmfMJL1UjJApfwff32mjUBBGdHdK9imYZJzfNFQ6XoLtNJIovt9zHfnsmMXczARRhat62pElpbfhDhjaOZQxbvnmEQNYCV+En2oZ1azgo5/32E+8bicY5nXY8z6x9YNn+9iJ5dVSsSsz/6jThIXq1km0hhsASahNPlUV6XIoC2ne9hnr78YznyhnbO6OgMNS2G7S0tsku7rtfI5EsSxuWLQPJg2iVN1P4jZP/czWso/vixp7Is0uMkCyemue02XH/ROJ255NlN+0ZOr3/xU=;dpEy6wIX+s7z/pKk1oJdvQ=="
 ---
 

@@ -54,6 +54,15 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg
         width: 620
         height: 480
+  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-13T16:57:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2020/01/200113111156.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "New Tech Lets You Test Your Blood Sugar Without Needles"
     excerpt: "“Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection ... She continues to contribute to HealthCentral while she works towards her masters in marriage and family therapy and art therapy. In a past life, she worked as the patient education editor at the American College of OB-GYNs ..."
     publishedDateTime: 2020-01-16T22:22:00Z
@@ -69,19 +78,6 @@ related:
       - url: https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg
         width: 1254
         height: 836
-  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-13T16:04:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg
-        width: 720
-        height: 302
   - title: "Sensors and AI spot low blood sugar without needles"
     excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia ... that training the system using cohort data would not give the same results. Personalized therapy based on the new system could be more effective than ..."
     publishedDateTime: 2020-01-13T15:45:00Z

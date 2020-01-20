@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
-publishedDateTime: 2020-01-13T00:35:00Z
-sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/13/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars
+title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
+excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
+publishedDateTime: 2020-01-20T13:30:00Z
+sourceUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/
+ampUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
+cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
 type: article
-quality: 20
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://apicms.thestar.com.my/uploads/images/2020/01/10/485282.jpg
-    width: 1240
-    height: 827
-    title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
+  - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
+    width: 1200
+    height: 900
+    title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
 
 related:
   - title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
@@ -159,21 +161,6 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
         width: 1200
         height: 675
-  - title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
-    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
-    publishedDateTime: 2020-01-20T13:30:00Z
-    sourceUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/
-    ampUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
-    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 39
-    images:
-      - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
-        width: 1200
-        height: 900
   - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
     excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
     publishedDateTime: 2020-01-09T16:01:00Z
@@ -224,6 +211,19 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 24
+  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
+    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
+    publishedDateTime: 2020-01-13T00:35:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/13/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 20
+    images:
+      - url: https://apicms.thestar.com.my/uploads/images/2020/01/10/485282.jpg
+        width: 1240
+        height: 827
   - title: "Tomorrow’s Tech Today: Latest in self-driving cars, next-gen HUD for your car, X-ray vision"
     excerpt: "There is a new self-driving car from Honda with some incredible new features. Plus, a heads-up display in your windshield that can do shocking and dangerous things. And giving doctors X-ray specs."
     publishedDateTime: 2020-01-16T00:00:00Z
@@ -247,6 +247,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "ePmbA7wRHL8pJDif897F+8aNwfDm6whuCAHy8wszdDZ6R5zfoyvpkFSVpowP4AurhsnM8pg6SBdxh3vkAlx+k6W84z2GSjhs+C590VsAVTAMzErAsSzBlBIfLBBQv3V/7/TddQYqxXaDpLFDLPtrQqeK+CwLavXR/BxnjnZUDltXjt1Bk1BVtN3JA3m1XWI4nIfQAWJVJALA2MRFUHxA2F7NEGZx0+5FmbFx9vGAMdCNDJ9CGbn+U0EoDd+HQDcwFV0JHPD28uy8sIx03FzMPiJL0ex3Qu4FZMmIUw4LKj5WMIF6xjiKjjwb98AnFxtl+5fqb8ktc5f6aHIPa7lac7WcxB966b1/SslO4aSbiYmXIBEIZX1OEX/gQcUdJVpLAhf1Y3zeMrfiBllaZBFdbiq94sNOo2/YKbtXidzrPJ9lha5YaxNy2h+Aq6cJgXLE7QUF7GMd7DTzwR+k7X+Lbw==;TGg6tOV03kD0J9AYEeKENg=="
+secured: "ug8s3MdLrs5VNW07pjvV8jtOvBlQb23JKLmc/Ft2cvK11BzL4UoLx+PL4DfvJ3I6bMR4Fp1vFzVHsT//G8HgVreFo7tyZMaPeVDgFw5JtIPHNRPNXFJQGKA2c5/76qUtNHuDvK6eRTTkce+ZqpFsXXVA4CMGxq0jbeuAQSBUcaU99YtzARUE12Lz/6Nd2HgIvfK6hhFEazKc6GPGdR2Wd+vWmaU+uveugZbcfVGJxvNpjEu8ZnCLVLtsZK1OcYGaVHVN2w2ri0U4DTzrUMwmbqrEYG8kVzMmwT14WINrSvc=;KCH9Futh7QR9Fgt7xbMEzg=="
 ---
 

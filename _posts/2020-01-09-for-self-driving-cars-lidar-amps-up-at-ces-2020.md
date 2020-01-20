@@ -159,6 +159,21 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
         width: 1200
         height: 675
+  - title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
+    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
+    publishedDateTime: 2020-01-20T13:30:00Z
+    sourceUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/
+    ampUrl: https://ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/qualcomm-snapdragon-ride-self-driving-car-test-las-vegas-ces-freeway/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 39
+    images:
+      - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 900
   - title: "Qualcomm Moves Toward Self-Driving Vehicle Tech"
     excerpt: "Its foray into safety-autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Tesla and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
     publishedDateTime: 2020-01-09T18:30:00Z

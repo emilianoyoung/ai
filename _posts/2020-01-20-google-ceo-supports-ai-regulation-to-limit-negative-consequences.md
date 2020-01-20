@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
-excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
-publishedDateTime: 2020-01-20T14:45:00Z
-sourceUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/
-ampUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+title: "Google CEO supports AI regulation to limit \"negative consequences\""
+excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the E.U. commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
+publishedDateTime: 2020-01-20T14:51:00Z
+sourceUrl: https://www.cbsnews.com/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
+ampUrl: https://www.cbsnews.com/amp/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
+cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
-    width: 1024
-    height: 692
-    title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
+  - url: https://cbsnews1.cbsistatic.com/hub/i/r/2018/12/11/e3fc3bfc-a39d-423c-9add-380a04d6b7fb/thumbnail/1200x630g2/32ce44f3e586b4ae63598cf3ea490767/gettyimages-1080946342.jpg
+    width: 1200
+    height: 630
+    title: "Google CEO supports AI regulation to limit \"negative consequences\""
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -60,6 +55,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
         width: 1200
         height: 630
+  - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
+    excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
+    publishedDateTime: 2020-01-20T14:45:00Z
+    sourceUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/
+    ampUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
+        width: 1024
+        height: 692
   - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
     excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
     publishedDateTime: 2020-01-20T13:18:00Z
@@ -148,21 +158,6 @@ related:
       - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 500
-  - title: "Google CEO supports AI regulation to limit \"negative consequences\""
-    excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the E.U. commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
-    publishedDateTime: 2020-01-20T14:51:00Z
-    sourceUrl: https://www.cbsnews.com/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
-    ampUrl: https://www.cbsnews.com/amp/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: https://cbsnews1.cbsistatic.com/hub/i/r/2018/12/11/e3fc3bfc-a39d-423c-9add-380a04d6b7fb/thumbnail/1200x630g2/32ce44f3e586b4ae63598cf3ea490767/gettyimages-1080946342.jpg
-        width: 1200
-        height: 630
   - title: "Why Google thinks we need to regulate AI"
     excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
     publishedDateTime: 2020-01-20T04:00:00Z
@@ -229,6 +224,6 @@ related:
       domain: pymnts.com
     quality: 37
 
-secured: "D72s2fmmkcPUOwkFqr3MIJ/4bMoeLE2Dvx5fVI9k94F76H5QA/orPjs4ZKHryCTBa/hiMvBEGlU/ShsMnp/vPaQZViUyLS3iLhJ5twSRKn9vh1tE7W+r9piYjpEnPiFRhgbSnhIbkDtd3XIAcCvj33hYC+W909gA3ca9y0T+trUV+Opcko6C8fkBXIeWkKGIno1+t8jMFtoHwV4d7ickebgd1y/5B8U187MMFg0AGfJLn5U6OyMJPI/M3zuxGTlZzUqS/wjifZEBIBoL7cuKkdmlfviw5YjfrIsE6JNK84bIaK1YsIbwtD4L+WNpXUmoxdwYF0uXwUnZ/0syNirVo8Z58veJSKtJC86/p8Eu27/gPOuY4ii6tDTpeejMcOA+fpLXi218Eyb+39/gdpEHSh/xoWq0BftChQh7WzgaKDlCstRsSRaAKVzYWHMxa0QUfL0TCRfL0f7JUdGMJ7GPag==;ryubk4dl7mItlrPMbsOGmg=="
+secured: "wHM6teOowvJWRzeeB2beOeFd5TohkVB6PvWPCxnhZqtEYRNQONsQ9CkAfq8ftlDb3wvelNGvEEWCnXkVHI2IhcjBrvhdLdJmRjazd1dTm2pVWHFZqX+KXPVWKe/6ElB++tpgRk5aYzAEz9WZk8Ow8cMmKaIR4VEkCQ5XO3hyE+Xh2GUUuIRM9R8VdqdhgLMtPnTTCxXrAyRvYv09jJrrnGzlw0aPuMvlO0tlO6WtFBiKNg2HL0aeY92TunrXgPku7n0KojG0ow02M1e0psluNmtoFHaO4VxXGdkDFQ3q+/c=;bYXxOmRvOEULPxsjVZ1KJw=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2020/amazon-web-services-enlists-ai-help-nasa-g
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-enlists-ai-help-nasa-get-ahead-solar-superstorms/amp/
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 630
     height: 505
     title: "Amazon Web Services enlists AI to help NASA get ahead of solar superstorms"
+
+related:
+  - title: "Amazon Web Services Named GTWC Presenting Sponsor"
+    excerpt: "As part of the agreement, AWS has become the official cloud and machine learning provider for GT World Challenge. This will allow SRO to leverage the firm’s extensive suite of innovative cloud services, as well as its artificial Intelligence (AI) and machine learning (ML) capabilities, to provide an enhanced experience for teams, drivers ..."
+    publishedDateTime: 2020-01-20T15:27:00Z
+    sourceUrl: https://sportscar365.com/sro/world-challenge-europe/amazon-web-services-named-gtwc-presenting-sponsor/
+    type: article
+    provider:
+      name: Sportscar365
+      domain: sportscar365.com
+    quality: 39
+    images:
+      - url: https://sportscar365.com/wp-content/uploads/2020/01/GTWC.jpg
+        width: 1000
+        height: 600
 
 secured: "zp2dTrxCu1qjyrdlbsbsN9IaCvcS3V2zfQ10S+Q4/w+yOpHutuhKO8KVBsGwSvMIYxCPuSLJOZt8fQI8/djX2V6kaorTseHUbQJHR/w5p6Wooeoq6L5yCIfXZF8PdEeIFayyCDQtIw+V7cgqUfOFzWHSfMQkLh8NS+Q8NZA33DYgmJgv+g/Dtvhchl6s/Vw/+3L41Erq1qVrYBJYr699o4tjBtKVzQr7GaiQDPuq4qOKOVUQi2zg43/5PdJPdKF5hn1feq8RmJKsCkaOo2CKQcgkVW6N3MwL9vad3DClhSMlgWLz2qtDequEQh4i32Wj+19iDOXtTs//mkZsH4JQ1I6wQQUSq8J7TaorMe2QCiO9vgNkdjyohwmCiYi++93XUsOaSubB2H7X9gLMEiTvionW7SFw15I7WwHTlHrlcpR2MVTO8s4yDDkgBXrONx/xjQvIuotZI4rY4jOCxh7YiQ==;PQQa+red7dNml8MFTv+F+w=="
 ---

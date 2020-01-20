@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
-excerpt: "When Hussein Mehanna was at Facebook, the social media giant went from testing less than 100 AI models to over 3 million each month."
-publishedDateTime: 2019-12-30T13:07:00Z
-sourceUrl: https://www.businessinsider.com/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12
+excerpt: "Artificial intelligence holds the promise to revamp how much of corporate America operates, but one problem can be determining whether early initiatives are on the right track. For Hussein Mehanna, the head of AI and machine learning at self-driving-car ..."
+publishedDateTime: 2019-12-30T13:12:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12-1028787955
 type: article
-quality: 52
-heat: 52
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Business Insider
+  name: Markets Insider
   domain: businessinsider.com
   images:
     - url: /assets/images/organizations/businessinsider.com-50x50.jpg
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://i.insider.com/5e066222855cc242fd196ed2?width=1200&format=jpeg
-    width: 488
-    height: 244
-    title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
-
-secured: "/N74c8xT8Jag3kWg5UHCU2RGWBgOkIxXLLSDuKpbDjEWPTnzIjuiilJYisaup1TMhat3C1P2Tcn8eLFwRhWWyMWTuoKX0YblXBd1pkJ7bcw0u1ymlql0bgnLxubelEkeVfFglOEhZKXFM0Az3595UATAYmRyUA1IKGzOSCBaIAewaGhOs1IoFxrbd0iB0hlmHHgwer5J7QOUycjioGzlxa3rqi5OPpGZRcZ2075HFXFCaH6tKYnavaF3/b0tiPsMlCCdvXM+1oYqI6dSoyZ+CWmUHA11iIBd+rrz1+op2NE=;11Is5LMD7uj+4P3SjVcQaQ=="
+secured: "riZU7qFY/eGVJgJX7cfRn5Oa3vDoJ5lFhM1D788WkjI9qDHJEdvHAGmzEQYOYbvL7Bo0TkWAghrE3JSjCNt3vdRsbgZXhmqDWkcOKF2OJnrRPvznSCZu1hkk0tjsr05+JQSrUu4fU6Z31AAtaGrU3I4j1E3mjVbOgzT1zaiVx+UXNdfGnt1tpdDrXD+XiWNlCj+RujPSYIwe6Mfbp21ZN5znQmWT/Fj0j4knZIsGUQoQdJrQSa+rx9RA55iNlhxuadc+EHV6CPfPBKL9l2e+7ipxxMewgntBk9LUQtfNIdI=;pBuP/B42hfmp+w6uotIcTA=="
 ---
 
