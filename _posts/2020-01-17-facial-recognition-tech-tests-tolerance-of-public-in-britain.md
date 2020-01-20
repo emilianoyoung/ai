@@ -99,6 +99,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
+    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
+    publishedDateTime: 2020-01-20T21:07:00Z
+    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 72
+    images:
+      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
+        width: 863
+        height: 545
   - title: "UPDATE 1-Alphabet CEO backs temporary ban on facial-recognition technology over misuse worry"
     excerpt: "BRUSSELS, Jan 20- The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes."
     publishedDateTime: 2020-01-20T14:54:00Z

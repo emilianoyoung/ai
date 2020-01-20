@@ -28,6 +28,6 @@ images:
     height: 800
     title: "Three Big Take-Aways from NRF 2020: Omnichannel Holidays, AI, and the Measured Store"
 
-secured: "PkCRTpu+FfdPgSkMbqijsYUl2ULv3YfXg+3+zU1RWEl0867I+mOUgak56YhfQgVAAN2UWtt+6mkngFIS2Xog08xqMvkU5FuZmWIYZL7ExrRMBU1JgKQPOZk/1aiCXkgsywC6QpfDfdrOiAV1aYryrTH6la7yEAFDUUj+0OejFh2hh5L9gG2oGjd4jT9QWVXvED0hHTFL9WRPELsqcBIobcilQLjVFizG+P3Nlt79z4FbyxHvwuiZvtvO1UTZvcI8LtxsVb2PU752fiZf1bV8qjlNqp0/QMMTxCnq5h0lLrw=;VeRsgOhkWqK/UgCtfSNLjA=="
+secured: "KYcP6Hz89V8ckxsv+0cHp1NMIpRdYYUejN4Sv66YLgNgVVp6trkCfdJbYK+nC/AZuj55gymQex3/gMDqRMwtXJGmcHaMLIIfduC8Aktct8lAlS5NFEPZXcwiWSg4H418EVQzvvchjkjA0aG0j9vDxeWYK9IimQnEVns9B12wk1KwI4i9jPrsM+xOxr409QOUfmr9oZVurp9x7LMSwoWC6AthkRmDvaGSu6nXe6T5/eGty8QqENRR0c2O/ZMomPTrXRwPLQeKNQP8Bm+tGkYEBtxM+Gt/bzj6YYil75O6Y+wSyslDPshw/u///gzF5eeK9HaHc4WSBzi5Q918nQJUe0vWYxlll26HoPQ3Ny1+gLvqxPbLlvLgla9WElS6CWXxNMduRkaQHlNwAe4PH6p2sCK75EAgKiswt5YyaobmovqnBkoBv4tfUJfGrAO/M4iC7iQSKo2Ogvn8RLENYv8gCw==;zhPMuj58ULcRada3vTgr+A=="
 ---
 

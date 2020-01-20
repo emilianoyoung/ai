@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Massachusetts City Renews Calls for Facial Recognition Ban"
-excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
-publishedDateTime: 2020-01-13T20:22:00Z
-sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
-ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
-cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
+excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
+publishedDateTime: 2020-01-20T21:07:00Z
+sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
 type: article
-quality: 44
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AWS AI
+  - Computer Vision
 
 images:
-  - url: https://media2.govtech.com/images/facial2.jpg
-    width: 940
-    height: 630
-    title: "Massachusetts City Renews Calls for Facial Recognition Ban"
+  - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
+    width: 863
+    height: 545
+    title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
 
 related:
   - title: "EU mulls 5-year ban on facial recognition tech in public areas"
@@ -101,21 +105,6 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
-  - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
-    publishedDateTime: 2020-01-20T21:07:00Z
-    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 72
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-        width: 863
-        height: 545
   - title: "UPDATE 1-Alphabet CEO backs temporary ban on facial-recognition technology over misuse worry"
     excerpt: "BRUSSELS, Jan 20- The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes."
     publishedDateTime: 2020-01-20T14:54:00Z
@@ -249,6 +238,21 @@ related:
       - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
         width: 600
         height: 271
+  - title: "Massachusetts City Renews Calls for Facial Recognition Ban"
+    excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
+    publishedDateTime: 2020-01-13T20:22:00Z
+    sourceUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html
+    ampUrl: https://www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-City-Renews-Calls-for-Facial-Recognition-Ban.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: https://media2.govtech.com/images/facial2.jpg
+        width: 940
+        height: 630
   - title: "Alphabet CEO backs temporary ban on facial-recognition technology"
     excerpt: "Part of this includes a moratorium of up to five years on using facial recognition technology in public areas, to give the EU time to work out how to prevent abuses, the paper said. \"It can be immediate, but maybe there's a waiting period before we really think about how it's being used,\" Pichai said. \"It's up to governments to charter the ..."
     publishedDateTime: 2020-01-20T18:29:00Z
@@ -382,6 +386,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "r1Y+C/ZUr21AHNH7KyBPL/eqK2f+Vb4uQn8hjKBCS/PC/yeDvQkJQo50/x2cHOmo1wHcFEDKt9f3yoaVKBNCED8gbzgwXhjx1GvHMePqbGkmHr4f/KDbQB0i06pEpyaBi/pOsu++55qyF76l32SN5Qf4lUUkAibCZKmyAhtWbisgCbE6b6pbdgCboQdw8AF5alKzElHg3ljfsRWKprHv2sy/woIVM6gzG/+aQ9E8M6ZbDeTOWGM1SOwVWH9CCOWvZ2KdCG200jwAul/7zwQoP8FNmO9+w0fsPIvVUxjJiss=;1V2jS5McCDbQB+6MKzh86Q=="
+secured: "lgsgWyWk4WRZR7/6tONXlic6JkQXXTGl5hp1dzpxJ2G0JH2vJA2Kjsn2Ah8MdE7dKeTr694HDeodUPbmI6ODUj2r5FB0N4i2mB3YS4vcacetw9vHaSDQlMlEMUPDr0OIy2RJy9RtpDj7mjy94XFUeSGM1D5nySxnpXJZlQILKI2AiTvyyTme+OJZ+A/fAPs7kBGmqCMpn7Ia98FxlAo5f789pj1HOdF7a8J+OKEIVhp+pLGcnGyhMV5TbP81mIX0btYZOYfuMFU2hGU3DPdggnyPOz2pvkkeT9aeglBXdaE=;kPjNmBVnL9S4ZAFc1CceuQ=="
 ---
 

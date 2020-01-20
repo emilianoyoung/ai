@@ -3,7 +3,7 @@ category: news
 title: "Google owner calls for 'proportionate approach' to AI regulation"
 excerpt: "Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a “proportionate approach” when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
 publishedDateTime: 2020-01-20T12:05:00Z
-sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
+sourceUrl: https://www.reuters.com/article/us-google-eu/google-owner-calls-for-proportionate-approach-to-ai-regulation-idUSKBN1ZJ18O?feedType=RSS&feedName=technologyNews
 ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
 type: article
@@ -129,6 +129,6 @@ related:
         width: 1200
         height: 700
 
-secured: "aecRAmdU0nxQprmtRZA67toZhqlDIPia1zBACRidS9sBm+m8+qZENL3AXJtcxHgNB+Fbsf60mHaO2dwcQ621EsN80EBNPLyN2CQmHN2bcVRTtdMH09dxgsAABFQ1s84yFd+K5jbAgHUUHIJ5YEtcTy27GT78PQl0xQqcMch4pha9tSR34cAzpPvb7hVPw0Rfvm9RJrZ8zuptYR5UHIf+dPalJAUQiR2kxqZjiUJvQUBmJt+6B+U8vk6ZEfe8uiNRXMhpq+yJuvYPGWSUo5SPhJT8hJmFWmkbrdgU5rlOx/Ld+mH5Gg0JX/j6czby3joUV0Eu0UFSe5/tpRv7gfGOiKmNXBYnOQln4Iz1CM4+gjUAjGpAq7Lxk7yhvz0F2JXoBgZKSZ490fWSnC+d21G5iKObdUlcqJfYArzrMPg8Yc7Uib45g1+8zfki5OIL2NzhOmltaqizsdffbKMnucBrUw==;1Vvl6pwzcfxiNERJ4xPmMg=="
+secured: "7rC/YxEyPGb2gW+Uk7wRFFZYa5OdI14IT8Uw+GEdpRDI/7rKByD026XnHSJ+GP2TruH7FM7wMrIuA9rbwZx5WcaWOM7DWHIbg1WQi3+xqiaOWzfPOlCrEi4/6J8IXke+231JlcGISv3XrWPYVYxUgMr1TBLrUReEcFCM6MqcIEip74spq2+mubAePV3GrPKzAzTVr8Hx5vptVXHVqSp0zsu5/Mh7Ejy6zAk8VcrGsXC7oSIA9FpglMj/nkc7gZGXXzdXGscDSBPSkLuwLrqqjTGXqzbTD+leBkPt369zoQk=;p1jJRiAcDXE1jloA9zYtzg=="
 ---
 
