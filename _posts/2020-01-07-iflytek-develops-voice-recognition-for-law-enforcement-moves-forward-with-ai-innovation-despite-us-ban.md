@@ -63,6 +63,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Get Started With Speech Recognition"
+    excerpt: "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post, we received a lot of emails asking “how can I make it recognize my ..."
+    publishedDateTime: 2020-01-06T00:00:00Z
+    sourceUrl: https://hackaday.com/2010/07/09/get-started-with-speech-recognition/
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: https://hackaday.com/wp-content/uploads/2010/07/capture7.jpg
+        width: 356
+        height: 244
   - title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
     excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
     publishedDateTime: 2020-01-05T23:14:00Z

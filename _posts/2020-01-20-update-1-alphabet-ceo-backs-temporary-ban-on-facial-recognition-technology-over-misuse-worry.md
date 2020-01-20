@@ -75,6 +75,36 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F17%252F7e%252Faa4856d86c7c402887ddee86110e215e.c80a4.jpg%252F1200x630.jpg?signature=axZn3vvlYSj68lH8DIH9qHic0mA=
         width: 1200
         height: 630
+  - title: "Sundar Pichai calls for moratorium on facial recognition"
+    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
+    publishedDateTime: 2020-01-20T17:43:00Z
+    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 74
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "Facial Recognition App Used by Law Enforcement Agencies Detailed in Troubling New Report"
+    excerpt: "Over the past year, more than 600 law enforcement agencies have started utilizing a facial recognition app developed by the \"tiny company\" Clearview AI. The privacy-poisoning app, which allows users to potentially match a name to a face within seconds ..."
+    publishedDateTime: 2020-01-20T17:58:00Z
+    sourceUrl: https://www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+    ampUrl: https://amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+    cdnAmpUrl: https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+    type: article
+    provider:
+      name: Complex
+      domain: complex.com
+    quality: 65
+    images:
+      - url: https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/h3znpz9affmqxjtkm8a1.jpg
+        width: 394
+        height: 222
   - title: "Companies Seek Clarity Over Facial Recognition as European Regulators Increase Scrutiny"
     excerpt: "European Union privacy regulators are scrutinizing how companies use facial recognition technology, which early adopters already have deployed in a number of situations such as a retail shop and a casino."
     publishedDateTime: 2020-01-15T15:30:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-04T10:34:00Z
 sourceUrl: https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Get Started With Speech Recognition"
+    excerpt: "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post, we received a lot of emails asking “how can I make it recognize my ..."
+    publishedDateTime: 2020-01-06T00:00:00Z
+    sourceUrl: https://hackaday.com/2010/07/09/get-started-with-speech-recognition/
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: https://hackaday.com/wp-content/uploads/2010/07/capture7.jpg
+        width: 356
+        height: 244
   - title: "iFLyTek develops voice recognition for law enforcement; moves forward with AI innovation despite U.S. ban"
     excerpt: "Chinese startup iFlyTek boasts it has created for law enforcement AI technology that leverages voice biometrics to identify a person, writes Nikkei Asian Review. In upcoming years, iFlyTek aims to use it in fighting phone scams after rolling out the voiceprint recognition system across the country. iFlyTek uses AI to analyze big data to improve ..."
     publishedDateTime: 2020-01-07T18:08:00Z

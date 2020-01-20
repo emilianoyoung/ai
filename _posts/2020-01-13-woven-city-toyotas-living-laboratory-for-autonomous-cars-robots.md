@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Woven City: Toyota’s ‘living laboratory’ for autonomous cars & robots"
 
-secured: "roD82fY5x7yLIO7+d2RGG6EH9EK29YuMwt5yMXIgQqYWDiGZS3wth/k7PB6PnQ0mJ/Aqg3SQIy7RZn5bbTg9DADEeg+YUmv3Plg74avINdACEQBJSiAowuL1i2JiszODQ+Q5hBEIaGmtA99iO07enAkYxXkonR4MAtuduaalHbI+Bdwmtxdf9q21l5suS4kdhNGAKExdzx6Lxyc5+OAt5U4JRuIZpnMsgGA6BbLXnMwuQjMlXR0cXrgAfmk94FzdPaXTKg/9NcdGjYRDl8eFbaNHT3x0/5bcWgtxOZ/XwO0=;lC8AgT0fp5S0s2Gr6Arp2w=="
+secured: "Exj5r2jw0Ot0fn169bftyBGFgWFKLLNkXF9Le3pVAcvzsu4C5OjmYWEUk18xw0m6WaTW5O2KQ8YaZscusYCBVvbKEdcjx5B+ML7hBeoIlv+oiKTKkWm5L+c34E7rzA6in/mmCENkf1foLov6xQVqP0D/Ltb8P70r7FV671PAvY3qNoI40hu6qTDhpybi/ei1kEfim/HCR4tLmtb5c1tAyfH+p1jw8CiiWjcXbRAWRmhJ6ZChtwr7zTX2/vz8vmmT0uUh7sKZmu956GVGNfX2PxwOqUiMz9SfxO6X99H6NQQiwVsFhcNBWgVSu9hPcijCERo8rihypCIHGxJ4HguEqGKzbZUeBI/HT6FXPAohixutLudEsWEwUK6LwqWxV1RMVihuo18BurPlEZxs+Et1S8yCcQGADepCMt+eZrJB+jRICoUMb7O2QJigoV6uRFAS808753IoheKzY7Lo3CtIFg==;MY2HlWZMCuXlPdWkjzDP2Q=="
 ---
 

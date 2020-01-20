@@ -8,8 +8,8 @@ ampUrl: https://www.phillymag.com/news/2020/01/17/facial-recognition-phl-interna
 cdnAmpUrl: https://www-phillymag-com.cdn.ampproject.org/c/s/www.phillymag.com/news/2020/01/17/facial-recognition-phl-international/?amp=1
 type: article
 quality: 53
-heat: 53
-published: false
+heat: 63
+published: true
 
 provider:
   name: Philadelphia Mag
@@ -24,6 +24,23 @@ images:
     width: 900
     height: 600
     title: "Face Recognition Promises to Speed You Through PHL’s Gates. But Should You Use It?"
+
+related:
+  - title: "How to Set Up HomePod Multi-User Voice Recognition"
+    excerpt: "To test out out the voice recognition further, you can get users to try asking different questions that relate specifically to them, like what their upcoming calendar events are. If everything works, ‌Siri‌ will reply with their respective name and the answer to their query. The neat thing about ‌HomePod‌ multi-user support is that it ..."
+    publishedDateTime: 2020-01-20T16:03:00Z
+    sourceUrl: https://www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/
+    ampUrl: https://www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/amp/
+    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/how-to/how-to-set-up-homepod-multi-user-voice-recognition/amp/
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 44
+    images:
+      - url: https://images.macrumors.com/article-new/2019/11/homepodmultiuser.jpg?retina
+        width: 1600
+        height: 900
 
 secured: "vUsJ+Sylqj1cIyOR/rnnWIUO+9MW9SItHGHGp5FAWVqrWv9xtYCVHA2onKRv62KMyNyL65X0FX6hZEBKy3HqTDSbrk++oFliIXK0ZDNrMMW3ctDJoHvmb5/U7+oeqiC1cWoMBTarqE578us2Tzr/jfPnd2wtPUpg/xbc67TXauj7TP5I186dNUMtFmWRlVIbDV09RV8FPSVNmclcYIe1Z4FGVBapn3uEQkxqFO9fBLTeYQ/0T5vPq7s9EU7n0LU0DiTXcT0zQVXp0ESrfjd3MTzpChn6K2JIUameDFA/T9PO95ZkMOOEoTlVxqwQ6/QQTxnuZF9GelFzQ9IPF5xq8ErHQs8k6RRcmAp9s6jTOURXea3b6p5EymTzZzo0XZJ6LgAQkl2vgbaodUXItpFjlIyEBfSucxNaDHQ3P+j1YNAkp2TCF8cxLlblCo2e3lb38k94CWpBhMUJjJ93uJES9w==;SqnZAs3CY6PySkvdh+JcWA=="
 ---

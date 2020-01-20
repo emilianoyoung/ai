@@ -25,8 +25,8 @@ images:
 
 related:
   - title: "Baidu secures licenses to test self-driving cars in Beijing"
-    excerpt: "It also revealed that its self-driving cars have traveled more than three million kilometers (or about 1.8 million miles) during tests in 23 Chinese cities to date, up from 2 million kilometers (roughly 1.2 million miles) across 13 cities as of July. Baidu vice president Zhang Dongchen reiterated the company’s commitment to road safety in a ..."
-    publishedDateTime: 2019-12-31T16:53:00Z
+    excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test driverless cars carrying passengers on designated roads on Beijing ..."
+    publishedDateTime: 2019-12-31T16:58:00Z
     sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
     ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
     cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
@@ -63,6 +63,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T18:04:00Z
+    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 4
 
 secured: "RQ6Ab3d/46VDFJo5obwu9bT/4lDFxc3UyVaH7Kdl2OYSbIwvpOkWVdVwywk+OosW9d8fiEGZnKkaMdveQSPFGJ4RNQPlFqj+1Pq2edRlxjq6L0kvcixZVClYX7SsFyxMaduTbrrlzEf6gTDBtmf8pFOv/5QhJ08Hu3x9SHMRShbqJjLxBD/ydH53gZu2aSWwFlfqa6x4YN5ssJ6K48kKmoYs8eH/jjspiqERmvSlJRdWPUaoHTdlaMMgfmYevpdAS2e4apvjEUe824ZxivSwbFFz7hlHkptzui8Mg9IhWp/L1vfDJgLps/3dietY7NzVl7poOy8gCq0c1lGhg7jpJ66/VdeDAPASDbSXVXsTpkpCHRfFE3SCRRQd23rrm0ktw8u2JFbRqQMvRcJjXAfbOT+kbYzviP46uwCfVITYkiQHN+sGUX1E/VKNcy4UwPA6ywk2VPoNYtXmW9qtNdJ/4A==;iB/kTmHZMrQXjFXoJyM99Q=="
 ---

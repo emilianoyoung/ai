@@ -402,6 +402,19 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
         width: 1280
         height: 720
+  - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
+    excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
+    publishedDateTime: 2020-01-20T17:27:00Z
+    sourceUrl: https://tech.co/news/clearview-ai-facial-recognition-2020-01
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 53
+    images:
+      - url: https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg
+        width: 1920
+        height: 960
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z

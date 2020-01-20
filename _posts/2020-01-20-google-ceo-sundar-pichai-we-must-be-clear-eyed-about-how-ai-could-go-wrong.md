@@ -243,6 +243,19 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 37
+  - title: "Google CEO calls for balanced regulations on artificial intelligence"
+    excerpt: "Photo: Carsten Koall/Getty Images. Google CEO Sundar Pichai is calling for regulations on artificial intelligence, warning that the technology can bring both positive and negative consequences, AP reports. Why it matters: Lawmakers are largely scrambling to play catch-up on AI regulation as the technology continues to grow. Pichai did not ..."
+    publishedDateTime: 2020-01-20T17:03:00Z
+    sourceUrl: https://www.axios.com/google-ceo-pichai-artificial-intelligence-675c3aa3-c448-43de-9583-f5bc0cafc840.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
+        width: 1920
+        height: 1080
 
 secured: "xUmzlyeozqcXCP4bunbQuuqqlzto84AF5zLxn9drCrVBx/xkkDKPllbO/DydZtf0Uv46brmtS9GTPMibptStrf4AyxpcyEM2C4gU7Fvn16gWsxQn+yal7/OA37iSRFT3WDM9g/B/qw+wXzwDUB90iK1cL9xkFZhzy2Mq+oOm3jrvAS1y1qBj8dNVUFxhXdTSCitTTrqvC9gEzepnmuOTvyZIVGPBTf6TobWdnZ8gaSlO88XGMgUjc8Uy5FZMMDy2aj77j00ZHxy/JOX+iPhq9PzIdCeVBbvhRC+pzbpkbz9p75g6nIaYYHP86HLDj8Owjdv5reVPurehTbzZasJA3f9jAGR2AQ5Az4rlHbdkxkMXxLyZipApV/hhrb73Dr+0XvdZH4WDL7yF95KUrsOP1rklxLxQkk2YWtxCjY82MM80n8T7zUn7Bji2KYJuYXHNWI5yV5wAGSPDj2YvK6KQBw==;KxxWBaD+U6DYI/WmVc2BlA=="
 ---

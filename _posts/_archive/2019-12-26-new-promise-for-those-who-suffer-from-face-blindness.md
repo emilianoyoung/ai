@@ -23,6 +23,6 @@ images:
     height: 496
     title: "New Promise for Those Who Suffer from Face Blindness"
 
-secured: "XZop3Z98xXC4MAKca1xbdnfEnFmzIH1m7bd5uvcigIAEh5M/ltpk5lkGGNe/9fLf1Nzws2fqbefu4maiYw5qQHeb6+ukPrGJiwYzk36ILlXbtPDSlvguqCgBv7hdmf7U9Kj6yXyOTbRHwj4zVD7tbmhsoWxCr7nas8vcVdRupdBmozsz9e7Sl4uyf8u83uGLNykDJNmdaEtdAQMaemlxXWahChmhBAVGcJe6lE9Dvm7DcwyhjKQSbWkf5XgJx7cPBjfSj3C2GYoNvoRBnRRTIEXCHZmhMnDvKYFjSKHUvlw=;8A3UEHQ3zwgsw1VdRmUHFA=="
+secured: "Kg8OMhuQMJvzF+jPhYbZ3U5qEZAFSMK2/YLLHQtucmkggr1gjcnZn3VkWqthf4RHznEqxGXq56+A8hGwSFBLKLiPz0J7AmLXAmZVwV8+sKi+7FFu7cXAD/0OtwKSPHCc442ND3y+kp7XupI7ku/oZAwsZhYIZ4yI3RG8UQ0xUPKyLGQgypi29Z7Mip05HKj4eyleSS/6P7zwVLKGL/PioWanipyb+4pWYD5SLh7VXT+4pQ5VpjDSvwf07ukMNaC4JoBDvf2J+PemXcWtB0BQN4qDhoM+3bU+dahDI+qH5T4=;veJbmy7HZ1xuoOQ58FtXnA=="
 ---
 

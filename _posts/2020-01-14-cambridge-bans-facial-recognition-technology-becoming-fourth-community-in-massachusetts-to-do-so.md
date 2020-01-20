@@ -417,6 +417,19 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
         width: 1200
         height: 630
+  - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
+    excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
+    publishedDateTime: 2020-01-20T17:27:00Z
+    sourceUrl: https://tech.co/news/clearview-ai-facial-recognition-2020-01
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 53
+    images:
+      - url: https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg
+        width: 1920
+        height: 960
   - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
     excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
     publishedDateTime: 2020-01-19T01:10:00Z

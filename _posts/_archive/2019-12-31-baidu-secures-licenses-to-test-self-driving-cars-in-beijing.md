@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Baidu secures licenses to test self-driving cars in Beijing"
-excerpt: "It also revealed that its self-driving cars have traveled more than three million kilometers (or about 1.8 million miles) during tests in 23 Chinese cities to date, up from 2 million kilometers (roughly 1.2 million miles) across 13 cities as of July. Baidu vice president Zhang Dongchen reiterated the company’s commitment to road safety in a ..."
-publishedDateTime: 2019-12-31T16:53:00Z
+excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test driverless cars carrying passengers on designated roads on Beijing ..."
+publishedDateTime: 2019-12-31T16:58:00Z
 sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
 ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -67,7 +67,16 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T18:04:00Z
+    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 4
 
-secured: "B0ORhvpwSDHBAMwrojgRoOqskaeKIilQxXYHcS2kyjgkRbCaxaq4pJ3T9fffMyIQ7sQAgjDyuQHT8nSRkluvSSAO0Zn1qdyDS3gXDncyZrQaqR1b56MStVQuksgeM3DzjKgzQfEy+aLfemq9ucbYvn7h2gVn3K//Bag1tXTS76EsObm3LVyn8k3tr5MYlxmpAwpAWw0rzMH8JPRVeFLqb1umk8kZ1v0C3rcw99fCNpPb+7+SpPa4/6gunwbhGflD2jIdWMjArEM4STmIP5CzjGqSBntyxrLlDzv1akWIQYDRxbfacLI2VTQMt/GMdqpWVdgcZp/46l0ysgKPUOJg3euMyFR+z1FwMhEH7U8dyF/nh6Hv8VCpfhPNkfOt2htcznKhSVviItTTqzHFTh1ZunFMT4Kmtp7xad/VPY1113SWsB8cTEdEK+YWKKeplKOfgUBUe2Vsebnd/vACDpJn2g==;bHhHoMenlmdnt8vBdpLXGw=="
+secured: "i86Al9oSsB4ghtlT9uM7Jrol6+wNENSvxO7+pSLBTIMAYiNMclP8SeaXBQ2JGgS7HDYxJF28vwp2K9TvBzbUimK0EMsyFHZf6tehAKcxUcnJu3OMQPi4unYURY+/xtFvx7UG+B4m3gFQvVFPhedf6FUnp/FmJVWT/tuKVOnhzt3yCt7EDQ4EY+ZvtW8y8aTB96bhzb098MlzZr+1/hRe3jX1lWl5LUIaVS7Cd+GfXzGebiU9fxGupq6LHK/SMEmrYhExJ2pAx3QxyoRbu58tn7vKmtdi4C1aXimw0eRhKRA=;43ceNatDsVYQQaBoJi3e9Q=="
 ---
 
