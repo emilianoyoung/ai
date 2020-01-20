@@ -73,19 +73,6 @@ related:
       - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
         width: 1200
         height: 800
-  - title: "What self-driving cars will really do to cities"
-    excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost ..."
-    publishedDateTime: 2020-01-11T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 24
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-90450754-what-self-driving-cars-will-really-do-to-cities.jpg
-        width: 1280
-        height: 720
 
 secured: "tNJT+G5sK/54kmW9LWxell8LSZkfNyHjaq8SdyCIGBf6DzqjXGBNElM/7277YtsD1kCWPf0O5O6Rbcq3ZqwZRVcIPxdK+8dtdwGfWbISJeGGJv36QytsySyhilFuL5UBLXMVvTY9GHpg35s/X8gVOJB8QZt9CtHMUZSXbHQB/bWJ5hzD3xzSC59h/Sf+oVghIZKioN1FiKY3lCtOYD+0iYyuIM9l2HI7ujDXU+MxzPgVIZDPxUDzfg/zDrppuy+iNZyIid/EwpranDiZa+Nm9lMvZ/BnopPQbXBnAZyJT3yObzXuL5r1thu5RuYimyQEG4VBoDsl0ihavecUB/OiBkNEgOdfy43OuEvPw1qu43GkyKNF0AAmaYyIiJIR4l9vnYVq0NwKSgSGiZZokv3XYpe+8W3mdjkB4SV1+HN0y0mAwtuajcF01B3U30g65qkW2AjYYdzXRaeB7OBl8WqjYQ==;CvJ1QHpfpH1634azw1Gl1w=="
 ---

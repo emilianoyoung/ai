@@ -7,9 +7,9 @@ sourceUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-
 ampUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
 cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 153
+heat: 153
+published: true
 
 provider:
   name: Brookings Institution
@@ -24,6 +24,6 @@ images:
     height: 857
     title: "Whoever leads in artificial intelligence in 2030 will rule the world until 2100"
 
-secured: "5mhEUCwkwEHokZEyI34qpm5uTMXyx1VCNJq6YDeYWpYh3qEjCAwwcAM98wP3poxug9Nx3PQlljXtddRgRn8jPzVo0RSh08nj9kjCLJYyej8zygzt67fk7Fx/O1iyJlqIin4QHVms6P17GNpD8usoP9WM9NFagsQfzQJOgNP9izEiq90tCEyo2eKFZ/6wlcdgfxBTTMig695QpSSROE/YzgiWncpZGn8R/OQ0her9UHKkTIX0/F5Haf4mfwKiOguScw/xKs1N39CK3EBAj2T0aYetKZlp8OohhNkCFKAukMchBdJubDnjKVX/W/GmP5EWp2qzFTFtCzzMtPpnlWoVYhRnKEO2AHLEf/cu/fazDdq3jIG0IsXHKAhiQiYG1dB2opeszWUKtKLTl/D3U+JsYSjZUxFJ/iXAuOs7rQ5XOQ/WnfgaVyWjb/iGJgcBrKlpZ14QhkEz6FfPbWqoRBerbg==;RPBxdzbrz+Lfcaelrp4IUA=="
+secured: "aaHEo5+zRbKj/z6goA99ojBP0/pD33keyv0NDnN0Mjef17OQxx+A1tQK67E5C15hp1y8xyYUwKyf9NatgXPPOd+E+ha15JEmzKx2H/hIFDr/mVEV+woovLrG41i6qnrKkFDYDhq3ZXrOGRis1QgWzmoJSl1B/8EYCzeemUZYSxK/NEvYe18b1WNDa5GOZl/7UtC1uDNtjHN+WCDAFtxhK2b3iJgLe+B3bn1JYkZKikCgwFidn/iX7PDlegGst6i5BJhiD5VUvPp4fQcZlC0kn439i6Rv8Cevn4XTv2j3hU7xoGCj0wp0rdDxKnjHirzOp1G0nngrtR1lG/NT0F1bnXakPDOLvvL8QAkiaxMr+62ePv8ID3GaLYj4Vxs4EspKYHnz0kLLR6TOdodCI4l38VUftZSRggYdgvjKL7rkAsrPrHmGz2Uso9rsUhLG92tkxbi2wX+QP5tDb9fF1nO6ey7hRNuavMnjzSUI6rQezlQ=;aemlGHZFOtxtFrgf8fMYPg=="
 ---
 

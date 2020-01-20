@@ -56,6 +56,21 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/19/00/23576338-0-image-a-40_1579395253729.jpg
         width: 636
         height: 382
+  - title: "An obscure app has scraped 3 billion photos to use for facial recognition and is selling its services to law enforcement"
+    excerpt: "According to a report from the New York Times, a largely unknown company called Clearview AI has been scraping every inch of the internet for photos of faces in order to train facial recognition technology. It has in turn sold access to its massive and comprehensive database to hundreds of law enforcement agencies including the FBI and the ..."
+    publishedDateTime: 2020-01-20T20:16:00Z
+    sourceUrl: https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989
+    ampUrl: https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp
+    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 34
+    images:
+      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/20/bd31a271-ed90-49ee-b7f5-d2b30bce6220-shutterstock-1108927796.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
+        width: 1200
+        height: 630
 
 secured: "U14k3C3KpYozq+hvtntqQZOdjJUG+q76xWDiLAoSHClEt0CcUHPWAZzpr8gKVkd+9rGwVCzf4JrEajoWKSXnEBaYagOAQ+9dypqxn1ZwHmDjW2isOF2LNYJuu24HxRRVksdo18Q1z2vEG1Y65IAi+LByxL+mhFuyw1MALj9f/SccdluEZNSuM5to9EiBR3decmAqXxRugHILajhrqJzSEQciO1P8DfaL8O62W50ykPMoKo20MLWxyEVxwakNYrEZsQlrdYY5HavLB80p7AlJbg/T8l6h/7P7d6kYTotrfIQ=;BxT0Mmf3uOWmPfc8WkVbsA=="
 ---

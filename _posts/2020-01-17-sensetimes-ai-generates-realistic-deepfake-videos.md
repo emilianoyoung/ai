@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-
 ampUrl: https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "SenseTime’s AI generates realistic deepfake videos"
 
-secured: "Lm7hPzFvLBI36B29nAU5XiUxa8Kt/IV645b6CCnThCG5Blo/KPSlaKckGBUpI7kETuvkXQpiMzHKRoDxh4R6HP207BdFQQIOXlZUp0A2weSl9m7qrp6yc4bQTOrBY9BqEhhSmHrZNKT+3ogzuD5Zs+5u6jbGavvBSCde/pNokHygn0tDwfoBJlCojgkIX/4+x5bCbAcsZhAzB8zsYQExxHWF7JPzq4QniJshuegPNuJAVIUbUO75cGAOX1axpr+8ok+o6tVePpMAc9MjgYOhHkIB17ZmGTDzuJehDYDN2XQJERjF2l+Z/CW8U/NFXdHl93yFNPddEYf9MCEf6jyNluZl+SMNN+k5Q+OaHykHB66yORDK/IMwzlyFKAcubzIBfyzMDL72EKmokm/1a9WgdoWsq3Opfs9z0kNRFnYa1HVjPvEbhAhxbzMkbaERdK9pQfU6ZEuedjEjWSDesQ7drQ==;b4XYJF2euHJ++AGqbEavhQ=="
+secured: "vlJXE9zWRz2EcV+W86Vda3gioTUB2Rp0CE4UcH/0wNCgzVnRgh2hPYziZKK/q+s+GvZrdGXxA+bsYJdJXvZr8p7OPGL0jQdQCEgXvXqOPoZnkCh2xbqIGZH4P2OCKZ8TGvvCea6F6MseYE5/nA45vAWayIHWc+NmopkvboiS3JDqohmkg8mlSM+rOS+ZyM9qCzmax14IiKsJp3RoG05ubQ4fUO+/8lgsP6Yle5eA4qECNsbXo4dqACQ5JWi69YmELF5wOCUr7c7CDBuMx5ZW/4IrsHh21BBom9ApswhiYlGgZl43Ya8nGEK+oBfCckAdkVnjLcRo5jNmzSmC8IGP2GpA4IWa7MAyvaDBq2R6T70gl3UnypAlNbsW/p0r2VWzd/D/m5tM8DlSLkj7Ya2oePx52gsNlT+KPE+C58UzSHkg5HChBO3vTvfVgckSjPmxkRT3o2x09IKIW8rHF5AGGL6JtIGNxH7MUHB1tYwMAHg=;MO8zkHjKd/sPGBd7mlhsVQ=="
 ---
 

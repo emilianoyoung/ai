@@ -8,7 +8,7 @@ ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -73,19 +73,6 @@ related:
       - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
         width: 1200
         height: 800
-  - title: "What self-driving cars will really do to cities"
-    excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost ..."
-    publishedDateTime: 2020-01-11T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 24
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-90450754-what-self-driving-cars-will-really-do-to-cities.jpg
-        width: 1280
-        height: 720
 
 secured: "MQDNXuhob4GF9wakAXwB/y1Jvj+nxoeO2YuSCDf9EBqPgvJ+i9HDdp3bOfaAvuYCvitAycnx1mppQ/JSo9dHBacpsda8yF8SNAYiZ3tPB/prQFcgLfA210eJFbWdNUEFZBmDi2ow9195KR2DiVDDYEZLzxs7Sk2KM/wQ4B9dvx77yH/CGSJo7cJwIoamj61+62xZF51FqehPasECrmu5mbbuQvlV7hU4+4CMJmIJKkxDnpyGqgMYmkU1INBq8QQAQtwNQoOT2DonK0A97c8kvzp1JNZpT+RJEA8iGFsMy35Hn3du3p3NZ26Sf+Z0HODHewuAWiHdMeIlpjvlX+lyHZlU73sk2gNVvPUdcUQQQlHuvcS7b7tAAtENpioqgPEM7n6xbIbG+dwS7LAZGR/5NzjNKZJXtrlLV2wplJ+VyVi0uzQsHznO3qmoK3Yt6z7xxHbBXx9CQVJuyQNuqI/LZw==;g7LVzQxCBym8M2JHtuCC0Q=="
 ---

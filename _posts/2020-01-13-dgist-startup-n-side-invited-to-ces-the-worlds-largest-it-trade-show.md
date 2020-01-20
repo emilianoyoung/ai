@@ -23,6 +23,6 @@ images:
     height: 323
     title: "DGIST startup 'N-Side' invited to CES, the world's largest IT trade show"
 
-secured: "+utozLOfLYy+IPtaTsc6L9v/XEUK9miW6cJSR8HTXTlfIX0oZ+mss42cH7d9x+ATWv974IW81G5xvURaiBjNyue4PNkJil1GgMC8fad6IYX2MPa93sHekLLS2b7r/2/fcueD3Z0eBlSbf9naSz7bOuK3SfQ5wtdlTbtwfvNk7z3xz5iSHSKFkvtra6rGZQJU8walJgMZirqpkuCyedmt+tALgqUdloWeG1Bd5B1WdoBysNbRQzE7eghmHh8zvvZvKwv3EX0kcUAwbV03acRULVdovV3d0tUN0Fyt6FEMGNA=;NoT0USpql20iomr4NoiL0w=="
+secured: "F8EVanhWFMdCLvLwVp/7BbLR4hdwS6hqHk+P8PN7MOyNrWGMQ6u7cShXA0IpcTyT9uj5Hnh2DAu7LFnnvoqVpJE/ngdHyYcTGsnT6/CJ0/R901/ENnpERs0cpTgbD8UmSljtBhntppQIuJfGopXq0nWdkwqrs9TgXblT7qsj36+DXGpGSFczadd335o/1eNjemyO+Qc/XwIqntBEZfzq7a+deZeE8NF4JMmN5oX6su1s3HkUoIjn3j4fpyL3HtqRVQja8CMrmhtN+jSW7bu+pOk3MfaXGkqPEXye0CmLdXWWlIH+DxUqT4aVlKEAp8+omSXRWzUKt8Qr9nNTOIzMYHfvaUJ4hC9biQ198QzJTYz9EdfImrmTOUye6PxMDLdljTvVLAS0vFFvedKhsx8CDDZbh/zJg2KWg1eRD1QfjJHbAGy2+0+R+SSG4W9WqW5jcLaQnlNcgRKIc8noKgGinA==;KgO9JxvFtFoXG/KfsFXgpQ=="
 ---
 

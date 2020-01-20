@@ -41,6 +41,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-654683563.jpeg?fit=1906%2C953&strip=all
         width: 1906
         height: 953
+  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
+    excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
+    publishedDateTime: 2020-01-19T05:21:00Z
+    sourceUrl: https://www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+    ampUrl: https://www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    cdnAmpUrl: https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 56
+    images:
+      - url: https://www.courant.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+        width: 1200
+        height: 800
 
 secured: "4H+3Il5zgVi8R0BQOECS3kyQ+ihGFHViJjxHKHC8NSLmRSc1y7+cIx3aqO3SX8N1ePhdEJgDMSJaD4VqU6JW6dopAuxNLRNE0QTynlfalYRUaf2Qy51Wa1hrqInPboOMxRChuVHd8pnN6iXUVHUw6CVZoniZc4ufEurVOBgIFOkMESz7oVGLc5P4tnfeRkRQoNDYnz3ctHKYEgOGAbAA5n/w7CoBI7CPTh85AvhhxE01QH00eW6M+3Y7lOWWzmccg4Qt5Gt9+a2NX0PKIvCprkRDi+vC+axZq/Zp0bjS67e6NclBpp7YrZpyz+hHnmD8cHxyAV+ohM90PnAC9LcF8HxgJ9xRdEdHVYBeY9UwrAfr8tPTGol+P++4Ah9fNenlEuRLQs2CxK6mu8l156FQ58WPp74Zv5NkmA7dWwvAYL3+9oRAXEvk+w2fDURJ/9yyvdjiQoP75unWB0ZSwiKPDQ==;kAvkNkjnIoqKWoz9xJfumQ=="
 ---

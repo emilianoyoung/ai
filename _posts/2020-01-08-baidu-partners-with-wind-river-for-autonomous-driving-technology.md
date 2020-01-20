@@ -35,21 +35,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg
         width: 1200
         height: 729
-  - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
-    excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
-    publishedDateTime: 2020-01-13T21:25:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/electric-cars-battery-range-self-driving-cars-safety/
-    ampUrl: https://www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
-    images:
-      - url: https://cnet2.cbsistatic.com/img/amQzI-xYD7xjc4Nq8Frs_M6vOd0=/2018/10/15/0d11de19-7f2c-4b3a-b33c-ceddafa9d20b/hyundai-kona-electric-ogi.jpg
-        width: 1200
-        height: 630
   - title: "VW's all-electric ID Buzz van is a platform for self-driving efforts - Electrek"
     excerpt: "The ID Buzz still seems almost too cool (and far away) to be true. But at CES 2020, the new chief of VW self-driving told Electrek that the Buzz is also the basis of VW’s first self-driving vehicles for limited commercial use by 2022. That’s a good sign that the ultimate electric hipster van is on track. “The ID Buzz will be our first L4 ..."
     publishedDateTime: 2020-01-12T16:28:00Z

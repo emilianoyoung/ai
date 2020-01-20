@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,21 @@ related:
     quality: 56
     images:
       - url: https://www.chicagotribune.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+        width: 1200
+        height: 800
+  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
+    excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
+    publishedDateTime: 2020-01-19T05:21:00Z
+    sourceUrl: https://www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+    ampUrl: https://www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    cdnAmpUrl: https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 56
+    images:
+      - url: https://www.courant.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
         width: 1200
         height: 800
 

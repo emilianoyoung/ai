@@ -161,21 +161,6 @@ related:
       - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
         width: 1024
         height: 512
-  - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
-    excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
-    publishedDateTime: 2020-01-20T12:00:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 67
-    images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/20/10/14896920-0-image-a-3_1579514657623.jpg
-        width: 636
-        height: 382
   - title: "Companies Seek Clarity Over Facial Recognition as European Regulators Increase Scrutiny"
     excerpt: "European Union privacy regulators are scrutinizing how companies use facial recognition technology, which early adopters already have deployed in a number of situations such as a retail shop and a casino."
     publishedDateTime: 2020-01-15T15:30:00Z

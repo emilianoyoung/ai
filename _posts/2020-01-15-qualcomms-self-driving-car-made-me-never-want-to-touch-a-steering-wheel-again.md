@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020/?amp
 type: article
 quality: 85
-heat: 145
+heat: 115
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Qualcomm’s self-driving car made me never want to touch a steering wheel again"
 
 related:
-  - title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
-    excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
-    publishedDateTime: 2020-01-16T23:47:00Z
-    sourceUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024
-    ampUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
-    cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
-        width: 800
-        height: 450
   - title: "I Took a Test Ride in Qualcomm’s Experimental Self-Driving Car on a Busy Freeway"
     excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test \"ride\" in their experimental vehicle! Qualcomm is a San Diego based company best known for its smartphone chips. Now, they want want to be the brains behind self driving cars, too. Recently I took a ride in their experimental prototype car ..."
     publishedDateTime: 2020-01-20T13:30:00Z
@@ -73,30 +58,6 @@ related:
       - url: https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/qualcomm2.jpg?itok=5ZO9Ahao
         width: 470
         height: 246
-  - title: "How to Invest in Self-Driving Car Stocks"
-    excerpt: "Amazingly, breakthroughs in related technology such as artificial intelligence and the internet of things make autonomous vehicles a reality. Or at least, they will be much more of a reality in very short order. Let’s break down further what, exactly, goes into driverless car technology. The task of autonomous driving is accomplished with a ..."
-    publishedDateTime: 2020-01-17T11:14:00Z
-    sourceUrl: https://investmentu.com/self-driving-car-stocks/
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
-        width: 730
-        height: 467
-  - title: "VW: Fully self-driving cars may never happen"
-    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
-    publishedDateTime: 2020-01-20T00:04:00Z
-    sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-    ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 24
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence startup Argo for US$1bil (RM4.07bil) to bolster its autonomous driving work. GM acquired Sidecar ..."
     publishedDateTime: 2020-01-13T00:35:00Z

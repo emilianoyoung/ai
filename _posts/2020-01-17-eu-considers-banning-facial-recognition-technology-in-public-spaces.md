@@ -148,21 +148,6 @@ related:
       - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
         width: 1024
         height: 512
-  - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
-    excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
-    publishedDateTime: 2020-01-20T12:00:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 67
-    images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/20/10/14896920-0-image-a-3_1579514657623.jpg
-        width: 636
-        height: 382
   - title: "The next big privacy scare is a face recognition tool you’ve never heard of"
     excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
     publishedDateTime: 2020-01-20T06:22:00Z
