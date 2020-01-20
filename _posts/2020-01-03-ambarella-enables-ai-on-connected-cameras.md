@@ -25,18 +25,20 @@ images:
 
 related:
   - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-    excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on ..."
-    publishedDateTime: 2020-01-02T10:04:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
+    excerpt: "LAS VEGAS — Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once ..."
+    publishedDateTime: 2020-01-02T10:01:00Z
+    sourceUrl: https://ottawacitizen.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4
+    ampUrl: https://ottawacitizen.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
+    cdnAmpUrl: https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 57
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://financialpostcom.files.wordpress.com/2020/01/bw20200102005052_ambarella_and_aws_ces_2020.jpeg
+        width: 1000
+        height: 750
 
 secured: "qmKlygiUMr/5z896cU/z4QDzlZP0sowLGsxnIHVlB7O0p7aPA7hH95ColSXiK7rZ6+FK5mwFafKRy04NwzQuaVC5iRhIL2xU0oQFHWM7R52feAzWYnqKH66agJoLqEeCjkyu9z4+XTgmks8gfE14TlB6uGxGqBBSYuCPrlXgwGpvSr3HdXWdEf7Sak2rx8SAYnSGdZuQQs6jslOwtbbMwqoylMM7iZ/OqmZsZjKnPtoxweDoB0+2rMQFGKe/XAu3VNQY4wtaRaUoNIu6P24rWLMR/H+JmExCtsTNIYEHLmQ=;9N4PIgZxG3pVhKcLCoRsRA=="
 ---

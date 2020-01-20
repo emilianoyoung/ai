@@ -8,8 +8,8 @@ ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
 cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
 type: article
 quality: 57
-heat: 69
-published: true
+heat: -1
+published: false
 
 provider:
   name: 9to5Google
@@ -25,22 +25,20 @@ images:
     title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
 
 related:
-  - title: "Why Google thinks we need to regulate AI"
-    excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
-    publishedDateTime: 2020-01-20T04:00:00Z
-    sourceUrl: https://www.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
-    ampUrl: https://amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
+  - title: "Sundar Pichai says AI should be regulated, asks governments to step up"
+    excerpt: "Alphabet and Google CEO Sundar Pichai wrote an op-ed in the Financial Times today outlining the need for regulating AI. Pichai highlighted that deepfakes and “repressive uses of facial ..."
+    publishedDateTime: 2020-01-20T09:04:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/20/sundar-pichai-says-ai-should-be-regulated-asks-governments-to-step-up/
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5fdb39ac-3923-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg
+        width: 796
+        height: 417
 
-secured: "nVPcXtA7X5cwYnH6QAWZQ08CdYPeKuO7mYikN9RF2tLcEi5XeQc1BPtrTwPZU13RkuCq2PxVRt0slc0rBEE1G/WJRVJpVEB0BGoNshBt5F5f22I5GCYdF6kxad2bdRnEjuGUOAQD/H+l77PTjaYtaRvtt3vnoYMpYawbEsekU20R8XDkOWZrWz7yap0ZvSAxRwct5ekcgK5DAfLSmkaoFN+yzA/DgYHL9ooEsMc+iGcnMaBAo9rSyrbrxdOIoAxq6nXgMymi1tuNC363WCsu/7lHWE9566q5kABVLjcR5UpfeHTAzFaVK11/NhPtvmmALpuIY3gj5ywFl+FcMkPZdll03isdK4KsAP/NDOXgMbaJ5NmEQTsyhV9ynv4/lKoehmgG+l1tAv6gTZZbF2BSa7yRF+JYO6H7PhAZygN+JkovNWoHbJuyD4QFOZvZX79X0mYgTESOfbp9+W9b0i69HA==;7bLKu6NOu5C4tSlayVWrZw=="
+secured: "5XGmtSon8CAVpjqT9twy/BjakMw4Jjwd+PtRrAxjLMoxwXNdSRxwXJ7BB6ERptMTR9aGQBMqREyf7ku30tRYukCcA0K+6fuWZdNaOloKfAie/3BJwEgSHI7M1qqJrWh8mvC2g9gAK8Z2rNTYqm4HwLunWnXws1hsbVG4zISp784d4IBRfyOcfum40AFEAHSQvFFfepHh4swEYwFnaH6A5INFzOIF4uXhaAsk557bKy1AaRhXfqUj0xHov6uCVvx6116+SKNSlHxFc6gjXpbJrUJCW8ZIblJsv2QU31U6pgQW7VfBM/3yx4nfnJOCRzaKDGOUI3YM3+Lsu7f8aWQkMDo5aJrQrmKqQuOu+8e3IFtrnk4FjkxVxDcAowPF6jjMIHG9bsqr0fKz2UUZhPtLSQCvrq6pAbfDd1v8yHKTzvI2seT7PEV4JNIHVQ4bjsH9yCuUmXsZlYNAMyAPILClFA==;sPvBdHC8hAcTV//rBXOuiQ=="
 ---
 

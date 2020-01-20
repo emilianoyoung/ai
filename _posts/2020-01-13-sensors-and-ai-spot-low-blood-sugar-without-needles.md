@@ -69,17 +69,19 @@ related:
       - url: https://images.ctfassets.net/yixw23k2v6vo/6HWebXmG36CblFmUEiDiQi/09577f3ff78807e49ae9e3212fed07d7/iStock-1175717080.jpg
         width: 1254
         height: 836
-  - title: "AI can detect low glucose levels via ECG without fingerprick test"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr. Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-13T14:58:00Z
-    sourceUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.html
-    ampUrl: https://medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-glucose-ecg-fingerprick.amp
+  - title: "AI can detect low-glucose levels via ECG without fingerprick test"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycaemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalised therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-13T16:04:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uow-acd011320.php
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/221391_web.jpg
+        width: 720
+        height: 302
   - title: "AI can detect blood sugar problems without fingerpick test"
     excerpt: "In a new study, researchers have developed a new technique using Artificial Intelligence (AI ... doctors s can adapt the therapy to each patient. More clinical research is required to confirm ..."
     publishedDateTime: 2020-01-14T11:20:00Z

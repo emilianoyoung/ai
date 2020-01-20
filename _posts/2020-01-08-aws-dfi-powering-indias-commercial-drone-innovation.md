@@ -39,19 +39,6 @@ related:
       - url: https://www.grandviewresearch.com/static/img/research/us-artificial-intelligence-in-healthcare-market.png
         width: 600
         height: 300
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 07, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence in Education market share."
-    publishedDateTime: 2020-01-07T05:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
     excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent."
     publishedDateTime: 2020-01-08T12:11:00Z

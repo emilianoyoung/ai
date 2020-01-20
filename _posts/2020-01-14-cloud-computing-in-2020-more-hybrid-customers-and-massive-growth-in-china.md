@@ -45,6 +45,17 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg
         width: 796
         height: 450
+  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
+    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
+    publishedDateTime: 2020-01-20T09:12:00Z
+    sourceUrl: https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    ampUrl: https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 32
   - title: "The Most In-Demand Hard and Soft Skills of 2020"
     excerpt: "Soft skills are more about behavior and thinking, personal traits and cognitive skills. They’re typically more difficult to measure ... Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use. So, recruiters should start becoming familiar with ..."
     publishedDateTime: 2020-01-12T18:44:00Z

@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
       - url: https://tr2.cbsistatic.com/hub/i/r/2019/09/25/ad9f6a19-686a-4383-b9e0-4d5cca38d599/resize/1200x/ee305c191ab3d54326490b6d17feb414/istock-512454930industrycloud4.jpg
         width: 1200
         height: 799
+  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
+    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
+    publishedDateTime: 2020-01-20T09:12:00Z
+    sourceUrl: https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    ampUrl: https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 32
   - title: "The Most In-Demand Hard and Soft Skills of 2020"
     excerpt: "Soft skills are more about behavior and thinking, personal traits and cognitive skills. They’re typically more difficult to measure ... Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use. So, recruiters should start becoming familiar with ..."
     publishedDateTime: 2020-01-12T18:44:00Z

@@ -58,6 +58,17 @@ related:
       - url: https://tr2.cbsistatic.com/hub/i/r/2019/09/25/ad9f6a19-686a-4383-b9e0-4d5cca38d599/resize/1200x/ee305c191ab3d54326490b6d17feb414/istock-512454930industrycloud4.jpg
         width: 1200
         height: 799
+  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
+    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
+    publishedDateTime: 2020-01-20T09:12:00Z
+    sourceUrl: https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    ampUrl: https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 32
 
 secured: "Tjdb9fR16k5meSi5HZvf4ZNd3s8vwlLwcaZxk0Rp+ba4lntjn8p5hKC99Mvce7kJ3MQfFQcG+5S+XMdJ8yZO3XQmkKCq+rToxtvX5VWY2BqlZfG28lUuud1965JTlP17gEEIv5E9Suk2Pem+aM73Gw5UhDulgoAbX2GQ4o59bFLliT8rRUkvJedITOm14yAWi0Vu4zng+OP0Pj/3vKgNb7f6xtM/kZS4DBtWSMC+P2Z33ZjQ0jeZnWfEpfZgYraLXJGqwy5H4qEVc0BJqbL6HYjVnT+5gr73Fq6gjF7KuMlCLCvvKqlnfdepe8XTICWzsowOQ1ziAXuadX0VuIo6YSwRjHg+wOtaA8Tp2ptMD21j1ytQx+jgSR74Zb7aWDElgHMYDbQSHrdG/eb/Ve6dYtpTCCOxFa2Hut0O7z47xh+Vc8WKqVnFTfkCcy47reQOELFaaVqW4mmb1MnGkKgqww==;tKlrcqog8iweY6m7o/lMmQ=="
 ---
