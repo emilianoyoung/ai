@@ -26,21 +26,6 @@ images:
     title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
 
 related:
-  - title: "Google owner calls for 'proportionate approach' to AI regulation"
-    excerpt: "Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a “proportionate approach” when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
-    publishedDateTime: 2020-01-20T12:05:00Z
-    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-        width: 863
-        height: 545
   - title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
     excerpt: "Silicon Valley executives and lobbyists like to say they embrace regulation. Now they’re launching a frenzy of lobbying on what they want that regulation to be—and Europe is set to be one of the first battlegrounds."
     publishedDateTime: 2020-01-20T12:31:00Z
@@ -56,21 +41,21 @@ related:
       - url: https://images.wsj.net/im-145573/social
         width: 1280
         height: 640
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI ... investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a ..."
-    publishedDateTime: 2020-01-20T10:53:00Z
-    sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
-    ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+  - title: "Why Google thinks we need to regulate AI"
+    excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
+    publishedDateTime: 2020-01-20T04:00:00Z
+    sourceUrl: https://www.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
+    ampUrl: https://amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
     type: article
     provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 59
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
-        width: 1280
-        height: 720
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5fdb39ac-3923-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
 
 secured: "jGz4OabObvpz/wap5z7PTaBXeA7zBTDphYYlYYvnFbjaL/bRbLnmf5lgbKgLJ1Hv+WKiEjWfui2rK4JkJb7NapNfva9r8swDDkv+0u5MusXKs0B55i3igRmqQ4XQyG96DBfyED0VjSnl6yhe68dKx2Wrr6QEQrGu/RRWBGxSDB6MT3ggTfKc6zjz7zrJqnSyBlRzwGGyG7bEgIYinAPQlW72S2tlBJSItklWMGzegOLa6WbCDJOICEwnZwUY2RnBkXijYjs5jk/c0SNo2nmY+53KD3STpR7DVbLGRqEaJF1HlMS5ng2fbskniWNp0G5jku3QvAHh39dS8mbv34UeMqrWaEJM4S6SzlIFj2K5OnNZWfH7HnXvu68x5MOe3+vwq+D7K7iRYTkpjsDEwk1CF706d2n36emiwf6lDaRkyhvhd4ixuMm4SSIpVOA/e6KmmUgV6wBrfmjP2cs1BA0h2w==;o3kj3C86oc4haMITfqsZxA=="
 ---

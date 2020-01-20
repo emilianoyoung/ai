@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T08:53:00Z
 sourceUrl: https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-strength-major-types-key-applications-and-opportunities-forecast-till-2026-2020-01-20
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -28,17 +28,19 @@ images:
     title: "Speech and Voice Recognition Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
 
 related:
-  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
-    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
-    publishedDateTime: 2020-01-14T11:28:00Z
-    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
-    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
+    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
+    publishedDateTime: 2020-01-13T10:53:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 7
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 36
+    images:
+      - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png
+        width: 620
+        height: 500
 
 secured: "zridFdnM2xYxK5zIs1LYNuUTY0b1Dh/RQkdhmFEwn/QDHl45VS0muxNJ8+SQtRsR2ruA9Ijset7riFYsgH0g8u6RdAMvshKaq5nqHaGf9gU9WZyaU3qJzX4dwHnMkxDQT7W9/n7EBWeNCs+AT6rKplss0xmXUtCLEgqQy1+ChiKt4v6GyZXXQ275m+xjRKYz0lrvvF6eplXOr50Eg1aMZjmM02q+BFa+GwckaPp9AViJtu0L6PSZ4avRnnNvKrgxe21bg73Ra4MYh+hH9sEsOxpb9w43yQtqwjS+rs2GNWU=;L9TD8mtScImk/h69/4oHhw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://amp.businessinsider.com/police-robots-security-malfunctioning-fa
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/police-robots-security-malfunctioning-fails-knightscope-2020-1
 type: article
 quality: 64
-heat: 64
+heat: 65
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 563
     title: "Police robots keep malfunctioning, with mishaps ranging from running over a toddler's foot to ignoring people in distress"
 
-secured: "OEJkSA7kIQbD6Dg97NbKxE+3RlT2p6I/No2rDtYYhginTTPu4xQMQk3qW+TckalQSfcl9w8Hr5fVm7wxLhmI/MfqAmsxOuGwmYhcV/BL/gCyVuJu/oxrTM/dgP7grHF15KxF8b74xuXD2/ajoyx9ZlNr+YP3dstglEU2UHl+B7AY4mdflgafw5VAsJofrhSe4g/mUoxJqePuA5gHDPFd0IgP2g7SYAWc6DjzaP5FiijrJLp8fLJ7qWKTKgSAJk1WvoYJewU+D4jdLHQFpIATHKkuRkUQdvvo9KFhxwrlMYQi5z5I3aRFp4FmidDvQkB686nC/KqUvwqQ4hOWOp/tYVv1Q2COSakDKJaMI2XtBxZYlQvX7dWAChA3LvjoBT7HADaxfU4mFGE5ahc50jG3q4eAsnk6cXmcOBAlET2Ipja1xyyTgV5GPsj2dBgXW2Xb74inxf2YzCswZk/mZNwD/g==;WVezytfIB006FGzmQzJdOA=="
+secured: "quL2evskSectuEhDABC7dbyfFDNd84QqQYbxIH1hFPosytbGLPkKSSxutzrSnOp2aFBKH2kofEHxxiPlVbUG4GUzN6REMZ7xOE35DwvxrSsmDw7PJOvDbR02FGbgHWqjKwvZrVxEeT9hDaHAJgqUxjBAFoTtB0pzAh91apteYpEJkpfW4fkCsG9FSBpBQpWnNsgMBQxYPVdbSJDRRsKNT2Chjx7zhBsmlf8mAy6Gpg6b3L/Yp7F4hnDaVfRpFfdkYEVtctnTipgXbIENcFnz5MuQCfljaueUSUuqkxQbxRUgWGnJrf/cgep48Tyd8L96pguPxbkJQ7NKMW7Sqj5JQs30RJ4GMdPcq4AU/o/fjrP88zBA3/ljjIfYgQ7dmEYkj/0XS8g8AkbypGyzyLD2fG7ezTPgyK5jAbUxRAK4mBSESOe3cCqSx5ZYNetfoUEj+BNWlWYcCEHa8a9Ywvpz3Q==;xvJWmmI+ZkrQG4Vu053BpA=="
 ---
 

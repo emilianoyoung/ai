@@ -612,6 +612,19 @@ related:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/17/954dfb26-3827-11ea-9933-e21be988cd59_image_hires_075545.JPG?itok=nD34jsvg&v=1579218950
         width: 1200
         height: 630
+  - title: "Facial recognition surveillance is authoritarian and has no place in our society"
+    excerpt: "We shouldn’t have to change how we live our lives to protect ourselves from unwarranted surveillance (Photo: Steffi Loos/Getty) The fight to ban the use of facial recognition in public places is gaining momentum. Last week, it emerged the EU is considering halting the use of this authoritarian technology to allow for a proper assessment of ..."
+    publishedDateTime: 2020-01-20T16:47:00Z
+    sourceUrl: https://inews.co.uk/opinion/facial-recognition-surveillance-is-authoritarian-and-has-no-place-in-our-society-1370329
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 34
+    images:
+      - url: https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/01/GettyImages-826000302-1.jpg
+        width: 2353
+        height: 1499
   - title: "Springfield City Council moves to ban facial recognition; says systems are unproven, inaccurate"
     excerpt: "Springfield police don’t use facial recognition programs. But tech companies including Amazon with its Rekognition system, are pitching the systems to police agencies. Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations ..."
     publishedDateTime: 2020-01-14T01:27:00Z

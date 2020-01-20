@@ -23,6 +23,21 @@ images:
     height: 443
     title: "Determining What Really Needs To Be Secured In A Chip"
 
+related:
+  - title: "Training in cybersecurity a ‘hot topic’ in Australia"
+    excerpt: "We’re currently seeing significant growth in cloud related training, especially Microsoft Azure and AWS. Cyber Security is also a hot topic at the moment ... We have software testing, courses that focus on securing the cloud, irrespective of vendor. Artificial Intelligence and Machine Learning coming soon, as well as recently introduced ..."
+    publishedDateTime: 2020-01-20T15:14:00Z
+    sourceUrl: https://itwire.com/security/training-in-cybersecurity-a-‘hot-topic’-in-australia.html
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: https://itwire.com/media/k2/items/cache/a7e505a9a64889d099be0ccb44f806fe_M.jpg
+        width: 375
+        height: 375
+
 secured: "3SKz7fM4pFp8QRZdoqCXawWvZeQXmE1QSWtRbMsnR6+w29STL5vlEAq9eAUS95tJcJcF1EwPmgbMsyXbtpuh4vN5xdgTIvzYl6tYnXuAJFBLsD5DK2u4iLXV2WXAsVN1jNtj8/ef7iX7ZUtYfd8jdtBbNXhxglqbEw+A1Bc76QQ4TV2JWmJwy6BDvQpnCdP1XaAezISoun/NKXI/u620iCRP0f1h49OQahvFzfye9IBrTprr9NzzdSXgQJHxGM/Y6i6i8IzlIoTnMfal357ItVMvk1anOYWp+s/+z44rv8rKRlwOW+SwtE5twM5zlvcg81hGytqBjKQvJ3pEVAWeQrENz8NG5yoVNs8C9Joby/HUD0/bprm3+0MRAkt7Oa93z4Xd2PHJoLcvUe2yvkUVXEhlk8kCjr7iV6yiF8/l8q0+oxnt+vbhDdEOaKViR7oxR3pqp/ptltnIDNuLYTX1OA==;Q7uxkHjiJ6j+sLrXE+B5XQ=="
 ---
 

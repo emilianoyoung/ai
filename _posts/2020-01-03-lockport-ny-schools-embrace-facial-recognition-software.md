@@ -8,7 +8,7 @@ ampUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-s
 cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://www.dailydot.com/wp-content/uploads/2020/01/Facial-Recognition-Lockport-School-District-1024x512.jpg
         width: 1024
         height: 512
-  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
-    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
-    publishedDateTime: 2020-01-05T23:01:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
-        width: 877
-        height: 432
 
 secured: "xCUba623N7M7eAK7PY4+IxVw/e7zMbDc6xg/pPb2ns0nO0fXJgIoEmcBhAn7TqORGcPyVWSZsvNzIJ8uJWEhnBA8rFvobxaUBm4iOOGJM9RAQka05BXaVbbjM0yDz3c52J5d04lQHhH55+BXJdI19VUu4wigeI5wrV4KAU0o/kXOdTeS+OZ2IUaCcuYctmOeMGA5b2AGB5h+jzj2S4PXn62RHGZLbYPR2t0852jpySJzVvfle+xtPNtKlXvWh1nMAncoPtt+k9jKbALWVdFRpeagr1DI3y8U3r69dJOANqQ=;9z83XyBzlgRje25mzkcdhQ=="
 ---

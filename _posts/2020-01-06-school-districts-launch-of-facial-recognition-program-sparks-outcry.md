@@ -41,19 +41,6 @@ related:
       - url: https://media2.govtech.com/images/massachusetts-capitol.jpg
         width: 770
         height: 513
-  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
-    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
-    publishedDateTime: 2020-01-05T23:01:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
-        width: 877
-        height: 432
 
 secured: "1koug6rH5F9xf2fXbH1aWRGQfGi/ZhSA9pfy+WFiIM435Vzxo4O5F7/peqXrUONsu7DIPVpH+zLiHZyJca9tp2b8o+N4Dl/984NymwCjpDlh3g1q/5471ak8/3T8bn9KCBfL4fhkqVe4NtE0iI8R+h/qfgZTDWh7VEVbVV0HxDuaPyDN2coevibZv+ZwNkyOK0VaVqBZY3iqg0YKJ3kxGW0BhN6oCOQkroNslJ63J3aFghLGuCFfEf2HPr2RhcH5LDiiYDL6+um8EdrOgdRs28X2/0ddFL0UBrntG7ddXw0pmiEZr05e/z2n9qRn+MlBUK7rXXnhL8mzE0Jg1PKxSPhWVA/wBezhGPSxPOW+IwoawKmvTEKNONNB/RPGwxx4UUYGeRSFj1HuWj9Qf8mgxWmMYnZuoISvEPv1rW9TjlKwfZEkGM0mnNt/57Ak19eXF8Dz/dMgVww0GoekT/fEMw==;Dyn+5HxrOUkvYWPKSFeoPA=="
 ---

@@ -25,6 +25,6 @@ images:
     height: 630
     title: "The most talked about moment from the SAG Awards? Brad Pitt and Jennifer Aniston meeting face-to-face"
 
-secured: "t0iGpVtOmQy/hvV1M4wK+QzJGhXtba+vDOWNwcSjvGmldQcuJDpWWSzY5L/evANUO0b/d7y2H4Urim4T+zTC5pcT40E0i9UeTN7SxLsF3zFPnwiaFvsZetWBMSKcvhT65+LGlhJ1OBkCVq3xU6Riq5i9YTgAAMuKZTG+Q48X9Ulwpdh4UQrcLUdLXe7P36TU8fu7Ss/iv9yqQrwzbh4OsvEYuJjBFIqjX8wW+sVCVk1sokGGkVRug7s+RtsuflvIPMFgTs04PbLVJRHePOMD78XfdAt5Nqh+6FESsgtlNyk=;gvKUEBuBTUFELLUMtxtzGw=="
+secured: "AIBVFJdE2li2dkc1ZH/0sb0are+ktOoNd8pYuNDUieeBUIbZN47dgFR40z4PX+UNp15YUFTbME9hchMgewf9qkRoNp1J1htNim9OeQ8fPpP7+Xwc4TXxWtbeiZ8aO6waQnzzhm9FrTW76FPi4CGWaje26NX9Si4ASQx9UnMTT4W73DI7MfmS19qVVySMIHX1zkN5Mc4dvCKavFLG+XldALnStNq0R+0FDQHlMMwmqf0Ikgnc9EhlRfG1ZTA21e09BfzynV+kztDmODBllGmaOqkooKV219qJNwv7c2SovmVxIOFF9ghDaKUwNOdPqIU3SBsC/z/4uRjDPU3oq5mvFw/RthfY89AdiborlTVnDUrp+uw/54OO+PwgpAHSbsm0evNJxBcTafoTvElE3L9RkaMt1faAzIdGRSmv6PA3H1a8ifo6To9kLw/9Yow18Eetc294xN7jvqP4oiObdl/laA==;0oUPRVLznlRrYrXj6lPAVg=="
 ---
 

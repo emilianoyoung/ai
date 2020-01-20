@@ -24,6 +24,19 @@ images:
     title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
 
 related:
+  - title: "Speech recognition and voice commands for your site"
+    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search and speech recognition technology cleverly, but is it ..."
+    publishedDateTime: 2020-01-04T10:34:00Z
+    sourceUrl: https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg
+        width: 1200
+        height: 564
   - title: "Know Which Speech Recognition Market Segments May Suffer as Consumer Confidence Takes a Hit"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Speech Recognition Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Speech Recognition Market and factors such as driver,"
     publishedDateTime: 2020-01-11T09:48:00Z
@@ -33,32 +46,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
-    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
-    publishedDateTime: 2020-01-18T04:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period,2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-07T05:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-rise-at-a-cagr-of-597-forecast-till-2026-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -76,19 +63,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "what3words and Speechmatics launch speech recognition and post-processing API"
-    excerpt: "Location tech firm what3words has released an end-to-end speech recognition and post-processing API, in conjunction with speech recognistion and machine learning firm, Speechmatics. The what3words Voice API allows a user to say three words into any application or service, to have it return the what3words address and corresponding GPS ..."
-    publishedDateTime: 2020-01-13T10:53:00Z
-    sourceUrl: https://mobilemarketingmagazine.com/what3words-and-speechmatics-launch-speech-recognition-and-post-processing-api
+  - title: "iFLyTek develops voice recognition for law enforcement; moves forward with AI innovation despite U.S. ban"
+    excerpt: "Chinese startup iFlyTek boasts it has created for law enforcement AI technology that leverages voice biometrics to identify a person, writes Nikkei Asian Review. In upcoming years, iFlyTek aims to use it in fighting phone scams after rolling out the voiceprint recognition system across the country. iFlyTek uses AI to analyze big data to improve ..."
+    publishedDateTime: 2020-01-07T18:08:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/iflytek-develops-voice-recognition-for-law-enforcement-moves-forward-with-ai-innovation-despite-u-s-ban
     type: article
     provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 36
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
     images:
-      - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/What3words.png
-        width: 620
-        height: 500
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
+        width: 900
+        height: 499
   - title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
     excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
     publishedDateTime: 2020-01-05T23:14:00Z
@@ -102,6 +89,28 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
         width: 877
         height: 432
+  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
+    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
+    publishedDateTime: 2020-01-05T23:01:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
+        width: 877
+        height: 432
+  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
+    excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
+    publishedDateTime: 2020-01-06T14:04:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 6
 
 secured: "pT9B3FrbwkDIM+Hi5vYoGt6IzkaoyvSHUjU5no6A9gzYFjbgql6RyA8nzBazYEl3M+/C0icPVcMZzSPydEOSpqVvoFQDjZ3vzUWLN9VOJfMMMRUSNJrQQZmH+gSwvVRdbrr7gSL7nd7CyGGGeDFwgsTFnm7vBThZmrskgcU0KVS6+/cMfN/bP7ZJlyGBwg+aDIL6Km9+x4ESha73xe7UVqYd7YVGyYza1b0KryfqRqCHNql5KNWkeccvXWkNB5qMGGXam0PSp5T3YL85roNhMAAy0IgyYjUsz+3Vv2G4l/0=;ARAsQpVWVc15/JPGNjr79A=="
 ---

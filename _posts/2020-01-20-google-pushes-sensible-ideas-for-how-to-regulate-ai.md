@@ -8,8 +8,8 @@ ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Wall Street Journal
@@ -29,21 +29,6 @@ images:
     title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
 
 related:
-  - title: "Google owner calls for 'proportionate approach' to AI regulation"
-    excerpt: "Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a “proportionate approach” when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
-    publishedDateTime: 2020-01-20T12:05:00Z
-    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-        width: 863
-        height: 545
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -59,21 +44,21 @@ related:
       - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
         width: 1200
         height: 628
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI ... investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a ..."
-    publishedDateTime: 2020-01-20T10:53:00Z
-    sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
-    ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+  - title: "Why Google thinks we need to regulate AI"
+    excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
+    publishedDateTime: 2020-01-20T04:00:00Z
+    sourceUrl: https://www.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
+    ampUrl: https://amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
     type: article
     provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 59
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
-        width: 1280
-        height: 720
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5fdb39ac-3923-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
 
 secured: "L1/pAmIZoi3pwL4FdwuNT9XTNeIFdS+JWZ1dAkYIZrIH+wR6wbw6DzyLGXAmq3fiT1MgIjzKXiJdhJGm1+Fdm8VrMEBC4w1o8H/cxudSc1q8M6B0siiCbXFYWSTnfH7sUqGj8SfzO4AcTHWQdP9Xg5E1/svHVYgEAjv1g2MULVMZwXOS5mcdS/KZDDFAVPzMtR82GJqZ0GrCj0fm46qzRCs7vztAtaNvBIuEq5djAMUUoIzYMRExd80Pakx+VAsJEqk4yHhgF3/roj5U3gFKzi06eCz2V+Brf1yWvpNL33Y=;7m+CkfkAnPE3EWdE5SP4lg=="
 ---
