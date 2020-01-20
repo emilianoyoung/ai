@@ -1,56 +1,28 @@
 ---
 category: news
 title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial neural network was completely neglected in the early stage of artificial intelligence development, then gradually recognized and became a large-scale ..."
-publishedDateTime: 2020-01-09T19:45:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/x5wn4g"
+publishedDateTime: 2020-01-09T20:50:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-global-50-billion-neural-network-software-market-2020-/2020/01/09/9079369.htm
 type: article
-quality: 64
-heat: 84
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 07, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence in Education market share."
-    publishedDateTime: 2020-01-07T05:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
-    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
-    publishedDateTime: 2020-01-10T20:05:00Z
-    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 37
-    images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
 
-secured: "eQfq37G++S7fksHs3gJ0oVQwLi74x60108pzpmyyQP4mLYcy8ShGvOpUe9niUULoQ7CiTxSS5TJfa9pnF2/rB7z36FPoU164mfPoY4xQUs6HvcH6JFkbvDjVfpMTwOMQLt8whb4Hf6Tvnmf6jePUQMTg1uF19sVSUfNTvonfN73UMA2fP8cvtKLpR9GVsx7zrHibt5Gn1p/MykgzuTWeKob1OoO9vWAk+uB7L8gOZB6tYraGnI54PZjYgy3a/mHeLY1tU1kkESWQTT572GJJZ7p0XPUDb2BWndbC6svrVJ0=;DKCkKnBgkDrkEYqJv+on4g=="
+secured: "A+FdN5JFpFzZ/x00Eg15m2ip3x3k+28lYfBbRLtJ51NJ0TbaXtAonC5voUx95FIFg2OzNjlUfnqfX6PQ4ZymuHQU7haZ2ak9UWlGZENvjNNiXkV0xfXWgbDbtZdxqrtQ5n3hGP8E0VNoFDmT9FqXesqPtDK14W6WxHcUtjjUkzwxRX3GsEyEVBn8/b7zwZMWFaErTP/+AP1qAYR9LNiXIyNn6vN4pskM7x14FNmp6h4X9QyzDA2owLyFk4f3nQow26JENkkfYhFaDTMFko5Lc9XrzIOSOBxErvR45y7/9nQ=;IfIgJatv8KqcOPrLGJCmDA=="
 ---
 

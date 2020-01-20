@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T00:33:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/2020/01/15/9082022.htm
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -21,32 +21,6 @@ images:
     width: 252
     height: 335
     title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
-
-related:
-  - title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
-    excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
-    publishedDateTime: 2020-01-15T19:00:00Z
-    sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 53
-    images:
-      - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
-        width: 1127
-        height: 1057
-  - title: "Is Artificial Intelligence the key to unlock the limitless possibilities in Healthcare?"
-    excerpt: "Artificial Intelligence and Machine Learning are taking the major scoop of technological development and leading the digital transformation era. While entering the new decade with digital transformation, industries like Manufacturing, Banking, Automotive and Healthcare etc. are transformed in a manner that, there are certain tasks on which ..."
-    publishedDateTime: 2020-01-17T08:20:00Z
-    sourceUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/
-    ampUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
-    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 46
 
 secured: "hH7z/wAlyIvqOQ67Gk9TODsbU3jylwWY+Kn5MUM5V5iuCVMTnoykE1sBVtwbkMhORVRJ8s9kGJRV9g0LC3zMXwi/MBHWnhJsiXQZH8UqmxMwj3CWaOqkYsZUzDktj+Zd+Ru06IJecLJB48iy5jsonDRwpFSLLfeiNiBi4d5krimvVw0282fgchykqzx1VsTewEZalQc/Hbhd4ncNSTg3oimcpfCwVXshQVLI51FfbNuAsdvI2gtAnF8Fzv0oh0zyCjqkiFur90nWelmLw7vMUnUntS73Wi0yndy8cJzbTVg=;bHJK/H8MREZryP8G3fx4tA=="
 ---

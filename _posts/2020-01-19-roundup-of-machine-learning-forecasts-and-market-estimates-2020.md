@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/
 type: article
 quality: 91
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
 
 related:
-  - title: "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries"
-    excerpt: "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S."
-    publishedDateTime: 2020-01-16T04:57:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period."
     excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-01-20T06:29:00Z
@@ -145,6 +132,6 @@ related:
       domain: openpr.com
     quality: 18
 
-secured: "QGtZML7Vx1mWZlp6Om6nb+hDjzry+pUr2ooMjPJGsgRMpfXYnau80LrRbMKzwCJheDnBdC4EzAKBTHfrWCDQcnIR7viOHAqeHDaoxFM16eU/fK4bE/0M7XHZb2hJfvFA1UIP+raA49phZ9jK90Lie01Di4OCwu1a9lid7jWSNiQyCLSWHvIhj9ts6Zq0cviEJQqudCFW+MxZnLLC9wiV/6X1/KeDgtLZgf0Sfkkym02f6orMfteW8J2TvFZ5aubICis4gRK5l9q071NfzAVXJLCeaBVtc/jUyO5wzXx/U1fcwhZqt+qQBftQmRa8KgconciCo6HHINxNOeO5k98AWpUWR5RD62RcmbV9dXktJgVrn+9//reDFvP+bht5vXZa+OBoeIctZG0zU1gkQVRFeyTH8/3OM7Mnw9xeu1/+NR2KKRSzbygNrIoJNyAwYt/txVj4kVCBsDWeAk9AFhqCEQ==;bot4anknuEVX4XX4FQbjoA=="
+secured: "0JQuw1AM6Od5Pec+WdxDyylzDNhSSja5lhacqKXJJBw4vm9D6s9Ubwq2hff9TjGtnuRN40clWQfjjrVatLOI03SeTgU68e2fu++0NrIjNjx3+FZ9LOnFeJCWJJjjo48tZ3JwHeGtBdPXCl8xMvTubInSWFFvRF5mq99gETrPqeHkS7exuULmoswTn9UD70YQNHQVzJDRrgq1GRNrVCqmUG3bHpKq9sCKK9TEu/gepqOYy87IcWFjzXUwq1a5Y//6XByGT4ux74ZogAbIxtHevsV3kWzHfnLjNiCXKbv0c2UEmlFC3Staa1cZvYxuf4wnM/kf13fugJt20RN2/DmLrqblsoRAz+hYkorz/sATF7CXhSsxtDmrVf1vltv2iqvdwwvXd4tF2fZfQGxkCO8pwTls+GWbO7JHxTXtT/ktsO2GxGXsM2FcQI5qFiOYYY9cH2WGCOa7QP3dV5vcH4uJ6Q==;UB8IfomIv0yOeqLuFSTUxg=="
 ---
 

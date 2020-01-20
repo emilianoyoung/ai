@@ -39,6 +39,19 @@ related:
       - url: https://www.cmswire.com/~/media/e66e4fbac85346988b8614552b01df68.jpg?mw=1024&hash=F9A672BDE93FDCF1491E09293D8024FD552E99A6
         width: 640
         height: 480
+  - title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
+    excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
+    publishedDateTime: 2020-01-13T22:12:00Z
+    sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 28
+    images:
+      - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1051617224.5e1c25379b3da.jpg
+        width: 960
+        height: 532
 
 secured: "VgbkEhfWXAOGhZ5Sx3cb2sm5ZLFhrMWEC2KHA/HOS+YMFqPCNNHtWzrftlol5W1fHUnH+y9p+oZSC7M9h6Kjmx3rxPBVxjBYFru+h34IHH63vVlRdYUBrl2p1lET399wXyKRhlDX4ux+/L+ISa6kNgwz+0S59WYfJWTTOhU6tMcXrsSVNhQYOuDcr8vHS3loSx8avWBLnqjwpi9yJ3ThJHXg76IwGYjJhM7xhWX1+8lUBqv1i46j4YSlgA0gyTxUcQiWRhEf/iKsyuSatHkyN925kias8WNRIrE/lQbHS9c=;PtHWbE33VxX/rytnHZI8yg=="
 ---

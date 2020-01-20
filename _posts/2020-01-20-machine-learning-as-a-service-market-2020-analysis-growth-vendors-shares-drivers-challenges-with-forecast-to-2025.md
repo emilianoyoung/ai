@@ -44,19 +44,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg
         width: 854
         height: 634
-  - title: "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries"
-    excerpt: "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S."
-    publishedDateTime: 2020-01-16T04:57:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period."
     excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-01-20T06:29:00Z

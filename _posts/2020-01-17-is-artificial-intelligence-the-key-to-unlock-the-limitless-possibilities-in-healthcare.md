@@ -8,7 +8,7 @@ ampUrl: https://www.ciol.com/artificial-intelligence-key-unlock-limitless-possib
 cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-key-unlock-limitless-possibilities-healthcare/amp/
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -20,32 +20,30 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Leveraging AI and Machine Learning to Advance Interoperability in Healthcare"
-    excerpt: "Without syntactic and semantic interoperability, that diagnosis runs the risk of getting lost in translation when shared digitally with multiple health providers ... Coupled with other unstructured data, Cerner uses the data to power machine learning models and algorithms that help with earlier detection of congestive heart failure."
-    publishedDateTime: 2020-01-15T19:00:00Z
-    sourceUrl: https://hitconsultant.net/2020/01/15/leveraging-ai-and-machine-learning-to-advance-interoperability-in-healthcare/
+  - title: "20 People to Know in Health Care: John Williamson"
+    excerpt: "What disruptive technologies have shaken up the industry in the past five years? Artificial intelligence (AI) and robotic process automation are making their way out of the research labs and into the software being used across the health care industry on a daily basis."
+    publishedDateTime: 2020-01-17T10:55:00Z
+    sourceUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-john-williamson.html
+    ampUrl: https://www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-john-williamson.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/louisville/news/2020/01/17/20-people-to-know-in-health-care-john-williamson.amp.html
     type: article
     provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 53
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
     images:
-      - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/01/Leveraging-AI-and-Machine-Learning-to-Advance-Interoperability-in-Healthcare.png
-        width: 1127
-        height: 1057
-  - title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
-    excerpt: "The Umbra plug-in system attaches infrastructure data streams to artificial intelligence / machine learning (AI/ML) programs for fully autonomous infrastructure automation and configuration management. Umbra guides users through the IT and security operations decisions too often made in the dark. After Umbra attaches to a data stream it ..."
-    publishedDateTime: 2020-01-16T00:33:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/15/9082022.htm
+      - url: https://media.bizj.us/view/img/10638447/john-williamson-headshot*600xx1878-1251-0-0.jpg
+        width: 600
+        height: 399
+  - title: "ML in the cloud enhances the financial data journey"
+    excerpt: "at Amazon Web Services about how cloud is helping FIs upgrade their approach to financial data using artificial intelligence (AI) and machine learning (ML). Laying the groundwork Data is at the centre of digital transformation. FIs use it to optimise their business operations, enhance customer experience, bring new products and services to ..."
+    publishedDateTime: 2020-01-13T15:35:00Z
+    sourceUrl: https://www.finextra.com/newsarticle/35051/ml-in-the-cloud-enhances-the-financial-data-journey
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "jWoLYhiI3g26glG7yRz+2nayFDHXnlMQHBenLvJsFjne/NpIkkl/4tuB6oqCq9q2Ip4C3eZKtv1gJv/2H4SX6Q/70tVvD3e9xofYjN7GJsH7yp6yHwIpUkIp0TzXJc9RRDN3h1/+odgCo7u2ja+PpW3IZr6aU0E0d1TqWe1PQ4YFnIormf+cLqYOVWMmZ981bhpoCuKf++KPbHMT2ZNBwGqYdjhy3/P3d3gcFnssuiYLBhq4Tp88HjuLo0WLAC+4EhutIWK42mQuLSrit6bxFDOOnauFYi/+Kjs6I6IeiHrYSa8BMQiCaSEEpQfjpPUGdvlFLTTGt1ayp9Vd48hR3tuzQBpmsxgq7ntXm2rkHvSnHtxSoY1eLrIZ4XDnpcSNHTbeIVWZ88xURvE9CsuH93IdVPRg5V4lg+s+ORm034U7pz18eet46/yuPLyUAVgNXPMsDAnRaNppGoRg+wFPGA==;gr4KIZVsy/wEQ6usxxHPiA=="
 ---

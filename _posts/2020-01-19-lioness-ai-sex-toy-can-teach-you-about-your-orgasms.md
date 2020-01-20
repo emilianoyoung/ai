@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-abou
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/amp/
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 713
     title: "Lioness AI sex toy can teach you about your orgasms"
 
-secured: "KJvsqy2gBZhWcaMbHUbwt/f3KrypBLuNQxhnxxlogvA8BdCE+s2HxJbZIwybd+2fe0Up4mDR9cVVjB0vMQ3YylR7dQbCDIhywLvj+wJ1wp5R3AQR43az8q/q4Rr6J2XxjlcXDjkJjDNZT8pjNQ9EqBhTBfdU6DwUiaPQ7FOZNqZ/RHE5TtfBVM3OB/0IKi4z3X73/layd4JiOi4pB2zNjsg5QyAEDA0zSYrM786k6HI6KOV+NaSOywiHUSrZ5ej3pOzpcKnWi8zydsiRF5AYK9jcMT/CXHbnSDLKypTvPLEdf7b+HOxBW39N7za01qMWh2G3TuQ3B3IV2l9tQLtqfDCV1tBR7pkoa92SIumA6OZr82SJzVtl63556NTah70a7KEmmMArBRFkTK5JD6TqTndJvluVxE2T3z+TlvnU/RdjptsdDt2qIOviO0WDNRmRGKMRT6MVOOzzZZP2XC6PrQ==;dmx/fbfikTABlVsCmG5iUw=="
+secured: "xzteGm2jhvSjYcNWCl3nLDaHdN77qffplLax9piw4OO/c5CGUM1T4fhuU0Sl8fMvpFDxomYb9J2QtQq5bhn68X7UV7x9kiVgacdhxh6fHXcsvowg8xf49nZIwYVvcek9ccnf81irtaGgQrkmidNTHM5OjAXfrQ0artgWMnjJjrB9o1VKHJUXhcRGVgMoZmxM4jfnbkhFFCeyW/tzyktAoez8f67W+ApwYYrnyYyEmQpo6Mi2FHhneHL0RK8tUqnrEgJveS4gfPbkSFABy53GyVI9HqdrvXox0209a1BcBuoUfAKs+BWqj21+2IwxWIUOhNldiD5nQ81wz6xpnwoQZxPPOu7pf1IOPZy96WHhoFu4d+ern9ARmmF0aFctotsN0r/PZ/yWqfwU+izsK4SQrrvyM+q7jwYpyfOBfq/k5zHM7Whz9lsp6GaNo9Q9plX0SWpyL9b2Ablxf8CiicxfvA==;ifpWsjhlhmN2z0cM20fcbA=="
 ---
 

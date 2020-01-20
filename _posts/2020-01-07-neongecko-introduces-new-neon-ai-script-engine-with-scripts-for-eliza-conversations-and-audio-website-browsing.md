@@ -1,21 +1,21 @@
 ---
 category: news
-title: "AI Chips: 5 Predictions for 2020"
-excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
-publishedDateTime: 2020-01-17T01:04:00Z
-sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
+title: "Neongecko Introduces New Neon AI™ Script Engine™ with Scripts for \"Eliza Conversations\" and \"Audio Website Browsing\""
+excerpt: "Intended applications of this technology include personalized store greeters, conversational AI assistants, transcription, translation, and medical instruction reminders ... the classic person-centered therapist “ELIZA\" (demo video), to show the ease of natural language processing and scripting. Many additional examples of conversational ..."
+publishedDateTime: 2020-01-07T03:58:00Z
+sourceUrl: https://www.businesswire.com/news/home/20200106006073/en/Neongecko-Introduces-New-Neon-AI™-Script-Engine™
 type: article
-quality: 34
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: eetindia.co.in
-  domain: eetindia.co.in
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
-  - AI Hardware
+  - Natural Language Processing
 
 related:
   - title: "Five Conversational AI Predictions For 2020"
@@ -48,6 +48,15 @@ related:
       - url: https://media.wired.com/photos/5e1cef377b7b080008560ead/master/pass/Conversational%20AI%20Can%20Propel%20Social%20Stereotypes-01.jpg
         width: 2400
         height: 1350
+  - title: "AI Chips: 5 Predictions for 2020"
+    excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
+    publishedDateTime: 2020-01-17T01:04:00Z
+    sourceUrl: https://www.eetindia.co.in/news/article/AI-Chips-5-Predictions-for-2020
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 34
   - title: "Vonage Partners with Artificial Solutions to Deliver Conversational AI"
     excerpt: "Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise, the Company's advanced ..."
     publishedDateTime: 2020-01-16T13:39:00Z
@@ -57,16 +66,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Neongecko Introduces New Neon AI™ Script Engine™ with Scripts for \"Eliza Conversations\" and \"Audio Website Browsing\""
-    excerpt: "Intended applications of this technology include personalized store greeters, conversational AI assistants, transcription, translation, and medical instruction reminders ... the classic person-centered therapist “ELIZA\" (demo video), to show the ease of natural language processing and scripting. Many additional examples of conversational ..."
-    publishedDateTime: 2020-01-07T03:58:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200106006073/en/Neongecko-Introduces-New-Neon-AI™-Script-Engine™
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
-secured: "psOaCr2XbWFkfFt5YWpmMhmGtbBfDiSPwd1NWFKeq4j2uLCREtWaS3WGpgkvAtOw4WdrW/HErtsLRLZ2yNJndyJ8AA3MmYGM/sHrRITknnDq8eg9+2fzJkZzWTlUsFog0JE50Dh59m3nTor5ptJcTGQ7KUl2C67Dqtx3cDGDbjdtNUyjT5VON/etZczVxlUk555KL72MzQkWzlpxzKP5tnWgVn8I+kAlAJwqU6NOKdbufjKaCp+5fvXIz4ZjIl+l63xtyNxOBe+NhSJI5zaJbQskEbnCMeXCTxwAoL6emCEdb8X7W8FPfFfjj0NVmTywnAUm8diSWSF57arbcC931qRMcSvj6rlUTESRZOafdLLRPtV3moKmc9kfUuwsnDFuDaomRUIYpULeUAzn2buQU+x6/ouit/WZjxQ/pVnYa7dNdGofMUbyBI3zGZgs8rObr4g3ebOAV8pxa5dJ9fjPFA==;g2xUa8ECVYfjGWc/4wTwpA=="
+secured: "2n0Gd2Tca4DcBMiMqKMPjSPlU83+s1Uw4yb2/v1SV8A8dsrAEkLnCK0yCs3CwMzRBkciaTXKpy6mgeH+rCSUdmhpveDSikUWtIY/hgj8mUN9eI/ZhxbTe6AQJ+0iEjm8rFqowYrecLxTfTQazBM5QwO0M3lB5SNZn2JPCovo9WFBwPle6GED/kU/KBm73/3Iqhf/vKG6vt7WBu5bylzuKBR7BNl8onyqIdjuQMtmOA7sTAgU27dhJFK07wzDIwQwvtDo/Kx0FA0C/vHEBnXu4qmoRyMGyuSIWBJ4D+a3czw=;i2rX2lKjXSepNJWe1+ycow=="
 ---
 

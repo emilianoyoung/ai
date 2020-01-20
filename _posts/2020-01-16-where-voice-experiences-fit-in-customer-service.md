@@ -26,6 +26,19 @@ images:
     title: "Where Voice Experiences Fit in Customer Service"
 
 related:
+  - title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
+    excerpt: "In 2019, this was certainly the case when marketing cloud Acoustic emerged as the rebranded spinoff of IBM Watson Marketing. On day one ... and is valuable for the customer and easy to manage for the marketers.\" Where does AI fit in? “AI is essentially pattern recognition,” Guadagno explained. “It’s something that humans can’t ..."
+    publishedDateTime: 2020-01-13T22:12:00Z
+    sourceUrl: https://www.dmnews.com/customer-experience/article/21109830/futureproof-your-marketing-tech-stack-with-the-right-customer-experience-and-help-from-ai
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 28
+    images:
+      - url: https://cdn.dmnews.com/files/base/acbm/dmn/image/2020/01/960w/GettyImages_1051617224.5e1c25379b3da.jpg
+        width: 960
+        height: 532
   - title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
     excerpt: "And with the voice and speech recognition technology industry expected to become a $1.46B market by 2024, brands must ensure their voice solutions are highly customized so as to set them apart from the competition. The ReadSpeaker VoiceLab addresses mounting demand for custom, digital voices by offering flexible pathways that allow any brand ..."
     publishedDateTime: 2020-01-13T13:51:00Z

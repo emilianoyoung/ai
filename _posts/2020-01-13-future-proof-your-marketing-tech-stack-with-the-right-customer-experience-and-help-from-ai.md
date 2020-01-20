@@ -24,49 +24,34 @@ images:
     title: "Future-Proof Your Marketing Tech Stack with the Right Customer Experience (and Help from AI)"
 
 related:
-  - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
-    excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ..."
-    publishedDateTime: 2020-01-15T10:02:00Z
-    sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
-    ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+  - title: "Where Voice Experiences Fit in Customer Service"
+    excerpt: "Fluss added that voice is the most ubiquitous and easiest form of interaction for most people, and the cost of the underlying technology for voice recognition has dropped. “When a customer is calling into the enterprise it’s because they tried web and mobile and still have questions, couldn’t complete their transaction, or because they ..."
+    publishedDateTime: 2020-01-16T15:56:00Z
+    sourceUrl: https://www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/
+    ampUrl: https://www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/where-voice-experiences-fit-in-customer-service/amp/
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 89
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 44
     images:
-      - url: https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg
-        width: 920
-        height: 470
-  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
-    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
-    publishedDateTime: 2020-01-13T13:17:00Z
-    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
-    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
-    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+      - url: https://www.cmswire.com/~/media/e66e4fbac85346988b8614552b01df68.jpg?mw=1024&hash=F9A672BDE93FDCF1491E09293D8024FD552E99A6
+        width: 640
+        height: 480
+  - title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
+    excerpt: "And with the voice and speech recognition technology industry expected to become a $1.46B market by 2024, brands must ensure their voice solutions are highly customized so as to set them apart from the competition. The ReadSpeaker VoiceLab addresses mounting demand for custom, digital voices by offering flexible pathways that allow any brand ..."
+    publishedDateTime: 2020-01-13T13:51:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-readspeaker-launches-voicelab-unleash-branded-voice-solutions-/2020/01/13/9080242.htm
     type: article
     provider:
-      name: XDA Developers
-      domain: xda-developers.com
-    quality: 76
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
     images:
-      - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
-        width: 630
-        height: 473
-  - title: "Understand AI and Machine Learning With This $40 Training Bundle"
-    excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
-    publishedDateTime: 2020-01-16T16:00:00Z
-    sourceUrl: https://www.extremetech.com/deals/304990-understand-ai-and-machine-learning-with-this-40-training-bundle
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 54
-    images:
-      - url: https://www.extremetech.com/wp-content/uploads/2020/01/sale_25319_primary_image_wide.jpg
-        width: 992
-        height: 558
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
 
 secured: "i1QukGa4M+fM3WVSe23SX+gvkXyN1rKkweOmJRZI5lf6BD36d32e5wiuMVvALi9tgF/4Mri0WixnMAPBQW1D/is5lGSoQNwbErYgSXHSvOz43+ZLQRbL/ZWoJx2pCSSs/fbP6P9I8CSO+AYqF9VZ6iW9QY9F5t18fg4SSn56DhaRc1cRvuiooYFxlUSDh1SZh/xFg1fTN4o/VXV57le3Ho4Qj34k3aTEQ46pTv+iA4HmvpqDTHxYOzPUifgKJ6Slwz2zLBaZ53Lazhn//sTd/UWWB52aTG0zcw+zI/E786ToMtnMnoinjtfbAIqf1idnKMkWToeDc+hpB8IuVE63q1mS+gsDja43OS3O/EWJh+rCf6UuyrJk+Gzw4m6xZQr03hEvTu5TU0HWmxTb6dFZB/Mp9qzpXrXyyVtjiL0n1g1Nivkb2Cn0TONA+N2pFEAxOU6VKhASqBIk7BVAw7upkg==;Ta0y/h6hadMjmUZh8PnY7Q=="
 ---

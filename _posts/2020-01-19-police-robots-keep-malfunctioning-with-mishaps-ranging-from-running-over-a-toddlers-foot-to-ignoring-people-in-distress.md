@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Police robots keep malfunctioning, with mishaps ranging from running over a toddler's foot to ignoring people in distress"
-excerpt: "Knightscope has raised over $46 million in funding, according to Crunchbase. Knightscope's robots use artificial intelligence, cameras, GPS, lasers, and thermal sensors to monitor their surroundings and report disturbances. The company drew backlash in 2017, when a San Francisco animal rights group deployed Knightscope robots to block homeless ..."
-publishedDateTime: 2020-01-19T14:46:00Z
-sourceUrl: https://www.businessinsider.com/police-robots-security-malfunctioning-fails-knightscope-2020-1/
-ampUrl: https://amp.businessinsider.com/police-robots-security-malfunctioning-fails-knightscope-2020-1
-cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/police-robots-security-malfunctioning-fails-knightscope-2020-1
+excerpt: "As companies have begun to experiment with security robots, the robots have repeatedly hit obstacles — or, in some cases, fallen into them."
+publishedDateTime: 2020-01-19T14:18:00Z
+sourceUrl: https://www.businessinsider.com/police-robots-security-malfunctioning-fails-knightscope-2020-1
 type: article
-quality: 64
-heat: 64
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Business Insider
@@ -24,11 +22,26 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://image.businessinsider.com/5e21e440b6d52d530a04e422?width=750&format=jpeg&auto=webp
-    width: 750
-    height: 563
+  - url: https://i.insider.com/5e21df6eb6d52d4c4d65ab95?width=1200&format=jpeg
+    width: 1200
+    height: 600
     title: "Police robots keep malfunctioning, with mishaps ranging from running over a toddler's foot to ignoring people in distress"
 
-secured: "qLByRdWbYkNpP/JMpUZnGbQCCJrunRv/x1PFtMFnzs+w8Nd4fvjs9xrflvu+q0NzjvWKc16fUKjBmM4TdPxwBoMZ9cDEVYZT9ni3t/vuBppdb1FmQf0+ikrADQxaM8eV8WB4BNygMy0ADx/T6CE+CMayil4ra9hw7RuDDPzAdqlBV8uH0VQo4w0PMj9VmuYsogwpqmDoEPVtbxLSxYrDmVIHzMtKpmLMNwA6b7/5m5xpgL5yp1Q2CFVZlt8ky7jz880y9m55CArKE2U2qzh8nv7XbJOXN6cNH4t4C/Qj+ioyV553HIrbqrKw+IXp2qcCU9GmM6NyFNJC4o3XDAAac3XxMwAGsGupI3zZe4Z0qG/gruU9pLN2OYG0wIdwyo/s6BZ1YZu9Fj+bpot+z4gUYwNT4FpqW3HiJEkfSB752TI+HGVfE1n9GZ3gI2ra/pti0mYCZdmooPvQM2w+CRwuzA==;k7AX/F95zzChzQV0IyAdOA=="
+related:
+  - title: "Designing better nursing care with robots"
+    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
+    publishedDateTime: 2020-01-15T23:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
+
+secured: "8vfKmYNaM/m8NkVyhxrA6UbWwYxfjBd9bpfGpdKqX4RXD75pTzyL20Bd6UoLh9vEP2xAaXQMaz1H4m4yVFAp7YbJo7Dq/0c3i+PsDz2kJmUXtxoV2YvCD7LcqOMrz9vZz+XvgShPiN8PX2Ce72WQdXshaZzhSAbOTS68P/uUNVJMJXOu94wWhg3E/uodbTQ/pQ9v6oWox0k00o9VKeugUY+ynYIkR+KauEFpauFEukltKMPYPEfoYs9YoXwi41fSTfHsQUq3D+6L8LpT5f8gm2Xo+1nN27cg+nirCbJGwiM=;Yi9hEEU5UYJD/y0rylyJHA=="
 ---
 

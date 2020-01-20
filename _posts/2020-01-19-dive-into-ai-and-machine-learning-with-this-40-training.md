@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
-excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ..."
-publishedDateTime: 2020-01-15T10:02:00Z
-sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
-ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
-cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+title: "Dive into AI and machine learning with this $40 training"
+excerpt: "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ..."
+publishedDateTime: 2020-01-19T14:00:00Z
+sourceUrl: https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/
+ampUrl: https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 104
+heat: 204
+published: true
 
 provider:
-  name: Android Authority
-  domain: androidauthority.com
+  name: Engadget
+  domain: engadget.com
   images:
-    - url: /assets/images/organizations/androidauthority.com-50x50.jpg
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,27 +24,12 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg
-    width: 920
-    height: 470
-    title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
+  - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa
+    width: 600
+    height: 350
+    title: "Dive into AI and machine learning with this $40 training"
 
 related:
-  - title: "Dive into AI and machine learning with this $40 training"
-    excerpt: "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ..."
-    publishedDateTime: 2020-01-19T14:00:00Z
-    sourceUrl: https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/
-    ampUrl: https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa
-        width: 600
-        height: 350
   - title: "Zinier raises $90 million to embed field service work with AI and machine learning"
     excerpt: "Zinier’s eponymous suite delivers insights, general recommendations, and specific tasks by running operations metrics through proprietary AI and machine learning algorithms. As for ISAC, it triggers preventative actions based on equipment health while anticipating stock transfers, and it scans technicians’ calendars to help define ongoing ..."
     publishedDateTime: 2020-01-15T13:00:00Z
@@ -60,6 +45,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/Mockup-1-e1578777547819.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Future-proof your tech skills with the Ultimate Deep Learning Bundle"
+    excerpt: "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ..."
+    publishedDateTime: 2020-01-15T10:02:00Z
+    sourceUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/
+    ampUrl: https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 89
+    images:
+      - url: https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg
+        width: 920
+        height: 470
   - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
     excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
     publishedDateTime: 2020-01-13T13:17:00Z
@@ -167,6 +167,6 @@ related:
         width: 1024
         height: 768
 
-secured: "u5xNnIMt8LJKq/TLQGvpx5MMTDzIYD9CID+l3z/SYXN35ipMq5gmPcGOY9vdxCHDcPQj7givHkp0GVisvQ3Pvs8Jtc4dl2TqdZW0jHxCTc5SZEDSQLXLiZUXsmiq/20hWGws6bEghBOqkbGNo3u0cCTOOix4XN6vg+6EktRGGbo2t11jHEyoYK5Iu7zr64b7FEsAUdFxio2ip5hlrDdDPCJ/CmkQvH6OfGLLvD2kfT8bJtDvXCCUoZIYf9jqlJ9dhovBOg1D0EhLleDZR/eFE2YlW7VaYtghxn9qeNiBxbQQG8Q6QbZUuMqL6428McXZACgxb4YfUcHTM1gqfalihrZvuhyqlfo55viNp/4WOohOMhZv8RnbEgnS1n+gHGoDjrJk4J0aimkCrRw5jvR4sNBwgvsDLiGZe608wPsVT8969os3YSQaYmRAiMEli4/AIjVnJJBdqx8JDqY3uAeaCw==;XNdvmbLLVBwnQCbKBRwzcw=="
+secured: "AQB+oIZtMCdOF3xCGr4A1NFyXEy8BUYT9eJrvU+DHxmX2pfgGl1pTlYZk+jS4uW1NH503kdkkScvs5W5UDPLoaTtCT1SzWf212BxkiqM46P/zyMk90h4LGSVdkXDCxdiVmN423pA448jj4623Hg/BzZHSRVqOio7kpadyDxrmZpnB10m2Xs0wbddqLMRWGI78K9wg0F0WySqPiTffzf3T/XjBZqxFfVjQBJRCkPCRbUErrnNwHAcs0bfgPFzmcmd+g91HG2OuQLdkmlfDmVUS8PJE8F8TIGtEQHBb01Gync=;07AUbshZ9nBIM5WzvnTUxA=="
 ---
 

@@ -56,6 +56,15 @@ related:
       name: eetindia.co.in
       domain: eetindia.co.in
     quality: 34
+  - title: "Neongecko Introduces New Neon AI™ Script Engine™ with Scripts for \"Eliza Conversations\" and \"Audio Website Browsing\""
+    excerpt: "Intended applications of this technology include personalized store greeters, conversational AI assistants, transcription, translation, and medical instruction reminders ... the classic person-centered therapist “ELIZA\" (demo video), to show the ease of natural language processing and scripting. Many additional examples of conversational ..."
+    publishedDateTime: 2020-01-07T03:58:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200106006073/en/Neongecko-Introduces-New-Neon-AI™-Script-Engine™
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "6qnNNqDnUmOwJot/rFBnfUVhYf8bVsGDHoBz5kMj6Nm8N8sBinLTOuAPrShQoVjg7uSFnzqw2ytUxIQCGo2Yxy1Pp1Wpjf7/RMbU9O8OcSb0IwaJVCNPW6k7MqCPuUldQwHJh2e25w4GPT8/CdVMl0JStGU6aN1JsYjW8UbK0/CgdGatsMTlr5Q6y0PsdakFy6bHqK/jEMtw0PldOor9BTK4SB251M/Sga09HkTHZx1X0UQ6WYc30m/izBxwiHAnGT4RYIOM0QssRcGO7SmENCZh4a//pzLpy7389aVDLrw=;LmreHGfNyCoyUa2UvFxe0w=="
 ---
