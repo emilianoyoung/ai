@@ -8,7 +8,7 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -80,6 +80,17 @@ related:
       - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
         width: 649
         height: 328
+  - title: "The transformation role of APIs in healthcare"
+    excerpt: "As the industry seeks to offer patient-centric healthcare, its key growth drivers—including affordable insurance, telemedicine, remote diagnostics, and medical tourism—are often accelerated by digital transformation (DX) technologies. These technologies include cloud computing, IoT, artificial intelligence, mobility, and analytics ..."
+    publishedDateTime: 2020-01-20T03:30:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
 
 secured: "DFuhH0p1RVPaim9jaHmlL+tKofcb3qjSZh9Bmne2kw2+quzmZffggg1/Rfm5OmGGoVmpivpU4jFtnSpYu5fmv7NNTnp+5wCVqGzqkaRfnwXvCQboVPr+kJMaxp6bM2surp+3rQ9tYo2MXvve8t40V1DgpZV/PFZFoFxfTZZHkFMJQ2IHuaUxXkFpLrDTqw5ZXvWT1t+N2DP01yZexPDKMjpg+flTEQXXjMl5Jc49U1zT/2qmodQ92Sod5bnEfqj2pJcDufSOA+nDiG5/sSdmALUOdkDp3bv0dCdxInojzpw=;0JjoITKAKkiS3/ctPyz81w=="
 ---

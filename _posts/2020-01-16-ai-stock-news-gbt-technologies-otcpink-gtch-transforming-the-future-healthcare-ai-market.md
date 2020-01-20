@@ -80,6 +80,17 @@ related:
       - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
         width: 600
         height: 337
+  - title: "The transformation role of APIs in healthcare"
+    excerpt: "As the industry seeks to offer patient-centric healthcare, its key growth drivers—including affordable insurance, telemedicine, remote diagnostics, and medical tourism—are often accelerated by digital transformation (DX) technologies. These technologies include cloud computing, IoT, artificial intelligence, mobility, and analytics ..."
+    publishedDateTime: 2020-01-20T03:30:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/the-transformation-role-of-apis-in-healthcare/73412408
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
 
 secured: "Mpc73HJ0S6EZ/b3J4YfkLKkeT7/1Nw53qsg0FlxqPWCVEUlgqbdWoBr9GHLV9cRwV6Bq+VujG9IAECNYC/VuuMzAqxqBmgns5T0ReLVBcrjVu2vqT9KU/rikEDR3RfVdX1QZwL+H4LewDGYJSAbDPEK0QzGbz7jC51CrPBqRiqxOYL3jXsRXLpzskMh8/oKf9mLl5ZP1yT42HQugMGWawOOWxD9sfnPpDpML4PxhoI/HXc7/Y8lQwc4rkOm6Qy9QbLlaXt+gwHfb269MuNibMGV2gmuWLcZTD7fHsG1tj/EUe0m3zAQ9dGC+h1b5UvSYp5ih+CML3EpWHQIa1YerPoCke4ZtUW31XF0o4aLmNecloO6cxe8hMpWxG6llTd9EssZl7ciEGFo9t1eQNJAccdwJ/fbSI9EmN6u8TJUOrRw/JAWCh48/s4/eYNqrzGEZPQvdeinTDO4uy3+G5uTpvA==;l1BI3xFEDC16aXMSpk4qPA=="
 ---
