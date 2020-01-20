@@ -16,7 +16,7 @@ affiliation:
       width: 400
       height: 400
 
-website: https://t.co/FmONUoEyjZ
+website: https://nlp.stanford.edu/~manning/
 
 twitter:
   username: chrmanning

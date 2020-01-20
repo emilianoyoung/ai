@@ -5,7 +5,11 @@ location: United States
 type: "profile"
 heat: 85
 
-website: https://t.co/9jevNxKWPc
+affiliation:
+  name: MIT
+  domain: mit.edu
+
+website: https://www.patreon.com/poetofcode
 
 twitter:
   username: jovialjoy

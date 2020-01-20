@@ -6,8 +6,8 @@ type: "profile"
 heat: 122
 
 affiliation:
-  name: mit.edu - Homepage
-  domain: mit.edu - Homepage
+  name: MIT
+  domain: mit.edu
 
 website: https://rodneybrooks.com/
 

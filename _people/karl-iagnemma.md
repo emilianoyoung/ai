@@ -5,8 +5,8 @@ type: "profile"
 heat: 40
 
 affiliation:
-  name: mit.edu - Homepage
-  domain: mit.edu - Homepage
+  name: MIT
+  domain: mit.edu
 
 website: http://www.karliagnemma.com/
 
