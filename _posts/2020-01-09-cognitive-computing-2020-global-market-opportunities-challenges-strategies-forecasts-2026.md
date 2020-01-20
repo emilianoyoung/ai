@@ -39,6 +39,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in BFSI Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+    excerpt: "Market Study Report adds new research on Artificial Intelligence (AI) in BFSI market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
+    publishedDateTime: 2020-01-14T15:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Robots Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
     excerpt: "New York, January 08, 2020: Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,"
     publishedDateTime: 2020-01-08T03:13:00Z
@@ -48,6 +61,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
+    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
+    publishedDateTime: 2020-01-08T11:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -65,6 +91,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "New York, January 16, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
+    publishedDateTime: 2020-01-16T03:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2020-01-15
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chipsets Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "New York, January 16, 2020: Due to high growth in computing applications, enterprises tend to demand machine learning specialised devices, equipped with specialised chipsets. These AI enabled chipsets are expected to drive the expansion of hardware chipset producing into next stage of progress during this field."
+    publishedDateTime: 2020-01-16T03:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2020-01-15
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
     excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
     publishedDateTime: 2020-01-14T05:28:00Z
@@ -78,6 +130,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+    publishedDateTime: 2020-01-14T06:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 1200
+        height: 627
 
 secured: "slSOE4XN09XR3b7YuzYCwSeRMGYeuZLQ/Nhv0PDvdvZWWLKcNHr3Pl//DzfVm8i7wEYLjQRIrlfc5hf8+W6diC76y4bRywK76gcE0uurT+jjUc/jlerZDV4BQW4KX4cW2NS91rNMv93rXcoC9n+FFlAD09gD06FNO0gA1Qvu3kd4PRUOASU3FPmQGlOfcwqFLPd0aReDwvWrlzxAHmIxdvIH46MKACnm3KNSOOgAcxPqW+DAEt/ACE+bePEMgPgVhAYY3gN/SP88wKknO2g1/RwaU2IaMT3rrPpPdnhSb9G+Vtxn+p79AvXbJFJzElXCL4c5vwSPBxWPy7zF8qBtqXKh2Z0kGd9+dIYQ/aTv2RiV7YhBGXBEsuK9APg15tDsw+LJ5lIDZJFtlpj6wQ+Uzxz1H97699W5tVP2cHjwJXHUhgL+k3+VTCB8XDdhS/mUpuwE4C9eYXxAyZfjRdl/GA==;8gFH4n4wCrWnE+JtHk6G1g=="
 ---

@@ -24,19 +24,34 @@ images:
     title: "European Union mulls new tougher rules for artificial intelligence"
 
 related:
-  - title: "Europe considering tough new rules for artificial intelligence"
-    excerpt: "Bloomberg—The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU’s executive arm is set to propose the new rules apply to “high-risk sectors,” such as healthcare and transportation, and suggest ..."
-    publishedDateTime: 2020-01-16T20:38:00Z
-    sourceUrl: https://www.healthdatamanagement.com/articles/europe-considering-tough-new-rules-for-artificial-intelligence
+  - title: "European Union to restrict the development of artificial intelligence"
+    excerpt: "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ..."
+    publishedDateTime: 2020-01-17T13:58:00Z
+    sourceUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/
+    ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
     type: article
     provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
     images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
-        width: 1200
-        height: 630
+      - url: https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png
+        width: 788
+        height: 525
+  - title: "$7.5 million grant will fund development of socially savvy artificial intelligence teammates"
+    excerpt: "University of Arizona researchers have been awarded $7.5 million to create an artificial intelligence agent that can understand social cues and human interactions, and use that information to help teams achieve their goals. The grant comes from the Defense Advanced Research Projects Agency and is part of DARPA's Artificial Social Intelligence ..."
+    publishedDateTime: 2020-01-17T15:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uoa-gw011620.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 26
+    images:
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
 
 secured: "lPvtvG1LPSnbETtS5PBrZv1Co3q0M+SEm+H3jII89CfaJAAepox4nAva4D1BQZ1bND+WXQcgX3LTgDhuiSfq0N2PYcY0SGZitDqFFB4ncz5sxMKWeZ7NoCC9cCj9W94MSa+eaaKA9v33YhlaOLpfryYjLjl9vJjEYqvMF/jbjV0y/eu/EHO3bLFVM2Kp24lfVQ5e09ha4F4SXQtd+xW+2PAoZy7HiZlFwd2UGQVoG8L5ffSyzAypkC4vlipDWrjmDUeI30CqAY6PMPLGymi/J2bZVWcalE7KASdQ9ppzEIEZNvK23ORacWzSe9P9YFa6xC/2uZuPn51sBTQpeJOthVMezcD6ED8olXHmiuJPTqmg71K517rtu8SEEnE6o7QzL5hF6+19GIqQs52MM6MPBhCFJiPuoQFPCcYTkDpbumgm3Zt4loj109d/+EJeo7hxO0+3jVwXMBHoAsYrP3IJLA==;Ltb7ypk0M7vv1nbHYwREDA=="
 ---

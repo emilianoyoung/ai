@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T18:46:00Z
 sourceUrl: https://semiengineering.com/uses-and-limitations-of-ai-in-chip-design/
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,51 +22,6 @@ images:
     width: 320
     height: 206
     title: "Uses And Limitations Of AI In Chip Design"
-
-related:
-  - title: "The Case for a Light Hand With AI and a Hard Line on China"
-    excerpt: "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity."
-    publishedDateTime: 2020-01-14T15:00:00Z
-    sourceUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/
-    ampUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg
-        width: 2400
-        height: 1600
-  - title: "Björk and Microsoft use AI to create music that changes with the sky"
-    excerpt: "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ..."
-    publishedDateTime: 2020-01-17T18:42:00Z
-    sourceUrl: https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/
-    ampUrl: https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F1753deb0-3954-11ea-9f26-47e800c6b449%26client%3Da1acac3e1b3290917d92%26signature%3Dd74572e0141a4d05afbcc4cbd4f09da27109c50e&client=amp-blogside-v2&signature=397c2e6c49f4a56b1d74ddeac5f8b83a354ed9cd
-        width: 600
-        height: 350
-  - title: "Groq Hardware Now Available on Nimbix Cloud for AI Workloads"
-    excerpt: "The Groq processor is designed specifically for the performance requirements of computer vision, machine learning and other AI-related workloads, and is the first architecture in the world capable of 1 PetaOp/s performance on a single chip. Nimbix is the ..."
-    publishedDateTime: 2020-01-17T17:46:00Z
-    sourceUrl: https://insidehpc.com/2020/01/groq-hardware-now-available-on-nimbix-cloud-for-ai-workloads/
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: https://insidehpc.com/wp-content/uploads/2020/01/groq-1.jpg
-        width: 483
-        height: 483
 
 secured: "ZrZcqXdLpaegRa+HOgJUrdetftNXhKSe3q9rOTWjHrM5nbGcT1HtyUAiWtDhWy2n4LwYd67zKA4Q+uAzZ/BKKDej9pTBucXc5WoBA5PLIScdNwVc1fnhuX8fUgwGNB1Rn2kkaah3JmybPJhr875DqZPS1uCnlgy9jRqqQJih9U2JgQzvIvT1pM5VMy/DxN3LOXkxprPhSgU6zaZSIXKVONl/lQqi1UgJSKsDxKPbCVlxcjF7AdQmYWOgc6smez0XiGX9lxa4rGShAkhn2DGriVh5lTvdY93GFtuTVM2+JRc=;mU7KO62uS0jF7WU1DfYYZA=="
 ---

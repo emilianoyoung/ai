@@ -25,6 +25,21 @@ images:
     height: 281
     title: "Can we ever trust Google with our health data?"
 
+related:
+  - title: "Google Health has the data, but can it gain patients’ trust?"
+    excerpt: "Just a year into his new role, Google Health Vice President Dr. David Feinberg has a lot on his plate. The former Geisinger Health CEO must manage the tech giant’s multitude of health projects, from imaging work using Google’s DeepMind AI, to prioritizing accurate medical information over quackery in search results, to providing cloud ..."
+    publishedDateTime: 2020-01-15T18:39:00Z
+    sourceUrl: https://medcitynews.com/2020/01/google-health-has-the-data-but-can-it-gain-patients-trust/
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: https://medcitynews.com/uploads/2020/01/StartUp-Health-Feinberg-600x400.jpg
+        width: 600
+        height: 400
+
 secured: "tpV7jgT/6BabtPWMbLJC9F62l2tXb9CAtX1qDg86P0fvQBbgX9DmeFv0nxRFnA38kZY6S0XDh+0pAoq5e2iTuoYjHEqcyKQ9ZUaZxlPATFPlKbZz1Banb/r9F12QXr5R6s086a1wrcmZeUwv8GJIsVsf3ke+PAjHVc2YbGcZishUg1rPM6AdzC6ke61nZxvK+S2HVjC8jC0F2YuQMsO2Js6Bqao2CsHEmlHOlmVgt7hUHgpXaO9Xbz7s+EJKb9oukwgLtEymZoIu4PDIBmTmMfDKh3GkJdpqYCB2V3tTBWU9et/WiCEEgHS+iMYfDGBPO1LVtHAf6kIFq3yLZHV/teG6VeIc1k1iWYcl36dRS8A0wjFU8cRkFZFo1b5s0fqwDzxpdh3Mcn8Jk+grSk1NpWs1+IoZ6+KdLhsmXpXBs+/3Oq18s+JWXL1P8D2dBvZ88VOZbm5OAEbngv6W3U12zA==;cX/a0b1XE+OelMpS1Fc7XQ=="
 ---
 

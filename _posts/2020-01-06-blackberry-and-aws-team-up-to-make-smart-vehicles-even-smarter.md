@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-sm
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "BlackBerry and AWS team up to make smart vehicles even smarter"
 
 related:
+  - title: "BlackBerry and AWS combine forces to create edge-to-cloud platform for automakers"
+    excerpt: "The platform uses Amazon SageMaker for developing ML models and AWS IoT edge services for in-vehicle ML inference. \"By combining our technologies and strengths into one dedicated cloud-based offering, we can ensure automakers have the tools they need to deliver the driving experience consumers want, without sacrificing on the security and ..."
+    publishedDateTime: 2020-01-06T15:53:00Z
+    sourceUrl: https://www.techrepublic.com/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    ampUrl: https://www.techrepublic.com/google-amp/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: https://tr4.cbsistatic.com/hub/i/r/2020/01/06/d81bdd9c-466b-4013-8c76-a311e4f76e23/thumbnail/1200x675/9bb56c6a9dff43731ee7c67b12bb93cf/ces-2020.jpg
+        width: 1200
+        height: 675
   - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
     excerpt: "These can take the training data for AI models that are deployed on devices inside smart ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities ..."
     publishedDateTime: 2020-01-07T20:44:00Z

@@ -41,6 +41,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in BFSI Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+    excerpt: "Market Study Report adds new research on Artificial Intelligence (AI) in BFSI market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
+    publishedDateTime: 2020-01-14T15:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Vehicle Speech Recognition System Market 2019-2026 | In Depth Analysis on Growth, Trends and Business Outlook"
+    excerpt: "Amecoresearch.com adds “Vehicle Speech Recognition System Market 2019 Huge Demand, Increasing Growth and Future Scope with exponential CAGR” To Its Research Database. As the competition soars in the Global Vehicle Speech Recognition System Market,"
+    publishedDateTime: 2020-01-08T11:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-2026-in-depth-analysis-on-growth-trends-and-business-outlook-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Cloud Natural Language Processing Market: Global Industry Analysis, Size, Share, Trends, Growth and Forecast Till 2024"
     excerpt: "The Cloud Natural Language Processing Market Report provides a comprehensive analysis of growth trends prevailing in the global business domain. This report also provides definitive data concerning market,"
     publishedDateTime: 2020-01-14T11:14:00Z
@@ -50,6 +76,32 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "New York, January 16, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
+    publishedDateTime: 2020-01-16T03:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2020-01-15
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chipsets Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "New York, January 16, 2020: Due to high growth in computing applications, enterprises tend to demand machine learning specialised devices, equipped with specialised chipsets. These AI enabled chipsets are expected to drive the expansion of hardware chipset producing into next stage of progress during this field."
+    publishedDateTime: 2020-01-16T03:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2020-01-15
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -82,6 +134,19 @@ related:
       - url: https://www.abnewswire.com/uploads/1578562921.jpeg
         width: 600
         height: 400
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+    publishedDateTime: 2020-01-14T06:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 1200
+        height: 627
 
 secured: "eAamAwRBib/lho/6YEm8QKJQGClKaL4rfwnYZqckfw6ltAq8+a6f8PlCu4++hWBf7i1CXk3Kgu/jFk2xNHsmJ4M4n6fQouvqr/WghrsWrJKR9V9ObCf1LHwwwQSn/ouhg72pd7oButAm9vL+/lkAGpGiA0xIWoTm2YiEKTQ/4dV75WO546nc7pd2YgZsN1TSnBWtPR81lt7rgouwqKXw25C9meSv5VXfTRV+UABPvdx03QqweCS2yLJubOLDehhfFZAxa30EhstwW3WAi+cCuqsS2+m+DTkW8ay2HwZaG18=;KaiUvHa41KP3TjJq7eDkGw=="
 ---

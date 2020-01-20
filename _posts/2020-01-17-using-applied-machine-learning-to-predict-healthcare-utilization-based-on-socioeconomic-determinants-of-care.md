@@ -24,32 +24,30 @@ images:
     title: "Using Applied Machine Learning to Predict Healthcare Utilization Based on Socioeconomic Determinants of Care"
 
 related:
-  - title: "Precision Medicine and Artificial Intelligence: A Pilot Study on Deep Learning for Hypoglycemic Events Detection based on ECG"
-    excerpt: "overcoming the intelligibility problem of deep-learning methods. These results advance the feasibility of a real-time, non-invasive hypoglycemia alarming system using short excerpts of ECG signal. The study presented in this paper aims at exploring the ..."
-    publishedDateTime: 2020-01-13T10:10:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56927-5
+  - title: "Applying Deep Learning to Localization Microscopy"
+    excerpt: "Two such technologies that can be combined to produce a better understanding of biological systems are localization microscopy and deep learning. Localization microscopy is a recently developed technique that has the potential to transform our understanding of cell function at the molecular level. It provides pin-point accurate information ..."
+    publishedDateTime: 2020-01-17T10:39:00Z
+    sourceUrl: https://www.news-medical.net/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx
+    ampUrl: https://www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 27
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
     images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-56927-5/MediaObjects/41598_2019_56927_Fig1_HTML.png
-        width: 685
-        height: 285
-  - title: "Early Recognition of Burn- and Trauma-Related Acute Kidney Injury: A Pilot Comparison of Machine Learning Techniques"
-    excerpt: "Severely burned and non-burned trauma patients are at risk for acute kidney injury (AKI). The study objective was to assess the theoretical performance of artificial intelligence (AI)/machine learning (ML) algorithms to augment AKI recognition using the novel biomarker, neutrophil gelatinase associated lipocalin (NGAL), combined with ..."
-    publishedDateTime: 2020-01-14T10:12:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-57083-6
+      - url: https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1096541144_80b03e6813c6441f98f150075dcfff1e-620x480.jpg
+        width: 620
+        height: 480
+  - title: "Cleaning Robot Market to Grow Considerably Via Floor-Cleaning Segment By 2025"
+    excerpt: "Cleaning robots require high maintenance for optimized performance. Lack of skilled technicians in developing economies is projected to hamper the industry growth. Technological advancements, such as artificial intelligence, AI swarm technology, and high-precision control systems are expected to provide growth opportunities for the cleaning ..."
+    publishedDateTime: 2020-01-17T20:04:00Z
+    sourceUrl: https://www.openpr.com/news/1900089/cleaning-robot-market-to-grow-considerably-via-floor-cleaning
     type: article
     provider:
-      name: Nature
-      domain: nature.com
+      name: openpr.com
+      domain: openpr.com
     quality: 16
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-57083-6/MediaObjects/41598_2019_57083_Fig1_HTML.png
-        width: 499
-        height: 685
 
 secured: "cuVwOwEGFfHmk8g6Xve5MrCDMIPBcnomf36FfGm2bSKVbG8Rp02ouTfrAjT/ZvilgptArOrn41Rc3yo0pSNxRQa2BHbowoRenAmPfernXOIvqGo1KNcEgRoJqQIGjbAzR1jOETDwwLwMoN2KngdpXQNtEkxZje/XQi1J+NR3ixw5FI0EnbagnOEkJHrDbQIdj/kncga/51QPOL42+6wJer0etgsyXZL2/CKozPz+H1IiVHHIk26VI1BaO3AmyMhKM1DEa3xspBQsCbOKNbUjXLHM6qjC8o6TpB7rh/Pfns4=;uaTnDyYBYeUVwHt9ORtS9g=="
 ---

@@ -39,19 +39,6 @@ related:
       - url: https://www.techworld.com/cmsdata/features/3780397/nhs-app_thumb800.jpg
         width: 800
         height: 450
-  - title: "Google Health has the data, but can it gain patients’ trust?"
-    excerpt: "Just a year into his new role, Google Health Vice President Dr. David Feinberg has a lot on his plate. The former Geisinger Health CEO must manage the tech giant’s multitude of health projects, from imaging work using Google’s DeepMind AI, to prioritizing accurate medical information over quackery in search results, to providing cloud ..."
-    publishedDateTime: 2020-01-15T18:39:00Z
-    sourceUrl: https://medcitynews.com/2020/01/google-health-has-the-data-but-can-it-gain-patients-trust/
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 39
-    images:
-      - url: https://medcitynews.com/uploads/2020/01/StartUp-Health-Feinberg-600x400.jpg
-        width: 600
-        height: 400
   - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
     excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
     publishedDateTime: 2020-01-10T20:33:00Z

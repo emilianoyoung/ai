@@ -100,6 +100,19 @@ related:
       - url: https://cnet3.cbsistatic.com/img/Yd9SnO_SRhGLteB_TlXsc14Glbs=/756x567/2019/12/03/93defff7-eed2-4114-907a-8228f1792e87/sundar-pichai-google-ceo-4.jpg
         width: 756
         height: 567
+  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
+    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
+    publishedDateTime: 2020-01-20T19:06:00Z
+    sourceUrl: https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 84
+    images:
+      - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg
+        width: 760
+        height: 428
   - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
     excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
     publishedDateTime: 2020-01-20T10:30:00Z
@@ -173,6 +186,21 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2018/12/Google-CEO-Congress.jpg?w=1024&h=683
         width: 1024
         height: 682
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI), calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said that existing rules like Europe’s privacy legislation, known as ..."
+    publishedDateTime: 2020-01-20T14:21:00Z
+    sourceUrl: https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
+    ampUrl: https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
+    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 61
+    images:
+      - url: https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000
+        width: 1000
+        height: 652
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -326,6 +354,19 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
+  - title: "Google's CEO Calls for 'Balanced' Artificial Intelligence Regulations From Lawmakers"
+    excerpt: "Google's CEO calls for governments to regulate artificial intelligence using a 'balanced' approach. Veuer's Justin Kircher has more."
+    publishedDateTime: 2020-01-20T18:50:00Z
+    sourceUrl: https://www.kvue.com/video/syndication/veuer/googles-ceo-calls-for-balanced-artificial-intelligence-regulations-from-lawmakers/602-cb6701ae-25c5-4395-bae9-81733d3f1b89
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 30
+    images:
+      - url: https://media.kvue.com/assets/VEUER/images/c4e8e9ce-b7e6-459d-94d9-88998947c32e/c4e8e9ce-b7e6-459d-94d9-88998947c32e_1140x641.jpg
+        width: 1140
+        height: 641
 
 secured: "Z29RL2kL4tTb/N69AEKShQrqTpZnpIyGvzeGipClgNU3TupfhzIorPXgzVpqH2Y/z6oJlstkace7cLeg0Vqf4ok1cf56Tk+8EKqMkupH/2DjJbRtOfINsePEc51aeH/MBrC4rkEfHk2caBQUi1mE0K+/IsUx9i6sQcAB7t6v2BsnBxzz1b1KBHuVlJRX6H14CAFLQ1wNBW0X5hBiqjs0Hau9Su36GQc0zvulr9uA7bODzdAKnDKa2kSLqVJxrmfCOSuLwIbSRIG+GWcLa0VV5Vw9IEK5QPlC3aZatSE7V4wKmKv3Ge7hpI51bvag5U0Au5Yg79d75l/6lg/YWQyC1lT+skqCfp0fISVeusYEuLt7PgZCaTjclItYGuhencATT970hJ4+DfHe2GLOGVTJLfKjMr51LBaUmIAacjOkvIenI/BnbuYZYAEkp4WVwg7a0WvCE34wnb2QQie3hYQbvA==;JkYDFIXt3xMHYgcn+oXeDA=="
 ---

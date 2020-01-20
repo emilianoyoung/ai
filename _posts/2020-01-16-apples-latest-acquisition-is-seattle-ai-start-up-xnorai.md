@@ -48,6 +48,19 @@ related:
       - url: https://images.macrumors.com/article-new/2020/01/Wyze_Labs_Inc_WyzeCam.0.jpg?retina
         width: 1840
         height: 1226
+  - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
+    excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
+    publishedDateTime: 2020-01-16T01:36:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 14
+    images:
+      - url: https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4b45ead200c-600wi
+        width: 600
+        height: 330
 
 secured: "Wy50iKpRQgxBDJtuXHURzuE9h3L2sE6Zj3wymY/Ka67xc5Y6I6EfQBiLKkfhgpJnSPYnlEUSyN+GjaAttDI+MewgneKsz1YFQGN0NyXglJwxCObjxhfHXGYhsz1XGSKhjul2Uvq5uhaKn2xuhkQs15BjaHf+lW2s5NBx/6GgDMyDr9qMxhLEzp1ePnYmjtuCdMJqEJOaV81AP7MKk8JB3Qq6lVEXnkGQe/lw3Sc2UeAzIHObuKge14FTso9J8LzZ7eW4MQ2fckbxxmNZLVMvz6Jhru7M7GIr4aO13wsNklX42/j0jcbTqtLgz/ZthE2Gw2dOXAg3iemBtLgPuxPf39rbeJS2WVS6B9tNrZeSIJ6sfG6P+WVuVj4qIF07MFjXmhykHVRtMytrJg/e+a6gxHv+cSGo3NgPLhjA6kYWICJj7yIoYA1G3or72twC5ZyqfDdZ25wpHxIQi1WPYceOnw==;upw2nT25BBEg0YVVOCfvMA=="
 ---

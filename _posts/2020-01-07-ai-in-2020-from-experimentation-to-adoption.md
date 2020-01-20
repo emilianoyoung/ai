@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentat
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       - url: https://www.ciodive.com/user_media/cache/b7/ba/b7baee9daea0631ca01e244162568fa8.jpg
         width: 770
         height: 364
-  - title: "Artificial intelligence in transportation is ‘not science fiction anymore’"
-    excerpt: "“Artificial intelligence is not science fiction anymore — it’s already an integral ... declined to name the OEM his company is working with — but he noted that the U.S. and China are two prime countries for self-driving commercial vehicles. “The advantages that we find in the US and also in China are some less crowded areas and ..."
-    publishedDateTime: 2020-01-07T15:35:00Z
-    sourceUrl: https://www.fleetowner.com/technology/autonomous-vehicles/article/21119908/artificial-intelligence-in-transportation-is-not-science-fiction-anymore
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 17
 
 secured: "xUhaOV8/AZ/rKbB8CRqOJKbFTneNaMLaqMD2596yVyNFgm7gnvJpL9fs1u8DHhjmKgq/+YBqNYNlnXcQD/ybL7jJ2QgSiDRuabJWFzAxzbEg3erVai/Shqh3Nfxo3afMzkcLDsNFH4hv8bSESc7yeQXze374vFvWSlRoKBDv+Ksf30HKONZH6qaWqBhDISrCdhsp527NHJmA/6U9Ppt3yaEavsMq6Wydyki3FvXWOiszaT0Zw9nwQojZMysL3oDW+QZXSvtaeycSxxbOnWb+51lEnHagivWCOu0MPCgRJo1fv2yKGjsh5ymjPJkH8z0vcavY9RvrdK4dYB60Mk7CGRZwmuliFghNt8B6YlwEjvQ0JBm9eiEN51Da5AZvchSMYDnngpJUgbDgRaRJqwzrSXBFfoHQoSYDCdnP8K5f/8o0ORVbCmQWEADS3B9wYzWjKpf7Ym8f93G9iIhIsFrhVg==;EFdfS5XwcDu3GYBttThGag=="
 ---

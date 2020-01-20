@@ -31,19 +31,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
-    excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
-    publishedDateTime: 2020-01-13T21:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Fashion Market to 2027…"
     excerpt: "research analysts, and key opinion leaders specializing in the artificial intelligence in fashion market. Some of the players present in artificial intelligence in fashion market are Adobe Inc., Amazon Web Services, Inc., Catchoom Technologies S.L., Facebook, Inc., Google LLC, Huawei Technologies Co., Ltd., IBM Corporation, Microsoft ..."
     publishedDateTime: 2020-01-20T07:06:00Z

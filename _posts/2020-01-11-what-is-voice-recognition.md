@@ -8,7 +8,7 @@ ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
 cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,31 +26,48 @@ images:
     title: "What is Voice Recognition"
 
 related:
-  - title: "ReadSpeaker Launches VoiceLab to Unleash Branded Voice Solutions"
-    excerpt: "And with the voice and speech recognition technology industry expected to become a $1.46B market by 2024, brands must ensure their voice solutions are highly customized so as to set them apart from the competition. The ReadSpeaker VoiceLab addresses mounting demand for custom, digital voices by offering flexible pathways that allow any brand ..."
-    publishedDateTime: 2020-01-13T13:51:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-readspeaker-launches-voicelab-unleash-branded-voice-solutions-/2020/01/13/9080242.htm
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
+    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=
+        width: 1200
+        height: 630
+  - title: "Speech recognition and voice commands for your site"
+    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search and speech recognition technology cleverly, but is it ..."
+    publishedDateTime: 2020-01-04T10:34:00Z
+    sourceUrl: https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg
+        width: 1200
+        height: 564
+  - title: "Sensory Does Voice Recognition Without the ‘Net"
+    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
+    publishedDateTime: 2020-01-13T17:25:00Z
+    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
     quality: 24
     images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
-  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
-    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
-    publishedDateTime: 2020-01-14T11:28:00Z
-    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
-    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 7
+      - url: http://share.opsy.st/5e1c9ca535b08-google-home-mini-3739710_1920.jpg
+        width: 1920
+        height: 1280
 
-secured: "pf0Mt0EakaMWjxfj1NgdTiDWK8HTZ+dT2v763wlIBGlZmDFIEOut3Ar6CiOeGwCDGhQ3BSKBB7BmCd3C4xRxAUAp88ZY66PRnfjF34fe0qO4NDN1G8/u/tSyhyk+qJMIIuZChORcGafpQU3A7/ytqqSgkD6OdWHaI0TwJv2aC88gZMu5Ow6WGcumdJmN3AjWxTDVofzN7V41yqIBfWtKeFr4sQwhnKwS1Wvb6TCyTfSsiDVwV/4r0iDb855H5dEhUZn/R4qL97jKQR7ukhw4yneRAhpoCOgcXhX1M8g0L6U=;A1B9cEu5J/bLZVpV3XqRvw=="
+secured: "JOBAhQTQ6BxVRf/xrZ01NUTdGKsoaqc1o/Siidb+3rXWidElTmqwPgU1R9u0VZzRrUSB+GV31LGifr3tVExNaST/7NQwEBRgN1x+Xe5A7VG6lyE8cI7fCsDqx9wnYOEDBveAOCcjx1r3dEMx+zU/PigjiaBRgEXgAlkru3r188GGaB9aZNkAD29MpLcW0A51U8P+AUyq8g0WO6wBdvWojN4YFkOpYf1dvQ4e5gR32hZUFmkJFNYo1ge1sxVXfAxp11GH+/P6FyV5PVnAyopZYVQFKNJES382kGcPXXPRkn1lejL7JVzUTozzLLksyUmvKFyi/Ra/T4RtYLGqBKAzHByJn/cF8DAbZLz7MNBJ2QWBBf835O4WxhvyZvjRhg2qVcqrCrZftz7gw4oQ6ZI3OWjCqUd8mn24YJpFR9pNdfHLa/fSL5vMzngoOioqkbCpRL9PtOzpmAhsKCCUS2QZPQ==;uEZ2uUTPmaHAbPmWhrY/qQ=="
 ---
 

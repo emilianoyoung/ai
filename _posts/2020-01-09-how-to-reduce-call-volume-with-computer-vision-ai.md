@@ -39,6 +39,21 @@ related:
       - url: https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
+  - title: "Now, computer classes for the vision-impaired"
+    excerpt: "Through their mobile blind school, Tiffany, who is vision-impaired herself, is now providing computer training with the aim of getting people placed in IT companies. With the aim of empowering more visually-impaired people so that they can contribute to the society, Jyothirgamaya Foundation in association with Wecreatelives, an organisation ..."
+    publishedDateTime: 2020-01-14T01:51:00Z
+    sourceUrl: https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.html
+    ampUrl: https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.amp
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/14/w600X390/Now.jpg
+        width: 600
+        height: 390
 
 secured: "aLeer50wY+u7Oh+QkMCJdO91FR+K4rkQVj89LlrkGNHEkeeQmT6rG9sn9BxKY6aSh31TxlG7fXUC+8E4vJGFbO5kLpaCyx3djmU0Pc2NmfO/tNGrdq8fpxAeuPzi3MurcwzhNNg8DmGyY/QGfveiHSe5erw9yELmzmAnyfrSYW2X0Z/+wJYKpwRyNLBWqxW5Y+3f2KHeBtJLkR6rqF/C32eBcnRF1B+epIoGIYgH0jSomp/Flr6ljfaouuP0IJowv8wXIHstJ6OJ2USw2y9HHGwFhGOTPYBmVOYCaSwaVyE=;ieryP6WDhx98xqnYs4EDxA=="
 ---

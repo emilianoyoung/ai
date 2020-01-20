@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +29,21 @@ images:
     title: "6Sense raises $40 million to automate B2B sales processes with AI"
 
 related:
+  - title: "Zinier raises $90 million to embed field service work with AI and machine learning"
+    excerpt: "Zinier’s eponymous suite delivers insights, general recommendations, and specific tasks by running operations metrics through proprietary AI and machine learning algorithms. As for ISAC, it triggers preventative actions based on equipment health while anticipating stock transfers, and it scans technicians’ calendars to help define ongoing ..."
+    publishedDateTime: 2020-01-15T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/
+    ampUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 98
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/Mockup-1-e1578777547819.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "Scoutbee raises $60 million to expedite supplier discovery with AI"
     excerpt: "That’s why in 2015, four German entrepreneurs — Christian Heinrich, Fabian Heinrich, Gregor Stühler, and Lee Galbraith — founded Scoutbee, which develops and sells access to an AI-driven supplier discovery platform. After raising $12 million in June 2019 to lay the runway for future growth, the company this week closed a $60 million ..."
     publishedDateTime: 2020-01-20T13:00:00Z
@@ -44,19 +59,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/logo-orange-small-e1579119365676.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "scoutbee raises $60M Series B investment in mission to transform industries with AI-driven supplier discovery"
-    excerpt: "scoutbee enables the right purchasers and the right suppliers to connect - anywhere in the world. By leveraging AI and Big Data to generate deep insights and transparency, scoutbee drives more valuable and confident business relationships. Gregor Stűhler, Co-founder and Managing Director of scoutbee, said, \"The significant new funding ..."
-    publishedDateTime: 2020-01-20T14:18:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scoutbee-raises-m-series-b-investment-in-mission-to-transform/article_8efd4ce4-eaab-5708-b078-036085739685.html
+  - title: "Iconiq leads $90M round for AI-powered field service startup Zinier"
+    excerpt: "The San Francisco startup this morning announced that it has clinched a $90 million funding round ... ISAC provides features for handling core tasks such as scheduling repairs and dispatching technicians, plus an AI-powered automation layer that optimizes the flow of work. The platform suggests specific actions that field service teams ..."
+    publishedDateTime: 2020-01-16T00:36:00Z
+    sourceUrl: https://siliconangle.com/2020/01/15/iconiq-leads-90m-round-ai-powered-field-service-startup-zinier/
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/unsplash.png
+        width: 718
+        height: 400
 
 secured: "6RrCI2r8ghrrYCrKUbF+1BKNenhqJP3OhnrGqCS2MqW4HxNwNEIhzUrdoKTzo/o0zM+KPWZxmktFmmlHznz9F/MIfJ4K+MklfZM07M+x79qOZLN9VYVtPQVeGgchcdvrUyt8r8XS0OUKVmeOuPK32BxCX4XnNFZ+XV3SN39waZtz+zg1VaTNzDe2nsf7ggyaFA1QO9WyKmBzNn4TTvep/n8U7BpC73KNCtgvwbh844JUawAGNCWqKZM+8fZbwMCUKQH5KL4QgfkwEDQBNWpdxPfjOb7PA95SaJTwgwYH8UJetpAAc2VN9erZn8yF5r7BNlPlY7Sy8E0ZJ0GJXYw4Dtih1iW9ZbIyZE6WrlFSXv8mL01csYZFsld6BGv2piBL6In+Yxe0PvzXWe4KTCCDgjyftG6tQFnPOeciSTfeqBCz50GjVnjQ9Y1xU3NgZncWcNJrQtplvpnpm3vtkTvrmg==;vlDbZ6aiXxEk437AKVg9Ww=="
 ---

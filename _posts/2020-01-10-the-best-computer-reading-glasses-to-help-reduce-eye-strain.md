@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?a
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "The best computer reading glasses to help reduce eye strain"
 
 related:
+  - title: "Now, computer classes for the vision-impaired"
+    excerpt: "Through their mobile blind school, Tiffany, who is vision-impaired herself, is now providing computer training with the aim of getting people placed in IT companies. With the aim of empowering more visually-impaired people so that they can contribute to the society, Jyothirgamaya Foundation in association with Wecreatelives, an organisation ..."
+    publishedDateTime: 2020-01-14T01:51:00Z
+    sourceUrl: https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.html
+    ampUrl: https://www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2020/jan/14/now-computer-classes-for-the-vision-impaired-2089132.amp
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/14/w600X390/Now.jpg
+        width: 600
+        height: 390
   - title: "How to reduce call volume with Computer Vision AI"
     excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
     publishedDateTime: 2020-01-09T00:47:00Z

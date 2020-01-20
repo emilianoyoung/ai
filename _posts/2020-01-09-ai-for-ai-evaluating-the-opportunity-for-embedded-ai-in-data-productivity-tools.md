@@ -8,7 +8,7 @@ ampUrl: https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-pro
 cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       - url: https://winbuzzer.com/wp-content/uploads/2016/06/Microsoft-LinkedIn-Microsoft.jpg
         width: 1024
         height: 683
-  - title: "How Hollywood Is Using AI To Churn Out The Perfect Formula For A Cinematic Blockbuster"
-    excerpt: "Dubbing is another considerable aspect of Bollywood that is believed to be achieved better with AI. In the hopes of pushing movies to a broader reach, Eros Now has collaborated with Microsoft to use its Azure platform — AI speech translation engine, for dubbing Hindi movies into different languages. When asked, Rishika Lulla Singh ..."
-    publishedDateTime: 2020-01-14T12:05:00Z
-    sourceUrl: https://analyticsindiamag.com/how-hollywood-is-using-ai-to-churn-out-the-perfect-formula-for-a-cinematic-blockbuster/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 11
 
 secured: "nWfytEgXch1wslx2aWqos/6+8pvZPD5X5nh7H2hLJkbCDLXCNaDfqc2wxgmblwG2CD2yaQXZWnV/MypT2xDcVWiEiJn5ucfptClSE23aQjjnd2jcbgLdDcMwbtqUK/ENNZfj2peKrL1+U8iA17lE0QL1zFP6mgUGjodk6LNGox1sXBgM/UiM5bU91j1YF9T7M8vj2/JfuppF/FhD/jYKafRu8jhH3WKcfctl0QTMZeg94v0+1eTE3eezLgBl48kGr3nrIeQhDXh6M/G+zxzBBmkY79O8ztZZ5UYCVv/QhGixBPXPwfEaWtcjApdDwdAFiOyMqMNimBPLP7PjS0COgZInLZdkhmOsufzSvSqZFrDzuzwWJRedpFGfSH62ckCFb5sUdwoKf08WGnQRbdtT1f7g9c2ahB9C0Ymyx1JijxNFDxd/A/1f+rU64srtWKMDqswlTmIEG1XyYal8ezIsow==;BVRU0MD4cy12MSRcHSRsDQ=="
 ---

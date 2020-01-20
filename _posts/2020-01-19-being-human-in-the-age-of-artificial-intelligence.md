@@ -8,7 +8,7 @@ ampUrl: https://www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-huma
 cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
 type: article
 quality: 57
-heat: 77
+heat: 67
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: https://images.livemint.com/img/2020/01/16/600x338/artificialhuman_1579187524244.jpg
         width: 600
         height: 337
-  - title: "Artificial intelligence, human gene-editing ethics and more at the AAAS Annual Meeting in Seattle"
-    excerpt: "SEATTLE, Wash. -- The growing use of artificial intelligence in society, how math can help address political gerrymandering, the ethics of human gene-editing, and the spread of infectious disease among ocean organisms will be discussed at the 2020 American Association for the Advancement of Science (AAAS) Annual Meeting, the world's largest ..."
-    publishedDateTime: 2020-01-13T15:02:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/aaft-aih011320.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 43
-    images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
 
 secured: "eGaoLrenntAIlpgOCqsJ/8Pi9FWcJNLbTrpuaa7umrqUzmv2lB3PLZQnlcpo7P4oNaxRLWLH7IvDT6n6FqDpHmvbCeodc5RXCapGXuyzROuPEqv90iXpzr3cg+Uc8g+P4Ox4SMMUBAywgPO2BHDwl3oit/IgoBKhhy8WNnfAQmYL5jCjajg6H4As9vpkz2x+G09R+2lomgk7WiRCcFhFL1lLtOdnEyecG6NVWJacSiqX1p5ZmY5PArBUV5TVYHnCFrrJG4/piWZBfCgpMa6LU3pfPtVhNUxEEx7L7ccNIju/N8N4Zkr788O5MLRLW40zCUW+WwWeSPzF0gnZPX85CMVKgPaKWyJhLx+790oLHde39rsHApE7ID+wSsqtEnEgNFWp63o5QpQe7bVyd+iz2tO1KuZTdyJgjIUH+tiPt2Uu2wF/FKf7ZyxPrkocz3yFKkZMq8QEzdQC5uwhRews1Q==;Qht75AAqSZXrkmQA83CJ8A=="
 ---

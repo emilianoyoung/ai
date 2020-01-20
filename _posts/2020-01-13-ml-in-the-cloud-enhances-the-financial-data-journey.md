@@ -18,19 +18,19 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Major Brazilian Bank Tests Homomorphic Encryption on Financial Data"
-    excerpt: "An entity performing computation may be legitimate but at the same time curious about your information: When you ask a cloud service how long it takes to get to work ... The first step was to use HE to encrypt transaction data, as well as the machine learning-based prediction model. Financial analysts usually pinpoint factors in someone's ..."
-    publishedDateTime: 2020-01-10T19:47:00Z
-    sourceUrl: https://www.darkreading.com/threat-intelligence/major-brazilian-bank-tests-homomorphic-encryption-on-financial-data/d/d-id/1336779
+  - title: "Fiserv enhances DolEx’s retail financial services through AML tech"
+    excerpt: "Fiserv, Inc., a global provider of financial services technology solutions announced that DolEx Dollar Express ... cross-channel monitoring and interdiction solution for electronic payments. Both technologies make use of machine learning to detect suspicious transactions and thereby provide nearly accurate fraud detection and fewer false ..."
+    publishedDateTime: 2020-01-17T09:17:00Z
+    sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/fiserv-enhances-dolexs-retail-financial-services-through-aml-tech/
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: IBS
+      domain: ibsintelligence.com
     quality: 39
     images:
-      - url: https://twimgs.com/nojitter/darkreading/dr-logo.jpg
-        width: 600
-        height: 600
+      - url: https://32thcv3s4g2f4bru3o3jkumf-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/riskfirst-1-300x300.jpg
+        width: 300
+        height: 300
 
 secured: "H/keUK2zZvoTe2C5LMyNVTlQXBR0yS/CSbNwZ6r1XxbfL8Wh7zLSH+TgVXGGY6ITnZCBZLjLgB/FvrTJRvb21GPjhCJCt7ZE6ytjEVo1sUt4VF988AopKiIzGBk1Y62+IoxjhqPs/8VczS+FFNXFlX7thyOAHHV26DKXpSBHz9NnV2+Ik5izGPgwiWtbLixUcG1Za94bvTlBD8/s7w9kSnHk8U4FAenJnao8NDzdy+eZJFfDyO6Z8u7sJOS4nA/slipXW561cCqGnUa6r6Um6az4YNTp47F4//v0lQcs/smtTScmQc8GPzjqJVuzLNxJGZIoVAf4QDl6epaeXF70ggYE1miPjEJJdPP/n4u7BWrV7jVtjJW0VetiF1UpXyE7BLy8iysAHyV7ig7FTnRFY3tsbSXKR9OGLt/5QVNpZ5yn8PpNpq6/b0CUmtHJalw/dwfbByMYr70aNfHCPpnjVA==;a5KsZNgVZLuY0YRTNczUMA=="
 ---

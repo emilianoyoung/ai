@@ -20,75 +20,49 @@ topics:
   - Google AI
 
 related:
-  - title: "Don't want a robot stealing your job? Take a course on AI and machine learning."
-    excerpt: "TL;DR: Jump into the world of AI with the Essential AI and Machine Learning Certification Training Bundle for $39.99, a 93% savings. From facial recognition to self-driving vehicles, machine learning is taking over modern life as we know it. It may not be the flying cars and world-dominating robots we envisioned 2020 would hold, but it's ..."
-    publishedDateTime: 2020-01-16T19:44:00Z
-    sourceUrl: https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/
-    ampUrl: https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp
+  - title: "Dive into AI and machine learning with this $40 training"
+    excerpt: "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ..."
+    publishedDateTime: 2020-01-19T14:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/
+    ampUrl: https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 121
+      name: Engadget
+      domain: engadget.com
+    quality: 104
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=
-        width: 1200
-        height: 630
-  - title: "Want optimized AI? Rethink your storage infrastructure and data pipeline"
-    excerpt: "This article is part of the Technology Insight series, made possible with funding from Intel. Most discussions of AI infrastructure start and end with compute hardware — the GPUs, general-purpose CPUs, FPGAs, and tensor processing units responsible for training complex algorithms and making predictions based on those models. But AI also ..."
-    publishedDateTime: 2020-01-16T19:20:00Z
-    sourceUrl: https://venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/
-    ampUrl: https://venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/amp/
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa
+        width: 600
+        height: 350
+  - title: "Explore Machine Learning and Data Science With This $35 Training Bundle"
+    excerpt: "Looking forward into the next decade, machines are likely to become much smarter. In the meantime, they need to start learning by analyzing vast amounts of data. The Machine Learning & Data Science Certification Training Bundle helps you explore this exciting field, with eight in-depth courses. You even learn how to build your own intelligent apps."
+    publishedDateTime: 2020-01-13T13:17:00Z
+    sourceUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/
+    ampUrl: https://www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/explore-machine-learning-and-data-science-with-this-35-training-bundle/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 76
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/02/AI.cybersecurity.GettyImages-543194863-e1571944479196.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Driverless Trucks Coming Your Way?"
-    excerpt: "The company is seeking to transform long-haul trucking by using AI (artificial intelligence) to create self-driving trucks ... Nevertheless, the fact that many companies are investing in driverless trucking technology and that TuSimple’s tests have been so successful give us reason to believe we may be seeing them sooner than we think."
-    publishedDateTime: 2020-01-16T14:19:00Z
-    sourceUrl: https://www.jewishpress.com/sections/scitech/electronics-today/driverless-trucks-coming-your-way/2020/01/16/
+      - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
+        width: 630
+        height: 473
+  - title: "Understand AI and Machine Learning With This $40 Training Bundle"
+    excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
+    publishedDateTime: 2020-01-16T16:00:00Z
+    sourceUrl: https://www.extremetech.com/deals/304990-understand-ai-and-machine-learning-with-this-40-training-bundle
     type: article
     provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 39
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
     images:
-      - url: https://www.jewishpress.com/wp-content/uploads/Halperin-Tech-Talk-logo_JP_a.jpg
-        width: 900
-        height: 500
-  - title: "You should stop worrying about robots taking your job"
-    excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
-    publishedDateTime: 2020-01-20T06:11:00Z
-    sourceUrl: https://www.wired.co.uk/article/robots-human-jobs
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: https://wi-images.condecdn.net/image/MLZdlXaxPy5/crop/1440/0.5235602094240838/f/w30_04_byrona_final.jpg
-        width: 1440
-        height: 753
-  - title: "Kubota to release self-driving rice planting machine in October"
-    excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
-    publishedDateTime: 2020-01-16T07:45:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2020/01/16/business/corporate-business/kubota-self-driving-rice-planting-machine/
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 24
-    images:
-      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/b-kubota-a-20200117-870x951.jpg
-        width: 870
-        height: 951
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/sale_25319_primary_image_wide.jpg
+        width: 992
+        height: 558
 
 secured: "QllzaJelbOETKKC5lpDttDkz4gXlrW/Lwilh+GPP0bITWi4FRZqP4ntvoUfRv0GfDY0x03olsaGn1EB9Y4xaz+bclSiWJbs7Dc+NPGh+E4ko0+tWmvE/8BaJUNVyDy3i4OUMmiLqtfZzX+mPdYJmXjHAMgZkYFo8v6E2XpNiegdHwH8ebCOYSojf5D0Fh9I/xqMuxEnzOmB6m5AWZpKpINWyDu2igogip5gLQsGLs1+2S+Sm/pLvgLCIhEJ7tnuRq0/5cjegm8uze4IbOW3my6mvS7zvwyP7RAAu1miQ16vNLdkrVsM6qtPfQ7D5IGKn0vpf5OxKggkl4Oz0OGbGht5VMoRuYoItjx0bBc6P0RUVgINDD9LS4yVs3BLeasY+p4ZgSJG6jsYsxh80GotsBXWl2ahEAfaPS0rvJ6B5vEZr0yZX3y/VDfr9J40FqDj0TcvzYRMA05GASYlE8I6XoA==;nzzW7aYgvheDRLwl+YEUhA=="
 ---

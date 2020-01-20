@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
 type: article
 quality: 94
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -31,21 +31,21 @@ images:
     title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
 
 related:
-  - title: "The AI that allows self-driving cars to ‘see’ around corners"
-    excerpt: "Researchers at US universities have created an imaging system powered by artificial intelligence that could help self-driving cars \"see\" around corners in minute detail to identify hazards. The imaging system uses a conventional camera sensor and a laser beam that can be \"bounced\" off walls and onto objects to create a pattern – visually ..."
-    publishedDateTime: 2020-01-16T15:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/
-    ampUrl: https://www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/16/ai-allows-self-driving-cars-see-around-corners/amp/
+  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
+    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
+    publishedDateTime: 2020-01-13T00:26:00Z
+    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
+    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
+      name: BGR
+      domain: bgr.com
+    quality: 54
     images:
-      - url: https://www.telegraph.co.uk/content/dam/technology/2019/08/23/TELEMMGLPICT000206524925_trans%2B%2BKU-op6n8Xxa2ymKjnWOvoZ3L9sb6nC3JvvgkmFaL7wc.jpeg
-        width: 2501
-        height: 1563
+      - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
+        width: 1200
+        height: 680
   - title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
     excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
     publishedDateTime: 2020-01-17T14:43:00Z
@@ -61,6 +61,34 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
         width: 1200
         height: 751
+  - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
+    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
+    publishedDateTime: 2020-01-20T14:28:00Z
+    sourceUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/
+    ampUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 900
+  - title: "Kubota to release self-driving rice planting machine in October"
+    excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
+    publishedDateTime: 2020-01-16T07:45:00Z
+    sourceUrl: https://www.japantimes.co.jp/news/2020/01/16/business/corporate-business/kubota-self-driving-rice-planting-machine/
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 24
+    images:
+      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/b-kubota-a-20200117-870x951.jpg
+        width: 870
+        height: 951
 
 secured: "0Vbl3umjqA9OcIP62K1g4Dw9RwLIL8xwGd3jj0hlkZkGalBB6izEJNouwErl3S2bnr26XsieDq003fTFU8/vNgqU9T8vQ3QGmaf5rYTvfnM4fPFdJFNiQyPzSp7siXkbDoE3kd6lCKt73tO7FTWOTOqXS+K5yDS1b7QdUhE/CtHjg/87c6J4lcdHnAmw1kZao8nu/7WAlS1ju3kYWEIJRI76uan/Z0gSU50jJ+PiNEOQYMM1i0gyTdYX8ECEqz24uzQzCfQ/BrRWDAMm7SBiJmp1+Y6VzJtAXnRoQ9/UC+tyQfaoL8PZOBTiW5oq2npOBaUPICJyfv/3GP5jCqSO4OI/tW9RagL//zxILVoDRlv6zJn9k/0Y1gkdMEoJhRFUeFcqsUoP8T1XU+xAmSNMAy2/C9hXW87OQF2LvKkJMhTsMu5ApGtnSFD6j9CmqN0+jtjQqhI32cAJLgwm9PIyuw==;gt8aO8MArJHQGaj7+1U2WQ=="
 ---

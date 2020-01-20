@@ -26,36 +26,73 @@ images:
     title: "The AI that allows self-driving cars to ‘see’ around corners"
 
 related:
-  - title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
-    excerpt: "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,"
-    publishedDateTime: 2020-01-18T15:55:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
+  - title: "Researchers propose system that taps AI to see hidden objects around corners"
+    excerpt: "To reconstruct the object from the speckle pattern, the researchers tapped an AI algorithm trained on synthesized data of characterized noise, which eliminated the need to capture experimental training samples. Crucially, it’s able to operate with the shorter exposure times necessary for real-time imaging, exaplined coauthor Prasanna ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/researchers-propose-system-that-taps-ai-to-see-hidden-objects-around-corners/
+    ampUrl: https://venturebeat.com/2020/01/16/researchers-propose-system-that-taps-ai-to-see-hidden-objects-around-corners/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/researchers-propose-system-that-taps-ai-to-see-hidden-objects-around-corners/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 94
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415
-        width: 1200
-        height: 799
-  - title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
-    excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
-    publishedDateTime: 2020-01-17T14:43:00Z
-    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/
-    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/df112978-8d5f-4235-80dd-264758329d91-e1579063150693.png?fit=831%2C414&strip=all
+        width: 831
+        height: 414
+  - title: "Artificial Intelligence Can See Around Corners in Real Time"
+    excerpt: "Detailed, fast imaging of hidden objects could help self-driving cars detect hazards. Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars “look” around ..."
+    publishedDateTime: 2020-01-16T15:37:00Z
+    sourceUrl: https://scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/
+    ampUrl: https://scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/amp/
+    cdnAmpUrl: https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-see-around-corners-in-real-time/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 50
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 59
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
-        width: 1200
-        height: 751
+      - url: https://scitechdaily.com/images/Imaging-Around-Corners-777x524.jpg
+        width: 777
+        height: 524
+  - title: "Artificial Intelligence system created to allows self-driving cars to 'see' around corners"
+    excerpt: "An artificial intelligence system that allows self-driving cars to 'see' around corners in real time could help prevent accidents, according to its developers. Researchers from Stanford University in the USA have created a system that bounces a laser beam off a wall to create an 'image' of objects hidden from view. The 'image' captured won't ..."
+    publishedDateTime: 2020-01-17T09:32:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7898531/amp/Artificial-Intelligence-created-allows-self-driving-cars-corners.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 49
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/17/09/23514880-0-image-a-98_1579253477085.jpg
+        width: 636
+        height: 382
+  - title: "Deep learning enables real-time imaging around corners"
+    excerpt: "Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars \"look\" around parked cars or busy intersections to see hazards or pedestrians. It could also be installed ..."
+    publishedDateTime: 2020-01-16T15:10:00Z
+    sourceUrl: https://phys.org/news/2020-01-deep-enables-real-time-imaging-corners.html
+    ampUrl: https://phys.org/news/2020-01-deep-enables-real-time-imaging-corners.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-deep-enables-real-time-imaging-corners.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
+  - title: "Report: Detailed, fast imaging of hidden objects could help self-driving cars detect hazards"
+    excerpt: "Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars “look” around parked cars or busy intersections to see hazards or pedestrians. It could also be ..."
+    publishedDateTime: 2020-01-16T20:29:00Z
+    sourceUrl: https://www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/
+    ampUrl: https://www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/amp/
+    cdnAmpUrl: https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/amp/
+    type: article
+    provider:
+      name: Tunisie Soir
+      domain: tunisiesoir.com
+    quality: 28
 
 secured: "q53m3IwdSuXdUZb3tG9C9yMtvfIgOKLo7zEnp15SCfRMJ1R7x5epWAC3hd/15t6sajdpuuXChm7B1ppRMEtrxNXCt0GeD6bYrvCZoawGPZyKe27YYpNaWaXWHOtgqA5ZQZ2ydnXRKy7JCVf9b1+5faW4Dl5H1M9/JwMseFq6PdA1eMH9Jjwy+xJgOLE8yaCqueJanfiTjZN51ycmNuGRnZv7AOrmsripzMGDVk9HRx4ibA5nhJR6LS4yTr6s3nnu2RfsKAW/hzXeCHp3BIgOLM0LQVBIMv23oNhXf43oTmlv42RBa198QmeyA76q+ZV2pAvi7FMbKOaCTs0bFgN+ZfwRtVYcWg+x/cZJrAEF2n81kwwjPJkIMUHfEtiwUIwQlYxB7AiaVHKt9jqNvXainCvfWksjj0G+OCGJf6P+15CfadTZquWaLy3CyQ0jIe1Txte8O7gtSak/+46v3PBiiA==;EBJJjOig/LdEVUESmh1Swg=="
 ---

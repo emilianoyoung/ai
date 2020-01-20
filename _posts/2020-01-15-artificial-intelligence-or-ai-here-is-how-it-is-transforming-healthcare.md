@@ -56,32 +56,19 @@ related:
       - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
         width: 300
         height: 250
-  - title: "Crouse Health brings artificial intelligence to stroke care"
-    excerpt: "Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm focuses on using applied artificial-intelligence software in health care to “reduce time to treatment and improve patient outcomes,” per Crouse Health’s Thursday news release."
-    publishedDateTime: 2020-01-09T21:56:00Z
-    sourceUrl: https://www.cnybj.com/crouse-health-brings-artificial-intelligence-to-stroke-care/
+  - title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
+    excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
+    publishedDateTime: 2020-01-17T06:11:00Z
+    sourceUrl: https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry
     type: article
     provider:
-      name: Business Journal News Network
-      domain: cnybj.com
+      name: Insurance Post
+      domain: postonline.co.uk
     quality: 39
     images:
-      - url: https://www.cnybj.com/media/14947/crouse-health-sign-on-hospital-er-b.jpg
-        width: 400
-        height: 300
-  - title: "Crouse Health using AI software for stroke care"
-    excerpt: "A company called Viz.ai is providing the system. Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm says it focuses on using applied artificial intelligence (AI) software in health care to “reduce time to treatment and improve patient outcomes,” per a Crouse Health news release. When a patient is transported to ..."
-    publishedDateTime: 2020-01-17T17:31:00Z
-    sourceUrl: https://www.cnybj.com/crouse-health-using-ai-software-for-stroke-care/
-    type: article
-    provider:
-      name: Business Journal News Network
-      domain: cnybj.com
-    quality: 39
-    images:
-      - url: https://www.cnybj.com/media/16828/revitalize_download-square.jpg
-        width: 625
-        height: 521
+      - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
+        width: 378
+        height: 234
 
 secured: "DFuhH0p1RVPaim9jaHmlL+tKofcb3qjSZh9Bmne2kw2+quzmZffggg1/Rfm5OmGGoVmpivpU4jFtnSpYu5fmv7NNTnp+5wCVqGzqkaRfnwXvCQboVPr+kJMaxp6bM2surp+3rQ9tYo2MXvve8t40V1DgpZV/PFZFoFxfTZZHkFMJQ2IHuaUxXkFpLrDTqw5ZXvWT1t+N2DP01yZexPDKMjpg+flTEQXXjMl5Jc49U1zT/2qmodQ92Sod5bnEfqj2pJcDufSOA+nDiG5/sSdmALUOdkDp3bv0dCdxInojzpw=;0JjoITKAKkiS3/ctPyz81w=="
 ---

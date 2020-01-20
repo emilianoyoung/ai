@@ -24,71 +24,66 @@ images:
     title: "Kubota to release self-driving rice planting machine in October"
 
 related:
-  - title: "Don't want a robot stealing your job? Take a course on AI and machine learning."
-    excerpt: "TL;DR: Jump into the world of AI with the Essential AI and Machine Learning Certification Training Bundle for $39.99, a 93% savings. From facial recognition to self-driving vehicles, machine learning is taking over modern life as we know it. It may not be the flying cars and world-dominating robots we envisioned 2020 would hold, but it's ..."
-    publishedDateTime: 2020-01-16T19:44:00Z
-    sourceUrl: https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/
-    ampUrl: https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp
+  - title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
+    excerpt: "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,"
+    publishedDateTime: 2020-01-18T15:55:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 121
+      name: Forbes
+      domain: forbes.com
+    quality: 94
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415
         width: 1200
-        height: 630
-  - title: "Want optimized AI? Rethink your storage infrastructure and data pipeline"
-    excerpt: "This article is part of the Technology Insight series, made possible with funding from Intel. Most discussions of AI infrastructure start and end with compute hardware — the GPUs, general-purpose CPUs, FPGAs, and tensor processing units responsible for training complex algorithms and making predictions based on those models. But AI also ..."
-    publishedDateTime: 2020-01-16T19:20:00Z
-    sourceUrl: https://venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/
-    ampUrl: https://venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/amp/
+        height: 799
+  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
+    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
+    publishedDateTime: 2020-01-13T00:26:00Z
+    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
+    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
+      name: BGR
+      domain: bgr.com
+    quality: 54
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/02/AI.cybersecurity.GettyImages-543194863-e1571944479196.jpg?fit=1200%2C600&strip=all
+      - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
         width: 1200
-        height: 600
-  - title: "Driverless Trucks Coming Your Way?"
-    excerpt: "The company is seeking to transform long-haul trucking by using AI (artificial intelligence) to create self-driving trucks ... Nevertheless, the fact that many companies are investing in driverless trucking technology and that TuSimple’s tests have been so successful give us reason to believe we may be seeing them sooner than we think."
-    publishedDateTime: 2020-01-16T14:19:00Z
-    sourceUrl: https://www.jewishpress.com/sections/scitech/electronics-today/driverless-trucks-coming-your-way/2020/01/16/
+        height: 680
+  - title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
+    excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
+    publishedDateTime: 2020-01-17T14:43:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
     type: article
     provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 50
     images:
-      - url: https://www.jewishpress.com/wp-content/uploads/Halperin-Tech-Talk-logo_JP_a.jpg
-        width: 900
-        height: 500
-  - title: "You should stop worrying about robots taking your job"
-    excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
-    publishedDateTime: 2020-01-20T06:11:00Z
-    sourceUrl: https://www.wired.co.uk/article/robots-human-jobs
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
+        width: 1200
+        height: 751
+  - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
+    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
+    publishedDateTime: 2020-01-20T14:28:00Z
+    sourceUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/
+    ampUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
+      name: KTLA
+      domain: ktla.com
+    quality: 44
     images:
-      - url: https://wi-images.condecdn.net/image/MLZdlXaxPy5/crop/1440/0.5235602094240838/f/w30_04_byrona_final.jpg
-        width: 1440
-        height: 753
-  - title: "Enabling AI with Intel’s Deep Learning Boost"
-    excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more."
-    publishedDateTime: 2020-01-14T17:15:00Z
-    sourceUrl: https://www.electronicdesign.com/technologies/embedded-revolution/article/21120470/enabling-ai-with-intels-deep-learning-boost
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 38
+      - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 900
 
 secured: "wCcJ7d84CRBv4/QHIrtNXntQkjy2ymHAsfqNOdn7Za4632vX14Upp2PVY6CVJtjtzJp/1H8ULnWhIjBWeat0yCdZZmNzshneMNmo5lGt/YiHonHS9dkoqReF0chzFTWkEXFvVAZdpw48lrJiDC+WuXk1HUCKqgaEAMT94jxr/wu9XI8dfVVPwJvkywIoBW9vLd0jW4OcLDcbnGjf4MHU0SV3OjUteOjFsxrXfwkyCd4vDg3rCS5w6ugy5LVbLIiKrWUvjfLcY43T7CuRo6s1O9XuBpkEL3cPFHRgrFlOxroiYxOu3D9fjEUeRwePbWcq/4pFd4TQp7PCNvSPSjZwezyxycFgOd6yiFQyDm6+Hpu38wvq56Bcuq9fExmEJinqVMkTEVC1IgJkYu57DsCvUmYcjc1u2qviKONDY+UqTC+LYKTrELG6+abQ/PuYmD1XnBXgbC0K36sBv7v8uTfXiA==;NUtrufi2zSRs7fkqowRBqw=="
 ---

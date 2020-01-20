@@ -39,15 +39,6 @@ related:
       - url: https://diginomica.com/sites/default/files/images/2014-11/magnifying-glass.jpg
         width: 1694
         height: 1122
-  - title: "How Hollywood Is Using AI To Churn Out The Perfect Formula For A Cinematic Blockbuster"
-    excerpt: "Dubbing is another considerable aspect of Bollywood that is believed to be achieved better with AI. In the hopes of pushing movies to a broader reach, Eros Now has collaborated with Microsoft to use its Azure platform — AI speech translation engine, for dubbing Hindi movies into different languages. When asked, Rishika Lulla Singh ..."
-    publishedDateTime: 2020-01-14T12:05:00Z
-    sourceUrl: https://analyticsindiamag.com/how-hollywood-is-using-ai-to-churn-out-the-perfect-formula-for-a-cinematic-blockbuster/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 11
 
 secured: "0WQcVCUZpTVBqNDTGQlciemyM8W3GCdQ9E9m3p8bq/7MdAGU5yRyw8gycYxKi9PvF6V8JkrVujKO9CjX+miI0n6Rpsx5ofQUVr+sftXB8K8ikcCs6llgIz0lkzzUAaQN3Or3mIXncPm14pZSlbQlNT9OjK1dPqP/N+1RTsJT1IhZ5EtB4bKWWXOghItIgjJXfFeFyV5lJYks/xfsLrshAKCJSHhsAm392ALJjkB05iNa4uni3UZsWGy7vNDW0w8eh8pLo90kBj422ZgxeN9uELcWnIHf9wPWdrOyCuP5SbYrm7F/E+jz6tbhTOToYwYSRJ1nE4tnlm6Th2t47zigLNEQVYTkv5RZNTvX9Wehn+cFpJpJttVutRo85s8uK9Y5qFUnWRKF0PYJQDZWrzmtrjXqhyr8Z7MOehhXMMi7A/2TyQnidSLuoXj57HYLSEx3ktzdIUWAaCoKsyCY0tgyUQ==;y05+MqkMnuthDGlPyc7jlw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T14:35:00Z
 sourceUrl: https://www.meritalk.com/articles/senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts/
 type: article
 quality: 137
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -21,23 +21,6 @@ images:
     width: 800
     height: 450
     title: "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts"
-
-related:
-  - title: "Lawmakers introduce bill to bolster artificial intelligence, quantum computing"
-    excerpt: "Key senators on Tuesday introduced a bill to bolster U.S."
-    publishedDateTime: 2020-01-14T23:28:00Z
-    sourceUrl: https://thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum
-    ampUrl: https://thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/478273-lawmakers-introduce-bill-to-bolster-artificial-intelligence-quantum?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 55
-    images:
-      - url: https://thehill.com/sites/default/files/wickerroger_010920gn_lead.jpg
-        width: 980
-        height: 551
 
 secured: "NIh1j9wAWMepdZcoFLlITzWRCd4aO1+iFTyfzrd85eLeVzU2K/FcZ2+p1Q3JfeegEvphwatVTqq1XfrhYW3W5j1sw/JIqm6+QS790WdnJMSbgySg05BM0qj5MzSxzqoSVSteHEu4gsDCmXATLQgcE6Cj02Sj15lHNymkCUWgXpz18cCF2Byvfjge+DnyjwmMzcueZ7+pwYFi75rDDt2HieL5XToL5UQRLqqYAMCCpaU6AKICrTVMpoqFEATuzvCu3grAZ5ijb5fEc65p5bxj7MBV4lgOSe+x1raoUhPWrAVZkcufKEmbvCISvVcXTiR/mT/OhNkBO41kO5g2t+rZ2vYSeChJWcePKZLFYTiuXcB7ZCErNA8UF5EVmJJyoCqzIDwf2bqVrnnJzUFFsaVtghd4HFNWhF8C62aTFSQWxwUiygOWAwoC27UlqhkCG5bJL8MGCKDyE9SaaFTQObsxvuzaWCf42BSJ3pMRSu6SXA0=;ucHWRRrfU2KjUNfOOtOhFQ=="
 ---

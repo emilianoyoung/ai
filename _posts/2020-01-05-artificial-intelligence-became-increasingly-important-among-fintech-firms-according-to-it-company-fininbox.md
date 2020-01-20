@@ -25,21 +25,6 @@ images:
     height: 267
     title: "Artificial Intelligence Became Increasingly Important Among Fintech Firms, According to IT Company Fininbox"
 
-related:
-  - title: "How This UK-Based Fintech Startup Is Using AI Credit Platform To Provide Debt Finance To SMEs"
-    excerpt: "With each passing year, the fintech sector is providing faster, flexible and secured consumer experience, and is protecting against the risks and vulnerabilities of traditional insurance and loans. In fact, the global fintech market size is expected to grow to $124.3 billion by the end of 2025 at a CAGR of 23.8%. With a vision of providing ..."
-    publishedDateTime: 2020-01-10T09:37:00Z
-    sourceUrl: https://analyticsindiamag.com/how-this-uk-based-fintech-startup-is-using-ai-credit-platform-to-provide-debt-finance-to-smes/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 28
-    images:
-      - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/aim_oaknorth.jpg
-        width: 960
-        height: 681
-
 secured: "V4lN6pcdFIg8J2nviL91SOVU3TCa7KFRIUNZNBPnqqkrlFCIo+IeWqdXjNaa05XlJF0Ml0Oc5xwgArNYea+D0602y0DQiZEyXZfAtvdHBWiYfu6Zi+8NSX99NrTi2wF1wYEDbnc2cR70aoJZYMbcrRcGCS3eLixb25FjQ2aNT5TxHJfehADpEWX/kil6gvCcb7sMUWVJ7AN5ChO1+wd/Pr2fyZlQRPi45Es8V3qboM0VKYnAVXy82jo2IMx5RNAPemVSIoxNFONjtGEKjf2X4oux59cwBLMQ5DGZBrHWB8dXoruniPMtYlenavF3YpVPzYkxNc+wLnurTCE8RvmD1Hc6uoRd01HXJ/P4O3r0Hn38nXrA1vc6JUP9YIAZ+UmWe3jzwGRVoH99jaVdkix8HaJlb7+AgOFwsur74RmLbaptkSDahyrUPXVWXpWEFWRge9sKFY/TsfXNlFRxUoW5Nw==;G4opduJAYZaIahVi9NaMag=="
 ---
 

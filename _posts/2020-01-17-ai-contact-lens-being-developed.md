@@ -68,15 +68,6 @@ related:
       - url: https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/MojoVision_1-1024x683.jpg
         width: 1024
         height: 683
-  - title: "Mojo Vision is putting an augmented reality screen on a contact lens"
-    excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
-    publishedDateTime: 2020-01-16T13:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
   - title: "Exclusive: Mojo Vision’s AR contact lenses"
     excerpt: "Before leaving Sun in 2001, Deering had built a reputation as an expert in artificial intelligence, computer vision, 3D graphics, and virtual reality. And he too had poor vision. After Sun, Deering spent a decade working out all the problems of focusing a micro-display—either within a contact lens or implanted in the eye—at the retina."
     publishedDateTime: 2020-01-16T11:00:00Z

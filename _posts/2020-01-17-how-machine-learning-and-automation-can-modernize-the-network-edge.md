@@ -25,34 +25,6 @@ images:
     height: 638
     title: "How machine learning and automation can modernize the network edge"
 
-related:
-  - title: "Deep neural networks for automated detection of marine mammal species"
-    excerpt: "We show that deep-learning architectures are capable of producing false-positive rates that are orders of magnitude lower than alternative algorithms while substantially increasing the ability to detect calls. We demonstrate that a deep neural network trained with recordings from a single geographic region recorded over a span of days is ..."
-    publishedDateTime: 2020-01-17T10:35:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-020-57549-y
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-57549-y/MediaObjects/41598_2020_57549_Fig1_HTML.png
-        width: 685
-        height: 258
-  - title: "Natural language processing is the next step to automation"
-    excerpt: "This is where machine learning and more specifically, natural language processing (NLP), are having a real impact. However, voice NLP is not as mainstream within FIs as it is in daily life. Butterworth explains that this can be put down to “legacy telephony infrastructure and very low-quality audio which means that the accuracy rate is quite ..."
-    publishedDateTime: 2020-01-13T15:10:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/35053/natural-language-processing-is-the-next-step-to-automation
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: https://www.finextra.com/finextra-images/top_pics/xl/natural-language-processing.png
-        width: 480
-        height: 270
-
 secured: "X6dPYkmzpY2V8DSRK4sTuBUMOjbKAwfxzG1+tVIsg/gEchZz0/z/u4HDdOGF3ZYPt42PSXCm8FAX9hoo9nYVmxz0xuZm9A5sMDkWQMm9yO+PtEsziytPdn8ENFyOyemrEO62bSpfvOzXcSP26z4IjeTIod7UBjkFfwx6UQRy5LWKnRs7Cl+dsD9Z1HMK2kXzmdcqRcDrRcPUFJrGNbGnjnRpjbxQ1O3AhoSDkajqvWkf6CQVBZA8PyTENEPrACfiD8ZinaxrM2t7ciP452xpCRKWrIks0rqzdCc9VwAohY9jnRDc3J5y7CTO2SiYIfuMpbVDYlusVag+ip9Ri4Zwn4m2mC8DDJswnJng62EiDysGnuJZyC0alHcAQM8Wgnd990FPRCRqKfcTgUts4I1Zd6m97BQ4AKrGdTx9ZiE/dIYVcvSOu5pxpdGSE1QMMbg45zAnFkxVSTBo3EXPOWvCmw==;y686WRFyS3GIm55GRuFVdw=="
 ---
 

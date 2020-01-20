@@ -8,7 +8,7 @@ ampUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar
 cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -20,28 +20,45 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Evolution of circuits for machine learning"
-    excerpt: "But by analysing the enormous digital data sets that are currently available, AI techniques such as machine learning can now teach computers to make sensible predictions. One of the most basic operations that machine-learning algorithms can carry out when provided with a large set of inputs (such as the age of a car and how many kilometres it ..."
-    publishedDateTime: 2020-01-16T10:18:00Z
-    sourceUrl: https://www.nature.com/articles/d41586-020-00002-x
+  - title: "Facebook apologises for rude translation of Chinese leader Xi Jinping’s name"
+    excerpt: "Facebook Inc said on Saturday it was working to find out how Chinese leader Xi ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China ..."
+    publishedDateTime: 2020-01-19T01:34:00Z
+    sourceUrl: https://www.scmp.com/news/world/united-states-canada/article/3046702/facebook-apologises-rude-translation-chinese-leader
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 21
     images:
-      - url: https://media.nature.com/lw1024/magazine-assets/d41586-020-00002-x/d41586-020-00002-x_17557546.png
-        width: 1024
-        height: 576
-  - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
-    excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
-    publishedDateTime: 2020-01-14T22:24:00Z
-    sourceUrl: https://www.fieldtechnologiesonline.com/doc/machine-vision-artificial-intelligence-transportation-s-fast-lane-to-innovation-0001
+      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/19/ebeba03e-3a19-11ea-9933-e21be988cd59_image_hires_015207.jpg?itok=J5zEDWp7&v=1579369937
+        width: 1200
+        height: 630
+  - title: "Facebook Apologises For Translating Chinese President's Name As 'Mr Shithole'"
+    excerpt: "After running translation tests, the company found that its system also translated similar words that start with “xi” and “shi” in Burmese to “shithole” in English. Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, told The New York Times that he could understand why a machine would have made ..."
+    publishedDateTime: 2020-01-19T21:13:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/facebook-apologises-for-translating-chinese-presidents-name-as-mr-shithole/
     type: article
     provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 13
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 21
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bugew1av3at2vazdz2cv.jpg
+        width: 800
+        height: 450
+  - title: "Facebook Apologizes For Translating Chinese President's Name As 'Mr Shithole'"
+    excerpt: "After running translation tests, the company found that its system also translated similar words that start with “xi” and “shi” in Burmese to “shithole” in English. Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, told The New York Times that he could understand why a machine would have made ..."
+    publishedDateTime: 2020-01-19T17:50:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/facebook-apologizes-for-translating-chinese-presidents-name-as-mr-shithole/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 21
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bugew1av3at2vazdz2cv.jpg
+        width: 800
+        height: 450
 
 secured: "h0oFhZ7n0SR2VKjOia/aTbH+hQvyQNdeDz0XoE6E8xZPLA53EQ8evroujELnOxbDHDyWZkLsl9EKNTaaXekHRfZ1OxfZxVWMk8hof9CN6FY/b0dXFq1UdVV3pxiNcic4R8GhJ2alTkq+m0g0XKsQanAOOClF7HTzYwu9zZ/YdGqWV4qjoyQKwGHxSwJrY2uC1j/nuvL2ivW0wyo+Vc66cVjxfBVyIWEH3mT/EUItpVKc+QseImeXZXLnz+tDxFLsUruQ9n+ZMn+d7eJZrUAAHB2kUWoGkbbAz/jD8UUdlECE1xR0F1uIF8SSBzP9HzYbd4zDiyuzSsl7myW0KNXlKBMLVDviWZLx+4FaGfMI6yM59ko7tWeoJZoSqHfhA1V0fcCC4utiGz/e0F3xUbpbNvaxpAwFIdbgdfWZ2iwkpDQyWlnFvwJrS8QT+23lZRDxK2m90/smQYwbJFHUmuB53g==;zl2kZBOnhgbg+VAmNUioug=="
 ---

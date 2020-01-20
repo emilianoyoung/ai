@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-18T09:06:00Z
 sourceUrl: https://thenextweb.com/syndication/2020/01/18/life-will-soon-be-like-her-and-well-fall-in-love-with-ai/
 type: article
 quality: 69
-heat: 91
+heat: 71
 published: true
 
 provider:
@@ -27,38 +27,6 @@ images:
     height: 417
     title: "Life will soon be like ‘Her’ — and we’ll fall in love with AI"
 
-related:
-  - title: "Whoever leads in artificial intelligence in 2030 will rule the world until 2100"
-    excerpt: "A couple of years ago, Vladimir Putin warned Russians that the country that led in technologies using artificial intelligence will dominate the globe. He was right to be worried. Russia is now a minor player, and the race seems now to be mainly between the United States and China. But don’t count out the European Union just yet; the EU is ..."
-    publishedDateTime: 2020-01-17T21:59:00Z
-    sourceUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/
-    ampUrl: https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
-    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 53
-    images:
-      - url: https://i2.wp.com/www.brookings.edu/wp-content/uploads/2020/01/200117_global_ai_fig2.jpg?fit=400%2C9999px&quality=1#038;ssl=1
-        width: 400
-        height: 857
-  - title: "Wild ideas in science: Robots will never think like us"
-    excerpt: "They can now classify objects in images better than we can. And as IBM and Google’s DeepMind have demonstrated, they can beat us at games such as chess and Go, and even achieve the highest rank in the computer game StarCraft II. But at the same time, AI systems are inhuman. Even inhumane. Our AIs do not comprehend our world or their place ..."
-    publishedDateTime: 2020-01-12T23:00:00Z
-    sourceUrl: https://www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/
-    ampUrl: https://www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/amp/
-    cdnAmpUrl: https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/wild-ideas-in-science-robots-will-never-think-like-us/amp/
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 44
-    images:
-      - url: https://images.immediate.co.uk/production/volatile/sites/4/2020/01/cover-illo-ab70bc0.jpg?quality=90&resize=960,413
-        width: 960
-        height: 413
-
-secured: "+ZbfhzFa9tjaw+COtFGKRnI9/cseu6JcgdvrUXdkaJ2XYkwuIT1FNqoXBk45QNuJI0gfzVULP4pbNtoIDAsPsaeuR5n3PotSoTN4L1hfxzj3lVuqWQwj8lh61/TY5aqYC0EJZhmWy8jgkaEyPdC8NdnH0YwyxWGPtkh+/vzKSI4ve25E49d01ElaUYZSLhqL3aawEUIGDHqoa+PdltOp8rml6GwAZO1xejb9IaCc5aIDOAKZLcFL+Z5C9q20hheBd0zgqRfIsUhQFOjsnFr0cID4oNmA/9azS3sLwccvLAikBC8CptIVDrwiw/LJwEZdl1eE7CAma8DycexJ5nYNbGxtiBzdtZujGtaqYwM8Dl2UzY1/V0q2K33jCZMJ1NIF4oEHFJSlxWmh7mZzwtT4eyrfb9JmyABbi5LJXiH0FeT1lXxvn47NYG5u+UX4nTWd7hHbACUouhZqrjqR9xS2bw==;wJNOxaMnRY6dylnDDshYRw=="
+secured: "UbtQ/ExrSpV6CaGN9ru5n272jd+d/Pr6t+D3Puf11RKRriYkw2W3oWFIgp0fDEVDSCQuf13jJog+yA9eK8XSN2fjb+26A77agtzNxzH2N68hfABim6tB632e7M3CN64DtP7Gwf/ZkMs/y1BmXpZzhAelg7iv9QAAL/XVh6tHiPmnA8DOwZ2edYjXDLxS2Oz3gExx0nsNVUnyYj1DTfTY4pnOA41aOF8p5i+fXMmv9O/RXMqe1m1KSYrGg7xAtRyj3/O+lJ8XY3qI7SAW6B5w0Ip2c8BpB4vJkvjAG/IaOn7vD07lqN0XFuf7cUJmSjsEHf2nR2w5RAUYjFCSuSOqYewD15cEERcd+LZ+O/6FwX9LmESsvKrdmzwc271rrPfzW0kzlZWMUXgMqUf+0lNvbJ+fQ7N3vKsZjhjgW/kb5i+Fpw6rAsEL9ryCSiY8RUwxXkkBqH8s2VwOcakryWSYqA==;5vjs6YdJW5GOxCBqntb7KQ=="
 ---
 

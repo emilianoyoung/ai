@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T10:12:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-57405-8
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 685
     height: 268
     title: "A Machine Learning Approach to Growth Direction Finding for Automated Planting of Bulbous Plants"
-
-related:
-  - title: "How Are Businesses Taking Advantage of Machine Vision Today?"
-    excerpt: "It’s easy to confuse machine vision with computer vision. Not only do the terms sound a lot alike, but they are closely related. There are, however, important distinctions between the two."
-    publishedDateTime: 2020-01-17T16:55:00Z
-    sourceUrl: https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
-    ampUrl: https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
-    cdnAmpUrl: https://themoderatevoice-com.cdn.ampproject.org/c/s/themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
-    type: article
-    provider:
-      name: The Moderate Voice
-      domain: themoderatevoice.com
-    quality: 44
-    images:
-      - url: https://themoderatevoice.com/wp-content/uploads/2020/01/Robotic-Vision-macrovector-Freepik-.jpg
-        width: 800
-        height: 800
 
 secured: "wdkQZuSVLh3wkBhkIMzeyLl7upo/kBeMuP8xNfCgI/CV5u6Ufju5npxwq2nwwjK9Z4bQDTl/rfBZ300AWcm9MT4L1C7qwleXsMn/T7wAjAPe4Lt2h7U+1THGJVdxjysPJyDTmLF052M67C1dn8Q7Vxy4QcGLSpcbw3wplDyEK7qe+EHBBniMTp2vWhGFsQNH0wjo9+0Yuhi9v9RqnmIC28+TLB7c9p5LeDYbCpVtSBZVHPQJHtgCQ+A+HTo2U2X5fTO0hxYmS1Af2HPGxug/Ja+9YS77xY+cgkyyvY4RbubCezZs/OokB4LBII+JKy86s974HPBI4WS6+LlMg2W91ZvvjSWIO1B+nOqvwd5HFFL9rwn4YIX0OZfIoprRdaWnpqNRvx3OY+wu5imOemm29tLFe2ojPgSa3HuW0AD6Z3Ml9iPfR+iWOdkpXKmUO9yf43XumKuxJD0W6RnnLL72yA==;TiRTo9dD/fXks+T8fj2HFA=="
 ---

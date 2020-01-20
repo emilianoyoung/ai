@@ -35,17 +35,6 @@ related:
       - url: https://www.zawya.com/resources/img/zawya-logo-en-social.png
         width: 1200
         height: 878
-  - title: "Want to make AI work in business? Focus on psychology, not technology"
-    excerpt: "This is why the thought-leaders and IT suppliers that understand this area best are talking more and more of concepts such as AI ethics, human-centric AI, and ‘AI as human augmentation’. Those concepts are taking a long time to trickle down into end-user organisations, however. For example, at Microsoft’s Future Decoded event in London ..."
-    publishedDateTime: 2020-01-17T14:54:00Z
-    sourceUrl: https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Want-to-make-AI-work-in-business-Focus-on-psychology-not-technology
-    ampUrl: https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Want-to-make-AI-work-in-business-Focus-on-psychology-not-technology?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Want-to-make-AI-work-in-business-Focus-on-psychology-not-technology?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
 
 secured: "+P0+/Utgfwexw0+pvRfbMZZtMT0vlPifJcLDLBJBSsSqBLFZtMVrwa3uL4etJOCF0euX3xujdsoq0pKWmQhZm40XIF09ya1l2NTja7VIHhXUvrE+CUhS9k1zPpp7qwHEUbKBUn8cKaHCemKsVAm9eGWSJ9KShYLrt9UHzD2hav66K4Jvbt86MFNF/ttRndwzOaCfsXyd5rb0qR4D9e0135No29Yi+cySSyQQHj+QjqC8gKVOLTvwUWdSsDHKIz9dKRpcJaFM8uPCXEn0i1pEGgr2Llo0xQaP/tx0ID0Bn5E=;CUxYoWcNx2FLGfzFQwzzHQ=="
 ---

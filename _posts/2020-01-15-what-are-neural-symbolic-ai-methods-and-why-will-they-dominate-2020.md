@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-met
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     width: 796
     height: 417
     title: "What are neural-symbolic AI methods and why will they dominate 2020?"
-
-related:
-  - title: "Artificial Intelligence Expert Neil Sahota Says AI Will Have Major Impact On 2020 Elections And In Medicine"
-    excerpt: "The author of the influential book Own the AI Revolution (McGraw Hill), Sahota is also an IBM Master Inventor, who led the IBM Watson Group and is a professor at the University of California/Irvine. In addition to its potential impact on the election ..."
-    publishedDateTime: 2020-01-15T20:36:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-expert-neil-sahota-says-ai-will-/2020/01/15/9081764.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
 
 secured: "e8U4LEU7+9jnw/a4hoyMt95Ym67pNwT+idvj/LAQtw68O52CKqKyWGZTomdhPhV55aT6+FfEWiWKmisXzvsvt3KCIAph5r+ekvOvnkw1Aqp0zYudkeEBycKyzlG0eO8UPlSxJxBvvtQwwsoJu/eMvtFh6pihFy+zlGc+EB0aTFJhBDym+a8D8PXJqRtFmOT1IDtPd/YyiUa2jy33fd6XCvey7TOHN7VqeMYL3Cidkeuefr3eRzGzUMAVRvyTkcPOz+KtCN4QtTVPVP66JEmgAh9F+kIMLL0ikmkkCD2uQ3PU0aAJ3ZQoHSaDsxdVBcfCR16wvcnnkrtUugvlHpSm4zmP7WfL5lZwEBvOBbrA+IwEs/pjD3nSYdL5q2PFrCQ0xSuifYdNkQgQ1odK5EUDKJUd8bI7Oml+wj6l8h+ujl+lqJkvHZfaysex9mSdeWp8FEeJkmgyNMyVnN9LrmIHyA==;6qmENs2hxMcWviizsrVP+Q=="
 ---

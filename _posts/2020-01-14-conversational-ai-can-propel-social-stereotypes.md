@@ -44,6 +44,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1130053721/960x0.jpg?fit=scale
         width: 711
         height: 474
+  - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
+    excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
+    publishedDateTime: 2020-01-14T08:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "AI Chips: 5 Predictions for 2020"
     excerpt: "Will Intel’s acquisition of Israeli AI accelerator startup Habana Labs last month kick-start a surge of acquisitions? This market is absolutely teeming with chip startups, many of whom are reaching a level of maturity where they are revealing their architectures and starting to produce measurable results. As established semiconductor ..."
     publishedDateTime: 2020-01-17T01:04:00Z
@@ -62,15 +75,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Neongecko Introduces New Neon AI™ Script Engine™ with Scripts for \"Eliza Conversations\" and \"Audio Website Browsing\""
-    excerpt: "Intended applications of this technology include personalized store greeters, conversational AI assistants, transcription, translation, and medical instruction reminders ... the classic person-centered therapist “ELIZA\" (demo video), to show the ease of natural language processing and scripting. Many additional examples of conversational ..."
-    publishedDateTime: 2020-01-07T03:58:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200106006073/en/Neongecko-Introduces-New-Neon-AI™-Script-Engine™
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "XWyfWPbk1AnnSENxYx69hOXEKdPGECp6cGyI95dREJRJNQsMXBoreysUQDwWufaJI+udzg1+Q8kRXRntCMnmTCMIgqnzKPi40LAwTQSTtMpZVt08J15TfO0yEF8TQzCZymbh1uxI1InDngdjkAdWwkTFaXA4N6F44L/mcaOJY2IhzM85TnJQmoNXPHARXdynmGBjYVpk2IGXOudv5J3Ls3GrjWraeeOoxFdfhATJ6O2PqnIt5+Hqw2x14fvgNno1ApJOU3ImQ7Bq4YbU6+2QX8EPdTAqlQ/tf4JRVfcMQh8UipwX5cellQe7SuXB4F/zWuYIy+Q80Env7XsIoJBU19FWoDNVN3V8u5uojBgSL0wb6gQiAkSHJbddmb6isAGJQbV7J/IYF4MYyjR5EBxiahMA+zek4PBwgLiXaVpd9Bu3dBYA7F6StpPN8Q+5u5bnSKWn9VsGrcGM2no1nQEw5w==;C9vpx1cHm/DVEJLLtOlViQ=="
 ---

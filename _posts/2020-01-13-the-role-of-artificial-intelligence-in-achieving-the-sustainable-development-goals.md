@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T10:06:00Z
 sourceUrl: https://www.nature.com/articles/s41467-019-14108-y
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -21,23 +21,6 @@ images:
     width: 685
     height: 343
     title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
-
-related:
-  - title: "How Is Artificial Intelligence Changing The Face of Web Design and Development?"
-    excerpt: "With the help of AI or artificial intelligence, object recognition, deep learning, and image grading will be more accurate. Artificial intelligence or machine learning applications are able to help web app developers face problems related to coding, security, user experience, quality analysis and much more. Businesses all across the globe will ..."
-    publishedDateTime: 2020-01-19T06:27:00Z
-    sourceUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development
-    ampUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-web-design-development/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 55
-    images:
-      - url: https://images.yourstory.com/cs/1/a8255b902de611eaa742cd45a762896a/AI-for-enterprise-Apps-1579071380502.jpg?fm=png&auto=format
-        width: 1073
-        height: 786
 
 secured: "cyGdezM9v8AXoa2Q+gbbfG+eFBS34iA3WKPRh1Vd4b17NsAbTL/B3o8ntlRLD57jqFB4UYURGq9G7/s5+sTW8jTE8hUZ8+qCq4GlGKMcuPlEFb/ZtiGv+NHeRYEV4owKrSvaDIroe7tkaL14E5aQEh4dftrZ5wz+tQ/2+yjBFaBOuhhZw+ekTvFhErY+b09L8gedIgx3U2Gg5XvVeBDHLl8lTAdwO7HZ+H9M1mn2K6Sd0xjJGqbkIx0Gp/WqhkzENb/pH+gd7jf87mx1IOftZUKNtzgzuwwgwTAJeXrQHiOukjpf/f3CreK3r1vDvhr6t0kccwPjjk8ggyy7jy7EQGKoEf/tPTWQYTMICPVIEYYzFgnMqr7fsybMwuBTWRxI/EFRLmxjivDuSXawgJXBAyHxi4GUxAVCAy2HPXfNCQtbqcitB38SdeKwSCv+FGJavLZYhWNOVG3+kUxVRgwWOg==;bJXfyLJs1kNYOjEp1Rbm9A=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/faceboo
 cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
 
 related:
-  - title: "Facebook cracks down on misleading videos"
-    excerpt: "They will be removing a video if it \"uses artificial intelligence or machine learning ... RELATED: Is that video real? Research lab fights Deepfake videos to stop spread of misinformation The bottom line: you still can't believe everything you see on Facebook. It's best to get your news from a trusted source."
-    publishedDateTime: 2020-01-08T19:57:00Z
-    sourceUrl: https://www.wfmynews2.com/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
-    ampUrl: https://www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
-    cdnAmpUrl: https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 44
-    images:
-      - url: https://media.wfmynews2.com/assets/WFMY/images/d26bd8b5-8985-41a8-b85f-2d97e10b02d9/d26bd8b5-8985-41a8-b85f-2d97e10b02d9_360x203.jpg
-        width: 360
-        height: 203
   - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
     excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal ..."
     publishedDateTime: 2020-01-08T22:44:00Z

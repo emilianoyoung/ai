@@ -24,21 +24,21 @@ images:
     title: "The AI Eye: Germany's Bundesliga Selects AWS (Nasdaq: AMZN) for Tech and IBM (NYSE: IBM) Announces Developments for Sterling Supply Chain Platform"
 
 related:
-  - title: "LG hones focus on AI car platforms with Cerence and Luxoft"
-    excerpt: "The South Korean electronics maker has also extended its partnership with Microsoft as part of plans to move further into the commercial space. LG said it will leverage Microsoft Azure and AI services to enhance its management systems to enable its Building Energy Control (BECON) system to manage and control heating, ventilation, and air ..."
-    publishedDateTime: 2020-01-14T02:51:00Z
-    sourceUrl: https://www.zdnet.com/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/
-    ampUrl: https://www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/
+  - title: "Inside: IBM Sterling Supply Chain Suite"
+    excerpt: "IBM described the introduction of its Sterling Supply Chain Suite as “an integrated supply chain suite, embedded with Watson AI and IBM Blockchain and open to developers, to help organisations make their supply chains smarter, more efficient and better able to make decisions to adjust to disruptions and opportunities in an era when ..."
+    publishedDateTime: 2020-01-10T13:52:00Z
+    sourceUrl: https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite
+    ampUrl: https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp
+    cdnAmpUrl: https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Supply Chain Digital
+      domain: supplychaindigital.com
+    quality: 59
     images:
-      - url: https://zdnet3.cbsistatic.com/hub/i/2020/01/14/fa1a0cb0-0104-41aa-b836-0541476b2854/lg-cerence-partnership.jpg
-        width: 3000
-        height: 1997
+      - url: http://www.supplychaindigital.com/sites/default/files/styles/slider_detail/public/topic/image/GettyImages-1088950364%20%281%29.jpg?itok=QrgtHVc6
+        width: 778
+        height: 518
 
 secured: "k0yJBW8Ta92DYhh8NcwmXnBeC930TV/J9XwdZX8U+ilh/fAr/ZezBJT/S+3vlmJ5Eqe0w+z7mVbLYcRTuq1HkMofd7PEyGjrFOvnR9nWVQ4NCPSJ6l0XRtJaBPqv2nsRjW2YiJPIjZJ9VAiso2SR/2as7g0IaYL4HEgIEFia4mHy96V0lKZSijbftcn6T+x9CpfjLpBDedGZhtVCPu+LzJsDNuoEiOhb2jcIec+m3k9hd0RqcQ/NH1xhUs7bs+y3xJaU2MF1HAgY/Nj/XqiPy33Q7/5Q0HkJSVPAcMM0ftI=;Q0WmOc2bjLUq7UUtN/SahA=="
 ---

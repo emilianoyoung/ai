@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Translation gadgets go mainstream at CES 2020"
-    excerpt: "Luckily, several pocket-sized gadgets in several different form factors were introduced at CES 2020 to solve this problem, translating various languages into a person’s native tongue. One of these gadgets, the Lingolet One, was a CES Innovation Awards Honoree for its artificial intelligence (AI)-based translation capabilities that includes ..."
-    publishedDateTime: 2020-01-10T15:17:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14537/translation-gadgets-go-mainstream-at-ces-2020
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: https://electronics360.globalspec.com/images/assets/537/14537/lingolet-15.jpg
-        width: 752
-        height: 421
   - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
     excerpt: "MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin,"
     publishedDateTime: 2020-01-08T01:53:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
         width: 1200
         height: 630
-  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
-    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
-    publishedDateTime: 2020-01-13T00:26:00Z
-    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
-    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
-        width: 1200
-        height: 680
   - title: "Carmakers move from cars to building cities at CES"
     excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
     publishedDateTime: 2020-01-07T18:07:00Z

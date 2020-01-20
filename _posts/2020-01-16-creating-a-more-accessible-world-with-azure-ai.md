@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T08:00:51Z
 sourceUrl: https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     title: "Creating a more accessible world with Azure AI"
 
 related:
-  - title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
-    excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ..."
-    publishedDateTime: 2020-01-15T18:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
-    ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
   - title: "Creating inclusiveness at our first AI for Accessibility Hackathon in Asia Pacific"
     excerpt: "identifying opportunities to use AI to build a more inclusive and accessible world around us. Their solutions were developed on Microsoft Azure and used Power Apps to create solutions that tackle problems faced by the community every day. Team Grab from Singapore on their communication solution for people with autism Problem statements on ..."
     publishedDateTime: 2020-01-17T01:17:00Z

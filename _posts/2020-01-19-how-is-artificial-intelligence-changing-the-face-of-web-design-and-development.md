@@ -8,8 +8,8 @@ ampUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-develop
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-web-design-development/amp
 type: article
 quality: 55
-heat: 65
-published: true
+heat: -1
+published: false
 
 provider:
   name: Your Story
@@ -26,19 +26,49 @@ images:
     title: "How Is Artificial Intelligence Changing The Face of Web Design and Development?"
 
 related:
-  - title: "The role of artificial intelligence in achieving the Sustainable Development Goals"
-    excerpt: "The emergence of artificial intelligence (AI) and its progressively wider impact on many sectors requires an assessment of its effect on the achievement of the Sustainable Development Goals. Using a consensus-based expert elicitation process, we find that AI can enable the accomplishment of 134 targets across all the goals, but it may also ..."
-    publishedDateTime: 2020-01-13T10:06:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-14108-y
+  - title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
+    excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ..."
+    publishedDateTime: 2020-01-15T18:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
+    ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
     type: article
     provider:
-      name: Nature
-      domain: nature.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 101
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
+    excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
+    publishedDateTime: 2020-01-16T19:54:00Z
+    sourceUrl: https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html
+    type: article
+    provider:
+      name: Independent
+      domain: independent.co.uk
+    quality: 58
+    images:
+      - url: https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg
+        width: 2500
+        height: 1875
+  - title: "‘Don’t set it and forget it’: Artificial intelligence’s role in media buying is taking shape"
+    excerpt: "The reality of artificial intelligence’s role in media buying may be turning out very different from the dream. Automation and AI could be used, so the theory went, for forecasting, analyzing data and ultimately improving campaign performance, so that marketers could change and reallocate budgets quickly. But despite advancements being made ..."
+    publishedDateTime: 2020-01-16T04:01:00Z
+    sourceUrl: https://digiday.com/marketing/ai-used-media-buying-just-not-expected/
+    ampUrl: https://digiday.com/marketing/ai-used-media-buying-just-not-expected/amp/
+    cdnAmpUrl: https://digiday-com.cdn.ampproject.org/c/s/digiday.com/marketing/ai-used-media-buying-just-not-expected/amp/
+    type: article
+    provider:
+      name: Digiday
+      domain: digiday.com
     quality: 46
     images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-14108-y/MediaObjects/41467_2019_14108_Fig1_HTML.png
-        width: 685
-        height: 343
+      - url: https://i1.wp.com/digiday.com/wp-content/uploads/2017/05/robot-tug-of-war.jpg?fit=682%2C292&ssl=1
+        width: 682
+        height: 292
 
 secured: "WnaqxdZ3mW/23Rqaa9rDwCoII+oS9SCBUYB4Qbi0bWKEdleXRVUPOPUGwPIIhzoKzZmjqPZg83UpyVz29EKzUDpXv1RjwQez0c6UbSh4e4JofE0rkBQyHjbtQWrbJjjIrbyyCrMOWRcpgP5J0SgrNdD8jv8l58B+n1950cDTBAL4hWxsNezeO+k/KjKPZ4dABQvXIOR0klHNBCp2oU+C2e68C4MBCVsSFWWJMsU4RFyb8hsMvLmpfmQnS4qW/OmAwF3haa3BOmImJenabmSgWMLUQdNvYhRwy3m7iUXwSpwsWsavP8ec0TI+3zjUB41CXf96vOZ02VgBN/mhQERxk0bSluw01QJL0LPmr4/6ZMoP8jF/7Lbj3Hknh03UAMlHzUuo38OMsyFQSl+njFCyWNZv1ZI+/PCLCQXvn2fEU2dEbBlaavm530ULD9Sd+BFeD3jOpYcZSxIQWXzh827bow==;iHu7wEtIRwcCtShdrtZl7Q=="
 ---

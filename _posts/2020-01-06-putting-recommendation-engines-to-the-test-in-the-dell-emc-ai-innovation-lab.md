@@ -69,15 +69,6 @@ related:
       - url: https://www.brookings.edu/wp-content/uploads/2020/01/global_tanzania_drone.jpg
         width: 6720
         height: 4480
-  - title: "Japanese government plans to develop upgraded AI interpreter"
-    excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
-    publishedDateTime: 2020-01-06T14:08:00Z
-    sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 19
 
 secured: "OFoGgo2uZTmlfPxcHZvaMqgUWoiUTpfu533Ny9ZzrchJL9gwp1lMvtekxKjVo8Taw81T1tomHAdYtYPXSKSqRQKwRThvEHKWZTqINBulz9Qc6kuYcn5hNeLfHcClRsZUTNAAXcmctnfw9c67E8UMMURoFzpRzL+jX4Tkq5jkYioZ4Qk+B7I/FrCD6zpyuPBYAe9rs4/AQ+tbvHE/Uu4BfjctXg0tyr9LOm7z3WKkHn0xw3EHWkVuZh+XA1rS/k9qtqJNZuwM//6dpp4G/kavoRyK2K5G3oK9QvnvQNOw6jAnwct864ic1+D7oPEFGs4UYpqkWONNJC87PWlqfzJ3UJmopEaqQjEnOhbkHuooMqfRNIK8tx/d3yBSMfYLxoOTdVa16GtAIrdCuW8j0S89BEGjHDwBLidmnI/QZdtzTciFjCiE1853BmRRKOUEqEVjH2FbpOf5SvcRy37LYCLOeg==;Ri/zwU/5kv3esJe4USQLEw=="
 ---

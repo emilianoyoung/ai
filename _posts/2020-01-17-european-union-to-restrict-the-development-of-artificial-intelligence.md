@@ -8,8 +8,8 @@ ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-devel
 cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: GizChina
@@ -26,34 +26,32 @@ images:
     title: "European Union to restrict the development of artificial intelligence"
 
 related:
-  - title: "How Software Developers Sparked Management Transformation"
-    excerpt: "20 Years Ago, The IT Department Was Often The Firm’s Worst Performing Unit. Now The Rest Of The Firm Can’t Keep Up"
-    publishedDateTime: 2020-01-19T23:59:00Z
-    sourceUrl: https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/
-    ampUrl: https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/
+  - title: "European Union mulls new tougher rules for artificial intelligence"
+    excerpt: "The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU's executive arm is set to propose the new rules apply to \"high-risk sectors,"
+    publishedDateTime: 2020-01-17T14:51:00Z
+    sourceUrl: https://www.sfgate.com/business/article/European-Union-mulls-new-tougher-rules-for-14983285.php
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: SFGate
+      domain: sfgate.com
+    quality: 39
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198341263%2F0x0.jpg
-        width: 1200
-        height: 728
-  - title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
-    excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
-    publishedDateTime: 2020-01-17T05:32:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/
+      - url: https://s.hdnux.com/photos/01/10/04/70/18894393/3/rawImage.jpg
+        width: 2048
+        height: 1365
+  - title: "$7.5 million grant will fund development of socially savvy artificial intelligence teammates"
+    excerpt: "University of Arizona researchers have been awarded $7.5 million to create an artificial intelligence agent that can understand social cues and human interactions, and use that information to help teams achieve their goals. The grant comes from the Defense Advanced Research Projects Agency and is part of DARPA's Artificial Social Intelligence ..."
+    publishedDateTime: 2020-01-17T15:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uoa-gw011620.php
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 31
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 26
     images:
-      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-        width: 600
-        height: 246
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
 
 secured: "paaI6hOrCapSuyoRkJ9T4Pz+iV7c0lS/mGHGqpaTZrFdqoaLS/dWIknZa8uJpBe/113EAY+lQ/C/WpPrVhMQHQe8ArpdnBC9SzDDl2eKE0YqgsXlhJ1vNysOij7wjvNaAIyGZN5IgupJR/D7EE6EMJ6fjCvfrEWJdMZlhjP5ZnWUcMcAnSp4uqoiqY1SSLmdmuMuBZpJrUNC0GQjzmn1pSmSHaRDKteZdyKKq2hhiYZ6ma7CEp2M5iGM6Rz7ECF67XHG1KrRNNBAifyqcAAYBtxfu6bqXDNwFE9j501Jn6vlB0OyoW9aK3s/K/E6JW+HRuyfkJkN0WUnFtx8BYCRN/jzJglh38P6/+Ppq5Zag9/YFMdUA8kU3ht4Zc6wEfaBfqqSGA/1j+JyvLuZIzv1uXSp7ptPzOsSGV4Z4J8vq0Vm50Y9t1fXs9tCyAybBJkSQprfL+sjvtcyAE/mUlio5g==;/BlRtLK6jj2XFsklsvZXiw=="
 ---

@@ -18,28 +18,21 @@ topics:
   - Facebook AI
 
 related:
-  - title: "AI in Fintech Market - Big Changes to Have Big Impact"
-    excerpt: "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,"
-    publishedDateTime: 2020-01-16T10:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market---big-changes-to-have-big-impact-2020-01-16
+  - title: "An emotionally intelligent AI could support astronauts on a trip to Mars"
+    excerpt: "Astronauts also have to deal with the unique physical strains of space travel—including ... stunted by a lack of emotional intelligence, says Tom Soderstrom, CTO at NASA’s Jet Propulsion Laboratory. That’s why JPL is now working with Australian tech firm Akin to develop an AI that could one day provide emotional support for astronauts ..."
+    publishedDateTime: 2020-01-14T17:26:00Z
+    sourceUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/
+    ampUrl: https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 156
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Here's Why 2020 Could Be Another Big Year for Artificial Intelligence in Accounting Market"
-    excerpt: "The study provides information on market trends and development, drivers, capacities, technologies, and on the changing dynamics of Global Artificial Intelligence in Accounting Market. As per study key players of this market are Microsoft (United States), AWS (United States), Xero (New Zealand), Intuit (United States), UiPath (United States ..."
-    publishedDateTime: 2020-01-16T15:15:00Z
-    sourceUrl: https://www.openpr.com/news/1898534/here-s-why-2020-could-be-another-big-year-for-artificial
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 9
+      - url: https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688
+        width: 600
+        height: 337
 
 secured: "3Eb0X2xld/V+HNNhh7k6fCpFkK3AuyBr6r7TvdKH3woT/eSA70lKYIQlvF5sKdWiJXQkULMuighN7AfgZhrQWfsO2xAyCEGP7fDryy5OQjZjeepM/TPIRgvHAwmWDmYM0kgUFw6W0YH+F4L7Rb0jVdCAhQ4jHfLclLdputgw8rqhMn6PkkLavb+uKcK6oW+zunhrACyUCAPmeT00VVpvMW64t0yMEjI/p/tt4SJ7u88HmRhC6dPpVRc6Ivean1RpkPuojop5bOSgkI2YK/ZnmHy90AFWCETyPSJIldLnzcE=;4VmOV2EZR/1STrYouKCqGQ=="
 ---

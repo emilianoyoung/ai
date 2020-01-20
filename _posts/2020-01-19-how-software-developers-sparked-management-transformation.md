@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-develo
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/
 type: article
 quality: 72
-heat: 92
+heat: 72
 published: true
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1200
     height: 728
     title: "How Software Developers Sparked Management Transformation"
-
-related:
-  - title: "European Union to restrict the development of artificial intelligence"
-    excerpt: "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ..."
-    publishedDateTime: 2020-01-17T13:58:00Z
-    sourceUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/
-    ampUrl: https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png
-        width: 788
-        height: 525
-  - title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
-    excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
-    publishedDateTime: 2020-01-17T05:32:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37623/europe-machine-translation-market-to-partake/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 31
-    images:
-      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-        width: 600
-        height: 246
 
 secured: "VwJuxcNCNA94oP7odz9Eu7wEQUbaHsvbuiAMCj4naXGIQ3b1PLpoxarqAbyEabI5je9Tup+o8kHWUr/Pvn7UYqSGgO5IqQLf8BDkzQuhOM0AKmLMziWS00XWDwwETzPNPgsBU6ItmC5YPq2/zre6860AXuCMkoyrGLLI0r3cVN+aV2qWTx4Lh22fZ8htJ/Gbfo5rfL/xLB6wcbdRhqdKA6xuDWfyc/DI0poXtPO6AFznBh29vWXK7/L55wu95KA3bXLu5anmRMgKqYNQvPB1zW024fBsh8MQyQybXYRgDVk=;3A7rpY8duSTP/b5JAqXI6Q=="
 ---

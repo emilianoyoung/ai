@@ -26,77 +26,64 @@ images:
     title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
 
 related:
-  - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
-    excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
-    publishedDateTime: 2020-01-08T10:21:00Z
-    sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
-    ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
-    cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
+  - title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
+    excerpt: "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,"
+    publishedDateTime: 2020-01-18T15:55:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 94
     images:
-      - url: http://cdn.cnn.com/cnnnext/dam/assets/200108111821-woven-city-toyota-big-1-super-tease.jpg
-        width: 1100
-        height: 619
-  - title: "Riding in a self-driving car is the best way to end CES 2020"
-    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
-    publishedDateTime: 2020-01-10T17:02:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415
         width: 1200
-        height: 630
-  - title: "Carmakers move from cars to building cities at CES"
-    excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
-    publishedDateTime: 2020-01-07T18:07:00Z
-    sourceUrl: https://www.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
-    ampUrl: https://amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+        height: 799
+  - title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
+    excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
+    publishedDateTime: 2020-01-17T14:43:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Forbes
+      domain: forbes.com
+    quality: 50
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
+        width: 1200
+        height: 751
+  - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
+    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
+    publishedDateTime: 2020-01-20T14:28:00Z
+    sourceUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/
+    ampUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
     quality: 44
     images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa4e8f394-313b-11ea-a329-0bcf87a328f2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
-  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
-    excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
-    publishedDateTime: 2020-01-10T05:53:00Z
-    sourceUrl: https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691
-    type: article
-    provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 39
-    images:
-      - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
+      - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
         width: 1200
-        height: 800
-  - title: "What self-driving cars will really do to cities"
-    excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost ..."
-    publishedDateTime: 2020-01-11T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90450754/what-self-driving-cars-will-really-do-to-cities?partner=feedburner
+        height: 900
+  - title: "Kubota to release self-driving rice planting machine in October"
+    excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
+    publishedDateTime: 2020-01-16T07:45:00Z
+    sourceUrl: https://www.japantimes.co.jp/news/2020/01/16/business/corporate-business/kubota-self-driving-rice-planting-machine/
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: The Japan Times
+      domain: japantimes.co.jp
     quality: 24
     images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-90450754-what-self-driving-cars-will-really-do-to-cities.jpg
-        width: 1280
-        height: 720
+      - url: https://www.japantimes.co.jp/wp-content/uploads/2020/01/b-kubota-a-20200117-870x951.jpg
+        width: 870
+        height: 951
 
 secured: "omJWhxJsnIbeNAlezxMripwmHFI98C5tnMHYRglgsnZqkSGIG2uCXxVr/rgUb41qntZiEguOfxWrRat8rCyQNVu+GsgWrbiC/BL7qZX0gsIclXDqcLnS8eIa7CngJURCbb370/X5qr4sww1mn4Ixj3qPiJvmh/YzL4p8yqg/egG0G2z3VL88msc1FlI/5b3xhprdNgjFaBYmyxKR8AaJudqxDOAnoPE+LyNeufBzEEYOghD4Mmy6TlJ7kDlhF/elT2lyCm2GXL9s2JzbvWGpqiNyrFahkEc1Y9+h/ADQQfDHS3reV47CSFTYp6FuRxLyEFQLmkRySfUMLe7yF3YQDGg8qPZW/AqC3S+j/DAFYa2F5dWLKDdieaoSNGF35KtmOTrso5gnysM2QNRuQmsc3IXJVSS1kzrlH5VZV4279ZmN5Q9omPBYlm9qyhgcHTYkfZ0R6a7WnkgJZ3WBICkJlw==;EcvilcAzfubThKWkOHmd4A=="
 ---

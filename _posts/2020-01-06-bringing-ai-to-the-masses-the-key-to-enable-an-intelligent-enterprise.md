@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-ma
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
       - url: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_487365628.jpg
         width: 1000
         height: 700
-  - title: "Japanese government plans to develop upgraded AI interpreter"
-    excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
-    publishedDateTime: 2020-01-06T14:08:00Z
-    sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 19
 
 secured: "DJAJ+7NAGyL/0v6jqEuyY0ndIr/zGbL3OqPSrrusQJM35XefL85v8H/9ab0xPMVMiGZ+tbT01kJjlF9CrBxXnI14CP09eoPz8WhURQ2enQhzaaYshG1cLuhenTiCcPKmq/n1H33H928p9O5TkhHX+pI+AfAK8L4iVvgRqQPGHqv0wnycDaN9IDFXAwhaYyR4dUA9dBGY4fzeUtKousxY5KEfJAHRmKhQKfIWBJRq1Tg8vRTwaaYHaTe/J5ZsFfD6tW4sDLy7xzYEPuyke9eTnvI0daoSGCG/ZhjmFbJsudU=;EvcUy7kcI1U1IHx61kPSFw=="
 ---

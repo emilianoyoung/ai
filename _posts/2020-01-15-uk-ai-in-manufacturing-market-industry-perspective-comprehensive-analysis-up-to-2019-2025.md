@@ -28,15 +28,15 @@ images:
     title: "UK AI in Manufacturing Market Industry Perspective, Comprehensive Analysis Up To 2019-2025"
 
 related:
-  - title: "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,"
-    publishedDateTime: 2020-01-20T05:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20
+  - title: "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries"
+    excerpt: "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S."
+    publishedDateTime: 2020-01-16T04:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 64
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

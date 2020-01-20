@@ -26,21 +26,6 @@ images:
     title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
 
 related:
-  - title: "Facebook cracks down on misleading videos"
-    excerpt: "They will be removing a video if it \"uses artificial intelligence or machine learning ... RELATED: Is that video real? Research lab fights Deepfake videos to stop spread of misinformation The bottom line: you still can't believe everything you see on Facebook. It's best to get your news from a trusted source."
-    publishedDateTime: 2020-01-08T19:57:00Z
-    sourceUrl: https://www.wfmynews2.com/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
-    ampUrl: https://www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
-    cdnAmpUrl: https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/local/2-wants-to-know/facebook-cracks-down-on-fake-videos-deepfake/83-476009ab-6240-461d-af1c-0a8eb6958bdf
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 44
-    images:
-      - url: https://media.wfmynews2.com/assets/WFMY/images/d26bd8b5-8985-41a8-b85f-2d97e10b02d9/d26bd8b5-8985-41a8-b85f-2d97e10b02d9_360x203.jpg
-        width: 360
-        height: 203
   - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
     excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
     publishedDateTime: 2020-01-08T19:45:00Z

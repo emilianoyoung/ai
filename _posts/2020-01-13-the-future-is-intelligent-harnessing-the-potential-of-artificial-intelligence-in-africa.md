@@ -69,15 +69,6 @@ related:
       - url: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_487365628.jpg
         width: 1000
         height: 700
-  - title: "Japanese government plans to develop upgraded AI interpreter"
-    excerpt: "by using AI technology that stores a large amount of text in each language. It aims to conclude consignment contracts with the National Institute of Information and Communications Technology, a research institute under the jurisdiction of the ministry, as well as translation companies and app producers, to promote the research. The ministry ..."
-    publishedDateTime: 2020-01-06T14:08:00Z
-    sourceUrl: https://www.sfchronicle.com/news/article/Japanese-government-plans-to-develop-upgraded-AI-14952533.php
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 19
 
 secured: "FN5bTg5ZxeAC3kCkhesaXKv3Sh64bCg3SmlAC5Ct/f5SNs3tLdxdPgO5b7N5E5GuFAfW7WWdS51ut2srFqP98KtucCYzdcWKDGE4JlaW9J67MyV77erFHWPyfq2l7m9YnyywmdQ9iHTww5takCzxeR1nitAf2L9T3B79XPg1P3M5Rr1gtpUEnEhRzJ7ZRXUPteFHJo7gnYFx/D3FyOzJO/IOOWZZD4mIc+x6wI4Oia6ejqitUWuZZ03JvU106scL/cR97RLDV2z0jsaeVjSFIVvA3Fp7TczjWVYooBxraEL2EOgnxxGBSqSVKBl67IKXBf8LoKEeLK8/eTnQxugy2Mx5566mLGgCzcjnuSrYbdL1tEnsnZDxqFd5G82MRWomBXpHaZMtRLqrVkHyyfxlCw2aCUI+dI6gH7kx9fMMz5w5O1usmmgepn1pPFj2c3N2UkRl26wZKdlkmVuoVirNag==;kn8QvSiL+pSjqOpv/QvUuQ=="
 ---

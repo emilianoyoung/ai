@@ -49,6 +49,19 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 19
+  - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
+    excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
+    publishedDateTime: 2020-01-16T01:36:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 14
+    images:
+      - url: https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4b45ead200c-600wi
+        width: 600
+        height: 330
 
 secured: "oCH8VxBKoklgT0yWWe9woQdXVudsc+YirjNISgXiWcK1W4Y74OgFNuZD25Ujju57OTpSzTVRjDelkEQjLzPbmItPnKSehb9pDtlPBUAb/TGVHTiYTsVX8Qs4iVSbJxrHbnELprYWR/HjE1QOT98ae7lEKuwcJaB9a5JHCLJyQkq9GTLN1KnBixnNh9DwFwzwg8Sv58k+0OADvDAdkZk3t0oDrj5Ju+vhfy+EvSpXfv0AT14ZLwNcY1S5qrapTI7AGfKu9cReKpV79Y2IdVtJ6n0/3XHTTEtba4fnTWoo+yF3iPOy3C+JnsiNTWBbyjP762b3/QG4tKULpOD6BLgCos9QBiSCfrbR7jCLmaBy5NmRbsWldnoRi/wC6UDm5MrRjb6Bj5LlEH06cWW9QfEPOcCxvqnqSk4VvKH0VS057SCWDCh6mpRDx07q6Cu4N4Kd0E6smjFHOAwvCmLcliDQSQ==;IVmx0g0lMoYtXJCfzOgZpg=="
 ---

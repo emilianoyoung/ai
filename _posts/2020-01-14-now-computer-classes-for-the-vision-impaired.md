@@ -26,36 +26,34 @@ images:
     title: "Now, computer classes for the vision-impaired"
 
 related:
-  - title: "New AI dog trainer uses computer vision and a treat launcher"
-    excerpt: "Computer vision is key to how the machine works, detecting a dog's comportment in real time to tune its delivery of rewards to reinforce desired behavior. It remains to be seen how well it can approximate the experience of a skilled human trainer, though SF SPCA says it will soon release a peer-reviewed case study on how the machine worked with ..."
-    publishedDateTime: 2020-01-16T19:09:00Z
-    sourceUrl: https://www.cnet.com/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
-    ampUrl: https://www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
+  - title: "The best computer reading glasses to help reduce eye strain"
+    excerpt: "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ..."
+    publishedDateTime: 2020-01-10T14:01:00Z
+    sourceUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/
+    ampUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
     images:
-      - url: https://cnet1.cbsistatic.com/img/fWHvXXNhn2vuzxeOrGZW83vxgMM=/2020/01/16/54bce4bf-92df-44da-bf91-3e172ee7f65e/sf-pcs-image.png
+      - url: https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg
         width: 1200
-        height: 674
-  - title: "Canelo and Boxing Trainer React To Winning Best Fighter and Trainer of 2019"
-    excerpt: "The Mexican fighting machine ended the year by moving up to 175 lbs and defeating feared puncher ... Here is what Canelo has had to say (Spanish to English translation): “It is an honor to receive the BWAA fighter prize of the year but it represents an even greater pride to do it by your side @caneloteam. Many thanks to all who voted; Let ..."
-    publishedDateTime: 2020-01-18T11:22:00Z
-    sourceUrl: https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/
-    ampUrl: https://www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/
-    cdnAmpUrl: https://www-boxingnewsandviews-com.cdn.ampproject.org/c/s/www.boxingnewsandviews.com/2020/01/18/canelo-and-boxing-trainer-react-to-winning-best-fighter-and-trainer-of-2019/amp/
+        height: 628
+  - title: "How to reduce call volume with Computer Vision AI"
+    excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
+    publishedDateTime: 2020-01-09T00:47:00Z
+    sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
     type: article
     provider:
-      name: Boxing News and Views
-      domain: boxingnewsandviews.com
-    quality: 57
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
     images:
-      - url: https://i2.wp.com/www.boxingnewsandviews.com/wp-content/uploads/2020/01/Canelo-and-Boxing-Trainer-React-To-Winning-Best-Fighter-and-Trainer-of-2019.jpg?fit=1366%2C650&ssl=1
-        width: 1366
-        height: 650
+      - url: https://customerthink.com/wp-content/uploads/woman-1446557_1280-pixabay-social-technology-1.jpg
+        width: 1280
+        height: 853
 
 secured: "Z7Iwaqs5Vjq5zE8IIybm2pOsDZkUSE0QJzQSzfFBNAjfE2TcOcoNpGsYkYr0gSUzZzSnEJz4Daf8D3yoykQjRlFwteHyX64Sq9hLkdOcBAB7tju7gxaJ59epCouRdZbEdomTUSNIraE7u0HOI+3TnJi1zPgwDJicQpw52CHn7GTNW3zR+l1fhRRYsVeL+AAxtx7nWx0tsAVEKR2QlRrBb1GvFGGRdqad80sGVs4wQo3MH7iLdEtcBeyECnrnd7h59va9PG4hxaOikvUhqCMrbUZ3+hH3dZaf/z9Zg4fWz4dgbe6eEWX7E6BrR7iuNlbt0uqt8pjBRlAcpLsxuAnMRO+/Qfk0vJjOchWLx/pv2i9puIFs/srLX/OKGG2GJKmBweaRJ+apIbiYZwQfSv5Tgr/IHhhbApI1Kwz/WMiiq9DnFfC1l3iuUZKjH91FawwpqxFLxRxs9kqArfXmFoRtBw==;zmdDmDRRfRlhsUaCWyol9Q=="
 ---

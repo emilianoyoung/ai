@@ -63,6 +63,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
+    excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
+    publishedDateTime: 2020-01-06T13:46:00Z
+    sourceUrl: https://www.design-reuse.com/news/47338/zglue-chipbuilder-pro-iot-ai.html
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 0
 
 secured: "fHKhut4F+Zrk3jv6MamHQdaCL0dmqKt48kgWBm6Wl2nswYBKu2UV51zdh1kn7NH3jNPIkxEm3FWuwtPgT0LCzkEFKRH7yhggvU+lfpQoWKKP4npk0IO7XTg/UZPxIYK080KXjhlGUn+SAIdXaD/ZD9f9EuBUX4jcTqE++UdieJWavHSiACAyTi+XFVP/FmHqxzIeZQePgS2J5TdRPocHsNR0n0UmS4rO+2/Yrgkj4/YLiW0AM53oiVyz47NXdY3yQYvSVL0V3n8wA1uW+L2re9ngUCAMUT2M4BlxfeuaA4sZ0OizANUlmXpX7k35JoNNCDTHK8urkrIg+MVNHutZk8zUvqeHidbrQuchbw0qN9aCesGG2Xeai9tYNaQOOoIe5OoXb4TOlSlTF2yWq6LBk09xjGFUAXgXXhS2kFKssT8azV2pLIszatmOJgSycROhsoh9UpJ8uUAMiEztyQSZwg==;IadGjAdpvH9lgCCBeygDjQ=="
 ---

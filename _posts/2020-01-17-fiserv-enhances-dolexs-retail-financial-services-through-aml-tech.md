@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T09:17:00Z
 sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/fiserv-enhances-dolexs-retail-financial-services-through-aml-tech/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,21 +24,15 @@ images:
     title: "Fiserv enhances DolEx’s retail financial services through AML tech"
 
 related:
-  - title: "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services"
-    excerpt: "Large enterprises like JPMorgan, Fidelity and ICE are looking into using multi-party computations for a new breed of financial services business models. Leveraging blockchain and MPCs will lead to opening of massive opportunities for new services and products."
-    publishedDateTime: 2020-01-17T00:57:00Z
-    sourceUrl: https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/
-    ampUrl: https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/
+  - title: "ML in the cloud enhances the financial data journey"
+    excerpt: "at Amazon Web Services about how cloud is helping FIs upgrade their approach to financial data using artificial intelligence (AI) and machine learning (ML). Laying the groundwork Data is at the centre of digital transformation. FIs use it to optimise their business operations, enhance customer experience, bring new products and services to ..."
+    publishedDateTime: 2020-01-13T15:35:00Z
+    sourceUrl: https://www.finextra.com/newsarticle/35051/ml-in-the-cloud-enhances-the-financial-data-journey
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1fb5e2a854780006e89f78%2F0x0.jpg
-        width: 1200
-        height: 757
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "x7/54Uir1JvVmPOxkWMnIhNmrD8zGrVa4NvmNbSHVsZGY7reCkvbWrOKz+CV5ikCHkLf/UA5q6pW0ZSPEi/Olc6KefaGDouoaXu3xMF21LRUbJFLOPszxRotcuzADgi73Obar9p5zibK93MNDXgeaDeqDELLpEHPnRQrrJNcEjEwsgedmLkcMFTxdhXqjRLrDqyHCk4AJhRmaF2AqCIjgMTNjUWjLBPfuc6U7yaUJeS/eoK8EIS1OqOgIAoSs7b0n7gNmbB2ZTOnEeAMToKxVBv8iO/5RpxEppl/1DusgtvXoKlXRCnWrsK3wZSeXkgrffNVuIgR52IEuD173keLoO+yO5qU9LM+LwR9/zwMj2G9h44hsy7fgI+GpU4xDomb/s6NKMmUq0tG+JVxjC7PSipKr/y57khuW/dZHjk5Lqv0035A93UdK9tyXShapFR5O9FJ4Xdoi5Wh0w18GjVt8g==;34mnpeZHV6nzBuRjbxNQMQ=="
 ---

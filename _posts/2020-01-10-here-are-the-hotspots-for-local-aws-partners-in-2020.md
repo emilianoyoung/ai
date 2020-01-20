@@ -23,21 +23,6 @@ images:
     height: 500
     title: "Here are the hotspots for local AWS partners in 2020"
 
-related:
-  - title: "EVERSANA and Noom announce strategic partnership to improve therapy adherence and patient engagement for complex therapies"
-    excerpt: "/PRNewswire/ -- EVERSANA™, the leading independent provider of commercial services to the life science industry, and Noom, the world's leading behavior"
-    publishedDateTime: 2020-01-09T13:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/eversana-and-noom-announce-strategic-partnership-to-improve-therapy-adherence-and-patient-engagement-for-complex-therapies-300983980.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: https://mma.prnewswire.com/media/1063760/Noom.jpg?p=facebook
-        width: 599
-        height: 315
-
 secured: "26h1NkRJYIlc+9Iyv6aqsGcOB1oSolq1+UahYWwkjQA0izEE3JsTiG09+uiCZf5+6OC11gStRXf9/ZkUYeK1VGAK6sbOqh/Waun1/0gOsdEJ3xgJaqsblAT6vSkTgFF9D7NjAgarTg6EQ50/n77z+axgNDIQLh1GCv4ONB1uX7y+8DhAUtBeT4EFNsUifT4xL5CqIKRn2Q95mSSnVtozLZy7795hFeR2uJ2+geGsEmHQ/ydBkcW0UKwrqNwWNir1EDlsMJC6+BzYIW3G+SgSJ967GSJsbLc1fwbQqHbaASwmqDGh1X4dsabYoE82dfhIro/ju2CWW0mcVIyc5puQ++G7slZ4t0MPYFeO00MR5elaX43birdX5unHaP7lZ5v0tISrEbgq6hcWD1w2Cw0d1T5yaYgOj9LcakpbK4sYlpDj+2cr2okQg0jJE6Kex/0e4lM3K0MX6TktXxUC1PeKFA==;94xJJ3L1cNhbljXAL39YiQ=="
 ---
 

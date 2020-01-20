@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-18T15:26:00Z
 sourceUrl: https://news.microsoft.com/en-hk/2020/01/16/microsoft-azure-sentinel-debuts-in-hong-kong-providing-stronger-cybersecurity-offering-for-local-businesses/
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1024
     height: 639
     title: "Microsoft Azure Sentinel Debuts in Hong Kong Providing Stronger Cybersecurity Offering for Local Businesses"
+
+related:
+  - title: "Training in cybersecurity a ‘hot topic’ in Australia"
+    excerpt: "We’re currently seeing significant growth in cloud related training, especially Microsoft Azure and AWS. Cyber Security is also a hot topic at the moment ... We have software testing, courses that focus on securing the cloud, irrespective of vendor. Artificial Intelligence and Machine Learning coming soon, as well as recently introduced ..."
+    publishedDateTime: 2020-01-20T15:14:00Z
+    sourceUrl: https://itwire.com/security/training-in-cybersecurity-a-‘hot-topic’-in-australia.html
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: https://itwire.com/media/k2/items/cache/a7e505a9a64889d099be0ccb44f806fe_M.jpg
+        width: 375
+        height: 375
 
 secured: "DJt8RIRymEsVGbW8yR7YYzqjl2FB/NJb5NtogN39B7QoTfgegDOevIbkUbTuM7EivUuXS8YXlwQVm53wA6iMBUgftABMkKzJggVuEZrfaVRoX7MGLTFXtDS6WcVHnClDZELdrzvXBAf69FAuCPGt2/t4ye4lvSkrv5Mp+qHvBBBnlgvK5qNLh9MUg2Y/M8YfMevyS5hl2izvOJQPhIyRapFHt0GoYHAT427TeGCKfKdGva+8/Z7wVmAmP02GbKnFqDWStHOYeAHNQ9mqs7y1kUoSdjSmoyN+33JyRQZnrhe+hbaTx1mA0HkmWdQu1h2g+4cxln7Nrdwe1UnAuikiYfHeY/xf+RPbAxNtRyIsLh8MrQH6zKprJWA4tGaP4rLZOIyB7spVgD/5BzIvAcqTzuDUap4Bm3yZxTo5almo5K2TUd1SzmSiCjboNL7hFUDvFnw6BZ3IJL3hG/iPNzjFlA==;p1NDWWyAYIIqbm3ZvGKYsw=="
 ---

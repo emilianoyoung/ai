@@ -23,21 +23,6 @@ images:
     height: 630
     title: "Europe considering tough new rules for artificial intelligence"
 
-related:
-  - title: "European Union mulls new tougher rules for artificial intelligence"
-    excerpt: "The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU's executive arm is set to propose the new rules apply to \"high-risk sectors,"
-    publishedDateTime: 2020-01-17T14:51:00Z
-    sourceUrl: https://www.sfgate.com/business/article/European-Union-mulls-new-tougher-rules-for-14983285.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: https://s.hdnux.com/photos/01/10/04/70/18894393/3/rawImage.jpg
-        width: 2048
-        height: 1365
-
 secured: "UwpAEC5FOOLAMz3Lyg02FJG1TyiZoEiWqZkZ/eKDEg5x8UPJl35ZEQCEddee1MHGRosaXEEUL4dvpKKpFFGN08UnTizbUYDXQKkjuheC/eLKqHU9KB+dI8fkACgdqSBNfQBsGydsHRnPTv6DZS4ze2TUopTx7NS3bBEV0lVB1wlBk4JTVvW5a+ChHgH/9Ov0y6zWuzjWPBJttnpRS3CPnaQ4k15CpwiDa5R+90B/oddc8+q06V/B0GpTK0ekqVsV/BsLmZRXzL+696+FnlnNkne9Ym353r1pj1uUxREbI1Q=;xHcZrvto2/zwHZiWt8Qydw=="
 ---
 

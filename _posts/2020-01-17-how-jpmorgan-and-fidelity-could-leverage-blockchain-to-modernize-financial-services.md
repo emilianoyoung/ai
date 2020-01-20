@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     width: 1200
     height: 757
     title: "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services"
-
-related:
-  - title: "Fiserv enhances DolEx’s retail financial services through AML tech"
-    excerpt: "Fiserv, Inc., a global provider of financial services technology solutions announced that DolEx Dollar Express ... cross-channel monitoring and interdiction solution for electronic payments. Both technologies make use of machine learning to detect suspicious transactions and thereby provide nearly accurate fraud detection and fewer false ..."
-    publishedDateTime: 2020-01-17T09:17:00Z
-    sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/fiserv-enhances-dolexs-retail-financial-services-through-aml-tech/
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: https://32thcv3s4g2f4bru3o3jkumf-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/riskfirst-1-300x300.jpg
-        width: 300
-        height: 300
 
 secured: "a2H6ojefeWovIob2d23csQ502zvS/tUU7INqsL0UK3aMHLWBc6LZrTGV8u7gX0a08PnloSaf3+iN5GP2TP4J8goSDpbs9UC6F2gUNsyoCZ9DFAZDmK96R6XcEY9lyZx6CN3WmI/JpH0wGG3Z/Onz7CUWgOBsW9Y3DxYuJ04+GIJ4b7UCeF3w0lAw0U8L36CSL4N+DmiMP8F9Pxqv/c4NbePdFypcWQj+um95UVOi21T+UV+PtY61HboEkkt45uDAEIKU1IFvWncjXKzSiZKGEBkhfxtPFSzAzGMkOFHgruWV2a8lB6qgM7XCYCbs2af6qmWVOMFhT3iK+daLCvzgrAyUW9nJH7WM9fXww7Rtae6JeOsdAeCxjJCIzu+n0wVim7cTTQW8YzrbzMUoZBkekxce9nhQaOKQkRBIsQGMeV02o1DnF93e+hf8LZby1JIrlImQKUzKUCrHfHoPHjI8lg==;BQwov9jRsAJu1K/dU4LRTQ=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: VentureBeat
@@ -30,32 +30,49 @@ images:
     title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
 
 related:
-  - title: "Creating a more accessible world with Azure AI"
-    excerpt: "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,"
-    publishedDateTime: 2020-01-16T08:00:51Z
-    sourceUrl: https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/
+  - title: "Artificial intelligence: DeepMind unlocks secrets of human brain using AI learning technique"
+    excerpt: "An artificial intelligence learning technique has been used to make a breakthrough in understanding several previously unexplained features of the human brain Researchers at Google-owned DeepMind discovered that a recent development in computer science regarding reinforcement learning could be applied to how the brain’s dopamine system works."
+    publishedDateTime: 2020-01-16T19:54:00Z
+    sourceUrl: https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
+      name: Independent
+      domain: independent.co.uk
+    quality: 58
     images:
-      - url: https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e79a07b9-c903-4f16-8e4f-ee19d7dfdf0d.jpg
-        width: 1024
-        height: 576
-  - title: "Creating inclusiveness at our first AI for Accessibility Hackathon in Asia Pacific"
-    excerpt: "identifying opportunities to use AI to build a more inclusive and accessible world around us. Their solutions were developed on Microsoft Azure and used Power Apps to create solutions that tackle problems faced by the community every day. Team Grab from Singapore on their communication solution for people with autism Problem statements on ..."
-    publishedDateTime: 2020-01-17T01:17:00Z
-    sourceUrl: https://news.microsoft.com/apac/2020/01/17/creating-inclusiveness-at-our-first-ai-for-accessibility-hackathon-in-asia-pacific/
+      - url: https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/16/14/deepmind-artificial-intelligence-brain.jpg
+        width: 2500
+        height: 1875
+  - title: "How Is Artificial Intelligence Changing The Face of Web Design and Development?"
+    excerpt: "With the help of AI or artificial intelligence, object recognition, deep learning, and image grading will be more accurate. Artificial intelligence or machine learning applications are able to help web app developers face problems related to coding, security, user experience, quality analysis and much more. Businesses all across the globe will ..."
+    publishedDateTime: 2020-01-19T06:27:00Z
+    sourceUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development
+    ampUrl: https://yourstory.com/mystory/artificial-intelligence-web-design-development/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-web-design-development/amp
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
+      name: Your Story
+      domain: yourstory.com
+    quality: 55
     images:
-      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/01/Feature-image-1600x1065.jpg
-        width: 1600
-        height: 1065
+      - url: https://images.yourstory.com/cs/1/a8255b902de611eaa742cd45a762896a/AI-for-enterprise-Apps-1579071380502.jpg?fm=png&auto=format
+        width: 1073
+        height: 786
+  - title: "‘Don’t set it and forget it’: Artificial intelligence’s role in media buying is taking shape"
+    excerpt: "The reality of artificial intelligence’s role in media buying may be turning out very different from the dream. Automation and AI could be used, so the theory went, for forecasting, analyzing data and ultimately improving campaign performance, so that marketers could change and reallocate budgets quickly. But despite advancements being made ..."
+    publishedDateTime: 2020-01-16T04:01:00Z
+    sourceUrl: https://digiday.com/marketing/ai-used-media-buying-just-not-expected/
+    ampUrl: https://digiday.com/marketing/ai-used-media-buying-just-not-expected/amp/
+    cdnAmpUrl: https://digiday-com.cdn.ampproject.org/c/s/digiday.com/marketing/ai-used-media-buying-just-not-expected/amp/
+    type: article
+    provider:
+      name: Digiday
+      domain: digiday.com
+    quality: 46
+    images:
+      - url: https://i1.wp.com/digiday.com/wp-content/uploads/2017/05/robot-tug-of-war.jpg?fit=682%2C292&ssl=1
+        width: 682
+        height: 292
 
 secured: "AppX1o+mCkU2ssQz3rHDHicSyk3Sf7K7+6vyRLJ1y48D0PdsvIc8bLPhPn1+JfSlCpSkxesUptt/eJVBQHBzR4nzuhNvOH/XwNdZ4wMEZmyk+zJaZhmGY1mgbAW9cAjGVHGKOdjX13inj/0urnqvPKBpc40d+MLd3mJ8jvFBz4VamtJP82bzzOWuM8VMSLJszB0Cyqp9e6Jb1in8an7+np+wyXdVghEd3sL+DyPKRRXWPyTS/bPydRXm6vsU6dNH98s2gyW6ioprWnattaIphueByPGzj16DEcD7uSizNyHN1xrGwQMY0NE1N7EQJ1XVbGOMmv2OSenI4T20Pk82DB6lp0KJ8Z9oKAM4Z+aaZ5vEBkO5cDYQtohL9dM/fkEGdZT/tXl7VSh1whELyCdL9GCUV/pY0BJ3mcCoucj7yfjsVfS4ctQ/KvB8QVhK0KPpn+R2JcrJvsXmfRminweoXQ==;PMYDZRvx59tlIPGwG8WGTg=="
 ---

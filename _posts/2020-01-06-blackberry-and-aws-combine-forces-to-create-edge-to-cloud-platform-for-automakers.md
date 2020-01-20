@@ -30,51 +30,49 @@ images:
     title: "BlackBerry and AWS combine forces to create edge-to-cloud platform for automakers"
 
 related:
-  - title: "Ambarella shows off new robotics platform and AWS AI programming deal"
-    excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas next week. Ambarella, which went public in 2011, started out as a maker of low-power chips for video cameras. But it parlayed that capability into ..."
-    publishedDateTime: 2020-01-02T10:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
-    ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
+  - title: "BlackBerry and AWS team up to make smart vehicles even smarter"
+    excerpt: "Additionally, the platform will integrate the BlackBerry QNX operating system and over-the-air software update services with AWS IoT cloud services for secure connectivity and telematics, Amazon SageMaker for developing machine learning models and AWS IoT edge services for in-vehicle machine learning inference. Senior vice president and co-head ..."
+    publishedDateTime: 2020-01-06T18:59:00Z
+    sourceUrl: https://www.techradar.com/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter
+    ampUrl: https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
-        width: 1200
-        height: 646
-  - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
-    excerpt: "The Santa Clara, California-based company unveiled the CV22FS and CV2FS automotive camera system-on-chips (SoCs) with CVflow AI processing and ASIL-B compliance to enable safety-critical applications. Ambarella will also demo applications with its existing chips — as well as a robotics platform and Amazon SageMaker Neo technology for training ..."
-    publishedDateTime: 2020-01-06T10:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/
-    ampUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
+      - url: https://cdn.mos.cms.futurecdn.net/2mY8X5N3SSLuWtVUUnBDre-1200-80.jpg
+        width: 970
+        height: 545
+  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
+    excerpt: "These can take the training data for AI models that are deployed on devices inside smart ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities ..."
+    publishedDateTime: 2020-01-07T20:44:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
+    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/ambarella-2.jpg?fit=1200%2C655&strip=all
-        width: 1200
-        height: 655
-  - title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
-    excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow-powered AI vision system on chip (SoC). Until now, developers had ..."
-    publishedDateTime: 2020-01-08T11:05:00Z
-    sourceUrl: https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    ampUrl: https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    cdnAmpUrl: https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
+      - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg
+        width: 1300
+        height: 500
+  - title: "BlackBerry teams up with AWS for new connected vehicle software platform"
+    excerpt: "The AWS-powered BlackBerry platform combines the two companies’ edge and cloud ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. “The result is enhanced VVIP treatment for our discerning luxury ..."
+    publishedDateTime: 2020-01-07T09:29:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/07/blackberry-amazon-web-services/
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 77
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 38
     images:
-      - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
-        width: 612
-        height: 355
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2018/07/09100637/handshake.jpeg
+        width: 1920
+        height: 1226
 
 secured: "vbwuy6jKeU0KuuX0ZLkLvhI8Miy4fd1CWUNB0OBVDcWyfFyhjZJtPnNumGSdx5QZQYt03+zwaYKhC9wQOoyzkKwiWnJDZIzfkfoND1qadIgS1d4wH2vxGvoz0ommjV70/d6QTojOdkGJE5CWMPrcfuF866oAt+LWT8Y6mlzkdQYqGeEKmJSgTlEp4/bqkkFQwsFHrHslIdCIaczgMgDEcdDr1HNLjkcwA2FE2CXt3SZMp4GadVSkTwS2dRkrPyS7bI2VJb7TfKup4yCa8Wom1KpWtZK85868T7OLV3c9rgqozJieM/ELobpYG46q+ichYftIT7kp7Ut2UnEVjuKRVUORsdH3JARYffvrJz9bUH8jfiL1WU0zquocUdwsDXSmMzOojW3VtW7nRQGS5TWyuxmBPzvfVWZV6U+RqCRzcBmaEBEHk22PQEoUpCnjxd7O9tIarLz9HC2Vu8waK4iL0w==;aDHgvTrPUgc7o413HHOgxw=="
 ---

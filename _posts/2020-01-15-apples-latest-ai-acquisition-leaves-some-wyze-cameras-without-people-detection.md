@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/15/21067594/apple-acquires-xnor-ai-wyze-camera-people-detection-feature
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 19
+  - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
+    excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
+    publishedDateTime: 2020-01-16T01:36:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 14
+    images:
+      - url: https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4b45ead200c-600wi
+        width: 600
+        height: 330
 
 secured: "uT5E4sxanMe9XAkW0xZH9gzLW/YcJq2TV/eFOdmgBBFR1XyJoRdBWA9iQDHR+Hmr0Kvq2btJwd/0AFvF7i12hkFedUwPYSTYEyKthHBidFXTh++hQILZZXZbcKUzWyUbuAvxtSjSIKTpOrnZU1w1aBozdY2L0H9FQEfV9ds6vh8xY85VXmj6M9PJrQckf4tXecHi8wRrGv2ytqDLBl+jO4TfVbEITlMncs6DntSY9p2vJboU/JIaDFmHTF22Zz7O+BjoAf44cQCg5mMx3ntUxt9GE5AgUerIvcakfZQ6EvkfqcyZE5LO/l2iYHWUBeVoAmcId4Zj2BqPwlnQb78MVa1v/Ya7t2KSyQFw/q3THF+C/OOUHSu+gW4oDgIImclpF8gX7JTxEroq9wxvjf4tFXlE217/KlPw0qebCqXBcwvOqoemRYVOPqYYBatpsCQcHCBLqD60nTO0POIAgmCzqQ==;faWQYHDBS2RPIY6t88Q6Wg=="
 ---

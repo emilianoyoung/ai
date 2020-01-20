@@ -37,21 +37,19 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg
         width: 660
         height: 371
-  - title: "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver"
-    excerpt: "Azure ExpressRoutes, a service that provides a private connection between an organization ... Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. Ottawa will begin piloting its new 311 AI chatbot in the first quarter of 2020. Sanders also said the city is experimenting ..."
-    publishedDateTime: 2020-01-09T21:12:00Z
-    sourceUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868
-    ampUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
-    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
+  - title: "An Introduction to Microsoft Azure and the Microsoft Cloud"
+    excerpt: "Azure is full of services and products, offering a complete solution for any organization and Microsoft is doing its best to ensure that the platform provides for any scenario, especially where big data, analytics, AI and machine learning are concerned. Throughout this guide, you will learn what cloud computing is all about and how Microsoft ..."
+    publishedDateTime: 2020-01-02T17:51:00Z
+    sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 80
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 54
     images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg
-        width: 620
-        height: 250
+      - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
+        width: 1200
+        height: 1555
 
 secured: "zUUjhIFjNeJJcME5JKmFfO2nJeLdaAzU2tTPydUeIN6d/BBXDVDzGMqNjgXogdlrTMgT0BcE7We6bprMtqEuERyU7qVK/eS05M2G9KPZGPL2xlv7/NvEcf2VNtKOtcDzsqt3DgMFdM29+M1nxBIXnHhJ6U4kWmpc07kKDM/wUJljooWf7tPPUy8Z4axpYVMxl1GvC4r1VVnvGSvphDMrIQsLQ8xYBI2wK4CTILJj+4Sc8jq0ujyKm+HZtZO9rbWyEbYnkJ2tzdX+AmJ/iCM0JJ3TFpNSEhgXVUaNKyqdnnT6pwUZp/7IW2Nfm3hMHQeX7Gy3p+13B82Lm4uLkMOak02H4UrWWx9PNcAK1NpeaF2cb6oc48WOMwrMIk37ZspbQH773oxMwBM7Iul/inDRyAW4ydqbrJHM22vD9kQJF/B3O6RhWlFbYcBdMqkm3KJ6Cr13vQdnVGX+prBuuQ6osg==;q7qgYC2hVW81lU4IbfaZqQ=="
 ---

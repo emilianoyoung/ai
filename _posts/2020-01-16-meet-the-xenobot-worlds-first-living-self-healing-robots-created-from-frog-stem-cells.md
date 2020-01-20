@@ -33,17 +33,6 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/hPio9oXE73b6NhFJiBF2HD-1200-80.jpg
         width: 800
         height: 450
-  - title: "Using machine learning to fine-tune views of the ancient past"
-    excerpt: "A team of researchers affiliated with several institutions in China and two in the U.S. has developed a way to use machine learning to get a better look at the past. In their paper published in the journal Science, the group describes how they used machine learning to analyze records of the past. Scientists use fossils to date rocks because ..."
-    publishedDateTime: 2020-01-17T14:53:00Z
-    sourceUrl: https://phys.org/news/2020-01-machine-fine-tune-views-ancient.html
-    ampUrl: https://phys.org/news/2020-01-machine-fine-tune-views-ancient.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-machine-fine-tune-views-ancient.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
 
 secured: "DyiZ6yHA4gaZu38FJZK6A0ZUujX3brbHYrb5iWzU/g/pQ+CTQ28vvn2brGzfbRNRfm2lwI3J9jzLJpdHjuPWwLffsIYyTE7UQIOuVccucKCszbVeEluOTZQiyygfct6dlbHT/LEH3ulh8N3RXKGCdKFa6SLsgu1c9uXOlo06J09IclNRB7UGs62ZB3vFpEz8laFdpa+yuvqlk4s4VmGjBRgCnvTCNb/8ejg8JYI5A0fD7NxaQP0G1DOxTqPbbqfN963eptPZTKzh4XUvwYl9L4goY0Dz6WyN7mkvoyfPLjb26tGT/tTk1nlscyHhLOZtkBpqkT/03Ve6XZbETw2MJhxlhXKJwrshsdihAjdnIh1yGN9RCDOY12tLWsmK/Bnqgv+bEX70mU0u/SsS9ZA/Ra4F/ZgaWgcHAdfucVwJiAEiOS+xMzq5aR+0C5cFhNUdXULxPeDgnQflBdNi5pNz0A==;jxs8GHpHISxmEItwRA6F7A=="
 ---

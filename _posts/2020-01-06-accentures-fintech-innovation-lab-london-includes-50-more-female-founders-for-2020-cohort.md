@@ -24,36 +24,19 @@ images:
     title: "Accenture’s FinTech Innovation Lab London includes 50% more female founders for 2020 cohort"
 
 related:
-  - title: "Forum in Bahrain focus on AI and FinTech"
-    excerpt: "Being held in partnership with Smart SMB Dubai, UAE at the Gulf Hotel conventions centre, the event will focus on Artificial Intelligence, FinTech and VAT, with more than 20 speakers sharing the latest in the world of technology and finance. The conference is expected to attract more than 200 participants from various sectors. It will also ..."
-    publishedDateTime: 2020-01-06T11:20:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/Forum_in_Bahrain_focus_on_AI_and_FinTech-SNG_163856884/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163856884/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163856884/
+  - title: "Accenture has revealed the eighth cohort of its FinTech Innovation Lab London"
+    excerpt: "Accenture has welcomed the eighth cohort of its FinTech Innovation Lab London, but not every participant will be successful in the competitive space."
+    publishedDateTime: 2020-01-07T14:30:00Z
+    sourceUrl: https://www.businessinsider.com/accenture-revealed-latest-cohort-of-its-fintech-accelerator-2020-1
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: https://www.zawya.com/resources/img/zawya-logo-en-social.png
-        width: 1200
-        height: 878
-  - title: "Cryptocurrency And Its Impact On Fintech"
-    excerpt: "With this in mind, there are a number of ways that fintech technology as well as the growing popularity of cryptocurrencies have helped a number of industries to expand. Whether this is through the integration of blockchain technology alongside intelligent Ai systems, or the continued use of online trading by individuals and businesses alike ..."
-    publishedDateTime: 2020-01-10T07:53:00Z
-    sourceUrl: https://www.androidheadlines.com/2020/01/cryptocurrency-and-its-impact-on-fintech.html
-    ampUrl: https://www.androidheadlines.com/2020/01/cryptocurrency-and-its-impact-on-fintech.html/amp
-    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/cryptocurrency-and-its-impact-on-fintech.html/amp
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: https://cdn.androidheadlines.com/wp-content/uploads/2020/01/androidheadlines.com-design-1-768x597.jpg
-        width: 768
-        height: 597
+      - url: https://image.businessinsider.com/5ab26b45410e8451058b45a2?width=1200&format=jpeg
+        width: 800
+        height: 400
 
 secured: "LSR+CcWyXGqzizGh+uay9UuBgyU9K70BcseJIlu0y0QUHBwdTfD2+RASLuE18w13u8d9uVgQTn2Rd6mLLjEljg7s2BifURZDX1JqYNZ+eUED3q+VdXVP4CC5kmQeGTfIkQPJPG1Sy8HmN7M1s+RRpVw5rHD+3sTaRUvkMgrWS36LYCB/VKUdI3VvBqvw2RTnfkJioo8n03iDsS/AUOjOcurFNKm3sT3bce21Ejzew4xlfqNuOhgRLfLS4KmBKNsPkClOgPDNPfmllEhJ1CbxC+mpmAmdQ4gE/Xy9QYfrHMk=;XdBnEgigOT+Kmwu0hZ7W7Q=="
 ---

@@ -41,6 +41,21 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/2mY8X5N3SSLuWtVUUnBDre-1200-80.jpg
         width: 970
         height: 545
+  - title: "BlackBerry and AWS combine forces to create edge-to-cloud platform for automakers"
+    excerpt: "The platform uses Amazon SageMaker for developing ML models and AWS IoT edge services for in-vehicle ML inference. \"By combining our technologies and strengths into one dedicated cloud-based offering, we can ensure automakers have the tools they need to deliver the driving experience consumers want, without sacrificing on the security and ..."
+    publishedDateTime: 2020-01-06T15:53:00Z
+    sourceUrl: https://www.techrepublic.com/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    ampUrl: https://www.techrepublic.com/google-amp/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: https://tr4.cbsistatic.com/hub/i/r/2020/01/06/d81bdd9c-466b-4013-8c76-a311e4f76e23/thumbnail/1200x675/9bb56c6a9dff43731ee7c67b12bb93cf/ces-2020.jpg
+        width: 1200
+        height: 675
   - title: "BlackBerry teams up with AWS for new connected vehicle software platform"
     excerpt: "The AWS-powered BlackBerry platform combines the two companies’ edge and cloud ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. “The result is enhanced VVIP treatment for our discerning luxury ..."
     publishedDateTime: 2020-01-07T09:29:00Z

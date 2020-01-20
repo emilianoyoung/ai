@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
 
 related:
+  - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
+    excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
+    publishedDateTime: 2020-01-13T21:25:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/electric-cars-battery-range-self-driving-cars-safety/
+    ampUrl: https://www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electric-cars-battery-range-self-driving-cars-safety/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: https://cnet2.cbsistatic.com/img/amQzI-xYD7xjc4Nq8Frs_M6vOd0=/2018/10/15/0d11de19-7f2c-4b3a-b33c-ceddafa9d20b/hyundai-kona-electric-ogi.jpg
+        width: 1200
+        height: 630
   - title: "VW's all-electric ID Buzz van is a platform for self-driving efforts - Electrek"
     excerpt: "The ID Buzz still seems almost too cool (and far away) to be true. But at CES 2020, the new chief of VW self-driving told Electrek that the Buzz is also the basis of VW’s first self-driving vehicles for limited commercial use by 2022. That’s a good sign that the ultimate electric hipster van is on track. “The ID Buzz will be our first L4 ..."
     publishedDateTime: 2020-01-12T16:28:00Z

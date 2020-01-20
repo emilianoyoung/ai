@@ -45,6 +45,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1054938092%2F0x0.jpg%3FcropX1%3D243%26cropX2%3D5753%26cropY1%3D0%26cropY2%3D3101
         width: 1200
         height: 675
+  - title: "No plans for self-driving Rolls-Royce cars, says CEO"
+    excerpt: "There are no plans to develop autonomous Rolls-Royce vehicles for the foreseeable future, according to Torsten Müller-Ötvös, CEO, Rolls-Royce Motor Cars Speaking during a media briefing in Dubai, Müller-Ötvös reiterated the company’s desire to be “all electric” by the end of the decade. Müller-Ötvös said the technology wasn’t ..."
+    publishedDateTime: 2020-01-16T06:33:00Z
+    sourceUrl: https://www.arabianbusiness.com/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 44
+    images:
+      - url: https://www.arabianbusiness.com/sites/default/files/styles/fb_share_style_image/public/images/2020/01/15/Torsten-Muller-Otvos.jpg?itok=vCAm4zQI
+        width: 1200
+        height: 630
 
 secured: "eqYS7oTxC+7f3WqpbhMdk8jl6FthHF19zOsFKn3ID9hcu5TlwDRxZPz/0v7f9WwEpHeKJSDjEFwKrP69wl1W5DWO5Edue6i1qSA4XOuVvx6mTfYABR9IPdSOlosNvtVMy0shDvKt/UGBgvS6zYZ5HrN489bx9tSudKXygQwZj4k5e3UiRslSZPS62GkzoN76JWdysUEaGTM2yKCi9SRqKCenwCfLXi93MnX6TG37yeVANuRbrQBTP/80IwOXi6kLk31YVf9jsapzULij81/nc4vMyrNgKvjWDn/VvD2RwNYeNfOJoQD+crOCKvPLp50fTOrMe4z3HhKkEpqjSiuBZpBMLZIAtNaGO+od8nVIx2TvAZWWXMEw8MoZtoQJRyyVTbRty6YSpC0YlgX+w0bOdVx2vJ4gK48AWUKL6FMoIrJ8+z9CriZrja6HYgOUmLJ5G9Qm/gvnp1h4X8fWeTWszA==;nHdfhrwNxbGpuHmxIMM4ag=="
 ---

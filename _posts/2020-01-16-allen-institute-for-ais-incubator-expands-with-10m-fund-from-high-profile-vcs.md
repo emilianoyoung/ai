@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expa
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs/amp/
 type: article
 quality: 85
-heat: 85
+heat: 105
 published: true
 
 provider:
@@ -28,6 +28,38 @@ images:
     width: 1024
     height: 605
     title: "Allen Institute for AI’s Incubator expands with $10M fund from high-profile VCs"
+
+related:
+  - title: "AI2 Incubator hatches a $10M fund for AI startups with support from big-name VCs"
+    excerpt: "The AI2 Incubator program draws upon the resources of the Allen Institute for Artificial Intelligence in Seattle. (AI2 Photo) Seattle’s Allen Institute for Artificial Intelligence is kicking things up more than a notch for AI startups with a $10 million pre-seed fund for its incubator program. The AI2 Incubator’s fund is backed by some of ..."
+    publishedDateTime: 2020-01-16T14:40:00Z
+    sourceUrl: https://www.geekwire.com/2020/ai2-incubator-hatches-10m-fund-ai-startups-support-big-name-vcs/
+    ampUrl: https://www.geekwire.com/2020/ai2-incubator-hatches-10m-fund-ai-startups-support-big-name-vcs/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai2-incubator-hatches-10m-fund-ai-startups-support-big-name-vcs/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 82
+    images:
+      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-ai2x-630x405.jpg
+        width: 630
+        height: 405
+  - title: "VCs double down on hot Seattle startup scene with $10 million Allen Institute AI Incubator investment"
+    excerpt: "The news comes a day after Xnor was acquired by Apple. The edge computing AI startup was one of the first companies to receive financial support and mentorship from the incubator, and was reportedly acquired for roughly $200 million. The $10 million fund is being supported by Sequoia Capital, Kleiner Perkins, Madrona Venture Group, and Two ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/
+    ampUrl: https://venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/vcs-double-down-on-hot-seattle-startup-scene-with-10-million-allen-institute-ai-incubator-investment/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/AI2-Incubator-Team.jpg?fit=1800%2C900&strip=all
+        width: 1800
+        height: 900
 
 secured: "FzP7j4HgvF7OctDX2UcZDOLQcU5jZzpkfwXadJpKPJWBlZ7dHG0YNkCrGjb+pZI7dkbDytiJjHSZgP1grzZEbY5h0OkhWIy+oIr9wpUNMlxHawO2FgMUrzWoAW4H25tD1CE/aperhKr8OB12oEb9FLmvize5BSqNgIPnDTFcnVkQRctaPWEVHGAXQahqbUhczndNySikDR1yQCypDKXtwTxY3HGwLD+Q+cDxFl7IAcZlv9JChtbXGPkV8QhOC9EySq+kkGmRqCgol5/AJ///B0Rg5nUFV18E1LqyN7Iq0y2U9Ag7GTHJ22/H4Bs/mSbhlcMMIsgGauwHnqDFEqHe53M1+Eq9JhgWoWssPEDQio1K7K2NADMP+JHRDWxC6E+yGM4Sl6KTg/lzTC0dKtAK8z0eDSF2XwD7Lfs/dgyLzC7KhQ8JaTsTKSZoGIb42bO7FQCzPw8rNdQ90+wXcZoqjA==;SJ9h7iXWs+A/ry4a/GRsiw=="
 ---

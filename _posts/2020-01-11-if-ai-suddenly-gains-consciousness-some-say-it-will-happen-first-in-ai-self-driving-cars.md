@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/11/if-ai-suddenly-gains-consciousness-some-say-it-will-happen-first-in-ai-self-driving-cars/amp/
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -46,6 +46,21 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/zDwZYvo4k1HcO2tTSho5Vwl76h0=/0x0:2559x1664/1400x933/filters:focal(1076x628:1484x1036):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66122889/1189070708.jpg.0.jpg
         width: 1400
         height: 933
+  - title: "No plans for self-driving Rolls-Royce cars, says CEO"
+    excerpt: "There are no plans to develop autonomous Rolls-Royce vehicles for the foreseeable future, according to Torsten Müller-Ötvös, CEO, Rolls-Royce Motor Cars Speaking during a media briefing in Dubai, Müller-Ötvös reiterated the company’s desire to be “all electric” by the end of the decade. Müller-Ötvös said the technology wasn’t ..."
+    publishedDateTime: 2020-01-16T06:33:00Z
+    sourceUrl: https://www.arabianbusiness.com/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/cars-boats/437760-no-plans-for-self-driving-rolls-royce-cars-says-ceo
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 44
+    images:
+      - url: https://www.arabianbusiness.com/sites/default/files/styles/fb_share_style_image/public/images/2020/01/15/Torsten-Muller-Otvos.jpg?itok=vCAm4zQI
+        width: 1200
+        height: 630
 
 secured: "WVLKDN1ZZ0Oqy4YHk48FXoBUYt4V1tJ4M40xnkeR/hWsRwBRlqnIOoqDLxLwjlW9Cr0K99qYNEpwuUSQFJZVsf3mBGkFeMGM4ddiw2wq8qkuQ4QYr7W+bm2jDDZrYmcI87PicyuurNbSYTeOD2NrNBtccIgrBzmOVteRHW6iKzSBayXnsm8YsEw3ox3dDI2RB3LQuccEVfVpzQz4Bd6MxywusekhoK8N5PgqGP8WtT95zbDBJK3lsL294xUrS6h3kuqoHr+dubsUfaGoZrHX3DyGCj84XuBOzGs3AU13DyPAF/sjImCDfc+b11juQuWxWSKIx1QJ3bpThdpRm3tW+DJ7bLiabfzAHNGBLEK6hYHIWS1/8UkU7/vPeOnZzF+YO5UsoV/Dyp/lZhXiE/IdUaDEIgPvbozOhIa6KGODAgzy6uOrjIBOpUe6TsJfdNTnmNWDJGnv1H9/Apggm79iLA==;6GK7Y4SanGTRMDkN8W6dGA=="
 ---

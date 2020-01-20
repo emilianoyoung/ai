@@ -30,6 +30,21 @@ images:
     title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
 
 related:
+  - title: "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech"
+    excerpt: "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost."
+    publishedDateTime: 2020-01-15T20:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg
+        width: 640
+        height: 640
   - title: "Howes: Self-driving vehicle hype forced to reckon with reality"
     excerpt: "Howes: Self-driving vehicle hype forced to reckon with reality Next-gen auto industry won’t arrive sooner because its potential is oversold; not to investors or dreamers besotted with a Silicon Valley fairy-tale Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/columnists/daniel-howes/2020/01/16/self ..."
     publishedDateTime: 2020-01-16T04:48:00Z
@@ -57,19 +72,6 @@ related:
     images:
       - url: https://resources.stuff.co.nz/content/dam/images/1/y/q/w/b/3/image.related.StuffLandscapeSixteenByNine.1420x800.1yq5dn.png/1579207326721.jpg
         width: 1418
-        height: 800
-  - title: "Huawei looks to self-driving cars, inspired by Tesla"
-    excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
-    publishedDateTime: 2020-01-16T18:19:00Z
-    sourceUrl: https://www.khaleejtimes.com/business/corporate/huawei-looks-to-self-driving-cars-inspired-by-tesla
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
-        width: 1200
         height: 800
   - title: "Self-Driving Vehicles Need a Reality Check"
     excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."

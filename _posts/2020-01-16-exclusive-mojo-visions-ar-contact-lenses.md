@@ -82,15 +82,6 @@ related:
       - url: https://www.fudzilla.com/media/k2/items/cache/1caacaa9c9f56d30a557a35a6a1218c0_L.jpg
         width: 620
         height: 465
-  - title: "Mojo Vision is putting an augmented reality screen on a contact lens"
-    excerpt: "The Mojo Lens incorporates a number of breakthroughs and proprietary technologies, including the smallest and densest dynamic display ever made, the world’s most power-efficient image sensor optimized for computer vision, a custom wireless radio, and motion sensors for eyetracking and image stabilization. The Mojo Lens includes the Mojo ..."
-    publishedDateTime: 2020-01-16T13:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/16/mojo-vision-is-putting-an-augmented-reality-screen-on-a-contact-lens/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
   - title: "Mojo Vision developing “smart” contact lens"
     excerpt: "Mojo Lens features a power-efficient image sensor that is optimized for computer vision, a custom wireless radio and motion sensors for eye-tracking and image stabilization. The device increases contrast, highlights edges, magnifies objects and zooms out ..."
     publishedDateTime: 2020-01-17T14:52:00Z

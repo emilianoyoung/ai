@@ -41,19 +41,6 @@ related:
       - url: https://www.deccanherald.com/sites/dh/files/article_images/2020/01/19/file78uvgzoba0mwflzi1oj-1579426179.jpg
         width: 1200
         height: 497
-  - title: "Artificial intelligence, human gene-editing ethics and more at the AAAS Annual Meeting in Seattle"
-    excerpt: "SEATTLE, Wash. -- The growing use of artificial intelligence in society, how math can help address political gerrymandering, the ethics of human gene-editing, and the spread of infectious disease among ocean organisms will be discussed at the 2020 American Association for the Advancement of Science (AAAS) Annual Meeting, the world's largest ..."
-    publishedDateTime: 2020-01-13T15:02:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/aaft-aih011320.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 43
-    images:
-      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-        width: 900
-        height: 300
 
 secured: "0GiCBZXYv1hnH8Xs5PtgMI06xfllO07zi0ZOL49sEYqsKsg9JYbttl2uorqYleAErtSfznOOU8HrxjfNlTIqCUOqVdsaY1VdSoXCmozoBOjcMY6kR8XbqsnX21hqxYoVX6Lq43i2jJc5sAx7dlnZOn+zGz/KEEMY5hZPvrMIdk2a1ZkeI0qrVPvJmLE7Pvwc9yc8zESaU5Jzr9xisb69Q4YU+XAo8ZYwRLhni1nxnYnzg62xWS1mtWMrxt47r1YPXD8ujE7501/1S61Vn/93VInuB2tCz7qZuebjWEnbsns=;QJEwlJJLGvBoUgNJxr91Rw=="
 ---

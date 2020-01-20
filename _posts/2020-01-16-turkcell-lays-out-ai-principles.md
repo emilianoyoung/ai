@@ -24,51 +24,19 @@ images:
     title: "Turkcell Lays Out AI Principles"
 
 related:
-  - title: "The White House’s new AI principles won’t solve regulatory problems"
-    excerpt: "The principles themselves address some of the concerns raised by the AI ethics community and academics who study the effects of technology on society. One such principle calls for lawmakers to consider whether the technology will “introduce real-world bias that produces discriminatory outcomes,” echoing the rallying cries of academics who ..."
-    publishedDateTime: 2020-01-12T03:19:00Z
-    sourceUrl: https://venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/
-    ampUrl: https://venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/amp/
+  - title: "Turkcell Announces Artificial Intelligence Principles"
+    excerpt: "This initiative has made Turkcell one of the key global contributors to AI ethics and the first in Turkey to announce concrete AI principles. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200115005549/en/ Turkcell today announced its AI Principles that commit to the ethical and ..."
+    publishedDateTime: 2020-01-16T02:21:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_96563119-93dc-59b5-8f97-f910c82148d5.html
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Odessa American
+      domain: oaoa.com
+    quality: 39
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2017/01/white-house-north-view.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Obama-era tech advisors list potential challenges for the White House’s AI principles"
-    excerpt: "The modern reemergence of AI has given rise to dozens of AI ethics principles, and today there is a tapestry of prescribed principles and best practices for military, government procurement ..."
-    publishedDateTime: 2020-01-12T16:54:00Z
-    sourceUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/
-    ampUrl: https://venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/obama-era-tech-advisors-list-potential-challenges-for-the-white-houses-ai-principles/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2016/12/White-House-Matt-Wade-Flickr.jpg?fit=2048%2C1536&strip=all
-        width: 2048
-        height: 1536
-  - title: "Here’s how to regulate artificial intelligence properly"
-    excerpt: "From Brussels to Beijing, the Élysée to the Oval Office, leaders around the world are calling for bold regulations to govern artificial intelligence (AI ... dozens of policy areas — from criminal justice to consumer pricing, housing to health care. The lesson: There is no one-size-fits all approach. Seizing opportunities while preserving ..."
-    publishedDateTime: 2020-01-13T11:03:00Z
-    sourceUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/
-    ampUrl: https://www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/01/13/heres-how-regulate-artificial-intelligence-properly/?outputType=amp
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
-    images:
-      - url: https://www.washingtonpost.com/resizer/G_lvPl6_ldcLRJ6aHK7VhVQwQCs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg
-        width: 1440
-        height: 943
+      - url: https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/c/57/c57ca62f-e796-5e70-90d2-e46aa31b4e3c/5e1f306a32dac.image.jpg?resize=1032%2C630
+        width: 1032
+        height: 630
 
 secured: "QGiS6rTAIizjdENzmc3jyhTkmqRV5KjqLvo0Lb6ufzZXPUM5qUqWHtQV+wA3qIyPg5Pg9DyqO08rMKhV4crDqbyIWjgoWyD4g2iUxki4ctb5I7EbkaQ1speJOhJSCdL5KCbkxGj8ZQkAs7KPt4Nd0zlHsgHY5WM+WbJAjB/ex5Bo5g/w++5hAeZUPNXhLEYIImNKFSiQeQcABwZyENOmgSLf+wvoDQtxoHfTPK950WjU69ekCG38rLC13x7fMhfoYi7VTGaFgJNiQkgB4f8FsXAiJJ9s6FEs5r7vTtW5Xlk=;eh3VXZ3wAgYzl91C0XdZGg=="
 ---

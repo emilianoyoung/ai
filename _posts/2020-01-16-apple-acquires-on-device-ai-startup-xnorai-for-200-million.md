@@ -51,36 +51,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/05/xnor.ai-2.png?fit=1280%2C720&strip=all
         width: 1280
         height: 720
-  - title: "Apple buys edge-based AI startup Xnor.ai for a reported $200M"
-    excerpt: "Xnor.ai, spun off in 2017 from the nonprofit Allen Institute for AI (AI2), has been acquired by Apple for about $200 million. A source close to the company corroborated a report this morning from GeekWire to that effect. Apple confirmed the reports with its standard statement for this sort of quiet acquisition: “Apple buys smaller technology ..."
-    publishedDateTime: 2020-01-16T01:07:00Z
-    sourceUrl: https://techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/
-    ampUrl: https://techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2017/01/ai-platforms1.png?w=1024
-        width: 1024
-        height: 576
-  - title: "Apple acquires Xnor.ai leaving Wyze cams blind to people"
-    excerpt: "It’s no that often, however, that you hear of such an acquisition causing a different company direct problems. That’s exactly the strange situation behind Apple’s reported purchase of Seattle-based startup Xnor.ai which is apparently the real reason why Wyze is losing a key feature of its smart security cameras. Although perhaps virtually ..."
-    publishedDateTime: 2020-01-16T03:58:00Z
-    sourceUrl: https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/
-    ampUrl: https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
-    images:
-      - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg
-        width: 1280
-        height: 800
   - title: "Apple Reportedly Acquires AI Start-up Xnor.ai For About $200 Mln"
     excerpt: "(RTTNews) - Apple has acquired artificial intelligence software start-up Xnor.ai for about $200 million, Geekwire reported citing people familiar with the matter. Xnor focuses on the efficient deployment of AI in edge devices like smartphones,"
     publishedDateTime: 2020-01-16T03:26:00Z
@@ -141,19 +111,6 @@ related:
       - url: https://photos5.appleinsider.com/gallery/34156-61271-xnor-xl.jpg
         width: 870
         height: 485
-  - title: "Apple reportedly acquires Xnor.ai to boost on-device AI"
-    excerpt: "Did you know that, according to CEO Tim Cook, Apple acquires a company every two to three weeks? It’s just added another startup to its long line of AI acquisitions. According to a report by GeekWire, the Cupertino-based company has made a deal with Xnor.ai, an edge-based AI startup, for $200 million. What is edge-based AI, you may ask?"
-    publishedDateTime: 2020-01-16T06:15:00Z
-    sourceUrl: https://thenextweb.com/apple/2020/01/16/apple-reportedly-acquires-xnor-ai-to-boost-on-device-ai/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg
-        width: 796
-        height: 482
   - title: "Apple acquires Xnor.ai in bid to out-AI Google"
     excerpt: "Xnor.ai's technology should give Apple edge computing capabilities that align with the company’s recent assertions about protecting user data — a controversy that convinced Apple to attend CES after a 28-year hiatus. And while the iPhone's A12 Bionic chip supports machine learning to a degree, the Xnor.ai purchase suggests that Apple's ..."
     publishedDateTime: 2020-01-16T18:30:00Z
@@ -199,21 +156,6 @@ related:
       - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/02/Apple-logo-shutterstock-650-e1552381548177.jpg?fit=650%2C399&ssl=1
         width: 650
         height: 399
-  - title: "Apple acquires low-power AI startup behind Wyze on-device person detection for $200M"
-    excerpt: "Apple has made another acquisition in the artificial intelligence industry. GeekWire reports today that Apple has acquired Xnor․ai, a Seattle-based startup that focuses on low-power artificial intelligence technology. Xnor․ai notably provided the AI behind smart camera company Wyze’s on-device people detection feature; the acquisition by ..."
-    publishedDateTime: 2020-01-16T01:07:00Z
-    sourceUrl: https://9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/
-    ampUrl: https://9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/amp/
-    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/amp/
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 50
-    images:
-      - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/wyze-cam-pan-1.jpg?quality=82&strip=all&w=1000
-        width: 1000
-        height: 500
   - title: "Apple Acquires On-Device AI Startup For $200M: Report"
     excerpt: "Apple has acquired a startup with technology for enabling high-speed artificial intelligence on devices, according to a report. The report from GeekWire says Apple has paid roughly $200 million for the acquisition of Seattle-based Xnor.ai, which spun out of a research organization founded by Paul Allen, the late Microsoft co-founder."
     publishedDateTime: 2020-01-16T01:21:00Z
@@ -251,15 +193,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 37
-  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
-    publishedDateTime: 2020-01-16T11:29:00Z
-    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 24
   - title: "Apple acquires edge AI startup for about $200M"
     excerpt: "Xnor's AI-enabled image recognition tools could be a natural fit in future iPhone models. Xnor was spun out from the startup incubator of A12, which was founded by late Microsoft co-founder Paul Allen. The startup had raised $14.6M in private funding."
     publishedDateTime: 2020-01-16T00:18:00Z
@@ -269,19 +202,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "Apple Acquires a Company that Forbes described as one the most Promising Artificial Intelligence companies in America"
-    excerpt: "A new report posted today claims that Apple has acquired Seattle based Xnor.ai, a spin-off from Paul Allen’s Allen Institute for Artificial Intelligence. XNOR.ai aimed at making state-of-the-art AI capabilities cheaper and more accessible. GeekWire notes in their exclusive report that \"The arrangement suggests that Xnor’s AI-enabled image ..."
-    publishedDateTime: 2020-01-16T01:36:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2020/01/apple-acquires-a-company-that-forbes-described-as-one-the-most-promising-artificial-intelligence-companies-in-america.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 14
-    images:
-      - url: https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4b45ead200c-600wi
-        width: 600
-        height: 330
 
 secured: "pPR4XOL5JqWQ59VOBKW66j+TIA5uWd706TdDxq80OvyAWNXKnuSNWyKpkIuCstc76Ea0rOU3fEyg0QokHq28P355qIP1/eJqUP8dc8Fc7n63Fpr/JUv2XkdMSC53QAZ3cm0t3rpeEts7+YU98sshBds7Ly7wYULcAwnurOr3PVX8jEjkNzro5pY+OtPZSj2JLTlI6ms35ihHAU9qrKDufGf+Q6BzJw6HT7XA+PqdYauMb+yryVrf9cvFmZNTorP3ev+A9YSs3kQUfRBWaC5KyK41fYcfsQssEtoye99kuO43DQCE8Uj3ukNfEQYVAdOqzqRvsbBRd69oW30UPoSH6mK8lt21043D8ue/SLt66Vg9XW+V+CMsdocBH2Ia48+mr70XZcHQiJJys3KrNZRfJ9lHgn9FjdRP0c2CzX/hbnMX5CqSoqdy/NrxYTrH5pcaFVFQtkO9/v2OzDJuCbqmBA==;pUD8m2vC61exuMedUHeWWw=="
 ---

@@ -24,6 +24,17 @@ images:
     title: "Facebook Apologizes For Translating Chinese President's Name As 'Mr Shithole'"
 
 related:
+  - title: "Facebook Apologizes for Vulgar Translation of Chinese Leader’s Name"
+    excerpt: "Advertising Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, said when he first saw the translation he thought someone intentionally made it to embarrass Xi. But on closer inspection of the original Burmese post, Wong said, he could see how a machine would make that error. Xi’s name sounds similar to ..."
+    publishedDateTime: 2020-01-19T19:46:00Z
+    sourceUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/
+    ampUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Facebook apologises for rude translation of Chinese leader Xi Jinping’s name"
     excerpt: "Facebook Inc said on Saturday it was working to find out how Chinese leader Xi ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China ..."
     publishedDateTime: 2020-01-19T01:34:00Z

@@ -46,36 +46,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
         width: 1200
         height: 646
-  - title: "BlackBerry and AWS combine forces to create edge-to-cloud platform for automakers"
-    excerpt: "The platform uses Amazon SageMaker for developing ML models and AWS IoT edge services for in-vehicle ML inference. \"By combining our technologies and strengths into one dedicated cloud-based offering, we can ensure automakers have the tools they need to deliver the driving experience consumers want, without sacrificing on the security and ..."
-    publishedDateTime: 2020-01-06T15:53:00Z
-    sourceUrl: https://www.techrepublic.com/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
-    ampUrl: https://www.techrepublic.com/google-amp/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/blackberry-and-aws-combine-forces-to-create-edge-to-cloud-platform-for-automakers/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: https://tr4.cbsistatic.com/hub/i/r/2020/01/06/d81bdd9c-466b-4013-8c76-a311e4f76e23/thumbnail/1200x675/9bb56c6a9dff43731ee7c67b12bb93cf/ces-2020.jpg
-        width: 1200
-        height: 675
-  - title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
-    excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow-powered AI vision system on chip (SoC). Until now, developers had ..."
-    publishedDateTime: 2020-01-08T11:05:00Z
-    sourceUrl: https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    ampUrl: https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    cdnAmpUrl: https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 77
-    images:
-      - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
-        width: 612
-        height: 355
 
 secured: "77wzJwW8V+a4BiLZlpEeyiN6c7Jqm63yNcQR9AOdUsiSewVLbxtkgy5rb50B1ArRCBFDmQySO0pMDpZEFRiP09axgSHA4OTJwgV1OcyENS+zv+ehstRoNbfZqgBaEjcCKuW1SiEJBFEoTJ8HpDdkwZ9dxTP3fSOlQFpLdvs0GkN/PvsGyRLy6dxX0EnfbmgCkia2L4EPQQqAleZ1ptrCD7lcnx5yXehhEDchDISdjibrhb/hN82HdTmTK0eGvcmo9H/NdT0pcbuiZ1mmNV3mOegdcDxcLSHtwNDQm+F/tMMEiF9HrmH1ypu1GCVxAF0/uFSo3Fn8U1PR1WKgge82TwXhHfT3QOd/PlKbH6aFMewn4ouCv3YlD99rkyysQTx94lB0huH5/G9H/FBOUHa8QhZffxE92OCt70WeNl2nGQqOVL74Lcw5/tK5VGfQgxTjr5Z3HLhCQ2axNNa8Er9MdA==;Ub640qKbctdgE66jONAGAw=="
 ---

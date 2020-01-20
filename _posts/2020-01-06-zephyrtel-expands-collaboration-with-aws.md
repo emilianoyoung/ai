@@ -61,6 +61,15 @@ related:
       - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
         width: 599
         height: 450
+  - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
+    excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
+    publishedDateTime: 2020-01-06T13:46:00Z
+    sourceUrl: https://www.design-reuse.com/news/47338/zglue-chipbuilder-pro-iot-ai.html
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 0
 
 secured: "wVwzQrDW8RhzVSdAQPzAa3UCXlJjk/5IW5CblP09TfUDqdHSwbll9wqSZyWso8w9XfByUQFxj51O79e7vZ5r4Sr4WheyGw53EmxQ1arErapiGV63ALhutosY/OSxGP/pLYbYCzIVoenBLtOdT1GghkM0dTLx61SUl4xgdBlcgeJ/Jmncz73CLBVQZrSx3Y0bcwKcW2L90DQzEIucARx/5owC+eFZ4fcwZkugcVBXqkiz/inrfwtLYMYyIulawZpSjhHgeWQfrhBFpIpRmaY07gMqDsW7TvjAAjusLppM5bU=;WPY0JSbsbVG4WpgsPYknog=="
 ---

@@ -49,19 +49,6 @@ related:
       - url: https://tr2.cbsistatic.com/hub/i/r/2019/09/25/ad9f6a19-686a-4383-b9e0-4d5cca38d599/resize/1200x/ee305c191ab3d54326490b6d17feb414/istock-512454930industrycloud4.jpg
         width: 1200
         height: 799
-  - title: "AI in 2020: Artificial Intelligence? Or just plain artificial?"
-    excerpt: "But that hasn’t stopped AI from becoming one of the buzziest terms thrown around by technology and financial services experts. Fintech startups use the word to make products appear cutting-edge and established firms find they have to offer “AI” to remain competitive. The products they are referring to as AI, though, are often little more ..."
-    publishedDateTime: 2020-01-10T22:21:00Z
-    sourceUrl: https://www.investmentnews.com/ai-in-2020-artificial-intelligence-or-just-plain-artificial-176281
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 54
-    images:
-      - url: https://s32566.pcdn.co/wp-content/uploads/2020/01/CoverStory-image-20200113-900x600-1.jpg
-        width: 900
-        height: 600
   - title: "The Most In-Demand Hard and Soft Skills of 2020"
     excerpt: "Soft skills are more about behavior and thinking, personal traits and cognitive skills. They’re typically more difficult to measure ... Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use. So, recruiters should start becoming familiar with ..."
     publishedDateTime: 2020-01-12T18:44:00Z

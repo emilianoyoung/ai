@@ -18,19 +18,45 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Video: FPGAs and Machine Learning"
-    excerpt: "Through the combination of powerful computing resources and novel architectures for neurons, neural networks have achieved state-of-the-art results in many domains such as computer vision and machine translation. FPGAs are a natural choice for implementing neural networks as they can handle different algorithms in computing, logic, and memory ..."
-    publishedDateTime: 2020-01-16T15:54:00Z
-    sourceUrl: https://insidehpc.com/2020/01/video-fpgas-and-machine-learning/
+  - title: "Artificial Intelligence and Machine Learning"
+    excerpt: "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ..."
+    publishedDateTime: 2020-01-13T17:47:00Z
+    sourceUrl: https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 41
+      name: aha.org
+      domain: aha.org
+    quality: 56
     images:
-      - url: https://insidehpc.com/wp-content/uploads/2020/01/intel.jpg
-        width: 1060
-        height: 958
+      - url: https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg
+        width: 1500
+        height: 1038
+  - title: "AI and machine learning topics of lecture at NU-Q"
+    excerpt: "Artificial intelligence continues to reshape all aspects of everyday life. From driverless cars and supermarkets with no cashiers to factory automation and e-learning, the rollout of machine-driven data and automated processes are redefining how the world operates, especially across the media industry. Senior explained that machine learning is ..."
+    publishedDateTime: 2020-01-18T22:31:00Z
+    sourceUrl: https://www.gulf-times.com/story/653656/AI-and-machine-learning-topics-of-lecture-at-NU-Q
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 56
+    images:
+      - url: https://img.gulf-times.com/Content/Upload/Slider/120201913050956207162.jpg
+        width: 620
+        height: 355
+  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
+    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
+    publishedDateTime: 2020-01-07T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: https://mma.prnewswire.com/media/1060716/Allegro_AI_Logo.jpg?p=facebook
+        width: 797
+        height: 419
 
 secured: "wZUXZXGgzYrwZ7nf25Jzvt6lIOtG9VH91PDKajAbrUcZCeMELiBR/QDKVbG6cUV3uxn2SSaHv7DdEMoa2qLfkAinRFWC/quETb3dHMrJWiW8y3+E7b92LK3bd0lUrp0QCKIdu3/w2PeWY5N6UYw0bOfTYESjwbRKxa8mh8Cd9oiI3HpA4Omm429n8TvLp5ZDtfWw/HEAHXD0NCJkbMz2mfNpDhcjFr/xmNuCP/QbjpBq3FvqsjsjFx7VSZWOffe0TsKt9xwx4ZAS8TEiOm63dKmr4EPrq5rv2tpNmhQqpVw=;Z48qSzb26vGNn4FRwb+UQg=="
 ---

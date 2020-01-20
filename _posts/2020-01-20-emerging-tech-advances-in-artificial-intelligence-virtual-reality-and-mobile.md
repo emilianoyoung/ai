@@ -37,30 +37,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e25c0dd8b6cf300071c7e19%2F960x0.jpg
         width: 600
         height: 315
-  - title: "How Mumbai-based Taglr is using AI to understand ecommerce behaviour and aggregate a marketplace for users"
-    excerpt: "Anirudha says, “What differentiates us is the quality of the experience, the focus on relevant products and localisation by using an artificial intelligence (AI) engine to understand India's shopping trends.\" Because of the large volumes of data and consumer behaviour insights, the team relied on a machine learning engine to be a part of the ..."
-    publishedDateTime: 2020-01-20T00:28:00Z
-    sourceUrl: https://yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai
-    ampUrl: https://yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/mumbai-taglr-ecommerce-marketplace-ai/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Imaget7zd-1579347889519.jpg?fm=png&auto=format
-        width: 800
-        height: 400
-  - title: "Intel’s Confusing Messaging: Is Comet Lake Better Than Ice Lake?"
-    excerpt: "With Intel now putting AVX-512 in its consumer processors, along with a stronger GPU and things like the Gaussian Neural Accelerator, actually identifying what uses these accelerators is quite hard, as there is no official list. Intel took the time to give us a number of examples. In this case, we’re seeing AI enhancements in the Adobe suite ..."
-    publishedDateTime: 2020-01-16T13:00:00Z
-    sourceUrl: https://www.anandtech.com/show/15385/intels-confusing-messaging-is-comet-lake-better-than-ice-lake
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 4
 
 secured: "vEqjJ6zmoW3mq4CuGvqwRMEsQC5ZR9J3Hnpm6rMW1kKcQeUHX8nG7kY+47+iuFgsuUlh4eGm3LPOMDlRko7nyZcLhWcM28cUIx3cUc+6v+3KBkVTRGjrxhfupmYrlSBDQN6O3WMYmp/G6g37WFEEJUOmQHwWzH6TlEEmuObH8dHoImrXWiB3DzC4TumDW1EAi5mNoe9GBm5fh+wvxd2NU/IV6qP4ZP7DgLopBBEioheMlf8/ILq078b+aZvtvBctmzCBtd55UPeFQtPGzluoHAs0Xo2l8aYrtHivtRPGKQ+7ODQUTcZ5v5LxLfGzNyxEDcKSBb7Xtzk3F4tH1uadQSF5wbPbY2rP2bL3GWszHgedkYa3RyQZ9DeYsft2j5pEhXOzpcK5wmpk2uIqBPdyHW12wDC44wri/hjWJKa3whthY2T0luxTSXiWYhf6jSJ0SqHmO4pjEqKZp05orhsRPg==;FZdQq8EUq4A+xBgxDu1NOg=="
 ---

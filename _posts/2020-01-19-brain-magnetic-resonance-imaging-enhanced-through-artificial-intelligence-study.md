@@ -35,19 +35,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg
         width: 620
         height: 480
-  - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-    excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
-    publishedDateTime: 2020-01-17T17:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial intelligence to improve resolution of brain magnetic resonance imaging"
     excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network –a model that is based on the functioning of the human brain–that \"learns\" this process. \"Deep learning is based on very large neural networks, and so is ..."
     publishedDateTime: 2020-01-17T14:39:00Z

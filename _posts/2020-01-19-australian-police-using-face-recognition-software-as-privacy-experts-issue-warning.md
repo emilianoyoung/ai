@@ -20,95 +20,78 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Law enforcement is using a facial recognition app with huge privacy issues"
-    excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
-    publishedDateTime: 2020-01-18T19:45:00Z
-    sourceUrl: https://www.engadget.com/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+  - title: "Face recognition mobile application in 10 polling stations"
+    excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
+    publishedDateTime: 2020-01-18T16:53:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
-        width: 600
-        height: 350
-  - title: "What you need to know about Clearview AI and its facial recognition app"
-    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
-    publishedDateTime: 2020-01-20T15:36:00Z
-    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
-    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
+      - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
+        width: 615
+        height: 384
+  - title: "Speech and Voice Recognition Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
+    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
+    publishedDateTime: 2020-01-20T08:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-strength-major-types-key-applications-and-opportunities-forecast-till-2026-2020-01-20
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
-      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
-        width: 1024
-        height: 512
-  - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
-    excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
-    publishedDateTime: 2020-01-18T18:42:00Z
-    sourceUrl: https://www.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    ampUrl: https://amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Telangana Municipal Elections 2020: In a first, face recognition app to be used in polls on pilot basis"
+    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app in a bid to counter impersonation by voters on a pilot basis in 10 selected polling stations. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
+    publishedDateTime: 2020-01-20T05:24:00Z
+    sourceUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/
+    ampUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
     type: article
     provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 54
-    images:
-      - url: https://m.dw.com/image/41695602_101.jpg
-        width: 1024
-        height: 576
-  - title: "Why your palm could be safer than fingerprints or facial recognition"
-    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
-    publishedDateTime: 2020-01-16T05:27:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 23
+  - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
+    excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
+    publishedDateTime: 2020-01-14T22:24:00Z
+    sourceUrl: https://www.fieldtechnologiesonline.com/doc/machine-vision-artificial-intelligence-transportation-s-fast-lane-to-innovation-0001
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 39
-  - title: "Researchers developing facial recognition wearable for emergency service workers"
-    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
-    publishedDateTime: 2020-01-16T21:22:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 13
+  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
+    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
+    publishedDateTime: 2020-01-14T11:28:00Z
+    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
+    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
-        width: 300
-        height: 250
-  - title: "Voice Recognition Used by Law Enforcement"
-    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
-    publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 7
+  - title: "SaltStack Introduces Plugin Oriented Programming with New Open-Source Innovation Modules to Power Scalable Automation and Artificial Intelligence"
+    excerpt: "The Umbra plug-in system attaches infrastructure data streams to artificial intelligence / machine learning (AI/ML) programs for fully autonomous infrastructure automation and configuration management. Umbra guides users through the IT and security operations decisions too often made in the dark. After Umbra attaches to a data stream it ..."
+    publishedDateTime: 2020-01-16T00:33:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/15/9082022.htm
     type: article
     provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 4
-  - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
-    excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
-    publishedDateTime: 2020-01-17T03:12:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag
-    ampUrl: https://amp.benzinga.com/amp/content/15140449
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
 
 secured: "pCy9ATwFaA86922Fr/5gxoQu4DGxA/d/dToaXTSpqJ9l5wGL0LjC3CXjibKzDcBA5VisqHq7DFSLwzo9Q9DZUd5CVeRDF7LtqJdILa4352WYhmdrhMhx/ZysoPbJ/xZHeLXE4IniZCu7ed0DrSnVm6Acz7/6LhurqWq1XICAhl14b7agfVMvmGxpWF6mRUzJjqa9C+wItQzqskzg5PO5/w2CnDU1e45Di2GQ4Aw41d5tTyoZDo7U1gkg0ZBUrn8o5e0AYvJ9ZsGdX0/TnRYt4zFr/L/gOZazWsekmpVtmzHi88yV03efkEp410ouGcZsqd0wCPsd79XppdJJ0kO5aiovGz2KSB732/iLv8EkwHl0Q9mUVwh4YyQQ33VE79ruQYT9m5U7ZSKYhdRGqBXf6MBCCR3KdQUuJMr9VftAVyzYQ51hXh97y3JM+6rrW+L9bYgrzsa9kQMiaTrkWHV2xw==;SWRGRVZhUfuDM/CSMqE5vQ=="
 ---

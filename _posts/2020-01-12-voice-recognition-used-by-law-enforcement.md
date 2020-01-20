@@ -18,97 +18,49 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Law enforcement is using a facial recognition app with huge privacy issues"
-    excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
-    publishedDateTime: 2020-01-18T19:45:00Z
-    sourceUrl: https://www.engadget.com/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+  - title: "Amazon Doubles Down on Ring Partnerships With Law Enforcement"
+    excerpt: "In other cases, municipalities may be utilizing other technology—such as Amazon’s Rekognition product—to extract data even if the security cameras themselves aren’t the most sophisticated. When asked whether Amazon had considered applying facial recognition software technology to Ring cameras, Limp pointed out that Amazon hasn’t ..."
+    publishedDateTime: 2020-01-07T20:02:00Z
+    sourceUrl: https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/
+    ampUrl: https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
-        width: 600
-        height: 350
-  - title: "What you need to know about Clearview AI and its facial recognition app"
-    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
-    publishedDateTime: 2020-01-20T15:36:00Z
-    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
-    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: Wired
+      domain: wired.com
     quality: 74
     images:
-      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
-        width: 1024
-        height: 512
-  - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
-    excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
-    publishedDateTime: 2020-01-18T18:42:00Z
-    sourceUrl: https://www.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    ampUrl: https://amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
+      - url: https://media.wired.com/photos/5e151678fa6692000820d0e8/master/pass/Biz_Ring-1174747225.jpg
+        width: 2300
+        height: 1533
+  - title: "Amazon fires four smart-doorbell firm Ring employees for snooping on customers' video feeds without permission"
+    excerpt: "This, it claims, is to maintain its AWS infrastructure. Ring also failed to rule out the possibility of adding Amazon's controversial Rekognition facial recognition technology to its products. Instead of clarifying if it would implement this feature in future models,it named rivals that offer facial recognition technology in their products."
+    publishedDateTime: 2020-01-09T09:27:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/Amazons-Ring-fired-four-members-staff-snooping-customers.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7868219/amp/Amazons-Ring-fired-four-members-staff-snooping-customers.html
     type: article
     provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 54
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 24
     images:
-      - url: https://m.dw.com/image/41695602_101.jpg
-        width: 1024
-        height: 576
-  - title: "Why your palm could be safer than fingerprints or facial recognition"
-    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
-    publishedDateTime: 2020-01-16T05:27:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 39
-  - title: "Researchers developing facial recognition wearable for emergency service workers"
-    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
-    publishedDateTime: 2020-01-16T21:22:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
+      - url: https://i.dailymail.co.uk/1s/2020/01/09/09/23185846-0-image-a-8_1578561041268.jpg
+        width: 636
+        height: 382
+  - title: "iFLyTek develops voice recognition for law enforcement; moves forward with AI innovation despite U.S. ban"
+    excerpt: "Chinese startup iFlyTek boasts it has created for law enforcement AI technology that leverages voice biometrics to identify a person, writes Nikkei Asian Review. In upcoming years, iFlyTek aims to use it in fighting phone scams after rolling out the voiceprint recognition system across the country. iFlyTek uses AI to analyze big data to improve ..."
+    publishedDateTime: 2020-01-07T18:08:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/iflytek-develops-voice-recognition-for-law-enforcement-moves-forward-with-ai-innovation-despite-u-s-ban
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 34
+    quality: 22
     images:
-      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
-        width: 300
-        height: 250
-  - title: "Australian police using face recognition software as privacy experts issue warning"
-    excerpt: "Privacy experts have described as “very dangerous” revelations an Australian entrepreneur has developed facial recognition technology that is being used by US law enforcement agencies, allowing surveillance images to identify suspects by matching their social media profiles. The New York Times reported on Sunday that Hoan Ton-That - an ..."
-    publishedDateTime: 2020-01-19T08:55:00Z
-    sourceUrl: https://www.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
-    ampUrl: https://amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
-    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 33
-  - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
-    excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
-    publishedDateTime: 2020-01-17T03:12:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag
-    ampUrl: https://amp.benzinga.com/amp/content/15140449
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
+        width: 900
+        height: 499
 
 secured: "7unDlHdQe3vdzQvzPB2FoBl/B/ajuNEhF3SizXjcHzlxVogbocx8q4SDqXhbPEJ69yaF2UMgmgpd5bHD/uz8szMPOvmUhTjU+oyMq1U26tzTG3tzddhDI5zyy6nxJEiSvU7qGAbXvDc7j8x3yqHoW1vwJ4wDsVhj98L22jQGt6LaUciPu39Cb/kznHsNypCvTYTH/pPOc/KTZ/F9iGrrZxw8CHoM2QRR2eT/lr1Mf+vlmmMwGEj3NFA57R7MElL1nbEG2E4C1nDiEc/zs5DNpO0zLN0oLQNfL4FXUawuEj0aCjHgy3Vddopi8HrvUvP4s60kc8+jjSJJMq1ycc7HAe5AFh1vUDXshOtWG0TDro8tL8rqUcV0MaDraMLJZMfFDqnHQegAdaELYVNZX4ceT4P2jOBBov4DKYZA4Db/AyKvMX8NGl6EI36isrCQHtfuHBTLS4eQ8DGsT+axodMqsg==;IRQzUuqOPdRx7ErM8frs8A=="
 ---

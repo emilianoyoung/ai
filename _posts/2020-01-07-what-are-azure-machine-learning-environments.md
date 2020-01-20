@@ -27,21 +27,6 @@ images:
     height: 282
     title: "What are Azure Machine Learning environments?"
 
-related:
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
-    publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: https://mma.prnewswire.com/media/1060716/Allegro_AI_Logo.jpg?p=facebook
-        width: 797
-        height: 419
-
 secured: "1Gxpsaa3zgYyrpikJ0qsAnYfVeSXF4MgOU+ayX6fT9qOiFGSJaaZd+wi0d7Y2DFyW5tbvQnpy9y0ufYb0DNbE3UWF2g7SJG6Fz/bf72S8K5yEJIkeKresQ+wTiaYfFzb+lp/l8KY40aPO1XloztKnjgmO1zN1zY0mcoj89qnauEBX+x0+jSGjODAuSNkS+yDMO33B12TkKfRNgHPR0YIhzSKPLhbt7jV/d9YOHlEJIxbiGNxR2UB+O+m7OaADx7+z6gPMpINzco+iIDNsT32pGoI8bl7YwgSEV9pi/V2WJjHM9wzgi/YMIDj8omOejM3tFYPrr3a0nBcaX630QAraeOr2E+7KyDVLrUHfPL7HfAnxzabyCOkdOInpY3mQSK+TekI86I/TDjYp4y3r24AIwTB8FEW8r3hI8SBGp7Si32NJ7T+t2NOCJyU5GYSiy0DJHvF0lhJVWUnkuiqysBu8Q==;5R1V/hWOeREZq5d3qDxMww=="
 ---
 

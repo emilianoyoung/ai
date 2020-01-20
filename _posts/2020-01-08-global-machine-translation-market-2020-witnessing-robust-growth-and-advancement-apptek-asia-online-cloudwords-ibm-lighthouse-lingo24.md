@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Translation gadgets go mainstream at CES 2020"
-    excerpt: "Luckily, several pocket-sized gadgets in several different form factors were introduced at CES 2020 to solve this problem, translating various languages into a person’s native tongue. One of these gadgets, the Lingolet One, was a CES Innovation Awards Honoree for its artificial intelligence (AI)-based translation capabilities that includes ..."
-    publishedDateTime: 2020-01-10T15:17:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14537/translation-gadgets-go-mainstream-at-ces-2020
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: https://electronics360.globalspec.com/images/assets/537/14537/lingolet-15.jpg
-        width: 752
-        height: 421
   - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
     excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
     publishedDateTime: 2020-01-02T07:45:00Z

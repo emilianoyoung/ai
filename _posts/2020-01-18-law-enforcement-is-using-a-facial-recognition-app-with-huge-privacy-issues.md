@@ -8,8 +8,8 @@ ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
 type: article
 quality: 87
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -30,36 +30,21 @@ images:
     title: "Law enforcement is using a facial recognition app with huge privacy issues"
 
 related:
-  - title: "What you need to know about Clearview AI and its facial recognition app"
-    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
-    publishedDateTime: 2020-01-20T15:36:00Z
-    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
-    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
+  - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
+    excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
+    publishedDateTime: 2020-01-16T00:34:00Z
+    sourceUrl: https://www.cnet.com/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
+    ampUrl: https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 88
     images:
-      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
-        width: 1024
-        height: 512
-  - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
-    excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
-    publishedDateTime: 2020-01-18T18:42:00Z
-    sourceUrl: https://www.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    ampUrl: https://amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 54
-    images:
-      - url: https://m.dw.com/image/41695602_101.jpg
-        width: 1024
-        height: 576
+      - url: https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg
+        width: 756
+        height: 567
   - title: "Why your palm could be safer than fingerprints or facial recognition"
     excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
     publishedDateTime: 2020-01-16T05:27:00Z
@@ -71,50 +56,32 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 39
-  - title: "Researchers developing facial recognition wearable for emergency service workers"
-    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
-    publishedDateTime: 2020-01-16T21:22:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
+  - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
+    excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
+    publishedDateTime: 2020-01-17T22:05:00Z
+    sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 30
     images:
-      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
-        width: 300
-        height: 250
-  - title: "Australian police using face recognition software as privacy experts issue warning"
-    excerpt: "Privacy experts have described as “very dangerous” revelations an Australian entrepreneur has developed facial recognition technology that is being used by US law enforcement agencies, allowing surveillance images to identify suspects by matching their social media profiles. The New York Times reported on Sunday that Hoan Ton-That - an ..."
-    publishedDateTime: 2020-01-19T08:55:00Z
-    sourceUrl: https://www.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
-    ampUrl: https://amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
-    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
+      - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
+        width: 1202
+        height: 656
+  - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
+    excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
+    publishedDateTime: 2020-01-15T13:49:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/15/the-technology-202-facial-recognition-gets-another-look-on-capitol-hill-today-from-skeptical-lawmakers/5e1dfc4588e0fa2262dcd2b5/
     type: article
     provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 33
-  - title: "Voice Recognition Used by Law Enforcement"
-    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
-    publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 4
-  - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
-    excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
-    publishedDateTime: 2020-01-17T03:12:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15140449/image-recognition-market-is-striving-in-worldwide-with-top-key-players-2020-ibm-corporation-imag
-    ampUrl: https://amp.benzinga.com/amp/content/15140449
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15140449
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 23
+    images:
+      - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/7791c5031c0c2d9d36d30a1baac53364-680-453-70-8-O7C3FGBTCII6VFY3IO7MH74YMA.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
+        width: 1484
+        height: 988
 
 secured: "PYvY+I50yObMDhdngULG+W0uP6sDAiWbulqsmgJUvxn953+ua9E70gOZh4DfpSzByV3BDpS1ghK5EPZSHwpFTEWTn/xobyDGEk2IZeiGcVTaRqFSxYjQw+Iyc5kNffJh2BLtRUrQ6vf7d/xmrhHL56HXP7HmWBZxlmbSwjc3ZTFgxDM/VOsUScN49lqe7zC+/Tm2SBb5JQNdO4xBLIREsCuNPb0zDZanlurL7G4XF1/s/NJXn/diBW+0PP/GcmjCm00i1ZV2lkHzBXzMi3DyGDx6sZThXHjKBbNJesRJdt8RYTt3k3uxxZqNDRYmqw32it39TQcVe4wz+o/0ZpzMeznJNxb3uYzasCRSNxFvoqHNPJ0HvNByCQdgGhj+IUFNNCaLSkV+MVseLhCThKF7THBDYHr1Vr7Vox6OOQrJYT0c8bjjvhmRoJgd5rVteLq+EdjwaJOuJ6CGHa5sx/VCZw==;UqW6cEKmNR0WPhOyYBD4rw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T17:46:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,34 +21,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T11:12:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 59
-    images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
-        width: 800
-        height: 448
-  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T12:48:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    type: article
-    provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 39
-
-secured: "qfFPYrKduPpfmjEFpMpRcaAMkhrOTW1DYTuZ+QIc1Rm/V0R1KYkGFeRuUyS1d1hgtF8dCJ0JUVki85Y9gaGq96vRk8vfCMy0/JBIlgju80bCtfzWSHMwtt1K0CFjk4uxaNqE5RAY3urNA+bsUhPpmLcO5DFT2VqsCqMVYvFQnDmMR6XA4BpNBr68EWwgtOLULsYY2e5ewZxv1gZtmBbae4XWbgW12S5ilDRXOUYVEId3JkyYr4HEIHEbDgsGkZg/u7lAWjbISepY7tdyqirre5abv+LuTQ/oZhkegffrOps=;X/ciq5Nxh1PVC/QvMhsqNg=="
+secured: "Sj2lR78WcHf4vH5pRnrNJSJUKDK72fU18HK5cSdSP9bi8eZjdelFwOUz/XEo5Fmbbxv8fkrskdSz1VB6jH+5w2w6sEYokevt+khV0rCmdKcl+VIUgHTC+xI6AMNr6eYAYJSFzu3HfwUQPriDmyZfVkp6IGcy+lwmSlVf20ITP6zAlCgzfKVdC1olcDWjd8ek0pNQrMSVZk5gawh9sItf6jqiPrPqkiQOUm+HNjO7qyqSK82yUNv6CN5IcTGG7fBJN0hmoNh/fwUV36eBxUHw1XvUPXwHis9s1RiXpRJLy0g=;elEH4oz44G9779t/V4oA+w=="
 ---
 

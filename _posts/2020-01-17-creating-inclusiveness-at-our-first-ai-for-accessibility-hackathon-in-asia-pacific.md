@@ -41,21 +41,6 @@ related:
       - url: https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e79a07b9-c903-4f16-8e4f-ee19d7dfdf0d.jpg
         width: 1024
         height: 576
-  - title: "How DeepMind is unlocking the secrets of dopamine and protein folding with AI"
-    excerpt: "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ..."
-    publishedDateTime: 2020-01-15T18:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/
-    ampUrl: https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
 
 secured: "rzGXhbtB/ykP2/6Kkt7l/A2Xl2aBizyU+MsRjpuO4qqpaJT3vy1rIkN8Xvlr9mSBHpg/N1iDi1Wcj5ucL4bIooEvJvGcdmSos2y6FsRiAHNxXQUIYO0iRPIQGoJtuS8/EAX3jRVgmYUudVTs1C7ChCnboR2kiSoFYyUslynZ0fW0uA6Ga7TTFrjTIuGo85UXbXfXKMZPITSijUq/u5t8inKIYochlAOQtcNkjE/e7rEOINvXQNJZMbJvaiNgsgmt5tLrssbEaTRAMMmqE94CFLSge4UKA0Z6xVOlrTLvvM1h0y7ARwwaw7bhflROoMJ8Ovg2KN13gkhGTViC4WDg3anIDLZvU0ImqhrnA11pEkbyjWqGy7tgsBTxv27QwcAK8GFOEVPjtgtHS2wCSWl30KYwosqIgTrHDsjmjGTs4eQIYJVOXE37w04Z4jU/ZSFCw7sZOrvJvDtVJk2YO129Ug==;CrnX3iLXd685ghIniQUpOA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZG151
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,19 +58,6 @@ related:
       - url: https://apicms.thestar.com.my/uploads/images/2020/01/17/498447.jpg
         width: 1240
         height: 825
-  - title: "As Killer Robots Loom, Demands Grow to Keep Humans in Control of Use of Force"
-    excerpt: "These countries are investing heavily in military applications of artificial intelligence (AI) with the goal of gaining a technological advantage ... They call efforts to regulate killer robots “premature” and reject concerns that such weapons will threaten the right to life and principles of human dignity, or that they would fail to ..."
-    publishedDateTime: 2020-01-15T23:21:00Z
-    sourceUrl: https://www.hrw.org/world-report/2020/country-chapters/killer-robots-loom-in-2020
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 36
-    images:
-      - url: https://www.hrw.org/sites/default/files/styles/open_graph/public/multimedia_images_2020/202001wr_essay_robots_1.jpg?itok=TZz46gcb
-        width: 1200
-        height: 630
 
 secured: "ZqZuXey+mWuFl04w6AFd83JI/RIDQOTv5LUQTqgtvuw0zH4JAs4U+WXII+P+TUoMMqyERsksT5O04zotweNFvGJREfbDRQvS982e1jUjAlJhoLDPxUu7gUk2YumKUFPMDuSNFAyGmu4zVWKXisklvB3RWoRfRAhVra7Z9hk4MychK5mfOxzVbRUgGvfeESOLjL/T5J9HTX5QyZWehzUy1EJykKcWUiISn38ixok8uJY7PCTa+CV5PbSZ3oumNUJ6yCo+8tprmzp11ybSHHQiMdmZ8JcilLJQoK4U1c1E5Zo=;WIFrMah7XPX/aHs3bkviLQ=="
 ---

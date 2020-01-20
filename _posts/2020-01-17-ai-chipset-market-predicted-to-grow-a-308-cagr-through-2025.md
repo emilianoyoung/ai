@@ -24,60 +24,50 @@ images:
     title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
 
 related:
-  - title: "AI Chipset Market is Expanding Due to Adoption of Industrial Automation"
-    excerpt: "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers."
-    publishedDateTime: 2020-01-20T11:05:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation
-    ampUrl: https://amp.benzinga.com/amp/content/15149083
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
-    images:
-      - url: https://www.abnewswire.com/uploads/1579519636.jpeg
-        width: 417
-        height: 455
-  - title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
-    excerpt: "Advance Market Analytics released the research report of Global Automotive Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Automotive Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
-    publishedDateTime: 2020-01-20T16:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latest-release-automotive-artificial-intelligence-market-will-hit-big-revenues-in-future-alphabet-microsoft-corporation-ibm-corporation-2020-01-20
+  - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\"."
+    publishedDateTime: 2020-01-17T17:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
-    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
-    publishedDateTime: 2020-01-14T06:30:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
+    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
+    publishedDateTime: 2020-01-18T04:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 627
-  - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
-    excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
-    publishedDateTime: 2020-01-19T13:36:00Z
-    sourceUrl: https://www.analyticsinsight.net/intelligent-automation-benefits-across-businesses-industry-implementation-and-key-market-players/
+        height: 630
+  - title: "Artificial Intelligence in Manufacturing Market : Key Facts and Forecast Predictions Presented Until 2025"
+    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
+    publishedDateTime: 2020-01-16T12:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-key-facts-and-forecast-predictions-presented-until-2025-2020-01-16
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 11
-    images:
-      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
-        width: 1634
-        height: 918
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+  - title: "Natural Language Processing Market : Dynamics, Segments, Size and Demand Analysis during 2019 - 2026"
+    excerpt: "Global Natural Language Processing Market valued approximately USD xxx million in 2018 is anticipated to grow with a healthy growth rate of more than xxx% over the forecast period 2019-2026. The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural Language processing ..."
+    publishedDateTime: 2020-01-20T07:54:00Z
+    sourceUrl: https://www.openpr.com/news/1900560/natural-language-processing-market-dynamics-segments-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "SdBwe533AKGy6VU/trVRoyzym5TghCiSDN8fNTeGlMoRKLckv5qMRCNcU212JN6CYrduaTHYbY6DDlPVNQAe8RpraEBDiS5vUGDjG13tbWwewWWLOlzSDf7UR5bHzYMUsVEtdLKgzzMN/L6aFuQV/AD3C4LLadmogfQobIz1aOUqsPbjt59+ONCoT49iYHnl9EQu7+RR+p9S0VrXLUBTnjW9ZLlnUHeJj1WyoAwkX8/eTrn/VJ4Ci1czMCOkX6wwA9RK5h8zxQQ7ZJkKz4DuBv8L2PT/Jmu+vbQWj4AhHZnAsKxxJB0+O26MR9cp/JP60A4qR1Z8DoUQwmoa+w2QRIEL/piG9F5cg9eo90/Q3n+vjH0iooM5mRfDIFPyZ/HYdiRYSldxah4IrFOm4HQd6AlkzT3/kaBOJ2VtmrAzkAWmKUsvNm28CZ1sTBdapmpBT59YQfCknad2rOF2z3v61w==;xg+FVz+WBvBlV8EIHT3kVw=="
 ---

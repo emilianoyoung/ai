@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T17:01:00Z
 sourceUrl: https://www.embedded.com/multiple-standards-to-emerge-in-2020-for-ai-driven-vehicles/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 640
     height: 342
     title: "Multiple standards to emerge in 2020 for AI-driven vehicles"
-
-related:
-  - title: "3 steps to implement ethics in AI for competitive advantage in 2020"
-    excerpt: "Every major company and government deploying AI at scale has publicly declared some form of statement on ethics in AI and articulated a set of guiding principles. In fact, Harvard’s Berkman Center for Internet & Society has launched a project to catalog all of these statements. While statements of ethics in AI are public, how ethics in AI ..."
-    publishedDateTime: 2020-01-06T15:50:00Z
-    sourceUrl: https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/
-    ampUrl: https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/VB_FeatureImage_1200x600.png?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
 
 secured: "GPawK928s9tTRPTWFnfu5y56xYc7URqxzrZDzLFhNcwWI8uFDejWTPfPQA4tBoPDVh7HgI99c/CSfnKSjSYigmhsq8cdD2KBUz5SuzhVidJNDpiKZmO3YyZaE8W+MJT1CUFbVPP3xCHyJ9fM0L1lNN17HZ+7ld6KSeG/SbYn8GkJXN7Xx3SzTMzQ9X14P2v7t8GB7TFReObkamVWIao6L1wWl+pgEZL3ipcg6pboThOMD83IEBOMq1ZJaCLHRzba17enP78CRMrtZUrYb7ssAIalTKL/k1QaYrLyqtbOZ5KMnK8Xwi/ZSPY2QAgb/8DSBzyEn9xS2Si1ifBO4ZlsF2X8iQ3Vaoh1fsKMMbDM0CAHaDJadRPLGl3aGMsESVt3pVS3H+rCc6enDqLoZRDxHf904mlU73C2Gvzuv3Q5W/Gldf4dh1qwvbSy5CMtSdqL8S+VTo5XgXIPhkD+2GTnBw==;NcSk/0y7yd/u1s1yk4QGcA=="
 ---
