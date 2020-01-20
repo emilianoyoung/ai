@@ -2,8 +2,8 @@
 sponsor:
   name: Scale
   url: https://scale.com/
-  logoForLightTheme: https://ai.insideout.app/assets/images/sponsorships/scale/logo.png
-  logoForDarkTheme: https://ai.insideout.app/assets/images/sponsorships/scale/logo.png
+  logoForLightTheme: https://fiona-bi.github.io/ai/assets/images/sponsorships/scale/logo.png
+  logoForDarkTheme: https://fiona-bi.github.io/ai/assets/images/sponsorships/scale/logo.png
 
 messages:
   - title: Scale AI Selected as One of America's Most Promising AI Companies
