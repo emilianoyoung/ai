@@ -57,6 +57,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period."
+    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-20T06:29:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
     excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
     publishedDateTime: 2020-01-17T10:12:00Z

@@ -52,6 +52,19 @@ related:
       - url: https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg
         width: 1080
         height: 564
+  - title: "‘Xenobots’ Could be Stage-1 of a Real Terminator-Like Robot"
+    excerpt: "Let’s start with first congratulating the group of scientists and researchers who made ... Remember, it’s experiments like these that gave birth to fully self-aware AI like Samsung’s Neon and even Sophia the AI robot. Also Read: Say Hello to Neon: The AI Video Bots That Have Human Emotions With Xenobot, you are seeing the next stage ..."
+    publishedDateTime: 2020-01-20T07:05:00Z
+    sourceUrl: https://www.thequint.com/tech-and-auto/tech-news/xenobot-what-it-is-and-how-was-it-made
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 39
+    images:
+      - url: https://images.assettype.com/thequint/2020-01/7560f7fe-1cc8-48be-9839-5725cae490ca/hero_image_3.jpg
+        width: 2000
+        height: 1125
 
 secured: "deoAKfJc88/DiMaMv0offO4FYE5Q7vKXADYo1PYOsKQPwLqdNVGJOODNewp0C+RIFORHWduv2VxUz+vD03t/M9nH8wSk3zorFe69fucIZZa2RnE9yTZm4Xka6CoipIgkFbTfQz8ya2HXmIHGilIHhhs2w+qpqA6VLyJKpeUK5g7y4Hd1axlKxIJAxepjyAHy37rwLOzZfmNvnmbLNAVhNC6BhYKI9k8SoZ8Pam+VmeqIHbu2bRUtVOftPVIwbieWjAbydAQB7xx/i2tm1bfEELFqwx2IIB1reMMNgDACcFQ2l1XleIdJkK9z36kQMYt3ZTTUc2JqQRC6zZZrQkBV40aiZL7Dr5EaSF3H5xFIF0X7oRpPehqTW8+zKkpOlOE5SC4X+boNQDEaAXZOu0Kg8StqxjU6qF500N2WHCJib0ZfNuV/lqPvYvMKD0glGC41yXZeXywkRlbxr2Y2yPfzkA==;4lG8a0xr2NWsJ/yHFDKkvg=="
 ---

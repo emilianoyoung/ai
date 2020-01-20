@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/
 type: article
 quality: 91
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period."
+    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-20T06:29:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -132,6 +145,6 @@ related:
       domain: openpr.com
     quality: 18
 
-secured: "E8WDbJ9wF94ODjKdDuolF1pr1+HoRXgdrSe7j44FDymoJi+hLQBbKnuZ/K9/QAC1zTGytcY1xa13tSjaFZK3CCWbl2thuK7hPKiNGG6V/rOfGNQYgCE8ORrgTRLFISZugM1ouwZEtF0LVyBG+YjYqMElfbke9x+Ojk3JaX3cfZTlQLYVevgmQBvMVlCKvoqjpAckK5yfAoNkFGz2q7LMge1RP1pY2E55ASa3VtNSCs9WgY0k7baAKWc67qX0bQH3zS9P0dKi3im3Xhsr45S9ylaSNe9EYb/bMDAyQ840nReDGFeBrTvFo8NwHz88zpuPIXjX36nmvkG63Qru7EedwFhHjYomGDrMCa9RSrmgJGtmBxMCW1bhaHMHZj9dK4TSztrvYCqFhsiYAEsrEE3h3Nx4hOG2cBXxK793P7+5YGuStAi90iEttp1qcPNFoUnlx2OWx0kavrD/p3D2cM+GuQ==;h0+lzaAdlM80SnxYSz8AbQ=="
+secured: "QGtZML7Vx1mWZlp6Om6nb+hDjzry+pUr2ooMjPJGsgRMpfXYnau80LrRbMKzwCJheDnBdC4EzAKBTHfrWCDQcnIR7viOHAqeHDaoxFM16eU/fK4bE/0M7XHZb2hJfvFA1UIP+raA49phZ9jK90Lie01Di4OCwu1a9lid7jWSNiQyCLSWHvIhj9ts6Zq0cviEJQqudCFW+MxZnLLC9wiV/6X1/KeDgtLZgf0Sfkkym02f6orMfteW8J2TvFZ5aubICis4gRK5l9q071NfzAVXJLCeaBVtc/jUyO5wzXx/U1fcwhZqt+qQBftQmRa8KgconciCo6HHINxNOeO5k98AWpUWR5RD62RcmbV9dXktJgVrn+9//reDFvP+bht5vXZa+OBoeIctZG0zU1gkQVRFeyTH8/3OM7Mnw9xeu1/+NR2KKRSzbygNrIoJNyAwYt/txVj4kVCBsDWeAk9AFhqCEQ==;bot4anknuEVX4XX4FQbjoA=="
 ---
 

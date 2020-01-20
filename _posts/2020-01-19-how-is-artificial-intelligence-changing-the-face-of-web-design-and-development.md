@@ -54,6 +54,19 @@ related:
       - url: https://s.hdnux.com/photos/01/10/04/70/18894393/3/rawImage.jpg
         width: 2048
         height: 1365
+  - title: "$7.5 million grant will fund development of socially savvy artificial intelligence teammates"
+    excerpt: "University of Arizona researchers have been awarded $7.5 million to create an artificial intelligence agent that can understand social cues and human interactions, and use that information to help teams achieve their goals. The grant comes from the Defense Advanced Research Projects Agency and is part of DARPA's Artificial Social Intelligence ..."
+    publishedDateTime: 2020-01-17T15:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uoa-gw011620.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 26
+    images:
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
 
 secured: "WnaqxdZ3mW/23Rqaa9rDwCoII+oS9SCBUYB4Qbi0bWKEdleXRVUPOPUGwPIIhzoKzZmjqPZg83UpyVz29EKzUDpXv1RjwQez0c6UbSh4e4JofE0rkBQyHjbtQWrbJjjIrbyyCrMOWRcpgP5J0SgrNdD8jv8l58B+n1950cDTBAL4hWxsNezeO+k/KjKPZ4dABQvXIOR0klHNBCp2oU+C2e68C4MBCVsSFWWJMsU4RFyb8hsMvLmpfmQnS4qW/OmAwF3haa3BOmImJenabmSgWMLUQdNvYhRwy3m7iUXwSpwsWsavP8ec0TI+3zjUB41CXf96vOZ02VgBN/mhQERxk0bSluw01QJL0LPmr4/6ZMoP8jF/7Lbj3Hknh03UAMlHzUuo38OMsyFQSl+njFCyWNZv1ZI+/PCLCQXvn2fEU2dEbBlaavm530ULD9Sd+BFeD3jOpYcZSxIQWXzh827bow==;iHu7wEtIRwcCtShdrtZl7Q=="
 ---

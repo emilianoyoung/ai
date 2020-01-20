@@ -46,15 +46,6 @@ related:
       - url: https://www.abnewswire.com/uploads/1578562921.jpeg
         width: 600
         height: 400
-  - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
-    excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
-    publishedDateTime: 2020-01-08T18:46:00Z
-    sourceUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "5bQYAFkRYxCzXze65SB1hziS6zPi5b9Nc6sD/G/3Ow4e9zwukpWaPe67Q07bmovUEVyeVG1XgxywPOSR3ywClzfZprKx4JNdpj93siTOFb2EqHGlMRPy0o57K8L6JZIVlFOuh5QJ7YYc6VVZ30BYqAryURpOnEdAgjIL+ZBXehTSbrQPTy1taLjmRNU3qv8W3nMsndC7U7ElP9ZN+UTQLCuo2bAJZTw4QZEb9pv32FddiuVSLhuAYz0DJAyEO87s/bvSJSbe5Sc3CU+4AKeK0ELr7MA6I1ZXVwLCvbSDtjY=;uhA5nJRH4A+2TVKDrOg3HQ=="
 ---

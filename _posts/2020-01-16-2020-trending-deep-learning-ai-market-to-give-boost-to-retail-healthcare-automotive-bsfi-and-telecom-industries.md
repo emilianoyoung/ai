@@ -44,6 +44,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg
         width: 854
         height: 634
+  - title: "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period."
+    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-20T06:29:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Learning as a Service Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
     excerpt: "New York, January 20, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report Terry Laboratories Inc."
     publishedDateTime: 2020-01-20T03:03:00Z

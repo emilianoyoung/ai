@@ -39,19 +39,6 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg
         width: 660
         height: 371
-  - title: "An Introduction to Microsoft Azure and the Microsoft Cloud"
-    excerpt: "Azure is full of services and products, offering a complete solution for any organization and Microsoft is doing its best to ensure that the platform provides for any scenario, especially where big data, analytics, AI and machine learning are concerned. Throughout this guide, you will learn what cloud computing is all about and how Microsoft ..."
-    publishedDateTime: 2020-01-02T17:51:00Z
-    sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 54
-    images:
-      - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
-        width: 1200
-        height: 1555
   - title: "What Value Does Microsoft Azure Synapse Bring To The World Of Analytics?"
     excerpt: "Azure Synapse also integrates with Power BI and Azure Machine Learning to gain insights for all users, all the way from data scientists to the business users using Power BI. Microsoft also said Synapse partner ecosystem that includes Databricks ..."
     publishedDateTime: 2020-01-06T17:17:00Z

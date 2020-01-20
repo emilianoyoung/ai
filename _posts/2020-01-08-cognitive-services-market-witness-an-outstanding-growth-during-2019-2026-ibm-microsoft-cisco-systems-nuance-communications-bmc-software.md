@@ -18,43 +18,41 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft"
-    excerpt: "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market."
-    publishedDateTime: 2020-01-15T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15
+  - title: "Artificial Intelligence application with Android using Microsoft cognitive services."
+    excerpt: "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services allows you to recognize computer text, faces, describe ..."
+    publishedDateTime: 2020-01-06T07:22:00Z
+    sourceUrl: https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: Medium
+      domain: medium.com
+    quality: 92
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg
+        width: 540
+        height: 960
+  - title: "An Introduction to Microsoft Azure and the Microsoft Cloud"
+    excerpt: "Azure is full of services and products, offering a complete solution for any organization and Microsoft is doing its best to ensure that the platform provides for any scenario, especially where big data, analytics, AI and machine learning are concerned. Throughout this guide, you will learn what cloud computing is all about and how Microsoft ..."
+    publishedDateTime: 2020-01-02T17:51:00Z
+    sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 54
+    images:
+      - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
         width: 1200
-        height: 630
-  - title: "Cognitive Computing 2020 Global Market – Opportunities, Challenges, Strategies & Forecasts 2026"
-    excerpt: "“Cognitive Computing 2020” WiseGuyReports.Com Publish a New Market Research Report On –\" Cognitive Computing 2020 Global Market – Opportunities,"
-    publishedDateTime: 2020-01-09T08:55:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15096514/cognitive-computing-2020-global-market-opportunities-challenges-strategies-forecasts-2026
-    ampUrl: https://amp.benzinga.com/amp/content/15096514
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096514
+        height: 1555
+  - title: "Sketch2Code at Microsoft AI Lab"
+    excerpt: "Computer Vision is a discipline inside artificial intelligence that gives an application the capability to see and understand what it is seeing. Using Microsoft Cognitive Services, we can train Custom Computer Vision with millions of images and enable object detection for a wide range of types of objects. In this case, we trained the model to ..."
+    publishedDateTime: 2020-01-03T09:33:00Z
+    sourceUrl: https://www.microsoft.com/en-us/ai/ai-lab-sketch2code
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-    images:
-      - url: https://www.abnewswire.com/uploads/1578562921.jpeg
-        width: 600
-        height: 400
-  - title: "Computer Vision Market Global Opportunities and Emerging Technologies By Google, Facebook, Microsoft, Nvidia, Mercedes-Benz , IBM, Autoliv"
-    excerpt: "Data Bridge Market research has recently released expansive research titled “Global Computer Vision Market 2019” guarantees you will remain better informed than your competition. In this global business document, market overview is given in terms of drivers, restraints, opportunities and challenges where each of this parameter is studied ..."
-    publishedDateTime: 2020-01-10T14:15:00Z
-    sourceUrl: https://www.openpr.com/news/1894086/computer-vision-market-global-opportunities-and-emerging
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
 
 secured: "VQs049cga4vpeyEhHq5hMp+V4un7N/F9C3n32oiZBjg19q/6gQJUI4H7bDKh0Ni8EESxO6WkCfPkPN4dQBWBm4/jIh4p3iEKkquPGGWBb34o+m+XlcQPQkcQdotlFFO00UXLMbDdor86FSuhMe52Alu0j7wN5yQlAoDxF2W8QEEgeezr4tUyZBGDDb4P7zl/8lw3Yi/apVG0qPDrLnQ2/OYZeFxgvWiyW93K17Rlp8XSo2/F/LBB8zIgmZGDfDraP5vDtdwhGW/vgdsfi2h1wtRUJOHt7Kt6YC3vlpDRp94=;QsFAewyA7cHtHsaFdYnlcQ=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "‘Rise of the killer robots: the future of war’"
-excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
-publishedDateTime: 2020-01-20T00:30:00Z
-sourceUrl: https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365
+title: "‘Xenobots’ Could be Stage-1 of a Real Terminator-Like Robot"
+excerpt: "Let’s start with first congratulating the group of scientists and researchers who made ... Remember, it’s experiments like these that gave birth to fully self-aware AI like Samsung’s Neon and even Sophia the AI robot. Also Read: Say Hello to Neon: The AI Video Bots That Have Human Emotions With Xenobot, you are seeing the next stage ..."
+publishedDateTime: 2020-01-20T07:05:00Z
+sourceUrl: https://www.thequint.com/tech-and-auto/tech-news/xenobot-what-it-is-and-how-was-it-made
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Irish Times
-  domain: irishtimes.com
+  name: The Quint
+  domain: thequint.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg
-    width: 1080
-    height: 564
-    title: "‘Rise of the killer robots: the future of war’"
+  - url: https://images.assettype.com/thequint/2020-01/7560f7fe-1cc8-48be-9839-5725cae490ca/hero_image_3.jpg
+    width: 2000
+    height: 1125
+    title: "‘Xenobots’ Could be Stage-1 of a Real Terminator-Like Robot"
 
 related:
   - title: "AI and robots could be the future of agriculture — Strictly Robots"
@@ -52,20 +52,20 @@ related:
       - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
         width: 645
         height: 350
-  - title: "‘Xenobots’ Could be Stage-1 of a Real Terminator-Like Robot"
-    excerpt: "Let’s start with first congratulating the group of scientists and researchers who made ... Remember, it’s experiments like these that gave birth to fully self-aware AI like Samsung’s Neon and even Sophia the AI robot. Also Read: Say Hello to Neon: The AI Video Bots That Have Human Emotions With Xenobot, you are seeing the next stage ..."
-    publishedDateTime: 2020-01-20T07:05:00Z
-    sourceUrl: https://www.thequint.com/tech-and-auto/tech-news/xenobot-what-it-is-and-how-was-it-made
+  - title: "‘Rise of the killer robots: the future of war’"
+    excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
+    publishedDateTime: 2020-01-20T00:30:00Z
+    sourceUrl: https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365
     type: article
     provider:
-      name: The Quint
-      domain: thequint.com
+      name: The Irish Times
+      domain: irishtimes.com
     quality: 39
     images:
-      - url: https://images.assettype.com/thequint/2020-01/7560f7fe-1cc8-48be-9839-5725cae490ca/hero_image_3.jpg
-        width: 2000
-        height: 1125
+      - url: https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg
+        width: 1080
+        height: 564
 
-secured: "HIvjsgicxRB3o/iW0iGqV0hX3qf5Y+Cks6FyIhutekV2Km2Jy+Wq6jvXwAQ2qRUhvzxK8lTwOfpMBro/zadPOR8T8lC46GIgy7v/cYBo/yVW7uLMT783w7QKHFS8gGjms0dnYzSpnPUiSLarjlzoGk8GHXqra7Zp0pxA4ISAet6SXnNaLDjClHs6zmT2KnkaMru4FrzUC/FkwHkuY+z/GXMnJmDMXgLn/E06UlrRwZvi3KFWA8C0V7mJ4q0BndMvQthFIAxys12XEGQkXxBEPlvlczHWDe9XlCTPH3H3vVM=;jLLCrubVFG9st/3q/Vo2rw=="
+secured: "n4UKfCG/p//czdVxDq0u8CThxom3nSMNrCyscLzzGoVkDc+VEXikL8oDhtYwIvpOmi1qrrrpBCz2GU4OUtGzl+/sM2KK4W1lqS8xoKvEWPHcPiY9iqVuxGBg+lfC+Cini5R4kTCDL7+bLLVyR1m8an2kRh+AVYMiyk1lkQTqWJ5EwwigvQ2s17PVU9P2qyBTEkh03s+YMiL3r8WbvKZK4VMq+DJ17N318sG+AOOw57GyPnC0QgNm4G7+NRxHMO83yR/vj8TeyhhWtcPTmIaOnpgdwdr3vgywWmTqOangemI=;vdFHpyFqgz1FqGAZJCTNoA=="
 ---
 
