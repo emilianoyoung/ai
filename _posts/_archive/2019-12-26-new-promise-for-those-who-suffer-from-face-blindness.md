@@ -10,7 +10,7 @@ heat: 24
 published: false
 
 provider:
-  name: Scientific American magazine
+  name: Scientific American
   domain: scientificamerican.com
 
 topics:
@@ -23,6 +23,6 @@ images:
     height: 496
     title: "New Promise for Those Who Suffer from Face Blindness"
 
-secured: "61vR3gl9/a5qsPGCwA0I5tRLuaySq4oz+mRujhpHiqJlDVLQ/w2H4tfT4fBM8XeGKUAknY4hpVnVO/I9rtP+ARB1qmkl2olAaKoV/AdcDn0m13NoeJHTnOK9Jf9KDRlKR/gCSb8GLeqrSTAHoDUcC89V2DmeC+9I3Qjcivtr5USOAgCjLkL3J7NfsCFfOFqEfoTdNIYuMiYSUU/dXHGEPmJdwyifUJ2Jjl8a7Gb9rfjsXqiCix5XrgBo3KtWa42tG+AqgHIjB0D67mLmlNy6E2c82GmbnuFaVFo7MkdSJhQ=;wh6YNzI5tcp4JpMD29C7eA=="
+secured: "+6K6Jz3gju8ayTCXTAipt3J5IA9NWhgbe66Ki/wU3WfqtXKCvg2iIW3E72ylb1wk303jxRnn60Zjqy1gMRl40Annqrq3qh97Gpq/LbvRYs8boe+See2hcueUKRmETTd6wy9XNYVmGx5sI3k1/TLe/rvg2FGOLl06HW8uu4w84nb4TSGmdjO0hadCyfdPdZdEzvu/NEhjUTiz1Rilynn3xGtFOCAYeg+p4xzsTtya1qRQnaDcTJw6RIhm2pyMS+6FlNAlPrtkbqluGnm0mEMJShvCfV6mVQ1y4Pp9vRSJxpg=;LnJzWhKut3iCVUUtmv7JWg=="
 ---
 

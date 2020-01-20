@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-15T15:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15
 type: article
 quality: 68
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -119,6 +119,19 @@ related:
       - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
         width: 1447
         height: 908
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
+    publishedDateTime: 2020-01-14T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "NIfaWd7qbIxheumzhZ3bhHKgN5GbC97EdIaPcJ4XcdaUbqwcbAbyaYxLVk74AEUJq8MgN/KmgrPeBJSasd4nTBzJ4hnNBgTaI8/jDfrIF/ZLa1laHmDuoh5r2MepyiOqGe4POlyfF5cA81MYeYgSM0vtRD46WRHDpi9qavmSbLK4LJaCAoCRqq07MSO34rdInFxLvLRVQDvgCqFG4fJ3r5yAtUoGwgNT7bslzKdIdKcdbCQu2Q6L0d/NlIBsufb1iIkvPeu0xdHho4msrjlo5Q64ovo3xJIKHCcWwVGqxrg=;dl76G7zJz1T8dZTjVg+Vnw=="
 ---

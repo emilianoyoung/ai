@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/
 type: article
 quality: 91
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -31,10 +31,36 @@ images:
     title: "Roundup Of Machine Learning Forecasts And Market Estimates, 2020"
 
 related:
+  - title: "Asia-Pacific wearable AI Market: Industry Growth, Market Size, Share and Forecast 2019-2025"
+    excerpt: "Jan 20, 2020 (Heraldkeepers) -- The Asia-Pacific wearable AI market is estimated to grow significantly at a CAGR of more than 29% during the forecast period. The economies that are contributing to the market growth in the region include China, India ..."
+    publishedDateTime: 2020-01-20T12:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/asia-pacific-wearable-ai-market-industry-growth-market-size-share-and-forecast-2019-2025-2020-01-20?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period."
     excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-01-20T06:29:00Z
     sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Indian Wearable AI Market: Industry Trends, Market Size, Competitive Analysis and Forecast – 2019-2025"
+    excerpt: "Indian Wearable AI market is estimated to grow significantly at a CAGR of 33.3% during the forecast period. India is one of the fastest emerging economies for wearable AI in the Asia-Pacific. The growth of the market in the region is attributed to the adoption of various government policies to drive AI innovation,"
+    publishedDateTime: 2020-01-20T11:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/indian-wearable-ai-market-industry-trends-market-size-competitive-analysis-and-forecast-2019-2025-2020-01-20
     type: article
     provider:
       name: MarketWatch
@@ -111,8 +137,8 @@ related:
         height: 630
   - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
     excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
-    publishedDateTime: 2020-01-14T05:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14
+    publishedDateTime: 2020-01-14T08:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
     type: article
     provider:
       name: MarketWatch
@@ -132,6 +158,6 @@ related:
       domain: openpr.com
     quality: 18
 
-secured: "sAunk8m9jeZ3eHwNN2OKYf/0g6o4ahNbgfnj/xlE+JJHyaTzEUuL/FRQqIgJ+59eESvgtAdBfVduSLyq+T3p7l78jyOtPg8mTmtqjq8Jo0q8WjnxuYyvbZ3D1EJR8E9uAcWB6Va8auSSE4hQ64X1CNoA9r3HbAifc2TNdNF3bpxG1ARsvfl3K31Ad4Hs2AmHrJ1qNX4m33nCUZ+2VxHMr9pNdWHzH+SpSd2S3MMpsU1Ysrw4u5xblh1Lgrm+t0o9ptiHclBMDgiqvY9XV9bRG1oqR1KdhLg7nPr7xYK4ZDi2HyUvGogmXoMOADgvQCpEXvLzvx99K3tctgXHPP0saaPOTHhQTcNj/ZPtlCCliGYG7Unu0E2n2y0RyKCfd0fEq2qmgetBDDOjpos/P0evK1Cy9nCjRYY/XEE7ai45pS9qxyNEKczhXpz2Q9ZWltTp8jD4E4eFr5RRJsRnqkuwMQ==;/ZKLM+GOCMc8cYv1efPK7Q=="
+secured: "8YXDV+r2t/sgHfvYR7bRhwl67BMUb+HV9nKFu8qJW1+qai0iEQm95k/P6owCqF19TPnUAZXhRZF/HNyqp94ZrwtTUecpC9V7mQvXqsY4hqzU0p4RWnlJQwsWqbuBaVhMafpPY8uvTN333yNOT77nFSviL+3ERLXdHlpR3UU/jmSWp1M77M3dFe+REjhWl7+PuHrKAObuRDkdVzczYqH5qaPorf/s/FS7ADuNZOi6I1iXQGkTqpNQMQIBWcJwUMtwuRAaukx9AnnYBGNuJ30Wc29KRXRxY/T74hLUyWNTADFT3862nTyCJ83xZcELmo25q47qzG9ydHA3anzWvpg8KpDXNo8NXrQ4LpYUc3RXbEIGAJfYoAGpc8dPyKnzayPtZzHVOn7EK49dgaywejVEdyn+Ux/PU1zAhV9EyJB5ebb065rHAu1Fse+M7HZkWUaxoMS2L0AUlUtxna5EHqp30g==;TL9MbUhM7iSlETlyyiq5hQ=="
 ---
 

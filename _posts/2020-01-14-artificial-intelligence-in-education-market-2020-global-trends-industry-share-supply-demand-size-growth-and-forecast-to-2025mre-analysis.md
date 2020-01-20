@@ -28,32 +28,110 @@ images:
     title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
 
 related:
-  - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
-    excerpt: "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027."
-    publishedDateTime: 2020-01-14T10:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
+  - title: "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026"
+    excerpt: "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,"
+    publishedDateTime: 2020-01-15T15:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
-    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
-    publishedDateTime: 2020-01-14T06:30:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
+    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
+    publishedDateTime: 2020-01-13T20:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 627
+        height: 630
+  - title: "Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast"
+    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-01-16T06:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI in Social Media Market 2020 Analysis Focusing On Top Companies- Facebook, Google Twitter, AWS, IBM"
+    excerpt: "New Jersey, United States, - The report titled AI in Social Media Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the AI in Social Media market."
+    publishedDateTime: 2020-01-13T21:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-2020-analysis-focusing-on-top-companies--facebook-google-twitter-aws-ibm-2020-01-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-01-16T10:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Software Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
+    excerpt: "Kenneth Research provides an extensive study by our analysts which offers forecast assessment by correlating the historical data with key market dynamics. The Artificial Intelligence Software Market further includes trends and opportunities that are highlighted,"
+    publishedDateTime: 2020-01-16T04:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-software-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2020-01-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
+    excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
+    publishedDateTime: 2020-01-14T05:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
+    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
+    publishedDateTime: 2020-01-15T22:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
+        width: 1447
+        height: 908
 
 secured: "R1SZkhnTr4rCOEJhZy3JqyJKA0HOqOCx3adaNwL8DVxkviekGbioFy3r8I29kXWJhqP102VAWsCOsfTnTISaXXFSa+LzrIwYThno5iQKxwZ7k2qEEmbC8tU0mmO/b9D5mxIz44L1/Pd4/eBvEoEZXGsBT2oNbY3w/VmCugwg0U5lLWjpZJ1zXyTYjXG2nJLAZH49RFtRpxtUn4KBdPWA4UCC7H6jaWnrFKJN5oH2edOwpOhF5ZYi9UZ2YoPDdR0Tpm8DSUnQCLXkU1KegYI1dNfHkdb9CTuh3KAu9Py5EBU=;46OuPIQgCq5NFDKF3kAmng=="
 ---

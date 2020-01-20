@@ -54,6 +54,17 @@ related:
       - url: https://singularityhub.com/wp-content/uploads/2020/01/stock-1863880_1280-future-of-money-fintech-AI.jpg
         width: 1068
         height: 601
+  - title: "Accelerating Business Outcomes: Building trust, easing the journey to successful enterprise-wide AI adoption with IBM Watson"
+    excerpt: "IBM recognizes the challenges faced by organizations today. IBM brings to you an exclusive online opportunity to meet the industry experts and analysts at the ease of a click. #DataAIForum is back with a fresh virtual interface. With the masterminds behind Watson suite of AI/ML solutions, IBM promises to help large enterprises achieve ..."
+    publishedDateTime: 2020-01-20T12:39:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 27
 
 secured: "z5B2rwQASldkxKyTlCUcKMWjbZBzUoHkwyPQsmQomoa7uUiDdVJsZss3xz7zk7O082CVmSJlFdDJXAFvcCpuLNhAfL6KCCBrVPgBCeaSLOENvuSjdLShdA7WYSi703lTc3Z6/HX7ra/ptpVVj4tcSDSZJSXqNsLwAJUQk55bUPaFM3dptIKlMBTWdHSqNI9W5uDcDVeTyUMaqYLI+r0ujNq+VMH4XSJT2Lt7diT+yuqu17Ha0EaC4IOTVNxTM21JL3j0PO9U8AsMWcfNpjpH8gBdFVRphE2MYtPC6B23sJQ=;kudg620bU3svDKU37da5qQ=="
 ---

@@ -2,22 +2,18 @@
 category: news
 title: "Facial recognition: EU considers ban of up to five years"
 excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-publishedDateTime: 2020-01-17T12:08:00Z
-sourceUrl: https://www.bbc.com/news/technology-51148501
-ampUrl: https://www.bbc.com/news/amp/technology-51148501
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
+publishedDateTime: 2020-01-17T13:46:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51148501
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -262,6 +258,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
+  - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
+    excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
+    publishedDateTime: 2020-01-20T12:00:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 67
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/20/10/14896920-0-image-a-3_1579514657623.jpg
+        width: 636
+        height: 382
   - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
     excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
     publishedDateTime: 2020-01-14T01:31:00Z
@@ -735,6 +746,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "dWSscDrLGtE0E9t4kfW3FDenXIecOPTbOQ52MGVWCWf1odECOeA90+MqxDN+wvpI1UGVPG91UeeO7tj2cvjBukMA7gFD/CCg+Hv1he/t+SsK1zevUJyZA49hkfhVuRA4VR7C88V82n6UZvqN3QgXs4vBek4PGfX5nZDXtk8VoUog8SeuiwfHLYq9bWuxWCqJnTZwqt9K50VCHfJG0V9UR37OWSC23tq4jcmpI8lXhwexRMTsXY9OVPRSNcrk0H0JQFh31RJTtgIEtKWGgVXdTATz0KFQQ9qJvVV4AiJuIi4f7nh4+5+DQKn1e8Cjk9qXTRrIE7g1kDmonH2l90KYY1CdwIMbLz1ljyA+qJbjClwhBdPEJ2VvGyzpB7YAJhGSQYj+0aFKilC1ia0TYenv3Ch+jzoE+2hnX1rXrWSTMZ1qFA5T5Lr3BNpanVGTn2LEhxlMNbLWXxLlxHI6ufKSkQ==;GZBjt8hs8WltyvjSu0n0Hg=="
+secured: "9QjdlNg2RYyZFFXCthEzPSC0ieJ+HBnuja8UU3hmGSLmg89hnjEt6VM1E2ry+kWQe6uXWYQk3ApAzqhDJkyI3SHhLPAsEYHoNAfCdtsuDqi9duM+FfutDbU8vjHtbNUfQ0FhiATnkzHd7jmVjnN2KZyYKTZQw35iM5f/l6KV/yfChslFDn43/YjS2Kt44sJN4M7Nb5tarjMf7/AV37zsprseELmdpgYKRmn1TR9m3tuEYAFCW/DaMumkXiHqoF2PrQPCAkvV82M3dxryExdu/hNwb0O03pRU1g6jh6jR1us=;mlOJbcw0i9ShOcVzszIFCA=="
 ---
 

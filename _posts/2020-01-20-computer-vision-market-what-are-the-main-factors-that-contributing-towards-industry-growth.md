@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T05:51:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+    publishedDateTime: 2020-01-14T06:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 1200
+        height: 627
 
 secured: "ozEUWnemWTkvJwTFqSAeDE/ZjDVcwziW2d9L8IJ32dy8vyTD/X9cig7Hr1cUpCj+6vq6WRWTyyas6dKkXGoAhymjGzKQGS11+QqsaXdWkPKwDa9vwAf3HkvAHPBisAHcwn00fNlK97bpFpsfPK4a04QYgNYd89a11NLluiEzW3TAeWAN8t0sPXByBggTC2hNsrvYatF0gIJn3y9OwAxA4CgBCPIVv3hTTLPhrBFTR9ulsFsyCGXplY+J4kI9GItgHJ3VovyYwSuR2Veax/d8vR6SXDGdTXtRiIUvF3ulEuI=;r6Mja/eTBSZBRORPPzgwZw=="
 ---

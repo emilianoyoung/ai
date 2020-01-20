@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T19:18:53Z
 sourceUrl: https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/
 type: article
 quality: 117
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
       - url: https://images.idgesg.net/images/article/2018/03/ibm_mwc_2018-100752721-large.jpg
         width: 1200
         height: 800
+  - title: "Accelerating Business Outcomes: Building trust, easing the journey to successful enterprise-wide AI adoption with IBM Watson"
+    excerpt: "IBM recognizes the challenges faced by organizations today. IBM brings to you an exclusive online opportunity to meet the industry experts and analysts at the ease of a click. #DataAIForum is back with a fresh virtual interface. With the masterminds behind Watson suite of AI/ML solutions, IBM promises to help large enterprises achieve ..."
+    publishedDateTime: 2020-01-20T12:39:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 27
 
 secured: "UkDEcuM5Vg7YnCy9NgN/G/c+nNnvxpQ/FejR6EkfX5JQi4qD58LiQBFAFQF0JVieeZjmZkB3PWfgsZaarGIgYrBa+UoiZ83oPoG9rWoM5NSjvFeliQty0GeuRlzo3gz81wfXXWOB/bswIiqKVhuHCIzU8FIEDT8wlESCoomDZEJ+CWKfHn2V30TyMKM0mAbYppfZTNDIKw6fol1U6mJMckAc2DkawHyeZg3+QcWF1Z2l4Sm0vkEtzNDBZ/VSNVrTseQJhK9I2PwL7v8MGCnHmHIp6T7kqKXQXcTMJEHEyU4ykchd8Hc5oP6HTQcyC7EJ;6w3siyfFTP8Lhofzbnnhcg=="
 ---

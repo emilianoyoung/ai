@@ -120,19 +120,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
-    excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
-    publishedDateTime: 2020-01-20T11:33:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 27
-    images:
-      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-        width: 600
-        height: 246
   - title: "Robot Software Market – Growth Strategies & Worldwide Growth Survey by 2025"
     excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). Each segment and sub-segment is analyzed in the research report."
     publishedDateTime: 2020-01-17T18:21:00Z
@@ -142,6 +129,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
+  - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
+    excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
+    publishedDateTime: 2020-01-20T12:39:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 7
 
 secured: "3Eb0X2xld/V+HNNhh7k6fCpFkK3AuyBr6r7TvdKH3woT/eSA70lKYIQlvF5sKdWiJXQkULMuighN7AfgZhrQWfsO2xAyCEGP7fDryy5OQjZjeepM/TPIRgvHAwmWDmYM0kgUFw6W0YH+F4L7Rb0jVdCAhQ4jHfLclLdputgw8rqhMn6PkkLavb+uKcK6oW+zunhrACyUCAPmeT00VVpvMW64t0yMEjI/p/tt4SJ7u88HmRhC6dPpVRc6Ivean1RpkPuojop5bOSgkI2YK/ZnmHy90AFWCETyPSJIldLnzcE=;4VmOV2EZR/1STrYouKCqGQ=="
 ---

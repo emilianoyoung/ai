@@ -45,6 +45,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg
         width: 796
         height: 450
+  - title: "Computing's AI & Machine Learning Awards 2020 are now open for entries"
+    excerpt: "Artificial intelligence is the major topic dominating the IT industry today, and there are hundreds of companies competing to be heard. We're proud to announce the return of Computing's AI & Machine Learning Awards to identify the frontrunners from the rest of the pack. We have 28 categories this year covering AI tools, projects and services ..."
+    publishedDateTime: 2020-01-20T11:00:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3085084/computings-ai-machine-learning-awards-2020-are-now-open-for-entries
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 54
+    images:
+      - url: http://www.computing.co.uk/w-images/ec985e82-f2fe-42c9-9922-b38973adf831/3/AIMachineLearningAwardswinners8EBTICandBT-370x229.jpg
+        width: 370
+        height: 229
   - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
     excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
     publishedDateTime: 2020-01-20T09:12:00Z

@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer
 ampUrl: https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - Natural Language Processing
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all

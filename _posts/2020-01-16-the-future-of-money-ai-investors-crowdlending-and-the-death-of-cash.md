@@ -54,6 +54,17 @@ related:
       - url: https://images.idgesg.net/images/article/2018/03/ibm_mwc_2018-100752721-large.jpg
         width: 1200
         height: 800
+  - title: "Accelerating Business Outcomes: Building trust, easing the journey to successful enterprise-wide AI adoption with IBM Watson"
+    excerpt: "IBM recognizes the challenges faced by organizations today. IBM brings to you an exclusive online opportunity to meet the industry experts and analysts at the ease of a click. #DataAIForum is back with a fresh virtual interface. With the masterminds behind Watson suite of AI/ML solutions, IBM promises to help large enterprises achieve ..."
+    publishedDateTime: 2020-01-20T12:39:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/accelerating-business-outcomes-building-trust-easing-the-journey-to-successful-enterprise-wide-ai-adoption-with-ibm-watson/73436071
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 27
 
 secured: "2mnRfradZLmJVBFTnCIZNVyRa5ZsotJ3k9lpO0XS7MYxBJCCVewx78vamvTD5IwpyLVs289T4cjmtBB98MxeeMM0qWqk7XMv5OEztygJ1X4MaMzR6sIC2Tm9yT8dBnpaHP7pEH6P2MzAqLzzKPoJF5siwvv7hEO0XpjivDJkh07WkaqBM9CRb3Oir95e+uNL51MD0tqhldHrYwC5Q4gCZWAbBV0N5HiB5SVV9nFiBOF0hd8LqkMpNRL0Cr6WKcKYcdmo8SYXPepv9JWGsuDzELX0WlikoJ7kjfSnQ25VsOhorUK1XrNJjygJaTprvbjfP/mnagelABbXGP3FG3qiB9PZRd+Ykd1mXHbUolMP6eQJ0l8U3FOuPP06rM5pAl8YI7geeaufH5ov7vfEg1lwdSB1KFs0ZT9cFIxPwyRiT3/eFys+2IY0VK05aF+hMJzKw3WccSGnfn93EwkMcmzQ/A==;ad1EBGGWxcbFZd8L55hwKQ=="
 ---

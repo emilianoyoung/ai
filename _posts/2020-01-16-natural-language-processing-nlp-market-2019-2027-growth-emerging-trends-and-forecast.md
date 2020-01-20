@@ -119,6 +119,19 @@ related:
       - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
         width: 1447
         height: 908
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
+    publishedDateTime: 2020-01-14T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "az+lSea8wDkKoBBhR3LKoYybnizfwtNbVts+HOM29pyjcjaNbNwYNrMuK8y1GIlvvBPIkVq3cIrIrCo66c/FLBfBOKJwiyVGKlAJnzlLkD5LsSXCCIeFKpp/tems4tbz/iumT6rlBR3EEd12kPIOseEO905hu6JmzQziNEBhzjil09sesedK85P5MKXs777Kdt+VTVBPkoHP2pcmFWnd3CeNK7yguU9Qdt2L8vXARrbGDe2ESlhCsfJosA4mgoc5FzahXm4ImD3Opm321XAs3cbe6dkdt4i5U5HFhIgcaEo=;6cHqoP56vLmbeNIVdDuNfw=="
 ---

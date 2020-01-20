@@ -43,6 +43,32 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg
         width: 854
         height: 634
+  - title: "Asia-Pacific wearable AI Market: Industry Growth, Market Size, Share and Forecast 2019-2025"
+    excerpt: "Jan 20, 2020 (Heraldkeepers) -- The Asia-Pacific wearable AI market is estimated to grow significantly at a CAGR of more than 29% during the forecast period. The economies that are contributing to the market growth in the region include China, India ..."
+    publishedDateTime: 2020-01-20T12:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/asia-pacific-wearable-ai-market-industry-growth-market-size-share-and-forecast-2019-2025-2020-01-20?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Indian Wearable AI Market: Industry Trends, Market Size, Competitive Analysis and Forecast – 2019-2025"
+    excerpt: "Indian Wearable AI market is estimated to grow significantly at a CAGR of 33.3% during the forecast period. India is one of the fastest emerging economies for wearable AI in the Asia-Pacific. The growth of the market in the region is attributed to the adoption of various government policies to drive AI innovation,"
+    publishedDateTime: 2020-01-20T11:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/indian-wearable-ai-market-industry-trends-market-size-competitive-analysis-and-forecast-2019-2025-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Learning as a Service Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
     excerpt: "New York, January 20, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report Terry Laboratories Inc."
     publishedDateTime: 2020-01-20T03:03:00Z
@@ -110,8 +136,8 @@ related:
         height: 630
   - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
     excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
-    publishedDateTime: 2020-01-14T05:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14
+    publishedDateTime: 2020-01-14T08:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
     type: article
     provider:
       name: MarketWatch

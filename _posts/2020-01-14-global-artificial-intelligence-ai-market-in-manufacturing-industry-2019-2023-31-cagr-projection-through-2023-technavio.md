@@ -24,28 +24,28 @@ images:
     title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
 
 related:
-  - title: "Future of Cartesian Robot Market 2020: Integration of Artificial Intelligence and Big Data"
-    excerpt: "Cartesian Robots Market Research Report and Forecast to 2019-2024 Report provide extensive research on the fast-evolving Cartesian Robots Market. It also gives the competitive landscape of the leading companies with regional and Global analysis of the market till 2027."
-    publishedDateTime: 2020-01-14T10:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/future-of-cartesian-robot-market-2020-integration-of-artificial-intelligence-and-big-data-2020-01-14
+  - title: "Computer Vision Market- What Are The Main Factors That Contributing Towards Industry Growth?"
+    excerpt: "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,"
+    publishedDateTime: 2020-01-20T05:51:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 73
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 14, 2020: The report covers analysis on regional and country level market dynamics. The scope also covers competitive overview providing company market shares along with company profiles for major revenue contributing companies."
-    publishedDateTime: 2020-01-14T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-14
+  - title: "UK AI in Manufacturing Market Industry Perspective, Comprehensive Analysis Up To 2019-2025"
+    excerpt: "UK AI in manufacturing market is estimated to grow at a CAGR of 32.3% during the forecast period. UK is the 3rd largest economy after Germany and France in Europe. According to the government of UK (gov."
+    publishedDateTime: 2020-01-15T10:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-industry-perspective-comprehensive-analysis-up-to-2019-2025-2020-01-15
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

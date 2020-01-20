@@ -27,6 +27,21 @@ images:
     title: "Sundar Pichai says AI should be regulated, asks governments to step up"
 
 related:
+  - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
+    excerpt: "The project applied Google-developed object recognition AI to drone surveillance technology. Google vowed in its AI principles not to create AI that would harm people, but Pichai noted that \"principles that remain on paper are meaningless\" without action, pointing to the tools Google has developed and open-sourced to test AI for \"fairness\"."
+    publishedDateTime: 2020-01-20T12:16:00Z
+    sourceUrl: https://www.zdnet.com/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
+    ampUrl: https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg
+        width: 1101
+        height: 828
   - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
     excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
     publishedDateTime: 2020-01-20T10:30:00Z
@@ -72,6 +87,43 @@ related:
       - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 500
+  - title: "Why Google thinks we need to regulate AI"
+    excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
+    publishedDateTime: 2020-01-20T04:00:00Z
+    sourceUrl: https://www.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
+    ampUrl: https://amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/3467659a-386d-11ea-ac3c-f68c10993b04
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5fdb39ac-3923-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "Google CEO Sundar Pichai calls for regulation of artificial intelligence"
+    excerpt: "Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
+    publishedDateTime: 2020-01-20T12:58:00Z
+    sourceUrl: https://www.financialexpress.com/industry/technology/google-ceo-sundar-pichai-calls-for-regulation-of-artificial-intelligence/1829341/
+    ampUrl: https://www.financialexpress.com/industry/technology/google-ceo-sundar-pichai-calls-for-regulation-of-artificial-intelligence/1829341/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/google-ceo-sundar-pichai-calls-for-regulation-of-artificial-intelligence/1829341/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 51
+  - title: "Google CEO Calls For AI Governance"
+    excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
+    publishedDateTime: 2020-01-20T11:43:00Z
+    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/
+    ampUrl: https://www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 37
 
 secured: "aXuLJGPksuiPWhnoLjgvSX3R9t40B4J0XqrnvgN464uTcxUMS8sne62PTsJruFMC3na5HkNhUWOmHY/Rnktp2EX1kyqdPm1bwMnHEBrlMMhx3o1dHNA8nrykEShhdAZqE8o2p52hyFQSd/9bThdsyPzotXXU2FLRJbeF5FWnkHmzYMcYP7N4HRpkYYfhQrwBzWrC+4V/QU5vMc718iPdT3S0Tlgxh/cf9d30TZ4tumcLFnqMCDRrPL5t9DD5/Jt3FLSG3DSEnUe/06gn34EbqFthZFz8jo97vKyseaATlSau15siLU4W/PC+TsLJ5QBFwMF2tK603rWNISLd02eorS4+9bMCsc/fZ2gq5AxezommtNge8NLHrur8fN2qhda2JITeQb5XSwVngOUHEgMzYZPT1PXh3DA5sIgSxalvPQutllfRnuvDZvF2l7aZaXAGqwjW2Ouh4S/pyWhUMGb16w==;GpsTtdSQrsxsnqcsyL7vLw=="
 ---

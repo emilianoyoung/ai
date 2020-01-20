@@ -2,26 +2,20 @@
 category: news
 title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
 excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
-publishedDateTime: 2020-01-20T11:33:00Z
-sourceUrl: https://www.cmo.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
+publishedDateTime: 2020-01-20T12:39:00Z
+sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-    width: 600
-    height: 246
-    title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
@@ -145,6 +139,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "02z2kRVJHSq9HPQXomAJi9vmHRXBX/H70TDsBm8WMouRzGoJkaz5hRPqT8/ch7O90riqHFubaUMlABErzRO1J3wXaBaIXwckP8+RDdwGRThWs8cBHE/fxgCq/wgA4o2s2BAcEpWsPX9rhXLOQhybQEMLYIxb5/4uvcw6mqihDBiFrQRb1wW0fjmHHDE6oZXRL3/mKrIidyw7w783caPYaY1CfMJk9Vf8jXqP/UgvXMSwlmJfJTV/mw/zKm+FosuAplx6MImuXLjZ9ybrTjqiKjMJzXbUok1xH9FIeqwPKLk=;FNaUv/Ukyi2f5L6Oe2ROWg=="
+secured: "fEWMxpGraNOAUGErokz7H3dEW8UUR2cddLSdAzC7fwORb8tCW8yOq5IO0bH9RT2MH5rphyduMpA8etteNnSXDv2Yoo1zKlqUncUyZ3lMdESgKGWqG45+PRB3JSQK3s09DAPC237haZmMAm60h9cGRt41Jmm6vSvVEDlVjNmPZaxOLr53afo6ffWyPV+Q9ebmWWkccC7U0Ag0UlN0eMI6+VkHArQZX1iW9po0YpC046nXtKmXFFAliBXRa+IXA2hpiCtcjgLgaF0sgiOjr46RxsBULmecA8hNOczAt30XwSE=;7GQfOxaE+L33rSc7pbM8OA=="
 ---
 

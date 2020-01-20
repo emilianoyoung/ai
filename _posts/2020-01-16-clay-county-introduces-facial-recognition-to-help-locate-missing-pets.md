@@ -127,21 +127,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all
         width: 1200
         height: 601
-  - title: "Facial recognition: EU considers ban of up to five years"
-    excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
-    publishedDateTime: 2020-01-17T12:08:00Z
-    sourceUrl: https://www.bbc.com/news/technology-51148501
-    ampUrl: https://www.bbc.com/news/amp/technology-51148501
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51148501
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
-        width: 1024
-        height: 576
   - title: "The European Union considering temporary facial recognition ban"
     excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
     publishedDateTime: 2020-01-19T16:40:00Z
@@ -271,6 +256,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
+  - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
+    excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
+    publishedDateTime: 2020-01-20T12:00:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7907373/amp/Google-CEO-calls-regulation-AI-protect-against-deepfakes-facial-recognition.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 67
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/20/10/14896920-0-image-a-3_1579514657623.jpg
+        width: 636
+        height: 382
   - title: "Washington state lawmakers debut legislation for consumer privacy and facial recognition"
     excerpt: "From left to right: Sen. Joe Nguyen; Sen. Reuven Carlyle; and Sen. (TVW screenshot) Washington state legislators introduced two draft bills on Monday intended to regulate personal consumer data privacy and the use of facial recognition technology. GeekWire previously reported on the bills this past November. The data privacy bill, known as the ..."
     publishedDateTime: 2020-01-14T01:31:00Z
@@ -359,6 +359,21 @@ related:
       - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-826006490-1200x628.jpg
         width: 1200
         height: 628
+  - title: "Facial recognition: EU considers ban of up to five years"
+    excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
+    publishedDateTime: 2020-01-17T13:46:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-51148501
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-51148501
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51148501
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
+        width: 1024
+        height: 576
   - title: "Las Vegas police use facial recognition to arrest assault suspect"
     excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
     publishedDateTime: 2020-01-19T17:04:00Z

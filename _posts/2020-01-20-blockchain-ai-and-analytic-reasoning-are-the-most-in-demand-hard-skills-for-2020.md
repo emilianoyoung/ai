@@ -49,6 +49,19 @@ related:
       - url: https://tr2.cbsistatic.com/hub/i/r/2019/09/25/ad9f6a19-686a-4383-b9e0-4d5cca38d599/resize/1200x/ee305c191ab3d54326490b6d17feb414/istock-512454930industrycloud4.jpg
         width: 1200
         height: 799
+  - title: "Computing's AI & Machine Learning Awards 2020 are now open for entries"
+    excerpt: "Artificial intelligence is the major topic dominating the IT industry today, and there are hundreds of companies competing to be heard. We're proud to announce the return of Computing's AI & Machine Learning Awards to identify the frontrunners from the rest of the pack. We have 28 categories this year covering AI tools, projects and services ..."
+    publishedDateTime: 2020-01-20T11:00:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3085084/computings-ai-machine-learning-awards-2020-are-now-open-for-entries
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 54
+    images:
+      - url: http://www.computing.co.uk/w-images/ec985e82-f2fe-42c9-9922-b38973adf831/3/AIMachineLearningAwardswinners8EBTICandBT-370x229.jpg
+        width: 370
+        height: 229
   - title: "The Most In-Demand Hard and Soft Skills of 2020"
     excerpt: "Soft skills are more about behavior and thinking, personal traits and cognitive skills. They’re typically more difficult to measure ... Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use. So, recruiters should start becoming familiar with ..."
     publishedDateTime: 2020-01-12T18:44:00Z

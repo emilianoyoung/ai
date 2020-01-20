@@ -45,6 +45,21 @@ related:
       - url: https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg
         width: 620
         height: 349
+  - title: "Go read this NYT expose on a creepy new facial recognition database used by US police"
+    excerpt: "Hundreds of law enforcement agencies across the US have started using a new facial recognition system from Clearview AI, a new investigation by The New York Times has revealed. The database is made up of billions of images scraped from millions of sites including Facebook, YouTube, and Venmo. The Times says that Clearview AI’s work could ..."
+    publishedDateTime: 2020-01-20T12:36:00Z
+    sourceUrl: https://www.theverge.com/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/yOeSDRl6VhpTPutJboexnMFrrT4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132463/jbareham_170417_1617_0001.0.jpg
+        width: 1400
+        height: 933
   - title: "The next big privacy scare is a face recognition tool you’ve never heard of"
     excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
     publishedDateTime: 2020-01-20T06:22:00Z
