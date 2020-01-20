@@ -7,8 +7,8 @@ sourceUrl: https://www.techzim.co.zw/2019/12/applications-for-2020-facebook-ai-r
 ampUrl: https://www.techzim.co.zw/2019/12/applications-for-2020-facebook-ai-residency-program-open/amp/
 cdnAmpUrl: https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2019/12/applications-for-2020-facebook-ai-residency-program-open/amp/
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://t3n9sm.c2.acecdn.net/wp-content/uploads/2017/09/navigation-laptop.jpg
-    width: 800
-    height: 388
-    title: "Applications For 2020 Facebook AI Residency Program Open"
-
-secured: "YHbqaun4k7HlSsvgR5uHgtfoSaqkjwmCrukn26zOQ6o7WgnfMvHwP+XWHbG4sVP/56AcHbgooejXkJzG4al/KJHGjHnreLldErqib4scBwkprre6wa7JpL57ZFpMrrFNXLYlCrG4yrqJg85zyHX202jAmqVo7TzOrD93vbSnhpBz0ZDc8GgIb/kpNxQnVIIiZHKJMIWMPyHzAmQOMd2FWjmrCZXc+9TjRqxglZy/LM6SOu6+oVvUmEnKdDjQVHtGCIHIeXh21W4jxq7+UAZS27c2DzpIiVL3hBGkfMf5wD8=;+G+YYK0A5DxxcZhEFzhDyQ=="
+secured: "O3ZcdWRa2RagmiWd4WWHqd4F6zBtIwfqUEE7f2o272mOp/rvts75NBfiGdJMWzMmFxz+ZVApMxTRnVNp3t8OwFuliK2il/p5vD8MJ+obm65zIw4wNQuFJpbiuCvQFOhUwyD7MyQfdU9LAWadGjEGjMhpIEooj1EnY2s6IAiUvTyaLR7jHXOJU+Z1DfsSdftZv4/EsyMXgwD5zg9PrPmOyyHy7VQGYUHZgLTdRjtZwU8PH9CLTzgCVGlypYOJ4ahmeglupbNjFRgVmw1DIazSJ8PVNM5LEtbnMuqUgbEIJxs=;6cg9/TJnFic6mRxnsj8DFQ=="
 ---
 

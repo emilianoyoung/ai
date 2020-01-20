@@ -1,33 +1,29 @@
 ---
 category: news
-title: "EU mulls 5-year ban on facial recognition tech in public areas"
-excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
-publishedDateTime: 2020-01-16T20:56:00Z
-sourceUrl: https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
-ampUrl: https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
+excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
+publishedDateTime: 2020-01-19T23:18:00Z
+sourceUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1
+ampUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1/amp
+cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp
 type: article
-quality: 89
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Business Insider Australia
+  domain: businessinsider.com.au
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
-    width: 1200
-    height: 630
-    title: "EU mulls 5-year ban on facial recognition tech in public areas"
+  - url: https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg
+    width: 800
+    height: 462
+    title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
 
 related:
   - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
@@ -60,6 +56,21 @@ related:
       - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
         width: 1200
         height: 800
+  - title: "EU mulls 5-year ban on facial recognition tech in public areas"
+    excerpt: "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ..."
+    publishedDateTime: 2020-01-16T20:56:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+        width: 1200
+        height: 630
   - title: "CBP Expands Facial Recognition for Global Entry Travelers"
     excerpt: "Over the last few years, Customs and Border Protection has been rolling out facial recognition programs at ports of entry across the country, including the nation’s international airports. Now, the agency is increasing the use of the technology for its optional Global Entry program. The Global Entry program allows frequent travelers who are ..."
     publishedDateTime: 2020-01-16T20:33:00Z
@@ -138,22 +149,7 @@ related:
       - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
         width: 608
         height: 342
-  - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
-    excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
-    publishedDateTime: 2020-01-19T23:18:00Z
-    sourceUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1
-    ampUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1/amp
-    cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp
-    type: article
-    provider:
-      name: Business Insider Australia
-      domain: businessinsider.com.au
-    quality: 7
-    images:
-      - url: https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg
-        width: 800
-        height: 462
 
-secured: "wic88uh4rI6BJXbr2p2aXSw2HL+rdlc3RBL10iUnKisbaCceonrtNSA4MBis3Kgkm6m5xFekvAegBm1qERANF6ZO5MrSeNucGZhLNMbpYqm4odDohrjXm1rW5RpJ1hlvDWGfHbs+Z2pVxu7HzsmUdsCxiHRQZVpHVQuklPdb/tbGBMvLmea060OQLvANv1h9olTFQMio9llbX3im9ZFI4J6jvkvRo1GthTQPqO1D618Ruv2cEmUFUkhadh7WvWZt+kv9QMXipPiS52zsJwoMF1q6pQnDzrf/5Z7zpV5t3g8=;2ra3P0687GxyLqd3FXzmtA=="
+secured: "U14k3C3KpYozq+hvtntqQZOdjJUG+q76xWDiLAoSHClEt0CcUHPWAZzpr8gKVkd+9rGwVCzf4JrEajoWKSXnEBaYagOAQ+9dypqxn1ZwHmDjW2isOF2LNYJuu24HxRRVksdo18Q1z2vEG1Y65IAi+LByxL+mhFuyw1MALj9f/SccdluEZNSuM5to9EiBR3decmAqXxRugHILajhrqJzSEQciO1P8DfaL8O62W50ykPMoKo20MLWxyEVxwakNYrEZsQlrdYY5HavLB80p7AlJbg/T8l6h/7P7d6kYTotrfIQ=;BxT0Mmf3uOWmPfc8WkVbsA=="
 ---
 

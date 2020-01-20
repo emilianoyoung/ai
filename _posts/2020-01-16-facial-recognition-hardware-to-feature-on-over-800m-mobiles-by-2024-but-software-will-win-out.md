@@ -134,6 +134,21 @@ related:
       - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
         width: 608
         height: 342
+  - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
+    excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
+    publishedDateTime: 2020-01-19T23:18:00Z
+    sourceUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1
+    ampUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1/amp
+    cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp
+    type: article
+    provider:
+      name: Business Insider Australia
+      domain: businessinsider.com.au
+    quality: 7
+    images:
+      - url: https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg
+        width: 800
+        height: 462
 
 secured: "vu9j/GCrA+SxvsrhhudMTVOeG77xg7rwEop/OIjiEQQyeCXN+R19StVZGARhjAaPJcPl9nqlP8qUnR6hoM/mfha0s8xp2WPj4khcJx0cQDASA5hQSVPoCVz9TMjqWaaL/x5rJGEvEGn6GjQtftezG5Y2qe2ru7k/g+xtukLfF/tlfhZye6PKEqh7/cm89S4pWHd90kEpVapi9bUDDVCs6gLMvpuLG7Yb44XZFoblwSvYBb818Zv/KNRTv18q7l8HBnZHlLQaAt88tLbPyx+0Os9d/eW53BBs9qT8Pe5i1x70/ve5iHVRJN4fsyb4HGa+6+5LYSmcJQvb1zX7P0cbSDDpD1k/0pNHlvGalsyWVhM/I3E8vLXOTxqqL28RrCxJ56Lp8KT/rHTtpdtKfObF5Pay4T8RrAAOMPPLyVojnscuuORc6BAPH2YfQ9dtc/2i8QsZo7pcOR1LCaPJZvHRzg==;5flDeZZxLtuliciJPd9kMg=="
 ---

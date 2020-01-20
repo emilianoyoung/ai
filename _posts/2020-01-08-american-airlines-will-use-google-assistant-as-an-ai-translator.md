@@ -8,8 +8,8 @@ ampUrl: https://www.tweaktown.com/news/69836/american-airlines-use-google-assist
 cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69836/american-airlines-use-google-assistant-ai-translator/amp.html
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: TweakTown
@@ -25,6 +25,19 @@ images:
     height: 427
     title: "American Airlines will use Google Assistant as an AI translator"
 
-secured: "5uU8e7ax/ib58fnXGjdbIjK0+Q73eYw3pFE59mFelg3t6sA/+LDQT0Z6VZFLOkG5Pq8LrMzV7zDBUovBVYYr0wYd29GKLmRpp+8+rKLe20M6rj+jr9Gb/9imXRZG9RFFdDxse9gXqpfdOd93XlwYGDWLlRcXhQQH5iuxfpW4gCL+arB8VEoQQog6eEj88I8A5KpN3IPuv0WPM8aqGmUcfRBSx5PjKvmqZwqoEhtKbeKzad6vcD+OA/BmR9c4HaHMLTX1aaRlPpNUNqKHNJ8WGQpIFQb+FZAbHxRV7NrATXg=;npz/TIYKoB+P9uYeDSH2NQ=="
+related:
+  - title: "Google Assistant Previews Upcoming Voice AI Feature"
+    excerpt: "At last year’s CES, Google introduced the availability of Interpreter Mode to translate nearly 30 languages. As of December 2019, Interpreter Mode was available in 44 languages and could interpret in 15-second bursts of conversation. Through a collaboration with industry partners Volara and Sonifi, Google said at CES 2020 that Interpreter ..."
+    publishedDateTime: 2020-01-08T04:38:00Z
+    sourceUrl: https://www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/
+    ampUrl: https://www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/google-assistant-previews-upcoming-voice-ai-feature/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
+
+secured: "bVwLvP7+KjLuK4Ko0EkyesT7qHGsnw61JkB/CGke0KL9kVZdTxQaSZ1i3iK3X0/2spewr1/FlKzHIhIlVzykXikohd/HrchLbIphJAST4nA9Sr4ynf0M7+FOy8SzN7SU/RiXBgtqsLgi4PLFzhqnzMkSx9vpmzzc0SQKNOQf5LDgy/Xr1wzQRETD5WrqgYn0gecXSObQIkOT/Be0x42LOL0BZbiBiXFj8slHCzddKdas5b2YqWM92c2G4tPBNHsdia59RrTc3ijSI1wlw+Y9UPzLzxionWRx/Jfa8i7pO5uNQiTvn9LAm9wtIxpcGkfp/zInYwqJxpeswvMpKAQDOdtmAPx8Yn3Q7vCecI6SuR898H6tHCfxMmi1EZApjy0Eo+zTh8l+ZY0QupnT4KLn5I1pdp9Tmzhpgrh/60sy999f61UNVbxqotuTjzDT5YOfxtCiKn9mlH3ZM4DtPaBvCw==;zCN/9AcJECp6qe3VFD7f0g=="
 ---
 

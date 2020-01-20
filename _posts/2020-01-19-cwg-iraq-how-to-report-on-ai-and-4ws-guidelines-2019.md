@@ -22,6 +22,6 @@ images:
     height: 792
     title: "CWG (Iraq) – How to Report on AI and 4Ws Guidelines (2019)"
 
-secured: "xV77cif/eUKqcohaSRsSj0/vccJRDjbDmOkuvQ4mVVM27nEcSa13qoyvpvknHpAw2v2ySBgt/kXU5jl0Jvyo2MHTx9mBkvizbo8jO5XDXi1bG0JtUAfcI+f6Rym+Bk6w+l+YezRvY+k/17cKO71xay1M9hTTWld/FcLY5O8i446dLo7rzpdFOY/SJqGiJ3HQMac1ONZpDD9KFKJwh4tVlprLzYztQw9qwauimfAGrOXg1HA8xRCJuv27ngRG7DVJbPy4xSM9Kde5qH2InLevVXrHrrabPM8G5X6MlGFFppc=;3kWsqBXebPdzK0dNakSjww=="
+secured: "Dy4ueprv8f2N4SwciEAXlPgsoO9GJkUQhNbosIl58XOg+ToqinMQkbBS/fgmYnFXp2Gh0w79YfD60AjPh2q7FEct0fvtZEYnACi0+usxa1y/+3Ow8r1PtJ9w0WWKKQWp32ZvhRcslsfjQxfG4frY+AQjEYVdp2Kkcb0BwvD9ZQ9mrNmDi/HtbIGG2/lg0Vu+uxAF89zUTd7jfQgiJcblj5d0xwLQioNjFc/DNOH4gn5MKFPxwNqbLYTm9fDEGxg8v08d3PcB/nFuI+4b7yTaXZGe/9WEDWCBIGaasriJ/Ct9fQJ1sqF0zHvPD5AaFsuHqAeBMbVDb6bxfjQ3oUcZRNvX3nPjTRqBY9ITQSKlYu3nNnBCJGmWlBlIDlp52c87v7RfhC2JbenNIUgRakJWvlk25XsKQDvTuQU1wy1XRlhXdqrEKtEFOpcLemQF3G+cTu1Ktf+HcB/Eo0zzWyJt0g==;5u0b4muCmBgOBjfsy71vxw=="
 ---
 
