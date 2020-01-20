@@ -45,6 +45,36 @@ related:
       - url: https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg
         width: 1101
         height: 828
+  - title: "Alphabet CEO Sundar Pichai explains why AI needs to be regulated"
+    excerpt: "This is the stance of Alphabet (parent company of Google) CEO Sundar Pichai, expressed in the form of an op-ed article in the Financial Times Monday. Pichai calls AI \"one of the most promising new technologies,\" but also highlights possible risks stemming from careless use of AI, naming a few historical examples in which breakthrough new tech ..."
+    publishedDateTime: 2020-01-20T14:28:00Z
+    sourceUrl: https://mashable.com/article/sundar-pichai-alphabet-ai-google/
+    ampUrl: https://mashable.com/article/sundar-pichai-alphabet-ai-google.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/sundar-pichai-alphabet-ai-google.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 87
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
+        width: 1200
+        height: 630
+  - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
+    excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
+    publishedDateTime: 2020-01-20T14:45:00Z
+    sourceUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/
+    ampUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
+        width: 1024
+        height: 692
   - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
     excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
     publishedDateTime: 2020-01-20T10:30:00Z
@@ -142,6 +172,21 @@ related:
       - url: https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640
         width: 1200
         height: 700
+  - title: "Google CEO calls for AI regulation to avoid 'negative consequences' of thinking machines"
+    excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the EU commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
+    publishedDateTime: 2020-01-20T14:08:00Z
+    sourceUrl: https://www.foxbusiness.com/technology/google-ceo-calls-for-ai-regulation-to-avoid-negative-consequences-of-thinking-machines
+    ampUrl: https://www.foxbusiness.com/technology/google-ceo-calls-for-ai-regulation-to-avoid-negative-consequences-of-thinking-machines.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-ceo-calls-for-ai-regulation-to-avoid-negative-consequences-of-thinking-machines.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 48
+    images:
+      - url: http://media.foxbusiness.com/BrightCove/854081161001/202001/3712/854081161001_6124332457001_6124328270001-vs.jpg
+        width: 1280
+        height: 720
   - title: "Google CEO Calls For AI Governance"
     excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
     publishedDateTime: 2020-01-20T11:43:00Z
@@ -154,6 +199,6 @@ related:
       domain: pymnts.com
     quality: 37
 
-secured: "aSHe+akgfiYh4HOx/0Ho9OtSsiCsePfTMDKZ8ER2BSFaUpmxlU+O6t2hpqU2vB5rFNDOjUF3oHjcXLig7csRN6MtKdM/vORU9br52xQBZV2Ed7KOJUcsrrTj0kijaeMPIpJJbqltKaHu4mzaZhblXRvp7MB6ItGVZEVwpy8NAhZ9z3G9fxU5sgNM9BMUCdQJEkTzwTnWKkT4cqMfRorbn7ZEWSYmKqRB2vKsGZufPlqPFsF+tDN1lCvzftFG4ccO5BZ0cPYq9ashn0xGvW/4qFOvfFoMsdNnDKbmOUb56qU=;gLFwJ68T4VUWZ2FeGM9Beg=="
+secured: "xUmzlyeozqcXCP4bunbQuuqqlzto84AF5zLxn9drCrVBx/xkkDKPllbO/DydZtf0Uv46brmtS9GTPMibptStrf4AyxpcyEM2C4gU7Fvn16gWsxQn+yal7/OA37iSRFT3WDM9g/B/qw+wXzwDUB90iK1cL9xkFZhzy2Mq+oOm3jrvAS1y1qBj8dNVUFxhXdTSCitTTrqvC9gEzepnmuOTvyZIVGPBTf6TobWdnZ8gaSlO88XGMgUjc8Uy5FZMMDy2aj77j00ZHxy/JOX+iPhq9PzIdCeVBbvhRC+pzbpkbz9p75g6nIaYYHP86HLDj8Owjdv5reVPurehTbzZasJA3f9jAGR2AQ5Az4rlHbdkxkMXxLyZipApV/hhrb73Dr+0XvdZH4WDL7yF95KUrsOP1rklxLxQkk2YWtxCjY82MM80n8T7zUn7Bji2KYJuYXHNWI5yV5wAGSPDj2YvK6KQBw==;KxxWBaD+U6DYI/WmVc2BlA=="
 ---
 

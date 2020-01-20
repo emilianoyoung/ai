@@ -39,6 +39,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    publishedDateTime: 2020-01-17T00:25:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 56
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Facebook Releases Open Source Speech Recognition Platform"
     excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. “The system has almost three times the throughput of a well-tuned hybrid ASR baseline while also having lower latency and a better word error rate,” wrote a ..."
     publishedDateTime: 2020-01-16T01:03:00Z
@@ -65,19 +78,6 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
-    publishedDateTime: 2020-01-17T00:25:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 39
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
   - title: "Speech and Voice Recognition Market"
     excerpt: "The advent of advanced technologies in diverse industries such as healthcare, banking, medicine, and others in promoting the growth of the global speech and voice recognition market says Fortune Business Insights™ in their new study. The study is titled “Speech and Voice Recognition Market Size, Share and Global Trend By Component (Solution ..."
     publishedDateTime: 2020-01-16T03:46:00Z

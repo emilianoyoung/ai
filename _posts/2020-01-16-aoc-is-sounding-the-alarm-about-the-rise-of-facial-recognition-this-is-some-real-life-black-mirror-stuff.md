@@ -60,6 +60,17 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/yOeSDRl6VhpTPutJboexnMFrrT4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132463/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
+  - title: "Artificial Intelligence, The Real Estate Industry And The Realtor"
+    excerpt: "FALLS CHURCH, Va., Jan. 20, 2020 /PRNewswire-PRWeb/ -- The Artificial Intelligence revolution has begun. Although it is still in its infancy, AI is already facilitating self-driving cars and voice-activated home systems that set alarms and thermostats on their own. The technology may come off as intimidating to many in the real estate industry ..."
+    publishedDateTime: 2020-01-20T13:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "The next big privacy scare is a face recognition tool you’ve never heard of"
     excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
     publishedDateTime: 2020-01-20T06:22:00Z

@@ -44,7 +44,20 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/04/6sense_official-e1578989067587.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "scoutbee raises $60M Series B investment in mission to transform industries with AI-driven supplier discovery"
+    excerpt: "scoutbee enables the right purchasers and the right suppliers to connect - anywhere in the world. By leveraging AI and Big Data to generate deep insights and transparency, scoutbee drives more valuable and confident business relationships. Gregor Stűhler, Co-founder and Managing Director of scoutbee, said, \"The significant new funding ..."
+    publishedDateTime: 2020-01-20T14:18:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scoutbee-raises-m-series-b-investment-in-mission-to-transform/article_8efd4ce4-eaab-5708-b078-036085739685.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
-secured: "SXXQtooUrO6dC+snXxyg+vKky+K13Ak6mXeK+xZIJKS1/5PqFzRLTxgGlfWw03Kf6k9ic6w+96pWvxulZHQlfZR6+I9kC37zqyM1GngPU8JTk22o4l2NtzqPIQQ35USM1os17H0IT9ODbFm9ZnQRGFxQt01kibdLblnfLOKVBk8kvQ3PLs5b43Y5vZtN4z/sBngUjEU6mV3qEzr5j5p04lsJzx0R0fCP8i+0jWEtFVr9sO2CRwPOVo5/f3XI8BU+z0C1dWR4+dSQgG6t/iSmRvFCAccIX5tBXFhphQ3SsDQ=;UYH3cLrngrd6luwvkGhHVA=="
+secured: "9PLvbxIwkOFRfNI6rp/u5VG8BrWHOxQztXiZwZzldv5nzZFdw+bdQ+O5dGnUZ/wJfQZ1lhee0MgzAV6cnwXwdWX/3hp+LChivgmxPzvp0O2Rrkyx+5DlfYzalHrDHqTvfv2PxrxENfAUTpSMjTBQDFjgidmdifm7hTB0qX0szi2kIEaUllJrXRkRzOxXAimg3aIjlzv/spZl67cAVyTm/dYKocfB23CIzwnqbW8yK30PhfkclkXPbSNN677UJLCXOCgaBCWtsu3cDfUFC+9kNdblqeidV4RwOHgC35M+ZKtQfmUZ349BIqHc27RQnehszu35oCBBsy5QqArqvKJEt/3NtOfsgAmgPZE4P0o8urAwG2deKsBwwq3Rg4DcThE/LMA+KA1Id9/4eejo1RJdja3QQSQgfFjqlhXOsisb7AEnuS23SxnGMJ5RHwAhW4FysbzA8azuXQppUzUVRcNxkw==;Bu43jZot13Uoi5B5jIKTTQ=="
 ---
 

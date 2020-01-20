@@ -131,6 +131,21 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/s--E8Ser8s1--/c_scale,f_auto,fl_progressive,q_80,w_800/ugisluglqvfjuwou1zyt.jpg
         width: 800
         height: 450
+  - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
+    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
+    publishedDateTime: 2020-01-20T14:28:00Z
+    sourceUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/
+    ampUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 900
   - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
     excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
     publishedDateTime: 2020-01-09T16:01:00Z

@@ -40,6 +40,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
+    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
+    publishedDateTime: 2020-01-17T00:25:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 56
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Choose a speech recognition mode"
     excerpt: "This method will detect a recognized utterance from the input starting at the beginning of detected speech until the next pause. Usually, a pause marks the end of a sentence or line-of-thought. At the end of one recognized utterance, the service stops processing audio from that request. The maximum limit for recognition is a sentence duration ..."
     publishedDateTime: 2020-01-14T23:12:00Z
@@ -57,19 +70,6 @@ related:
     excerpt: "Facebook has announced that it will be making its wav2letter@anywhere online speech recognition framework more readily available as an open source platform. The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market."
     publishedDateTime: 2020-01-17T21:08:00Z
     sourceUrl: https://businesscomputingworld.co.uk/t/facebook-releases-open-source-speech-recognition-platform/236679
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 39
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-  - title: "Facebook’s Online Speech Recognition Framework Becomes Widely Available"
-    excerpt: "The framework was developed by Facebook AI Research (FAIR), which claims that it has created the fastest open source automatic speech recognition (ASR) platform currently on the market. This is a companion discussion topic for the original entry at https://findbiometrics.com/facebook-online-speech-recognition-framework-901162/"
-    publishedDateTime: 2020-01-17T00:25:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
     type: article
     provider:
       name: BCW

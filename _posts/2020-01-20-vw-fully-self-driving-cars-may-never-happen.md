@@ -125,6 +125,21 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/s--E8Ser8s1--/c_scale,f_auto,fl_progressive,q_80,w_800/ugisluglqvfjuwou1zyt.jpg
         width: 800
         height: 450
+  - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
+    excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
+    publishedDateTime: 2020-01-20T14:28:00Z
+    sourceUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/
+    ampUrl: https://ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/20/i-took-a-test-drive-in-qualcomms-self-driving-car-on-a-busy-freeway/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 900
   - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
     excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
     publishedDateTime: 2020-01-13T18:05:00Z

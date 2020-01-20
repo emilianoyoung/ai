@@ -18,6 +18,21 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Revenue Growth AI company Samya.AI Raises $6M in Seed Funding led by Sequoia India"
+    excerpt: "/PRNewswire/ -- Samya.AI, an enterprise Revenue Growth AI SaaS company, announced today that it has raised $6 million in seed round funding led by"
+    publishedDateTime: 2020-01-20T13:04:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/revenue-growth-ai-company-samyaai-raises-6m-in-seed-funding-led-by-sequoia-india-300989010.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://mma.prnewswire.com/media/1077540/Samya_Founders.jpg?p=facebook
+        width: 2195
+        height: 1149
+
 secured: "z53GQt6QGHfFgC001UV4/sZYldEvHZHRogPSOVMJ8tmS+sb54vhu1krNAXo3af076rN8UPPOYQVnbhBmNn9uu2tSsw5QyQxDU88Oi/C/qEjGDFAGqyMFdRD8D5wuu4kixCOBzIJ73eJL4FBg4r9fpqF6r8+mpTNrjDaEaGlNguAPFcxicUSvTsj1+PPS75R2exUdXN5Z14SEzvYPdhAPkSBMxGG87hN+OldN6I/DHzzAoXOhoZAYF4/7xwHXTnK/13yBlVJZJIvuuTg2govT6yY1MzCPBLpXI38kvlIe8FqGro+fn2tj5WmMMKMoDsGlygtRbtjJWbvbV/FSx86EvzDMR3Z9qyCuDEtFl8nS16Qubm0GD8y0WQl1urODoaHTUXyQSDIAtwnB7ymbs3BaEGP5E0QlDGlfrUQ72Hb3VyfjbxsXY+gKdSuIwZhPX5HxrSMAiY0tGE6MDkqxKuJNeg==;BsNZRUCIq+fm9LstLn/u0w=="
 ---
 

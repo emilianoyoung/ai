@@ -73,6 +73,17 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
+  - title: "Artificial Intelligence, The Real Estate Industry And The Realtor"
+    excerpt: "FALLS CHURCH, Va., Jan. 20, 2020 /PRNewswire-PRWeb/ -- The Artificial Intelligence revolution has begun. Although it is still in its infancy, AI is already facilitating self-driving cars and voice-activated home systems that set alarms and thermostats on their own. The technology may come off as intimidating to many in the real estate industry ..."
+    publishedDateTime: 2020-01-20T13:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
     excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
     publishedDateTime: 2020-01-09T20:52:00Z

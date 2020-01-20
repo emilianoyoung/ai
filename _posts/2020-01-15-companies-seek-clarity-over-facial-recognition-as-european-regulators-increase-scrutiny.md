@@ -73,6 +73,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F17%252F7e%252Faa4856d86c7c402887ddee86110e215e.c80a4.jpg%252F1200x630.jpg?signature=axZn3vvlYSj68lH8DIH9qHic0mA=
         width: 1200
         height: 630
+  - title: "UPDATE 1-Alphabet CEO backs temporary ban on facial-recognition technology over misuse worry"
+    excerpt: "BRUSSELS, Jan 20- The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes."
+    publishedDateTime: 2020-01-20T14:54:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+    images:
+      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+        width: 1200
+        height: 630
   - title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
     excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
     publishedDateTime: 2020-01-14T19:49:00Z

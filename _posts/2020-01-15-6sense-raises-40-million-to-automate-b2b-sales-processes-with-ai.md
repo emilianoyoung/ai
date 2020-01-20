@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/logo-orange-small-e1579119365676.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "scoutbee raises $60M Series B investment in mission to transform industries with AI-driven supplier discovery"
+    excerpt: "scoutbee enables the right purchasers and the right suppliers to connect - anywhere in the world. By leveraging AI and Big Data to generate deep insights and transparency, scoutbee drives more valuable and confident business relationships. Gregor Stűhler, Co-founder and Managing Director of scoutbee, said, \"The significant new funding ..."
+    publishedDateTime: 2020-01-20T14:18:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scoutbee-raises-m-series-b-investment-in-mission-to-transform/article_8efd4ce4-eaab-5708-b078-036085739685.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
 secured: "6RrCI2r8ghrrYCrKUbF+1BKNenhqJP3OhnrGqCS2MqW4HxNwNEIhzUrdoKTzo/o0zM+KPWZxmktFmmlHznz9F/MIfJ4K+MklfZM07M+x79qOZLN9VYVtPQVeGgchcdvrUyt8r8XS0OUKVmeOuPK32BxCX4XnNFZ+XV3SN39waZtz+zg1VaTNzDe2nsf7ggyaFA1QO9WyKmBzNn4TTvep/n8U7BpC73KNCtgvwbh844JUawAGNCWqKZM+8fZbwMCUKQH5KL4QgfkwEDQBNWpdxPfjOb7PA95SaJTwgwYH8UJetpAAc2VN9erZn8yF5r7BNlPlY7Sy8E0ZJ0GJXYw4Dtih1iW9ZbIyZE6WrlFSXv8mL01csYZFsld6BGv2piBL6In+Yxe0PvzXWe4KTCCDgjyftG6tQFnPOeciSTfeqBCz50GjVnjQ9Y1xU3NgZncWcNJrQtplvpnpm3vtkTvrmg==;vlDbZ6aiXxEk437AKVg9Ww=="
 ---

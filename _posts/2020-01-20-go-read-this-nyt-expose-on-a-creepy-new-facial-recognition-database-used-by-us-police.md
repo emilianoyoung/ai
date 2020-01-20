@@ -60,6 +60,17 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
+  - title: "Artificial Intelligence, The Real Estate Industry And The Realtor"
+    excerpt: "FALLS CHURCH, Va., Jan. 20, 2020 /PRNewswire-PRWeb/ -- The Artificial Intelligence revolution has begun. Although it is still in its infancy, AI is already facilitating self-driving cars and voice-activated home systems that set alarms and thermostats on their own. The technology may come off as intimidating to many in the real estate industry ..."
+    publishedDateTime: 2020-01-20T13:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "The next big privacy scare is a face recognition tool you’ve never heard of"
     excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
     publishedDateTime: 2020-01-20T06:22:00Z
@@ -156,6 +167,6 @@ related:
         width: 1920
         height: 1280
 
-secured: "NHACxNPejHCMD8cXGDBQ+HZuY1yxDA3+nfUCtQ8tNmy6DIZePs0/zuu5HncHnbDXPq4hbN4HIL85rAccmLhpJwmnC2yuKhNWHE2l1YfHLtJw+lDeazX32vYKtSd1sjkxjytfQMwHzhTteLDD6NuKGqb8wNsQ4XvzyZtXSRqjOWVBtSfoNd/QvyUR/Z3UHXBjwi1CRwEKfRhTDn2jllWVdHvkLZdOFr+RwgOBSM1k5ij7MjSjKELFAQfyg9u9SVpd/wizO+GhElEPrn2mSx7wo2HiJyuIPpQqvo3ZHc+5ERo=;5U9P31GtGU7x2xFY1ITrDA=="
+secured: "+FvpVlyiHWcO6Ds7rRodefzNtWAEpF5pvY4ZIEl1n6vqfexONAeiRB16FA3Vd1ukPskt6N8PEB75c9q3SnvkaJo/a32GCbhdgR3U4j/g5t4rlOd8vh3D58STmB3uAdAqpeu0sbmGqoSmLUBPzieAU9qcmbeGP8SU5Ta+Ud1GIWPxwUDoSLOTIGEBecCwDWpmm7UNiKPggDJy8pRpuX8hPNqHsq2faER2oRNhzIkJ6+AVE2KeQXTwG/xvbM2X5oM+Nq6zU5FDGVJdLfMpriBjb4aOS+HgT+qIHHmzqcUBoQwxIlloR7KxHQhfDvq0qax67Pz3NDkDbRFfkb5obzHxUSrrGkGdf8dGL5X+0yhLh8XNyI2bL2bVGKEDmMcXwHdd6Q7GQfY16bsqBKUGItRc0aZ7UDR96PCvfRbnhUem5h2P+zIH7bURlxcUg2p+BhkIzZkQg2YdTvk79bfG8jeU7A==;eSs7XauJeZBfPAtCoYt+Ag=="
 ---
 

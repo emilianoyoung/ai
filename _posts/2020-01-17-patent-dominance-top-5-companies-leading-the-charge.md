@@ -41,19 +41,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?fit=1200%2C800&strip=all
         width: 1200
         height: 800
-  - title: "New AI toolkit from the World Economic Forum is promising because it’s free"
-    excerpt: "The toolkit was designed to mimic how board committees and organisations typically approach ethics, policy and risk. Artificial intelligence promises to solve some of the most pressing issues faced by society, from ensuring fairer trade and reducing consumer waste, to predicting natural disasters and providing early diagnosis for cancer patients."
-    publishedDateTime: 2020-01-20T08:57:00Z
-    sourceUrl: https://www.thenational.ae/business/comment/new-ai-toolkit-from-the-world-economic-forum-is-promising-because-it-s-free-1.966680
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 39
-    images:
-      - url: https://www.thenational.ae/image/policy:1.966679:1579504377/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9
-        width: 1200
-        height: 675
 
 secured: "oes9Ru9BzqVm+HimW01DHKHgRj/0+pJTClR6eNCusc/r5jK2nN0Llqal6ylgv3H2w7p7htL/JcCXLTxh7fmQ1KxwN3FhaiXlRnZOwGQ2G4kILBgfM1oZjD9ZEsxIijhLCDXRHX/3O7+8Gud675LRhcXJbX157AUVY2zhT4dMoHFX9e0LChnMENZN/1fV4PUboy+ng0oRXZNiJHO7qk5U+El9RsUO/h7+G56k2UvLjxGu5PlXqSlSNOnxBpyOEvC+kEuDdj4VkHyckpdoF9b0jFTpHGn0iZvde98zzmqa8CsuDBfbMQImxR2tv3YC4LQE9njs9tErt0QuWC4ASEFhtBe2sIo/haDwGyldPKYWlCHpLnKkG7C7RBqg5yDI6wVFGu+txTkI7J7vOxmZ0bUohE8c8DyBscG/F5mXWGJBo6bNETJiS/VQilu7hRferKURXUsYHZPlzVEDQcA+6fsTQw==;7f5qjAC7EOoCnrtU3ET/gA=="
 ---

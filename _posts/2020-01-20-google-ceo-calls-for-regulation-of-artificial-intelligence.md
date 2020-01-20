@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
+excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI ... investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a ..."
 publishedDateTime: 2020-01-20T10:53:00Z
 sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
 ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
@@ -72,6 +72,6 @@ related:
         width: 1200
         height: 628
 
-secured: "XJpfOVF5yeLu219Ko2MF3lplyXVCJzp2IiAwv1OnFtQ1AOcPODeORuVq5D7yoOlHsu2wsPkY7nosKWkE2mCeEKIIhP8vtanRqHW9ZtbZkFMpx9AiIp+oZPaRnwBv+bVmfYupcSScPUiGxKFaEbg3GXnKfJLxYPwDhFdEtSLxNys+qctkafeeNxu3PaGW+ndeNSaSThf+4l6LP9D2n5TKsiLPKWB654mHhaD6gKvcgBI7zQaVQlygNM78MIbmEJfW0YtVRdxwhYzI6G0wTMp7z3uf/Rxfq5qYXe1tBfP8F6c=;rSW+Yd62Ifah6QlLYdKXBA=="
+secured: "TT4BZjhcFjDOAqQiLYBWdq0M00Zs6PUXBsVo82hLRqRlEz2wyUZ0qzANnPDjuNhtOKxiDbqzGhZsXoYH1xKGFVcVtH8/cLi9MLOhKk15n6bpnhQnYE9RCPevOLTZIWd7bEvlQlgFIWr0xqc3dU5U48Gl42i9OaVoPDgXhmbdBWqVAvVLpbFb6c6AMo9MkLgASqptW04z+2aRWSGqk0y6j3DEVDlU4LsVqHalpuA+lLmKNfQ/1TfQDq6BEJt9Jxtt7bEKWxPCJpAFQ3O7Ns+vwdwKgToHp+7R5kpp5OupocI=;358V2twaiQfMDUINQFpxLQ=="
 ---
 

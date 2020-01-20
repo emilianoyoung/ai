@@ -5,7 +5,7 @@ excerpt: "The framework was developed by Facebook AI Research (FAIR), which clai
 publishedDateTime: 2020-01-17T00:25:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-online-speech-recognition-framework-becomes-widely-available/235598
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
