@@ -9,12 +9,12 @@ keywords:
   - waymo
   - tesla
 images:
-  - https://ai.insideout.app/assets/images/topics/ai-in-autos.jpg
-  - https://ai.insideout.app/assets/images/topics/ai-in-autos-2.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/ai-in-autos.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/ai-in-autos-2.jpg
 services:
-  news: https://ai.insideout.app/api/news/ai-in-autos/
-  learning: https://ai.insideout.app/api/learning/ai-in-autos/
-  people: https://ai.insideout.app/api/people/ai-in-autos/
-  companies: https://ai.insideout.app/api/companies/ai-in-autos/
-  projects: https://ai.insideout.app/api/projects/ai-in-autos/
+  news: https://fiona-bi.github.io/ai/api/news/ai-in-autos/
+  learning: https://fiona-bi.github.io/ai/api/learning/ai-in-autos/
+  people: https://fiona-bi.github.io/ai/api/people/ai-in-autos/
+  companies: https://fiona-bi.github.io/ai/api/companies/ai-in-autos/
+  projects: https://fiona-bi.github.io/ai/api/projects/ai-in-autos/
 ---

@@ -6,10 +6,10 @@ parent: AI
 keywords:
   - Watson
 images:
-  - https://ai.insideout.app/assets/images/topics/ibm-ai.jpg
-  - https://ai.insideout.app/assets/images/topics/ibm-ai-2.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/ibm-ai.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/ibm-ai-2.jpg
 services:
-  news: https://ai.insideout.app/api/news/ibm-ai/
-  learning: https://ai.insideout.app/api/learning/ibm-ai/
-  projects: https://ai.insideout.app/api/projects/ibm-ai/
+  news: https://fiona-bi.github.io/ai/api/news/ibm-ai/
+  learning: https://fiona-bi.github.io/ai/api/learning/ibm-ai/
+  projects: https://fiona-bi.github.io/ai/api/projects/ibm-ai/
 ---

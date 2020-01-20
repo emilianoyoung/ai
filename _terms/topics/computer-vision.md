@@ -10,11 +10,11 @@ keywords:
   - facial recognition
   - object recognition
 images:
-  - https://ai.insideout.app/assets/images/topics/computer-vision.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/computer-vision.jpg
 services:
-  news: https://ai.insideout.app/api/news/computer-vision/
-  learning: https://ai.insideout.app/api/learning/computer-vision/
-  projects: https://ai.insideout.app/api/projects/computer-vision/
-  people: https://ai.insideout.app/api/people/computer-vision/
-  companies: https://ai.insideout.app/api/companies/computer-vision/
+  news: https://fiona-bi.github.io/ai/api/news/computer-vision/
+  learning: https://fiona-bi.github.io/ai/api/learning/computer-vision/
+  projects: https://fiona-bi.github.io/ai/api/projects/computer-vision/
+  people: https://fiona-bi.github.io/ai/api/people/computer-vision/
+  companies: https://fiona-bi.github.io/ai/api/companies/computer-vision/
 ---

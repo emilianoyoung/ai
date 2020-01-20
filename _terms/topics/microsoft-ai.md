@@ -8,10 +8,10 @@ keywords:
   - azure
   - microsoft
 images:
-  - https://ai.insideout.app/assets/images/topics/microsoft-ai.jpg
-  - https://ai.insideout.app/assets/images/topics/microsoft-ai-2.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/microsoft-ai.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/microsoft-ai-2.jpg
 services:
-  news: https://ai.insideout.app/api/news/microsoft-ai/
-  learning: https://ai.insideout.app/api/learning/microsoft-ai/
-  projects: https://ai.insideout.app/api/projects/microsoft-ai/
+  news: https://fiona-bi.github.io/ai/api/news/microsoft-ai/
+  learning: https://fiona-bi.github.io/ai/api/learning/microsoft-ai/
+  projects: https://fiona-bi.github.io/ai/api/projects/microsoft-ai/
 ---

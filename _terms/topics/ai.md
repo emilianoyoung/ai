@@ -6,14 +6,14 @@ keywords:
   - artificial intelligence
   - ai
 images:
-  - https://ai.insideout.app/assets/images/topics/ai.jpg
-  - https://ai.insideout.app/assets/images/topics/ai-2.jpg
-  - https://ai.insideout.app/assets/images/topics/ai-3.jpg
-  - https://ai.insideout.app/assets/images/topics/ai-4.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/ai.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/ai-2.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/ai-3.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/ai-4.jpg
 services:
-  news: https://ai.insideout.app/api/news/
-  learning: https://ai.insideout.app/api/learning/
-  projects: https://ai.insideout.app/api/projects/
-  people: https://ai.insideout.app/api/people/
-  companies: https://ai.insideout.app/api/companies/
+  news: https://fiona-bi.github.io/ai/api/news/
+  learning: https://fiona-bi.github.io/ai/api/learning/
+  projects: https://fiona-bi.github.io/ai/api/projects/
+  people: https://fiona-bi.github.io/ai/api/people/
+  companies: https://fiona-bi.github.io/ai/api/companies/
 ---

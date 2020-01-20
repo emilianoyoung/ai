@@ -7,11 +7,11 @@ keywords:
   - tensorflow
   - deepmind
 images:
-  - https://ai.insideout.app/assets/images/topics/google-ai.jpg
-  - https://ai.insideout.app/assets/images/topics/google-ai-2.jpg
-  - https://ai.insideout.app/assets/images/topics/google-ai-3.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/google-ai.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/google-ai-2.jpg
+  - https://fiona-bi.github.io/ai/assets/images/topics/google-ai-3.jpg
 services:
-  news: https://ai.insideout.app/api/news/google-ai/
-  learning: https://ai.insideout.app/api/learning/google-ai/
-  projects: https://ai.insideout.app/api/projects/google-ai/
+  news: https://fiona-bi.github.io/ai/api/news/google-ai/
+  learning: https://fiona-bi.github.io/ai/api/learning/google-ai/
+  projects: https://fiona-bi.github.io/ai/api/projects/google-ai/
 ---
