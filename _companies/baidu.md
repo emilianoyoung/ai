@@ -25,6 +25,10 @@ locations:
 
 topics:
   - AI
+  - Computer Vision
+
+tags:
+  - Autonomous Vehicles
 
 images:
   - url: https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1587600000&v=beta&t=_yBsr6TuN0BCn2lJXIapM3qotYwkLcjyMn-9G7KGNhk
