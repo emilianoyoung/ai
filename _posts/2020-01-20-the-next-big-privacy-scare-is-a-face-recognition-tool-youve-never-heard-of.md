@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
-excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
-publishedDateTime: 2020-01-17T06:11:00Z
-sourceUrl: https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry
+title: "The next big privacy scare is a face recognition tool you’ve never heard of"
+excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
+publishedDateTime: 2020-01-20T06:22:00Z
+sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/20/the-next-big-privacy-scare-is-a-face-recognition-tool-youve-never-heard-of/
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Insurance Post
-  domain: postonline.co.uk
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: /assets/images/organizations/thenextweb.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Healthcare
+  - Computer Vision
 
 images:
-  - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
-    width: 378
-    height: 234
-    title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
+  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-Recognition-hed-2020-796x419.jpg
+    width: 796
+    height: 419
+    title: "The next big privacy scare is a face recognition tool you’ve never heard of"
 
 related:
   - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
@@ -54,19 +58,6 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
-  - title: "The next big privacy scare is a face recognition tool you’ve never heard of"
-    excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
-    publishedDateTime: 2020-01-20T06:22:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/20/the-next-big-privacy-scare-is-a-face-recognition-tool-youve-never-heard-of/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-Recognition-hed-2020-796x419.jpg
-        width: 796
-        height: 419
   - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
     excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
     publishedDateTime: 2020-01-09T20:52:00Z
@@ -110,6 +101,19 @@ related:
       - url: https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/xilinx-acap-everest-logo.jpg
         width: 735
         height: 539
+  - title: "Blog: How artificial intelligence is altering the landscape of liability for the healthcare industry"
+    excerpt: "The Post events team works alongside the brand's editorial staff and industry advisors to produce content around key issues affecting the insurance industry. Don't miss out - follow our events."
+    publishedDateTime: 2020-01-17T06:11:00Z
+    sourceUrl: https://www.postonline.co.uk/technology/4569101/blog-how-artificial-intelligence-is-altering-the-landscape-of-liability-for-the-healthcare-industry
+    type: article
+    provider:
+      name: Insurance Post
+      domain: postonline.co.uk
+    quality: 39
+    images:
+      - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
+        width: 378
+        height: 234
   - title: "Plain Talk Podcast: Congressman Armstrong talks impeachment, trade, facial recognition, and the Astros cheating scandal"
     excerpt: "We rely on advertising to deliver quality local news to the communities we serve. Please disable your ad blocker and refresh the page or subscribe to a digital membership and support our journalism efforts."
     publishedDateTime: 2020-01-16T18:19:00Z
@@ -137,6 +141,6 @@ related:
         width: 1920
         height: 1280
 
-secured: "NqCQve7HzRocIR8jMY7r0nIQHInZWnjJwR4NtZFybJV5aqhgEUi3DFypGIjK6JrJrbOafNRlGsapYOlZolRt6PL5xZ93lPcuw814AhLaqCw8V0xdAIU13mBpfeN9If82Ep5LOxYQ4JZ7F2vsCZaDCydSOAB/WvWSLQGU8FqKFo+Q2gShZX8vdK7aHu5BVkvb8oEUF8HlfefJ11kM9mhL6I0JRg7uTEiOyFRYI6kz9lTy05hILTvFoYKZQTp+S639H4hjVseauUI0Hu532Y5IfrIXFMkUH+2PpozLOG9Y724=;FLS+6EpjBZpP2HLgidbnyg=="
+secured: "nN7wBqysxAZu71Z+oEZE+Yvn3S9WXLBU5apv2YYiCf0xZr5VnEyqPipDMzeu6WTdEUlJUq8sMCf1D6TkJmgPLp+6zPnvGLXTi+Ks2NmmtVu9H4pEgi9HdOnJjLFZRuXsjqzxpluzMd2qtMgula4Cctl9PVC+4A3nPdrvarP1DSKCYO4gMjq4PIxDiEecjddcqE4fblZ3KernCvccdphoplq0P0qMGLadAoFoDq2oYOYpb91moLYZitVKuCiYIAlnK8szblybGHgyqZEgSRXUAYJJEzO7MkeVrRBdm1iPGTw=;gUibx57o4XTFsj/9OEnTAw=="
 ---
 

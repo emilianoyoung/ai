@@ -56,6 +56,19 @@ related:
       - url: https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg
         width: 750
         height: 563
+  - title: "The next big privacy scare is a face recognition tool you’ve never heard of"
+    excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
+    publishedDateTime: 2020-01-20T06:22:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/20/the-next-big-privacy-scare-is-a-face-recognition-tool-youve-never-heard-of/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-Recognition-hed-2020-796x419.jpg
+        width: 796
+        height: 419
   - title: "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'"
     excerpt: "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements."
     publishedDateTime: 2020-01-15T16:41:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
-excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
-publishedDateTime: 2020-01-14T19:49:00Z
-sourceUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.html
-ampUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
-cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+title: "EC may ban face recognition"
+excerpt: "The EC has come up with an 18 page document discussing whether it should ban face recognition in public places for three to five years while they work out how to regulate it. Exceptions are mooted for things like security and R&D projects. New rules are proposed to add to existing data privacy and data storage rules. Developers and users of AI ..."
+publishedDateTime: 2020-01-20T06:51:00Z
+sourceUrl: https://www.electronicsweekly.com/news/business/ec-may-ban-face-recognition-2020-01/
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: Electronics Weekly
+  domain: electronicsweekly.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
-    width: 540
-    height: 360
-    title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
+  - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
+    width: 750
+    height: 450
+    title: "EC may ban face recognition"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
@@ -84,6 +82,21 @@ related:
       - url: https://images.wsj.net/im-144056/social
         width: 1280
         height: 640
+  - title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
+    excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
+    publishedDateTime: 2020-01-14T19:49:00Z
+    sourceUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.html
+    ampUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 59
+    images:
+      - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
+        width: 540
+        height: 360
   - title: "How the police use facial recognition, and where it falls short"
     excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
     publishedDateTime: 2020-01-14T01:50:00Z
@@ -290,19 +303,6 @@ related:
       - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
         width: 768
         height: 432
-  - title: "EC may ban face recognition"
-    excerpt: "The EC has come up with an 18 page document discussing whether it should ban face recognition in public places for three to five years while they work out how to regulate it. Exceptions are mooted for things like security and R&D projects. New rules are proposed to add to existing data privacy and data storage rules. Developers and users of AI ..."
-    publishedDateTime: 2020-01-20T06:51:00Z
-    sourceUrl: https://www.electronicsweekly.com/news/business/ec-may-ban-face-recognition-2020-01/
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 39
-    images:
-      - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
-        width: 750
-        height: 450
   - title: "Surprising results after activists test facial recognition technology on Denver City Council"
     excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
     publishedDateTime: 2020-01-14T05:33:00Z
@@ -330,6 +330,6 @@ related:
       domain: financialexpress.com
     quality: 23
 
-secured: "Fhg4zgvj6UxF8PHtl77moMeS2W3Z9GAyLtyg40yxS9Tm0rMFlcn+6hTp9jBFriD5TKibzw+tvbmbP/VASkURdU/E/bMMijAH7/rk+LQyRcA9ntEfWvriW5oYldWyF+YRIBN9juqok17xiFX8tfZivymV2UbCOHLK4uUcExjFcEZF59T0gW8T0dvFm+zcCDJ4CH+ZteNtUmvENP1/ABxgKtuzV1omGpDRksWkXy1cNRa5vmDxLVxODdInuVdEmzcbqoEnXeqyPeUScaiVyDJmsGW5+PYdl6143ekqtvnBiSQtHa2TiTuttdUPU+MwdzHT1dPiWr58nyJOaImoaPtJMaO+/6+qxbLrbAEr2ApmryXvHXa5HvRjEtc2sjn+gfKvEb/d7y+vpfUgmR84qEBio2xm8zGBRKPNbkH0bpyvzEQZnSM3+MIJtYVs52k03qr1HVpa8IymwONf/qyq/jti+w==;0oCLI27kDjnW6i/JgsPDYA=="
+secured: "FwZi3Af2+kPdJdx/mLXrj0ivdBkWjwuHeFcpq7hHyeyDl9xXbaSXb8VQ84JVI2D0lFUkqfxzRALf2vqAWt/SmZZ8XrwBHgGW4kkvl5VVOvB06iNaYJ4r3c2MCYzr0eszr6+iEW+Nsk+4xbqDzrQSEeJ3xpS+WV975P+t09v4M0sflpbk/uCgsDHAQXAH0Bewdb97PZyYauv8BRkmuF6m7F4hNDlCiPmOQchwUDQ/G3yXsyiVUQRlmCFheYCxSNUN7m3Gj5Uk6V7HIJVKLsHcXY7DCK8xaTHxfTPz5wjy1do=;3LNUvREL7ZUNbdxNamuEqQ=="
 ---
 

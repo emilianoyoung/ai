@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
-excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
-publishedDateTime: 2020-01-14T19:49:00Z
-sourceUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.html
-ampUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
-cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
+excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
+publishedDateTime: 2020-01-20T06:48:00Z
+sourceUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls
+ampUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
+cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
-    width: 540
-    height: 360
-    title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
+  - url: https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagevmji-1579496216280.jpg?fm=png&auto=format
+    width: 800
+    height: 400
+    title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
 
 related:
   - title: "EU mulls five-year ban on facial recognition tech in public areas"
@@ -84,6 +84,21 @@ related:
       - url: https://images.wsj.net/im-144056/social
         width: 1280
         height: 640
+  - title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
+    excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
+    publishedDateTime: 2020-01-14T19:49:00Z
+    sourceUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.html
+    ampUrl: https://www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/01/14/cambridge-becomes-4th-mass-community-to-ban-face.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 59
+    images:
+      - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
+        width: 540
+        height: 360
   - title: "How the police use facial recognition, and where it falls short"
     excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
     publishedDateTime: 2020-01-14T01:50:00Z
@@ -159,21 +174,6 @@ related:
       - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
         width: 1024
         height: 768
-  - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
-    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
-    publishedDateTime: 2020-01-20T06:48:00Z
-    sourceUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls
-    ampUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 57
-    images:
-      - url: https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagevmji-1579496216280.jpg?fm=png&auto=format
-        width: 800
-        height: 400
   - title: "Campaign against facial recognition on campus launched by Fight for the Future and Students for Sensible Drug Policy"
     excerpt: "For some schools, that includes installing cameras and embracing facial recognition technology on campus in an attempt to verify the identities of people entering and exiting school buildings and dormitories. The problem: many of these technologies are invasive, infringing upon the privacy of students by constantly monitoring them and requiring ..."
     publishedDateTime: 2020-01-16T01:04:00Z
@@ -330,6 +330,6 @@ related:
       domain: financialexpress.com
     quality: 23
 
-secured: "Fhg4zgvj6UxF8PHtl77moMeS2W3Z9GAyLtyg40yxS9Tm0rMFlcn+6hTp9jBFriD5TKibzw+tvbmbP/VASkURdU/E/bMMijAH7/rk+LQyRcA9ntEfWvriW5oYldWyF+YRIBN9juqok17xiFX8tfZivymV2UbCOHLK4uUcExjFcEZF59T0gW8T0dvFm+zcCDJ4CH+ZteNtUmvENP1/ABxgKtuzV1omGpDRksWkXy1cNRa5vmDxLVxODdInuVdEmzcbqoEnXeqyPeUScaiVyDJmsGW5+PYdl6143ekqtvnBiSQtHa2TiTuttdUPU+MwdzHT1dPiWr58nyJOaImoaPtJMaO+/6+qxbLrbAEr2ApmryXvHXa5HvRjEtc2sjn+gfKvEb/d7y+vpfUgmR84qEBio2xm8zGBRKPNbkH0bpyvzEQZnSM3+MIJtYVs52k03qr1HVpa8IymwONf/qyq/jti+w==;0oCLI27kDjnW6i/JgsPDYA=="
+secured: "qu3yUG17MDBqQcpt2eMHDvZC0Q0lWugE9IG7jcZciNHF1JmaPnB5kPxnKXXoaeMyB3zUCFonyecRllbMIbbIAMzBUqnCuYijH83hB5+UxZ66t7Vkdd0/d9BA3Y04qdxn25e+8donh0p55+w6ikVlEO/f9zwowElwB4hcxlrl/w1EiDXvmSU2NK9/fWF+x1d9Ff9Y9kswDvOMPDhB85iOkJBGXKySn/jR85xaj4/ZemlJ9ZyF3gOx0P8U1nvLbS3DbaQALLcyCzTlgXMWeqcLNzI99ycFgPbGwIkr4MiIOXc=;mh/vVyXYT5ZGNAFRxcZTkA=="
 ---
 

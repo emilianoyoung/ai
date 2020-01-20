@@ -54,6 +54,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/02/AI.cybersecurity.GettyImages-543194863-e1571944479196.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "You should stop worrying about robots taking your job"
+    excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
+    publishedDateTime: 2020-01-20T06:11:00Z
+    sourceUrl: https://www.wired.co.uk/article/robots-human-jobs
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: https://wi-images.condecdn.net/image/MLZdlXaxPy5/crop/1440/0.5235602094240838/f/w30_04_byrona_final.jpg
+        width: 1440
+        height: 753
   - title: "Enabling AI with Intel’s Deep Learning Boost"
     excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more."
     publishedDateTime: 2020-01-14T17:15:00Z

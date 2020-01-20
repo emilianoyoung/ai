@@ -174,6 +174,21 @@ related:
       - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
         width: 1024
         height: 768
+  - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
+    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
+    publishedDateTime: 2020-01-20T06:48:00Z
+    sourceUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls
+    ampUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 57
+    images:
+      - url: https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagevmji-1579496216280.jpg?fm=png&auto=format
+        width: 800
+        height: 400
   - title: "Springfield councilors renew call for ban on facial recognition"
     excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
     publishedDateTime: 2020-01-10T20:52:00Z
@@ -275,6 +290,19 @@ related:
       - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
         width: 768
         height: 432
+  - title: "EC may ban face recognition"
+    excerpt: "The EC has come up with an 18 page document discussing whether it should ban face recognition in public places for three to five years while they work out how to regulate it. Exceptions are mooted for things like security and R&D projects. New rules are proposed to add to existing data privacy and data storage rules. Developers and users of AI ..."
+    publishedDateTime: 2020-01-20T06:51:00Z
+    sourceUrl: https://www.electronicsweekly.com/news/business/ec-may-ban-face-recognition-2020-01/
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 39
+    images:
+      - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
+        width: 750
+        height: 450
   - title: "Surprising results after activists test facial recognition technology on Denver City Council"
     excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
     publishedDateTime: 2020-01-14T05:33:00Z

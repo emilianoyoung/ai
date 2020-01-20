@@ -63,6 +63,19 @@ related:
       - url: https://www.jewishpress.com/wp-content/uploads/Halperin-Tech-Talk-logo_JP_a.jpg
         width: 900
         height: 500
+  - title: "You should stop worrying about robots taking your job"
+    excerpt: "Two 40-year old robots returned to the big screen this year ... Our fears about automation come down to three factors: machines will execute tasks more efficiently; machine learning will enable artificial intelligence (AI) to make complex decisions more effectively; and technology companies will sell software and algorithms to replace slow ..."
+    publishedDateTime: 2020-01-20T06:11:00Z
+    sourceUrl: https://www.wired.co.uk/article/robots-human-jobs
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: https://wi-images.condecdn.net/image/MLZdlXaxPy5/crop/1440/0.5235602094240838/f/w30_04_byrona_final.jpg
+        width: 1440
+        height: 753
   - title: "Kubota to release self-driving rice planting machine in October"
     excerpt: "Demand for self-driving farming machinery is high because of manpower shortages and the aging of farmers. Kubota has already launched tractors and combine harvesters with self-driving functions."
     publishedDateTime: 2020-01-16T07:45:00Z

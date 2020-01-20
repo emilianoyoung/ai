@@ -8,7 +8,7 @@ ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
 cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
 type: article
 quality: 57
-heat: 67
+heat: 69
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
         width: 500
         height: 281
 
-secured: "1TpakZqXHdzHcTcUEwAPHntDMMPjlqTrEMzAQ8cEz8Zbbv+8etxu3X+0nmbI894w1/4p35k6i2VboDTCUq60D86gLtuoquRU+Pw6C/hQF2KkrBjn6SmjhHqVjPF9jWyZsC7lSijwZzPe14Obmh5+zsHrnj9fTbhshnePTixmDjw2TMoBPMvW1WdWztOM3L2+SMrOLd35rtmSjU/9rirL4Fwhhse4QXDHdh87xHG1gnXoKVODjWQfv6qDWH53NLCsjI9aDrP2xaGX+iYCZnpOpJ0uXo1QFo248QlxEOzW4ZM=;xzoyrz6TsDCJNhv8oTS8+Q=="
+secured: "XFrF6eNHh3t+IafWrv3eqK2gAuLqlQmT+XCCxoSIi+ks8EOQGjZX/YYpCR8m0ZCpKb1lgWYaS3r+f3044CLE0oLV1ivzW9ou30LJaoNasHij9Jpuq0H6aZBpc6omroLWKqD+kwn1u3wgTKJMVAdNplrNo1QCwAwnHwzoCK3aUjBsZClKl7nzGtkG/YtEIRlnZlSPMo+UvjNmtG+vBEwEXbf132SnpVDyGzmUQGCATtyM0sZsUYp8vxXSIIwVSLrXoCvL+wcxyVtWg5tUMGNAuzF7iL2coAVKUx7magwKj+zjsEhiIbxwwjJslO85qjD4E5Ujhs01J292TCzZBfjXR5PbBeMfyPTJuKFAIWy1dC04c/ucVtiXrS+HJLQulXlt5i2Q8bD2Z5J/z9zY4oEm5AzMHRC5uZtiVDEcW/qdOUdzEn2+MDcfuCET+mUaOFv4u8unFnuUaLhTvotOVZ9xag==;zgsHCNvJVtm2ZXsS6QrOKA=="
 ---
 
