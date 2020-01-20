@@ -2,22 +2,18 @@
 category: news
 title: "Google boss Sundar Pichai calls for AI regulation"
 excerpt: "as AI becomes more embedded in our lives?\" she said. \"Regulation and self-regulation, via a code of ethics and an ethics board, might not be enough to do that.\" Google launched its own independent ethics board in 2019, but shut it down less than two weeks later following controversy about who had been appointed to it. Mr Pichai will be speaking ..."
-publishedDateTime: 2020-01-20T16:39:00Z
-sourceUrl: https://www.bbc.com/news/technology-51178198
-ampUrl: https://www.bbc.com/news/amp/technology-51178198
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
+publishedDateTime: 2020-01-20T16:46:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51178198
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
 type: article
-quality: 89
-heat: 289
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -303,20 +299,7 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
-  - title: "Google's CEO Calls for 'Balanced' Artificial Intelligence Regulations From Lawmakers"
-    excerpt: "Google's CEO calls for governments to regulate artificial intelligence using a 'balanced' approach. Veuer's Justin Kircher has more."
-    publishedDateTime: 2020-01-20T18:50:00Z
-    sourceUrl: https://www.wzzm13.com/video/syndication/veuer/googles-ceo-calls-for-balanced-artificial-intelligence-regulations-from-lawmakers/602-cb6701ae-25c5-4395-bae9-81733d3f1b89
-    type: article
-    provider:
-      name: WZZM
-      domain: wzzm13.com
-    quality: 30
-    images:
-      - url: https://media.wzzm13.com/assets/VEUER/images/c4e8e9ce-b7e6-459d-94d9-88998947c32e/c4e8e9ce-b7e6-459d-94d9-88998947c32e_1140x641.jpg
-        width: 1140
-        height: 641
 
-secured: "jxJQKwq8Qci/z/g8jhYiNxnk6WbkJqd2/KdGDLSPQ60br6kDNIh37U55Ma0BzoU+Zj7fvSWSwAArYuImlyYa2Fh++jk71zZH3I0ixEUaLcwxOzFAxGur0FSJgcd5Xe910zKAL8lzKoso4TQlAgEuU9SHqwon3pUbYfATOdpkdgo/1QNEOwaiHapYN2oE0/6NOQSem4sOKZKmZwsAEwdnqTzED6xJn6TKe53uu/mVlg5sboGBmqbxVWldH4x6m+rhpeQARufJxRVI5wbQdPM+Z2ZnGMRAY7jxcEFB7ZoB93M=;xEe2Hd6Xbql/E4617fhabg=="
+secured: "6yYxBcZaQUnvjgGRgPhA+33aizGFF3n0nPyXTMUNkJMLK/KKThbq5TQr1Vsayx8ZpR6yGjiJWdqPkcZuuNjGoJKs4EvUGcUwGfAzvrsNCt6HkxhnC6ZdHfWmm6uqd8C5yBLKNslaCPmx98BjFuaLSbZfUViz5zW8M8XgWLIXRiderDw4w6A7UU5kQBXeFsbVEixfOzo5jlhaPCOwMmCfX+ssI/cYktUZ7h9Gy0OANrgRzB4AJNF43tz9D+v7nez1yVffk8UJBLomCGYeEaxT0eaWgRbX11U/deHctDmzu3s=;DSS92RwJtWQbdSJ+nfwnDg=="
 ---
 

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Voice Recognition technology and its growing influence"
-excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-publishedDateTime: 2020-01-11T11:43:00Z
-sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
+title: "Google and Microsoft leaders at odds over facial recognition ban"
+excerpt: "The EU's proposal for a temporary ban on facial recognition technology has won backing from Alphabet CEO Sundar Pichai but got a cool response from Microsoft president Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin to using a meat ..."
+publishedDateTime: 2020-01-20T22:50:00Z
+sourceUrl: https://www.arnnet.com.au/article/670382/google-microsoft-leaders-odds-over-facial-recognition-ban/
 type: article
-quality: 44
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TWCN Tech News
-  domain: thewindowsclub.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI
-  - Natural Language Processing
+  - Computer Vision
 
 images:
-  - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
-    width: 600
-    height: 271
-    title: "Voice Recognition technology and its growing influence"
+  - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
+    width: 800
+    height: 500
+    title: "Google and Microsoft leaders at odds over facial recognition ban"
 
 related:
   - title: "EU mulls 5-year ban on facial recognition tech in public areas"
@@ -234,6 +232,21 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QAN4PSN47JDHXNZQBFAT5UGBLQ.jpg
         width: 1024
         height: 789
+  - title: "Voice Recognition technology and its growing influence"
+    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
+    publishedDateTime: 2020-01-11T11:43:00Z
+    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
+    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
+    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
+    images:
+      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
+        width: 600
+        height: 271
   - title: "Massachusetts City Renews Calls for Facial Recognition Ban"
     excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
     publishedDateTime: 2020-01-13T20:22:00Z
@@ -331,19 +344,6 @@ related:
       - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
         width: 750
         height: 450
-  - title: "Google and Microsoft leaders at odds over facial recognition ban"
-    excerpt: "The EU's proposal for a temporary ban on facial recognition technology has won backing from Alphabet CEO Sundar Pichai but got a cool response from Microsoft president Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin to using a meat ..."
-    publishedDateTime: 2020-01-20T22:50:00Z
-    sourceUrl: https://www.arnnet.com.au/article/670382/google-microsoft-leaders-odds-over-facial-recognition-ban/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
-        width: 800
-        height: 500
   - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
     excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
     publishedDateTime: 2020-01-20T19:43:00Z
@@ -395,6 +395,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "Kap7IhlWnGR7U4yi7bIoYYLqCAxbJy26JtVcYoJpfTTU66ey8OdcVzDhwNRNWIEzRtoyu34t90wSKRC9PrZSwcjjkt1cd8BoYo/k96EhpuxG1F6R7cAMMZEbjQc5ddDt8rtiqRea9pKgGpB/cC/AUcYAjXDsyDEpfUq1tvpN3WZGctVYONTQm1QQeZqFuj6q8l6gB03YqaQoUGhgREwXAB+AXXZ7TcTHR0Fs+MODJgWcoa30g91eMraMgN/WXQeugd4Wf2Nbe2zN+8oQLxSi2UEEGqWmOgcSu4lLnJiS7Xg13Wpg6ufXbKN/CEY5EO0L6qWeVtNIL7WeNVYFqq+hz9Q/2h3wgpD4YwSdYZp7xLcKF+Ue2ksZHSA8beDqYXoWDdCaX2WgMBVIadfzirV3KbXsx2nOpEWM0ipFny15ItSgVtBLj8Pxt82qRXKA3oGluqyRaEd9vK92FwfIYTu/VA==;YlA8Ktjs+l8PFeG71x7kZg=="
+secured: "hPpjp6MPnQL+Nxybw0vOcFHNmmWJFJhEnjrhQy6Y6wsG1078LZFoliL0trr5r87Z7K5/FgneJN+IGFkCrnH7RjM6CpnP815ftoQJP/6hDI/Ipm9x1Jch9x7rQBBr1b8P9bMzzls6z4A3c4X4gLQ8066byShLRoF8S233fh+3iDzVvh6F6FVvTDZGU3IRgDWWsjz3HyWA9dS6r5J+g4hoaVDOA2Qffg6XDytVqRF7Etbf+QNhXMUviH08iTjDN6433iFlK0GcevFrcJNhoTT/0RrUkSP1EENG8GUPbFPUmAs=;mOffvtNqsbwv+Gx/n8Pcag=="
 ---
 

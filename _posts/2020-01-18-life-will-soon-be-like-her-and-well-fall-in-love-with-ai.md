@@ -27,6 +27,6 @@ images:
     height: 417
     title: "Life will soon be like ‘Her’ — and we’ll fall in love with AI"
 
-secured: "a3ZSmai/olsjuggCitNIaY/5VqUi60zddlWW2gQ4KM3sWs7w0E454i7iVEOlRad6V1GQ6/WvBQKa9TxsGJ1pfygqEkTD0x0CxfoRDJ71QgufoWrlJ8uaVE0PpV8p2Pv/ZQ6CqBdkC5r8apeDSiUqe5he5CXdf+jxI7RDAzQFT+CUzK/x/QcmmZSehyo8diu2RftU+LGLpkfPkYFim3ESJBX+5MPbdoz9S0hV4XBVn7x8JDhqubtUWMV6R0ckg9UgDG3t+lkgzvwmV2BeeoTnDhrhQfKEr+92lAVGxlv6EPAFNPBVG728iPZ0W5IZ+V64ZRwORk79sdHUF3SMnEnHtttI/c/scnl+r/gYAzyzJ1U91UKShisCYBL2EyOGUtI6PDOzUxlYHNTqNdpG1KCZnRfKF7Yr8xN019miUjQ7Vjselwe6iQw/riF64H08t/ZO3l6C2U1Wj1MZ/bL+SSRzQw==;vzysSWeLYHtB8XTe9zU1iQ=="
+secured: "rTsCSfgqEbQK/kAgytdUHEur2zJBrbaBGAqCENaoBpMkeVybM19vEt6VWthg7qrLRd0BMFDWUBO3UsaSfSV411ZsBCkz29dM4WrA37JZ5ZwPCuxXMhuAloxItQ2vNKePK/6b9aZbTTPxoWVLaCB0SU2xy7+ry5ENohcfVXNdLg5bBFfOUiq48Q0gJpA1i2SBcbAfQ/AyUkgw8Z7B6ggFdfJhyM8rGDOf13q5b6/wwN8bAIbD4lAjc2gGCcell7ewUrf7RYVfr+yxDuolqUkSDJtpRv9K31PDKUvDELHGG+/nw3YziZ+xQpcMKw3VGQ+zEgl5gHGgIsC84msVSW8TR1jng6QGw+zmWGExpdMMnB4uGzlFxosvuuEd+229aNTG7Q+RWy45ktYzTG7F6c7/+4UR84kGtLMkG5cirhcyd1YNsD3P6SWXxDO9tRoZxk3FdKsmELMqy5hYWm1qg6cP7Q==;yvduTpUQWoQhB6Dz0+sPwA=="
 ---
 

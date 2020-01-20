@@ -331,6 +331,19 @@ related:
       - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
         width: 750
         height: 450
+  - title: "Google and Microsoft leaders at odds over facial recognition ban"
+    excerpt: "The EU's proposal for a temporary ban on facial recognition technology has won backing from Alphabet CEO Sundar Pichai but got a cool response from Microsoft president Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin to using a meat ..."
+    publishedDateTime: 2020-01-20T22:50:00Z
+    sourceUrl: https://www.arnnet.com.au/article/670382/google-microsoft-leaders-odds-over-facial-recognition-ban/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
+        width: 800
+        height: 500
   - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
     excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
     publishedDateTime: 2020-01-20T19:43:00Z

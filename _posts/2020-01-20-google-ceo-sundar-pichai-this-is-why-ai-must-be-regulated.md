@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-w
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 279
+published: true
 
 provider:
   name: ZDNet
@@ -30,21 +30,6 @@ images:
     title: "Google CEO Sundar Pichai: This is why AI must be regulated"
 
 related:
-  - title: "Google boss Sundar Pichai calls for AI regulation"
-    excerpt: "as AI becomes more embedded in our lives?\" she said. \"Regulation and self-regulation, via a code of ethics and an ethics board, might not be enough to do that.\" Google launched its own independent ethics board in 2019, but shut it down less than two weeks later following controversy about who had been appointed to it. Mr Pichai will be speaking ..."
-    publishedDateTime: 2020-01-20T16:39:00Z
-    sourceUrl: https://www.bbc.com/news/technology-51178198
-    ampUrl: https://www.bbc.com/news/amp/technology-51178198
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
-        width: 1024
-        height: 576
   - title: "Alphabet CEO Sundar Pichai explains why AI needs to be regulated"
     excerpt: "This is the stance of Alphabet (parent company of Google) CEO Sundar Pichai, expressed in the form of an op-ed article in the Financial Times Monday. Pichai calls AI \"one of the most promising new technologies,\" but also highlights possible risks stemming from careless use of AI, naming a few historical examples in which breakthrough new tech ..."
     publishedDateTime: 2020-01-20T14:28:00Z
@@ -189,6 +174,21 @@ related:
       - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
         width: 1200
         height: 628
+  - title: "Google boss Sundar Pichai calls for AI regulation"
+    excerpt: "as AI becomes more embedded in our lives?\" she said. \"Regulation and self-regulation, via a code of ethics and an ethics board, might not be enough to do that.\" Google launched its own independent ethics board in 2019, but shut it down less than two weeks later following controversy about who had been appointed to it. Mr Pichai will be speaking ..."
+    publishedDateTime: 2020-01-20T16:46:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-51178198
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
+        width: 1024
+        height: 576
   - title: "Google CEO calls for regulation of artificial intelligence"
     excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
     publishedDateTime: 2020-01-20T10:53:00Z
@@ -303,19 +303,6 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
-  - title: "Google's CEO Calls for 'Balanced' Artificial Intelligence Regulations From Lawmakers"
-    excerpt: "Google's CEO calls for governments to regulate artificial intelligence using a 'balanced' approach. Veuer's Justin Kircher has more."
-    publishedDateTime: 2020-01-20T18:50:00Z
-    sourceUrl: https://www.wzzm13.com/video/syndication/veuer/googles-ceo-calls-for-balanced-artificial-intelligence-regulations-from-lawmakers/602-cb6701ae-25c5-4395-bae9-81733d3f1b89
-    type: article
-    provider:
-      name: WZZM
-      domain: wzzm13.com
-    quality: 30
-    images:
-      - url: https://media.wzzm13.com/assets/VEUER/images/c4e8e9ce-b7e6-459d-94d9-88998947c32e/c4e8e9ce-b7e6-459d-94d9-88998947c32e_1140x641.jpg
-        width: 1140
-        height: 641
 
 secured: "GMZE7FISlF4By6hy0ZCIN8h8silWbMWTQ+1JNmn6c8DF7FX2PTZ9+8ig31h3Pz3Cssu5sszoIOSq1xBuqQ53MPPhKl/eASW0mnjFQK6FRJgjvvBvp68psn6HPhK7z2UL+1bdBk//HNjz71QKjR9uqcnLPzC8ktYT/Xslws0G6ufmJJSOAJw2ZHAtcorS5evh+R1J1u8Lra+uRKFMm2eIKqwYgwhQHbY47b8E2WyU6sBElIlRNUGyqfdT+qn5Kebui/CJ1sCGSdw2FqHvWjSIt8VD3BHLpML/h1tS+02xhcwyj/XwbeDa2A1Lw2z1dqiGJ/35b7tmiJZiRxDVPUoT9IzhTmiUN4o2ID1+5OpOhcbuXfPrrcJTLOOJXVd+dBCLmxUt9bu2/WUNWRNSX7x5F9BBtwa+JFe1j8fUAcPJg+4C28Dzv8cC1tMXTY0+QyE25CkJKueNICNf4qUqk1fUtw==;YFaS+8WisxcxtOWRqegIRg=="
 ---

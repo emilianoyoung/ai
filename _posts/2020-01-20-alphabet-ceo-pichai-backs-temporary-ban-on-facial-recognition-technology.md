@@ -344,6 +344,19 @@ related:
       - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
         width: 750
         height: 450
+  - title: "Google and Microsoft leaders at odds over facial recognition ban"
+    excerpt: "The EU's proposal for a temporary ban on facial recognition technology has won backing from Alphabet CEO Sundar Pichai but got a cool response from Microsoft president Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin to using a meat ..."
+    publishedDateTime: 2020-01-20T22:50:00Z
+    sourceUrl: https://www.arnnet.com.au/article/670382/google-microsoft-leaders-odds-over-facial-recognition-ban/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
+        width: 800
+        height: 500
   - title: "Surprising results after activists test facial recognition technology on Denver City Council"
     excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
     publishedDateTime: 2020-01-14T05:33:00Z

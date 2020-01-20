@@ -1,17 +1,17 @@
 ---
 category: news
 title: "EY crosses milestone to help clients deploy SAP on Microsoft Azure with strategy and solution initiatives"
-excerpt: "/PRNewswire/ -- More large enterprises seek to accelerate innovation and increase agility across their business by migrating their mission-critical"
-publishedDateTime: 2020-01-14T13:59:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ey-crosses-milestone-to-help-clients-deploy-sap-on-microsoft-azure-with-strategy-and-solution-initiatives-300986661.html
+excerpt: "This managed service capability combines EY architectures with SAP and Azure leading practices into an outcome-oriented approach ... which helps minimize interruption to the business. AI is used throughout the EY Intelligent Move Solution for use with SAP S/4HANA, including the data migration work stream, thus reducing the cycle time and ..."
+publishedDateTime: 2020-01-14T15:32:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/ey-crosses-milestone-to-help-clients-deploy-sap-on-microsoft-azure-with-strategy-and-solution-initiatives-889588783.html
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI
@@ -23,6 +23,21 @@ images:
     height: 314
     title: "EY crosses milestone to help clients deploy SAP on Microsoft Azure with strategy and solution initiatives"
 
-secured: "0TziFC09um7GYKKbXM9kI/3gB7J41dtsC+dVZMPs/bZOjGLUSb1VVGHac404s4d324IusQT35ddAfGO44R0qv21EtfpJzB4+8U6nrx8mqL8dtDI6Al5O+8YfAtyeE/Vb9pyF6QUjLMjSLur83MoqD5Qdy52OAitPamlwIykWa+aCE/21MiU6u+7anSn+f3ACmTYdIuNV4VhkdYhW+jhssKH/Y+wMVGSyMqB/M3QjpvR7wKiI4jsT5H6JGxlw9lrCUgqTMV/IkjIH4+02y8gnWpB+S0ny1D3NwjFqAUnzC5NxQl1HXYwrwco9OfiHbhR0XQTLT1wVb+0KWAoxBF9ChY3IdGbKgSMpGHOH+gDXVKUkxyDNBUybjy63V2BSc7yMkzvlK2p1qJg6MCbCKLsmjKUC6El4vZb/i3/j4iWw5Jsi7kOn+CkUS8ou82fJseVF6zvyvmy9dmZXaDgwhKGJoQ==;sOb9WCcySfiE4kNmP24qxQ=="
+related:
+  - title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
+    excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
+    publishedDateTime: 2020-01-09T14:54:00Z
+    sourceUrl: https://www.autonews.com/ces/ces-conversation-tara-prakriya-general-manager-or-microsoft-azure-iot-mobility
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 46
+    images:
+      - url: https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tara-main_i.jpg
+        width: 800
+        height: 600
+
+secured: "XBF1ZWEVEuTIjOTFJpGkxSc1JPmDQUGoVql+dy7D28EB+GP+Xr11N9WFauk//KS2UKClgX1dw1tdtDq4Hv4slEwUyoZe7DoHdC5W8kh/M/2t+FWMYOv0mSFwmmpQP56zG0mMXlfV4GYOjyD+dxRHSAW6rEcH7WH9NoeSd/zxXzMcmrX3E5j7OGsaCXwNthRncDDrfCeYAI26dB7ar5Lq6eEKeojPLFCX0Bf6YUz4cqI1xLXLxhRt0/3pv5i4nF55/Xb6H/s5cHuj8d51Ph6bMwBuNyPg/Pk8HLycQoZmuMM=;Nol1agvqrp6t4HRRM4mwgg=="
 ---
 

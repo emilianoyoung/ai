@@ -335,6 +335,19 @@ related:
       - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
         width: 750
         height: 450
+  - title: "Google and Microsoft leaders at odds over facial recognition ban"
+    excerpt: "The EU's proposal for a temporary ban on facial recognition technology has won backing from Alphabet CEO Sundar Pichai but got a cool response from Microsoft president Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin to using a meat ..."
+    publishedDateTime: 2020-01-20T22:50:00Z
+    sourceUrl: https://www.arnnet.com.au/article/670382/google-microsoft-leaders-odds-over-facial-recognition-ban/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
+        width: 800
+        height: 500
   - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
     excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
     publishedDateTime: 2020-01-20T19:43:00Z
@@ -386,6 +399,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "lgsgWyWk4WRZR7/6tONXlic6JkQXXTGl5hp1dzpxJ2G0JH2vJA2Kjsn2Ah8MdE7dKeTr694HDeodUPbmI6ODUj2r5FB0N4i2mB3YS4vcacetw9vHaSDQlMlEMUPDr0OIy2RJy9RtpDj7mjy94XFUeSGM1D5nySxnpXJZlQILKI2AiTvyyTme+OJZ+A/fAPs7kBGmqCMpn7Ia98FxlAo5f789pj1HOdF7a8J+OKEIVhp+pLGcnGyhMV5TbP81mIX0btYZOYfuMFU2hGU3DPdggnyPOz2pvkkeT9aeglBXdaE=;kPjNmBVnL9S4ZAFc1CceuQ=="
+secured: "ONj1EkA1Lx6aKmiJE4VIbi2z6hfd6xmnBCXRiv1QOvQ+R/iRpaLkmXdLXS9dAKICTzZi0JQh5WaC+mmZ0nCAUuFl1fK9zzRfuqwel6jnqIq1RU+jAqDyNyJAPo6PqbSC+ewEsc8v07ilNQCU3CD5jh0dISWufoXkNmsUzsn2jEceU4COHRWYrhHTSHWvNuXYRj+vw0Uc9NXc2TWfOSIQu4J4tO9AU9janoY+4WKZ4xsU9rjjNDinZlpSxBii9DSatleaTZboixZ0X63RSd5IZNh/e5MqiKx10G6rULzOLzb5hMuGz0C7T/b14lPUBoJFbu/bZh+4OzqmryU3Uh1s67VBuMGFVyjlnECcDuvEq6M9qTSpj6p1E65kON5udWOWu4P2jsF8jg/L1D7m8iIx7K+qn5fTEzuLutIbnU0sL4TsanLOvD+ULoAsOtlOxmJNNOJrGh3FYCbSWPcCF9IlXA==;1uWyDmwfMaT/9uSxogR0gA=="
 ---
 
