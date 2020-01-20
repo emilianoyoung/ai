@@ -27,6 +27,17 @@ images:
     height: 630
     title: "Natural Language Processing Market by 2023 with Leading Key Players like Apple Incorporation, Dolbey Systems, Google"
 
+related:
+  - title: "Neural Network Software Market Is Booming Globally with Top key vendors Google, International Business Machines, Microsoft"
+    excerpt: "Neural Network software is used to simulate, research, develop, and apply artificial neural networks, software concepts adapted from biological neural networks, and in some cases, a wider array of adaptive systems such as artificial intelligence and machine learning. Apart from this, the research report offers the vital key segmentation of the ..."
+    publishedDateTime: 2020-01-20T10:19:00Z
+    sourceUrl: https://www.openpr.com/news/1900816/neural-network-software-market-is-booming-globally-with-top-key
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
 secured: "TZQz/LFJqagZz2mWNi909fgJpAKD+F/mYys4idkQhCL/R5RSH5VGGq8yQHkENmNrQDKDUvG1TfLGSKII4S7p19OGXb3ca00kM0m3AE5VuH0rUI2IuECMmGW/iKdyXCQQbKW4kuKvxqF7OrNvn75UYZxVmSIkwlfDAZMNEuHcACPkq6ZYN1Y1MEgjod7/MThzc8y8KN8Q00N+TslrzciFaIGjdOs6gHn9hhe4zBsMzqMBKpwxntFFn+AaSr57W/WIusXUskonrn4acvNf8zp07GnBS7Kt+ekwObCdz55Amw4=;1S7ULngLe5zO5LZmV2q7vw=="
 ---
 

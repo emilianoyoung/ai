@@ -25,6 +25,19 @@ images:
     height: 400
     title: "KT and Samsung Medical Center to Build 5G Smart Hospital"
 
+related:
+  - title: "KT, Samsung Medical Center to build 5G Smart Hospital marking world’s first application of 5G in medical practice"
+    excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. Access to Digital Data and Video Footage The 5G-powered digital pathological analysis conducted by SMC is a world-first example of ..."
+    publishedDateTime: 2020-01-20T10:38:00Z
+    sourceUrl: https://www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/
+    ampUrl: https://www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/amp/
+    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/kt-samsung-medical-center-build-5g-smart-hospital-marking-worlds-first-application-5g-medical-practice/amp/
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 3
+
 secured: "wJoYTwBqvyxhWfRF1Bv1APfJcrjGE9vvTpB7mC3BryufR+1xezp84B7FsvsYak4qV+QnIrtLQ6i5p4+jXxlndJ3gfgvi9xjoYElXIi78Ba9AZs3PR73tzw54ITS621B5fhx5Kvyfkctx04ya4FhMigTZqDE7jhQooybZ/Fvy/m50Hfpgn1NjPGHnot+Jdxj/xS4i5narqwUeysDbWkuHYyw6HpdWVEQHlKmsrE5fhqogWm6YjvapF/uoMvN7KbP6tIa8v+kKyUA2xViOEv7xdSdfvytgZzQqSMreir04RQ0=;/RKeWBMi87uXTJmn3L1bww=="
 ---
 

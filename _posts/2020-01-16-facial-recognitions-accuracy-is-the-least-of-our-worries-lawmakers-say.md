@@ -163,6 +163,21 @@ related:
       - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
         width: 800
         height: 560
+  - title: "Banning Facial Recognition Isn’t Enough"
+    excerpt: "The whole point of modern surveillance is to treat people differently, and facial recognition technologies are only a small part of that."
+    publishedDateTime: 2020-01-20T10:00:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
+    ampUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg
+        width: 1050
+        height: 550
   - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
     excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
     publishedDateTime: 2020-01-18T21:39:00Z
@@ -689,6 +704,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 19
+  - title: "EU considering 5-year facial recognition ban - report"
+    excerpt: "The EU may impose a temporary ban on facial recognition technologies used by both public and private actors, according to a draft European Commission white paper on Artificial Intelligence obtained by Euractiv. The document states that a future regulatory framework could “include a time-limited ban on the use of facial recognition technology ..."
+    publishedDateTime: 2020-01-20T10:43:00Z
+    sourceUrl: https://www.telecompaper.com/news/eu-considering-5-year-facial-recognition-ban-report--1323310
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
   - title: "Despite what you may think, face recognition surveillance isn’t inevitable"
     excerpt: "In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest body camera supplier, announced it would ban ..."
