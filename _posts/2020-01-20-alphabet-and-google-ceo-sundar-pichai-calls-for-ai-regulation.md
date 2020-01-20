@@ -53,7 +53,22 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg
         width: 796
         height: 417
+  - title: "AI must be regulated, Google boss says"
+    excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
+    publishedDateTime: 2020-01-20T11:48:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 57
+    images:
+      - url: https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505
+        width: 600
+        height: 337
 
-secured: "NQs+zAfjcB9gavfkK861blOQM7Up3OFVSMlBmQWw0kajX4JJ39dK8DWZu3DfBGhFR94MgF+MlPe12w/FP/nCOdSdlcnej5tZCFRbDwRde/qprAbe8HEh1ITxv/R+t4Odain1updOsIQs7BYjKqnUIX4t4XULGgQs2OKSX0++WhFzpA/ae5TpMgRAeiNYhQhjy+WFLFXQ7+Q8vZuNllWcPeRXyNbgDfZsVU/KW/IF+fDN/3y2nb5XHYEuFvXiD6MkG6b7WMCT8HTegfm2cPVFnOghs8DVFhj+udrNgJiRPRRH0LcgqaCUvWROErNj7B7Flnvuwja5ik6Oh+rTcJNNhhlZNS5B/yAh2OhE9WTSxS6MpljPR8S0/FVUuHJGg9mhf2NSae7MYyqUkA7LjH/04xZoqo+AuAEGZKYcXS2QYzDZho3iqJfCBPrpzfc353ZKsvepIbjImTHs67U6ejOdXQ==;K8Hg+nQHzNovq6CLpCjInw=="
+secured: "8QYyaZeKFGk4ICvVF1QTT89ZK7oZSiypTBuM8Ux6/q0GVkW7SVpICSbyPTIdjFLzZHMJr6j7oENOFq2yzPwJvdPD33tj5kRHdTwkS4D5GK40gU9MkP+yAkGP9Yt1zyDrmucwt635WxWjuM0z3Zy5BlY1uR4ILC08Bo3LZnJ+8mXeh2gCEnfRAnbQXOaZnYClkV7dMM0XwhzL8W8Nti0mv6KKPgy1ELYfn+4+BLuBAGeBQgu5SMrNnNfFnF/0IhSpQ/kdEVWQezTmAtD2zXcHC+5XS22zbb6dl5T+2i1HYvJQAi0GddT1M76kz89NUTXUpFjRsJjfHWwxTaXiddUcCJtOi150SnkbekcrCTbyREF2YiwD5IXnvJznCqVglQV0q7XBysjDkV/3ghn2YUL2a6VB0lqAs0EX2DzkWfO3nIda2LUETXiTZAzjG03njakgi/Ss6PS59bc2vDCI7w58qQ==;hIPxwFzi47dYJPWhAYHMuw=="
 ---
 

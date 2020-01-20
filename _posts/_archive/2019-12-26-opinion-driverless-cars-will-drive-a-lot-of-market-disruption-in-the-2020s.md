@@ -25,6 +25,6 @@ images:
     height: 337
     title: "Opinion | Driverless cars will drive a lot of market disruption in the 2020s"
 
-secured: "fkQomJfMNdkR9UfFtM7RvMafShnJlrmTe8X7MLXpoFbS6ChqSngwLIASje0GGbBtcWNLwMN3cCuLf2RaVNQwON2E+xwvKy5VueVdWPANwDr+FklDT4Ua2OnRrRJ7dy4Xm+SEqbhhqE+gS6d88L2M82lRULTxTjjxTRikWj24fpF2keINhgO0Ityv71zkhC2O+eeA+1sgmefR8G+W3vQlAdv8xJODQoyIX0eikXAoYZjKP7w/z74RSsVVjFHYnMSt35GossHuUG7/oQOS+ja/rZsDUAG+fcYzQ+SQBHNWlXw=;LuzWlK404d5jjVB/8X30nQ=="
+secured: "ED+zSmcc1A07itXQbuT+HgebMt7gzC8x7tjLskY5fbaNlWgsw+qMVvRSlKjB9FvyZ2oXmzi+yMB9rb1ogmhopsSo2em30eiR5VJOfptWNdOAwdHQDhp/9lbi3bgTKX7q+2e7bF0bjpFtjussdKa9G/c39tALaSD/Fvj3ZeDSBJfpKNsmdlui2hAnR36XLYuI/q7N/GF5m1mz30KJ6YKrtBYH6io6r2x6Ne/w8w28OBAFj26b9uIR38RPqzp0aROUil7ATGLtXntLQiK23CmRmtTRlDle4lBa5zkDFdoUyxI=;wmLn9HeyH6t9l+9y8u/6fw=="
 ---
 

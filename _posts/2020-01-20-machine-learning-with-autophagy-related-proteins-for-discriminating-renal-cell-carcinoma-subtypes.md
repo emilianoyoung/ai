@@ -23,6 +23,6 @@ images:
     height: 468
     title: "Machine learning with autophagy-related proteins for discriminating renal cell carcinoma subtypes"
 
-secured: "L9OpxDRTvpTH2K4dHkRHUot2YJDjVQjxJ4Z+ja/0xTHQgph/GRG8vsGNzCBZyo1JyzQM+2FqXCwTVHCc84QRLhUvsQkAWkRvU0QER2tn97pvhjN8p+nVQC7Y6BAnHGFBSnp+QdZtFR+tAjN7NN9uU2bbnwccpIDwikIOFFI3mxt/Le0ExhhMqmTaor58dx9Dyn+N0cflalwRBwCbIPAXhYE+WzQE7iPuVHYkPAYAvAOrVvB4GAyfjBM9gkDjF4ledkU8A+LoTXcNeHzKw6plxupj8TWHZb5J74B9q8uU4m8=;/aSFA+xWxqfFHA5Lr4hGdg=="
+secured: "qXMTWCMtJC2pMCE2ixwqWrYOARxP4Y0O7YcttOdi31HopM7IhfrwXFNXDr06+uX8Q6oway48Npy1W39Y9RiAF2/nQ7F1Bg65fYs6bV573gv7VQ088qdxt9ZkOPdIHP8NUHLqbowxo0i6COM0HSmW+aWldOPi3JsesJWu//hhlp+PLHV+mIpNjBorNQShpP6KtCIrOQPbQVRmVMIepX8wdwnoe/ECMjVWtfvQ0YTllr7LH73dF078bP2wjbYldtpwL+K7TU9gGsHh1RiK61Yh4qG6PX4N0zMo3wvRpNaezlPHVjZcVebMjJHVlp4CI8YMvmpMuDXRzYftPKtkz4Qu+kUlHViQZkEpelE/iP5OsMJ84P/GP5NoTySTq8mvqpGTeTXAa+JADvkP3zNkG29v6Hu6yc2tsVVF+8rsQsxT244UYWKH27XKkozeXsEfLrayXA+nQVRxbIp8ToQekgPH8g==;JbK4dnQ6Xz/6LvrB7c+ZOw=="
 ---
 

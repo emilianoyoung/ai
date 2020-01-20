@@ -111,8 +111,8 @@ related:
         height: 630
   - title: "Conversational AI Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
     excerpt: "New York, January 14, 2020: Based on Type, the global Conversational AI market is segmented in Intelligent Virtual Assistants and Chatbots. The report also bifurcates the global Conversational AI market based on Technology in Machine Learning and Deep Learning,"
-    publishedDateTime: 2020-01-14T08:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14-41753458
+    publishedDateTime: 2020-01-14T05:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2020-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2025-market-research-engine-2020-01-14
     type: article
     provider:
       name: MarketWatch
@@ -132,6 +132,6 @@ related:
       domain: openpr.com
     quality: 18
 
-secured: "11LEryFHpliw52B9PltT81b61mb9cfCzgujE94oKAX9hoU0T2noz/t7Zvxj6CZcyVxk6EbSpYV7alRzdchZYSzl1A4qPsee/hBYDef1spiN+eI9o+Ck5iMqA01NAuIRASxJluvnoRc/TuNsWEE1yFlSm+C4LmcXEW67NCczZe8cl0sPwn1iEMqWWW9oTrqJCmxD2wy99GFxjjBRN1A+VeyPn3B5Ro9yCBW7u+RINqjIq3ax9EJyBPgrSoV4si5/jbYE58/wMPbHua3PjnAP2Xu4mGBPUpfEzqijxPbjokFIgPhGeN2QWD8HnJKJkUioYfRYy4uznw33huJr+JVLtOMN+wVhlB8r0HycricyS++mDMruOrgnIFpYHwgWAutCRb4AWwPQKjD+BNvmqaG2haHO7aUrc7R3M6S3IgsunT8HImujMlAmAxosYx+MviNzOWFssvk9mv2wfpjPwmCFqdA==;kcxUF/9o6S3QpUum3U4i1w=="
+secured: "sAunk8m9jeZ3eHwNN2OKYf/0g6o4ahNbgfnj/xlE+JJHyaTzEUuL/FRQqIgJ+59eESvgtAdBfVduSLyq+T3p7l78jyOtPg8mTmtqjq8Jo0q8WjnxuYyvbZ3D1EJR8E9uAcWB6Va8auSSE4hQ64X1CNoA9r3HbAifc2TNdNF3bpxG1ARsvfl3K31Ad4Hs2AmHrJ1qNX4m33nCUZ+2VxHMr9pNdWHzH+SpSd2S3MMpsU1Ysrw4u5xblh1Lgrm+t0o9ptiHclBMDgiqvY9XV9bRG1oqR1KdhLg7nPr7xYK4ZDi2HyUvGogmXoMOADgvQCpEXvLzvx99K3tctgXHPP0saaPOTHhQTcNj/ZPtlCCliGYG7Unu0E2n2y0RyKCfd0fEq2qmgetBDDOjpos/P0evK1Cy9nCjRYY/XEE7ai45pS9qxyNEKczhXpz2Q9ZWltTp8jD4E4eFr5RRJsRnqkuwMQ==;/ZKLM+GOCMc8cYv1efPK7Q=="
 ---
 

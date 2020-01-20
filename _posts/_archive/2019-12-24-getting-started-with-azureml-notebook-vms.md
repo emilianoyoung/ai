@@ -27,6 +27,6 @@ images:
     height: 589
     title: "Getting Started With AzureML Notebook VMs"
 
-secured: "pdzKRyyhqsIINfxtSePsdOzCWQuIGHowgHQCE+DTqqcPlyZrBw/9UmQ0mAhmIbjhdGaHfl5aJr8PykPiZduO+8hxhDtuBQ9FsUVCCMkg1wuyWKCNaYm2FuaywxhqH/GztpNbIKVSs9I8yBNKtV4q2WIfHuZKHV8LZoqDqfYLVl74cda3zNIgz48Utpz8iivBu1dyoDF6fpzZIPWnxmWYpcj5RljtrdvAp1H+e3obnJPHtYF2xFn6fuMN4TlNb1RBrsogXzEkNyebRohnufa/17CeX/awQAVFt9PiWfvNv0c=;jEYPjM2knWCGRe+Hks+dpw=="
+secured: "59J8JIQivbzTm7+wgAUVpSajuSeJvijnVX3fbVs/it0ChyVmMcGnZgz7HIuF6oLwH17/NGl+FfCyltCOZD0S16FdZPVAvblqEq9nFbr5NCU50YuagiaZEq1O0ARI2b8HzuH3oqUCqakPBHktngKToqFtulK4beze6GmlkhRZDMKt+hqZzn6CxfpIc5BW4SEInwn62vGqJcK1HWNMAW5BWj1tHL2PxYP7U3Vnaon2jmfR5l+hIMTFlCElgp4e8AuB+++bjuR1aQlmmH/N9f2tR0ltGAsm0FIw96G6sW8D1KY=;NECkxYTPzar4rOFYa5JtPg=="
 ---
 

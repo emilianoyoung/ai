@@ -28,6 +28,6 @@ images:
     height: 393
     title: "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ"
 
-secured: "6QTvNMLPVyzj+LIdUUg6ncnk5+UkoRl8XTbzJbrx61eid17A9eQoa0q8G1PPamHkii5iaHGsobCEyEk8XAcdzlpNhB2l/Kfa4leai5sP+x1B7O+cf9nmVcup9AtA3mGzPAvUfhUGtVKAfCXlJuFxm/RUgDfAJmQHOkpey6dhMgFUe9jp0hsxta9nFB4GLMd6cYMfF2kSb37s2Opv9JYIOeoR41sJkhxxatcEXEsv4aZ0GwVuBAu3h8f1AHJMkPmim6J5d4w/fxL7gz8tht/SfYlQD08iDFcs6d/eXmeQRVQ=;IunBx6WqANXUi1XCPqjBSg=="
+secured: "vNgIAyt15slaa3XKnIJ4TUDlPPOJ+rPDJNhOIhtTx1VmB2Hk/snOx1aGcc2ehw1KknSBG70KO2rBzB0RYh1aDzeRxMuEtZXbu6wB+KBjI5UskQomIs14w5ta2lhg3ZIZ7yygoApYv4Ec1pAqzjnRWu6/wcYInOK29atRqCQTfj/dlntTMtAiv7IC/wFTieGNE59flvotb4vHCU7/lNdRzY7CYN2zkMtV/y8T7hHieMEW/c/mWLMGkDkfZ4JMWMNQj8V8bhizKtILnyBDm+meqNclEbhtgij7SmYQf8mbunGU+7BxVJwQppg4s4udKoxozFeCbBBkilQziqPk9d4YEE5aVvjdh8uA6Nbt+Zu1kxpinM2v51W7oD+yLPRr6YEkrW/8+Kx2h68gwnIGU0ySXwCQCl1AHfwwoNEJwl+oHaEQQBNP+mDQ25p77MNG8boQmrHuTUYhCp41qYoIVqqDPA==;OsfsIC8rlo7+0x0Hcic/4g=="
 ---
 

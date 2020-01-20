@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/20/21073682/ai-regulation-g
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/20/21073682/ai-regulation-google-alphabet-ceo-sundar-pichai
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -42,6 +42,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg
         width: 796
         height: 417
+  - title: "AI must be regulated, Google boss says"
+    excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
+    publishedDateTime: 2020-01-20T11:48:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 57
+    images:
+      - url: https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505
+        width: 600
+        height: 337
   - title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
     excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
     publishedDateTime: 2020-01-20T05:20:00Z
@@ -58,6 +73,6 @@ related:
         width: 1000
         height: 500
 
-secured: "RP4qncQh6XxSWmf8nIoaAJLsqqXPbfhTfVz83Ij2xaF+7hLJi/bufeNuq43lvHMw1wOg27E+q+c6yykWEzaODAAvUYMC6NJYOklFBZtS3jAQPn2FVNEdbXCOXJzCJbeOFkwsQEm/Ow4B8HJ/619pkrQpcTiqq89kXYGrCsh8AnxlS6i5KzDxENIWC7Q1YmVpbz7kGEwqLszolYEgFjuuZ95AsgMDl/UdflwQsEcUJ5zmFupQr44BarEw+euN1iSJoxqc8AQl8RRD/ir2PvvKHEmCMtmh/2cuyuJPfZoxljg=;5hTr8g6j7oHw8HBMUUb/UA=="
+secured: "JwzFoxElUMrw6XviT/9RpgD+CTWdLE+jQZq823Ka+Fi3mKd4UyDZl+A2kfQt0OWZ8iyoZwgcGk+Ypg2nQtal3SCfgtNKxkae5o1LC6LiZBKeBdQPGi7lp9kIIrUU7uHtD+ShciY9k/tb/grYoxtOc2Yzm4cDDH+jXV5OcHY+GC/L3NtXRS87HO0ZHyRocubje7oKzRfyGhTy3s//68vkg5sxQcLfdzQnWxSRTEb1Bkfoilvl0z49m4ZbihUTngR3dsYm4fU+CZnrV3pOxDAL5M+AFc3oXGDDNQGHBayatOaJ9jyoJuwHLCIb/9Lz+yJeZ9md3+XiqzleK5m4JtVFYXPQB3p/gxpOBWd7xdykGQhxOTuShIbjyLPR/5hqD5BjRs0dJINeVZuiMfALjllrXuyKOA7WozXYKsz8LNNCf64PydYghYQyMeRhodGtcNU1Ae0BwB6XEhx7GgYu5mzl8A==;U0b07cQTa1d3a+Wy1S9wLA=="
 ---
 
