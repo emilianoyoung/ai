@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T21:24:00Z
 sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
 type: article
 quality: 168
-heat: 658
+heat: 668
 published: true
 
 provider:
@@ -549,6 +549,17 @@ related:
       - url: https://images.tech.co/wp-content/uploads/2020/01/17152526/eu-facial-recognition-ban.jpeg
         width: 1920
         height: 960
+  - title: "Privacy concerns over facial recognition technology"
+    excerpt: "The privacy professional community worldwide is divided about facial recognition and how, as a society, we should tackle this exceptional technology. Here in Australia, too, we are asking: Do we ban it? Limit it to prescribed applications? Regulate it? The revelation that Australian entrepreneur Hoan Ton-That's facial recognition app Clearview ..."
+    publishedDateTime: 2020-01-20T04:45:00Z
+    sourceUrl: https://www.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
+    ampUrl: https://amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
+    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 39
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z

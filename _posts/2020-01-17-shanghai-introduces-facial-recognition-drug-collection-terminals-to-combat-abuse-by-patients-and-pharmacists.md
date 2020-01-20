@@ -558,6 +558,17 @@ related:
       - url: https://images.tech.co/wp-content/uploads/2020/01/17152526/eu-facial-recognition-ban.jpeg
         width: 1920
         height: 960
+  - title: "Privacy concerns over facial recognition technology"
+    excerpt: "The privacy professional community worldwide is divided about facial recognition and how, as a society, we should tackle this exceptional technology. Here in Australia, too, we are asking: Do we ban it? Limit it to prescribed applications? Regulate it? The revelation that Australian entrepreneur Hoan Ton-That's facial recognition app Clearview ..."
+    publishedDateTime: 2020-01-20T04:45:00Z
+    sourceUrl: https://www.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
+    ampUrl: https://amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
+    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 39
   - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
     excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
     publishedDateTime: 2020-01-15T20:10:00Z

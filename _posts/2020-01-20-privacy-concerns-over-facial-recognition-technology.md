@@ -1,33 +1,23 @@
 ---
 category: news
-title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
-excerpt: "Fight for the Future, the Boston-based nonprofit promoting causes related to copyright legislation, online privacy, and internet censorship, today announced that it will team up with advocacy group Students for Sensible Drug Policy to launch an effort to ban facial recognition from university campuses in the U.S. To kick start the grassroots ..."
-publishedDateTime: 2020-01-14T11:00:00Z
-sourceUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/
-ampUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
+title: "Privacy concerns over facial recognition technology"
+excerpt: "The privacy professional community worldwide is divided about facial recognition and how, as a society, we should tackle this exceptional technology. Here in Australia, too, we are asking: Do we ban it? Limit it to prescribed applications? Regulate it? The revelation that Australian entrepreneur Hoan Ton-That's facial recognition app Clearview ..."
+publishedDateTime: 2020-01-20T04:45:00Z
+sourceUrl: https://www.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
+ampUrl: https://amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
+cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
 type: article
-quality: 94
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Sydney Morning Herald
+  domain: smh.com.au
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
-    width: 1200
-    height: 600
-    title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
 
 related:
   - title: "Advocates ask colleges to avoid facial recognition as surveillance grows"
@@ -58,6 +48,21 @@ related:
       - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
         width: 1200
         height: 908
+  - title: "Fight for the Future launches campaign to keep facial recognition off U.S. college campuses"
+    excerpt: "Fight for the Future, the Boston-based nonprofit promoting causes related to copyright legislation, online privacy, and internet censorship, today announced that it will team up with advocacy group Students for Sensible Drug Policy to launch an effort to ban facial recognition from university campuses in the U.S. To kick start the grassroots ..."
+    publishedDateTime: 2020-01-14T11:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/
+    ampUrl: https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 94
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "Congress moves toward facial recognition regulation"
     excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
     publishedDateTime: 2020-01-15T19:27:00Z
@@ -549,17 +554,6 @@ related:
       - url: https://images.tech.co/wp-content/uploads/2020/01/17152526/eu-facial-recognition-ban.jpeg
         width: 1920
         height: 960
-  - title: "Privacy concerns over facial recognition technology"
-    excerpt: "The privacy professional community worldwide is divided about facial recognition and how, as a society, we should tackle this exceptional technology. Here in Australia, too, we are asking: Do we ban it? Limit it to prescribed applications? Regulate it? The revelation that Australian entrepreneur Hoan Ton-That's facial recognition app Clearview ..."
-    publishedDateTime: 2020-01-20T04:45:00Z
-    sourceUrl: https://www.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
-    ampUrl: https://amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
-    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/privacy-concerns-over-facial-recognition-technology-20200120-p53t19.html
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z
@@ -711,6 +705,6 @@ related:
       domain: cbslocal.com
     quality: 11
 
-secured: "sib1Qvxrs9lEVAgeGez8dJijNGU94R6o0EOIlMBMQCokdZUgMa0V1dqhGomOG1/uSXtQlOCaIO1siuJBYLLJXf5GXolqT3oKToMRUXuKM2CuVVH+0ZJ/KZ/EqSKq2M3smPCi8F+fcccgDsnVm4mxSe4jIdIyi/3QsyK3jCIvJy1vIozclQJPeXHaPTv8tVDaXaJ2g23QuGhfmiFilhM2Jihtn34NKqd/uo1VI0Od1LVBLV2LiVVcqR+aGfLrePOuxabfR4xlvDBSCr9YQaDdVfzYXpIIT+xyfdOrbkho0jLEiaJiXQBlB+NVC//oA9+MKiqSmcVykqyMoXG6ITu+xNkzv9CoDRq08Fp/w9JwraOe8lDzkjryapttpacyO/ucexGjrxKwMMSz2E97y2AxD067pbQlJxE7cGsG5pB0DSvTfkOlq+pZH7oWb6WzEXCIzPDhyZgCkxCCkpTcjkkzKQ==;kY1g5nWX3a8Di45mdFctMg=="
+secured: "qSDp18U8OyjIeDDw7QAdWkdj82vbgwaGABR/fFdFkKJG9LnE+RdOwklcTf4Au8F2W8FSHvViyQuQAdpG7wsydieyLo4E7BxIYPxjipxi/FLusYfDG3siVmxX8Dh4xW8vXtyjiOflThNLSReMc6taYCYm9T9q0p5N3+J4sid4cRctDd0Z5SWf9jOXrwIAn6WlP6GmSR6s1UO2kP22aUOnr7I0gOxiubW+nS452rvABN8JJYO9KDLCWB582Vm+tlIM6DCoQaQujhYvX3cRgGKnUuFjq2tOIQtotU860xw985QatY+FhmYW5hY9KCNSfFpxRT11wMzfYyEyj7iIybU32CJ75xYSXQNjOvuEz/sLRW9jC0Tz8SGGrT+csQk4qvX082bxd8tr6MS5SKLHcmUg7r4UL4D0G1wcG90glyDPlBrpFxUTv0y/kjHaC7D1InoYl+uN/tB7AE+qI2YQxxhDFA==;CaaJax3kRMGam0qfhxYC6A=="
 ---
 
