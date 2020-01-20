@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Apple acquires low-power AI startup behind Wyze on-device person detection for $200M"
-excerpt: "Apple has made another acquisition in the artificial intelligence industry. GeekWire reports today that Apple has acquired Xnor․ai, a Seattle-based startup that focuses on low-power artificial intelligence technology. Xnor․ai notably provided the AI behind smart camera company Wyze’s on-device people detection feature; the acquisition by ..."
-publishedDateTime: 2020-01-16T01:07:00Z
-sourceUrl: https://9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/
-ampUrl: https://9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/amp/
-cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/amp/
+title: "Apple Acquires Xnor.ai To Bolster AI At The Edge"
+excerpt: "Last week, Apple reportedly acquired Xnor.ai, a Seattle-based startup for $200 million. Xnor.ai is one of the few startups that’s focused on delivering AI capabilities at the edge. In 2019, It made it to the Forbes AI 50: America’s Most Promising Artificial Intelligence Companies."
+publishedDateTime: 2020-01-20T01:38:00Z
+sourceUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/
+ampUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
 type: article
-quality: 50
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: 9to5Mac
-  domain: 9to5mac.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/wyze-cam-pan-1.jpg?quality=82&strip=all&w=1000
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24fee4a854780006cb3b81%2F0x0.jpg
     width: 1000
-    height: 500
-    title: "Apple acquires low-power AI startup behind Wyze on-device person detection for $200M"
+    height: 666
+    title: "Apple Acquires Xnor.ai To Bolster AI At The Edge"
 
 related:
   - title: "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range"
@@ -100,21 +104,6 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "Apple Acquires Xnor.ai To Bolster AI At The Edge"
-    excerpt: "Last week, Apple reportedly acquired Xnor.ai, a Seattle-based startup for $200 million. Xnor.ai is one of the few startups that’s focused on delivering AI capabilities at the edge. In 2019, It made it to the Forbes AI 50: America’s Most Promising Artificial Intelligence Companies."
-    publishedDateTime: 2020-01-20T01:38:00Z
-    sourceUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/
-    ampUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24fee4a854780006cb3b81%2F0x0.jpg
-        width: 1000
-        height: 666
   - title: "Apple acquires edge-based artificial intelligence startup Xnor.ai for $200M"
     excerpt: "Apple had paid the same $200 million for another Seattle-based AI startup, Turi, in 2016. Forbes had ranked Xnor.ai at 44th on a list of America's most promising AI companies. They applauded the company for developing a standalone AI chip that could be run for years on solar power or a coin-sized battery."
     publishedDateTime: 2020-01-15T18:57:00Z
@@ -188,6 +177,21 @@ related:
       - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/02/Apple-logo-shutterstock-650-e1552381548177.jpg?fit=650%2C399&ssl=1
         width: 650
         height: 399
+  - title: "Apple acquires low-power AI startup behind Wyze on-device person detection for $200M"
+    excerpt: "Apple has made another acquisition in the artificial intelligence industry. GeekWire reports today that Apple has acquired Xnor․ai, a Seattle-based startup that focuses on low-power artificial intelligence technology. Xnor․ai notably provided the AI behind smart camera company Wyze’s on-device people detection feature; the acquisition by ..."
+    publishedDateTime: 2020-01-16T01:07:00Z
+    sourceUrl: https://9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/
+    ampUrl: https://9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/amp/
+    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/15/apple-acquires-low-power-artificial-intelligence-startup/amp/
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 50
+    images:
+      - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/wyze-cam-pan-1.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
   - title: "Apple acquires on-device AI startup Xnor.ai for $200 million"
     excerpt: "In brief: Apple is on a spending spree for AI startups, and the latest is a Seattle-based startup that makes on-device machine learning tools that literally sip power and cost very little to manufacture. Apple's latest acquisition is Xnor.ai, a Seattle-based startup that focuses on low-power machine learning tools. According to GeekWire ..."
     publishedDateTime: 2020-01-16T13:48:00Z
@@ -257,6 +261,6 @@ related:
         width: 600
         height: 330
 
-secured: "V073MwUrXAtqtsbsyZcVVXHNLYnagHWKKvf6nMNrTnLwy5Wsxm9LH2C0igsBosTTcTEOacgoa68wSvpNsHkFWkEvoW4rTZv3r5pAsdxeTpI9v4mC9fF0YROvnnFML5nYc1jPH/bltFiE/Y+ajPqLjiXZYSJzM8u0JPYRycgxW6bGqE5kaRMd9Eejg7FxWCAO+2/Fof6jg/qYTXfdLiVl4cZoU2UIxw37o9GCl8pkVb2TAiq8q6kRkiSi5fjIdA8pyvd2vlH3o9bEpFBy7qxBtiqi5gfxmFFDw7EU0LQK2YsQh58T40oSWqt0BsV5GvQmfrzVCHNmzIyzl9w1/ONiDz7KlpyGXZYXzsZHDR4NwsUa6cnkzqdl8OKghyDflrh6nhhJD2oT2/18tjugPMWP5WnwB2kT7o2acmpbMXr2V5lW1Gx9A1t3AboO03v6NI+NeKv2qqoc+JiVfGzQHWeDQQ==;LH/UJZqONMqnbgcO6IB4VQ=="
+secured: "i1pQZjJjztIWhhR0F4w3YQhglzDVg7SegKfgSJKXKk4J89qfSaVWNmI6CBoIIA2JOaRlRYGo1xCQgChABkW2cjEAQAyyNkUvj4NG/1z5WV/JBSJLj8TQAh5bym4rUxw+0mJvbrNOxzfE/b/Pw08oQahBcmypWgSInf6pXkc2pJbmb5CvoESsfVi+WAamGP0WIFXeV1Jagsryaa50uZXcKCoSo5ky1caDQLd9/iWX5k00Lg8ih2uy3B00QUTM8am/EwdhRGs3bPSBPnEUqzFFQRFGpoBB4dRW+rA4qSgvEzU=;pKsroOMXirA/3oneOblclg=="
 ---
 

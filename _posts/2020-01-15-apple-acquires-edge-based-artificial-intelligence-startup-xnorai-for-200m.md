@@ -101,6 +101,21 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Apple Acquires Xnor.ai To Bolster AI At The Edge"
+    excerpt: "Last week, Apple reportedly acquired Xnor.ai, a Seattle-based startup for $200 million. Xnor.ai is one of the few startups that’s focused on delivering AI capabilities at the edge. In 2019, It made it to the Forbes AI 50: America’s Most Promising Artificial Intelligence Companies."
+    publishedDateTime: 2020-01-20T01:38:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24fee4a854780006cb3b81%2F0x0.jpg
+        width: 1000
+        height: 666
   - title: "Apple reportedly acquires Xnor.ai to boost on-device AI"
     excerpt: "Did you know that, according to CEO Tim Cook, Apple acquires a company every two to three weeks? It’s just added another startup to its long line of AI acquisitions. According to a report by GeekWire, the Cupertino-based company has made a deal with Xnor.ai, an edge-based AI startup, for $200 million. What is edge-based AI, you may ask?"
     publishedDateTime: 2020-01-16T06:15:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-s
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/
 type: article
 quality: 175
-heat: 335
+heat: 345
 published: true
 
 provider:
@@ -90,6 +90,21 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Apple Acquires Xnor.ai To Bolster AI At The Edge"
+    excerpt: "Last week, Apple reportedly acquired Xnor.ai, a Seattle-based startup for $200 million. Xnor.ai is one of the few startups that’s focused on delivering AI capabilities at the edge. In 2019, It made it to the Forbes AI 50: America’s Most Promising Artificial Intelligence Companies."
+    publishedDateTime: 2020-01-20T01:38:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24fee4a854780006cb3b81%2F0x0.jpg
+        width: 1000
+        height: 666
   - title: "Apple acquires edge-based artificial intelligence startup Xnor.ai for $200M"
     excerpt: "Apple had paid the same $200 million for another Seattle-based AI startup, Turi, in 2016. Forbes had ranked Xnor.ai at 44th on a list of America's most promising AI companies. They applauded the company for developing a standalone AI chip that could be run for years on solar power or a coin-sized battery."
     publishedDateTime: 2020-01-15T18:57:00Z
