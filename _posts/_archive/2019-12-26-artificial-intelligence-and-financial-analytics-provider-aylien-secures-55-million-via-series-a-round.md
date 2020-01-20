@@ -24,6 +24,6 @@ images:
     height: 225
     title: "Artificial Intelligence and Financial Analytics Provider Aylien Secures $5.5 Million via Series A Round"
 
-secured: "ZzQ+knNXpDWiycdqaBKVANUQ6LXs/gRfXUug2KUQWVTWV4rrssTcbttgmQpdUFJV6eaJhOpWsJYmK3o9YxEkIAuaUnouf1nGMaor4BVqhkDlk9lWK5+uF0ixcfyqyQmtbZ61LJKb0aiu6/4Hf9GYa6ZdsWxAU6y9Uk+c9YiAEA6Kz5pGZRCkSnh2mIcgE2+bHMTnMQunu8pzc62ZSgh/xgvNMv1mm22uf5wFXaVp7CEAK40eyU5nYRkEShEYw8aTnkqYWgYNPbXzoA5RvIaP0BJTSTC1yy+FiC9yhbzHUYs=;4MGQIA4UN/xbV7tXJp9mqw=="
+secured: "RzJ3ERisz594Nk8QrTf99BlGj91d8UGs7R1c8OcThSiF5i9OGgs0QpaEnTJ3CvcFXk3DWYPA1xTLOs8AH0yiuLjMA4sMAj736rL1+p0V8asYz9v8HPJyDLj5jUqxa7yFhUtaH6pstD/zzk2r2++z4bf9NfBQ3yEWABIhFwJeVI73uiaemB8QC8aNTRiQ7co+vkp5YJs+o5Nn8g8eC33xu/Cp/tOrOM0pdKouJxJ/I0Wcc5n9rXcLggnmGgE3OjjIaBU2nNDWUV9HnjbEsNPZDT6uQW5RtHbkRgBOUaxIV7c=;efc1XRMaArlCWLKk9RpPZw=="
 ---
 

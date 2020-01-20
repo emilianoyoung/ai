@@ -26,6 +26,6 @@ images:
     height: 630
     title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
 
-secured: "w5AcLAaJDXYzT5pkxmznCgZ2fGHiTw/b0gVWgkMsAwzhblh5Gw+oi6IBJc6rXt1BzjiUE1H4upkNay80mmnURCnMsYYPQcXF73uu98Gg5EI5RkBmV+uJHFrW6/v0U+9qwV5qEpV+jN3CGvlRN3ej5xwXINHLKXVED3/EVd39HNqsR4NR+D8Dxf9uNa0KzJnw3LykMqidVYSQcyNGxhOJeGWCaiklF/4QdYvR6kE8cl7ZT0USOaXcqf6lETDzqKH8b65pTgrIn/aOWNCKmMBq1rJZux+fA0tOsvoMwjhteuY=;Hg2pLOueAhoOkds1SUqqjA=="
+secured: "TjC3k1dnWvy89VkmSDIqWvn2nS0CpVxOYTR4OCX+N20IqtJMs/PSWG77bwRhU++kCNm40Kn+u8xjFvjRdiU8O+O9y4m/rnsMs5k5K5XjpxfYWkN8f4Sf3xtmpJ5uJ7lFpnqVmbzyKjEO1QVGKdZAuelnB4k/KZKTR61PRFQGxxpmo5M2sRw6iRXxZmwDz5XaEekfYiiNtsS4J5OTfoocw2k5/WuiEXa8bIouFDdwj/dTzhi7Y5ur5jCeyfr5hx1Bbn3c4K+QqO/J2bhw9b8TxFybdJdRZni7xfJfaBXQteU=;5XO9MkZfKr3VruXV4PqXiQ=="
 ---
 

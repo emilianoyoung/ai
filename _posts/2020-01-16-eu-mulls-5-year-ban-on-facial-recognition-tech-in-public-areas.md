@@ -138,6 +138,15 @@ related:
       - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
         width: 608
         height: 342
+  - title: "EU Considering Banning Face Recognition Technology In Public"
+    excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
+    publishedDateTime: 2020-01-20T13:53:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
   - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
     excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
     publishedDateTime: 2020-01-19T23:18:00Z

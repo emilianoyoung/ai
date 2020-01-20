@@ -28,6 +28,6 @@ images:
     height: 753
     title: "How Artificial Intelligence Will Make Decisions In Tomorrow’s Wars"
 
-secured: "6ah1i17qR2cW6mYc+TPWBU354I1d4y+6OAFB0otJJ45CWmjL9u3v/lINrdORFndBYmuN05onUXCCSn7pJHp8ikSYIhqj67FLG+k8V+8le1L7cbnzwwN7ug9DYFjDM16SOmilmg7SFNR7auexl0lDxYSp2oVNy3c5H/YM7JtBMCLPp2//NgQRCG46mY2yBmzv4+rKvzO3a/Fdiat8U8k9K6vPmM+0QpplxFFJYCVixP+PKJLMcNdqkGh6LEdOUwoI5zhkulrctolmYv+wT0BbybSVbUNceAkEJydwxPqFOHg=;aVh8Qqw9SBqFJloon526wg=="
+secured: "wNuaFY0tHhi2FomDuf25YjCj18waEIlVBwYSj27h4ZUz/8FpoXYfNVz1Qk/R5afy4RV46X5NIV+Z0iIp/ieah4C7zDlrZA0GXUvDaByEP0hvw97GzT9ODB29s46by4v4BphUE/sr8UdHhHReO0gBCmAH6CND9rIfbkWfAx3ajQ/SWAmxjHM5pebp85DreRQC0rrRJVzCHHQG42HwPJXE7KU/Y5vqls5Yy+yAJGAEJIN9VkOo+MBMMgijvyqnjA6fSWMRNlvjCb6PpOqN74hda9uNmGpw6LSbhjH6Bj3diKY5tVwHcZAB+FALVHHKzs7mexoJSyNjSdttEtqB5v+URFIvjA7pBTnCg+iKtsn0e5jrabIf0Fu1PsXNMEmwTaEWk8csTPd7RVqGmCik5KY6MkIGqrzRluNayoT//6Zj87/c5XnPUesCnBSLJzIwsMfREfVb32yLiFvNMnisnjXn2A==;7b4C2lacxI8afgwWJv+TcA=="
 ---
 

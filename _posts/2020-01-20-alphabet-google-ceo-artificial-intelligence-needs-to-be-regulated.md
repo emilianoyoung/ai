@@ -29,7 +29,7 @@ related:
   - title: "Google owner calls for 'proportionate approach' to AI regulation"
     excerpt: "Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a “proportionate approach” when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
     publishedDateTime: 2020-01-20T12:05:00Z
-    sourceUrl: https://www.reuters.com/article/us-google-eu/google-owner-calls-for-proportionate-approach-to-ai-regulation-idUSKBN1ZJ18O?feedType=RSS&feedName=technologyNews
+    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
     ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
     cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
     type: article
@@ -41,6 +41,21 @@ related:
       - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
         width: 863
         height: 545
+  - title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
+    excerpt: "Silicon Valley executives and lobbyists like to say they embrace regulation. Now they’re launching a frenzy of lobbying on what they want that regulation to be—and Europe is set to be one of the first battlegrounds."
+    publishedDateTime: 2020-01-20T12:31:00Z
+    sourceUrl: https://www.wsj.com/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+    ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: https://images.wsj.net/im-145573/social
+        width: 1280
+        height: 640
   - title: "Google CEO calls for regulation of artificial intelligence"
     excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
     publishedDateTime: 2020-01-20T10:53:00Z
@@ -57,6 +72,6 @@ related:
         width: 1280
         height: 720
 
-secured: "iQWr6alkXNTrYISGlKGgdmpKiahhAZaze3OyN1aNJvhJBYaLTyuPPWgj22aWkfj08UhyrPSXrA9+iXWVnHDg16c1eisicfpPrhiTWLvaYaeOetLZP9Hlz6QnNWmZu7xultebalE42wylcUPypv7cINrOLtd5Ci7MwIKjbTyKBPzNhQqDLV0JOeMHVDbJnaylYvXTC+DxfihNqP3Jz6/izB8gZW1TBaNhla0l/8xg48TjGsz8gtQmJyNSzKxH0MfjurzznNoJ9U6Kw8l51OEa/yRMjXBkZjApIsArPYN7NGg=;5BYnc1ZH42YPX7T6wZ3KLQ=="
+secured: "jGz4OabObvpz/wap5z7PTaBXeA7zBTDphYYlYYvnFbjaL/bRbLnmf5lgbKgLJ1Hv+WKiEjWfui2rK4JkJb7NapNfva9r8swDDkv+0u5MusXKs0B55i3igRmqQ4XQyG96DBfyED0VjSnl6yhe68dKx2Wrr6QEQrGu/RRWBGxSDB6MT3ggTfKc6zjz7zrJqnSyBlRzwGGyG7bEgIYinAPQlW72S2tlBJSItklWMGzegOLa6WbCDJOICEwnZwUY2RnBkXijYjs5jk/c0SNo2nmY+53KD3STpR7DVbLGRqEaJF1HlMS5ng2fbskniWNp0G5jku3QvAHh39dS8mbv34UeMqrWaEJM4S6SzlIFj2K5OnNZWfH7HnXvu68x5MOe3+vwq+D7K7iRYTkpjsDEwk1CF706d2n36emiwf6lDaRkyhvhd4ixuMm4SSIpVOA/e6KmmUgV6wBrfmjP2cs1BA0h2w==;o3kj3C86oc4haMITfqsZxA=="
 ---
 

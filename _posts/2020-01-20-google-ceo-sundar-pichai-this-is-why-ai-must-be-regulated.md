@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-w
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
 type: article
 quality: 89
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Google CEO Sundar Pichai: This is why AI must be regulated"
 
 related:
+  - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
+    excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
+    publishedDateTime: 2020-01-20T13:18:00Z
+    sourceUrl: https://www.cnet.com/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
+    ampUrl: https://www.cnet.com/google-amp/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: https://cnet3.cbsistatic.com/img/Yd9SnO_SRhGLteB_TlXsc14Glbs=/756x567/2019/12/03/93defff7-eed2-4114-907a-8228f1792e87/sundar-pichai-google-ceo-4.jpg
+        width: 756
+        height: 567
   - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
     excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
     publishedDateTime: 2020-01-20T10:30:00Z
@@ -114,6 +129,19 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 51
+  - title: "Sundar Pichai, Google CEO, calls for regulation of artificial intelligence"
+    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
+    publishedDateTime: 2020-01-20T13:15:00Z
+    sourceUrl: https://www.washingtontimes.com/news/2020/jan/20/google-ceo-calls-for-regulation-of-artificial-inte/
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 50
+    images:
+      - url: https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640
+        width: 1200
+        height: 700
   - title: "Google CEO Calls For AI Governance"
     excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
     publishedDateTime: 2020-01-20T11:43:00Z
@@ -126,6 +154,6 @@ related:
       domain: pymnts.com
     quality: 37
 
-secured: "4gg0wYNwA6vtUxFCl7RKQwL1TuavEMDEz3GEEGS9+/2035ikgYRoC/ggJ0+1JFTkYtmCWDGB1nKm1CjqaH24zz0GCz33zANhQtQ2wBTDPGpb9QYUTFrjC89aLlojrVWBmDJzoD25RHQ6n9iQwlDJJqGH3+h1JVPBsmOre7zsGMRUNAIKMwctKs7h8fiybNELUgdKMnW94tfp6eAzAGT+5CigV0pGywqrrY2+SDOQSDCjFZQfvJ04raIqtjG1RIi4BUegLSCcE1y2PjYu6XEAqbsanu3QZgp3hNt+XLr/beA=;9B+EBQFl0iswbG1Jfng/3w=="
+secured: "GMZE7FISlF4By6hy0ZCIN8h8silWbMWTQ+1JNmn6c8DF7FX2PTZ9+8ig31h3Pz3Cssu5sszoIOSq1xBuqQ53MPPhKl/eASW0mnjFQK6FRJgjvvBvp68psn6HPhK7z2UL+1bdBk//HNjz71QKjR9uqcnLPzC8ktYT/Xslws0G6ufmJJSOAJw2ZHAtcorS5evh+R1J1u8Lra+uRKFMm2eIKqwYgwhQHbY47b8E2WyU6sBElIlRNUGyqfdT+qn5Kebui/CJ1sCGSdw2FqHvWjSIt8VD3BHLpML/h1tS+02xhcwyj/XwbeDa2A1Lw2z1dqiGJ/35b7tmiJZiRxDVPUoT9IzhTmiUN4o2ID1+5OpOhcbuXfPrrcJTLOOJXVd+dBCLmxUt9bu2/WUNWRNSX7x5F9BBtwa+JFe1j8fUAcPJg+4C28Dzv8cC1tMXTY0+QyE25CkJKueNICNf4qUqk1fUtw==;YFaS+8WisxcxtOWRqegIRg=="
 ---
 

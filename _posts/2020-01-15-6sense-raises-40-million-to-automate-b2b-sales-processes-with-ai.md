@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/6sense-funding-40-million/amp/
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1200
     height: 600
     title: "6Sense raises $40 million to automate B2B sales processes with AI"
+
+related:
+  - title: "Scoutbee raises $60 million to expedite supplier discovery with AI"
+    excerpt: "That’s why in 2015, four German entrepreneurs — Christian Heinrich, Fabian Heinrich, Gregor Stühler, and Lee Galbraith — founded Scoutbee, which develops and sells access to an AI-driven supplier discovery platform. After raising $12 million in June 2019 to lay the runway for future growth, the company this week closed a $60 million ..."
+    publishedDateTime: 2020-01-20T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/
+    ampUrl: https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/logo-orange-small-e1579119365676.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
 
 secured: "6RrCI2r8ghrrYCrKUbF+1BKNenhqJP3OhnrGqCS2MqW4HxNwNEIhzUrdoKTzo/o0zM+KPWZxmktFmmlHznz9F/MIfJ4K+MklfZM07M+x79qOZLN9VYVtPQVeGgchcdvrUyt8r8XS0OUKVmeOuPK32BxCX4XnNFZ+XV3SN39waZtz+zg1VaTNzDe2nsf7ggyaFA1QO9WyKmBzNn4TTvep/n8U7BpC73KNCtgvwbh844JUawAGNCWqKZM+8fZbwMCUKQH5KL4QgfkwEDQBNWpdxPfjOb7PA95SaJTwgwYH8UJetpAAc2VN9erZn8yF5r7BNlPlY7Sy8E0ZJ0GJXYw4Dtih1iW9ZbIyZE6WrlFSXv8mL01csYZFsld6BGv2piBL6In+Yxe0PvzXWe4KTCCDgjyftG6tQFnPOeciSTfeqBCz50GjVnjQ9Y1xU3NgZncWcNJrQtplvpnpm3vtkTvrmg==;vlDbZ6aiXxEk437AKVg9Ww=="
 ---

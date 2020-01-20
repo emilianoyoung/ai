@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Google owner calls for 'proportionate approach' to AI regulation"
-excerpt: "Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a “proportionate approach” when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
-publishedDateTime: 2020-01-20T12:05:00Z
-sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
+excerpt: "Silicon Valley executives and lobbyists like to say they embrace regulation. Now they’re launching a frenzy of lobbying on what they want that regulation to be—and Europe is set to be one of the first battlegrounds."
+publishedDateTime: 2020-01-20T12:31:00Z
+sourceUrl: https://www.wsj.com/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/wsj.com-50x50.jpg
       width: 50
       height: 50
 
@@ -23,27 +23,27 @@ topics:
   - AI
 
 images:
-  - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-    width: 863
-    height: 545
-    title: "Google owner calls for 'proportionate approach' to AI regulation"
+  - url: https://images.wsj.net/im-145573/social
+    width: 1280
+    height: 640
+    title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
 
 related:
-  - title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
-    excerpt: "Silicon Valley executives and lobbyists like to say they embrace regulation. Now they’re launching a frenzy of lobbying on what they want that regulation to be—and Europe is set to be one of the first battlegrounds."
-    publishedDateTime: 2020-01-20T12:31:00Z
-    sourceUrl: https://www.wsj.com/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
-    ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+  - title: "Google owner calls for 'proportionate approach' to AI regulation"
+    excerpt: "Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a “proportionate approach” when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
+    publishedDateTime: 2020-01-20T12:05:00Z
+    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Reuters
+      domain: reuters.com
     quality: 87
     images:
-      - url: https://images.wsj.net/im-145573/social
-        width: 1280
-        height: 640
+      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
+        width: 863
+        height: 545
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -75,6 +75,6 @@ related:
         width: 1280
         height: 720
 
-secured: "gJobikQ7sNmwWvfFybLgbXF9df/00RmnMVy6RdxQHtBFLZPtXmwldRk4gAcsToxrd0HYQBssuy134E4wgXwaZ+mqqo9qLNVaIctqWKoXRg94GQKVWjgfUde846tVwb90I/SOgytkSmtvAd2zbMncQ0SeGBE/cotc+20IYurWHbExgxnAQtYq+V9TH237G6MXSZrgWtOPauNDWEeGjgOExLi70A4II8t7WsZXC1KiRMd1SHYqle/cNqgWGao3+rk9+Qo7GkvKEKGuPLF1qmSE/Z56oSfJmUx3vVyaDhLFgaY=;ozYMaBl/nP8mRQbWqWN9kw=="
+secured: "L1/pAmIZoi3pwL4FdwuNT9XTNeIFdS+JWZ1dAkYIZrIH+wR6wbw6DzyLGXAmq3fiT1MgIjzKXiJdhJGm1+Fdm8VrMEBC4w1o8H/cxudSc1q8M6B0siiCbXFYWSTnfH7sUqGj8SfzO4AcTHWQdP9Xg5E1/svHVYgEAjv1g2MULVMZwXOS5mcdS/KZDDFAVPzMtR82GJqZ0GrCj0fm46qzRCs7vztAtaNvBIuEq5djAMUUoIzYMRExd80Pakx+VAsJEqk4yHhgF3/roj5U3gFKzi06eCz2V+Brf1yWvpNL33Y=;7m+CkfkAnPE3EWdE5SP4lg=="
 ---
 

@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
-excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
-publishedDateTime: 2020-01-20T05:20:00Z
-sourceUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/
-ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
-cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
+excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
+publishedDateTime: 2020-01-20T13:18:00Z
+sourceUrl: https://www.cnet.com/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
+ampUrl: https://www.cnet.com/google-amp/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
 type: article
-quality: 57
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: 9to5Google
-  domain: 9to5google.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - AI Ethics
 
 images:
-  - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
-    width: 1000
-    height: 500
-    title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
+  - url: https://cnet3.cbsistatic.com/img/Yd9SnO_SRhGLteB_TlXsc14Glbs=/756x567/2019/12/03/93defff7-eed2-4114-907a-8228f1792e87/sundar-pichai-google-ceo-4.jpg
+    width: 756
+    height: 567
+    title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -40,21 +45,6 @@ related:
       - url: https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg
         width: 1101
         height: 828
-  - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
-    excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
-    publishedDateTime: 2020-01-20T13:18:00Z
-    sourceUrl: https://www.cnet.com/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
-    ampUrl: https://www.cnet.com/google-amp/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: https://cnet3.cbsistatic.com/img/Yd9SnO_SRhGLteB_TlXsc14Glbs=/756x567/2019/12/03/93defff7-eed2-4114-907a-8228f1792e87/sundar-pichai-google-ceo-4.jpg
-        width: 756
-        height: 567
   - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
     excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
     publishedDateTime: 2020-01-20T10:30:00Z
@@ -98,6 +88,21 @@ related:
       - url: https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505
         width: 600
         height: 337
+  - title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
+    excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
+    publishedDateTime: 2020-01-20T05:20:00Z
+    sourceUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/
+    ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 57
+    images:
+      - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
   - title: "Why Google thinks we need to regulate AI"
     excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
     publishedDateTime: 2020-01-20T04:00:00Z
@@ -149,6 +154,6 @@ related:
       domain: pymnts.com
     quality: 37
 
-secured: "inrUwQBzPVEqlxx/LlmIwC0XFadaM2IA91rw0S1c/2tZ1xHa/l5RTz7cc0b6kh34gCI6kzvlVthF9u80+7GafDCb44jfJaq5nr1EAgTVS4NeeyROwOrxTOzUoGFhWFfGSApQV1wqpqihlYkF1oQIpxJU+XlflxhpWVZ5tDvU90zhvrGbkYy3Rwtz/1fv95SrnJ4keiHDrhpxXotiyXDXb4qZWgI8QeitAWKFQyE1KdMwSibHuCu+UqZKfcYirmf70v6QKi9znX6oFwOrCmcsxnEpL1vvAx5L2TLJ7RE/rlK6uUasE+M+qcezpAf/UnfTC+ccY/68/NBM+SmxDOTl/f0W0ES5q0rvoauOywiOFxjnSiUcVXaTjs919A+u0aioZyauVMuGciHnIUVp8aPiF0jlVhBVXVgryEF0eNtkQ7ISrLTtgzm75IgKeIL/gMK7AIXjK1k+snaHTotYHTW89Q==;7njoCRnirQRY/Hqf3R56FA=="
+secured: "aSHe+akgfiYh4HOx/0Ho9OtSsiCsePfTMDKZ8ER2BSFaUpmxlU+O6t2hpqU2vB5rFNDOjUF3oHjcXLig7csRN6MtKdM/vORU9br52xQBZV2Ed7KOJUcsrrTj0kijaeMPIpJJbqltKaHu4mzaZhblXRvp7MB6ItGVZEVwpy8NAhZ9z3G9fxU5sgNM9BMUCdQJEkTzwTnWKkT4cqMfRorbn7ZEWSYmKqRB2vKsGZufPlqPFsF+tDN1lCvzftFG4ccO5BZ0cPYq9ashn0xGvW/4qFOvfFoMsdNnDKbmOUb56qU=;gLFwJ68T4VUWZ2FeGM9Beg=="
 ---
 

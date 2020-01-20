@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
-excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
-publishedDateTime: 2020-01-20T05:20:00Z
-sourceUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/
-ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
-cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+title: "Sundar Pichai, Google CEO, calls for regulation of artificial intelligence"
+excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
+publishedDateTime: 2020-01-20T13:15:00Z
+sourceUrl: https://www.washingtontimes.com/news/2020/jan/20/google-ceo-calls-for-regulation-of-artificial-inte/
 type: article
-quality: 57
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: 9to5Google
-  domain: 9to5google.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - AI
 
 images:
-  - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
-    width: 1000
-    height: 500
-    title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
+  - url: https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640
+    width: 1200
+    height: 700
+    title: "Sundar Pichai, Google CEO, calls for regulation of artificial intelligence"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -98,6 +96,21 @@ related:
       - url: https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505
         width: 600
         height: 337
+  - title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
+    excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
+    publishedDateTime: 2020-01-20T05:20:00Z
+    sourceUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/
+    ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 57
+    images:
+      - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
   - title: "Why Google thinks we need to regulate AI"
     excerpt: "One of the most promising is artificial intelligence: just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in mammograms with greater accuracy; we are using AI to make immediate, hyperlocal ..."
     publishedDateTime: 2020-01-20T04:00:00Z
@@ -124,19 +137,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 51
-  - title: "Sundar Pichai, Google CEO, calls for regulation of artificial intelligence"
-    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
-    publishedDateTime: 2020-01-20T13:15:00Z
-    sourceUrl: https://www.washingtontimes.com/news/2020/jan/20/google-ceo-calls-for-regulation-of-artificial-inte/
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 50
-    images:
-      - url: https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640
-        width: 1200
-        height: 700
   - title: "Google CEO Calls For AI Governance"
     excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
     publishedDateTime: 2020-01-20T11:43:00Z
@@ -149,6 +149,6 @@ related:
       domain: pymnts.com
     quality: 37
 
-secured: "inrUwQBzPVEqlxx/LlmIwC0XFadaM2IA91rw0S1c/2tZ1xHa/l5RTz7cc0b6kh34gCI6kzvlVthF9u80+7GafDCb44jfJaq5nr1EAgTVS4NeeyROwOrxTOzUoGFhWFfGSApQV1wqpqihlYkF1oQIpxJU+XlflxhpWVZ5tDvU90zhvrGbkYy3Rwtz/1fv95SrnJ4keiHDrhpxXotiyXDXb4qZWgI8QeitAWKFQyE1KdMwSibHuCu+UqZKfcYirmf70v6QKi9znX6oFwOrCmcsxnEpL1vvAx5L2TLJ7RE/rlK6uUasE+M+qcezpAf/UnfTC+ccY/68/NBM+SmxDOTl/f0W0ES5q0rvoauOywiOFxjnSiUcVXaTjs919A+u0aioZyauVMuGciHnIUVp8aPiF0jlVhBVXVgryEF0eNtkQ7ISrLTtgzm75IgKeIL/gMK7AIXjK1k+snaHTotYHTW89Q==;7njoCRnirQRY/Hqf3R56FA=="
+secured: "HEbWc3Hij8hKBVrdVWRT6QF/aZgc6KA0glvF2wDUQewHqJUTKpLSK/J545E/OfnnR/Bevlof+AuZQBrSpzHy5cZ2ANVulpTu+X1mR9G51WB5Uc5AmS8xjg0gryuEKnn4AvaMHJcFb5MmEhrGARnmlgfVj6wcqeuOVU8Iklh7xryA3vtJZ9PbjYQMcfA1hHSfeGMzT2ic9UA+4RBKDkJKaJsnIsGFAW2DQof3BWGFtH01O/r0te1vUmn9TTiPiEb64DndamqwGCGhTujrz0gQ4PKIdP2zXSzO2si6QOwwbcQ=;xt08P0CGpFke+K0VtsrSRQ=="
 ---
 

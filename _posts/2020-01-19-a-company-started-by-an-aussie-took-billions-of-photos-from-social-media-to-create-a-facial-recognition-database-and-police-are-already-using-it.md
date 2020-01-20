@@ -149,6 +149,15 @@ related:
       - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
         width: 608
         height: 342
+  - title: "EU Considering Banning Face Recognition Technology In Public"
+    excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
+    publishedDateTime: 2020-01-20T13:53:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
 
 secured: "U14k3C3KpYozq+hvtntqQZOdjJUG+q76xWDiLAoSHClEt0CcUHPWAZzpr8gKVkd+9rGwVCzf4JrEajoWKSXnEBaYagOAQ+9dypqxn1ZwHmDjW2isOF2LNYJuu24HxRRVksdo18Q1z2vEG1Y65IAi+LByxL+mhFuyw1MALj9f/SccdluEZNSuM5to9EiBR3decmAqXxRugHILajhrqJzSEQciO1P8DfaL8O62W50ykPMoKo20MLWxyEVxwakNYrEZsQlrdYY5HavLB80p7AlJbg/T8l6h/7P7d6kYTotrfIQ=;BxT0Mmf3uOWmPfc8WkVbsA=="
 ---

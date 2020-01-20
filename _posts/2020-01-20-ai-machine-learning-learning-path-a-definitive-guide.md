@@ -23,6 +23,6 @@ images:
     height: 709
     title: "AI & Machine Learning Learning Path: A Definitive Guide"
 
-secured: "z7IJyWUOuDNlTR9RPkpxFE8mTO2z3c9fNoug/SfFap+RFy/O/yLnzwNMBq/LJJ+sXXk3+rwYXqgfv4fd8fRs7R3XT69srti53+WdxNw8wEN/Dskz+aH8W6WQI1ZTQV8BpFC04GU48mWE/1v86TCgzNjT6Ev/EtR+roYj0OXOjdLVR/1izABfS0Sc2Zjh9XNIUczf2RHSPjjizsRgz31Ik2GaOoTjhRT09OsxCK9ZXSW4lYz7CHAJDNOQKi2tHXHDw05bXlXB93fjZDfhXeBgXQ13Xk6g8lv/UFjBSG46n0E=;w0eWvfw7Blxw25hCbnDpSg=="
+secured: "zTudbFw/UaEfRAI3IKeybrkePW28UL0tIqjM3w44yIx3/qN1sdrgD7X+oRPxUkiAgKUA1qQknKbAOc2ePVBk6it0Q7P39e4Jbo+Vm1/tRIkcbjw5zMUXa6O/We+CfhZXuvfTLnXQq3cbEOE/QwZye6BrQMMJkbm8LO3RJ2huzlw8+4+mrH2oM79TwJhiP/QQOQ6YmMfv/B01fAfzpE8QMqKkCdvn0IAXjmJx2GtKp+afXfrrYSzXy0yGOV44oI8zgs76Cx+mLWwjYdGNiB+m/PXGFtgTKfLT8Ysbpe2O6wM5WPC1BjPAsK9VP26WaKoYIBqTqRr4eutZ3T4jG9+p8eDjqFx/RzKnzuox8SoqWV5JIVgysQlLVN8Tely34pVce6RmhYLT8AJdaqpmfktn/ZX81u69bJ6RhLNX34lBPsHvX0He1XXnbFZ/yMvmqGGIof4+6tFznymLjzELb/PV6g==;xtmu5GcUps2N0H92FrefUA=="
 ---
 

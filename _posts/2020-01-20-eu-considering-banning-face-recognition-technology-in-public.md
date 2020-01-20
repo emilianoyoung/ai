@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
-excerpt: "As the longest running biometric modality, fingerprint payments will take the lead in this market as standards coalesce around the technology more easily than for facial recognition payments.“Many consumers are now used to making fingerprint-based biometric payments, both for contactless and remote payments,” remarked research author James ..."
-publishedDateTime: 2020-01-16T17:01:00Z
-sourceUrl: https://www.vendingmarketwatch.com/technology/mobile-payment-systems/news/21121613/facial-recognition-hardware-to-feature-on-over-800m-mobiles-by-2024-but-software-will-win-out
+title: "EU Considering Banning Face Recognition Technology In Public"
+excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
+publishedDateTime: 2020-01-20T13:53:00Z
+sourceUrl: https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html
 type: article
-quality: 27
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: VendingMarketWatch
-  domain: vendingmarketwatch.com
+  name: MediaPost
+  domain: mediapost.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2020/01/eye_2771174_1920.5e2094c94897f.png?auto=format&fit=max&w=1200
-    width: 1200
-    height: 800
-    title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
 
 related:
   - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
@@ -110,6 +104,19 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
         width: 1200
         height: 825
+  - title: "Facial Recognition Hardware To Feature On Over 800m Mobiles By 2024, But Software Will Win Out"
+    excerpt: "As the longest running biometric modality, fingerprint payments will take the lead in this market as standards coalesce around the technology more easily than for facial recognition payments.“Many consumers are now used to making fingerprint-based biometric payments, both for contactless and remote payments,” remarked research author James ..."
+    publishedDateTime: 2020-01-16T17:01:00Z
+    sourceUrl: https://www.vendingmarketwatch.com/technology/mobile-payment-systems/news/21121613/facial-recognition-hardware-to-feature-on-over-800m-mobiles-by-2024-but-software-will-win-out
+    type: article
+    provider:
+      name: VendingMarketWatch
+      domain: vendingmarketwatch.com
+    quality: 27
+    images:
+      - url: https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2020/01/eye_2771174_1920.5e2094c94897f.png?auto=format&fit=max&w=1200
+        width: 1200
+        height: 800
   - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
     excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
     publishedDateTime: 2020-01-16T21:45:00Z
@@ -134,15 +141,6 @@ related:
       - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
         width: 608
         height: 342
-  - title: "EU Considering Banning Face Recognition Technology In Public"
-    excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
-    publishedDateTime: 2020-01-20T13:53:00Z
-    sourceUrl: https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
   - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
     excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
     publishedDateTime: 2020-01-19T23:18:00Z
@@ -159,6 +157,6 @@ related:
         width: 800
         height: 462
 
-secured: "vu9j/GCrA+SxvsrhhudMTVOeG77xg7rwEop/OIjiEQQyeCXN+R19StVZGARhjAaPJcPl9nqlP8qUnR6hoM/mfha0s8xp2WPj4khcJx0cQDASA5hQSVPoCVz9TMjqWaaL/x5rJGEvEGn6GjQtftezG5Y2qe2ru7k/g+xtukLfF/tlfhZye6PKEqh7/cm89S4pWHd90kEpVapi9bUDDVCs6gLMvpuLG7Yb44XZFoblwSvYBb818Zv/KNRTv18q7l8HBnZHlLQaAt88tLbPyx+0Os9d/eW53BBs9qT8Pe5i1x70/ve5iHVRJN4fsyb4HGa+6+5LYSmcJQvb1zX7P0cbSDDpD1k/0pNHlvGalsyWVhM/I3E8vLXOTxqqL28RrCxJ56Lp8KT/rHTtpdtKfObF5Pay4T8RrAAOMPPLyVojnscuuORc6BAPH2YfQ9dtc/2i8QsZo7pcOR1LCaPJZvHRzg==;5flDeZZxLtuliciJPd9kMg=="
+secured: "TtviwGONTeGJ7/LO+FB8X/myYtQQXj0vTmWBn+aRh1Uq3tWwdNEPz1J+bzk13sTZ4XKY7sSNLhPOGoIRUyba/QZxVGAymSQL6jYSFbiD9VyspmIvMT2cWJbtHv2vWLaMDQxlmAQYV3C8qUNPp9aeSGu+Vqr89dWcc6RYzVaY/TrhQwGyaOweKUQJ6cZ2s5K1pkF8NRBKPv7R+1y+J7gpfHwWGdZPFWpcTByuXvtpJ6rOY0buGPaNSWdB23wufpJbM8qyX2bFB7BTNVFzVrBSqxeLKMPijJ+AGhiceZY2CIU=;/fqLaDGrTj1Ja//8nyRMXQ=="
 ---
 

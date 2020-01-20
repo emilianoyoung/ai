@@ -24,6 +24,6 @@ images:
     height: 750
     title: "Artificial Intelligence Could Help Scientists Predict Where And When Toxic Algae Will Bloom"
 
-secured: "8gE2ldd1S+i8a7sUIzYxjqPdg/uSDLb0nc3Rrkyx/rkV9cNL9+9LUZD22TT2DG2OaKfCrjK+LKWQxCnrXAqvIy/6MPgrEJqRVFUo6tXxrd2dMCV/yxmhaahFWpgHxPsoaFqgVwDhbJARRlOG2Jm3NNx8sBC/USTdriOp8a2YZeG+LqaKVC9HZmyTuTg462xO1VpyN9LOVlDqs8YSOuNj7nBRGhimlwIkoYTHEefYYZSF90/rYvemOPfbgue6snRSDaLtblIIWyX8H/s/LrH9z7FFQ4ulznirSfmAyBp7P8M=;ecW349UZlXHl+DFuTIz37A=="
+secured: "vR57mjit4zTipqdpFBSjs3iLEkYwmFcOMyElXDzRtU1hK4pMUnBw7N7Pb4KJRIhUwh+2rMJ61+Zh3NiAUY/jve1676YVzEFaNIbMdwrEPlfJBYsUSqftGN+4byHaXeUCa9Seh7DtTEC4eCaDLHBb/ZbWrfD3VqAHxQIatBLiyB2pPymvBCJK3VXAjudhyWgtHDO5yVC1GYM1iMkDaOp2teFYppQ5GriHJRgVZmxDYdb1u1BV2JopH4yzevmdwaTqiyqqhq9HE9bLBf2gKXONXPsSTCMI/yDHgi65Ij93DI1NQSBgMLm+IL09RTC768pv1GmeBwAxesXAZIHp8AuZKDRrBEKtN9JrvY6hFkInn7O48ZBZ/t/lAEC+vN+t0S/Dw7wGFJDzzN7M0WgHlocedct1n3vS5QZDOqGo/rIyADd9Kq6USMjHAhbmLa0VfBdg5VSiVJ3NYq/vP8MgT0iMpw==;4dUoeZxQH6mWmk9kwVR+Bg=="
 ---
 

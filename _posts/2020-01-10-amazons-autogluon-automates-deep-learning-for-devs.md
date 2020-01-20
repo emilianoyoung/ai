@@ -2,22 +2,18 @@
 category: news
 title: "Amazon’s AutoGluon automates deep learning for devs"
 excerpt: "Amazon has created an open source toolkit for automated machine learning, called AutoGluon, designed to make it easier for software developers to take advantage of deep learning models in their applications. AutoGluon is intended for both machine learning experts and beginners, the company says. Officially launched January 9, AutoGluon lets ..."
-publishedDateTime: 2020-01-10T11:04:00Z
-sourceUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
-ampUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
-cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+publishedDateTime: 2020-01-10T11:15:00Z
+sourceUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
+ampUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: /assets/images/organizations/infoworld.com-50x50.jpg
-      width: 50
-      height: 50
+  name: ITworld
+  domain: itworld.com
 
 topics:
   - AI
@@ -72,6 +68,6 @@ related:
         width: 1365
         height: 617
 
-secured: "6xjcG1tbKvVvtWZ+g3wi8yhXCy5j04YfCHT2MAxKJGkyMrmhhejps6dM9+WFS6qUNgL01LYHy4O7I5essLBVi26wK3VaikL60M3OwBioZ5fwyIONVC61Q5m/3JJ1MLZlIVNptuaQNdWkQSFGOv+UBooYYroAqKDo2BXR81iE8BAps7i2/6HS5q35oQoyY2Hs+g6wg2SaNFs6rmMKFzYsv1zmZ64gS2JnPJZMyYK1kuQO+LTQhjUFLJs1B93tQPdDpQ0H3sbFwcLfym0jXBgHZx7J9stKydq0ielDfvNMDrI=;pnz3RH/JPOWhE+1vScHLbg=="
+secured: "HqBOpO6crX8dWIx2CYqY32e4SbqoizS1iGjoGKfU8Y3YYgfLQPwmfOPgVLKpisWs9Lgb6bfYFNmOeifTPm3rFEaS3qcCs3npvICrLNJb0aL3/ufI51HNaT+fX1qZkgmNS9ktRw2YiFCsiVqgjgWIl++Jf9J4Bg2NpZncc84KHgeDNteAK2s78mvh1sly+3qwFj6QMrvIPg5KRVISFdXQglQcN4DBKud9Zj5Zh3ENZyzQZv3NWygRzjksIgNG5IaaHFfd2gYIxzm2tiG1au2FVCMt0fxxAMP+zk03Qf873wo=;BBqp6BGUd0RLwAsuLvsNZw=="
 ---
 
