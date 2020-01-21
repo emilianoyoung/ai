@@ -33,19 +33,6 @@ related:
       - url: https://www.abnewswire.com/uploads/1579519636.jpeg
         width: 417
         height: 455
-  - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
-    excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
-    publishedDateTime: 2020-01-21T05:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-foreseen-to-grow-exponentially-by-2026-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Intelligent Automation Benefits Across Businesses: Industry Implementation and Key Market Players"
     excerpt: "Such technologies provide a structured output with enhanced productivity. Additionally, IA being an evolved version of automation mimics human actions and possess cognitive capabilities, including natural language processing, speech recognition, computer vision technology, and machine learning to comprehend the vast amount of structured and ..."
     publishedDateTime: 2020-01-19T13:36:00Z
@@ -59,6 +46,15 @@ related:
       - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
         width: 1634
         height: 918
+  - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
+    excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
+    publishedDateTime: 2020-01-20T12:25:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 7
 
 secured: "dG9qvtSrDMagT8615gnLvkZxtpmhUslum9i/GcO9c3PndqOqMugjpfszQdxTlutiDhgbBAGbweZ4ETbOXwsLcu7jLAObEIvmTx0a3Z7tlbt0SJ6S9iFtUD2bHBGmrVpk1eK7Ufe8IGfkre9p7JbmEXze64esd62BEfFtLqbXrD1zcd6/IyaM5vtgR4N43/K85+qiYTbcmSd2sXOXh4XV6/Jd/wvIaQDECz1UvQLrWt/anta4h852xj6oP53rsCSTKp7OTLDqnjc1DvRze+nSRbU6K58zXHeLCRtFu+R6+Ns=;3NjNmNKIue4/r0czdJ75dw=="
 ---

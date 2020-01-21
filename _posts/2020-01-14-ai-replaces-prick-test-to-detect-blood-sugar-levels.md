@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
       - url: https://www.ses.nsw.gov.au/media/3667/roads-affected-by-storms.jpg?width=616&height=323
         width: 616
         height: 323
+  - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-21T08:28:00Z
+    sourceUrl: https://medicaldialogues.in/diabetes-endocrinology/news/no-fingerprick-ai-can-detect-low-glucose-levels-via-ecg-beats-62274
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 19
 
 secured: "ZnobbDjZGZ6GoCafNf/kwUbTCG41EVPJ5b/seUX70dEnIwA+NG6C7tHoepUJdVOV8jTA+haC7TbRObjSHlTbbKP5jgXb+5WKDupsiMv/5w1kBNSM1qVdALjsJDaPeASXAayVUfKkpoImVlpXJ7htti2uBwLypLb7uzCRfWVKsKCV8VCYwKjB4upXWDKR/nU2wjEw7drBLi2wcAs9S7dvU7dRtqB3BTqUhVV0Fn3fXG3TR+TOcKuKJfAr0gySyUVa5PjRrnXc5awpSiyxPypZwJcPZGFWxvGpAGMnuBrTops=;WmqbZy36p8ONHgbbZbf/zA=="
 ---

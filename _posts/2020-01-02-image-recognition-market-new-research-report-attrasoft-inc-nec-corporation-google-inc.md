@@ -50,6 +50,19 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
         width: 877
         height: 432
+  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
+    excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive the market growth. Other factors, such as increasing adoption of advanced technologies ..."
+    publishedDateTime: 2020-01-09T10:10:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/09/9078820.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
 
 secured: "0Z+YtAAqsF9XwezvRKwrWbD77Z1h93oxaPzUSrWGUddU1A3ZlCQBrgSIyLEiKT88ABr2s05jDelfbfV6FATff/wHVdxsNLTwu93EK4pEuJrM1JSMAK9wq2iWIRc9TOvwkD1gP0sA297EnjbwbXlxMJt9maTs5TNThTMQTIgCukT9I3/7hTS1ylmP2e5JN2qSxP5SxW2g3eOQC/FwBP5xxIqEyICiuNIUVKkZbi2I1krHhTTDWlwwvq0x1158oVFfCMiDD80rbOTX89rQtudhA88HhP2xVaqlX8wqXXC9YAk=;ogtHeP9CSujK4H0l95zeyQ=="
 ---

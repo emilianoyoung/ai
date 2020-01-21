@@ -106,6 +106,15 @@ related:
       - url: https://www.ses.nsw.gov.au/media/3667/roads-affected-by-storms.jpg?width=616&height=323
         width: 616
         height: 323
+  - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-21T08:28:00Z
+    sourceUrl: https://medicaldialogues.in/diabetes-endocrinology/news/no-fingerprick-ai-can-detect-low-glucose-levels-via-ecg-beats-62274
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 19
 
 secured: "HI4QyTPgqF4s2afcZpYBziLeMX7XM4LwU0NWNhuNDR1qMyDAJ0n3cojFANIpGP7wPARixI9mp1xAtXBhmZG+/ymzTHNknQjWnHdRZxhLTQO2zbacvFintaWNkTHeIGKjt4sUx6Tp3slTnyJEaxnA7rWFU/6OIO8ARswXppj/EkdDZoa1DrucSUOmhMhdUpgfZQwXkGXd5v7cSDxD81gognR/jwWSNalaHEmug7OhKY8O5Q13fbpkXipKee83GwdO0lNcCcANy7Y+wrPSn1HRH66PjWtMjD+wJ4nUmrxRboM=;sgGQzYan5MENTlzLk2HlzA=="
 ---

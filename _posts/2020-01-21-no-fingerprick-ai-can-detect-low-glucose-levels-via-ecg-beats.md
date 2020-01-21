@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Sensors and AI spot low blood sugar without needles"
-excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia ... that training the system using cohort data would not give the same results. Personalized therapy based on the new system could be more effective than ..."
-publishedDateTime: 2020-01-13T15:45:00Z
-sourceUrl: https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/
+title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
+excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+publishedDateTime: 2020-01-21T08:28:00Z
+sourceUrl: https://medicaldialogues.in/diabetes-endocrinology/news/no-fingerprick-ai-can-detect-low-glucose-levels-via-ecg-beats-62274
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Futurity News
-  domain: futurity.org
+  name: Daily
+  domain: medicaldialogues.in
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg
-    width: 1600
-    height: 915
-    title: "Sensors and AI spot low blood sugar without needles"
 
 related:
   - title: "AI replaces prick test to detect blood sugar levels"
@@ -78,6 +72,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Sensors and AI spot low blood sugar without needles"
+    excerpt: "“Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia ... that training the system using cohort data would not give the same results. Personalized therapy based on the new system could be more effective than ..."
+    publishedDateTime: 2020-01-13T15:45:00Z
+    sourceUrl: https://www.futurity.org/blood-sugar-test-ai-wearable-sensors-2254812/
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 39
+    images:
+      - url: https://www.futurity.org/wp/wp-content/uploads/2020/01/blood-sugar-test-artificial-intelligence-wearable-sensors_1600.jpg
+        width: 1600
+        height: 915
   - title: "AI can detect blood sugar problems without fingerpick test"
     excerpt: "In a new study, researchers have developed a new technique using Artificial Intelligence (AI ... doctors s can adapt the therapy to each patient. More clinical research is required to confirm ..."
     publishedDateTime: 2020-01-14T11:20:00Z
@@ -104,16 +111,7 @@ related:
       - url: https://www.ses.nsw.gov.au/media/3667/roads-affected-by-storms.jpg?width=616&height=323
         width: 616
         height: 323
-  - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
-    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
-    publishedDateTime: 2020-01-21T08:28:00Z
-    sourceUrl: https://medicaldialogues.in/diabetes-endocrinology/news/no-fingerprick-ai-can-detect-low-glucose-levels-via-ecg-beats-62274
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 19
 
-secured: "xeMrtNr77OrtQU516YyWuOsk1+6kEA3mt4RC3ZgzQwng5uRXkz57EGw7yexKr2wpcDEYnrQsd+2dBeMK+CvjBVmbaT3Di1v22AINPK9bmzWLekoSgqbdQXNQgvoFYPfXyOFqZeoYVzPpSxP6yIHj9l2Nd5phfE30dEr3t/E9YmwwpGmW0AVaxC3Fmwb+MO9hO8LZAGOhEHDG0azoCqMVYwoh3kikwVZCLTPqsskHJ1J199j8AjS6jwTsSLrMi5C5nGSR39qfIb+kCp33l+5lgaR4DIk4OBbLBdWZlWX6SjWQUNrqz1kXjeDBw6DWyba58vgNbJCmbyoL/ZGObVIZaMYsx5SJvCY++dBbqS69ToGRF9LUhWfIL4+1MluRjWZIHJlqFVyseWCwsdAdx8C523UyQLvn2rT1IHDeTfL9ndf/7NHClAx9oBHtMIcHOsURmoJMfb+jd4yX2NTkq6jgoA==;0e5Jvnu3LdDWhf+5V6psQg=="
+secured: "UMm/dYy7KNk2iaRdlpyRvUNwtwDxqpasX3gY5Hqs9yLwRS3uciSaDl1RwU1U20B+kFb/iLy/n16mZVH84VqATTzw82qq38+rdLCEAx6xbz7+iuf3QHShjLPEI1sLOAvWkSdPtTihqAGB7t8BNihaV/+dk7kUgT/z15NjnqqOXc6fS2EhrPUrOHrDqeBNtT1jl3AyCU75SZoZZy19X8T0TF1IhTFM0OG6O+x1usUcQVid6PVjUIoLktF0drOM4vUFI8D7fDXWWVLySYcVi0N2glkguNSGkZAMOWDehp/0tyqdMKRzsv509nt8crOiO1mk51rqhyx6/wKuSTyh2SeQC7/buoYpDIuBiXQCdgHMqVUJEtoC86b4A08nQLDkJwiaxKM0iBtG6TJct94szumzSYkS6YmJpSm3LNICxSae41mx5Ypv62vV1hUnoRQQnqk3b7vrApFSwEiSS8DhbyTysw==;Ihq52X2RXrTS69xHCqkTFg=="
 ---
 

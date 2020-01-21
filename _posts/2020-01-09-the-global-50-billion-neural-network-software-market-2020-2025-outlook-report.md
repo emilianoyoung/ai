@@ -1,28 +1,28 @@
 ---
 category: news
 title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/x5wn4g"
-publishedDateTime: 2020-01-09T20:50:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-global-50-billion-neural-network-software-market-2020-/2020/01/09/9079369.htm
+excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial neural network was completely neglected in the early stage of artificial intelligence development, then gradually recognized and became a large-scale ..."
+publishedDateTime: 2020-01-09T19:45:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 64
+heat: 64
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
-    title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-
-secured: "ypE8CW5gPukkBJeh5/Q6PvQjmVpRBaTWqZMC2SutxkDKvEL53RStzkga8kJPGpMSKfE/rL6TyQVb0KGtHKfhFDW5008oOjtUWU9ugGnXbQzKjJJIyxVdjj2DuZr5hL4ERPeLMQKdHzajKoLeYEnv9ZxnQWmfKnUEBO+OLo+OyZTuVPBLlQqa31ZODPiIsSBZw11vbNcwUYouhSe2vKO/kieTfLySTV9cYR483QPklgSkpk9zRNOf3UItu1dnYVhjxhUTSsUvMcPphJTyRtpIDpe3pzowNAf/mANus/4BpOg=;J5lLbvL4O9p5ZH9w2hSiig=="
+secured: "Ef/iKG1Y+ugvwWXuq6I09FpV9HY2U+xzBMpcwxQU8i1oE58WDUpFfhvAkaX2nOdxuqrX78qkMXfPQKb3eyUFpyCDCi7JhnSgKxZxR2z5GGELz8NaNvDpOdhK4anC/hKkXRkfbhf4cueq9qvqsRyH5X4ULVuDhz/03Vg8l/McFID47EEta1MtMYwW5DrAyMawZMtYWBSWYbGENCCAQYBD7axU72SSxHxvdlziNoX5bKDrbHVpyw5Qd/3msU0xNIBP/DkaWMaoshXKpLCnZA9F1gXCKYBXh7YmzSCi8nWt6/M=;9Bwu6bATb5pQrLcDOcQkTA=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "EU considers five-year ban on public facial recognition tech"
-excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
-publishedDateTime: 2020-01-17T10:49:00Z
-sourceUrl: https://www.siliconrepublic.com/machines/eu-facial-recognition-ban
+title: "US spends $4.5m on heat-based facial recognition that works at 1,600ft"
+excerpt: "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ..."
+publishedDateTime: 2020-01-21T08:12:00Z
+sourceUrl: https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html
+ampUrl: https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html
+cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: SiliconRepublic
-  domain: siliconrepublic.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.siliconrepublic.com/wp-content/uploads/2020/01/AdobeStock_230414646.jpeg
-    width: 800
-    height: 600
-    title: "EU considers five-year ban on public facial recognition tech"
+  - url: https://images.tweaktown.com/news/7/0/70038_01_spends-4-5m-heat-based-facial-recognition-works-500m.png
+    width: 620
+    height: 329
+    title: "US spends $4.5m on heat-based facial recognition that works at 1,600ft"
 
 related:
   - title: "Facial recognition scanners are coming to PHL next week"
@@ -316,21 +318,6 @@ related:
       - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
         width: 1200
         height: 800
-  - title: "US spends $4.5m on heat-based facial recognition that works at 1,600ft"
-    excerpt: "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ..."
-    publishedDateTime: 2020-01-21T08:12:00Z
-    sourceUrl: https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html
-    ampUrl: https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html
-    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: https://images.tweaktown.com/news/7/0/70038_01_spends-4-5m-heat-based-facial-recognition-works-500m.png
-        width: 620
-        height: 329
   - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
     excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
     publishedDateTime: 2020-01-20T17:27:00Z
@@ -437,6 +424,19 @@ related:
       - url: https://www.irishtimes.com/image-creator/?id=1.4142813&origw=1253
         width: 1200
         height: 630
+  - title: "EU considers five-year ban on public facial recognition tech"
+    excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.siliconrepublic.com/machines/eu-facial-recognition-ban
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: https://www.siliconrepublic.com/wp-content/uploads/2020/01/AdobeStock_230414646.jpeg
+        width: 800
+        height: 600
   - title: "Privacy concerns over facial recognition technology"
     excerpt: "The privacy professional community worldwide is divided about facial recognition and how, as a society, we should tackle this exceptional technology. Here in Australia, too, we are asking: Do we ban it? Limit it to prescribed applications? Regulate it? The revelation that Australian entrepreneur Hoan Ton-That's facial recognition app Clearview ..."
     publishedDateTime: 2020-01-20T04:45:00Z
@@ -514,6 +514,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "+Eoqt0htIwwxZGsUm4A8yxKHeMe5DkMu4AOBCbcmuJ3U5bbFAB2ts2Jcr4iOfGuzqtBlPG5dmZkPG+dDo+Hyv2So/z7oITuJuxvY7c1GnqKv3w+0N3bn4JNvGD8GSEv9Rd/fzGIBGWliuRY3CLH4981TSTGSc+goJYH0yr9ton5utKNaQqFrondzvVp2myMwCmm6dlR3/Zm+cmvMtJ8i7hcYizTYlN8M26ZwJcUFFEQUoK63X1H2pxCF4c9tFZFem6paRO/J9L0LndhOsIZCMHloEptGqUKZn/ZNHmBfa1o=;oeUdDOmm3K/CKIvRHfE5ug=="
+secured: "LzlS1Pr5WiviGIXVqicM8eQg45hc/e8wW2ONiFq84Ha+gZJp044gb/k7wiYxqyMIQFB8GV21p34s3Mp+D2HSsqnp6zej0HSunW/WrwORb0QU/vv8UEUBFmIZWYW94ujFget52kwiZlVAgEj4bF54FZPpRlbnhse7V6hv1lxP5fy8Gdg8HqLD8u7vd2hA3ptdZ5kMA0QYjFFAMtKUFZN8rRIMfkD0AqXKCxGeH8XkPG7Yg3hQz87/JDHFVDB9x3APuzbShWQIQMDTPK3PtMGjpqjhcVdxLIQ0/LWPo32NAoQ=;G8B5YZxQohTXFNAG+UslOA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T22:10:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/20/scientists-invent-robot-that-climbs-surfaces-like-spider-man/
 type: article
 quality: 69
-heat: 69
+heat: 71
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 447
     title: "Scientists invent robot that climbs surfaces like Spider-Man"
 
-secured: "DFrK931tO3d+VVTBorsnaKVSQFqDqq0AX27LweUtxllet2WfgV7KiObvTeQUmH1sNlejkq4ngp/8XykCSLbu+eJY1pIqcDFDSMfPNXsPskMsb0JrNVLgdMMrWwB6FvQ3kmEk7lkVPSrVaLUmEY1sAID79PW016ofK9cuCoX3feQUhvuWOm2ZxlUtrasAmUGEmEIilLfoHBmVnxtuQYQfo2ndo7P2xkUhZheA1J02a0YwZX0Fh1LXkPdYJbeqBQ5SdpJ7czxu/x8Y/9lGwaVRnYTfH/IVzmwJk0+K2qjfRjc=;AdfFY9gBv2bNC3axrhSxLg=="
+secured: "enAivealNp+DkcN7CS0wbIuggPjVpRWdlD7hCQ1ru7XpkEG8sDiOM1LfRXlKTCVrbeTSmCuuBk3iSHvZbkZPOjUVuKd3AIgs+NqeRcVH7dYOIbRv+8zUjH+aunXTS9Bd5BxWx1/MnPSffELYeKil7T2Hwl4TbesbYQGEtSVlU6Y/nUHv3Aa+WYl9aXNJJbYJhRdP3T8SOyw9RX4qEtjCDBzNAmYPMxL0e7inmn6zRr+oZftKtjJO5LzrmVfwNDLIPS8n9rk47Ry1teBoQqLx9MUdyJhdjRjM/IB7rOCYm7E=;e7WxccE9Hu/zG20kMvBoYw=="
 ---
 

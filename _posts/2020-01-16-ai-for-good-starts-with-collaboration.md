@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-start
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "AI For Good Starts With Collaboration"
 
 related:
+  - title: "ITRI uses AI to train collaborative robots"
+    excerpt: "Computational Intelligence Technology Center under government-sponsored Industrial Technology Research Institute (ITRI) has developed an AI-based deep learning solution for use in training ... Besides, tactile sensing is applied to training of robotic arms. Mechavision, a startup business spun off from ITRI in 2017, has cooperated with Japan ..."
+    publishedDateTime: 2020-01-21T08:06:00Z
+    sourceUrl: https://www.digitimes.com/news/a20200121PD212.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: https://www.digitimes.com/newsshow/20200121PD212_files/2_r.jpg
+        width: 336
+        height: 224
   - title: "PROTXX Launches Collaboration with Alberta Healthcare and Machine Learning Innovation Ecosystems"
     excerpt: "/PRNewswire/ -- Silicon Valley-based digital healthcare technology pioneer PROTXX, Inc. today announced a broad collaboration with Alberta-based"
     publishedDateTime: 2020-01-14T12:00:00Z

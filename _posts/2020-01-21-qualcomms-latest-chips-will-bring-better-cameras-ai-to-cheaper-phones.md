@@ -23,6 +23,6 @@ images:
     height: 828
     title: "Qualcomm's latest chips will bring better cameras, AI to cheaper phones"
 
-secured: "yJMD/QcDauFfMnAdtdVoIpS7f5aQhnQhJvtyAgHS4pND7uWd0aJYpRjxmfRHsF8gN5sMQMzt4XPDHKlo4eLhNBw+pcwK5HCn3uUy+aaZLIQMI7MjkSw1vHorUnDXo4tTlQ8oSMJP8tva8eLIHa6cNNFDeyujCosE7IdtqVIH8rQUokOdxMn12aJbySgPmuI7s0YYY3Ky7dfMpItzm7XK/H2PgHhN0z4QQ03fd+f5zjl+jc9r58boLGl9zFNMxFLh1g8cg2Q5yzuV+fk/sP7F7r9qrJ8stl3cMuMTe6dYfnU=;/uCDrRC45oM3SK4LEQ1X6Q=="
+secured: "rGZPDQHYFN+TjLSO3M62B5dJA7poRq+eueW8ItgHvAeC0hpX4XOPccUvUmWUgRYRycwkZOQRye6Vi+y43InUTaUYKQbiDFlJzM3plDvTf/9QUIryVNGiIpe8gJPCWXgJ6ZGNUvaKUa25gB95QqP9JkQy3hZ9h/jRfZ7fkUeWQKwgG6AlP9twM64NQxofCZ5GTB8bvAwLR/bCye41uR0zvWHEth8tlm7smftqUqozcdpQvAkdRfHsz60HRYOWmdxLhJ+6wSL0SB/0M7eziXsIh6neZnM88uZaJD6BaBH91VhgdV12D/fUmPObJDy0Vd/1sOhbSfYNo5mRXjyNFaQqwwn0znw5jxDfbSHhuMuoUTpy8Ek1Gy8CtZH3GDYzPLnmTZ6IkG76vsHKPWQgjhVMT+LKw6ADNr7LZZp0GgwfPsLNgrt5sysPfy9AzYW0Dj3y++hg/+BOatgKBgQmpD1P5w==;h/3WqdcFHGTOCkanWoVtzg=="
 ---
 

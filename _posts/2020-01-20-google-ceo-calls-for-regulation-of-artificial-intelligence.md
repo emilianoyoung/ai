@@ -361,6 +361,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "/UfmsrFbOA9hVvr0pGfGMQRuRIZk0Kxha8SZ3msLPKzSXGVVE4/Rh9T6lxVHwZBljI4oYzkEzfvEbkrfPHMwcZOYi3Lp2GhqlIjz1fex09ApMRtNDJBoIjttLycWjPsQO/D/SVZ7lzxpUKRIc+RpBxLr/mD7QKvNI2IknZxJ3CPFqM9LzYI6mjZj+psJnmMOCBRpXapwEC8J9/rPA+y1IO0vGv/gg5iN0wUx/dwusjopBjfPJ3/WvJO3sZS4njTG/kCwBgxDk/d6z9zTBNnpJi0wr7s8VqrD3fxMw74eZF4=;rk70gmJrDxVyzv/qUcGWXA=="
+secured: "K6QvazA5Cd8E4RMaQ8iuUmNg3XH+l7mr0c8HAqhhnOpc3R3TyfoOvpiep7r1xRRMZ8zSi2qiiU4aO4iv+IHmZQQrI7oy1iRlWdljw0dSPeolizYm3KKGAy/UKRSTbYZhgSErZztLz2Gh8Vnydbbk148FW80IVpFPc0BG4gDTMAzCkgOrCv6dwVioBg1oMdGR8TZbeDbwe1j09XesbcLp8MHbqe4Jn+OEAaLw84tLTaOp69pN6rrSmWXtSFvkfUL5RQJlg/nrjFaUTURiHlr19D8lg64gRNzjZtyrK8A21LQ=;rl1tEg18DpRyHat9PX+cig=="
 ---
 

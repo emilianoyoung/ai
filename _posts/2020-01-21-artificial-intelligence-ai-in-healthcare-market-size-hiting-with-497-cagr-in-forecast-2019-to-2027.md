@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
-excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
-publishedDateTime: 2020-01-20T17:47:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20
+title: "Artificial Intelligence (AI) in Healthcare Market Size Hiting with 49.7% CAGR in Forecast 2019 to 2027"
+excerpt: "According to Acumen Research and Consulting, the worldwide Artificial Intelligence (AI) in Healthcare market expected to surpass USD 40.2 billion by 2026, increasing at a CAGR of 49.7% between 2019 and 2026."
+publishedDateTime: 2020-01-21T06:56:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21
 type: article
-quality: 63
-heat: -1
-published: false
+quality: 83
+heat: 183
+published: true
 
 provider:
   name: MarketWatch
@@ -19,27 +19,15 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
+    title: "Artificial Intelligence (AI) in Healthcare Market Size Hiting with 49.7% CAGR in Forecast 2019 to 2027"
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size Hiting with 49.7% CAGR in Forecast 2019 to 2027"
-    excerpt: "According to Acumen Research and Consulting, the worldwide Artificial Intelligence (AI) in Healthcare market expected to surpass USD 40.2 billion by 2026, increasing at a CAGR of 49.7% between 2019 and 2026."
-    publishedDateTime: 2020-01-21T06:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
     excerpt: "Artificial Intelligence (AI) in Healthcare Market - Global Drivers, Opportunities, Trends, and Forecasts to 2022 Artificial Intelligence (AI) refers to the creation of intelligent systems that are able to perform tasks without human interventions and instructions."
     publishedDateTime: 2020-01-17T08:30:00Z
@@ -62,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 75
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
+    excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
+    publishedDateTime: 2020-01-20T17:47:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -150,6 +151,6 @@ related:
       domain: marketwatch.com
     quality: 15
 
-secured: "IElKg3igvqoMwfTEtcJn0DuoMugFIn69Wyzfx+V4IQis2par8OGH+iqZBRrXj5Jhp2Sei72z11Pwu5+48GRCcLjd4U0GcHwNstN7+DqcUlaCDPUgMuBghjx5l0ZK1thzBNizLHtSHbETtBoe1DgGYR3neaurpVhs9GtC4c4yusiRHoBcBAS7/ZC9Na4n1STOzD7EOBsWzX3p7IB2SWe6JkoUQyQ4dLRxq1dQ7s39zojPeDWGn1f9ALHBqotmsGodSmNAPY1my9it5NjquW0F2ja//k3Jt7FULX9eI1YmM8w=;1Yqr8W0i1FEsg4B5dnnb1A=="
+secured: "ijJKC5DDqTgOy7ot6HJp3K4DzwiwwPgYUreXEVmPKyfeIdYkegdbtl8Yp3Ba3GBT8GAZZ1JgpXXpkgvx41kMK57dBss1uiWP1m7fgsiQrpZrJdR+O7DdbtlDKEWZCM0w4ntupG0tNVk1hB8pqhIspEQ0cQf1sXbgkmstczMpKem6SUtZE/AXdS6ew9WcfhvMPtxuVoUoJ1kwqUOb2t/0Xitez9Zf4rfpbMyALtsnsHxhVTI18xilLlV3nuLctjIVcFKLoGv9hFTUmoznr8YnzUL1EdrFryTkCx9uKXUK3gc=;uqaGc94DRCPXNlaT57LKaQ=="
 ---
 

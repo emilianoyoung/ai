@@ -24,19 +24,45 @@ images:
     title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
 
 related:
-  - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
-    publishedDateTime: 2020-01-13T08:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html
+  - title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
+    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
+    publishedDateTime: 2020-01-05T23:14:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-image-and-facial-recognition-markets
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
     images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
+        width: 877
+        height: 432
+  - title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
+    excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality ..."
+    publishedDateTime: 2020-01-02T12:05:00Z
+    sourceUrl: https://apnews.com/Wired Release/20e8c5c9a540ea70c73effd0085b6585
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
+  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
+    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
+    publishedDateTime: 2020-01-05T23:01:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
+        width: 877
+        height: 432
 
 secured: "pT9B3FrbwkDIM+Hi5vYoGt6IzkaoyvSHUjU5no6A9gzYFjbgql6RyA8nzBazYEl3M+/C0icPVcMZzSPydEOSpqVvoFQDjZ3vzUWLN9VOJfMMMRUSNJrQQZmH+gSwvVRdbrr7gSL7nd7CyGGGeDFwgsTFnm7vBThZmrskgcU0KVS6+/cMfN/bP7ZJlyGBwg+aDIL6Km9+x4ESha73xe7UVqYd7YVGyYza1b0KryfqRqCHNql5KNWkeccvXWkNB5qMGGXam0PSp5T3YL85roNhMAAy0IgyYjUsz+3Vv2G4l/0=;ARAsQpVWVc15/JPGNjr79A=="
 ---

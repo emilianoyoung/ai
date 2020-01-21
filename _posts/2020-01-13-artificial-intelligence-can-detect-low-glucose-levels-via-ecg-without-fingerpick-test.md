@@ -104,6 +104,15 @@ related:
       - url: https://knowridge.com/wp-content/uploads/2020/01/AI-can-detect-blood-sugar-problems-without-fingerpick-test-.jpg
         width: 640
         height: 426
+  - title: "NO Fingerprick: AI can detect low-glucose levels via ECG beats"
+    excerpt: "\"Our innovation consisted in using artificial intelligence for automatic detecting hypoglycemia via few ECG beats ... that training the system using cohort data would not give the same results. Likewise, personalized therapy based on our system could be more effective than current approaches. Dr Leandro Pecchia comments: \"The differences ..."
+    publishedDateTime: 2020-01-21T08:28:00Z
+    sourceUrl: https://medicaldialogues.in/diabetes-endocrinology/news/no-fingerprick-ai-can-detect-low-glucose-levels-via-ecg-beats-62274
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 19
 
 secured: "4pSScGSSYDnQy4Kh1QhPeX58n225dIyrsxX2STeOdhZul+DJUlXu3Ye2sI9k1c6Tj+wCs+rC+MsG1JDI7LrLITXnzNeZ5jnh+TWSgqIUikFO8vTZzps53SU3rVdLm3xZrQNbwkDGFwkQrWdAYmoYbPEFSISUWUz/CC8vpApZc317KcrAsITcDYkmu6B50ConKrV7BDHxQcpQMjXW0c4PJfK5Bw7HZCprrnp7WhjquFs2Nj6ri0lSYyIy+t47b9WT661IvaHjroVD4xOKS5RVjHZ21jSFpRfqPDLAyRAxF+I=;F84Q5i2BJ/qxFtwESVf+KA=="
 ---

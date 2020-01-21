@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T08:05:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,43 @@ images:
     title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
 
 related:
-  - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
-    excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive the market growth. Other factors, such as increasing adoption of advanced technologies ..."
-    publishedDateTime: 2020-01-09T10:10:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/09/9078820.htm
+  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
+    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
+    publishedDateTime: 2020-01-15T22:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
+      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
+        width: 1447
+        height: 908
+  - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
+    publishedDateTime: 2020-01-14T03:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
+        width: 1200
+        height: 627
+  - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
+    excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
+    publishedDateTime: 2020-01-20T07:20:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15148602/battery-management-system-market-is-poised-to-hit-22-3-billion-by-2030-p-s-intelligence
+    ampUrl: https://amp.benzinga.com/amp/content/15148602
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148602
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "sUeM13tO/pzEl6nj7zqFvLWw0IIR24rqa+M746/Kh+CSsnYp0HDnkJHt52/4zgd5dT9vOKnU404aLBjmw2i35fuDW4UPfDsGzUnSRE26tnkR36E5YTbQvhVoP2Upk2jZfnfzFYSbTjorZP0wWyXGxBA+kme1rd+0LcCxzqCij8t9Rbp1j0eKqDjpFdiY9Pmlje8BX7ktsCaG30Q/otfOhORJSYgXNA710kFVzZJ+wsuIIC/FOd1bzqThjj8q02hmKFGNK+k5a1ocPoGexMJgklV7MVOq6qkPCY5FwSdDAS8nde+NyLXcK9rUr6Sgo3MKJhUHTZMR4n1787EPKjZLz9CJlz4XU5R9rlgaBjDrr4mMhogUr/jvCGdyV/z9OFStea0CAecdE+z4HTED/N7J84kZ1jy6CaNVNggz+pcRdbgdm/LXg4tQe8p1tpqS3PBVn66cd7swMJMP8knKTWY+dQ==;H2AyqRWKBOWbkbrLdsNaTg=="
 ---
