@@ -37,17 +37,6 @@ related:
       - url: https://miro.medium.com/max/1200/1*YaCKYPDAZ31OA5OgTT3tjA.jpeg
         width: 600
         height: 256
-  - title: "DeepMind found an AI learning technique also works in human brains"
-    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
-    publishedDateTime: 2020-01-16T04:58:00Z
-    sourceUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/
-    ampUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 56
 
 secured: "QQKziV7sfwdn5wubGv2tKirC1lUUYwaMdM9I3/sh3Aw3V2aq5LU0b1hA5fFz5Kjssuy/Ei6WdwW0LRP4+5jf2qZz03yaLqoxqXC2G6Gd4oXkQrajW1en5W5QSX1dUyeNPmqqabn8TqEf0dztc6c3L7ZO/Sm4AkdEdGFoQC14uk59pTsV5c3x+nzc8Rim3aqd8JY95Bvq6E4zsC0ny+VPQgr4gAwLySuS/IOlz33JKiU+TVk05FezjtTvHxt2ZxG/OFFUNHWugYwrxkJXUV5Rchxl6EwqbqeMxX2Sqez7Bsw=;6dXXs2tIBUoK2zY2V/Bh0A=="
 ---

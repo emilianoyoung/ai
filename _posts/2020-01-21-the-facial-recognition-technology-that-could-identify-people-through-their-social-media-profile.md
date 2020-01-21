@@ -41,6 +41,21 @@ related:
       - url: https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC
         width: 818
         height: 545
+  - title: "Israeli research centre hopes facial recognition technology can help Holocaust victims’ families find answers"
+    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research centre, which hopes to match family pictures from around the time of the Second World War with its database of tens of ..."
+    publishedDateTime: 2020-01-21T15:22:00Z
+    sourceUrl: https://www.theglobeandmail.com/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
+    ampUrl: https://www.theglobeandmail.com/amp/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
+    cdnAmpUrl: https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 40
+    images:
+      - url: https://www.theglobeandmail.com/resizer/UKrMk8jFHZgzhTNOjG9OMpC9vfk=/760x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/JQZ2GQZYXJFLHBX7PGB7C52SDA.JPG
+        width: 760
+        height: 507
   - title: "Why your palm could be safer than fingerprints or facial recognition"
     excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
     publishedDateTime: 2020-01-16T05:27:00Z

@@ -55,21 +55,6 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
         width: 1200
         height: 630
-  - title: "Google boss Sundar Pichai calls for AI regulation"
-    excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
-    publishedDateTime: 2020-01-20T16:39:00Z
-    sourceUrl: https://www.bbc.com/news/technology-51178198
-    ampUrl: https://www.bbc.com/news/amp/technology-51178198
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
-        width: 1024
-        height: 576
   - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
     excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
     publishedDateTime: 2020-01-20T14:45:00Z
@@ -259,6 +244,21 @@ related:
       - url: https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505
         width: 600
         height: 337
+  - title: "Google boss Sundar Pichai calls for AI regulation"
+    excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
+    publishedDateTime: 2020-01-20T16:46:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-51178198
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
+        width: 1024
+        height: 576
   - title: "Google CEO Calls for Government Regulation of Artificial Intelligence"
     excerpt: "Alphabet and Google CEO Sundar Pichai called for government regulation of artificial intelligence technology on Monday. “There is no question in my mind that artificial intelligence needs to be regulated."
     publishedDateTime: 2020-01-20T16:00:00Z
@@ -431,6 +431,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "yI+DGEN7sq3wE55Ac2XNsuK7/KL0kck4UifnaZbC09xAGpi41dVSGICLj1b+/mlP6XQdyhbQ6v1jMo2e63VMkSA1ZeUb/d0B5M6GU/ZUHzQFplOOQU1bO85nlwNO6AgTa2KKS/jC6lQ/q62rzlkoxeluOL0KhipyIiKSn4DdmX8sv7xcEB3aQ6kHzcjrpztGELjujsO69L/SjaQmTDFLGMhVUpAZzVcxPYL6Kf60fk1K8XnENntQG04IYODRMVT+8SdILW8QoQgP/O/NJ6MK1X4an7jvCr0r4000hyo2ccQB/aFJN4s+bjLHUhyMnLf473P/l/CK8TSspw0zmkMVrOvxGBB8K/v/Yxs7RDFnG7Pg6of6H+246QBNEIgZv51l2+q+ribTIK7WyUwgba0xYhl+Th2f20XzpXkFcUQWrgVqgm9i8qWsUbFM683ViMEGfF3Pxp90JGqXCmNKCcNsXw==;c/BhGPI3cjD7vB1Ts2E15Q=="
+secured: "Vyf6WWSDgnyNF+AXX6alHbuwsHe/ZQ/glvyYAcUedb44Z09f8F5rbe+zjRRvVEnOuLp27+bL+wlkUDWjBR8OrYfhkBBFc8dcPw8IIfQD1qrhchULmDFTQI7qPnYW80FpOsE4OzQtXKGTQ2iLBZNc8nSRMqMSUIkNPn51tYCqDNypfWfjSFysE6jfNWbDkkHYRg4Z6UXSCW66lHjuNVoeYew0fUpYJJUFLLbtu/bM9bx6rvJ5Fl5ujb/V8LG8ArYvFcjCmgj2+6H4R0nAN4zQJ58wSGa5eEt8GJaG/DMU2Fue2GyOSQeT1WB0A+GdCI70g3DL8PoX/SD1l19ZQg8Xc1CUUqqZWihpjPyH3n11HgTkhTGQdBIsinieCdngGl61P5Lhigp2j5w31ezdDSc1uuzQmoc7w7sR01nHpx/4oHv7ecHL/RcP5AIfX7+4BA1A+xBsr+EhEMktbr9dE3TTqA==;65G17YdqmWwF/s1X0s8w3w=="
 ---
 

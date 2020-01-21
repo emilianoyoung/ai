@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20200117/New-method-can-improve-re
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
+    quality: 49
+  - title: "Artificial Intelligence to Improve Resolution of Brain Magnetic Resonance Imaging"
+    excerpt: "This new model manages to increase image quality from low resolution to high resolution without distorting the patients' brain structures, using a deep learning artificial neural network—a model that is based on the functioning of the human brain—that \"learns\" this process. \"Deep learning is based on very large neural networks, and so is ..."
+    publishedDateTime: 2020-01-21T15:18:00Z
+    sourceUrl: https://www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging
+    ampUrl: https://www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging/amp
+    cdnAmpUrl: https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/2020/01/artificial-intelligence-to-improve-resolution-of-brain-magnetic-resonance-imaging/amp
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
     quality: 49
   - title: "Does Machine Learning Improve Prediction of VA Primary Care Reliance?"
     excerpt: "Health Care System, did not outperform traditional regression models. Welcome the the new and improved AJMC.com, the premier managed market network. Tell us about yourself so that we can serve you better."

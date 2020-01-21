@@ -1,26 +1,26 @@
 ---
 category: news
 title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-excerpt: "MINNEAPOLIS, Jan. 21, 2020 /CNW/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies to extend the offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, AI/Machine Learning and helping employees ..."
-publishedDateTime: 2020-01-21T13:53:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-powerobjects-an-hcl-technologies-company-announces-launch-a-/2020/01/21/9084341.htm
+excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
+publishedDateTime: 2020-01-21T12:47:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-300990290.html
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg
-    width: 400
-    height: 225
+  - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook
+    width: 1920
+    height: 1005
     title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 1200
         height: 630
 
-secured: "PPlSeh3EdmRR3wjLHstgVUJDl7ARgPJsA5LNS8plIjNnpZ2yp19bd00SGpxCU8ComSvIgb9JRBI5hZQZ4Ejbi5dUXpcJblHtaCYBPyvfRl4A2NWPktjM6bb2NR5/aYiFv2NTD5ADzucF6C6WVOwH9cSOYVn70+YfDqXDVeKJfHVeN8++RN9f3lWqB4qIPeleNq9pn0sA1sE9+GDHc/P/Hy6/zWOXAmYUp94Ooha1znoAEuFkSd3G3AVhH7OGoQTH+JWWQQ7ndmJ/GXeaghQEaRlFnJAslDOTmz55Tqk5mgk=;QyVD6yZEgwjDCCGQo731Lg=="
+secured: "3SYvPz1GDf+b4Gw15RmD4w5nLZm3pkhnrvvv7ilTVBhmsV1Bycha2wNltd6c4G07mNLpgJwFjJNFDWKfL1Z4ng1dcNDAYmfR3FMPhlQ9w2glpAnYfhrbvskgiV2h/JUXZecxF+yQjBtp8Wo8KOmJY42wce22dD/T8p8sxR0IO5GCfzBSVDea+tTmCDRiHuBEaEPW5Ywonye83ecKT7gowlzjzi61nd8voCmwFit6i6ipl1+H5f1OgtZp/CwYqLx3kfPpuyu/LjP4yoB1cubs9Dedq6OUMZgtSY+zW9+Vx2k=;8HtQGk6r6h7qagloe8HOKA=="
 ---
 

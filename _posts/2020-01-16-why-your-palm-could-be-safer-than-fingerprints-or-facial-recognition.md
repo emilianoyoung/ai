@@ -50,6 +50,21 @@ related:
       - url: https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg
         width: 768
         height: 438
+  - title: "Israeli research centre hopes facial recognition technology can help Holocaust victims’ families find answers"
+    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research centre, which hopes to match family pictures from around the time of the Second World War with its database of tens of ..."
+    publishedDateTime: 2020-01-21T15:22:00Z
+    sourceUrl: https://www.theglobeandmail.com/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
+    ampUrl: https://www.theglobeandmail.com/amp/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
+    cdnAmpUrl: https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 40
+    images:
+      - url: https://www.theglobeandmail.com/resizer/UKrMk8jFHZgzhTNOjG9OMpC9vfk=/760x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/JQZ2GQZYXJFLHBX7PGB7C52SDA.JPG
+        width: 760
+        height: 507
 
 secured: "LvronbTOXCcNdsPfu1b0HsjzDeJ0zujAF2J6U0V8BQ8J08+LYDWwSz7ygrWfT2CLCNrZBPPkZ8b48tO6dTbj70vBuz1Bdur8BDn/kcBjMMDew+SNlaeStn1KI10jHXp6sdOt8O58C7fbwA8ftRf2NNy3iKPeez3vle6et48abLcQksn/ZZhb1TDqM0QOUg4Ir1e6SQBCjYGrlTZRQRPpB2xbZlv4vXdyPRSLWSMm6oqk/OiRpTP+QPtRhe4Ov3J6DbMbW9VyQVE2AZ3pV8ooXrx0VO9gEvs/bNNO9YgYRQfxEFK8O/XiQ72P8yOdIBHsoGPy45vC4P7+dCE4Cf/MNVX19d1pfBLEQjUcpk8nldYBqdTFv5o7LJyNoTOmpi6Y1S5DMsvBxYF5zaXvhbQbAVlWEp7Xw4JJC4RQHrlHXIZFm8dpTf5ipN3CdX2EAnFY1Dr2eJ9gjJuOQMKFNbmy3A==;O5+xPyqDeu4BHDOICaH5PA=="
 ---

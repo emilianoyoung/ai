@@ -2,22 +2,18 @@
 category: news
 title: "Google boss Sundar Pichai calls for AI regulation"
 excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
-publishedDateTime: 2020-01-20T16:39:00Z
-sourceUrl: https://www.bbc.com/news/technology-51178198
-ampUrl: https://www.bbc.com/news/amp/technology-51178198
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
+publishedDateTime: 2020-01-20T16:46:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51178198
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -435,6 +431,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "u5ZxRDSakx6uaniNqtf5zKpQqo2QyDBrHzSXxTWW52yxWoBnkyFrmbxGwTnFG3POdG82vL84GfSG2tJbQ0WmHIDhwm7SSmPVdaoKgqY5JxGu+3I9vvPKwumH2n9Ol4IA9Wog/SiKmo1+N4pJ9j5ITuFUypsXt/iJnri5vx996qDayAei6fLMBCjjylT1l+5qObmQiVE43VmsiJKYRF7hA+1+R2xjd1d2OMWurtE+Bg7204s3Qb3OWwp7cxx1Fqy/DlM9H1nc14bryxUR2cCSSi0XvqpG7gi5TX9+ErkRQ8NPOFC07SmG3z7kg8bGwveEHUklqihHrD9KEIAsKcfBlbMSNrFrmuRgw2xsLVyZo9fDvhK8SG+hGM+dQOh83biAgK2Kj/3eJwBj6wBQbkblzff3W9d41+E3CBh7UwgeNjeNPfvxbF1wphL2kyp0qSgWerGkP5fcOSbNmPGsdM6cWQ==;A+K7JoVhn/RgQ2RGA3Qnlw=="
+secured: "Qco30Rd7/aKLHPhOnxZ3XsNMTlULv05wLX0Ckz2iAHjyRo1rckrjBe0LqWFfmvxWKsqVHrP4lGN6BFBvWFBCDwbmCvJN2+P+QOi+nS7+aqG1IMNB6JAT4z7MiZTEYeJi0MhDNZ3qugSF3Z7bZjXR1i38kgghaT5PTRELat4DBnHMAZBlCbuWpguFTcYgEwng1BchygdQmtjpHIjEzMj/lqb5QP2HyqrfRFs/w6+UrcrDFH2mOMq3tYBslHTnTdzRE/B87bT2WmX0jVrrDvWHHM3K9SGRnjNEXgqfUrfcU5w=;d0XkLtqoQWKb0d1TKPoiDA=="
 ---
 

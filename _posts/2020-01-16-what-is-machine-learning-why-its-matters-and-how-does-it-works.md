@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T00:26:00Z
 sourceUrl: https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     title: "What is Machine Learning? Why its Matters and how does it works?"
 
 related:
-  - title: "DeepMind found an AI learning technique also works in human brains"
-    excerpt: "Developments in artificial intelligence often draw inspiration from how humans think, but now AI has turned the tables to teach us about how brains learn. Will Dabney at tech firm DeepMind in London and his colleagues have found that a recent development in machine learning called distributional reinforcement learning also provides a new ..."
-    publishedDateTime: 2020-01-16T04:58:00Z
-    sourceUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/
-    ampUrl: https://www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2230327-deepmind-found-an-ai-learning-technique-also-works-in-human-brains/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 56
   - title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
     excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
     publishedDateTime: 2020-01-21T12:11:00Z
