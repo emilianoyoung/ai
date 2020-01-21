@@ -231,6 +231,19 @@ related:
       - url: https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg
         width: 480
         height: 270
+  - title: "Holocaust victims' fates could be revealed with facial recognition"
+    excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
+    publishedDateTime: 2020-01-21T11:36:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/Holocaust-victims-fates-could-be-revealed-with-facial-recognition-614797
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452167
+        width: 822
+        height: 537
   - title: "Facial recognition surveillance is authoritarian and has no place in our society"
     excerpt: "We shouldn’t have to change how we live our lives to protect ourselves from unwarranted surveillance (Photo: Steffi Loos/Getty) The fight to ban the use of facial recognition in public places is gaining momentum. Last week, it emerged the EU is considering halting the use of this authoritarian technology to allow for a proper assessment of ..."
     publishedDateTime: 2020-01-20T16:47:00Z

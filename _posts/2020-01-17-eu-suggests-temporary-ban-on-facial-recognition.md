@@ -218,6 +218,19 @@ related:
       - url: https://www.aclu.org/news/images/share/default_fb_share.png
         width: 1200
         height: 630
+  - title: "Holocaust victims' fates could be revealed with facial recognition"
+    excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
+    publishedDateTime: 2020-01-21T11:36:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/Holocaust-victims-fates-could-be-revealed-with-facial-recognition-614797
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452167
+        width: 822
+        height: 537
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z

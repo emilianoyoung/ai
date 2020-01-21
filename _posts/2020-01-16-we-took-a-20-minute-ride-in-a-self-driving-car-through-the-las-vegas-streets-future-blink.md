@@ -69,6 +69,21 @@ related:
       - url: https://www.irishtimes.com/image-creator/?id=1.4139382&origw=1440
         width: 1200
         height: 630
+  - title: "Is the future of robots in good hands?"
+    excerpt: "How robots do this is the subject of in-depth research worldwide, including at NASA’s Johnson Space Center, using different combinations of sensors, point clouds, object libraries, and artificial intelligence (AI), among other technologies. For example, NASA’s Robonaut 2 humanoid is being trained to recognise, pick up, and use tools in ..."
+    publishedDateTime: 2020-01-21T11:25:00Z
+    sourceUrl: https://diginomica.com/future-robots-good-hands
+    ampUrl: https://diginomica.com/future-robots-good-hands?amp
+    cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/future-robots-good-hands?amp
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: https://diginomica.com/sites/default/files/images/2020-01/Screenshot%202020-01-21%20at%2010.58.55.png
+        width: 1128
+        height: 882
   - title: "‘Rise of the killer robots: the future of war’"
     excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
     publishedDateTime: 2020-01-20T00:30:00Z

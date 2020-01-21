@@ -55,6 +55,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
         width: 1200
         height: 630
+  - title: "Google boss Sundar Pichai calls for AI regulation"
+    excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
+    publishedDateTime: 2020-01-20T16:39:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51178198
+    ampUrl: https://www.bbc.com/news/amp/technology-51178198
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
+        width: 1024
+        height: 576
   - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
     excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
     publishedDateTime: 2020-01-20T14:45:00Z
@@ -184,21 +199,6 @@ related:
       - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
         width: 1200
         height: 628
-  - title: "Google boss Sundar Pichai calls for AI regulation"
-    excerpt: "as AI becomes more embedded in our lives?\" she said. \"Regulation and self-regulation, via a code of ethics and an ethics board, might not be enough to do that.\" Google launched its own independent ethics board in 2019, but shut it down less than two weeks later following controversy about who had been appointed to it. Mr Pichai will be speaking ..."
-    publishedDateTime: 2020-01-20T16:46:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51178198
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
-        width: 1024
-        height: 576
   - title: "Google CEO calls for regulation of artificial intelligence"
     excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
     publishedDateTime: 2020-01-20T10:53:00Z
@@ -375,6 +375,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "hrvdUBCxkmWHO/zfkOTXqRG1DzIFqX0bvaAAERrydvHtqIJGevGit45jGoUu9obtvnrXS112uip+nq/iAhk5EDq+SfJYYTPtyRtY3rl10OYdcMFavG0/gCbjZKXf4Q6adcmqBAv27XFNzhk458x6MUHat3CIwo7CXaZqcRMVxS5lUMelSEOhnZ1KrUuz8FgYfWgq+KRd7NuZgKr0rViNx/qFohQpcWMFrG4Pv0N0BsNRoolO59ObpH8Wav/V9rvM/wXwWOgkmGquqoV5lQyOiOtKY1lU0SfpAefvILL83pCaKZBlPvv5C7qmWE0+G0Ijl0W2fokXzIoD82vtIH2S7Ako/zqIE2Ed+ZffPVxyNsy8q5MX4pfowJq+30uZ8sMIjRzJP73ki3pPSfgHMDMzX5YiveRsqwb8DNMjkNaAzR8UyrUPxyw+cbzzRQ9Bh05ym323veplkmNCsUbuhfWPaA==;JLYjteneTuVhQcywZLnbNA=="
+secured: "0VUdY0yfW4FelSRMTwOBY8trhvz72CyFeE5AD+Qgcwenpdn+6Q5Qptz/WbeXS38WiJJe2dXv16JKDUTSH1g4j6eCckTY+VQaqW33L3kMtq3oTo69w4RT1GTAXrKxPcD6FKre5CdDEal4jzlzRpeqmrCDRv74Q3F4idNySzKIza5vVV3bEZ3/PcPYasN0/2UgmsxI9s/Ti4U/KdhFw2Bx0cg2Ot3OPRR/wt8NTJXcMoVOFrePDcSrmbIQAx9x2anDy5c4RVNtFmSwgChSYjvlvK/ZS92hLbXNnXhQmv/xIeMiPSKxn3p/wuShFPEPg/4MczdJ0ax+Nmd9+iFDA2ckY+QcgFkQIyFsCBxPuq2rp8gNJoGHBsJTonGLrfU4p6S7yJ5OKysIf9Gf53/3WnqhZJ+zr6KUJQ+Tej3myGsjy9pk2CMFG9g4CIaWXUtNNSOr/Ml/8IKI3BaR6taI+tsX5w==;q4E5kHvRu7QWUYAn+/fSSQ=="
 ---
 

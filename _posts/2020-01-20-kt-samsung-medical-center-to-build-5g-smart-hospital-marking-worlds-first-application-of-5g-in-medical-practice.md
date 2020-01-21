@@ -35,6 +35,15 @@ related:
       - url: https://mma.prnewswire.com/media/1079015/KT_Photo__Smart_Hospital.jpg
         width: 266
         height: 400
+  - title: "KT, Samsung to build 5G smart hospital"
+    excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, an artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. KT also reports it has developed a 5G-assisted education programme in cooperation with the Samsung Medical Center. The programme aims ..."
+    publishedDateTime: 2020-01-21T11:08:00Z
+    sourceUrl: https://www.telecompaper.com/news/kt-samsung-to-build-5g-smart-hospital--1323491
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "JT8eRjXftRdPrUQ0SbA7Wl+4Xl1awLW+v0AgLnYgq3uW6N8zUdxAXsFmgjpoB4n1sn38lIsVclcC9VOqLLNGZir0I8cCYApnU0aiUENFeEEtk4sAOhQNYq6Bk92x2Hh8Yx80LDxWMt17DkS26mowqrWgKeONCLt1ZJoTJ5kXiFpLqVEYAbE9Zi5dRwHsVYJUMY921YzXeR6LkWsTAvRLDy0+hQ1smfRTdSPsS68gnmk1sNblISvcmQymcVSXvheXzhrEoehSbTk9rLLJ5BvB2KIOpbaxAD2Qt+7cTLAnIUeYemyKZjRoZv0ZgR2AudJ3IrCVgvzVUrV6q94bpoNalwQ7mM5rYKi4VJwMFrmtLyDvtRrZE30NWeoowFlkToOKO7Gmu3TO13pzwkvxajkYWxs+J99W0LQ4oBIPcsFvQqLvuPHwXSFAEZQ09Nqg4282bEsbjgy1f9t8TkbPhSOJcQ==;/KrB0zmSAanHklVFRJcGSg=="
 ---

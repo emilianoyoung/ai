@@ -82,6 +82,21 @@ related:
       - url: https://www.irishtimes.com/image-creator/?id=1.4139382&origw=1440
         width: 1200
         height: 630
+  - title: "Is the future of robots in good hands?"
+    excerpt: "How robots do this is the subject of in-depth research worldwide, including at NASA’s Johnson Space Center, using different combinations of sensors, point clouds, object libraries, and artificial intelligence (AI), among other technologies. For example, NASA’s Robonaut 2 humanoid is being trained to recognise, pick up, and use tools in ..."
+    publishedDateTime: 2020-01-21T11:25:00Z
+    sourceUrl: https://diginomica.com/future-robots-good-hands
+    ampUrl: https://diginomica.com/future-robots-good-hands?amp
+    cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/future-robots-good-hands?amp
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: https://diginomica.com/sites/default/files/images/2020-01/Screenshot%202020-01-21%20at%2010.58.55.png
+        width: 1128
+        height: 882
 
 secured: "HIvjsgicxRB3o/iW0iGqV0hX3qf5Y+Cks6FyIhutekV2Km2Jy+Wq6jvXwAQ2qRUhvzxK8lTwOfpMBro/zadPOR8T8lC46GIgy7v/cYBo/yVW7uLMT783w7QKHFS8gGjms0dnYzSpnPUiSLarjlzoGk8GHXqra7Zp0pxA4ISAet6SXnNaLDjClHs6zmT2KnkaMru4FrzUC/FkwHkuY+z/GXMnJmDMXgLn/E06UlrRwZvi3KFWA8C0V7mJ4q0BndMvQthFIAxys12XEGQkXxBEPlvlczHWDe9XlCTPH3H3vVM=;jLLCrubVFG9st/3q/Vo2rw=="
 ---

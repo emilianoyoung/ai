@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/
 type: article
 quality: 91
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -83,6 +83,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Learning Management System Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
+    excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
+    publishedDateTime: 2020-01-21T10:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/learning-management-system-market-size-strength-major-types-key-applications-and-opportunities-forecast-till-2026-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Deep Learning Market 2020: Study By Evolving Industry Analysis & Forecast To 2025"
     excerpt: "The deep learning market will gain momentum over the next six years with the increasing adoption of the technology across several industries including IT & telecom, retail, and hospitality to improve customer-centric services. The database of the customers is available to various platforms, which are used by the companies to extract valuable ..."
     publishedDateTime: 2020-01-16T19:03:00Z
@@ -93,6 +106,6 @@ related:
       domain: openpr.com
     quality: 18
 
-secured: "XxuGCFCTWlH2HMIXN5PN8J6gNNXg4bg8IIaOwPhVAUC0ojGs9YGWYWGgHvS2RRzOIumUICfb6ALPmE7H1sRcFib+2TcHiwuZgrF52VA59pxAVgp/b60Yt0M02mAmNXX4NAZ/m3EdCPYUL+28qGf726c0TsBr0ldS+3CUwDRIvuHa/f9bnG8zjzUw9YthVKWsmOAvat20Uk5DD1zC2j+5FnsECt3JJajzRIhlpb7PRu1ousr7M2HbNKAffzAYW1NKnVWfEYjDU2TWsap0ncY6K8RVz+mjNQmV6Hm6fAllxUTonhp1CWiQQNIokBA0OUOKqFNuP9fhr570X58iLZsW4TmCo1xWFMso8neHOwTzuHwO4L1F2wJEAxuubnYZ7NzU3Nfx6AhX239cy81XjS8h3EcNQ2R/q0vxVZY/rlEP73UWv0vC6L+a8MS1mNc9uLQmtQ750943I4ZWmvaqfe/tYg==;g1gC8DRgTrXAGFhPtSr9gA=="
+secured: "liEaEbLfLYczs9AG9fkzbRDtkxEjTcG9/5qXsD5hzWNWvXXkXr0V3SqmX+76gkfCvDkiYgWtuEE37fTRtOjwwrPmCf/YWDrnaorbtMguj28np+z5E5+3o0NfWJb1v8AIejKTAsctD3N+7qKLgFQcch0uOar6My3KVWwX2+aUKGjKdg9hsG88WhCguBUXUuKE6+GVcStRjfW7UDA9iPhjbgWEz+PB4fglw+sCBwMGBGkNHe/YIL2NhRkFOP1Ul+l36KVaeqc2yUqQx+cnlgETdoEyb4H0jjglqqGjhCFGeC3/JExGZfOI+vcPWwDnnKZ88/jz57F97mbYTgmBxhlS5xDVIPSooLOwImnU4KrjF6nTghEWF1Pu2or29mP5BwtiUfXFGO3YJLYuIfMqTDEQ079Ocm9ldW4JoH0d6uBNq1Em0sePndYJE2BqC3c6VSl6bHCGkBhVdQ3/CzZfRfaiNQ==;JNvhG0bGveIFhjJH8iekAQ=="
 ---
 

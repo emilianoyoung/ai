@@ -41,6 +41,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Collaborative Robot Market 2019-2023: Key Findings, Regional Analysis, Business Trends, Emerging Technologies and Future Prospects"
+    excerpt: "“Collaborative Robot Market” global collaborative robots market is expected to generate a market value of USD 3538.46 million by 2023 growing at a 54.22%"
+    publishedDateTime: 2020-01-21T10:25:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15152359/collaborative-robot-market-2019-2023-key-findings-regional-analysis-business-trends-emerging-tech
+    ampUrl: https://amp.benzinga.com/amp/content/15152359
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152359
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: https://www.abnewswire.com/uploads/1579605621.jpeg
+        width: 800
+        height: 435
 
 secured: "3/c0lu74/tECsipJfXudAhnnpe1ba+d/9LGSwAdpVSXNding55Kg/GucHObQLATa5wISrjsDlWpBzz0OhcZuMcwufhmo98FUlZCT0qMaT0uNJXMqhpEppnLCRpDk3hxZqxWJzV8pN2+W+hGUrucLx4aPsd72kT2EiBNhF+pgWf/1OyBhdE0r9e7FPajIZdrnMk+dg2tH81s9a5K9t8bWhJYaHL7FZm+QfURr+TX2V4Ir5v0srGYevtBxpBbuwHNGacFT8L7k8NIBbNpNeKfdRCjatKlubKI8jopp9hzsmD4=;1cT+1vr1Y7DZdSPeSj4uxw=="
 ---

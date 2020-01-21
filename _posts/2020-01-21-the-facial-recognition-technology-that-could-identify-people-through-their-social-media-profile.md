@@ -26,66 +26,32 @@ images:
     title: "The facial recognition technology that could identify people through their social media profile"
 
 related:
-  - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
-    excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
-    publishedDateTime: 2020-01-18T21:39:00Z
-    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt/
-    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-nyt.amp
+  - title: "Facial recognition could help discover fate of Holocaust victims"
+    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
+    publishedDateTime: 2020-01-21T11:39:00Z
+    sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo/facial-recognition-could-help-discover-fate-of-holocaust-victims-idUSKBN1ZK150
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 85
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F18%252F70%252F2b1b4ace8b224d6384a8c1f7260572fc.e70ff.jpg%252F1200x630.jpg?signature=aZyPGadLiymI3dJjpvv7OE2nG20=
-        width: 1200
-        height: 630
-  - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
-    excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
-    publishedDateTime: 2020-01-19T01:10:00Z
-    sourceUrl: https://www.dailymail.co.uk/news/article-7903225/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
-    ampUrl: https://www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+      - url: https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC
+        width: 818
+        height: 545
+  - title: "Why your palm could be safer than fingerprints or facial recognition"
+    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
+    publishedDateTime: 2020-01-16T05:27:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/19/00/23576338-0-image-a-40_1579395253729.jpg
-        width: 636
-        height: 382
-  - title: "An obscure app has scraped 3 billion photos to use for facial recognition and is selling its services to law enforcement"
-    excerpt: "According to a report from the New York Times, a largely unknown company called Clearview AI has been scraping every inch of the internet for photos of faces in order to train facial recognition technology. It has in turn sold access to its massive and comprehensive database to hundreds of law enforcement agencies including the FBI and the ..."
-    publishedDateTime: 2020-01-20T20:16:00Z
-    sourceUrl: https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989
-    ampUrl: https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp
-    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 34
-    images:
-      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/20/bd31a271-ed90-49ee-b7f5-d2b30bce6220-shutterstock-1108927796.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
-        width: 1200
-        height: 630
-  - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
-    excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
-    publishedDateTime: 2020-01-19T23:18:00Z
-    sourceUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1
-    ampUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1/amp
-    cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp
-    type: article
-    provider:
-      name: Business Insider Australia
-      domain: businessinsider.com.au
-    quality: 7
-    images:
-      - url: https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg
-        width: 800
-        height: 462
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
 
 secured: "oTieLp9ywZ/fmiMh8d8iVa2XRLGJ6ZZMP9Rri4dZH1LxX/g9lv9ejYqQ7Qo1FAWoV2976Yf0ky86nI5dpaexbblz90Cj/kVsvORoCOk1q8KiOJWY6SSFYMBegL4ZgI8AG4A/o8GEdLo47oY6txEqMZcCti8HbmDFEX2Xn6V4xB4hvIyhtSFeuK14tKgYwedz24SrWmtzgQ2gvQLJNm5DdOJx4/Yqwt/FO4z+gHaP6XMyYYWlz/CZxop9O/wMXLKNfWwN3he/ZwsMxRfIHsRGKgDYTBjFuS6h32K9lm5rboqMhXzhqjbWjYWO24BqqQoSFMKVJzX20Ew9KeQcdBkzJaBQcsg8DxWxdeqFbrtKJU+Q8QOcOIFNILtKctSPsV9GJRUac8TF5uUKP7U6UsdNW9RXnwYuW6n8jqOs9EQi0YHHkELv90QZNGZboYerfH/obZUud5XhDQpn1qWCCVgPcg==;41Dd6PbZekLrQMKmfD+g3Q=="
 ---

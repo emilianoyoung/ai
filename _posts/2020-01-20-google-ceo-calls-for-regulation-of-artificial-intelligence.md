@@ -56,6 +56,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
         width: 1200
         height: 630
+  - title: "Google boss Sundar Pichai calls for AI regulation"
+    excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
+    publishedDateTime: 2020-01-20T16:39:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51178198
+    ampUrl: https://www.bbc.com/news/amp/technology-51178198
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
+        width: 1024
+        height: 576
   - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
     excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
     publishedDateTime: 2020-01-20T14:45:00Z
@@ -185,21 +200,6 @@ related:
       - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
         width: 1200
         height: 628
-  - title: "Google boss Sundar Pichai calls for AI regulation"
-    excerpt: "as AI becomes more embedded in our lives?\" she said. \"Regulation and self-regulation, via a code of ethics and an ethics board, might not be enough to do that.\" Google launched its own independent ethics board in 2019, but shut it down less than two weeks later following controversy about who had been appointed to it. Mr Pichai will be speaking ..."
-    publishedDateTime: 2020-01-20T16:46:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51178198
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
-        width: 1024
-        height: 576
   - title: "AI must be regulated, Google boss says"
     excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
     publishedDateTime: 2020-01-20T11:48:00Z
@@ -376,6 +376,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "fYa8EyRZnjLp9f/YFRDhb7otjYWzor6EOE1PbMlaTDoAJzBgxg16a9QwACd70yt5rdoluA8rLr3yMTnpTAjYtIiuttavPsrO4GNZ74s1ySBJmq9NLKNoqxU6iEtmlUbUUQTOv+FKP03OJdxu+zCCAhCqzqtBbvd86oti3+gszuFej7Zf8x4qzCZ/oY8V5dXqvGj67P1ClU5uu1Mx0sPKi5mHVhmNuyAfzjhoLIdyQMIEEx7SJmx7j2RrAhrteN3SqgCxUz90/mLcSnn4b0/vFHyrBeqIfuKbo+iznqgJMhQ=;beGjtLuS7Yhvpgr0lSw4eQ=="
+secured: "moqiMNJsgoAZTdLMst8g7HFRCqHm/lcCJMmbLJATI9AhgaBmw8vXWxBdraX3wnWeuJMjnsXymv0viVoGg9jXlAY1gMpjWbCyWFp3FI2BjS8HwFG8S+hxSq4F0aSKohYKCb9vRuiSH3+iW0/upetKdEqyWkeGaWRdmQSrXPPu0SVO5JrsFtj+Sd/prW6rI0MFuujX/w0xbDZFxhRwXTNlFbseYohwYS9jd8jaHUUjlzQaAlW4OT/QOB/evAmQVwsWzkrPiZav0vwrtAbBfOoRs3Ai/5CRQOvM8xjkiR+zlXY=;CbCmuUpPsIEWv/Ul1zaHkQ=="
 ---
 

@@ -26,6 +26,15 @@ images:
     title: "KT and Samsung Medical Center to Build 5G Smart Hospital"
 
 related:
+  - title: "KT, Samsung to build 5G smart hospital"
+    excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, an artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. KT also reports it has developed a 5G-assisted education programme in cooperation with the Samsung Medical Center. The programme aims ..."
+    publishedDateTime: 2020-01-21T11:08:00Z
+    sourceUrl: https://www.telecompaper.com/news/kt-samsung-to-build-5g-smart-hospital--1323491
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
   - title: "KT, Samsung Medical Center to build 5G Smart Hospital marking world’s first application of 5G in medical practice"
     excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. Access to Digital Data and Video Footage The 5G-powered digital pathological analysis conducted by SMC is a world-first example of ..."
     publishedDateTime: 2020-01-20T10:38:00Z

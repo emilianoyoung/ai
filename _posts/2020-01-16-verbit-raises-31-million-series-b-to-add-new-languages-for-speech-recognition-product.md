@@ -39,6 +39,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Snyk raises $150 million at $1 billion valuation for AI that protects open source code"
+    excerpt: "“Snyk continuously monitors the applications and alerts when a newly disclosed vulnerability could impact the customer.” Above: Snyk in action AI, machine learning (ML), and automation are playing an increasingly big role in the cybersecurity sphere — just last year BlackBerry doled out $1.4 billion to acquire AI-powered security platform ..."
+    publishedDateTime: 2020-01-21T11:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/
+    ampUrl: https://venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/Snyk.png?fit=1301%2C579&strip=all
+        width: 1301
+        height: 579
 
 secured: "YOZUOln0uVn6wwhVRnqnjuT/UCJOeCTEfWmYiSZslRME+SYuukGLhwXBAKtCE4Ew4x51WO7jkNtY7YImNvGBPbdqbYWzysKRWEZoIZPXe5Bp6OHLgsDUTrilym7JU9Wa7YS67H/Xbk2uxqbEw4UXjwyKhJjqr2MFRSdKoH1OrtWfuf76WnlcDWwn2NjVXjUvSLSFpD1A0r2cVZpEF7aO+I0ljqg+BUYSRF6WwVaOUel0jNZzpK9aVwoey5FRQnRu31xD2sKbdP95liqON7uQn8f12zrIl1DHVCwLd3Wv4Vc=;vNM6D0a4dSnkBHkx7qh1cw=="
 ---

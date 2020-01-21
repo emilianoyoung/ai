@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T03:54:00Z
 sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-20
 type: article
 quality: 52
-heat: 62
+heat: 72
 published: true
 
 provider:
@@ -40,6 +40,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Collaborative Robot Market 2019-2023: Key Findings, Regional Analysis, Business Trends, Emerging Technologies and Future Prospects"
+    excerpt: "“Collaborative Robot Market” global collaborative robots market is expected to generate a market value of USD 3538.46 million by 2023 growing at a 54.22%"
+    publishedDateTime: 2020-01-21T10:25:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15152359/collaborative-robot-market-2019-2023-key-findings-regional-analysis-business-trends-emerging-tech
+    ampUrl: https://amp.benzinga.com/amp/content/15152359
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152359
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: https://www.abnewswire.com/uploads/1579605621.jpeg
+        width: 800
+        height: 435
 
 secured: "DguTOIflMdfApSqpf0Xxod5/rPCIjGJQZ8i1EdLPr0Fy7DrUe4IsFFPv+FrzSUPMCCROzAgqRaePSJDk/vgpsYvPcenFu+slAAlefE40nSLNRs8/XZPfdSIqph32xv1gKinzaRiZYeJz7pFxjNFg/lTnBmcxcabMDMRoXYOGfAkwaYTJwS0qvKToDtBIISDlC6/XcaOBNt3bE7y4LUauc+y3F1f521FFcEFvSWTcnCVdUfZX0pebxNlwCsXQ5KRnY8VHMv/RxZ8OK9pb9PvpU5TBtxnXqSaATWN/A9mU0ck=;aVdlie9F9NhC9P7GFEkKtQ=="
 ---

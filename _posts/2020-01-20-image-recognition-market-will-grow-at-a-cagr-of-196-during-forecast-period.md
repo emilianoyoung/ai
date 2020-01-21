@@ -82,6 +82,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Learning Management System Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
+    excerpt: "Top Players in Learning Management System Market are D2L Corporation, CrossKnowledge, IBM Corporation, Edmodo, Cornerstone, McGraw-Hill Education, Saba Software, Inc., Upside Learning Solutions, Oracle Corporation,"
+    publishedDateTime: 2020-01-21T10:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/learning-management-system-market-size-strength-major-types-key-applications-and-opportunities-forecast-till-2026-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Deep Learning Market 2020: Study By Evolving Industry Analysis & Forecast To 2025"
     excerpt: "The deep learning market will gain momentum over the next six years with the increasing adoption of the technology across several industries including IT & telecom, retail, and hospitality to improve customer-centric services. The database of the customers is available to various platforms, which are used by the companies to extract valuable ..."
     publishedDateTime: 2020-01-16T19:03:00Z

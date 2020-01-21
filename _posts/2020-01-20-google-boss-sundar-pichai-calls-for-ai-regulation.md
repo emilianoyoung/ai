@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Google boss Sundar Pichai calls for AI regulation"
-excerpt: "as AI becomes more embedded in our lives?\" she said. \"Regulation and self-regulation, via a code of ethics and an ethics board, might not be enough to do that.\" Google launched its own independent ethics board in 2019, but shut it down less than two weeks later following controversy about who had been appointed to it. Mr Pichai will be speaking ..."
-publishedDateTime: 2020-01-20T16:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51178198
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
+excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
+publishedDateTime: 2020-01-20T16:39:00Z
+sourceUrl: https://www.bbc.com/news/technology-51178198
+ampUrl: https://www.bbc.com/news/amp/technology-51178198
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
 type: article
-quality: 59
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
@@ -376,6 +379,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "T8t+Sr9G1xrgPEpIfRcFDBAZ0F4/D7tn9gPlAwfIkRJTbpJ0c759x0U2OD5NQOQ/K69C7fRrQzE2vXdtZy31EskHRfHFCvaRpSLXA9Skk5FCJnDw5er3xXaqObSt859c8TBOSKFK8FAJqApAuTyecKd/mXZeIp3bBudg1nFevER7rIwcqxDUghISRBx3nWfMfnchTbXs5HobYf/bLAKdREydUo/GTC8YtYqoc45K6VZOWb9k/qrM0I41zq66rT58PqMs7cct2Cowk6bgfRPKL1yLO9WH+T/hKkKVgSNttLPitIwFpirEnd2zMdl15CM3blYZNtvOMF3ugtSq9nLGCkCyKqVWXZUO4YYQb9E1poYLn+HggwwqGESAxKQJ2rmPRjc23X/B0SBEfyiJYhV68n1ttzBk5REt/9dqO2FF7Vz6qEBM3ZU7KlyCiQLccwC67xaYoXI/Msl50OEELzvykQ==;Kqz+cVJrAGn/3oTL1N1OGA=="
+secured: "EbBrx6JUa68FwQBU9/bAwJwmHWgpTHXWsmljEcpRL946v8ywZC+eLYHqhN0sL8yvxpinYnv3gLpaftx0/D4vy9pYTfFtNr61AlNn3G/EcU9K+yJ9XVa7faKIk/x1NoUXn/1B87DVE11NrZJJSqQVUwprC/hBBg5lPHvntCfd0PjuI+fUYVsah+diXtoDje3Ak+ysM97vnSoymri4F06etFfISZLThz9cgp6GNpzE9PtGfnHRh9ElTI/ET/Nv1s7wDTpC2f8ncpdDfcwKg/gqtLd6IDDs04ztIHIyHlUZy5U=;DLKEZqgfgp+/rG6er+wHaA=="
 ---
 
