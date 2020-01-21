@@ -27,6 +27,21 @@ images:
     height: 630
     title: "Progenics Pharmaceuticals Announces Presentation at the 2020 SNMMI Mid-Winter Meeting"
 
+related:
+  - title: "Progenics Pharmaceuticals Provides Update on Reconstituted Board's Ongoing Strategic Review"
+    excerpt: "The Board of Directors of Progenics Pharmaceuticals, Inc. PGNX, -1.07%, an oncology company developing innovative targeted medicines and artificial intelligence to find, fight and follow cancer, issued the following letter to shareholders: January 21,"
+    publishedDateTime: 2020-01-21T20:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-provides-update-on-reconstituted-boards-ongoing-strategic-review-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+
 secured: "AATjKhPq+ycx316lBFejh2XaIkuHfHbTU1OPNl7yPp4TzkKQ7kf767s+FiAlweVEd80DXF4r2rOq/O83R0fvQ1AB96TPH98ePxBotS9s1vHXueZvSQJ10wosMucxrWcaVzgG5vcXy700LPjlJiyKeLkDrppWYfZzixpwSApp511kgAPK/7/Ykb41xVVk6Y6jwex802Q9040PEHxBW9Prev1dc2uUCt/TwKdtdN7WRN8HlpCmM8BBJ/mJaZGkBtaBPvnl8Yy1MVwcRissOB9Mq9ZsUt5lHVVzAHv8wyhhteE=;dHgpEcpvwc0VIHyyDBlr5A=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence Market Increased International Technology Trade Opening New Opportunities 2026"
-excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include ..."
+excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in ..."
 publishedDateTime: 2019-12-31T00:00:00Z
 sourceUrl: https://medium.com/@monicak221297/artificial-intelligence-market-increased-international-technology-trade-opening-new-opportunities-264224a5a10
 type: article
@@ -21,6 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "a2AUhu2QysMJy7FxMjl0ibcE7wcX7apCPwJ2GDTQfUyH9dI2pcThUAbnB8nAxewUJ465IOBMKqcuebDBqNVgKXkTuYfHIb6K06vuKt0gwJewNe8SY3a1F8gKBFD9DVoVWjUuDAnHcT4F29VpgUdZdiTzWYweslUqsV+hi3NfVGk23AAyC4F1FA8gH4HBtUUmvRAdKWADDrfyOnXiBWB3amtbs7s2q4l3tK9szt3I51qf3f4gh38DwCjEaZWS9b+Ac0lMbcUyp+YTgYXLa6lAWDXZ0YHKwOmO9cQs8CrBRJ0=;u/tJMqmaDI4A4REETXIrgA=="
+secured: "DG/tkpeT40gAG6cgspJ+lfzUOO1WeemrLoPFFAo+VJgTFP4lh2H+TAxDI8ZLcUmtcfqqdw9G7coRp4csGh1UExp4wSAir8Co9GwRO/eGlt7GRg4t6yZpk94IH4mA4J1pestt+uhE6LDKbskEMzG6eWPQwACZ4ZyTnrs4eiQF69uhYUENXtO+f1FRwGVStymPkm7T2awsKIn07GMRsDQ5vqIsJBg+dhYy454mdff2lpeby9WByF9RC/BJ4pceD5pYq4fk0q40xKtpwzbhKY0rA4c8XSl51bKmO4msl9Q1gUc=;l2jKIvFx9XxMpSX52xdL/Q=="
 ---
 

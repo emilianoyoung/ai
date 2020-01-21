@@ -4,10 +4,8 @@ title: "Artificial intelligence can now track down blood cancer"
 excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
 publishedDateTime: 2019-12-26T11:12:00Z
 sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -19,29 +17,26 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
-    width: 800
-    height: 448
-    title: "Artificial intelligence can now track down blood cancer"
-
 related:
-  - title: "Artificial Intelligence can help detect blood cancer: Study"
-    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze."
-    publishedDateTime: 2019-12-22T10:51:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of ..."
+    publishedDateTime: 2019-12-23T17:46:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
     type: article
     provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 59
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg
-        width: 675
-        height: 365
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
+    publishedDateTime: 2019-12-26T12:48:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 19
 
-secured: "dqlIcB0pp0kFyo2eBq/3+HVamvbbaLfjzIs00X7eNENKc2nFOgQUCPh1b1vLW9qMJurNTqoSybyDQyIjl5XszxGWvCMJRljIRtYaYUvauLpyIgJS1eQ3xcaiBxNE7sN4a9+b8lfF63ykGI8JO1hO8iqd+Iv8ic+LdGR+IHYnsWN7UKaS/4FsqgZyDPBEtR1vvdFGayQj9MtNYhPd+ewHjyhA3cloO3J5EJaM69YFURlCA+ReZiyyrrHODARFxhR8pDem8Mf92IM3KonLO/29hnro/Qob/vwzpu8mdWqX0CA=;+EkI7KAWxN+kvzx7Rs6xUw=="
+secured: "kIhFg6YVCbLivX/gqwv4an7A6Y8JXJXVssDyy1Xb4m3+BOv63+TUCQsAMWU/aEPMLsWmSGgfclBHyyxy73sPsgwD/ThzvxZlOjuxVoDAkZgw9wMh+HySA+EOr4oHpxuBF3jXHwtYqisEaIW0Dsil+IZ+2rh5MCuZ2tiXkSx9ZP1oln4FSpP7tbyTVJEIFANyDvqvXWCAxG7NQl2nkoFIzTMhxXJcc3uuxPSesadbHQFdJfGY2TIaSZpTPkLjJeE5cFVWnoDzbWW8goxjr22EtmX5xEv0iEATg8hS1F35gEw=;Gb4mhhU7zx4GenAg95iapw=="
 ---
 

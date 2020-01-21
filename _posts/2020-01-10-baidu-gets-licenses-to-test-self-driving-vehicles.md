@@ -27,7 +27,7 @@ related:
   - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
     excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
     publishedDateTime: 2020-01-08T10:21:00Z
-    sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
+    sourceUrl: https://edition.cnn.com/style/article/ces-toyota-big-smart-city/index.html
     ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
     cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
     type: article
@@ -69,6 +69,15 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa4e8f394-313b-11ea-a329-0bcf87a328f2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T18:04:00Z
+    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 4
 
 secured: "jNdhofDM/IU/lQZkH40B3j0VMUd3TIpzzdMicppexs27NxzRh63R3IhlKs9IOoS5GslrPEzMbDkAuQkFgTWYFh4BvU4bx0nZ9lKsawFXWBpN2KlDqY44a8SteH+12wVZQryJI14BS96W3Dsu+Ar8hR6XOlzJHPrEyCbHpuebe6t12CKBCDVDBQzq4HgMgplNGxwJUDuwGb5bWroRop5Xho0G6m8FJOu1OmiUaH8SsSXFvc/Ll1W6ISRHKxOJIrY7Q3rvu/BUctfrJSRsRISeFhmflLzv7mr8CmdBhyxlSjFD663Bh1b8idGG9aVF8gxDWHAPxB2svrJ/nuukde95JJB55xn1iwYgZfBB0bqfqrvssj9Q1YpxGeaMXtfzJWkQMy0cckw/NHCURebGQ6atDiW0qyUlQFPIyHrS+dvB5j4uQZGYP8kxXZZgtxVN8QndpzqQO8dzxb8rPr1xFrtfrw==;cicDhMRb6RN1Bm2IMHyWdA=="
 ---

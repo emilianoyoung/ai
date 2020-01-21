@@ -41,12 +41,12 @@ related:
         height: 455
   - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
     excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
-    publishedDateTime: 2020-01-20T12:25:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
+    publishedDateTime: 2020-01-20T12:39:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Australian Techworld
+      domain: techworld.com.au
     quality: 7
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."

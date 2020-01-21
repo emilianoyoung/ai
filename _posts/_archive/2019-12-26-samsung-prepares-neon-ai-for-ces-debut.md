@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Samsung Prepares Neon AI for CES Debut"
-excerpt: "Samsung is preparing an \"artificial intelligence being\" that could become your \"best friend\": It will debut at CES, award-winning director Shekhar Kapur said on Twitter today. The project, called Neon, comes out of the Samsung Technology & Advanced ..."
+excerpt: "Samsung is preparing an \"artificial intelligence being\" that could become your \"best friend\": It will debut at CES, award-winning director Shekhar Kapur said on Twitter today. The project, called ..."
 publishedDateTime: 2019-12-26T11:06:00Z
 sourceUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut
-ampUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut?amp=1
-cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut?amp=1
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PC Magazine
@@ -23,12 +21,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://www.pcmag.com/images/pcmag-social-share.jpg
-    width: 997
-    height: 1201
-    title: "Samsung Prepares Neon AI for CES Debut"
-
-secured: "5XpSWbPWX33BfvpSfXgc/qdRhnS+OWotzAs2z5GUedsOCNfkX1tZwMn8DxG0+CJ3Z8oGeymgYAKKnoGQVJdUqwsIJ/h9K7/BjuumR60YSHxKihsh0b/UYFtPymJrphPedOtibgzcU5ckM4k4kiHntMxr56hbU729iXK2OP4Agjxdh77+z6+THC4+fjkYA/FyAkN9/CrGTYN3+rQ7oggnUVcn8Z3HLP+oJr7HQpf7wzTHIurc29+1AQder6NofPvbADh2fsOTUwT8o/3tDfyTOhQgaUJbITTfV7/tlwaQ3IY=;F3st4S9f6OGPxKuedaL3zw=="
+secured: "xwSOeNDDnMzRttG6CzGWMROKUNxFn87JuZQQNKG66RXJcOenhzRV7Rk8HcKLehbKw9JO5Ya5daEh6m47V57CveS12E8gww63UN1mRfc1vt0xakF5XGJCq05Zx1G9IfxNXhdagZ8k48Tdov6Wou8CGcajsmWeMHQY5xod2nrIhoIJkEkH1m4QQVlh8zl5La8oxHKKJErILM7dNf55Sbw9k3mWfc9drIVsnBeHyZ9867Yok22pEdnNYZbiTZ56FAO3d+DbER9oBJrzGiDMyEgf1Thu2AmmaOTn5/DEpdgJd28=;mM49qhMGtg4KSbaUTHPGTQ=="
 ---
 

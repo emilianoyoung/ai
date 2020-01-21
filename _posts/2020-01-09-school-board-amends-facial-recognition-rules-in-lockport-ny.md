@@ -26,36 +26,62 @@ images:
     title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
 
 related:
-  - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
-    excerpt: "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ..."
-    publishedDateTime: 2020-01-16T16:46:00Z
-    sourceUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition
-    ampUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
-    cdnAmpUrl: https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
+    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg
-        width: 620
-        height: 349
-  - title: "Go read this NYT expose on a creepy new facial recognition database used by US police"
-    excerpt: "Hundreds of law enforcement agencies across the US have started using a new facial recognition system from Clearview AI, a new investigation by The New York Times has revealed. The database is made up of billions of images scraped from millions of sites including Facebook, YouTube, and Venmo. The Times says that Clearview AI’s work could ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    sourceUrl: https://www.theverge.com/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/20/21073718/clearview-ai-facial-recognition-database-new-york-times-investigation-go-read-this
+      - url: https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=
+        width: 1200
+        height: 630
+  - title: "Speech recognition and voice commands for your site"
+    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search and speech recognition technology cleverly, but is it ..."
+    publishedDateTime: 2020-01-04T10:34:00Z
+    sourceUrl: https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 82
+      name: Medium
+      domain: medium.com
+    quality: 69
     images:
-      - url: https://cdn.vox-cdn.com/thumbor/yOeSDRl6VhpTPutJboexnMFrrT4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132463/jbareham_170417_1617_0001.0.jpg
-        width: 1400
-        height: 933
+      - url: https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg
+        width: 1200
+        height: 564
+  - title: "What is Voice Recognition"
+    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
+    publishedDateTime: 2020-01-11T11:43:00Z
+    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
+    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
+    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
+    images:
+      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
+        width: 600
+        height: 271
+  - title: "Sensory Does Voice Recognition Without the ‘Net"
+    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
+    publishedDateTime: 2020-01-13T17:25:00Z
+    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 24
+    images:
+      - url: http://share.opsy.st/5e1c9ca535b08-google-home-mini-3739710_1920.jpg
+        width: 1920
+        height: 1280
 
 secured: "R0XSvyU9oOFRbXfl72XCL4OUvdx8HkINjVp2IR3o8uky3IDcL5Hcb3X59JtpfIy6QL8JAD4MvxpibJUVYSApx5RbCIs8tvSHGM06jVUQmrtZeLzqN0qSk87FFFsZ+lS2UERrnxJKwlzIX23/AikQrWJAe3mcq0z+zgmpOu1R/uM6+sNZy9c1lpF9iDqCyoYtgWIjNqiNwj+rv3VH5buvs/0nBIbmpd4wPdEIwJCNMMWZ0CsLLnBi52a9ba2Y4Z1JH0Y9xBj5l8oMPLGumByiFP/GQcCLGXSySOEZMPgwNBs=;fgr7q/nRZ3OuhJPvOcuX2g=="
 ---

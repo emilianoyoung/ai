@@ -58,36 +58,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "Congress moves toward facial recognition regulation"
-    excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
-    publishedDateTime: 2020-01-15T19:27:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/
-    ampUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
-  - title: "Banning Facial Recognition Isn’t Enough"
-    excerpt: "The whole point of modern surveillance is to treat people differently, and facial recognition technologies are only a small part of that."
-    publishedDateTime: 2020-01-20T10:00:00Z
-    sourceUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
-    ampUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg
-        width: 1050
-        height: 550
   - title: "Google favors temporary facial recognition ban as Microsoft pushes back"
     excerpt: "The regulation of facial recognition is emerging as a key disagreement among the world’s biggest tech companies, with Alphabet and Google CEO Sundar Pichai suggesting a temporary ban, as recently suggested by the EU, might be welcome, while Microsoft’s chief legal officer Brad Smith cautions against such intervention. “I think it is ..."
     publishedDateTime: 2020-01-21T11:51:00Z
@@ -129,36 +99,6 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
-  - title: "UK police use of facial recognition tests public's tolerance"
-    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
-    publishedDateTime: 2020-01-16T20:55:00Z
-    sourceUrl: https://www.sfgate.com/business/technology/article/UK-police-use-of-facial-recognition-tests-14979724.php
-    ampUrl: https://www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
-    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
-        width: 375
-        height: 211
-  - title: "Las Vegas police use facial recognition to arrest assault suspect"
-    excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
-    publishedDateTime: 2020-01-19T17:04:00Z
-    sourceUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/
-    ampUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
-    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 59
-    images:
-      - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
-        width: 600
-        height: 400
   - title: "Supreme Court declines to hear Facebook facial recognition case"
     excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
     publishedDateTime: 2020-01-21T15:55:00Z
@@ -317,21 +257,6 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/UfZPqWvHAnhiMM9LBmGWAn-1200-80.jpg
         width: 750
         height: 422
-  - title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
-    excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
-    publishedDateTime: 2020-01-16T06:12:00Z
-    sourceUrl: https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/16/facial_recognition_congress/
-    ampUrl: https://www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/16/facial_recognition_congress/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 21
-    images:
-      - url: https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg
-        width: 1000
-        height: 563
   - title: "CyberLink and VIVOTEK Announce Strategic Partnership Combining Facial Recognition and IP Surveillance Solutions"
     excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced a strategic partnership with VIVOTEK (3454.TW), the global leading IP surveillance solution provider, adding CyberLink's FaceMe® AI facial recognition engine to VIVOTEK's IP surveillance solutions. The new collaboration will be showcased in VIVOTEK's ..."
     publishedDateTime: 2020-01-16T18:39:00Z

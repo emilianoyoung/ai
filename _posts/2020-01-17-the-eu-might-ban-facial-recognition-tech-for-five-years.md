@@ -99,21 +99,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/sundar-pichai.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "Google CEO backs temporary ban on facial recognition"
-    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
-    publishedDateTime: 2020-01-21T17:22:00Z
-    sourceUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar
-    ampUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
-    images:
-      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1
-        width: 340
-        height: 340
   - title: "Sundar Pichai calls for moratorium on facial recognition"
     excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
     publishedDateTime: 2020-01-20T17:43:00Z
@@ -144,6 +129,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary"
+    excerpt: "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology."
+    publishedDateTime: 2020-01-21T22:04:00Z
+    sourceUrl: https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary
+    ampUrl: https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true
+    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
+    images:
+      - url: https://www.pcmag.com/images/pcmag-social-share.jpg
+        width: 997
+        height: 1201
   - title: "Microsoft disagrees with EU facial-recognition ban"
     excerpt: "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ..."
     publishedDateTime: 2020-01-21T10:49:00Z
@@ -303,36 +303,6 @@ related:
       - url: https://www.thehindubusinessline.com/blink/talk/xzq9q3/article30105303.ece/ALTERNATES/LANDSCAPE_615/LEAD-IMAGE
         width: 615
         height: 384
-  - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
-    excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
-    publishedDateTime: 2020-01-19T09:50:00Z
-    sourceUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228
-    ampUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 58
-    images:
-      - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
-        width: 1024
-        height: 768
-  - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
-    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
-    publishedDateTime: 2020-01-20T06:48:00Z
-    sourceUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls
-    ampUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 57
-    images:
-      - url: https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagevmji-1579496216280.jpg?fm=png&auto=format
-        width: 800
-        height: 400
   - title: "Facial recognition tech tests tolerance of public in Britain"
     excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
     publishedDateTime: 2020-01-17T05:15:00Z
@@ -473,6 +443,17 @@ related:
       - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
         width: 800
         height: 500
+  - title: "Google CEO backs temporary ban on facial recognition"
+    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
+    publishedDateTime: 2020-01-21T22:40:00Z
+    sourceUrl: https://www.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
+    ampUrl: https://amp.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 39
   - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
     excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
     publishedDateTime: 2020-01-21T09:14:00Z
@@ -553,15 +534,6 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 19
-  - title: "Alphabet, Microsoft Disagree On EU’s Proposed Facial Recognition Ban"
-    excerpt: "Microsoft President Brad Smith doesn’t agree with Alphabet Chief Executive Sundar Pichai’s backing of the EU’s call for a temporary ban on facial recognition technology, Reuters reported on Monday (Jan. 20). Pichai pointed to the potential for “nefarious uses of facial recognition” and favors a moratorium, pending regulations."
-    publishedDateTime: 2020-01-21T05:18:00Z
-    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2020/alphabet-microsoft-eu-facial-recognition-ban/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
     quality: 19
 
 secured: "G+MimykWLBtaGLCV80zj5XkqOA4b8x/boRekKHpTxL3WEx2e3aGGDFS6FGlKVXrU8Ms7fKccWqn1UVmmS6pH3GSnPMT/mgce7+giAs28s6Z/3iZMDXQs6m2axtfqDkXUDHRSgd2VB6D/9ICqvrcbdkwHcdQzh7zl8YeJGf8CAxtt6NpRalacx49XISQ7d7TN3dNG7BCSCSom0yL8xivSeQoWiZ7/fGXs7khz0I8qqG8M6SVuX2fnwsg1beSiiFQR8df7w4bJmizl8wGJ6+P77Cp8U/LY13MZ0wJA5SnbzDtKaOTN2ytzGi0t1bB7TAWj925J1w+xTaGl00OhxZPdklnIE9WZdr3jpGMmvWCAMZDFdy00gsnjmBUPiOLmv8KakxbGl1poZtNYk2yPoOmDyaTzuHxVlRGm8XMMS8FNfJtSvPqHmWTQUydbKHsl2ndZ+/HIjsClUB4JFKlM5Bf/9g==;lmm5fhnGIRGJeSz4dggN2A=="

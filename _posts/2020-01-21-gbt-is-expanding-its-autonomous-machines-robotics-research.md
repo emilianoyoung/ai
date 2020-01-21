@@ -4,10 +4,8 @@ title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
 excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
 publishedDateTime: 2020-01-21T12:06:00Z
 sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15152568/gbt-is-expanding-its-autonomous-machines-robotics-research
-ampUrl: https://amp.benzinga.com/amp/content/15152568
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152568
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -34,6 +32,6 @@ related:
         width: 600
         height: 256
 
-secured: "okPAvkv5v+gtMUMkX+7hcj3oLBV6vgTo0yxMPc2RCRBAi77tZAYxi70qMxAfFWLh7IOJ8j2XGm5jZPQ6ND2hYKsbrKZfF850L9dv1otJOAqnf7dFbggHIStX8OzcFHiX17rkcboQtD/J8cJS18d2RyMCE7Xu2fPTqsCZw5uVByx+AYr1R3JQuCWyG6dZ14A8ax3ss7XbBkmBNrfCIR+eSHr9QRr3QKQx+QGwptRM3MPsnc0ZuQhwc0QvhZ3Zwlm30pO2/AJeKOXQFho82sqttRWD7PpOg23MDMYafZsNRNM=;+D82Khb2cClOS6kpkONrdA=="
+secured: "ZpjGxtZjEZf9HwLxbx/Sx1/qmER8GNqSLH6p8wUQR9BYKOwtYUV+NVMsQIUQ54/l1qK5MQ1U7tq1s3DcdU9xjvuN7zDt5fMsE8JlkiZHCM94mDmy/o+xUULFm5Ax8F6xHpZMIuLB89UBv09561Tds5oKy3OuM0ic64zEsPrh0vKjYmq6qy2S1CTRhUt+u0odZMbYMv8/lewMb2sLF/KNcajEwoX5YYCS62PwGwcZuiv9LZuBhPki/p9+hNK0oL8gvKlN4ARMxlUpBfwsJ0sHpQc3g5mRAcDBQBU4/QbMJ+Q=;iDitrLjPBNfH8U3yzVQJTA=="
 ---
 

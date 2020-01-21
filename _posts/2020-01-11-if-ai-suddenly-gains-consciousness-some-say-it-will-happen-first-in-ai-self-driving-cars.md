@@ -46,6 +46,21 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/zDwZYvo4k1HcO2tTSho5Vwl76h0=/0x0:2559x1664/1400x933/filters:focal(1076x628:1484x1036):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66122889/1189070708.jpg.0.jpg
         width: 1400
         height: 933
+  - title: "Why most self-driving car companies use these 3 models"
+    excerpt: "Russia's Yandex and China's Baidu have programmed cars to stop at streetlights ... The cars might have different logos and sensors on them, but underneath, they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that is basically autonomous, but still keeps the human driver in charge."
+    publishedDateTime: 2020-01-21T20:54:00Z
+    sourceUrl: https://mashable.com/article/self-driving-cars-most-common-vehicles/
+    ampUrl: https://mashable.com/article/self-driving-cars-most-common-vehicles.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=
+        width: 1200
+        height: 630
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z

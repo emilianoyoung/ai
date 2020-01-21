@@ -7,9 +7,9 @@ sourceUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/
 ampUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/amp/
 cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 159
+heat: 159
+published: true
 
 provider:
   name: 9to5Mac
@@ -25,6 +25,6 @@ images:
     height: 500
     title: "Macworld speculates that Apple bought Xnor.ai to make Siri smarter"
 
-secured: "ClF+PGskDyFUux8FYRaDMlBeeZ7jOotJWRWsKEFp6ZNeF2ZlRsKGBehuEx0n8X5FKs3CdfzK3iP5o+QF4QS/FUhNJqnJBYLJTU35G9XRevnbj3gHWJnEUYv0XR8JjY/8xbelWpo6Cpdy2kZRlNaRdnWW0i6cP9dDCvOkAo7l6jwbwtIWlFA39xWf1qaDnufUU0EdfddSva9p+bh8sDC9YoMzfqfL8SvgBMkol+AcZ2d3rk0Cobxr36iiMreXHB1Sy7DTAsEKKdzvQTICCk8+ICC5Lfbzr0A/e3PKlLmpi6N/knNpgUyr8l07GUWbn4scrrjMymXc5D9cZeTbg3+bLo9TxJgkBairGxqcFKROyVsFw+uFGKtK4MhHXh1/xvPtcVWT4PLPCzCP86ilTDyAab2WURXg46iPJwvV0DuJvlVcJJA6b1sIT+0sN95HR0hWbQeQR8ef1w4bVcp6mpoWoA==;qtoOE8Wb/a2aD97Py5zU/g=="
+secured: "fXnoCYthrO1HSIyTpguMas/I44rq+2A9PhU9FL9kW4SNPHzVXzvc2uMsQNav0cutYGKaeW9VE++bWiuIsaiYCKFf6WfjGUPixVG1cWxLM321XBYpqPSOe5uY/ZEZS1C+ssHrmd0AOLSRRwgE8xaOxRSbFTw6TUwPyw675eA2FgZOyfbCPOBiEbxGO7zhEGCD+CI+iWu80f4xqTOlUqNwJIZKe4rm44SI27qjRQKQILzMiYEpR0bBPZ6wTUOpuscUz7e5VR5u2NB9BubWMFALY1AyofQAiDGS6jI+thPSpK+rFIyNUg56ZUNOFtDq7pNoe1F5/1Tz7lodEXLOsYK+ZYjQ7msPwMlSp5dUfuMWIp4VTU9xyyYtTcQojPVYdGKThHmXBdA0oz0d+wvnuVC43fokI8BiMf6ervo+ganxWWzjIW/nfP+hK8DDRhC/87YBUDugJWHJapOaYyP2XWh7eHfP3jEE2UlQESq56PdizPA=;0xJpkOFX4yMXx9Ttqddobg=="
 ---
 

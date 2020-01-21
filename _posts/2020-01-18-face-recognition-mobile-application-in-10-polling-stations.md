@@ -8,7 +8,7 @@ ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile
 cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
 type: article
 quality: 59
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     title: "Face recognition mobile application in 10 polling stations"
 
 related:
-  - title: "Australian police using face recognition software as privacy experts issue warning"
-    excerpt: "Privacy experts have described as “very dangerous” revelations an Australian entrepreneur has developed facial recognition technology that is being used by US law enforcement agencies, allowing surveillance images to identify suspects by matching their social media profiles. The New York Times reported on Sunday that Hoan Ton-That - an ..."
-    publishedDateTime: 2020-01-19T08:55:00Z
-    sourceUrl: https://www.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
-    ampUrl: https://amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
-    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australian-police-using-face-recognition-software-as-privacy-experts-issue-warning-20200119-p53ssj.html
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 33
   - title: "Speech and Voice Recognition Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
     excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
     publishedDateTime: 2020-01-20T08:53:00Z
@@ -50,17 +39,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Telangana Municipal Elections 2020: In a first, face recognition app to be used in polls on pilot basis"
-    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app in a bid to counter impersonation by voters on a pilot basis in 10 selected polling stations. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
-    publishedDateTime: 2020-01-20T05:24:00Z
-    sourceUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/
-    ampUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 23
   - title: "Machine Vision + Artificial Intelligence: Transportation's Fast Lane To Innovation"
     excerpt: "like people, modern artificial intelligence algorithms are capable of learning and becoming more sophisticated and more accurate with its predictions as it acquires more data. This scenario is not as far-fetched as it sounds. Already, applications of machine vision and artificial intelligence exist in manufacturing, health care, and transportation."
     publishedDateTime: 2020-01-14T22:24:00Z

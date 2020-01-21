@@ -4,10 +4,8 @@ title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chin
 excerpt: "Facebook says it has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
 publishedDateTime: 2019-12-23T00:00:00Z
 sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
@@ -24,33 +22,21 @@ related:
     excerpt: "Facebook Inc has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
     publishedDateTime: 2019-12-22T12:55:00Z
     sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
-    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 59
-    images:
-      - url: https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG
-        width: 600
-        height: 337
+    quality: 19
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
     excerpt: "Facebook and Twitter on Friday disabled a global network of hundreds of fake accounts that pushed pro-Trump messages and covered its tracks using inauthentic photos generated with the aid of artificial intelligence. The use of AI to trick social media ..."
     publishedDateTime: 2019-12-23T17:48:00Z
     sourceUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic
-    ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
-    cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
     type: article
     provider:
       name: Santa Rosa Press Democrat
       domain: pressdemocrat.com
-    quality: 50
-    images:
-      - url: https://www.pressdemocrat.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=IoktdAPaofuOCHF8kByEO8$daE2N3K4ZzOUsqbU5sYshv6chUSi$HtNZaW3o0N7sWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
-        width: 800
-        height: 533
+    quality: 10
 
-secured: "E3rcyOt0oqJTd5vM1EIrReoNHC8XIvW0nwJlTIyOcqyc4vzVN0iixKIU08xGt4ea/tLQMPnNDrDkcBawxXlcJmsw9G9qnR3qURow9V3TAvp3LWCrSAV53TlyIXUBvcLMgoYIqxNFEl/kHTaj+IjjEaeHTcuEYNJJFxYiZyckh+iLB7j0u/D70bavS94OHxMQxs1L9diNnuFtndkmXaeGx+eltFbHRFwCBg9puuq3Rhwa9xgG+d0e7Dr4YSun7M2+EpRXQHapDQk2IODsiAIBEzAFr7Ib11RXn22ft5yVnoE=;GTnHAeUuuu6NcoTBaUHXLA=="
+secured: "Pe0lFAH15MxxPyrasAB4GhFyQkEW44hmP0sK3Rrw6APFXGiSFkUVMVNoYLsTM7tIwVVAv0ztDlWiR3tPzx49stN7rmewp5PwzX5KNV6mQPEV7wEdzic2Hwzn8EZZDeA6/8fiITJsO/dtRhVmfdAj4IynNQLOYO6/smdDHzHPiCH6NkDxB6zi1FaLQMInPbcluzzMySdubbBN0EM1+KvfV5wqgRy7DAwglL1EiF5vU789bwT4WcKZEQS5Aqbq+7N2VXzQYjXbfp6mmQeO3f1eiUxfHVy2SmT14o33F7bw8oA=;BqD/2JSygJvAN1dD7EWu5Q=="
 ---
 

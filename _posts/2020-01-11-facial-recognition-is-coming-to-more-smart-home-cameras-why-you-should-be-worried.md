@@ -71,21 +71,6 @@ related:
       - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
         width: 1200
         height: 800
-  - title: "EU considers banning facial recognition technology in public spaces"
-    excerpt: "The European Union is debating a potential ban on the use of facial recognition technologies in public areas. Facial recognition-equipped systems, such as those found in mobile devices and cameras, are advocated by law enforcement as a way to track missing persons and as useful tools in criminal investigations. However, critics say this ..."
-    publishedDateTime: 2020-01-17T11:56:00Z
-    sourceUrl: https://www.zdnet.com/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
-    ampUrl: https://www.zdnet.com/google-amp/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-considers-banning-facial-recognition-technology-in-public-spaces/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg
-        width: 1200
-        height: 675
   - title: "Europe might ban facial recognition in public spaces for up to 5 years"
     excerpt: "Facial recognition technology may soon be banned in the public spaces of the European Union. The European Commission is considering a temporary ban, lasting 3-5 years, on such technology in public spaces, for private and public organizations alike. This is according to a draft white paper on artificial intelligence, obtained by Euractiv and ..."
     publishedDateTime: 2020-01-17T14:41:00Z
@@ -159,21 +144,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all
         width: 2215
         height: 1353
-  - title: "What you need to know about Clearview AI and its facial recognition app"
-    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
-    publishedDateTime: 2020-01-20T15:36:00Z
-    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
-    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
-    images:
-      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
-        width: 1024
-        height: 512
   - title: "The next big privacy scare is a face recognition tool you’ve never heard of"
     excerpt: "The global debate on the use of facial recognition by governments and law enforcement just got a lot more intense. Over the weekend, the New York Times’ Kashmir Hill published an eye-opening piece detailing a relatively unknown firm offering facial recognition services to roughly 600 US law enforcement agencies, with an image library more ..."
     publishedDateTime: 2020-01-20T06:22:00Z
@@ -213,21 +183,6 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-3.12.42-PM.png
         width: 987
         height: 554
-  - title: "How the police use facial recognition, and where it falls short"
-    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
-    publishedDateTime: 2020-01-14T01:50:00Z
-    sourceUrl: https://www.orlandosentinel.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html
-    ampUrl: https://www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 59
-    images:
-      - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
-        width: 1200
-        height: 960
   - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
     excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
     publishedDateTime: 2020-01-16T21:03:00Z
@@ -243,21 +198,6 @@ related:
       - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
         width: 1029
         height: 630
-  - title: "US lawmakers concerned by accuracy of facial recognition"
-    excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
-    publishedDateTime: 2020-01-16T04:43:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51130904
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51130904
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51130904
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11DDE/production/_110528137_gettyimages-1139859279.jpg
-        width: 1024
-        height: 576
   - title: "EU considers five-year ban on facial recognition technology"
     excerpt: "The European Union is considering a ban on the use of facial recognition software in public areas as it considers how to regulate the technology. The ban would last between three and five years, although exceptions could be made for security and research projects, according to the proposals seen by the Reuters news agency. The plans have been ..."
     publishedDateTime: 2020-01-17T14:57:00Z
@@ -333,43 +273,6 @@ related:
       - url: https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg
         width: 300
         height: 225
-  - title: "US spends $4.5m on heat-based facial recognition that works at 1,600ft"
-    excerpt: "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ..."
-    publishedDateTime: 2020-01-21T08:12:00Z
-    sourceUrl: https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html
-    ampUrl: https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html
-    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: https://images.tweaktown.com/news/7/0/70038_01_spends-4-5m-heat-based-facial-recognition-works-500m.png
-        width: 620
-        height: 329
-  - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
-    excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
-    publishedDateTime: 2020-01-20T17:27:00Z
-    sourceUrl: https://tech.co/news/clearview-ai-facial-recognition-2020-01
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 53
-    images:
-      - url: https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg
-        width: 1920
-        height: 960
-  - title: "Chinese City Uses Facial Recognition to Shame Pajama Wearers"
-    excerpt: "Local officials apologized, but the crackdown on a common — and comfortable — practice has raised a rare outcry over privacy in a country accustomed to surveillance. BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,"
-    publishedDateTime: 2020-01-21T15:50:00Z
-    sourceUrl: https://www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z
@@ -498,19 +401,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
-  - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
-    excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
-    publishedDateTime: 2020-01-15T20:10:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/lawmakers-working-legislation-pause-use-facial-recognition-technology/162470/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
-        width: 400
-        height: 400
   - title: "Researchers developing facial recognition wearable for emergency service workers"
     excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
     publishedDateTime: 2020-01-16T21:22:00Z
@@ -539,24 +429,6 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
         width: 2176
         height: 1578
-  - title: "EU considering 5-year facial recognition ban - report"
-    excerpt: "The EU may impose a temporary ban on facial recognition technologies used by both public and private actors, according to a draft European Commission white paper on Artificial Intelligence obtained by Euractiv. The document states that a future regulatory framework could “include a time-limited ban on the use of facial recognition technology ..."
-    publishedDateTime: 2020-01-20T10:43:00Z
-    sourceUrl: https://www.telecompaper.com/news/eu-considering-5-year-facial-recognition-ban-report--1323310
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
-  - title: "Battle over facial recognition technology"
-    excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
-    publishedDateTime: 2020-01-21T09:53:00Z
-    sourceUrl: https://seekingalpha.com/news/3532936-battle-over-facial-recognition-technology
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "nloHn0rUJvxefcdtgXv/8Vojr4Ws3NGuhOqufedZC9HdKEYA7axVbg6KjUAyj8WBi+XFHOtT13g9A1+jUREOdn8VOelI6idiy4hqe6y/ZjSD+71cfXn+Bq5JkkyTnKtcDYSVKqhjdWiGpy6bWBtdiruJc4Hb73EqIwFxr7p8t9LNJ1x7xL/3eaJvqHAQ7TDMqXSDo2cbkseo26IrxBfkmrvxuk9A6Rprljms2NRfDz70jvA8GhuNIht/moouC/afSgHl3TYjRs5Iop7vvMJker5x0MFNKXi0D7onMnYDwATwR8khhd97wn2tKckpA9v92kgcvvWsauWhltFtvIycSaMKvd8DKVU5OOY7ahbjak0yhG4FE6rCs/UwLn5zxFGcquGr78uiPlpnVG7yRPD/P3388l2Pqg1O/+JLDxDRRFVqsQQIrdoH3Gl5laZpiJl4+3nHwzTWuYdjcYA9vfmW6g==;hqBn5vLinyo9mbtZihWvWQ=="
 ---

@@ -25,6 +25,6 @@ images:
     height: 667
     title: "The Tools of Generative Art, from Flash to Neural Networks"
 
-secured: "pY9xcOiGmNyErGDA66wk9+phQsImQiaFuY3EZpmOp2zZRcsgY2G7eiM5E+L3xYRuTKJi/299GfxqW8Psplv2RxOlLDLxVtC9kT218APmxJu9dkHDLXVdjkh/RF+tXg6wbw2Xvj41d18tjLmMicevcIif7i0jhp0YhmENNW8EL5b9wR+ueCeya8nlskn0s3u8V3Sj8hdSv/BuV4Yv3h6LXmkDq25THiu8wu1wzUC1YIV+NVYix0ZF85iIbdodw8qIrMLnNkqv3mNoaHdPiJ+LfRwWdScsVgtSrdgdJFXj6fg=;53RtHAfuUSvlNFHTAeuazw=="
+secured: "DlDFoiO9jotv8fdgaTRREYyobCaBpK4IJ7vXBqOtMoyDXkS8DjduvJJn0o/m+wl/2MkwY9QMxbunhaRIMCGqQFYLHa/3NeT/93fFA3ZbEEf0/S2uSilI02iBjmSrVELO6DJTN8gqS74tA1rjqrV3iqymC1VJhwjC+z20FpT4DyaMe1waBNePgswbVwjkoxO1jasy2cwgO8e/p/jjFEUe6DtE3zDdJfRYrtHiOqZIC6nSmiOIarwlpfZZo8JBsdDnT3d+fxwG1/Axg/hMM1egutL5/gAZNR8WZT9LUdzCBi/mMz6Xgb5eP2ELymS+FzvaZJUwPC8B8a1Sh2dClCUHj9LTDpAKMcaA+t6abR5qaOdK6LcbOi5STirq8hNAvorJDdFyYO3FqfxBPJvwQzqqlaDzmzwIH6svYkqwyKvX2AcCnM8uqerG/fLCVoFHojP5YfRad0vwit3sxFH626yJfg==;p6XZVOdPmFE4SDuB1QPzUQ=="
 ---
 

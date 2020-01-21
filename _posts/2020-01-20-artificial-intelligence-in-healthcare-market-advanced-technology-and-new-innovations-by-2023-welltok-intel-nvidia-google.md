@@ -2,16 +2,16 @@
 category: news
 title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
 excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
-publishedDateTime: 2020-01-20T12:25:00Z
-sourceUrl: https://www.arnnet.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
+publishedDateTime: 2020-01-20T12:39:00Z
+sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
@@ -56,6 +56,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "/vpvBBdUBNht3cHiXBPbiQFD+hTXbnz3hI7tnB4OSWEYcH+dj/YMnYB1/8U37aOfyNIe6bC8XjbrHqpkj4E6WqzR1Dp+JQ6YR1ey3L9AWChMg8LIRFv0U8CQZiQoHM6hNCNTzJ6uts0kzH1twmkJYAGpA8YjJzJPgaW5YoEPl9N5NSIT5/R2S7dhuse7X6cgydzq6n3j2IQ/2/mvDNsExbyV68P2anfSZJtySdDcHk1DeBVlVPE83IK8AEJqh5ZNlFGQq9yNnPkrqjrxHVzybzyOCOumqFTcN8cyHAMI7CA=;iW+qTYSfM5ztMilYHTQJLw=="
+secured: "wNWEKVCtcYgJGgxm1stZRVelGkkvbIYY9oQ0gmWswa4br9F14wAe6FTEYXVGfwkP/8hePNpwB9XLn7mXJ+cNvZp/qYnkxZsWDQr396fZXlG1rHKD8DPxE40Z0cJepsfEsyoi/N1JbY0uo7q03VFgrT1AwDoKr2nMZjt9dVaDr7MEV4XJyIULA3C9eBn9jiPck+kgDprECnXiQq31R0/DdmofUGanb2qlw1XBFYUpBi2cms8cAldeuJ1OydIXzTpf5vvxXVZO5nu7DFbQbu1FZIu0IXheD0eLLTvMAvPqCaU=;zq4phO+46E7SdsE69kT9pg=="
 ---
 
