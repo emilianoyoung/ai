@@ -23,6 +23,6 @@ images:
     height: 600
     title: "Hitachi Healthcare to build new R&D center in Twinsburg"
 
-secured: "TjIFz0FYuBuCkRBErwip6+VILGc81LNVf7XwLlFGHRfEwNT+/9q3HKFbpw+CFcVjpDpkkHnbpye2sSvZFIDhF2coJS5AZgW8ho1SXSRvRU21574iAnSHo7kP5hx/zpTPs5HFTRQPGNgP9rupM5eREB72uegkAPFQBEX+/hTqf3IruMXGWcGTDA29bdSqmBhdBjhaGO+fVibgaXMqkYd7qun0DNeHZiLb94IzLow/+5lgWYpfCKY/GedlIurvPWZ7eLYKtlo2oXAbWFzxyDnrca0wsTXvfkCiGziSXh8YJRg=;AQmdJtHirqWGtLtYOyeaxQ=="
+secured: "Efa2u0IAGHS5VGQQNmCFnwzqvPkuPE3Luq+PTKFPKJ7/4PfuKrYbBTH/7Xkpg5tTk/CiEileS/sfrhr0bYyHlk9Aje76sSiSXgFUASxdzxfIcpIQoMrTDs0+LvTIVN3uRYLaXY/+jBQHGhj2UD1f2rxI3dHxvB4kSWaKZtFuHnJNREZ9pE71BK6CiSmmd33gJA65hrB+waeaOPEcq0mTGtgtIo1tiwx9idEs10EybimuD79hkSw2iQwo/D55Q6TIZaRd26JSBNOPD/YKPNw+blRGe7+sOxXavJ7XNtOvz2Sc5eg97X6bt7fB4xLAEJFDHxxcjpHF1KMPjEsbcpBthtPe4f6EpyLIQ8RYvaGCL222SYjUEp785u03fMkYJRLrIBTWNCdVG7IXFC8xA8h6/RLI5GSrI8JJWzRH2HDvSjU9zxSRWrB5mqQsDj9jjJ/RIj/8zMLMgBNK0FSM9FHF/w==;hcl6sSwaUkIfjNU9Qp3e4g=="
 ---
 

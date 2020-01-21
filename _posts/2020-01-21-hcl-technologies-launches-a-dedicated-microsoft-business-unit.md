@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T12:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/hcl-technologies-launches-a-dedicated-microsoft-business-unit-2020-01-21
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
 
 related:
+  - title: "HCL launches dedicated Microsoft business unit"
+    excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
+    publishedDateTime: 2020-01-21T16:30:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK.html
+    ampUrl: https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
   - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
     excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
     publishedDateTime: 2020-01-21T12:47:00Z

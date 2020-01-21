@@ -24,6 +24,6 @@ images:
     height: 840
     title: "10 Essential Elements to Create & Sustain Brand Identity"
 
-secured: "XJJs2x2f7izfSuVPReneyx6LZdDXhVCQAKIa4yKhnYBFrh9KwDEHygEo4Pv31hCqUWWk8S++vEjjLGEwtH/ADQm2quNwaxsTkElRoe7AGp4/FKULt2OvfpcKx47snT8JQRqOxfv4gRaQPDcwuZLiNcr9O2TxmzI86Ag4HCP74SBSttzn6hgSHrJDEOjktYfUcXonbhKTFNj8qLN4Q7hDFKzodLgDqTx6x0+WQp2g5efrhzoDESPOFarR1kXyceNxnYQUT00E7KVJ4tMCnpY31lSLRKYgLwzfCsett14QhEX1BdltMucCeVrIee/eIn2O;FtOYZpGyAw5YXg+cGxnVww=="
+secured: "zlnGYTyd+5dsGXc8ersPN0CUUHJO3kM4l+24aPJDZ0hmr2zYeEgEE7F/vBgFfbDvRRZVtqD9HQZcqkOjVEVj+cGzuMeeMyrnYmaqJUNumptMkkpUEgFDgkVxPE20cF+oxbdTKX4MeQfq3CBacrPwi0e3oyTLnvMNV8PyKk9BxwfdzB7m7OBLewyiAD3uXbSPnw+nnXIwOLXPdWv4yL7CegzbQgIxAMhmYwNKIgh2o4ClH4b2Fw3On3uG8DbTUYxa/FajSnCbjnmZRN+QVE+SIw33ktUHvbDi/Fk+kRzt1E4CJ7rLwsmBgRJ1CszficHL;AX+QiuTyhAHi6sn8zqf60g=="
 ---
 

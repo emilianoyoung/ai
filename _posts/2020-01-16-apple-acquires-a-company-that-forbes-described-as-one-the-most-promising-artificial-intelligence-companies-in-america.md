@@ -53,28 +53,6 @@ related:
       - url: https://images.macrumors.com/article-new/2020/01/Wyze_Labs_Inc_WyzeCam.0.jpg?retina
         width: 1840
         height: 1226
-  - title: "How Apple’s Xnor.ai acquisition could bring the Siri boost we’ve been waiting for"
-    excerpt: "The company, Xnor.ai, might not be one you’ve ever heard of, but they’re hardly unknown. Since last summer, the Seattle-based startup’s tech has been the brains behind the popular Wyze cam’s marquee feature: people detection. Simply put, it allowed the $20 camera to distinguish between faces, pets, and dust, and vastly improved its ..."
-    publishedDateTime: 2020-01-21T13:40:00Z
-    sourceUrl: https://www.loopinsight.com/2020/01/21/how-apples-xnor-ai-acquisition-could-bring-the-siri-boost-weve-been-waiting-for/
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 32
-    images:
-      - url: https://www.loopinsight.com/images/logo.png
-        width: 520
-        height: 208
-  - title: "Apple’s latest acquisition is Seattle AI start-up Xnor.ai"
-    excerpt: "As the war to build the best smartphone camera rages on, Apple has purchased an AI start-up called Xnor.ai, in a move that has already had an impact on customers who have purchased Wyze cameras. Based in Seattle, Xnor.ai has developed technology that runs deep learning models on edge devices, such as phones IoT devices, cameras, drones and ..."
-    publishedDateTime: 2020-01-16T13:29:00Z
-    sourceUrl: https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 19
 
 secured: "0NvkfofoyRuGflzDnjqAyEz6wWfHPpHWF08siUIcvCw44hcVjp98qxy/QWDFo9ZVzsXWz4qRF95uYJ/QGDdf3X8auk6jTO9wUrR8vAeFu/8wewEjmzcNCBE2S6IWV0KOa4iJOoyOpIkmE3RJ+dm37lhJNpoZkfQ63+O3p/QQkIn7N9qX2XjpokhstezUpwEfrh9bWpfddTTb41k5qYroI0gEoh/y8/u9fKUtqOa7WVEUOpxDQfTrx82G8TObztjAej0zrguYybp3Wjn+PYzQPD1U+1vc1ijzHW/LW2aAH/yuDbNf9OStKmLLtRH3fu0xc/CDNKyY1XNwGmH6WpAxV6UDHQSanA91xqtgpoBNMZ94y4zSr1uNl1Ek4H9ILAoZ9sHBEFP6nlkZO/Kkv7wwmcEPMAvYAYIe+DVKu1T2hESVgmB3rw6+ttjgmNorwvgAP4mSmQQBTxVW7DkMj1k3eQ==;/grSD87ewIjnXvgNp8XEag=="
 ---

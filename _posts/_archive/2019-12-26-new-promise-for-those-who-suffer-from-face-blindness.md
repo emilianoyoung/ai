@@ -5,8 +5,8 @@ excerpt: "Face- and object-recognition tests were completed before and after the
 publishedDateTime: 2019-12-26T13:01:00Z
 sourceUrl: https://www.scientificamerican.com/article/new-promise-for-those-who-suffer-from-face-blindness/
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "1BrijpHsc+6lKmzkZdXplHjNckFsVrk/5E1GFHtph/DJeqYq68FhSP+wiNXdyCStKRykp6Vcpdk2jui3lycPCYEqw7z76OU8Y+rUCMrCHj78H6Rc5jG/SbzHHna+tyU/bjxGuPsb6RXQ8+gfTaTcwGDhlRLrugQPFVl7zlOK1G0bUPb5eUlKWi6f2MnDBQrVmkLqbiW+0mC2RxCxtWMrxCsn37tloWU4SqrwnTQrEZ6guthtOcJk1ortozs+0MJoqQT/VTf/VBaLpdIeSqbpjR3lRR6EMe09DON2J4RFIOo=;0c3CnxgLoGyMqmTDk0CnfA=="
+images:
+  - url: https://static.scientificamerican.com/sciam/cache/file/6AACA1CF-9549-4836-AB770AFCAA3F4C01.jpg
+    width: 790
+    height: 496
+    title: "New Promise for Those Who Suffer from Face Blindness"
+
+secured: "2BdQfOM+Am+AeLhZ5YEp6L11dBYTTV3L/wbIe5WnO0YvdxxIHKTeXgVCxw4pNaoR2GAZt2/Bbbck0+2SrUZIukyS2MK/oIGNnDVA2eG5ErQ+Mx/f8y0iGh16GeCKAtfet2pwZZw6alNvTPbC72CR/OnpPht9qOzJQ48AIfjBuSGJn1RWvYc1QkmTa+jgM1sl7KjpDSLl2rnIWdaidctP/bdMhSZQnm/+q+ZKL9unP93CgF+C70hw0doR9PWMamBQkSyPEtHqUadD9idGwcLCQpvjHxZchlmipiuO70CBoMI=;E+8hLcukTeYZEbK/F8Ig/Q=="
 ---
 

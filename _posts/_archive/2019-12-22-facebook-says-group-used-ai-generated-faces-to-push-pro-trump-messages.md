@@ -4,10 +4,12 @@ title: "Facebook says group used AI-generated faces to push pro-Trump messages"
 excerpt: "Facebook Inc has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
 publishedDateTime: 2019-12-22T12:55:00Z
 sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
+ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Facebook AI
+
+images:
+  - url: https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG
+    width: 600
+    height: 337
+    title: "Facebook says group used AI-generated faces to push pro-Trump messages"
 
 related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
@@ -33,7 +41,18 @@ related:
       - url: https://www.pressdemocrat.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=IoktdAPaofuOCHF8kByEO8$daE2N3K4ZzOUsqbU5sYshv6chUSi$HtNZaW3o0N7sWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
         width: 800
         height: 533
+  - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
+    excerpt: "Facebook says it has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
+    publishedDateTime: 2019-12-23T00:00:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 27
 
-secured: "lObT1dUKB1eJuDfzKqf5noXJ6KjyRovmpeHWsmMnvX7HUqMNOu3MjROxAaLyXxIcp3lA8I6BBmwlByta4yaggI38J7tLAdtFBDv/FKiku0nILuRnMTLJrPh2bjnPmyfmkKMgP9flrwc4fRoSGz8q5T2uFyiYDaOMe1surk5NcV1o/CXCzsc3GJjcigBqd3jtUEtyt0AVSupqYtlGB9hOaQPxt5chdfU1J/Y8MKtUdluU4ONfKdl9MV8MQG2d3CNmygd+d3vYifK/8HweM6DGSBF3LRJBI6yzkqcDN84QzmY=;6NU/7hLHfcgIxSzkr+h9tg=="
+secured: "nqCQpRaWHWaEUXQE94I3zAo6gMSDqtCk5xz6UiYIq2MCvquWGlZfhonnivnzsoQf7a0l45i3ONtnT+civkClY3JDR8V+Uo0oWlKpbjHBRU3kkKZHH4YHQFcUDVnzivsDkIFYQb7mElR73bhH15flLtguH47XVNlBWv4FMnidEH9bePZyKfAN2DnMo4ikux9f8nNmrrwP4cqjBSqGenq3+pd1Fj/H9DawyMNPpBjSNgbY0cN2vOfQL7gDqwz1bx9MrFNypuiqv+HSpCqHETnUAHbVX5OXq5CGVT17CguRmKE=;3WMD7n3NkVs1Ugpzgvh3bA=="
 ---
 

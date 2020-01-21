@@ -24,15 +24,21 @@ images:
     title: "Pittsburgh company IAM Robotics is hiring and moving to Strip District’s Robotics Row"
 
 related:
-  - title: "This EV company is using AI and 3D printing to add lightness"
-    excerpt: "On Tuesday, Arcimoto and XponentialWorks announced they've been working together on a project that should make future FUVs even more efficient, thanks to lightweight suspension parts created using AI generative design and 3D printing. \"Our mission to rightsize the footprint of daily mobility means a continued commitment to optimizing not just ..."
-    publishedDateTime: 2020-01-21T14:00:00Z
-    sourceUrl: https://arstechnica.com/cars/2020/01/this-ev-company-is-using-ai-and-3d-printing-to-add-lightness/
+  - title: "This robotics company's $263 million funding round points toward growth in Pittsburgh"
+    excerpt: "Berkshire Grey, which creates robotics and artificial intelligence for retail, and ecommerce fulfillment operations, has a research and development office on Pittsburgh's North Side. The company said in a news release that the funding will go towards global expansion, acquisitions and team growth, and Pete Blair, vice president of marketing for ..."
+    publishedDateTime: 2020-01-21T18:45:00Z
+    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.html
+    ampUrl: https://www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/21/this-robotics-companys-263-million-funding-round.amp.html
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 67
+    images:
+      - url: https://media.bizj.us/view/img/11584227/bg-robot-knuckle*600xx3240-2160-300-0.jpg
+        width: 600
+        height: 400
 
 secured: "elitRX+U52C1S1St6cTvp4MUPp6QpsgLkmsYkS57pQehoMsJgPJJtQw5NCpc3jlKFxAta5vMNwYyeW7B/J2DKxMB586J0ih7lr9uGtKFIL8JsB8g2zkr2yylyXo0GXqD7RD8WszAvjG0qjIlPUgzjHJK+S9bJ/z7kuaujfWLNlwI5TByM47Kt4QCYWYUmUF8ptb3o5nWFehwmlpu4+LbjQrIHTdZjlIceDWeXoX03zYz9DwbWNcaLzy7To+ZSq5UMEpCvNpXsQeczmD2wUBFnzn5iaK9loEcSJ5Rig3jfxztwhBhHfvnPFrRWEQ11Tv1mBJszhcHhU1D8W3mxvH0NC8cA0/3+EaQArxgN+OpWl+HfwMK6CB+rs6i5bdvZc2GxfFUXNVkncxr+xhvc9LlRi2d1HsgMahBZJHVi6giu+pZlcKzvijPM6KsyFvEtkSQNZn36sg1zpCj2fJAHomrQg==;+9K4eRttcw5yz7NBvQZuJQ=="
 ---

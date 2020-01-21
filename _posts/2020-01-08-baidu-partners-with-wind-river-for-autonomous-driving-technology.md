@@ -50,30 +50,6 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/id-buzz-beach.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 501
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
-    images:
-      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
-        width: 320
-        height: 209
-  - title: "Baidu testing self-driving cars in Beijing"
-    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled more than 3M km during tests in 23 Chinese cities to date ..."
-    publishedDateTime: 2019-12-31T18:38:00Z
-    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "Piol8m60ViKeBy0/GV1wmehWB2oDhjmPnfIFy0ZweXFaOsQOmvhjqefJ7YXM+SZkrvCk2rIZ3mY6LZ7pxk6K595hjIv4Ss0mb1D9EZiF4V+y7r1gDA8gIiNtoIvD/cxr1o1PdTkV9PZBzw8wDSNi0PNH+ZtVynZqkjY+sG8oBDvWOzXLJIV2g4tBLORBhVigrOvliX/yQg7/9wpQDsVNSOrFfY6APecm9F258Br3su3yWIl0kk0kWipX25RGqo50/ZwmvaFNgjPKod/9nFcoF4bO9q6OsF6kLibubeqsmol2SV2r+8qMpVxVOjdUEuYKNEzK1xyV2FIdVnpPcoDHjmqGgyR4Dpo98WW+z/GjYHMjr7QLiPWO1xK216wvgMn3yb12X14ANc2butAHiVnbcSmdt+bsnvMBtYmjD4yOCHe1uem/OFEXwVj4NsgNgms17y4ZAvkeW/7Pq+ReqlvtIA==;GRhSTySx9cqySYt1d0swvw=="
 ---

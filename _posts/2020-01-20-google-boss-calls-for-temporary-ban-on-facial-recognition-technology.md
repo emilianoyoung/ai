@@ -245,6 +245,21 @@ related:
       - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
         width: 605
         height: 363
+  - title: "Facial recognition’s risks demand a temporary halt"
+    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
+    publishedDateTime: 2020-01-21T18:16:00Z
+    sourceUrl: https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    ampUrl: https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
   - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
     excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
     publishedDateTime: 2020-01-21T13:41:00Z

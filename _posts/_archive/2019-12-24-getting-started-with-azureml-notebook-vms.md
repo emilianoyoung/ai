@@ -5,9 +5,9 @@ excerpt: "TLDR; Azure Machine Learning (AML), a cloud-based environment you can 
 publishedDateTime: 2019-12-24T00:00:00Z
 sourceUrl: https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 69
+published: true
 
 provider:
   name: Medium
@@ -21,6 +21,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "GpjTAiaP4CLe4+keKpzKaCpfVX2jtwhQGHgn9/0DN0ZfCZrV+gJfXKkyY8mMZ3Gr0yklRuSFLTTQGHlGgLwammco4kjttcFMBD8+y2uxgbH7wUY4cCvYIOPPPg8t1Nwd7Q1ex1RPOxEW4tXj2oAAljvJd9li0QCs5IT1Q3HUZt6tv0IPKcsYa45Q07Od0l2AP1LWwWCxPURK/xMGti89IF6paarQuHCBR8r1kTnhiMyB1uSwJQDN/hwPHuyhIFyM0n2zH0JlXMFq1F32Lj0LMwD5IDCBx7gKxnZiEGmOIfI=;/JqQfYDSRgcSC0omADv3jw=="
+images:
+  - url: https://miro.medium.com/max/1200/1*r9E_9IOr95ZxpA_2nOzC_g.png
+    width: 1200
+    height: 589
+    title: "Getting Started With AzureML Notebook VMs"
+
+secured: "FZnrhmDrpy6c3vBDJ25NILViE3fBuvqf2Vr65hn2YWo5kg16bSHnxc4m8ISnIQuP2dDH77g/AFo/cpBRUQ6auxbYOqiIWub7WEPd4NKqoZ3sVUP5yp/SDN2QAYW15rxBhRyvbGryk4r5fCpKPfOcL8B27xpK1h6uVozBVHZF3dnye9YUsoBRaDqCxdiw6PdkpQhiuPkBc6d5G2YZCjrp04yNbI9g/jwDpvuU46aM3RFIEAm6MDG3KPvsIdsv+fZfFb6wH/QiEv2FjLeO64iA5cH9xQo7IqTVnps1PN28qjc=;TpAO99tkZCg1De6cmP178A=="
 ---
 

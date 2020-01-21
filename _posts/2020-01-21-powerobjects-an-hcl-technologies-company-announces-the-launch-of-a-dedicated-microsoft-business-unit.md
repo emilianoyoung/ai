@@ -37,6 +37,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "HCL launches dedicated Microsoft business unit"
+    excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
+    publishedDateTime: 2020-01-21T16:30:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK.html
+    ampUrl: https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
 
 secured: "3SYvPz1GDf+b4Gw15RmD4w5nLZm3pkhnrvvv7ilTVBhmsV1Bycha2wNltd6c4G07mNLpgJwFjJNFDWKfL1Z4ng1dcNDAYmfR3FMPhlQ9w2glpAnYfhrbvskgiV2h/JUXZecxF+yQjBtp8Wo8KOmJY42wce22dD/T8p8sxR0IO5GCfzBSVDea+tTmCDRiHuBEaEPW5Ywonye83ecKT7gowlzjzi61nd8voCmwFit6i6ipl1+H5f1OgtZp/CwYqLx3kfPpuyu/LjP4yoB1cubs9Dedq6OUMZgtSY+zW9+Vx2k=;8HtQGk6r6h7qagloe8HOKA=="
 ---

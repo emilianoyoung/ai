@@ -23,17 +23,6 @@ images:
     height: 314
     title: "EY crosses milestone to help clients deploy SAP on Microsoft Azure with strategy and solution initiatives"
 
-related:
-  - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
-    excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology to provide computer ... Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits?"
-    publishedDateTime: 2020-01-21T03:25:00Z
-    sourceUrl: https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 34
-
 secured: "is77xd5PaABfsEVg9km8HFHCjvlIpgogr0de30G3rJEWHUNOzCSOkFZDuVOd+pSh2zqIEDLo5OpXhaiu/zSNdyQGvzJgAggq+RHN+Q+VS9dDFRwTj+9DtSNiy9zXmUn77TES2wfmKu0GcnVUH25ZS+uAW/RnJb04rQaIyCVy2c7ZJSb4DHSwSFKdsWZnBsTikIG5UE6fNNLfQOFysaIBuMLwDEh6I1SRGAFgpj/hwlXi3vhnguoMPjkmbj5/Su0nEr0cR6hM9PgnjdSw5sMiBYB1CO01XqYYAmQFWD9ARxQGBcdlXBH3XXh0YalAkMa7R97k2LZxSrSuJdx3BQfLm5yKVt78GS+51/a6XjXtz+2RN4bb9o9UCqj25VVbp+1m1Trr/K4Tov6dmFIjrJzio3rEKKFzNwwe9HI7yMBZOSzOY6ZeIO79jPN9Eh69yiTTsR5onkGK7R1e41IM+fearw==;HDPFZ9hDOtPNRAsV2kAXbQ=="
 ---
 

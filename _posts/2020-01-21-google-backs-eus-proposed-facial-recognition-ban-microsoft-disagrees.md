@@ -260,6 +260,21 @@ related:
       - url: https://www.cityam.com/wp-content/uploads/2020/01/1194872492.jpg
         width: 1024
         height: 683
+  - title: "Facial recognition’s risks demand a temporary halt"
+    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
+    publishedDateTime: 2020-01-21T18:16:00Z
+    sourceUrl: https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    ampUrl: https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
   - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
     excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
     publishedDateTime: 2020-01-19T09:50:00Z
