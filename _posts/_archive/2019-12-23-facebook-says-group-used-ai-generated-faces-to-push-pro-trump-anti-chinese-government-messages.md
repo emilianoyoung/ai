@@ -35,22 +35,7 @@ related:
       - url: https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG
         width: 600
         height: 337
-  - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
-    excerpt: "Facebook and Twitter on Friday disabled a global network of hundreds of fake accounts that pushed pro-Trump messages and covered its tracks using inauthentic photos generated with the aid of artificial intelligence. The use of AI to trick social media ..."
-    publishedDateTime: 2019-12-23T17:48:00Z
-    sourceUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic
-    ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
-    cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 50
-    images:
-      - url: https://www.pressdemocrat.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=IoktdAPaofuOCHF8kByEO8$daE2N3K4ZzOUsqbU5sYshv6chUSi$HtNZaW3o0N7sWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
-        width: 800
-        height: 533
 
-secured: "FRv1K/oyH01jj4DWz6ydAAApLe4vTLyGf4Wrw9bUik8ualx4z4kPSxqxiStoq5ek3jcT0UfP4itMZUys5Rt8BEM5O67dyIyVckEjiMcuSE7ijNFwEPBCZCHMoBEDx5la9ew5AYIFSnPcykhdGgJWLmwg5g7ARvt/piqNjbc659orAh2LCSIQmWvsrOKm+9fMedh40o6+f3mrMfAgdBKbw6GxCg4wRUb+AKK1Fr/jwuUfI5CvEaHoulXqqkGJaQ+dUhZk+qQHmQKpEzgeHRIWMYA3j1SKd97eCv4BNxl15Ts=;Gj6kY2ofubYnXzeiKOyZSQ=="
+secured: "TLVBMlbW/VqCld1kCUEaczzPKNR/4hhkp18XbbAtcgti2RVGVNcu4vOd6p7U3TKDzsY5AB24RHoFRoRBNxixBGGMRIcKUc3g7L2FKjXqgR7dvZILms1Get+ysBvivTpEnyhxovfDto33nAJdXDmXNo7NJAJ6LJcH7fPa2yoWUejMpR+TnFC1A/4AJ5+mub6+NWF1TdahpTfpqVhtb9zElZtLCJIG9q2INlWnaB5m1S2uJBzTfOIoGh+dV9EQUMXl8G/RVOb8iNOyFdEc9EeNl7W6ksEVT3303M6IB8A7Uxc=;Fvpfu7hxEUeyr0bv0EFS4Q=="
 ---
 

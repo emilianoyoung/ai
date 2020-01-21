@@ -200,6 +200,21 @@ related:
       - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
         width: 1200
         height: 628
+  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
+    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
+    publishedDateTime: 2020-01-21T13:56:00Z
+    sourceUrl: https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/
+    ampUrl: https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/amp/?utm_medium=Social&utm_source=telegram
+    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/amp/?utm_medium=Social&utm_source=telegram
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1
+        width: 1360
+        height: 1020
   - title: "AI must be regulated, Google boss says"
     excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
     publishedDateTime: 2020-01-20T11:48:00Z
@@ -316,6 +331,19 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 40
+  - title: "Google CEO Adds His Voice to AI Regulation Debate"
+    excerpt: "\"Decisions about hiring, healthcare, insurance and so on should not be made by AI, which has no morality, no ethics, and no sense of social good,\" he continued. \"Machine learning and AI will do whatever they're programmed to do -- whatever the algorithms dictate,\" added Sterling. \"Humans must set limits on the application of these technologies ..."
+    publishedDateTime: 2020-01-21T12:32:00Z
+    sourceUrl: https://www.technewsworld.com/story/86465.html
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2015-artificial-intelligence-1.jpg
+        width: 620
+        height: 340
   - title: "Google CEO Calls For AI Governance"
     excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
     publishedDateTime: 2020-01-20T11:43:00Z
@@ -389,6 +417,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "5fcWsyue8zb6fRSmWRhHQ0oO+UcWaVtxyrSG0KI0nz9BVJfUCnBejnfCFWYpgs7n8n4ZWL8bur0NeXcIL6obl/MiXHpVhpkSFBIDJm3tTOwfEwQFqCYM+GSTKBm94X+gmdqcDiwmEKqx+65vZspfYIoppceiI7dZFyxd1kSVcmOIL2T/Jqc2rFr049f0YecxTXtcsrkJq3Spr8aMav+HbWxPgFkoDK3moj/1aAu6WsEttnH+r8em+P4ZBtWS0xAolLZkrtdMTCdDMJO9cIS5pWxHYEpGOoAzhRXqvK5Pffk=;a8YrO8Uup0yONeoHlNhg/w=="
+secured: "uffHqwLe7BXDylwJH3u2WzkKzFVd6izcoAeOxl1X9CPAVGO3OJkakrPKxcRp38EbPhGvBW8Rr+T/tU7x+E26SV8jhFTfSjOxOvNXyTHm2CioMXWSlkkTY1h2r/P7YOx42COzpCW0FoTt8aZ4T9Aswo38d7Eewz5zdv357LATf+/J5JrgQL9QlWwBlmQQU7Nt5nBtvCgNFLSS2Tcts4eS+Hfzaf9DWu/4XvLXhJBxER8W+PBbSukOfMT1AKpS63dWpgiwxbffs7KFZjSJi49KTREggqdBKy83p5p9h7L8aO8=;bggxCERdP47vu0VI5VPJAw=="
 ---
 

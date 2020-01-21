@@ -222,12 +222,12 @@ related:
   - title: "Hey Siri. Why did Apple pay $200m for an AI start-up?"
     excerpt: "Editor's note: This story is available as a result of a content partnership with the Financial Times. Subscribers will see stories like this every day on our website (and in our daily emails) as an added value to your subscription."
     publishedDateTime: 2020-01-16T11:55:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/16/hey-siri-why-did-apple-pay-200m-for-an-ai-start-up.html
+    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2020/01/16/hey-siri-why-did-apple-pay-200m-for-an-ai-start-up.html
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 39
+    quality: 37
     images:
       - url: https://media.bizj.us/view/img/11447466/1-apple-launch-51-091019*1200xx5359-3014-0-264.jpg
         width: 1200

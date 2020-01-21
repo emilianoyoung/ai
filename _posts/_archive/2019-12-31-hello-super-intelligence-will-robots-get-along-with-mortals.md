@@ -25,6 +25,6 @@ images:
     height: 878
     title: "Hello, super intelligence. Will robots get along with mortals?"
 
-secured: "RzWO3ZpfMI7BiqeLPN0/0jbLUEgLx7o96TGcxFpdmRnK7JQ0jJSNj9D4D4Z0MImmBLX4wdlYZKWKhYoVUscpq2k/M8VkknG9mFdTLWghAdo6wGKQ3/4cOlE3cHwWG/78shZSYBxJo6VYUUtbkgLYDm+fy7GEeUtAS2+VDpyvfGpQO1EV/TPMprkDuWIVVgGJAqcGxA+7ySAcVDNuKPLIHZqpTz8HOM5stzwT/be3/s5qCX6PWQcQ8fAPZcfsxC9hgeCQ+Z1o++5qt+/AHW3F1nvvjqvowpi+oiieDBwPPes=;mSiPge3vIuoZlxD9YfLuBw=="
+secured: "7PnBsh713JEWArU/ZCIFsvjWsLPoF5DLAtn2yLDVEU7K4K/5UiNyNfq6CcfG6DVta50ZXjJp/ObUWweqhTYmG0pUVyn1amEk1rSdCY6wKStZLd1eg321xM3xWDp0QLed+uDMvC14fezeQASwHZJ+CHLhjv6my+ulWwtKSxAOaSg+DS28nErkpTVOMi+GjvHuPw6iuFIC1vL91avhFjvdiJKvXGIoV/wQul27t7fYAFHKgg4M24hxyVTejbIWAZw3bhDdb/xjHRRDtRGHynMB68RYCgTj1rnTcVxPAbt6Sjg=;tRxbw6u1LNXMd9bL/pxFuA=="
 ---
 

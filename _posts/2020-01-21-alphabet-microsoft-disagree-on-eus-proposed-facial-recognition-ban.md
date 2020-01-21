@@ -213,6 +213,21 @@ related:
       - url: https://www.cityam.com/wp-content/uploads/2020/01/1194872492.jpg
         width: 1024
         height: 683
+  - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
+    excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
+    publishedDateTime: 2020-01-21T13:41:00Z
+    sourceUrl: https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece
+    ampUrl: https://www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-backs-eus-proposed-facial-recognition-ban-microsoft-disagrees/article30616303.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: https://www.thehindubusinessline.com/blink/talk/xzq9q3/article30105303.ece/ALTERNATES/LANDSCAPE_615/LEAD-IMAGE
+        width: 615
+        height: 384
   - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
     excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
     publishedDateTime: 2020-01-19T09:50:00Z
@@ -471,7 +486,7 @@ related:
   - title: "EU Considering Banning Face Recognition Technology In Public"
     excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
     publishedDateTime: 2020-01-20T13:53:00Z
-    sourceUrl: https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html
+    sourceUrl: https://www.mediapost.com/publications/article/345888/eu-considering-banning-face-recognition-technology.html?edition=116895
     type: article
     provider:
       name: MediaPost

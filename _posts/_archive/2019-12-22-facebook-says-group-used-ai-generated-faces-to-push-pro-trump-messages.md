@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-a
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Facebook says group used AI-generated faces to push pro-Trump messages"
 
 related:
-  - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
-    excerpt: "Facebook and Twitter on Friday disabled a global network of hundreds of fake accounts that pushed pro-Trump messages and covered its tracks using inauthentic photos generated with the aid of artificial intelligence. The use of AI to trick social media ..."
-    publishedDateTime: 2019-12-23T17:48:00Z
-    sourceUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic
-    ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
-    cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 50
-    images:
-      - url: https://www.pressdemocrat.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=IoktdAPaofuOCHF8kByEO8$daE2N3K4ZzOUsqbU5sYshv6chUSi$HtNZaW3o0N7sWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
-        width: 800
-        height: 533
   - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
     excerpt: "Facebook says it has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
     publishedDateTime: 2019-12-23T00:00:00Z
@@ -53,6 +38,6 @@ related:
       domain: scmp.com
     quality: 27
 
-secured: "6hCJJV1wXT5nAHSBrwZFxrl9HhUuNs3nu8MHZ++52KphYnrZmx6eNLC3H/jyedW+EGvxVwsA167tkLbX6u+TIwsBWPFuJ6KWudO+JPMUB6/4MYtpggC4AcfIQB50lJnErmji7sZNEuFIFQHh4/iTjWg0VUB/tTPTVz625HFoRKTHgsuBjz8EsE837k/rfzsz4U3owwYw/AgP0UaXa3vT6fwhRM10jq+dqvekTRMA1qLSjAAaqivCV4d1sbWCyRwquFOqxGPDSBkfZWGhyCG/3CaU12CF5E2UFplCn/uxLYs=;/EaEwp/Xzj/dvwgVRAwG7g=="
+secured: "RT1uiczIlGsHfOoOUQCxs2kkx9U8IpRiDVN64qVFarRiiMw/sOZXa1ZeA/8prwLe993C9JYf8DdJ7IYdeNnAss6cyEzJB3a4y4ahEIYVTONH2tib12rX0ylFKDb0zwBCV0NsTFQegC+dHW5jv9OZFMsSreDl7ubNBKvrTLmJ5oupakPVrtcxYw+wChPmLAH1mtXlGVS/sSuEH309gD0xIkpgnmSUQgZ2qCgZwgN2zQ/SN5Ba1uSBi7+RnxCYrRgyTDi5roFN4QJownSlunX23NpKqMAEh5YHqTpHvYTfMfY=;Dbg4foXarQ2Leg76B3ue7Q=="
 ---
 
