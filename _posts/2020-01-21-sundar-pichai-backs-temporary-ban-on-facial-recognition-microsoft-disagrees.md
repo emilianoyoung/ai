@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Surprising results after activists test facial recognition technology on Denver City Council"
-excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
-publishedDateTime: 2020-01-14T05:33:00Z
-sourceUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council
-ampUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
-cdnAmpUrl: https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
+title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
+excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
+publishedDateTime: 2020-01-21T03:18:00Z
+sourceUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/
+ampUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
+cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
 type: article
-quality: 33
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI
-  - AWS AI
-
-images:
-  - url: https://x-default-stgec.uplynk.com/ausw/slices/8d1/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/8d18871f1b9b4c1781a22de73289bd7e/poster_74d992e1d3da49f3bc0cc1ce7922fe77.jpg
-    width: 1280
-    height: 720
-    title: "Surprising results after activists test facial recognition technology on Denver City Council"
+  - Computer Vision
 
 related:
   - title: "EU mulls 5-year ban on facial recognition tech in public areas"
@@ -387,17 +381,21 @@ related:
       - url: https://i.nextmedia.com.au/News/2020-01-20T145332Z_1_LYNXMPEG0J1CD_RTROPTP_3_GOOGLE-EU.JPG
         width: 800
         height: 526
-  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
-    publishedDateTime: 2020-01-21T03:18:00Z
-    sourceUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/
-    ampUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
+  - title: "Surprising results after activists test facial recognition technology on Denver City Council"
+    excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
+    publishedDateTime: 2020-01-14T05:33:00Z
+    sourceUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council
+    ampUrl: https://www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
+    cdnAmpUrl: https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/surprising-results-after-activists-test-facial-recognition-technology-on-denver-city-council?_amp=true
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 36
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 33
+    images:
+      - url: https://x-default-stgec.uplynk.com/ausw/slices/8d1/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/8d18871f1b9b4c1781a22de73289bd7e/poster_74d992e1d3da49f3bc0cc1ce7922fe77.jpg
+        width: 1280
+        height: 720
   - title: "EU may ban facial-recognition technology over fears of abuse"
     excerpt: "Foo Yun Chee The European Union is considering banning facial-recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial intelligence and widely used by law ..."
     publishedDateTime: 2020-01-17T03:40:00Z
@@ -421,6 +419,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "xTHd7h/efB8gIvYuKpAi79/xnJk9AiE/dqh7s2m+G7dj6LBfI4JcFnlsTh8R0aeYauN93SFch+2YVqdG0NE7j1fALYvA6v2+gqQHAQ81Jv5dorMgnjMmLi3VOrceu594xjfVvVvnPS2AKuosBGQQMN23BzCUH+aMDYubr3Nk+qiL2Otqj9QtPV/GiforN6WMfccqbj9J3F3hJkvQ4IiUY099fqDykITYnj6dLXI364RbMWha/9vIU+ESWY57XXSq3xGO34fuNYHejsPkQsDJu+z0gzBUimaZVb/JvDveKqGJ/QTwsa24xvWaEoa5i1+luxdHIBoxZPP2HK0ln2hzGfpaiRmlIuziwk6qiIy6WNpiKnoURhSZ+UR/Dw02bjLQcwMhh9SXaELZp8xKDxRVuNnUKccw2nnGbbHI+Q/Y0CsVLW8TN69GZhzIXh2RkQONBtvm0yqD1aRV/KNDumeNaA==;Jew/8VPlTTjnoZEo5A52sA=="
+secured: "vK+vMrBwhqGLf9XQjPRxsMOfya7gohvVQo9UY5PgvsApcn8l3ry+4uDqcEbV1OPlnd0A8/WTNFKu0qYby8CzyXI0WBcPiOyVHBClA5yc/CRs4nONWbWjlfIhBLURclHmt0jjJSl6opKifXnYhrfb+zDjywIb/ksT6NGChb2KOqJtA5xfSKlJH2r8OMSN8leAy1P2GOKHT/VtYym6DyLJ/uzsgMF4fJpm82N+i29CaCg6PfgVLxw/L2qHDLGDE1g0nhv7IqMR7BpWAtF7n6AF1HxHjHLbezvlbEbHDfL0atdvuq/GQOGmYQquewpIrwY/O2+zHLkXjr6ez+zxG+G3Q20DCj90+7gCNEKN9FEg7vk4l7/l2TF4RuzOY2ob6uxO5TzOYpqF6rax8aTD/hp+8c3msTynViN12DsM1w6qcSjvpY39mP9dVdRa4vWRete5lcKpN7sQP+5Frd9WZsxNrQ==;eLTGLveHcAt5Phy6GKnpxw=="
 ---
 

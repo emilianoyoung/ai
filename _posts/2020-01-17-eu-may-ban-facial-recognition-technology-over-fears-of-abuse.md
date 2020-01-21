@@ -385,6 +385,17 @@ related:
       - url: https://i.nextmedia.com.au/News/2020-01-20T145332Z_1_LYNXMPEG0J1CD_RTROPTP_3_GOOGLE-EU.JPG
         width: 800
         height: 526
+  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
+    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
+    publishedDateTime: 2020-01-21T03:18:00Z
+    sourceUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/
+    ampUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 36
   - title: "Surprising results after activists test facial recognition technology on Denver City Council"
     excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
     publishedDateTime: 2020-01-14T05:33:00Z
