@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revo
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
         width: 378
         height: 234
+  - title: "Experts: Preventive Health Care Is Key To Long Life"
+    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
+    publishedDateTime: 2020-01-21T00:25:00Z
+    sourceUrl: https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/
+    type: article
+    provider:
+      name: Worldhealth
+      domain: worldhealth.net
+    quality: 24
+    images:
+      - url: https://www.worldhealth.net/media/original_images/AdobeStock_128079409.jpeg
+        width: 5343
+        height: 3456
 
 secured: "4el1YQtWYt7HJW7+mjeGzEPKBDG8s530vBrAw78wgrMbYHToRFhTusBI7+M7/6iHBqoCBqODeZ6VIkKNDHNAI0MMIZJJDSmAQYkRXz5+RY/HkFoD3SWa2ucYgJeiOr+Oq6kyV5GVL1jecZNR34tS4YUsTYm08cPxqbAN3QZS5fYl+Hgffbrgf3NX7EJAARcF3j3xYOm5nE8TIuQSIBqSQRsxn69d+XqCh9/WCocvQNaV70BEG0BCwWXMCxfL8Q0vjHOg/uAbhJWK7Q2yNHaLBwm0fib0PYyDdpNmcYd95Mk=;UOm8a/2IvWVcQ9WwieIQqw=="
 ---

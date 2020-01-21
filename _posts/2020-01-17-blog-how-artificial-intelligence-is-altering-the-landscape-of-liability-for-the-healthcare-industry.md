@@ -69,6 +69,19 @@ related:
       - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
         width: 300
         height: 250
+  - title: "Experts: Preventive Health Care Is Key To Long Life"
+    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
+    publishedDateTime: 2020-01-21T00:25:00Z
+    sourceUrl: https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/
+    type: article
+    provider:
+      name: Worldhealth
+      domain: worldhealth.net
+    quality: 24
+    images:
+      - url: https://www.worldhealth.net/media/original_images/AdobeStock_128079409.jpeg
+        width: 5343
+        height: 3456
 
 secured: "NqCQve7HzRocIR8jMY7r0nIQHInZWnjJwR4NtZFybJV5aqhgEUi3DFypGIjK6JrJrbOafNRlGsapYOlZolRt6PL5xZ93lPcuw814AhLaqCw8V0xdAIU13mBpfeN9If82Ep5LOxYQ4JZ7F2vsCZaDCydSOAB/WvWSLQGU8FqKFo+Q2gShZX8vdK7aHu5BVkvb8oEUF8HlfefJ11kM9mhL6I0JRg7uTEiOyFRYI6kz9lTy05hILTvFoYKZQTp+S639H4hjVseauUI0Hu532Y5IfrIXFMkUH+2PpozLOG9Y724=;FLS+6EpjBZpP2HLgidbnyg=="
 ---

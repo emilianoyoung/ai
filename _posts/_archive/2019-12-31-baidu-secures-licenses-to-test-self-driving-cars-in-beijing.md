@@ -59,8 +59,8 @@ related:
         width: 1233
         height: 880
   - title: "Baidu testing self-driving cars in Beijing"
-    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled more than 3M km during tests in 23 Chinese cities to date, up from the 2M km disclosed in July."
-    publishedDateTime: 2019-12-31T23:25:00Z
+    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled more than 3M km during tests in 23 Chinese cities to date ..."
+    publishedDateTime: 2019-12-31T18:38:00Z
     sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
     type: article
     provider:
@@ -77,6 +77,6 @@ related:
       domain: cpapracticeadvisor.com
     quality: 4
 
-secured: "9VOwyiTg/YAw2PBRoyudm1t2HlkrxCXpn/MnPNW7H/H7odOOA/VMZ3gk7pMcty32VyIokuvPtMycc6hp8gCxbC3VOpNRgd1SOu7TaN+1gP68EP7nGeMe0NVJ4FH6my+8Wnn2GLR+kucMwp9a8xJhEFK798ZYGv3wd/VEPYwzmmBE2UaDe17kQSsg+xVOq9JNXWeMYKLTqUtizRLMmRJtmX6hfn6cPlHLmEtx5r3PpWPPJlp14xOkefxS+wtlrCi6UgBFiOvnj1FVZhZxY16RBtItocKn+kYEVQEUjGY8yN0=;hmuyBMNA2R2hQMuqSXks7g=="
+secured: "EYyEN5XcXVva/n2aFwQ2QFoaeVFsjtfWmArRK0cAUtsP/pflB34XA1QfqrPcR3sJ48dbNt2x1o31XCAkVRqBcbTlHoDZfrC1GEi0z/a4T+YTVxuMg4JNr/3m1AryiSy3+GcZi9xYOMxTe/erCIg3yN5Gr+9By65JmCt4bu2PPzxccQckmf5nQzU/s8KxVtZeLJlXobxNgiOZHLwFvouFWo02IV7pPGbFSUHyKt1UiqRPZQTvkrpq72AMnRxMgnCF0CWZOLNToEV89lvAyQ8x0zYcIDpV15xF3HzcDjKamFw=;tUxZphuzhKtqrOlM9se2cQ=="
 ---
 

@@ -69,6 +69,19 @@ related:
       - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
         width: 378
         height: 234
+  - title: "Experts: Preventive Health Care Is Key To Long Life"
+    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
+    publishedDateTime: 2020-01-21T00:25:00Z
+    sourceUrl: https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/
+    type: article
+    provider:
+      name: Worldhealth
+      domain: worldhealth.net
+    quality: 24
+    images:
+      - url: https://www.worldhealth.net/media/original_images/AdobeStock_128079409.jpeg
+        width: 5343
+        height: 3456
 
 secured: "JZxBj0ngl7llZi7FZzx1M9MXvB8sURrntSvfY+MJZ4yAk/txyT8Jvc4Px3XTAupzfDx4f7NkHoU3136ZXKh/xIYnMwEHEeQuKqyu9AMP/dFevBwlAd8GJaPuJkjhyeOH21ZZUgAdGTJphz6MBcGy3jzDLTTNRaTdPPaqWqlWqTK8JiFABVk+pc93T33QoSvcLegenyJDX8PY3kR/U1/mAWvwOZWop0GTO/IqXR4v5IEqOcqaXFHJsbu338BGrHaOFZ0LiZu4XTYgx8JUzC+4egxScjSDJHRLbGnl9/1melgkpVb54v8x011gFzgsfzJmKdSWFxCidbF7jMgRXZt0kEKjz7S1GqZrAW+1zWM/Oqv6XVA/eBuX+XZVhcgcPS7A3T59PfPtZmAEItJ/jChXlD/QP/nEKa9Q28DzD5CIuYqye7RmQckPtU1qmsnLF8nbcvMV0Qf/eLGoIlPzGg2k5w==;SYkiJxWQCCK5iYQFBXZsoQ=="
 ---

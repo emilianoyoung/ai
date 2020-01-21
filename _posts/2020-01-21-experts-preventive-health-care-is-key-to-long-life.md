@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
-excerpt: ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new Artificial Intelligence (AI)-based technique that can detect low ..."
-publishedDateTime: 2020-01-15T17:14:00Z
-sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/
-ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
-cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
+title: "Experts: Preventive Health Care Is Key To Long Life"
+excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
+publishedDateTime: 2020-01-21T00:25:00Z
+sourceUrl: https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/
 type: article
-quality: 88
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TheHealthSite
-  domain: thehealthsite.com
+  name: Worldhealth
+  domain: worldhealth.net
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg
-    width: 679
-    height: 365
-    title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
+  - url: https://www.worldhealth.net/media/original_images/AdobeStock_128079409.jpeg
+    width: 5343
+    height: 3456
+    title: "Experts: Preventive Health Care Is Key To Long Life"
 
 related:
   - title: "How AI Is Revolutionizing Health Care"
@@ -41,6 +39,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg
         width: 640
         height: 640
+  - title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
+    excerpt: ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new Artificial Intelligence (AI)-based technique that can detect low ..."
+    publishedDateTime: 2020-01-15T17:14:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 88
+    images:
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg
+        width: 679
+        height: 365
   - title: "NRF 2020: How AI Is Revolutionizing Retail"
     excerpt: "“I think we’re on the verge of watching indoor location go from something that’s nice to have to a must-have technology for retailers,” he said. Retailers Grapple with the Ethics of AI Even as they’ve been more aggressive in adopting AI than most other industries, retailers are proceeding with some caution as they think through ..."
     publishedDateTime: 2020-01-14T23:06:00Z
@@ -69,20 +82,7 @@ related:
       - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
         width: 378
         height: 234
-  - title: "Experts: Preventive Health Care Is Key To Long Life"
-    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
-    publishedDateTime: 2020-01-21T00:25:00Z
-    sourceUrl: https://www.worldhealth.net/news/experts-preventive-health-care-key-long-life/
-    type: article
-    provider:
-      name: Worldhealth
-      domain: worldhealth.net
-    quality: 24
-    images:
-      - url: https://www.worldhealth.net/media/original_images/AdobeStock_128079409.jpeg
-        width: 5343
-        height: 3456
 
-secured: "DFuhH0p1RVPaim9jaHmlL+tKofcb3qjSZh9Bmne2kw2+quzmZffggg1/Rfm5OmGGoVmpivpU4jFtnSpYu5fmv7NNTnp+5wCVqGzqkaRfnwXvCQboVPr+kJMaxp6bM2surp+3rQ9tYo2MXvve8t40V1DgpZV/PFZFoFxfTZZHkFMJQ2IHuaUxXkFpLrDTqw5ZXvWT1t+N2DP01yZexPDKMjpg+flTEQXXjMl5Jc49U1zT/2qmodQ92Sod5bnEfqj2pJcDufSOA+nDiG5/sSdmALUOdkDp3bv0dCdxInojzpw=;0JjoITKAKkiS3/ctPyz81w=="
+secured: "Skurh+b983i6aFGAqeKxgd1xfmKZNLXiqYghI8zdrhILOpUYjaPQfzoNQUk5mYDnRYi0ZuNK+y1JsDhhqMpTqZs2FYDJDpADHJdCLOkOQIkkiDEyvrH9qiFiUHK5bS0I4yAWKx5awcEWGzWYPYXIPuzNuGvjnLtCZ1uE1Ng1AhUD0JQp9j2FeQGWgq6WNiU0q+Bku8h9WY76r+A0UfaWPmcAKVnk+LZcd0go7pHbw0cd7nda1NCeoDOTc6ObKEzFeUIuaNGCfD9lRpSjPpMdBIVE4Ed8qxyHetpmkmC78tM=;n56ZLSuV6rrJLjRuo1ba2w=="
 ---
 

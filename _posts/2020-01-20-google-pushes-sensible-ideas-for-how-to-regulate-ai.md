@@ -8,7 +8,7 @@ ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
 type: article
 quality: 187
-heat: 257
+heat: 267
 published: true
 
 provider:
@@ -104,6 +104,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5fdb39ac-3923-11ea-ac3c-f68c10993b04?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider placing limits on how artificial intelligence is used."
+    publishedDateTime: 2020-01-21T00:13:00Z
+    sourceUrl: https://www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation
+    ampUrl: https://www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation?_amp=true
+    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-01-20/google-ceo-artificial-intelligence-regulation?_amp=true
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 57
+    images:
+      - url: https://ca-times.brightspotcdn.com/dims4/default/f17fec7/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2F7e%2F2786ca7c75dd9d3bedac31a23fa1%2Fla-1525296284-yp6501yyef-snap-image
+        width: 320
+        height: 209
   - title: "Google CEO Sundar Pichai calls for regulation of artificial intelligence"
     excerpt: "Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
     publishedDateTime: 2020-01-20T12:58:00Z
