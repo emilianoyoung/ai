@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-18T09:06:00Z
 sourceUrl: https://thenextweb.com/syndication/2020/01/18/life-will-soon-be-like-her-and-well-fall-in-love-with-ai/
 type: article
 quality: 69
-heat: 71
+heat: 69
 published: true
 
 provider:

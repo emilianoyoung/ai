@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-18T22:47:00Z
 sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-designer-import-data
 type: article
 quality: 56
-heat: 67
+heat: 66
 published: true
 
 provider:

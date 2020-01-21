@@ -22,6 +22,6 @@ images:
     height: 667
     title: "Here Is How Artificial Intelligence Can Make Blogging More Productive"
 
-secured: "SnnGHIpI5ktF15TySagMUs83Z1a7N+PofBgg3QMX/vjr6WhLg2VR88GxC+keL+C6zyjHdzhEVBBVSWWBTW/su1FXEiLyE4uHLFDK/3ASIHWjoPLBS1kRdQPiL6XOmJl/iPmlwGkkUKij5U2bFwZtMVA5t4yq9aVbPwGhlOPR5dnn89gZmmHPeC8oamtXMqIFJFW1W/hIvv2WpVErQIValMmDa+5zbrmCA1cbmWvq35g7IR2Q+TldeWVXOjFUEwBY5U+aBeLSS0knO/v/Rm21TTKk8IlT9r8n7UHakSMo6Ug=;ML3ZmSJaOIbNun21SBsoTA=="
+secured: "mnGYLav0nsnnHiOclUQMumgmIKfnkBtraxleWKRuSs8IwJs/l9VDC2QgwadV50ajt0FPKFxSkzweszQE8Ewt0CRQK+Y+ZP2Hu5VsFXMjZets+c9+6MdkgFxc3De7dWGQsky0IZxud/jB0QX6gwkKZPxzJCZwcaeWJCRhzzX/5/5uHo7WQwL0DnDG2M/8GAlRBOJtftq9vdkQ/equ8bfG7zAE8kpcIrp+UGTGE0PJ6W/VA5fx4O69fPO5ei/KZg4+uqe4fbCY2U8W2wNGO2Nn/Xo6taAlDmYz0Pej15PT9KnQMXvSxJeDamAeX2TBCEDdeLDNGCi00yj3qDZWLRlhV1PYR8q7L86jvWmHM19RLn9wqKGlVRVj0UqpmYlYtojsTAhhQfUsBRj2H1zZdSon6slMu+qJVOX5gC1r1lT60j1JORxZJbrR0wNzPpnmXX2zkl/r6Z5HUdKj7vtpmXXqXA==;T3/7m70ZY5NfB/IRqGwuaA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://thehill.com/opinion/technology/478731-how-to-build-ethical-artif
 cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

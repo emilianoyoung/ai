@@ -25,6 +25,6 @@ images:
     height: 720
     title: "Ring partnerships with police: Solving crimes or invading privacy?"
 
-secured: "b6pDKqDEDGRioCLTZqTVAPX+fa0zPCDtkWu6d/QgyAE81JcwXPGfi9+CtZvTCopzs1ZXkr9s5fcsNZbIWerTMde7wSXDGdNsZCrx/RZtVKJOWA7/FDuDGob/UEBS14Miq3kkFsPv1ftqSuZ8j19Z1+nk1jNtlR93LIsrNWI8OFgxRIGOT7TzC7SHtk/nxYxU15j/bM7nP/eQxjnaTVTGrGapDKbXgzUe9sNPzCEWmPXFSl6uiLnBjBQ44s7cL4uDv9U78DwkZ0XVIJC73XTQZWua/YAnw/I6tK5Jd7uXFP8=;uXBWChcXjQ2keTrfW8g1SQ=="
+secured: "/dacwzBU4AmhYAX1SA8qsmlPzvjQd+rSCoeX1RzzQzmLTq7fx+aOKLhDj+WbZ9Md8mBNwBxARwmc1GCDvDbF2OmfGLuoy3YsQXakLs1jVei2PeIdY2v4cKllZP5JLmuoH6Oh0PAFF5iZUtm3Pgww+rAg1iFnHJlqLyR3UVb4oXB69UvAh6Inczy4S3Vk/PNz5G6/eFDLYkbVxMOOtkitQgUvbKce+9N3sfjhLOzSmNRzCsnj+ftqwN4p8+p3smn9CSsZwG6LaLxGCY4wQOteGHbOeFSPJGEulTFsqAryP/U=;orVkHSgH8akCc8h5uAXG0g=="
 ---
 
