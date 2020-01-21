@@ -25,6 +25,6 @@ images:
     height: 480
     title: "Facebook Aims To Improve Safety, AvePoint Helping Orgs Get Off Slack and More News"
 
-secured: "sC8QRYVn+T/v/7mXBz3j+r2Omx3bE+CbMeXTQLNIa8gX9DDNXt5vTRRhhwYi2SceRv0nY+SChOrtTsVyKLFawWBOeDIMrkT/ZK5ITT6thZi06kuoLBMZxMMbw7x4ivKjzuZ6WSJHJ/omkTsyIOm9j22MLilx7VT6eikgxBwCPIWDiz8RREEbcnh5DSaJ55J4YZxntrmfESkiXvUSPk0f+ra3KiYcarrDsf3j95ViQZv7KMITtDkpUgo8yRO/maNbPqujhEc8/+sOTN3WWH+lIKgNztt5n5sO6GQoSuWAmtE=;uavEEsWOoFPCZ2F3SrPj5Q=="
+secured: "mV9LkEsRSWuvG7dqdp36JCd86MAI08+wRpZC3XDF8ir06in9PNEn1WtzsqP+ZsNFqS4bmFGuZ0XrmTBeLayLImFOgU1Hx8HfKgm7kNa17TrOeK98f+ysxbll40fgAvsocZH0TJY7Y8pQX6j6TXROKV/cs/cFSM0t6oRVQiZVf4MVYJMPrlIl8ybVc2VSHUShxUtOVvhKhuauS4QFy+RFby9W9ezyFQo95+HNooF09jIKV1mWinnezc3azTSOpYFIPvL+r1hDBt+AYgxOqWuQENHxU3kLzt28yB/SgYc+Omj/38EdCQFbjinZ5AFzO9cQ/uf3I7eQDUfsuxgJR8G/eeuhv8h/XyTi1JWUNZ43UyR9rLQF45iRMSILeuWe+vbeEV2+OV15wLhxUMn0s0GlfS9DhgXThsHPz0lHhpOeqRPzEq1i2q+A73iZDZdrAfhTgCMppA2P3KnYs2rTl5/Qeg==;aIyQo3zZV0zq29SoSimafw=="
 ---
 

@@ -34,6 +34,21 @@ related:
       - url: https://images.wsj.net/im-145573/social
         width: 1280
         height: 640
+  - title: "Google CEO Sundar Pichai calls for 'sensible regulation' of AI"
+    excerpt: "It is too important not to.\" After laying out his relationship with technology and offering a few examples where innovation has had unintended negative consequences, Pichai makes the case that while AI is powerful and useful, we must balance its \"potential harms... with social opportunities.\" Of course, this call for \"balance\" leaves some ..."
+    publishedDateTime: 2020-01-20T12:25:00Z
+    sourceUrl: https://www.engadget.com/2020/01/20/google-ceo-sundar-pichai-ai-regulation-editorial/
+    ampUrl: https://www.engadget.com/amp/2020/01/20/google-ceo-sundar-pichai-ai-regulation-editorial/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/20/google-ceo-sundar-pichai-ai-regulation-editorial/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5422%252C3614%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fmedia.zenfs.com%252Fen%252Ftechcrunch_350%252F3b5f86d400bef94c4abbf5c9091ca37a%26client%3Da1acac3e1b3290917d92%26signature%3D0329de87ddd817b393504b2ec4b594347eb9ce2c&client=amp-blogside-v2&signature=fddd02a44664de09936cc20edc52e59e34b5d251
+        width: 600
+        height: 350
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence, calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said existing rules like Europe’s privacy legislation GDPR ..."
     publishedDateTime: 2020-01-20T13:14:00Z
@@ -64,6 +79,21 @@ related:
       - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/27256-untitled%25252520design%25252520%2525284%252529-20170811103258.jpg?itok=RgBCKobA
         width: 918
         height: 506
+  - title: "Google’s Sundar Pichai calls for regulation of artificial intelligence"
+    excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
+    publishedDateTime: 2020-01-21T14:26:00Z
+    sourceUrl: https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/
+    ampUrl: https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 72
+    images:
+      - url: https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1
+        width: 600
+        height: 400
   - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
     excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
     publishedDateTime: 2020-01-20T12:00:00Z

@@ -8,8 +8,8 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-dete
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: TheHealthSite
@@ -25,6 +25,23 @@ images:
     height: 365
     title: "Artificial Intelligence can help detect blood cancer: Study"
 
-secured: "s6pq9hXsGlqZT7FOBD1zNRNGWbUO8KEwAT0Xfosjr/BWwqeFDdiINAnpDlM5sx+vC4575b+7bQ3DurjxhC7Wkgq8dGw6lgQjZxyo1rSKCF0yLtn3Yq7C8ZtUnlvjvnoNXtCbPKFNfak8+92PJdHLzoRd3o5Gl6RTbnUpAMhjhwxeSIlYRYreTA4EYg9X8ulZPWvaF4vANe2qMjxraKjGjRCNKSPffyZ7P0aV0ygDJ5ZDvla2rZfBcvoQEqQUtBsga9e/62T8WynZ1uEfv+y+eLZl8AALj7nWj18OY7k1VxQ=;RJPCzPA6h80Uqays3xapmQ=="
+related:
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 59
+    images:
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
+        width: 800
+        height: 448
+
+secured: "UMLDeIcsleHMxhM/oalOOo+k28HCO+Vh82siAdMJVdpiSMb26yH5WAIexZiMo8Y3JNLAO3oozzbN4S/ZUHjMKA14OF8Li1mnSboj/GnROjtrA7+zxZrjnuQs/R+tlaVcwvdH7G2C0gUnYhvFaNb4WYoruHQPlXbXiFmJh+JFv0bmBmGmQEJQRLGM6eDXc4Dck8m74bfF3PSmoEmFCpnjOp2gFQxGRkxdQdV/0X2++esfXnpVCRsGu0jWr9MZ+OvB+ZpNImUrMpn8zyFiNbumgCUnfHx5SlSRnUVt99VWfYY=;NSKhth1m0mTY3CgvB0/qcA=="
 ---
 

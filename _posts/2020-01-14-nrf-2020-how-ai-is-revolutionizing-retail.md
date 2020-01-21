@@ -69,6 +69,19 @@ related:
       - url: https://www.postonline.co.uk/sites/postonline/files/styles/metatag_image/public/2018-05/robot%20doctor.jpg?itok=0vIm0lz9
         width: 378
         height: 234
+  - title: "Powering the Next Revolution: Artificial Intelligence"
+    excerpt: "Smart Cities around the globe are relying on an ever expanding deployment of IoT devices coupled with forthcoming 5G wireless infrastructure and edge computing to bring new levels of management, coordination, service and information to their citizenry. The complexity of the systems used to bring IoT, 5G, and edge computing together will be ..."
+    publishedDateTime: 2020-01-21T14:32:00Z
+    sourceUrl: https://www.computerworld.com/resources/197081/powering-the-next-revolution-artificial-intelligence
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: https://idge.staticworld.net/ctw/computerworld-logo300x300.png
+        width: 300
+        height: 300
   - title: "Experts: Preventive Health Care Is Key To Long Life"
     excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti Malhotra ..."
     publishedDateTime: 2020-01-21T00:25:00Z

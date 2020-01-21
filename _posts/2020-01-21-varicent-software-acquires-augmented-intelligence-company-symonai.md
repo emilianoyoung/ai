@@ -1,30 +1,32 @@
 ---
 category: news
 title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
-excerpt: "“With Symon.AI, Varicent has cracked the code on Smart SPM ... Scientist in a Box” (later introduced as Analytics Catalyst), was instrumental in the development of Smart Data Discovery in IBM’s Watson Analytics. She holds a Ph.D. in Statistics from Purdue University. “Over the course of my long career, I have built numerous analytic ..."
-publishedDateTime: 2020-01-21T12:01:00Z
-sourceUrl: https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/varicent-software-acquires-augmented-intelligence-company-symon-ai
-ampUrl: https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/varicent-software-acquires-augmented-intelligence-company-symon-ai/amp
-cdnAmpUrl: https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/varicent-software-acquires-augmented-intelligence-company-symon-ai/amp
+excerpt: "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,"
+publishedDateTime: 2020-01-21T12:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 69
+heat: 69
+published: true
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://thelogic.co/wp-content/uploads/2020/01/AirCanada.jpg?w=260&h=195&crop=1&quality=80&strip=all
-    width: 1024
-    height: 683
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
 
-secured: "YiuCA/hoxh6ZJB08cTeYBnO9ecbEtc/uP/5HyyLk8EWWZUeAmRXVEcHtx191ON5czR2jrZHXf3R1nCudXED5RoqvKkeb4HdQK9LFNJLuZFeS8qpv8vu60lck8WPsk0YwP4Zs7jjcExoiE9URPiCzct7Gx/kD20Z8H86kjSIYY8MpVTOe7zng8qavN9W1D8CguyJSQQDvlP3pJg78UvRU9L/MuQsMFqTlE7WSKKKkEtKlveK+Dj1BzXS1LttCSXEeHUSbkrrmfsQID/uJn5+USsl3nTRWGYs8gwFN4MwFEJw=;aiXBbR7pKBfDpvOOfJFNsg=="
+secured: "QxwlAJgJl1Pag6eTO68xkqgVN+h3h5NkjPXksaP4mhx+nZQXGFunB1QwHzqgP2ZB2MS9X7MmLVUfM7EkP5w1S5rZ3N7R4FnrQmdWt2RDPpAuN0VeFocejy8wyGq/7njb/iEEwYoKFQWCY2RKnYsyvE28C7HttCKdyNzq5uQNUr1svfm1/X1p6O6hkmlU6loTmakS8LgjH/ekikykcWGvyoYKtMLuC5n1zoAIMYIJZSgLnv+N5d8tXSaj/nRN5lWUawBSWBGi8/wiOzuygv1P9RyKyO7ykclTWlOVfurfpco=;Wnhu0EF1x62Ok6fN5IXTpQ=="
 ---
 

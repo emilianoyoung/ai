@@ -86,6 +86,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
         width: 1024
         height: 692
+  - title: "Artificial Intelligence Needs To Be Regulated: Alphabet CEO"
+    excerpt: "(RTTNews) - The chief executive officer of Google's parent company Alphabet called for artificial intelligence or AI to be regulated, noting that there are real concerns about the potential negative consequences of the technology. According to Alphabet CEO Sundar Pichai, there are real concerns about the negative consequences of AI, from ..."
+    publishedDateTime: 2020-01-21T14:48:00Z
+    sourceUrl: https://www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21
+    ampUrl: https://www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 87
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
     excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
     publishedDateTime: 2020-01-20T13:18:00Z
@@ -417,6 +432,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "6wZUtJR2wRYcY5jezMiTW37fUZFlO03zbK/fPPkkWZcGwhjZdY6pyQcMngbgYnpgGQLgnaUFN/eYdqnIyq7Lq7y3yIGafMbF74dCqdZ+C70M/nAiGFC2tNMSdAYgcO0VFrSQ6AGJV5t7HmPbB8nxvo5YpBK7ynaed4q0BgsNAV5Dgj3TADp+28WjQc8LTgxe3URhJ2hsxYD/PWI+B3s3XsFJBAcWHnMxv7xRpvYQ7iRiZG/bP8QH7r/LCHSDcbbKmVknxv1scJDfiXOW5qJOyvZpFZ1OxOKOHPP1bW9e2Ug=;wepIHE0BcrOsq6jQm9bzfg=="
+secured: "NuLlLj0S/8//2tnvS8fyjlmm3SlZntPXDIREsXMSVmHSWfNrhqP1+V1pw3GEuwYo9ryFlMXWv4JMDnJ36Zdu6Cgr+uPtY4mWeq5xRBX7pMJfhoZt71cdexDX0KbAmT0nEtsFc0h/dWel/hgDN6yCqLQhP2L7OrDuFUdXRTMIqhNsh48kUJQy50Aac9GMInJLB4dh8vc5NKuRcczRn5onbLhHa6H2JzNdZDUal8rUBYbmhqZ7Jt84pRNJkPfoYamr3nLzUImso/Ab2qIgdDTu7k5JvJ5Q6H+/LXnaJCt0fEFQp24iOzFnD5uIqnbp7pI/n3xnj9hypRlhOKMaKn/wrgiGT7lbxclZXwJd2dWqFGH89W2Q41WhISypes1jp75k86m4J+kowUksMIFIby92T4DfgJdHsSXJC4BA/31thFEjnMoHeGV4dHmR+HWcTspfI4DVS5wL2u4Csd+ISpXiBg==;O1mv0Hmk3dBvUfaFNiALRA=="
 ---
 

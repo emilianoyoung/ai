@@ -83,6 +83,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
         width: 1024
         height: 692
+  - title: "Artificial Intelligence Needs To Be Regulated: Alphabet CEO"
+    excerpt: "(RTTNews) - The chief executive officer of Google's parent company Alphabet called for artificial intelligence or AI to be regulated, noting that there are real concerns about the potential negative consequences of the technology. According to Alphabet CEO Sundar Pichai, there are real concerns about the negative consequences of AI, from ..."
+    publishedDateTime: 2020-01-21T14:48:00Z
+    sourceUrl: https://www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21
+    ampUrl: https://www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 87
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
     excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
     publishedDateTime: 2020-01-20T13:18:00Z

@@ -26,6 +26,6 @@ images:
     height: 900
     title: "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix."
 
-secured: "de2Io12VdzNBEJmxeILFABVP8UH64OcvwbZnH3JEFucxx1yVk7f4KW6jhKO8+7s2g5mjunjwqILRyHghpJOhWV40+ZS7hxB+HNCqAw0DHJuXrfcxcQ1hhva+MUX38q1o+WqRtVoV8UG0hee+R1OVi5+6kBsFCn+6TcPBiviapmvjHB41di4RQahNchcOwaCKXaJtnr3D+x8tqCnQji+nTzlYnQPxyCD95904Adwrqyy8wx79qX3wRY9xwT/YxigU5+d18aN3S9j+YauVqKrEvtK4WDZhCUGzM1DHukfhP8+w0S7sK5LgVa7dCzKJDK8B;VF8D9VuZbAXDwn/0ZW7WTA=="
+secured: "wkezbuBr1YtDoWM5oYQY3lNOFjnzipF2KFfRcI+iX5hdAYBjvVhXGH8MQkWEdNsV6xkZO+dFV6eQ50KhI/U8h9tDI/r/Spk7skfab0Xu9gCziQbzjC/lKleEhy91BdqMLP/0QJzd/3DtNMjhlP4RDLlglT3VmqrIl66DDMfHonVDyTaXPEvuJUGFN+yzQtFs3Bpe/e7ib9o6LFtxhqk5wWU2213i7+G4jSCi2sK+fCmgZ3UvIUAvNmEI37Vsb6QiQuU6yck8QGF6Gu12xq6hsmXgI6WS/IAPYs7/jvAsgmGktZ3iYX4vTG47tCCgfE/F;GmziS1KlJgZpoZi6TgNh1g=="
 ---
 

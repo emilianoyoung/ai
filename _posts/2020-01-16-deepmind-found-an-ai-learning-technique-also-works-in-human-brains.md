@@ -36,15 +36,17 @@ related:
         height: 256
   - title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
     excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
-    publishedDateTime: 2020-01-21T12:06:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15152568/gbt-is-expanding-its-autonomous-machines-robotics-research
-    ampUrl: https://amp.benzinga.com/amp/content/15152568
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152568
+    publishedDateTime: 2020-01-21T12:11:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-gbt-expanding-its-autonomous-machines-robotics-research-/2020/01/21/9084095.htm
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 54
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
 
 secured: "JOvCF81sva+5qb589PoR5+G/NssYYIPOscPr/ZWp+89SoT4w/NNQfTRBkGtK2e/z67Gb4id7RJ7of32mbTpXt7lv8ouUgXj1sSXpSYxYY8hH/HhJ3MHHW2dkExVMsqbZXtlbRqeNiHbZHDT071n0fTENwk0jgTuxCcHIv3r24T+iaEPbv+ahX9Q8zgwjXXUDmHzsAzczE5pL1Id9A/4hcy3HUy/BzM8IU/92OQnKucSETMzarctmbdT480XXoiSQpGrpBd1SUPsJuxGDqiXZSLlOLbLvlsoNQvjbQOfYLswJs/8Dn3g77/MzKuxNvxT0JC8SfHYbnrOc5STqa6t7gLEU36L/b03tP1gFwpUHA3hklkeSeQst6O79dkqfdSDNNYzwtfTNPinOPbL61jDyH/+P73OrzdALrG+JWHRvCfwTIp1mt+vgTg+7r9ZPRAKCyCwfgNGoV8rRLHCa9mtfzw==;LevAYXEo0vo6EDdtycTEnA=="
 ---

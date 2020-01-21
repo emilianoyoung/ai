@@ -7,8 +7,8 @@ sourceUrl: https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/
 ampUrl: https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 197
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     height: 350
     title: "Björk and Microsoft use AI to create music that changes with the sky"
 
-secured: "8Dfr/SY6nn/tL89nuz5bEnOMar/jrmkAbtd3bHqUobZNciqHEbUXVOwqGR5/NESaRQoCyjyV2pqvNmtUQLDqVpu0HSPjFDdvXgmAWPl5JvbHOfEOxwneRLwUM5dnI58fy3Sx9Wcm8OMh108YKZWrDrY48Ni21Ovwt8t8UtCN6xL0koSia8VHSb2G7csZ1A+XCvENKJdmEodNtKoVQ5XsUDouq0J3JbWK246IzR78ixj9TzmlghvVyhHX89Ww4HGZVj0fCImUx/SBJI7TCE23OUuOWs3Lu+5D+Tixjnn4jWkyWrzCNPqJzShXr7JOYzivaCn+rCxF40xTT0KxmyQw9oIZmpkELodaPeOgUd2leucbHjYISPbaLBfiw2XWjhhlo1SskhQg7Diko5TwsgkjWzWM5kVupCp+W27t3bmfjYG4+E62eSVqzDUCnOoPtoOX9lRnMIaKRcVst4WYMAyVfQ==;NoMM4ppLvCnHzlTvKIr7NQ=="
+related:
+  - title: "Björk creates an AI composition that creates music that creates music to the weather"
+    excerpt: "The AI will create dynamic new variations of Björk's original arrangements based on the changing weather patterns and position of the sun . Called ‘Kórsafn,’ which means ‘choir archive’ in Icelandic, the composition will be played continuously ..."
+    publishedDateTime: 2020-01-17T22:41:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 150
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/17/22/23542750-0-image-a-28_1579300849679.jpg
+        width: 636
+        height: 382
+
+secured: "Z8vajkvNGVX/0NCW68zcnO3AjjbBEeP4DJjPJYZQj4tfnqUX4JrMvT3wFbrNEd1PVWjf25zwiGB+20Z78UT+XgeskbwNUjkJA4jN9kjM0DaMK/+F3Y7EOVdSTICvOhjfePByaERb5HA2NQaLxaXvy+SAUnbrOZcytqNGLW4qxB3OedFcu5Kk93e3uDZp7gWTjlSUozjf6AFr+dBZ0tTzdXxJiiykGu37rA22x4zaR22gacyBI8//1Pc5BniFOD8sU1d4SAbjHfTFC9iOsNELHfPT/6yhajmyig9n2vzBu3pv9ThoS0z0cGodgmmK/nlVRersfm+h6KIAXW5kVpygGJ0QgHb+iw4gIHSyZfZLUElbKxkHBoTTwSdZmieyeulD0sQa+XbgxTN3eyCnQXLaCWWfXvke0q9233+PyENvftv/PaISLdQ7pUbrCybEGg06Lt/kNl6wl2bsAvNt42vRaOYvNfLvC+NbkJzQBQDoQdA=;SHFEfMOMSbN959FnseVlJw=="
 ---
 
