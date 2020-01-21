@@ -15,9 +15,6 @@ topics:
   - AI
   - Facebook AI
 
-tags:
-  - PyTorch
-
 images:
   - url: https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png
     width: 1025

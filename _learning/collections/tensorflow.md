@@ -15,9 +15,6 @@ topics:
   - AI
   - Google AI
 
-tags:
-  - TensorFlow
-
 images:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png
     width: 1200
