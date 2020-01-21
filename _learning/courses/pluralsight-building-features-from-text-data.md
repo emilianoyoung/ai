@@ -23,6 +23,7 @@ levels:
 topics:
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: https://pluralsight.imgix.net/course-images/building-features-text-data-v1.jpg
