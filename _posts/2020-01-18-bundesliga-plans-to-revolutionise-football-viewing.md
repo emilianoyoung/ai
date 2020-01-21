@@ -52,19 +52,6 @@ related:
       - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
         width: 600
         height: 378
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts. Using AWS technology, Germany’s premier ..."
-    publishedDateTime: 2020-01-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005382/en/Bundesliga-All-In-AWS-Revolutionize-Football-Viewing-Experience
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: https://mms.businesswire.com/media/20200113005382/en/766965/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
 secured: "y907L08o/kEuSuSfAdnctO5It342LXkocibV/sPA19oeU/gWTTVrPE1n96JTOw6ay44bOMSAhZuqx9UJ6HS/lXuOwvk/ntZAP7ATpQMrR8a2BPVZhReM522ZXTSCmSjDIVBqW/B5KmisgPAw3JrNlpN5AjYq9nlNIb9pu03FFHeVQ4UUHSr9tKk9VnsY4GDfqCcGoEAIPJq6p34p0MP9bXnYbBfoeKFHRU0NZapKCCRirj+4qyR3iNYVELdoAj4DRdCqLLLxDplZ2qih+RNzdh5XZAPOP2e5MHahJpplZaoJqRZUuw6FpBdvrPGDgjrFZY34243aTTyfhtBoDtZJx6ph9qH9otHsMCjNUgTP55+/hTWcVJSaQoHtCDwLq8fcmCCadgmj5ULFVbe4pavxFQr4RevFU9zMEVap5YxvuG40d62Hzv9RWDOsKEO/43ZDtt3bMSQBmN+yn7zem3ulJQ==;wfZW2hIO0yIM0KvgjvNY2Q=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-int
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-intelligence-will-make-decisions-in-tomorrows-wars/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 753
     title: "How Artificial Intelligence Will Make Decisions In Tomorrow’s Wars"
 
-secured: "wNuaFY0tHhi2FomDuf25YjCj18waEIlVBwYSj27h4ZUz/8FpoXYfNVz1Qk/R5afy4RV46X5NIV+Z0iIp/ieah4C7zDlrZA0GXUvDaByEP0hvw97GzT9ODB29s46by4v4BphUE/sr8UdHhHReO0gBCmAH6CND9rIfbkWfAx3ajQ/SWAmxjHM5pebp85DreRQC0rrRJVzCHHQG42HwPJXE7KU/Y5vqls5Yy+yAJGAEJIN9VkOo+MBMMgijvyqnjA6fSWMRNlvjCb6PpOqN74hda9uNmGpw6LSbhjH6Bj3diKY5tVwHcZAB+FALVHHKzs7mexoJSyNjSdttEtqB5v+URFIvjA7pBTnCg+iKtsn0e5jrabIf0Fu1PsXNMEmwTaEWk8csTPd7RVqGmCik5KY6MkIGqrzRluNayoT//6Zj87/c5XnPUesCnBSLJzIwsMfREfVb32yLiFvNMnisnjXn2A==;7b4C2lacxI8afgwWJv+TcA=="
+secured: "HmhRWVtPkBnIO2Q4BzGsY3/irbGYMsFQx8361av5HkTrw+x0/+iWcmNaG8gfh01BrfXm2GiEgjZ1mEE2hAMBvqHm2bu9Xqm0S55Ros1HLPbMMMdUAzZ4Yue1WrSzDKh6TM+pYqra4EQ+eULe8FiYQSmnJw0/Lvh6wNkzH+J6Npwqykj4uZVHdrpiSFbvqCnjimY1SFEoYvxQyaJODoTXGbreyBRpoXtJAK3TXJalh0IxWKjDfIMGUsQjlm0A45ovOUdrBJ4UMe49CGZzcdpAeyOnj58kJq7hujE0KsOE8+TdymSwkYsaLUBp4eLByLbKRRhZZ47SXgSscFMkWwrbbfj29PzVVxpuOCybI7g0qwWsajX11Emk7k8TVwDPwH3G0wAMy34HcraUe3S8JgkFKXQqd36x03O2lRRdg+BLqUCCjrytBEg7eTOcm+VzSX6Bn2orM0FeVm0De6MyYU+IuA==;vpeIgRRfE9cdzLAYr9HT+g=="
 ---
 

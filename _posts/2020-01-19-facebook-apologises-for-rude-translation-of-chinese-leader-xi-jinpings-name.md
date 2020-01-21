@@ -5,7 +5,7 @@ excerpt: "Facebook Inc said on Saturday it was working to find out how Chinese l
 publishedDateTime: 2020-01-19T01:34:00Z
 sourceUrl: https://www.scmp.com/news/world/united-states-canada/article/3046702/facebook-apologises-rude-translation-chinese-leader
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/19/ebeba03e-3a19-11ea-9933-e21be988cd59_image_hires_015207.jpg?itok=J5zEDWp7&v=1579369937

@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-the
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
         width: 1024
         height: 683
 
-secured: "haaLcnqggoRomBflfJ3yaxhYNr1S2DFff8MYKHdcGgLdBYUlasbiI0NcryqnS2DkKKQRlEKUuRppvbRc1/GYPLUXneEL3UD3lXqKiOgceobp2h3mGcIW4zQk9vkFrmHTSZO0/BjBIWwa7tALakgm/kzBxxaERgY0wzGQjIOb2PsaKqH3nOdg4R4b9SVhvRNZnzLjZv+Ez7LYwXj1MQd7Jf145M9+OpPIA7QhkrFLnUIcO79s/fwmJFlTYq97mHBsTEFIeb1U/7VW524420O0z+yKwALWARqq1/rYr0+yLxA=;mPQqjUr7IzRdi+13PeSEcA=="
+secured: "9Is1TOq2r/GuCgsJD673yAbrZlDUbY2sYTIP1+q5ubDsr+eN4v/pssmmlhQRjAGXEUIuu6dl236NLjtZ1M2dfBIJaLYODPhx1lm/jYeFyXwzVBvX4S0Q7zfeku57TOV+olezskBM7RLoNNctmaU8R9BT3Y87MGMSqcbJGBXibRE1R2pH1fyD10snaA9KCIHHvAodnCkoZqa/RdpFEngFYOISxY1KRd1RtgVEjJMTcGjffKo3GPCcSYkSQcOSwTakNQ4n2Iml+RWPh8ihsd39QXDU2J8VePyVjWxpjHHF1vc=;7koIlTEaWGL+XPtUukNjWQ=="
 ---
 

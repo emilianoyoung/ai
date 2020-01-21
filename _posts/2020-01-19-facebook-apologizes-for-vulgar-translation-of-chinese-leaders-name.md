@@ -28,7 +28,7 @@ related:
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 21
+    quality: 23
     images:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/19/ebeba03e-3a19-11ea-9933-e21be988cd59_image_hires_015207.jpg?itok=J5zEDWp7&v=1579369937
         width: 1200

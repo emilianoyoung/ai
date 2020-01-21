@@ -39,6 +39,19 @@ related:
       - url: https://www.abnewswire.com/uploads/1579519636.jpeg
         width: 417
         height: 455
+  - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
+    excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
+    publishedDateTime: 2020-01-21T05:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-foreseen-to-grow-exponentially-by-2026-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Automotive Artificial Intelligence Market Industry Trends, Estimation & Forecast, 2018 - 2025"
     excerpt: "NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota are some of the key players operating in the global automotive artificial intelligence market."
     publishedDateTime: 2020-01-20T10:41:00Z

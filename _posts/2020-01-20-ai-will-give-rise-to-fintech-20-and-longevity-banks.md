@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/20/ai-will-give-rise
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/20/ai-will-give-rise-to-fintech-20-and-longevity-banks/amp/
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 677
     title: "AI Will Give Rise To FinTech 2.0 And Longevity Banks"
 
-secured: "eyf9/VxDmYh8RtIdz3aw8e8XzecDM3daHm9jkARv6bEnoodsDG+cdUg/NxqtF1c5RqujvDLMgMvBScemHgbG2g5de15hGPfij0/B3c15vqIo+051sQeaF+qfgCNslQldFH7wqt0NOHlV1F2FU/rvbQNhVz1KqENAbmiEE3C7X9r/0BpQa3b9hh0djelqrhtudw2P/oQsBhdOx63fkuG+/wxbh3pjor5f/iAX/pTscrWG5BmXrWSdjWOgpv6M9uDQuz7yt84BEag5OjRoNO2REyn5fygMTx3m/xha37nS/E2cs7zfutu6bFUM8CGQaeZr8k0Mz9bEFsk9lFe/QxnFEI2e4wSoxxpG1MSy+CbSrxY+m2PaZzYPCwIXU3MO2vU90nSJSpEh+/2JiAGeHQCzEPWnUOUSlT2gD01SwvJOS0pXlBQzSHSz/VtdMR2L9Eivm+W7CbcfXhCbV7PfahXB3w==;hw0v8zjcmczthyBshsW45g=="
+secured: "/i3of1UDxOvGlEGHRW1E6dVJ1hgSHxNBe0U+tqdf3z0MvZ4WZ9Zs60LSruC23uhJOGRS+tgEooqQdrgxm6tSYA4BemKZ81IOkByJqoa6M9W1H6Uv9GEVtI+Sk6SN1yqteDg46CZg9/61MP4S1SAOrNwNfaga1Y3GxGv57bTU3Y/CwNpVIxFQuyCvWPieN5JBzzb6isBrmNxpm75Ov8F49TWnifZVPEam/Pw9Wa3Za+xI0TuET15m0jRIty0I9/0FH88Kpw8PdjJ22MmaOvsNNd1c5vjban10r6yPd9t5HSCjjmhkb94+ZFFXTR9vAxO+0V784EAz7X0sOtkNsnjBQr+3KFNwFULDykUWI52E3/htyCkX6Ty9C1V4Kh76wbK2XuoEgQZ21268PLHfI5mRLNZpKXMhOk65B8VZWbg9yqFAT2xl/g4kq51i12bqZcbmqqQbuZUGg+C7Z/9jYJkUEQ==;YSIE2XZolXoeIKiyABvTkg=="
 ---
 

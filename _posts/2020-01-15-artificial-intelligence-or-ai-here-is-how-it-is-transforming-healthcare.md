@@ -82,6 +82,15 @@ related:
       - url: https://www.worldhealth.net/media/original_images/AdobeStock_128079409.jpeg
         width: 5343
         height: 3456
+  - title: "Preventive Health Care: Key to Long Life"
+    excerpt: "\"A host of converging technologies like artificial intelligence, Robotics, Virtual Reality, Digital Biology, sensors, will clash into 3D printing, blockchain, quantum computing, and global gigabyte networks in the near future and it will completely change the dynamics of the healthcare industry and how it will be delivered,\" said Preeti ..."
+    publishedDateTime: 2020-01-21T05:35:00Z
+    sourceUrl: https://www.medindia.net/news/preventive-health-care-key-to-long-life-192639-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 4
 
 secured: "DFuhH0p1RVPaim9jaHmlL+tKofcb3qjSZh9Bmne2kw2+quzmZffggg1/Rfm5OmGGoVmpivpU4jFtnSpYu5fmv7NNTnp+5wCVqGzqkaRfnwXvCQboVPr+kJMaxp6bM2surp+3rQ9tYo2MXvve8t40V1DgpZV/PFZFoFxfTZZHkFMJQ2IHuaUxXkFpLrDTqw5ZXvWT1t+N2DP01yZexPDKMjpg+flTEQXXjMl5Jc49U1zT/2qmodQ92Sod5bnEfqj2pJcDufSOA+nDiG5/sSdmALUOdkDp3bv0dCdxInojzpw=;0JjoITKAKkiS3/ctPyz81w=="
 ---

@@ -128,6 +128,37 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automated Material Handling Equipment Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence,"
+    publishedDateTime: 2020-01-21T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chipsets Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-01-21T04:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "New York, January 21, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
+    publishedDateTime: 2020-01-21T04:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "w0lbmY+TfEJ2HB4pwucepCS8dCn9Fv3IQS/J3fnSJ+EP0huRx3U7/N4DfeczdwDXZipqeTGA/BCbKKXl/6AX6MO0eREPkIwHib0Ko692vfA0a70OdUqjDBHYmS872quA3ai/huQR5i69dt6zJyZNRtAlRUwBfnx83/sbfgx5g52QTHuydRqrPMYrrJkAObbp+kJi0N7tAZJQeHTcjHaXLYHm/H+iCO2qO/wQ+2EdMC4Ho0j+7oW6CK3JSRgsEdbo8dbtTlsjPPKG96+F/wpGcJBONdQTxstUqiCnX8dpyMU=;Ckz786aiv/y17avGQET6Hw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
 type: article
 quality: 187
-heat: 267
+heat: 277
 published: true
 
 provider:
@@ -143,6 +143,15 @@ related:
       - url: https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640
         width: 1200
         height: 700
+  - title: "Google CEO calls for regulation of possible artificial intelligence"
+    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
+    publishedDateTime: 2020-01-21T05:36:00Z
+    sourceUrl: https://www.lewistownsentinel.com/news/business/2020/01/google-ceo-calls-for-regulation-of-possible-artificial-intelligence/
+    type: article
+    provider:
+      name: LewistownSentinel.com
+      domain: lewistownsentinel.com
+    quality: 17
 
 secured: "DH0qqpVlxeByOoWD0vmrqYPoGhDS58hatdJS9WhXuXfvJAFL1jUQIRRPXM1+jBC+202EXznpTZ+azNLRplkk4orrz+F28hPaimt2P5gNygJtu/65KQ/A1mcmIRvmkdVFB3EhO4byxOmgoPOUShP2RBdy0LScl9I4iI/xYFZjlRBXevRRH+UESgAgdV4WKuixE86bwIGpSBZFOYurXIeCthG4iJWhjjrkLiw20/yhKGPjZWsFB8DOCeN7rszqqbiepecZ1BVerlADlW8qdDlibcuyCWxtXZCwOwkREhJG58+H/UAqlo26vSm4grWdVBiAm9S2VQvb3JI7W5tc6vTEgoy0jH+BOnIkyZcINFOrHJfDTvl12tgazw/suxKHNVYnFF1dLEFR7qYztP6Cp5kq7rzJlfz+lmC5IlsWq2lC01ZCoIUKXS9vsXxJknwHtmoLIlDOSahpkWrhFqyus/vX96o77NlVX1agGM+Wab9E38I=;rLDZIX/dVyl5vkXhK5XQxg=="
 ---

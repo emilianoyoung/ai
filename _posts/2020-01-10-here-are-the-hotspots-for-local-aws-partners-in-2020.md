@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Here are the hotspots for local AWS partners in 2020"
-excerpt: "Artificial intelligence, machine learning and cloud migration are expected to be among the hotspots for Amazon Web Services (AWS) partners in the local market this year, according to the cloud giant’s head of partnerships and alliances in Australia and ..."
+excerpt: "Artificial intelligence, machine learning and cloud migration are expected to be among the hotspots for Amazon Web Services (AWS) partners in the local market this year, according to the cloud giant’s head of partnerships and alliances in Australia and New Zealand, Corrie Briscoe. Speaking to ARN in the wake of the vendor’s annual AWS re ..."
 publishedDateTime: 2020-01-10T01:54:00Z
-sourceUrl: https://www.arnnet.com.au/article/670179/here-are-the-hotspots-for-local-aws-partners-in-2020/
+sourceUrl: https://www.arnnet.com.au/article/670179/here-hotspots-local-aws-partners-2020/
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/corrie_briscow_aws_summit_800by500.jpg
-    width: 800
-    height: 500
-    title: "Here are the hotspots for local AWS partners in 2020"
-
-secured: "JWm2WnVozF6oxVdWfxxCqesYVnJKr0G/ZYOu6zTcYSGJTlgXPb81aM8y1M7LsIaEf/8XQ0Kl8Uy2wrtaODmSQLqnqzVaD5C5VSyeMILBEuAsCGq2ZtzQKt47qRPc9dCVGN4AagPIrgyNgZHbzQqtCsqNZy265uMY7ScPc9bDxDH8sL9RJDl1VKcgOtuI+1EOApQFMmUodwTt8Vy96wQ1D/6/jVByTUVQKQPwXcW81UW5c1MJsdMuhwnXEubeY2FotPMmV+vFQQjN9rIC/3Costfh1wq8MqPZtA8Ws7nqb0o=;PTeQ7ylb0v6toWJL8uyzug=="
+secured: "FPsXBGZdAz0jfb9GtFMA2X6heHLDFRPwQlBQZ+UJEUkRsZG0WiBkdFJ2T+U+oypKghAtpwO1rmq7goEji9lfmJ1Slch8nCQyvyoCwPoYnsXCdpbYceiurbfZWc9wC2gcNOerRfOwiu+AADAR6h7rSW5weDachJCsTJAMgMdwExOdUPXt8vHw8iydNWmcG3SC8fSkcsOeAOR+ifc4UzwFUfv6tEpVezgRcUzuSTKnLe7L4OjtaxV1f6bQ2+USdsJhI9n/eiUdinWNSR0iE3N9HgWVapbzXaUddYOpPgK1ZwMZSAglyuErxS40jOgga9u7EwxKt1z2QFNcU5PackoVV804C+MgBjokkHgD75o7DgHOFjVYW+7Lat/iDMU+iBTvU/CNuI4LR/Mi3AZ9LkRKpGTGsJ9ZMJAoYS5fy/C6S0rBMd2bypomyOwydOneCEqXDN0Zg1dKQrV75mBcumUwiA==;3lCPu/VpHjgnx25BprYZlw=="
 ---
 

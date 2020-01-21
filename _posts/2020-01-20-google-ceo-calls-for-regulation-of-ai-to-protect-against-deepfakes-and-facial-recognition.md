@@ -141,6 +141,15 @@ related:
       - url: https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640
         width: 1200
         height: 700
+  - title: "Google CEO calls for regulation of possible artificial intelligence"
+    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
+    publishedDateTime: 2020-01-21T05:36:00Z
+    sourceUrl: https://www.lewistownsentinel.com/news/business/2020/01/google-ceo-calls-for-regulation-of-possible-artificial-intelligence/
+    type: article
+    provider:
+      name: LewistownSentinel.com
+      domain: lewistownsentinel.com
+    quality: 17
 
 secured: "tesIlSUiGkIOOCArfMf+6BJ3GIwrzsw6n6VJoOAgq5RiAdY6uHzQIApS6qapySbLrUOUfi2sIUafoobl9rbvImEqKlGmVvYsg6u+5q8rm2jLPbQ8aH63/Pbd3g8PZw/J+pBQzppAqDQebFXZmUrtLRtCwAHtDkja2dOQfrEQCMoYmVlL+u7Un7PNklhAgaSp19jLKeiwPxz0Ld5WLMLeUqEe2jCMX6I0fCWx66/LEfOCmMSGjTdNiL7s0KDZPvyrDYA5yAzPH1DSsUNCpQfNo1tTVjPniM625LjxoIMffKa7CDg4W8bK4sXxtbiLBoXtT8oQ/hkjS6+r4GnKpPSePvOsACOJYUKWme2SY9+EWG+e344OziXaGTDQRhoknJ4nZoXlTfDoipwkrN7/qTKET4WUkWtcP7LGvJP36ca6REs0EvfjHgAvIbc2guPVbTb/3j0stJ46x+hMN4oDU1QemA==;nN12jhOWdD+F+L690ayHKQ=="
 ---

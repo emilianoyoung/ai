@@ -139,6 +139,15 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 51
+  - title: "Google CEO calls for regulation of possible artificial intelligence"
+    excerpt: "LONDON (AP) — Google’s chief executive called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial ..."
+    publishedDateTime: 2020-01-21T05:36:00Z
+    sourceUrl: https://www.lewistownsentinel.com/news/business/2020/01/google-ceo-calls-for-regulation-of-possible-artificial-intelligence/
+    type: article
+    provider:
+      name: LewistownSentinel.com
+      domain: lewistownsentinel.com
+    quality: 17
 
 secured: "+gsMbynB5YE79zGf8sejKNMK4QKX3/nyLCkKbQQuR8YpJzMHpMpqMidw7TcXBZ1/B8RG2MHxWqBjblLkelT2mElqyoF0g8HTFt+EYlAEkqN2LghiepavlJedE3Rt6ryYTYIXynXYuR58S1hE5Jt+oWFGM0TRNw7wpjRz8ucb08QHkrpfls1XJEmk6tlJwHn95RwyLr70V8Fn6xnQ3paCCnFd+7e+IRU7aZ9i1iGE6O+YKZhc0ZTRFz8dbe3lCrq44f8Yz6OTepd+WpmaCyzJ4PzWrlSorv+fvsV8Aoma3FCLQ0xBk5INM8ZxsQfmGLJoB4ARqQgXjoDt598e6P1QfXz8R5FhmBQuV2h3TpaWi4iytevKa8j0yMUVMia61wp+Mf+xjLaSueW9Dcmcv1ZOsVZTMOgLVL35JaVT+6F6zGRnWcxj2RbtMxjAp+jn7LzFZ/Pfd4g3CLBJUXzbv8boHQ==;On/SUO/kdGZT4OuHjPFcsQ=="
 ---
