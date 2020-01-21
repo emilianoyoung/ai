@@ -1,69 +1,45 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
-excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
+excerpt: "market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
 publishedDateTime: 2020-01-14T03:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116798/global-artificial-intelligence-ai-market-in-bfsi-sector-2019-2023-32-cagr-projection-through-2023-
+ampUrl: https://amp.benzinga.com/amp/content/15116798
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116798
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
-    width: 1200
-    height: 627
+  - url: https://mms.businesswire.com/media/20200113005533/en/766971/4/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
+    width: 480
+    height: 270
     title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
 
 related:
-  - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
-    publishedDateTime: 2020-01-15T09:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200115005015/en/
+  - title: "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI"
+    excerpt: "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),"
+    publishedDateTime: 2020-01-08T07:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 627
-  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
-    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
-    publishedDateTime: 2020-01-15T22:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
-        width: 1447
-        height: 908
-  - title: "Global Closed-circuit Television (CCTV) Camera Market 2019-2023 | Introduction of Deep Learning Technology to Boost Growth | Technavio"
-    excerpt: "Some vendors are integrating the latest technologies such as AI, deep learning, and machine learning with CCTVs to improve video surveillance capabilities. For instance, in 2018, Zhejiang Dahua Technology introduced IP-based cameras with built-in facial ..."
-    publishedDateTime: 2020-01-13T20:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005538/en/Global-Closed-circuit-Television-CCTV-Camera-Market-2019-2023
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
-    images:
-      - url: https://mms.businesswire.com/media/20200113005538/en/767042/23/Global_CCTV_Camera_Market_2019-2023.jpg
-        width: 1200
-        height: 627
+        height: 630
 
-secured: "DJiaUxpnv2K2p9bAGGYHioFFQZdEklz4NGoLYNHYmGO+XSjyIZFALHvN9jdIJEIuqgdsuwUClt+Xgy8KHN7GwblSG9ABzW8dQBHfe/9lRcVXMemnXhhdVlVcQepnCImYQLcYEDjUG4bxGNRPd15CRXOp6yBgrEyEUBUTOm6o3eVPzBr4GmiQzmPlLocUvWObQsPqbX++YgnhGv3yXCVw4QiWE71PkEGuwy5XTmefdvfNrFeqwLA4p/fcQ/Um1D6VeK0qnnHhideratBx2FB0y4y8yBWEXzFR8ZLDxsYKySyZU1x7L4o5FMPoWzl1VBmYjSscEknRUcUQ+kCCnFpBys52+gdCWH7kUVncvGW6qYjjSIYRqrkv4QBCXefUVTMibew72Odm2Cyg3oeyoE8kSiftsyXfrkzWbppeAiGQ4TC9fX/sjWAECGWsEs2vQFPYeeQmd0PsFPMuDh9hD4XAxQ==;79zuSSmLvk+S43kHsEodtg=="
+secured: "oqyCXKHwU5Pra15+Ab47VhO7NkY6u2JFPuY8Mv+lHNVmIEiE638ZVUFRI/gYhoLo2rEbOdL/A6vNZABWWCNDq8mj5zAG7OqlwCvgjkFoKVzr25Z4/dtYqFfkGybLAweNN2zqAxTlOA6FbXCSDyRlT6vj/YuAtEmcE+9UTDzByFq7Pov6AQ8VkmSRn3BM4xJlAhIX3kDLD0pmJcZPTRAxQnUW1EidBCv2Bl0QizIhaESydeOGBjQQRexJYtsmXqRRARy5Krlty0xU5zWlfqkd4LwwnlAXVYhnkGw458aylKA=;gkt2thnqwWoJrEStHIyc9g=="
 ---
 

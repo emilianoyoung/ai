@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
-publishedDateTime: 2020-01-20T12:36:00Z
-sourceUrl: https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/
-ampUrl: https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/
-cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/
+title: "Google CEO calls for artificial intelligence regulation"
+excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
+publishedDateTime: 2020-01-21T05:50:00Z
+sourceUrl: https://www.wionews.com/videos/google-ceo-calls-for-artificial-intelligence-regulation-275642
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: POLITICO
-  domain: politico.eu
+  name: WION
+  domain: wionews.com
 
 topics:
   - AI
-  - AI in Autos
 
 images:
-  - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
-    width: 1200
-    height: 628
-    title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
+  - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png
+    width: 918
+    height: 506
+    title: "Google CEO calls for artificial intelligence regulation"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -170,6 +167,21 @@ related:
       - url: https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000
         width: 1000
         height: 652
+  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
+    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
+    publishedDateTime: 2020-01-20T12:36:00Z
+    sourceUrl: https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/
+    ampUrl: https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/
+    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
+        width: 1200
+        height: 628
   - title: "Google boss Sundar Pichai calls for AI regulation"
     excerpt: "as AI becomes more embedded in our lives?\" she said. \"Regulation and self-regulation, via a code of ethics and an ethics board, might not be enough to do that.\" Google launched its own independent ethics board in 2019, but shut it down less than two weeks later following controversy about who had been appointed to it. Mr Pichai will be speaking ..."
     publishedDateTime: 2020-01-20T16:46:00Z
@@ -325,19 +337,6 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
-  - title: "Google CEO calls for artificial intelligence regulation"
-    excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
-    publishedDateTime: 2020-01-21T05:50:00Z
-    sourceUrl: https://www.wionews.com/videos/google-ceo-calls-for-artificial-intelligence-regulation-275642
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 37
-    images:
-      - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png
-        width: 918
-        height: 506
   - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
     excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
     publishedDateTime: 2020-01-21T01:58:00Z
@@ -361,6 +360,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "jGz4OabObvpz/wap5z7PTaBXeA7zBTDphYYlYYvnFbjaL/bRbLnmf5lgbKgLJ1Hv+WKiEjWfui2rK4JkJb7NapNfva9r8swDDkv+0u5MusXKs0B55i3igRmqQ4XQyG96DBfyED0VjSnl6yhe68dKx2Wrr6QEQrGu/RRWBGxSDB6MT3ggTfKc6zjz7zrJqnSyBlRzwGGyG7bEgIYinAPQlW72S2tlBJSItklWMGzegOLa6WbCDJOICEwnZwUY2RnBkXijYjs5jk/c0SNo2nmY+53KD3STpR7DVbLGRqEaJF1HlMS5ng2fbskniWNp0G5jku3QvAHh39dS8mbv34UeMqrWaEJM4S6SzlIFj2K5OnNZWfH7HnXvu68x5MOe3+vwq+D7K7iRYTkpjsDEwk1CF706d2n36emiwf6lDaRkyhvhd4ixuMm4SSIpVOA/e6KmmUgV6wBrfmjP2cs1BA0h2w==;o3kj3C86oc4haMITfqsZxA=="
+secured: "nGPL1VK3oLGqjdgMXLCWMxsnMzVmWvWOdm80P6S0q7hzJq/P+qA1Wojm0o/HnygHs4PXoPYRbp3cOf0sdhkpE6zBH/pnlY0MV/yWzZrQZsZsGP098U/SgVB8KMIcFVXWHj+0U9Zpp1YR7XrTDfq3RZcHkKBo0x30dTpjdo+A4VpGWVkWNL8P8qMAkU8k4KlWQ9NzTdqKUSKr3zjUIB0wuBnaw7gXHArPfCjToS0z4b7hV/pFW7KlacpeRJbIN7m62+0t1GiTctuFMzY0ARv1ppLG255ZoWb1YtnXyo8C12E=;wPTaqPDMW3mUEfPD+IjGMw=="
 ---
 

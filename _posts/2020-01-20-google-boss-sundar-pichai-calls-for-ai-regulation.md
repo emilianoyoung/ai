@@ -325,6 +325,19 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
+  - title: "Google CEO calls for artificial intelligence regulation"
+    excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
+    publishedDateTime: 2020-01-21T05:50:00Z
+    sourceUrl: https://www.wionews.com/videos/google-ceo-calls-for-artificial-intelligence-regulation-275642
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 37
+    images:
+      - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png
+        width: 918
+        height: 506
   - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
     excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
     publishedDateTime: 2020-01-21T01:58:00Z
@@ -348,6 +361,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "6yYxBcZaQUnvjgGRgPhA+33aizGFF3n0nPyXTMUNkJMLK/KKThbq5TQr1Vsayx8ZpR6yGjiJWdqPkcZuuNjGoJKs4EvUGcUwGfAzvrsNCt6HkxhnC6ZdHfWmm6uqd8C5yBLKNslaCPmx98BjFuaLSbZfUViz5zW8M8XgWLIXRiderDw4w6A7UU5kQBXeFsbVEixfOzo5jlhaPCOwMmCfX+ssI/cYktUZ7h9Gy0OANrgRzB4AJNF43tz9D+v7nez1yVffk8UJBLomCGYeEaxT0eaWgRbX11U/deHctDmzu3s=;DSS92RwJtWQbdSJ+nfwnDg=="
+secured: "T8t+Sr9G1xrgPEpIfRcFDBAZ0F4/D7tn9gPlAwfIkRJTbpJ0c759x0U2OD5NQOQ/K69C7fRrQzE2vXdtZy31EskHRfHFCvaRpSLXA9Skk5FCJnDw5er3xXaqObSt859c8TBOSKFK8FAJqApAuTyecKd/mXZeIp3bBudg1nFevER7rIwcqxDUghISRBx3nWfMfnchTbXs5HobYf/bLAKdREydUo/GTC8YtYqoc45K6VZOWb9k/qrM0I41zq66rT58PqMs7cct2Cowk6bgfRPKL1yLO9WH+T/hKkKVgSNttLPitIwFpirEnd2zMdl15CM3blYZNtvOMF3ugtSq9nLGCkCyKqVWXZUO4YYQb9E1poYLn+HggwwqGESAxKQJ2rmPRjc23X/B0SBEfyiJYhV68n1ttzBk5REt/9dqO2FF7Vz6qEBM3ZU7KlyCiQLccwC67xaYoXI/Msl50OEELzvykQ==;Kqz+cVJrAGn/3oTL1N1OGA=="
 ---
 

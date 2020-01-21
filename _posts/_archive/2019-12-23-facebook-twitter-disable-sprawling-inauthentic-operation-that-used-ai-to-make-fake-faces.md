@@ -8,8 +8,8 @@ ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-dis
 cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
 type: article
 quality: 50
-heat: 60
-published: true
+heat: -1
+published: false
 
 provider:
   name: Santa Rosa Press Democrat
@@ -26,20 +26,33 @@ images:
     title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
 
 related:
-  - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
-    excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook. While the technology used to create the fake profile photos was most likely a far cry from the sophisticated AI systems being created in labs at big tech ..."
-    publishedDateTime: 2019-12-21T16:40:00Z
-    sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
+    excerpt: "Facebook Inc has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
+    publishedDateTime: 2019-12-22T12:55:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
+    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 36
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2019/12/n8663-1576946264399.jpg
-        width: 443
-        height: 249
+      - url: https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG
+        width: 600
+        height: 337
+  - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
+    excerpt: "Facebook says it has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
+    publishedDateTime: 2019-12-23T00:00:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 27
 
-secured: "wcDW5PvrlOU09h8U9oGNM05OhOSEZt8s8Px/xCxN2vvK6HtdOh8WDhRT8QYjNRKD88dTviMlCFArqpsEdj40E9kKoVgKnywuXsDGrhzaOfjIriWAK5HZt4t7G/dNjxocwoZ+RgVrdRSg472nb3BvvM6laaT9+fZHEdzM9sGGq/ooOknOplJkNo/w+I6/bMbIMzEXlwZh1y0fsGDJRBjXJnCMnmG9xdwREVqpEU2WVmvbPrQ55aYmk2Xv7QKKaJdxasiOaLWWpi2n7HOLMPO0M2sMTb/wZf7eI7tZP7/ftOU=;MutiDI5UxnE2sCDuuk3n9w=="
+secured: "aNRkxOThUgevM9UKKGa/Q1omy1S0kV5B958OX03DNUyfOPc9T2Eos51Pf7kYCx61CyvaxmxstPuf8MOeonem2Ndoijmn/p8M55dT3XDsDRu7N9X/xxoxPQksy/jr07IaJEAhkbc7BoEzAQtHzR0J9ym2vOy3suv85rmGb3cGtWkruE4ndyj/pjrT7SMbRobaj7t3l04EpLYrgGoF3KF+uLXIgnYyI4Glj8mvlCwLvwtpCoOIg9wob6H1pbO1VrrRVdOR0GryciG8j8fjZaq7w3U114/7GAu7XJzmjySnkpQ=;p1BofU4O04zbCi4pVvO2Qw=="
 ---
 

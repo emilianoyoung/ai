@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
-excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
-publishedDateTime: 2020-01-14T05:41:00Z
-sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
+title: "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
+publishedDateTime: 2020-01-21T06:20:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
 type: article
-quality: 40
+quality: 60
 heat: -1
 published: false
 
@@ -19,13 +19,13 @@ provider:
 
 topics:
   - AI
-  - AWS AI
+  - AI in Robotics
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
+    title: "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
 
 related:
   - title: "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026"
@@ -58,19 +58,6 @@ related:
     excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
     publishedDateTime: 2020-01-16T06:21:00Z
     sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2020-01-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-01-21T06:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
     type: article
     provider:
       name: MarketWatch
@@ -158,6 +145,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
+    excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
+    publishedDateTime: 2020-01-14T05:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Europe Machine Translation Market to Partake Significant Development of $390mn by 2024"
     excerpt: "The Europe Machine Translation Market is predicted to hike at 15% CAGR to 2024, according to a 2019 Graphical Research report. The governments of EU economies are one of the major stakeholders in the Europe machine translation market. The European Commission (EC) introduced online eTranslation services for civil workers in November 2017."
     publishedDateTime: 2020-01-17T05:32:00Z
@@ -194,6 +194,6 @@ related:
       domain: marketwatch.com
     quality: 15
 
-secured: "7g+eNPPJKHGR78lRl/vGpa1oXb5krvE2xqITkeez1QNtGNiJ8QjsjiDSEHG98fcebmno7CzVLuT9FWclBXATCu+UeuVWsXPB0DjAa0+S7npl5mABYey17ySDkxiSfmmAjn1aiXAreLTAK001zuZz1UIFWx1yggmE9+2Phta0j8rzQryObUxcxob8SsCwvpErNzQxRRmrLS+94e3w2u4LrMUL4AuoxPvVd5YhgoHZGdUVTZhE9QY8xKdDl+VC9U2dtritaHCGepkU/ixe2VyLoggJ4S2BMXsBR/kAc+zUkfI=;im0RkWAXBawW4HfnUdpvLQ=="
+secured: "6g/XlrPkLvp6+Q6cl8rHE8or4BS9TTwufrC9UYYWTUJbWjog1+kdXuMhXkXdsiKGr/Vp/jSpzhep/6uxfEe30yL45WFCMs56gza7qsiJEk334GoLCpUIBMarYMguy1dEMiMmlHEeUlAys1Kx/7ycg7dpYtQLKo+fcRfhY+/KbuqdcyyB9n3G6V4UGGpoSvxmRnuAaJRh4vWraBlnL5y3aouJhx4mC+gql4PVj/w/eRMrf7W01l71P/PHKEsEYnijGD8Gb7M/1wZRNqP9uIjzvh+Ow/9tFIUxTq6CIOkw0zw=;1n8S2oXKb8XoUcwEB6PB1Q=="
 ---
 

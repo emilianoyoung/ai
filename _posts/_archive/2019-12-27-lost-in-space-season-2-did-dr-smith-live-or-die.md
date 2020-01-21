@@ -4,9 +4,11 @@ title: "‘Lost in Space’ Season 2: Did Dr. Smith Live or Die?"
 excerpt: "It seemed in that scene that the Robot maybe mind-controlled her to leave the ship. But an alternative explanation is that he communicated with her that she could get a ride on that ship if she helped save the rest of the crew. It’s unclear, but she ..."
 publishedDateTime: 2019-12-27T04:49:00Z
 sourceUrl: https://heavy.com/entertainment/2019/12/lost-in-space-season-2-dr-smith-live-die/
+ampUrl: https://heavy.com/entertainment/2019/12/lost-in-space-season-2-dr-smith-live-die/amp/
+cdnAmpUrl: https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/2019/12/lost-in-space-season-2-dr-smith-live-die/amp/
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "V8xmBCl+qB8ITX2Cx2ReYjRaNR5ldirUI+uY8hdWma6SZi33fV1mZKemqCyNoPWRnn5MxQtyrq8Pbs4Y63gHvdQ6yolzN1KNHEy/DNvx0DhSHN/eP0yApHBxEMUetNVF23nl7JIxiNEvSEGYNMdkuDNM8YkKEw7B8jvHuIwCpbsrCHl5LI7jxWUirwljff6vcN7w2gdL1gROCRBK8Bjel4KwnN46QLYrI8qkcMtHE3tirKIxAleo9fFmYLs9VX6ty3M1DNRlzpTDZtJtRDqdEOnltH9k84Ecg7GVIfnQwXE=;dxFG5uCmfF33mWXeT9LHoA=="
+images:
+  - url: https://heavyeditorial.files.wordpress.com/2019/12/lis_201_sdr_01445719_20190927r-e1577420401111.jpg?quality=65&strip=all&w=1200
+    width: 1200
+    height: 678
+    title: "‘Lost in Space’ Season 2: Did Dr. Smith Live or Die?"
+
+secured: "9Gm4K4gHwYJrt1ny/Tghuf+k6yDP6CpSPu2GO4CgSFKykLPRiRrQ5W8W4lqyh33H/u+iZwQFBe4KwcExr9dG/2WQDmEVhKF6rKPtmwQCiJp1H180yVQ31mZH8c6yxxUP8dUa7X73Wpp7x2MmKll6FeXM8zkncxrURvTqs20pIDnPX+7M/Eo36Mbs+/OShP/YK0y9KD4qVaGhI7jQHSoP2qLiRmv+5TKnLiSdQdVd9M+Y0AtoWTt+vdLJ7Ge2vim/fWQC+PQn6heyU9M3CnzaMxcGj/KyhbjPdqm/yQST1zo=;KmdB+Q2Q1vqlzVmEelWQdg=="
 ---
 

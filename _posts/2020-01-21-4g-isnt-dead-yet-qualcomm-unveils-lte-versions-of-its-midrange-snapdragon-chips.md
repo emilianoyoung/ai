@@ -29,6 +29,6 @@ images:
     height: 567
     title: "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips"
 
-secured: "65DMid7hA68P0/q34Lb4w0I8Fz8Xe68WsYpgwqs4j1CblNDL65765x+ggCd88VPP/vOo3P/62BMSynQUF0KBf/T0dNRq1DN+5W/JiF1fqsCA5D/gdQorqlmRZg1ApDPi5j1Kkz8noDCN6JtbZ5lgO3p/5uJXGp35g9NHaZf5UXvxXYF8BoiwH7ByKGYqHU3Lm4tszfTXsLY/PBWMmmPGF4Mb28lNEr22eymbO09Kgf7AaZAqiJcSQVbOg1nyK9xWXu0BiXZAShebpr9p2meOizD0Sl+oESCxPZXStWhU9/s=;GvQ4CrVOm9UrFNIdTofuIg=="
+secured: "Cl0qZGRnVJxCo69RlcK3jJDwXv0aS0809jNJc6mOD8jlFWQ9/zshixfvUo/dF7G7ZfCqxkAAbqPun2Um7I0Wvu/+100yNUlIp7TDLeuAj+V84NYpICOYinUur0fMgtvbRtAy756VeanuaWCFi7V/Mp42zFoZjPYptm3zdIeMnuSBawXVzC+apBkhygFSDLo/oTiPE0dKHdTWSPIJiP6jnFlQcq9Q6a/RWAFoBFVFum3vmDVfHf7jGZaIJXMyOh6hj3n9vxa0LFjeIW2VkRfh7VXUV6k9UPZqrLfblQxJ5zgVQaiV8shy4cmYUFkPGm6X5sE/c/hp+1cYqdfm7ITKHTlqcJN3bMEyjlHPr7cVXhn5ualK6nLFvuUNJd1D+Mk6wmjIpXtjEKUuWcY8IHzfZEwgNskb3Imy1Uh1CpWiQUoWhoTi+yiWAHeq7oK9tf8ASsvrMqYaQkV+D23pkMcCOg==;5PCnWoqNyWCSwxScAwCztg=="
 ---
 
