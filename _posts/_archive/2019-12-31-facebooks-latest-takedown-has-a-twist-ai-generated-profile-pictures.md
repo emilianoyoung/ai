@@ -23,6 +23,6 @@ images:
     height: 558
     title: "Facebook's latest takedown has a twist -- AI-generated profile pictures"
 
-secured: "buVnjXMoNplPyGgFk/6OgXJImK2i+cNtJ8mdi0pmHm4heF4rdQK31/4IJ8n7GHz9thtCdSMgKyg2OU3e3iZCaTWvelkQ85m6OQD2cM2w1FxcySN/uL+H539QjlkelxDztrX/rS7pp1gCKEv9lBHyGIik1KJuxVprvQNhW75GN1uyfRx/d0beJegyr8VdxtEt+xEH4/9BATALWoRFTxhqIqWZIS7HnjboRNz1Jqtjdds1v9rSqGW5oEAU5zMbJggI9ztiRHsiuAsV6VA92CwGEWiehNBxqBc1r5cf8et4Ukc=;mKbO1QfWxMr2dznJTOKoSQ=="
+secured: "eVOsipAjTCoS1R5zeehkJFJ7bIR7ygoECdfTWnnf3trWdQ03wANyvgWtzMGTD1Ko7bFsOGZbB0amxSnnKWwgl+j1qVdSN8yEABEPdPFD581U8dTQzuYOjHg5X7U+CibcYO/e+anwCTysY3xIHP05VF0oDd/uOsKrucRm1vVBZTU3DG/5/vGtJwHYo72biWdOe68XuEeZcsiRuSBkOnDl0haomYJ1byjxY+o94xDqb1YEp2OWhbC9Fw0u/wrofp+Gwdrk/890KmbSF/W7SriGJhrs2sXj/PvVM/RgPreiMeI=;uxRaLHvf3YzmUJ9geBsULQ=="
 ---
 

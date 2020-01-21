@@ -385,6 +385,17 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
         width: 800
         height: 600
+  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
+    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
+    publishedDateTime: 2020-01-21T19:10:00Z
+    sourceUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/
+    ampUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
+    cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 44
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z

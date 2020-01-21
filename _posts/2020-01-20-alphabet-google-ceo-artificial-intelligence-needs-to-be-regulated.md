@@ -185,6 +185,21 @@ related:
       - url: https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000
         width: 1000
         height: 652
+  - title: "Google CEO: 'Artificial intelligence needs to be regulated'"
+    excerpt: "Google CEO Sundar Pichai is calling for governments around the world to regulate artificial intelligence, saying the sensitive technology should not ... go too far as they work to rein in high-stakes technologies like facial recognition and self-driving vehicles. His speech in Europe and companion op-ed come as Europe weighs new ethics ..."
+    publishedDateTime: 2020-01-21T18:25:00Z
+    sourceUrl: https://thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated
+    ampUrl: https://thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 61
+    images:
+      - url: https://thehill.com/sites/default/files/pichaisundar_121118gn14_lead.jpg
+        width: 980
+        height: 551
   - title: "Google CEO calls for regulation of artificial intelligence"
     excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
     publishedDateTime: 2020-01-20T10:53:00Z

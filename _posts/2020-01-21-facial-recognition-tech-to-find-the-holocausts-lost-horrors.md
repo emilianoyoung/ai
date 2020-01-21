@@ -88,6 +88,21 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
+  - title: "Google and Microsoft spar over EU plan to ban facial recognition"
+    excerpt: "(Reuters) — The EU’s proposal for a temporary ban on facial recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said ..."
+    publishedDateTime: 2020-01-21T05:10:00Z
+    sourceUrl: https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/
+    ampUrl: https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/sundar-pichai.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "Google CEO backs temporary ban on facial recognition"
     excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
     publishedDateTime: 2020-01-21T17:22:00Z
@@ -322,15 +337,6 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
         width: 1200
         height: 630
-  - title: "Google and Microsoft spar over EU plan to ban facial recognition"
-    excerpt: "(Reuters) — The EU’s proposal for a temporary ban on facial recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said ..."
-    publishedDateTime: 2020-01-21T05:10:00Z
-    sourceUrl: https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Springfield councilors renew call for ban on facial recognition"
     excerpt: "Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations of Amazon Rekognition software. The ACLU fed photos of 188 New England athletes ..."
     publishedDateTime: 2020-01-10T20:52:00Z

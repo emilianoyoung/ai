@@ -184,6 +184,21 @@ related:
       - url: https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000
         width: 1000
         height: 652
+  - title: "Google CEO: 'Artificial intelligence needs to be regulated'"
+    excerpt: "Google CEO Sundar Pichai is calling for governments around the world to regulate artificial intelligence, saying the sensitive technology should not ... go too far as they work to rein in high-stakes technologies like facial recognition and self-driving vehicles. His speech in Europe and companion op-ed come as Europe weighs new ethics ..."
+    publishedDateTime: 2020-01-21T18:25:00Z
+    sourceUrl: https://thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated
+    ampUrl: https://thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 61
+    images:
+      - url: https://thehill.com/sites/default/files/pichaisundar_121118gn14_lead.jpg
+        width: 980
+        height: 551
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -431,6 +446,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "GdWpYpjkajHDvnuRM575V+vEHuHsHoDQCf1dyw2pXNlcBF6RQugQ9Raa4YGoNvyAvWhoyM40sRuXBrgsV1g05TXJQO/6TgZc8nfc1nkaH51ApW/5WyqTXv96UXWGpiKvzUrekzHf+G6n3uhPOYiyWLvJy9gQwHz2P+DQHq+v5mEh6upl2+cAC3LwoDPEke3m9RBFsJKBeMxWqTeFC38/KHrzw8H1/GftunOKffE2+pKn0ZBJKV0V/7jHEm2i5hP1k6Oo7sz4TM2t8pmI0ZXDQ2Dzsrsh/3mB+WAqebfvJtt7cRcNha+1KqaHX4c/SsbMORDHY/TAjMtbfEWusBT7/iChF/oGwpsHI+AaptlD03feT/qTSnHE7MjxCkJGaeYKeu1wXi7kA+CXQ2be1LfFqLThkvFvCHLMcQogYj/XJohTBe8vBrJ3Zf9UW932jCvO2S7fIVu0jK0MWPKUN/yWvg==;mrMopMhFOREer9gup26BpQ=="
+secured: "SSFVM9092txoYUR9fVrYLsWri0ASvEMCjSXPLTNgPKjZ+NnaJuD/TXTST9UXR9PXFiCmHYGQVgIrV3Yn34g4aQSP8UtoQM28icJ9fIx4ME+weOtMzX6bxD+CayO+RBrMDpvbS2dSygKxd2cAx+XtAOO8knD6PPpzW0rVhVgLYj6cf7DW0z0ipdg5QAVlznqW+IXDZatL2LXS3MXdgFP26rE9Iu2BWf8Tq23IEMVUv8Uq84JzHtTdus26JzK8yqUxYeHxqJf9ySQap4M9GfhVV0RVVi/j0AJolBS0vluuyjZ0xiLFhbNLE7vyHLcEag9xvroW1Fu8f9iS7uWPUUUzwHCaACGSgt9PwOlXI1ZrH1uT4hYiRcy+AdsjuoLcOFurtKBXjcZZ1VhwpVhNnB6tFXPW/qJRvTQ8zgHG6SRsmmeJHEYKKWwg6cJj5AJZToR9omGPOtsHvjLeOHKRyjkfBQ==;gePUHRIActFBUFeHYrT0/w=="
 ---
 

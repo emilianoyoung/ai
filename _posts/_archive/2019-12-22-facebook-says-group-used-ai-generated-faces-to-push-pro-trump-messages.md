@@ -53,6 +53,6 @@ related:
       domain: scmp.com
     quality: 27
 
-secured: "nqCQpRaWHWaEUXQE94I3zAo6gMSDqtCk5xz6UiYIq2MCvquWGlZfhonnivnzsoQf7a0l45i3ONtnT+civkClY3JDR8V+Uo0oWlKpbjHBRU3kkKZHH4YHQFcUDVnzivsDkIFYQb7mElR73bhH15flLtguH47XVNlBWv4FMnidEH9bePZyKfAN2DnMo4ikux9f8nNmrrwP4cqjBSqGenq3+pd1Fj/H9DawyMNPpBjSNgbY0cN2vOfQL7gDqwz1bx9MrFNypuiqv+HSpCqHETnUAHbVX5OXq5CGVT17CguRmKE=;3WMD7n3NkVs1Ugpzgvh3bA=="
+secured: "mxdOkGRGrzmHXcpPd5W7jFPHh7Ets2LrCcfFfplEbyW+eGqVKZ+DGhDMp0udlRLsHwejX6S1t+77/1nM0A/P2lLyP4z7ZG2l6G8yiDxFQ7wM8i8QKfjUu/Ej0FBwerHZLqnGROwFDsnKlkcAdEy9Dr2z3MmL/98xO6LnEdcY+22WAwLpDC6wTQGkAEhGv3p/T/8LLPOqfV9THpTaF/esg+cfRABMOXm02Xs7v3XWG4Na9t/pvzdWoI5Slm/yhw2AjHmSPtiaDZGONF9YbuctX71tbt3xVJGA+rTqrrOERac=;wM682G900gSDnzFJE4knCQ=="
 ---
 

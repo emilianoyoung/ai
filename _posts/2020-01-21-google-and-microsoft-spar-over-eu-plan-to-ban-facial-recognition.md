@@ -4,8 +4,10 @@ title: "Google and Microsoft spar over EU plan to ban facial recognition"
 excerpt: "(Reuters) — The EU’s proposal for a temporary ban on facial recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said ..."
 publishedDateTime: 2020-01-21T05:10:00Z
 sourceUrl: https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/
+ampUrl: https://venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/google-and-microsoft-spar-over-eu-plan-to-ban-facial-recognition/amp/
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2019/12/sundar-pichai.jpg?fit=1200%2C600&strip=all
+    width: 1200
+    height: 600
+    title: "Google and Microsoft spar over EU plan to ban facial recognition"
 
 related:
   - title: "EU mulls 5-year ban on facial recognition tech in public areas"
@@ -560,6 +568,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "EI8dCZELAFmZh9aD6kqdx9frDeo9OuYmRxvRFVKTboaRvn+f3/RBOTwMugzhWjj2pjfD4PpDVPaaLLql8+Y+tgZArLE19McQMXhtKEL7nLpf3E2YaDPpg+462OYeZ9bCtzQmIKRYGWYHO3h7Wkf+sfAzfgdYf56/W+hW9t/oCnPJtQgEf6qpMdQK/zf/oU9pvlg8i+q60gYBIYAI1/vko97iLIAcDCfc59QQRpZQ6vfTI768Kz1itsP9Q9/DwalmW1zLFkcasZ+0iRO9NPQSbdV/foIQy6gC17XiBzwJXy4=;gvwfMpFTaBtVGSatDpYQGw=="
+secured: "WJu417ypdVm7CKfYowcOAZg+AdAtP3gaLbtrqhGRz9jCgow2p4O0jLzhx0X4Ni5j9A26bdsKWhjEzwvsnG/e53aS8H9WQc65Zv4ujT642K/LwA026xS1YAB1qRinle2jbPKWjvvAAQgiZL68P3WIjxZ/tXkAwT2kuiMWXlY1mvqlc6/LH266vY2otMdkBttyklghIxpw9VAnyz2rBRpJas9y6gg0ZCEJ/K5/ZhYSjTLlV2yQzAXp6mTDk7jhKGap2B1aVpqM7+Uo3A7ouLsBL8Dr4hiKJQQq3X/pf3MJMQM=;z0lYc9Rb9v/SNQYT5pCrFg=="
 ---
 
