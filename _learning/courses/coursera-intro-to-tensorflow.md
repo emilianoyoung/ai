@@ -28,6 +28,9 @@ topics:
   - AI
   - Machine Learning
 
+tags:
+  - TensorFlow
+  
 images:
   - url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a8/c5509017f511e8841b697778604607/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF
     width: 400

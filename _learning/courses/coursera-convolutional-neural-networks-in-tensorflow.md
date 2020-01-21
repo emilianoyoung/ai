@@ -27,6 +27,9 @@ levels:
 topics:
   - AI
 
+tags:
+  - TensorFlow
+  
 images:
   - url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1e/b9a22461864399a689eb74c7ae1fc6/TFC2SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF
     width: 400

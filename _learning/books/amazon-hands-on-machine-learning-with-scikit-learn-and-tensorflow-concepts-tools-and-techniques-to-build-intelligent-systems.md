@@ -28,6 +28,9 @@ topics:
   - Machine Learning
   - Google AI
 
+tags:
+  - TensorFlow
+  
 images:
   - url: https://m.media-amazon.com/images/I/71P4atQpTbL._AC_UY218_ML3_.jpg
     width: 156

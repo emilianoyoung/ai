@@ -26,6 +26,11 @@ levels:
 
 topics:
   - AI
+  - Natural Language Processing
+  - Google AI
+
+tags:
+  - TensorFlow
 
 images:
   - url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9b/d0102c0053480d9e2e9001c8f0e645/TFC3SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF

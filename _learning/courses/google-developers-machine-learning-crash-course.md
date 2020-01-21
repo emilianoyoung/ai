@@ -21,7 +21,11 @@ levels:
 topics:
   - AI
   - Machine Learning
+  - Google AI
 
+tags:
+  - TensorFlow
+  
 images:
   - url: https://developers.google.com/machine-learning/crash-course/images/mlcc-hero.png
     width: 3288
