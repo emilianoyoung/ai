@@ -39,19 +39,6 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
-    publishedDateTime: 2020-01-13T11:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "yf5ifbNq1lS5bZQx5S4Ui4B3ai86jDo/oY4v3He6K1vhWf2/fzvad0J1tw/a14da2qy1snoZPo9n9ZyCi5yNhyIqsbUDCWMEc5z3VIqmRI8ksKzw9XcEKE9U+GAa5RZDeQZhL1y/udgq/2ofu6Gu+dSb6D9VTBcOxYq3MXR3cMyLHFc77vJsosY1lAiuHpiKVIBLBgjGJZayY/dQqrKuZEiUPo6hztHLvaVCPHklTuUMT6hh+fQjXFR2YCtTk4iX/ykvCrnN6lWcq9ETQh9zZuVR5T2n5bircp6Ht7ZgB5o=;4jPP4u+HJn5bIpgqPIwTHQ=="
 ---

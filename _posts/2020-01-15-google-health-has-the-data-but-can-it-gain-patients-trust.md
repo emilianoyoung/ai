@@ -39,6 +39,19 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F871f5470-3893-11ea-a6d3-9a26f8c3cba4?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Can we ever trust Google with your health data?"
+    excerpt: "One task is to combine artificial intelligence teams working on health at Google Brain and DeepMind with those working on smart devices for health at its Nest division. But just as Dr Feinberg started work on his first project — a search engine for electronic medical records — a scandal erupted after the Wall Street Journal reported in ..."
+    publishedDateTime: 2020-01-21T04:57:00Z
+    sourceUrl: https://www.afr.com/technology/can-we-ever-trust-google-with-our-health-data-20200121-p53tag
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: https://static.ffx.io/images/$zoom_0.2122%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/1b4af6aa41d66dd0f5a7cef4a3b89a9c8dea6f8e
+        width: 800
+        height: 450
 
 secured: "33H/ttG1AU1xHEVfJF3QYNZVlBPP8xXYfgeCjeErX1VSYYJ66mncQyIjq2OpVzF+rV11S11b27O79DTyuRLzEjvVfoXR4aPiyB+vkR0Kvt1/mjbxwtUuPykPmGpznECqAQ8jhJ6PrxJyHM0kQSp7/useQ4Q2zX4mhlWVp65BLg+D3zH8E8QWZkm7b63Lx/Zch2WfhkDi8rqbybXXKGXn0iU0mYJT+4Du+raT+nylOhDU6a1f61QusQ/yNhZFlIzo+uRqrO1WjWXSZCqhLgQWQZ/HFK2egpDZh3Z5ELwv7kU=;yXkfFDV63G6PHB7Ub2e29g=="
 ---

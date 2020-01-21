@@ -191,6 +191,21 @@ related:
       - url: https://www.cityam.com/wp-content/uploads/2020/01/1194872492.jpg
         width: 1024
         height: 683
+  - title: "Alphabet CEO Sundar Pichai Backs Temporary Ban On Facial-Recognition"
+    excerpt: "The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin ..."
+    publishedDateTime: 2020-01-21T03:49:00Z
+    sourceUrl: https://www.ndtv.com/world-news/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees-2167179
+    ampUrl: https://www.ndtv.com/world-news/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees-2167179?amp=1&akamai-rum=off
+    cdnAmpUrl: https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees-2167179?amp=1&akamai-rum=off
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: https://c.ndtvimg.com/2020-01/kbng7bqg_sundar-pichai-reuters_625x300_21_January_20.jpg
+        width: 650
+        height: 400
   - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
     excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
     publishedDateTime: 2020-01-20T06:48:00Z

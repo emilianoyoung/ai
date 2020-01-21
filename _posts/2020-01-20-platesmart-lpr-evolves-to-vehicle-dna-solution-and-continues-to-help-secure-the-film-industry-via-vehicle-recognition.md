@@ -3,7 +3,7 @@ category: news
 title: "PlateSmart LPR Evolves to Vehicle DNA Solution and Continues to Help Secure the Film Industry via Vehicle Recognition"
 excerpt: "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in security technology. FORWARD LOOKING STATEMENTS: This press release may contain forward-looking ..."
 publishedDateTime: 2020-01-20T20:16:00Z
-sourceUrl: https://www.newswiretoday.com/news/172163/
+sourceUrl: https://www.newswiretoday.com/news/172163/PlateSmart-LPR-Evolves-to-Vehicle-DNA-Solution-and-Continues-to-Help-Secure-the-Film-Industry-via-Vehicle-Recognition/
 type: article
 quality: 0
 heat: 0
@@ -17,6 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-secured: "2NaZU+2n15Gj6SdlNsCHyhy3+DZ8f19o2xAjRWaYA1l7nWzmAAfUQBCM4IV7dU7rbZ9HPfoph6f+963lDypiXbUgjd9vVc+UajH27gcsIvQJoKxq+55TVf4ZAHybBxTlYCGRZJwcFBC5ZbRIBthWGhdX73DawxcNwR5fbHznKMbZNsoL7sjqRCnQURWVaW8lPFuZh8EQS179SJacllT1lWv3bCCMbsDi4I1eqv3E+WQQmirKy7u9Qo+8yKmQYKemiUn6Is0eA/+U+8BSSA1Lx1WGgyNnXXkTtYU6WBy7VkUnYl+cukmbOaSgfhhrIk7mmtEwREzAdZPfN7iC8wO/eG9hOlYXXQIOxQsz1lSCBynv1syirdnxUD0gZ7Nie9tO05HcgTSLFT8/rfdIlvzFgiwPzqYfvCCvmLTqxfz+58OSzM6MQWCCFRgW7xW+DYbaVVHp/m5bZC6Rp41nVzTWAw==;7L7KWoiXuSxEEA2zf/ZELw=="
+secured: "1uHYIbjxkoyEFRehu5cmxDFHgU+Qa2INUMFuJs3m8ZspNPg2tGMlL2lK8kbtupgGvrwjYCDHpT7wy+GKCFAwb91aQVq9tEa0nQQPX5j8kODu6COzL1ImBzx7cydtywRTC8is+1EVuJSubOxDNKxYuqoK90vnmspVyNHT2XX6a96UsQRIen4VpPIWMCshSkqyUfAHjlFnXwAv6EQZu8Wf9APLJtPI+K2yoZbJGHf90AWZ1FwCeUYmhT/h5iHEUGdNUVeTqjGVF7FgSVZpuJz9WpPAeMFZ0kwj1AY0v/2cJPFk8B0W1NjFzUzlpuTDntnZLtkNqGYRA+qXcxqNcbYhdkEYVHOhZ+YiQxdXMYEKVwXUScPgTtd6BpuUKhFmCVabYGpOHJqqjgW5lhAQg/p3/e7fRoFb4sy8YCwey0qaKYSvbpHMjg2OSg+Ku2I/PuUcj5hMsUtN5ajM3s+f99eTsA==;p7nW+UzLLzECiJV9IxheWw=="
 ---
 

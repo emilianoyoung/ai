@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Here are the hotspots for local AWS partners in 2020"
-excerpt: "Artificial intelligence, machine learning and cloud migration are expected to be among the hotspots for Amazon Web Services (AWS) partners in the local market this year, according to the cloud giant’s head of partnerships and alliances in Australia and New Zealand, Corrie Briscoe. Speaking to ARN in the wake of the vendor’s annual AWS re ..."
+excerpt: "Artificial intelligence, machine learning and cloud migration are expected to be among the hotspots for Amazon Web Services (AWS) partners in the local market this year, according to the cloud giant’s head of partnerships and alliances in Australia and ..."
 publishedDateTime: 2020-01-10T01:54:00Z
-sourceUrl: https://www.arnnet.com.au/article/670179/here-hotspots-local-aws-partners-2020/
+sourceUrl: https://www.arnnet.com.au/article/670179/here-are-the-hotspots-for-local-aws-partners-in-2020/
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 500
     title: "Here are the hotspots for local AWS partners in 2020"
 
-secured: "26h1NkRJYIlc+9Iyv6aqsGcOB1oSolq1+UahYWwkjQA0izEE3JsTiG09+uiCZf5+6OC11gStRXf9/ZkUYeK1VGAK6sbOqh/Waun1/0gOsdEJ3xgJaqsblAT6vSkTgFF9D7NjAgarTg6EQ50/n77z+axgNDIQLh1GCv4ONB1uX7y+8DhAUtBeT4EFNsUifT4xL5CqIKRn2Q95mSSnVtozLZy7795hFeR2uJ2+geGsEmHQ/ydBkcW0UKwrqNwWNir1EDlsMJC6+BzYIW3G+SgSJ967GSJsbLc1fwbQqHbaASwmqDGh1X4dsabYoE82dfhIro/ju2CWW0mcVIyc5puQ++G7slZ4t0MPYFeO00MR5elaX43birdX5unHaP7lZ5v0tISrEbgq6hcWD1w2Cw0d1T5yaYgOj9LcakpbK4sYlpDj+2cr2okQg0jJE6Kex/0e4lM3K0MX6TktXxUC1PeKFA==;94xJJ3L1cNhbljXAL39YiQ=="
+secured: "JWm2WnVozF6oxVdWfxxCqesYVnJKr0G/ZYOu6zTcYSGJTlgXPb81aM8y1M7LsIaEf/8XQ0Kl8Uy2wrtaODmSQLqnqzVaD5C5VSyeMILBEuAsCGq2ZtzQKt47qRPc9dCVGN4AagPIrgyNgZHbzQqtCsqNZy265uMY7ScPc9bDxDH8sL9RJDl1VKcgOtuI+1EOApQFMmUodwTt8Vy96wQ1D/6/jVByTUVQKQPwXcW81UW5c1MJsdMuhwnXEubeY2FotPMmV+vFQQjN9rIC/3Costfh1wq8MqPZtA8Ws7nqb0o=;PTeQ7ylb0v6toWJL8uyzug=="
 ---
 
