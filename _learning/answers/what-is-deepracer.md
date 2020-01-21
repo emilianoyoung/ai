@@ -5,7 +5,7 @@ sourceUrl: https://aws.amazon.com/deepracer/
 type: answer
 price: 
 length: 
-heat: 0
+heat: 1000000207
 
 topics:
   - AI
