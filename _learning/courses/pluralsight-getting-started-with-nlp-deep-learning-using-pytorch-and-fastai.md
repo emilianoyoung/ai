@@ -24,10 +24,11 @@ topics:
   - AI
   - Facebook AI
   - Machine Learning
+  - Natural Language Processing
 
 tags:
   - PyTorch
-  
+
 images:
   - url: https://pluralsight.imgix.net/course-images/getting-started-nlp-deep-learning-pytorch-fastai-v1.png
     width: 1280
