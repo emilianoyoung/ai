@@ -318,6 +318,21 @@ related:
       - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
         width: 1200
         height: 800
+  - title: "The EU is considering banning facial recognition in public for 5 years"
+    excerpt: "p class=”dropcap”>In a bid to curb the misuse of facial recognition technology, the European Commission has revealed that it’s considering a ban on the use of facial recognition in public areas for up to 5 years. While the use of facial recognition is on the rise, the European regulators want time to draft rules to prevent the technology ..."
+    publishedDateTime: 2020-01-21T09:02:00Z
+    sourceUrl: https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/
+    ampUrl: https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/
+    type: article
+    provider:
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 59
+    images:
+      - url: https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg
+        width: 300
+        height: 225
   - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
     excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
     publishedDateTime: 2020-01-20T17:27:00Z

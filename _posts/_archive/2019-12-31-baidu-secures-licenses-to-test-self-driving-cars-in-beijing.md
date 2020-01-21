@@ -77,6 +77,6 @@ related:
       domain: cpapracticeadvisor.com
     quality: 4
 
-secured: "MyP0nTxFZ2R9ey8D0C59zCem03zyGR4+8RCmOEMc4fwunxODer0+1opuMBbIbVbykJ7Rq+K6dGfv7aL3J+C+asMofTuVghxznd04II65JYibLxXfSX9Mmh/Oev66bofLXPmAgOK4EU6p9bs8OZGoZgALPtjO+zpC0evhex9LCfmw0EgQcxYyNpUCDofgztL8rvhkZnGn2s9fzmBZ19xmURYgPOxLamOnOo+AjcX9FDTRiL07/KurKAtDE8gvF/6pPjHnzwHQ927RBP/HwLLnVbwAQJlAOowyFqzjwHD4SPY=;g1Szzkh2LssX0sAz35bijg=="
+secured: "f8gwcYI8rWrSBD0MuTUzLN0C4Z6+h+CDYfkNKam3V9HkEjtCg4+DI02hD9Xxip+EeTaRHE/LNZxEAguOauyv+jaa0QRQWqQvaZAeGnY8KpRtAYAFxsqJu3ySchcnFsPvlIcxwDbq1DtOH0dLB8yeppDVqn54ub8mkAtTqx8kcvIQYaTXwgymZ4Yga9PUuhreq9uV2I3F3Kc2WDYpkBP3bTyVPiC1yTR9EUJNWwtYVmkzinRnEo7N+qKoSi2kfSqo8VnVPcaMEAfOxAIk0msWZa+qwl02ZviKjyDFBAVdUBY=;X1wBLUSLaqJFSuGRb+GCvw=="
 ---
 

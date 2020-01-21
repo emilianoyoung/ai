@@ -53,6 +53,6 @@ related:
       domain: scmp.com
     quality: 27
 
-secured: "mlzE6f+NXN2mSFwZvQczNO1PzrnzQ3/aklrzT+NTNacLKXBCAcpt05KKtSbycgAUCGh+KcZeoRQ0YkvVGjvlTrYtbz+rnXatoa2ZSXeb0xPqP/lxKYbV5GqcZw1uJ+5RkmZit1Pv0mwbvobZnbPCbOCMEVe+eY+gXPtiKRVGcfbbWS1cvZ7JExBqXh4q9VOFYs2RpLkQvxWXmgeYzON5s460hmRGJ8H8I04L6othg5oPm7m3NUZg/YjD9RjxSuVrfcHVeD9haewETag7huh8XgBgMZKoVmbHvhP4R2KmfFk=;e91o7YEpGHchdfG2jNXWDw=="
+secured: "gLth6mqfFLdhqI2pux7Zfes6gdARHvoZm1YrkU3dF1MrlRkb8I04+9131GBvWMbTEq3e1QyVqAtAf+GoLCPLmRd48xYKRka0b9ptiYyVwAgIKuYdCfL95mbeZnNrKgU7+ENxpT8ApsGei2RmD/RBQE6jxPqauCQbfH7gFVtF71WVArfjTil3QModQr7jCK/kdHshJPeGo13icRvb2H/tUWEmuzDLzo5Rx7thf4A8jfskZgkj5jD6hNqTRXsi3dYKOjZ4NiccqsnmbzyXj8ahOSjn8IqeN2nQU4WNdJWIblM=;5RCIX8sAp8sbB3YmmVMTrQ=="
 ---
 

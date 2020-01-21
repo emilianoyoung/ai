@@ -303,6 +303,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
         width: 1024
         height: 576
+  - title: "The EU is considering banning facial recognition in public for 5 years"
+    excerpt: "p class=”dropcap”>In a bid to curb the misuse of facial recognition technology, the European Commission has revealed that it’s considering a ban on the use of facial recognition in public areas for up to 5 years. While the use of facial recognition is on the rise, the European regulators want time to draft rules to prevent the technology ..."
+    publishedDateTime: 2020-01-21T09:02:00Z
+    sourceUrl: https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/
+    ampUrl: https://www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/eu-considering-banning-facial-recognition-public/amp/
+    type: article
+    provider:
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 59
+    images:
+      - url: https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg
+        width: 300
+        height: 225
   - title: "US spends $4.5m on heat-based facial recognition that works at 1,600ft"
     excerpt: "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ..."
     publishedDateTime: 2020-01-21T08:12:00Z

@@ -26,6 +26,6 @@ images:
     height: 600
     title: "AI privacy startup Mine raises $3 million to help users ask companies to delete their data"
 
-secured: "gt1Cyys5gLdUDEqlLAHvhImQecocacZTOCceyd5umPrxe4mp8YfTuPHFvexKvpElJ+RF5cbFzFVyC5psOoYcK3xC1at0ZlfuJ4kJ10sUdhJMU7b+7qsDVhiFBTsoI1v9vZA8F4khDV3hno0CIX0kZ7645R/ksXfqNhnh9PtRl7TNDrTGFzi9iDuzlFQeDLbMcGUed7tbImFFZs5Vc17jMZMxaPK/PfVe/Lgp+72UzUrwP88kSZTg9aHmVt/l+HqGKNAUNqPlgLAtwWe06+95WaOnzkrknfwYk9x/LMoxTdI=;VLx3aHZy+qaet2bH9jcSUw=="
+secured: "nrjZ0Slp28Wc3x1sMXL9Yp/gUP11cl+/V3nG34oPwNZW9TMErj/49gBvyBOiV9TUXvMWN5OnOn4AMnIreZCdTSl4IskU33R7+BFoWBA2GKNftJJRu83cJwWOR5B9Katjkq0ZYEnLX7yCvBHc2M94Sjxvj5nx3ZumLqkRPqgIh1ij+ki+lko/kHvEYJ9R2lI9K4tdSax4EYMlOZyjig0QftH9Uj9Qcv/B+AYcZLapqQeWsLjRhIPb+avGHFl4aXN2tr/FC2xqM7pYpCy6oYq7MG7PWgm1EyxgxfzLBOQ6F0kbCbC0O1uHYwoJ9bO994aNjHW3+h/pv4+ZNG1nw1RvdCa+lUAjsFrrmuykLajZFNtHu6hcPoGqMg1GtA1r9hNCluJN1ZFKXf57R8cifLwTPiojNBmO2lkp+NenYtq437twnreo1PIg9GCgKRuYDTKwJCN+rxfbQEESWE6ivwt2/A==;7p5ePtue9keqpG7Nmxo/Xw=="
 ---
 

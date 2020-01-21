@@ -299,6 +299,21 @@ related:
       - url: http://media.foxbusiness.com/BrightCove/854081161001/202001/3712/854081161001_6124332457001_6124328270001-vs.jpg
         width: 1280
         height: 720
+  - title: "Hashtag Trending – Google CEO calls for AI regulation; gotta hand it to Amazon; adult site leaks data"
+    excerpt: "Google has its own AI principles to help guide this work, but Pichai said there’s still a lot to be done and that “principles that remain on paper are meaningless.” Numerous sci-fi books and movies have broached the idea of implanted chips in humans allowing them to perform such actions as paying for an item by simply swiping their hand ..."
+    publishedDateTime: 2020-01-21T10:29:00Z
+    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289
+    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289?amp=1
+    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289?amp=1
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 44
+    images:
+      - url: https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg
+        width: 620
+        height: 250
   - title: "Google CEO Calls For AI Governance"
     excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
     publishedDateTime: 2020-01-20T11:43:00Z
