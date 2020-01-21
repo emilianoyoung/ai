@@ -8,7 +8,7 @@ ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-ai
 cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
 quality: 159
-heat: 509
+heat: 519
 published: true
 
 provider:
@@ -512,6 +512,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 19
+  - title: "Battle over facial recognition technology"
+    excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
+    publishedDateTime: 2020-01-21T09:53:00Z
+    sourceUrl: https://seekingalpha.com/news/3532936-battle-over-facial-recognition-technology
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 19
 
 secured: "7aAcyHL7KEBmBdB8MDQsgL4EWkT9wX82Lelv9/ga/fu3fPEecJklk/cAiRRxckrRuvCxJeMGmPVormgs67r23vTTM8QKXVVfj2yN/nxNDGCPBc9YaWfGJsrZkNydbQeUJf2JzrTZ/pzYDQ6SE1vnuttRR5jSIZCuGmJoC1fgyM0IeAUR875Uea7OM2V3MMv7wezGYZ1ky27DT2lhqfwo6w4UyAEec5neSRwTSv1BOiy1WUkiypzmLCNVPiXVsHqhzYMqn1019BbrCBK6lkmBnkHBAQVYAfduD/Hx66J7Zwm+9ao9ytAW6uf7VnuioybALRhnV7e+0fTUUtCoInWNCbVHHLm28X8Sr7nQytJeMEdDOYRIGNh4ep0zN1DywMJzah/0vkIK3flNA4SlOcB76VBWRO5Whcn9rsVhNuq+DgL9W+QZzMDPvfvHapOCpvf//h6KEXEOjMOHmTLSMLI35ABBORrxvJbKYCBhr9u99VE=;RU23WR28HwJODHhFYDLgXQ=="

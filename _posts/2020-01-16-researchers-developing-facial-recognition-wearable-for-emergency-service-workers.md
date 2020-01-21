@@ -513,6 +513,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "Battle over facial recognition technology"
+    excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
+    publishedDateTime: 2020-01-21T09:53:00Z
+    sourceUrl: https://seekingalpha.com/news/3532936-battle-over-facial-recognition-technology
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "K5od3H7DCcYbGbGaGlmwV0h6l+Hms4XjgSVACkAgP/KNRlOkBZJUs0Iyu+JDXahz12G21aC0FsX5iJmCQsfUjP8F/V58bXS8A4rHdGkj8nVAELHhaYARqJTNr5Tu0Y3oCJ92NViCuMwdsGv/cNlxctnAtv+csUH5B1rJ9e42re2j6CFSb3At9XQQkw2E1y34ADLVNJ8Hbxi43TCUHRZ124QFvjgQtSTMlyTfzxpyjaOAFwQCwXZkQOBFC/c1X/r0x6mymdv2DWS0NW+lcfGJj8BtfZlbWGIP8Q7mMkNZVsE=;wE+QUTd1KcjAIiRTmXIzSw=="
 ---

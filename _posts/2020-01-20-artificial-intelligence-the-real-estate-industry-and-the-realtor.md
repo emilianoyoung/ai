@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-the
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-the-real-estate-industry-and-the-realtor-1028829259
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

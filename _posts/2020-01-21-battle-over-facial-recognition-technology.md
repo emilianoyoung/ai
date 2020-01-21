@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
-excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
-publishedDateTime: 2020-01-14T11:48:00Z
-sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
-ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
-cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+title: "Battle over facial recognition technology"
+excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
+publishedDateTime: 2020-01-21T09:53:00Z
+sourceUrl: https://seekingalpha.com/news/3532936-battle-over-facial-recognition-technology
 type: article
-quality: 46
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
-    width: 800
-    height: 600
-    title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
 
 related:
   - title: "Facial recognition scanners are coming to PHL next week"
@@ -346,6 +338,21 @@ related:
       - url: https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg
         width: 1920
         height: 960
+  - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
+    excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
+    publishedDateTime: 2020-01-14T11:48:00Z
+    sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
+    ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 46
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
+        width: 800
+        height: 600
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z
@@ -513,16 +520,7 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "Battle over facial recognition technology"
-    excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
-    publishedDateTime: 2020-01-21T09:53:00Z
-    sourceUrl: https://seekingalpha.com/news/3532936-battle-over-facial-recognition-technology
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
-secured: "M35PFBMgdqe/Mfx885dlHkOuEeyunAeslR1hkad7X2KIaeed56eS3EicJ3vneleCZfruEnPJaAZFPcYCWUpCWhB1GmovYvz5MoQWKAj8dTl1/mEYEQOE4/sCqfBDqglZyBeAWDZIdKBKK7cIAWVd6Y1FBeFSJlzsEOOah1RQCMO1G+nN6XSSLLEvS+1F414gLR2P1VzqnccuVsS5jxb2taXrJnsGL+YCKigTwjM4snkzASn+T54sBicPw4XbZgRQ6306yKzB2ugZhDIPW/Fxo6Cof3Mmg0oPXfvqRCdYXmw=;8lhzY4g9pjMEW7ujK7ogcA=="
+secured: "JbTLhGnxScD3gUAqgIzHNzjLUUfH7UYgP6bGlsznKkRbaXUjyLFAvyH8ycBoY2qzPz0LfrykhF/wskQmbHVwQzHYk6g8jJ1fnGYD+UqG+IiUg2XTt2rfV1U281FokfeB4q/q66XPnnr0BBxcVOfTY+gR5G4PrShoQ2XiUGdjZd5j+qItpioIwWT7+hzUhJAMzWdus32cb56qWVsCTnI7BdS+hFG0mF/aAJfeiqmAxX/Z43B6B7qHhtDd25Uj6s7l68EZ8cvEIRXyCtt95fjEl875bkEK81z7pZ+s+V+DuiQ=;kuf8qkGAmfDggfsZzpur5Q=="
 ---
 

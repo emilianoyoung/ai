@@ -511,6 +511,15 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
         width: 2176
         height: 1578
+  - title: "Battle over facial recognition technology"
+    excerpt: "Alphabet (GOOG, GOOGL) CEO Sundar Pichai has come out in support of a EU proposal for instating a temporary ban (for up to five years) on the use of facial recognition in public areas until officials beef up privacy regulations. Microsoft (NASDAQ:MSFT) President Brad Smith, on the other hand, has warned against pumping the brakes so quickly ..."
+    publishedDateTime: 2020-01-21T09:53:00Z
+    sourceUrl: https://seekingalpha.com/news/3532936-battle-over-facial-recognition-technology
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "yWK7tgFb+1e5fDp4//9giytFL0IyMG0D3A00kEYKtEmlxoi0J7pngFf8oArulEoTJQNH1w8IOjAddplOLKOWzZXNIf20kVAXkgZ/WrYH6uuQa1IL7zGKDWDKRc7LiiYhd6zLIKiUNvRMgpOgRopOIdr9GyGRDROCK8nBtTD6ZVzYSoj2jT9nCms4d7m6ZcMcVWO1SgoSgcUajJVIXCa03kKBBAUYFLSvNFz9sqmP3qRqHKR9scUyYIAwMr1f6T39Or6YhOpsHYDad/63hApJ6JEp3UmKGMegtOjgFYhGBv8=;P5Hip6Uj1Km591kp1Eavdw=="
 ---
