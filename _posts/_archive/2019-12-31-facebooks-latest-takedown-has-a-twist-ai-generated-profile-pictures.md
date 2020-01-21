@@ -5,8 +5,8 @@ excerpt: "A joint report from AI research firm, Graphika, and the Atlantic Counc
 publishedDateTime: 2019-12-31T17:51:00Z
 sourceUrl: https://abcnews.go.com/US/facebooks-latest-takedown-twist-ai-generated-profile-pictures/story?id=67925292
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://s.abcnews.com/images/Business/facebook-app-rtr-jc-191021_hpMain_16x9_992.jpg
-    width: 992
-    height: 558
-    title: "Facebook's latest takedown has a twist -- AI-generated profile pictures"
-
-secured: "epzpx9AzOVF86uJ6VFRO8napZp2ghtpA21mtDyPvYYj8LzaJkN0N+BKnVURLApjGMvi7mDhYSOnYlNeKPuyRsr31QCtTj0eW1CZ1HBu1aniUuttXa4tGyxwy9azB/+QtwcIxyQiYuwXfCvKNiEdeWTFAU2CuiWS3PjjIhKQeMtZgLr2kB06qX1rvpR5H0HFhMNT7ytJM+H8+sPT0AmyjVyszX52p44Imc13iQQ4kRi9gQ/EdWVwM8/toLaWgukOVc6EvGutmaoj7SowOUpOCLMzz/ExxaHHvd9sk4o8W/Ks=;d5RngoNYmQYVcB+U3iHiuQ=="
+secured: "BEF0cnPEv2Nc5bL7PPJaBzv8+5mC333wA4R/krNkbIWKJfBIlouPzS9dUkR/20knO1IoPg/r9yspmQdAvA47w0i5RTUNiqRm/0WlchaLCjuQ9HQKaVbtqIK4XbIlgwQMnVWxuO6WowdrwwDgOTRaYLGMb8wKTNShy0apBe/sqSvrRStk73X9HrvVzQjcrpV3n6lZOg10k8TcUUth/Zu74qzzXfsQkoltHj+8w+YA/CnEeic+sUGxU7LY+PrijQNtjdZdtXxg+KYEydfaECaGZQ+NJnki0Kgsewh74j+eLoo=;NoonC7E4xzfY8LGGGxf+vA=="
 ---
 

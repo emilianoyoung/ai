@@ -1,9 +1,9 @@
 ---
 category: news
 title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
-excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
+excerpt: "A dynamic simulation for robots has strict requirements due to the fact that ... developing Internet of Things (IoT) and Artificial Intelligence (AI) enabled mobile technology platforms. GBT has a portfolio of Intellectual Property that, when ..."
 publishedDateTime: 2020-01-21T12:11:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-gbt-expanding-its-autonomous-machines-robotics-research-/2020/01/21/9084095.htm
+sourceUrl: https://www.tmcnet.com/usubmit/2020/01/21/9084095.htm
 type: article
 quality: 54
 heat: -1
@@ -24,20 +24,33 @@ images:
     title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
 
 related:
-  - title: "What is Machine Learning? Why its Matters and how does it works?"
-    excerpt: "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. The process of learning begins with ..."
-    publishedDateTime: 2020-01-16T00:26:00Z
-    sourceUrl: https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4
+  - title: "AI Stock News: GBT (OTCPINK: GTCH) Is Expanding Its Autonomous Machines (Robotics) Research"
+    excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
+    publishedDateTime: 2020-01-21T14:08:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01211AutonomousMachines.asp
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 59
     images:
-      - url: https://miro.medium.com/max/1200/1*YaCKYPDAZ31OA5OgTT3tjA.jpeg
-        width: 600
-        height: 256
+      - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
+        width: 649
+        height: 328
+  - title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
+    excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
+    publishedDateTime: 2020-01-16T14:33:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01161Healthcare-AI.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 43
+    images:
+      - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
+        width: 649
+        height: 328
 
-secured: "QQKziV7sfwdn5wubGv2tKirC1lUUYwaMdM9I3/sh3Aw3V2aq5LU0b1hA5fFz5Kjssuy/Ei6WdwW0LRP4+5jf2qZz03yaLqoxqXC2G6Gd4oXkQrajW1en5W5QSX1dUyeNPmqqabn8TqEf0dztc6c3L7ZO/Sm4AkdEdGFoQC14uk59pTsV5c3x+nzc8Rim3aqd8JY95Bvq6E4zsC0ny+VPQgr4gAwLySuS/IOlz33JKiU+TVk05FezjtTvHxt2ZxG/OFFUNHWugYwrxkJXUV5Rchxl6EwqbqeMxX2Sqez7Bsw=;6dXXs2tIBUoK2zY2V/Bh0A=="
+secured: "ztcYAjSYZSJg2uefN5pu1OSbuDXfnYM/OKA4fRbQ4AnPEU3zM5B1Dk0VXuyUiuQAXmUZySl2TnLD+UDEjC0Pi+tYrutIvRyoBrZ27aI6UDBp6jWCY5n6wQ1ivDE6IE5WAj7Z0WMKok+OzWQGwi4u1fg2IEJhrTlcx/jGzYOyMEFtnlCEr/51DkJsf6H96Nmd2t5pwAI8bxOSkfiPUdSteA5DsK9P7lVn1IiAF/3/BfTgDGYwdktXhQ1eZHDvr6+abTynJKqE/1t0bjbSwr/OzhjQk9+yB6J8O4o72niE21w=;v50NjsvleC8ZcVpiuFD7AA=="
 ---
 

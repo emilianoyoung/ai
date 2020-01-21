@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T12:31:00Z
 sourceUrl: https://www.marketwatch.com/press-release/oss-expands-ai-on-the-flyr-product-line-adding-pci-express-40-expansion-system-with-eight-nvidia-v100s-tensor-core-gpus-2020-01-21
 type: article
 quality: 58
-heat: 68
+heat: 78
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "OSS Expands AI on the Fly(R) Product Line, Adding PCI Express 4.0 Expansion System with Eight NVIDIA V100S Tensor Core GPUs"
 
 related:
+  - title: "OSS PCI Express 4.0 Expansion System does AI on the Fly with Eight GPUs"
+    excerpt: "The NVIDIA V100S Tensor Core GPU brings CUDA Cores and Tensor Cores in a unified architecture to enable mixed-precision computing. This feature is especially useful for AI training, where operations are run in FP16 precision, and results are accumulated in FP32 precision, which delivers significant speedups while preserving accuracy."
+    publishedDateTime: 2020-01-21T17:47:00Z
+    sourceUrl: https://insidehpc.com/2020/01/oss-pci-express-4-0-expansion-system-does-ai-on-the-fly-with-eight-gpus/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: https://insidehpc.com/wp-content/uploads/2017/09/onestop.jpg
+        width: 300
+        height: 300
   - title: "OSS Expands AI on the Fly® Product Line, Adding PCI Express 4.0 Expansion System with Eight NVIDIA V100S Tensor Core GPUs"
     excerpt: "The NVIDIA V100S Tensor Core GPU brings CUDA Cores and Tensor Cores in a unified architecture to enable mixed-precision computing. This feature is especially useful for AI training, where operations are run in FP16 precision, and results are accumulated in FP32 precision, which delivers significant speedups while preserving accuracy."
     publishedDateTime: 2020-01-21T12:31:00Z

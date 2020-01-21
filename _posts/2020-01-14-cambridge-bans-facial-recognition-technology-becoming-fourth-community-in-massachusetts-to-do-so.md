@@ -361,6 +361,15 @@ related:
       - url: https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg
         width: 1920
         height: 960
+  - title: "Chinese City Uses Facial Recognition to Shame Pajama Wearers"
+    excerpt: "Local officials apologized, but the crackdown on a common — and comfortable — practice has raised a rare outcry over privacy in a country accustomed to surveillance. BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,"
+    publishedDateTime: 2020-01-21T15:50:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z

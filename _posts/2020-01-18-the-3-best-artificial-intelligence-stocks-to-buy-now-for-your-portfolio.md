@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-inte
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

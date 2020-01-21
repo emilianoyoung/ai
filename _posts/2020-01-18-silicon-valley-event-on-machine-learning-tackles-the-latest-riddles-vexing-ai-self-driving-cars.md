@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,21 @@ images:
     title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
 
 related:
+  - title: "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way"
+    excerpt: "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,"
+    publishedDateTime: 2020-01-21T16:47:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg
+        width: 1200
+        height: 800
   - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
     excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
     publishedDateTime: 2020-01-20T14:28:00Z

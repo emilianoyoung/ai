@@ -25,6 +25,6 @@ images:
     height: 245
     title: "How AI-powered content marketing can fuel your business growth"
 
-secured: "KqfLAEXCRXkhhAGybvPjMAGKKANJf2N9H7qBD3pMAKW2WYezWCRSLZrgXQN4ZmJ7TKGlulLCj9W+oGkbZcTSQjjPutOLuvzndwOCVnjOcfNZU/b4fI4Z2ZJTuBOZGU2M4jlvNYZGuZL+yPyTjdPwdPwp7PrOIYhmAq0leLelJV8p3WmOO9heuhayDUTo41mdfKsnQlaPuVQcHdfoarwhfyW0Bfp+5R2XUvg0OnVtnAEDX4HL/oBo/8fcwpZYy5ApcZIvlxeTyhZvFwtvUQZAQ/wO6nakNy148bv/wsoPXTs=;Bb+fLyJvrqyLr8hdk93LGA=="
+secured: "8qe3L0GnnwXy99a2ORtOT7EIoJ15Gap9Z/3krhiyxWystZ4XXPE0ZfhdzZTpSb/N4+AnnJLPcWZfYxMbbKTcrkK+LbDDUxbwQsKZPxKfErMBoHzWHKgXnhUhGfuiO/r6h9fF81LCboycidYUj/6Gyj6AIKwDMTicjWQAAOOFSFcACJrXhLMN+XY3t/JfoYjzLvLBEo9IMHPHj0vCCOL4vHY/y5+M4tD/+qkBRrN9YoWDd4nV6RR5aFFCQlGkxUVNAs9erm06RZM1xZS8lwXoGzS6VoEzF8M2bTVKKJ0osp2wCykt4hz4371iopaRrJxDMzfFgno1VZX3ArlO/oCXjTft/i6Kt7lCF52lxwWOKllNSPBnOoV8Y8DnqYmygAUWu0jIwYtdIW3jsYQzv7ftCOG/axjg+WSkKJv6F+MzSL3ixzLz4E/ibm4Ag14Zvd9SiVdjeAzV74W/aTwRdyiYxw==;QGVyYY/OoeGaHW1YYsynrw=="
 ---
 

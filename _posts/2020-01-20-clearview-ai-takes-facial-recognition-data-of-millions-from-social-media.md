@@ -346,6 +346,15 @@ related:
       - url: https://images.tweaktown.com/news/7/0/70038_01_spends-4-5m-heat-based-facial-recognition-works-500m.png
         width: 620
         height: 329
+  - title: "Chinese City Uses Facial Recognition to Shame Pajama Wearers"
+    excerpt: "Local officials apologized, but the crackdown on a common — and comfortable — practice has raised a rare outcry over privacy in a country accustomed to surveillance. BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,"
+    publishedDateTime: 2020-01-21T15:50:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/21/business/china-pajamas-facial-recognition.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z

@@ -168,6 +168,21 @@ related:
       - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
         width: 600
         height: 400
+  - title: "Supreme Court declines to hear Facebook facial recognition case"
+    excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
+    publishedDateTime: 2020-01-21T15:55:00Z
+    sourceUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case
+    ampUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: https://thehill.com/sites/default/files/facebooklogo_112819getty.jpg
+        width: 980
+        height: 551
   - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
     excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
     publishedDateTime: 2020-01-15T17:37:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.searchenginejournal.com/brand-identity/343941/amp/
 cdnAmpUrl: https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/brand-identity/343941/amp/
 type: article
 quality: 157
-heat: 158
+heat: 159
 published: true
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 840
     title: "10 Essential Elements to Create & Sustain Brand Identity"
 
-secured: "b6eDWXr+ZAvE6F092PACSo+h/OzzyhSRprkwiMoQvdU2YmUXTLcRtGKfEbtURpG7xwakesdzso4E+ElSkI/Et26SIc+GSMuG9xuvFG5yjtQWwY+poPGJp0nXwe54O8lGkYnjQOqvo2K25jAz9KafmgkCgS2uyhSB2pHlDrCp+PLYmFMObD0pJfFjM/00coRcyH/iL6uEByNMwj46ySyzmf0U240IjNxvZWO6jkxbuFwVbU9EOBCuRpQzHcZbLX/5wWrkGNMgwbIp3uTHnqYXaGVEgBUoVG0sjb10lSbbYSUgcVrUXrnXyIYOULvkflaW;fnGmBq7A1MPDmz7zyFrYmA=="
+secured: "XJJs2x2f7izfSuVPReneyx6LZdDXhVCQAKIa4yKhnYBFrh9KwDEHygEo4Pv31hCqUWWk8S++vEjjLGEwtH/ADQm2quNwaxsTkElRoe7AGp4/FKULt2OvfpcKx47snT8JQRqOxfv4gRaQPDcwuZLiNcr9O2TxmzI86Ag4HCP74SBSttzn6hgSHrJDEOjktYfUcXonbhKTFNj8qLN4Q7hDFKzodLgDqTx6x0+WQp2g5efrhzoDESPOFarR1kXyceNxnYQUT00E7KVJ4tMCnpY31lSLRKYgLwzfCsett14QhEX1BdltMucCeVrIee/eIn2O;FtOYZpGyAw5YXg+cGxnVww=="
 ---
 

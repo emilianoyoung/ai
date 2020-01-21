@@ -8,8 +8,8 @@ ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-dis
 cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 60
+published: true
 
 provider:
   name: Santa Rosa Press Democrat
@@ -30,29 +30,12 @@ related:
     excerpt: "Facebook Inc has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
     publishedDateTime: 2019-12-22T12:55:00Z
     sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
-    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 59
-    images:
-      - url: https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG
-        width: 600
-        height: 337
-  - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
-    excerpt: "Facebook says it has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
-    publishedDateTime: 2019-12-23T00:00:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 27
+    quality: 19
 
-secured: "2ihlQTCZL0BcWobgcJCahk+YrnEhakGWMeLPs1ndIATGa24G0bhu6iiIaHUi616G7ZBkY/dslc8vCuN2mO8bjb/f55PjcOEVYpVD2Qnf5u8XC5GoDGYspiS5T4Nkd4tNAaXD7kC0C2ERyxH/NKoac4Gy2HEeadHCu9VHJIjd1Nc6SEcsjx/WLJz1cd5N9812vTh4FkbXsfmxfZbD5nMG90b/54/ZeeQI2VSDhIOuXNNxQFtZMbL/RK5eTygFbiiuCV0gwRnpp20TzVK1i/l6GO5K2sAO3Fx2BBk57JcsB9s=;vFc47p70e9Ae+Df9UzCFJg=="
+secured: "QWHIP7gEmYaNnnIIokfMTtUDXevRmovnNRTDaUUZ5whCtlwUj+eFkI6u1SpAvF41lL56yxgiPjugeIXX9UhiG9a/dZWX912Wvi/gqAmGwisMYlIrt8dMC1RszYC9+nke2OoOTNCiG47vEs2xV0/CCZAPP8frH8SO+QNXBPKVQ2cF/7avNRyXf7a9m/LvWiZSLafyD3Px7DryvYUEUloHPN+n19mWlfGuhYDc6i5QiciUueHaNuFWa90kkgFTR6wNOjfrzR980o7esAxQQ9ld0d8LEV2b2PCHJxQ3VKrcvEM=;oa+oHSDi/Uucy/Nfn1dI9g=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T15:52:00Z
 sourceUrl: https://www.phnompenhpost.com/business/ptt-mitsui-team-robotics-ai-development
 type: article
 quality: 69
-heat: 69
+heat: 70
 published: true
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 215
     title: "PTT, Mitsui team up for robotics, AI development"
 
-secured: "Bvjc2uxx8dPR9K4oytYnfYvRmjT3Op7OZ5/q3Nh97iOITf6gLoUpyxw6oXJIUWmZBxTAlCAKmlQu0I7x7qKCwb90HIkJH+wZPGooBEf4ityu5T+2qD76JgoKJ2BjOF+gQIgk6gAXEgcCCmsqtxGTq8S3ts4jO9S/mKdSon6eAe6ZRsPVygDCg8Ey6XJK1D+Qey34YkSN7TFC7NYTHZmKNrtiVw6D3jTLXH3zxKCTR7Yn3I9ywCEPt3XhvDRORVhKJ2SrZQz2M0diXYxqkmgcuEU/aE+awfsjJG4J46BxeHo=;fNPR52/v1s2x6As/7tLIaQ=="
+secured: "PRGstnbd6F4oiN6bkqndpCMtkW/eChLFBZrUTXjVu3dQtNTVKb9YGiAw08Xw74RTlvFTOZg+mlwdvm8IsEADUJu+rG2tWYfDo9Xo582qpG8oLIu1tRumGMi+jG7B6LNXMyKLPV9GLpiMginbSqp1H6lMOqmPzd9hFBuxSaYRdMPadMOFV/flwPK/1fBVHxRo9zrXljB+8q1kDsvF5DcslUfpsM3+i79OAGbYJzuwkc8plBTHEKNbtE6/58x9yWE25a3d31doJRbUNwMFW0xIyb5V1CcHp3E7cxI0UG49mmw=;sc4+bxFp4xeEkMGBWfdUwg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
       - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
         width: 1200
         height: 800
+  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T18:04:00Z
+    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 4
 
 secured: "MQDNXuhob4GF9wakAXwB/y1Jvj+nxoeO2YuSCDf9EBqPgvJ+i9HDdp3bOfaAvuYCvitAycnx1mppQ/JSo9dHBacpsda8yF8SNAYiZ3tPB/prQFcgLfA210eJFbWdNUEFZBmDi2ow9195KR2DiVDDYEZLzxs7Sk2KM/wQ4B9dvx77yH/CGSJo7cJwIoamj61+62xZF51FqehPasECrmu5mbbuQvlV7hU4+4CMJmIJKkxDnpyGqgMYmkU1INBq8QQAQtwNQoOT2DonK0A97c8kvzp1JNZpT+RJEA8iGFsMy35Hn3du3p3NZ26Sf+Z0HODHewuAWiHdMeIlpjvlX+lyHZlU73sk2gNVvPUdcUQQQlHuvcS7b7tAAtENpioqgPEM7n6xbIbG+dwS7LAZGR/5NzjNKZJXtrlLV2wplJ+VyVi0uzQsHznO3qmoK3Yt6z7xxHbBXx9CQVJuyQNuqI/LZw==;g7LVzQxCBym8M2JHtuCC0Q=="
 ---

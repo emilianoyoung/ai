@@ -8,7 +8,7 @@ ampUrl: https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-107631
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 920
     height: 470
     title: "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets"
+
+related:
+  - title: "Qualcomm’s three new phone chips skip 5G for a good reason"
+    excerpt: "That focus on India is also evident in some of the features these new chips are touting. Specifically ... Also shipping on the 720G is Qualcomm’s 5th-gen AI engine and the X15 LTE modem, which supports 3-carrier aggregation, 4×4 MIMO and download speeds of up to 800Mbps. The processor also supports Wi-Fi 6 and Bluetooth 5.1, and it ..."
+    publishedDateTime: 2020-01-21T14:33:00Z
+    sourceUrl: https://www.slashgear.com/qualcomms-three-new-phone-chips-skip-5g-for-a-good-reason-21607303/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 49
 
 secured: "95ZGSOdfbJqEHPDF07EwFJLnd+yahUZIcPr3npY971NXtV2fsTH4d+H/xzcXYd8XKTeEEv2YGYr/LiV4HDzt2m4Gnb8hylY7IoBDOrj08oiurjt6LNrhZ7e8FPB5S649BuHIaDtRnKphes9navURhPVcI93NbjNWvxRbjzLR084AOyOR9/Q75PcCxI1PI4COFPE5GfRXl9ePAoX7xaAioVfEaAvHLDAc0rzu5MjUHDdckUcvBEn0k8EFALIMGBPzY2HsJ/NFsGN9sysBKpKlkhfJqpadDOxBwlPVsMw+P5gu8SlbFB+wRQCeTJ6/BHVirvEOJvySH4yX/vEmjSbneuhRMDIkal/O9I9OZ0XFXvtdgSwLi7d5jUj7uV0/iuEXCi0w/ML5hf9S7xmhRW7ZbGUpULZRNTxQ4PKX2S+Qd4sMD8PPvCD2626KvkN5piu4ysPyFkMN7xsT4o4O8Ter8Q==;jXOWXttTvFR3GgISX1fDAQ=="
 ---

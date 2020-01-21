@@ -90,6 +90,21 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
+  - title: "Google CEO backs temporary ban on facial recognition"
+    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
+    publishedDateTime: 2020-01-21T17:22:00Z
+    sourceUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar
+    ampUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
+    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
+    images:
+      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1
+        width: 340
+        height: 340
   - title: "Sundar Pichai calls for moratorium on facial recognition"
     excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
     publishedDateTime: 2020-01-20T17:43:00Z
@@ -135,6 +150,19 @@ related:
       - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
         width: 863
         height: 545
+  - title: "Facial recognition tech to find the Holocaust's lost horrors"
+    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Francesca Lynagh reports."
+    publishedDateTime: 2020-01-21T16:01:00Z
+    sourceUrl: https://www.reuters.com/video/watch/idOVBX4GGOB
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: https://static.reuters.com/resources/r/?d=20200121&i=OVBX4GGOB&r=OVBX4GGOB&t=2
+        width: 960
+        height: 540
   - title: "Microsoft and Google just can't agree on proposed ban on facial recognition"
     excerpt: "Google CEO Sundar Pichai has expressed support for Europe's proposed temporary ban on facial recognition, but Microsoft's top lawyer, Brad Smith, has cautioned against using a 'meat cleaver' for what should be a surgical operation. The two tech execs on Monday responded to the European Commission's proposal to ban the use of facial ..."
     publishedDateTime: 2020-01-21T11:32:00Z

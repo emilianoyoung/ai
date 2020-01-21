@@ -1,27 +1,25 @@
 ---
 category: news
 title: "IBM Launches Advertising Accelerator with Watson"
-excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+excerpt: "LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial  intelligence (AI) to predict the optimal combination of creative elements to help drive  high engagement and conversion for a given audience."
 publishedDateTime: 2020-01-07T11:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+sourceUrl: https://www.marketwatch.com/press-release/ibm-launches-advertising-accelerator-with-watson-2020-01-07
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - IBM AI
-
-images:
-  - url: https://mma.prnewswire.com/media/1062495/Ad_Accel_w_Watson_FINAL.jpg?p=facebook
-    width: 2699
-    height: 1414
-    title: "IBM Launches Advertising Accelerator with Watson"
 
 related:
   - title: "How Watson AI allows IBM's Advertising Accelerator to do three key things"
@@ -122,6 +120,6 @@ related:
         width: 1200
         height: 693
 
-secured: "k/H4wBQyP+gTzF6+KFvaEpuz5iyCgYuI97NJ7JH4+OtyZwAKY1/MbY1Vl6HTlx4lagbYcm0MXchdCyxN7bf2r2g0aatr8pW68ud8SFfQCUASYEksNqGwvo8/JJq2Cm2r8uLMibYg5kK3ES0xbJOPYIZtwTBjQTh13WbAMRbpBbMrV4qMohm6dqzX6JPat5InGk4idTZ2nqrD/f8DQPJizUQwEL6cBEzBxDDnjSbGGEyQ+A+ygJFa5VMdNbVUVYKQszgreUUv/jN4QS6cgFfEa7KnGttCFeIwG5I2n43+lxrPnU3PfWUDOKU/HfIA0iEHXUqLSkSOdMmUsT/fqE+lvLWyd37t5USpeiFmfaC/f2wBGlfFmcPy1qeVKHGX82mT7R6KKN8GoZSmkvyrGbkeLJzlX4MGFukkSbIePqNWwEEHx9kclGVNFEThLCdqQ/HZ/KhrfOngS9z0vdmJY/3U/A==;LHCzsvU6e9ttaOky1rKh8g=="
+secured: "JbWc+6dCcXSje5UJVkMBWzygcK6CqbKWdsOFslbaVfm4vNeLAimOFNSyiD4GB4Nl+xRSFFlZHLXLAXR4WbZ0eAIYAUCSCIrBomVZuQv2+H0Yq85WXxdBk6My3ADSzeNk32A6DIQVF/ZJB6hPbgXXJ0Fpzo5sBfQMP+blsx/G5KwS84ORLtN/VZOiisyTDLjZGikPldh2b5DOCMLyapHOldcY/GL0FYaYiZlRewn7jzTsbKMFNtvcsbBClVVod5vlWOkSCUPqJGTmj8o61B8E5VV1DAdovuP/2Y6bElRTgTE=;0FaYLy8j155nrFALHUnadQ=="
 ---
 

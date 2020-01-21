@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Hold 2-way conversations in 76 languages with this $130 AI translator"
 
-secured: "y/rDusehHCtT636Fd1J0pX6fVMT+6ceAiWsUoCgLMLyZd1dKzdMN4c1D+1D16RgRst0fee4CDv18IWfF2FyL1aucxsqNU+t5HtTGc7AERmrql7Rv18DBOWCmZJ9qj/k/NnS5DjVQGikFt7Rl/gu3dgSX6A0n45vyjZl69lW3Wdi5F+JFdxzqDfHtfuOxtcSVMYN35ie3obEkdQtIo1I1QfwQna+gERrAiFCtzikIg040hQ28e929/QA1htJK3UZ+I4gTjuHMeePYy1v89Di4m0I+G3zugVGa92EVEzZJcOM=;kTgyzidP7y1Wq3sa8xilOA=="
+secured: "sw6Qa0AmB2E0G55cWrMpsz0HFwTb/UmeLQWKUTd9hcE9FWxeXPcfacrA62tiU/M0eKDIlbSrAW1Oi0DBcUlvp8H1ZXjtAr8RvadYhGYl6eHd7gFRVyeNspbA2CbZbPnSxRChmgC8AUm3Z/pDSwhNLA6DzDDGdYUuGqNzk+CBXyaUVbTnrgFwBK/vaauNMTvpUA6qrVRMHHJBf9jO75xKUkPLtl6zQHlbhCMIpczBBWHnzuZFA5c65jVccp256z+s3ApxwSAgXedmVvb95aimIsENOwrSuX4jeq+C9+LafWSBt1Mt2Q9c37QLFg0lu/k5bdTChF/YPRcZSu+tBnYa3ABDzoolPScBGGJY3RmDA34UcDl2bDVGaNUu2MkK6ostRk1WGltSqxjLsvXr/YYR9zSpUrX8JCPMYHmKV9pcvLSojMedjRbySUeqhO+3Hd1XrlFfgG7EO16AXTTnsWt4rQ==;lV1OSzJzdVvk2JWpoD5FjQ=="
 ---
 

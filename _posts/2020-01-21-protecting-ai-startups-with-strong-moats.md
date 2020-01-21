@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/amp/
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         width: 747
         height: 467
 
-secured: "a6TYexRmdFPzDjrvMyB+4P24A0wDDaeLpt6td4n+rCtsE8AdLje3dg249UBuYvv8fH38vePBwirSqmwygatoPKBB1r+RGh8vDQL5fFxaxuacnfH0zh4KGFS+j2pwRHLFQEaJUrS7+4aBKkpEQge9d8xfCsyCXm4/frwbUd2F3BIuQPzoq+Bjaku29uqxX3qQ/YA/CxSReTuqLjEq6I/RfObGFveYcGp1Sr6eGt+0gf4WQJGmfopvDccFOeQjME6xVlnomQppHfvahbdBiXYGA4gPGy/CPKqgRQ3muLCXbs1YeLlVOTG4cN95UEIyHk8IUztjFsoikttkkuTBWWB15AMI+qBAVNFReXw8kdhIh2WiWV1LvKwR7dfK2Rnw/HB0JrLGJzL/2LxPtfudtNu0W6+Q+sAl6NENqrLWNG8aUMCBCJM+NyysnkORn2BbkA6x2bAZCFd+D6+BRe0noMguwg==;M08AADOLIuZX6z5EZy0zKQ=="
+secured: "qjB4c3qVxFaMJeMSXqdmeHptpzaN5ymDgdPIFqacwtEoFFVXbX44+zyd9UzIa7xpFvlt13KS192zwVjribODMrtImQfkR0Q3RuXxT6gYWdRDPcd17wcZxMaOF9D4xNZ/YM6M25fo/fBQkYMm2hkaV9noabUPLRUKIcCNj9FhfKqIOwhH1dlhAmvCLB7eoZRbx1r/7qooRgRn9IMdXSiQU7ysIObxdR51Pr/N/TtY7ZAiG+5Iz5MiMbrdSCz8d2079JQkin/iITUdThSTEYvS6at1XvVgFmP6TQzhbiweldzK4J1pUckWr/89Sfit3pleG92dH2jxDFwUfu20ISsPjxPECrJF4OFrM4nSEZZ7aEyVifmsogH0XVWlELawwJZS3YNDoTDX8qNkz5+90LkmR6EJtkxX3v4ua6iCHiM6YQrWxtHl/YNC6bAH9ZTlQc9I69ag60As5Rqnbeevla60zw==;3ZlKTh42Y1bCKgqhlSCdEQ=="
 ---
 

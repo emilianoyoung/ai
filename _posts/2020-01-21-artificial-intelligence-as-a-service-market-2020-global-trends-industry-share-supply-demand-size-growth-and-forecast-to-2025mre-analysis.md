@@ -162,6 +162,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Artificial Intelligence in Aviation Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
+    publishedDateTime: 2020-01-21T06:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "RfzLXSdPx+mh13fXGuWrbmjpujSzsW04bJJIO1Me+hkQfykEF5yw7U1R2a80JS9Efm/f1yRrJxVmRRpkMEWNJRWnCbgkSiWDjFvojH/UymwO2+YrJHmyPdrYNwj4+Rb0uqvGOK+I/6hPCbs18hXcdaO+pU4tfVDXXYKKCWTuqMVHo9dKdai9ZC61imBsIFTjbhGMfrwOgZG2gecHqHdfHrAd6vUQSh4wutD/VLr5TINj2nFNUPDmqth3h1UdF74HM6xEboM2XqfpVYDWffpFCoSlsz7NZ0nxN5ppAxCHFl0=;W+LCkO0j6U257St3iYZ7ew=="
 ---

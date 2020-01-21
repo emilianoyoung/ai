@@ -8,7 +8,7 @@ ampUrl: https://amp.businessinsider.com/police-robots-security-malfunctioning-fa
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/police-robots-security-malfunctioning-fails-knightscope-2020-1
 type: article
 quality: 64
-heat: 65
+heat: 64
 published: true
 
 provider:
