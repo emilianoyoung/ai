@@ -23,6 +23,6 @@ images:
     height: 685
     title: "Solving the transcription start site identification problem with ADAPT-CAGE: a Machine Learning algorithm for the analysis of CAGE data"
 
-secured: "eszPHP0zBlPdXH0tzodElSa9nVvp8gb2n3TAnYBwDaZXgOrJ4HvP2x/1bfijqtIzgpUeEk0qnglWHh8x2QudUAZX8j5kc81O+i9oWBi1zPaFDSaUMuYQSSqtK7ek91okfocyy90V1ZfMPbw/R+mrT7hevZS/xYBKqLZVHK/NwyoFBD+xApIuFea7Dy6AiUxudzw9MdToEAFx9HIFWH/X8dIo/sQ7YCyMJACbuycwgXCEuNvZqeanRhp0wSb5QieOTAVII9ntDZ7H0MRukSdj3EYT6bV8FrUoEoUK2Ddu71o=;r/DCZtWbP7/cT43tsNAKAg=="
+secured: "9Dy3r1Uawhmyq8ATUqxDCxPIIaNMVSeMJSN2FLGemoj41OfftvW6mmebW3X6kdjT4UmRXRQ/TLxSbYzMEXD2jcNJvkBAwtp7MyXuclUuP31wUp+Z9E8KmgTQRyleJ4bZpzRmLSOiiSb/V0z7P0CpTWAl+Yr7/mLQ63rKuiFStdNbv8wayoQEeLAdG+s8WQTSRacWk+O4b+UrlU2VNSsRgV9eD3npf49uoqzQagAa1nsSFDqTW9dCe4DhceJrZmG4Yu0z9GjKgAiqVpDSpDGOYyAIXPKGrjQ8O0d+moSgssyAF8pvjzkQKzCOhhRDIzGmXDjE6QGZ175fiuGSxPQrWkJNu2TXqPQKJV7uc0MqB6+XiS2YkSaZEngoLBRwCxs+x7rMiSK6kTFS/m83mFdPIESzRTiF7f/hsrU42WwuqOOWkcvcMJDzSK+fh/ya7+4oPowWvI8/9TYFwn9OQwJf0A==;E8KFhXH7Zx1LaravCfL9MA=="
 ---
 

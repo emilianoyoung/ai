@@ -339,6 +339,19 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 37
+  - title: "Artificial intelligence needs to be regulated, says new Google CEO"
+    excerpt: "EPA/BORIS ROESSLER Alphabet and Google chief Sundar Pichai called for a global regulation of artificial intelligence at a conference in Brussels. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this”, Pichai said, adding that “while AI promises enormous benefits ..."
+    publishedDateTime: 2020-01-21T12:29:00Z
+    sourceUrl: https://www.neweurope.eu/article/artificial-intelligence-needs-to-be-regulated-says-new-google-ceo/
+    type: article
+    provider:
+      name: New Europe
+      domain: neweurope.eu
+    quality: 37
+    images:
+      - url: https://www.neweurope.eu/wp-content/uploads/2016/03/Google_07.jpg
+        width: 2048
+        height: 1223
   - title: "Google CEO calls for artificial intelligence regulation"
     excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
     publishedDateTime: 2020-01-21T05:50:00Z

@@ -101,6 +101,21 @@ related:
       - url: https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg
         width: 1050
         height: 550
+  - title: "Google favors temporary facial recognition ban as Microsoft pushes back"
+    excerpt: "The regulation of facial recognition is emerging as a key disagreement among the world’s biggest tech companies, with Alphabet and Google CEO Sundar Pichai suggesting a temporary ban, as recently suggested by the EU, might be welcome, while Microsoft’s chief legal officer Brad Smith cautions against such intervention. “I think it is ..."
+    publishedDateTime: 2020-01-21T11:51:00Z
+    sourceUrl: https://www.theverge.com/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/2ls_1ADJfdpajQ3z17fE91W2qRU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66136415/acastro_180730_1777_facial_recognition_0001.0.jpg
+        width: 1400
+        height: 933
   - title: "College students demand schools ban facial recognition"
     excerpt: "First, they stopped facial recognition from coming to Coachella. Now they want to protect universities. Prolific digital rights activism organization Fight for the Future has partnered with the group Students for Sensible Drug Policy to stop facial recognition technology from coming to college campuses. The coalition put out a petition that ..."
     publishedDateTime: 2020-01-14T22:07:00Z

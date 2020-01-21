@@ -8,7 +8,7 @@ ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-dis
 cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     height: 533
     title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
 
-secured: "isuGBXls8YxchltHXpmHJzc2uE0OPL/aQq5GLdC/e7tRI73nyHoSV5sOWGbVj8MjkuCl5cBgC0zosXMibxJ6IFXUO00yQTUp2jqLXbc+yHtRWoP0v+bCrd0iMzJsnneGfAHJXS7LjW072LNLHyZN5MhQ5oNGO1A60ujHgvsaDdTiol1PgHw7cJ4K86T+ybsByGyThW4FQKwB7GdgjNAxkGmB+mXbpfZBd3Hp9DKvtHMPSpjUQQRaMYP2ThgKy5Cl5M9z2Rw0/lyBc6sWo7Y4O9kUMy3pDaUnPySLtfipE5g=;VvMR8GcuOY4NuQ782wxlDw=="
+related:
+  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
+    excerpt: "Facebook Inc has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
+    publishedDateTime: 2019-12-22T12:55:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
+    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG
+        width: 600
+        height: 337
+  - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
+    excerpt: "Facebook says it has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
+    publishedDateTime: 2019-12-23T00:00:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 27
+
+secured: "2ihlQTCZL0BcWobgcJCahk+YrnEhakGWMeLPs1ndIATGa24G0bhu6iiIaHUi616G7ZBkY/dslc8vCuN2mO8bjb/f55PjcOEVYpVD2Qnf5u8XC5GoDGYspiS5T4Nkd4tNAaXD7kC0C2ERyxH/NKoac4Gy2HEeadHCu9VHJIjd1Nc6SEcsjx/WLJz1cd5N9812vTh4FkbXsfmxfZbD5nMG90b/54/ZeeQI2VSDhIOuXNNxQFtZMbL/RK5eTygFbiiuCV0gwRnpp20TzVK1i/l6GO5K2sAO3Fx2BBk57JcsB9s=;vFc47p70e9Ae+Df9UzCFJg=="
 ---
 

@@ -92,6 +92,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Manufacturing Market Size, Growth, Opportunity and Forecast to 2025"
+    excerpt: "Artificial intelligence (AI) is an area of computer science that emphasizes the creation ... of manufacturing plants 1.2 Adoption of industrial IoT and big data technology in manufacturing 1.3 Rising usage of robotics and computer vision technology in manufacturing 1.4 Growing opportunities for AI based technology in developing countries ..."
+    publishedDateTime: 2020-01-21T12:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-growth-opportunity-and-forecast-to-2025-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
     excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
     publishedDateTime: 2020-01-21T05:08:00Z

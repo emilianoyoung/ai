@@ -32,21 +32,6 @@ related:
       - url: https://images.wsj.net/im-145573/social
         width: 1280
         height: 640
-  - title: "Google owner calls for 'proportionate approach' to AI regulation"
-    excerpt: "Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a “proportionate approach” when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
-    publishedDateTime: 2020-01-20T12:05:00Z
-    sourceUrl: https://www.reuters.com/article/us-google-eu/google-owner-calls-for-proportionate-approach-to-ai-regulation-idUSKBN1ZJ18O?feedType=RSS&feedName=technologyNews
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-        width: 863
-        height: 545
   - title: "Artificial intelligence needs to be regulated: Alphabet CEO Pichai"
     excerpt: "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence, calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said existing rules like Europe’s privacy legislation GDPR ..."
     publishedDateTime: 2020-01-20T13:14:00Z
@@ -146,6 +131,15 @@ related:
       - url: https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640
         width: 1200
         height: 700
+  - title: "Google Owner Calls for 'Proportionate Approach' to AI Regulation"
+    excerpt: "BRUSSELS (Reuters) - Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a \"proportionate approach\" when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
+    publishedDateTime: 2020-01-20T13:10:00Z
+    sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-20/google-owner-calls-for-proportionate-approach-to-ai-regulation
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "McGF7nLjDA+LKa12u5A91ctx0Rb0qvTi7bRgY3TtHD9pjy3CQ3KBG+HVw+aPQgPVS+WlDhXKklnLvwdCIXAms9krzfGkeE/V7HEL1ULWVYbHjTg+qyw+CPfFtDxf+YxSbEM3qBfOtnHYZ/COUZGaTM4jEvbnFFWfG11evTyh41CRPlZNR3bnNdV0eOuA53E8CMZFXH2/kkgNy9TJvkuXj05KT0Hi65k/dR30nx0GJlhN5sTpe1edN8cXdCmFKHksVOTX4XRbgMJ1juipjuRSc0vmG2ugPxg+1io8JAaMlHg=;PV9SA/PkFx6mjyPqjqn5HQ=="
 ---

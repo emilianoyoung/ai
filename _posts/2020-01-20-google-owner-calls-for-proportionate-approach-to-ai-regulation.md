@@ -1,32 +1,24 @@
 ---
 category: news
-title: "Google owner calls for 'proportionate approach' to AI regulation"
-excerpt: "Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a “proportionate approach” when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
-publishedDateTime: 2020-01-20T12:05:00Z
-sourceUrl: https://www.reuters.com/article/us-google-eu/google-owner-calls-for-proportionate-approach-to-ai-regulation-idUSKBN1ZJ18O?feedType=RSS&feedName=technologyNews
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+title: "Google Owner Calls for 'Proportionate Approach' to AI Regulation"
+excerpt: "BRUSSELS (Reuters) - Sundar Pichai, the CEO of Google-owner Alphabet, urged regulators on Monday to take a \"proportionate approach\" when drafting rules for artificial intelligence (AI), days before the European Commission is due to publish proposals on the issue."
+publishedDateTime: 2020-01-20T13:10:00Z
+sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-20/google-owner-calls-for-proportionate-approach-to-ai-regulation
 type: article
-quality: 87
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/usnews.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-    width: 863
-    height: 545
-    title: "Google owner calls for 'proportionate approach' to AI regulation"
 
 related:
   - title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
@@ -153,6 +145,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "ldLTXFtn64BLn2+LMJzJrLwIV5ie8N1+mhdPudcaYwhUP+7218zUmEM8cth+ZpGJV2+2l90WvHkjn1I0s5jyzpgfO7D/N73h9nlPPfI8s84494JFk7RSuONVN/N4/XDD8phhGBTsSZ8BWaMOgv7ByTgkb+Jmo5OUoGgVR4oORcQl6MVT/4cNcjvt4nm3ZL4hLUupe4i/27apUn38zr16lJ+zOcI2nY3dzmQvZZ0jQdK95NueEDVtdDVaihIZyAfe0aByH0Kx5tlBKe6sIX7+Zi3zYdYxJX9+tBvW3UIkPBnwRP3hcNELhvaw7BJNU1w67uks9FQopjYxqIUgx4tyQ6WIKUZCeYrdWW4BLJLQ9XMjbOZr5mMe6Ie8fC/lqNdbOF4ZU3LPBK2Q2ZWaFG1diAmeezkkbvsHNHlkMvFK07mIjF1n+36cd2iT3nhoqiM2cvWjmkitX8LaqxIH93GUMQ==;pXZaGuwygaH9+fY2T0rf+Q=="
+secured: "KBf6BRw4Oh4l8/s3bYB3ux8eOXwsEPfm+ckLx/BCPeYfOp0UYlXnfZBgKIsGAhWmuGWeCI6s1SNlS42BXnAAICXyE7ZCaZxx/J+7i82SjHPO4rCqpTsPKiFyVD6XxfbGhx8ZF+FTJc0WUcF62YAp2geY5s8HUKF+mbaSLBAIzT6qwaEs6GRFQ3wwQjeKdDkJ9vimmRGYFW0BdZA1QpwOwI7ZPN6NQ0Gpm0GJaIha6EK43v8ic6wLMcqYOV7ThBgBw1/yMZJG24RFUuPHp/N1H+eOdZPUrrLcjq6OkBhFmj5BxxCPKX5fCeOl++U+B+QQMN+4ZPwe5Eb1YcO0HjKZ8Wm1F9H1rNMT+bt3GJJ+JEC54sP4fs8d5YRt3tHMW/kkvrUHTnwNj/Cb8sA7DpIMZ4QwrPkedCfIZ6V1BEYpmbz12TbfqWk9xFcYX4SX1YVOywYj/dB8/i+cS5WRuSF+zQ==;MlXm/2hnFyrZ9lEQ4gye5Q=="
 ---
 

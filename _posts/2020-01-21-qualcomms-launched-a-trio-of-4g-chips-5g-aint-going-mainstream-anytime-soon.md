@@ -25,6 +25,6 @@ images:
     height: 683
     title: "Qualcomm’s launched a trio of 4G chips: 5G ain’t going mainstream anytime soon"
 
-secured: "5lun5Ech+vH33IOIlWOEam/cH4bKD5fUX2LtrmK6tZ63uKaT6GXnNgglYcIn51PA20+Z+YMjIe3BU5Zo8+2SrizSHpUCiaYqJ7TalygBfoxYMP5wk5nSraxEXF0gozuWai1DwvW3duZTBrgIKR7aM9v3uQVpH/nrOHzx3MjQNRvUBHLBhGeDkDy/gv8iVRt6MAfirUloDxfP0+dEsICLgGVoE78HMAIVAQQGhBfda7OgUYDtqJv7PSMYUhhsVYUhhERw2qeg6Fq41/3tpmNmQ40O2jOyx8U9nh51wbENVWQ=;pkPHurOCr3tVQkcNtTOyFw=="
+secured: "0jZkvUwRvhnC6LWFyWKcUAz5EEuzEmtLdzxhmXvsSfV+Ik1su3X8S4EzpaTMgXXWMpnIzthYN9idgvv+71QcT0S1U6Y6VED39km/h1GlvYKWacKF6Pg7NPGJ/Ty+G4BuNOhlwQ/SrixsH9ewleQ4KOFP5AdJJKH8MzV75CKFcSWQiEZ+pXMZ7VKuvjXpq2E1MLJ9TWAGw0FkG78U3EulYZpezMOWYN4T0izA/HYrccqYaX4EHyK5+U5bIMRfVrcDihY5tinuTfThpbROi3qa7k8/BOy5MbAKBPhm7yDx0829acZXk/4RFxBtbgnGj/+UNd3PiI/ASPbo3uTG/SbruLhb2EhKR2wOHcrkcoD0wTKU+742SvWiyPH4flI2d0uEHQFKIwqFVrPwQtakgpVwd2bRBdFSdk/kHS3qzIejTafWUJkB9irgfMX99813Y8zC8bGlXNizZKjUXmM5+HMjeg==;MBgaiu8ge6hmb4453HwMGg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T06:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21
 type: article
 quality: 83
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -71,6 +71,19 @@ related:
     excerpt: "Global Artificial Intelligence (AI) in Automotive Market This report helps to analyze competitive developments such as joint ventures, strategic alliances, mergers and acquisitions, new product developments,"
     publishedDateTime: 2020-01-17T11:04:00Z
     sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-2020-by-company-regions-type-and-application-forecast-to-2024-2020-01-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Manufacturing Market Size, Growth, Opportunity and Forecast to 2025"
+    excerpt: "Artificial intelligence (AI) is an area of computer science that emphasizes the creation ... of manufacturing plants 1.2 Adoption of industrial IoT and big data technology in manufacturing 1.3 Rising usage of robotics and computer vision technology in manufacturing 1.4 Growing opportunities for AI based technology in developing countries ..."
+    publishedDateTime: 2020-01-21T12:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-growth-opportunity-and-forecast-to-2025-2020-01-21
     type: article
     provider:
       name: MarketWatch

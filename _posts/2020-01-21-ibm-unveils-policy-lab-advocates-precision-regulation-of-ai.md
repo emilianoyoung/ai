@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-prec
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 600
     title: "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI"
+
+related:
+  - title: "Artificial Intelligence: AI Regulations, Policies, Privacy and Innovations"
+    excerpt: "Artificial Intelligence (AI) technology promises to automate and reshape business, commerce and consumer activities worldwide. But AI also triggers concerns about privacy, bias, security and plenty more. Concerns about AI, facial recognition technology and privacy are running particularly high. As a result, the AI industry and governments ..."
+    publishedDateTime: 2020-01-21T12:33:00Z
+    sourceUrl: https://www.channele2e.com/technology/ai/artificial-intelligence-regulations-policies-privacy/
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 30
 
 secured: "HU3IQCczJTbu3/a+FdESct3ph504lKn1DTwzCHsXB/HzJzfT22Tsdb1YjqaI2+efzRLL/XMwGhBC4/vd7rOrRoUvujnc455UeDMGEVChlDDbfc0kw169j2oEUxsscAXXfUS8qx1FRC/f3ZQMvILxZ4eHLpiDc+PcN+dkBRg7/cyzvRFWehA8HOpqoADUuvuXUkloQqr1gut9noagY3LVjbXr6CCyqH+dPlx4SRkQuAyLZuM3QNg8h3MFKNzG8ikN2HDYVmpGfJQ8sWG1mqwu5jsUTesXVCyjYLGpc5LqnhNGwXXtDySXPuDjBm1ku4XdI0OTKuu8q5DqKqNVbRi+KfMl2rnG0oKtdCK+DiTw302bzowd9cbnZj1yzwmwziUdYulYvU8n67zOP4UVjX4/hsGiezN82E2bKptz5fR8jFTc5d8ieldR4HoPnUvTzBOnB0mQWVfF66YoMJ8SupL5gA==;/pFtrX28n5O9Ya0eOT2k9g=="
 ---

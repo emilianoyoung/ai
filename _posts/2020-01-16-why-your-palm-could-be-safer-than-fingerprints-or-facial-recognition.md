@@ -23,7 +23,7 @@ related:
   - title: "Facial recognition could help discover fate of Holocaust victims"
     excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
     publishedDateTime: 2020-01-21T11:39:00Z
-    sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo/facial-recognition-could-help-discover-fate-of-holocaust-victims-idUSKBN1ZK150
+    sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150
     ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
     cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
     type: article

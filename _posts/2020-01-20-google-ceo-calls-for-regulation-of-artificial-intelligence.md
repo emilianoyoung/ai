@@ -340,6 +340,19 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
+  - title: "Artificial intelligence needs to be regulated, says new Google CEO"
+    excerpt: "EPA/BORIS ROESSLER Alphabet and Google chief Sundar Pichai called for a global regulation of artificial intelligence at a conference in Brussels. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this”, Pichai said, adding that “while AI promises enormous benefits ..."
+    publishedDateTime: 2020-01-21T12:29:00Z
+    sourceUrl: https://www.neweurope.eu/article/artificial-intelligence-needs-to-be-regulated-says-new-google-ceo/
+    type: article
+    provider:
+      name: New Europe
+      domain: neweurope.eu
+    quality: 37
+    images:
+      - url: https://www.neweurope.eu/wp-content/uploads/2016/03/Google_07.jpg
+        width: 2048
+        height: 1223
   - title: "Google CEO calls for artificial intelligence regulation"
     excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
     publishedDateTime: 2020-01-21T05:50:00Z
@@ -376,6 +389,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "moqiMNJsgoAZTdLMst8g7HFRCqHm/lcCJMmbLJATI9AhgaBmw8vXWxBdraX3wnWeuJMjnsXymv0viVoGg9jXlAY1gMpjWbCyWFp3FI2BjS8HwFG8S+hxSq4F0aSKohYKCb9vRuiSH3+iW0/upetKdEqyWkeGaWRdmQSrXPPu0SVO5JrsFtj+Sd/prW6rI0MFuujX/w0xbDZFxhRwXTNlFbseYohwYS9jd8jaHUUjlzQaAlW4OT/QOB/evAmQVwsWzkrPiZav0vwrtAbBfOoRs3Ai/5CRQOvM8xjkiR+zlXY=;CbCmuUpPsIEWv/Ul1zaHkQ=="
+secured: "5fcWsyue8zb6fRSmWRhHQ0oO+UcWaVtxyrSG0KI0nz9BVJfUCnBejnfCFWYpgs7n8n4ZWL8bur0NeXcIL6obl/MiXHpVhpkSFBIDJm3tTOwfEwQFqCYM+GSTKBm94X+gmdqcDiwmEKqx+65vZspfYIoppceiI7dZFyxd1kSVcmOIL2T/Jqc2rFr049f0YecxTXtcsrkJq3Spr8aMav+HbWxPgFkoDK3moj/1aAu6WsEttnH+r8em+P4ZBtWS0xAolLZkrtdMTCdDMJO9cIS5pWxHYEpGOoAzhRXqvK5Pffk=;a8YrO8Uup0yONeoHlNhg/w=="
 ---
 

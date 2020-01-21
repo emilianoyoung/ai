@@ -3,7 +3,7 @@ category: news
 title: "Facial recognition could help discover fate of Holocaust victims"
 excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
 publishedDateTime: 2020-01-21T11:39:00Z
-sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo/facial-recognition-could-help-discover-fate-of-holocaust-victims-idUSKBN1ZK150
+sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150
 ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
 type: article
@@ -57,6 +57,6 @@ related:
       domain: scmp.com
     quality: 39
 
-secured: "eZDcNDwi3eO0t6cCGVYkgXloKe0z6SfBMStURLRHBjrj41bH0V+b8W2gsJs2sQ5lpVUN6IUUYv922T4Rd9lLUIhOvi+7Nlz8rzkUyXIN34Eo3MqagCVBU5iP2MJYDzn3WTnJsf1VRjn4UtIxvq0uaSll0LMFEm6EWyCF+qK0cugfjNX4xKt8WIpJTfjKX/08ZfpNQ27Y3+zbFmIolgVetH9vCgqQ4giuToEaQyYFuk/WfbEqiU2VGRjC/dbti5uE4iD0XPopM6ZD7wQl7qX3EiU9M4R0VnSBKbH7BLG2eDk=;/+no+FRkcTWxGuDocI2eBA=="
+secured: "FkSkY93XuJ5LRnucnmMQxxR99JXocJ8n1VKhU3LS2KmncnWrdcgeZ3AXMO9VLxK6JRTYrQjbumqxeuM+BT6f6nvcw6/pvXYfCIdeVcscc7WqU27/DCIAfRv6u3BgIhOwigaM+SyzJ9VHkhZiDuqfNftvfY9YQTjdObp+/N9kOI2KA69Se+qwG47Mah8e8jhpodX4wQD67aYTPk1RTVKscc3jE1UQBDGKg7iK1NuJ9bIJkvyBhysv75GYKOJ0veVjT/NpwL3/i5Jn0yXMcFwBOwHlFLb9Cu1z6SDFiE/MJ7I=;ID+czAuFP2NqQsy6pNxgHQ=="
 ---
 

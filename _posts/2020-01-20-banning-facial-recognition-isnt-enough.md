@@ -88,6 +88,21 @@ related:
       - url: https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg
         width: 3413
         height: 1920
+  - title: "Google favors temporary facial recognition ban as Microsoft pushes back"
+    excerpt: "The regulation of facial recognition is emerging as a key disagreement among the world’s biggest tech companies, with Alphabet and Google CEO Sundar Pichai suggesting a temporary ban, as recently suggested by the EU, might be welcome, while Microsoft’s chief legal officer Brad Smith cautions against such intervention. “I think it is ..."
+    publishedDateTime: 2020-01-21T11:51:00Z
+    sourceUrl: https://www.theverge.com/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075001/facial-recognition-ban-google-microsoft-eu-sundar-pichai-brad-smith
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/2ls_1ADJfdpajQ3z17fE91W2qRU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66136415/acastro_180730_1777_facial_recognition_0001.0.jpg
+        width: 1400
+        height: 933
   - title: "Shanghai is testing facial recognition at pharmacies to catch drug abusers"
     excerpt: "Every few days, China finds a new way to introduce facial recognition in people’s daily lives. According to a report from the South China Morning Post, Shanghai is testing face recognition terminals at pharmacies to catch folks attempting to buy controlled substances in substantial quantities, likely for resale. The report noted buyers of ..."
     publishedDateTime: 2020-01-17T07:58:00Z

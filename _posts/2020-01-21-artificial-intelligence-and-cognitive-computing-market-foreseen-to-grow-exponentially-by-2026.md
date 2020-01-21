@@ -92,6 +92,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Manufacturing Market Size, Growth, Opportunity and Forecast to 2025"
+    excerpt: "Artificial intelligence (AI) is an area of computer science that emphasizes the creation ... of manufacturing plants 1.2 Adoption of industrial IoT and big data technology in manufacturing 1.3 Rising usage of robotics and computer vision technology in manufacturing 1.4 Growing opportunities for AI based technology in developing countries ..."
+    publishedDateTime: 2020-01-21T12:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-growth-opportunity-and-forecast-to-2025-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
     excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
     publishedDateTime: 2020-01-21T06:20:00Z
