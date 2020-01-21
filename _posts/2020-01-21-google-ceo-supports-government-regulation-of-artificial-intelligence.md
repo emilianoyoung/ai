@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
-publishedDateTime: 2020-01-20T10:53:00Z
-sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
-ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+title: "Google CEO supports government regulation of artificial intelligence"
+excerpt: "MOUNTAIN VIEW, Calif — You probably don’t have to stretch your imagination to realize artificial intelligence has the potential to spiral deep into dangerous territory. Remember \"The Terminator\"? But this emerging technology comes with inherent risks that could cause problems long before we find ourselves trapped in a Hollywood-inspired ..."
+publishedDateTime: 2020-01-21T00:57:00Z
+sourceUrl: https://www.wtsp.com/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
+ampUrl: https://www.wtsp.com/amp/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
+cdnAmpUrl: https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: WTSP
+  domain: wtsp.com
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
-    width: 1280
-    height: 720
-    title: "Google CEO calls for regulation of artificial intelligence"
+  - url: https://media.wtsp.com/assets/WTSP/images/af91cf10-ae93-45c0-a767-233fc2d2139a/af91cf10-ae93-45c0-a767-233fc2d2139a_360x203.jpg
+    width: 360
+    height: 203
+    title: "Google CEO supports government regulation of artificial intelligence"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -200,6 +199,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
         width: 1024
         height: 576
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
+    publishedDateTime: 2020-01-20T10:53:00Z
+    sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
+    ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
+        width: 1280
+        height: 720
   - title: "AI must be regulated, Google boss says"
     excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
     publishedDateTime: 2020-01-20T11:48:00Z
@@ -260,21 +274,6 @@ related:
       - url: https://cbsnews1.cbsistatic.com/hub/i/r/2018/12/11/e3fc3bfc-a39d-423c-9add-380a04d6b7fb/thumbnail/1200x630g2/32ce44f3e586b4ae63598cf3ea490767/gettyimages-1080946342.jpg
         width: 1200
         height: 630
-  - title: "Google CEO supports government regulation of artificial intelligence"
-    excerpt: "MOUNTAIN VIEW, Calif — You probably don’t have to stretch your imagination to realize artificial intelligence has the potential to spiral deep into dangerous territory. Remember \"The Terminator\"? But this emerging technology comes with inherent risks that could cause problems long before we find ourselves trapped in a Hollywood-inspired ..."
-    publishedDateTime: 2020-01-21T00:57:00Z
-    sourceUrl: https://www.wtsp.com/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
-    ampUrl: https://www.wtsp.com/amp/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
-    cdnAmpUrl: https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 57
-    images:
-      - url: https://media.wtsp.com/assets/WTSP/images/af91cf10-ae93-45c0-a767-233fc2d2139a/af91cf10-ae93-45c0-a767-233fc2d2139a_360x203.jpg
-        width: 360
-        height: 203
   - title: "Google CEO calls for AI regulation to avoid 'negative consequences' of thinking machines"
     excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the EU commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
     publishedDateTime: 2020-01-20T14:08:00Z
@@ -348,6 +347,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "WSz5kAYKy+C7Cfftz8H4Ky7671zr/cHwCDnD2uhLGmY1Gd5hBUyEBKx8G4qFVSHW+oyoboohKA23XpUOmNwDGnp79wZD9UDESxbhBYEhGGQAdsy7/bl3xmgz/G9Ml0pFzuxL41m88U2ARLB5FgZrXielUsY7GDmcbaexHt9gU5vtlqNEgS1Hac39TTtNs5egMu1kOQ13RFoItstsXuxoFO9et043XLP0G064zPGcL8tCWwieJDa09Rfkpt9V+KXGK4KKyV8ejam2rMV89Po6IW1UOdIvEV6WB+i4FdG/E7ZGibgr5BCAzpBHsZYptCe3ouZb/qybD7K5v8wUj1zD2JY45Hp+wcCT6xXCrVg6WtgIGUFkVtH40/OpzbEC8uRAQVXepVBQMF9Wyz636FceQf6gtmbEROIXeIogOAnPq2DYl+7m0nKHWhp21F2AY9e78v8b9Y49z1+XLrXkgVZGLg==;Tjd0ylq3i9rupLd4HsTW5A=="
+secured: "RfNAtjPxn4kpV8qCPITGM2fP51dYvsjW0yjQVQkKav2dkaftHG2MUk/VaJSebJQs/Jl3Gq+2Fb/CdwDL4bfS45XRBsYBHlUY8ETUwAVhp5OZCwTqoOBrZZ/TxbYGg4Xt1zZxavollwXt53E97w26ur/2n2Pzkut4FMoLgenLeLnE/HE9ZT0nKMMtx4dWd1RFaE8Ce00MtgMykE+3uvgaBaA0YJXbMvA+w67Fyvmkf58pP3RZeiJ+YsKUelTt9ZHx/mwoZmLHBZwEKyEXpvOBmfiisUwBxMVApBDumnrI87Q=;q6zGjqQoGXgOOaUZq19guA=="
 ---
 

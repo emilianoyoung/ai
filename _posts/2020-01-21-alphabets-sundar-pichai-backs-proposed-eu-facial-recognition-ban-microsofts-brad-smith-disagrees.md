@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
-publishedDateTime: 2020-01-20T10:53:00Z
-sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
-ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+title: "Alphabet’s Sundar Pichai backs proposed EU facial recognition ban, Microsoft’s Brad Smith disagrees"
+excerpt: "Alphabet CEO Pichai said facial recognition technology could be used for nefarious purposes But Microsoft President Smith said a ban was akin to using a meat cleaver instead of a scalpel to solve potential problems While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium ..."
+publishedDateTime: 2020-01-21T02:32:00Z
+sourceUrl: https://www.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
+ampUrl: https://amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
 type: article
-quality: 59
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
-  - Facebook AI
-
-images:
-  - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
-    width: 1280
-    height: 720
-    title: "Google CEO calls for regulation of artificial intelligence"
+  - Computer Vision
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -200,6 +194,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
         width: 1024
         height: 576
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
+    publishedDateTime: 2020-01-20T10:53:00Z
+    sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
+    ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
+        width: 1280
+        height: 720
   - title: "AI must be regulated, Google boss says"
     excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
     publishedDateTime: 2020-01-20T11:48:00Z
@@ -290,17 +299,6 @@ related:
       - url: http://media.foxbusiness.com/BrightCove/854081161001/202001/3712/854081161001_6124332457001_6124328270001-vs.jpg
         width: 1280
         height: 720
-  - title: "Alphabet’s Sundar Pichai backs proposed EU facial recognition ban, Microsoft’s Brad Smith disagrees"
-    excerpt: "Alphabet CEO Pichai said facial recognition technology could be used for nefarious purposes But Microsoft President Smith said a ban was akin to using a meat cleaver instead of a scalpel to solve potential problems While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium ..."
-    publishedDateTime: 2020-01-21T02:32:00Z
-    sourceUrl: https://www.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
-    ampUrl: https://amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 40
   - title: "Google CEO Calls For AI Governance"
     excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
     publishedDateTime: 2020-01-20T11:43:00Z
@@ -348,6 +346,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "WSz5kAYKy+C7Cfftz8H4Ky7671zr/cHwCDnD2uhLGmY1Gd5hBUyEBKx8G4qFVSHW+oyoboohKA23XpUOmNwDGnp79wZD9UDESxbhBYEhGGQAdsy7/bl3xmgz/G9Ml0pFzuxL41m88U2ARLB5FgZrXielUsY7GDmcbaexHt9gU5vtlqNEgS1Hac39TTtNs5egMu1kOQ13RFoItstsXuxoFO9et043XLP0G064zPGcL8tCWwieJDa09Rfkpt9V+KXGK4KKyV8ejam2rMV89Po6IW1UOdIvEV6WB+i4FdG/E7ZGibgr5BCAzpBHsZYptCe3ouZb/qybD7K5v8wUj1zD2JY45Hp+wcCT6xXCrVg6WtgIGUFkVtH40/OpzbEC8uRAQVXepVBQMF9Wyz636FceQf6gtmbEROIXeIogOAnPq2DYl+7m0nKHWhp21F2AY9e78v8b9Y49z1+XLrXkgVZGLg==;Tjd0ylq3i9rupLd4HsTW5A=="
+secured: "lke2BCj8SQo8wypBlytjHO4kIfqSTASTYkMG7QSJPLXFELQlbtXDuVuK/qkdqVDNyFCcpoU2p9eJdIWy5b+FIuzm6BEwMcWR52KFYGKWrGO48ds7WYJV3LjDd2aJNlf52HeAspVnYmDYNcXONs2r5GrIfksg7K+eNncYtX0FVLJmkyHLtFPs7J18/Ove/n1L84J1w+mg5duZgpgYGRwZomkGmX+pQr2Dt0AyZ1RVLGLQzSXDjioDZNnIlPl2uKewdZ0qQVf0vlaDvMp0PfeNl4yusGQvpXx3AiBEuTEj272rs86JHUurzoaIqj62LCqJIkBoT2vBi5OGKfdci0iB1jPo3I5YJ/r4cMwQOV5SfGdMMRlMTpTKCyjapSyd4EehCXHEcH6fKn7n/UX/0bWq0paxgwedr2vD2MsR2rxn+udyn55JzhZ7xtxQPmqslBKPPIuhJSOAgFlwfdKKn4hioQ==;dxf/Z5/uojMVwB90kyUVCA=="
 ---
 

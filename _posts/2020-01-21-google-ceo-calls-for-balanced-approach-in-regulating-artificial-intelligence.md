@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
-publishedDateTime: 2020-01-20T10:53:00Z
-sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
-ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
+excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
+publishedDateTime: 2020-01-21T01:58:00Z
+sourceUrl: https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html
+ampUrl: https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp
+cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp
 type: article
-quality: 59
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI
-  - Facebook AI
-
-images:
-  - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
-    width: 1280
-    height: 720
-    title: "Google CEO calls for regulation of artificial intelligence"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -200,6 +193,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
         width: 1024
         height: 576
+  - title: "Google CEO calls for regulation of artificial intelligence"
+    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
+    publishedDateTime: 2020-01-20T10:53:00Z
+    sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
+    ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
+        width: 1280
+        height: 720
   - title: "AI must be regulated, Google boss says"
     excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
     publishedDateTime: 2020-01-20T11:48:00Z
@@ -325,17 +333,6 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
-  - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
-    excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
-    publishedDateTime: 2020-01-21T01:58:00Z
-    sourceUrl: https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html
-    ampUrl: https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp
-    cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 33
   - title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
     excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
     publishedDateTime: 2020-01-21T01:54:00Z
@@ -348,6 +345,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "WSz5kAYKy+C7Cfftz8H4Ky7671zr/cHwCDnD2uhLGmY1Gd5hBUyEBKx8G4qFVSHW+oyoboohKA23XpUOmNwDGnp79wZD9UDESxbhBYEhGGQAdsy7/bl3xmgz/G9Ml0pFzuxL41m88U2ARLB5FgZrXielUsY7GDmcbaexHt9gU5vtlqNEgS1Hac39TTtNs5egMu1kOQ13RFoItstsXuxoFO9et043XLP0G064zPGcL8tCWwieJDa09Rfkpt9V+KXGK4KKyV8ejam2rMV89Po6IW1UOdIvEV6WB+i4FdG/E7ZGibgr5BCAzpBHsZYptCe3ouZb/qybD7K5v8wUj1zD2JY45Hp+wcCT6xXCrVg6WtgIGUFkVtH40/OpzbEC8uRAQVXepVBQMF9Wyz636FceQf6gtmbEROIXeIogOAnPq2DYl+7m0nKHWhp21F2AY9e78v8b9Y49z1+XLrXkgVZGLg==;Tjd0ylq3i9rupLd4HsTW5A=="
+secured: "Y790leWKnEBK/9IbVM+ieBGRx7SGoop+oSm3rlgtZmlWuPlqZy7zeUpKqNdPp9AHqFjhWOBHtBXVvZnjwfs8YITWqiceJPqqfPe3KCUlbSaSaw6N+ZUIAY8MNd2nj+h5eh0G65jPDQhMV5iiEQSmA+4w+ClTD8KnM5pfZeJGHB/VV3LxY/KsR0PnVe6A3KeJv8AFNFAiUjwsTe2qhnpiETMQlcxiDIpUXk5jIMrX3d+eIwwOkXV6l2wjw4xMtpBWay2ItLnw2XAiZ+beySLfwJ0f1dO2JU3CfWqzJtz+TPE=;lxmFvnnvFQ0K2T29itY7ag=="
 ---
 
