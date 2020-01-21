@@ -298,6 +298,17 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 37
+  - title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
+    excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
+    publishedDateTime: 2020-01-21T01:54:00Z
+    sourceUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/
+    ampUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 21
 
 secured: "f7la3g551NAbPPYkVxaNHrZCfMwqN80DbDuEo7HMyN38OzgjRCOLNLIO/+guD1QEj/Sk7eLaxDVNo0YBG6wdcVWaVIuOGVA5QqUR7P3tLZ6PcUNqMsgmy7pLodvYBF0co1M7MdSlDvlc7qEKhlxnSFG6XljEZvSNHWTKizlCpgLsD8ZgWlOkchSRse3x2pPCzhYNcSmSgsidtRtBGV/0P8SeqzaKdwOZJ+RpMLcq0hCz0oFFaNCXxPm+NGfLZtw129sJxsRsVTDYF+c2fVhE7OS/9U+xa7Btjjq1P6DVqpBAVtCI4lzj99pE7D7dwTSvZocXK5nAADbJihd1ZfmegDIsHyygJ04j2HIZ+qsyaXIoES9AWATpWiCezS0mXW36ZH0u8VFdEHQeiJ0iaMQmixvbw1sxu81VuLemLGqBvaOJP02Zs2M/1qUIT4wNWHbDkwTzmk+OW/Qb8NVVRzx+Dw==;0yx01BmUggiX+53OQBMETg=="
 ---

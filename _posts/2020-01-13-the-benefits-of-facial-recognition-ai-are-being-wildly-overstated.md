@@ -118,6 +118,21 @@ related:
       - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
         width: 800
         height: 560
+  - title: "We’re Banning Facial Recognition. We’re Missing the Point."
+    excerpt: "The whole point of modern surveillance is to treat people differently, and facial recognition technologies are only a small part of that."
+    publishedDateTime: 2020-01-20T18:15:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
+    ampUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg
+        width: 1050
+        height: 550
   - title: "From Washington state to Washington DC, lawmakers rush to regulate facial recognition"
     excerpt: "Amid the start of an impeachment trial; talk of mounting hostility with Iran; new trade deals with China, Canada, and Mexico; and the final presidential debate before the start of the Democratic presidential primary season, you might’ve missed it, but it was also a momentous week for facial recognition regulation. A bipartisan group in ..."
     publishedDateTime: 2020-01-19T21:09:00Z

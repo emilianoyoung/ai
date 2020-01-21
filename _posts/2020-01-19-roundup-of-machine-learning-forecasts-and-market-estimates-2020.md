@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/
 type: article
 quality: 91
-heat: 142
+heat: 143
 published: true
 
 provider:
@@ -93,6 +93,6 @@ related:
       domain: openpr.com
     quality: 18
 
-secured: "r/dSIRXguDcfFb6ZEyNC1f3I5CoDehbYaEozQT0sCxUI/Pscpsk7nFEjmJlGImRkzxfcW7HuA8aTZq9K73+DxB3JSgB+X6LLnj9bEEvnjC1p6kPxOMM5YPmGCLUGsTp6Z/afASpx7ACaIjdNv0N39vDsuOQYA6XXP2Up7JuukaSXscyHA/BFJrnEmESlVhYMHgabxrI42Th0x8/tHQw04bTMPUwn5Caz/gZrdYIxYDKVVOwU1lvxRusEUL5KcB3ZOjRVTSNkvlhtnzoGx0wgj3zdZoGiOwiGCwUv5hpfU5KDKUUn0TVSkIcmB3cBbsV+BjsWp3qvNzhhyRfRTVDZS1FlTp8+Cc+UAoypWwc7fGnkVVGdfzMzIN5muIe4gAFBEBhkzA6S+cS5HlGCoFhIgxVwYpOuRPiRDyeSX4wJZNaBB5HxAT+4IFXXjftKqxay8oC4D5tSBANJP2Qr36KSVA==;91fH+CocAz154pb146gl5Q=="
+secured: "7ENmep5hM7OO04yXGKXTUGLmQgvmyZMlVfx6/d04ghZp16+AH1d/YARPnDBGRBjnzHliGdkmAlh97IfQfy96zWow7aLbucd/MZP6sNZDx8AaYXcOCpSYe1FP/48coIevaGC84uhVz4kn/SYqwaC6u2yamWymmQFj6gCK6dBxu7O8Kk+mOAJLokhKakuB/Y2xvLcJK01eOJQZE0q3SABVuggubHuB/SItma58A48xxRE9i/CySg7mHeWnbxAaOtj4upYAc4RpqJbdJfudk664mCl3QjuFDlohvDCsf785kuNudFUpv8fVyn8PT4Gm2tSc9YA3WhBRukuCwCm+SRfp/a9XjTJLE1MiXGdBmZR5bIFh+m760GTZcMAeLKB0lUr8RrE97yz+HpRFvx+fWfD3WrL7Ix+CtR18bVdDhMG4xtO+nKUf4SRQuVYT5uCVwEia8rtux+lW8GUSOhyBunr1Gw==;9KumvkfvtoAtSME6fUaLyg=="
 ---
 

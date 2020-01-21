@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Google and Microsoft leaders at odds over facial recognition ban"
-excerpt: "The EU's proposal for a temporary ban on facial recognition technology has won backing from Alphabet CEO Sundar Pichai but got a cool response from Microsoft president Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin to using a meat ..."
-publishedDateTime: 2020-01-20T22:50:00Z
-sourceUrl: https://www.arnnet.com.au/article/670382/google-microsoft-leaders-odds-over-facial-recognition-ban/
+title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
+excerpt: "Alphabet and Google CEO Sundar Pichai recently came out in support of a European Union proposal for instating a temporary ban on facial-recognition technology until officials beef up privacy regulations. “I think it is important that governments and regulations tackle it sooner rather than later and give a framework for it,” he said Monday ..."
+publishedDateTime: 2020-01-21T01:35:00Z
+sourceUrl: https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655
+ampUrl: https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp
+cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp
 type: article
-quality: 39
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: /assets/images/organizations/gizmodo.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
+  - url: https://i.kinja-img.com/gawker-media/image/upload/s--CZyG925X--/c_scale,f_auto,fl_progressive,q_80,w_800/rkvdxghinp3toasyjnon.jpg
     width: 800
-    height: 500
-    title: "Google and Microsoft leaders at odds over facial recognition ban"
+    height: 533
+    title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
 
 related:
   - title: "EU mulls 5-year ban on facial recognition tech in public areas"
@@ -129,21 +135,6 @@ related:
       - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
         width: 1200
         height: 630
-  - title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
-    excerpt: "Alphabet and Google CEO Sundar Pichai recently came out in support of a European Union proposal for instating a temporary ban on facial-recognition technology until officials beef up privacy regulations. “I think it is important that governments and regulations tackle it sooner rather than later and give a framework for it,” he said Monday ..."
-    publishedDateTime: 2020-01-21T01:35:00Z
-    sourceUrl: https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655
-    ampUrl: https://gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp
-    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabet-ceo-sides-with-eu-on-facial-recognition-tech-m-1841119655/amp
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 62
-    images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/s--CZyG925X--/c_scale,f_auto,fl_progressive,q_80,w_800/rkvdxghinp3toasyjnon.jpg
-        width: 800
-        height: 533
   - title: "Cambridge becomes 4th Mass. community to ban face recognition tech"
     excerpt: "The Cambridge facial tech ban doesn’t prevent corporations or institutions - such as Harvard or MIT - from conducting research on face recognition or even monitoring people coming to their buildings."
     publishedDateTime: 2020-01-14T19:49:00Z
@@ -359,6 +350,19 @@ related:
       - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
         width: 750
         height: 450
+  - title: "Google and Microsoft leaders at odds over facial recognition ban"
+    excerpt: "The EU's proposal for a temporary ban on facial recognition technology has won backing from Alphabet CEO Sundar Pichai but got a cool response from Microsoft president Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was akin to using a meat ..."
+    publishedDateTime: 2020-01-20T22:50:00Z
+    sourceUrl: https://www.arnnet.com.au/article/670382/google-microsoft-leaders-odds-over-facial-recognition-ban/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
+        width: 800
+        height: 500
   - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
     excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
     publishedDateTime: 2020-01-20T19:43:00Z
@@ -410,6 +414,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "1mmrqbsqUDWTr6z3qSSpIz++WJEvyG/izjp/hU0UrWtTEcmCGb0KhCXU/mKk+xbCSKAPcAc5SUCF21/ynI7EV0vB15WrJ0cMCcxRT9j1L/etrTVdecGqs+L+5j/jJfoGY0JW1S9jAyhhDvvFlvTeLE7ybS0Z6Dli7QzNyYAJPrKvSvxn/ORkKhuiozuxEvuI9T7ts/L1eHH7Y4MFun49tHEegy4GL1UxV84vhyc18z/+pxJPJ+7UbFgXk2OuLa8g9cM2/7qNdPIMkmWgnxms88sKOM5FWJxvyVPUKEDeJIad9Vb8ZzGx0r0+JT83X6gJ222/Ta1afhdxp2a9jR0RETOU8uncyvbwOdf7DNM78Ea38shqusKLMCpdYAtyrLw7UPMslP8Qx34Xx5ttBy7ybxbo0JFxX6cMiEI9PBJOyglNCISCnmOaIsrsbXwfUr423PpGMo2G5F9sPiiphhLO/A==;OLP2uATp9FKRg0IqdXt8FQ=="
+secured: "Eap1MwkH0GMFKJYYNKSzCte+51aFlvkH7h385XaL1j5IxhLO0oYsqhIQiJ5HhJIkthHUvietiaAAXEdo3gqsc9z9JMS5nTUsgqCBFTZ/Wp0XADkDoRhR/cwEWAazLAnPX1lb9tEdDdV4H5j4DGKxkCUV+/eIFiHzTQzKGQRAJ514dGvmXEIR1+Qp2h7rH54yhHxEs6frsGzl63hhtgam2DGcMM41GON92fObBdw8iwtHw1bmtcok2cC87LHCCYbNveWn9aYUiq9B2EGCv0HCkcUwhtNsVfGaDamw0MT7h/I=;pl8jvbi196U800sqdP+QVw=="
 ---
 

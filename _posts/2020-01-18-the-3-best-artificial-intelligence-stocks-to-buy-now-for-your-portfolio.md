@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-inte
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 466
     title: "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio"
 
-secured: "QM0VU2cL3PD9B/81uIe4Kv452WF38rz5Q+vnpO7yNengHqwMayDuZUbPVjy3Qb+3oLjePtosNhhwTW9MBpx8hjGAftstckARW/k9O33MDpfQSUZFZBo02ugdAtfrrgpL9arsUbGPCQkwwqK/Oy7ErmS8F8tAT8r+nQAsk64xMl6akasN+XsBm5/5Qw3FkZSUFDVm5tobcrq8rcSs9fNqUtFg82wC6v8lppen1ySoIJWrmNBpQbKbFrzO3wvqwoYcGMk8ur6v5s2/24T6KiZleoks4GoF089D36zD01Gn61KUcvRPFUDCabbG+mq041TH0glPuDs88g1QDef/5aq7+20TVBHzzKr+Ithp4CTYIjAVXH/liX1ABF3lxOltgGYXdQ1E5xxMgMYOiWweyI9wQKXPeAKsix9SEqx+28qOH206OPUoIjX6S6OtecFvSkjeI0OWIS1YJQeOsAxE1WY3tg==;TS09Vpb+SqIbrwnGtAE31w=="
+secured: "4+FH75Bh//jPhrl08em0HOeP8bfO+OOqkGXWGeHEoGYn6OTteZgSWDvMBZgLWHqYhWsMPfoiesDbKbnPVR4p6BKc2+q11Za/XHDtmHRvl9zdHCwiHUlYpshWBhRwE/l9kRUwpBwd0YzAEAgS0ay8DXjwov6bmednqcn7JeMM2F7deBOplURGoxB7WDQ6cygHn7fFE8R77hxrU8Ff1Xt3vkLdv25CxiuBSEdrus2H8BW0LvvZKUVnXKsIYDoBHW2ts/SSYi7ftlhhZlh8LdnjEY+iP+VHRpRL7O3ALTQTIDMfaiYXq9tBOXh4YkuNF5pES/cxsIUED8CKP+gRC3xtPhzLrbpVNlOi2l+nJMyA2qPVPqgr9ThQFiHdSZUdZgeW+tQazm1njukdC+opOlXTDwPDee9XkSOPuoJ7yT+Z66IuDVZy1wIPWU8I5uBk7q1PLXJgtn9gkxkmcYASgZbdIQ==;C+evX4UKNRY193I8v1nXjg=="
 ---
 

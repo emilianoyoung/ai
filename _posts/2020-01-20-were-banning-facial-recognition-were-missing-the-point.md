@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Researchers developing facial recognition wearable for emergency service workers"
-excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
-publishedDateTime: 2020-01-16T21:22:00Z
-sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
+title: "We’re Banning Facial Recognition. We’re Missing the Point."
+excerpt: "The whole point of modern surveillance is to treat people differently, and facial recognition technologies are only a small part of that."
+publishedDateTime: 2020-01-20T18:15:00Z
+sourceUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
+ampUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
+cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
 type: article
-quality: 34
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
-    width: 300
-    height: 250
-    title: "Researchers developing facial recognition wearable for emergency service workers"
+  - url: https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg
+    width: 1050
+    height: 550
+    title: "We’re Banning Facial Recognition. We’re Missing the Point."
 
 related:
   - title: "Facial recognition scanners are coming to PHL next week"
@@ -114,21 +120,6 @@ related:
       - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
         width: 800
         height: 560
-  - title: "We’re Banning Facial Recognition. We’re Missing the Point."
-    excerpt: "The whole point of modern surveillance is to treat people differently, and facial recognition technologies are only a small part of that."
-    publishedDateTime: 2020-01-20T18:15:00Z
-    sourceUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
-    ampUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg
-        width: 1050
-        height: 550
   - title: "The benefits of facial recognition AI are being wildly overstated"
     excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
     publishedDateTime: 2020-01-13T20:44:00Z
@@ -474,6 +465,19 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/15/NGface20200115/open-graph.jpg
         width: 400
         height: 400
+  - title: "Researchers developing facial recognition wearable for emergency service workers"
+    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
+    publishedDateTime: 2020-01-16T21:22:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
+        width: 300
+        height: 250
   - title: "Springfield City Council moves to ban facial recognition; says systems are unproven, inaccurate"
     excerpt: "Springfield police don’t use facial recognition programs. But tech companies including Amazon with its Rekognition system, are pitching the systems to police agencies. Ramos cites an American Civil Liberties Union of Massachusetts study released earlier Monday that used photos of Boston Red Sox and Celtics players to demonstrate limitations ..."
     publishedDateTime: 2020-01-14T01:27:00Z
@@ -499,6 +503,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "K5od3H7DCcYbGbGaGlmwV0h6l+Hms4XjgSVACkAgP/KNRlOkBZJUs0Iyu+JDXahz12G21aC0FsX5iJmCQsfUjP8F/V58bXS8A4rHdGkj8nVAELHhaYARqJTNr5Tu0Y3oCJ92NViCuMwdsGv/cNlxctnAtv+csUH5B1rJ9e42re2j6CFSb3At9XQQkw2E1y34ADLVNJ8Hbxi43TCUHRZ124QFvjgQtSTMlyTfzxpyjaOAFwQCwXZkQOBFC/c1X/r0x6mymdv2DWS0NW+lcfGJj8BtfZlbWGIP8Q7mMkNZVsE=;wE+QUTd1KcjAIiRTmXIzSw=="
+secured: "199iV5JOsGl9wRsq0gEccuyT/CPaUFxD31iYDxS+jpiDnxB9wU3tH85ULfl09K4tEsdU+N1InB1NqunfQj6gVsgBQ8qbiroNc7kH17cDMkbxa8K15jod0Ji+MU0/Ius2XUlUk7lAkVX+Ui0z23DdXum++EpXIPhZEHmLWtsYtDtbXWq67scX7DpkLjXm/VNFuBYmBkWH2yzplnKRS6eCHu0f8NPOwxaQB6vv5r1jVB7l0gM8+sDr3Xc++AImGI58qFNfyGGoERJAqn0sNXHlF7BBcZowect+3b6TiHAcENk=;o8AHOjo0h+zGGuJ3hW5ZAw=="
 ---
 

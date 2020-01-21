@@ -298,7 +298,18 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
+  - title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
+    excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
+    publishedDateTime: 2020-01-21T01:54:00Z
+    sourceUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/
+    ampUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 21
 
-secured: "Ql0xJEwGuSFHVcFDPQsSvVvaucJKhTPc3JHof5vg9q7BZ9FHHMEbSO+7ivO1Prdjm+FOJnQu5TCAp5YlurhbJlPAt2LUoCPPQsesXgks9kmop2+7rH/Rq65mk4B6lSV7EjsEJ662mVSwkHsZT9blHdAJ69nj74NQ7aIUgs6YKCVcVMChGv5mrVLqUkXqQKwJaC8YrDetdCEZSa/8UGXWYb6ET/qtbLWLNxaa37ab+UAKv1JZ1vXGXQlhEwBnn3JdvtfvA2wopwPFjzyTypDk86HEWH0Ce4nE4qaVNrluswDgsZkqfqqx9wBjFtHU7GxgoIEV49Xsm7B+4+cWEqd2shz5t4nXcm+ejBhgmZ5s4Amp5604zscl64WEnuamlIdBXalxG9ws/F3g1i9vnbf4V/MjhmE+JBT0eQLJ9ZipSDx3OsWINMlk6Kty3AhoDxM0nBmkWJ9zaShihmNrSK5Q4Q==;yTux8evGTou/FR6mNGYG/g=="
+secured: "k23FyDHib342DsJoK5NCgm2EnK+AGIsDhG+8MsoC+hI0k0qtoFMB/5+gELyAhDJuN5CXSMdvP/HP8xQi56TwQqD6KwwTyGbsIeH5gnnOo32k/XrEe2DolL/r/8kUvSqCl3mpkSnO+EUqgIjE+YFaiR2V+mUrN1wKd8Ee94+JOHujVJCWifzqF+xeBGCuiajYOxNznlJsQDiEydJ3eAcR3vYJrAu+o/S3cH5XRZpCCCOqm29tykbTKKRNZ+cnSJb7MKm3nTcq1WSzpW7oMknjNnNqORyFlwelm5Ipk3f4EOH49p7l9QV/GNwq4Mx1UjIBni/Tr+FVrnqSCYc8jdgqhV7OREVkR5DzpIZSpf6tIz0hZ3dlCevYeTK1IwZmivP1jTXxn+dxRdOoE/2fLzyYOjWnEKGHNxWQ1wO2oWOEbYI4giaZT4upbtQRe41Jqgmv9MRxgoVAATTHgqcxqP+faA==;6ZsJjB4siraNOpD/NjOXXw=="
 ---
 

@@ -118,6 +118,21 @@ related:
       - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
         width: 800
         height: 560
+  - title: "We’re Banning Facial Recognition. We’re Missing the Point."
+    excerpt: "The whole point of modern surveillance is to treat people differently, and facial recognition technologies are only a small part of that."
+    publishedDateTime: 2020-01-20T18:15:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
+    ampUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg
+        width: 1050
+        height: 550
   - title: "The benefits of facial recognition AI are being wildly overstated"
     excerpt: "Facial recognition technology has run amok across the globe. In the US it continues to perpetuate at an alarming rate despite bipartisan push-back from politicians and several geographical bans. Even China’s government has begun to question whether there’s enough benefit to the use of ubiquitous surveillance tech to justify the utter ..."
     publishedDateTime: 2020-01-13T20:44:00Z

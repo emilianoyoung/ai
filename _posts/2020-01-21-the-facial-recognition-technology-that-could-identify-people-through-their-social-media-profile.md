@@ -1,29 +1,29 @@
 ---
 category: news
-title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
-excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
-publishedDateTime: 2020-01-19T23:18:00Z
-sourceUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1
-ampUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1/amp
-cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp
+title: "The facial recognition technology that could identify people through their social media profile"
+excerpt: "New facial recognition technology created by a \"secretive\" company has been supplied to law enforcement agencies to help identify unknown people through their social media images, according to a report. Clearview AI co-founder Hoan Ton-That's invention has ripped billions of images from Facebook and other sites. The app allows people to take ..."
+publishedDateTime: 2020-01-21T01:29:00Z
+sourceUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.html
+ampUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
+cdnAmpUrl: https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
 type: article
-quality: 7
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Business Insider Australia
-  domain: businessinsider.com.au
+  name: Newshub
+  domain: newshub.co.nz
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg
-    width: 800
-    height: 462
-    title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
+  - url: https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg
+    width: 768
+    height: 438
+    title: "The facial recognition technology that could identify people through their social media profile"
 
 related:
   - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
@@ -41,21 +41,6 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F18%252F70%252F2b1b4ace8b224d6384a8c1f7260572fc.e70ff.jpg%252F1200x630.jpg?signature=aZyPGadLiymI3dJjpvv7OE2nG20=
         width: 1200
         height: 630
-  - title: "The facial recognition technology that could identify people through their social media profile"
-    excerpt: "New facial recognition technology created by a \"secretive\" company has been supplied to law enforcement agencies to help identify unknown people through their social media images, according to a report. Clearview AI co-founder Hoan Ton-That's invention has ripped billions of images from Facebook and other sites. The app allows people to take ..."
-    publishedDateTime: 2020-01-21T01:29:00Z
-    sourceUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.html
-    ampUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
-    cdnAmpUrl: https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 47
-    images:
-      - url: https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg
-        width: 768
-        height: 438
   - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
     excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
     publishedDateTime: 2020-01-19T01:10:00Z
@@ -86,7 +71,22 @@ related:
       - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/20/bd31a271-ed90-49ee-b7f5-d2b30bce6220-shutterstock-1108927796.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
         width: 1200
         height: 630
+  - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
+    excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
+    publishedDateTime: 2020-01-19T23:18:00Z
+    sourceUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1
+    ampUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1/amp
+    cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp
+    type: article
+    provider:
+      name: Business Insider Australia
+      domain: businessinsider.com.au
+    quality: 7
+    images:
+      - url: https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg
+        width: 800
+        height: 462
 
-secured: "U14k3C3KpYozq+hvtntqQZOdjJUG+q76xWDiLAoSHClEt0CcUHPWAZzpr8gKVkd+9rGwVCzf4JrEajoWKSXnEBaYagOAQ+9dypqxn1ZwHmDjW2isOF2LNYJuu24HxRRVksdo18Q1z2vEG1Y65IAi+LByxL+mhFuyw1MALj9f/SccdluEZNSuM5to9EiBR3decmAqXxRugHILajhrqJzSEQciO1P8DfaL8O62W50ykPMoKo20MLWxyEVxwakNYrEZsQlrdYY5HavLB80p7AlJbg/T8l6h/7P7d6kYTotrfIQ=;BxT0Mmf3uOWmPfc8WkVbsA=="
+secured: "jQWyzOF/c+3iFF6O5DAedFOOm2X96+KwnMCZ+Mj8p4Oqu92dsOCq4c0cr/eviOTQLn4AMAGJ2vysdnSoN9E35PNDOsWD3fo9J7tWWS7YzmSjJxv+RJ0qsMGbfg/pfGTaeInae4uT92obMdsamkl3N/kEPHaAHgKL+mzugBhQZySbciP5gmAvmBi8OCc8eCtFafaiVY9YjCm1hG//Sv+E/cW//IahsF+g2qYDR8ifGgAUDJzeF6OdEI7Z+8PEuN5oMlO6eZsJWkQ7ydpeo3Xai7GR2pYwrqMRG/ZtmkjI7Z0=;Rn40oSDooJVwoOIXmdm4mg=="
 ---
 

@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Google CEO wants co-ordinated rules on artificial intelligence"
-excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI), calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said that existing rules like Europe’s privacy legislation, known as ..."
-publishedDateTime: 2020-01-20T14:21:00Z
-sourceUrl: https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
-ampUrl: https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
-cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
+title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
+excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
+publishedDateTime: 2020-01-21T01:54:00Z
+sourceUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/
+ampUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
+cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
 type: article
-quality: 61
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: businesslive.co.za
-  domain: businesslive.co.za
+  name: pymnts.com
+  domain: pymnts.com
 
 topics:
   - AI
-  - AI in Autos
-  - AI in Healthcare
-
-images:
-  - url: https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000
-    width: 1000
-    height: 652
-    title: "Google CEO wants co-ordinated rules on artificial intelligence"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -156,6 +148,21 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2018/12/Google-CEO-Congress.jpg?w=1024&h=683
         width: 1024
         height: 682
+  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
+    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI), calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said that existing rules like Europe’s privacy legislation, known as ..."
+    publishedDateTime: 2020-01-20T14:21:00Z
+    sourceUrl: https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
+    ampUrl: https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
+    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 61
+    images:
+      - url: https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000
+        width: 1000
+        height: 652
   - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
     excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
     publishedDateTime: 2020-01-20T12:36:00Z
@@ -300,18 +307,7 @@ related:
       - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
         width: 1920
         height: 1080
-  - title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
-    excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
-    publishedDateTime: 2020-01-21T01:54:00Z
-    sourceUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/
-    ampUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 21
 
-secured: "5VFKJSx86vKufJn5Jo5R+trKrZSEZ3yFa2GH8MnxsBZHxcKbMZ037N97Ar5cGL/aQ1DwOQkhokY+6T09lz6MYEXH1RcNilRVHXViitGszlGMVzZQIpBooa1lrmhrgBIqjYIfWj8OcgMWZzGNYuk7GlQaxbWHgTJdzGK5vyKjDta1HNVnb5ua0Q/S2Eccy9xllTqi92XGiuCnuWuRMrIgqFLMnQbADn3yDyjpzRReP1b8iUB3/Yaglyte8Zxhs5TVaWeBLtlOnPgt7OXL3addu7wwlGQyy+Qyp132dumT/r+EhoBR1/vGvNakU9irGYgh6dfCpgtMwSCFLEclOjGnqUy+Pfun74L6Of/ns4IwaaA/g6XZRDjn2+ruHByflS8kS7SnEbFpe+x+Guz2eGsSb4CqM4zgPbI9u4Soi7J3d5o2hQwU+yqju5ftpwCDC1CnVYHI8vW9wSDziR3JWSDZ5Q==;tDZzxh+sJ/u99c/+mgQpdA=="
+secured: "xdonM4zt40WwAoTiEq0udV6tgCwkTCoUJsuBIpRSXKPCcYHkdbNyFruhEGpIhHEMRMXC5Hb698zV4aM/9EcmnqwX683HPvAW+Xp5eNVbEzvCpuUT2oQ1SaRy4f8kfKGNNs1SjZNGFl55E5vQOcF8WwSF495fRgFw0T3deiMCbaaQAKrpGfcrSR3FmXnc5+PGzRkUKmo+4Ir6yle55AtpXPcvHVhnBjS1diPRz7u2yqOx4xu4gzGJH4gPtIErPW7LhJZNVzFaSRdD9vJBmgMKh2p6pN5KOMJRd/1S0wxJab4=;5JuMzoGQKO7dbB8OmxCQZQ=="
 ---
 
