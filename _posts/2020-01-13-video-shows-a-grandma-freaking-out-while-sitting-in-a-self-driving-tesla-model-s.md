@@ -252,6 +252,19 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 24
+  - title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
+    excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
+    publishedDateTime: 2020-01-21T09:25:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/cruise-cto-says-safety-reporting-for-self-driving-cars-is-broken/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg
+        width: 1200
+        height: 628
 
 secured: "omJWhxJsnIbeNAlezxMripwmHFI98C5tnMHYRglgsnZqkSGIG2uCXxVr/rgUb41qntZiEguOfxWrRat8rCyQNVu+GsgWrbiC/BL7qZX0gsIclXDqcLnS8eIa7CngJURCbb370/X5qr4sww1mn4Ixj3qPiJvmh/YzL4p8yqg/egG0G2z3VL88msc1FlI/5b3xhprdNgjFaBYmyxKR8AaJudqxDOAnoPE+LyNeufBzEEYOghD4Mmy6TlJ7kDlhF/elT2lyCm2GXL9s2JzbvWGpqiNyrFahkEc1Y9+h/ADQQfDHS3reV47CSFTYp6FuRxLyEFQLmkRySfUMLe7yF3YQDGg8qPZW/AqC3S+j/DAFYa2F5dWLKDdieaoSNGF35KtmOTrso5gnysM2QNRuQmsc3IXJVSS1kzrlH5VZV4279ZmN5Q9omPBYlm9qyhgcHTYkfZ0R6a7WnkgJZ3WBICkJlw==;EcvilcAzfubThKWkOHmd4A=="
 ---

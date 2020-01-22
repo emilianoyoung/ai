@@ -1,35 +1,44 @@
 ---
 category: news
-title: "We’re blowing it with self-driving car safety reporting, Cruise says"
-excerpt: "Next month, California’s Department of Motor Vehicles will release the latest batch of reports from companies testing self-driving vehicles in the state. But the reports offer, at best, a flawed glimpse into the slow and often opaque process of testing autonomous vehicles on public roads, says Kyle Vogt, co-founder and CTO of GM-based Cruise."
-publishedDateTime: 2020-01-17T18:01:00Z
-sourceUrl: https://www.theverge.com/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
-ampUrl: https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
+title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
+excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
+publishedDateTime: 2020-01-21T09:25:00Z
+sourceUrl: https://www.gizmodo.com.au/2020/01/cruise-cto-says-safety-reporting-for-self-driving-cars-is-broken/
 type: article
-quality: 174
-heat: 344
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://cdn.vox-cdn.com/thumbor/zDwZYvo4k1HcO2tTSho5Vwl76h0=/0x0:2559x1664/1400x933/filters:focal(1076x628:1484x1036):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66122889/1189070708.jpg.0.jpg
-    width: 1400
-    height: 933
-    title: "We’re blowing it with self-driving car safety reporting, Cruise says"
+  - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg
+    width: 1200
+    height: 628
+    title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
 
 related:
+  - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
+    excerpt: "Next month, California’s Department of Motor Vehicles will release the latest batch of reports from companies testing self-driving vehicles in the state. But the reports offer, at best, a flawed glimpse into the slow and often opaque process of testing autonomous vehicles on public roads, says Kyle Vogt, co-founder and CTO of GM-based Cruise."
+    publishedDateTime: 2020-01-17T18:01:00Z
+    sourceUrl: https://www.theverge.com/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 174
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/zDwZYvo4k1HcO2tTSho5Vwl76h0=/0x0:2559x1664/1400x933/filters:focal(1076x628:1484x1036):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66122889/1189070708.jpg.0.jpg
+        width: 1400
+        height: 933
   - title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
     excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
     publishedDateTime: 2020-01-11T16:07:00Z
@@ -256,20 +265,7 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 24
-  - title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
-    excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
-    publishedDateTime: 2020-01-21T09:25:00Z
-    sourceUrl: https://www.gizmodo.com.au/2020/01/cruise-cto-says-safety-reporting-for-self-driving-cars-is-broken/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg
-        width: 1200
-        height: 628
 
-secured: "S6IuEk9Cjpp6fa+nrVsyYbB3y1DIoXjFMh/3BCYGHzKKKzKlcYGsN34XhCKhV+R7Xm5MR4jh+5qIrHXzjpGpKYyjazfgvIpWGYGvrY5JQA0WmFbz/NwlbERwlk1JzjV9i0Kg9/OTOFakey26U3nYFi3E24XfxZNfHrYb9GOd4KmPlDjhB5ZQ6vShTGXdefecBfbgmGZRVn0Ko905x48H/p8mDf1cX3VF6cC5Pq3/FO7aCkl2dQqcB9uU5tUXV4ZtWlXbZD8d+UXUi1gc96j8NhOu34iqmrw+AN/Lb7sU8ISjtcQmAnNnDSrAvIvsyvH+micWVrU7dFl3kfnscA91ed8rk2C/qBGjtVMkof1grqZ+QAyXRrYINNxWDNog2pY5EXbizRjzSZs0QSFxCww8rt9PIVSd5xg7zMYrg6oYKkKMhDXsSeS6SC768pZ/89/IT5hnazCSVA18fNfaSdEg6JiHKchrjrQkau2xJ4o0e/w=;/mz19S6l0mej13rUK1SuSQ=="
+secured: "2f+2sxf/s6JoKEgsGa12TspiI3SIXhzG5ZmH1jma0akj1tPv4r8/thnY7YWlnJi8aM1SP8mNLFw0z735YvLAGL2nqM5S945+mXrHh9zvYP/Z5lFv+i8sSjHAogOeoBIJESOucwLxUvUx3y484uPydsao1Lu25Ru56YaDzH3wLUSzAU6fI2QG3xc5xa7l/fbf2KZZOjXGCtVWYm3x2UnrLwrpBgOABYAhnT5k8aj3gVeB1UPSfn6pOO940MaCuwS4UH9h4UwSy48AW7B70bXiZM/xu6dP9tUDh7p/5vB22OA=;17hpumaD+VOn6W/Co1VUQA=="
 ---
 

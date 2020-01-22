@@ -275,6 +275,21 @@ related:
       - url: https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagevmji-1579496216280.jpg?fm=png&auto=format
         width: 800
         height: 400
+  - title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
+    excerpt: "A secretive facial recognition software used by hundreds of police forces is raising concerns after a New York Times investigation said it could \"end privacy as we know it.\" Clearview A.I. has extracted more than three billion photos from public web sites like Facebook, Instagram, employment sites and others, and used them to create a ..."
+    publishedDateTime: 2020-01-22T00:24:00Z
+    sourceUrl: https://www.cbc.ca/radio/thecurrent/the-current-for-jan-21-2020-1.5434328/the-end-of-anonymity-facial-recognition-app-used-by-police-raises-serious-concerns-say-privacy-advocates-1.5435278
+    ampUrl: https://www.cbc.ca/amp/1.5435278
+    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5435278
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 56
+    images:
+      - url: https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG
+        width: 620
+        height: 349
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z

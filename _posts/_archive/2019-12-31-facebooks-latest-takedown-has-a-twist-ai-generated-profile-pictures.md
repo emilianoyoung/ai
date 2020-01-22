@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Facebook's latest takedown has a twist -- AI-generated profile pictures"
-excerpt: "A joint report from AI research firm, Graphika, and the Atlantic Council's Digital Forensic Research Lab, a group established to research disinformation, outlined how they identified the artificially created faces from the accounts removed by Facebook."
+excerpt: "a group established to research disinformation, outlined how they identified the artificially created faces from the accounts removed by Facebook. Images generated using artificial intelligence ..."
 publishedDateTime: 2019-12-31T17:51:00Z
 sourceUrl: https://abcnews.go.com/US/facebooks-latest-takedown-twist-ai-generated-profile-pictures/story?id=67925292
 type: article
@@ -23,6 +23,6 @@ images:
     height: 558
     title: "Facebook's latest takedown has a twist -- AI-generated profile pictures"
 
-secured: "XnPw0P5A0PnuG5681gPdEa5hxZYkkbrZpO7J1Kt/VFqMG9S+OFGV5ytk4TjVUeoIBSRm69iLe5WH4srPpG5EwayHDjzd9Ujw43UIlwdMnNLlVc7L9S1MxmHC2AlnGAerqeHjrWpbhERjaaAx9IyJEnjkM7LK9x9/tgXaVXJa1CQ6B+Ba2t0Ms+R8eiG6CMa4MEJmzCnWTAhth3dj04McDKcnbC435YN1j6nWWtGtuimVCge9aBAAyABN/on02BIcemrmd3Nvg7CeGKnrBIbYL8FWI9sqi02hLIc1eFA65sU=;NMoCCHBivWwIOUY0vziV4Q=="
+secured: "PgiKN0FrX5cskFW0zz/t+srzle9m3sGD5OXxCQtpQ1N4QYBoAd5M5u+3StlxqWh/dPz2NSVYofmffIAZ2fnI8RE4bBPf3eF0j8N8s5wX5RHmU+NpdyBpf4betWIF+2rdrR5Mkh204bsCt7FsxudDF9jIWnjNa4AOmvLd95uDFawcNMUoQbvkJuXriCAZBLCKT2YO+nS8J6ljF9Ij3mzzW4RNr9QCYx5pQ/ZcdFUhIlxYHhANp/a9rgZ7GRppNM3sfbcj5ZVsokZOUnB9it4iFtrqYEaRh/Ct73rDb7XuxM4=;Pj8B/Yithz/wODlGCYFnDA=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
 excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
 publishedDateTime: 2020-01-08T10:21:00Z
-sourceUrl: https://edition.cnn.com/style/article/ces-toyota-big-smart-city/index.html
+sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
 ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 type: article
@@ -74,6 +74,6 @@ related:
         width: 1200
         height: 800
 
-secured: "tATzwk2zsIqO6ABAAel2aF2Rx+Ozj1Xg2YFpFhN+Q978AVOGnZ0DKgrNs1UX151fjLEJtr5JCttuwP7aBD2aykP/DNH6bNv1lz5pkye8yTsSTijbYrQitPDG15Hxzl9BiiXfJJBeb3PUKKugV9dBo5ST0sIa/Cs+v0rA4s4KNzkH4KsEP1j2yyAfL+DWQDZALj6QfL7MmdCJJL0T4GaN90H7J7Qup8dxl+vkPkZ30XmX5xlq3XQgB/f/tEDzZM9zi3z4MiRpNkXaYsPJZ/pEDyMj1WdJng/Bv6kkFr4+3v0VvIn9e7XuO1EJ6Xcx9CtnA3FKLFLAfzchTe/bgVBYAh7/rjEekNFY+LmcTxKL/RjEwvR5pIkjsZ3lZWCDGjuWNxhClkpZmfpUPZjhlplNljTqLVakqtlzoFtVTt7AHQLYCu298WvT59jkUzER0kTTFKRSmVkEm1YBcUTN1+qYFw==;9arTsHeRLJNPC7E8qC3v0w=="
+secured: "Uih2EejgufXzMtDw8i88zNgmxWklJk6FROVndglbBKkFZxWxDwEYSnN0cK/pZ3oo/tJMqjs8RY0YAUD7gUKClgXAO1Zrs0JC90kWNKGoipmtK1aXxSJK4zDz8159wWLaoxBI1d5iC3iaODcyQQGe+gXwmfVxlBoEnLor62dZJU6Y9DA16Zsk285TGOv3QXeONN7wpNT/ZF/wRI11vJRhuPLXuNcTJpYeu5vxAtxuUlBCxEOSL4O/yWF4bzLsq+0pMUGxdbU5Yn80EKG8H9dR/fGLxQyE6/GFAgGpSLwPwP8=;ko3noBtxH7WsT3T+XRCM4Q=="
 ---
 

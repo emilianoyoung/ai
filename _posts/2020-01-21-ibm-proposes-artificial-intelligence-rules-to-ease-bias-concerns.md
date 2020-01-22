@@ -30,6 +30,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 41
+  - title: "IBM proposes guidelines to battle AI bias"
+    excerpt: "Among the recommendations are strategies to ensure algorithms based on historically biased data such as zip codes and mortgage rates do not discriminate against any group, a call for companies to appoint chief AI ethics officers and a request that they keep records of the data fed into algorithms to maintain transparency in AI-led decisions."
+    publishedDateTime: 2020-01-21T20:13:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/ibm-proposes-guidelines-to-battle-ai-bias.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
+        width: 400
+        height: 300
 
 secured: "Oex9nzBNcbCRu4LumYlJX755IgITPzff6JE88LxboOXGVrjx3mMq342zgemjGEpaXUedsSaBIQLI321q1zFzUZt9QZfDBlyVPIEq4AsgF87q8cIVAH4xtI944ibFOg0/3J7S7n9wEJBbpUPfCta5W4oiNS3F0na9njIVIQeHe5wgYCOtZKfu8IaaXscEwfNeWa+DKCbWueLR7u5U8dfgT1nLgScfPkiGyk75qTz2qNYTnEeYFFXH7oKc2MNAGjzmttdQhpwW46GHGmQn1LGLS83tt/iG8WkPKhQYLciiT1UNA0gSX1fn41nhTgS8lhqcfRbOOvyCv0SbW85c0JWtToxnSdf8q7G8HFfKi5V2fAd5xRi8PcTI8pYbT3zQDjwPYX4fpvAexjPgvTvA5Y3hFb3pfknyOMA32MCIKoIku7LmYHOM5wYle6yhIccY35AaWX8afyQiL8vShRrZjxYFWA==;qETRWJfY1/cnDJQF/hcT3Q=="
 ---

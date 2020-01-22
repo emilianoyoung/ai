@@ -21,6 +21,19 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "IBM proposes guidelines to battle AI bias"
+    excerpt: "Among the recommendations are strategies to ensure algorithms based on historically biased data such as zip codes and mortgage rates do not discriminate against any group, a call for companies to appoint chief AI ethics officers and a request that they keep records of the data fed into algorithms to maintain transparency in AI-led decisions."
+    publishedDateTime: 2020-01-21T20:13:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/ibm-proposes-guidelines-to-battle-ai-bias.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
+        width: 400
+        height: 300
   - title: "IBM Proposes Artificial Intelligence Rules to Ease Bias Concerns"
     excerpt: "IBM called for rules aimed at eliminating bias in artificial intelligence to ease concerns that the technology relies on data ... “Then you will get more of a prescriptive, top-down regulation.” Fetch Robotics recently announced the addition of new capabilities for TagSurveyor, a robotic RFID solution providing complete visibility of ..."
     publishedDateTime: 2020-01-21T16:31:00Z

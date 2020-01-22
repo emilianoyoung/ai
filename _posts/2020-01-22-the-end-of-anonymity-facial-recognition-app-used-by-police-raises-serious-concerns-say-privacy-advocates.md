@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Las Vegas police use facial recognition to arrest assault suspect"
-excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
-publishedDateTime: 2020-01-19T17:04:00Z
-sourceUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/
-ampUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
-cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
+excerpt: "A secretive facial recognition software used by hundreds of police forces is raising concerns after a New York Times investigation said it could \"end privacy as we know it.\" Clearview A.I. has extracted more than three billion photos from public web sites like Facebook, Instagram, employment sites and others, and used them to create a ..."
+publishedDateTime: 2020-01-22T00:24:00Z
+sourceUrl: https://www.cbc.ca/radio/thecurrent/the-current-for-jan-21-2020-1.5434328/the-end-of-anonymity-facial-recognition-app-used-by-police-raises-serious-concerns-say-privacy-advocates-1.5435278
+ampUrl: https://www.cbc.ca/amp/1.5435278
+cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5435278
 type: article
-quality: 59
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Review-Journal
-  domain: reviewjournal.com
+  name: CBC.ca
+  domain: www.cbc.ca
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
-    width: 600
-    height: 400
-    title: "Las Vegas police use facial recognition to arrest assault suspect"
+  - url: https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG
+    width: 620
+    height: 349
+    title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
 
 related:
   - title: "Go read this NYT expose on a creepy new facial recognition database used by US police"
@@ -206,6 +206,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11DDE/production/_110528137_gettyimages-1139859279.jpg
         width: 1024
         height: 576
+  - title: "Las Vegas police use facial recognition to arrest assault suspect"
+    excerpt: "Las Vegas police used facial recognition technology to identify a man suspected of punching another at a car show in November, fracturing the victim’s skull, according to an arrest warrant. Ernesto Cortez, 38, was arrested Jan. 8 and charged with battery resulting in substantial bodily harm, court records show. The Metropolitan Police ..."
+    publishedDateTime: 2020-01-19T17:04:00Z
+    sourceUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/
+    ampUrl: https://www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/crime/las-vegas-police-use-facial-recognition-to-arrest-assault-suspect-1938801/amp/
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: https://www.reviewjournal.com/wp-content/uploads/2020/01/13262413_web1_ccdcweb.jpg?w=600
+        width: 600
+        height: 400
   - title: "How the police use facial recognition, and where it falls short"
     excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
     publishedDateTime: 2020-01-21T17:53:00Z
@@ -266,21 +281,6 @@ related:
       - url: https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagevmji-1579496216280.jpg?fm=png&auto=format
         width: 800
         height: 400
-  - title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
-    excerpt: "A secretive facial recognition software used by hundreds of police forces is raising concerns after a New York Times investigation said it could \"end privacy as we know it.\" Clearview A.I. has extracted more than three billion photos from public web sites like Facebook, Instagram, employment sites and others, and used them to create a ..."
-    publishedDateTime: 2020-01-22T00:24:00Z
-    sourceUrl: https://www.cbc.ca/radio/thecurrent/the-current-for-jan-21-2020-1.5434328/the-end-of-anonymity-facial-recognition-app-used-by-police-raises-serious-concerns-say-privacy-advocates-1.5435278
-    ampUrl: https://www.cbc.ca/amp/1.5435278
-    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5435278
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 56
-    images:
-      - url: https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG
-        width: 620
-        height: 349
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z
@@ -489,6 +489,6 @@ related:
         width: 800
         height: 462
 
-secured: "0U7L9MfYDfxCYQ2UPqUqK/JFRMh9hxdNIJUxz4Cqq40N0LOmRpc2uN6l/dPRyjgeqaVYal2cCOsNyUiIWsvs288G4N9a6m7Wb9A79gE7uhVUCrfqNkAKhQHry5yCZ3J3j2BbUwQIUdJ+KGkeq/Oip3tHuV79gVn1lfXd7wHmEpt7c5qVSAlM/GoLm6WhwRDHgtkLa6SRN/STCURP3Wpxhdu9xG/w5nCrTLNG/WrtpyZlKS0M478KwCK05enDWNGPkaLLn8f9yRMaApaxFG2rzEzPrKQROUwiwczYV0C5dFQ2io45IWPnJOLrfgAwFWgE/N4nd2OUbtLu440XZYAqQMo+KdApTakad0ku12zbamrdx/WGgBPLCp6Qwr/NtxTIp/AAqiI85yO9hKhL2TJOzuL/CffqRFwhjDALSUDUYCERtYGWy5WFnSkk5PT5Iql9fD+AtvdYxkelzv3d0FfrQg==;3yQCpRMGAI/t+jaOW81vAg=="
+secured: "4T9I01k7CxAoaeD0IcqAOf+o29RjsbDxnz7eXHFMqepIpRwfdKJkoVNMkPSMPZRfI2+4QbMzgkz05BOLrjmdM1SPSecmpP2Hz8Gh4UXxrKzF16VjZx7Xnyk5F7brAIH1JMqjkSvR0P1K8k1YIFIlejr3NlXfIA9Xwthp7uAsrxD+3QyzYhhTpNws1AHm4ExdS5hinz/qblxIPcMRLsCAxvUcI/fIi4BvEe4Yqx/A4oaEWXn5PSA696o612fOSE60HeHIyxC4m6pdno3I19DPXHmGb6B7q3zs1VD63zVeOMA=;E7GlYipvgt+HJSSWNoxU7w=="
 ---
 

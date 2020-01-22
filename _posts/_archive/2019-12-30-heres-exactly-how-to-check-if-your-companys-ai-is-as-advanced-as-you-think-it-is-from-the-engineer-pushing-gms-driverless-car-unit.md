@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
-excerpt: "Artificial intelligence holds the promise to revamp how much of corporate America operates, but one problem can be determining whether early initiatives are on the right track. For Hussein Mehanna ..."
+excerpt: "Artificial intelligence holds the promise to revamp how much of corporate America operates, but one problem can be determining whether early initiatives are on the right track. For Hussein Mehanna, the head of AI and machine learning at self-driving-car ..."
 publishedDateTime: 2019-12-30T13:12:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12-1028787955
 type: article
@@ -21,6 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "wDAvyIBSWLI1DvRCKM9/Gu+WGENT1EvSXtUE7ACwYl/+yCGRqQ8w5F/64m/AfUVnQeOhTe0hAlx583VI8VSEkl1Z6FnI+mGjht0JC3cqiJ6PsotNC3b7nnMrSZhJufTZsee6WwwB1sfMlsdhCQRasSEv5AepvfOli1l0uKss0Vvq951990YpHKYMbB0Ov1xcOoydPn4bK/V0Pp9a7Vf8z/83KqVnz0UxEcih2N+gGKrj9ctSkp3H6iV/1v9FqpDvRHYdXpVi6F4Qf/X633q+MDBCIfAJ/QMYyByq6TkbT8k=;Ey9PMDGPlLRFxsdPahZwlg=="
+secured: "HbqaRDp/u7H7G8rJpMkPOHzrVSJvf9GPyvmf5ETGjlq/DnvifQugvK5GRh/hVzfC0mOiKP8S91MRDfVjgiYC+LsD7LXk7CBmsyX/hyDO1UXFd/LcIpA/ZVPyAROjrzc9999pSyZzQ9yrDH8MBQCPiH5XS1kQeRqhs1n+ZxdiHsoy/vFpTp3uCpNBk6a3xe8oYegA1438isfjotX4VUQ7Zm9mqnylwuIJqfgIpkjC39XIz7z/CejF2LQMcNO9HSwGL7PI+S51T6xe2WhYLgDvyttEkdVgd+bhsuAZ8tid2vQ=;KqGdepUE4gtGvpEAOx5Yow=="
 ---
 
