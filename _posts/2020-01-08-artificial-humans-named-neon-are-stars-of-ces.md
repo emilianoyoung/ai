@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "'Artificial humans' named Neon are stars of CES"
 
 related:
+  - title: "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype"
+    excerpt: "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,"
+    publishedDateTime: 2020-01-10T14:32:00Z
+    sourceUrl: https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html
+    ampUrl: https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
+    cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 67
+    images:
+      - url: https://cdn.cnn.com/cnnnext/dam/assets/200108142447-samsung-neon-ai-avatars-ces-2020-super-tease.jpg
+        width: 1100
+        height: 619
   - title: "NEON artificial humans at CES behave, converse, and sympathize just like real people"
     excerpt: "called the woven city, the hydrogen-powered ecosystem will be used to test and develop driverless vehicles, robotics, smart home technology and artificial intelligence. called the woven city, the hydrogen-powered ecosystem will be used to test and develop ..."
     publishedDateTime: 2020-01-09T09:40:00Z

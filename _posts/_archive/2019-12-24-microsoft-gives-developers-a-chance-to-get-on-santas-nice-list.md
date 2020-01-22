@@ -5,8 +5,8 @@ excerpt: "The app relies on Xamarin.Forms, Microsoft Cognitive Services – Text
 publishedDateTime: 2019-12-24T14:41:00Z
 sourceUrl: https://www.mediapost.com/publications/article/344956/microsoft-gives-developers-a-chance-to-get-on-sant.html
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "rBsClDmO1A6OzvCgLN9sGM9Tr67AcHKk91u1ukMiBTBsvc4+ZIs7A/FijFlKWPrrsAm6tIKiGX9UZc/WXYhaUnKH28BUdw6ho6+a7BaCpTAG9BT8q9k7r3GIyULX3UVH0K7ZNwXgeHSuHN+xw58oDGOYyUVPtdrEERvPB1AfzezYYpQTUvKC0zU7AJVY+kCKGTJz7Adlcmyuj8cu70Q/2tXG7H6s06RqDv+sh2sCdxYxFIH8dQ1yr29KT81m8D6c1CoGYpu9Kzc2bkvj/BXxqokDG5nX9qrHCj7Mvtr1PXI=;h3MB2fPVprhEgQmEJ0xCQQ=="
+images:
+  - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/24/screenshot-2019-12-24-094925_7d3epDh.png
+    width: 600
+    height: 375
+    title: "Microsoft Gives Developers A Chance To Get On Santa's 'Nice List'"
+
+secured: "CLfxud+yp1pzEPH+d6idzLNn3ZARGtstN6yHX7VPSo4Wnnt7mZKPFzUP46aDGLFP72kkDVtPaRIpy2IRKbZjswtaG075CG2I3FLyWC3XYkPMJWNha8x1iTRtqvX21L0FFHsys86lSerifJdJWYqVg28rWRd5NIjb7ye+LUNQSclAHrAQ0bpdQlF6+QkV8L7LzbDU2TQ3Ana2dO6TjYjeHLGalMzWNEesJY2hiBqxpjC3CpfL9bFvMVMbZb6I6o7BwF+Zx9rdSByMoCxLdkrSA/X9uR5jlGHd5JvUclPJzF8=;/42Ccuoty7h9mbAmIZhHUQ=="
 ---
 

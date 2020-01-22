@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
-excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
-publishedDateTime: 2020-01-20T05:20:00Z
-sourceUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/
-ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
-cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
+excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
+publishedDateTime: 2020-01-21T23:44:00Z
+sourceUrl: https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html
+ampUrl: https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP
+cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: 9to5Google
-  domain: 9to5google.com
+  name: Governing
+  domain: governing.com
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
-  - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
-    width: 1000
-    height: 500
-    title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
+  - url: https://media2.govtech.com/images/connected+city.jpg
+    width: 944
+    height: 630
+    title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -229,21 +230,6 @@ related:
       - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
         width: 1280
         height: 720
-  - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
-    excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
-    publishedDateTime: 2020-01-21T23:44:00Z
-    sourceUrl: https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html
-    ampUrl: https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: https://media2.govtech.com/images/connected+city.jpg
-        width: 944
-        height: 630
   - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
     excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
     publishedDateTime: 2020-01-21T13:56:00Z
@@ -274,6 +260,21 @@ related:
       - url: https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505
         width: 600
         height: 337
+  - title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
+    excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
+    publishedDateTime: 2020-01-20T05:20:00Z
+    sourceUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/
+    ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 57
+    images:
+      - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
   - title: "Google boss Sundar Pichai calls for AI regulation"
     excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
     publishedDateTime: 2020-01-20T16:46:00Z
@@ -461,6 +462,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "lyMvKFyuPgYGLFGc2cbFkA/za+fimOUZ3yWmQyeF0mrHPmmEfGFWjyH9TKC2AN65TpSalh2pLGHNB6eu5WKmYrleKZWoDhCUlAGugLw0LERCIC15eBNHIWWpKkBiMFsuvYTvkABENeA5A6Zmz6krPtL9scQ92BACsExfVABz5b2LJMPQPgv+xXZI25mfKoFZPERSSUcIcsoj4TZi8/2oLsefv8pONHFFUJO+h8z8qqqEruSyVornoXvS3J7pq1r0tEdAEfZNs37dEWGGtL8FWtrHV4T4GbY5ePFJ4Q4IYK1LdIBqfT7aamZ7Z6Hd8mRHa53XxbwmiZJhAB2CdyxS0ukHc9M3MnsBkwqTw3hXKcBd1DRmeajrT6f24eTI4Ei3hjwh4L1Z0oxkA7IHKN4L4Lau554cnHCDPgHRFpRU1JfgmV0BxJ8lGVF5KEenmrOiRG6hhA8MMt5KeU8S3H5ZRQ==;1SiCh0NiOWv8IJyKaLiPsQ=="
+secured: "WHwxlTTq1hHFagCpJVlaBY9hnhFwqlhF2cy7Dn9/DMlJD7dZoduQf8aubDKzTIqRracWsZG9vq+ak87qX8RjsDuBSbpxHZ/I4skbuSv653J20oCromaUDgwmqSltivDpVATDFz4yA5tW9nbu6kEKhzdL0I3ZFnlE/PlDKINyEM5Qufm2xkhF9gp8e6euPZfFgrqorhAawhlPOJhq4OaqZx+YBBOTro821lo/jBhOS/6af7m9nr35vgR1KRuM/W6tcVfW8V8dTqM8OSbDLKqXONW6TO51yfpavBGj0T6T2ZE=;UXIgNBW+9wb+4NgkjYhp+A=="
 ---
 

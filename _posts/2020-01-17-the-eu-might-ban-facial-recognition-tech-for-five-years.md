@@ -99,6 +99,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/sundar-pichai.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Google CEO backs temporary ban on facial recognition"
+    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
+    publishedDateTime: 2020-01-21T17:22:00Z
+    sourceUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar
+    ampUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
+    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
+    images:
+      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1
+        width: 340
+        height: 340
   - title: "Sundar Pichai calls for moratorium on facial recognition"
     excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
     publishedDateTime: 2020-01-20T17:43:00Z
@@ -443,17 +458,6 @@ related:
       - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sundar_pichai_google_2018_2.jpg
         width: 800
         height: 500
-  - title: "Google CEO backs temporary ban on facial recognition"
-    excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
-    publishedDateTime: 2020-01-21T22:40:00Z
-    sourceUrl: https://www.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
-    ampUrl: https://amp.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
-    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 39
   - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
     excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
     publishedDateTime: 2020-01-21T09:14:00Z

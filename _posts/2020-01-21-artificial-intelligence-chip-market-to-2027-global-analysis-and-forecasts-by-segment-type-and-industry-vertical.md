@@ -75,6 +75,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "uGsAhacHVX2WnIb9CiHjdDhR1Ftop8ewkTsHLYeKnbiShtG8XtBZm1CTOU8FRXBeP/w8VGoZB25YertO0vNlM4UWtGYoisO8faV0xFPxFVhHF2pwnWiBLi26L1Mz/b79+47d5FCFpM4fFuMtOXB3BljfHPXdm7k3RePRvr3a9uL5CU+KyeMuj4vpWeC9J7Lq6vgOvCLqfURYP2C3ClRr6QHxtmKfM1DB6QfAryte1jp92RTE/SldF90IyK9YeNmIimLsYuzc5i0W9AvJ2e+wq+fUvQsHPelOQBrqn/mi8/s=;Xly/pM/txnpUB+R2sUzLNQ=="
+secured: "w1dUpSIkQXsWpaxLrKbMfXygIPywOw+Xu3sMTRB4TihoQ64CdQAw0TM3BR4Qhr1sXtnfttpMhvbzBciqcNShvvk7TNKmP2GeLzkIZt1mzKR7pKmNrJ2gS52tbVqKnkPhyvlOIv7r6k5CyxX3g7LN0shzM0LbJKVD51R1HlbcrJ+ik1dMZAj1YmIZs2OVdVUWLwhekHTfmcpVaIEfO27hpdryc78clkgwIK+TX9Jrle/GjA1FWB6mflIgs7WMZ0v+ZcVY4KXZ/x+dCzZtaG1Xrjf97qvSMkdnR9UPt515XQk=;JfpjwpmzWHTO00Ud6p9COQ=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 942
     title: "Media Alert: Rambus Presents Solutions for AI, 5G and Data Center Applications at DesignCon in Santa Clara, CA"
 
-secured: "7pBBKUwN6sSzjwrUKE++zHg5ktg0zg/YhBWLzcTkEFYB5CQo+lnwILHgQ0wrpvwxdijaGY5ldn63bKWFEUr1yS8ujxOxnnQtslvsNZ5WvT1Hn//fTBIpWX2jYhQ2DKZ+wOS3iuV6yVey7cXWrmfJONgU4EqgKT8ADW6NjqeWjx6YOg25Cj/L7ezS0lcMNMM+GMGj+yEQEfVAEI3laI3S0aduNThxs4pIzn5FuksZqd2qEAXKkf+AJm1nge80f258gi+NKPdipMi2qth7RZEA17aLsEENIj3sSyyhl4F8TqE=;xPfQrpU9NXPBN+ZPOYdU8A=="
+secured: "P/oR8Ifhh9EKon0INE+LSQcOVy99o9JWXpbZzSQ6tmaY6dk0R/Dm+FM06soJDzOMzx+0oXFSyzIEVK/sRGNr23yRAZn9/GOclfITq55OM9zBvv7C3CcXrnBLAp6fhgAuUh36XkmfsqLN+kUIT7I8VIi5EMGtNGTZMjG0XxVjGx06Px3yH3aGNiMBUqSTUrGSe3VBYe/QeQLeMJcHHEkFnDUZMIOU6AZ28eHurxpVoUYRcVbHDqWuArfxCmoU7+tJQ36ruZQtX+9ciE8lOKKn27oGa+HMtQX9OyudotXTnZqbyllrYp4Hau2NppN4cqbKDxAoxH7v8dt8vP/4jwPAGNj1J1jEU5Ty5Xz6u4wPMgPBimjtcjtcmkQRkyWQdFfoJeLjKck8cw3mNSfWEZHgE7IUhtkgQadbcRr9p/kn4sxAsxuJEr+2NbKdZoNqoqakl1EnT/C8SePTpkaDNQJ6vw==;LHm7EOMD3lKpesgn0uB/sw=="
 ---
 

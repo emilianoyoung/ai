@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Applications For 2020 Facebook AI Residency Program Open"
-excerpt: "Facebook’s Artificial Intelligence (AI) Residency Program is a one-year research training position designed to give participants hands-on experience with artificial intelligence research while working in Facebook AI. The program will pair you with an AI ..."
+excerpt: "Facebook’s Artificial Intelligence (AI) Residency Program is a one-year research training position designed to give participants hands-on experience with artificial intelligence research while ..."
 publishedDateTime: 2019-12-23T11:26:00Z
 sourceUrl: https://www.techzim.co.zw/2019/12/applications-for-2020-facebook-ai-residency-program-open/
+ampUrl: https://www.techzim.co.zw/2019/12/applications-for-2020-facebook-ai-residency-program-open/amp/
+cdnAmpUrl: https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2019/12/applications-for-2020-facebook-ai-residency-program-open/amp/
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "7dpHDI/N9yPJlxfwMfRSjHWPVfV3OZcHaFrNcqmwZzm9LURt1fTKjaOAN3TVj+SWlkYIe4brfTCZVCcijwj1f5kVROY3naiyIPr/aapAqHJVnqsMv98wuU4gGz9Fgw2G6P8zR9mEpcf081rZFBiElYCDpSmCYhHmIDiASXs6NQYa+0layuhihjBRrceKO1fRI/M58x5zggeaWIw/ZruKpwqytOO/+7kAB4kBSNlleZev276NM4Z/mIxRgAvH/1eLulWgohNnXAuOKtX9/wCfeNp9x/2sli8B77eQIVA2nCA=;TZPWj+oTRWzI7H6StwcrzQ=="
+images:
+  - url: https://t3n9sm.c2.acecdn.net/wp-content/uploads/2017/09/navigation-laptop.jpg
+    width: 800
+    height: 388
+    title: "Applications For 2020 Facebook AI Residency Program Open"
+
+secured: "Jp92nBAarOSSU7N0zUQE5cSqOJeDA692ip8a1cwMjTE1X4SkZVsXGtFEJqcDYnIF/JsLhj2q0n91eeV0MoT24cG5tBEK1JgFy3fbg61gVejHBs7YKvS7j01ac3TLcQe/woLlkGE8yDtQ7pc0xxc+2ptuk2mPGchdE3vK8hyE+qfIWawBCG/P1W+eQ7dQnlhJrHLcPYDMO3HJ1PGbD3KNoXsU2xyTAtywOs7lY6oMUVPLUFAoL3f/UgRaubaNVd+b6THrBQWOn6TG//Tz14dGEd835EqPDhFJh7O7HmyyIVY=;0kurVAFPEaugblUK365l0g=="
 ---
 

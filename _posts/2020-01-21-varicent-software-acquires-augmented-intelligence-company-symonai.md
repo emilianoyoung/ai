@@ -25,6 +25,6 @@ images:
     height: 683
     title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
 
-secured: "iM8oj25n3DwpsUWhJlF6gLfVXfazv7io/Y0NaxtblOaSEJeyeLcSdMM4GM7Kjl6GO3Gc6oNejHZI9ILU/5dEMAZ47UqU9x5Ci/0qtX7wTaSj3HyG+Db4qrRtVukPFbbeFLrTw5fVPUj1mjx+eZvG6OgR2VARJE7sRL6hOj8f9JRFmftzvjH1w/FzxSR/LOpS0Ekv5jrsEzKa6dP86s5TJYEKdcs2VH2G+4oEybirVxp/6l0d8ETFmpf07zYuyoJM8uMYiQ8EgBO+MY5ygItI73Fv+fkO+6UkDGwMooZW9tc=;MAnxXdxsU8MMY/hwMLlDkA=="
+secured: "OgcZfCh8iEE8OQ8wngf44NMXfCV8WzcuVYzr/AvXhYdRth1nOxYqVMFD7YEqnZRzXjQ3kj/DqTD4Kcg+y3HSNb1mFiwAiucKb+eEd5+3Uy7K7Qg6KHW0ugeJOMlsm6tmfxdNkexKVoppd3EVYcBDN9mohtR7CflVOre/Njy82BChKFBBi+vFYl3zGVzNyG69pV1nU23AUlttmDlJojE0tO1Pe7ZDLC1vMnt7i7h9lFgOoZBVVu7OtdtEhOcO708AT5PP9eqbIryrt3xGtJ8AANP0dpz4919ew+1BPx3XNoMqEYzxD+47cZe//vhcub1lQcVkF9mWStDkkQ8WfgHvhNtkS6C5ryWdvHM1LBf9WeW+q/ui8qFQje1dNsHXWzAUrRw0lL0UBCiA0pkQBgayyNTjyUkdpH8/37ZpaVzAkawlAH3Xt+5crPt+mt8cWXvyVP5l4i9hicInV+rnNYsCiQ==;0yClHGWeT0LNnF9Ir0cSTA=="
 ---
 

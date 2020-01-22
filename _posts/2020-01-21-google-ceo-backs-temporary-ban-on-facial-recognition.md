@@ -2,22 +2,32 @@
 category: news
 title: "Google CEO backs temporary ban on facial recognition"
 excerpt: "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ..."
-publishedDateTime: 2020-01-21T22:40:00Z
-sourceUrl: https://www.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
-ampUrl: https://amp.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
-cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/google-ceo-backs-temporary-ban-on-facial-recognition/news-story/b42e4695f38d13429c9b3263caa8553c
+publishedDateTime: 2020-01-21T17:22:00Z
+sourceUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar
+ampUrl: https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
+cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: News.com.au
-  domain: news.com.au
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: /assets/images/organizations/foxnews.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1
+    width: 340
+    height: 340
+    title: "Google CEO backs temporary ban on facial recognition"
 
 related:
   - title: "EU mulls 5-year ban on facial recognition tech in public areas"
@@ -534,6 +544,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "uRXKYAuNYCmjamKglktTYIKEAzF2YAq1+aroEZQeegSYDT5JUaEVhSYvBmTCoBFsI0A6810pXX9xl8IhZI1ynTddBxMvxaON5J3jfx3x62AOwuBl3RHB1jSxX8LW4sX3pGWTAhyJgNYnIBTAhqwBiUuezMX6Mz1xWRLeICrUdfaf7vRnLEnBNgwJTfp/kZkeeSYVc0RAU/yJ2y3uzy+IoJD9wYeV47gErKwR/nkbr/b13qgn/MLsvzBHpcM714uvvZz7J7sEZEA0Pw39+A8sp3Japvl2cmM61qGeaCoQdJeXyN3TXiz1/mzfo+kUM7dmGo8GCKp9s+dMZczo6LYtetjmQ0LTmhntSWqmoK9mQTpxeZYtcF73X4qoo+qCpvCaF8DCofpTp4gpIp6Qn7mDMdK0s60PW67xdt3UstPxta+5UnCg4e4ctedZxMNvTCbr+lSVYaLPjSk5OR08HQthgQ==;srKDPbjGN/ir49iwMIOwZg=="
+secured: "HxP983sx4c5KNd+1dwSd6B2ifrzxz/JdRoffT1sILx+Ia9NczYJyu/Wyu4NMTOs+DRmkL+qfol9heiVLfZu0sSsxDZ9+3loI5BiEG6uCih6djScHh/1CIt6vy55srhc1771dl6zmKWSMx/kJuFEpvL/lhKj4mA+enU6NLGZANAPa6++B/q5SJX7OWRjC0LCjwQCOOVAQNlwDvgrH/+BR/MQmH9lNM7rci3/ODDz3AJAUMHX1e9Nj9tPhxuh2aEuujen8M+z8htv8kzpsCXSERqqMcL6XbsPhyPB8ukb4KD0=;tdZ1JDRnvp+WV4YPqvzLmg=="
 ---
 

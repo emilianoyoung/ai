@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-abou
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/lioness-ai-sex-toy-can-teach-you-about-your-orgasms/amp/
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

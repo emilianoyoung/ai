@@ -23,6 +23,6 @@ images:
     height: 450
     title: "Google Cloud and Bharti Airtel partner in echo of Azure and Jio telecoms deal"
 
-secured: "bM3iEDtmQxOWXJuZM0z9AND8TdmsVK4USG/xpqhT5ypbGZpW3EmlPlkAoDjurjPTJGK3FXoCPXOmdNCx20VxTB6pZz3/Xns1m+VlFRM6WTgrYQ+hN6b1cySGh09w9Hox7NKBiqCy4Bo6rHaAPjByXxivaVTpuIS/kTnZ2m1VFmA9gz6fL7M8iI8WwBLKjgnaTyWVVPoyhTnfImjAPnQ+h7PsoQYMjAbBnOe7qhNj/DMZN/YEE+zYKzq7Z5SwlRWZJKamOoY/EQ1z8r3IPZjn5ugIx+Mf62SHXNy6Ocymt6w=;H1WikhnGSXO5pK02gkomUg=="
+secured: "O775qcu8KSFo67k993gRQ2TgIlXj6YI05I6hOuLJkUbJfy+pz7w0Aou2Y6NZQebNi//CcucyKnHOxqN+IHjZrPscVG52lEialS2M+38XT9qJufSVKkH7B2oU7LSXX439qRAY12q86CCK5hJkiWuReerIIZYxgk+WZfHbOr3pntI/FdS2jbMCC/GLYwZYA/hg3adDjyRhfjOuqJyVurRt/8N1xB+Tb8ECVmFGYa27bQOTYUlyV01E10+nEQ68V5wIsV0cHy9cZ0kxhqIoNUZ0EicMNCFBbK1IwkAjOkzfYqkNKdGInn+4ZOpQbYoDJJwYjn8FFxMH8rUkOoXBydN1QRJJ/dNXWYKyx78tWTI8JkBq4cTSJo2mYf7g0KCv4CRzbo1LMdFPUpxezLJF7O4xzmU+Q/KNPnVNdrXxPWMTiHjd+gjRRbfpyqdIsd7od09nvCxdwaT+dOmpms+Scnd5Mw==;47pDPIbhz+KBaj7t0MOpng=="
 ---
 
