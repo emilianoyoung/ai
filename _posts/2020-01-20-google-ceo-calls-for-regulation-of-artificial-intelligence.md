@@ -545,13 +545,13 @@ related:
         width: 918
         height: 506
   - title: "Google CEO thinks AI will be more profound change than fire"
-    excerpt: "\"AI is no different from the climate,\" Pichai said. \"You can't get safety by having one country or a set of countries working on it. You need a global framework.\" Current frameworks to regulate the technology in the U.S. and Europe are a \"great start,\" and countries will have to work together on international agreements, similar to the Paris ..."
-    publishedDateTime: 2020-01-22T16:34:00Z
-    sourceUrl: https://www.sfchronicle.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
+    excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
+    publishedDateTime: 2020-01-22T16:33:00Z
+    sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: SFGate
+      domain: sfgate.com
     quality: 37
     images:
       - url: https://s.hdnux.com/photos/01/10/12/34/18917135/3/rawImage.jpg
@@ -600,6 +600,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "B5OPFQburvJzJPUtkNB2gBfR2y3elu8UedhI5l73o7xiCfX84nOqLvR5yb+vtb4kYd8CQEVpY1pR0CvMRxWySsoh/pMnCI3M5J1ohSf0t58hnYOmt8wHh8pbsU4KxryJb5P1y0A4oBXo8woxbbqwJH5Cz2a2pOrKVl8JnF3lhaaCD2EpN1HUfIzdQTb5EiAXXSsBr5l0TuYrXXGB38KVoGjgHkyTRJb1PiHL83o8Pb39TQWvPE56NFRPxQEKmi8gboIVTbQDGuY4ugccVjnJsXIJB/rtnnyDuGj8Q1G9v8g=;YdmxuuigOfOpLVfwJGeeIg=="
+secured: "4a413yyd3mnd4ks4jyO0hAcu/J/C8BEYtjNnPfNphp4nI10+eKeWg7fLGHs66lFsI02QaFxLf3vY88GYAMTkZLxL4UYQCkQq4OYPQeNe4oi4vVc2On2Xjf4Ae8s+mZyPkwR5/PL8aHDbBeNva16JckFUnz5svXuZsXaot5gNBnn/gdT2QbMHa4UduDLXWOc8iQJU9GFNQx7yDrX9y507nyLVefnn1KcTlmcFABr46yRl2XBoriRfoKtcw4FwNAq9xeobGy7Q5QeVHKcQtuHOdY767S5p+UjABPIMaSrmZNo=;B3v6EKK6aTQCNsdu3iRW1g=="
 ---
 

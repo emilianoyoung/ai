@@ -23,6 +23,17 @@ images:
     height: 630
     title: "Europe considering tough new rules for artificial intelligence"
 
+related:
+  - title: "IBM bats for regulating AI based on accountability,security"
+    excerpt: "To ensure compliance with these expectations, providers and owners should designate a person responsible for trustworthy AI, such as a lead AI ethics official. All entities providing or owning an AI system should conduct an initial high-level assessment of the technology's potential for harm. And regulation should treat different use cases ..."
+    publishedDateTime: 2020-01-22T19:58:00Z
+    sourceUrl: https://news.webindia123.com/news/Articles/Science/20200123/3493916.html
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+
 secured: "UwpAEC5FOOLAMz3Lyg02FJG1TyiZoEiWqZkZ/eKDEg5x8UPJl35ZEQCEddee1MHGRosaXEEUL4dvpKKpFFGN08UnTizbUYDXQKkjuheC/eLKqHU9KB+dI8fkACgdqSBNfQBsGydsHRnPTv6DZS4ze2TUopTx7NS3bBEV0lVB1wlBk4JTVvW5a+ChHgH/9Ov0y6zWuzjWPBJttnpRS3CPnaQ4k15CpwiDa5R+90B/oddc8+q06V/B0GpTK0ekqVsV/BsLmZRXzL+696+FnlnNkne9Ym353r1pj1uUxREbI1Q=;xHcZrvto2/zwHZiWt8Qydw=="
 ---
 

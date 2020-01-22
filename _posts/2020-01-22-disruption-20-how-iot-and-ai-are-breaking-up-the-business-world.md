@@ -28,6 +28,6 @@ images:
     height: 676
     title: "Disruption 2.0: How IoT And AI Are Breaking Up The Business World"
 
-secured: "cti35qrzHGaX1+Sdhi+NzZMNqvcaNTPXVvlwQRwoAZQHO/tEM/bxyawHTq/L6wvtpQxUU+3pEOQdzA415TTkjXgyYM0tupIvsXYmrN6cellsWGV+DdDsfyhvqx9AFafq9DzpYYGdxHbipA8T4MMyGALk+NbvQ8aCuNMhI/q2Nc4GBXiIXn+AD4XnPY1EWZubeiIAFcEWZnoTEaUoHVfFeDuxr1Q4+HDpgB5+ANY60K3CVx63/IEHoi7bljxDCPTIo5o88giy8tXFGsQPvMnD5K+gMeA626qosWOHcMxH8aI=;q2BXxw803zVzn0UwIo2gDg=="
+secured: "sxAXXh2QCk1XnzMmvQgxL+TFYxqpLQG+845xnB3oPtO8T1jhMTKwU24klM66xzI6O1sUubze5A4sTtf66keVZ0TLNLIbGDD6JHKpQIT1uHhHiujL+2Yn+ZSwmRDhlmomwx1g1whr9f78BWvPowzSKCnkLMhSs1SRUfAdQwgFoyyhmmJbYskWwv4na5/SS58AXsSk6nI/s+khgbQyh0EayWFWeufowMmAO0tuJODD2mi1avBUqNvod7FO54rRydKKp+OuaqpZ54l6G31sfCeqgRXkIGcBItv5PYkfsh95Uf0cd67iBhMRpdM6tO0ZTaW5L3MnlpohXNBkPN25KEi6l+dpDCZmboZikgHHsV+ETZ5VJAWLtdZUr6xb+YHABAmdZPN/LaJusIPe0Z7FVqjL8wJd/J8UOrCuYHAbBF5q7RgPtWawtOXLDmxDpTciB2/sKWXM8pQsM0pB+88OkOMqlg==;HAnWgEzAuteIDOqtW+OtUQ=="
 ---
 

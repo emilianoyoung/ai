@@ -1,7 +1,7 @@
 ---
 category: news
 title: "New Promise for Those Who Suffer from Face Blindness"
-excerpt: "Face- and object-recognition tests were completed before and after the training period. Compared with those in a control condition (children who played only the traditional version of Guess Who? at the same intervals), those who played the modified game ..."
+excerpt: "Face- and object-recognition tests were completed before and after the training period. Compared with those in a control condition (children who played only the traditional version of Guess Who?"
 publishedDateTime: 2019-12-26T13:01:00Z
 sourceUrl: https://www.scientificamerican.com/article/new-promise-for-those-who-suffer-from-face-blindness/
 type: article
@@ -23,6 +23,6 @@ images:
     height: 496
     title: "New Promise for Those Who Suffer from Face Blindness"
 
-secured: "ya1Cx8N73B4pR5I0crOpVWp4hP7CK4V78gelCrrI7rjzJbDp65CBbnplFST1hGXfM4YfOcFL3RE7KwW+9CMXtgwho2HaYlGYaKOMMTyQsTWkPZckMkr2psqswjxMKcVFQmixQer/zIaz847Kdz9unKQXBqFVKrPMMyLGtfbKjgJaECpLQkB+biKgeq8z1fbBsRLxc8HEMKr9mUARb9K7I5EsjhVCoMOSGZP+5jy0miq/UDkDJvepko5i5F+/pfssanHURkFgH0f/judLOE0DQFSC3YzEJsQaLfasYg1mu3k=;TK7ycUCtlGXPKKloRRTVlQ=="
+secured: "LzhqSpgWDePhdnvlpYMb0TMcchY3XiRfN77oxMLyjeAT4JVLHIRO3yPIp9LJTmSjoppYVaa74aVy+UdRPBOJgTDUYdBYxJJ8OMw+0X4O04II6BEN8LmLpTbP5q8TJPaZUXM+XNlIvkHn4OWAezCrhbuF+R8d0UnmgTd16ZCxncwgGD890e78Nqgm3Jk9au2YQS//pZkqaO4BuspoQY0P4jzJE4wOLN7L4k08/5tyieDOk21GMF8/MgIbs1l6Oj0DYhcoX1r50g5ldEEsyjFnhfy3qRP+IChK9/PeZDJGhC4=;BPMUFKcTCXUsfjpROZ+DOw=="
 ---
 

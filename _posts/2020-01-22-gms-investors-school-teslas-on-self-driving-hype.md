@@ -23,6 +23,23 @@ images:
     height: 1706
     title: "GM’s investors school Tesla’s on self-driving hype"
 
+related:
+  - title: "GM and Honda Unveil Self-Driving Shuttle With No Steering Wheel, Pedals or Brakes for Ridesharing"
+    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
+    publishedDateTime: 2020-01-22T21:00:00Z
+    sourceUrl: https://ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/
+    ampUrl: https://ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 31
+    images:
+      - url: https://tribktla.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 919
+
 secured: "3GAZ/muMhNsZdiwRRoYXO6jtV8GX27B8ukUFe2klViPTC3HY20LcFNMeGj3VcYQzim8aY7U19HEFp5RrKkXTjYb+6M9gcgLSutvWskAMjYoaesu7c4iCuwQbXHnS5lCishDlJQDmU0ErR9J2UrqiwPv07AE88lbgK1U7t6XrxvQZ/o/zvMPMzwTswRYLzkBAKDSd1Vox3nqy8kO+P9ye0m62og1Ni7DAx14HomqtZlcEXDhaZ1pDBJB1Ak0ZdpbsTKOHARhStJD4vNWdT2v8noVJaG2sADE5pd8Gb2aNczM=;Ss4yfC+Q2YMPJ4FWTA0BQA=="
 ---
 

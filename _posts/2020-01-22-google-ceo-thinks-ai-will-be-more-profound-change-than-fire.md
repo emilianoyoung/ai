@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Google CEO thinks AI will be more profound change than fire"
-excerpt: "\"AI is no different from the climate,\" Pichai said. \"You can't get safety by having one country or a set of countries working on it. You need a global framework.\" Current frameworks to regulate the technology in the U.S. and Europe are a \"great start,\" and countries will have to work together on international agreements, similar to the Paris ..."
-publishedDateTime: 2020-01-22T16:34:00Z
-sourceUrl: https://www.sfchronicle.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
+excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
+publishedDateTime: 2020-01-22T16:33:00Z
+sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
@@ -599,6 +599,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "dFMtpr6sa5h2EF6bUQjfRVBOxYREy4dV5B1rZNTxT6BieYhOYznN4hZm6aaoumaQ/FVcPX3nKJ6Ha1JxZO1HpHoXDxFsI8jo2OQ/70Zr697QkdAa6MODHRpO9YxIFZTD/81Eq6EItHjzGzxivwrBNtZmH6sJZBuHywXn1gVzUVu+SBWDYHVYywgvxlc9yXS4Rkjy8oKGiCYwy9NADnQYnyK82NRRDmPIag6YGOyC1to9XeoqWXt4X/i8qAAWSsyR51gxmlod21usukPN/ExzgGsX/v812W/gGidXlRJoQCY=;qs6vQlDWuSzp5FG7uJSwag=="
+secured: "6i7qwgrn2seUtGZpWZThCOI6h8pWpOYKt0Ih8GC2fxIjjQ6fpkwSyYfWZZSKYdObJS0zfAJH65wkVdFrCnlpikgMR6iWKwYgpoefF8qhOJew/AqGwXpMSG6zzElElYjzHlyelj98RZoP58sFQHt6PAsegsNtS6XaZyObZD3CINzupnAXdy5F7/SAED9rt0DuHgDzySXtPH0odYD1L0spJBQumffEv/lIH/8FUwumTVtKai9binySImYYjidV7Vhw8XW0MNzfGLl8pM7VBtHkIMMT55+Lz1NERsV79YtMIBs=;gyMhdTxitvl4SY+HT7VEsg=="
 ---
 

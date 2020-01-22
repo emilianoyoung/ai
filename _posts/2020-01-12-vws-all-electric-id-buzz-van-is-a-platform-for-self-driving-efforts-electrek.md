@@ -56,30 +56,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 39
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
-    images:
-      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
-        width: 320
-        height: 209
-  - title: "Baidu testing self-driving cars in Beijing"
-    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
-    publishedDateTime: 2019-12-31T18:38:00Z
-    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "SPDFzeQUnk5WR0fY6Bxja4DzBO8OOkkynbJVzQg3oMGbpi//kuK01CWB/kNbRlWEU5AiiwTcCIfi+JB146676UrFx4J+ksne2DR/a8+mp22UCD+dSV0e8ImIaM7/2UpppFGBhfFtHecGPwgoqTwpvApo3vMnoJXx8Fi1f0gzF8s28Y9bnW0gWCluj0bctZJS3Mh79/JQf6gki42B7vpyVEF2NBaZ8uMETjF3M6S2qZI/CDkl7rw81EhT5HLBC2GxvaSCC0FF/NZ1F3tzw0lT2aQaX3v902bZIcU/qevW2jP6O2T1Mf281EbOyJdiMt9gLG4hVGucwdOveO2o/4QjOsEplHDzkqMUsQrQvwMFRrFepfFaPvc7IVR69VQAmJ4YyAXn0BqpmpCVT2uBa5eLevQmRxSdvf2VncRKLiVC4jRDYTja3SPR35+alLizE/PewohVD2yIISrNpBcuL2DZZw==;1wvVIXLznmEVzFkmMMpAjQ=="
 ---

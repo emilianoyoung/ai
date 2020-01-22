@@ -279,6 +279,21 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
+  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
+    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
+    publishedDateTime: 2020-01-22T21:14:00Z
+    sourceUrl: https://wgntv.com/2020/01/22/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/
+    ampUrl: https://wgntv.com/2020/01/22/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/amp/
+    cdnAmpUrl: https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/01/22/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/amp/
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 44
+    images:
+      - url: https://tribwgntv.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 919
   - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
     excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
     publishedDateTime: 2020-01-22T10:08:00Z
