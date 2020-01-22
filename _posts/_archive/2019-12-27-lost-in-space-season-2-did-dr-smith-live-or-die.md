@@ -1,7 +1,7 @@
 ---
 category: news
 title: "‘Lost in Space’ Season 2: Did Dr. Smith Live or Die?"
-excerpt: "It seemed in that scene that the Robot maybe mind-controlled her to leave the ship. But an alternative explanation is that he communicated with her that she could get a ride on that ship if she helped save the rest of the crew. It’s unclear, but she ..."
+excerpt: "It seemed in that scene that the Robot maybe mind-controlled her to leave the ship. But an alternative explanation is that he communicated with her that she could get a ride on that ship if she ..."
 publishedDateTime: 2019-12-27T04:49:00Z
 sourceUrl: https://heavy.com/entertainment/2019/12/lost-in-space-season-2-dr-smith-live-die/
 ampUrl: https://heavy.com/entertainment/2019/12/lost-in-space-season-2-dr-smith-live-die/amp/
@@ -25,6 +25,6 @@ images:
     height: 678
     title: "‘Lost in Space’ Season 2: Did Dr. Smith Live or Die?"
 
-secured: "X6TCNm7UOX65VWN08WYwOzwnDtZITGwSCQycGCm9gDbSUxPpMh/YqtABY/diBXj0Blyue0HvQoRj5xx+qUf7Os91F0sI06YCZGDlB0dAy5qQ5vQJiGV5/oDD5VYqq3Cpw/2dSE4KCm28DmSbUUTmfawN6KhDWEZdsu24K0SMD3328NLRuDN6jzxUnIa7TII7aU9pvi7oZ/tPDvcf4cV0vj0h4kbwpuD4ksybAXziDKaS22ViPZyfBF4zd13xqRjFi/FY2xh/rDaSnWgGk1O+V7VVvMgo6Hu7QdPS+E2V7V0=;Z8Vg/eB0ptkFTHujkWafDQ=="
+secured: "rmdqXglIgZdk/GeV8dyTe+nKgfQ8K5ZBOKz0nvX9p5gsknBTXhrHZgsaRMekeCybYTosT16oWpOGqMbMnVjf9hbeh2uweGlTceQ832uKMRrflW84lk4a14GPAeWBPZVOzAu1/oRWcDfc+3heHOjtqBT+eXHPQDBKMto+T7cWRC1KSU0SCSuOzA01U9FTIW4ZtmNFXc4FQRj0a7OS0AGOCICi2OyAEFiSVPjR9JNx6lCOwfm0qugQMl0QzsbpipqvdnYzlUP0//iPkKmlMwSymoRd3xsAoeWNzd9Rm/fqEW8=;UO8bKXZ91b4EX13J2I6jiw=="
 ---
 

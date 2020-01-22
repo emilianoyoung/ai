@@ -44,6 +44,19 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/200115-xnor-door-630x473.jpg
         width: 630
         height: 473
+  - title: "Dialing Into AI in 2020: Why Investing Now is Key"
+    excerpt: "Autonomous vehicles, robot performed surgeries, even understanding human sentiment is not far ... AI in the Palm of Your Hand Apple’s $200 million acquisition of Xnor.ai, a Seattle startup specializing in low-power, edge-based artificial intelligence tools, is the most recent of many investments across the industry to indicate AI will ..."
+    publishedDateTime: 2020-01-22T09:46:00Z
+    sourceUrl: https://www.geekwire.com/sponsor-post/dialing-ai-2020-investing-now-key/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 69
+    images:
+      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/630px-wide.jpg
+        width: 630
+        height: 500
 
 secured: "coLBcDu2XVgtO9qs2OEn4fp7wa/U69D86QXUF+y1LwG7KNgC/f7Nq9fKfSmTSpqRf/Zu1GHFK+gN7k8vo+FMD+rvWuSWp5oq24ieIKMxxnlJDYv0CYLALv8GqkQ/EoCZ3mh9oP2Ep305Nvrq25cpULaDQde8P9pK2k7Aj8h1lgN1m1ppf53O4075+fnDqVOgR08ZxfuExBNidFvcvN3U6VblSs3LfURwdsDp49TkQIH3OtjZs3gPo11kNYONtnrko6H2R7rKPgoNDftLW02olG4aktR8q6m6JxoHOydE24bQCs3PZJMZbBWsQjWX07NpcE8Rv03zn1huiYHX+Z92WNd53nKg3nYHg2caZuD1YXPpECs97h0ugk0FXFAhJarrf/K2sy/YM6GH8BT/jGUal2V+79/kWYBx65k7aFoU8tHUsySdXa/ItZVTpMMLFSs+5osssfEna5rMVVnCg52JCg==;2KkLolTZMwZf0MABbn9G6A=="
 ---

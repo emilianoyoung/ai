@@ -8,8 +8,8 @@ ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/21/vmware-nyansa-acquis
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/21/vmware-nyansa-acquisition-vmw.amp.html
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 67
+published: true
 
 provider:
   name: The Business Journals
@@ -23,6 +23,21 @@ images:
     width: 600
     height: 400
     title: "VMware to buy Intel-backed Palo Alto AI network analytics startup"
+
+related:
+  - title: "VMware is buying AI-based network analytics startup Nyansa"
+    excerpt: "Virtualization software giant VMware Inc. announced late Tuesday its intent to acquire networking analytics startup Nyansa Inc. for an undisclosed fee ... Research Inc., told SiliconANGLE he wasn’t surprised to see VMwar buy Nyansa as AI is becoming increasingly important as it can change everything. He said Nyansa’s tech in particular ..."
+    publishedDateTime: 2020-01-22T09:13:00Z
+    sourceUrl: https://siliconangle.com/2020/01/22/vmware-buying-ai-based-network-analytics-startup-nyansa/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/cloud-computing-2001090_1280.jpg
+        width: 1280
+        height: 720
 
 secured: "SSA/h/tbkhRQg6aXQNdl6JBy1puRqEcWiURD34fw3xWhLQ1Lu2BAfv43CXCDBj7z54/D3TpZDDMudOcxeFLhx9+hqCbYUDc0OKqCfPCaXNKuz+BotI9KONWuPr2fJ9EJnla1NzjJbOZv5DlIi+bG8UTo9Ap/wqlCKh7hAvQBHnCq1o6/gkWXPJOSW9UBcGm09nWpNpmzI205sZ0oukYZ6rhFNRq4cUdNXrNEm2PIYsDWNALUCWyPaIFG7pOoQwY03LZQncFtKiFl7d+NhvX4PCVsbzHsClnOsnZpZETPHk1A0pbZHHv5T98sezWG5+vMiOT9Mu6n3KjdDiZmGk+7z+Hpvg9Ly8HXlezqPAEU/NMlcZ2q+q/8xKNcVGjA6pNdTSk9B4ti/iQzfkXCWC//XL7pREORXm4ydDDP94KX+TkcsWNGggghR1L69MG0NiLfAXDWd0X3nuC96I3whRTZhg==;wPaS38YsFGrHJ3kff0taxw=="
 ---

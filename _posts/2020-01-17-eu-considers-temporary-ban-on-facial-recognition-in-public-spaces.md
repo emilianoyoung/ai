@@ -386,6 +386,19 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
+  - title: "Telangana to test facial recognition in polls as privacy fears mount"
+    excerpt: "Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri district to 'reduce impersonation cases,' the Telangana state election commission said in an online notification late last week The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday ..."
+    publishedDateTime: 2020-01-22T09:33:00Z
+    sourceUrl: https://www.dhakatribune.com/world/south-asia/2020/01/22/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 39
+    images:
+      - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
+        width: 443
+        height: 249
   - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
     excerpt: "Police don’t have access to those videos unless a homeowner gives them permission — something Ring has been less than transparent about in the past — but imagine if those faces were sent to the cloud, where they could be matched up with, say, Amazon’s Rekognition software, which can match faces with a huge database? What to know before ..."
     publishedDateTime: 2020-01-11T18:19:00Z

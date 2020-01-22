@@ -37,6 +37,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "HCL Technologies unveils a dedicated Microsoft Business Unit"
+    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, loT, and Al/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+    publishedDateTime: 2020-01-22T09:20:00Z
+    sourceUrl: https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
+    ampUrl: https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
+    cdnAmpUrl: https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-unveils-a-dedicated-microsoft-business-unit-120012200467_1.html
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 59
+    images:
+      - url: https://content.indiainfoline.com/_media/iifl/img/misc/2019-09/17/full/hcl-technologies-1568695467-04161350.jpg
+        width: 350
+        height: 233
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
     publishedDateTime: 2020-01-21T16:30:00Z

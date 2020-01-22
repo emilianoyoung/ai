@@ -5,7 +5,7 @@ excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was val
 publishedDateTime: 2020-01-21T14:05:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
 type: article
-quality: 31
+quality: 14
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
@@ -37,19 +36,6 @@ related:
       - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
         width: 1447
         height: 908
-  - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
-    publishedDateTime: 2020-01-14T03:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
-    images:
-      - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
-        width: 1200
-        height: 627
   - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
     excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
     publishedDateTime: 2020-01-13T08:05:00Z
@@ -75,6 +61,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "VVHP5bI0RiZRx6I5Ha7a8cI1oSlib6vf0SOwETOXHXAfq3leaspR0VhrSU3mS9hQrzQj3mT7tGH06vOXeSZM/JMlJ/qcbRTmj7OXRuZDEKrA1EPVxB536b4qKgDqbFPDrjHIkX9poljDG1Apkc2etLiJHjIyISooZtpOksAlE7mM5qnU5ura+uVbQzpQX20UWd7Loa+PzSlJHn4R8Bu+p4wjd2bhuXgJ26AGhccGnfTNoE+sZVye7LvzilSxedgINo6dT1+xFQToXrFNcWV1BLEvPc8Kd4bnDsCyFvB7cyQ=;B1ZsuAbFpiU9f9BIHwgdDQ=="
+secured: "Yx9y6xDdkdC1NiLbswjhOonaZo7k7pniOM43Z6r6FAj4SGnhwDkiIUhkofQdopoexH29IKU3z9VjUO6jIUQU+X70qlfyrbzjOogNSsZEPvPtRFQXZM9Twkf1GDAyy0M3XuJGRYKxm42r6de6VkiJW5TpmN5qhjslBdaTUs7kcxzkT3X9nWnTgFE1hGtiIjlC0sW9wJt6rGoYRMzqrfglZqCseP3Xqasjjhr10oDwv/qmwETn38nPEv3YnMzEEz554HWkOb31jH7bHkPoC/5oPVFyM21gZeDfcgQhqXqPY6I=;hRFT+lfe34jesu6Xx7Kfwg=="
 ---
 

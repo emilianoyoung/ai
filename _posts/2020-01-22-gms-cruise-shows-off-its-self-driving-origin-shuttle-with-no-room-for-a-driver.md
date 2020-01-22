@@ -1,29 +1,27 @@
 ---
 category: news
-title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
-excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
-publishedDateTime: 2020-01-16T23:47:00Z
-sourceUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024
-ampUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
-cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
+title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
+excerpt: "(Bloomberg) -- Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production."
+publishedDateTime: 2020-01-22T09:57:00Z
+sourceUrl: https://www.bloombergquint.com/business/gm-s-cruise-to-show-first-car-built-to-operate-without-a-driver
 type: article
-quality: 44
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Jalopnik
-  domain: jalopnik.com
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
+  - url: https://gumlet.assettype.com/bloombergquint%2F2020-01%2F60d753aa-afb6-4d6f-800b-b96e8d8abf19%2Fcruise.jpg?rect=0%2C78%2C800%2C420&w=1200&auto=format%2Ccompress&ogImage=true
     width: 800
-    height: 450
-    title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
+    height: 420
+    title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -189,6 +187,21 @@ related:
       - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
+  - title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
+    excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
+    publishedDateTime: 2020-01-16T23:47:00Z
+    sourceUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024
+    ampUrl: https://jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
+    cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/gms-cruise-self-driving-car-company-is-up-to-something-1841050024/amp
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--1PrXytma--/c_scale,f_auto,fl_progressive,q_80,w_800/mflsmhuugfa4nhvwsnwn.jpg
+        width: 800
+        height: 450
   - title: "No plans for self-driving Rolls-Royce cars, says CEO"
     excerpt: "There are no plans to develop autonomous Rolls-Royce vehicles for the foreseeable future, according to Torsten Müller-Ötvös, CEO, Rolls-Royce Motor Cars Speaking during a media briefing in Dubai, Müller-Ötvös reiterated the company’s desire to be “all electric” by the end of the decade. Müller-Ötvös said the technology wasn’t ..."
     publishedDateTime: 2020-01-16T06:33:00Z
@@ -364,20 +377,7 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 24
-  - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
-    excerpt: "(Bloomberg) -- Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production."
-    publishedDateTime: 2020-01-22T09:57:00Z
-    sourceUrl: https://www.bloombergquint.com/business/gm-s-cruise-to-show-first-car-built-to-operate-without-a-driver
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 20
-    images:
-      - url: https://gumlet.assettype.com/bloombergquint%2F2020-01%2F60d753aa-afb6-4d6f-800b-b96e8d8abf19%2Fcruise.jpg?rect=0%2C78%2C800%2C420&w=1200&auto=format%2Ccompress&ogImage=true
-        width: 800
-        height: 420
 
-secured: "BpOScvtULUw+k0qKzZxlPJ0ugUrPi4yVeJH9wzq1BANDiMDY1mnDXK4Y66J9GZwPtxQAHqqq/+W/3RUtsVfC7SXEo4KDoO6FZsaagHvHM/gyZn/ZhG3+N0kNEzkyAuDwoPHsKpbj+pwi/ZD8BIUpMLfuXWAgKKM08ee5qTsPmY5OzDjIHNgMvFcEebk44c6tURPaeDkoO0zmMnJEL3yTtgyxbFBnYQveVwrwUS/e5wX2GcrUhRIMx3Rd5Mb/thjW2I9lEyghBwvFugS64dVWH6QAPSvOqaJcr3YbAZuiHp1rkZXoKNb3iwRzwp5VBIXsYlG/ZF50QFB6WXDddLs9KxqSsn54xa9WGXy1GBKWnA6wmOKYDyqlMc1Re9J8womWbrVK6uwLvGkJCsBXiNsbGa3D+JRtMTNxkuYS2oDaP22uZKqXMI2wU9Cw7xwM2HwlNVmdyfo27G1cveOb9BlfOQ==;AvZhZAcpLXZNMAnvMk1PbA=="
+secured: "9e1Z2ITHDmLqNmllHrB8VCjHvnGZtq2YdgKneAhIZDfblXW4a84PGDnm7V1T8BTm7Q9TzxLpvUABv073JdGCSllIKW0/gxNvmhcA2zW+ZPDlaaN1CPfuLo4WzMFUasnSnJWP0wCjpPRXQ6AAFk3l3Z4OspSom2hkA1t/ng5AkbKdWITF2PM/2s2hO7mOeUZW6DYS0X+E2X1XKj4sfJDukgVlA8Y3rMKpC4Z7EBvWU7TWrnlt1GFhMOKBBZXhb9pYTOueOcZyHWP+3WhkmNdkesxjiYE6Ut2k+0kQ5PveuQg=;Qar6bSzPASgDReLa61Rf5Q=="
 ---
 

@@ -1,21 +1,19 @@
 ---
 category: news
-title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
-excerpt: "General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”,"
-publishedDateTime: 2020-01-22T01:53:00Z
-sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise-idUSKBN1ZL03W
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
+title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
+publishedDateTime: 2020-01-22T02:22:00Z
+sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
 type: article
-quality: 68
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,10 +22,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479597925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L082
-    width: 818
-    height: 545
-    title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -370,7 +368,20 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 24
+  - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
+    excerpt: "(Bloomberg) -- Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production."
+    publishedDateTime: 2020-01-22T09:57:00Z
+    sourceUrl: https://www.bloombergquint.com/business/gm-s-cruise-to-show-first-car-built-to-operate-without-a-driver
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 20
+    images:
+      - url: https://gumlet.assettype.com/bloombergquint%2F2020-01%2F60d753aa-afb6-4d6f-800b-b96e8d8abf19%2Fcruise.jpg?rect=0%2C78%2C800%2C420&w=1200&auto=format%2Ccompress&ogImage=true
+        width: 800
+        height: 420
 
-secured: "ny8uHj32bzuBVQZNFxCgzL32qyzKlTRGgobEOW49QaqKhbdwocmbtT6QVhvqJ4H01i47q6IXitSXjl0oqELv9zbzKZwVZ46J0TCefzQPwi0PLpjqdlGJkLCf2KzxLydCMATA1Wy/tZuPHSOvNQW17Fi+oQ3AL74ke9VBdelczMKgSM/X8Rct+pnX9/yjoidVIYX41eEy8kujBPE23yRKdN0gjQhTq4GuYyjz/HrezYL2B4tMajABnhhFl94wuXc9fEa/wM/N3QKpMANHxAw25790IInWBsXElE0ZY8+vI6Q=;7q/UzAcmEm2s7hw8RscMag=="
+secured: "FTeqcbSgic/7orj5jkEVj/4LOuD7Bm8YeZBur//iq2Nbn+x9psx/3lY8B7GVaBQ6AkOreagLbQ5IdhzC/oYVfX0vYUM9EhrXXaJnMFwxl0rGR+EAkseImFixysNSfQgQcSG+K1FgUmyR4WEi71z1NxAgkaPWl7xOgESTBx9msoiPN+h8a4CFN/JeRsRNJ8BB2/7B/XbhANP3qzvdBJ4O156LAOY2lktYjcmrgC8RWatbqiUhSi17e300xYCmb1CZuKO4v7zl0j24LhOl641oQcRfp0jvZclCMLslunhRc6Q=;fRSyhlvWL0ZhUmo9Fw+/gQ=="
 ---
 

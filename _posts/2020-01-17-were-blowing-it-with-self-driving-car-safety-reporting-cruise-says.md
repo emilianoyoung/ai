@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-californ
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
 type: article
 quality: 174
-heat: 414
+heat: 424
 published: true
 
 provider:
@@ -135,21 +135,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
-  - title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
-    excerpt: "General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”,"
-    publishedDateTime: 2020-01-22T01:53:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise-idUSKBN1ZL03W
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
-    images:
-      - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479597925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L082
-        width: 818
-        height: 545
   - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
     excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
     publishedDateTime: 2020-01-13T00:26:00Z
@@ -180,6 +165,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
         width: 1200
         height: 751
+  - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+    excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
+    publishedDateTime: 2020-01-22T02:22:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 48
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
     excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
     publishedDateTime: 2020-01-16T23:47:00Z
@@ -370,6 +368,19 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 24
+  - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
+    excerpt: "(Bloomberg) -- Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production."
+    publishedDateTime: 2020-01-22T09:57:00Z
+    sourceUrl: https://www.bloombergquint.com/business/gm-s-cruise-to-show-first-car-built-to-operate-without-a-driver
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 20
+    images:
+      - url: https://gumlet.assettype.com/bloombergquint%2F2020-01%2F60d753aa-afb6-4d6f-800b-b96e8d8abf19%2Fcruise.jpg?rect=0%2C78%2C800%2C420&w=1200&auto=format%2Ccompress&ogImage=true
+        width: 800
+        height: 420
 
 secured: "S6IuEk9Cjpp6fa+nrVsyYbB3y1DIoXjFMh/3BCYGHzKKKzKlcYGsN34XhCKhV+R7Xm5MR4jh+5qIrHXzjpGpKYyjazfgvIpWGYGvrY5JQA0WmFbz/NwlbERwlk1JzjV9i0Kg9/OTOFakey26U3nYFi3E24XfxZNfHrYb9GOd4KmPlDjhB5ZQ6vShTGXdefecBfbgmGZRVn0Ko905x48H/p8mDf1cX3VF6cC5Pq3/FO7aCkl2dQqcB9uU5tUXV4ZtWlXbZD8d+UXUi1gc96j8NhOu34iqmrw+AN/Lb7sU8ISjtcQmAnNnDSrAvIvsyvH+micWVrU7dFl3kfnscA91ed8rk2C/qBGjtVMkof1grqZ+QAyXRrYINNxWDNog2pY5EXbizRjzSZs0QSFxCww8rt9PIVSd5xg7zMYrg6oYKkKMhDXsSeS6SC768pZ/89/IT5hnazCSVA18fNfaSdEg6JiHKchrjrQkau2xJ4o0e/w=;/mz19S6l0mej13rUK1SuSQ=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "EU considers five-year ban on facial recognition tech in public areas"
-excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial ..."
-publishedDateTime: 2020-01-17T16:27:00Z
-sourceUrl: https://www.irishtimes.com/business/technology/eu-considers-five-year-ban-on-facial-recognition-tech-in-public-areas-1.4142814
+title: "Telangana to test facial recognition in polls as privacy fears mount"
+excerpt: "Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri district to 'reduce impersonation cases,' the Telangana state election commission said in an online notification late last week The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday ..."
+publishedDateTime: 2020-01-22T09:33:00Z
+sourceUrl: https://www.dhakatribune.com/world/south-asia/2020/01/22/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Irish Times
-  domain: irishtimes.com
+  name: Dhaka Tribune
+  domain: dhakatribune.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.irishtimes.com/image-creator/?id=1.4142813&origw=1253
-    width: 1200
-    height: 630
-    title: "EU considers five-year ban on facial recognition tech in public areas"
+  - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
+    width: 443
+    height: 249
+    title: "Telangana to test facial recognition in polls as privacy fears mount"
 
 related:
   - title: "Facial recognition scanners are coming to PHL next week"
@@ -362,6 +362,19 @@ related:
       - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
         width: 1500
         height: 844
+  - title: "EU considers five-year ban on facial recognition tech in public areas"
+    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial ..."
+    publishedDateTime: 2020-01-17T16:27:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/eu-considers-five-year-ban-on-facial-recognition-tech-in-public-areas-1.4142814
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: https://www.irishtimes.com/image-creator/?id=1.4142813&origw=1253
+        width: 1200
+        height: 630
   - title: "EU considers five-year ban on public facial recognition tech"
     excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
     publishedDateTime: 2020-01-17T10:49:00Z
@@ -386,19 +399,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
-  - title: "Telangana to test facial recognition in polls as privacy fears mount"
-    excerpt: "Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri district to 'reduce impersonation cases,' the Telangana state election commission said in an online notification late last week The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday ..."
-    publishedDateTime: 2020-01-22T09:33:00Z
-    sourceUrl: https://www.dhakatribune.com/world/south-asia/2020/01/22/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 39
-    images:
-      - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
-        width: 443
-        height: 249
   - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
     excerpt: "Police don’t have access to those videos unless a homeowner gives them permission — something Ring has been less than transparent about in the past — but imagine if those faces were sent to the cloud, where they could be matched up with, say, Amazon’s Rekognition software, which can match faces with a huge database? What to know before ..."
     publishedDateTime: 2020-01-11T18:19:00Z
@@ -454,6 +454,6 @@ related:
       domain: scmp.com
     quality: 24
 
-secured: "VMFM/nSTyAscjpNSXvO/a9eMStAVD5uQOxfzLb9rLa4FWDR/gxp4J2aWH1NuQozYmYTRXK7eJ8lwIa8ysDo8Lc4CnL+p9Ezz43VcKf49/ZBm4iJYvkXKm7xWQykgEks1WPDT3sl/Z4XbUQ0Rrg9wmCEwW4I6s5ZziWvGy3oQr4R3FqZvQIQbaXgYyIsRv2t5+0o2tOZsMit5IUgPd+/qTc4s/lXx6XIFI/RMvyX5xuJd12BvbK8CqVX9x3adAZQ2Z86xbh8WOjdi2PS7nSIO27SaTfjsQ+z7flqMM/E4rMI=;kNlWZp6OqwK4VNQVQnnqig=="
+secured: "VrR7KxDdsxGBQ+VTIGVsBjrFl2ZiWtKr2oFHjYstUomCrXu7vlIQB98yXgT0RTS6bxjXRPbBo8T1XQKfVUGJp982CQ40UFHVYcDVYNfoLDKHCs0cZDqbOXtahr91iGNe2auUIBv1VnY5xZJUHWPBpjeEUVXbymdqsdunVIvCzTqgjMw32WuFa5LkAXyTs5gVuRMINisSo/vv3+UOUO+G0nHK8f4DE+cBfrKLK0h02HLOtZTt4RDb2fnCqupDpNHzXOfNwW1lYBLQt7t7+TjAuDnRslHTbWJXzLBcI2tHnng=;5j3RTJ7XM+T6y7DD21fPgA=="
 ---
 

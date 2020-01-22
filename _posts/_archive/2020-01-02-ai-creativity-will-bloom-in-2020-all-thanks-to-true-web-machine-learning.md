@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AI creativity will bloom in 2020, all thanks to true web machine learning"
-excerpt: "TensorFlow.js is great new creative tool in the developer's arsenal. Machine learning has been trotted out as a trend to watch for many years now. But there’s good reason to talk about it in the context of 2020. And that’s thanks to developments like ..."
+excerpt: "TensorFlow.js is great new creative tool in the developer's arsenal. Machine learning has been trotted out as a trend to watch for many years now. But there’s good reason to talk about it in the ..."
 publishedDateTime: 2020-01-02T08:05:00Z
 sourceUrl: https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/
 ampUrl: https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/
@@ -12,7 +12,7 @@ heat: 88
 published: true
 
 provider:
-  name: thenextweb.com
+  name: The Next Web
   domain: thenextweb.com
   images:
     - url: /assets/images/organizations/thenextweb.com-50x50.jpg
@@ -29,6 +29,6 @@ images:
     height: 417
     title: "AI creativity will bloom in 2020, all thanks to true web machine learning"
 
-secured: "0ouwObItl4StqQ7nMBEdBURQ3y3TkOHgYqvPF5DGjD2RfHalDbB3agZL4VzhnbYBeg2ydqY1YcxXd+8rf+t36Z/5WZPcZJRB4TVSpd7soos4v75qDxkwlcj8D5IpKeFshlDs1vkMNwm5qoR7VJnw+yKu+c7UelSSG4as93S4Oa1zrmf6UZcz3w/tjqUr4gaGNu+pPtBGH7jXmXdZLANhqyJ6wsIGy7XOzovZnkuPa0K+/+VCi2u79CGAuoCtzkvYvEsdKZXsNEt356OQUpqvEd+mas75uH4FmdOrH84YsuI=;A01mvAbwzISfAe+/fMy2zw=="
+secured: "cTd5Jxhv23x6YdkgLM+SIb9hxrQiBvujyrode0EnSMX3xHeCHF2XRR/gnvQ9olN2ONCBKkzjqIHbRss7EHRFzj0B15XPExTh3jSWzFAwRw9z437vzBxe8bRCLWCJuNqMJ1vfUgvBnv7Sueo0OkomTqpuNWre1HiwMqhXGb1uMMOdsXnU6e5q6WBupOhGwFds4NHIMuuoxEd7MSHXLVfzOSDOUbqdiXoCnhfLdTfNAYc34K4HzMF7TKEA8RA6k8ow1ZWX+xv788vXeWF2XMCT49NFEIE29HfffQDbE2Najt4=;f1ZJevtGZG+j/XRoWDbE+Q=="
 ---
 

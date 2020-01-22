@@ -146,21 +146,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
-  - title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
-    excerpt: "General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”,"
-    publishedDateTime: 2020-01-22T01:53:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise-idUSKBN1ZL03W
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
-    images:
-      - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479597925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L082
-        width: 818
-        height: 545
   - title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
     excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
     publishedDateTime: 2020-01-17T14:43:00Z
@@ -176,6 +161,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
         width: 1200
         height: 751
+  - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+    excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
+    publishedDateTime: 2020-01-22T02:22:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 48
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
     excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
     publishedDateTime: 2020-01-16T23:47:00Z
@@ -366,6 +364,19 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 24
+  - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
+    excerpt: "(Bloomberg) -- Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production."
+    publishedDateTime: 2020-01-22T09:57:00Z
+    sourceUrl: https://www.bloombergquint.com/business/gm-s-cruise-to-show-first-car-built-to-operate-without-a-driver
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 20
+    images:
+      - url: https://gumlet.assettype.com/bloombergquint%2F2020-01%2F60d753aa-afb6-4d6f-800b-b96e8d8abf19%2Fcruise.jpg?rect=0%2C78%2C800%2C420&w=1200&auto=format%2Ccompress&ogImage=true
+        width: 800
+        height: 420
 
 secured: "omJWhxJsnIbeNAlezxMripwmHFI98C5tnMHYRglgsnZqkSGIG2uCXxVr/rgUb41qntZiEguOfxWrRat8rCyQNVu+GsgWrbiC/BL7qZX0gsIclXDqcLnS8eIa7CngJURCbb370/X5qr4sww1mn4Ixj3qPiJvmh/YzL4p8yqg/egG0G2z3VL88msc1FlI/5b3xhprdNgjFaBYmyxKR8AaJudqxDOAnoPE+LyNeufBzEEYOghD4Mmy6TlJ7kDlhF/elT2lyCm2GXL9s2JzbvWGpqiNyrFahkEc1Y9+h/ADQQfDHS3reV47CSFTYp6FuRxLyEFQLmkRySfUMLe7yF3YQDGg8qPZW/AqC3S+j/DAFYa2F5dWLKDdieaoSNGF35KtmOTrso5gnysM2QNRuQmsc3IXJVSS1kzrlH5VZV4279ZmN5Q9omPBYlm9qyhgcHTYkfZ0R6a7WnkgJZ3WBICkJlw==;EcvilcAzfubThKWkOHmd4A=="
 ---
