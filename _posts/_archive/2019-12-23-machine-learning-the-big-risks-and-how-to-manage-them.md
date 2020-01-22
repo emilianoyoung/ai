@@ -25,6 +25,6 @@ images:
     height: 281
     title: "Machine learning: the big risks and how to manage them"
 
-secured: "6Puk1Onj9NjgtfzsmnoZLv1Yd5ZwHvSZs1O58jIFXQYdHga9D65mvPziYeBhs23zAoduRYzHFu1mF5xKBPmEtmRklPFhycOdD+J8Za86c3cRKvuha6TfuGzAjhAB75yCXKg3xslhaDHDyZPg8CA0PMIv5rbabWMLDWq22QxFZF9xK329730k5U3Gy3DIBapVryjcR36xZX4rYFBeEJ/qZ1n5LCq/a0dHWufVRofXVPDFjoefjFGK+Bv4fXB2m/W7ifQQOxxwHl/PeullG0fyEVsMrjDvaqpwtX7a/NTQOE8=;gKBvqq8vGnnvaSIKEr1Uzg=="
+secured: "gBFfMzPRqOh8Rt8JznBuluZvM03uWkHCJcWB+2oU8Wuv38lL9fKWvQY5CnGk0wVQgGWzMonIpCc2mMZmdBW7g3sg9Of1UjNWHPWiaKO5jLOq2xZtXIy/bf4v5MuG8rNAmvd6ADAFZxBnBMygSb9Oxb8tqodJEbjSvElPqCPNtgaZcbCBPttaJEdG2z73z2H3BQuVNxleYwH6z2fz0U7thWZJi6FMa3ldAQVh2TD8Igprg5gA6b95B8hQtCvfm9fbvgjqqLocx+Plj2sQXA1ZNEjaLq09rr5oAMAhA6lh5Gc=;fwSiQ6BSgxtI7BH8KiGluQ=="
 ---
 

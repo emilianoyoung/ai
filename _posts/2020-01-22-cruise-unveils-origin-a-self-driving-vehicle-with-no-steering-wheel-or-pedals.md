@@ -146,6 +146,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
+  - title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
+    excerpt: "General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”,"
+    publishedDateTime: 2020-01-22T01:53:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise-idUSKBN1ZL03W
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 68
+    images:
+      - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479597925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L082
+        width: 818
+        height: 545
   - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
     excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
     publishedDateTime: 2020-01-13T00:26:00Z
@@ -176,19 +191,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
         width: 1200
         height: 751
-  - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
-    excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
-    publishedDateTime: 2020-01-22T02:22:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 48
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
     excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
     publishedDateTime: 2020-01-16T23:47:00Z
@@ -249,6 +251,21 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
+  - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
+    excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
+    publishedDateTime: 2020-01-22T06:49:00Z
+    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/
+    ampUrl: https://amp.detroitnews.com/amp/4530535002
+    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
+        width: 640
+        height: 480
   - title: "Designing better nursing care with robots"
     excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
     publishedDateTime: 2020-01-15T23:10:00Z

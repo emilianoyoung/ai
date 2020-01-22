@@ -23,6 +23,6 @@ images:
     height: 215
     title: "PTT, Mitsui team up for robotics, AI development"
 
-secured: "27EtV8hrgn9jt+Zyw+WUocKx2nAqtWKsbvCjE5Hs11DK2bCvfwf+5MwTNqbeWD6QodSPqsEoCnlMUts7JAzZWRsaqdU8sjPtSM8pUAfnyxp8UZLg/Q0z8JOvTCt1yY2hUHHE066bICXNojx8L5oxIZhSCA9wbaag/y6qVqMf2GUxSjjsIh3BMx7XngxYbaELw60xPrEDhRu6fgZDhbIJ8TBrW5I6G7rtHyGqQmIwGhwjIYhvK1/QCOwUOaEkRRWPorFx2sDpyWiaOtz0i/m3o/jj+vI8oYf8UkrFEQoaQTE=;Rrd+Z13wmyxiyq2kdV24YQ=="
+secured: "CWg5S6b8bsy9anHtmzkoztmEU6OhoCfUYOilQXXhv2zP+1K222JPXVO5Nl1urBE75aFsoTWsWAmuazuOMMGv2VQUBsqWuz7OOHmsgTW97gmzI8lSZX8FmoyVOMk9KNgyIumTiROpfjwm5JCcNCjrn9ckLdbJP2VK18gd93Cc2leS1+AWePwj8cSAGsIfV9x2ehk2zPSmteIlrQNTGkuBVev7b77LSvlc1nK8cEMIdCjTI4whxPnNOAm4cEjWehyGPMt+C3U8jNcZrjlxhGe8sxFAEjVAvQDEkJHvd4uw51M=;isKnhwC+CBLSV5yrjDLKNg=="
 ---
 

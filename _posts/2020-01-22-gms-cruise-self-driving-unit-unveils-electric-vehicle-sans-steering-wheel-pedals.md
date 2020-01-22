@@ -1,19 +1,21 @@
 ---
 category: news
-title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
-excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
-publishedDateTime: 2020-01-22T02:22:00Z
-sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
+title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
+excerpt: "General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”,"
+publishedDateTime: 2020-01-22T01:53:00Z
+sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise-idUSKBN1ZL03W
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
 type: article
-quality: 48
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
@@ -22,10 +24,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+  - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479597925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L082
+    width: 818
+    height: 545
+    title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -238,6 +240,21 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
+  - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
+    excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
+    publishedDateTime: 2020-01-22T06:49:00Z
+    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/
+    ampUrl: https://amp.detroitnews.com/amp/4530535002
+    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
+        width: 640
+        height: 480
   - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
     excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
     publishedDateTime: 2020-01-22T01:42:00Z
@@ -343,6 +360,6 @@ related:
         width: 1200
         height: 628
 
-secured: "PMaL0BpQoqMnytJp9u+GCS8dkir3zMrltrWmuhfBkiVcZbTrl0NLzh6OA1hMRK5+CVvaCKPofw5s6KLOn25cIRRPNa7VKe94MMYCAphDpCROpKOB545UZfTCNMbAybTraaHAnjP/oj8aNVoRucyDusfoiz2hDYBU9/d7OF2Lfp2l8SLh8w0tBd9pnAy2G/LPN6E4bvMC7yuhqEr8qxQJv3RVIneDNp6NZ2/NyXKvGbOSpI8KS+Ul5JwtgVguxf5xuCqM103QGNLjTecEmtmcjG+W0Ae2PpnVK4C4naWnlQ8=;4vEggnjWIFkfyZQQ/8fKwQ=="
+secured: "DXn2Eiyo/KIAjg8F+NOWEl6PxQrdXA8PrWNIfDqRW4xso2r/QtecntN6NeqdUlZzBEjsSrHAGgoduhRMQHn81QTLh07ODWoqSi5+dOK5GAehNtFx85/x8ICUNTkK8tCOKtC20Rqz9ffYMbjVXv3bg12q8xYDYt/GNq/UFx+NdyRZaeY5IIdZ8F1bjBDiWorzrQ63IWuMhmmVHYdOiNyDImD1iHb/zDFBlKN/gLOti3kFwOXTfMBSakt1VHLLi0WeEKtP8/96GFXuY0gZmmEJFSEbvX9pBlCMhRAX0ZyFYF8=;PtZlz4/UZbh8dnr1wF7jkg=="
 ---
 

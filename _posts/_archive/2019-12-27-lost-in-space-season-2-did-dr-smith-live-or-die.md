@@ -25,6 +25,6 @@ images:
     height: 678
     title: "‘Lost in Space’ Season 2: Did Dr. Smith Live or Die?"
 
-secured: "Ahjm0o4B/epLgc8KHJLrN7S7Ix94HrEZy1HMcL2ubLJreEfnKVcehschBow4vpNterqiiyjutlwm+87ZR4WOhvqvfyTZn7C7slpvlXua20uVC6HRtzWxBQzjdbWVjbKQYBWGGm2LC2TTVBmcB6NgkGKQBc2NZXgvv6eE1FOJt1k3KRIQ2JD+60Tx+jj5gAanUL1T4DPnnG6oaC2I11HD2vU/HxQL0cCeZUBOnFe6EPINZhHHsa9ILsdFPyietUD05XmjxMyRUxchPPAwh3JT8gCqzO1aDtlzZJD0+EtC6FQ=;0etjLyjxQM82JHE08Y1y6A=="
+secured: "eYKlLhv2DtWy+Zt//dLcjFJbNSkmg5RtqMTs/AcYaXCoXeR/gOs+tsJf9v111Ts553eB5NT8UwyA6y73uhpfzvPih6LDHyWZMLifcJj3BX1UJN222ABdX7TdlN/XvZSHGvJwcX2xPvKUAsNKS2mzGvwb+/BdNcQB9Qg1502yevibhXnu4UJHx4W/aqU3suWeNKonLfUfk8getwmbqAYZkjN0vJs3yZZ0o8eQialOpR0PMg5iUKMEdTSSpEaiNCMca11ED9O4s5FqRMZ6Rc/wnAazTpU338cVctiCvTK5vCs=;cLUdkuDtIoXkRBqwWf3a+Q=="
 ---
 

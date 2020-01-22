@@ -1,27 +1,21 @@
 ---
 category: news
-title: "HCL Launches Dedicated Microsoft Business Unit"
-excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
-publishedDateTime: 2020-01-22T04:09:00Z
-sourceUrl: https://www.siliconindia.com/news/business/HCL-Launches-Dedicated-Microsoft-Business-Unit-nid-211929-cid-3.html
+title: "HCL launches dedicated Microsoft business unit"
+excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
+publishedDateTime: 2020-01-22T05:12:00Z
+sourceUrl: https://www.newkerala.com/news/2020/10673.htm
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: New Kerala
+  domain: newkerala.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: https://www.siliconindia.com/news/newsimages/987CcGh6.jpeg
-    width: 570
-    height: 367
-    title: "HCL Launches Dedicated Microsoft Business Unit"
 
 related:
   - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
@@ -84,6 +78,6 @@ related:
       domain: techworld.com.au
     quality: 19
 
-secured: "NEUJEYML119JxnHRM+18S1biaqhRVPGIj5XFXotBTCA30k0cUuGuqS7QtyDF/oV1W8PZdBKgQbqbsLhXMu8YkJTYmSCrDb9eXDaQWNmadqcX6q5RZd2G1gCK0Bx2Az/QlTBI1Ib2sylIEvbXc/9nt/B2NFlGwaEpdm1KfDm18a/4bsgPZwyVrI1nqFPOVrgWMgXerExAs0upkoJbQ7zDPPulJ6u4AeuVTyvtEDROrhLSUGvdNoCj+O7vm1JL+50C6foVAYjqPQ9R37uCcVCdycropRoTylop9YTDYtnKy/ktgrF8SvHhbaiepSubq9FufW6gcRDOEwALL9WIt7OzdHopOTuQzyQV9spirdkb7hWUqyU7HOknFpBYLOC4ptiTj8qF/wgoRsFNj2r1Ti65LqnPnGXje+q/UZxyytwuU1H56YQym2JTVADxBQjYRmxLzZTB+VBjARg3mMJdxKfhbw==;LjIfalBu2bLow1rNqJc7KA=="
+secured: "KiScSWHrh0TLO8c4HvG702tfTZdjXXAatZbsUPhwP61yoySOUU5ybegblrYXvip47axhJVZ+OaNMXPVqU2mECCZqEUod3DvjJTCec5mL2W1QTVTShYXvKKwyLvYhqziP1BSHOvDrsK8PpiW6NqA50XxZNy9fKCHBsJ6lzT9QzlFuDZj2f4vmBezlcxkLTcv6dXoJ9+wn45dlJFba5k9Hk8tzUER09/NyK0QgKgBYtWrtMAjt1EnTQVES85uKASA9wx9o/8zSnF2y8ZqM4cxrIuvzTcaXcleH9817hIloplM=;Y1gRnLPI/OxFbDL+9BSgIA=="
 ---
 

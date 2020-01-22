@@ -5,7 +5,7 @@ excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was val
 publishedDateTime: 2020-01-21T14:05:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
 type: article
-quality: 35
+quality: 31
 heat: -1
 published: false
 
@@ -16,8 +16,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-  - AI in Healthcare
-  - Natural Language Processing
 
 images:
   - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
@@ -77,6 +75,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "UUzse9H65dmo3jIzQKCCAnAkX7EoajOmW1hRJ0OH2XDWN1+IHn7pRnpAk2cN//sflhptm9hZn+KjKIyJt8ypEiDBio6olxgtZYvKKQ1entFMn4I5So0zNDip473NZxf/oXW3EjJZaGnBGXqqU2todZYh5opkUQRAIPUBSmNECtrPVjK8JEAwbbwFMEGPSJGDjHwXo1zgrXXQTQ0ya2lSG96RdcgDzdeZVekp1f1CtlFUOBYdyEhwnzqjc8QsWH69gnxsCb0HWZjpD6zt7eTECrGY5bpGS6qKJAgdT9kBI2c=;NdOBOIfXF3bITy/3PXmK7Q=="
+secured: "woZKvZdsv4IqCTmALiCc1i/B6h0FKZGPwzfnIdGwyIO76eLAAuXlNkup/npotxQ/iAa5hs1974S67YaLAIbuaJXbJ6sWXPu+hHswxMaMguuxEq8Ejcv11jzp5z6+ZFOvRhWYL5YWlFF+qunzlNoIMT6/xzqHMFtatTUvbENsIqMBaQ73bY4DA7iru2B2FhxOUdmWqFp2SSbBR2yfAaSFBfUrxyz77wQWsZ0c1vc68/XwY2GXrmriQnsgrCDXh4QVgNt/OwThV2Ywwiw18+XOurZcNd8DZYSuqDbCkEJ4iqU=;sPs3eOYDmSFWL+THyDJ/rA=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
-excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
-publishedDateTime: 2020-01-17T10:49:00Z
-sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
+title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
+excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
+publishedDateTime: 2020-01-22T06:22:00Z
+sourceUrl: https://www.cmo.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/
 type: article
-quality: 54
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: MacTech
-  domain: mactech.com
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
-    width: 1000
-    height: 500
-    title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
+  - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+    width: 600
+    height: 246
+    title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
 
 related:
   - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
@@ -37,6 +37,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI chipset market predicted to grow a 30.8% CAGR through 2025"
+    excerpt: "The factors such as the emergence of quantum computing and rising in implementation of AI chips in the robotics industry have shown a positive impact on the growth of the artificial intelligence chipsets market over the forecast period. Research and Markets says the global artificial intelligence chipset market is segmented on the basis of ..."
+    publishedDateTime: 2020-01-17T10:49:00Z
+    sourceUrl: https://www.mactech.com/2020/01/17/ai-chipset-market-predicted-to-grow-a-30-8-cagr-through-2025/
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 54
+    images:
+      - url: https://www.mactech.com/wp-content/uploads/2020/01/AI.png
+        width: 1000
+        height: 500
   - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
     excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
     publishedDateTime: 2020-01-18T04:59:00Z
@@ -72,19 +85,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
-    excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
-    publishedDateTime: 2020-01-22T06:22:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 20
-    images:
-      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-        width: 600
-        height: 246
   - title: "Natural Language Processing Market : Dynamics, Segments, Size and Demand Analysis during 2019 - 2026"
     excerpt: "Global Natural Language Processing Market valued approximately USD xxx million in 2018 is anticipated to grow with a healthy growth rate of more than xxx% over the forecast period 2019-2026. The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural Language processing ..."
     publishedDateTime: 2020-01-20T07:54:00Z
@@ -95,6 +95,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "SdBwe533AKGy6VU/trVRoyzym5TghCiSDN8fNTeGlMoRKLckv5qMRCNcU212JN6CYrduaTHYbY6DDlPVNQAe8RpraEBDiS5vUGDjG13tbWwewWWLOlzSDf7UR5bHzYMUsVEtdLKgzzMN/L6aFuQV/AD3C4LLadmogfQobIz1aOUqsPbjt59+ONCoT49iYHnl9EQu7+RR+p9S0VrXLUBTnjW9ZLlnUHeJj1WyoAwkX8/eTrn/VJ4Ci1czMCOkX6wwA9RK5h8zxQQ7ZJkKz4DuBv8L2PT/Jmu+vbQWj4AhHZnAsKxxJB0+O26MR9cp/JP60A4qR1Z8DoUQwmoa+w2QRIEL/piG9F5cg9eo90/Q3n+vjH0iooM5mRfDIFPyZ/HYdiRYSldxah4IrFOm4HQd6AlkzT3/kaBOJ2VtmrAzkAWmKUsvNm28CZ1sTBdapmpBT59YQfCknad2rOF2z3v61w==;xg+FVz+WBvBlV8EIHT3kVw=="
+secured: "gaJgmXx1l2UTM7jcKwPz2rd/KU0XQXG/TK8Mjecu0qqwtmX9+5b1CxKaPd9ssqDNegvwvuOl0elKJJ15dpW0woX1pVDIAP+bj6TyFsLCRSqEDZH+leYqsXaJoKf0yob1AhE3n6hm6LH1bjv8da/+VselX4rqywB6WSIe+QDrs40hphzwnmPc+IWco3FehQAJcIKnfF+fhjW11t73/RD2pwknUFO7GQB+kv3wMhiukrKOOZBWHfb211vRxuuY6Z8NPXwaeccujqSrFD1ZU+YVqxFSBeuApAQDpRMAhnw46xU=;2cmMuc8rimocQs1fkCSGHg=="
 ---
 

@@ -48,19 +48,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "HCL Launches Dedicated Microsoft Business Unit"
-    excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
-    publishedDateTime: 2020-01-22T04:09:00Z
-    sourceUrl: https://www.siliconindia.com/news/business/HCL-Launches-Dedicated-Microsoft-Business-Unit-nid-211929-cid-3.html
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: https://www.siliconindia.com/news/newsimages/987CcGh6.jpeg
-        width: 570
-        height: 367
   - title: "HCL Technologies launches dedicated Microsoft business unit"
     excerpt: "Noida (Uttar Pradesh) [India], Jan 22 (ANI): HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the ..."
     publishedDateTime: 2020-01-22T05:21:00Z
@@ -74,6 +61,15 @@ related:
       - url: https://aniportalimages.s3.amazonaws.com/media/details/HCL_Tech_Microsoft_ItLLDIg.JPG
         width: 600
         height: 450
+  - title: "HCL launches dedicated Microsoft business unit"
+    excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
+    publishedDateTime: 2020-01-22T05:12:00Z
+    sourceUrl: https://www.newkerala.com/news/2020/10673.htm
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 19
   - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
     excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
     publishedDateTime: 2020-01-22T04:43:00Z

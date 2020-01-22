@@ -76,6 +76,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
+  - title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
+    excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
+    publishedDateTime: 2020-01-22T06:22:00Z
+    sourceUrl: https://www.cmo.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 20
+    images:
+      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+        width: 600
+        height: 246
   - title: "Natural Language Processing Market : Dynamics, Segments, Size and Demand Analysis during 2019 - 2026"
     excerpt: "Global Natural Language Processing Market valued approximately USD xxx million in 2018 is anticipated to grow with a healthy growth rate of more than xxx% over the forecast period 2019-2026. The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural Language processing ..."
     publishedDateTime: 2020-01-20T07:54:00Z

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Designing better nursing care with robots"
-excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
-publishedDateTime: 2020-01-15T23:10:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
+title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
+excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
+publishedDateTime: 2020-01-22T06:49:00Z
+sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/
+ampUrl: https://amp.detroitnews.com/amp/4530535002
+cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002
 type: article
-quality: 39
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI
-  - AI in Robotics
+  - AI in Autos
 
 images:
-  - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
-    width: 900
-    height: 300
-    title: "Designing better nursing care with robots"
+  - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
+    width: 640
+    height: 480
+    title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -249,21 +251,6 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
-  - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
-    excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
-    publishedDateTime: 2020-01-22T06:49:00Z
-    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/
-    ampUrl: https://amp.detroitnews.com/amp/4530535002
-    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
-        width: 640
-        height: 480
   - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
     excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
     publishedDateTime: 2020-01-22T01:42:00Z
@@ -279,6 +266,19 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-9822-jpg-1579655853.jpg?crop=1.00xw:0.743xh;0,0.151xh&resize=1200:*
         width: 1200
         height: 603
+  - title: "Designing better nursing care with robots"
+    excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
+    publishedDateTime: 2020-01-15T23:10:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/caoa-dbn011420.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
   - title: "Huawei looks to self-driving cars, inspired by Tesla"
     excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
     publishedDateTime: 2020-01-16T18:19:00Z
@@ -356,6 +356,6 @@ related:
         width: 1200
         height: 628
 
-secured: "NCKf+7y9mXLx6tvDH9pQw4t9dSvE5laKhfFhQVTTalDNPX46ImsuztK+5HgaMsxTRV6h+tcbwCa0HI0mkeev2QzceFPu5fzOh/sdBeukJ8A5CQqcWq3i4avYJ+gNfVU7Zi09R27ykxEsXON2qGZpvLt0SpN5CZyJD6d6Ub2Q8jIbFeZ8AFRCItqB2uphSwu7BBM9/SrD7613nwSvrLp/5Rd0umRRyAyYWAfPnS+vogRMPfyU19La38phqzmEyAbwxfxPtsf4lmS88v9XVICn9QiYc/ZSq38CTnuHFYb7RwI=;JQZWq+tq5sMrNO85lfnbjA=="
+secured: "drlkdECLT6rh55altFoC5mnmNRCObzidE+sZxIHiFzl2AkSvs3vh6cDRlVilGgZlXt9X++qM2trA7rYV480mB7l53L1RVxYBebOw/P/OKEIxk3nX3A55caGSYEl0BawYSyCAwVBkFPgzp4h9SsJ44KLG1IalC3x0WTso+LmlvOWXAp8EetfUMULG/LgpKpD5zRF804dXC8coGICd35h3V7sQMpTiijNOiUNRZbbLxPbuRanLMiCJCpNfOJ7zyUVi+wIPWH4lz1f+pm+syQCuyLYD+NpxF+GuTPMs5LqJ8CM=;KcIyH89a7XWAdDCmyel+1w=="
 ---
 
