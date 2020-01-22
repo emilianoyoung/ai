@@ -61,6 +61,19 @@ related:
       - url: https://www.siliconindia.com/news/newsimages/987CcGh6.jpeg
         width: 570
         height: 367
+  - title: "HCL Technologies launches dedicated Microsoft business unit"
+    excerpt: "Noida (Uttar Pradesh) [India], Jan 22 (ANI): HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the ..."
+    publishedDateTime: 2020-01-22T05:21:00Z
+    sourceUrl: https://www.aninews.in/news/business/hcl-technologies-launches-dedicated-microsoft-business-unit20200122104815/
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 39
+    images:
+      - url: https://aniportalimages.s3.amazonaws.com/media/details/HCL_Tech_Microsoft_ItLLDIg.JPG
+        width: 600
+        height: 450
   - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
     excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
     publishedDateTime: 2020-01-22T04:43:00Z

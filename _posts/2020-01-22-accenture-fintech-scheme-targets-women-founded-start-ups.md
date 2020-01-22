@@ -25,6 +25,6 @@ images:
     height: 312
     title: "Accenture FinTech scheme targets women-founded start-ups"
 
-secured: "xJQCJ9b3y5iMV/4xYr1CAekJ0/jRN2rma4PTXHlnmSBLm6Z29f0+PFYSuouvN5QM60pLTVD8iy+JtWG/H8Xn7rLpR85OkoawPTLjrB6r8mIOGO8uxIOyjDH1pjEsGNPGDDaUC/qovvI07dcmxwprONlH61S5pWBSV3PZtcFIjB9s+QpcJn+GQcchG7AGD+T1RxqYj++aVSxi4Fir0Se0E/dgNLQW0wLhVVMSP3JbStOCTcfR5U5+Rj/qR1+lLDObV/YhjfAhnfOXnGgzTleSemFn/JKMJP1qTOFtwytj7p0=;iHZVj03rb89Vo4hOxqiv6g=="
+secured: "/usOAZMxQ0djRGIFdmAXpAxR6kz8RoYlML7PvFglgWECBIlMPykWd+obrph2VCIsR8GnozEfS++YcI0lmTuqYYghLFyaNuTLg6grLCmWKCJAPTm2nkBc2lBuB9lJ7eIN/Chf91xKv1KX1QSyBpHyUEsXoF9pHhPY/8SGFXqpCp9F9KHrGKHDBXpmKMkyy4vePNKpdjAmNTXAly49/xnluUuT/1IrrwdBbFDws1raAFxNxuEzkTVbRwl/H10mMryPQmZmK7xkYnNgYsxbvB9/m3vMXXvdtpRX3OCTilx4z0B/P8vBcYqwaRxCFWWLjntDt6lJBi6MJieL/XKnAPtn9sxYk6v/A61UvffukGSo0qIeOJfNACX/kXQozvoBenOwMl+khML6mVZiMnV+0Bc0rEAH+rRXxHnpqU3Q7fVjyUX6wRLqxloloYkg11EkhPe7GlHwLIqI0yiYhUUw4cbo1w==;pBqW7uS3h/pfQnTvvZoQPw=="
 ---
 

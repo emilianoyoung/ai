@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
+    publishedDateTime: 2020-01-22T04:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Collaborative Robot Market 2019-2023: Key Findings, Regional Analysis, Business Trends, Emerging Technologies and Future Prospects"
     excerpt: "“Collaborative Robot Market” global collaborative robots market is expected to generate a market value of USD 3538.46 million by 2023 growing at a 54.22%"
     publishedDateTime: 2020-01-21T10:25:00Z

@@ -26,6 +26,21 @@ images:
     title: "The AI that allows self-driving cars to ‘see’ around corners"
 
 related:
+  - title: "There's nowhere to hide anymore: This AI can see around corners"
+    excerpt: "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ..."
+    publishedDateTime: 2020-01-22T05:11:00Z
+    sourceUrl: https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/
+    ampUrl: https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://cnet3.cbsistatic.com/img/exUfnlVhyXneSn2qZmf2J9UfJ-k=/756x567/2020/01/09/e0e4d486-f8d6-46bd-b260-426ee82d8d3f/rs-show-ces-2020-sld-laser-lights-holdingstill.jpg
+        width: 756
+        height: 567
   - title: "Researchers propose system that taps AI to see hidden objects around corners"
     excerpt: "To reconstruct the object from the speckle pattern, the researchers tapped an AI algorithm trained on synthesized data of characterized noise, which eliminated the need to capture experimental training samples. Crucially, it’s able to operate with the shorter exposure times necessary for real-time imaging, exaplined coauthor Prasanna ..."
     publishedDateTime: 2020-01-16T15:00:00Z
@@ -71,28 +86,6 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/17/09/23514880-0-image-a-98_1579253477085.jpg
         width: 636
         height: 382
-  - title: "Deep learning enables real-time imaging around corners"
-    excerpt: "Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars \"look\" around parked cars or busy intersections to see hazards or pedestrians. It could also be installed ..."
-    publishedDateTime: 2020-01-16T15:10:00Z
-    sourceUrl: https://phys.org/news/2020-01-deep-enables-real-time-imaging-corners.html
-    ampUrl: https://phys.org/news/2020-01-deep-enables-real-time-imaging-corners.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-01-deep-enables-real-time-imaging-corners.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
-  - title: "Report: Detailed, fast imaging of hidden objects could help self-driving cars detect hazards"
-    excerpt: "Researchers have harnessed the power of a type of artificial intelligence known as deep learning to create a new laser-based system that can image around corners in real time. With further development, the system might let self-driving cars “look” around parked cars or busy intersections to see hazards or pedestrians. It could also be ..."
-    publishedDateTime: 2020-01-16T20:29:00Z
-    sourceUrl: https://www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/
-    ampUrl: https://www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/amp/
-    cdnAmpUrl: https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-detailed-fast-imaging-of-hidden-objects-could-help-self-driving-cars-detect-hazards-18849-2020/amp/
-    type: article
-    provider:
-      name: Tunisie Soir
-      domain: tunisiesoir.com
-    quality: 28
 
 secured: "q53m3IwdSuXdUZb3tG9C9yMtvfIgOKLo7zEnp15SCfRMJ1R7x5epWAC3hd/15t6sajdpuuXChm7B1ppRMEtrxNXCt0GeD6bYrvCZoawGPZyKe27YYpNaWaXWHOtgqA5ZQZ2ydnXRKy7JCVf9b1+5faW4Dl5H1M9/JwMseFq6PdA1eMH9Jjwy+xJgOLE8yaCqueJanfiTjZN51ycmNuGRnZv7AOrmsripzMGDVk9HRx4ibA5nhJR6LS4yTr6s3nnu2RfsKAW/hzXeCHp3BIgOLM0LQVBIMv23oNhXf43oTmlv42RBa198QmeyA76q+ZV2pAvi7FMbKOaCTs0bFgN+ZfwRtVYcWg+x/cZJrAEF2n81kwwjPJkIMUHfEtiwUIwQlYxB7AiaVHKt9jqNvXainCvfWksjj0G+OCGJf6P+15CfadTZquWaLy3CyQ0jIe1Txte8O7gtSak/+46v3PBiiA==;EBJJjOig/LdEVUESmh1Swg=="
 ---

@@ -90,6 +90,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
         width: 600
         height: 350
+  - title: "G.M.’s Cruise Unveils a Self-Driving Car. Don’t Look for It on Roads."
+    excerpt: "The futuristic Origin, which seats six passengers and lacks a steering wheel, will require intensive testing and regulatory scrutiny before it can hit the streets."
+    publishedDateTime: 2020-01-22T05:02:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.html
+    ampUrl: https://www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: https://static01.nyt.com/images/2020/01/21/business/21cruise/21cruise-facebookJumbo.jpg
+        width: 1050
+        height: 550
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z

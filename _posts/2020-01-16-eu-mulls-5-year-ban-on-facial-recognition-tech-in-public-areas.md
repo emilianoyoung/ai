@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html
 type: article
 quality: 89
-heat: 459
+heat: 469
 published: true
 
 provider:
@@ -512,6 +512,19 @@ related:
       - url: https://x-default-stgec.uplynk.com/ausw/slices/8d1/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/8d18871f1b9b4c1781a22de73289bd7e/poster_74d992e1d3da49f3bc0cc1ce7922fe77.jpg
         width: 1280
         height: 720
+  - title: "Aussie entrepreneur launches “disturbing and unethical” facial recognition tech in Silicon Valley"
+    excerpt: "Founded by Hoan Ton-That, Clearview AI is a secretive Silicon Valley startup that has been reportedly operating in stealth mode for some time. It’s facial recognition app allows users to take a picture of a person and upload it, to access public photos of that person, and the sites on which they appear (think Facebook and YouTube)."
+    publishedDateTime: 2020-01-22T05:11:00Z
+    sourceUrl: https://www.smartcompany.com.au/startupsmart/news/aussie-clearview-ai/
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 26
+    images:
+      - url: https://www.smartcompany.com.au/content/uploads/2020/01/Clearview-AI.jpg
+        width: 681
+        height: 333
   - title: "EU may ban facial-recognition technology over fears of abuse"
     excerpt: "Foo Yun Chee The European Union is considering banning facial-recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial intelligence and widely used by law ..."
     publishedDateTime: 2020-01-17T03:40:00Z

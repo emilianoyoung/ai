@@ -521,6 +521,19 @@ related:
       - url: https://x-default-stgec.uplynk.com/ausw/slices/8d1/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/8d18871f1b9b4c1781a22de73289bd7e/poster_74d992e1d3da49f3bc0cc1ce7922fe77.jpg
         width: 1280
         height: 720
+  - title: "Aussie entrepreneur launches “disturbing and unethical” facial recognition tech in Silicon Valley"
+    excerpt: "Founded by Hoan Ton-That, Clearview AI is a secretive Silicon Valley startup that has been reportedly operating in stealth mode for some time. It’s facial recognition app allows users to take a picture of a person and upload it, to access public photos of that person, and the sites on which they appear (think Facebook and YouTube)."
+    publishedDateTime: 2020-01-22T05:11:00Z
+    sourceUrl: https://www.smartcompany.com.au/startupsmart/news/aussie-clearview-ai/
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 26
+    images:
+      - url: https://www.smartcompany.com.au/content/uploads/2020/01/Clearview-AI.jpg
+        width: 681
+        height: 333
   - title: "EU Considering Banning Face Recognition Technology In Public"
     excerpt: "The BBC is reporting that the EU is considering a five-year ban on facial recognition in public faces for up to five years. Regulators want to establish whether the technology is being misused and are considering new legislation to govern the technology."
     publishedDateTime: 2020-01-20T13:53:00Z

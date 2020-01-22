@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibm
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/
 type: article
 quality: 103
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -121,6 +121,17 @@ related:
       - url: https://cdn.pulse2.com/cdn/2020/01/IBM-Automation.jpg
         width: 1200
         height: 693
+  - title: "IBM’s Watson now powers ad optimization with new Advertising Accelerator"
+    excerpt: "IBM says this exceeds traditional dynamic creative optimization ... with the announcement of Advertising Accelerator with Watson. This is the first use of Watson’s AI for ad creative optimization. It utilizes Watson’s massive intelligence toward ..."
+    publishedDateTime: 2020-01-08T00:00:00Z
+    sourceUrl: https://www.clickz.com/ibms-watson-now-powers-ad-optimization-with-new-advertising-accelerator/259316/
+    ampUrl: https://www.clickz.com/ibms-watson-now-powers-ad-optimization-with-new-advertising-accelerator/259316/amp/
+    cdnAmpUrl: https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/ibms-watson-now-powers-ad-optimization-with-new-advertising-accelerator/259316/amp/
+    type: article
+    provider:
+      name: ClickZ
+      domain: clickz.com
+    quality: 38
 
 secured: "EzS7T379gK4eOakMar2uSe83jFMF/DSd8Z5XVVSzaYw2jpjVc5M8/LUEmVvj1EU0NwuQZ+vAZzUY+3wUxk286zqjpIJFE9nJaL9ufK7dcI6St2ewWzGJ1mfz+6vdZ1g91Ow+Vk2xOWGVwKqduoqOGQLzGjqVjzR28XLyH5JFmch0NTC6Sm3bnkD2PlYqSLEVNWHHwk26s0e/qMS3Lfk4he7rmOj++KS1avMcnJC24HEWSB1dT57JPvg3f5TWDHaqMHo2UYws1nXl/kw7fbfYlbfnBwq+iyURipOZYTDduD/r9XHXMufF9kQBi6r5vItQfPJ7if1Uw+w2gbI9pOJ9Djt/PA0w3T+LRl9kUSTUxQ0LH62mDoWKL6iLjXdd3UgUMOWM/KGhil452gedARRCAcEznjN8wIJIibvEMYwz2cxEZvluG6XUckG0Mtqt5PlX7ijl+0sCbQb//N5ixlbagQ==;W2ZbB11Ly8Jt/3GpE67p9g=="
 ---

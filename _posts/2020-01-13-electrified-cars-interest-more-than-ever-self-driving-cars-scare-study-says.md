@@ -105,6 +105,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 470
+  - title: "G.M.’s Cruise Unveils a Self-Driving Car. Don’t Look for It on Roads."
+    excerpt: "The futuristic Origin, which seats six passengers and lacks a steering wheel, will require intensive testing and regulatory scrutiny before it can hit the streets."
+    publishedDateTime: 2020-01-22T05:02:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.html
+    ampUrl: https://www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: https://static01.nyt.com/images/2020/01/21/business/21cruise/21cruise-facebookJumbo.jpg
+        width: 1050
+        height: 550
   - title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
     excerpt: "Cruise co-founder and CTO Kyle Vogt said Friday that disengagement reports released annually by California regulators are not a proxy for the commercial readiness or safety of self-driving cars. Vogt, in a lengthy post on Medium, called for a new metric to determine whether an autonomous vehicle is ready for commercial deployment. The post ..."
     publishedDateTime: 2020-01-17T21:35:00Z

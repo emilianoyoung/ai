@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T19:53:00Z
 sourceUrl: https://www.channelnewsasia.com/news/singapore/singapore-unveils-new-initiatives-to-build-consumer-trust-in-12297508
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,23 @@ images:
     width: 991
     height: 557
     title: "Singapore unveils new initiatives to build consumer trust in artificial intelligence at WEF"
+
+related:
+  - title: "Singapore releases latest AI Framework edition to improve governance and trust"
+    excerpt: "Almost a year to the day since the Singapore government released its first edition of the Model AI Governance Framework, a second edition has been announced at the 2020 World Economic Forum (WEF), aimed at improving consumer trust on the use and governance of artificial intelligence (AI). The updated version [PDF] of the Model AI Governance ..."
+    publishedDateTime: 2020-01-22T04:14:00Z
+    sourceUrl: https://www.zdnet.com/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/
+    ampUrl: https://www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: https://zdnet2.cbsistatic.com/hub/i/2020/01/22/0d371627-35ec-44a9-83fe-7238305ce185/singapore-model-ai-governance-framework-second-edition-compendium-of-use-cases-pdf1.png
+        width: 913
+        height: 582
 
 secured: "4HOWMUAz/sqVmeZ0a/DgJrOeSFlhUuvYoKwRCZrOvLXQrfbkifkaG/67sp3ZUgo9OIJbwCCVdixntzuAvW6mL/Z9XVDnZW48le2UDtZCEoPXO5HuWDnPZ4ecshRsTtHmtixPiHPEMzo+j7CgrW/eYpRIKRfn/A7uXvFu0Iz4s5NokHElO4emwJ6HU8Ds5ZOsejMDx4UnQ26d4VbDO2fbz7iGuamzDscb7As9a9AY4b2ZfGE8TPz3CPqJycL/SeAsFvO3PhQhjiFGVShvcl/0tJMbr8QY5iG2ruxL0UhKF4V162xYMGn2OQIFdv1Ra2uRwF0yfkXIigbPbXmd/GWQgRDYo+VdPyMFkfgaGA9osoQsCHSQVsWrddwLMO1HgYX23SrAHCqO9+S3p1yrXTj3aYORYVsTaFpYuPmcbE8TaGEf01IEA8//hg3tGWVwubbr0e8skiJGqsWi8AfH5ke9WA==;buq6BzXg1iETGP/JI3HCkg=="
 ---

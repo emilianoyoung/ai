@@ -99,6 +99,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 470
+  - title: "G.M.’s Cruise Unveils a Self-Driving Car. Don’t Look for It on Roads."
+    excerpt: "The futuristic Origin, which seats six passengers and lacks a steering wheel, will require intensive testing and regulatory scrutiny before it can hit the streets."
+    publishedDateTime: 2020-01-22T05:02:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.html
+    ampUrl: https://www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/cruise-gm-self-driving-car.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: https://static01.nyt.com/images/2020/01/21/business/21cruise/21cruise-facebookJumbo.jpg
+        width: 1050
+        height: 550
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z

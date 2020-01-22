@@ -121,6 +121,17 @@ related:
       - url: https://cdn.pulse2.com/cdn/2020/01/IBM-Automation.jpg
         width: 1200
         height: 693
+  - title: "IBM’s Watson now powers ad optimization with new Advertising Accelerator"
+    excerpt: "IBM says this exceeds traditional dynamic creative optimization ... with the announcement of Advertising Accelerator with Watson. This is the first use of Watson’s AI for ad creative optimization. It utilizes Watson’s massive intelligence toward ..."
+    publishedDateTime: 2020-01-08T00:00:00Z
+    sourceUrl: https://www.clickz.com/ibms-watson-now-powers-ad-optimization-with-new-advertising-accelerator/259316/
+    ampUrl: https://www.clickz.com/ibms-watson-now-powers-ad-optimization-with-new-advertising-accelerator/259316/amp/
+    cdnAmpUrl: https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/ibms-watson-now-powers-ad-optimization-with-new-advertising-accelerator/259316/amp/
+    type: article
+    provider:
+      name: ClickZ
+      domain: clickz.com
+    quality: 38
 
 secured: "4nsOlhtQDxilyZYKJVm5WYdDuxzD/nJ+iQYHswKAxDxF3U+PBIWreYbBTq1i5jlIjZTLnzTKx2zd7ciXvCr83h7dFkDWSbmMm662ZzLAz850JpmzLun38mk1QOtsVPlcpe2CorP9sSlpkOjv0bDjEa8jJDz0rwtDgEgfbECt6iYyWurvyppRNNBEx38tTSPnHZsFPXB/Mby2N3AmGkbYEAUNbYF8x2upi5dVlwvuQMgJxG747tUB0Y3/Ovk74tRaOK/pOH/jkDmkEUtgizWsX380vM4PCyi0LsrKfipze08PIH8UpPehQUQksfvN4zpDiAt9kHQ4SwHFj4HSiMQTF3l73pkJo5txT9/1oC4a0yjAZsJy4NZrpMeUXF1Nv/b11puqRt+0gIeJvlpI9nx2W6/8t78u12/20VSCfD985GFL0O2ikoy3VmtUSPW1ow0NQ5nmzAfF7oQJuIVUxJaesQ==;cSHS5jpQJHgDTkKU8cpDyw=="
 ---

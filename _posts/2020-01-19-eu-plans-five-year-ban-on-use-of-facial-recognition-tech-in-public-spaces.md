@@ -251,6 +251,21 @@ related:
       - url: https://images.tweaktown.com/news/7/0/70038_01_spends-4-5m-heat-based-facial-recognition-works-500m.png
         width: 620
         height: 329
+  - title: "Chinese city uses facial recognition to shame pajama wearers"
+    excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
+    publishedDateTime: 2020-01-22T04:50:00Z
+    sourceUrl: https://www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/
+    ampUrl: https://www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: https://static.seattletimes.com/wp-content/uploads/2020/01/01212020_nightgownbiker_214352-300x258.jpg
+        width: 300
+        height: 258
   - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
     excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
     publishedDateTime: 2020-01-20T06:48:00Z
@@ -309,6 +324,19 @@ related:
       - url: https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg
         width: 1920
         height: 960
+  - title: "Clearview AI facial recognition tool being used by more than 600 US police agencies"
+    excerpt: "The New York Times published a lengthy profile on Sunday of a company called Clearview AI that has developed a breakthrough facial recognition app ... is a database of more than three billion images that Clearview claims to have scraped from Facebook, YouTube, Venmo and millions of other websites—goes far beyond anything ever constructed ..."
+    publishedDateTime: 2020-01-22T05:49:00Z
+    sourceUrl: https://www.wsws.org/en/articles/2020/01/22/face-j22.html
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 50
+    images:
+      - url: https://www.wsws.org/img/open-graph-icon.png
+        width: 1500
+        height: 785
   - title: "Chinese City Uses Facial Recognition to Shame Pajama Wearers"
     excerpt: "Local officials apologized, but the crackdown on a common — and comfortable — practice has raised a rare outcry over privacy in a country accustomed to surveillance. BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,"
     publishedDateTime: 2020-01-21T15:50:00Z

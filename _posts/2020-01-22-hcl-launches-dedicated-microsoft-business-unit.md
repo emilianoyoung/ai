@@ -48,6 +48,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "HCL Technologies launches dedicated Microsoft business unit"
+    excerpt: "Noida (Uttar Pradesh) [India], Jan 22 (ANI): HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the ..."
+    publishedDateTime: 2020-01-22T05:21:00Z
+    sourceUrl: https://www.aninews.in/news/business/hcl-technologies-launches-dedicated-microsoft-business-unit20200122104815/
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 39
+    images:
+      - url: https://aniportalimages.s3.amazonaws.com/media/details/HCL_Tech_Microsoft_ItLLDIg.JPG
+        width: 600
+        height: 450
   - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
     excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
     publishedDateTime: 2020-01-21T12:47:00Z
@@ -71,6 +84,6 @@ related:
       domain: techworld.com.au
     quality: 19
 
-secured: "3CnKqXCdExZTVGiamknBeAyCaT0E2BtHwLNy7xV2Ib0Dk+V10XPzbYVjpWuZOHh8oXAxZHR/jNDo25y2B2rfGf7cRzOZcYxzWAfh6IZ0aPLGDG9FKUbxF4j3BJDbrfiFbCu/mBAsmMut/mDOqIy/AxJXSOLZfhy3MfHP2OBPeHuBVCPJJ7ALjWf6Ez2IsrlYUH6GUH8V1DIaZq65vIXYnGgPThoJUYgx6w1U29CpGgcOSe7tPfPkob2glWxLMKzDsmqjpUaB6ixR9ZitN9rxoA0qtWcqwMO3Hd5RudQvOgI=;tMmp7EDvqBESnGM1JwegVA=="
+secured: "NEUJEYML119JxnHRM+18S1biaqhRVPGIj5XFXotBTCA30k0cUuGuqS7QtyDF/oV1W8PZdBKgQbqbsLhXMu8YkJTYmSCrDb9eXDaQWNmadqcX6q5RZd2G1gCK0Bx2Az/QlTBI1Ib2sylIEvbXc/9nt/B2NFlGwaEpdm1KfDm18a/4bsgPZwyVrI1nqFPOVrgWMgXerExAs0upkoJbQ7zDPPulJ6u4AeuVTyvtEDROrhLSUGvdNoCj+O7vm1JL+50C6foVAYjqPQ9R37uCcVCdycropRoTylop9YTDYtnKy/ktgrF8SvHhbaiepSubq9FufW6gcRDOEwALL9WIt7OzdHopOTuQzyQV9spirdkb7hWUqyU7HOknFpBYLOC4ptiTj8qF/wgoRsFNj2r1Ti65LqnPnGXje+q/UZxyytwuU1H56YQym2JTVADxBQjYRmxLzZTB+VBjARg3mMJdxKfhbw==;LjIfalBu2bLow1rNqJc7KA=="
 ---
 
