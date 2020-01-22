@@ -531,6 +531,6 @@ related:
       domain: sfgate.com
     quality: 17
 
-secured: "OaXi+xxjjgw8LgjlOI1p87TkNowKuifVtHzSEx519aaAVcwF2kab5tD21SEtBJjbH6VHsbb0d4tNlY2vAqi0Hli+uQk+AaRxaqe+SpaUl8563QZJW3nJFNQjxF1oUWoVRo3VvNgF1dEWWlMgPD1dtITcL0ElwZLJ6YmEsZrRex6PvgqnIDRYbMwzZFnzP/+uwJomfloDj4z54EzMPcq5YjviVvM8IxgTRhww8zrACzai0a/phjKhlOhxr53+LIu4G5mMSxRKJDIesMlsbTgMnooLI8kpfHtCwAnUmmWfpCI=;peAwQg5iZGLsJh7O7Lql4g=="
+secured: "w/fFTJytLNYvh3GUs8mnGj34wCXqRIGgrESZodDsD9PhznIRALhuaq+vt31ofbnR4QIVnFe/FJuiceyMo2V3z7hc9YeZeCBliNOYV2UVHZPp4e424ZkuZ3ZEcZLL6NeO/d/SW8Tit8G9aETH5j5C22LCAiDiH402lWRKUb/Ihku+6lJe3kgpcKpg5AKH1hG2b27T2uaW46KsKOg8AfIablxDd2szek1b3kFTcvyTRpjdThhsEEbno0QGPyx0iE/G/6aA5Z9rUSvuj/6bBsEQTUCSO5ipnYtv4rs0dPnkEbA=;467dOnG61hRgeeUs7OMwbg=="
 ---
 

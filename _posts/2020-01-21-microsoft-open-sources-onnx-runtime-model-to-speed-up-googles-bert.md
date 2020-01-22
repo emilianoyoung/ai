@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/21/microsoft-open-sources-onnx-runtime-m
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/microsoft-open-sources-onnx-runtime-model-to-speed-up-googles-bert/amp/
 type: article
 quality: 91
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -41,11 +41,39 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 74
+    quality: 91
     images:
       - url: https://zdnet1.cbsistatic.com/hub/i/2020/01/21/875b8c65-4f5f-486c-8179-9d5bc4aa4d5e/onnxoptimization.jpg
         width: 954
         height: 719
+  - title: "How Machine Learning Uncovers Opportunities For Business Optimization"
+    excerpt: "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;"
+    publishedDateTime: 2020-01-22T14:26:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale
+        width: 711
+        height: 494
+  - title: "Returning to experiments with Machine Learning and the Premier League: Relative Performance"
+    excerpt: "Following on from this piece where I was experimenting with machine learning in Python to predict performance of teams in the English Premier League (EPL), as promised I have been been running the script after each round of games to produce a predictive table. During this time I made some observations and some additions to the model due to the ..."
+    publishedDateTime: 2020-01-20T21:00:00Z
+    sourceUrl: https://medium.com/@m.harrison79/returning-to-experiments-with-machine-learning-and-the-premier-league-relative-performance-1d724afe52b0
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 59
+    images:
+      - url: https://miro.medium.com/max/1200/1*2r3u6o9a4zCY7VY17QoG2g.png
+        width: 1200
+        height: 474
 
 secured: "ImHOHID0r/q+Gk6BtiZi9EbBSXTe+wdN7jOMHeLwbuXF2ggcYJ2KgYkJU0tkmjPd75kUR3BCaPEsgo8kJHn2Yt7p0WgCPOBfZVdyC0+uRl/M2BUcp32aaoidgqIDWreBlBRXWwG+nScXrYLZwF4i1hhqXYWL4E+s5KHg8SYi4hNsrC0uxUjdF/JT1N+PJIBKD23HDXI8rpjaa2uqYDXUyUiMMS0laZfU3CEyIWxkSBc5PvIz2X4I1RmFb2adkkTuN8Aqnbrl4RBJovVQ4qfSoQSouW/6eaB3nEYdNEOjr34=;tEqaiBQcm0SD1s1sT0mrUA=="
 ---

@@ -29,6 +29,6 @@ images:
     height: 578
     title: "Facial-Recognition Technology Doesn't Have to Destroy Privacy"
 
-secured: "pm0s+LaYppFCQLhPHyTNSs9rtuBP70FV4Y3izdcuBenDW4idWl6Xdl55B+o/YlfnerguQ4Od081VHpPFF+tV3np0PecsQGotfg2Ub9rKxvHOXP0ysNzLShBMPVz5nW07CwAyfG96SwR2xgmeY634AP4GQVE4kOFtRipFqT+o4OZ75Nk/sMHbKyDosD4Tt5dD+vn09LtNGsGgfP9+BsCHRTq/vjBTAK3UjCae29DJZTUqNAj6Bgih/HwshhbIoM/7t3MkzlgN4xsQPYhThRmMili3alQKWjrOaw4qszIeQso=;qyjePk0g+JXYWOh9AvvhDA=="
+secured: "dXA1NtiqVgX62v8s87ZGxmw6aDNBeWvW7thaSD2LQ8wtA7oNu4AdCcc2Ijq3mTSU1++IxIDIxb+KG/xU00pnI5tF/M/DrE/X1mwcAb7IdpwtAAAMt1ESyL51OvgwyGCsJ8lDZNv/bLj/64VBNxSkRrTSlBvOeiOco+Pvs7tys4PO/UglxmYJu4k4S/alyOZv68OqHZHB0+WtPjtrrYBexyeO/LEkVQUfPWfAH+9a4rZK/idrEZBgIct6R9OAvIk3m8HwL/Cj8kd4GPnVe4pgnrcPVhlTffOmp/v768//iIX+iP04hqgW4jlCHr9hezdsMRPUytbuJfpbi8kV/pmBeIfmX0Pqzyx1k67ELJLemfT7aRRLiUuMy8NtY3moyyvTKUAZsXqAhRCp5wx1pVD89UpLusz3x5mWr9FbtRgSpN/mG3bZCVy8rZACY9vAcfRgjElnNJ4fjIurUlo5hrFfWw==;3ek+voAPOK/VOTQOKffMXQ=="
 ---
 

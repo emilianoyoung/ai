@@ -273,6 +273,21 @@ related:
       - url: https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg
         width: 300
         height: 225
+  - title: "Telangana State Election Commission successfully tests facial recognition technique"
+    excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
+    publishedDateTime: 2020-01-22T17:19:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 53
+    images:
+      - url: https://www.thehindu.com/news/national/telangana/ndpq8/article30627826.ece/ALTERNATES/LANDSCAPE_615/FACIALRECOGNITIONAPP
+        width: 615
+        height: 384
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z

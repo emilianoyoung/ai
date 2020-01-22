@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-le
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,21 +30,49 @@ images:
     title: "How Machine Learning Uncovers Opportunities For Business Optimization"
 
 related:
-  - title: "How Are Businesses Taking Advantage of Machine Vision Today?"
-    excerpt: "It’s easy to confuse machine vision with computer vision. Not only do the terms sound a lot alike, but they are closely related. There are, however, important distinctions between the two."
-    publishedDateTime: 2020-01-17T16:55:00Z
-    sourceUrl: https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
-    ampUrl: https://themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
-    cdnAmpUrl: https://themoderatevoice-com.cdn.ampproject.org/c/s/themoderatevoice.com/how-are-businesses-taking-advantage-of-machine-vision-today/
+  - title: "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers"
+    excerpt: "Many of the deep learning models from Microsoft's Project Turing-- machine reading comprehension for the semantic search portion of Microsoft Search -- runs on the ONNX runtime, as well."
+    publishedDateTime: 2020-01-21T18:36:00Z
+    sourceUrl: https://www.zdnet.com/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/
+    ampUrl: https://www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/
     type: article
     provider:
-      name: The Moderate Voice
-      domain: themoderatevoice.com
-    quality: 44
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
     images:
-      - url: https://themoderatevoice.com/wp-content/uploads/2020/01/Robotic-Vision-macrovector-Freepik-.jpg
-        width: 800
-        height: 800
+      - url: https://zdnet1.cbsistatic.com/hub/i/2020/01/21/875b8c65-4f5f-486c-8179-9d5bc4aa4d5e/onnxoptimization.jpg
+        width: 954
+        height: 719
+  - title: "Microsoft open-sources ONNX Runtime model to speed up Google’s BERT"
+    excerpt: "... is the result of a collaboration between Azure AI and Microsoft AI and Research. “Since the BERT model is mainly composed of stacked transformer cells, we optimize each cell by fusing key sub-graphs of multiple elementary operators into single kernels for both CPU and GPU, including Self-Attention, LayerNormalization and Gelu layers."
+    publishedDateTime: 2020-01-21T18:11:00Z
+    sourceUrl: https://venturebeat.com/2020/01/21/microsoft-open-sources-onnx-runtime-model-to-speed-up-googles-bert/
+    ampUrl: https://venturebeat.com/2020/01/21/microsoft-open-sources-onnx-runtime-model-to-speed-up-googles-bert/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/microsoft-open-sources-onnx-runtime-model-to-speed-up-googles-bert/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1.jpg?fit=1800%2C859&strip=all
+        width: 1800
+        height: 859
+  - title: "Returning to experiments with Machine Learning and the Premier League: Relative Performance"
+    excerpt: "Following on from this piece where I was experimenting with machine learning in Python to predict performance of teams in the English Premier League (EPL), as promised I have been been running the script after each round of games to produce a predictive table. During this time I made some observations and some additions to the model due to the ..."
+    publishedDateTime: 2020-01-20T21:00:00Z
+    sourceUrl: https://medium.com/@m.harrison79/returning-to-experiments-with-machine-learning-and-the-premier-league-relative-performance-1d724afe52b0
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 59
+    images:
+      - url: https://miro.medium.com/max/1200/1*2r3u6o9a4zCY7VY17QoG2g.png
+        width: 1200
+        height: 474
 
 secured: "CDL1VUYzCJ7sdZH98kaJ37pvdaFcz/cIGQiIedPOz0hCOh2aN4CtAVLRRjihA3YUMESvb82weK7iFb1TRTWJqehq7WxhDeQuHQp0QdFPB2w4DZVwSvUEcZPlShM2xw/9B2zaoILT+DYQpoIRvpZXU965q/cZkvIiEP7o3bd25FfxgvWjblBGZev4Pd1KPhfnLhrQNHcZGi867p1QKUtmkYeuKMpImF+dYhnKGLjRLEVc3gBhwpr9/2VWMDi0bZCegHLrsSDzQo7gksftum2VUXDgE2wCdKbfQJx5CVExp6mIJ4dCaKADBViuyQk9+4oAtWhy+L39mVfwcZz0wdf9e0cRV5HboiD/86BArJMJGp0pmceDUO+QHT32Qq22wVgj7hwOXYKy6vT5RI1ugeknHJIXsYgkkd1DqaS1cFg54zZETL23rWHEkOFdkGJt2jL9HRP+8c02z9gw5OHC1lHn/A==;OTZI3Kd9VJfTn+xd/pd1Uw=="
 ---

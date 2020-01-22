@@ -288,6 +288,21 @@ related:
       - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2019/11/7/737f7651ea7044cca6269f4f9417d6d0_18.jpg
         width: 583
         height: 325
+  - title: "Telangana State Election Commission successfully tests facial recognition technique"
+    excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
+    publishedDateTime: 2020-01-22T17:19:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 53
+    images:
+      - url: https://www.thehindu.com/news/national/telangana/ndpq8/article30627826.ece/ALTERNATES/LANDSCAPE_615/FACIALRECOGNITIONAPP
+        width: 615
+        height: 384
   - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
     excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
     publishedDateTime: 2020-01-21T19:10:00Z

@@ -71,6 +71,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg
         width: 640
         height: 640
+  - title: "GM-owned automaker unveils first self-driving vehicle"
+    excerpt: "Jan. 22 (UPI) --Self-driving carmaker Cruise has unveiled its first autonomous vehicle -- called the Origin -- and said it could be a look at ride-sharing fleets of the future. The Origin was revealed Tuesday in San Francisco after a six-month delay for more testing. Cruise is a subsidiary of General Motors. Cruise said, however, the Origin is ..."
+    publishedDateTime: 2020-01-22T17:31:00Z
+    sourceUrl: https://www.upi.com/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
+    ampUrl: https://www.upi.com/amp/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
+    cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2
+        width: 800
+        height: 533
   - title: "BMW and Daimler's self-driving venture may attract Fiat Chrysler"
     excerpt: "BMW and Daimler's self-driving car venture may attract more partners, with Fiat Chrysler Automobiles NV a front-runner to get on board at a time when the German automakers are working to select suppliers by the end of the year. While many car-component makers are hesitant to put large sums toward the development of highly automated driving due ..."
     publishedDateTime: 2020-01-16T20:52:00Z

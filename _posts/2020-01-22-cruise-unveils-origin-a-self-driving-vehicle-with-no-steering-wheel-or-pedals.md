@@ -311,19 +311,34 @@ related:
         height: 480
   - title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
     excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-    publishedDateTime: 2020-01-22T14:28:00Z
-    sourceUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
-    ampUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+    publishedDateTime: 2020-01-22T15:47:00Z
+    sourceUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
+    ampUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 44
     images:
-      - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
+      - url: https://www.orlandosentinel.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
         width: 1200
         height: 800
+  - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
+    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
+    publishedDateTime: 2020-01-22T17:23:00Z
+    sourceUrl: https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/
+    ampUrl: https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 40
+    images:
+      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Cruise-Origin-Self-Driving-Pod-Loading-Passengers.jpg
+        width: 2048
+        height: 1152
   - title: "Designing better nursing care with robots"
     excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
     publishedDateTime: 2020-01-15T23:10:00Z

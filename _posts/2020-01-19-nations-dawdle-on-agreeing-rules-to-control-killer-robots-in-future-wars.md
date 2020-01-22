@@ -54,6 +54,19 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/17/15/23526948-0-image-a-121_1579274069115.jpg
         width: 636
         height: 382
+  - title: "‘Rise of the killer robots: the future of war’"
+    excerpt: "Sir , – Laura Nolan deserves great credit for protesting Google’s role in the development of the US military’s artificial intelligence project Maven and for lobbying for a United Nations treaty to ban autonomous weapons (Joe Humphreys, “Rise of the killer robots: The future of war”, January 16th). Ms Nolan says she thinks that with ..."
+    publishedDateTime: 2020-01-20T00:30:00Z
+    sourceUrl: https://www.irishtimes.com/opinion/letters/rise-of-the-killer-robots-the-future-of-war-1.4144365
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg
+        width: 1080
+        height: 564
 
 secured: "B7TNvy8KTtuqlfvJwiHnGvDfX+HVXF95TobZRykohbj5Y5AkCvzs8gX74Tq+kVjcR28hYNjHNlm3gZGNbh/odWxS5Vcj7hE/SlvwIdLAPtaxea1l85ZKlfcs/FAg9vcvjcjdH5wU/EFPDeAy24fRqndG7cuQd4JllNgnHclwHeuMVT+CWu6AfdPpl/sqI/QUOm0lmAOo+LAkAF02SzVkMeupn/avyMTyubGtQrSmEo2UY3Pgp+2eBJpWLZjOFJ1FG3qB0dX3i8Veu6aXKQSwV852GK61mCO+9BYap94mH7k=;CC3n7eFM6picED4U+Nf/Gw=="
 ---

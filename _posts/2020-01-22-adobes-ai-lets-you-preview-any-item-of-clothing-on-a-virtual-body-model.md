@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Adobe’s AI lets you preview any item of clothing on a virtual body model"
 
-secured: "rlgnnzsdiKGX1JCrpyrs8DG/haUxvGL0O5+mD6c0Zgmc0h/ZeIQFCi+ONd+MSfNvL3cc44RyyyBQF24Prr0xmeJTlpmYI21zQIvKO295b3O1J3dgYj8repTF2xaekHlbViyarMo7/KPOC7zmGik0vWlHjM+Z9Y+VRJ4wgAKkOc3lwRfjy1EInqqt3FHvJX0WApJizwf/FSnCGpYPFHtk3sGyaLP7kbVUTggGnxmnCWzqhQ03G5552Ppwxt7f1Qo1y63JQOySDJQdj21FrzhZnCdDVqxtrG+ut0v6IHHDVww=;uwLENMpya95Vp7tXmUCXJg=="
+secured: "WwYGNvUiMbsNAx28jNcmQ2sBUNDFaPHcyYtvDZzbxkq6w60akRYrEHRfQRh5+mUUgDyg43+FC8ZF+fgwLTTK/s/VwyT2VMQQR/o0U2ZpcJDn1LA77vgoPjh9k81eTpGSMRrneDDxywlGValIBtaeV2yjRo/tdtNq3DksyqyUcQbRn5RV71JQPHAAJM5xZRtH7pPpAKMa5ADkOSiL0P9W/r2qMZFnQtUD8UGTE5v/lQZR3NflSDT1Py+XV3ZJb4niKE7FycmYjQN6NtDYYNZmk7VTd4ZmrpScmaCLkB8hWJL7RkcFJLdLi6FySMm4EP1nQA0DDWMPTIALFRo9oEdxtwS+5X83yLd2n1o8hEAzu7mVylvrhnyc1GIoYJlyymMvnfTlRZPHNsZKbINcIDxzHuJ9JyVmWygyeKDlEjFU2Di/7mSzuTo3UHY0/+ZWtR8A9qgwA8+nQKrk8QVgTaDtuw==;jZICJZ/xCVvThv3d/HUCTg=="
 ---
 

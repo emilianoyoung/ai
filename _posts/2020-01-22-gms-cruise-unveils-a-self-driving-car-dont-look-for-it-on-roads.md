@@ -2,25 +2,25 @@
 category: news
 title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
 excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-publishedDateTime: 2020-01-22T14:28:00Z
-sourceUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
-ampUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
-cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+publishedDateTime: 2020-01-22T15:47:00Z
+sourceUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
+ampUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
+  - url: https://www.orlandosentinel.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
     width: 1200
     height: 800
     title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
@@ -309,6 +309,21 @@ related:
       - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
         width: 640
         height: 480
+  - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
+    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
+    publishedDateTime: 2020-01-22T17:23:00Z
+    sourceUrl: https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/
+    ampUrl: https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 40
+    images:
+      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Cruise-Origin-Self-Driving-Pod-Loading-Passengers.jpg
+        width: 2048
+        height: 1152
   - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
     excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
     publishedDateTime: 2020-01-22T01:42:00Z
@@ -460,6 +475,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "hDdNh/L+8sfrNxdyn96jarJsUwN0K5ZMN1Mv2XRwkvivZAtaEfb7DQnRLj5H2tvU/kejIn0pVg0Fy0dlyCBO7LXrgjsFDGVm0F7WOqd69eW/0TXz9bnRzeY6337Uqq9hGB9BnciBDHh/phJfhqRxFGZnJuxI2WeHCRr8B97+gnBc2rsB3itSizNbowi5iDGG4l27SD8xEPppftvYRETqLVOnXNjfQXyrNBTYtPBgeoRxF083OOZHjaMl2bZuOJ2ex4W0DLFK+j1FtHZVFtWEjBnLiEiNhXFazI28Y8vRVEITzB/TuVeR4tgPQGpo3fDTsC577VLAOUlwc8hS8o3U/EC3DvqJP5H97ZKLnezwwJYidZsfkup2t5f6CYzcZIgtTWU/aRK8pVjfA0+lfbROKJf82vtHIlRA8KQudy4av2DMwuHKPNNTFZWKpUbT9XtOY5LPLZShac5UDDnHrMlVUw==;i+6yuWS18u4G2BhaamaV8Q=="
+secured: "vHBfL4Aihu/O4XH8aq8dc3jH9kWzSNiQMSUdWBhs0/zlXwyTIYeZCXKWqwuy/dNFmLB+SafD7kpmlBZ+/JA3qgIs74gjWy3Hd9Qee/J7eJubdKF5TSMlc77ku1/jJml4kL9k/9Oa56P0DUGLW0peGA/GcH00f8ZfI4L1nJ8kLg10tw0Bgs6TGZ9vgSK9x8//f414XVboKBtJIkH4ooJjDTmUDb3MYXCZSMJHBPYRQc7zerFvlhEE5qLOYXDJhhOBQR+XX9H59Pb4UQV8UDFTTq7CszOLQHWBEjFa0+2uzt8=;btDLPGKhSmDGmOVoe8kaLA=="
 ---
 

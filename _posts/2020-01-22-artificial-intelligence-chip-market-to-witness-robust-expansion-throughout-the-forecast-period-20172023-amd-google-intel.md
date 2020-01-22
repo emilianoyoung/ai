@@ -2,20 +2,26 @@
 category: news
 title: "Artificial Intelligence Chip Market to Witness Robust Expansion Throughout the Forecast Period 2017–2023 | AMD, Google, Intel"
 excerpt: "Artificial intelligence eliminates or minimizes the risk to human life in many applications ... Further, the emergence of quantum computing and increase in implementation of AI chips in robotics drive the market growth to a considerable extent. The emergence of autonomous robotics—robots that develop and control themselves autonomously ..."
-publishedDateTime: 2020-01-22T11:19:00Z
-sourceUrl: https://www.arnnet.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/
+publishedDateTime: 2020-01-22T10:50:00Z
+sourceUrl: https://www.cmo.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/
 type: article
-quality: 0
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+    width: 600
+    height: 246
+    title: "Artificial Intelligence Chip Market to Witness Robust Expansion Throughout the Forecast Period 2017–2023 | AMD, Google, Intel"
 
 related:
   - title: "German Wearable AI Market will experience a noticeable growth during the forecast period 2019-2025: Orion Market Reports"
@@ -32,6 +38,6 @@ related:
         width: 1200
         height: 630
 
-secured: "dd06yYAgRGCDaUycmXHTPjWVU2cknKV2MTyGQUOR3tjKx3awjNVLVETiB89d09FAwQlwxBR9H8Yi5sD9YM40kKFfneNG14aJfgJtmxqqGZObYUTKXEa8gYmeqZ96LUKpVb39+Z5wpZkpe69as3+c7xJ1O+G8xngSJGDyFMd/ihX779ZjjMJoiWXzcsfl1NmvrYFOmd8NlOC7+mNMh32IAE4Tlua3VV8iQ36WenaNevTVFmOtsj4ZKyQ7teW5OpuKFYwFcANynYHm62y/kPFxczhudwX4cyPCZa5pSBU2JEs=;oLJJ21S3fojb/9jdj2TJWw=="
+secured: "lmMv/yYHDhGKTNeG2Y51wPg8HsDxVTU9UiVBD9KtSwnOsqTbvJ9YQhxkpizuX/5dAESLoVHBVxrDAwpzKWt7buqChkMK+JwZjEMqBTlS72oYpRUtMY/zoCAE637whQUt9C2b0s8iKRfx+2xngEcGvIiLMmkjFXJvgzf6WWKo0lG/s8dYDtyI8q8fP2PkBYEhCVN0z8EMZmgP0r2s83oiR1QgctbvIN0YhQQFmRpE1tyuQDU/xTayhIF5D/+YqPIpWtcCYhiI4NJqlW9i2vu5zst1oGWX1oDNGQq1rR0miMM=;Mimd4T6qe3+SJzHzLQUWYQ=="
 ---
 

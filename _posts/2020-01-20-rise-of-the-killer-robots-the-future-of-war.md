@@ -24,79 +24,49 @@ images:
     title: "‘Rise of the killer robots: the future of war’"
 
 related:
-  - title: "AI and robots could be the future of agriculture — Strictly Robots"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
-    publishedDateTime: 2020-01-16T21:53:00Z
-    sourceUrl: https://mashable.com/video/farmwise-ai-robots-farming/
-    ampUrl: https://mashable.com/video/farmwise-ai-robots-farming.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp
+  - title: "Nations dawdle on agreeing rules to control 'killer robots' in future wars"
+    excerpt: "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,"
+    publishedDateTime: 2020-01-17T15:45:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZG151
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
+      name: Reuters
+      domain: reuters.com
     quality: 87
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Cultivating robotics and AI for sustainable agriculture"
-    excerpt: "Root works closely with a set of growers who have granted the startup access to their facilities to run product tests. The growers provide feedback on experiments and the types of features they will need for the robotic harvesting system to provide greater value. Root also is using AI and machine learning to teach their robots new tricks."
-    publishedDateTime: 2020-01-14T14:31:00Z
-    sourceUrl: https://www.controleng.com/articles/cultivating-robotics-and-ai-for-sustainable-agriculture/
+  - title: "Killer robots must have human control, experts warn"
+    excerpt: "Countries are rapidly developing 'killer robots' - machines with artificial intelligence that independently kill - but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems have been used for ..."
+    publishedDateTime: 2020-01-17T15:14:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7899479/Killer-robots-human-control-experts-warn.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7899479/amp/Killer-robots-human-control-experts-warn.html
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 69
-    images:
-      - url: https://cfemedia1.wpengine.com/wp-content/uploads/2020/01/CTL2001_WEB_IMG_RIA_x3-John-Deere-HMIsSlider.jpg
-        width: 645
-        height: 350
-  - title: "We took a 20-minute ride in a self-driving car through the Las Vegas streets – Future Blink"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
-    publishedDateTime: 2020-01-16T20:23:00Z
-    sourceUrl: https://mashable.com/video/yandex-self-driving-car-test-ride-ces-2020/
-    ampUrl: https://mashable.com/video/yandex-self-driving-car-test-ride-ces-2020.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/yandex-self-driving-car-test-ride-ces-2020.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 64
-    images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F16%252Fa3%252Ffa3e5b1367f940b0bd5ba71a143ef4b3.56df1.png%252F1200x630.png?signature=VBQYTroJ4NQvKMQb81C_JG8k6Lw=
-        width: 1200
-        height: 630
-  - title: "Rise of the killer robots: The future of war"
-    excerpt: "Putting robots on the frontline creates a lower threshold for war. It mandates a kind of unaccountable killing as no computer can be hauled before a court. But there is also a major technological problem. Based on our current knowledge of artificial intelligence, says Nolan, creating an autonomous killing machine that targets effectively and ..."
-    publishedDateTime: 2020-01-16T17:58:00Z
-    sourceUrl: https://www.irishtimes.com/culture/rise-of-the-killer-robots-the-future-of-war-1.4139390
-    ampUrl: https://www.irishtimes.com/culture/rise-of-the-killer-robots-the-future-of-war-1.4139390
-    cdnAmpUrl: https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/culture/rise-of-the-killer-robots-the-future-of-war-1.4139390
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
+      name: Mail Online
+      domain: dailymail.co.uk
     quality: 59
     images:
-      - url: https://www.irishtimes.com/image-creator/?id=1.4139382&origw=1440
-        width: 1200
-        height: 630
-  - title: "Is the future of robots in good hands?"
-    excerpt: "How robots do this is the subject of in-depth research worldwide, including at NASA’s Johnson Space Center, using different combinations of sensors, point clouds, object libraries, and artificial intelligence (AI), among other technologies. For example, NASA’s Robonaut 2 humanoid is being trained to recognise, pick up, and use tools in ..."
-    publishedDateTime: 2020-01-21T11:25:00Z
-    sourceUrl: https://diginomica.com/future-robots-good-hands
-    ampUrl: https://diginomica.com/future-robots-good-hands?amp
-    cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/future-robots-good-hands?amp
+      - url: https://i.dailymail.co.uk/1s/2020/01/17/15/23526948-0-image-a-121_1579274069115.jpg
+        width: 636
+        height: 382
+  - title: "Nations dawdle on agreeing rules to control ‘killer robots’ in future wars"
+    excerpt: "NAIROBI: Countries are rapidly developing \"killer robots\" – machines with artificial intelligence (AI) that independently kill – but are moving at a snail's pace on agreeing global rules over their use in future wars, warn technology and human rights experts. From drones and missiles to tanks and submarines, semi-autonomous weapons systems ..."
+    publishedDateTime: 2020-01-19T22:35:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/20/nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
     images:
-      - url: https://diginomica.com/sites/default/files/images/2020-01/Screenshot%202020-01-21%20at%2010.58.55.png
-        width: 1128
-        height: 882
+      - url: https://apicms.thestar.com.my/uploads/images/2020/01/17/498447.jpg
+        width: 1240
+        height: 825
 
 secured: "HIvjsgicxRB3o/iW0iGqV0hX3qf5Y+Cks6FyIhutekV2Km2Jy+Wq6jvXwAQ2qRUhvzxK8lTwOfpMBro/zadPOR8T8lC46GIgy7v/cYBo/yVW7uLMT783w7QKHFS8gGjms0dnYzSpnPUiSLarjlzoGk8GHXqra7Zp0pxA4ISAet6SXnNaLDjClHs6zmT2KnkaMru4FrzUC/FkwHkuY+z/GXMnJmDMXgLn/E06UlrRwZvi3KFWA8C0V7mJ4q0BndMvQthFIAxys12XEGQkXxBEPlvlczHWDe9XlCTPH3H3vVM=;jLLCrubVFG9st/3q/Vo2rw=="
 ---

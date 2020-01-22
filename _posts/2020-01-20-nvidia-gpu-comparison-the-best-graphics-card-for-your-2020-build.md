@@ -24,19 +24,21 @@ images:
     title: "Nvidia GPU Comparison: The Best Graphics Card for Your 2020 Build"
 
 related:
-  - title: "The Best Graphics Cards for 2020"
-    excerpt: "But know that the Titan Xp (older, around $1,200) and newer Titan RTX ($2,500) and Titan V ($2,999) cards are options for Powerball-winning gamers, machine-learning pioneers, AI developers, or folks involved in pro/academic GPU-bound calculation work. As for AMD's card classes, as 2020 dawns the company is stronger than it has been for some ..."
-    publishedDateTime: 2020-01-17T19:38:00Z
-    sourceUrl: https://in.pcmag.com/graphics-cards/116077/the-best-graphics-cards
+  - title: "Graphics card comparison 2020 – all this generation’s GPUs ranked"
+    excerpt: "The Turing GPU at its heart still has all the shader optimisations Nvidia dropped into the architecture but loses all the ray tracing and AI goodness baked into the RTX cards. No matter if it’s cheap enough, right? And it is. Sometimes. Unfortunately a host of overclocked 1660 Ti cards come out far more expensive than even the RTX 2060 is ..."
+    publishedDateTime: 2020-01-22T17:38:00Z
+    sourceUrl: https://www.pcgamesn.com/graphics-card-comparison-2020
+    ampUrl: https://www.pcgamesn.com/graphics-card-comparison-2020?amp
+    cdnAmpUrl: https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/graphics-card-comparison-2020?amp
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 54
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 59
     images:
-      - url: https://sm.pcmag.com/t/pcmag_in/guide/t/the-best-g/the-best-graphics-cards-for-2020_6abw.1200.jpg
-        width: 740
-        height: 417
+      - url: https://www.pcgamesn.com/wp-content/uploads/2019/07/amd-rx-5700-vs-rx-5700-xt-900x506.jpg
+        width: 900
+        height: 506
 
 secured: "2v0jMcxX+iA4WuxHdGipqwxzcC8ywgFRi4Pnoe1yCOks9HVb8S6ImRaQEqDjojB9gr8r+2Wlr2jteKbCsPNTlT6UnK60qmcfpDEtmC7gvzyIQAEWTundyIgsTXKx2pKjnlCy1J/TH23R2CfUUXt4W21yHcFXAGa2bxsUdICVzodp9brOpDMbopL8Jc4km851EK5ucvaEvdUuSieW8kUUbZ6W4b1vfeasEJCWYBwz9BNBf6aaOzeq9O16GvwPfjmb6hLpj0AjRJugOZmFpf5dWIuKFVDq3C2/0Ey0OjXuZ82dVkSUvvRIjZ++pLywr0m6gOLgj690jHv9M+AJn0umw6t0izbOtGagqin5BqZZkkU/x35SiAE302unCVY0YBFMEtwJJ9vVhYZZo17SiUuehKS2mWXIBksDfPEp1H2y+F6BYD8ITOqz9AQm5JMG1JkGMflvAbWtR6nd0R5gyuiCBA==;DlA+bKNiNW4ZrK1fCRP+lg=="
 ---
