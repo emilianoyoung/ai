@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Huawei looks to self-driving cars, inspired by Tesla"
-excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
-publishedDateTime: 2020-01-16T18:19:00Z
-sourceUrl: https://www.khaleejtimes.com/business/corporate/huawei-looks-to-self-driving-cars-inspired-by-tesla
+title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
+excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
+publishedDateTime: 2020-01-22T01:42:00Z
+sourceUrl: https://www.caranddriver.com/news/a30613209/cruise-automation-self-driving-bus-revealed/
+ampUrl: https://www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/
+cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/
 type: article
-quality: 39
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Car and Driver
+  domain: caranddriver.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
+  - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-9822-jpg-1579655853.jpg?crop=1.00xw:0.743xh;0,0.151xh&resize=1200:*
     width: 1200
-    height: 800
-    title: "Huawei looks to self-driving cars, inspired by Tesla"
+    height: 603
+    title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -204,21 +206,6 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
-  - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
-    excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
-    publishedDateTime: 2020-01-22T01:42:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30613209/cruise-automation-self-driving-bus-revealed/
-    ampUrl: https://www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 40
-    images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-9822-jpg-1579655853.jpg?crop=1.00xw:0.743xh;0,0.151xh&resize=1200:*
-        width: 1200
-        height: 603
   - title: "Designing better nursing care with robots"
     excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
     publishedDateTime: 2020-01-15T23:10:00Z
@@ -232,6 +219,19 @@ related:
       - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
         width: 900
         height: 300
+  - title: "Huawei looks to self-driving cars, inspired by Tesla"
+    excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
+    publishedDateTime: 2020-01-16T18:19:00Z
+    sourceUrl: https://www.khaleejtimes.com/business/corporate/huawei-looks-to-self-driving-cars-inspired-by-tesla
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
+    images:
+      - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 800
   - title: "What self-driving cars will really do to cities"
     excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost ..."
     publishedDateTime: 2020-01-11T11:00:00Z
@@ -296,6 +296,6 @@ related:
         width: 1200
         height: 628
 
-secured: "0s7I47+WKIl3TmVUriO2a+cQvdgkh23CJr4eoWM5KPOrUjw70/PqmuE4Cez6JjZjhBpoi9dLyWRM5UIi1RiaAUeWyW9bJgDeWFIkUg59qHWjZGfftdRee179g0vONe84aPlFNdlCQQ+A2A/fhTpDpabHd3njF473TTVlkvB7DDvL6KNoXI9+XtZgdo6Nwj1cGAujSGxmoJrYjTvix2Vodqlw5slmohbWQuBMQnP+WACokVUZzn4jrj76PSkpeAWGMKCMjiAQ83xHFtNtwppPkpu4t1ae36NYT4ttzpe301lRqjPmXVGqywqUpy5VZXNp/z1qfjrS6CPkX8nTpUT22p9cIdNQ+xYaVu/7PObm61twHrh7L/DIwCKpJJvDMxtBU0a52C4sYZGbsp6DRJkL16Vdswgepvn76jNzz3OSzmP4uCaFePW9NqsVL26bLYVGR2ZmqozVzB9rIHMJbDS4oQ==;sSeAvB5UVzD0NvoPxvZVUg=="
+secured: "XL8wZZtVTTyRPXvVas6JyUISIxoBpordVqARjbZz4H98hdl/abdEu/XE34HkogV+OYUW9067iOdJQVTXJEw3Kzkb8n/6WeHX7ylqCOUxRAu2sAEs6PIpVZkPH3nmmByvxI6VamAvdmxHtxWbxMYhbsNuW3Coc6DIeuLD6sNkH4AZcOq+LJ0R8zpzRYmkxYjogTY+M/qTKXn6uGlLTIy0rWGkTbD8Z7AmKWA5P2mhztfXOpiG60Sws9ADoyLG+quoFUtBcOdV7EU/ENkqFajz4XN4r73JkjUTQTMjeGOYVQ8=;V3iHj4uRpzX8oTVNeJkOFw=="
 ---
 

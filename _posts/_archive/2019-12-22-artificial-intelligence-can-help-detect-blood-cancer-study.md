@@ -25,6 +25,6 @@ images:
     height: 365
     title: "Artificial Intelligence can help detect blood cancer: Study"
 
-secured: "j4APSRxkKAfVcO6Ri+S09lUxh5g7c7Y/G+TOtcaaFvQsuNqnO9BAKrlSEmzJb6k1aIohWxBi3Qe3aPyu1KwNqwdd6usKNSaqj52NqkW6O3mVJvI9dy/oxAtJ/xBZA/nh0IlXEHz2q2YnRDIsE0I8/tr+EFFjYpFk3wlurk+POTY3axX0BXuqkxbegbDHQxF8A3kmTkUKsr6QgZSNtn13FadalULcSlcU+tRbauOINeqR1nQWKc8Ab+/ZLyb9mnzo2OQctlJfOh5gxxHD7B7mCUg6oAzd68FzxSPNI6Simu8=;oWZFVNCMLKV8IY5UH4soEw=="
+secured: "msfe65VQS13ibLcqc6Wd0CRhUXX6p1ltq3f9gvT3JENebRqMkV1S3egzSK54ArmCi8OfhitHC+aAneLhqGlb4nbXmiXSudWoXUlS7RMEBrTKcKFBAItc429AOIyFoNo11sD+OWkhPe6ybZgnTaqxTd5V2ILUuvbDbvUIeiL5+YeS2DMIPphcJzaX9dgBVTI7Y/oomAAfF76xSAjEbjoJaPbIO4yB8yS12KMU7Otvoxt4N5lmEODoQ+uQFCsSs3gmzXN0YCV58hpye+9KW+hFCPud2adVFRzAf9LY7Z3NbYw=;AZFujK4ud9PApJVppm756g=="
 ---
 

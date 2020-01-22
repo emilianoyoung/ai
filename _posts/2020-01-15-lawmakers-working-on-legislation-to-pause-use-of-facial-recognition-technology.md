@@ -376,6 +376,19 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/18/russian-internet-search-engine-and-news-aggregator-yandex.jpg
         width: 1024
         height: 708
+  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
+    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
+    publishedDateTime: 2020-01-21T21:12:00Z
+    sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 39
+    images:
+      - url: https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675
+        width: 1200
+        height: 675
   - title: "An obscure app has scraped 3 billion photos to use for facial recognition and is selling its services to law enforcement"
     excerpt: "According to a report from the New York Times, a largely unknown company called Clearview AI has been scraping every inch of the internet for photos of faces in order to train facial recognition technology. It has in turn sold access to its massive and comprehensive database to hundreds of law enforcement agencies including the FBI and the ..."
     publishedDateTime: 2020-01-20T20:16:00Z
@@ -454,15 +467,6 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 19
-  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
-    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
-    publishedDateTime: 2020-01-21T21:12:00Z
-    sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
     quality: 19
   - title: "Change These Facebook Settings to Protect Your Photos From Facial Recognition Software"
     excerpt: "I won’t get too deep into the Times’ report; it’s worth reading on its own, since it involves a company (Clearview AI) scraping more than three billion images from millions of websites, including Facebook, and creating a facial-recognition app that does a pretty solid job of identifying people using images from this massive database."

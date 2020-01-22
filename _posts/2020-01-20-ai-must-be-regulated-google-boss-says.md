@@ -259,6 +259,21 @@ related:
       - url: https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1
         width: 1360
         height: 1020
+  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
+    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
+    publishedDateTime: 2020-01-22T01:48:00Z
+    sourceUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance
+    ampUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
+    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg
+        width: 1600
+        height: 899
   - title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
     excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
     publishedDateTime: 2020-01-20T05:20:00Z

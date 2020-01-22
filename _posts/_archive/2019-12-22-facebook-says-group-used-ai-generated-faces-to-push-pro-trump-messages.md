@@ -53,6 +53,6 @@ related:
       domain: scmp.com
     quality: 27
 
-secured: "QsZh/x2eePSE+dgH1ILv88km1I7gPnaFRC4VIlM5QO0EjBpVMdfUK0+xUvuwjEwKyRZLklOQjlVogGoT5llB7N3ySEhFxfQFdN5BN8wQHPDzqWKlEHUpY0SJLp57Bi9VDjUy0ECCZs9KnafNUSiivKMj93oioSk5fw2aAgduAy3CyiKVbT9eILvRz1gCnW5JVPDw0CUHFw3lODV3c3BOIn/awhnf84EIYJB4AQ8tRDlmDEQQD/hip1oMrCfYp20pJYQ8dYQEreJeHmUwVbce6M+uwxarIyzIwjeh+VQdO9E=;vHGLUACx4IN3s7a6Zz5zRA=="
+secured: "PDjda68YP4wnfUrjl679vxgvgmWeWi0G7gSsdbIlcRyZdLsSjIg9yL4eXPgudbGwldYH4U8NzzuISmoY3AmqNbU8sN7Q81Q3hEaRlqKGSGpkNFgFcOSfsr3pkQWNAx6Ixb+13qOVtVR/WM32mvlsem184V5OY7JeT5J1T+CNPcRvmtHZK/qoPua6bn5i6NBka/oE8v7kF3Wqaj/a+NZ467kJlRt856r+HzkpzFK0D7hqdfsJTl9vM1p9aFVJeG6CucCkPrdFO5BE8HnBz/SBTA+erel9nSMTAqZRsB1J8j8=;Duo5amv8u+XG1ozoFzwLaA=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
-excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
-publishedDateTime: 2020-01-20T14:45:00Z
-sourceUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/
-ampUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+title: "Surprise: Google CEO Still Dancing Around AI Regulations"
+excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
+publishedDateTime: 2020-01-22T01:48:00Z
+sourceUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance
+ampUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
+cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
 type: article
-quality: 87
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Android
+  domain: androidheadlines.com
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
-    width: 1024
-    height: 692
-    title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
+  - url: https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg
+    width: 1600
+    height: 899
+    title: "Surprise: Google CEO Still Dancing Around AI Regulations"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -60,6 +56,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
         width: 1200
         height: 630
+  - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
+    excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
+    publishedDateTime: 2020-01-20T14:45:00Z
+    sourceUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/
+    ampUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
+        width: 1024
+        height: 692
   - title: "Artificial Intelligence Needs To Be Regulated: Alphabet CEO"
     excerpt: "(RTTNews) - The chief executive officer of Google's parent company Alphabet called for artificial intelligence or AI to be regulated, noting that there are real concerns about the potential negative consequences of the technology. According to Alphabet CEO Sundar Pichai, there are real concerns about the negative consequences of AI, from ..."
     publishedDateTime: 2020-01-21T14:48:00Z
@@ -249,21 +260,6 @@ related:
       - url: https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1
         width: 1360
         height: 1020
-  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
-    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
-    publishedDateTime: 2020-01-22T01:48:00Z
-    sourceUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance
-    ampUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
-    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg
-        width: 1600
-        height: 899
   - title: "AI must be regulated, Google boss says"
     excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
     publishedDateTime: 2020-01-20T11:48:00Z
@@ -481,6 +477,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "D72s2fmmkcPUOwkFqr3MIJ/4bMoeLE2Dvx5fVI9k94F76H5QA/orPjs4ZKHryCTBa/hiMvBEGlU/ShsMnp/vPaQZViUyLS3iLhJ5twSRKn9vh1tE7W+r9piYjpEnPiFRhgbSnhIbkDtd3XIAcCvj33hYC+W909gA3ca9y0T+trUV+Opcko6C8fkBXIeWkKGIno1+t8jMFtoHwV4d7ickebgd1y/5B8U187MMFg0AGfJLn5U6OyMJPI/M3zuxGTlZzUqS/wjifZEBIBoL7cuKkdmlfviw5YjfrIsE6JNK84bIaK1YsIbwtD4L+WNpXUmoxdwYF0uXwUnZ/0syNirVo8Z58veJSKtJC86/p8Eu27/gPOuY4ii6tDTpeejMcOA+fpLXi218Eyb+39/gdpEHSh/xoWq0BftChQh7WzgaKDlCstRsSRaAKVzYWHMxa0QUfL0TCRfL0f7JUdGMJ7GPag==;ryubk4dl7mItlrPMbsOGmg=="
+secured: "Gjg2n++FRa9YWCFwIXZBRrOwZGiy19mTXBAgpxY0g3LuLpwIVgbeK7FZJGM7K2W98ZsVDkhziGskbfON9jaNXWWIaeO1SJGOWn+M/cCOF5RvMWQfqo4rzLJsm7uRplu/LgosOlQNok/pdXN4wXpMs/5IjsY6hYaIwVZ+Zs3WSu79EtAc7Rf4sLo2pQumB2MzcBKfJy3ZUR7P0ALkB7iUHVdepCB0V5jKsbr5dTL3kqKISjSTtYFXads6Wk0toULhZG+q7n7uNVbIFMoFTdJo8NVicRmUwEjwVC5SVbAJ4NQ=;0b6EFRfkz6ahV40tff/rHA=="
 ---
 

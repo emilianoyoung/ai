@@ -370,6 +370,19 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/18/russian-internet-search-engine-and-news-aggregator-yandex.jpg
         width: 1024
         height: 708
+  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
+    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
+    publishedDateTime: 2020-01-21T21:12:00Z
+    sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 39
+    images:
+      - url: https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675
+        width: 1200
+        height: 675
   - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
     excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
     publishedDateTime: 2020-01-15T20:10:00Z
@@ -461,15 +474,6 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 19
-  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
-    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
-    publishedDateTime: 2020-01-21T21:12:00Z
-    sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
     quality: 19
   - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
     excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."

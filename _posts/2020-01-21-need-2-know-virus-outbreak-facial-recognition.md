@@ -5,7 +5,7 @@ excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger cou
 publishedDateTime: 2020-01-21T21:12:00Z
 sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675
+    width: 1200
+    height: 675
+    title: "Need 2 Know: Virus Outbreak, Facial Recognition"
 
 related:
   - title: "Go read this NYT expose on a creepy new facial recognition database used by US police"
@@ -487,6 +493,6 @@ related:
         width: 800
         height: 462
 
-secured: "55MRXyaCH63a2x/z2KD4qWZzefWwafdv20Hs+3F6dRKAlqDQnMTdSqGC6nAKLqrA5PanGMLXjr1W1oUKwRRb+Hcu/TyB6UtuhUGcmNH700zfb7qBANjyb+TOwmsjZUqMzu2ZxIUfq7XklX1P0h4kVAXtf2kb8WPmLHREjV4KXeLIE2dJbVuZ8Xfs7isCaI8GFAdVkFfV8XCy+IPCYrHUN1kbptGlVk7MDYQ4V9QEvemATzNu6qBpUEoIf9gWIwwfbOSpW7aAFm6nekMXiZ8bE5Em+8VvABalYOhorY1orks=;fk4VC0t8qymCVjbD5UNatA=="
+secured: "5CzwWhxCDqvpncCYjLMx8We03V/R8IBeVc0z6nffOMyILjCNbQ3W3HJMDY40oJKKsspRfQtNELlqnZLHRi2datvRsaEFHL8Xfxe7jXuq9t8X5xdR8bd+Mr+x57ZL0Uqg4UjvghIcK8YrCq+1W9efWg/p+PqX03NgqgsFTgZAuIk2UTaoyMycKS35+stWf/C/zJmXepEau6gdpEkWJrAaqHKjcBWwFcutBfV8aamucLBM23il8Q+FAbZApnIU0eut04QefF7moPxhd6KUPx63NbwR7rPAIholYlYuXZm1z4I=;qm8in3O+VTV+v1QM1KiQWQ=="
 ---
 

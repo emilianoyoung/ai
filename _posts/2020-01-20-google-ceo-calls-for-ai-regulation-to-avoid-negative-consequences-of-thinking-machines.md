@@ -259,6 +259,21 @@ related:
       - url: https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1
         width: 1360
         height: 1020
+  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
+    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
+    publishedDateTime: 2020-01-22T01:48:00Z
+    sourceUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance
+    ampUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
+    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg
+        width: 1600
+        height: 899
   - title: "AI must be regulated, Google boss says"
     excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
     publishedDateTime: 2020-01-20T11:48:00Z
