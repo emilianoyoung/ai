@@ -27,6 +27,6 @@ images:
     height: 447
     title: "Scientists invent robot that climbs surfaces like Spider-Man"
 
-secured: "rkNSWR8m0v5CcijSbaVyprO+T5MWR/Sg0zueAzM7HdZ6qiXc36vGnzns+ThCsgw2wWSVUVZT2Hd9ZFDIYn/Qvebt8/YayowGA+f70pc5rMEVGEYHQmsWcRwum3iBdZOOsQ1oCdTyS7wOJH9Nou8iNLJwGJyDxaed9p39bjPBYMpWYoXxfgRQmXYkIJx0QcjkkhqGi1nVxW+csBObU6FCi+ln1ETcRPRzOeP3llZQ5JaMZwbuymILAQkm8UaEEdLlAN6Oj1fbmPUQ8k4MEj7YoKZNbwYqE7DFMgXI7opRBzo=;rBdaVeTIf9T0HkdBxPUsFw=="
+secured: "IrZGgUsyOTRTofEnDEYrbcLa4HkOzzFQJoiTEbp5w71K4vLMkwFfVH2yHEFXcjr+cQER4EUcE3XK1vT6tb6DnGMs6nFjULnSGDwFuOuRuWL2sxbWprOE79cpd949X+H9A4CPkinIAnzeDejReY4+QF4XRSz+sbNGiUTbOmXRqBRbkGzhMDESJIi/VcZJxOL2mkuTC0E7rGgMS2Gx2zmMCZODm+aCEBh9GN24e1wOCmkeDvFPYQ86Z2vbcbvxEWgsIe80bzJWY3cMTFTo/lqw/c9C0jCrL7IfRYs5jgjd6Gk=;tJToGZy9hNFPrD4sD8pkaw=="
 ---
 

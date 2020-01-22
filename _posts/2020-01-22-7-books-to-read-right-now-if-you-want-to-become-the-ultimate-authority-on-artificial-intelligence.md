@@ -26,6 +26,6 @@ images:
     height: 512
     title: "7 books to read right now if you want to become the ultimate authority on artificial intelligence"
 
-secured: "jQp3LsytkLfl3QCR3ywJ829pxvQuBl9R8NSL7U929ryR06j3vaqJenAg3IYU1C+qhfnLaONmNujJbKdfgVSUH1mFRmnhvl2SVqFtvrW3Dc3/kZEXwuBE+yjI9SrVX//aqhgUPLaMnzFJxxC9S6k0eX7pZJPZzw4Fhi8ZCGoIHYLK4c/Ey1e7AC/ZCeBgl92/EOHDA69dd4zXfpz3TeORAolAURtqDR/DDj0pRzBOw5dpjwJwMAwAG3u3D5pjMT4nvK07tMj1OU7JYHnNGptu06m4/tRbK04PNj1VEXjP7DU=;2xMqpAOcZ75TSFEQchkibw=="
+secured: "HjruzJtwF4uPl4y3ugmRMhlkYu+h+BgQb6KZ7aqRX9+0G9OC6qtU/vbWSSEsvJr0RwSiMp2VZe7/0/aXqSR5AwkX9rFbEwITgGJthuQCS3PW/YaE52V2i0Fx0BMBWyHXCHz9cwdBBckVEYMpIhmF95ONOfDdP7HiBjGNDEr9ooK7nxti6cptv5UHZLvFqi9WkGTuYW5cWoXps4BeMwB/fk1Xa2N/vQ0WIz9BlHskq9s2tiQ0xP3z9oOaaKKitSFZQ8lLFkSbvWFrv9ILxV9Z5Cww1kIpnj+KXKuSQhdeh++Yr3onS79jU5bN0lExeOyLib2AFcvU1cDgw2zE90IRSnOw73vIsKkWGJb4HrrfDqATBz3fW1SrggFutJ0hWzGAHerpDn9k9Uj/8ZPIFM86R2zRNk5ze5rvsLTUlXKmGn6Jz5f5oyF/h9tGv4VZoTTx2XYa2rvtWOYYXOqRdzhQ8g==;j9mqGASsnfQDqmF8kBJ16A=="
 ---
 

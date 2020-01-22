@@ -522,6 +522,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "weqT0db5EqkbleZ8mV+NNnIGTCv+qqEnfAve5D+pUNT+56LkO9VQu+6HTdBIH8uupAxNxVD4SNas5SShcMaFe9cNSbxmx7QN69NClMb8QoyvZEtqRp3pZpsiLYlppC8BusFOvP9Ye4gB/slGGjYAD19M86cK8oXjl5a4zJTKG82aFgQ5zYB90K4PO++h0RSDAzg88PdtQRdj0Mdv83nq3VjPOguOmzITeHp6CLqHRrIvTj6q5yhMaR0jC8Nn0DIYHXbIzKKk/2w+lNs96wjZj7m3aMnHBD398B1UDVHwPY0=;Zq7EG1WfmSVeWQJBsBaq8w=="
+secured: "MZM8pXZcD6iaHXem/yze1KIXkuBS6ygf5bcnWcUTgu16dLW0ytV7jNcN8FdGGcLUoRXseAeIyyumiVbbDfdN8RQg0e/Fwx7O7dY5yWqPGNU7PX21XyKu9RePe/hPH+4jEs7gZweFKe2C0sbZZI1EkrD4BquO41zFQnR+Suw9A8149WhyCvwM/rHuctrfGNkI5f6N8LsopJJgOsgKu/eYa33L+2tYgewLbcnDsLsrE2XzpUDomyoVY5WCypJfPkjnTv8u3R8FsbxqK9s6tzb9p3O+8XbEpYvtspta0Wf7ENQ=;szx3T7v/C2yfjkm1+j6kkA=="
 ---
 

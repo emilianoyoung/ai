@@ -454,6 +454,19 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 23
+  - title: "Facebook could be on the hook for billions after Supreme Court refuses to hear facial recognition case"
+    excerpt: "The United States Supreme Court has declined to hear a case brought forward by Facebook that argues its users would have had to show they suffered “real-world harm” after Facebook identified them in photos using its facial recognition technology without getting their consent. Facebook hoped their argument would be heard by the Supreme ..."
+    publishedDateTime: 2020-01-22T15:10:00Z
+    sourceUrl: https://www.fastcompany.com/90454488/facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 23
+    images:
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case.jpg
+        width: 1280
+        height: 720
   - title: "Facial-recognition algos vary wildly, US Congress told, as politicians try to come up with new laws on advanced tech"
     excerpt: "... in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Vid A recent US government report investigating the accuracy of facial recognition systems across different demographic groups has sparked fresh questions on how the technology should be regulated. The House Committee on Oversight and Reform ..."
     publishedDateTime: 2020-01-16T06:12:00Z
@@ -521,6 +534,6 @@ related:
         width: 800
         height: 462
 
-secured: "YWNaCyb8PwjNsjJTnau3zbk8lF04D07dv62oYzok29j3NEiFCmSyTcKdE3nvsjDWXw0jQcVlYkXzbJpCptvSfIdKEJhPmGSNUkZS9ChfdGgoB4UdC5MhfVHC2j4MdoWGFSpkNtSYL95Zec1AhwdfWK+pze/wahEa3X5q6l80g0yxNG2yT3oLUf2HXtRqC4bjX7ZVyRUCTH0HZXEuywTN6mpUYvEjrtdU8mQENdWiXmKocZhteNzW1Lt2gTsRaGeafKfwYSBBgdoxBWHlmf0msBa9aiMaO9MYmUOF4oolNpg=;aY59cMMD6Yz0hNalK9R9bg=="
+secured: "Dv8nHLH/cwpL0wlsOzYZDfJY5v1QVaE0BjKORCkxMEkJkz7HpdFzjKiyZe9OK8W9k2RJDeAg564LY69txSWHB+se53KiPZHmkKgMHynhVsAEd/N8v+FN/g0d7ra8/qWkFWBYKbLUgRD+vor3+t7BusadfhKQdemrZiWYvWMlPRR1GK4dzUP92fitcYBlVF93VjRTM9y8E25+3OHB7neKW3tDvUGKcf4LFXM8Fl9jnj5+hHQmVj2HvKccJwCjVwHgp885cmx2ojjUib6/nnnX/fdFmGidFBdv5415kvtBgcwX2m1Z/nf4cJ3GwdKdTlN/DQsPKyAJnM0E7zv2Nyp122kfoyvF12XI1FCTtESOPdxCTyYcbcCN4nvsg4Hj1lIrk3jsHwWlnmAR0MSjNL/3KDRtVW3DSZemojbN1u2RVj0ElZ4TnGdRg0Agx112RPFV9oGGHukQ6xkfC09rSRHhyA==;r6wk5EbpbEmPeVv15MTQ7A=="
 ---
 

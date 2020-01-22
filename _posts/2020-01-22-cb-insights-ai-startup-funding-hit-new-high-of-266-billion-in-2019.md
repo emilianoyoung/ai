@@ -39,12 +39,21 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all
         width: 1200
         height: 616
+  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
+    publishedDateTime: 2020-01-16T11:29:00Z
+    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 24
 
-secured: "28jsLpKbRADXSqkevbbVYNNISksh/Rlmu8slR5tiGeVgaQgAA0PPpi6CvQOGk0Skt7KVMICrTKJFxjpVYUHq7eD8E9ONfPfZkvcUpUU9OsIDMjKXJ2r9ZMxF8HotHoCTPOP9XasDMkBHKZArNgYypM2Wv+VvU8uyTTXsHUBxvg9uncdW28Ptp2bP80qFL5sHtY5Lej0cng1viaXVY4uUnUj27iRrWlmZ7w+VHOiXGAZ4MkjKJndbTABB2zt1M2bJr3comjq45sQ/N2P/lBpXRzT2rF+ajA6stSkzi0F4TQ8=;M/cJG7NvNOgbW1A/iuWlTA=="
+secured: "zOpcUsjFY5WbetxD3zMxOWKKd3fJ6mOkNFWnL39Mw6PrusNKf2dBQ1Bu13fTcv1fDPHSdWp9YD/k2TXbyQDKS6CSX9zxUIfGim18I8EJ/QtBVYaQNrDx/FD1rd5Sag2y97L6h5msHtG7D5Dnv4hJSsdOPi58MiWjacqw62nUW60zPmbdmlASK/8QxYroP5pv42KJa2sndBezn685/OUyuT3oDpSAk5yDFg4vKwG7meRImWdLewLcfx4ToejiOPErWC00lV9ieU8g8lfVKK6UfB287TA8Nvuf+fqQ27aUicUVehQsDG6XttV/AeM1fQEOJViwPNiT9hyJ4wYhQ9RRxSUVFVx8r7ytk6IUXHTkpHJNHSki1SkWW9L5j7N62mGwFZIQTP/uSs7FdaE8RrlwT6sazzTfYFJcFzXHxgQNQw2pvlCq+hNbSpr4LZslDK0ITTlrPWJ0JGr7tt2FoolyvA==;bKMWBA81ThW2KmDMJ6OXng=="
 ---
 

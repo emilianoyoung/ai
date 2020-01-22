@@ -40,6 +40,21 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2019/09/20190920_Brad_Smith_1301-630x450.jpg
         width: 630
         height: 450
+  - title: "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society"
+    excerpt: "\"You want to have innovation flourish and you've got to balance that with security,\" IBM CEO Ginni Rometty said in a CNBC interview from Davos."
+    publishedDateTime: 2020-01-22T15:42:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/106348968-1579704741780dp40l17y.jpg?v=1579704990
+        width: 5424
+        height: 3724
   - title: "AI’s data drive at the heart of calls for its regulation"
     excerpt: "While presenting the 2019 Union budget, then interim finance minister Piyush Goyal had said the Centre was planning to launch a national programme on AI. While India’s startup ecosystem has built several products using AI, we do not yet have principles for regulating it."
     publishedDateTime: 2020-01-21T17:53:00Z

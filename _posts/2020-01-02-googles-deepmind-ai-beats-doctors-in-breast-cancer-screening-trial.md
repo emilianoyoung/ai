@@ -45,19 +45,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e41a50bf81b00072e5ca7%2F0x0.jpg
         width: 1200
         height: 800
-  - title: "New DeepMind AI ‘spots breast cancer better than clinicians’"
-    excerpt: "A newly developed artificial intelligence (AI) model is able to spot breast cancer better than a clinician, new research has suggested. Google DeepMind, in partnership with Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital, has developed the model which can spot cancer in breast screening mammograms in ..."
-    publishedDateTime: 2020-01-02T14:06:00Z
-    sourceUrl: https://www.digitalhealth.net/2020/01/new-deepmind-ai-spots-breast-cancer-better-than-clinicians/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://cdn.digitalhealth.net/wp-content/uploads/2020/01/Webp.net-resizeimage-40.jpg
-        width: 555
-        height: 330
 
 secured: "9fxf9uvO0Zbnn/KryGtUwsjaTW8jZ97KQDLfw35gUEEw+Baf6jMOu5ALz40tTFZuxckFWK+eXhFwduzu/a/jcpBdVP+0Vekose9W/UzMAAmlI9tfzjusBBQ5pXER3AmvlsUtHC3ES9HJfUKoD9a+QTR7tFcaAuuqsNGplPFKQ3/fBMKMTPLJQtI7UlojX+tMn6P8AL3DvbWDL/FT4ywR6X0I8ETXEpM7t1gw3IczzvZ6sfY+gLVdyflHQJyKrWZi1BTrasT5xSCuCIBQkPvzBJ5E50ZHGYc7bjNB3K+8aanNI98FJsHXWePBMB03RThnpd5FX5lIxdglLAVc9oci3sicE62ukV01/KJ9nWjcR66Qx+TWsWKmoMK8765uZLpeljLxI3vvZY0YOEK3ZfQL8aCjd0UGz4MVofrshS01C11zFv46z9bVoQr9sYIzUwxEuCdWIEqIcwXdOWgrdv+gyg==;HHhhiOrHHZD5M+9agQZQ4A=="
 ---

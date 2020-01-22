@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/22/servicenow-acquires-ai-for-it-startup
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/servicenow-acquires-ai-for-it-startup-loom-systems/amp/
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 640
     height: 478
     title: "ServiceNow acquires AI for IT startup Loom Systems"
+
+related:
+  - title: "ServiceNow scoops up Israel-based AI-based IT startup"
+    excerpt: "ServiceNow said the acquisition will extend its artificial intelligence-powered operations capabilities, \"giving customers deeper insights into their digital operations so they can prevent and fix IT issues and find 'blind spots' at scale before they become problems."
+    publishedDateTime: 2020-01-22T12:26:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.html
+    ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 57
+    images:
+      - url: https://media.bizj.us/view/img/367701/billmcdermottsap*600xx1014-676-5-0.jpg
+        width: 600
+        height: 400
 
 secured: "7Ik+jaQdRUYVYCmooenrTc8Bx74W0gs6qs01BXOyHWoXq7KDO+J3oncG6/XyI29eYWbJDyn+2RQWBWFtP7/DSUoq8jYyERBhkHdcMD3vrkwma0xZ0SeBY9HGeV1CLXzMxkLP7WEFrJT6vNubaAzepAMaCXGOch4fUGRUF2ulnAoV2s4lehLovbEHyk/+JwQJmw7kNwio4ty7Kk1tHAHjuW8Z5yT/K32tzkfcWz7DvbBUnhGRL0dixMSLAxSea1UOwaGobLlxkRfRp9zJ1BD3HAE1UcIFMOmsnn3qOFYxnDrnutSe68oNTy42qIHaYH2ihrUnRhnAprgHIykc+yGn9Ar6fz7SnqWCkWiJKurViYuXmaw2b3X8U01/0ckEkJ+VaAuTHe2pLNk0jzdRIjY1b2fwj0/RgKDEkVqPdhS66ulodmU71LuTBoeSybIP4U6geIAVgCAYp4OlLukfKj0lRw==;OoZpPMIo9/aPYrHpjUDufA=="
 ---

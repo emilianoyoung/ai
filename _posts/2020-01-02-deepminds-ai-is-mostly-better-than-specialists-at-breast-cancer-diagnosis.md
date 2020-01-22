@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diag
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587
         width: 5121
         height: 3416
-  - title: "New DeepMind AI ‘spots breast cancer better than clinicians’"
-    excerpt: "A newly developed artificial intelligence (AI) model is able to spot breast cancer better than a clinician, new research has suggested. Google DeepMind, in partnership with Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital, has developed the model which can spot cancer in breast screening mammograms in ..."
-    publishedDateTime: 2020-01-02T14:06:00Z
-    sourceUrl: https://www.digitalhealth.net/2020/01/new-deepmind-ai-spots-breast-cancer-better-than-clinicians/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://cdn.digitalhealth.net/wp-content/uploads/2020/01/Webp.net-resizeimage-40.jpg
-        width: 555
-        height: 330
 
 secured: "zeZDR1VdDTQgy6ZZwmE7bm4262A9/ZkjTEl9cEB7Nhlhar9oSlqZcPBYFc5Owob73Uhtd6ll6xbX8GftqRTr/OxSejCco+SDwX5PBfug5vXP5gp/tsYtO5NmrfQftuKyvLZ4Ymt0asIt0HXvXT0G4ybq0bthyaI4yYa/c1kuxwTpCAyA6RfWObTer82fM0w3y2ocX/peI4ZLS0igNMZAK/4zvnI1KBmoVYTErW0VBtWGXm3TkQKg5zQnN5pzo0JPjW+uAPzvnBOXr+y+BDvcfIDQ922QLL65grPLnXhowUntic32MKu5v8HMCDObp6Da63hIjFd14Ceq93W9P9ZgtsmdyakbSiwZarLhEj19TA335clQBcmqYampE+flfpvmK13/BAXh9TZNPr3amcxNNMeyJpGfSK69X9eSoK0JHFTF96FapLySHm9DkGPS+vef+m2KEnvTZD9UBtWbEKteYA==;9Vb8dfKTq/NnUqWARlmRqQ=="
 ---
