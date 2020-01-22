@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Ring partnerships with police: Solving crimes or invading privacy?"
-excerpt: "Both Leawood and Kansas City police said they were not approached about that. A 2016 promotional video for Amazon Rekognition says it delivers \"high quality person tracking.\" It's a concept the ACLU finds extremely disturbing. \"Facial recognition has the ..."
+excerpt: "A 2016 promotional video for Amazon Rekognition says it delivers \"high quality person tracking.\" It's a concept the ACLU finds extremely disturbing. \"Facial recognition has the potential to ..."
 publishedDateTime: 2019-12-23T06:55:00Z
 sourceUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy
 ampUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
@@ -25,6 +25,6 @@ images:
     height: 720
     title: "Ring partnerships with police: Solving crimes or invading privacy?"
 
-secured: "En0a91NF07jjlYza7s9T2vex6oYWijx8CITfmDE2RigVX3Zdv3nDAssxq4onZ7nRYSrvALB4f4WL7d7XdZkE5KWHZ/QP0eS9wPrJQ7LwDRTSs8dWZQIFEhsbq9JQIr9gEfupHAGTy9kkDy3wMT2u7StoLp1A6QPa2CAjom6GvKYEz01HlbnQ3UoLhGXqlfWXNEVXoL+Vlg2JFrKhtp9nBbRWUoFhuk9eDkqo2uikdHeRJv1XYmBdLXwvxAIqdJ795aUgD/p8+nC3SbtiHrJnpXRcJ+qsKVmYAlgOmajRiQU=;Cx6Prf2z4BQ2Hk6cPupLuA=="
+secured: "KXQv8mM/w4LutXahUFqdxGqwuBOEM7LTeOXrwYk6n0loe39wNh5lC1Y3Qw/ZFrf5FP4X//xzFiW4+5c7Cl+2NsrIj2Ci9M49IxJvvs+TAXcEuFS9RuYKntBDnhiATGEC+oy0wkkM5pwwvD38HdTSYkhXQ0yPHmUm8KLyCW0hnf9+pFwJQcJbwNgaj48v25fxURfYz3hVD/3IfqVR9LKXkAv1IrnlduVIlyVHlVWJp/BrGwfnSCwogRDQGeZY6SZ7VP62kwSp9sw1wBjn26+C3UHjKJvmfBrYJnjl3B4yi40=;Dnzusgc3DMGfhpzP9JR+xg=="
 ---
 

@@ -45,6 +45,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
         width: 600
         height: 350
+  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
+    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
+    publishedDateTime: 2020-01-22T03:00:00Z
+    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
+    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
+    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 73
+    images:
+      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
+        width: 640
+        height: 320
   - title: "Howes: Self-driving vehicle hype forced to reckon with reality"
     excerpt: "Howes: Self-driving vehicle hype forced to reckon with reality Next-gen auto industry won’t arrive sooner because its potential is oversold; not to investors or dreamers besotted with a Silicon Valley fairy-tale Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/columnists/daniel-howes/2020/01/16/self ..."
     publishedDateTime: 2020-01-16T04:48:00Z

@@ -37,19 +37,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
         width: 877
         height: 432
-  - title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
-    excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality ..."
-    publishedDateTime: 2020-01-02T12:05:00Z
-    sourceUrl: https://apnews.com/Wired Release/20e8c5c9a540ea70c73effd0085b6585
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
   - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
     excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive the market growth. Other factors, such as increasing adoption of advanced technologies ..."
     publishedDateTime: 2020-01-09T10:10:00Z

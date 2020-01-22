@@ -2,22 +2,18 @@
 category: news
 title: "GM's Cruise unveils its first driverless vehicle"
 excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing modified Chevrolet Bolt ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety concerns and regulations. A number of fatalities involving autonomous ..."
-publishedDateTime: 2020-01-22T03:04:00Z
-sourceUrl: https://www.bbc.com/news/technology-51171398
-ampUrl: https://www.bbc.com/news/amp/technology-51171398
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51171398
+publishedDateTime: 2020-01-22T05:31:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51171398
+ampUrl: https://www.bbc.co.uk/news/amp/technology-51171398
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51171398
 type: article
-quality: 89
-heat: 109
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -45,22 +41,7 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/_Cq8RBeDpZ0BOd8CsPhQ7orclbI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66141735/vpavic_200121_3874_0010.0.jpg
         width: 1400
         height: 933
-  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
-    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
-    publishedDateTime: 2020-01-22T03:00:00Z
-    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
-    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
-    images:
-      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
-        width: 640
-        height: 320
 
-secured: "KL+xIpY2M7Ory7ndQSO+hYl9j5EA8bouaYdjT8SK49MbWqlsclqwG+/psigAzcnk5AifHBF3zO1o/c3+KDHN+YDQW8FFlemTe/TW6tvkXnbk7RDNfJ+7TpXaXcgsjQkclV0QxgcxZVw+w1yQex79qBn64+E8nRqt263Ik+W5oRC9vZmXBNyZFjANjBOKScY10cwWt+ymnH+42bMnf9RuJCGQsduPv0kHf/rlwlpl7RzgL8557ao66VLZAqhsSmwF/5hrEBG9HDoiJSBJe/DY6DaUtwerGmg3BuV+f1Mh0lb4V5E914ESLcphPqbujcNQKv3nbEbRcidfX+BVo+ayQl1z5xEHa0DworTH/ZaXrnjPAG3UliEfk9fM/Fd2D7y0lUEk6r6k2wHQZpJ+/gK6t8zVLY0P/F9R6iUpsMLsYVD0rq9yQD0d2/W4pnk7JDLl/zAy7uUavqbIqk/a3ZINfg==;EVxpLvBWzUy43cX3X+esmw=="
+secured: "F9jfLaC18n/Aw3wOIX9pL7uWzJ0HzWyzz8xHmVJf/eulCsPIIHWtLfdwHwvveyB8/+7aY6pixNdlYb01jGpS2wUYA/Jc4OEo0ES1mHNvc/EP1tFQZB9bzAWeIq/wVBzJQp+bi+PugBlzoOzr/wteDMyr8nVaGsy/QciNZStt5u8OXyI0v+NAzwKIb6oF3JaHHesaFM0is3MVuvSh1mNLVyYYpwzq4CBecjJmaFzM7XPoOWNj1q4GHw09u5MhkKAUFTJwtRdESi7YiWiZMAE5r/rmQH4ccGiGDw56Hh3iIsE=;POOEQY4iO1h+9xl+Unoecg=="
 ---
 

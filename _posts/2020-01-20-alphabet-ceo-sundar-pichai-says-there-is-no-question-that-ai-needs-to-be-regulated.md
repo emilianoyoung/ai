@@ -89,6 +89,21 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
+    excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
+    publishedDateTime: 2020-01-22T12:06:00Z
+    sourceUrl: https://www.reuters.com/article/us-davos-meeting-google-healthcare-idUSKBN1ZL1EG
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL1EG
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL1EG
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479761867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L12M
+        width: 819
+        height: 545
   - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
     excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
     publishedDateTime: 2020-01-20T13:18:00Z

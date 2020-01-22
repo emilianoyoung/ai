@@ -24,19 +24,6 @@ images:
     title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
 
 related:
-  - title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
-    excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality ..."
-    publishedDateTime: 2020-01-02T12:05:00Z
-    sourceUrl: https://apnews.com/Wired Release/20e8c5c9a540ea70c73effd0085b6585
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
   - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
     excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
     publishedDateTime: 2020-01-05T23:01:00Z

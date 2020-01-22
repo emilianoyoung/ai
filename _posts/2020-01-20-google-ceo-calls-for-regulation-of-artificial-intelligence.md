@@ -86,6 +86,21 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
+    excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
+    publishedDateTime: 2020-01-22T12:06:00Z
+    sourceUrl: https://www.reuters.com/article/us-davos-meeting-google-healthcare-idUSKBN1ZL1EG
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL1EG
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL1EG
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479761867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L12M
+        width: 819
+        height: 545
   - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
     excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
     publishedDateTime: 2020-01-20T13:18:00Z
@@ -492,6 +507,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "Csv4WXQAz19JhdMXj36Nl9W+uqw/8EcL+w0F1DAUF2Idr8G3x3169PhSfloI2OShaXkLF2MLxAMwGtrnJiG8jVovg32xI4Fkel3qxATJSQG02VHswn4Hfx2VGarFj6iDxcX/Sqs/vJTrJCgyY6Ecd3K7uzehhtrU1tPRCiwxl4VOz+yN4sbTWQDIKOt97W+gHhjZ2yOZ7r61PMnbH/0VOOeNhhIcy0RnVNWlnZ37rbrAYGC/Uvdk6NzWO8/uwO/oU63UDl0LtAqFGBLdC3z++YQ18Dn1AFHJVaWXjBLWSr0=;kvGxRF7TC4sPXW7CFzBnqA=="
+secured: "cfvDeh+gHzaXKkzBggJ7DJOqkKRZ+zVdF4U72vGTOW0psMiNLX5ZAOaU6B79aiLhJYlf1lO6PQ3f1xZ3B8F+7Gkv5Fb0B6hKTf44Bt+glP6BlZhlBbdt/fdqo3SCioMQ5aoijuZHNMlZX62BVFTOKpcHK1PZktGya/0sflCbyRa6+takErtaRODicwppioVeoAfai5T8ftpZA4Q0Gse3FLr9zRi24nAEkSrJ7wKIRvYE7MHQiMedveunoHTmnz1spniHZ0qRi54Kun/JxtVBIwCE75XOAQlJt/kAIfgZkeQ=;vgl8DiXXVm1Pidu9x8dCog=="
 ---
 

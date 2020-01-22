@@ -39,6 +39,36 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Placer.ai raises $12 million to keep tabs on foot traffic in real time"
+    excerpt: "A somewhat newer entrant is Placer.ai, which was cofounded in 2016 by Noam Ben-Zvi, Oded Fossfeld, Ofir Lemel, and Zohar Bar-Yehuda. It might not rival location data giants like FourSquare and ThinkNear, but it managed to nab $12 million this week in a funding round led by BV Capital with participation from Aleph, Reciprocal Ventures ..."
+    publishedDateTime: 2020-01-22T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/
+    ampUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/06/global-e1579243388331.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Placer.ai, a location data analytics startup, raises $12 million Series A"
+    excerpt: "Placer.ai, a startup that analyzes location and foot traffic analytics for retailers and other businesses, announced today that it has closed a $12 million Series A. The round was led by JBV Capital, with participation from investors including Aleph, Reciprocal Ventures and OCA Ventures. The funding will be used on research and development of ..."
+    publishedDateTime: 2020-01-22T13:56:00Z
+    sourceUrl: https://techcrunch.com/2020/01/22/placer-ai-a-location-data-analytics-startup-raises-12-million-series-a/
+    ampUrl: https://techcrunch.com/2020/01/22/placer-ai-a-location-data-analytics-startup-raises-12-million-series-a/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/placer-ai-a-location-data-analytics-startup-raises-12-million-series-a/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/screenshot-4.png?w=1024
+        width: 1024
+        height: 453
   - title: "Snyk raises $150 million at $1 billion valuation for AI that protects open source code"
     excerpt: "“Snyk continuously monitors the applications and alerts when a newly disclosed vulnerability could impact the customer.” Above: Snyk in action AI, machine learning (ML), and automation are playing an increasingly big role in the cybersecurity sphere — just last year BlackBerry doled out $1.4 billion to acquire AI-powered security platform ..."
     publishedDateTime: 2020-01-21T11:00:00Z

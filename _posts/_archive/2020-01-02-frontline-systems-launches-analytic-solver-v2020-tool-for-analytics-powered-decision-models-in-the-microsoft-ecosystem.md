@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Frontline Systems Launches Analytic Solver V2020: Tool for Analytics-Powered Decision Models in the Microsoft Ecosystem"
-excerpt: "comprehensive predictive and prescriptive analytics – machine learning, simulation and risk analysis, powerful optimization – plus standards-based business rules for decision models, with easy deployment in applications using Office 365, Azure and ..."
+excerpt: "New tool offers easy to use, comprehensive predictive and prescriptive analytics – machine learning ... in applications using Office 365, Azure and Microsoft's Power Platform."
 publishedDateTime: 2020-01-02T08:10:00Z
 sourceUrl: https://www.benzinga.com/pressreleases/20/01/p15059493/frontline-systems-launches-analytic-solver-v2020-tool-for-analytics-powered-decision-models-in-the
 ampUrl: https://amp.benzinga.com/amp/content/15059493
@@ -19,6 +19,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "YAFkxkjxpvvVp30LuRrgtJizmiw3N+ymYHUPwckSIOskKleL4t1YXQKe9fOzy4UibcHCyLEVdnsf/tTr6dkbLgDcWY3d4IVPwAOevvwvo0yqi+Vc+cuKPgW5xlOrim5cxhZSClsQ1o5EI5+JsCXOCtScJ8VWqfvbeYV39a8C3ItbA5/JcQ1a90NC7wD4nPtQqNXxQqVkJ5lrUNwRLcUpW0DfNXXDmJ89llP519twkpgAnVn+Jbjczbpts/aJj79StxTc/F3pBvkN3PRAXHzGbmY4ggTOL/BFRD5pmzcH0B8=;Mxomhhr7U4dkyq1uFCCBWQ=="
+secured: "jFsdZCuV2zXgAJT54t1RXhXLHKkk44aQ0vhMyzB0f7N2Ks9w+stIjvbYC6SD2GY/7HyT12qTEsMFsIFJ71ok/9xF0XtKFDCOHS8QDEwn0F3A2te9l2HAVAmPRu90cjDP8UByHwpYkcyyNOYWwSwuv0zN+JMpMAqWVAs8+sRYGYWCM3Q+3NOhp2OHJL8aAJDBc5I03jjIQyUmtiHfpdvf8gkU/o9yTog0M9NenD4aKNXj8bNWFQ7JxhV5EHNUXfatfUzr2vdxxDIPIdy9sZrJD5VB9qPX7ABjRwq5pjffIRY=;RB9nF8RRa2dXW5fc5iVJ0g=="
 ---
 
