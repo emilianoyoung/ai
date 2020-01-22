@@ -23,6 +23,6 @@ images:
     height: 430
     title: "Stellar Cyber’s new app applies machine learning to firewall data to spot anomalies"
 
-secured: "zrKvSczoQFwV6oUw1oqd152Y8jcg781Gk3bd3kXg+VJwc0ccLYxo2UCkAIr+rCOjlLQx2vglJYZqgJEBVDw/oi++irv4t4uG/wcwDVEDDI/mYs5aDD2h+Mu1P1lOJcINIhF8qVV4+ft/SEYzBN0i5gejOGHFBgd2jnMxB9j3nFYGCdKM5TMKNvpAlLqZxpyfWTA1rbt8CbpakaMkBvkI9E3LkRgziZycY+3P5+U1M+kl+N7fnTFd8IOlBz68sTPcxwe95bRyO9Q+8ofMiIO66U7oA3mSjXt569tgKPJqizc=;V6EraNQjgIBiTbGcSywrYg=="
+secured: "q2jTQC2B0ub4oladAQC3Unl7HuYst2F3ajcxPfhhRsI2KzyHHB7B602L1hBKZ54lY18rveKvqySy6bGSNa59b1+FG48PEpTpo0ggcjdSA2Xo+VBGns63THCq/69+Q914zmc0SIeC5TnOs2v6kV+CkD6i892+rtV1T8TNLCzzNI06yTM41N+pnRy3af0S1iRsakILGti5Ap8tEJD0izwhtR5xQnCukvUCikZhlq9nA4p7HUKW6GW7gFAE7aUtovyfQkRiR+EqMylasDnUP5b8EnhyPWqZ2k+n/pwWSgFU2CM9pCiUYjpGTktDfbDUbI7SrVTWEAnOXbaFuTBjJoBOD/n8SbbtDSe2/RdQlt/o8MO83DUFf5QcT9AG6SagjoR2vMYxKFEqcFdVOCKIpFO+khDHSSBktlV14oyyQsLl2biGN3p696eoQJRb2oq8uS+cjUQGAdmbX9iOq/cJjupS2w==;Xty0c86XBkxzhkP3sloQGQ=="
 ---
 

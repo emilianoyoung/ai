@@ -1,28 +1,28 @@
 ---
 category: news
 title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial ..."
-publishedDateTime: 2020-01-09T19:45:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/x5wn4g"
+publishedDateTime: 2020-01-09T20:50:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-global-50-billion-neural-network-software-market-2020-/2020/01/09/9079369.htm
 type: article
-quality: 64
-heat: 64
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "qqSZGrzBxMGNUnlUTsHxd38N43kaLCLSJh59XA2sqDGoUM6BG4DaBIgWzTurA8sEjjiNmrwExn/Ry/AktwBmmveIXw4MYvoIS2P/pQdpQ4M0rWTiQBb9nzNNUaQMa15lmB0KzL0Z/nQ2nBm0EOD475LNmplvASlUSTzYnAHvK6Gf+o37Yz6jIxtClOfGc+wlDagW5ZEGAi0MC2VKDwQ7lSYuYRXc2+7Y20Uy912tGLpSDCBRcj6QG1t3LQfj8Xr3HLRe4yQ8cuib6rj/VA0u79pxUB6pX+TBwB0XeGFSrQw=;6bdrvb+UmZDDqgYbwB+JdA=="
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
+
+secured: "AYdA6UK/u53/NX9v6ojt4nro183jzxxjAM0SbcoIx5/ABPzMJgHecJP8mTmdCLANUDro3Ia2XLHMN/ipHDoI4Ay5lC04G+B0cXzN63bo1UKFKEM7FnPv7PVgz8n+1isjJ+fQq0o3PnP7H8c3ekoBIGJ2ELqAYiqlpgQ4hRcKkFSIFL1pQgKpkhU8AMIBXUJUbVmV2Nasw0ktDDmy9j/Tp/23iawHpbLkSH+qXa6/ZczeVEvmo3TWiWjAAB3nr8J6oebASwGA0drz0Ka16BO86VKk3xEjt0+DiP7IVRLHaDM=;XhhcpoGjEOfGnL1l4N3iKQ=="
 ---
 

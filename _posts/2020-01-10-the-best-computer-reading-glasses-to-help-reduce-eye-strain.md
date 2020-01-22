@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?a
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "The best computer reading glasses to help reduce eye strain"
 
 related:
+  - title: "Today health tips: Avoid computer eye strain"
+    excerpt: "Staring at a computer screen is bad for your eyes ... any pain or tension around the eyes and temples and blurred vision, you need to take some measures to protect your eyes."
+    publishedDateTime: 2020-01-08T04:14:00Z
+    sourceUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/
+    ampUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 59
+    images:
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2020/01/Computer-eye-strain.jpg
+        width: 675
+        height: 365
   - title: "Now, computer classes for the vision-impaired"
     excerpt: "Through their mobile blind school, Tiffany, who is vision-impaired herself, is now providing computer training with the aim of getting people placed in IT companies. With the aim of empowering more visually-impaired people so that they can contribute to the society, Jyothirgamaya Foundation in association with Wecreatelives, an organisation ..."
     publishedDateTime: 2020-01-14T01:51:00Z

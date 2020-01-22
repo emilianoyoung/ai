@@ -1,27 +1,29 @@
 ---
 category: news
-title: "How to reduce call volume with Computer Vision AI"
-excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
-publishedDateTime: 2020-01-09T00:47:00Z
-sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
+title: "Today health tips: Avoid computer eye strain"
+excerpt: "Staring at a computer screen is bad for your eyes ... any pain or tension around the eyes and temples and blurred vision, you need to take some measures to protect your eyes."
+publishedDateTime: 2020-01-08T04:14:00Z
+sourceUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/
+ampUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
+cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
 type: article
-quality: 54
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CustomerThink
-  domain: customerthink.com
+  name: TheHealthSite
+  domain: thehealthsite.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://customerthink.com/wp-content/uploads/woman-1446557_1280-pixabay-social-technology-1.jpg
-    width: 1280
-    height: 853
-    title: "How to reduce call volume with Computer Vision AI"
+  - url: https://st1.thehealthsite.com/wp-content/uploads/2020/01/Computer-eye-strain.jpg
+    width: 675
+    height: 365
+    title: "Today health tips: Avoid computer eye strain"
 
 related:
   - title: "The best computer reading glasses to help reduce eye strain"
@@ -39,21 +41,6 @@ related:
       - url: https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "Today health tips: Avoid computer eye strain"
-    excerpt: "Staring at a computer screen is bad for your eyes ... any pain or tension around the eyes and temples and blurred vision, you need to take some measures to protect your eyes."
-    publishedDateTime: 2020-01-08T04:14:00Z
-    sourceUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/
-    ampUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 59
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2020/01/Computer-eye-strain.jpg
-        width: 675
-        height: 365
   - title: "Now, computer classes for the vision-impaired"
     excerpt: "Through their mobile blind school, Tiffany, who is vision-impaired herself, is now providing computer training with the aim of getting people placed in IT companies. With the aim of empowering more visually-impaired people so that they can contribute to the society, Jyothirgamaya Foundation in association with Wecreatelives, an organisation ..."
     publishedDateTime: 2020-01-14T01:51:00Z
@@ -69,7 +56,20 @@ related:
       - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/14/w600X390/Now.jpg
         width: 600
         height: 390
+  - title: "How to reduce call volume with Computer Vision AI"
+    excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
+    publishedDateTime: 2020-01-09T00:47:00Z
+    sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: https://customerthink.com/wp-content/uploads/woman-1446557_1280-pixabay-social-technology-1.jpg
+        width: 1280
+        height: 853
 
-secured: "aLeer50wY+u7Oh+QkMCJdO91FR+K4rkQVj89LlrkGNHEkeeQmT6rG9sn9BxKY6aSh31TxlG7fXUC+8E4vJGFbO5kLpaCyx3djmU0Pc2NmfO/tNGrdq8fpxAeuPzi3MurcwzhNNg8DmGyY/QGfveiHSe5erw9yELmzmAnyfrSYW2X0Z/+wJYKpwRyNLBWqxW5Y+3f2KHeBtJLkR6rqF/C32eBcnRF1B+epIoGIYgH0jSomp/Flr6ljfaouuP0IJowv8wXIHstJ6OJ2USw2y9HHGwFhGOTPYBmVOYCaSwaVyE=;ieryP6WDhx98xqnYs4EDxA=="
+secured: "I8m3++kYgSJd+J8OMdhWxra33xTNMAcfVhoQcII1tbJzQtYsbW3RMhINWnUcAlGeoVHHLLDCNFPXkjwoxIanx1DWw71AisO/bIR8K0Jw5lnCZvaGoSUODGe30E4cbVuhXNa6yBM1JsaMra0m5gttpFT2lf0mFKPHZHMa003lDYiOJ/RFFuHKJuc5reSDwIUYV5NzCEcGDSbNzdYngX1vPdQ5NAUO9VjTxC75l+qZZ+azDnEaXTWDCzg367MIibNqCLxde500NCowyIo7lmnrTZ7lf21KY8oDKVZgJNGp9Kw=;rj/DHeOWh1xWtHZfNJHHrQ=="
 ---
 

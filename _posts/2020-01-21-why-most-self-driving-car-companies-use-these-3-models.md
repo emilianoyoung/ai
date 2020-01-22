@@ -56,6 +56,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1054938092%2F0x0.jpg%3FcropX1%3D243%26cropX2%3D5753%26cropY1%3D0%26cropY2%3D3101
         width: 1200
         height: 675
+  - title: "Cruise's self-driving electric shuttle is made for ride-sharing"
+    excerpt: "Instead it's fully self-driving, intended to be a shareable, modular vehicle that can handle being on the road all the time. It's basically a minibus, with three seats at each end that face each other and split sliding doors that open up like a subway car. Cruise hasn't revealed details like the battery capacity or cost, but claims that \"the ..."
+    publishedDateTime: 2020-01-22T02:59:00Z
+    sourceUrl: https://www.engadget.com/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    ampUrl: https://www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
+        width: 600
+        height: 350
   - title: "GM Cruise unveils self-driving electric car for ride-sharing"
     excerpt: "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ..."
     publishedDateTime: 2020-01-22T02:19:00Z

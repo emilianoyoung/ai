@@ -41,6 +41,21 @@ related:
       - url: https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
+  - title: "Today health tips: Avoid computer eye strain"
+    excerpt: "Staring at a computer screen is bad for your eyes ... any pain or tension around the eyes and temples and blurred vision, you need to take some measures to protect your eyes."
+    publishedDateTime: 2020-01-08T04:14:00Z
+    sourceUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/
+    ampUrl: https://www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/computer-vision-syndrome/today-health-tips-avoid-computer-eye-strain-720967/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 59
+    images:
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2020/01/Computer-eye-strain.jpg
+        width: 675
+        height: 365
   - title: "How to reduce call volume with Computer Vision AI"
     excerpt: "Computer Vision AI refers to the processing and analysis of digital images and videos to automatically understand their meaning and context. It recognizes faces and expressions, helps self-driving cars read traffic signs and avoid pedestrians, and allows factory robots to monitor problems on production lines. It’s important to note that there ..."
     publishedDateTime: 2020-01-09T00:47:00Z

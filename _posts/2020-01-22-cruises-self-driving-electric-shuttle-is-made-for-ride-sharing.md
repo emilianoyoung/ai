@@ -1,23 +1,33 @@
 ---
 category: news
-title: "VW: Fully self-driving cars may never happen"
-excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
-publishedDateTime: 2020-01-20T00:04:00Z
-sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+title: "Cruise's self-driving electric shuttle is made for ride-sharing"
+excerpt: "Instead it's fully self-driving, intended to be a shareable, modular vehicle that can handle being on the road all the time. It's basically a minibus, with three seats at each end that face each other and split sliding doors that open up like a subway car. Cruise hasn't revealed details like the battery capacity or cost, but claims that \"the ..."
+publishedDateTime: 2020-01-22T02:59:00Z
+sourceUrl: https://www.engadget.com/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+ampUrl: https://www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: News.com.au
-  domain: news.com.au
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
+    width: 600
+    height: 350
+    title: "Cruise's self-driving electric shuttle is made for ride-sharing"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -65,21 +75,6 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=
         width: 1200
         height: 630
-  - title: "Cruise's self-driving electric shuttle is made for ride-sharing"
-    excerpt: "Instead it's fully self-driving, intended to be a shareable, modular vehicle that can handle being on the road all the time. It's basically a minibus, with three seats at each end that face each other and split sliding doors that open up like a subway car. Cruise hasn't revealed details like the battery capacity or cost, but claims that \"the ..."
-    publishedDateTime: 2020-01-22T02:59:00Z
-    sourceUrl: https://www.engadget.com/2020/01/21/gm-cruise-origin-self-driving-shuttle/
-    ampUrl: https://www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
-        width: 600
-        height: 350
   - title: "GM Cruise unveils self-driving electric car for ride-sharing"
     excerpt: "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ..."
     publishedDateTime: 2020-01-22T02:19:00Z
@@ -308,6 +303,17 @@ related:
       - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
         width: 730
         height: 467
+  - title: "VW: Fully self-driving cars may never happen"
+    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
+    publishedDateTime: 2020-01-20T00:04:00Z
+    sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 24
   - title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
     excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
     publishedDateTime: 2020-01-21T09:25:00Z
@@ -322,6 +328,6 @@ related:
         width: 1200
         height: 628
 
-secured: "PCicczW0XN0hUTAI/Y6skZZjFx8PL2VOgDsK/y3khJsAsxI1tSE/HPFsAP6OqZPrNo07My3OEXIXbLIfUYzstxidvSz9Gg/TXlFSNRQdXK28oQS6hFUE+kziGgPA3M4W4k2HJdNjEAh1G4dXDKHhSeL8FG+YEnpPIK7av9Vp5NzsH9/lpldJwowzoBeJ67fAQi4SUdJbc/Zkuj18Bru4Ty9f6dx8fvjNLwFIgnyJaNwxQbhhPe0wtGtP+yn7aofI1BT6Vb//vFZqsRTRJtOwbiGrd8wkQhApLETMef692R0timKHJcjIjDd4LOsp9pBe8HPwcMZg6nm2b7dYk/jePl4WOVB9QefIK9Jf9xXdzs6nbE+Mdffgh088K7AounYapqVJZpOCuEPDCL8OYBmt7tBFtYNOxn4b8TQEHQptElG41HEjsJ+DWxzukYRyFF5m6niyF9BgW4URsCt6RUeNyQ==;zDvPE9PQM42F0zP6z68ySQ=="
+secured: "Z3+gwDQDN5omQtojdviIA1rM3NDaf+Lp2vnBBjAhUI8o7wph7uSAFJM7WQ6Xwi2vLJU+W+SRrVQUEiwpH25Sv/DP7ywEfoMFPgGuXLE4O9NagLLHxuQXEL2cFCT3c+8QtmHCX5LX2mdBt7i0pgVoo+95bxc+jRRvVXAUNN9AedKfixD8DGQhpGCuUMahFDG+f4bAGt4iNZV8l3xvKnC8O2Xp/jaHmgRQuRQXGDRfSPud1TsnMR9c0CcC+0cbznuNx+FIQCILQiB2NjB5RHsYG349dMyV9EucJnEtswCa5jM=;Qwg3rLbFNZ4q3sE8VGM8vw=="
 ---
 

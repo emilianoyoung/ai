@@ -48,6 +48,28 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "HCL Launches Dedicated Microsoft Business Unit"
+    excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
+    publishedDateTime: 2020-01-22T04:09:00Z
+    sourceUrl: https://www.siliconindia.com/news/business/HCL-Launches-Dedicated-Microsoft-Business-Unit-nid-211929-cid-3.html
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: https://www.siliconindia.com/news/newsimages/987CcGh6.jpeg
+        width: 570
+        height: 367
+  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
+    excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+    publishedDateTime: 2020-01-22T04:43:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 19
 
 secured: "3SYvPz1GDf+b4Gw15RmD4w5nLZm3pkhnrvvv7ilTVBhmsV1Bycha2wNltd6c4G07mNLpgJwFjJNFDWKfL1Z4ng1dcNDAYmfR3FMPhlQ9w2glpAnYfhrbvskgiV2h/JUXZecxF+yQjBtp8Wo8KOmJY42wce22dD/T8p8sxR0IO5GCfzBSVDea+tTmCDRiHuBEaEPW5Ywonye83ecKT7gowlzjzi61nd8voCmwFit6i6ipl1+H5f1OgtZp/CwYqLx3kfPpuyu/LjP4yoB1cubs9Dedq6OUMZgtSY+zW9+Vx2k=;8HtQGk6r6h7qagloe8HOKA=="
 ---

@@ -2,26 +2,22 @@
 category: news
 title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
 excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
-publishedDateTime: 2020-01-21T12:11:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-gbt-expanding-its-autonomous-machines-robotics-research-/2020/01/21/9084095.htm
+publishedDateTime: 2020-01-21T12:06:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15152568/gbt-is-expanding-its-autonomous-machines-robotics-research
+ampUrl: https://amp.benzinga.com/amp/content/15152568
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152568
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Robotics
-
-images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
-    title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
 
 related:
   - title: "What is Machine Learning? Why its Matters and how does it works?"
@@ -38,6 +34,6 @@ related:
         width: 600
         height: 256
 
-secured: "jRuZZyT7mCcer8V/tf52Bas6mY3ePbWZn9Wxqx9C19kGgZVhVx3XZAp9QQeempOuKkoDls0cRi3EW8ydVmn5ECeOR92NyQ4XjQjvlwvodmbuDtw+XC/EAwQJNv/bIO4KYPsMF/Y5bMVy6Rn95w91CW7+cIHNUO5q6vhJr87Ec6uC6VfbT7wi3dZgk5PJHjEEeSl2rSHJty6jctP8qSBsJJIcwmz69M8jRd41up7pxfAZw3yo30tvdOgauaioMWy9WpJ4AOnKozH9blVFNXzL6MivhkQWO//dMlGsGXRNHGg=;D5GdVAK2WSkp8HVKC4tjIA=="
+secured: "YwfbqLq+9ql/P7hBgK1r4xGJDbJ7pX0rcuhAXmLzmDEytjGq62z9YpNfFKg04vWaXyCXL9Aq2bU1PKDsgL5o+2AizxEFrLEkCQjKah3JxHN0W9T0WZbnCzhmfZMfXoGJviVgtB8wVRvG9wk4lTtj/fNAJN+zH3cPLvpuazVPSRJH5ECiy/AhkLdui8zMAyR2ZjVC0NCQAfOh8jquYKabMpfXRqMrS7Kx3dTM7m4bxjRMydEF/G1MOsf5YJQ7jt5pENkYfqs7xRpRk1+EDjh7OvSDDWUNxSz0iy3TSOEzWNk=;aYr/UKN+3mHN0fLQq9pYtw=="
 ---
 

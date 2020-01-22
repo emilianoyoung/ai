@@ -23,6 +23,6 @@ images:
     height: 737
     title: "Deep Dive: AI Behind The Rise Of Capital Float In The Lending Space"
 
-secured: "2yHjb1JpuJRZsDtk/krUSdl/OvUj+XFsLzaUt8lYhr+yJRIpUpLGRJz7pMQd4HATBxhOus19txX4s08NQ783GDyt/nI3CWFEyJ1zTqrDl2aYYGpOldnLpZXce/djjKkH4b6DaBSQEZ/THERmDQKaWKY0PCSVDK5EgXcDn/zlC9SGKpwNV/oZQ7AZMzBWUFQaV8ear3X1d/YN12zakLywvi9wUl7qvzKWJ5UqlcNLfQrWcVQYwSdkFSG0e2EqHgczi2l5XDhWwIo5zFC2929OLsnIGfJnBn3c+i07t9drQYw=;61BLEdvFIvqOH2aL+7lqRQ=="
+secured: "Kiaxbiy8qzbGayJdHeCUKWM78E6hCPtN+FmHWmCDE9B0Fcl6vZDZSGQXXyWSdQ3xkoS0l+OcR7yyhrTkVt7qtsKG1OpIaHeqsOFx2+3IYov8d56lx3byfRa1kMLGfyBHavloRo8LtplBzXL42tGrZ1CA8cv/iC7yx3VyHKEEG5tCcnaGBkRJuIPsgi192cNkbHSufduUEvQlpapBozKVC/8mJRaQDbYKAT5gk+qtijsXIGW1rXV70QGSG2PLd7T1+rhRgKknEJ/ti5F2CeAsAy9O/x5iHKkgUvgCFVj56kNG+sCSf2PDOmEqy9o3/R1j8hn7m1lhyu9p0psjUuryM2NKT/moDUA004BB0RzYqp5xMbALiX4wz/wbsBPvE9gjucOGeiPLnTGUslkeMBKurho07cYHJ7fDbrNwkZidbWzST9pRUvgA1ATGNWeLQkFI7PhNWx+aNmqkX8Nsq/fEkQ==;PhiOKxgA/2w3LqsRd4lJ3g=="
 ---
 

@@ -1,33 +1,36 @@
 ---
 category: news
 title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-excerpt: "HCL Technologies (HCL), a leading global technology company, today announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies. This will extend Microsoft’s offerings of Business Applications,"
-publishedDateTime: 2020-01-21T12:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/hcl-technologies-launches-a-dedicated-microsoft-business-unit-2020-01-21
+excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+publishedDateTime: 2020-01-22T04:43:00Z
+sourceUrl: https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/
 type: article
-quality: 69
-heat: 109
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-
 related:
+  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
+    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies. This will extend Microsoft’s offerings of Business Applications,"
+    publishedDateTime: 2020-01-21T12:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/hcl-technologies-launches-a-dedicated-microsoft-business-unit-2020-01-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
     publishedDateTime: 2020-01-21T16:30:00Z
@@ -65,16 +68,7 @@ related:
       - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook
         width: 1920
         height: 1005
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
-    publishedDateTime: 2020-01-22T04:43:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 19
 
-secured: "HLaV9AwjLabn/wuN5aeyRmuv1jGs0HIxypOSLMeNnBIf/FQ1SyKdcEmI5Z2HGz+Bozum+nLyxPs1utYlwWcBKK84TdzkMNhEkNdP4dxN/++ojs/LQLHFHhOEleWokV8eAsSRlb4HN3TlZFDZyOK940+wFAIept73TmcyPCTBWk6ZVQAxTffLZ81ANnyERW0X3q8QNEqVxU959aKapoWaBcRhirFsYlLe9bBzbkJa4H0ITv/E+uIoHlHufn3IZwOkX0IuttkID3NAxjM3mlYkbPa9MOdtrkAIyThdC7QTG3U=;dksHIydGmOBiQdA+P8w8UA=="
+secured: "FCYjHp4UjpO8qwiUW90FthkmR/nj4pla/S9szombLsTIxSPt1tENoTb5nDpamRM3JgvYn44c7WbyEmjw9qCNq2G+TmpNZSeFzzRcUt53H1ZICEVAjTYdNmVeYYHUh/x12qHKM6JbqpIOVJ+KBdCa65R7g0sr2k217PDfRwsYwU4Y2sNrYtKr1In6WE8YjOqH7g3l6YnEiyI8DNnBdWfuU6BZBYAhIiLOiqm1+4rayVgvesgIWprqQS++SmTkvgcHrI113yLHmY1Y7GYheNbfbOnmVvwj/OkW7Rl0bTI/9xE=;qaJzeYX2iXuhwqQe4Zxeag=="
 ---
 

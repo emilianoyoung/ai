@@ -75,6 +75,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=
         width: 1200
         height: 630
+  - title: "Cruise's self-driving electric shuttle is made for ride-sharing"
+    excerpt: "Instead it's fully self-driving, intended to be a shareable, modular vehicle that can handle being on the road all the time. It's basically a minibus, with three seats at each end that face each other and split sliding doors that open up like a subway car. Cruise hasn't revealed details like the battery capacity or cost, but claims that \"the ..."
+    publishedDateTime: 2020-01-22T02:59:00Z
+    sourceUrl: https://www.engadget.com/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    ampUrl: https://www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
+        width: 600
+        height: 350
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z
