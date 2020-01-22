@@ -311,17 +311,17 @@ related:
         height: 480
   - title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
     excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-    publishedDateTime: 2020-01-22T14:28:00Z
-    sourceUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
-    ampUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+    publishedDateTime: 2020-01-22T15:47:00Z
+    sourceUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
+    ampUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 44
     images:
-      - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
+      - url: https://www.orlandosentinel.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
         width: 1200
         height: 800
   - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
@@ -501,6 +501,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "YN4K8g9kulCeY0XwWa3HTv4WaEOcM5jPir7lFHb6NFebJfmosUK1K8gbWD0VRhSkhtWhjb6J2RyWCuAeFWPL5jK8VHbVBztid/QCt3EM7rjUKUFUFL6kDY/Gw7AyGmp9tM1r5DkkVAHwISvqG9PjkthaZTppr/jJyEXdrOi1pZfg3dbudnbPn2eueyJ5W/3JFHoFRV4pD+edYRi1YeM0FISixlMz31O7sL47S2ErlqiyPhghZALOzTFQltsyIWZRc5eFUM7C//P5oWWHgNP/ZbQk+j+uPdytABouKa5mDYg=;zy/A67H1c5ey3uemSawUkQ=="
+secured: "1RAQaq1/Lm/dA2Eq1/W4fh6IuyQpc1Z/QAPGXJE0S3JpRA/2+TrywEjStPQqy6bKCzW/t9ddMejyD1zuM79Dz/MfjH3bIC4ZSFdmVyiVUx/ny2C884SC8eoEKikFe7qo/3Mi3dLft4HKC7GTLjwi2bBFOk6BYFWrtzoILLAwoHHpBy0b2yGLsqTTY62eKjdCdcibamuqK+ugi77wbdDL+xyK/4hiPT4CAX8U0oj6dnwSQctLG8ce6Qp+J4y/ZY078T6jeGuoxB8KCObC/sotRsy7UXDCEB8n9Ut8pJKLNc9dzDPPZKx4J+/iceES3H8dtVxN8eNU3oeF4DHzJR0dsvxMxIn4yG3tdzHZF5UHGsFzpA4/J0182NP8n74PaenPD43qJFAGwLbEdfhNDNUQahn+IF9LYcBX4rAYK11G/kfDVoyNChsluDvRdeffdstFod3T3RFGhEnWiRtkRuQUjw==;NRPHdmLBTosULRm9xYy+2g=="
 ---
 

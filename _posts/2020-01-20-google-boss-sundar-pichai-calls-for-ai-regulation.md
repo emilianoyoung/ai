@@ -2,18 +2,22 @@
 category: news
 title: "Google boss Sundar Pichai calls for AI regulation"
 excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
-publishedDateTime: 2020-01-20T16:46:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51178198
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
+publishedDateTime: 2020-01-20T16:39:00Z
+sourceUrl: https://www.bbc.com/news/technology-51178198
+ampUrl: https://www.bbc.com/news/amp/technology-51178198
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -85,21 +89,6 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
-    excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
-    publishedDateTime: 2020-01-22T12:06:00Z
-    sourceUrl: https://www.reuters.com/article/us-davos-meeting-google-healthcare-idUSKBN1ZL1EG
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL1EG
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL1EG
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479761867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L12M
-        width: 819
-        height: 545
   - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
     excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
     publishedDateTime: 2020-01-20T13:18:00Z
@@ -128,21 +117,6 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg
         width: 760
         height: 428
-  - title: "DAVOS-Google CEO eyes major opportunity in healthcare, says will protect privacy"
-    excerpt: "DAVOS, Switzerland Jan 22- Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
-    publishedDateTime: 2020-01-22T11:45:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
-        width: 1200
-        height: 630
   - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
     excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
     publishedDateTime: 2020-01-20T10:30:00Z
@@ -203,21 +177,6 @@ related:
       - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
         width: 863
         height: 545
-  - title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
-    excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
-    publishedDateTime: 2020-01-22T14:33:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: https://image.cnbcfm.com/api/v1/image/106062638-1565093185244gettyimages-1071952250.jpeg?v=1565093218
-        width: 4054
-        height: 3150
   - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
     excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
     publishedDateTime: 2020-01-20T20:51:00Z
@@ -599,6 +558,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "z7CwmN4qNXy0CTMdnerEqYaYxvBuMjGRPKsO/QtU+UM2mbw14BKQ/uilvh8FQSJeA8So9KXwBeMSK/SJMaPnfL1Rtu8QhVOXKf9DnU8EXeaMJoDhHhHZwqPwUzA0aZVU6JicOEIB1NSeXjGiDpDAhJCFp7link8oJG1J5EkING7A6nWb5rt48MneCJOeqot+O1tA5et+RE4hpZZUSBWjrg5y2vPAjdb8DiFmYAnlWgJ5WK16cbPGvrhnyIke/v1kCZSNMxE697l2Sp7UZNievKsyqO9uPsmuTGzogpaqhjePWmDEcfREAhh3ehsv5VZJj9hkCpDbPn10bM7JQ0yVaIw9RhTeNGJ+lz37vANkMaX4Uz7LBlDsuCyRQeWkq4qIyuqhtxfi6JVlUB6BwPFpqT3zkNuWbnmAUb7NMqNJJ2V2YxZ8051RbZekCrDw9IaHhQ8UZNT+O4ruTdgTePuZ6A==;cRzpMDQhB/h6S8TLSLKsTA=="
+secured: "WBonP7ngfLUXZtokyXHKDHIAmrs6p1Iu4t3M8+DkGg9q2HQdD5wpqeWpNZUUnFcVb8NlJb9W6FmoCMnDKGrDm6/lSpF0IyV6Iqf+RqQvUBaEORUyvQAWVQUoYvrAC4zEogT8A3claFYWkRVvEw0sLFiuhn5yXD3yyz+RdO9OvPswYihYvALbURk6UrwRnM0MuX5IErWIafI2nhX/4kd4nJF9bstrCTVSwo+Ckjx0cEDJ8av0Crndpnhp/vrH9QWJY3F0yM5zByj4gSugbd17vKYLXPJvSOeHZVBDFY6fId8=;Ifez023Sl0aVwAh9qxY5Mw=="
 ---
 

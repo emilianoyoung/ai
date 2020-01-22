@@ -49,6 +49,19 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/cloud-computing-2001090_1280.jpg
         width: 1280
         height: 720
+  - title: "VMware Is Buying Nyansa, an AI-Powered Network Analytics Startup"
+    excerpt: "On Tuesday, the Dell-owned cloud and virtualization giant announced its intent to purchase artificial intelligence-based network analytics startup Nyansa for an undisclosed amount. This comes just three weeks after VMware completed its $2.7 billion acquisition of Pivotal. The deal is VMware's second AI related purchase in less than six months."
+    publishedDateTime: 2020-01-22T22:40:00Z
+    sourceUrl: https://www.datacenterknowledge.com/vmware/vmware-buying-nyansa-ai-powered-network-analytics-startup
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/vmworld2019-05.jpg
+        width: 3264
+        height: 2448
 
 secured: "SSA/h/tbkhRQg6aXQNdl6JBy1puRqEcWiURD34fw3xWhLQ1Lu2BAfv43CXCDBj7z54/D3TpZDDMudOcxeFLhx9+hqCbYUDc0OKqCfPCaXNKuz+BotI9KONWuPr2fJ9EJnla1NzjJbOZv5DlIi+bG8UTo9Ap/wqlCKh7hAvQBHnCq1o6/gkWXPJOSW9UBcGm09nWpNpmzI205sZ0oukYZ6rhFNRq4cUdNXrNEm2PIYsDWNALUCWyPaIFG7pOoQwY03LZQncFtKiFl7d+NhvX4PCVsbzHsClnOsnZpZETPHk1A0pbZHHv5T98sezWG5+vMiOT9Mu6n3KjdDiZmGk+7z+Hpvg9Ly8HXlezqPAEU/NMlcZ2q+q/8xKNcVGjA6pNdTSk9B4ti/iQzfkXCWC//XL7pREORXm4ydDDP94KX+TkcsWNGggghR1L69MG0NiLfAXDWd0X3nuC96I3whRTZhg==;wPaS38YsFGrHJ3kff0taxw=="
 ---

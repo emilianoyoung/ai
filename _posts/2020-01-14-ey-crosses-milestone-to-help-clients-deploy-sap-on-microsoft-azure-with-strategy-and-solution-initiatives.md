@@ -23,6 +23,6 @@ images:
     height: 314
     title: "EY crosses milestone to help clients deploy SAP on Microsoft Azure with strategy and solution initiatives"
 
-secured: "dckdStqA3H9/PnAwCnK8F7ms6sS96gE9Sh5O7TnJ4GxjNsd/CyC66+gf9ku5HjBWvggvQtgvPa4KVroL/q1HWRWcGtyBMXBK46+1gEfmDGzRyoU/Molz0WBO2u77WBdkBhyi9tW9L4VJdzbxexx8ag+9oXTre3YnklbqRija6aKEBvh5axuQq0D7Lipooznko21d3XoFTnVYUmsq5nIdZQEb8N0ZC9bxJecoX3KYp/+uk2gdvdLFH/WzVOO8qQyyDB4BOV9kDNnC+yv0nbccduyi2B66WAqNCxtIiNEWpOM=;OHYvcc03LlB4DIFnJ7XfkA=="
+secured: "pymliUemXvyZfmPDa2GbaThRdHGyKQ5n6hkXW8My+jFMm8X0FZvuz3vY5dL6XhHD+GdX0XY+pEpsDfgFN6Ov0Mo0IBhj2IwMwdfYslHWfzd0j7x1Dit1igJC51ThWvO0DhMPJzq6BzSXnx/jDHgIYsXK3bnDGV/TtZ1vW+h24QxnTfqIeGxurE4T+wruKecP3VNkquKESjmH63vP5NnHOgD3HwIsPxmBEIp9NqsMY/h3kX8xJgGeKfDa+1Xpu/zwYEkSJxYaV2UWZLkrpQlru+9nJ0sgw5VfSKD9pG0IUNvV46r1m0hNIZA3xbm49R7+8One52k8hFNnMhfTE5teZ7XZPZ/r6LQmxsv+AFRekMGG9ik2YJyBsGFVP5tHkyo7FHXwzl2cJVnXbHwADt1IXr6ZhKLIL1GuMlkxl/zrFWTMnwlRAmmg3/M6SW5J2DHAzYd6bDw3V2WhrRSxHNYeXw==;R0x5gjqouYE43zk1Lotyfg=="
 ---
 

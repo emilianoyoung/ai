@@ -1,9 +1,9 @@
 ---
 category: news
 title: "VA’s Artificial Intelligence Director Details AI Institute’s Early Efforts"
-excerpt: "The Veterans Affairs Department’s nascent National Artificial Intelligence Institute is focusing on hammering out policies and streamlining its processes so it can share data with partners in a speedy way. “We are at that time in history where human intelligence at some point will intersect with artificial intelligence,” Alterovitz said ..."
-publishedDateTime: 2020-01-22T20:13:00Z
-sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/vas-artificial-intelligence-director-details-ai-institutes-early-efforts/162585/?oref=ng-category-lander-top-story
+excerpt: "Treasury Wants Better Information on Financial Entities’ Cybersecurity Practices CISA Says Agencies Have 10 Days to Patch NSA-Spotted Microsoft Vulnerability What Do You Think About Artificial Intelligence? The Pentagon’s AI Center Wants to Know. The Veterans Affairs Department’s nascent National Artificial Intelligence Institute is ..."
+publishedDateTime: 2020-01-22T21:50:00Z
+sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/vas-artificial-intelligence-director-details-ai-institutes-early-efforts/162585/
 type: article
 quality: 50
 heat: 50
@@ -22,6 +22,6 @@ images:
     height: 400
     title: "VA’s Artificial Intelligence Director Details AI Institute’s Early Efforts"
 
-secured: "/bgA7z5dG4R1/9ZyI52NGw2/95Oa1vUiseyPlChDyLHwv2jjqmR5mj+no5RGNOltn0xnZhh2W1WEyZYOobKbGKhY6NEU/ciAmqMauWRVp0WVgGwTislRb/Va3OThxueoTpr3ImNrDtF6lSR0rsB+saEmLLBqmqQ0ay8WH29CsKjRe5zZPJ1Lj7AJv8pPwc7SMPEvhVfQ9O9rg70M+X333JdoZiAdae4EZHhC3TlmjM5k2MlX7eOX7R2ufNJN70s+l8VGpDE3+cmKDYC+UT9ZSWtoen+IvNMKzdiBytbW5eE=;XHBTCCU3yqahN8D/q2alWw=="
+secured: "dqkC6WXTo9AJfKvudQwIVs9b7cRaABtyCw+foyj7z05pboDN9ZffPmCVujAKPMqhBokBEipEsQZTFK/bW2Sf8GGSrQanA6woyXeyE/v+H+DsELYi1oAHshtyEsCzd69iUZLUxdlAnhYYvIOxQMyizCSbLiZITEu4Yv1cC6RgZAGce4k8rOgZsX/MqHni1Ud6Q3tI1o6V8GGzd/5CX0hv8V56gB1OtzmBhKOB1nCInXE9tckE3AECMTL8LOfhHbAxsRtB4HkE97mOBFr9HXpFq/CO/r6W6Wf1uie+p4QeeBA=;qETOAPytkJdqgCOwDs8wBg=="
 ---
 

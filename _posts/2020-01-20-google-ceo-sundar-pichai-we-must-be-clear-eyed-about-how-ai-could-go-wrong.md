@@ -60,6 +60,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
         width: 1200
         height: 630
+  - title: "Google boss Sundar Pichai calls for AI regulation"
+    excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
+    publishedDateTime: 2020-01-20T16:39:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51178198
+    ampUrl: https://www.bbc.com/news/amp/technology-51178198
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
+        width: 1024
+        height: 576
   - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
     excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
     publishedDateTime: 2020-01-20T14:45:00Z
@@ -90,21 +105,6 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "Google CEO eyes major opportunity in healthcare, says will protect privacy"
-    excerpt: "Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
-    publishedDateTime: 2020-01-22T12:06:00Z
-    sourceUrl: https://www.reuters.com/article/us-davos-meeting-google-healthcare-idUSKBN1ZL1EG
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL1EG
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL1EG
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479761867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L12M
-        width: 819
-        height: 545
   - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
     excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
     publishedDateTime: 2020-01-20T19:06:00Z
@@ -118,21 +118,6 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg
         width: 760
         height: 428
-  - title: "DAVOS-Google CEO eyes major opportunity in healthcare, says will protect privacy"
-    excerpt: "DAVOS, Switzerland Jan 22- Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
-    publishedDateTime: 2020-01-22T11:45:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
-        width: 1200
-        height: 630
   - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
     excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
     publishedDateTime: 2020-01-20T10:30:00Z
@@ -193,21 +178,6 @@ related:
       - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
         width: 863
         height: 545
-  - title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
-    excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
-    publishedDateTime: 2020-01-22T14:33:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: https://image.cnbcfm.com/api/v1/image/106062638-1565093185244gettyimages-1071952250.jpeg?v=1565093218
-        width: 4054
-        height: 3150
   - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
     excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
     publishedDateTime: 2020-01-20T20:51:00Z
@@ -384,21 +354,6 @@ related:
       - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 500
-  - title: "Google boss Sundar Pichai calls for AI regulation"
-    excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
-    publishedDateTime: 2020-01-20T16:46:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-51178198
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-51178198
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51178198
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
-        width: 1024
-        height: 576
   - title: "Google CEO Calls for Government Regulation of Artificial Intelligence"
     excerpt: "Alphabet and Google CEO Sundar Pichai called for government regulation of artificial intelligence technology on Monday. “There is no question in my mind that artificial intelligence needs to be regulated."
     publishedDateTime: 2020-01-20T16:00:00Z
