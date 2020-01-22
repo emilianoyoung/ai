@@ -46,19 +46,6 @@ related:
       - url: https://www.cioapplications.com/newstransfer/upload/cm4tplklk.jpg
         width: 450
         height: 308
-  - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-    excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
-    publishedDateTime: 2020-01-02T18:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/GIGABYTE-Brings-AI-Cloud-Solutions-Smart-Applications
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: https://mms.businesswire.com/media/20200102005179/en/764632/23/GIGABYTE_Datacenter1.jpg
-        width: 1200
-        height: 627
 
 secured: "16wEDIPeOVAGrziv490rRMwwORC73oU6/WLOA1iS2Q35PdRX/dyvSIbPGB/bFSyyUGBVGBw642tlAWTqEwxAyI50NUufLe9RsEcgMZw9beakZIljDJQBsx1ghFuK82rDzfQQ7onKWCYVs/92U4PvSqmbsy5i2PnGegqSrmsFH9Kr3px3uJ6lJsLNGtHhGXZ0vjGLTRIduypLaVluYBI4sR0Z3BnBCDTcSygBMeB0MQzJlbYBODJb8+ag9KJKSuh529KmKDoqea83OH7uiOHShefYWSYd6q54WzYarpYdR05smyu3PAyxJ7Eq2SOSiRNRbJzMvUms1JcKZZIdcHCXIUMn/M2ACsjdlMauui9Ni84L4DVgf/PIM3SCgVq1GLQ0YAvDfaSdyEa2ynYgToUx14dqVFT/eFFErCZTdm015EZ5PockvBjAo4dbIOGsre2y5Eia330glIkYzI3mZK+ytQ==;VRD6yOFuCn/CNuXQLjMeJQ=="
 ---

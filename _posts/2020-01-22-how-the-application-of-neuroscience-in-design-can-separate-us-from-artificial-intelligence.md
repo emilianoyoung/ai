@@ -22,6 +22,6 @@ images:
     height: 616
     title: "How the Application of Neuroscience in Design Can Separate Us from Artificial Intelligence"
 
-secured: "X3dfdJrgWCcfiCK+HczmBeHz8Fk+EtW7xTdwkXixsdMHBtMNnbnuBq+jQ9Dc6tDFpta6kh/f0QkvKsc95HDrEmS8eY9n+yNUwAJXlMhM13O4VIZ+bwLWzF+i44R10VwL3qaLsj8vqBnZD87yJhNgjkW68lB4X6AQ4sdswq+xHRBsxahqZ00IQf4H0/EmAh2ZfEZxbA1fxbcZlIgaIZxhbpbZeSozLF+E+Vyf7Tk7CeJ/Q7nfvoZJWHK+5DJC8HKJymWLO1GJr4VxMtQBisNjjTpjL/31obVuQJxRQx3NYNQ=;dJ5YV4b+uMRSOLgNTEwmQQ=="
+secured: "LBFo5nCmTHbevdkwDl/NYsAajFfoQzdLTg11P/2/bi0xfGfXCXmuGEZuB5GgsA2jBG99GLWN04ud4KGoG01wJ9RgTzEHmIh5mQ2p9HhcTEfjFb3crYpoV5PE3jdf3oMjESvJstx5YKaAC8BxyMO4gmeXV3Bsm3jpkHgu+zOq7ZogE635sKotFQPj9xYzMYP8OI/aHcABjnA5BzaHO5FtEBhR+KXsL2wCBYv8qqNVN3VCnYR6NZRHsyN1k7gNXBJyERTQNvntneO1to8irPGMxAR+HdpRH6Jbr1FmWeLQcouTY/3MLLp6Ig4T/L+vTQrNV69n6akq43TM13TYhDPEFzA95J2xxmh3jJhhHirMQ3lgzD5g4Ha07Wq3Q9cEfesrzOqjpLrTME/EWk/igtIpA/TXQNTspLYO51UCRFDniHMIAmmqoogroZMHtfgkQG3uEJfbirxHOcJjfhUxgLn8eA==;lAwgbJDBqGjgQGqsqySmSA=="
 ---
 

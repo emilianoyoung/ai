@@ -38,6 +38,6 @@ related:
       domain: scmp.com
     quality: 27
 
-secured: "WEWBwmM2G5/Y0dvoXSGnC6BIfY6uWTL3NfxclQYMi53ex2QUj7bT2JIiNgt8E6NCfYp2w4IYpDHKsuvg5GRdsz9Gs92jwjS/cId2MikLgX9LOWG+USRGcWNs0DwiA7/M0VTPR+eGvqCyAv8MZ48C0NMP8aUlWeP7CJtmjHaaHkrSM7Y2vPif1UaEcBVLDFZDDO/VnWnsZe3BouTv3aFQXRUqXucycip79apCMiSrrBGCi0SOwQldjeqQ3+xlHUwuNloYZmv0S/j3FqzbhqPtG7EFYR4PtF3mdvccSfrSYAk=;ZhdA7+UbAarmiW+jTldbcQ=="
+secured: "dCN5N6gsmMUrm3B8zSETEkfenQ+4cOvrvHkkfEoWKQdPGtV4YmNbKPleFGec4q7wkge+uZuGNc1/SZgAUybuMRDzDCmcuQsGsLXcXhUuHS9JJOH8McXQ+Nd//QwIkLAxxU6oSjhEhIMVD8/B6KStBfbHFeo2SWueCXQV87/SHIQwOYUjmMrRttmnx1pp8L+vKDhz1tvjTArG9hXFLyT/fp+4atMOdhqR/cpqDM4Fk1dAzZWbg2aN40rYJO9DmdXvS5tMnVa+0G8m+lzB5bpVSb/UgGQH53KngbkGiyQhNoQ=;TLUX2y2j3Ae84KGXw+NMIw=="
 ---
 

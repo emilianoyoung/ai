@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence Expert Neil Sahota Says AI Will Have Major Impact On 2020 Elections And In Medicine"
-excerpt: "What is certain is that machine vs machine battles will become more prevalent.\" The author of the influential book Own the AI Revolution (McGraw Hill), Sahota is also an IBM Master Inventor, who led the IBM Watson Group and is a professor at the University of California/Irvine. In addition to its potential impact on the election campaigns ..."
-publishedDateTime: 2020-01-15T20:36:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-expert-neil-sahota-says-ai-will-/2020/01/15/9081764.htm
+excerpt: "/PRNewswire/ -- Artificial intelligence, or AI, will play a significant role in the 2020 election campaign and may also lead to major breakthroughs in"
+publishedDateTime: 2020-01-15T10:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-expert-neil-sahota-says-ai-will-have-major-impact-on-2020-elections-and-in-medicine-300987177.html
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
     title: "Artificial Intelligence Expert Neil Sahota Says AI Will Have Major Impact On 2020 Elections And In Medicine"
 
-secured: "YLbUOTqenIc+6I0iGadevvzDDh/vQm01sau+B82vUwqvRhOOGPnwCLoIZSwKi+mwRtdFjft+++tnLxQ3Oof4iT8+UdozwQTfug8GXlHRTISeVsjcxEpSWYAGlQfja/EVOL1ZBlb2m93orzrG41yRD5dDmtKlaJEjMIM2i9vaKG4C3ighnDExtphvU7Fl+bbMyjNm30YuUaaLyNL+FRbDrkgLLk0uNOEjBCVDep1smuVKiSBrfwDVw6AFFr0wCM1u/xtl6BlXiKJuVV3qsRm5k0SvGptc8Gt+fBd95LtqueM=;UxKp8nwsXyYDIBNqRlFqxg=="
+secured: "uQIeIg0jQwCWibyFJcA6b0Ax+3znqwK+v7YD1cl1GhFfCtlBCCWS8u1uL6qcV5zUcTnN7KJjjwochC+Kr/p9Pj9tubfjThMjgqN/0rwpygRDwW4EDPgCXRv7JvFt2FUNFBTMLV9j1yfitGCLGN4ulFV2ZF6nc8MD8gbsAV6IBXrkEcegj22Lcd6M9/wbSQjtm8h+nEzZ0J6ZY8LdzwCUeSKgISYMyeknw56ooDn5eWumg3BkgZajB/5fQM/m4vbqye6WcQMMgV3A5P90hD/fPA7034jo/bxBK5rBiCwzWxo=;CPjRhfTkc8Hq0zUxZr1z9g=="
 ---
 

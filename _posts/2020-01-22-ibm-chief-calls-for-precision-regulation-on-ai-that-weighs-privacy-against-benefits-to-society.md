@@ -74,8 +74,8 @@ related:
         height: 600
   - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
     excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology to provide computer ... Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits?"
-    publishedDateTime: 2020-01-21T03:08:00Z
-    sourceUrl: https://itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html
+    publishedDateTime: 2020-01-21T03:25:00Z
+    sourceUrl: https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html
     type: article
     provider:
       name: ITWire

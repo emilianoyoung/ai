@@ -39,6 +39,19 @@ related:
       - url: https://zdnet2.cbsistatic.com/hub/i/2020/01/22/0d371627-35ec-44a9-83fe-7238305ce185/singapore-model-ai-governance-framework-second-edition-compendium-of-use-cases-pdf1.png
         width: 913
         height: 582
+  - title: "Singapore unveils new initiatives to build consumer trust in artificial intelligence at WEF | Video"
+    excerpt: "A set of three initiatives, aimed at improving consumer trust on the use and governance of artificial intelligence (AI), were announced by Singapore at the World Economic Forum (WEF) annual meeting on Tuesday (Jan 21). Media playtime"
+    publishedDateTime: 2020-01-22T18:56:00Z
+    sourceUrl: https://www.channelnewsasia.com/news/singapore/singapore-unveils-new-initiatives-to-build-consumer-trust-in-12304710
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 23
+    images:
+      - url: https://mediacorp-videos.akamaized.net/JlbDUzajE636K3gyTjCC1bjnTH81uaqm/yeOkC802fbC1__xn4xMDoxOmFkOxyVqc
+        width: 426
+        height: 240
 
 secured: "4HOWMUAz/sqVmeZ0a/DgJrOeSFlhUuvYoKwRCZrOvLXQrfbkifkaG/67sp3ZUgo9OIJbwCCVdixntzuAvW6mL/Z9XVDnZW48le2UDtZCEoPXO5HuWDnPZ4ecshRsTtHmtixPiHPEMzo+j7CgrW/eYpRIKRfn/A7uXvFu0Iz4s5NokHElO4emwJ6HU8Ds5ZOsejMDx4UnQ26d4VbDO2fbz7iGuamzDscb7As9a9AY4b2ZfGE8TPz3CPqJycL/SeAsFvO3PhQhjiFGVShvcl/0tJMbr8QY5iG2ruxL0UhKF4V162xYMGn2OQIFdv1Ra2uRwF0yfkXIigbPbXmd/GWQgRDYo+VdPyMFkfgaGA9osoQsCHSQVsWrddwLMO1HgYX23SrAHCqO9+S3p1yrXTj3aYORYVsTaFpYuPmcbE8TaGEf01IEA8//hg3tGWVwubbr0e8skiJGqsWi8AfH5ke9WA==;buq6BzXg1iETGP/JI3HCkg=="
 ---

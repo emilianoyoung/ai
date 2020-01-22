@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/22/servicenow-acquires-ai-for-it-startup
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/servicenow-acquires-ai-for-it-startup-loom-systems/amp/
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,34 @@ related:
       - url: https://media.bizj.us/view/img/367701/billmcdermottsap*600xx1014-676-5-0.jpg
         width: 600
         height: 400
+  - title: "ServiceNow scoops up Israel-based startup that applies AI to IT"
+    excerpt: "ServiceNow said the acquisition will extend its artificial intelligence-powered operations capabilities, \"giving customers deeper insights into their digital operations so they can prevent and fix IT issues and find 'blind spots' at scale before they become problems."
+    publishedDateTime: 2020-01-22T14:55:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.html
+    ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 57
+    images:
+      - url: https://media.bizj.us/view/img/367701/billmcdermottsap*600xx1014-676-5-0.jpg
+        width: 600
+        height: 400
+  - title: "ServiceNow scoops up AIOps startup Loom Systems"
+    excerpt: "When the built-in AI algorithms find a problem, such as a malfunctioning server or an application ... Loom Systems has racked up some big-name customers since launching in 2015. The startup’s software is used by the likes of Microsoft, the United Nations and Wipro Ltd., one of the world’s largest IT outsourcing providers."
+    publishedDateTime: 2020-01-22T18:38:00Z
+    sourceUrl: https://siliconangle.com/2020/01/22/servicenow-scoops-aiops-startup-loom-systems/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/servicenow.png
+        width: 718
+        height: 405
 
 secured: "7Ik+jaQdRUYVYCmooenrTc8Bx74W0gs6qs01BXOyHWoXq7KDO+J3oncG6/XyI29eYWbJDyn+2RQWBWFtP7/DSUoq8jYyERBhkHdcMD3vrkwma0xZ0SeBY9HGeV1CLXzMxkLP7WEFrJT6vNubaAzepAMaCXGOch4fUGRUF2ulnAoV2s4lehLovbEHyk/+JwQJmw7kNwio4ty7Kk1tHAHjuW8Z5yT/K32tzkfcWz7DvbBUnhGRL0dixMSLAxSea1UOwaGobLlxkRfRp9zJ1BD3HAE1UcIFMOmsnn3qOFYxnDrnutSe68oNTy42qIHaYH2ihrUnRhnAprgHIykc+yGn9Ar6fz7SnqWCkWiJKurViYuXmaw2b3X8U01/0ckEkJ+VaAuTHe2pLNk0jzdRIjY1b2fwj0/RgKDEkVqPdhS66ulodmU71LuTBoeSybIP4U6geIAVgCAYp4OlLukfKj0lRw==;OoZpPMIo9/aPYrHpjUDufA=="
 ---

@@ -37,19 +37,6 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg
         width: 660
         height: 371
-  - title: "An Introduction to Microsoft Azure and the Microsoft Cloud"
-    excerpt: "Azure is full of services and products, offering a complete solution for any organization and Microsoft is doing its best to ensure that the platform provides for any scenario, especially where big data, analytics, AI and machine learning are concerned. Throughout this guide, you will learn what cloud computing is all about and how Microsoft ..."
-    publishedDateTime: 2020-01-02T17:51:00Z
-    sourceUrl: https://gisuser.com/2020/01/microsoft-azure/
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 54
-    images:
-      - url: https://img.tradepub.com/free/w_thbc01/images/w_thbc01c8.jpg
-        width: 1200
-        height: 1555
 
 secured: "zUUjhIFjNeJJcME5JKmFfO2nJeLdaAzU2tTPydUeIN6d/BBXDVDzGMqNjgXogdlrTMgT0BcE7We6bprMtqEuERyU7qVK/eS05M2G9KPZGPL2xlv7/NvEcf2VNtKOtcDzsqt3DgMFdM29+M1nxBIXnHhJ6U4kWmpc07kKDM/wUJljooWf7tPPUy8Z4axpYVMxl1GvC4r1VVnvGSvphDMrIQsLQ8xYBI2wK4CTILJj+4Sc8jq0ujyKm+HZtZO9rbWyEbYnkJ2tzdX+AmJ/iCM0JJ3TFpNSEhgXVUaNKyqdnnT6pwUZp/7IW2Nfm3hMHQeX7Gy3p+13B82Lm4uLkMOak02H4UrWWx9PNcAK1NpeaF2cb6oc48WOMwrMIk37ZspbQH773oxMwBM7Iul/inDRyAW4ydqbrJHM22vD9kQJF/B3O6RhWlFbYcBdMqkm3KJ6Cr13vQdnVGX+prBuuQ6osg==;q7qgYC2hVW81lU4IbfaZqQ=="
 ---

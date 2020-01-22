@@ -71,6 +71,6 @@ related:
       domain: cpapracticeadvisor.com
     quality: 4
 
-secured: "XsPOCInA5cNR5Xj84C0YVV7+nXhTEK0VxX2ySvgqZ4owoWkN/9RsxAN8S8L1XR4m9Ox6Z6CWESnhTTUk5kdBHL9Oze1fIdJ4lnGn6Zo2xM9JKmth1fm/9J5VQaAsgn78PvgcYuNnWF3lyQbbSEMk4z5FrSO3DfakozmLHimzbggKePoZTVAfP1HtEAIgJgI3nPKJOfsb829ldFC5TWAh/vKsFGUvVgfmDSuoDkmFpKnq4yzzFqSwNDa9C15/SvoH+F5J1m351hkim4HI2uTZqJpfLdvcdd2uC4ZCGqG+ZM4=;kYATNbOCfSJbJMLY8La6KQ=="
+secured: "gf5bxUh8JlhqrPmnPSrB8uv/8RamztqnCkgYWIWLe9CNtMD4Oq/w7hIZJhHW3GmzaKKt2KtNvX3dxiMk+NU6oNJ1XO6XKShvk3tRHFOg0td8iV10bq95hHMwyHFHqg3wOTZJuIjdZu1uaQfxeFc59iL4gpSoB2dD761HWJtO4n69ZcbO4fmakunfxte5kqhcyoOPXBwUw9WXtJBmCfPeiAoe+JbCXf3FRGP09iAQC8D5uGY3Vqf1sSarvj5f2d0cCQ9eIbFFkqtbY6jWvB0j4fyrwvqtui2Xukqw4bRX0O4=;/6+QMX/DpirFEsCd/RUCGA=="
 ---
 

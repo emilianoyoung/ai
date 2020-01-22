@@ -27,6 +27,6 @@ images:
     height: 589
     title: "Getting Started With AzureML Notebook VMs"
 
-secured: "p4tsY7/7wQKVzuFSPD8sb/w3MdysMcSynQYpSzX124bhNLC7ZpShuL5CO8UJT7S3+x3PjCb2agp6+HsUQZp+5ZP72BTNWBZ8NjuBheu2Hx4jnGqEBzVqErwqpZqbvYYz1pDKZ+QceNdYBIECSNdZ18qseUygDijFCx5zmfS0SSXTvcdMS3KXbBcX/Ls0sqTKXpZQfBb7dJT0u9Ui577N+1wDokwYoynntnLPDe3jt6x8cctvi3T1jsO9jfeDx9aeHPgMzjt9wbclxjHJadrsuNPXmM1nnS9TOKqOZH9fj00=;3BDeKl6KqHDXfkqb2TuIiw=="
+secured: "LuuibkYF9S7VyUuZVRQtzw8ehucYCQr4T5zu7rgj5PIPKbAXuPZs/rvTFySkYdlti78GKGROwXMB95Jiw/TbuZum1xyHs5AiEjpmFdnYnmRcmLdjC2NzMpbz78nNnQcPBMf+tdgIz06Bg3/Vo8lDX+IlhSvSTb8QMAaYv1ef/zSWm+X0DRbY1Co6f62iKQzubGGdJBJGjr1XSEqyfUi7iVjeCl2rcaPkBb21zEDBM5my40hXeMsvJl70lN8KOQ3jDeK2Nww8MdpGnTOHTaxrrvqITxhmJzOoihqJF/tvp3I=;kve/qa7RZL7YtnjTy+/Crg=="
 ---
 

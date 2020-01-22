@@ -1,9 +1,9 @@
 ---
 category: news
 title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
-publishedDateTime: 2020-01-21T12:47:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-300990290.html
+excerpt: "MINNEAPOLIS, Jan. 21, 2020 /PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies to extend the offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, AI/Machine Learning and helping ..."
+publishedDateTime: 2020-01-21T14:51:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
 type: article
 quality: 24
 heat: -1
@@ -11,7 +11,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI
@@ -95,6 +95,6 @@ related:
       domain: techworld.com.au
     quality: 19
 
-secured: "3SYvPz1GDf+b4Gw15RmD4w5nLZm3pkhnrvvv7ilTVBhmsV1Bycha2wNltd6c4G07mNLpgJwFjJNFDWKfL1Z4ng1dcNDAYmfR3FMPhlQ9w2glpAnYfhrbvskgiV2h/JUXZecxF+yQjBtp8Wo8KOmJY42wce22dD/T8p8sxR0IO5GCfzBSVDea+tTmCDRiHuBEaEPW5Ywonye83ecKT7gowlzjzi61nd8voCmwFit6i6ipl1+H5f1OgtZp/CwYqLx3kfPpuyu/LjP4yoB1cubs9Dedq6OUMZgtSY+zW9+Vx2k=;8HtQGk6r6h7qagloe8HOKA=="
+secured: "fB8IMNy3Mwb4CELAzhgMCai2yqv9Ytof/UQiJ4j0MMTamg0VWPfqDjp2WwTg8dQByi0yIBJjpuXGn1QfKoptZ9R9faYO5C/r61Z578FX+j3i6L4ahvEtQ0ApH+mR5WovRU2Nt1sZdx2uNjBAhmyn9pBS3s0MlrjheT2eDXBjg3915qcKrdCkB239pF7O9M3OA2ZgCCMyrt8VjH5LWZAqmwO3kRqW0miH9lNuAukjWthCj6eSPt3TgInLhR67497fdgh2yXMCbV/6EjzpkriJiiLYvNuKtFpfA02aQ3lqer4=;ACjY98hZIDa4VPo78nCDlw=="
 ---
 

@@ -22,6 +22,6 @@ images:
     height: 276
     title: "Client Note: Apple’s AI Acquisition, A $5B Challenger Bank Valuation, Snyk Becomes A Cybersecurity Unicorn, And More"
 
-secured: "S1v5+9aLHTjMNl1ydcSpjtZwDoW05dFFG3czz1EBHLBiJhErJEcAWNPZmwb/RZi71IXQ22OraK18IO+XjqVNg3cQjbz1djvHfwcycvUj7VH5tszpk0GuQALJXkGyAfouGW6C//zeZjVkDA/dwLfngsl/+GH0uQx6CjogNAxDik3zFVd0oG3Q/vQ4LUjpL0PxvZQW6YC/cKT5P4m8YjbdrSopbEqxYaefCfZfQIugAiaUvgCAJdKBK9V8OtJz2em1K/MQ7XKAShhQ1315acIAg/vD0erLdfVPBi44KyMLatk=;joTkqL2T5ugm0Ikm8D7+bw=="
+secured: "TuPoQw2Am8XFOX0Pe8C6zhkzZJybdrwKbFseMrrfyGomUrP7y+difOU4PxxrmdXzFqnLDdq5+k5WDaJs4kKwL4gn+mFq5B8AEpw987IxJ3RaPTh4j/Yc2yDv9tEx4lTycWe2geFOl+LqnaMGwEehQXpzd4WAMLB+K3WT1nNgcgLyvOVukSrAV98rIthEHpWiOvcdIzwMa5jl6PzNl2Oup/FTv737QBmjZfXrFxF9Z1Go0bJiSWPQiAlKFTGAy44J/MGmFJfyTqBfQ2ywWvAtV0GZD30acy6qHCzGcMl/bvYCCqHAH5mOXcE8x+YuU3+UfARrliO3UrKAIGqDjOvvkyRzdc/b/O/5B2tGoXGhxzp9lhXEZCmH0I8SQ9miOmoi5NlFu02JH9acExQz5dR/WetZKXZL5da+PF4LQc8Sfn7kudod50X725+iqoSYKLFH5iimvWOsKK10Fj5dGivvKw==;NuKr05Hn5tcPt3+M/MVJdw=="
 ---
 

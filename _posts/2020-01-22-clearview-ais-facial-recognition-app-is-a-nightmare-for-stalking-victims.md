@@ -29,6 +29,6 @@ images:
     height: 628
     title: "Clearview AI’s facial-recognition app is a nightmare for stalking victims"
 
-secured: "9dvSpBiGK3DQWh/HuWCY/AQ3B9qVlibQod3LvHmwxoZQseDbAFs7BlXqzaKmc7qB/NqynKkoeDYXvmh0wix59NCbSm/dxpokNpTIoCFUpTO9QOeE/RI87l2W8VcHW5dphXSdC3/x4nBzKwTVJcCHCw6I3UhBFM/Ju2iz/1NGlFhXmuxe8UuxYAoY+W1cqmDQTiHt34cGcYdnHRYZCOWboY13HoHyMNE6tRDNF4WpQ9TuXKN4BmVxR6nu4Q/e1In3tlD9cOAQlPJPB26aJzAEqCX+N7DAEuVr+65/EeaPVdM=;ZZxx4o6n96N2tIs8FM2VhA=="
+secured: "WX7gn/Modiz+ZWrokM4n5kLXX7w0xoa6Tg3f2jzCm61PWRlx6tjYtKHHXUeiG7NqFSL5T6kEhl7l20KgHFE+X6/RYqE5TqV4vF/m1rzxhP4+YE761jeMCpaqzk1gcTmYnp9QJvvIK25aPPz2kEGqbD2HKdz8EFly9yfQeRi0N/Uj6caRjqrulntk66u1rccJtwfKE/VkPY1SfSV/t0ceJy37fFE6FI4f2M1QRZINGgU8/m/Lt3JfSr24oj4VVg0uiZyWOCBQvp3IhYvnIliHQ2qD7j2fx1yhoeVYzuZkFTKR3R+kI5CWG2ln/d+gJmRRRxQQ7fYvCVIjo/Sn5qMImjnuflSTG76CqLgWnPgf9G/1RvLpsbE0dpdLp6nxaRSwaNJExDMHFiQ3m/nnJ/5Kr7M6kjq0NpovzXEV0k68ob3oAWVfPfudYxqdgtw3rw0DOUOLx99Amp0KKd1igavZjQ==;+I2CM9QSFAMmYUZkctYoMg=="
 ---
 
