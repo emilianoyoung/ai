@@ -117,6 +117,21 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg
         width: 760
         height: 428
+  - title: "DAVOS-Google CEO eyes major opportunity in healthcare, says will protect privacy"
+    excerpt: "DAVOS, Switzerland Jan 22- Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
+    publishedDateTime: 2020-01-22T11:45:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 84
+    images:
+      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+        width: 1200
+        height: 630
   - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
     excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
     publishedDateTime: 2020-01-20T20:51:00Z

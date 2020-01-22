@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technol
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -81,6 +81,21 @@ related:
       - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/43572665e7be2b8ca08046d9a801d074-GK2R6OFINYI6TBZTJDEHENPTSY-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
         width: 1484
         height: 988
+  - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
+    excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
+    publishedDateTime: 2020-01-22T11:20:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global
+    ampUrl: https://amp.benzinga.com/amp/content/15161098
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+    images:
+      - url: https://www.abnewswire.com/uploads/1579690500.png
+        width: 800
+        height: 428
   - title: "Image Recognition Market is Striving in Worldwide with Top Key Players 2020 | IBM Corporation, Imagga Technologies Ltd., Amazon Web Services, Inc"
     excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and rise in demand for security applications and products laden with image recognition features supplement the market growth."
     publishedDateTime: 2020-01-17T03:12:00Z

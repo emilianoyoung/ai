@@ -41,21 +41,6 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
         width: 600
         height: 350
-  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
-    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
-    publishedDateTime: 2020-01-22T03:00:00Z
-    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
-    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
-    images:
-      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
-        width: 640
-        height: 320
   - title: "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech"
     excerpt: "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost."
     publishedDateTime: 2020-01-15T20:23:00Z

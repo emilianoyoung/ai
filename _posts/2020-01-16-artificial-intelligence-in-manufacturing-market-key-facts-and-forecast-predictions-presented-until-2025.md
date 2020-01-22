@@ -82,15 +82,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
-    excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
-    publishedDateTime: 2020-01-22T06:23:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
 
 secured: "xTc8IzASK3FtiGp1iLR7uPIWVBYJmbjZo/7yAArS7MrtfOpcjYDQ4KABqLk6K8ToDeSReARIZAhIgI8OTYJ/ZSlQayekz7iC6qWPfaGf0ojyIWKFlsIhOw93/LjSTY9fMFlTKeasQTsFdC7WU9/aFNkksFVWM8JYnGXJ0t8xwoG84ThcwRc4GW49tcMz5ETZoD33AcedDqS5eURd+QveCS4F0RqczVVJqGiBv4b/A8XnS87oZ2zeRbOFY87aH9Eq2rKfFzuzkrcd2KxrgMJJG5fLSmYnwhxTO4Uh2IGd+R0=;kuw5TgzrC1hHgWFwJhCZbw=="
 ---

@@ -79,15 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
-    excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
-    publishedDateTime: 2020-01-22T06:23:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
 
 secured: "DJCX28nnogoDum8trPx9XA4jokCf7uyVdORzZKeGaWvUDmw4v0hLjrsQUv6+Hm4XMyaIynXqoL9N7aJCN2USfxxYSKbSvppqyAofSgnH034QZ1m1I5SMNUzQCdvNQJGYlLz9buvPtf6XeFQYgv8TQCQng4EMFe2TvYer4UXv5PtC2KVsYsSOXUYwUbE/tBDkpNv7TzrTEocaOifGe6cDEQmBU3hvlkYdDmyxBDa/L9VqNWi2m4wQC6sPgooz2BZhrfBiyWvhSy4qCtSx08W4SlcXCaX6zB+gnCsQKmpc0GA=;almE91SKBzjzSWvLD/osfw=="
 ---

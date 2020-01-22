@@ -98,6 +98,21 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg
         width: 760
         height: 428
+  - title: "DAVOS-Google CEO eyes major opportunity in healthcare, says will protect privacy"
+    excerpt: "DAVOS, Switzerland Jan 22- Sundar Pichai, the CEO of Alphabet Inc and its Google subsidiary, said on Wednesday that healthcare offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes,"
+    publishedDateTime: 2020-01-22T11:45:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/reuters-america-davos-google-ceo-eyes-major-opportunity-in-healthcare-says-will-protect-privacy.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 84
+    images:
+      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+        width: 1200
+        height: 630
   - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
     excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
     publishedDateTime: 2020-01-20T10:30:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diag
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587
         width: 5121
         height: 3416
-  - title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
-    excerpt: "The AI was trained on two datasets of mammogram scans from the US and the UK, then pitted against six radiologists."
-    publishedDateTime: 2020-01-02T10:45:00Z
-    sourceUrl: https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: https://image.businessinsider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "New DeepMind AI ‘spots breast cancer better than clinicians’"
     excerpt: "A newly developed artificial intelligence (AI) model is able to spot breast cancer better than a clinician, new research has suggested. Google DeepMind, in partnership with Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital, has developed the model which can spot cancer in breast screening mammograms in ..."
     publishedDateTime: 2020-01-02T14:06:00Z

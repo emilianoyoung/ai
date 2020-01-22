@@ -1,19 +1,23 @@
 ---
 category: news
 title: "GM's Cruise unveils its first driverless vehicle"
-excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety ..."
-publishedDateTime: 2020-01-22T05:31:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-51171398
-ampUrl: https://www.bbc.co.uk/news/amp/technology-51171398
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51171398
+excerpt: "This is not Cruise's first foray into driverless cars. For years it has been testing modified Chevrolet Bolt ... Other car makers are in a race to launch self-driving cars using the latest artificial intelligence (AI) technologies although they are being held back by safety concerns and regulations. A number of fatalities involving autonomous ..."
+publishedDateTime: 2020-01-22T03:04:00Z
+sourceUrl: https://www.bbc.com/news/technology-51171398
+ampUrl: https://www.bbc.com/news/amp/technology-51171398
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51171398
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -41,7 +45,22 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/_Cq8RBeDpZ0BOd8CsPhQ7orclbI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66141735/vpavic_200121_3874_0010.0.jpg
         width: 1400
         height: 933
+  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
+    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
+    publishedDateTime: 2020-01-22T03:00:00Z
+    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
+    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
+    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 73
+    images:
+      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
+        width: 640
+        height: 320
 
-secured: "tYiIKIakO6s14Q3YbMIgTwvUqxz23mhloWbYrFhV0dQBNxmc90XL2l2O4izzp7BjqD2zcQQbuJi26Cdascpx8EK0B81Tgz44dV+RHgxGm+U1WzWQtB2c8lQJX3Po4kqQVjsLRKU/HKWPJhRgCp1FLhpAVmKSLBDprZZdJcTOmsLcdhwcMuQ+iMYcuRZVX0No4yTiaD7iKKozQUwYyN1uY8vjQ1gmOgQZe/Hm3dXOsA9rwzP1HDhJhGHvjikdwrUP91pLjrL6k25YDya04Vc3G0piIY9fY2T07jDWnNsl1rYeCHbLT+u6c6REqEHHQYJAddT8iJYFatbxlHxd5rPaG4aVAlxhhS04JxklMZPI5YMxynhfG4x8xVazF71l6GXqw3gjqwp23AF+ckwoGOLF7CC7fibWDL8tjibNRJV6rIWBELXilW4kwq7Fy1tDM/RH10l2+yt0jHLErbwRVtSQag==;Z4bY+w1h7ocsyR2BuH8JwQ=="
+secured: "v675HsRyQm1KlBMoeM2Vi/hPidq1xLqYKPLO7oWYjBWN3V7NJMbGn8dJ65jKA5EwMEqZ/Yhm/dk5tVvr47rSHQPUI+915q7pEIcwwEPc4EkdZbT/MY8ct+ybHSWJA1r3C/0QGZ1keRg3NiM1GsU/91I1l0bYsJON+FTOWwC+OUcoTtS5EcmcgPhhLJPFyAU+z6ohjKMtU85h/wha0nDnHBtCU4nQAAYqUoIm74Y1Ggce8ho7ueIbjVpTXjKeV6XWjM4d3an94Jr6eV9ABFfPUKiHvmK+o/0VPdlBgLPlDzc=;UTh/7QfEupkMVNXo/Ypu1w=="
 ---
 

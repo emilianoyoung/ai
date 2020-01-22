@@ -87,6 +87,21 @@ related:
       - url: https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/43572665e7be2b8ca08046d9a801d074-GK2R6OFINYI6TBZTJDEHENPTSY-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517
         width: 1484
         height: 988
+  - title: "Cognitive Computing Technology Market 2020 – 2023: Business Trends, Emerging Technologies, Size, Global Segments and industry Profit Growth"
+    excerpt: "The study indicates that by technology segment, natural language processing is the most prominent technology used in the cognitive computing industry owing to its integral capacity to process natural language interactions. At present, automated reasoning and information recovery technologies have limited applications thereby, restricting the ..."
+    publishedDateTime: 2020-01-22T11:20:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15161098/cognitive-computing-technology-market-2020-2023-business-trends-emerging-technologies-size-global
+    ampUrl: https://amp.benzinga.com/amp/content/15161098
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15161098
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+    images:
+      - url: https://www.abnewswire.com/uploads/1579690500.png
+        width: 800
+        height: 428
 
 secured: "JDIKBIbXoP5z7OmkeiMkaqedTVDuQuhoh9u+ixw+Fhds75NSsQgfbGikw6mzi8vbXtv7OiimW6bCIwdfm0ssEI+ob+WtSODtTzl7XOWjnzd+MlzCkttU3tKe78bwOLu/xZSy+3GsBjL5X/iFswNxoV5pGNQqKo9xf9X6zs3JqsQYp2V3vuI+IxShVyNXp2elXCzfUvksW2ghvivrQgfoaHl1jN8tCA2PoKuslKrUi2nRfmt+VQCEGDLnnIClWaUKje5MWngLCJ2uAZDJ9lN34uA8ecTvMiH6J59GxKS2sok=;TpfScgfEKWXoYE6JqhJJdw=="
 ---

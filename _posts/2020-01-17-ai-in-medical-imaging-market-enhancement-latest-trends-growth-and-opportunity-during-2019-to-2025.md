@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T17:18:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17
 type: article
 quality: 55
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
-    excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
-    publishedDateTime: 2020-01-22T06:23:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
 
 secured: "BlnvNYa/CMweI8U396H6dpNsCti2RJuZgBlq/BO8uGOblmfH9PC3gfHHDXpWTb4LhoKoJhHAhg2NNc+nhKP3qRUzxhxW2cxMtGbaWRGpr2Cxp2yiIOuEMw/u+ti0hCyM7mqtRyv9QVOLarYVfoJs6T4u+qG1AB7SjNCe5VgjImbKj8rA0Zhsgo6nR78DFamd9zwuPuyf7qTWSwy3VedCFgikLZGSxuQ3W/So/GY93Fzu+LSWP0fdYTONjsq6zNnKO3vsTdb1DmbNl+wzPnLM3vyrvzEg51BNiD2tAKcvi4s=;QKA9OOv608+IEjpd6TugXQ=="
 ---

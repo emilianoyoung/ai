@@ -86,6 +86,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
         width: 600
         height: 350
+  - title: "Cruise's self-driving electric shuttle is made for ridesharing"
+    excerpt: "Instead it's fully self-driving, intended to be a shareable, modular vehicle that can handle being on the road all the time. It's basically a minibus, with three seats at each end that face each other and split sliding doors that open up like a subway car. Cruise hasn't revealed details like the battery capacity or cost, but claims that \"the ..."
+    publishedDateTime: 2020-01-22T02:59:00Z
+    sourceUrl: https://www.engadget.com/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    ampUrl: https://www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/21/gm-cruise-origin-self-driving-shuttle/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
+        width: 600
+        height: 350
   - title: "GM Cruise unveils self-driving electric car for ride-sharing"
     excerpt: "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ..."
     publishedDateTime: 2020-01-22T02:19:00Z
@@ -264,6 +279,21 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
+  - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
+    excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
+    publishedDateTime: 2020-01-22T10:08:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15160801/gm-backed-cruises-self-driving-robo-taxi-revealed
+    ampUrl: https://amp.benzinga.com/amp/content/15160801
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160801
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: https://www.benzinga.com/files/images/story/2012/01.jpg
+        width: 1750
+        height: 869
   - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
     excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
     publishedDateTime: 2020-01-22T06:49:00Z

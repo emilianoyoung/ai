@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Facebook's new robot AI can get around efficiently without using a map"
 
-secured: "p//FfVJ3QTqJuUlGcHNOfqogQm4P96eww+fdtTL7mIXYd8j392Lx8xmUxptmuM/suelw8sMgq7nl7t1RoRZpJ/YrejPOY6hfBkRE1jvYAN+7LcvId0DAQS3LVgZm14l7Ty0t3vQDr6+abLLEdsxbb6kcC6FrjilpFK5RoQqcgguKEl0HZETPNOvMfOu8t56raOPxwos33nvs/5DIaFeQKEQm8Q9HswaGS71XoHMxwhZWGVDxMZjBZg08vsAqLM0zSLXg93NMulrlmRBd72+ZDftQSuOjwKQZM2PWvDjONIk=;VtwmWNG4NrN8KXK7T2vASQ=="
+secured: "WZtp4Za8o8Y0tqj6Vy1AzAmUoznOY6rpkfrVaanpRczIQCiEw73gnJGoXW8O/UWjGrNrq5bQOnWrkPoSBDRD7uVjBYxivZXF86FC+ZbM0fGck91l+pwzNBi9q/ntX/MPEDGlvvaGza4wH1KE2IJizDlwwAaLJvb1MDW1wL8AJxVDJMa5GcC6qCkxTjgf1a3vduWpHmQJZvsx6Bje4ptcgn6WS78fKFijz2sJTdq6ZBeTDVPA1vA8df/vUbbwET/SklBUSiQTcb/xusuQrrswsm+W9LWHYEPm39VZLLqo52ry6Q/dAMdBcm2qwyLwuxZ1uj1/cBRe0Uv/VQYqWwtO4fF5VAbGYZ2/0Ua0tp5ErnIEf37rsEHKkJs1Xvz1xNOiSu7Utr3tik6nGXpIsVrvF4uAM/206KRIBkx+9bRMaYJ8jXsfpZlaqhk0Z30oiRUnDhJIG73z8EBTs5bILU3xEQ==;Y/QfdLHJPvuNWE4X4sQfww=="
 ---
 

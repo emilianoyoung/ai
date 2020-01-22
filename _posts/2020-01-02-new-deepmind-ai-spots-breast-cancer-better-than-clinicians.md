@@ -54,19 +54,6 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587
         width: 5121
         height: 3416
-  - title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
-    excerpt: "The AI was trained on two datasets of mammogram scans from the US and the UK, then pitted against six radiologists."
-    publishedDateTime: 2020-01-02T10:45:00Z
-    sourceUrl: https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: https://image.businessinsider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg
-        width: 1200
-        height: 600
 
 secured: "5sen+VLKFkjFo8KH+jteG472JWvCbtia9lpFP0pRK+dz7nIgoxFGuaO32ml2dKKf/foV/0kP+Fi2XssePPEK3IriRkrLPvShuPFv4/9epmzQzOYXoG32Ctip33drkFecbSbmb7Us0j9qljv34BEZSZR+euk3LgI97bbhlH56vr/VXuYH2PJva/Hjx19SmKvXcVjgaTzidncz6rjROA2+mpYTAdHkuGVI8ViR5K3w6lCGiY32GoOX0n9wbyVYdZs7KG6GfET0SMLItO7PUs34HX2j2uFdg2Ng6LGH0VRRsN21Dll32UFPF4ndj75BBsOUPVwbZz8ThCfINhjBHwUFWr5G3kQhy769lbA7zyNPrCIvD9hq6hv5wy5WoFS5NYorL8kSDhBhamNRVn971iKfVA98CUxeo5XEDrklvEmEqqA9ISTs9DcKjqptpSx2JrGn1dpd3BXlMfH7JaegbMZ//w==;SoBdF5IS0eXho98MVhgrEw=="
 ---

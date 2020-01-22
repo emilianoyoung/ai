@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnersh
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
 
 related:
-  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
-    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
-    publishedDateTime: 2020-01-22T03:00:00Z
-    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
-    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
-    images:
-      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
-        width: 640
-        height: 320
   - title: "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech"
     excerpt: "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost."
     publishedDateTime: 2020-01-15T20:23:00Z
