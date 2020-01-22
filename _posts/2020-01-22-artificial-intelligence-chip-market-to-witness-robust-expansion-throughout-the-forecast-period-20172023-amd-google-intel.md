@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market to Witness Robust Expansion Throughout the Forecast Period 2017–2023 | AMD, Google, Intel"
-excerpt: "Artificial intelligence eliminates or minimizes the risk to human life in many applications ... Further, the emergence of quantum computing and increase in implementation of AI chips in robotics drive the market growth to a considerable extent. The emergence of autonomous robotics—robots that develop and control themselves autonomously ..."
-publishedDateTime: 2020-01-22T11:19:00Z
-sourceUrl: https://www.arnnet.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/
+excerpt: "Artificial intelligence eliminates or minimizes the risk to human life in many applications. Majority of the major players in the IT industry are competing to develop artificial intelligence (AI) chips and applications. As the amount of data is increasing, the need for more efficient systems to solve mathematical and computational problems ..."
+publishedDateTime: 2020-01-22T10:50:00Z
+sourceUrl: https://www.cmo.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/
 type: article
-quality: 0
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
-  - AI in Robotics
+  - AI Hardware
+
+images:
+  - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+    width: 600
+    height: 246
+    title: "Artificial Intelligence Chip Market to Witness Robust Expansion Throughout the Forecast Period 2017–2023 | AMD, Google, Intel"
 
 related:
   - title: "German Wearable AI Market will experience a noticeable growth during the forecast period 2019-2025: Orion Market Reports"
@@ -32,6 +38,6 @@ related:
         width: 1200
         height: 630
 
-secured: "YHb9Sc/iC7VerwqCyLS2BTlCyQMJihZ5PXai3Osc5FqwTzTyxBowIFLrdLdPtcMNygM8Ck/9lAaSJ4zc8MieK8xN/pc3FCE8YQg3Qb52C6nKJ7xGn5nmywQZ3+5cMGfs+Ozq1NspULhQo94YyaoIz7DP2TLnp1VUEHPv4aaree+kCOhttiT794/WQlseHZTkV1GHDz2PFpRXojfefNrxz/PuSOLgMJEhJ4s8c3uqdc/qNXOs2KLxLPvKoLn9WaXaHDdcUql+FvIv82TOL1yQLTBQWPpbHQlmpgPuBpz1DSc=;U1mP/N3qqBKl8XimjOLUvQ=="
+secured: "SYyuv89vSxKO5V5HN9u7X4vwOBw+azMGztt8A/eYxkGp0aiBnpPYa2d75kTYM122qBKZXaof+jfqPJlGroQdHYDcadvQs8O1bCNm+2SpywO1pCvoAu2leSxWDyuogtRjQwGD2RsCOwJIM2j2IFVsMpbnxcxxq777IbrxpNoVQyOi8sL1XD7gG2R562tZKJwZMaGEIbr1/rFqCta+VeUiPvSk9eGb0w8Cw5maTJ+HAh7PEe6tGrgPSkC5w2JVNbtu9VoSPRwQf+QO7wGoUaJCHCkiFQQ2mLvj8/GtzoNv0Ck=;zuru6B5yP+kZe9tVAtF5zA=="
 ---
 

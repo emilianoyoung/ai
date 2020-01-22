@@ -402,6 +402,19 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg
         width: 1200
         height: 628
+  - title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
+    excerpt: "Hmm. And there's the tech hurdle: Cruise will also need to prove the software and sensors inside the Origin can safely navigate the very complex environment of a city, at a time when expectations for self-driving cars have cooled. And it faces stiff competition from the likes of Waymo, which is already testing fully driverless minivans in ..."
+    publishedDateTime: 2020-01-22T12:47:00Z
+    sourceUrl: https://www.technologyreview.com/f/615077/gms-cruise-has-unveiled-a-self-driving-car-with-no-steering-wheel/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 24
+    images:
+      - url: https://cdn.technologyreview.com/i/images/cruise1.jpg?sw=1200&cx=0&cy=0&cw=1545&ch=869
+        width: 1200
+        height: 674
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
     publishedDateTime: 2020-01-22T07:11:00Z
@@ -427,6 +440,6 @@ related:
         width: 800
         height: 420
 
-secured: "rthSFBrwdWaX+/yco1JMRp4V0wgnrd8znBId1FoW+xwJsPQBV+FpTKJF/WJ4UM81AGGbd/f202waqR3sLkDxN4XTq7fyqv8sEMpafuoRs3fyjhVVfHyphh+KA0S4IM2Fc2fxbYPsr8/B9UAHYQdnRbEtI6dYq/XbU3uz8pAxA+LmNBTki7VPvKPn659avMozFMmCKh6oP7SvZOzi1fuuBVQTx2TwhGGBqU9wpqrdWETLFkoKU3Qzab381TdMbS6FYUxpdRxZkfRRi1osjt2McWEH9h7YpeDXFXmtjGqu7Jk=;5qMMnUgaouWl/rD58NFEPg=="
+secured: "hGHh/Ek4Q3bhrSOnt6+Q3FLMzFDcfvzn6OrXjR5/xc12C9LvRNyP5mJfUB8YYBkKDCvuaLCbnfYQnqLtxfLGL4+Dht0/6FVoPWPW9iVDOUInggavdETzWVxcrROxXXZvavZnb6TuKlNEt1ctd56Peo1UgsEn+NG4eFzppo7eBbv+GORfyRwNrxsg/fFPu1b+AjXhR4PHhoxbvWutd5bt3hFv05PcmMtCkU3ET3c19ZhqhQ40Ho8JPY0QZAOVfLiKR4fEhMXlOLuTtnlciGK3h/jD/F7NNAHByg5RdYY5zpYsq8f1RBzUclZ+py/DWsFeCGCkNlcxHtIoZoJsXMq3KaYbj2frgvZtKD3UMo5H3iyKKSf6G2Z8/1oUzBSH1d5yxy73rBdlaA+8UUhoNCYK0/vhk1jSgBqub0mIfaU0WRKakBSAlBJB/wnUjOlPTdBb7tEAR9ubm3JUSrIOYkVt1w==;U9OG4uQBM9HcHrLMZTQycA=="
 ---
 

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
-excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
-publishedDateTime: 2020-01-17T14:43:00Z
-sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/
-ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
+title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
+excerpt: "Hmm. And there's the tech hurdle: Cruise will also need to prove the software and sensors inside the Origin can safely navigate the very complex environment of a city, at a time when expectations for self-driving cars have cooled. And it faces stiff competition from the likes of Waymo, which is already testing fully driverless minivans in ..."
+publishedDateTime: 2020-01-22T12:47:00Z
+sourceUrl: https://www.technologyreview.com/f/615077/gms-cruise-has-unveiled-a-self-driving-car-with-no-steering-wheel/
 type: article
-quality: 50
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: MIT Technology Review
+  domain: technologyreview.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
+  - url: https://cdn.technologyreview.com/i/images/cruise1.jpg?sw=1200&cx=0&cy=0&cw=1545&ch=869
     width: 1200
-    height: 751
-    title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
+    height: 674
+    title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -195,6 +189,21 @@ related:
       - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
         width: 1200
         height: 680
+  - title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
+    excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
+    publishedDateTime: 2020-01-17T14:43:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/17/phantom-of-the-operator-self-driving-techs-slowing-timetable-creates-opening-for-this-monitoring-and-guidance-startup/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 50
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
+        width: 1200
+        height: 751
   - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
     excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
     publishedDateTime: 2020-01-22T02:22:00Z
@@ -402,19 +411,6 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg
         width: 1200
         height: 628
-  - title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
-    excerpt: "Hmm. And there's the tech hurdle: Cruise will also need to prove the software and sensors inside the Origin can safely navigate the very complex environment of a city, at a time when expectations for self-driving cars have cooled. And it faces stiff competition from the likes of Waymo, which is already testing fully driverless minivans in ..."
-    publishedDateTime: 2020-01-22T12:47:00Z
-    sourceUrl: https://www.technologyreview.com/f/615077/gms-cruise-has-unveiled-a-self-driving-car-with-no-steering-wheel/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 24
-    images:
-      - url: https://cdn.technologyreview.com/i/images/cruise1.jpg?sw=1200&cx=0&cy=0&cw=1545&ch=869
-        width: 1200
-        height: 674
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
     publishedDateTime: 2020-01-22T07:11:00Z
@@ -440,6 +436,6 @@ related:
         width: 800
         height: 420
 
-secured: "PmcaEuPEy0FXg1Q8A9vp7vvN5VoZWQJTcOrONTD/WC/z59j+SReU05xCUA5rk0dR2G3EbjMfiRMeUwVN0LL70XAFu8xoCepOwpvUZXNXfRIB2Q/crwjyeI6nJ3QDFEAUp1W+/u5LJ7+EbdGTJWlerJoU7FgpET0kco+kmwRWcQKfBZbVcrsLKsNk6Fe78odVDfAR3VGbgJQGtUNDtGmZ3SxrvNOa5NBrgFmp3BXtomU6N8/2vcnGSp0aDf1hjpc5w2g+qL6SO9PPncPDWACRmQjmLhB1IAKC4BVtxbAp4x3kyE/Hjc+/bq5UaPkMd/we61mafRjfAd1PACR3nBJMtdx8Pe6oiJkUwh+/1ijmYMjaT988TAFpmN7fUxQBxvyuntYMQ5LjYJtTv9w1NlMZoUDHdiH9drkhPXM3XOJQc76uUIsW6O5mCJhOWgS9wxxL7wmaWM3WytejUHe1Wx16XQ==;OICiihiJPqPr7Ffq+g26Nw=="
+secured: "XTDzJE7KuYVjtRgd9aSNJ3pvGK4OJBB3PavOGbWiVFggBccwpqPhylNZj1FLShUsK1FlW/GXLIS3wt8PC66BX3cPDhXu7rKAfaZfiL6AuXwthfZjPk4/rbSuSAhqJ3Qo0KhrMwYpb2/nkPFLZQ9gYfe4oCqA8zxE/fsQnyvg0zBUwFtWLJEG5M/MQ5HA5+PkK4wtCXiTiNohzxAOMuSUkLr8etRAOpgs0JKBRY4nXrn7xjNukX7AewotnzvtwCLPrek1dnvMOGTI8MEta5BzuMtsL1A4oDlW17Dy0+24dSg=;2/F08gQjQQ6VgErINTotWw=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 264
     title: "Robots and Humans: Combined potential will help businesses deliver unprecedented results"
 
-secured: "48/OK20LFORgQ3zhrnntnYdX4oSKhHUgdUheKwbqtrd/lLEFVz9t6xQ8thX2JsJzOO4nO5NvlmAzasa0MFrXQD9byHW5UfRQujFZuWWumjYMmQync8c+Vz3mkPX0kqqLKMO0LgUvf+rK0J8q3tbN1GTFi6jJlMMiZIFXb5N51afHuO5/RHNVDlu2SJcfep3/pGKNYVPLwZNoKtguO1i9JLszm16p8MJRREACIcIfj4fOsWrw+MVcoaM+wBMZblr1a68CHnzLs56ryQ4s6nSKMASh9GHoqBRJKf7sA33a2js=;G8F7gmBfMEQE/3VmmS4r1w=="
+secured: "91bHp8NKBRI+7u80yCfWgkuThuHYbqZUcMyw162eXdu2cvTfTtoqu/Y9C6KZeZ3GgNLmHUHiKlKy7RMn9l8xfXjy4SJCTiw++MC5JcL54kwwrCdvP1635Gd/cjfBo+dvZLbxsGBhDFxioRxbrJy+9/Haf7/3x7nKpZV9me8td5Ql8Ve4avcAMH+LXc3RxGfHLsqNAzrz3h/pCcz0colFg6zVuH31r1CqpJHJqLViGj3sN+CELv2e6/B6oNKZNz9xqUcPvwkpIyu4ykvJepHzMMn27BdhTBBb9uduwWMvGowsfePxdup9X12Jzw1+e4h+T6kRbWe4DnZgfL+A/xaYy7TzOogTGYazCus5Djyyo2WWDHTc/y1IMDeq7MqniGKd/MGGTq1QDTCDltnukS6BNSop+4rOK8FY+E7ir/MmsnGCufeThO2FWs1mPw8a/2CtqcjmiZ3LyDgaxl6Mk9DsMA==;L4BKKhPwZaZFXCk0pS4EPg=="
 ---
 

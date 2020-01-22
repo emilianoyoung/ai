@@ -29,14 +29,18 @@ images:
 
 related:
   - title: "Artificial Intelligence Chip Market to Witness Robust Expansion Throughout the Forecast Period 2017–2023 | AMD, Google, Intel"
-    excerpt: "Artificial intelligence eliminates or minimizes the risk to human life in many applications ... Further, the emergence of quantum computing and increase in implementation of AI chips in robotics drive the market growth to a considerable extent. The emergence of autonomous robotics—robots that develop and control themselves autonomously ..."
-    publishedDateTime: 2020-01-22T11:19:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/
+    excerpt: "Artificial intelligence eliminates or minimizes the risk to human life in many applications. Majority of the major players in the IT industry are competing to develop artificial intelligence (AI) chips and applications. As the amount of data is increasing, the need for more efficient systems to solve mathematical and computational problems ..."
+    publishedDateTime: 2020-01-22T10:50:00Z
+    sourceUrl: https://www.cmo.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 27
+    images:
+      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+        width: 600
+        height: 246
 
 secured: "8P5pjjeJxWgXdOBUmuQljmPRlIWfHDH2zxD8uYuw4Khr3o/Llmmcjt5njaMUP5tuppp4udl57TReCwC79u8hbIFBRLqbNW7IAflbN4V00RAmJZPj25cRaPlxJnpItstSc/tRPHNbMAg92SWJ+j+1le26G4t0G/CQL9W+UJ/LLqzUOAD+xmLZOwEVUIyhTHHsKVLxeufT0P1lYB8M3KQW9iZqb05647HaXlHDkiwNpQ/pHM7OXYR2afHz7bi+h3GG+110WydQadW2+rZeMlPD4qmCOUn54Nl46uY1FUy7fEU=;37Sn2uc+/cUL6aWwBHxxvg=="
 ---

@@ -38,6 +38,6 @@ related:
       domain: scmp.com
     quality: 27
 
-secured: "N/iF3P2pf4KBqJlMu7j/VO2jYOC0OLmj9z05th4I2/1/YPL545Zq7Nek3fsjwe24v7IWrsVRirAW96ebYcMOkMLgx7Da4xNRiqkRyskpey38Lj0sfzbF0PzpONQ5a7pl/UCNRNOSp37wMQoG2bHeJNEwEmO4AB7OByZtSovBuWh+fH0N1c8GNH+dppZsjg0Y5WBWAYvFJigAZsTcyXwHGcLfOXAZ7WaP3+8JVz9CPowIrZDC1uXFD0oPpZbvAQ8NB1/XTUT7q7hE0PsBCR2Zy/BjuDX5mjic5ahNpFPAky8=;+h0PgKj8zaZ8ylBDeiwa2g=="
+secured: "Cnc++eWEleUoUXyR28d5IOs/Emq8SPtKoG023I6FqShPyAxSbbf32TEH1ai5tk5Pn0iY29tee2v9uWC5N6z+89NGstvhIEyH1th7xFpPSjxFJW0aiNW43k/ltkV7IFgssjoTO7jjFe92OWVJOzlPmxEQHR/ztGQxZdvmBhEVLqlsT599UqhFjxUCVpksp5dBcCkkWnvD2sItekMWPmJgydWk+mn9xcIEPB1YtbjjQhHMz+mj9GhVrcgGpbVJZMiPz4AYOAsxwgvjJ0N7TJMgVWZwZsZi6SA6cL6t+oDCrKs=;5KaKfvAd+tMLvPb3gHpEPA=="
 ---
 
