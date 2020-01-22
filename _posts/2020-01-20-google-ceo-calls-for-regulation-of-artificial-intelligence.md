@@ -477,6 +477,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "DaG5yumjW54rmLzO76m0Q/d0fnk5NC/yKxlrg5o/1L8OIAEzSibkLz13FTr+Af7uMNQHhNvYOpYjxREeDgNRE1fIRkzHHegvoKp/YMrI34po4nKpJLVkijwFU5hnuJeoVSYzPc8BtZ4roXQAyKHFMMBSq8lr6vHLxrasP5OimmIc5TMQJyiehZJq+AX+F+jijgRuXGGkH4KK5B4OsGZsv2nTVrGfpTvxH08XRqKsX6esi0yMAPGWLONHzkn9sRcDYCUHAIMmCtCPXHLoJ1WCt1dKfQH1S9de5b977FYxZt8=;1Zai0WSxizL6IlzyrFgNYQ=="
+secured: "iificGrnA7juP9TtyYurtkQvLHkKvrrrmVSalFpXbvzNpKgffHZY+2L15VAoVVa4iQzz4Zeb2PDOHV2S6AqZMScSoT0VTB55sPufQkF5z2mHfcjlXrJmEPRLfQ73jOkh5IDfJ/mlwE3x/Exw2y4E7udnARN4vRPYcWCfH316VQxQPddIvNLKZMTcGfOPRl4uFytOYtM8BtdU4xggIfCPr9HKqI848pgoy9Nx9DzGZs5gQzJG1VkKVshy4aRufLFp8splcH4g/h6Vs0L0DjI7EjfQdamzk8emk/sIcE+uQqI=;skOgX1Z5cO2xAoesVMiSWg=="
 ---
 

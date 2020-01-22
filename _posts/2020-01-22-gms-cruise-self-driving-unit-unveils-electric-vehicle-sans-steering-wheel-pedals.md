@@ -1,19 +1,21 @@
 ---
 category: news
-title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
-excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
-publishedDateTime: 2020-01-22T02:22:00Z
-sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
+title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
+excerpt: "General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”,"
+publishedDateTime: 2020-01-22T01:53:00Z
+sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise-idUSKBN1ZL03W
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
 type: article
-quality: 48
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
@@ -22,10 +24,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+  - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479597925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L082
+    width: 818
+    height: 545
+    title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -357,7 +359,18 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg
         width: 1200
         height: 628
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
+    publishedDateTime: 2020-01-22T07:11:00Z
+    sourceUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.html
+    ampUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
+    cdnAmpUrl: https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
 
-secured: "worE79/sCfaSOALA33YSMGZyAQTw8QZX6cy1LbinomfmCs6dynOIMRYDH7cpphE8ToPeVoobz/YrFtio4ajPbK0k8xyxM3S2SZoPLJUIkpC58DFGD88vQbn05ml4ZewN/pz70n3S+NkX8wjeSlmzLfF2IaHZIl6wbt3jw0OflRcviWongfBB4Xf5nw3ERVHjvKHVmeaJHK3fdt2pdF/tV2xZOZGyJ9eVJypKncYBe9uYiFwIzR5MuH44xOxNKLgeR7iQO5ZK45dSSjT+UoA0GVsYPza9CKpdDtBMOECT8cA=;galA8KeRzFJmoZQ6P06UbA=="
+secured: "ny8uHj32bzuBVQZNFxCgzL32qyzKlTRGgobEOW49QaqKhbdwocmbtT6QVhvqJ4H01i47q6IXitSXjl0oqELv9zbzKZwVZ46J0TCefzQPwi0PLpjqdlGJkLCf2KzxLydCMATA1Wy/tZuPHSOvNQW17Fi+oQ3AL74ke9VBdelczMKgSM/X8Rct+pnX9/yjoidVIYX41eEy8kujBPE23yRKdN0gjQhTq4GuYyjz/HrezYL2B4tMajABnhhFl94wuXc9fEa/wM/N3QKpMANHxAw25790IInWBsXElE0ZY8+vI6Q=;7q/UzAcmEm2s7hw8RscMag=="
 ---
 

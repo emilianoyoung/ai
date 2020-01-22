@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T17:46:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -22,22 +22,18 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
-    excerpt: "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
-    publishedDateTime: 2019-12-23T18:26:00Z
-    sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
-    ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
-    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
+    publishedDateTime: 2019-12-26T12:48:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg
-        width: 1200
-        height: 1000
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
 
-secured: "1J03xh2qN4E4aiCUA+bDSWIYb2BRVv8WF6ayPnGt5ydSxBIhEMWmQQi5fO0XE3daIyJyq1pRAaidyGwj5kZYNoiiJnwJhc2CN7FXTX3DIBz1OG3l4JcAIK5fpgSNi+sNmUnLSVRbbyiBorigpIo4qDpyW7r+IF3goQ53qeU0i0oA7PVAMWM+Ph5gNJ2UmGSw4yrW742lH0MfTvR3sXRvmfIuc+qEuDXcgQP+iItqokJJKaoEaHXT2fFrarEbfVnxxdMZDCb0OMSCj/bFTcBK42KM5Ub18DObYOyWHoie1NQ=;31+Hsq6ntRxy0eMwngJieg=="
+secured: "cUCH7vVLp8C8ziBC5COXDn03QE4OqPScLOgoLqZJMORL41O76bNvCspQzX/+I9eRDcCgcR0OzHbWd2ixXGMP1MppgfcNy2NfjAd80PpChg23EeYu7PjM2MfUP1nD8JW7qU01uyVmxCBG6wk2AA8nHAf3xP1ojGkcxBFHTIoLTrdQfictleQxRPVxWA2y114hHPFEMvxSFlVZnu7a6FxKFbkcXIgUagaJDdz03+lW/+fDs7w+BMvlAhKH7HyhztRVG5mmPjecYbJZOJF1jct5xigok//K+I70ToSJUouowH0=;YGZRAB8553l8irP2ZZB3xw=="
 ---
 

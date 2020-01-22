@@ -1,19 +1,19 @@
 ---
 category: news
-title: "VW: Fully self-driving cars may never happen"
-excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
-publishedDateTime: 2020-01-20T00:04:00Z
-sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
-cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+title: "This self-driving car has no steering wheel or pedals"
+excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
+publishedDateTime: 2020-01-22T07:11:00Z
+sourceUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.html
+ampUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
+cdnAmpUrl: https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: News.com.au
-  domain: news.com.au
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI
@@ -340,6 +340,17 @@ related:
       - url: https://investmentu.com/wp-content/uploads/2020/01/self-driving-car-stocks.jpg
         width: 730
         height: 467
+  - title: "VW: Fully self-driving cars may never happen"
+    excerpt: "Self-driving cars with no steering wheel or pedals may never become a reality according to a Volkswagen executive leading the brand’s push for autonomous vehicles. Like most manufacturers, VW grades self-driving capabilities on a scale from one to five. Level one represents basic driver aids such as active cruise control or lane keeping ..."
+    publishedDateTime: 2020-01-20T00:04:00Z
+    sourceUrl: https://www.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    ampUrl: https://amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/motoring/motoring-news/vw-fully-selfdriving-cars-may-never-happen/news-story/809782ee9b7d99153ee450f8c580203b
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 24
   - title: "Cruise CTO Says Safety Reporting For Self-Driving Cars Is Broken"
     excerpt: "California requires all companies that test self-driving cars on public roads in the state to report miles driven and the number of “disengagements,” or times a human driver takes over control. Cruise co-founder and CTO Kyle Vogt believes this reporting method is a poor metric for comparing companies, and is causing companies to test and ..."
     publishedDateTime: 2020-01-21T09:25:00Z
@@ -353,18 +364,7 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg
         width: 1200
         height: 628
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-    publishedDateTime: 2020-01-22T07:11:00Z
-    sourceUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.html
-    ampUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
-    cdnAmpUrl: https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 24
 
-secured: "PCicczW0XN0hUTAI/Y6skZZjFx8PL2VOgDsK/y3khJsAsxI1tSE/HPFsAP6OqZPrNo07My3OEXIXbLIfUYzstxidvSz9Gg/TXlFSNRQdXK28oQS6hFUE+kziGgPA3M4W4k2HJdNjEAh1G4dXDKHhSeL8FG+YEnpPIK7av9Vp5NzsH9/lpldJwowzoBeJ67fAQi4SUdJbc/Zkuj18Bru4Ty9f6dx8fvjNLwFIgnyJaNwxQbhhPe0wtGtP+yn7aofI1BT6Vb//vFZqsRTRJtOwbiGrd8wkQhApLETMef692R0timKHJcjIjDd4LOsp9pBe8HPwcMZg6nm2b7dYk/jePl4WOVB9QefIK9Jf9xXdzs6nbE+Mdffgh088K7AounYapqVJZpOCuEPDCL8OYBmt7tBFtYNOxn4b8TQEHQptElG41HEjsJ+DWxzukYRyFF5m6niyF9BgW4URsCt6RUeNyQ==;zDvPE9PQM42F0zP6z68ySQ=="
+secured: "ercpUQXbBdfHJD/mjM+T7uuWeCnJEjex54hxhGhMWhF+D0Ym/TGIUVSRN+/3gHlHVIjc6fjCmdQCKYQIY511j1xr+QhfWWZ0i3pPmqLSffrbH1spH9tsNXTFhQsrwRto5Jy6nTHRmnh4UkUxqGJafD0Gy+hvNbV1C0NroogGOKUvPUJWS4jimkBSEqFe/LxJ+X4Czrz9zlAFB1jaEOSvrVQJWKYgkbLknUCKTQUyfbOy45sNh5cxq0mgPynBKEw44CvIsvD/1p1eeXY8JNy81KBQNixmaa8GC4bVUQo3cs1Y8dy5u2BRMp4APugPu6WE0IwBB/5RfjUSj2O/chmw/qefu0V0e7F8vOkqWRbl9njftFAiMMs/6gG9MI2heZyz8KUkLZGJJispEVO+1riaWFYmDlhVRYIJ1qCjzoLI6U3wxms2EvQ0lgFysI1bdKAWml2Y0fUNbbTXg7q+0PeZJg==;ZRQB6UWvBdx/Eu78omINUw=="
 ---
 

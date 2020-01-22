@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
-    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
-    publishedDateTime: 2020-01-02T07:45:00Z
-    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 31
-    images:
-      - url: https://slator.com/assets/2019/10/seyma-profile-pic.png
-        width: 400
-        height: 400
 
 secured: "KKZgg1of0Qqf7QP4Q7K15qsDpSAVVOnq+uBz12aVN+EZu/SSXkUHLcoV9vbbgqLZIA4FFE5EQx2fxm94rKycpyIqCJRS8J/612inhnMQaP2eV0io7LwkDHdpNZu9DvcKEP9GwjhUUNIvBCwxKwTrqwq8P9MePJ77IlxtpE1ZOBp4TGIzFlqgUNr6l/AU5mX7ji9BnsHGoN3L+oaLTLzRGAbFTFENT247aDVGae8N9ChVApdcp+maDvG0a4/heCcwd5wox2qZAXfxx5Ve3ATIP+rMZF70FKl83Xxk03enAXo=;tDD+r3rvyME0hkICgdY2ww=="
 ---

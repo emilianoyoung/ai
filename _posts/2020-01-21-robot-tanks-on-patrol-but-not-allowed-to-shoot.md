@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/business-50387954
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-50387954
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 576
     title: "Robot tanks: On patrol but not allowed to shoot"
 
-secured: "WldbxNedZ94Gfc18E2CyO/9khHCTmrp5hNAP+Teb0icevRbWf8pSC43isNiheqjet+7583v0WpXBiHl6nOm+48/CIKziiTMfMlBVdPvDp987Pvz51ozJPbaQjJig+akxRyFqTnUKnDjospjwAwx9617xgEdtRXPFIwjj9voDCvWhhnLiXuNIMrMRuNjO12+cWSL18GXXKrucz8LUgVtY9ormRs6dpdCfVfVII5Aa2xwgwluqFaIt8AqfRNUzXraQZEhXdEl9wosGXaxG8XH5P+S8Dqzcxj62JgpiKAFChV0=;KhKf9gxMCvwNyqSZxVwZaQ=="
+secured: "XoYvhZeBzfOX8vxfeaxcGySaCAUTdCEljNyji0xXr1Af6yCErbXwTbwPHfQ+3zvwF3yx4JvPvjMD2CACRZd7CCgEK4C967yU0X9mDv1R4NREQybbvqzj7Uo1a2nPNhS6MOGlkjB802DQDo2v+XXrdzeXeg7DfATuTDSN8Jy1PwosbfJRupTcUdAEOyjMic4l+pkS7jO/6ND+fW/xae6SGaiA1U+cYKOpxY0YhQ9O+CHMq00Xx98Btdafv5sBXYKfmuXeFl2lmRafdOzj9fBGxw4VJwDFUPUjhNOCfubctlc=;r1dUXlZ+nP+aasPPXNLkaw=="
 ---
 
