@@ -24,6 +24,15 @@ images:
     title: "Facebook Apologises For Translating Chinese President's Name As 'Mr Shithole'"
 
 related:
+  - title: "Facebook Says Technical Error Caused Vulgar Translation of Chinese Leader's Name"
+    excerpt: "YANGON (Reuters) - Facebook Inc on Saturday blamed a technical error for Chinese leader Xi Jinping’s name appearing as “Mr Shithole” in posts on its platform when translated into English from Burmese,"
+    publishedDateTime: 2020-01-20T00:04:00Z
+    sourceUrl: https://www.usnews.com/news/world/articles/2020-01-18/facebook-apologizes-after-vulgar-translation-of-chinese-leaders-name
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 127
   - title: "Facebook Apologizes for Vulgar Translation of Chinese Leader’s Name"
     excerpt: "Advertising Kenneth Wong, a Burmese language instructor at the University of California, Berkeley, said when he first saw the translation he thought someone intentionally made it to embarrass Xi. But on closer inspection of the original Burmese post, Wong said, he could see how a machine would make that error. Xi’s name sounds similar to ..."
     publishedDateTime: 2020-01-19T19:46:00Z

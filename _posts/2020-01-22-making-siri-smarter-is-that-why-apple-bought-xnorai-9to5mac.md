@@ -7,7 +7,7 @@ sourceUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/
 ampUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/amp/
 cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/
 type: article
-quality: 59
+quality: 159
 heat: -1
 published: false
 
@@ -42,6 +42,6 @@ related:
         width: 1000
         height: 500
 
-secured: "roXE4WwfGK9h00Bz0SWm1ll/0mGy5BDMvLydHFmFZJd/iWj2E8mUZhDo9TveG1ZhKlOolLuY346Y6ttt+GPE/YyDLrBwSjG8RIzhp0j2/E8L7BHE0asQXdPJzXe0X7kgTQYLTEv/IcGuO/FJJeVmS0K8GDHe7Vd0rWncKbOjSD8KdUoX0L8XsGiEvzde0urQc+71tqsWkUA8iB2j8JTKA5saoXL95uSNoGHprOVMTuwJ5jJkNojBMc5FrdZkxbYn843tm23woWb97rZORI5ts7NtXeu9PaUIxJnIvpJI5L7jKWSRXUTAvScVRAbBabSRWPADml47urxvVXsYyezj4QSNY56xRfaQZNU47Sama7c9fBJ6rfcrs6WdkiwvlsNt4qOwEkr4GDXqmrKq9z243G3/kmVPNx4QD9LgqJXWvJP5XSgegealAzbR5bSR13b/lWpoGnVwGcQR3WL12X7r/g==;zK+ltVLPNPrN8FpKhRi7MQ=="
+secured: "IlRENae0svSqQmA29ZdqEynBQP+jUYvls5k2WBQSapyyTfPYOYYiuIRo+SNA/ed/Vp76fFoZSHxWBa5DaGtv34uY7P4ZR0RaI6adkbdbzyKfjYWuNPhUM155a8PEmfLvUC+LNb+1mZw8sROCvUXeFbgo1z9xTNhaAUWuhXxiXYexORMbJeUReMAtyA2kk3/uJZGFIsEqy7oAIEilTE9aEp72wY4EjuppGPPiIDa2sL+EAn7xmqJ7Bi5Ab5lhoDKmdWyZdTMhPZcltc5wEQ2xtzy+IBxHxoZH6RdNaLxe1EvGVzX2elZlgMzh0f0J03V2nFxS8d2keiiAbTDYncJeitdi8qbopecb1yta3XYDU8wtP4Ic5wJWKFkDE6xdIbHOIHjdlBsHjTkoruVj8U8F/e5Tar/n9I5Mc+MmD0wGHgAb3yrgpfFuJlvrMBDoPwTZlr2LDWk52LSVWwAwZsO12ezxF0wINLEuM1C124RO0+o=;u2nt/oIAFd6t2cMFdQvRlA=="
 ---
 

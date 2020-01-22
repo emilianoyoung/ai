@@ -23,6 +23,6 @@ images:
     height: 566
     title: "Wagner Logistics implements inVia Robotics software in its Kansas warehouse"
 
-secured: "XmbGs4JHAYj5PKt3x3cM+kKQz6VhOtKczE1PfOSW/5wL43b2MaX72FagKj0duvdUl5b8c+4P8bIEIqzV06oPzBScqUgXGaD2Jl72EIUy25k5OSQzBDg6RGJNX8hNgwyCmQhiBsBRPjTIaKrrs8xGjOJ3eaZZgcLurh3RNdUdA+TFApifYWVbVu7anhqXWKBQpN/ZwJ0y5X+mD/hErf7PNNmtlAL+9mPtYMAPNWJ4ZPD26MWbS8J94pkoQgWwvuNsLGv5woaOz1R6Nnep0V5fit+TQu9/MseTrtkxoYuKcgc=;YQ37CBhWJ6drnzlF7u1Hjg=="
+secured: "FC6TUBu0sKMEwB+xmumjxNqApWAIiI02gaGUv+CQedY+j7AwmDhbX+WxOauqgv+qVnPwKwpGFGBxzTuHTBH5MD6/Bbim6LDLUds3J7wRWwIf4X87dPX9dTQOI7IUT+dVceH/PLkO38SsVEOMYYvmhTLt6Gpd8AzUUQJAANQeZ1NZlFM0hIpc/fNXMG3B/kvPb35G0E8WJei0OJVnuFz+ml09K1byCXZnyI0Y/VXWymldIucAYXvy1v+2CuVdgBREy8msPmcMFaJ8iGXMnrao3Fgm0xe2o88S5I8B/2WbkdFQIAuG/XGTi5U/HoCsUwnUNTFNXP4DBOoXTN0AfYv0dSWx6K2Bw/gS7R/+K8kkzebgcUsjkcTAzu7W9yEHsc26SOuhRhKohus47whQoyWybRHWoHUoBKp7a9U/kRWeYH5MDmik0DBGFpOFBRmWREHr3mAKRMdulsHoCC58QWgyrw==;6Q/IwHMytFeM1/h6bcsJDA=="
 ---
 

@@ -82,6 +82,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in Cyber Security Market 2020 By Revenue, Price, Gross Margin, Production Capacity Estimates and Forecasts to 2026"
+    excerpt: "Global Artificial Intelligence (AI) in Cyber Security Industry research report studies latest Artificial Intelligence (AI) in Cyber Security aspects market size, share, trends, industry summary and Artificial Intelligence (AI) in Cyber Security growth during the forecast period (2020-2024)."
+    publishedDateTime: 2020-01-22T12:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2020-by-revenue-price-gross-margin-production-capacity-estimates-and-forecasts-to-2026-2020-01-22
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Deep Learning Market 2020 Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2025 – Market Research Engine"
     excerpt: "New York, January 16, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
     publishedDateTime: 2020-01-16T03:44:00Z

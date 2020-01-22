@@ -7,7 +7,7 @@ sourceUrl: https://venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billi
 ampUrl: https://venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/amp/
 type: article
-quality: 79
+quality: 179
 heat: -1
 published: false
 
@@ -88,6 +88,6 @@ related:
         width: 480
         height: 480
 
-secured: "DiEyBTWcKge91IImoOoSXjy1R91MpJqytfbkzkVxmglZ3zxo61qeUiN8q0UHADhCQPnUDmH/27ENdFgH1IxPEXJJEaN+s6h6li03o+IBro/+BGYPldiYCaQLpZP4nVD3UpEk5r5KXy01KMwnKmtJJc+kqlYO3w052cyztyNrWwLiEuK/CN0or5qFQ+HoK/O6QQLFdB48XcCYJlVScsncbCgGBv/ggzhkk+g4flKDbJo/Lz8EP/t8caSf265sz+9niSaZquDxPBnxLHyY4p0DmFuxU9Enar0q6oY0m9waM2juHieOpD+UXQHwPbVShDuK5L8A6dwKzVlJuAiiYPnptGhOTZ/GIvdAu7cZ0qOAAC1Br+7PjGOwzDwAiU+VSo3jPpiKtXxSbTz6Zv7QINdbqgQpQridyfj88LqUX/ensimAq7jWJCCghxHjmsjl24eb/XBaRMSHwWFraK8CYI2dTQ==;tdiRTcMng0+lDdYifM2ZgQ=="
+secured: "wX9xCHoSJnkEAepaELUaquqnRBpw/3177ELYtiw6CGMl7JZ8GkTTGH/1gbE5kJbx6+o3WXXqo4E/w6YoAmPUjNZrT6eAAEuTPf9VkUuvU13/IIrm6qLkuPGHdFGX9+2nwRfwyzlBHw3/qUSZbXfKmc+QWbDtb2AuwEz5EGc54xObG4OheQqWD555VR57FzGFV6zelMEip1iZHMGQVRnZNvcB5a4786tSK+v+OV2iRcXpVeninKK2eNeM1OKSeCifMDE08L0BKxOKaJVf2Cv1mOGn6YLzc/VR6fM3fH4Nno47xsVy1X3UMyypPI5Lkmh/CI+uwnyKUgjolMQxgFMSOEtHZduQ6GeHPy3ehBlJwURp9HZsosRlBrjCRulx+RWAst6qlLRutWvAcpL6A/lYqhcvV5vH6/yqm+lHN1fRKAlxzj6jfyVhA0DihRoKUBa/90I7PKtZ67MQ/nWLNzk3lcltw4iysilFY7JUkQXSLug=;AvePEYWJ5g+XWTfse5P8sA=="
 ---
 

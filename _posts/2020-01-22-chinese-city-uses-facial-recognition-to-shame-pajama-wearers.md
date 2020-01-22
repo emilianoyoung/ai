@@ -3,9 +3,9 @@ category: news
 title: "Chinese city uses facial recognition to shame pajama wearers"
 excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
 publishedDateTime: 2020-01-22T04:50:00Z
-sourceUrl: https://www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/
-ampUrl: https://www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
-cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+sourceUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/
+ampUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
 type: article
 quality: 59
 heat: -1
@@ -521,6 +521,6 @@ related:
         width: 800
         height: 462
 
-secured: "7Agxw67g6wknLTTNUq19V3/afyqViJ6qpONzIsqbQFBuKG7jyI7gTQ+fIyGUQOn4XG0/99iYDJOSV03aj/iQkWtgPXECSMjdGENEQOLY1BXx9QtZGZ+OXYYq/TZsPVfoQ7PjFO8bMhPFyDd3glrZfUr7JhxJaMN3K+z9kIUh/mrz2GCeOOy09eZWuWpkOQreeBayZq6KdzaywhMzHrVQ2P+7z9Hbhx96v392nbepYvF2BdruQNDlCdegiBByk5NK9fKRe9gAMDZfRkCa1nB3Nu395S1asdJy5xzSAA9W/xduomcGxR22tdJEDDpuKLa8BaljTthY8Nwf4TRx94+0F+RDzvY8RgsD2h0h87gdNPLUT4zITRnFBmkoqx1esZNAKlI5QYG/sguO6ujuVuFbFn3SXSQkUdRGBp6bOfiGkeKRcTm8fJj4EitPoUJZ9+4LWj/rZM3tvJ869qX2zu103Q==;Az/UcjPl78pVrPsMRmEoQA=="
+secured: "YWNaCyb8PwjNsjJTnau3zbk8lF04D07dv62oYzok29j3NEiFCmSyTcKdE3nvsjDWXw0jQcVlYkXzbJpCptvSfIdKEJhPmGSNUkZS9ChfdGgoB4UdC5MhfVHC2j4MdoWGFSpkNtSYL95Zec1AhwdfWK+pze/wahEa3X5q6l80g0yxNG2yT3oLUf2HXtRqC4bjX7ZVyRUCTH0HZXEuywTN6mpUYvEjrtdU8mQENdWiXmKocZhteNzW1Lt2gTsRaGeafKfwYSBBgdoxBWHlmf0msBa9aiMaO9MYmUOF4oolNpg=;aY59cMMD6Yz0hNalK9R9bg=="
 ---
 

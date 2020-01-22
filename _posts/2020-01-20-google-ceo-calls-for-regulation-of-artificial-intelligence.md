@@ -159,6 +159,21 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/seXfCZxKybpW6F3DxoXHbv7v26Q=/0x0:2040x1530/1400x933/filters:focal(857x602:1183x928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132207/vpavic_171003_2029_0067.0.jpg
         width: 1400
         height: 933
+  - title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
+    excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
+    publishedDateTime: 2020-01-22T14:33:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/google-ceo-eyes-major-opportunity-in-health-care-says-it-will-protect-privacy.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/106062638-1565093185244gettyimages-1071952250.jpeg?v=1565093218
+        width: 4054
+        height: 3150
   - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
     excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
     publishedDateTime: 2020-01-20T20:51:00Z
@@ -507,6 +522,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "cfvDeh+gHzaXKkzBggJ7DJOqkKRZ+zVdF4U72vGTOW0psMiNLX5ZAOaU6B79aiLhJYlf1lO6PQ3f1xZ3B8F+7Gkv5Fb0B6hKTf44Bt+glP6BlZhlBbdt/fdqo3SCioMQ5aoijuZHNMlZX62BVFTOKpcHK1PZktGya/0sflCbyRa6+takErtaRODicwppioVeoAfai5T8ftpZA4Q0Gse3FLr9zRi24nAEkSrJ7wKIRvYE7MHQiMedveunoHTmnz1spniHZ0qRi54Kun/JxtVBIwCE75XOAQlJt/kAIfgZkeQ=;vgl8DiXXVm1Pidu9x8dCog=="
+secured: "weqT0db5EqkbleZ8mV+NNnIGTCv+qqEnfAve5D+pUNT+56LkO9VQu+6HTdBIH8uupAxNxVD4SNas5SShcMaFe9cNSbxmx7QN69NClMb8QoyvZEtqRp3pZpsiLYlppC8BusFOvP9Ye4gB/slGGjYAD19M86cK8oXjl5a4zJTKG82aFgQ5zYB90K4PO++h0RSDAzg88PdtQRdj0Mdv83nq3VjPOguOmzITeHp6CLqHRrIvTj6q5yhMaR0jC8Nn0DIYHXbIzKKk/2w+lNs96wjZj7m3aMnHBD398B1UDVHwPY0=;Zq7EG1WfmSVeWQJBsBaq8w=="
 ---
 

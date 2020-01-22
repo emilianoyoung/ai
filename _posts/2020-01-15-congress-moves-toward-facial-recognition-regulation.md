@@ -244,9 +244,9 @@ related:
   - title: "Chinese city uses facial recognition to shame pajama wearers"
     excerpt: "BEIJING — When officials in an eastern Chinese city were told to root out “uncivilized behavior,” they were given a powerful tool to carry out their mission: facial recognition software. Among their top targets? People wearing pajamas in public. On Monday, the urban management department of Suzhou, a city of 6 million people in Anhui ..."
     publishedDateTime: 2020-01-22T04:50:00Z
-    sourceUrl: https://www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/
-    ampUrl: https://www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+    sourceUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/
+    ampUrl: https://www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/chinese-city-uses-facial-recognition-to-shame-pajama-wearers/?amp=1
     type: article
     provider:
       name: Seattle Times

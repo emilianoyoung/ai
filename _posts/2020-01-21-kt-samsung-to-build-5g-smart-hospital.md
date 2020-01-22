@@ -33,6 +33,19 @@ related:
       - url: https://mma.prnewswire.com/media/1079015/KT_Photo__Smart_Hospital.jpg
         width: 266
         height: 400
+  - title: "KT and Samsung partner to create 5G-enabled smart hospital"
+    excerpt: "The pilot project will use KT’s enterprise-dedicated 5G network for operating and proton therapy rooms and the two parties plan to continue to ... The companies plan to apply 5G to services such as digital diagnostic pathology, surgery, artificial intelligence (AI)-enabled care for in-patients and autonomous robots for operating rooms."
+    publishedDateTime: 2020-01-22T14:16:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14581/kt-and-samsung-partner-to-create-5g-enabled-smart-hospital
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: https://electronics360.globalspec.com/images/assets/581/14581/_KT_Photo__Smart_Hospital.jpg
+        width: 752
+        height: 413
   - title: "KT, Samsung Medical Center to build 5G Smart Hospital marking world’s first application of 5G in medical practice"
     excerpt: "These services include digital diagnostic pathology, access to proton therapy information, teaching surgery, artificial intelligence-enabled care for in-patients, and an autonomous robot for an operating room. Access to Digital Data and Video Footage The 5G-powered digital pathological analysis conducted by SMC is a world-first example of ..."
     publishedDateTime: 2020-01-20T10:38:00Z

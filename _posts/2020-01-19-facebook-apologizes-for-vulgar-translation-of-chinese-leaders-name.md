@@ -8,7 +8,7 @@ ampUrl: https://www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar
 cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facebook-apologizes-for-vulgar-translation-of-chinese-leaders-name/?amp=1
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Facebook Says Technical Error Caused Vulgar Translation of Chinese Leader's Name"
+    excerpt: "YANGON (Reuters) - Facebook Inc on Saturday blamed a technical error for Chinese leader Xi Jinping’s name appearing as “Mr Shithole” in posts on its platform when translated into English from Burmese,"
+    publishedDateTime: 2020-01-20T00:04:00Z
+    sourceUrl: https://www.usnews.com/news/world/articles/2020-01-18/facebook-apologizes-after-vulgar-translation-of-chinese-leaders-name
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 127
   - title: "Facebook apologises for rude translation of Chinese leader Xi Jinping’s name"
     excerpt: "Facebook Inc said on Saturday it was working to find out how Chinese leader Xi ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China ..."
     publishedDateTime: 2020-01-19T01:34:00Z

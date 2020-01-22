@@ -1,12 +1,12 @@
 ---
 category: news
 title: "7 books to read right now if you want to become the ultimate authority on artificial intelligence"
-excerpt: "Artificial intelligence is one of the hottest topics in corporate America right now. Companies like Amazon, Microsoft, and Deloitte are spending billions of dollars to train their employees on the advanced tech. These seven books provide a well-rounded look into the technology itself, but also the organizational challenges and global political ..."
-publishedDateTime: 2020-01-22T12:03:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/the-7-books-read-right-now-become-an-ai-expert-1028835575
+excerpt: "The picks cover the basics of the technology, along with accompanying issues like the organizational challenges facing companies that adopt AI."
+publishedDateTime: 2020-01-22T13:42:00Z
+sourceUrl: https://www.businessinsider.com/the-7-books-read-right-now-become-an-ai-expert
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
 
-secured: "xtsnOJWIFgqyWeVr5f/JcchfFrhZ8k73nqnwWcvaRGzQV7agNMz5M6xraJcpqfe3pvBHcCvnR3F7n74YjiOaCTwN9C2LbvsdOdxGLcE7Yjk9ZLujpq66DcH5jDjBkjmILEF1jxS3Ql3JJbkS/5iwQzcHC1nqV6cPtUVrJtOHl0ki4TcLWG/fBkSPglD/hD4Qh34jx33MDbuXircaoJMuRjsqjAh1ZXx7vRfz7o1ymphgiGZhsdVNyEU1Lf6trUy64il+bYUhOoBQBuFDPho4otf8B9aafJPZtAZlf9OmVYDdcpkxACOrwz3bYjoPDZL+qztRwkK5ZCkjFqeUAyF63gYdSAtGVG8JWTbg6PEv4kLNmySkfJ5Z8Y4JMGKPMSbciQg++WHG9aaBCM/HFnyF6DjAFHovnKoCK7wbM6X5HFQ5XdQTLSbVZHl39WJ5MS2TXHhgkIJUutpU2z/CmtMAYg==;pFQv3cvi6DkQrt0cucfkKA=="
+images:
+  - url: https://i.insider.com/5e272b1e24306a61be79ecc4?width=1200&format=jpeg
+    width: 1024
+    height: 512
+    title: "7 books to read right now if you want to become the ultimate authority on artificial intelligence"
+
+secured: "jQp3LsytkLfl3QCR3ywJ829pxvQuBl9R8NSL7U929ryR06j3vaqJenAg3IYU1C+qhfnLaONmNujJbKdfgVSUH1mFRmnhvl2SVqFtvrW3Dc3/kZEXwuBE+yjI9SrVX//aqhgUPLaMnzFJxxC9S6k0eX7pZJPZzw4Fhi8ZCGoIHYLK4c/Ey1e7AC/ZCeBgl92/EOHDA69dd4zXfpz3TeORAolAURtqDR/DDj0pRzBOw5dpjwJwMAwAG3u3D5pjMT4nvK07tMj1OU7JYHnNGptu06m4/tRbK04PNj1VEXjP7DU=;2xMqpAOcZ75TSFEQchkibw=="
 ---
 

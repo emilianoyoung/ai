@@ -36,7 +36,7 @@ related:
     provider:
       name: 9to5Mac
       domain: 9to5mac.com
-    quality: 59
+    quality: 159
     images:
       - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000
         width: 1000
