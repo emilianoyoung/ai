@@ -1,34 +1,45 @@
 ---
 category: news
-title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
-excerpt: "Silicon Valley executives and lobbyists like to say they embrace regulation. Now they’re launching a frenzy of lobbying on what they want that regulation to be—and Europe is set to be one of the first battlegrounds."
-publishedDateTime: 2020-01-20T12:31:00Z
-sourceUrl: https://www.wsj.com/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
-ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
-cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+title: "Google boss Pichai advocates for artificial intelligence regulation"
+excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
+publishedDateTime: 2020-01-22T02:26:00Z
+sourceUrl: https://www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/
+ampUrl: https://www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/amp/
+cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/amp/
 type: article
-quality: 187
-heat: 307
-published: true
+quality: 72
+heat: -1
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: /assets/images/organizations/wsj.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Vanguard
+  domain: vanguardngr.com
 
 topics:
   - AI
 
 images:
-  - url: https://images.wsj.net/im-145573/social
-    width: 1280
-    height: 640
-    title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
+  - url: https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1
+    width: 600
+    height: 400
+    title: "Google boss Pichai advocates for artificial intelligence regulation"
 
 related:
+  - title: "Google Pushes ‘Sensible’ Ideas for How to Regulate AI"
+    excerpt: "Silicon Valley executives and lobbyists like to say they embrace regulation. Now they’re launching a frenzy of lobbying on what they want that regulation to be—and Europe is set to be one of the first battlegrounds."
+    publishedDateTime: 2020-01-20T12:31:00Z
+    sourceUrl: https://www.wsj.com/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+    ampUrl: https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 187
+    images:
+      - url: https://images.wsj.net/im-145573/social
+        width: 1280
+        height: 640
   - title: "Google CEO Sundar Pichai calls for 'sensible regulation' of AI"
     excerpt: "It is too important not to.\" After laying out his relationship with technology and offering a few examples where innovation has had unintended negative consequences, Pichai makes the case that while AI is powerful and useful, we must balance its \"potential harms... with social opportunities.\" Of course, this call for \"balance\" leaves some ..."
     publishedDateTime: 2020-01-20T12:25:00Z
@@ -80,21 +91,6 @@ related:
     sourceUrl: https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/
     ampUrl: https://www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/
     cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/googles-sundar-pichai-calls-for-regulation-of-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 72
-    images:
-      - url: https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1
-        width: 600
-        height: 400
-  - title: "Google boss Pichai advocates for artificial intelligence regulation"
-    excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
-    publishedDateTime: 2020-01-22T02:26:00Z
-    sourceUrl: https://www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/
-    ampUrl: https://www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/amp/
-    cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/amp/
     type: article
     provider:
       name: Vanguard
@@ -192,6 +188,6 @@ related:
       domain: lewistownsentinel.com
     quality: 17
 
-secured: "DH0qqpVlxeByOoWD0vmrqYPoGhDS58hatdJS9WhXuXfvJAFL1jUQIRRPXM1+jBC+202EXznpTZ+azNLRplkk4orrz+F28hPaimt2P5gNygJtu/65KQ/A1mcmIRvmkdVFB3EhO4byxOmgoPOUShP2RBdy0LScl9I4iI/xYFZjlRBXevRRH+UESgAgdV4WKuixE86bwIGpSBZFOYurXIeCthG4iJWhjjrkLiw20/yhKGPjZWsFB8DOCeN7rszqqbiepecZ1BVerlADlW8qdDlibcuyCWxtXZCwOwkREhJG58+H/UAqlo26vSm4grWdVBiAm9S2VQvb3JI7W5tc6vTEgoy0jH+BOnIkyZcINFOrHJfDTvl12tgazw/suxKHNVYnFF1dLEFR7qYztP6Cp5kq7rzJlfz+lmC5IlsWq2lC01ZCoIUKXS9vsXxJknwHtmoLIlDOSahpkWrhFqyus/vX96o77NlVX1agGM+Wab9E38I=;rLDZIX/dVyl5vkXhK5XQxg=="
+secured: "I33BpcND+154lHTDg0iILtfx8qz3dFkmTtPMY+kuVz9LlSKTaXu3744CXIxAu6FDA/FbW4/XZAs01EDWBcq2ekxojgeLdELR/WEsvZ/UevuwS3FwF5NpjCXQgxJwIgEPTCA1cN/RifWwZMtgO9Qniovz34EgNJ295Op2SYJ6AX18yOi0b3XJP73BtRLvP5ZML+hq+YIazCIxYqG3MF74+wnJP2zTDemMLYBxgojKwdOGL7P9Kqmo0eAY7mFAs9iYR/0ro188qg3LUo9+XFhR20HRFQdRnawrfk9D7pTosKY=;IYIRO1i50YqyTRo7jrqS6g=="
 ---
 

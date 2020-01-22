@@ -92,6 +92,21 @@ related:
       - url: https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1
         width: 600
         height: 400
+  - title: "Google boss Pichai advocates for artificial intelligence regulation"
+    excerpt: "Google and Alphabet CEO, Sundar Pichai called Monday for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also “negative consequences.” Sundar Pichai’s comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is ..."
+    publishedDateTime: 2020-01-22T02:26:00Z
+    sourceUrl: https://www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/
+    ampUrl: https://www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/amp/
+    cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/01/google-boss-pichai-advocates-for-artificial-intelligence-regulation/amp/
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 72
+    images:
+      - url: https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/12/Sundar-Pichai.jpg?fit=600%2C400&ssl=1
+        width: 600
+        height: 400
   - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
     excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
     publishedDateTime: 2020-01-20T12:00:00Z

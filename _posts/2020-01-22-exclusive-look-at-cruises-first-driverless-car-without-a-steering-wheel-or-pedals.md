@@ -29,6 +29,6 @@ images:
     height: 933
     title: "Exclusive look at Cruise’s first driverless car without a steering wheel or pedals"
 
-secured: "MOb9X3FVTWeP7yhdgqhimgeTpb8/Dqy+Wt3yTsIY/3hbnZGZdqdNxp8Vwcmog79baf5DwEQWhmNiRnABTJ2K3xL2blVyO33VKfrIrBC3VxLU6OdN+bIgy5XMW1f11pcra9fEklVYcsvIX0f4EaWlXMaxzPqcm85k1PXhLqmoInYiSHbQFqoTeFaB1qAGaNK0uA/frBOlr3QsfP7cIcgq5ELQCmtToErj5KtkMBY7CSi9sznvNXl8Iq+9BGoi6rJ+7JoKWgU6b9JidfAaL9XCQeJjbFjUA+GaKswEcUC57OQ=;wQ4Q1RiEIhdmsESjSNYwJw=="
+secured: "FnwsMqWSirCtMX1AjD0kjJqHX/FLI9R4ExKDD7R04FrmwCOjSMJhlV0ZJtwfuLiGFZGInBBQXXAHQFKPKsUdGcP/5R+PyLbKY6acPuWvI+M+Pt7ykAqg1jtRNji2EH60gAy+wJKWsu38s/h7dYkceVqsKfty9xEwrMuALTmjAvmLW3RSIo/Q5otUvd0mk5v6NKp40+O9AHurvxR+S1m6yndB4fXoGCpFupHjQ8u8TfF9U6aYtyufIwblMRGhOfuO0sG0uGkK2vrVAnfEoaOLJW1CRhYO3/yotu42YEc3cwj81jxx3Ebm6OJtq1qyrxWanHiyUX3ggBRWtG4fb0nYR2Bt/XHv95Mvj1GalsKX+4SOSTdMEtNIfAHETK+zTQMT/EOmkYXq9b/TATFCDTsS6X2YJgPwM4lQ5uQeOgdmSIlAy4EidjskKOMJcKSZZFiFIIx+ub+hljhmZ6Oyrzz7Kg==;CeMg+oQ8TUUHfIQ58LTYQw=="
 ---
 

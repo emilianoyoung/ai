@@ -1,21 +1,19 @@
 ---
 category: news
-title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
-excerpt: "(Reuters) - General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”, is developed with Honda Motor Co Ltd, which took a 5.7% stake in Cruise for $2.75 billion in 2018."
-publishedDateTime: 2020-01-22T01:48:00Z
-sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise/gms-cruise-self-driving-unit-unveils-electric-vehicle-sans-steering-wheel-pedals-idUSKBN1ZL03W?il=0
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
+title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
+publishedDateTime: 2020-01-22T02:22:00Z
+sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
 type: article
-quality: 68
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,10 +22,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
     width: 1200
     height: 630
-    title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
+    title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -75,6 +73,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=
         width: 1200
         height: 630
+  - title: "GM Cruise unveils self-driving electric car for ride-sharing"
+    excerpt: "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ..."
+    publishedDateTime: 2020-01-22T02:19:00Z
+    sourceUrl: https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/
+    ampUrl: https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 470
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z
@@ -300,6 +313,6 @@ related:
         width: 1200
         height: 628
 
-secured: "Az9iLcDrlPyvBj0zwJbd22PjyBL0WayYK1OUydZOzDLqqwKoFF+itTdTA6MlfV6OtNN1p9h7lmQhgMuEjms+MYlnAQPQRrJ1QBIMjdNmMn3vN4FQB4o5Oi7U9SQwF5cWHeYklDxK+DA0EWW6jVL/KPnXmbLbfEFSFBluEW0slWbpGERi8ieJsJf8lsommfLtwa4aGyQs+Dq1upmleKK75UOjS2i8UHSBZJkOeABQULae0uAzVxPERJnNoVuKlEYj9voGbgBbnVhqdMKUvSDaa1ZABwJj4szv9hcNVoKazwE=;4wAe6bxfSSleMfKxk60t1w=="
+secured: "PMaL0BpQoqMnytJp9u+GCS8dkir3zMrltrWmuhfBkiVcZbTrl0NLzh6OA1hMRK5+CVvaCKPofw5s6KLOn25cIRRPNa7VKe94MMYCAphDpCROpKOB545UZfTCNMbAybTraaHAnjP/oj8aNVoRucyDusfoiz2hDYBU9/d7OF2Lfp2l8SLh8w0tBd9pnAy2G/LPN6E4bvMC7yuhqEr8qxQJv3RVIneDNp6NZ2/NyXKvGbOSpI8KS+Ul5JwtgVguxf5xuCqM103QGNLjTecEmtmcjG+W0Ae2PpnVK4C4naWnlQ8=;4vEggnjWIFkfyZQQ/8fKwQ=="
 ---
 

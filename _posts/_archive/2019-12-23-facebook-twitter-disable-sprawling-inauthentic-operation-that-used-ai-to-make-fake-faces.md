@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
-    excerpt: "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ..."
+    excerpt: "Facebook Inc has taken down a well-financed campaign that ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale ..."
     publishedDateTime: 2019-12-22T12:55:00Z
     sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
     ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
@@ -53,6 +53,6 @@ related:
       domain: scmp.com
     quality: 27
 
-secured: "N5xMTVZPvdPKHnM0D++fZuNFDbvCQtZw6cqeGvrjzfgvlNbrxXLo+3IyToR6AiWjERqymxD6zfGbhFpTBaZB63axKwBxt4NjQvchFrYH8J9tLSvUeUFUef7x+KU9wDttFt8Gcac0N0WjkmmnBqBUI5loTa9k1s1PEhjFirgFMyjV6yxQi501iEq1TP1GMlgEB87uvuVLx+Zt/qa1RwczQKfm3ovnQ3WQxhCfO1ABNRQwMMMBT3AcEidoiwix6IPihQ4lSaEiFGABoH9Y5hVaPi5Rb8jIhiqGXWMde6n92Rc=;AwZrFOUulM4TYIyxBwyZqQ=="
+secured: "if832E6ccQXIS2pV901yjUpTc4t+HjngA4c9W4oCKrnfr8TtLfh+Vy5lqiNxoVkk42VydCl7fZPWgI6/eWNOXqPyt9K4OdwCCZQtDvDlQRYpFxFPQEheDcLNYZ9TScTY8uES4CpMRmvRVCz9AH9j6tz3biK9jAipZYhHkVlAq6u01doNeNaFa7zhpUqE/gDsDWfGeYyowsFOV9RZLWT9io7DpfQckyYqALFk+1Ea9xQqxmEm6q8joGJI88jqsvT3f9+9BwtrvdRaqkxTDwjUntUOPIMzRSdYr5gBn+NAbME=;lI/FtWkb0AfDTPiFYDnkYg=="
 ---
 

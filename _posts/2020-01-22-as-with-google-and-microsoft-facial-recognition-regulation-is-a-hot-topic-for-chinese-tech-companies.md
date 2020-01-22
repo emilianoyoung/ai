@@ -1,29 +1,23 @@
 ---
 category: news
-title: "EU considers temporary ban on facial recognition in public spaces"
-excerpt: "European Union leaders are considering a ban on the use of facial recognition in public spaces for up to five years until safeguards to mitigate the technology's risks are in place, according to a draft document obtained by POLITICO. Building on Europe's existing tough privacy laws, a \"future regulatory framework could go further and include a ..."
-publishedDateTime: 2020-01-17T12:30:00Z
-sourceUrl: https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/
-ampUrl: https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/
-cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/
+title: "As with Google and Microsoft, facial recognition regulation is a hot topic for Chinese tech companies"
+excerpt: "The country known for its ubiquitous use of facial recognition is now quietly preparing for more controls on facial recognition. The technology is used in China for everything from , but consumers are starting to push back. “The awareness of protecting data privacy is increasing among Chinese compared to several years ago,” said Jeffrey ..."
+publishedDateTime: 2020-01-22T02:55:00Z
+sourceUrl: https://www.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+ampUrl: https://amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
 type: article
-quality: 59
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: POLITICO
-  domain: politico.eu
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-826006490-1200x628.jpg
-    width: 1200
-    height: 628
-    title: "EU considers temporary ban on facial recognition in public spaces"
 
 related:
   - title: "Facial recognition scanners are coming to PHL next week"
@@ -213,6 +207,21 @@ related:
       - url: https://e3.365dm.com/19/07/1600x900/skynews-facial-recognition_4709130.jpg?20190703181850
         width: 1600
         height: 900
+  - title: "EU considers temporary ban on facial recognition in public spaces"
+    excerpt: "European Union leaders are considering a ban on the use of facial recognition in public spaces for up to five years until safeguards to mitigate the technology's risks are in place, according to a draft document obtained by POLITICO. Building on Europe's existing tough privacy laws, a \"future regulatory framework could go further and include a ..."
+    publishedDateTime: 2020-01-17T12:30:00Z
+    sourceUrl: https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/
+    ampUrl: https://www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/
+    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-considers-temporary-ban-on-facial-recognition-in-public-spaces/amp/
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-826006490-1200x628.jpg
+        width: 1200
+        height: 628
   - title: "Facial recognition: EU considers ban of up to five years"
     excerpt: "The European Commission has revealed it is considering a ban on the use of facial recognition in public areas for up to five years. Regulators want time to work out how to prevent the technology being abused. The technology allows faces captured on CCTV to be checked in real time against watch lists, often compiled by police. Exceptions to the ..."
     publishedDateTime: 2020-01-17T13:46:00Z
@@ -429,18 +438,7 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
         width: 2176
         height: 1578
-  - title: "As with Google and Microsoft, facial recognition regulation is a hot topic for Chinese tech companies"
-    excerpt: "The country known for its ubiquitous use of facial recognition is now quietly preparing for more controls on facial recognition. The technology is used in China for everything from , but consumers are starting to push back. “The awareness of protecting data privacy is increasing among Chinese compared to several years ago,” said Jeffrey ..."
-    publishedDateTime: 2020-01-22T02:55:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 24
 
-secured: "K5xT3cHx9QYXDz9/zIYu8+2eojhclUOtriGKcYXHp7cserPxc1WAmCo/5fyRA2TgilMqbutjAovr6+yw+VnK9KeNnov6kMsCStUfSDFWz+aXXa7U5QxNXZ5WP9TyWOOAnbwczFoFrG4jG37fjsIp9f4HODJ6MKDmszCRCNNA68IHCGkFIA1zoj1/dnJaJgrZfHjyuE0FofVtJNJJlKsMyiEM2TSCALMM4QS6erEuuu9Ny5V2uGiXPpCMPI+R4g9VcSSKzK4JEeI99HvC9lX9+XIPiIAUI9NGhj+2MGh9Qfc=;Crnez/RgJ5wJWkzPN0WoCw=="
+secured: "Um+Eu/X4Bmc2im48PtBQIBX4KjyX8289pFGWBfJUxMnGqziwcjZvoArfusHsl0RJfmXMuf3TLSc+qXPEjJMEWTDhLeknZJrpv9ivuPIi9CRL9rnSwmu27/2W5moShPLMbBXeOTbbywBe95l+TjGeFU3rE0d8/Uvmltwvm//8O6Tl0p4bEDKWhya/v43/oH095yKdd5by55U1aqYClfL6b7WT3ulTY0gKvb+87mX2d3iQQPSD8LBlSWFVQnhfASuigET1CE3GGsXNNgwqZOxmK9RFkECestt1uRXmSe3Uc2rYixM6JCsIUdDodzuyqJUDv7YbR57wjcEYTBv43SkkQ6nJfvDNxS87NRDm/b8pNbiVKxcNnApVlXgd8t67t//Cz3Tb/GaQE1zQQhcOUYdPUbQho48v7Nj+jCHE6N9tzvnHDp4Gl9M/JovIVvAuuiP11OVV3vT43ARgP7dkK6ukZw==;fN5ujTBjkIjJ2MOrWXiJpw=="
 ---
 

@@ -433,6 +433,17 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
         width: 2176
         height: 1578
+  - title: "As with Google and Microsoft, facial recognition regulation is a hot topic for Chinese tech companies"
+    excerpt: "The country known for its ubiquitous use of facial recognition is now quietly preparing for more controls on facial recognition. The technology is used in China for everything from , but consumers are starting to push back. “The awareness of protecting data privacy is increasing among Chinese compared to several years ago,” said Jeffrey ..."
+    publishedDateTime: 2020-01-22T02:55:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 24
 
 secured: "Mj0QXYr80yzeG8UZ5u9rvr/IXvcrgq8NsdFvFx+0VSqZyBYDAiQzwue1narKu5GlkoqvoPkZsjD8XCVR9ANKm1d25BFoGsHLuo8HZs4eNW3F99anq+mYW/46qVU218eNU0lyzw9pqoMPGNpqrvotW2z4eOgCzTQDw1oODSgdTIeZg2yf+vU4SD6a4UMRDx0e2VQaugkSr+EUWIA5CoVEJbf3ObyJ4bRXLIJhsdRUtxYdAZctzPGTgMuDCs70LLt9I+M/0yzr1F+zx9S9fucpm2sU063Eydc0AJLjHSbQX/+ao6dJCwlxM0MADIg8QxSiLttg1GhlmX4jw61prxxlVBqgnndVG1VWj1HAopTp3Btfw4M6oxpEp/vcC8GHAhe8/m6Xeu++rZ8HyqfUmHTa/6q9d0nVQbYTrn0s4/orC2ogtBdN+0iI6JSm5AFPotM5/Ms8h9eV6cgTllucJrMt7Q==;J7xYG+0c5eBiMpDilFJo9A=="
 ---

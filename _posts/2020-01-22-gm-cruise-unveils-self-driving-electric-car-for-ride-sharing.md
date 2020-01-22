@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
-excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
-publishedDateTime: 2020-01-22T01:42:00Z
-sourceUrl: https://www.caranddriver.com/news/a30613209/cruise-automation-self-driving-bus-revealed/
-ampUrl: https://www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/
-cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/
+title: "GM Cruise unveils self-driving electric car for ride-sharing"
+excerpt: "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ..."
+publishedDateTime: 2020-01-22T02:19:00Z
+sourceUrl: https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/
+ampUrl: https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/
+cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/
 type: article
-quality: 40
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Car and Driver
-  domain: caranddriver.com
+  name: Electrek
+  domain: electrek.co
+  images:
+    - url: /assets/images/organizations/electrek.co-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-9822-jpg-1579655853.jpg?crop=1.00xw:0.743xh;0,0.151xh&resize=1200:*
-    width: 1200
-    height: 603
-    title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
+  - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
+    width: 1000
+    height: 470
+    title: "GM Cruise unveils self-driving electric car for ride-sharing"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -71,21 +75,6 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=
         width: 1200
         height: 630
-  - title: "GM Cruise unveils self-driving electric car for ride-sharing"
-    excerpt: "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ..."
-    publishedDateTime: 2020-01-22T02:19:00Z
-    sourceUrl: https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/
-    ampUrl: https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
-        width: 1000
-        height: 470
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z
@@ -219,6 +208,21 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
+  - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
+    excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
+    publishedDateTime: 2020-01-22T01:42:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30613209/cruise-automation-self-driving-bus-revealed/
+    ampUrl: https://www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30613209/cruise-automation-self-driving-bus-revealed/
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 40
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-9822-jpg-1579655853.jpg?crop=1.00xw:0.743xh;0,0.151xh&resize=1200:*
+        width: 1200
+        height: 603
   - title: "Designing better nursing care with robots"
     excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
     publishedDateTime: 2020-01-15T23:10:00Z
@@ -309,6 +313,6 @@ related:
         width: 1200
         height: 628
 
-secured: "PGeFp/7x8SBZVtOQgkXQXeFeEzrWS2sIVOYgUw+x//admZJpRvEQL7LFuYyf++EC+Jl9aeeLrSBxlmGo3yBFQc2UNGWjpQIk6Lv9zZRxljqfnJRA6EgR1kuS68MguqWOKAKVSw7cbv12Haqu8Te/v+Zfew+7VHJE7ePj7UVLhKY40cC7HDKKthjgnaV+xR16w1ngI+4kQn9uIKRj7APomeEdG4bv1acLWls2SSiYuTwvuTpLhPLWJ1WUauBzDT547zsDgfhquoD/RN/iPgB3x0wtTCiCPftDbFnm8iAodpSTwRQ34S5P25PUazZhg1TRU/XcUCd3QEto8YPPu+WM2rM+taf4cp/q1AsuFr/AW1hib4OIrPKVzMlnJ8OBCigjXwp00zNesLWqKkzWG30qOk2jUQvpgsxyRCV0MYoipJeYcDXZK5Vs5G2JF27HiXvHw0Pb+t8zFVZV+rkfEcwJmw==;bQ83tZrb8xsa7k4OsgnVyA=="
+secured: "3Zgx9xWCclSYDqB/ODo76zvCzNFAC8zcFL71Z/jAvJ7O2vj5nXET1wZJVR/sZ57vI4/dBq6rntFF+yo7S4e4kSq3GE00oF5xqxNtPn1IKF29B64+CRYi8L/fQkxcpkAprZtLjD0v9QX0ILxkSDYLiD+nox6QTMODrH2ZB89CS5H0yZdLRQHJ2fqdTCP97o3KYlLirYRdllk/ySmMUAUPRaAqRddYvs438Y4NcJMGnpVuDMVSpIDJH0Hm6ShLtZFfzk9rwvTAqPxNm2ynS7qcBW/ejx5fU3MKnS56kGDZZXc=;LkSMkwjkbsS7qmbmoA/57Q=="
 ---
 

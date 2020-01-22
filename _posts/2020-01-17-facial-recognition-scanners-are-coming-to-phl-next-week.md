@@ -8,7 +8,7 @@ ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-ai
 cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
 quality: 159
-heat: 449
+heat: 459
 published: true
 
 provider:
@@ -429,6 +429,17 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg
         width: 2176
         height: 1578
+  - title: "As with Google and Microsoft, facial recognition regulation is a hot topic for Chinese tech companies"
+    excerpt: "The country known for its ubiquitous use of facial recognition is now quietly preparing for more controls on facial recognition. The technology is used in China for everything from , but consumers are starting to push back. “The awareness of protecting data privacy is increasing among Chinese compared to several years ago,” said Jeffrey ..."
+    publishedDateTime: 2020-01-22T02:55:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3047062/google-and-microsoft-facial-recognition-regulation-hot-topic-chinese
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 24
 
 secured: "7aAcyHL7KEBmBdB8MDQsgL4EWkT9wX82Lelv9/ga/fu3fPEecJklk/cAiRRxckrRuvCxJeMGmPVormgs67r23vTTM8QKXVVfj2yN/nxNDGCPBc9YaWfGJsrZkNydbQeUJf2JzrTZ/pzYDQ6SE1vnuttRR5jSIZCuGmJoC1fgyM0IeAUR875Uea7OM2V3MMv7wezGYZ1ky27DT2lhqfwo6w4UyAEec5neSRwTSv1BOiy1WUkiypzmLCNVPiXVsHqhzYMqn1019BbrCBK6lkmBnkHBAQVYAfduD/Hx66J7Zwm+9ao9ytAW6uf7VnuioybALRhnV7e+0fTUUtCoInWNCbVHHLm28X8Sr7nQytJeMEdDOYRIGNh4ep0zN1DywMJzah/0vkIK3flNA4SlOcB76VBWRO5Whcn9rsVhNuq+DgL9W+QZzMDPvfvHapOCpvf//h6KEXEOjMOHmTLSMLI35ABBORrxvJbKYCBhr9u99VE=;RU23WR28HwJODHhFYDLgXQ=="
 ---
