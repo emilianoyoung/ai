@@ -34,6 +34,6 @@ related:
       domain: indiatimes.com
     quality: 39
 
-secured: "7WHmbJ2Bn2b4Obo2kdxQ7+aEHotjTTWlyeQdfW2Stnln5ruxpKGDH1o9ogpg5inKjR3MVHbgxpPaJEx4XvRnBHl30tjB9RL4aAoaVOrLubJNlNrRlmPYhSj+J0a1OqBsKszlqs5RQ26UzQ7FP1jCdzCNB+HS3B39rd/waO0tiAc59I45Bxds8TM3sJUKWVWAbgPZVTC9y1fGQiO7m7nyL07hN7pIAtpOrm9Ayju25J95VGZ+yMR+UaSR0/rOVERmsycDlsbJrvRD9pvkyzrcESqOH1epa+N/LgN9z4Rkevo=;TPKphliKJ5Q8DcEtzK1VaA=="
+secured: "PfQaE5QeQgR7tCl//EH1lEFs2v0saOZMMiwbTCwwt12e9a58imlXgl9hrw8ReCXdRkYcCencTLWUlQYMPHSDjNtc7bHT2jUcd9iFsVFFTa5gWQBRmVkX3SXYzf0fIlnHM09rdQ23TSWRqiBMCr4/HoTUz7o0OjnKJ92kftQf/8ybXjPKgHA4rwjrvo4KkiKF7g+FMKiTi0rixrNS5zzxLljm3WN96d2nADoMCCZKMZZuvgYbH2uXDYdwTYe7S3WP7mwzjacrfjrIWPThTv7FUZ7asH4OBrmL9GVp+qdS/Pg=;YyTJ/akIFaeAwOimq7Rugw=="
 ---
 

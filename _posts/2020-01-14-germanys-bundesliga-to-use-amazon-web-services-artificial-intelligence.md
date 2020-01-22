@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-se
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp
 type: article
 quality: 103
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -35,6 +35,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+  - title: "German Bundesliga selects AWS for personalised coverage"
+    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across ..."
+    publishedDateTime: 2020-01-13T11:20:00Z
+    sourceUrl: https://www.broadbandtvnews.com/2020/01/13/german-bundesliga-selects-aws-for-personalised-coverage/
+    type: article
+    provider:
+      name: Broadband TV News
+      domain: broadbandtvnews.com
+    quality: 39
+    images:
+      - url: https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/Bundesliga-2017.jpg?fit=1103%2C618&ssl=1
+        width: 1103
+        height: 618
   - title: "Germany's Bundesliga Goes All-In on AWS"
     excerpt: "Specifically, Bundesliga will build new cloud-based services that automate processes, increase operational efficiency, and enhance the viewing experience using AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services."
     publishedDateTime: 2020-01-14T05:29:00Z

@@ -2,20 +2,26 @@
 category: news
 title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
 excerpt: "and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions, announced that it is expanding its autonomous machines research, working on the development of a dynamic simulation program for robots."
-publishedDateTime: 2020-01-21T12:06:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15152568/gbt-is-expanding-its-autonomous-machines-robotics-research
+publishedDateTime: 2020-01-21T12:11:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-gbt-expanding-its-autonomous-machines-robotics-research-/2020/01/21/9084095.htm
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "GBT Is Expanding Its Autonomous Machines (Robotics) Research"
 
 related:
   - title: "What is Machine Learning? Why its Matters and how does it works?"
@@ -32,6 +38,6 @@ related:
         width: 600
         height: 256
 
-secured: "ZpjGxtZjEZf9HwLxbx/Sx1/qmER8GNqSLH6p8wUQR9BYKOwtYUV+NVMsQIUQ54/l1qK5MQ1U7tq1s3DcdU9xjvuN7zDt5fMsE8JlkiZHCM94mDmy/o+xUULFm5Ax8F6xHpZMIuLB89UBv09561Tds5oKy3OuM0ic64zEsPrh0vKjYmq6qy2S1CTRhUt+u0odZMbYMv8/lewMb2sLF/KNcajEwoX5YYCS62PwGwcZuiv9LZuBhPki/p9+hNK0oL8gvKlN4ARMxlUpBfwsJ0sHpQc3g5mRAcDBQBU4/QbMJ+Q=;iDitrLjPBNfH8U3yzVQJTA=="
+secured: "jRuZZyT7mCcer8V/tf52Bas6mY3ePbWZn9Wxqx9C19kGgZVhVx3XZAp9QQeempOuKkoDls0cRi3EW8ydVmn5ECeOR92NyQ4XjQjvlwvodmbuDtw+XC/EAwQJNv/bIO4KYPsMF/Y5bMVy6Rn95w91CW7+cIHNUO5q6vhJr87Ec6uC6VfbT7wi3dZgk5PJHjEEeSl2rSHJty6jctP8qSBsJJIcwmz69M8jRd41up7pxfAZw3yo30tvdOgauaioMWy9WpJ4AOnKozH9blVFNXzL6MivhkQWO//dMlGsGXRNHGg=;D5GdVAK2WSkp8HVKC4tjIA=="
 ---
 

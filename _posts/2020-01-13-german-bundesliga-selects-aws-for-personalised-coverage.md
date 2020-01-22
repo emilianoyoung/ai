@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
-publishedDateTime: 2020-01-13T11:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
+title: "German Bundesliga selects AWS for personalised coverage"
+excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across ..."
+publishedDateTime: 2020-01-13T11:20:00Z
+sourceUrl: https://www.broadbandtvnews.com/2020/01/13/german-bundesliga-selects-aws-for-personalised-coverage/
 type: article
-quality: 47
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Broadband TV News
+  domain: broadbandtvnews.com
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/Bundesliga-2017.jpg?fit=1103%2C618&ssl=1
+    width: 1103
+    height: 618
+    title: "German Bundesliga selects AWS for personalised coverage"
 
 related:
   - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
@@ -37,19 +39,15 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "German Bundesliga selects AWS for personalised coverage"
-    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across ..."
-    publishedDateTime: 2020-01-13T11:20:00Z
-    sourceUrl: https://www.broadbandtvnews.com/2020/01/13/german-bundesliga-selects-aws-for-personalised-coverage/
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
+    publishedDateTime: 2020-01-13T11:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
     type: article
     provider:
-      name: Broadband TV News
-      domain: broadbandtvnews.com
-    quality: 39
-    images:
-      - url: https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/Bundesliga-2017.jpg?fit=1103%2C618&ssl=1
-        width: 1103
-        height: 618
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
   - title: "Germany's Bundesliga Goes All-In on AWS"
     excerpt: "Specifically, Bundesliga will build new cloud-based services that automate processes, increase operational efficiency, and enhance the viewing experience using AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services."
     publishedDateTime: 2020-01-14T05:29:00Z
@@ -64,6 +62,6 @@ related:
         width: 512
         height: 512
 
-secured: "RmamK8dh93Z0XMjHFPx2DsbiOKe/e/x7Fa7bHuyDaPBhVvPsmHsYb7gvWbvCAVPRFdbzEFf7KCQyV/wdS+Azr7EDDOM/Ervxo2QlWcF0vYFvBcL1kP6oMuGjtiA0ZQDw5qBnvdx5yRwCDAgUZ7rVA+pOLR/Cf5KJVXt9RAiwT2I2W83d9HYpLxrh7vyyh4DSYWtk749+ng68/CoMKN5XTUc8OaWC+QJrjN0rEdht6tM3VEVeEup24wq9rpmqD2zZ2SCcrmWzUQY4S82vfbQz7KkeFpFqEHE3fZTu5mmIkBQ=;rxexqOqUq1GEIlpiOs6EAQ=="
+secured: "C8hKuakYFvp491AeLzOL+Jf8+sdg/NdQ7r3cM/BAnAZTRBx1+99q+7khcvLy1ei8n4u/xMHa78zSmH5G/veM9iQCutopS3QcdmK24ZyVVv2EHmkEQ67NJMgEVptT3RTdhz0GU3iPG7y72gBeZ7FX735Kgft7y3A7eaj2tMZmpR0GSsx4ljkBBtkZbGI57SKyt8uwUTBW8XTtwEkNtJ/297K2F3sENyTPmDUelaV/SsxRwwevDn+8yIFW0sciChAMHBvfct6pP0M/oJGt0I6W708xkY/s34fSZ32G8ETzwnE=;UUyEQRcOrIlSKgDUfOc7wA=="
 ---
 

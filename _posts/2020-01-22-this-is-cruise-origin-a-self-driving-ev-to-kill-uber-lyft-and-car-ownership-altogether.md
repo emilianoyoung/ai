@@ -29,6 +29,6 @@ images:
     height: 946
     title: "This is Cruise Origin – a self-driving EV to kill Uber, Lyft and car ownership altogether"
 
-secured: "j9f+uHgLgkC9hRtMt6J3C+nvS7Z9ovA1M6ehR25epBmBFoI/s9UNnYN5KCUvBysvCfkvPMiSP7q8lFNNg/bsUSLMvc1j1EFA4j4PpePiBXbOf1iuOkk/2DRwdoHT3y5F47TSM4krcISWDujdd78/arX3p+t+y9Q4FJtCg14EzdyCVd0WZzxGPwwhZjloDW5tCPekpRO1lgfHftU6tFEaKaiVyPy12lHrFzJ8sSam5bVKLJBfS3+n4nmHip1hohUafTERt0H5gxCUIuK0SgSmAf7kTxUGlK337+mNMYxxavc=;+XEefIIm6AeQYGQ24H6FKw=="
+secured: "2GHN5ShCeXsIhUdN+jsomKMHasqJI2zPRVkMhbDJl3WidvJwAMr5Fi+hTxSyeGlNRQUFoDazjBKE3Kz+yQ2oLfwqEIsfVXwWo8Q9xdKB34wDi4yzuEYeP78NLkhmwrh4VdPiOqFKtxF24McxsCCLCktRitHJ4Fa/xSHGX92Tj4TgUBICl5SPo1nbtsFXYc+bqTUOqin4xa1aGT1wNDOkEa/iq8REAyCdhY62nSg3HY1TFiYJEvOEztF2lY8XolS0+Z9meOj5Il70r9hiSZrVUIa5Z0Uv+Hs5ZFZPngJUCFbzN5gcpZse5JLA4xV456qupN/EHjotX7HCFOgOQT14AkP658YNfxJIP9Tb7+XRbpNzgEsli3lbOMKFomVBagfIht/3LbcXp+5vE2Df8TgLUP3HolWxqjyD369Ot4zkPrABQ6Z95FoApvZUcfKqdKtryaSYO1huUiDHQrQwoG6Mlw==;hcSR7/QsMW1UBOFaLKcIvw=="
 ---
 

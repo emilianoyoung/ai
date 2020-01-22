@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Microsoft Gives Developers A Chance To Get On Santa's 'Nice List'"
-excerpt: "The app relies on Xamarin.Forms, Microsoft Cognitive Services – Text Analytics and Azure Functions. Developers can find instructions on how to install the Azure components from GitHub repo. Text Analytics is one of more than twenty different Microsoft ..."
+excerpt: "The app relies on Xamarin.Forms, Microsoft Cognitive Services – Text Analytics and Azure Functions. Developers can find instructions on how to install the Azure components from GitHub repo."
 publishedDateTime: 2019-12-24T14:41:00Z
 sourceUrl: https://www.mediapost.com/publications/article/344956/microsoft-gives-developers-a-chance-to-get-on-sant.html
 type: article
@@ -23,6 +23,6 @@ images:
     height: 375
     title: "Microsoft Gives Developers A Chance To Get On Santa's 'Nice List'"
 
-secured: "FxSreC5KD1J4y8U9tVUXCRtD6eg1ho6LU/g1ekIzU5zodLPMTcxrXwtkT3cGGCTfkpqEtW5k2WTFU4WBCcc1L20ZnZcOzwQdjUGCIXuhl/Kc5jbLcS8wodc20vR3ZMApGLQ919oV5JZiV0lpYT6291yqUlcPFr2E91bavzhI+J5np0id+HQp6LVas2gDBjxaKUkK0IesLKvQOcAUGMXMgLHN/5Kno55UnxUKHB49RsWTTuB6LKnK1Z9NLcND3WE52KGWfxUYpgOb4KRz9aYl1ISlGJlgR+YfqxrQ6xL8c2w=;dDIo+Q5FFMHImlMJhooG3g=="
+secured: "i0sk7jOw64AkJ1/hDT8wzPm30QjmEzhuBeqUnlYEPWmA2UrxOEzfmLKQPsMOAu5pkvuurn6LDkt6pwrmSk8RfmAfgQ4EnZj1TdAu/5F7PSRm3wL9hI7SZiBkQCdVQI+fgOlHncaLvnf+PKX0aGOXdETc7o9ewU3F0nBodCFmleqU0z42dwvZX7tIgXc4X6ufqPi08Mxbv5ZDq1Fk6HZCbTc5fBGUV8cWuyZf7QR+XSlaECTZLNxk7KgNJIfuF4ucf+6u/ZlRYyLHLVyQtLz5/c977MAxHfd1ATpWH6eINJA=;IHKz7NH7w/n0UrcMF9b2kg=="
 ---
 

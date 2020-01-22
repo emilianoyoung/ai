@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial intelligence can now track down blood cancer"
-excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
 publishedDateTime: 2019-12-26T11:12:00Z
 sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Artificial Intelligence can help detect blood cancer: Study"
-    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier ... the transcriptome can achieve using artificial intelligence, that is to say trainable ..."
+    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze."
     publishedDateTime: 2019-12-22T10:51:00Z
     sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/
     ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
@@ -42,6 +42,6 @@ related:
         width: 675
         height: 365
 
-secured: "4PZZei7vvW/k2eOnK1ss8AA0wYWT4P0fzQrRn7SNfQ3xky18YNmfDhB9zCxIo5nYHisk05afHpEXUQCQkW9I2zAFwtNTPHXz0qOI8bkpcJPbAHM5Pwwj8snBB6+BqeIRd8XoSKfLTMPTMmYhB48njeaLDRcmAN5+SdUKGWMg3RDnWdC+rnjBVqYCyZmCjfQnmEpkdSegjKA2SWguI9W8QlluD8+y2Dkd0dAuSZZ8G2yVlCgnoZzsCw0Uo3BG65WDHKdtfC94yWMoa01mqSyHT2sanItvVWyhmmRFg1m1slM=;PbCIdQ0IGa9bGNFJdxJJNw=="
+secured: "dfvoAD17FT5J6uqBxeLodQ2eDgFat8dirZOFH/O2df58P9PjQ2POd0hz7ptUpSLCaN243+pEByrmY+O/zOxpa3E5DrcJ5Vl2C2oel0+rzADwdTSxkeSdYyjp/ALw+YbX4Zy1kJGMbLbjS6K1KbBoeTp763D77p+CfPQbmkkeZLa3mkStkpNmwO/u0hKenbIQ3/E3VA6edeD7MAUe2NbL4Jx7b02EiBI7W4DKNMYz9NlSoczeieLqDiZ6jBoc3rVHOpWsVlniVT0c62O3Jsha2M1vIgTNilyeURRDLM3F7Rk=;DsGFvmfRB+KlGQeFbfWXJw=="
 ---
 
