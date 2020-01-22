@@ -8,8 +8,8 @@ ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-dis
 cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 60
+published: true
 
 provider:
   name: Santa Rosa Press Democrat
@@ -26,21 +26,6 @@ images:
     title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
 
 related:
-  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
-    excerpt: "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ..."
-    publishedDateTime: 2019-12-22T12:55:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
-    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG
-        width: 600
-        height: 337
   - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
     excerpt: "Facebook says it has taken down a well-financed ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it ..."
     publishedDateTime: 2019-12-23T00:00:00Z
@@ -53,6 +38,6 @@ related:
       domain: scmp.com
     quality: 27
 
-secured: "RfDNMHYzW6ovpKAIMOJPypi4K6TYpu5yg7sSdchX2OXUv7xz+6Uy9OT11kl85UOH0bt/4r+6c84ggx9TzjgsoisI4SlOuO6C53CEACr6RCurc4WPMbFRdJagrkVflN8NvsgjQqs3/70hbXHF0vhW+UJFvnQZekg9Q++oAanQfcoflZVYX2R4kyRP1TWTOxCloaAsmaBtz7TeavowLSFO2dPXTwg72ld5SShxixERf4y6f/ik+0ec8ZNB+cddk+l+6nUYcxF9NLTAHGeh4KeDIdzPTgi7UcRH3b7fZwpjbEU=;qLNGNLxwjy6/P5eFw0vu+A=="
+secured: "hDoA7JMMJITztci9ETKfzeTDX5Z605alLtprgJxmFHKXxK5zsFLXb1qwtgEutrmT1SuBcwEYzbrs0QxQzQ0Oh795uAhD4QcpaYI+V+l+vGpTa5TseRqlp8kCe8twUY5aPvnocLTSBo0BP1F7Oqk6LNYIVZ6UIhwaREC5jrScV+Ggh1P+usYKS/Sz/4slVcgXZfw9yoX4nLeL77/hJd51R1+KpbrRgARdEq4LdVeH5/+hveZCgnej8JuBNd8lxp5T0skO7EDceSCs4O1NrFm8Xs8NsFwdQOWmjFLonYm8HC4=;yp1xbXFMYqgckKOEOj5n1g=="
 ---
 

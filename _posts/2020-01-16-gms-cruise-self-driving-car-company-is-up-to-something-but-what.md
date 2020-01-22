@@ -146,21 +146,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
-  - title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
-    excerpt: "General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”,"
-    publishedDateTime: 2020-01-22T01:53:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise-idUSKBN1ZL03W
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
-    images:
-      - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479597925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L082
-        width: 818
-        height: 545
   - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
     excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
     publishedDateTime: 2020-01-13T00:26:00Z
@@ -191,6 +176,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
         width: 1200
         height: 751
+  - title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+    excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
+    publishedDateTime: 2020-01-22T02:22:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 48
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "No plans for self-driving Rolls-Royce cars, says CEO"
     excerpt: "There are no plans to develop autonomous Rolls-Royce vehicles for the foreseeable future, according to Torsten Müller-Ötvös, CEO, Rolls-Royce Motor Cars Speaking during a media briefing in Dubai, Müller-Ötvös reiterated the company’s desire to be “all electric” by the end of the decade. Müller-Ötvös said the technology wasn’t ..."
     publishedDateTime: 2020-01-16T06:33:00Z

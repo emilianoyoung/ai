@@ -1,21 +1,19 @@
 ---
 category: news
-title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
-excerpt: "General Motors Co’s self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named “Cruise Origin”,"
-publishedDateTime: 2020-01-22T01:53:00Z
-sourceUrl: https://www.reuters.com/article/us-autos-autonomous-cruise-idUSKBN1ZL03W
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZL03W
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZL03W
+title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
+excerpt: "General Motors Co's self-driving car unit Cruise on Tuesday unveiled an electric vehicle with no steering wheel or pedals that will be used in an autonomous ride-sharing fleet. The vehicle, named \"Cruise Origin\","
+publishedDateTime: 2020-01-22T02:22:00Z
+sourceUrl: https://www.nytimes.com/reuters/2020/01/21/business/21reuters-autos-autonomous-cruise.html
 type: article
-quality: 68
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,10 +22,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20200122&t=2&i=1479597925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0L082
-    width: 818
-    height: 545
-    title: "GM's Cruise self-driving unit unveils electric vehicle sans steering wheel, pedals"
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "GM's Cruise Self-Driving Unit Unveils Electric Vehicle Sans Steering Wheel, Pedals"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -360,6 +358,6 @@ related:
         width: 1200
         height: 628
 
-secured: "DXn2Eiyo/KIAjg8F+NOWEl6PxQrdXA8PrWNIfDqRW4xso2r/QtecntN6NeqdUlZzBEjsSrHAGgoduhRMQHn81QTLh07ODWoqSi5+dOK5GAehNtFx85/x8ICUNTkK8tCOKtC20Rqz9ffYMbjVXv3bg12q8xYDYt/GNq/UFx+NdyRZaeY5IIdZ8F1bjBDiWorzrQ63IWuMhmmVHYdOiNyDImD1iHb/zDFBlKN/gLOti3kFwOXTfMBSakt1VHLLi0WeEKtP8/96GFXuY0gZmmEJFSEbvX9pBlCMhRAX0ZyFYF8=;PtZlz4/UZbh8dnr1wF7jkg=="
+secured: "worE79/sCfaSOALA33YSMGZyAQTw8QZX6cy1LbinomfmCs6dynOIMRYDH7cpphE8ToPeVoobz/YrFtio4ajPbK0k8xyxM3S2SZoPLJUIkpC58DFGD88vQbn05ml4ZewN/pz70n3S+NkX8wjeSlmzLfF2IaHZIl6wbt3jw0OflRcviWongfBB4Xf5nw3ERVHjvKHVmeaJHK3fdt2pdF/tV2xZOZGyJ9eVJypKncYBe9uYiFwIzR5MuH44xOxNKLgeR7iQO5ZK45dSSjT+UoA0GVsYPza9CKpdDtBMOECT8cA=;galA8KeRzFJmoZQ6P06UbA=="
 ---
 

@@ -20,21 +20,6 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
-    excerpt: "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ..."
-    publishedDateTime: 2019-12-22T12:55:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
-    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG
-        width: 600
-        height: 337
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
     excerpt: "The use of AI to trick social media companies ... and the Atlantic Council's Digital Forensic Research Lab - which were given access to Facebook data in advance of the takedown announced Friday ..."
     publishedDateTime: 2019-12-23T17:48:00Z
@@ -51,6 +36,6 @@ related:
         width: 800
         height: 533
 
-secured: "Ge/3KKqQuv2o80mNck2l/h/lgTu1YmqwtzOXcDzOXpRIhorGsogPTz8HnaViaVCR9i7gHH/fxbuG5zFypQYrmc7LtbqNUZpT9UZKdgqn4wvHmGUYULyJoxSWZBgErPtGrrWW8C60f8X9mY2CWq23lxjEKccALJ0zS8Sa6irnpqueBaoCVtVYBz+xEaDRl/IgC7dSWq6yZlwLGtSBx6m9NjBLf7PqDMJqZwHU6ts32JMgcQX9n/KrBMUREDnr3kyjPUedT+f5IRDYLVvdEo4dS/BuR9Jf0QVvbG9aGGGMPNs=;nHldT2QwvXyfd8E69wT4CA=="
+secured: "XL4LaQpC/lB6eN+QEPe9whktyYwbP9RZc06YQlG8cuMAZB+0XL9xbgzesISAjHud+Tkfzws1wk938mLgvQFPMAA7x3hArIr2eH64d79M0FUx1BeIerkj6I5/rbf24MHi2exKs/nd0k6XpTyq5r1Kw9Oc1vuVSTV1Z1UYopueznpScXKxDnTUO2kdrZ0z9v1LK8u814YsSSVBjQCXMZW5vvl7FfBVVZQV6A4VtbThdf/gzenzTCAbWgTSHNweRMtzl/ffj3XOmiONTuXGjPrxxfxsnhw+dTcSwy6irr5JyKM=;Y4rlIaFwJJAdKLGKEkUqPA=="
 ---
 

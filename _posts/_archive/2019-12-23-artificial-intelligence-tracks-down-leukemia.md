@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T17:46:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -22,18 +22,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
-    publishedDateTime: 2019-12-26T12:48:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+  - title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
+    excerpt: "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
+    publishedDateTime: 2019-12-23T18:26:00Z
+    sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
     type: article
     provider:
-      name: ETHealthworld.com
-      domain: indiatimes.com
-    quality: 39
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg
+        width: 1200
+        height: 1000
 
-secured: "irVf68oTh04yoXM259cLHQgHTYNztJ4HgtlghEeOoXVAUmwSnTt7kYTZYEIcwLCeNE7GIeFLzUYfbdGGZ5bZIxRYZfkq577Vwst3fubVk0nNUNhO7qgS5VgCNPuDRbZ4qNXz8AwLa1tFt/YxiUZwtnW2/TVISO3S1/3MPNovC5zWNyWmA1NfIiBjyNGt7rTJMYswECJ5xBQHcugZj6aOXlFpK7Bydo04PDjc1omBIJHl7n+ocnzxtqOj1tHqQhQWAO42R2LIomUBzFltf8pY5Sl6v1uejo6Od69rro2x/oQ=;UmM2rpjUrUt8+MlR1YBMrA=="
+secured: "1J03xh2qN4E4aiCUA+bDSWIYb2BRVv8WF6ayPnGt5ydSxBIhEMWmQQi5fO0XE3daIyJyq1pRAaidyGwj5kZYNoiiJnwJhc2CN7FXTX3DIBz1OG3l4JcAIK5fpgSNi+sNmUnLSVRbbyiBorigpIo4qDpyW7r+IF3goQ53qeU0i0oA7PVAMWM+Ph5gNJ2UmGSw4yrW742lH0MfTvR3sXRvmfIuc+qEuDXcgQP+iItqokJJKaoEaHXT2fFrarEbfVnxxdMZDCb0OMSCj/bFTcBK42KM5Ub18DObYOyWHoie1NQ=;31+Hsq6ntRxy0eMwngJieg=="
 ---
 
