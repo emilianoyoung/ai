@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-w
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
 type: article
 quality: 89
-heat: 439
+heat: 449
 published: true
 
 provider:
@@ -525,6 +525,15 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 21
+  - title: "Google CEO thinks AI will be more profound change than fire"
+    excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
+    publishedDateTime: 2020-01-22T16:33:00Z
+    sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 17
 
 secured: "GMZE7FISlF4By6hy0ZCIN8h8silWbMWTQ+1JNmn6c8DF7FX2PTZ9+8ig31h3Pz3Cssu5sszoIOSq1xBuqQ53MPPhKl/eASW0mnjFQK6FRJgjvvBvp68psn6HPhK7z2UL+1bdBk//HNjz71QKjR9uqcnLPzC8ktYT/Xslws0G6ufmJJSOAJw2ZHAtcorS5evh+R1J1u8Lra+uRKFMm2eIKqwYgwhQHbY47b8E2WyU6sBElIlRNUGyqfdT+qn5Kebui/CJ1sCGSdw2FqHvWjSIt8VD3BHLpML/h1tS+02xhcwyj/XwbeDa2A1Lw2z1dqiGJ/35b7tmiJZiRxDVPUoT9IzhTmiUN4o2ID1+5OpOhcbuXfPrrcJTLOOJXVd+dBCLmxUt9bu2/WUNWRNSX7x5F9BBtwa+JFe1j8fUAcPJg+4C28Dzv8cC1tMXTY0+QyE25CkJKueNICNf4qUqk1fUtw==;YFaS+8WisxcxtOWRqegIRg=="
 ---

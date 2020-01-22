@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
 
 related:
+  - title: "Why your palm could be safer than fingerprints or facial recognition"
+    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
+    publishedDateTime: 2020-01-16T05:27:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
   - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
     excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
     publishedDateTime: 2020-01-17T22:05:00Z

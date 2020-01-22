@@ -1,27 +1,21 @@
 ---
 category: news
 title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
-excerpt: "(Bloomberg) -- Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production."
-publishedDateTime: 2020-01-22T09:57:00Z
-sourceUrl: https://www.bloombergquint.com/business/gm-s-cruise-to-show-first-car-built-to-operate-without-a-driver
+excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
+publishedDateTime: 2020-01-22T16:45:00Z
+sourceUrl: https://www.industryweek.com/technology-and-iiot/automation/article/21121063/gms-cruise-shows-off-its-selfdriving-origin-shuttle-with-no-room-for-a-driver
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: IndustryWeek
+  domain: industryweek.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://gumlet.assettype.com/bloombergquint%2F2020-01%2F60d753aa-afb6-4d6f-800b-b96e8d8abf19%2Fcruise.jpg?rect=0%2C78%2C800%2C420&w=1200&auto=format%2Ccompress&ogImage=true
-    width: 800
-    height: 420
-    title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -205,7 +199,7 @@ related:
   - title: "Spoiler Alert: Three Key Ways That The New And Electrifying GM-Backed Cruise Self-Driving Car Minivan Might Have Some Heartburn"
     excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
     publishedDateTime: 2020-01-22T15:51:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/?ss=ai
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/
     ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/amp/
     cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/amp/
     type: article
@@ -464,6 +458,6 @@ related:
       domain: stltoday.com
     quality: 24
 
-secured: "9e1Z2ITHDmLqNmllHrB8VCjHvnGZtq2YdgKneAhIZDfblXW4a84PGDnm7V1T8BTm7Q9TzxLpvUABv073JdGCSllIKW0/gxNvmhcA2zW+ZPDlaaN1CPfuLo4WzMFUasnSnJWP0wCjpPRXQ6AAFk3l3Z4OspSom2hkA1t/ng5AkbKdWITF2PM/2s2hO7mOeUZW6DYS0X+E2X1XKj4sfJDukgVlA8Y3rMKpC4Z7EBvWU7TWrnlt1GFhMOKBBZXhb9pYTOueOcZyHWP+3WhkmNdkesxjiYE6Ut2k+0kQ5PveuQg=;Qar6bSzPASgDReLa61Rf5Q=="
+secured: "2V8HRo+pjaI5x2OyDBBMGElcJmnxEHHKsCG2PRd45PMf0tgPldSxVo+HKf1R/LU5+fgCxGrxqSixse85XFrOjW/fHy2P9XfgyHksIBfd5AaSK8hAP3H75qTlTIEThLnsrodUD5lT1g4c99ltFpONMXc4rSWWjcApYYD83cuj3XzsfXLReIr+woqBC1wZjBtN08ue/x2/tbc44eLdMbvAXtJDdi16b15AnjM2hRXOBpvP3VpJrudYVtzZghprc3ejgmz01KRPTTbi67abh+rmvsitgSZCoh/aQcOD+mzLTCCaTQALybNEPmgfdYZoTVX5nsQQukWjOvDPRYINmreQ43xOnP9l+LU5XM4zuh/yrVBcPUBRAXpOmobGYK9V7osHNpFXFukT9sh2mBjXF9Pb9zBpRDTN5IBESBmjOtDmfT8m3jCqdUjeptUGNSHiqhacKijNwnFoTKPcnNATtWHSXA==;B1z+JaQdaJsXE2V+8ZMdsA=="
 ---
 

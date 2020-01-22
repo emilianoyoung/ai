@@ -196,7 +196,7 @@ related:
   - title: "Spoiler Alert: Three Key Ways That The New And Electrifying GM-Backed Cruise Self-Driving Car Minivan Might Have Some Heartburn"
     excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
     publishedDateTime: 2020-01-22T15:51:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/?ss=ai
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/
     ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/amp/
     cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/amp/
     type: article
@@ -455,18 +455,14 @@ related:
       domain: stltoday.com
     quality: 24
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
-    excerpt: "(Bloomberg) -- Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production."
-    publishedDateTime: 2020-01-22T09:57:00Z
-    sourceUrl: https://www.bloombergquint.com/business/gm-s-cruise-to-show-first-car-built-to-operate-without-a-driver
+    excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
+    publishedDateTime: 2020-01-22T16:45:00Z
+    sourceUrl: https://www.industryweek.com/technology-and-iiot/automation/article/21121063/gms-cruise-shows-off-its-selfdriving-origin-shuttle-with-no-room-for-a-driver
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 20
-    images:
-      - url: https://gumlet.assettype.com/bloombergquint%2F2020-01%2F60d753aa-afb6-4d6f-800b-b96e8d8abf19%2Fcruise.jpg?rect=0%2C78%2C800%2C420&w=1200&auto=format%2Ccompress&ogImage=true
-        width: 800
-        height: 420
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 0
 
 secured: "LP1OeXf+sL7wnXvedTVgyjS8fySDWwpiCsCktUml6CxjVmFybX2kuOoD1HkQL3G130ZQPEBeavtXHdQUXFjlFjgCWDTn/xSX0sse4fVRpgyTZgYVH3vEh2UEX1ECGXOWbDuZI0Z5VeIaSH7J/mR5wWE37bF2ym2SYEyeO9Ozab/qeDdM4yZvvltcMtftTP+VtW5SP8UZG/3MOE6YbqEXN2s8itCa1SM0PRJYUE5gH1RlVOz+8sTpqQYHdQGGK+D1kKmcif/b113VKFlTfRHNOiM6gnhjJvOSKEipUITmaJeNg1/HztrNF2CCCygEDekYMzoW5Yv0e5oJlQxyuVvg8C2mDfbDApNJYHK5hZTx1XPFUdyvJPq+uNiPNnU0A9frYDLPwoy8u/CxfLfgm3WF07n+5+hF0orfF2yj5LlqHWkYu+NLttf+tY8aa6OZsxsovTr/3qj3sQVSnp/gk9BgBg==;lmBytS/tnlO4K8L5K3lodA=="
 ---

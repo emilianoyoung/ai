@@ -39,6 +39,17 @@ related:
       - url: https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg
         width: 756
         height: 567
+  - title: "Why your palm could be safer than fingerprints or facial recognition"
+    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
+    publishedDateTime: 2020-01-16T05:27:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
   - title: "The Technology 202: Facial recognition gets another look on Capitol Hill today from skeptical lawmakers"
     excerpt: "A congressional facial recognition hearing slated for today could revive bipartisan momentum on Capitol Hill for regulation of the nascent software being rolled out from law enforcement agencies to summer camps. Expect a skeptical tone today as the House Oversight and Reform Committee convenes this morning for its third hearing on the topic ..."
     publishedDateTime: 2020-01-15T13:49:00Z

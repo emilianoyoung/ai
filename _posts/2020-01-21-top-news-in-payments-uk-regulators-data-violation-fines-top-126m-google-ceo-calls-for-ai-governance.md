@@ -518,6 +518,15 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 33
+  - title: "Google CEO thinks AI will be more profound change than fire"
+    excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
+    publishedDateTime: 2020-01-22T16:33:00Z
+    sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 17
 
 secured: "xdonM4zt40WwAoTiEq0udV6tgCwkTCoUJsuBIpRSXKPCcYHkdbNyFruhEGpIhHEMRMXC5Hb698zV4aM/9EcmnqwX683HPvAW+Xp5eNVbEzvCpuUT2oQ1SaRy4f8kfKGNNs1SjZNGFl55E5vQOcF8WwSF495fRgFw0T3deiMCbaaQAKrpGfcrSR3FmXnc5+PGzRkUKmo+4Ir6yle55AtpXPcvHVhnBjS1diPRz7u2yqOx4xu4gzGJH4gPtIErPW7LhJZNVzFaSRdD9vJBmgMKh2p6pN5KOMJRd/1S0wxJab4=;5JuMzoGQKO7dbB8OmxCQZQ=="
 ---

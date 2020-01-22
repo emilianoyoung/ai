@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billio
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/
 type: article
 quality: 91
-heat: 111
+heat: 112
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
       domain: insider.com
     quality: 24
 
-secured: "lYOlshxJgFEfmAtA4px6ySYJLq3ZN9ziTMglzJx9X5w84gKTFFnuytLSgMDdiNP1cUja9HlJ9dqyuKCe4LVM3whVkUPu3olGD3MPUrnCZk94H/lEi3znK3AkMvwy/WhJZTzIGyGf11AD2pcafv9OcHh6VaDPmSc69DzBUrTcCscxA7mZ3WbjUaYD+u0UuYZlyWNehHGAfkF7iw/u92eTuD7TxbcHWbqq2myzq1su7/JQGkVQqIuAA1ZevMX2CJQg2q4rsJDHy2SErV1rx98g4J9SMMC0XCjVHuq3hJKh6nvMdmlj6MPz5akM0Amng+O9zmQoDpNAEHFaBQa2RHu/UJT7pOr/zL7bCuTcyHoN2Zab5aYS/OmtHm+sCUDHLoqBF5YcYTEyV0bcB/ovgvuyc9ITu5cQp2eKIgGXkQQBoxl9Mc+PJzz88QcT9mWEiwvyyGtbNEVUCXAxW2HepzZFLQ==;ifSTs0bCmYo1TKDBTph7+A=="
+secured: "coj98n9x1AM7p7FkLLkQMmPO/q1zdmPs+DrVwHuif9dK8XSfv8kc53ECbefp9c3N7VAaWVo6nXVPHvaZQpH43kB0Tqwt9u8LGS4aT0Mb0ryfW4TNU0TOYJ+p2hbZA4C+fyna6gP9VK3pF9T3M70HGgtU4JzxDZ83HtFVgvwwNwAfjQArRS0btvvNa5lsnCwtZE6EaLyTXrIWpsoXJwKpOUr/guridcM2/c38BLERxlxRbMjtcQS/+Rv0GOzTr8TpS3VphhAs7yI5QuV9xND4hgni0PaqXYbIia5l6THtltTpu5ZG32lvswXTJlDHorTEPIiBIF0v90H8Fx8yUkaHaWFK+GcYEIRH366v2jApee3vR85cQ4VHIq4nMUR+91o1esFuP8Ju/fwdotAESwA7PTm53d5sM8W6uz2NT3nTE2N0sGr6p4DUA8cbSdbjz9eMy3zjHxUbo3dELWdhwRSENA==;p7A/IBoPexl6rsYq+XZliw=="
 ---
 

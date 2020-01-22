@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
-excerpt: "“The artificial intelligence stack has to be taught anew in each city ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing."
+excerpt: "“The artificial intelligence stack has to be taught anew ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.”"
 publishedDateTime: 2019-12-23T13:00:00Z
 sourceUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/
 ampUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
@@ -25,6 +25,6 @@ images:
     height: 562
     title: "Technology Is About to Radically Redefine the Luxury Car. Here’s How."
 
-secured: "AtkC8kUfEYC5QChgOQuJRbGgs2Iy6u503ZPsWBgk2DDlokYvHQFYwZy+CbpLLJnjjzYW3t4m2TuGsbbElLG48WIxrVEappLBoQmsR9v0riX8eX2/PxmUzkygSIYLiRUpJoQa2pjk0krqR/ESo+u+eXZAJYChyDmQVCfueYLvMNEGpwzYwM/sFdI8eezRy0yvCuQJs8sT3uXUjyk5B1CEGCaRVIPUwB+YIdnSoYannJMpZjRF9WgCEQbKtZbZxKimJ2ybbv2cl5nRHpO+iRva8jZB9y2TVldrg/BfjrpKYGQ=;bs3bISM3bC/OkVL8Wl4lGQ=="
+secured: "HLqskp/oCPPRvrXkLAl2Djte4L9GyTO9gUJ9a9yzp7CteU2BQheMwk0lGjg1wSl8adBoLZ0q/UZCatxLp5T1EoF6BlJSqNqX0c7KZjn3ejVcIQBYyJ8kJphLG/Uhb3C3g8mJNE3M9TqaVfvIq1i7zsPgVRQyD7qEd+AJaPDG8UqKZrYcYpW71tdoePcldfOsJW6s0mZpRix38oFrOfIC3FW9uF+sF2TvBc/ZrDCuUNVEuVLDHPNcyNdN6maCjzXJwddGGfGGwMDtmXCB6l2V2FJ8wnEZsc95i9+/gZ4ulxQ=;5LqAS5W0WT6Iq2Uo/Ivmww=="
 ---
 

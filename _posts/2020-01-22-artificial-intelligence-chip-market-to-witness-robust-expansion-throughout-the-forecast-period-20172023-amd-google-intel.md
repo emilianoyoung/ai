@@ -2,16 +2,16 @@
 category: news
 title: "Artificial Intelligence Chip Market to Witness Robust Expansion Throughout the Forecast Period 2017–2023 | AMD, Google, Intel"
 excerpt: "Artificial intelligence eliminates or minimizes the risk to human life in many applications ... Further, the emergence of quantum computing and increase in implementation of AI chips in robotics drive the market growth to a considerable extent. The emergence of autonomous robotics—robots that develop and control themselves autonomously ..."
-publishedDateTime: 2020-01-22T11:07:00Z
-sourceUrl: https://www.techworld.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/
+publishedDateTime: 2020-01-22T11:19:00Z
+sourceUrl: https://www.arnnet.com.au/mediareleases/37808/artificial-intelligence-chip-market-to-witness/
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Australian Techworld
-  domain: techworld.com.au
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI
@@ -32,6 +32,6 @@ related:
         width: 1200
         height: 630
 
-secured: "uhfksjJFad2T/RZpxB5e+s1EHL+sdtx5rK4b2AASgbixwL9JirZCM0LcfSA/CZi/pzB7j5mJDomwpqRn/cbFxb2xaYL/FTy9F76yBjgmETyZgfb5LVQeHaTaRLCUgLqmrP7/ztnmxKT5Cl6Co3fEH4bo15zZ+4ZCkJjtB9p2MEB1TwrKBSs3mqhDuDevHqY5FaP0zEONGE7LiuddxD3Uall6tD+2H6Z8v7TxYa7ucRAkUIoip0J+q4xXonRwu1ijpoA67WF3t4k1TZEp1CtzukmNE0M4CqN/xkumOt6uCXs=;yFFsRmsjvNEdtENg7El57A=="
+secured: "dd06yYAgRGCDaUycmXHTPjWVU2cknKV2MTyGQUOR3tjKx3awjNVLVETiB89d09FAwQlwxBR9H8Yi5sD9YM40kKFfneNG14aJfgJtmxqqGZObYUTKXEa8gYmeqZ96LUKpVb39+Z5wpZkpe69as3+c7xJ1O+G8xngSJGDyFMd/ihX779ZjjMJoiWXzcsfl1NmvrYFOmd8NlOC7+mNMh32IAE4Tlua3VV8iQ36WenaNevTVFmOtsj4ZKyQ7teW5OpuKFYwFcANynYHm62y/kPFxczhudwX4cyPCZa5pSBU2JEs=;oLJJ21S3fojb/9jdj2TJWw=="
 ---
 

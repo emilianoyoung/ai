@@ -520,6 +520,15 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 21
+  - title: "Google CEO thinks AI will be more profound change than fire"
+    excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
+    publishedDateTime: 2020-01-22T16:33:00Z
+    sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 17
 
 secured: "pLYUBsaMM8aoZ2MR5Pi4zhm5tK8HVwRg6wWhx9+KXDJSn71s3ctKqMtKRDz0g/MgiBQ6fUCBLSafXz8VH1ML7Jr/vElCHbPQb9RFmn7jyPoCBAU3z9aV9GWGHldv6VnMU5KcD8FuZQDSW7zLxo8agAJrIK1qeIXYkxhmPBV1gd/c8b6Cxca33pXWvYBUs2X0t4KKDwEcqVjie+ovfLoiyG/QhnAH5mCpbxLioCrgoEe4nbdxcFOyOsYLHgdBLyOgXymuI7ere8eFsjJWDhvnEu++XzcGijD09QErwjt+2LwLQNYbBdV8ljmhyjkv4VX1XScNtqVU4+Zpt3ffyIIS8XIl1ip/8wER5g8DrpONUI7ZsGWyear1rKv7q4cMbA9viG9ZhluIUbyH1R7d7zQs7F9NYWiCM5iFoRCAq6KWy9O8/XhIjM9BjWuoG/eMUT2xA6kQkd17b7vW4YbFzOtvkg==;WPO8FYoVyxvlqOCeKxsihg=="
 ---
