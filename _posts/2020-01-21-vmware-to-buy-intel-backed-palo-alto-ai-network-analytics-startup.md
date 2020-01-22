@@ -8,8 +8,8 @@ ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/21/vmware-nyansa-acquis
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/21/vmware-nyansa-acquisition-vmw.amp.html
 type: article
 quality: 57
-heat: 67
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Business Journals
@@ -25,6 +25,17 @@ images:
     title: "VMware to buy Intel-backed Palo Alto AI network analytics startup"
 
 related:
+  - title: "VMware to acquire Nyansa for AI-based network analytics"
+    excerpt: "VMware on Tuesday announced it intends to acquire Nyansa, a Palo Alto, Calif.-based firm that offers AI-based network analytics. The deal is expected to close in VMware's first quarter of FY2021. The terms of the deal were not disclosed. VMware plans to combine Nyansa Voyance, the AIOps platform for network analytics and IoT security ..."
+    publishedDateTime: 2020-01-21T22:56:00Z
+    sourceUrl: https://www.zdnet.com/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/
+    ampUrl: https://www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 167
   - title: "VMware is buying AI-based network analytics startup Nyansa"
     excerpt: "Virtualization software giant VMware Inc. announced late Tuesday its intent to acquire networking analytics startup Nyansa Inc. for an undisclosed fee ... Research Inc., told SiliconANGLE he wasn’t surprised to see VMwar buy Nyansa as AI is becoming increasingly important as it can change everything. He said Nyansa’s tech in particular ..."
     publishedDateTime: 2020-01-22T09:13:00Z

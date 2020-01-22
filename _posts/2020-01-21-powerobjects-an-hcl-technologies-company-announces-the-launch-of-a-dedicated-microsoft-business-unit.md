@@ -1,27 +1,21 @@
 ---
 category: news
 title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-excerpt: "MINNEAPOLIS, Jan. 21, 2020 /PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies to extend the offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, AI/Machine Learning and helping ..."
-publishedDateTime: 2020-01-21T14:51:00Z
-sourceUrl: https://www.prnewswire.co.uk/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
+excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
+publishedDateTime: 2020-01-21T12:47:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-300990290.html
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook
-    width: 1920
-    height: 1005
-    title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
 
 related:
   - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
@@ -95,6 +89,6 @@ related:
       domain: techworld.com.au
     quality: 19
 
-secured: "fB8IMNy3Mwb4CELAzhgMCai2yqv9Ytof/UQiJ4j0MMTamg0VWPfqDjp2WwTg8dQByi0yIBJjpuXGn1QfKoptZ9R9faYO5C/r61Z578FX+j3i6L4ahvEtQ0ApH+mR5WovRU2Nt1sZdx2uNjBAhmyn9pBS3s0MlrjheT2eDXBjg3915qcKrdCkB239pF7O9M3OA2ZgCCMyrt8VjH5LWZAqmwO3kRqW0miH9lNuAukjWthCj6eSPt3TgInLhR67497fdgh2yXMCbV/6EjzpkriJiiLYvNuKtFpfA02aQ3lqer4=;ACjY98hZIDa4VPo78nCDlw=="
+secured: "NGS/e/Vg9+2wVw1Cy6KgGjQxtp6VKGyuKToQKELi+o9zR2ziSFia27xMsFlxtSOlcfNwkhOtwf62+bj9TuThDYpDK5tpcHPQExu+Qj7HDA3ukHIcqdetkVn0xqPuvOrmG5Bn8G3XPvvr+xQNWKryltD+8Oqbj1tdV6hUUJ3+4xqelNQ521bcLh981pirZSFguj2S+xv4BcgS8x77ThvMSgCFNVYhpzoq/qUfB5qgfogd+evUga6w4ZUpBxkn9TgyPpvMixv0dqqgm5Bf2mvXIsX267oli0ExrpLasgzf9cs=;pFkV5/FvXAxl9iKJr5R/9A=="
 ---
 

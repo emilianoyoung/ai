@@ -26,62 +26,105 @@ images:
     title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
 
 related:
-  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
-    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
-    publishedDateTime: 2020-01-09T14:42:00Z
-    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
-    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+  - title: "The US Military Wants Long-Range in the Dark Facial Recognition"
+    excerpt: "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ..."
+    publishedDateTime: 2020-01-16T16:46:00Z
+    sourceUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition
+    ampUrl: https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
+    cdnAmpUrl: https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=
+      - url: https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg
+        width: 620
+        height: 349
+  - title: "The European Union considering temporary facial recognition ban"
+    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
+    publishedDateTime: 2020-01-19T16:40:00Z
+    sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
+        width: 800
+        height: 560
+  - title: "How the police use facial recognition, and where it falls short"
+    excerpt: "He passed out after stuffing something into his mouth. And his fingerprints, deputies reported, appeared to have been chewed off. So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Florida, that began almost 20 years ago, when law enforcement agencies ..."
+    publishedDateTime: 2020-01-14T01:50:00Z
+    sourceUrl: https://www.orlandosentinel.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html
+    ampUrl: https://www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
+    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-police-facial-recognition-falls-short-20200113-r34opkrnrbhhhhidghgifh64cu-story.html?outputType=amp
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: https://www.chicagotribune.com/resizer/zvBykLjQuHpA183lPUW5jbRQwd4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QFTFUXZSXVF4HLTSDJQJT46L74.jpg
+        width: 1200
+        height: 960
+  - title: "EU eyes temporary ban on facial recognition in public places"
+    excerpt: "Draft white paper suggest prohibition lasting three to five years is being considered"
+    publishedDateTime: 2020-01-17T12:14:00Z
+    sourceUrl: https://www.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    ampUrl: https://amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/17/eu-eyes-temporary-ban-on-facial-recognition-in-public-places
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_152_6085_3651/master/6085.jpg?width=605&quality=85&auto=format&fit=max&s=70a13a67598f06697e73012e621a09fc
+        width: 605
+        height: 363
+  - title: "Facial recognition tech tests tolerance of public in Britain"
+    excerpt: "LONDON -- When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it. The South Wales police deployed vans equipped with the technology outside ..."
+    publishedDateTime: 2020-01-17T05:15:00Z
+    sourceUrl: https://www.paducahsun.com/news/general/facial-recognition-tech-tests-tolerance-of-public-in-britain/article_8982dcc0-f9d9-50a2-a7f6-07973c09239c.html
+    type: article
+    provider:
+      name: Paducah Sun
+      domain: paducahsun.com
+    quality: 54
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/paducahsun.com/content/tncms/custom/image/ebed5d9a-1305-11e7-b976-df2470edf52a.jpg
         width: 1200
         height: 630
-  - title: "Speech recognition and voice commands for your site"
-    excerpt: "Many of the smart devices we use every day support speech recognition technology. We use the voice to search for information, buy goods, even manage other devices. The tech giants use voice search and speech recognition technology cleverly, but is it ..."
-    publishedDateTime: 2020-01-04T10:34:00Z
-    sourceUrl: https://medium.com/voice-tech-podcast/speech-recognition-and-voice-commands-for-your-site-e1931d60ba03
+  - title: "The EU might ban facial recognition in public for five years"
+    excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
+    publishedDateTime: 2020-01-17T16:57:00Z
+    sourceUrl: https://www.technologyreview.com/f/615068/facial-recognition-european-union-temporary-ban-privacy-ethics-regulation/
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 39
     images:
-      - url: https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg
+      - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
+        width: 768
+        height: 432
+  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
+    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
+    publishedDateTime: 2020-01-21T21:12:00Z
+    sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 39
+    images:
+      - url: https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675
         width: 1200
-        height: 564
-  - title: "What is Voice Recognition"
-    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-    publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
-        width: 600
-        height: 271
-  - title: "Sensory Does Voice Recognition Without the ‘Net"
-    excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
-    publishedDateTime: 2020-01-13T17:25:00Z
-    sourceUrl: https://www.embedded-computing.com/home-page/sensory-does-voice-recognition-without-the-net
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 24
-    images:
-      - url: http://share.opsy.st/5e1c9ca535b08-google-home-mini-3739710_1920.jpg
-        width: 1920
-        height: 1280
+        height: 675
 
 secured: "R0XSvyU9oOFRbXfl72XCL4OUvdx8HkINjVp2IR3o8uky3IDcL5Hcb3X59JtpfIy6QL8JAD4MvxpibJUVYSApx5RbCIs8tvSHGM06jVUQmrtZeLzqN0qSk87FFFsZ+lS2UERrnxJKwlzIX23/AikQrWJAe3mcq0z+zgmpOu1R/uM6+sNZy9c1lpF9iDqCyoYtgWIjNqiNwj+rv3VH5buvs/0nBIbmpd4wPdEIwJCNMMWZ0CsLLnBi52a9ba2Y4Z1JH0Y9xBj5l8oMPLGumByiFP/GQcCLGXSySOEZMPgwNBs=;fgr7q/nRZ3OuhJPvOcuX2g=="
 ---

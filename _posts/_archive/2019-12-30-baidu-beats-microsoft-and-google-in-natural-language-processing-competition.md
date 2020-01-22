@@ -4,12 +4,10 @@ title: "Baidu beats Microsoft and Google in natural language processing competit
 excerpt: "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ..."
 publishedDateTime: 2019-12-30T17:30:00Z
 sourceUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/
-ampUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
-cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: MSPoweruser
@@ -19,12 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: https://mspoweruser.com/wp-content/uploads/2019/08/microsoft-logo-block.jpg
-    width: 2400
-    height: 1231
-    title: "Baidu beats Microsoft and Google in natural language processing competition"
-
-secured: "4TCmnvBmmsdSVsYK4hhCAspMhbn9FfI0e/oGVl0vLKusi2RKLmGXI55PvjhV+1PoEUN0qbis9H+pm8pHCEbxLj8xfzpRSUGq5ip5ZTTIfFCKc/mn4cO7FEnMDIrTNEWyC4hhRM/1zCf+u5BufQg/Oq2Xj5hKCMyq9sLOjqDIf2Ov1FTwAhWZ3gPhsCLG0zSJoJ6OaZFt56iGbJaMDi2nBBNFnbCUA5Ad28DY7eUxXgToyDZUjuc9ONKWP1m5tTe9rGeTn1CTi1PdF2hLMn6RUtzAJhO9BXVS+FUSzNUXkoE=;8YaolCi4JV3GqSw3gXr+fQ=="
+secured: "wHYeddll4xlTDtzUrA5hv5bYxkAOppYzsJx2f+D0NUtDdA5G7RAyBIB6axifSVfP9LOw8n3huW3zBv0YaU/RPynq8dWGMnRxVrvu+6Y+1Cb8s1ZoV/4adjsPoJaj+bmucsinJWHEisQCa7kLCW4iiRq2uABL1lNbQTe0vg9SVYUiaEOQ32unT6Sa1l/tn40pW/4amf+CTZG8ckSNl6+ouX32IDoJRLxmG4OkLoztujSPlQmvapCFWJ81QrBpvKcoQuega2qP9mKXfvtYuhzSCHQu9WFfu7V7hImxyYIkYl1BlkGYA1mGuHos4Nh4B7/nXKqiw+kuH2NvHDuyHvNxjaJt15sgBUaTWtkBk+jY5RTDuDD8cBflkPpZ1aGIarMCBwGxsLBHS+YYdad00p0bdrVhf+z3F0Xa62FByfUM825pOupx0dsuPzbXdh9gJzi2tiaN3NJLCYVYJ7vfxcmNMw==;KeqauSZBUnlgVYwMzqju8A=="
 ---
 

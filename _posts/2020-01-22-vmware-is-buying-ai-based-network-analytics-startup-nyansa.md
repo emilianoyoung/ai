@@ -23,6 +23,17 @@ images:
     title: "VMware is buying AI-based network analytics startup Nyansa"
 
 related:
+  - title: "VMware to acquire Nyansa for AI-based network analytics"
+    excerpt: "VMware on Tuesday announced it intends to acquire Nyansa, a Palo Alto, Calif.-based firm that offers AI-based network analytics. The deal is expected to close in VMware's first quarter of FY2021. The terms of the deal were not disclosed. VMware plans to combine Nyansa Voyance, the AIOps platform for network analytics and IoT security ..."
+    publishedDateTime: 2020-01-21T22:56:00Z
+    sourceUrl: https://www.zdnet.com/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/
+    ampUrl: https://www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 167
   - title: "VMware to buy Intel-backed Palo Alto AI network analytics startup"
     excerpt: "The #startup was valued at around $65 million after its most recent funding two years ago and had raised about $26.5 million."
     publishedDateTime: 2020-01-21T19:58:00Z

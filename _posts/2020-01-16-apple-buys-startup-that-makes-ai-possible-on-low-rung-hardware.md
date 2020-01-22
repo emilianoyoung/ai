@@ -234,6 +234,15 @@ related:
       - url: https://media.bizj.us/view/img/11447466/1-apple-launch-51-091019*1200xx5359-3014-0-264.jpg
         width: 1200
         height: 674
+  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
+    excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
+    publishedDateTime: 2020-01-16T11:29:00Z
+    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 24
   - title: "Apple buys AI startup Xnor.ai for around USD 200 mln - report"
     excerpt: "Apple has added to its portfolio of artificial intelligence assets with the acquisition of Xnor.ai, a Seattle startup specialised in low-power, edge-based artificial intelligence tools, for around USD 200 million, GeekWire reported, citing sources with knowledge of the matter. Neither Xnor.ai nor Apple gave a comment on the matter. Xnor.ai co ..."
     publishedDateTime: 2020-01-16T08:16:00Z

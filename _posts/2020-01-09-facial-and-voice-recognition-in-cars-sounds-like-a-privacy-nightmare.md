@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -39,36 +39,6 @@ related:
       - url: https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg
         width: 1200
         height: 564
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
-    publishedDateTime: 2020-01-09T20:52:00Z
-    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
-    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
-        width: 940
-        height: 627
-  - title: "What is Voice Recognition"
-    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-    publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
-        width: 600
-        height: 271
   - title: "Sensory Does Voice Recognition Without the ‘Net"
     excerpt: "But there are some who think that way. Hence, a product like Sensory’s Truly Natural voice recognition can be used in an application that’s not connected to the Internet. I saw a demo of this technology last week at CES and was quite impressed. The company created a video that shows a microwave oven that’s enabled by voice commands."
     publishedDateTime: 2020-01-13T17:25:00Z

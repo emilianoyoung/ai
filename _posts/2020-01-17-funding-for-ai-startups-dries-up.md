@@ -24,21 +24,49 @@ images:
     title: "Funding for AI startups dries up"
 
 related:
-  - title: "Protecting AI Startups With Strong Moats"
-    excerpt: "User data is one of the strongest means that can provide modern digital businesses with a lasting competitive advantage."
-    publishedDateTime: 2020-01-21T14:00:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/21/protecting-ai-startups-with-strong-moats/amp/
+  - title: "British AI Startups Attracted Record Venture-Capital Funding in 2019"
+    excerpt: "Venture-capital firms plowed record funds into U.K.-based artificial-intelligence startups last year, shaking off factors such as Brexit and European data-privacy regulations. U.K. artificial-intelligence startups received about $3.2 billion in venture-capital funding in 2019, an increase of 23% from $2.6 billion in 2018, according to a study ..."
+    publishedDateTime: 2020-01-21T11:26:00Z
+    sourceUrl: https://www.wsj.com/articles/british-ai-startups-attracted-record-venture-capital-funding-in-2019-11579602600
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 167
+    images:
+      - url: https://images.wsj.net/im-145341/social
+        width: 1280
+        height: 640
+  - title: "AI startups raised record $26.6 billion globally in 2019"
+    excerpt: "Global venture capital increased 20% in 2019, while acquisitions jumped 24.8% from the previous year. According to a new report from CB Insights, AI companies raised $26.58 billion across 2,235 deals in 2019, up from 1,940 deals the previous year that totaled $22.148 billion. The 2019 numbers included 10 rounds of more than $100 million that ..."
+    publishedDateTime: 2020-01-22T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/
+    ampUrl: https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all
+        width: 1200
+        height: 616
+  - title: "CB Insights: AI startup funding hit new high of $26.6 billion in 2019"
+    excerpt: "As part of an annual look at global AI investment trends, CB Insights today reports that AI startups raised a record $26.6 billion in 2019 spanning more than 2,200 deals worldwide. That’s compared to roughly 1,900 deals totaling $22.1 billion in 2018 and about 1,700 deals totaling $16.8 billion in 2017. The reported high in AI investments ..."
+    publishedDateTime: 2020-01-22T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/22/cb-insights-ai-startup-funding-hit-new-high-of-26-6-billion-in-2019/
+    ampUrl: https://venturebeat.com/2020/01/22/cb-insights-ai-startup-funding-hit-new-high-of-26-6-billion-in-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/cb-insights-ai-startup-funding-hit-new-high-of-26-6-billion-in-2019/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1056983494/960x0.jpg?fit=scale
-        width: 711
-        height: 474
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all
+        width: 1200
+        height: 616
 
 secured: "jGvmZWqFBrCUo4/DdAQw7RmyBPe2W9CzGmoe6y7fK2sXikoaDix5X/QXqN+ktxjeOKFUj32vzdBt31HhFT7H4OcwXPMTnBaF6biMHPC4TsO/PPp1/3YqqreGHU8NGn9BTQhm50VAP3hhwvfmtY8YcsFUwyp7ZlFeMqAIcPbTvrKZw0PABK7ZJ32CiBZIzhklk6i8ARzhWc9ulBe2qdPZKTgu7U46G/I3AfZDm1Ao4Alum9FLsHe2gzjPYwp0waUzor9eDGQTnl29CbdneqZZeKEClzKKGox8CEuxY5oDFTLnM/f9u9BUN6tw7lXMRgFt9Lt80eCrkIF2YVFagfNN28Rpq2c+/yr452iVTG2G3wKZRrie3ttN2x/9mA9fMeinjUzwtJ/HCHvRvRGxNajFbBFstZU2UQYyGlZLnwL9BsaDt89Mxc3nqxSbdSv5tzrY8CupTXTV+ItxkVcVDT9OVQ==;y3S9BrI8MbhLs+82ZezSQA=="
 ---

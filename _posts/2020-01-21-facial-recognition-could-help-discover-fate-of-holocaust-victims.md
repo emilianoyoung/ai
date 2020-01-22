@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Facial recognition could help discover fate of Holocaust victims"
 
 related:
-  - title: "Israeli research centre hopes facial recognition technology can help Holocaust victims’ families find answers"
-    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research centre, which hopes to match family pictures from around the time of the Second World War with its database of tens of ..."
-    publishedDateTime: 2020-01-21T15:22:00Z
-    sourceUrl: https://www.theglobeandmail.com/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
-    ampUrl: https://www.theglobeandmail.com/amp/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
-    cdnAmpUrl: https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/world/article-israeli-research-centre-hopes-facial-recognition-technology-can-help/
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 40
-    images:
-      - url: https://www.theglobeandmail.com/resizer/UKrMk8jFHZgzhTNOjG9OMpC9vfk=/760x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/JQZ2GQZYXJFLHBX7PGB7C52SDA.JPG
-        width: 760
-        height: 507
   - title: "Why your palm could be safer than fingerprints or facial recognition"
     excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
     publishedDateTime: 2020-01-16T05:27:00Z
@@ -57,6 +42,6 @@ related:
       domain: scmp.com
     quality: 39
 
-secured: "ff/hQ5/wZJwA2ysKHeDuWhgF5lGpnBZwLTS2I5R6SscsoVs54LX3DBSwzwlCJC0ExjFZRCYQHrDuf5tUydimn+424gGBb7fl39uRelQZ0N+cHogg502uze0m6bOeVYVsJ0PY0m5cleO3eQyRIcY0kEqyt2tzQDdV2FbG0PLZa1g8kvcEZLgH17r0WtMuLo2pUFSz6L/KGeC+PAI4BuK/mxoxwt2Yyja1dpWNvv5/7YXtb67DjYBDngSQh5dBx0DaBZ9QWZOa4HfFu8PuOfetctK9+6RTjjkX84L37nrEPGdrfJhJEc0o1IIwHxuFmVj+J5JS/61ZrPAJNfF7UIt51b4Ks/2lE5PxuEdkjVOC2e0WJEuSHZpc4j66UYFpnqwiPWSF7H4N64wm7/ig3Cdi4AGNDGO7gag2NiWy5cUmhhBjP5MzTZnOXhXXJKTRJ5UUMlSvsVl1/BtR2KGeznYZBQ==;4b/wYp0qYhRzBlMvNKs7uA=="
+secured: "bpVXu2XpI7B/1UcDavWlgBaRhBxkAJ7emIiHMZpX76ZESzn1BjuviZS3s+hqN1KFPf6sdJynKH9cq0xbyERBR7F6BAuELdYqBdFKTrQaASqMaPAUDrRmq4AhHY3DcstamiWBPaRFcmdUW/NMn3B/aWoCPXFisSa3e3wpu9WCJszOn9oorgc6+fMQftmxON0xjb/oZf1vi2GZ0dtL8sXFMNHyzcUSLXS1ELmo6Q+LmBoPjcBNMb3Mr8WSfmByQz9QcR+7cdEEfww9l+hWi1XSnXVSNfKsYTNuwkQCWP1p+FE=;klMUi2plKWUF2T14Qg1cPQ=="
 ---
 

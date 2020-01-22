@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T19:54:00Z
 sourceUrl: https://mobileidworld.com/interview-todd-mozer-ceo-of-sensory-talks-on-device-ai-and-the-future-of-recognition-technologies/
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,19 +24,17 @@ images:
     title: "INTERVIEW: Todd Mozer, CEO of Sensory, Talks On-Device AI and the Future of Recognition Technologies"
 
 related:
-  - title: "what3words Voice API features Speechmatics automatic speech recognition technology"
-    excerpt: "what3words has entered a partnership with automated speech recognition software provider Speechmatics for users to enter their what3words address by voice in their own language, the company announced. Under the partnership, the what3words Voice API leverages machine learning and automatic speech recognition from Speechmatics to deliver an API ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/what3words-voice-api-features-speechmatics-automatic-speech-recognition-technology
+  - title: "The future of travel: Voice recognition, reducing carbon footprint, Instagrammable destinations and more"
+    excerpt: "From booking with the aid of voice technology and sustainable alternatives such as rail services, to facial recognition technology at security its an ever changing world of travel out there. The surveys shows that half of Gen Z and millennials consider how ‘Instagrammable’ their destination will be when booking. How many “likes” will it ..."
+    publishedDateTime: 2020-01-14T11:28:00Z
+    sourceUrl: https://www.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP.html
+    ampUrl: https://m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/the-future-of-travel-voice-recognition-reducing-carbon-footprint-instagrammable-destinations-and-more/story-l19NRg1yyvpAaV24zvfqSP_amp.html
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
-        width: 900
-        height: 499
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 7
 
 secured: "WUAa6OE3FpxauwIg08fqCCa0eXim/uBVamUjQSnGhHje0e7F538stlDpI3uMDxWRgWCmOBlnG98DlgaZgV/XDuSbD2FV5kIh/JFW3O6X7vFWonyIykdye4C6UUWbSq6EiQ0KOlJbgbJMNs0NuTPbObGHZWhCQPR8AemH/v4sAW5ubUnwD/s6eoMrCb3W9oAqnq+PGV4qdzzA7q4rStI2NU9ehqgi/gZEKIdnpbX/Y5Vmp8nxE7ilr5xPI0J1tt+Z4XxGNNQ67Hfv1yoJ2GkZysWTDiKrAjBOYJNfJGB7LrU3oUM/Fw1PgIujKt7RTQSg7ao08KMkzUuLQekJvMPMUnM89aTUuay9cJcElj1WmHjS8vixS6+RbPg/tp29l3Y9x1wA+BfL4QKOrwL3qtxUN9r/lDa4QprmKDdN20659vsVCm1y4I9TjOBqRSCR6cKibe3F8gIBZoUusrn97GjnUA==;3us/bIsve6TlZjUxzvCETA=="
 ---

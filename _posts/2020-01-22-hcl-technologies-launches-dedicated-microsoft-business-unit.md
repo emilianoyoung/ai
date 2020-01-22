@@ -63,19 +63,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-    excerpt: "MINNEAPOLIS, Jan. 21, 2020 /PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies to extend the offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, AI/Machine Learning and helping ..."
-    publishedDateTime: 2020-01-21T14:51:00Z
-    sourceUrl: https://www.prnewswire.co.uk/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 24
-    images:
-      - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook
-        width: 1920
-        height: 1005
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
     publishedDateTime: 2020-01-22T05:12:00Z
@@ -94,6 +81,15 @@ related:
       name: Australian Techworld
       domain: techworld.com.au
     quality: 19
+  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
+    excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
+    publishedDateTime: 2020-01-21T12:47:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-300990290.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
 
 secured: "SAUA/c6Tez4IBgbyzaddmMtb6xAN2XSASayPFy97eFGevG9VCyRm7zvNpNHmgPW/AT0lv46xe5JBOSJuHhnZrcpsCI8+CBAViPysQ45ceYfIDQ0IvM3q+AbJXdrBu7LGfloziYgMQYq2WBxtLcLbA/O/DGDvH76lATe+wrnXJw1X9bW1P/LV9pX/dWg7sRDsP/F1GU79RcJGpA5Do8HuZyS3ShPAcTzdWYidBBXRP68lRpVAoUCDxWzX2hkofmhiFTw6IltzNs3o7FIuDUXlaij1WMjUSHgO279mAwB/gM4=;RmGqqOtVuEWPG4gDXe3hrg=="
 ---

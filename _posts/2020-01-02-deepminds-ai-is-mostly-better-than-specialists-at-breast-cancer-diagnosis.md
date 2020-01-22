@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diag
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 800
     title: "DeepMind’s AI Is Mostly Better Than Specialists at Breast Cancer Diagnosis"
-
-related:
-  - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
-    excerpt: "The biggest improvements over human scanning was found in the U.S. portion of the study. Artificial Intelligence (AI) powered by Google’s DeepMind algorithm may be more accurate at spotting breast cancer than real life doctors."
-    publishedDateTime: 2020-01-02T18:13:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587
-        width: 5121
-        height: 3416
 
 secured: "zeZDR1VdDTQgy6ZZwmE7bm4262A9/ZkjTEl9cEB7Nhlhar9oSlqZcPBYFc5Owob73Uhtd6ll6xbX8GftqRTr/OxSejCco+SDwX5PBfug5vXP5gp/tsYtO5NmrfQftuKyvLZ4Ymt0asIt0HXvXT0G4ybq0bthyaI4yYa/c1kuxwTpCAyA6RfWObTer82fM0w3y2ocX/peI4ZLS0igNMZAK/4zvnI1KBmoVYTErW0VBtWGXm3TkQKg5zQnN5pzo0JPjW+uAPzvnBOXr+y+BDvcfIDQ922QLL65grPLnXhowUntic32MKu5v8HMCDObp6Da63hIjFd14Ceq93W9P9ZgtsmdyakbSiwZarLhEj19TA335clQBcmqYampE+flfpvmK13/BAXh9TZNPr3amcxNNMeyJpGfSK69X9eSoK0JHFTF96FapLySHm9DkGPS+vef+m2KEnvTZD9UBtWbEKteYA==;9Vb8dfKTq/NnUqWARlmRqQ=="
 ---

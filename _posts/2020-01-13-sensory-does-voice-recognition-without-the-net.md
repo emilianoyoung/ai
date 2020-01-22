@@ -52,36 +52,6 @@ related:
       - url: https://miro.medium.com/max/1200/1*jglFlhzYhpqGCyHcZU516g.jpeg
         width: 1200
         height: 564
-  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
-    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and ..."
-    publishedDateTime: 2020-01-09T20:52:00Z
-    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
-    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
-        width: 940
-        height: 627
-  - title: "What is Voice Recognition"
-    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
-    publishedDateTime: 2020-01-11T11:43:00Z
-    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
-    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
-    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
-        width: 600
-        height: 271
 
 secured: "+lfVgiqVv8fVyGPIqpgzfJfQGF6I5LVlucjEgUSvdye+fTcGVytIrih+1VICdMzv3oKSU3fz05niD7vT2VM3N2zL5mwXk0Q9LVlcGMiOS6l2mT8ZdwC59ais01ybRskqsi4ACBFcGl+/74pH1WY21EZ/uA3gwh3KPGJa9gShQZO7YWAghi4QOsNbhYnPTky3KiGufHvgbUW+QX8j6Gl62Jf9z/si+YcEiFgjmFyhPe9Tr/pM34H7P7CXv6Z3ziz7bq4B8KSYENj2Z/VcCUNij7pVJlciK4BvkXwdkuTJKyHCyrHlH+U96RT0SUV6D+L0DW9rEnvgr2CfNCdHMyTKgQJ2QXOZx+0YuPz7QgQ/LuhN1tI6n+zqJ4L3exYXnIPqYU/a7yEnHwZKavPRcmx3nYtiuVckC5CtZDsrVcTppFhZeR8io89aYXna/ryh/OLuHpMXGahcO69uC+ShVhp7pw==;ac1UxbLVNVuLerix+4ZMUw=="
 ---

@@ -472,6 +472,17 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 24
+  - title: "GM's Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
+    excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
+    publishedDateTime: 2020-01-22T20:21:00Z
+    sourceUrl: https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/
+    ampUrl: https://www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/cruise-origin-self-driving-pod-has-no-steering-wheel-no-pedals-and-no-driver/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 18
 
 secured: "2V8HRo+pjaI5x2OyDBBMGElcJmnxEHHKsCG2PRd45PMf0tgPldSxVo+HKf1R/LU5+fgCxGrxqSixse85XFrOjW/fHy2P9XfgyHksIBfd5AaSK8hAP3H75qTlTIEThLnsrodUD5lT1g4c99ltFpONMXc4rSWWjcApYYD83cuj3XzsfXLReIr+woqBC1wZjBtN08ue/x2/tbc44eLdMbvAXtJDdi16b15AnjM2hRXOBpvP3VpJrudYVtzZghprc3ejgmz01KRPTTbi67abh+rmvsitgSZCoh/aQcOD+mzLTCCaTQALybNEPmgfdYZoTVX5nsQQukWjOvDPRYINmreQ43xOnP9l+LU5XM4zuh/yrVBcPUBRAXpOmobGYK9V7osHNpFXFukT9sh2mBjXF9Pb9zBpRDTN5IBESBmjOtDmfT8m3jCqdUjeptUGNSHiqhacKijNwnFoTKPcnNATtWHSXA==;B1z+JaQdaJsXE2V+8ZMdsA=="
 ---

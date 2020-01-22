@@ -73,6 +73,15 @@ related:
       - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
         width: 1200
         height: 800
+  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T18:04:00Z
+    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 4
 
 secured: "tNJT+G5sK/54kmW9LWxell8LSZkfNyHjaq8SdyCIGBf6DzqjXGBNElM/7277YtsD1kCWPf0O5O6Rbcq3ZqwZRVcIPxdK+8dtdwGfWbISJeGGJv36QytsySyhilFuL5UBLXMVvTY9GHpg35s/X8gVOJB8QZt9CtHMUZSXbHQB/bWJ5hzD3xzSC59h/Sf+oVghIZKioN1FiKY3lCtOYD+0iYyuIM9l2HI7ujDXU+MxzPgVIZDPxUDzfg/zDrppuy+iNZyIid/EwpranDiZa+Nm9lMvZ/BnopPQbXBnAZyJT3yObzXuL5r1thu5RuYimyQEG4VBoDsl0ihavecUB/OiBkNEgOdfy43OuEvPw1qu43GkyKNF0AAmaYyIiJIR4l9vnYVq0NwKSgSGiZZokv3XYpe+8W3mdjkB4SV1+HN0y0mAwtuajcF01B3U30g65qkW2AjYYdzXRaeB7OBl8WqjYQ==;CvJ1QHpfpH1634azw1Gl1w=="
 ---

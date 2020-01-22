@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billio
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/
 type: article
 quality: 91
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,19 @@ images:
     title: "AI startups raised record $26.6 billion globally in 2019"
 
 related:
+  - title: "British AI Startups Attracted Record Venture-Capital Funding in 2019"
+    excerpt: "Venture-capital firms plowed record funds into U.K.-based artificial-intelligence startups last year, shaking off factors such as Brexit and European data-privacy regulations. U.K. artificial-intelligence startups received about $3.2 billion in venture-capital funding in 2019, an increase of 23% from $2.6 billion in 2018, according to a study ..."
+    publishedDateTime: 2020-01-21T11:26:00Z
+    sourceUrl: https://www.wsj.com/articles/british-ai-startups-attracted-record-venture-capital-funding-in-2019-11579602600
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 167
+    images:
+      - url: https://images.wsj.net/im-145341/social
+        width: 1280
+        height: 640
   - title: "CB Insights: AI startup funding hit new high of $26.6 billion in 2019"
     excerpt: "As part of an annual look at global AI investment trends, CB Insights today reports that AI startups raised a record $26.6 billion in 2019 spanning more than 2,200 deals worldwide. That’s compared to roughly 1,900 deals totaling $22.1 billion in 2018 and about 1,700 deals totaling $16.8 billion in 2017. The reported high in AI investments ..."
     publishedDateTime: 2020-01-22T14:00:00Z
@@ -46,16 +59,20 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all
         width: 1200
         height: 616
-  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
-    publishedDateTime: 2020-01-16T11:29:00Z
-    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+  - title: "Funding for AI startups dries up"
+    excerpt: "Total funding to companies involved in providing artificial intelligence (AI) services to the pharmaceutical industry was down by 23% from 2018 to 2019, according to research by Signify Research . In 2018, venture capital funding to the sector totaled $1.7bn (€1.5bn) but this fell to approximately $1.3bn in 2019. At the same time ..."
+    publishedDateTime: 2020-01-17T12:08:00Z
+    sourceUrl: https://www.outsourcing-pharma.com/Article/2020/01/17/Funding-for-AI-startups-dries-up
     type: article
     provider:
-      name: insider
-      domain: insider.com
-    quality: 24
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 39
+    images:
+      - url: https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/funding-for-ai-startups-dries-up/10558357-1-eng-GB/Funding-for-AI-startups-dries-up.jpg
+        width: 747
+        height: 467
 
-secured: "mEkXXh5FOE5XmxvRrZWdqiFRraTfUVWwgCYvRLHYoYIAgZ32B0hovXNExJ9J2l4vOAEZAwzpkr860iT2z30UN5vRYzMV6OEtFj/Hdzac+QpeTEDJHaeYLUT2xeDGsmQHoF8vKMQcmbdKWtdNYL5dxPcspmZ2mC7709J0cmDDi8MF8zg55zgMM/bZKJQbuVlHrgqXwECiOiq4aanLvuo36Qgm+5A273JnKZheg5ez91yaEMZLZRs71pG476Jv2YUae0qd1e74dUsYmFZjFZ935yShOiJamZWgIMU+M+SRvO9txnX4lkygRbShgAcbmHM7VjXvzXGyikAe63sEFt2XeZJnz1bdGsA9/vLP2p4rBWkBnWOBLSfjfvtFqAXrjm6gv82lURac9cDx49tHqUmMK1xTC79X2pI2pumT0wJlUqVSH9pEpUXx0Iwttb+m5ntZgljk9zhG8Hof2yrIAHa9cg==;Xm3wRhRvK8BlyCkb+LkCwQ=="
+secured: "zz6lLEYKFciR+2zlI7qFyquWRGJD4OWK6GGNqamOdSPwcff/dFkSgqVz8Qxfs/uUHw3n+o1jDvGHvnqMoK9wB6kQ5/vSbEOKwgjxU3D4nxLDom4NxishXYrZqHLTRt7NrU2eox4kOsn3nTLWk7/vSfcUzT2QTvVPhxjmItog3f5WGZi2Ic5CmWwtp6ZInwVkzonH1F8fVhfbl88j9fGBDNKrqGhGEKobfYouNvMKwyS/0H5rC27Uv+Zgj9Qf+0ycC32xx2aC6jILKDj+1s2Wl59Ja82JV3JcQRZAuu+YGxw5PIAtkY+t4M4/AI85iiJjyQMRaF9DFLZy355NjQfydB7QwPGA4tAvbuAWE5hm+turWJjRSebEf7dt7Qd+OMysX2dH6ONmqHMuTqkWScWW2aX1MezRWWZ9CpjDmK140mhDPtUUA6ZJRfmXFiVZUKLp5OZno7LnRGIPCTxH9K6/1Q==;UHBbFumLE0xF6hMgJuUclg=="
 ---
 

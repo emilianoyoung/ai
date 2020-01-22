@@ -54,15 +54,6 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/09/09/23185846-0-image-a-8_1578561041268.jpg
         width: 636
         height: 382
-  - title: "Voice Recognition Used by Law Enforcement"
-    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
-    publishedDateTime: 2020-01-12T08:00:00Z
-    sourceUrl: https://i-hls.com/archives/98105
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 4
 
 secured: "lGZW8HtFMKBfejqzBX/P7Aeh6f9BJvH/wmkfZVArdeSEmvSR2ZXhQWCgsbGmiaSd12jnkVGr71qNijdzLerlrFib7L8fH0qypfPiklW+9niYmBEkNGhoJYElM3a1FoLMpzU+HrOrDvV2fnhX9BsAelQ/kDJ6aLx8OAM/noAI0RLC3XTKwYOkL/Q+B0RnQ+KrsmCwv70F48odWxgostPeX5JNcye/N1uTzYmCVzbjIRq6ywGuD/4rOQvHatrkNTzZvggbxEh97/BoXzTUBHXITMHNzqksAnv8D6hSW1p8GQD5qBdX7LBl+hOESc48to/4eecM75DUX986hOYwMFFXjKvvuJbGbHzGZ/RESUA4PVOLHbsRvpEqcEYDRHvqzhkGH4Ca3VVI3zA3ASUhg8B7Rp5hNb9zHKz45oAkvmiS1OBrhnNgr6PlLpUykmAPEfl4wKPJSzp7RcdRpmQ5SeWCxg==;6cVUI3Yzu74HZ7+l3hGzXA=="
 ---

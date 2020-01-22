@@ -29,6 +29,19 @@ images:
     title: "CB Insights: AI startup funding hit new high of $26.6 billion in 2019"
 
 related:
+  - title: "British AI Startups Attracted Record Venture-Capital Funding in 2019"
+    excerpt: "Venture-capital firms plowed record funds into U.K.-based artificial-intelligence startups last year, shaking off factors such as Brexit and European data-privacy regulations. U.K. artificial-intelligence startups received about $3.2 billion in venture-capital funding in 2019, an increase of 23% from $2.6 billion in 2018, according to a study ..."
+    publishedDateTime: 2020-01-21T11:26:00Z
+    sourceUrl: https://www.wsj.com/articles/british-ai-startups-attracted-record-venture-capital-funding-in-2019-11579602600
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 167
+    images:
+      - url: https://images.wsj.net/im-145341/social
+        width: 1280
+        height: 640
   - title: "AI startups raised record $26.6 billion globally in 2019"
     excerpt: "Global venture capital increased 20% in 2019, while acquisitions jumped 24.8% from the previous year. According to a new report from CB Insights, AI companies raised $26.58 billion across 2,235 deals in 2019, up from 1,940 deals the previous year that totaled $22.148 billion. The 2019 numbers included 10 rounds of more than $100 million that ..."
     publishedDateTime: 2020-01-22T14:00:00Z
@@ -44,15 +57,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all
         width: 1200
         height: 616
-  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
-    publishedDateTime: 2020-01-16T11:29:00Z
-    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+  - title: "Funding for AI startups dries up"
+    excerpt: "Total funding to companies involved in providing artificial intelligence (AI) services to the pharmaceutical industry was down by 23% from 2018 to 2019, according to research by Signify Research . In 2018, venture capital funding to the sector totaled $1.7bn (€1.5bn) but this fell to approximately $1.3bn in 2019. At the same time ..."
+    publishedDateTime: 2020-01-17T12:08:00Z
+    sourceUrl: https://www.outsourcing-pharma.com/Article/2020/01/17/Funding-for-AI-startups-dries-up
     type: article
     provider:
-      name: insider
-      domain: insider.com
-    quality: 24
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 39
+    images:
+      - url: https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/funding-for-ai-startups-dries-up/10558357-1-eng-GB/Funding-for-AI-startups-dries-up.jpg
+        width: 747
+        height: 467
 
 secured: "zOpcUsjFY5WbetxD3zMxOWKKd3fJ6mOkNFWnL39Mw6PrusNKf2dBQ1Bu13fTcv1fDPHSdWp9YD/k2TXbyQDKS6CSX9zxUIfGim18I8EJ/QtBVYaQNrDx/FD1rd5Sag2y97L6h5msHtG7D5Dnv4hJSsdOPi58MiWjacqw62nUW60zPmbdmlASK/8QxYroP5pv42KJa2sndBezn685/OUyuT3oDpSAk5yDFg4vKwG7meRImWdLewLcfx4ToejiOPErWC00lV9ieU8g8lfVKK6UfB287TA8Nvuf+fqQ27aUicUVehQsDG6XttV/AeM1fQEOJViwPNiT9hyJ4wYhQ9RRxSUVFVx8r7ytk6IUXHTkpHJNHSki1SkWW9L5j7N62mGwFZIQTP/uSs7FdaE8RrlwT6sazzTfYFJcFzXHxgQNQw2pvlCq+hNbSpr4LZslDK0ITTlrPWJ0JGr7tt2FoolyvA==;bKMWBA81ThW2KmDMJ6OXng=="
 ---

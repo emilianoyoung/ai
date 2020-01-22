@@ -37,6 +37,28 @@ related:
       - url: https://mms.businesswire.com/media/20200113005995/en/767292/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
         width: 480
         height: 270
+  - title: "Global Smart Robots Market 2020-2024| Evolving Opportunities with ABB Ltd. and Amazon.com Inc.| Technavio"
+    excerpt: "As a result, companies are increasingly adopting smart robots, such as collaborative robots and professional robots, which are equipped with advanced technologies, such as artificial intelligence (AI), machine learning (ML), and analytics. Collaboative robots can perform tasks such as order pick and place, packaging and palletizing, machine ..."
+    publishedDateTime: 2020-01-18T01:22:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: https://mms.businesswire.com/media/20200117005289/en/768160/4/Global_Smart_Robots_Market_2020-2024.jpg
+        width: 480
+        height: 270
+  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
+    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
+    publishedDateTime: 2020-01-20T19:04:00Z
+    sourceUrl: https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "XdDCXbiwxT9AQSNo6VQwm8MK34tOwVH6Rg6SoL1IcfaOVkrvF2ikNrbS89u6Ajg+x/Nu/IoluNETluRrHC32KDEQ/TuKUTioojx6/WZIOWp0qlhTC+AEn2SrB+s0NJ2ThrKO4YnprfFvYPZEbVjJmDbAIunR7qcGDBAJ3MU0r8cb+oN4w1i9oYEgLW4llUl1zvC035afm/V1U2dcikRBbwW0KPXAt1HMsls1qmaScFPEbNfawL3zd32QneJknerv2r9k3skmDTIvjxSU3aSbNrVBy0x8MP3KrIy4mBwhy0UAXr8EZy0PSiKjc74YPiZq5zBUZaiqHeSLOtxV1XnivHVplM7Z5/PicjDAzJygufOS+VlzjqbBvMoJp9VzuqsRCo9ARf8iGqU8VyoUpao5YxqypiYP+0jvsouzjWicmzSmWnX6Rt1LH3YW+1eCG+lNRgZyV6euByc3ysUEJPT21Q==;Lk0ETZHPBxxZLzv/kkBXpg=="
 ---

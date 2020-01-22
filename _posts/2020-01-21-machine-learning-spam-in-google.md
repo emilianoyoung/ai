@@ -7,9 +7,9 @@ sourceUrl: https://www.searchenginejournal.com/machine-learning-spam-in-google/3
 ampUrl: https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/
 cdnAmpUrl: https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 159
+heat: 159
+published: true
 
 provider:
   name: Search Engine Journal
@@ -25,6 +25,6 @@ images:
     height: 840
     title: "Machine Learning Spam in Google"
 
-secured: "9qMoBW772pzsA7ZQl90T89O3YsV5F9TTXVx+lTnnLNVNteaY1h969Tsw7byuN2EwqgfnMsjWoZjDER8zTqHq6takOuvhO7mVaAHCbdW/mgZrb4UPMRwhhkc40q5gJoQUNL03Fkxos27dLBo789xHtdXD8kMPOWI6R+DonRqq8B/8Ki4FAjCWHXK5l9d8iONBDrMq0+vpKZA0qqtZjMOYNUQ6YOATF4apPpXeFAFsfoh2qiSWOyh8WrcZG/XSZfb84jmfDNbKqC6YUGb3QWoEHIDMgzcdvDbig1g5uJZzdPvQ7hMwRv/PYlv/Z7Cb1cW3iFI3k59Lana6h9Y8yRqcO34F3tRxjucndtJAapC2XdMLizKPgqwqBOEdOf/GiWZbBhnX/zpeQkUyqsVkjXlm83XaTwNkEBPU25zTqgaDHkbsF+9ZozQXHnaOkeX9hdRh3HknDF6HrqLUS9838rjHIA==;NeN8NB9mDEwzbE723bJ2/g=="
+secured: "zKBf8AwiwoZa3dnGLJsz4ugUPys7K+h4NNqKGZfH84c1h3/kyTBlae5tDoP1zw+E8pN2MT3gPdoOoBzGG/2x8Q+EP3ZJ3bjtBv6Qrxf4zfGMUbz6Vj7uDgYURGJ4A2FO0fmv2+cSUkCb4APhn7BM/SaKbaV5ybovOeQZA/rJFpBzcJhgfs4WnbVGHn/jLl2csQHhmT2MCqaYYK1uWIuboFMEk3CI0fJOiOMxrf4oOWwPaeO4Uc5f8BrHs7CWhGQaYfg5MHPD7p9+8bwvHID59Ef1l7kid3Ho1Z6Ys7Mpq91W9x+FgtEWvwL9Y+OADW9wsiSwEZChvVUoemqHMNXIp2Ayy3ZGLxXqVNv3Fg4yF00tIHhxVxeO+ck4jtq0kjeskeDR6a8DOWb0biv2jIpzEDXrW4tn+/cuNtV1m+b0zHoHO8pxXP7YhyVzlinrKwn1Ex5l4nGZekrD1vZ0tq53h0j51r9q2BMNTawmAm4BrJI=;kT7+bGSDFzRUvGcFIIWVcA=="
 ---
 

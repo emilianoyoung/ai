@@ -25,6 +25,6 @@ images:
     height: 380
     title: "Riri Williams Joins the Robot Revolution with '2020 Ironheart' #1"
 
-secured: "s73GsUY6Lr5X4kVBraRWsqa/6p3VEwKg9kC/MJr9ZgFAFsPAYXadTZ6dBHrlYBnai7/5jIZztV4RBNoP5LpqYZRiSKZ7emLng3UaJS43X/kZJydxE5Ifsn2WBQCyyesY527/LF/FpS/3L3raPVR7Tq830kKV0bIe5eQ3R7ff6HqExJ/FdZEaj7yDCJU8OS0a1vWAuO+hZAefs+81h3PoeVMzQE3bwY9cg6XWkIIUuS3z0O2C68fgRh+svkgwjJ3ZCUCSI9zPB2n+bpSswi0jploeZT5GVnrer0eSR+Kr/xk=;kIEM6HUQEE3zZDQovgI9ZA=="
+secured: "8wG60jiY+jkhsBkE7tPony/mmtEaLWaiE1jKqZ+J392tr8jaG5tbENn0EOyeXJaHaFwNGKh+cGPXTPmS8ylyjE0dNuxqE/Sp/K49j/EbMd3g8rD+zmwDF+bRrWRFuURwQJNw1DCnKvVb8/WggG7nsnLcC4+VXBl96XtNnOu56ntWbGorB8Vv9rNMOwVs0XmU6Lt+sdcvcdLoZFBToXA3hhi+cYbIxjOphI2UKKzX2nJbA6kDROLTRmklL2L9vCTRFpEhzWhasAKlRPRz1pq+KMfLZNvvB9InLR+zcJHNUjmLm8N5V+wIN70N64DuSAGHPoSkHDh9SP/9JsfEQI5XBa5o2I+fe+YcJeUFEOWAulHyNgQUJzBU7hDYL5jbOub+Uh504ym3tb0xgy2bQllHOkSSOFZ0f3uOpjp9Kr9RbG+MHUMvzxp1IU+Oln5JMxSwM0h5JWke61yZrNCihdUq0A==;Wa4cAGnR9UTnsm6+cAjCww=="
 ---
 

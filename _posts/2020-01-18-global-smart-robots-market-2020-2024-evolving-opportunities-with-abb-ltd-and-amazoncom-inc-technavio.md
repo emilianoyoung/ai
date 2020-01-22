@@ -24,19 +24,32 @@ images:
     title: "Global Smart Robots Market 2020-2024| Evolving Opportunities with ABB Ltd. and Amazon.com Inc.| Technavio"
 
 related:
-  - title: "Technology Convergence Impacting the Oil & Gas Sector, 2019 Innovation Report - AI, Robotics, and Drones Drive Opportunities"
-    excerpt: "Technology convergence in oil and gas sector has witnessed adoption of several technologies such as artificial intelligence (AI), robotic process automation, Big Data analytics, advanced sensor technologies, autonomous robots and drones, which can enable effective inspection of oil rig sites, corrosion and leaks monitoring, enable predictive ..."
-    publishedDateTime: 2020-01-17T20:33:00Z
-    sourceUrl: https://www.oilandgas360.com/technology-convergence-impacting-the-oil-gas-sector-2019-innovation-report-ai-robotics-and-drones-drive-opportunities/
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "Collaborative robots are designed to work in direct cooperation with ... This market report segments the global artificial intelligence market in manufacturing industry by application (predictive maintenance and machine inspection, production planning ..."
+    publishedDateTime: 2020-01-14T07:47:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-manufacturing-industry-2019-/2020/01/14/9080753.htm
     type: article
     provider:
-      name: Range
-      domain: oilandgas360.com
-    quality: 42
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
     images:
-      - url: https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER
-        width: 300
-        height: 250
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 480
+        height: 270
+  - title: "Global Closed-circuit Television (CCTV) Camera Market 2019-2023 | Introduction of Deep Learning Technology to Boost Growth | Technavio"
+    excerpt: "Some vendors are integrating the latest technologies such as AI, deep learning, and machine learning with CCTVs to improve video surveillance capabilities. For instance, in 2018, Zhejiang Dahua Technology introduced IP-based cameras with built-in facial ..."
+    publishedDateTime: 2020-01-13T20:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005538/en/Global-Closed-circuit-Television-CCTV-Camera-Market-2019-2023
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
+    images:
+      - url: https://mms.businesswire.com/media/20200113005538/en/767042/23/Global_CCTV_Camera_Market_2019-2023.jpg
+        width: 1200
+        height: 627
   - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
     excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
     publishedDateTime: 2020-01-20T19:04:00Z

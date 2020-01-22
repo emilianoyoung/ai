@@ -159,6 +159,51 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/seXfCZxKybpW6F3DxoXHbv7v26Q=/0x0:2040x1530/1400x933/filters:focal(857x602:1183x928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132207/vpavic_171003_2029_0067.0.jpg
         width: 1400
         height: 933
+  - title: "Sundar Pichai calls for moratorium on facial recognition"
+    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
+    publishedDateTime: 2020-01-20T17:43:00Z
+    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 74
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "Sundar Pichai supports calls for moratorium on facial recognition"
+    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in Brussels, Mr Pichai said the search giant had chosen not to roll out general-purpose facial ..."
+    publishedDateTime: 2020-01-20T17:43:00Z
+    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 74
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
+    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
+    publishedDateTime: 2020-01-20T21:07:00Z
+    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 72
+    images:
+      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
+        width: 863
+        height: 545
   - title: "Google CEO eyes major opportunity in health care, says it will protect privacy"
     excerpt: "Sundar Pichai said health care offers the biggest potential over the next five to 10 years for using artificial intelligence to improve outcomes."
     publishedDateTime: 2020-01-22T14:33:00Z
@@ -499,6 +544,30 @@ related:
       - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png
         width: 918
         height: 506
+  - title: "Google CEO thinks AI will be more profound change than fire"
+    excerpt: "\"AI is no different from the climate,\" Pichai said. \"You can't get safety by having one country or a set of countries working on it. You need a global framework.\" Current frameworks to regulate the technology in the U.S. and Europe are a \"great start,\" and countries will have to work together on international agreements, similar to the Paris ..."
+    publishedDateTime: 2020-01-22T16:34:00Z
+    sourceUrl: https://www.sfchronicle.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 37
+    images:
+      - url: https://s.hdnux.com/photos/01/10/12/34/18917135/3/rawImage.jpg
+        width: 2048
+        height: 1364
+  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
+    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
+    publishedDateTime: 2020-01-21T03:18:00Z
+    sourceUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/
+    ampUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 36
   - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
     excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
     publishedDateTime: 2020-01-21T01:58:00Z
@@ -521,16 +590,16 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 21
-  - title: "Google CEO thinks AI will be more profound change than fire"
-    excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
-    publishedDateTime: 2020-01-22T16:33:00Z
-    sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
+  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
+    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
+    publishedDateTime: 2020-01-21T04:43:00Z
+    sourceUrl: https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 17
+      name: Mint
+      domain: livemint.com
+    quality: 19
 
-secured: "NtmdhCmJ1seODc4J43VQY939CGJUx/MKgP+ul4a+iyZziiRYG6pmIU07JJrXKaVyxNcl0jDuv2jSfEVR8BnTbU+Yqq1SrN2ITIQEjmrqsWXIrvxxZTZxWGzWnKZf89QJmxKXFAVavH1DFIBs/um4AL+sFnItcZBYg6TzoGU280AvLbh7XJrNF91QhHYEGpX8giSCwx7ysDcrYZ1yafPNY/5ejkjX1AY++IvsoZkzw6EBNnm/1PO1CkiXSDgK3B1/Rj+aEYBFkw1zoYYLM8Egg0w94u+LLaSM857RdayE0a0=;4FbXVugh9A4BsSGqghnWgw=="
+secured: "B5OPFQburvJzJPUtkNB2gBfR2y3elu8UedhI5l73o7xiCfX84nOqLvR5yb+vtb4kYd8CQEVpY1pR0CvMRxWySsoh/pMnCI3M5J1ohSf0t58hnYOmt8wHh8pbsU4KxryJb5P1y0A4oBXo8woxbbqwJH5Cz2a2pOrKVl8JnF3lhaaCD2EpN1HUfIzdQTb5EiAXXSsBr5l0TuYrXXGB38KVoGjgHkyTRJb1PiHL83o8Pb39TQWvPE56NFRPxQEKmi8gboIVTbQDGuY4ugccVjnJsXIJB/rtnnyDuGj8Q1G9v8g=;YdmxuuigOfOpLVfwJGeeIg=="
 ---
 

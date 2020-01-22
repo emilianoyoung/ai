@@ -20,6 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
+    excerpt: "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
+    publishedDateTime: 2019-12-23T18:26:00Z
+    sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg
+        width: 1200
+        height: 1000
   - title: "Artificial intelligence tracks down leukemia"
     excerpt: "this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence ..."
     publishedDateTime: 2019-12-23T17:46:00Z
@@ -30,6 +45,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "h+o3Q263l35K9EEfL3MRkC/Hai7FA+Yewx78RP5+rd5jQ9uyrg4e/jGPeKU4skF4Heirbh6O6f/wfN5PkRXIXK3cZZWy5Aqvg4UJBMWGwaq6rkhwpFrzB45p3Uwyx0q39P6Oo8NhygGaIZo1w29oMnIkYftsKQLEM6TFaYPOF2nHDETihItehiBtBGYm+HcKsD4qtmvLx2JkaIdYHpYUBZ+XVaJ1vo9yh/qjdQyFB0A1NXtQX+DpM3zye4f/4daF3yAJaaDClA9LcBseFh6zAP9Xys6Ms22HsNsyI1Y5SkU=;Gba86IWOpveD/NwPNLROxg=="
+secured: "yhY8rP+uxVMxiIgjAuTTxCIn2i1sicPV/hHM9RBuxLpLrek3O+pHuWYLcHnX5lk/7rBgdftLOVqLHUJ9LJOec3Hig6hozcf0R8KAZq5qIgiRG6YGKYDhoCBoRGIGzCa+9eiGgSjmXxBxZalEYgJ4lnqqx4mFFar03V3qL7hryU3TpfxbstNt95WiotERFFJkvfqkCUDF2CjegbX9qIcBmcWDnNp68YYLpEgF1iKbBrsgK/xvbWoo1IVLNXcKbY5Yy9FnzikAkAUOarh0MwP0n63Zc+YXafLLKAVdc+qX3W4=;2QDm+TMitEaL0zSgf0ypsg=="
 ---
 
