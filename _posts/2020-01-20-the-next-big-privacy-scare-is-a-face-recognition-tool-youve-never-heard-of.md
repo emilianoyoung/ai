@@ -262,6 +262,21 @@ related:
       - url: https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg
         width: 300
         height: 225
+  - title: "India's Telangana to test facial recognition in local elections"
+    excerpt: "The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday, authorities said, the first such use of the technology in the country despite growing concerns about privacy and surveillance. Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri ..."
+    publishedDateTime: 2020-01-22T10:30:00Z
+    sourceUrl: https://www.aljazeera.com/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
+    ampUrl: https://www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2019/11/7/737f7651ea7044cca6269f4f9417d6d0_18.jpg
+        width: 583
+        height: 325
   - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
     excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
     publishedDateTime: 2020-01-14T11:48:00Z

@@ -146,6 +146,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
+  - title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
+    excerpt: "\"We didn't just want to improve on the car. We wanted to reimagine transportation as if the car had never existed,\" Cruise CEO Dan Ammann wrote in a blog post this week."
+    publishedDateTime: 2020-01-22T09:09:00Z
+    sourceUrl: https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348
+    ampUrl: https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1
+    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 58
+    images:
+      - url: https://d.newsweek.com/en/full/1561809/cruise-origin.png
+        width: 1283
+        height: 970
   - title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
     excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
     publishedDateTime: 2020-01-17T14:43:00Z

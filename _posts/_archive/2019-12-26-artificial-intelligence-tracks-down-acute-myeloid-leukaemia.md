@@ -20,6 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ..."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 59
+    images:
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg
+        width: 800
+        height: 448
   - title: "Artificial intelligence tracks down leukemia"
     excerpt: "this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence ..."
     publishedDateTime: 2019-12-23T17:46:00Z
@@ -30,6 +45,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "PfaOhKGR5wmSr8En6Vz8B2e8nfb5oDmZaouYrlNC4wDmXfg/zlopdKl6ATe+vGFZAAIAoUvfwJ5PBcJoHdjLIaQgvUOlK0rn8/FSkE4N81P45GPyRDj0ASWIfIdBEdiIObNZX2SBsWE8RtNCiZmQxomDTeenyqeBHR/Dw+t6qA7ZRKy9j5w3NKdc19AT66FtIzeRWL2Dd2RAoGgjnXf/sx9XNqU99+ObK5wXNn9Y4NHVWkfIDm8eixsNCHxf0XHrz/rzBo7QJuZLC1onZcwvsyPPSk3z64uV8T3EAOb09gg=;2LzETpMalNGbONh+8lB/DA=="
+secured: "oY3ZBbOoucOAXyI/rS0P7wcVAnmsFanDIzZNyiWzDbveggFfRZhkkyziDE51TBM/DNZKnLIoFsa5TIUHVJhe/FAwTXVZ7+tgXA7haZEnN9KT6Wk4uy9o3P+FtdHZA4o3KtUEKQfhIWXTMlhWEc5ZUhYrlinDwFWp7VAzp4LTOFIoQlcJ/KFhQW7OI7aM5oCx9qD5YKoFsOjevNSWUNGPY8lo67wjtSD5pUukfhEWQ5vvPCqnkXQRM4ImikIXn/yvofNqQpjSojCT2t3lGw1LpaDXjbVXoZS20GDf5QVPIZc=;DKSfj/C0Qj8EQpZMdRLUSw=="
 ---
 

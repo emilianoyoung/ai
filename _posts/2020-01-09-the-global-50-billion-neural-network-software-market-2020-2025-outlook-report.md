@@ -1,28 +1,28 @@
 ---
 category: news
 title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial neural network was completely neglected in the early stage of artificial intelligence development, then gradually recognized and became a large-scale ..."
-publishedDateTime: 2020-01-09T19:45:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/x5wn4g"
+publishedDateTime: 2020-01-09T20:50:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-global-50-billion-neural-network-software-market-2020-/2020/01/09/9079369.htm
 type: article
-quality: 64
-heat: 64
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "E7TNFJATP6BIW8DsD5ahR1yU8DifPm+Iy+NuUWhcURdjM9jc5W+7ndyNttfLEj9djEr2wicqiREvq+nxISjgW25cVk7MrkceBZ9NuiArIfHeF+b+EfjxzYbepAsLBhV0E9IYHiaFK0guUiZABUwddl4EmGtFVSRzMrVvN/mOo5mdhKFyFly/grRgqX2JJPpYsZmaqo6DDGbRkr2VehcvTLP2Dg9EITrH/m2ZpzujQmaGYwC4rAORE+jMSmzTq52m4JruP9gpMLVGA9VTGxQ80nsoHJyhVek4ho4q95tCdw4=;/K6+odW9tB5l2BuEM+GMcA=="
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
+
+secured: "+SH2Le093AdoxkF3h0XIhGtUxe1o+W8Ia01nO3v5V4fvk/CV1XG4ukt3jSRYNdiDWquHrFdZ01tbEugdIDwJDcCUlLnSnaObdSoGdeMI9Q83I2I6bTxcDAUfj50h1vD+pJ+cR+qZttT4wyxmk9SmkxmrSneKIwGzpUX1fWiEv0fx6uBlD/XPoPL+C1cB3BX+9bQaEMGsXmCy9cP66sP+FKAy+l+KPOV5Sh6/txVwPrC/s2gIpT0lYWDhcIWvGPPbhpNQz+j4KWgEMtXBtHcoz/+Tt9C383KIfugpaDnj3Us=;cWsNC6TeIAdI5nz+T4WuMA=="
 ---
 

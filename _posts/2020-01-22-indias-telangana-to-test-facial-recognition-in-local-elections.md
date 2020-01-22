@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
-excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
-publishedDateTime: 2020-01-14T11:48:00Z
-sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
-ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
-cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+title: "India's Telangana to test facial recognition in local elections"
+excerpt: "The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday, authorities said, the first such use of the technology in the country despite growing concerns about privacy and surveillance. Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri ..."
+publishedDateTime: 2020-01-22T10:30:00Z
+sourceUrl: https://www.aljazeera.com/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
+ampUrl: https://www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
+cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
 type: article
-quality: 46
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: Al Jazeera English
+  domain: aljazeera.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
-    width: 800
-    height: 600
-    title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
+  - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2019/11/7/737f7651ea7044cca6269f4f9417d6d0_18.jpg
+    width: 583
+    height: 325
+    title: "India's Telangana to test facial recognition in local elections"
 
 related:
   - title: "Facial recognition scanners are coming to PHL next week"
@@ -273,21 +273,21 @@ related:
       - url: https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg
         width: 300
         height: 225
-  - title: "India's Telangana to test facial recognition in local elections"
-    excerpt: "The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday, authorities said, the first such use of the technology in the country despite growing concerns about privacy and surveillance. Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri ..."
-    publishedDateTime: 2020-01-22T10:30:00Z
-    sourceUrl: https://www.aljazeera.com/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
-    ampUrl: https://www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
-    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/01/india-telangana-test-facial-recognition-local-elections-200122093408249.html
+  - title: "Cambridge bans facial recognition technology, becoming fourth community in Massachusetts to do so"
+    excerpt: "The Cambridge City Council voted Monday night to ban the municipal use of facial recognition technology, becoming the fourth community in the state to do so, the ACLU of Massachusetts announced. A bill before the State House would also establish a statewide moratorium on the use of facial recognition technology and other forms of biometric ..."
+    publishedDateTime: 2020-01-14T11:48:00Z
+    sourceUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html
+    ampUrl: https://www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/01/cambridge-bans-facial-recognition-technology-becoming-fourth-community-in-massachusetts-to-do-so.html?outputType=amp
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 59
+      name: MassLive
+      domain: masslive.com
+    quality: 46
     images:
-      - url: https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2019/11/7/737f7651ea7044cca6269f4f9417d6d0_18.jpg
-        width: 583
-        height: 325
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/RXABJ627LZF3NJCLJJTBYKDJJU.JPG
+        width: 800
+        height: 600
   - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
     excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
     publishedDateTime: 2020-01-21T19:10:00Z
@@ -469,6 +469,6 @@ related:
       domain: scmp.com
     quality: 24
 
-secured: "M35PFBMgdqe/Mfx885dlHkOuEeyunAeslR1hkad7X2KIaeed56eS3EicJ3vneleCZfruEnPJaAZFPcYCWUpCWhB1GmovYvz5MoQWKAj8dTl1/mEYEQOE4/sCqfBDqglZyBeAWDZIdKBKK7cIAWVd6Y1FBeFSJlzsEOOah1RQCMO1G+nN6XSSLLEvS+1F414gLR2P1VzqnccuVsS5jxb2taXrJnsGL+YCKigTwjM4snkzASn+T54sBicPw4XbZgRQ6306yKzB2ugZhDIPW/Fxo6Cof3Mmg0oPXfvqRCdYXmw=;8lhzY4g9pjMEW7ujK7ogcA=="
+secured: "E4NDN/hqYgv1gSOm8Snjts4z7ueNDwiTbvuJ6/oo/mUrHp03SUH9bJXT5qnVBo9DDPs/gY84kCFYa1eA5bxstK2nKj0+sydyec2zN6PoHV3oCOax6WeM7z2SFg3z+gBMUqzeqeQqpEA/fZiw4B2IZpM8GKwhwRlIDJvNMmZZFFxsgh0Q29bq9p3jK7UQ/CmkdlyDa4msVQT3apfjBeQhPAGxPVCdnRCWkBvwJVjtQlUSoi8X7xL1LXdIIKfxRxv+oIGrJCX+vNos7skfZtKYX8naixAfldGcCiRlntEdCLI=;oiK6PBci7rKo53VxQLZWNA=="
 ---
 

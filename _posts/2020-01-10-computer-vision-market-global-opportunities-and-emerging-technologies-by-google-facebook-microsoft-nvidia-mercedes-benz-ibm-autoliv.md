@@ -53,15 +53,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
-  - title: "Emotion Analytics Market To 2022: Google, Apple, Facebook, IBM, and Microsoft"
-    excerpt: "According to Infoholic Research, the Worldwide Emotion Analytics market is estimated to witness a CAGR ... The technologies covered in the report are AI, biometrics & neuroscience, 3D modelling, pattern recognition, records management and others. Technology Analysis: Artificial intelligence (AI) is the major technology that is being implemented ..."
-    publishedDateTime: 2020-01-16T15:15:00Z
-    sourceUrl: https://www.openpr.com/news/1898533/emotion-analytics-market-to-2022-google-apple-facebook-ibm
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 1
 
 secured: "5bQYAFkRYxCzXze65SB1hziS6zPi5b9Nc6sD/G/3Ow4e9zwukpWaPe67Q07bmovUEVyeVG1XgxywPOSR3ywClzfZprKx4JNdpj93siTOFb2EqHGlMRPy0o57K8L6JZIVlFOuh5QJ7YYc6VVZ30BYqAryURpOnEdAgjIL+ZBXehTSbrQPTy1taLjmRNU3qv8W3nMsndC7U7ElP9ZN+UTQLCuo2bAJZTw4QZEb9pv32FddiuVSLhuAYz0DJAyEO87s/bvSJSbe5Sc3CU+4AKeK0ELr7MA6I1ZXVwLCvbSDtjY=;uhA5nJRH4A+2TVKDrOg3HQ=="
 ---

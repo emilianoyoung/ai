@@ -2,26 +2,20 @@
 category: news
 title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
 excerpt: "The smartphones segment is dominating the market in 2018 in 2018. Dedicated AI chip or AI processors were one of the major developments in the smartphone technology last year. Growing demand for real-time speech and voice recognition and analysis, as well as technical advancements in smartphone image recognition is driving the market for AI ..."
-publishedDateTime: 2020-01-22T06:22:00Z
-sourceUrl: https://www.cmo.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/
+publishedDateTime: 2020-01-22T06:23:00Z
+sourceUrl: https://www.techworld.com.au/mediareleases/37790/edge-ai-hardware-market-emerging-trends-regional/
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
   - AI Hardware
-
-images:
-  - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
-    width: 600
-    height: 246
-    title: "Edge AI Hardware Market : Emerging Trends, Regional Segmentation, Opportunities, Growth and Forecast to 2026"
 
 related:
   - title: "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
@@ -95,6 +89,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "gaJgmXx1l2UTM7jcKwPz2rd/KU0XQXG/TK8Mjecu0qqwtmX9+5b1CxKaPd9ssqDNegvwvuOl0elKJJ15dpW0woX1pVDIAP+bj6TyFsLCRSqEDZH+leYqsXaJoKf0yob1AhE3n6hm6LH1bjv8da/+VselX4rqywB6WSIe+QDrs40hphzwnmPc+IWco3FehQAJcIKnfF+fhjW11t73/RD2pwknUFO7GQB+kv3wMhiukrKOOZBWHfb211vRxuuY6Z8NPXwaeccujqSrFD1ZU+YVqxFSBeuApAQDpRMAhnw46xU=;2cmMuc8rimocQs1fkCSGHg=="
+secured: "czfi9oT2BiWTTrWo52HgSkcXPMHHEDL3GsCv1VRntn4WCjYfD24xlNYhq/XpxaNqMxlFhe6MmYHuC1/8yq2WiM4GwBUSMdDglto5QjRpV7L31owXnZnDnHNJm9TsV+eg00k2YnHsaLa5j1E4tD2tTEn++lWyBwSJumypWQbxyOYbTkCjJ9nfJMlz+jykOb80iR1MBJA/ChzHOh0bL4U0/jsmLq3p3wCrVJG6vHfOlXZoq8YJA0NgfTXKy1r8gGjZwxoWw739nL8jDBgdErDNaOoegrsstsYi719G2+eiCLw=;GxwSiGpfuUuykGb4YrT57w=="
 ---
 

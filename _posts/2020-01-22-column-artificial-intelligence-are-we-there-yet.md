@@ -24,6 +24,6 @@ images:
     height: 6000
     title: "Column: Artificial intelligence: Are we there yet?"
 
-secured: "i23P3UlXYecL5V0X8gfDawHnw43MsDdBRfhKncbdyZcnwnTlV4YhlE2KE5A2ZLQjYsg5I4v6UnMpUrU0/hHKg2bxtnSueeTFFgeoS/GQ8S3uaJkvRZeyxsyAr0/FsqltC32Vw72yKoIkSTEvnK1aHZi1ACELqVCNh8xmai9fmBrUxxr7Ofp9/jKhmugsZqDMZRxLjVkYaFsP1XbHkdpubiKyt5xXnekbyfhsVe+AbTKuHi5sUg90sRee2EMwXCzKBNUPx+x4Xh5UwjmMPPD92MtR6f6euhi/134Svtd24Zo=;cgFgHWokXzk+VwfDnhvRYg=="
+secured: "PdQKFibBTgOfB5lnqpeXhrqPWiDf0C/POdegNYxHV81zdG9NVwBzKT2o1OGBMF2/4dI1/XHCqpJDoVC8WcCSaLwNHVFv1iiOpZZxqVD4fr47RgfIQnR8/TuGTbXmD8+w+X5pFwP/qvR1r1YxYuDgarM4bBxBOGGTgquMB3nRlTyLNMY/8S8DFqim/VRnRYaSIAftabG1GJdZson8GpGpBl8RNeAuzeFYMB+2YjdDrsXFPJAkWzS8eahKVX9m+HMYC/36Z2vHjxclSL5OM7kP1QfgH2igOiuzaU6xZx/c/8/FA+Du1hLuuGMwQKp/mgR0hktggf1FKrXR9xPUREK9UTBF/iQUe5Tx9T9U33g8lLCgf9sPb/Y2nOmn/ez9K9M06+lI3dNlbmMXZYOSmmMgrLol3RQt4wMdcDCo7Wk/OV3dUXrqxEXX5w+ZChwJPEylFMzEPLXvpkxJ2DyMY1ddQg==;KBvwmpKFjpwdbKD4/bGlbw=="
 ---
 

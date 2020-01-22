@@ -1,29 +1,33 @@
 ---
 category: news
-title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
-excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
-publishedDateTime: 2020-01-22T06:49:00Z
-sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/
-ampUrl: https://amp.detroitnews.com/amp/4530535002
-cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002
+title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
+excerpt: "\"We didn't just want to improve on the car. We wanted to reimagine transportation as if the car had never existed,\" Cruise CEO Dan Ammann wrote in a blog post this week."
+publishedDateTime: 2020-01-22T09:09:00Z
+sourceUrl: https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348
+ampUrl: https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1
+cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1
 type: article
-quality: 44
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: /assets/images/organizations/newsweek.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
-    width: 640
-    height: 480
-    title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
+  - url: https://d.newsweek.com/en/full/1561809/cruise-origin.png
+    width: 1283
+    height: 970
+    title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -146,21 +150,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
-  - title: "Cruise Origin: Take a Look Inside the New Electric Self-Driving Car Without a Steering Wheel or Pedals"
-    excerpt: "\"We didn't just want to improve on the car. We wanted to reimagine transportation as if the car had never existed,\" Cruise CEO Dan Ammann wrote in a blog post this week."
-    publishedDateTime: 2020-01-22T09:09:00Z
-    sourceUrl: https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348
-    ampUrl: https://www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1
-    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cruise-origin-inside-self-driving-vehicle-taxi-ride-hailing-service-electric-car-1483348?amp=1
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 58
-    images:
-      - url: https://d.newsweek.com/en/full/1561809/cruise-origin.png
-        width: 1283
-        height: 970
   - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
     excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
     publishedDateTime: 2020-01-13T00:26:00Z
@@ -264,6 +253,21 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
+  - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
+    excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
+    publishedDateTime: 2020-01-22T06:49:00Z
+    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/
+    ampUrl: https://amp.detroitnews.com/amp/4530535002
+    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
+        width: 640
+        height: 480
   - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
     excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
     publishedDateTime: 2020-01-22T01:42:00Z
@@ -393,6 +397,6 @@ related:
         width: 800
         height: 420
 
-secured: "drlkdECLT6rh55altFoC5mnmNRCObzidE+sZxIHiFzl2AkSvs3vh6cDRlVilGgZlXt9X++qM2trA7rYV480mB7l53L1RVxYBebOw/P/OKEIxk3nX3A55caGSYEl0BawYSyCAwVBkFPgzp4h9SsJ44KLG1IalC3x0WTso+LmlvOWXAp8EetfUMULG/LgpKpD5zRF804dXC8coGICd35h3V7sQMpTiijNOiUNRZbbLxPbuRanLMiCJCpNfOJ7zyUVi+wIPWH4lz1f+pm+syQCuyLYD+NpxF+GuTPMs5LqJ8CM=;KcIyH89a7XWAdDCmyel+1w=="
+secured: "trjC4mybEfVtaWlQ/8Jk5HgA391PgRdunivbqSkGDSn7bA+/SUg9pNIGeJ1A0VEcMrJvMt8wUCIklSXTu7ISBvtsP8cxklHumNyf/qMzc6SCRPUgPZD/ZBExdvWBjWkr0Aw9R+hsyFe6EMMOMQ5uBFpuNO30lc6/1mdyz0evS0TQqSt7ywMH0vday/TC1XP5p3aF6rj4a56cGOZWLsp+bgv+6dRrBoxNOIW25sAWa/aODwNKIdvpvaCk61kcg4qncMJ0tJD0WNtKJ+XgpZeukPZkuWhrKd0ymC3LVCeALM0=;mElMBDrQkj6K43Wns+/wxQ=="
 ---
 
