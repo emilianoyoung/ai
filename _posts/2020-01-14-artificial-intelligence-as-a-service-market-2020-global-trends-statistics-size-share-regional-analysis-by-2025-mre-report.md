@@ -28,98 +28,60 @@ images:
     title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
 
 related:
-  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
-    publishedDateTime: 2020-01-07T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-14
+  - title: "Wearable AI Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 21, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Wearable AI market share. Major industry players with significant revenue share include Google,"
+    publishedDateTime: 2020-01-21T03:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period,2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-07T05:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-rise-at-a-cagr-of-597-forecast-till-2026-2020-01-07
+  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
+    publishedDateTime: 2020-01-22T04:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 47
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 07, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence in Education market share."
-    publishedDateTime: 2020-01-07T05:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
+  - title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
+    excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
+    publishedDateTime: 2020-01-17T10:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-report-2020-competitors-and-their-respective-market-share-rd-status-and-future-projections-2026-2020-01-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Report Forecasts Major Growth in Global Natural Language Processing Market"
-    excerpt: "Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion. FBI credits the anticipated growth to big data, and the need to turn ..."
-    publishedDateTime: 2020-01-10T20:05:00Z
-    sourceUrl: https://mobileidworld.com/fbi-forecasts-major-growth-global-natural-language-processing-market-011003/
+  - title: "Collaborative Robot Market 2019-2023: Key Findings, Regional Analysis, Business Trends, Emerging Technologies and Future Prospects"
+    excerpt: "“Collaborative Robot Market” global collaborative robots market is expected to generate a market value of USD 3538.46 million by 2023 growing at a 54.22%"
+    publishedDateTime: 2020-01-21T10:25:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15152359/collaborative-robot-market-2019-2023-key-findings-regional-analysis-business-trends-emerging-tech
+    ampUrl: https://amp.benzinga.com/amp/content/15152359
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152359
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
     images:
-      - url: https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg
-        width: 2000
-        height: 1400
-  - title: "Artificial Intelligence Market Analysis 2019-2026: Covering Current and Future Growth, Trend, Feasibility, Regional Outlook and Future Forecast"
-    excerpt: "Posted on Jan 8 2020 4:51 AM \"Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc,"
-    publishedDateTime: 2020-01-08T06:05:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-2019-2026-covering-current-and-future-growth-trend-feasibility-regional-outlook-and-future-forecast-2020-01-08-2197555
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
-    excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent."
-    publishedDateTime: 2020-01-08T12:11:00Z
-    sourceUrl: https://www.openpr.com/news/1891892/artificial-intelligence-in-healthcare-global-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
-  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
-    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
-    publishedDateTime: 2020-01-10T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-forces-analysis-revenue-challenges-and-global-forecast-2020-01-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
-  - title: "Cloud Natural Language Processing (NLP) Research Analysis Report by Size, Share, Trends and Growth Forecast, 2018-2025"
-    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Cloud Natural Language Processing (NLP) Market“ By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public, Hybrid, and Private), By Technology (Recognition, Operation, and Analytics), By Application (Voice & Speech Recognition, Data Processing ..."
-    publishedDateTime: 2020-01-13T14:02:00Z
-    sourceUrl: https://www.openpr.com/news/1894966/cloud-natural-language-processing-nlp-research-analysis
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      - url: https://www.abnewswire.com/uploads/1579605621.jpeg
+        width: 800
+        height: 435
 
 secured: "DacENzuG4ieNWJwf88zvViQMxo4XtkJf+pQ/OB9msobO7g4jwFHr/yFgTkENrfE4P8bwGzH4pQnpwVchHQjBWD18tlidxCeFb+Xruk6x9YGrSaF8WGjp5rfOTIWQmp7eiSBQYL19yzE83rTaAnl1r1ZzenqHMhSvvX8dCFbUBKpUgiIbIQDUHfmDW5xA+5qWDGX1mJYA48iaFo3zdCm+zn2T9l/ho8hysiDVe03aySM8hD7t3GHWO+E/9IlRF/sPmPLAbR8D/mADxDrAbRCz5rKmFX78d5EzIYg6taaFE4I=;7N6iGKO9tGh2tFMVBKaZeQ=="
 ---

@@ -24,69 +24,45 @@ images:
     title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
 
 related:
-  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
-    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
-    publishedDateTime: 2020-01-15T22:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
+  - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
+    excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
+    publishedDateTime: 2020-01-13T12:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
-        width: 1447
-        height: 908
-  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-    excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
-    publishedDateTime: 2020-01-21T14:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-  - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
-    publishedDateTime: 2020-01-14T03:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
-    images:
-      - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 627
-  - title: "Global Artificial Intelligence Platforms Market 2019-2023 | 28% CAGR Projection Over the Next Five Years | Technavio"
-    excerpt: "The artificial intelligence platforms market size is poised to grow by USD 6.95 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200122005381/en/ Governments ..."
-    publishedDateTime: 2020-01-22T21:25:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-platforms-market-2019-2023-28-/2020/01/22/9085640.htm
+        height: 630
+  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
+    publishedDateTime: 2020-01-07T13:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-14
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: https://mms.businesswire.com/media/20200122005381/en/768928/4/Global_Artificial_Intelligence_Platforms_Market_2019-2023.jpg
-        width: 480
-        height: 270
-  - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
-    excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
-    publishedDateTime: 2020-01-20T07:20:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15148602/battery-management-system-market-is-poised-to-hit-22-3-billion-by-2030-p-s-intelligence
-    ampUrl: https://amp.benzinga.com/amp/content/15148602
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148602
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period,2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-07T05:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-rise-at-a-cagr-of-597-forecast-till-2026-2020-01-07
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "sUeM13tO/pzEl6nj7zqFvLWw0IIR24rqa+M746/Kh+CSsnYp0HDnkJHt52/4zgd5dT9vOKnU404aLBjmw2i35fuDW4UPfDsGzUnSRE26tnkR36E5YTbQvhVoP2Upk2jZfnfzFYSbTjorZP0wWyXGxBA+kme1rd+0LcCxzqCij8t9Rbp1j0eKqDjpFdiY9Pmlje8BX7ktsCaG30Q/otfOhORJSYgXNA710kFVzZJ+wsuIIC/FOd1bzqThjj8q02hmKFGNK+k5a1ocPoGexMJgklV7MVOq6qkPCY5FwSdDAS8nde+NyLXcK9rUr6Sgo3MKJhUHTZMR4n1787EPKjZLz9CJlz4XU5R9rlgaBjDrr4mMhogUr/jvCGdyV/z9OFStea0CAecdE+z4HTED/N7J84kZ1jy6CaNVNggz+pcRdbgdm/LXg4tQe8p1tpqS3PBVn66cd7swMJMP8knKTWY+dQ==;H2AyqRWKBOWbkbrLdsNaTg=="
 ---

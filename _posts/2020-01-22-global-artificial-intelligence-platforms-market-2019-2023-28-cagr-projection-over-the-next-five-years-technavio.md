@@ -62,19 +62,6 @@ related:
       - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
         width: 1200
         height: 627
-  - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
-    publishedDateTime: 2020-01-13T08:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
   - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
     excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
     publishedDateTime: 2020-01-20T07:20:00Z

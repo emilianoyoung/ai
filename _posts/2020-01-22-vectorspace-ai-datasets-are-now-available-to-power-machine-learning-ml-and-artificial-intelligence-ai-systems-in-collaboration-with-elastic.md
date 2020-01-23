@@ -5,8 +5,8 @@ excerpt: "announces datasets that power data engineering, machine learning (ML) 
 publishedDateTime: 2020-01-22T15:15:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/vectorspace-ai-datasets-are-now-available-to-power-machine-learning-ml-and-artificial-intelligence-ai-systems-in-collaboration-with-elastic-300991397.html
 type: article
-quality: 50
-heat: 50
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
   - Machine Learning
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 315
     title: "Vectorspace AI Datasets are Now Available to Power Machine Learning (ML) and Artificial Intelligence (AI) Systems in Collaboration with Elastic"
 
-secured: "QMXQemNVWLpzQPa2cyu2FlHhgMicFUn57v17r+mzq5fHMIEgVqbACPsa3np/FfEeFx1Mhoc2NomxioWpYfc2C1RsToEuCTRderMEeLBavR994xRlfjex964pVWPjl0WZwcf0JSxGDl154NG1Zizv076oMT/yRG9dY9SCyKaHYZEAZ6JVWMKU3YgeBvrmK3fRrJz+XXGsp2MXGe/Q2HyQ4Uj65XsU7ymw149sHHWqmW1XCqK9DrHU2xFFPlxtcDXuUdEROPhqE5+OYot41Yv0jUQFHmuS6N/kqKKxK9xbrrs=;vg00T+ZeK1SERztxTJ8Y5w=="
+secured: "V9mwYZjIX4xryPeMPMbGFMGfXVninLq3QF4yK3Lrf25mQ6kIg3UuVoBU4io/neD4oiReHS3JsDQaG2d3L+fo9d/2+ojkubZqjZ2Xz9KHZ7UoWYoSZFENr6zH0hFjpKWsHDBCJNree6b87Z2nOsOcEtAI5wnTxCqCfnGPlCBQTQGXeAU9m+o6xGJlJGuqHb7xh9HikypyzPCysN5FUKnEGdT2gWXYOd+84R5ESDAqK3F2aNEFtzFEtnnyhid/i+zqva3TCUEcx5mjYYqUnVHT0GJqitShXHtZW3JHzEGXIyoGSl9bBw8NZq0TOvHxUomU;LlRgeiAdP0MV/eLzuHwmdg=="
 ---
 

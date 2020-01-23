@@ -2,18 +2,22 @@
 category: news
 title: "Amazon’s AutoGluon automates deep learning for devs"
 excerpt: "Amazon has created an open source toolkit for automated machine learning, called AutoGluon, designed to make it easier for software developers to take advantage of deep learning models in their applications. AutoGluon is intended for both machine learning experts and beginners, the company says. Officially launched January 9, AutoGluon lets ..."
-publishedDateTime: 2020-01-10T11:15:00Z
-sourceUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
-ampUrl: https://www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
-cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+publishedDateTime: 2020-01-10T11:04:00Z
+sourceUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.html
+ampUrl: https://www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
+cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3513516/amazon-s-autogluon-looks-to-make-deep-learning-easier-for-devs.amp.html
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: /assets/images/organizations/infoworld.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -68,6 +72,6 @@ related:
         width: 1365
         height: 617
 
-secured: "LZUIYqh5uScLWE3rEGqMi28+U79YUL0pTZ5aKA7rHwwfWA1H1LmbxfKScaQSZfzKCv8dNeqFtm4liLc4EsJ+/eONMC0/HxbpgoJ/2NXIAYxvEwB5V0TWNjW3CHo7f9V3F/mvDZEZSR/PTSw37APX8/InxcB3sc/ktswfSY+WyT1OVH0+l678N9UxycZ9U2+X+VBzmbuE2WCFEaryHJSUJahM2q2UQIznXQlcjiY32SnjWCujyPszclX4vk73yIZTb5rbURcmAV77GNQUN6dmTufLuXXhX77NT1+y99muB2Q=;HOZKrZXa7zhl8Bh38nCMjQ=="
+secured: "CW61ZpGzbzErvh3oC95TVi6UtaJpoBz8kHc8xI2qGN1BvGlE+DeigBmmmR8eaataQsZecexeWx+I8OwCYw9EF++F8eCZ2xthbSi6P+Brw0rE1B6Rou1NN2p0yZHpjmsJWzUz59Hem1MaPN7WQ9rVVA9JtmY4efjAkyzYCtsf71JjdgkbX7AmFldOwtO40s03hx8LqxIJNIKj9i30MNzTSZ15vy1JAqRn6H+t3PGmXOr3B/ffzYfsq+hd7mFwK9jYaVxnpx+t5+rSJAQAVnGIjqlxCAqD1RWjSrzfEAA5p4wYWCWmG91PeZKx9QlCw11C;VjWrVJ+MXnCN3ZIybw88KQ=="
 ---
 

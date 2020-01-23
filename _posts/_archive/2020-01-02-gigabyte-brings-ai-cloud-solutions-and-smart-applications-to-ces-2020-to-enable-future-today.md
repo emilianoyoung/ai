@@ -61,7 +61,20 @@ related:
       name: Deep
       domain: thefastmode.com
     quality: 10
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
+    publishedDateTime: 2020-01-03T14:43:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 9
+    images:
+      - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
+        width: 512
+        height: 512
 
-secured: "l3Dt0cqSFFxZupQ5s9SmPxfhiM9f7KP3QnilWryhBjBwSDQlgVbQBqy0EtzDmL+O3Jwj27ypSLsVnSNksY3V9R/Ca2FZghuiSZFU9G/Xri+lRaJqlGXHPY+AWQN7G/bl/5RIGCtSy6L78qvON6GhS3Jju22OZwhFbluk3VP6BPAcf9HixCfP2cuJSjmrYZ5y44oyqZ8UUjusOe408HQRfeTLiQTOewroPUzpOGy0joCUg0g3xai5y8wNBBgqPbMru8NDlAVTXDaKyDAJ+sx3/uxl4u9k6bEtOtPSYf9pnbs/6rh7ASs7ZbgQWm/Se3NdVVkyZYMSu9BaoZPWONUpEd/xGfRZPPXzyn46VPL7lAX6L9sHBRx8YQsbmA0vhgkiSzD9Jn8mJwjjJpwY24d9t1jzb3VvLiMk/0wmiya1g8SHU+LpQkGbeA+d+2S8AAkM3e7uxOvNNbcjjOiknoIPAA==;LqFrj3AwP9UDXNHkMB2rDQ=="
+secured: "I3+zX8/KA13TYw58SBWZ6u0W2O1GmB6zNqdKumxx1iBDr7e8JU5uADGUggTBp+77vlaIrJF6b3G91sIeWC7GEbhMOVlvmsIpGKcjAIF7WEoQUFuJOHwr5JZ1/b+c9KPetTqHdWZV5kd+39sjiyJ8fergZOlBvhwYCe/oz/Wa2vXnYLVfD0wDG8xuvLUqLLFdOKKGpFCIov/S32hgECX5PfZNdgQfH6L/XPnZ8P/xsNcdkKURuo3U+bKndQuerGwUYEMda20h6hz7w9eboXzfLKCv2QL8Qhn9q8BMFDH7xM65iOl/179e3E79oodw1Cjb;SZa6xLKN80/0+eSW4wtP/A=="
 ---
 
