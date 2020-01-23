@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Baidu secures licenses to test self-driving cars in Beijing"
-excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test driverless cars carrying passengers on designated roads on Beijing ..."
+excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test ..."
 publishedDateTime: 2019-12-31T16:58:00Z
 sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
 ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
@@ -77,6 +77,6 @@ related:
       domain: cpapracticeadvisor.com
     quality: 4
 
-secured: "IaRRcgFne7NYwzA9s9LqVKWh8abktelqRdQ7F9qu7koUzGajFizIoGWUgYbub0fU8YI6ZTLQrZKFIeIO5kYOMWrWLsIyfTXKZfpUDlQXPgYzQXvbPBy3AFOpSKZsBVkbbeMNNVtgxjfnIwMM2s5uKEe5PGrkkxB5/awO0YmaFoATnMjeYX96YpKoxHj/RWTnk29+6VWpqzvELLvOer1W+1ps0vQBv9Pl3isi/I6lBSCI3j/3PClADknGRHgm2PUg0egbiUsxSOu6HBTFiNYfKr8r0BxvmvA+WlUZO05G2iauXxxER4ouFSdluMVuP7V+;BlljNf+60aZlefIAjRD3vA=="
+secured: "gGwAtYaby3kBmBPjr9RPyqLpoijiqMi2gWMrDzisRR/BI4C7dc/jvI/suB0K2SqgJksngc6ZX5ZTv1D1oT6XNAUVRLSBNKb5GdZjSYR/0ktivgKnZ1dBqjSTjGbpyDIuoxog6EFRUqjEM2ljj3B/rHJPWilQCXJRJTw729y3OGf3ncBY/GXmdG9g6fBZuS1oE3Sg739MHd2IFgycOXC2V5wbghL4iO3ZmDL0L8C4S2mRpH6KCLi9lqkDpX0PN/2sxt8dajmyvksXM8+L7sJMiXy+ZqWtWxMNe31Oeg4L/QdqzYF12IByDIlZM0+grv8Q;6cq/M0pOLdgHaZQHIPGblg=="
 ---
 

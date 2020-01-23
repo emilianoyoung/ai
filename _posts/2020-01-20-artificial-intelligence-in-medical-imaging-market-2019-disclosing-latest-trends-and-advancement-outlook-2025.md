@@ -40,6 +40,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Platform Market Technology Advancements and Future Scope 2020 to 2026"
+    excerpt: "The Artificial Intelligence Platform Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2020-2026. The Artificial Intelligence Platform Market report is a valuable source of insightful data for business strategists."
+    publishedDateTime: 2020-01-23T07:24:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-technology-advancements-and-future-scope-2020-to-2026-2020-01-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "WcDTOHCRxRWRDSj5IeAisn2hGJGCc1zRsfThMGE00QhipuhO/cD/4fPlY2f0Wv/7N8YrqQ2eOq+OeYxdDFDEVg1ExiAo7fYo1GSmVxxYeve1t6Ufg/iwtD/pGAX7wNUc4G86RX2Bk2rZcrn+C34xAQ9FRSUX/R5IlgNLm3dstBiIR4hdnFGikrq0lC8CkkFMCDa59Eni11TEhneD6hqivhU/5ThlCFJ7tQDOYdbbsaKeU3S5UTybIXJ/HKrLv2rx5+9uJB7PwdxyG5JFlhAPnSEyjKUPCMQb44Zj8p6iDeM=;s2mjWQcalbMAskjCIWYC9w=="
 ---
