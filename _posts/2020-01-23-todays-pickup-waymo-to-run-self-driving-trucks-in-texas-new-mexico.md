@@ -71,6 +71,34 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
         width: 600
         height: 350
+  - title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
+    excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
+    publishedDateTime: 2020-01-23T19:24:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/
+    ampUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "Waymo Self-driving Minivans Take To More US Roads"
+    excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
+    publishedDateTime: 2020-01-23T18:35:00Z
+    sourceUrl: https://www.ibtimes.com/waymo-self-driving-minivans-take-more-us-roads-2908264
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/23/self-driving-waymo-chrysler-pacifica-minivans-and-long.jpg
+        width: 1024
+        height: 640
   - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
     excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
     publishedDateTime: 2020-01-22T10:46:00Z

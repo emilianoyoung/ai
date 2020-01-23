@@ -414,6 +414,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/qlSIvIjsFWvc-xUok2uPzgvC_tQ=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SQXXU3R5MYI6VL7CBEHLG63AWE.jpg
         width: 1440
         height: 918
+  - title: "Rogue NYPD cops are using facial recognition app Clearview"
+    excerpt: "Rogue NYPD officers are using facial recognition software that the department’s own facial recognition unit doesn’t want to touch because of concerns about security and potential for abuse, The Post has learned. The NYPD’s facial recognition unit kicked the tires on a controversial app, Clearview, which has scraped millions of photos from ..."
+    publishedDateTime: 2020-01-23T17:23:00Z
+    sourceUrl: https://nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/
+    ampUrl: https://nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/amp/
+    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/01/23/rogue-nypd-cops-are-using-sketchy-facial-recognition-app-clearview/amp/
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: https://thenypost.files.wordpress.com/2020/01/nypd-3-1.jpg?quality=90&strip=all&w=1200
+        width: 1200
+        height: 800
   - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
     excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
     publishedDateTime: 2020-01-20T17:27:00Z

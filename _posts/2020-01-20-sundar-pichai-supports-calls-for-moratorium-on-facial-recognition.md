@@ -26,124 +26,96 @@ images:
     title: "Sundar Pichai supports calls for moratorium on facial recognition"
 
 related:
-  - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
-    excerpt: "The project applied Google-developed object recognition AI to drone surveillance technology. Google vowed in its AI principles not to create AI that would harm people, but Pichai noted that \"principles that remain on paper are meaningless\" without action, pointing to the tools Google has developed and open-sourced to test AI for \"fairness\"."
-    publishedDateTime: 2020-01-20T12:16:00Z
-    sourceUrl: https://www.zdnet.com/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
-    ampUrl: https://www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ceo-sundar-pichai-this-why-ai-must-be-regulated/
+  - title: "Dem senator presses facial recognition company after reports of law enforcement collaboration"
+    excerpt: "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement."
+    publishedDateTime: 2020-01-23T16:54:00Z
+    sourceUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law
+    ampUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: The Hill
+      domain: thehill.com
+    quality: 148
+    images:
+      - url: https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg
+        width: 980
+        height: 551
+  - title: "The European Union considering temporary facial recognition ban"
+    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
+    publishedDateTime: 2020-01-19T16:40:00Z
+    sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
     quality: 89
     images:
-      - url: https://zdnet4.cbsistatic.com/hub/i/2020/01/20/8a43aa65-ab15-4748-ae46-fd15a2c75df8/googlesundarpichaicbs.jpg
-        width: 1101
-        height: 828
-  - title: "Alphabet CEO Sundar Pichai explains why AI needs to be regulated"
-    excerpt: "This is the stance of Alphabet (parent company of Google) CEO Sundar Pichai, expressed in the form of an op-ed article in the Financial Times Monday. Pichai calls AI \"one of the most promising new technologies,\" but also highlights possible risks stemming from careless use of AI, naming a few historical examples in which breakthrough new tech ..."
-    publishedDateTime: 2020-01-20T14:28:00Z
-    sourceUrl: https://mashable.com/article/sundar-pichai-alphabet-ai-google/
-    ampUrl: https://mashable.com/article/sundar-pichai-alphabet-ai-google.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/sundar-pichai-alphabet-ai-google.amp
+      - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
+        width: 800
+        height: 560
+  - title: "Law enforcement is using a facial recognition app with huge privacy issues"
+    excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
+    publishedDateTime: 2020-01-18T19:45:00Z
+    sourceUrl: https://www.engadget.com/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+    ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
+        width: 600
+        height: 350
+  - title: "Clearview AI Says Its Facial Recognition Software Identified A Terrorism Suspect. The Cops Say That's Not True."
+    excerpt: "But there are troubling questions about its past. By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 23, 2020, at 8:19 a.m. ET Clearview AI, a facial recognition company that says it’s amassed a database of billions of photos, has a fantastic selling point it offers up to police departments nationwide: It cracked a case of ..."
+    publishedDateTime: 2020-01-23T13:28:00Z
+    sourceUrl: https://www.buzzfeednews.com/article/ryanmac/clearview-ai-nypd-facial-recognition
+    ampUrl: https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition
+    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 86
+    images:
+      - url: https://img.buzzfeed.com/buzzfeed-static/static/2020-01/22/19/asset/933f4b4c5e00/sub-buzz-1614-1579719794-12.png?output-quality=auto&output-format=auto&downsize=640:*
+        width: 640
+        height: 341
+  - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
+    excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
+    publishedDateTime: 2020-01-18T21:39:00Z
+    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt/
+    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-nyt.amp
     type: article
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 87
+    quality: 85
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F20%252F79%252F61988a2acf3348d3985c33672ff66ae4.70784.jpg%252F1200x630.jpg?signature=ugPIR8TnhrvpRwI6agEgUWNPm6E=
+      - url: https://mondrian.mashable.com/2020%252F01%252F18%252F70%252F2b1b4ace8b224d6384a8c1f7260572fc.e70ff.jpg%252F1200x630.jpg?signature=aZyPGadLiymI3dJjpvv7OE2nG20=
         width: 1200
         height: 630
-  - title: "Google boss Sundar Pichai calls for AI regulation"
-    excerpt: "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ..."
-    publishedDateTime: 2020-01-20T16:39:00Z
-    sourceUrl: https://www.bbc.com/news/technology-51178198
-    ampUrl: https://www.bbc.com/news/amp/technology-51178198
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg
-        width: 1024
-        height: 576
-  - title: "Google’s Sundar Pichai doesn’t want you to be clear-eyed about AI’s dangers"
-    excerpt: "What technologists fear most here is rules that tell them when artificial intelligence absolutely cannot apply. Ethics and principles are, to a degree, mutable concepts — and ones which the tech giants have become very practiced at claiming as their own, for PR purposes, including by attaching self-styled ‘guard-rails’ to their own AI ..."
-    publishedDateTime: 2020-01-20T14:45:00Z
-    sourceUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/
-    ampUrl: https://techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/20/googles-sundar-pichai-doesnt-want-you-to-be-clear-eyed-about-ais-dangers/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024
-        width: 1024
-        height: 692
-  - title: "Artificial Intelligence Needs To Be Regulated: Alphabet CEO"
-    excerpt: "(RTTNews) - The chief executive officer of Google's parent company Alphabet called for artificial intelligence or AI to be regulated, noting that there are real concerns about the potential negative consequences of the technology. According to Alphabet CEO Sundar Pichai, there are real concerns about the negative consequences of AI, from ..."
-    publishedDateTime: 2020-01-21T14:48:00Z
-    sourceUrl: https://www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21
-    ampUrl: https://www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-needs-to-be-regulated%3A-alphabet-ceo-2020-01-21?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 87
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
-  - title: "Google CEO Sundar Pichai: We must be 'clear-eyed' about how AI could go wrong"
-    excerpt: "CEO of Google and Alphabet Sundar Pichai is convinced that AI must be regulated in order to prevent the potential negative consequences of tools including deepfakes and facial recognition, he said in an op-ed for the Financial Times on Monday. \"There is no question in my mind that artificial intelligence needs to be regulated,\" Pichai wrote."
-    publishedDateTime: 2020-01-20T13:18:00Z
-    sourceUrl: https://www.cnet.com/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
-    ampUrl: https://www.cnet.com/google-amp/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ceo-sundar-pichai-we-must-be-clear-eyed-about-how-ai-could-go-wrong/
+  - title: "Clearview facial recognition app may pose 'chilling' privacy risk, senator says"
+    excerpt: "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ..."
+    publishedDateTime: 2020-01-23T19:34:00Z
+    sourceUrl: https://www.cnet.com/news/senator-demands-answers-from-clearview-ai/
+    ampUrl: https://www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 86
+    quality: 85
     images:
-      - url: https://cnet3.cbsistatic.com/img/Yd9SnO_SRhGLteB_TlXsc14Glbs=/756x567/2019/12/03/93defff7-eed2-4114-907a-8228f1792e87/sundar-pichai-google-ceo-4.jpg
+      - url: https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg
         width: 756
         height: 567
-  - title: "Google's Sundar Pichai wants more regulation on artificial intelligence"
-    excerpt: "Google’s CEO, Sundar Pichai, has called for the regulation of artificial intelligence (AI) in a piece for the Financial Times ... some AI uses such as medical devices but that they would need to be expanded upon for areas such as self-driving vehicles. While Pichai’s desire for regulation may seem well-intentioned, caution must also ..."
-    publishedDateTime: 2020-01-20T19:06:00Z
-    sourceUrl: https://www.neowin.net/news/googles-sundar-pichai-wants-more-regulation-on-artificial-intelligence
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579544315_pichai_story.jpg
-        width: 760
-        height: 428
-  - title: "Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated"
-    excerpt: "Alphabet and Google CEO Sundar Pichai. Photo by Vjeran Pavic / The Verge Google and Alphabet CEO Sundar Pichai has called for new regulations in the world of AI, highlighting the dangers posed by technology like facial recognition and deepfakes, while stressing that any legislation must balance “potential harms ... with social opportunities.”"
-    publishedDateTime: 2020-01-20T10:30:00Z
-    sourceUrl: https://www.theverge.com/2020/1/20/21073682/ai-regulation-google-alphabet-ceo-sundar-pichai
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/20/21073682/ai-regulation-google-alphabet-ceo-sundar-pichai
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/20/21073682/ai-regulation-google-alphabet-ceo-sundar-pichai
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: https://cdn.vox-cdn.com/thumbor/seXfCZxKybpW6F3DxoXHbv7v26Q=/0x0:2040x1530/1400x933/filters:focal(857x602:1183x928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132207/vpavic_171003_2029_0067.0.jpg
-        width: 1400
-        height: 933
   - title: "Sundar Pichai calls for moratorium on facial recognition"
     excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
     publishedDateTime: 2020-01-20T17:43:00Z
@@ -159,414 +131,184 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
-  - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
-    publishedDateTime: 2020-01-20T21:07:00Z
-    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
+  - title: "What you need to know about Clearview AI and its facial recognition app"
+    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
+    publishedDateTime: 2020-01-20T15:36:00Z
+    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
+    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 72
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 74
     images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-        width: 863
-        height: 545
-  - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
-    excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
-    publishedDateTime: 2020-01-20T20:51:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/20/sundar-pichai-offers-a-cryptic-warning-against-over-regulating-ai/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg
-        width: 796
-        height: 417
-  - title: "Sundar Pichai says AI should be regulated, asks governments to step up"
-    excerpt: "Alphabet and Google CEO Sundar Pichai wrote an op-ed in the Financial Times today outlining the need for regulating AI. Pichai highlighted that deepfakes and “repressive uses of facial ..."
-    publishedDateTime: 2020-01-20T09:04:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/20/sundar-pichai-says-ai-should-be-regulated-asks-governments-to-step-up/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg
-        width: 796
-        height: 417
-  - title: "Alphabet CEO Sundar Pichai says it’s ‘no question’ artificial intelligence needs regulation"
-    excerpt: "With several Bay Area cities moving to stop the use of facial recognition technology, the chief executive of one of the area’s tech giants has come out in favor of stricter, and more widespread regulation of such types of artificial intelligence technologies."
-    publishedDateTime: 2020-01-20T16:45:00Z
-    sourceUrl: https://www.mercurynews.com/2020/01/20/alphabet-ceo-sundar-pichai-says-its-no-question-artificial-intelligence-needs-regulation/
-    ampUrl: https://www.mercurynews.com/2020/01/20/alphabet-ceo-sundar-pichai-says-its-no-question-artificial-intelligence-needs-regulation/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/01/20/alphabet-ceo-sundar-pichai-says-its-no-question-artificial-intelligence-needs-regulation/amp/
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 62
-    images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2018/12/Google-CEO-Congress.jpg?w=1024&h=683
+      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
         width: 1024
-        height: 682
-  - title: "Google CEO wants co-ordinated rules on artificial intelligence"
-    excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI), calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said that existing rules like Europe’s privacy legislation, known as ..."
-    publishedDateTime: 2020-01-20T14:21:00Z
-    sourceUrl: https://www.businesslive.co.za/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
-    ampUrl: https://www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
-    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-01-20-google-ceo-wants-co-ordinated-rules-on-artificial-intelligence/
+        height: 512
+  - title: "Facial Recognition App Used by Law Enforcement Agencies Detailed in Troubling New Report"
+    excerpt: "Over the past year, more than 600 law enforcement agencies have started utilizing a facial recognition app developed by the \"tiny company\" Clearview AI. The privacy-poisoning app, which allows users to potentially match a name to a face within seconds ..."
+    publishedDateTime: 2020-01-20T17:58:00Z
+    sourceUrl: https://www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+    ampUrl: https://amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
+    cdnAmpUrl: https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
     type: article
     provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 61
+      name: Complex
+      domain: complex.com
+    quality: 65
     images:
-      - url: https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000
-        width: 1000
-        height: 652
-  - title: "Google CEO: 'Artificial intelligence needs to be regulated'"
-    excerpt: "Google CEO Sundar Pichai is calling for governments around the world to regulate artificial intelligence, saying the sensitive technology should not ... go too far as they work to rein in high-stakes technologies like facial recognition and self-driving vehicles. His speech in Europe and companion op-ed come as Europe weighs new ethics ..."
-    publishedDateTime: 2020-01-21T18:25:00Z
-    sourceUrl: https://thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated
-    ampUrl: https://thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479176-google-ceo-artificial-intelligence-needs-to-be-regulated?amp
+      - url: https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/h3znpz9affmqxjtkm8a1.jpg
+        width: 394
+        height: 222
+  - title: "Facial recognition’s risks demand a temporary halt"
+    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
+    publishedDateTime: 2020-01-21T18:16:00Z
+    sourceUrl: https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    ampUrl: https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 61
-    images:
-      - url: https://thehill.com/sites/default/files/pichaisundar_121118gn14_lead.jpg
-        width: 980
-        height: 551
-  - title: "Alphabet, Google CEO: Artificial intelligence needs to be regulated"
-    excerpt: "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and trucks —a move to advance a light-touch approach to tech regulation that contrasts with ..."
-    publishedDateTime: 2020-01-20T12:36:00Z
-    sourceUrl: https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/
-    ampUrl: https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
+      name: The Financial Times
+      domain: ft.com
     quality: 59
     images:
-      - url: https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg
-        width: 1200
-        height: 628
-  - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "Google’s chief executive Sundar Pichai addresses the audience during an event on artificial intelligence at the Square in Brussels ... SAN FRANCISCO (AP) — General Motors’ self-driving car company will attempt to deliver on its long-running promise to provide a more environmentally friendly ride-hailing service in an unorthodox vehicle ..."
-    publishedDateTime: 2020-01-20T20:24:00Z
-    sourceUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/
-    ampUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
+    excerpt: "A secretive facial recognition software used by hundreds of police forces is raising concerns after a New York Times investigation said it could \"end privacy as we know it.\" Clearview A.I. has extracted more than three billion photos from public web sites like Facebook, Instagram, employment sites and others, and used them to create a ..."
+    publishedDateTime: 2020-01-22T00:24:00Z
+    sourceUrl: https://www.cbc.ca/radio/thecurrent/the-current-for-jan-21-2020-1.5434328/the-end-of-anonymity-facial-recognition-app-used-by-police-raises-serious-concerns-say-privacy-advocates-1.5435278
+    ampUrl: https://www.cbc.ca/amp/1.5435278
+    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5435278
     type: article
     provider:
-      name: WRBL
-      domain: wrbl.com
-    quality: 59
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 56
     images:
-      - url: https://www.wrbl.com/wp-content/uploads/sites/24/2020/01/Google-CEO-Sundar-Pichai-Jan-20-2020-in-Brussels-AP-Photo-Virginia-Mayo.jpeg?w=1000&h=666&crop=1&resize=1280,720
-        width: 1280
-        height: 720
-  - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
-    excerpt: "Among the areas that AI has been touted as being used for are visual perception, speech recognition and language translation. Last year, several Bay Area cities, including Oakland, San Francisco, Berkeley and Alameda banned the use of facial recognition technology by law enforcement officers on the grounds that it could violate individuals ..."
-    publishedDateTime: 2020-01-21T23:44:00Z
-    sourceUrl: https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html
-    ampUrl: https://www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/AI-Is-Promising-but-Needs-Regulation-Says-Alphabet-CEO.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: https://media2.govtech.com/images/connected+city.jpg
-        width: 944
-        height: 630
-  - title: "AI Is Too Important To Not Be Regulated: Sundar Pichai"
-    excerpt: "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ..."
-    publishedDateTime: 2020-01-21T13:56:00Z
-    sourceUrl: https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/
-    ampUrl: https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/amp/?utm_medium=Social&utm_source=telegram
-    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/amp/?utm_medium=Social&utm_source=telegram
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg?fit=1360%2C1020&#038;ssl=1
-        width: 1360
-        height: 1020
-  - title: "Surprise: Google CEO Still Dancing Around AI Regulations"
-    excerpt: "But it warrants reminding those very same principles still allowed it to actively develop AI meant to kill people. Obviously, the situation's much more nuanced than that; Washington's geopolitical rivals are hardly concerned by ethics when it comes to military tech. Yet it's high time for legislators to start drawing some lines. And ..."
-    publishedDateTime: 2020-01-22T01:48:00Z
-    sourceUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance
-    ampUrl: https://www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
-    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/01/google-ceo-ai-regulations-dance/amp
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: https://cdn.androidheadlines.com/wp-content/uploads/2019/04/AH-AI-new-logo-11-AH-2019.jpg
-        width: 1600
-        height: 899
-  - title: "AI must be regulated, Google boss says"
-    excerpt: "Artificial intelligence is “too important” not to be regulated because of the damage it could cause if left unchecked, the boss of Google has said. Sundar Pichai said the correct use of AI had the potential to save lives, but issues such as deepfakes and the “nefarious uses of facial recognition” showed it could also be a danger to ..."
-    publishedDateTime: 2020-01-20T11:48:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/technow/ai-must-be-regulated-google-boss-says-976505.html
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 57
-    images:
-      - url: https://www.irishexaminer.com/remote/image.assets.pressassociation.io/v2/image/production/462ca60959fa7aac0d10abfec7a6f779Y29udGVudHNlYXJjaCwxNTc5NjAzNDg0/2.29181258.jpg?crop=0,0,3000,1687&ext=.jpg&width=600&?s=bn-976505
-        width: 600
-        height: 337
-  - title: "Alphabet and Google CEO Sundar Pichai calls for AI regulation"
-    excerpt: "In his first big public move since being appointed the CEO of Alphabet last month, Sundar Pichai today called for AI regulation to govern how the promising new technology is leveraged. Picahi published an opinion in the UK’s Financial Times today bluntly noting how “artificial intelligence needs to be regulated.” In his view, companies ..."
-    publishedDateTime: 2020-01-20T05:20:00Z
-    sourceUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/
-    ampUrl: https://9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
-    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/01/19/sundar-pichai-ai-regulation/amp/
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 57
-    images:
-      - url: https://9to5google.com/wp-content/uploads/sites/4/2019/10/google_logo_2.jpg?quality=82&strip=all&w=1000
-        width: 1000
-        height: 500
-  - title: "Google CEO Calls for Government Regulation of Artificial Intelligence"
-    excerpt: "Alphabet and Google CEO Sundar Pichai called for government regulation of artificial intelligence technology on Monday. “There is no question in my mind that artificial intelligence needs to be regulated."
-    publishedDateTime: 2020-01-20T16:00:00Z
-    sourceUrl: https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/
-    ampUrl: https://www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/google-ceo-calls-for-government-regulation-of-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 57
-    images:
-      - url: https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/Facial-Recognition-.jpg?fit=1200%2C700&ssl=1
-        width: 1200
-        height: 700
-  - title: "Google CEO supports AI regulation to limit \"negative consequences\""
-    excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the E.U. commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
-    publishedDateTime: 2020-01-20T14:51:00Z
-    sourceUrl: https://www.cbsnews.com/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
-    ampUrl: https://www.cbsnews.com/amp/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-ceo-supports-ai-regulation-to-limit-negative-consequences/
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: https://cbsnews1.cbsistatic.com/hub/i/r/2018/12/11/e3fc3bfc-a39d-423c-9add-380a04d6b7fb/thumbnail/1200x630g2/32ce44f3e586b4ae63598cf3ea490767/gettyimages-1080946342.jpg
-        width: 1200
-        height: 630
-  - title: "Google CEO supports government regulation of artificial intelligence"
-    excerpt: "MOUNTAIN VIEW, Calif — You probably don’t have to stretch your imagination to realize artificial intelligence has the potential to spiral deep into dangerous territory. Remember \"The Terminator\"? But this emerging technology comes with inherent risks that could cause problems long before we find ourselves trapped in a Hollywood-inspired ..."
-    publishedDateTime: 2020-01-21T00:57:00Z
-    sourceUrl: https://www.wtsp.com/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
-    ampUrl: https://www.wtsp.com/amp/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
-    cdnAmpUrl: https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/google-ceo-sundar-pichai-supports-government-regulation-of-artificial-intelligence/67-a169939e-b4de-45a9-b6a6-cf55ddc572ea
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 57
-    images:
-      - url: https://media.wtsp.com/assets/WTSP/images/af91cf10-ae93-45c0-a767-233fc2d2139a/af91cf10-ae93-45c0-a767-233fc2d2139a_360x203.jpg
-        width: 360
-        height: 203
-  - title: "Google CEO calls for AI regulation to avoid 'negative consequences' of thinking machines"
-    excerpt: "In 2018, Google pledged not to use AI in applications related to weapons, surveillance that violates international norms, or that works in ways that go against human rights. Pichai was also due on Monday to meet Frans Timmermans, the EU commissioner overseeing the European Green Deal, the bloc's plan to fight climate change by making the ..."
-    publishedDateTime: 2020-01-20T14:08:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/google-ceo-calls-for-ai-regulation-to-avoid-negative-consequences-of-thinking-machines
-    ampUrl: https://www.foxbusiness.com/technology/google-ceo-calls-for-ai-regulation-to-avoid-negative-consequences-of-thinking-machines.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-ceo-calls-for-ai-regulation-to-avoid-negative-consequences-of-thinking-machines.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 48
-    images:
-      - url: http://media.foxbusiness.com/BrightCove/854081161001/202001/3712/854081161001_6124332457001_6124328270001-vs.jpg
-        width: 1280
-        height: 720
-  - title: "Hashtag Trending – Google CEO calls for AI regulation; gotta hand it to Amazon; adult site leaks data"
-    excerpt: "Google has its own AI principles to help guide this work, but Pichai said there’s still a lot to be done and that “principles that remain on paper are meaningless.” Numerous sci-fi books and movies have broached the idea of implanted chips in humans allowing them to perform such actions as paying for an item by simply swiping their hand ..."
-    publishedDateTime: 2020-01-21T10:29:00Z
-    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289
-    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289?amp=1
-    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-ceo-calls-for-ai-regulation-gotta-hand-it-to-amazon-adult-site-leaks-data/426289?amp=1
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 44
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg
+      - url: https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG
         width: 620
-        height: 250
-  - title: "Alphabet’s Sundar Pichai backs proposed EU facial recognition ban, Microsoft’s Brad Smith disagrees"
-    excerpt: "Alphabet CEO Pichai said facial recognition technology could be used for nefarious purposes But Microsoft President Smith said a ban was akin to using a meat cleaver instead of a scalpel to solve potential problems While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium ..."
-    publishedDateTime: 2020-01-21T02:32:00Z
-    sourceUrl: https://www.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
-    ampUrl: https://amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3046933/alphabets-sundar-pichai-backs-proposed-temporary-eu-facial-recognition
+        height: 349
+  - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
+    excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
+    publishedDateTime: 2020-01-18T18:42:00Z
+    sourceUrl: https://www.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
+    ampUrl: https://amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
+    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 40
-  - title: "Google CEO Adds His Voice to AI Regulation Debate"
-    excerpt: "\"Decisions about hiring, healthcare, insurance and so on should not be made by AI, which has no morality, no ethics, and no sense of social good,\" he continued. \"Machine learning and AI will do whatever they're programmed to do -- whatever the algorithms dictate,\" added Sterling. \"Humans must set limits on the application of these technologies ..."
-    publishedDateTime: 2020-01-21T12:32:00Z
-    sourceUrl: https://www.technewsworld.com/story/86465.html
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 54
+    images:
+      - url: https://m.dw.com/image/41695602_101.jpg
+        width: 1024
+        height: 576
+  - title: "Telangana State Election Commission successfully tests facial recognition technique"
+    excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
+    publishedDateTime: 2020-01-22T17:19:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
+      name: The Hindu
+      domain: thehindu.com
+    quality: 53
+    images:
+      - url: https://www.thehindu.com/news/national/telangana/ndpq8/article30627826.ece/ALTERNATES/LANDSCAPE_615/FACIALRECOGNITIONAPP
+        width: 615
+        height: 384
+  - title: "Twitter sends cease-and-desist letter to facial recognition firm scraping its images"
+    excerpt: "Twitter sent a cease-and-desist letter to Clearview AI, the company that created a vast database of photos scraped from public-facing photos, which can be used with facial recognition software, demanding that it delete any data collected from their service, according to a new report. The New York Times reports that Twitter sent Clearview AI the ..."
+    publishedDateTime: 2020-01-23T15:01:00Z
+    sourceUrl: https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/
+    ampUrl: https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 52
+    images:
+      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Twitter-Clearview-AI-Cease-And-Desist-1024x512.jpg
+        width: 1024
+        height: 512
+  - title: "The facial recognition technology that could identify people through their social media profile"
+    excerpt: "New facial recognition technology created by a \"secretive\" company has been supplied to law enforcement agencies to help identify unknown people through their social media images, according to a report. Clearview AI co-founder Hoan Ton-That's invention has ripped billions of images from Facebook and other sites. The app allows people to take ..."
+    publishedDateTime: 2020-01-21T01:29:00Z
+    sourceUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.html
+    ampUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
+    cdnAmpUrl: https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 47
+    images:
+      - url: https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg
+        width: 768
+        height: 438
+  - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
+    excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
+    publishedDateTime: 2020-01-19T01:10:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7903225/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/19/00/23576338-0-image-a-40_1579395253729.jpg
+        width: 636
+        height: 382
+  - title: "Atlanta Police testing facial recognition technology"
+    excerpt: "ATLANTA — The Atlanta Police Department is one of the few law enforcement agencies in the country using the facial recognition software Clearview AI. Some experts say it's the most powerful facial recognition technology in the world. The company, Clearview, is described as highly secretive. The New York Times first reported the existence of ..."
+    publishedDateTime: 2020-01-23T02:38:00Z
+    sourceUrl: https://www.11alive.com/article/tech/atlanta-police-facial-recognition/85-24f81a29-070e-4692-89df-31000b46c0e7
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
     quality: 39
     images:
-      - url: https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2015-artificial-intelligence-1.jpg
-        width: 620
-        height: 340
-  - title: "Google CEO Calls For AI Governance"
-    excerpt: "“We believe that any company developing new AI tools should also adopt guiding principles and rigorous review processes,” he said in the article. “Government regulation will also play an important role.” He pointed to Europe’s General Data Protection Regulation (GDPR) as being a good start for a “strong foundation.” Google ..."
-    publishedDateTime: 2020-01-20T11:43:00Z
-    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/
-    ampUrl: https://www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/google-ceo-calls-for-ai-governance/amp/
+      - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
+        width: 1140
+        height: 641
+  - title: "An obscure app has scraped 3 billion photos to use for facial recognition and is selling its services to law enforcement"
+    excerpt: "According to a report from the New York Times, a largely unknown company called Clearview AI has been scraping every inch of the internet for photos of faces in order to train facial recognition technology. It has in turn sold access to its massive and comprehensive database to hundreds of law enforcement agencies including the FBI and the ..."
+    publishedDateTime: 2020-01-20T20:16:00Z
+    sourceUrl: https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989
+    ampUrl: https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp
+    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 37
-  - title: "Google CEO calls for balanced regulations on artificial intelligence"
-    excerpt: "Photo: Carsten Koall/Getty Images. Google CEO Sundar Pichai is calling for regulations on artificial intelligence, warning that the technology can bring both positive and negative consequences, AP reports. Why it matters: Lawmakers are largely scrambling to play catch-up on AI regulation as the technology continues to grow. Pichai did not ..."
-    publishedDateTime: 2020-01-20T17:03:00Z
-    sourceUrl: https://www.axios.com/google-ceo-pichai-artificial-intelligence-675c3aa3-c448-43de-9583-f5bc0cafc840.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
+      name: Mic
+      domain: mic.com
+    quality: 34
     images:
-      - url: https://images.axios.com/fgQ_LpBfLVphNGMo277w4HmoUzc=/0x225:4500x2756/1920x1080/2020/01/20/1579537275537.jpg
-        width: 1920
-        height: 1080
-  - title: "Artificial intelligence needs to be regulated, says new Google CEO"
-    excerpt: "EPA/BORIS ROESSLER Alphabet and Google chief Sundar Pichai called for a global regulation of artificial intelligence at a conference in Brussels. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this”, Pichai said, adding that “while AI promises enormous benefits ..."
-    publishedDateTime: 2020-01-21T12:29:00Z
-    sourceUrl: https://www.neweurope.eu/article/artificial-intelligence-needs-to-be-regulated-says-new-google-ceo/
+      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/20/bd31a271-ed90-49ee-b7f5-d2b30bce6220-shutterstock-1108927796.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
+        width: 1200
+        height: 630
+  - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
+    excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
+    publishedDateTime: 2020-01-19T23:18:00Z
+    sourceUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1
+    ampUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1/amp
+    cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp
     type: article
     provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 37
+      name: Business Insider Australia
+      domain: businessinsider.com.au
+    quality: 7
     images:
-      - url: https://www.neweurope.eu/wp-content/uploads/2016/03/Google_07.jpg
-        width: 2048
-        height: 1223
-  - title: "Google CEO calls for artificial intelligence regulation"
-    excerpt: "Google CEO Sundar Pichai on January 20 called for a balanced approach to regulating artificial intelligence, telling a European audience that the technology brings benefits but also \"negative consequences.\" Sundar Pichai's comments come as lawmakers and governments seriously consider putting limits on how artificial intelligence is used."
-    publishedDateTime: 2020-01-21T05:50:00Z
-    sourceUrl: https://www.wionews.com/videos/google-ceo-calls-for-artificial-intelligence-regulation-275642
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 37
-    images:
-      - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png
-        width: 918
-        height: 506
-  - title: "Google CEO thinks AI will be more profound change than fire"
-    excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
-    publishedDateTime: 2020-01-22T16:33:00Z
-    sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 37
-    images:
-      - url: https://s.hdnux.com/photos/01/10/12/34/18917135/3/rawImage.jpg
-        width: 2048
-        height: 1364
-  - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
-    excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
-    publishedDateTime: 2020-01-23T09:05:00Z
-    sourceUrl: https://www.wionews.com/videos/google-ceo-speaks-on-artificial-intelligence-at-wef-in-davos-276113
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 37
-    images:
-      - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg
-        width: 918
-        height: 506
-  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
-    publishedDateTime: 2020-01-21T03:18:00Z
-    sourceUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/
-    ampUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 36
-  - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
-    excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
-    publishedDateTime: 2020-01-21T01:58:00Z
-    sourceUrl: https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html
-    ampUrl: https://www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp
-    cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2020/01/20/google-ceo-calls-for-balanced-approach-regulating-artificial-intelligence/4juFxqeRT3tdk9fHqDv76J/story.html?outputType=amp
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 33
-  - title: "Top News In Payments: UK Regulators’ Data Violation Fines Top $126M; Google CEO Calls For AI Governance"
-    excerpt: "In today’s top payments news, U.K. regulators have levied $126 million in fines for data violations since mid-2018, Google CEO Sundar Pichai calls for international cooperation in artificial intelligence (AI) governance and U.K. open banking startup Tink raises €90 million in a funding round. UK Regulators’ Data Violations Fines Top $126 ..."
-    publishedDateTime: 2020-01-21T01:54:00Z
-    sourceUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/
-    ampUrl: https://www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2020/top-news-in-payments-uk-regulators-data-violation-fines-top-126m/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 21
-  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
-    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
-    publishedDateTime: 2020-01-21T04:43:00Z
-    sourceUrl: https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
+      - url: https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg
+        width: 800
+        height: 462
 
 secured: "9+nVEqRcWnvR84u262Ng7CzLbi8Xabn+RL4XO0NXKSR1wwXxHmhY8915WlT4BaMnUOE0ZSu8MysyZaaMchNFSjC6mkpiCQjkJhO6NKOGzsKR6lGHbAF4shZgrM4qg24A6B6aiOE6qi00kC8x/pRiOlk4tsEiMbO9oo4NCk7dKJiZNxtM+xZ8GHObbz5Jq0UQem5Nv6egStFR/EUSJWVEHl5kjGP2ToYftGQb/ULTZX09bbvXOEC9c03EA3fLnAy3BS6OqbP2loMnxjXHC77QAez0bq7evouo472zU/nTXSEGPrN4nmE9R8RL65+rxw+SrpRD10NgMJbYn4gjQSbRWs3qcSc+YhPK+5AqlGTiTMKjNr28+DTD0WpSWMhJsHY2Vuv6Iwh9Q6aNimoWeYnDYX+SVAg1NMu/LGrLp5couKqvRxkWitqRTMvudrS5GbOPFRx+MtdMMVM8twkjGBAr1w==;Z8vpFWsQDcp8DZfz+XnOaA=="
 ---

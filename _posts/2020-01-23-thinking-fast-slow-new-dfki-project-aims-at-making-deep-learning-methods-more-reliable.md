@@ -24,34 +24,34 @@ images:
     title: "Thinking fast & slow: New DFKI project aims at making Deep Learning methods more reliable"
 
 related:
-  - title: "Investing in 2020: Exploring AI, Machine Learning, & Alt Data"
-    excerpt: "Connecting “data, workflows and financial models into a single integrated system” Patel believes ... an AI-based identity verification service provider. “Using machine learning algorithms, investment data can be optimized to enhance portfolio management, as well as operational efficiency. It leads to better reporting, higher accuracy ..."
-    publishedDateTime: 2020-01-17T10:10:00Z
-    sourceUrl: https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/
-    ampUrl: https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/
-    cdnAmpUrl: https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/
+  - title: "Messy data is slowing down machine learning projects and driving up costs"
+    excerpt: "A new survey from Trifacta quantified the impact of bad data on machine learning (ML) projects with a third of respondents stating that poor data quality causes ML projects to take longer, cost more and fail to hit the anticipated results. About a third of ..."
+    publishedDateTime: 2020-01-23T17:00:00Z
+    sourceUrl: https://www.techrepublic.com/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/
+    ampUrl: https://www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
     images:
-      - url: https://www.financemagnates.com/wp-content/uploads/2020/01/david-metzler-300x300.jpg
-        width: 300
-        height: 300
-  - title: "Vietnam’s schools begin using AI in teaching"
-    excerpt: "Many education establishments in Vietnam have been utilizing AI in school management and teaching, and have had encouraging initial achievements. FPT is the Vietnamese largest IT group in Vietnam. It's FPT University pioneered utilizing AI in its teaching methods and business. According to Dang Hoang Vu, FPT’s Chief Scientist, AI is no longer ..."
-    publishedDateTime: 2020-01-20T07:41:00Z
-    sourceUrl: https://vietnamnet.vn/en/society/vietnam-s-schools-begin-using-ai-in-teaching-609624.html
+      - url: https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg
+        width: 1200
+        height: 675
+  - title: "Uber's Synthetic Training Data Speeds Up Deep Learning by 9x"
+    excerpt: "Using this synthetic data, Uber sped up its neural architecture search (NAS) deep-learning optimization process by 9x. In a paper published on arXiv, the team described the system and a series of experiments. GTN is motivated by the problem of neural architecture search (NAS), which trains many different deep-learning model structures and ..."
+    publishedDateTime: 2020-01-21T14:18:00Z
+    sourceUrl: https://www.infoq.com/news/2020/01/uber-deep-learning-speedup/
     type: article
     provider:
-      name: Vietnamnet
-      domain: vietnamnet.vn
-    quality: 37
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
     images:
-      - url: https://vnn-imgs-f.vgcloud.vn/2020/01/15/19/vietnam-s-schools-begin-using-ai-in-teaching.jpg
-        width: 650
-        height: 434
+      - url: https://res.infoq.com/news/2020/01/uber-deep-learning-speedup/en/headerimage/uber-deep-learning-speedup-1579445542843.jpg
+        width: 2070
+        height: 1449
 
 secured: "JH5gc6UK09/M9VzxtRfdd6dE6tSnvpaIaK7W5cNxSAuyUy6XRnKjIXYh4ldfDaZ5pjo7bFFeUHMEi+FQyuGNwp/t2btPzK8fiRxqm3qGw5nOykSPQ/OTOK1++rUInZ/f5zNt2JtN8fgN0yrWh3Pts0jo2mbfq8H8xDSoTyrikiehH9qq5vf3I4YcOcaNIol/ueVmok1OY38ocTO6fMlb0EsPb4loOkFIIeHSAtGl5aOF92KCFtjzG2DM3GIzshyRM6lYD0+brHCQ+7RorofsDkf2mUCG4O/rmXP+Ij3CiaZEUnrF4CB7lbEXcKlWNlS8EMkn72EE+fUGj9rj+XDmIjM5lbVO3i5XrhjAelIHWy0eri1zvPjKLXKhlUgpDtt1Kc4uj2EJeTR88eJcEkOg0ei/VJsb3LkYhOKMFoD4cAi6KLZKatZeYnV+EeRCK5CHnZkYogE/TCKgn4ooW//x0vG2DZXyYm82A4F3YXNBh+U=;02uDor9EI69KF8J4cl1g7w=="
 ---

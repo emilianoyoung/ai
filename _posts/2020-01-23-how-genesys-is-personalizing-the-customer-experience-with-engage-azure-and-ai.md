@@ -56,6 +56,19 @@ related:
       - url: https://content.indiainfoline.com/_media/iifl/img/misc/2019-09/17/full/hcl-technologies-1568695467-04161350.jpg
         width: 350
         height: 233
+  - title: "Microsoft And Genesys Expand Azure Partnership"
+    excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
+    publishedDateTime: 2020-01-23T20:15:00Z
+    sourceUrl: https://winbuzzer.com/2020/01/23/microsoft-and-genesys-expand-azure-partnership-xcxwbn/
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: https://winbuzzer.com/wp-content/uploads/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-Microsoft.jpg
+        width: 1024
+        height: 803
   - title: "Microsoft Announces New Commitment to Renewable Energy—Greenpeace Response"
     excerpt: "Until today, Microsoft has largely relied on renewable energy credits to offset its use of dirty energy throughout its operations, including the massive data centers that power its Azure cloud. Microsoft’s commitment ... help fossil fuel companies drill more oil and gas with machine-learning and other AI technologies. Teaming up with Exxon ..."
     publishedDateTime: 2020-01-16T20:14:00Z

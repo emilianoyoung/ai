@@ -39,6 +39,19 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579801417_ms-nadella-satyagenesys-ceo-bates-tony-0019-edit-1-1024x803_story.jpg
         width: 760
         height: 595
+  - title: "Microsoft And Genesys Expand Azure Partnership"
+    excerpt: "“By running the Genesys customer experience solution on this dependable cloud environment, enterprises will be able to maximize their investment in Microsoft Azure through simplified management and maintenance requirements, centralized IT expertise, reduced costs, and more.” Through cloud and artificial intelligence (AI), enterprise ..."
+    publishedDateTime: 2020-01-23T20:15:00Z
+    sourceUrl: https://winbuzzer.com/2020/01/23/microsoft-and-genesys-expand-azure-partnership-xcxwbn/
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: https://winbuzzer.com/wp-content/uploads/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-Microsoft.jpg
+        width: 1024
+        height: 803
   - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
     excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
     publishedDateTime: 2020-01-23T15:21:00Z

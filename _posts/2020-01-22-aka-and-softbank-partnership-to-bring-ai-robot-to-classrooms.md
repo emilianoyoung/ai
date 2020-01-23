@@ -33,6 +33,19 @@ related:
       - url: https://media.itpro.co.uk/image/upload/v1579797035/unnamed.jpg
         width: 1295
         height: 736
+  - title: "Health Catalyst becomes 1st healthcare member of Partnership on AI"
+    excerpt: "The Partnership on Artificial Intelligence to Benefit People and Society, founded by Amazon, Google, Microsoft and other tech giants to research and distribute best practices on the responsible use of AI, welcomed Health Catalyst as a partner on Jan. 22. The startup's addition to the coalition makes it the first solely healthcare-focused member ..."
+    publishedDateTime: 2020-01-23T17:35:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/health-catalyst-becomes-1st-healthcare-member-of-partnership-on-ai.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg
+        width: 400
+        height: 300
 
 secured: "pwRcfgZU9YkFBsM4kVtjsb1xNmebKU3aEbQ3OAKmOPoMJTx/XQpXa3/OPpu/9P2EvS1pZs+FiJebfEkYOYJKnMXAtLiEGW3qG7f5Vt+WyiGTXiXBBjMTxDoDqcBFGjhkACZqNR/mO4EzdE+xwztLUblm7v0buTGU1D2ygDxoPEh1ADARLR3ZKEH2Nr2BGfwuv3EHEHkGnTv1zkH39qr1rDwYKDU/OQCftPJQbxQXApYDRggHA9BSGOx+DZFxApBrPbhdb9VliMqZ0WlbBy/xKjTeOPeYFq9RU48GEQQM3BOu9FIEd8VA8FUfYZDe0E38CAwsdeOM1PD1K0EiM2zt4sLcVZGnhTE4HutU/dlD5ZUv8CYXKgMvq4MhXHdbk3xL9ic4U8cVCtFeruWG7Oq8MU9ssuWjL1MHUeVGiOVFrYPlsKz11cS6Ev98lNwgNn1uDWF9uuxbhiMMzhd1krAJUg==;Id0NzagRxj/EnPBs9rSeew=="
 ---

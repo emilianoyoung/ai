@@ -41,21 +41,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F545163577%2F0x0.jpg%3Ffit%3Dscale
         width: 1200
         height: 776
-  - title: "What you need to know about Clearview AI and its facial recognition app"
-    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
-    publishedDateTime: 2020-01-20T15:36:00Z
-    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
-    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
-    images:
-      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
-        width: 1024
-        height: 512
   - title: "What Do You Think About Artificial Intelligence? The Pentagon’s AI Center Wants to Know."
     excerpt: "The Pentagon’s nascent center devoted to artificial intelligence research and development wants to learn more about people’s perceptions of the budding technology. According to a proposed information collection notice published in the Federal Register Thursday, the Defense Department’s Joint Artificial Intelligence Center is funding a ..."
     publishedDateTime: 2020-01-16T20:52:00Z

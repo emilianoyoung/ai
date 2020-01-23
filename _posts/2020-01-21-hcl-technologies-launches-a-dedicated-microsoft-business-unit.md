@@ -1,30 +1,26 @@
 ---
 category: news
 title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-excerpt: "HCL Technologies (HCL), a leading global technology company, today announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies. This will extend Microsoft’s offerings of Business Applications,"
-publishedDateTime: 2020-01-21T12:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/hcl-technologies-launches-a-dedicated-microsoft-business-unit-2020-01-21
+excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+publishedDateTime: 2020-01-21T13:29:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-hcl-technologies-launches-dedicated-microsoft-business-unit-/2020/01/21/9084223.htm
 type: article
-quality: 69
-heat: 129
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
     title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
 
 related:
@@ -93,6 +89,6 @@ related:
       domain: newkerala.com
     quality: 19
 
-secured: "HLaV9AwjLabn/wuN5aeyRmuv1jGs0HIxypOSLMeNnBIf/FQ1SyKdcEmI5Z2HGz+Bozum+nLyxPs1utYlwWcBKK84TdzkMNhEkNdP4dxN/++ojs/LQLHFHhOEleWokV8eAsSRlb4HN3TlZFDZyOK940+wFAIept73TmcyPCTBWk6ZVQAxTffLZ81ANnyERW0X3q8QNEqVxU959aKapoWaBcRhirFsYlLe9bBzbkJa4H0ITv/E+uIoHlHufn3IZwOkX0IuttkID3NAxjM3mlYkbPa9MOdtrkAIyThdC7QTG3U=;dksHIydGmOBiQdA+P8w8UA=="
+secured: "rv0lTadc8LkNuGTTCPls/227V6WV4bHFVaxm6uw4lQFXHLMbGfK3zVEBQeWje4cf+XczN96tFCI+LiqcDhdOcNyHMkFOBJfAU3K0/4fDo+P/rBvMK02x/YA/Q74i24UvhrUMQb9EezHiHY+B2ROAR/xFqa1TjLKwVe6otiaa0ejDAtAErNKqdYJCy3+EYIHnfyuD9FYEsQNup3MlOSX+rIW4GFqGSqQmtGOEo6qNmyyoW9eMSfhHXzkPbysxWY0bCLueCifga+P2eV67ptzffpFRM3MccYddGh1Sljppc0WVArmxDroFjBGL+v44n94l;eq8hQpeosD6AMeWhPAK45Q=="
 ---
 

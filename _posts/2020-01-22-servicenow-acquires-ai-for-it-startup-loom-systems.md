@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/22/servicenow-acquires-ai-for-it-startup
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/servicenow-acquires-ai-for-it-startup-loom-systems/amp/
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,21 +29,21 @@ images:
     title: "ServiceNow acquires AI for IT startup Loom Systems"
 
 related:
-  - title: "ServiceNow scoops up Israel-based AI-based IT startup"
-    excerpt: "ServiceNow said the acquisition will extend its artificial intelligence-powered operations capabilities, \"giving customers deeper insights into their digital operations so they can prevent and fix IT issues and find 'blind spots' at scale before they become problems."
-    publishedDateTime: 2020-01-22T12:26:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/22/servicenow-scoops-up-israel-based-ai-based-startup.amp.html
+  - title: "ServiceNow acquires Loom Systems to expand AIOps coverage"
+    excerpt: "ServiceNow announced today that it has acquired Loom Systems ... reduce L1 incidents,” he told TechCrunch. Loom co-founder and CEO Gabby Menachem not surprisingly sees a similar value proposition. “By joining forces, we have the unique opportunity to bring together our AI innovations and ServiceNow’s AIOps capabilities to help customers ..."
+    publishedDateTime: 2020-01-22T13:54:00Z
+    sourceUrl: https://techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/
+    ampUrl: https://techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/amp/
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 57
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 187
     images:
-      - url: https://media.bizj.us/view/img/367701/billmcdermottsap*600xx1014-676-5-0.jpg
-        width: 600
-        height: 400
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173020463.jpg?w=1024
+        width: 1024
+        height: 682
   - title: "ServiceNow scoops up Israel-based startup that applies AI to IT"
     excerpt: "ServiceNow said the acquisition will extend its artificial intelligence-powered operations capabilities, \"giving customers deeper insights into their digital operations so they can prevent and fix IT issues and find 'blind spots' at scale before they become problems."
     publishedDateTime: 2020-01-22T14:55:00Z

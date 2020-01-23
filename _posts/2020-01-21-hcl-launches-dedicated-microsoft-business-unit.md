@@ -8,7 +8,7 @@ ampUrl: https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-busin
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies. This will extend Microsoft’s offerings of Business Applications,"
-    publishedDateTime: 2020-01-21T12:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/hcl-technologies-launches-a-dedicated-microsoft-business-unit-2020-01-21
+    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+    publishedDateTime: 2020-01-21T13:29:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-hcl-technologies-launches-dedicated-microsoft-business-unit-/2020/01/21/9084223.htm
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
   - title: "HCL launches dedicated Microsoft business unit in Noida"
     excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
     publishedDateTime: 2020-01-23T05:36:00Z

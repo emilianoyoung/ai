@@ -24,19 +24,6 @@ images:
     title: "HCL launches dedicated Microsoft business unit in Noida"
 
 related:
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies. This will extend Microsoft’s offerings of Business Applications,"
-    publishedDateTime: 2020-01-21T12:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/hcl-technologies-launches-a-dedicated-microsoft-business-unit-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
     publishedDateTime: 2020-01-21T16:30:00Z
@@ -48,6 +35,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
+    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
+    publishedDateTime: 2020-01-21T13:29:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-hcl-technologies-launches-dedicated-microsoft-business-unit-/2020/01/21/9084223.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+        width: 252
+        height: 335
   - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
     excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
     publishedDateTime: 2020-01-21T23:54:00Z

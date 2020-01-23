@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Blue Prism Expands IBM Partnership to Deliver Broader Intelligent Automation Capabilities"
-excerpt: "/PRNewswire/ -- Blue Prism (AIM: PRSM), a global leader in Robotic Process Automation (RPA), announces an expanded technical partnership with IBM."
+excerpt: "LONDON and AUSTIN, Texas, Jan. 22, 2020 /PRNewswire/ -- Blue Prism (aim:PRSM), a global leader in Robotic Process Automation (RPA), announces an expanded technical partnership with IBM. The collaboration integrates three core capabilities of IBM Cloud Pak for Automation,"
 publishedDateTime: 2020-01-22T12:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/blue-prism-expands-ibm-partnership-to-deliver-broader-intelligent-automation-capabilities-300988421.html
+sourceUrl: https://www.marketwatch.com/press-release/blue-prism-expands-ibm-partnership-to-deliver-broader-intelligent-automation-capabilities-2020-01-22
 type: article
-quality: 15
-heat: 15
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook
-    width: 1166
-    height: 610
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "Blue Prism Expands IBM Partnership to Deliver Broader Intelligent Automation Capabilities"
 
-secured: "+NoDldSzAwWVQ9nBmh859XZbRl/FwBqYJxqG/pErev18chezM7njwXvujt1uxmIOIJ38QN/ANvtQ0HmB41pmzP5l56fNaOA3AqlwZDmlRFNFbweHTu8BFs5gO0nvx3uwA7m5mO1CjEqLdNG/G1zdPGyG0nn7aRcLpplfZDu4zeJE2HUu0B1j/ElWYTGhWMHSYYXSq+9IhqHw8oX4Fi0GdtTw8hforOZwt0xENriFFzkjuayRLeOIhX9sa1AmQVbvJ7p48eWvsqgOlt+GNgFvWLBPkbl4DLvaHUM4b7UYnWiTC4ugzmi3cqU53RtSy7NRCRKqiQFCC2CyK9Dmtqb3LQJeQSeaAFy0ugLFI+jeUGcP8LIFmgt2HChj2aewEuss3IVSS0nHZgs9NRnvaDLDRK0pKgP0IO38d2t7Jqz4F/FidO/u09EbxIvvbTjk3OtxenOkasxSVdVkmQ9HhvBnU0hFChPKHurKBR6pok+0jXQ=;JLgmD5wI3rK3YTquUY+t1Q=="
+secured: "dakX815Bi26h0oQM2Url7i+3GnjigM10M1wZXQJHW/GjOPhVbS+ibQkMwW81wfAfE50tYXHUQ+E6vS8/fcD7LB/jSd9/qY9G8ieR2SbljEe9H2EAx/qPG7mHCcloVk1z6LhneeWfG1g9JBOob18jVBJ5KMC78xc1dktnDXFGxT7b5fIKjJFyDZqIkiwMO6bJOPJ2DeB0ZuT9jvSKZ5aWsnviMze8Mz5bDg/qc90FxOqdjx9dVOM+JNXEnIkxeM0OQx11h4t8uBGN93Nb420Ac13XrJnQGT0VtG1PnZUjcH8AlNU/QbDs/DZ/M5uUX/HX;Rjevh5IK+Uk7OoUwKJTIiw=="
 ---
 

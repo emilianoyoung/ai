@@ -28,11 +28,17 @@ related:
     excerpt: "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ..."
     publishedDateTime: 2020-01-22T19:16:00Z
     sourceUrl: https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/
+    ampUrl: https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 187
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
 
 secured: "zQhHS/4NuCzs8ylT6Jpu+Es8MKPg612n4TJ10VPRdcwjEVBq1mwt/f+8tF57dsmVPWsda9MvRUoN/bcseKwubLimfj1Oe8lQkWjFjRAxiQC5BnUtGxl7HZwdGjSSKKAL9tNEpAR7/eHKpaItDjQp49LRGjKB7F49fDTQDyFhuSNAeKEivjBQWcviuyQDVvYxHAfW5JMqEdcko6cdSIixn/XbawdG6pzjc+ltkF4afPvqLKhLozCYCvx/Rm/qt6eSKGjRwuSzmlRvmiyPizGotkoi6qY+ze+6NbtT5MHqQlA=;W4PVCglZ0k/YDTKTUValwg=="
 ---

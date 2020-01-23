@@ -38,19 +38,6 @@ related:
       - url: https://www.financemagnates.com/wp-content/uploads/2020/01/david-metzler-300x300.jpg
         width: 300
         height: 300
-  - title: "Thinking fast & slow: New DFKI project aims at making Deep Learning methods more reliable"
-    excerpt: "Modern computers are in a similar position: Thanks to their training with large amounts of data, Deep Learning methods can deliver fast, yet incomprehensible results. Scientists of the German Research Center for Artificial Intelligence (DFKI) now investigate how these methods can be proven by formal procedures and thus become more reliable ..."
-    publishedDateTime: 2020-01-23T12:41:00Z
-    sourceUrl: https://idw-online.de/de/news730408
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 45
-    images:
-      - url: http://www.idw-online.de/de/institutionlogo20362
-        width: 500
-        height: 206
 
 secured: "HW7xg+ZgKhWSsZjAWT4qzR8itjovplNErUny67J2bzBWgBF8Fw6kmBF4UMOj7szfX3ag5u76FT2/vo8qVtrZW0Iu0buPV0nyLUlsH2794xE0koOQOKrnjrPuyVBiHyM72OQU1MGQp5/6im2M9Y+blmkWHQmICl3n/KvEXNJL3fIyR/wN9tM2JhbcyNJ8HuP+3+I9Bo68wpvrxPx1x4mmKO9DDV6UrOCso36/UXCTXivjZrpNA2mU+xMDRXvCPpJPHPwWiqYkeUYla5/cggxzMVd4ooNs39oht8pWnhnwuzA=;11U0LnkH9LsFaVdilifnlw=="
 ---

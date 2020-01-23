@@ -141,36 +141,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/seXfCZxKybpW6F3DxoXHbv7v26Q=/0x0:2040x1530/1400x933/filters:focal(857x602:1183x928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132207/vpavic_171003_2029_0067.0.jpg
         width: 1400
         height: 933
-  - title: "Sundar Pichai calls for moratorium on facial recognition"
-    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
-    publishedDateTime: 2020-01-20T17:43:00Z
-    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
-  - title: "Sundar Pichai supports calls for moratorium on facial recognition"
-    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in Brussels, Mr Pichai said the search giant had chosen not to roll out general-purpose facial ..."
-    publishedDateTime: 2020-01-20T17:43:00Z
-    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
   - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
     excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
     publishedDateTime: 2020-01-20T21:07:00Z

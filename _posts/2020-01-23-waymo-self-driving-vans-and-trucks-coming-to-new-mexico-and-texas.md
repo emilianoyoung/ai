@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-n
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
         width: 600
         height: 350
+  - title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
+    excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
+    publishedDateTime: 2020-01-23T19:24:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/
+    ampUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "Today's Pickup: Waymo To Run Self-Driving Trucks In Texas, New Mexico"
     excerpt: "Good day, Waymo, the self-driving vehicle unit of Google parent Alphabet Inc (NASDAQ: GOOGL), announced this morning that it is beginning testing of self-driving trucks on"
     publishedDateTime: 2020-01-23T16:42:00Z
@@ -75,6 +90,19 @@ related:
       - url: https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg
         width: 1920
         height: 1280
+  - title: "Waymo Self-driving Minivans Take To More US Roads"
+    excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
+    publishedDateTime: 2020-01-23T18:35:00Z
+    sourceUrl: https://www.ibtimes.com/waymo-self-driving-minivans-take-more-us-roads-2908264
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/23/self-driving-waymo-chrysler-pacifica-minivans-and-long.jpg
+        width: 1024
+        height: 640
   - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
     excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
     publishedDateTime: 2020-01-22T10:46:00Z
@@ -100,6 +128,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "PyJ2wHY5zrvg8X11YQdxTDSkUx3b/50BV/lZ79KZCuosdI6++whLyT4VCGK/2i0VgRWKcJdd9KBaeQCQbRLnNYE/TaUXohfLN1HeLgKamsBRHfMQKXuToBREXPIiDpdvh5AglVRLS81ABojPPvg4iO9v6wDOzSoPZg4cNoroLYvRMvHxbKZ/IAR7o3lxVQEmbb9T5dxDAxVxF7LDLpJs/jNwg/2jeEIq4Nk2NAwjYUGcHbSHyuqxFPrcP9bG91cvIB12iYPtmyFIRbdgxvZpokOGrARukbbYHH3AEY8ij2sX/c5sNyHXPnR/uKe7lMZBppJuHkbTTFUfK8YYRql1JyqmyPsbAN/V+s2nVT3/mKvckSUZkUkOOLuyp3tf60pRqGyEWdpiiNw19Qdz7Wy0l1BUabC4p9Lk6o1T7vRDY0lI29oxB7E9lblV9DH3Zx5KCn68hRcLePfEimmAwtEuLIkwuXG5plhXTOR17boJxa8=;RIFBEJlsRN6VXyT/eOW//w=="
+secured: "kcaMgHv2R2+r4TObIfZuCycw0dObuFkJXvKgdP/nFQ/enSB/gkmHBaYncLv2w9+60Ae9snnLTh3fmXay7B7IplM0UO1Xc0ueAXFHD+ob4GtyCZT4Letuf/tUuKN5yZg+9QgesLcVNprf9KBPdIay2vlGPr7jEeVOyB/tXZZzj0xiglZqrBxGLp2olMkLp37wpxq6hEIcMwKhnTFP8Q+qEfhds4quZrWYaJedWfpFkvBaL80kyru11bueEC9rOQ4/SY6JZjZ7O+0YKEVCbNAOW0VYESRk93/hAhkqLOAmiSt41wIeOUmMd7WPuiS+IoIbfh7/wFW8DltvhO01snb1QKLKL0wIarp+ON6fPTNoO6Fe+Qhykzq6lAkU4QD7Pd9wY9ZmYUr399vmDuQ1oNxSbyI/8yzF9QfUp+Cl5qScJWx4pRUzru/EF616sa8lx6PLo78d3v+hqGT8SqXFk5GxgzOSNIPnaVFmlV3x8cci75Y=;9Xk07Fcn7lsuTZape5qPVw=="
 ---
 

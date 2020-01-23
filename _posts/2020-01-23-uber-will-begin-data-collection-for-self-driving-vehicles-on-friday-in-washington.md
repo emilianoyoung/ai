@@ -3,7 +3,7 @@ category: news
 title: "Uber will begin data collection for self-driving vehicles on Friday in Washington"
 excerpt: "Uber Technologies Inc said Thursday the company will begin data collection for self-driving vehicles on Washington roads Friday with manual drivers behind the wheel, the first step toward potential future deployment."
 publishedDateTime: 2020-01-23T19:45:00Z
-sourceUrl: https://www.reuters.com/article/us-uber-self-driving/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-idUSKBN1ZM2PH
+sourceUrl: https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZM2PH
 ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH
 type: article
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "Uber will begin data collection for self-driving vehicles on Friday in Washington"
 
-secured: "qNGShtsZrxIiscM8Ox/g1I7rvUAAw4/nGOpBGwVkErkHqRKkhJYVWxlaG7pmnfmqO8Fzip/bQnGVcbjyWOLgbsD+Eux0T+kRrzfwPY9LUcngRjg0tYYm/UfPJYY00rbWg354UVr5tTbELwzAW7CVNi/otdiwzakOAwMVbVnpRhKTYJ9kcywdClN2uwsPxg+NvOQ+LLL1WbMg559ulqfK6Dz8unH7Dzxl1479RJjgrAvAgv/83HNqeQKNSXLKR33uGrrtnRn8W1rCwnGGs2b0qhDde0H5LAgCaNCExOX7Ts9zoB52xSgfapNYJXQ7DCc1;C8TYmw4Dij+sSqLhbwe5OA=="
+secured: "7K/fzW9Xuj6D5dRNdPWvXPr+ZZS+hIghl0pKcIJAZgCtSfzyikiaV7F9bWVagZm7rORdZyZzXbIe2lfiORVZUIm65RAxOl3mmcoXWlrrsKQ0PbLoJZSjBTyIxm9hzVQ89dnT3aUdQf7ZI+ImN+ZYizIcDsiAjQYWvArO3XStuKPV0Tugc38pa2u3rVs7X0bJpc4sTIZZ8TW/2JAjw/S/MYI9M6wQ9/MX+6yw8zxOlROdMBg7dTRLhWLBPhXSzifp8ja9FYZo0UGEt5VPsYIfl+/SyFVMN2OePRgbVXDSps50wbpGiibOJViyx/h4QmKD;wmk4J8OQ1vchV/FtXevVnA=="
 ---
 
