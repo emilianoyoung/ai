@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/18/silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars/amp/
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
       - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 900
+  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
+    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
+    publishedDateTime: 2020-01-23T21:32:00Z
+    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
+    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    type: article
+    provider:
+      name: AARP
+      domain: aarp.org
+    quality: 24
 
 secured: "0Vbl3umjqA9OcIP62K1g4Dw9RwLIL8xwGd3jj0hlkZkGalBB6izEJNouwErl3S2bnr26XsieDq003fTFU8/vNgqU9T8vQ3QGmaf5rYTvfnM4fPFdJFNiQyPzSp7siXkbDoE3kd6lCKt73tO7FTWOTOqXS+K5yDS1b7QdUhE/CtHjg/87c6J4lcdHnAmw1kZao8nu/7WAlS1ju3kYWEIJRI76uan/Z0gSU50jJ+PiNEOQYMM1i0gyTdYX8ECEqz24uzQzCfQ/BrRWDAMm7SBiJmp1+Y6VzJtAXnRoQ9/UC+tyQfaoL8PZOBTiW5oq2npOBaUPICJyfv/3GP5jCqSO4OI/tW9RagL//zxILVoDRlv6zJn9k/0Y1gkdMEoJhRFUeFcqsUoP8T1XU+xAmSNMAy2/C9hXW87OQF2LvKkJMhTsMu5ApGtnSFD6j9CmqN0+jtjQqhI32cAJLgwm9PIyuw==;gt8aO8MArJHQGaj7+1U2WQ=="
 ---

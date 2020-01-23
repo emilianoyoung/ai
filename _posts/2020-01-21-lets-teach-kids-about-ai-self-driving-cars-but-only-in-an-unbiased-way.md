@@ -60,6 +60,17 @@ related:
       - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 900
+  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
+    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
+    publishedDateTime: 2020-01-23T21:32:00Z
+    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
+    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    type: article
+    provider:
+      name: AARP
+      domain: aarp.org
+    quality: 24
 
 secured: "HtFdxljNl3Mcz5vqprfCNTmtUL1WzTs50veMXHeCQd4OemO5lMqAnoK8V/iNJ+Fc9d+z1N2VpjmwMk7efQHKQ7bjNwXjqEnaVEhkyvl53AOk9EmHc3vtpj+PV4qPTBKnY9nj2n9+IRHKwhAXN8z/KsMvNAhyDJ1oMOsW6jP97/lVVmPC1qJW5sNdjNATszRYzsrD4lEfFfso5i8DTvb+k2OBXTxiFX98odPiVjWJS2P8o8D+YZ83NH9REBb02jaUfaKlaLjhNazpM4AGUUaOqFn3zqNs0d2aZZKN+U9pA2XKoOvxoHHPMue43gki3fWSyU+4a0l5Y+i8sf+7v+lpfbYmxuzM1H5im1zTvObUIzi1xKzu323e6vVeH9XBHjUoQLQFN6AKJIHDY7upyr78DPpzA+06DOjNj8zFcYysptGZI5iL5mh8c8vfyTOan5VzXBveN7elZS+lMNMDXyVUug==;2waJdq/pQusWR9CcZtC5tA=="
 ---

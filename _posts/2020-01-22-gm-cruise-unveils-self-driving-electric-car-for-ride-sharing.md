@@ -105,6 +105,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
         width: 600
         height: 350
+  - title: "Uber is bringing its self-driving cars to Washington, DC"
+    excerpt: "Uber’s self-driving cars will soon be jockeying for space on the streets of Washington, DC, with the ride-hailing company announcing it will begin collecting data to support the development of its fleet of autonomous vehicles. The vehicles will not be operating in autonomous mode, though. They will instead be operated by human drivers to ..."
+    publishedDateTime: 2020-01-23T19:43:00Z
+    sourceUrl: https://www.theverge.com/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/23/21078864/uber-self-driving-cars-washington-dc-testing-manual-autonomous
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/Loy1FVsB2LJsMuqq5vfbEKmMPpk=/0x0:1500x1000/1400x933/filters:focal(630x380:870x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66155961/1_aPuu__I3Xa_T7NS1vrhUvA.0.jpeg
+        width: 1400
+        height: 933
   - title: "Uber prepares to test its self-driving cars in Washington, DC"
     excerpt: "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC."
     publishedDateTime: 2020-01-23T18:49:00Z

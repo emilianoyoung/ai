@@ -90,6 +90,21 @@ related:
       - url: https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg
         width: 1920
         height: 1280
+  - title: "A pioneer in self-driving cars – Alphabet’s Waymo – will test technology in Texas, including DFW"
+    excerpt: "Keep an eye out around North Texas for a leader in the self-driving car effort: Waymo. The company – part of Google-parent Alphabet – said Thursday it’s going to test drive trucking and minivan-driving between New Mexico and Texas."
+    publishedDateTime: 2020-01-23T20:06:00Z
+    sourceUrl: https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.html
+    ampUrl: https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 46
+    images:
+      - url: https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png
+        width: 600
+        height: 400
   - title: "Waymo Self-driving Minivans Take To More US Roads"
     excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
     publishedDateTime: 2020-01-23T18:35:00Z
@@ -128,6 +143,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "uA/chrmqc0o5z12dlvz6RnWV5O4wM44p0V87Krb+2y8hyWs8WLA1U2KNDecMSPRAiqMClSwI/HykZH+rjf3e+xhQaEYWmF/JSBnV4oxOzqTGnBMS69nlxsiJ+XR0e5sdEJoM5s2Nnytrcskl5FcG60VO51vjeIPeHyOy17679h8/ITUA4x4tp09j6QHLeAXeY2YEBKtzi3N/i2h5eCGm6JGToJ+1iAW/eGDM1E1AEsK9MCFKr2bO2PxYAsqQdk0vuanquUqxw/Ae7ybqzVvD+GwIaaoMIs6E/cVps6isAx9jzFkrBqF9Gqx8uQzDG/9hvabrsqlc25EFTLIAZhRRhoi4e050x9YBbXPW+SslVUT41SKjES66BKY7dbFMOByP5XpHiePSzXwAe330FpFBCqOH3AhmCfArY/fDbOqgAFHD5khdEoqH8jFeW2Ekvv2zSU+elOKer+kw4IlIQFfmMQYblX4FO8mPjD2dLrD7rMs=;VwUbusenLDmwcfeBfPGNpg=="
+secured: "1uvIqT3eP18N38JseCsa1du/5U0NfqBwdqDj5XHjkWC06mCqY2eio8nMGFRrjuiHx1Z585LuBNsMkYw4YfHwneuVPIXY7339NX+KCB3Dv4ZbV8oaI8B2XhEawp5meBPr1BUBhx++QC9274OrfnXdCHTovL6duLnbZdi9O4QwvTWrjKxAfTrw+Ar0BW9/z+eHxr9/Fs9lkhxUv0nXc1SzC6BSDVqKtPiVZ+Nj8pTmKrtZpmmGVtjJKT2R1VTrmVYi2TnpjPL5/QctnrPLY9EkEEW0aLEuja/brJFz/XCts/haf2I/+iyEKjHrbO2Ys7FBHjiq2deFiue3UmRuXDaDZeooMAdB0q4SMqW+IVt33oWOm1gszWiwsuIWX31OhuScJZbEWE2z9/7xI/HJkcHftGAYLYwXXpnCgMHUq3Y7IPpAAa4L+Ys9+KoMs7CNO2Aq7rYTZdu6SzB0+s6JCRMxjpLVCuskU7ICbgf2QQWTU/E=;FEbYw4zRZWT4CoDuuzsPnQ=="
 ---
 

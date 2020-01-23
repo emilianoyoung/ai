@@ -63,6 +63,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1056983494/960x0.jpg?fit=scale
         width: 711
         height: 474
+  - title: "Cortex Labs helps data scientists deploy machine learning models in the cloud"
+    excerpt: "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ..."
+    publishedDateTime: 2020-01-23T20:06:00Z
+    sourceUrl: https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/
+    ampUrl: https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024
+        width: 1024
+        height: 682
   - title: "Michigan will be more impacted by AI and automation than most states. Are we ready?"
     excerpt: "Automation has taken over some tasks, particularly repetitive ones, but it hasn't exactly reduced the number of employees businesses need. In many different industries and job functions, automation and AI are making work easier and more efficient — in some cases driving growth that's spurring companies to hire more people. But are metro ..."
     publishedDateTime: 2020-01-19T04:01:00Z

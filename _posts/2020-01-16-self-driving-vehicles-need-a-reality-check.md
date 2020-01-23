@@ -95,6 +95,21 @@ related:
       - url: https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg
         width: 1920
         height: 1280
+  - title: "A pioneer in self-driving cars – Alphabet’s Waymo – will test technology in Texas, including DFW"
+    excerpt: "Keep an eye out around North Texas for a leader in the self-driving car effort: Waymo. The company – part of Google-parent Alphabet – said Thursday it’s going to test drive trucking and minivan-driving between New Mexico and Texas."
+    publishedDateTime: 2020-01-23T20:06:00Z
+    sourceUrl: https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.html
+    ampUrl: https://www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/01/23/waymo-texas.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 46
+    images:
+      - url: https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png
+        width: 600
+        height: 400
   - title: "Waymo Self-driving Minivans Take To More US Roads"
     excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
     publishedDateTime: 2020-01-23T18:35:00Z

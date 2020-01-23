@@ -24,6 +24,6 @@ images:
     height: 401
     title: "Oakland startup nets $22.1M to build out what's 'no longer science fiction'"
 
-secured: "GL5p0ceX13u1LahU9d2UkdUB+4/YtwiCDHTyu6OHrTS/B5tqqSMPxwgLvFeyR988NH4JRvs5fTq4NxsuO4Zp2bY1QhPQxGhUNs908RDm9kRJDq47DUK+g5rwl2ERGuwy/XGYW6Sf+ioI7aj6DgaVqCHtd4HKVR4lokN3uT19aRLAjfZuWngPK/Rj5QbABGrRyXEcgVynKrFKmgHcMBxubBU1z3kYTHkqoxA1eysxLI1vavFTaE2QRZeD/ssecn2znXIuNKvJ1p3xwIurSR+lClpx9Mw3TvEWapjtzcA+k6kb8o3Ul9MVsEzlkrrYTOe1bbLXK5ET0va9CQIh+gOnvg==;C7HCpLw9qy86SCO8UTAudQ=="
+secured: "4Qlvy+Bj/Ox5Hq7tB1dgJl4HgbwTNprEWkXpM12gFXhLRv8bA7lPvfAge6x0+GRLDZzA8arSNEI7lwr1Ch0ySlkRPKWqte6uS2/skwWOQeAI/iRWgnpDnDfRAmBrnH8wJSorBmnJq+bshkpqF7sr+qBhDGoijooZyVb20IJrOBv0G3qgQEPUOPQC0fPSL3U4S/I0rcdSWwj1Ka02WxXkm9bvnwUgQoL2B8SsDfz3sP4R9m8BMLg7B3n6L7iieWQBlyvQ/KvV7PFJnEuKupNUP6BaBspewijj4e6E5On1MzBokaSugpuZgNeh9Z0v5KFDl9LzYNYQEXzJIKKy+P4gPiGtQRcyIt1qcpNO0wcfMopYjAAJNc5TJtKwzI/T299eOA04jyoFsO/97RqIKFbZS6SrJedHP8PU+78ygS9nUUX6AIb003jjbJ3fTj+bM/+qi5v/naYka9NWaXy7xomvAJuN5Enw57KrrTqQ35CnlX7rxDFQwDe++ecl7MeyNTCB;lc/rssuuA6b8c6eTqSy+jQ=="
 ---
 

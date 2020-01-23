@@ -3,7 +3,7 @@ category: news
 title: "What are Important AI & Machine Learning Trends for 2020?"
 excerpt: "To help you stay well prepared for 2020, we’ve summarized the latest trends across different research areas, including natural language processing, conversational AI, computer vision, and reinforcement learning."
 publishedDateTime: 2020-01-22T22:41:00Z
-sourceUrl: https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020
+sourceUrl: https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/
 ampUrl: https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/
 type: article
@@ -44,6 +44,6 @@ related:
         width: 540
         height: 555
 
-secured: "50K8jmkCPUdxO36fFhBZpx7U95Erg0/ujTrL3O5F7Ypw0lgr4bLolZ6DWlput4E6nuT8p7yHkanwh6OVOjEJjsnpcz+uv768j15WxxFOJtWoymgSKn959cxsJG/FLJtu/kLQ039ze5ioiO/n281q4Z7lZDlX4781Rhz/g4MJQOFhGOzhIcTiIKETNApddxM7qlCqDWcZB43uef5oImsZXAaWyuMrCzYz4h4OY5wZa73o2CHYRv2bDcy7S0kknuzeNg43cREg+VaLM3Giytl1mbM7MZR7f22EshJ8j4R2sU/g7SqO1g7vhy/Qoy7ql+NE;KA5gsTsBfdFdMzx6Uz70hw=="
+secured: "E6I3QdKubj6OYyAnFPlpE5wV45uAe6hVk4REOL9RNJOYu6VWuAicMi4EMvgZCMjxg7x4tldimeXxaqqz2R/jzlcSUJZS/EX1qs0+TLIMXy1/46NIyWkdoAsWmZ6QSeSYMZpmhzWY5yfh7TAekbrG4zCRPko7C0515v63tHyEky4PO31mzp3e5GrsFuUwnbcs045EdfcUZEpeAFAi1QXG+c7UhBm6/jQYu/FUAy4wqoWJS5bveyW/pPwSlGwuotrz+3DQ0uTOmveL8Q1JBUJ1UKWp+sfgShHOJZyyGB2HqaV6ZcfS+7A4j2XGs3vpP2cN;Fz4EK24lVTVUIcAUnV63hw=="
 ---
 

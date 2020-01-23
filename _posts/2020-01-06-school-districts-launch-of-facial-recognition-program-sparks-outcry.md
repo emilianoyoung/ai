@@ -8,7 +8,7 @@ ampUrl: https://www.dailydot.com/layer8/school-districts-launch-of-facial-recogn
 cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1024
     height: 512
     title: "School district’s launch of facial recognition program sparks outcry"
-
-related:
-  - title: "Lockport, N.Y., Schools Embrace Facial Recognition Software"
-    excerpt: "(TNS) — Lockport City School District announced Thursday that it has begun using its controversial facial and object recognition surveillance system. The announcement on the district website came as a surprise, since administrators had previously told ..."
-    publishedDateTime: 2020-01-03T20:32:00Z
-    sourceUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html
-    ampUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: https://media2.govtech.com/images/massachusetts-capitol.jpg
-        width: 770
-        height: 513
 
 secured: "1koug6rH5F9xf2fXbH1aWRGQfGi/ZhSA9pfy+WFiIM435Vzxo4O5F7/peqXrUONsu7DIPVpH+zLiHZyJca9tp2b8o+N4Dl/984NymwCjpDlh3g1q/5471ak8/3T8bn9KCBfL4fhkqVe4NtE0iI8R+h/qfgZTDWh7VEVbVV0HxDuaPyDN2coevibZv+ZwNkyOK0VaVqBZY3iqg0YKJ3kxGW0BhN6oCOQkroNslJ63J3aFghLGuCFfEf2HPr2RhcH5LDiiYDL6+um8EdrOgdRs28X2/0ddFL0UBrntG7ddXw0pmiEZr05e/z2n9qRn+MlBUK7rXXnhL8mzE0Jg1PKxSPhWVA/wBezhGPSxPOW+IwoawKmvTEKNONNB/RPGwxx4UUYGeRSFj1HuWj9Qf8mgxWmMYnZuoISvEPv1rW9TjlKwfZEkGM0mnNt/57Ak19eXF8Dz/dMgVww0GoekT/fEMw==;Dyn+5HxrOUkvYWPKSFeoPA=="
 ---
