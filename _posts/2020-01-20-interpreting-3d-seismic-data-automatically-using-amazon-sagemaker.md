@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T17:49:48Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/interpreting-3d-seismic-data-automatically-using-amazon-sagemaker/
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 600
     height: 424
     title: "Interpreting 3D seismic data automatically using Amazon SageMaker"
+
+related:
+  - title: "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker"
+    excerpt: "The field of Natural Language Processing (NLP) has had many remarkable breakthroughs in the past two years. Advanced deep learning models are raising the state-of-the-art performance standards for NLP tasks. To benefit from newly published NLP models, the best approach is to apply a pre-trained language"
+    publishedDateTime: 2020-01-23T16:25:19Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker/
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/nlp-model-tuning-3.gif
+        width: 800
+        height: 297
 
 secured: "UmT5xMgGKVP0w8fibAWkSv6qbXUHJWLrTyLPmEg8k/Ia2Y5pnitOhZUY8DCbl+tO0FQAHhvx6VEoJ6M+fg+snbPuAVnjYJA4pu6xsj1Rq3TAozObja18vfEpHBrHhmljfk4IwDtVl4PUu2lbU1lKZPa9yJWml1cAI7V+18PkuTppAcwAM3bOL3m0zvHMEt6thpkgbMEW6MqxIS5sKkBQcW0JM8eV7n1oTrv+5DkMbakBJ8c5NIViJ5a6jDM9jwdyf93iIgYxnVcfxHNxnSl/A2DrayJ28KdUTqusri/LLJ5QyoTqq+t8LJl1K8LpBCPj;vRUZqhE9zu81tol0QK/HQw=="
 ---

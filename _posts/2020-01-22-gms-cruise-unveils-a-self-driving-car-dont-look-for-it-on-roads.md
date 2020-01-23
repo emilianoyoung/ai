@@ -2,25 +2,25 @@
 category: news
 title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
 excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-publishedDateTime: 2020-01-22T16:28:00Z
-sourceUrl: https://www.mcall.com/classified/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
-ampUrl: https://www.mcall.com/classified/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
-cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/classified/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+publishedDateTime: 2020-01-22T14:28:00Z
+sourceUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
+ampUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Morning Call PA
-  domain: mcall.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.mcall.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
+  - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
     width: 1200
     height: 800
     title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
@@ -557,6 +557,6 @@ related:
       domain: businessinsider.in
     quality: 0
 
-secured: "blfNVZtYLg4QZMfqHj9F9HsfrzPu63UhLkfqlfgJ1h5+MupJYQFzXkp5ER9WFOcSPgZJJQ0qoaOLP4Oi7hsdpZ6FaBp5px7gYEjMVeIbgkmtS58b1phK/UdiJXVFiWAJyCzkbyC7uLq/rY6Afdg5BEK+rmHJDHQtyEtaQdGyNfhqHIuR/Hd5pqC0Pr3rpN+n+Atu1iRFwwaZWB3VgdwX8d4DgdeD/6r2jvO8TszQQ6sY5Cfl30HXcfQ/O92OsLAt+PW2rMMxOQPB5tBswuoxH62vi2wJa9Lb6aLjRiGi4d6BLdddXWX86Jc2XsYr4AcQ;Bbc/hC5DQXgQqcWud01Yqg=="
+secured: "q7ksVpyH3MHEwngzbJOwCWLlTxhqJn51BZkKBM1I2tyuH/nln4+2tj8k6oFCeqWG5Tys70fi8QTQWbHmQiyGIrgG0footKm4NjuMr61CrL1WbshjI4Hkq3AqXp0DCCCMSul84GhQE8M/IcsbbRzml3T/VIkVxkP+4dr3mWhHScoQd+XBB1j3Dnnfkvsqyw+J5UeCgTddfOY1pqXAZLvo7tvG0Fii4WYkX83yQI6KZU8TUBm1Yd7iQuedNs6NkzME9UjIS7/RaoR+OUFzwPhZ7Uz569XsrBz4KoS0Gk1WFIDr2bsILFESF+MP2csxTnsV;QbOPQuFHg8dqtnDc+j92XA=="
 ---
 

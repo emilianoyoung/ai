@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
+  - title: "Accelerating Learning Through AI At Cerego And TechStyle"
+    excerpt: "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents."
+    publishedDateTime: 2020-01-23T16:10:00Z
+    sourceUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/
+    ampUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
   - title: "Understand AI and Machine Learning With This $40 Training Bundle"
     excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
     publishedDateTime: 2020-01-16T16:00:00Z

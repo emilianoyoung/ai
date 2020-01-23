@@ -42,6 +42,17 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa
         width: 600
         height: 350
+  - title: "Accelerating Learning Through AI At Cerego And TechStyle"
+    excerpt: "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents."
+    publishedDateTime: 2020-01-23T16:10:00Z
+    sourceUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/
+    ampUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
   - title: "Understand AI and Machine Learning With This $40 Training Bundle"
     excerpt: "You don’t have to look far. Every day, there’s another news story about the impact of artificial intelligence and machine learning on our daily lives. Like how AI researchers are using something as mundane as insurance claim data to more accurately diagnose cases of amyotrophic lateral sclerosis (ALS) well before conventional methods."
     publishedDateTime: 2020-01-16T16:00:00Z

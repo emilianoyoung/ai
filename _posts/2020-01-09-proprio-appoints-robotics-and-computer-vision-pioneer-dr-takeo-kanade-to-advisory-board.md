@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
-excerpt: "/PRNewswire/ -- Proprio, the Seattle firm enabling surgeons to perform complex procedures, utilizing proprietary imaging techniques and mixed"
-publishedDateTime: 2020-01-09T16:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/proprio-appoints-robotics-and-computer-vision-pioneer-dr-takeo-kanade-to-advisory-board-300984202.html
+excerpt: "One of the world's foremost researchers in computer vision and robotics, Dr. Kanade is the U.A. and Helen Whitaker Professor of Computer Science and Robotics at Carnegie Mellon University, and a member of the National Academy of Engineering and the American Academy of Arts and Sciences. He joins Proprio's growing technical advisory board which ..."
+publishedDateTime: 2020-01-09T17:07:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-proprio-appoints-robotics-computer-vision-pioneer-dr-takeo-/2020/01/09/9079289.htm
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://mma.prnewswire.com/media/1063985/Proprio_Logo.jpg?p=facebook
-    width: 2696
-    height: 1414
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
     title: "Proprio Appoints Robotics and Computer Vision Pioneer Dr. Takeo Kanade to Advisory Board"
 
-secured: "pXnHlbTd3GfWrdrrbz4qsfxzLZeKnU8Tz6+JGSXv7I3B2rXs28RQ0nxVq33oao3q5BwMRvxl5y4Iazu6QE3mnRjneAkCcX+OswVhVyWoh9MT3y7G3drFDeBcmN99AQZdvXamWBGx0WXz9e8XKDOGD5wg80GRgssAw975ZzWVrDJHkUNCaDlKZKWPQdIRLmRa2BFMP8okMIfRjSWO5DsSg+KzLrvM7D1p+wHcvJAxn1eupxhRqsWIcm4+D+t6hmjtmQdEY9yeR5mBDmN364OZ+Pu9JBBH3NM3L4mMg2TOKzfmh4lemHL0HBaPNm/lnWq1K3ThXI+kBBId+mVkZp7b1Yv9M2SSnGDyUq+ppmdu3xhN154M2vB5SC6+OtIvmn3KlBbVFyeg/IgiNB9q/pLd/1EwD77Srg5Gxs7YwgoLJhmNZ0iyrEMsUu0obzlSrrJaMtqqOBdb4zOKO1eKU5k5rg==;bUqiaIDNLUw9mi3K3fPgSA=="
+secured: "QKrecKnZDyhCvkt0gQXrdjpljR7VszWOUsswzO8+e5H41luOD43QcozHXMmDM7NnPoG4eVdyTskHmKcIQJ2S2Nk/+fLx3UjII15cncKTQlk3X1I21DCYj3/s5QYIw7Kf9oNHcUhd3TPSOvtrJXm8V9YuTTUTHcoM4R0gj0mFipckz9LRfa2DwG5hGTj5f0RbARfTSW16Feek3OQ8o24GCalXBP4GtOK5TYZvxjfCqiy5aRF3fkKT6f0+RyYm8nfvDRYTBMp7fBUn6KECSBtB/c/yVFkbFViyVccc0J8gmdVYnhXywoUnA3yFZ27ZxX9k;tMzhnNBxVLeZUO4k8RotWA=="
 ---
 

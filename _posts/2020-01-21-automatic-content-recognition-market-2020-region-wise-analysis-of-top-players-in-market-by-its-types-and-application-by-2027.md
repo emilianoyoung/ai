@@ -54,19 +54,6 @@ related:
       - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
         width: 1200
         height: 448
-  - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
-    excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
-    publishedDateTime: 2020-01-22T10:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-analysis-by-key-players-end-users-application-and-cagr-value-forecast-to-2029-2020-01-22
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence In Accounting Market Industry Revenue To Surge To US$ 7,085 Million By 2025"
     excerpt: "Innovation and Future Developments Based on Research Methodology The global market 2019 report Artificial Intelligence in Accounting Market includes identifying and comparing major competitors AWS, Microsoft, Intuit, Xero, Sage, UiPath, OSP, AppZen, Kore.ai, IBM, and YayPay. For this, the Artificial Intelligence in Accounting Market report ..."
     publishedDateTime: 2020-01-14T12:24:00Z

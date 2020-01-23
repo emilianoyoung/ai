@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ibm-announces-partnershi
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 675
     title: "IBM announces partnership with will.i.am's AI startup at Davos"
+
+related:
+  - title: "Genesys expands partnership with Microsoft Azure"
+    excerpt: "Customers will benefit from a streamlined buying process that puts them on a clear path to the cloud. The companies are also exploring and creating new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
+    publishedDateTime: 2020-01-23T16:22:00Z
+    sourceUrl: https://www.telecompaper.com/news/microsoft-genesys-expand-partnership--1323890
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "FlcOwl6MClW23WXKyGnP7avV8aTNMzjhUu1v31O+fUZi1z7c8uf0gc1XtI4gjLokOTY6SIkF0Ex6eIPjXspcga9UFTtJkZHp8wcwa9/UnjVFeFVXZcGuI7GMLBDyVo1AUgIgIhyOTVAOjWXyrgaq9TM8wJ9OHlj7YuZ1PjSvbkBSGiaAZpOVqbKUvckSVwq/1tOsm2JQM8+4xZ2u1Ge5GHmSCy6ReNbRYEhWpSjRQlMoCcWfPIVZWSKKSUmcr8fbnMbP7ALurmmpX2gUxfW8j1uM/55PFtP7/lyZuuLMpDc=;gK6jLiLDSNxDk9cA1Q2AUQ=="
 ---

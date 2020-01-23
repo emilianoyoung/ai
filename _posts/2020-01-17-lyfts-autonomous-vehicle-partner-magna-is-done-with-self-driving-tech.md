@@ -30,6 +30,21 @@ images:
     title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
 
 related:
+  - title: "Waymo self-driving vans and trucks coming to New Mexico and Texas"
+    excerpt: "Alphabet’s Waymo announced today that it’s expanding to new markets, revealing that it’s bringing some of its vehicles to Texas and parts of New Mexico. More specifically, those living in Texas and New Mexico can expect to see Waymo’s Chrysler Pacificas and long-haul trucks on the road in the near future. Waymo hasn’t shared a ton of ..."
+    publishedDateTime: 2020-01-23T14:41:00Z
+    sourceUrl: https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/
+    ampUrl: https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/Waymo-Truck.jpg
+        width: 1320
+        height: 881
   - title: "Waymo self-driving vehicles head to Texas, New Mexico"
     excerpt: "Waymo is on the move once again. Long focused on Arizona and the metro Phoenix area, the Alphabet subsidiary said on Thursday that it's taking its self-driving vehicle talents to Texas and New Mexico. According to the announcement made via Twitter, Waymo plans to focus its doings in the two states on commercial routes. Waymo not only operates ..."
     publishedDateTime: 2020-01-23T15:53:00Z
@@ -45,21 +60,19 @@ related:
       - url: https://cnet2.cbsistatic.com/img/VI9-cNAjtYJbIEyrIJJ5Q-7Q--0=/2020/01/23/b8af5a80-d4eb-4a64-8711-62295d5c8fc9/ogi-waymo.jpg
         width: 1200
         height: 630
-  - title: "GM-owned automaker unveils first self-driving vehicle"
-    excerpt: "Jan. 22 (UPI) --Self-driving carmaker Cruise has unveiled its first autonomous vehicle -- called the Origin -- and said it could be a look at ride-sharing fleets of the future. The Origin was revealed Tuesday in San Francisco after a six-month delay for more testing. Cruise is a subsidiary of General Motors. Cruise said, however, the Origin is ..."
-    publishedDateTime: 2020-01-22T17:31:00Z
-    sourceUrl: https://www.upi.com/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
-    ampUrl: https://www.upi.com/amp/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
-    cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
+  - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
+    excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
+    publishedDateTime: 2020-01-22T10:46:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-analysis-by-key-players-end-users-application-and-cagr-value-forecast-to-2029-2020-01-22
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2
-        width: 800
-        height: 533
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-Driving Vehicles Need a Reality Check"
     excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
     publishedDateTime: 2020-01-16T21:45:00Z

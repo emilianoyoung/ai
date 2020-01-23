@@ -54,6 +54,17 @@ related:
       - url: https://cdnp0.stackassets.com/5ba888586ee1a96e846bc654b9a0a8c6da713ad9/store/7b6b3231a4694dfd6099b7db365850910b12b892bbcf9d6098196ba944cb/sale_17701_primary_image.jpg
         width: 630
         height: 473
+  - title: "Accelerating Learning Through AI At Cerego And TechStyle"
+    excerpt: "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents."
+    publishedDateTime: 2020-01-23T16:10:00Z
+    sourceUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/
+    ampUrl: https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
   - title: "Enabling AI with Intel’s Deep Learning Boost"
     excerpt: "Getting more performance out of a system to handle machine-learning (ML) chores can be done using Intel’s Deep Learning Boost. I talked with Huma Abidi, Director of Engineering, Artificial Intelligence and Deep Learning at Intel, to find out more."
     publishedDateTime: 2020-01-14T17:15:00Z

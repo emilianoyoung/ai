@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T07:44:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-market-revenue-analysis-by-top-players-2020-01-16
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
         width: 1200
         height: 448
-  - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
-    excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
-    publishedDateTime: 2020-01-22T10:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-analysis-by-key-players-end-users-application-and-cagr-value-forecast-to-2029-2020-01-22
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Automatic Content Recognition Market 2020 Region Wise Analysis of Top Players In Market By Its Types And Application By 2027"
     excerpt: "Automatic Content Recognition market research report analyzes adoption trends, key challenges, future growth potentials, Key Drivers, Economical Viewpoint, Restraints, Growth Prospects, market ecosystem,"
     publishedDateTime: 2020-01-21T08:38:00Z

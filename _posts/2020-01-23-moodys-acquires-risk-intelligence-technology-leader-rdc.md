@@ -36,6 +36,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Open source web intelligence company opens office in U.S."
+    excerpt: "Designed by intelligence experts with operational experience in the field, Cobwebs is a machine learning (ML) and artificial intelligence (AI) powered web intelligence and investigation platform with strong Natural Language Processing capabilities. It extracts targeted intelligence from Big Data and automatically generates intelligent insights."
+    publishedDateTime: 2020-01-23T16:55:00Z
+    sourceUrl: https://www.securityinfowatch.com/cybersecurity/press-release/21122584/cobwebs-technologies-open-source-web-intelligence-company-opens-office-in-us
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 24
+    images:
+      - url: https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/01/cobbwebs.5e29cc95337e9.png?auto=format&fit=max&w=1200
+        width: 600
+        height: 315
   - title: "Moody's Acquires RDC, a Leader in Risk and Compliance Intelligence, Data and Software"
     excerpt: "RDC's platform incorporates industry-leading artificial intelligence (AI) for compliance screening to help process customer requests at greater speeds and accuracy while reducing false positives. \"RDC's comprehensive data and leading technology are at the ..."
     publishedDateTime: 2020-01-23T12:20:00Z
