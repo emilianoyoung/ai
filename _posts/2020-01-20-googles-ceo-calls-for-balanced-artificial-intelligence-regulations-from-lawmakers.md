@@ -81,15 +81,6 @@ related:
       - url: https://www.insurancejournal.com/app/uploads/2018/10/artificial-intelligence-3d-printing.jpg
         width: 900
         height: 600
-  - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
-    excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology to provide computer ... Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits?"
-    publishedDateTime: 2020-01-21T03:08:00Z
-    sourceUrl: https://itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 34
 
 secured: "FdEEuxYdvPuvaTMLhfKjTS37ZtM7i2ltiVF4nmUhXeGcPsr04n3SdOHaL7KVzJXcQRhgQHxtBQF6L9r92i4fpxNZUigr6gtdfr57MZ24wzQYCg6elZraJ5HmofsAodSI37kCG9W5bjbQXx8vFbmePBH0aBsVGzb4/4IXJXsquUumw0XmBwQmnMTFhyF2Cum1AqYDeUu4rIAYG/51WWlym56Z2YPd6rtXwYLxPvRMU9v6XTHTYrogymU+GuRxtvOeuIF2bMg9t+ltWiGYzlDtSZ7uUd0kCrrwjRC6wvz7iJ4=;MxkbLaOpsDJKgWF72uFMFw=="
 ---

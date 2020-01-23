@@ -73,6 +73,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale
         width: 711
         height: 494
+  - title: "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime"
+    excerpt: "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms."
+    publishedDateTime: 2020-01-23T13:57:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg
+        width: 1000
+        height: 666
 
 secured: "se/SbGAqRAyKEG5vitJEjQlZrWMd65xc66Gi5ZBNtft26jti7sU4MeMlSmsddObZYeXEjnMOfj48GucbHWijrDG6SAM06sokId37ikzKLyw2A9Z7I9/XrCoH177xtOKLzl5XoT3cz3ZFtD5P4absfvisUpLSnDlKL7rA7HJgrtvqnecj6N8SoyQxZVvB04mwuNcGfXQFP38vk7ODRTdhUMoIMRL2GleUSdDgA5vzpkCW7krTf2dOXWswWN6fsnvfNJkj4UhbDJ4+Y6u7jI5yJGwJ+hqXMSKF/AGNPh4rHLnirNxmKVr7GSkOaU2sMtN+g/KIWBNEGZNJjGSLpUsVw7byojgwVfQzOxU2xhvU+jdb5AUSK7YPitvarzxQeXQDQZ+0bvDAuB9ovpwYAZz2ra7p0jPVrYKv9srrB6E+7jvQeUHpZJfeeL7EebF5imTZCwcvCK+PRWN/uXsiDD6REw==;TEnNYJ4LDyHgfk7q3x3kUw=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnersh
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
 type: article
 quality: 74
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -30,51 +30,21 @@ images:
     title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
 
 related:
-  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
-    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
-    publishedDateTime: 2020-01-22T03:00:00Z
-    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
-    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
+  - title: "Waymo self-driving vehicles head to Texas, New Mexico"
+    excerpt: "Waymo is on the move once again. Long focused on Arizona and the metro Phoenix area, the Alphabet subsidiary said on Thursday that it's taking its self-driving vehicle talents to Texas and New Mexico. According to the announcement made via Twitter, Waymo plans to focus its doings in the two states on commercial routes. Waymo not only operates ..."
+    publishedDateTime: 2020-01-23T15:53:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/waymo-self-driving-car-truck-texas-new-mexico/
+    ampUrl: https://www.cnet.com/google-amp/news/waymo-self-driving-car-truck-texas-new-mexico/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-truck-texas-new-mexico/
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
-        width: 640
-        height: 320
-  - title: "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech"
-    excerpt: "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost."
-    publishedDateTime: 2020-01-15T20:23:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg
-        width: 640
-        height: 640
-  - title: "Howes: Self-driving vehicle hype forced to reckon with reality"
-    excerpt: "Howes: Self-driving vehicle hype forced to reckon with reality Next-gen auto industry won’t arrive sooner because its potential is oversold; not to investors or dreamers besotted with a Silicon Valley fairy-tale Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/columnists/daniel-howes/2020/01/16/self ..."
-    publishedDateTime: 2020-01-16T04:48:00Z
-    sourceUrl: https://www.detroitnews.com/story/business/columnists/daniel-howes/2020/01/16/self-driving-vehicle-hype-reckoning-reality/4481239002/
-    ampUrl: https://amp.detroitnews.com/amp/4481239002
-    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4481239002
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: https://www.gannett-cdn.com/presto/2020/01/15/PDTN/8380494f-6fc5-4b68-85e0-9efa7627975e-dtncent02-77yo6qzwf781fg8i7q08_original.jpg?crop=4774,3581,x0,y0&quality=50&width=640
-        width: 640
-        height: 480
+      - url: https://cnet2.cbsistatic.com/img/VI9-cNAjtYJbIEyrIJJ5Q-7Q--0=/2020/01/23/b8af5a80-d4eb-4a64-8711-62295d5c8fc9/ogi-waymo.jpg
+        width: 1200
+        height: 630
   - title: "GM-owned automaker unveils first self-driving vehicle"
     excerpt: "Jan. 22 (UPI) --Self-driving carmaker Cruise has unveiled its first autonomous vehicle -- called the Origin -- and said it could be a look at ride-sharing fleets of the future. The Origin was revealed Tuesday in San Francisco after a six-month delay for more testing. Cruise is a subsidiary of General Motors. Cruise said, however, the Origin is ..."
     publishedDateTime: 2020-01-22T17:31:00Z
@@ -90,19 +60,6 @@ related:
       - url: https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2
         width: 800
         height: 533
-  - title: "BMW and Daimler's self-driving venture may attract Fiat Chrysler"
-    excerpt: "BMW and Daimler's self-driving car venture may attract more partners, with Fiat Chrysler Automobiles NV a front-runner to get on board at a time when the German automakers are working to select suppliers by the end of the year. While many car-component makers are hesitant to put large sums toward the development of highly automated driving due ..."
-    publishedDateTime: 2020-01-16T20:52:00Z
-    sourceUrl: https://www.stuff.co.nz/motoring/news/118793147/bmw-and-daimlers-selfdriving-venture-may-attract-fiat-chrysler
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: https://resources.stuff.co.nz/content/dam/images/1/y/q/w/b/3/image.related.StuffLandscapeSixteenByNine.1420x800.1yq5dn.png/1579207326721.jpg
-        width: 1418
-        height: 800
   - title: "Self-Driving Vehicles Need a Reality Check"
     excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
     publishedDateTime: 2020-01-16T21:45:00Z

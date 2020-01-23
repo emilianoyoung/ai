@@ -86,6 +86,19 @@ related:
       - url: https://www.irishtimes.com/image-creator/?id=1.4139382&origw=1440
         width: 1200
         height: 630
+  - title: "The future of AI in warfare and counterterrorism"
+    excerpt: "In fact, in some ways Richemond-Barak’s presentation was an attempt to balance a discussion of AI and war that has mostly revolved around the worldwide civil society Campaign to Stop Killer Robots. The campaign was launched ... then even if human operators are in the loop, they may start to undervalue their human intuition and base too ..."
+    publishedDateTime: 2020-01-23T14:49:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/The-future-of-AI-in-warfare-and-counterterrorism-615112
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452274
+        width: 822
+        height: 537
 
 secured: "l3XEK6UcWnJdpwduJT8Hg6tESUYsXTytdL3v3uEVPlVMhGg8K1Nph9NJkaF5XjY4l0k3NPldB+tOWdKOI4A1RiFDuL5drb3oVO1xNbQjwIRmhR5bd4ZXo6p+hIdWy7ikIyZi/6REM3cXSEYyRz7F9pwZpYOUyUStld6O7tUY7nUZEGBBXN3bNR14hB1CaS95bJRXx85fAYfI7ai+stcDlXZMQcQJ41SYo5I4dZW0rwTvVNO3friIvz5oYxH9puyyXnJBZVP1YCt8+2AQjUNHMioH2eIHNi0j30w8SZa8r4tlPDFb/2NgCBOEPlAEvWcs4I8a3kYwiE8w+w/U1hfiy0vmtQGwtjb142bZG2vli7sarQ1IPCaax+Mea10xIbsNof32WPnvA5mQ70fbewxPHQlSEjICOKjsOJJTZyNNItyQ/vjVsg49mQ9NuiC+jfc4ZTziOGorUWX+KqEUnwDrdg==;60Moqr1RdONZ21S1vXcM6g=="
 ---

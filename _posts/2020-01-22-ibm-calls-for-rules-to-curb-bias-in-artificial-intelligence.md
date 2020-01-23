@@ -70,15 +70,6 @@ related:
       - url: https://images.livemint.com/img/2020/01/21/600x338/PRI_-P_1579625027389.jpg
         width: 600
         height: 338
-  - title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
-    excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology to provide computer ... Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits?"
-    publishedDateTime: 2020-01-21T03:08:00Z
-    sourceUrl: https://itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 34
   - title: "Google's CEO Calls for 'Balanced' Artificial Intelligence Regulations From Lawmakers"
     excerpt: "Google's CEO calls for governments to regulate artificial intelligence using a 'balanced' approach. Veuer's Justin Kircher has more."
     publishedDateTime: 2020-01-20T19:50:00Z

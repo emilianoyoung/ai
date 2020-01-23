@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
+    excerpt: "Avail a detailed research offering a comprehensive analysis of the developments, growth outlook, driving factors, and key players of the Automatic Content Recognition market in the latest research report added by Big Market Research."
+    publishedDateTime: 2020-01-23T14:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automatic-content-recognition-market-2020-report-to-share-key-aspects-of-the-industry-with-the-details-of-influence-factors--2025-2020-01-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "qGHyzlWFSiszJkbwDN5P2aUmHf51nRBtNHVjRc14zZqhsXjDtBubmtCiX0E7ybSOezWOYIAUElqSM9C95tH39oAi4EOZsw8xJcwAuYPGftfFoIpsdi8SPE/6Gbmvm/tW+4ANNk+iwcolZ9u/em1w2dUYD5jNB5LsTCXaP4ZacEp0DAROzDre8adEMwfwk3088/eRJ4MEuPMEogznDVWvNWodKeNObsxAPKptJlb67Ub4O//Tem0YxCvMpB/CyCLE9FHmgWrEb2QlyrQhvj/iveIMpARkVcOfUNfxfINyDCGryTIzZNp8vM5kGvjBJNRR;JvTL6vwzuxakzZ1Ne7P5ZQ=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/
 type: article
 quality: 73
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -30,6 +30,51 @@ images:
     title: "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions"
 
 related:
+  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
+    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
+    publishedDateTime: 2020-01-22T03:00:00Z
+    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
+    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
+    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 73
+    images:
+      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
+        width: 640
+        height: 320
+  - title: "This is Cruise Origin – a self-driving EV to kill Uber, Lyft and car ownership altogether"
+    excerpt: "Cruise doesn’t want to sell you an autonomous car, just rent you a seat in one, and the Cruise Origin is the self-driving electric vehicle it believes will coax drivers out from behind the steering wheel. Handiwork of Cruise, General Motors, and Honda, the Origin is no hopeful concept, the trio insists, but an actual production vehicle that ..."
+    publishedDateTime: 2020-01-22T01:17:00Z
+    sourceUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/
+    ampUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 65
+    images:
+      - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/cruise-origin-05.jpg
+        width: 1680
+        height: 946
+  - title: "Cruise unveils next-generation, self-driving robot taxi"
+    excerpt: "While a couple of years ago many predicted that mass robo-car deployment would happen by 2020, most have pulled way back on that prediction. A fatal accident in 2018 in which a self-driving Uber struck and killed a pedestrian in Tempe, Ariz., drastically changed the public’s perception of the futuristic technology while underscoring its ..."
+    publishedDateTime: 2020-01-22T03:34:00Z
+    sourceUrl: https://www.sfchronicle.com/business/article/Cruise-unveils-next-generation-self-driving-14993733.php
+    ampUrl: https://www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php
+    cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 44
+    images:
+      - url: https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg
+        width: 375
+        height: 249
   - title: "GM’s investors school Tesla’s on self-driving hype"
     excerpt: "Considering true self-driving remains a long way off, GM’s owners are more realistic. Cruise, the self-driving-car outfit majority-owned by General Motors, unveiled its prototype electric autonomous vehicle on Jan. 21. Called the Cruise Origin, it has no steering wheel or pedals. Chief Executive Dan Ammann said it was “a fully engineered ..."
     publishedDateTime: 2020-01-22T20:04:00Z
@@ -43,19 +88,6 @@ related:
       - url: https://www.breakingviews.com/wp-content/uploads/2020/01/GM-cruise-origin-scaled.jpg
         width: 2560
         height: 1706
-  - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars"
-    excerpt: "The Origin is the fifth-generation Cruise vehicle, is production ready, and could form the basis of a shared-mobility service."
-    publishedDateTime: 2020-01-22T05:38:00Z
-    sourceUrl: https://www.businessinsider.com/self-driving-startup-cruise-unveils-origin-vehicle-end-of-cars-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "GM and Honda Unveil Self-Driving Shuttle With No Steering Wheel, Pedals or Brakes for Ridesharing"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
     publishedDateTime: 2020-01-22T21:00:00Z

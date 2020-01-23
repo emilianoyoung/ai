@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/microsoft-makes-performance-spe
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -62,6 +62,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale
         width: 711
         height: 494
+  - title: "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime"
+    excerpt: "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms."
+    publishedDateTime: 2020-01-23T13:57:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg
+        width: 1000
+        height: 666
   - title: "Returning to experiments with Machine Learning and the Premier League: Relative Performance"
     excerpt: "Following on from this piece where I was experimenting with machine learning in Python to predict performance of teams in the English Premier League (EPL), as promised I have been been running the script after each round of games to produce a predictive table. During this time I made some observations and some additions to the model due to the ..."
     publishedDateTime: 2020-01-20T21:00:00Z

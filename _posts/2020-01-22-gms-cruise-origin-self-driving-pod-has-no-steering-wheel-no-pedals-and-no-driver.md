@@ -320,17 +320,17 @@ related:
         height: 480
   - title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
     excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-    publishedDateTime: 2020-01-22T15:47:00Z
-    sourceUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
-    ampUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
-    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+    publishedDateTime: 2020-01-22T16:28:00Z
+    sourceUrl: https://www.mcall.com/classified/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
+    ampUrl: https://www.mcall.com/classified/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/classified/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
+      name: Morning Call PA
+      domain: mcall.com
     quality: 44
     images:
-      - url: https://www.orlandosentinel.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
+      - url: https://www.mcall.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
         width: 1200
         height: 800
   - title: "This self-driving car has no steering wheel or pedals"
@@ -521,6 +521,19 @@ related:
       - url: https://cdn.technologyreview.com/i/images/cruise1.jpg?sw=1200&cx=0&cy=0&cw=1545&ch=869
         width: 1200
         height: 674
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
+    publishedDateTime: 2020-01-23T13:29:00Z
+    sourceUrl: https://www.djournal.com/news/national/this-self-driving-car-has-no-steering-wheel-or-pedals/video_6519890d-38c7-523c-b864-2a565adcb0f5.html
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 24
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/51/6519890d-38c7-523c-b864-2a565adcb0f5/5e282eceb9f09.image.jpg?resize=576%2C324
+        width: 576
+        height: 324
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
     excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
     publishedDateTime: 2020-01-22T16:45:00Z
@@ -529,6 +542,17 @@ related:
     provider:
       name: IndustryWeek
       domain: industryweek.com
+    quality: 0
+  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
+    excerpt: "This is a Business Insider Prime story. Click the link below to read it."
+    publishedDateTime: 2020-01-23T15:33:00Z
+    sourceUrl: https://www.businessinsider.in/finance/news/in-case-you-thought-the-self-driving-startup-cruise-was-just-about-navigating-cities-think-again-the-company-is-preparing-to-take-on-highways-too-/articleshow/73558272.cms
+    ampUrl: https://www.businessinsider.in/finance/news/in-case-you-thought-the-self-driving-startup-cruise-was-just-about-navigating-cities-think-again-the-company-is-preparing-to-take-on-highways-too-/amp_articleshow/73558272.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/in-case-you-thought-the-self-driving-startup-cruise-was-just-about-navigating-cities-think-again-the-company-is-preparing-to-take-on-highways-too-/amp_articleshow/73558272.cms
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
     quality: 0
 
 secured: "VORJxrIJHO1jbWrGQODXRUEsmpjEgkGoprA+PW3RIaBkQ7aIcOYpE1SRBm05Q1CysBVPhgiuRiOobKnZq6rJNlzJxR2m/x78ltpHygw5oszucsiVcPE59K7qTTW08+Ipi9Y37V6BGO/f1TDbRhP18mJARcbuhkq3m1a66WSQ1KTNYbKTxUITZh8YeKUYw+Xlf7nYOilTeDEADf1old7jyXPBPC17FTlb1PIy/ryujTmDpOzzDiER32ml/NWpxqIA4rhuAkQ/p7wu65EZxKE9+OYqrNEyZefKTHcaojgB+Fpn8VxtnBgX6dL1rFP6XNicWYLKgWYc+hNuWPFd3T1Ya2QG2KKiitKQS1nMbP87T7LJKETurI4X1JCHDoRjk+gjRGe8BHA5e0yKyqgmVenMkwv4gOKJSvAq/bVz2u4dXskYc9LJOE3wnfEgo6V3HFmRL2Zk3RYtqD4DkCw1wcSK8A==;8IJb7wsQVZ0MRKgsxa8+5g=="

@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-t
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/unearth-the-future-of-agriculture-at-tc-sessions-roboticsai-with-the-ceos-of-traptic-farmwise-and-pyka/amp/
 type: article
 quality: 102
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -90,7 +90,20 @@ related:
       - url: https://diginomica.com/sites/default/files/images/2020-01/Screenshot%202020-01-21%20at%2010.58.55.png
         width: 1128
         height: 882
+  - title: "The future of AI in warfare and counterterrorism"
+    excerpt: "In fact, in some ways Richemond-Barak’s presentation was an attempt to balance a discussion of AI and war that has mostly revolved around the worldwide civil society Campaign to Stop Killer Robots. The campaign was launched ... then even if human operators are in the loop, they may start to undervalue their human intuition and base too ..."
+    publishedDateTime: 2020-01-23T14:49:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/The-future-of-AI-in-warfare-and-counterterrorism-615112
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452274
+        width: 822
+        height: 537
 
-secured: "V3Aky51jsKLGm/KaV6eqTZnPtJfx3yS8uO2jWJySc5mzuyZH45kVyxiD//d3B7/gqPw0Qmdk419T8wxb4QVgpLU9PZbGUmTk3tgiEohyFUrwH0IemAOw6PUgmxWaJSt7WUtk68dOyEQcp4bkc3yvp5gIdlAcPWR+tpBcfvGIM/bgSj29+GtJIZTz0/WOSpYbByukAan22uRUlQKWyg7KAG/XqDlunvH+IzLrZ1PxQ6FgTPGybLLV2y5w+mYQUozGiNSQX1UUDGWLR27tbNTPds9NmBe6szz06jZhOoTV63F1QmWeuGBSZWbJ9dPp3wQaJLiLCV15A95KljG7u6wtutM5uuiH3Db4FhekbssOP2epI5FCgeXjz9+NLe7iwuOjMSFVBFj+tA+UD2KJFvTntZfWTJ0S5Yp9lfgIoql74fY/d/HImTvWNuCa8Um3XIleI3KK0JIkZKtxJMAbvvhLSA==;7pMA7nHhDW7AIOGhA9KSNg=="
+secured: "6Md3d55oqpmAFGrFr80dQxR/NtWfjAUS/pL8FfUl3cF91EbVIxg5FcBUATe8NYQzjHv3AItLtPpoLMJGwGg0k+pINSnVVmO8cnbQauG6c4RtbqzzVDda+VAs9jyGK9qrgsrjKb4Qr55EmJgKG1VXtqrIuypjkpiudXd/4sVdlP5+d/LCmwaSIrDJ97VoDNuIGnMzMsEpNGIsfVzHuyEkI0q0ryBl4orNhU1FRtiS/U69sIes6qqaWkga6ufmV3caWYPEPoE5ugQIZdv2OPcRhtjAPHd6Go9QIkhloGPpbA4353pvRgNc9VEvcav3lM8GjjqHb4cHUTJlOdGqUJiIFYJsU357s7ZyJnBV+xZ4oeOojeZivbE//zpsNVvyVgKu/yCbQQ8wQ2sQk5o/j12gCLdKyyA05hgY3hKFRx5/MAVGRaVcDGFmq35wTXgRid+dePhXQjmYb0Y1JDYbVZYorbX6vxLWTPIAptfedwbUVSo=;eiBxTeETvImnc9OcWjVTaA=="
 ---
 

@@ -18,26 +18,21 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "DOCOMO to Partner with AI-powered Enterprise Meeting Note Provider Otter.ai in Japan"
-    excerpt: "NTT DOCOMO, INC. announced today that it has made an investment in Otter.ai, the US-based provider of the highly accurate AI-powered Otter Voice Meeting Notes live transcription application. The investment forms part of a business partnership aiming at supporting Otter."
-    publishedDateTime: 2020-01-22T03:02:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15160495/docomo-to-partner-with-ai-powered-enterprise-meeting-note-provider-otter-ai-in-japan
-    ampUrl: https://amp.benzinga.com/amp/content/15160495
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160495
+  - title: "Phiar launches AI-powered AR navigation app in invite-only iPhone beta"
+    excerpt: "It also uses AI for lane segmentation, semantic segmentation, and 3D localization, allowing the app to determine and draw a proper navigational route through multi-lane streets. The user can then just follow the suggested path, as well as seeing floating icons that indicate points of interest and traffic signals. One key to these tricks is on ..."
+    publishedDateTime: 2020-01-23T15:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/
+    ampUrl: https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-  - title: "Docomo invests in Otter.ai, to develop AI-based translation services"
-    excerpt: "Using Docomo's natural language processing technology, Mirai Translate is expected to offer precise machine translation between Japanese and English. Docomo plans to support the launch of Otter.ai within Japanese companies during the fiscal year 2020. In addition, Docomo seeks to develop advanced translation services capable of conveying the ..."
-    publishedDateTime: 2020-01-22T06:46:00Z
-    sourceUrl: https://www.telecompaper.com/news/docomo-invests-in-otterai-to-develop-ai-based-translation-services--1323596
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/phiar.jpg?fit=2299%2C1150&strip=all
+        width: 2299
+        height: 1150
 
 secured: "zTrAf6GyU8uV9JAde8zx4yrUEhzVJRyTdeyOufoVhMeZFuEIeQmNcgpFKsWyfeLX28jes2fyGLFtrRDvtZK7Yrk9T0jvEb/eQlLJIq0JRFFRGM0ZXhu9R1mGDsWxQw3kHRZ1ckFNp+L7kuQVlC7HtnznKWW9Yj3OcnXFfQ0h6GReUZi7/y7PQj/jSKXia3hw9pMpnmD3oEA0iiLPgNAJODrOjcl3+i64OVRmyG4Sn7r8VC9OVG2IhiJNUc1Q6kwxb/f/1pSg2vzZgDYcJDCngMRLvzZK+WFNVfw/wHQ5ycKwILQRGb7TYDzY9I1xrdwTFIgQLjw7JI+oDbu/LLTqZ3Zp4T2WRqyQBfn05M0aw+TVPlnjIGsfb8pdIzpIO5VmnKRksJcXhiFCozkkqPUWU6bLs2erhEcfklyh+t2nwZZ9CAVJYLETQiBJKILZ1ajbk1MChA6JZN4rKQC2cZQOCA==;T0No+f4aUhkMTu0BgQgiGw=="
 ---

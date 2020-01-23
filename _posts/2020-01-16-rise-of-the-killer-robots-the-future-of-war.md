@@ -86,6 +86,19 @@ related:
       - url: https://diginomica.com/sites/default/files/images/2020-01/Screenshot%202020-01-21%20at%2010.58.55.png
         width: 1128
         height: 882
+  - title: "The future of AI in warfare and counterterrorism"
+    excerpt: "In fact, in some ways Richemond-Barak’s presentation was an attempt to balance a discussion of AI and war that has mostly revolved around the worldwide civil society Campaign to Stop Killer Robots. The campaign was launched ... then even if human operators are in the loop, they may start to undervalue their human intuition and base too ..."
+    publishedDateTime: 2020-01-23T14:49:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/The-future-of-AI-in-warfare-and-counterterrorism-615112
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452274
+        width: 822
+        height: 537
 
 secured: "8EswfT3qvjMVZB5FtuOkaabZFis0Sl82lDQKykq2f6Jjo8nZfQc7Cd2R3dd5DKZad7BOK4aHSVH130ps6oGSXpaoYZX0IKXw4iS8LI/NZw7Bcz5+rT5x38l+Vj0i2Nc6RW+fBWFtNJphQ+jMhoWLoUmDyNG+7TsOjtCGyi2TkJChnvNZmtgJp0Akhzs+cGI/JRyXnRYW9s1D75buQ0J1bgkSXrb1Poyk+OEAnbNr9zbyQE58UYprtHLiVM1bFX4McfN3gmFbRI3izWpWPJ3dQJLHzDG8aFWkDmgb5vn8/LQ=;aaxPJVpGckeMwR8nXkiACw=="
 ---

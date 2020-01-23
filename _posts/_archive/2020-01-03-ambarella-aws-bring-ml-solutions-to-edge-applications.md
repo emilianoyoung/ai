@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -61,19 +61,6 @@ related:
       name: Deep
       domain: thefastmode.com
     quality: 10
-  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
-    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
-    publishedDateTime: 2020-01-03T14:43:00Z
-    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 9
-    images:
-      - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
-        width: 512
-        height: 512
 
 secured: "DK0a/fBAm+2h/Nr5oxnyBLuyoO3j6Hq9MApu4j++YZCftFpbWRmnAANtV+q+OiRxqFQCad/G9aSfn09VskwlfWnujEBc+ViyiURFYojoa+eP1PJBK3fFevziNC/mbmE29ss03OuJPgpK0CC+ZDS2k5CRVbxAy6nGVoT4uK4E3/ou8rJsRk4jWTmNig/x56JZ5Fl5feVsS+mmDQg+REf4RAEwRaPX3wLOBz2XqpljocMMqfO1r3JoOhBK0XStvY3zYJtfNXQxiE+iDXQ/jgeESyPj5y7wHe3a6S6JnVgornQ=;nPE6l+IKORgZ0XQRnimB+Q=="
 ---
