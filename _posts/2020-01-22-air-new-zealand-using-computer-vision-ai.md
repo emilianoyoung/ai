@@ -8,7 +8,7 @@ ampUrl: https://m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-comput
 cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 250
     title: "Air New Zealand using computer vision AI"
 
-secured: "br1mljaf2ryNfdLvaV9hZpCkB/OMaB/caJkll362pTDd/m29wEeWdoiTRucU/3I5r27jkSa7DcrrF5DzoBElc8+ePQDg1WqqJaeU5bg3t9b/1EcGfgfgTYa+NBCLNLMeVNaAJrhFxtM+DW+X8Gxx7on/r8PlwumcibFSGt2XnEdL19Uzq1wCxPMnKxxAJCzC9E6J66Mt7xfyNe/CsGIoAIMw9kZquiUIaTHTMjZVgQC8Q0B8x4k23YpYy8L0YkL8JNkukOHzN9ndem5h8VgO3NGCQGvIO8j9c4aTNs62668=;/8hWlZrY5nIWMGNAXX4u7w=="
+secured: "Ta9cal3o5YuRvibY/83/AmUUIYfYd3xyepDB4kzOspHrCZ+UyRPJAVYXmdGCEAA6P5Zs5+fsXO77KxDhJq3YoE+e0AhrvK08bY2RtMUKIE0fd1oLT7v36vGHZcWaP8ZRsmRG39KQLCIOnAw9uez+5Y6AHDQ0ZL6xn24sr/ADXSpLiMc34MPe+/zcSdJf4oZwxD5wmo95YSO9TdroNh6pLJWrCu1gYpjJj582AGLh89z62vY/emVFQ4GD+/vSCKCw8EgJMObysjUsWOnf3mcQS6GFS9UKhVfQYxkMZUaA8es=;8ZeEMw/NIy5li4Khp0Z7AA=="
 ---
 

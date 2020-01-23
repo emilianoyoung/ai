@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-au
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
 
 related:
+  - title: "Ambarella shows off new robotics platform and AWS AI programming deal"
+    excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
+    publishedDateTime: 2020-01-02T10:04:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Ambarella Enables AI on Connected Cameras"
     excerpt: "Ambarella collaborates with AWS on single-click machine learning for edge applications Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on ..."
     publishedDateTime: 2020-01-03T16:10:00Z

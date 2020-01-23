@@ -110,6 +110,17 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
         width: 1200
         height: 825
+  - title: "Twitter tells facial-recognition trailblazer Cleaview AI to stop using the site’s photos"
+    excerpt: "Twitter sent a letter this week to the small startup company, Clearview AI, demanding that it stop taking photos and any other data from the social media website “for any reason” and delete any data that it previously collected, a Twitter spokeswoman said. The cease-and-desist letter, sent on Tuesday, accused Clearview of violating Twitter ..."
+    publishedDateTime: 2020-01-23T05:01:00Z
+    sourceUrl: https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/
+    ampUrl: https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 30
   - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
     excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
     publishedDateTime: 2020-01-16T21:45:00Z

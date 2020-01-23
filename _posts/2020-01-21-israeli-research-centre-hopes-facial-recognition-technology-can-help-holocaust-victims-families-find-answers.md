@@ -556,6 +556,21 @@ related:
       - url: https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER
         width: 300
         height: 250
+  - title: "Inside Clearview, the secretive facial recognition start-up that can reveal your identity from single photo"
+    excerpt: "Clearview AI, which operates out of a WeWork office on W 29th Street, has created a powerful facial recognition tool by scrapping billions of images of individuals from publicly available sites such as Facebook and YouTube, which can be searched in seconds. Its technology is being used by approximately 600 law enforcement agencies in the US to ..."
+    publishedDateTime: 2020-01-23T06:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/
+    ampUrl: https://www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/23/inside-clearview-secretive-facial-recognition-start-up-can-reveal/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 41
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/technology/2020/01/22/Facial-Rec_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg
+        width: 858
+        height: 536
   - title: "Software detects backdoor attacks on facial recognition"
     excerpt: "RESEARCH Triangle Park, N.C. -- As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by ..."
     publishedDateTime: 2020-01-15T00:00:00Z

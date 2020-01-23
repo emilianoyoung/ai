@@ -23,6 +23,17 @@ images:
     height: 627
     title: "Report: Speed up drug development with artificial intelligence"
 
+related:
+  - title: "Report: Speed up drug development with artificial intelligence"
+    excerpt: "More and improved use of artificial intelligence, and an overhaul of medical education to include advances in machine learning, could cut down significantly the time it takes to develop and bring new drugs to market, according to a new joint report by the National Academy of Medicine and the Government Accountability Office. Before that can ..."
+    publishedDateTime: 2020-01-23T01:50:00Z
+    sourceUrl: https://www.rollcall.com/news/policy/report-speed-drug-development-artificial-intelligence
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 17
+
 secured: "va0Ux35N8V51QqYouNweitWOttz1mqiU84u+eh6/IKJoKP8UjxtIS4rWbCeFl1RoszBGZk8W9HhlLFCejgDIQJLetedKDtwNjTRBlLw4mQr40I8OBEpK+PwFHxbdTFrc4n7aIRMg9tlxR2XJvLx40vlEoO+TIKTa/1dOyBmDYMdsEFiwS2gytL/XDLSiv6vlPB4BTaYL9S/u4Plpp+GYmJtg/mLuuN6xSTB7odgR7vKzo9cru4v3IcGG1R34d0cvgX9zUOREM+nBdXQhe6fQ6jkv3N2NCzwvQk8Fh8667VIPhtzVQS2UArIBtNI53LlZyI5PpC/a/l8jwrmxkZ85sstXLNiLHsWqYXSYbObrgsIpKRqZ4D3QN7d5mzHiauAkwk+a/YmWWJR3iG8cQHdwBZqiFsVTi0nVWMrKdSyv4aWelhxlAZNfYJyITUOUAAlsDF/lOsFD3CBDKph8QvkIZg==;venVr/B43LYJ3TjyltrKNQ=="
 ---
 

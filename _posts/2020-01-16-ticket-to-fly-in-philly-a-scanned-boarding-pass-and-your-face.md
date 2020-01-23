@@ -121,6 +121,17 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
         width: 1200
         height: 825
+  - title: "Twitter tells facial-recognition trailblazer Cleaview AI to stop using the site’s photos"
+    excerpt: "Twitter sent a letter this week to the small startup company, Clearview AI, demanding that it stop taking photos and any other data from the social media website “for any reason” and delete any data that it previously collected, a Twitter spokeswoman said. The cease-and-desist letter, sent on Tuesday, accused Clearview of violating Twitter ..."
+    publishedDateTime: 2020-01-23T05:01:00Z
+    sourceUrl: https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/
+    ampUrl: https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 30
 
 secured: "BvSDVvZeIHfrMdmmtgpIEk4/hBNn3yjCs+U4sK64wWIBeFrgniIKLOoUo88oCzfLmkD0WwCHf5znufR0GMW6RcN94s2FZRso5L2nUnG3RRao23GMn1fusBU069zmwqac8hHcZurX6oer8rpp2UFyvoNz+K/hm5SGMZE+KJsO6ZW7Sj8trtCcv5TudSX9RSmRBwmGbaFqowUf8hYuWZIfBX4rMhKyo0wcPuMY+5QxRNByWiksRLe+DWyc5aWyKGp9zs+A3mNdzixvxw/HfXTbSq+jqvsA2EyacOkPvwa2iV0=;KXs0iiVm0QyXQ5i9Wp2mPg=="
 ---

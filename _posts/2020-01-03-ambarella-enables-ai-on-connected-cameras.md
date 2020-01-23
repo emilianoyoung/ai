@@ -39,6 +39,15 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/ambarella-2.jpg?fit=1200%2C655&strip=all
         width: 1200
         height: 655
+  - title: "Ambarella shows off new robotics platform and AWS AI programming deal"
+    excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
+    publishedDateTime: 2020-01-02T10:04:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
 secured: "qmKlygiUMr/5z896cU/z4QDzlZP0sowLGsxnIHVlB7O0p7aPA7hH95ColSXiK7rZ6+FK5mwFafKRy04NwzQuaVC5iRhIL2xU0oQFHWM7R52feAzWYnqKH66agJoLqEeCjkyu9z4+XTgmks8gfE14TlB6uGxGqBBSYuCPrlXgwGpvSr3HdXWdEf7Sak2rx8SAYnSGdZuQQs6jslOwtbbMwqoylMM7iZ/OqmZsZjKnPtoxweDoB0+2rMQFGKe/XAu3VNQY4wtaRaUoNIu6P24rWLMR/H+JmExCtsTNIYEHLmQ=;9N4PIgZxG3pVhKcLCoRsRA=="
 ---

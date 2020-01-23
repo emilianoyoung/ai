@@ -2,8 +2,8 @@
 category: news
 title: "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO"
 excerpt: "The Mountain View, Calif.-based startup last week named Celia Poon as its finance chief."
-publishedDateTime: 2020-01-23T00:53:00Z
-sourceUrl: https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520?mod=newsviewer_click
+publishedDateTime: 2020-01-23T03:52:00Z
+sourceUrl: https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520
 ampUrl: https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520
 type: article
@@ -45,6 +45,6 @@ related:
         width: 620
         height: 413
 
-secured: "35/lEPxZ3yfUMXd0X83ioA9CAV1zF7pnsiEFeyoSsS2X0YHLIKuJvzTqaaUDEjvVmABpasYWDV6ky2QiGB1863uzIs9SR7wyE+N1lDbuYBt/Gv5qvjguPb4pKoukq9eSjLks7ZNzZ+9xIdfXHWGrLVnocV/5r05tCQ0rUJBY6Ae0ObcsA3oT3qTckXI0vu97GZFHY1eI7G/qqMp2KyuUezZXDOAVVmCA4q6RuuYQ5tjQdmnfBeg4qkA1jYThF3bZUvZY5cd2zvLakdV/lOVM8IO7xsTCxMP/HsZJDLz3MF6SHK1SvKgdlXTzUcLgXYZDvKauEjprfXXe41s6+Ht8UmqSOxxGAI8SDthzpNXYQC8wXlD1emfya9J5QdtAnCP3+hvRosTroz51j4syQBIoMb03NHdqcIu0y3QGU10yDlWmYtKKehYuDbJWX3pqhoGyU8zHvLHRVaHyAxNqHE4GcQ==;k3WFl3CguSWIParBBFcxZw=="
+secured: "4WnvifEa4JnknMYtp4XnFg0syEQg8hCh1LxfV4Z6DXjwc5UReHMfjeDmm1BsvaQwi0TqDEwSnhLms/8/u19VOcafMQdNSYu95leiVdv7/RWMj7pQ+8C//YWzw64Mj4SURix7jKRRfizAatmWq6RgT8Zmdq67GoxM/1F9l19MuQadJu3rr980ZgciuLOHYGgiXicm5VUxDCSC5bCt3aMWPOzBj7xQL33xDkvcuQQlXvBoDUEZMrtELfZScolg88ErAO4MwPlDIOqQP3ECC6758z2v7JGrhk1HPgDxtjSc2AI=;WFuHDJthHLF4pZkCiU8VNQ=="
 ---
 
