@@ -8,8 +8,8 @@ ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-
 cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: The Asian Age
@@ -25,6 +25,19 @@ images:
     height: 448
     title: "Artificial intelligence can now track down blood cancer"
 
-secured: "17nS9aVGw+9MSB2VchQ8xLZnSkjYAuUaPfi6IEJpMUNyJISiyb8LfYwuLcYJx9uGEc7ntFcRYU/3m+2aYm05sdF4oQI6qUkjCXj35qoQ6/uzaGB9Z6ulBeD9FM3gmO8G98W6wfv4LQ88jTJA+kk6QatQTvtQmMQ5232wOrcZrvLywJasPeZejq9I5SMgOo6K3AIvfSp5YlvMpdvgocgTWBcsAp7ob8J90CGitVrXRjCqBmTgQ6HftmQvT4hfYBiMRnFDBekDUKBOyjRbRmhgucwaOwhIzpwTZfCl/kSAVo4=;qZHrA1R7Pid4qNuaQq+kXA=="
+related:
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
+    publishedDateTime: 2019-12-26T12:48:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 39
+
+secured: "ZObkboXl5xyGSWfPJluZ4/6Xg4gI4UUe4rGBjHM9lRCWvdXQxbP4AiWvaIuW5W4jC19ZSMmjY6utKj7gBmH9K6zTMIUa2WtO3nPxrsK5cqgYdQeHSPzq9zZazHpLRueMB0LX+GXz49QRm51+E+euhvJFdDI7ASi7hen139j8FEue/qJUaXVU9h8N3n3IYWdT6GBpq5zB49KSq9qhL4BF2gYFWDAuuY7hFywRrm6r8T5Vfi54x9dBUaR8zvjrdG75DrDz4nP55FezZLW75dcl7z70CAFs+vIG9ub6QoWShj9By4o03OcCPzT4kBLoXj5i;g1JOWtx9V53lyPkTrs15dQ=="
 ---
 

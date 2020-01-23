@@ -5,7 +5,7 @@ excerpt: "The AI was trained on two datasets of mammogram scans from the US and 
 publishedDateTime: 2020-01-02T10:45:00Z
 sourceUrl: https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
@@ -21,7 +21,28 @@ topics:
   - AI
   - Google AI
 
+images:
+  - url: https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg
+    width: 1200
+    height: 600
+    title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
+
 related:
+  - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
+    excerpt: "The biggest improvements over human scanning was found in the U.S. portion of the study. Artificial Intelligence (AI) powered by Google’s DeepMind algorithm may be more accurate at spotting breast cancer than real life doctors."
+    publishedDateTime: 2020-01-02T18:13:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587
+        width: 5121
+        height: 3416
   - title: "Google's DeepMind AI outperforms doctors in identifying breast cancer from X-ray images"
     excerpt: "Google's DeepMind medical artificial intelligence system can outperform doctors in successfully identifying breast cancer from X-ray images."
     publishedDateTime: 2020-01-03T14:37:00Z
@@ -36,6 +57,6 @@ related:
         width: 1100
         height: 550
 
-secured: "HF03qV4jjYVd4RK1qAdPEHI0TCh+Z/cnoVSn9RO6CM63ZZuYOltX+RNiCmvg/h2QjwX1jMf9k7EtS1YMCrt9i9HOGO1IJxglVSEdr6bmQEKbPvb+VxjBaQhxv3V/Rc5KlaGg4vjW+3bhur5HWWHDHTjH7+Z1/olFEKS46We/fFkHL10K2gDv3BIN2O3ulW/3Yw13p/wYqSa1aiBn54JdP46OoovAKTgtxcjWVCR/UJOFM2eJJPr17a9EelFYGumoTnmXkmlGVKje7m1+QGCMQuEqTBZyHHWSmz2IgVCwPrnI1m17bRyH+wCi7klrpEU+JZshUoq5zzrG9DV8gXiXSJmA+qJMF0ed00ZCnuBYwTboTP8VV9qsOE9x/YvUBtl6QjuskRQFWMtjFwchYWhM7ctth9LUCCt+P3ezFhVfdpfbZHjLmAfUJLD7VYAICRs049xeRZXf/hbGSGHp8AX34A==;c1V99kw4JihwlSL9VesmjQ=="
+secured: "yQlqGsRY0mEG2+EARoaHq9WLzc9MVWgJ5SQa2ydr+JRkVzcdQCXSjbrQBkMHl7ezoY4J6fJhNf3Q+OEWmRJkPoEPSRmo2xc1COORYXIvBYzsbGid+3jAF0e/x/YvDNhGk/qCx9thRksulr1uORjTgqTgV49013YPGL+y0EU3MiD2XkphddBfmy1YgifB8QK+v8nBFQCV3f80AGneoyOnOdeDR3oJB7jwK6cxwkRJb3xMrHj+83Q/SaVKE39S3wOs6LFoOauWK2UuiiC4d1H/DE9q5PrMIZZKg0SegEmX05xp+MKWLIs2xAIOhRlShF77;ms/ZDgXsImDMHD57K5v/nQ=="
 ---
 

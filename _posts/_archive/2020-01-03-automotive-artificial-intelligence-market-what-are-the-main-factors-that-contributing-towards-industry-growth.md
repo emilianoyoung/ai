@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Automotive Artificial Intelligence Market- What Are The Main Factors That Contributing Towards Industry Growth?"
 
-secured: "HHsEaktngxSF/QHdZNBeQIOl2wsG2+Agkeb8G45RzuMp69V995eRL+A0XkRRUsNCi0j8fRRTVgubaOAVt7CidaeALeUqxuLLuvYoB9vSlNQS7I0ArBEQPlhcwJQC0v8dp82hpjbPoYbJzz53WcLph/zX9dPnAHsbRgy786dE3PEGKS6OjtckLKR6ssulTJTqUjViRbPRBd9IN/PpXGlA/oIhzgecOAe6XEmzIU5SLn8LTLebch32QAdSB/1c7RQcCOzl+1Vq58P8BZLEPY/U4PK9g02DDxTgZgFpKtXaO4E=;PfPSn0BuNzy8puDK82Avxw=="
+secured: "rSvjypV9YSPlIkpQdCK9WjDxINN3Q5dBy5dJbEiF6Kxz98r/YChONT9EgKaMGZ3mFE1emN2hY6MThUTYZyYev4rvOi7WJH07e0aXra53nSM9eHNoxsMsFxx97JOH54l2RFLhVfXb/Kqd0myqAT9ocp8+uiHp13uJjvqgQg/+9ghNDsmKQHoIjGMxIhAI61bIPeRqObZs/sJMkWU1FCOXJks0QBNIjzxG9KZMCtiea5I8Vb9PMimA6yU1ZkYbD08QazdTidk0KTYyZo6ZOwhU+r/GcU+0qj4YCMXwLXji/EXAVK0Jt3Mn7DKcy1ZIXGSD;RBe/AQPiVxStPoq0KD7SYw=="
 ---
 

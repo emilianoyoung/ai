@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-02T10:04:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: MarketWatch
@@ -28,31 +28,20 @@ images:
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
 related:
-  - title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
-    excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow-powered AI vision system on chip (SoC). Until now, developers had ..."
-    publishedDateTime: 2020-01-08T11:05:00Z
-    sourceUrl: https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    ampUrl: https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    cdnAmpUrl: https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
+  - title: "Ambarella Enables AI on Connected Cameras"
+    excerpt: "Ambarella collaborates with AWS on single-click machine learning for edge applications Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on ..."
+    publishedDateTime: 2020-01-03T16:10:00Z
+    sourceUrl: https://www.businessghana.com/site/news/Technology/203582/Ambarella-Enables-AI-on-Connected-Cameras
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 77
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
     images:
-      - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
-        width: 612
-        height: 355
-  - title: "AWS Cloud Journey — Analyzing to Deploying Models with Amazon SageMaker (Ep. 1)"
-    excerpt: "So, stay tuned for those content in the future. “Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine ..."
-    publishedDateTime: 2020-01-02T23:01:00Z
-    sourceUrl: https://medium.com/@kyleake/aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1-61a4b636d618
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 60
+      - url: https://www.businessghana.com/site/img/../../cms/img/news/2020-01-03-1346071.jpg
+        width: 800
+        height: 600
 
-secured: "AQ5puJzLWqOG8w7LA8YFxtrkn+98cOnEJoTuLmU0OtIfuPDxTdV4jz7pUH+e0lLuvbiB0iYWEaMzblDL88BPMQIi6NsMbyZp12z+lcYHDjIG5Nr4D7dh3s3q7L5O9CkcMB0kSIk8k8BQayjklATyenWVLPD6iKewcpx4K/R+MCrlVToP+VQKc+KSg6NBW0VT9rulLrJNgjF32QMEhCja0dyfhE++gVWNBRLg1rHeq+rZzFF347PUxP3Pro+05vt7gJfoqPcKiEaQTLxDYd8YGEUZAXJXnAN1Pgvqz06lSQE=;3wVdMMiIP3F4cw2qtnY9eQ=="
+secured: "J4llEcqd+tauqko1qcQBi0eBgvk7AiPyEZkRJEgULoXLE86iHoyMFKLRRwiXmN5L6lWXHOwYU46m9+s1qUWhR7VucpjOwyjJMrDYL++4TL0oajSbQrGSd6nCK67SO9R2ispesLYCk98PBMphw03f6uAg3rjXNlMGGut3UIAImmgnP3Mj8mZ38sv+dypijvio++iCRk70tVWDhViW+2UwcEFK3B059snAyAarx55mi61Kv0wAoTqCU+potNdrRIx6QZaZFkNE5vDAlsLdujU8H6Tnbl3bcE3F3OtAUbdVKWqOnHuMndZQ+Eb7N8/+YTRh;W1m9DvMDs6skgc05sXmCjQ=="
 ---
 

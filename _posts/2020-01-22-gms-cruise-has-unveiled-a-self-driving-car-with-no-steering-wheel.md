@@ -337,6 +337,21 @@ related:
       - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
         width: 1200
         height: 800
+  - title: "This self-driving car has no steering wheel or pedals"
+    excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
+    publishedDateTime: 2020-01-22T21:50:00Z
+    sourceUrl: https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    ampUrl: https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 44
+    images:
+      - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-20022112310822-1-1579732291.jpg?crop=1.00xw:0.844xh;0,0.156xh&resize=1200:*
+        width: 1200
+        height: 676
   - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
     excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
     publishedDateTime: 2020-01-22T17:23:00Z
@@ -469,17 +484,6 @@ related:
       - url: https://images.axios.com/RuadaS8GdpPrVkbGKAu71OjWW60=/0x391:1920x1471/1920x1080/2020/01/22/1579671552958.jpg
         width: 1920
         height: 1080
-  - title: "This self-driving car has no steering wheel or pedals"
-    excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-    publishedDateTime: 2020-01-22T07:11:00Z
-    sourceUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.html
-    ampUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
-    cdnAmpUrl: https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 24
   - title: "GM's Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
     excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
     publishedDateTime: 2020-01-22T20:21:00Z

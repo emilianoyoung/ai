@@ -20,31 +20,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
-    excerpt: "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
-    publishedDateTime: 2019-12-23T18:26:00Z
-    sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
-    ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
-    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ..."
+    publishedDateTime: 2019-12-26T11:12:00Z
+    sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
+      name: The Asian Age
+      domain: asianage.com
     quality: 59
     images:
-      - url: https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg
-        width: 1200
-        height: 1000
-  - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence ..."
-    publishedDateTime: 2019-12-23T17:46:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg
+        width: 800
+        height: 448
 
-secured: "uW7/nsIE2Cvg1bbi8GHl09aTQaJWZClOGpKAj/G8aTKLkgYgEnXobQBVlif9wAG5d//hOfn7wkCfgI/2KrnlfLRoBDxf39lSwXbZ1LCaDQH5djuxmyI7cFYeq6M+qQlhyx0W2Q1sna4YQBZ3yCYbF6cZu3P8rCSmWjCJR1TrTpfIfKQs8GrAYMJAs7Il7dwuy6AbB+4tnaqxUguN1djfQlQVYygzeH5lmRdnvnqnUIA0QvEj1EZjGKgMpx2hQO9NX3UaKCu5r9v01aWfvPdFTPp8fWLxLy4uwCtDE+9NLkM=;JWqy8fgh58xpckV7+6O1eg=="
+secured: "U5bMvk7Atfr6foLxgm2x3hA/JNzXmxPQ/SQiSE4jQWbrQ/SIUV9fIf4e45UMlkFh3OPEqHiDcpDyFOWUdhKFNzVSqh9GJObK/UdVfuU9Gm7rgWGA6egfBTj3j7sKhppH3cumF3RJy2VcYDH0v6cX/pS4NXLLk2a2RE3yNjQoGZvqgxpjoFKyt37gXpns5mvUpOWOIO79FDv0NNva+R2/CSiwKqd+InwsAGguiixYeVuEFFgdwb36otTHvfrYW9ifmdR+77hItwHzcY73Nvaau51kXSLzgLFIVmx8fdQWsrUH22YzprkQRPdpzLrYtiQY;egkCvlsHMJVmVkdjfffDpw=="
 ---
 

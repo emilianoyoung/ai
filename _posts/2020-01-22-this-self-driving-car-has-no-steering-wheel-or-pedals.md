@@ -1,23 +1,29 @@
 ---
 category: news
 title: "This self-driving car has no steering wheel or pedals"
-excerpt: "The Cruise Origin is a self-driving, ridesharing all-electric vehicle created by Cruise, a subsidiary of GM that's also backed by Honda. Cruise has not yet said when the Origin might hit the streets."
-publishedDateTime: 2020-01-22T07:11:00Z
-sourceUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.html
-ampUrl: https://www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
-cdnAmpUrl: https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/this-self-driving-car-has-no-steering-wheel-or-pedals/video_f89c9447-7276-57a3-8128-e3d5a2150738.amp.html
+excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
+publishedDateTime: 2020-01-22T21:50:00Z
+sourceUrl: https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+ampUrl: https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-20022112310822-1-1579732291.jpg?crop=1.00xw:0.844xh;0,0.156xh&resize=1200:*
+    width: 1200
+    height: 676
+    title: "This self-driving car has no steering wheel or pedals"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -499,6 +505,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "ercpUQXbBdfHJD/mjM+T7uuWeCnJEjex54hxhGhMWhF+D0Ym/TGIUVSRN+/3gHlHVIjc6fjCmdQCKYQIY511j1xr+QhfWWZ0i3pPmqLSffrbH1spH9tsNXTFhQsrwRto5Jy6nTHRmnh4UkUxqGJafD0Gy+hvNbV1C0NroogGOKUvPUJWS4jimkBSEqFe/LxJ+X4Czrz9zlAFB1jaEOSvrVQJWKYgkbLknUCKTQUyfbOy45sNh5cxq0mgPynBKEw44CvIsvD/1p1eeXY8JNy81KBQNixmaa8GC4bVUQo3cs1Y8dy5u2BRMp4APugPu6WE0IwBB/5RfjUSj2O/chmw/qefu0V0e7F8vOkqWRbl9njftFAiMMs/6gG9MI2heZyz8KUkLZGJJispEVO+1riaWFYmDlhVRYIJ1qCjzoLI6U3wxms2EvQ0lgFysI1bdKAWml2Y0fUNbbTXg7q+0PeZJg==;ZRQB6UWvBdx/Eu78omINUw=="
+secured: "rOaZHsUTNZ6dL4zpTKi8PmQ7y/sS6hlEOKE/2F9xduqGGUNvLPoyiTg/HskeHBZ7vCP31Vr+BY2rG1TbwL0+2+qC0P9EtJW7F4jHn0gabJSEb1sxX5wTFfTaP8SQb0V4knanfFkowthpUIxinqMQVpo4a8QMeF31XLRJG+GBbdfKkmVNYg+yoSP8gGh/TLx2NtCJ2siPHOoNQIDoCRBQuuYSUcaA5uQFGOKYY2PRmH/Fq8MGMGwkPUQhq/BlfdFcJFwIY1oYcH4xzsdti5fnaNGfsjIh/OGmNWPIRozr+G7mCfkk6bhJeIe37wE//tTA;DXUnMCImVP5GhuAVYLv7MA=="
 ---
 

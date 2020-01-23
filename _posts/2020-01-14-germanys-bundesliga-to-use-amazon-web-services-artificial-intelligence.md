@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-se
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp
 type: article
 quality: 103
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
 
 related:
-  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
-    publishedDateTime: 2020-01-13T11:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "German Bundesliga selects AWS for personalised coverage"
     excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across ..."
     publishedDateTime: 2020-01-13T11:20:00Z

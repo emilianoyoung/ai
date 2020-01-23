@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
 type: article
 quality: 79
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -56,30 +56,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 39
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
-    images:
-      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
-        width: 320
-        height: 209
-  - title: "Baidu testing self-driving cars in Beijing"
-    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
-    publishedDateTime: 2019-12-31T18:38:00Z
-    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "SLnY1HbholwVWOsP9ebf8vnP+1mrUCz5nmnuT9Uqyr5T2qmVMlTI81gsyutVcSMjv0p1o8zZgSI+j/Mal8rTEc2+WC+mtTO1Jaz/Jptb8LuDkzz779YbAxlrAQPzOeeE8k9NTSQjILe3RBJ3BPZEI2Dh4tmwsNKQOfLymfeKGFmx6AzO2rCoz4FQ+Z6F4fiX344Rzh4q0C6O2DeWzkVSVgtgqsR3e61cjp0LoRNzPDcRn3QeEW4lmHm2n8c2L2s68IOjtVYX3GeuwcPIYdehRU1CttFGncFdwyDPjvfI025cc0Hvks90DWPhfazaftV+A+iTIlnhPHntP16TauQcociRQSl42R4Nz4TL73j4ARBsPKWu4vHzFJRQgqb703ZLxJS59ODVTjSxSLb+URpPAYhZaVhcCKNEQWcdt7vFPmX3h2ztvBOBf6rxjy7mNq5pola4nIgNFnO9LjVk5yxduA==;QW1MBmYKq4XmfENmVk2+HQ=="
 ---
