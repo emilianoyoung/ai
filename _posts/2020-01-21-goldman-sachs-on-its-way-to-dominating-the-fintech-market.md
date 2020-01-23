@@ -33,6 +33,19 @@ related:
       - url: https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-21T193142.073.jpg?fit=1200%2C628&#038;ssl=1
         width: 1200
         height: 628
+  - title: "SEI invests in AI insights firm ForwardLane"
+    excerpt: "ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI Venture's strategic investment into the company, to accelerate growth and the provision of powerful, personalized insights for ..."
+    publishedDateTime: 2020-01-23T17:40:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/81237/sei-invests-in-ai-insights-firm-forwardlane
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
 
 secured: "tUguy3yrfsUAl8eHDjeZAfCQzNi3eyCAiTtrZ+z4JJ6q5U8cMIjGo4ZW/swOuimp14US7paswkQRwTGhj07FZWC9XA9ALqSD5Ev7zuOq8vq4Y39OV9DVKE0q/whb8SwiPKSCDpjstw6i+JfKbWX+wORDn8hGKjtJYv+VtGI0FaNAPvDcc5cUAQUs0CfgkNYG5PhuyGCHoouYmL3P8emigtP1FEQPgGmiZjMpWUTu2mOCcveLC/kx5PIrLHSmNm+XvN9ZSRCENEZKUDiVojdrWC2ML2hi8t56S0FFnA9d1e0=;jhZLKfgvdqzC3xObDUpLSw=="
 ---

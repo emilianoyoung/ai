@@ -95,6 +95,6 @@ related:
       domain: design-reuse.com
     quality: 0
 
-secured: "oj6ejC9ATWjycCW0C+9sXv1GKWehW57jiUUbjJ0VUGA/Ku4xp1iYKt41JEARw2ji9GqxRICcNGuoIvO9AokJDyXlXfMvsFvXSdE5KXkuARxWB4Jvws7G94699ouhl80wAi9eUcBCJYoDlfi8PtG/gDjjcXH7m3jea7U7ju9r5OtBEog3qqM5AL8llEnkCdtYC+FtOfJHTftSa9ERFS/kpWJeMh2gUoBdSu6C9fxt5lvFleejpKZyTk4HHFwne7+ORIxgo2lOpStSfsULpA/MGXweBR/KHLczJOk4dJsAU6tXqrZML9OXA49Cf5B14Put;VtYLzTSVTfv+7BXPEv2Yjg=="
+secured: "zzxOPcYLWt7oHA+4NK5lUa02vo5aNzEduisFYj8l2rtMMUNv1tYctnic5CYCZ4HgHrmerrXJm9gJi24OBIDOlrX9p7+qu0lnW6DAu1YOkcM33nliSezmKEi5V5g7p58kCciNWJoNn2iZ7/hc/4d6rxvaFPxMFxA/XSnsi0Ot6GxyjYiP+qNPFQX3FKFd4sduWUWuuLj+V19ZeCEwqKeKKTeDJQcLYjb56uY6y4NTPM90wwvdec/ZwLPy+lRuIjKvKxPOTbD5GM5NYTyn8nsnsJyq5K4i85ftp/q8Muh5YMWHhacOp5/bBnfAEfc08EKE;dAvdMpuJlL5kC9jeegea0A=="
 ---
 

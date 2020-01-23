@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Telangana State Election Commission successfully tests facial recognition technique"
-excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
-publishedDateTime: 2020-01-22T17:19:00Z
-sourceUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece
-ampUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
-cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
+excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
+publishedDateTime: 2020-01-23T21:48:00Z
+sourceUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html
+ampUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
+cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.thehindu.com/news/national/telangana/ndpq8/article30627826.ece/ALTERNATES/LANDSCAPE_615/FACIALRECOGNITIONAPP
-    width: 615
-    height: 384
-    title: "Telangana State Election Commission successfully tests facial recognition technique"
+  - url: https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg
+    width: 1440
+    height: 961
+    title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
 
 related:
   - title: "Dem senator presses facial recognition company after reports of law enforcement collaboration"
@@ -206,21 +206,6 @@ related:
       - url: https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG
         width: 620
         height: 349
-  - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
-    excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
-    publishedDateTime: 2020-01-23T21:48:00Z
-    sourceUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html
-    ampUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
-    images:
-      - url: https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg
-        width: 1440
-        height: 961
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z
@@ -236,6 +221,21 @@ related:
       - url: https://m.dw.com/image/41695602_101.jpg
         width: 1024
         height: 576
+  - title: "Telangana State Election Commission successfully tests facial recognition technique"
+    excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
+    publishedDateTime: 2020-01-22T17:19:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 53
+    images:
+      - url: https://www.thehindu.com/news/national/telangana/ndpq8/article30627826.ece/ALTERNATES/LANDSCAPE_615/FACIALRECOGNITIONAPP
+        width: 615
+        height: 384
   - title: "Twitter sends cease-and-desist letter to facial recognition firm scraping its images"
     excerpt: "Twitter sent a cease-and-desist letter to Clearview AI, the company that created a vast database of photos scraped from public-facing photos, which can be used with facial recognition software, demanding that it delete any data collected from their service, according to a new report. The New York Times reports that Twitter sent Clearview AI the ..."
     publishedDateTime: 2020-01-23T15:01:00Z
@@ -325,6 +325,6 @@ related:
         width: 800
         height: 462
 
-secured: "fAex2RmIZvSKqY1gXar9vyP7wXdKwXLbsya1wn8cJkEPAgwaiA7ULFwFIKFnD9bLAlqGucOn6ZNvxIUebEvV2n8WCzKyaHiV8JbFzwEmthybWNtSxM97APUCP+sCBzsHSS/eGryndUJe7QdYX6WaoKow9RwFk2Yu8hlqO05T1vW46zx6QLcNeTzY5LNb5KZAunniF4jJLysN34MYPtp+YMVQEM3ia2L73wEUYkE8Lcsm9zVKitCgo4+vEcw7FDDFcxyMLut/qHJLxj0cwNQ8LjUPHTaeebLcYEuJSppo4VU=;sOMp/7tgxvt5v8mq9xAO4Q=="
+secured: "REPxsZnL3V4xL75eREWQl1CYLWJaLiT1tCAGSbN+WVbatgHhKVvQUkIZrN3vMtTjqKovS9Gxe2iil3e3srPtZ204swSQ4SrvRQsMd4pz4wOFEbGKCnzv2Uu+7E8vOQy0j1tq3OZ6MfwfU3OnJCVl3HK5c8ADm4J5/csNrDvBLGBpnbZx7a54+V+sZUNoX9S0XA7l2hAG8bnRfvFLeZ2mGPN6WkYZECTibkV8loj+bulXrvr7pE1eRIjCE+8LniavsJHtZ7IxKlEZJHe+3KicgSwE/mojYgfRiFtzmeId5Y/76thVXdLaNfDkJAVPJ2Lo;ARncqQUwWL3voyLDr4GenA=="
 ---
 

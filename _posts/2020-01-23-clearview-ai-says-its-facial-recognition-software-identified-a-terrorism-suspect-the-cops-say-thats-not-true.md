@@ -196,6 +196,21 @@ related:
       - url: https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG
         width: 620
         height: 349
+  - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
+    excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
+    publishedDateTime: 2020-01-23T21:48:00Z
+    sourceUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html
+    ampUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 55
+    images:
+      - url: https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg
+        width: 1440
+        height: 961
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z
