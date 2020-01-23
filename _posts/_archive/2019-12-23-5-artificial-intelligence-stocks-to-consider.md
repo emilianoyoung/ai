@@ -8,8 +8,8 @@ ampUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-co
 cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/amp/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: InvestorPlace
@@ -25,6 +25,23 @@ images:
     height: 900
     title: "5 Artificial Intelligence Stocks to Consider"
 
-secured: "PloqFdPgaSVUluN4/UqKYO7DWIWyoaYXPPRc3R3ULv0m2YiircZLnDqTuQVb3ulBCVze9bO0xqOSKvlj96kB+KwcWh1U72b22LFm6yd6+qGjK5gAwtErt78XgVTJ0a34VDZvyOR/KAQ50fjcx08hNX4eTYJs3GKqq51C09EMgyW2lYkutc3KwGiyHmF9b7u7/xW7816VGQ7zONzc1iRXqyDM/LKBWn48YVHPXhvpRIF7GCfWh+UdpRydJxz4rBKTKUakXyr/Bigo2fUUzTA0ETvRtL7SD5S8muAJY+M1K4s=;D9b85xIexoN4+lSonSdvzQ=="
+related:
+  - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
+    excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU ..."
+    publishedDateTime: 2019-12-23T12:01:00Z
+    sourceUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/
+    ampUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
+    cdnAmpUrl: https://www-profitconfidential-com.cdn.ampproject.org/c/s/www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
+    type: article
+    provider:
+      name: Profit Confidential
+      domain: profitconfidential.com
+    quality: 59
+    images:
+      - url: https://www.profitconfidential.com/wp-content/uploads/2019/12/NVDA-1.png
+        width: 700
+        height: 466
+
+secured: "nixZeZFDflshJMtiRqEBwv2Qy+IBV14x1Xr3VehlexA0oytoWyuMmZjy74omuKdC6/GAoZ9wgokovQcIV2ptS5hkQ5LG2wxsr0RAe4rWsnGZwjEfGE7j6IIxtPqIE82r6xy2e8sjVdI4yCXFocFc8ejJ+vy82aKAmZhswq9E6C6xcazjBvX9GGaOvNJBvcCKwNIzac+kZxeqKA5WlNhItVq5jrc/qpxobvrT/+5yLWclK9g8u9VtRLlFld/GzPZuDoVUTM0SLpUP54J5FXoDE9ZW9Y1AMfWEPUrVEhuxAqE=;6gdIj41ZVcKQ2VU631zSvA=="
 ---
 

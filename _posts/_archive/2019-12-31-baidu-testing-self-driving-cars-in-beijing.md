@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Baidu testing self-driving cars in Beijing"
-excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
+excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled more than 3M km during tests in 23 Chinese cities to date ..."
 publishedDateTime: 2019-12-31T18:38:00Z
 sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
 type: article
@@ -19,7 +19,7 @@ topics:
 
 related:
   - title: "Baidu secures licenses to test self-driving cars in Beijing"
-    excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test ..."
+    excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test driverless cars carrying passengers on designated roads on Beijing ..."
     publishedDateTime: 2019-12-31T16:58:00Z
     sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
     ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
@@ -71,6 +71,6 @@ related:
       domain: cpapracticeadvisor.com
     quality: 4
 
-secured: "rKUwfEIrJjz3Fa8yLrhoFA/5HIZx6dDta6g78+8dt5xl4Ot+jI+KZTdrjuodfurGn5Wf//bf+PQsdbosz9nINSzkdkCCaPcAucfbordhJ/fL5IKhyDgeT3jdUWmLW8WQaXHMcwfCqBNICQzBklIDr8XYij05XXPX2ewwH6ttD8bdolrfnTVGOWtAD23GoPQEWzABvNsZxt4pkNjaKghPsz8OxKgyKGHx7uyqCdqh28LNmK67KS4KujveeJ7swtFO8TsM0h0QwdW/vuS02jkHshBagS+EnzFvzovRwjEDcZM=;Cnjy4VAuZ2jqqA3ta+ea7A=="
+secured: "OVu3KgI7sBMKdW3ixgEqhK7PLd6GnNWPyvcRHXjKGzsZqZOAi4u60XrL7KWg8hhs3KFyNST9B2RdDwfeV7/+9iGpgdXGujJYJ2MCqvjPk+lk432Ma5Q/xRD53BT48n5kKjViuRnnb7lb9XKfk0IxgeIxxAIat8hXnvl0GYCX25kY4i15hzxn+e/tDKJOs/JzydMY8uxRKFEYk/KCWq/KMq+oo6rDeOdLjjwvDiOCdwHMNntdv02LcGGz2i+pTmQ+uSH1GIFn0yEmLMrisdOO50YKCqvv4unQ56m+O0jFKio=;/v5SoMdG0IYtcCMSsiPi6A=="
 ---
 

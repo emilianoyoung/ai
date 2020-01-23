@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Former Intel and Google exec Diane Bryant tells a heartbreaking story of why she took a CEO job at a startup that hopes to save lives"
 
-secured: "+J1xqSgS7vTAgWpSDD+JIw9Ekahd4CdF9KfoDHVVrpIU6DlKIz53qMkHGfxvB8bwwjADNZDfJLj5w7ljmrpy1rhW6TKAj8tTLXUSl2re626fzmghppm59EMY6AeZWLPtu2lwaEQ7mlZS1oiGtfXUIubBY7A2+XhOY4b645kJ3QFIMeZYL18hn9d9FyB57Hx1T3LLk192Hfk3J4bZD9JQQ/RzTaDioqKueur66raZm5zeKuA9Y0VNyrfHsLBxUtb/G7P5nrfvIMzbHnccRWp61oIubAE/y8Dx/jIYfQajyyU=;ElH+BaN29E48WSfwVGIh2g=="
+secured: "kwck8Xm+tSIOoUgxF8T1fc0eEI08iFUDBu5/WpxB/na3MAJ7uoJOWIahefGGETjCL2FQM1pSnJQt5wEl0YcwSTGL87yFOCV7AIJzE81gff89bLUh7QJ9le2IUmahjJjDSFEUyVnzUChIuEETikw5YMeovqEfohUOvkgwXqUYNUk6buHV8drAdO6GIn3VswsUvDd0c660bi3TTpuPSgj/hNWD8DhdUPGPjkJV4Yt4WzZF4wxXbt36kioaJzlzjDs4OzGrX8tSTm6DkDVLrFYEgdUzOA+zaLLFPKvH9i7z/aCZtD2acGClZOY86hwUi7nuu4CrVPGT8W2Yn1FwWUOQ5XIr4ruCi+pmxXXeYqQGeAXqmwvxAT39gMYntAM51gQe5UkaH2HVzjb4e4fK/b38AjoDXcnobSf6PQxyeVbhlIkr1ad+tYZwdBfrIB+7Y6vAcGa+1cg+pBoNhQluynhLIQ==;rPr5nvfWWnY131Wnm1jtTw=="
 ---
 

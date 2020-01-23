@@ -8,8 +8,8 @@ ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-dis
 cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
 type: article
 quality: 50
-heat: 60
-published: true
+heat: 50
+published: false
 
 provider:
   name: Santa Rosa Press Democrat
@@ -25,19 +25,6 @@ images:
     height: 533
     title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
 
-related:
-  - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
-    excerpt: "Facebook says it has taken down a well-financed ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it ..."
-    publishedDateTime: 2019-12-23T00:00:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 27
-
-secured: "u5vk3TkK3of0nwhV6u/FcHfbPRow72QZow8vcDkc3pCIoOEDiKubMmVC1rEPczm060OwSnqwI0iSksKLivz5eUqixLrRcBttR/wmkM+OjD87MfU06EEgFDlqjbu46sKTWUGWQi0e7SHR0ZBUtZ6UNFrb/Ygwqa7FhLsrEMVAL4zbbnJ8Mvf/zymTRoiJWwTpJzwL/VoiVEfj0I+8RwAY7D6ndqAneEnTxfkMwVkRW1gbvVkoiyMirl/komreBwTiXpPU2hXDy7TJ+hFVNOAjdvy2KoCJlHfApk7T8TwUS2E=;Cm7EVhFxAbq0E5LqF41YjQ=="
+secured: "FwBTpbfRmOQ/ZDEmNBBGE52WpXwb+ZB1QDBBx9JJh17VejpuXXyW4dII0fBd5A8eOUHWfDJtxLWmbbLdRqHxQPQCF6QVorfzs0lySQm1+RD3NJc7eJAC111agFT0VJD5zbyQ2/bvDqW233LT9Jn2YT3tcdFM6cFnMWAWLOsyhvgnpDfP5iu8+55K0aXBpE48zW3F+dlm2JAKmaSdFz0bawBOXSaRVifo25j8wECs99XthiEHGxybewCZU1kKOOkIcps3JdGxNxGkHx7+tzMqF9fYkCnT2mmfgvtsXFuIe1Y=;ysWHS4PnFtmkyqsSnB2Jvw=="
 ---
 

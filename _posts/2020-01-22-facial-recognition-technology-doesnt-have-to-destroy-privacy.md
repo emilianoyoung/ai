@@ -148,6 +148,21 @@ related:
       - url: https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg
         width: 1280
         height: 720
+  - title: "New Advocacy Campaign Calls for Banning Facial Recognition on College Campuses"
+    excerpt: "A satirical student newspaper recently wrote that Stanford University installed facial recognition cameras in the front of some lecture halls to take attendance and analyze the expressions on students’ faces. Though that particular instance isn’t true, the scenario taps into the very real concerns that privacy activists have about the ..."
+    publishedDateTime: 2020-01-22T23:17:00Z
+    sourceUrl: https://www.edsurge.com/news/2020-01-22-new-advocacy-campaign-calls-for-banning-facial-recognition-on-college-campuses
+    ampUrl: https://www.edsurge.com/amp/news/2020-01-22-new-advocacy-campaign-calls-for-banning-facial-recognition-on-college-campuses
+    cdnAmpUrl: https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-01-22-new-advocacy-campaign-calls-for-banning-facial-recognition-on-college-campuses
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 70
+    images:
+      - url: https://edsurge.imgix.net/uploads/post/image/13019/shutterstock_1487934926-1579733945.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop
+        width: 640
+        height: 260
   - title: "Facial recognition tech to find the Holocaust's lost horrors"
     excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Francesca Lynagh reports."
     publishedDateTime: 2020-01-21T16:01:00Z

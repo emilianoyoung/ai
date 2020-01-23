@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T15:52:00Z
 sourceUrl: https://www.phnompenhpost.com/business/ptt-mitsui-team-robotics-ai-development
 type: article
 quality: 69
-heat: 70
+heat: 69
 published: true
 
 provider:

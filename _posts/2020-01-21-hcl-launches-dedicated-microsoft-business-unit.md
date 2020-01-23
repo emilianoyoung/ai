@@ -48,19 +48,6 @@ related:
       - url: https://content.indiainfoline.com/_media/iifl/img/misc/2019-09/17/full/hcl-technologies-1568695467-04161350.jpg
         width: 350
         height: 233
-  - title: "HCL Technologies launches dedicated Microsoft business unit"
-    excerpt: "Noida (Uttar Pradesh) [India], Jan 22 (ANI): HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the ..."
-    publishedDateTime: 2020-01-22T05:21:00Z
-    sourceUrl: https://www.aninews.in/news/business/hcl-technologies-launches-dedicated-microsoft-business-unit20200122104815/
-    type: article
-    provider:
-      name: Asian News International
-      domain: aninews.in
-    quality: 39
-    images:
-      - url: https://aniportalimages.s3.amazonaws.com/media/details/HCL_Tech_Microsoft_ItLLDIg.JPG
-        width: 600
-        height: 450
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
     publishedDateTime: 2020-01-22T05:12:00Z
@@ -78,6 +65,15 @@ related:
     provider:
       name: Australian Techworld
       domain: techworld.com.au
+    quality: 19
+  - title: "HCL Technologies launches dedicated Microsoft business unit"
+    excerpt: "Noida , Jan 22 : HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the Microsoft platform for customer ..."
+    publishedDateTime: 2020-01-22T23:06:00Z
+    sourceUrl: https://www.newkerala.com/news/2020/10960.htm
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
     quality: 19
   - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
     excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"

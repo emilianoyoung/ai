@@ -58,6 +58,19 @@ related:
       - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
         width: 1400
         height: 733
+  - title: "Global Artificial Intelligence Platforms Market 2019-2023 | 28% CAGR Projection Over the Next Five Years | Technavio"
+    excerpt: "The artificial intelligence platforms market size is poised to grow by USD 6.95 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200122005381/en/ Governments ..."
+    publishedDateTime: 2020-01-22T21:25:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-platforms-market-2019-2023-28-/2020/01/22/9085640.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
+    images:
+      - url: https://mms.businesswire.com/media/20200122005381/en/768928/4/Global_Artificial_Intelligence_Platforms_Market_2019-2023.jpg
+        width: 480
+        height: 270
 
 secured: "2ticrfc/E4zJ3Bxp6G1qwHYd7GvihtdlrTtAYYVKYPWbw9s2dd50llRoIy6ea5JbDQGUPmhWcTsWLmVWHwx9+zJVe4PC6QZH4Qy4wjVC7asFO0CEwzXcI4cWuJQ//FqkTntkH+tE1dK602aKH6Qvy64UpBYoQ1qbSGZ7nItKEUy7vD/Cbv52geJ+7vO0SmO3EuLRmDygcWj+5rIJbMmRFOE7W3fL8Wx4wA1f9UWBuKd9YStEM3vYeKs1HAGu+8xhdABjTpxRg22DCqrK+RqhoQOYkM3KrEQyLVglGWs0LVw=;LojDaNrcGnTO4my8bItJdw=="
 ---

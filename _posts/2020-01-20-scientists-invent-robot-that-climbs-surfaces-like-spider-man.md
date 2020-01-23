@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T22:10:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/20/scientists-invent-robot-that-climbs-surfaces-like-spider-man/
 type: article
 quality: 69
-heat: 71
+heat: 69
 published: true
 
 provider:

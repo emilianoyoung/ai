@@ -2,25 +2,25 @@
 category: news
 title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
 excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-publishedDateTime: 2020-01-22T15:47:00Z
-sourceUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
-ampUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
-cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+publishedDateTime: 2020-01-22T14:28:00Z
+sourceUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
+ampUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.orlandosentinel.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
+  - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
     width: 1200
     height: 800
     title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
@@ -501,6 +501,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "v0YunSNvOoTyl+4gdiyJdyOUYmY0rVfxtvwjhvvPeJJ3nNLKLzBHLdJVuF4xBEKIaWDA2xP4T3pBWbx/04cjJpBx3B4uYrb9P5sk9zVcbA66ZViuf1RFd7qEYpoj3pXb1nNUijWUTGWgv7tnH5GXhNJZ0SsBOa494OYHCjB2P18g8Y7CQYsWaSyT6Ou8e227KvRvKymiCd6WOPpwTAc/i6H3B3p+cW4GvvHwZSvu2c+I0trqSy0z/6mJ+/ARhgUp9fxSZAB2mGDsRywXIA8V8vRkmo8owb3ARdZNG56skOw=;Tk7ySxwjr5iNuKaqohotXA=="
+secured: "bJcS21C6OHW0pkiGVsZTM7C9ooGAdj4gZ7s7fvqkb7wyjPGd5bxoHE8etc4QNigBrqTRpKbGj7Vpbfr/dAm8cyccDhDPIK+mH5wlufLY0xQ1HRt3F/PhU+Z0Q295d3rA2qzNjoziQdd57CVHMdb7wsPAa6TrOZERjZAwSzDXJl0aQHyMrQu76bFRv9TP7cNp8pejXPpfcFsc5AGcwa55yfMM+tV5VfQvqyBirpzD+9fQcaKS972g2h8zQaHAl2X9GYuhJ5z13MZGgSi4JDgT3qskIOiuvuoZZSFMt2fMCBY=;k/kMkUvMpIWxAYURrXlFWw=="
 ---
 

@@ -51,6 +51,19 @@ related:
       - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
         width: 1400
         height: 733
+  - title: "Global Artificial Intelligence Platforms Market 2019-2023 | 28% CAGR Projection Over the Next Five Years | Technavio"
+    excerpt: "The artificial intelligence platforms market size is poised to grow by USD 6.95 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200122005381/en/ Governments ..."
+    publishedDateTime: 2020-01-22T21:25:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-platforms-market-2019-2023-28-/2020/01/22/9085640.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
+    images:
+      - url: https://mms.businesswire.com/media/20200122005381/en/768928/4/Global_Artificial_Intelligence_Platforms_Market_2019-2023.jpg
+        width: 480
+        height: 270
   - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
     excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
     publishedDateTime: 2020-01-20T07:20:00Z

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "HCL Technologies launches dedicated Microsoft business unit"
-excerpt: "Noida (Uttar Pradesh) [India], Jan 22 (ANI): HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the ..."
-publishedDateTime: 2020-01-22T05:21:00Z
-sourceUrl: https://www.aninews.in/news/business/hcl-technologies-launches-dedicated-microsoft-business-unit20200122104815/
+excerpt: "Noida , Jan 22 : HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the Microsoft platform for customer ..."
+publishedDateTime: 2020-01-22T23:06:00Z
+sourceUrl: https://www.newkerala.com/news/2020/10960.htm
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Asian News International
-  domain: aninews.in
+  name: New Kerala
+  domain: newkerala.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: https://aniportalimages.s3.amazonaws.com/media/details/HCL_Tech_Microsoft_ItLLDIg.JPG
-    width: 600
-    height: 450
-    title: "HCL Technologies launches dedicated Microsoft business unit"
 
 related:
   - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
@@ -91,6 +85,6 @@ related:
       domain: prnewswire.com
     quality: 4
 
-secured: "SAUA/c6Tez4IBgbyzaddmMtb6xAN2XSASayPFy97eFGevG9VCyRm7zvNpNHmgPW/AT0lv46xe5JBOSJuHhnZrcpsCI8+CBAViPysQ45ceYfIDQ0IvM3q+AbJXdrBu7LGfloziYgMQYq2WBxtLcLbA/O/DGDvH76lATe+wrnXJw1X9bW1P/LV9pX/dWg7sRDsP/F1GU79RcJGpA5Do8HuZyS3ShPAcTzdWYidBBXRP68lRpVAoUCDxWzX2hkofmhiFTw6IltzNs3o7FIuDUXlaij1WMjUSHgO279mAwB/gM4=;RmGqqOtVuEWPG4gDXe3hrg=="
+secured: "slTeddhX5f2ybDuWPK83OcI1uJBNb8dQZ8eaVD1dJ2UE8YThFItEE2MOmDPiHJXJCkQWasAts/rW23niIraIqxwRq7PFudWKl2G5V3FELxXq216nPxrnPfFlyGLBiC0yP+rlXozPdLf17aJdUsUGSihh8ocfXHXhk5+lqCFYfThLNCFiE5sf+kImrI33lrnCs4yq2IKnjKTMR4ECy4sRhIvOn1voJ7H/xhdy/S1o+cZHxV23DOoo4yXEmEklk6kA79PCfWpFB35dbqmv1k1LOHSs2oLQM0AcZyKd57Gw0Ms=;362i7/5ZY5xCvnIGJbelJA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T14:08:00Z
 sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01211AutonomousMachines.asp
 type: article
 quality: 59
-heat: 70
+heat: 69
 published: true
 
 provider:
