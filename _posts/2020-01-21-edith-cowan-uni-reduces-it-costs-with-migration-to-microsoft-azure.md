@@ -2,8 +2,8 @@
 category: news
 title: "Edith Cowan Uni reduces IT costs with migration to Microsoft Azure"
 excerpt: "According to Microsoft, Azure is already changing the way that ECU uses technology to provide computer ... Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits?"
-publishedDateTime: 2020-01-21T03:08:00Z
-sourceUrl: https://itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html
+publishedDateTime: 2020-01-21T03:25:00Z
+sourceUrl: https://www.itwire.com/strategy/edith-cowan-uni-reduces-it-costs-with-migration-to-microsoft-azure.html
 type: article
 quality: 34
 heat: -1
@@ -90,6 +90,6 @@ related:
         width: 1140
         height: 641
 
-secured: "E5kHIaa/CD81DLwisUUGq+Xpt6wm36YEv3+1ZuHknK1Ahss6yj8pdbOWLTOBNzZxwZvxS4jpNFjDe08UH1wTKayLfAvdQB5oF1vwRZrJpc95cuNb/EV9Wgm2wX3q+zL9zgrGVT+22LwB1zN8fNO1ashINsze93IAjtElmS/YWHlwk6yaq9t2prIgTN+C0yfP/Z9zLJhywEjDX1poyqJPHboA4C/1yhl7es0hSfM7gwXbA4w9NK7J3tfQZGbupHQM2t9S+qkl69djih4odvqOol8PuMTcJ91lTQdhWttbXKcKWWFH/oa3Yq7FvAFcSbNWB/wAQNV4k2AtBtPVDT/6rlu7QR83uMiqDofts2H+D5AxSr3RtszN6hkFZg/pOqm5gx2AAYSkLQd1Tnw/QdqoJ88lVv9SeOtcb7Sdh7uz3yMu7MHS6jzqxAFEqfuzw610y3cMsHX4dmQO2BFxQu26Wg==;xlHEam4+KWYnoX4Pbla3iw=="
+secured: "t8Ik+4+a8oB5iYyCM3DmKp5/72Pkd6lYey39TL0vGMQaQ91b7M/8+/ux/f8OBOH4X5Oq9SVzyIdMZ32fOQ944Jy8fD7Xq0wvhR5JPy1/KuqLJDlLUvIa7N8xefhekmi+hGJdLj7imY5OSv6Ey99900ORr6jm7SIVVFb639NlhUXHOru6OP1DbVdFeYFzUk4gZsMYr+aPInhP7HyDvXVXFDsORkbrrQYfTdHF+DL0YeOyzSWqx+vvoEixDmPccMvVpvbXVbsY6W9KXCSLfv0VBVtZCBTlGnI+bzI62+Y09oYjRCK2F8pljNSXu8ilH9I8GzcpbjrIE3lawfiH1QEu4RAGAGqYoB1kUu4rte4CaN1H8YM0CcYejYw+FjRfJIwPlbYOZd4SSigU5GZ5iNSudqNQztTr7lWoiPZuTSSYx7qkS1Tf3mtAKfSSGr0KCHyN32XTZJBqP30dwOfQqHDw+q/Epv8/561uADsTBs6oyGI=;+2PV84YmGR4TXQTcv2JD/A=="
 ---
 

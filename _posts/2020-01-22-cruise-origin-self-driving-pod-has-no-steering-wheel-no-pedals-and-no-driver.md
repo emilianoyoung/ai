@@ -356,19 +356,34 @@ related:
         height: 800
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
-    publishedDateTime: 2020-01-22T20:50:00Z
-    sourceUrl: https://www.kcra.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
-    ampUrl: https://www.kcra.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
-    cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    publishedDateTime: 2020-01-22T21:50:00Z
+    sourceUrl: https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    ampUrl: https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
+      name: WMUR9
+      domain: wmur.com
     quality: 44
     images:
       - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-20022112310822-1-1579732291.jpg?crop=1.00xw:0.844xh;0,0.156xh&resize=1200:*
         width: 1200
         height: 676
+  - title: "Self-driving big-rig trucks coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
+    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
+    publishedDateTime: 2020-01-23T12:22:00Z
+    sourceUrl: https://www.jsonline.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/
+    ampUrl: https://amp.jsonline.com/amp/4546366002
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/4546366002
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 44
+    images:
+      - url: https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001
+        width: 640
+        height: 360
   - title: "Cruise Unveils Origin, a Self-Driving Vehicle with No Steering Wheel or Pedals"
     excerpt: "Cruise Automation is a California startup bankrolled by GM and Honda. The company has been testing specially built self-driving Chevrolet Bolt EV crossovers in the San Francisco Bay Area since September 2016. This new minivan-look electric bus will hold four passengers—no drivers, though—and is expected to be producible for half the cost of ..."
     publishedDateTime: 2020-01-22T01:42:00Z

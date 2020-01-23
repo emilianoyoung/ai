@@ -22,7 +22,7 @@ related:
   - title: "Digital wealth manager Kristal.AI raises 6 million in Series A funding"
     excerpt: "The company started its business in Hong Kong since 2016 and now it is planning to use its Series A funding, to bring its AI-driven personalized wealth platform to more countries in APAC regions. Artificial Intelligence has long been hailed as the future of fintech, and Singapore-based digital wealth management platform Kristal.AI is proving ..."
     publishedDateTime: 2020-01-23T09:28:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/23/9085815.htm
+    sourceUrl: https://www.tmcnet.com/usubmit/-digital-wealth-manager-kristalai-raises-6-million-series-/2020/01/23/9085815.htm
     type: article
     provider:
       name: TMCnet

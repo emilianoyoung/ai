@@ -2,18 +2,18 @@
 category: news
 title: "This self-driving car has no steering wheel or pedals"
 excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
-publishedDateTime: 2020-01-22T20:50:00Z
-sourceUrl: https://www.kcra.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
-ampUrl: https://www.kcra.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
-cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+publishedDateTime: 2020-01-22T21:50:00Z
+sourceUrl: https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+ampUrl: https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
@@ -354,6 +354,21 @@ related:
       - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
         width: 1200
         height: 800
+  - title: "Self-driving big-rig trucks coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
+    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
+    publishedDateTime: 2020-01-23T12:22:00Z
+    sourceUrl: https://www.jsonline.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/
+    ampUrl: https://amp.jsonline.com/amp/4546366002
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/4546366002
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 44
+    images:
+      - url: https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001
+        width: 640
+        height: 360
   - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
     excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
     publishedDateTime: 2020-01-22T17:23:00Z
@@ -520,6 +535,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "0SoRFqEN6PUl0hEoOX/W5n6i/veu9HeGE9W0JDjhvuZ10vFVaZN4TUFmMfTztPLq4jFykWRwYee5eTQXHzYKBZXLQRQWblSL62eUskrU4D9D9zQB1TGkVNYMbn1L7wUQ4kZqHNKCylvXSjZfCphqyzhu97YyuzdanKuPrWLnbJYDGXCIiV3bOntuegQuJeQWWRWk3I2PVOue07pXB0rGr+1/JnYkchuuqxuCldhrjOLwiE1sNVn1bFvT0tKsX8XpLJAd9dp9+TeJcqli8xUmgAg4uiAyN3y6gjQE3EWa1e5giK9NNzV+6HZh5iEtFgoRpinUSdARWUX24huVm8lmamYPxJB9GmpbejBWPGjRnqXNszTHUgrvlBmQe0gvqxlHBhjJPTUibF9Ocore+TvXo97jpcQZeZaEBiCj6WWk+SyHJqFsFqRBy0frKNy1M/wZV74M+kHIMjq3mwJrpEBG/V7s0nRAeUIXfKTLhR8G8Bc=;1t+BcHgYfbIKojVsSp1rEQ=="
+secured: "SRFdzrvWZHkDnyRiB6JPO8q+mdA0vpunFK+ndDnnhnOJWIBqvwnw42ssy1ldswqJTC5O7qcDgaKjzgzZH0P71zx2jX4LJA0X+mlbjeerY+wQb2wmtx9/JibBiClh2RdX+9yjHYouFE+UcfcD3iJthQpANX74ZZCx/tgyhb3vPiih0zN5m/Wm//0ykFG4B+Trc74bxA9tJMtqZwcIny0DGew0rr8B3izOrxM4UkDoNGtXGD3IIAhAN1V+bxTqKLoFYJFDff7jEESuDwL/Ck10hw6/36J9o1g0ef3PtSMOU3OQGWCKOOUv9/jYEOPtry7w;ukxk08sfgN2U41FAAMz5Ew=="
 ---
 

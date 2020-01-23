@@ -512,6 +512,19 @@ related:
       - url: https://s.hdnux.com/photos/01/10/12/34/18917135/3/rawImage.jpg
         width: 2048
         height: 1364
+  - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
+    excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
+    publishedDateTime: 2020-01-23T09:05:00Z
+    sourceUrl: https://www.wionews.com/videos/google-ceo-speaks-on-artificial-intelligence-at-wef-in-davos-276113
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 37
+    images:
+      - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg
+        width: 918
+        height: 506
   - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
     excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
     publishedDateTime: 2020-01-21T03:18:00Z
@@ -555,6 +568,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "gcVxMb9/gKvHG5rMOVvEYm6rPyCMZEsV3s+bOGRc2uptljmeHxgESIuJgF/ASL52tz4XvtQM/f5gJ+vsnqNU4t0tPqCgPbXkdDLM/fPRHHNur3SMiRZrOF85ZqOtDkmHNImA9i3nhEeXKVaRNitcpCGg+8rBSrn5k/CVAXVyujyW2yLxq/1qn1htedSFy8p8hRj0VtkdGmv0phsZ0mMx7xyJVF3FZpxXsvpaHdsc9J/71b70JJFshvzC4jaRDZsZEt0zd5/b4aZvYpuY9LfBPQ8QXeFi/35A8uPmtlGetNzzUh2C3C1Mh4A60ZuUj4ji;WMKqIeFKUUQb/ir+CnWgOQ=="
+secured: "ahU8mw+dq8XWTOCAGola+k43+5WGkZE2RpSde8dX617yTUvjon2Cg/UL2BJ5ltlxxLZy6UUEvYGxCO00T98wltSsAQkYNON5uddKISREXMgdDsHuhVgGC1ycsw1PprJm/ic8YZc3zRWsKVwaQtmEqzB8pMszNQLeDcCWJaZu3LNy1qo88KYOmJVgvJ3pZNysgQVveW6fWLDi7cGhbjOZiIhgTh7SUU2DpyuwO7KaQJa4ihcp6ZJHCQ+FBnQKK6WJCwe1AzNy98LESBIkq1Egrhc8UILhKZeNOy802SngGO7xHG3VsayQeGiFJVszoYml;rKFdYiKo+3btDbaWPqfezg=="
 ---
 

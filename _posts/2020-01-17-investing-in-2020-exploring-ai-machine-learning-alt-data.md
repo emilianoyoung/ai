@@ -8,7 +8,7 @@ ampUrl: https://www.financemagnates.com/cryptocurrency/news/investing-in-2020-ex
 cdnAmpUrl: https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/investing-in-2020-exploring-ai-machine-learning-alt-data/amp/
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Investing in 2020: Exploring AI, Machine Learning, & Alt Data"
 
 related:
+  - title: "Thinking fast & slow: New DFKI project aims at making Deep Learning methods more reliable"
+    excerpt: "Modern computers are in a similar position: Thanks to their training with large amounts of data, Deep Learning methods can deliver fast, yet incomprehensible results. Scientists of the German Research Center for Artificial Intelligence (DFKI) now investigate how these methods can be proven by formal procedures and thus become more reliable ..."
+    publishedDateTime: 2020-01-23T12:41:00Z
+    sourceUrl: https://idw-online.de/de/news730408
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 45
+    images:
+      - url: http://www.idw-online.de/de/institutionlogo20362
+        width: 500
+        height: 206
   - title: "Vietnam’s schools begin using AI in teaching"
     excerpt: "Many education establishments in Vietnam have been utilizing AI in school management and teaching, and have had encouraging initial achievements. FPT is the Vietnamese largest IT group in Vietnam. It's FPT University pioneered utilizing AI in its teaching methods and business. According to Dang Hoang Vu, FPT’s Chief Scientist, AI is no longer ..."
     publishedDateTime: 2020-01-20T07:41:00Z

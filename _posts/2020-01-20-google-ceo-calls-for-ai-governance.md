@@ -509,6 +509,19 @@ related:
       - url: https://s.hdnux.com/photos/01/10/12/34/18917135/3/rawImage.jpg
         width: 2048
         height: 1364
+  - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
+    excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
+    publishedDateTime: 2020-01-23T09:05:00Z
+    sourceUrl: https://www.wionews.com/videos/google-ceo-speaks-on-artificial-intelligence-at-wef-in-davos-276113
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 37
+    images:
+      - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg
+        width: 918
+        height: 506
   - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
     excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
     publishedDateTime: 2020-01-21T03:18:00Z

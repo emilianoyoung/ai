@@ -7,9 +7,9 @@ sourceUrl: https://www.propertycasualty360.com/2020/01/23/warehouse-robotics-to-
 ampUrl: https://www.propertycasualty360.com/2020/01/23/warehouse-robotics-to-reach-new-heights/?amp=1
 cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/23/warehouse-robotics-to-reach-new-heights/?amp=1
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: PropertyCasualty360
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/01/Warehouse-Robotics-Allied-Market-Research.jpg
