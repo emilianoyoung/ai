@@ -23,6 +23,6 @@ images:
     height: 267
     title: "95% Of The Last 22 Lyft SA Articles Were Bearish Or Neutral: Yet Lyft Is Part Of A Duopoly Raising Prices"
 
-secured: "qmLGDlJav9gtF4wnKe+Tj5kqjNvcwCTfy89O3g+NR4aTOc3OwUicKmBDqfUvCWkr0FcGyCN5wX9QbXs8aPa3FexnhqY4AC41P7OOzXKg7ZSG6CcNWNZ/C/g9R31C5D4wRRiFhlERFkq7E+N8KYkOiME2DdKlvgpddTyul4vExu0FTFK6uiaXNv4yoOOcBOJqaMAPfs198AWTb5ZGuGP9LGOUxt6GVO41tbJeBmo9uNU/rpr9E6S1+4jxKc/xb3p6Do9ZhKeuufRmMYfoUMR3WJb91uH1+BC8ZTcbbmea2XcHXytBDQTrhk3LJnZNZiDY;pTZQw8zFMwFQCIJzZAD/pg=="
+secured: "0PljUZBshwoSEX+PvzkBzPX5T65hHdS3QmNOCZ/lWnLcxpBtolkVjKrXl5AX/1PnsIb2Yf8Cn/NSavPzOb7PWRCW9m1Wfv7qSzc+jMhMPuRTvwZCktWpH51WYTCtGpyzZ1NMA4LQY+DkarecCw9SM5GOBU83nkut4lBowxgKiFyQA0Usa51/9YGqRRC6MC1++f9m9SgYxSBClHviXkP9TuC0Fh3cmc6vZ9FFpfbZqsdbwiirqf6o79gyBR4YgN8TZFJ3UW4HWGZ6cHFOBuomtVvRa1hhoMDmw9P/GyXIAvQBaS+EaBmE7+hi5D6tSaXbtJjx5wga8LsFFkwJeT6OXdA3tFxd0DHxNMfc+8scTp8gpcYEpElq6LY6M21+UD3SF5hYt1+MR58y1/IZmJ2rmGaQe5HnEBmnjrzLe9txi9T5LQWBF85yUnbavY48FD56Qz5MqpWL7pmn3UooujyIQq5PX7nIOR6MPx0fMWNFzZA=;sSGx11FxglbnAyyyTwQUUw=="
 ---
 

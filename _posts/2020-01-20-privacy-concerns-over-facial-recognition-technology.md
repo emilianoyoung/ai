@@ -648,6 +648,19 @@ related:
       - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2017/08/11/sundarpichai-2-600_737Q7ee.jpg
         width: 600
         height: 375
+  - title: "Airport facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travellers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-01-23T19:50:00Z
+    sourceUrl: https://www.stuff.co.nz/travel/travel-troubles/119009775/airport-facialrecognition-technology-stokes-privacy-concerns
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: https://resources.stuff.co.nz/content/dam/images/1/y/u/t/l/o/image.related.StuffLandscapeSixteenByNine.1420x800.1yusj3.png/1579808507629.jpg
+        width: 1420
+        height: 799
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z
@@ -747,6 +760,15 @@ related:
       name: Lifehacker
       domain: lifehacker.com
     quality: 11
+  - title: "Facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-01-23T19:31:00Z
+    sourceUrl: https://www.sfchronicle.com/lifestyle/travel/article/Facial-recognition-technology-stokes-privacy-14998536.php
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 4
 
 secured: "qSDp18U8OyjIeDDw7QAdWkdj82vbgwaGABR/fFdFkKJG9LnE+RdOwklcTf4Au8F2W8FSHvViyQuQAdpG7wsydieyLo4E7BxIYPxjipxi/FLusYfDG3siVmxX8Dh4xW8vXtyjiOflThNLSReMc6taYCYm9T9q0p5N3+J4sid4cRctDd0Z5SWf9jOXrwIAn6WlP6GmSR6s1UO2kP22aUOnr7I0gOxiubW+nS452rvABN8JJYO9KDLCWB582Vm+tlIM6DCoQaQujhYvX3cRgGKnUuFjq2tOIQtotU860xw985QatY+FhmYW5hY9KCNSfFpxRT11wMzfYyEyj7iIybU32CJ75xYSXQNjOvuEz/sLRW9jC0Tz8SGGrT+csQk4qvX082bxd8tr6MS5SKLHcmUg7r4UL4D0G1wcG90glyDPlBrpFxUTv0y/kjHaC7D1InoYl+uN/tB7AE+qI2YQxxhDFA==;CaaJax3kRMGam0qfhxYC6A=="
 ---

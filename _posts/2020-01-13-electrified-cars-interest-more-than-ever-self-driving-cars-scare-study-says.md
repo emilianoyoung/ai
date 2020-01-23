@@ -120,6 +120,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 470
+  - title: "Uber prepares to test its self-driving cars in Washington, DC"
+    excerpt: "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC."
+    publishedDateTime: 2020-01-23T18:49:00Z
+    sourceUrl: https://edition.cnn.com/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    ampUrl: https://amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: https://cdn.cnn.com/cnnnext/dam/assets/180323165308-uber-self-driving-cars-super-tease.jpg
+        width: 1100
+        height: 619
   - title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
     excerpt: "Cruise co-founder and CTO Kyle Vogt said Friday that disengagement reports released annually by California regulators are not a proxy for the commercial readiness or safety of self-driving cars. Vogt, in a lengthy post on Medium, called for a new metric to determine whether an autonomous vehicle is ready for commercial deployment. The post ..."
     publishedDateTime: 2020-01-17T21:35:00Z

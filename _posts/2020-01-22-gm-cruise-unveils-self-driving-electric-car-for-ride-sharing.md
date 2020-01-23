@@ -105,6 +105,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F290f07e0-3ccb-11ea-baff-a1a176c9a669%26client%3Da1acac3e1b3290917d92%26signature%3D46a5aceafa254504199c40acf9d49d5e899a534d&client=amp-blogside-v2&signature=869ca9968891562c21dffc9b15f2fcafcc676ec8
         width: 600
         height: 350
+  - title: "Uber prepares to test its self-driving cars in Washington, DC"
+    excerpt: "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC."
+    publishedDateTime: 2020-01-23T18:49:00Z
+    sourceUrl: https://edition.cnn.com/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    ampUrl: https://amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: https://cdn.cnn.com/cnnnext/dam/assets/180323165308-uber-self-driving-cars-super-tease.jpg
+        width: 1100
+        height: 619
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z

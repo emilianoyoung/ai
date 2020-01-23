@@ -116,6 +116,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 470
+  - title: "Uber prepares to test its self-driving cars in Washington, DC"
+    excerpt: "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC."
+    publishedDateTime: 2020-01-23T18:49:00Z
+    sourceUrl: https://edition.cnn.com/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    ampUrl: https://amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: https://cdn.cnn.com/cnnnext/dam/assets/180323165308-uber-self-driving-cars-super-tease.jpg
+        width: 1100
+        height: 619
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z
@@ -589,6 +604,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "2AIa7kbsZ/U4st56FT06KkktanVU0vwLF7pjQE/MT8Qf+Ke7grj+pySoSbrNRfVlYvRrmoh2x1JiZPrP2XUVDnFGuxslHjXS8i7oIV9Ic+OpQbzAW8sTj1bIVTYf9wmh0Wly+CaIRGou22a0xL+ix8RpOP2wRUrI9k5ubfvAPgEr3JSylJ7L0uqKkh1kPQLjp8BkWlHo5tTYdWyRJ4vYOFhov1Z4KTtA/2ihgAbliWuhkUXkFFGXTxTW3hJyE5aJeeJ3YdvMYKlVSjExKSNa4nhKQWJSTf2uJjNFAKm60zSzL7JBQvfLjoOoKQVuHFyp;qoZvUILIyR5C+WlM02CU0A=="
+secured: "Iigm8r66Eq1/HjI1jdbQBBS/5NFh30hi1LLlomexs+cpElU51pdmPF9rmhAsgECq+DqYzLLeYKLXpWJHqTA0X3iOshyV4t+WVIwbyruMe0ldEBAK/UP/VziGXVP/yVBL5+7gFgbBWR2TyKQmJOiWdHhRx3GxXbCGktukD+mfM6vSBmxXUW2cnWOVXfEQEq+yibFtQ+LdvwlZ88WIcvlWoJNQPik7+QhSli+sEjcZMzOklqLonF0+1SSQ9Na5r8kpY30i/1IoMKqrJl6+JFV7BPjGq/mp9n9YE00jCLrDjT8kc2Zcw8t+NjdAVamfyVZ6e6Fd8ejxSIIO5/rO1BQHDQvjF+TfEcSFPU++jYqYlwM7rNxw3110eu4uiPtI+p8tIZohV+O0f0pnJEdkcgEcciNkEVTxLShhWVw0WdjZqlhdALv2IVx0xvm4D4yoit/Tm8G1LBFOGHSf8XsVoA8+Z6GaZshmyIRQ2uGXWHTLH04=;VAS4QhwVOQ2Dk0SjOsXifg=="
 ---
 

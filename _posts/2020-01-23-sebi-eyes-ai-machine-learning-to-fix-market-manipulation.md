@@ -8,7 +8,7 @@ ampUrl: https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-m
 cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 32
+  - title: "Europe Deep Learning in Machine Vision Market Is Expected to Reach Usd 104.59 Million"
+    excerpt: "Press release from: Data Bridge Market Research Pvt. Ltd. Europe Deep Learning in Machine Vision Market,By Application (Image Classification, Optical Character Recognition, Bar Code Detection, Anomaly Detection), By End-User (Automotive, Electronics, Food & Beverage, Healthcare, Aerospace & Defense, Others), ByGeography (Germany, France ..."
+    publishedDateTime: 2020-01-23T18:49:00Z
+    sourceUrl: https://www.openpr.com/news/1906733/europe-deep-learning-in-machine-vision-market-is-expected
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "slthUX+OZPDfKEvJhd2XXpYPjq98Lp54tigqi81DLFQY9KCH5e6Lu0NFscUlUTGBsioHWZn1PoMSwmhsFvKQC8GYBjJOeKGNK0+beGvbw9YQOT4nVnNHrbQVKH7Z+H7NkG8kgOGwupeusJAkAAts2e4826JeqcEY5XBj42h/II1ORLb3Tw2k5I629l/IokfDbwvm20xu2+bMmTR4OMddG8SaYyX8k0yVFpKsWkHJuKBoTRs6GNg8HnLNy1kHKR+bLZza/inMVsbJdTwSaF82RJXbFtlaTwX2Tv1LAkuImPKVivENXV3BiQj3rn27inc/;tx8/u8kDXckZJBc2PMxCdQ=="
 ---

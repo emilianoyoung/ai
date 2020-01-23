@@ -663,6 +663,19 @@ related:
       - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2017/08/11/sundarpichai-2-600_737Q7ee.jpg
         width: 600
         height: 375
+  - title: "Airport facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travellers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-01-23T19:50:00Z
+    sourceUrl: https://www.stuff.co.nz/travel/travel-troubles/119009775/airport-facialrecognition-technology-stokes-privacy-concerns
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: https://resources.stuff.co.nz/content/dam/images/1/y/u/t/l/o/image.related.StuffLandscapeSixteenByNine.1420x800.1yusj3.png/1579808507629.jpg
+        width: 1420
+        height: 799
   - title: "Lawmakers Working on Legislation to ‘Pause’ Use of Facial Recognition Technology"
     excerpt: "House lawmakers—and, according to those representatives, their constituents—are wary of facial recognition and are working on legislation that would halt its progress as Congress and federal regulators get their arms around how the technology is being ..."
     publishedDateTime: 2020-01-15T20:10:00Z
@@ -749,6 +762,15 @@ related:
       name: Lifehacker
       domain: lifehacker.com
     quality: 11
+  - title: "Facial-recognition technology stokes privacy concerns"
+    excerpt: "But it turns out the practice of collecting their biometric data is far more common than travelers may think. Delta launched optional facial-recognition technology in Atlanta in 2018 after two years of testing. Since then, the airline has expanded biometric boarding to Minneapolis, Salt Lake City, New York, Detroit and Los Angeles. The carrier ..."
+    publishedDateTime: 2020-01-23T19:31:00Z
+    sourceUrl: https://www.sfchronicle.com/lifestyle/travel/article/Facial-recognition-technology-stokes-privacy-14998536.php
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 4
 
 secured: "unvmL2eY9NFrfLLNItb/E/sFpBEasEx6mkqF4fZQ56mn00Z2hCWG56Dl9F/A4FI2JXFcNOk6/+4pHMq6WWdcAtqqgPE0MGrLt/3mZ4Z8uyAHBBm55sjDeWJnpkgYxpM2TT+Kul1ee04DigqLNLfkzB9+jBMBQmUKxG9eQJKgyt37ViwEWLRcuRL1JK+UYHVUsayakeECkKIxml+cOze4KTIeG0VBp8yAjZoqpuO5xFtxGDIUdxRcasdl6ZqmemzFlcWA0cwuO93y2bz6/q8ZbuGEEOZqxtiUx79+APQ1ua4=;Uib+NIBQyyX5RQUTxe9Oww=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-californ
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
 type: article
 quality: 174
-heat: 574
+heat: 584
 published: true
 
 provider:
@@ -105,6 +105,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 470
+  - title: "Uber prepares to test its self-driving cars in Washington, DC"
+    excerpt: "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC."
+    publishedDateTime: 2020-01-23T18:49:00Z
+    sourceUrl: https://edition.cnn.com/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    ampUrl: https://amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    cdnAmpUrl: https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: https://cdn.cnn.com/cnnnext/dam/assets/180323165308-uber-self-driving-cars-super-tease.jpg
+        width: 1100
+        height: 619
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z
