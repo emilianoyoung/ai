@@ -8,7 +8,7 @@ ampUrl: https://www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optim
 cdnAmpUrl: https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       - url: https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2fMINORItyyy-2020010704500440.jpg&h=315&w=600&q=100&v=20170226&c=0
         width: 472
         height: 315
-  - title: "ESG Technical Validation: Predict and Optimize Business Outcomes with IBM Decision Optimization for Watson Studio and IBM Cloud Pak for Data"
-    excerpt: "ESG recently completed testing of IBM Decision Optimization for Watson Studio, which is designed to enable organizations to accelerate the value they can extract from AI more easily. Testing examined how IBM Watson Studio with Decision Optimization collects data, organizes an analytics foundation, and analyzes insights at scale—with a focus ..."
-    publishedDateTime: 2020-01-03T01:08:00Z
-    sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-esg-technical-validation-predict-and-optimize-business-outcomes-ds-os-us.aspx?tc=page0
-    type: article
-    provider:
-      name: adtmag.com
-      domain: adtmag.com
-    quality: 0
 
 secured: "L5sfxZxyyN8OzhwO/icSx60ey0CIHIoZBd+d0v2dRCJTXlFiRHgZoNHTsHXs3fWtZT8xLJPB5ggXEfr1+1JKPUbYbk6Tlv7lBRYyjs3ewkCx/o6p9d5mtFl5tmbTjHNbD7gr5WB5unTXRwlz0hU8fK1tqYnDqlP/YwSwc+rw1ft2yZD/F12GC7EeRhlBT6ESV6oRXttzvEr7hRYEsevamUN07buvi2roS0LMLVkH2T7hRZOZJMij8rVLvO5yL3ImnYHQ21rF7d2oHdAE9I2HOveRuPzS+JxCXwQ/GfAdUXM=;jB2BQYdXUYP36v0mV9He7Q=="
 ---

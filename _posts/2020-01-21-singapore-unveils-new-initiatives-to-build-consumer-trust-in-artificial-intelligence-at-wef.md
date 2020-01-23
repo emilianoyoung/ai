@@ -39,6 +39,19 @@ related:
       - url: https://zdnet2.cbsistatic.com/hub/i/2020/01/22/0d371627-35ec-44a9-83fe-7238305ce185/singapore-model-ai-governance-framework-second-edition-compendium-of-use-cases-pdf1.png
         width: 913
         height: 582
+  - title: "Singapore sets up AI governance initiative to build consumer trust"
+    excerpt: "A compendium of use cases; and c. The second edition of the model AI governance framework. According to the press release, the framework has been adopted by over fifteen organisations of all sizes internationally – from financial giants such as DBS, HSBC, Mastercard and Visa, fintech firms such as Suade Labs, to technology firms such as ..."
+    publishedDateTime: 2020-01-23T03:49:00Z
+    sourceUrl: https://www.marketing-interactive.com/singapore-sets-up-ai-governance-initiative-to-build-consumer-trust/
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 41
+    images:
+      - url: https://s3-ap-southeast-1.amazonaws.com/images.marketing-interactive.com/wp-content/uploads/2020/01/23103003/AI_01.jpg
+        width: 630
+        height: 358
   - title: "Singapore unveils new initiatives to build consumer trust in artificial intelligence at WEF | Video"
     excerpt: "A set of three initiatives, aimed at improving consumer trust on the use and governance of artificial intelligence (AI), were announced by Singapore at the World Economic Forum (WEF) annual meeting on Tuesday (Jan 21). Media playtime"
     publishedDateTime: 2020-01-22T18:56:00Z

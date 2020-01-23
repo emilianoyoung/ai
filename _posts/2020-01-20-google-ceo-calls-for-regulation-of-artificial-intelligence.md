@@ -555,6 +555,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "F5QHERdRVvi0mHs+JTWSrp20F3aKsHjp5EOuHcHmb5wvok/5zqwqCDYLjfV9ka14Ow5EEAF6FZ//AguthtFwdp+1e8JcHigkUN51WQ14t173fV818k9Qv1AEFSyBzGO03z17tQvmWHmq23WVizbUTNjquzRQlCf2e2clIQArhs6b4tUX4qH4d+mE64bAvwhb7FIbfYcU9kj78JKEhB8i1+TXKlrzWosa62KxhJRWzrNPgPDIlgBSmwLp2IAfRAEakzzi01bQmn/hCWX8m2EDkkwBI6bK1F/J8fl3m+WZJ0c=;c/dhtb0kl7zmIL8eZYds/g=="
+secured: "rtSrj57OuKzawo9ie/ggDKj0qUR5Pwcc5rkIn5vzLXbmrJzWZiOIs8bKbV0noCrSAlI90uwooyJtD1+qatcZXjcSL/Nja40DnPzspUQQjCcvas4yhiHN0o6uBTUrOKpkfcyEWjw5IFXLLm+5PtfflBXrm0qP65z+ekcJ/St7HD0XY11MV6WEqzOnrAHiNlHhTEtxreZlN0TRnWGrXNZ7M8b5rAFM3pSsPRcI7WTzrCbUmeC10pPgFpwNqtNjES9Bq++8aIBBUX8fx2jRBY4M0lFjnLG9wsBdIqXASdTzoJk=;gVw9tOM0U5vr+gpJZPXDVg=="
 ---
 

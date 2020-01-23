@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/15093385
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15093385
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -18,19 +18,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-related:
-  - title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-    excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial ..."
-    publishedDateTime: 2020-01-09T19:45:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-    ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "1DueBwYpYP3gwv4kPy/XQ+EzRWE8CLYP3XKhEyLdoGJFKWO/OTRUzF3Dh9z4QG1kRvBxRrI+y7dCVFpPfhqIGTdCrCuxVl1KzdIHzQZ5n62Z4eZfyl2M6vKAFcchWazpACyGHK+ZqTGsLs5BaD9xAosEDJTkkfHmVuIzbf3C610evYHYFzCFGy65toUxuF+LzCvDg9rfiXOLPlXAM2ud4dP7lwDgNVCFmtUO/HfI3HGI+3zpc0wmtklA9XgzhRyQWYP3nSnsQzzCGvf9cfHGAyaEqLsBWhgX6/Z5XB3IqvI=;5/fEuY3bR0H4AO0Jy5nvKA=="
 ---

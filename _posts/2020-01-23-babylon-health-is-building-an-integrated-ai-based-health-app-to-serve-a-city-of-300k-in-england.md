@@ -28,6 +28,6 @@ images:
     height: 682
     title: "Babylon Health is building an integrated, AI-based health app to serve a city of 300K in England"
 
-secured: "HmN8O6NqyWRBgPxW+mSSWPYdlbl8zljoxVvky0g7Hb2QFH059XfJc73uZl8P1z2o2ACFWTzgAWj0lUNIfPgRM4bgtTC5KWAQXpUkdoZAfUzphuJJmrHXUdRwvFIqXGS5x3ExBbl7giy/aoSPxDo2iuZXA8wjJDRggG5pjhS6TeTKrChhbc1swmUkp+bfZXWoZxWuisOF7s3Sxuf4sUQVGB+7ktnosENt19OSlUoBtDf0yk6j2+Hi77CpKvKWbK7Tk99ohZyFG9DuSAphGugPfmuojXPEaHd94IGjrCSLcoc=;XvrEE5YFSpL1ACzZcTQfNw=="
+secured: "D1BVc2Df+2AGClgk5n+kteXN5jzN/DzusEmrsLz50tSQPq5E9vkcXaaVfFoERk6I1onwuWgmSmXP6GDmrWlOlR1oVT9ONsPBxdeMLQc+DfztVQTf9NmqQdnR4F+ltfFuNC2gAvMDegMdhB6AfiQOf5FOM+bLJIAWoZB9Duu490q9U27zU/vVShZSV+yERZS8lP/mWE74H/RAP3mDPZnoS691rkHYz3sPrOo2CWr08eyVf6/YImehaWE0gQDSnA+/JWzSScM4fPBhA2/TFPYkhaL/pqDZuzHJPXFwostiQyuwurDPuexJKXskNUR0ppYjlFtd7y28APeLE+W/DBDIxK7pzPcosyLJdIVRFRAKHTxKoWVQhWgw84KxzSlu/LQ07nYSolaoQzaFsx5bKxwX55CggGtZamihdwjBD8rZ2XqND3IsFKsqcqR9y7qz7QXjneLZN9SkHC6lcgf967ajDQ==;7cwpiNjGh4n9vzZu9oU+pg=="
 ---
 

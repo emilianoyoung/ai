@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/singapore-releases-latest-ai-fr
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "Singapore releases latest AI Framework edition to improve governance and trust"
 
 related:
+  - title: "Singapore sets up AI governance initiative to build consumer trust"
+    excerpt: "A compendium of use cases; and c. The second edition of the model AI governance framework. According to the press release, the framework has been adopted by over fifteen organisations of all sizes internationally – from financial giants such as DBS, HSBC, Mastercard and Visa, fintech firms such as Suade Labs, to technology firms such as ..."
+    publishedDateTime: 2020-01-23T03:49:00Z
+    sourceUrl: https://www.marketing-interactive.com/singapore-sets-up-ai-governance-initiative-to-build-consumer-trust/
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 41
+    images:
+      - url: https://s3-ap-southeast-1.amazonaws.com/images.marketing-interactive.com/wp-content/uploads/2020/01/23103003/AI_01.jpg
+        width: 630
+        height: 358
   - title: "Singapore unveils new initiatives to build consumer trust in artificial intelligence at WEF"
     excerpt: "DAVOS: A set of three initiatives, aimed at improving consumer trust on the use and governance of artificial intelligence (AI), were announced by Singapore at the World Economic Forum (WEF) annual meeting on Tuesday (Jan 21). They are an Implementation and Self-Assessment Guide for Organisations (ISAGO), a compendium of use cases and a ..."
     publishedDateTime: 2020-01-21T19:53:00Z

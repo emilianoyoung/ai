@@ -29,6 +29,6 @@ images:
     height: 576
     title: "Robot tanks: On patrol but not allowed to shoot"
 
-secured: "9P7srqJag80tTMvUdK+iN0JLLrVl4izTDOjsRtPVAhe2e3bygIRRmIzyh444Zj7/tw5novVppZzpAOdBGpGjkbGohP175/mj36uez2Nm/ZOKesTT7edCzgqobwk53u6cOpfo2WFELAxbnWmtZN+Iy49y6gSWI+pIkYT/qnoJWA2wwDkvnhe0OUr9Qc59qiJqVNpc01wlx7MgPkNuoT0I+fGZjFuRK9mM5a5IdzvxcS48gwTLsUk/IV5Ntu6LTqAloNmHoPOtiiPmuQTrAKi+JhqID8Wm/1HfTMqs0xTbMy0=;7Jv53v01nsMkYDyeXqsPSQ=="
+secured: "V7wqqcpwOdlYlJsHjq1MqDLKgSUeaIa1ncWhxoH1D1Qy5wpqHlpaCbEXDbjUhQr5u+NNhuyLFWslPwq5C0U/MYKjv2IRuoZufRGpCclDVjgmeXkatYJlk06YiBuS9KELDuYOiUUA9beSl7ArgfwCLTTlc6ix2rry5urorrPrWPocawDAUCg0aqbhrSoHmPOiM+jxZ3vr6Sq8I+Oym2tS9Jam2MnEskhxnla2czm66mCtihVDUY0ctAGFyccD+abyw+MqX0SExfv7b4MFyajKVC0gxkbFx0AkKNGWx+YWA2Q=;9mfmZXAT0DG8kQJCNGwOkw=="
 ---
 

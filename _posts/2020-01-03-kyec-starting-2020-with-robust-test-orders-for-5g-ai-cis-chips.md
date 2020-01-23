@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-03T07:58:00Z
 sourceUrl: https://www.digitimes.com/news/a20200103PD205.html
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: Digi Times
@@ -22,6 +22,21 @@ images:
     width: 336
     height: 224
     title: "KYEC starting 2020 with robust test orders for 5G, AI, CIS chips"
+
+related:
+  - title: "TSMC, KYEC reportedly grab orders for automotive AI chips from Intel"
+    excerpt: "Foundry house TSMC and testing house KYEC have both obtained orders for automotive AI chips from Intel, with the orders set to generate revenues starting the second half of 2020, according to industry sources."
+    publishedDateTime: 2020-01-03T03:48:00Z
+    sourceUrl: https://www.digitimes.com/news/a20200103PD211.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: https://www.digitimes.com/newsshow/20200103PD211_files/1_r.jpg
+        width: 336
+        height: 224
 
 secured: "l5ZEhFwECJYxCmG/LbMa98ATwyQ0YsXx0EOxMe00vhAl+pE2RIYsmrjyosasJOwg7cUalMjqsF58yF+EvJyPm7cPQt/HD6fjagNleNDU4xUNpx4NX8/UeyJsjw8lgwn/WL2BbSgQtFEY8B5deMsZB+y21tGqjFByBgEavZ8C+YtP6785mnwCW53kRRNA3H1NiqEXFMYIkgpE0x/ocK/j7XcgjAMSmEG2d1zYZ1/Qmvw7M9/1Zvd+wnQDnwvJjDC7JiXVyTyXPlANikStex168UJrmvD4cGANnoHs9d8WLVNwC4IoVn2dMMWRBeNqvIpuPZGc2IQHAbZg7bfrrIx7kiig792KARiRvx+oWmbmgefFlZ1J8baemZYM6iga7QziiB4du+jPtWW3i3bPG2/t1jLW4xiBnIEcToDX4MLc/fYmujD5TkDhk9Q9CniSndXnHZ5223vUZhn5dfmRu7h8dQ==;dDlMMdP3o30zks2P2KRrQA=="
 ---

@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India"
 
-secured: "FjiQ7yTUYl3Qs70mKUTXRmxDkyBHZqzOYKlrPProKvtmtSJSCk1TY8uhivvJwv5zbR+YKmnPVYKBHY+Dj2Ew1tKKJSTaq+JaL7ut/oasgOhNYQHCfidkKWJO0wYqO2kunshJgKo0CpDUSs5C/YnlRJzTCuG0mK2sSPK7Jwl7HOqS6jwC8YMdLuG90oBbP1gRDkTliwvDKzyURmeVuyD8ilAHEN2HdkAvAo4frZMHoKW+StTxGcYhq+PrUQcXRQio/vXLb0wd5godfoe1MocCAJmqGHhJbxsWdjpScsnJt2A=;Io1lVD+5Qth2zhiro59z7g=="
+secured: "vca49+jbeSchlHsFyk7L3C6qkysAjMVYGEJasy94PkwTq6D/ugvNP+Tff7Iqch2WB/kREt+dOBXPc1b3XWrZ+txaz+BkSb5/RzRM78xan7PG/uK2SzqeNkSykyt8X4fRSwE6ccI385GIzh+pkO9MDqoPFEnPTF8AnGrkeQ+aFxu94kahcOorXNDKl9suTu/ykANihmSTOr8Q+HX4uhDOkEuS5OmsL3th7o+xvussx8hqYcoT3YRwQ/pkVeoECIE+CQ4HsCGtl2MptbWBWq3LnJvwqt2PLognqTt07FHORV6/cGB7HuN6XMr1PtMXyv1r2PFGkkA3nucfTzRa3KZyYV7FH+DPLxLwaZArvlN9VxUGI3OrMbqdlthhaJ2Z9mZlN7U1JELOQt76/B2835q6EOd7d4gBc6wkxuf8u91PRpBqbs5FTaVMSXVO7+RXX9M8lAHm4lsy64qr+JdcVWYIHg==;0cRz+LNwNvkMFcuyrekoGg=="
 ---
 

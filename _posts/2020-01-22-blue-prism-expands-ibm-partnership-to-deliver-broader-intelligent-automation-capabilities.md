@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Blue Prism Expands IBM Partnership to Deliver Broader Intelligent Automation Capabilities"
-excerpt: "/PRNewswire/ -- Blue Prism (AIM: PRSM), a global leader in Robotic Process Automation (RPA), announces an expanded technical partnership with IBM."
-publishedDateTime: 2020-01-22T12:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/blue-prism-expands-ibm-partnership-to-deliver-broader-intelligent-automation-capabilities-300988421.html
+excerpt: "natural language processing, intelligent document processing, and Workflow around current RPA initiatives,\" says Colin Redbond, SVP, Emerging Technologies at Blue Prism. \"This offering takes our existing integration with IBM Watson and expands on it with IBM Cloud Pak for Automation to give organizations all the tools they need to not only ..."
+publishedDateTime: 2020-01-22T13:29:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-blue-prism-expands-ibm-partnership-deliver-broader-intelligent-/2020/01/22/9085142.htm
 type: article
 quality: 15
 heat: 15
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - IBM AI
+  - Natural Language Processing
 
 images:
-  - url: https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook
-    width: 1166
-    height: 610
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
     title: "Blue Prism Expands IBM Partnership to Deliver Broader Intelligent Automation Capabilities"
 
-secured: "LqgE4V7jXzCMnnQ8xpf1xnbyb/p5KKZ3CXUzMA7Fp1do5ChUETIXTsSZ4I15Y+J2wNLXNTWN1Vpa64R8hOc/vJhLJxU+xSljiQTGfYw04s2RcfNCc3YZe4DZcKSNZrJiO1n5v0D73Ft/esqFX7KHRysV9t7eetFG7w4BpZef7WxdwhN94bB3DxMgp+dH2EzjUzEVNG/nrAkbVS//O1guVKUoin8qtn/zs/4Ki8ifIm+lSeiGjQIFfMxynOj2oPGq9I7JLeJomiqZ7SkwGH9wLre5vMOcZxM6yMAqzUmwbVI=;tqn2YDZkKCuCCZITMQFBFA=="
+secured: "0rpCbWCIY8al+Gfh3PGVVF/iblIyUb8IneRLjq4WeMOGPATbKzrtuHm5Rz3hvHO+v++yVErz8ZWzhdl1NWb3CuG09U08wSPKWi8lv2rBLbwReAbrYFJSCxjzfaVVREKQoXGjXFHiTEce4HxKa9Wxvu+m3Ho2QIA4vmgCoyKd0CNFH47RvuA0sGWCO5cublp4Wtv4u3OiuFTRKOvC2FmOeMZDNabKWfL64OFWve3pyDVmiR7FTcjFBldXKeUDnP0KPJEVfo3JGBDMUQ+qlQrnMgOrGP1HYEk71lwnw/pte9c=;7jRfDBoY0sGg8dUOlNrUSw=="
 ---
 

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Ambarella shows off new robotics platform and AWS AI programming deal"
-excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas next week. Ambarella, which went public in 2011, started out as a maker of low-power chips for video cameras. But it parlayed that capability into ..."
-publishedDateTime: 2020-01-02T10:00:00Z
+excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
+publishedDateTime: 2020-01-02T10:04:00Z
 sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
 ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
@@ -46,6 +46,6 @@ related:
         width: 1200
         height: 655
 
-secured: "kynnlWbl4ca2hq/QUzs3LBERf1HREncnkE4FftA0khL+t9BaZR6YUXCun6opLaDhVbkom1f47NsY7i4b0B6yZtxrw1ySEA4Rv1AsRsg86vbx3Nm5Cg0QgTzsN+tCi6Ntdz4bS5hDVAyKkaamkFAg9lHFXC+Tw+rGln2RwK+zvVVUscB0+97XHLc8gVpwxTyuJfgPvINkvkbtrWz9bWL9mzft4/Y2ayGg9i8tu6MX/q4h0FuJe3klo6reRPDvTSIN3tLubZSzhKQReoYNN3OgbKuRiMxrFRUs0bS+MLOFxfxse1MSiA7XLOBq8SITOT5BcQCKMn7i8xv9Dw2fKgI+glrnb0vlV0mfSruGuy+VDAAgyrdpXQiziBLC3h42ViQCzyeLqIvEfUvxIpuhtgG1MPVRswNA9Y68gcu0BR2w8l8h1O47PWhlajc6GQ6YUG0hvGIJ3cWxqBBP8pKCB+24jg==;YG63VG4+xWsfGQgm82NZkg=="
+secured: "0WH3H2D6zsXTOXQKB45KTSC8+ZRf+nKUKmhxC25STViFgczIRTt6RcC9enruYza1r61gFRGxYZWmioVdv5Bouiv9HhK1bcmfcTxJuyW7D/ZTU8g8KVSE3JGV+1CuQpLeb3cBf7AXYslsDJnntTlxZNrfTzN2Xh8xjZjWjoPSbaK88O9MpJMZrX+f+6LDFrwMqPd9XG8g8tHejh/NI5FoqsujEhjypOG5GBSoEMxMVKg3Dan20Zx7SB0EFUR5rhdJAmlY1bSz7XKkx++/pf5kN7qI+V0SRNq5ohiCPmO8n8U=;GQFQaqBQF+RZ6iUJjwyWYA=="
 ---
 
