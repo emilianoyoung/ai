@@ -703,6 +703,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "Facial recognition’s reckoning, Fourth Amendment edition"
+    excerpt: "Last week, The New York Times reported on a facial recognition technology company offering law enforcement, federal government agencies, and companies the ability to identify people simply by uploading a photograph. Clearview AI has compiled more than three billion images by scanning Facebook and other platforms. It analyzes uploaded facial ..."
+    publishedDateTime: 2020-01-23T11:17:00Z
+    sourceUrl: https://www.aei.org/technology-and-innovation/facial-recognitions-reckoning-fourth-amendment-edition/
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
   - title: "Change These Facebook Settings to Protect Your Photos From Facial Recognition Software"
     excerpt: "I won’t get too deep into the Times’ report; it’s worth reading on its own, since it involves a company (Clearview AI) scraping more than three billion images from millions of websites, including Facebook, and creating a facial-recognition app that does a pretty solid job of identifying people using images from this massive database."
     publishedDateTime: 2020-01-21T20:04:00Z

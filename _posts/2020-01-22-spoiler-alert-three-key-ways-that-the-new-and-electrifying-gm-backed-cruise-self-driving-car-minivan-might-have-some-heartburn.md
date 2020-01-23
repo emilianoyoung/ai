@@ -208,6 +208,21 @@ related:
       - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
+  - title: "Self-driving big rigs coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
+    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
+    publishedDateTime: 2020-01-23T11:18:00Z
+    sourceUrl: https://www.usatoday.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/
+    ampUrl: https://amp.usatoday.com/amp/4546366002
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546366002
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 47
+    images:
+      - url: https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001
+        width: 640
+        height: 360
   - title: "GM's Cruise Self-Driving Car Company Is Up To Something, But What?"
     excerpt: "GM’s Cruise self-driving car subsidiary is up to something. It completely wiped out its Instagram feed yesterday and replaced it with nine syncrhonized posts, each displaying a set of lat/long coordinates. Most of these locations correlate to something engineering related, but some of them are pure mysteries to me and everyone else I’ve ..."
     publishedDateTime: 2020-01-16T23:47:00Z

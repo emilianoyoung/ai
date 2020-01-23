@@ -23,6 +23,6 @@ images:
     height: 421
     title: "Classification and Morphological Analysis of Vector Mosquitoes using Deep Convolutional Neural Networks"
 
-secured: "luPH+piiWs6KH4UjQMsXCfn4mxWG67NTo+/I5ld4kDsNlhM2bkkcHgbjBo+7Iujp/0VxOf5SEs0T3bszzybBtgiRDnnFDrzmUUwTLxIXDC4re+6FuTzA9GRTLXmWHBn9DsZfJf11y5zoH7D3dTlYyPwnA3waj/zjoomprESAym1GZEehMG0se0O6sw96BhPU50uCV1vu/40uP5W2a9YR9yraF6MZMsSl3yepyVmXZWdxmZuk/kLSneIyUokU/aeC9YOCAde4wL7SHDrvW+VPSrw8jXguHd05efkh9YbQ9nHqWcUAYNVMPHZIDXH0VdQ1;/TZGyvJaZ/z7rm9tEVd2aA=="
+secured: "IAFzbjkg91a4mNVUspawd84QhsxulPlHw8i7wc8kxBMgI/ZTUdSnxaHkoMjwg6v/rcRVqbQsW+NTFdq/XSfF5DJJlKjnvlg52kfYd7fvlN6bcZx7zm6ik0gA7Y/KZW7haCj1HsZEkz3+/3r+LovYPGxq/VX011zBK9zZ+mPMWXyQ2Iof48PbKNSM4CiEFJMGyGuv2HroADgb8HI4lk//QZ7A2U41YUls67jYtlOznkyVJFGEUszf5H3O74cwYaQFin33r/UHYPqaDml8LZTDzvvpdU5tuoOa5ddCM9ftEyspo7lxfjJGz8u2lYn3w0yEBB94q1YbeuYam4zNR7B/Jcv/t3m2t4g/58a4F23NSK/bvfyUENIo25n82EewNxnQiRRjJqZkDb8fo95vPBR2AWx+IME7xP0JGEuCruzFGmFV7GJri2B24FiAMbWAETNwpsRl26THoriMqdDJ/s9I2++q/+zBlbV9Led3x3PBfrQ=;6O/GYGTMN95uZcm6VQLCMA=="
 ---
 

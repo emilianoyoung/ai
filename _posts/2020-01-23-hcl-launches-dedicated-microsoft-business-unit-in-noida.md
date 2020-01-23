@@ -63,6 +63,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
+    excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
+    publishedDateTime: 2020-01-21T23:54:00Z
+    sourceUrl: https://www.prnewswire.com/in/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook
+        width: 1920
+        height: 1005
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
     publishedDateTime: 2020-01-22T05:12:00Z
@@ -90,15 +103,6 @@ related:
       name: New Kerala
       domain: newkerala.com
     quality: 19
-  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-    excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
-    publishedDateTime: 2020-01-21T12:47:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-300990290.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
 
 secured: "TRFpSzEfIfwHZp2tc4MFflAbIpNzrR5p97Q94Koyf4HnCpOIh8xcXWH+c8XzMNmafTjjS2ExnpcOp2WsuQNYgcXx0OKkyKq/GvQo86SEQ2qEHWjmP0fVTb/FNScy+OnpPzcjGd2ROMTLrRUh5+ifGX0l630cuiqfpsi0Pc5XfQ1QVyhTRCYdIgfmGLdWyR+jjNOvdXjPHJ10UxKMYSm+B0ORxMvbQ2mfCEHcRx/mhPwJp/Ww75b9hjd6dvokdsGrcTlZkkry7P4tpwB1tHbK+EeTW4Z1c23LC2KuAYonUGo=;Z6hD4RBlLMiVGm/te/hXSg=="
 ---

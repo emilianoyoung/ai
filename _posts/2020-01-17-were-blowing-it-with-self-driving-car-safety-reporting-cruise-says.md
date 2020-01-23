@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-californ
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
 type: article
 quality: 174
-heat: 514
+heat: 524
 published: true
 
 provider:
@@ -193,6 +193,21 @@ related:
       - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
+  - title: "Self-driving big rigs coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
+    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
+    publishedDateTime: 2020-01-23T11:18:00Z
+    sourceUrl: https://www.usatoday.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/
+    ampUrl: https://amp.usatoday.com/amp/4546366002
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546366002
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 47
+    images:
+      - url: https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001
+        width: 640
+        height: 360
   - title: "Spoiler Alert: Three Key Ways That The New And Electrifying GM-Backed Cruise Self-Driving Car Minivan Might Have Some Heartburn"
     excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
     publishedDateTime: 2020-01-22T15:51:00Z

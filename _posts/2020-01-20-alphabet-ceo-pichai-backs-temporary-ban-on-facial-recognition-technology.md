@@ -686,6 +686,17 @@ related:
       - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
         width: 1140
         height: 641
+  - title: "It's too late to ban face recognition – here's what we need instead"
+    excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
+    publishedDateTime: 2020-01-23T11:43:00Z
+    sourceUrl: https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/
+    ampUrl: https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
   - title: "Surprising results after activists test facial recognition technology on Denver City Council"
     excerpt: "Swatling ran a test with Amazon’s Rekognition software. He compared the photos of Denver City Council members to about 2,000 photos from the Denver County Sex Offender Registry. It took him three days to run the data. “The results we got back were pretty astounding,” Swatling said. “In some cases, as many as four false positives from a ..."
     publishedDateTime: 2020-01-14T05:33:00Z

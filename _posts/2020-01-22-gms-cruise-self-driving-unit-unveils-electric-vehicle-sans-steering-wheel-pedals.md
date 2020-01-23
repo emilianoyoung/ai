@@ -193,6 +193,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e20ef18735f8c00079a06d2%2F0x0.jpg%3FcropX1%3D251%26cropX2%3D5129%26cropY1%3D658%26cropY2%3D3712
         width: 1200
         height: 751
+  - title: "Self-driving big rigs coming soon? Waymo set to begin mapping interstates in Texas, New Mexico"
+    excerpt: "The Lone Star State may become a little lonelier — at least when it comes to big-rig trucking. Waymo, the self-driving vehicle division of Google parent Alphabet, is about to start mapping in Texas and New Mexico as a prelude to testing its self-driving big-rig trucks. The mapping minivans, to be followed by the large trucks, will run ..."
+    publishedDateTime: 2020-01-23T11:18:00Z
+    sourceUrl: https://www.usatoday.com/story/news/nation/2020/01/23/waymo-texas-new-mexico-mapping-self-driving-big-rigs/4546366002/
+    ampUrl: https://amp.usatoday.com/amp/4546366002
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546366002
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 47
+    images:
+      - url: https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001
+        width: 640
+        height: 360
   - title: "Spoiler Alert: Three Key Ways That The New And Electrifying GM-Backed Cruise Self-Driving Car Minivan Might Have Some Heartburn"
     excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
     publishedDateTime: 2020-01-22T15:51:00Z

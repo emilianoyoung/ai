@@ -673,6 +673,17 @@ related:
       - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
         width: 443
         height: 249
+  - title: "It's too late to ban face recognition – here's what we need instead"
+    excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
+    publishedDateTime: 2020-01-23T11:43:00Z
+    sourceUrl: https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/
+    ampUrl: https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
   - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
     excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
     publishedDateTime: 2020-01-20T19:43:00Z

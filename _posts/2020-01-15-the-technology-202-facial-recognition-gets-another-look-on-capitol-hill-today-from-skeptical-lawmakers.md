@@ -686,6 +686,17 @@ related:
       - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
         width: 1140
         height: 641
+  - title: "It's too late to ban face recognition – here's what we need instead"
+    excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
+    publishedDateTime: 2020-01-23T11:43:00Z
+    sourceUrl: https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/
+    ampUrl: https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
   - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
     excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
     publishedDateTime: 2020-01-20T19:43:00Z

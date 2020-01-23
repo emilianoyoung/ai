@@ -63,6 +63,19 @@ related:
       - url: https://www.siliconindia.com/news/newsimages/MfYXru58.jpg
         width: 570
         height: 367
+  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
+    excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
+    publishedDateTime: 2020-01-21T23:54:00Z
+    sourceUrl: https://www.prnewswire.com/in/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook
+        width: 1920
+        height: 1005
   - title: "HCL launches dedicated Microsoft business unit"
     excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
     publishedDateTime: 2020-01-22T05:12:00Z
@@ -90,15 +103,6 @@ related:
       name: New Kerala
       domain: newkerala.com
     quality: 19
-  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-    excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
-    publishedDateTime: 2020-01-21T12:47:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-300990290.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
 
 secured: "+oBwKDYbtDTWrElttu/XR29Ynt1cLFVkVrymDbjUkilq1QmbJxkUoAFi6N+OlejohO42cldKz8uXKINDdYaqAwy8sHrUDgupUlAi3oL0jwMR2tqEQ2sIis80FulKtgJJiufVLuz+rfDGx/pjjsIxR+adKfYymjhxQjMDl7HN0SHGKKrsVJIX902G/pjDJoTGpqrRVGu8/oenPHhTl5bzKYTN2CyLr3Rzp/AXTsLqw+3F3wkGedk9oIiyBegvWZ3H1FG56i0nt3NFWvGj1wrzaj7qewtssebFy27IZMGL6qFg8R5H0pOadhMStym8D2WUUVVxYJ35dWODMn5UIr7y9TEq+30XhhkyGXnDObsB10Naua8SUAPnDaiWskYY2CWCUkD+LCiLLEep67Ud411Qlr0lbgqnQ0qtPNTMX2S34k+STJkvdrvRwmA4sOKEimfEk+RHyM143LMgrf4Tutsi+g==;kRcMYFSKOsSxGEPhhorelQ=="
 ---

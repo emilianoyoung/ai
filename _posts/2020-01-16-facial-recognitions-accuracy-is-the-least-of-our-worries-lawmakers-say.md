@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 756
     height: 567
     title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
+
+related:
+  - title: "Why your palm could be safer than fingerprints or facial recognition"
+    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
+    publishedDateTime: 2020-01-16T05:27:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
 
 secured: "7nYVMYw9vJL5ZhnfvPgX6oAAnXvCZraQKe5nUG/5KFNKRThFK3GDRAtLD/6LOUpn3zG1WeIYO1F03hNEzV5IDcoZInnS356A+DaAmqGgt+9hoptsUdbhnBHVPdELJez/CUkEFxeIC9Fe3HHFVpJyP04eNB7deQvY8ZHaW1el/nHbkPRdsLVpBlU3RBKJAt4q4BA1TD/PpHh5j3552O3TIClNb82WEo65lVRwb2hHI22x73D3SsD9ZkYWeMaagaGgpjXo97KlwkAn7dKGyX202R8KYvLf/DOLTfB3WRKW9C8cC/I9zSWaMaY2r0+58IPOuPMQiFnet6KlEqjkWwLxfm7c0XLhw7z73g68Yrdnd0Xn+g8bR0h9aYK2BPv2srAPb/2V9bCpk0mKvcw58DjfjVLpmW4nATXRatwR7NPf+aXbPyC/LCbJx82h9Mwww71u85RY1jScztqCuN1QIeN1LQ==;3iX+UGNY3Rr9Gf/WP0YpoQ=="
 ---

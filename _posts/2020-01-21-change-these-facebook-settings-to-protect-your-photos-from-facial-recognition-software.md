@@ -712,6 +712,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "Facial recognition’s reckoning, Fourth Amendment edition"
+    excerpt: "Last week, The New York Times reported on a facial recognition technology company offering law enforcement, federal government agencies, and companies the ability to identify people simply by uploading a photograph. Clearview AI has compiled more than three billion images by scanning Facebook and other platforms. It analyzes uploaded facial ..."
+    publishedDateTime: 2020-01-23T11:17:00Z
+    sourceUrl: https://www.aei.org/technology-and-innovation/facial-recognitions-reckoning-fourth-amendment-edition/
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "KvIh0mrgrTm4dB918yOpsj6b5h6ghdZLtZQerfJL2FxfsxzDgdtlq4tq3wsM0aWdeESXE7SOqM1CNmLHSb1PIvs+pwi1bKRMx6D3QEm6qGbJIaaYEJYvBuQ6vYNRLGv6JXV5ubAh2xMHNXX0nnPV0r3wyc5WbbzoYhwHn84uMocOQIfwFCLbiqCUqFTMXMl2jsJ+FElEltNlxJzgCZEQpp4YCz7i6UBv18VOGd+PUST1wR5rNxafd8OUKBn54wReHROtw+aC+YChUTAn1x9ubuLxQiRygE8N0dGadC3qeO4qSv+GJVkAF04ALykFC0amFHm6Pn/rJQHKlzNexg18jpPudOOX7yq9h+p7DQrNUaQfavaIn9s1NiV/QK3cKjOo/h//vRW/EakGsWLRnBwYyKRKNxvGL3LB+SVjSenX64h76NAGVRUif5nvKtGPYXwRAFpzNQLFIxshjLWKjM5fCQ==;P4tpDJc+Tz+wd82HKcdz3g=="
 ---

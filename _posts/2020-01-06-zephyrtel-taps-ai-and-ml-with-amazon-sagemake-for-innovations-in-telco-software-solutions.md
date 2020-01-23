@@ -46,19 +46,6 @@ related:
       - url: https://www.cioapplications.com/newstransfer/upload/cm4tplklk.jpg
         width: 450
         height: 308
-  - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-    excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
-    publishedDateTime: 2020-01-02T18:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/GIGABYTE-Brings-AI-Cloud-Solutions-Smart-Applications
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: https://mms.businesswire.com/media/20200102005179/en/764632/23/GIGABYTE_Datacenter1.jpg
-        width: 1200
-        height: 627
   - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
     publishedDateTime: 2020-01-03T14:43:00Z
