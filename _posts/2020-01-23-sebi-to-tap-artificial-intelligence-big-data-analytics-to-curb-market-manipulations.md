@@ -8,8 +8,8 @@ ampUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-bi
 cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -25,6 +25,21 @@ images:
     title: "SEBI to tap artificial intelligence, big data analytics to curb market manipulations"
 
 related:
+  - title: "SEBI eyes AI, machine learning to fix market manipulation"
+    excerpt: "Meanwhile, the capital markets regulator has also planned a ‘data lake’ project using tools like machine learning, artificial intelligence and big data analysis among other things. Data lake refers to a repository of data that is stored in a very raw or unstructured manner. “Use of advanced technological tools such as artificial ..."
+    publishedDateTime: 2020-01-23T17:17:00Z
+    sourceUrl: https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece
+    ampUrl: https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
   - title: "Sebi to tap artificial intelligence, big data analytics to curb market manipulations: Ajay Tyagi"
     excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning , big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a \"data lake\" project to augment analytical ..."
     publishedDateTime: 2020-01-23T08:49:00Z

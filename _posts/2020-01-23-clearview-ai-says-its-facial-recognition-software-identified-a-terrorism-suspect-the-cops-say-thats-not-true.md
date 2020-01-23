@@ -8,7 +8,7 @@ ampUrl: https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-re
 cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,23 @@ images:
     width: 640
     height: 341
     title: "Clearview AI Says Its Facial Recognition Software Identified A Terrorism Suspect. The Cops Say That's Not True."
+
+related:
+  - title: "Dem senator presses facial recognition company after reports of law enforcement collaboration"
+    excerpt: "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement."
+    publishedDateTime: 2020-01-23T16:54:00Z
+    sourceUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law
+    ampUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 48
+    images:
+      - url: https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg
+        width: 980
+        height: 551
 
 secured: "LDGRNRC9DfAx/GUlLhAb8TC5JNP96KyTE3Rq1Y/CTssa8ezMGaMHB6gds8QRYbmY0IJBQC+5pwD5KhOs4xbpoCLdXoB8dBLoHIGcTmQv0kzofGrE52q4dgnrfnRnBnDpiVXz2TcsTU3qWszn+xWPOCoqc+ncMLeMdxFcWmXS33OgVoItyKGGF/ZnJlf7rtntoPo5LNKZ0u2Kwz7fNoftZNHBY7fqvOCO6xL2E603xcA1gii8VF6WVvry9SoSjFN1kgkzTITCtCKLhVC5c/K1030B6z4vzHpekc/sr6V+Qg0NsEsSnsfVQvkcHryswOrsqRHGPLt1NuCnr9AEJ9Qnu7PHzz3Wq/k8a9Q96L9Jc3hZBmE9C4sNXBMhUhiImgAksHvEm/Wa72f6HbWmk8Qqp9OL6nJ8Mt1vIgmg+IkY3R6mtEq4EHf0VuSkBFCr8nof096ZUGd7Ya+HNCn0jI8R0WPtuvuCg+9UDLMNXwPgSQ8=;Hc0h8k3oAdFS+4STEDlkpA=="
 ---

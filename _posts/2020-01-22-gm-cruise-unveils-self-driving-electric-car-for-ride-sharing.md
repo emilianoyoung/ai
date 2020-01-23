@@ -358,6 +358,21 @@ related:
       - url: https://media.gannett-cdn.com/29906170001/29906170001_5975956542001_5975943510001-vs.jpg?pubId=29906170001
         width: 640
         height: 360
+  - title: "Uber is bringing its self-driving vehicle testing to D.C. streets"
+    excerpt: "Uber will start scanning and mapping District roads Friday in preparation for testing self-driving cars here later this year, the company said Thursday. The ride-hailing company is moving to expand testing on public roads following the conclusion, in November, of a federal investigation into problems with Uber’s technology and management that ..."
+    publishedDateTime: 2020-01-23T17:54:00Z
+    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html
+    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 44
+    images:
+      - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
+        width: 1440
+        height: 960
   - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
     excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
     publishedDateTime: 2020-01-22T17:23:00Z
@@ -414,6 +429,19 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 800
+  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
+    excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
+    publishedDateTime: 2020-01-23T17:20:00Z
+    sourceUrl: https://www.businessinsider.com/cruise-self-driving-tech-for-city-and-highway-driving-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: https://i.insider.com/5e27cca5b6d52d4b53130ed2?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "What self-driving cars will really do to cities"
     excerpt: "The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits. Unfortunately, this future will almost ..."
     publishedDateTime: 2020-01-11T11:00:00Z
@@ -548,17 +576,6 @@ related:
     provider:
       name: IndustryWeek
       domain: industryweek.com
-    quality: 0
-  - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
-    excerpt: "This is a Business Insider Prime story. Click the link below to read it."
-    publishedDateTime: 2020-01-23T15:33:00Z
-    sourceUrl: https://www.businessinsider.in/finance/news/in-case-you-thought-the-self-driving-startup-cruise-was-just-about-navigating-cities-think-again-the-company-is-preparing-to-take-on-highways-too-/articleshow/73558272.cms
-    ampUrl: https://www.businessinsider.in/finance/news/in-case-you-thought-the-self-driving-startup-cruise-was-just-about-navigating-cities-think-again-the-company-is-preparing-to-take-on-highways-too-/amp_articleshow/73558272.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/in-case-you-thought-the-self-driving-startup-cruise-was-just-about-navigating-cities-think-again-the-company-is-preparing-to-take-on-highways-too-/amp_articleshow/73558272.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
     quality: 0
 
 secured: "VpLZgAaIzgYXIc1IOY6aGe7XiUmKMpAsnBpnwpCIqLSfTI8X4CrhiaVucTV9dZJJ7Khs1ztmvEZ3CWzWGec1b+KZJJycn3lEAR4vgYHC/AYlGZBixWVQVjv81rICF/Enif9IeQQWE9c7XwSIvqkkat4R6Hshwbn6370o4XUlslyS+wEM1B0DXwkOFMxg6JyWwTIhjNtVmPql/0jkM1pKbvfDaWxKrIwPHZjFgnq9dy9o/C1f0Qz8isbMfZYuMqCbE+eC1hmBqkVAJpU+f5e3rQY6zgP4kc+l1pcuk8Hj4TNWWzqYz+U3IjULlqu/30bGJ71pLbEZAR6gTcJBaDw7P3uYq+y2WkJzJMS5q9n/0UZhPKkuyr2tNSOdHSbeGCugkCLdrwH19nP0D7PeO6l16GY06yiAOV2J7ANafuPR9Ff10hM+a5TonHzwXc+dyCR0pYnO142oiHeRDYmdGBVeeg==;FfQGb/bRPHv+7YlrtdiKGg=="

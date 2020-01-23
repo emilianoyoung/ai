@@ -20,6 +20,19 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Using artificial intelligence to enrich digital maps"
+    excerpt: "In a paper being presented at the Association for the Advancement of Artificial Intelligence conference, the MIT and QCRI researchers describe \"RoadTagger,\" which uses a combination of neural network architectures to automatically predict the number of lanes and road types (residential or highway) behind obstructions. In testing RoadTagger on ..."
+    publishedDateTime: 2020-01-23T17:42:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/miot-uai012320.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
+        width: 900
+        height: 300
   - title: "High Investment in AI and Machine Learning will Enhance Automotive Digital Assistants by 2025"
     excerpt: "/PRNewswire/ --Digital assistants are rapidly emerging the primary input medium in human-machine interface (HMI), creating new opportunities for"
     publishedDateTime: 2020-01-16T07:01:00Z
