@@ -220,6 +220,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all
         width: 2215
         height: 1353
+  - title: "Facial recognition reveals AI's darker sides"
+    excerpt: "The emergence of artificial intelligence technology in everyday life can be unsettling, says WEF AI expert Kay Firth-Butterfield in an interview with DW. That is why regulation is urgently needed."
+    publishedDateTime: 2020-01-23T09:00:00Z
+    sourceUrl: https://www.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+    ampUrl: https://amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 74
+    images:
+      - url: https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg
+        width: 512
+        height: 288
   - title: "UK police use of facial recognition tests public's tolerance"
     excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
     publishedDateTime: 2020-01-16T20:55:00Z

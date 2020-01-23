@@ -339,14 +339,14 @@ related:
         height: 800
   - title: "This self-driving car has no steering wheel or pedals"
     excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
-    publishedDateTime: 2020-01-22T21:50:00Z
-    sourceUrl: https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
-    ampUrl: https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
-    cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    publishedDateTime: 2020-01-22T20:50:00Z
+    sourceUrl: https://www.kcra.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    ampUrl: https://www.kcra.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+    cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: KCRA
+      domain: kcra.com
     quality: 44
     images:
       - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-20022112310822-1-1579732291.jpg?crop=1.00xw:0.844xh;0,0.156xh&resize=1200:*

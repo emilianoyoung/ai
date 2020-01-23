@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Hitachi Vantara Announces Intent To Acquire Waterline Data"
-excerpt: "Waterline Data delivers catalog technology enabled by machine learning (ML) that automates metadata discovery to solve modern data ... It can be applied on-premises or in the cloud to large volumes of data in Hadoop, SQL, Amazon Web Services (AWS), Microsoft Azure and Google Cloud environments. Waterline Data’s patented “fingerprinting ..."
-publishedDateTime: 2020-01-22T14:29:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-hitachi-vantara-announces-intent-acquire-waterline-data-/2020/01/22/9085292.htm
+excerpt: "SANTA CLARA, Calif., Jan. 22, 2020 (GLOBE NEWSWIRE) -- Hitachi Vantara, a wholly owned subsidiary of Hitachi, Ltd. (TSE: 6501), today announced its intent to acquire the business of privately held Waterline Data,"
+publishedDateTime: 2020-01-22T13:00:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15162811/hitachi-vantara-announces-intent-to-acquire-waterline-data
+ampUrl: https://amp.benzinga.com/amp/content/15162811
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15162811
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
-    title: "Hitachi Vantara Announces Intent To Acquire Waterline Data"
-
-secured: "yV+4tWkKmIsB/jcW7MdMxvk0Iho4M1CXFyqf/+YEZfrwwlWQpdyYt5rrVypaSzukXE/KdDdH9VpRnkSkluq5ERRZOW5hefPC0z6PbeS1JvBhL4EnH8VyzZDT6anqVVY2XOrX1NQGcmBHqI4TyHKub5QVrWSpY2p9H3zkhkqRJKeTSKJm3J4mbV2MpodJftCRlQojLHVF5CnjPBPS4aHyz9qpAS1hQ1O0oOatl3dCR0ptPrzB7uiecngIeWpSXT8MQDDdI7V+hwIMBPkKkR07FJG0V9OvOkOY5lp4Y4J/9Ic=;jum4PnDmdWczbyzPYYRUcw=="
+secured: "QvhR3oQWJ6IyC10BDoJ9UFXcwBu25N0PWQcgliyalPk4+WolGVCB1oX6wQJ68RYS7MwuDOzeOPs1vVJ4hIoG+tFQf7Gg9mx6YwhEsMfMLFTmoKE2gGnJDxLXuKbKG/21KLbO9uxCXZiMXl8pWewJrcMe1nzBKXuacrzWaSvq3pqPqYBxzKMkqcdM/w/PMJdycgXjlSEIpXTahhHrEQCwvus8LJqADU96zBKayzBIK2tI8w93LI4CQClSvU/sCnIP7A9ramDCl2lcfdqYmWZdNnuPak8MwWxT9E4Um70u1DEhyMP2RwVO83WlQBtd3eLx;LL7dAdq04VZrqmVb7gn5+g=="
 ---
 

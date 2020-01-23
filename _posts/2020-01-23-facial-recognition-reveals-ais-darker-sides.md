@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
-excerpt: "Twitter said Clearview AI, whose app is spreading in law enforcement, was violating its policies. Lawmakers also expressed privacy concerns. A mysterious company that has licensed its powerful facial recognition technology to hundreds of law enforcement agencies is facing attacks from Capitol Hill and from at least one Silicon Valley giant."
-publishedDateTime: 2020-01-23T00:04:00Z
-sourceUrl: https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.html
-ampUrl: https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html
-cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html
+title: "Facial recognition reveals AI's darker sides"
+excerpt: "The emergence of artificial intelligence technology in everyday life can be unsettling, says WEF AI expert Kay Firth-Butterfield in an interview with DW. That is why regulation is urgently needed."
+publishedDateTime: 2020-01-23T09:00:00Z
+sourceUrl: https://www.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+ampUrl: https://amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
 type: article
-quality: 103
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Deutsche Welle
+  domain: dw.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://static01.nyt.com/images/2020/01/22/business/22clearview/22clearview-facebookJumbo.jpg
-    width: 1050
-    height: 549
-    title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
+  - url: https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg
+    width: 512
+    height: 288
+    title: "Facial recognition reveals AI's darker sides"
 
 related:
   - title: "Chinese City Uses Facial Recognition to Shame Pajama Wearers"
@@ -75,6 +71,21 @@ related:
       - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
         width: 1200
         height: 908
+  - title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
+    excerpt: "Twitter said Clearview AI, whose app is spreading in law enforcement, was violating its policies. Lawmakers also expressed privacy concerns. A mysterious company that has licensed its powerful facial recognition technology to hundreds of law enforcement agencies is facing attacks from Capitol Hill and from at least one Silicon Valley giant."
+    publishedDateTime: 2020-01-23T00:04:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.html
+    ampUrl: https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 103
+    images:
+      - url: https://static01.nyt.com/images/2020/01/22/business/22clearview/22clearview-facebookJumbo.jpg
+        width: 1050
+        height: 549
   - title: "Congress moves toward facial recognition regulation"
     excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
     publishedDateTime: 2020-01-15T19:27:00Z
@@ -208,21 +219,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all
         width: 2215
         height: 1353
-  - title: "Facial recognition reveals AI's darker sides"
-    excerpt: "The emergence of artificial intelligence technology in everyday life can be unsettling, says WEF AI expert Kay Firth-Butterfield in an interview with DW. That is why regulation is urgently needed."
-    publishedDateTime: 2020-01-23T09:00:00Z
-    sourceUrl: https://www.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
-    ampUrl: https://amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
-    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 74
-    images:
-      - url: https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg
-        width: 512
-        height: 288
   - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
     excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
     publishedDateTime: 2020-01-20T12:00:00Z
@@ -719,6 +715,6 @@ related:
       domain: lifehacker.com
     quality: 11
 
-secured: "JrAn/xGrYiqGPXT21P/9bohBP7eqaC6jP5Q/AXb5OJTSxRpN/iWEXmsHn1YrSg0fKE8GikoUG3qWNfzKp+nAqnB+Lem7vA85+MQNwQc73flw8PfX+JMYVwpFehx3/YUTSjxGlCSlj0buQF4+5PwnBA5DatSpnyNCsP4aRI84bGIjkd8zZANCiyucWyCKREvH8CaW0AxUgmGtythI584SnmKIi/Q81wEMdxxIiIv9iFxCamkaiQ8uMRFE0BcPCMZrNtlhVxeRDKM849aSpufL5nes+NKcgvSKUCqakHd73A21XaiCjgb/9senXAC2lox4O4dcrId3ruT/EdcE/p+bHLkrTaOofZe7coOQUCJ5osmj3QSzo2Xax8Ja6V6RqZYzvjjU9etrCTVWAMpDegPPXVnqbz7FCubz4NV3/gSFxTwtc1OdsV2g1iMJMnfJhwI/wbimwcHI9O4G98mFL9VlZw==;WCuXYtGfFZRSttaE/VF9Ng=="
+secured: "LIr66QNP8LUKDXeTPrva5b5VYBGvIcw5oPU4Y5O9FxLqIaVEicIVFewbH8zkYf1ysfIefuy7/6v+sQYvG4klJoU68AVDQxtwV5ScKUvkkUS4e5v6jOgvb7V32R65LOD6I9PVyh1TvPlMNReIKXGLopV2re2GvrHPgxbsUSiX89xjHOW0jmKCjSw6JmJRC/8w0/8GNXPOSdxHwVMI+KVmDJg0ZwJebsrsSoori5PW3mnc6yDhCgziDLjOpjX810NNPQxf5mGxgeXA2Ph/bmv63qR/m8X5fiBHA5P8v3aTZyfRy5vk3WzxdZGjRjebuic1;edKswRZpxQP+jj5yqcowcg=="
 ---
 

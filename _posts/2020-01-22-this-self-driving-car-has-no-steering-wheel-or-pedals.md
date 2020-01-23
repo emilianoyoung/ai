@@ -2,18 +2,18 @@
 category: news
 title: "This self-driving car has no steering wheel or pedals"
 excerpt: "The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rearview mirror."
-publishedDateTime: 2020-01-22T21:50:00Z
-sourceUrl: https://www.wmur.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
-ampUrl: https://www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
-cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+publishedDateTime: 2020-01-22T20:50:00Z
+sourceUrl: https://www.kcra.com/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+ampUrl: https://www.kcra.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
+cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/this-self-driving-car-has-no-steering-wheel-or-pedals/30631382
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - AI
@@ -505,6 +505,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "Hv1Cv/DujP3arUfOPlT16glymOrKWO+qgoVJjqK8pclTJ2W+PZ4w0Gbovjw+ve0M9dCi7LsQnIhANYqpPUmqcdoWqCrTjhAhYwMmP4XGqamlhGouDnpIYoIv8HJUAKsT73R6tOUC+dAN3Tmysfmy6Yh12iYgQ292RysO1JtspYEh+W+ozpoW/14PfdtzT6kKXD1/+A1GiQPpBF7x1Q9ukzphBMl8UP0FhdU75mDJa4ZdvOjNimgPVbBtBozI4td5VNeB54CH71qYll/HokusNIMm25t+ouvSmVkGmsRN2mdNa4OQhr5+I6g0tqfE9+RIKS1BPxubVGdwdZ8E7+XwBU4+U2EQg4APNolHdX6G2EKhkaeKERy6fYsk5BuKlc3dw2fVKChg/iyP8fP/IZHVrre8xE8pgEOZ5myc0uRl/N5I81IQgoFR0OilUwiplGMzvguVp/5c3DFZx1OzlJigKspMs6ocjDl7U24f+rXbQh8=;bw0aNE2Vg0qGmIuzN84Jng=="
+secured: "vcO9rSLlHxptC1cujjP3rLpMCPEBCcu6BUQXz8tjUf371iwFXMIsCmClHWlas+8OR66N9cFmsPNJeBC4lziwJfTpV4122DqY7vrUFbSYCkpZPyc2SVWMN+QUKKcew0/VGvTogNyjhEOPtFaCW/OcqaVJ+GVeV2wJnBXy409tS+AeofWcstbuF+5qb0xHd3Taew1AOuTP7YB0A0BxoNyj3TAi9RP9qsVn/3gxv1Gi+7BUReHTBeaECfF0NkX32ImqpalWOzKtXNC32p7L+5hqO4jmkyx2/mGOvP0dkN+xNJ9Wi3pYWsFHkCCSrZx9/Grt;7iynIxanS6QtCMC+mbu6oA=="
 ---
 

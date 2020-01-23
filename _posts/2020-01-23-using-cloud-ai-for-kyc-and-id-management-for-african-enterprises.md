@@ -25,6 +25,6 @@ images:
     height: 900
     title: "Using cloud, AI for KYC and ID management for African enterprises"
 
-secured: "/DnejQQQ8/3bdNuc7mZvLco+vj+0upNtSLV2+fpm9eBy9Sm2VrYju/lJj39jUDXnJMU4h3aDPhT/5mwDi6gYnk8b09bSUwRb2dBAB4fjVR7YyxvfsPnZm5/ohIVPAQN+sPbblyzMfEJEWVSXLAaHestUdm/s2vs5RzTo+xrJ+tPiSZ17PLsmoJuH7inq/JbP+7sDnMqVJkmwNpPaMikqOfOvGd7drTJvI+BzZDW/ZOi21uf/OXnQwCqbTTYktZP6LUbou9w2617TEwvIe4pD5TfhQiva3ICnHdKEy1mhzTDKg8dPMR4qbb0euh41Jw8j;MYhX4CuXPsfH5uMO7F+2GA=="
+secured: "TJtjeZnYMYj6hLVSfJ91pkISWqlyu/tCbwSZ3gXI9lmrA8w+X3R2KjnBn4Z0/rIOFA+FQ44h31LXS0t+zxEFyy161CuI0PGH/mjlpqpJBcroCz2MUdPlRZPJJH3cmjn0AZWDkKtNY3ZnzYHfY8SW4eZQnJUW7Tglg8V0nvdoUDHJnZgb3Ys7KL2T0OgWJelnz8pKXZbaUI0oqEHAJGmGNCpJ0wv6E4aJOm2A8h+gooLeV/kEe11i8VE3ZqVlCPuEyW5R8Gtcsq4J7U0IqvKtBYePXNUrSklOHIze3Zm5Y9lsPr+liWRqEYUa/eYMLd+ULYgDNvUw73phSfr6tet+s+dHvDH/QVfO68lVA76gDBGiQNNHknZp0nNg3FEy6E0cGGJpWa9Xby762yTw/qGRvnDIWEcwHWbqgn53NoczdKBY8XbvHXeWwJuGLL2JG1p1i39svZooSEr463J+/IzQXbi/oeHWdiPYfSDQxVe7gEo=;jNoSsa88F0Hf4ymHnkRotQ=="
 ---
 

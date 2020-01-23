@@ -8,8 +8,8 @@ ampUrl: https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enabl
 cdnAmpUrl: https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: SourceSecurity
@@ -26,19 +26,32 @@ images:
     title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
 
 related:
-  - title: "AWS Cloud Journey — Analyzing to Deploying Models with Amazon SageMaker (Ep. 1)"
-    excerpt: "So, stay tuned for those content in the future. “Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine ..."
-    publishedDateTime: 2020-01-02T23:01:00Z
-    sourceUrl: https://medium.com/@kyleake/aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1-61a4b636d618
+  - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
+    excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo ..."
+    publishedDateTime: 2020-01-02T10:04:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 80
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: https://miro.medium.com/max/1200/1*S2hZHdsehsaJRwp6QiWypg.png
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 675
+        height: 630
+  - title: "Ambarella Enables AI on Connected Cameras"
+    excerpt: "Ambarella collaborates with AWS on single-click machine learning for edge applications Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on ..."
+    publishedDateTime: 2020-01-03T16:10:00Z
+    sourceUrl: https://www.businessghana.com/site/news/Technology/203582/Ambarella-Enables-AI-on-Connected-Cameras
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: https://www.businessghana.com/site/img/../../cms/img/news/2020-01-03-1346071.jpg
+        width: 800
+        height: 600
 
 secured: "Lv9lZuba4Es8SKD4hhTXxwNngLRvdlHYhJEYAaM+zrIaxJrZn4TBKBCgJr3azAuZ7gNWZZ73+iqfQisxdlHf6NZd+esi6BWSMUXnUnFE3gEga/3h1/HwZC1ayN76nTb9U8ZQ5/qjXGOXYT8Wlewl8etxgkhCiVpUQR4rd+l+0hd5nLgJSlbgYhpZg2//fvSbqolmgYSmz6BeZGxBOp5D10mQe9VqX0RUVzRrzODuP8KAWdCqOjKMzR5jC+uWoruOKv2crhrv2UwSbqTnghdBqiPcKwThMpRXlmpPwXiGO4wM/+5tCCeZouA2AtlZZvmaeCPo5zbM69KAc+g7lCsLZj64EmPWeaTFkUOt1xLbp6Wc4rq+v0RTilMt7frWVFAX//RGTZDzA6S8nlwbm+KyWg715FfUcB6HX2mufhPf9y8YN1EI1yDxulR3BvJ3lHWgdmdtgLNBUl3OSlDIFzA6vg==;zClAl/wwy3f4lpD5wnR9NQ=="
 ---

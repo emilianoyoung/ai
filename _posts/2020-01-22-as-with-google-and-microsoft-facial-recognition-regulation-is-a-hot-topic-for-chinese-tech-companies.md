@@ -213,6 +213,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all
         width: 2215
         height: 1353
+  - title: "Facial recognition reveals AI's darker sides"
+    excerpt: "The emergence of artificial intelligence technology in everyday life can be unsettling, says WEF AI expert Kay Firth-Butterfield in an interview with DW. That is why regulation is urgently needed."
+    publishedDateTime: 2020-01-23T09:00:00Z
+    sourceUrl: https://www.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+    ampUrl: https://amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/facial-recognition-reveals-ais-darker-sides/av-52116841
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 74
+    images:
+      - url: https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg
+        width: 512
+        height: 288
   - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
     excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
     publishedDateTime: 2020-01-20T12:00:00Z

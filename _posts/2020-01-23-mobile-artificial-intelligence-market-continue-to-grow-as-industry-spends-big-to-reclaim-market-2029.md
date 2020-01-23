@@ -40,6 +40,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Natural Language Processing Market- What Are The Main Factors That Contributing Towards Industry Growth?"
+    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2025, growing at a CAGR of 16.25% from 2017 to 2025. Natural language processing (NLP) is a field of computer science,"
+    publishedDateTime: 2020-01-23T08:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "ZnXBYXpBLJa8kDlJHUoWAL+Kr8oxCJnCHTugEiDk0swiXwAvKnP6JtrtIZc9+Z0qcgbx0YceT5bSfzRxF61IU4+CawYl47aeNnxVRPDtzKhqp6T0sCXnFzdbTUlNar6n5eDk+IMyXp1DOAUsOrpCSG353C3rBv+1v/pL+wC1yW/w8+d6hJMlPNg4ZF5xKtL5clbeLsGA9eiZpq+o09KfEeSKjWNSCSNxg1kYlxoXBF1oZOmltHtD2FgG2uT5V3w1LhrPqXYYdiD3ukrNJoG8hy0HnappOeorJQDRpt9thtigcpMLVxKDE8ZP4W1+bHYf;R5nIANy0WdxCTvES4PAKxQ=="
 ---
