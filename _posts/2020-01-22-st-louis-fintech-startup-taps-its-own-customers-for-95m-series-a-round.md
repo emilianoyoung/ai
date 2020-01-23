@@ -25,6 +25,6 @@ images:
     height: 400
     title: "St. Louis fintech startup taps its own customers for $9.5M Series A round"
 
-secured: "Bz8MaxrMmmooEqazC6uCi/7PO2pR2zR7HNaPRAO0Bbun3nzNK///A7lAjlCbdVtYDavijR0is4b4CKsgtKZtmcAVga4gke/MjWh4SeMXGNQs2gVlmY7fGCY24ibpjMlwmuW4YHUovu5Vn1T9NZwSHEaH45u3/vSVQp6Hpa6l5cDK+VMA+XC9O0AnYidsQYVFMwYG2b59A8Hk6XO3xy+y/0I7Y6BElONIaRuBHZO+pcwiyDQghYWJGMeintSUJaRP2d5xKVYNXz5Gd0yApFYPk6mPgE1i0L7p8pAjVUuSa5s=;y8hz9wF3jxT+tt/1m6NF2g=="
+secured: "57Fhh4sOFYZugvvFB2ksMG7ZskdnT7fIQIwnPcrINLISYsL0sJK4vVhSJS/oWGDut6I4fu6eVhB7zHEF2UFBTzf/GuOhSqX4puYarNGWaMCGqlW0XRuRi/dlBx9qXJujCE82vM3lL1nMBTkeNqfzY84aGuH1jtthjBK3Ctf+e/nTfxe6EbGQsc871DVxE1kDkTmQYm132UZwMNyu2NVm04lFRE0QdjY4DG7lBVkyk33CDe8OKSucjLengJ+V27q+HLhrNhdfintV5DTdl8+z87uM5dDJJcoowLxjfdytc7MXN0KsHl7x496FgVglnvAfInxqtpIX86faVDGEWLWK8OZQbkCAkZZsZxTx3ZqSMj6i+FfoR4/PK15PUxD6o9OyuIANoaLR96l4cltAGYfVozazoGOvlsPaRaSJUzTcTUotXoNKtU+6R5BZ6+fwt9ng2bDvxOJuayA39MqYMVvQ6Q==;MDWCBuN1JCql9oe22MhxCg=="
 ---
 

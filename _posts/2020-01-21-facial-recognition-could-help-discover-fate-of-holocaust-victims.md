@@ -1,21 +1,19 @@
 ---
 category: news
-title: "Facial recognition could help discover fate of Holocaust victims"
-excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
-publishedDateTime: 2020-01-21T11:39:00Z
-sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
+title: "Facial Recognition Could Help Discover Fate of Holocaust Victims"
+excerpt: "Brothers Eli and Saul Lieberman show a photograph of their late father Joseph (top), a survivor of the Nazi death camp Auschwitz, taken several years after the Holocaust, during an interview with Reuters in Jerusalem January 13,"
+publishedDateTime: 2020-01-21T11:50:00Z
+sourceUrl: https://www.usnews.com/news/world/articles/2020-01-21/facial-recognition-could-help-discover-fate-of-holocaust-victims
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/usnews.com-50x50.jpg
       width: 50
       height: 50
 
@@ -23,25 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC
-    width: 818
-    height: 545
-    title: "Facial recognition could help discover fate of Holocaust victims"
-
-related:
-  - title: "Why your palm could be safer than fingerprints or facial recognition"
-    excerpt: "Maybe you’ve worried about your facial data being held by various tech companies or hesitated about pressing your finger on a dirty scanner at border checks. Touchless palm verification is one piece of tech that might be able to address these problems. Palm recognition systems work by identifying vein patterns and lines and creases on the ..."
-    publishedDateTime: 2020-01-16T05:27:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3046298/why-your-palm-could-be-safer-fingerprints-or-facial-recognition
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 39
-
-secured: "EvCsTWw6gZ6tQDFpZhCtV7YM5RXB11PTHNackn/g1D/A2z9ose4SUYuzWoJgymwI+EOmuuxGe1kLJVAtmMXriVE7MSDUfw9UGoFD9EYNKBvLkDfiLMQltIxlLQY3A2p/Q7hjVBKX6PPOMkrRs1Cz7VIIzRSIAhHeYaBoXSphiAjfRu4HkBMqcSpbgBtij2j+qcdi4ojCSkuBwS6RUAXdIO/hDzbXajzR9hnSEa81TrgbkGCaetJ0hLuPq9xTbJOFIfFP5ZlwU5oULUQXGR1tAeUtBHoBabr0HrTJsTQOFsaEr8RDxS5iGKLZSc+/ltm1M3N5eFU3I57TBBJwIlkDAP8rExx6a21L8qhNLaDgsprJes6zOHX2jtJahYMGPndgLIVVkG/nUSnNUYkPGPitpgf7wZDSh255kzCpR98xE2DHW3HJ7NR1c0QW7DB1oaXYfrXeLpFNomuYmn7JMQAvAw==;4EqVNP+2AM7zmZuOuK7N3g=="
+secured: "s6ixIx4f42ECuDLwDY+FA4jiUx6AoEGKvfAKz3mMySLpf4fqiBB1WviZfTBHazq/V6nWKK+LAbjz2UxkFDXxkaNDGLIL5UtfzIruLU2u/mmhzFIcYGp+3bVtAh4p5XCvwMXMG+OGv4M1xRqNnyOZy28Nt6yBNtcPGFWy7xRS97z0Dt9r4DCATfWvxfgRXSTcJLLxC1ZscvsIonxiTyE6/Zs3XOPsCG/X1J7R8SltWqK4Q9EHxEbaAnFa/I2/Au2x+gl/15uY2sMGINUvX7rzTLtycZt/lr5GWrHgd/C7xOJGMmf5caYO7NFyi7c6qz21r4fUkoStILLx10zBDw4WEA+nHhjULV348ODPXvcZnb80v/yLbR3impbozgADqASFYy51Hv6Hq1nyAmhNy/z3cAbLqtnkHNE5HXa9mpUeWwTWpq43+33Oti5xt1Zz6UhIcTxQjGvx5NA956ta3IiQBw==;gB1GtVoMkllMebhONh2asg=="
 ---
 

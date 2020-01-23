@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "A Look Inside Augmented Analytics And Its Business Value In 2020"
 
 related:
+  - title: "Varicent acquires Symon.AI to provide enhanced analytics to business users and data scientists"
+    excerpt: "He will continue with his teaching and research alongside his duties at Varicent. “In my work across myriad brands and businesses, the Symon.AI technology stood out and compelled me to become involved with Varicent,” said Dr. Joel Shapiro, Chief Analytics Officer for Varicent. “With this technology Varicent now has the opportunity to ..."
+    publishedDateTime: 2020-01-23T00:36:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/23/varicent-symon-ai/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 27
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
   - title: "SalesChoice Announces IBM Business Partner Relationship With IBM Watson Analytics for Relationship Analytic Integration"
     excerpt: "TORONTO, Ontario, Canada– As the leader in AI Predictive Sales and Marketing Cloud Solutions, SalesChoice Inc. is pleased to announce SalesChoice is an official IBM Business Partner and has integrated IBM Watson Analytics into SalesChoice’s AI Insight Application and SalesForce App Exchange Offerings to enable Relationship Analytics to ..."
     publishedDateTime: 2020-01-22T17:38:00Z

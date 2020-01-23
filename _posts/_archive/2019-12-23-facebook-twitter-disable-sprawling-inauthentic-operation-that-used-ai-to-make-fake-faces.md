@@ -25,6 +25,6 @@ images:
     height: 533
     title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
 
-secured: "FwBTpbfRmOQ/ZDEmNBBGE52WpXwb+ZB1QDBBx9JJh17VejpuXXyW4dII0fBd5A8eOUHWfDJtxLWmbbLdRqHxQPQCF6QVorfzs0lySQm1+RD3NJc7eJAC111agFT0VJD5zbyQ2/bvDqW233LT9Jn2YT3tcdFM6cFnMWAWLOsyhvgnpDfP5iu8+55K0aXBpE48zW3F+dlm2JAKmaSdFz0bawBOXSaRVifo25j8wECs99XthiEHGxybewCZU1kKOOkIcps3JdGxNxGkHx7+tzMqF9fYkCnT2mmfgvtsXFuIe1Y=;ysWHS4PnFtmkyqsSnB2Jvw=="
+secured: "q/RqCyKOxu2+ljj41ue4yRf+Cp6oD6f305PR8qUAFe4yMI8u59y94NIREkdKKOKV7MpWqb61zm7cUbXQsTB++XXKU++hoEvoV3iP3sqH3b1gd990RbXPUuHheMfU2BN6+yt8lT55vd6JYUhcc92zTQ+V1ifD7CBCsOSD3sRngT7jDD/+tYo6vJtKWMvYgP1YjUJS9lRJ0I0cwhnR+lsOnZ/a0grPqvMaMDRJ1fFyh4hshq+IYIwn01Q7kVcwyD2L1RKPxH49VIgFaQeruLmOM8ePM6MWbfUgzhfS7cTvtX4=;kHYYpZyecHHZzsWIlKmR1g=="
 ---
 

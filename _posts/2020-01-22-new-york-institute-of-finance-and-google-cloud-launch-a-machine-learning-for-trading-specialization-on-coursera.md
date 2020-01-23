@@ -7,8 +7,8 @@ sourceUrl: https://www.benzinga.com/pressreleases/20/01/p15164967/new-york-insti
 ampUrl: https://amp.benzinga.com/amp/content/15164967
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15164967
 type: article
-quality: 4
-heat: 4
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - Machine Learning
 
 secured: "ijDmOSJqW0IFCQNI0YIe+oeQg5SiPDCiqOn9IJex+a2szyH1zzDWtOmM4Af6hXan8P/7UXRMzh9ebhN8xLi9nhmdauiBdMoUrw4xjYzTE07uAhSMRuYmR3XiNJy6mH8iyRuxc0UkfvrpLDLFBP64iiqReHjxzgiF5+/U+6OCoSC5mhMiX+s/LBxGNVTPbvspav7L2cqVXrF5ErAclje0dSAAuhGEBg3YaJM5oq2RRfTxBBzGj45vuyRrQxQS/bRHNAVfmqt/u5Ef5LYS/WceSXEGc2mQTkK7/NYXGo5sxMY=;GvEKISeOUsknaXMWLb9G+A=="
 ---

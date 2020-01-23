@@ -60,6 +60,21 @@ related:
       - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
         width: 1200
         height: 908
+  - title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
+    excerpt: "Twitter said Clearview AI, whose app is spreading in law enforcement, was violating its policies. Lawmakers also expressed privacy concerns. A mysterious company that has licensed its powerful facial recognition technology to hundreds of law enforcement agencies is facing attacks from Capitol Hill and from at least one Silicon Valley giant."
+    publishedDateTime: 2020-01-23T00:04:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.html
+    ampUrl: https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 103
+    images:
+      - url: https://static01.nyt.com/images/2020/01/22/business/22clearview/22clearview-facebookJumbo.jpg
+        width: 1050
+        height: 549
   - title: "Congress moves toward facial recognition regulation"
     excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
     publishedDateTime: 2020-01-15T19:27:00Z
@@ -585,6 +600,19 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
+  - title: "Google Chief Calls For Suspension Of Facial Recognition Technology"
+    excerpt: "The head of Google is reportedly calling for a temporary block on the use of facial recognition technology until government officials weigh in with new rules. “Facial recognition is fraught with risks,” Alphabet and Google CEO Sundar Pichai said at a conference in Brussels, according to Reuters. “I think it is important that dominant ..."
+    publishedDateTime: 2020-01-22T20:25:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/345961/google-chief-calls-for-suspension-of-facial-recogn.html
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2017/08/11/sundarpichai-2-600_737Q7ee.jpg
+        width: 600
+        height: 375
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z
