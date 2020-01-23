@@ -23,6 +23,6 @@ images:
     height: 627
     title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
 
-secured: "nzpr/u4fLYJ9EIirurWZHTYYwS25eVHEuyd9AGWRk6ys4lVj5f3yxuEe1TDEBh3OutSjAfHIELZl+vbCAt8UAPVuxhxqLVMHpspbr6uQ3VyKRJOiIBCLnKtwzO28WxAo8hDmfLi96V7sa3FqqF3Xo4reqZFxp6nWImn+CSAFkTAldnIPcQQx4qTafSNpbYsoVK4t/wBvI6Wq3a4JdeeqjGa2OKXWlLcRNPKfiVBjCJ/q4RF8Fn3fPnekSQoca0CdhnUfsmhh/tVBST2OUhA+vDSiHK79abHuCsugy/GuU9HqvhR81vTel6z8Z90J1Xnh;EiM9XXpBr1xXgm4tDFXnyw=="
+secured: "Y+jE6L66wVJ4LCglL4UduMOKEniDO+wBRaSoN6xYawf6ZoUElRsjmcRTgqXca0KKC+5RlDuIVcEPnJjw4dvbryS4tEkEpgmmKIElmkVUcjSNLaw2EUgARCD9zEohfy0WblERVYTkHB69VPHrRQsQMVvIyJmd2AGQn3o87hhenF2n5VsXTPZKYlZQvNl0awSEjlsNc7jFU1GPxdAV5v82FdFwkQb/vUYnOob00EyetpmNgdD+k+xzdkv79ewobB9nSEp0NR4fXsSftx3TGrgwllKJva1tWjVp64wUZX6FKDHRD1BNV11kU80aRK3wPhOA;L2XGV8eC/ZlEl1RTECZD6w=="
 ---
 

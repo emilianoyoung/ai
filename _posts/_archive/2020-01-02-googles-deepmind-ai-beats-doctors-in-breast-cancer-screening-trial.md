@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
 
 related:
-  - title: "Google's DeepMind AI outperforms doctors in identifying breast cancer from X-ray images"
-    excerpt: "Google's DeepMind medical artificial intelligence system can outperform doctors in successfully identifying breast cancer from X-ray images."
-    publishedDateTime: 2020-01-03T14:37:00Z
-    sourceUrl: https://www.businessinsider.com/google-deepmind-outperforms-doctors-identifying-breast-cancer-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: https://image.businessinsider.com/5d443a63100a241ee0264d93?width=1200&format=jpeg
-        width: 1100
-        height: 550
   - title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
     excerpt: "Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human radiologist, according to a new paper published in Nature on Wednesday."
     publishedDateTime: 2020-01-02T10:51:00Z
@@ -55,6 +42,6 @@ related:
       domain: businessinsider.in
     quality: 41
 
-secured: "qYbBhOv/c7XllpKaSeBd8+WTZW8qwfehMtABfp28Xbq/WJmiC5SXAolXABjkDdMlSJMop++sQGk8++HV6YLmr7I2O2hQ/E8DFd/gi4sXEZZ0MxpPOSe3iHrNERi0u+w2bjzFKrL7qaWzwEqzrE+KSSKrBbaTv68KPlFZZzkFfNBWAPmYxuVF8b/cdTs3Nxsg9G3/A5Ql9uzK0dJiksk5/5Kzj1YfrIo+EkKuiZoR8ZXWzQ4S+jwzhE/Ko6wNRFpXyCQ3+2WX0bApI7z4gkBotd7PyFpT8Nn6p+v7fVIxP5QmpWIf2ou8iQ6gv+VHxI60;OszC2IZjmmWy5oqLPuQNDQ=="
+secured: "4otM4wfV6cTQEPeiTBxWgGNz6qkKDnFCbjZVQt2pUQLR3Q3I55r2AkxlfH6UEDpB/YcwlCg9mElQfVxkksF9fXJScA/DGKbQtyELVwsQ8XCCjVb5iJ8cltSMUjdx6viBeIMbExasj7VE6SAH2Nn/FtDGrwCPgVDUxlXUi7Fnd9aKATSWBTFGQlI2LkGu9vluQf696N09EGIZK3RTXrHy8WppUEqsF3rul15Go4I/utWwm8ktM6hLalt+MrGgu4IYzB2dDW4wwN5WTYclCVJGeZKTW9uyawM8wuWW8PGfBa/lndnuH+UuOxl2PGLtziEi;ESr5rTyaGWFBVewY216qvw=="
 ---
 

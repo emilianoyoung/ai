@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Blue Prism Expands IBM Partnership to Deliver Broader Intelligent Automation Capabilities"
-excerpt: "LONDON and AUSTIN, Texas, Jan. 22, 2020 /PRNewswire/ -- Blue Prism (aim:PRSM), a global leader in Robotic Process Automation (RPA), announces an expanded technical partnership with IBM. The collaboration integrates three core capabilities of IBM Cloud Pak for Automation,"
+excerpt: "/PRNewswire/ -- Blue Prism (AIM: PRSM), a global leader in Robotic Process Automation (RPA), announces an expanded technical partnership with IBM."
 publishedDateTime: 2020-01-22T12:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/blue-prism-expands-ibm-partnership-to-deliver-broader-intelligent-automation-capabilities-2020-01-22
+sourceUrl: https://www.prnewswire.com/news-releases/blue-prism-expands-ibm-partnership-to-deliver-broader-intelligent-automation-capabilities-300988421.html
 type: article
-quality: 45
-heat: 45
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
+  - url: https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook
+    width: 1166
+    height: 610
     title: "Blue Prism Expands IBM Partnership to Deliver Broader Intelligent Automation Capabilities"
 
-secured: "/mhKeKNL9P19FRJalnrJF/VXfXPII5y+2uOczdv+VEtYzDjeVSxzOTf8w0T0Zg0ZqPoeVKFUZHM0q6v0YfkQ8hongAMI1MCAedlenb527kt6u0bzVClIlqFsq3XCS8QhLnt6cEW4FKWuXZ8P1OrR+SYrweqMmbqgvdXQOCs8MSRwOtf/hdQccjyJfBFxl56Up+PymnLQVJHtnAgSO1YW+vOz5f9G30zpitkgDg5b82n7s6VwiD47dq7x6C6PwA1m1qee40lRejIAbU70QrUJl0ih+EhN2huOc70qbBo2b8C0TEFZ93KFjbwPzGT1kNaD;2KvyTARQ8dTsxbeqrpxnYA=="
+secured: "fTk95j2ZM+HWWJYGpP2ojn7yGzBIPgfzQ4Q9Gx1+kqfKdivBqPuYX2Cs96e+sk5k86cGDyEPauKi8Y/Dk+Sax12DHp3N482BwgTkhHocvmrahLS6hM7QAC9UpoVNT9qIqODL1W/22mddimg6i3FXgmzVXj7rGF6TOP7LEwxnU528AQQf9AdTjZ1MsiKB/hC9wihIDMP+AR0mFeeNAEmPa31NrnCve5/dFgrAazeF/C6BXi459XL0W1IWs+ZLcXEIv6UtIRo9WFT9zb5kDE9Yb2+vzjGDYnjgYWoKB6ZUUxKnfp5+2SuAAtB7PA2kFZKf;QLkybyNeUnpF9B5zCOR4Hg=="
 ---
 

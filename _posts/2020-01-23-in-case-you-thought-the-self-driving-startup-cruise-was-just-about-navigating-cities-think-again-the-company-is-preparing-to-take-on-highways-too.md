@@ -386,6 +386,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
         width: 1440
         height: 960
+  - title: "Uber is bringing its testing of self-driving vehicles to D.C. streets"
+    excerpt: "Uber will start scanning and mapping District roads Friday in preparation for testing self-driving cars here later this year, the company said Thursday. The ride-hailing company is moving to expand testing on public roads following the conclusion, in November, of a federal investigation into problems with Uber’s technology and management that ..."
+    publishedDateTime: 2020-01-23T18:14:00Z
+    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html
+    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 44
+    images:
+      - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
+        width: 1440
+        height: 960
   - title: "Cruise Origin Self-Driving Pod Has No Steering Wheel, No Pedals, and No Driver"
     excerpt: "This is Cruise's Origin autonomous robotaxi, a fleet of which soon will go into production. As in, be real things. Executives of the self-driving company announced the final product and plans to about 900 enthusiastic employees in San Francisco this week. Cruise is a collaboration with General Motors, which bought the startup in 2016 ..."
     publishedDateTime: 2020-01-22T17:23:00Z
@@ -578,6 +593,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "8tIkJrME9YEQDKV+Wc3WEFhx9gHPVPK7pqND2GY/CPLQnMbQjvrHLHRqD4vw7ZOhFIhzdrM+huS85ck0Z4qCREcg+uOk7RHM1tD8gvelTH0RlmM7D+Dbes/7IQp5M6Z8iJ2oxc+U+FdrNbMegWD8VxzMpLrYt7EYviKenD+IRwxxuFszbKhD0H1Qs6Ol+VAgTZfEgZIdnJ1k2rucWniMqBNJ2trDDlBIp6D6qJy0LQp8pbMI03UuYNEvzmJVK+uXwC8DBysL7wybTauVChZNiyuMc+sbvYBej1pHlFdso6mdb+Sm7VPFp7Rck5qQKW1i;Spr+I9ctDNHejRh8akJmug=="
+secured: "UhfYjNEwS8N6gGHKAF3A5YHUVxRJKBxKOGU2YbDouuIbqsJ0hccieJyR3edktwWObvwlUrrIcUAswwpacUGCLJ5WOrwyCIsHcAfhmjDxY3tcLIgkBu2rJ9Ro+tvr81/c+lFW9iBHdRkJEQdjGbEyTs9ZGPLOHgyA6ZhCWRb8JJlXGjknFwrDa5eNFWBG/SiLXRKw3ze+T92wah5ZzbScwvZmTp3BnvhCwz8s9igl6/pH5ywtJJMdREalJXpCq4AGgWK0sasFI/AV7ighXQtTlU1VaDihVc1xBQcLBiP42iCLsjkihA/0Ww1qkLu3YEojoffvPIXPcx8pCd7vlfYFKH4blzF8m+1Ri3Fn8J7RSet+I4dX5ckH5F3lxwrlDZ/Afqe42rlyUQsBS+spqYu4ROjLzc2TCUFF3wLI+jDlMe5YSDFFSefKcVQdUBsImkfqmIE/q4BRAPaN4Il0V3CzApL8ma9LGUK7G1MC/8UgIB4=;FogZh/6TkidvITqnNgh9nA=="
 ---
 

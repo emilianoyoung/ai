@@ -26,83 +26,43 @@ images:
     title: "HCL Technologies unveils a dedicated Microsoft Business Unit"
 
 related:
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced the launch of a dedicated HCL Microsoft Business Unit focused on Microsoft technologies. This will extend Microsoft’s offerings of Business Applications,"
-    publishedDateTime: 2020-01-21T12:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/hcl-technologies-launches-a-dedicated-microsoft-business-unit-2020-01-21
+  - title: "Microsoft unveils new Azure Service, Genesys Engage"
+    excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Microsoft has ..."
+    publishedDateTime: 2020-01-23T17:52:00Z
+    sourceUrl: https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Neowin
+      domain: neowin.net
+    quality: 84
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "HCL launches dedicated Microsoft business unit"
-    excerpt: "The decision will extend Microsoft’s offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10."
-    publishedDateTime: 2020-01-21T16:30:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK.html
-    ampUrl: https://m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/hcl-launches-dedicated-microsoft-business-unit/story-L5PKlrRC4HGuV3mjGiI4wK_amp.html
+      - url: https://cdn.neow.in/news/images/uploaded/2020/01/1579801417_ms-nadella-satyagenesys-ceo-bates-tony-0019-edit-1-1024x803_story.jpg
+        width: 760
+        height: 595
+  - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
+    excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
+    publishedDateTime: 2020-01-23T15:21:00Z
+    sourceUrl: https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-  - title: "HCL launches dedicated Microsoft business unit in Noida"
-    excerpt: "The decision will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10, the company said in a statement. \"Increasingly, customers are making bold ..."
-    publishedDateTime: 2020-01-23T05:36:00Z
-    sourceUrl: https://www.siliconindia.com/news/business/HCL-launches-dedicated-Microsoft-business-unit-in-Noida-nid-211952-cid-3.html
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
+      name: Microsoft
+      domain: microsoft.com
+    quality: 50
     images:
-      - url: https://www.siliconindia.com/news/newsimages/MfYXru58.jpg
-        width: 570
-        height: 367
-  - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
-    excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
-    publishedDateTime: 2020-01-21T23:54:00Z
-    sourceUrl: https://www.prnewswire.com/in/news-releases/powerobjects-an-hcl-technologies-company-announces-the-launch-of-a-dedicated-microsoft-business-unit-885804646.html
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/01/12-Body-Barry1-1024x461.jpg
+        width: 1024
+        height: 461
+  - title: "Microsoft Announces New Commitment to Renewable Energy—Greenpeace Response"
+    excerpt: "Until today, Microsoft has largely relied on renewable energy credits to offset its use of dirty energy throughout its operations, including the massive data centers that power its Azure cloud. Microsoft’s commitment ... help fossil fuel companies drill more oil and gas with machine-learning and other AI technologies. Teaming up with Exxon ..."
+    publishedDateTime: 2020-01-16T20:14:00Z
+    sourceUrl: https://www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response
+    ampUrl: https://www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response?amp
+    cdnAmpUrl: https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response?amp
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: https://mma.prnewswire.com/media/467009/Power_Objects_Logo.jpg?p=facebook
-        width: 1920
-        height: 1005
-  - title: "HCL launches dedicated Microsoft business unit"
-    excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
-    publishedDateTime: 2020-01-22T05:12:00Z
-    sourceUrl: https://www.newkerala.com/news/2020/10673.htm
-    type: article
-    provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 19
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
-    publishedDateTime: 2020-01-22T04:43:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 19
-  - title: "HCL Technologies launches dedicated Microsoft business unit"
-    excerpt: "Noida , Jan 22 : HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the Microsoft platform for customer ..."
-    publishedDateTime: 2020-01-22T23:06:00Z
-    sourceUrl: https://www.newkerala.com/news/2020/10960.htm
-    type: article
-    provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 19
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 37
 
 secured: "+oBwKDYbtDTWrElttu/XR29Ynt1cLFVkVrymDbjUkilq1QmbJxkUoAFi6N+OlejohO42cldKz8uXKINDdYaqAwy8sHrUDgupUlAi3oL0jwMR2tqEQ2sIis80FulKtgJJiufVLuz+rfDGx/pjjsIxR+adKfYymjhxQjMDl7HN0SHGKKrsVJIX902G/pjDJoTGpqrRVGu8/oenPHhTl5bzKYTN2CyLr3Rzp/AXTsLqw+3F3wkGedk9oIiyBegvWZ3H1FG56i0nt3NFWvGj1wrzaj7qewtssebFy27IZMGL6qFg8R5H0pOadhMStym8D2WUUVVxYJ35dWODMn5UIr7y9TEq+30XhhkyGXnDObsB10Naua8SUAPnDaiWskYY2CWCUkD+LCiLLEep67Ud411Qlr0lbgqnQ0qtPNTMX2S34k+STJkvdrvRwmA4sOKEimfEk+RHyM143LMgrf4Tutsi+g==;kRcMYFSKOsSxGEPhhorelQ=="
 ---

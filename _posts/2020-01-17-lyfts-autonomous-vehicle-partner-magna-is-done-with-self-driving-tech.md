@@ -60,6 +60,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/VI9-cNAjtYJbIEyrIJJ5Q-7Q--0=/2020/01/23/b8af5a80-d4eb-4a64-8711-62295d5c8fc9/ogi-waymo.jpg
         width: 1200
         height: 630
+  - title: "Today's Pickup: Waymo To Run Self-Driving Trucks In Texas, New Mexico"
+    excerpt: "Good day, Waymo, the self-driving vehicle unit of Google parent Alphabet Inc (NASDAQ: GOOGL), announced this morning that it is beginning testing of self-driving trucks on"
+    publishedDateTime: 2020-01-23T16:42:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15173711/todays-pickup-waymo-to-run-self-driving-trucks-in-texas-new-mexico
+    ampUrl: https://amp.benzinga.com/amp/content/15173711
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15173711
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg
+        width: 1920
+        height: 1280
   - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
     excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
     publishedDateTime: 2020-01-22T10:46:00Z

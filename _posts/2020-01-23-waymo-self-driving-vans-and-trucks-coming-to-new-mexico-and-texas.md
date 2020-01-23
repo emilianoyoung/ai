@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-n
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
         width: 600
         height: 350
+  - title: "Today's Pickup: Waymo To Run Self-Driving Trucks In Texas, New Mexico"
+    excerpt: "Good day, Waymo, the self-driving vehicle unit of Google parent Alphabet Inc (NASDAQ: GOOGL), announced this morning that it is beginning testing of self-driving trucks on"
+    publishedDateTime: 2020-01-23T16:42:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15173711/todays-pickup-waymo-to-run-self-driving-trucks-in-texas-new-mexico
+    ampUrl: https://amp.benzinga.com/amp/content/15173711
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15173711
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg
+        width: 1920
+        height: 1280
   - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
     excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
     publishedDateTime: 2020-01-22T10:46:00Z

@@ -60,6 +60,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
         width: 600
         height: 350
+  - title: "Today's Pickup: Waymo To Run Self-Driving Trucks In Texas, New Mexico"
+    excerpt: "Good day, Waymo, the self-driving vehicle unit of Google parent Alphabet Inc (NASDAQ: GOOGL), announced this morning that it is beginning testing of self-driving trucks on"
+    publishedDateTime: 2020-01-23T16:42:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15173711/todays-pickup-waymo-to-run-self-driving-trucks-in-texas-new-mexico
+    ampUrl: https://amp.benzinga.com/amp/content/15173711
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15173711
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg
+        width: 1920
+        height: 1280
   - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
     excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
     publishedDateTime: 2020-01-22T10:46:00Z
@@ -85,6 +100,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "6GHM9Ij1gGrlcpR/SepWhT0fwfzUzLEE8qt7KsR/bVGNJDlX4brHuwt2HCs9fBpHyYHpdeY07kOlKp+q9coaHHEe6HsbSkk5Wo5ctVWqR3IAIIKmRK1YUk7iLrr9l6/GMgwfLFQaaNqxVBQkpAaAqIh9g4/5mJlnrP2/B1+0mWNnukQ6geXCSYiXwC1AmycPu/ZfghKGOceKN5tw3M64ok2ZsaAoqXUn5NnOAWme2ez6ov6Q0G7y9KvP94G4xDELY7VReEIsZobW5GvIegLnJLW1s7z09U/14cG3R+VXIs8LJ/BZQa81if97sMHaZKjqoRr2mVH7GFaO37A7NuYSYWXW4MWQKjiZNKouzqqmNyc9eJhY+LfjbRhaZl9OUfSZpv0p60gSFBHLORNsmuYEuQWIn/IxEXub5yCjg0MMaO1HLBUijkB5C1YlVwTUM3VgYwLabk/LWe0SgYJcPnutOEb6mUuaxa59J/OkFi3M8Gc=;RPaHMUayDvgdPh8uDxO/mw=="
+secured: "xAGnhcQSLi3NP+Zq8A0/sq9wdLGE4GUfM6bC246SQNESrkR8EzuLifRNxh2ZPpE/c28f9RsXXJZLWgeoZ7ma7j5+MPMt9ccO6Ni9nUNO7Or7oXzidAhVPtk56kJ+gsqUfuXeFPku15uIOPxDc9C+giqGczgFnkbHcN+Fgy8IFg5fRKvB9ysc1Sh9iQo/MPurR/MAH4sjt6I6mjrBqwUVISctOpP1AYF/o3Hp3/UPZv32n9wVRtOaTR8Ypj+xR6kfc6ypxDH6k6t5DH87bZca8ArjHyxk1p0w6d86nDxi5hJcIhqwW//ajl11o46GHS7k6JLM+59xpYTUV7qjnPCbMXXXU9pP4/JcG81eLkirkW2ZY8kkxImcArfNgzknyUdYM9eX+xrKlESGycFDjnXkzKrPDXRohLYmcCOp9nleUN2c82kgDgNS8j3KIuasSsKYfDaAY5oMxlQZSgNPJIqlCvVu1r/VH1PXQRbxSsRIZgw=;8lEglQ5k06RV4UeK1vO4OA=="
 ---
 

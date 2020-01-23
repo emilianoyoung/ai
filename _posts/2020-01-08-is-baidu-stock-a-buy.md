@@ -8,8 +8,8 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Motley Fool
@@ -28,23 +28,6 @@ images:
     width: 700
     height: 466
     title: "Is Baidu Stock a Buy?"
-
-related:
-  - title: "Why Baidu Is a Better AI Stock Than Google"
-    excerpt: "It assigned Baidu to the development of self-driving cars, Alibaba to smart cities, Tencent to digital healthcare, and iFlyTek to voice recognition. Baidu also launched a state-backed engineering laboratory for deep learning technologies like computer vision, machine hearing, biometric identification, and human-computer interactions."
-    publishedDateTime: 2020-01-03T17:45:00Z
-    sourceUrl: https://www.fool.com/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx
-    ampUrl: https://www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552239%2Fgettyimages-664246660.jpg&w=700&op=resize
-        width: 700
-        height: 525
 
 secured: "pqFAKlsh9JhlULEgS5Y5mhbeUJWmONXHf5ygg9uSnJysGqT8NjlyCfG7neZLRNtMtTxdS8Z4BA9LEWfZQyE2IeB6t+Vp4G1QDsp6XlWTTv+gdqOR7r90gne/bPZLxXZ681PJOfa4ub8+eDlm9tmba56mNQginQsBy8S3ZGDtxt5tfEC6zYKlNWzdboG8kWUmfRXrAKiMO1t8VHmFuJqIdVEYSpbuH6yL9ZdY+h8WTb6qFe+OYhXTx8Jnx+j0wv5Tyb4kt5az8l8gUmQcTQeRMNB7uPEsGF2zjkdFNJzyAqAQCAI68kVVplKNIEqU59cxGYh9RcpIGuash2MN9xzlCudxccCJcBxhVMD+eUxMJDhQ0zDMhA8mT17/dJpC8yvrlmF9RmltOxqE8maWQ63+pA2VB+cg7iy88bAohRIThsaUjGqKRD+tHb6pCcAPsdMznjpb0Hh3niJ0c1lAFJSnsQ==;HcJ2Msn/xGOoyET8kffF7w=="
 ---

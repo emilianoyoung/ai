@@ -29,6 +29,6 @@ images:
     height: 633
     title: "Vision Through Touch: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work"
 
-secured: "/kyXa5z3gCwOYSZEW4DAGFo+qciZd2Tq/hrs6PU/C6hKf/JTH63evR8k8UzGNzxrclHjE66zr3HDHs/P8oB9wmUWtyT52aXlemEdLkdwo3YwDq++DSFbqSwc3yJ/P7nMWb9Olm/XyDufEAYKtzGQKY5Ejoc1SU27fc4/SPpgbBJ5qX/pd4uzjXLvPl3tRvhRkmY0Lq3u7WXvktLQ0dvqDM6cX3drlo4nJL5o77q9pjf+tANHPJqLf/ISH1wQYsEk4CCG9TG1+nXlYpbO5KzZ225uihbvx74VpycOwSRFiBk6+g5iMBa3doDXbBIfh4sw;RHkcX4EPNJEJPp7m/v9EsA=="
+secured: "FPtwnuMEntosNCDcVw4Gw8Ao1jb4OGFyBvmmLwB+4B9cB08EhR+2kApc2iGqLXqTc7jsUUR/gpx0gkqW6t8TsqNZbKpVfnxbONpIVuk/xSIIQ3TCWo0v+htbBQlheLYAc8y9HDFmbsVhLvibO31veq+yrAcbJUVyctAWlegN6w9J9/XfytAD3ugIK+u1wWuLi0m1cLommBp/nx/Z4b5/4Wd7abl1vSBHDcRYYvrw2L/IvkCZBF+1yKIaRMaLwK0TSAWJgQsgF0GMhH6O3KmIdGlmAPbjuLKZi0RwQ6Oyw8xULRZ5XKkvlmCLUiSUGPB1BEpcEgpMIiCIPS2+M9+T7e6FKk3mHb7TiM4v01aMc8AwEfg4YEhl7YgrALNsltJIgsZ/5utaYW91wfovx5cM8Xdhtx+qxgGo/uvjUzopsjHeuGAB6TTZAIYLiNCLphx3NCVDfJn8Hz4Rjl9M6NM3z9gc+b1MDSDDEjd94cz19xw=;rls1oM/wVE3kdNR0K52wjQ=="
 ---
 

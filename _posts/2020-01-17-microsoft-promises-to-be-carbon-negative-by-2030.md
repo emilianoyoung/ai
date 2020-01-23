@@ -23,19 +23,6 @@ images:
     height: 630
     title: "Microsoft promises to be carbon negative by 2030"
 
-related:
-  - title: "Microsoft Announces New Commitment to Renewable Energy—Greenpeace Response"
-    excerpt: "Until today, Microsoft has largely relied on renewable energy credits to offset its use of dirty energy throughout its operations, including the massive data centers that power its Azure cloud. Microsoft’s commitment ... help fossil fuel companies drill more oil and gas with machine-learning and other AI technologies. Teaming up with Exxon ..."
-    publishedDateTime: 2020-01-16T20:14:00Z
-    sourceUrl: https://www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response
-    ampUrl: https://www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response?amp
-    cdnAmpUrl: https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/01/16/microsoft-announces-new-commitment-renewable-energy-greenpeace-response?amp
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 37
-
 secured: "9t7XhWKBFs8z7rvdFz+m18eI9rCNBb0DKLdqwJETmlReqbJTbFHS30lqBn5pyVsfpztrJqrNtlpaqqGeJEpccabMWtnBIy8l4ZmuEMFVSHnMaLWRMFnE/r5sq3AJheUTqJPOvPE3glEE+GiG0++17Dq1yCpncXx4I1i5yWI/3YOmaSZ5O/pvg13CVwmjpoEbOxE8NInBZ16yEsS+mlI33GhkP7Z9uGsTnvMv7yJbP2N07rFzUbYACeZu++QEkLDJi68V4UC1Z+Lm/pWe6unWuHZx4NNKZl76hHb5RLKAVN4i8wfY9EJmfHYVjhBosh5rVAPalu+Er4p3rj/vRjZoKFeNEHZF5eBG3qOp/OgHfaVkX/ATF2HGXvAOD+osEzHecrW2S5yK8GVL8sGvlW1Jz1X6lKHD1jfSE3v+yjeiRtW8wmSQNizMxb+lV3w7Ds7rDLLU+4qIUEbv0py8kXLOqQ==;mhq5/Rbl1SXg8U1/6V5rtA=="
 ---
 
