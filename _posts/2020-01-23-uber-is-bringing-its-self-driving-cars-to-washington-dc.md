@@ -120,6 +120,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 470
+  - title: "Uber begins mapping Washington D.C. for self-driving vehicles"
+    excerpt: "Following hot on the heels of rival Waymo, Uber announced that it’s bringing self-driving cars to a new city: Washington D.C. In Medium post today, Uber’s Advanced Technologies Group (ATG) — the skunkworks group responsible for autonomous vehicles research — said that it will deploy a fleet of three cars in the nation’s capital ..."
+    publishedDateTime: 2020-01-23T21:31:00Z
+    sourceUrl: https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/
+    ampUrl: https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "Uber prepares to test its self-driving cars in Washington, DC"
     excerpt: "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC."
     publishedDateTime: 2020-01-23T18:49:00Z
@@ -513,6 +528,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "axqieWry6Yvkdqc/km3/0WYj01A8n2KRcc6J+Kdy1PuRza7HYe0Gs3lS//58OIbhxZ8DFbUEU5Z0Vr0WmeNZdyc6xy/mXXcaMPTZ/Eesng2BFW5KA0C/B1RC0rHaFozvHEHdtDMCO5YN4pIid2DSZCXfmkkBxkogpuGLSVYlD5D9m6xGskK0+61A+aENPxhMMyLctXzEs6e2IZ9yxECbyIQVXhKfBo81HN1Yw0ba/RVoG9UYFeZAGEsTm/n3tYiveEmf1xCdsl23wE2uqkltcCvgaJHEobgGeA/hV+LfFTOzLubb8ZTBTUuy0ZUwILln;XsvVWkiJPC3zXh55xF380A=="
+secured: "+XbTFeOlVvTJCiW0qL5uARPqcRbO3OCe7Wlu+qOk/1SMx1FLcdWDvM7hYn1jvvG2IARr85vQJJkN3f2GzzShwE8GvetgyKLARz1J6PrPcmo3XEySUVBoMLrZh/Y1Jldycr7kBwPkRSv3SQAOFH51mgcqt4FM+j1hGbwDMv4ZkCL7QENGqqVYpRIl4+JA7KW7pjo28gKoR/9/IFubj/KXZXj17DAp3QPmngfK5VPAhSS7Aw2sTIVZSidqTG2VpDO9ADSu7m05hMT7WuJBB3d9kGDDTRyALs2cilCe2i1PRQeyZDy4Cwke52srdbkI6HRqehnsSQgO84JYkk0l1imlBgoAFIx3LJugfmVuaTQPFytATCKpdD+/cDeD1OyZDhMFjYHJEN4ivipIeCXD3rJjXKweqvhncIoCM26HBn6cqE37D+hcoCLV0rC04Or53HPVkWVj8mJi1ZMw8Yp3ZDyPc+CxaPV6AkQ+jSKNbok5qSI=;S+Kynx2xIFGaiVBs9MvBXg=="
 ---
 

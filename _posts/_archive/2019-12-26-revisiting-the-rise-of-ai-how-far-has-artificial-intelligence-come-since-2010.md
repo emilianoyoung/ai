@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?"
-excerpt: "To most people, few things say “A.I. is here” quite like seeing an artificial intelligence defeat two champion Jeopardy ... Google officially unveiled its autonomous car program, now called Waymo. Over the decade that followed, dozens of other ..."
+excerpt: "To most people, few things say “A.I. is here” quite like seeing an artificial intelligence defeat two champion Jeopardy ... In 2010, Google officially unveiled its autonomous car program, now called Waymo. Over the decade that followed, dozens of other companies (including tech heavy hitters like Apple) have started to develop their ..."
 publishedDateTime: 2019-12-26T10:00:00Z
 sourceUrl: https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/
 ampUrl: https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp
@@ -29,6 +29,6 @@ images:
     height: 628
     title: "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?"
 
-secured: "deQqCztNDklUUn5DeP6vFmvzlFf3KXCraXQ74hge3HAw48q26q8oSJsbKH5pcfKG9DLFe/WjfC4kxDANJ5kD8XhIBGCxHkPmqcCk8LeqZqJBCtMlLcdLjSjXd4tzzYaJGlHB/QL8Kny3nOkRsKKOxCwNJoE+QJ1IHV25R3GRdyQ9HaLaEMAlGbnRpNKgNBWRjCoT5cAjtbuf12GBPijEiLsjUtfCo1ww6WHciMYrqKfvGULXTWBgZb5odE6Y//h+ejfEPps2JjwAELOuxNuJLkU2jbH2zEF4MvdPQZsBpbM=;mUxm1grWureUf+iM2ZGkCg=="
+secured: "9K5WIKeCie311SF2iYyG7Dgv/QxzWOvl1e8BXnXMnHcgI8YUyQaMbjlSia0pSBUJ3zanciAqwzwloVLVI1B1PcGomFg2m1G1jT66VGfY+Dt7JBMYddf7uuPYQ+BD3o1OUxtNfzRlO+LTkdWhEcmQIeNaBgjaUqIf2w8hXTdbXxWFg9ZbweSWuoT/Z5HQPCA2NLfsIPnv/wNW3IOguqjMnp3HxHN9BW0masl9QjUgdAilVIy+evLj1J86BfKlxpgbe155DnSRZB8jx6zlGzbem6u9+3z/EMLHsCnAa3uQSuL93GaP/ZnjK20ya8mnBNHm;A9LauLz5onSDiqRN8ZdEJw=="
 ---
 

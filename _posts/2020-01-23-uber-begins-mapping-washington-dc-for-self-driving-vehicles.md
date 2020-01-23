@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Uber is bringing its testing of self-driving vehicles to D.C. streets"
-excerpt: "Uber will start scanning and mapping District roads Friday in preparation for testing self-driving cars here later this year, the company said Thursday. The ride-hailing company is moving to expand testing on public roads following the conclusion, in November, of a federal investigation into problems with Uber’s technology and management that ..."
-publishedDateTime: 2020-01-23T18:14:00Z
-sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html
-ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp
-cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp
+title: "Uber begins mapping Washington D.C. for self-driving vehicles"
+excerpt: "Following hot on the heels of rival Waymo, Uber announced that it’s bringing self-driving cars to a new city: Washington D.C. In Medium post today, Uber’s Advanced Technologies Group (ATG) — the skunkworks group responsible for autonomous vehicles research — said that it will deploy a fleet of three cars in the nation’s capital ..."
+publishedDateTime: 2020-01-23T21:31:00Z
+sourceUrl: https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/
+ampUrl: https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/
 type: article
-quality: 44
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
-    width: 1440
-    height: 960
-    title: "Uber is bringing its testing of self-driving vehicles to D.C. streets"
+  - url: https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all
+    width: 1200
+    height: 600
+    title: "Uber begins mapping Washington D.C. for self-driving vehicles"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -116,21 +120,6 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 470
-  - title: "Uber begins mapping Washington D.C. for self-driving vehicles"
-    excerpt: "Following hot on the heels of rival Waymo, Uber announced that it’s bringing self-driving cars to a new city: Washington D.C. In Medium post today, Uber’s Advanced Technologies Group (ATG) — the skunkworks group responsible for autonomous vehicles research — said that it will deploy a fleet of three cars in the nation’s capital ..."
-    publishedDateTime: 2020-01-23T21:31:00Z
-    sourceUrl: https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/
-    ampUrl: https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
   - title: "Uber is bringing its self-driving cars to Washington, DC"
     excerpt: "Uber’s self-driving cars will soon be jockeying for space on the streets of Washington, DC, with the ride-hailing company announcing it will begin collecting data to support the development of its fleet of autonomous vehicles. The vehicles will not be operating in autonomous mode, though. They will instead be operated by human drivers to ..."
     publishedDateTime: 2020-01-23T19:43:00Z
@@ -399,6 +388,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
         width: 1440
         height: 960
+  - title: "Uber is bringing its testing of self-driving vehicles to D.C. streets"
+    excerpt: "Uber will start scanning and mapping District roads Friday in preparation for testing self-driving cars here later this year, the company said Thursday. The ride-hailing company is moving to expand testing on public roads following the conclusion, in November, of a federal investigation into problems with Uber’s technology and management that ..."
+    publishedDateTime: 2020-01-23T18:14:00Z
+    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html
+    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/uber-is-bringing-its-self-driving-vehicle-testing-to-dc-streets/2020/01/23/bb97b226-3e04-11ea-b90d-5652806c3b3a_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 44
+    images:
+      - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
+        width: 1440
+        height: 960
   - title: "Designing better nursing care with robots"
     excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
     publishedDateTime: 2020-01-15T23:10:00Z
@@ -524,6 +528,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "Iigm8r66Eq1/HjI1jdbQBBS/5NFh30hi1LLlomexs+cpElU51pdmPF9rmhAsgECq+DqYzLLeYKLXpWJHqTA0X3iOshyV4t+WVIwbyruMe0ldEBAK/UP/VziGXVP/yVBL5+7gFgbBWR2TyKQmJOiWdHhRx3GxXbCGktukD+mfM6vSBmxXUW2cnWOVXfEQEq+yibFtQ+LdvwlZ88WIcvlWoJNQPik7+QhSli+sEjcZMzOklqLonF0+1SSQ9Na5r8kpY30i/1IoMKqrJl6+JFV7BPjGq/mp9n9YE00jCLrDjT8kc2Zcw8t+NjdAVamfyVZ6e6Fd8ejxSIIO5/rO1BQHDQvjF+TfEcSFPU++jYqYlwM7rNxw3110eu4uiPtI+p8tIZohV+O0f0pnJEdkcgEcciNkEVTxLShhWVw0WdjZqlhdALv2IVx0xvm4D4yoit/Tm8G1LBFOGHSf8XsVoA8+Z6GaZshmyIRQ2uGXWHTLH04=;VAS4QhwVOQ2Dk0SjOsXifg=="
+secured: "xtVMVbyD4VpEV1p9ch2mISeYCTOalDx4y25LSb/K8svQHm7iXJVkTnZhdQ0bTagK/uscFlFNvk3y0Y1+34dK9JuSCkIUS+jFq/lA8FcaHoqygmiz59xk/Hy7bnPEOAXYqQ4kVsJ+CssFkYvr0RiYJSsKzVbNHCIY2iNtM0qd6wg8/7v1sS2c0U5uThEHMkWaiG8YRz72+XIzGXiTMYo73nbP2mlne9Q7OIQ8ATQ8wptYcdGhMV4BzTn5R173wjT1i8Ww4QpDbqZjHOfDLh+cRhNDxdH6tSR+Y772cejqsTC3KNc9nUGrAWccT5O5n7OD;bMGRWuZtONxYwz87H0RceA=="
 ---
 

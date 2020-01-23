@@ -110,6 +110,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000
         width: 1000
         height: 470
+  - title: "Uber begins mapping Washington D.C. for self-driving vehicles"
+    excerpt: "Following hot on the heels of rival Waymo, Uber announced that it’s bringing self-driving cars to a new city: Washington D.C. In Medium post today, Uber’s Advanced Technologies Group (ATG) — the skunkworks group responsible for autonomous vehicles research — said that it will deploy a fleet of three cars in the nation’s capital ..."
+    publishedDateTime: 2020-01-23T21:31:00Z
+    sourceUrl: https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/
+    ampUrl: https://venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/uber-begins-mapping-washington-d-c-for-self-driving-vehicles/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "Uber is bringing its self-driving cars to Washington, DC"
     excerpt: "Uber’s self-driving cars will soon be jockeying for space on the streets of Washington, DC, with the ride-hailing company announcing it will begin collecting data to support the development of its fleet of autonomous vehicles. The vehicles will not be operating in autonomous mode, though. They will instead be operated by human drivers to ..."
     publishedDateTime: 2020-01-23T19:43:00Z

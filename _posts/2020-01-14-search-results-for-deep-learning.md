@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Search results for deep learning"
-excerpt: "Boulder, Colo., USA: Rare metallic elements found in clumps on the deep-ocean floor mysteriously remain uncovered despite the shifting sands and sediment many leagues under the sea. Scientists now ..."
+excerpt: "Like a long-distance food delivery app with no apparent highway, fungi that associate with shallow-rooted shrubs in the tundra are accessing deep stores of nitrogen being released by thawing permafrost. The findings by Northern ..."
 publishedDateTime: 2020-01-14T23:17:00Z
-sourceUrl: https://phys.org/search/?search=deep+learning+
+sourceUrl: https://phys.org/search/?search=deep learning
 type: article
 quality: 19
 heat: -1
@@ -32,6 +32,6 @@ related:
         width: 417
         height: 417
 
-secured: "q2l80x973RtVvMStHh5RprRBAECAXFicbb+VBGiSl89/zy8xdGVJjTDru5CAOO9QceEeCVpZdDQfG61uvvg25/oQZB8hCijpD3q9/EAPNHJ8ANgFQ+GE1I0dXDAY8jek5rI5WkCRUEX6i8HKW9ZOEDC4XiNi9gUN1VxW38D0udYmRhs/PMDCnSn7jp8O7cmxfzbzferOiWk0BVYNweAlCO/npJ0kuQFVIta+qW1ujUsAYo3Qfg/fKjhBiyuEq+thKQxpH9B0ZisK4WJQNEbQ25xv/t3GSvqeydncbj42+EY=;3UeAdsCevw8bjwNM2uoaIQ=="
+secured: "O1uMASguCt8w3aOe5mqw2z6Zk82oARUYhAp9Z9cQ+353tCMRhHHn+1VdbVphIHDcxg82N8pIO4QPsI35y3dm5qGxzykXoVNcGWAwKcIfIK7mGnMu+AXZ4MdqtzW9KmLPd/PlBuIu+LtkDE+rvgHrJpfRiIYOI/N09S7Mrm2nebsbBXNnyeAeyAGODAxK2jPtVbs0HCyRsY6zhIR4NMHg3VaVQps5jlI/yhdUy7tVvy0zqkFpgxkXo6Nke61TCu1PcpLtmjoltzWxq32/CYoVkAY2/xTd2/1z32Ao5dyCCCIjVEwv+3oCkBV9f3hbWssr;/MSZpNHGm4T2CQr+EfQCIg=="
 ---
 

@@ -2,8 +2,8 @@
 category: news
 title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
 excerpt: "/PRNewswire/ -- Fractal (https://fractal.ai), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 100"
-publishedDateTime: 2020-01-13T12:24:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/fractal-named-certified-retail-competency-partner-by-amazon-web-services-aws-300985633.html
+publishedDateTime: 2020-01-13T23:33:00Z
+sourceUrl: https://www.prnewswire.com/in/news-releases/fractal-named-certified-retail-competency-partner-by-amazon-web-services-aws--867019761.html
 type: article
 quality: 65
 heat: 65
@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Fractal Named Certified Retail Competency Partner by Amazon Web Services (AWS)"
 
-secured: "FOi20jsmgRX7Eaakyk9k2SAGhYu7WcCStk5QdP4AV82DDwkU1JS2/acpzQljsI/f/1Ze7Hh8swxZUO1HIpPMavIGW+wD0dCEeyGebL55TlWBhtaj8ROEkAKrbBDGfKIjoM+H4moFjAlcSXLsRtJM5diIovk5HksbQgpXziZCBA3MyXPKRSlHCwe0VzS3q+HxkSs7bnwiwMvRaw26glO1UusjXRiZhyjj7Oqt8p9LrFPJlPu5JZzJG1DRseX6nJbx8cZxMXdfiyISKs45yBB2WLXWQWTcy3XfeQmO4mz1Qtr5trac2qL5qgTRkVgl62dB;1a4vyENM1N5rH6ONXXFNJQ=="
+secured: "dScMKhJ2i4g4MHddYQciC88bgTSrR+vSTD1ORASzJ+UcWlCTrYNksy2BRFSOLwfXep8COq4V1B7fM0GgY1v1YwxyHCt9kj9kVprCJiiGEBzfNXVxW2Ps6bcutB0LVoYRqv2TOPVLXCvoVBlpSL/KuqwKqjw7FJhPAV8AbjYaEP22zxb6FIQ/7AN6AZ9uRqkXpg1ROwwtgWpNxoWt/Jsu6L57wNpb4DrDqOx4/afgjbtd5EWA0W4y8yc6g+8P0yY91Vf+DAZSbjI66bk0bsaaeMqoKEDBzHGDo6gGHP3iC4iXMz+vWTnpVI5O06rHBEd3;XISbdpMkmn5Ct4FILb3zFQ=="
 ---
 

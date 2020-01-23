@@ -67,6 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
+    publishedDateTime: 2020-01-23T21:48:00Z
+    sourceUrl: https://www.businessinsider.com/chatbot-market-stats-trends
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
 secured: "FRrSYFXHFctVTy92aMQUO+Sz4Uv+EuBACXHHi/70beNteBHMMvh2KMQo41rCx9wcA8X20HZdmlhhHsE5klHKZaiQIOjfGGilSKh2WkWwTiXYnade1n5RoSl/CxStqW4k5GcJG22NdWSkHy1t7Xa91MEyIRJSUEd/+6dR1oSDaguQOt4iqgpV3vwOLzPaEk3Pgjitn11IPyn/OF8jKA26geg/YVT3MXkb8MVA4OMBCm031wb5bN5ae12BTPQ8yUtycq0zKCbvQ9PBdtS7ZNALHQNYsbeyWTV3AMKvWi1oWK7UMEcZZwq67dcVZwm+ATCM;YC+ceKky9b3wDKhLm5fhjA=="
 ---

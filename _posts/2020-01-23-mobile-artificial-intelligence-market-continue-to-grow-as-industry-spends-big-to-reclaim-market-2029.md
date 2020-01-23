@@ -53,6 +53,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
+    publishedDateTime: 2020-01-23T21:48:00Z
+    sourceUrl: https://www.businessinsider.com/chatbot-market-stats-trends
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
     excerpt: "Avail a detailed research offering a comprehensive analysis of the developments, growth outlook, driving factors, and key players of the Automatic Content Recognition market in the latest research report added by Big Market Research."
     publishedDateTime: 2020-01-23T14:08:00Z

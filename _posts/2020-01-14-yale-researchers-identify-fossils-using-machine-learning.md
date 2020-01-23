@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "Search results for deep learning"
-    excerpt: "Boulder, Colo., USA: Rare metallic elements found in clumps on the deep-ocean floor mysteriously remain uncovered despite the shifting sands and sediment many leagues under the sea. Scientists now ..."
+    excerpt: "Like a long-distance food delivery app with no apparent highway, fungi that associate with shallow-rooted shrubs in the tundra are accessing deep stores of nitrogen being released by thawing permafrost. The findings by Northern ..."
     publishedDateTime: 2020-01-14T23:17:00Z
-    sourceUrl: https://phys.org/search/?search=deep+learning+
+    sourceUrl: https://phys.org/search/?search=deep learning
     type: article
     provider:
       name: Phys.org
