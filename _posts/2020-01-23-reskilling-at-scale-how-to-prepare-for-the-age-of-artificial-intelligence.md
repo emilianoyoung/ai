@@ -23,6 +23,6 @@ images:
     height: 629
     title: "Reskilling At Scale: How To Prepare For The Age Of Artificial Intelligence?"
 
-secured: "ou2mAsnmRxAUTttaqNx2C/W2vo3KmDdtO5EMw4zuho7ig0aPnZ7/nimg983y37f9DI2EtDwccaeW+/nf62XUjFzq7/oAGARVACgbE2UM2WaDBQfiUbYWyDXPg0HQiPjxd+EZwf2Sta4We3wrJud34v7E8oVyYnLKV+fjphyAlDfglqWlB2w9P7+3wzgWpPs6Fy/W2pgT6b7AKaFX6tsF1Dt7z8zaavimc/wpZ6imi06np03MPJiaGu9/wO/QojK44RnJbFAtomsh9rI3yMn+f1jZcOSqZpehD7ZJVta0oe+BBXPZardN/8ZlE7sYMosN;iwOqzBH5nNizgrWUCI0Xzg=="
+secured: "2L6Ym6nNyrGp4ZsGEgbmb/Ra/8vHmP04M6yzNij3dIwDqcFjxHdMnL0g8jS+MCkVZgBr6mhjdyub4KBzlM/HSmDkTjsYAAoacE+oJ8O+z9jHuO1NmGBKaNtnPFR2hsoAfQItf+4cgXXJzI6Jj1ku9+jtLfMajeRddzH0pG9LKRe3rR/G4k5/hEXrPsfgnWhhwcamCnWC/VUltEKx/1swc94JBhboX0Rax05x5LdAOrw+BvpZ/p8V7v1SgF6+twOu4JNZZmPPstKa8DI5/mUn++tpyw34B5O7wLjk7HOVI1PiS+NWGX9uWmQBtqvm55iXc6ZeqY8jE7ms6IOhuqtlQOEVHkCKyrVWq9Hv/9p5MazQE7OM4xLCrt7kBT2uyXJJkAR3Lm2nMTpOK2QR9dQAOlk3RIChjIu1CclEgSZ/7VXJsCnz10QV/laRNiMcMjDKJ85j6c8tPU+5FS4BZdQorq6bjf/FxegAKiVMikAOB0Q=;4uTURZVtrNlT1f+SXnXJkw=="
 ---
 

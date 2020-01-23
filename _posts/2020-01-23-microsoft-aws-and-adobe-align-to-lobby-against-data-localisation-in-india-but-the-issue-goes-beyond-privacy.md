@@ -25,6 +25,6 @@ images:
     height: 275
     title: "Microsoft, AWS and Adobe align to lobby against data localisation in India — but the issue goes beyond privacy"
 
-secured: "rtPhTmNwCJkADFsihcoej5NC09wy4sf84sJKIBgqVK+4FNkNfBq3UR7kK2042JjhBBU1/U9FB/FXDOmLwSJL+hrcSiEMyLuOwhn/vAZwRWEiFBB0PVa0ue5S81m5Z00wLgbvAIg/NM3m8d7u+4ETOqjnO0MFwefzFwyHCgqPP+ZXpmz8DJTG1518n8joxO95niNVxgMfVc+ElAZ5P6Q4pZ/Jv2K+P0Gt6lo00QJpeX3AHnNJI2dcuHge6r0edjL4+uUDYw8Wtl24nfVZpYagobs2/6NSD+iaXX+fvIOg8cuBIn4tmZPigIfMHkoJZBLm;XCtaFVBlbnhajo/1q6agHg=="
+secured: "4Chn1tZygpba7CzfYdTFc4myE6OFwg5jnqolAqO2Wq4dN5tpcoC9dHepIFmc42AKBI1AooOPWloKyuy+hxddSbfTHrMel9qKCiCnJJ3Crh+q7WfyHexMw0aA1iE0crixobuIv5lBZ8zVnyGLog0HcBLofEZYmWYe9WbNrRHQq145QpKZnfjiPc1bjuoSsEIQlLsto02z6eZLza6lO7805dGzWA98w258u6Ia5BehwJ2OHUPo8mIC5ck2NNPLOpq8tz3strxNeQSC0wLUYmydhALMHZAALm0/ku1a2LcNfg39NsJZLHkeG2GoruPf4V1xrRc1CMk0Xt6caemoaFWxHmolnh5R5eQ4Ve3tBptWbSzcHXlblPDTry5THkLg01p3V6rA+0vOqV3bbBqcwtSDrWp1+dfDW01VfyG4jX+i4ThP3ItPtazdr+Cs8E/lSe4/G64jboilOO7M2BxTXzY9ag5Bl0La+PrdGNHWglsyGwg=;09+21PCDvzitLIwFbfNxrw=="
 ---
 

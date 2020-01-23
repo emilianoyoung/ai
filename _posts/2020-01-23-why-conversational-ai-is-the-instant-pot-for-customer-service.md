@@ -28,6 +28,6 @@ images:
     height: 533
     title: "Why Conversational AI Is The Instant Pot For Customer Service"
 
-secured: "aXEC46ytSi9oZxi1O++tKYCZeuqWvwWcxgrtEBk4vzxYvjrGFp4tjhE6ZX+joQbeHqzxLSuUXx7u8zmPcZtfHk5ZAtNGyh8fOfWqMgJ/X2knsjhYFksMXgvxyHCLesRi2GxaA+oPlk9SXAkV3rfB3l48DEPAFRWCCh4XjseM9hIMTSxlPUNpkzBAddPB6lxx15QrEr+BjOVmY4noHzxfM8ZJefQIMR+/2JyVr9mFYJDvC5GiTMwPZzg2hO/v7qwx443G9EOKFqvKe6vr4nR9+FhHnt6k9sg/ZvqdGmKX9Ykn7jqoOAjMFfsqL3YYW3s7;IvR5Y+FKpZENg89B8Hr8uQ=="
+secured: "6RFCB3kPuaKs6MnKjKlRYnCjaUyBlQg/jEgoYR5+nh16qzKzpggk798/BtOllMO2UZ95/fMdQL+CXXCuDnqyoe4/apb5ZJDQJCmeI0E7uFhqe9mp6oQZIwsCgA+tINsEeASfzwhHm3y7WI8jUbji6w/35WYNfURownWYwh74xtlrbyM/YJMYiZKJhBj7utbevEYlK/4BQ3EcRdliJg86qpucAga9rtyFb/4oIRMd4uxSlNKSYo23Es5PCjrS5zrQ0joVtXCDJ5qPVxd/3bsqc3qcjxmK/sGURFSmdzqX4ptZHFU8R6Yw/X5kq3/MefYr6x+3ABJFLP3+RQUa3p4IcWBH11/lacx0jeoKIj/rYPAxXQfaZ2Ji1uCY7Zhn0roLwiO2xvC9xBaGdQqk6nj5b2ySAFByyBJ2pvgicXzS2XEdLJnpSZIIv/S9Yu1YjFrwMP9hY8yNNBFjX97DCwltfHkcWSDjXJmMoo3mBub2jUI=;lr6+HzrpMWMbNPg6tmPf/A=="
 ---
 

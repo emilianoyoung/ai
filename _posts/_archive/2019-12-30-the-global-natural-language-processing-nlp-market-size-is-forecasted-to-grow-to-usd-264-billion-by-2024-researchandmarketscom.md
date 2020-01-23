@@ -5,8 +5,8 @@ excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market by C
 publishedDateTime: 2019-12-30T14:27:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191230005197/en/Global-Natural-Language-Processing-NLP-Market-Size
 type: article
-quality: 0
-heat: 0
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "ZU45HFSU1Ljldf7IrV9F+Dk0bNsMaGhci1jLVbroM4IQVTQ+IXWnHjthgLbW5YfEUkhExv1eNEU80UQKgdachhJnR7w2lugA0pkVq9GgRqPXeRKP2Kjy1NjGr/PDOezfxRZ2N3Tf36/ZR3tB4+N/Fa+tpprQyhGSykdm5774cbpoHSaV5Yn/2TLBNYVzLxIc8PJaD7f0zeXhUU8mlTXS4hs70aGzaI51Blz5+tM+3wedyHTIDt3iKUL4uZ6TX7YuxtW8CCqCTtbAbMY7OpBM6O1joASyaNwpP3FqpWkOi4o=;JttUiyMyL7hL5yPklv2tSg=="
+images:
+  - url: https://mms.businesswire.com/media/20191230005197/en/371054/23/ResearchAndMarkets_800px.jpg
+    width: 1200
+    height: 627
+    title: "The Global Natural Language Processing (NLP) Market Size is Forecasted to Grow to USD 26.4 Billion by 2024 - ResearchAndMarkets.com"
+
+secured: "+HE0K1CeuG2otDpzNLHoBQajXzbyez5ZJGlYwpke3At/L1+vAbGmMdnN8t8Zs4WlMNfrKBld0pPev+1oRy8aLjM0YMAMiFfMd5xadqK2yrj+ED73/va4g0508d1KvCB3VY4BCZF6jqGQ109XZCa7/wqM7mHw08vxSJO4VEYSkdXX29QoA0h8ezy0axYKcVHfurSzvUXoWoYOssT18DQgZPfQo1GrCfsLzblzoZEqQW6opdIy2X0z/ZlStbHZzPYj00yY/XU5QT4xwT/qIRftj2HaKpwAYoFYVgH1Rk0KRRU0y8Yrspj/etuc6yMYQrt4;86AwQ8KYF97ckyFRyilMyg=="
 ---
 
