@@ -645,6 +645,19 @@ related:
       - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
         width: 443
         height: 249
+  - title: "Atlanta Police testing facial recognition technology"
+    excerpt: "ATLANTA — The Atlanta Police Department is one of the few law enforcement agencies in the country using the facial recognition software Clearview AI. Some experts say it's the most powerful facial recognition technology in the world. The company, Clearview, is described as highly secretive. The New York Times first reported the existence of ..."
+    publishedDateTime: 2020-01-23T02:38:00Z
+    sourceUrl: https://www.11alive.com/article/tech/atlanta-police-facial-recognition/85-24f81a29-070e-4692-89df-31000b46c0e7
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 39
+    images:
+      - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
+        width: 1140
+        height: 641
   - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
     excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
     publishedDateTime: 2020-01-20T19:43:00Z

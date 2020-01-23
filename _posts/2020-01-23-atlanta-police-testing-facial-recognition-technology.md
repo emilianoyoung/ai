@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Law enforcement is using a facial recognition app with huge privacy issues"
-excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
-publishedDateTime: 2020-01-18T19:45:00Z
-sourceUrl: https://www.engadget.com/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+title: "Atlanta Police testing facial recognition technology"
+excerpt: "ATLANTA — The Atlanta Police Department is one of the few law enforcement agencies in the country using the facial recognition software Clearview AI. Some experts say it's the most powerful facial recognition technology in the world. The company, Clearview, is described as highly secretive. The New York Times first reported the existence of ..."
+publishedDateTime: 2020-01-23T02:38:00Z
+sourceUrl: https://www.11alive.com/article/tech/atlanta-police-facial-recognition/85-24f81a29-070e-4692-89df-31000b46c0e7
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
-    width: 600
-    height: 350
-    title: "Law enforcement is using a facial recognition app with huge privacy issues"
+  - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
+    width: 1140
+    height: 641
+    title: "Atlanta Police testing facial recognition technology"
 
 related:
   - title: "EU considers banning facial recognition technology in public spaces"
@@ -75,6 +69,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/sundar-pichai.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Law enforcement is using a facial recognition app with huge privacy issues"
+    excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
+    publishedDateTime: 2020-01-18T19:45:00Z
+    sourceUrl: https://www.engadget.com/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+    ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
+        width: 600
+        height: 350
   - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
     excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
     publishedDateTime: 2020-01-18T21:39:00Z
@@ -649,19 +658,6 @@ related:
       - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
         width: 443
         height: 249
-  - title: "Atlanta Police testing facial recognition technology"
-    excerpt: "ATLANTA — The Atlanta Police Department is one of the few law enforcement agencies in the country using the facial recognition software Clearview AI. Some experts say it's the most powerful facial recognition technology in the world. The company, Clearview, is described as highly secretive. The New York Times first reported the existence of ..."
-    publishedDateTime: 2020-01-23T02:38:00Z
-    sourceUrl: https://www.11alive.com/article/tech/atlanta-police-facial-recognition/85-24f81a29-070e-4692-89df-31000b46c0e7
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 39
-    images:
-      - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
-        width: 1140
-        height: 641
   - title: "Alphabet CEO Pichai backs temporary ban on facial-recognition technology"
     excerpt: "The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes. \"I think it is important that governments and regulations tackle it sooner rather than later and gives a framework for it,\" Sundar Pichai ..."
     publishedDateTime: 2020-01-20T19:43:00Z
@@ -835,6 +831,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "PYvY+I50yObMDhdngULG+W0uP6sDAiWbulqsmgJUvxn953+ua9E70gOZh4DfpSzByV3BDpS1ghK5EPZSHwpFTEWTn/xobyDGEk2IZeiGcVTaRqFSxYjQw+Iyc5kNffJh2BLtRUrQ6vf7d/xmrhHL56HXP7HmWBZxlmbSwjc3ZTFgxDM/VOsUScN49lqe7zC+/Tm2SBb5JQNdO4xBLIREsCuNPb0zDZanlurL7G4XF1/s/NJXn/diBW+0PP/GcmjCm00i1ZV2lkHzBXzMi3DyGDx6sZThXHjKBbNJesRJdt8RYTt3k3uxxZqNDRYmqw32it39TQcVe4wz+o/0ZpzMeznJNxb3uYzasCRSNxFvoqHNPJ0HvNByCQdgGhj+IUFNNCaLSkV+MVseLhCThKF7THBDYHr1Vr7Vox6OOQrJYT0c8bjjvhmRoJgd5rVteLq+EdjwaJOuJ6CGHa5sx/VCZw==;UqW6cEKmNR0WPhOyYBD4rw=="
+secured: "kIIMcpbpggDjRbSR75RhJtTybCcpNgzx8hBSK4DcjspGfwpr4Uy4JwiAPAl3VK98kuW7tm8qQzwQJjC8qawDTxFtUwrb6yLMT5A8kZ6DD6g0GPUIRhFGsvqzDmTm/7Oip+PaAZpjP8m3DGBKCtsbjCuNUD9aBIC1SpT3OR3LPqTM+U1vo7F3aabfya5sq8WzaLWlLqBw6hoH4mmm/cqh8gdRManuoQ1XFbNdHeUZSDxXiHv+Pd1CDCtLpx5A5odVKS0feAwMzBh9KjLTwnnY/JXMYK0l3GKpH4l9FBqIJns=;Jjp1tQ+4Xe2UGALxuVLWoQ=="
 ---
 

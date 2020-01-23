@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Phoenix Finance receives Most Innovative Fintech E-Wealth Management Platform award at The Wealth APAC forum"
-excerpt: "/PRNewswire/ -- The Wealth APAC forum – IPWM & IFWM China Awards 2019 were hosted in Shanghai by WEALTH Magazine on December 18, 2019. The forum"
+excerpt: "SHANGHAI, Jan. 21, 2020 /PRNewswire/ -- The Wealth APAC forum – IPWM & IFWM China Awards 2019 were hosted in Shanghai by WEALTH Magazine on December 18, 2019. The forum brought together 100 well-known experts from the Asian Pacific wealth management community and executives from top financial institutions in the region who engaged in in-depth research and discussions on the current status and developments of the Asian Pacific wealth management market."
 publishedDateTime: 2020-01-21T08:45:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/phoenix-finance-receives-most-innovative-fintech-e-wealth-management-platform-award-at-the-wealth-apac-forum-300990141.html
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15151958/phoenix-finance-receives-most-innovative-fintech-e-wealth-management-platform-award-at-the-wealth-
+ampUrl: https://amp.benzinga.com/amp/content/15151958
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15151958
 type: article
 quality: 5
 heat: 5
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Finance
 
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "Phoenix Finance receives Most Innovative Fintech E-Wealth Management Platform award at The Wealth APAC forum"
-
-secured: "+YrL8PDwHxC7bJz7mEwlYmoyJuWp2d+XeovdYY8uUqytVxktlLdyWeC3SSdCzqgL1L3rm2wm4UN1rjvwZ+bY7PJOXP+HxIbqDxEhT0Vcri6qafpdS/LSAuspnE2HRBKks2BDxRMyc4EMcxnHHZ/igRh1zvHyZWTrNCQXBBqPxybHQyZ49l+6EOe4xEvE2rwMiFHSrOL06b5C9RVKXqwejqumA0BO1CucOkkgM3qs+r/hg5uO7+9kzc/KzUOXL2k3MRDYVLx9Yjf9PKM5GQFxpYX6ro4D/f0v1NboflJJ8i8=;bwHiCErcrpMW5+tU8wk++Q=="
+secured: "s84wIRqFnpybTwoe11vHyI9iYYCfuxR/7xtun9IQDXWW4+0RILg8LLuFA2Th3IqZxdsKebVwVAt78uMuxmewmhtK2IPSSsGLnu9TLk5XX/QNX2bNwEbuSQuF4QPpZMKkzwk4h9cOyL8UhfjP+hZ6g0Znp/uE4umT4gFkQP2byWikBjdQXD2NssxSz52RFOL1Rfww67UX/gEPxoNTu0tZGcUak//8O6AZQb4R5yMsu7+0RzLvsNL8xPVD5UWuf+EUmgiR4T2vzT6+4TY8hE0vxLq2rZ2Sal2pWBciPU1OBLM=;cnuD7scCA/Fc258W4uTrjA=="
 ---
 

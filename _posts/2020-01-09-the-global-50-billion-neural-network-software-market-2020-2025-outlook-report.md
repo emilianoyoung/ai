@@ -1,28 +1,41 @@
 ---
 category: news
 title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
-excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/x5wn4g"
-publishedDateTime: 2020-01-09T20:50:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-global-50-billion-neural-network-software-market-2020-/2020/01/09/9079369.htm
+excerpt: "The Neural Network Software Market was valued at USD 8.3 billion in 2019 and is expected to reach USD 50.66 billion by 2025, at a CAGR of 35.2% over the forecast period 2020-2025. The artificial ..."
+publishedDateTime: 2020-01-09T19:45:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+ampUrl: https://markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-50-billion-neural-network-software-market-2020-2025-outlook-report-1028807559
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 64
+heat: 74
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
-    title: "The Global $50+ Billion Neural Network Software Market - 2020-2025 Outlook Report"
+related:
+  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
+    excerpt: "NEW YORK, Jan. 08, 2020 (GLOBE NEWSWIRE) -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted to ..."
+    publishedDateTime: 2020-01-08T13:08:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15093385/global-natural-language-processing-nlp-market-is-set-to-reach-usd-23-0-billion-by-2024-observing-a
+    ampUrl: https://amp.benzinga.com/amp/content/15093385
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15093385
+    type: article
+    provider:
+      name: benzinga.com
+      domain: benzinga.com
+    quality: 1
 
-secured: "uKsXNvR8fNY/vbqzc5krtjNYgisbBHUt4lVedX3DLpuOIK/1b55R8HaAPcPciI3+M1AEBMGdxFw1kbsrI6I7LoTJUO8B7FOF5QbddgzgmGpirIWzmic/ocV05jxnIlsuAhtx8tjmfGdra/vQaB/DsieMGmMSkoKrlW/KBKb/RUvw8UqRqnK7xEVTwfymOiyxZAtlZmj8PA6+H1I4TRPBVCSTXfah5VdLxYEkI6RQu4A0xTCQiGU+1833I85R/AeuSp6kZ12yyJ8FDcdG7ncX+M7nRwBVbKTUy3V6rVClwWs=;FswszY3sXQVTa7HOf6THEQ=="
+secured: "fKbMUDKsU/6mxUzK8sEvCZrpjQmGDHeNcsPsz/88F+i5t4o7F4/iDPDuiNqW6EO/zflCn2jZjI4JeHLb9HXCsKJBGZ8EIsIKmirqqKtMmszgfOYAsCOMsZS3/VLtlRYQ/w2Z6sPtTvUxGTkhgjvnZ1t+CM3ZC+Kzq668miVEAleOUYhhtVDegr/8bq5RasShoD17psFwdErF97ssR9VSzBjob25JYR1ePg1Hrk9FXtKSEqHoBshw4EEdwJim9/0A8cMRIJwvkyy5dKJt2ztmtsEIZOAsAVez6DWDBdgA9yI=;FkDXSVC8soycFbn1C8zT7A=="
 ---
 

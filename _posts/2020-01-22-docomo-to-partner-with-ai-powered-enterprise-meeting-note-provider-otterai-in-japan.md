@@ -29,6 +29,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "DOCOMO Invests in AI-powered Voice Translation Provider Otter.ai"
+    excerpt: "Mirai Translate offers highly precise machine translation between Japanese and English. This is one of DOCOMO's key initiatives in its quest to help people overcome language barriers in everyday communication. DOCOMO plans to start to support the introduction of Otter.ai within Japanese companies during the fiscal year 2020."
+    publishedDateTime: 2020-01-23T02:12:00Z
+    sourceUrl: https://www.thefastmode.com/investments-and-expansions/16280-docomo-invests-in-ai-powered-voice-translation-provider-otter-ai
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 19
 
 secured: "zUVA4vCZsr1qpwxZJNbDwcne/UyoLL7TaSBknkN+T1MZ8ure53OT3Lt+eNSRkY6PHM6QZNjY9ROq1d/Dsq++cDMPk+u8V1vGGsaQELV24nlmU0AR7MoOY8bJ1RblCm7XXjODvEeiRTlrDwbqooTiMO8679OnlWry1q4UjAeCtx267toJN1AoLbjTD6wXBxP4RpJhgHnuFSd9drIf0FHNZfmuzl5G9GsbtFvSTp12DDC5bGW/wSR0srklIteYjGoeMGu3PLzO8aHp/7qtwHiYBZZilaX8U4u7JSaSUUDFs/g=;VKI6j5u4ALIDIBV7yzOhEQ=="
 ---
