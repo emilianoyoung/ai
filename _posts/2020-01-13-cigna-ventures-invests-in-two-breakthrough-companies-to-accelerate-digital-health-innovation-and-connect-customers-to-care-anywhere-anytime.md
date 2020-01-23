@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/cigna-ventures-invests-in-t
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cigna-ventures-invests-in-two-breakthrough-companies-to-accelerate-digital-health-innovation-and-connect-customers-to-care-anywhere-anytime-1028812735
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -22,23 +22,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Venture Capital Accelerating and Shifting to AI and Other Breakthrough Technologies"
-    excerpt: "He is the sole author and writer of nextbigfuture.com, the top online science blog. He is also involved in angel investing and raising funds for breakthrough technology startup companies. He gave the recent keynote presentation at Monte Jade event with a talk entitled the Future for You. He gave an annual update on molecular ..."
-    publishedDateTime: 2020-01-19T13:47:00Z
-    sourceUrl: https://www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html
-    ampUrl: https://www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html?amp
-    cdnAmpUrl: https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/01/venture-capital-accelerating-and-shifting-to-ai-and-other-breakthrough-technologies.html?amp
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 51
-    images:
-      - url: https://www.nextbigfuture.com/wp-content/uploads/2019/12/spacexmoonbase.jpg
-        width: 1280
-        height: 720
 
 secured: "YSMhPrDHozi097LLes3p6NwV/EhhJW2jAhv5uUxVzl0xKpwyqTMQxwHVBdQUHKnuFAx4XlrywIkSqkBkiWG1CcPigKSnd1+1h3IfP54rPQns7LE/e+6GMxpfccnrZrc0o9pzlRSFh121i11HIlVa/u6kzoVLrHA80MDH4OymvP05lb110AWkuUiHpV7cKJ7+ilic4rJYHFDSTBdGfVMCKIVX8YcNKPoXTETLLCN/9a8HDzjRMXjfMut4veJoJU7RABFurUFUezXU7UVR8uNhBxRVo7Zo8Mu0BijQ/IbnxU8=;BHTw43oQ7TgIPPmMke9ctw=="
 ---

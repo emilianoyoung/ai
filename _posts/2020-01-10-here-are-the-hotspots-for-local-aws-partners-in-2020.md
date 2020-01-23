@@ -23,6 +23,6 @@ images:
     height: 500
     title: "Here are the hotspots for local AWS partners in 2020"
 
-secured: "fD+fYNIxs1TldaoTP48EVnzodEfvaEJ9tVq5MV9cDG58ZgQXcwKaQ3uGBtIsV9kEKczZRb+arX/5nmOhuMzrseJPIORdVqpiUwYm1jqwrywlUZ2cta5nYxDN7BL9/vS5e4IV9VMvJh19WmrxlAbe860yvqUvTi3IE3l1f0oVkR9ZlG1Hozuhm6yLWVbljnZJXxyxIATjE6N32vfqhhruoZquxzt4Pv/qr1F5si58GRVGef/tVoi3T8iImRpxOMXyVm/+K3IoC7VUdD25TkXGecXlypfjVN26xk/d49f/TM0=;64UHbSd53fCcQZUmCjcJ4Q=="
+secured: "TxzUtDrvenK4gZcvgrE2zyJbuXOltNY46BJj46syQL/gvGvtUWGTH0dyzZjDEmIYBK3Z7sJQaj/r9k9x1FS6aAzZ0zOVxuhaxAjn3iucJq/QzfKzkByAyNXi4MxIJyJt/CnBvl5rx5L38GHvhWsP+cWOD1eRdaUgQpt2cx8QOLCr6Mt21/2/+MEk79qYgIwyPxsJ1wb675Xe7MR3OhdzOzF0nmg/IUxFNh3zRdVkXJCvW7hSNFBYe6jUnZi085+eU8oc7Z6PQnxiE36nFreVFE93Rv+Fd3dKuoEBnsXf+5+7BWm1s2ZQm07SHLJjGvLeq/7aFYZRf4/ZIV8AdxLZjvwexxDCd0NJgemSgxForxIsw3dCyPYdini8q3el/urVSXk/eCavzJMyfXMvrYzU9HdlN2FFMmuidT4cgZd9c9VUW8Y38WUbhgz0NAU/Vhw0ujLYMEZTIGQ6e/KNCjEWsA==;PrltIHRfZxBLrDitpy7zGA=="
 ---
 

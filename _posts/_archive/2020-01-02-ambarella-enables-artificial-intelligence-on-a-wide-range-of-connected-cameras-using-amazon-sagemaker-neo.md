@@ -43,20 +43,7 @@ related:
       - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
         width: 612
         height: 355
-  - title: "Ambarella Enables AI on Connected Cameras"
-    excerpt: "Ambarella collaborates with AWS on single-click machine learning for edge applications Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on ..."
-    publishedDateTime: 2020-01-03T16:10:00Z
-    sourceUrl: https://www.businessghana.com/site/news/Technology/203582/Ambarella-Enables-AI-on-Connected-Cameras
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 39
-    images:
-      - url: https://www.businessghana.com/site/img/../../cms/img/news/2020-01-03-1346071.jpg
-        width: 800
-        height: 600
 
-secured: "nzjKj+naUY4L6wov0CCu3gnyGzgURRloTu9bRjjoZ0rNFocflfdvUyw5zcce30lLp7dLuvrqwkf+aoCsyW8NLmHeYEYNCYMmqDccw+Tl3C6J3oeSqzVj3TOpwzhRgCBlJlO0YQcxQTD7imXUTGGZsP1mWGV0DAbiMdV2VeG/5vFugZtdyJ6HGwG4TrgGEOhWW4CNpJyqs7bwhEnsuDZY3Pakit0ZnCPRxPZLBPayd+UqMFkqsZ2771j4/TyGRkK6cuHeffS8iXwoJhubZgyh1Ks1dDniCMpvnAqV2JIAgTs=;KtzJjH1AimLZ4ChKU0TPdQ=="
+secured: "YsobjaFGw3r1sNST9tGVu/GGQjr1JapkCdrw21JaCrlVqhKnIx0afDoUVjHTtdSb4F1N3lhr7VA9uwyBkWVRUAywg6p0soyI5qBH57iu2V4uvt96/dosw4aZp7vhafnjbAHVWECVvNnyg5vFQ4pA3MfOy9odyZsZ/+tfXS9cEPTbrrusgQF4uN+6RkzjETT7WbxghHlQXYq+62dX5GQOr6VOmcoA+/i8GA/ph6J9ViqHPUo/CMFN5UbiqrD8Ne5HYjwUqaEGhKCQtc0Xpb28eCerenG5uoRUXuSCclb4vD0=;bnLte+nu1N6XkbkesWmuRQ=="
 ---
 

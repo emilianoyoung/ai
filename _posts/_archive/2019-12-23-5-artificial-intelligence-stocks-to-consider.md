@@ -1,7 +1,7 @@
 ---
 category: news
 title: "5 Artificial Intelligence Stocks to Consider"
-excerpt: "The company’s Waymo unit could be worth as much as ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing ..."
+excerpt: "The company’s Waymo unit could be worth as much as $175 billion ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing Units), which are chips that process large ..."
 publishedDateTime: 2019-12-23T15:02:00Z
 sourceUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/
 ampUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/amp/
@@ -25,6 +25,6 @@ images:
     height: 900
     title: "5 Artificial Intelligence Stocks to Consider"
 
-secured: "UKfXE6LlsQPl7ReE0OGkpDcj+yzwoIMS8wxnN8dg7mhZpKV6YdBqIUsRSit5VGWQ6RAKe5PhVDNII3+wyg1NxtuswdgXRTFNtbfzV1SNaWct3lbWtpSaQyZlLfm7dqUPG6hijbaU1goiQoKBg6QcvWl/nXpGZKBgaaG4XtAP9yBW0hUE67lOGi7RI/4gCKxkMe4nmD12wXt7MnomSq3YcyqU+3kJm3gWG71m0BfVtNUNdCUhRBfFjPvN+CRB+g7INsQ8kZq5GC04ZHX63PBAPSVW3sN8ozvQ8Aw9ncZXEtk=;Ez6FfIHWw2pQULQpegzjQg=="
+secured: "vctMjvdw6ohWTVTqo0r1Z++HGddWjwqKryO7y14aiht5CY//MmyTaZHHTiEPDiqGall+YH6bWExh7gDjFntM8hsoIqZcHR/ZGZofV03k8PLfLOApiad9bP68cSjKUQeP1GBHZz+5Ul71RbrZE3g2lVx/zdmk80XcKRmaCynMhYYx7tYdwqtVDsm7MdAHwI4e6ZbFoGOeC16XLMb+TGUpqsF6t6QoWf3LBb9OXS+T7WZUUc1EWC2GywrQfJGYzi86bkx/jqlVK9rFWKm5p8U342rHkN4HOR1eJY7Sa58Y2QE=;0Ac/eDqt4qEkjOwYlGFxjQ=="
 ---
 

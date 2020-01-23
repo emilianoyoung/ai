@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 1200
     height: 675
     title: "What are Important AI & Machine Learning Trends for 2020?"
+
+related:
+  - title: "Fintech Trends for 2020"
+    excerpt: "Data/Predictive Analytics and AI Technologies: A branch of data science, Predictive/Data Analytics has been going to be critical for fintech companies that rely heavily on data to take decisions. Data / Predictive Analytics use a variety of data mining, computer science and artificial intelligence (AI) techniques - in addition to machine ..."
+    publishedDateTime: 2020-01-23T04:45:00Z
+    sourceUrl: https://www.indiainfoline.com/article/general-editors-choice/fintech-trends-for-2020-120012300296_1.html
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 24
+    images:
+      - url: https://www.indiainfoline.com/include/_mod/site/images/login_banner.jpg
+        width: 540
+        height: 555
 
 secured: "sqce2n6lkapWxIdqMlqwVETD7tdyysiM0HzcTssD3rZJ6aAF67Mx3jf1qwAIAVr51wG2EXPFroncosGV1MhSW0KK4GJ+qq4CHcOf16YDNxTu6Q8GJZJ0frt6k3eAZ2bioJqxERsCAVKxo5WsEe7X+NXAZp6EBGY00aigfRTi5OC3pOFon5yvgBG6vnozwfF2VS1t0k4LrOPmSaBMTw09Sme5N1m+kOllETLXyKTw9UJE5X32jY3v7BLbChVG8H40QNOS8ZJUyPRnA8TOxeVXGQz5HVPhYTee5nt1LMMjRV7zUHai4L/ZCHqyvvhUddWN1zQ+rkgME4qVdQIoJFp2CCpXa3LeTcDq40PvF+2ZCC3wwalXhNyYAgwd94d5UmUaZf2nvVbRQ7It5RzzTgJEuosTMgFODpyaupM0yFWFaGH/UoJV7iJO9+P0yiWKGLiCtDNOtkou10IqBCgdXX1DzQ==;zYPZ992EbTYaOp/vaSuW7A=="
 ---
