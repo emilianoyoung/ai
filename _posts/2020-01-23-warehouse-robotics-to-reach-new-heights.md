@@ -1,31 +1,46 @@
 ---
 category: news
-title: "Warehouse robotics to reach new heights"
-excerpt: "We now have driverless cars that can pick us up and drop us at our destination ... The biggest challenge is the lack of awareness and a clear strategy and the dearth of data needed for main artificial intelligence (AI) and machine learning technology to work at their full potential. Systems that use AI need accurate data, or they could run ..."
-publishedDateTime: 2020-01-23T10:13:00Z
-sourceUrl: https://www.propertycasualty360.com/2020/01/23/warehouse-robotics-to-reach-new-heights/
-ampUrl: https://www.propertycasualty360.com/2020/01/23/warehouse-robotics-to-reach-new-heights/?amp=1
-cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/01/23/warehouse-robotics-to-reach-new-heights/?amp=1
+title: "Warehouse Robotics to Reach New Heights"
+excerpt: "But robotics has emerged as a possible game-changer to warehouse operations in industries ... The biggest challenge is the lack of awareness and a clear strategy and the dearth of data needed for main artificial intelligence (AI) and machine learning technology to work at their full potential. Systems that use AI need accurate data, or they ..."
+publishedDateTime: 2020-01-23T14:12:00Z
+sourceUrl: https://www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/
+ampUrl: https://www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/?amp=1
+cdnAmpUrl: https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2020/01/23/warehouse-robotics-to-reach-new-heights-296-213715/?amp=1
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
-  name: PropertyCasualty360
-  domain: propertycasualty360.com
+  name: GlobeSt.com
+  domain: globest.com
 
 topics:
   - AI
-  - AI in Autos
   - AI in Robotics
+  - AI in Autos
 
 images:
-  - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/01/Warehouse-Robotics-Allied-Market-Research.jpg
+  - url: https://images.globest.com/contrib/content/uploads/sites/296/2020/01/Warehouse-Robotics-Allied-Market-Research.jpg
     width: 620
     height: 372
-    title: "Warehouse robotics to reach new heights"
+    title: "Warehouse Robotics to Reach New Heights"
 
-secured: "uKTV9p1x6hBrJ2LH9L9Ue1cp0FIqUbcBcurVD3MSkd5OXB2GAGOfqyTA19ZvIbI098t3Tcv0DTb7Uwlh7M06eq7z7T7ikzyUhVYUbR3D3Y0z9V+5Yn8e5WR4JJAirNHe0k6jDX2jd0Bo6MLoMWduEslk9UFD+W0+XJfTxOSMjMkV873G5oJh8gUQy2yKvjZ+6V0pdH+1OBWoLOoxEwvuby2Sic2Vg/zVmAKtwsfyTZPn9+yzqGvTg+VP3lwiYOq6wsUEMWb1UZg3pgZifhPvbtZXuwh81+cfLzjVDp4xzXUiqD8IGbfBM5fl4odPEUWaQRgsYeaJK0ikTqFHwPirYywOGENHRQ52o/8noeDbnBIHDnQqi2AFP6cF8AE3Oaq0AJGhDRKMeanIMTXmqca4DFTEPlwRKovBbaYgVXnMfskQXyYyBqgOgrKW1pbEtfWl5PzmSebTwb2WY9J+5R56P5tzfVxlVNkDW0LTh6jaQkA=;8JFXH4S1If+MMUt5ncFKYg=="
+related:
+  - title: "Curtin student teaching robots to read emotions"
+    excerpt: "A ROBOTICS whiz who spent the past year creating an artificial intelligence system capable of reading people’s emotions has presented ... “It was aimed towards emotional therapy, the tool I wanted to develop was a vlogging tool that a therapist could look in the back end and analyse trends,” he said. “In terms of threat detection ..."
+    publishedDateTime: 2020-01-17T04:56:00Z
+    sourceUrl: https://www.communitynews.com.au/cockburn-gazette/news/curtin-student-teaching-robots-to-read-emotions/
+    type: article
+    provider:
+      name: Community News
+      domain: communitynews.com.au
+    quality: 24
+    images:
+      - url: https://s3-ap-southeast-2.amazonaws.com/content.communitynews.com.au/2020/01/17094738/497543-1000x500.jpg
+        width: 1000
+        height: 500
+
+secured: "th8x/myigGMG9TmTzSK8wQUWFW96XQ7HTPvzL+4PnyHDebaLPIh8xxsPYcrg6CCGE8SY6dWpR3Mhn0vVUOY8HYm8pq9jQ7tSvzOgku72zjPrzqkE4HfWpRfof+Ch8oQYcciyNPzUFn9O7MG2p+UZ30RlI70Owh5mJ4MRetKIcjkIvSJKP63uG5NzAbzQqugJIbxL6dDEP99Ho1QH7yfvyeEed0cvgpGC6AuIGAXVYJ2PZfW4/mrQA8mGMTrRc0R1tQAkTioWOT0pUPmYIsyS73p9L7BOeEJVXZti2bnpR1NtdMpEBukRAlNUzbT6Kuz4;VTBT/9GCn0G9bVy2SyJmrg=="
 ---
 

@@ -294,21 +294,6 @@ related:
       - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 675
-  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
-    publishedDateTime: 2020-01-22T21:14:00Z
-    sourceUrl: https://wgntv.com/2020/01/22/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/
-    ampUrl: https://wgntv.com/2020/01/22/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/amp/
-    cdnAmpUrl: https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/01/22/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/amp/
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 44
-    images:
-      - url: https://tribwgntv.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200
-        width: 1200
-        height: 919
   - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
     excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
     publishedDateTime: 2020-01-22T06:49:00Z
@@ -326,17 +311,17 @@ related:
         height: 480
   - title: "GM’s Cruise unveils a self-driving car. Don’t look for it on roads."
     excerpt: "Four years ago, self-driving hype reached a fever pitch. Automakers struck partnerships with technology companies almost every week. Startups raised piles of funding at high valuations. That year, GM plunked down nearly $1 billion to acquire a 40-person startup in San Francisco called Cruise. The startup went on to raise billions more in ..."
-    publishedDateTime: 2020-01-22T14:28:00Z
-    sourceUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
-    ampUrl: https://www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+    publishedDateTime: 2020-01-22T15:47:00Z
+    sourceUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html
+    ampUrl: https://www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
+    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/classified/cars-trucks/sns-nyt-general-motors-cruise-cruise-self-driving-car-20200122-sq2r6jfiu5gznfc6fuyhy47sdi-story.html?outputType=amp
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 44
     images:
-      - url: https://www.chicagotribune.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
+      - url: https://www.orlandosentinel.com/resizer/PB88HHJmKYBwIjwQZKELC1iZKuw=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/MVYXQWQ66NAD7GOTII6RTI63PY.jpg
         width: 1200
         height: 800
   - title: "This self-driving car has no steering wheel or pedals"
@@ -501,6 +486,19 @@ related:
       - url: https://images.axios.com/RuadaS8GdpPrVkbGKAu71OjWW60=/0x391:1920x1471/1920x1080/2020/01/22/1579671552958.jpg
         width: 1920
         height: 1080
+  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
+    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There's no ..."
+    publishedDateTime: 2020-01-22T18:52:00Z
+    sourceUrl: https://www.stltoday.com/news/national/gm-and-honda-unveil-self-driving-car-with-no-steering/article_71c134c6-6d37-5456-8185-fd70939c114a.html
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517
+        width: 600
+        height: 517
   - title: "GM’s Cruise has unveiled a self-driving car with no steering wheel"
     excerpt: "Hmm. And there's the tech hurdle: Cruise will also need to prove the software and sensors inside the Origin can safely navigate the very complex environment of a city, at a time when expectations for self-driving cars have cooled. And it faces stiff competition from the likes of Waymo, which is already testing fully driverless minivans in ..."
     publishedDateTime: 2020-01-22T12:47:00Z

@@ -63,6 +63,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Cybersecurity Market is anticipated to grow at a CAGR of ~22.3% from 2019 to 2030"
+    excerpt: "Market Industry Reports (MIR) has published a new report titled \"Artificial Intelligence in Cybersecurity Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2030.\" According to the report,"
+    publishedDateTime: 2020-01-23T12:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-cybersecurity-market-is-anticipated-to-grow-at-a-cagr-of-223-from-2019-to-2030-2020-01-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Manufacturing Market : Key Facts and Forecast Predictions Presented Until 2025"
     excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
     publishedDateTime: 2020-01-16T12:36:00Z

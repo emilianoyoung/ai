@@ -33,6 +33,19 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/hPio9oXE73b6NhFJiBF2HD-1200-80.jpg
         width: 800
         height: 450
+  - title: "World’s First “Living Machine” Created Using Frog Cells and Artificial Intelligence"
+    excerpt: "“They’re neither a traditional robot nor a known species of animal,\" study co-author Joshua Bongard, a computer scientist and robotics expert at the University of Vermont, said in a statement. “It’s a new class of artifact: a living, programmable ..."
+    publishedDateTime: 2020-01-16T00:32:00Z
+    sourceUrl: https://www.scientificamerican.com/article/worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence/
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 33
+    images:
+      - url: https://static.scientificamerican.com/sciam/cache/file/83D375C9-1D39-4143-BF6130D51C152549.jpg
+        width: 790
+        height: 496
 
 secured: "DyiZ6yHA4gaZu38FJZK6A0ZUujX3brbHYrb5iWzU/g/pQ+CTQ28vvn2brGzfbRNRfm2lwI3J9jzLJpdHjuPWwLffsIYyTE7UQIOuVccucKCszbVeEluOTZQiyygfct6dlbHT/LEH3ulh8N3RXKGCdKFa6SLsgu1c9uXOlo06J09IclNRB7UGs62ZB3vFpEz8laFdpa+yuvqlk4s4VmGjBRgCnvTCNb/8ejg8JYI5A0fD7NxaQP0G1DOxTqPbbqfN963eptPZTKzh4XUvwYl9L4goY0Dz6WyN7mkvoyfPLjb26tGT/tTk1nlscyHhLOZtkBpqkT/03Ve6XZbETw2MJhxlhXKJwrshsdihAjdnIh1yGN9RCDOY12tLWsmK/Bnqgv+bEX70mU0u/SsS9ZA/Ra4F/ZgaWgcHAdfucVwJiAEiOS+xMzq5aR+0C5cFhNUdXULxPeDgnQflBdNi5pNz0A==;jxs8GHpHISxmEItwRA6F7A=="
 ---

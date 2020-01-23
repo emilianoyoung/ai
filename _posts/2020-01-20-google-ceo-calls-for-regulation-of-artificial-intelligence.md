@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "Google’s chief executive Sundar Pichai addresses the audience during an event on artificial intelligence at the Square ... SAN FRANCISCO (AP) — General Motors’ self-driving car company will attempt to deliver on its long-running promise to provide ..."
+excerpt: "Google’s chief executive Sundar Pichai addresses the audience during an event on artificial intelligence at the Square in Brussels ... SAN FRANCISCO (AP) — General Motors’ self-driving car company will attempt to deliver on its long-running promise to provide a more environmentally friendly ride-hailing service in an unorthodox vehicle ..."
 publishedDateTime: 2020-01-20T20:24:00Z
 sourceUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/
 ampUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
@@ -568,6 +568,6 @@ related:
       domain: livemint.com
     quality: 19
 
-secured: "Lk92wpAMShHIIYlOkh/UaBV/AC0vHBT7BsiDOY6hbCR2glyhfdpYFcrTyYuznrjCR6dz8SkrnW0O4n0hfYqVawSoV8e0a3ZC/ir9HSBAuBamEl5A7Pr/04HS61AX2ZM9G2mxHJzETrj3ZNAUIfh0sXKN5w9mUxnZ9jYcTSNN3OwoATfuRw/RcJ/qdy8vamOoIDoxrawUDFw2oU/Lw4jzU1MJCZuA8FXWQ9pW1c8Il+0r+q5mdGTyDaBc2vslEyTaS1KSunOcmEb7mj/lX46gckad5O7gIxYyWR5TICJZ0MNkLHd5clfkOwVZOIwM6Ws3;aCmtzA3Cx/jr2dQBbybG+Q=="
+secured: "hPTagBmz6WaS1FhGi0qwErn++fM/D/WiYwnSpIrIS2wvDwYM+QBCI4zr5MKSGn4vwT5TwM+m9dvrmVbMc1bkJ0FpyC3PIHfBUoLW816epLjHvGdUeEZNuT46VfqoieD4WkbwjAqgKTpfNvjphpw5nnDrAIvi8PVDgUeojjies1GVAnKn+mzaM9LoNNAVSnly9pIhRzvFknnc0sDTC12bLPEoi1b4+50298eKaIvoJKgpN6ZLWH37AgGi75uUp+qrSxmL/aT+fFMZxmg7sS4mZJqUN5izTUSgvrvmWkn/TpMCpqB6pqqg5CYAV3JjcCOe;zS20JC2ysasHJ4jSwSmHpw=="
 ---
 

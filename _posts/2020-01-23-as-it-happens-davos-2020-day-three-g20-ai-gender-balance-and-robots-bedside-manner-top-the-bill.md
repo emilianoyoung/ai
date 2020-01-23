@@ -23,6 +23,6 @@ images:
     height: 564
     title: "AS IT HAPPENS: Davos 2020 day three – G20, AI, gender balance and robots' bedside manner top the bill"
 
-secured: "l/oDDWHAgahMATYN2iU9zZ4X8rjnyMIMCP87gtcGA7uPFmexviXDKv/60fyJDabYfY5nKxGrQ9nb3HANc+NSOuU4YmxqWwJ0PYued7Ny7FL1yqD+XsizL0Hth/v6jYFHUXstYFN+jwx8IJHKsBgHEBmuNHCdfgeB0xlEIfFmZfn7i9gEOH5tdrziVUR2+ltVe4RNDvV3px8/bwlfB6UsDOQjrmxBCmW7GQ28eFiHUkmr8E6oTccTSH8Bb5iUdKSKvrw30O+h6O0/+5atQu13cxIoNg5/aYzohC4GLPHQzIE4JqE5M5XLhcTmuN2OcGxh;//RqbY/FeAazfb6CydGkYg=="
+secured: "sxQKKEWTParYBfOnQU0+fZBNHByU266H6Yd9SXclqL6j5J6hy9wABERZkQZ0HI+LZzC14018hpNQ7hm79bKcTX5jglxvrcFiR9uZV+XB7Q+Aht8PtZXvIWHwVZCDAvc8ks6JaSdIoWstbx/J0xsbmglgXKMfZwSojsxQSQH2xfxSoN2XX+TUhE5YDn3Q8nBVydoXthkb75wOH753VYPHcq2CrBGaGichwLByoimhSrU5LFqnVFUI0iAWFW5r2XIQ0yvOGv+twIWFRMTOt8Yw9fDVQpTY2FLWX+1hmJQGhSMVNHyy21pxE/flJWaelTtBFtlM68VsksoPEcuWAjJxRyDktbetXkPTXasT06tL+sq93Wvcj783ZcdyyeGZKTMjdeJt0nD0xHK8YV9PE+756UJGI8QJ5boF+O9IY71RnNtrt9Ll/hhUKvgrKaZqYXNjqGgRhXd9T/r6E9R5pJJuFWJsNjd49CnA2igvvtwl0Zg=;aORZF+97ynZkckmkvcb63A=="
 ---
 
