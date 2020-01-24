@@ -26,19 +26,6 @@ images:
     title: "Flourish Ventures To Continue Its Investment Spree In India’s Fintech Space"
 
 related:
-  - title: "SEI invests in AI insights firm ForwardLane"
-    excerpt: "ForwardLane, the leader in providing AI driven intelligence to financial services professionals, is thrilled to announce SEI Venture's strategic investment into the company, to accelerate growth and the provision of powerful, personalized insights for ..."
-    publishedDateTime: 2020-01-23T17:40:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/81237/sei-invests-in-ai-insights-firm-forwardlane
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
   - title: "Goldman Sachs on its way to dominating the fintech market"
     excerpt: "The startup uses AI and is in partnership with over 3000 merchants to build these profiles. While usually, the investment comes from venture capitals and private entities the banks are usually hesitant to invest in fintech. this is what sets Goldman Sachs apart and why Forbes named it as the “winner” of the 2019 fintech industry."
     publishedDateTime: 2020-01-21T08:30:00Z

@@ -55,6 +55,15 @@ related:
       name: Australian Techworld
       domain: techworld.com.au
     quality: 7
+  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
+    excerpt: "/PRNewswire/ -- The \"Global IoT Chip Market: Focus on Type, End-use Industry and Region - Analysis and Forecast, 2019-2029\" report has been added"
+    publishedDateTime: 2020-01-24T15:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/world-iot-chip-markets-to-2029-increasing-demand-for-iot-chips-in-smart-manufacturing-applications-augments-robust-industry-growth-300992810.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "dG9qvtSrDMagT8615gnLvkZxtpmhUslum9i/GcO9c3PndqOqMugjpfszQdxTlutiDhgbBAGbweZ4ETbOXwsLcu7jLAObEIvmTx0a3Z7tlbt0SJ6S9iFtUD2bHBGmrVpk1eK7Ufe8IGfkre9p7JbmEXze64esd62BEfFtLqbXrD1zcd6/IyaM5vtgR4N43/K85+qiYTbcmSd2sXOXh4XV6/Jd/wvIaQDECz1UvQLrWt/anta4h852xj6oP53rsCSTKp7OTLDqnjc1DvRze+nSRbU6K58zXHeLCRtFu+R6+Ns=;3NjNmNKIue4/r0czdJ75dw=="
 ---

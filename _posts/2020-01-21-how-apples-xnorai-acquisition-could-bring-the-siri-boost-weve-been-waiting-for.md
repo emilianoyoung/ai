@@ -60,6 +60,21 @@ related:
       - url: https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg
         width: 756
         height: 567
+  - title: "From Host Analytics to Planful - CEO Grant Halloran on the Planful rebranding, and why continuous planning is a change worth pushing for"
+    excerpt: "Behind the name change, I see potent questions on how financial planning is changing ... One looming question is the role of machine learning and AI. I expect we'll hear a lot more about this at Planful's next user events. But for now, Halloran said: Where we're going in the future is bringing machine learning, so you can actually allow ..."
+    publishedDateTime: 2020-01-24T09:57:00Z
+    sourceUrl: https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change
+    ampUrl: https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp
+    cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 11
+    images:
+      - url: https://diginomica.com/sites/default/files/images/2020-01/building-blocks.jpg
+        width: 1275
+        height: 864
 
 secured: "ti6vo4XXGXU8tc6g/h3ji02WBPVl8sjRbZ53AXvJITqfeUI+3SwxORzPYUxxMypkExVmpqIffEiZr3kvalUTj8Z6YChmfpgMY8XHz38/DeH9bvwRUzi7zMN1owPgSFWNvBojWDLJGRxcF4tn/TyA0VbdRjqEqHqqTTk9jj7tQy0TIl53aPyn8Fv8UZxD0L6ouhBKBZmMlCNsqO0jLA3QgB9REiaDs85jL/o2+ijfyCfije76OAmmccSz2ftQBrszCUKZmwnhx2SDw7fY64EHpeGYhDQ5wh0wo7eZ+WdfEQ8=;zx2bSr8HQTgaz1rv2xMgkA=="
 ---

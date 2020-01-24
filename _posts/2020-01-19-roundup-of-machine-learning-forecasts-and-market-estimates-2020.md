@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-mach
 ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/amp/
 type: article
-quality: 91
-heat: 171
+quality: 93
+heat: 173
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - Microsoft AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24962d8b6cf300071c7301%2F0x0.jpg
@@ -91,7 +92,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 46
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

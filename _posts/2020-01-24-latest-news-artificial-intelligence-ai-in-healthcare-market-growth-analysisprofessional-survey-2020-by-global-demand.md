@@ -112,6 +112,6 @@ related:
       domain: openpr.com
     quality: 2
 
-secured: "Rl/NoidGdedTsB50DawO6g6RczsfcfYCc2O84BM/ehETp5C1ZVlji8g/qWJ9CgSb7LO/9QgDU3ZuHOyAHscxBTCR9W8P5QqrYhciVbv0oEaNCS/pfNG4NmgkD7PvwDhDb9UgkwFD8Gfo+402AEfQLp2boGSOiuv+ylXb/dljgIJCastwjM4wna8Tf3VT6tdksN7/M0lhMW4P38djpehkgxAeL2evf/6EqjdbCiLV3SKW8zfxTqirVsQdci4ItXEpxXEbq/JlYLGuJ4XDXASb8cYgGddsxgVembHNdeLIrXUym5HUBiVep900TX3gMcX2;yA/6PAlIz5hATI6JKffaxw=="
+secured: "ZoSGQZGJgLICScf3PqK+oQSO5YhrRiQedbwK3KHcAoXd+AF1xr8e6ba41OU6zlvM6Wgu4bFeW2Q8q5X4dXYlJxp14FOmEKZhUo1DgjcAdwjrwgNE8QZgpo0kHoKiV0I6XGeMV0yBpwKatB9+u7C6NrBrIbR7ITinUaLnN777cUvge1twVqeVgrD/51s+IJ+htBjtHFZdZQR3DLJKScErcfylO91BQ/VntSRRN1Un4XnOwwu95YNOzYeApf9pIurOabCqzcV4kfl7BhwT6SVx3TDJgFMyy22fUmBJ1FQjBi1krcj7FvTRZ+53HvKIq10h;GDGcR1J6lZ0ko8aLp93Tjw=="
 ---
 

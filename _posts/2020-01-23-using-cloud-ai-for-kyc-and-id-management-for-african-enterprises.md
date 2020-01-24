@@ -7,9 +7,9 @@ sourceUrl: https://www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id
 ampUrl: https://www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.amp.html
 cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3515001/using-cloud-and-ai-for-kyc-and-id-management-for-african-enterprises.amp.html
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: CIO
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Finance
 
 images:
   - url: https://images.techhive.com/images/article/2014/10/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large.jpg

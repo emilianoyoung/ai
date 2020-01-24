@@ -165,6 +165,21 @@ related:
       - url: https://cdn.cnn.com/cnnnext/dam/assets/180323165308-uber-self-driving-cars-super-tease.jpg
         width: 1100
         height: 619
+  - title: "Uber's self-driving cars are launching in Washington D.C. for testing"
+    excerpt: "The cars will have drivers, and won't be taking passengers, as part of data collection for future development and eventual roll out."
+    publishedDateTime: 2020-01-24T16:44:00Z
+    sourceUrl: https://www.businessinsider.com/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-2020-1
+    ampUrl: https://www.businessinsider.com/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-2020-1?amp
+    cdnAmpUrl: https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-2020-1?amp
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: https://i.insider.com/5e2b1cd3b6d52d20320b5500?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Cruise calls for a new way to determine commercial readiness of self-driving cars"
     excerpt: "Cruise co-founder and CTO Kyle Vogt said Friday that disengagement reports released annually by California regulators are not a proxy for the commercial readiness or safety of self-driving cars. Vogt, in a lengthy post on Medium, called for a new metric to determine whether an autonomous vehicle is ready for commercial deployment. The post ..."
     publishedDateTime: 2020-01-17T21:35:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solv
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,7 +60,22 @@ related:
       - url: https://images.idgesg.net/images/article/2018/04/wyze-cam-motion-tracking-100755563-large.jpg
         width: 700
         height: 467
+  - title: "From Host Analytics to Planful - CEO Grant Halloran on the Planful rebranding, and why continuous planning is a change worth pushing for"
+    excerpt: "Behind the name change, I see potent questions on how financial planning is changing ... One looming question is the role of machine learning and AI. I expect we'll hear a lot more about this at Planful's next user events. But for now, Halloran said: Where we're going in the future is bringing machine learning, so you can actually allow ..."
+    publishedDateTime: 2020-01-24T09:57:00Z
+    sourceUrl: https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change
+    ampUrl: https://diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp
+    cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/host-analytics-planful-ceo-grant-halloran-planful-rebranding-and-why-continuous-planning-change?amp
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 11
+    images:
+      - url: https://diginomica.com/sites/default/files/images/2020-01/building-blocks.jpg
+        width: 1275
+        height: 864
 
-secured: "tYXgZ7Z9tw4BPPG6hVBTUsG0qIS82rmBy3SNKZWi22mSMRf0ModkHojiDkdaDrgbqY9QToP2VzMjkl05k5Kpms/iLR0kLcQ2m6fgyOiM4tN+9/xEBV2KN8yrtnP8ep05Avis+7xfTW1fVAYOMMvImE8Z37Dsv+oexTtAN0RAuq65qZcP0E0sx3ydcuOTFPHi6YU5pAm6ZLYcFUy00KpzxTU3Z3CsznXE8MUZ8AiwuY08X1JXRlG344inZOMKaaN+30D36LZ6sfLzooMlf8sCz4EW3QraEq0xtGvgxotxv2WCjW8tpzHKGyJlQEVQ3rlS;cT0ENAxxAvD0pUojbYV9Rg=="
+secured: "PEqCGwMMqaTn/EK5DihRaf/ye02pqHsPicCP1Au0qj3xKraVvcwBpykq+a5k5lDFPcudPmrAR5/9vQKQsEdcmWWq74F4Hfc1m2pSWO0zWmLKjRdNXJ0ZUS1UEmjFBcCFZuNkKOBksk1B66KrCpdSDrIlZC17DQVitFlLp+p2p3+lfMuZh1lPNtDWoSaiDvxPT1KwRT64A8ZSx9WSeaaq5Y9N1sdCvYy2FuR6M9j8pOXpXGIEogc55fojNvTqM5kwf9SrnV39nOxcwgmo5mMfEetpVllJMjb606CB+yxNQrNkfDWjwgMy4veDiqbFUUTHAmYm74ICK5uPvwx6l+G5GVz9aJx+Fy+lDWRiPobOUZYDhwv6xeFO+f6i8A14OuxJpHO46XTV1IiLLAQiyhgarSgi+lc2acrNXQcS322yxTWeJ0PFb02rT6DmVCYY7tl0mjVZ3Tv3enlMjOrlkQiyO+cVwpI28CKPGjf6mOMd8i0=;exGixhNNdnVTQGswgOcD/Q=="
 ---
 

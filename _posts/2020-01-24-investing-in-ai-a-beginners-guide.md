@@ -1,31 +1,26 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
-publishedDateTime: 2020-01-24T15:04:00Z
-sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
-ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
-cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
+excerpt: "The rise of artificial intelligence has the potential to be one of the most significant developments in human history. Today's machines are already getting better at interpreting data, recognizing patterns,"
+publishedDateTime: 2020-01-24T15:00:00Z
+sourceUrl: https://www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24
+ampUrl: https://www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24?amp
+cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24?amp
 type: article
-quality: 91
-heat: 101
+quality: 89
+heat: 99
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: /assets/images/organizations/fool.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-  - Natural Language Processing
-  - AI Hardware
+  - IBM AI
 
 images:
-  - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
+  - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700
     width: 700
     height: 466
     title: "Investing in AI: A Beginner's Guide"
@@ -45,6 +40,6 @@ related:
         width: 630
         height: 500
 
-secured: "b+QedZ3NAnnyngootLmFZcDaYKxTs2hkOF60F+tOreeNMlR8eM5qV3YPv2D8dUWkFMBHPIL0JyVL+f5VwPNnYrzPgRzojD5AU462jqCx+DARopv37KWn61XpSU3qSc7jk2Gs2381jE935rdp53eyErki++CsdFfcoQf7FAOIN8llE9baeJjJ+lxiK4zchVcSD6Qmtgcqd9l9i2vzyBCODf9lkau9tBotyuhiM1DiUO/h5QkjO2wkZMvgCwGSfNH1RoWdWNGEhUaiusvZM6qFprFGhgd0VNVnHHUqfo8R3vmdshe1Fwn0LQesOobzfzUH;WVlzruS3zvQoBoblD/PpuA=="
+secured: "6XX8Z6zQ3eWn0daFThTnVCLkRAdkI5LLp+vovhJbqBbJzTAApgFY4/meF80VTwgXb/V7b9Mnnkg2/Crw8ppG/yv0eOLQrvlCp75iZYE3xG7zw1BKtn++2L1hELrIDF9W54Vg69CSRmw3dPYAiiGyG2+ohpxWbQ716rPRSVNEJAGSwrKA3v9QrxG0h8tb/HMvKO09nh4u4yVbYffOlvSWCUpj93JJte66B9FRrRHxhs1AkJyfJWeLa4NdmrQQ7Ye1tIAqqzmeutzAXwaU4L7vImkmMjvRIFSJ1eZwzVZ3Ezosxie3wRc42yEsweN9DT/I;bQ/+O5XCpRFBAQSCfB488w=="
 ---
 

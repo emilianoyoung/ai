@@ -24,30 +24,34 @@ images:
     title: "SEI invests in AI insights firm ForwardLane"
 
 related:
-  - title: "Flourish Ventures To Continue Its Investment Spree In India’s Fintech Space"
-    excerpt: "Your browser is currently blocking notification. Impressed with the growth of India’s fintech space, Tilman Ehrbeck, managing partner at Flourish Ventures, said that the venture capital firm is looking to invest in sectors such as neo-banking, gig economy, embedded finance and insure-tech. Since its spin-off from Omidyar Network, the investme ..."
-    publishedDateTime: 2020-01-21T14:35:00Z
-    sourceUrl: https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/
-    ampUrl: https://inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/
-    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/flourish-ventures-to-continue-its-investment-spree-in-indias-fintech-space/amp/
+  - title: "Tech firm, after $75M investment, plots global expansion"
+    excerpt: "uses artificial intelligence and machine learning to analyze customer interactions via call centers and other channels. That analysis provides its more than 400 clients — which include some of the world’s largest brands, financial institutions and communications companies — with actionable recommendations for improving customer service ..."
+    publishedDateTime: 2020-01-24T11:38:00Z
+    sourceUrl: https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion
+    ampUrl: https://www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp
+    cdnAmpUrl: https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/tech-firm-after-dollar75m-investment-plots-global-expansion?amp
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 42
+      name: Business Observer
+      domain: businessobserverfl.com
+    quality: 44
     images:
-      - url: https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-21T193142.073.jpg?fit=1200%2C628&#038;ssl=1
-        width: 1200
-        height: 628
-  - title: "Goldman Sachs on its way to dominating the fintech market"
-    excerpt: "The startup uses AI and is in partnership with over 3000 merchants to build these profiles. While usually, the investment comes from venture capitals and private entities the banks are usually hesitant to invest in fintech. this is what sets Goldman Sachs apart and why Forbes named it as the “winner” of the 2019 fintech industry."
-    publishedDateTime: 2020-01-21T08:30:00Z
-    sourceUrl: https://www.finextra.com/blogposting/18348/goldman-sachs-on-its-way-to-dominating-the-fintech-market
+      - url: https://www.businessobserverfl.com/sites/default/files/278691_standard.jpeg
+        width: 1933
+        height: 1289
+  - title: "AI-driven fintech set to expand team after securing £2.5m investment"
+    excerpt: "An AI-driven software as a service (SaaS) business has secured multi-million pound investment to propel its expansion. London-based fintech FeedStock has raised £2.5m in a funding round led by Praetura Ventures. Founded in 2015 and is run by co-founders and joint managing directors Charlie Henderson and Lucas Wurfbain, FeedStock Based in ..."
+    publishedDateTime: 2020-01-20T15:08:00Z
+    sourceUrl: https://bdaily.co.uk/articles/2020/01/20/ai-driven-fintech-set-to-expand-team-after-securing-25m-investment
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 39
+    images:
+      - url: https://bdaily.co.uk/images/uploads/sEnCbXVe1i6mucg9Tr1kl5CHGvogkNMAx6N0AWOV.jpeg?w=940&h=430&fit=crop-50-50&s=33e72a848f890614183ea7b19622c751
+        width: 940
+        height: 430
 
 secured: "e3WvezNeQE9tYW71GLoqF8hVkpChjQ+Icy7acI4SFFy12/CwOEbLGQmvAl2ebKF2Jxi8oc4xDXnowlWb2aB9ew3rnSeiB0IhIAdwdEQOPhmUS53jVFG/HFmRs92wZQMNBdaxGPj2F3/Ix3Tya+50z0o/kPl0JjAUQiMmxn5wK1usu1dtcVS+4h9YTIYT0i+kukA/2Y2ZJj3Z8cSlmtJJJmXqG2X0AsbBSv0+v1czub7cN0DUxsjc/mv0QN4tt2I+ciot/h9BEzB7yBS3s3IJMCRBXtDq74zOO8cyaJKyb/4/oVIZ//g3kje2m7maQeXB;/kmsqZ2r3BhNZyNhPb1CVg=="
 ---

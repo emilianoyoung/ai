@@ -8,7 +8,7 @@ ampUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recogni
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-826000302.jpg?w=1024
         width: 1024
         height: 652
+  - title: "London Police to Deploy Facial Recognition Cameras Despite Privacy Concerns and Evidence of High Failure Rate"
+    excerpt: "Police in London are moving ahead with a deploying a facial recognition camera system despite privacy concerns and evidence that the technology is riddled with false positives. The Metropolitan Police, the U.K.’s biggest police department with jurisdiction over most of London, announced Friday it would begin rolling out new “live facial ..."
+    publishedDateTime: 2020-01-24T16:35:00Z
+    sourceUrl: https://time.com/5770976/london-facial-recognition-police/
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 65
+    images:
+      - url: https://api.time.com/wp-content/uploads/2020/01/london-cctv.jpg
+        width: 1024
+        height: 683
   - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
     excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
     publishedDateTime: 2020-01-24T12:54:00Z
@@ -89,6 +102,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "0YZkypOwfFITsQJKg0Bp6NU9dsSqgGSIE6ChNFdn8ByUkpfP8dl7Y8EBx/Cht5KR4ehsVlzcR2OyJPPgJM0zbLZXNbngZXsmEYCqNyrpUOCy78iCxGwhQWTV2Sk9u/3AQlz/Nn4pDh9eVoV/SMB/5E8PAG83avYYvG25Sl4fcvu19b2CmjlblEdfdlSiK6y+ynBwJQCjD7o6DscyTR8yciUsV85/oU25A681XtaCsx4JwslruCsiO2jlnnN0eB3ielKwcAM8Vv7btAMERFKba729FIsvWcGqBOmasnUOel0fqKgd+PGGtiwpcDfvLzUw;Z9uAFwWPZk2Dfm6jSA+oQQ=="
+secured: "Xg9DNEQARvAWfirEsmULy4bBvOvNb2haGIR/XG3rQozyfFNNmumeG7+rYMSYzKKjC2XpuSkpC0439YdjSnwx5/htTjLfJebDi/AHEnCeKBtFdFR2ZrO0j4VcciJIE5aTqMVrk4paMDQRklFkIqjRfRSBuiF659CwA8HGXJVsrE9+e2uFd5o64BAZbrK/oSKPgxTfb0i9+yju9td15n57dUeI/HcBNdSvJ+sIjj2Yr5xJi94rYpQjUq+84O5mLMhDnv6RoUcG7bCc0vAtkmr8QthIrK9rtGhNZ//22kJRcW+ztntdz+97scIhOt2y3MM06mwRCmAseebMG6HR3u7KUUxnuP8v2qeAQCBjFawFkzvI6p0adei+UgOjGbqVSoNiozKKX0R16/DGiI3L34ZfA9gKgCJUNXwbLNQDgT9eM2aSawkGPKydhoCqT79d52beqoXxuJ+CCYjleGfOd2bTBx6uBwkUf9GrODnjxkZCwuc=;Qv8tbTN8fj/uRfSTS2ojEw=="
 ---
 

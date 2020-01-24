@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "Investing in AI: A Beginner's Guide"
-    excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
-    publishedDateTime: 2020-01-24T15:04:00Z
-    sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
-    ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
+    excerpt: "The rise of artificial intelligence has the potential to be one of the most significant developments in human history. Today's machines are already getting better at interpreting data, recognizing patterns,"
+    publishedDateTime: 2020-01-24T15:00:00Z
+    sourceUrl: https://www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24
+    ampUrl: https://www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24?amp
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 91
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 89
     images:
-      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
+      - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700
         width: 700
         height: 466
 

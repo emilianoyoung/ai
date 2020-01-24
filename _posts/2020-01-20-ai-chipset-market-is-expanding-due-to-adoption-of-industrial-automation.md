@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/15149083
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
+  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
+    excerpt: "/PRNewswire/ -- The \"Global IoT Chip Market: Focus on Type, End-use Industry and Region - Analysis and Forecast, 2019-2029\" report has been added"
+    publishedDateTime: 2020-01-24T15:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/world-iot-chip-markets-to-2029-increasing-demand-for-iot-chips-in-smart-manufacturing-applications-augments-robust-industry-growth-300992810.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "f2P7tCqn5emA31aw5dQhlgwxo7hFDgm+gCXUroreJu3+XNw1WrNh7Msx3v+vCtNGOcCNIJchV8+lpnTqJJAoR9raIrR9rO9bUgqph/ydFPBP/jxpVTEbHb8SxMCgqD0Sa7lR5iQFz5/ZyHG8jbTHX13Nf0NCmuFAJlgfpYTW9CocjqmH4y5NaBaexmvL9oTjf9Q0rwvYruxrUosWcrkM9zvSo7l4nTetkKX/0Z8WDjjBbAHA3yDY66agR/g+UmhxpFrg0Y9F5cVbLOCf3Wp62FG7qR4PTr2WFTTbPxphg1C+1rmb3ClD9n+/oBuT/JtJbT3ZEvNycs/rHm+LlsOTtPAphPhLg4eOJtzJ+7ucypbySWjcLLR7slcWOZd8ipzYiVIt0S2qRpUoPTNCOahJ4QfQJTdpY+M/qYr1SlOi4QBTq2n/TAyFxw0H0oPZrcrD3E3d+k50+uhoHJEXW5vM8w==;/lGIFUesVQAvnwoqKRMxlg=="
 ---
