@@ -2,8 +2,8 @@
 sponsor:
   name: Scale
   url: https://scale.com/
-  logoForLightTheme: https://fiona-bi.github.io/ai/assets/images/sponsorships/scale/logo.png
-  logoForDarkTheme: https://fiona-bi.github.io/ai/assets/images/sponsorships/scale/logo.png
+  logoForLightTheme: https://fiona-bi.github.io/ai/assets/images/sponsorships/scale/logo-light.png
+  logoForDarkTheme: https://fiona-bi.github.io/ai/assets/images/sponsorships/scale/logo-dark.png
 
 messages:
   - title: Scale AI Selected as One of America's Most Promising AI Companies
@@ -23,6 +23,9 @@ schedules:
   - "2020-01-24"
   - "2020-01-25"
   - "2020-01-26"
+  - "2020-01-27"
+  - "2020-01-28"
+  - "2020-01-29"
 
 placements:
   - TodayNewsPage
