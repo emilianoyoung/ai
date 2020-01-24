@@ -58,6 +58,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/VI9-cNAjtYJbIEyrIJJ5Q-7Q--0=/2020/01/23/b8af5a80-d4eb-4a64-8711-62295d5c8fc9/ogi-waymo.jpg
         width: 1200
         height: 630
+  - title: "Waymo’s self-driving minivans and big rigs arrive in two more states"
+    excerpt: "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ..."
+    publishedDateTime: 2020-01-24T06:00:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/
+    ampUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg
+        width: 720
+        height: 376
   - title: "Waymo is bringing its self-driving minivans and trucks to Texas and New Mexico"
     excerpt: "Waymo is hitting the open road and bringing some of its self-driving minivans and long-haul trucks to two new states. The Alphabet subsidiary said in a tweet on Thursday that it would deploy a portion of its fleet in Texas and New Mexico as it seeks to learn about new road conditions and environments. It also feeds into Waymo’s ultimate quest ..."
     publishedDateTime: 2020-01-23T15:42:00Z

@@ -2,28 +2,22 @@
 category: news
 title: "Twitter demands AI company stops 'collecting faces'"
 excerpt: "Twitter has demanded an AI company stop taking images from its website. Clearview has already amassed more than three billion photographs from sites including Facebook and Twitter. They are used by the FBI and Department of Homeland Security and more than 600 other law-enforcement agencies around the world to identify suspects. In a cease-and ..."
-publishedDateTime: 2020-01-23T15:31:00Z
-sourceUrl: https://www.bbc.com/news/technology-51220654
-ampUrl: https://www.bbc.com/news/amp/technology-51220654
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51220654
+publishedDateTime: 2020-01-23T17:21:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-51220654
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
 
 images:
-  - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/12995/production/_110618167_gettyimages-1160977168.jpg
+  - url: https://ichef.bbci.co.uk/news/1024/branded_news/6A2D/production/_110618172_gettyimages-1160977168.jpg
     width: 1024
     height: 576
     title: "Twitter demands AI company stops 'collecting faces'"
@@ -44,7 +38,18 @@ related:
       - url: https://thehill.com/sites/default/files/twitter_090419getty.jpg
         width: 980
         height: 551
+  - title: "Telangana Municipal Elections 2020: In a first, face recognition app to be used in polls on pilot basis"
+    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app in a bid to counter impersonation by voters on a pilot basis in 10 selected polling stations. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
+    publishedDateTime: 2020-01-20T05:24:00Z
+    sourceUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/
+    ampUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 23
 
-secured: "jA1ELZg4UAvzr4qZzB34eBosQ7p3Cn4eSRxfQ2aQEVZTdSaoXQK3EW6AzobWoe3VRY7fHe9AtoIoeSx3zlh07UxjWRFwJPHd6SKRSwdPdMjRMDK1JsL/KFTA3BJXM6LRnFKRnYJuu+kGLxKvfPZPDpDf5f+1sURT4rVSDsolLUFMp6c4Hn+K5xxhXi+BjYLmP64jcTRUwg6+335LwApSpqOu+qhSBal3ga0YGb0gGUO4zm4LfbtKVYazL7YppjXm0k+Ma+L90azC8OzkQDBEy//GJbfBZFYYGAbUAVWFIVHwx6QyknfRV2KKG31FDF2A6lt2CJ4oSkS+C2bUiInN0bcii6G4hCNd7IULbhcfwkSkKs4vv+4LWBukQEQ6FFZ9omlH3HNwaEvUg2+1iceSA/K03DDGbYaMStsah5YY15LfZ8P1Er0gCfUDLz+d6Pu6IMJ5bp2boTUTS9c4z/5p/nCF8VSzTk/MAR6SH7Jv9vM=;Xd5rihvDxt7SUjRtXfnfFg=="
+secured: "PZoRI+8gpxgaFsr7I6x7+re4P3T/1xsPmy8cqXn16vsxe4wnOKoDDm+ux2XSNAHr6FcNaY3ozqWRSdMiyFMTvs8k0RFWsD7+jnuDXOdJ3C/rOm+meZiHtgSTT3Lkw7ta73dR8cFn0ksoZLXFJZ3p1RckEO4IOpvH04/VuLE/37saIQGcMMmjxyOBMFn0/1eSjwA2Q69lfR8JeFNDKVj8H9PsR/A9ai72A6crmXALvf1FrHACPEbTgHba05pEs7axhS2vZFVgWrXecyrKE3F0CFaGRbx8zhdQaByv+maitPlqAhwdTZ90TAj5b1hDW97K;g42xEnN/n/xtgrZfg7KeKw=="
 ---
 

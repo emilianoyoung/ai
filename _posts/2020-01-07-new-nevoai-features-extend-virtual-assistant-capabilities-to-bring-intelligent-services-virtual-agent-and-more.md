@@ -27,6 +27,17 @@ images:
     height: 630
     title: "New nevo.ai Features Extend Virtual Assistant Capabilities to Bring Intelligent Services, Virtual Agent, and More"
 
+related:
+  - title: "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement"
+    excerpt: "Paper forms were used before September 2001 to document pharmacists' cognitive services. A database of ... Data were exported into Microsoft Excel 2000 for graphing. CliniTrend for Windows NT ..."
+    publishedDateTime: 2020-01-07T00:00:00Z
+    sourceUrl: https://www.medscape.com/viewarticle/453038_2
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 0
+
 secured: "rgebh9dvPLSGWWZkyFQueTQ+HZajY/ulTTEdQqE34cbxpSaEjKHAI2RLZ0dRDRGLF3HrVOTry0bAeVfVn+m9BWk3OOIa3MdBx9b+HVA3WLxOOZSVCF/RXnjUkfYUdSh8Z/d/AOeKmJ6NqX2oh8J6EmZSZnUFtW531qb68XieiBvqFlcQkzTqmXPRBRAOqoKUcTdOMJ/2m0HU6EOvPsqv+NO++aHZfl600+6HXUY7LS0iQBwwjY03ihR0MSRWjV3W+qrnVdjikWFsB6FBIS5OEcgO8sSY2qFEK3d/sDhBLbo=;y1oNM/AeZICQuxk++o8QPA=="
 ---
 

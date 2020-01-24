@@ -24,26 +24,19 @@ images:
     title: "What Value Does Microsoft Azure Synapse Bring To The World Of Analytics?"
 
 related:
-  - title: "Prevedere to Present Its ERIN Predictive Analytics Cloud, Powered by Microsoft Azure, at Microsoft Showcase during NRF 2020"
-    excerpt: "The ERIN Predictive Analytics Cloud leverages the power of Azure Machine Learning to rapidly analyze and deliver insights from vast volumes of data streamed daily from hundreds of global sources."
-    publishedDateTime: 2020-01-13T13:05:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
-    ampUrl: https://markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/prevedere-to-present-its-erin-predictive-analytics-cloud-powered-by-microsoft-azure-at-microsoft-showcase-during-nrf-2020-1028812725
+  - title: "Microsoft takes Azure to the next level"
+    excerpt: "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ..."
+    publishedDateTime: 2020-01-04T00:00:00Z
+    sourceUrl: https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-  - title: "Omnipresence Platform Provides Biopharmaceutical Companies Advanced Analytics, AI and Cloud Innovations Powered by Microsoft"
-    excerpt: "Omnipresence Platform Provides Biopharmaceutical Companies Advanced Analytics, AI and Cloud Innovations Powered by Microsoft"
-    publishedDateTime: 2020-01-09T12:03:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968338/0/en/Syneos-Health-Announces-Strategic-Collaboration-and-Investment-in-Indegene-Omnipresence-and-the-Company-s-Next-Generation-CRM-and-Omnichannel-Engagement-SaaS-Platform.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 7
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg
+        width: 660
+        height: 371
 
 secured: "zUUjhIFjNeJJcME5JKmFfO2nJeLdaAzU2tTPydUeIN6d/BBXDVDzGMqNjgXogdlrTMgT0BcE7We6bprMtqEuERyU7qVK/eS05M2G9KPZGPL2xlv7/NvEcf2VNtKOtcDzsqt3DgMFdM29+M1nxBIXnHhJ6U4kWmpc07kKDM/wUJljooWf7tPPUy8Z4axpYVMxl1GvC4r1VVnvGSvphDMrIQsLQ8xYBI2wK4CTILJj+4Sc8jq0ujyKm+HZtZO9rbWyEbYnkJ2tzdX+AmJ/iCM0JJ3TFpNSEhgXVUaNKyqdnnT6pwUZp/7IW2Nfm3hMHQeX7Gy3p+13B82Lm4uLkMOak02H4UrWWx9PNcAK1NpeaF2cb6oc48WOMwrMIk37ZspbQH773oxMwBM7Iul/inDRyAW4ydqbrJHM22vD9kQJF/B3O6RhWlFbYcBdMqkm3KJ6Cr13vQdnVGX+prBuuQ6osg==;q7qgYC2hVW81lU4IbfaZqQ=="
 ---

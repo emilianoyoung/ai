@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T21:51:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/23/a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome/
 type: article
 quality: 67
-heat: 67
+heat: 68
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 365
     title: "A beginner’s guide to the AI apocalypse: Wall-E syndrome"
 
-secured: "TP2SJw4ixiaHXkDCeDaGr9XknDmtta50B0xPvhML0TZthw7TpzZBGIQ3F6BB6oATCnebyNtfXqCbfjurwX0OnQIvjduMuuq4o4J8L5avB0ejUrKPeCAZa9NTAPjhkW+VSdVvDBt0FG7pdcAhtrEmSGisMc7KMIGVOTTj8vAsIQO6/lydI0j5whWL0Y7OCEg6zer/fjmSNNOG1EdQh22rob3WjJbZwJADE86JmcwZv+IPPLfcIJEE6rdkQbHoe7DdAlFk8Rth/5KstrwfZWnedfOIwP/y+ZwhUHr4H48AN44TjuwRNgLO63KkXmqBHOGf;KH/Dm5HGD6FtI+pq72TyMg=="
+secured: "DnOX4dCS1DfaE/472duOYOR7GwIOu0lQmFDkHvCYDNDMj1Fp+tlGqjYtD3hB8lEv6etmvXbskZFTd2PT4RTr7ggd1OcY+/8TX2LmtqR17aHmLL486sx/rwDrmDVvJciA8QUhkzQqejkU1Tkwe95+5GxgZ1KHx+BzYRdFswg2w27S8umYmg3TG3Q38mvdScS/d4GXq4vDYZJJjHEUEXTUQAt6F8lUUsOjrUFQf0zXvRS81/kaEWKxltMvXrnngIyJQdCjcp7SrIsNfWUy/Aw2JTHi1dd09BZCiQEdaA5QLAKglsExrM5yWRncECeqHMMm;M5OUgY3VG4XhqJhRbDs75A=="
 ---
 

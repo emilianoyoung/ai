@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Waymo Self-driving Minivans Take To More US Roads"
-excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
-publishedDateTime: 2020-01-23T18:35:00Z
-sourceUrl: https://www.ibtimes.com/waymo-self-driving-minivans-take-more-us-roads-2908264
+title: "Waymo’s self-driving minivans and big rigs arrive in two more states"
+excerpt: "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ..."
+publishedDateTime: 2020-01-24T06:00:00Z
+sourceUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/
+ampUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
+cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: /assets/images/organizations/digitaltrends.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/23/self-driving-waymo-chrysler-pacifica-minivans-and-long.jpg
-    width: 1024
-    height: 640
-    title: "Waymo Self-driving Minivans Take To More US Roads"
+  - url: https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg
+    width: 720
+    height: 376
+    title: "Waymo’s self-driving minivans and big rigs arrive in two more states"
 
 related:
   - title: "Waymo self-driving vans and trucks coming to New Mexico and Texas"
@@ -54,21 +60,6 @@ related:
       - url: https://cnet2.cbsistatic.com/img/VI9-cNAjtYJbIEyrIJJ5Q-7Q--0=/2020/01/23/b8af5a80-d4eb-4a64-8711-62295d5c8fc9/ogi-waymo.jpg
         width: 1200
         height: 630
-  - title: "Waymo’s self-driving minivans and big rigs arrive in two more states"
-    excerpt: "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ..."
-    publishedDateTime: 2020-01-24T06:00:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/
-    ampUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg
-        width: 720
-        height: 376
   - title: "Waymo is bringing its self-driving minivans and trucks to Texas and New Mexico"
     excerpt: "Waymo is hitting the open road and bringing some of its self-driving minivans and long-haul trucks to two new states. The Alphabet subsidiary said in a tweet on Thursday that it would deploy a portion of its fleet in Texas and New Mexico as it seeks to learn about new road conditions and environments. It also feeds into Waymo’s ultimate quest ..."
     publishedDateTime: 2020-01-23T15:42:00Z
@@ -144,6 +135,19 @@ related:
       - url: https://media.bizj.us/view/img/11586802/waymo-truck-3*600xx6000-4000-0-0.png
         width: 600
         height: 400
+  - title: "Waymo Self-driving Minivans Take To More US Roads"
+    excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
+    publishedDateTime: 2020-01-23T18:35:00Z
+    sourceUrl: https://www.ibtimes.com/waymo-self-driving-minivans-take-more-us-roads-2908264
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/23/self-driving-waymo-chrysler-pacifica-minivans-and-long.jpg
+        width: 1024
+        height: 640
   - title: "Self-Driving Cars and Trucks Market Analysis by Key Players, End Users, Application and CAGR Value Forecast to 2029"
     excerpt: "A recent market research analysis titled, Self-Driving Cars and Trucks Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Self-Driving Cars and Trucks market covering industry surroundings,"
     publishedDateTime: 2020-01-22T10:46:00Z
@@ -169,6 +173,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "ELsg2828xSSkymwgDinrWL7Kh5raEAGOmV3Bs4sP6FCnWZWR9gXQJq8YlnQi1hpVdfD1xwkXTbBCWC7mGTZSoGAni4O40ZmoL8dQFtG7ax/2uhzJ6CNoeMmv/YJeLkIY05pZUCImXH3MvQUja6IIfkUIhmJBo6MF1l0QcmsLHv99jXVZmhEXXKtoCHtOhN9+1jSeRLtN/LMo90uMPxqobD3wRR2bSIOYNBaCrzFu1BfMGDIrl/acCWS5YJ/Qr94+WeCTigccz17ySuppbf/TrM9fuRPeJ264FvwUHVHgmtglIgXiGX4mXYH+K0bRk27726JXQmfPY+F3ewf/EHrgAxN8rmKqCMUKw5yv6kWllg/iJh2//eiC/C1kP0kE2/6weHdczXR39qzwm8z45J+Rm9JiRNCIe1mYm8FUNLl1XiYEirk2BO+zyh28UnPdeL4ynPAwhjVLCloW5z3RFFa4GODjFH/fB2xzDleuUwH2oGE=;EJguFyESnsRM3n8Z4i9n7A=="
+secured: "upzF7Syvjcf5VZ6HJyVII6n9SX/RE+Knxd8drposagIjbzwKVDeLsjPf3bAGuZcnn+d7ooxKxszoBP2orrzNcvaolwI1BvTBzaw4KoMcGu22zNIyFpb02GGZOXIGjgLqn+R9FntjxVPjUctJYi+/AgxNQ13rYEpd4O8l5k9Z3D2jCVxlc4ThLjQBObQXGovLZ7oBhooKZFS1Z9RPP7trekkneOXPdOtDGhHJJ8IlxgfHvqXNvRoKPIiHvTipVU2vDv2F6jnw8108QxC/qT+xmwpz2I0cZTGNHnoRGAI/G8sm/PE69vaWJOiGRDEmVNXR;3oTTxyj/ETbnJhug65mwxA=="
 ---
 

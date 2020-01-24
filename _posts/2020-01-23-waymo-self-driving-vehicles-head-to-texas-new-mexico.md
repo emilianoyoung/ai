@@ -45,6 +45,21 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/Waymo-Truck.jpg
         width: 1320
         height: 881
+  - title: "Waymo’s self-driving minivans and big rigs arrive in two more states"
+    excerpt: "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ..."
+    publishedDateTime: 2020-01-24T06:00:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/
+    ampUrl: https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg
+        width: 720
+        height: 376
   - title: "Waymo is bringing its self-driving minivans and trucks to Texas and New Mexico"
     excerpt: "Waymo is hitting the open road and bringing some of its self-driving minivans and long-haul trucks to two new states. The Alphabet subsidiary said in a tweet on Thursday that it would deploy a portion of its fleet in Texas and New Mexico as it seeks to learn about new road conditions and environments. It also feeds into Waymo’s ultimate quest ..."
     publishedDateTime: 2020-01-23T15:42:00Z
@@ -158,6 +173,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "wzgQ/Hv+Tk5mXtzc1vy1cLAgbX9Vi5kSmy3U+ANrrp0Bhg9XK9LYmkwKPofvSRG4yqx/WyMD/n04q4X4stXCmCj6dZlYCxFn+RL9r31UHW+I9kVO/UH8hKKi+z3XXpRJS67M+x0wLdvG581xuT7mEY5bp/vbgzf6XEqDgb3ARD4vw+3h1lnxXYK5xYjgdVWzqFz1JZDsH5WpaBy7ShaFOgAeXEypZe6nCA7ETb2g/hyUtpIvN7C0959oSAQsJpj97edJcBpg02P2q9n8tkO9S3xoW3yqxWSRxwBkoPp9u7o/sCX60KkJcJAlfLVXAy1T0BzNE73MEaUsTZ5OtWyMNUCtQWuj3kbMC2ISFPaIf+IHNj3rEMpr5Y8zycBkEtZ8ZFBp/h0FkhQI3Bfe/HbdinF0IklL8Erkm5Zfk6rRVIPATVRLXxiY9+LDl9s4JBpX7UNdAOsCfAm/LKZ4wkgELosRUcd0kEWc0iyivjqHckA=;DIOtAYNwgyM8ai7Bo63/1g=="
+secured: "9JcF8D81p+q9WktuFHFIVtsqfpqhARPQXfYh1UP3nCmdG+SssmZdKKd/flS9gStLzNXbbJwRAffOkL94R7Gj36FCUMKC/aPsS4wlmuNnuiffNb9K7X3nB9igdz26h2wXoWg0XRnqFv7jVLNelGOwHYkaED+zeMbywHY1HHBNfCjivgF91v1EkIcK+c5b3cnpppVZFP2JfdzOvysOCU+ADNEC1KK7ribG5L5EAoDRW8RbnXrIpvJR1c62v3WSXvSvg8gVIcV4ZsEYIZ6y4ZFMq78ciX5ccCtXtfXMN5wC1/+GGJVJ1lNfUWPU/v2er32nX134kGJj8kZjhW54ASP6luPJbMYYoefPyQQCUYnTCXqp4U/hJ1Ypr6hrGDr1dRJdH19Np0thHNER7UePN5JLVHT1G/3LBlRVebVAT1Bwwj3TPU2lqT56vz5gU4/oDJxbC9z+mMAn7aX5+8gc4efqcGe6kK0C/wcdgw2V12kcNvQ=;H+uu9EifXN8xY/5IXc1+DA=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Microsoft takes Azure to the next level"
-excerpt: "Also announced at the Connect (); 2018 conference was the general availability of Azure Machine Learning, .NET Core 3 Preview, Cloud Native Application Bundles for distributed apps, Azure Kubernetes Service virtual node public preview for serverless ..."
+excerpt: "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ..."
 publishedDateTime: 2020-01-04T00:00:00Z
 sourceUrl: https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/
 type: article
@@ -42,6 +42,6 @@ related:
         width: 800
         height: 533
 
-secured: "lIqJsdj7rOF1xagXbAMo9s7fi3xHaadtpbKR+hXLypUlmEQiBWI4KpGzw5UEtsD3WLlxaljS0V3y0fne07IC4QDyvOyEVyqPgLTsqANyUsUkPmeKJNS8A2ErTaIPCEQtrqFP329VLynguMH6bnIwZzRrCY8sJyl5aQy4Yg83BnFdn8dTgT/Cq6dG8I5kIXaJ0TqAysd33+g6wmbhjRgrvBALQZgQGBCfi2mxDdOzTwKc4rW0UkYmMtGi+ku6H5NEP0aSNOykK/eu7OxnHuO1iNU31HXQATRf9sdvb7b9UqU=;QsirIL1jcLUPWsggu/8GKw=="
+secured: "PJX+uyKSxeJKI1bzpQLow8fRxufsP0FPCmbPqBplWQUgMoEYFXWhPAZyUPDQmBB7UXV7hbEMgqNTzSLvUbgAVOf7saErkVfmsPluN1EABpDdizXIKwWaQK1tAgUb1vR5lTs3Cl2mGDB3BP3kowicfOyYzRTkSE7BQCpfPPODlNl+Grdv30znPQUGTqCLYDYWkROlFrFSKAidcE6JKqPVRJ+qXwy/4TfUlUpLY3dPrpYAWLbtvVRrP6UsiyvODgf1iplF9q1NbBfXNoaeRrOJKPByWKjVkV4IAboVdq8jKqTAzWrq5lD/LNaSRKQ3tdjV;SXE9Nm7E8wTgSwgEo+YGxg=="
 ---
 
