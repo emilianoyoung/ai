@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-23T10:08:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-observe-a-superlative-cagr-of-4208-by-2024-2020-01-23
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,21 +28,15 @@ images:
     title: "Machine Learning Market to Observe A Superlative CAGR of 42.08 % By 2024"
 
 related:
-  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
-    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
-    publishedDateTime: 2020-01-23T09:25:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet
-    ampUrl: https://amp.benzinga.com/amp/content/15169842
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842
+  - title: "Here’s What We Learned by Teaching an AI to Write Super Bowl Ads"
+    excerpt: "Super Bowl ads, the bot’s creators decided to touch base on how it’s going, what we’ve all learned and where this project seems to hint that AI is headed, at least in the realm of creativity. Here’s the conversation between Adweek emerging tech reporter Patrick Kulp and creative and innovation editor David Griner: David Griner ..."
+    publishedDateTime: 2020-01-24T13:47:00Z
+    sourceUrl: https://www.adweek.com/creativity/heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: https://www.abnewswire.com/uploads/1579774680.jpeg
-        width: 800
-        height: 527
+      name: Adweek
+      domain: adweek.com
+    quality: 117
 
 secured: "5GzXmrTpbaObYLZrYRp10WFwW9ncKXJEewwkuNV0rYAE+4sU9Izbv9aOHopnAw+eKs2ndwxizYmOep5tK8LVWqXK4j1rGtJBlDbR9MmvBmkQQbJQpZqq5Na5KnUAxRYsdL10ekkHQ/aQqUtgk5/BBMErqb1VhEUMgnJfOwCMMe8V1K/WIuHCtc6pNSlvq7xDk+vc4qp+7pDUEin5JseeWjqso3Srxj2HA7lAfQKHI92iZxkbVqTCMlT3RF9UmZEiWEWysvqD7PjZyXpcOK6Ey9+wRDHo/8tz3ScVts+mVP4MmEY0vpQozwsmpvchUjb+;hFEsZGPLT0jSUuES5blwDQ=="
 ---

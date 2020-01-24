@@ -54,6 +54,15 @@ related:
       - url: https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2
         width: 800
         height: 533
+  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
+    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
+    publishedDateTime: 2020-01-24T17:57:00Z
+    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 34
   - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars"
     excerpt: "The Origin is the fifth-generation Cruise vehicle, is production ready, and could form the basis of a shared-mobility service."
     publishedDateTime: 2020-01-22T05:38:00Z
@@ -91,6 +100,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 10
+  - title: "Link Tank: GM Startup Cruise Announces Self-Driving Vehicle"
+    excerpt: "Cruise, a startup acquired by General Motors, has announced a new self-driving vehicle that's unlike any car we've seen. \"This week, Cruise, the autonomous driving startup acquired by General Motors, announced its Origin, a self-driving vehicle that purports to be what comes next after the car. The Origin looks a bit like a large metal box on ..."
+    publishedDateTime: 2020-01-24T17:06:00Z
+    sourceUrl: https://www.denofgeek.com/us/culture/285529/link-tank-gm-startup-cruise-announces-self-driving-vehicle
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 4
 
 secured: "3GAZ/muMhNsZdiwRRoYXO6jtV8GX27B8ukUFe2klViPTC3HY20LcFNMeGj3VcYQzim8aY7U19HEFp5RrKkXTjYb+6M9gcgLSutvWskAMjYoaesu7c4iCuwQbXHnS5lCishDlJQDmU0ErR9J2UrqiwPv07AE88lbgK1U7t6XrxvQZ/o/zvMPMzwTswRYLzkBAKDSd1Vox3nqy8kO+P9ye0m62og1Ni7DAx14HomqtZlcEXDhaZ1pDBJB1Ak0ZdpbsTKOHARhStJD4vNWdT2v8noVJaG2sADE5pd8Gb2aNczM=;Ss4yfC+Q2YMPJ4FWTA0BQA=="
 ---

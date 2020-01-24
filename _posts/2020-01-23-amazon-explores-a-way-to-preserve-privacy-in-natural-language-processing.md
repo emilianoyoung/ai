@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-
 ampUrl: https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/
 type: article
-quality: 88
-heat: 88
+quality: 188
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Amazon explores a way to preserve privacy in natural language processing"
 
-secured: "MpaeEscRx7ifEq1Z2SeU7cuee7p4+RA0XbzRPrpojGx5n/glNahzegAwuiS0lrAHNwbBwilDTGAoNXzDUvThVsekepUOtDUTT5aVOHlv5vk70wGn6nLOtMnp1CBoG9C4N/3W41J9uh2s8t1dVAFNzaTr66wUzUbRHMfWVXg/PZsW/urHdens8axu07byuab+isYyZJOPqOb3/zeStNLcU5YlMUWy7bOhuuOBzBMD7IQiFs95emEXnvigxqlmMvTG5Bh7/VxwOK0QIrFt7v+zmC2n2t5wrWprn5/uVG3GRAWOK4scGx9m2OXleLyN3wiVovwEDJpk/2r6VTsTICQt2TlwsnMreHHZ8kAmCEpFzxK5158f9skWWMqvjJtmBMaFLvybLSXMqTXNUGy5n8+YftVV3nkelN6SCX3PS/3a99COrPl+VeVaHE+qHdPC3BigFcb4G+rbhltGgxiGc06DPQ724GZsbVz4qeqwMj5iyL8=;5KIKsN9BslNDfuVq8kF26g=="
+secured: "Nk38hcZghQAEIsYoPu+2+gb+YUZhJslkLJ0Wkvgqx2ktO56xxvn2IaQv9S1aR9HtEoU2Bz1AVeZJFE/kwSnpR/NtB3S9OmOczBh1a9SC8kDU8+As+e5zPFWK4y8b5WJEXtuG6EygGmTwWy5MgCcj8/77vQ7Uqdh+agdNuZ9oQD5WQ9vcIfooURkYLHAFY07y6FPUADFHFTgeSFZ8Y4C4GF9V4M2O9S2Lk7uhfiEjFU63XDf7TW6Gfbjj9GghsLr0gwv38pvX3JfTPYsB7avBESdW9PJYFTgBT1F4FXKiBJh1KCFF99haXm/NmHDQ8EXKeSAetuFLvqnSA5pf+7stL/HqnniES4gqx/OJG1KTiyRCo2zs/esHsWVUuSd/0Etj3ekIlDt7H+KCnFa86eLiUAKeXK40mCGK1h7IeeHD205S/Iat+U/yQiKq/UapSsS+4Si9Pq6D9nj6WWhCnqG8T4fh0gUqfzgboX/7O5gW45Ul/M/trrYSloe3xr210YzH;mhRGz7BvYi5BqIgd26180Q=="
 ---
 

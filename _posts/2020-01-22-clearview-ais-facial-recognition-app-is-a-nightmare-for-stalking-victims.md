@@ -60,21 +60,6 @@ related:
       - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
         width: 1200
         height: 800
-  - title: "We’re Banning Facial Recognition. We’re Missing the Point."
-    excerpt: "The whole point of modern surveillance is to treat people differently, and facial recognition technologies are only a small part of that."
-    publishedDateTime: 2020-01-20T18:15:00Z
-    sourceUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
-    ampUrl: https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: https://static01.nyt.com/images/2020/01/20/opinion/20schneier-privacy/20schneier-privacy-facebookJumbo.jpg
-        width: 1050
-        height: 550
   - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
     excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
     publishedDateTime: 2020-01-16T21:03:00Z
@@ -116,17 +101,6 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/FsiNg7SW9eXBKcDnJQBkVb-1200-80.jpg
         width: 1200
         height: 825
-  - title: "Twitter tells facial-recognition trailblazer Cleaview AI to stop using the site’s photos"
-    excerpt: "Twitter sent a letter this week to the small startup company, Clearview AI, demanding that it stop taking photos and any other data from the social media website “for any reason” and delete any data that it previously collected, a Twitter spokeswoman said. The cease-and-desist letter, sent on Tuesday, accused Clearview of violating Twitter ..."
-    publishedDateTime: 2020-01-23T05:01:00Z
-    sourceUrl: https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/
-    ampUrl: https://www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-tells-facial-recognition-trailblazer-cleaview-ai-to-stop-using-the-sites-photos/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 30
   - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
     excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
     publishedDateTime: 2020-01-16T21:45:00Z

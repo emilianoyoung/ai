@@ -52,19 +52,6 @@ related:
       - url: https://winbuzzer.com/wp-content/uploads/2020/01/MS-Nadella-SatyaGenesys-CEO-Bates-Tony-Microsoft.jpg
         width: 1024
         height: 803
-  - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
-    excerpt: "What cloud, AI and machine learning enable is the ability to make every experience unique to each individual ... Our customers are really excited about this combination of Genesys and Azure. They can simplify their maintenance, reduce costs and streamline the buying process. We believe in the advantages of moving to cloud, and obviously ..."
-    publishedDateTime: 2020-01-23T15:21:00Z
-    sourceUrl: https://news.microsoft.com/en-my/2020/01/24/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 50
-    images:
-      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/01/12-Body-Barry1-1024x461.jpg
-        width: 1024
-        height: 461
   - title: "Microsoft Announces New Commitment to Renewable Energy—Greenpeace Response"
     excerpt: "Until today, Microsoft has largely relied on renewable energy credits to offset its use of dirty energy throughout its operations, including the massive data centers that power its Azure cloud. Microsoft’s commitment ... help fossil fuel companies drill more oil and gas with machine-learning and other AI technologies. Teaming up with Exxon ..."
     publishedDateTime: 2020-01-16T20:14:00Z
@@ -76,6 +63,15 @@ related:
       name: Common Dreams
       domain: commondreams.org
     quality: 37
+  - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
+    excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
+    publishedDateTime: 2020-01-23T15:21:00Z
+    sourceUrl: https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 30
 
 secured: "+oBwKDYbtDTWrElttu/XR29Ynt1cLFVkVrymDbjUkilq1QmbJxkUoAFi6N+OlejohO42cldKz8uXKINDdYaqAwy8sHrUDgupUlAi3oL0jwMR2tqEQ2sIis80FulKtgJJiufVLuz+rfDGx/pjjsIxR+adKfYymjhxQjMDl7HN0SHGKKrsVJIX902G/pjDJoTGpqrRVGu8/oenPHhTl5bzKYTN2CyLr3Rzp/AXTsLqw+3F3wkGedk9oIiyBegvWZ3H1FG56i0nt3NFWvGj1wrzaj7qewtssebFy27IZMGL6qFg8R5H0pOadhMStym8D2WUUVVxYJ35dWODMn5UIr7y9TEq+30XhhkyGXnDObsB10Naua8SUAPnDaiWskYY2CWCUkD+LCiLLEep67Ud411Qlr0lbgqnQ0qtPNTMX2S34k+STJkvdrvRwmA4sOKEimfEk+RHyM143LMgrf4Tutsi+g==;kRcMYFSKOsSxGEPhhorelQ=="
 ---

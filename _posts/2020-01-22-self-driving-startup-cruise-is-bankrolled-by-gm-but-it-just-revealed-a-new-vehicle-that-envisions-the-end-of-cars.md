@@ -71,6 +71,15 @@ related:
       - url: https://www.breakingviews.com/wp-content/uploads/2020/01/GM-cruise-origin-scaled.jpg
         width: 2560
         height: 1706
+  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
+    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
+    publishedDateTime: 2020-01-24T17:57:00Z
+    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 34
   - title: "GM and Honda Unveil Self-Driving Shuttle With No Steering Wheel, Pedals or Brakes for Ridesharing"
     excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
     publishedDateTime: 2020-01-22T21:00:00Z
@@ -95,6 +104,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 10
+  - title: "Link Tank: GM Startup Cruise Announces Self-Driving Vehicle"
+    excerpt: "Cruise, a startup acquired by General Motors, has announced a new self-driving vehicle that's unlike any car we've seen. \"This week, Cruise, the autonomous driving startup acquired by General Motors, announced its Origin, a self-driving vehicle that purports to be what comes next after the car. The Origin looks a bit like a large metal box on ..."
+    publishedDateTime: 2020-01-24T17:06:00Z
+    sourceUrl: https://www.denofgeek.com/us/culture/285529/link-tank-gm-startup-cruise-announces-self-driving-vehicle
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 4
 
 secured: "mbg4e2HXX/Pc8Y0kjm8Ivwvx6eT87y9HZeWYlyz8rTJPwK8VRvifdb68trk6IsWMgWyr0jVNKkWb5/wk3k4jvUeLiGU1rVGbBe2SwZF1xkizNzWtSEF1VMVwfT8deGMmlkmnUnO1t4AXkss0W2TZsGhPtOItYL2iebmLOTbkTk/HlazKMMw6l5o6rhQW9lpdIfHgtp/EtTC4+h4uBkTbzqnSot/iQYGoFxPZnonx9MamfajV3iaf+mIhmkTO6/Dry3RkUA5WQQw8rf6dutMH4dE9C23vOI4jI6A8MO9a4tAO6daDsW43oicG5iDuf9+KGsUZ8qzehG5NvZU3AiD3y/JbM5INXR/pa3/zp5I8SixtvdP8Rv73aPEEuAYDwQFCgo0m7oEK8ruWtLBDIQcSeMJ1wMR02vAP/nJ+QAZIpC9rdPZ0K1IzjZ0UmyG0P14vkLuJSpWRG2Y0vpfsb4d28Q==;mb6lQoQ1avX7J/974cSsfw=="
 ---

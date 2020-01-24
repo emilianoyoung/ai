@@ -477,6 +477,15 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 800
+  - title: "Uber's self-driving vehicles are coming to Washington, DC"
+    excerpt: "Why it matters: Waymo isn't the only company that wants to move the world toward a self-driving future. Uber is pushing for a similar goal, albeit at a slower, more deliberate pace following some past controversies involving its autonomous car tech. Regardless, the company is hitting another major milestone today: its fleet of self-driving ..."
+    publishedDateTime: 2020-01-24T12:28:00Z
+    sourceUrl: https://www.techspot.com/news/83694-uber-self-driving-vehicles-coming-washington-dc.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 34
   - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
     excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
     publishedDateTime: 2020-01-23T17:20:00Z
@@ -596,6 +605,15 @@ related:
     provider:
       name: ABC
       domain: go.com
+    quality: 4
+  - title: "Uber self-driving cars, with humans in control, to cruise Washington"
+    excerpt: "WASHINGTON -- Uber Technologies Inc. will put self-driving vehicles on Washington roads Friday with human drivers in control, the ride-hailing company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas ..."
+    publishedDateTime: 2020-01-24T11:37:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/uber-self-driving-cars-humans-control-cruise-washington
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
     quality: 4
 
 secured: "2V8HRo+pjaI5x2OyDBBMGElcJmnxEHHKsCG2PRd45PMf0tgPldSxVo+HKf1R/LU5+fgCxGrxqSixse85XFrOjW/fHy2P9XfgyHksIBfd5AaSK8hAP3H75qTlTIEThLnsrodUD5lT1g4c99ltFpONMXc4rSWWjcApYYD83cuj3XzsfXLReIr+woqBC1wZjBtN08ue/x2/tbc44eLdMbvAXtJDdi16b15AnjM2hRXOBpvP3VpJrudYVtzZghprc3ejgmz01KRPTTbi67abh+rmvsitgSZCoh/aQcOD+mzLTCCaTQALybNEPmgfdYZoTVX5nsQQukWjOvDPRYINmreQ43xOnP9l+LU5XM4zuh/yrVBcPUBRAXpOmobGYK9V7osHNpFXFukT9sh2mBjXF9Pb9zBpRDTN5IBESBmjOtDmfT8m3jCqdUjeptUGNSHiqhacKijNwnFoTKPcnNATtWHSXA==;B1z+JaQdaJsXE2V+8ZMdsA=="

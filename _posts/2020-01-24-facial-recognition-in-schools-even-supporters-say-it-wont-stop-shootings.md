@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/facial-recognition-in-schools-even-
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-in-schools-even-supporters-say-it-wont-stop-shootings/
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 756
     height: 567
     title: "Facial recognition in schools: Even supporters say it won't stop shootings"
-
-related:
-  - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
-    excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
-    publishedDateTime: 2020-01-21T09:14:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15152025/suprema-unveils-its-latest-facial-recognition-solution-at-intersec-2020
-    ampUrl: https://amp.benzinga.com/amp/content/15152025
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152025
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "mSV8etpI+IiQddySP9PumVHt+jbtNzUIaDlRFv2ThJHvhtlGww/c8ltUn7sYsv9qjc9GdMaFGi2uWSHoMxDnGtGC02TxD/MWiOtd2MAe0ANY9dcBChgWTxwADI/6rv+YAgM+AK7Xpuy8ZGqA+YlJfA3dz9oY9flgDEFzhbWGYlvIOv+PgTdv0x+QF9vqm7/TTZ/hVC/oq3ADjagL/qJWMO0qAiLZRPsJwWGAvjsdlGJLcSfesgBi4CtLkwsiJlmCdINNZKNMZH98MsVoKg7i10QK8D06X5W3WiOarhxk6ndhrk6SFViIfAJL1GCgLGTqtU8ax5OJ+aGn8pDFGkHSMSaoZk8LHUqlctVpmv6E5FbNidesxQ5fYlcHUxHi2S+zlwl7ziKee5wtWu837ui9YFPWe6+k4sWH5AKRE1foAWTWOsa7REaPNFACZS8yErqWM+oTbzSxXqtl8HnKCq9WQFBqwmT9PRSAvowWL3NRhT8=;BRAvWfvLIW3lwBIOtei66w=="
 ---

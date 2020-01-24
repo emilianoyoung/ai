@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-be
 ampUrl: https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/
 type: article
-quality: 83
-heat: 83
+quality: 183
+heat: 183
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 801
     title: "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App"
 
-secured: "GU9ww8sguUmY6vD7/z94byM09DTRCNcZDXYsJUZFL8/yJqfzGR+iWLqhjlzopWnc/5dz8AG+2Cj/KH8dhurKlgjcxhXIx+8OAtt1KS19UM/nBSLoaa9GQ3PIXHDH5AIMNRcfMMdUESjCs9TDNO1cQZyAPjNyF36E/tD6oPlGL+5ZhUwTu3wqlB1ZkpsRzFn8SOHhPq8rxp7OZt5C29wFB9XcupvTRF6L45482oo2qPPm0GXOU1AUOxaDtCqzHy9zuziOkeExn+WXHuq/EJtyScm8n9kFCnJEWOj2AFREK9ZKJCTJUmxevvam968HsY9KrLOREDORKpFI2zdOMm16GzNpQB/0tZcudLxAsmti55lTMWjbIiseShNUCrK4N+3S/uHoV6IeTTPuyTbnu3msOtL13on392KLczpmcgCp3VODFXzedklNwknbWiowqCOTZDNwf5LPRTnAjh2ejUl82g/H8AXOMmMdsCUw35k5j7Y=;3u+tTdPQucr16b6yN1YFMg=="
+secured: "ljTSsCZoxM77m1y9CKd/zjVw/y2L8mJJHNj2E1+zAsVq6MqNlt3dOb0ieP+sc8TFCrbbOgsRFyaAYqTHfng5WbETm4b7i4IHe9/gVfBqb/zkD/WEAD/gjibmDs0g5p0we1hCt7AnyQcebQ5jmx3/B9A4VttmTIIJsJWjzkmtFjTsaq/nLE+RzBAuevGbyMPECJ+3UOVN5fMT7kRJyczpRxm6CWtM3jwcIl3bkwwAh5rXcxyh1YO4jPt/9FRzN40XRxR08Ib3tIXD0FFiWTwu/hiUdRqTj/NwjJv8UUXwiCFg9qPZNuA2ajIbS+qkpQjwhy8z360qxs6C+KlpRhWDMIZLvBOLnvRmPEcaFO0CDn/GLYp00h94tVaJKihig54bb1vVy3Moj6la/ZpSmRc9/14V3+uKjI3O3y/59gXX8COq5HCEr8QxqzRnclcAUlcJku5zygSCFfXXl5os7w3qOjhKATeAEvloexEaUrHqmBJfsQCmJw6njQ37OEM38Zns;fkL6QHBnIiDwzD7/2CJJXw=="
 ---
 

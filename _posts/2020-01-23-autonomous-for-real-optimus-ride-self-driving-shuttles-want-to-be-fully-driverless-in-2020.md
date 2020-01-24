@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-se
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autonomous-for-real-optimus-ride-self-driving-shuttles-want-to-be-fully-driverless-in-2020/
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
       - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
         width: 640
         height: 320
+  - title: "Graze’s solar-powered, self-driving mower is a view of Elon Musk’s fully-autonomous future"
+    excerpt: "The event featured the company’s strategies for the future as it prepares for a full embrace into its plans for a Full Self-Driving suite that will take the need for human control out of driving a vehicle. While Tesla is focused on navigating vehicles toward control that does not require a human’s input, other industries are diving into the ..."
+    publishedDateTime: 2020-01-24T20:07:00Z
+    sourceUrl: https://www.teslarati.com/grazes-solar-powered-self-driving-mower-is-a-view-of-elon-musks-fully-autonomous-future/
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 0
 
 secured: "9nHTdtazdMut6fydmq7fMQRpCgNlRe50EJ01g8Em4IDseV4TAGzD/z3TVhW0r5bhBDkFK5MR8BjUxwUOAYx3BgZSTk4BUntAsqsF5LHpFKQasaPxUWASEMmu4Slg6zCWBpA0C5+kXbhv5rjN0O6gAaHL+4biNEoKbQ3iWbwTapmGkPfzXu85sAlKDFi3kD+orzFORB/iYPnjS1BR6ciPzn2vWdr6ivMMEIZoMMobhdWsBPlEKKC5BqEjpTU9+9viJp+50wHUNM8Lj4xOgaik6buKWMmnnCn7iGQWeLW3haleTzeCWoTltCCOcEc5vtj3Oe6V72mtW7fycfuCMGB9upWvxqpnHhmzUM6WAA7J1VLaCxACrkyp2xBoajJm8QUdvLeAvn6NhS7tXFM63+oYBRbVyt0zY4+/NDZq/NWs7BlSz0nYIURzBrbVjrPJgzYc71+TleP32evxUY4TpVQpQk6oM4FEJgGseFUCsxUeaWs=;iqFhCnMRyeGytoVJuIoTHQ=="
 ---

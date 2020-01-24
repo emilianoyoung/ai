@@ -5,8 +5,8 @@ excerpt: "One of the biggest challenges is connecting the details of every inter
 publishedDateTime: 2020-01-24T18:26:00Z
 sourceUrl: https://www.investorideas.com/news/2020/artificial-intelligence/01241AIEye-MSFT-IBM.asp
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: https://www.investorideas.com/images/AI-Eye.jpg

@@ -39,6 +39,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F871f5470-3893-11ea-a6d3-9a26f8c3cba4?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Google says it can save lives, but can we ever trust it with our health data?"
+    excerpt: "One task is to combine artificial intelligence teams working on health at Google Brain and DeepMind with those working on smart devices for health at its Nest division. But just as Dr. Feinberg started work on his first project — a search engine for electronic medical records — a scandal erupted after the Wall Street Journal reported in ..."
+    publishedDateTime: 2020-01-24T21:19:00Z
+    sourceUrl: https://business.financialpost.com/financial-times/google-says-it-can-save-lives-but-can-we-ever-trust-it-with-our-health-data
+    ampUrl: https://business.financialpost.com/financial-times/google-says-it-can-save-lives-but-can-we-ever-trust-it-with-our-health-data/amp
+    cdnAmpUrl: https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/financial-times/google-says-it-can-save-lives-but-can-we-ever-trust-it-with-our-health-data/amp
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 41
+    images:
+      - url: https://financialpostcom.files.wordpress.com/2020/01/google-1.jpg
+        width: 1000
+        height: 750
   - title: "Can we ever trust Google with your health data?"
     excerpt: "One task is to combine artificial intelligence teams working on health at Google Brain and DeepMind with those working on smart devices for health at its Nest division. But just as Dr Feinberg started work on his first project — a search engine for electronic medical records — a scandal erupted after the Wall Street Journal reported in ..."
     publishedDateTime: 2020-01-21T04:57:00Z

@@ -29,21 +29,21 @@ images:
     title: "Snyk raises $150 million at $1 billion valuation for AI that protects open source code"
 
 related:
-  - title: "Verbit raises $31 million for human-in-the-loop AI transcription tech"
-    excerpt: "Now, roughly a year later, Verbit hopes to lay the groundwork for growth with an infusion of fresh capital. Verbit today announced the close of a $31 million ... a human-in-the-loop transcription ..."
-    publishedDateTime: 2020-01-15T14:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/
-    ampUrl: https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/
+  - title: "Kneron raises $40 million to grow edge AI chip design operations"
+    excerpt: "Edge AI startup Kneron today said it’s raised $40 million led by Horizon Ventures. The funding will be used to grow Kneron’s algorithms made especially for on-device machine learning and semiconductor design operations. Kneron released the KL520, a chip made especially for deployment of AI on devices like smart home or IoT devices last year ..."
+    publishedDateTime: 2020-01-23T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/
+    ampUrl: https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 187
+    quality: 204
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/Kneron_KL520.jpg?fit=1618%2C909&strip=all
+        width: 1618
+        height: 909
   - title: "Placer.ai raises $12 million to keep tabs on foot traffic in real time"
     excerpt: "A somewhat newer entrant is Placer.ai, which was cofounded in 2016 by Noam Ben-Zvi, Oded Fossfeld, Ofir Lemel, and Zohar Bar-Yehuda. It might not rival location data giants like FourSquare and ThinkNear, but it managed to nab $12 million this week in a funding round led by BV Capital with participation from Aleph, Reciprocal Ventures ..."
     publishedDateTime: 2020-01-22T13:00:00Z
@@ -59,6 +59,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/06/global-e1579243388331.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "AISense raises $10 million for AI transcription tool Otter"
+    excerpt: "And a word cloud at the top of each recording tracks the most-used terms. Otter competes with Microsoft’s Microsoft 365, which can host live events with AI-powered features such as facial recognition of attendees and autonomous speech-to-text conversion, as well as comparable meeting transcription tools from Cisco and startups Voicera ..."
+    publishedDateTime: 2020-01-24T02:25:00Z
+    sourceUrl: https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/
+    ampUrl: https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?fit=1200%2C763&strip=all
+        width: 1200
+        height: 763
   - title: "Placer.ai, a location data analytics startup, raises $12 million Series A"
     excerpt: "Placer.ai, a startup that analyzes location and foot traffic analytics for retailers and other businesses, announced today that it has closed a $12 million Series A. The round was led by JBV Capital, with participation from investors including Aleph, Reciprocal Ventures and OCA Ventures. The funding will be used on research and development of ..."
     publishedDateTime: 2020-01-22T13:56:00Z
@@ -74,19 +89,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/screenshot-4.png?w=1024
         width: 1024
         height: 453
-  - title: "Verbit Raises $31 Million Series B to Add New Languages for Speech Recognition Product"
-    excerpt: "Verbit, a Tel Aviv, Israel-based provider of classroom transcription and captioning services through speech recognition, has raised a $31 million Series B round. Growth equity firm Stripes led the round. Viola Ventures, Vertex Ventures, HV Ventures, Oryzn Capital and ClalTech participated. Founded in 2017, Verbit plans to spend the money toward ..."
-    publishedDateTime: 2020-01-16T01:52:00Z
-    sourceUrl: https://www.edsurge.com/news/2020-01-15-verbit-raises-31-million-series-b-to-add-new-languages-for-speech-recognition-product
+  - title: "LumApps raises $70 million to fuel development of AI for its workplace collaboration platform"
+    excerpt: "LumApps has raised a $70 million round of venture capital as the Paris-based startup seeks to bring more AI and machine learning capabilities to its workplace collaboration platform. The company’s Social Intranet service is deployed internally by companies with the goal of connecting employees so they can share information and communicate ..."
+    publishedDateTime: 2020-01-22T05:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/
+    ampUrl: https://venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/amp/
     type: article
     provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 46
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
     images:
-      - url: https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop
-        width: 480
-        height: 480
+      - url: https://venturebeat.com/wp-content/uploads/2020/01/awesometable-e1579626289453.png?fit=1200%2C649&strip=all
+        width: 1200
+        height: 649
 
 secured: "wX9xCHoSJnkEAepaELUaquqnRBpw/3177ELYtiw6CGMl7JZ8GkTTGH/1gbE5kJbx6+o3WXXqo4E/w6YoAmPUjNZrT6eAAEuTPf9VkUuvU13/IIrm6qLkuPGHdFGX9+2nwRfwyzlBHw3/qUSZbXfKmc+QWbDtb2AuwEz5EGc54xObG4OheQqWD555VR57FzGFV6zelMEip1iZHMGQVRnZNvcB5a4786tSK+v+OV2iRcXpVeninKK2eNeM1OKSeCifMDE08L0BKxOKaJVf2Cv1mOGn6YLzc/VR6fM3fH4Nno47xsVy1X3UMyypPI5Lkmh/CI+uwnyKUgjolMQxgFMSOEtHZduQ6GeHPy3ehBlJwURp9HZsosRlBrjCRulx+RWAst6qlLRutWvAcpL6A/lYqhcvV5vH6/yqm+lHN1fRKAlxzj6jfyVhA0DihRoKUBa/90I7PKtZ67MQ/nWLNzk3lcltw4iysilFY7JUkQXSLug=;AvePEYWJ5g+XWTfse5P8sA=="
 ---

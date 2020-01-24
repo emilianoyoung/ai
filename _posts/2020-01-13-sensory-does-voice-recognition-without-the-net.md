@@ -39,6 +39,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=
         width: 1200
         height: 630
+  - title: "What is Voice Recognition"
+    excerpt: "Natural Language Processing derives meaning from human languages by relying on machine learning techniques. Reasons for widespread of Voice Recognition technology and its adoption No conversation is leveraged properly if it lacks a faster pace of information delivery. Voice recognition not only fills this void but also unite all faster means of ..."
+    publishedDateTime: 2020-01-11T11:43:00Z
+    sourceUrl: https://www.thewindowsclub.com/voice-recognition-technology
+    ampUrl: https://www.thewindowsclub.com/voice-recognition-technology/amp
+    cdnAmpUrl: https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/voice-recognition-technology/amp
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 44
+    images:
+      - url: https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/Voice-Recognition-1.png
+        width: 600
+        height: 271
 
 secured: "+lfVgiqVv8fVyGPIqpgzfJfQGF6I5LVlucjEgUSvdye+fTcGVytIrih+1VICdMzv3oKSU3fz05niD7vT2VM3N2zL5mwXk0Q9LVlcGMiOS6l2mT8ZdwC59ais01ybRskqsi4ACBFcGl+/74pH1WY21EZ/uA3gwh3KPGJa9gShQZO7YWAghi4QOsNbhYnPTky3KiGufHvgbUW+QX8j6Gl62Jf9z/si+YcEiFgjmFyhPe9Tr/pM34H7P7CXv6Z3ziz7bq4B8KSYENj2Z/VcCUNij7pVJlciK4BvkXwdkuTJKyHCyrHlH+U96RT0SUV6D+L0DW9rEnvgr2CfNCdHMyTKgQJ2QXOZx+0YuPz7QgQ/LuhN1tI6n+zqJ4L3exYXnIPqYU/a7yEnHwZKavPRcmx3nYtiuVckC5CtZDsrVcTppFhZeR8io89aYXna/ryh/OLuHpMXGahcO69uC+ShVhp7pw==;ac1UxbLVNVuLerix+4ZMUw=="
 ---

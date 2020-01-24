@@ -65,6 +65,15 @@ related:
       - url: https://www.breakingviews.com/wp-content/uploads/2020/01/GM-cruise-origin-scaled.jpg
         width: 2560
         height: 1706
+  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
+    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
+    publishedDateTime: 2020-01-24T17:57:00Z
+    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 34
   - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars"
     excerpt: "The Origin is the fifth-generation Cruise vehicle, is production ready, and could form the basis of a shared-mobility service."
     publishedDateTime: 2020-01-22T05:38:00Z
@@ -93,6 +102,15 @@ related:
       - url: https://tribktla.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 919
+  - title: "Link Tank: GM Startup Cruise Announces Self-Driving Vehicle"
+    excerpt: "Cruise, a startup acquired by General Motors, has announced a new self-driving vehicle that's unlike any car we've seen. \"This week, Cruise, the autonomous driving startup acquired by General Motors, announced its Origin, a self-driving vehicle that purports to be what comes next after the car. The Origin looks a bit like a large metal box on ..."
+    publishedDateTime: 2020-01-24T17:06:00Z
+    sourceUrl: https://www.denofgeek.com/us/culture/285529/link-tank-gm-startup-cruise-announces-self-driving-vehicle
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 4
 
 secured: "2YulJ8CtoO8yeIVqq+/64YEww8WOtQ6h0rx6r9qWH4ZI8AQDQEb8zI10hwvrMsjaZlO1TgBR58b1NlSRGaD2CiqDA8JSVQd7wkacEnFz7w7gXRJpanN+coxPdaqDyaqvN5Tsh67fGhYAIcWvz5beGoPVcXtZ6BOn1V8uOgGQxLYw/lgiqjrHAPZMJ0UlMPagsH+fUV3ynMseoZsPDM3tjR/RpWy21BjJe984ZOqFeSHpqTYB4l+DUothlX44uZnp2FLg72Hq0rOPSVz6+A0hlubKCXJCmlbpRwzzkZWHNV7rNCmBib3OX5B3+LhArCLYcpSeZGXTI5pNeMn7prmsrMsYSLgByfbvsLcr6kCu81h9GC5UgmPMxG3R8XpoUmRF8ykrDIh71E+X1K8xxqUBnvxlt6R9ZiQqJuNGwRmTHqksxhobF+uer52NOFwObe1pxt8mRldXA15xjw7mf8NBiw==;vwg6dDi8N8j8yx01xokZOA=="
 ---

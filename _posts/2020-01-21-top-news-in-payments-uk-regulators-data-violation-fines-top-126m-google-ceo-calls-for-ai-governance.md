@@ -137,21 +137,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/seXfCZxKybpW6F3DxoXHbv7v26Q=/0x0:2040x1530/1400x933/filters:focal(857x602:1183x928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132207/vpavic_171003_2029_0067.0.jpg
         width: 1400
         height: 933
-  - title: "Alphabet CEO backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium,"
-    publishedDateTime: 2020-01-20T21:07:00Z
-    sourceUrl: https://www.reuters.com/article/us-google-eu-idUSKBN1ZJ18O
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZJ18O
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 72
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200120&t=2&i=1478908454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0J107
-        width: 863
-        height: 545
   - title: "Sundar Pichai offers a cryptic warning against over-regulating AI"
     excerpt: "He discusses his love for technology dating back to his childhood before immediately moving on to all the good that Google‘s doing: Just this month there have been three concrete examples of how Alphabet and Google are tapping AI’s potential. Nature published our research showing that an AI model can help doctors spot breast cancer in ..."
     publishedDateTime: 2020-01-20T20:51:00Z
@@ -239,18 +224,18 @@ related:
         width: 1200
         height: 628
   - title: "Google CEO calls for regulation of artificial intelligence"
-    excerpt: "Google’s chief executive Sundar Pichai addresses the audience during an event on artificial intelligence at the Square in Brussels ... SAN FRANCISCO (AP) — General Motors’ self-driving car company will attempt to deliver on its long-running promise to provide a more environmentally friendly ride-hailing service in an unorthodox vehicle ..."
-    publishedDateTime: 2020-01-20T20:24:00Z
-    sourceUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/
-    ampUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
+    publishedDateTime: 2020-01-20T10:53:00Z
+    sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
+    ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
     type: article
     provider:
-      name: WRBL
-      domain: wrbl.com
+      name: abc27.com
+      domain: abc27.com
     quality: 59
     images:
-      - url: https://www.wrbl.com/wp-content/uploads/sites/24/2020/01/Google-CEO-Sundar-Pichai-Jan-20-2020-in-Brussels-AP-Photo-Virginia-Mayo.jpeg?w=1000&h=666&crop=1&resize=1280,720
+      - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
         width: 1280
         height: 720
   - title: "AI Is Promising but Needs Regulation, Says Alphabet CEO"
@@ -503,17 +488,6 @@ related:
       - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/23/125592-pichai.jpg
         width: 918
         height: 506
-  - title: "Sundar Pichai backs temporary ban on facial-recognition, Microsoft disagrees"
-    excerpt: "The EU’s proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban was ..."
-    publishedDateTime: 2020-01-21T03:18:00Z
-    sourceUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/
-    ampUrl: https://www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sundar-pichai-backs-temporary-ban-on-facial-recognition-microsoft-disagrees/1829873/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 36
   - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
     excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
     publishedDateTime: 2020-01-21T01:58:00Z
@@ -525,15 +499,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 33
-  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
-    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
-    publishedDateTime: 2020-01-21T04:43:00Z
-    sourceUrl: https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
 
 secured: "xdonM4zt40WwAoTiEq0udV6tgCwkTCoUJsuBIpRSXKPCcYHkdbNyFruhEGpIhHEMRMXC5Hb698zV4aM/9EcmnqwX683HPvAW+Xp5eNVbEzvCpuUT2oQ1SaRy4f8kfKGNNs1SjZNGFl55E5vQOcF8WwSF495fRgFw0T3deiMCbaaQAKrpGfcrSR3FmXnc5+PGzRkUKmo+4Ir6yle55AtpXPcvHVhnBjS1diPRz7u2yqOx4xu4gzGJH4gPtIErPW7LhJZNVzFaSRdD9vJBmgMKh2p6pN5KOMJRd/1S0wxJab4=;5JuMzoGQKO7dbB8OmxCQZQ=="
 ---

@@ -41,21 +41,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/Phenom-People-Front-Lobby.jpg?fit=2544%2C1227&strip=all
         width: 2544
         height: 1227
-  - title: "LumApps raises $70 million to fuel development of AI for its workplace collaboration platform"
-    excerpt: "LumApps has raised a $70 million round of venture capital as the Paris-based startup seeks to bring more AI and machine learning capabilities to its workplace collaboration platform. The company’s Social Intranet service is deployed internally by companies with the goal of connecting employees so they can share information and communicate ..."
-    publishedDateTime: 2020-01-22T05:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/
-    ampUrl: https://venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/lumapps-raises-70-million-fuel-development-ai-workplace-collaboration-platform/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/awesometable-e1579626289453.png?fit=1200%2C649&strip=all
-        width: 1200
-        height: 649
 
 secured: "SnwuVAb4BuYH1sJp/tRpnI9OYXSQJSZDjHGSU8HkFwkQvXXAw6/Kqmc+BX0XuP3pySZgHmHfvuJ5eZGQxGG24mpEsm4KUo7/Aql7iTtnutnCDxYfX52afosXNpWdblWg9HScs/rpkraBRWPlIsphvH4mOA6mbnupe0xL5KPwgNjlSP56ssCd4Re7Pc7Vd0QepAPsxUXsS1dgXaKcbs+ouYgkSSg3btJsdnRNZ8oPXOBUXVj3VDNP6T9Rc8H3cNGGRh/h8PWfbU5XArclvC+94FycW3hjAndOtXjK+lExgSBOveTtV6opH7tQVx+TblBa6wEJZUOFSQWlEUg6PilfX8zNiW27RPxij7+UlKbUb1mXZboxvmC3GNtpp0AQP7YDMv/Ams9wUrAkwgETHz7tVrA7rxIHtWwoTYBA/JjBZbDZrFvQ0i3vtnDaHHOJLPtQS7bZBqMK9WcBN2ArEhKk3w==;a/sk21fxlmmwoxvE0GRfDw=="
 ---

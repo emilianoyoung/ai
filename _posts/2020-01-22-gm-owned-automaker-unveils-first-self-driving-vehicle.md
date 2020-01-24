@@ -54,6 +54,15 @@ related:
       - url: https://www.breakingviews.com/wp-content/uploads/2020/01/GM-cruise-origin-scaled.jpg
         width: 2560
         height: 1706
+  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
+    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
+    publishedDateTime: 2020-01-24T17:57:00Z
+    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 34
   - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars"
     excerpt: "The Origin is the fifth-generation Cruise vehicle, is production ready, and could form the basis of a shared-mobility service."
     publishedDateTime: 2020-01-22T05:38:00Z
@@ -91,6 +100,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 10
+  - title: "Link Tank: GM Startup Cruise Announces Self-Driving Vehicle"
+    excerpt: "Cruise, a startup acquired by General Motors, has announced a new self-driving vehicle that's unlike any car we've seen. \"This week, Cruise, the autonomous driving startup acquired by General Motors, announced its Origin, a self-driving vehicle that purports to be what comes next after the car. The Origin looks a bit like a large metal box on ..."
+    publishedDateTime: 2020-01-24T17:06:00Z
+    sourceUrl: https://www.denofgeek.com/us/culture/285529/link-tank-gm-startup-cruise-announces-self-driving-vehicle
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 4
 
 secured: "az8LhXR8wm5KzlWljGx3PcfHve7HfJCrNUIf+OE6RMBDhCsqYMGzlHKXcmAjBZgBFU7QkK8AaNzGw6nVcNe53FumwSskM4gM+mDniWbnVw846gsklQ4es+5qbkmT7QIxBwTZNL/3VmEhSGqY/ZcblD364DKVBep8Bp722oOBx1ek02L52i6+PcojWg9KNwjzD80ToYfnu1IIrwAtPMWviQhvf9mfyyVg4TkjEVQhluHR3eNotn2anJVeje5PaNkO8Ypk2kxgPWTT6Zp3CUxj+9oSbcyU9Y2EXJKY7jxrYP5dq9PECkOagdYduFAuxChdZ1NnsFD6sYGJ/SnFJuLBQuaLnGPkpiYowDWuZorsqe81WLbhOL91PieC+f3yVFoAnXQglh0tIWKtEW6y64jPz+QARC8Kh16Cl7o8ZSCBsKOoJKgmN4fcni8n947G7MOIZR7GZMSmdu5SErD0zEj8pA==;jXcjtP9AoDfmn5scVgIyyw=="
 ---

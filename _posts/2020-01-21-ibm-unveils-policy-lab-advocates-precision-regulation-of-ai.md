@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-prec
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI"
 
 related:
+  - title: "IBM spearheading AI regulation and ethics debate at Davos"
+    excerpt: "IBM also suggests that companies appoint chief AI ethics officials, carry out assessments to determine how much harm an AI system may pose, and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ..."
+    publishedDateTime: 2020-01-21T13:19:00Z
+    sourceUrl: https://www.businesslive.co.za/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/
+    ampUrl: https://www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/
+    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: https://lh3.googleusercontent.com/jDCyDuJDTIlYc8w2p3497rWrABJ42N0xyjTuW-w7wX4jzNQfMRfjVN0NoRucfSfjCoGVTzbEz6NzKPJvz5nUjCCQivQq8oCT=s1000
+        width: 1000
+        height: 666
   - title: "IBM proposes AI rules to ease bias concerns"
     excerpt: "IBM also suggests that companies appoint chief AI ethics executives, carry out assessments to determine how much harm an AI system may pose and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ..."
     publishedDateTime: 2020-01-22T04:53:00Z

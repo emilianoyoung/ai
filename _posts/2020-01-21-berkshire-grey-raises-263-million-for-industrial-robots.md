@@ -45,21 +45,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/SoftRobotics_Eggs-e1579543568131.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "AISense raises $10 million for AI transcription tool Otter"
-    excerpt: "And a word cloud at the top of each recording tracks the most-used terms. Otter competes with Microsoft’s Microsoft 365, which can host live events with AI-powered features such as facial recognition of attendees and autonomous speech-to-text conversion, as well as comparable meeting transcription tools from Cisco and startups Voicera ..."
-    publishedDateTime: 2020-01-24T02:25:00Z
-    sourceUrl: https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/
-    ampUrl: https://venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/aisense-raises-10-million-for-ai-transcription-tool-otter/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?fit=1200%2C763&strip=all
-        width: 1200
-        height: 763
 
 secured: "F5DGevR8ACjtd1Eb9ShJDoq0aaWeTbPUx74yB5dbuucojgPA0+P9DxIxKr2MAatiBFtp+Ai2nE9e65xsmEufGwJfK9mAgYIa43dcRdWOu/QoImqC10YfLwppnwUQM66NQEPDkBm12j838mjoz7OOW2yTgQLDdtRvNrR5L3hvycG2EsrYqdibQFon65ErRkMYzJYkxxsrutr0N1ffCKWGVLN4MG1zPQLTz4y7nm9GCehrrN41/Y2JRxGazAKtnUyr+itJiTw1hT3nDH99vLZouoKBn1qtA3/TnfMr1qs8/pzuEXWGutLsx1uWY5GqgEZQtOVsjRat+hsLw17Y3/uqUyuZFyAjVn3UxnIlU3CN1KtctQZ7RBbsYvGY7MxfLZTCMyy0dYi3n76AHjYi042N/CsVpzAc5Z6ZN+jgJmLzznIztVamFrtac4gf1W9D1bNOw6hML+IJSaezXz/3YufdGw==;DBx6CcloScX76YmD5Di8MQ=="
 ---

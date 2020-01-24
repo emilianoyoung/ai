@@ -62,18 +62,14 @@ related:
         width: 1024
         height: 803
   - title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
-    excerpt: "What cloud, AI and machine learning enable is the ability to make every experience unique to each individual ... Our customers are really excited about this combination of Genesys and Azure. They can simplify their maintenance, reduce costs and streamline the buying process. We believe in the advantages of moving to cloud, and obviously ..."
+    excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
     publishedDateTime: 2020-01-23T15:21:00Z
-    sourceUrl: https://news.microsoft.com/en-my/2020/01/24/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
+    sourceUrl: https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 50
-    images:
-      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/01/12-Body-Barry1-1024x461.jpg
-        width: 1024
-        height: 461
+    quality: 30
 
 secured: "t5bKsfopjJC2zOBoy6MF5QUol62/5SHX0kL9/wePVIJB+H/j0EaAMgogSa628kURUuzfExrlocKB+TnjuIjfSKErTLaLqFNMfyWaFNB9K+NIB5vET7ZIdA+sGM6ccTs2chMTvCvpukYCnlwQZ4YeM2c6jep6pyeJ2+dZHe9jIEKu/pVMxbsE3SJORruS7Gtp3TTs8JVU75oJ8vxHEcAwlOEmXALzAZSGTUEQV2tcHqj5XWUbn5uf9vT6FqfA/pYBqyRrcBrmSzEzeEpyfRvdVmqDI1G95ufkf6QlXVvQj2g=;Q/a8wTkaSi7XL5rwfyrT7g=="
 ---

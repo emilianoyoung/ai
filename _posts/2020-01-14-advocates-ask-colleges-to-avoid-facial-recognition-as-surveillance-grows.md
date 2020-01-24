@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-14T21:24:00Z
 sourceUrl: https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/
 type: article
 quality: 168
-heat: 308
+heat: 358
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
     quality: 94
     images:
       - url: https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Congress moves toward facial recognition regulation"
+    excerpt: "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ..."
+    publishedDateTime: 2020-01-15T19:27:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/
+    ampUrl: https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all
         width: 1200
         height: 600
   - title: "The top facial recognition cameras of 2020"
@@ -86,6 +101,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
+  - title: "Supreme Court declines to hear Facebook facial recognition case"
+    excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
+    publishedDateTime: 2020-01-21T15:55:00Z
+    sourceUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case
+    ampUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: https://thehill.com/sites/default/files/facebooklogo_112819getty.jpg
+        width: 980
+        height: 551
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -99,6 +129,32 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facial-recognition-college.jpg
         width: 1280
         height: 720
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
+  - title: "Activists: Facial Recognition on College Campuses Decreases Security"
+    excerpt: "Digital rights group Fight for the Future is collaborating with Students for Sensible Drug Policy to launch a nationwide effort to ban facial recognition technology from university campuses across the United States. The two groups jointly announced Tuesday ..."
+    publishedDateTime: 2020-01-16T22:39:00Z
+    sourceUrl: https://www.campussafetymagazine.com/university/facial-recognition-college-campuses/
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: https://www.campussafetymagazine.com/wp-content/uploads/2020/01/facial-recognition.jpg
+        width: 1000
+        height: 500
   - title: "2019 Proved We Can Stop Face Recognition Surveillance"
     excerpt: "This piece originally appeared on Fast Company. In 2019, we proved face recognition surveillance isn’t inevitable. Now, it’s time for Congress to rein in the technology once and for all. Even the private sector demonstrated it had a responsibility to act in the face of the growing threat of face surveillance. Axon, the country’s largest ..."
     publishedDateTime: 2020-01-17T18:26:00Z
@@ -112,6 +168,19 @@ related:
       - url: https://www.aclu.org/news/images/share/default_fb_share.png
         width: 1200
         height: 630
+  - title: "EU suggests temporary ban on facial recognition"
+    excerpt: "EU states should consider banning facial-recognition technology from public places for the next five years to give governments a chance to assess risks of abuse, the European Commission said in a proposal, Reuters reports. The ban would exempt security services and research projects. EU states should also create special authorities to monitor ..."
+    publishedDateTime: 2020-01-17T06:31:00Z
+    sourceUrl: https://euobserver.com/tickers/147180
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 39
+    images:
+      - url: https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg
+        width: 480
+        height: 270
   - title: "Holocaust victims' fates could be revealed with facial recognition"
     excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
     publishedDateTime: 2020-01-21T11:36:00Z

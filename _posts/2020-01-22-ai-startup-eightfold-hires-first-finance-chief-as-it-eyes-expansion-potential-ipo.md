@@ -8,8 +8,8 @@ ampUrl: https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-financ
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520
 type: article
 quality: 81
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -39,7 +39,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 81
+    quality: 181
     images:
       - url: https://images.wsj.net/im-146435/social
         width: 1280

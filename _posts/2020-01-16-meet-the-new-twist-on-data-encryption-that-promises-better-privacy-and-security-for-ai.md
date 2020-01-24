@@ -46,12 +46,12 @@ related:
         height: 800
   - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
     excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-    publishedDateTime: 2020-01-19T20:50:00Z
-    sourceUrl: https://www.mcall.com/news/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+    publishedDateTime: 2020-01-19T03:21:00Z
+    sourceUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 16
 
 secured: "SH/7+x3LgmZ88gDcNcMRPFkhBwGLAU2oy/uJ443cDqbX3auU/xl4rACOsgpXuirHlt67b7ApJ6cHBIzaGZDAV3MwVcFmz+ZiWsOlPHuBmnSSw+g+6p/nnyv31ViT+oxFZ76SN63osgMCglmPMBnWyH3UOqEImbrqMKKQxjbqM2rbQFUjHWkDrawfpx/e2YkDh242shUchnUaCd9YC9cMiTH68zc6aPhawwZ76qPFiMPRK6I+bmWdx9zivIpKc6tKtFyKceyreq44J9J6RCCG2i4/z2lPwmXzrzz4we+zxBJV4je5Grpj9NeZHWhvUvpCC38FkcNqXxrhMwkiAMNVLXy6ndPYvfxo3f2hJAF3LEP4rcLZ9bIACVZ0jkpi3cLlEpjz7QvPo3OWo2pSF9gKSsntVzYZCoMcZw2cEP9zWRQDhlvGWGKOj/zCsQ/mY1fPZatm7mPPgbwEGIv+LUEf0A==;QFS8K6QNhcQONiW5/P6nhQ=="

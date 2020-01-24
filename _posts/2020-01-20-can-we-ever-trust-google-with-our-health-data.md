@@ -26,6 +26,21 @@ images:
     title: "Can we ever trust Google with our health data?"
 
 related:
+  - title: "Google says it can save lives, but can we ever trust it with our health data?"
+    excerpt: "One task is to combine artificial intelligence teams working on health at Google Brain and DeepMind with those working on smart devices for health at its Nest division. But just as Dr. Feinberg started work on his first project — a search engine for electronic medical records — a scandal erupted after the Wall Street Journal reported in ..."
+    publishedDateTime: 2020-01-24T21:19:00Z
+    sourceUrl: https://business.financialpost.com/financial-times/google-says-it-can-save-lives-but-can-we-ever-trust-it-with-our-health-data
+    ampUrl: https://business.financialpost.com/financial-times/google-says-it-can-save-lives-but-can-we-ever-trust-it-with-our-health-data/amp
+    cdnAmpUrl: https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/financial-times/google-says-it-can-save-lives-but-can-we-ever-trust-it-with-our-health-data/amp
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 41
+    images:
+      - url: https://financialpostcom.files.wordpress.com/2020/01/google-1.jpg
+        width: 1000
+        height: 750
   - title: "Google Health has the data, but can it gain patients’ trust?"
     excerpt: "Just a year into his new role, Google Health Vice President Dr. David Feinberg has a lot on his plate. The former Geisinger Health CEO must manage the tech giant’s multitude of health projects, from imaging work using Google’s DeepMind AI, to prioritizing accurate medical information over quackery in search results, to providing cloud ..."
     publishedDateTime: 2020-01-15T18:39:00Z

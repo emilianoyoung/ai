@@ -7,9 +7,9 @@ sourceUrl: https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance
 ampUrl: https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520
 cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520
 type: article
-quality: 81
-heat: -1
-published: false
+quality: 181
+heat: 191
+published: true
 
 provider:
   name: Wall Street Journal
@@ -45,6 +45,6 @@ related:
         width: 620
         height: 413
 
-secured: "YSnsDAWqrxtUBNOltsVtzXXIUtI1e2I0bX70iRMclVsRwtrsf0V+eMDAoHQR/a7lyDG0DPLzIQnEPsnLveVsjLcjnOSz/RPtMcWgh6O4BLv7YqRIDgEbff8DrdGSpyiaRhuwllH0hKActICx9z041F7MvaVwlu3+3alISUg7imyv7w/l13V8pOM7Y5wwVq1hmtdTpJNjfdAM5x8VSfoouYqBAWwWnCOKDX8+gewuFsWj8gICXU9xqCeCr+IXRR0cN9TNVY0qs9bTm90/2DMu+kg2Vy88yIpniM+iMrjjt8yLjQdpGjQ1SX6MSWkJQUNLV1v+UhQmY4m0WNhnjry9wHvBM8PJlPpqxWfsM0vMLxhZvtt4OoLzyM6FxBkV8/gDbXkQ212MpwY3oOKDjM2hzrVksraoFn0mvGnl3RgczEQiZxEA0aN+r2cSauBwaiR6es8y979PuCzuPpllcajEmc16lXUuZbre2mBjiortL0c=;y1TOOpHSCc6TDX6y0y8xwA=="
+secured: "Z8Cx0Y0bN3JFjnHE8pa1Ak3iooe+0scsgAg792i5Zo6vtCHCr+oIdRlQOxYWsMXahG0TCmi0s3VZhDb7DShaORrpDFFHz/1NngK7kwMz1dFNurjbtFi8/4Rz2zBGZ/i/XAsqM9pcW/rgDqdU+AMGqwU2WC3ILoGu/zCTd5j/Xjkox/rZd2bHPF0hoSwq1G5gzr1AP2oH0I0G0xidvgkcYtQrsySuQKpm23O+H9u1kWTk3YAT892EqiWHzrX9H+TY4SuEfA0uwmiKdP5qZkPq6au5WwzvJXh8c9QZJeSQdNqVReebh/l3JPVyMpGt7Djg+yb98KyYmNazArkvCjwBqd9IcCMyuT0o/r9NJKMWTWc7/747hd2iBdC5NbLMmTuOALSCf0lYqWiNP6pb0o7WQql+UFVoyDcCpLqaYedE8pC4E/7HxSai+zitTqbFF8eg7i8AtZlLpqHrf6S/PCXbIT+JiZU9Fe6UdAdbJIhqM60/MOisYhPzaAXMfhNxuqjs;sQgSNn8Tr1B730H1N9Z/XQ=="
 ---
 

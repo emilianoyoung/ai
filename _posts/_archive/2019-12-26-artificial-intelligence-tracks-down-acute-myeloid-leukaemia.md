@@ -4,10 +4,8 @@ title: "Artificial intelligence tracks down acute myeloid leukaemia"
 excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
 publishedDateTime: 2019-12-26T12:48:00Z
 sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -21,21 +19,21 @@ topics:
 
 related:
   - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ..."
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
     publishedDateTime: 2019-12-26T11:12:00Z
-    sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
     type: article
     provider:
-      name: The Asian Age
-      domain: asianage.com
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
     quality: 59
     images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
         width: 800
         height: 448
 
-secured: "zwPMXSyS5AK0u7ggWMz7N3OvWbYcilqvyw1/ACrbfsq2GDicZwEF8Me8umpbwu8HJMFJW+ld8dOiXKS6s7rJXA34Ey8BYdzUqX7PMnJjm14U2RYaFodbHJm3RMbO2cADypr0J5Bmy2sCQZXsSCMlyTvMjGpJ4rnQKi4Xp1R03IlvbA9r0WKrY667XXzF9PXU1smFLKZQBf2VSyckbHDEaYwB47zKIfTjLWpyezyoLAdQNdYxBNDsqwfZLKi84yashvxZpgx7HGWuuxEHzq2mwANAxv5uS/7HCOysS7HvL5ib78oFya4m/V3ja93DXr+e;+Gaxnz7gHw76aCsobrRRJA=="
+secured: "nRnr30GyHsiPRa3e5zFFUAhHsi34Zla28iqQzK6zRxMZeIYW4wFyWQPadVNS1WPjOkOX87mWxQrL1uKviqcPPbR9q6V3Up6TiK1qbOM1IjdNb/yZmhGSpLbdLctUmYTksqLkH9NxqwhziB+QCR12XFLKaFxOTScx8xNebxu6yTtpMfT4Mno6EMCm4X6+Ab4dpH6PbXNnuY+al67jC8metHjXiLXKROo18plsITgIYHCDndydj360jrbm9i4s1x2LNO22bNZ8gvtfJK3FM1Rpvu9cdjT25SvJQp0l/2BY3Qx1SHYqcTjhihM6UWkJzxfv;CjPWbxDZujC7eYEMd0/CTw=="
 ---
 

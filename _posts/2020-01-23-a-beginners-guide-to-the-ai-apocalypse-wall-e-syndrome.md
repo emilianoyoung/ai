@@ -5,8 +5,8 @@ excerpt: "Without our current AI – Google Search and Amazon Alexa, and so on �
 publishedDateTime: 2020-01-23T21:51:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/23/a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome/
 type: article
-quality: 67
-heat: 68
+quality: 167
+heat: 168
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 365
     title: "A beginner’s guide to the AI apocalypse: Wall-E syndrome"
 
-secured: "ZiAqwcrjOvHEYdWQPQlFvmD/FdrJL5IBKo0zUdpK9yHiB9iDNkvfcx2IB4V3gwsegPViHUxS76FIAG7u1+MTbHW0HqldnB/xMMLDudSe/DFchlL6wBiNjneEh0EmEo6/Jt/maj+XIrmHhgQD6JM6YGjqqcBpboZ9t8PhmF4a4Vwc0LE/8yybnQDoiPpnO+XZaZvrjhyCbupEf4+KVvlCcDQJAc95Y6m8X5sE7LRvfPO/r7ahYQhqXb7xZRiQk04wAUL1RB7M5U2UrO6TiZ8FIA0FEED0bu4UI5Da8XRlmdPZcUwgUdATSprzPTE0ZQOb;thwujC3CKw+2jS8APbigxw=="
+secured: "4u8jPGqYLZMFRDhHwbT4fF5u8lcDM7MfeGoREPeopAQ6304QBS0MplUFSR/YZcf3Q9x5h1yX4yzEm+uCMeirz0URnombplncRpn7jB+ZbMRV3UndB9Z3oW1bZmSMfGgjFkE6P5PA0+cJiLuIK2EIqJMZZRI8nE5CagRrQhpqRIOvhjcgfqkwaHxYNQjhWhKt2DWK9rRY6NQcZ2hy7VWyaOr0LdXzpX2G9VmHRIgwj834NoF5AkXc0DfsmgWxM1X8OnPBcRV9uF124AO5JnRPOG2T3rJC/cTQhWmzS0iCMIPVoHFw77uHGFHIhmJUnqyCSWRnN1BQaPQ9ID6iByZQzg==;Im4Nvfhw6z433cLRS90y7g=="
 ---
 

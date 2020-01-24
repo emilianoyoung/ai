@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverle
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look
 type: article
 quality: 183
-heat: 273
+heat: 283
 published: true
 
 provider:
@@ -155,6 +155,15 @@ related:
       name: Motor Trend
       domain: motortrend.com
     quality: 18
+  - title: "GM and Honda unveil self-driving car with no steering wheel or pedals"
+    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel,"
+    publishedDateTime: 2020-01-24T14:50:00Z
+    sourceUrl: https://fox2now.com/2020/01/24/gm-and-honda-unveil-self-driving-car-with-no-steering-wheel-or-pedals/
+    type: article
+    provider:
+      name: Fox2Now St. Louis
+      domain: fox2now.com
+    quality: 4
 
 secured: "ge4z/j1v+ioJuT5nZ15249XIf7IPhfJObHxRD/+JyBdtHQLWx3701rXSqpTxZKK81sVYW1zB0Fp3Uy8JDfUjd4flPqzhgHs74uMc//WF/6BO0nUyUrgBwIzWSfzk557gWRbBbsfylngD/JaKPgjWF2satf2n7RecU3zzLh0FzVZ3AIEQxsZze1Tu2ZyhqY+8fBW+8qFvonUTAcs3edHOMGL7OrjsPmzkOenvAyCU+DpnmkPj2HvFC5kO1uA5GZaA8wJMH9g58Ok6kjB7Hg/6UUOCrQJ9X5WTUxGXtodSEdj5p7qVoFz2TL2oOmSMPxcyJ/ELeVNmEzpZuH/XXChATyBlXblL5Yp6ni7sJPPw38LNEN7N55ITxakffYkn4FiKdxhse/AE84gW6I7SXMwYIxOAkuYI4NzNR8JMQAu6sIqbdSh+RPnBQD3/HpkEVUsdKYz1cWSYiekvHk17ByrmtaYWaRx89lFvX0KxJjfF8Qirtn/93ip7FS7LhuVKKfzK;6no0GSOv8FWhnSYFyf8f4w=="
 ---

@@ -1,22 +1,23 @@
 ---
 category: news
 title: "Tech CEOs in Davos dodge issues by warning audiences about AI"
-excerpt: "It's an easy argument to make. Letting companies dictate their own ethics around AI has led to employee protests. Google notably decided to withdraw from Project Maven, a secret government program that used the technology to analyze images from military drones, in 2018 after a backlash. Researchers agree. \"We should not put companies in a ..."
-publishedDateTime: 2020-01-24T16:27:00Z
-sourceUrl: https://www.sfchronicle.com/business/article/Tech-CEOs-in-Davos-dodge-issues-by-warning-15001382.php
+excerpt: "In July, Facebook agreed to pay US regulators US$5 billion to resolve the Cambridge Analytica ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence ..."
+publishedDateTime: 2020-01-24T20:52:00Z
+sourceUrl: https://www.scmp.com/tech/big-tech/article/3047592/tech-ceos-davos-dodge-issues-warning-audiences-about-ai
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
+  - Facebook AI
   - AI Ethics
 
-secured: "ALh0qUNwvA3ez1HSev6CB0V+oLOTCEKjyj1Q7DQrqhwRLFXUaAXYyoYq1YxuTYpnQM7Vn+0J9ttPxvleYEkZHVDzMqOqdjGfSUQ9qtEvgfWoqNFCIVLi+ODUOUt0z2a3B3Va6Mk9PuClf7o/E6yWC+oLd3AU887UJTUh0ZdhRe/8USJxNMFbZmnlhis87x9HRUK4vKWA/aXBC3H5Y/u3nOHFIw/6Ml1pAZLL/tDoStAA9WTfXxNBPv79/Jh/yzhrXES/olrYgliTeEt3hiZ8jKj3mq3Jt5cT8Z8p0+WErgTBe+iNgQxVbYBZE8OW3CQx;V/Gq9wqjJCfa6I+cj57vZg=="
+secured: "0wFdLqDI8QjSxtn9BwhOsq/dXGZKdFGt6VUSQQcoxLvB/roKiKQSNfI3GKxjAum0XhH6YbltDaCQrQsjlkaW3Jss/7Cr/4W/pRzdL1c69h6+XNa2w8nfZX2kR/oY5hLNKG/csXpz1zSfZzL13TZNTbXXZaWxN8QsyVM0hoSSoK0fW1qJraigarJff13iAtSHWAuEhocgusSqigFbBkhX26N8a2zr4KfCNiScnd6RH2mPp4ToYXRwQgEpoc9uh4t6QFTGf+X8zn5GnuCzAl9J0IKpctnX5DGOGQURbT7W+GBo93z+tg9Cp04uwNsqwFY0267Wfl0aUSdp6VV0h2uuYO72c+svfHU2YnoFZ6TzEeJJTIE5fxeECFmkyQRcGMOPnq20648IAZcLYGjk7zqlFhkT+OER7PkEnbn0A40N4A/4QRrxfVmf2xZVzRC/c+FZT1+dEJSPSpxOSzlOSXqIhC5alRO1qHaC6o4I3U/Kz18=;WbSMbEJfXZbdHKUIwJ3uMw=="
 ---
 

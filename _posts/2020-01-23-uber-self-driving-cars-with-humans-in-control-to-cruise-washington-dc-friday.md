@@ -474,6 +474,15 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 800
+  - title: "Uber's self-driving vehicles are coming to Washington, DC"
+    excerpt: "Why it matters: Waymo isn't the only company that wants to move the world toward a self-driving future. Uber is pushing for a similar goal, albeit at a slower, more deliberate pace following some past controversies involving its autonomous car tech. Regardless, the company is hitting another major milestone today: its fleet of self-driving ..."
+    publishedDateTime: 2020-01-24T12:28:00Z
+    sourceUrl: https://www.techspot.com/news/83694-uber-self-driving-vehicles-coming-washington-dc.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 34
   - title: "In case you thought the self-driving startup Cruise was just about navigating cities, think again. The company is preparing to take on highways, too."
     excerpt: "Cofounder and CTO Kyle Vogt said that the company has technology that could allow for highway operation"
     publishedDateTime: 2020-01-23T17:20:00Z
@@ -594,6 +603,15 @@ related:
       name: ABC
       domain: go.com
     quality: 4
+  - title: "Uber self-driving cars, with humans in control, to cruise Washington"
+    excerpt: "WASHINGTON -- Uber Technologies Inc. will put self-driving vehicles on Washington roads Friday with human drivers in control, the ride-hailing company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles. Uber is collecting similar road data to support development of self-driving in Dallas ..."
+    publishedDateTime: 2020-01-24T11:37:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/uber-self-driving-cars-humans-control-cruise-washington
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 4
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
     excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
     publishedDateTime: 2020-01-22T16:45:00Z
@@ -604,6 +622,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "QpfkUHrd9jgmoeSewiA+htK2stpdkoD3oLuoDAQ5maPBntKkR6eBxB/PDQfoSXD3KjO/YzdiCgHhOX91yS54IXl3G1Z0ZoP8KaNiZyOuKxxdyQvIH4cvgWnzDhhBVM1BDOimNNfKedNKu0UY15o60TWSQXgBydc43/PpmfLV8lvlvaikYAdL4HSdM+8Q9HldYULvMcI845zIM/2SGI35QIXI9N5fQJvuKnUQxzfU07znByCZnP41mce5yNeBl1nEnc/058ixqK0hcmNhw+sHRcWWhKeXq0j4uDM1k5WZUv7ukFByiPVSbmLSsUWJVnLqGJa8Qjq2Y2g3bE85k2lCf3IMWAOIK6iW6TJiHjN/6oMS2wUou7vkoM0aBZJVp3L0/yYU+kE1N9GhVZOSP9IZXFBDvUlUVhioLMnCqWsShxoA+5aEI6ZcYOG/hr36LI+m2p33XX1T6W97BMIBeecNKSrmCc2QBfktZ0aU37KrbBg=;vuq+cWs6G7Hoq2m0iuozkg=="
+secured: "DDBLhNtVBFJYrCA3hYTdGCLh8BhFs9OtWvvDJ5g8Q/ctG/PzUMuX4cc4MOsi21dc+vFy/yDCl11pCAxN0O9LI0LrvDIVRf4FNoXMIzFwk82zXQXLvDzbhZVHOcDNLseVTFFnTD3SafzPCnkcljXLHXNkd4Fm5WWSKUYjh8TcTypUfCHIyo/HmV8zRLZ6f+bTNIstnKFn8N7QRw3yVFgBptzarTcf3nsuCO3UcbhAlUvaNdtJbDqAasAJ3r0eOVQKKd2YqN8kWzke39g4CB5MQ7QovfPgWYdfKDVAW4Igst/B7JgYDA3V5EvyYw3NsD2sxJ8tn5XJTjTLKsMfodCc6htyTOkwF88ihbGoYOcEIqr1ZcDMCPWQ+Ne3LxDTmDWsInFOZIaTO1HwN1I3wflXrTOG3fk3iOQWBUD1z3/njcsw0ZEXkcEBsJ+45lHnTjvGli7+0AE/9+s13H7LnrFyd/x4GFJtiUmBJY55TzFiJf0=;pe+U6fao7tJd1z49kJh45w=="
 ---
 

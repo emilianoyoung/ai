@@ -26,216 +26,227 @@ images:
     title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
 
 related:
-  - title: "Dem senator presses facial recognition company after reports of law enforcement collaboration"
-    excerpt: "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement."
-    publishedDateTime: 2020-01-23T16:54:00Z
-    sourceUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law
-    ampUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
+  - title: "London Police to Deploy Facial Recognition Cameras Despite Privacy Concerns and Evidence of High Failure Rate"
+    excerpt: "Police in London are moving ahead with a deploying a facial recognition camera system despite privacy concerns and evidence that the technology is riddled with false positives. The Metropolitan Police, the U.K.’s biggest police department with jurisdiction over most of London, announced Friday it would begin rolling out new “live facial ..."
+    publishedDateTime: 2020-01-24T16:35:00Z
+    sourceUrl: https://time.com/5770976/london-facial-recognition-police/
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 148
+      name: Time
+      domain: time.com
+    quality: 165
     images:
-      - url: https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg
-        width: 980
-        height: 551
-  - title: "Twitter demands AI company stops using its images to fuel facial recognition"
-    excerpt: "Twitter had demanded that an AI company stops taking images from its website to be used with facial recognition software, and deletes the images it has collected thus far. Clearview recived a cease and desist letter from Twitter, after it emerged it has harvested more than three billion photographs from sites such as Twitter and Facebook ..."
-    publishedDateTime: 2020-01-24T11:58:00Z
-    sourceUrl: https://www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel
-    ampUrl: https://www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel?amp
-    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel?amp
+      - url: https://api.time.com/wp-content/uploads/2020/01/london-cctv.jpg
+        width: 1024
+        height: 683
+  - title: "Facial recognition to be rolled out in London amid privacy concerns"
+    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
+    publishedDateTime: 2020-01-24T12:51:00Z
+    sourceUrl: https://mashable.com/article/live-facial-recognition-london/
+    ampUrl: https://mashable.com/article/live-facial-recognition-london.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/live-facial-recognition-london.amp
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 101
-    images:
-      - url: https://media.itpro.co.uk/image/upload/v1579864686/FacialRecognitionApp.jpg
-        width: 4707
-        height: 3138
-  - title: "The European Union considering temporary facial recognition ban"
-    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
-    publishedDateTime: 2020-01-19T16:40:00Z
-    sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
+      name: Mashable
+      domain: mashable.com
     quality: 89
     images:
-      - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
-        width: 800
-        height: 560
-  - title: "Law enforcement is using a facial recognition app with huge privacy issues"
-    excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
-    publishedDateTime: 2020-01-18T19:45:00Z
-    sourceUrl: https://www.engadget.com/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    ampUrl: https://www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/18/law-enforcement-using-clearwater-ai-facial-recognition/
+      - url: https://mondrian.mashable.com/2020%252F01%252F24%252F32%252F24514062c79b4e99813b05f461a715ab.0ae06.jpg%252F1200x630.jpg?signature=o9ainWP9-9NbdcBxB-ZiRttGoEc=
+        width: 1200
+        height: 630
+  - title: "London Police Amp Up Surveillance With Real-Time Facial Recognition"
+    excerpt: "The city, stepping into a debate over privacy, says it will use the technology “to tackle serious crime.” LONDON — London’s police department said on Friday that it would begin using facial recognition technology in the city to identify people off the street in real time with video cameras,"
+    publishedDateTime: 2020-01-24T14:57:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.html
+    ampUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
     images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7585%252C5057%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F3fe5fee0-3a25-11ea-9f5c-62a507b51706%26client%3Da1acac3e1b3290917d92%26signature%3D06b41daff2bae14dffdd3f3004c65fa68ab47526&client=amp-blogside-v2&signature=eb88ae2aadb15c1f72404bd401897e046b9cb439
-        width: 600
-        height: 350
-  - title: "Clearview AI Says Its Facial Recognition Software Identified A Terrorism Suspect. The Cops Say That's Not True."
-    excerpt: "But there are troubling questions about its past. By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 23, 2020, at 8:19 a.m. ET Clearview AI, a facial recognition company that says it’s amassed a database of billions of photos, has a fantastic selling point it offers up to police departments nationwide: It cracked a case of ..."
-    publishedDateTime: 2020-01-23T13:28:00Z
-    sourceUrl: https://www.buzzfeednews.com/article/ryanmac/clearview-ai-nypd-facial-recognition
-    ampUrl: https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition
-    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition
+      - url: https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg
+        width: 1050
+        height: 549
+  - title: "London police deploy real-time facial recognition cameras"
+    excerpt: "(Reuters) — British police are to start operational use of live facial recognition cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog. “The use of live facial recognition technology will be intelligence-led and deployed to specific locations in London ..."
+    publishedDateTime: 2020-01-24T14:40:00Z
+    sourceUrl: https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/
+    ampUrl: https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 86
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: https://img.buzzfeed.com/buzzfeed-static/static/2020-01/22/19/asset/933f4b4c5e00/sub-buzz-1614-1579719794-12.png?output-quality=auto&output-format=auto&downsize=640:*
-        width: 640
-        height: 341
-  - title: "A facial recognition company dug up billions of photos from Facebook and beyond"
-    excerpt: "A Facebook photo from the end of college could come back to haunt you. A New York Times deep-dive into a facial recognition AI tool sold to law enforcement agencies uncovered that the company has amassed more than three billion images. Those images are scraped from all corners of the internet from social media sites to companies' \"About Us\" pages."
-    publishedDateTime: 2020-01-18T21:39:00Z
-    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt/
-    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-nyt.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-nyt.amp
+      - url: https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1074319518-e1579876576621.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "London police to deploy facial recognition cameras across the city"
+    excerpt: "Live facial recognition cameras will be deployed across London, with the city’s Metropolitan Police announcing today that the technology has moved past the trial stage and is ready to be permanently integrated into everyday policing. The cameras will be ..."
+    publishedDateTime: 2020-01-24T12:57:00Z
+    sourceUrl: https://www.theverge.com/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/7pxwMUlds7-o0Q6HyWeu1-EN94c=/0x0:6720x4480/1400x933/filters:focal(2823x1703:3897x2777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66159634/1161938926.jpg.0.jpg
+        width: 1400
+        height: 933
+  - title: "Police To Deploy Live Facial Recognition On London Streets"
+    excerpt: "To the horror of civil liberties campaigners, London's Metropolitan Police has announced plans to use live facial recognition cameras in the capital. The cameras will be used 'at locations where intelligence suggests we are most likely to locate serious offenders',"
+    publishedDateTime: 2020-01-24T13:56:00Z
+    sourceUrl: https://www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/
+    ampUrl: https://www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/01/24/police-to-deploy-live-facial-recognition-on-london-streets/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1074319514%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4681%26cropY1%3D279%26cropY2%3D2913
+        width: 1199
+        height: 675
+  - title: "Police to roll out live facial recognition cameras in London"
+    excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
+    publishedDateTime: 2020-01-24T12:55:00Z
+    sourceUrl: https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7
+        width: 882
+        height: 545
+  - title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
+    publishedDateTime: 2020-01-24T19:57:00Z
+    sourceUrl: https://mashable.com/video/london-facial-recognition-cameras/
+    ampUrl: https://mashable.com/video/london-facial-recognition-cameras.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/london-facial-recognition-cameras.amp
     type: article
     provider:
       name: Mashable
       domain: mashable.com
     quality: 85
     images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F18%252F70%252F2b1b4ace8b224d6384a8c1f7260572fc.e70ff.jpg%252F1200x630.jpg?signature=aZyPGadLiymI3dJjpvv7OE2nG20=
+      - url: https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o=
         width: 1200
         height: 630
-  - title: "Clearview facial recognition app may pose 'chilling' privacy risk, senator says"
-    excerpt: "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ..."
-    publishedDateTime: 2020-01-23T19:34:00Z
-    sourceUrl: https://www.cnet.com/news/senator-demands-answers-from-clearview-ai/
-    ampUrl: https://www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/
+  - title: "Police are about to deploy 'privacy destroying' facial recognition cameras across London"
+    excerpt: "Facial recognition cameras are set to be deployed across London for the first time, the Metropolitan Police has announced. The roll out of the live facial recognition technology is expected to begin within a month and is designed to help the police tackle serious crime by locating and arresting wanted suspects – but privacy groups have ..."
+    publishedDateTime: 2020-01-24T12:59:00Z
+    sourceUrl: https://www.zdnet.com/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/
+    ampUrl: https://www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/police-are-about-to-deploy-privacy-destroying-facial-recognition-cameras-across-london/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
     images:
-      - url: https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg
-        width: 756
-        height: 567
-  - title: "Facial recognition startup fends off accuracy doubts and legal claims after NYT report"
-    excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
-    publishedDateTime: 2020-01-24T17:09:00Z
-    sourceUrl: https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+      - url: https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg
+        width: 1200
+        height: 675
+  - title: "Facial-Recognition Technology Doesn't Have to Destroy Privacy"
+    excerpt: "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand."
+    publishedDateTime: 2020-01-22T16:09:00Z
+    sourceUrl: https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy
+    ampUrl: https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true
+    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 79
-    images:
-      - url: https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg
-        width: 1400
-        height: 933
-  - title: "Sundar Pichai calls for moratorium on facial recognition"
-    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
-    publishedDateTime: 2020-01-20T17:43:00Z
-    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 74
     images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
-  - title: "Sundar Pichai supports calls for moratorium on facial recognition"
-    excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in Brussels, Mr Pichai said the search giant had chosen not to roll out general-purpose facial ..."
-    publishedDateTime: 2020-01-20T17:43:00Z
-    sourceUrl: https://www.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    ampUrl: https://amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0e19e81c-3b98-11ea-a01a-bae547046735
+      - url: https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg
+        width: 1028
+        height: 578
+  - title: "New Advocacy Campaign Calls for Banning Facial Recognition on College Campuses"
+    excerpt: "A satirical student newspaper recently wrote that Stanford University installed facial recognition cameras in the front of some lecture halls to take attendance and analyze the expressions on students’ faces. Though that particular instance isn’t true, the scenario taps into the very real concerns that privacy activists have about the ..."
+    publishedDateTime: 2020-01-22T23:17:00Z
+    sourceUrl: https://www.edsurge.com/news/2020-01-22-new-advocacy-campaign-calls-for-banning-facial-recognition-on-college-campuses
+    ampUrl: https://www.edsurge.com/amp/news/2020-01-22-new-advocacy-campaign-calls-for-banning-facial-recognition-on-college-campuses
+    cdnAmpUrl: https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-01-22-new-advocacy-campaign-calls-for-banning-facial-recognition-on-college-campuses
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
+      name: EdSurge
+      domain: edsurge.com
+    quality: 70
     images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
-  - title: "What you need to know about Clearview AI and its facial recognition app"
-    excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
-    publishedDateTime: 2020-01-20T15:36:00Z
-    sourceUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/
-    ampUrl: https://www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/clearview-ai-facial-recognition-app/?amp
+      - url: https://edsurge.imgix.net/uploads/post/image/13019/shutterstock_1487934926-1579733945.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop
+        width: 640
+        height: 260
+  - title: "Digital Trends Live: London’s facial-recognition cameras, Super Nintendo World"
+    excerpt: "On this episode of Digital Trends Live, hosts Greg Nibler and Nicole Raney discuss the biggest-trending news in tech, including facial-recognition cameras being deployed in London, Waymo’s self-driving car expansion, Apple’s self-driving car patent, Super Nintendo World’s migration to the U.S., and more. We then take a deeper look at ..."
+    publishedDateTime: 2020-01-24T19:52:00Z
+    sourceUrl: https://www.digitaltrends.com/digital-trends-live/episode-301/
+    ampUrl: https://www.digitaltrends.com/digital-trends-live/episode-301/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/digital-trends-live/episode-301/?amp
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
     images:
-      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Clearview-Facial-Recognition-App-1024x512.jpg
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/n13_super_nintendo_world_universal_studios_japan-1200x630-c-ar1.91.jpg
+        width: 970
+        height: 507
+  - title: "Met police to deploy facial recognition cameras"
+    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
+    publishedDateTime: 2020-01-24T11:41:00Z
+    sourceUrl: https://www.bbc.com/news/uk-51237665
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 69
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
         width: 1024
-        height: 512
-  - title: "Facial Recognition App Used by Law Enforcement Agencies Detailed in Troubling New Report"
-    excerpt: "Over the past year, more than 600 law enforcement agencies have started utilizing a facial recognition app developed by the \"tiny company\" Clearview AI. The privacy-poisoning app, which allows users to potentially match a name to a face within seconds ..."
-    publishedDateTime: 2020-01-20T17:58:00Z
-    sourceUrl: https://www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
-    ampUrl: https://amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
-    cdnAmpUrl: https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/01/facial-recognition-app-used-by-law-enforcement-agencies-detailed-in-new-report
-    type: article
-    provider:
-      name: Complex
-      domain: complex.com
-    quality: 65
-    images:
-      - url: https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/h3znpz9affmqxjtkm8a1.jpg
-        width: 394
-        height: 222
-  - title: "Facial recognition’s risks demand a temporary halt"
-    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
-    publishedDateTime: 2020-01-21T18:16:00Z
-    sourceUrl: https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    ampUrl: https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
+        height: 576
+  - title: "Met police to deploy live facial recognition in London"
+    excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
+    publishedDateTime: 2020-01-24T13:47:00Z
+    sourceUrl: https://www.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735
+    ampUrl: https://amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
     quality: 59
     images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F823b5d34-3eae-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
-  - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
-    excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
-    publishedDateTime: 2020-01-23T21:48:00Z
-    sourceUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html
-    ampUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
+  - title: "Police introduce facial recognition cameras to hunt ‘watchlist’ of criminals"
+    excerpt: "Scotland Yard has announced plans to use controversial facial recognition across London, despite concerns over the technology’s accuracy and privacy issues. The Metropolitan Police said every ..."
+    publishedDateTime: 2020-01-24T11:57:00Z
+    sourceUrl: https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/
+    ampUrl: https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/
+    cdnAmpUrl: https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
+      name: Metro
+      domain: metro.co.uk
+    quality: 56
     images:
-      - url: https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg
-        width: 1440
-        height: 961
+      - url: https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1
+        width: 600
+        height: 400
   - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
     excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
     publishedDateTime: 2020-01-18T18:42:00Z
@@ -251,109 +262,58 @@ related:
       - url: https://m.dw.com/image/41695602_101.jpg
         width: 1024
         height: 576
-  - title: "Telangana State Election Commission successfully tests facial recognition technique"
-    excerpt: "The Telangana State Election Commission on Wednesday successfully tested the facial recognition application for voter verification at polling stations using real time authentication capabilities. The application using latest technologies like artificial intelligence, big data and machine learning was uploaded in mobile phones and tested in 10 ..."
-    publishedDateTime: 2020-01-22T17:19:00Z
-    sourceUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece
-    ampUrl: https://www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/telangana-state-election-commission-successfully-tests-facial-recognition-technique/article30627812.ece/amp/
+  - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
+    excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
+    publishedDateTime: 2020-01-24T12:54:00Z
+    sourceUrl: https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    ampUrl: https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 53
+      name: Sky
+      domain: sky.com
+    quality: 54
     images:
-      - url: https://www.thehindu.com/news/national/telangana/ndpq8/article30627826.ece/ALTERNATES/LANDSCAPE_615/FACIALRECOGNITIONAPP
-        width: 615
-        height: 384
-  - title: "Twitter sends cease-and-desist letter to facial recognition firm scraping its images"
-    excerpt: "Twitter sent a cease-and-desist letter to Clearview AI, the company that created a vast database of photos scraped from public-facing photos, which can be used with facial recognition software, demanding that it delete any data collected from their service, according to a new report. The New York Times reports that Twitter sent Clearview AI the ..."
-    publishedDateTime: 2020-01-23T15:01:00Z
-    sourceUrl: https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/
-    ampUrl: https://www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/twitter-clearview-cease-and-desist/?amp
+      - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
+        width: 1600
+        height: 900
+  - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
+    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
+    publishedDateTime: 2020-01-24T12:51:00Z
+    sourceUrl: https://mashable.com/article/live-facial-recognition-london/
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
-    images:
-      - url: https://www.dailydot.com/wp-content/uploads/2020/01/Twitter-Clearview-AI-Cease-And-Desist-1024x512.jpg
-        width: 1024
-        height: 512
-  - title: "The facial recognition technology that could identify people through their social media profile"
-    excerpt: "New facial recognition technology created by a \"secretive\" company has been supplied to law enforcement agencies to help identify unknown people through their social media images, according to a report. Clearview AI co-founder Hoan Ton-That's invention has ripped billions of images from Facebook and other sites. The app allows people to take ..."
-    publishedDateTime: 2020-01-21T01:29:00Z
-    sourceUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.html
-    ampUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
-    cdnAmpUrl: https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
+      name: Mashable
+      domain: mashable.com
     quality: 47
-    images:
-      - url: https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg
-        width: 768
-        height: 438
-  - title: "Hundreds of law enforcement agencies using new facial recognition app with 3 billion image database"
-    excerpt: "More than 600 police departments are said to be using a new using facial recognition app capable of comparing uploaded photos with three billion images in its database culled from social media and other websites. Clearview AI allows users to take a photo of a person and upload it to the app, which then matches it up to to publicly-available ..."
-    publishedDateTime: 2020-01-19T01:10:00Z
-    sourceUrl: https://www.dailymail.co.uk/news/article-7903225/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
-    ampUrl: https://www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7903225/amp/Hundreds-law-enforcement-agencies-using-new-facial-recognition-app-3-billion-image-database.html
+  - title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
+    excerpt: "LONDON -- Facial recognition technology is set to be rolled out across London by the Metropolitan Police Service beginning Friday, despite concerns over the technology’s effectiveness and objections from privacy advocates. The use of Live Facial Recognition (LFR) technology will be “intelligence-led and deployed to specific locations” and ..."
+    publishedDateTime: 2020-01-24T13:36:00Z
+    sourceUrl: https://abcnews.go.com/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
+    ampUrl: https://abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 45
+      name: ABC
+      domain: go.com
+    quality: 43
     images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/19/00/23576338-0-image-a-40_1579395253729.jpg
-        width: 636
-        height: 382
-  - title: "Atlanta Police testing facial recognition technology"
-    excerpt: "ATLANTA — The Atlanta Police Department is one of the few law enforcement agencies in the country using the facial recognition software Clearview AI. Some experts say it's the most powerful facial recognition technology in the world. The company, Clearview, is described as highly secretive. The New York Times first reported the existence of ..."
-    publishedDateTime: 2020-01-23T02:38:00Z
-    sourceUrl: https://www.11alive.com/article/tech/atlanta-police-facial-recognition/85-24f81a29-070e-4692-89df-31000b46c0e7
+      - url: https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg
+        width: 992
+        height: 558
+  - title: "Facial recognition to be rolled out across London by police, despite privacy concerns"
+    excerpt: "Police are to start using controversial facial recognition across London, despite concerns over the technology's accuracy and privacy issues. The Metropolitan Police said every deployment would be “bespoke” and target lists of wanted offenders or vulnerable missing people. Assistant Commissioner Nick Ephgrave said live facial recognition ..."
+    publishedDateTime: 2020-01-24T10:36:00Z
+    sourceUrl: https://www.independent.co.uk/news/uk/crime/facial-recognition-london-met-police-scotland-yard-privacy-a9299986.html
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 39
+      name: Independent
+      domain: independent.co.uk
+    quality: 32
     images:
-      - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
-        width: 1140
-        height: 641
-  - title: "An obscure app has scraped 3 billion photos to use for facial recognition and is selling its services to law enforcement"
-    excerpt: "According to a report from the New York Times, a largely unknown company called Clearview AI has been scraping every inch of the internet for photos of faces in order to train facial recognition technology. It has in turn sold access to its massive and comprehensive database to hundreds of law enforcement agencies including the FBI and the ..."
-    publishedDateTime: 2020-01-20T20:16:00Z
-    sourceUrl: https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989
-    ampUrl: https://www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp
-    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/obscure-app-has-scraped-3-billion-photos-to-use-for-facial-recognition-is-selling-its-services-to-law-enforcement-21714989/amp
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 34
-    images:
-      - url: https://imgix.bustle.com/uploads/shutterstock/2020/1/20/bd31a271-ed90-49ee-b7f5-d2b30bce6220-shutterstock-1108927796.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
-        width: 1200
-        height: 630
-  - title: "A company started by an Aussie took billions of photos from social media to create a facial-recognition database, and police are already using it"
-    excerpt: "A facial-recognition startup is being used by hundreds of law enforcement agencies in the US to solve crimes, but little is known about the software, particularly among the law enforcement community, according to a Saturday report. Per The New York Times, the software – Clearview AI – is a collaboration between Hoan Ton-That, an Australian ..."
-    publishedDateTime: 2020-01-19T23:18:00Z
-    sourceUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1
-    ampUrl: https://www.businessinsider.com.au/clearwater-ai-2020-1/amp
-    cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/clearwater-ai-2020-1/amp
-    type: article
-    provider:
-      name: Business Insider Australia
-      domain: businessinsider.com.au
-    quality: 7
-    images:
-      - url: https://edge.alluremedia.com.au/uploads/businessinsider/2020/01/Facebook-logo.jpg
-        width: 800
-        height: 462
+      - url: https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/27/18/facial-recognition-stratford-1.jpg
+        width: 2048
+        height: 1536
 
 secured: "4T9I01k7CxAoaeD0IcqAOf+o29RjsbDxnz7eXHFMqepIpRwfdKJkoVNMkPSMPZRfI2+4QbMzgkz05BOLrjmdM1SPSecmpP2Hz8Gh4UXxrKzF16VjZx7Xnyk5F7brAIH1JMqjkSvR0P1K8k1YIFIlejr3NlXfIA9Xwthp7uAsrxD+3QyzYhhTpNws1AHm4ExdS5hinz/qblxIPcMRLsCAxvUcI/fIi4BvEe4Yqx/A4oaEWXn5PSA696o612fOSE60HeHIyxC4m6pdno3I19DPXHmGb6B7q3zs1VD63zVeOMA=;E7GlYipvgt+HJSSWNoxU7w=="
 ---

@@ -54,6 +54,15 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
+  - title: "Voice Recognition Used by Law Enforcement"
+    excerpt: "Voice recognition technology has revolutionized the commercial market along with the growing use of home devices. However, it has applications in various law enforcement and security fields. The technology works mainly by analyzing sounds linked to Natural ..."
+    publishedDateTime: 2020-01-12T08:00:00Z
+    sourceUrl: https://i-hls.com/archives/98105
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 4
 
 secured: "J4ELvevbpmEPs0U2TYOOxscu+7ytyhNQfePHG/8DImMz3liqVUPJ2QLr1wl5tyyxO2zYnFQFb4u+0++bv2d54zPFuYBrEICdG+zw/0FOYvGfe78TO/h04I8iFvtPNzcIY7Dd2ov7e6q8X1Djs2AawBDHmQM4owIbSU/9Rrayd/rz323SflalGveO0qiEkLcCa+6BDMXIDB1UFdCw2zARf3APMwD1z9QiEG7GmABUW130aNol3NeSmQJ5HMOjpLBXaaUDQir/AII0Qn83oS+ovjWyKASmsJ0tPFL5fXwz8SQmmqZI3NwllsQ3MQ1ft1ox/A3WqZ9zbsSGcGJJJTC9yFOTeClt7fRrDli+WiXcSfN8ihC/smAQSLcSRarLrRnKSsc0E1wbCOF6Gc8sYbcvpjRb43s2FMyYgyo3Rk8uCzE+f2tjyEk2a/eORDXmwmXuP2B9biouoBtui26wG2TBcQ==;6Tprls6IhWWFBTyihudKIA=="
 ---
