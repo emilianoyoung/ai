@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
-excerpt: "Facts and Factors Market Research has published a new report titled \"Russia and NATO Artificial Intelligence in Military Market By Application (Warfare Platform, Information Processing, Logistics & Transportation,"
-publishedDateTime: 2020-01-22T12:21:00Z
-sourceUrl: https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-2019-2027-usd-18649-million-predicted-by-2027-2020-01-22
+title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
+excerpt: "Newark, NJ, Jan. 23, 2020 (GLOBE NEWSWIRE) -- The global edge AI hardware market is expected to grow from USD 423.34 Million in 2018 to USD 1,929.21 Million by 2026 at a CAGR of 20.9% during the forecast period 2019-2026,"
+publishedDateTime: 2020-01-23T22:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/global-edge-ai-hardware-market-is-expected-to-reach-usd-192921-million-by-2026-fior-markets-2020-01-23
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 57
+heat: 107
+published: true
 
 provider:
   name: MarketWatch
@@ -19,28 +19,15 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
+  - AI Hardware
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
+    title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
 
 related:
-  - title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
-    excerpt: "Newark, NJ, Jan. 23, 2020 (GLOBE NEWSWIRE) -- The global edge AI hardware market is expected to grow from USD 423.34 Million in 2018 to USD 1,929.21 Million by 2026 at a CAGR of 20.9% during the forecast period 2019-2026,"
-    publishedDateTime: 2020-01-23T22:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-edge-ai-hardware-market-is-expected-to-reach-usd-192921-million-by-2026-fior-markets-2020-01-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
     excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
     publishedDateTime: 2020-01-21T06:30:00Z
@@ -50,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
+    excerpt: "Facts and Factors Market Research has published a new report titled \"Russia and NATO Artificial Intelligence in Military Market By Application (Warfare Platform, Information Processing, Logistics & Transportation,"
+    publishedDateTime: 2020-01-22T12:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-2019-2027-usd-18649-million-predicted-by-2027-2020-01-22
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -84,6 +84,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "LdTS0IUNxAX8jxfyiQTds3EZo1rPbGHNnPVN6VjK9Y4l19PMbRL4YojCTlZviTHrvMbvyE+qQ/c16LP0x2vt2BnfBSLU1s6mk5S5/Zu1tXMzYA4k8/L9RLIckf+0qaFxKBlIqnQQteq5P70CKcEilkRInnFD4se1Frrx1FJPfEhsonDOemoSjhjtEeEYjdbo7G2TZ6gKtaUoPgTbbS+LQaTTgByMIykhAUdwMlnBFrmVH675hv7oEc8LaqV2hC9Ul3/UmOjQ/SDGO9+slLKR0Cvuf+Yl9paS6Ka3Tcjtns8=;q8sfgv3ZbTKuAb0nV3dI6A=="
+secured: "B/lmLmYivBPi7Djfr6T2YXft8CCLe0Eb67ls8EDHj3GGXeSPNCgIyesQwlTU3PZ3ISulbakir1MRsfHHtDeF9zToCHcSykKR5GuuHPnQ156xxalt+rD+1unZVclBdF4OJtKnL1hB8d5NfNZwYRGJ/F/sg57rO/F/wc39N/w6pppm/vKLJfRUBzuRtMoEGg//vmpby34J0AfLhcsrXxDn9XWef1TB+BgZfVVk446WZzFdE7cg2oS12BaFkYCWtl5CDHv5GP9UhbUBIIBiEYRbVxe9C8sfCMDwscwWYZJBsNu+dU948zF/qklKhpHEng7Z;c0FCSSgODb4BQBtxKVXumw=="
 ---
 

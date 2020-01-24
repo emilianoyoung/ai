@@ -191,6 +191,21 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
+  - title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
+    excerpt: "Uber Technologies Inc ( UBER.N) will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles."
+    publishedDateTime: 2020-01-23T23:02:00Z
+    sourceUrl: https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZM2PH
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY
+        width: 818
+        height: 545
   - title: "Phantom Of The Operator: Self-Driving Tech’s Slowing Timetable Creates Opening For This Monitoring And Guidance Startup"
     excerpt: "As self-driving vehicles proliferate, from delivery bots to robot trucks, there’s an increasing need to keep track of them, monitor their operations, provide remote guidance or even, in very limited circumstances,"
     publishedDateTime: 2020-01-17T14:43:00Z

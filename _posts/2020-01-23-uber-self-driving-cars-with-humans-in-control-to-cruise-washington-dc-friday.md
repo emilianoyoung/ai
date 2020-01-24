@@ -1,21 +1,21 @@
 ---
 category: news
-title: "We’re blowing it with self-driving car safety reporting, Cruise says"
-excerpt: "Next month, California’s Department of Motor Vehicles will release the latest batch of reports from companies testing self-driving vehicles in the state. But the reports offer, at best, a flawed glimpse into the slow and often opaque process of testing autonomous vehicles on public roads, says Kyle Vogt, co-founder and CTO of GM-based Cruise."
-publishedDateTime: 2020-01-17T18:01:00Z
-sourceUrl: https://www.theverge.com/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
-ampUrl: https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
+title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
+excerpt: "Uber Technologies Inc ( UBER.N) will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles."
+publishedDateTime: 2020-01-23T23:02:00Z
+sourceUrl: https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZM2PH
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH
 type: article
-quality: 174
-heat: 534
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,12 +24,27 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://cdn.vox-cdn.com/thumbor/zDwZYvo4k1HcO2tTSho5Vwl76h0=/0x0:2559x1664/1400x933/filters:focal(1076x628:1484x1036):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66122889/1189070708.jpg.0.jpg
-    width: 1400
-    height: 933
-    title: "We’re blowing it with self-driving car safety reporting, Cruise says"
+  - url: https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY
+    width: 818
+    height: 545
+    title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
 
 related:
+  - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
+    excerpt: "Next month, California’s Department of Motor Vehicles will release the latest batch of reports from companies testing self-driving vehicles in the state. But the reports offer, at best, a flawed glimpse into the slow and often opaque process of testing autonomous vehicles on public roads, says Kyle Vogt, co-founder and CTO of GM-based Cruise."
+    publishedDateTime: 2020-01-17T18:01:00Z
+    sourceUrl: https://www.theverge.com/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 174
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/zDwZYvo4k1HcO2tTSho5Vwl76h0=/0x0:2559x1664/1400x933/filters:focal(1076x628:1484x1036):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66122889/1189070708.jpg.0.jpg
+        width: 1400
+        height: 933
   - title: "If AI Suddenly Gains Consciousness, Some Say It Will Happen First In AI Self-Driving Cars"
     excerpt: "There has been a lot of speculation that one of these days there will be an AI system that suddenly and unexpectedly gives rise to consciousness. Often referred to as the singularity, there is much hand-wringing that we are perhaps dooming ourselves to either utter death and destruction or to becoming slaves of AI once the singularity occurs."
     publishedDateTime: 2020-01-11T16:07:00Z
@@ -180,21 +195,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024
         width: 1024
         height: 576
-  - title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
-    excerpt: "Uber Technologies Inc ( UBER.N) will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles."
-    publishedDateTime: 2020-01-23T23:02:00Z
-    sourceUrl: https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZM2PH
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY
-        width: 818
-        height: 545
   - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
     excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
     publishedDateTime: 2020-01-13T00:26:00Z
@@ -543,6 +543,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "S6IuEk9Cjpp6fa+nrVsyYbB3y1DIoXjFMh/3BCYGHzKKKzKlcYGsN34XhCKhV+R7Xm5MR4jh+5qIrHXzjpGpKYyjazfgvIpWGYGvrY5JQA0WmFbz/NwlbERwlk1JzjV9i0Kg9/OTOFakey26U3nYFi3E24XfxZNfHrYb9GOd4KmPlDjhB5ZQ6vShTGXdefecBfbgmGZRVn0Ko905x48H/p8mDf1cX3VF6cC5Pq3/FO7aCkl2dQqcB9uU5tUXV4ZtWlXbZD8d+UXUi1gc96j8NhOu34iqmrw+AN/Lb7sU8ISjtcQmAnNnDSrAvIvsyvH+micWVrU7dFl3kfnscA91ed8rk2C/qBGjtVMkof1grqZ+QAyXRrYINNxWDNog2pY5EXbizRjzSZs0QSFxCww8rt9PIVSd5xg7zMYrg6oYKkKMhDXsSeS6SC768pZ/89/IT5hnazCSVA18fNfaSdEg6JiHKchrjrQkau2xJ4o0e/w=;/mz19S6l0mej13rUK1SuSQ=="
+secured: "p5+nMa5PnxcveqfTyfzXOdL7A7rpKkbQh/P1YLiAlFtG4OSyn0KVpSfNWIyIhuNgwaMVGeeMR9bN/PT86CeA2qQ9+xrq6fxuhpzZkYZ001Mpl6FtwR8WJEMQpDQ0wv+iOn7xQbVpNCFMrM8XDVinCjfKqMPHY/0T1JJNESC1xgZ472AHdgKMbaPpEJ+fdgYFDLO1uBJAx0PAeBNrXWTiQ4KT6+RFfXRVh8xIBXf1J3vBu0rBapmwHMBHRk/CG8gjEs+pApJ8B9N8cF84LDXD/Zk1ESO6NEezJzEWOdLNxQPCcg4PvON9QjViTKrloBNn;E8NUUTL+kxBg1r6n67amXA=="
 ---
 

@@ -23,6 +23,21 @@ images:
     height: 630
     title: "Data challenges hinder machine learning in drug development"
 
+related:
+  - title: "Poor data is hindering machine learning, US drug development, study says"
+    excerpt: "A lack of proper data is hurting the use of machine learning to develop drugs, which could put U.S. drugmakers at a competitive disadvantage compared to other countries, according to a report from the U.S. Government Accountability Office and the National Academy of Medicine. Machine learning is a type of artificial intelligence that involves ..."
+    publishedDateTime: 2020-01-23T19:08:00Z
+    sourceUrl: https://www.beckershospitalreview.com/pharmacy/poor-data-is-hindering-machine-learning-us-drug-development-study-says.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 38
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/pharmacy/3.jpg
+        width: 400
+        height: 300
+
 secured: "gB1xdAw9u4ERZZ0Yi2SMbYt01vy/hS3RMVX22W4H/FICN3483PSa88GzN7Asm4LTwB6kPGLY2GacWxnlSwvgDblJMWcyM0Xtrf5XuaXKFA8NKxwT3nemm5eulWoBCb3+35F/VkZTbqFRwTJuHKS9LHpvI1HDl7vn1PT1nc34JU+FYWEtGP+jJItEBNfT+PA+/2E64ybp7LWYqM8SCv4Rehq6TD//cHRyKLxXQMrcNfxM2+xUix0N49DWTfU8Ta+JK4OZb9NNNKDPuub680tN6Wu+L3xHJnIH/cLg3m+mT8+jcYU9txfS+6HyKHD2/zg7vCQbPdfGQEujuNMpb6ESAIX4WIuRr+MHLhR1AXDserp1A+uKLuu10mwBDESgs1gzgMpWIMJ+uy15tEyxIGz970/Z1myjC1bQr9zSmfko7euoUM6yJ/EvaZZUiDpB1ye+UTybIW80k0SvevwjO3cKtA==;eY951LVuEirU/amZ8+AedA=="
 ---
 

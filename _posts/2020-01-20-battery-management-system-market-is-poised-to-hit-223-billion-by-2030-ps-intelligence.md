@@ -19,58 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
-    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
-    publishedDateTime: 2020-01-15T22:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
+  - title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
+    excerpt: "Newark, NJ, Jan. 23, 2020 (GLOBE NEWSWIRE) -- The global edge AI hardware market is expected to grow from USD 423.34 Million in 2018 to USD 1,929.21 Million by 2026 at a CAGR of 20.9% during the forecast period 2019-2026,"
+    publishedDateTime: 2020-01-23T22:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-edge-ai-hardware-market-is-expected-to-reach-usd-192921-million-by-2026-fior-markets-2020-01-23
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
-        width: 1447
-        height: 908
-  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-    excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
-    publishedDateTime: 2020-01-21T14:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-  - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
-    publishedDateTime: 2020-01-14T03:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
-    images:
-      - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 627
-  - title: "Global Artificial Intelligence Platforms Market 2019-2023 | 28% CAGR Projection Over the Next Five Years | Technavio"
-    excerpt: "The artificial intelligence platforms market size is poised to grow by USD 6.95 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200122005381/en/ Governments ..."
-    publishedDateTime: 2020-01-22T21:25:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-platforms-market-2019-2023-28-/2020/01/22/9085640.htm
+        height: 630
+  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
+    publishedDateTime: 2020-01-21T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: https://mms.businesswire.com/media/20200122005381/en/768928/4/Global_Artificial_Intelligence_Platforms_Market_2019-2023.jpg
-        width: 480
-        height: 270
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
+    excerpt: "Facts and Factors Market Research has published a new report titled \"Russia and NATO Artificial Intelligence in Military Market By Application (Warfare Platform, Information Processing, Logistics & Transportation,"
+    publishedDateTime: 2020-01-22T12:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-2019-2027-usd-18649-million-predicted-by-2027-2020-01-22
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
+    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
+    publishedDateTime: 2020-01-23T13:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-exceed-us-160-bn-2026-300992123.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+  - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
+    excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
+    publishedDateTime: 2020-01-22T07:45:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/22/1973435/0/en/Voice-Assistant-Market-is-Forecasted-to-Hit-26-872-6-Million-by-2030-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "2ticrfc/E4zJ3Bxp6G1qwHYd7GvihtdlrTtAYYVKYPWbw9s2dd50llRoIy6ea5JbDQGUPmhWcTsWLmVWHwx9+zJVe4PC6QZH4Qy4wjVC7asFO0CEwzXcI4cWuJQ//FqkTntkH+tE1dK602aKH6Qvy64UpBYoQ1qbSGZ7nItKEUy7vD/Cbv52geJ+7vO0SmO3EuLRmDygcWj+5rIJbMmRFOE7W3fL8Wx4wA1f9UWBuKd9YStEM3vYeKs1HAGu+8xhdABjTpxRg22DCqrK+RqhoQOYkM3KrEQyLVglGWs0LVw=;LojDaNrcGnTO4my8bItJdw=="
 ---

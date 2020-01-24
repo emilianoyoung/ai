@@ -63,17 +63,6 @@ related:
       - url: https://mms.businesswire.com/media/20200122005381/en/768928/4/Global_Artificial_Intelligence_Platforms_Market_2019-2023.jpg
         width: 480
         height: 270
-  - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
-    excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
-    publishedDateTime: 2020-01-20T07:20:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15148602/battery-management-system-market-is-poised-to-hit-22-3-billion-by-2030-p-s-intelligence
-    ampUrl: https://amp.benzinga.com/amp/content/15148602
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148602
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "ir8To5eeqsebdGjvQ8WfRw3Mxl/wKgfI77aSjoV96d0jNgtmLiqI+O/OJ6GpOaIIp/YeBM78NHyjpOwcCjbyBgoFC6rnwYaG+x7RgSEck8OYwhnjsXYv0yaxg3lRCok1MyMl5FfKXLd7F5grDUMc6eV3E5376jgnT0Kvqkc1fw5nfnTVCuj+wJdXOKgeaIftTaYYDVah+C36VqDEXcEq8eEeN1LtBQ/y3x6zUg/xmHnSfddrKJu/t+P2k/Igp3XV0cYXrYxUrRqs6W5N7cpEiXQUIFJiWkz0wK6WJhXRYqw=;nJ0Oi0rQGu6j1JXbcIUtqQ=="
 ---

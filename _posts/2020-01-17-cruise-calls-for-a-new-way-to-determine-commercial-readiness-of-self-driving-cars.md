@@ -180,6 +180,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/amQzI-xYD7xjc4Nq8Frs_M6vOd0=/2018/10/15/0d11de19-7f2c-4b3a-b33c-ceddafa9d20b/hyundai-kona-electric-ogi.jpg
         width: 1200
         height: 630
+  - title: "Uber self-driving cars, with humans in control, to cruise Washington, D.C. Friday"
+    excerpt: "Uber Technologies Inc ( UBER.N) will put self-driving vehicles on Washington, D.C. roads Friday with human drivers in control, the ride share company said on Thursday, as it seeks to collect data for future deployment of fully self-driving vehicles."
+    publishedDateTime: 2020-01-23T23:02:00Z
+    sourceUrl: https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZM2PH
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY
+        width: 818
+        height: 545
   - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
     excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
     publishedDateTime: 2020-01-13T00:26:00Z

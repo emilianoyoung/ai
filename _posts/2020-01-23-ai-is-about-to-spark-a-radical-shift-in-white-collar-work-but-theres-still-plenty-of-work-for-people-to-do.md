@@ -26,6 +26,6 @@ images:
     height: 1414
     title: "AI Is About to Spark a Radical Shift in White Collar Work. But There's Still 'Plenty of Work for People to Do'"
 
-secured: "QI8Hq17bAmJW/xmP/0e12igNfCYPEajOQz4T0sAiOYfhDvy0WsyLXW3mqO4TZRYSfi/ZkXi8E05ZboMYcABHzYtq4h/fL1mxGBZLJDUx2GBNOiFEO0+M2tP+tb4ABkSwmHcw5W3FFYind5JRqPzbKRYKB+1BaTwVSwdnVdWQqhXQ1+yqFEs1PCbbdGpBixa8dQP3dE/kn9/8eI3EHPQBiXtMT6it89M5HPcFntLYz0ibUNRgjpyRH4IYWDCdVGA29xk27SnrdpnKCRM/nGpqLkRsYriZZxz0qXlr7LMiTEgpaGQPgLG/no+GvndtLH/I;gK3Zkcyc8d24+f9h9UpLLQ=="
+secured: "f1pg1wgiC1HVNEWzadoYWNl/za7xT5wXJABHLNecaJHeR4n4hGd2FPO+QnfA1BH797fRjX7u1JeRVSzcKdjWtIFkxkt0E5vhaG8MHDVr1vwLIyPDzh38+c7mpsgkocLjqZ6loMm9akCf3n8xDj973mSlXfkJ6uPoGsQgvVfISADuZI/cnP2izGtopnEbrRaLEcSqOFEmWMEj+UjrYCLyKhClhvUXEmaB1CsnmiT2GeUrCbofQBjTtQk5+AJcJiryHsb+w/3wbb7LT4C2fGDRqN8gqTmj+xjoZ88mJhCmcE6kDPNbHNWRkav3ham8EHziSbeOe7qCE4+i7ZaQnjR7WmrwOkupd6QHBrzkyWQ6wWejIn+FiC8DUUPkbFvXQNmpWnNz/rUBrwzLPgQHnH2Jc76ExHQfKiAOvy3bD7uyN9gydRwjDYFMDuxDf6jYjtEBm6b+yMuCBGWKbyd/t2ezHWqEpYbZ92QyyNNEpn2D4YA=;mQh7CUzyeFXPezeDwINGkw=="
 ---
 

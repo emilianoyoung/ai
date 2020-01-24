@@ -57,19 +57,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 21, 2020: Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period."
-    publishedDateTime: 2020-01-21T06:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Cybersecurity Market is anticipated to grow at a CAGR of ~22.3% from 2019 to 2030"
     excerpt: "Market Industry Reports (MIR) has published a new report titled \"Artificial Intelligence in Cybersecurity Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2030.\" According to the report,"
     publishedDateTime: 2020-01-23T12:53:00Z

@@ -3,12 +3,12 @@ category: news
 title: "Uber will begin data collection for self-driving vehicles on Friday in Washington"
 excerpt: "Uber Technologies Inc said Thursday the company will begin data collection for self-driving vehicles on Washington roads Friday with manual drivers behind the wheel, the first step toward potential future deployment."
 publishedDateTime: 2020-01-23T19:45:00Z
-sourceUrl: https://www.reuters.com/article/us-uber-self-driving-idUSKBN1ZM2PH
+sourceUrl: https://www.reuters.com/article/us-uber-self-driving/uber-will-begin-data-collection-for-self-driving-vehicles-on-friday-in-washington-idUSKBN1ZM2PH
 ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZM2PH
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZM2PH
 type: article
 quality: 69
-heat: 70
+heat: 69
 published: true
 
 provider:
@@ -24,11 +24,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480361557&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY
+  - url: https://s4.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480447771&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0M1ZY
     width: 818
     height: 545
     title: "Uber will begin data collection for self-driving vehicles on Friday in Washington"
 
-secured: "8/qUf/2hOvP3DhMDtxuk1TL08v6LVMBl+jG9pcbhur1AEO34TrMRWMbeZqVfsboLdUyU132lcki1xHRK4AcJv37xxTxuDIH5BJ+q3OVIwE1l0lLNPGPspJ1/1hZP3ioeX79UvIuK9BkjRtHNjSL/Gc044yIedrqN7g5wraSLV7ke5CQlNSX7D9fTqdT62nM89H12v2OkAFKGBYycGT4WIpXRZZuGQbL8/g6hDcmJO0DtOcx1t1mKH/5fq2ye+feCp7TyysupxAHY8RO3/F4T4VjgBHsDmWdkZW+HLmmrcVqQ+oVteDoopa8KVsxHwHR48M9ou2rNsCbqt4DMgPEeDvuM7HM3Jf0ro3iI1T5nDfnv0DngZkWEkHWAiKoc/p24S9+2SZH9TPQ/voX76TEFpShKfKmm7Dd5AmyPbJXcA+fSLMs3WMz0eFNwKD1uKYc3YbhfveeA5iKspZCtrFDmMtNGI4sNEu1y3FML/FhpyYU=;AnH21e7DoW0Kc2UR4yHIOA=="
+secured: "A7FIAKVXFf4+lduKdNmBR3PQeoDmYhPxPre/QRs9udcu1MAM9jG4wwJ4S2plHG9/TS5XzPTmOXl1jHu49hd1bCgBMEeBhKKTwPTWCn8J5RhVYmwdXyQ40444H3maUTMeRQILR/DWmCRnXROc1Vo9Jf8+7KpCfcHYy7GjrFhJ08zTq8Y0HvCX0WmTLcIADO9vcz5ATjbk3vAORKP2IucXJiGYx9qIvoqOTTYhksDhm6mQ2z4t39yKsY56wU9+Gk+E2fmdopDnclph5ReYv7VERl1zTGBkHB1tcHrQ5uMf2PYfbJMjpZ3a9WEe6IBDuFot;hXosrauuN8fGdK+7BPsBjQ=="
 ---
 
