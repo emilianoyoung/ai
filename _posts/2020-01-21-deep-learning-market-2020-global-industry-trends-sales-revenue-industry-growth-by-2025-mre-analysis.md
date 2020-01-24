@@ -28,72 +28,89 @@ images:
     title: "Deep Learning Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
 
 related:
-  - title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
-    excerpt: "Newark, NJ, Jan. 23, 2020 (GLOBE NEWSWIRE) -- The global edge AI hardware market is expected to grow from USD 423.34 Million in 2018 to USD 1,929.21 Million by 2026 at a CAGR of 20.9% during the forecast period 2019-2026,"
-    publishedDateTime: 2020-01-23T22:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-edge-ai-hardware-market-is-expected-to-reach-usd-192921-million-by-2026-fior-markets-2020-01-23
+  - title: "Latest News| Artificial Intelligence (AI) in Healthcare Market Growth Analysis|Professional Survey 2020 by Global Demand"
+    excerpt: "The development of ARTIFICIAL INTELLIGENCE technology is helping the healthcare ecosystem to growing ARTIFICIAL INTELLIGENCE in Healthcare Industry.  It has been witnessing a lot of transformations and growth with new technological breakthroughs in various applications,"
+    publishedDateTime: 2020-01-24T07:44:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-news-artificial-intelligence-ai-in-healthcare-market-growth-analysisprofessional-survey-2020-by-global-demand-2020-01-24
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 74
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
-    excerpt: "Facts and Factors Market Research has published a new report titled \"Russia and NATO Artificial Intelligence in Military Market By Application (Warfare Platform, Information Processing, Logistics & Transportation,"
-    publishedDateTime: 2020-01-22T12:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-2019-2027-usd-18649-million-predicted-by-2027-2020-01-22
+  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
+    excerpt: "Artificial Intelligence and Machine Learning Report by Material, Application, and Geography - Global Forecast to 2024 is a professional and in-depth research report on the world's major regional market conditions,"
+    publishedDateTime: 2020-01-24T07:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-01-24
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
-    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
-    publishedDateTime: 2020-01-24T02:56:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-
-    ampUrl: https://amp.benzinga.com/amp/content/15178205
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205
+  - title: "Wearable AI Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "New York, January 21, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Wearable AI market share. Major industry players with significant revenue share include Google,"
+    publishedDateTime: 2020-01-21T03:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-20
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
-    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
-    publishedDateTime: 2020-01-23T13:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-exceed-us-160-bn-2026-300992123.html
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
+    publishedDateTime: 2020-01-22T04:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-  - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
-    excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
-    publishedDateTime: 2020-01-20T07:20:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15148602/battery-management-system-market-is-poised-to-hit-22-3-billion-by-2030-p-s-intelligence
-    ampUrl: https://amp.benzinga.com/amp/content/15148602
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148602
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Automated Material Handling Equipment Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
+    excerpt: "New York, January 21, 2020: Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence,"
+    publishedDateTime: 2020-01-21T05:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-  - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
-    excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
-    publishedDateTime: 2020-01-22T07:45:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/22/1973435/0/en/Voice-Assistant-Market-is-Forecasted-to-Hit-26-872-6-Million-by-2030-P-S-Intelligence.html
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Robot Software Market – Growth Strategies & Worldwide Growth Survey by 2025"
+    excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). Each segment and sub-segment is analyzed in the research report."
+    publishedDateTime: 2020-01-17T18:21:00Z
+    sourceUrl: https://www.openpr.com/news/1900051/robot-software-market-growth-strategies-worldwide-growth
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Set To See Huge Growth !!"
+    excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market, By Component (Technology and Services), By Type (Rule-based, Statistical, Hybrid), By Application (Machine Translation, Automated Information Extraction and others), By Deployment Mode (Cloud and On-Premise), By Geographical Segments- Industry Trends and Forecast ..."
+    publishedDateTime: 2020-01-23T20:07:00Z
+    sourceUrl: https://www.openpr.com/news/1906775/global-natural-language-processing-nlp-in-healthcare-and-life
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 2
 
 secured: "fKPg9Zf+3gpf1+m7w0UgzLhFqTcdHOc5WYo+SiaGyVCpK5Fk9KwiFKP5urX1pPgcGQ4XeOCWDOC98UaZwauZDZW/coyRT3josGU6qZWaw786/ap0NeiftSxPnEhl4wu8y34Wao2VH+SjQHHSqN0VG1cXWCjeK+DqOFxgYnuBmZr71Xte+OBwTO8K3EdMdPGc/3e7TRQQ4Ns2KpVceb9Izoi2NKCXW1/7Cp8GEg6p6iR5q2+UjisNjVv3q6dZJw6wdQ14sGb8r4oA9twpbBwAfFvuaYeuWfoxBbuWkRiwG8E=;gphcObKBsR8HkEiSlLeKKw=="
 ---

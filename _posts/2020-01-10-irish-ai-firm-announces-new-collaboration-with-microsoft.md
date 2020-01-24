@@ -33,6 +33,19 @@ related:
       - url: https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg
         width: 540
         height: 960
+  - title: "A CES conversation with Microsoft's Tara Prakriya"
+    excerpt: "We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they represent new workloads, new opportunities for ..."
+    publishedDateTime: 2020-01-09T16:24:00Z
+    sourceUrl: https://www.autonews.com/ces/ces-conversation-microsofts-tara-prakriya
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tara-main_i.jpg
+        width: 800
+        height: 600
   - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
     excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
     publishedDateTime: 2020-01-08T18:46:00Z

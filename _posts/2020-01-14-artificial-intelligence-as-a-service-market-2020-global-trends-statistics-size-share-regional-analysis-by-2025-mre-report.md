@@ -28,32 +28,6 @@ images:
     title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
 
 related:
-  - title: "Wearable AI Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 21, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Wearable AI market share. Major industry players with significant revenue share include Google,"
-    publishedDateTime: 2020-01-21T03:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
-    publishedDateTime: 2020-01-22T04:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
     excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
     publishedDateTime: 2020-01-17T10:12:00Z
@@ -82,6 +56,28 @@ related:
       - url: https://www.abnewswire.com/uploads/1579605621.jpeg
         width: 800
         height: 435
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "Collaborative robots are designed to work in direct cooperation with ... This market report segments the global artificial intelligence market in manufacturing industry by application (predictive maintenance and machine inspection, production planning ..."
+    publishedDateTime: 2020-01-14T07:47:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-manufacturing-industry-2019-/2020/01/14/9080753.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 480
+        height: 270
+  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
+    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
+    publishedDateTime: 2020-01-20T19:04:00Z
+    sourceUrl: https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "DacENzuG4ieNWJwf88zvViQMxo4XtkJf+pQ/OB9msobO7g4jwFHr/yFgTkENrfE4P8bwGzH4pQnpwVchHQjBWD18tlidxCeFb+Xruk6x9YGrSaF8WGjp5rfOTIWQmp7eiSBQYL19yzE83rTaAnl1r1ZzenqHMhSvvX8dCFbUBKpUgiIbIQDUHfmDW5xA+5qWDGX1mJYA48iaFo3zdCm+zn2T9l/ho8hysiDVe03aySM8hD7t3GHWO+E/9IlRF/sPmPLAbR8D/mADxDrAbRCz5rKmFX78d5EzIYg6taaFE4I=;7N6iGKO9tGh2tFMVBKaZeQ=="
 ---

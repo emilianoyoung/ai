@@ -37,19 +37,6 @@ related:
       - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
         width: 1447
         height: 908
-  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-    excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
-    publishedDateTime: 2020-01-21T14:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
   - title: "Global Artificial Intelligence Platforms Market 2019-2023 | 28% CAGR Projection Over the Next Five Years | Technavio"
     excerpt: "The artificial intelligence platforms market size is poised to grow by USD 6.95 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200122005381/en/ Governments ..."
     publishedDateTime: 2020-01-22T21:25:00Z

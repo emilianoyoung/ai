@@ -25,45 +25,41 @@ images:
     title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
 
 related:
-  - title: "Global IoT Chip Market Projected to Grow Over $38.61 Billion by 2029"
-    excerpt: "/PRNewswire/ -- According to a market intelligence report by BIS Research titled \"Global IoT Chip Market – Analysis and Forecast, 2019-2029\", the global"
-    publishedDateTime: 2020-01-15T22:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-iot-chip-market-projected-to-grow-over-38-61-billion-by-2029--300987801.html
+  - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
+    excerpt: "The GPU Market Forecast Report provides details analysis of keyword industry which will accelerate your business. GPU market report covers the current state of business and the growth prospects of the worldwide keyword Market."
+    publishedDateTime: 2020-01-24T08:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gpu-market-research-industry-outlook-current-trends-and-forecast-by-2024-2020-01-24
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=publish&p=facebook
-        width: 1447
-        height: 908
-  - title: "Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | 32% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in BFSI sector is expected to post a CAGR of more than 32% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The proliferation of digital banks and fintech solutions has compelled traditional banks and ..."
-    publishedDateTime: 2020-01-14T03:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005533/en/Global-Artificial-Intelligence-AI-Market-BFSI-Sector
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
-    images:
-      - url: https://mms.businesswire.com/media/20200113005533/en/766971/23/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 627
-  - title: "Global Artificial Intelligence Platforms Market 2019-2023 | 28% CAGR Projection Over the Next Five Years | Technavio"
-    excerpt: "The artificial intelligence platforms market size is poised to grow by USD 6.95 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200122005381/en/ Governments ..."
-    publishedDateTime: 2020-01-22T21:25:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-platforms-market-2019-2023-28-/2020/01/22/9085640.htm
+        height: 630
+  - title: "Artificial Intelligence In Medical Imaging Market 2019 Disclosing Latest Trends and Advancement Outlook 2025"
+    excerpt: "The Artificial Intelligence In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Medical Imaging Market\"."
+    publishedDateTime: 2020-01-20T20:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2019-disclosing-latest-trends-and-advancement-outlook-2025-2020-01-20
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: https://mms.businesswire.com/media/20200122005381/en/768928/4/Global_Artificial_Intelligence_Platforms_Market_2019-2023.jpg
-        width: 480
-        height: 270
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
+    excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
+    publishedDateTime: 2020-01-21T12:39:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37759/self-driving-truck-market-2019-industry-analysis/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "Yx9y6xDdkdC1NiLbswjhOonaZo7k7pniOM43Z6r6FAj4SGnhwDkiIUhkofQdopoexH29IKU3z9VjUO6jIUQU+X70qlfyrbzjOogNSsZEPvPtRFQXZM9Twkf1GDAyy0M3XuJGRYKxm42r6de6VkiJW5TpmN5qhjslBdaTUs7kcxzkT3X9nWnTgFE1hGtiIjlC0sW9wJt6rGoYRMzqrfglZqCseP3Xqasjjhr10oDwv/qmwETn38nPEv3YnMzEEz554HWkOb31jH7bHkPoC/5oPVFyM21gZeDfcgQhqXqPY6I=;hRFT+lfe34jesu6Xx7Kfwg=="
 ---

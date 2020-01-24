@@ -29,6 +29,6 @@ images:
     height: 629
     title: "Top minds in machine learning predict where AI is going in 2020"
 
-secured: "uoQdkc5VGtrbOivQZO8hpX3gSk0/tOdh6/UhtOSOXT/VebAaVpKF2z+UfStqt+uVJvpcFcZl3dXJnQ4GDf7KS6uk9YT/drCk4ks0XB+4ldEMxPs3TVbAUwoedJu0dLEq8wc/V9JQy9shehazk9Hjk57GAut+UGgpnw8nIMEOu9EYFXNmma1lXlmfORlFsOB4xAlY0kanWhXpECbbJJECjl/sKdsj0Fzehsx8cFxfq92oTAwh21YK0PDm/fOdu0o+PfzV+5ogDGQDTP+ec0oIbkJ9IHVGV/s0Gwgs73kd8pZXpxzMbkqdzjcdcKWoLDPw;HHho6T9XAVdPh5wqj5OPkA=="
+secured: "1WHR3KosjBZPDKEEVKWhNY+EOC2XCLlHHHT/xx794OAektko+NMalG3KhLvcCdb+57VQaKAdHpBOGm/O8KN3I74L0BiD3+PnEBpfXYEAyaWcC3xkiPVaRx+aCkOtuVw5nWy9WEJHEouv1Nc+AiYkOQGc+T+H2fvpDwxbSRURxkIwzN4GMLMYMhtT+Via63KZQyINX46NuFCggFYZOB+GT2ELbp377lhDI3dbqYz8gy/8Y4TxTaf2wWRJXsc1hLdXSl1dW8J2fG2RNcxJad7Mn6TRmWVivF5zyrjYZuryQ4OLqEpBlkdZESR1aOMlfNy7;s8t2A6QmJ6nC4icoqkMePA=="
 ---
 

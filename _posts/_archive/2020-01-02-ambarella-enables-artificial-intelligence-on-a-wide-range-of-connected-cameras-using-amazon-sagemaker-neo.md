@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-02T10:04:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 67
+published: true
 
 provider:
   name: MarketWatch
@@ -27,32 +27,6 @@ images:
     height: 630
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
-related:
-  - title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
-    excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow-powered AI vision system on chip (SoC). Until now, developers had ..."
-    publishedDateTime: 2020-01-08T11:05:00Z
-    sourceUrl: https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    ampUrl: https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    cdnAmpUrl: https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 77
-    images:
-      - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
-        width: 612
-        height: 355
-  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
-    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
-    publishedDateTime: 2020-01-06T02:34:00Z
-    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 10
-
-secured: "NzlyCP17c17h+v0o6wgmhPER4DLnNIKTeV4CM+EAm21jwHkFz9/g8Cv/O8UsgPr9EBIurcd8aBP6dJRbKFnMnknrRv3avXQ8G7SG1Gkr8cLr/o15vX9XKA00fiEll5H7GNRLG7vGjo0y4NunfszUSe5YV/7UhzxCT0Uben1mHY3ly+VlOE1HFldkVlzu8O12ctRFPLyvJe5DGyH8JW/ebhOXRf75SnaqJFs811SAPggorS30yUB3ORQXTwcRVZ+wlNimKU0q8Wv4qFL4HkZYLv8lpUDfP84pkISzyxFLD6FRIZabhgzr5/93egardjob;QUt8JNGIqlwvuOlgbElFRw=="
+secured: "WEYaEcSiYg+WzgOWKoFfdRw+qvCo9JiGTX7QGv3ZgqVcC7Dzc0+i3xb2p5Ml8C11LDeZuMJWS1qdqrMX+jwJ/TWG2XfRyjorKbcpcsGSZO7RBDlolZr5Fg9wJURB/XsVsrdV48AfurSOU73BvP6aMYKJvLHcVf69Pj63/BHy7qVRQoABYLryl4PtZ8qxGr5NfausmWVUPnxkQapT96XEbZrjLiDE3KulPAW9K0IMFElDI0RP375tcagJK1d2L5AkBRucjRI31q/yIiTJ4+yVEpst+LkooS80Kmzg58YioiiPMezFManXyuRvOR1gvtaP;d5q76on5mZKfPGOsiUbJ1g=="
 ---
 

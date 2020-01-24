@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
-excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
-publishedDateTime: 2020-01-08T18:46:00Z
-sourceUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
+title: "A CES conversation with Microsoft's Tara Prakriya"
+excerpt: "We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they represent new workloads, new opportunities for ..."
+publishedDateTime: 2020-01-09T16:24:00Z
+sourceUrl: https://www.autonews.com/ces/ces-conversation-microsofts-tara-prakriya
 type: article
-quality: 0
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tara-main_i.jpg
+    width: 800
+    height: 600
+    title: "A CES conversation with Microsoft's Tara Prakriya"
 
 related:
   - title: "Artificial Intelligence application with Android using Microsoft cognitive services."
@@ -42,20 +48,16 @@ related:
       name: Irish Examiner
       domain: irishexaminer.com
     quality: 54
-  - title: "A CES conversation with Microsoft's Tara Prakriya"
-    excerpt: "We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they represent new workloads, new opportunities for ..."
-    publishedDateTime: 2020-01-09T16:24:00Z
-    sourceUrl: https://www.autonews.com/ces/ces-conversation-microsofts-tara-prakriya
+  - title: "Cognitive Services Market Witness an Outstanding Growth during 2019-2026 | IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software"
+    excerpt: "The toolkit helps to generate experience-based business values from disorganized information. Some of the key players of Cognitive Services Market: IBM, Microsoft, Cisco Systems, Nuance Communications, BMC Software, Qualcomm Technologies, Inc. Get Sample Copy of this Report @ https://www.verifiedmarketresearch.com/download-sample/?"
+    publishedDateTime: 2020-01-08T18:46:00Z
+    sourceUrl: https://www.openpr.com/news/1892139/cognitive-services-market-witness-an-outstanding-growth-during
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tara-main_i.jpg
-        width: 800
-        height: 600
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
-secured: "VQs049cga4vpeyEhHq5hMp+V4un7N/F9C3n32oiZBjg19q/6gQJUI4H7bDKh0Ni8EESxO6WkCfPkPN4dQBWBm4/jIh4p3iEKkquPGGWBb34o+m+XlcQPQkcQdotlFFO00UXLMbDdor86FSuhMe52Alu0j7wN5yQlAoDxF2W8QEEgeezr4tUyZBGDDb4P7zl/8lw3Yi/apVG0qPDrLnQ2/OYZeFxgvWiyW93K17Rlp8XSo2/F/LBB8zIgmZGDfDraP5vDtdwhGW/vgdsfi2h1wtRUJOHt7Kt6YC3vlpDRp94=;QsFAewyA7cHtHsaFdYnlcQ=="
+secured: "S3uQd8lrjkNtwr29HRXCNomts/uFfaM0k5IOhYP+SqhuNTkfRJT+xkFeyuYfducuIM2VAKiwLfWfvclvGWHNaCSiD2YIO1v9a2nHy96oFonu+F/d3FCquOwW32jx0xDTEkvbpYXQXjnDbwPDA9hvu7LXiDoOCtSDryh/XtRQXqa7fmXuCg/WtWSwhrSgAurSqnfMf4QHV2bnTIlvzXJJCfrMIe0IPqyNKHI+Ru2SGvjbyKkeTHMTeSOgwUW3biE9AC3YbJUlRXN3cXbij3zOSpi61i2/uO5jJIM3sz8Zdnt1tLY4Ukpt+itVa3fFneYt;B1qw0lU6t4M5qy1lJ6TJgQ=="
 ---
 

@@ -39,19 +39,6 @@ related:
       - url: https://singularityhub.com/wp-content/uploads/2020/01/rocket-1245696_1280-metatrends-for-the-2020s.jpg
         width: 1068
         height: 601
-  - title: "Technology: The next decade"
-    excerpt: "Machine learning AI (Artificial Intelligence) Shows like Black Mirror depict AI as something to be feared ... Advancement in machine learning AI is starting to make a big impact in systems like Google-owned Waymo's autonomous service. Imagine if you had the ability to tap into the memory of anyone who ever had an accident and instantly learn ..."
-    publishedDateTime: 2020-01-04T08:42:00Z
-    sourceUrl: https://www.heraldscotland.com/life_style/18137473.technology-next-decade/
-    type: article
-    provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 24
-    images:
-      - url: https://www.heraldscotland.com/resources/images/10863167/
-        width: 2400
-        height: 1600
 
 secured: "2vAoFOviqCj0IHB6Oy/Bfd9hDz0OzZsvXKFMuaOuWG9LQz9qogDTKMRKkvt5s0dbz5k9ojEPJKdOXEH7j7YKL+Il52APqbMitX66SS8lT+m3w0G/hHA2CG2edIc3CY5Yh0JZuBkVBOG4axI+mhhyxb+XX1GC6GLOpHNeyYbLq/cLLlahvnOXqyzUrsrues1Kg3bAN3vqlDx0f0FFEjxKvSmnQ0LGa95t+d5nNQaGn4lMHCrpOKbdZo6l2C6aNhHvhMQ2Tm2LIWpaGQp4FMV5tt57zmU85eGCXl3rcXlEnl1JE4i9T3tL7zW0VXhyUHcEerpNCa8bKITT7MGUDL3aoSWCD3zV1a9AfLsw7vJGQ5gfsc6wQsvr/krzRWURUm+GmGJdj8jWA86jamCgSlDMfuRKXpW4YDu4tUoFPzikQGBpcg4NcqgtsXMliIHxujHVmpGNbk9iPcXTtBNbmg9IFw==;W7OdGpcerSJK/eYpshSdzw=="
 ---

@@ -145,19 +145,6 @@ related:
       - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
         width: 600
         height: 246
-  - title: "Automated Material Handling Equipment Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 21, 2020: Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence,"
-    publishedDateTime: 2020-01-21T05:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "UskXGbsIUvzH/1wal8gKSd24zhvsNuvBBtzn8Q54gJDtevDolNagZAHsrjF4QW79TbOD9vIBJtbIpGG8FF6JClfaIawmJ4ihypm0ZvceoXUKO1hpRlniDWqApuoSHtnbCH44JfO1gaRI5Whq4TJfCfBzl+nzCAUi39OP9TfPHKXdMsmYDGEDYb4dyPSzUWrMZJiX0/vBBqD57xXHdevADZnF/excN1p9Eg0tFhAxK54WMCRa0UDeTo5ntq7386ny5pSNY3MAonw8iqEdIwTQQKukiXplfJJUce2+VaC85b8=;DygXSf97n3eSW9ZzQCC3lw=="
 ---
