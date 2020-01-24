@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-mi
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-ai-startup-drew-interest-amazon-microsoft-intel-selling-apple/amp/
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://cdn.geekwire.com/wp-content/uploads/2019/11/geekwirelogo121518-1260x1260.png
         width: 1260
         height: 1260
-  - title: "Dialing Into AI in 2020: Why Investing Now is Key"
-    excerpt: "Autonomous vehicles, robot performed surgeries, even understanding human sentiment is not far ... AI in the Palm of Your Hand Apple’s $200 million acquisition of Xnor.ai, a Seattle startup specializing in low-power, edge-based artificial intelligence tools, is the most recent of many investments across the industry to indicate AI will ..."
-    publishedDateTime: 2020-01-22T09:46:00Z
-    sourceUrl: https://www.geekwire.com/sponsor-post/dialing-ai-2020-investing-now-key/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 69
-    images:
-      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/630px-wide.jpg
-        width: 630
-        height: 500
 
 secured: "L5Nze4takuK3quhzI2tME36Z8jvJgNNjE3oBM/ishQA+ZVqeOkoeZNZCOv4PngU8gc90o+3S3APLzhAFFLk7oGJsXGqHye+cZGOsEZSfyjXpwC97J9qEVqFWU71px+TCECtNuiubrjOucyXZxDRlA9eiJXWZBth5GtuJ1PvhyOrTw6sW17GPyU268s5NdqAea3uWn1l97fCLYAqhJ00h42aXn8Ah/SZTuqY0QgRb1p7aNf6f/XNSTn1u50sHHQi3K9XGEkcRaIWdN3muki94FXQr6sZod6ob2NzZb4alhqWn7/iAY++fLyA/8g30HeIVdXBnjtP9YOAxKkq8t0n269OxNwVXrljvEoBRNLfgWig0OseYxoaFTOWbyiea3BDQLwhmpTxyf7Ahis4AzsbH1XYA/Tn+O3TErjBblPxvzs526KBkXq/Ej309+STiZDL+JAUnfxDbQW3dFFaK3QcMWQ==;izX1XzHIImeAw3bKFl86ow=="
 ---

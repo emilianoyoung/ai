@@ -8,7 +8,7 @@ ampUrl: https://qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-mar
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-marriott-taj-itc/amp/
 type: article
 quality: 83
-heat: 93
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
       domain: govtech.com
     quality: 54
 
-secured: "t8ff+hWBo/ONrSUnXjAF4Mi8yu5Orqc6f6lY1xqpJyrDfkVJo5Ai1ibAWvxaAgl4Sr5hqkbKLu1WD49TfPwktYprF3FiYYuOhR1UaFy1eZJVKw4fQKvIjP3rSgc69SlpQqhLASwkjmHm0DIJJiuxpLOqLFhmZbia/KJB8A5SX24x0kjRCgGsYrUc6Fd+ggkyMxGT5cMYdTqp14SEsB3xHLISanbXbY3ujsH/7SmjgUM08yGlhGqsERRLbcwav4zN+1xp7qEN10bOZs6gsb1UNujEzrvee6/bVuO+i8gkD5a6CQ7bL+szP2G8gkmksZ1KS4sTdpYLvE6epAKcAO+KVc51UDauTWUyhplX0UytWovAdMe8CTGfKa0/YYyJ1EEjDmp2Z5Y0h/QDrZkh8aU/E3q4VSsoMYJqPf2sinz3P+TPowPSnBHeLOf1eK/TH/G1kzB37Bswc9zelX4ILJ5j1JNjdjtYqader/UDQ4acbt8=;VIwzIbBUssayZHrYqy/KoQ=="
+secured: "ja41eASA3AaRQOpNW/UNHcpcNn/xrFT3Q8Zi7tNkHqmVhMiZLVpLto0PyQIoNky5qCBiB7NoZedzcA7m43mnzHaaRrKFvTHq+8GJqEuP+O5Wh1i3vP3YirdT5jys2hyJoGDx0M8uu9EXrNE+Pl5aDz91PuXxx9P9TsinJRJrIkLSn9K940hH+9now1ThSqSXEd9bexboNkRB5kTe64we0NgZmyj/+v3gEEpx9VY/rcOksAdxXN7mJGxVqgQ5CLySMtugcoSJFbHgg6uD2fNKTC/3kvvFaIJ1CWFX5Kaql1YuFHbW5Na3uU+P6IddaV/p9xuuYegiL9vprvrYJEK2Zp5vE9Amd3q+pTeuUtMsVGR8DHZ5EO7kB4CdJGHQq20/HNZhZLMEU6rQQRbeikBPKbCEBfqknnfXu3ZJbFNnQ3HR+zW7/76VB10nj23wRaMIPfj7nbheTNNY+Ax4jqA6uvz2WjnBEtoPoPRGcw0L9Lo=;96n8GkFOnaD00J2Z9dqmGg=="
 ---
 

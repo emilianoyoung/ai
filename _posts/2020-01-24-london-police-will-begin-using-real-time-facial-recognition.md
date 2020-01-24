@@ -210,6 +210,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F24%252F32%252F24514062c79b4e99813b05f461a715ab.0ae06.jpg%252F1200x630.jpg?signature=o9ainWP9-9NbdcBxB-ZiRttGoEc=
         width: 1200
         height: 630
+  - title: "London police deploy real-time facial recognition cameras"
+    excerpt: "(Reuters) — British police are to start operational use of live facial recognition cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog. “The use of live facial recognition technology will be intelligence-led and deployed to specific locations in London ..."
+    publishedDateTime: 2020-01-24T14:40:00Z
+    sourceUrl: https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/
+    ampUrl: https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1074319518-e1579876576621.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "London police to deploy facial recognition cameras across the city"
     excerpt: "Live facial recognition cameras will be deployed across London, with the city’s Metropolitan Police announcing today that the technology has moved past the trial stage and is ready to be permanently integrated into everyday policing. The cameras will be ..."
     publishedDateTime: 2020-01-24T12:57:00Z
@@ -939,6 +954,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "eQ5STwdDNV+Ti7b5xwihCZgxmUxVyg/rLeWuXwtNaFIUoqcv/zS/Cm3L3RmDZMCsWvCXiB/TwR9PIpbxFf++G7I35Lpvq9vrQOcQBAzAAIPh7xLDJfvs5iiYNjLVA6sfqZT93grVj6EUjX7cBGw+JfTGv3YkT4dHINUkz+iseNJ4qTdcuIKhnqL0JUoNTVXsnCccHOGs5X06zTymOhG71HZ32e3SPJ0//ucl9Tta9Z/jd4dWhvGMOCLtP7swOkOzzMuLfXJrzh1ItdJ82Aw9GdIn3rU/bQQJKy+HCbveR+PP5kEUv6dN8gy/kZP/SHNO;wADVmwjnM2HPjppNOrMxbQ=="
+secured: "t6pg8oOnzgkQMkF+NmrEihe1zVsDByP6Xc8s4tjwtP4zY9+0sVvauiCVuHE8TnK9MGl1BcM/6Cyuw7ovR3Z354rotmyBD/n8GbgF/3ZAe1T321Cb4EPgnUnImNI4f4LASZHPWU/sQ4AOnOl1nr3oalpdDfFNRfR1ghJlaMHxIdlgbXp9kczpYYUbxRibQebvhnHw2W5kGGUwCpkRcKNl41GMQ3gGwJZhMpO9zkpRRzQ++KfWwbN0AcEpfu6GB/vEhAxUDQTrY3a0Tl+A1L5FxNEJNOuwgIr3cPcZg73WMHMGGCnQVGBsiWF16JglFM4NgsFojY3nXFS5B3tGoLyoh+2HMyc5DM8ghFtTJm0dwPTu3WQdKPRvBlxP088qRQxhCqlw+I+0cYqRrUujXrIWjM1BmnN6u2HwBBhphV7WZB2aYYZOVRLcAsBf14hVQNlEE2vpEl+ouAP2vGO8RGxQZiMvgPBNvA9s3ayUxMWP7IY=;NKPmCQdjVxKKZ+90PH0i3g=="
 ---
 

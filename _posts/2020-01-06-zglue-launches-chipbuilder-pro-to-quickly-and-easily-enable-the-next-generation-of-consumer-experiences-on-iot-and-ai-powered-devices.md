@@ -70,6 +70,28 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
+    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
+    publishedDateTime: 2020-01-06T02:34:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 10
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
+    publishedDateTime: 2020-01-03T14:43:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 9
+    images:
+      - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
+        width: 512
+        height: 512
 
 secured: "AeaWw+j8SVtbyLIrb/cEAEgINBbiL/gi/+mY2FmCHcwB/FLqVFsk0Yan/j3gjMFutGO0TsUpCj708v85TZKHpEgzjXJmBXZcQBRmB/sN6gDNtcSgKj5AVGOlbt8DIWUC2cMFXHIB7KzRN5fb/eciQdVf9nej3boXbOybqgkzIq53E8MTlSf/GkqC4omQ252k9TF5n0ASyKKc48oGKQrfZSGI86UjTTMJGKEN4Sck50ceN9OOdTflzOomvocbUKMpGuo33fFe3NdzREbjEXloH0eEWh7JkDIT00M47v1b9DM=;zVpGksHF05/MV1BE1aVkGw=="
 ---

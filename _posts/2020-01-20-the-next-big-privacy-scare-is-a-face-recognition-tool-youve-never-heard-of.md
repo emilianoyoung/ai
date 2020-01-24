@@ -43,6 +43,21 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg
         width: 1280
         height: 800
+  - title: "London police begin using live facial recognition tech across the capital"
+    excerpt: "Meanwhile, Europe wants to ban the technology for up to five years. London's Metropolitan Police Service has begun using live facial recognition (LFR) technology. At key areas throughout the city, signposted cameras will scan the faces of passing people, alerting officers to potential matches with wanted criminals. According to the Met ..."
+    publishedDateTime: 2020-01-24T12:05:00Z
+    sourceUrl: https://www.engadget.com/2020/01/24/london-police-live-facial-recognition-public-streets/
+    ampUrl: https://www.engadget.com/amp/2020/01/24/london-police-live-facial-recognition-public-streets/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/24/london-police-live-facial-recognition-public-streets/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5760%252C3840%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fc5114770-e5eb-11e9-a9df-f281948b7062%26client%3Da1acac3e1b3290917d92%26signature%3D2f7e99f345791a940f75a8565dcf76868e4974ae&client=amp-blogside-v2&signature=2998c7c1c78777521b7e4451311fe444f830f18e
+        width: 600
+        height: 350
 
 secured: "Mj0QXYr80yzeG8UZ5u9rvr/IXvcrgq8NsdFvFx+0VSqZyBYDAiQzwue1narKu5GlkoqvoPkZsjD8XCVR9ANKm1d25BFoGsHLuo8HZs4eNW3F99anq+mYW/46qVU218eNU0lyzw9pqoMPGNpqrvotW2z4eOgCzTQDw1oODSgdTIeZg2yf+vU4SD6a4UMRDx0e2VQaugkSr+EUWIA5CoVEJbf3ObyJ4bRXLIJhsdRUtxYdAZctzPGTgMuDCs70LLt9I+M/0yzr1F+zx9S9fucpm2sU063Eydc0AJLjHSbQX/+ao6dJCwlxM0MADIg8QxSiLttg1GhlmX4jw61prxxlVBqgnndVG1VWj1HAopTp3Btfw4M6oxpEp/vcC8GHAhe8/m6Xeu++rZ8HyqfUmHTa/6q9d0nVQbYTrn0s4/orC2ogtBdN+0iI6JSm5AFPotM5/Ms8h9eV6cgTllucJrMt7Q==;J7xYG+0c5eBiMpDilFJo9A=="
 ---

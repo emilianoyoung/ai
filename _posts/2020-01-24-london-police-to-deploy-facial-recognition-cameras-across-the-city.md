@@ -210,6 +210,21 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F24%252F32%252F24514062c79b4e99813b05f461a715ab.0ae06.jpg%252F1200x630.jpg?signature=o9ainWP9-9NbdcBxB-ZiRttGoEc=
         width: 1200
         height: 630
+  - title: "London police deploy real-time facial recognition cameras"
+    excerpt: "(Reuters) — British police are to start operational use of live facial recognition cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog. “The use of live facial recognition technology will be intelligence-led and deployed to specific locations in London ..."
+    publishedDateTime: 2020-01-24T14:40:00Z
+    sourceUrl: https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/
+    ampUrl: https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1074319518-e1579876576621.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
   - title: "London Police Will Begin Using Real-Time Facial Recognition"
     excerpt: "The city, stepping into a debate over privacy, says it will use the technology “to tackle serious crime.” London’s police department said on Friday that it would begin using facial recognition technology in the city to identify people in real time,"
     publishedDateTime: 2020-01-24T12:58:00Z
