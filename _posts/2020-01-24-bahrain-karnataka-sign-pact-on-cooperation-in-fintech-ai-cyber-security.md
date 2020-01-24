@@ -40,13 +40,13 @@ related:
         width: 1079
         height: 565
   - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
-    excerpt: "Davos [Switzerland], Jan 24 (ANI/NewsVoir): The Bahrain Economic Development Board (EDB) - the Kingdom's investment promotion agency - and the Department of Information Technology; Biotechnology; and Science and Technology, Government of Karnataka, have signed a Memorandum of Understanding (MoU) to promote cooperation in AI, FinTech and other ..."
-    publishedDateTime: 2020-01-24T10:58:00Z
-    sourceUrl: https://www.aninews.in/news/business/business/bahrain-and-karnataka-sign-memorandum-of-understanding-promoting-cooperation-in-fintech-ai-iot-and-cyber-security20200124162553/
+    excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
+    publishedDateTime: 2020-01-24T11:26:00Z
+    sourceUrl: https://news.webindia123.com/news/Articles/Business/20200124/3494590.html
     type: article
     provider:
-      name: Asian News International
-      domain: aninews.in
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "7m7yCOGWFAq+snretu9PMS8UEdcurGCqKmVW63TUyS7ewfhXdrDINDI4XO+fYH3FsoPMeXPrniERHBJ3iuScuHoJhLGHuIgF/20iGfzr/nFMIbxvDMUqICrw1xpgMtr/YF0EyWKupVWv7NNY6W8GjP4un2ayx8zVyqE0F+aomsDyr68XzyagbtdmjFmrDiSo8BwTlsxVfQkeEd0L74O7MNYgg9tuF+MnvmEBDxQSCeQf1DGvb4DsokTUBXzPv98SMzfDxxNgjFWYTtBTNlhHAG75cYaJFGXKUszsD5UOaBThdnZPCtH0l7bF6Z49Ojz4;uI5Q8QPYPVw0Gh/SP+apQg=="

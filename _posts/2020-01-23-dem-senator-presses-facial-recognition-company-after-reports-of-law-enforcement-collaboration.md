@@ -8,7 +8,7 @@ ampUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-
 cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
 type: article
 quality: 148
-heat: 348
+heat: 358
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Dem senator presses facial recognition company after reports of law enforcement collaboration"
 
 related:
+  - title: "Twitter demands AI company stops using its images to fuel facial recognition"
+    excerpt: "Twitter had demanded that an AI company stops taking images from its website to be used with facial recognition software, and deletes the images it has collected thus far. Clearview recived a cease and desist letter from Twitter, after it emerged it has harvested more than three billion photographs from sites such as Twitter and Facebook ..."
+    publishedDateTime: 2020-01-24T11:58:00Z
+    sourceUrl: https://www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel
+    ampUrl: https://www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel?amp
+    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel?amp
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 101
+    images:
+      - url: https://media.itpro.co.uk/image/upload/v1579864686/FacialRecognitionApp.jpg
+        width: 4707
+        height: 3138
   - title: "The European Union considering temporary facial recognition ban"
     excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
     publishedDateTime: 2020-01-19T16:40:00Z

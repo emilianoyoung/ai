@@ -45,6 +45,21 @@ related:
       - url: https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg
         width: 980
         height: 551
+  - title: "Twitter demands AI company stops using its images to fuel facial recognition"
+    excerpt: "Twitter had demanded that an AI company stops taking images from its website to be used with facial recognition software, and deletes the images it has collected thus far. Clearview recived a cease and desist letter from Twitter, after it emerged it has harvested more than three billion photographs from sites such as Twitter and Facebook ..."
+    publishedDateTime: 2020-01-24T11:58:00Z
+    sourceUrl: https://www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel
+    ampUrl: https://www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel?amp
+    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/data-governance/354628/twitter-demands-ai-company-stops-using-its-images-to-fuel?amp
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 101
+    images:
+      - url: https://media.itpro.co.uk/image/upload/v1579864686/FacialRecognitionApp.jpg
+        width: 4707
+        height: 3138
   - title: "Law enforcement is using a facial recognition app with huge privacy issues"
     excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
     publishedDateTime: 2020-01-18T19:45:00Z

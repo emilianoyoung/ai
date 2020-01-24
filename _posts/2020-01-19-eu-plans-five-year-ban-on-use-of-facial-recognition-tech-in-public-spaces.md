@@ -234,6 +234,19 @@ related:
       - url: https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg
         width: 512
         height: 288
+  - title: "Met police to deploy facial recognition cameras"
+    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
+    publishedDateTime: 2020-01-24T11:41:00Z
+    sourceUrl: https://www.bbc.com/news/uk-51237665
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 69
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
+        width: 1024
+        height: 576
   - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
     excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
     publishedDateTime: 2020-01-20T12:00:00Z
@@ -429,6 +442,21 @@ related:
       - url: https://thenypost.files.wordpress.com/2020/01/nypd-3-1.jpg?quality=90&strip=all&w=1200
         width: 1200
         height: 800
+  - title: "Police introduce facial recognition cameras to hunt ‘watchlist’ of criminals"
+    excerpt: "Scotland Yard has announced plans to use controversial facial recognition across London, despite concerns over the technology’s accuracy and privacy issues. The Metropolitan Police said every ..."
+    publishedDateTime: 2020-01-24T11:57:00Z
+    sourceUrl: https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/
+    ampUrl: https://metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/
+    cdnAmpUrl: https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/01/24/police-introduce-facial-recognition-cameras-hunt-watchlist-criminals-12116414/amp/
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 56
+    images:
+      - url: https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/01/PRI_118868082.jpg?quality=90&strip=all&zoom=1&resize=600%2C400&ssl=1
+        width: 600
+        height: 400
   - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
     excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
     publishedDateTime: 2020-01-20T17:27:00Z

@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
-excerpt: "Davos [Switzerland], Jan 24 (ANI/NewsVoir): The Bahrain Economic Development Board (EDB) - the Kingdom's investment promotion agency - and the Department of Information Technology; Biotechnology; and Science and Technology, Government of Karnataka, have signed a Memorandum of Understanding (MoU) to promote cooperation in AI, FinTech and other ..."
-publishedDateTime: 2020-01-24T10:58:00Z
-sourceUrl: https://www.aninews.in/news/business/business/bahrain-and-karnataka-sign-memorandum-of-understanding-promoting-cooperation-in-fintech-ai-iot-and-cyber-security20200124162553/
+excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
+publishedDateTime: 2020-01-24T11:26:00Z
+sourceUrl: https://news.webindia123.com/news/Articles/Business/20200124/3494590.html
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Asian News International
-  domain: aninews.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
@@ -47,6 +47,6 @@ related:
         width: 1079
         height: 565
 
-secured: "2Cg4GxC5IM4KqciQXbrzK8XnEqv9Md+Tr+JYJC8ADAOLtRL8lC562/rM9Ka516oKLxaD4SlfosJGsGp6PSNoWJ6xc4ZSLEwbTdSs2+aUOrOGKuwaaw5wV3GYRN7aYjEAVlxONKKhk+ZY8hpIC53EbXV9pit7YdZp66XcVLor1GGj8M0VvDx6AoLi2/hYUvI+GpSid+BL4zbrgTb9FaIxHOuAKlGLzYES1N1OlNX2+Vu8dLBZIsc87sHHVv3mITBmDmuk3j1bkGNsKz1CzJvbotiETGpaPVURWKm/r7DIh8HifQPustAdWiNhiq9i7HYZskRIO/QXSvVhrZtuyj5yO0VVD3MEb30ueop0efZs918eVCn8TJrU5Da6NjbgbPmtq/sXj18erf4SpEbXv1VDgiGMNcVm+UOSur7uR7+MNpdO6PsET6A+YQBWQvtVyTBJidj2bs9skNn4IfrpqU+RN4xUzXmagJI/gRqZLZnjSVc=;EoIBf2pkdc5Y/epneGJbBQ=="
+secured: "ojG6VUBHHRp/ThgzQqt1REfbWUC/q5RRCcaDxbmWIPttqAYSqF/Y4EDw8NPJVs+0nBpaVwlk0JHfBWKFdcQUDGDMIkKOqetzqvc34EdUqliNBWIgrzcMHx/lIIu9/JjXdnpf6gjra3iDRPGQtMbupKfxXc3fKUsTeOcdSNfAWE7FvxZW90OJS3fh8IzUKrXH4KbZN/BjIkW87+xf4jttREX9LjQdFLrrADsuG2GKP3lYPyD3v5O2UrPkMGdjZ8tiB0VP9XVQXmRvhcPMc3UyLSJTNu5PzVDRrVOdrUCgcvW0tYbDoebRCZp1WpPgxkre;GhmcoQtnXOwzlbca39b+sA=="
 ---
 
