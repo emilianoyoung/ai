@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T10:08:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-observe-a-superlative-cagr-of-4208-by-2024-2020-01-23
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Machine Learning Market to Observe A Superlative CAGR of 42.08 % By 2024"
 
 related:
+  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
+    excerpt: "Artificial Intelligence and Machine Learning Report by Material, Application, and Geography - Global Forecast to 2024 is a professional and in-depth research report on the world's major regional market conditions,"
+    publishedDateTime: 2020-01-24T07:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-01-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
     excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
     publishedDateTime: 2020-01-23T09:25:00Z
