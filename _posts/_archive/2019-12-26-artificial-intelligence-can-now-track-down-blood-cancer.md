@@ -7,9 +7,9 @@ sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-c
 ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
-quality: 59
-heat: 69
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: The Asian Age
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg
-    width: 800
-    height: 448
-    title: "Artificial intelligence can now track down blood cancer"
 
 related:
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
@@ -38,6 +32,6 @@ related:
       domain: indiatimes.com
     quality: 39
 
-secured: "35uW1JoCwIPUQUYw0xPEhivM068kwOtsHbhVVn/y7rm7fmhh+cl6jw561NhnQWFIz9h2u+UNA8s2KkcaW+ZVR4B1sq4T0wM7abwLj3P8PonsRZ1oLCMpAgGc7SPm2atJFnG9wUh5CAXqJ1l+AgSpWXHIj74bdEwpjqmdivt8oBraNf+6jzafZ7jmslRydchAU1wSj7m/7C9e4FXimgyMWsIDUyqAIZV2B182mTh37MMUUo+JpXCf7cPpx1U3MF2CWFnJXXG4yoq7fwANgyZUZetqPJHmCSQyjOcywieUgK9Vq8B5sm8DIA10EUxDYbCH;aWZetx/KEirA6bSbq11pFQ=="
+secured: "DRJmZ0BUEzs+NvKLs302Tn52LFxz0PJy4SweXbRc5JrrYf/0esxsdGVyseQI15QPytSC2TYK4RzVuc/Vajt600p4oeuIKzgxmFLpBzZlRZqSJUWkCd22NEAIxRtwVluZiLiAiM/DZ1uqNuj7GeX23axRGovNex5WGHMKoN8mPDrJy258cSlXe5gz7gl6xoPs64gaTPLlJb8xkxryMT9lzn2N1xbH0Ki9onRRhwU7SvvYVhbxRPWcvXU/qV+dq60YFncpNArOBteMQ2BeybfIMkezv0I523wUO2mQvvkJkgcx+C3IWV4bs400AI7W9w2s;qc2hZai0RkdqPDbJbW9UDw=="
 ---
 

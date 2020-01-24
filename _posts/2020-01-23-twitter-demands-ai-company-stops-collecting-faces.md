@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-51220654
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51220654
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     height: 576
     title: "Twitter demands AI company stops 'collecting faces'"
 
-secured: "hsXz6ZpZGPDbtKyDu7On2XuLVavnwvnU1dA+i1roYpix9fWP/P5Fiw7RvNtV62DGK+8lvD8Wb4MXIwLVKEbyutWZaNpaUimW0pqD7Wd6jgvDbD3j+JLvNFRB3cwi11ZVj7cG1N/CN7QcDiXhvWxL6zi3N7c2C9e3YjwlHEDgE7dmHA/u/m1lZkm/Q08pRJ+VgU0y1xKfR9zDPN9o2jyfEJVNgE78D7PCApShZyUK3IhmtMuboaln8Aw9G9N2VeKqGzoKaPKqrCYDZdsjtfZSspCOXA6bQ7l1jNPqUVM2EVegta6ekJN3HMJgq+BzjBFe;UzOEflANg/0pCPRSEg5UBg=="
+related:
+  - title: "Twitter tells facial-recognition app maker to stop collecting its data"
+    excerpt: "Twitter is demanding an artificial intelligence company stop collecting data from the social media platform for its facial recognition database."
+    publishedDateTime: 2020-01-23T22:05:00Z
+    sourceUrl: https://thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces
+    ampUrl: https://thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479642-twitter-tells-facial-recognition-app-maker-to-stop-collecting-faces?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 44
+    images:
+      - url: https://thehill.com/sites/default/files/twitter_090419getty.jpg
+        width: 980
+        height: 551
+
+secured: "jA1ELZg4UAvzr4qZzB34eBosQ7p3Cn4eSRxfQ2aQEVZTdSaoXQK3EW6AzobWoe3VRY7fHe9AtoIoeSx3zlh07UxjWRFwJPHd6SKRSwdPdMjRMDK1JsL/KFTA3BJXM6LRnFKRnYJuu+kGLxKvfPZPDpDf5f+1sURT4rVSDsolLUFMp6c4Hn+K5xxhXi+BjYLmP64jcTRUwg6+335LwApSpqOu+qhSBal3ga0YGb0gGUO4zm4LfbtKVYazL7YppjXm0k+Ma+L90azC8OzkQDBEy//GJbfBZFYYGAbUAVWFIVHwx6QyknfRV2KKG31FDF2A6lt2CJ4oSkS+C2bUiInN0bcii6G4hCNd7IULbhcfwkSkKs4vv+4LWBukQEQ6FFZ9omlH3HNwaEvUg2+1iceSA/K03DDGbYaMStsah5YY15LfZ8P1Er0gCfUDLz+d6Pu6IMJ5bp2boTUTS9c4z/5p/nCF8VSzTk/MAR6SH7Jv9vM=;Xd5rihvDxt7SUjRtXfnfFg=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 400
     title: "PyTorch3d is FAIR's library of reusable components for deep learning with 3D data."
 
-secured: "E/q0U2Dfn+hF0pK2siPT62ZqWMU0FAE5rttxbnIzhxi+VkMiasz/voeU+lju3ariCxs0Mrh3uPGxoB0P/6ddpzM1M3ahDhqliNQ87MhGTJplRL+F2nCSylfMBQ/Ri/cILm/MkM8OUZH1cDsHl9BIrqqPD608/ijmUOUyIfxxfle6IH1Fj/qdMsTXocFFJwYEOCslSQqbOeUAz/4hB7k3I7r9BT/S3iRT6LL2y1uowqpzF48HLQM3y3d6F/ihxZLTo6fTz2+fkPiHHg7NWd6rE5ugbBw3NXeczApRhUPgN0DJ25fPutBid2KIAAT4QfLD;Nqqv9Gr27PnMO7rGZIuMqg=="
+secured: "BigxMGzeaR2tWwuSJ5CzfOyyEbVLxLVgA1CIiOM4aU580EtF6Pmazp9H8+KWrXFGrlhq9X+z21qppSKBZQY3/GPojlhzCfRV1NRVbgUDEQWK/fcrDFEAB/gPERQ2mgmb/i4XoAwWVMdguz7mrzPZSDys26dpexZjnjssWJRuhBRrkSXfJelKaKFpPECluskZZq9+qtywK7zrpxUwZangB82H9LPFeFnALMtWCoqIFqctqxzErHSwvFRwFiJIW7I9n3aKmzRbpYk4sH0Bu/D+H3esL77Tch76jgmKoXPzw4Ns9vcvsz6t0rWFZRymSTb4L1z49P8bOslBO+0HZ2lVw1anNelR7sNgNERA9gLX4L0p6LxKTnTAWdh/bwFXzL7BpGy1mh8ZCpxNQveB3L4Q3yia+469ezvoOZekTPkUsKBgvPsSDXb9lYAGp+YIaxqvt3XE3jHtoLjMQxmVJZH2gK4x+YK87IaOxSaPQREl1qI=;UdqEY5Em8gmPh3W+rbjhkA=="
 ---
 
