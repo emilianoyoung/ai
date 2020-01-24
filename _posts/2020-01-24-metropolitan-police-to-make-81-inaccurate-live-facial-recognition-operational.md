@@ -26,30 +26,49 @@ images:
     title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
 
 related:
-  - title: "Global Facial Recognition Biometrics Market 2020 NEC Corporation, Ingersoll Rand, RCG Holdings Ltd."
-    excerpt: "The research document entitled Facial Recognition Biometrics by Market Research Store intends to reveal various facets of the global market with the assistance of the key elements influencing the market,"
-    publishedDateTime: 2020-01-24T09:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-facial-recognition-biometrics-market-2020-nec-corporation-ingersoll-rand-rcg-holdings-ltd-2020-01-24
+  - title: "London’s Met Police switches on live facial recognition, flying in face of human rights concerns"
+    excerpt: "While EU lawmakers are mulling a temporary ban on the use of facial recognition to safeguard individuals’ rights, as part of risk-focused plan to regulate AI, London’s Met Police has today forged ahead with deploying the privacy hostile technology — flipping the switch on operational use of live facial recognition in the UK capital."
+    publishedDateTime: 2020-01-24T13:09:00Z
+    sourceUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/
+    ampUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 76
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
-    excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
-    publishedDateTime: 2020-01-21T09:14:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15152025/suprema-unveils-its-latest-facial-recognition-solution-at-intersec-2020
-    ampUrl: https://amp.benzinga.com/amp/content/15152025
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152025
+      - url: https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-826000302.jpg?w=1024
+        width: 1024
+        height: 652
+  - title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
+    excerpt: "LONDON -- Facial recognition technology is set to be rolled out across London by the Metropolitan Police Service beginning Friday, despite concerns over the technology’s effectiveness and objections from privacy advocates. The use of Live Facial Recognition (LFR) technology will be “intelligence-led and deployed to specific locations” and ..."
+    publishedDateTime: 2020-01-24T13:36:00Z
+    sourceUrl: https://abcnews.go.com/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
+    ampUrl: https://abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: ABC
+      domain: go.com
+    quality: 43
+    images:
+      - url: https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg
+        width: 992
+        height: 558
+  - title: "Facial recognition to be rolled out across London by police, despite privacy concerns"
+    excerpt: "Police are to start using controversial facial recognition across London, despite concerns over the technology's accuracy and privacy issues. The Metropolitan Police said every deployment would be “bespoke” and target lists of wanted offenders or vulnerable missing people. Assistant Commissioner Nick Ephgrave said live facial recognition ..."
+    publishedDateTime: 2020-01-24T10:36:00Z
+    sourceUrl: https://www.independent.co.uk/news/uk/crime/facial-recognition-london-met-police-scotland-yard-privacy-a9299986.html
+    type: article
+    provider:
+      name: Independent
+      domain: independent.co.uk
+    quality: 32
+    images:
+      - url: https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/27/18/facial-recognition-stratford-1.jpg
+        width: 2048
+        height: 1536
 
 secured: "8Afzz2dTaMVjMZtj7jDDZEgXEkUu7Gsn8N4bUUE5MdSdIPoLrueY6bTsoDJ8hDf3zGpYH7KVUJpgM6d+sfAgvMComudiAp7Nyj/lOFxwM+b2uK4AiLqPrGWB60Z89kauA6tcFn3h9w9Z1lCPhs1NRZ9YQWNpz34N/jGQw0ql1YQkZab5zLz42HePgfZTVl834sCQ7Gt9AdIz4NezoiHZPMcMk9iyLZYX3Puo+JDv+xunuANk/NhwDBOtp0a6GHeVBIeJnM/4C3xQHsqR8rSFAl8lYpLFEh/fJFTAiHblu7Y7B+0hF8TrR+uslJNg79wG;koteWl5TRYji2HDbPpp91w=="
 ---

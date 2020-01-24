@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-24T10:36:00Z
 sourceUrl: https://www.independent.co.uk/news/uk/crime/facial-recognition-london-met-police-scotland-yard-privacy-a9299986.html
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,17 +24,51 @@ images:
     title: "Facial recognition to be rolled out across London by police, despite privacy concerns"
 
 related:
-  - title: "Ontario watchdog would be ‘very concerned’ about police using tools like Clearview AI"
-    excerpt: "Clearview AI’s website includes a testimonial from an unnamed person the company claims is ... consists of a one-to-one comparison between the photo of the traveller taken at the kiosk to the photograph stored on the chip in the travellers’ ePassport,” the spokesperson said. Vito Pilieci, a spokesperson for the privacy commissioner ..."
-    publishedDateTime: 2020-01-24T11:00:00Z
-    sourceUrl: https://globalnews.ca/news/6442933/canada-police-facial-recognition/
-    ampUrl: https://globalnews.ca/news/6442933/canada-police-facial-recognition/amp/
-    cdnAmpUrl: https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6442933/canada-police-facial-recognition/amp/
+  - title: "London’s Met Police switches on live facial recognition, flying in face of human rights concerns"
+    excerpt: "While EU lawmakers are mulling a temporary ban on the use of facial recognition to safeguard individuals’ rights, as part of risk-focused plan to regulate AI, London’s Met Police has today forged ahead with deploying the privacy hostile technology — flipping the switch on operational use of live facial recognition in the UK capital."
+    publishedDateTime: 2020-01-24T13:09:00Z
+    sourceUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/
+    ampUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 32
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 76
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-826000302.jpg?w=1024
+        width: 1024
+        height: 652
+  - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
+    excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
+    publishedDateTime: 2020-01-24T12:54:00Z
+    sourceUrl: https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    ampUrl: https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 54
+    images:
+      - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
+        width: 1600
+        height: 900
+  - title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
+    excerpt: "LONDON -- Facial recognition technology is set to be rolled out across London by the Metropolitan Police Service beginning Friday, despite concerns over the technology’s effectiveness and objections from privacy advocates. The use of Live Facial Recognition (LFR) technology will be “intelligence-led and deployed to specific locations” and ..."
+    publishedDateTime: 2020-01-24T13:36:00Z
+    sourceUrl: https://abcnews.go.com/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
+    ampUrl: https://abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/controversial-facial-recognition-technology-rolled-london-police-alarming/story?id=68501552
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 43
+    images:
+      - url: https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg
+        width: 992
+        height: 558
 
 secured: "mRxo0IDuXDnxJuvouBEOp8uU9ERnRyv5aS8nm58Dz0J69cG2UQZ+YHmGJSanjkBAw6rLMhZypPYJBnBrpsqGNffB65yQuUIaubF1Bpc9aSBtrk5+fI+eQfKj4y0Pwj3QdqcaV9F9Mun9f6dtTuKSnce4r/RBEU5ig+LtedhLvDivG/cJtgMe1Lc+AgDn+B29bCyelBE+SmYyacGSSD8Ryg2XGGMETUzL3ALDaiAvoFWyFiUc7YsPmRIjyPiyhfTV+3OzOTK+BoDv4+6xo6Fw4GgykcHxWiW1kGv9Z1nbUuy0AKW7RQacFIzzQSiueGUs;S/2QLLBlW8NKeWIUux0QZQ=="
 ---

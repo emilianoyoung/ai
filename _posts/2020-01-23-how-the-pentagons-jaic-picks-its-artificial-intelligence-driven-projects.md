@@ -22,6 +22,6 @@ images:
     height: 400
     title: "How the Pentagon’s JAIC Picks Its Artificial Intelligence-Driven Projects"
 
-secured: "ybHQAWIzpmXn5j6G2UAjwj9TuuO5JIGpdl/42LGlt1eCmeb8hez+YucvfwIjrmco/KoBG/HeuRjLT8mNFFJWO0ZIcSRdQl6V/Gl01hF+cSwx2zvBcTHTh92tFc5Hp03de1QuweX15A/UPzM3qwEDVlk6usP/EpOAHi6ff6e82wLDyDi2CxFo/w68yRTQtB3joZEzbG7sS58wnJjtM8oRms/bwaEb3rqqzKpmsfkDmkICRziLI5A3kXU9P2+79ZCAbyGwx1DN9n3krX6JIIdN8so0ByxIZMrkwiNqVe9W/80jUXEUvYu8zmKVc0RZ6pWM;3IWLb+tAEAFxlBOQ6YSyEg=="
+secured: "18KVWQ6HuJYTNIZ8f6Td0BD9qzwg/SN337McM7gV/zqEWboHMwwQBhyELKfZxt3m6hGVqQIsddnrY3MB3Cz1U//UV4kG032pDegn1eIkMkDJOFAvEGH2cZmKowM/z9w7wiK7P5hBf8Qp4pavOd+DcyrYkkg1STVhc+wi48nF/5wpMGHAbERWwpXi+vp/X3L7L2J/9DVSHq5ONBSZWHJImjnuQ05pKCRr0m+Y/d2ZiXvisOzX6+bLbdGY39LI9i0vF9bzCbCgqfXkxlCIhIOOYX2tTnZT/5+CGUtg99TvfBKc5tu/3JK2fx4AOlNNAvCtpH4dWnZa/3J87gbZAnTwvn3Y1h38/dZJXuXYNA2jIhZ/tnefzccVo75lJHJOZfDRyOJynrm0tpkY6sazv4j3AvT4TDpyxkw0jhhLoeI+hobY/ycMcExY1GRZHXXiTeH9/ejO/MSKTP4ZiqSKG6ZKbzkfdzGCFWjZBOUhNM2q5fY=;vEYMjlWk3vmc7nrL74uQQw=="
 ---
 

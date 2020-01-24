@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/23/ai-adoption-surve
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/23/ai-adoption-survey-shows-surprising-results/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 371
     title: "AI Adoption Survey Shows Surprising Results"
 
-secured: "ygbCS6VQWUJZzpSdIsdjJOCJegn/voj9am2f/iUBGr/lgvLGw4tLUKCosZ1d29d9HhahBNEoCsyPqBI2GD3uA1X9Un5rCnc4SBH7iNbPRovYIZ1t2oxy9Y1iv1tOzvMJO/ZrSJaAGUcMxnTrDj+ea8TCVfKGvomqyC6cNetsOa+romBBFOw6nO2m+l8T8PtZaWK7kcg5ndhSNlbE6m1tMfo2v9NPxBQoYPFIKlB8f1h8uISCnTm1Pu6MCyDB4yYm7pbgHCsJ7+jjB5ZF7pZT7doy1I0q3mvCUIqTW52Y7j/lLfA54tu4DdzWkMSY4ZSwiWH9fBUzhUyijTMnZwzZmL9rtak14UOigph+FqkBOWiYEhErHmg13jUD0x9gNPAkegSGHYyImWPK/3eVe++l8RYXHSKub+pFxmwSkPocjpCPFb7JFlQFQBl2CMYXr4Bb27XTAePmotgHbNul954ao/SkxHiKfWKHVxPBL8Ipm1A=;ej/DowMr/CG+hUhtQuESpQ=="
+secured: "5d4SDxKHyoBaNEA71zVfFZ/FqgdLY3C8OvaqSfH2p63td9MvuPupqvk+ht6AOSLIBqGTidyADHwTBfD2r2PkgKJ0TN8mvUxr/qxR6Ty8Y10DzbV3NLhNN+Q+dDUHRrpnWHrky+ILEqYGzjCCVgN273faMpRF+mH3qA3tGkoz5kBFIXGWCuOr9KhF3X2oYToowBtdH8wZczjkxz6cyr6heKBgwIKr8pM+pgOsut+y28c7uAz0+s8rXe1tr53XZwCFoEzklkL7avD7qaEmqb3qQPss7cayRfrxVgL3t+UfNdV034F5najMc5eJGn5n3Dek/Pi0mHMxD83dE6F6xB5TLlNFCyKhxT+VSV19wNC/BYMiUps28RCZWdGMvscsl2ggXZsJncphugdC6Joqm59I6UvQUj6p/kDYHCwm4pl6Sen59WpuoWBx0eIA4ChNp+JSmPsrKpbiB8llrQftHqkYl+XH4QijqivjehAozT1LR7A=;lt1ofDyc9I4dZyFiA9mvOA=="
 ---
 
