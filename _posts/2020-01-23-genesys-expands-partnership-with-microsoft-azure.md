@@ -3,7 +3,7 @@ category: news
 title: "Genesys expands partnership with Microsoft Azure"
 excerpt: "Customers will benefit from a streamlined buying process that puts them on a clear path to the cloud. The companies are also exploring and creating new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
 publishedDateTime: 2020-01-23T16:22:00Z
-sourceUrl: https://www.telecompaper.com/news/microsoft-genesys-expand-partnership--1323890
+sourceUrl: https://www.telecompaper.com/news/genesys-expands-partnership-with-microsoft-azure--1323890
 type: article
 quality: 34
 heat: -1
@@ -47,6 +47,6 @@ related:
         width: 1200
         height: 627
 
-secured: "Ln2tYhS0uDSiUmHceYpRGejVtPgThxz7fJtRtHdhCNfISMCvKKfORUnFhpFr4R+ffw7flhBAVXJbCCsR2VO0cNGh+uiAZBrompkB+gx1YPEh4RRa95uS1zZ75F1U6J26QDRv6cxdN8H9tLCEztMJEbN2ts8HolJOfXI+8u5pekFYg5p2ngYrs+7V6ACHkNRpxxVe9e1ZKV/M7AIpFBweGVuPOLbYQUbgZbkz9KmSyQtY7G6OtSkImXMfpQG6utEFTmPK3Uujjh5/PV8kr89aCWFnjvl9VycLvoZ9bx3Xzm93LFwTG8x5sCzJBVek/xrv;e9B3pMF+/W4In4a6xOIS2g=="
+secured: "EqrjS6VvQQP+xDnKZV2B8Xx1DcznHznZscstS7Rg2wFK/yTL0+c9deiCBqlkIWkXKxt7JVj+QyUUumIaKaxxoqRybk3QhJIeHmuz1HeDSJDcFUFiorVEHstUTmAStxK6oYdW1wJVDXhLXqjrdMCrEZCOyfOM7YjheGfwIfNN40H/h4+66K59JCPHd9yWRdbpESsSINdjjJ+Qif5QvLCWh0Nt9yRop9He4DkpKp88hbgh2sbEMA/nxBxdo4wzaf8NZpu9bjVsOUdVTUDGmD2QGFYVtuirhf3CKiabdvtiwi9k0YCG6uDRx9oL0S4XgQgz;T2jl5SKDeEwZqmewqkHQ+g=="
 ---
 

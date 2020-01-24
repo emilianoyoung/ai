@@ -20,21 +20,21 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facial recognition's accuracy is the least of our worries, lawmakers say"
-    excerpt: "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ..."
-    publishedDateTime: 2020-01-16T00:34:00Z
-    sourceUrl: https://www.cnet.com/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
-    ampUrl: https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/
+  - title: "Facial recognition could help discover fate of Holocaust victims"
+    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
+    publishedDateTime: 2020-01-21T11:39:00Z
+    sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg
-        width: 756
-        height: 567
+      - url: https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC
+        width: 818
+        height: 545
 
 secured: "LvronbTOXCcNdsPfu1b0HsjzDeJ0zujAF2J6U0V8BQ8J08+LYDWwSz7ygrWfT2CLCNrZBPPkZ8b48tO6dTbj70vBuz1Bdur8BDn/kcBjMMDew+SNlaeStn1KI10jHXp6sdOt8O58C7fbwA8ftRf2NNy3iKPeez3vle6et48abLcQksn/ZZhb1TDqM0QOUg4Ir1e6SQBCjYGrlTZRQRPpB2xbZlv4vXdyPRSLWSMm6oqk/OiRpTP+QPtRhe4Ov3J6DbMbW9VyQVE2AZ3pV8ooXrx0VO9gEvs/bNNO9YgYRQfxEFK8O/XiQ72P8yOdIBHsoGPy45vC4P7+dCE4Cf/MNVX19d1pfBLEQjUcpk8nldYBqdTFv5o7LJyNoTOmpi6Y1S5DMsvBxYF5zaXvhbQbAVlWEp7Xw4JJC4RQHrlHXIZFm8dpTf5ipN3CdX2EAnFY1Dr2eJ9gjJuOQMKFNbmy3A==;O5+xPyqDeu4BHDOICaH5PA=="
 ---
