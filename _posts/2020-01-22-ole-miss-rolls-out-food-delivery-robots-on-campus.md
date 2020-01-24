@@ -31,6 +31,19 @@ related:
       - url: https://www.wlox.com/resizer/YTBcIDYD2at1iuFPleAdKKkiiVI=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/K5HBSHMBJFB7DEYPZIQESOTIQE.jpg
         width: 1200
         height: 673
+  - title: "Starship delivery robots arrive at Ole Miss"
+    excerpt: "The robots leverage machine learning, artificial intelligence and a series of on-board sensors to navigate on sidewalks and avoid obstacles. Each robot can carry up to 20 pounds, as well as cross streets, climb curbs, travel at night and operate in both rain and snow."
+    publishedDateTime: 2020-01-24T15:21:00Z
+    sourceUrl: https://www.cr80news.com/news-item/starship-delivery-robots-arrive-at-ole-miss/
+    type: article
+    provider:
+      name: CR80News
+      domain: cr80news.com
+    quality: 39
+    images:
+      - url: https://www.cr80news.com/wp-content/uploads/2020/01/OleMiss_Starship.png
+        width: 1772
+        height: 926
 
 secured: "rKJrRpi4qAUz+8uonQh6nbASjlRiAFryvHJAX5ThsgLF8ObQLXAWP+I1DtlfBKtd8UpSCZE84IfdwF8matJFOuufhR5K9bkC3VhbG3tqAb0WdYUvhMv17h4HlGcpL057aPtaYTfZl6Zwk7sQmcFQiWhN5uL9XlCilAz1NUs5fqAmz4alu8d4Rr/8PIVswq9wjTQ9iinZQgBHhjIdCmAYdnEfrhEqcP/zWxyznAk8YPZa84tqOcZdeCy6YsZ1d1DVfM/vzcpeakwkRRaDjl6sXAo/eP0H7g5MTjDV6RlxibSxoH6XpgOyfTLmzH5ZCBzGp53E9EMUnYiyzKeFcFaS6fUs3niIijfeR1ECRCIjSBHSCaCGaBR2LTiGmXjgqzJCxcqIQ5NKNO6iAxBpk8npC9z3Rdk7sADdfvWx27vfnf704sFgCmmXQBsDBFpfZU4/4omJX/NufquWUqpifHaVJA==;HvZxZhw+bkKWpz8bf/7iGw=="
 ---

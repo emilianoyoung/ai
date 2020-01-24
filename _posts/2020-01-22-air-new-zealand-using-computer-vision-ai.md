@@ -25,6 +25,6 @@ images:
     height: 250
     title: "Air New Zealand using computer vision AI"
 
-secured: "5QL+sEhilnzuA0yc99rBed374pkLkB8PFXsapQA3RfpVzsQhHQDIjpUTgsHSIvg/Md8vc6upxLwkUae6fnRQEcMj7lIk0zEIXxPKAH55hqDHY6DJdo4wWcS/5rlX/OZHQvenxq4+U5QKuT4ghVEVmFATjTBvMom+ZtTf//A8z/XNovWO48WyUTUPHIj1PidHZw6kFlMd4e+sxpWbtTpD30+RviiL+TevyDyS3BtIYDcrfdsckgAOtNrSxweKf+Kj8DylVZWm354cRWklWlpeifWy7h/WscRshmqNsRINZi5nVLUijS++5vMYyo6uP7lP;6jSu0KHZMwIhVr+wakXccg=="
+secured: "wsNgwyPz2iu+r3mKf/nh2XAnwYFHmduuGri71PzauOBnnqrmBRjbF3ckk7oZAENnWgWAQFCfnMX4Ux2Bgan5GBJQBHjrLVf8KDTqR4FXWU4aukZmS/LeiOI2WnEpEldu/N8JjN2mLjQjcIjqUjGA1lct+NajjrrEAxMqktiJ5PXAT9vHEqrW64sNfh7ChOHD0JMF6SIUSxpyx14VQg/S2mVvWc5vGh+T/mSsJPbUwG+KOPscXwzL40FRyCmwHsmgl/D4f5lxWVvMEh6P+h6Mg89qmiQOLsKVPmh7qndmnYw7ncIjA7lXJGOItOk/7W3v;c2YjZ6ZM8PKjcOpxaVscyg=="
 ---
 

@@ -26,6 +26,6 @@ images:
     height: 600
     title: "A top UiPath exec called its recent layoffs a 'natural part of the evolution.' Here's how the hot AI startup now plans to scale in 2020."
 
-secured: "GbE2URsEf37d6M/e0kkkCx1MYeD/CHEQ/WtjwN7GNmuwM/MPtJ/RcLDO8+nd2KWXtRNguNec+UQaO+Dl9A2SKZtdxDrtK+zMgpaqg1BngJqmaE6n1wvvvbxG0LadbHBlEwzzGbOtGSyihUAsh4ngsGWo+84VcUAslGLhh8G31Er6tKw4EG/SAJq07xqdTCLdElsyEBxwmj8duHeM0zG8zhKrtBvHboL0tWyB3jXDW1ZgCt4YQEwNrK9PfUK1IFs4tCfv0WysAsuZopc78RHEBH/g2Z3MAcSNEqgs6wz1mZykVJr4VSxMOamV9dvUOk/n;AXABe9Fpkx8RV+oX+DIdhg=="
+secured: "O70DsPO90JmGLaC/GsHeEXA+5/cn5FXOcWem9ZH+TqUN5RwgDYISq8VtK86g7y0F5u8sn4OYSHEMYncNiZMbnMtfrOnbSnC112Fm5j9I9mH4NZ1iUNNW0bSmjJ9Nna8vJnHFX/R1NjuQxLaYniGvgr0+ZLofLar2+rbkU3HigduoheE726+K8z4Q1mDsw4dKZct/ZlrYKNWZmFAvqQk3WIjzZRT3AmXwspuGx791KjQJrJ7HLBxDkGQgo0ZqmVQx8oh0+G2+6mxFkux/WFSnDaWwiw1ZKJZYZ1ge9WU4tYN1ZhjOEPug7nMZDXhTmsExewT64gwDtzIbQG09iizysCkH5pGYi1+Bd+fA/iAF3pKMQGYo9FDJ/HT3oP8vQuSncBoE/rhwmDFE1PdTORFOh4zEa0ahuiSUgg5wzQ7my/BJjXU26DRX2EzCI3W0h/KOiqJxZ8dE8n0L4yEBF023NDzE8VOrylo5gOK/HnoQJrs=;rLsJ8ZXQu3Nw6uL/HzIO3Q=="
 ---
 

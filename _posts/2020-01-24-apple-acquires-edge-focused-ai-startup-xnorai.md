@@ -22,6 +22,6 @@ images:
     height: 512
     title: "Apple Acquires Edge-Focused AI Startup Xnor.ai"
 
-secured: "AvqS1nlumgBFyNgGqe1jH5tgcNDiHZh1ZnP+eJ9UUs/yMHdqFzZFX1fdY/zHGdqV9F+BKeB+ZMuz/eE4idzaBPcoEc/vEqIuRGkrE2GoEwjWZzTe0YU+VUlTVbqxEjWrsT/mrvd2HDZoe+0znNSc26W0YNGu9J2qqaIPhKhMRkLA/qd1Ey+zbCiqs8iGNlekQGR1/LrYgRru95oidr7nSlI1yGyICzHLmM6PcVJiJ6xST/yRMh2669M3Sj6jffpaSkff1Z/PCPNprJlL4a58gkg78HzyisCzTBYwYgRUHQFIG85GteaSZeSServIZt7F;bSkeG0y78lbLT9TbgJ5wfQ=="
+secured: "l8IydIn9VURxtk/24ike9J/hA2+nOKrnfDFLKy67wd8+ZpMZrxPg1ALMj+CiPxLveDeOz7krYIQTtlXWc1I+5JpcciIsqyE/MYGkUuUHnDQpvhcxScU7ru+3DN+YfpI6QXbNl0KRv7NxQBVJWLPa/17HaXZdqwYWc2tvcaELBs82NglqVE44E9fy1/9LelnOXl3UwxB1BGHSY2gTsuGX+pwaiC/zUEC8dbsva/9aU2Nq+0QK8wvQi9Ha5knNKlwtzLlmU0ZcWqWrg3GaRAPPHsGsDFQWr5pYhozU8biMwiWtWzkKIx8S2Kkfq9oxu3QlEGyQkQK5Ao47z/eE6LkOS94cy0AkixOzqwKCcCcIHw8m5m+CG5Gflxpn5HrqKxlbD3tEGW0/x5nRQKhiGID7HXXAbSyNhcSwsNmbvXttnHNA1ZF5ErfrbulHpf0F5PScsAniSMP3dXoFhZ/9LNf+L901BbX2r45gDXuch+eQjkw=;/zq93dX1Ptyn/3NWHjohnQ=="
 ---
 

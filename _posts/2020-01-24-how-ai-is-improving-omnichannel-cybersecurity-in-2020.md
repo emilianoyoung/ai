@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improvin
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/amp/
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "How AI Is Improving Omnichannel CyberSecurity In 2020"
 
 related:
-  - title: "Dialing Into AI in 2020: Why Investing Now is Key"
-    excerpt: "Autonomous vehicles, robot performed surgeries, even understanding human sentiment is not far ... AI in the Palm of Your Hand Apple’s $200 million acquisition of Xnor.ai, a Seattle startup specializing in low-power, edge-based artificial intelligence tools, is the most recent of many investments across the industry to indicate AI will ..."
-    publishedDateTime: 2020-01-22T09:46:00Z
-    sourceUrl: https://www.geekwire.com/sponsor-post/dialing-ai-2020-investing-now-key/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 69
-    images:
-      - url: https://cdn.geekwire.com/wp-content/uploads/2020/01/630px-wide.jpg
-        width: 630
-        height: 500
   - title: "How LG’s Artificial Intelligence Is Changing How Consumers Use Appliances, Improving Sustainability And Doing Our Laundry Better"
     excerpt: "One of the biggest trends at CES 2020 was Artificial Intelligence or AI. Advances in this type of technology have truly changed the way consumers use many devices in a relatively short period. And we’ve only just begun to discover the potential of what it can do."
     publishedDateTime: 2020-01-20T16:20:00Z
@@ -117,6 +104,6 @@ related:
       domain: roboticsandautomationnews.com
     quality: 17
 
-secured: "NTnQdx6TNWVJYZJoxBRnwFNISTbX5UlMq5C+eyU9qF0baR/MagQOv2eTO6WedTgA3nCwqMPnmu7pLdtMZJ0yl+7lVH2JBUncatacypsfWf+khMY82Hip8YxGDSIlAiaS8CKUbADbyHeBpUQWCPPXVa9BeAiipN03OWeqcn5OgyAMGutlexz0otjGgrSC7OMbWxlx+KfSM601qog2A6ROfqIcffe4ZquAVThDzpQVaXizbOUr5UZ+TcOFPp0I81foJ/Fxz+T3OnblZgUcYftufoF+UaKwEKlpsnu18/Yy3UZ69ZeEmcbVqocg2zoGMy3L;J3605EjsfqdpedExPduJeA=="
+secured: "3exwXPYTiGCIbabk8MdwgNjaVRegxRjPmCyIE21SCsbGDw8QIDKBE7hhW2ZfqdhWGlJS9eWWK6EuptDQhj5i1VQfBovyimg7iWElbTQj+tI+QvVDdogOShYZZOfZAgOmSU6cRs5xOHNJAue69AUBKJwF9N/leZfkbr4FAulp+5SG+J6ICNHbJ+mVtQEoraHhtZVBgPCqae9zM2ozKfA99paaK0REKRyRfnygN3KWVlw4Digh+mYUulzAfagAwYVKHw9zPPSHBY7BYvp1+j1/imhANAvE66bWyiqfzoGTnhPZJlm5sveG1t/vJmwH1kQe4jvnhXmJutRjp5P/Hv9QyyWpKLTrL6iVAtFq93DYn6puRDZt079zsjiBw8FDb9a6XC8nGuOk7YhkXgU17qUmoCKNIKP3wymd1uq4qAX9Rz3gqVdArq97nqNITTtZRPNpaaMjgWW20JdHCGxcrAsS/b3QRbw/DSaIUFLvlSlYFKI=;vXX/8XggMjBKucfmaaB9MQ=="
 ---
 

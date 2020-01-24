@@ -8,8 +8,8 @@ ampUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-fa
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
 type: article
 quality: 76
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,21 @@ images:
     title: "London’s Met Police switches on live facial recognition, flying in face of human rights concerns"
 
 related:
+  - title: "London Police Amp Up Surveillance With Real-Time Facial Recognition"
+    excerpt: "The city, stepping into a debate over privacy, says it will use the technology “to tackle serious crime.” LONDON — London’s police department said on Friday that it would begin using facial recognition technology in the city to identify people off the street in real time with video cameras,"
+    publishedDateTime: 2020-01-24T14:57:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.html
+    ampUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg
+        width: 1050
+        height: 549
   - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
     excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
     publishedDateTime: 2020-01-24T12:54:00Z

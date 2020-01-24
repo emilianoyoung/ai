@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-support
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "How AI Supports And Accelerates Healthcare"
 
 related:
+  - title: "How Artificial Intelligence is progressing in mental healthcare"
+    excerpt: "According to the report, suicide is among the top 20 leading causes of death worldwide. Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers at the University of South Carolina’s Viterbi School of ..."
+    publishedDateTime: 2020-01-24T15:08:00Z
+    sourceUrl: https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html
+    ampUrl: https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 76
+    images:
+      - url: https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg
+        width: 600
+        height: 337
   - title: "How AI is humanizing health care"
     excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
     publishedDateTime: 2020-01-22T17:13:00Z

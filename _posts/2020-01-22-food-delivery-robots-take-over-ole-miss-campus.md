@@ -24,6 +24,19 @@ images:
     title: "Food delivery robots take over Ole Miss campus"
 
 related:
+  - title: "Starship delivery robots arrive at Ole Miss"
+    excerpt: "The robots leverage machine learning, artificial intelligence and a series of on-board sensors to navigate on sidewalks and avoid obstacles. Each robot can carry up to 20 pounds, as well as cross streets, climb curbs, travel at night and operate in both rain and snow."
+    publishedDateTime: 2020-01-24T15:21:00Z
+    sourceUrl: https://www.cr80news.com/news-item/starship-delivery-robots-arrive-at-ole-miss/
+    type: article
+    provider:
+      name: CR80News
+      domain: cr80news.com
+    quality: 39
+    images:
+      - url: https://www.cr80news.com/wp-content/uploads/2020/01/OleMiss_Starship.png
+        width: 1772
+        height: 926
   - title: "Ole Miss rolls out food delivery robots on campus"
     excerpt: "The robots can cross streets, climb curbs, travel at night and operate in rain and snow using a combination of sophisticated machine learning, artificial intelligence and sensors to navigate. A team of humans can monitor the robots’ progress remotely and take control if needed. “We're honored to be able to help make lives a little bit ..."
     publishedDateTime: 2020-01-22T20:26:00Z

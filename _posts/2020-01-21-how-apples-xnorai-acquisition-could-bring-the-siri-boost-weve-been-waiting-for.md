@@ -8,8 +8,8 @@ ampUrl: https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition
 cdnAmpUrl: https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Macworld
@@ -30,15 +30,36 @@ images:
     title: "How Apple’s Xnor.ai acquisition could bring the Siri boost we’ve been waiting for"
 
 related:
-  - title: "Apple’s latest acquisition is Seattle AI start-up Xnor.ai"
-    excerpt: "As the war to build the best smartphone camera rages on, Apple has purchased an AI start-up called Xnor.ai, in a move that has already had an impact on customers who have purchased Wyze cameras. Based in Seattle, Xnor.ai has developed technology that runs deep learning models on edge devices, such as phones IoT devices, cameras, drones and ..."
-    publishedDateTime: 2020-01-16T13:29:00Z
-    sourceUrl: https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera
+  - title: "Samsung and GE are cooking up the kitchen smarts I've been waiting for"
+    excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. I spent 15 minutes trying out the newest version of the Samsung Family Hub smart fridge at Samsung's CES booth this year. It was just me, the fridge, and version 5.0 of the software that runs the 21-inch touchscreen ..."
+    publishedDateTime: 2020-01-24T15:23:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 19
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg
+        width: 756
+        height: 567
+  - title: "Samsung and GE are on track to solve the pain of menu planning"
+    excerpt: "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. I spent 15 minutes trying out the newest version of the Samsung Family Hub smart fridge at Samsung's CES booth this year. It was just me, the fridge, and version 5.0 of the software that runs the 21-inch touchscreen ..."
+    publishedDateTime: 2020-01-24T13:07:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-and-ge-are-on-track-to-solve-the-pain-of-menu-planning/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: https://cnet3.cbsistatic.com/img/lDDWLy64g5ZgChr6N3FU1bhmKA4=/756x567/2020/01/22/54be830f-7581-4919-8fa1-f7d5f08392af/ge-kbis-2020-3.jpg
+        width: 756
+        height: 567
 
 secured: "ti6vo4XXGXU8tc6g/h3ji02WBPVl8sjRbZ53AXvJITqfeUI+3SwxORzPYUxxMypkExVmpqIffEiZr3kvalUTj8Z6YChmfpgMY8XHz38/DeH9bvwRUzi7zMN1owPgSFWNvBojWDLJGRxcF4tn/TyA0VbdRjqEqHqqTTk9jj7tQy0TIl53aPyn8Fv8UZxD0L6ouhBKBZmMlCNsqO0jLA3QgB9REiaDs85jL/o2+ijfyCfije76OAmmccSz2ftQBrszCUKZmwnhx2SDw7fY64EHpeGYhDQ5wh0wo7eZ+WdfEQ8=;zx2bSr8HQTgaz1rv2xMgkA=="
 ---

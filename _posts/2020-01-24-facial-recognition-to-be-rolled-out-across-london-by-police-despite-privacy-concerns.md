@@ -24,6 +24,21 @@ images:
     title: "Facial recognition to be rolled out across London by police, despite privacy concerns"
 
 related:
+  - title: "London Police Amp Up Surveillance With Real-Time Facial Recognition"
+    excerpt: "The city, stepping into a debate over privacy, says it will use the technology “to tackle serious crime.” LONDON — London’s police department said on Friday that it would begin using facial recognition technology in the city to identify people off the street in real time with video cameras,"
+    publishedDateTime: 2020-01-24T14:57:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.html
+    ampUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg
+        width: 1050
+        height: 549
   - title: "London’s Met Police switches on live facial recognition, flying in face of human rights concerns"
     excerpt: "While EU lawmakers are mulling a temporary ban on the use of facial recognition to safeguard individuals’ rights, as part of risk-focused plan to regulate AI, London’s Met Police has today forged ahead with deploying the privacy hostile technology — flipping the switch on operational use of live facial recognition in the UK capital."
     publishedDateTime: 2020-01-24T13:09:00Z
