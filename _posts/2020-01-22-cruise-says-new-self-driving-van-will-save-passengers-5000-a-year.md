@@ -529,6 +529,17 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ugisluglqvfjuwou1zyt.jpg
         width: 1200
         height: 628
+  - title: "The Hype of Self-Driving Cars Versus the Reality"
+    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
+    publishedDateTime: 2020-01-24T00:05:00Z
+    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
+    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    type: article
+    provider:
+      name: AARP
+      domain: aarp.org
+    quality: 24
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
     excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
     publishedDateTime: 2020-01-22T16:45:00Z

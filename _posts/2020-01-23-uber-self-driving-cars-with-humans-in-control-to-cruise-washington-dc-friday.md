@@ -533,6 +533,17 @@ related:
       - url: https://images.axios.com/RuadaS8GdpPrVkbGKAu71OjWW60=/0x391:1920x1471/1920x1080/2020/01/22/1579671552958.jpg
         width: 1920
         height: 1080
+  - title: "The Hype of Self-Driving Cars Versus the Reality"
+    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
+    publishedDateTime: 2020-01-24T00:05:00Z
+    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
+    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    type: article
+    provider:
+      name: AARP
+      domain: aarp.org
+    quality: 24
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
     excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
     publishedDateTime: 2020-01-22T16:45:00Z
@@ -543,6 +554,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "p5+nMa5PnxcveqfTyfzXOdL7A7rpKkbQh/P1YLiAlFtG4OSyn0KVpSfNWIyIhuNgwaMVGeeMR9bN/PT86CeA2qQ9+xrq6fxuhpzZkYZ001Mpl6FtwR8WJEMQpDQ0wv+iOn7xQbVpNCFMrM8XDVinCjfKqMPHY/0T1JJNESC1xgZ472AHdgKMbaPpEJ+fdgYFDLO1uBJAx0PAeBNrXWTiQ4KT6+RFfXRVh8xIBXf1J3vBu0rBapmwHMBHRk/CG8gjEs+pApJ8B9N8cF84LDXD/Zk1ESO6NEezJzEWOdLNxQPCcg4PvON9QjViTKrloBNn;E8NUUTL+kxBg1r6n67amXA=="
+secured: "HEax5y3oc18aS/4N241+s/JhCxbcedYC4ivccXoS4O6SiultPMlLPmbHEvTjYaBoXLeRn0P/pArSe64RmuSR2/lzGU7OM0zJWwgbLORjOQaUCXcDOUfxdYa9yqXrShXspPMmKCCURm+TjyzVI/BlzPK+5CudKOlj94Hqxq/GLeSK2jEqCWlAGBw6nqEG7eIr6TC7+a2Hm1E/Wt98ptt2jOyjuHFQ5MEgu7prERGlv2CqSaHNrLkMcYVsKYQwuytNtfa5HsMBb5tf5ex3T4MdZQIkTEN0y0XMA1FjellNXiYnhE0/oQg137Wpg1N9S8yD3P7mwZQnHu+90vpypbCffb9qUB6XgJViZsgciKX9uAO6qtyk9PrjTHCwniIphJtv86pFGnyFZUSCVaJYTiKHc6GRuDcUUe0WT4qXCX5tjZZhxIhcC4njHzEDy2E6rKx16uFB+AEgPR7RFtiVvGbvD+KZ2+p1kZu4+BPmdrFfq+s=;1n8Dh+pKqohzpTn0xKGwMA=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 375
     title: "Microsoft Gives Developers A Chance To Get On Santa's 'Nice List'"
 
-secured: "KSuRpv9u1wb6Oe7eImWAyQcFQwe1wcy9DAGioS5Uobg6wDERCxGhmmSyQiTTs6zWS+6IT4Vg0eOYV76oAGPlMJOsxIGhC0kDUGZ2JmZ9CFJ+QFYLlQwCz5oUs4QA4D77sOyvqUI1jfSPXRgq4a6ihsD30iddLAes7vAjtG5uRBj/BfTxe8jqCY+Qy6EZij8ucrP41FPcwSnCIltUDy9IKKDLOk5f6dNg+MrIOOVokvzmRJRsdeB0bLvjHYAnerUJtmM77QHdw8a9jVGwn10dbBkqvVSbD7ZPTUMBu+bc31lyN3A2mf8h6W3SClBM1en3;dB+1Pi1AllHDDEXWa06I3A=="
+secured: "AkxyirG9p3grdc767dltW0+ncmqxkEcauX7P2a92jyp4L5GW0Oz8MYp28p1uDY9KhyRBiqTuF/ysFSFYquGfo58JNk/5IIf4xZISYEW1WCIlTICg+34RijtQGaurHqr3q1zTnTLa9CVa4Qc+4mo6DeDCc8M1oNktzyCTjzNAejT0zRhdK5AzdMaelP5Ix9uuLNp+zlX58VLhO7BLP+aBcf6a4/hgdDtTE/z8avHyqlkBxc3PuSj0KivnoOyx56gSOOlfmmGVF5lSYzWhnWtw3myihlTezsAPoB6QaNtSVJbaJwNLrLQcQ2+WWqjXs8zd;aB47TCud1fpzyjW7yXUTFg=="
 ---
 

@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Qualcomm experiments with self-driving cars"
-excerpt: "SAN DIEGO -- San Diego-based Qualcomm is best known for its smartphone chips, but now they want to be the brains behind self-driving cars, too. FOX 5 Tech Expert Rich DeMuro took a ride in their experimental prototype."
-publishedDateTime: 2020-01-20T20:25:00Z
-sourceUrl: https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/
-ampUrl: https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/
-cdnAmpUrl: https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/
+title: "The Hype of Self-Driving Cars Versus the Reality"
+excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
+publishedDateTime: 2020-01-24T00:05:00Z
+sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
+ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Fox 5 San Diego
-  domain: fox5sandiego.com
+  name: AARP
+  domain: aarp.org
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
-    width: 1200
-    height: 675
-    title: "Qualcomm experiments with self-driving cars"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -324,6 +318,21 @@ related:
       - url: https://i.kinja-img.com/gawker-media/image/upload/s--E8Ser8s1--/c_scale,f_auto,fl_progressive,q_80,w_800/ugisluglqvfjuwou1zyt.jpg
         width: 800
         height: 450
+  - title: "Qualcomm experiments with self-driving cars"
+    excerpt: "SAN DIEGO -- San Diego-based Qualcomm is best known for its smartphone chips, but now they want to be the brains behind self-driving cars, too. FOX 5 Tech Expert Rich DeMuro took a ride in their experimental prototype."
+    publishedDateTime: 2020-01-20T20:25:00Z
+    sourceUrl: https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/
+    ampUrl: https://fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/
+    cdnAmpUrl: https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/2020/01/20/qualcomm-experiments-with-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 44
+    images:
+      - url: https://tribkswb.files.wordpress.com/2020/01/qualcomm2.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 675
   - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
     excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
     publishedDateTime: 2020-01-22T10:08:00Z
@@ -529,17 +538,6 @@ related:
       - url: https://images.axios.com/RuadaS8GdpPrVkbGKAu71OjWW60=/0x391:1920x1471/1920x1080/2020/01/22/1579671552958.jpg
         width: 1920
         height: 1080
-  - title: "The Hype of Self-Driving Cars Versus the Reality"
-    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-    publishedDateTime: 2020-01-24T00:05:00Z
-    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
-    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
-    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
     excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
     publishedDateTime: 2020-01-22T16:45:00Z
@@ -550,6 +548,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "W188wQQA/kMnC/6JIgzK9BAuV7Gw5x/aqTdUuMfqQQHStKGmS7enXYGYK2zKp6QU4btx3wT2G/0Hldu7AKGmKrPn9T2nDqOkJQKA0fsUcasqINbQCHHJ//4eDWCourKP0fp15PUGfETLCTsGLSxTkddTP2w4pIId/JkvWJ3BfbyUUzHUvDP/gv11zyMrEozmu8Gom/x5HB3tf3balcNfTPsDMyxYKtqUYVYhZnhRwhLez1H7AZmsJxpNJt8v6h8V7tS/+i6IzTwp8AlJ/ZF5uFBN6Exx0HSPGFuIKVKoc86JfKaUxa+TD3q0WFtOg+yXG0vKgPN9KIDEL5UPMQXUR5fnhyxZQmcnkw1G8xCW8Xex58DkvBVskkFEUKzuRhr51/XGfkuCZlpwRSKTKwW+x4Yz5JXQrmTASBpdtwYazF+8jXrxma5m3OW6NYiLw4SK2yZ8m+aPlYNEyAj0TUi4zQ==;cB6Yv948uswVI9I790xY5A=="
+secured: "8NnzlDiuY8ladYrModKU7MUnZmSfUosS2ETIW0qjInqxdM1gbZr4zs7ZjmkZqNDVb2xUEhRcoBXwzPtqfNedlHNceohmh/M5JBQjIk6MkpXCfs9Z5pEDG+GYwPFNsh/fpabWGbLrzA3lmqHGza4vPDmeaSj+Pr5/n0QVm/UrpCGN7KHoGXCgSU+DX7Rp1vZ6FDhYZBjygWxu5Rve9s0cfHwIwPhInxtZuq58gHp5VoVVbEmo3sAslFIC8aYL8fO+7phZK590OjgDOcdER9u75HfoqG0qrZazUwYTQWiuWwdDeGlfn0BEAzlGf0tpYf9r2rVlgVI9LCue+pQehnMzMUHs/5dCF1Dq4MbheC1uQHVcEPHLj43XJfIl8Exn/4Oem6miAYt+L1nCQAwOhgn1TRSkkkFYh8pBnqwwoZHxJEpmneUHruzjZEHtXuMSnSyFxcgdYOARRfFh0HL4ur6WnZrEx3lqOgzRJBH3VLcoaac=;8CusfEFeRyTCR68EWPcu/Q=="
 ---
 
