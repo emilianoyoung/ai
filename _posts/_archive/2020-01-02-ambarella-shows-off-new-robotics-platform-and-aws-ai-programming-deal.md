@@ -4,12 +4,10 @@ title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
 publishedDateTime: 2020-01-02T10:04:00Z
 sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
-ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
-quality: 104
-heat: 114
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
-    width: 1200
-    height: 646
-    title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 
 related:
   - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
@@ -46,6 +38,6 @@ related:
         width: 1200
         height: 655
 
-secured: "vHkzfr/1dAMkEl2rD8UJDf0T+IZDU0WfJEamUium6rxZdTn8LR5+fXvs7SJJjRNiiyFxdgOGJtpC+6vBc6HRYguEN1NwsqBV9Z1vFsIHY9JUiRy1n50D4zjzpMmU57yx9EUFWdnoCiq4xkQmaCvSeeXNT0IbmjSx5133IcK+Gpe76/W0EqN8N6kftvJkwgXRRyGPNO59RgmMB19pDdDpcLlT5PKWP6iuOwI5EyUet4UT0g+vpnVpub+jIXc6akLyoiHs3hPDJe0u/z9v1y5n+MdXWjnxzSin+ERt6qS1TZ2RGFnjMEWD5Kxs6IGm5OZF;zSi8fZPkc9sCialPHCcwHg=="
+secured: "AiMGJYgnOwpxY4J85A27rIDAaj7GD3lJBp/jHPAOMs92sLQRYW0wEthkar8vdJO563SQlNWVS7j3DOigrwZMPwiKBFNN15FZgQBEbonAhxlzgv/ET1x6TZdKN/NTx4vmbEC4cnNrjXgE1Fo9Xubn2I8KKhtk7rhkd7QD2DhkanK9PKeGLQBdLhXFs1LbgInbfaxB0Mmn3MuHYufkU/lGnUkkIdecUVa2woHQf0prOR3yO5OaZddThnrdzTHL+QvJOdMaZzZ8yGLPA0A9aHefmtoBkxoI70wjCWh6191R1GHoqT/y5Ur/zZG9gYX9y1Uz;r/OUXEdm28XDT69Lz1DisQ=="
 ---
 

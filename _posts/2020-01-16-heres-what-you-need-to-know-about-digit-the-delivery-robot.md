@@ -63,6 +63,15 @@ related:
       name: TheLadders.com
       domain: theladders.com
     quality: 20
+  - title: "Readers React: We need to be wary about artificial intelligence"
+    excerpt: "Maybe it’s my age, but I have no desire to be tracked like a rat as I make my way through the airport or city streets or the Giant grocery store, which recently added “Marty” the robot to prowl its aisles ... Even the CEO of Google is calling for the regulation of artificial intelligence. We need to wake up."
+    publishedDateTime: 2020-01-24T17:38:00Z
+    sourceUrl: https://www.mcall.com/opinion/readers-react/mc-opi-let-hirt-facial-recognition-scanners-20200124-lcbtx6fvanfkzgmvf3eaqeivlm-story.html
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 19
 
 secured: "RFKgxprDKnCQkveUK7pwdf40r5NAaTQ1FX6sH9whw+J90kxouZAGtRRnB5eTKDGEswiYbn7H7kbGUyX8aFpokzOMjjpfvaHpcXFfOyuNM/c2X74nh/MUnrXmThi1GrltAxLGEjwJgT2rkSXni6L0beGHu9dj9112KwXGI9yTYBDHRlhLnKwoqP8kT1LxqTe9btgbpjDKLuuRRhcB6GGKHonTZ/Flefc4zGA4S7OAvabq9hmQUHsNpd2HQv74IAAwQ46dooUfX4YXEw1esNA1V/CrAUUw5DHo6vxUwcklp6u/+pw+x1lFKyKwJ9kuE3IXt7OglfQINV8aH4ZW7Aa3MyBljGhKKFKBF62Oveyj30yZlOffLqzF0G3/QJYHgE228KsZCluN82vRmddrx7634u5Cc+cPC2HfCGSjL1v84UZaCpe1mduvlZxZ9s7SH8sehHETMTo49Evleo1RKcqk1w==;U2TpKPsUDSYSX503hQ2Yeg=="
 ---

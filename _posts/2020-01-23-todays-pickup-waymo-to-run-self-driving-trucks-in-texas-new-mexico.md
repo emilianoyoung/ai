@@ -116,6 +116,15 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
+  - title: "Waymo’s self-driving trucks and minivans are headed to New Mexico and Texas"
+    excerpt: "Waymo also said it would “explore how the Waymo Driver” — the company’s branded self-driving system — could be used to “create new transportation solutions.” Waymo plans to mostly focus on interstates because Texas has a particularly high freight volume, the company said. The program will begin with mapping conducted by Waymo’s ..."
+    publishedDateTime: 2020-01-23T20:33:00Z
+    sourceUrl: https://techcrunch.com/2020/01/23/waymos-self-driving-trucks-and-minivans-are-headed-to-new-mexico-and-texas/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "A pioneer in self-driving cars – Alphabet’s Waymo – will test technology in Texas, including DFW"
     excerpt: "Keep an eye out around North Texas for a leader in the self-driving car effort: Waymo. The company – part of Google-parent Alphabet – said Thursday it’s going to test drive trucking and minivan-driving between New Mexico and Texas."
     publishedDateTime: 2020-01-23T20:06:00Z

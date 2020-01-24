@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ibm-announces-partnershi
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "IBM announces partnership with will.i.am's AI startup at Davos"
 
 related:
+  - title: "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives"
+    excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft's Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" IBM (NYSE ..."
+    publishedDateTime: 2020-01-24T18:29:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-nyse-ibm-launches-policy-lab-with-ai-policy-imperatives-2020-01-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Genesys expands partnership with Microsoft Azure"
     excerpt: "Customers will benefit from a streamlined buying process that puts them on a clear path to the cloud. The companies are also exploring and creating new integrations for Genesys and Microsoft Teams, Microsoft Dynamics 365 and Azure Cognitive Services to streamline collaboration and communications for employees and customers."
     publishedDateTime: 2020-01-23T16:22:00Z

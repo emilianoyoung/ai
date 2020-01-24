@@ -588,6 +588,15 @@ related:
       name: AARP
       domain: aarp.org
     quality: 24
+  - title: "Uber bringing fleet of self-driving cars to Washington, DC"
+    excerpt: "Uber is bringing a fleet of self-driving cars to the nation's capital to begin mapping out prospective routes -- aided by human drivers at first -- starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle operator ..."
+    publishedDateTime: 2020-01-24T17:00:00Z
+    sourceUrl: https://abcnews.go.com/Technology/uber-bringing-fleet-driving-cars-washington-dc/story?id=68504129
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 4
 
 secured: "2V8HRo+pjaI5x2OyDBBMGElcJmnxEHHKsCG2PRd45PMf0tgPldSxVo+HKf1R/LU5+fgCxGrxqSixse85XFrOjW/fHy2P9XfgyHksIBfd5AaSK8hAP3H75qTlTIEThLnsrodUD5lT1g4c99ltFpONMXc4rSWWjcApYYD83cuj3XzsfXLReIr+woqBC1wZjBtN08ue/x2/tbc44eLdMbvAXtJDdi16b15AnjM2hRXOBpvP3VpJrudYVtzZghprc3ejgmz01KRPTTbi67abh+rmvsitgSZCoh/aQcOD+mzLTCCaTQALybNEPmgfdYZoTVX5nsQQukWjOvDPRYINmreQ43xOnP9l+LU5XM4zuh/yrVBcPUBRAXpOmobGYK9V7osHNpFXFukT9sh2mBjXF9Pb9zBpRDTN5IBESBmjOtDmfT8m3jCqdUjeptUGNSHiqhacKijNwnFoTKPcnNATtWHSXA==;B1z+JaQdaJsXE2V+8ZMdsA=="
 ---

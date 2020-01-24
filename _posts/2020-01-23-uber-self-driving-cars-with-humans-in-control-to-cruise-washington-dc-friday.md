@@ -585,6 +585,15 @@ related:
       name: AARP
       domain: aarp.org
     quality: 24
+  - title: "Uber bringing fleet of self-driving cars to Washington, DC"
+    excerpt: "Uber is bringing a fleet of self-driving cars to the nation's capital to begin mapping out prospective routes -- aided by human drivers at first -- starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle operator ..."
+    publishedDateTime: 2020-01-24T17:00:00Z
+    sourceUrl: https://abcnews.go.com/Technology/uber-bringing-fleet-driving-cars-washington-dc/story?id=68504129
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 4
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
     excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
     publishedDateTime: 2020-01-22T16:45:00Z
@@ -595,6 +604,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "Ju2621kTEfep07Lvjq60biAp0OClesQcMJxtmZFL6eCBiiTlmg2vHz/ShOniy3m1wmpuakO7n5OSFzitj8gby2un/9pOg+Bj/mzbhjAFyyuhSCI81xLY1ZhkhMtc7TSQurpOE1uk4h82qk8yb9BCah8qaIzDu9LNwy2WzJI++M2b1rQ6OKNdoIHfrG951lxl1mKqqNMVEp3zEXbRVYGeN1t0k7GBVP7Cw615M5M69jQ3irT5dkTFkivtjFLPxKknTYCk9sWaONtbzKok56wcEgZaNRPPqfFaNT2OHA+LsvSj4xPReEKMi9R6FaIoJkMW0ZTMc5oHGy3i/HmDcIQoc+8Fyl/QpLUofOylkHZh3C2ilA7G2a+AEe8VbI1soWPWOMR5kz80rnIVlPsuQbOTp63GYDFy5LCwR6MShzy0so4FIOqUM0nFwY7ghFgbFSIytcwZgu80y2uJ7o+52lsUxlT2seZzjpHjO2JeJES6T/E=;bh2dENCVv+JfiaOJ4pIkfg=="
+secured: "4QnnTSzhfvokFC16erAevMbbxm1ZgfFkajivCboIe6C1z1JcgtZDlYi8rCP2OYS5Rfe5W8273m7WIIDis9/Sa5UyRXP2NcyCdDMt9WghmYo3RdEHv9HIn/rPkMtr2u9C+czv8L2VN2Hfcg+1tmNOwu4PFnHZb/j4pAS1Vc7pxRMNrqpClhc/eYmxNK1KZjUqNFLDCd4tjzpOh8icIIFnarFtohHlbEEpFaltc7PifVLA/NqSJq8Hboz/UHfzYcJE83Kwpob/Re6dX26XbG5r5OunQvU8BINrb2mUlnnTGXdgeS0t/9zDLkDIY/VXS2Xm0keCSeQS2dSGmkRBW9GIL6nl6yETXQl1egkU6z2HAzogaCvrcCe0ijhDa/7aAbsOnF1eSMN8CcekvCF3q+nVP94m7OcDeMUMYvog9YjFWEKQ14pH9mYTibuz3CYyQHYeYEFe8cu46b8ClGJNGETcue+6y0d3Ktc2yfX0+PXsn8A=;BIfSB4O7aEXQHsUCLPBxvg=="
 ---
 

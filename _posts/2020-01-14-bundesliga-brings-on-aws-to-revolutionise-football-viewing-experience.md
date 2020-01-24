@@ -8,7 +8,7 @@ ampUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-re
 cdnAmpUrl: https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
         width: 600
         height: 378
-  - title: "Bundesliga plans to “revolutionise football viewing”"
-    excerpt: "Using other AWS ML services, including Amazon Rekognition, an intelligent image and video analysis service, Bundesliga will build a cloud-based media archive that will automatically tag specific frames, from its more than 150,000 hours of video, with metadata such as game, jersey, player, team, and venue, so that the league can easily search ..."
-    publishedDateTime: 2020-01-18T05:48:00Z
-    sourceUrl: https://gadget.co.za/bundesliga-plans-to-revolutionise-football-viewing/
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: https://gadget.co.za/wp-content/uploads/2020/01/3922455488_3413e0bd67_b-1000x600.jpg
-        width: 1000
-        height: 600
 
 secured: "ogeXubDrHLL897EomKnGJ3au6x4hYaGZoQCS6NL4OT3pfUWyvLtdUNyvjR+3cmDYEcnohIi6o4aNzPV4dTmvd1xld7t15GiUCrkArbifqXbEOCivRX/17mG+c8BCysH371wtbhmQfp5/H2X7V9rnBkLEL/hFU05qR2SaeSR5oE3xcKLyO7q6kybBxoWSwt3cJbbKsnkSTd6OSAPmVYPnRYNhB3a4XeOZ5zkLJXgU1mhKVU3OQMZBKceniuFxDI+GqeuY2uqKweuudyoINpY7xglRrx5PipBmWANSSvilvTesHuHd2ZuIEBPgGw/sOfFU6CzAEsndfGxWYybr+eKKLvaUTH7OU87Tojnd2iy1r41veUzRoPiuFhtkcKPzrifNUbsVSdK/jco8VQDi69FpLimqZESllfxl0s7RVLXjK0d7J5G0MpO5vVzInnCr4Qqr3aoN+TNzgqhA92ZEi6sKsQ==;7oi3UGKm8Gugc5xRSSRssA=="
 ---

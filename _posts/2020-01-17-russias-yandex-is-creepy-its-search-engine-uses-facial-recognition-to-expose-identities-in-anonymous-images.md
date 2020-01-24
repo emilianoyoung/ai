@@ -644,6 +644,15 @@ related:
       - url: https://www.wsws.org/img/open-graph-icon.png
         width: 1500
         height: 785
+  - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
+    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
+    publishedDateTime: 2020-01-24T12:51:00Z
+    sourceUrl: https://mashable.com/article/live-facial-recognition-london/
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
     excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
     publishedDateTime: 2020-01-17T21:48:00Z

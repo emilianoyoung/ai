@@ -579,6 +579,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 24
+  - title: "Uber bringing fleet of self-driving cars to Washington, DC"
+    excerpt: "Uber is bringing a fleet of self-driving cars to the nation's capital to begin mapping out prospective routes -- aided by human drivers at first -- starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle operator ..."
+    publishedDateTime: 2020-01-24T17:00:00Z
+    sourceUrl: https://abcnews.go.com/Technology/uber-bringing-fleet-driving-cars-washington-dc/story?id=68504129
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 4
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
     excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
     publishedDateTime: 2020-01-22T16:45:00Z

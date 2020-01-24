@@ -4,12 +4,10 @@ title: "Baidu beats Microsoft and Google in natural language processing competit
 excerpt: "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ..."
 publishedDateTime: 2019-12-30T17:30:00Z
 sourceUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/
-ampUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
-cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: MSPoweruser
@@ -19,12 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: https://mspoweruser.com/wp-content/uploads/2019/08/microsoft-logo-block.jpg
-    width: 2400
-    height: 1231
-    title: "Baidu beats Microsoft and Google in natural language processing competition"
-
-secured: "4nE2AfK/iWIkQOWvxle+6srKGFAz5ZCOtrLWviHyjjLRGSbYS3FHSzP0+GaKRybXE+/46scKOMB9x7e/13qKMy03jBu07bg3GRjAngf8uMDxXQOEwiclRgo/tsYnUSRzUYC+aMvcBc3fr+zbq2EApvi61yfNI4DRBXsg96yPkqrYeTjMQjuTjR/d8UGl2Pyigvcht/t/N3SuPY/PTgeXyMGup38amZXTgUotFnfl59wpIzSlWf7q6r+DX432c1UVwi5zQff0ASKnxqj026u+ok0dhuo0mHe0QUoVVwp20j8RhnHgW4O4k5aDQgjrEmUU;08fNaNv+/ivHeDIi/iXIBw=="
+secured: "11Xza02PZT0OFe/nDuDubwxBclrS5C/w8yT/XzubRYMHdfiZl5zDo2BHb0jeENeTWjxAUIX4K4OTgIgtBK1b2P/f9FVpRe4sJeJpEhbyTXFjmoq/QTvPCJNJlYqromE1PdeTWEVIgYKPCibNK6lR8L7PY/ZdB/k1z/lmHGuxlqVhJ9wn5g3SI85Vswj11lFNNLP0PZRlJj+iPYXIj6F5jVlg8kSg3RFCreF3g2TQIhYRclyU0kKCIjQfr0tqRS51ejUnTWiWvbEGBxPhVbMvh0ih07kEKjL+2ee51dC4YzYjYXHHECiOC0YPTAzO1VXnifcR172s4m7E6S788JP+TmDHdqJfBS+oFPP2Z/PF2kABGX1rcgPaHiQEbRhdaB/RcXagwfNPf6fkrtiK5kni4e+7RPSau5uHio1XgU6Dvld+JLC1j2pkeoMku9y1OxINlKiRHi3e1PYM7FL8MVSzV9SgQ8fASA2Gk+NT49pZrv4=;uGul/mWJaH+JfiW5CH4big=="
 ---
 

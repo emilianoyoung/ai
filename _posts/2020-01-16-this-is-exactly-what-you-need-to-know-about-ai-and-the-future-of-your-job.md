@@ -62,6 +62,15 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2020/01/16/NGai20200116/open-graph.jpg
         width: 400
         height: 400
+  - title: "Readers React: We need to be wary about artificial intelligence"
+    excerpt: "Maybe it’s my age, but I have no desire to be tracked like a rat as I make my way through the airport or city streets or the Giant grocery store, which recently added “Marty” the robot to prowl its aisles ... Even the CEO of Google is calling for the regulation of artificial intelligence. We need to wake up."
+    publishedDateTime: 2020-01-24T17:38:00Z
+    sourceUrl: https://www.mcall.com/opinion/readers-react/mc-opi-let-hirt-facial-recognition-scanners-20200124-lcbtx6fvanfkzgmvf3eaqeivlm-story.html
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 19
 
 secured: "mC8cLecqK+TQr3/I/uJ7fuHz97rYoqQzF77FCLaMQ4QguBoEHiEAgtuTtGeTWH80O3Xj1hHWhLm6JPChNJ8EJV8IEkguIy2zoEgHwjRJfj5pPHbcW/gG9kjwmG6m7qEBeOuOsjeBXWctL47WTpuIJve2fAFOHbZAvfobBDZxTbWuklzY7o0d2CuEQ7H6+Pj9ePG3s2o4+l08eK34lPrCB4mAT/S/QX8NK1lapmYzh47Efpbby6t3xzILJss6sVynKJ/OSpRIHYlIUX6S+w5g2l1y2FxP7EPHmr7gPXXDwZltLSe3uN0Mb319H5udsH1M7VROOdaZI+JJvqrOXrUfafVx7AsD5gWcpq3EPVpbW8Ohn6U5zznmUjbV7LKi/GYHLPpDwDsetNm2ozKMDXQc+j2gE/f/2+/RenKVPKPFO7qa4VO5AKJEYEVujUnBJsPxbM1Fo+etoOcbVw0tBkmTXg==;aN74uS2eXCKBXRwT8UA8Rg=="
 ---

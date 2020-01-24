@@ -41,6 +41,15 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pelosi-1578510834.jpg?crop=0.947xw:1.00xh;0.0272xw,0&resize=1200:*
         width: 1200
         height: 600
+  - title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
+    excerpt: "Facebook announced limited changes on Thursday ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand ..."
+    publishedDateTime: 2020-01-10T02:29:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 0
 
 secured: "mJSlo4WIuF1bD9PnILiXQTFz/5ENHVawwyniYtjiJNzqG+gSqZ3VKG1GZkVMciDr+cIJxRqGOJxE7RmRx4elPLktcwiiias8C1RGwz8bCTVJN+iIabvsVL2c5CKJATXTg7rHhXRfy5ar/cuuN+u+2iVvJ25qHQ5ACcK9Jis41BGfbkJzs6byKck11WbKFuKGOSsrdzcaaA2F+/vEK4dY3ysEKN1hTz00cclev34rK42EMrNE2ey6E1cNDQiFK4dkehWrRsTnO926BOGPRFq0loFyJ3+hTY4EabcDcUwoGL237SLmjo8CRg2z474v4HHzeUxdJKS4YSHOt5oHNwa7T7aaK8PfT7PL4+9rPi7oZeRUMN5U6JQ9it4e8fhZezThENWn8U5iQBDm3gkhF2NwnCGRaBXAzhoKbGyQsQqQum8S2q9K81vs+QTwXBK0KkZTtfuw4/OLucYF9NS2I3K4fg==;AAoVRTgXgtespEi//Mmicw=="
 ---

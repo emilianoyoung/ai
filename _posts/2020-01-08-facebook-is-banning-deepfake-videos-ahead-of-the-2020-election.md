@@ -41,6 +41,15 @@ related:
       - url: https://www.gannett-cdn.com/presto/2019/04/26/USAT/32128b1f-352f-49ed-9d3d-83a48600d31f-RectThumb.png
         width: 1920
         height: 1080
+  - title: "Facebook tweaks ad policy but does not ban political lies ahead of 2020 US presidential election"
+    excerpt: "Facebook announced limited changes on Thursday ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand ..."
+    publishedDateTime: 2020-01-10T02:29:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3045468/facebook-tweaks-ad-policy-does-not-ban-political-lies-ahead-2020-us
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 0
 
 secured: "FvzMpLszX4r4q/UxCd2OHyL5ufxTLNIJV+dleMSDqgPb7RtX6OePgFeSVY6oPvvy4WfeVSnQUxcL181z6nlNwaCrVcdY+1NmDAZ9ED/M+H2E+UnAEXcrfY/G33cayjIhOUQ4ZfEOKgPKaa+oeu6v/l6HnT2GkUYsi3z15v6iV5XUMo4476Hq/RPyB540sZZgZ+HRhGJJabewoNNrBi43U1SdomAdnYgbd2IQTDrbr52vneq4eeIim5dxrrL1zxqpEQ65Bow60Z1N6aaI+JAAi9Z0DMTpfuqNW4iGYIgT/OI=;D4dt0pjSdYd3G1/0Z3NuOw=="
 ---

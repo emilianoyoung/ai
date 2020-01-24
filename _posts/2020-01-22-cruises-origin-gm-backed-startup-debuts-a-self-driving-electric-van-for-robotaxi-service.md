@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale
         width: 711
         height: 544
+  - title: "Spoiler Alert: Three Key Ways GM-Backed Cruise’s Electrifying New Self-Driving Minivan Might Have Some Heartburn"
+    excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
+    publishedDateTime: 2020-01-24T17:13:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 13
 
 secured: "QTTuBchdMieMB8E9U+QonV+6InJk7wI1UcxEQKUxf7eg22DasEFgZSM4WOrJ1K8T1qtbiwlgMCSOPExOGchh0TQ4gEdUG+r6uuF9RpIIoqNW+T1BaBGJfQ4bufwlwHHILMi3TYtn9U5LKXi9dpNpI9I44mRii3kEHpNt7BMb1PtUH9Zmn8/sDZyVSYkalfmYwPOUBsek+zl3yp/UQL0Xr30iUuFX0BwqRYMpyKbZCQYAirF1e1V3HmhSMCm3lo+y026TnhYpbP1ydXVloxj5u6OwJwcTbFsUUSjvwHq6Rhny2FhYJO5JonKhJs8Uw5I0K7tKuQY+XXoy2hsHqOnjYzzl8I14hAx/oUo45+Pn5mdCZhem4+eGhNP/euks8XowfyxDXzGoiPLPa65+MAObYnrl5ZeOWP4Nhpm0JKrk8QPuxTGgCyPYnRs/7sy0R1MKlU084g+DuLZVVCUFzvPoKg==;QAlTp9uVBUZ0mVz4yG+60A=="
 ---

@@ -633,6 +633,15 @@ related:
       - url: https://www.wsws.org/img/open-graph-icon.png
         width: 1500
         height: 785
+  - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
+    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
+    publishedDateTime: 2020-01-24T12:51:00Z
+    sourceUrl: https://mashable.com/article/live-facial-recognition-london/
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "Europe mulls five year ban on facial recognition in public... with loopholes for security and research"
     excerpt: "Just an FYI: That cool funky CI/CD tool you're installing now could be next year's legacy tech The European Commission is weighing whether to ban facial recognition systems in public areas for up to five years, according to a draft report on artificial intelligence policy in the European Union. A copy of the unreleased report [PDF] was ..."
     publishedDateTime: 2020-01-17T21:48:00Z
@@ -954,6 +963,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "rBPslLXcyRuajRYxXQogMBtbA0EAyvCM5den7w9UkUl59Hr0NoGE5RN/xeY6s3t2EApyVhJEFEdTztk85ZttAW3Lzpj3cTwKNTJh8/iaWorULUSs5kTdOCXOHlbJpjDgZJ0VCbM7X76xq0DRDl32dU8Tl2YO793hUmJLB/OFdN1PpVVAtdqeywrWN6RWhKp8l1jvV234ab58QJ7OUgK9oqWx42coqqgemZK4XgEjA1IjqGGpaJSp82aE75q9zCJkRjLlEZ9vC29sgOd264x0aamB97vnW7ULgHeksIxAoAodyKCB5iOtRNnFDEZ93Mq4;nLW9YVRspZHA8lx7CoV51A=="
+secured: "cLhSUYP05HfrURAwS3LzJfGzZSC0LueMYJTFpVtloVCi/2QpEinfdre1OcaatH0/ePuT6yHJXTMBL5VlrLN3xQxjchE+t+W4IFjNtMTYvzSBsc/TZQN6a3F5iamvY7vWebn/bO7s9cbm14XZxks4axdT+4PUF/+KSKGh5p6Jc0vwnJOc9hQAEd3at9fO/KTl9oW6UCtCfRDuM8RjKEMNZ/jY1Is5/00GdlJ69xFxGcv5ol3pnSMFHHAULvEitZJU/wVyMMxQhSlGH+SZ48X3wxGdSu4BGvqbc12LlP1oPLrq8DwzkQ/mVyFESNE99RuyFD2KLz4kREsTKBfEWLZqh2EXKDMhWHuaRvdV5ZITQrCPjBUzRoD64MVwYqeD4ehIb4Kn0zQnciTHa4qk24nEZJGtqKIYIlv+ZZchDiFwU0nvPu1ckK+1FZSAII+rlijegNR6B+Qor9fP+OViVxJ0JRIE5oTFVmXeVsl3MqlSl/I=;dlFTOxjEaKOzy89tPDZygA=="
 ---
 

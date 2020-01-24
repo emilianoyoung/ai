@@ -131,6 +131,15 @@ related:
       - url: https://www.benzinga.com/files/images/story/2012/truck-3401529_1920_199.jpg
         width: 1920
         height: 1280
+  - title: "Waymo’s self-driving trucks and minivans are headed to New Mexico and Texas"
+    excerpt: "Waymo also said it would “explore how the Waymo Driver” — the company’s branded self-driving system — could be used to “create new transportation solutions.” Waymo plans to mostly focus on interstates because Texas has a particularly high freight volume, the company said. The program will begin with mapping conducted by Waymo’s ..."
+    publishedDateTime: 2020-01-23T20:33:00Z
+    sourceUrl: https://techcrunch.com/2020/01/23/waymos-self-driving-trucks-and-minivans-are-headed-to-new-mexico-and-texas/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Waymo Self-driving Minivans Take To More US Roads"
     excerpt: "Alphabet's self-driving vehicle unit Waymo is expanding testing to more regions of the United States to explore \"new transportation solutions.\" Waymo Chrysler Pacifica minivans and long-haul trucks will take to roads in the US states of Texas and New Mexico this week,"
     publishedDateTime: 2020-01-23T18:35:00Z

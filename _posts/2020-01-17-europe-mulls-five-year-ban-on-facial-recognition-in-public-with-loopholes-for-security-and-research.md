@@ -644,6 +644,15 @@ related:
       - url: https://www.wsws.org/img/open-graph-icon.png
         width: 1500
         height: 785
+  - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
+    excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
+    publishedDateTime: 2020-01-24T12:51:00Z
+    sourceUrl: https://mashable.com/article/live-facial-recognition-london/
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "Universal Studios' Secret Life Of Pets Attraction Will Use Facial Recognition To Turn Guests Into Stray Dogs"
     excerpt: "This morning Universal Studios Hollywood revealed some new details about the forthcoming The Secret Life of Pets: Off the Leash attraction, including the fact that it will use facial recognition technology as well as gesture tracking in order to turn those on the ride into unique stray dogs. What's most intriguing about the new attraction ..."
     publishedDateTime: 2020-01-22T18:53:00Z

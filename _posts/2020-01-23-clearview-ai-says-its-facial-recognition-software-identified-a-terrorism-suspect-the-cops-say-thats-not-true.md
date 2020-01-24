@@ -121,6 +121,21 @@ related:
       - url: https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg
         width: 756
         height: 567
+  - title: "Facial recognition startup fends off accuracy doubts and legal claims after NYT report"
+    excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
+    publishedDateTime: 2020-01-24T17:09:00Z
+    sourceUrl: https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 79
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg
+        width: 1400
+        height: 933
   - title: "Sundar Pichai calls for moratorium on facial recognition"
     excerpt: "Sundar Pichai, chief executive of Google parent Alphabet, has called for a moratorium on facial recognition technology while regulators assess its risks, just days ahead of the publication of a key EU proposal on the issue. Speaking at a trade event in ..."
     publishedDateTime: 2020-01-20T17:43:00Z

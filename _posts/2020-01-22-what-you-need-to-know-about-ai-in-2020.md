@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: TheLadders.com
       domain: theladders.com
     quality: 20
+  - title: "Readers React: We need to be wary about artificial intelligence"
+    excerpt: "Maybe it’s my age, but I have no desire to be tracked like a rat as I make my way through the airport or city streets or the Giant grocery store, which recently added “Marty” the robot to prowl its aisles ... Even the CEO of Google is calling for the regulation of artificial intelligence. We need to wake up."
+    publishedDateTime: 2020-01-24T17:38:00Z
+    sourceUrl: https://www.mcall.com/opinion/readers-react/mc-opi-let-hirt-facial-recognition-scanners-20200124-lcbtx6fvanfkzgmvf3eaqeivlm-story.html
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 19
 
 secured: "crl13mPU4zI3quFz300dQH7hVXfhaHWbotMJFko+2AdlCrIqCBBpBis0uVyVVQi8CM8POVcYjgyveDNCj0NyHtgkwJHFxHgxhD8clfpD6CzlyHe/oA9xg5f8nuohOsj9i5h/u7LArFfWfubbNjDfcaxjQ1rJmjZKyll2dMvZZJS7f8G/Mer3ooegX1lwydv3HREh8/fdFLRSC//As1gT7sQCzXC+7eOic2F2C7AxNfwZmehWfsfNtHbJd6WP3zmdOfQqehThq8lrjXZIiW1spZfzizonq2LxkFKFLk3L5rYKKmYkP7ba86VkH1cpyK149hABTRxs1Q9V483Yi8TLCrP8X+P5k/CMiF2F/O31ExhJNezG0ffkZgeCsa47GpEWhlYDt5AcfbeUVmUz0dnhc13Iw9nLdTaY+8yiUi+P4velJVwSJsVVOLOxNd3SnG+j3z6kEA5Gnlxo2HG/95swXg==;U1M3eb/9g7eqSdxVYJq+3Q=="
 ---

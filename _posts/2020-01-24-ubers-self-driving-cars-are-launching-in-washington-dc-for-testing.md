@@ -585,6 +585,15 @@ related:
       name: AARP
       domain: aarp.org
     quality: 24
+  - title: "Uber bringing fleet of self-driving cars to Washington, DC"
+    excerpt: "Uber is bringing a fleet of self-driving cars to the nation's capital to begin mapping out prospective routes -- aided by human drivers at first -- starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle operator ..."
+    publishedDateTime: 2020-01-24T17:00:00Z
+    sourceUrl: https://abcnews.go.com/Technology/uber-bringing-fleet-driving-cars-washington-dc/story?id=68504129
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 4
   - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
     excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
     publishedDateTime: 2020-01-22T16:45:00Z
@@ -595,6 +604,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "2eWVpqSGYQH4evi3C0DrB7dzSRJIfdV488q3sqxkq50nKw0VOhnWyQLyniclofi95JNwgkANLhXpjaVVHkR5bmHMcgv8WO/uL1L0W9kFBpayU2a6JPEb3wBRArIXnB6elMT2I80n39/e8hWd460kDnXv0cQOop2XBoyTDR4kbPHPQEWBZePki5+jB1Yo5E4TM7bCR3aB+Yd3lJ6WqVFewe38fq+3yEnwY79O0ztx9akUuu+bXrlwwPy9RNNeUYK2231B0U4eB/j6Xz7KrhokN2/nc3sMgSxXz9H0sYjCr8U5qI5/RcnrJYEJGkDHqxyR;tBIlSf8SH4UGYlAkXgskSw=="
+secured: "LWKz+mVjbwrM7rIqz4y150WjN1KLxOi2osNDxtxnw2oLBxHGhYt2VGnPC5nk8TDcikyMT7BbGSz11sLy47rka/YDoPwKJaFwVM70sbZW616KjVLtILyr1ihSACyriC5Vz6xLZL7L5q9qggb+lOQ2dGE8N6twOioT4nYkGundJblLVqdrFoMGEitwu9wUGCzBvisddtSSttaMZR4kOWJEwVodt3FOftsu8f/OvQoi+qRBKl1P8lLor/rNfJvGfCLAOJCh0vVnPVbR/98XgEp+PyPKRcJK2MC7LKc7B1pZIpbJxBOKfMj6syELLN5sV0B/Sb0L1+Ytc0Hg5HDFiDg5bDHALn9r9nn5CKSAQH68sPd5lLfVt5bD9JUtFWdaasOBWExvENo18DACLgQdelhqQ80kgA1dDgOCaq06ktVarXj1AvbOda6Wpwunf3fj/1cb3b4LtbxY0iLce7RdpK+OnrHUOkuV6xXOA2ja/2XNqk8=;pO7mNaV1XpRm1sTkBhazOA=="
 ---
 

@@ -30,14 +30,12 @@ related:
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
     publishedDateTime: 2019-12-26T12:48:00Z
     sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
     type: article
     provider:
       name: ETHealthworld.com
       domain: indiatimes.com
-    quality: 39
+    quality: 19
 
-secured: "97FypL4fWLHYH8v6gU1br/m5M7tUcw0J3ZezlgeAssn5+CqNlK5PT0lSSn7iBRc5/njTnhcz0FK+uJyDikOLPqTEeTVPMOrb5IfqT+8J/jLx/sm0613zZAEpsE33cOfV95bIpvJ+s10L/QffPPqdXtQ+b62bwbMrRfjxarDvVl1bnGM3p5IYZkaismb7PCREGlu9yWIqXsdV5pHyxHhTGYnZ2SQiv5/wMl6qvwjxwtn4VFlhBQL88NTq4I8/gCTzzok3+ebczRZ7Q2eqStJRXhu6Y7j7uaDK178yX26+ICnBoxCA5c5QIx4OY4UQA1h7;mpRjYHi0KHL5ZW7Jxkre6A=="
+secured: "oDrZQFpW7g1DTH9hc5PxPmRNdBZYReTblF5/9iUNDQ74a7lqn1PnZkPtq+2kDVHAyMW4UjYKxdgq/MFG2wfhl75U0TdvZPSiQKKzCoQaIpIQmOWei5lpGu63xtbL5aO5UV4o8XFpHpI9c48lfdGrkrB5WoF9IHWyb2BVY8Fa6HM2Sk4JOrF0Wg8WwUNcBIgtL2nSvFKa5KUfFkdYoMdeYM9lKzCJt92k3XG2EXh1hNRMyht8zLVHR5Hnfk+xm77Fp5UUe9vZ6+BdIf5vrSdSwwrn1X/l2y9K+AUijuyCtNZu5N9LwFPVGPpqOnU5laOX;9OmL9yXRx2VcOsx0CdAA0g=="
 ---
 

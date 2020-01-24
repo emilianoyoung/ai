@@ -70,6 +70,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
+    publishedDateTime: 2020-01-03T14:43:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 0
 
 secured: "AeaWw+j8SVtbyLIrb/cEAEgINBbiL/gi/+mY2FmCHcwB/FLqVFsk0Yan/j3gjMFutGO0TsUpCj708v85TZKHpEgzjXJmBXZcQBRmB/sN6gDNtcSgKj5AVGOlbt8DIWUC2cMFXHIB7KzRN5fb/eciQdVf9nej3boXbOybqgkzIq53E8MTlSf/GkqC4omQ252k9TF5n0ASyKKc48oGKQrfZSGI86UjTTMJGKEN4Sck50ceN9OOdTflzOomvocbUKMpGuo33fFe3NdzREbjEXloH0eEWh7JkDIT00M47v1b9DM=;zVpGksHF05/MV1BE1aVkGw=="
 ---

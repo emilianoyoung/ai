@@ -57,6 +57,36 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5422%252C3614%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fmedia.zenfs.com%252Fen%252Ftechcrunch_350%252F3b5f86d400bef94c4abbf5c9091ca37a%26client%3Da1acac3e1b3290917d92%26signature%3D0329de87ddd817b393504b2ec4b594347eb9ce2c&client=amp-blogside-v2&signature=fddd02a44664de09936cc20edc52e59e34b5d251
         width: 600
         height: 350
+  - title: "ProBeat: Why Google is really calling for AI regulation"
+    excerpt: "On Sunday, the Financial Times published an op-ed penned by Sundar Pichai titled “Why Google thinks we need to regulate AI.” Whether he wrote it himself or merely signed off on it, Pichai clearly wants the world to know that as the CEO of Alphabet and Google, he believes AI is too important not to be regulated. He has concerns about the ..."
+    publishedDateTime: 2020-01-24T18:30:00Z
+    sourceUrl: https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/
+    ampUrl: https://venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/probeat-why-google-is-really-calling-for-ai-regulation/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules"
+    excerpt: "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling."
+    publishedDateTime: 2020-01-24T18:23:00Z
+    sourceUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/
+    ampUrl: https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg
+        width: 630
+        height: 417
   - title: "No question artificial intelligence needs to be regulated: Sundar Pichai"
     excerpt: "Pichai urged regulators to take a 'proportionate approach' when drafting rules on artificial intelligence. The chief executive of Google parent ... Regulators should tailor rules according to different sectors, Pichai said, citing medical devices and self-driving cars as examples that require different rules. He urged governments to align ..."
     publishedDateTime: 2020-01-20T14:56:00Z

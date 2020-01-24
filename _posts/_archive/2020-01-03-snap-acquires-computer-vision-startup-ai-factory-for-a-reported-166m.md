@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Snap acquires computer vision startup AI Factory for a reported $166M"
-excerpt: "Snap Inc. has acquired AI Factory Inc., a two-year-old startup that makes computer vision and video analysis software, for a reported $166 million. The acquisition became public this morning via media reports that were later confirmed by a Snap spokesperson. The company didn’t comment on the reported $166 million price tag, but the figure is ..."
-publishedDateTime: 2020-01-03T21:28:00Z
+excerpt: "Snap Inc. has acquired AI Factory Inc., a two-year-old startup that makes computer vision and video analysis software, for a reported $166 million. The acquisition became public this morning via ..."
+publishedDateTime: 2020-01-03T21:23:00Z
 sourceUrl: https://siliconangle.com/2020/01/03/snap-acquires-computer-vision-startup-ai-factory-reported-166m/
 type: article
-quality: 54
-heat: 64
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: SiliconANGLE
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/snapchat.png
-    width: 718
-    height: 400
-    title: "Snap acquires computer vision startup AI Factory for a reported $166M"
 
 related:
   - title: "Snap Acquires AI Factory Computer Vision Startup for $166M"
@@ -36,6 +30,6 @@ related:
       domain: pymnts.com
     quality: 54
 
-secured: "GSEQOhrDaioWN1+XowFRRb6+bRVT5aygjKAygGeI65iTVQV4m7xNU+ygL9fZMiJ7ij2jXuMs+HjvvQaWnkowbCAJpz02uY/PimjQ4XYhDkS6Tqee81rZl5FMT0omvX1gfY1lGGDbqW9/2lao4J5DlCoXFPJ09g7P4BtBpxKxjVhTVGkRoB8Bb9JSjgW1EOGFVScn3+XH//wS8qWFnxBrXIoDXqayhfIS2EAeI84JlWm1/nsdsyxxDOHmuFrFwgIMrObwa3xKAtEX/aa0aYhe7DqUTSEygckIMNk3ZM/d8sRSX0yd7HjAlbqf2mWYB1nXbbiBHXNmWteIe54CUWBWJluKaLIVJt3EKcNKEAdd1Dwatb4KL4SnqxN2rHxnjqm3zQI/MEcT1LbuCW6wX/Qh2iPqWKmLkdm38CQb9XVqPy9uzvY3mWBxW4D5/nTLpvdQ4HmhZ8RT2mI1ty9prAtDUg==;HnGoqEBaSmTbC0oioynx2Q=="
+secured: "7QWwrsNNsgv/tJq31iEAbS2WgV07KjpElUDp3PRv626vpHqfnJ//KWFbnXCE5hUZTZUA1cpfFaxYNarWZbDS2udpkRfxcYB4wDvY/UoZ4sJ+CL6VeB9mzZKW5i6snNGrotC+zBpqPW+Xk7tOuByaOxpj02m4Xae5dYhPOSEpcpkqthbjWB19vOHKxRuyoJJht3J5kawehtyh1qsjtPPGsJ9Qd17ejumvmyODZTZV3g8oQfDSAnfVePFjSk+CBanwJQBCTw8I17fzGzIbJvcSoHOuhJBGknPdto8t7zu7YfcmuMM1wKco9BbF22WaToDY;CPxwZ+VIR9A+6JaXDUbseA=="
 ---
 

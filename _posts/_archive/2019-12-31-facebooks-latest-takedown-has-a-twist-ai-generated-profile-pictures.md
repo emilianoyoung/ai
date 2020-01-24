@@ -5,8 +5,8 @@ excerpt: "a group established to research disinformation, outlined how they iden
 publishedDateTime: 2019-12-31T17:51:00Z
 sourceUrl: https://abcnews.go.com/US/facebooks-latest-takedown-twist-ai-generated-profile-pictures/story?id=67925292
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://s.abcnews.com/images/Business/facebook-app-rtr-jc-191021_hpMain_16x9_992.jpg
-    width: 992
-    height: 558
-    title: "Facebook's latest takedown has a twist -- AI-generated profile pictures"
-
-secured: "fzwwM5Ug1Yqc4AyP3oRwCvIEDi06HKmQdbbuhlb5fuDNBwGe76VGibvmpz1n9U/E/QaFsATtUHvN7KwYMVl8T+Nsd8g1z4ZDE7X6Z8ntWinXS4z7dQBMYaNmoemfP9ZvdrabplaEWAdfuILQEOAWddYQP2qYqTjSl0LBl089YuUPAVkh3YMl9lKqVfzlUFu4E4FlJ3YSBTwojXfe2qPPK/66NkhJVNHmJA4O/QBLdnAWtaP2SAp5wMkavIcrrLJhDTzLvVJcma3VshvN5DQ4tAJ9iHz8WHnYU51mKhk06PlFBgLUhETaNXIqkxhmq4F6;br1C71zspW8ITJ+l+oNK3A=="
+secured: "Fbmj7bkYe7a63ADz1twMQi3J7HPJ/TIm/Y2adTIDbdoSga1Cyi4w6hmDZAdGl/+t3Ujtpjbrq6U8yRK7lV2gCP6ueCyWct+BhPFh9IYTBM0pR/FBp1Lr6O97sJ1C9Vc4gn7jXb5YTENgQhfCLh8hMCNUDsZNe7LHFHwLhlaGsiLcdSkWVEft9S6eSkCvnFc5KqALemvGDMv9uj3W7LlTtVZawWKOCx5x9lyKNVh5YAZLRuGHpNa1M584qnh7Cqsk9ZglDs036Qg0Iu8EtiqcqjQfrcVtEtAh0e04nLIAuhKdQ2LHdjTwDzMGhm9f0fyc;Wr465BU6h8WkE5KtV50+gA=="
 ---
 
