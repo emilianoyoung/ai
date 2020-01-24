@@ -1,33 +1,25 @@
 ---
 category: news
-title: "Police to roll out live facial recognition cameras in London"
-excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
-publishedDateTime: 2020-01-24T12:55:00Z
-sourceUrl: https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2
+title: "Police to Roll Out Live Facial Recognition Cameras in London"
+excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
+publishedDateTime: 2020-01-24T13:29:00Z
+sourceUrl: https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london
 type: article
-quality: 89
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/usnews.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7
-    width: 882
-    height: 545
-    title: "Police to roll out live facial recognition cameras in London"
 
 related:
   - title: "London Police to Deploy Facial Recognition Cameras Despite Privacy Concerns and Evidence of High Failure Rate"
@@ -319,6 +311,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "pAGLDSFx7gDpW/QRCiU83gH5YYD+FSzIuyjlGJA4y6+/hbTANdnf9q3rEP3Q+HfkxItcAhnxEfnh+mhk+7d286KCVQJkEekfUH+wmfHG3hPnEuGkbBeMNLRYfTkWEeFGTEbCBvYxhpH6eye2TVKthDVtuIYIMFPNA8pgdyyvlw6Hb2//6u1/d4J70x27RqRuT78EL6/L9FkjaqccKf1+71cpFMw7if5ec4hvzOBOxRaAMdav/RDh/jM1EHGOno8q5emQqiIpWYjyDzxrZ5RUzQ3jeCF+zKUihy8js5E/mC222pPGi+XWAdcT1OJaNoG+;R3wtZZEGuJ2pZvbw7AyQHg=="
+secured: "1dRTN0M9krTXGD4lSYjeLbQQwrl0QuI2Gv+Svn+AxKsehlP/g3pzyOgBvPM+Heo5GD/6P1tjA5CPXZCV4ZajwKrzNfkvyBycbBCZHaVNeizuybpgr7YXZMeE+JZS/IlJQqxKKlMlRUg9J8Jt/kUJY8zGNqiJCbugri0iiUjvAaExyAmUxXEh38q3BiACB/q18379KyCmMeC8zPaIj7ST5uVbjmrvq34VgtC2JsmNhErTMf0M4PFyRQqWlkHbTLaXv0Qm0eyTyroXcodX3dAIUmokQ97kcpfOzUSxPg5HbMBKCuzwGCW7viR8vPVBDZEeXyd2y8JOOAlgu0+T2tqb+O3XfEJ3fCIYnRnq2WfkFxzFhiO/X1OVs+Fk5q0/AHD17K/AEooPZ+0j/VSzOYR07K+XsKl8TPVGbgxMNnv3ejXz6UNsYlwXv3LdxfE0WJbpacelOK820r6L/1fB1th3C6LlnN3eeHYVE5y/pKsWVlE=;PqDxXc3Wbltnk+90doqqQQ=="
 ---
 

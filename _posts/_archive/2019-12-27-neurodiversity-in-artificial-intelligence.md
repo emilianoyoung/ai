@@ -4,10 +4,12 @@ title: "Neurodiversity in Artificial Intelligence"
 excerpt: "Artificial Intelligence is Helping to Create Jobs for ... Many of them also need routine visual therapy to increase hand-eye coordination. Recognizing the need for therapy, and playing to this ..."
 publishedDateTime: 2019-12-27T13:59:00Z
 sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/
+ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "qji0VCNbge6pfUt+MNs/9oS8ZSXykePVyr+j1UqyckDeAzHeyAi8s2EFUfwUDHjjXSKxibEt9Fp7gkUO3qZ1CN5ImCtCcckys5SRD2oluV+/Zbc7DpVh4i0UzfLOBDYbXRqWbrMOQNDmahtxVXy1HUV3WJIN1QtyRywwZOX+uSHuku0IZPlJSjgF5pWGP/woCCOWH6urCr/oKpPdIFeY+8fE0fNEuLFFT3/ILvWLh2/NVeth988FWA2pGoN87UHQ05j0qvDQ8ueZ9o+A9M3baNGcpkdn5TO/yo6C31gMsnLMqDgaFya6DXx4lFm2y2LV;PhOGJa+oX/NNsG5xQ0mTKw=="
+images:
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e060ce1e961e100073a0424%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5499%26cropY1%3D192%26cropY2%3D3286
+    width: 1200
+    height: 675
+    title: "Neurodiversity in Artificial Intelligence"
+
+secured: "mTM8xbEy8FkGARDU9IP6QizexB/7vsOeZgg+pPuY8SSI27oqW6IfwXQxts6oEnYmcdD2ns323RTemCJIfRG3+rTRbjuFVXEHK8dqBGr/KF/b1/z9jsuzRBgMQzzpXG6iqe3SJutVXgr+3xoubinhhZCPPcnoiDbFF+0n3lxfGPOrZIabf/SAxTmKy3jp0vPkkrKrI8BjpSPRXQCgsk2WISTf/Cs1Ty0vG3U/RAkg7XyWl8zSZAfyAmbiizrMhoKhz6L8YwThL998DLXy3KiOBeMmbyasjAE88w6HfUB5GBzcbMdXHZX/web6EvG3Vp7u;LAzSzcwMrVHCn+DnR12nFQ=="
 ---
 

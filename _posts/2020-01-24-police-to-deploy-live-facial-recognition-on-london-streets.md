@@ -103,21 +103,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/7pxwMUlds7-o0Q6HyWeu1-EN94c=/0x0:6720x4480/1400x933/filters:focal(2823x1703:3897x2777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66159634/1161938926.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "Police to roll out live facial recognition cameras in London"
-    excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
-    publishedDateTime: 2020-01-24T12:55:00Z
-    sourceUrl: https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7
-        width: 882
-        height: 545
   - title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
     excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
     publishedDateTime: 2020-01-24T19:57:00Z
@@ -281,6 +266,15 @@ related:
       - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
         width: 1600
         height: 900
+  - title: "Police to Roll Out Live Facial Recognition Cameras in London"
+    excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
+    publishedDateTime: 2020-01-24T13:29:00Z
+    sourceUrl: https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
     excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
     publishedDateTime: 2020-01-24T12:51:00Z

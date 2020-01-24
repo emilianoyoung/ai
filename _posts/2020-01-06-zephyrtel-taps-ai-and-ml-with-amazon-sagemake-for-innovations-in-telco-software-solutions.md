@@ -34,20 +34,18 @@ related:
         width: 612
         height: 355
   - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-    excerpt: "Ambarella and AWS collaborated to simplify the process by integrating the Ambarella toolchain with the Amazon SageMaker Neo cloud service. Now, developers can simply bring their trained models to ..."
-    publishedDateTime: 2020-01-02T10:01:00Z
-    sourceUrl: https://montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4
-    ampUrl: https://montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
-    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
+    excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo ..."
+    publishedDateTime: 2020-01-02T10:04:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
     type: article
     provider:
-      name: Montreal Gazette
-      domain: montrealgazette.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: https://financialpostcom.files.wordpress.com/2020/01/bw20200102005052_ambarella_and_aws_ces_2020.jpeg
-        width: 1000
-        height: 750
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "16wEDIPeOVAGrziv490rRMwwORC73oU6/WLOA1iS2Q35PdRX/dyvSIbPGB/bFSyyUGBVGBw642tlAWTqEwxAyI50NUufLe9RsEcgMZw9beakZIljDJQBsx1ghFuK82rDzfQQ7onKWCYVs/92U4PvSqmbsy5i2PnGegqSrmsFH9Kr3px3uJ6lJsLNGtHhGXZ0vjGLTRIduypLaVluYBI4sR0Z3BnBCDTcSygBMeB0MQzJlbYBODJb8+ag9KJKSuh529KmKDoqea83OH7uiOHShefYWSYd6q54WzYarpYdR05smyu3PAyxJ7Eq2SOSiRNRbJzMvUms1JcKZZIdcHCXIUMn/M2ACsjdlMauui9Ni84L4DVgf/PIM3SCgVq1GLQ0YAvDfaSdyEa2ynYgToUx14dqVFT/eFFErCZTdm015EZ5PockvBjAo4dbIOGsre2y5Eia330glIkYzI3mZK+ytQ==;VRD6yOFuCn/CNuXQLjMeJQ=="
 ---

@@ -5,9 +5,9 @@ excerpt: "Snap Inc. has acquired AI Factory Inc., a two-year-old startup that ma
 publishedDateTime: 2020-01-03T21:23:00Z
 sourceUrl: https://siliconangle.com/2020/01/03/snap-acquires-computer-vision-startup-ai-factory-reported-166m/
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 54
+heat: 64
+published: true
 
 provider:
   name: SiliconANGLE
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/snapchat.png
+    width: 718
+    height: 400
+    title: "Snap acquires computer vision startup AI Factory for a reported $166M"
 
 related:
   - title: "Snap Acquires AI Factory Computer Vision Startup for $166M"
@@ -30,6 +36,6 @@ related:
       domain: pymnts.com
     quality: 54
 
-secured: "7QWwrsNNsgv/tJq31iEAbS2WgV07KjpElUDp3PRv626vpHqfnJ//KWFbnXCE5hUZTZUA1cpfFaxYNarWZbDS2udpkRfxcYB4wDvY/UoZ4sJ+CL6VeB9mzZKW5i6snNGrotC+zBpqPW+Xk7tOuByaOxpj02m4Xae5dYhPOSEpcpkqthbjWB19vOHKxRuyoJJht3J5kawehtyh1qsjtPPGsJ9Qd17ejumvmyODZTZV3g8oQfDSAnfVePFjSk+CBanwJQBCTw8I17fzGzIbJvcSoHOuhJBGknPdto8t7zu7YfcmuMM1wKco9BbF22WaToDY;CPxwZ+VIR9A+6JaXDUbseA=="
+secured: "11gWOZLSVbJW+xViS+TU+LMU+fyIuIf5c/oWduj6tHdVgYkp2obtMkNImLYJDgPNlzF2mJ9lgLTLuIgukk0zMqVkoUUMxBVnqr10NxVw4BwzHsXaIegVFD5dnEG5BV+A1jMOKOOzefrO1KjX1lU7oKyfWPjavyoDoIsNUk0aTxiNlUJFdiyVOxuyUlfysdYifd+geqpERq2L7f/G1dyb1Us+rhMwKjUlg/lZe5oIsSnSna155Rd9NVmmCPs/aGRNV/+nsBV/fk8zQGRxMksHX1/T9HtL40NQiBov3tS+QbgLbTXXhIfCmWPhkLQsygC0;msUj4ViKv1oXOtTImgAGoQ=="
 ---
 

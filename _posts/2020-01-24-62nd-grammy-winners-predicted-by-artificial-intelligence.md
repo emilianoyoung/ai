@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/62nd-grammy-winners-pred
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "62nd Grammy winners predicted by artificial intelligence"
 
-secured: "c8ohrtT1UccncCEXV8IQ7JltZydeBRRjJTVIs980lFu86oTlxYwLymS/Fz23QXzTJpsuw0xF3ey9C1w3nijFytnWlwA5yYXLf9wQHX4tsmWFHtU6SGqAN23V2f64V9rqa1bjAIoxeUZZ62g/6SZjHsSpBnlwnFfZjdHNrgEpz0sVogrnxoj7CkZ5bHuTIkHfGcOah/OJ+BTk1QgBkH+GvD45G0KYgNRmyMZ3CM5RgmokGSodXFnZvjjSuUoQIOGbbjazm+kUJ/S9AwiOyl3ZqOHbUJrgEDOSf/LOc0H1jXkyf4WNMWM1LTcTygrg0iY2;03euk7+XeercCBNibul7oQ=="
+secured: "ui3mC10SvOI39TtbzwDr9Nn0wALK/2y54YQIuc2tUsbacQCIxwXKDvuskw+Hidc6ANYtKOvf7seo56r9AOgNMj8OZxRFUFFeYn91PDmYaSvj9ubeT06q+7q895XuvSXPq2r+J73Aj6o31pHS4Ftwh5+i9d8TKXsNCAPdbVUCVxa4uoYqFAiVO5BfmzjBvK83wTmETToKNi2wNoZM/XrqR0d1tp1BsvaLVIVgPIb0sW87zq/Dx/pPwvWreKS0HTntZBUQWNRJ97/YfZ+RMGgvoDYLXAEIi19Br6nMKCrgLSVzFTT5eStgyDVLIhxg6kV4pEzDyFlEsl8RH9MmgDVvsgdUCKQv+drCdB2GI4nLS/QMBVznPQIm2BX8ptYsFKxhYAeCZOUQvgtCvbTUxr0dbqS6g27oXrNGSHImE045sk23OUO2CUzrr+/RGa/oVyGjPPbCGLvCPuYUg16iMh00xVdUMgdrcNmz5xRYXRBOuTw=;j6FUuRKzeTOEv2m3/eehDw=="
 ---
 
