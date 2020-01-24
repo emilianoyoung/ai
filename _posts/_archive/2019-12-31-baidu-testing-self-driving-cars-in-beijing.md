@@ -71,6 +71,6 @@ related:
       domain: cpapracticeadvisor.com
     quality: 4
 
-secured: "o9YTr3ujoXJrP7y5wbPvMZ+MCqyV+0xdvECpCFWgDSBnnvperyBbBHNZYMBltKZdksGLMZgLW8Hwy2utL17riGvDjgNx53S9vot37PeaBs++oQ3yW1aRJSRjLiPBzJyVfVhbOd1OUk3dkmcX2q+2gSWI4ZoSEUGoftqHIaxOXjj8hQu+kmepZa+vPPNS0x3ucsBhZNn6GEln/l9jxv2fCU7CJhKKH1llgh2jRlEOt2eVdt4s9TQMXg9gIBglbsxniw6glF/r1cv0pMgdRlKaeTFMt0awVochb5HRvBe3g000t9eH1xAm+96tlF03v51h;9ykwjDU10NxMzewHuWxMTQ=="
+secured: "ume2GKkFUTeO+ICSSrRAGPrZIhbt/kgZTXrWzFI8t/WQKjdPw6PPVG/WyzjAvtL/cBwF/2Jy575NV4vqCeIgeKCJSXEH+q6sOkNvcTLB1WAaHz0qdlCZ3Z8bqR6/dSmmxxxaULqOHz6YClTdROVV1KaNe6A2ov6aYk9xZjYfWsjT1kL2CiDOyR3RIP7ApmBP5z5Qfmk0M0GH0xmU4XMumCEaDET35lec4VHy5b85IXaZ05K+JoGJYtcmnLsKrmvmUgoohtSop4OdizQpo92dHBvsY22iArCqIUuy/tu1JmCKFJoodgdyI0fVCyPWj5oX;RV+j3Cz97e0APXyjpI3ZrQ=="
 ---
 

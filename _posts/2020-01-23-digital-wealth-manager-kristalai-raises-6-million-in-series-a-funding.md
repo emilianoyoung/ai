@@ -2,26 +2,26 @@
 category: news
 title: "Digital wealth manager Kristal.AI raises 6 million in Series A funding"
 excerpt: "The company started its business in Hong Kong since 2016 and now it is planning to use its Series A funding, to bring its AI-driven personalized wealth platform to more countries in APAC regions. Artificial Intelligence has long been hailed as the future of fintech, and Singapore-based digital wealth management platform Kristal.AI is proving ..."
-publishedDateTime: 2020-01-23T08:14:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
-ampUrl: https://markets.businessinsider.com/amp/news/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-wealth-manager-kristal-ai-raises-6-million-in-series-a-funding-1028838445
+publishedDateTime: 2020-01-23T09:28:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-digital-wealth-manager-kristalai-raises-6-million-series-/2020/01/23/9085815.htm
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Finance
+
+images:
+  - url: https://photos.prnasia.com/prnvar/20200123/2700689-1
+    width: 600
+    height: 400
+    title: "Digital wealth manager Kristal.AI raises 6 million in Series A funding"
 
 related:
   - title: "SaaS startup Samya.ai raises $6 million from Sequoia India"
@@ -36,6 +36,6 @@ related:
       domain: indiatimes.com
     quality: 37
 
-secured: "GQ33C2FGLjzCtSLckJEGqYEt753Z8zCFLlXWqZKDfyH/EX0x5A6Nsd7jv7DHOEPnIrGpQJXOcwVYh2LLhiJiICR831J13zyMeHeEDLYxc3nHUSEyJbdhKsVHSpNn4xfstG959rijS40Ry8/GC+MQ/SnqaLxMZ6r8cIw9cqUsYMGEp+lKjra6DjAMWavzdmCnH3PizhrVjQmkC1PYd953KO6y/huWk9oXbajcRiYF7dMm8w9EDCdbeo+V/EWEpGGQ+CYYuVEB2/bq93bmTuk1N2+AN005s5lsxzUgzoivbzVAv/jyMqTf8cyxcY2cs1+P;e4co06b+/1g6lFT27aToKw=="
+secured: "7HL2QY95WqtxLdLexURyi11HYrJNdTrWO95Gzhl5KPZ7TQzkaei7xwWJrw7bhhhwL/NMh05X32yLQtL0H7OHb8eioRS/4bdmb+ACiY0rgdKR8+joSCvAYQ6Lo3eRyLCnu+/Xl9bYNSicgkCZ6isGwczdmjLuLkSTGgzoeEUNS8uU+zB/qyeMZ9EZqOEiWIHHzAVaQfOyg+/dHq0ZNRsT0Lb2XMKv8+hRLwQgXt6gVz7AF08apMWjbPUmrDU7acrFC/opuYzKvs7H2j2r3BJXEX7wOKNn8mIB+tk+CQDlZ6YglIvevzroyr/XenwewbEy;37QtuG9sSdhtuTjDmmivAg=="
 ---
 

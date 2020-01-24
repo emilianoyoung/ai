@@ -76,15 +76,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
-    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
-    publishedDateTime: 2020-01-06T02:34:00Z
-    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 10
   - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
     excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
     publishedDateTime: 2020-01-06T13:46:00Z
@@ -95,6 +86,6 @@ related:
       domain: design-reuse.com
     quality: 0
 
-secured: "grc0x0p4I4cVxcRve4KecXjnxkVFzyJhpkIv1vZcuYwYaky4mzxkAsO8g7Amz3bPE5fYCt0HePCeXsoIzltcQ26N66lfMTvVciTVQ/H3brtfUqG7uVaasFWC2KsECvk6nUL1bfAEPbrdmXpXjl4ZVIQhIWRL4xWAVAOsXbq1Qk6HW/7KDhBuSgVGNgnWfXp8/m7s7Uwki8Fm84fcYjL+j5iOdMj1VHOB0navfIorLioND4URShVwHoOX8po4Yb3t6HlzY8wQJyVo/Gd9KE7+sI/3285GCcGysPe4lfmWPF68Mx6TJoQDoC8wOgweDMfs;oPY/kHX7vJFopoMsrAB2cQ=="
+secured: "M2lLTJLR3kZyRyDxBi4ifZgavO7HsuVSWjvh5cG21pHO+zcgVGkbZ8EWFKOyBT0sbreNTaeE1jtqcGqi/Ouj/llnmoSCAIhldac4BAMLEJzrhSdxslQ0Ag4JLDan+0zqrNhbCw9UTQ7NKs8qzG7Bk8hvi7mGMZfWMwKw9kOdsIEFkfLvrobYbMEK4ROLKYSkSB30aYRJ0NUTA/wDt717sKxxSk48yoyX9gJFc1WWmjcmcViSWnfiGG1bE7iitSX9LSo/NQV2PhVwelFvHCvQPrCGZUgt2C958dGsFb5aGqw0hzmcMG15DT7gfLiVSYUq;7bI+U2I3mBL3EolDZeOWtg=="
 ---
 
