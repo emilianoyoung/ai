@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Arm Mali-G77 GPU Named Best Processor IP in The Linley Group's Analysts' Choice Awards"
-excerpt: "Today, Arm has announced that the Arm Mali-G77 GPU has been named the winner of the Best Processor (News - Alert) IP category in The Linley Group's Analysts' Choice Awards 2019. The annual awards recognize the top semiconductor offerings of the year in seven distinct categories: AI accelerators, embedded processors, mobile processors ..."
-publishedDateTime: 2020-01-20T14:11:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-arm-mali-g77-gpu-named-best-processor-ip-/2020/01/20/9083773.htm
+title: "Arm Mali-G77 GPU Named Best Processor IP in The Linley Group’s Analysts’ Choice Awards"
+excerpt: "SAN JOSE, Calif.--(BUSINESS WIRE)--Today, Arm has announced that the Arm Mali-G77 GPU has been named the winner of the Best Processor IP category in The Linley Group’s Analysts’ Choice Awards 2019. The annual awards recognize the top semiconductor offerings of the year in seven distinct categories: AI accelerators, embedded processors ..."
+publishedDateTime: 2020-01-20T13:00:00Z
+sourceUrl: https://www.businesswire.com/news/home/20200120005037/en/
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI Hardware
 
-secured: "pCA784bAbSgb4YvZJGIodLwru2MxoqU8PKFOOOIW1Sb66mIkefrv98JI/rs+Rh95JG+L+/6oL7J89BKn/ethWni+TmqXKuRuJ+TDHr+p5+6yYkQhk+d/H98HY8zxp0BVphjvHbc+kGgORP/d0v3TYRtM6oL2wdjDefwfZ95fzVXB+AM5xocCaC4YngFL38qjyhqgQz/X0Ta/khHnIabDv7zkJpJRBMEbTZmMLmdA0hn+PjnRQDT9rBd3LPOrSCQJNYEDjpq7OTJOqLDmUaNTpPSTQW5faULA/SnTVenE0UkVMxznBFNOxTKoGKi8azxt;26DfF8iqrcbPanlWEihkgQ=="
+secured: "tXfa1tBqNFT63qiRBEBofajfpr/yyJqIt0yuJ8yEoo4XhvP5ICbk3xrh9zC4ZBT4iH9WiH9XhwRnIqxY9WI0vv3Sqe7uoMQ/wsXNBpYzr1AlAXmYShfD+2tTl2qfoE86f3JZhhu1Z20NKUdrhvK9pQpXppXYhKUQ2Ifn/4nuAZPkfJxpqbSTts7TRyK8LcIQYzUqp5v4XkqM3cGrpJnpqxpKBN0FnCbrhtmMmVhLTh9147ZwHBEA+ucM9j53+jsiugzO5BQqkFp//78g30UvnR7Z3qeZxu8q9vhHLYhCPs9DmfOkguJtYk2TFP6u9N11;gC1ymENUNaN0ptFeyswiuQ=="
 ---
 

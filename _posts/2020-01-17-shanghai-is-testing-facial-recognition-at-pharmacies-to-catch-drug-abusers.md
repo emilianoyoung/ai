@@ -283,6 +283,21 @@ related:
       - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7
         width: 882
         height: 545
+  - title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
+    publishedDateTime: 2020-01-24T19:57:00Z
+    sourceUrl: https://mashable.com/video/london-facial-recognition-cameras/
+    ampUrl: https://mashable.com/video/london-facial-recognition-cameras.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/london-facial-recognition-cameras.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o=
+        width: 1200
+        height: 630
   - title: "From Washington state to Washington DC, lawmakers rush to regulate facial recognition"
     excerpt: "Amid the start of an impeachment trial; talk of mounting hostility with Iran; new trade deals with China, Canada, and Mexico; and the final presidential debate before the start of the Democratic presidential primary season, you might’ve missed it, but it was also a momentous week for facial recognition regulation. A bipartisan group in ..."
     publishedDateTime: 2020-01-19T21:09:00Z

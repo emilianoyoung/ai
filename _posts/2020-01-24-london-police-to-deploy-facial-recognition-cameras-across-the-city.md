@@ -270,6 +270,21 @@ related:
       - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7
         width: 882
         height: 545
+  - title: "Despite privacy concerns, facial recognition cameras to be rolled out in London"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
+    publishedDateTime: 2020-01-24T19:57:00Z
+    sourceUrl: https://mashable.com/video/london-facial-recognition-cameras/
+    ampUrl: https://mashable.com/video/london-facial-recognition-cameras.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/london-facial-recognition-cameras.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F24%252F8f%252Fe45391542f244300abce8e004744f264.dbee4.png%252F1200x630.png?signature=Jv-_6kRL_ZmhIw_aPKprHejEK2o=
+        width: 1200
+        height: 630
   - title: "Shanghai is testing facial recognition at pharmacies to catch drug abusers"
     excerpt: "Every few days, China finds a new way to introduce facial recognition in people’s daily lives. According to a report from the South China Morning Post, Shanghai is testing face recognition terminals at pharmacies to catch folks attempting to buy controlled substances in substantial quantities, likely for resale. The report noted buyers of ..."
     publishedDateTime: 2020-01-17T07:58:00Z
@@ -963,6 +978,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "HULZstYGIOOVMWsKV0o3n9G6GsvBDjNI8eHNJv3BbwaW/+RUxbKgkmZSZCXmxpxnL8Rn6tVgegkz1AnnCLUlRIVfHVNMwJI1oQl370hx+99PC7DqOJDilMglSzrHH3YIFWPfoD5jKtHGctksoW0Ibls8ueIVQIHthmAaLfFlBrbm+WTYsvo8+B2SLtLjq3WGnTV7fydkOvoUaAU5us63GqODEHWgEO99TiZMi6UxFAkI7r21s/i0AyZ0rTlPCydX4I4gSiTdfouWuILJShFYz4tlb1TAY4GO83j5OHHgYUBnuHaOuL0fdANkTVBWjBZV;i0u2gcPf3ZJnlJlAbmy04w=="
+secured: "iDatpxQt8kcq0OTirIOoqyVGq+DCegGfizj+XEB5aIAkkSMz0dya1mG/8pjKJzS8QTS4fzHdXaYDYO1m3zTJ6L2yUal9BqqGLPKfvS6SWBduiimnLLNsOYY95oEHLYrYTqA2iRXddSbp7iyZ7++6NGi0vL6GIJidTlFuw4pFiuw5MtbSHNMHtCnOgucQ/oq2TjKKrQpYNXBBBiHZpENjfwB5EqfMO3Viqi1RukByt6f7Rh5rSrhedGip0g3JECvD9WJvp4djX4AORcMuvq6i5nfjc9hoTL39a1XvCWMZR9QIuDK/NO2do95qB2v2R+zUP2/WjFxX/OV4YOAIRKu3zjcK2fS+Bz/INn/BEYygxkm34m9JafAmI/odGITmrZZZK8Eou4f2NnJiNL+ohUPNEGeW71OaTt6+ckqzzH9N0YVFlIDuP4vutIma8em956Xtz4EI7gs5SPdkdbre/+qbyqHiktYz1hiGam/QZEuq8+M=;Gch50gCLrZqU2qosXDniAQ=="
 ---
 

@@ -4,10 +4,12 @@ title: "Samsung Prepares Neon AI for CES Debut"
 excerpt: "Samsung is preparing an \"artificial intelligence being\" that could become your \"best friend\": It will debut at CES, award-winning director Shekhar Kapur said on Twitter today. The project, called ..."
 publishedDateTime: 2019-12-26T11:06:00Z
 sourceUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut
+ampUrl: https://www.pcmag.com/news/samsung-prepares-neon-ai-for-ces-debut?amp=true
+cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/samsung-prepares-neon-ai-for-ces-debut?amp=true
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: PC Magazine
@@ -21,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "jGJPnwwZsGhmezLgfggqKL1XKPhFN77sHdkL/DOVmHkTormysQa71mfkX0uHshqDjo5RzKOZ5Fg0rURl3eBQcxZXBYpVVU7Uur060dLUkgiI3HF/gVvebbmcs1lbdv4619dN8u9xH/rCSciigoe/Y906VVfuNSuhSP4DjhupHDGFVPRXNRCgSS02QXmUQQuaS6xNCTRrufLPswoLuOY64FLgCsE798g9w/Fs2t8yTI3T11Ht4ugKUm0vRWHxdlpzPx2Wt4k/MX007ylyCHSnMsz5uX1ybZCwKxtR4lZc41Ywf4xQxANAIA0YRCDuPLGU;iwi3PG3IPECgcvmglOreeg=="
+images:
+  - url: https://www.pcmag.com/images/pcmag-social-share.jpg
+    width: 997
+    height: 1201
+    title: "Samsung Prepares Neon AI for CES Debut"
+
+secured: "7SNc8b8wmdpEaEubtN8ZKI0q0O3Zyt/o9av476UaCjW7yUtH5dWElWtx+0TlQwezPiIu8goDIme1T3sK+n04vP9sL8Av/8B0oUi+eFPvZCgRRbcDlMNJaQeYOV9FpdUNsRD724paOddCGN1rnM4ci2IBLN2k5sF8zZRQ15qp4o4awxAxYXOLdWuNfwcdCbmSUT1r0KVyrwsEiD6UP/knyGMfXyAZTfDju5VvZ3U8GtgN/OyB9O0RrM2jB9UD3oUbCAdUyVgslyD9DPYj6SSXGxB2DKOtqIexbty/FSF0mPfHM4oOFcPhaOT6wti9bTxM;Ad2VPJ/PGuAptwW2lAC9Gg=="
 ---
 

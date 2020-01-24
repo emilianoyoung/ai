@@ -4,10 +4,12 @@ title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
 publishedDateTime: 2020-01-02T10:04:00Z
 sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 104
+heat: 114
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
+    width: 1200
+    height: 646
+    title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 
 related:
   - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
@@ -38,6 +46,6 @@ related:
         width: 1200
         height: 655
 
-secured: "AiMGJYgnOwpxY4J85A27rIDAaj7GD3lJBp/jHPAOMs92sLQRYW0wEthkar8vdJO563SQlNWVS7j3DOigrwZMPwiKBFNN15FZgQBEbonAhxlzgv/ET1x6TZdKN/NTx4vmbEC4cnNrjXgE1Fo9Xubn2I8KKhtk7rhkd7QD2DhkanK9PKeGLQBdLhXFs1LbgInbfaxB0Mmn3MuHYufkU/lGnUkkIdecUVa2woHQf0prOR3yO5OaZddThnrdzTHL+QvJOdMaZzZ8yGLPA0A9aHefmtoBkxoI70wjCWh6191R1GHoqT/y5Ur/zZG9gYX9y1Uz;r/OUXEdm28XDT69Lz1DisQ=="
+secured: "JZY8Gcsi61T1DupbBDFp70VHHz9iCpTgSsMR9QIrDQ1giPh/tqhiylJYROEU4aSDga1oFLBF5J7rHuUtkFVO5Z5L+6Il+Y2YHySHcVhG9d1SlEo8Hm8FNgR2zMiWd4Tjcu0z4RZYGuFmHV/v8n5E9K84hNH345Um6MLNpx1TkQjb47yogUv51pCWZkP7RUQl2mbDLjOxQAp2Wj8aeov0NmoaDHKTlA6rzRnVj6dnOwdrUIBP9RGbD6P4NgbkRlyW89tqeXGi0bMjob9YTOLSsBsqHFDf3gLwmb1RQtFJyKZyqCRZP1zegHsRAut7wgOv;GTCzKHltdy+f667hQCbdyw=="
 ---
 

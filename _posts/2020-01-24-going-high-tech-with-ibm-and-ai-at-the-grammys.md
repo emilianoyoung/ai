@@ -43,7 +43,22 @@ related:
       - url: https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg
         width: 1200
         height: 862
+  - title: "The Grammys go high-tech with IBM and artificial intelligence"
+    excerpt: "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ..."
+    publishedDateTime: 2020-01-23T20:17:00Z
+    sourceUrl: https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    ampUrl: https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg
+        width: 1200
+        height: 862
 
-secured: "ZncW+r5Ld0VJfx5gTOFxD4O8B6ix8EKVPI+FYoq1bF/r61Jn1rwWLcDq1yVJvDUzWjdbLITHztJeFQ8F267xRE7scEMba+amsZiXUXGzxFXgt1SFQrnibgRr1fYRU/s3asspPbjaWZJc8A7Vxq1OSSMIiWV9wX6UkCFD8ONHw1h5ucgZIJTQfdLtmU7DXsJDzwerkNTJPjXiDYX1QwTP1tHhWA2DFZenMItFf4A2ChMMUfhnof1sSptmg6ydl1xaJE17X2wbZDIFZnsy1GBT7ei+WjAEjuIHbKjRt+OFN6JitXU/JLFus4M6Ias10Rmg;MOyrSqQ9otTAv5/anABgew=="
+secured: "GUKW0VYKJSckpws//f3U05UlXEcEAAqN5pIEkRfatN1r2dZvqxTPLDx1YGefc/2uMYMfUnK8O/gquVc0iuxypgU/oTwsEdJvoxjsCKnOlSKj0zvDRxVZ5vRI9Cs+MRtT4W1DcjuXfAagEjufL6OfJgHeNLzlnF+4lNdt9bYirEoXubngM4/I3vgHUr6ft9TBJYUtNZWXEs2Up5B21wpkS1QVaoJwQ+zcAZfffPbDx2RPZSW+QtEmjf795Sq3MBmF+38OXlVj7AjaRowe1C+ewhCh3IACzsDifrWOaFDyfVmbCZOLh9e4oCWj2DcGJEoLuLsennCMPKCIkyU1GulKPb3n+MwozY936RnxclRQHGSdAnLXtI3Uo75WCsFJEMDaUihACmMvj9ev17Bd9CJ0emxgkSpJU0AnW3tWuVvuupFcGzmKDlxaW3OheAUzNgw8rycWNWpk7u3xqXvXnRgp1MCKpL5J8quc/k5GYV0FQok=;4tfyNl6i89YJmDIKCj0D1g=="
 ---
 

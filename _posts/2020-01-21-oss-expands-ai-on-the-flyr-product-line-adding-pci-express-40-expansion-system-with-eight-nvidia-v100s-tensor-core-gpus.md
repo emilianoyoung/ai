@@ -1,13 +1,13 @@
 ---
 category: news
 title: "OSS Expands AI on the Fly(R) Product Line, Adding PCI Express 4.0 Expansion System with Eight NVIDIA V100S Tensor Core GPUs"
-excerpt: "One Stop Systems, Inc. OSS, +0.99%, the leading provider of specialized high-performance computing solutions for mission-critical edge applications, announced the availability of a new OSS PCIe 4.0 value expansion system incorporating the latest NVIDIA V100S Tensor Core GPU."
+excerpt: "ESCONDIDO, Calif., Jan. 21, 2020 (GLOBE NEWSWIRE) -- One Stop Systems, Inc. OSS, +0.99%, the leading provider of specialized high-performance computing solutions for mission-critical edge applications,"
 publishedDateTime: 2020-01-21T12:31:00Z
-sourceUrl: https://www.marketwatch.com/press-release/oss-expands-ai-on-the-flyr-product-line-adding-pci-express-40-expansion-system-with-eight-nvidia-v100s-tensor-core-gpus-2020-01-21
+sourceUrl: https://www.marketwatch.com/press-release/oss-expands-ai-on-the-flyr-product-line-adding-pci-express-40-expansion-system-with-eight-nvidia-v100s-tensor-core-gpus-2020-01-21-81843117
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 58
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - AI Hardware
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "OSS Expands AI on the Fly(R) Product Line, Adding PCI Express 4.0 Expansion System with Eight NVIDIA V100S Tensor Core GPUs"
 
 related:
   - title: "OSS PCI Express 4.0 Expansion System does AI on the Fly with Eight GPUs"
@@ -45,6 +51,6 @@ related:
       domain: businessinsider.com
     quality: 39
 
-secured: "JWaVwcvBJQ2kF+qQYnNLfP9tNo6YB496SQjkVQ/zFlSMvKjWqzeu71+ctSGNsBFaaTl3ErQESkbimytvUi1/GweEsPfNR+qq4YYEa3faWN1hY766m8awg9DFzYk6BPeBvTBExavjJ9UAx1aziS3PeBGZERSSl4xtQwz0yJ+iAMffojPt9GBeDtSBRCtU3vaIRnEcA7XnyNR/w9E3BHzAg7pNLG7J7F16Z16nnJ4pz2F3ZPtuvBRiQXlhCV/64hjQAHCL9BZVnE5qZ6IpdMTNLltdLMkNkD3ugE4qE63rxdIbOKDoJEagW9Zl3XTUlvdB;zkNIrtUjTaaNoCYXdkm3NA=="
+secured: "4TGUJjoFceLT72mF6XogsZefGXJKGksrxF5eMhCjXzE9gPb86GPjDT1XAWPCUpbZo8I9DmPhWv2k91s+ZHv0vg3ZC3irRDjr3rrb9K1/uJTHi6F31Nz2Q7O1VZk9jgl3PyByN8Cy9LXFbJZhwzG4SvTo3ZZ9M93ZMUe/IreyUYr6PRR5vjDS+aMH6UQJtyYp9wIu+6C3ICmYirN8FGs4VMFachmSEejxfHkDUiWAOeshB6E5CBZ7CKU9XiRWM286PNtJRsp9pf1Icpnwki0/S5mTomS8Qcfk7wHEeULSoreZSCsTRJP3HGnvYEVDViPo;o7yRS7E0YwvHLQyT8ujjgQ=="
 ---
 
