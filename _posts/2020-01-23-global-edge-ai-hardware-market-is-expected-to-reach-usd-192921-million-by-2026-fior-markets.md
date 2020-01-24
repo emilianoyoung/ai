@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T22:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-edge-ai-hardware-market-is-expected-to-reach-usd-192921-million-by-2026-fior-markets-2020-01-23
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -54,6 +54,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
+    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
+    publishedDateTime: 2020-01-24T02:56:00Z
+    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-
+    ampUrl: https://amp.benzinga.com/amp/content/15178205
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
     excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
     publishedDateTime: 2020-01-23T13:30:00Z

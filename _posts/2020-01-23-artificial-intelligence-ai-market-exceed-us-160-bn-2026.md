@@ -57,6 +57,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
+    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
+    publishedDateTime: 2020-01-24T02:56:00Z
+    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-
+    ampUrl: https://amp.benzinga.com/amp/content/15178205
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
     excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
     publishedDateTime: 2020-01-20T07:20:00Z

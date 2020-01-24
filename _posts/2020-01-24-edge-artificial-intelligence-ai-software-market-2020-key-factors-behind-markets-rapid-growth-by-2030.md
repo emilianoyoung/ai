@@ -1,21 +1,22 @@
 ---
 category: news
-title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
-excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
-publishedDateTime: 2020-01-22T07:45:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2020/01/22/1973435/0/en/Voice-Assistant-Market-is-Forecasted-to-Hit-26-872-6-Million-by-2030-P-S-Intelligence.html
+title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
+excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
+publishedDateTime: 2020-01-24T02:56:00Z
+sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-
+ampUrl: https://amp.benzinga.com/amp/content/15178205
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205
 type: article
-quality: 0
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-  - Natural Language Processing
 
 related:
   - title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
@@ -57,17 +58,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
-    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
-    publishedDateTime: 2020-01-24T02:56:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-
-    ampUrl: https://amp.benzinga.com/amp/content/15178205
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
     excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
     publishedDateTime: 2020-01-23T13:30:00Z
@@ -88,7 +78,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
+    excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
+    publishedDateTime: 2020-01-22T07:45:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/22/1973435/0/en/Voice-Assistant-Market-is-Forecasted-to-Hit-26-872-6-Million-by-2030-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
-secured: "OdGivqFnuNivDXWNVeOpwuSg+SMJ/TnFRofcUUEGHzWzArzrcyAF14TeikXYgvXZRPg8IFuRoeqcY/4FSmSN5XanbAvH9kPoy2UFj4/u+loychN7V7h1uaJ821B7ooJ/E8PEiAhvdCEDSmYmNPly9CN25ODyOoEDHm6n8JtTPOEGwOP6A0RbAv1lwAo+9cx/rumHBbmur9O7c0brrl6g6qQKxEAIBG5nVXeifaLpwWnx62YbKAeawRT5g65CPM6Lu96lQt2m57gORuztHinJdfRlDDfPOnJreAVnSDW3vuI=;f+uRb8PqbCGl0nIgqGR6rg=="
+secured: "Atx/pXTWc6lg/wJ+EnAv6V7dQ/RdJeowtIiJVjKvVvzQTtdUTAyxWhQpvrARyzjburWK9SNshJME9rp1Dn2odgDR5Aor81PqyLBhs/7IhEIVLViE56T+psKwsJDT3YXbBnxSwExY5gS8zVZHYk9fADu5YX2uLfNgSv7PNLt5FHd5BDrLiT1s4MIRwrjs4lHegzpwr7ilQkkJwmGiUM5ZjRq3hJnpqarH7kVlJeVQFnF9l/N4N3LJg78xuLyM5uRK3A6fp5G0YwzpuaKAbW4YKBz8EH7/jmt9CyzCifSMZbiBjiPDM7QPm9MaDfFe4YWO;epExHj3K8+Zop48kXveAmA=="
 ---
 
