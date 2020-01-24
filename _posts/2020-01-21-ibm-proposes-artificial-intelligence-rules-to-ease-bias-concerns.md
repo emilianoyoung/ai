@@ -5,7 +5,7 @@ excerpt: "IBM called for rules aimed at eliminating bias in artificial intellige
 publishedDateTime: 2020-01-21T16:31:00Z
 sourceUrl: https://www.industryweek.com/technology-and-iiot/robotics/article/21120934/ibm-proposes-artificial-intelligence-rules-to-ease-bias-concerns
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ topics:
   - AI
   - AI in Robotics
   - AI Ethics
+  - AI in Healthcare
 
 related:
   - title: "IBM proposes rules to help eliminate bias in artificial intelligence"

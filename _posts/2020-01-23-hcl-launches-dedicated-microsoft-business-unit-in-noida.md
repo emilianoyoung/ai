@@ -35,19 +35,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft's offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
-    publishedDateTime: 2020-01-21T13:29:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-hcl-technologies-launches-dedicated-microsoft-business-unit-/2020/01/21/9084223.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-        width: 252
-        height: 335
   - title: "PowerObjects, an HCL Technologies Company Announces the Launch of a Dedicated Microsoft Business Unit"
     excerpt: "/PRNewswire/ -- HCL Technologies (HCL), a leading global technology company, just announced the launch of a dedicated HCL Microsoft Business Unit focused"
     publishedDateTime: 2020-01-21T23:54:00Z
@@ -65,24 +52,6 @@ related:
     excerpt: "Noida, Jan 21 : HCL Technologies on Tuesday announced the launch of a dedicated HCL Microsoft Business Unit to help joint customers with digital transformation initiatives. The decision will extend Microsoft's offerings of business applications, Microsoft ..."
     publishedDateTime: 2020-01-22T05:12:00Z
     sourceUrl: https://www.newkerala.com/news/2020/10673.htm
-    type: article
-    provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 19
-  - title: "HCL Technologies Launches a Dedicated Microsoft Business Unit"
-    excerpt: "This will extend Microsoft’s offerings of Business Applications, Microsoft Dynamics 365, Microsoft Azure, IoT, and AI/Machine Learning, as well as help employees accomplish more in the modern workplace with Microsoft 365 and Windows 10. The HCL Microsoft Business Unit will create intellectual property extending the Microsoft platform for ..."
-    publishedDateTime: 2020-01-22T04:43:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37785/hcl-technologies-launches-a-dedicated-microsoft/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 19
-  - title: "HCL Technologies launches dedicated Microsoft business unit"
-    excerpt: "Noida , Jan 22 : HCL Technologies has launched a dedicated business unit that will extend Microsoft's offerings of business applications, Microsoft Dynamics 365, Microsoft Azure, Internet of Things (IoT), artificial intelligence and machine learning. The new unit will create intellectual property extending the Microsoft platform for customer ..."
-    publishedDateTime: 2020-01-22T23:06:00Z
-    sourceUrl: https://www.newkerala.com/news/2020/10960.htm
     type: article
     provider:
       name: New Kerala

@@ -8,7 +8,7 @@ ampUrl: https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-o
 cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp
 type: article
 quality: 57
-heat: 67
+heat: 77
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       - url: https://mma.prnewswire.com/media/466044/Anonos_Logo.jpg?p=facebook
         width: 1079
         height: 565
+  - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
+    excerpt: "Davos [Switzerland], Jan 24 (ANI/NewsVoir): The Bahrain Economic Development Board (EDB) - the Kingdom's investment promotion agency - and the Department of Information Technology; Biotechnology; and Science and Technology, Government of Karnataka, have signed a Memorandum of Understanding (MoU) to promote cooperation in AI, FinTech and other ..."
+    publishedDateTime: 2020-01-24T10:58:00Z
+    sourceUrl: https://www.aninews.in/news/business/business/bahrain-and-karnataka-sign-memorandum-of-understanding-promoting-cooperation-in-fintech-ai-iot-and-cyber-security20200124162553/
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 0
 
 secured: "7m7yCOGWFAq+snretu9PMS8UEdcurGCqKmVW63TUyS7ewfhXdrDINDI4XO+fYH3FsoPMeXPrniERHBJ3iuScuHoJhLGHuIgF/20iGfzr/nFMIbxvDMUqICrw1xpgMtr/YF0EyWKupVWv7NNY6W8GjP4un2ayx8zVyqE0F+aomsDyr68XzyagbtdmjFmrDiSo8BwTlsxVfQkeEd0L74O7MNYgg9tuF+MnvmEBDxQSCeQf1DGvb4DsokTUBXzPv98SMzfDxxNgjFWYTtBTNlhHAG75cYaJFGXKUszsD5UOaBThdnZPCtH0l7bF6Z49Ojz4;uI5Q8QPYPVw0Gh/SP+apQg=="
 ---

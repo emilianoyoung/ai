@@ -2,25 +2,25 @@
 category: news
 title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
 excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-publishedDateTime: 2020-01-19T05:21:00Z
-sourceUrl: https://www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
-ampUrl: https://www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
-cdnAmpUrl: https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+publishedDateTime: 2020-01-19T03:23:00Z
+sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: Sun Sentinel
+  domain: sun-sentinel.com
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: https://www.courant.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+  - url: https://www.sun-sentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
     width: 1200
     height: 800
     title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
@@ -57,6 +57,6 @@ related:
         width: 1200
         height: 800
 
-secured: "rbj1smvu6FYP7QRNAYB9k4lYdjZP7GWchxoLDdC5mH/54SFi8LxVDggdFZWgdGIxGjr7OhCKsxlSROinp9leA3KA8enkeq6n8HS8NLhd73wYcw4WexvDM3HZE43oCl6YicaARflEaIGehGQ3MJ7guFEsNsmdhBYadGVBPg0S4BLVMvmHOk9sFHABb1csAogbnTZonzipcMss7FHUh/ZqnEIck+6zEJ50SIe8ONZuI+hJ/XCwGskVS8EIJksxt7dwCRQPfnmefTPh2TX9I2KAu0NYSIkiySka0ZW5QprW2BDQ3AgJhP99LfdN4XK5D/s/obv/XlhkvTwsAt9+f3T7Gc+yJ0wzK3EL7a+9XKRXsqy8/GLJS78uuQDny0M4uczqBYVTb8fnnQ91n9On3QGyw6GiOOyPceGavvPDIua9fONZPB/4Y5v/Oirjz18dhu4m5VMrip2F/NAoHjMwCeanpA==;92sK4W7qolpdReaaS3z1vQ=="
+secured: "nEKwqdLH9XdOlogqh/GER+OikkGbHF2YhC7rLvEr41GQ1zTPsGq3DAr+0S8Djsbd803Opd4Qm+UEYAROQqCGl/M6DiADJxMWB7XYzexqwOo2J8LbMzLZPu0fdA0cc6tkcH3jHEhJkhuzXTIy+Y3W8JAxIIcbiPMBzsJRXTifqswHieRo0Jhgu1CyZNFEFeSY4BjfO5FCLewlO5TMZ9O5ntRv1VBxGcDugaj7eHAafWhkH3Cf4wAc3GiEj2VvgFjoVQQOZwW102XFKUEV5G1fNS0kZKlLYrojoT8RpKDrUfi6fjkRY3XK9eI2qGHTVqgo;KzPzxZv4SJgxZP/+jZOGlg=="
 ---
 

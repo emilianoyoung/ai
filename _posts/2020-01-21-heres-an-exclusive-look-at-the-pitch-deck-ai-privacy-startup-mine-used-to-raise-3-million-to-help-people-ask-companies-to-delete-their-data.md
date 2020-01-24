@@ -32,6 +32,19 @@ related:
       - url: https://i.insider.com/5aac3309cc502927008b48d0?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "London-based AI startup ChAI raised $1.7 million to address the $60 billion commodity price market"
+    excerpt: "This AI startup draws from reams of data to predict changes to commodity pricing."
+    publishedDateTime: 2020-01-24T10:41:00Z
+    sourceUrl: https://www.businessinsider.com/chai-london-ai-startup-raises-funds-from-passion-capital-and-mmc-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: https://i.insider.com/5e29b5c662fa8143430769e3?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
 secured: "KPwN6yGa75hrvnLIoFCt9RwtNBBk/Jsm2vCN4uHYUbq9UckugjzqGzSjwVSdX1uIt/3nOB05/8cTAKe2JqGe5c/nAMtmtSxtQTbOeHdOcAtwZN3tzVEaWbSWPlEwAeRh/fwgVIhp2vuSl4zQDX22GOnWDUL3S3xhAf5FD0v+MvM0P+Q1JFNLOCXh2ZPmiQrHZQTwW8Fb/ai67DlKyIdRQ6WtSuys4o8GSnI3hYm4KE4MP+D3xHlsGQBC4EKBaOhxZTIcTnBZJ7ZStcxATD58wg4FBmVcvFBp0NcSzm2SM+2e/+3TBFC1veDJeA1ZYWcQFazy1kHxo41nVqNFjnIFkE9Q9izYiTIwAFhX9C/w14vbBb3u/KpeAv5cGD/N7sWhcNcwiX3cqVbRIEHE9du6WIbNqex/A/vvMq4mryXzGttaWru5NoRwAWY1TQz2eq4DgyCvuLBqIlIXzdi6nChT8g==;XDijGeeMNaGBJkpodinPYw=="
 ---
