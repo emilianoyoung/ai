@@ -29,6 +29,6 @@ images:
     height: 545
     title: "Uber will begin data collection for self-driving vehicles on Friday in Washington"
 
-secured: "pnwG3w6CamoDX4BYrHQB8UiA6IH6TOhIx6l3HJwbj5PoNwZ4WR5KOYH3D/VcWw+Cg0eoFM//Fz6WyYdWlnnF887w2jgod/8H4fCP3Y4LsC2SMI/EPQKYgc1Hit4Hw83Ntv+NRWRozn2M23Hy4VhftRagla/AE3nGMrEnOLplToDU0/vdyZaZj4P/TcxVqHVsa2vgnF22uu04rFFNQj9Z7KV6QnXnOGIMyqJWjyreQQNVjSQ+abqiwNLFKyiOasJHXv3PgRSA/mBPRoPu5/GWS9M2sTN6xKA60oRH343v47/I9gkEhVhIpCI2emTUVs8k;KxQ3viXA174hspnzTWvvLA=="
+secured: "5WigMSbTtDCEcBc82+FpT+ZZrD+1LGJ+vc2s7Y+F25n/n/lUMKhbR9YhGsSWsEWxBzIk1LEATYD+7pn75l99ZnnQ47JcyKZM+wiZVt3YdG7MReTjiB7B3cl1as728uU9nGTcNH30Buok9/shISASklgiuPW5sQdVZkfFCiOG8hKnExKZFgyuznMIENQ1gFE3HI75kzEWILU+CSenC1QnO7cN6WC4vyGjIwYamkvLfmv6y0D0gs/qy6tzjGiG7fvVAvEoYFPwjcDoYfLYVDSAWGyQeBUQdegyjf8D8bZYLVwG5+v1oO9+ykRO3w2OG6NOmVP6w01RYtmNpOEsTWKRlgkIPSRKSNiZQ+CfIKVWliLE+Yy2iKnwdlKg2RcNBaw+DiSkzt5VnNmkeEXPBifbxfDbHunu8KfTxhDFX5CW4o9gKwLL6Bp7+TDsLkw5j/8bLbMnuvfp94inhGmRqnky8dAfjOZzebq6F2rspNUcLpc=;zlVLCoE3b2SHKTrEm8dxfQ=="
 ---
 
