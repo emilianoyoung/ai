@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ibm-announces-partnershi
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -38,6 +38,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Burrelles Announces Corporate Partnership With TVEyes to Augment and Elevate Media Intelligence Services"
+    excerpt: "The TVEyes platform couples artificial intelligence with industry leading video search technology to identify and quantify relevant coverage and brand presence across TV, radio and podcast sources. This allows access to credible, valuable insights into brand activity and industry news trends. Founded in 1888, Burrelles provides a wide range of ..."
+    publishedDateTime: 2020-01-24T01:20:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200123005815/en/Burrelles-Announces-Corporate-Partnership-TVEyes-Augment-Elevate
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
+    images:
+      - url: https://mms.businesswire.com/media/20200123005815/en/769327/23/logo123.jpg
+        width: 1200
+        height: 627
 
 secured: "FlcOwl6MClW23WXKyGnP7avV8aTNMzjhUu1v31O+fUZi1z7c8uf0gc1XtI4gjLokOTY6SIkF0Ex6eIPjXspcga9UFTtJkZHp8wcwa9/UnjVFeFVXZcGuI7GMLBDyVo1AUgIgIhyOTVAOjWXyrgaq9TM8wJ9OHlj7YuZ1PjSvbkBSGiaAZpOVqbKUvckSVwq/1tOsm2JQM8+4xZ2u1Ge5GHmSCy6ReNbRYEhWpSjRQlMoCcWfPIVZWSKKSUmcr8fbnMbP7ALurmmpX2gUxfW8j1uM/55PFtP7/lyZuuLMpDc=;gK6jLiLDSNxDk9cA1Q2AUQ=="
 ---

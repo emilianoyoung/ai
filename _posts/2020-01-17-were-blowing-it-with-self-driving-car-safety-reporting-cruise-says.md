@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/17/21070620/cruise-californ
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/17/21070620/cruise-california-disengagement-report-self-driving-car
 type: article
 quality: 174
-heat: 544
+heat: 564
 published: true
 
 provider:
@@ -418,6 +418,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
         width: 1440
         height: 960
+  - title: "Self-driving semis will soon be sitting in Houston traffic with the rest of us"
+    excerpt: "HOUSTON — If you commute on an interstate that cuts through the Houston area, do you think you would notice a self-driving big rig? Waymo, which is the self-driving division of Google, announced Thursday that it's starting to drive its Chrysler Pacifica minivans and long-haul trucks in Texas and parts of New Mexico. The autonomous vehicles ..."
+    publishedDateTime: 2020-01-24T01:01:00Z
+    sourceUrl: https://www.khou.com/article/news/local/self-driving-semis-will-soon-be-sitting-in-houston-traffic-with-the-rest-of-us/285-fbadf2b7-184a-4718-b999-05a62036c829
+    ampUrl: https://www.khou.com/amp/article/news/local/self-driving-semis-will-soon-be-sitting-in-houston-traffic-with-the-rest-of-us/285-fbadf2b7-184a-4718-b999-05a62036c829
+    cdnAmpUrl: https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/self-driving-semis-will-soon-be-sitting-in-houston-traffic-with-the-rest-of-us/285-fbadf2b7-184a-4718-b999-05a62036c829
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 40
+    images:
+      - url: https://media.khou.com/assets/KHOU/images/8b4d1fb4-635f-4bf7-ae2d-7044e834b8fb/8b4d1fb4-635f-4bf7-ae2d-7044e834b8fb_360x203.jpg
+        width: 360
+        height: 203
   - title: "Designing better nursing care with robots"
     excerpt: "Robots are becoming an increasingly important part of human care ... both in the categories of \"Information System\" and \"Artificial Intelligence\". JAS has been in the 1st quantile (Q1) in all three categories it belongs to. Why publish with us: Fast and high quality peer review; Simple and effective online submission system; Widest possible ..."
     publishedDateTime: 2020-01-15T23:10:00Z
@@ -533,6 +548,17 @@ related:
       - url: https://images.axios.com/RuadaS8GdpPrVkbGKAu71OjWW60=/0x391:1920x1471/1920x1080/2020/01/22/1579671552958.jpg
         width: 1920
         height: 1080
+  - title: "Uber taking 'first step towards' self-driving cars in DC"
+    excerpt: "Uber is working towards replacing its human drivers in Washington, D.C., and they are starting the process by collecting data from self-driving cars in the city. The testing will begin Friday and will include a driver who will maintain control of the self-driving vehicle but will map out roads in the car along with a co-rider. The company did ..."
+    publishedDateTime: 2020-01-23T18:31:00Z
+    sourceUrl: https://www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc
+    ampUrl: https://www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc?_amp=true
+    cdnAmpUrl: https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/uber-taking-first-step-towards-self-driving-cars-in-dc?_amp=true
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 24
   - title: "The Hype of Self-Driving Cars Versus the Reality"
     excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
     publishedDateTime: 2020-01-24T00:05:00Z

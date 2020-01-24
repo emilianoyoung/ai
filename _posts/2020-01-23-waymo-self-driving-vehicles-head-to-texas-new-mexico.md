@@ -45,6 +45,21 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/Waymo-Truck.jpg
         width: 1320
         height: 881
+  - title: "Waymo is bringing its self-driving minivans and trucks to Texas and New Mexico"
+    excerpt: "Waymo is hitting the open road and bringing some of its self-driving minivans and long-haul trucks to two new states. The Alphabet subsidiary said in a tweet on Thursday that it would deploy a portion of its fleet in Texas and New Mexico as it seeks to learn about new road conditions and environments. It also feeds into Waymo’s ultimate quest ..."
+    publishedDateTime: 2020-01-23T15:42:00Z
+    sourceUrl: https://www.theverge.com/2020/1/23/21078438/waymo-self-driving-minivans-trucks-texas-new-mexico
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/23/21078438/waymo-self-driving-minivans-trucks-texas-new-mexico
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/23/21078438/waymo-self-driving-minivans-trucks-texas-new-mexico
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 85
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/C-DSTBFZm2XI38ztN2zQglY2u28=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66153324/vpavic_191202_3827_0042.0.jpg
+        width: 1400
+        height: 933
   - title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
     excerpt: "The auto parts maker plans to focus on assisted driving. Two years after teaming up with Lyft to collaborate on self-driving technology, Magna said that partnership's coming to an end. The auto parts maker plans to focus on assisted driving products, instead of fully autonomous tech. Magna isn't fully severing ties with Lyft, in which it ..."
     publishedDateTime: 2020-01-17T03:02:00Z
@@ -143,6 +158,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "bTFitHYER7cnPXMH/4+bcWJfZ3uQIzquheUIlLyxZ3qLjI5Q9z+uwrsYiJdeEIYE40Fvhcr+/BUaK1dZNW2LITnTdBcFaEHxdamsjpbhlM/npsXvSZMpxf9lA1indb6Y5q3GJ137SLzDHikOQcn+NNFUDDX1ZGTkNodnKZh3NttXNFAcoHdcGcH6Bivp/vH/ucNP+CvrocvdIAgxDD9HChF5G19R/WLh4wYc6dplqxH0VzRUPdSx/7orn9OmNkI1j/qJhHv68XnABIa7qIHKrFyoiQrO95YV1z/Y/x2DgnL9W00xkTC8MojxG3CxV8mWmpHfDeqrrVE6usweIafyVr0txOgJGN+f5UV+CQdVJHJ8aLbV4VZ5Ewmwx1NEnmw9TgON3VzjoTLxXModO5hMDUWAEn95YXVSe/jWpDj4BOnJk7bavEIC7edCM9+oaigaJI5CT0p7CjYYur7zCbCg60eb6faHAYbop7g2REj7Efg=;PL77AIydRNLzEu6cnJnTEQ=="
+secured: "sTTP8QpAAT0Kfy98QxZGiByOlU051r5AmaLqts5mvGLpc76Xn6bpbleia7xF1LYfqEXQvTqLglB4U1XeaTgR1rTjflxqdA3w8n/kPFRJkZQ1EHHCQYXlmy+RWPrZxC/uWFh6dGFxrXC36eSSnZ+ebAv6onEtOy/oE8xXui1YY3TZYgmAnTQiHNMqacuCwYt0MCMoWshpeM3ro+Ub7dys8T2GioqSbI60EJWwhOGoIEsS/5FAFnkh6PrdHKPfV1+72eU4uKb0zl6TOTpA2jdN5XRVpGJhqgi515RTZzjfIlEjXMiYfs6mDTpw/t0VM149aMbvVs5nFDsop4y7j3W5VOKum12BEZOzCo9BNtzYtJ32B+nd3/nLjB6Dc/EemjmCo7+T6irQp9JLQD5aOVzjsdVpF4ACxk7EpvYwftrU1pztzGgmVe95kkprRTiZA/tkUGQXM4zxJ+qZbClKHrG9KNedpHWfe5JA42q6/UbZLvE=;O12QGt1p+f41Ucib8ogbRA=="
 ---
 

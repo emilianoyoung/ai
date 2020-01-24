@@ -33,6 +33,19 @@ related:
       - url: https://tr1.cbsistatic.com/hub/i/r/2020/01/13/3c7764b3-0c4d-4013-852c-47a48205a2b6/thumbnail/1200x675/dd4e6645aefafbe56471a7db5ec4cde2/20200113-ibm-jamie-teena.jpg
         width: 1200
         height: 675
+  - title: "Burrelles Announces Corporate Partnership With TVEyes to Augment and Elevate Media Intelligence Services"
+    excerpt: "The TVEyes platform couples artificial intelligence with industry leading video search technology to identify and quantify relevant coverage and brand presence across TV, radio and podcast sources. This allows access to credible, valuable insights into brand activity and industry news trends. Founded in 1888, Burrelles provides a wide range of ..."
+    publishedDateTime: 2020-01-24T01:20:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200123005815/en/Burrelles-Announces-Corporate-Partnership-TVEyes-Augment-Elevate
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
+    images:
+      - url: https://mms.businesswire.com/media/20200123005815/en/769327/23/logo123.jpg
+        width: 1200
+        height: 627
 
 secured: "9KNT4ZIRg/g+sA/pZ+cWjX1EMpDzxSuyIJabQLEPsbfb81EI63GBsLpvywOrpf1isnTgAURdFZtu3xv2BX85dtM/juTSlSU+/nqYR+K7FKEkAbDU2Fqx75e+x2C5RABKF9kakauk1CUtx/r6g12AK9Gi1HSoqdTcnyRig9wBvBhgtgZEuIk8PHlxvd3AG3P4uAziG2YB8N+BVcRj+/ypH60dNze/rtkz83bAJdTNN1Gsrjp/hvKjfOJrn7k2SaO+J9ztplnLhYxQ/8nFVox1vQUrQXh342N85zieAh2ISl1Vub3mpTwTsAR7iz1ESw+f;RvAVP9/1mozKlil+v7luDw=="
 ---

@@ -60,6 +60,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/VI9-cNAjtYJbIEyrIJJ5Q-7Q--0=/2020/01/23/b8af5a80-d4eb-4a64-8711-62295d5c8fc9/ogi-waymo.jpg
         width: 1200
         height: 630
+  - title: "Waymo is bringing its self-driving minivans and trucks to Texas and New Mexico"
+    excerpt: "Waymo is hitting the open road and bringing some of its self-driving minivans and long-haul trucks to two new states. The Alphabet subsidiary said in a tweet on Thursday that it would deploy a portion of its fleet in Texas and New Mexico as it seeks to learn about new road conditions and environments. It also feeds into Waymo’s ultimate quest ..."
+    publishedDateTime: 2020-01-23T15:42:00Z
+    sourceUrl: https://www.theverge.com/2020/1/23/21078438/waymo-self-driving-minivans-trucks-texas-new-mexico
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/23/21078438/waymo-self-driving-minivans-trucks-texas-new-mexico
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/23/21078438/waymo-self-driving-minivans-trucks-texas-new-mexico
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 85
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/C-DSTBFZm2XI38ztN2zQglY2u28=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66153324/vpavic_191202_3827_0042.0.jpg
+        width: 1400
+        height: 933
   - title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
     excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
     publishedDateTime: 2020-01-23T19:24:00Z

@@ -25,6 +25,6 @@ images:
     height: 300
     title: "Geoff Ables, C5 Insight Managing Partner, Presenting at Microsoft 365 Friday Utah Event"
 
-secured: "WO1CDRETe2xmXoFUIgCngbZtD4az8suRUj8dmdfdag+X98HPL6lJhoJcuNJan8SjeOCNYvRKogZJXWZpNK7h5Fkm6anC5aFkv/cD0oeq5/zo963g+2JEtb8/ONqHvtnDjh+hSZCIFkv/aSBl0a4LNUF83ysQP1bdnz/EyyviWMUguZ3LukSfDko58kxmAB8cg7ZrexpWClirb6iv9+AuHCbMDHtl0VvY98qXARkYJYYsj/USZaJixZF0AnelC6JDXSUB4XSEzMREgW6KBOSmYvN/7j8GHd1vCEQAMkm2gbrLYTUuNFfNJc/UAljhol1l;4wFuOURtmr8QVrfYZc/fyg=="
+secured: "oGpG6zC72mbKwQdsL0U0ce7Np+8x+mOdvZ+Gvgjp1/D3kdTYk8wWR2p93+a8fH88fgOaJvcSr4u++5WDPY3I+m1iDfXSHW7PrMM6A2/AIa+iTihlJYEjnqIHwtX3en8fd6Qdff4MzInkrinZnop+N/ge2jUvmjKfXxZPAxGWSfMnibgNGyxl5pdDS7faY0y3mENICwAqFFGEANQpdmYRekWprPp5ZeqK/xkZab712B1LF2OCLzphMd8HWwooBd8NT/YEH/GTKlpQY+dJc1wIlJuBi2Ks6w9+csDSp9eHtYjotn9eachxn4q+VqWT3VlQzIdHWfLK9i5ZX6GgAE4kw151IVzvjzES7iUMODLeOC8rUC42UyLe9dooJvZI/E3wSmqdsLPP28IIABsOrBmtoS5dCb24RcQf04/2fASPRilZ5zvs1+kOctIeIa2PS1phkDiJDy+Yq0yqEXGXwO2qZXv2LpeEWHjj9m9je6cAliA=;4yTURNcSQWEo+2+cHO2+og=="
 ---
 
