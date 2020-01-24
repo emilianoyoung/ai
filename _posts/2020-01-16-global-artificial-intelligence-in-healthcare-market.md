@@ -148,6 +148,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Vision Screeners Market is expected to witness healthy growth at an estimated 6% CAGR during 2019-2029"
+    excerpt: "VALLEY COTTAGE, N.Y. - Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
+    publishedDateTime: 2020-01-24T11:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-is-expected-to-witness-healthy-growth-at-an-estimated-6-cagr-during-2019-2029-2020-01-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Aviation Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
     excerpt: "New York, January 21, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
     publishedDateTime: 2020-01-21T06:20:00Z

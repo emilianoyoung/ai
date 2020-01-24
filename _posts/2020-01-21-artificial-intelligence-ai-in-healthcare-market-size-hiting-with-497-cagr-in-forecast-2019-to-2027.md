@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T06:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21
 type: article
 quality: 83
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -141,6 +141,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Vision Screeners Market is expected to witness healthy growth at an estimated 6% CAGR during 2019-2029"
+    excerpt: "VALLEY COTTAGE, N.Y. - Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
+    publishedDateTime: 2020-01-24T11:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-is-expected-to-witness-healthy-growth-at-an-estimated-6-cagr-during-2019-2029-2020-01-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

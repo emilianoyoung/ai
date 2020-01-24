@@ -57,6 +57,19 @@ related:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
+  - title: "Smart Robot Market: 2018 Industry Analysis, Size, Trends, Growth and Forecast 2025 | ABB, iRobot Corporation, Grey orange"
+    excerpt: "A smart robot uses an artificial intelligence (AI) system that can learn from its environment and its experience. Smart robots can collaborate while working together as well as learning from the behavior of humans. Flexibility &amp; scalability in operation along with the high performance fuels the growth of the smart robot market. With the ..."
+    publishedDateTime: 2020-01-24T12:31:00Z
+    sourceUrl: https://www.cmo.com.au/mediareleases/37910/smart-robot-market-2018-industry-analysis-size/
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 14
+    images:
+      - url: https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg
+        width: 600
+        height: 246
 
 secured: "OiHQ1jWhYHxgf6g2P5JOzlhk5dbqG/7Ctd9zV6hiXCqduNRSpYh0xuesUonn1wJAx064REo+hwXfDl1XVQ/d9C5/eozi25vbLH28NzSp9ZZY4KhzP1rFyUDAzQ15SGJc+8Psd99c8p0ad7yOaqcxCWiJMkqKY7xjYGAlS8zDATRRFLYRw/ocFykWuEQYnbBfwta/lw7Dct7Z40J5j8c6ygIG8nLnwMmsAJdDOHLpAN//bUF9AVlQS3P6GH19r8A0OtWQss6H7FEKN2gK7Q5oxBl+aHjO8wNWWl/MaO+eJko=;y0e0aPXyRN8WeVEEVYsEww=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-24T09:58:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-facial-recognition-biometrics-market-2020-nec-corporation-ingersoll-rand-rcg-holdings-ltd-2020-01-24
 type: article
 quality: 55
-heat: 65
+heat: 75
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Global Facial Recognition Biometrics Market 2020 NEC Corporation, Ingersoll Rand, RCG Holdings Ltd."
 
 related:
+  - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
+    excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
+    publishedDateTime: 2020-01-24T12:54:00Z
+    sourceUrl: https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    ampUrl: https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 54
+    images:
+      - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
+        width: 1600
+        height: 900
   - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
     excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
     publishedDateTime: 2020-01-21T09:14:00Z

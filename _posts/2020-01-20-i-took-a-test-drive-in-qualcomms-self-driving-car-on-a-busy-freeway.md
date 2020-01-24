@@ -56,6 +56,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg
         width: 1200
         height: 800
+  - title: "You may soon see Uber’s self-driving cars on a D.C. road near you"
+    excerpt: "Uber has been testing self-driving cars in other markets, but they haven’t yet made it to D.C. Now, the ride-hailing company is looking to launch the vehicles here."
+    publishedDateTime: 2020-01-24T12:43:00Z
+    sourceUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.html
+    ampUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
+        width: 600
+        height: 400
   - title: "The Hype of Self-Driving Cars Gives Way to Reality"
     excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
     publishedDateTime: 2020-01-23T21:32:00Z

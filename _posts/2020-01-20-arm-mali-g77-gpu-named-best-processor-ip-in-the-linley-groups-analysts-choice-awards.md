@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Arm Mali-G77 GPU Named Best Processor IP in The Linley Group’s Analysts’ Choice Awards"
-excerpt: "SAN JOSE, Calif.--(BUSINESS WIRE)--Today, Arm has announced that the Arm Mali-G77 GPU has been named the winner of the Best Processor IP category in The Linley Group’s Analysts’ Choice Awards 2019. The annual awards recognize the top semiconductor offerings of the year in seven distinct categories: AI accelerators, embedded processors ..."
-publishedDateTime: 2020-01-20T13:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200120005037/en/
+title: "Arm Mali-G77 GPU Named Best Processor IP in The Linley Group's Analysts' Choice Awards"
+excerpt: "mobile device users will benefit from the significant gains it delivers to AI applications.\" The Mali-G77 was launched as part of Arm's latest suite of premium mobile IP in May 2019 and is Arm's first premium GPU based on the new Valhall architecture ..."
+publishedDateTime: 2020-01-20T14:11:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-arm-mali-g77-gpu-named-best-processor-ip-/2020/01/20/9083773.htm
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI Hardware
 
-secured: "941RVQ9WZUsYvgiMeH6cbff6+4sDLAQ3oxJQlOrd5grp5qecotZvOGfjERmXqIwr8jeIZxrrxEhPZyYD+/JFAYRvUfnmPwEtGg5HmUDHA41IucxeovKrvjJ05LX/9mqZJPVLNsGJLf6bq10I+ylOctGfUityYaXCOMpEkHMZD0o4gsyatAl+hlhNSL6sz8p8AwQ/lcGsM8ySZMuvzUOUvRNAJs/OviSDrXk+OV2F2k6/n+vCKb5CriI6xRe/HRA8HnaqX3Sklz9Ad+ctzoz+T30R5E7Wqh5M+UPmNlxaTh+9/oNw11Ex5IvAmlHp03BP;Lo/hKD7LXCervztNrBr9rg=="
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "Arm Mali-G77 GPU Named Best Processor IP in The Linley Group's Analysts' Choice Awards"
+
+secured: "yQbXYqtdpDnhTT0oEWoK5jfHuijeJW1Kr2y+uDEsEm6/ZlAcamJFJEae74pXLZLVOJQbmfLpXgCYxgsgdAIm8/JXMwNefZAwJvwuOYe58zJACFsScbmUhIF3ReIHJXFLhSVNtdM90QFcbhHjy3V/y+t4rFjSq0KJyPUneLaeJJAfUpZq3on8wXeFrLBZ1Rm9GY29bJ5QlKFEczOcQ4YlgJF8boVbMYY4pI2bsjrCc6EGqb8WVAfwVPeR0zdYxQYwcdpiSve9QvEWbVBj1SwL3UxAlnhBvKlGNfupjq3Qz8kIsNnaKU8IwpABFOEi/NBB;NcOq3MB1Mfi/XhbU+HPsjw=="
 ---
 

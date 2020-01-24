@@ -33,6 +33,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Metropolitan Police to make '81% inaccurate' live facial recognition operational"
+    excerpt: "The Metropolitan Police is to begin using its controversial live facial recognition (LFR) technology on a standard basis, despite concerns about the impact of the surveillance software and its legality. In a statement on Friday the force's assistant commissioner, Nick Ephgrave, said the Met was making the technology \"operational\" following 10 ..."
+    publishedDateTime: 2020-01-24T12:54:00Z
+    sourceUrl: https://news.sky.com/story/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    ampUrl: https://news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/metropolitan-police-to-make-81-inaccurate-live-facial-recognition-operational-11916479
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 54
+    images:
+      - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
+        width: 1600
+        height: 900
 
 secured: "Hhp8eA/VTZgbHq7I6pOwSZ6SqjWYOfUU9uLBtogyy8WQJLHZGPoMkgL8cMRXW26v0pAZ2RyuoI5e/p84oBcxgJkFi7jXUIuEUMaMBB2+xEzCfUEtdWB1w/+ufcisa5ZoRSthrwDiU0Idfh9jMe8Q+XNYcPpaGr+qZGeaYCtppHdwX6LvwsoklptpfjIXWaDFBSr/1rc5dzbSNoP9aEzh6HoWvQXsJ6FRaKNgKSQ4hpOMGe2/zssKlG70qM8HWyvllg5mSbQ0MPQ+roxI0lvSXsThb0evVuq9EGzq4wUSmjI=;Ut1lQn9zlYaBEA1uTFuBHA=="
 ---

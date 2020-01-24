@@ -20,8 +20,8 @@ topics:
 related:
   - title: "Phebi launches voice survey technology"
     excerpt: "UK – Voice technology company Phebi has launched Phebi Insight, a voice recognition software designed for survey research. The technology is used to give participants the option to respond to surveys using voice, and can also analyse sentiment and detect emotion in spoken responses. Using voice technology and artificial intelligence ..."
-    publishedDateTime: 2020-01-24T10:48:00Z
-    sourceUrl: https://www.research-live.com/article/news/phebi-launches-voice-survey-technology/id/5064262
+    publishedDateTime: 2020-01-24T12:07:00Z
+    sourceUrl: https://www.research-live.com/article/news/phebi_launches_voice_survey_technology/id/5064262
     ampUrl: https://www.research-live.com/amp-page.html?id=5064262&name=phebi-launches-voice-survey-technology
     cdnAmpUrl: https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5064262&name=phebi-launches-voice-survey-technology
     type: article

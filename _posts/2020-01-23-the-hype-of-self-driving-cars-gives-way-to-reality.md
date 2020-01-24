@@ -65,6 +65,21 @@ related:
       - url: https://tribktla.files.wordpress.com/2020/01/image-2020-01-20-055529.jpg?quality=85&strip=all&w=1200
         width: 1200
         height: 900
+  - title: "You may soon see Uber’s self-driving cars on a D.C. road near you"
+    excerpt: "Uber has been testing self-driving cars in other markets, but they haven’t yet made it to D.C. Now, the ride-hailing company is looking to launch the vehicles here."
+    publishedDateTime: 2020-01-24T12:43:00Z
+    sourceUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.html
+    ampUrl: https://www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/01/24/you-may-soon-see-uber-s-self-driving-cars-on-a-d-c.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
+        width: 600
+        height: 400
 
 secured: "p1si2D7+kwuHQACxJ1AALF726H9M6kqFs0NQ+FQYxuEMF77kAysj18jfewCHHrYCCo75takVbcfUdCK3FkApcvD7yhsjDavnqXRqeLjhHkoW893aIUoMzxwU5qsg6fzLHqCkjvYvnsX1pHuXW6nzdMXpT2ERj233EFOVz16BmgxTsjEd9aNZDEuZUczPnvBv5VYtzuDVtZC7P0FPAqjdT+125kI8GAqMO5EvfKjIJAmpksNzsLygqZFew0oy3/1rOu8Q/ssPXcx31lxHA9jhN4NKpZxujWQ35VhUkQauiOZrTeItyYNENbu2pneFoiPRU/qBgnkOvlbeKbxSZZdF3gi6VHitAoyPiV+O8wfFTP8pTdHwE+3S3HmViBNJUTS8YxpB06gA3PliBpDdmDZFrs1W03fwV+J8z3umQahvq4Vwr/gsawiNvGcp1e8A/QfOWXsx+S8/yLgSAP4XKqvGh7932QLtAL7IhOVnJdeg3LA=;V5/IeyvRHFnSAhoOwp1Ohw=="
 ---

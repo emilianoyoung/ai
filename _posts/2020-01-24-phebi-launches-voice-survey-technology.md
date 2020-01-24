@@ -2,8 +2,8 @@
 category: news
 title: "Phebi launches voice survey technology"
 excerpt: "UK – Voice technology company Phebi has launched Phebi Insight, a voice recognition software designed for survey research. The technology is used to give participants the option to respond to surveys using voice, and can also analyse sentiment and detect emotion in spoken responses. Using voice technology and artificial intelligence ..."
-publishedDateTime: 2020-01-24T10:48:00Z
-sourceUrl: https://www.research-live.com/article/news/phebi-launches-voice-survey-technology/id/5064262
+publishedDateTime: 2020-01-24T12:07:00Z
+sourceUrl: https://www.research-live.com/article/news/phebi_launches_voice_survey_technology/id/5064262
 ampUrl: https://www.research-live.com/amp-page.html?id=5064262&name=phebi-launches-voice-survey-technology
 cdnAmpUrl: https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5064262&name=phebi-launches-voice-survey-technology
 type: article
@@ -58,6 +58,6 @@ related:
       domain: newkerala.com
     quality: 19
 
-secured: "XJLvESlL73t4rLhkTut7k+JgV/UKszn4ziwWvdrF1i2rIsFRe2tpLsCSFWORBp7KE5EcHRyim+aE/Zt1VBrwposi6hqQGRHkZbRPRuK8Kc3VZ2ZF7KZuOLGxA05/Mrxqw8D/vplLgS9x809zaJnKGExT0MExeh9PCOtfR1T2g8tQ0vPJUL7XxTRmuDJ0zUJeN5+q/SL2jWcSN+jOZI1ZjFOHVdimZCFAGq1al+PFHqJaymtycvrbqNzKZtiLZt94gcXCSe3h7O2o0xnXsUTv524yqO/d8Gl/4xDibZh2klpbU+LeJAQpmWwRs/tDAllu;9RKt9YbYMhZUXBgAh8aUaA=="
+secured: "P7fj9tUMpKu1eUAqbCNM9bVVrfs4PIY7xdmiX1oSNOmlo3SQHzi8C4Q+zwPZlnd+mE5G5tNgEi9zcnsWwG3wM8OaBmZutDGVcNIGRe7HltKcvuytS6ry6pBCadX6m4wfIdGDypsEeqaCuFQTkBNZffx2b/IbK79WloSuPMC9C3UcqwvgGUG4/0E7igHAbnbDSNwxHPJqbjxxfVbn7aVnXgQmCaWpUMMO4YgnCMZOkvrJHW2ZgeyKaJ3R9YwXqtOxgmsS9f4jHd6ffUv0BtxO6O2+XsHWN56F/j5W1JaWh5Eomxri7g/mkmd3n1yqiH6T;qV7+vpDlMsnTMjsb4TH0CQ=="
 ---
 

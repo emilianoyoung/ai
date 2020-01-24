@@ -193,6 +193,36 @@ related:
       - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1
         width: 340
         height: 340
+  - title: "London police to deploy facial recognition cameras across the city"
+    excerpt: "Live facial recognition cameras will be deployed across London, with the city’s Metropolitan Police announcing today that the technology has moved past the trial stage and is ready to be permanently integrated into everyday policing. The cameras will be ..."
+    publishedDateTime: 2020-01-24T12:57:00Z
+    sourceUrl: https://www.theverge.com/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/7pxwMUlds7-o0Q6HyWeu1-EN94c=/0x0:6720x4480/1400x933/filters:focal(2823x1703:3897x2777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66159634/1161938926.jpg.0.jpg
+        width: 1400
+        height: 933
+  - title: "Police to roll out live facial recognition cameras in London"
+    excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
+    publishedDateTime: 2020-01-24T12:55:00Z
+    sourceUrl: https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7
+        width: 882
+        height: 545
   - title: "Shanghai is testing facial recognition at pharmacies to catch drug abusers"
     excerpt: "Every few days, China finds a new way to introduce facial recognition in people’s daily lives. According to a report from the South China Morning Post, Shanghai is testing face recognition terminals at pharmacies to catch folks attempting to buy controlled substances in substantial quantities, likely for resale. The report noted buyers of ..."
     publishedDateTime: 2020-01-17T07:58:00Z
@@ -819,6 +849,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "7WglisDs0d354H10o8sBHwLE5pKsIB4h40RmJG5K3sYMN2CFmU6NgtrJZMLS6YaYpSQIL6S45aM5LLi9ueiI5Atxu2y+efR6H2U1UNa97rHQoErjCoDO203idXPix+euDt3rdKPHHtrz65je9RXWp8yKmG/Xy/GIZ5/tZUKI0D4TJ8U0gN00fFU3JomZ+PWEfAi/SdEszq1MISM9Gd1qWCGqBD4C5Yg3i9P+CsoOg2G1cp6c92FQ+2283i7UhseH8zxRQckxDndEiQ8846YK7/YsS0aD+7/E8Cogoga6ge5x2+/Dft/2G6cZVdBq5ZG+;PCgTNt+EzjZSqdK+6+Y4qw=="
+secured: "MdcHl6mbe4mnYOH7bZoPg+5uwWFtu3qQ3fTt7PxbdICbCN1jNlZpxAZZGMVdepcEQOuQ38qwuvv6TjAYNsGz85/y0A81mcT83nkiWKRwtP/v+8gBntEHrPDYN/jhDCLwJNElKtC8Pw4qHdOQJj6I0U9D5GR5lB4v+XW1j3N1pwrW1JZq0V9ftzErSHl33DxsZZpvtAKfXxTyFxxR05DNC3V7o6bw2gawi+SUATZ30I42oVV4FqJAkCxZ1Z6iUXrb3x0DAfkeV/1ygI/00c5BGDzzSCAzNbCLeo8rGB+tMVDkdrXtbIZi16Tl0INjDXLhKz6wVEvf2MVg164UdDHm7ofe5Kv6rC7wAixaIzqoGgOEjbhOaqqYuJTTVBHUQR4y+odyRtRyR5+bGFsbFMgNRQ3vgEg8InAXV7p04gD3ZBbeIfUF6w8J8NP9TIr8uqomgzWQWUJMWU7co1ekvXZ5+7NxPLIZPGKKCYXFFwk4ePo=;EBPL7zLhwwu0tkdZpRfTIA=="
 ---
 
