@@ -7,8 +7,8 @@ sourceUrl: https://www.cnbc.com/2020/01/23/microsoft-ceo-at-davos-china-cares-as
 ampUrl: https://www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/23/microsoft-ceo-at-davos-china-cares-as-deeply-about-ai-ethics-as-us.html
 type: article
-quality: 75
-heat: 75
+quality: 77
+heat: 77
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Computer Vision
 
 images:
   - url: https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171

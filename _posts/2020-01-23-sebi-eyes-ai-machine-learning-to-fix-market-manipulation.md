@@ -8,7 +8,7 @@ ampUrl: https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-m
 cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -56,6 +56,21 @@ related:
       - url: https://static-news.moneycontrol.com/static-mcnews/2018/09/2018-09-24T142126Z_1_LYNXNPEE8N15X_RTROPTP_2_USA-TRADE-MEXICO-SIEMENS-378x213.jpg
         width: 378
         height: 213
+  - title: "SEBI will use artificial intelligence, big data to monitor market manipulations, says Ajay Tyagi"
+    excerpt: "Securities and Exchange Board of India (SEBI) Chairman Ajay Tyagi on January 23 said the regulator will adopt artificial intelligence (AI), machine learning (ML), big data analytics and natural language processing tools to monitor and analyse spot market manipulation, PTI reported. \"Catching malpractices in the market using the standard tools ..."
+    publishedDateTime: 2020-01-24T03:30:00Z
+    sourceUrl: https://www.moneycontrol.com/news/business/sebi-will-use-artificial-intelligence-big-data-to-monitor-market-manipulations-says-ajay-tyagi-4853021.html
+    ampUrl: https://www.moneycontrol.com/news/business/sebi-will-use-artificial-intelligence-big-data-to-monitor-market-manipulations-says-ajay-tyagi-4853021.html/amp
+    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/sebi-will-use-artificial-intelligence-big-data-to-monitor-market-manipulations-says-ajay-tyagi-4853021.html/amp
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: https://static-news.moneycontrol.com/static-mcnews/2019/04/Adani_logo-378x213.jpg
+        width: 378
+        height: 213
   - title: "Sebi to tap artificial intelligence, big data analytics to curb market manipulations, says Chairman Ajay Tyagi"
     excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning, big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a “data lake” project to augment analytical capabilities, he said while speaking at the National Institute of Securities Markets at ..."
     publishedDateTime: 2020-01-23T09:55:00Z
@@ -77,6 +92,6 @@ related:
       domain: openpr.com
     quality: 12
 
-secured: "slthUX+OZPDfKEvJhd2XXpYPjq98Lp54tigqi81DLFQY9KCH5e6Lu0NFscUlUTGBsioHWZn1PoMSwmhsFvKQC8GYBjJOeKGNK0+beGvbw9YQOT4nVnNHrbQVKH7Z+H7NkG8kgOGwupeusJAkAAts2e4826JeqcEY5XBj42h/II1ORLb3Tw2k5I629l/IokfDbwvm20xu2+bMmTR4OMddG8SaYyX8k0yVFpKsWkHJuKBoTRs6GNg8HnLNy1kHKR+bLZza/inMVsbJdTwSaF82RJXbFtlaTwX2Tv1LAkuImPKVivENXV3BiQj3rn27inc/;tx8/u8kDXckZJBc2PMxCdQ=="
+secured: "7K/0HhDKnfUbrk9MhHLuhIp2Rg+HiDDIwMq9DJBt+ksYydB28OX4qXZcFWd3Q7QLonerQ2p86KYTdmciVO6U6yjfJwhMtQh4oSmOpTEbD7VFX3221vLA1+hvdb+pbDhKGF+e5PWXR0uQ2IkTCj08qHIDvf5z6XJEzxJCh3lFK8vqwSRiyWq2UgSgkUTzx00KpkUIqwhi2cFfx7nI2Yy3PKq0240r3XzbnbxEv5SGK2p1E6qkyVyZCRJLZPKo4qMyYetDk324Rz5BHBN8HRTcoXXcRTqZQX1KBLuEzCdu5la/ZlMemwM5o0m4QNZW2Alx;vfe1lqFog3J+FZZJhDC4SQ=="
 ---
 
