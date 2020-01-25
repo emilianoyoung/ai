@@ -34,15 +34,15 @@ related:
         width: 612
         height: 355
   - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-    excerpt: "Ambarella and AWS collaborated to simplify the process by integrating the Ambarella toolchain with the Amazon SageMaker Neo cloud service. Now, developers can simply bring their trained models to ..."
-    publishedDateTime: 2020-01-02T10:01:00Z
-    sourceUrl: https://montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4
-    ampUrl: https://montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
-    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
+    excerpt: "Ambarella and AWS collaborated to simplify the process by integrating the Ambarella toolchain with the Amazon SageMaker Neo cloud service. Now, developers can simply bring their trained models to Amazon SageMaker Neo and automatically optimize the model ..."
+    publishedDateTime: 2020-01-02T10:07:00Z
+    sourceUrl: https://canoe.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4
+    ampUrl: https://canoe.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
+    cdnAmpUrl: https://canoe-com.cdn.ampproject.org/c/s/canoe.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
     type: article
     provider:
-      name: Montreal Gazette
-      domain: montrealgazette.com
+      name: Canoe.com
+      domain: canoe.com
     quality: 57
     images:
       - url: https://financialpostcom.files.wordpress.com/2020/01/bw20200102005052_ambarella_and_aws_ces_2020.jpeg

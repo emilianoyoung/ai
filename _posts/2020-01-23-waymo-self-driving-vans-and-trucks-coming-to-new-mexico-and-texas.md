@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-n
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -181,6 +181,15 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "Self-driving semi trucks may be coming to a highway near you"
+    excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
+    publishedDateTime: 2020-01-25T01:38:00Z
+    sourceUrl: https://www.kxan.com/traffic/self-driving-semi-trucks-may-be-coming-to-a-highway-near-you/
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 4
 
 secured: "Z7q7/uOOm141+HdV78wjePhU2iLFESUzT4VPyeo8DMScut8zre7QihSSjTbtFun4d8cFRFQl3ebH2mOVk5rs3mUR7zKoU6+ECLRF7tOuHr/2VJigTO2MrkPmF0Ale3wv9pc6bPO6zdswPKbUxuCAx6T/ni7iWixdRx+KAIqjdQK5cOSgy5DWJZrmqhbfemc7fgWvLBsyY8gc+1+/I4bOCz2e6wazXnid68NguYJnNGlrQjwBmnDzC/qRaiRj49PO0cASDxhTGvOx8JyUiCdZDqkn7og9W27fvn4y8hnqragc0C59i9JK3Cq+wtES39DVXLqi0WuCiB59sDv4fhJKd2ITsDJLzyhlvxQmZQJ5s+DVRsrurv4eGh7kG8mJITMYTypxNa7FYU9UWw705Zo4SGh19deiHdsraCUEfU7UDU8Hx6bl8TPNN6YPzgv7MwFAArqgow58LRZlEgKSK7sJjWT3T82/hXYGh649Ld+Pf0w=;Xz33n/h+tC2DkRjVWecejQ=="
 ---

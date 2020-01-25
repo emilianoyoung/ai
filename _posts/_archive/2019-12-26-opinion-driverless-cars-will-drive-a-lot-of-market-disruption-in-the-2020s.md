@@ -4,11 +4,9 @@ title: "Opinion | Driverless cars will drive a lot of market disruption in the 2
 excerpt: "Driverless or autonomous cars have been heralded and feared for many years now. They perhaps represent the convergence of every technology that we know today. They run on artificial intelligence ..."
 publishedDateTime: 2019-12-26T16:21:00Z
 sourceUrl: https://www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s-11577375858037.html
-ampUrl: https://www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s/amp-11577375858037.html
-cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s/amp-11577375858037.html
 type: article
-quality: 56
-heat: 56
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://images.livemint.com/img/2019/12/26/600x338/car_1577377218027.jpg
-    width: 600
-    height: 337
-    title: "Opinion | Driverless cars will drive a lot of market disruption in the 2020s"
-
-secured: "Np2OAhgSo04ir5uuW95h48UQvKUSlx0q94c21abH3u6s1PgBQi11WwgImTcxHNONeCaqsCWvymxcBUz1kZ9YLsfU2M5YNJp1YpX96suY/zX/VSeoWMMMm308gQBRR5u77TJXfk2VQlHhLb2yKQfSX7w+CGcCWVJ/L1gQJ328cjIoeuKpe77mzLxPWnWmE3qVWxJaig7iUSUhfYoD+ARERSEuevtOru27rj0wrcGxKaeKeucWoL3G+8H41f42YqETOkPKI5YyU80pPBBFQkIIrU14B5VZCldDUCuNGgNtIM/6UZBQtsdBJQPLJ4vm7xrb;/valxqF4h3jYsvEL6YQySg=="
+secured: "h68gkbe4CpWAu1ReNqYNY5U5ruDbqxuE+ix8mT8z5XkRNcU129XfWexew3XZYYbJCZBNJ/5SfGFlpou8uyw1s2xgBcs1BcEUKe029jrg2AMs/fFZliXfT7mBZaAF7Vv09yCP2bcY70s+JV+lmZNSFL3uB4PtwzpHoa2QlsxPexQKWH0bHc18hYAJhybdSEpTnpdHQMWXid0ZJxTrxJFHuGgGfOkTN648olWf+rlBeX5zJfyGwE4nq1mrySNspQQAGoKq+4vIShO3a2ExZg4+SJ0LtCqvAn+ZWpLcP+BRlzhOg9D7QcVRkubCwq8gdvsH;x8cbRTpWY1t2TRnv7slJsQ=="
 ---
 

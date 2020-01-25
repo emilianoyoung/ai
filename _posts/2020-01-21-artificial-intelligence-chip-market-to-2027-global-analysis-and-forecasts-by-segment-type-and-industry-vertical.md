@@ -51,6 +51,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Life Sciences Market Trends, Research, Anlysis & Forecast 2025 | IBM Corporation, NuMedii Inc., Atomwise Inc"
+    excerpt: "Global Artificial Intelligence in Life Sciences Market Insights, Forecast to 2025 The report discusses many vital industry facets that influence \"Global Artificial Intelligence in Life Sciences Market\" industry acutely which includes extensive study of competitive edge,"
+    publishedDateTime: 2020-01-25T05:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-trends-research-anlysis-forecast-2025-ibm-corporation-numedii-inc-atomwise-inc-2020-01-25
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Smart Robot Market: 2018 Industry Analysis, Size, Trends, Growth and Forecast 2025 | ABB, iRobot Corporation, Grey orange"
     excerpt: "A smart robot uses an artificial intelligence (AI) system that can learn from its environment and its experience. Smart robots can collaborate while working together as well as learning from the behavior of humans. Flexibility &amp; scalability in operation along with the high performance fuels the growth of the smart robot market. With the ..."
     publishedDateTime: 2020-01-24T12:31:00Z

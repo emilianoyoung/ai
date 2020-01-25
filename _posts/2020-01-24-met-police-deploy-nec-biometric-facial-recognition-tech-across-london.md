@@ -277,6 +277,15 @@ related:
       - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
         width: 1600
         height: 900
+  - title: "Met Police to deploy facial recognition cameras"
+    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
+    publishedDateTime: 2020-01-24T11:41:00Z
+    sourceUrl: https://www.bbc.com/news/uk-51237665
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 49
   - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
     excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
     publishedDateTime: 2020-01-24T12:51:00Z
@@ -316,19 +325,6 @@ related:
       - url: https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg
         width: 992
         height: 558
-  - title: "Met Police to deploy facial recognition cameras"
-    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
-    publishedDateTime: 2020-01-24T11:38:00Z
-    sourceUrl: https://www.bbc.co.uk/news/uk-51237665
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
-        width: 1024
-        height: 576
   - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
     excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
     publishedDateTime: 2020-01-24T23:06:00Z

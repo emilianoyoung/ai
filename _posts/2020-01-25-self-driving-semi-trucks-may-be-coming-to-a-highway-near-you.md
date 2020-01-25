@@ -1,33 +1,21 @@
 ---
 category: news
-title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
-excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
-publishedDateTime: 2020-01-23T19:24:00Z
-sourceUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/
-ampUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
-cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+title: "Self-driving semi trucks may be coming to a highway near you"
+excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
+publishedDateTime: 2020-01-25T01:38:00Z
+sourceUrl: https://www.kxan.com/traffic/self-driving-semi-trucks-may-be-coming-to-a-highway-near-you/
 type: article
-quality: 70
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: /assets/images/organizations/digitaltrends.com-50x50.jpg
-      width: 50
-      height: 50
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg
-    width: 1200
-    height: 628
-    title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
 
 related:
   - title: "Waymo self-driving vans and trucks coming to New Mexico and Texas"
@@ -105,6 +93,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
         width: 600
         height: 350
+  - title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
+    excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
+    publishedDateTime: 2020-01-23T19:24:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/
+    ampUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "Today's Pickup: Waymo To Run Self-Driving Trucks In Texas, New Mexico"
     excerpt: "Good day, Waymo, the self-driving vehicle unit of Google parent Alphabet Inc (NASDAQ: GOOGL), announced this morning that it is beginning testing of self-driving trucks on"
     publishedDateTime: 2020-01-23T16:42:00Z
@@ -181,16 +184,7 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
-  - title: "Self-driving semi trucks may be coming to a highway near you"
-    excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
-    publishedDateTime: 2020-01-25T01:38:00Z
-    sourceUrl: https://www.kxan.com/traffic/self-driving-semi-trucks-may-be-coming-to-a-highway-near-you/
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 4
 
-secured: "rSFxQudjfI2JQWP8bqXqu6iEVKWm+vDKpEmfsxnwj/Z/xu6fWC222ANHuxwRKH5FkYwpkBX3MHP+b/HvWlRifJuxFknL48idnI0u1wWr3fZBodaDO6g1nvAc2Uef0JmKjnfJ8NG/ilWLJ/LIGhnWRcDWRWTuMvKfuJd7uSL2NP9qDCO/ZICJ7tkky/JQ6MAPC/G7oEKg9o+1b4ESifyfInbPaFKkCIiV6KW8suNzHiJC8ITmoOzy4N3os8JJF8dnVfxQRnsGjEW8Gkfr76SAsYnhTZsi+BAGBso79+etK8vPR8DTz8rerm8JpdtzaaMShW6leUbHSMtJLYUVT8/bnODzDLTfEDuVEs3rFSDEVrsdsN8qcoauQDTewVsBePzmriPWkV8ZCaV5LexpxTrxxvGLFeTyl7feU/nysGZ2oGnfPPwjrkDXEC+MstQTo7gVF6RxWWmu/dXkXFH3b9C2pTOY5asI+FUVq41UhNS/rbM=;h0/eTEfYyWQxtxzN1aRG2g=="
+secured: "s9STGBqwecducnCFKAF07l/KxVOspkIqW5xXbk5Tyz+xd2T5ocBjLbpXwtelCZGaKcCLkHnv8zgPpftLDHa6F4UWblCGPltXfcBwBzBagenAY+jNrWItHhOHsCxsL1523+G6rm0E3J7TKk8L+woZR2P6oH5HbxxBvvTatiXeT4wHiwTGcgOe8MnHGKFoy+nRCtrgP6oUkwS2nLkuhjSb7v/ltTeAXM9Msvadtm2Y7R5PlXeNmi7mh+iWd+POEHGQq7ezmOw0vHZfIJavrx/hk9hwMW4wyLWX8fu/IASc56aS5oenGGIqqpY7Zz0oHx5zSQzf6/1Bn/6KJ3aTVVdgHQFGYX1W3dqwfYWHBRVcKXXDhMBKH8DCOGqd0QyfgpFjx1PktH128JHv4g6gJAIgvy6Z1s43ELomBSUK3v5dDMJY13/RIVsBrS6/LFHlfiBmHw+5+g8pTI5kA4FKLc2EoMsHA6q2mNDtMnwAnLQ9cvM=;tlvu35ssXJQi9V7nOL1gMg=="
 ---
 
