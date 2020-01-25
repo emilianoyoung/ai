@@ -35,6 +35,17 @@ related:
       - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095642.Medi.jpeg
         width: 800
         height: 448
+  - title: "New Udacity Nanodegree programme offers hands-on ML training"
+    excerpt: "New Delhi, Jan 25 (IANS) US-based learning platform Udacity has launched a new Nanodegree programme titled ‘Intro to Machine Learning with TensorFlow’ that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for ..."
+    publishedDateTime: 2020-01-25T08:29:00Z
+    sourceUrl: https://newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/
+    ampUrl: https://newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/amp/
+    cdnAmpUrl: https://newsd-in.cdn.ampproject.org/c/s/newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/amp/
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 39
   - title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
     excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning."
     publishedDateTime: 2020-01-25T04:45:00Z

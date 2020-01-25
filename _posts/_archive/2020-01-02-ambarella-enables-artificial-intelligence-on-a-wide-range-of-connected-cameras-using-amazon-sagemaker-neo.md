@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-excerpt: "Ambarella and AWS collaborated to simplify the process by integrating the Ambarella toolchain with the Amazon SageMaker Neo cloud service. Now, developers can simply bring their trained models to ..."
-publishedDateTime: 2020-01-02T10:01:00Z
-sourceUrl: https://montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4
-ampUrl: https://montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
-cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
+excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo ..."
+publishedDateTime: 2020-01-02T10:04:00Z
+sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
 type: article
-quality: 57
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Montreal Gazette
-  domain: montrealgazette.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://financialpostcom.files.wordpress.com/2020/01/bw20200102005052_ambarella_and_aws_ces_2020.jpeg
-    width: 1000
-    height: 750
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
 related:
@@ -51,6 +53,6 @@ related:
       domain: thefastmode.com
     quality: 10
 
-secured: "uqrqG025D4dtoga+Kx5gAa82pIqkzIljjUk7p77Gxdy32cmnCrJ9r3RncZL86r17lPB7CAjpVW8YQ6r8mkcDFrv6I1guZg9ZAVxg+rbs7vwBPte/AljqqzH0yECIATMaVg5le8tKmA6K+YqnCBuFoJSXvvN4BUXHp+RZmj6YlIqRB0ANfNh1j9BfFLM/WYhxlO0xJCWjF0T5cqT578krxD61zCJSIiB14q++cjQ0DQxhbBDbgtI4TV6NGSHF7Va1v24Wzr3UWlz0Up6nGn369/nbLgBVSSxc91GKR0uhNQaE497gm0TXsIFxjKl+kXCr;dtYA2Ud5Y/4c4V2mCiTsIQ=="
+secured: "RnJw7yGYZq5S2zfuy2FFP0PNx2hmQYnojOGg+q/ucsDWgQMkvAXriACOnJWFer0nZnNh09DH3UUTjguTmvQXUD1RkSgKBxjSzBchVfqxmwXVf39P7F14uyOHb37dusKHaBMiBUKnvchZIuQXO5smz/jQ3WTrJGbJkA/Uj+fuVWL2gn3pbx173Py2ALsbaBKDfsdHA+sden0AezdoHe8XG4YAOZcl4VKhi66T3IFAGDRHgl7IsxIJeYPVagfF7SfTK+/XroZZAGNREwysJ2XoRufAddzOnfsXxxo8Rn6sFukKUjIG7sE5l8MQWMr7lKKC;78sI+zUuDi/rzse45xL7lw=="
 ---
 

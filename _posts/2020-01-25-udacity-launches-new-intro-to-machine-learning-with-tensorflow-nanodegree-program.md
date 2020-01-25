@@ -8,7 +8,7 @@ ampUrl: https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udac
 cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
 
 related:
+  - title: "New Udacity Nanodegree programme offers hands-on ML training"
+    excerpt: "New Delhi, Jan 25 (IANS) US-based learning platform Udacity has launched a new Nanodegree programme titled ‘Intro to Machine Learning with TensorFlow’ that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for ..."
+    publishedDateTime: 2020-01-25T08:29:00Z
+    sourceUrl: https://newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/
+    ampUrl: https://newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/amp/
+    cdnAmpUrl: https://newsd-in.cdn.ampproject.org/c/s/newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/amp/
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 39
   - title: "Udacity launches new course called Intro to Machine Learning with TensorFlow"
     excerpt: "The Udacity course, Intro to Machine Learning with TensorFlow, includes areas like manipulating data, supervised and unsupervised learning, and deep learning Udacity announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the ..."
     publishedDateTime: 2020-01-24T11:47:00Z
@@ -51,6 +62,6 @@ related:
         width: 768
         height: 403
 
-secured: "uvQkSKlhAtz/LLl49YKBcBNQjeddYA9+qzgK3Hd5GLXDRxCboFVrNsz0sM6kE7x8otizRsRJyZ88wq+VPsmFFckPqQc8DStmIPYiPjAzKI3glZ76HoywNzx2jF3h1LqloLsK9o2/NxBD42DF9z6VZD8jy5Nte5tkaN5s5nYLjPTy1tr0JDoe7F50fJvjtuZOodPTO8uPvCbUnIB0yqQqMbk1x5W1+7Il93cy6H15LXWI3QGYZScK5UE1jonP7c3FO2F6K4NWWv7Z6HFmRNGzISRsrMFN98k5FPsBi9JFC183+NA5D25fSPZ3BR0FXd3Q;vDuim0kkv59oaBsvDsqblg=="
+secured: "r+J5FZdxiPnvS67cegbdkUAWDezgilnk88+k5EbSkCAn4fm0M9Ic4YlOB+AhXA97JU9qWBGuZ6u3sxTU51iojnU9l199kyVluShWXXQyapCRt2XdW2qr3G+GQQrvdfRrTHEYzu3Jjy4NG1iWcGfQjcsIvei8L8Oniph8p/mudxdddO71eKcLl+Xeh2kmXg3eQLjXZHbahGUBJCUVLPn7pZNy2FcoWyaFwlgSuMPVhhwhANMLEo11tP+fn8OXEQxf8jR+Nb6Ahc2Qu5pTKkJXbGlS9/rb4Eg19RVX+12ra97XUJsHhAeO1Itets6lVDbQlhRCUllbKM+rZUyJlSjRAzl7mbILeBx7b34uoWcg4UFfZy3kw86aO4lThhtenFzuFXv4+SQ+uqqCG3rsJHmQndrJB6vCCsgjGgO+llAU4iS1u6IYirFHoxPOKmz8WONtcP4OtmbOczsqNyFTrCJ2QzT/kX2JfBpz2J9FaKCw1hA=;4306gf6nTCcNr1YEMq+rhw=="
 ---
 
