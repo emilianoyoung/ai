@@ -8,7 +8,7 @@ ampUrl: https://m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-netwo
 cdnAmpUrl: https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 436
     title: "GANPaint Studio uses neural network to 'paint' new elements into images"
 
-secured: "+r4M0+m5aAr/blaticcyvuB2ekBV1DLv6xMy4rcv1GA1GIR6ydcSZhULQnW6JowrDqr34LA3DvNIciQEKmJNzV3axAM8C/fR1jO2pmq74q3gVAJpSgTNeZ0DUK5eNbSFk3QLKtf8gajKM8rZFPDNVAZ48Y+zRzk9rI5Kp1SLsqSbe1pSzihFtNMb68J5Zkzy2gxX9tQrLanXQsOx5l3k0SYySCoIPvWpJYcTX2Ywjdn8VIVO9G48STt9cKwclq4Qq9CY3m7PSj7ErLorE99PFRhS40mEnkV/Og/a2YUMzOM/htNcul0dTn8gtHFJXXxMOEABNWdUpFTSwPbGlbc4oer1uHJJZRbZlrlCtxSmTU4OIMFcDQTLJxQNPyQFdhY0++PPcb3KVTc+ntAhaPGhCfW2Ebvg6neqD0p7mupIjJe1iogxZ5Y1wUbEuAjcn+9h1ElDtGEgeuleN7XbHbwymVoFsQE0zYXYN4KN0x2T2PY=;SujOfZphceX+COYryDw+Lg=="
+secured: "XWsqRjLwlqI8ve3xxMqLO0gkIc/ppPsbkdsZ6CNCD14tZ1w0am1BbCCOZWrz+9vlwyetH/krhk1EsqKSVJ1PJAV5M+ENPr8oiqY0UBVQ3Bfl9ry8WKxcpN7nZaiomTFrSsXiSi4IKxKdIz0zPj77Dt23HDhRNzrgZDI++DMoTm/yXQpR9feJl+Wq445ELQmn7kK6a80xG6GHfDA/O6/ApcgNJmhP0bLhtIscO/ZcaOixrY5pOniYI07Ujw6AL1uf0Y9om7xO/So8nZQRgEtIOn4r75/TN+toG6ZNveA6h7wueWX2OT8mQjByu6LkSuhyGjfq0IqfPEwWafD3p18V70Ih/7xQk/oByl53Ac/ySNRurUNu2LreZf1g6/EBfSw6ZWnig9dswSMtcaF9pZRNSy22bc8NlqxHsRyE58rBvFtmFugkF/2m2ZD7bqg0cYnjtF8pMqAIY/oXF+pRwZQPW2d/9N6UPpsalCHQ1jiilsE=;02sgudAMz9K8jxOuj6TSxA=="
 ---
 

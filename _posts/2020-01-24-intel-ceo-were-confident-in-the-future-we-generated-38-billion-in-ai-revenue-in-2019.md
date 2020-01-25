@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/23/intel-ceo-were-confident-in-the-futur
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/intel-ceo-were-confident-in-the-future-generated-3-8-billion-in-ai-revenue-in-2019/amp/
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Intel CEO: We’re confident in the future, we generated $3.8 billion in AI revenue in 2019"
 
-secured: "8uVBmuRF408ZZZPXD+/6thk6pZdjsVxXH8sXRQUcxNvRamTIEYDt9t7mSk2HDV+2xUDKp4zHZ1lS4CxZOW3MmjaZH98zGytvokKhfRUpq55iDf808EhWaI4IaGchkmMFRyeIEeYhxXDbNhQ/VY0UhAsHqUz+VM331qTyJ01/tvLngfKgMglOl1RDjrJzmBPK3AmMCU5phvCtKQexOkLPohVPuBLUEI2w7tPBkOE5Ye3Y9jp0XawhF7tY0u7fYLRwqyb8CPlM2xlso3ssAYPrJQF7XKc+aq8VXu80ZRTxaP6erQr2alopJeniJ6VaUxcg;UNOiCCxcdP8cQeAozFikOw=="
+secured: "yQNJGHvYZmrGYYL7qeq3yWbX7sUAB6qCXewnpV9nQCLiOeaDwG1yrs5x35Y7UGvZlqjFj84muXmGJUA53KihhYecIewALLCx5SdVC086uPwCYuvxoZL9W5F+FfCunt+7lZqoQgmg4k1cbFt8lDeYeuh5AueMrKVNI748F3CFMaXz6uziaxZmZHzPVTpNyRMDFHUE338X4mfUz/7Xn4OyKs4tQKYgKZWbG698qGurR3vUB65gFusUAwAwyr/PB+OHUejm6v3Fsg4fId9pXgGqaqLZdBtzlDK6REVaUq4Zc4N2VAOxPqCjGaA556S2CQ+K;q9i1Rj27nrHYhjn3p/4mKw=="
 ---
 

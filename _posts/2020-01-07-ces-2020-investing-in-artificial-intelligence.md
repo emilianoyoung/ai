@@ -19,21 +19,17 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Is Venture Capital Investment In AI Excessive?"
-    excerpt: "Not only are startups raising increasingly eye-opening amounts of money, but venture capital funds themselves are raising skyrocketing levels of new capital if they focus their portfolios on AI and related areas."
-    publishedDateTime: 2020-01-05T17:49:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
+  - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
+    excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook ..."
+    publishedDateTime: 2020-01-09T01:49:00Z
+    sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
+    ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+    cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F541851156%2F0x0.jpg
-        width: 1200
-        height: 1125
+      name: Variety
+      domain: variety.com
+    quality: 34
 
 secured: "N/2ojyLuOAXsXeykbO9zy1J7+IEz3yIaquTZkuZNolyiQ+GBx816BRkPvdn3GJy+N+7qtrELEg/ZtJVL6NcGLe5ookSdV5Agr+sxSCV57GHEko9m+NZ0Q1EsRh1ZU5iz9n/1v9EBEAc31eR7QsrGQpJM3bvOt2jQhesJ5+8TpyAKITmPZbCSU54xl44u3ePio3VqQOC0XXRHeJV33JVkHUekT7nWIK2prmN2U9URI5ZjgAgzeiBb28lRHclzfnY1xWbLInbxCHb80ULNOkk7D78HUWo7fdxjlrZQezRN7kaMQ87YmjvyG4xZ+cTxKejN01rs0zxY4tDbzFjCYJ/XKxrlbJKrpwdWr3r1lZH1JUB4vanIw8ZjeAbC/RAq/KwaDoz+KsBmB193W2X2QJ7Ysyy7iTrlFcZ8Mn9r1SR1BmLT51v+d+t7bL41aIOrXKW55w3mrr4wemekVWrTQkmHmg==;bXwdGyBbhhQGPgMckRhv3g=="
 ---

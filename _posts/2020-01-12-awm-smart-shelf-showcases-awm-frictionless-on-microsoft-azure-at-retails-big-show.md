@@ -1,22 +1,28 @@
 ---
 category: news
-title: "AWM Smart Shelf Showcases AWM Frictionless on Microsoft Azure at Retails Big Show"
-excerpt: "From a technology standpoint, the PaaS and IaaS pieces of Microsoft Azure are heavily utilized to provide a reliable and scalable platform, and on top of this sits a full suite of custom AI and application software. This software supports AWM Frictionless™ as well as powers other integrated and standalone AWM offerings that provide an end-to ..."
-publishedDateTime: 2020-01-12T16:34:00Z
-sourceUrl: https://www.financialbuzz.com/awm-smart-shelf-showcases-awm-frictionless-on-microsoft-azure-at-retails-big-show/
+title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail's Big Show"
+excerpt: "To take ease-of-use to the next level, using Azure Cognitive Services, shoppers will be able to be identified with ... The underlying technologies are built utilizing artificial intelligence, computer vision, machine learning, and application engineering to reinvent the retail space as it is known today. The ecosystem of solutions improves ..."
+publishedDateTime: 2020-01-12T16:42:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-awm-smart-shelfreg-showcases-awm-frictionlesstrade-microsoft-azure-/2020/01/12/9079891.htm
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 62
+heat: 62
+published: true
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "3Debae8V/SyL6iB76McxDkHaqtTd0uFN+gjT5K8QNu/5T3wAMjpW3p3j//OdDkW4rqVsIexK55kTIWH7xq2fgHEDaU5PUn4ICyTOEnMZU5pL0W2ZRilJjIJPzBsqwO6L9jp5lIdGHaIk6MQEj/EZqLjsrV0DLHz+bWpnDUenIkfCPN0083omhpus1q6XwTV5QTaHotChTpsv/NpyxZooc1SX6dKIeS1a5UG4qzj3nyV4RjjImEvKzbGrUqxeqDiGmKqC4S4+ATTUpVQZe0HVF0lXl7u3I5DCW936rT6Biny4VLOyKNjU/MNHmrvkf6pw7Y/7w4VdCJTePAQscHnMqr/dcAUwvz00ZsTgUD/4FDc87a/kUP+KSn0G7MzOnP26FJYU4IBLGjMx3tWP1UMuTZRLbRqal1FKnae9Wo7gtjtW/6bRiS6W5JCpiIx7ghTYZcNmCVkYYEsPjcpm3YbT+v5m6lIO6og3X5TgHhSBj8g=;BpJcIZW+QYegkh5xu1hVEg=="
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail's Big Show"
+
+secured: "FhsXEU3QcQwbLbMZihuB/eMs3uf7qOo+ZJPsyhmTSPdVEQgmdWNWIlpg2val9JvPVrXeqmHGkD0rOtqVdXWyZc0cN67rTmFNLVYuZfxzshv9gSLouLAsldKVHSv3eNNOfKh87/A+chi2LnFkPNevXnOTGad8YHg4svhuDDDvh2qNdYRsNsorGYbNrPb+GxOJITAKRKaNf5PuFcEJmvXINgg4Le25u63hQsHwBc/bsP86D31LSVzgH1UYnA5cnjezj31xZCw/4lAQ97BD2Pja5l8Jg+u1a3dItXUMYdKyvsnKUvt8iRjNMi9hWfrIJxx3;REYniVLKYyeeXIk7r0wEgg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
+excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 102
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
   - Natural Language Processing
 
 images:
@@ -44,6 +45,6 @@ related:
         width: 630
         height: 500
 
-secured: "FJsHl3UjrqNMmwueoCy5VvPxKxWBNklsVZ40ioVbnSiuGrDOUOVHXxBS0qa90qGg91fyy1+4n91sR/ltUcSWe/bfAoEat/+rhllRvvUyUYMU6J10nnOlAYEIJAtfO6vWx/WTrRzM47sNoPpBxEoFDKy+AXgF4SG1wbGlikGNKK0EN9U+5w6vPuP6XHvLDROYERX0Yaxdq3dFvWSV1YoztD9JQjGed+Vw6Z1eMJRFlVqM4lw4c0jINcyezQITPnCip3TODJbGIRvN5lTNTGq380ZrbqUOclbWJHr21B7c4RCVpdKDgQ+A2w3lm+PP2RxS;b34qhzS59F2pSSvEuRFrDw=="
+secured: "o/WGQdKomBACgx3En+9uBpCW6yxJIctxFnv//1Of/YZ4KSOkZuopJOvBWy3FAZLYiPfMXVnO59pyjS7OWveTBTtZa8lXM2E54NKm2TvaoguTKgWN7VBAp4b0R4wSdvxZABDffNwMncd4RDjZCIDkViqiMz3EqeMpr+rmjA/9CMzQJr8h99Z7dVjUfg9Y9s6EfZARAjPzZPeVQSQdejhcp6Cw6+UYv36CJF81rsCradkh/uSCh5FxQ+/DFi/E7QvPz9HwacnyBu+C3jQcqf45OFGBkBhYgZcCuTumDiLb8AzBirnope1NOhezItZqZy4I;Nf+yhkyekM7upeX/7ERAqw=="
 ---
 
