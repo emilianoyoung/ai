@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Facial recognition scanners are coming to PHL next week"
-excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
-publishedDateTime: 2020-01-17T23:16:00Z
-sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
-ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
-cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+title: "Controversial facial recognition firm Clearview AI facing legal claims after damning NYT report"
+excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
+publishedDateTime: 2020-01-24T17:09:00Z
+sourceUrl: https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+ampUrl: https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
 type: article
-quality: 159
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: Philadelphia Inquirer
-  domain: inquirer.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
-    width: 1200
-    height: 908
-    title: "Facial recognition scanners are coming to PHL next week"
+  - url: https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg
+    width: 1400
+    height: 933
+    title: "Controversial facial recognition firm Clearview AI facing legal claims after damning NYT report"
 
 related:
   - title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
@@ -71,6 +75,21 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/yOeSDRl6VhpTPutJboexnMFrrT4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132463/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
+  - title: "Facial recognition scanners are coming to PHL next week"
+    excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
+    publishedDateTime: 2020-01-17T23:16:00Z
+    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
+    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 159
+    images:
+      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
+        width: 1200
+        height: 908
   - title: "Clearview AI faces lawsuit following facial recognition privacy concerns"
     excerpt: "A lawsuit is taking aim at Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people. The app is under fire after a New York Times investigation into the software company earlier this week. The app identifies people by comparing photos to a database scraped from social media and ..."
     publishedDateTime: 2020-01-25T00:40:00Z
@@ -112,21 +131,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 96
-    images:
-      - url: https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg
-        width: 1400
-        height: 933
-  - title: "Controversial facial recognition firm Clearview AI facing legal claims after damning NYT report"
-    excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
-    publishedDateTime: 2020-01-24T17:09:00Z
-    sourceUrl: https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 92
     images:
       - url: https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg
         width: 1400
@@ -879,6 +883,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "7aAcyHL7KEBmBdB8MDQsgL4EWkT9wX82Lelv9/ga/fu3fPEecJklk/cAiRRxckrRuvCxJeMGmPVormgs67r23vTTM8QKXVVfj2yN/nxNDGCPBc9YaWfGJsrZkNydbQeUJf2JzrTZ/pzYDQ6SE1vnuttRR5jSIZCuGmJoC1fgyM0IeAUR875Uea7OM2V3MMv7wezGYZ1ky27DT2lhqfwo6w4UyAEec5neSRwTSv1BOiy1WUkiypzmLCNVPiXVsHqhzYMqn1019BbrCBK6lkmBnkHBAQVYAfduD/Hx66J7Zwm+9ao9ytAW6uf7VnuioybALRhnV7e+0fTUUtCoInWNCbVHHLm28X8Sr7nQytJeMEdDOYRIGNh4ep0zN1DywMJzah/0vkIK3flNA4SlOcB76VBWRO5Whcn9rsVhNuq+DgL9W+QZzMDPvfvHapOCpvf//h6KEXEOjMOHmTLSMLI35ABBORrxvJbKYCBhr9u99VE=;RU23WR28HwJODHhFYDLgXQ=="
+secured: "dBVs7rrSdvoJAHz3s8WXRT7WEK+ASnPxWVn/VrmkRyqDkQmXItdmtpaAUgqEFSz5S7A2Ybe8pnkcrgVxX4astaXyt1om7LbRoRMwLgVZ/NUGWfQLpaRyqb+VUAIu7ZyChQYTmyfYqRb8jQT0ptpWSbtpAzJyNLz6d8ChKIfnJV2acaxmEDu4P3YyCoQ69uMqG402WpxXTpKGjA/TAZJV9ICRN9XsT7bmv/u2SdnLM525GmUbE3+Ek8lwEvDRpmeYj3Wms5RQbMVtYpX5f7oYie/xyOuDvWW8FQA9uE6scdi48481GaF5nBIBOCmPRn7D;z9M1o3lfsusmuhTE/Lx8rg=="
 ---
 

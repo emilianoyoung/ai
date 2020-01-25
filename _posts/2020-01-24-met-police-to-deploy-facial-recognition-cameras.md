@@ -1,21 +1,17 @@
 ---
 category: news
-title: "Met police to deploy facial recognition cameras"
-excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
-publishedDateTime: 2020-01-24T11:41:00Z
-sourceUrl: https://www.bbc.com/news/uk-51237665
+title: "Met Police to deploy facial recognition cameras"
+excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
+publishedDateTime: 2020-01-24T11:38:00Z
+sourceUrl: https://www.bbc.co.uk/news/uk-51237665
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -25,7 +21,7 @@ images:
   - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
     width: 1024
     height: 576
-    title: "Met police to deploy facial recognition cameras"
+    title: "Met Police to deploy facial recognition cameras"
 
 related:
   - title: "London Police to Deploy Facial Recognition Cameras Despite Privacy Concerns and Evidence of High Failure Rate"
@@ -319,6 +315,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "MdcHl6mbe4mnYOH7bZoPg+5uwWFtu3qQ3fTt7PxbdICbCN1jNlZpxAZZGMVdepcEQOuQ38qwuvv6TjAYNsGz85/y0A81mcT83nkiWKRwtP/v+8gBntEHrPDYN/jhDCLwJNElKtC8Pw4qHdOQJj6I0U9D5GR5lB4v+XW1j3N1pwrW1JZq0V9ftzErSHl33DxsZZpvtAKfXxTyFxxR05DNC3V7o6bw2gawi+SUATZ30I42oVV4FqJAkCxZ1Z6iUXrb3x0DAfkeV/1ygI/00c5BGDzzSCAzNbCLeo8rGB+tMVDkdrXtbIZi16Tl0INjDXLhKz6wVEvf2MVg164UdDHm7ofe5Kv6rC7wAixaIzqoGgOEjbhOaqqYuJTTVBHUQR4y+odyRtRyR5+bGFsbFMgNRQ3vgEg8InAXV7p04gD3ZBbeIfUF6w8J8NP9TIr8uqomgzWQWUJMWU7co1ekvXZ5+7NxPLIZPGKKCYXFFwk4ePo=;EBPL7zLhwwu0tkdZpRfTIA=="
+secured: "U1YqnXc7V2r7gFfZ/Cc89U4j81zmzto6rcdGnHoOVAlK4B2KH2ABaV5QqmX+/aS6SmW3Y4gYFEG30ZC8miWHtpsHtRpiNv3mFiyPeox9bvKdoYWEq9TMpc/4mc1qvSAjDoR+d1AM+m/32nFC/J3FtXMkPF9NBnHQFSrypNPtA9+ifQEq+wf+Cd4bSJNikZ088Y9f5L8z4kkG8cieHOMcvgZ8zKHvAOdPgHV5QKBE2I9S5UMCO8KJ2vMkWIZWqnU1VQbyIX53zOptDpAiW/ru6onDHdQq5rYucAtRHmDxxWPXYk1nOCcPoZS2lE9hQEJt;PlsyLon2Hsfgn2XpqqTI8A=="
 ---
 

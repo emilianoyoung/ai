@@ -29,6 +29,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
+  - title: "Neurala Partners with AviSight to Deliver AI-Powered Drone Inspections"
+    excerpt: "AI-powered visual inspections pioneer Neurala today announced ... By allowing clients to immediately start shifting reactive maintenance to preventive maintenance, AviSight's solution delivers significant cost savings and most importantly, exponentially ..."
+    publishedDateTime: 2020-01-23T13:37:00Z
+    sourceUrl: https://www.roboticstomorrow.com/news/2020/01/23/neurala-partners-with-avisight-to-deliver-ai-powered-drone-inspections/14706/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 19
 
 secured: "zJ0wPndCNBExs01LSaP4cO07+hsPAKnVep/mUjT4LbTxEMf/OfvAxZVU94t0BERNLgMZneeiZFl8roDC8Z2VoPMfEnyyUYufxbmD4BStUi8p+fonKY+dG68GRt0b6lFyktz1LpxuFBqyJz0E1FZW69eo1f29935I9Jo4CllBHctMx7p0kYFkXMoQQththLzMof6Bbu5xf4guLvfQwzDt4QnrUQLWrVDGTpPyT55HFzpwg6+UvVeoDU406bhT7W0WsrazHrdaxw9BlTwKsbExO8qLIwFLGkwYY9Wt9v3U3Fc=;dZf9mLQSIpg1BMCaFWluzg=="
 ---

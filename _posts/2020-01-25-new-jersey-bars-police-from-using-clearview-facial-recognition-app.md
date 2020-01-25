@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Facial recognition scanners are coming to PHL next week"
-excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
-publishedDateTime: 2020-01-17T23:16:00Z
-sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
-ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
-cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
+excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
+publishedDateTime: 2020-01-25T01:47:00Z
+sourceUrl: https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.html
+ampUrl: https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html
+cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html
 type: article
-quality: 159
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Philadelphia Inquirer
-  domain: inquirer.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
-    width: 1200
-    height: 908
-    title: "Facial recognition scanners are coming to PHL next week"
+  - url: https://static01.nyt.com/images/2020/01/24/business/24clearview01/24clearview01-facebookJumbo.jpg
+    width: 1050
+    height: 550
+    title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
 
 related:
   - title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
@@ -71,6 +75,21 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/yOeSDRl6VhpTPutJboexnMFrrT4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66132463/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
+  - title: "Facial recognition scanners are coming to PHL next week"
+    excerpt: "Facial recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only noncitizens are required to be scanned."
+    publishedDateTime: 2020-01-17T23:16:00Z
+    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
+    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 159
+    images:
+      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
+        width: 1200
+        height: 908
   - title: "Clearview AI faces lawsuit following facial recognition privacy concerns"
     excerpt: "A lawsuit is taking aim at Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people. The app is under fire after a New York Times investigation into the software company earlier this week. The app identifies people by comparing photos to a database scraped from social media and ..."
     publishedDateTime: 2020-01-25T00:40:00Z
@@ -191,21 +210,6 @@ related:
       - url: https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg
         width: 1050
         height: 549
-  - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
-    excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
-    publishedDateTime: 2020-01-25T01:47:00Z
-    sourceUrl: https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.html
-    ampUrl: https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: https://static01.nyt.com/images/2020/01/24/business/24clearview01/24clearview01-facebookJumbo.jpg
-        width: 1050
-        height: 550
   - title: "London police begin using live facial recognition tech across the capital"
     excerpt: "Meanwhile, Europe wants to ban the technology for up to five years. London's Metropolitan Police Service has begun using live facial recognition (LFR) technology. At key areas throughout the city, signposted cameras will scan the faces of passing people, alerting officers to potential matches with wanted criminals. According to the Met ..."
     publishedDateTime: 2020-01-24T12:05:00Z
@@ -879,6 +883,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "7aAcyHL7KEBmBdB8MDQsgL4EWkT9wX82Lelv9/ga/fu3fPEecJklk/cAiRRxckrRuvCxJeMGmPVormgs67r23vTTM8QKXVVfj2yN/nxNDGCPBc9YaWfGJsrZkNydbQeUJf2JzrTZ/pzYDQ6SE1vnuttRR5jSIZCuGmJoC1fgyM0IeAUR875Uea7OM2V3MMv7wezGYZ1ky27DT2lhqfwo6w4UyAEec5neSRwTSv1BOiy1WUkiypzmLCNVPiXVsHqhzYMqn1019BbrCBK6lkmBnkHBAQVYAfduD/Hx66J7Zwm+9ao9ytAW6uf7VnuioybALRhnV7e+0fTUUtCoInWNCbVHHLm28X8Sr7nQytJeMEdDOYRIGNh4ep0zN1DywMJzah/0vkIK3flNA4SlOcB76VBWRO5Whcn9rsVhNuq+DgL9W+QZzMDPvfvHapOCpvf//h6KEXEOjMOHmTLSMLI35ABBORrxvJbKYCBhr9u99VE=;RU23WR28HwJODHhFYDLgXQ=="
+secured: "y+3im7l7Sc2uscfcDaBi0up82IHE/QYzNACitPM+feiRArRVX/wCR1RF+apta20oA4DHxWXQgW2dtyJkEiFc9AWnJMcvVkomQDQNLP6ICx+2doqNeJ74jjVLzp9VmmuLIxfW07B5UPOd0k9mKKZUelbnabsnQfKeEdrEKeLWbhQ1qYgckjX9z05vjAtixdoaLUahi7kmh/vscgbaZKATARPgUUJkqTOaEDHWXq4yzwIdKpTXTuwuimu9/1BATZyid8nzcOS6CzZ6A8F/bfwW5KnokhAERSMN4mzpquIYioHworoRo7h4qQcQoOl/gvKQ;WOJN85ru8EIokez7IbCovA=="
 ---
 

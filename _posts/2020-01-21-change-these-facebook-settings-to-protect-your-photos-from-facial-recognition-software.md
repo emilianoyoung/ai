@@ -123,6 +123,21 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg
         width: 1400
         height: 933
+  - title: "Controversial facial recognition firm Clearview AI facing legal claims after damning NYT report"
+    excerpt: "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ..."
+    publishedDateTime: 2020-01-24T17:09:00Z
+    sourceUrl: https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 92
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg
+        width: 1400
+        height: 933
   - title: "EU considers banning facial recognition technology in public spaces"
     excerpt: "The European Union is debating a potential ban on the use of facial recognition technologies in public areas. Facial recognition-equipped systems, such as those found in mobile devices and cameras, are advocated by law enforcement as a way to track missing persons and as useful tools in criminal investigations. However, critics say this ..."
     publishedDateTime: 2020-01-17T11:56:00Z
@@ -183,6 +198,21 @@ related:
       - url: https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg
         width: 1050
         height: 549
+  - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
+    excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
+    publishedDateTime: 2020-01-25T01:47:00Z
+    sourceUrl: https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.html
+    ampUrl: https://www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/technology/clearview-ai-new-jersey.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: https://static01.nyt.com/images/2020/01/24/business/24clearview01/24clearview01-facebookJumbo.jpg
+        width: 1050
+        height: 550
   - title: "London police begin using live facial recognition tech across the capital"
     excerpt: "Meanwhile, Europe wants to ban the technology for up to five years. London's Metropolitan Police Service has begun using live facial recognition (LFR) technology. At key areas throughout the city, signposted cameras will scan the faces of passing people, alerting officers to potential matches with wanted criminals. According to the Met ..."
     publishedDateTime: 2020-01-24T12:05:00Z

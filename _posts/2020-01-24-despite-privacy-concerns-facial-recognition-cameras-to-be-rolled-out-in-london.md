@@ -189,19 +189,6 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/n13_super_nintendo_world_universal_studios_japan-1200x630-c-ar1.91.jpg
         width: 970
         height: 507
-  - title: "Met police to deploy facial recognition cameras"
-    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
-    publishedDateTime: 2020-01-24T11:41:00Z
-    sourceUrl: https://www.bbc.com/news/uk-51237665
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
-        width: 1024
-        height: 576
   - title: "Met police to deploy live facial recognition in London"
     excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
     publishedDateTime: 2020-01-24T13:47:00Z
@@ -301,6 +288,19 @@ related:
       - url: https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg
         width: 992
         height: 558
+  - title: "Met Police to deploy facial recognition cameras"
+    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
+    publishedDateTime: 2020-01-24T11:38:00Z
+    sourceUrl: https://www.bbc.co.uk/news/uk-51237665
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
+        width: 1024
+        height: 576
   - title: "Facial recognition to be rolled out across London by police, despite privacy concerns"
     excerpt: "Police are to start using controversial facial recognition across London, despite concerns over the technology's accuracy and privacy issues. The Metropolitan Police said every deployment would be “bespoke” and target lists of wanted offenders or vulnerable missing people. Assistant Commissioner Nick Ephgrave said live facial recognition ..."
     publishedDateTime: 2020-01-24T10:36:00Z
