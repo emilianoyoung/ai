@@ -37,6 +37,15 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/pharmacy/3.jpg
         width: 400
         height: 300
+  - title: "Machine Learning in Drug Development Requires Data Access, Standards"
+    excerpt: "January 22, 2020 - Machine learning algorithms have the potential to accelerate and refine the drug development process, but the industry should expand data access and create consistent data standards to ensure drug companies can fully leverage these tools, according to a report from the Government Accountability Office (GAO). Drug companies ..."
+    publishedDateTime: 2020-01-22T16:15:00Z
+    sourceUrl: https://healthitanalytics.com/news/machine-learning-in-drug-development-requires-data-access-standards
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "gB1xdAw9u4ERZZ0Yi2SMbYt01vy/hS3RMVX22W4H/FICN3483PSa88GzN7Asm4LTwB6kPGLY2GacWxnlSwvgDblJMWcyM0Xtrf5XuaXKFA8NKxwT3nemm5eulWoBCb3+35F/VkZTbqFRwTJuHKS9LHpvI1HDl7vn1PT1nc34JU+FYWEtGP+jJItEBNfT+PA+/2E64ybp7LWYqM8SCv4Rehq6TD//cHRyKLxXQMrcNfxM2+xUix0N49DWTfU8Ta+JK4OZb9NNNKDPuub680tN6Wu+L3xHJnIH/cLg3m+mT8+jcYU9txfS+6HyKHD2/zg7vCQbPdfGQEujuNMpb6ESAIX4WIuRr+MHLhR1AXDserp1A+uKLuu10mwBDESgs1gzgMpWIMJ+uy15tEyxIGz970/Z1myjC1bQr9zSmfko7euoUM6yJ/EvaZZUiDpB1ye+UTybIW80k0SvevwjO3cKtA==;eY951LVuEirU/amZ8+AedA=="
 ---

@@ -35,17 +35,6 @@ related:
       - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095642.Medi.jpeg
         width: 800
         height: 448
-  - title: "New Udacity Nanodegree programme offers hands-on ML training"
-    excerpt: "New Delhi, Jan 25 (IANS) US-based learning platform Udacity has launched a new Nanodegree programme titled ‘Intro to Machine Learning with TensorFlow’ that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for ..."
-    publishedDateTime: 2020-01-25T08:29:00Z
-    sourceUrl: https://newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/
-    ampUrl: https://newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/amp/
-    cdnAmpUrl: https://newsd-in.cdn.ampproject.org/c/s/newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/amp/
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 39
   - title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
     excerpt: "Learning platform Udacity has launched a new Nanodegree program : Intro to Machine Learning with TensorFlow. The Nanodegree program incorporates advanced areas such as manipulating data, supervised & unsupervised learning, along with deep learning."
     publishedDateTime: 2020-01-25T04:45:00Z
@@ -59,6 +48,15 @@ related:
       - url: https://i1.wp.com/techstory.in/wp-content/uploads/2020/01/Udacity.jpg?fit=768%2C403&#038;ssl=1
         width: 768
         height: 403
+  - title: "New Udacity Nanodegree programme offers hands-on ML training"
+    excerpt: "New Delhi, Jan 25 : US-based learning platform Udacity has launched a new Nanodegree programme titled 'Intro to Machine Learning with TensorFlow' that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ..."
+    publishedDateTime: 2020-01-25T10:54:00Z
+    sourceUrl: https://www.newkerala.com/news/2020/12566.htm
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 19
 
 secured: "SYKlAw5JbuoWtyQiV424McWElIZ+CgI85H2dMNYTNE/Gc65DufC1YgG4SL2+St1jspPF7pNoIgPZYp0v+wZbzSvzPN4fejMz87vshObw4FOcAEHCeXgfa+UG7C+I5WCMcByQeEy+aeNgiRnPFDLn3rmh0fmOgbv+dtAHurPU3jXYOYsGv6p5XYtPqs/i26huSjTYqgXUj06Fkk+9DNQdiWxE+3b1fhJRQgqnf/9tevjRUujtyWrhBfhy3E/XR6IBUHC+oue0LkGbZYEf4X16A7Mo8HV7LnX9p1jFALjdZ3V4nNlos5f+SpK2YOOaOCSNEo3GDvKGukhk9EPlYcsOlBTKDOyDXYE4+/r6y/aTNXn1zHkPnHcd9/TcwFC/Uzvk4AIazrBhc6aTZMVpqs/9JZB9dzNjn+hLNXfUmZWAntvVqOZrU0nBbfujEM0am7dtikEmUcu643wPXdruOKXdlrKSR0+zJI4scDbxMRo1DQM=;7UqIBuTVivAqlmqN60xWyQ=="
 ---

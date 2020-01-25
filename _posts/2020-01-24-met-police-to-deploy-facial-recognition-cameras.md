@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Met Police to deploy facial recognition cameras"
-excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
-publishedDateTime: 2020-01-24T11:41:00Z
-sourceUrl: https://www.bbc.com/news/uk-51237665
+excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
+publishedDateTime: 2020-01-24T11:38:00Z
+sourceUrl: https://www.bbc.co.uk/news/uk-51237665
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -362,6 +358,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "IQqPAmByJzDEbKarfXyFwreL7RnkarE38E6CNz77fYHP7J2izWMzF7mS1X9BmUYv+9GvEtTjZhTV2KqhT0jN1Ee7VkzUyehvM9cGOIllm1rS2RNoTifc6pRSGJmPJPwKIJpHPIHbgj3T4ut7cLUvJY05HqiivfwjeIspBhvNGOMnpG2X/xN8Lwm9FNyJqFtPc1Rhhdt/DD+UztzCosQYQ0MHX052XlSZox5yXGhgqhh40fzi/2xrJYoz4pBxmSjb+qm/YyW18DisMwfDqm402lhs6+ZeW8OfnpsbSJA0bJ6KG54T7LLeGbhlqQs6tSqQFd3xqkO8Q8gejwN84MhuMqN8cE4GN/xprrEzG1Jc/eodK/bW9YW6rtorKzt5A63DlUaym/3wyg2eR+aNiU3KNItQeVrQ6y8tZU2lRqXoItwc/6l8njrh8ist6j8Qoms4evnh8yurTZsk65kngGrnkwUPOKHcnEzW9KuJc1UkzbI=;l3csd3v2yFcmVHmxVUIl6Q=="
+secured: "AR1fctgRrBO6O7yNHqrIMwJabIMif6JomR9Dw91RPeOCmWYE4gqwGqzRLiixdt+M3o8a+fvgtscZp/GdexCc/cfnYCUF9WGRAACu08RR3ilsnxy8s2k5tT3JIhAVmt2aC00ebSDz3fKlUICS+EFVWOT+d6yvXWAIHMdL2qDhB7OnqhMGWAPLGfumVbmYFjaf8EPh2mfvQgT+AxmIA4hqCspb2YLBZOz/I08FyrZl3CCDzKQyjg647YGqePay6mJPH4Ehl3vuSdiSJ7RrR9kvYvtJTqRRBzXhT22rnhMrgjMVuRB96J06GCH9XXfFa63U;R6uoRzHUs/i35/6MLabTJw=="
 ---
 

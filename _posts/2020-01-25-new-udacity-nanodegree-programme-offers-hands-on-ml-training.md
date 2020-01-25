@@ -1,19 +1,17 @@
 ---
 category: news
 title: "New Udacity Nanodegree programme offers hands-on ML training"
-excerpt: "New Delhi, Jan 25 (IANS) US-based learning platform Udacity has launched a new Nanodegree programme titled ‘Intro to Machine Learning with TensorFlow’ that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for ..."
-publishedDateTime: 2020-01-25T08:29:00Z
-sourceUrl: https://newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/
-ampUrl: https://newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/amp/
-cdnAmpUrl: https://newsd-in.cdn.ampproject.org/c/s/newsd.in/new-udacity-nanodegree-programme-offers-hands-on-ml-training/amp/
+excerpt: "New Delhi, Jan 25 : US-based learning platform Udacity has launched a new Nanodegree programme titled 'Intro to Machine Learning with TensorFlow' that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ..."
+publishedDateTime: 2020-01-25T10:54:00Z
+sourceUrl: https://www.newkerala.com/news/2020/12566.htm
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Newsd
-  domain: newsd.in
+  name: New Kerala
+  domain: newkerala.com
 
 topics:
   - AI
@@ -60,6 +58,6 @@ related:
         width: 768
         height: 403
 
-secured: "7NzHc8ZMLnvTCmmIHuaJwBAtLM5r6bLrJthqoGIbvNoJ9Augd7BBtYBXlDIFpuTuaD/sEy1aq+KRjw6qr5HAH++kSodtXFPITK885w99Ju9Uj8Na6qC4xlhql+o2j2lQYby2DY19k9Y1qG6VEY1FJkK08VNG/xmffuXju62OdRIzBBX0pIMAlERQGLe+HL6Fe0c4PNvE2EtWVCuAuRbzP8Rm8UIoWtmcFKMotrlwVcZK/3Zeco6gj4bzHTsXQ9Y2jxMmMLzyu8RnbdhE5orh1W3hNalEMXjxTVMNcqyuW45Cyx3siNUKK9X6OGbXw8Dj;GDlH+E8Wpmbtidpylg/xnA=="
+secured: "+fhApPA37cEv5MrmZWXAbSiFXug2woYRvY/XKOHhDACW8fPZGkewg5yVp49WaJM678NqdnCmVck+vgmYbDm4fBeOzLadlr46lkcG4o221LYu8rpOKO7lJPV25qWuXVVI4BuTGQN4sJP+Muc7Al10RbU9dgGKIr6HPQ4YBqSI/TSc5Tx3olObsVGg627SOf4sATw3zkz64MbbwqhH8DqjcSJuC5CJf8FM3osPO8BrqUjAqmeeL2KPK/Oz5Pat6vgCl/SVlafqDHJOSDbVPmWEa8ebPetPeymbAd71RyZKyzbH2pMDdbb5chnoBGPs1/sd;Ht8umpnEdwjsrRXJU/Lr/g=="
 ---
 

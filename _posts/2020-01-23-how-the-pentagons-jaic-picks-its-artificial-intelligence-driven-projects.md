@@ -3,7 +3,7 @@ category: news
 title: "How the Pentagon’s JAIC Picks Its Artificial Intelligence-Driven Projects"
 excerpt: "The Pentagon launched its Joint Artificial Intelligence Center in 2018 to strategically unify and accelerate AI applications across the nation’s defense and military enterprise. Insiders at the center have now spent about nine months executing that defense driven AI-support. At an ACT-IAC forum in Washington Wednesday, Rachael Martin ..."
 publishedDateTime: 2020-01-23T13:00:00Z
-sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/how-pentagons-jaic-picks-its-artificial-intelligence-driven-projects/162594/
+sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/how-pentagons-jaic-picks-its-artificial-intelligence-driven-projects/162594/?oref=ng-homepage-river
 type: article
 quality: 51
 heat: 51
@@ -22,6 +22,6 @@ images:
     height: 400
     title: "How the Pentagon’s JAIC Picks Its Artificial Intelligence-Driven Projects"
 
-secured: "18KVWQ6HuJYTNIZ8f6Td0BD9qzwg/SN337McM7gV/zqEWboHMwwQBhyELKfZxt3m6hGVqQIsddnrY3MB3Cz1U//UV4kG032pDegn1eIkMkDJOFAvEGH2cZmKowM/z9w7wiK7P5hBf8Qp4pavOd+DcyrYkkg1STVhc+wi48nF/5wpMGHAbERWwpXi+vp/X3L7L2J/9DVSHq5ONBSZWHJImjnuQ05pKCRr0m+Y/d2ZiXvisOzX6+bLbdGY39LI9i0vF9bzCbCgqfXkxlCIhIOOYX2tTnZT/5+CGUtg99TvfBKc5tu/3JK2fx4AOlNNAvCtpH4dWnZa/3J87gbZAnTwvn3Y1h38/dZJXuXYNA2jIhZ/tnefzccVo75lJHJOZfDRyOJynrm0tpkY6sazv4j3AvT4TDpyxkw0jhhLoeI+hobY/ycMcExY1GRZHXXiTeH9/ejO/MSKTP4ZiqSKG6ZKbzkfdzGCFWjZBOUhNM2q5fY=;vEYMjlWk3vmc7nrL74uQQw=="
+secured: "+6uL861JO9b6Mn7qJI7NEs+gj8gEluo3srTk/t66gQWDJHT+C6yuyFMajb9+uh5BVZC7DJmPmtu4GYsb+9tdFkUBBe6c5fdxdxGd9SxlDFvFGb1x0P8vWFEbbeP7wsPr0XCpwlXC/KObRB5DWpg3Ian79TEHjoqLWv/GymEqzlDS6pBHVhgt0jv8ZOZBm44FXdm9aZvUwIlmYM3HMm0VmXOpREObW+/+u7fHfudRf4djV5Mqu+mDtN7MHBYmv4hSFTvgz5cJzmXvIo3ElVq2HaN8x2tSnP+TP+04e5l756gdrrsfkG1B8XT12bwEC048;ltc1MY+0eon3LHa2RU3flw=="
 ---
 
