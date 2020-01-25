@@ -4,7 +4,7 @@ Function: render_search_form
 Description: Load the search form, including the search input field, and hooking up with 
     the search plugin to dynamically display search results.
 
-Usage: {% include jify function="render_search_form" -%}
+Usage: {% include dynamo function="render_search_form" -%}
 
 Parameters:
     * id                            (string) - Unique ID of the search form.  
@@ -56,7 +56,7 @@ Parameters:
 </form>
 <script>
 (function() {
-    var searchForm = new Jify.SearchForm(
+    var searchForm = new Dynamo.SearchForm(
         '{{ search_form_id }}',
         '{{ search_field_id }}',
         '{{ search_result_container_id }}',

@@ -4,7 +4,7 @@ Function: enqueue_script
 Description: Enqueue the script(s) for jquery, bootstrap, search, site TOC, and analytics.
 
 Usage:
-    {% include jify function="enqueue_script" for="jquery" major_version="3" -%}
+    {% include dynamo function="enqueue_script" for="jquery" major_version="3" -%}
 
 Parameters:
     * for (string)   : can be one of the following values
@@ -17,10 +17,10 @@ Parameters:
 ------------------------------------------------------------------------{% endcomment -%}
 
 {% case include.params.for -%}
-    {% when "jify" -%}
-    {% unless ENQUEUED_SCRIPTS contains "jify" -%}
-        {% assign ENQUEUED_SCRIPTS = ENQUEUED_SCRIPTS | push: "jify" -%}
-<script src="{{ SYSTEM_DIRECTORY_URL }}/js/jify-1.0.2.js"></script>
+    {% when "dynamo" -%}
+    {% unless ENQUEUED_SCRIPTS contains "dynamo" -%}
+        {% assign ENQUEUED_SCRIPTS = ENQUEUED_SCRIPTS | push: "dynamo" -%}
+<script src="{{ SYSTEM_DIRECTORY_URL }}/js/dynamo-1.0.2.js"></script>
     {% endunless -%}
 
     {% comment -%}Enqueue jQuery.js{% endcomment -%}
@@ -83,7 +83,7 @@ Parameters:
             {% assign search_plugin_name = plugin_hash[0] -%}
             {% assign search_plugin = plugin_hash[1] -%}
             {% if search_plugin.enabled -%}
-                {% include jify function="load_plugin" plugin=search_plugin_name category="search" -%}
+                {% include dynamo function="load_plugin" plugin=search_plugin_name category="search" -%}
                 {% break -%}
             {% endif -%}
         {% endfor -%}
@@ -97,7 +97,7 @@ Parameters:
             {% assign analytics_plugin_name = plugin_hash[0] -%}
             {% assign analytics_plugin = plugin_hash[1] -%}
             {% if analytics_plugin.enabled -%}
-                {% include jify function="load_plugin" plugin=analytics_plugin_name category="analytics" -%}
+                {% include dynamo function="load_plugin" plugin=analytics_plugin_name category="analytics" -%}
             {% endif -%}
         {% endfor -%}
     {% endunless -%}

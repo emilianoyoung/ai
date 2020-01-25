@@ -3,7 +3,7 @@ layout: none
 ---
 {
     "value": [
-        {% include jify function="get_terms" taxonomy="topic" -%}
+        {% include dynamo function="get_terms" taxonomy="topic" -%}
         {% for topic in terms -%}
         {
             "name": {{ topic.name | jsonify }},

@@ -1,5 +1,5 @@
 {%- comment -%}--------------------------------------------------------------------------
-Always have {% include jify file="_includes/head.html" mode="inclusive" %} at the
+Always have {% include dynamo file="_includes/head.html" mode="inclusive" %} at the
 beginning of the <head> tag of your layout.  You generally use this partial to add
 elements to <head> such as styles, scripts, and meta tags.
 -----------------------------------------------------------------------{%- endcomment -%}
@@ -8,7 +8,7 @@ elements to <head> such as styles, scripts, and meta tags.
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <!--bootstrap -->
-{% include jify function="enqueue_style" for="bootstrap" major_version="4" %}
+{% include dynamo function="enqueue_style" for="bootstrap" major_version="4" %}
 <!--animate-->
 <link rel="stylesheet" type="text/css" href="{{ THEME_DIRECTORY_URL }}/css/aos.css">
 <!--reset css-->
@@ -35,7 +35,7 @@ elements to <head> such as styles, scripts, and meta tags.
 <link rel="stylesheet" type="text/css" href="{{ THEME_DIRECTORY_URL }}/css/owl.carousel.min.css">
 <link rel="stylesheet" type="text/css" href="{{ THEME_DIRECTORY_URL }}/css/owl.theme.default.min.css">
 <!--fontawesome -->
-{% include jify function="enqueue_style" for="font-awesome" major_version="5" %}
+{% include dynamo function="enqueue_style" for="font-awesome" major_version="5" %}
 <!--google fonts-->
 <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700" rel="stylesheet">
 <!--modernizr-->

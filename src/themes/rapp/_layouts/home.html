@@ -7,15 +7,15 @@
 <!--<![endif]-->
 
     <head>
-        {% include jify file="_includes/head.html" mode="inclusive" indent_level=2 %}
+        {% include dynamo file="_includes/head.html" mode="inclusive" indent_level=2 %}
         <!-- begin layout head -->
-        {% include jify function="enqueue_meta_tag" for="site_verification" indent_level=2 %}
+        {% include dynamo function="enqueue_meta_tag" for="site_verification" indent_level=2 %}
         <!-- end layout head -->
     </head>
     <body data-spy="scroll" data-target=".navbar" data-offset="60">
-        {% include jify file="_includes/header.html" indent_level=2 %}
-        {% include jify function="render_content" content=content indent_level=2 %}
-        {% include jify file="_includes/footer.html" indent_level=2 %}
-        {% include jify file="_includes/foot.html" mode="inclusive" indent_level=2 %}
+        {% include dynamo file="_includes/header.html" indent_level=2 %}
+        {% include dynamo function="render_content" content=content indent_level=2 %}
+        {% include dynamo file="_includes/footer.html" indent_level=2 %}
+        {% include dynamo file="_includes/foot.html" mode="inclusive" indent_level=2 %}
     </body>
 </html>

@@ -1,15 +1,15 @@
 <!doctype html>
 <html lang='{{ CURRENT_LOCALE }}'>
     <head>
-        {% include jify file="_includes/head.html" mode="inclusive" indent_level=2 %}
+        {% include dynamo file="_includes/head.html" mode="inclusive" indent_level=2 %}
     </head>
     <body>
         <div class="post-wrapper">
             {% if page.category -%}
                 {% capture post_template -%}_includes/templates/{{ page.category }}.html{% endcapture -%}
-                {% include jify file=post_template from="theme" mode="exclusive" indent_level=3 %}
+                {% include dynamo file=post_template from="theme" mode="exclusive" indent_level=3 %}
             {%- endif %}
         </div>
-        {% include jify file="_includes/foot.html" mode="inclusive" indent_level=2 %}
+        {% include dynamo file="_includes/foot.html" mode="inclusive" indent_level=2 %}
     </body>
 </html>

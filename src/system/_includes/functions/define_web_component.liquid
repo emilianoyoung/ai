@@ -23,7 +23,7 @@ Parameters:
     {% if include.params.html -%}
         {% assign html = include.params.html | -%}
     {% elsif include.params.html_file -%}
-        {% capture html -%}{% include jify file=include.params.html_file from=include.params.from %}{%- endcapture -%}
+        {% capture html -%}{% include dynamo file=include.params.html_file from=include.params.from %}{%- endcapture -%}
     {% else -%}
         {% assign html = "" -%}
     {% endif -%}

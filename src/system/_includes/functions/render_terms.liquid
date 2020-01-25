@@ -5,14 +5,14 @@ Description: Render a list of terms of the given taxonomy.  Each term is linked 
     term archive page.
 
 Usage:
-    {% include jify function="render_terms" 
+    {% include dynamo function="render_terms" 
         taxonomy="author" 
         format="flat" 
         separator=", " %}
     The above code renders a list of authors for the current locale in the flat format. 
     Authors are seperated by ", ".
 
-    {% include jify function="render_terms" 
+    {% include dynamo function="render_terms" 
         taxonomy="author" 
         num_of_terms=10 
         order_by="size" 
@@ -73,7 +73,7 @@ Parameters:
     {% if num_of_terms != 0 -%}
 
     {% comment -%}Get terms{% endcomment -%}
-    {% include jify function="get_terms" 
+    {% include dynamo function="get_terms" 
         taxonomy=include.params.taxonomy 
         names=include.params.names 
         where_exp=include.params.where_exp 
@@ -87,7 +87,7 @@ Parameters:
         {% comment -%}If term size is needed, get term sizes{% endcomment -%}
         {% if include.params.show_size == true or include.params.order_by == "size" -%}
             {% assign taxonomy_archive_settings = site.taxonomies[include.params.taxonomy].settings.archive -%}
-            {% include jify function="get_posts" 
+            {% include dynamo function="get_posts" 
                 post_collection=taxonomy_archive_settings.post_collection 
                 where_exp=taxonomy_archive_settings.where_exp 
                 locale=include.params.locale -%}
@@ -121,7 +121,7 @@ Parameters:
             {% assign c = c | plus: 1 -%}
     <li class='{{ include.params.item_class | default: default_item_class }}'>
         {% if include.params.render_term_function -%}
-            {% include jify function=include.params.render_term_function 
+            {% include dynamo function=include.params.render_term_function 
                 term=term 
                 size=nonempty_term.size 
                 indent_level=2 %}
@@ -151,7 +151,7 @@ Parameters:
         {% if c > 0 -%}{{ include.params.separator | default: " " }}{% endif -%}
         {% assign c = c | plus: 1 -%}
         {% if include.params.render_term_function -%}
-            {% include jify function=include.params.render_term_function 
+            {% include dynamo function=include.params.render_term_function 
                 term=term 
                 size=nonempty_term.size %}
         {% else -%}
@@ -192,7 +192,7 @@ Parameters:
         {% endif -%}
     <li class='{{ include.params.item_class | default: default_item_class }}'>
         {% if include.params.render_term_function -%}
-            {% include jify function=include.params.render_term_function 
+            {% include dynamo function=include.params.render_term_function 
                 term=term 
                 size=term_size 
                 indent_level=2 %}
@@ -224,7 +224,7 @@ Parameters:
     {% endif -%}
 
     {% if include.params.render_term_function -%}
-        {% include jify function=include.params.render_term_function 
+        {% include dynamo function=include.params.render_term_function 
             term=term 
             size=term_size %}
     {% else -%}

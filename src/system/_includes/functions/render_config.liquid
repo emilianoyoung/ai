@@ -2,7 +2,7 @@
 Function: render_config
 
 Usage: 
-    {% include jify function="render_config" of="site" key="title" -%}
+    {% include dynamo function="render_config" of="site" key="title" -%}
     The above code renders the site title from locale config and site config. 
 
 Parameters:
@@ -13,7 +13,7 @@ Parameters:
 
 ------------------------------------------------------------------------{% endcomment -%}
 
-{% include jify function="get_config" 
+{% include dynamo function="get_config" 
     of=include.params.of 
     key=include.params.key 
     default_value=include.params.default_value 

@@ -4,7 +4,7 @@ Function: get_tags
 Description: Get a list of tags.
 
 Usage:
-    {% include jify function="get_tags" -%}
+    {% include dynamo function="get_tags" -%}
     The above code gets a list of tags of the current locale. 
 
 Parameters:
@@ -49,7 +49,7 @@ Parameters:
     {% if include.params.hide_empty == true -%}
         {% comment -%}Remove empty tags{% endcomment -%}
         {% assign tag_archive_settings = site.taxonomies.tag.settings.archive -%}
-        {% include jify function="get_posts" 
+        {% include dynamo function="get_posts" 
             post_collection=tag_archive_settings.post_collection 
             where_exp=tag_archive_settings.where_exp -%}
         {% assign taxonomy_field = tag_archive_settings.taxonomy_field | default: "tags" -%}

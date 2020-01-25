@@ -5,7 +5,7 @@ Function: enable_smooth_anchor
 Description: Enable smooth anchor or change the smooth anchor settings
 
 Usage: 
-    {% include jify function="enable_smooth_anchor" top_offset="80" -%}
+    {% include dynamo function="enable_smooth_anchor" top_offset="80" -%}
 
 Parameters:
     * top_offset_selector       (string) - jQuery selector to calculate the top offset 
@@ -19,7 +19,7 @@ Parameters:
 
 <script>
 $(document).ready(function() {
-    Jify.SmoothAnchor.enable(
+    Dynamo.SmoothAnchor.enable(
         {{ include.params.smooth_scroll_duration | default: 0 }},  // smooth scroll duration
         '{{ include.params.top_offset_selector | default: "" }}',  // top offset selector
         {{ include.params.additional_top_offset | default: 0 }}  // additional top offset

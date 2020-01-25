@@ -23,7 +23,7 @@ Parameters:
     {% endif -%}
     {% if widgets -%}
         {% for widget in widgets -%}
-            {% include jify function="load_plugin" plugin=widget.widget category="widgets" from=widget.from settings=widget.settings %}{{ LINE_FEED -}}
+            {% include dynamo function="load_plugin" plugin=widget.widget category="widgets" from=widget.from settings=widget.settings %}{{ LINE_FEED -}}
         {% endfor -%}
     {% endif -%}
 {% endif -%}

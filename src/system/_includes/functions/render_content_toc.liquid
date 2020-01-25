@@ -4,7 +4,7 @@ Function: render_content_toc
 Description: Displays a TOC based on the given html content.
 
 Usage:
-    {% include jify function="render_content_toc" content=content sanitize=true 
+    {% include dynamo function="render_content_toc" content=content sanitize=true 
         class="inline_toc" id="toc" min_h=2 max_h=3 page_url=page.url -%}
 
 Parameters:
@@ -103,7 +103,7 @@ Output:
 {% if scroll_highlight and toc != blank -%}
 <script>
 $(document).ready(function() {
-    var toc = new Jify.ContentTOC('{{ toc_id }}');
+    var toc = new Dynamo.ContentTOC('{{ toc_id }}');
     toc.enableScrollHighlight('active');
 });
 </script>

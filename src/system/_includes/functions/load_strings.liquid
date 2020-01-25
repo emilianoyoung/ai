@@ -12,7 +12,7 @@ Parameters:
                                            locale (site.locale). If the site locale is 
                                            not configured either, it defaults to 'en-us'.
 
-Usage: {% include jify function="load_strings" locale=page.locale -%}
+Usage: {% include dynamo function="load_strings" locale=page.locale -%}
 ------------------------------------------------------------------------{% endcomment -%}
 
 {% assign locale = include.params.locale | default: CURRENT_LOCALE | downcase -%}

@@ -1,2 +1,2 @@
 {% capture api_template -%}_includes/templates/{{ page.api }}.api.json{% endcapture -%}
-{% include jify file=api_template from="theme" mode="exclusive" %}
+{% include dynamo file=api_template from="theme" mode="exclusive" %}

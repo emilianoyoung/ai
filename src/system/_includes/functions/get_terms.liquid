@@ -4,7 +4,7 @@ Function: get_terms
 Description: Get a list of terms of the given taxonomy name.
 
 Usage:
-    {% include jify function="get_terms" taxonomy="author" -%}
+    {% include dynamo function="get_terms" taxonomy="author" -%}
     The above code gets a list of authors of the current locale. 
 
 Parameters:
@@ -51,7 +51,7 @@ Parameters:
         {% if include.params.hide_empty == true -%}
             {% comment -%}Remove empty terms{% endcomment -%}
             {% assign taxonomy_archive_settings = site.taxonomies[include.params.taxonomy].settings.archive -%}
-            {% include jify function="get_posts" 
+            {% include dynamo function="get_posts" 
                 post_collection=taxonomy_archive_settings.post_collection 
                 where_exp=taxonomy_archive_settings.where_exp -%}
             {% assign taxonomy_field = taxonomy_archive_settings.taxonomy_field | default: include.params.taxonomy -%}

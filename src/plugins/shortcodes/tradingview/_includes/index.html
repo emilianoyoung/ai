@@ -1,10 +1,10 @@
 {% if include.params.attributes -%}
-    {% capture symbol -%}{% include jify function="extract_shortcode_att" attribute="symbol" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture width -%}{% include jify function="extract_shortcode_att" default="100%" attribute="width" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture height -%}{% include jify function="extract_shortcode_att" default="600px" attribute="height" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture interval -%}{% include jify function="extract_shortcode_att" default="D" attribute="interval" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture timezone -%}{% include jify function="extract_shortcode_att" default="Etc/UTC" attribute="timezone" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture theme -%}{% include jify function="extract_shortcode_att" default="light" attribute="theme" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture symbol -%}{% include dynamo function="extract_shortcode_att" attribute="symbol" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture width -%}{% include dynamo function="extract_shortcode_att" default="100%" attribute="width" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture height -%}{% include dynamo function="extract_shortcode_att" default="600px" attribute="height" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture interval -%}{% include dynamo function="extract_shortcode_att" default="D" attribute="interval" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture timezone -%}{% include dynamo function="extract_shortcode_att" default="Etc/UTC" attribute="timezone" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture theme -%}{% include dynamo function="extract_shortcode_att" default="light" attribute="theme" attributes=include.params.attributes %}{%- endcapture -%}
 
     {% if symbol -%}
 <!-- TradingView Widget BEGIN -->

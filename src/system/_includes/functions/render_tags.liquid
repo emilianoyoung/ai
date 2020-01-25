@@ -4,11 +4,11 @@ Function: render_tags
 Description: Render a list of tags.  Each tag is linked to the tag archive page.
 
 Usage:
-    {% include jify function="render_tags" format="flat" separator=", " %}
+    {% include dynamo function="render_tags" format="flat" separator=", " %}
     The above code renders a list of tags for the current locale in the flat format.  
     Tags are seperated by ", ".
 
-    {% include jify function="render_tags" 
+    {% include dynamo function="render_tags" 
         num_of_tags=10 
         order_by="size" 
         order="DESC" 
@@ -66,7 +66,7 @@ Parameters:
 {% if num_of_tags != 0 -%}
 
     {% comment -%}Get tags{% endcomment -%}
-    {% include jify function="get_tags" 
+    {% include dynamo function="get_tags" 
         names=include.params.names 
         where_exp=include.params.where_exp 
         locale=include.params.locale 
@@ -79,7 +79,7 @@ Parameters:
         {% comment -%}If tag size is needed, get tag sizes{% endcomment -%}
         {% if include.params.show_size == true or include.params.order_by == "size" -%}
             {% assign tag_archive_settings = site.taxonomies.tag.settings.archive -%}
-            {% include jify function="get_posts" 
+            {% include dynamo function="get_posts" 
                 post_collection=tag_archive_settings.post_collection 
                 where_exp=tag_archive_settings.where_exp 
                 locale=include.params.locale -%}
@@ -111,7 +111,7 @@ Parameters:
             {% assign c = c | plus: 1 -%}
     <li class='{{ include.params.item_class | default: "tag-item" }}'>
         {% if include.params.render_tag_function -%}
-            {% include jify function=include.params.render_tag_function 
+            {% include dynamo function=include.params.render_tag_function 
                 tag=tag 
                 size=nonempty_tag.size 
                 indent_level=2 %}
@@ -141,7 +141,7 @@ Parameters:
         {% if c > 0 -%}{{ include.params.separator | default: " " }}{% endif -%}
         {% assign c = c | plus: 1 -%}
         {% if include.params.render_tag_function -%}
-            {% include jify function=include.params.render_tag_function 
+            {% include dynamo function=include.params.render_tag_function 
                 tag=tag 
                 size=nonempty_tag.size %}
         {% else -%}
@@ -180,7 +180,7 @@ Parameters:
         {% endif -%}
     <li class='{{ include.params.item_class | default: "tag-item" }}'>
         {% if include.params.render_tag_function -%}
-            {% include jify function=include.params.render_tag_function 
+            {% include dynamo function=include.params.render_tag_function 
                 tag=tag 
                 size=tag_size 
                 indent_level=2 %}
@@ -212,7 +212,7 @@ Parameters:
     {% endif -%}
 
     {% if include.params.render_tag_function -%}
-        {% include jify function=include.params.render_tag_function tag=tag size=tag_size %}
+        {% include dynamo function=include.params.render_tag_function tag=tag size=tag_size %}
     {% else -%}
 <a href='{{ tag.url }}'>
     {{ include.params.before_link_text }}{{ tag.display_name | default: tag.name }}{{ include.params.after_link_text -}}

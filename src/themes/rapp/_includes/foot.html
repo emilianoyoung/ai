@@ -1,13 +1,13 @@
 {% comment -%}---------------------------------------------------------------------------
-Always have {% include jify file="_includes/foot.html" mode="inclusive" %} just before
+Always have {% include dynamo file="_includes/foot.html" mode="inclusive" %} just before
 the closing </body> tag of your layout.  You generally use this partial to reference
 JavaScript files.
 ------------------------------------------------------------------------{% endcomment -%}
 
 <!--jquery-->
-{% include jify function="enqueue_script" for="jquery" major_version="1" %}
+{% include dynamo function="enqueue_script" for="jquery" major_version="1" %}
 <!--bootstrap v4 js-->
-{% include jify function="enqueue_script" for="bootstrap" major_version="4" %}
+{% include dynamo function="enqueue_script" for="bootstrap" major_version="4" %}
 <!--popper js-->
 <script src="{{ THEME_DIRECTORY_URL }}/js/vendor/popper.min.js"></script>
 <!--aos js-->

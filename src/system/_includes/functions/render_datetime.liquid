@@ -3,10 +3,10 @@ Function: render_datetime
 
 Description: Format and render the datetime based on the given locale and format. 
 
-Usage:  {% include jify function="render_datetime" datetime=page.date 
+Usage:  {% include dynamo function="render_datetime" datetime=page.date 
             locale="en-us" date_format="long" time_format="none" -%}
 
-        {% include jify function="render_datetime" datetime=page.date 
+        {% include dynamo function="render_datetime" datetime=page.date 
             date_format="ISO8601" -%}
         The above code renders the current page date in ISO 8601 format - a format 
         independent of the locale. 

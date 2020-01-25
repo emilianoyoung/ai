@@ -61,7 +61,7 @@
             {%- endif %}
         </div>
     </div>
-    {% include jify function="render_content" content=content indent_level=1 %}
+    {% include dynamo function="render_content" content=content indent_level=1 %}
     {% if page.twitter -%}
     <a class="twitter-timeline" data-width="450" href="https://twitter.com/{{ page.twitter.username }}?ref_src=twsrc%5Etfw">Tweets by {{ page.name }}</a>
     <script>

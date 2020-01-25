@@ -4,7 +4,7 @@ Function: render_posts
 Description: Render posts in list / flat / json format.
 
 Usage: 
-    {% include jify function="render_posts" 
+    {% include dynamo function="render_posts" 
         format="list" 
         num_of_posts=10 %}
     The above code renders 10 most recent posts of the current locale in "list" format.
@@ -82,7 +82,7 @@ Parameters:
 {% if include.params.posts -%}
     {% assign posts = include.params.posts -%}
 {% else -%}
-    {% include jify function="get_posts" 
+    {% include dynamo function="get_posts" 
         post_collection=include.params.post_collection 
         enable_pagination=include.params.enable_pagination 
         locale=include.params.locale 
@@ -104,7 +104,7 @@ Parameters:
 
     <li class='{{ include.params.item_class | default: "post" }}'>
         {% if include.params.render_post_function -%}
-            {% include jify function=include.params.render_post_function 
+            {% include dynamo function=include.params.render_post_function 
                 post=post 
                 show_post_date=include.params.show_post_date 
                 show_post_excerpt=include.params.show_post_excerpt 
@@ -114,18 +114,18 @@ Parameters:
         <article>
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             {% if include.params.show_post_date == true -%}
-            <time class="post-date" datetime='{% include jify function="render_datetime" datetime=post.date date_format="ISO8601" %}'>
-                {% include jify function="render_datetime" datetime=post.date date_format="default" %}
+            <time class="post-date" datetime='{% include dynamo function="render_datetime" datetime=post.date date_format="ISO8601" %}'>
+                {% include dynamo function="render_datetime" datetime=post.date date_format="default" %}
             </time>
             {%- endif %}
             {% if include.params.show_post_content == true -%}
             <div class="post-content">
                 {% if post.content contains '<!--more-->' -%}
                     {% assign content_first_part = post.content | split: '<!--more-->' | first -%}
-                {% include jify function="render_content" content=content_first_part indent_level=2 %}
+                {% include dynamo function="render_content" content=content_first_part indent_level=2 %}
                 <a href="{{ post.url | relative_url }}" class="more-link">{{ STRING__CONTINUE_READING }}</a>
                 {% else -%}
-                {% include jify function="render_content" content=post.content indent_level=2 %}
+                {% include dynamo function="render_content" content=post.content indent_level=2 %}
                 {%- endif %}
             </div>
             {% elsif include.params.show_post_excerpt == true -%}
@@ -141,7 +141,7 @@ Parameters:
 </ul>
 
 {% if include.params.enable_pagination == true -%}
-    {% include jify function="render_pagination" 
+    {% include dynamo function="render_pagination" 
         prev_page_text=include.params.prev_page_text 
         next_page_text=include.params.next_page_text 
         first_page_url=include.params.first_page_url 
@@ -159,7 +159,7 @@ Parameters:
 
     <div class='{{ include.params.item_class | default: "post" }}'>
         {% if include.params.render_post_function -%}
-            {% include jify function=include.params.render_post_function 
+            {% include dynamo function=include.params.render_post_function 
                 post=post 
                 show_post_date=include.params.show_post_date 
                 show_post_excerpt=include.params.show_post_excerpt 
@@ -169,18 +169,18 @@ Parameters:
         <article>
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             {% if include.params.show_post_date == true -%}
-            <time class="post-date" datetime='{% include jify function="render_datetime" datetime=post.date date_format="ISO8601" %}'>
-                {% include jify function="render_datetime" datetime=post.date date_format="default" %}
+            <time class="post-date" datetime='{% include dynamo function="render_datetime" datetime=post.date date_format="ISO8601" %}'>
+                {% include dynamo function="render_datetime" datetime=post.date date_format="default" %}
             </time>
             {%- endif %}
             {% if include.params.show_post_content == true -%}
             <div class="post-content">
                 {% if post.content contains '<!--more-->' -%}
                     {% assign content_first_part = post.content | split: '<!--more-->' | first -%}
-                {% include jify function="render_content" content=content_first_part indent_level=2 %}
+                {% include dynamo function="render_content" content=content_first_part indent_level=2 %}
                 <a href="{{ post.url | relative_url }}" class="more-link">{{ STRING__CONTINUE_READING }}</a>
                 {% else -%}
-                {% include jify function="render_content" content=post.content indent_level=2 %}
+                {% include dynamo function="render_content" content=post.content indent_level=2 %}
                 {%- endif %}
             </div>
             {% elsif include.params.show_post_excerpt == true -%}
@@ -196,7 +196,7 @@ Parameters:
 </div>
 
 {% if include.params.enable_pagination == true -%}
-    {% include jify function="render_pagination" 
+    {% include dynamo function="render_pagination" 
         prev_page_text=include.params.prev_page_text 
         next_page_text=include.params.next_page_text 
         first_page_url=include.params.first_page_url 
@@ -215,7 +215,7 @@ Parameters:
 
     <div class='{{ include.params.item_class | default: "col-md-4" }}'>
         {% if include.params.render_post_function -%}
-            {% include jify function=include.params.render_post_function 
+            {% include dynamo function=include.params.render_post_function 
                 post=post 
                 show_post_date=include.params.show_post_date 
                 show_post_excerpt=include.params.show_post_excerpt 
@@ -225,18 +225,18 @@ Parameters:
         <article>
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             {% if include.params.show_post_date == true -%}
-            <time class="post-date" datetime='{% include jify function="render_datetime" datetime=post.date date_format="ISO8601" %}'>
-                {% include jify function="render_datetime" datetime=post.date date_format="default" %}
+            <time class="post-date" datetime='{% include dynamo function="render_datetime" datetime=post.date date_format="ISO8601" %}'>
+                {% include dynamo function="render_datetime" datetime=post.date date_format="default" %}
             </time>
             {%- endif %}
             {% if include.params.show_post_content == true -%}
             <div class="post-content">
                 {% if post.content contains '<!--more-->' -%}
                     {% assign content_first_part = post.content | split: '<!--more-->' | first -%}
-                {% include jify function="render_content" content=content_first_part indent_level=2 %}
+                {% include dynamo function="render_content" content=content_first_part indent_level=2 %}
                 <a href="{{ post.url | relative_url }}" class="more-link">{{ STRING__CONTINUE_READING }}</a>
                 {% else -%}
-                {% include jify function="render_content" content=post.content indent_level=2 %}
+                {% include dynamo function="render_content" content=post.content indent_level=2 %}
                 {%- endif %}
             </div>
             {% elsif include.params.show_post_excerpt == true -%}
@@ -253,7 +253,7 @@ Parameters:
 </div>
 
 {% if include.params.enable_pagination == true -%}
-    {% include jify function="render_pagination" 
+    {% include dynamo function="render_pagination" 
         prev_page_text=include.params.prev_page_text 
         next_page_text=include.params.next_page_text 
         first_page_url=include.params.first_page_url 
@@ -273,7 +273,7 @@ Parameters:
     {% endunless -%}
 
     {% if include.params.render_post_function -%}
-        {% include jify function=include.params.render_post_function 
+        {% include dynamo function=include.params.render_post_function 
             post=post 
             show_post_date=include.params.show_post_date 
             show_post_excerpt=include.params.show_post_excerpt 
@@ -283,18 +283,18 @@ Parameters:
 <article>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     {% if include.params.show_post_date == true -%}
-    <time class="post-date" datetime='{% include jify function="render_datetime" datetime=post.date date_format="ISO8601" %}'>
-        {% include jify function="render_datetime" datetime=post.date date_format="default" %}
+    <time class="post-date" datetime='{% include dynamo function="render_datetime" datetime=post.date date_format="ISO8601" %}'>
+        {% include dynamo function="render_datetime" datetime=post.date date_format="default" %}
     </time>
     {% endif -%}
     {% if include.params.show_post_content == true -%}
     <div class="post-content">
         {% if post.content contains '<!--more-->' -%}
             {% assign content_first_part = post.content | split: '<!--more-->' | first -%}
-        {% include jify function="render_content" content=content_first_part indent_level=2 %}
+        {% include dynamo function="render_content" content=content_first_part indent_level=2 %}
         <a href="{{ post.url | relative_url }}" class="more-link">{{ STRING__CONTINUE_READING }}</a>
         {% else -%}
-        {% include jify function="render_content" content=post.content indent_level=2 %}
+        {% include dynamo function="render_content" content=post.content indent_level=2 %}
         {%- endif %}
     </div>
     {%- elsif include.params.show_post_excerpt == true -%}
@@ -309,7 +309,7 @@ Parameters:
 {% endfor -%}
 
 {% if enable_pagination == true -%}
-    {% include jify function="render_pagination" 
+    {% include dynamo function="render_pagination" 
         prev_page_text=include.params.prev_page_text 
         next_page_text=include.params.next_page_text 
         first_page_url=include.params.first_page_url 
@@ -329,7 +329,7 @@ Parameters:
         "excerpt": {{ post.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
         {% if include.params.show_post_content == true -%}
         {% capture post_content -%}
-        {% include jify function="render_content" content=post.content %}
+        {% include dynamo function="render_content" content=post.content %}
         {%- endcapture -%}
         "content": {{ post_content | jsonify }},
         {% endif -%}

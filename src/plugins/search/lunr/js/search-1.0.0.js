@@ -31,7 +31,7 @@ $(document).ready(function() {
     });
 
     // Listen to the search event from SearchForm(s) on the page.
-    document.addEventListener(Jify.SearchForm.SEARCH_EVENT_NAME, function(e) {
+    document.addEventListener(Dynamo.SearchForm.SEARCH_EVENT_NAME, function(e) {
         var query = e.detail.query;
         if (query.length > 0 && lunrIndex !== null) {
             // Perform the actual search using the lunr index
@@ -54,7 +54,7 @@ $(document).ready(function() {
                     break;
                 }
                 var doc = indexedPosts[lunrResults[i].ref];
-                var searchResult = new Jify.SearchResult(
+                var searchResult = new Dynamo.SearchResult(
                     "post", doc.url, doc.title, doc.excerpt
                 );
                 results.push(searchResult);
@@ -62,7 +62,7 @@ $(document).ready(function() {
 
             // Dispatch the search complete event with the search results
             e.target.dispatchEvent(
-                new CustomEvent(Jify.SearchForm.SEARCH_COMPLETE_EVENT_NAME, {
+                new CustomEvent(Dynamo.SearchForm.SEARCH_COMPLETE_EVENT_NAME, {
                     detail: {
                         searchResults: results,
                     },

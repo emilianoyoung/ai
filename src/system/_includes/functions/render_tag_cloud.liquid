@@ -5,7 +5,7 @@ Description: Display tags in what is called a 'tag cloud', where the size of eac
     determined by its archive size.
 
 Usage:
-    {% include jify function="render_tag_cloud" format="list" show_size=true %}
+    {% include dynamo function="render_tag_cloud" format="list" show_size=true %}
 
 Parameters:
     * names                     (array)  - An array of tag names (e.g. post.tags).
@@ -62,7 +62,7 @@ Parameters:
 {% if num_of_tags != 0 -%}
 
     {% comment -%}Get tags{% endcomment -%}
-    {% include jify function="get_tags" 
+    {% include dynamo function="get_tags" 
         names=include.params.names 
         where_exp=include.params.where_exp 
         locale=include.params.locale 
@@ -78,7 +78,7 @@ Parameters:
 
         {% comment -%}Get sorted tag sizes{% endcomment -%}
         {% assign tag_archive_settings = site.taxonomies.tag.settings.archive -%}
-        {% include jify function="get_posts" 
+        {% include dynamo function="get_posts" 
             post_collection=tag_archive_settings.post_collection 
             where_exp=tag_archive_settings.where_exp 
             locale=include.params.locale -%}
@@ -189,7 +189,7 @@ Parameters:
         
     <li class='{{ include.params.item_class | default: "tag-item" }}'>
         {% if include.params.render_tag_function -%}
-            {% include jify function=include.params.render_tag_function 
+            {% include dynamo function=include.params.render_tag_function 
                 tag=tag 
                 size=tag_size 
                 indent_level=2 %}
@@ -225,7 +225,7 @@ Parameters:
     {% assign font_size = tag_size | minus: min_size | times: font_step | plus: smallest_font -%}
 
     {% if include.params.render_tag_function -%}
-        {% include jify function=include.params.render_tag_function tag=tag size=tag_size %}
+        {% include dynamo function=include.params.render_tag_function tag=tag size=tag_size %}
     {% else -%}
 <a href='{{ tag.url }}' class="tag-cloud-link tag-link-{{ slug }}" style="font-size: {{ font_size }}{{ unit }};" 
     {%- if aria_label == true %} aria-label="{{ tag.display_name | default: tag.name }} ({{ tag_size }})"{% endif -%}>

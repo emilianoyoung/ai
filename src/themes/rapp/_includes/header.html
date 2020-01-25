@@ -14,7 +14,7 @@
         <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#xenav">
             <i class="fas fa-bars fa-2x"></i>
         </button>
-        {% include jify function="render_navigation"
+        {% include dynamo function="render_navigation"
             format="menu"
             nav="header_menu"
             container_id="xenav"
@@ -30,7 +30,7 @@
 <!-- /.navbar -->
 
 {% if page.layout == "home" -%}
-{% include jify function="get_config" of="theme" key="header" -%}
+{% include dynamo function="get_config" of="theme" key="header" -%}
 <!--hero section-->
 <header class="hero-section" id="home">
     <div class="container">

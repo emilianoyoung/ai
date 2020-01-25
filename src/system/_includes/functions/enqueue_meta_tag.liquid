@@ -5,7 +5,7 @@ Description: Enqueue meta tag in the HTML head for favicon, site verification SE
     other custom purposes.
 
 Usage: 
-    {% include jify function="enqueue_meta_tag" for="site_verification" -%}
+    {% include dynamo function="enqueue_meta_tag" for="site_verification" -%}
 
 Parameters:
     * for (string)   : can be "favicon", "site_verification", "seo", or anything else 
@@ -26,7 +26,7 @@ Parameters:
         {% assign site_verification_plugin_name = plugin_hash[0] -%}
         {% assign site_verification_plugin = plugin_hash[1] -%}
         {% if site_verification_plugin.enabled -%}
-            {% include jify function="load_plugin" plugin=site_verification_plugin_name category="site_verification" -%}
+            {% include dynamo function="load_plugin" plugin=site_verification_plugin_name category="site_verification" -%}
         {%- endif -%}
     {% endfor -%}
 
@@ -35,7 +35,7 @@ Parameters:
         {% assign seo_plugin_name = plugin_hash[0] -%}
         {% assign seo_plugin = plugin_hash[1] -%}
         {% if seo_plugin.enabled -%}
-            {% include jify function="load_plugin" plugin=seo_plugin_name category="seo" -%}
+            {% include dynamo function="load_plugin" plugin=seo_plugin_name category="seo" -%}
         {%- endif -%}
     {% endfor -%}
 

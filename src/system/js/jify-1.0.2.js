@@ -1,4 +1,4 @@
-var Jify = (function (exports) {
+var Dynamo = (function (exports) {
     'use strict';
 
     var SmoothAnchor = (function () {
@@ -311,9 +311,9 @@ var Jify = (function (exports) {
             enumerable: true,
             configurable: true
         });
-        SearchForm.SEARCH_EVENT_NAME = "jify.search";
-        SearchForm.SEARCH_COMPLETE_EVENT_NAME = "jify.searchcomplete";
-        SearchForm.SEARCH_RESET_EVENT_NAME = "jify.searchreset";
+        SearchForm.SEARCH_EVENT_NAME = "dynamo.search";
+        SearchForm.SEARCH_COMPLETE_EVENT_NAME = "dynamo.searchcomplete";
+        SearchForm.SEARCH_RESET_EVENT_NAME = "dynamo.searchreset";
         return SearchForm;
     }());
     (function (SearchTrigger) {

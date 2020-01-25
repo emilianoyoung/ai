@@ -4,7 +4,7 @@ Function: get_categories
 Description: Get a list of categories.
 
 Usage:
-    {% include jify function="get_categories" -%}
+    {% include dynamo function="get_categories" -%}
     The above code gets a list of categories of the current locale. 
 
 Parameters:
@@ -49,7 +49,7 @@ Parameters:
     {% if include.params.hide_empty == true -%}
         {% comment -%}Remove empty categories{% endcomment -%}
         {% assign category_archive_settings = site.taxonomies.category.settings.archive -%}
-        {% include jify function="get_posts" 
+        {% include dynamo function="get_posts" 
             post_collection=category_archive_settings.post_collection 
             where_exp=category_archive_settings.where_exp 
             locale=include.params.locale -%}

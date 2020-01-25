@@ -1,10 +1,10 @@
 {% if include.params.attributes -%}
-    {% capture src -%}{% include jify function="extract_shortcode_att" attribute="src" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture width -%}{% include jify function="extract_shortcode_att" default="100%" attribute="width" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture height -%}{% include jify function="extract_shortcode_att" default="0" attribute="height" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture allow -%}{% include jify function="extract_shortcode_att" attribute="allow" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture frameborder -%}{% include jify function="extract_shortcode_att" default="0" attribute="frameborder" attributes=include.params.attributes %}{%- endcapture -%}
-    {% capture allowfullscreen -%}{% include jify function="extract_shortcode_att" default="true" attribute="allowfullscreen" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture src -%}{% include dynamo function="extract_shortcode_att" attribute="src" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture width -%}{% include dynamo function="extract_shortcode_att" default="100%" attribute="width" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture height -%}{% include dynamo function="extract_shortcode_att" default="0" attribute="height" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture allow -%}{% include dynamo function="extract_shortcode_att" attribute="allow" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture frameborder -%}{% include dynamo function="extract_shortcode_att" default="0" attribute="frameborder" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture allowfullscreen -%}{% include dynamo function="extract_shortcode_att" default="true" attribute="allowfullscreen" attributes=include.params.attributes %}{%- endcapture -%}
 
     {% if src -%}
 <div style="position: relative; width: {{ width }}; height: {{ height }}; padding-bottom: 56%;">

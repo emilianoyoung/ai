@@ -62,7 +62,7 @@ layout: home
                     <h2>You may also like these apps</h2>
                     {% for app in site.data.apps.related limit: 4 -%}
                     <div class="appbox col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                        {% include jify file="_includes/single_app.html" from="custom" mode="exclusive" %}
+                        {% include dynamo file="_includes/single_app.html" from="custom" mode="exclusive" %}
                     </div>
                     {% endfor -%}
                 </div>

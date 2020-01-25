@@ -18,7 +18,7 @@ The widget title is not displayed is the tag cloud is empty.
 <section id="{{ widget_tag_cloud_unique_id }}" class="widget widget_tag_cloud">
     <h2 class="widget-title">{{ include.params.settings.title | default: STRING__TAGS }}</h2>
     <div class="tagcloud">
-        {% include jify function="render_tag_cloud" 
+        {% include dynamo function="render_tag_cloud" 
             hide_empty=hide_empty
             smallest=smallest 
             largest=largest

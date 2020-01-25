@@ -1,5 +1,5 @@
 {% comment -%}---------------------------------------------------------------------------
-Always have {% include jify file="_includes/head.html" mode="inclusive" -%} at the 
+Always have {% include dynamo file="_includes/head.html" mode="inclusive" -%} at the 
 beginning of the <head> tag of your layout.  You generally use this partial to add 
 elements to <head> such as styles, scripts, and meta tags.
 ------------------------------------------------------------------------{% endcomment -%}
@@ -18,9 +18,9 @@ elements to <head> such as styles, scripts, and meta tags.
 <link rel='next' title='{{ page.next.title }}' href='{{ page.next.url }}' />
 {% endif -%}
 <script>var currentPageUrl = '{{ page.url | downcase }}';</script>
-<meta name="generator" content="jify" />
-{% include jify function="enqueue_script" for="jquery" %}
-{% include jify function="enqueue_script" for="jify" %}
-{% include jify function="enqueue_meta_tag" for="favicon" %}
-{% include jify function="enqueue_meta_tag" for="seo" %}
+<meta name="generator" content="dynamo" />
+{% include dynamo function="enqueue_script" for="jquery" %}
+{% include dynamo function="enqueue_script" for="dynamo" %}
+{% include dynamo function="enqueue_meta_tag" for="favicon" %}
+{% include dynamo function="enqueue_meta_tag" for="seo" %}
 <!-- end system head -->

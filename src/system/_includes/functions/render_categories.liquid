@@ -5,11 +5,11 @@ Description: Render a list of categories.  Each category is linked to the catego
     archive page.
 
 Usage:
-    {% include jify function="render_categories" forbluemat="flat" separator=", " %}
+    {% include dynamo function="render_categories" forbluemat="flat" separator=", " %}
     The above code renders a list of categories for the current locale in the flat format.
     Categories are seperated by ", ".
 
-    {% include jify function="render_categories" 
+    {% include dynamo function="render_categories" 
         num_of_categories=10 
         order_by="size" 
         order="DESC" 
@@ -67,7 +67,7 @@ Parameters:
 {% if num_of_categories != 0 -%}
 
     {% comment -%}Get categories{% endcomment -%}
-    {% include jify function="get_categories" 
+    {% include dynamo function="get_categories" 
         names=include.params.names 
         where_exp=include.params.where_exp 
         locale=include.params.locale 
@@ -80,7 +80,7 @@ Parameters:
         {% comment -%}If category size is needed, get category sizes{% endcomment -%}
         {% if include.params.show_size == true or include.params.order_by == "size" -%}
             {% assign category_archive_settings = site.taxonomies.category.settings.archive -%}
-            {% include jify function="get_posts" 
+            {% include dynamo function="get_posts" 
                 post_collection=category_archive_settings.post_collection 
                 where_exp=category_archive_settings.where_exp 
                 locale=include.params.locale -%}
@@ -112,7 +112,7 @@ Parameters:
             {% assign c = c | plus: 1 -%}
     <li class='{{ include.params.list_item_class | default: "category-item" }}'>
         {% if include.params.render_category_function -%}
-            {% include jify function=include.params.render_category_function 
+            {% include dynamo function=include.params.render_category_function 
                 category=category 
                 size=nonempty_category.size 
                 indent_level=2 %}
@@ -142,7 +142,7 @@ Parameters:
         {% if c > 0 -%}{{ include.params.separator | default: " " }}{% endif -%}
         {% assign c = c | plus: 1 -%}
         {% if include.params.render_category_function -%}
-            {% include jify function=include.params.render_category_function 
+            {% include dynamo function=include.params.render_category_function 
                 category=category 
                 size=nonempty_category.size %}
         {% else -%}
@@ -181,7 +181,7 @@ Parameters:
         {% endif -%}
     <li class='{{ include.params.list_item_class | default: "category-item" }}'>
         {% if include.params.render_category_function -%}
-            {% include jify function=include.params.render_category_function 
+            {% include dynamo function=include.params.render_category_function 
                 category=category 
                 size=category_size 
                 indent_level=2 %}
@@ -213,7 +213,7 @@ Parameters:
     {% endif -%}
 
     {% if include.params.render_category_function -%}
-        {% include jify function=include.params.render_category_function category=category size=category_size %}
+        {% include dynamo function=include.params.render_category_function category=category size=category_size %}
     {% else -%}
 <a href='{{ category.url }}'>
     {{ include.params.before_link_text }}{{ category.display_name | default: category.name }}{{ include.params.after_link_text -}}
