@@ -8,7 +8,7 @@ ampUrl: https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recog
 cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: https://img.cinemablend.com/quill/c/a/f/e/4/a/cafe4af26bbaae7202ee6c7b7d447eb9ae15e12f.jpg
         width: 1200
         height: 600
+  - title: "Want your photo removed from our facial recognition database? Just send us your photo and government-issued ID…"
+    excerpt: "My hunch is that you wouldn’t be happy when you find out a company has been scooping up the personal photos you upload to Facebook or Twitter, and feeding them into its facial recognition database without your permission. But that’s precisely what a controversial firm you’ve probably never heard of called Clearview AI has been doing."
+    publishedDateTime: 2020-01-25T08:25:00Z
+    sourceUrl: https://www.grahamcluley.com/clearview-ai-facial-recognition-database-twitter/
+    type: article
+    provider:
+      name: Graham Cluley
+      domain: grahamcluley.com
+    quality: 19
+    images:
+      - url: https://cdn.grahamcluley.com/wp-content/uploads/2020/01/clearview-ai.jpeg
+        width: 730
+        height: 380
 
 secured: "J1eJ2TDMojnt/OYqHYtihK/1a0Yc7YunA+MWpm/Mh9e1ji0sehL8CLzSoODLJors42+7m2iVD6QSMZrrVsGzDpaC8R1u8dSDmmb+8zI6+bsoDiDNzsmqMx6Th7y7OKXdJl+XBEXcxi8LEW+5vMgyzz47YUULKug/3Kj+FyxUNPQm03xFAWn08UxrmDkFhSMnN/gczQXbFf5NCdML/n/Tj8zfgEC7aXSDSkdWUFEPv38Vpv1xOl0xp4+XsfZiLniV1UuqLsa22KDGhukWw0xybWQUoG4UHiJY+orXN7+4464RdcofBu+dl07zoKvIJZHn+hPnvHhKhEENVjsqHHeZVr+Tvscg1psjd3ujcshl2mK+SApb9QSr/OmA7XIh/DrwsIPSNslT66iMZqoZ7t7BMvaSIl0LZ5ZxGgxtj333rSs8LRlc/vHphjMcaUPxe+dTmMh2fl5mKwcUUFf3N3dTqQ==;0BH7gOMZGLXLz7OsEHqA6A=="
 ---

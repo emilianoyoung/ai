@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginner
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 630
         height: 500
 
-secured: "DWc727WB5kWCvOnPL4mmUYeSLRo1lYelmOzxi0cbep8fsBBgTMVBCiOgTKDxnEbAkuQxnTNpaFZH87EjNDH5Gcj7CFyvpXF4WxXcQ/yKuSisV+zpL+o/7j8tuAEFKS/sz+HxhMy+soAPOYfThFL/Iq9WG+wS2DjwZzgI765ksjNs7yWjXlWR/04YujiDpZVr6Mk1fWxdO1Lis3KFP82f3Gok7fao4ub1rRrOJu+fXuMv3UliO3seqXF+Olm7T7TWE1E5sxXNv0Bm/LD+V3gIPiQ4h6tm7KPEt4lBsDUT0BNAyIyKITnol8Y9uZu4Sqjv;t0lUpS6545ghpqV3374sAg=="
+secured: "IHJEsf9Epz79c0wJOWhKgWPoE8GqUdRcHDdDkxYi9lz8N7df5Fm8Hwbj4ozymTPyyRlZUKRWJMGqJiJ10+8xQVq3Qw2NHxlgkewjHAIe2p2zrVQEPZuS2x5+zhBUVoN2bWMfZasN04JpOmzENbCaER/8NnP4TsOWex1iM3NWnP1tohxxV8v/APSJ/EatTDnFcEWXqOzsRXHKJAn1mCTqhNCP/e4eMjLqrJmQsKgBeye18YgpaP2H6zcLOG+pmnpRiZIBT4/7r0CBOJLcap5ZBiQRh3Pm2fxRhewBI6LBQIRNMgGH3oDJm39EwFmVPwfY;rdXcqFdIyXpgoXhz3LV+kw=="
 ---
 

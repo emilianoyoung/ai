@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/facebook-messenger-may-soon-use-face-recogniti
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 796
         height: 419
 
-secured: "muC4L4HGALNeZGv3Rd36+G/tQyZWqrsjjNcv6NH0nQDZ3Ovz8RCTfeLGQzf+FDiZIqINb1tKxX4/dPzyDPWNPz+VHyxffEzapneiauz29eVzmiY+R4uaDKrfY4JLaxEHJLuQOTp/IjM0Rv7Sb0EFWo/j9GJHK9Jdnjp6MX3EMyoi54VIU60kUzms+Y63o0BivqOLZbVjXyNYQ5nzfqba0gNLdOQLBbNKWpPIEjPZD3emcWMFMVk5IJjUfuh9FV5sUR++CWBslHLWYQp+gyec5A/mALppIOmtsJm/HdEdS8fn8fh9z7WmbyWAoLUnz6DVk8C9SL3nlOCQFhEzdH63FyPSzDB3Qu1vUMZ8dGNsYAx/+6j/B1SCt6y5/1oz8+mtHuaxRh5klmlNqF3F70WhKi6FIF7LhbKtGw4m17LLs38RhmdmAY/MFaz7o7jG1g6mLjCRaEDwC6PVNrqHNNuXvgR1dXmTEXIiHnimzgW6a68=;TZGSndqwn/BvSieN4ZXDSA=="
+secured: "fd35tbsEkh/YdSy5B80QseuFxMge+53UzDBQrItxIqm+hbSsAMMi2r4dBCz0olFWX011QxYUz56lRSFNT2QLKAYJqNNcNAM+w/uTu7wh6iCCSMIhB3Qv0u39ewFGgdKfvk4fMw4mO6jeNmZzH3rh6qjixTWdT/tZ6tdIAqNssFXK68J8EtY56UNrjexJ7/NG21pzhaqFMDyreJhqp4vguyfUrrY9l7o9iuvexD7tktKG6R/ZDP3uccbjvFIVZGmJBNWZwW1b991jWusM7iV8LxCpPaaoGWJZoArEOEDJ6mk7g1qDzXoQFTUDeTa/wjIoQvz8kWzJqk2Om+7LnUq1wa7C+MvJqL1uHMRBdM6LYsszekV+MexHr2AhP9AT+cooSjwc4LhhIsYQx61/y+nOqEBFQh7e8MnxLrRzlMDz2vSKxQVvo2Rkyc/aS9Qjo38kVh7PoCSgSXYKcx+uRQEDJ6MoAN7h5XYqNFqOa6yG5Gg=;ZsNZlYmM39eZfmgv4XZPIA=="
 ---
 

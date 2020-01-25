@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/23/intel-ceo-were-confident-in-the-futur
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/intel-ceo-were-confident-in-the-future-generated-3-8-billion-in-ai-revenue-in-2019/amp/
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

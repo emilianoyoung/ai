@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-futur
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Seeing A Better Future For AI"
 
-secured: "XFFR5OUGDjOkNfAFPsW5QhvNUlTCLpJbLpQtqxEml85Zi1CsE/kkBGrjsR6yNxrX1jnNvexJOTje9bnYDSkNIq2NHiyZM1mlXves/EsJFBV5gSEbpbH8cha6MO3WOH6g2vfrZfX9n9P2rxV2wN7ONNOqhY3cumzLeNmnTU84IrDAmZeCZ9kIlLrohvHsqRfOO8BauyWd8+5KXEakGA9XItcTTDLSR9zlfQh6COllEF2f01oz2VVbqf0scbjxcQFIOIRhpbeoSkCix6Dz/TKhg/FrT/xDphTZq/veF4sPNfKtrj60YmqKxVg2mFQ+Je4JjmMDvUL9CxxgK5gwMgt+7/aloEzDMRngdkXW4tdVMQ1hgzb/vo6vXOc238uo5o7wBff1CHzlDqEFl8Ed+YLGgkpSYutRVk5b/Lzr9U/HRV0OnNFmKR6Yelt1NYwYnfO5LzcLBrJPfa9KSN/MlcaCNCwzQvb5zsSa8DaSxTpZ7E4=;P8IyRIx3W2VOQD/zs3il+A=="
+secured: "j0F0yNErdjlCwzes9R66haZrd/L+ko5UZiMfOZeEg2YrFNaeu9GeSut0c8wBBHFIe35T8bumzno7THT2qf05aSfZprREMlla8XmQlGXjZCVsAbXpEiuGXmwBVM3ZYOYmTisv9wcFmzrfd6FoY3jXJcRRkmBid6JxxNbUPY6tiIwl2eSWnBj5AK/pYQM+N09zMzhlELSG0kpMkhQZxB/rLg8SUG+ba3Q5ndEbKDNrVooS71/UznM+0vAtkoCmSBEvMRCuR5W75XEphNdnJp1h5KHp/6lLqk8QRC7+spi6pUL3RrUg2e75HrbfS6Z2sMLtadiQxRlevHUsh/seNciIGnRCZk+nx8jaWtVowRQkwlS7BJjrMUIeZF7cfPtwXyK5YB4q/sga2SxolGRSeIB6cieHCBOFOAicpjzzadjrJOPzyOYAb7gbgkOCfY4Xlz+lV16bXiDqSiw5Gs+6zrql14HMWUyOK24UnFiqZQkmMjc=;lKDRfwoC0rnQ1HbYUZjlBQ=="
 ---
 

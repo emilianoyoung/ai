@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/amp/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

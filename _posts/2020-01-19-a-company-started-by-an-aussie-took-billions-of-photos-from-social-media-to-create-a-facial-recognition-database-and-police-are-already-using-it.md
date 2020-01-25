@@ -562,6 +562,21 @@ related:
       - url: https://i.guim.co.uk/img/media/45c2df697a98316f59a3dc14ee1bcb27bb2b4aba/0_94_3500_2100/master/3500.jpg?width=605&quality=85&auto=format&fit=max&s=3a6698f9b36d3cdd8fcc3e6ad0aed500
         width: 605
         height: 363
+  - title: "Facial Recognition Cameras Coming to London"
+    excerpt: "Whether you think it’s a brilliant security measure or an alarming violation of privacy, facial recognition technology is booming right now. The latest controversy surrounding its use comes from London, with the announcement that facial recognition cameras will be permanently situated around the city. The Metropolitan Police announced the ..."
+    publishedDateTime: 2020-01-25T18:29:00Z
+    sourceUrl: https://www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london
+    ampUrl: https://www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london/amp
+    cdnAmpUrl: https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/facial-recognition-cameras-coming-to-london/amp
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 59
+    images:
+      - url: https://www.insidehook.com/wp-content/uploads/2020/01/london-camera.jpg?fit=768%2C510
+        width: 768
+        height: 510
   - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
     excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
     publishedDateTime: 2020-01-20T17:27:00Z
@@ -824,6 +839,21 @@ related:
       - url: https://images.tech.co/wp-content/uploads/2020/01/24164816/london-met-facial-recogntion.jpg
         width: 1920
         height: 960
+  - title: "New Jersey cops told to halt all use of controversial facial-recognition technology"
+    excerpt: "The state attorney general is ordering all New Jersey police to stop using a powerful new facial-recognition technology that’s pulling millions of photos from social media. The order was issued Friday to county prosecutors, concerning a New York-based company called Clearview AI. “Like many people, I was troubled,” state Attorney General ..."
+    publishedDateTime: 2020-01-25T13:13:00Z
+    sourceUrl: https://www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html
+    ampUrl: https://www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html?outputType=amp
+    cdnAmpUrl: https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/01/new-jersey-cops-told-to-halt-all-use-of-controversial-facial-recognition-technology.html?outputType=amp
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 38
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/KP4ZEP4EZVEE7EUKABDLB57CO4.JPG
+        width: 5472
+        height: 3080
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z

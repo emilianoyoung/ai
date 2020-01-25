@@ -335,6 +335,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F823b5d34-3eae-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Facial recognition cameras to be used across London"
+    excerpt: "Facial recognition cameras are to be deployed across London for the first time to help police target serious offenders, the Metropolitan Police (Met) announced. Technology in Britain Metropolitan Police camera In a major new move to fight violent crime, \"watch lists\" of Britain's most serious offenders will be developed to facilitate live ..."
+    publishedDateTime: 2020-01-25T12:44:00Z
+    sourceUrl: https://www.poandpo.com/news/facial-recognition-cameras-to-be-used-across-london-2512020542
+    ampUrl: https://www.poandpo.com/news/facial-recognition-cameras-to-be-used-across-london-2512020542.amp
+    cdnAmpUrl: https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news/facial-recognition-cameras-to-be-used-across-london-2512020542.amp
+    type: article
+    provider:
+      name: poandpo.com
+      domain: poandpo.com
+    quality: 59
+    images:
+      - url: https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0120/metropolitan_police_camera.jpg
+        width: 1200
+        height: 672
   - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
     excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
     publishedDateTime: 2020-01-19T09:50:00Z
@@ -350,6 +365,21 @@ related:
       - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
         width: 1024
         height: 768
+  - title: "Metropolitan Police Service now using Live Facial Recognition technology"
+    excerpt: "LONDON – The Metropolitan Police Service announced Friday that it will start using Live Facial Recognition (LFR) technology. Met Police says the use of live facial recognition tech will be used in specific locations in London. They say this will help tackle serious crime, including serious violence, gun and knife crime, child sexual ..."
+    publishedDateTime: 2020-01-25T19:55:00Z
+    sourceUrl: https://fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/
+    ampUrl: https://fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/amp/
+    cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2020/01/25/metropolitan-police-service-now-using-live-facial-recognition-technology/amp/
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 58
+    images:
+      - url: https://localtvkstu.files.wordpress.com/2020/01/courtesy-met-police.jpg?quality=85&strip=all&w=1200
+        width: 1200
+        height: 800
   - title: "Police introduce facial recognition cameras to hunt ‘watchlist’ of criminals"
     excerpt: "Scotland Yard has announced plans to use controversial facial recognition across London, despite concerns over the technology’s accuracy and privacy issues. The Metropolitan Police said every ..."
     publishedDateTime: 2020-01-24T11:57:00Z
@@ -560,6 +590,45 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
         width: 1024
         height: 576
+  - title: "London Police Deploy Controversial Facial Recognition Cameras"
+    excerpt: "Facial recognition technology is more widespread than ever — many people have phones in their pockets that use advanced sensors and algorithms to make sure no one else can access their data. However, law enforcement is also increasingly using facial recognition data to scan crowds for known criminals. The city of London is the latest to add ..."
+    publishedDateTime: 2020-01-25T12:11:00Z
+    sourceUrl: https://www.extremetech.com/extreme/305288-london-police-deploy-controversial-facial-recognition-cameras
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition.jpg
+        width: 810
+        height: 456
+  - title: "Washington Post: Facial recognition software threatens privacy"
+    excerpt: "Privacy doomsayers have always said that the failure to regulate surveillance technology would result in the end of anonymity. But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint,"
+    publishedDateTime: 2020-01-25T05:15:00Z
+    sourceUrl: https://www.omaha.com/opinion/washington-post-facial-recognition-software-threatens-privacy/article_773a0ed9-fd11-5243-be10-f91711809bd0.html
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/c5/1c5209a2-538c-52cf-9de3-6ac39f163359/5e2b59269014b.image.jpg?crop=1766%2C993%2C0%2C89&resize=1120%2C630&order=crop%2Cresize
+        width: 1120
+        height: 630
+  - title: "Students nationwide fight to 'Ban Facial Recognition' technology on campus"
+    excerpt: "A new campaign calls for colleges to ban the use of facial recognition technology. Some schools have already begun using the technology, according to reports. Students for Sensible Drug Policy and Fight for the Future, a nonprofit advocacy group in the area of digital rights, are working together to launch a campaign against colleges using ..."
+    publishedDateTime: 2020-01-25T22:33:00Z
+    sourceUrl: https://www.campusreform.org/?ID=14269
+    type: article
+    provider:
+      name: Campus Reform
+      domain: campusreform.org
+    quality: 37
+    images:
+      - url: https://s3.amazonaws.com/campusreform/14269/bigstock-Simulation-Of-A-Screen-Of-Cctv-285169480.jpg
+        width: 903
+        height: 600
   - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
     excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
     publishedDateTime: 2020-01-24T23:06:00Z
@@ -575,6 +644,19 @@ related:
       - url: https://cdni.rt.com/files/2020.01/xxl/5e2b1ec285f5406a5c364e7c.jpg
         width: 1240
         height: 697
+  - title: "Government watchdog attacks Met Police over roll out of facial recognition cameras"
+    excerpt: "The Metropolitan Police has been criticised after announcing it will start using facial recognition cameras to target serious offenders in London. In a move to combat violent crime, the force plans to use controversial new technology to carry out live checks in popular locations. The cameras will target suspects involved in serious violence ..."
+    publishedDateTime: 2020-01-25T22:28:00Z
+    sourceUrl: https://politicshome.com/news/uk/home-affairs/policing/news/109365/government-watchdog-attacks-met-police-over-roll-out
+    type: article
+    provider:
+      name: PoliticsHome
+      domain: politicshome.com
+    quality: 33
+    images:
+      - url: https://res.cloudinary.com/dods/image/upload/c_fill,g_center,h_500,w_1120/v1/polhome/UK%20public%20affairs/pa-49806341_inv3p9.jpg
+        width: 1120
+        height: 500
   - title: "Facial recognition to be rolled out across London by police, despite privacy concerns"
     excerpt: "Police are to start using controversial facial recognition across London, despite concerns over the technology's accuracy and privacy issues. The Metropolitan Police said every deployment would be “bespoke” and target lists of wanted offenders or vulnerable missing people. Assistant Commissioner Nick Ephgrave said live facial recognition ..."
     publishedDateTime: 2020-01-24T10:36:00Z

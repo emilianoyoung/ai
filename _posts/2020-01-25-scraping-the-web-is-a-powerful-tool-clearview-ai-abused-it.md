@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/clearview-ai-scraping-web/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp
 type: article
 quality: 87
-heat: 137
+heat: 139
 published: true
 
 provider:
@@ -91,6 +91,6 @@ related:
       domain: indiatimes.com
     quality: 37
 
-secured: "vzFz6R9g0PVknBaFiKvTxZjWJeKAGtpPuo9xURw2TR5XQDBPym9EYHxr2fCcVrEOr1SMrwtLHMhS14Lp1aeJpDh7UKuNSAftEmZFwIukH4jpAh5mVa4zi0bgJxz29KkYZPo92wk/CeO3nYlsMoA102oV1v3BXUpnwBgcUYcQhp79aQG6iZhncOpfy+0O7JvtwAckA0/UHAV9l0b4FZ0wfXpB08lBsZhGhDeEk+xjZBMtjKbysSMWqC8fO76vmDh8F242qiJk897PWexpEZZcXwODP3sXVAbpoQzIsyjclCU75t8zXgYvheuYEGoQRu0WyPeZ6ouDRO7YhOGGL9aCozz7urbjz8cxlhVJTADOp2FuViFco1FLfTWW+bvmWiDk95YdQjAW9qV3ltp8kcTsAxve960d1qkOZb5zpgZKbiww1/grn0fcuzQFCO+GKrpXLLtOq810K4XoYXlCFjbbwW2IjkSwgzxJiA3wsEC9yl8=;H0UFxJfay48u33b7slComw=="
+secured: "V7XKouz8JjZLJeFeiQIdFj2vzQZdZ3++rYTc8dZViZOtQ5aYhugJ3723Vey1pP9ZqFW+C0ST1XIROf0PgJeEuCJ2XTIWStkktEFR7EBECwn1wAdDh+JYheESwiIJaePTnqTkqO6WCbib6f7FO5N2GjowD3CQrXEwh5VRH+gzF5YCqT/2kJT13XgvxLRgdivBnCudEUu9RGlPxwSuEz262Adu9ondpQSAKa47sSPcZSzGILIkk4BMp7CJ6Btb4UClkuZvbfypGjbyL46ULnLsnoMnoaA6l1ERXTbhx3H0+I57G+9JRRer7EttGztQ0wWV5kdkK9WwIMyTaatco+QyQ/s5Ahnd6o3ICRAL668Bj2a/BF+ZwuUEjbS3NCTEJ1z/0XK1pjS/bcaUX8usR1r+CWQcyru6o8cBosH6aVerBAeH4IGy/wX+kUe2cuc1ynzdRb/nn53MSmbG8a8oZT2QfsBo6dW6MROQ2YTUTpVZcYc=;O9JTzpsyCHcIJwJmfJmylw=="
 ---
 
