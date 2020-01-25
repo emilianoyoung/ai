@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Cloud Services Survey Reveals Critical Need for AI-Driven Continuous Optimization"
-excerpt: "/PRNewswire/ -- Opsani today announced the results of a year-long survey of hundreds of enterprises running cloud services that revealed a critical need"
+excerpt: "Opsani uses AI to automatically adjust resources and parameters across the full application stack to continuously maximize efficiency and deliver a better customer experience. Plugins for AWS, Azure, and GCP customers are available for GitHub, Terraform, Jenkins, Spinnaker, Wavefront, DataDog, SignalFX, Prometheus, Splunk and New Relic."
 publishedDateTime: 2020-01-23T14:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-300992032.html
+sourceUrl: https://markets.businessinsider.com/news/stocks/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-1028840015
+ampUrl: https://markets.businessinsider.com/amp/news/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-1028840015
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-1028840015
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 64
+heat: 64
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: https://mma.prnewswire.com/media/891003/Opsani_Logo.jpg?p=facebook
-    width: 636
-    height: 335
-    title: "Cloud Services Survey Reveals Critical Need for AI-Driven Continuous Optimization"
-
-secured: "1n0X6c4IRJ03Wncz7YWgmEb/10zxLXNXmh1fIY1oNUBx14w1L78zvS4t2vqX90h7GqbgaVvBxuGE1hHNfdFwoiHAsRmtkE3IHKNm6ajRJvdBWNeOjSEgU5cYGtENpsX2UScMvjqUKF5nA6vP2VauJpfjimIQou7legX+C2FCS31rJQJzj9STF0usVi1k4Y8uhzsjUMS/DkGmVg3uWSivu4XoMOjD9e9rgXfyNppBr3NYM8E6Eao8QliObRt9QXhh4rSeL9aHk7loro79Fv2cDsjn2uS5OTKCL451hfu2kq6EZI0TBz+jFfbUTLFlAySz;oBkOBrswupNwG+FFXK0t5g=="
+secured: "DEIZYvEZLRCanOC5o95HEq7gnb/VGERs8teFUl0v5hqUm3J0nHhV7hemo68Y2QtdX9QmdTXDZp1jdRRcJU5NK1ZBmjw3FPf8a1Q4IYDXKxDmL5Ymtv1ZHivSVzdP1OprVv8YmN5EhHgHR0UbLDg3DSoaJl3Kv2jZvM5Pf8AQYmUh9LB0oCt204im8UmYn5XLSzj5yjqqPYAINwV+QSRcqNQNFOwkICvoPDir3IIi0pMtdWn9yYYT2COnyMNrMz8RNnrFi/EFlCo2d9n9UpKmxG4xuatmuUge4mzxCXv2VZznVkRtCYnG5iReVZFI1nda;rHYR3kyYmDR/5mbEd9iH1w=="
 ---
 

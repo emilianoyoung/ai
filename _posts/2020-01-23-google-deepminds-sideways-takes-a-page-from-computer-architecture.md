@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-deepminds-sideways-takes
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-sideways-takes-a-page-from-computer-architecture/
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 794
     title: "Google DeepMind’s ‘Sideways’ takes a page from computer architecture"
 
-secured: "fM6vxOde4+sjco/w6esUKFgHacSk40XRZKYtScUo9Tvwk65Kt1ktBquFI1fUKeLjZrST2lW2u2T87Xd+aZr3WZhZTgwZ48M90OGdQGqYB/xUyk+UUCApBre0oq+uuEfmW4cGiKqlF2rN2mukxp+k8xKifOuw2jGxq4gYqcqY+728nVb8Ftfl+C+Z8v6q5JbDWiUW5TgiwPL6LQcmZnKdyxmk0NnJKISy4xQ6d/+FkHq5l9SBtk9Mj5trMx9Gcps1Ly2J6s7XyZTe3rYkNc7wFFka0hmf6/aSt+ZJznRH0sKQd+OqxKfm0EEOtl8QyDAWkc6G7G2VqgJVuctLn7x22uvgh6AdLJuKzbaYmwYhzASZPIytJ7bRHFdNBKmDo9wPpgx/iWXx8wfn63z9kivM4cfKid4bBMuj0lM7H0wlAKjxMJyFUqv5O4UnhKptQAXH66sYW9fSe9IB3X/Lpv3jdza5uJDexPwyw+eG9YxQeho=;FRTH/HeWGZ1OjCflrlBICQ=="
+secured: "+RQjWutCtUVJZB84s3hGXPWIL12k12XGrT8qacYua9GfFiQdNFW3IKhku2ETiE6ya2Xxk7wbFIObNAxBWGTS7hAM+aQ7yBqsUdsP6yOZOzfHePOmY1vlTyI2QIZElSgak5jXvPBWEws6tBroK6HUldpR5jASkfDwiEy5Zi0p9MNB6r7yenfHlNpjBJ04G3vv3udpeJL6pl5f49o4RfzmOwNJz3HrRYENARZX7gU7U7bsqTlDDA+68mwPIyiYqIUKzuHQ9OMaEA/Fs+o7rTh8avarQjkmIwPv0XTsb1HQjkDU7dA3c1gggPpN8MrQ/ZHPOvLduOn0B0oWeOHTvHHVNKsWDqgfW1sPIfQWkKCxqSHwCv4NCteRm8wSAvhzSGesJqI0BlBFR56NmDfiSlSKi46OKW9u+JKMsg+qDHczxlXCsGEbtND0CGAEik9oZDFO3dlyebkmrRO+1UM91qBhyoxWoKvk1ulPSsMH8Qn1Bkw=;VUbnOUBuCCJmaA62RzB6Mg=="
 ---
 

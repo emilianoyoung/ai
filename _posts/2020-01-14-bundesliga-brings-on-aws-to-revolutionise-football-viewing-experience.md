@@ -8,7 +8,7 @@ ampUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-re
 cdnAmpUrl: https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
         width: 600
         height: 378
+  - title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
+    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts. Using AWS technology, Germany’s premier ..."
+    publishedDateTime: 2020-01-13T12:24:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005382/en/Bundesliga-All-In-AWS-Revolutionize-Football-Viewing-Experience
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: https://mms.businesswire.com/media/20200113005382/en/766965/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
 secured: "ogeXubDrHLL897EomKnGJ3au6x4hYaGZoQCS6NL4OT3pfUWyvLtdUNyvjR+3cmDYEcnohIi6o4aNzPV4dTmvd1xld7t15GiUCrkArbifqXbEOCivRX/17mG+c8BCysH371wtbhmQfp5/H2X7V9rnBkLEL/hFU05qR2SaeSR5oE3xcKLyO7q6kybBxoWSwt3cJbbKsnkSTd6OSAPmVYPnRYNhB3a4XeOZ5zkLJXgU1mhKVU3OQMZBKceniuFxDI+GqeuY2uqKweuudyoINpY7xglRrx5PipBmWANSSvilvTesHuHd2ZuIEBPgGw/sOfFU6CzAEsndfGxWYybr+eKKLvaUTH7OU87Tojnd2iy1r41veUzRoPiuFhtkcKPzrifNUbsVSdK/jco8VQDi69FpLimqZESllfxl0s7RVLXjK0d7J5G0MpO5vVzInnCr4Qqr3aoN+TNzgqhA92ZEi6sKsQ==;7oi3UGKm8Gugc5xRSSRssA=="
 ---

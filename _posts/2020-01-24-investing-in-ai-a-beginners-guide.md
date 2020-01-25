@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
+excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -21,8 +21,9 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
   - AI Hardware
+  - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
@@ -45,6 +46,6 @@ related:
         width: 630
         height: 500
 
-secured: "bIA9vMuP2Fv8XmocFYojOcC3uSSoafJSPq/K1KOIOlo6X5V7hbQnvaHw/ev9Lh53orGcv5UOgD8eENIdcfSJAF3h2sxqkfxF4CLDVeuxNXgH/6Vn821dPyVKuoUWVu+oXss5AT1Yo5ADVpxnuc4gbbYo4Xy5dwarOZkA0YFuqnJOPQ6UN5bXBVwvYWVmU2swL2NWcflN6vYlytO/SEgqhxJRARbJNM7qkLHm7mMudjsnT7H4JUawg4qsOnfgV5rJymFqWQyo6QQu0yXAv179zjVQ9oDrSJN0QYCwTACMTnYShaHSqfGHhn9MP2Bpg762;z56TC4vZLGz/Fln/RDzF9w=="
+secured: "honjnLf1lTl1q06JSRT9a3KEbJqndPvAy53OXLgfaoo+wux+SjV3anEXuDonBRnBia1crpJwy8YmOjtBs982N2JyQDF2DYExG+H/EvNOrQduEv93SW1oXJ//vYSvSdtpkeMzC6px23Z709oH/+rwzL2VFDLi+E0zHzLTxdnXUZPaR/zqzXE9EBdx4L37DBA1DrJdsg/ordyBTpYbG5AUKQqBUf/OMT1GMnfLNAAhcbzN0yFoSTzdu9Go5qk7lyjOuX32VuLVjVlxFE4Uh1Kcvil2590upEqiOi4CZszvvZbn9t63TFXTEz5t6hB4TGTQ;YMj8BibZclbFdp3vaEJ9WQ=="
 ---
 
