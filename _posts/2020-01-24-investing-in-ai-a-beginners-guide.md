@@ -1,33 +1,26 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
-publishedDateTime: 2020-01-24T19:00:00Z
-sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
-ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
-cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
+excerpt: "The rise of artificial intelligence has the potential to be one of the most significant developments in human history. Today's machines are already getting better at interpreting data, recognizing patterns,"
+publishedDateTime: 2020-01-24T15:00:00Z
+sourceUrl: https://www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24
+ampUrl: https://www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24?amp
+cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai%3A-a-beginners-guide-2020-01-24?amp
 type: article
-quality: 95
-heat: 105
+quality: 89
+heat: 99
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: /assets/images/organizations/fool.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-  - AI Hardware
-  - AI in Autos
-  - Microsoft AI
-  - Natural Language Processing
+  - IBM AI
 
 images:
-  - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
+  - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700
     width: 700
     height: 466
     title: "Investing in AI: A Beginner's Guide"
@@ -47,6 +40,6 @@ related:
         width: 630
         height: 500
 
-secured: "YwCx3AThW5qTzLHIWBqXsmiTlcm9DA1UJIcwfq3Rd4k7V5CTgO0CwiLzEqFOxCnSwQACD4pm/OirihoVGsOY+O51wxha48qu6KluEEfvVIUkX2ZJ6K5DrR16sTpA9bIs7SYD1/lmo06jNqkQWAdbWPWhN/9fs685fogxHDJacGTIdnwGRPtJAwg2d/msVGtaaU0g3A7wtbZIi1WVkhyzDfd0DwzIsaYVAy2B2fmSG67TwmBsT/mHij0fJe2fAZXG3Aw3Eyx4Jv9XgKpx9abBhesSoLC36E3oVUs7ZB4LQWdEVSPmtCfAO3gC5Ivuw6gGdtqOH02N8ETwaMfPIjlueRU1Ps+crwIxarXRibglr+e/r2OHqmifwqN01Bm8Fn/Tvedwi38i427BX3esBqeTGyQaDax1dEgSDKBqByzt90yy6OEGYBFCO4Vgai1ZVScFr12Gwqxl0BQPrUz/MaKnrMboKUY1wA3T76WUwnvp9hc=;Jiqew6Joqq2dgqLI4xLQYw=="
+secured: "K308+4xWg/AI+tFGj/bdoGflm85jImP+3SmGNfPc6ztPKluHfMdeihymC0/ZPvl+71UGQ3m/2kZswjOsPl8fnocWR8sBQazv9bpTMSA4Yr0TYWcm5LOjwmgQZwqaFi8qq8Xo+MptWRPWUF8nnKN0MoWVkG9Jv0vNLBno78caUJ8yzI11HuLtkd//O+/nbwUPgxmtR5/5adxdhDxF3pC1ZSvaox4VN4yd78LKAo2ATzC0T82hCv0Ek+AO+nLcmbZcuqwo7nwEwYsKfHytP16M3h0ikL0vHMIVOGfPQgRifMD6wW0rGRweYyPo1XIuCbgP;uzqQ38QXtsMoZhiqcY2wfQ=="
 ---
 

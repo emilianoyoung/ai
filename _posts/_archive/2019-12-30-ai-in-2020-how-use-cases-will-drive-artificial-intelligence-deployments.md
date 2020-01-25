@@ -4,9 +4,11 @@ title: "AI in 2020: How use cases will drive artificial intelligence deployments
 excerpt: "Learn why predictions about artificial intelligence trends include ... cost savings across the automotive OEM supply chain, and self-driving technology is projected to be a $556 billion market ..."
 publishedDateTime: 2019-12-30T15:58:00Z
 sourceUrl: https://www.techrepublic.com/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
+ampUrl: https://www.techrepublic.com/google-amp/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
+cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
 type: article
-quality: 63
-heat: 63
+quality: 103
+heat: 103
 published: true
 
 provider:
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "LRa1wk4ByDjGSSj5uRbqcWmzMQLWLUFnoWT5ydTc/twfaKu9ydsXOvZrM1Ioa71jnuMEwOY4Zk6V0H0obZhn+NfHkTygD+NYzR8NqEDCnq33ev6+dus5GyheIOFYmf42zrJRvTE+b0Zxven35+Z90CGOF4h+RoKVmsmDz9NF7Zcr8x9F9N1M+XwKdu+Pv1XhQIxrNxV9fPZ3fYPh5LbucZw6kYuu1J2zOJFywPSB/+EOYSgJQO7jD4Yl2T7+y1ZX0HnZMu3ndC+GBqpUD+jJH8dp9ebFHAGuR0vi/9W5im63bWaVl65n78pH1pI518is;QIX8zoSFmYqYCSgA+O90KQ=="
+images:
+  - url: https://tr4.cbsistatic.com/hub/i/r/2019/12/30/1d648c0f-4760-4136-b873-d81d41107963/resize/1200x/0ca267f50dad0a49084f5dcccb3c2b75/istock-1167065891.jpg
+    width: 1200
+    height: 791
+    title: "AI in 2020: How use cases will drive artificial intelligence deployments"
+
+secured: "pu67sDk41zESmMd1+Q+wvsl9sDeGsLx8yQxbJJfZTK16sWKrSKsjwP6W/kDIfzM7borKLcfjRFHkCYzoQD25Q2agHuu6K/Ud5hmFZAWpTnRyi4xiHJ1iJCavzWTxd+m85vZi1aeAzBwzFFfngNYOdqgdn9v7fVy2pCR2AvVVPX1s/dribijCi8DHsf1hqiXC9u7uhexS/LRoy3A3AMaLbFRQE9P4n+1EIhDiqmj2mfD/oqE51IQQGvrHvsSkcoYk4mp0vQ+pku0Vgqbd1WV1sy6j6Idf/ST8SWKBVVUBm7jo7lQ4hTmrGJYhzLYaMCCg;/zN2pvmjkUFnW0f7I4I3Fg=="
 ---
 
