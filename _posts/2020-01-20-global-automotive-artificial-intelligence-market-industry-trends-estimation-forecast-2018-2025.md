@@ -46,6 +46,19 @@ related:
       - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Intelligent-Automation-Benefits-Across-Businesses.png
         width: 1634
         height: 918
+  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
+    excerpt: "The integration of digital technologies such as Artificial Intelligence (AI) and blockchain that rely on a massive amount of digital data is expected to further drive the market demand. The penetration rate of IoT chips is anticipated to simultaneously increase with increasing demand for digital data, as they are deployed for converting and ..."
+    publishedDateTime: 2020-01-24T15:45:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/world-iot-chip-markets-to-increasing-demand-for-iot-chips/article_76e346fd-1bd2-51c1-832b-f41f837c764e.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 9
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
   - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
     excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
     publishedDateTime: 2020-01-20T12:39:00Z
@@ -55,15 +68,6 @@ related:
       name: Australian Techworld
       domain: techworld.com.au
     quality: 7
-  - title: "World IoT Chip Markets to 2029: Increasing Demand for IoT Chips in Smart Manufacturing Applications Augments Robust Industry Growth"
-    excerpt: "/PRNewswire/ -- The \"Global IoT Chip Market: Focus on Type, End-use Industry and Region - Analysis and Forecast, 2019-2029\" report has been added"
-    publishedDateTime: 2020-01-24T15:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/world-iot-chip-markets-to-2029-increasing-demand-for-iot-chips-in-smart-manufacturing-applications-augments-robust-industry-growth-300992810.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "dG9qvtSrDMagT8615gnLvkZxtpmhUslum9i/GcO9c3PndqOqMugjpfszQdxTlutiDhgbBAGbweZ4ETbOXwsLcu7jLAObEIvmTx0a3Z7tlbt0SJ6S9iFtUD2bHBGmrVpk1eK7Ufe8IGfkre9p7JbmEXze64esd62BEfFtLqbXrD1zcd6/IyaM5vtgR4N43/K85+qiYTbcmSd2sXOXh4XV6/Jd/wvIaQDECz1UvQLrWt/anta4h852xj6oP53rsCSTKp7OTLDqnjc1DvRze+nSRbU6K58zXHeLCRtFu+R6+Ns=;3NjNmNKIue4/r0czdJ75dw=="
 ---

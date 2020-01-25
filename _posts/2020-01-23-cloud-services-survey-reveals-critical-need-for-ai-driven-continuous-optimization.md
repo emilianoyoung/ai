@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Cloud Services Survey Reveals Critical Need for AI-Driven Continuous Optimization"
-excerpt: "Opsani uses AI to automatically adjust resources and parameters across the full application stack to continuously maximize efficiency and deliver a better customer experience. Plugins for AWS, Azure, and GCP customers are available for GitHub, Terraform, Jenkins, Spinnaker, Wavefront, DataDog, SignalFX, Prometheus, Splunk and New Relic."
+excerpt: "/PRNewswire/ -- Opsani today announced the results of a year-long survey of hundreds of enterprises running cloud services that revealed a critical need"
 publishedDateTime: 2020-01-23T14:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-1028840015
+sourceUrl: https://www.prnewswire.com/news-releases/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-300992032.html
 type: article
-quality: 44
-heat: 44
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "AnnYI7FKTaEgxJlw8GbU3cSq0tlPwQP6SX5Teh01ox+J6TQbK+MnfPIBfnX+ZP/p8zrNkSbmXVXnOj0Dto2Mlv5g2MqRtcqrEbDxZLR5v9RTNTR5YqfXMCU5uj4Z7GljpuG27QKyxpbGxvLfaDyD0FNH/O1nXJh8ntcV66+KDD+vEFMuzoJNRy+D5nUaeiB6RgY56CZKNZ5lHKMaIzCBr17LZZWM3PjA73G8LEY8QSOp/ZT4ATc1TryHF3c7bWuHuF1JN4/t7XFGhjao69RzIGFlPYYOhvC6bl6N0ds/qqt5nsBQYvXZ6sKYWfNnaUqa;IUmwtJpaXqXWAHxARfHCyA=="
+images:
+  - url: https://mma.prnewswire.com/media/891003/Opsani_Logo.jpg?p=facebook
+    width: 636
+    height: 335
+    title: "Cloud Services Survey Reveals Critical Need for AI-Driven Continuous Optimization"
+
+secured: "1n0X6c4IRJ03Wncz7YWgmEb/10zxLXNXmh1fIY1oNUBx14w1L78zvS4t2vqX90h7GqbgaVvBxuGE1hHNfdFwoiHAsRmtkE3IHKNm6ajRJvdBWNeOjSEgU5cYGtENpsX2UScMvjqUKF5nA6vP2VauJpfjimIQou7legX+C2FCS31rJQJzj9STF0usVi1k4Y8uhzsjUMS/DkGmVg3uWSivu4XoMOjD9e9rgXfyNppBr3NYM8E6Eao8QliObRt9QXhh4rSeL9aHk7loro79Fv2cDsjn2uS5OTKCL451hfu2kq6EZI0TBz+jFfbUTLFlAySz;oBkOBrswupNwG+FFXK0t5g=="
 ---
 

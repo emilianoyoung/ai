@@ -169,6 +169,17 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg
         width: 796
         height: 417
+  - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
+    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
+    publishedDateTime: 2020-01-22T10:47:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
   - title: "Google CEO wants co-ordinated rules on artificial intelligence"
     excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI), calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said that existing rules like Europe’s privacy legislation, known as ..."
     publishedDateTime: 2020-01-20T14:21:00Z
@@ -453,19 +464,6 @@ related:
       - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png
         width: 918
         height: 506
-  - title: "Google CEO thinks AI will be more profound change than fire"
-    excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
-    publishedDateTime: 2020-01-22T16:33:00Z
-    sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 37
-    images:
-      - url: https://s.hdnux.com/photos/01/10/12/34/18917135/3/rawImage.jpg
-        width: 2048
-        height: 1364
   - title: "Google CEO speaks on artificial intelligence at WEF in Davos"
     excerpt: "Google CEO Sundar Pichai spoke at the World Economic Forum in Davos about the impacts of technology and how artificial intelligence and quantum computers can change human lives. Pichai said that even though there were risks with artificial technology, the biggest risk was to not work on it and make AI better."
     publishedDateTime: 2020-01-23T09:05:00Z

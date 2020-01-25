@@ -104,6 +104,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/awesometable-e1579626289453.png?fit=1200%2C649&strip=all
         width: 1200
         height: 649
+  - title: "This Week In AI: Snyk Raises $150M, Cruise Automation Previews Electric AV, AI Chip Maker Kneron Raises $40M"
+    excerpt: "Facebook researchers developed a \"mapless\" navigation system for robots. ServiceNow acquired Loom Systems. Procurement marketplace scoutbee raised $60M. This week, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships, and M&A in 2019. You can check it out in CB Insights Stories ..."
+    publishedDateTime: 2020-01-25T00:13:00Z
+    sourceUrl: https://www.cbinsights.com/research/this-week-in-ai-snyk-raises-150m-cruise-automation-previews-electric-av-ai-chip-maker-kneron-raises-40m/
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 37
+    images:
+      - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2020/01/24103300/Facebook_AI_navigation-572x364.png
+        width: 572
+        height: 364
 
 secured: "AjXshis2JNtN//jsLmp7qYFNyHInhRFGONM1zyAqyYbmHxJhlRC2cNE9FLzupdZbYjYeUIlypVYzOpRIzXCrwrmgYbpjSAVN4xDiM8+/QlMOST2Q88gzoSISnTc6dGOe6oYjyGrwkvi85foUjY5NwOHTafaXqttFG+/yHDMIH5Ln6qqFKLUKps0VcllYeDI0rF1OO2F5RlI7gVHZ0KPusriLtl0B9SIvoagYF5lDTytfAKXt27bPPWx7xVS1d1+jgEVukmfKYDA8yCafrywPpX34Xqi4+OBPqYl8pd2Z0vAw08DR7EBkx4FkKNBLJhlMKbeDFA6c7D7cibh0cY0gLdkpSm+QFrLY6Yx0uLiE0NMASWaiI1sSrHBL1PlT6oSKPA0aoI0nuTI+QAvWhVr+7OFOTNPjgrN7tjqbKWhYeBklHU1ommz1nyF613be0JbHg6u7Zhat2KzYxAy4BcQiRT2VKUdECdjgD7T1ttsXB7M=;x6GnbGP2veehmNtCk9xAvw=="
 ---

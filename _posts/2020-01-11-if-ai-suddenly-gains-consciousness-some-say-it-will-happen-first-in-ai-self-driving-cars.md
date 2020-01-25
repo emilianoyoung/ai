@@ -166,6 +166,21 @@ related:
       - url: https://i.insider.com/5e2b1cd3b6d52d20320b5500?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "Uber’s self-driving unit starts mapping Washington, D.C. ahead of testing"
+    excerpt: "Uber Advanced Technologies Group will start mapping Washington, D.C., ahead of plans to begin testing its self-driving vehicles in the city this year. Initially, there will be three Uber vehicles mapping the area, a company spokesperson said. These vehicles, which will be manually driven and have two trained employees inside, will collect ..."
+    publishedDateTime: 2020-01-23T21:14:00Z
+    sourceUrl: https://techcrunch.com/2020/01/23/ubers-self-driving-unit-starts-mapping-washington-d-c-ahead-of-testing/
+    ampUrl: https://techcrunch.com/2020/01/23/ubers-self-driving-unit-starts-mapping-washington-d-c-ahead-of-testing/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/ubers-self-driving-unit-starts-mapping-washington-d-c-ahead-of-testing/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2018/12/uber-atg-lidar.jpg?w=1024
+        width: 1024
+        height: 682
   - title: "Electrified cars interest more than ever, self-driving cars scare, study says"
     excerpt: "Many popular EVs do, in fact, sport a 200-plus mile range, which leads us to other hurdles like charging and the initial purchase price. On the flip side of things, the study also looked at self-driving cars and autonomous technology. Here, it wasn't a very rosy picture. Almost half of Americans in the survey said \"autonomous cars will be ..."
     publishedDateTime: 2020-01-13T21:25:00Z

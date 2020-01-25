@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Google CEO thinks AI will be more profound change than fire"
-excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
-publishedDateTime: 2020-01-22T16:33:00Z
-sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
+title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
+excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
+publishedDateTime: 2020-01-22T10:47:00Z
+sourceUrl: https://www.bloomberg.com/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
+ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: https://s.hdnux.com/photos/01/10/12/34/18917135/3/rawImage.jpg
-    width: 2048
-    height: 1364
-    title: "Google CEO thinks AI will be more profound change than fire"
 
 related:
   - title: "Google CEO Sundar Pichai: This is why AI must be regulated"
@@ -502,6 +502,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "AJ0OJRTf+gOVi+FAJqB3ittEGvokH9fuCKIPVtGcBNrb+Os5nSwetwlzoJRF8LIjkWrR2Mu7+ZpZdnYtBBBy4pzAj7uRvF6kbXbAdQ/TQ6v8aYnOzCIkWpwp9q6MKd+MeJBXRKQcZHZ6wE/c+zm1rJh7BNHGf/MbEtIeaOX8TMNMD6PlMDOvGtLj847BxJL31U4nLOM42kgDAvRgaNwLp+gBHeM4K+t3z7T8r+LHxVnRZhVfKNpwnyP35XFjQz+EeyxZCl3c3fQS7+YGpC8x9kf9rd9UqVW4FkJWh9RA9k1BJcVzAKZ5AwK1qKTYSU0YRlcoGOTCtEavFek5ane8kxCdvmYeZFhMNfDd2nc/8NbfV5t+U4Nc6chH5fH8tMozjGFms8tE49DvDwIbYWAr1kvHHtHFTelLvkCLVX8HtAT2L/cO6cEUAgT/xPX8b8b5yhFLJ30B+Nh6pwr94czgFw==;dTmpyiZyZicqNvYCTykiGg=="
+secured: "d8dUkOCnPerRymBwP9XiuKwAGyFsWpSf7eJVbYw+fmDe8jwWYFi/8CgNbYvoIvimtFKyyTq2+qr11McTj3qozjGkoc1ppZwjtHgt+bbx+MYif7Lz8zTscpOKR6DdpPLpQFaLwjrqAd8X2FBYp/x4y3WCQsobdZDtJoyNw1aBCdr/J65/g9Qjw6yPWQDP8orSt6xrAG9fzeR/25+SazSKK5BWZYywUOhvVJPMvnIg2qGMZTCZky2nvUbmb0fgI6qrrCUTEWhq76FZN2JFndVebj/408gDOuILYPZWlpIEcS37pI9tyLceBt6LwFa1Ufmgz4Ch3zAtFOkDL3l8M4CO/maIif+Br0QgU8iM+B+vAgua7jfh4K/MIypidG7Y3tUo4cA7HrG+XMpeqafBGQQSPHjdYv1RrRpChf+WjWr/xrgsj3v49LaGbsXUye/lsIuaGzNPlq79PpCbvUkkqorkMBom7Te3Qij8qz+rbwy2Yrs=;Y5n66CtenzVrHESjvzinuw=="
 ---
 

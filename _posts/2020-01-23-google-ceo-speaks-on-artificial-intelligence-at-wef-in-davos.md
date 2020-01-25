@@ -167,6 +167,17 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/sundar_robots-796x417.jpg
         width: 796
         height: 417
+  - title: "Google CEO Thinks AI Will Be More Profound Change Than Fire"
+    excerpt: "Google’s chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity."
+    publishedDateTime: 2020-01-22T10:47:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-22/google-ceo-thinks-ai-is-more-profound-than-fire
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
   - title: "Alphabet CEO Sundar Pichai says it’s ‘no question’ artificial intelligence needs regulation"
     excerpt: "With several Bay Area cities moving to stop the use of facial recognition technology, the chief executive of one of the area’s tech giants has come out in favor of stricter, and more widespread regulation of such types of artificial intelligence technologies."
     publishedDateTime: 2020-01-20T16:45:00Z
@@ -466,19 +477,6 @@ related:
       - url: https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/01/21/125195-ceo.png
         width: 918
         height: 506
-  - title: "Google CEO thinks AI will be more profound change than fire"
-    excerpt: "Google's chief executive officer has left no doubt about how important he thinks artificial intelligence will be to humanity. \"AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity,"
-    publishedDateTime: 2020-01-22T16:33:00Z
-    sourceUrl: https://www.sfgate.com/business/article/Google-CEO-thinks-AI-will-be-more-profound-change-14995052.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 37
-    images:
-      - url: https://s.hdnux.com/photos/01/10/12/34/18917135/3/rawImage.jpg
-        width: 2048
-        height: 1364
   - title: "Google CEO calls for ‘balanced approach’ in regulating artificial intelligence"
     excerpt: "Sundar Pichai’s comments come as lawmakers and governments consider limiting how artificial intelligence can be used. “There is no question in my mind that artificial intelligence needs to be regulated. The question is how best to approach this,” Pichai said, according to a transcript of his speech at a Brussels-based think tank."
     publishedDateTime: 2020-01-21T01:58:00Z

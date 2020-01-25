@@ -5,9 +5,9 @@ excerpt: "For example: Women who take menopausal hormone therapy, or so-called h
 publishedDateTime: 2020-01-04T22:40:00Z
 sourceUrl: https://medium.com/swlh/breast-cancer-risk-artificial-intelligence-offers-promise-7c9a8e4a379
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 69
+published: true
 
 provider:
   name: Medium
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "jV5ir8192we2EpZvCXDeDK+9Y8wxOiHbKIpKgobJaEdAz8PZpZtqxyFCM158tvu2xRad/zDpMopVP7p+E+ro2KuSqcVDN93PGxKXYnI3m2UIS7U8TOerTX3L+WWsZLPmv57SsoLKA08n3lB2ixGpNcRIYvIajGNAsn4VqagIkQAWWg4UZqbpucYzwEuW3e6CBD5ttf4smKlWcikcIp9kDPgGKbNDhNu2aIamYVl5oGLY8XuyZczpvUvMUWpF0Zj66kd5pr+bfKZywo6fqA517yCIp2zo5MojHprCTNLEHQOgHmAistTWGhgu4Nei/LPc;5cyt+2qX+Y4mcBCdYspkyA=="
+images:
+  - url: https://miro.medium.com/max/1200/0*V5YiNUt2FnF8vh6E
+    width: 1200
+    height: 1599
+    title: "Breast Cancer Risk: Artificial Intelligence Offers Promise"
+
+secured: "L/0E6MVzRPLchbBZFFrkezwJEF7E9zJrwNuR2wbE2ucdFjtfkdMNuqVfrnIpRstjxjV7qcpD1fSseNdSDzVtqKoyRx+Ys8KpnJ8SafRQeoL4j0eO1bkPQlnqFQdsD98oKT4Cec+bjIP6gQFpbhj+ruNMBVboqMh5cYkngNSLIQgL6Sqvaf1jvUO3T3iwFCfT5i3oHgq8NEu2D9cs6chIH0uRoxPqgpEeiHwSp9MVyxREdRDKf4RHYJvwFVsrVCITrUj1mgQ5IDFZMZ4O+zs2vaaZ0yZn3TNYB4xf5pKz9151tVi8bMXf4P+jhhEIcYco;29iKCj70GPX9n59maaGnAQ=="
 ---
 

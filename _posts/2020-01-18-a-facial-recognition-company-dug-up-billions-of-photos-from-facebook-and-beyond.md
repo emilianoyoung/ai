@@ -86,6 +86,21 @@ related:
       - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
         width: 1200
         height: 908
+  - title: "Clearview AI faces lawsuit following facial recognition privacy concerns"
+    excerpt: "A lawsuit is taking aim at Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people. The app is under fire after a New York Times investigation into the software company earlier this week. The app identifies people by comparing photos to a database scraped from social media and ..."
+    publishedDateTime: 2020-01-25T00:40:00Z
+    sourceUrl: https://www.cnet.com/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/
+    ampUrl: https://www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-following-facial-recognition-privacy-concerns/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 103
+    images:
+      - url: https://cnet3.cbsistatic.com/img/8FqC5fGGG-ESQmUCNaRaTsCGlKc=/756x567/2020/01/25/86869401-a05f-455d-9af6-b4215f70ceea/facial-recognition.jpg
+        width: 756
+        height: 567
   - title: "Twitter demands AI company stops using its images to fuel facial recognition"
     excerpt: "Twitter had demanded that an AI company stops taking images from its website to be used with facial recognition software, and deletes the images it has collected thus far. Clearview recived a cease and desist letter from Twitter, after it emerged it has harvested more than three billion photographs from sites such as Twitter and Facebook ..."
     publishedDateTime: 2020-01-24T11:58:00Z
@@ -191,6 +206,21 @@ related:
       - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5760%252C3840%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fc5114770-e5eb-11e9-a9df-f281948b7062%26client%3Da1acac3e1b3290917d92%26signature%3D2f7e99f345791a940f75a8565dcf76868e4974ae&client=amp-blogside-v2&signature=2998c7c1c78777521b7e4451311fe444f830f18e
         width: 600
         height: 350
+  - title: "New Jersey halts police use of creepy Clearview AI facial-recognition app"
+    excerpt: "New Jersey is ahead of the curve — at least when it comes to stopping its law enforcement from using the creepy and potentially biased facial-recognition app Clearview AI. The app, which scraped billions of photos from the likes of Facebook, YouTube, Venmo, and other online platforms, drew the world's attention last weekend following a ..."
+    publishedDateTime: 2020-01-24T23:59:00Z
+    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey/
+    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 88
+    images:
+      - url: https://mondrian.mashable.com/2020%252F01%252F24%252F53%252Fc9b7bd94080a4f81b5f99ec464adff04.08837.jpg%252F1200x630.jpg?signature=yAzYMITbCIxJTHhBnTyFoFDHPXg=
+        width: 1200
+        height: 630
   - title: "Law enforcement is using a facial recognition app with huge privacy issues"
     excerpt: "Clearview AI's software can find matches in billions of internet images. You may have good reason to be worried that police use of facial recognition might erode your privacy -- many departments are already using software with serious privacy concerns. The New York Times has learned that over 600 law enforcement agencies in the US and Canada ..."
     publishedDateTime: 2020-01-18T19:45:00Z
@@ -264,6 +294,19 @@ related:
       - url: https://www.dw.com/static/stills/images/vdt/2020/beng200123_004_qwibutterfiel_01g.jpg
         width: 512
         height: 288
+  - title: "London police to use facial recognition technology, spurring privacy concerns"
+    excerpt: "Police in London aim to use facial recognition technology to identify and locate criminals in real time. New studies have questioned the accuracy of the technology and in the U.S. privacy advocates are sounding the alarm about potential misuse.Jan. 24, 2020"
+    publishedDateTime: 2020-01-25T00:05:00Z
+    sourceUrl: https://www.nbcnews.com/nightly-news/video/london-police-to-use-facial-recognition-technology-spurring-privacy-concerns-77497925816
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 66
+    images:
+      - url: https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202001/nn_tco_uk_police_launch_facial_recognition_200124_1920x1080.nbcnews-fp-1200-630.jpg
+        width: 1200
+        height: 630
   - title: "Facial Recognition App Used by Law Enforcement Agencies Detailed in Troubling New Report"
     excerpt: "Over the past year, more than 600 law enforcement agencies have started utilizing a facial recognition app developed by the \"tiny company\" Clearview AI. The privacy-poisoning app, which allows users to potentially match a name to a face within seconds ..."
     publishedDateTime: 2020-01-20T17:58:00Z
