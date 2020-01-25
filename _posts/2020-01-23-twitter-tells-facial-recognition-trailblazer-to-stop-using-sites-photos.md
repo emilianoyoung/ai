@@ -8,7 +8,7 @@ ampUrl: https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-lette
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html
 type: article
 quality: 203
-heat: 833
+heat: 843
 published: true
 
 provider:
@@ -195,6 +195,21 @@ related:
       - url: https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg
         width: 1050
         height: 549
+  - title: "London Cops Will Use Facial Recognition to Hunt Suspects"
+    excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
+    publishedDateTime: 2020-01-25T07:00:00Z
+    sourceUrl: https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/
+    ampUrl: https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: https://media.wired.com/photos/5e2b36a1520cce000867c6a7/master/pass/Biz-londonaerial-912614070.jpg
+        width: 2400
+        height: 1600
   - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
     excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
     publishedDateTime: 2020-01-25T01:47:00Z

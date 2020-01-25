@@ -26,21 +26,52 @@ images:
     title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
 
 related:
-  - title: "Meet the new twist on data encryption that promises better privacy and security for AI"
-    excerpt: "AI and privacy needn’t be mutually exclusive. After a decade in the labs, homomorphic encryption (HE) is emerging as a top way to help protect data privacy in machine learning (ML) and cloud computing. It’s a timely breakthrough: Data from ML is doubling yearly. At the same time, concern about related data privacy and security is growing ..."
-    publishedDateTime: 2020-01-16T21:44:00Z
-    sourceUrl: https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/
-    ampUrl: https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/
+  - title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
+    excerpt: "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ..."
+    publishedDateTime: 2020-01-25T07:00:00Z
+    sourceUrl: https://www.wired.com/story/clearview-ai-scraping-web/
+    ampUrl: https://www.wired.com/story/clearview-ai-scraping-web/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-654683563.jpeg?fit=1906%2C953&strip=all
-        width: 1906
-        height: 953
+      - url: https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg
+        width: 2400
+        height: 1350
+  - title: "Class-action lawsuit filed against controversial Clearview AI startup"
+    excerpt: "A lawsuit -- seeking class-action status -- was filed this week in Illinois against Clearview AI, a New York-based startup that has scraped social media networks for people's photos and created one of the biggest facial recognition databases in the world. The secretive startup was exposed last week in an explosive New York Times report which ..."
+    publishedDateTime: 2020-01-24T17:05:00Z
+    sourceUrl: https://www.zdnet.com/article/class-action-lawsuit-filed-against-controversial-clearview-ai-startup/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "Clearview AI: The company that might end privacy as we know it"
+    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
+    publishedDateTime: 2020-01-19T18:16:00Z
+    sourceUrl: https://tech.economictimes.indiatimes.com/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
+    ampUrl: https://tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
+    cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+  - title: "Clearview AI: The company that might end privacy as we know it"
+    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
+    publishedDateTime: 2020-01-20T03:34:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
   - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
     excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
     publishedDateTime: 2020-01-19T03:21:00Z

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "UK police use of facial recognition tests public's tolerance"
-excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
-publishedDateTime: 2020-01-16T20:55:00Z
-sourceUrl: https://www.sfgate.com/business/technology/article/UK-police-use-of-facial-recognition-tests-14979724.php
-ampUrl: https://www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
-cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
+title: "London Cops Will Use Facial Recognition to Hunt Suspects"
+excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
+publishedDateTime: 2020-01-25T07:00:00Z
+sourceUrl: https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/
+ampUrl: https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp
+cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Wired
+  domain: wired.com
+  images:
+    - url: /assets/images/organizations/wired.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
-    width: 375
-    height: 211
-    title: "UK police use of facial recognition tests public's tolerance"
+  - url: https://media.wired.com/photos/5e2b36a1520cce000867c6a7/master/pass/Biz-londonaerial-912614070.jpg
+    width: 2400
+    height: 1600
+    title: "London Cops Will Use Facial Recognition to Hunt Suspects"
 
 related:
   - title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
@@ -206,21 +210,6 @@ related:
       - url: https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg
         width: 1050
         height: 549
-  - title: "London Cops Will Use Facial Recognition to Hunt Suspects"
-    excerpt: "There will soon be a new bobby on the beat in London: artificial intelligence. London’s Metropolitan Police said Friday that it will deploy facial recognition technology to find wanted criminals and missing persons. It said the technology will be deployed at “specific locations,” each with a “bespoke watch list” of wanted persons ..."
-    publishedDateTime: 2020-01-25T07:00:00Z
-    sourceUrl: https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/
-    ampUrl: https://www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/londons-cops-facial-recognition-hunt-suspects/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: https://media.wired.com/photos/5e2b36a1520cce000867c6a7/master/pass/Biz-londonaerial-912614070.jpg
-        width: 2400
-        height: 1600
   - title: "New Jersey Bars Police From Using Clearview Facial Recognition App"
     excerpt: "Reporting about the powerful tool with a database of three billion photos “troubled” the state’s attorney general, who asked for an inquiry into its use. New Jersey police officers are now barred from using a facial recognition app made by a start-up that has licensed its groundbreaking technology to hundreds of law enforcement agencies around the country."
     publishedDateTime: 2020-01-25T01:47:00Z
@@ -382,6 +371,21 @@ related:
       - url: https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/h3znpz9affmqxjtkm8a1.jpg
         width: 394
         height: 222
+  - title: "UK police use of facial recognition tests public's tolerance"
+    excerpt: "When British police used facial recognition cameras to monitor crowds arriving for a soccer match in Wales, some fans protested by covering their faces. In a sign of the technology's divisiveness, even the head of a neighboring police force said he opposed it."
+    publishedDateTime: 2020-01-16T20:55:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/UK-police-use-of-facial-recognition-tests-14979724.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/UK-police-use-of-facial-recognition-tests-14979724.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 59
+    images:
+      - url: https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png
+        width: 375
+        height: 211
   - title: "US lawmakers concerned by accuracy of facial recognition"
     excerpt: "US politicians expressed concerns about the accuracy and growing use of facial recognition software, at a hearing on Wednesday. The technology is being developed by firms including Amazon and Microsoft and increasingly used by law enforcement worldwide. Some facial recognition technologies misidentify women and people of colour. Civil liberties ..."
     publishedDateTime: 2020-01-16T04:43:00Z
@@ -907,6 +911,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "TTszQNc21iwToLE4WX/jwuRS2s7fzG3IpRVhVmo0RUB1cUyDD5E83tADQ+g7OuiI+ob04Webi4+IkpITRrTREvPUJxNXOtzbqdJWYLHQd2C/ANAgmK3MNgPxHuJUwCOChCCGXTAPBkqy6ev6U505ROqZRfrWDCRFsbsSZ+5iYk3iDvtHH3wGVKdK9tcSo3zS77TvEmTrGZv5rz1pOjJyyQsidTPGqCkQaFgquD9/sTYvEumM4E+rqF1tM1DKGXEF7dAic1o8D3NIXFudqHl0Qpr98OVrKIWPSzy2q0c2cqawrQiYqNjQMQ083FwK0IUiJ5A9meaPoAfljvE39yIvI6tZxUJsZx/U+S4sifYY6HDfcZ1prfModm1ptSTGD2Lfr0awp9/ceINoKtFqLZyjrfpzEWpw4lq20FPVheg6TRofOW6PYJXDhsEICZq+4h5h6z8sWF+TKJr5lXVPRDn3Og==;VEcOeDNBK6eB9zxyE1tyBg=="
+secured: "4ipb2S1uWMc9SoqpFe3ijO+5dVPIVtqmLvcU7aqycbuVVlXyq/snZzvMcbO2mO7ZuafdVuLhzsstS/wEbIYDXEZjD+M6KXlICKL5Nt2A7enG56UHO6z4wrOtAt9U8NZz8dGRFLzUN+V2ZZcyyUIV4V8QSBel/u25B527/KmaUOLMnITtNvhhrhEiOUP9Fq8+31CsC9NVwCQYrevnVjv4f9d/AQicHOp9f4HNqT2joUHmU3D8McB+6RiOB7gd/6YxyF3nZWmBY2MAEgzYzHhoKF04s5r1ymclXEu7EtL60tB99Fn/1b4RXkLwGptVI4ZT;9htadv5JhOPy+WnXZYb8QQ=="
 ---
 

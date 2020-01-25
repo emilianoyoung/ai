@@ -1,39 +1,34 @@
 ---
 category: news
-title: "Clearview AI: The company that might end privacy as we know it"
-excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
-publishedDateTime: 2020-01-19T18:16:00Z
-sourceUrl: https://tech.economictimes.indiatimes.com/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
-ampUrl: https://tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
-cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
+title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
+excerpt: "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ..."
+publishedDateTime: 2020-01-25T07:00:00Z
+sourceUrl: https://www.wired.com/story/clearview-ai-scraping-web/
+ampUrl: https://www.wired.com/story/clearview-ai-scraping-web/amp
+cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 87
+heat: 137
+published: true
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Wired
+  domain: wired.com
+  images:
+    - url: /assets/images/organizations/wired.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
+images:
+  - url: https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg
+    width: 2400
+    height: 1350
+    title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
+
 related:
-  - title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
-    excerpt: "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ..."
-    publishedDateTime: 2020-01-25T07:00:00Z
-    sourceUrl: https://www.wired.com/story/clearview-ai-scraping-web/
-    ampUrl: https://www.wired.com/story/clearview-ai-scraping-web/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg
-        width: 2400
-        height: 1350
   - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
     excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
     publishedDateTime: 2020-01-18T14:10:00Z
@@ -60,6 +55,17 @@ related:
     quality: 47
   - title: "Clearview AI: The company that might end privacy as we know it"
     excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
+    publishedDateTime: 2020-01-19T18:16:00Z
+    sourceUrl: https://tech.economictimes.indiatimes.com/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
+    ampUrl: https://tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
+    cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/internet/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73394683
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+  - title: "Clearview AI: The company that might end privacy as we know it"
+    excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
     publishedDateTime: 2020-01-20T03:34:00Z
     sourceUrl: https://cio.economictimes.indiatimes.com/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574
     ampUrl: https://cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/clearview-ai-the-company-that-might-end-privacy-as-we-know-it/73412574
@@ -79,6 +85,6 @@ related:
       domain: orlandosentinel.com
     quality: 16
 
-secured: "Y20x3I8MEvAtosXMRMFYDW5FIjuxjzvuJ58O72Nc8BnDv585Rs1Rn1dJTUl8oaDxKldLzG7knlzgI/1jeVGV0FyWU3bgmwwgq+Z0m2bARtKK6ocf8blLhUcUKP+4a9xCb4bgJO0zlx5QL1RYAGL3EC6M2ChUXdgRnHUKsJ4f+DQ1pNOzYFIvMrLSyRvdh6c5NmiIMXn44qL0B4SvAeqohPQHHd/IIyiK6+ldE0prsiqghBjD8KZTMnVQiL9Tc1wZIc4GA7/OguaZ+KmsjO3jQOAiSDYXCOkKWJhDFF4pm5UhXl08pOiIYDJpyerS0IxHWpdyDTsV+jouaqEWNxmM50V0t4/1s7GfVG4ltlhGaVEFBOKO0zJ1wdzjjnyAIxFKZMrwSMAkh3+NqHGJLOPY+PJd8mJt848GTp/Lg2mmOVltSe2Gne5VrJhNEWJbvE2gvUMhCOYVTKfYMtD5TaltJw==;0PmGF0dYYorXEgDT8MacQg=="
+secured: "coM3gWTYkDRhBpcZNF/aBGm1tOcTYVg77jGMg1H8MLpealQxTWo7brTLtvLX1sQ+z6cxEloH/nkU5OQhVlYmCrE/3Gvs4ThOQMD0N6UeOjEhZl00WWFUYkhPjLOxq6mQYgnWS/yalYyQo8npnHPjNekNslcWeWaXk+unPFVt+UyHQHLBYCrXRSV6kv/9im4ZWOVICOg/lq/omlSO17QftZAT4OTsBwDWL3IaMdubFdJmjEDyuz5jXUF71keTr/kYf+mLkI17sVtTg3b6s8OsNgAIBFfSzdPG8UsIw3BFfJh1fzgGhLuDBmyRmBDsoQmK;pRtj2y1uG8nhr9IrXdR3kw=="
 ---
 

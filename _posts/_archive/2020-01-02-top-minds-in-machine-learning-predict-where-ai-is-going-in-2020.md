@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +29,23 @@ images:
     height: 629
     title: "Top minds in machine learning predict where AI is going in 2020"
 
-secured: "zBCJxgZlK7WvuKljC+GN0J0pSyAzqkFo5xLnZCWSrlEqcYLJPm2VU7rgTqdrNFygyjnFBVp+9xe7Ojszif4hJTAGeisgpstyR/XtfiLFAAH3m035NE5f6xX6ZJ5uHg5Av0qzWyGbFEEyLqNLsNLAwqA5QcOabtXSzCgSyv+kUbO1zDKAuyUx0W2AOlFiYpAR5gXLf4lvBjOKKn5LEKDJIQcW7uhMGex9Au19JP2xmX4Q9lqbYQh+Rmr73jpcztzakaqC0ycbHFbc5Hfc74FhQLEonMD1N/JItipbVXMSDd583tNNqV0X/uLCl+NWRelD;I2kdy/IaNgDNzup5s8SoLQ=="
+related:
+  - title: "Nine AI Marketing Trends Set To Explode In 2020"
+    excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing ... According to our recent research, 65% of consumers expect that within five years marketing ..."
+    publishedDateTime: 2019-12-30T12:50:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
+        width: 1200
+        height: 580
+
+secured: "VENCAamIHdLLna/dvWaYAY6Y/kq+YWxZXrxE6h70srTrzzjN0qGskKQMP3TYTnyigCZRjkBCF/hDSOChCFdI5xhxicQmaSs4LDS2EQljqDlpediqJUHcya1IDSL8vHpWRSjq6VMnjMC81JEOlq70uq8cBQZyIlGqmCSj627nn87z8x90QQaAv3Dch2iRTfK6RdsuKDn+IPYBKX5hsLqr2Y+UXBYqrzXsoaXhf3ZjyRTfuMJqL4vCBC5eJVd6pZhNGOgGiovY5SmNBjlBbts2j+YXbc7NW/rfJCSVGetYaz5FbaChLLLuOzihVBrgggbn;WfPOgUwstjmrM/pFnQtHKg=="
 ---
 
