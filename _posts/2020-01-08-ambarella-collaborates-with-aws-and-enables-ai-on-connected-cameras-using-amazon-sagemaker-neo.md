@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-    excerpt: "Ambarella and AWS collaborated to simplify the process by integrating the Ambarella toolchain with the Amazon SageMaker Neo cloud service. Now, developers can simply bring their trained models to Amazon SageMaker Neo and automatically optimize the model ..."
-    publishedDateTime: 2020-01-02T10:07:00Z
-    sourceUrl: https://canoe.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4
-    ampUrl: https://canoe.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
-    cdnAmpUrl: https://canoe-com.cdn.ampproject.org/c/s/canoe.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
+    excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo ..."
+    publishedDateTime: 2020-01-02T10:04:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
     type: article
     provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: https://financialpostcom.files.wordpress.com/2020/01/bw20200102005052_ambarella_and_aws_ces_2020.jpeg
-        width: 1000
-        height: 750
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
     excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
     publishedDateTime: 2020-01-06T02:34:00Z

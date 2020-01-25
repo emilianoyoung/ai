@@ -4,10 +4,12 @@ title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
 publishedDateTime: 2020-01-02T10:04:00Z
 sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 104
+heat: 114
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
+    width: 1200
+    height: 646
+    title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 
 related:
   - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
@@ -38,6 +46,6 @@ related:
         width: 1200
         height: 655
 
-secured: "npQIy/9KP1mO10dq5Xf866dW+bjhRLJUNastydF48KcTx5YeHBxPAM/OJa7/MQFoSuChzCP+sfj9m6bHNQ3WQHF6I6a98wPYtJChGE+SffXltfm+qMvkntmmU/8UcIPicsU2mvGtoXdI1NXDXcajpaW7k5GK5ba2YtNd00k1GJbPRQ1MtHBx9lKMOZ1865RVqRPq2Eay5oiW8nsKtA408H3EvfSLdWjdF+isrsrKG1YUCOEiyR3XI6UNJVMKmFPimfRwMvzpf06ef0cxAmUhrAUvnTzi0ehfOdXukp76tbEOPczIqvDtx6gL/l5iyxoL;ADX6I3jSGiLpHQ0zoBv6nw=="
+secured: "iyEfJ65MFpqfhENwX1zVMOKir6a4uFwTEJKPX1OhTehMJGB5eBKHrqHxyGiTew1LFEzmqwuW5TDoXqiRPnOdG4qk8oYnMVVmko8dcfGFSAWIqRjNwqf7eTtYjvfKAR9FDz0qxrjTwironOx1Bfpx/efwfSfkRZGXe0SD9iZyQo/j1fBiC6Vrope0SugYq2U9PSSxX0jt0FRBgUSbUFHp6vqu5y2Y/tnlk3Aow2A/F6LgTxGLBNIsqwinp0IfkhtU33gK9utMK0eQrdZnYccfW2OwnL7RwnkjwIXjJkIRfx9edbbQKT6GUv6GLFS15DdU;FBzd33NBfsuSefQQWE6AsA=="
 ---
 
