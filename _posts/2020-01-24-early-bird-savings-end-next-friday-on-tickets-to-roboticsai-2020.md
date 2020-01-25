@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/24/early-bird-savings-end-next-friday-on-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/early-bird-savings-end-next-friday-on-tickets-to-roboticsai-2020/amp/
 type: article
 quality: 119
-heat: 120
+heat: 121
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 562
     title: "Early bird savings end next Friday on tickets to Robotics+AI 2020"
 
-secured: "Elh6OHNDdgcho5Du+E6msUd/xa0KQqHDuQYBiXuYR+qVZ2FxrgCjJ8JfEnOfbL9tv6+3KF5hwhCHyevKOU2mLxTwKbnjJHlGk5Q7qTH392hyALVJOB9ckKZnbjvCMp1PEi/fAcPu8H+qTioop5iqxHnaHL96TkZBBPdCl5exlaU4zGLCZyHhtRAk2HecyiYyE5bWk4uE0QqphfoAn3hocjxuisIEEDiuNKxXfzVgZKwzI39dMCsoRu/AZFtwfRIFLFDBbmn9hJV4fP3agELdVGb5aTknapeZwfBbfLk43s9Lw0Zfmp+WHahqRjVu5ZceFDuqWX5wVvOJbN5+enhFyW+2JQzWlgo8Jlq7UM+lNhmz4TBa27YjyBLbN6pk753NVid7MMTylg5IfmnQVrw8zf5/WoHLgasAzn5WzQQ4qGFsz54GmghTiA0dXnQWwCtF3ozjGmBLktbHnKfOm/J4OSZHBsaFffVh+1g507doqq0=;5enD1dBJqW5WckY4XUs0SA=="
+secured: "g1mWU9+g+f0YoME4DgIWGnNYCDLpU8ryTBZ7dUmlqejnrh1MpVqiRVsRoMUVdjvtkzP6KdtD5WnMNRBpuiKBkgcla7degTchgGsRQUZCNLHSetPe9WAiMyHtWphM8itk2aVzQbFGfxZbNeZuS52DxNl7oS6mT9kkwCLymkCnhEmpEwvwEXfIHZa9zrj/Pr2gj9Ac+tDgcWZY6KtiuAwD78dfy1AAaiy9mXI7y0N/ZBnFU9AozOnlS0ALceVfrzJrthSTE/eQhTLqTAJqNcZdfHjyBzOYaOVMPNqYfmVFd1Hjvc8e944xxTBzLomXrZNapKQ9SM+uajxfyjn/aQYbPvw13aRXijuABHciy3jqRrYrwFSunoCqxSKXvi+zWwz9ftP2lQYU41O4OOZW0Ei9UopL13gV5kkujkMh5fHFR+cTtrACWa9HgQY5eDEP/VTo2mJg3XC125Etyx+WSLOiOrLgJNOi5bx+dtGEWT2n6SA=;mO+z0auND+8IKyaaoFusmg=="
 ---
 
