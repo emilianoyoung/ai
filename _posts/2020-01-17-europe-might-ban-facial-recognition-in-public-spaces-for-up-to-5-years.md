@@ -290,21 +290,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/16930/production/_110546429_gettyimages-1137809049.jpg
         width: 1024
         height: 576
-  - title: "Five-year ban on facial recognition being considered in the EU"
-    excerpt: "Notice a bug? Let us know here."
-    publishedDateTime: 2020-01-18T18:30:00Z
-    sourceUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/
-    ampUrl: https://www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
-    cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/18/five-year-ban-on-facial-recognition-being-considered-in-eu/?amp
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 59
-    images:
-      - url: https://www.androidpolice.com/wp-content/uploads/2020/01/1200px-Flag_of_Europe.svg_.png
-        width: 1200
-        height: 800
   - title: "Google backs EU’s proposed facial recognition ban; Microsoft disagrees"
     excerpt: "A ban is like “using a meat cleaver instead of a scalpel to solve potential problems”, he said. Smith also focussed on the benefits of facial recognition technology, citing the example of its use in finding missing children. It is the government’s responsibility to understand how technology is being used, identifying problem areas before ..."
     publishedDateTime: 2020-01-21T13:41:00Z
@@ -335,21 +320,6 @@ related:
       - url: https://www.xda-developers.com/files/2020/01/IMG20200117113419-300x225.jpg
         width: 300
         height: 225
-  - title: "EU plans five-year ban on use of facial recognition tech in public spaces"
-    excerpt: "The EU is considering halting the use of facial recognition technology in public spaces, while the European Commission hammers out a tighter legal framework for its use. A leaked draft white paper, obtained by Belgian not-for-profit think tank Euractiv, shows that the EU may look at how the technology can be better aligned with the EU’s ..."
-    publishedDateTime: 2020-01-19T09:50:00Z
-    sourceUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228
-    ampUrl: https://www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/eu-plans-five-year-ban-use-facial-recognition-tech-public-spaces-3971228/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 58
-    images:
-      - url: https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/01/EU-facial-recognition-ban-1024x768.jpg
-        width: 1024
-        height: 768
   - title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
     excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app on a pilot basis in 10 selected polling stations in a bid to counter impersonation by voters. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
     publishedDateTime: 2020-01-20T06:48:00Z
@@ -494,19 +464,6 @@ related:
       - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
         width: 1500
         height: 844
-  - title: "EU considers five-year ban on facial recognition tech in public areas"
-    excerpt: "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive - set out in an 18-page white paper - comes amid a global debate about the systems driven by artificial ..."
-    publishedDateTime: 2020-01-17T16:27:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/eu-considers-five-year-ban-on-facial-recognition-tech-in-public-areas-1.4142814
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: https://www.irishtimes.com/image-creator/?id=1.4142813&origw=1253
-        width: 1200
-        height: 630
   - title: "EU considers five-year ban on public facial recognition tech"
     excerpt: "Facial recognition tech in the EU may be banned for up to five years in order to develop an ethical framework for its use. With a number of privacy and ethical concerns raised across the world by the roll-out of public facial recognition tech, the EU is considering a temporary ban on its use. According to Reuters, such a ban could last for up ..."
     publishedDateTime: 2020-01-17T10:49:00Z
@@ -520,56 +477,6 @@ related:
       - url: https://www.siliconrepublic.com/wp-content/uploads/2020/01/AdobeStock_230414646.jpeg
         width: 800
         height: 600
-  - title: "The EU might ban facial recognition in public for five years"
-    excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
-    publishedDateTime: 2020-01-17T16:57:00Z
-    sourceUrl: https://www.technologyreview.com/f/615068/facial-recognition-european-union-temporary-ban-privacy-ethics-regulation/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-    images:
-      - url: https://cdn.technologyreview.com/i/images/lianhao-qu-lfan1gswv5c-unsplash0.jpg?sw=1200&cx=0&cy=0&cw=768&ch=432
-        width: 768
-        height: 432
-  - title: "The EU might ban facial recognition tech for five years"
-    excerpt: "While facial recognition tech is pretty handy, and even still somewhat jaw-dropping when applied to personal technology, such as Apple’s Face ID, which is found on iPhones, widespread use of the technology in public by private and governmental organizations risks turning where we live into a surveillance society the likes of which even Orwell ..."
-    publishedDateTime: 2020-01-17T15:10:00Z
-    sourceUrl: https://www.fastcompany.com/90453208/the-eu-might-ban-facial-recognition-tech-for-five-years?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-the-eu-might-ban-facial-recognition-tech-for-five-years.jpg
-        width: 1280
-        height: 720
-  - title: "EC may ban face recognition"
-    excerpt: "The EC has come up with an 18 page document discussing whether it should ban face recognition in public places for three to five years while they work out how to regulate it. Exceptions are mooted for things like security and R&D projects. New rules are proposed to add to existing data privacy and data storage rules. Developers and users of AI ..."
-    publishedDateTime: 2020-01-20T06:51:00Z
-    sourceUrl: https://www.electronicsweekly.com/news/business/ec-may-ban-face-recognition-2020-01/
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 39
-    images:
-      - url: https://static.electronicsweekly.com/wp-content/uploads/2020/01/18214524/1E09A80F-5158-4A31-98F5-595EA416C587.jpeg
-        width: 750
-        height: 450
-  - title: "Suprema unveils its Latest Facial Recognition Solution at INTERSEC 2020"
-    excerpt: "Suprema Inc., a leading global provider of biometrics and security solutions, unveiled its latest facial recognition solution at INTERSEC 2020, the largest security exhibition in the Middle East, held in Dubai from January 19 to 21."
-    publishedDateTime: 2020-01-21T09:14:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15152025/suprema-unveils-its-latest-facial-recognition-solution-at-intersec-2020
-    ampUrl: https://amp.benzinga.com/amp/content/15152025
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152025
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "It's too late to ban face recognition – here's what we need instead"
     excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
     publishedDateTime: 2020-01-23T11:43:00Z
@@ -691,15 +598,6 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 19
-  - title: "Alphabet, Microsoft Disagree On EU’s Proposed Facial Recognition Ban"
-    excerpt: "Microsoft President Brad Smith doesn’t agree with Alphabet Chief Executive Sundar Pichai’s backing of the EU’s call for a temporary ban on facial recognition technology, Reuters reported on Monday (Jan. 20). Pichai pointed to the potential for “nefarious uses of facial recognition” and favors a moratorium, pending regulations."
-    publishedDateTime: 2020-01-21T05:18:00Z
-    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2020/alphabet-microsoft-eu-facial-recognition-ban/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
     quality: 19
 
 secured: "IwBh7FfjaN6SRrKKJtg901X2JuyV80Mi6LDIYQZrFhtXgI/rK2npvwjJ2IRv6FLWb+jG6w5z5dJ1BtKro8CaaRrX8M9DDpMTmLUzvHWi4lBHLCrOy4YVD1dO/rFoj7Aqpjrpn66Nylf/gTMusl0YXhPZ2ouqJd2AxJEFO63eY7VFGWU1nfPEyYgExjzSIg9zv/tM8WL696DeJm2qfelOupyMNT8ieGAyn+RyEYfzZS9MkoecTyz61zdgx+Vd3yLO9ponWGm/CmaJzUogXckJVSQ/lg8iNVQY9l0v0EIwdirp5D+MguzLGarBZPPLbViZ8gtvWluaylJBUNwQpSPxjE2tvvixRbyiqeOH7ZXCmvujecUYS9cSH5pWfJuLnmjLRBPHqeZxNhRVsj7kxWwg9iUaoHUhgNTRUuZ99i5jYKpQ6reyAcHOqeoxCa8Cgt2n+dIAC3YZ/mqSGpd3hcvByQ==;zSqpOmKUAr1XZSBFnXTnqQ=="

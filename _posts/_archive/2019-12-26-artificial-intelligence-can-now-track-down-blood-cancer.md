@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence can now track down blood cancer"
-excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ..."
+excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
 publishedDateTime: 2019-12-26T11:12:00Z
-sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 59
+heat: 69
+published: true
 
 provider:
-  name: The Asian Age
-  domain: asianage.com
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
+    width: 800
+    height: 448
+    title: "Artificial intelligence can now track down blood cancer"
 
 related:
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
@@ -32,6 +38,6 @@ related:
       domain: indiatimes.com
     quality: 39
 
-secured: "RTY/858xa21/V8cr+oWV1v9O/F/FkQqV8ZnPn+A+UPtSHnAtWcBZkkYCLKTk0WE5uemObq1WTzzoXt6S2FZlzsKOLNrfVCiyAvHbB2t0whe0qZiD+rrh9Np/N6IgIZNYhL4Tzll+mzq9TdXHb7sFWfSC7YqmlcyBbw56+W3VqyRLpBxjE0B2OWHc3i1LjdzKorrf21+qTJ+3jQbiWdy6TfSpNKQhj8rzPSPILNffEPJaj+rzvcpnx9lULhIVU8GKckvpGrrLrpQ7heUJ488GfRnrfzD7SSxE+1a4yf6c0wMol/0Qgmvqc/JtQvg2bH76;GPy0+eMHM9S99kqgEPqXtA=="
+secured: "OI8b5qIxdBMiHqSAAr9m7hkFUlSYZLfuZMlChgQT29/BQeeaSJA7uOqXrlGhpe0QkXVR57N+8oJqw2g3yM2qDLxW0CZSA+GV3sE86Vn60zO0RCgjPor676f8mTVNyE8a0D0mSnQ0GFZtxhNzYjlQet3SnDba4RrEiIEPgiwG15xwJ2BmXhiIf6iE7lOxLrBi0Ds7Iz/b4EMc/Z+O2JZ+go0KwLMuxg31lkIcoLfokfcVG3vxB0sUJVunVOGsO/txoMhpX6Kt8akbjatvKfC/1dELzLpQ9xRWbxKzsx/MNBUVbgZm/EhTB3ach52WkhM5;M8yyNmajphpDsXRWYruNZQ=="
 ---
 

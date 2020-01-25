@@ -54,34 +54,6 @@ related:
       - url: https://media2.govtech.com/images/shutterstock_1112561213.jpg
         width: 940
         height: 627
-  - title: "Facial Recognition and the Danger of Automated Authoritarianism"
-    excerpt: "The company is, however, developing facial recognition software that would make it possible for wearers of augmented-reality glasses to ID folks walking down a street in real-time. Of course, such a technology could easily be harnessed to networked surveillance cameras so that government agents could track where a citizen is and with whom that ..."
-    publishedDateTime: 2020-01-21T22:43:00Z
-    sourceUrl: https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/
-    ampUrl: https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp
-    cdnAmpUrl: https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 59
-    images:
-      - url: https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2020/01/DesignCellsScienceLibraryPhotosNewscom-800x450.jpg
-        width: 800
-        height: 450
-  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
-    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
-    publishedDateTime: 2020-01-21T21:12:00Z
-    sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 39
-    images:
-      - url: https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675
-        width: 1200
-        height: 675
 
 secured: "OgrHjM4Qah8QIcn3xzBWASVTGSc45lDAmLKk+9EpNjhXjWMBc08dkIGrXlPJCpo3o/M3M3diwMtAMXEqMP+ZxKQ2THQKpTwl3c5lImuOUdde6yZou4AI2A6WfguCwC/gFhn5Ybe96YusODrP0jFnVgFCSc2wEbZ+TQ7fsBva1fL3cnYszCLfk17kvJy1Ey1U1DcwLD0CQ63W7x+cgM1l9p9nKL6Ipky3f9ogqEnpFO/iZOlkGufUBcfHr7eOfdjOZ9UTW/3SryidzWtmEoKo2Ai27TJKmYDieCbOVnRs3lkpXNQ15M9enZQjQU4YNZrY6txnzOGl0CYTy9pVP/BrTLIu5dIL0hebSxPEE9eVR4Bob0L6AI+M6nLpG99js5Mfr+Zpn8K2nBMLSWYWS4RsA7cmQCi7Z3huaP4/DTu6nPrh3lJAVfjYPrbYlZgaD3GPvgxG3QzB6YJOkjGPpB9ESQ==;nHcPbb+Q7NAuSHFahKz4Mw=="
 ---

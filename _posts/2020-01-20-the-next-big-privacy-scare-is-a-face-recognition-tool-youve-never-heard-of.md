@@ -43,21 +43,6 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg
         width: 1280
         height: 800
-  - title: "Face recognition mobile application in 10 polling stations"
-    excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
-    publishedDateTime: 2020-01-18T16:53:00Z
-    sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
-    ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
-        width: 615
-        height: 384
 
 secured: "Mj0QXYr80yzeG8UZ5u9rvr/IXvcrgq8NsdFvFx+0VSqZyBYDAiQzwue1narKu5GlkoqvoPkZsjD8XCVR9ANKm1d25BFoGsHLuo8HZs4eNW3F99anq+mYW/46qVU218eNU0lyzw9pqoMPGNpqrvotW2z4eOgCzTQDw1oODSgdTIeZg2yf+vU4SD6a4UMRDx0e2VQaugkSr+EUWIA5CoVEJbf3ObyJ4bRXLIJhsdRUtxYdAZctzPGTgMuDCs70LLt9I+M/0yzr1F+zx9S9fucpm2sU063Eydc0AJLjHSbQX/+ao6dJCwlxM0MADIg8QxSiLttg1GhlmX4jw61prxxlVBqgnndVG1VWj1HAopTp3Btfw4M6oxpEp/vcC8GHAhe8/m6Xeu++rZ8HyqfUmHTa/6q9d0nVQbYTrn0s4/orC2ogtBdN+0iI6JSm5AFPotM5/Ms8h9eV6cgTllucJrMt7Q==;J7xYG+0c5eBiMpDilFJo9A=="
 ---

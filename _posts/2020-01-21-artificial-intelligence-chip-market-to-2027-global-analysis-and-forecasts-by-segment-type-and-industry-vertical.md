@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
+excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The others section in industry vertical includes ..."
 publishedDateTime: 2020-01-21T14:05:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
+sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
+ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
 type: article
-quality: 31
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
+  - AI in Healthcare
 
 related:
   - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
@@ -86,6 +86,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "i4qlpzop5Gx3kDJknavkFdgIac+SzwBim8e+v4trHkFZ4GlW+xXTxK6g5oOOdhvnzMe3KJe61wb8x55+kszdybMrbiUJn5JqNevAUK3P+uOWF9NXEFK3PGNA+BwslZkjTodf84wp1eWbtmjXrrKfM63J98+k0FCBzI9jAelmfZ7lTZHvQY+9GwV+aHMVRILhJyN66shCaN3eJ4zSADp5nHQoxiL9sgOtsU1pH3XzrXzfk4InOknse+BQmCvc4z4n8zttiOGxG/pjIhr4BFeWsU2jxJTC+BMmAPjvjT8t0GIstRQLpGLhWB7SY/fLy7Mt;rMSKWtK7aTH6yYCi5iF85w=="
+secured: "fFd7EreSda47IMcNxgQItBYxYld5uvgXaEbVznH7Be4aN/g1TEpSOFJQBA4s3ahhl1zzQTZYtcuN6SYNNck2MfYts646cYJGqGFypJIIWGTgkXhyMFyxHIS3sHkPq3CIBmEZ1s23xeU+j1lmNZPU0xo/5R5H9NXul4DvrwW5OTN364k2B9gS7r+E3Soc3Or5UwD/6BvVAavHCHBi0SR0Y3aIfyKzl59dT/pgTS1x9ICMV5diy0lzIrSGFa6xZZRUXTugal+Dlgyb+sSWjar6CyaTtYtyE1XbvlhTMDr4ALCfZielA+4Io0XKowQ3bYN4;WgOn/f9puiMZgouDWCzqpg=="
 ---
 

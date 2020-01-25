@@ -86,17 +86,6 @@ related:
       - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
         width: 1029
         height: 630
-  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
-    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
-    publishedDateTime: 2020-01-21T19:10:00Z
-    sourceUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/
-    ampUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
-    cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 44
   - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
     excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
     publishedDateTime: 2020-01-16T21:45:00Z

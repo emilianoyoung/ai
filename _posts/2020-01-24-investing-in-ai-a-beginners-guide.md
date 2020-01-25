@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Machine learning revolves around accumulating data that can be fed into an algorithm in ... Amazon has a bright future in artificial intelligence. The Azure platform trails behind Amazon Web Services in terms of market share, but Microsoft still enjoys a favorable position in data centers and cloud computing. Additionally, its leadership ..."
+excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:
@@ -21,8 +21,8 @@ provider:
 
 topics:
   - AI
-  - Microsoft AI
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
@@ -45,6 +45,6 @@ related:
         width: 630
         height: 500
 
-secured: "3k3zzNUrdRcHoW//CkyhRT8IBD9S75VuyI6jMkBEce7DGKxhvCQcIv3Pi1QPp6gEyd/hwWMGP8aSGn1EWR27mLgdnspATnwJR2gWt9n2AfwulyNR8CxjxHcOTa2QGUbrdWgNc5BWsNKyuqYzSi0jvynK8zhsiB8zVeh9bMMpSv18OLfNa7Cx3N1yOFGONkhwen2nMFcBCpPXeglPlSEkDVRDjNwUtoQ4x82NXLncpx2vGZ6/jCsfAAVa9oUcVFx/H6lc053X0pMtZmGx7biyLWvpChbXAckcg0Nh5pdI0+YBA/rfrxD4ixXdMBFinOp1;uFGjK82pVlEV+AfRdFO07Q=="
+secured: "lTVjKBXWVx5jwPVc51tZmCg4sZz/DH+SC3t+CjjiZYayp3TaGhRSIDiRBivoKjEq6jMs2ISUioMOK4Z7IjuPhQRVAUkljlf+XNUuMRe4N7is6qeYaHR3ho9yyes/AxwIKoU2n3yAB4USJ93+Er7r2jez5KbvMmxcPPEEm9IZzshbPrUYQVvegUL6LU3qfHKWNLnWxh9U299LUYsxZk/8Jw6qbSrDmxlyaXG5X1Uif3ICoWYZldeMGoFdpHKifVCwupzzVPrjSJLF9kmJCxbZb/+UFn4HdkPFaHN15XGIJD0H/2GfHlRSNj8fl6QwlCH6;JtdyQZ3jakKaZwVeudp9cQ=="
 ---
 

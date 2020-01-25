@@ -110,21 +110,6 @@ related:
       - url: https://mondrian.mashable.com/2020%252F01%252F14%252Fe2%252F5244d9a79187456ca695c1415b52ab3b.7d03a.jpg%252F1200x630.jpg?signature=8MNeI53xaYiJp9UQtLrldvnJY4o=
         width: 1200
         height: 630
-  - title: "Supreme Court declines to hear Facebook facial recognition case"
-    excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
-    publishedDateTime: 2020-01-21T15:55:00Z
-    sourceUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case
-    ampUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: https://thehill.com/sites/default/files/facebooklogo_112819getty.jpg
-        width: 980
-        height: 551
   - title: "The battle against facial recognition goes to college"
     excerpt: "“The reason that we’re coming at this so hard and so quickly is because there is really aggressive marketing by facial recognition companies to use scare tactics to get administrations to sign onto this technology,” says Erica Darragh, a national board member of the group Students for Sensible Drug Policy, or SSDP. (A company called ..."
     publishedDateTime: 2020-01-14T11:00:00Z
@@ -190,19 +175,6 @@ related:
       - url: https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg
         width: 480
         height: 270
-  - title: "Holocaust victims' fates could be revealed with facial recognition"
-    excerpt: "KFAR HAROEH, Israel - An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center, which hopes to match family pictures from around the time of World War Two with its database ..."
-    publishedDateTime: 2020-01-21T11:36:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/Holocaust-victims-fates-could-be-revealed-with-facial-recognition-614797
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452167
-        width: 822
-        height: 537
   - title: "CyberLink integrates facial recognition engine into VIVOTEK’s IP surveillance solutions"
     excerpt: "VIVOTEK, the global leading IP surveillance solution provider, and CyberLink, a pioneer of AI and facial recognition technologies, announced they have entered into a strategic partnership, which will integrate CyberLink’s FaceMe AI facial recognition engine into VIVOTEK’s IP surveillance solutions. “Founded in 2000, VIVOTEK has been ..."
     publishedDateTime: 2020-01-17T00:32:00Z

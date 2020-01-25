@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/facebook-messenger-may-soon-use-face-recogniti
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/
 type: article
 quality: 89
-heat: 109
+heat: 100
 published: true
 
 provider:
@@ -43,22 +43,7 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-Recognition-hed-2020-796x419.jpg
         width: 796
         height: 419
-  - title: "Face recognition mobile application in 10 polling stations"
-    excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
-    publishedDateTime: 2020-01-18T16:53:00Z
-    sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
-    ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
-        width: 615
-        height: 384
 
-secured: "aLxpqQ0XHZStRD8/RpC4I4efg0Kdmg2Xlbu3U2fRSjjnBbxdJmRqRGmOcNMEeW+4NPvrEwF0+G0LB2AuZwoL4RIlxdURRdW3KOYhrukTG6r96wHPt9nB27uFblhbKkJXh2VJ2KOwKHNUzv4YuWfT0qagdThSSWgcVGQfcBolnuF7beW6j4lcT2AiJN3dUD534SlExBIu4lrIRZ/wPepV5MJDqJuK495CNA0J3/Io6laEeB+EMWOq0Sb9uJJx4YewvR/gYoywjtzSO9EdnFWKDvl6sy0eopW7tbhjZeShjpIdm0gf7rx1UM6ziVKQvXd0N7TTBgeBxESw0D2aFHHxOsds/DS+1LPDsWOMqJVxZk+kysqrBfOc41SOxAyjLQtNgVerleFBy3C4adu1tXoeNt5R7N2pZgQ/YullzsqvvFrxQ0A35XBt81OFs3bOyMeUBGgbExh3iDZyxz8ScEztedSEYKc/zzuu+p2xVrExO30=;MgRIK2ePynag0CWhodUj9Q=="
+secured: "muC4L4HGALNeZGv3Rd36+G/tQyZWqrsjjNcv6NH0nQDZ3Ovz8RCTfeLGQzf+FDiZIqINb1tKxX4/dPzyDPWNPz+VHyxffEzapneiauz29eVzmiY+R4uaDKrfY4JLaxEHJLuQOTp/IjM0Rv7Sb0EFWo/j9GJHK9Jdnjp6MX3EMyoi54VIU60kUzms+Y63o0BivqOLZbVjXyNYQ5nzfqba0gNLdOQLBbNKWpPIEjPZD3emcWMFMVk5IJjUfuh9FV5sUR++CWBslHLWYQp+gyec5A/mALppIOmtsJm/HdEdS8fn8fh9z7WmbyWAoLUnz6DVk8C9SL3nlOCQFhEzdH63FyPSzDB3Qu1vUMZ8dGNsYAx/+6j/B1SCt6y5/1oz8+mtHuaxRh5klmlNqF3F70WhKi6FIF7LhbKtGw4m17LLs38RhmdmAY/MFaz7o7jG1g6mLjCRaEDwC6PVNrqHNNuXvgR1dXmTEXIiHnimzgW6a68=;TZGSndqwn/BvSieN4ZXDSA=="
 ---
 

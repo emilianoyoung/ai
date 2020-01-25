@@ -41,21 +41,6 @@ related:
       - url: https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg
         width: 620
         height: 349
-  - title: "Facial Recognition and the Danger of Automated Authoritarianism"
-    excerpt: "The company is, however, developing facial recognition software that would make it possible for wearers of augmented-reality glasses to ID folks walking down a street in real-time. Of course, such a technology could easily be harnessed to networked surveillance cameras so that government agents could track where a citizen is and with whom that ..."
-    publishedDateTime: 2020-01-21T22:43:00Z
-    sourceUrl: https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/
-    ampUrl: https://reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp
-    cdnAmpUrl: https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/01/21/facial-recognition-and-the-danger-of-automated-authoritarianism/?amp
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 59
-    images:
-      - url: https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2020/01/DesignCellsScienceLibraryPhotosNewscom-800x450.jpg
-        width: 800
-        height: 450
   - title: "Maloney dives headfirst into facial recognition"
     excerpt: "Rep. Carolyn Maloney, the newly installed chair of the House Oversight and Reform Committee, signalled on Wednesday that Congress could soon introduce legislation to regulate the use of facial recognition technology. “Our committee is committed to ..."
     publishedDateTime: 2020-01-16T16:01:00Z
@@ -69,19 +54,6 @@ related:
       - url: https://www.cityandstateny.com/sites/default/files/all/styles/mobile_home_page_header__360x362_/public/CarolynMaloney-AFGE-Flickr.jpg?itok=7jg1HUri&c=3ce9829a3b7105e18b1cc8549aed6eb1
         width: 360
         height: 362
-  - title: "Need 2 Know: Virus Outbreak, Facial Recognition"
-    excerpt: "Reuters FACIAL RECOGNITION: Imagine a scenario in which a stranger could take your photo on the street and immediately find out your name and address. That is already technically possible, thanks to a shadowy startup called Clearview AI. The company was ..."
-    publishedDateTime: 2020-01-21T21:12:00Z
-    sourceUrl: https://cheddar.com/media/need-know-virus-outbreak-facial-recognition
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 39
-    images:
-      - url: https://img.chdrstatic.com/media/45140c0c-a275-469e-911a-13238dec14ba.jpg?source=web&crop=1200:675,smart&width=1200&height=675
-        width: 1200
-        height: 675
 
 secured: "R0XSvyU9oOFRbXfl72XCL4OUvdx8HkINjVp2IR3o8uky3IDcL5Hcb3X59JtpfIy6QL8JAD4MvxpibJUVYSApx5RbCIs8tvSHGM06jVUQmrtZeLzqN0qSk87FFFsZ+lS2UERrnxJKwlzIX23/AikQrWJAe3mcq0z+zgmpOu1R/uM6+sNZy9c1lpF9iDqCyoYtgWIjNqiNwj+rv3VH5buvs/0nBIbmpd4wPdEIwJCNMMWZ0CsLLnBi52a9ba2Y4Z1JH0Y9xBj5l8oMPLGumByiFP/GQcCLGXSySOEZMPgwNBs=;fgr7q/nRZ3OuhJPvOcuX2g=="
 ---

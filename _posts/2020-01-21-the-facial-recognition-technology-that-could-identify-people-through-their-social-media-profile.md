@@ -41,21 +41,6 @@ related:
       - url: https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg
         width: 980
         height: 551
-  - title: "The European Union considering temporary facial recognition ban"
-    excerpt: "But a draft of the upcoming document has shown that another worrisome technology – facial recognition software – is also being scrutinized. The EU is even going so far as to propose a three to five-year ban on the technology to allow rules and regulations time to catch up. Regulation for some of the worst aspects of the internet age has ..."
-    publishedDateTime: 2020-01-19T16:40:00Z
-    sourceUrl: https://www.techspot.com/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    ampUrl: https://www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83618-european-union-considering-temporary-facial-recognition-ban.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
-        width: 800
-        height: 560
   - title: "Clearview AI Says Its Facial Recognition Software Identified A Terrorism Suspect. The Cops Say That's Not True."
     excerpt: "But there are troubling questions about its past. By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 23, 2020, at 8:19 a.m. ET Clearview AI, a facial recognition company that says it’s amassed a database of billions of photos, has a fantastic selling point it offers up to police departments nationwide: It cracked a case of ..."
     publishedDateTime: 2020-01-23T13:28:00Z
@@ -116,36 +101,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F1227a4e0-3b88-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
-  - title: "EU considers five-year ban on facial recognition technology"
-    excerpt: "The European Union is considering a ban on the use of facial recognition software in public areas as it considers how to regulate the technology. The ban would last between three and five years, although exceptions could be made for security and research projects, according to the proposals seen by the Reuters news agency. The plans have been ..."
-    publishedDateTime: 2020-01-17T14:57:00Z
-    sourceUrl: https://news.sky.com/story/eu-considers-five-year-ban-on-facial-recognition-technology-11910647
-    ampUrl: https://news.sky.com/story/amp/eu-considers-five-year-ban-on-facial-recognition-technology-11910647
-    cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/eu-considers-five-year-ban-on-facial-recognition-technology-11910647
+  - title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
+    excerpt: "A secretive facial recognition software used by hundreds of police forces is raising concerns after a New York Times investigation said it could \"end privacy as we know it.\" Clearview A.I. has extracted more than three billion photos from public web sites like Facebook, Instagram, employment sites and others, and used them to create a ..."
+    publishedDateTime: 2020-01-22T00:24:00Z
+    sourceUrl: https://www.cbc.ca/radio/thecurrent/the-current-for-jan-21-2020-1.5434328/the-end-of-anonymity-facial-recognition-app-used-by-police-raises-serious-concerns-say-privacy-advocates-1.5435278
+    ampUrl: https://www.cbc.ca/amp/1.5435278
+    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5435278
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 56
     images:
-      - url: https://e3.365dm.com/19/07/1600x900/skynews-facial-recognition_4709130.jpg?20190703181850
-        width: 1600
-        height: 900
-  - title: "Facial recognition’s risks demand a temporary halt"
-    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
-    publishedDateTime: 2020-01-21T18:16:00Z
-    sourceUrl: https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    ampUrl: https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
+      - url: https://i.cbc.ca/1.5403918.1576847950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG
+        width: 620
+        height: 349
   - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
     excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
     publishedDateTime: 2020-01-23T21:48:00Z
@@ -161,28 +131,6 @@ related:
       - url: https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg
         width: 1440
         height: 961
-  - title: "Facebook could be on the hook for billions after Supreme Court refuses to hear facial recognition case"
-    excerpt: "The United States Supreme Court has declined to hear a case brought forward by Facebook that argues its users would have had to show they suffered “real-world harm” after Facebook identified them in photos using its facial recognition technology without getting their consent. Facebook hoped their argument would be heard by the Supreme ..."
-    publishedDateTime: 2020-01-22T15:10:00Z
-    sourceUrl: https://www.fastcompany.com/90454488/facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 23
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case.jpg
-        width: 1280
-        height: 720
-  - title: "EU considering 5-year facial recognition ban - report"
-    excerpt: "The EU may impose a temporary ban on facial recognition technologies used by both public and private actors, according to a draft European Commission white paper on Artificial Intelligence obtained by Euractiv. The document states that a future regulatory framework could “include a time-limited ban on the use of facial recognition technology ..."
-    publishedDateTime: 2020-01-20T10:43:00Z
-    sourceUrl: https://www.telecompaper.com/news/eu-considering-5-year-facial-recognition-ban-report--1323310
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "oTieLp9ywZ/fmiMh8d8iVa2XRLGJ6ZZMP9Rri4dZH1LxX/g9lv9ejYqQ7Qo1FAWoV2976Yf0ky86nI5dpaexbblz90Cj/kVsvORoCOk1q8KiOJWY6SSFYMBegL4ZgI8AG4A/o8GEdLo47oY6txEqMZcCti8HbmDFEX2Xn6V4xB4hvIyhtSFeuK14tKgYwedz24SrWmtzgQ2gvQLJNm5DdOJx4/Yqwt/FO4z+gHaP6XMyYYWlz/CZxop9O/wMXLKNfWwN3he/ZwsMxRfIHsRGKgDYTBjFuS6h32K9lm5rboqMhXzhqjbWjYWO24BqqQoSFMKVJzX20Ew9KeQcdBkzJaBQcsg8DxWxdeqFbrtKJU+Q8QOcOIFNILtKctSPsV9GJRUac8TF5uUKP7U6UsdNW9RXnwYuW6n8jqOs9EQi0YHHkELv90QZNGZboYerfH/obZUud5XhDQpn1qWCCVgPcg==;41Dd6PbZekLrQMKmfD+g3Q=="
 ---

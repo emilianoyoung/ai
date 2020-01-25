@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Investing in AI: A Beginner's Guide"
-    excerpt: "Machine learning revolves around accumulating data that can be fed into an algorithm in ... Amazon has a bright future in artificial intelligence. The Azure platform trails behind Amazon Web Services in terms of market share, but Microsoft still enjoys a favorable position in data centers and cloud computing. Additionally, its leadership ..."
+    excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
     publishedDateTime: 2020-01-24T19:00:00Z
     sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
     ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx

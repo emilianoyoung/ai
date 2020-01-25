@@ -75,17 +75,6 @@ related:
       - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
         width: 1029
         height: 630
-  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
-    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
-    publishedDateTime: 2020-01-21T19:10:00Z
-    sourceUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/
-    ampUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
-    cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 44
   - title: "Facial recognition is coming to more smart home cameras: Why you should be worried"
     excerpt: "Police don’t have access to those videos unless a homeowner gives them permission — something Ring has been less than transparent about in the past — but imagine if those faces were sent to the cloud, where they could be matched up with, say, Amazon’s Rekognition software, which can match faces with a huge database? What to know before ..."
     publishedDateTime: 2020-01-11T18:19:00Z

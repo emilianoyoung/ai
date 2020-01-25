@@ -8,7 +8,7 @@ ampUrl: https://m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-netwo
 cdnAmpUrl: https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
