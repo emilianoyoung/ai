@@ -45,6 +45,19 @@ related:
       - url: https://i.insider.com/5e29b5c662fa8143430769e3?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "AI data reclamation startup Mine raises $3m"
+    excerpt: "The Israeli startup lets users regain control of their data and delete sensitive information on company websites. Israeli AI privacy and data reclamation startup has come out of stealth and announced that it Mine has raised $3 million in a seed financing round from Saban Ventures and Battery Ventures. Mine is also one of the 10 companies that ..."
+    publishedDateTime: 2020-01-22T10:33:00Z
+    sourceUrl: https://en.globes.co.il/en/article-ai-data-reclamation-startup-mine-raises-3m-1001315736
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 37
+    images:
+      - url: https://images.globes.co.il/images/NewGlobes/big_image_800/2020/800x392.2020121T161509.jpg
+        width: 800
+        height: 392
   - title: "Free service Mine helps users to demand companies delete their data"
     excerpt: "New free service Mine claims to wrestle control ... passed in May 2018. Mine uses machine learning algorithms to analyse the contents of a user's inbox to work out the companies and services they've signed up to over the years that may hold financial or identity-related information about them. Sorry, there seem to be some issues."
     publishedDateTime: 2020-01-21T04:42:00Z

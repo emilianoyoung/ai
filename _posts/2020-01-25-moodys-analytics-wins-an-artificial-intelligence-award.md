@@ -3,7 +3,7 @@ category: news
 title: "Moody’s Analytics Wins an Artificial Intelligence Award"
 excerpt: "NEW YORK--(BUSINESS WIRE)--Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution, which helps institutions automate the spreading of financial statements. Our extensive financial ..."
 publishedDateTime: 2020-01-25T08:19:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200117005191/en/
+sourceUrl: https://www.businesswire.com/news/home/20200117005191/en/Moody’s-Analytics-Wins-Artificial-Intelligence-Award
 type: article
 quality: 37
 heat: 37
@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Moody’s Analytics Wins an Artificial Intelligence Award"
 
-secured: "uwCXLR4qO1QzStT0D9QhF3N+bU1URA4qn49WwWZCPOSh0JuMrqwgmyxxzKpnOLKmRkWsCwv7f6zHECQimZOPdHEtwZLeTFGMtMPG9xoQgUhI1ZtSfAVMHmG3/ICW+y4uUpafNLg5uAl4uOUYe9yaHa7MrzG9K2nBPGhxxKpE1vs6v0nzdSBV1tazS/K5yhItiZQuFquQHFymU31WjqefJkoSMriNnVhHy8kyM6cnizLIn/i/y1EhMSJTcWcfmuqXt/Wphm3JUV1KO0OPzKJihWHYI3QQAfzTvb2TQ16brX3ZSezpKVEWKmLEaI/hElmL;usgAXK4kglQiH6U8wXFGZw=="
+secured: "fH2FLQh5L7oDkGW4ZtOFDnI4jPBS6S05mtwlNVyNB6wTVajh7s2nxOHiEBQwvQVg3YwfMTO6YV5ZabZ64PdEKl4hCF5JUBEBSWsvISRsUF4n+lZB1GAsNl6h+vMDZWvburL/r0OF03Eq/vmL9E4SqMn3uCgPpmNQDkPn6hJbIGuYxypRXSz+jSx4QNEEktsuQ1H4H94Nz4+MgZMPd2BVpV8zgPnobMa4DrLG0QyUvpm/NSDLBgLydFNRfgAT7me5uWM7ygEvNFkXZzs8Orcw4mY+f4LCJ5HgnyC82hxizuXPl5f7OQBrPRclSQNnJrqj;dHyf4TNDhkfjuWYfuhW6Tg=="
 ---
 

@@ -51,6 +51,21 @@ related:
       - url: https://www.chicagotribune.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
         width: 1200
         height: 800
+  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
+    excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
+    publishedDateTime: 2020-01-19T03:23:00Z
+    sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+    ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 56
+    images:
+      - url: https://www.sun-sentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+        width: 1200
+        height: 800
   - title: "Clearview AI: The company that might end privacy as we know it"
     excerpt: "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person along with links to where those photos appeared. The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ..."
     publishedDateTime: 2020-01-19T18:16:00Z
@@ -73,15 +88,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 37
-  - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
-    excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-    publishedDateTime: 2020-01-19T03:21:00Z
-    sourceUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 16
 
 secured: "Vjzh3VlnGoqelTcd2VCzI8IOSqaN81v/FgEKPDV3Cxuda2sbyfY4eBVzmUleMUKCQUA+onzZFRW05/PpsgEwRnMn3NS75tr8m1OUjskB5nck5X1OYTD36C9ZWbFjN12aF2bJjW/Jy4QrqKKKCIzgmQsKcbxCGjHvZfT8d6OTWYtwkoIDx5LfI5G0jWUbqpiU3vZAYQaUM1b/u7r6iyK753xgVyafCWNebBCJtQ/8jfjjpLMfhMVEOK6xISyfb9JVHBsE2jgSfaujfHmDvNWW/OdTkocNf403OwkEgRZy6A+vhp/B6nSNNqPnvuxofxVEPhg5xPwHEnI+1v6Yyhkr9UXjYdliykAqFBB6g9dOohvNQ+K0HrRSb1DPwu0noMNqol7ZG8xGwUmJ3kFXGY3FIlQQOoPQPdvYBlM9f6X1Z2tZ0qaQarRJFXWK+kRAnYgqWkv1++y4tXXIvkdgun+33pgyz3Tl767oelzGbmiYUZY=;ckp/CYCamyT7Fa2KJrC0Qw=="
 ---

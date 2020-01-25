@@ -23,6 +23,6 @@ images:
     height: 627
     title: "The Global Natural Language Processing (NLP) Market Size is Forecasted to Grow to USD 26.4 Billion by 2024 - ResearchAndMarkets.com"
 
-secured: "+HE0K1CeuG2otDpzNLHoBQajXzbyez5ZJGlYwpke3At/L1+vAbGmMdnN8t8Zs4WlMNfrKBld0pPev+1oRy8aLjM0YMAMiFfMd5xadqK2yrj+ED73/va4g0508d1KvCB3VY4BCZF6jqGQ109XZCa7/wqM7mHw08vxSJO4VEYSkdXX29QoA0h8ezy0axYKcVHfurSzvUXoWoYOssT18DQgZPfQo1GrCfsLzblzoZEqQW6opdIy2X0z/ZlStbHZzPYj00yY/XU5QT4xwT/qIRftj2HaKpwAYoFYVgH1Rk0KRRU0y8Yrspj/etuc6yMYQrt4;86AwQ8KYF97ckyFRyilMyg=="
+secured: "dkOBWet7ty5B4Re4fpB/fTzx3V19kBGpdHJyGdvi94oMUNrl4lmMuGN0znuZ3+5/wJaLMMByl7YwTWge9CTYq6eGxqX0wAo8z+kp5rZnG02P5++uGcgS1xbYo5P+s5cZ95BAYXt309rVbd7YMr0/qxnjGp5XVk9QNZaxoZzR4rFQJZGBOJUvt82enjV1kwtDlOaCV1eELgvKzYhrXwZXunaFD7EFd5UD3qmoujUz7OlNgbNq4YP28BuHWqWznqJ8BAc2KvVQk3B4f1tq1erPGVdnLKoXaF49z/o0XuMp+PfK1qfBpk+FJj+MeFJXrGpd;YdTqyXT+3aWyVarqAbS40Q=="
 ---
 

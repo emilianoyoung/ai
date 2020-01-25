@@ -2,20 +2,28 @@
 category: news
 title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
 excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-publishedDateTime: 2020-01-19T03:21:00Z
-sourceUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+publishedDateTime: 2020-01-19T03:23:00Z
+sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
 type: article
-quality: 16
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Sun Sentinel
+  domain: sun-sentinel.com
 
 topics:
   - AI
   - Facebook AI
+
+images:
+  - url: https://www.sun-sentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+    width: 1200
+    height: 800
+    title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
 
 related:
   - title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
@@ -80,6 +88,6 @@ related:
       domain: indiatimes.com
     quality: 37
 
-secured: "M3f26CinTYgdOSO/FqnD+HPlPR+b2tFMyy0UWWJ0Rx5ujpq83tZmDSBwJFrfyImsztdsgR9qkMJJHW+vI+sZQOZZRoYSl+4z03Z0JfQ5CQQRBRnCD0M1nUiVvcko0oua/mOu8qZml+UjV76RfXOAtuvG1HKsyCg5V3X5w1rdGyCsOh095XXsKjN8R43AqVzIPoHaOJyqtNGss8f6V4R/aj6bLnXc+vtZFifGs9MaPb976KcSKhCynvN88sc5tN4ypqq9mw8DV5ARK5KRiLszcOfq5fxVBhURcOJbdW1gU91uJteCtTZREiD5vk2cOhXyF+58cjmLZfXlgWKTo3aiP6SgTWiF62sMYc+iDI0aQzHZbT1Dyun0DUmOGr6cXRKkXyPUrfIS9P/ip5R/SD0uliqlgSDh5culCXg4bZq0+7rDTNVeuVjHZG47bZSQel/LDb1ZokAUmCg00ABHAqZJ3yWFVz2Hd6ri77swMTiQvb4=;0i7EPLNSk2u9q/fiZz9EmA=="
+secured: "EWEwHwBW81u+95P2rT2uy3H1hRL4Fxg4c++lP6v7pT1PtacoEgD9RlTAzWTyAfOccxSfMbludGt8Z61VcjOO2PvdGA0JBvcodXdLc55Avv9U7NSSeyopwhxjTJpgNFW0HCNTiKGj4xtbNs5xNSgE7nOuwYxZBKPiYYKX7nnV0vx3j7IyB+iwAX+57qVSSknnk2LrPEBcYjgSdKm4keBi8GmDnGaq42qumF+tMq9jeWslHv7Bl2qMBbnCt9hdO+3I2X7t7WXLlIhBlSOIiXSibHcdD363bkhmEBZVifBWVjKL5qHuUGhU9S/Y2tr4o+pD;WRE5fDPkntN5XpGN6G6lNw=="
 ---
 
