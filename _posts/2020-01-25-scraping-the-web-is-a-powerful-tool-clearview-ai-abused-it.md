@@ -46,17 +46,17 @@ related:
         height: 800
   - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
     excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
-    publishedDateTime: 2020-01-19T03:23:00Z
-    sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
-    ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
-    cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    publishedDateTime: 2020-01-19T03:21:00Z
+    sourceUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html
+    ampUrl: https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
+    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-nw-nyt-clearview-facial-recognition-20200119-dkdqz7ypaveb3id42tpz7ymase-story.html?outputType=amp
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 56
     images:
-      - url: https://www.sun-sentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
+      - url: https://www.orlandosentinel.com/resizer/oZrdNHcxpttOUshyFpRzZViOTZc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/6ZYRERIGSNBEVEWMOA6S7BMDIU.jpg
         width: 1200
         height: 800
   - title: "Class-action lawsuit filed against controversial Clearview AI startup"
@@ -91,6 +91,6 @@ related:
       domain: indiatimes.com
     quality: 37
 
-secured: "h1H1ojuSXgONLKGtxXPeZ8Bp63Rgf4Yz8aC2jnqGYwiP2k93YaSTnsbZTlY6SigptrcGWo9HRzkGPvxuxPeNGnuzuOpL0uiVga2t/DMZquUxc09LYfGYwNnVYxYjrD7NdrVopTs+shMKi2PsUnys0xI5/saN0brTACVLlwiKWu124K/urXdYiyBCq3lDUvWMrdIIxdlOrYMN/JMxMyk/T67jo5H2Cxl54lsJtvrJygrIrX/I3Yw0QsgTwVx6ePKPQEIb2pJ2q9LrOnQarFa9IDx2CUuRJbukIB6UCHV7mz5LPSdZaavpys27aL/V9DtZcdsR3L84U+D2/7WG09HPYTc9uxQYeKvItOp1oE6Sfv9a5n83joWOG+QfL5Zbva9ozgpfKqQ4PXA/mlo7RKrwZwltjTQcw7MLtm/LCcJluJl5BlcneDZXupbQskeGrA8QtvtgK/VMq+x8DrL5Sudq0qhQbIoGoMGU4fEkxLfO4QA=;UfR348GYbuiNnwU63gBQcw=="
+secured: "vzFz6R9g0PVknBaFiKvTxZjWJeKAGtpPuo9xURw2TR5XQDBPym9EYHxr2fCcVrEOr1SMrwtLHMhS14Lp1aeJpDh7UKuNSAftEmZFwIukH4jpAh5mVa4zi0bgJxz29KkYZPo92wk/CeO3nYlsMoA102oV1v3BXUpnwBgcUYcQhp79aQG6iZhncOpfy+0O7JvtwAckA0/UHAV9l0b4FZ0wfXpB08lBsZhGhDeEk+xjZBMtjKbysSMWqC8fO76vmDh8F242qiJk897PWexpEZZcXwODP3sXVAbpoQzIsyjclCU75t8zXgYvheuYEGoQRu0WyPeZ6ouDRO7YhOGGL9aCozz7urbjz8cxlhVJTADOp2FuViFco1FLfTWW+bvmWiDk95YdQjAW9qV3ltp8kcTsAxve960d1qkOZb5zpgZKbiww1/grn0fcuzQFCO+GKrpXLLtOq810K4XoYXlCFjbbwW2IjkSwgzxJiA3wsEC9yl8=;H0UFxJfay48u33b7slComw=="
 ---
 

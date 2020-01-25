@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Met Police to deploy facial recognition cameras"
-excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
-publishedDateTime: 2020-01-24T11:41:00Z
-sourceUrl: https://www.bbc.com/news/uk-51237665
+excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent ..."
+publishedDateTime: 2020-01-24T11:38:00Z
+sourceUrl: https://www.bbc.co.uk/news/uk-51237665
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -356,6 +352,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "eIU59aMTJl4LhQ7xNewCfGWRPfzjmwspEov5l/NDF1h7wPKNC5od6BQZ2GkQW8oX4ROpuaBLDa4rIPg+eSGV5VQRoqpQv9gq0NwqC1VVpPXh5UaazMnY3s7zK8fdeqGZ+JJvqBlWqeNnQG6yGyFWJKC0hLlXThQj6cAYKvDwl9MMbRS5g0BOEZnp8DE4mtBpMbzdKy8UnGR71mvuMkfJ0DJs2mu7wrPkJ1MT1ikw2QTKLWt3TsybnjH0rrelI1FDK96JbAc0guDVuOuiQpJOujPuJ76du2e6YtDbwxsre3oCIa73HiLJUQ19pl8LNPqQ;VltIBEconvahHQ03R46PnQ=="
+secured: "i91nytz4saySnm3tvJtuBxxR/yekImgvODFwiHrd8S8rk+EPR9Y+TzalcFYsMICJ1A48Zdu/oi8Pr6ix/7dxcBcbGw8Av3yUFQFD8CLK7MewHMsRn3SWo71nyUROew8dybLP8ypZFievnB+ta1AZ/4wkJlRRIeepgEfYSgha05KS8MuWqspIa5jk4oYZmRCBdeu9S8xBosK2BMTLr1Wx/b5aV6oSJzAgIssf/mvHQ/Eiw2k3n3Wuewkw+zwXnGIBpO2R7xFfOCk9Weg1lsK0UDN6L4qVr/0drjHaTVxLXuQwXhnazqFcese2Lr3ap5Gg;925YJ/8EuRy9JER/V7iAnQ=="
 ---
 

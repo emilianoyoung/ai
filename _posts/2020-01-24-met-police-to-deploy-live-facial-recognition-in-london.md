@@ -189,19 +189,6 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/n13_super_nintendo_world_universal_studios_japan-1200x630-c-ar1.91.jpg
         width: 970
         height: 507
-  - title: "Met Police to deploy facial recognition cameras"
-    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
-    publishedDateTime: 2020-01-24T11:41:00Z
-    sourceUrl: https://www.bbc.com/news/uk-51237665
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
-        width: 1024
-        height: 576
   - title: "The end of anonymity? Facial recognition app used by police raises serious concerns, say privacy advocates"
     excerpt: "A secretive facial recognition software used by hundreds of police forces is raising concerns after a New York Times investigation said it could \"end privacy as we know it.\" Clearview A.I. has extracted more than three billion photos from public web sites like Facebook, Instagram, employment sites and others, and used them to create a ..."
     publishedDateTime: 2020-01-22T00:24:00Z
@@ -323,6 +310,19 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg
         width: 1600
         height: 1035
+  - title: "Met Police to deploy facial recognition cameras"
+    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent ..."
+    publishedDateTime: 2020-01-24T11:38:00Z
+    sourceUrl: https://www.bbc.co.uk/news/uk-51237665
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
+        width: 1024
+        height: 576
   - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
     excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
     publishedDateTime: 2020-01-24T23:06:00Z

@@ -1,58 +1,75 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts. Using AWS technology, Germany’s premier ..."
-publishedDateTime: 2020-01-13T12:24:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200113005382/en/Bundesliga-All-In-AWS-Revolutionize-Football-Viewing-Experience
+excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
+publishedDateTime: 2020-01-13T11:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://mms.businesswire.com/media/20200113005382/en/766965/23/AWS_logo_RGB.jpg
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
-    height: 627
+    height: 630
     title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
 
 related:
-  - title: "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience"
-    excerpt: "It is broadcast on television in over 200 countries and is operated by the DFL Deutsche Fußball Liga. Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics ..."
-    publishedDateTime: 2020-01-14T07:16:00Z
-    sourceUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html
-    ampUrl: https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
-    cdnAmpUrl: https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html
+  - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
+    excerpt: "(RTTNews) - Amazon said Germany's premier national football league Bundesliga selected Amazon Web Services or AWS as its official technology provider, enriching the overall football experience for its global fan base."
+    publishedDateTime: 2020-01-14T14:38:00Z
+    sourceUrl: https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14
+    ampUrl: https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp
     type: article
     provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 59
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 103
     images:
-      - url: https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg
-        width: 788
-        height: 337
-  - title: "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key"
-    excerpt: "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS to beef up its statistical acumen as well as improve the fan experience. Among the ..."
-    publishedDateTime: 2020-01-13T15:31:00Z
-    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
+  - title: "German Bundesliga selects AWS for personalised coverage"
+    excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across ..."
+    publishedDateTime: 2020-01-13T11:20:00Z
+    sourceUrl: https://www.broadbandtvnews.com/2020/01/13/german-bundesliga-selects-aws-for-personalised-coverage/
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 51
+      name: Broadband TV News
+      domain: broadbandtvnews.com
+    quality: 39
     images:
-      - url: https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png
-        width: 600
-        height: 378
+      - url: https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/Bundesliga-2017.jpg?fit=1103%2C618&ssl=1
+        width: 1103
+        height: 618
+  - title: "Germany's Bundesliga Goes All-In on AWS"
+    excerpt: "Specifically, Bundesliga will build new cloud-based services that automate processes, increase operational efficiency, and enhance the viewing experience using AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services."
+    publishedDateTime: 2020-01-14T05:29:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/germanys-bundesliga-goes-all-in-on-aws/231205
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 39
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
-secured: "do9HttWS+gAkKkkEq2LbUw2Cj6AUvM/p3vK/+de/2Yysfwpq+3MeGOjejgpkwWnKOLiA9pCsFhuq0fGkzEcZaLr/56wngN8uN9VU2l88577kV/c0byWgWs+QztXGm17QYKaTPrfYM3+9LIs18WgG3o7wWxkO+fDpOBSAsHjnk706nkMRSpnkSDadvL+ImUOmDbxfpTMxUdfFRXbMKELUevJCyJ2Gcpf0h0rhuyh9xrjFUcUlNtL143eA+rsWuAUtk3chgZJEH7cZs1dfoPXF+s/UOG9H2qH98e1lsVkEz58L3Ua/wRHfvjh1creoixe9;Ljlo18ehRYXmpa9FwOE5ag=="
+secured: "hfnvM0V642Fs2L/7LAK95hE5BtTmV7GIwJzoUkEAXVQMF2JZ+QxgOumDRVmoqJ9HAsXMHs1GByUTxAtik/vzZxphvVAMdDjIUxVU/ARHgL1YN9HxZnNqRYK7Cn79kgw3KEvHcJ5hVi2LQljpfhflp2nXFiSyYU/UGP/p9euvZy5y6k2zK0ilp7D6Y1F5ckr4OxQAElRVOvRItY2v+np4WIulsG78BECkpJtleXG+EViZFW5OYPLZ04maVSG9dE+sP6F9LKxT889rt6/ieJaPmc7Ya/QjWXT04nJ2FQpqTLOhqL0LKzF/jzlqjzPZPRnU;dSJ5I4HnbcQEME1nZDKJmg=="
 ---
 
