@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/facebook-messenger-may-soon-use-face-recogniti
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

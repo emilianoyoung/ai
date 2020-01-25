@@ -26,6 +26,6 @@ images:
     height: 365
     title: "A beginner’s guide to the AI apocalypse: Wall-E syndrome"
 
-secured: "spt9rMtZXMDx77we2D3FOXjKY/v5F9mFUzuygkT/+Wde7eM6GJteIMsLaU0T3nh9XpITiy8UNPA+AgKu8VeAtCZAJJw9pNwh/4+Dky/x4YjV1LSBxMTzCkWoeCk71ySn0ERpXyy1FoBToBBU9YbfcY6tQxY6HKnTq6YfHOeLeXQQgN50b2VdwVND8W921f8b4KAd4nr0rAdFYK2p343eN7RiW9BNfKP/YTIOZvSnxFQqDrwh8EKldRez2MTEMiZLeNKRRh+5lC9oviqNbVpBLoIxuyDZcSv0aG8dEuKWdqrsdAzK3D6REzhGdkQI6AQ7qk6x/Wiz4RyNU1nNhSYKPw==;GPBJBRDw+mOTybCTlEfZ5w=="
+secured: "VOli710nHHpSPVlaKoG4PTU5qcNZGMJklfNk+mRf2A3zsYhkGBnm3eNdzyvkcB/p0I0FDb0uLIAjgJSG/B5oaoEBcQidgV4Z2PY4fQf2sqGVyY03FLaijy5VmNFVHq97EKsY5UZk8A6Kq1+pxcwF2NcUn13v22Fqm/eqN0i4IvuRwynkRv+35Qzg5VhWZnOiUUUUsEDgxY7oDwp/DfZYoXQ6mGkqibqD6W4yqHUVklbdBrWlJLF0lVnr06zq0S10uH7hJQ9OkN2VxldvoqPCb2l40ISVeCTtNTV1DTkmyQkt4oSWVT44jrfgqwwcRdDT+dDuCLi5nNzbFGJz2aqSoQ==;hQ6c65IuYVy7XGPwmo6I7Q=="
 ---
 

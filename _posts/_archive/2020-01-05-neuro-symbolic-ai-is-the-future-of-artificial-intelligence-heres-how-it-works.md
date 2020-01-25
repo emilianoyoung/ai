@@ -5,9 +5,9 @@ excerpt: "And it needs to happen by reinventing artificial intelligence as we kn
 publishedDateTime: 2020-01-05T10:00:00Z
 sourceUrl: https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/
 type: article
-quality: 64
-heat: 64
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Digital Trends
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://icdn2.digitaltrends.com/image/digitaltrends/mit_ibmwatsonshapes-2-1200x630-c-ar1.91.jpg
-    width: 720
-    height: 376
-    title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
-
-secured: "kOkvy5/4Lcylo2lOrWNbKRjvqwLNU41aXDbyKtHQqHftgboVoZ4wvmyUckxPsT1ik+FhbP5WLJbLWls6rwpeW3XM4uxuAKbftI8bZfQUpSQVLnoQxuUTW3q18tsaOiH0WqYDeJYeqjulaZK5xesQSGEzDJgkiAyYCL8p0/mLxMBsOrzqoUKKLQgGqlwN7+/eH+hoYIUfm/hJfuck7I620nqj/VVL9CSba55jZ/Vb4RIVCQH2Ntqi0z92Kdm+7h2Gb1wy0P4w6EPMUjTFwy+s524SiuW4W72n8476ubxFTajYml/aHECD5q8c0pZa2tx3;63q/A3DDIKkjcxjG4JiPBw=="
+secured: "iYR9ux9B+rlKElnH+gwRvSKIYC0XPluujJ4PZOTCIgR54Y8RxjlSHc/XDnn1kIxnng+0Uklz6pvnPhkGl5fKeRKDn8toW0af6Gh9hPYlDBOalJDTBVl5LBXJMNdgPdVBJU8FTmbQUMd5p/0JReMOlqTQTgk8Jy1gN9IylwCu9WI0lxg39dr4ydz1ISlOlZm8ImOhevJHIf72iKnvpzkVkJGNnjgW/cmA1LwMdp5XtZmfm2kOOeTnu/FVoeiz67lMf0ed2e8i6LCmVP0U5Djj0HPv9XyNx/7uitGdNKRJOaSsuI0NkZ1AchmlKbohnpJYVWxuOJmkV/UA9LRxU8aejPHYnjyve0uYLVBlT1DSKL08f5bbZjt8KB2cJERpssfSnbom0n5d1S0MAlJ3ZL7XFip9VJziizjgNHUtHJXU+l4iKgic3qne/PhlCZeLjKcBjrWyX01kH27WKTvAMt7dDvZeAZI8BXSKWp5IMoq4xhY=;SKxRvYQfvEkte/BzF1NNtg=="
 ---
 

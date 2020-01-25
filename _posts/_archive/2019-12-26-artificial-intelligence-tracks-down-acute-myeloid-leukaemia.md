@@ -21,21 +21,17 @@ topics:
 
 related:
   - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
+    excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ..."
     publishedDateTime: 2019-12-26T11:12:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 59
-    images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
-        width: 800
-        height: 448
+      name: The Asian Age
+      domain: asianage.com
+    quality: 39
 
-secured: "libZt420oAqchN0sQLdBYXF1aJbe/AWhp1JVUaK51urR/RYtif9wDGIOFC3/RUdcdMo1QoEg1hJcG/9MwzH6L+BLplwjeprlwOMxwUPUDTSikYzABnFbpMN2/ZiAFtx9Et/onoocg87I4R0WPtXuZsWhS+smvcTiZAYqqo1Zj5mEP6Oqywqdoi1jLR4AEHAhkziL9jnsiCGNK6wMtbRmQxfR0XeLJRrMgkIQB+BfIcU3qCoZ844oM/70B5jDPnNjcTQSqQfKihsYwEB1q1GpRdu2gjP0tAymU3qkbGEgVHD1q3e0NqbAwOZkr8u7s9wp;Mn6Tbd5gAp5N5pn7jJq/Cw=="
+secured: "HHz3UmKxQrmiKXfLqU4Nds9kNy6nrLuXhChwRJ/choWdrbpQgsIEvb5+fv2LftU7PGm+zMJ0S6fRH2i//QKDQdyvNXvvGhq5qow1xbZh5wTT6IVLlhf8p5/OjZL6GxtUiJ4aFDF/rFR+Ejhz1gBP/sWDtN8Ps5+2R6dwM1F2ZBqQLQpLMOVOSl3CeKpd10+/4PjdbW+VseZJDq8P/PDf0gu1gQNCQWMTKJN3+WbVv2FMIk73v/g8IBerhwQ1kw8MhQLfJ46MJlAQMPtO64QGvX35tkh3BaLiIop2167rVbBYpcR/DmhtsapuQNHymsfs;dMLRuk45U1hGF22BzH4ivA=="
 ---
 
