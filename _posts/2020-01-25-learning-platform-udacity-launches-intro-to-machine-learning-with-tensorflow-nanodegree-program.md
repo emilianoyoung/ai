@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
-    excerpt: "Silicon-valley based global lifelong learning platform Udacity recently announced the launch of its new Nanodegree program: Intro to Machine Learning with TensorFlow. The next-generation program in machine learning (ML) introduces learners to the fundamentals of Machine Learning in a way that is effective and engaging at the same time."
-    publishedDateTime: 2020-01-25T04:27:00Z
-    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html
-    ampUrl: https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html
+    excerpt: "The new program offers practitioner level skills in new-generation Machine Learning through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML models powered by multi-layer neural networks. Silicon-valley based global lifelong learning platform Udacity recently announced the ..."
+    publishedDateTime: 2020-01-25T04:30:00Z
+    sourceUrl: https://www.asianage.com/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html
+    ampUrl: https://www.asianage.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html
+    cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodegree-program.html
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 71
+      name: The Asian Age
+      domain: asianage.com
+    quality: 54
     images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095642.Medi.jpeg
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095630.Medi.jpeg
         width: 800
         height: 448
   - title: "Udacity launches new course called Intro to Machine Learning with TensorFlow"
@@ -51,6 +51,6 @@ related:
       domain: dqindia.com
     quality: 36
 
-secured: "7Ky1zRUz4yUYQ+I7Yrgl45tqFe8YR24tbigZFKeC0PB75pgGHwwTceM+DZuYrb3dtlBaOccokxzBu/MJk62+MhU68w+3M3OWxN+ZmjjhkDyjp9gehZ5M6bDE4tayqC5g0x77DSBeoRjG4Pk9iEXhgnXTV0sVVVvop0S9gqSoR9WTobcHCMyuCttyfKrJUWS3PBNnQopl15VZHtpg9siFfWo8nckcBYPBMMxphxWWLnNThdHwVang6DVOjJop3zhFmrrIuaIIJ0E7lGqhViLgEtSYwWVm+HRnU2eqa52VCGSkDGsj7UfG4WwRLAHlU7ZM;+E2zYeOLvqAZhy2POZSm3g=="
+secured: "NYCmC3IBgO6bXySKCj8gz2qGNxbYTYQYOIRUoDrKHKvFTueY3w76bFTxB55khZbLRvERuov891jdiLIKeMhxYNYl3CBAY/122pW6PKAoI5ut8v548RWcPrF5LMFKMwNsyZGFAs9cH17HZvGtkb3r13INnarh+ZBTI48unZPGxofkT+Y9PYdGltN3dGLS4coqXx8UVI0emHknRvmWOpiIh1+VlQSN2BEXq1eadjwTNoqnVVqW55LZMMFwW2/3plP7ozJTSCD8IrViM5G9BKDrmQ9bWU+mltZxqLkPz7MttXDEkgaMHjnfveCZ+ocJ2hvJ7RdiEGHftKO5Y8laFFOLcV8SRzpYsmhERjTA52dTT3kNTCDtnf8+HmPzYdpmgc0os5+E+O1vReJra54abjalBazXzx7TZiB8UdG7eoIXg9jxb/7b6Xq3jTub6WykhsuvkNtmXTWTYe5jSOGyFFAsldCqnI1lwO/My4snVI9Y2vw=;GFP+jMoszHcgzgirRuPXiw=="
 ---
 

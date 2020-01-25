@@ -8,7 +8,7 @@ ampUrl: https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-lette
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html
 type: article
 quality: 203
-heat: 823
+heat: 833
 published: true
 
 provider:
@@ -770,6 +770,19 @@ related:
       - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
         width: 1140
         height: 641
+  - title: "London’s Met Police to Use Live Facial Recognition Technology"
+    excerpt: "Critics of facial recognition took a big hit today, as London's Metropolitan Police service has announced they will begin using Live Facial Recognition (LFR) technology on citizens in the massive European city. As perhaps one of the most controversial technologies in recent memory, debate about the use of facial recognition to police citizens ..."
+    publishedDateTime: 2020-01-24T22:05:00Z
+    sourceUrl: https://tech.co/news/met-police-live-facial-recognition-2020-01
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: https://images.tech.co/wp-content/uploads/2020/01/24164816/london-met-facial-recogntion.jpg
+        width: 1920
+        height: 960
   - title: "Shanghai introduces facial recognition drug collection terminals to combat abuse by patients and pharmacists"
     excerpt: "Shanghai has begun rolling out a drug collection terminal equipped with facial recognition technology for people buying certain medicines at pharmacies and hospitals in an effort to stem abuse. At the new terminals, pharmacists and buyers of controlled medicines – such as those containing sedatives and psychotropic substances – will be ..."
     publishedDateTime: 2020-01-17T01:32:00Z

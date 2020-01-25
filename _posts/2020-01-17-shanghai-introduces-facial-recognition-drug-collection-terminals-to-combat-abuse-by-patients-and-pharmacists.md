@@ -779,6 +779,19 @@ related:
       - url: https://media.11alive.com/assets/WXIA/images/5ac990c0-fbc8-4295-aaa0-445419e30693/5ac990c0-fbc8-4295-aaa0-445419e30693_1140x641.jpg
         width: 1140
         height: 641
+  - title: "London’s Met Police to Use Live Facial Recognition Technology"
+    excerpt: "Critics of facial recognition took a big hit today, as London's Metropolitan Police service has announced they will begin using Live Facial Recognition (LFR) technology on citizens in the massive European city. As perhaps one of the most controversial technologies in recent memory, debate about the use of facial recognition to police citizens ..."
+    publishedDateTime: 2020-01-24T22:05:00Z
+    sourceUrl: https://tech.co/news/met-police-live-facial-recognition-2020-01
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: https://images.tech.co/wp-content/uploads/2020/01/24164816/london-met-facial-recogntion.jpg
+        width: 1920
+        height: 960
   - title: "An obscure app has scraped 3 billion photos to use for facial recognition and is selling its services to law enforcement"
     excerpt: "According to a report from the New York Times, a largely unknown company called Clearview AI has been scraping every inch of the internet for photos of faces in order to train facial recognition technology. It has in turn sold access to its massive and comprehensive database to hundreds of law enforcement agencies including the FBI and the ..."
     publishedDateTime: 2020-01-20T20:16:00Z

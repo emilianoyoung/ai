@@ -277,6 +277,21 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 47
+  - title: "London Police are setting up live facial recognition cameras and people are not happy about it"
+    excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
+    publishedDateTime: 2020-01-24T18:11:00Z
+    sourceUrl: https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/
+    ampUrl: https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/
+    cdnAmpUrl: https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 47
+    images:
+      - url: https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg
+        width: 1528
+        height: 900
   - title: "Controversial facial recognition technology being rolled out by London police, alarming privacy groups"
     excerpt: "LONDON -- Facial recognition technology is set to be rolled out across London by the Metropolitan Police Service beginning Friday, despite concerns over the technology’s effectiveness and objections from privacy advocates. The use of Live Facial Recognition (LFR) technology will be “intelligence-led and deployed to specific locations” and ..."
     publishedDateTime: 2020-01-24T13:36:00Z
@@ -292,6 +307,19 @@ related:
       - url: https://s.abcnews.com/images/International/london-cameras-ap-file-ml-200124_hpMain_16x9_992.jpg
         width: 992
         height: 558
+  - title: "Met Police deploy NEC biometric facial recognition tech across London"
+    excerpt: "The Metropolitan Police in the U.K. has rolled out in London real-time facial recognition technology developed by NEC, reports CBR. The implementation “will be intelligence-led and deployed to specific locations in London. This will help tackle serious crime, including serious violence, gun and knife crime, child sexual exploitation and help ..."
+    publishedDateTime: 2020-01-24T18:24:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/met-police-deploy-nec-biometric-facial-recognition-tech-across-london
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg
+        width: 1600
+        height: 1035
   - title: "Met Police to deploy facial recognition cameras"
     excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
     publishedDateTime: 2020-01-24T11:38:00Z
@@ -305,6 +333,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
         width: 1024
         height: 576
+  - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
+    excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
+    publishedDateTime: 2020-01-24T23:06:00Z
+    sourceUrl: https://www.rt.com/uk/479119-police-facial-recognition-cameras/
+    ampUrl: https://www.rt.com/uk/479119-police-facial-recognition-cameras/amp/
+    cdnAmpUrl: https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/479119-police-facial-recognition-cameras/amp/
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 34
+    images:
+      - url: https://cdni.rt.com/files/2020.01/xxl/5e2b1ec285f5406a5c364e7c.jpg
+        width: 1240
+        height: 697
   - title: "Facial recognition to be rolled out across London by police, despite privacy concerns"
     excerpt: "Police are to start using controversial facial recognition across London, despite concerns over the technology's accuracy and privacy issues. The Metropolitan Police said every deployment would be “bespoke” and target lists of wanted offenders or vulnerable missing people. Assistant Commissioner Nick Ephgrave said live facial recognition ..."
     publishedDateTime: 2020-01-24T10:36:00Z
