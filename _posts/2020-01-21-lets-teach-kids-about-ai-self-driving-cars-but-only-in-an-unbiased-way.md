@@ -45,6 +45,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172913287%2F0x0.jpg%3FcropX1%3D931%26cropX2%3D6060%26cropY1%3D0%26cropY2%3D3415
         width: 1200
         height: 799
+  - title: "That Car In California That Mysteriously Disappeared After Going Off A Cliff Is A Valuable Lesson For AI Self-Driving Cars"
+    excerpt: "Lessons learned for self-driving cars due to a conventional car that went off a cliff and disappeared altogether."
+    publishedDateTime: 2020-01-25T15:26:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F175421479%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444
+        width: 1200
+        height: 675
   - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
     excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
     publishedDateTime: 2020-01-20T14:28:00Z

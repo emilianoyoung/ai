@@ -29,6 +29,6 @@ images:
     height: 621
     title: "What’s in a name? The ‘deep learning’ debate"
 
-secured: "B+CqkK4K0eGqhSKFvwGpVywggNWFc/DYp3FRy3AUj17+hv6yqVQjD0Y8Hr32NnCK6zqsSfFNjGlrl+prsbdA5mP7d1h6XO1nhRSxGZ4xWXJ0Fxq9RhzI+WQzKq+cpsp5bSk5oyKxkSXq9OneF9Eb1bR8aI75pDU63VqpEyti6wgkECaM8V24hOM/xaEmpsupyXaAtqgIZVMXQAPOxhJ7oDosQ29M75RgQx+L+kAPF4X8q6Ip0QiOk9sax7I3S9zJgzy4mUdF+cR/n++xQI9Bk18Y2rTR3JeovtkqT15viaB0/1cQyGrtviystQ8VCx33;vjn0pkCnXH3BRy00CVRNNw=="
+secured: "Prbz4ZyCSzKAQzVzCbaAV5OKrXjHmPulJou6gzeWMeCS+FvdbJZ9938QdCvmrxBoEPzt6TeE3wV6DlpE5dBqwIlFqDy6XXWpXUq928JChspJgkqmwmT3nE8f1RijodXcEB3EiLrjNr4fSWquh60Xqe+h8v97RwIb7a5kdp5AfH34S5vwnu7WQp8YsLCKPDKV5znurPj3IXtgnsuVVwT+DtK7+7jG68fcpFy5KGdWTn3/TVGuhWGcWdQp5PsIoMW+mlmEX0+wEBZvpKPe1TclPQX3ksGh/hPkK+zJhL+CfGtTsEM5yvOLHiLi3Byb0j9V;aHSJCZqsqDOo3n2eJdI9cQ=="
 ---
 

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "AWM Smart Shelf Showcases AWM Frictionless on Microsoft Azure at Retails Big Show"
+title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail's Big Show"
 excerpt: "To take ease-of-use to the next level, using Azure Cognitive Services, shoppers will be able to be identified with ... The underlying technologies are built utilizing artificial intelligence, computer vision, machine learning, and application engineering to reinvent the retail space as it is known today. The ecosystem of solutions improves ..."
-publishedDateTime: 2020-01-12T16:34:00Z
-sourceUrl: https://www.financialbuzz.com/awm-smart-shelf-showcases-awm-frictionless-on-microsoft-azure-at-retails-big-show/
+publishedDateTime: 2020-01-12T16:42:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-awm-smart-shelfreg-showcases-awm-frictionlesstrade-microsoft-azure-/2020/01/12/9079891.htm
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 62
+heat: 62
+published: true
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "6pu4mJFeSuQ3dXAnfkgOsorMSyISfkWNVhvNMSNebqTm+0hcY+zYWdDzvzYP/lrAtMk5jWMPwrVChzdUVx1NGQVwgUGSlX5eaR+A9ENJtj0J9M05OiG40V6iNMEreSE8a1UmsIuIOwHIfWI0NZHtuBm8IPsx5o1v/61BCK+ZfkMwm0sCdv1qOXhvy24MYhVIkk0ZdMuDysbOyroX94x1dCrdnUMrGHN0pX7W8mpiQZIQ8isCYnzw0O4Js99QMB1VcrbxEs9rFVzQfvtLHN/WA/XgxQG+/Oqx2kRJgOoKs1r3OzjDG8AQECZ7qStatTOpIgBTCuv2bKOWmro4e1ioIoSK0iZeOmThItxTEr/lGSZLfnlX6p5VTEGsm19pInjTttAELs1X9qhCZdgS/x+7rNHhFeLO+KCggLFO5mTNQ+t05frSvIIUeW9ebqt9KaPnPyrPSmj1nNkzfyOH5WqOzucs2aAgCA+ijcDoIHNcPNA=;Ooed/9IA/yrqGlsMTjwd9g=="
+images:
+  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
+    width: 252
+    height: 335
+    title: "AWM Smart Shelf® Showcases AWM Frictionless™ on Microsoft Azure at Retail's Big Show"
+
+secured: "mOxU9EmJEHn6iokgy6CTqTJj8zS3mguboaO5d2M2MME+IeDhO1KFLPtxgc5r5SwxpHaEnOmv4kTiJfHfPgofE8aXqOGdaf2S/QGIyrivS8VbqJHdY/k6p0rkzPErjOR+D9IPEUYxN7MYi1oJ8Oo4onU08RjUKGDdHbsakQj1thqeWcIS5oCq6JUQTzE1nEg2qYh48RlqDp7Ag7frNfydNJTDXGYkBTJPrsAAYeshF2R8D//dpVo93fojug3Fam1SaoE8VU3bluF8w0K5zVLAdM7AAkSlUftyJAwL1YywQTvRsNnZZ/6XufQLqvp4B4hX;xl07toESiJuLa/y5Eb2tow=="
 ---
 

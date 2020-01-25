@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Uber set to bring self driving cars to Washington"
-excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
-publishedDateTime: 2020-01-25T00:47:00Z
-sourceUrl: https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/
+title: "That Car In California That Mysteriously Disappeared After Going Off A Cliff Is A Valuable Lesson For AI Self-Driving Cars"
+excerpt: "Lessons learned for self-driving cars due to a conventional car that went off a cliff and disappeared altogether."
+publishedDateTime: 2020-01-25T15:26:00Z
+sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/
+ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
 type: article
-quality: 39
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: ABC Columbia
-  domain: abccolumbia.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg
-    width: 992
-    height: 558
-    title: "Uber set to bring self driving cars to Washington"
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F175421479%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444
+    width: 1200
+    height: 675
+    title: "That Car In California That Mysteriously Disappeared After Going Off A Cliff Is A Valuable Lesson For AI Self-Driving Cars"
 
 related:
   - title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
@@ -54,21 +60,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg
         width: 1200
         height: 800
-  - title: "That Car In California That Mysteriously Disappeared After Going Off A Cliff Is A Valuable Lesson For AI Self-Driving Cars"
-    excerpt: "Lessons learned for self-driving cars due to a conventional car that went off a cliff and disappeared altogether."
-    publishedDateTime: 2020-01-25T15:26:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/25/that-car-in-california-that-mysteriously-disappeared-after-going-off-a-cliff-is-a-valuable-lesson-for-ai-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F175421479%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444
-        width: 1200
-        height: 675
   - title: "I Took a Test Drive in Qualcomm’s Self-Driving Car on a Busy Freeway"
     excerpt: "A company known for its smartphone chips wants to power self-driving cars! We’re taking a test drive in their experimental vehicle! Qualcomm is a San Diego based company best known for it’s smartphone chips! Now they want want to be the brains behind self driving cars, too. When you think self-driving cars, you might think Tesla ..."
     publishedDateTime: 2020-01-20T14:28:00Z
@@ -99,6 +90,19 @@ related:
       - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
         width: 600
         height: 400
+  - title: "Uber set to bring self driving cars to Washington"
+    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
+    publishedDateTime: 2020-01-25T00:47:00Z
+    sourceUrl: https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/
+    type: article
+    provider:
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 39
+    images:
+      - url: https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg
+        width: 992
+        height: 558
   - title: "The Hype of Self-Driving Cars Gives Way to Reality"
     excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
     publishedDateTime: 2020-01-23T21:32:00Z
@@ -111,6 +115,6 @@ related:
       domain: aarp.org
     quality: 24
 
-secured: "n0uk1tHqzzVD8XAKPeBJXyAjpNrphBFnabHysi3p40M7ZPpTnuCaw98kAbLNljc9+23TNj+DlpGeCSH0zxCv8Xzf6wOkLsn/FlTszUhGPY56ZGt92/VS3AYP2f8Bdays3vSto3NXMCCPhm2/oKNUehnwNhSRHD6LPSlryn+JjnInVLcJZHBS0xE49+Pkxz4X0DS8ZBiC/+4b87Vo4/j6prRWt7P74VaMQY5aZrKmqTWtx5RDrMmEEeLEZiGOXocYvJ5W6TB590uFBN0Ti1MsdUjN/rVh/DlUQs+4+bC4le0eaamvgTGYuWeGxVEAfJa0;Y2wTGvWuuRF9J26PVT1FTw=="
+secured: "0EXx0C2s3HOfYFkaYdloiMjjQNFhh6CyX2P2MZjl1tUF42uUpkWSNcYrnZHDctDdb+vnH5uHxSV8k+nSxNltTp5V9LQgvWmIiAHHNenPDKvG7l4JcQoNpLw1XDvRcrYCi7bq5GnzgNioaNddcUG6Rmap11gVDCHYheNYcP3+WnpYKHhLhd33vjaMUr97r2tuloVJylKZTnFOf8vIyfReMEB9Og5rCdjZDGeg73p57JDmQEszE87FxYRMVlJNdTCkZcJSzrhlFG1tZoMjrSgKXv+2NiN4Hx6mDilooivQ12zdYu/p49YkrbbakPvOoF9d;8txiO/hNeUqm9ssX4eHswg=="
 ---
 
