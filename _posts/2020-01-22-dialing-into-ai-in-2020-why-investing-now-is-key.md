@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Investing in AI: A Beginner's Guide"
-    excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
+    excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
     publishedDateTime: 2020-01-24T19:00:00Z
     sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
     ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx

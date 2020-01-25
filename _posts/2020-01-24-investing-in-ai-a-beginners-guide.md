@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
+excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
@@ -21,7 +21,7 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
@@ -44,6 +44,6 @@ related:
         width: 630
         height: 500
 
-secured: "pe/Ot7RCqt4TD9QsZbIRUuBw/GH8VcZixiXVvo8o53V8KM5CT4cpFjPi023aUnPAR1VeiB74n0XzkY4kqP2952HVySmOInKVpl6KFgh/SiPS6agyLFzYAWu3u/fv6La2CQQDK6nKMlzYA2V4Og6zgh1K9YulPYM63tQ8n+GJNshaqEcLSyyFlpol6ryO+IfuIjka8BcHjsfI7yZa1S26dMb2SoAVgZCth98yuqrMIU9pCBpl0pcWncnQcCQ3HmVWi9OSc1OZRvZHb58UNEwCoB28G/p5a3kXBHm3cx0q2vSTICA7AlCNraPOzE03XDzX;mg1mSrXy0Y0wIzl8AoHzJA=="
+secured: "0oc5YTeveC642ME9WKMg+Efy3UVbwAQW2hdgDxlZDka91DHmMyz7MO+JQmmCkV93ZWgWPTITaURzLVeylhHYlG5S19UxwUKUldXauWArb+OZROSDWK9lrkjyXJpvD2yh0MU94l91k9vZMvCQ8f58zSHf0BH1UumU2F22P9l4tP3Nl7HAzx5bkxmTPFSMfYKB8347sAXo9Xn3Xdj1mVOodp8rOXKKDiA2a++ocF4B7zYDOFC47iq913+pVLp5+2JL2NHz3jD8kbLfl3TE3FOvQgkgf3qUSopu036IG5wGphso9IsxwD1uLIg+0vXh83Ne;Gdr6y3TbTke6j5asOofq2A=="
 ---
 
