@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Met Police to deploy facial recognition cameras"
-excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
-publishedDateTime: 2020-01-24T11:41:00Z
-sourceUrl: https://www.bbc.com/news/uk-51237665
+excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
+publishedDateTime: 2020-01-24T11:38:00Z
+sourceUrl: https://www.bbc.co.uk/news/uk-51237665
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -319,6 +315,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "yhU3h2TnRxTSDCt+PqLeyrWIHZ0n+ftOhpgne9xAaInhm+GoQLtxV6wGboJlpF6Fr38lzipP1kRbD/Sx+wItGSZCz1/PWpC2027ca9qI7tSuKUC5cL19NhRhzVqa/qJA9wk1L7ah/wbEhgw6pGrwO8aD/wKK0XFVP6SgLEz0TSpoCo9rvRqCeE+ltEUTRu77TTTAPY2tuqKe4v5RZv4aKLmoQha8ANFKODMHTI5A9fOMCqzXdkqoDkzIjlKL2uEaNACThESK79qjRXiXHybvYrXqDudx3SgVfhINHKrFDoRDyizhbtx98WKRfjxCrSgb;TQXlcvx2c7QkJ+w7hcNhfw=="
+secured: "RdzovoXUA4piG2r1JaGw0ULXK8pfz0ST8/6AR+IBoB1rSfJumV6/V90JEuOzphSUfO1H+2lmFMLXIGsehPwPPsdzbVOfDFqjN1MDtHRZEtInlUYPD6XIMtq9de9Rr95xTkQE/yW0tZqyCZGee4gR1ij16utZQdQXiKUxzECwPG/tVMkLzJ5gh0nq0stiyPyIHylE3L3nwcdRkMeSauNST1L2YPnScqOa+JNzdyCUez0TfUpi/Prqz4tp6DzJcss2gQfW54/PELkAybJGzd2inT8fBb+yM+c8axv8fWWxte+rFC7PmslQKbfcyZqIYw1E;JdoBZMa7ZIPl87YaeqlCmg=="
 ---
 
