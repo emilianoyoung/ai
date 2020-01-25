@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The overall artificial intelligence chip market ..."
-publishedDateTime: 2020-01-21T15:19:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-chip-market-2027-global-analysis-forecasts-/2020/01/21/9084575.htm
+excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
+publishedDateTime: 2020-01-21T14:05:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
 type: article
-quality: 16
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
-  - AI in Healthcare
+  - AI Hardware
 
 images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
     title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
 
 related:
@@ -86,6 +86,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "leOLkDSf7n2jrqD/7ymeUGcp5k/Vfboh3ffqch3IwkJXpPxwexry7pECeOJPO3gyASpdcSzqp+URnZKfq0VtfdDbLed0FNyrXEYBFpnXDurWlQJEA1bKq8MtWgRA7m4ZXf+4TVwJSZE6/WDbNyE2V7uB3b4H3PUtVXidwNi4gb2KKjoyLO3gLLQJX3vnLe4Cs4L1mU9PBdSHStomTwXBfqMDT9yc0ZsxrBl8rQgoYGRFE9EZa9wSDxTDo1yAZUKnyLebyBJ8Eyn84r7Jhj/hAYLLNqCofMd+AAXPJpr9KjY5I/+IPYa0+awLae7CSsJV;jFf5xom+BpgGDt/kng2L3Q=="
+secured: "i4qlpzop5Gx3kDJknavkFdgIac+SzwBim8e+v4trHkFZ4GlW+xXTxK6g5oOOdhvnzMe3KJe61wb8x55+kszdybMrbiUJn5JqNevAUK3P+uOWF9NXEFK3PGNA+BwslZkjTodf84wp1eWbtmjXrrKfM63J98+k0FCBzI9jAelmfZ7lTZHvQY+9GwV+aHMVRILhJyN66shCaN3eJ4zSADp5nHQoxiL9sgOtsU1pH3XzrXzfk4InOknse+BQmCvc4z4n8zttiOGxG/pjIhr4BFeWsU2jxJTC+BMmAPjvjT8t0GIstRQLpGLhWB7SY/fLy7Mt;rMSKWtK7aTH6yYCi5iF85w=="
 ---
 

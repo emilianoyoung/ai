@@ -7,7 +7,7 @@ sourceUrl: https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-d
 ampUrl: https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024

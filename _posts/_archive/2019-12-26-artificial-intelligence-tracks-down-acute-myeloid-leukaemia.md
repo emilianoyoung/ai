@@ -30,12 +30,8 @@ related:
     provider:
       name: The Asian Age
       domain: asianage.com
-    quality: 59
-    images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg
-        width: 800
-        height: 448
+    quality: 39
 
-secured: "4qXpWD3jZsDzpeWlPOrkQ5VNwxfVrLpcKvsG03qYr16HQCRA+S6D/aWm9RDtw9VfFcLtGv6P6K1chWl8CDmZ/uI1sq7rHiCYd5sq09m7FwbMNrB9b/VkRwnnvRAS8ebiPF8OMQX9qD4gZqQy++eGqiP2xH8f0bNAkOImtcohZdfSpw/QehvdhgnwRLiQhlKm+krPXYUXKVCRziJfFGWRCYausK1BmvExnhv0VjNR1VRV1pZRT3M9BYTXDk5Rs9YXpGSf1CaBfCVglO0ELeVF36tkCOThQEruiDb61X4APmNzHPVZSNSYyOPiOQX0o5oG;UdGPpXsk0uZrMTNY7AzfhA=="
+secured: "5F/gXgx3LRRsPoXDC/A6VQSHevqh+SBc5OsSGPaVJ1jCaHHhuM/p5aceg8PzPu187ZRxBHlwao3hy5VX657WneEIcm0Nl3XVqaK8FbplLozBNVwkjR4BXZPE3PYxqA6Vgg0uQjCa2WH6AL7Su5HZ81Qt/XDka8aVR/miC3SI760Q9hMOWTKB+pNBIuZ/c2607B4KJlMQXf/crWjkQmBp5YfaSy8LwJGIhhj2cGwzeZR7VxLqwxwgG9tL4/+shRJT5E/5AxOjIylPf5GUiuKzJjliV7jLnyfRITQsA3FIcsvrh/5U9HrVv+6p3OOWxzl5;lGzSRrmClvRhO9mxlWSU3A=="
 ---
 

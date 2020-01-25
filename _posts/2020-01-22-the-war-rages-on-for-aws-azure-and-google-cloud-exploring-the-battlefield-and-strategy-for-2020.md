@@ -48,6 +48,21 @@ related:
       - url: https://cdn.mbw.44bytes.net/files/2020/01/Ed-Howard-copy.jpg
         width: 592
         height: 638
+  - title: "Cortex Labs helps data scientists deploy machine learning models in the cloud"
+    excerpt: "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ..."
+    publishedDateTime: 2020-01-23T20:06:00Z
+    sourceUrl: https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/
+    ampUrl: https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024
+        width: 1024
+        height: 682
   - title: "Protecting AI Startups With Strong Moats"
     excerpt: "User data is one of the strongest means that can provide modern digital businesses with a lasting competitive advantage."
     publishedDateTime: 2020-01-21T14:00:00Z
@@ -63,21 +78,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1056983494/960x0.jpg?fit=scale
         width: 711
         height: 474
-  - title: "Cortex Labs helps data scientists deploy machine learning models in the cloud"
-    excerpt: "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ..."
-    publishedDateTime: 2020-01-23T20:06:00Z
-    sourceUrl: https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/
-    ampUrl: https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024
-        width: 1024
-        height: 682
   - title: "China’s AI startups close more funding deals but raise less money, report reveals"
     excerpt: "Still, some Chinese AI startups are gaining prominence, giving hope to the country’s ambitions to become a world leader in the field by 2030. Beijing-based chip designer Horizon Robotics, for example, was one of 24 AI startups worldwide to reach unicorn status last year, joining the ranks of privately held companies valued at over US$1 billion."
     publishedDateTime: 2020-01-23T10:47:00Z

@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Intel CEO: We’re confident in the future, we generated $3.8 billion in AI revenue in 2019"
 
-secured: "yQNJGHvYZmrGYYL7qeq3yWbX7sUAB6qCXewnpV9nQCLiOeaDwG1yrs5x35Y7UGvZlqjFj84muXmGJUA53KihhYecIewALLCx5SdVC086uPwCYuvxoZL9W5F+FfCunt+7lZqoQgmg4k1cbFt8lDeYeuh5AueMrKVNI748F3CFMaXz6uziaxZmZHzPVTpNyRMDFHUE338X4mfUz/7Xn4OyKs4tQKYgKZWbG698qGurR3vUB65gFusUAwAwyr/PB+OHUejm6v3Fsg4fId9pXgGqaqLZdBtzlDK6REVaUq4Zc4N2VAOxPqCjGaA556S2CQ+K;q9i1Rj27nrHYhjn3p/4mKw=="
+secured: "6cYIrH+zb8FHO2niycHgj9UW4GciyFqapYD5t8s7WfLj5I3FyVvSMq5uQ+gOoAgPxa0YQtUywZl2ZnCZBGmUNY5YoIJ2hdJxw0yza4nO6D/q7dIO0nfpSX7TmZW4G/QgJYoeR+zOjVxUwDqiZrdZzs2E5ZvqrPJy82gpIjn1y4vnc0JfxM3o0gIWQ5HwH30qpKOvoOz6i/k1UkWKwR5aU+A/9jhQWgOEo9ZRi0F1FhbvnO5yUkAh6yHozyIPyvrCL8KSFzaKHQSpJIeQvRScR8Ahf0dFeWq5POlkRwqYtog+wX3yZu59VNE5X4U/Nd+w;6bUlO+RVJUwXh+Khl/6dcQ=="
 ---
 

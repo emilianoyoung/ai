@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
+excerpt: "Machine learning revolves around accumulating data that can be fed into an algorithm in ... Amazon has a bright future in artificial intelligence. The Azure platform trails behind Amazon Web Services in terms of market share, but Microsoft still enjoys a favorable position in data centers and cloud computing. Additionally, its leadership ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
@@ -21,7 +21,7 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
+  - Microsoft AI
   - Natural Language Processing
 
 images:
@@ -45,6 +45,6 @@ related:
         width: 630
         height: 500
 
-secured: "o/WGQdKomBACgx3En+9uBpCW6yxJIctxFnv//1Of/YZ4KSOkZuopJOvBWy3FAZLYiPfMXVnO59pyjS7OWveTBTtZa8lXM2E54NKm2TvaoguTKgWN7VBAp4b0R4wSdvxZABDffNwMncd4RDjZCIDkViqiMz3EqeMpr+rmjA/9CMzQJr8h99Z7dVjUfg9Y9s6EfZARAjPzZPeVQSQdejhcp6Cw6+UYv36CJF81rsCradkh/uSCh5FxQ+/DFi/E7QvPz9HwacnyBu+C3jQcqf45OFGBkBhYgZcCuTumDiLb8AzBirnope1NOhezItZqZy4I;Nf+yhkyekM7upeX/7ERAqw=="
+secured: "3k3zzNUrdRcHoW//CkyhRT8IBD9S75VuyI6jMkBEce7DGKxhvCQcIv3Pi1QPp6gEyd/hwWMGP8aSGn1EWR27mLgdnspATnwJR2gWt9n2AfwulyNR8CxjxHcOTa2QGUbrdWgNc5BWsNKyuqYzSi0jvynK8zhsiB8zVeh9bMMpSv18OLfNa7Cx3N1yOFGONkhwen2nMFcBCpPXeglPlSEkDVRDjNwUtoQ4x82NXLncpx2vGZ6/jCsfAAVa9oUcVFx/H6lc053X0pMtZmGx7biyLWvpChbXAckcg0Nh5pdI0+YBA/rfrxD4ixXdMBFinOp1;uFGjK82pVlEV+AfRdFO07Q=="
 ---
 
