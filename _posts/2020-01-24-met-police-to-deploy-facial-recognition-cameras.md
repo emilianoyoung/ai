@@ -1,17 +1,21 @@
 ---
 category: news
 title: "Met Police to deploy facial recognition cameras"
-excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
-publishedDateTime: 2020-01-24T11:38:00Z
-sourceUrl: https://www.bbc.co.uk/news/uk-51237665
+excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
+publishedDateTime: 2020-01-24T11:41:00Z
+sourceUrl: https://www.bbc.com/news/uk-51237665
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -315,6 +319,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "UdJnmUG5rc0EyXgvUrs6yDQ1/iyLYPuknXEopp8uqlaHnls+0WLPS/f7leAEbcApaZa2COQIJBA99/Z3vZ1F7B+lOk74P7Bs5bVJhTefNgCY32lAjYdOr89uj8YV0o3U5OEsVJHbZsJx6v1X+AI0yu1dbDJXfsm+b0922ZDxcq97bnlTx/pu+aFqGQ8bG/VYgA6OQB2dKl30tGWtbs8bpAwOs9AQiW/X1USVk+G4U/bxAhKea1b5yUv3Bc7SuFycP/f54vBRbeDE1uVtIQynHmZn/qxtifOhY+f4Ei7Y/nVkW/72S4NPuul86u5d9kPOtl8wBCe7aNnTuSrP0/iZJHzqTb3BSfWzQpd+OP2yFVpoe6wXFGkGuZ/Ft2ZRHQ1ux1Tq9uvtbUAc+mGln0SpN7iQBGFUgONbEs6StdwQWVFsbIoAe9jUSp8kNUrdQdnJ+bbZYQI3cz2PksRNvmtSjfbEm59T0zTnVtdZpErb/6E=;mRkbXuUE8QHXVDIQNSTRmg=="
+secured: "yhU3h2TnRxTSDCt+PqLeyrWIHZ0n+ftOhpgne9xAaInhm+GoQLtxV6wGboJlpF6Fr38lzipP1kRbD/Sx+wItGSZCz1/PWpC2027ca9qI7tSuKUC5cL19NhRhzVqa/qJA9wk1L7ah/wbEhgw6pGrwO8aD/wKK0XFVP6SgLEz0TSpoCo9rvRqCeE+ltEUTRu77TTTAPY2tuqKe4v5RZv4aKLmoQha8ANFKODMHTI5A9fOMCqzXdkqoDkzIjlKL2uEaNACThESK79qjRXiXHybvYrXqDudx3SgVfhINHKrFDoRDyizhbtx98WKRfjxCrSgb;TQXlcvx2c7QkJ+w7hcNhfw=="
 ---
 
