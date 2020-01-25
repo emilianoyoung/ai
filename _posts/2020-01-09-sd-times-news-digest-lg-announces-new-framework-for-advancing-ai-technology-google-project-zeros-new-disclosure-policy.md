@@ -27,6 +27,6 @@ images:
     height: 428
     title: "SD Times news digest: LG announces new framework for advancing AI technology, Google Project Zero’s new disclosure policy"
 
-secured: "7WL1vDTZ1hFvzKKlWkk7ncz3by5KChrDVxBum9cS1BIjZuOSrmyz8RYrOAUu5Yts8fZ2tAq4BJt7A3CdHVbsBSO13RSMoJ8GjmaJYQbJpfgEs2rDJeNK2NSM4ERMtHoO4MBadxRbK7mNGWdkp5IyBxR4o5bhXo+GLJ2hnG0fe2/ogSGhJXp1pgRfn3nnLZdpcW1O75T/bYJcl2qJixbfPs6Muz9HNGZFm6rHeSC85FpueFxVwIO+cLw935wXAZHZ47k9J1Yx3htas00rhD6H7GSpqh4PmS9GOPSGxKeKtMM=;b85ejDJtLi/bz+Wlzjahiw=="
+secured: "kwvsmx2VchEJpAtg+W9neXZH+cqfZbALJw/aT/AwpWt+AxqAAZ7cvgxEcKMI0FjKvVHFwOw6wR+A0oiJO7RPXXAtlXJ+i4VKwPqfp8TqA8ntNg0AmleqyrHc96BfdFsLNlyG5FwkX7RLJ1FkgDeXPdWDi5jGNMB/6bdC6pYS4dLk/1neLAIGn1tPH3CyI4Jruq/3MSfZ2Ib7djMv2kYKp8Ucc88CZrPOxichgfPzYkPEQJOog90FWMEbgmCK9q/rPhnJO4Ltuy0SmRwuWz1GjDbWYE1CvtDNoVMqtc/XzGrkDDmRhoO2eRckzD5EXFwaT30IX9wEApuXSBd+YiU8qySIP6aPkXztFHI7Nxerx9mxEJTrcWvjGpiSXcBw/6iFJ7YxUB+PpIlmnbJPQyF5yhEi9b5H6SySQMEXl2naA5ycfm0E8HdvB1sXPzFwnNjxhjfHO7QlMTY/lqG5kQj4jLUv9gnz2kp4YDS7Es/zqTA=;TXlkgGtmFHccVjs+ShXD6w=="
 ---
 

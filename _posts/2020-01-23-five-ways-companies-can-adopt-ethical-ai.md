@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-com
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/amp/
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

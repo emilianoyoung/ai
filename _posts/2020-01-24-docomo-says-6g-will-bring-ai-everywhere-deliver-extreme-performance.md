@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 1000
     title: "Docomo says 6G will bring AI everywhere, deliver ‘extreme’ performance"
 
-secured: "5ANrChRFDyW7x8Kpq4Stojx5+GaZY8hBnBWP6WFwIxaAANIjSz5I3dkj1iQz29RrpvfqLZ2+jvFeVg6oPg2u007sTNGQdFRjKPHNgQr3Yd0RrQAAHKOlryl67smTwyEjaBn+3yOqTmKJ5Nd9EIOt7grg5N8p6OuWscJJpo6AXGBP+EpUu+yJMYzTlv7kGB+Hrt9zM69uIN+GRS3ipnW2GV+vosjpde5kURLJnwtYd5Zo2kMLclMk8AMipme3rN5XupY1yxgM65vyft6a/aVRhQgT9YqLnFpi40kFVMtSLGyNvLWZ5aEbxaMW29WhXuspIB3VxBIUx3xj+EpUtUJG4DQ4rlWpr8z25G8u3iCnyvM5w9bYKxfKfDGkSF9vTYZgOom2xwOKQ2vXYwWnl3YW/GZMeXw1Ct19mhvqTq/hKEu4m6al+QRttWUwLtwhHpQHwX5lri/QDMdQibiBzI1Nek9NmVYV11DWFGdd5OLPrnE=;SH3bjyZg6Qn/xk+JSdg/Pg=="
+secured: "rmGcdCuECMfpCsj5em8zSGdfULVNw6PxwBVkBCSzA0pG/hqjwYjEez6FpuUgKP8O8lKiOdeB3XGX5S6YFI8WyBW8RGTO43Vc97TnJC4cjGiK3XimgAkaV/FOVtyCjy4SQf342gpWLD/crG8rGdJYJJoMknCXs+tqrfYefnF92WyMWcqa17hO8SmiF8LHowXH6XDhvIAesqIBvZu/nyJOBiRgc/Aq4isXr9o+vrlHhnuscwogO3PVhCmcrHm76XCo8c9l+GhhkDbEI3lsQn8J3vokbXjcpzV50IaMkML+wcJEbF/zPKiXmTDP5A4Kaw89SStbSA6lNfcX2ZLnRFCdrytvlpDiISoxCtPFXPWu3u2qnYT+WlLA/vv4UZRcztKm5P00yH41WGVSCJOpw/G4hIWtocu1AJHA0Ys/d0W4hiBfKh5iCMz44Axpos1L0FvPhnpUiTDmsUGwKknqT19fs0NgvN1ZX+YiuYg2ZfVvtk0=;4nKtOBo1dSUDiPnLqDwmjw=="
 ---
 

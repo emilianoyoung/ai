@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
-excerpt: "And it needs to happen by reinventing artificial intelligence as we know it ... cases that you might never see in your lifetime,” Cox said. “I don’t know if Waymo and Tesla have images of traffic lights on fire in the datasets they use to train ..."
+excerpt: "And it needs to happen by reinventing artificial intelligence as we know it. So when Cox says that the world needs to ... “It’s one of those cases that you might never see in your lifetime,” Cox said. “I don’t know if Waymo and Tesla have images of traffic lights on fire in the datasets they use to train their neural networks, but ..."
 publishedDateTime: 2020-01-05T10:00:00Z
 sourceUrl: https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/
 type: article
@@ -27,6 +27,6 @@ images:
     height: 376
     title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
 
-secured: "5IJHxv7j7sZTZApx494pC2Qa1vNmRHcSPP5C/eGiMBo6WRz0Z/t4H3XmKra79X2W5Gsm6Qlh9rTAihqQNfGnWIyvVdUJD3lJT0QmgPB5ATfoZoFVg5bGNNLkDXIleVrbWyOPL8o8JiSxFjRM98eKgdaFoMXrbktPKyBLETWkdBwDvdJSr5DgBXGhPFssua+3tPAxEBvQY1hg8gjISYeKkw3dMdKAl43atTAwlvwaUpwWSHBQoiidi+a1T9DFhiUYu7OAn1DVrtUUOrBng/KT13crFIvscdltCWDRuauH5PDSDj2L5+Q4hGBwZOba4kD0;GL9FnUz0TOfVyIMtX4F23g=="
+secured: "hT79Ifq75nsxpcunC8/GpAe8cFl7GuCNb5+zc//y+EXYuuN+dVUtEVjS9Yqrlr7h43nGlXiy9aR5GwCk4GtqdIuSuYpxsILDf8tSxtba2ScxkLl1Uxj4ijUrx8qqt10o52UdUx3ikRIC578VTuGE+6bOTGUU+lHL4tQvBAXylshUepknRrfFl8+mGrKY5mDeksk7CSzBmeFOi2GulVtSy/Mi3F7zgvCmkaoZh+z8eF8oPDTvD3Ptxh1j5K7uPBRchFgUZ0fwlS2sUlsiqsnOFMK3v7Qt5pfkadrj8qK0iroea47JS6jkj7mlTuO2yMFl;qtaoHGcZ842CohRWbTPzXw=="
 ---
 

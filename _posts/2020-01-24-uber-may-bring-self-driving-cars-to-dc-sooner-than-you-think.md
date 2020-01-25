@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Huawei looks to self-driving cars, inspired by Tesla"
-excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
-publishedDateTime: 2020-01-16T18:19:00Z
-sourceUrl: https://www.khaleejtimes.com/business/corporate/huawei-looks-to-self-driving-cars-inspired-by-tesla
+title: "Uber may bring self-driving cars to DC sooner than you think"
+excerpt: "WASHINGTON — Self-driving cars may sound like an idea once reserved for science fiction films, but according to Uber, they might become a District reality sooner than you think. On Thursday, the ride-sharing company announced plans to test self-driving cars in D.C., with three road-mapping vehicles hitting the streets as early as Jan. 24."
+publishedDateTime: 2020-01-24T03:15:00Z
+sourceUrl: https://www.wusa9.com/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
+ampUrl: https://www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
+cdnAmpUrl: https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
 type: article
-quality: 39
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: WUSA9
+  domain: wusa9.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
-    width: 1200
-    height: 800
-    title: "Huawei looks to self-driving cars, inspired by Tesla"
+  - url: https://media.wusa9.com/assets/WUSA/images/cdaca044-3043-4f02-ba14-2589615a5fd5/cdaca044-3043-4f02-ba14-2589615a5fd5_360x203.jpg
+    width: 360
+    height: 203
+    title: "Uber may bring self-driving cars to DC sooner than you think"
 
 related:
   - title: "We’re blowing it with self-driving car safety reporting, Cruise says"
@@ -457,21 +459,6 @@ related:
       - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
         width: 1440
         height: 960
-  - title: "Uber may bring self-driving cars to DC sooner than you think"
-    excerpt: "WASHINGTON — Self-driving cars may sound like an idea once reserved for science fiction films, but according to Uber, they might become a District reality sooner than you think. On Thursday, the ride-sharing company announced plans to test self-driving cars in D.C., with three road-mapping vehicles hitting the streets as early as Jan. 24."
-    publishedDateTime: 2020-01-24T03:15:00Z
-    sourceUrl: https://www.wusa9.com/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
-    ampUrl: https://www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
-    cdnAmpUrl: https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 44
-    images:
-      - url: https://media.wusa9.com/assets/WUSA/images/cdaca044-3043-4f02-ba14-2589615a5fd5/cdaca044-3043-4f02-ba14-2589615a5fd5_360x203.jpg
-        width: 360
-        height: 203
   - title: "Self-driving semis will soon be sitting in Houston traffic with the rest of us"
     excerpt: "HOUSTON — If you commute on an interstate that cuts through the Houston area, do you think you would notice a self-driving big rig? Waymo, which is the self-driving division of Google, announced Thursday that it's starting to drive its Chrysler Pacifica minivans and long-haul trucks in Texas and parts of New Mexico. The autonomous vehicles ..."
     publishedDateTime: 2020-01-24T01:01:00Z
@@ -500,6 +487,19 @@ related:
       - url: https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
         width: 900
         height: 300
+  - title: "Huawei looks to self-driving cars, inspired by Tesla"
+    excerpt: "Chinese smartphone manufacturer Huawei is currently making a big push towards the 5G industry, but it is also reportedly planning to assist in building self-driving cars, news portal GizmoChaina reported on Thursday. \"Our ultimate goal is to achieve complete driverlessness, but in the process of moving towards the ultimate goal, it can create ..."
+    publishedDateTime: 2020-01-16T18:19:00Z
+    sourceUrl: https://www.khaleejtimes.com/business/corporate/huawei-looks-to-self-driving-cars-inspired-by-tesla
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
+    images:
+      - url: https://images.khaleejtimes.com/storyimage/KT/20200116/ARTICLE/200119432/AR/0/AR-200119432.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 800
   - title: "Uber's self-driving vehicles are coming to Washington, DC"
     excerpt: "Why it matters: Waymo isn't the only company that wants to move the world toward a self-driving future. Uber is pushing for a similar goal, albeit at a slower, more deliberate pace following some past controversies involving its autonomous car tech. Regardless, the company is hitting another major milestone today: its fleet of self-driving ..."
     publishedDateTime: 2020-01-24T12:28:00Z
@@ -648,6 +648,6 @@ related:
       domain: industryweek.com
     quality: 0
 
-secured: "0s7I47+WKIl3TmVUriO2a+cQvdgkh23CJr4eoWM5KPOrUjw70/PqmuE4Cez6JjZjhBpoi9dLyWRM5UIi1RiaAUeWyW9bJgDeWFIkUg59qHWjZGfftdRee179g0vONe84aPlFNdlCQQ+A2A/fhTpDpabHd3njF473TTVlkvB7DDvL6KNoXI9+XtZgdo6Nwj1cGAujSGxmoJrYjTvix2Vodqlw5slmohbWQuBMQnP+WACokVUZzn4jrj76PSkpeAWGMKCMjiAQ83xHFtNtwppPkpu4t1ae36NYT4ttzpe301lRqjPmXVGqywqUpy5VZXNp/z1qfjrS6CPkX8nTpUT22p9cIdNQ+xYaVu/7PObm61twHrh7L/DIwCKpJJvDMxtBU0a52C4sYZGbsp6DRJkL16Vdswgepvn76jNzz3OSzmP4uCaFePW9NqsVL26bLYVGR2ZmqozVzB9rIHMJbDS4oQ==;sSeAvB5UVzD0NvoPxvZVUg=="
+secured: "i0pf3BPEG2dx9B4zXVHUYJ+l1EUq7wq5LMOYv5ehteNLZpiwNf0MvXsJ5uOHeIF+iEvmaJVqy6lM8sLeQpWbSKoQCenbn0p45ntyBRhe2kuGYtboXXE7TwrJ1teFggq4fWs0kfNYZdqIegYjPU8bIFUFRQFpq7knLX0ZhrjAI9g2m5NKZ43bGDCjPp2u8HjBD/WyrDUNQnePn2bYXZiOhpzX3FvOPUO5L7qo4Iuhl4w4Ugcu8MH+H0WsJUvuWPKH6fZ2slQWXNbQwYTanWDU4DEQToxz7oZfqCc65n+nx3ZA6QYYO+Qi3mzLdIxh8nx1;IobEcFXNVuYXBjm0faQT/Q=="
 ---
 

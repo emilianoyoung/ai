@@ -453,6 +453,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/6y2sKq-ck-E71CGNwannVKxBqdo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALNBBXR6AUI6VOINKZJIA3B3HI.jpg
         width: 1440
         height: 960
+  - title: "Uber may bring self-driving cars to DC sooner than you think"
+    excerpt: "WASHINGTON — Self-driving cars may sound like an idea once reserved for science fiction films, but according to Uber, they might become a District reality sooner than you think. On Thursday, the ride-sharing company announced plans to test self-driving cars in D.C., with three road-mapping vehicles hitting the streets as early as Jan. 24."
+    publishedDateTime: 2020-01-24T03:15:00Z
+    sourceUrl: https://www.wusa9.com/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
+    ampUrl: https://www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
+    cdnAmpUrl: https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/traffic/uber-bringing-self-driving-cars-to-dc/65-f1c98a2c-3123-4948-93b0-8e177f50e427
+    type: article
+    provider:
+      name: WUSA9
+      domain: wusa9.com
+    quality: 44
+    images:
+      - url: https://media.wusa9.com/assets/WUSA/images/cdaca044-3043-4f02-ba14-2589615a5fd5/cdaca044-3043-4f02-ba14-2589615a5fd5_360x203.jpg
+        width: 360
+        height: 203
   - title: "Self-driving semis will soon be sitting in Houston traffic with the rest of us"
     excerpt: "HOUSTON — If you commute on an interstate that cuts through the Houston area, do you think you would notice a self-driving big rig? Waymo, which is the self-driving division of Google, announced Thursday that it's starting to drive its Chrysler Pacifica minivans and long-haul trucks in Texas and parts of New Mexico. The autonomous vehicles ..."
     publishedDateTime: 2020-01-24T01:01:00Z

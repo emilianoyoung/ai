@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/62nd-grammy-winners-pred
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/62nd-grammy-winners-predicted-by-artificial-intelligence/
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

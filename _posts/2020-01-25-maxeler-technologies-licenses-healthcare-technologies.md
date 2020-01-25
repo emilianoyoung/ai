@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Maxeler Technologies Licenses Healthcare Technologies"
-excerpt: "Maxeler Technologies recently licensed novel, “explainable” AI-driven prescription prediction technologies from Georgetown University. Using the patent-pending, technology developed at Georgetown’s Information Retrieval Laboratory under Professor Ophir Frieder,"
-publishedDateTime: 2020-01-25T07:00:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/r15185596/maxeler-technologies-licenses-healthcare-technologies
-ampUrl: https://amp.benzinga.com/amp/content/15185596
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15185596
+excerpt: "The AI-driven prescription predictive models suggest effective medications that minimize adverse effects. Many artificial intelligence-based efforts focus on the aforementioned problem but do so using “black box” approaches which solve the problem, but fail to provide interpretability. Since prescribing physicians are hesitant to rely on ..."
+publishedDateTime: 2020-01-25T08:05:00Z
+sourceUrl: https://www.pr.com/press-release/804084
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR
+  domain: pr.com
 
 topics:
   - AI
   - AI in Healthcare
 
-secured: "glUYtmJDYukN1Jqot0vfHV7dkyVGPTTLYWUx8LQXSgwZCfYROx2Rp0Hwm+SmCn3jFJp5BFvEASF+owa5JVQ3f88qb8RZw3W6AzB1zRfREOS/TKjrUDmRPDTUVjdJqFXvG7PUfi0QSLW2lcjtOCw9XOyptYtRc6t9k1cmvfmKPGgVt3n4BT0tXBVxwwpEdRQIF6ghWqPi3Q0nGwD3F90zZj3cST2q4tRFBdx5jMdYe9KI7PtmkIh9sbrL/vdVcAShyZ0k7jdwS9yNRYB01texyuHgdwpbcVQqaHTzi6h1ZZFotuaCuZ6kb1pHRt9Tn26r;byldRVc1fBjCgvEzVDRAJA=="
+secured: "3ryzOvHXLi4UbprLmqjtFiEqrQ2ZliIgYlYTyKwhtf6qTAVRecUpJozQq/Sjb0NIvS57HWy+RSGA8PFi4h3r5z9cOxIYajgaiCMlRDUGPBGsg++LJMpOl/H+u6NHg8Xt+LMuRDw2VWD4HNU6ZC4Rv3La1bQfKzmtvcvjNunDa6VSz+l/K/2XO0d2BiZm11ogH4VpeSrJSIQ0rX6cLdJehGZ+uz9AsOYgyxoEt/7X02ue1QszsvPKuY67SPV89atS9NTWu+MuPlrkZQTZclMtjJgN3M6+HhLJ53uMdYfq1x0zymSBSkoDz39vFLp0wDyn;eyvVz6SWNeBAu8HXR9UIfg=="
 ---
 
