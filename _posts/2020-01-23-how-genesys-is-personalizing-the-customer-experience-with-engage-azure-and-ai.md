@@ -1,11 +1,11 @@
 ---
 category: news
 title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
-excerpt: "on Microsoft Azure. According to the two companies, this combination will provide a secure cloud environment to help companies more easily leverage AI to address customer needs on any channel. Headquartered in Daly City, California, Genesys has more than 5,000 employees in nearly 60 offices worldwide. Every year, the company supports more than ..."
+excerpt: "What cloud, AI and machine learning enable is the ability to make every experience unique to each individual ... Our customers are really excited about this combination of Genesys and Azure. They can simplify their maintenance, reduce costs and streamline the buying process. We believe in the advantages of moving to cloud, and obviously ..."
 publishedDateTime: 2020-01-23T15:21:00Z
-sourceUrl: https://news.microsoft.com/transform/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
+sourceUrl: https://news.microsoft.com/en-my/2020/01/24/how-genesys-is-personalizing-the-customer-experience-with-engage-azure-and-ai/
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/01/12-Body-Barry1-1024x461.jpg
+    width: 1024
+    height: 461
+    title: "How Genesys is personalizing the customer experience with Engage, Azure and AI"
 
 related:
   - title: "Microsoft unveils new Azure Service, Genesys Engage"
@@ -75,6 +81,6 @@ related:
       domain: commondreams.org
     quality: 37
 
-secured: "kz10m4gXqbC+BRJgrDMxTfV/Gx7BiWSzPhLJC/LCWKcW8F0cI8FAa3X6NjHcbo15fXzBKFLyNLYh4It0ranKVApR2+PTSjyWQ/YprKaFc4k3kKtJdwVBWMFkohfCvj1s4GQFNWn6HlCl7Ur6t9kIYvs/7d3L6Erp4K03MhFEJ7umvVT3H9R3QT7j3NlKGlyba0OSz4mu0C/YtCZCDM2G8rmk9sQuLriUaVpShwJCwAnDgNPsJFC+KVKE78jwdLqEEHxqh2GthF5tS7NYzdHr0mzN+f1GaUE7FQ0W4Tf9LoWTOfFMjEpI6kCvQ6Xh0uKkbAEFng+jmeS8eHRVrVoS079SCIUF6AOxTx8WEjgeDtMkP7lKZs3+xh4sOOfxc2bL0/LRRoc9fKac8ynGDiKIuatFITrHlv8WkJp1BKnfeUc0Vu8OWKANXG1vD0rt3/tJsBTyU7iKLo/ot+r/Rc28jUgGpKWJCEBGur8uNckRu5c=;r3P10sY3AnYY0JvPtn9e8Q=="
+secured: "g6dvU5vZGlfp2uH3NLoR1cqVFTTVbIyg7TBrLc9g8zD+dP440cYQbRwPGqsLlOY4KKmzplJCxKyZCUnQ2CQIqHhepR5aCTXUZz0YI6IKVFeCOfTW75bvG2K9xnb+FNvZuRQF81UmtDG2XofpQUk9b5QAQ6C02dQaekkJ7A/ppL/Mc1YHzOtAE4qKNKj75rTkjSmHt42fZtkfQhzJFoUvHtQ8RmhjRQ8sKrEL5QKM4kglchs3exypHr0NOcMI6RHy72s6SSy7HWPtnyHkAcveocqZAZHV9BLtypv5fYgacidxsmlW4gAyEym7jJSbXJjd;+tXNsYJ6L8kZvnMFy/M+MA=="
 ---
 

@@ -503,6 +503,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "q4AxodiUH+Map0sSsDUgQeEbcvfEOWEupxMwTmCfOx5loMp7viRWXJDSscFIUpM3Cx65CsPW30I5rT+TrGhHEKJ7CHHJ9kci1rKGpOodm5XhvcPcRWJeFxWRlLDdL9NxfmhKam5XVBjpelKBoyQd0OGHAYXo/wI9p6m0Z4XJ2fy9XhNYJMx6xMzsI+fdFdwM9RPKUNWEhDgC/4yAEfFQt5qMmkYrMBJW5I3eM1uso7chBHo2WifZSjXedu4cPT1fIaD6zlHky+cMKO2tCJXee5TYf7+7rc/hQHSPBOutcwAvJjrmvodWOFMXFzQhZeCO;w83HHFqiKJd/RcY6hmfJ3g=="
+secured: "uJfPjfiPuQyfPbXm56IJqU0vIdspOTDlN6FMSWme0w34QH/Xvll/5zvSUQMzJQpLrgM1XXsjK+pGaotlvID8uzYzpzBKlDtDYv6gL2p1Qzcfaewy75Y8rfrvozudFC7VgnhfOASxNI55+W//Pyg5ofMwKtPK0nbdl4g1q6/mFFBp7U0DHuLADsFBtqOFuP5tgEUfO1Y9AUlcTT3dcw9KJWmF0tLSFRzDARNAzWagV4Bjp9UyKacMiAWUkzf/SgMO3YJKrMmat7kgF8w+cgCFWVy7vlAM5bv+Zecq3Dg1MtE/BsHAi4VFGyMWGzlq2BDf;LIWO5AzKsa0EJ6nTV2F1Yw=="
 ---
 

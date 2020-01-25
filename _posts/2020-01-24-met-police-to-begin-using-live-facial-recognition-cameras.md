@@ -429,6 +429,21 @@ related:
       - url: https://thenypost.files.wordpress.com/2020/01/nypd-3-1.jpg?quality=90&strip=all&w=1200
         width: 1200
         height: 800
+  - title: "London police to use facial recognition cameras, stoking privacy fears"
+    excerpt: "LONDON (AP) — London police will start using facial recognition cameras to pick out suspects from street crowds in real time, in a major advance for the controversial technology that raises worries about automated surveillance and erosion of privacy rights. The Metropolitan Police Service said Friday that after a series of trials, the cameras ..."
+    publishedDateTime: 2020-01-24T21:59:00Z
+    sourceUrl: https://www.pbs.org/newshour/world/london-police-to-use-facial-recognition-cameras-stoking-privacy-fears
+    ampUrl: https://www.pbs.org/newshour/amp/world/london-police-to-use-facial-recognition-cameras-stoking-privacy-fears
+    cdnAmpUrl: https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/london-police-to-use-facial-recognition-cameras-stoking-privacy-fears
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 59
+    images:
+      - url: https://d3i6fh83elv35t.cloudfront.net/static/2020/01/2010-10-18T120000Z_926960977_LM1E6AI119B01_RTRMADP_3_BRITAIN-DEFENCE-STRATEGY-1024x576.jpg
+        width: 1024
+        height: 576
   - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
     excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
     publishedDateTime: 2020-01-20T17:27:00Z

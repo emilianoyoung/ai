@@ -5,7 +5,7 @@ excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support impleme
 publishedDateTime: 2020-01-03T14:43:00Z
 sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
+    width: 512
+    height: 512
+    title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
 
 related:
   - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
@@ -80,6 +86,6 @@ related:
       domain: design-reuse.com
     quality: 0
 
-secured: "tXI9aD6UwJzHIv9lY6T4NXZH52ShUhuX5QaLSo+sUjekeusd1IjveqEB2YfMWJh6wj1PexW8/Z5durDa5+gqHQoRwcegB0VnGc9iL7TehtXXjcyfEAXX6/erZ7kcGEuy+uGd4nueDDpXHc+F4Xouctnil/+4jtiK7cCER509m5DQXaFFuz8a2esWtqq34697S7jjkwTqrkdoTmRyj3BeiW0im11LM0tviXYXFcJkJ/3QipZ/eYlpqqHSdAVeFK4vr8q9KESo31FZ8bi+jxbNRuxI1HBTPTrzasrU2EqGRtjMd+D7NzMBRPb4mGx2DBVQ;2faPgcyUj502+mJMqyFmmA=="
+secured: "bdui+7lC67GC7xwhFkHtO9SSFKHqQd5l7UryLM9FQrYyhCFEma5GUsZZEITqRUZLBP89snE+8MHXQVc4eBH3YnLObxbG1d5np3TH0husXvAoPOMzEl4s1NrSx5gBvMM+XL5OVe8IzjWmiy72P8JJRx5gcI2Wtv+/KK4VSmQtgvbN+egLCP3CF+kzupuLgTQzGb0MAcGUImsVGsYCiDp1FvbtuJ8C62+U0PvyprC9rcgnSdWrHYiUCBlL+/HGs6FlwojU4nIXUAoXj36pL62lzjvO+i1vy+KFzzt6fq9yZYH25ni3owZo0Y4yb8r6zdWo;bCLehQpq6WQyj84OcESj9Q=="
 ---
 

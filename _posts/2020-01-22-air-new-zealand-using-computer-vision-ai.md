@@ -8,7 +8,7 @@ ampUrl: https://m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-comput
 cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
