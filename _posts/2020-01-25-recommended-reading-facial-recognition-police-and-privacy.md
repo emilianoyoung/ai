@@ -1,21 +1,21 @@
 ---
 category: news
-title: "London’s Met Police switches on live facial recognition, flying in face of human rights concerns"
-excerpt: "While EU lawmakers are mulling a temporary ban on the use of facial recognition to safeguard individuals’ rights, as part of risk-focused plan to regulate AI, London’s Met Police has today forged ahead with deploying the privacy hostile technology — flipping the switch on operational use of live facial recognition in the UK capital."
-publishedDateTime: 2020-01-24T13:09:00Z
-sourceUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/
-ampUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
+title: "Recommended Reading: Facial recognition, police and privacy"
+excerpt: "The best long-form writing on technology and more on the web. The secretive company that might end privacy as we know it Kashmir Hill, The New York Times Clearview is a startup that developed a facial recognition system that matches a photo of a person to publicly available images. Those can be from Facebook, YouTube or even Venmo. It's ..."
+publishedDateTime: 2020-01-25T13:30:00Z
+sourceUrl: https://www.engadget.com/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/
+ampUrl: https://www.engadget.com/amp/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/
 type: article
-quality: 76
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
+  name: Engadget
+  domain: engadget.com
   images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,10 +24,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-826000302.jpg?w=1024
-    width: 1024
-    height: 652
-    title: "London’s Met Police switches on live facial recognition, flying in face of human rights concerns"
+  - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3000%252C1967%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1049%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-09%252F7cd3aa20-d5c9-11e9-bfdf-f6cf4ed8fd54%26client%3Da1acac3e1b3290917d92%26signature%3D97a83aa9ae2218b6dd359d390851ef7dc3f57940&client=amp-blogside-v2&signature=b11fbb43be2b690ae62c9c1c250d6081b105e1ff
+    width: 600
+    height: 350
+    title: "Recommended Reading: Facial recognition, police and privacy"
 
 related:
   - title: "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos"
@@ -240,21 +240,6 @@ related:
       - url: https://static01.nyt.com/images/2020/01/24/business/24clearview01/24clearview01-facebookJumbo.jpg
         width: 1050
         height: 550
-  - title: "Recommended Reading: Facial recognition, police and privacy"
-    excerpt: "The best long-form writing on technology and more on the web. The secretive company that might end privacy as we know it Kashmir Hill, The New York Times Clearview is a startup that developed a facial recognition system that matches a photo of a person to publicly available images. Those can be from Facebook, YouTube or even Venmo. It's ..."
-    publishedDateTime: 2020-01-25T13:30:00Z
-    sourceUrl: https://www.engadget.com/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/
-    ampUrl: https://www.engadget.com/amp/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/25/recommended-reading-the-facial-recognition-startup-helping-poli/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3000%252C1967%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1049%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-09%252F7cd3aa20-d5c9-11e9-bfdf-f6cf4ed8fd54%26client%3Da1acac3e1b3290917d92%26signature%3D97a83aa9ae2218b6dd359d390851ef7dc3f57940&client=amp-blogside-v2&signature=b11fbb43be2b690ae62c9c1c250d6081b105e1ff
-        width: 600
-        height: 350
   - title: "London police begin using live facial recognition tech across the capital"
     excerpt: "Meanwhile, Europe wants to ban the technology for up to five years. London's Metropolitan Police Service has begun using live facial recognition (LFR) technology. At key areas throughout the city, signposted cameras will scan the faces of passing people, alerting officers to potential matches with wanted criminals. According to the Met ..."
     publishedDateTime: 2020-01-24T12:05:00Z
@@ -328,6 +313,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg
         width: 796
         height: 420
+  - title: "London’s Met Police switches on live facial recognition, flying in face of human rights concerns"
+    excerpt: "While EU lawmakers are mulling a temporary ban on the use of facial recognition to safeguard individuals’ rights, as part of risk-focused plan to regulate AI, London’s Met Police has today forged ahead with deploying the privacy hostile technology — flipping the switch on operational use of live facial recognition in the UK capital."
+    publishedDateTime: 2020-01-24T13:09:00Z
+    sourceUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/
+    ampUrl: https://techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/londons-met-police-switches-on-live-facial-recognition-flying-in-face-of-human-rights-concerns/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 76
+    images:
+      - url: https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-826000302.jpg?w=1024
+        width: 1024
+        height: 652
   - title: "What you need to know about Clearview AI and its facial recognition app"
     excerpt: "A startup, Clearview AI, has created an app that can match a picture to a database of billions of public photos scraped from the internet and it is being used by law enforcement agencies, according to a new report. The New York Times first reported on Clearview and its app in a deep-dive that was published over the weekend. In the report ..."
     publishedDateTime: 2020-01-20T15:36:00Z
@@ -926,6 +926,6 @@ related:
       domain: sfchronicle.com
     quality: 4
 
-secured: "ikk9XGf4MM5mLGDHkdaa2n0pxgCUECuBOUDWjUxLHEkV2IJfQywPYSo3ea6IZDfNC680EaJyBlptSefTlp82XPS/O2TnLPG4B90/mK5YPDeSO7XkqhdrgJzjefgaCjZ+ozooDLuI4BqlKP/vkcznfyEp2T3AtNju410u3eYbnq/GXVD/nNYITIrMIuDcf696JztlZaZVIkS7fhyjiHIYrxts14IloDmjXMqeQlj6yGPhP67GZWa7A1WPPPnfxsXEuT1SoDfBDvRW8I1JEf4IYJZWAHy90NJzK2D5BHfoG8WwAd3l0mWm80uTWgqKpNi65VtUn+w335d4vrcbPLgbK0PvGmlbErI6HmZIJNJYNS2jeoid23IpVhGOBs6STi/faNI2STQCSSOmmBquQKSxVBUfoFjWDyr+OzbjIpwH8kK7bJmR0OQJTrTcR/SOC2q98kSWKkxMTn6pgJr8OypjICUK5wSiayhgdgtZ+Vm7mXQ=;Njk26M3HZwdcJVopzZ8z+g=="
+secured: "pPAWp8KrUM0UMAjQC4nGF5+GVTiIokRU8VHdbawrTveklyJl4FKaG62+KUnkFFTDhp2Yr1gweWCtNzQS6YIB9jMa7qvyikIxfieZYtUFn/Cx8gBwXGjhCqkuzBPHNolo+07ipPl7d+CuCD4IJ224j/YpYYcZbWzWAEpEzcecyZukH0KkvVWNImHja1//lzU05Y9Ln7oBihzD7P+AliHqet5XskX4FjRTMCz1gA7/+vLkwt+N0OMFBmZwiaku1o4QOJ9voMlaTchCXf909Rmv8WMaHPrCNB2/EGri7fOslxrggD/3xpH5J+A1XScV+5fw;tVJhIIC0kAZJlvMm8Kxq6g=="
 ---
 

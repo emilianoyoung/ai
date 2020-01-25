@@ -24,6 +24,6 @@ images:
     height: 639
     title: "Top Artificial Intelligence Funding in December 2019"
 
-secured: "Gh5YeDjQ/f3+M112DUHhbkmmaMBavtWbhqdxAikoDO6R7oakaK712BWgBbSyyD0SzJURRzTDHZpsnzj898hwJNZM4syjItvTx977fn53X36Wr2ZSjlUd7Q81hon+oRWfD+t8nbFZZIdY58xkRo5+bAcRRo0VvRsL9E06pf7rLo6sfPDlvwCwaWcXLus/kAt9Ox4VXqeTF+Blxk1TjhbCovGofc7cXKM39SDdzXxeGkMy3sIbnjPgD5dfDlfllxfLrT/Gnt0gyZ85xdTgKaenlnXzta78EngeAku/xmRC8NaeBuX/Fzl6ONuTfZz+5eL8;u47zhUBREkpyUWXPuHVLWw=="
+secured: "Wmifx/tY1+2YzbYs6mWZGHc5sNa7LxVL/VGhvC6QZZ/8/b13NlWIGp0+qobIJe9LlB4gCX1HCfYt3zZaPpbnZUHoJApO+QQFje5InKt0HvsMnVwKnIGB1j2iKNnwW29+FTXF1XAz7qLMWN6UfDt6aTNvu/6KsNad9wJVB7FOahvXNGiozRcZrExbNHyhHYVCk/NfCsPM1/lFzpsMmczSrjdWsx5+Xp7NFSKZgdYIpXAOYIgVBRnW7coyMpKpRNRGAXjP7/d7QaS/r8vjGvbR4V3/VbhaABfstMbpCHz6x5z9A53+x+ZvxX2BEhMjjlFOPWMDFqrXil/YMHY7znTUB+gPlQpePUvjUrMZIFwy+Tg6k+WeHMeAMKs4/BF5b09Xsngmv3sEr4MZvzcDhIc5uc3yRnXo4ydzylkOCQT81bjCRPf4wyXgvQzwGiswaAob7eZD8sV69uvlsTFob4GsjqR/w/AZmEVNSBaOc/epE6g=;5MyLDuTrch4ow8uqq1voRg=="
 ---
 

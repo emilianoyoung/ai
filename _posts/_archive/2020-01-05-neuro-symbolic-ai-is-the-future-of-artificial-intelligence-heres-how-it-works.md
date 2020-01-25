@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
-excerpt: "And it needs to happen by reinventing artificial intelligence as we know it ... Before he joined IBM, Cox co-founded a company, Perceptive Automata, that developed software for self-driving cars. The team had a Slack channel in which they posted funny images they had stumbled across during the course of data collection. One of them, taken ..."
+excerpt: "And it needs to happen by reinventing artificial intelligence as we know it. So when Cox says that the world needs to ... “It’s one of those cases that you might never see in your lifetime,” Cox said. “I don’t know if Waymo and Tesla have images of traffic lights on fire in the datasets they use to train their neural networks, but ..."
 publishedDateTime: 2020-01-05T10:00:00Z
 sourceUrl: https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/
 type: article
@@ -27,6 +27,6 @@ images:
     height: 376
     title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
 
-secured: "8l24ceUL+vOBkY+ICyRVPrr2Z11f4cIQgcGO4ah4zHbDrJARr3JrCorfVUsc9mAhMi3vF1jT8aO+2YJMsqUfWocfMRQv0r70zOmeVzlle4H5Y/+3C1xUHd/GDC5C5KhWu+z0AScE7k/LJaQME41nL5NzT3LhbON8rUfX9F0LXYA3dczM+1f3nPHrbV24dFCf/Mhj/rjzINQHtSHY3tE+JxKXhkgA1MXfTxuxaui3z58V0rL7s/qBbJRpzDoOpWodKaoLsyB0Qx+7IcLB9PscXO4pkUB0iF73E3KMSJc8uo35rEto3MxNfRDK+lYvCdJj;8Y6P+BOtnPXauemwvzA3Wg=="
+secured: "Y5C0eX128sU/zXNuKKwHQLX/mYIUo4VXC1YFDag2wIWlohls2+eaLFEMCouYVuMSrOlfnn1SH/Dja+6abSlaWMc/rrUWDowuRoPq+fOHoJhtrKnOvBJ4XuiCRfrifGnD+Oo5UvmciUi7INRNbq8ngCHzCM7/QyTw8MJfi1pdpOhiOapisWcf94s2dHWdPzlvV1hIRCF7AMsHQQCwXJG3gKf8cGYchh/ks1yk2YAifXtzATrZqUu87mG5KIN+0Y87vSQsYWghk4XW74CTQRuDyyBf90/690ygl3GxpPXop7snInqRioRRJ5EWUO6oERdp;bPkJia525HI5ENALG+hwzA=="
 ---
 

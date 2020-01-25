@@ -1,23 +1,27 @@
 ---
 category: news
-title: "The Hype of Self-Driving Cars Gives Way to Reality"
-excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-publishedDateTime: 2020-01-23T21:32:00Z
-sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
-ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
-cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+title: "Uber set to bring self driving cars to Washington"
+excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
+publishedDateTime: 2020-01-25T00:47:00Z
+sourceUrl: https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AARP
-  domain: aarp.org
+  name: ABC Columbia
+  domain: abccolumbia.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg
+    width: 992
+    height: 558
+    title: "Uber set to bring self driving cars to Washington"
 
 related:
   - title: "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars"
@@ -80,20 +84,18 @@ related:
       - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
         width: 600
         height: 400
-  - title: "Uber set to bring self driving cars to Washington"
-    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
-    publishedDateTime: 2020-01-25T00:47:00Z
-    sourceUrl: https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/
+  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
+    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
+    publishedDateTime: 2020-01-23T21:32:00Z
+    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
+    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
     type: article
     provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 39
-    images:
-      - url: https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg
-        width: 992
-        height: 558
+      name: AARP
+      domain: aarp.org
+    quality: 24
 
-secured: "p1si2D7+kwuHQACxJ1AALF726H9M6kqFs0NQ+FQYxuEMF77kAysj18jfewCHHrYCCo75takVbcfUdCK3FkApcvD7yhsjDavnqXRqeLjhHkoW893aIUoMzxwU5qsg6fzLHqCkjvYvnsX1pHuXW6nzdMXpT2ERj233EFOVz16BmgxTsjEd9aNZDEuZUczPnvBv5VYtzuDVtZC7P0FPAqjdT+125kI8GAqMO5EvfKjIJAmpksNzsLygqZFew0oy3/1rOu8Q/ssPXcx31lxHA9jhN4NKpZxujWQ35VhUkQauiOZrTeItyYNENbu2pneFoiPRU/qBgnkOvlbeKbxSZZdF3gi6VHitAoyPiV+O8wfFTP8pTdHwE+3S3HmViBNJUTS8YxpB06gA3PliBpDdmDZFrs1W03fwV+J8z3umQahvq4Vwr/gsawiNvGcp1e8A/QfOWXsx+S8/yLgSAP4XKqvGh7932QLtAL7IhOVnJdeg3LA=;V5/IeyvRHFnSAhoOwp1Ohw=="
+secured: "n0uk1tHqzzVD8XAKPeBJXyAjpNrphBFnabHysi3p40M7ZPpTnuCaw98kAbLNljc9+23TNj+DlpGeCSH0zxCv8Xzf6wOkLsn/FlTszUhGPY56ZGt92/VS3AYP2f8Bdays3vSto3NXMCCPhm2/oKNUehnwNhSRHD6LPSlryn+JjnInVLcJZHBS0xE49+Pkxz4X0DS8ZBiC/+4b87Vo4/j6prRWt7P74VaMQY5aZrKmqTWtx5RDrMmEEeLEZiGOXocYvJ5W6TB590uFBN0Ti1MsdUjN/rVh/DlUQs+4+bC4le0eaamvgTGYuWeGxVEAfJa0;Y2wTGvWuuRF9J26PVT1FTw=="
 ---
 

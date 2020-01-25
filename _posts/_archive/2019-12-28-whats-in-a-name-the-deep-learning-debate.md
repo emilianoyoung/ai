@@ -1,7 +1,7 @@
 ---
 category: news
 title: "What’s in a name? The ‘deep learning’ debate"
-excerpt: "Monday's historic debate between machine learning luminary Yoshua Bengio and machine learning critic Gary Marcus spilled over into a tit for tat between the two in the days following, mostly about the status of the term \"deep learning.\" The history of the ..."
+excerpt: "The history of the term deep learning shows that the use of it has been opportunistic at times but has had little to do in the way of advancing the science of artificial intelligence. Hence ..."
 publishedDateTime: 2019-12-28T18:55:00Z
 sourceUrl: https://www.zdnet.com/article/whats-in-a-name-the-deep-learning-debate/
 ampUrl: https://www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/
@@ -29,6 +29,6 @@ images:
     height: 621
     title: "What’s in a name? The ‘deep learning’ debate"
 
-secured: "ML+dv6pcmItUWAlBFdBiQs+bwAfvbvGTqh21vcDqSBVFiaEnsW2Ge8SXsCWPKkGWOR66brMxtn4eJ0HTm8vzh3MbNBNn5lD61Zwe/qbQYKu+PoJTwz8qysTfek8ufCilDXMqquOTKY5f0dIlbb6T717+zp6QP/NkJYC6fCiFQVPSOfcmbd2IglMSXpX2+GFBDoyInhW6e2kdVj20+joG6njS7szBumeT3aLtl9btr2gAnmKRXkr2laqtmASMC2oBvv7G8C0Np5Ry1p1+DlA1yWbgpg8eQ1nesrK2ovKAzJ4=;eINlcIBEZP5hpYP6QPwp9Q=="
+secured: "B+CqkK4K0eGqhSKFvwGpVywggNWFc/DYp3FRy3AUj17+hv6yqVQjD0Y8Hr32NnCK6zqsSfFNjGlrl+prsbdA5mP7d1h6XO1nhRSxGZ4xWXJ0Fxq9RhzI+WQzKq+cpsp5bSk5oyKxkSXq9OneF9Eb1bR8aI75pDU63VqpEyti6wgkECaM8V24hOM/xaEmpsupyXaAtqgIZVMXQAPOxhJ7oDosQ29M75RgQx+L+kAPF4X8q6Ip0QiOk9sax7I3S9zJgzy4mUdF+cR/n++xQI9Bk18Y2rTR3JeovtkqT15viaB0/1cQyGrtviystQ8VCx33;vjn0pkCnXH3BRy00CVRNNw=="
 ---
 

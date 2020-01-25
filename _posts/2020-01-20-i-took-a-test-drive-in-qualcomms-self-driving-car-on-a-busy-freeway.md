@@ -71,6 +71,19 @@ related:
       - url: https://media.bizj.us/view/img/11587279/uber-self-driving*600xx1500-1000-0-0.jpg
         width: 600
         height: 400
+  - title: "Uber set to bring self driving cars to Washington"
+    excerpt: "(ABC News) —Uber is bringing a fleet of self-driving cars to the nation’s capital to begin mapping out prospective routes — aided by human drivers at first — starting on Friday. The new self-driving cars that are expected to hit the roads in Washington, D.C., will have the initial goal of data collection, and will have a human vehicle ..."
+    publishedDateTime: 2020-01-25T00:47:00Z
+    sourceUrl: https://www.abccolumbia.com/2020/01/24/uber-set-to-bring-self-driving-cars-to-washington/
+    type: article
+    provider:
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 39
+    images:
+      - url: https://images.abccolumbia.com/wp-content/uploads/2020/01/volvo.jpg
+        width: 992
+        height: 558
   - title: "The Hype of Self-Driving Cars Gives Way to Reality"
     excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
     publishedDateTime: 2020-01-23T21:32:00Z

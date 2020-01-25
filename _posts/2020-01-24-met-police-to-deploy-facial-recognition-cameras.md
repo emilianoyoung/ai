@@ -1,17 +1,21 @@
 ---
 category: news
 title: "Met Police to deploy facial recognition cameras"
-excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
-publishedDateTime: 2020-01-24T11:38:00Z
-sourceUrl: https://www.bbc.co.uk/news/uk-51237665
+excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
+publishedDateTime: 2020-01-24T11:41:00Z
+sourceUrl: https://www.bbc.com/news/uk-51237665
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -352,6 +356,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "OjQyh34Lnf7vYmmwewGY3ZUnusJ6/R/bYgezmIQJ9ruCEMEdJ5TOGQviKbAQAaG74l2V6lxabLhNwgE2TCGD65+EhyU4XzJgsYFVmaBs2bfrmbaZzBVlllNrngZGp35ESifyU40ZEwPDjhE7MfUsHh8UKK4OOSAp8rcXtJE5cdmSKDc7G4UJTxTUC5/JGQcU334TyM49+9sSii5dEr1Nw3JqdTccaq2anOySoTcy7+ayi1EJOxkI2xm/6Wfr8mPlLqd0xe7SmUXkZk1iS/aKhOkD+l4c9eqGQsi29Vs/T96qXac4hZmlLFuPsEGrQL3bP7AWWApoKUCHthHuxEZa00QExI+3Bq/aSgDqv13tUGt0JsFItttabqnxexbsLC9vFnCuSVnG8MkbnLWl+Kf34DVypsByFHfNgrlSM6tsnMy3Puy8nw4twH1mq/TofgkTkRlqmuy+LjEoonvFjJ8GFym02otYhCV2LnJkyaxUSAg=;M3IgpK3cu2tyi8BqXNIDFQ=="
+secured: "eIU59aMTJl4LhQ7xNewCfGWRPfzjmwspEov5l/NDF1h7wPKNC5od6BQZ2GkQW8oX4ROpuaBLDa4rIPg+eSGV5VQRoqpQv9gq0NwqC1VVpPXh5UaazMnY3s7zK8fdeqGZ+JJvqBlWqeNnQG6yGyFWJKC0hLlXThQj6cAYKvDwl9MMbRS5g0BOEZnp8DE4mtBpMbzdKy8UnGR71mvuMkfJ0DJs2mu7wrPkJ1MT1ikw2QTKLWt3TsybnjH0rrelI1FDK96JbAc0guDVuOuiQpJOujPuJ76du2e6YtDbwxsre3oCIa73HiLJUQ19pl8LNPqQ;VltIBEconvahHQ03R46PnQ=="
 ---
 

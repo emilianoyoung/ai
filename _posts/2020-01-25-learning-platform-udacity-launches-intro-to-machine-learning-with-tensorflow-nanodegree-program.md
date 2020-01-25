@@ -51,13 +51,13 @@ related:
       domain: dqindia.com
     quality: 36
   - title: "New Udacity Nanodegree programme offers hands-on ML training"
-    excerpt: "New Delhi, Jan 25 : US-based learning platform Udacity has launched a new Nanodegree programme titled 'Intro to Machine Learning with TensorFlow' that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ..."
-    publishedDateTime: 2020-01-25T10:54:00Z
-    sourceUrl: https://www.newkerala.com/news/2020/12566.htm
+    excerpt: "US-based learning platform Udacity has launched a new Nanodegree programme titled 'Intro to Machine Learning with TensorFlow' that offers practitioner-level skills in new-generation Machine Learning (ML) through hands-on projects. Developed by Google, TensorFlow is a deep learning framework that is widely used for creating ML models powered by ..."
+    publishedDateTime: 2020-01-25T14:31:00Z
+    sourceUrl: https://news.webindia123.com/news/Articles/Science/20200125/3495220.html
     type: article
     provider:
-      name: New Kerala
-      domain: newkerala.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
 
 secured: "NYCmC3IBgO6bXySKCj8gz2qGNxbYTYQYOIRUoDrKHKvFTueY3w76bFTxB55khZbLRvERuov891jdiLIKeMhxYNYl3CBAY/122pW6PKAoI5ut8v548RWcPrF5LMFKMwNsyZGFAs9cH17HZvGtkb3r13INnarh+ZBTI48unZPGxofkT+Y9PYdGltN3dGLS4coqXx8UVI0emHknRvmWOpiIh1+VlQSN2BEXq1eadjwTNoqnVVqW55LZMMFwW2/3plP7ozJTSCD8IrViM5G9BKDrmQ9bWU+mltZxqLkPz7MttXDEkgaMHjnfveCZ+ocJ2hvJ7RdiEGHftKO5Y8laFFOLcV8SRzpYsmhERjTA52dTT3kNTCDtnf8+HmPzYdpmgc0os5+E+O1vReJra54abjalBazXzx7TZiB8UdG7eoIXg9jxb/7b6Xq3jTub6WykhsuvkNtmXTWTYe5jSOGyFFAsldCqnI1lwO/My4snVI9Y2vw=;GFP+jMoszHcgzgirRuPXiw=="
