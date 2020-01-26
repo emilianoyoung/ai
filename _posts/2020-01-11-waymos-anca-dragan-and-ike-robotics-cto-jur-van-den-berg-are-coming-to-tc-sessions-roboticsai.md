@@ -45,21 +45,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2019/10/robotics_2020_wordpress_header_2000x1090.png?w=1024
         width: 1024
         height: 558
-  - title: "Maxar’s space robotics head Lucy Condakchian is coming to TC Sessions: Robotics+AI"
-    excerpt: "TC Sessions: Robotics+AI is creeping closer by the day, and the agenda is packed ... Students, grab your tickets for just $50 here. Got an early-stage startup? Book a Startup Exhibitor package for $2,200 and you’ll get four (4) tickets along with a demo table to showcase your company at the conference."
-    publishedDateTime: 2020-01-06T17:05:00Z
-    sourceUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 113
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2020/01/lucy_header.png?w=1024
-        width: 1024
-        height: 558
 
 secured: "sH0T25mDhb6iMrQ3K9IhExGTF9EuvW8n0bPg+62rU4Megn0ohu0T8M+RTvOlYbDhzoj90BqckOGX41zDfcRo92f0xYCnnDBKOmQuiimDkE+Rcp5Uw1TatLieymgC1an/h9vHeeyga1974gOZyA8YWAYPy019bSTJ5l1kQfX1aJZxLCJCo/8LZQXtthMH7kQiSC/4Vyx2JiO9FWyyOgXRJCXVU1sxYdRe1ySmLCDJDTBHVVEp4e5sHlQZhAaAMm1AhYPW2k+iowxD3sfYvn3e3X1uhLPNkp7jJi20uclRHfEaRsxyWRrxBMHpP/uPXzANKjy9GYsdaP2Cp6YyMZ716++cypEVfawNWpFkMsNnzB9HNu8yLK7fP7F92Hoqwrk2GhF0MZNyX0QUWKSE/f79D1VrqZ5EEiWTUefrQGygtexL9AnLHdZqK6tGXRdwUhgf9CCfk9f2rpimJX0CgY6Exw==;YkgrzsZ2d0CgqpCFVTTB4A=="
 ---

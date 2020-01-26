@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The overall artificial intelligence chip market ..."
-publishedDateTime: 2020-01-21T15:19:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-artificial-intelligence-chip-market-2027-global-analysis-forecasts-/2020/01/21/9084575.htm
+excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The others section in industry vertical includes ..."
+publishedDateTime: 2020-01-21T14:05:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
+ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
 type: article
-quality: 16
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg
-    width: 252
-    height: 335
-    title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
 
 related:
   - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
@@ -86,6 +86,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "kvMiRsnF/8OTZYKWSQ437r6ZgUYbtdG3tH7ZGq1Z1P4q/B3fpLARgDQ9sz7RdjgK3iYE7VB7qUopY6SpU1cHC1jyfttteQvbcyTZhDp7xdoQs7HEvoAEwGRbuml/PTwNehtYrtyc5YQvlxgoSj5JnYGBmrZ8or8+yV+mbSc6VjHf8I0roz/D2YDF2hUC4c3jTlS/5Fe/PqedRsKgHkjXJQ9KCpTP4fJq2+hwtR0baAEJ62TjlDHwfpdoaJ1UhvxR7hDc+ua+mQqJZmrdNt85FYq/90tLPFjPhoPzKZO+SDjYXNRj7ajcDfqadgxffs+F;TMz7vFwCWNaDv5mW0/esiQ=="
+secured: "wkImgMoZYJhQdwMd3+zg0T9coWPxH/wJzKRxGpnLhJI6ZeRgEeKtC7QQPsDU7pHCpPlWIa48s20uE+4bBrLDpinzqnw2xjnmmnKTBmGbyn2PMo6VU438zfFXaIeI7N543AoaHTlpQa9X1msbodZd4vlQLRFyIu17Cguik3mt5ZgZCYQhybYm4kpr/0Sjpxn+hAqODC7yISnaZFSdcIAviuPbkBvtcvXtH8x2gxU5x4IokpAw4IPThwPPrKF2l2yeY9lktFpKNZYtwI4DGV+iDyXI/gfqJVbs5KjbOgP/5WvWZcuot62MoYM0vR02f6iw;skpakjsq56TeAV7WDp1O1g=="
 ---
 

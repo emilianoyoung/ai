@@ -41,15 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
-    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
-    publishedDateTime: 2020-01-06T17:45:00Z
-    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 42
   - title: "Artificial Intelligence (AI) Chipsets - Worldwide Market Study (2019-2025) with Analysis on Amazon, IBM, Qualcomm, Intel, Nvidia, and More"
     excerpt: "7.2. Advanced Micro Devices Inc. 7.3. Amazon.com Inc. 7.4. Apple Inc. 7.5. Applied Materials Inc. 7.6. ARM Holdings 7.7. Baidu Inc. 7.8. Broadcom Ltd. 7.9. Google LLC 7.10. Graphcore Ltd. 7.11. Gyrfalcon Technology Inc. 7.12. HiSilicon (Shanghai ..."
     publishedDateTime: 2020-01-09T13:50:00Z

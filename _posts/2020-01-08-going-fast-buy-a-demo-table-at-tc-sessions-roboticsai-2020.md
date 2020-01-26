@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/08/going-fast-buy-a-demo-table-at-tc-sess
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/08/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/amp/
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Going fast: Buy a demo table at TC Sessions: Robotics+AI 2020"
 
 related:
-  - title: "Maxar’s space robotics head Lucy Condakchian is coming to TC Sessions: Robotics+AI"
-    excerpt: "TC Sessions: Robotics+AI is creeping closer by the day, and the agenda is packed ... Students, grab your tickets for just $50 here. Got an early-stage startup? Book a Startup Exhibitor package for $2,200 and you’ll get four (4) tickets along with a demo table to showcase your company at the conference."
-    publishedDateTime: 2020-01-06T17:05:00Z
-    sourceUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 113
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2020/01/lucy_header.png?w=1024
-        width: 1024
-        height: 558
   - title: "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI"
     excerpt: "and is co-PI of the Center for Human-Compatible AI. Last year, Dragan was awarded the Presidential Early Career Award for Scientists and Engineers. Van den Berg is the co-founder and CTO of Ike Robotics, a self-driving truck startup that last year raised $52 million in a Series A funding round led by Bain Capital Ventures. Van den Berg has ..."
     publishedDateTime: 2020-01-11T11:27:00Z
