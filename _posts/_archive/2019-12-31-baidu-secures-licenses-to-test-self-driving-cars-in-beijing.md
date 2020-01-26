@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Baidu secures licenses to test self-driving cars in Beijing"
 
 related:
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
-    images:
-      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
-        width: 320
-        height: 209
   - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
     excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
     publishedDateTime: 2020-01-07T02:02:00Z
@@ -67,16 +52,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
-    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-    publishedDateTime: 2020-01-06T18:04:00Z
-    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
-    type: article
-    provider:
-      name: CPA Practice Advisor
-      domain: cpapracticeadvisor.com
-    quality: 4
 
-secured: "KPU6StNCtGEU3NHUn1iEEn3ESjtEx9dGiWBM/6Fmcj/Fpjrf3xQLRUTC93AurpnrO8Jb+cgZid8FFe7ZvjgpYUWbhg3vrksSSAYuA7aGds3eRAqqHKaMEGajgPFJsxdYf+n0X9YGRbniGm5u5y57JfAhjY/UpwwVusmMiW2ceT7S/uuymobIVWJ9Y0zzU01gP94fj1RHzyeUPmTBE+mt/FRLDO4LvUO4WMmg4c9INpNtp2bjcztZgsIxDTD6UHALmtdFuV5FOFz5IuFUFQG1LFhYnq+i0cDkS2QqUFPMtRm0YcRddvOAdbkMfZDSvQV5;u2x7sj9GdeK2493rQoEogA=="
+secured: "zgerYU5HyfHkryrjpfLACrB6bvF4MefytNVznAvxpcfTfgp1+XGgDnJ+igPXYzntyLfNcqKFDq2GQcWzf92ZXMgbSRhN2gr4f4Gq7rn7eEoMzteC8dHfjEK7Puxu5MtUICoWBrHsPUf/y786irk3ecBF3QDe+0RH6j8WB8AuGsUFICJiHe3yD2BHiK1A9OHAwekoYbxlfrmt87KMH/K0Y63OQ7lGITk1WZckNhCQQK8VRufWYa8pT9iRm4U3CNCDIr3TelUxaa5FgHagzChtjqoRyme78fW0y/FX2tVlFadHZvdH79/KWurLLiVo4Qs8;p8ybOo5Gbvqh16f9uN8eXA=="
 ---
 
