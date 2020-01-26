@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Baidu secures licenses to test self-driving cars in Beijing"
 
 related:
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
+    publishedDateTime: 2020-01-06T14:06:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 37
+    images:
+      - url: https://ca-times.brightspotcdn.com/dims4/default/3de7005/2147483647/strip/true/crop/3024x1975+0+146/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F73%2Fcfca9b914994bd002b870005233e%2Fwd.jpg
+        width: 320
+        height: 209
   - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
     excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
     publishedDateTime: 2020-01-07T02:02:00Z
@@ -62,6 +77,6 @@ related:
       domain: cpapracticeadvisor.com
     quality: 4
 
-secured: "Rs8eAfZHiju/o8o9o3F2kTWGZicbAHgWn6IKCTA2GaEYKBZBMFBsJ3Jk1Gqt8zfF/pDqo68dGfIP2FUgMVvOre3lqTMfIFB8aHDx2PsZ+Z+qrC00YJVoBDXhHQOeCmhN03f6d5023KQ8bipSlf/OirL0CA9mFreFqlg+c52yBAsVNIVAb3fV0x8s6H2vDPsid33gceVbFOfI0aRlE1v5fx4DJUpwr2188pNOtY79rTWSqRVMKnUbFcBaj+RPXVI8jPjNHrk6xt/ysmDUCVkrGxBPcfXmPKz90Ag7+dCVYOO7fX03bcPnJmmqnFqz/xsF;/6oiqa+PqepWCDNsLOQEyA=="
+secured: "EO4x9rNj3c34ZqD8On2IJp/63yJoT43xVAoAo0vTbxjgcD849Fp+nnOaZBwyFcMkf0eEq91NE7bpL87B+f59JTRHa+uRrcz1Xd0SK5HBdkyVjKqXA34l4S1Uv04UNBN/cbJ9a+hJCxzAUdmUqewFLGSaUJv4N9HqcP0E0ScC9vToodmaarD++A8C4oCHRWwjssbbhHWQGD5YipV6MEYhACM7a1EmlyCS7CtzNPPP0U4eINwGpjMJQQ9oCYrWTiRSM3+8NLyN8Nbx4IaCTR8xOiEqZRM9gWWi6gOeiQwQ+7sQg0ogFhtGMRO2lx65D+0h;5/SFh1oV48S+HsTvf/937A=="
 ---
 
