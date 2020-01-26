@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-plat
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     height: 646
     title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 
-related:
-  - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
-    excerpt: "The Santa Clara, California-based company unveiled the CV22FS and CV2FS automotive camera system-on-chips (SoCs) with CVflow AI processing and ASIL-B compliance to enable safety-critical applications. Ambarella will also demo applications with its existing chips — as well as a robotics platform and Amazon SageMaker Neo technology for training ..."
-    publishedDateTime: 2020-01-06T10:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/
-    ampUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/ambarella-2.jpg?fit=1200%2C655&strip=all
-        width: 1200
-        height: 655
-
-secured: "p4eQR01C+op/y9ghlj+XeEtSB8WfByISszQ2c4p5CLguseOny4kfAQHXBGI7oU9A24WCKFHRbMWMBqZOyoKpD4d5sO2ShZShN+ozbIADIysw8GfVdPqMze2qmde/fBfJ8yBUnzjePU6eyVVFq4l8Q0K2fEIu6Pu8jsn+mWvITsVzBe7XvFzGfaalOEVhh1QrSkfhP7IKyHcmn2DvxReY8H074l4MHEw1zBnS/CiHfG7zNkz8Gm/sS+4Zp4f2Cd2nJIyAtFjgcamtfiG70+oyZ8vwql6ml3AnCzLsYCvB19vVt0ub5G84RmdZv4nu3KeY;R4pemnTl5Ii+v/Vf8iiSFA=="
+secured: "vVRA36ddannUDIOHaUbFhBLXNFRSfJQ9enk0tFiFBRL5st92GCWrIqIw+QbXXVr7TlOaj6KughEkP8MkGv6R1CfciVzkutOTDbDSrVvn+aagcEz3olhpSvaDF2CQ8jsWPTdBkxXtAmP/u71YFpLinprPOV8JBNX7hVWHYXmv5Dal+92X6kV8yPu+Jve7zfmqNKC11m4L1c9vVRzK5m7do3pmia1OYRAwgFEqSC7N5AaBJAf9oFCg6FVBkuvtXChLEDwM4LyCPS9u17kn3fak+t2lJjtsuZpE6Du+lto5fInA2H0dWBl9dNeWFNoCgU0j;AJhXhvj8+u0E7Ff8YpvJBQ=="
 ---
 

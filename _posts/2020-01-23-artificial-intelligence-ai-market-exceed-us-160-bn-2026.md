@@ -1,80 +1,33 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
-excerpt: "LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \"Artificial Intelligence (AI) Market Size, Opportunities and Forecast, 2019 to 2026\". The worldwide artificial intelligence market and is anticipated to grow at a CAGR of around 49% in terms of revenue during the forecasting period 2019 ..."
-publishedDateTime: 2020-01-23T14:43:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15172171/artificial-intelligence-ai-market-exceed-us-160-bn-2026
-ampUrl: https://amp.benzinga.com/amp/content/15172171
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15172171
+excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
+publishedDateTime: 2020-01-23T13:30:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-exceed-us-160-bn-2026-300992123.html
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: https://mma.prnewswire.com/media/962993/Acumen_Research_and_Consulting_Logo.jpg?p=facebook
+    width: 597
+    height: 315
+    title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size Hiting with 49.7% CAGR in Forecast 2019 to 2027"
-    excerpt: "According to Acumen Research and Consulting, the worldwide Artificial Intelligence (AI) in Healthcare market expected to surpass USD 40.2 billion by 2026, increasing at a CAGR of 49.7% between 2019 and 2026."
-    publishedDateTime: 2020-01-21T06:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Healthcare Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Artificial Intelligence (AI) in Healthcare Market - Global Drivers, Opportunities, Trends, and Forecasts to 2022 Artificial Intelligence (AI) refers to the creation of intelligent systems that are able to perform tasks without human interventions and instructions."
-    publishedDateTime: 2020-01-17T08:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence for Healthcare Applications Market to Show Strong Growth by 2025"
-    excerpt: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis,"
-    publishedDateTime: 2020-01-14T15:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-to-show-strong-growth-by-2025-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Hardware Market Size, Outlook on Key Growth Trends, Factors and Forecast to 2026"
-    excerpt: "Hardware Market. The factual, unbiased, and thorough assessment of the global Artificial Intelligence (AI) Hardware market presented in the report assures players of access to much-needed information and data to plan effective growth strategies."
-    publishedDateTime: 2020-01-20T17:47:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-outlook-on-key-growth-trends-factors-and-forecast-to-2026-2020-01-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence (AI) in Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2024"
-    excerpt: "Global Artificial Intelligence (AI) in Automotive Market This report helps to analyze competitive developments such as joint ventures, strategic alliances, mergers and acquisitions, new product developments,"
-    publishedDateTime: 2020-01-17T11:04:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-2020-by-company-regions-type-and-application-forecast-to-2024-2020-01-17
+  - title: "Global Edge AI Hardware Market is Expected to Reach USD 1,929.21 Million by 2026 : Fior Markets"
+    excerpt: "Newark, NJ, Jan. 23, 2020 (GLOBE NEWSWIRE) -- The global edge AI hardware market is expected to grow from USD 423.34 Million in 2018 to USD 1,929.21 Million by 2026 at a CAGR of 20.9% during the forecast period 2019-2026,"
+    publishedDateTime: 2020-01-23T22:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-edge-ai-hardware-market-is-expected-to-reach-usd-192921-million-by-2026-fior-markets-2020-01-23
     type: article
     provider:
       name: MarketWatch
@@ -84,112 +37,51 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Manufacturing Market Size, Growth, Opportunity and Forecast to 2025"
-    excerpt: "Artificial intelligence (AI) is an area of computer science that emphasizes the creation ... of manufacturing plants 1.2 Adoption of industrial IoT and big data technology in manufacturing 1.3 Rising usage of robotics and computer vision technology in manufacturing 1.4 Growing opportunities for AI based technology in developing countries ..."
-    publishedDateTime: 2020-01-21T12:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-growth-opportunity-and-forecast-to-2025-2020-01-21
+  - title: "Russia and NATO Artificial Intelligence in Military Market 2019-2027 | USD 18,649 Million Predicted By 2027"
+    excerpt: "Facts and Factors Market Research has published a new report titled \"Russia and NATO Artificial Intelligence in Military Market By Application (Warfare Platform, Information Processing, Logistics & Transportation,"
+    publishedDateTime: 2020-01-22T12:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-2019-2027-usd-18649-million-predicted-by-2027-2020-01-22
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 51
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence and Cognitive Computing Market Foreseen to Grow Exponentially by 2026"
-    excerpt: "Ameco Research announced the latest market research report on “Global Artificial Intelligence and Cognitive Computing Market: Global Industry Size, Share, Trends and Forecast, 2019-2026\". A report on the global Artificial Intelligence and Cognitive Computing market has been recently added to the ever expanding repository of Ameco Research."
-    publishedDateTime: 2020-01-21T05:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-foreseen-to-grow-exponentially-by-2026-2020-01-21
+  - title: "Edge Artificial intelligence (AI) Software Market 2020: Key factors behind market's rapid growth by 2030"
+    excerpt: "The Objective of the \"Global Edge AI Software Market Market\" report is to depict the trends and upcoming for the Edge AI Software Market industry over the forecast years. Edge AI Software Market Market report data has been gathered from industry specialists/experts."
+    publishedDateTime: 2020-01-24T02:56:00Z
+    sourceUrl: https://www.benzinga.com/press-releases/20/01/wr15178205/edge-artificial-intelligence-ai-software-market-2020-key-factors-behind-markets-rapid-growth-by-
+    ampUrl: https://amp.benzinga.com/amp/content/15178205
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15178205
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp IBM,"
-    publishedDateTime: 2020-01-21T06:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
+    excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
+    publishedDateTime: 2020-01-20T07:20:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15148602/battery-management-system-market-is-poised-to-hit-22-3-billion-by-2030-p-s-intelligence
+    ampUrl: https://amp.benzinga.com/amp/content/15148602
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148602
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
-    publishedDateTime: 2020-01-15T09:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200115005015/en/
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+  - title: "Voice Assistant Market is Forecasted to Hit $26,872.6 Million by 2030: P&S Intelligence"
+    excerpt: "Voice Assistant Market Research Report: By Component (Solution, Services), Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition, NLP), Application (Messenger Bots, Websites, Contact Centers),"
+    publishedDateTime: 2020-01-22T07:45:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/22/1973435/0/en/Voice-Assistant-Market-is-Forecasted-to-Hit-26-872-6-Million-by-2030-P-S-Intelligence.html
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 44
-    images:
-      - url: https://mms.businesswire.com/media/20200115005015/en/766998/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Healthcare_Sector_2019-2023.jpg
-        width: 1200
-        height: 627
-  - title: "Global Automotive Artificial Intelligence Market 2020 Industry Analysis, Size, Share, Growth, Trends & Forecast To 2026"
-    excerpt: "Automotive Artificial Intelligence Market 2020 Wiseguyreports.Com Adds \"Automotive Artificial Intelligence-"
-    publishedDateTime: 2020-01-20T08:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-industry-analysis-size-share-growth-trends-forecast-to-2026-2020-01-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vision Screeners Market is expected to witness healthy growth at an estimated 6% CAGR during 2019-2029"
-    excerpt: "VALLEY COTTAGE, N.Y. - Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
-    publishedDateTime: 2020-01-24T11:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-is-expected-to-witness-healthy-growth-at-an-estimated-6-cagr-during-2019-2029-2020-01-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence in Healthcare Market"
-    excerpt: "Due to the potential of SWOT analysis and Porter's Five Forces analysis in generating market research report, they are preferred by the businesses and hence also used while making this Global Artificial Intelligence in Healthcare Market report. To structure such a world-class report, the combination of best industry insight, practical ..."
-    publishedDateTime: 2020-01-16T03:41:00Z
-    sourceUrl: https://www.openpr.com/news/1896627/global-artificial-intelligence-in-healthcare-market-2020
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Artificial Intelligence in Aviation Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025"
-    excerpt: "New York, January 21, 2020: Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results. AI in aviation will kind the data and supply the pilot with the most effective doable choices for operation,"
-    publishedDateTime: 2020-01-21T06:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
-    excerpt: "New York, January 21, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-21T04:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2020-01-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
-secured: "lfmliWKUmjevxf26jAHgECuBV+oUKLLITDdS/ACdfQgxfdtDmQF868njaz/XAjfaVf7XBNop6qwtKg/k5k4XKx170BvpApNOfGQlukeC9QNlu7+w1LPeKMYfbtJdj8B3KbN07umJpYXIh6ZX9fuAve5frdGyE5ql2Q6/u3NL9btAHsT/eXW21QGm2zu8QZi94rGuznD6vI7jIaCIAIVjUGVyhduyjPSPt5/M+LOR9Wrx0htDYDRpSF3v4pd9+HhLr5VJ5FcN90n9E8FDDlDS+PrYiRxu/4LppCfHrs0bBdXnXM1utRWjk96/P725y2Ld;gH4y0jc9TmLACJLk7sJ2XQ=="
+secured: "6J3wuw8I7oIiJpKKy8Q7lW4JlWBEHyeUVAGMG0AxU+lhBcxyRCK3DWOASri4qXFEiBIMgxi/tmgp1G3y2FWnJRgfrPdqYfqUuBMiZFkQcDoSQR076ykpW/IbSjMioXP9Whtl4Z742JoDAHJURbu5sBNWqalRt8mOcBdn7No7WUwk+KO2DngSmxvyY9qi4n5CS0DzdNidS7aVm5pLI46AGbZTyiBeGihbqNQHGSlN8ZxJ7C+hc8uiiEXy5co2w+aPbyVS9LDOt7gxkm4SeQ1Erq9WzikRNjHMrcYEp3N2vq4DPBPoEb4RVgmGtoRLu7+j;NlzDeusA0MLNeaWdhJwkoQ=="
 ---
 

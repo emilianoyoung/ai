@@ -77,6 +77,6 @@ related:
       domain: design-reuse.com
     quality: 0
 
-secured: "BQhojMayGITNU0/Nh+KLQMpTDYucduKJ2XqTKVjBbdldzh2iuBJ2Dr8PhuFwZR19ZB8GNT9tEqxE87PGdkQyTllxWjZP+7PH2HZ+GDOV0PC2lhMStG/82sBsI8xHUnQxyQQQWT46cp+90+dg/QwmnOx9fLRz9DcreDMBwo1s4gSPt98HvnMzppkWM16zs196f+falc5+muOlYpKma2xh5StyQJm5+GAm7Nv4DA1j/aja1WuHBRgkfQSSkh1NGBXQjYTmaGLEjqX+FAokPNKSy/TZyOzNXMBEjjFCGP8i8ykUnroKESD4zJoTu3dNQlqU;yBTv7PrAatpn1pBiCbCbCw=="
+secured: "BA5GMR+Xtc0h0DJG/vNPEw/8H4MWf3bcbJGP2vTKSvwvTLWVvaCRclQE3NCNdZJL4+JKkoIs4QEBdMEt37o/hvcrZDdd/iZu77CvusYo5S5Byrv7gXVRTlaPNQVQOH7N0Qnlx+Vk9lvEi12WRF7bGqlPTI3+J+nh4vtlsba8lbv8REWhovnMR1GaJR0k4IHW7Mvb1aOKqGc620SZXsSPv6NQShYjcLznaKcycUK55wSdGipjctP07ESN8JkWAD5VdK0NgmQrIDkjM/B6I44fjinn1bZT/siTdh6WklItHvsyo6Yf64FzeiVx5En/bAZq;FzcePPH1Qu9kAC4m4ZX7ag=="
 ---
 

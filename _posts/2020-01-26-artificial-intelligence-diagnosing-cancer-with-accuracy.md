@@ -1,22 +1,26 @@
 ---
 category: news
-title: "Using artificial intelligence to diagnose cancer could mean unnecessary treatment | Opinion"
-excerpt: "The new decade opened with some intriguing news: The journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
-publishedDateTime: 2020-01-16T20:16:00Z
-sourceUrl: https://www.miamiherald.com/opinion/op-ed/article239364303.html
-ampUrl: https://amp.miamiherald.com/opinion/op-ed/article239364303.html
-cdnAmpUrl: https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/op-ed/article239364303.html
+title: "Artificial Intelligence Diagnosing cancer with accuracy"
+excerpt: "The new year is opening with some intriguing news: The journal Nature reports that artificial intelligence is better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
+publishedDateTime: 2020-01-26T06:53:00Z
+sourceUrl: https://www.arkansasonline.com/news/2020/jan/26/artificial-intelligence-diagnosing-canc/?news-columnists
 type: article
-quality: 27
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI
+
+images:
+  - url: https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg
+    width: 340
+    height: 246
+    title: "Artificial Intelligence Diagnosing cancer with accuracy"
 
 related:
   - title: "Commentary: AI can’t resolve the ambiguities of early cancer diagnosis"
@@ -49,20 +53,18 @@ related:
       - url: https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg
         width: 1280
         height: 720
-  - title: "Artificial Intelligence Diagnosing cancer with accuracy"
-    excerpt: "The new year is opening with some intriguing news: The journal Nature reports that artificial intelligence is better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
-    publishedDateTime: 2020-01-26T06:53:00Z
-    sourceUrl: https://www.arkansasonline.com/news/2020/jan/26/artificial-intelligence-diagnosing-canc/?news-columnists
+  - title: "Using artificial intelligence to diagnose cancer could mean unnecessary treatment | Opinion"
+    excerpt: "The new decade opened with some intriguing news: The journal Nature reported that artificial intelligence was better at identifying breast cancers on mammograms than radiologists. Researchers at Google Health teamed up with academic medical centers in the United States and Britain to train an AI system using tens of thousands of mammograms."
+    publishedDateTime: 2020-01-16T20:16:00Z
+    sourceUrl: https://www.miamiherald.com/opinion/op-ed/article239364303.html
+    ampUrl: https://amp.miamiherald.com/opinion/op-ed/article239364303.html
+    cdnAmpUrl: https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/op-ed/article239364303.html
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 37
-    images:
-      - url: https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg
-        width: 340
-        height: 246
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 27
 
-secured: "BHO5MhwehMNsYbEhAiPS+4nbOYONrgh26aQC2Dp+YAAxa5FGPfmRSZ+bT0wgu73kWQogIODhpzxXr1iV7NkUkTM/M4q/pSmOpPm7olCpzov6zSkTZJFspR5rDWhiwsfun/l7GfP9Do45Pe+EIEiSgA1YhC8ovOaGdgrYY8Hn7rBOLE4AjIHJkVYy2/TKlx3qE5kKwMuJ/+laxfU+BVkBn8dezvd6dl4EaXXicf6N+t/VjUuw6Ox+8DbPpx+L6iuuB6PNNa1e5E0C2ZMWKrmH9qYm8POClKZp3hPXiuwnQQ0OvgDtFB8ASWU6Orsc+gOqz9C95X1amhFvLY2jST/3d4iwcqycYI3toBvKvX2rPn/YTeWHSWYd8q9SGIWlNiGioDskM6h4N/qGBpPG9QSUAt+GeDuSXvi94d2PdU/aBE8In9/uMlTsueuqToag+hG1VgfCNNXYFKlNScuHFNlBaQ==;BtI8bpTQwunx/VcPqlJ25w=="
+secured: "yprwHpD6DWPUFKYIrEkBOCzkd47b8KbZP8dJWy8MlYj3gqrF8/cd55e39LjdqbgE3T8I3AJSguj/aCU3G6pQCTma0Bwwmg+qsIkx89orK7lmXA4BPHTn3Dfz1KrN0TbX1oX+VfSkZ81kNzHF0Gmnj1MQUZ5L5ttw+B3ZWd3OQjf85xjINo2NVp97rf2k3+mfrf9VNjp9sF30JN1XFYx9DAFzywUI1wP3KIyyslQJP5VpAweGZjEG+2hXrNViESUqW6rkfQ+7DlNQipSmIVZp2U5hbpQGSYK2AI2rQB49Oyb+1M9/jxcMwgCIE1ANTKcI;fhSlz3oX9b5Kwk/Us7XUkg=="
 ---
 

@@ -8,8 +8,8 @@ ampUrl: https://www.chicagoreader.com/chicago/passion-economy-adam-davidson-robo
 cdnAmpUrl: https://www-chicagoreader-com.cdn.ampproject.org/c/s/www.chicagoreader.com/chicago/passion-economy-adam-davidson-robots-labor/Content?oid=77218035&media=AMP+HTML
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: Chicago Reader
@@ -24,6 +24,23 @@ images:
     width: 1500
     height: 2138
     title: "Robots will eat your job"
+
+related:
+  - title: "What will happen when robots have taken all the jobs?"
+    excerpt: "Nowadays people worry about how automation and so-called “artificial intelligence” are going to put people out of work ... But the new wave of self-driving cars, warehouse robots and the like, it is feared, might leave us no choice. Computer systems can now accomplish a lot of tasks that it was previously thought required uniquely human ..."
+    publishedDateTime: 2020-01-26T10:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/
+    ampUrl: https://www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/books/what-to-read/will-happen-robots-have-taken-jobs/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/books/2020/01/24/TELEMMGLPICT000222031924_trans%2B%2BoGbZwtdBNwcvkKZqZUEDO7H7wLVxD_YL8YSvmGHppSw.jpeg
+        width: 1666
+        height: 1041
 
 secured: "cnAA5Mvud8z4LOpWN0xSGAK6L+hnn4NpQ1Nmt7wZQw90bzjyvO2Vxn5Xd11OIizDwxB6q29V8Y2hUWJ1CC1T96woO/Q0ckB007sYdpLmxALrNUOGCgjNetwY4Cx0Ho272C2GdMiRa2bAeT8ZMDmJbK3D1mLnJhTtpo/JLs5M68K4mzHdA2OoawvddMgIcpLXmp59UTCTlfL1AfVdUTugnjR6C4V8zn0QsJPHfin3aO5E+ZFbnsOpPCYJpTUCqpIWFhkv0+jMpOKpVksQF8pjWsh2SDlMa0EZuzBYg/M/NAFsKMhKXWoKcHMi/9g9j6JoOPHnnkqdxXw5FU9OBhN20OfbsVnIQ9gCHIy/xBFQwWp7lQqPUTHkV+boPy+7vJfLnGwHOJmrAMhIEfA1ceIKZS5I3Q919Pfp0udGIio8wBBMd03Qafc3Q0MRxh9tgMUAQdtdWg81202OU2fkyZGhwQ==;j3xkABFar94k0XR13FIHgw=="
 ---

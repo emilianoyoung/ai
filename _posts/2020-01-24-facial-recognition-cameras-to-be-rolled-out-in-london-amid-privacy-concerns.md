@@ -449,6 +449,15 @@ related:
       - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
         width: 1600
         height: 900
+  - title: "Police to Roll Out Live Facial Recognition Cameras in London"
+    excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
+    publishedDateTime: 2020-01-26T10:57:00Z
+    sourceUrl: https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "London Police are setting up live facial recognition cameras and people are not happy about it"
     excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
     publishedDateTime: 2020-01-24T18:11:00Z

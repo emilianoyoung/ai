@@ -446,6 +446,15 @@ related:
       - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
         width: 1600
         height: 900
+  - title: "Police to Roll Out Live Facial Recognition Cameras in London"
+    excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
+    publishedDateTime: 2020-01-26T10:57:00Z
+    sourceUrl: https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
     excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
     publishedDateTime: 2020-01-24T12:51:00Z
@@ -738,6 +747,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "stT9rKvEeXFoCxBZ4b9tMNQkzHCan0lMWtV9epWRKA85xH+KHhzkUkOBrggociczxUBdRf6N9orWAt2FPvOtjtYH/PyP8bFaKYPT6E1Dv9ALe7iMj0lJOaFdaWxTcFncXo4h32cySBZZY+vE+XXXngpELk+f1X3RDxymCl+zCA3FdN4LfhPRfk6FpJvDzy+ESgMzNwatJ6CEEY3ZR6OJ7X70L5yj0sGFC7bHqb3uv7LJfYWsGrBuJ947HqX1b8qeLF7N2rfEq+PVIm6F0SsQCuvT+lTxVPGB/dmIK1ujeSa7+YxaON72E+zW7TS3E83Q;fKbukaaqIVchnJQ27boXmA=="
+secured: "mjuYibW4zbnjE9ZQAx2p6LPQKPmLUEQTAectnJOQA3hz6Huw2ZszCu7MlPE1pEqsQL62AKwhuFNuaDeGkKatrTHrVy74Ql1zW2MWykIa1tjX/ZcsL+A1yHLtzEBQF1IgbTtEOMN8qk6qWWh00FkowS0ljLyutd42Pnd/iTzEt5kKJYAJolW4c91TUaPYto9hzH4ZRELLInhq7IAysI/+PZZkVZ4CJA30LnEUgM8DpdtCCYG17jwFqBgwpTxbM4kSYM6MWALt6OHomXkALfLW07AOU6BgFttyJ8MQFBXE8kLvqNGlhcAnvU9QXuqwqCPWWQIh2jqauxaJf1rV9BFZ8YNIPgklFh+Nwq8l2R8JPfB0/BxGkdPlK8pUxYrx0U6fpM4tOeB7UGpQ0gnL1Ya3Waf1BnMSql7F4C6GBclEzr/wwY6H1thsNe1qviOm8aZJPeIJoyF8/LGsWuRTRDwrsijLSM2DAOFoUKPaCss3Qeg=;u+l42TFNKNe09f8OgoW0CQ=="
 ---
 

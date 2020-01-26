@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Face recognition mobile application in 10 polling stations"
-excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
-publishedDateTime: 2020-01-18T16:53:00Z
-sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
-ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
-cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+title: "Police to Roll Out Live Facial Recognition Cameras in London"
+excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
+publishedDateTime: 2020-01-26T10:57:00Z
+sourceUrl: https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: /assets/images/organizations/usnews.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
-    width: 615
-    height: 384
-    title: "Face recognition mobile application in 10 polling stations"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -277,6 +273,21 @@ related:
       - url: https://e3.365dm.com/19/07/1600x900/skynews-facial-recognition_4709130.jpg?20190703181850
         width: 1600
         height: 900
+  - title: "Face recognition mobile application in 10 polling stations"
+    excerpt: "The Telangana State Election Commission has decided to use face recognition mobile application in 10 polling stations of Kompally municipality in Medchal-Malkajgiri district in the coming elections on a pilot basis to strengthen its voter verification system. The technology was aimed to reduce impersonation cases by applying the latest ..."
+    publishedDateTime: 2020-01-18T16:53:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/face-recognition-mobile-application-in-10-polling-stations/article30595770.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: https://www.thehindu.com/news/national/telangana/mfyjlt/article30595769.ece/ALTERNATES/LANDSCAPE_615/hy10votersrevcol
+        width: 615
+        height: 384
   - title: "Five-year ban on facial recognition being considered in the EU"
     excerpt: "Notice a bug? Let us know here."
     publishedDateTime: 2020-01-18T18:30:00Z
@@ -442,15 +453,6 @@ related:
       - url: https://e3.365dm.com/20/01/1600x900/skynews-met-metropolitan-police_4900764.jpg?20200124113615
         width: 1600
         height: 900
-  - title: "Police to Roll Out Live Facial Recognition Cameras in London"
-    excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
-    publishedDateTime: 2020-01-26T10:57:00Z
-    sourceUrl: https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Facial recognition cameras to be rolled out in London amid privacy concerns"
     excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
     publishedDateTime: 2020-01-24T12:51:00Z
@@ -743,6 +745,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "wpZV8nzPArNLKDgABgZdhWCdUkrpZGDS0TfUOkL4XpUOX8OIOGhf07yK2ueTn3GM+6kanfs8MCXdXYS5G1YEUtUfheD7kz9ltfVyTQ/uPQvczSCqraz1i3a6K3LgxvENbiedL/Nktmpx2QjoL691BAKxJjS7bHYXzXoq4mh1sBtRqotmpwcCAb4y7AQXNCoj3jHuBU2IBHkWeGu9cKIJybstrz00JgmNVw5FNIzqwO6qPSSknyz21YSNOLmBJ5gOYGK6LADNlv+6sejw1tUIMjqd2k9SFDi8CK0apu/ZdaM=;bcfVa0RF3OKXKIDV9uZz2Q=="
+secured: "KoASt9YRe5gt0sfTX+86JuSaFA2TH7A5DA2OXc0WrfkE7zjOiS1Oo8FdIJcjGgyOi/rKkGau73RhESDVeNVaWyfNWqgvUNeqcXAx2R9ZunkUXSaheCY5IdJX6DFv7z4OcSkh4uYeVT8wznzgNPyyI7iUC8db3OaPKZ+Ssk5w5lMMEt9JonyHUThCiVKvwtuEiNU3sN5sF4HW+P+ysb2Frvqwt4mwoeW2t1rBP3Vu0YhiQ7y43X3/v5Pz425DLNXsrKPS8Qt/xmtYKTQEF+UooEXKG19uBNCCEP597fCFBJJ+EoqXYIzi2zxWCUWUxem770OfWkhY4obbogDHlQleKcswSfztkTlvIKB+QuNlttVLL/ZbjL2QrxsjVLe2Kkhuugur8jv5xJLZJS9oUljI0pSaPdyVsAJzIsD7b0DUPG6soGP+iGEXaFoLCZPM9hvWx4YOZ9p1DQ6naNP68X2hdlcnhikgsUTl3W5y/UX0NuE=;XFqLnkRDUfd3kfjdjsbz7A=="
 ---
 

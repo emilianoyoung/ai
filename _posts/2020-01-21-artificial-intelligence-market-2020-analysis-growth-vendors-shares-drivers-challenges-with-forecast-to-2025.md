@@ -120,17 +120,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
-    excerpt: "LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \"Artificial Intelligence (AI) Market Size, Opportunities and Forecast, 2019 to 2026\". The worldwide artificial intelligence market and is anticipated to grow at a CAGR of around 49% in terms of revenue during the forecasting period 2019 ..."
-    publishedDateTime: 2020-01-23T14:43:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/n15172171/artificial-intelligence-ai-market-exceed-us-160-bn-2026
-    ampUrl: https://amp.benzinga.com/amp/content/15172171
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15172171
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
   - title: "Global Artificial Intelligence (AI) Market in Healthcare Sector 2019-2023 | 28% CAGR Projection Through 2023 | Technavio"
     excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) market in healthcare sector is expected to post a CAGR of over 28% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The growing demand for connected healthcare services through digital platforms such as wearable ..."
     publishedDateTime: 2020-01-15T09:00:00Z
