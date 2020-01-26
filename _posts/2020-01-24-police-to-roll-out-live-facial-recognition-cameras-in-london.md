@@ -1,25 +1,33 @@
 ---
 category: news
-title: "Police to Roll Out Live Facial Recognition Cameras in London"
-excerpt: "Police to Roll Out Live Facial Recognition Cameras in London LONDON (Reuters) - British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government's own surveillance watchdog. First used in the capital at the Notting Hill ..."
-publishedDateTime: 2020-01-24T13:29:00Z
-sourceUrl: https://www.usnews.com/news/world/articles/2020-01-24/police-to-roll-out-live-facial-recognition-cameras-in-london
+title: "Police to roll out live facial recognition cameras in London"
+excerpt: "British police are to start operational use of live facial recognition (LFR) cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog."
+publishedDateTime: 2020-01-24T12:55:00Z
+sourceUrl: https://www.reuters.com/article/us-britain-security-cameras-idUSKBN1ZN1H2
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZN1H2
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZN1H2
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/usnews.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://s3.reutersmedia.net/resources/r/?m=02&d=20200124&t=2&i=1480741019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0N1A7
+    width: 882
+    height: 545
+    title: "Police to roll out live facial recognition cameras in London"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -730,6 +738,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "FBD76BIZNsyC3dB0p58b5JQcl07WlLafXKyHDEqV/cd5JtnZUye5PKpj0mXP+cy14pf13YtU5UblNVSXJkU/D11mpQB16PIm+PuF/6tDbkMIfvLKw6CJ77IVtKpTv9u5I5xk0nvEKQWB4eNqKCyzfSeO8fv3/MjnHHqscrP7xbZ85duKXu/uwTLj6SE7TXoU8WbklWqTzkhF8RO222VDkx+JmzNZnScq30gGVFerUKvpb6sB+BEzndJCu3qBetKzSsEyPIbO8KcgLSpSEkWsqJOSqa545IoljDZWNn5p4XVjWTvxcxPXkEFvi6Jv+tQs5PcaCMZY+oBJnCBEdInWBo1e17b9X4PctT3JPQhL8/yR5LRNj3xeQM4+rATacLHd9ew48pkh1zgySrswB4jre2NtNSgnO2BxPCdx85LobrI9qR184XX1seZijINP44xRfPcjl0D7pVcLravXR3LoXq+b5ZxJcLGBhw4voEVMyQY=;7nEaxdiNTMAdNofpQSuFIQ=="
+secured: "cb7cO6pWgAF6bXVJk4tnQyvLr9W9blWiYVLD6oNdDV/R7qKJHmyx64fEXjtY+J0dyFbJhwO8YtMWiVmCoRoy8JlrpCkKi6vjjymKVcRyuwqILMBsFRwQmHxC40us0cPiIZrDIgLbcL2l4oV7kg9nxfV4xt48KgKZPi5auuy3LQEQW+m4FS27mUrri+WPmhdzYB3Qa/IwbDrturIx3iPblZoNiBdHL8UB2iUrEImyDRZQL/UCihxWq11SUiAR9hB4jUnjNNoop0awB5MX74nS8w86cDsCKkn27oF4DfLUkRgLCE14FoRhT/L0cHZwoTpZ;m6LL/MbJLUYMeylUoP+78A=="
 ---
 
