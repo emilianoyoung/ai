@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Amazon’s AI automatically dubs videos into other languages"
 
-secured: "XRocLbzBy/cmeq11kmtKlEUq7k7jr8y3uBwrIkomrNVbQZvFrtl2s56lk87c2xaWoEOvWHADSJrq4oPiA+ZixeYPH6xwgyy4V7gAHWvHHk2Q6ofmEAa0MdAhEHxTCzz3ef/93QE78jD6eROXgRQicwzqloueLdInmXqfh5E4DlTIBZp7d0xm/1X+TkuXYN01647SwQNPuF8wc6sMBP5xtegu6p1S8CDd2V3c7K8Dm1h6X0mlpikCZwI2CfhivdKn3fMUZkNchroqsU9AR8YfMjRG989uNqWR8kWVMJfT3x9m+PGg9ycmwMgTiZ2wxkiI3eQaTw4oDedSR+fwxDLm06aRY05mIE8xqwgoDHJeo2VsUTkt7HtE3tesfpu4bsrkpCRbODWzRh+3AuPnCt021V9b8mC2OPekyablSjIkQHioGr3Ad/wyJy0aety9ec4hAJ8dGK2utKpbPPN0daKgXX4LgEwbMn3oN67F2HZXLCE=;r1RjFJwMtrZKRHsp6xR0sA=="
+secured: "S7VBesW355K9S+Stp7onYqqFVuByzWQsjlMvTxa7nIo4JZfGSJNxIz6RtcV9CV48zhNTLuUGSfHpqUfsno2jMUw6rrJq4aqhWr4d5i5oY1QgBVN0ULR6cSkOwdltP3RkD1swbtwJMS9fqyQ2XusBQmrXpRuF+GurxXp7OWCdTNBb1SIGXD1P2vGb1CuJtT8XP+JzRecvYXoyULIwQYamQ9iTQyVTVK4qx2KbkbygySdlb43kMnqcGJ2gkdbNRmL6TMDmP5oK0ho/kV7Bw+9vBXp2LaAs3/NBeCpzF1jpJZo+TRobMU/Zgear1uoSG92PYx7KdjGjpjuoxdgE02Z34sl1kGZFzgvzisfY+T+cRJ22is76nEocNa4SlFLtsX2Xl0UIZV4EOZzX0HsCQQku/tzwfC+dsaZRChuEysL6kAr2oJX/yJ+n+NmeDxzz74aN1XJvB9Y6OGxqHpTH++BljJnmO1MWvFonj1i0iIPthrM=;YJn4ncVGWEs3nhLafyb46g=="
 ---
 

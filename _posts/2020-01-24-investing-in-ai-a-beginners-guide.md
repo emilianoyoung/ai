@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
+excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
@@ -21,7 +21,7 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
+  - Microsoft AI
   - AI Hardware
 
 images:
@@ -45,6 +45,6 @@ related:
         width: 630
         height: 500
 
-secured: "xwb5OXVaqpUJ81y7Jc43sET799TY7f3wjZ23howsKMO3N8EqT4XJxfZert3N0xcrjhSaDgNiuNpI+1YQ0vGtL2bIf4LmnmiwQqsQCZEqvr4EiNwsUeEtL9iXjBMTCEI6DUvCjoIxddQv6wyCf4P047N3684yqtANMRsUEVBJge2HVe4trroH6r7gGkwn4+pWLpGuR7cv+3uvV2NxbIzX0UBcpZXBJgsOF+Om4U5x/cOGwoheZTb9xXSBGZoh8YPyP2uAFen4OU+5wnU80++go2ulfe+k4F6gbkZp9QKPOpYZboK3FiSfipILoobK/FUb;VEmSIOtflqN66Tzz5vl5rA=="
+secured: "Dj+KCEVFjn7RDZz+00bFGYKlICFkd+Epvgf83uNqJDCFvqubTY7eTWPz3czDtgxmzXHwp2X5xcy/j5INUmjC/ZJHrCdH0hYLTTKspPb4huwfCxbo7xj0RHtylAE0ALCcrpKZKivdBcOMA3vI+CBgEE0WZK3nKgVncxeJU+i3Dwd8y3GD3AxkTtJh1XrZEsl/SDxL72BxWhso4MEt1ZtqL3sYS0Cm6VIpJFbddoDH3dpiHvM4RKDTxupg9cQ1XWXKT0OwV0U/taKeaEpOqRfWtqR9wMTxa3Sw/Uodf0mmVIPBYAM7XjdT7TmAe7f/9g38;R2oilLSn3ugt2ZyGaxrg8Q=="
 ---
 

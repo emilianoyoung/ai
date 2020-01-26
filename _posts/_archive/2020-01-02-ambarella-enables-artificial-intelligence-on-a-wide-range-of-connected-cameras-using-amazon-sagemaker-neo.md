@@ -43,16 +43,7 @@ related:
       - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
         width: 612
         height: 355
-  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
-    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
-    publishedDateTime: 2020-01-06T02:34:00Z
-    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 10
 
-secured: "kVLH8dy6acN2j0N/TDO0lXJIxfO1yHgdm4bwsgTCNDbXjNwYFxD6SW+XfajKbOX7M5wmM01131deCIBfqs0T3lyVUU9Be7XeRK+NvLI+TyOrM4BhCibPmNFfcc+fEaUgNlVQoxNvzrMV82A8cQfN1JFbbwWKRV7++9GuWyUDS5b5Ec0SpGzRYrbvW8BHKF1tp2jGAJZPjfGYWdmepVVyuXdIsu8G0i5vIYeqmqIBarwcb2RKvW9DbJRtc9CyxD/hc/mDxVddjUuJm8bE5qF/ojMre0TY2jNqyosyK4Ey72f5s8M+evRAlje0TgV79uQL;khFi5doHbeEFnAbGlukiqQ=="
+secured: "8o7xZ472OiV99OyTiFNibnNgKKgx8TFVlsXAoHEjGUN3zil3WWEFiJ3GcLI7Jt3Lzqw1asOr3Amy9QbhlijIAty7jtTjIFywi4ovHF35UJSuAkTnjrOjnCrBOeESThPoAgOMcr6YQdPBpQn81/6jwN/FussbicxxFBBuhzfqaWuQnhk8bHLQ5XmQIUiRXyX7wvNu32eEtUm9deZsRfGJzJqNlxma2feyYcm/U7YwT0kWGWwaQIErUdkMlEube975bfwLm/lNzi3muikgbFVjC60gzyp7F6ufxSoqzY62AuoQ0ewtzUg4wDS7bOIIjQmb;OCjkxc/fAjX3Zulc8E1B/w=="
 ---
 

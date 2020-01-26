@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-mark
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     height: 580
     title: "Nine AI Marketing Trends Set To Explode In 2020"
 
-related:
-  - title: "Top minds in machine learning predict where AI is going in 2020"
-    excerpt: "If you’re interested in taking a look back, last year we spoke with people like Facebook AI Research chief scientist Yann LeCun, Landing.ai founder Andrew Ng, and Accenture global responsible AI ..."
-    publishedDateTime: 2020-01-02T14:16:00Z
-    sourceUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/
-    ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/jeff-dean-anima-anandkumar-celeste-kidd-dario-gil-soumith-chintata.png?fit=1200%2C629&strip=all
-        width: 1200
-        height: 629
-
-secured: "93v0J5h8Ucgr98s9kisbuMk3kdZ3bwUIqPKCtMUaoj3LDY8oJyPdIPiLMw/W29wI0OCPY10MRtA7eJo/8E3ItD7DbBvht2cN1UHFvqxAbiP9Io6NnZgRrtORsYKSVoaosXqB37bVMFRdWyrgFRjF0e+jdKuiXKKd8B77sHMdRe1Rn/lE24y3KuDe8CsYZ0s2mUN2hhxCdq6TEKnfKlzGpIi9HkSnFHsR8bRKLvtMp3RxdoEDGx2mqPo5Q84hnSt3HkC3vaHHMxpvad1gYJYpyC2e/2IhmOq0VCbYvSX56tE/8Beq41OOr4TKkyyhLiEh;o0+H8SYHILUnAkYn2KXr3w=="
+secured: "Txv8iSAQWFIl/h94s/eOeLYn4fL3Hv2ha2M92qtRqfkPa2anY9gn04azTJVzwpXXsIeATQ7HyTD2jpF/QfyzgDzs+6PYb8qCz1CGvxzkJ6P4Y37xciG5I8E9JUX7Cd2lipbui8AME+EawKOIfiiXotkY6OwllCCqWlK/qdpQMVrB6rnsKQYGLl2A1Wlrm0/QB0LoLHNVCwHSl+8m2/pmBU/YJnu+t7LGVw+z6yBMjp8jEawWP5vXHhttq/c06YQiSdRVEbFY4NZWw4s2NKdKp2sq4ZxFA+mHekUITv65RIUR1uqnyw73PjPLGxNdlMYc;yclAF6+ZqivNNFO3q4VvQw=="
 ---
 
