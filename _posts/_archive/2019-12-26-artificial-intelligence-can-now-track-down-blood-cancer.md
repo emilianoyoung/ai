@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence can now track down blood cancer"
-excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ..."
+excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
 publishedDateTime: 2019-12-26T11:12:00Z
-sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
 type: article
 quality: 59
 heat: 69
 published: true
 
 provider:
-  name: The Asian Age
-  domain: asianage.com
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg
+  - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110840.Medi.jpeg
     width: 800
     height: 448
     title: "Artificial intelligence can now track down blood cancer"
@@ -38,6 +38,6 @@ related:
       domain: indiatimes.com
     quality: 39
 
-secured: "dPiG/Az+qG3MMWf5Xbm72mg47Q0KSD4/M3dmnD2uGltzc/8gu4dYsZ74YrXoz3eGPdeQ3unkwz/6/nSBit45Y1LQ2wWH9jcA4ELKxLg2zfE/7uJzEhY9Zf53N+vIunn5AVCTuTaelH+0gCAQv3qk4Oqc+dh3I/Pt0mRrpifjFvXz8ZesGyQF29QV4lRvUpimqhFqBUl56tH6GGSWy1PN3pZF7NDkTtUTMLGggKiKkPkhsGlbtdeh10EC4QJwWsFuSd0rxFBbBUgnfHT3+qAPsZ/oaAaKOltRXE8rLIZq1ysWAKfCyw1tSy6oXdSbaw9k;nLnTuWfUhPCOClh76mTjCw=="
+secured: "3BloDilJMl/5bt2aKTr9pYuE/DpPbibi4Hqmsu3WHbBzkXTVv1Llw7++e/Rahd++N6V7KBvv4pfY6fTfBoYIRhnFEOSjiSmf+3Syx0VT763tyvbSLSoPzIsUQ/KkRF385HukfxlyxXp1TDtu6x4W8Vpj0nEn5oOT7gKyZ01lYWySHP+0nRRE51ob7EmKA3jnWVVd3N2JrpU2SSlYwTuiw5GTLa4uU0eUZSvRhfJGsCDeVNciddNBMs+esG0aJtUMBQ+2EMQsM4Njx9WlcuOs8YQ4BvWRRxRZ9f6nZeCv7ojhPnsTvAcxnHPVIThlldNe;hAzKjOpZSwVsZ2jHnV0jLA=="
 ---
 

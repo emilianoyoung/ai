@@ -8,7 +8,7 @@ ampUrl: https://www.mobileworldlive.com/featured-content/top-three/pichai-hails-
 cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/pichai-hails-ai-potential-in-healthcare/amp/
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
         width: 400
         height: 300
+  - title: "Developments in Artificial Intelligence for Mental Health Care"
+    excerpt: "Advances in artificial intelligence have considered computers to help doctors in diagnosing disease ... Advances in big data analysis techniques will before soon grant the automation of literature research yielding high-quality information on a wide range of complementary and alternative medicine (CAM) modalities. Getting big data that is ..."
+    publishedDateTime: 2020-01-26T04:35:00Z
+    sourceUrl: https://www.analyticsinsight.net/developments-in-artificial-intelligence-for-mental-health-care/
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 41
+    images:
+      - url: https://www.analyticsinsight.net/wp-content/uploads/2020/01/Mental-Health.png
+        width: 1200
+        height: 675
 
 secured: "7zTPq7+UlmCubWjYG+kVzEpOwPlfsXaZNOvHhpc09qYhWoceoF8GqVbJ9egJT9Wt7mDU/cVkI0+4paIlBh/jWuIbQFnpirsN6ekx3DlTCdtZ8PWku1fSe8KGqiSt3xzj2x9H3lycFBQDe4jy+q1RJ1/j0cIGRAPzQR7lj1hrFHqomM0FYfNyC83Y5XUc+vvK/Hm1zkFey28sz1iVtroemZvaJL9ACGmbqQcZejr4GW8SJW9b2py8jqMD3kscUKR/3z2ideQK8ch0K0CsJpExyKCCU+8kK0kEh7rwi91OGLlwnnYt6SbCaUABFwl2cHdGlrm+zqoZjmslTug7f8RdNReqeVWE+4zKt75Wb7oyOALCXaI9p94XC9LVEOJM+iUNTIAtfD2IEeeKFkwz5VPkPxLkNJqDanzW0z22wiwSCVnjrYUujSsm4jQfACMIIgo6ORCc/WBSPUfGqjEJ3BH6PiBhbBq1Fr2md6C6nPxhiok=;yyzSXHm7KiVzwnBftSOYPQ=="
 ---

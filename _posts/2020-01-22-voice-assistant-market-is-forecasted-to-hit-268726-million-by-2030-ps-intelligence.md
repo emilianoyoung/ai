@@ -55,15 +55,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
-  - title: "Artificial Intelligence (AI) Market Exceed US$ 160 Bn 2026"
-    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. LOS ANGELES, Jan. 23, 2020 /PRNewswire/ -- Acumen Research and Consulting, Recently Published Report titled \" Artificial Intelligence (AI) Market Size,"
-    publishedDateTime: 2020-01-23T13:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-exceed-us-160-bn-2026-300992123.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
   - title: "Battery Management System Market is Poised to Hit $22.3 Billion by 2030: P&S Intelligence"
     excerpt: "NEW YORK, Jan. 20, 2020 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global battery management system market share was valued at $5.1 billion in 2019,"
     publishedDateTime: 2020-01-20T07:20:00Z
