@@ -627,6 +627,21 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/c5/1c5209a2-538c-52cf-9de3-6ac39f163359/5e2b59269014b.image.jpg?crop=1766%2C993%2C0%2C89&resize=1120%2C630&order=crop%2Cresize
         width: 1120
         height: 630
+  - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
+    excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
+    publishedDateTime: 2020-01-24T22:12:00Z
+    sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
+    ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+    cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 35
+    images:
+      - url: https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
+        width: 1200
+        height: 800
   - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
     excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
     publishedDateTime: 2020-01-24T23:06:00Z

@@ -631,6 +631,21 @@ related:
       - url: https://s3.amazonaws.com/campusreform/14269/bigstock-Simulation-Of-A-Screen-Of-Cctv-285169480.jpg
         width: 903
         height: 600
+  - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
+    excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
+    publishedDateTime: 2020-01-24T22:12:00Z
+    sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
+    ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+    cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 35
+    images:
+      - url: https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
+        width: 1200
+        height: 800
   - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
     excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
     publishedDateTime: 2020-01-24T23:06:00Z
@@ -717,6 +732,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "ABdtB+NOV3BE1jJNnFdM1vL0S/I29cMyLqrX0RxNvCplL7L8xAWhHkT0wzqI0dl5o1BpJk4AZ30Stclnt8zRyWhpYbvDYsrY+TY66RAz/RHJci6HxPJeflVDtUTIpraWbTq/C/X4WJAzICF96Ve30bjTl+pKBi8UTs+OgFV7dNCCaOh70EC/QzHkpeJ1/JRB8hcINCm40sIGBbxxJsI7d1dGGFW3/vhjmv6MOM6hy4rhLLJTWqWwDZ43BD2b/XzqH2taj3/i0scHVNb7roAeB+kPapC/yHlk1R5qUhWVWfygnIHYqhiLiV85whKcVuhQ;5hdIl70at194n7bbYcvNqQ=="
+secured: "Qdg6+O+Bv9Bgr3ksXvfmi88Dv6+RSjY4JZa5wUP8/1U5SypRY6zppq+eBD7orMedISwhiZaQrIaRLQH7cLwqJJYsC0rrMGLpaVc8G0cTc65Y6jRPKxADn0lFzYpw3XqvtlAnbBZfH3finqTArYOVqrbYxq3fg2z3hvmqv5hency5Uv5AM1yC+UIsNAc2am7MbARRp8RD1RTpRpTiOZzt4vww+mumFl+vTKtIU51t3+ZCkYPZTe/c4jgqa0lNljs+8oiwKVdgtgIaNxY+Rrc4Wn/xdSBTADYllfBOCocpnAS/FFERIAuT8+0TwBseYc2o;FO6dJNZiB2SFyZT+qOlHYA=="
 ---
 

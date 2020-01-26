@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Facial recognition could help discover fate of Holocaust victims"
-excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
-publishedDateTime: 2020-01-21T11:39:00Z
-sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
+title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
+excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
+publishedDateTime: 2020-01-24T22:12:00Z
+sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
+ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
 type: article
-quality: 89
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Sun Sentinel
+  domain: sun-sentinel.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC
-    width: 818
-    height: 545
-    title: "Facial recognition could help discover fate of Holocaust victims"
+  - url: https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
+    width: 1200
+    height: 800
+    title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -73,6 +69,21 @@ related:
       - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/08/2019-08-22-ts3_thumbs-389.jpg
         width: 800
         height: 560
+  - title: "Facial recognition could help discover fate of Holocaust victims"
+    excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Seeking clues to the past, Eli and Saul Lieberman turned to an Israeli research center,"
+    publishedDateTime: 2020-01-21T11:39:00Z
+    sourceUrl: https://www.reuters.com/article/us-holocaust-memorial-auschwitz-technolo-idUSKBN1ZK150
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1ZK150
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZK150
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s2.reutersmedia.net/resources/r/?m=02&d=20200121&t=2&i=1479305789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0K0XC
+        width: 818
+        height: 545
   - title: "Facial recognition to be rolled out in London amid privacy concerns"
     excerpt: "Live facial recognition (LFR) technology will be rolled out across specific locations across London, the Metropolitan Police Service has announced. This will be the first time these cameras will be operational on the streets of the UK capital. The rollout comes after pilots were conducted in London and South Wales. The news comes as the ..."
     publishedDateTime: 2020-01-24T12:51:00Z
@@ -631,21 +642,6 @@ related:
       - url: https://s3.amazonaws.com/campusreform/14269/bigstock-Simulation-Of-A-Screen-Of-Cctv-285169480.jpg
         width: 903
         height: 600
-  - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
-    excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
-    publishedDateTime: 2020-01-24T22:12:00Z
-    sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
-    ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
-    cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 35
-    images:
-      - url: https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
-        width: 1200
-        height: 800
   - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
     excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
     publishedDateTime: 2020-01-24T23:06:00Z
@@ -732,6 +728,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "0fjLY8Ly/KMs4nX7kyTYAcStqaXbY5SFrm/Ucf1FjEJKMdVoRkPUu6WdF3de3CyV6glidFRgSPx5G/3H9F/wPB0vPeBJDvxb18vRAhGTJiakG/kF/UaD2l7+lMHDv8CYl5zsO8ZNWTPn+J7+EWbMrVImBtNkG7sEmh52VTcf+uMPxSGFX3sHoRbx9sOqciFsDWaTEDPKVuyHRFBFgQ7RIPgDKdvBadqOZCUhEf0OzpqGgA+ovSlrQ2tWUOfxugi/xmFBXRO5GZXvNck3PLnbsVaHMzaGrqxshddYaEpJStiCAKI00U/kcgr0UR9srzP3kY0A0y3NzdEe6SC7PfkJsj9ffNkEIHdqezPzVVAIJHoWYOMzEhP+THsg1HAya1/PyXYR6u2+03pGTU9ayl1z+YVXrbUfg6Ep0S0nnCQY+QU1lOjFIhcfi/HzGObgCtjTArV8ZOvgDs1Xyekwl6DeF3nw7246+QhvzXdD6xziFYY=;Zvm5xUDxcK+cEhLjOs2ITA=="
+secured: "eJRQQRYU1t+rIlXmECxhtHUf5a/B51MLTJhwcuMnqUF1oEuvrkgJDKDQRP/KYqTo6Hl4dNVFc2LtAliXGJIEsZf7z409l8HC7GJcZzdc7csB6b8A34SDXV+/4eS1F7/KeB0ABSWsuM9BWQOEExENfSwz3fQpA4pF7cvz7YrqJUPHd1AqesWFdIlAkM6oAPQEcm/3jdKI+gplmfcPWkAQvu7YhymbISUGbDRgMw/CtMtU3ASqRVhzR9l6kxIxhon4v2PJIPLYiYmQFbl+eT6CNlSh/RgdTj8hvE7STreWEgL3Yq+/r5PhGSHafVpoHAIy;memsWQEWxrHP1UodZ7+Dcw=="
 ---
 

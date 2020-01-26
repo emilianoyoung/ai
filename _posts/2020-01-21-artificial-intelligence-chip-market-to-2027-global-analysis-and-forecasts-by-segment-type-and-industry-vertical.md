@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-excerpt: "The others section include SoC Accelerators and other application specific custom & hybrid chips.Based on industry vertical, the artificial intelligence chip market is further segmented into BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare, Media & Entertainment, and others. The others section in industry vertical includes ..."
+excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
 publishedDateTime: 2020-01-21T14:05:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
-ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-chip-market-to-2027-global-analysis-and-forecasts-by-segment-type-and-industry-vertical-1028832723
+sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
 type: article
-quality: 46
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+  - AI Hardware
   - AI in Healthcare
+
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
 
 related:
   - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
@@ -86,6 +87,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "zruSdxnfha78fNUdX/TyqMRUBuqKKumNg6Ict45b7AqoJ2BgEoxkn/5Uh3mV6GqZ8FPlJh42Dj2DR0su9xDUxkni+gj0LmCDJUGDQ1r3xDTvV0V0CbO2SymFum5KOuSVKqF4SUdDWI97ukuhPdfvGYDxy8w+BsxlSMRaPrMnbtjBlBui89aUvTbZVAbc0FvFFG2NAADzhH8I9gT8dnEntuegis/94U5nJXyYLqwSDhORdGB9hmUmsZx81eEHKJrjnaJnbKr0COZuycYv2RfFkTNOdbjJqIuyQgnjgRrrz2CcOuPNOL0HIp1cu0vvLpnv;sBsy5XgL7qwBUhMmvuFmZw=="
+secured: "60wdROfG0zWMmy0srfTXoQTgIXW055q9WBGJJWlzfgwaCx9hRgREmMbw6NgHNYWm6/ngDTucyEkl8+XgM6MLS2dVKrHCutqStrliud+pcRULnSNu77xgb0X6tSEcFEjxsBl9JJqM2nJcsJBqVQr8UEJnEgFypcfXmqNi9JNXM5fPhl9KaUbFmiLkNCMbxvGY6tHDHqsabyTTMnnzbs/9fSI6HAQscxJiPokbN4E4UZ1zEj1grAmRyNuM60TKxiuYGrgwuL+Np5QDUrqtfVTyZ5CgYcRHYRKLWcW2i9p765lNS7Yr05vMuiNWpbiAm7PB;ETxw1voL/5fZSCYEiuk9Jw=="
 ---
 

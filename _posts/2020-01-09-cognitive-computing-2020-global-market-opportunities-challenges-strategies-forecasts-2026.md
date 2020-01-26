@@ -156,6 +156,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
+    publishedDateTime: 2020-01-14T06:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+        width: 1200
+        height: 627
 
 secured: "slSOE4XN09XR3b7YuzYCwSeRMGYeuZLQ/Nhv0PDvdvZWWLKcNHr3Pl//DzfVm8i7wEYLjQRIrlfc5hf8+W6diC76y4bRywK76gcE0uurT+jjUc/jlerZDV4BQW4KX4cW2NS91rNMv93rXcoC9n+FFlAD09gD06FNO0gA1Qvu3kd4PRUOASU3FPmQGlOfcwqFLPd0aReDwvWrlzxAHmIxdvIH46MKACnm3KNSOOgAcxPqW+DAEt/ACE+bePEMgPgVhAYY3gN/SP88wKknO2g1/RwaU2IaMT3rrPpPdnhSb9G+Vtxn+p79AvXbJFJzElXCL4c5vwSPBxWPy7zF8qBtqXKh2Z0kGd9+dIYQ/aTv2RiV7YhBGXBEsuK9APg15tDsw+LJ5lIDZJFtlpj6wQ+Uzxz1H97699W5tVP2cHjwJXHUhgL+k3+VTCB8XDdhS/mUpuwE4C9eYXxAyZfjRdl/GA==;8gFH4n4wCrWnE+JtHk6G1g=="
 ---
