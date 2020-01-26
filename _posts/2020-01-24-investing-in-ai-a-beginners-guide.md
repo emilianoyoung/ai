@@ -22,7 +22,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-  - Microsoft AI
+  - AI Hardware
 
 images:
   - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
@@ -45,6 +45,6 @@ related:
         width: 630
         height: 500
 
-secured: "foUGgaRE0MLA5cvS0tG4KPwy/qaUgtmR7mVLlWyottNWehyZHjbBWoRtGun53fo+vQljQKtYXH/A54izGlJSXxzj7Dsxk2LatE/Vw4YRzHSa8DQ5UBo15Y/5tyIsAzxwAjwLZqkl2OwFTmpibN32pmQ96X2MA1m0CtZi5IiUexYZ5ecB2ib49kcYcG0n8zsQUV6pIr6FsEhgFa8e7S4hAplPHA0RF6t2zLba3i+nfZZf8HS0gHHUOKtNKOPQh+HBa0A/7l7osfajlnao0F2B3ziwdYWyRhqCDDRLwZd6zDniKPDfpLeBnKcmCDOgx1so;BNaftOQiYDaw8DltwoQnMw=="
+secured: "8QeSAW+z8fyGratXSKtKJsouXwBQAB2VseJZquCtuuKO2z5bzjSBI0ytVfKSeQpw5ck8QI7IlICapzxOubuPCrD5hUDxGDkSUDGw0RyauSPNquBC5qlgepYSLfaTcZCmUavkJhq+7lCdh/fOxlp1m8U9HXotMnEXBK2Y81VqCIx7Qha3m4r9Lc8Ph2zFU6yUy5w2nIW4arRoWCSiGN627VYYo7N1SJxTPFYMDbm03a8tska8nzNAUrWIln7QkI8gwT84c3qR4xEWZqydg2JniTmWBbZAeaKcIx8UM3d+SRrzDZcR/unJLx9ub3MVWPk+;CyEJ+2DuB1+YrdliKUSr/A=="
 ---
 
