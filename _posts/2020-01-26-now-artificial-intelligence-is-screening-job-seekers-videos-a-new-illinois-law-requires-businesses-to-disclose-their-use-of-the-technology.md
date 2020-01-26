@@ -28,16 +28,16 @@ related:
   - title: "The 'Illinois Artificial Intelligence Video Interview Act' is a real law. Here's why it may be coming to a job application near year."
     excerpt: "CHICAGO — Illinois residents who made finding a new job one of their 2020 resolutions will have a better understanding of how employers use artificial intelligence to assess video interviews, under a new state law that is the first of its kind. The Illinois Artificial Intelligence Video Interview Act, which took effect Jan. 1, requires ..."
     publishedDateTime: 2020-01-26T11:00:00Z
-    sourceUrl: https://jg-tc.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_7099cab3-81d7-58f6-8aae-c6736bb68ce9.html
-    ampUrl: https://jg-tc.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_7099cab3-81d7-58f6-8aae-c6736bb68ce9.amp.html
-    cdnAmpUrl: https://lmiznd564ggjdqhe3m4xsbdp6sg3o3u7ftaowqhfifv26dxebacq.cdn.ampproject.org/c/s/jg-tc.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_7099cab3-81d7-58f6-8aae-c6736bb68ce9.amp.html
+    sourceUrl: https://www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.html
+    ampUrl: https://www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.amp.html
+    cdnAmpUrl: https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.amp.html
     type: article
     provider:
-      name: JG-TC
-      domain: jg-tc.com
+      name: The Pantagraph
+      domain: pantagraph.com
     quality: 26
     images:
-      - url: https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/c/b5/cb5b3328-3501-58e6-b882-3df7890eed3b/5e2bc84837ab0.image.jpg?resize=1024%2C675
+      - url: https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/e/82/e8238790-367e-52c6-b97c-abd8598dfaca/5e2bc84975b6a.image.jpg?resize=1024%2C675
         width: 1024
         height: 675
 

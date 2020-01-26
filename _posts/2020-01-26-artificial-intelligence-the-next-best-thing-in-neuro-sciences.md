@@ -22,6 +22,6 @@ images:
     height: 500
     title: "Artificial Intelligence: The Next Best Thing in Neuro Sciences"
 
-secured: "AxFnSDFfG0jFj6tiQhcT86qV+SFPqb9z9v0ib65dgxqq23BiVT9Oo9y8s5ANCsgr8+QM+nUGJIvGRZY/MPye87Gw6HYhMhcAORYOA8WR8swGJeq+2Uql/IbP/51+3/tHUSs+yu6O5DXzZjLYKyk+kM3qr04LKdSIWJAZiaHo2x8p86sUir2LB3q4P22SUMOIlW5cLDFp/JcnF3eLxrR5loyoLIG/8T1oc7DQh4zbkYcz1LptJPF/Jchp7Zq4ZAZV2HzcD14N4f38DpbGWNSqRc72JAzyh/gqyfs7FLsaYNHJQVKxiXSg7kG0r9RXUotY;I/LODwc7rZjW8LmQMum/3A=="
+secured: "qtLyjNMQs9Jsax0+RzC6eHzYf+szA2ThqKXg0DFb2Dwk+NFOQ5oQYc5Vf4tPLkV2skBJiy0b1++RzB43erQs6AKJEa2HvrHUFiFVA4gyxEfPqgtDzdvJNFDocGs4uzBlTv15ESAxbLzWunFDDihhvD/95Ic78VeRrRQa/tD95Uqb8TchudnmxEzW48zrHWS6LsX/l4GyA93c81FyO8GMViZM5prjAFjefexjuGbuRKrjUXHqckkMplqu+woRBaJh5y9jgHbhY2Jth6rFf8iMuSa/zynQh+Iu7dknaDq3fLXvjt96ppTpodAW6PpgZ/is8QiETLzVWZo3RbFWGGHVNz4DoyRvJWeGPQrOx3vEjRRWomE1fARBVF0yNV5s2bEznrHNV+/30XpQQqNpa6ObeG6JN8p++oLdV0tyjcIcnB2aRSg64d7KmbBG1p9JTuqiMqujw/hFqc3vjk8jCf7vg0bIhfrX1bAjs09FIB1YjCo=;ea15AsZZB+igxZ4KlxogXg=="
 ---
 

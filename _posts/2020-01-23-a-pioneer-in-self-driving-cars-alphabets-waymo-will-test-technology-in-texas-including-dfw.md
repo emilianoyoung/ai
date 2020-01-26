@@ -177,6 +177,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "Uber Gets on Road to Self-Driving with Data Collection in DC"
+    excerpt: "Now its adding another city to that list 一Washington DC. Starting on January 24, Uber will bring its self-driving cars to District roads for data collection. Importantly, these cars will be in manual driving mode 一 meaning a Mission Specialist (a specially trained vehicle operator) will maintain control of the vehicle at all times."
+    publishedDateTime: 2020-01-26T20:02:00Z
+    sourceUrl: https://www.autoconnectedcar.com/2020/01/uber-gets-on-road-to-self-driving-with-data-collection-in-dc/
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/volvo-uber_self-diriving800x534-c.jpg
+        width: 700
+        height: 467
   - title: "Self-driving semi trucks may be coming to a highway near you"
     excerpt: "A self-driving vehicle company started testing autonomous long-haul trucks on Texas roads this week. Waymo, a subsidiary of Google’s parent company Alphabet Inc., will roll out the trucks on several highways,"
     publishedDateTime: 2020-01-25T01:38:00Z

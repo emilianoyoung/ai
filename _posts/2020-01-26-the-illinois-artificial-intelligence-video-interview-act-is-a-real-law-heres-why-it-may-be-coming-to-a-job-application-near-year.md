@@ -3,23 +3,23 @@ category: news
 title: "The 'Illinois Artificial Intelligence Video Interview Act' is a real law. Here's why it may be coming to a job application near year."
 excerpt: "CHICAGO — Illinois residents who made finding a new job one of their 2020 resolutions will have a better understanding of how employers use artificial intelligence to assess video interviews, under a new state law that is the first of its kind. The Illinois Artificial Intelligence Video Interview Act, which took effect Jan. 1, requires ..."
 publishedDateTime: 2020-01-26T11:00:00Z
-sourceUrl: https://jg-tc.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_7099cab3-81d7-58f6-8aae-c6736bb68ce9.html
-ampUrl: https://jg-tc.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_7099cab3-81d7-58f6-8aae-c6736bb68ce9.amp.html
-cdnAmpUrl: https://lmiznd564ggjdqhe3m4xsbdp6sg3o3u7ftaowqhfifv26dxebacq.cdn.ampproject.org/c/s/jg-tc.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_7099cab3-81d7-58f6-8aae-c6736bb68ce9.amp.html
+sourceUrl: https://www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.html
+ampUrl: https://www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.amp.html
+cdnAmpUrl: https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/state-and-regional/govt-and-politics/the-illinois-artificial-intelligence-video-interview-act-is-a-real/article_83b42244-8a7b-5a0e-8c4f-87578980362c.amp.html
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: JG-TC
-  domain: jg-tc.com
+  name: The Pantagraph
+  domain: pantagraph.com
 
 topics:
   - AI
 
 images:
-  - url: https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/c/b5/cb5b3328-3501-58e6-b882-3df7890eed3b/5e2bc84837ab0.image.jpg?resize=1024%2C675
+  - url: https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/e/82/e8238790-367e-52c6-b97c-abd8598dfaca/5e2bc84975b6a.image.jpg?resize=1024%2C675
     width: 1024
     height: 675
     title: "The 'Illinois Artificial Intelligence Video Interview Act' is a real law. Here's why it may be coming to a job application near year."
@@ -41,6 +41,6 @@ related:
         width: 1200
         height: 792
 
-secured: "aZAUoy8c1E2CDbysUIBwQgV3vPm9ox9aDKgliPIr4Q4vaJATSFPg/COIVQRq/tsVMfahSR6mptJ33spG2GJOJqJdh1q7FwLpDRbToCe+xpckmG2YdqNoskfYCtdGp2YSzmwJSIEOzeb/ftWdmwc+wobpNfgI8khX00WXHdadp66yuBNvJnmRcaTD++DPiX3INGo2koR8BVzCVy8R67brFAXwmk7DVXt1XqeFHVGrmE4W5o40i/Hi/HQ+BT15xqX+Uo6m7MDHcAQt3evq5pcgStjG0lEiucerlNRBhVKuEFHyTkrqJ65Nnv28hu7GaZkw;BpS9n7qdcOitvCj6IfpZ9Q=="
+secured: "xbFjDf9V2wyKtmJ7SLQF+YgXYtDlVIY7mMLd0cNpyn/hV+IYuD2TetuYC7J47M+QDZvwexvc5p5RJn59pkrnHsu1Mlzo/W7bxI8Ja0d2GCx8wp6fdzVOsVdXHBrnByZgeOiLWcSvsorh6/YZuwsp8PgcZX+qjy8bGYn92qDSkRJ8QU88JrOKuzY6dxVZlD8xc8r8sgSKntNdBni2/Rf8sH/kIJUHtGce+IGBE46siuNjCAUt0/p6qWOgV5eyv4gEUh31U3/EEzak2NYgz7dhbg05AqDbn3TKFFy4KwysmQtV46sgXrnTPmvubaln7QTR;9uDDwD4NA0avJXr7RHwD8w=="
 ---
 

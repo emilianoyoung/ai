@@ -359,6 +359,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F823b5d34-3eae-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Metropolitan Police to deploy live facial recognition in London"
+    excerpt: "London’s police force will start using live facial recognition on the capital’s streets, ignoring concerns from politicians, data regulators and human rights groups over the highly invasive and often inaccurate biometric technology. The Metropolitan Police Service said standalone cameras would scan passers-by, searching for people suspected ..."
+    publishedDateTime: 2020-01-24T13:47:00Z
+    sourceUrl: https://www.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735
+    ampUrl: https://amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a2c8b966-3ea9-11ea-a01a-bae547046735
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F823b5d34-3eae-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
   - title: "Facial recognition cameras to be used across London"
     excerpt: "Facial recognition cameras are to be deployed across London for the first time to help police target serious offenders, the Metropolitan Police (Met) announced. Technology in Britain Metropolitan Police camera In a major new move to fight violent crime, \"watch lists\" of Britain's most serious offenders will be developed to facilitate live ..."
     publishedDateTime: 2020-01-25T12:44:00Z
