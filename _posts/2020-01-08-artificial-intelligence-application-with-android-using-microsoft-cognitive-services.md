@@ -1,19 +1,19 @@
 ---
 category: news
-title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
-excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
-publishedDateTime: 2020-01-13T20:37:00Z
-sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
+title: "Artificial Intelligence application with Android using Microsoft cognitive services."
+excerpt: "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services ..."
+publishedDateTime: 2020-01-08T04:41:00Z
+sourceUrl: https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d
 type: article
-quality: 60
-heat: -1
-published: false
+quality: 92
+heat: 142
+published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Medium
+  domain: medium.com
   images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+    - url: /assets/images/organizations/medium.com-50x50.jpg
       width: 50
       height: 50
 
@@ -22,25 +22,25 @@ topics:
   - Microsoft AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
+  - url: https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg
+    width: 540
+    height: 960
+    title: "Artificial Intelligence application with Android using Microsoft cognitive services."
 
 related:
-  - title: "Artificial Intelligence application with Android using Microsoft cognitive services."
-    excerpt: "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services ..."
-    publishedDateTime: 2020-01-08T04:41:00Z
-    sourceUrl: https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d
+  - title: "Cognitive Services Market 2020 Analysis Focusing On Top Companies- IBM, Microsoft, Cisco Systems, Nuance Communications"
+    excerpt: "New Jersey, United States, - The report titled Cognitive Services Market is one of the most comprehensive and important additions to Verified Market Research's archive of market research studies. It offers detailed research and analysis of key aspects of the Cognitive Services market."
+    publishedDateTime: 2020-01-13T20:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-2020-analysis-focusing-on-top-companies--ibm-microsoft-cisco-systems-nuance-communications-2020-01-13
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 92
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg
-        width: 540
-        height: 960
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Irish AI firm announces new collaboration with Microsoft"
     excerpt: "Headquartered in Cork, the company develops video and AI technology that retailers use to protect their stock from theft ... Their artificial intelligence and computer vision technology uses Microsoft Azure IoT Central. They said the collaboration will enable more retailers around the world to rapidly understand the events that are unknowingly ..."
     publishedDateTime: 2020-01-10T10:38:00Z
@@ -88,6 +88,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "lvXVIHtyaxob9ocFzRzyhIFhkudwlyfL0OopRmvtZs2sBPYQt7+SbM6sFbm6Pu3LT9e0TDZ0X1npYc4F1heu7qAH2pqjO/qa5FApnAjwu5jRs2lQVoPap6yQ15axE20NUv497m5jTf5jR3fQ++eG+mdtb5nIXVpJzIXH7QfOYHcGZIIQ8eig7i30rLl07IvPsPVzgum09J3+dtsEYH5MZ+hGTs+S5d3lnVFbYMCng8CU8SX4j29PQOfat5C6SKbejfukUudoSuMNvVV7T3ETmeyBDkapwViup0xqmeVPqXk=;XlRIh4Nu3rmbw4F4PAUwLg=="
+secured: "qrYIFTcAwcTwG9gUlSzO3jFLpoQlOkZmlkDxfzDqysABxRearIizjql4Z04Yo3uLBoB25OmUO234KHSytrqnuE7DzjpOTofrWJP+kt7/9/puxm65LjX3zDJTFhPGd7r1iQWU1blkQEAEFxhI1pBPUm9kQ4Uo5hC41Z5q2g/xx87W1xL76c+vdpgMmnBF/VYbExWfh+gCy6FpEDp0uGSJtdECfEzIpkxsZNIPGCvR+6vRtxO4HPYKetsCm84o6Ek/R8vL6hFo85NR2JaP9ruYsZNO9RA/L0MVGKmpBvzfxEbUiP0H5lfEAzy4It7ag19p;pdUskgpcVvEbVCzU9tJWqA=="
 ---
 
