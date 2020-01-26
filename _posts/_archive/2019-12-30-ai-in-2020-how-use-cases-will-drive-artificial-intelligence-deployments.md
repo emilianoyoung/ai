@@ -29,6 +29,6 @@ images:
     height: 791
     title: "AI in 2020: How use cases will drive artificial intelligence deployments"
 
-secured: "DfimarOpHLjfIh+2CSdfyBmLWz4c1OQ7JF5AKxPFxn+dv9//dqQmmgzVZAuDWC03UHTO1155fyjITw9ZE48ZGMgeq2pqCpb4LLheBXF73/8h8hqqAYIZyCg9a/Mufk6GECr2A6TNY7+xhqPu/rf5UrfjW8tNfF7nXzq8zVUZ24RSOG8vPb8L7HaTmqlKPxMi3EUHNxF+PpnLhd3Bh6Y3G2lyttqo6OGTqoQN0q5NBkmldUDpJ9X59cf/lI3Q7okeUALcip6FQZMmXo4gRAc7EAzjLB+4zFvrMmm/MOcvfsM77ampkGys2MYoaO9Hlbpf;mCb40pBz/+VVHaw6+L3d8g=="
+secured: "Y9u/CVQ56N/EQrqIIcBK8/KsTJZPONHxHRFIuHgbn/Ou5XOmIxsk7wHwYqjByhl2aJPhOlw8+uIKiVa2H1W4TjZW4okNqw8k5NlMzEg+1nODzMvTy+ZdhBZzEkD+/iipVEQZrQy4Xr65nBsv9IkIskGS0Jbm6eMrEj5JeQAr2GKVTSfZ6eZ6+BlTM9VJSo2NRFRZzGdyouDR4Olezj8BmsQvP05Tsv1b4FifZ4jQCZw/1drAYSe0fjYc28SRUySuO1OrCKa0tplRe2+puZZOFNkLmVxy9z0K/GSM11OIp8I6OE+7cTY9w/6hTJpJEeHN;4K6jAb/ec0WJ0boDRwfC5w=="
 ---
 

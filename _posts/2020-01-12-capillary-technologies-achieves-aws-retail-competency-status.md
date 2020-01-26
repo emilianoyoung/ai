@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Capillary Technologies achieves AWS retail competency status"
-excerpt: "Capillary has maintained an availability rate up to 99.97 percent despite a soaring customer base. Boosting Innovation: Capillary has also used Amazon Rekognition to drive an effective customer engagement solution powered by smart IoT sensors deployed in the stores. The technology captures information about visitors such as how much time they ..."
-publishedDateTime: 2020-01-12T06:18:00Z
-sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Capillary_Technologies_achieves_AWS_retail_competency_status-ZAWYA20200112060923/
+excerpt: "Boosting Innovation: Capillary has also used Amazon Rekognition to drive an effective customer engagement solution powered by smart IoT sensors deployed in the stores. The technology captures information about visitors such as how much time they spend in a ..."
+publishedDateTime: 2020-01-12T00:00:00Z
+sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Capillary_Technologies_achieves_AWS_retail_competency_status-ZAWYA20200112060923
 ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/
 cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/
 type: article
@@ -36,6 +36,6 @@ related:
       domain: realwire.com
     quality: 34
 
-secured: "iSbdMqtY+3cL7kYuezT4CHarKySVN4lMRmbTBzLl5m8rMUPgUksli4gKxwxs+7DNZXXx8txS3OaLFM+oyv21L0fKnz/ru7WFZB4DqGP8Frc29Zbruo6w93aqmBVGwTlZOAbM7mwzRJ6heltJ0puaUj+bvelN6m6Q6SvzjGvaw+nC2aqP2lgJbYZzYs9zlubzdQDYToQ4U4jONIFrb0coUFyKTzvkwvThVbP/btPsbsQVlUpwoxWEwUKMVlt8iwrnjbMv8RpEb6aQNlO/icFddGjM+O9BAB3waDRRwmCMgmxpzgDQ+RxVdJZR2TpJe5tJvZyJf6db0+m3nXuBFVFkG226PKqeC/1IwkrpFTEqO5YUiGjgajTra8FtpU3xGeV9Ty9g0ZXV+A2mr5laBphmkVf4BPV4glwy4ihY9bCWPwjXtKnxhUmTfNGJ5Uhy6tyqIVq2xDrf/vt2AbYbadw1Ng==;dKuNDdKTBM38XB02w0t+xA=="
+secured: "2EEpoza6h2PxBPKWvVKbQVjt1uZ42kN1ZXAFWZn/T3GIO54sHGCE3Zi8wMzvGS6/ijd4CNTmqraSOK2dMPfoFqHT5xi9jrulHyQIP/tz3O6v53n14xIRKVzIY5l2DzgEhUJmXMJFkqmFInm4a59AUuI8dCET/PF0z1H2MrZ3+LKt0dx6F1Qz6X9abrHsA85ooltXZlcpcnblW1FyBKv/CKdXlckynavvtU2xJsDv8+lUqWO4pqwXNj6JO5r6Z0NWxlW3kemYnevsuULFF0pGea0KSGQYCG+mlpzLx1+jvbmicun4K7EfSXG88iy6dNmR;fVoY8XYtRfAzoYs1lqVRdg=="
 ---
 

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
-excerpt: "And it needs to happen by reinventing artificial intelligence as we know it ... cases that you might never see in your lifetime,” Cox said. “I don’t know if Waymo and Tesla have images of traffic lights on fire in the datasets they use to train ..."
+excerpt: "And it needs to happen by reinventing artificial intelligence as we know it. So when Cox says that the world needs to ... “It’s one of those cases that you might never see in your lifetime,” Cox said. “I don’t know if Waymo and Tesla have images of traffic lights on fire in the datasets they use to train their neural networks, but ..."
 publishedDateTime: 2020-01-05T10:00:00Z
 sourceUrl: https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 64
+heat: 64
+published: true
 
 provider:
   name: Digital Trends
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "njr6sB5P+o5dwAzGzlwh1mwZNq0SdArDuAqYQzmaKzpDd9M88Z9HGU9el9PBb7OKF+cq4T2pG9gVUBU3dHeJLImlqt6op8rGwJQLTVnVoNGj3nD+Xfz49FOIGGuuZ26fm78O2iGhiZAU97+lHXcu1w/zgpUdTArAHYanu4zNGN1j3q+DxMY6dFXbXV1XxMS+qGUeD2nLGESgWGpwnq6bNqigSFX+76RE5ZxK7ZbZ3gNYPuemlSi6MZ0W58/nWMmfP3GU9RmbfH5rxym0h98YZEgt9tqXLBTBSBc57I4AVJq1pNNMk6s6SwB1B4ncTgahnq6QhhrKoc6eVbrAimY8Mms0kjB8hnbVfJ/RI6ZVEuyJfD6dvJxDgbHuEHtcDXjzKybhewo4q+MWFkurc2jF1ndwyFTSB0QMtUH0C9k9uhZMBEoqhMn5E3w8gzEeIGnHMH2zxHaliThCD22V/UjkGpzOwtRti9KoNE9gLv/+aJI=;chhZLuWkPAwqnGyF880hYg=="
+images:
+  - url: https://icdn2.digitaltrends.com/image/digitaltrends/mit_ibmwatsonshapes-2-1200x630-c-ar1.91.jpg
+    width: 720
+    height: 376
+    title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
+
+secured: "D+5phGekGg4ZfhJAM3gBgweBlnmpBbZVe3KyhYIX41jeiSP7DpAJ2eVKvXeX3G0eZPhOJ/IYpFsPcAqy40dEDoWOUxW9UVXUOn4lZ/TMzPTQl3yA26vuAqx0GJHhPo7cA2Dvc/YPebYJgjp7T4729Rgo9UDOYNLlnds8hrq86mopK7aBI51FYrZ+JFepTV16rez7vhJ085gDW3ntyQjwdPPSj+wiAZgnFn9LsIjiZnEV8hJG6WQCUkbXvLFYuBZa9HbQ0yIP152c84XxdOIz5n7UIB35Lqvy9/KIWuejQO5rV+0zPSU8O7DsmA+PGvBg;owGgSUhhK0v1g9EagNQJ2w=="
 ---
 
