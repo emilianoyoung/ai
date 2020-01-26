@@ -217,6 +217,19 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/n13_super_nintendo_world_universal_studios_japan-1200x630-c-ar1.91.jpg
         width: 970
         height: 507
+  - title: "Met Police to deploy facial recognition cameras"
+    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
+    publishedDateTime: 2020-01-24T11:41:00Z
+    sourceUrl: https://www.bbc.com/news/uk-51237665
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 69
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
+        width: 1024
+        height: 576
   - title: "Google CEO calls for regulation of AI to protect against deepfakes and facial recognition"
     excerpt: "The chief executive of Google has called for international cooperation on regulating artificial intelligence technology to ensure it ... who is now a member of the International Committee for Robot Arms Control. 'There could be large-scale accidents because these things will start to behave in unexpected ways,’ she explained to the Guardian."
     publishedDateTime: 2020-01-20T12:00:00Z
@@ -575,19 +588,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Met Police to deploy facial recognition cameras"
-    excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
-    publishedDateTime: 2020-01-24T11:38:00Z
-    sourceUrl: https://www.bbc.co.uk/news/uk-51237665
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/branded_news/121F9/production/_110633247_2b368a7b-bf13-4f8e-8f8d-e0ac7312d185.jpg
-        width: 1024
-        height: 576
   - title: "London Police Deploy Controversial Facial Recognition Cameras"
     excerpt: "Facial recognition technology is more widespread than ever — many people have phones in their pockets that use advanced sensors and algorithms to make sure no one else can access their data. However, law enforcement is also increasingly using facial recognition data to scan crowds for known criminals. The city of London is the latest to add ..."
     publishedDateTime: 2020-01-25T12:11:00Z

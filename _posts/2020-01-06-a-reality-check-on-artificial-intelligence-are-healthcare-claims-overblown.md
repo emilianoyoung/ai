@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-06T06:37:00Z
 sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/?_hsenc=p2ANqtz-_ucienVNAlV7PYrc8Pz1SdpbQZM1e6fOgT2csx5o75U-OoWGIFoIWftsKvfLkMBOeR_vMULzw5v9Q-IemMihui_cvgvQ&_hsmi=81510974&rf=1
 type: article
 quality: 66
-heat: 66
-published: true
+heat: -1
+published: false
 
 provider:
   name: MedCity News
@@ -22,6 +22,23 @@ images:
     width: 703
     height: 497
     title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
+
+related:
+  - title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
+    excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
+    publishedDateTime: 2019-12-30T19:00:00Z
+    sourceUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/
+    ampUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
+    cdnAmpUrl: https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 71
+    images:
+      - url: https://khn.org/wp-content/uploads/sites/2/2019/12/AI_illustration_02.jpg
+        width: 1350
+        height: 900
 
 secured: "2GWPuRg1uSNnk+/yL5auL18g+oPQJF+sUPlDYMNm1HM5r4Sj/vDyxlJw7dcV8l33IVlly67jzWdS5pcwQABKzQYDboJ0bv2pjfCOK2B5jPSiWnb7eosUPSoUYgTi/QVL2tvCXF7Hnc8/bOYEgr/887HbnzAzgJFU1ROxcQx/+mChhD0D5X/wm//LfHtGli6ketSS8AIogVN4P7LfDpM6nSNHsLtVowtrFFx63lLGQyaCPx1enCLpsbGD8UJYv3R7RQKoMAbS+17fHOLSabYAOAFFM/5BUADK3zV0JRQNv5y1H8N7q3L8WDMHXpu32xkdGDK/Sa7OYQ157XWfByPQ1w5MLMYWh20SeHTij0DcDJ1WgGfJt3P09XT1n2GSS8rCqKPU67QWAkfVijF7EkOkSuSuUi3yCy05Ro0dCPhDGZw1gQtzmkneGs4dehimqL9dFSNY2vZzq8RDfULr+ENE9g==;DWupvaTH9RSdev8YENtTaQ=="
 ---

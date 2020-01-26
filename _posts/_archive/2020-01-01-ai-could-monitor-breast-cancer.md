@@ -25,6 +25,6 @@ images:
     height: 390
     title: "AI could monitor breast cancer"
 
-secured: "yt2zR/Sovyktc7xiAHznol+lzocP8VpoSIjduyCcUQEWJOpjkXxN+WSzVil7MePL9MJwg0pHLGI1evZcolkWJ4zo0ZlvqBpdoUKpmq23+dt4zMZI3ij6bKqh1MgeP/KTmVb02r4eZ6u/sExr3LLvEEUGUTOFDQ8Qlh+A6T/kCeNMotKYoRPbDk80i6fUKXOYqDEsBljWEFkjsuXFTfnRCtEJaYjf3/43QcBkwZ9l/MXpDKo5jBhhhxjmRm+CpyxoR6mt8JvqUy6xEd+sp6yMP+yILCVehkTsSsj1xCU7RgCSV16HbuB0Tn40hngLqIwq;cuuw47CSOuXr7QIZtSQ5zg=="
+secured: "KnyAhVPJGgQ8wdRq3uADHrcC6PYjhieyAl3mKyBBhau91GKDlUtmpugvMJ/4IwJ2Ob93NtUHBwhxJgoUVb+3ro6An+JmW8qsPUOXjarv9wvXD8wymMk87GKjw7W8TO5DvkZ7ObWoO64GuoiL5lE5bBP9+Hc8iIvIrUCKlm2rQ2bNTlsOVwl8R58YzfMAcpzvXF9EQ+Zi3gyh3jclvr9I9Wh1zKTd82jlhGG+x/SL57lEq49GTeCEl4+9KmatkPCXu04dMgR6dy0YQceB4t2FVW84ufbck9tUXVOtYI61Uyue04k3PBOfck78rEpRBFnp;NQI3OWumiemBLPZIq9HKcQ=="
 ---
 
