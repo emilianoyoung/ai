@@ -37,19 +37,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
         width: 877
         height: 432
-  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
-    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
-    publishedDateTime: 2020-01-05T23:01:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
-        width: 877
-        height: 432
 
 secured: "pT9B3FrbwkDIM+Hi5vYoGt6IzkaoyvSHUjU5no6A9gzYFjbgql6RyA8nzBazYEl3M+/C0icPVcMZzSPydEOSpqVvoFQDjZ3vzUWLN9VOJfMMMRUSNJrQQZmH+gSwvVRdbrr7gSL7nd7CyGGGeDFwgsTFnm7vBThZmrskgcU0KVS6+/cMfN/bP7ZJlyGBwg+aDIL6Km9+x4ESha73xe7UVqYd7YVGyYza1b0KryfqRqCHNql5KNWkeccvXWkNB5qMGGXam0PSp5T3YL85roNhMAAy0IgyYjUsz+3Vv2G4l/0=;ARAsQpVWVc15/JPGNjr79A=="
 ---

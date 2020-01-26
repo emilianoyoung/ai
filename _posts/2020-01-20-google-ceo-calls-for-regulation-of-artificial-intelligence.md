@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Google CEO calls for regulation of artificial intelligence"
-excerpt: "FILE – In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning ... an approach U.S. authorities have picked up with investigations into the dominance of companies like Google, Facebook and Amazon. “Sensible regulation must also take a proportionate ..."
-publishedDateTime: 2020-01-20T10:53:00Z
-sourceUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/
-ampUrl: https://www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
-cdnAmpUrl: https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+excerpt: "Google’s chief executive Sundar Pichai addresses the audience during an event on artificial intelligence at the Square in Brussels ... SAN FRANCISCO (AP) — General Motors’ self-driving car company will attempt to deliver on its long-running promise to provide a more environmentally friendly ride-hailing service in an unorthodox vehicle ..."
+publishedDateTime: 2020-01-20T20:24:00Z
+sourceUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/
+ampUrl: https://www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
+cdnAmpUrl: https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/technology-news/google-ceo-calls-for-regulation-of-artificial-intelligence/amp/
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: WRBL
+  domain: wrbl.com
 
 topics:
   - AI
-  - Facebook AI
+  - AI in Autos
 
 images:
-  - url: https://www.abc27.com/wp-content/uploads/sites/55/2020/01/fc07cd2242434798a1da9bc08ef49dc5-1.jpg?w=1280&h=720&crop=1
+  - url: https://www.wrbl.com/wp-content/uploads/sites/24/2020/01/Google-CEO-Sundar-Pichai-Jan-20-2020-in-Brussels-AP-Photo-Virginia-Mayo.jpeg?w=1000&h=666&crop=1&resize=1280,720
     width: 1280
     height: 720
     title: "Google CEO calls for regulation of artificial intelligence"
@@ -501,6 +501,6 @@ related:
       domain: pymnts.com
     quality: 21
 
-secured: "Jx1CscJUq+mtQRt6znYBhczvxlewL07u47ptwCTyRlIhEjnxB7ZkgOQueJ/PCsqzm5fmbA7vGetKwGW2BKyaI8fRr1wng93jApVJe7f+YwODe9n7sg/yPngouwGQh+WDTDx9SJoQQ5H5cpm/00Pr2SfVbjRgytLi26p7Ks4LSEzHkhK0At+eVDdB14LVOxLkxLY3/QFfWC8oZIHUg9rpSztzPAdD4QTSh/Snsb491jkKEIymLaB1MvUhPk4Xse864OtiToHNgOmQU8tn1x0JAJH4woiJONFZpSvIqrImqrtEq8FFQjE1B4r7TlNVtpOm;zJYPQ8MkhMZ+EpYwlenn/w=="
+secured: "ULDHfJNGs/RAgfYIlDq9uqLk0OdYcmKAaxLg+VZwUpfl3SwDidw0OQqqjwJfc2Xy719tAUbBy90r0qUdagQyXXMg9KcNEpsRFJuA2jWFB7YFgNFRtGVoZ0T8AlPRyunajLlA//UBzNjB13Grkf8VaWQyoe37vCnj46mfwfZ8h2KIO4JKbjOPw509GPsjQ1EEIDwTkdHgR5BlBJjY+rUp9noRh1F4911OtZ6XzJngSM7OnqtUmayTl6vs0rK9EumZhiMlSAs62foOLnGfVqBIf86MwOIvwEcsaRoZ5OqMnevBqOXzr6FR3ZuLjKePiAMZ;yGPuQ3FDwlarGynoCAr9nQ=="
 ---
 

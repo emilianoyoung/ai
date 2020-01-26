@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-futur
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

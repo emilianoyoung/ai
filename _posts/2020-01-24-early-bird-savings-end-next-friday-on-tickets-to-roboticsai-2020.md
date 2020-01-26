@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/24/early-bird-savings-end-next-friday-on-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/early-bird-savings-end-next-friday-on-tickets-to-roboticsai-2020/amp/
 type: article
 quality: 119
-heat: 121
+heat: 119
 published: true
 
 provider:

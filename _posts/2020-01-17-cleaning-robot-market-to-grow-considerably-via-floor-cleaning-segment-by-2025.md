@@ -33,6 +33,19 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1096541144_80b03e6813c6441f98f150075dcfff1e-620x480.jpg
         width: 620
         height: 480
+  - title: "Catching sesame oil adulteration, with machine learning"
+    excerpt: "Now, researchers from Yanshan University in China have developed a technique to speed up the testing of sesame oil samples based on a combination of 3D fluorescence spectroscopy and machine learning using AlexNet, a convolutional neural network or CNN. 3D fluorescence spectroscopy is already becoming a go-to technology for analysing oil samples ..."
+    publishedDateTime: 2020-01-24T09:15:00Z
+    sourceUrl: https://www.securingindustry.com/food-and-beverage/catching-the-sesame-oil-counterfeiters-with-machine-learning/s104/a11243/
+    type: article
+    provider:
+      name: securingindustry.com
+      domain: securingindustry.com
+    quality: 39
+    images:
+      - url: https://www.securingindustry.com/assets/97/sesame_oil.1.jpg
+        width: 600
+        height: 400
   - title: "Using Applied Machine Learning to Predict Healthcare Utilization Based on Socioeconomic Determinants of Care"
     excerpt: "This study demonstrates that it is possible to generate a highly accurate model to predict inpatient and emergency department utilization using data on socioeconomic determinants of care."
     publishedDateTime: 2020-01-17T22:41:00Z

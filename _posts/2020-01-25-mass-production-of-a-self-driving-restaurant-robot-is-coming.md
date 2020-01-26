@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 375
         height: 249
 
-secured: "aDevGluxHDK9zsFTuMHvFt3wi85tT20ZJ+k6hEofXVbE8U3cUMIr7kvDcFrbsagsbI2Bx2NuRb1ztkl9FsY/dGVLblKVEO1+5luH3HLGE1EpaooUKWHhtJ0u7DGMr4r1O4uH5RuvTyyS5x7UPExue7jjnRZOm82vlS1I/6v13jsa9hvNEhKStUMx3isyh2XuaXP3jgQpWgkAh1AHzr9eRR4jys1QMvDy0ntU+MLNYYzYZw9dh54sUKuYi4DiK5C7ihDRSkpryIkyS0NRszomJ80KFMYlGALdKXyVFakJqjnGxUqUpGRI0gdFmchpVfjuOeEBzDzAdu5HVl9LE7/ItYo1u6L/Ce7FtePh5rhytj2m+nfr5HBtmAqwEwq4stfbnPpht50g8Vk7Q+SSu9WKpziXNysFWWEHjZly+Ir8NR22h4BQZSgE9z0x+6J7niMEdpp7AbCjAWg6VXkCZ4wz7pIzZBZWNUnuBUhQKHGFJ0s=;0met9PUUixrAPNIFjny1JA=="
+secured: "LkRNhk3dgbInOEEpg7TSEcVcwFvf3pfCSKezNjjKObOIUGoNxar2FTy9silzRKmV5lyvEjXbUMSY/qJXokf5M/cwCqFSlqZ2hj3zOqTYuZ8kl3qXGrhvoo72/eMFBGIdZuBrNcJ4x7jA8+EDUFlWA5fPmfDyjpiDgPHbqwYM/GbbMACtN2AWsceULXbIPEWe9/c0Xak09nIUOdCH80KbPbn6wWUA1brMBizf+/tmgDqFDi35aYz24GJ59fdLwpfq3PgPkQCtho3cneXXwBVMbj95r17qAZohVXrCmzFaUekMY/ioc5kEwgD6MX3S/GSZ0uh05XEMSVN568OadOyh5hefIainsJ1tQqp/c2d928LIvmbXlMAPzxcVao0FP+fdOrZovclAf8CrQcxvWim3ciQD+I8pk/GgZSVoS4kyjuPSOXCjXqsinzprVT9+huNH+A2ClCHKwWhVlIplfChPGXAEiO7dch8z7ijzUYyZfCY=;hJnZ0mFn9iKaiQh45OVVcg=="
 ---
 

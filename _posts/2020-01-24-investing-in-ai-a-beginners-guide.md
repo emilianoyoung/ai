@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
+excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
   - Natural Language Processing
 
 images:
@@ -44,6 +45,6 @@ related:
         width: 630
         height: 500
 
-secured: "IHJEsf9Epz79c0wJOWhKgWPoE8GqUdRcHDdDkxYi9lz8N7df5Fm8Hwbj4ozymTPyyRlZUKRWJMGqJiJ10+8xQVq3Qw2NHxlgkewjHAIe2p2zrVQEPZuS2x5+zhBUVoN2bWMfZasN04JpOmzENbCaER/8NnP4TsOWex1iM3NWnP1tohxxV8v/APSJ/EatTDnFcEWXqOzsRXHKJAn1mCTqhNCP/e4eMjLqrJmQsKgBeye18YgpaP2H6zcLOG+pmnpRiZIBT4/7r0CBOJLcap5ZBiQRh3Pm2fxRhewBI6LBQIRNMgGH3oDJm39EwFmVPwfY;rdXcqFdIyXpgoXhz3LV+kw=="
+secured: "JKJ1usW+KkpUard5VyaHaoVz+FhuGEBozg8KgUW8WgnlGWJ7QNwR8awaaK5qSXucHANM0nhtumrWwCq62WQh1Z/q35mqqH0v38GoAOGW6lR7boC+MUhX+h4gp9tPuGRv6NBhLzMAy4hjLpE1RTS64uvOJ0hOPPg4/aCq/V9ib97hOjw/d+dLHY0jJCpegvnCORyZIxVtVHeOtqYLi3tgehkjBGiUcoRC0nb6n5NSlWEcqrxuXAGtECNo9DVEQoUz9vMU0G/66+woL+WgA3HrbITSK+bE+f32G179Jhu29Kf287bipRRiZpP1cCftrCJS;+Vxb78B+MSpk5m62W3PlSw=="
 ---
 

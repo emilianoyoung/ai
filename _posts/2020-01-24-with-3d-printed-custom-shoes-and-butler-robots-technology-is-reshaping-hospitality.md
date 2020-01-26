@@ -8,7 +8,7 @@ ampUrl: https://qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-mar
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-marriott-taj-itc/amp/
 type: article
 quality: 83
-heat: 98
+heat: 93
 published: true
 
 provider:

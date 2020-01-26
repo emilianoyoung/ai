@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Applying Deep Learning to Localization Microscopy"
 
 related:
+  - title: "Catching sesame oil adulteration, with machine learning"
+    excerpt: "Now, researchers from Yanshan University in China have developed a technique to speed up the testing of sesame oil samples based on a combination of 3D fluorescence spectroscopy and machine learning using AlexNet, a convolutional neural network or CNN. 3D fluorescence spectroscopy is already becoming a go-to technology for analysing oil samples ..."
+    publishedDateTime: 2020-01-24T09:15:00Z
+    sourceUrl: https://www.securingindustry.com/food-and-beverage/catching-the-sesame-oil-counterfeiters-with-machine-learning/s104/a11243/
+    type: article
+    provider:
+      name: securingindustry.com
+      domain: securingindustry.com
+    quality: 39
+    images:
+      - url: https://www.securingindustry.com/assets/97/sesame_oil.1.jpg
+        width: 600
+        height: 400
   - title: "Using Applied Machine Learning to Predict Healthcare Utilization Based on Socioeconomic Determinants of Care"
     excerpt: "This study demonstrates that it is possible to generate a highly accurate model to predict inpatient and emergency department utilization using data on socioeconomic determinants of care."
     publishedDateTime: 2020-01-17T22:41:00Z

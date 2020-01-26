@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T21:51:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/23/a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome/
 type: article
 quality: 167
-heat: 170
+heat: 167
 published: true
 
 provider:

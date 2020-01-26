@@ -24,19 +24,6 @@ images:
     title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
 
 related:
-  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
-    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
-    publishedDateTime: 2020-01-05T23:01:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg
-        width: 877
-        height: 432
   - title: "Sound Recognition Market Worth $4.42 Billion By 2025 | CAGR: 75.8%: Grand View Research, Inc."
     excerpt: "such as music recognition and speech recognition among others. Increasing adoption across applications such as for monitoring and surveillance system for automatic alarm detection and rising use in smart safety solutions are the factors expected to drive the market growth. Other factors, such as increasing adoption of advanced technologies ..."
     publishedDateTime: 2020-01-09T10:10:00Z

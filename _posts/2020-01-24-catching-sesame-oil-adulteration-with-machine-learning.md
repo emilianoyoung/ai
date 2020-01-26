@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Using Applied Machine Learning to Predict Healthcare Utilization Based on Socioeconomic Determinants of Care"
-excerpt: "This study demonstrates that it is possible to generate a highly accurate model to predict inpatient and emergency department utilization using data on socioeconomic determinants of care."
-publishedDateTime: 2020-01-17T22:41:00Z
-sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/using-applied-machine-learning-to-predict-healthcare-utilization-based-on-socioeconomic-determinants-of-care
+title: "Catching sesame oil adulteration, with machine learning"
+excerpt: "Now, researchers from Yanshan University in China have developed a technique to speed up the testing of sesame oil samples based on a combination of 3D fluorescence spectroscopy and machine learning using AlexNet, a convolutional neural network or CNN. 3D fluorescence spectroscopy is already becoming a go-to technology for analysing oil samples ..."
+publishedDateTime: 2020-01-24T09:15:00Z
+sourceUrl: https://www.securingindustry.com/food-and-beverage/catching-the-sesame-oil-counterfeiters-with-machine-learning/s104/a11243/
 type: article
-quality: 20
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The American Journal of Managed Care
-  domain: ajmc.com
+  name: securingindustry.com
+  domain: securingindustry.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg
-    width: 270
-    height: 270
-    title: "Using Applied Machine Learning to Predict Healthcare Utilization Based on Socioeconomic Determinants of Care"
+  - url: https://www.securingindustry.com/assets/97/sesame_oil.1.jpg
+    width: 600
+    height: 400
+    title: "Catching sesame oil adulteration, with machine learning"
 
 related:
   - title: "Applying Deep Learning to Localization Microscopy"
@@ -39,19 +39,19 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1096541144_80b03e6813c6441f98f150075dcfff1e-620x480.jpg
         width: 620
         height: 480
-  - title: "Catching sesame oil adulteration, with machine learning"
-    excerpt: "Now, researchers from Yanshan University in China have developed a technique to speed up the testing of sesame oil samples based on a combination of 3D fluorescence spectroscopy and machine learning using AlexNet, a convolutional neural network or CNN. 3D fluorescence spectroscopy is already becoming a go-to technology for analysing oil samples ..."
-    publishedDateTime: 2020-01-24T09:15:00Z
-    sourceUrl: https://www.securingindustry.com/food-and-beverage/catching-the-sesame-oil-counterfeiters-with-machine-learning/s104/a11243/
+  - title: "Using Applied Machine Learning to Predict Healthcare Utilization Based on Socioeconomic Determinants of Care"
+    excerpt: "This study demonstrates that it is possible to generate a highly accurate model to predict inpatient and emergency department utilization using data on socioeconomic determinants of care."
+    publishedDateTime: 2020-01-17T22:41:00Z
+    sourceUrl: https://www.ajmc.com/journals/issue/2020/2020-vol26-n1/using-applied-machine-learning-to-predict-healthcare-utilization-based-on-socioeconomic-determinants-of-care
     type: article
     provider:
-      name: securingindustry.com
-      domain: securingindustry.com
-    quality: 39
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 20
     images:
-      - url: https://www.securingindustry.com/assets/97/sesame_oil.1.jpg
-        width: 600
-        height: 400
+      - url: https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg
+        width: 270
+        height: 270
   - title: "Cleaning Robot Market to Grow Considerably Via Floor-Cleaning Segment By 2025"
     excerpt: "Cleaning robots require high maintenance for optimized performance. Lack of skilled technicians in developing economies is projected to hamper the industry growth. Technological advancements, such as artificial intelligence, AI swarm technology, and high-precision control systems are expected to provide growth opportunities for the cleaning ..."
     publishedDateTime: 2020-01-17T20:04:00Z
@@ -62,6 +62,6 @@ related:
       domain: openpr.com
     quality: 16
 
-secured: "cuVwOwEGFfHmk8g6Xve5MrCDMIPBcnomf36FfGm2bSKVbG8Rp02ouTfrAjT/ZvilgptArOrn41Rc3yo0pSNxRQa2BHbowoRenAmPfernXOIvqGo1KNcEgRoJqQIGjbAzR1jOETDwwLwMoN2KngdpXQNtEkxZje/XQi1J+NR3ixw5FI0EnbagnOEkJHrDbQIdj/kncga/51QPOL42+6wJer0etgsyXZL2/CKozPz+H1IiVHHIk26VI1BaO3AmyMhKM1DEa3xspBQsCbOKNbUjXLHM6qjC8o6TpB7rh/Pfns4=;uaTnDyYBYeUVwHt9ORtS9g=="
+secured: "+81PRrfyHyGmRMWsCYXCJ5bWr5YjGtvy9Mg09Xz1zl9D4IOUSE1x3pB+twtt9PTSfC9XQxM6Hs9BjTtVlImt7R3bGGc3Jjy5q8fAGekDE5CVvqB/Vsr+JLHYguLK0zaY79cHVzIL4WRnyZ/A7s5nD6EMnhaKFa+6UnlDgL/uuCcCI6clXGgbWZy8IzNWrXhzXlVHP7Zr6b1/7gd4TSdK/0R/55BqGMKsvZ06FmICTXk3RrXyNQDiIUD9IKohbBcelxNKV+Rq2+zZL8ixDQcNHbPFm9jKrM143o7VpFpQDDhQY1U0bIidRqXrWuVbTOgE;2B87mjEf44Sve41K4XgjqQ=="
 ---
 

@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
-excerpt: "Collaborative robots are designed to work in direct cooperation with ... This market report segments the global artificial intelligence market in manufacturing industry by application (predictive maintenance and machine inspection, production planning ..."
-publishedDateTime: 2020-01-14T07:47:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-manufacturing-industry-2019-/2020/01/14/9080753.htm
+excerpt: "market in manufacturing industry is expected to post a CAGR of around 31% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+publishedDateTime: 2020-01-14T06:30:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116989/global-artificial-intelligence-ai-market-in-manufacturing-industry-2019-2023-31-cagr-projection-th
+ampUrl: https://amp.benzinga.com/amp/content/15116989
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116989
 type: article
-quality: 27
-heat: -1
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -24,72 +26,31 @@ images:
     title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
 
 related:
-  - title: "Deep Learning Market Report 2020 Competitors and Their Respective Market Share, R&D Status and Future Projections 2026"
-    excerpt: "Global Deep Learning Market Report offers industry news by region, technological developments, value chain status, and market scope 2026. “Deep Learning Market” report 2020 presents the analysis of the business by market size,"
-    publishedDateTime: 2020-01-17T10:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-report-2020-competitors-and-their-respective-market-share-rd-status-and-future-projections-2026-2020-01-17
+  - title: "Global Closed-circuit Television (CCTV) Camera Market 2019-2023 | Introduction of Deep Learning Technology to Boost Growth | Technavio"
+    excerpt: "Some vendors are integrating the latest technologies such as AI, deep learning, and machine learning with CCTVs to improve video surveillance capabilities. For instance, in 2018, Zhejiang Dahua Technology introduced IP-based cameras with built-in facial ..."
+    publishedDateTime: 2020-01-13T20:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005538/en/Global-Closed-circuit-Television-CCTV-Camera-Market-2019-2023
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://mms.businesswire.com/media/20200113005538/en/767042/23/Global_CCTV_Camera_Market_2019-2023.jpg
         width: 1200
-        height: 630
-  - title: "Artificial Intelligence as a Service Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "New York, January 14, 2020: The global Artificial Intelligence as a Service market is segregated on the basis of Services as Cognitive Computing APIs, Custom Cognitive Computing APIs, and Conversational AI."
-    publishedDateTime: 2020-01-14T05:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-14
+        height: 627
+  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
+    excerpt: "NEW YORK, Jan. 08, 2020 (GLOBE NEWSWIRE) -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted to ..."
+    publishedDateTime: 2020-01-08T13:08:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15093385/global-natural-language-processing-nlp-market-is-set-to-reach-usd-23-0-billion-by-2024-observing-a
+    ampUrl: https://amp.benzinga.com/amp/content/15093385
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15093385
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Mobile AI Market 2020 Classification, Application, Industry Chain Overview, SWOT Analysis and Competitive Landscape To 2023"
-    excerpt: "“”Mobile AI Market”” Mobile AI Market Research Report 2020: Industry Size, Share, Trends, Growth, Sales, Revenue, Risk and Opportunity Assessment"
-    publishedDateTime: 2020-01-23T09:25:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15169842/mobile-ai-market-2020-classification-application-industry-chain-overview-swot-analysis-and-compet
-    ampUrl: https://amp.benzinga.com/amp/content/15169842
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15169842
-    type: article
-    provider:
-      name: Benzinga.com
+      name: benzinga.com
       domain: benzinga.com
-    quality: 35
-    images:
-      - url: https://www.abnewswire.com/uploads/1579774680.jpeg
-        width: 800
-        height: 527
-  - title: "Collaborative Robot Market 2019-2023: Key Findings, Regional Analysis, Business Trends, Emerging Technologies and Future Prospects"
-    excerpt: "“Collaborative Robot Market” global collaborative robots market is expected to generate a market value of USD 3538.46 million by 2023 growing at a 54.22%"
-    publishedDateTime: 2020-01-21T10:25:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15152359/collaborative-robot-market-2019-2023-key-findings-regional-analysis-business-trends-emerging-tech
-    ampUrl: https://amp.benzinga.com/amp/content/15152359
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15152359
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-    images:
-      - url: https://www.abnewswire.com/uploads/1579605621.jpeg
-        width: 800
-        height: 435
-  - title: "Artificial Intelligence (AI) is the future in information and technology sectors - Analysis, size, business growth, trends and projections by 2025"
-    excerpt: "On the contrary, rise in the adoption of AI in emerging markets and the rapid development of smarter robots are expected to create lucrative opportunities in the near future. Access full summary report @ https://www.alliedmarketresearch.com/artificial-intelligence-market The global artificial intelligence (AI) market was pegged at $4.06 billion ..."
-    publishedDateTime: 2020-01-20T19:04:00Z
-    sourceUrl: https://www.openpr.com/news/1901705/artificial-intelligence-ai-is-the-future-in-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+    quality: 1
 
-secured: "1IkejgHndUGSH/c5L53lS6PXWK53vxEaIUZMEk5y9Q1XN7n/ATk/920kD3+o3vlpsAJ/BG+cpajDW7vivC2q7yQIMmzEoZ7HqPHxQD7ce9HFfLXuuRrdSAJ3ys6rUIalR7pu9dJolL+K6iUx4jVirbhUv/r7lQWFKyJ2b/UXPUek4hGrazvad7OEJhyuM0GD71Osz7rgem5lN70mOle+Hw+5cm/S9JY3HtkmERsLKN5mmnTgHrntimL2Hq89x6P7zYIF2pyVZXwrR/+Vk87jXdfXDlea+/hn6PcjV7Gko0UfXKlCzTjz+9ziO7Uyzl4Qt6mZan9EqTJLd6wRohxAUIwAJadxX6Fzj6il6S5L8wCkzm4WPG6WR5B2e5pfivMJ0dHF4TvS59LNJzxuTyb8B/PA6sPm9UL5pguWSPWvq3Srr4q/C24Oc4SVGtbKxcURnJH42XxzyoroCZ4vtebONA==;W0Fe/3caD/4TMg1IuE+ZMg=="
+secured: "0T9rSHrUQJTgPVkb2G6jDNK3gTbULcCjgcsSg4fG5wO9DgOnvn5wjPuT6GPEPVP3cU+sh6gQO/fHdiJ3MNqU8fK/jkgGEaK5Ed2DpKH7ejuB26KVJ0kJRYR5ic2glQ3CZ1sUgd+PJKkm+UQURp/1TiL5iwAGwVPOYmHDIxUyEfpkHTluwPV/1MI0eclY3oo9gJLxbXNU8WNs4K+TUbXlbUWqDU51BrNpEd8m080Odug0D0ida0X/v45zAJpFhcaQ9ROC7+2x8lXApIIDTkwPLaV000QBzzB1Q5yVaoC5/6Xmihgn4U+4ADdbBqQMt3TT;jXaM6dawg3HBsEqiGtMJXg=="
 ---
 
