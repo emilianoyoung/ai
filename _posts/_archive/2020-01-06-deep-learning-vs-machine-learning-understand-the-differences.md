@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Deep learning vs. machine learning: Understand the differences"
-excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep learning, which require a much higher level of computing ..."
+excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep ..."
 publishedDateTime: 2020-01-06T11:05:00Z
 sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
 ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Deep learning vs. machine learning: Understand the differences"
 
-secured: "uAWY4IQZX+yCJesOIjKhkFEKQV9086BdKan/d6usvKq0FE3IretiPOx5plJHWbc0os/Fs0rVFbhNlD5CpKZlYomJmRBUXkmPzssqpzXGhRxv2zkTx56WfxHLbWFSI1ntGaPR1d0se7vuub9JGWH28vLXyFM4Zw8Wv+gdLKpylhviEMumxnANfZf7fTtwk5ZqdQjegGo9CkckZIgx0gGDsWDdd73lcs7UHNuHz3TH6DHrmc7Pcni6zuFvM1J1N2LuO3Gf5XAGU/xiwesVuGZu/OtotYb4Hhn2UdBw/abGBaE=;MK21GHEG9MtpdHUGFZdF+g=="
+secured: "mc8sAbfwslpfM4zZ10Uh9n6MXPIuZo/4KfOGtiSHOiodTS9Mbb+Sf8XU7IgWMVcM3v0VNjIYC6TGgfoRQfqaqT8utDqxz+vkIewVrIHTzK2jWtHda8FX4HmRl7EFUdm/2q23tqF5Oxsyfyicz+zOo/BA8Lr3FMXyxz7Sy51Acp9euzJCtYjhppAasHZr1XZmXTK8pefshThujOoUkQHmEQ2Skmnh29sPjr0mC8956BtTIRbKTxo4mgxOr68CET5yBhPVxLT5NbxiWtf1bLCtBPABf48NZs7L5tjHwIj6fplbVadOjQOITcHXGDGFuvip;HugX6E6xqkt4UBqHRaIVNA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-mon
 cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,21 @@ images:
     height: 390
     title: "AI could monitor breast cancer"
 
-secured: "KnyAhVPJGgQ8wdRq3uADHrcC6PYjhieyAl3mKyBBhau91GKDlUtmpugvMJ/4IwJ2Ob93NtUHBwhxJgoUVb+3ro6An+JmW8qsPUOXjarv9wvXD8wymMk87GKjw7W8TO5DvkZ7ObWoO64GuoiL5lE5bBP9+Hc8iIvIrUCKlm2rQ2bNTlsOVwl8R58YzfMAcpzvXF9EQ+Zi3gyh3jclvr9I9Wh1zKTd82jlhGG+x/SL57lEq49GTeCEl4+9KmatkPCXu04dMgR6dy0YQceB4t2FVW84ufbck9tUXVOtYI61Uyue04k3PBOfck78rEpRBFnp;NQI3OWumiemBLPZIq9HKcQ=="
+related:
+  - title: "Breast Cancer Risk: Artificial Intelligence Offers Promise"
+    excerpt: "For example: Women who take menopausal hormone therapy, or so-called hormonal ... You can look forward to an increasingly use of artificial intelligence (AI) in the clinical realm, both for ..."
+    publishedDateTime: 2020-01-04T22:40:00Z
+    sourceUrl: https://medium.com/swlh/breast-cancer-risk-artificial-intelligence-offers-promise-7c9a8e4a379
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/1200/0*V5YiNUt2FnF8vh6E
+        width: 1200
+        height: 1599
+
+secured: "/okCvYLhoUNCj2ExP/v5ctTjeCOlZZ9AMwuzPBUKzRNc9km7McQmjfUF9OH+gQbmPEH25BmfK8R06xcV9LFq2+Y6W7XqJErpin5zkyn+FyPGwicXy80CY2UKIbH7oYZMrrcNnInkzfCVYr0lMIE69W0fW+MqIvJXpMBHFRwUXb9jNmS5Yxf270VZa4GfshKMmGkLpHv1nkkT1H1scMFuJQeBGAG5vHwfaU1SjCZFhe6JXgwBSTW8vJ99f1cOojBCaYNqf3GBsWCg7nzFSY/asawoWQi/pKZ6GMwYCEY/CU6Z9drQZ4EQG52LL4b0gEbg;zdBHP1rcpZal44HcZ39acg=="
 ---
 

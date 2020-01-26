@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
+excerpt: "A report from MarketsandMarkets estimates that the sales generated from hardware, software, and services directly related to AI categories including machine learning, natural language processing, context-aware computing, and machine vision will rise from $21.46 billion in 2018 to $190.61 billion in 2025 -- representing a compound annual growth ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 95
-heat: 105
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,10 +21,7 @@ provider:
 
 topics:
   - AI
-  - Microsoft AI
   - Natural Language Processing
-  - AI in Autos
-  - AI Hardware
 
 images:
   - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
@@ -47,6 +44,6 @@ related:
         width: 630
         height: 500
 
-secured: "3KSVy5fNNqxo3nCRL2rHUCeVzse5MHhvos7xgjGRhLW9lThAreVewRONwnmDABrG1/tORU2DFqrpnyQJyRVwSZpQdsjByxrcidmQQ30ibX4I8KRQ8fRT3DHOLuMuzVqj5fhbXLjqjsxw55TPwrYRHa94rGvUb5B523E0fMnBPwf91JeDO6fs6lZpJfYE3pSVtQ2eEDbVyWsGc9wTWk9Wssafbe3B5wTrIXZvNWgCi8cKDi6P8hZBY33O0mY8IStjlgVLLzFV1v3uMPX0XemBBWEhOlQRVC6Q0EISvPIuHDDF114Q9bljo0D23Psi8iyyiOiXDBJ7Om53SFQ8fJ/GZ0SlLNRfPoB0LRmye3tAp5bjvUcf6pYYX4SA3PNIQCOBLn18at53tjDjjQeIjQtNUkmHM8nyxSV97rOK0HTpemVickszO8j8+t426DL+998iRxGZNc/WGzpgBkmtUplv3BWSrH+/ouwEYiiSgyWcdzs=;veWotorqjcR31WgAtzwjQA=="
+secured: "XV8CBQvYqIEHJkPbWpyWg5AT62QVjs3yFzXSiRayJAqi/Cecqe92dzr2kBRoJXj2TFLli1k9opL5NUEB9o4iNNEH8jdrrh80DB5vS+os0s2BiVlep97fGoPiLasWvOLwqk051VGgyCsEQRaC3EOKKMgBg3LfFJPK/q2NzdMK8E2CSjUcsgJ2v1sIaUzUd08vFDeeV6g2db3vY5qAgo/yRnS397+kAxj1T7tyxAxjQXLU8nw1mzEu1dteUuFtmsOKiUEkOvDsbCF9pb2L2RTv3kVhh7l+7Pkp/hq+aOM//cNbcKxhk0YPm/6/iPo74tsr;nJvmHgzzOItjKx+5YVgFJQ=="
 ---
 
