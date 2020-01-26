@@ -29,6 +29,6 @@ images:
     height: 646
     title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 
-secured: "856/T9ue9Dou7ykSp2myu+ULLETZCxPR22cF0WUHpAuDX1GcElGM3Ih3T09cCTR8Y5NCvtdUmVmqDi7Lns88VbtdhenSm/ws+J3SQxEFlXJyLFD+EhrlUTFzLttZSZ+uirbS3XPrO7rJvCGq4mTq8n2vaSX4g8rtGPwKBK1ShosR0hL8NHEeRQ/h4mRF8qib+bSYt2/blI5ZLlIYZtEhuJ39+A3Y82d6h5dg+Atj6ywwX2bBQ6T9VtBJatRYMxiy+mTuUyg1b99VNl/uslO5613RHLOzW71kIn8Sre3insToo86Q0Fspx28POB8Pf71g;6lthrvJbSd6KxRYtjnHg4g=="
+secured: "sn8mF0ehTgwVmYxToQ9ecPckaIfSDv6OmA6XfYXwoafYx3K+K4rrZot0GWd5mB+8OBoovjAfX6nGOApp/RL2r0uqZdBGcVfuumTq2UnVnEBazpp0wPEU9VEtu+gAsG1hyDxjJ542GVhrCxlzESHIbR+FyD7AvmSkdpHsgVm0CfiXcYevVCkFjbP9O7PpMt9tEG0Nkb5UN7R06zCPmliU5woOIul/y+9fN09DPHd5ZEk7twCrYA7xwX0x1Ir6LS2DLq+ohYnk8Q2fRlo9qpcR7zV3n/+57UPipe98pnj+vhlOcNiG/Wjcg/WTn5mz4QI6;qifOyTq5f4ZUrBn/l5pPQQ=="
 ---
 

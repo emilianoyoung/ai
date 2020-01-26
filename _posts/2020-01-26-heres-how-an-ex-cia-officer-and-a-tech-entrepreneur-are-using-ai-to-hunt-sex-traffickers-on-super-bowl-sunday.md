@@ -26,6 +26,6 @@ images:
     height: 600
     title: "Here's how an ex-CIA officer and a tech entrepreneur are using AI to hunt sex traffickers on Super Bowl Sunday"
 
-secured: "VmeaZET973IasXDalSZo/FIED+EyvuP9qdXDdceOk/SCs3Vskg9rZh16ZPT7w+Enj1fOos2BLVOqESAZ8/sBLLQh+mFkIfs2yvDeuBOOW8NHPVodVLU3bzx+8Ltr/xIQPgu+7BJAjmQORxygPq4IjiK9hEzPgtl9K39I6inp4GiS+CcA7b32ttIRxd3RmZKWNVd7V4nfWcYeVVMFcH/aMWOTzZRj3jN68uwzGYD86IAuyJWJwT1Z0haIBFdZWj5UAGVwM9OWT7tkip7A0DsyGWSMd3u+9Z8Iai0TRB8ixM8jam+wbBZthzNkuRwQi2+K;fOWevW5Aejw1YTvD8Pffqg=="
+secured: "oB06BAlBxNn+eAChsX5MMO3rqUjKteMrRTZ2FH0+SUvjNBNPVpCq+ON+F7YjyPn+TnifJG4BG/cMXDeDZrqtgezObQDNu+5s+1f5vRfK3RXFv2S0cGEbIoJHStsR9JroFB2XXLX8O3JpthcRuzopz3W0FtFwbTfn+Vjqku9B0oQVAg260l1HSrj/mHpDBUuCN1p+FmOy7tXDMKk3P/1eA6tLX6RFFnwxeTUPPH5wKGO6v2g+7OCy2gJ2Xr8CIQ/MUZSbQDVMBIckRgZVQwJASxkXUEzNl8PAIMDZ4yhrj3zmDuk7pgY6ZusVarXGBiYSKiHKHHr1EE/Q5XepNg+Yp9nfed0GBPe4lQJNuf3ezXVxE0BwRPjGFh1VRu3kvNJcff2lw8yF9AHX6WQWE8LCw2NpGiEsptpvaRpn5vZVXmdfN7YjPjdWXvJoyKaBeV0i5TIlpVcWKJ/8LZ6d5jh9a9OnzHz9QA7lzdCQe0hE8/0=;QqIfEB9OzUxHEsNz4zv9QA=="
 ---
 

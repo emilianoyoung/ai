@@ -28,9 +28,9 @@ related:
   - title: "Sorbonne Center for Artificial Intelligence at Sorbonne University Abu Dhabi Signs a collaboration agreement"
     excerpt: "H.E. Nusseibeh expressed his delight for the recent opening of the artificial intelligence facility, which will host its first chair with the support of French companies- Total and Thales Group. He stated, “We start the new year with hope and optimism. With a new Board of Directors at the helm of Sorbonne University Abu Dhabi, we strive to ..."
     publishedDateTime: 2020-01-26T14:44:00Z
-    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Sorbonne_Center_for_Artificial_Intelligence_at_Sorbonne_University_Abu_Dhabi_Signs_a_collaboration_agreement-ZAWYA20200126134722/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200126134722/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200126134722/
+    sourceUrl: https://www.zawya.com/uae/en/press-releases/story/Sorbonne_Center_for_Artificial_Intelligence_at_Sorbonne_University_Abu_Dhabi_Signs_a_collaboration_agreement-ZAWYA20200126134722/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/ZAWYA20200126134722/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200126134722/
     type: article
     provider:
       name: Zawya
