@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Supreme Court declines to hear Facebook facial recognition case"
-excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
-publishedDateTime: 2020-01-21T15:55:00Z
-sourceUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case
-ampUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
-cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+title: "Army Researchers Working to Protect Facial Recognition Software from Hacks"
+excerpt: "So one of the goals of the NYU-sponsored CSAW HackML competition in 2019 was to develop a software that would prevent cyberattackers from hacking into the facial and object recognition software the military uses to train its AI. \"Object recognition is a key component of future intelligent systems, and the Army must safeguard these systems from ..."
+publishedDateTime: 2020-01-26T13:39:00Z
+sourceUrl: https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html
+ampUrl: https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp
+cdnAmpUrl: https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Military.com
+  domain: military.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://thehill.com/sites/default/files/facebooklogo_112819getty.jpg
-    width: 980
-    height: 551
-    title: "Supreme Court declines to hear Facebook facial recognition case"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -337,6 +331,21 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
         width: 500
         height: 281
+  - title: "Supreme Court declines to hear Facebook facial recognition case"
+    excerpt: "The Supreme Court on Tuesday declined to take up a high-profile court battle over whether users can sue Facebook for using facial recognition technology on their photos without proper consent."
+    publishedDateTime: 2020-01-21T15:55:00Z
+    sourceUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case
+    ampUrl: https://thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479126-supreme-court-declines-to-hear-facebook-facial-recognition-case?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: https://thehill.com/sites/default/files/facebooklogo_112819getty.jpg
+        width: 980
+        height: 551
   - title: "Met police to deploy live facial recognition in London"
     excerpt: "London’s Metropolitan Police has announced that it will deploy live facial recognition to identify citizens across the capital, flying in the face of calls from the British government, regulators and citizens to pause use of the highly invasive and often inaccurate biometric technology. The Met said that standalone cameras would scan passers ..."
     publishedDateTime: 2020-01-24T13:47:00Z
@@ -657,17 +666,6 @@ related:
       - url: https://s3.amazonaws.com/campusreform/14269/bigstock-Simulation-Of-A-Screen-Of-Cctv-285169480.jpg
         width: 903
         height: 600
-  - title: "Army Researchers Working to Protect Facial Recognition Software from Hacks"
-    excerpt: "So one of the goals of the NYU-sponsored CSAW HackML competition in 2019 was to develop a software that would prevent cyberattackers from hacking into the facial and object recognition software the military uses to train its AI. \"Object recognition is a key component of future intelligent systems, and the Army must safeguard these systems from ..."
-    publishedDateTime: 2020-01-26T13:39:00Z
-    sourceUrl: https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html
-    ampUrl: https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp
-    cdnAmpUrl: https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp
-    type: article
-    provider:
-      name: Military.com
-      domain: military.com
-    quality: 37
   - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
     excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
     publishedDateTime: 2020-01-24T22:12:00Z
@@ -769,6 +767,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "cJuQOEWJ1EgA3VV1zSe8ODoZjKUBdO/ZRLOQPxoKOO064nKGObvVA8CTEvo7bTMIETmduZJovNdr6zlbazsih+V42JYVdwvo5Vfb6W4GvS6v8tEAKI7ULZcJDAp97BHhIIKVKUgm4B7/Q/FXBDehx6D1rVCb3JqI7VnORnQICyVtPA8TRZP9YEdR1DdOX8bzG6OH8Q2+pc95z+8J0DLyav4VTpB1L5cktOROKY+Y6u4zO1jdOdFWkqJ/blB2vTyRXhlHGU2QVERFBCVVMAfBDbowyaggAt2vmfPLPeY4YXhKHDXUmkGPDEV8m5BQ8aez+MEyFUK3ao8W3R1NswurI2gFU8+dKuvk4EUfEYYitCGzx3rxfP4w9IPJUNXzPMK06p2WFkwvfhvDHTIRgcBcMDM6bpRjeCGTU+oUApCofJ5ofSOWnhbFuyP6Ma7ab9I4BB2sLqQ6CCzpkI2Isk5ljQ==;8xojCHZk2jbmWdLkM8F8UQ=="
+secured: "YLXIuLei8VMDKImA4QK1mo1vMcDtBvAwXlaxFAAozqYK5rpmhJP8sNQAPJFy4id3jX2H6C7ZQmu8Pw1VupQj4nNPjygigmkMukiLgUAfa9xq8ClfIsFqb/LFs3We4dLSRvfNRHZWHhM+OMT1xi2HSDYGNZjPIgQcnumvaJvAeUj28SZtxJzzZLtbca7kmgpaezcdWM8lOXgS0WOEBuuDgEp0oyjDLTw9eedGVkbbKg/UYPNiTYx2AG88pFf5mWO2LkXyBH8QvknbkcxVq8nF/3tZrJQwhPJZCcH9EOAwUjUUFtyVU9QzqnGH+XO1YMxr9i//dhQiVs9TOEwIwmDWyTPIWgN+FDZjg0O4A2GFFFyYxRcSPqNN48IOWBX6d3MrziOP69DVZB3f9jcUxP+Xr1jCKbXVYyYvBv7dJDVlkShnyr2+kYzygNIy1nPwp43L0x9tpA4GTBpBscpmhfj4hjwCofLuouh2qR0Z2AopmNI=;wUW1PAF6U+uwBMDm+Mzb9Q=="
 ---
 

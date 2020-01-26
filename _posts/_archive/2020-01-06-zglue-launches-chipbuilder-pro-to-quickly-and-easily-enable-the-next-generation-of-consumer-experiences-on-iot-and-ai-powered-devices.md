@@ -33,21 +33,6 @@ related:
       - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
         width: 600
         height: 338
-  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
-    excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
-    publishedDateTime: 2020-01-06T12:36:00Z
-    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
-    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 46
-    images:
-      - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
-        width: 800
-        height: 400
   - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
     excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
     publishedDateTime: 2020-01-08T05:29:00Z

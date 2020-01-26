@@ -39,21 +39,6 @@ related:
       - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
         width: 600
         height: 338
-  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
-    excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
-    publishedDateTime: 2020-01-06T12:36:00Z
-    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
-    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 46
-    images:
-      - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
-        width: 800
-        height: 400
   - title: "AWS, DFI Powering India’s Commercial Drone Innovation"
     excerpt: "With map-based analytics becoming the next frontier in artificial intelligence (AI) and machine learning (ML) based decision-making, reliable data warehousing capabilities for on-demand access to decision-making data is pivotal. DFI and its partners will leverage AWS’s compute instances, storage services, and database services including ..."
     publishedDateTime: 2020-01-08T05:29:00Z
@@ -77,6 +62,6 @@ related:
       domain: design-reuse.com
     quality: 0
 
-secured: "9VtJCzt/RsSDb561M2F8s5Z4xmCQZmDsCmPFD4fJCPwxOdWSvWygb7xc+mqa9lw0OS1yAi/Vfy7Ew92g2LmCtI1He5rIvzqwpnHPnJFMNZK2snGlwGKMDbgaEAA648V6bHEtmFsqQ0r7ZtAGSGKAYzeppB7eUgn9ssRitqMRgwAcnBObPX+PNb37lu5U+x8nSU1A1ZXPvM2mnpkDnySSRZWPU4CPs2hw/+h0Bwr+mbZr+yK4YdOsm/HsCgJAAWUzpQndm/F1bUpNU4ISLt58Bg9hvfd4VmXx/mNjz7vETV52E8S+qCQl0pMtg0UrvC9v;RJIDP7UduGVxJiqXJxWyaw=="
+secured: "XVkra3Hv2k9JoGjTm8y5nmq2iquMsNddqwYjd6tCKsnUijuQZSWsNKKx+mCLHrgkhASCSj6Xe+j3JSgLDAUtHCxCVTeTUw9srQGfIsj3e7SLJ8oq/V8ud2TliiUE9gEMkfZgX/ntNH4ety0vtgkCwO2gjOJ9jtbBu+36FIPP6b3VdOP6pNdUHj5HSj3wn9qV5lQwi5ViqcNLzjDTn+FbwFhTFtiq1v8TtfEI14GQkHb1VUz6BWFIhrASDlLgpjXg1QvqF2Ob3wPPPejvMo6cspsvsMtTXM/svYCT0Sp55Us9doJVR0vseg80Mo5YTU0f;HMeCGrVdzPXnBHGfYFtcIw=="
 ---
 

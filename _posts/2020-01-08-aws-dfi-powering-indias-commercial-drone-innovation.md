@@ -39,21 +39,6 @@ related:
       - url: https://images.livemint.com/img/2020/01/06/600x338/drone2-kSGF--621x414@LiveMint_1578318181512.jpg
         width: 600
         height: 338
-  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
-    excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
-    publishedDateTime: 2020-01-06T12:36:00Z
-    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
-    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 46
-    images:
-      - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
-        width: 800
-        height: 400
   - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
     publishedDateTime: 2020-01-03T14:43:00Z

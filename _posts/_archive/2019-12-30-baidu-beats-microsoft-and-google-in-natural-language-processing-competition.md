@@ -25,6 +25,6 @@ images:
     height: 1231
     title: "Baidu beats Microsoft and Google in natural language processing competition"
 
-secured: "pvUEX/fzD9OTIYVxGMVSKE5HpoNqyAu9zauO8LmTulum9/yoiKbqhvT/cbuzbfbte0is2kuXgHDacq2PXZ7pwGp8SnIqVn2z1tuxeobfF6Gw9eDDa67RN7vA3WCPzM42qWKl3xXk+0Kf6eTTrrQI+OWlA3kRoMVmCpK8C78QXEKvoNRjGC8SJ0wzsYoVTNby005sWLNUK5vLxFVYOC6vI6oZSipGf52X6D9foAwcbt9Kq9cV0YyHkpk/pyy3YtXXrHg/hOc/dRVrzof05RdBaoxtH7zBqamFjXfaZx23KYhqoe95Orp+dgfj/pz2QHSX;sBNuwALsevb0o+7sQ2eaFw=="
+secured: "9ioJwpVutKnQyk8jm1u1nRuwXwQRkjJlfzugN1bvuPYoPdhSNAQS4mtr+bAEoj+91yO0EqsHEw/PA1oClbDtVxUnqnrEeOQq5KPMTOZ6/lnker/Qe0VdfANvz+lGgWKMFtXy6sD4tph5PkaxK7QaESm0DhPlYRUp7hv/C5Kw6bGqjZtCHrkJ8T6BuW8wV3CxH4vTeIXeSyDYcfWWdqVaHhJd5fA+hSiWE8mbZP8ab6UI5xkSMsRWv8fO6ow7u2H9DV24Z3Hs74srWk9MflCjWNGorq6JjMAMgvblUqzA+3TnCbTOo/QirAzitA3arSUb;SxT7/yMLsKYTkAbNI394IA=="
 ---
 

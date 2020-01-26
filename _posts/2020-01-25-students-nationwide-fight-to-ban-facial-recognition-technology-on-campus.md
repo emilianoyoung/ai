@@ -657,6 +657,17 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/c5/1c5209a2-538c-52cf-9de3-6ac39f163359/5e2b59269014b.image.jpg?crop=1766%2C993%2C0%2C89&resize=1120%2C630&order=crop%2Cresize
         width: 1120
         height: 630
+  - title: "Army Researchers Working to Protect Facial Recognition Software from Hacks"
+    excerpt: "So one of the goals of the NYU-sponsored CSAW HackML competition in 2019 was to develop a software that would prevent cyberattackers from hacking into the facial and object recognition software the military uses to train its AI. \"Object recognition is a key component of future intelligent systems, and the Army must safeguard these systems from ..."
+    publishedDateTime: 2020-01-26T13:39:00Z
+    sourceUrl: https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html
+    ampUrl: https://www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp
+    cdnAmpUrl: https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2020/01/26/army-researchers-working-protect-facial-recognition-software-hacks.html/amp
+    type: article
+    provider:
+      name: Military.com
+      domain: military.com
+    quality: 37
   - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
     excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
     publishedDateTime: 2020-01-24T22:12:00Z
