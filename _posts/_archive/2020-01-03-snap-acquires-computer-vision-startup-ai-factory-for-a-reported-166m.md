@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Snap acquires computer vision startup AI Factory for a reported $166M"
 
-secured: "CUC76WsEuf7b0jCUade69p/QnWESj0WAjkgbYdhrhEH2mxBmDsQlNZYoB7iFQdaDRW5iKz54FsoXhIgo2910sY8I9ctNow/9iICNI3q9T1x+2ppMd+X41eiIKbI7X0exkN3fY9m5hwT99GrcdMGvkh+2SN1709ZUAQWtsWUhEEEaMe5CIars0bNQxpQ5hgXLR8MeSSV9a85Tw+I34MN+/++FBEAjBdvfpLfPdskSj3COd2PsIBCbOzO9SceqxQlyLf456WqKkos1RfYD+iet19E8A6/aVld6TKoQptYOwfVx69Y0lLK9SqadLtNQquV6;xkAjvPgBfKFblLHc2vGRYQ=="
+secured: "Kf4myrsF2HYJIUJb+0Ew19XMk1lSsAE+I07/ucTAcY8X0O23rJcWaNsJwsOj+WfLUduASkUo7kTJg2IiTbNFYTUVKlwJRvFudAn/vN/j0AIIaDlg+i7NGLDMQUCf7OF87lCiY0OPIogK87SGKOoh7ndDbaYsOO94XXyNIbcXTx5IEBkHAAaCfHx0cnpvib1afSyWZZDpKCXTdUTwZVLDtrNG+gjIJ7x0kGXPMNK/UpW/kXzHDCMXTSVmNGB/r2HGZPDHAkqbNhI0OGC3/YdEYhM1oRF8/rl/9158iZAPuZsfRvGXC9wsr4vonD/BYSuK;IN0rB8McadLdPXKfdP0cbg=="
 ---
 

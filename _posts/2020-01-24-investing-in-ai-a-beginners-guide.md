@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Investing in AI: A Beginner's Guide"
-excerpt: "Artificial intelligence involves the use of algorithms that guide machine behavior to solve ... and strength in AI have also helped the company to position itself as an early leader in self-driving cars. The tech giant's Waymo subsidiary is currently the only American unit that is testing Level 4 driverless vehicles on people who are not ..."
+excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
 publishedDateTime: 2020-01-24T19:00:00Z
 sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
 type: article
-quality: 95
-heat: 105
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -21,9 +21,8 @@ provider:
 
 topics:
   - AI
-  - AI in Autos
-  - Microsoft AI
   - AI Hardware
+  - Microsoft AI
   - Natural Language Processing
 
 images:
@@ -47,6 +46,6 @@ related:
         width: 630
         height: 500
 
-secured: "ADqItkuIYpTCGJ/9pflhJCMHYfyHGrti0c5j84rmgR6jJ5taPrI7yaOP49LP/OtW+zlSkbDuuzW3hnP3vx3OYnnmS6X7fVRT/+1vK17N7vihmNBadQ5BeOID2JGtYgteVajlgrKoU4c1d5JoFrtWdb1ZiXDeH5zb3ZszU1FGoGfBpERY/Br5S5XZQePNUwyhmyILDsJxI0jFiKHohH2yO1HsVAWCS7jgq3J164g6R3J0EjF6Jxzce/eod1ONQD43PO6ng30msEZEwc+nptrWD6ZrkCxJYSXpjo8SIAgi21j0AtcfG83mJ1dS0yj7M9zw;V9SL1uSuDwjuLkeBnQ0vcA=="
+secured: "PW+xeM1M2Vc7y7wll0ekMZO4+eCNw+/J5kon8ZFc3zc2Q47opOfu6C0aiKs6hHbM8nLjJBW8q49FqE4ziqiO56h/33KrwxyYhWMVTKPrjZrrEkki6+q/7guEulhYHKh69gnXWmQtQkFL1OJ7EMovBwVKdoY7OeoI83MBXfgk0AFC3og46lYLq9VHUMVxcKEyrMWAjbzrmqrt6du0uwUxiukn1UUebWCEetU8SnxtNIJ0f3ZDUbrJ7sp56XpMfoVaDg9HIWb2kLYnotMkP/VXtjOzNgliLQjFrfASMbQqtzcIJA80f4JvUJ4y22jdZk9f;KcKNiTqvjdSPppGkP1g3mQ=="
 ---
 

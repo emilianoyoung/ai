@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
-excerpt: "market in manufacturing industry is expected to post a CAGR of around 31% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+excerpt: "Global Artificial Intelligence (AI) Market in Manufacturing Industry: Increasing Human-Robot Collaboration Collaborative robots are designed to work in direct cooperation with humans in a well-defined workspace. They offer better productivity, reduced ..."
 publishedDateTime: 2020-01-14T06:30:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15116989/global-artificial-intelligence-ai-market-in-manufacturing-industry-2019-2023-31-cagr-projection-th
-ampUrl: https://amp.benzinga.com/amp/content/15116989
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15116989
+sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://mms.businesswire.com/media/20200113005995/en/767292/4/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
-    width: 480
-    height: 270
+  - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
+    width: 1200
+    height: 627
     title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
 
 related:
@@ -39,18 +37,7 @@ related:
       - url: https://mms.businesswire.com/media/20200113005538/en/767042/23/Global_CCTV_Camera_Market_2019-2023.jpg
         width: 1200
         height: 627
-  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 08, 2020 (GLOBE NEWSWIRE) -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted to ..."
-    publishedDateTime: 2020-01-08T13:08:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15093385/global-natural-language-processing-nlp-market-is-set-to-reach-usd-23-0-billion-by-2024-observing-a
-    ampUrl: https://amp.benzinga.com/amp/content/15093385
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15093385
-    type: article
-    provider:
-      name: benzinga.com
-      domain: benzinga.com
-    quality: 1
 
-secured: "1GbfMH3csGfwCV+aehXJw3avhzXg91DzBoP2SQJZZLc5s535+DyCsZ1EKKeOZW/tlrrt9GhPM0mESiIHtLbuRNzYn4r76uJC3E8rk5CFvRJpIrqRqMnNOWYw7Yi8qNcgcvPsmpq/MaPj7989PGDTkCwRdzZn1hWjcX97ptk/csOlQnTUjAhENRMayWmDpTn4dw40OQjhJyjtNOOa3nyGcISlRz71fVAWValDdE20QR4oNhOEBHOK+koYZfJbj9s1jkfADmba/XM4ZYyzk+wc7HONO6QgnywCGDiH1kpYXRMJkMYVVnYh3UVctH4MdkQB;Y94H+o6fYTdZGH/cmCtJgg=="
+secured: "2cqms8Q31XuiJxeodh49C15G7DbhCDWyZc6C5leZqNCzKjlKgEdDjZ3/RzTvu1705Uaao33N/wX5ISDfcG9pz1YGVJvBu8DqTvL11WexU6i5q0nMpuAKSrc3iQZgsShnkDodqTFcgvBQdW9yg7kh5Am34VtkjdJa1hgxxs69orPlqE1ebavSP31R5iLQQSAO2xSuBuiHiX08cTG3VlqRfZAQmP6JlJYle5n1u6V8Q4B8Av2m24c8XC9G2RV1wmE2Ym3/rdz4sTt6QRhIpc/YBIIv1RF8lr86BCNLQL9ddBTtzHzLg2E4peu2TIb65r1d;D2SCWc1hV8yY3xidT/MulQ=="
 ---
 

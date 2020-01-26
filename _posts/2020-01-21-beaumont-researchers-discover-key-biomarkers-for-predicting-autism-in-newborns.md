@@ -3,9 +3,9 @@ category: news
 title: "Beaumont researchers discover key biomarkers for predicting autism in newborns"
 excerpt: "A research team led by Dr. Ray Bahado-Singh — a geneticist and the chair of obstetrics and gynecology for Beaumont Health and the Oakland University William Beaumont School of Medicine — used artificial intelligence to scan a map of ... “Getting them into therapy early on is a proven way to make their path, and that of their families ..."
 publishedDateTime: 2020-01-21T22:13:00Z
-sourceUrl: https://www.candgnews.com/news/beaumont-researchers-discover-key-biomarkers-for-predicting-autism-in-newborns-116619
-ampUrl: https://www.candgnews.com/amp/news/beaumont-researchers-discover-key-biomarkers-for-predicting-autism-in-newborns-116619
-cdnAmpUrl: https://www-candgnews-com.cdn.ampproject.org/c/s/www.candgnews.com/amp/news/beaumont-researchers-discover-key-biomarkers-for-predicting-autism-in-newborns-116619
+sourceUrl: https://www.candgnews.com/index.php/news/beaumont-researchers-discover-key-biomarkers-for-predicting-autism-in-newborns-116619
+ampUrl: https://www.candgnews.com/index.php/amp/news/beaumont-researchers-discover-key-biomarkers-for-predicting-autism-in-newborns-116619
+cdnAmpUrl: https://www-candgnews-com.cdn.ampproject.org/c/s/www.candgnews.com/index.php/amp/news/beaumont-researchers-discover-key-biomarkers-for-predicting-autism-in-newborns-116619
 type: article
 quality: 40
 heat: 40
@@ -25,6 +25,6 @@ images:
     height: 338
     title: "Beaumont researchers discover key biomarkers for predicting autism in newborns"
 
-secured: "LfG+EjQoKrkF2kLiHyVX+8xxe56jE3btQvj+VHEecYf4ZSOgc8TrqEBfWgq9x1HaAXF+u2ATlZZv1XzKvadXH+JrY0YZgNyHtX/Ch4mG2NGnFCVouGilfSFxtveFZ8ZdC72Qeqfis9Qx9tCSidzGGXPXz/B/Wbn6u9icQEpAgg1MmKN7RnYCfwR3Q3oSXR5N/PXDvQVQXN41yqxAkimtpwt6ZnjcL8+EiE+UwsIf+HC8TMkrFb/67YrAFni6PQ5LQRY7Z0RxK/KPSZRdRGPTgmRT9RBx/clp1wfil0xJeZu/C/xrBbUSPDXL9t6tU3CQ3zWxkCmWX2HHIpAa9W8MqsIsaMFzv3Z8zy57EuK7txvSbmSupQOZzdB75w28KjwWbAXjS+B1Mnl7TGhYAjDXd+iRwujSmhQZSK1Pf5Rnsp0OIF8wp8rfJ/Z/02lO9c+Vk8hzbg+ApOnu6R2ItVQZiHZj8IXKSYz+WWLxyo7H6x0=;3/JI1mxR9w/RFo5xrYNd/w=="
+secured: "99Y784icL5UzKXG6aSuMgpQyd5f3HpctCJ3W3Lw7DH7S1TTTX1ITutzNyIsncDfUHxFesrnlM94z6dsdBW3BKhLYeLIsrTxesi7OEUZd4tzetRN1J5bYE8E8erxAydKOIWpghYfRb5mErGlJvslrjiK07dYgNfGKBzkbGoM55UX/PSZpzwJpoHJ5YAUa7dKb2VDYg82qDsPrRaMm+3ZzXsJPIs1nl0NCV1W/KAl+O0uCi7h0yBGd7Ga3ud3ZU0hT+eG+uicy/fUpb0/8kFwZl1zMAjsQDAxyhjQxQgV8riR/+fd4Dk0qCJBzf7+9n9kD;0/fLVpqIxJG9QYlre0PMBw=="
 ---
 

@@ -26,6 +26,6 @@ images:
     height: 675
     title: "A list of artificial intelligence tools you can use today — for personal use (1/3)"
 
-secured: "mtSbXldP7EVg2Fw+YKXMwKJNz+ZlC5itmCLP691+h+Mn52f51WFmcy3f96yMTM5dENJlVpQuXXgmqupgUYLKntzD1srQPc9m8jcUEKA9cAxwonGJNRhfU8RmZ8lEwXToVnIcSw9SoMDsiKHiqpnDXta+xoAQHwBr7cbZ4EUVH/A+RCVIpWmBQY+Km57/EzRsCEjuwAMCCOdtqngqX3TJSkmEc79/n1Q0fEeLjXWbz26MCA6Cq2ppglz3OXTVw5aNXAImHcg5M1OJLV3Usvk5l22OS9BXIKb2Af+Q2eCYEJaoIkwSuGJl1VNa0nWB8VJ3;yMQ2dXWRkbeS37sd0llyEA=="
+secured: "VZi89Lhkwy1r/oGUL5zIU/8V2LFF4V7kFKi8an7UyieVd3yW6pszdh8e37f96Dn4E7sO+5uQZFJ4HHn3P7emyQmX2jvsZP0/QH4PMQZHpPtY7I1cJFwTWqhqEt1Cl11i5Mb6+vkZjsUJTT4ANc8HeeWTkfOsf/KB5vwH+ur0LZiD7z/8wI1y5h/LW/UgSZwmOOp1xr45qv2dssvKfZxgF4lADuIyRVVnzlS3bzZHIjhUjRLas4sFTl4INteAulzeVAEKnfKUSC3K5/53gRpI/OmNWUjeXkhMOFSrbboEJL3v7BeVxOcawHR3UT22BsVJ3Ne45l3Jj5wVAn10eEw+RA==;h/Qd9sRstQVI5OQPCBzq+Q=="
 ---
 

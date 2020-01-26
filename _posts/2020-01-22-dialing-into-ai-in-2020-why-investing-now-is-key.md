@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Investing in AI: A Beginner's Guide"
-    excerpt: "Artificial intelligence involves the use of algorithms that guide machine behavior to solve ... and strength in AI have also helped the company to position itself as an early leader in self-driving cars. The tech giant's Waymo subsidiary is currently the only American unit that is testing Level 4 driverless vehicles on people who are not ..."
+    excerpt: "Advances in AI features should help improve the value of Microsoft's Azure-based services. As such, it's already established itself as an important role in the self-driving car space. NVIDIA's chips are also playing a big role in current applications of AI within the healthcare space, with the company partnered with General Electric to provide ..."
     publishedDateTime: 2020-01-24T19:00:00Z
     sourceUrl: https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
     ampUrl: https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx
@@ -38,7 +38,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 95
+    quality: 93
     images:
       - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=700&op=resize
         width: 700

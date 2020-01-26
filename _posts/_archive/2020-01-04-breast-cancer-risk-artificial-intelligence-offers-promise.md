@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-04T22:40:00Z
 sourceUrl: https://medium.com/swlh/breast-cancer-risk-artificial-intelligence-offers-promise-7c9a8e4a379
 type: article
 quality: 69
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     height: 1599
     title: "Breast Cancer Risk: Artificial Intelligence Offers Promise"
 
-related:
-  - title: "AI could monitor breast cancer"
-    excerpt: "The application of Artificial Intelligence (AI ... and improve the management decisions on whether or not to administer therapy, perform a surgical intervention, etc. Overall, then, this ..."
-    publishedDateTime: 2020-01-01T00:42:00Z
-    sourceUrl: https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.html
-    ampUrl: https://www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2020/jan/01/ai-could-monitor-breast-cancer-2083318.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/31/w600X390/AI_could_monitor.jpg
-        width: 600
-        height: 390
-
-secured: "FYCXSIbsnKIa0Ffs9c+Dy2KrQQwW2aB9NoL3qjTDXKxlLY0FDUTVEmQyzFjbK2mU3jzYKgy2ZAg16zp0T+YCBhxCXy3M2L389udMO9b8QBDFqf3XZLAEuOCJJlX83i2e65fAbc9j1fjSaLKpphLnOwltqo+KzIC6hIIOKlILHuatZTqORbtMsCGLelEAMbK50sbDeU7vOy2j61HVc0hkMfAgWmoyqfQrEVV89xiUtUZD5PD+AtqinAWRCnzYwZ0NoPSd9hxn+yz/oACnWXeITu7Y40H84EBPJLpSk3fJ8cf8A1VY63rbgjHz4iKcflk7;Vfe1FXjI1rTgHoTNxbhQ8g=="
+secured: "BioXAsVFX4mzRFabzM4zzeFBOaJCduoVVtGtN3MjCUBpQ1tna+FcvmRYm+KsOEA7KYZFecr1c7o78INmdl1O0bKy/Lm2f2FQXxDlUFqWj+RS1R96U2ffA5JYEZ92doQQzRcM0iwTLZaJI7fGbj37cOXhsVLtby70JVQDOP7tHw/L+F13FCF/EFBYHgejTKPOOMV6xpZ0QaBKmP+bYok6vYYmtztPy0GCMkqtYQPA9AAkG8ukOFrIdLmJBRIyJh9jrmVhm42URW26o8iMto6f0VQFYmU6xL3nW2uCn9ERrtMsE4zhToOdAbWOv4jj0LZm;UD37pnkLQbLWEYCRqX+G+g=="
 ---
 
