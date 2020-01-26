@@ -32,6 +32,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Neural Network Software Market Is Thriving Worldwide with Google, Neurala, IBM Corporation, Microsoft Corporation"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Neural Network Software Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Neural Network Software Market and factors such as driver,"
+    publishedDateTime: 2020-01-08T13:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-is-thriving-worldwide-with-google-neurala-ibm-corporation-microsoft-corporation-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Latest release: Automotive Artificial Intelligence Market Will Hit Big Revenues In Future | Alphabet, Microsoft Corporation, IBM Corporation"
     excerpt: "Advance Market Analytics released the research report of Global Automotive Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Automotive Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
     publishedDateTime: 2020-01-20T16:33:00Z

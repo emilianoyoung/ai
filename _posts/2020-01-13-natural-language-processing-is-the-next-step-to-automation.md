@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-13T15:10:00Z
 sourceUrl: https://www.finextra.com/newsarticle/35053/natural-language-processing-is-the-next-step-to-automation
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,14 +24,29 @@ images:
     title: "Natural language processing is the next step to automation"
 
 related:
-  - title: "Chatbots: The Next Wave of Construction Automation"
-    excerpt: "Thanks to advances in natural language processing, bots today can identify valuable information from everyday speech. Natural language processing is extremely powerful. Last year, Google released a voice assistant that is indistinguishable from a human. In this video, you can see the bot booking an appointment for a haircut with a real person ..."
-    publishedDateTime: 2020-01-16T01:41:00Z
-    sourceUrl: https://www.contractormag.com/technology/article/21120618/chatbots-the-next-wave-of-construction-automation
+  - title: "The Self-Driving Enterprise And The Road To Automation"
+    excerpt: "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes."
+    publishedDateTime: 2020-01-09T13:09:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
     type: article
     provider:
-      name: CONTRACTOR
-      domain: contractormag.com
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
+        width: 711
+        height: 461
+  - title: "Congress Needs to Hit the Accelerator on Self-Driving Regulation"
+    excerpt: "America’s self-driving future promises a multitude of benefits. Most importantly, autonomous vehicles are the key to safer roadways by reducing traffic-related injuries and deaths. Human error causes up to 93 percent of traffic accidents. Autonomous vehicles, on the other hand, won’t drive while distracted, tired, texting, or inebriated ..."
+    publishedDateTime: 2020-01-13T21:01:00Z
+    sourceUrl: https://www.industryweek.com/the-economy/article/21120385/congress-needs-to-hit-the-accelerator-on-selfdriving-regulation
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
     quality: 4
 
 secured: "m1DSVQrulmoYMW5zt1GVAFIqWQ3DrLGDCT9aUJQhLd5UqXnpHgbphcXl9g5NgvKS388g+buE6002u+e0zHNw6ajNqk8DCoaVlcGchXixOTs2vtxk7s3p5ehliWs0TZwtl4EchPL3O9tzT7m8qFmTlmPGwcR/k3X3kYCjVWcwvFaiYmtZ1Erodj+xvgB6I0wP0LkuAR3oBMo1TI6KaYaw+5QyjZU7ClWEX1uhPLcob1zEBIuyJYe8WQRixyY0Ew6iSgyVg2wfGwmfknvWzqULLLU95GtrCSD+DS4dddexcPh79LF8fT17tIFQJ9JEe1Wv1xoQfzMeBSb5wFpDWJOdoTuMDQgivyjMYQuA8Pz9xPoiNU/h98S9OVJ/sWxsEemOhsY3WqtnXEZHGUFOrAq+o+imKc4+0qzjA5MVvZmt1XTYRpGH6svqR4p+xX1fx4P8Ck+3FB1h+goLtIQnCCAF9g==;oZ6/PCaiZxVhvYcNKtu8xQ=="

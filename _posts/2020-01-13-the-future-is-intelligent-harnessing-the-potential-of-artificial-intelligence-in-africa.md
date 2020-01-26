@@ -8,7 +8,7 @@ ampUrl: https://www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-
 cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/africa-in-focus/2020/01/13/the-future-is-intelligent-harnessing-the-potential-of-artificial-intelligence-in-africa/amp/
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 6720
     height: 4480
     title: "The future is intelligent: Harnessing the potential of artificial intelligence in Africa"
-
-related:
-  - title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
-    excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,"
-    publishedDateTime: 2020-01-06T19:54:00Z
-    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
-    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg
-        width: 1181
-        height: 663
-  - title: "The Self-Driving Enterprise And The Road To Automation"
-    excerpt: "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes."
-    publishedDateTime: 2020-01-09T13:09:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale
-        width: 711
-        height: 461
 
 secured: "FN5bTg5ZxeAC3kCkhesaXKv3Sh64bCg3SmlAC5Ct/f5SNs3tLdxdPgO5b7N5E5GuFAfW7WWdS51ut2srFqP98KtucCYzdcWKDGE4JlaW9J67MyV77erFHWPyfq2l7m9YnyywmdQ9iHTww5takCzxeR1nitAf2L9T3B79XPg1P3M5Rr1gtpUEnEhRzJ7ZRXUPteFHJo7gnYFx/D3FyOzJO/IOOWZZD4mIc+x6wI4Oia6ejqitUWuZZ03JvU106scL/cR97RLDV2z0jsaeVjSFIVvA3Fp7TczjWVYooBxraEL2EOgnxxGBSqSVKBl67IKXBf8LoKEeLK8/eTnQxugy2Mx5566mLGgCzcjnuSrYbdL1tEnsnZDxqFd5G82MRWomBXpHaZMtRLqrVkHyyfxlCw2aCUI+dI6gH7kx9fMMz5w5O1usmmgepn1pPFj2c3N2UkRl26wZKdlkmVuoVirNag==;kn8QvSiL+pSjqOpv/QvUuQ=="
 ---

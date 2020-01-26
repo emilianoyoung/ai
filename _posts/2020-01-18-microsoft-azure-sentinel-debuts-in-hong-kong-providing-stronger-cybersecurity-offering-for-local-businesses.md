@@ -95,6 +95,17 @@ related:
       - url: https://itwire.com/media/k2/items/cache/a7e505a9a64889d099be0ccb44f806fe_M.jpg
         width: 375
         height: 375
+  - title: "How artificial intelligence will change HR in 2020"
+    excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
+    publishedDateTime: 2020-01-26T20:45:00Z
+    sourceUrl: https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/
+    ampUrl: https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 37
   - title: "How Automation and Artificial Intelligence Can Boost Cybersecurity"
     excerpt: "And while there are many tools available to stop them, there is a lot of space for improvement. Especially if you take automation into account. Machine learning and artificial intelligence are playing a significant role in cybersecurity. Automation tools can prevent, detect, and deal with tons of cyber threats way more efficiently and faster ..."
     publishedDateTime: 2020-01-20T22:45:00Z

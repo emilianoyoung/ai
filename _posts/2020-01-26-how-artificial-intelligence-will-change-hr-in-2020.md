@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Artificial Intelligence in Cybersecurity Market is anticipated to grow at a CAGR of ~22.3% from 2019 to 2030"
-excerpt: "Market Industry Reports (MIR) has published a new report titled \"Artificial Intelligence in Cybersecurity Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2030.\" According to the report,"
-publishedDateTime: 2020-01-23T12:53:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-cybersecurity-market-is-anticipated-to-grow-at-a-cagr-of-223-from-2019-to-2030-2020-01-23
+title: "How artificial intelligence will change HR in 2020"
+excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
+publishedDateTime: 2020-01-26T20:45:00Z
+sourceUrl: https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/
+ampUrl: https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/
+cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/
 type: article
-quality: 48
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Artificial Intelligence in Cybersecurity Market is anticipated to grow at a CAGR of ~22.3% from 2019 to 2030"
 
 related:
   - title: "How AI Is Improving Omnichannel CyberSecurity In 2020"
@@ -55,6 +47,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e25c0dd8b6cf300071c7e19%2F960x0.jpg
         width: 600
         height: 315
+  - title: "Artificial Intelligence in Cybersecurity Market is anticipated to grow at a CAGR of ~22.3% from 2019 to 2030"
+    excerpt: "Market Industry Reports (MIR) has published a new report titled \"Artificial Intelligence in Cybersecurity Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2030.\" According to the report,"
+    publishedDateTime: 2020-01-23T12:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-cybersecurity-market-is-anticipated-to-grow-at-a-cagr-of-223-from-2019-to-2030-2020-01-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "What Is AI and How Can It Improve an Organization’s Security Posture?"
     excerpt: "and translation between languages.” Gartner states that “Artificial intelligence applies advanced analysis and logic-based techniques, including machine learning, to interpret events, support and automate decisions, and take actions.” To summarize, AI in cybersecurity refers to a set of capabilities similar to human abilities that allow ..."
     publishedDateTime: 2020-01-17T14:57:00Z
@@ -81,17 +86,6 @@ related:
       - url: https://itwire.com/media/k2/items/cache/a7e505a9a64889d099be0ccb44f806fe_M.jpg
         width: 375
         height: 375
-  - title: "How artificial intelligence will change HR in 2020"
-    excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
-    publishedDateTime: 2020-01-26T20:45:00Z
-    sourceUrl: https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/
-    ampUrl: https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 37
   - title: "Microsoft Azure Sentinel Debuts in Hong Kong Providing Stronger Cybersecurity Offering for Local Businesses"
     excerpt: "The latest SIEM and SOAR tool combines the power of Azure and AI to reduce alert fatigue by 90 percent January 16, 2020, Hong Kong –– Security can be a never-ending saga — a chronicle of increasingly sophisticated attacks, volumes of alerts, and long resolution timeframes where today’s Security Information and Event Management (SIEM ..."
     publishedDateTime: 2020-01-18T15:26:00Z
@@ -115,6 +109,6 @@ related:
       domain: roboticsandautomationnews.com
     quality: 17
 
-secured: "pXngm8aAW0kNHtbnf9krKA0dRy25prtoirpV+14jIbwAqtZx4qRbjWEQ4jXi7nLAmhKNc3ok8Zv32cwo93Qj3Bd2/aKRWFfTWwjtT4MA4GO05fJ/9opJ1+Z73HbJkhLcDqUDwRXWxaOWwOBmVhKwzRzSBNqDQX72pf/o3rqkW9tvUUz1ySqoz884+HwOeRA6Z2jcrUj8rhTpre+S32jlJLXJ6zcmKlvps2zCuFiFT9QvsVfIIvKumvzLwOCvhvW/cDMClbYX2ABWD4SO5C/lPaZFT1Ym1zYuHbDvwPemE4PE4ybegsOYQG8qa/pjPALY;uaQxIHsfT8RnrvMUpxoSuQ=="
+secured: "s2qnMesoob4NKc9PsxuZBEx4h4aRSTUYB1h7RMKDZrORZVmqLABxCra/QelFPYdv6bl+4hA/sHFicC50kaCpCdh1y93fu5juIE8w9Pu38jRWPiNCD9W+Js14UqJDHyqdayuJxQTfmX210WxIY42BNbb8LD/DWy8JXPnXZTvTKvDJotsCNoE4gTWBIQxpoKxEhZVDhyZwHWhVmlWz7l9nGB15W+qAdg+4cULGXHOqiMTZkrXZTaHx4AT6Yz3U4UThJo8lrSWfH3311eIdbomBlaYvzMl7gGrUNgxdq6wmmRpZAov0ia7wGxPikAvYVBkVszu+/kByPYAQX+Ve+i/y6GLsZSzzu/6ZhCO6xeD/BBGjiHAgSCRtEqmTPB/87ZOYDQZV+IXxNpbJEVfiB3KFApYizikgOh5IVn0Y+SdkKbPLWhojrm0PDaXuXUIwuQRfkcdgukjDx19HLXKWAl7+btj+O9fdx3dSjA9oeE43DwQ=;HcXaoOyLpMutiMKP/UAXXw=="
 ---
 

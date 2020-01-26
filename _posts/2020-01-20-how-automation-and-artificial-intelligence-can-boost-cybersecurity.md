@@ -84,6 +84,17 @@ related:
       - url: https://itwire.com/media/k2/items/cache/a7e505a9a64889d099be0ccb44f806fe_M.jpg
         width: 375
         height: 375
+  - title: "How artificial intelligence will change HR in 2020"
+    excerpt: "As technology is evolving, so is work culture. With the rise of the gig economy and decentralised workspaces, employees are beginning to look for meaningful work experiences. This year, HR will step back and invest in solutions that enhance employee experience, going beyond looking at just productivity and efficiency. Seamless learning ..."
+    publishedDateTime: 2020-01-26T20:45:00Z
+    sourceUrl: https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/
+    ampUrl: https://www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-will-change-hr-in-2020/1835699/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 37
   - title: "Microsoft Azure Sentinel Debuts in Hong Kong Providing Stronger Cybersecurity Offering for Local Businesses"
     excerpt: "The latest SIEM and SOAR tool combines the power of Azure and AI to reduce alert fatigue by 90 percent January 16, 2020, Hong Kong –– Security can be a never-ending saga — a chronicle of increasingly sophisticated attacks, volumes of alerts, and long resolution timeframes where today’s Security Information and Event Management (SIEM ..."
     publishedDateTime: 2020-01-18T15:26:00Z
