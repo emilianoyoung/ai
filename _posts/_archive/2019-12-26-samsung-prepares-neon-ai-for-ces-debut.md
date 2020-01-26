@@ -29,6 +29,6 @@ images:
     height: 1201
     title: "Samsung Prepares Neon AI for CES Debut"
 
-secured: "FKXFliS3j7Hn2onrT66wUz1fKrex6L91BMYRtl5rq9OMjczNZqbY+o3KhGNNPCXuV/gdWGwqRxUjPz2cKqiz2fUi69w4Elkw7r9WoMg9tx5u69hxSQIGjn3Tpccd1aHiP5u1Yl9hd1nG3N/7juw6QBgFbgpFlW+ldGicBBZG8K8Ejy/79IuGrhJW+/6p3zsQaZZzjqPbHulYjgf4s4up88qULvA4b9pjlLDxbp+loXVnk9f9t5QlXFYV+c27qlybTFRC5ZGj65A7PNmVWnRbJ/3D0VIE5QhEN/GbXmuMZb1r9t2IAtrhITeOQhrr5bdi;BXk6KEUH8mPtnMhbNGCgKg=="
+secured: "2qZXojueuv03Bm9UQk1qqpZYDw7x0MpfcG00QYO8HNhXYyG0iObVNMitKebJi0+z1+nb7UkeSsVp6QjBED7otMht1p9bN/1TZ1bio8mO5GjA2IqdteGYok0YUPerEKYKuyAlsRF0ZSENbxoe807aKzrRFRqGnZOtpZyLAQXyqle2F1bhh02Eyuve2w7IHu7ALVVKo9LZp42fgX5DPufZMBYF+ga3qo+XCwwP7fbJAPAyYeB8vfKJMhbcNzE8uZCFNATVQJbyRLYGQhapTzsjoVovg5JNhr1oMMu/8IsDrSDYhvSvMDIUfGGNATtgn/1E;1AT1Cm6isLF3ev8NXEX33Q=="
 ---
 

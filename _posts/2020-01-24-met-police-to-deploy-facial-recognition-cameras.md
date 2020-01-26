@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Met Police to deploy facial recognition cameras"
-excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of wanted suspects and ..."
-publishedDateTime: 2020-01-24T11:41:00Z
-sourceUrl: https://www.bbc.com/news/uk-51237665
+excerpt: "The Metropolitan Police has announced it will use live facial recognition cameras operationally for the first time on London streets. The cameras will be in use for five to six hours at a time, with bespoke lists of suspects wanted for serious and violent crimes drawn up each time. Police say the cameras identified 70% of suspects but an ..."
+publishedDateTime: 2020-01-24T11:38:00Z
+sourceUrl: https://www.bbc.co.uk/news/uk-51237665
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -631,6 +627,21 @@ related:
       - url: https://s3.amazonaws.com/campusreform/14269/bigstock-Simulation-Of-A-Screen-Of-Cctv-285169480.jpg
         width: 903
         height: 600
+  - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
+    excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
+    publishedDateTime: 2020-01-24T22:12:00Z
+    sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
+    ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+    cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 35
+    images:
+      - url: https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
+        width: 1200
+        height: 800
   - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
     excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
     publishedDateTime: 2020-01-24T23:06:00Z
@@ -717,6 +728,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "ABdtB+NOV3BE1jJNnFdM1vL0S/I29cMyLqrX0RxNvCplL7L8xAWhHkT0wzqI0dl5o1BpJk4AZ30Stclnt8zRyWhpYbvDYsrY+TY66RAz/RHJci6HxPJeflVDtUTIpraWbTq/C/X4WJAzICF96Ve30bjTl+pKBi8UTs+OgFV7dNCCaOh70EC/QzHkpeJ1/JRB8hcINCm40sIGBbxxJsI7d1dGGFW3/vhjmv6MOM6hy4rhLLJTWqWwDZ43BD2b/XzqH2taj3/i0scHVNb7roAeB+kPapC/yHlk1R5qUhWVWfygnIHYqhiLiV85whKcVuhQ;5hdIl70at194n7bbYcvNqQ=="
+secured: "jIT7/5Ju/9Yax4ukZ+hFqKX7V9YrOgVfmJu3fNwkKPGARJ8dWSPxqM2/RWEwnSRjLehDFN2TnOtgn1Q59JYIu1Qv16bik9JOGFaWI9APfIDscvKxrEsLj0KhWAmfcY4z8mSnnBxiviwYPbykO/sU3GO1JHldWxGvN9A7ACzMGbUSZfyv1kw2y+eUbDsiAm5yBaCf9ByDRdzrVDQVURQ1YR5Y09JF7s6YQpSxmbrSFWl/EMD3WRxatQDeiVg5xWmrxGgvYO5gyN08cUsZsOZvkjjKLM67GpiCvrzZjVC/hEq+pD3NEPu28kUcGVsmJVTG;2kGKEL2t+O7dRiLLV2pO4g=="
 ---
 

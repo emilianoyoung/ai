@@ -1,29 +1,29 @@
 ---
 category: news
-title: "London Police are setting up live facial recognition cameras and people are not happy about it"
-excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
-publishedDateTime: 2020-01-24T18:11:00Z
-sourceUrl: https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/
-ampUrl: https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/
-cdnAmpUrl: https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/
+title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
+excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
+publishedDateTime: 2020-01-24T22:12:00Z
+sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
+ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
+cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
 type: article
-quality: 47
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: KnowTechie
-  domain: knowtechie.com
+  name: Sun Sentinel
+  domain: sun-sentinel.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg
-    width: 1528
-    height: 900
-    title: "London Police are setting up live facial recognition cameras and people are not happy about it"
+  - url: https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
+    width: 1200
+    height: 800
+    title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
 
 related:
   - title: "London police deploy real-time facial recognition cameras"
@@ -447,6 +447,21 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 47
+  - title: "London Police are setting up live facial recognition cameras and people are not happy about it"
+    excerpt: "London is already the most camera-crazy city outside of China, but now some of those cameras will be running facial recognition software as well. If you’re on one of the many “bespoke” watch lists held by the Metropolitan Police (the Met), cameras in tourist-heavy areas will be looking out for you. They’ve been trialing the system for ..."
+    publishedDateTime: 2020-01-24T18:11:00Z
+    sourceUrl: https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/
+    ampUrl: https://knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/
+    cdnAmpUrl: https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/london-police-are-setting-up-live-facial-recognition-cameras-and-people-are-not-happy-about-it/amp/
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 47
+    images:
+      - url: https://knowtechie.com/wp-content/uploads/2018/11/security-cameras.jpg
+        width: 1528
+        height: 900
   - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
     excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
     publishedDateTime: 2020-01-21T19:10:00Z
@@ -627,21 +642,6 @@ related:
       - url: https://s3.amazonaws.com/campusreform/14269/bigstock-Simulation-Of-A-Screen-Of-Cctv-285169480.jpg
         width: 903
         height: 600
-  - title: "London police are taking surveillance to a whole new level, to start using facial recognition to spot criminal suspects"
-    excerpt: "London’s police department said Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China. The decision is a major development in the use of a technology that has set off a worldwide debate about the balance between ..."
-    publishedDateTime: 2020-01-24T22:12:00Z
-    sourceUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html
-    ampUrl: https://www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
-    cdnAmpUrl: https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-nyt-london-facial-recognition-surveillance-20200124-dbgm2lc2ezcx5i5vssh35jkvam-story.html?outputType=amp
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 35
-    images:
-      - url: https://www.sun-sentinel.com/resizer/JWw4oWSSzU1KnkDFxSfTwAIh7XI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5K7NL5R2ENFQFBCYE7MGEEKD2Y.jpg
-        width: 1200
-        height: 800
   - title: "‘Orwellian state surveillance’: Met police presents facial recognition cameras on London streets & faces backlash online"
     excerpt: "The London Metropolitan police have announced that they will be deploying facial recognition cameras for the first time on the streets of the capital within the next month, prompting fears the move will erode civil liberties. Met police say that the ..."
     publishedDateTime: 2020-01-24T23:06:00Z
@@ -728,6 +728,6 @@ related:
       domain: pymnts.com
     quality: 19
 
-secured: "XsLd38skTTAP5QL/x3APOJDWgPTDBZJORtAL9YHwJS0vjvN6pXn3OeTt7vd4g3WN1lp4vSL1ThHUVyDokOZHWr0yQeY3ldY32ajIFauUYfyOmbXawjKy9uE++CwF2ZxCao3YuHV2oHIMT7GZTt1kSv7TUt5qqd1/+GTrkVBsJ7KYy95zkv+K3JIcIF2w2AIJakMAAovxD1DkzECdUFAedlYLFBbiyxlYJEqqgPubReymZge4XhI+tveDDHNN5/BvhUgBzPrh6AvoU9A3xfusSsMAngqQI8GLRr118uRmENjgiQssvthzw7A3FLNp71uq;SMyjPVthamWplObb1xtr8g=="
+secured: "eJRQQRYU1t+rIlXmECxhtHUf5a/B51MLTJhwcuMnqUF1oEuvrkgJDKDQRP/KYqTo6Hl4dNVFc2LtAliXGJIEsZf7z409l8HC7GJcZzdc7csB6b8A34SDXV+/4eS1F7/KeB0ABSWsuM9BWQOEExENfSwz3fQpA4pF7cvz7YrqJUPHd1AqesWFdIlAkM6oAPQEcm/3jdKI+gplmfcPWkAQvu7YhymbISUGbDRgMw/CtMtU3ASqRVhzR9l6kxIxhon4v2PJIPLYiYmQFbl+eT6CNlSh/RgdTj8hvE7STreWEgL3Yq+/r5PhGSHafVpoHAIy;memsWQEWxrHP1UodZ7+Dcw=="
 ---
 
