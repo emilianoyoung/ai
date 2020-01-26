@@ -138,6 +138,21 @@ related:
       - url: https://www.pcmag.com/images/pcmag-social-share.jpg
         width: 997
         height: 1201
+  - title: "Facial-Recognition Technology Doesn't Have to Destroy Privacy"
+    excerpt: "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand."
+    publishedDateTime: 2020-01-22T16:09:00Z
+    sourceUrl: https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy
+    ampUrl: https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true
+    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
+    images:
+      - url: https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg
+        width: 1028
+        height: 578
   - title: "Facial recognition tech to find the Holocaust's lost horrors"
     excerpt: "An old photograph and modern face recognition technology could help two Israeli brothers find out how their father survived the Nazi Holocaust. Francesca Lynagh reports."
     publishedDateTime: 2020-01-21T16:01:00Z
@@ -151,6 +166,21 @@ related:
       - url: https://static.reuters.com/resources/r/?d=20200121&i=OVBX4GGOB&r=OVBX4GGOB&t=2
         width: 960
         height: 540
+  - title: "UPDATE 1-Alphabet CEO backs temporary ban on facial-recognition technology over misuse worry"
+    excerpt: "BRUSSELS, Jan 20- The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes."
+    publishedDateTime: 2020-01-20T14:54:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+    images:
+      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
+        width: 1200
+        height: 630
   - title: "Alphabet CEO Sides With EU on Facial-Recognition Tech Moratorium, But Microsoft Isn't Convinced"
     excerpt: "Alphabet and Google CEO Sundar Pichai recently came out in support of a European Union proposal for instating a temporary ban on facial-recognition technology until officials beef up privacy regulations. “I think it is important that governments and regulations tackle it sooner rather than later and give a framework for it,” he said Monday ..."
     publishedDateTime: 2020-01-21T01:35:00Z
@@ -372,19 +402,6 @@ related:
       - url: https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg
         width: 900
         height: 300
-  - title: "Software Detects Backdoor Attacks on Facial Recognition"
-    excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
-    publishedDateTime: 2020-01-16T15:04:00Z
-    sourceUrl: https://www.defensemedianetwork.com/stories/software-detects-backdoor-attacks-facial-recognition/
-    type: article
-    provider:
-      name: defensemedianetwork.com
-      domain: defensemedianetwork.com
-    quality: 39
-    images:
-      - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
-        width: 1500
-        height: 844
   - title: "The EU might ban facial recognition in public for five years"
     excerpt: "The news: The European Commission is considering a ban of facial recognition in public places for up to five years, with exceptions for research and security projects, according to a white paper draft obtained by Politico. (The paper does not specify what these projects might be.) The idea is that the temporary ban would give researchers and ..."
     publishedDateTime: 2020-01-17T16:57:00Z
@@ -474,6 +491,15 @@ related:
       - url: https://www.independent.ie/world-news/12217/38869626.ece/ALTERNATES/h342/PANews_P-0a107241-55a5-458e-b5f7-aff1c8748256_I1.jpg
         width: 608
         height: 342
+  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
+    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
+    publishedDateTime: 2020-01-21T04:43:00Z
+    sourceUrl: https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 19
   - title: "Alphabet, Microsoft Disagree On EU’s Proposed Facial Recognition Ban"
     excerpt: "Microsoft President Brad Smith doesn’t agree with Alphabet Chief Executive Sundar Pichai’s backing of the EU’s call for a temporary ban on facial recognition technology, Reuters reported on Monday (Jan. 20). Pichai pointed to the potential for “nefarious uses of facial recognition” and favors a moratorium, pending regulations."
     publishedDateTime: 2020-01-21T05:18:00Z

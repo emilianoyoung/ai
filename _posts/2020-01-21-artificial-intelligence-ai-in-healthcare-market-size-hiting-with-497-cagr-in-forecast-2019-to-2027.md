@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T06:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-hiting-with-497-cagr-in-forecast-2019-to-2027-2020-01-21
 type: article
 quality: 83
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "Collaborative robots are designed to work in direct cooperation with humans in a well-defined ... This market report segments the global artificial intelligence market in manufacturing industry by application (predictive maintenance and machine inspection, production planning, quality control, and others) and geography (APAC, Europe, MEA ..."
+    publishedDateTime: 2020-01-14T07:47:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-manufacturing-industry-2019-/2020/01/14/9080753.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "ijJKC5DDqTgOy7ot6HJp3K4DzwiwwPgYUreXEVmPKyfeIdYkegdbtl8Yp3Ba3GBT8GAZZ1JgpXXpkgvx41kMK57dBss1uiWP1m7fgsiQrpZrJdR+O7DdbtlDKEWZCM0w4ntupG0tNVk1hB8pqhIspEQ0cQf1sXbgkmstczMpKem6SUtZE/AXdS6ew9WcfhvMPtxuVoUoJ1kwqUOb2t/0Xitez9Zf4rfpbMyALtsnsHxhVTI18xilLlV3nuLctjIVcFKLoGv9hFTUmoznr8YnzUL1EdrFryTkCx9uKXUK3gc=;uqaGc94DRCPXNlaT57LKaQ=="
 ---

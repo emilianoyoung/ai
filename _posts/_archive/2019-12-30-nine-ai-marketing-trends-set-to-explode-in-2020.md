@@ -4,12 +4,10 @@ title: "Nine AI Marketing Trends Set To Explode In 2020"
 excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing ... According to our recent research, 65% of consumers expect that within five years marketing ..."
 publishedDateTime: 2019-12-30T12:50:00Z
 sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
-ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes
@@ -23,29 +21,26 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
-    width: 1200
-    height: 580
-    title: "Nine AI Marketing Trends Set To Explode In 2020"
-
 related:
+  - title: "Top minds in machine learning predict where AI is going in 2020"
+    excerpt: "If you’re interested in taking a look back, last year we spoke with people like Facebook AI Research chief scientist Yann LeCun, Landing.ai founder Andrew Ng, and Accenture global responsible AI ..."
+    publishedDateTime: 2020-01-02T14:16:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "AI creativity will bloom in 2020, all thanks to true web machine learning"
     excerpt: "TensorFlow.js is great new creative tool in the developer's arsenal. Machine learning has been trotted out as a trend to watch for many years now. But there’s good reason to talk about it in the ..."
     publishedDateTime: 2020-01-02T08:05:00Z
     sourceUrl: https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/
-    ampUrl: https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/
-    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/
     type: article
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 88
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design26-796x417.png
-        width: 796
-        height: 417
+    quality: 48
 
-secured: "AbZGUtdo7FMOimtIbhD/Cc4ztEgvyIb+iCYGbBJOe3g41iQYMif6dWyfFhee6sON8Ux3G/UOl1cJUIgpOyeKXuG330Z4Xq3CZ+mpn/sG1WTyMUIrH1143Kro3maWMMIbx4SV0M0enD099745uJmqSZzsHJX+h1qH63vbAW3ixfcuAP0QGSOFuKqEqjwSP7UxF77dpxwJFbHB5ciGb837BTIgZr48iFiciUgrBTcwSZ/1pqT8EpqgMWTGWGp+WXTbvLNVy/F+j+NfvU1/11FllPCD6aY3TJ9p61gkGSLE6P1jYi3a+RQuTdTds38sHymY;kHyQveXXKQInXMrmzudSnQ=="
+secured: "ztJ077ap4kqk3k/3UHz9dQ8vBAL69pkOD58qzCVnYIdLIM1bfgLpTAQPbcph2FWPlGinlRLiQmXv3jRg2POkulwt8/hJXPMi13/dwCUlwiVczOxz+IkNx8UY/7xQICEvfa84ToJEEHEi3iFEVooXpSMjPJ5uZs4qYydZpMEdmn81AW/EciFPDono1wsgR7vRDvMGCDdfBpzPR995SiqGQbXAj7mVFks12YaXKvSaK1Ue5+HLdcsfPZsXZnBgjDzoZUDWn9DWE1OuCV2G4DF0c4zr34+JsPeWlxknGKsI7pfEOXUWFmmorLZI4L34pYKp;4Q8pgqJniJjMEuar78tK6w=="
 ---
 

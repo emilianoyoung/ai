@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-20T12:39:00Z
 sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -18,15 +18,15 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Automotive Artificial Intelligence Market Exploring Future Growth 2017-2024 and Key Players - NVIDIA, Waymo, Intel"
-    excerpt: "The updated research report on ‘Global Automotive Artificial Intelligence Market’ offers real-time information with key insights on product specification, customers’ requirements, and details on competitors. Market Growth Insight also delivers customized reports on specific category. Artificial Intelligence uses various computer functions ..."
-    publishedDateTime: 2020-01-22T11:06:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/
+  - title: "Unexpected Growth Seen in Natural Language Processing Market Comprehensive Evaluation of the Market via in-Depth Qualitative Insights by 2027"
+    excerpt: "is expected to drive the growth of the natural language processing market. Increasing investments in the healthcare sectors, rising placement of the cloud-based, and web business applications with growing machine-to-machine technologies are additionally fueling the growth of the natural language processing market. The “Global Natural Language ..."
+    publishedDateTime: 2020-01-20T20:23:00Z
+    sourceUrl: https://www.openpr.com/news/1901741/unexpected-growth-seen-in-natural-language-processing-market
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 12
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "k9cpkBI3XCX6SF8j8LgwZgZjzJVRc36jMUgDRxncI/JTSpUoVZNc2pgg6xNxCJ9vi9ipjfnQ4v4AIL8TvPzRtpq6vvCOqXcs32xkUlMxe/4Bd9psag/Zl7tOlQTlx9qScOS05ZnS4ZtTw1FUFuvOeMJml5kwIeppH5zxBI55mOWCszoQTey/lfHtZxMmsXIRTHXpgzCicQ3Yza/oIsYYH+t+VCv/cvyiX34UMt2E7+kAIkMiBKYPTm944U0jmBUQrrR7QEIE21+oalq2KDS/Cfmxo2BsA95wb/WgJnXPD5Q=;5JIKGNjgYLLku9jrvx+LKg=="
 ---

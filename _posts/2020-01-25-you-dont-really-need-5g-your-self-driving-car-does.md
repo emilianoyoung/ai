@@ -24,17 +24,21 @@ images:
     title: "You Don't Really Need 5G, Your Self-Driving Car Does"
 
 related:
-  - title: "The Hype of Self-Driving Cars Gives Way to Reality"
-    excerpt: "However, achieving that last goal has proved to be more of a challenge than engineers originally thought. On the congested streets of Las Vegas, I sat (helplessly) in the back seat of a self-driving Prius, watching as the wheel sawed back and forth in front of the empty driver's seat. It steered us through multiple left turns — inches from ..."
-    publishedDateTime: 2020-01-23T21:32:00Z
-    sourceUrl: https://www.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html
-    ampUrl: https://feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
-    cdnAmpUrl: https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/auto/trends-lifestyle/info-2020/self-driving-cars-future.html?_amp=true
+  - title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
+    excerpt: "Apple wants to patent a new technology that would allow you to use voice commands to tell your self-driving car where you want to go, with the car doing the navigation, driving, and parking for you. The end result would be a Siri-like system for controlling your self-driving car. The patent application, titled “Guidance of Autonomous Vehicles ..."
+    publishedDateTime: 2020-01-23T19:24:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/
+    ampUrl: https://www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/new-apple-self-driving-car-patent-could-turn-siri-into-your-personal-chauffeur/?amp
     type: article
     provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/lexus-rx450h-apple-smart-car-press-image-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
 
 secured: "2ZaT5MtI3kho1zGs0y519BaJYCuJDTYSa6PmsvXKsL+eH3jo8vFZ8Rb4ih04ANGxI35UG5hBf4iRDYK645N838DWcd1ZRrR3HDIMK7P4IAB68DBWdavjITlAUFXZj0a1zsxMAJwCROplQhvjnod+ZWTv30LknY41dQrrOxfQ/WEcKCwGWrjPu3vVjGTHiDFgiHHhhAy/8zKSH3nFLXyp0dencd+dIURyOGTiWHSgA43wU006+wBhlgHHIez19QcRcqas/4GIwjWjjUmTuHVzCNnJrjUOC2cj+3YmCarmM4MV6U8GtPLM1yaRWjp4Cbl1Z9IOLp3DCih+cZv5B3Z8Qgs7FcdMo8WCrGgmCjIj2pingSAi9hC85MD+7zvlJ8O2SqYcrzHTuvZCzM5uYd9+KaMz5xgSf5DyJauXaHQEaf9c30Ylw293IZFh/v1UssFfetFzeFsqMF3fDQHprgzwGJ2teMuZOlLUmHhjzPcFstg=;cnnl0YQe76WVymn0e2M71g=="
 ---

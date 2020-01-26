@@ -76,6 +76,17 @@ related:
       - url: https://www.cnybj.com/media/16828/revitalize_download-square.jpg
         width: 625
         height: 521
+  - title: "Visit Health: This AI-driven platform helps patients consult doctors"
+    excerpt: "So, to tap into this market, we brought a new concept by providing insurance for OPD,” explains Prasad. Visit Health: This AI-driven platform helps patients consult doctors Fintech Trends: Mobile-first approach and data science are giving a fillip to fintech Flashback: Jeff Bezos reveals first question investors asked him before funding his ..."
+    publishedDateTime: 2020-01-19T19:45:00Z
+    sourceUrl: https://www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/
+    ampUrl: https://www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
 
 secured: "UMMqQ6kGmdBnDv4aV2jkHWBSBDnS3ErjhFuVSp0CHrq06wbCL/K0zCXH2L/nTO82+MDqDVoSFB/knhBumwd3hS7Ygp2YBsRBSjgPvOVjVVaEoD0wkgirnRqpCrsIKXnbPbn+oPo5MmyJCHp9SGJ8PliCfYupr0x8bXHEisIG+dJoOKULVvTyglMjE/i16cBJ3v4Q/bfXjb3S56xdAH4IOuRLQbjvtbPHh2rjW+31wXVvswAPq2rUGbBT6tSO57DLJUdSuZKt5UDL87dl3Q9uDchwrHtB0aVZIelZmXn+Pavq5ZYGtDv2zB7nI6IyysilYmv6WGz9wJWz4oCUoAiq7LbtzOJmRvhFz3Yxk4ZcNbZY0xKHpyaDSGlD5AqtsGC5m8MrcLud/8xs/zf4k1IqBZvHkHsj7wq3snQuAHKH7wDqX9NvPfcV4tVdD+YUS0OoomVEAb2VpYzOs8Lxzw1tsA==;aVjLLyJvV1c3bkjiPn2F2g=="
 ---

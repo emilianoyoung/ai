@@ -104,6 +104,19 @@ related:
       - url: https://d6jxgaftxvagq.cloudfront.net/Pictures/2000x2000fit/6/2/5/10625_fintech_808774.jpg
         width: 2000
         height: 1333
+  - title: "Fintech-focused accelerator NadiFin opens to applications"
+    excerpt: "Applications for the next instalment of the fintech-focused accelerator known as NadiFin have opened ... NadiFin focuses exclusively on cutting-edge fintechs that use artificial intelligence (AI), machine learning, big data analytics, blockchain and other “deeptech” tools to create solutions for the financial services market and are ..."
+    publishedDateTime: 2020-01-16T05:52:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/fintech-focused-accelerator-nadifin-opens-to-applications-1.4140626
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: https://www.irishtimes.com/image-creator/?id=1.4140625&origw=1253
+        width: 1200
+        height: 630
   - title: "Fintech Trends for 2020"
     excerpt: "Data/Predictive Analytics and AI Technologies: A branch of data science, Predictive/Data Analytics has been going to be critical for fintech companies that rely heavily on data to take decisions. Data / Predictive Analytics use a variety of data mining, computer science and artificial intelligence (AI) techniques - in addition to machine ..."
     publishedDateTime: 2020-01-23T04:45:00Z

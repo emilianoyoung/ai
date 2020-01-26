@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-dr
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
+    publishedDateTime: 2020-01-03T14:43:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 0
 
 secured: "iCo2ahXvumH5PfSsgQN7H8wfb8vvx2p5GqOWMKhzJjWfi8oyGabAO3f0jYeemG24AtpBxm7Y2YSJ/o1VTB4LQ1+kFU+KptwrBOWfevrEsugGV9ygtUN0j+Ulx2ebvvjEqcJiJUSf3kN7R/6a54LpqXv4rNKeqtMiStPDTimeNbdPDytsGCwDGfwp17JNehTukGEk4MwlFpZyshuzNK8SjzGDXHy2cKYHdgBg1dHg9LVImnVSVv/sCP1BAFKH3hic5axlTFIP/5AqxKbh2jNj4rwrwzZUiJKICSVwq3iT20wudte5JnnVD6z8Ol0OZAtVXkhTqfHXk4Pw+fLJsAMiIXLIuz5BJiwEYfGsHcARstbyx14276xBhYihjALWZAJV6paP7SWvs39OIuzyljO92OLxgCpAgGrzAHa7vza4HFC7ULK57p91ahtY3gxuXqUUPLkl/4hNNMU4LjUifcBHbw==;yed2R7PbfqjT+kuEkuKFJA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how
 cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "How Bank of America uses AI to improve customer service and take on competitors"
 
 related:
+  - title: "Get ready for the emergence of AI-as-a-Service"
+    excerpt: "A new “_” as a service model is ... case managers, or financial advisors. In the case of a claims adjuster, for example, they could use an AI-based solution to run a query to predict claim costs or perform text mining on the vast amount of claim notes. Layering insights for better outcomes Machine learning technologies, when integrated ..."
+    publishedDateTime: 2020-01-24T11:29:00Z
+    sourceUrl: https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/
+    ampUrl: https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/
+    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design43-796x417.png
+        width: 796
+        height: 417
   - title: "Air New Zealand using computer vision AI"
     excerpt: "Air New Zealand is trialling the latest in computer vision artificial intelligence (AI) in its search for innovative ways to continually improve aircraft turn times and better on-time performance. The new technology, made available through a partnership with leading technology start-up Assaia and alongside Auckland Airport, uses computer vision ..."
     publishedDateTime: 2020-01-22T20:10:00Z

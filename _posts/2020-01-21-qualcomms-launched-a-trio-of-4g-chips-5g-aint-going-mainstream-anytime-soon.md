@@ -56,6 +56,21 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/testing-qualcomm-snapdragon-ride-self-driving-system-ces-2020-2-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
+  - title: "4G isn't dead yet: Qualcomm unveils LTE-versions of its midrange Snapdragon chips"
+    excerpt: "The Snapdragon 662 supports triple camera configurations, a first for the company's 6-series chips. It will also have Qualcomm's third-generation AI engine to let phone makers add things like avatars, night photography and face and voice authentication to cheaper phones. The processor comes integrated with the new X11 LTE modem that can ..."
+    publishedDateTime: 2020-01-21T06:41:00Z
+    sourceUrl: https://www.cnet.com/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/
+    ampUrl: https://www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/4g-isnt-dead-yet-qualcomm-unveils-lte-versions-of-its-midrange-snapdragon-chips/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: https://cnet2.cbsistatic.com/img/uTtvRMBczx9c-gHi594-X_c3hdY=/756x567/2019/12/17/7be74ffd-64e9-4938-aa31-3f17084d1fae/xiaomi-redmi-note-8-8.jpg
+        width: 756
+        height: 567
   - title: "Qualcomm announces three new chips for 4G smartphones"
     excerpt: "Expect it to see in higher-end smartphones, with features like on-device AI operations, and high-resolution displays of up to 2520 x 1080. The chip includes the X15 LTE modem, with support for ..."
     publishedDateTime: 2020-01-21T02:22:00Z

@@ -33,6 +33,21 @@ related:
       - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
         width: 1200
         height: 630
+  - title: "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech"
+    excerpt: "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost."
+    publishedDateTime: 2020-01-15T20:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg
+        width: 640
+        height: 640
   - title: "A Seattle Startup Puts Its Pizza Making Robot to the Test at CES 2020"
     excerpt: "\"That labor shortage results in high turnover, poorly trained workers, poor quality of food,\" explained Wood. This AI powered pizza robot from a Seattle startup named Picnic can assemble 300 perfect pizzas an hour #CES2020 pic.twitter.com/WOaqphS84E — Rich DeMuro (@richdemuro) January 8, 2020 Picnic’s robot is modular, meaning it can expand ..."
     publishedDateTime: 2020-01-15T13:59:00Z
@@ -48,6 +63,19 @@ related:
       - url: https://tribktla.files.wordpress.com/2020/01/screen-shot-2020-01-14-at-10.09.00-am.png
         width: 1200
         height: 698
+  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023"
+    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
+    publishedDateTime: 2020-01-10T06:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Carmakers move from cars to building cities at CES"
     excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
     publishedDateTime: 2020-01-07T18:07:00Z
@@ -78,19 +106,19 @@ related:
       - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
         width: 1200
         height: 675
-  - title: "Baidu Gets Licenses to Test Self-Driving Vehicles"
-    excerpt: "Chinese multinational technology company Baidu announced on December 30 it was granted 40 road test licenses for passenger-carrying autonomous driving by regulators in Beijing. The tech giant is one of the first companies in China to be given green lights to self-driving cars for carrying passengers on Beijing’s roads. Up to now, Baidu Apollo ..."
-    publishedDateTime: 2020-01-10T05:53:00Z
-    sourceUrl: https://steelguru.com/auto/baidu-gets-licenses-to-test-self-driving-vehicles/554691
+  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
+    excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
+    publishedDateTime: 2020-01-07T02:02:00Z
+    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
     type: article
     provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
     images:
-      - url: https://steelguru.com/uploads/news/baidu-autonomous-cars_42031.jpg
-        width: 1200
-        height: 800
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Qualcomm-Snapdragon-Ride.png
+        width: 1233
+        height: 880
   - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
     excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
     publishedDateTime: 2020-01-09T16:01:00Z
@@ -104,6 +132,15 @@ related:
       - url: https://www.extremetech.com/wp-content/uploads/2020/01/Velodyne-Lidars.jpg
         width: 1344
         height: 742
+  - title: "Self-driving car market revenue of USD 173.15 Bn by 2023|, Forces Analysis, Revenue, Challenges and Global Forecast"
+    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
+    publishedDateTime: 2020-01-10T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-forces-analysis-revenue-challenges-and-global-forecast-2020-01-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "NnmxhI3B1tidk90ra3IqC78at1NlgrR41n9anXWRxUdYxJBzvDkNwTVmlc1ziqBh/BD69i48Q0QTcqjhDeJ0IS9x2THwU+FBI8qHQSFss92FKEecwLze6aIQ+B4QoZXZV9c4VOgYxq0AQ0xzsOC6MNWEFLKHGnxOxKVVy/Zbv1O3AqR4DLcKy6SC7fAj14V1c5oWCgzpUubVeQUniTCvBjp7QH2K1vLwXpDcWRfyoVRT3URm1UHJ2NLydxFDcODcGV9+ZBFBas8XyW133nXN1pXxe4SNSf7LmocX5dwXw9GxRi3cQW48y64FrSnjGYoPJG6lO1CnmJ8txsSAd7V1eDEwRvqDDaTtT9WGqIVcOMlFo+A71tGk6j0fi9Q67VpTEJvRftKrfxDhJ6dqGT+HTfxFY4ZLcD9tWelPQ2ifgaroy90tylIC696u25fK/JJ9pgzIg9FRRbgII2TZD8ytGw==;ZzTjQYju6PDzFaU3MIoTCw=="
 ---

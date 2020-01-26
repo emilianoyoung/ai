@@ -121,15 +121,6 @@ related:
       - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2020/01/22112245/climate-change_news-coverage_CN_012220.png
         width: 512
         height: 276
-  - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
-    excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
-    publishedDateTime: 2020-01-24T11:26:00Z
-    sourceUrl: https://news.webindia123.com/news/Articles/Business/20200124/3494590.html
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "DJt8RIRymEsVGbW8yR7YYzqjl2FB/NJb5NtogN39B7QoTfgegDOevIbkUbTuM7EivUuXS8YXlwQVm53wA6iMBUgftABMkKzJggVuEZrfaVRoX7MGLTFXtDS6WcVHnClDZELdrzvXBAf69FAuCPGt2/t4ye4lvSkrv5Mp+qHvBBBnlgvK5qNLh9MUg2Y/M8YfMevyS5hl2izvOJQPhIyRapFHt0GoYHAT427TeGCKfKdGva+8/Z7wVmAmP02GbKnFqDWStHOYeAHNQ9mqs7y1kUoSdjSmoyN+33JyRQZnrhe+hbaTx1mA0HkmWdQu1h2g+4cxln7Nrdwe1UnAuikiYfHeY/xf+RPbAxNtRyIsLh8MrQH6zKprJWA4tGaP4rLZOIyB7spVgD/5BzIvAcqTzuDUap4Bm3yZxTo5almo5K2TUd1SzmSiCjboNL7hFUDvFnw6BZ3IJL3hG/iPNzjFlA==;p1NDWWyAYIIqbm3ZvGKYsw=="
 ---

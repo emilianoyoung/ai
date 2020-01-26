@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-17T14:36:00Z
 sourceUrl: https://www.openpr.com/news/1899937/self-driving-car-market-2018-2023-and-top-key-players
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,21 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-related:
-  - title: "Self-driving car market 2018-2023 Application, Revenue, Excessive Growth, and Region-Forecasts"
-    excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
-    publishedDateTime: 2020-01-14T12:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2018-2023-application-revenue-excessive-growth-and-region-forecasts-2020-01-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "ZX6wS4/maCUk1yqem+F5M6rhOHiwghHRWIXwPDy6H0xQE/TLS4BbEKoZdxornJdjF2iBz2Z/51/7OY0XlkYEFXsI2O16Lvuwlq43X5U7pWCE4SkkAqF5FrVsxSqPNTzm04SSxZc9VpyP0ci7sq6v+hZO30A3C+rs0VjFOwgruiHC/kbrwEIFh2A+T4nVTXfuvJA4RfDnKxJy8l2xjiMEDz6UUF9LyAIEUQeU+7AITJJgz+4fq9ojsmU2ePL4g/Ar+AonD5EQ/BX3ircaV/uUBxFR/Tbcol02DSXgf5k6s8Q=;8uVKE5w9Uw/SsyA/FO7GkA=="
 ---

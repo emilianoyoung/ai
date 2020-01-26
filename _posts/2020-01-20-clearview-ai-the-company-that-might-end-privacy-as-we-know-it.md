@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Clearview AI’s facial-recognition app is a nightmare for stalking victims"
-    excerpt: "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ..."
-    publishedDateTime: 2020-01-22T17:41:00Z
-    sourceUrl: https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/
-    ampUrl: https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 88
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
-  - title: "New Jersey halts police use of creepy Clearview AI facial-recognition app"
-    excerpt: "New Jersey is ahead of the curve — at least when it comes to stopping its law enforcement from using the creepy and potentially biased facial-recognition app Clearview AI. The app, which scraped billions of photos from the likes of Facebook, YouTube, Venmo, and other online platforms, drew the world's attention last weekend following a ..."
-    publishedDateTime: 2020-01-24T23:59:00Z
-    sourceUrl: https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey/
-    ampUrl: https://mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-app-ban-police-new-jersey.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: https://mondrian.mashable.com/2020%252F01%252F24%252F53%252Fc9b7bd94080a4f81b5f99ec464adff04.08837.jpg%252F1200x630.jpg?signature=yAzYMITbCIxJTHhBnTyFoFDHPXg=
-        width: 1200
-        height: 630
   - title: "Scraping the Web Is a Powerful Tool. Clearview AI Abused It"
     excerpt: "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ..."
     publishedDateTime: 2020-01-25T07:00:00Z
@@ -79,6 +49,21 @@ related:
       - url: https://thenypost.files.wordpress.com/2020/01/nypd-3-1.jpg?quality=90&strip=all&w=1200
         width: 1200
         height: 800
+  - title: "Who is Hoan Ton-That? Will his Clearview AI bury your privacy for ever?"
+    excerpt: "His nascent company, Clearview AI, is saying it has gathered as many as 3 billion photos from sites like Facebook, Youtube, Twitter ... not surveillance and that Clearview Ai is \"an after-the-fact research tool.\" Though the technology is only being used by law enforcement agencies now, commercialisation of its use can spell danger, privacy ..."
+    publishedDateTime: 2020-01-23T10:07:00Z
+    sourceUrl: https://www.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164
+    ampUrl: https://amp.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164
+    cdnAmpUrl: https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/who-hoan-ton-that-will-his-clearview-ai-bury-your-privacy-ever-38164
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 59
+    images:
+      - url: https://data.ibtimes.sg/en/full/32548/hoan-ton-that-founder-clearview-ai.png
+        width: 946
+        height: 660
   - title: "Meet Clearview AI, the secretive company that might end privacy as we know it"
     excerpt: "The system — whose backbone is a database of more than 3 billion images that Clearview claims to have scraped from Facebook ... research,” according to a document provided to Nehlen and later posted online. Ton-That said the company never actually offered such services. The company soon changed its name to Clearview AI and began marketing ..."
     publishedDateTime: 2020-01-18T14:10:00Z
@@ -142,6 +127,17 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 37
+  - title: "Ontario watchdog would be ‘very concerned’ about police using tools like Clearview AI"
+    excerpt: "Clearview AI’s website includes a testimonial from an unnamed person the company claims is ... consists of a one-to-one comparison between the photo of the traveller taken at the kiosk to the photograph stored on the chip in the travellers’ ePassport,” the spokesperson said. Vito Pilieci, a spokesperson for the privacy commissioner ..."
+    publishedDateTime: 2020-01-24T11:00:00Z
+    sourceUrl: https://globalnews.ca/news/6442933/canada-police-facial-recognition/
+    ampUrl: https://globalnews.ca/news/6442933/canada-police-facial-recognition/amp/
+    cdnAmpUrl: https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6442933/canada-police-facial-recognition/amp/
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 32
 
 secured: "OUDtAILb2/Oa6El9pZqtxyO2nSfP6IvvYyUjOdIHkbWwoXibBJIVSEA2qfxjUGZ5QubdzWmQ5Wid3hufoVsQxPAcQ1GNnCRh/FTN7EvCeGXiv0NX7RVr3Ku3MUrAQJ2wxigTVxuLzqEX9Wx+ZjtynRtEcjW2VVwg86VnTPnXnHpNxAK87/+E1Gjj/yLAgEFtwxs1HnKhwUAXXAIJ4q6t6HPaLs5FDwOUCTD6sFOh42uU7k0aOVmd50v9b9ckUDcybDogEG1j35zjdGWzKJ55rVmH5/2c+2hY0wxQwA6a9P7Cs1+ewW0t8mK/nS7zWHRdJE41RDulNooFjaaWL/WAmzzU3EWSzwxW7EOlppsBIY6CG4lYCrNEC2wsF7fmYmi/596goUGPpMEj/Q2nBxTzCstvd/0iN7lR4cUoTR+vMfLAOSQa08JxXY415BYsixx+JajGlJ7oxWy9kq9aPEQfEQ==;2CzceBRwyjMS6vfhtfHeLw=="
 ---

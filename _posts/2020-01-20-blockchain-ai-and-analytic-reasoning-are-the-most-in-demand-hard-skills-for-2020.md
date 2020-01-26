@@ -19,52 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "The Case for a Light Hand With AI and a Hard Line on China"
-    excerpt: "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity."
-    publishedDateTime: 2020-01-14T15:00:00Z
-    sourceUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/
-    ampUrl: https://www.wired.com/story/light-hand-ai-hard-line-china/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp
+  - title: "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services"
+    excerpt: "Large enterprises like JPMorgan, Fidelity and ICE are looking into using multi-party computations for a new breed of financial services business models. Leveraging blockchain and MPCs will lead to opening of massive opportunities for new services and products."
+    publishedDateTime: 2020-01-17T00:57:00Z
+    sourceUrl: https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/
+    ampUrl: https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg
-        width: 2400
-        height: 1600
-  - title: "Uses And Limitations Of AI In Chip Design"
-    excerpt: "From there, formal will give valuable input to the whole system verification. SE: One of the problems with those chips, particularly the ones used for safety, is that the AI running on those systems are basically opaque. Is there any progress in understanding what can go wrong with those algorithms? Brinkmann: The machine learning guys are ..."
-    publishedDateTime: 2020-01-15T18:46:00Z
-    sourceUrl: https://semiengineering.com/uses-and-limitations-of-ai-in-chip-design/
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: https://i1.wp.com/semiengineering.com/wp-content/uploads/2020/01/raik-brinkmann.jpg-1.png?fit=320%2C206&#038;ssl=1
-        width: 320
-        height: 206
-  - title: "Artificial Intelligence and Machine Learning for Natural Sciences"
-    excerpt: "We are in particular interested in graph convolutional neural networks or generative methods such as GANs ... The candidate will be paid according to TV-L E13 (100%). The position is funded by the Artificial Intelligence program of Baden Württemberg („Künstliche Intelligenz Baden-Württemberg“ (KI-BW).)"
-    publishedDateTime: 2020-01-17T21:18:00Z
-    sourceUrl: https://www.findaphd.com/phds/project/artificial-intelligence-and-machine-learning-for-natural-sciences/?p118384
-    type: article
-    provider:
-      name: FindAPhD
-      domain: findaphd.com
-    quality: 34
-  - title: "China Artificial Intelligence Market"
-    excerpt: "self-driving cars, smart robots (that can learn from their surroundings and build on their capabilities based on inbuild knowledge) and military applications. Get Sample Copy of China Artificial Intelligence Market at: https://www.omrglobal.com/request ..."
-    publishedDateTime: 2020-01-14T08:35:00Z
-    sourceUrl: https://www.openpr.com/news/1895426/china-artificial-intelligence-market-2020-global-trends
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1fb5e2a854780006e89f78%2F0x0.jpg
+        width: 1200
+        height: 757
 
 secured: "szm1G8EKggfkXSNBU2XpMun2Sh5l1SxmL0DoLz8cz+wbhWSCqluXB/xHG/hp7nf38nCSpzKk7a477Kr9DHtM5xIXO7rDi/lBUauD7GOq3gbGDktqUPVi6/d+CP8SLOfRLGSNEWhRzvQUKObnMeR0G2h9CxlG9ml5gWA7Qxq2FBnDNTuGioXXQFsXsEApIor1tyiOQQoOaGYPMPrin87e+Nktn3ZM22wk7PMDYDfJbuHDnIfjylYhmMuV554jOvbORaONqAzBGwq9IyT7oYH268UooIAWYYgLtU/Pnm8j0fvgJrfNEBQBoi3jFT5uFGCVd85n3XSJ1+NAsaNl6AddZwaB8rsHviEEXYjBWWKQS9jVGquiLN5hfCD/UbYMzC/l+2OS5dMHtE3oyRn6DwLm2budgOTXkyU8UqjAnr5vVfemMKlm0F8rTvCLh096qkvR4wDvfZ/Cq0CAXADcWhcbUA==;Qba2hgAeAWeOo4VXEpLSXQ=="
 ---

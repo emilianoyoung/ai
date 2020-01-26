@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp
 type: article
 quality: 74
-heat: 104
+heat: 74
 published: true
 
 provider:
@@ -24,43 +24,6 @@ images:
     width: 800
     height: 400
     title: "How Fractal’s Trial Run uses AWS to power AI-based decision-making"
-
-related:
-  - title: "Xilinx keen on developing AI-based FPGA chips for automotive use"
-    excerpt: "US FPGA chips specialist Xilinx will step up development of self-adaptive AI chips for automotive applications based on the emerging concepts of Mobility as a Service (MaaS) and Transportation as a Service (TaaS) for next-generation, autonomous vehicles, according to industry sources. Xilinx already shipped 170 million self-adaptive devices for ..."
-    publishedDateTime: 2020-01-20T08:20:00Z
-    sourceUrl: https://www.digitimes.com/news/a20200120PD203.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: https://www.digitimes.com/newsshow/20200120PD203_files/2_r.jpg
-        width: 336
-        height: 224
-  - title: "AP Plasma develops AI-based technology for shoemaking"
-    excerpt: "Taiwanese startup AP Plasma has developed AI-base low-temperature air plasma technology for use in automated surface bonding of soles to shoes, according to company chairman and president Jango Chang. The automated surface bonding technology replaces traditional use of toxic glue in bonding and labor input, with average time taken in making a ..."
-    publishedDateTime: 2020-01-17T06:38:00Z
-    sourceUrl: https://www.digitimes.com/news/a20200116PD214.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: https://www.digitimes.com/NewsShow/20200116PD214_files/1_r.jpg
-        width: 336
-        height: 252
-  - title: "Docomo invests in Otter.ai, to develop AI-based translation services"
-    excerpt: "Using Docomo's natural language processing technology, Mirai Translate is expected to offer precise machine translation between Japanese and English. Docomo plans to support the launch of Otter.ai within Japanese companies during the fiscal year 2020. In addition, Docomo seeks to develop advanced translation services capable of conveying the ..."
-    publishedDateTime: 2020-01-22T06:46:00Z
-    sourceUrl: https://www.telecompaper.com/news/docomo-invests-in-otterai-to-develop-ai-based-translation-services--1323596
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "ZN6LVBwu1zEVb46w4t4bz1GqhHSImTMDYtuL/RUJK1fLYTfOV3vS3CEyD/K2k2UGXnYTbVsSyvFL2IqHBjtBVxS1uU32/PwtfTY/FV0Ta5ExT1F+vuk9y20J0wSju8BS34enLbBKmjvBiBdoDdHx1EOXvy2f6wNWPZCANM6KYoj4+sRf4TKjHYJ5GyP2rnzANIH3OZyE+X6AepczoxjkA5lfPA6ocU1hu0uCdfSvEsQ6YjZlezdSWnnQcN/JaiPT3RVcpNi6UM+smxtiOLDCcdAAGvxL174HBquL00mM9mr8D7ECQ/bLEVS2yYuRhQH9OPtndUUlH8/VsA4mGr/P5J0yrmhEkP61/vk8OU5TPQhKhG79nrgqSl0NKMFrX4nIcL8DFJESL7c2rNlOMsoO7dPiJJLPANDU10LYPq8poC5jEHEOEfwTRp0QHXo4o9aJhEsesuug25yvGbweCso1sQ==;fWJ+JN5V+dYxK35cNtmdBA=="
 ---

@@ -22,19 +22,51 @@ topics:
   - AI in Autos
 
 related:
-  - title: "At 30.0% CAGR, Deep Learning Chip Market Size, Growth Forecast will reach 21.31 Bn USD by 2027"
-    excerpt: "Market Study Report Provides A Detailed Overview Of Deep Learning Chip Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Deep Learning Chip Market In Conjunction With The Geographical Landscape,"
-    publishedDateTime: 2020-01-13T12:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-300-cagr-deep-learning-chip-market-size-growth-forecast-will-reach-2131-bn-usd-by-2027-2020-01-13
+  - title: "Riding in a self-driving car is the best way to end CES 2020"
+    excerpt: "or \"WTF?!\" or \"eww.\" And for me, the best way to close the books on this madness is to enjoy a few quiet minutes of reflection in the ultimate goal of so many of the automotive technologies Roadshow writes about: the all-seeing, all-knowing, self-driving car. That term \"self-driving\" is used way too freely. No matter what your best friend or ..."
+    publishedDateTime: 2020-01-10T17:02:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/ces-2020-self-driving-car-ride/
+    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-self-driving-car-ride/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://cnet3.cbsistatic.com/img/G7dx4_rD5mD3I0MM4few-N7lGlQ=/2020/01/10/bb8e1c20-5424-414e-b461-769417e79571/yandex-ogi.jpg
         width: 1200
         height: 630
+  - title: "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech"
+    excerpt: "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost."
+    publishedDateTime: 2020-01-15T20:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg
+        width: 640
+        height: 640
+  - title: "A Seattle Startup Puts Its Pizza Making Robot to the Test at CES 2020"
+    excerpt: "\"That labor shortage results in high turnover, poorly trained workers, poor quality of food,\" explained Wood. This AI powered pizza robot from a Seattle startup named Picnic can assemble 300 perfect pizzas an hour #CES2020 pic.twitter.com/WOaqphS84E — Rich DeMuro (@richdemuro) January 8, 2020 Picnic’s robot is modular, meaning it can expand ..."
+    publishedDateTime: 2020-01-15T13:59:00Z
+    sourceUrl: https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/
+    ampUrl: https://ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/15/seattle-startup-picnic-pizza-robot-ces-2020/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 59
+    images:
+      - url: https://tribktla.files.wordpress.com/2020/01/screen-shot-2020-01-14-at-10.09.00-am.png
+        width: 1200
+        height: 698
   - title: "Self-driving car market revenue of USD 173.15 Bn by 2023"
     excerpt: "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,"
     publishedDateTime: 2020-01-10T06:02:00Z
@@ -48,52 +80,71 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period,2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-07T05:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-will-rise-at-a-cagr-of-597-forecast-till-2026-2020-01-07
+  - title: "Carmakers move from cars to building cities at CES"
+    excerpt: "But he said the carmaker needed to be on top of all the megatrends shaping society in the next decades: urbanisation, environmentalism, an ageing society, the power of 5G wireless connectivity and the potential for artificial intelligence to reinvent ... its new production line in Shanghai, or to Waymo, the Google sibling whose self-driving ..."
+    publishedDateTime: 2020-01-07T18:07:00Z
+    sourceUrl: https://www.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    ampUrl: https://amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8089bb56-30fe-11ea-9703-eea0cae3f0de
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa4e8f394-313b-11ea-a329-0bcf87a328f2?source=google-amp&fit=scale-down&width=500
+        width: 500
+        height: 281
+  - title: "I rode in a self-driving car that's basically powered by a high-end gaming PC"
+    excerpt: "I've been a fan of science fiction since I learned to read. I grew up tearing through Heinlein, Asimov, Herbert, and many other authors, and for decades I've been looking forward to taking a ride in a fully autonomous self-driving vehicle. Now, it's finally happened—probably 10 years later than I originally expected in my youthful ignorance ..."
+    publishedDateTime: 2020-01-13T18:05:00Z
+    sourceUrl: https://www.pcgamer.com/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    ampUrl: https://www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    cdnAmpUrl: https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/i-rode-in-a-self-driving-car-thats-basically-powered-by-a-high-end-gaming-pc/
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
+    images:
+      - url: https://cdn.mos.cms.futurecdn.net/59dKqs9cbdXobWjM6vbrAc-1200-80.jpg
         width: 1200
-        height: 630
-  - title: "Machine Learning Market Size Worth $96.7 Billion by 2025 | CAGR: 43.8%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global machine learning market size is expected to reach USD 96.7 billion by 2025, according to a new report by Grand View Research,"
-    publishedDateTime: 2020-01-13T08:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/machine-learning-market-size-worth-96-7-billion-by-2025--cagr-43-8-grand-view-research-inc-300985428.html
+        height: 675
+  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
+    excerpt: "Semiconductor maker Qualcomm Inc. is making a play for the automotive sector with the launch of its first self-driving car ... including the artificial intelligence software needed to avoid ..."
+    publishedDateTime: 2020-01-07T02:02:00Z
+    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
     images:
-      - url: https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook
-        width: 1400
-        height: 733
-  - title: "How Facial Recognition Market will Grow at Highest CAGR"
-    excerpt: "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity theft. According to a study conducted by a California-based private research firm, Javelin Strategy, in 2017, 16.7 million Americans fell victim to identity theft crimes. Further, 1 million children in the US in 2017 were victims ..."
-    publishedDateTime: 2020-01-17T10:28:00Z
-    sourceUrl: https://www.openpr.com/news/1899358/how-facial-recognition-market-will-grow-at-highest-cagr
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/Qualcomm-Snapdragon-Ride.png
+        width: 1233
+        height: 880
+  - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
+    excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
+    publishedDateTime: 2020-01-09T16:01:00Z
+    sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
-    excerpt: "NEW YORK, Jan. 08, 2020 (GLOBE NEWSWIRE) -- The global natural language processing (NLP) market is expected to grow at a CAGR of 20.0% during the forecast period with its market size predicted to ..."
-    publishedDateTime: 2020-01-08T13:08:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15093385/global-natural-language-processing-nlp-market-is-set-to-reach-usd-23-0-billion-by-2024-observing-a
-    ampUrl: https://amp.benzinga.com/amp/content/15093385
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15093385
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2020/01/Velodyne-Lidars.jpg
+        width: 1344
+        height: 742
+  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T18:04:00Z
+    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
     type: article
     provider:
-      name: benzinga.com
-      domain: benzinga.com
-    quality: 1
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 4
 
 secured: "8dpuXv1O9fhZNloXae8suJUpkvycQUzjMyFFzUwILn2qV6EEVmDWO9u05vXxQz8BZXdIJPRDmWpY4BYsSgyN8LVlZjCD8mmsmV7EkRN4xordT5Ok6rfI3BAZATYrsWYv16RdJdZhfgYVotZISA+SWqVe0ZEVEScEN5psL85seQdW7L1c02z3vE+0VBbGvtVA0ej5ih+g4vtt1YXh/9XT+jtgR5i+9ok3kzhgGlzLJRDVMRonSYC9gvpjlxv7wJNuwvPfSxnEEoTIVftrywVrb6KXJwGrjQuUOiElAztU7HU=;9lU8t7+SjnqRTfeJ3mGaRw=="
 ---

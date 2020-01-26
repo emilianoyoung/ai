@@ -64,21 +64,6 @@ related:
       - url: https://techcrunch.com/wp-content/uploads/2017/01/ai-platforms1.png?w=1024
         width: 1024
         height: 576
-  - title: "Apple acquires Xnor.ai leaving Wyze cams blind to people"
-    excerpt: "It’s no that often, however, that you hear of such an acquisition causing a different company direct problems. That’s exactly the strange situation behind Apple’s reported purchase of Seattle-based startup Xnor.ai which is apparently the real reason why Wyze is losing a key feature of its smart security cameras. Although perhaps virtually ..."
-    publishedDateTime: 2020-01-16T03:58:00Z
-    sourceUrl: https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/
-    ampUrl: https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
-    images:
-      - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg
-        width: 1280
-        height: 800
   - title: "Apple Reportedly Acquires AI Start-up Xnor.ai For About $200 Mln"
     excerpt: "(RTTNews) - Apple has acquired artificial intelligence software start-up Xnor.ai for about $200 million, Geekwire reported citing people familiar with the matter. Xnor focuses on the efficient deployment of AI in edge devices like smartphones,"
     publishedDateTime: 2020-01-16T03:26:00Z

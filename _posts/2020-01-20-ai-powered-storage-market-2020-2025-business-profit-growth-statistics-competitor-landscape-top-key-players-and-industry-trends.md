@@ -38,6 +38,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
+    excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
+    publishedDateTime: 2020-01-21T12:39:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37759/self-driving-truck-market-2019-industry-analysis/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "eMjm1ANajLBZsxMBQ3zgZOqf42O3YbXuvd+zX/C5msozjxuUjsRLpCeAeRdukjLotjk1NvPYoEbApKHIMb9p3T3PfrOxN4ug8zmsSg7b++L/0QxuR94NHVBt20ooyBaQjSGOuyP/JujFGRpYlDXmBan0znXsEU0hurbg9odtf4rZlW3uwtt6n20j26D1chKNeHlcbuKyaZXcVYQUDSbfv4wcpliVVBMt23bszx/zD8YwqJp/8Qh8wIBaJNH6BmtvlV1QguW2b2GheuHy5hiGOHhD6DOHIoYe3usS3C0zzAUTKDMUccSLVSpzElW1mPQv1c8uoaAQr5O31soV8pjMH4IHGr5U6aM7PIvsXoiru1akOUidPbSQAgzbDrVkgFwuWwqZMaA7ngtpNoipbyUBbEqARgM3hF5NZQnMkExXWIQ6bR+KDAwEGNg1THnrW/Mhk5H9bmcZs+BFxnZAIPgSOQ==;0yF4zPaerQ+VIOX9cQKSZw=="
 ---

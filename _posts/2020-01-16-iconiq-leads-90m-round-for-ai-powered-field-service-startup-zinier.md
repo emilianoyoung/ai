@@ -38,6 +38,15 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/Mockup-1-e1578777547819.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Soul Machines raises $40 million for AI-powered customer-facing digital avatars"
+    excerpt: "The Auckland, New Zealand-based company found success relatively quickly, nabbing customers including Google, Sony, IBM’s Watson division, Bank ABC ... Plus, it’s worth noting that AI-generated high-fidelity avatars aren’t exactly the most novel thing on the planet. In November 2018, during China’s annual World Internet Conference ..."
+    publishedDateTime: 2020-01-09T15:48:00Z
+    sourceUrl: https://venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
 
 secured: "Q8YnOd+AfEbJBlKSY5L/ef4wYNi90etmt87fbm+0LQhVny692L/oiK/zGZJKLGfbYQxj9g+K+nOTxr7dv+6MBcBk74Qa8nqb+wEHBWTLHS1B3Xwgtmw3e/KkyV/ZOfH93zIf1WLXnk7IVlTle16VBI942LHNf5xPbXTMwdWwO0a7rp8HfZ9pXyTfEkvrWVVRgjD1HUk3v5kwqhEBd5H6zEqfKZRX2kNM5gT26UYDBZWY+KgkIyU29vP2n7sdv/e1bAxmIQZOXWbT9O2fjbExVMVFCb3wq6pJUiNjqUgcsrSDgeSRcqRD7W5+ptp7CFMeen/0jtyHFxifb2+HWCIhegbXeAEBcubSX86arJ0XhHlQKfCgPDnY0AiiTdvAaOwYqyR5qXPiLAucoPjtsTI20GyZ32jqIinglVVQLUuUeW5eVF2+6OwNPTtfsMDHMTLUige6ZEgs0SRRU4ATsZOXlg==;rvJ1IW/akMn+iaUhBy1EOg=="
 ---

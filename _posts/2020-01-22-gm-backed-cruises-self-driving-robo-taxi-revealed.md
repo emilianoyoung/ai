@@ -26,45 +26,49 @@ images:
     title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
 
 related:
-  - title: "Cruise’s Origin: GM-Backed Startup Debuts A Self-Driving Electric Van For Robotaxi Service"
-    excerpt: "The autonomous tech startup is upbeat that it’s on track to launch a robotaxi service in San Francisco with a spacious battery-powered van–but isn't saying when."
-    publishedDateTime: 2020-01-22T03:45:00Z
-    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/
-    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
+  - title: "Mass Production Of A Self-Driving Restaurant Robot Is Coming"
+    excerpt: "Bear Robotics has received a Series A investment of $32 million and has plans to mass-produce its self-driving restaurant robot called Penny. The robot works as a food runner and can deliver items to a table."
+    publishedDateTime: 2020-01-25T03:17:00Z
+    sourceUrl: https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/
+    ampUrl: https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 74
     images:
-      - url: https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale
-        width: 711
-        height: 544
-  - title: "Cruise’s Origin: GM-Backed Startup Debuts Self-Driving Electric Van For Its Robotaxi Service"
-    excerpt: "The autonomous tech startup is upbeat that it’s on track to launch a robotaxi service in San Francisco with a spacious battery-powered van–but isn't saying when."
-    publishedDateTime: 2020-01-22T03:45:00Z
-    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/
-    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/21/cruises-origin-story-gm-backed-startup-debuts-a-self-driving-electric-van-for-robotaxi-service/amp/
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667
+        width: 1200
+        height: 800
+  - title: "Cruise unveils next-generation, self-driving robot taxi"
+    excerpt: "While a couple of years ago many predicted that mass robo-car deployment would happen by 2020, most have pulled way back on that prediction. A fatal accident in 2018 in which a self-driving Uber struck and killed a pedestrian in Tempe, Ariz., drastically changed the public’s perception of the futuristic technology while underscoring its ..."
+    publishedDateTime: 2020-01-22T03:34:00Z
+    sourceUrl: https://www.sfchronicle.com/business/article/Cruise-unveils-next-generation-self-driving-14993733.php
+    ampUrl: https://www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php
+    cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Cruise-unveils-next-generation-self-driving-14993733.php
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 44
     images:
-      - url: https://thumbor.forbes.com/thumbor/711x544/https://specials-images.forbesimg.com/imageserve/5e27bb58a854780006af293b/960x0.jpg?fit=scale
-        width: 711
-        height: 544
-  - title: "Spoiler Alert: Three Key Ways GM-Backed Cruise’s Electrifying New Self-Driving Minivan Might Have Some Heartburn"
-    excerpt: "At a grand spectacle in San Francisco last night, the GM-backed Cruise that aims to bring forth autonomous vehicles with true self-driving capabilities had an unveiling of their newest creation (said to have been devised via engineers from GM,"
-    publishedDateTime: 2020-01-24T17:13:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/22/spoiler-alert-three-key-ways-that-the-new-and-electrifying-gm-backed-cruise-self-driving-car-minivan-might-have-some-heartburn/
+      - url: https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg
+        width: 375
+        height: 249
+  - title: "Test shows promise of self-driving cars for transit"
+    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
+    publishedDateTime: 2020-01-25T19:00:00Z
+    sourceUrl: https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 13
+      name: The Lima News
+      domain: limaohio.com
+    quality: 24
+    images:
+      - url: https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg
+        width: 640
+        height: 431
 
 secured: "MBnE8U8JOc132TVbUBlKMaw+jP3nsXtyBPgCJgb65UU5v+IpJAJHwTNgAL/P1Rbvj8shVgGe6sGa8K8irpBN4MtlxP7tf6u15Wf7z1VdIWNkH9B3W0CYF64+bKSj7C4gvo46VAWVq+VAEgnWIYSwle8MucWZsS+DthFr1EfulBK5YgiLOgS54RvfUrjFLIDfvdDMU2MLTPtPlSPIAOewGldKBwang3j/PavhlkrS5oBRjLvSmUdcJjYVrLlU2mwLrQqmjlRiQ9lyt7ZTrBXzQgxmmqHpx5yEc3NuSASr75Ne27Rr080NG3R1pdtpOe7BYi70QPy8kJstQZrmYgL/1xrURbXeCuKg1R9dG2RiAKpQvEDnj3X9H6YqqQesP3HFlFjSV/2qkaWIkjcJXgy1r7xkLExmcCCJ+urbpld1DgZ/ll/0MA0ezkLM2V6YeAPbdyJPkfAPhEjdLySV0rgACw==;ULoLQ6OKSC0u5+M/7M8krA=="
 ---

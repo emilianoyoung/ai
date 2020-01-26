@@ -112,6 +112,17 @@ related:
       - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/Top-AI-Podcast.jpg
         width: 980
         height: 721
+  - title: "DOCOMO to Partner with AI-powered Enterprise Meeting Note Provider Otter.ai in Japan"
+    excerpt: "NTT DOCOMO, INC. announced today that it has made an investment in Otter.ai, the US-based provider of the highly accurate AI-powered Otter Voice Meeting Notes live transcription application. The investment forms part of a business partnership aiming at supporting Otter."
+    publishedDateTime: 2020-01-22T03:02:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15160495/docomo-to-partner-with-ai-powered-enterprise-meeting-note-provider-otter-ai-in-japan
+    ampUrl: https://amp.benzinga.com/amp/content/15160495
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160495
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
   - title: "Readers React: We need to be wary about artificial intelligence"
     excerpt: "Maybe it’s my age, but I have no desire to be tracked like a rat as I make my way through the airport or city streets or the Giant grocery store, which recently added “Marty” the robot to prowl its aisles ... Even the CEO of Google is calling for the regulation of artificial intelligence. We need to wake up."
     publishedDateTime: 2020-01-24T17:38:00Z

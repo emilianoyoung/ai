@@ -46,17 +46,19 @@ related:
       - url: https://i1.wp.com/semiengineering.com/wp-content/uploads/2020/01/raik-brinkmann.jpg-1.png?fit=320%2C206&#038;ssl=1
         width: 320
         height: 206
-  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
-    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
-    publishedDateTime: 2020-01-20T09:12:00Z
-    sourceUrl: https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
-    ampUrl: https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
-    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
+  - title: "Every business can use - and afford - artificial intelligence"
+    excerpt: "Gartner's hype cycle for artificial intelligence (AI ... only available through expensive and nuanced breakthroughs such as self-driving vehicles. It's a perception that professionals encounter, and counter, every day. \"A lot of businesses think AI ..."
+    publishedDateTime: 2020-01-15T19:30:00Z
+    sourceUrl: https://www.itweb.co.za/content/4r1ly7RoeXeMpmda
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 32
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: https://www.itweb.co.za/static/pictures/2019/05/-fs-Machine-learning-2019.jpg
+        width: 816
+        height: 459
   - title: "China Artificial Intelligence Market"
     excerpt: "self-driving cars, smart robots (that can learn from their surroundings and build on their capabilities based on inbuild knowledge) and military applications. Get Sample Copy of China Artificial Intelligence Market at: https://www.omrglobal.com/request ..."
     publishedDateTime: 2020-01-14T08:35:00Z

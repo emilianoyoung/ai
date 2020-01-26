@@ -25,6 +25,6 @@ images:
     height: 420
     title: "‘Emergence’ Episode 12 ‘Killshot Pt. 2’: How are we sure that Brooks is human and not an AI? And who is Lorreta?"
 
-secured: "Hg7TOvlrwRqEY1/zqMlAFOmQQYSyWxFARmFbUd64yuWWuXVx/6dyqXzK/ldhbqB3mre4m1kUKu/64jjeq8woGLgM3SGr0q11J5a8cYpKv0NaynE7baoaTp20mBvTB6/3SsIUGPNPImbEuOTyCOM6fobngUIEj6I+MFQCpUSsZaMiQ+jvBh6m4w+H3WrJHvZ7fpj3Yx20TBIdZftKMekM48TjeuZs4aeH/WuSrp7Vh8J3yhDjKnC8ex7N15djEosayNepFV6568zG6LAlvANWNQqxhj/tL9XfkmVVT5GIi+f4kt8AOPWuKLamf8o9HOls;FoCmvvkM1Vo5k4wDnIQzsw=="
+secured: "RH+/C/xTP3tUguHuHSlHwEzHEe7GIWN/5yGVRtZlbyE7KdxnCMxu6QoACkERod5FmGwps/6Cc2RU9QhTHhSyGuk3bI+mORN47V9HG35ydX2K+wra7VZKCrkU2FcCYrNUiS4iMB4aM+0AOEAH5e0EclMdh5bXEvLnLteoDf6Y/qk67HiGYY3DCWcKZTAbqPYJdJp5+0a06O+J0/i/19t6lnuuIIdO8sYl6jIPzYkRxkE6F/TSn+zyR/2yTtxH90AEOKPhoOi9JYzv7sw4Ve21EfmO6uo5tdzvVlt5TB9QA8eMd0EL8pshzuVxEAbOzDvokD1ldxsrgJMcJs+8+X510rumnpRVpm9MUwOs9F9CPfQUGtW7DSlH+pzhB8DmJ5XLKJIMPxicsHc2R51ZstlgUT1L26Kq6YJZoTRg1MsjMD69vdQyhDa3A3nDOJfun5cIe+jZSRpBJNSVa+dz9EMwh4dOJcXaL0mVhbtreceNYSM=;2tASwxJB0CgiZQImKoYTsw=="
 ---
 

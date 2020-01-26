@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 1200
     height: 800
     title: "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently"
+
+related:
+  - title: "Bobble AI appoints London-based Lemon Advisors UK as the Advisory Partner for Global Expansion"
+    excerpt: "With the help of LAUK, Bobble AI is offering a fully customized white labeled Keyboard SDK, easily integrated into the existing mobile applications. All consumer-facing used-cases of a mobile app are replicated into the keyboard frontend, thus making them easily accessible to users. Any business sector, including Banks, Fintech, Telcos ..."
+    publishedDateTime: 2020-01-13T10:39:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200113005433/en/Bobble-AI-appoints-London-based-Lemon-Advisors-UK
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20200113005433/en/766967/23/Bobble_AI_Logo.jpg
+        width: 1200
+        height: 627
 
 secured: "izo+URxbgayvbMNLJwpFLfroln8wZnF/VK9KR+5KvG256DdEmMeuX7JFdP8bmta5CWSMNsBr+U2IbQNaN9x0TnoRBcF9wFjmRRiQTbTTL4z16r2aIAtqR/By7OSsELK0h4CjZqg9AI0XH+LIi8BNeBOo1hDKqQpb8b6OdigmvjYFBkvVmVVgX+c+qImHq6DaEYdt2gdMEPp+ZPai3/KZuHgbdBsCyUVHU++d9hoj+RN6Avagb8E5hzBNMqUPUmh7NMkOyoe3GfwBo+fVp4mRC21RW4cpqHiTj95J0bgU6UUeCyHBiR59GkicLlsYveqAzf1xCT1R+i2o9OeDiGQLzN+/qBaT9wSKLytwNYXTNCm+T7ZN5bePnyzJRbyJZscnn7zzQdDy6fSKKkWGZRzOTKqZVFOgrWjj3IEO+a8zwhXTXZ4QOX0WcgeYFk97KMTn5AwMGDQ1+sg+USzP8GLghg==;fBsBPSucRj56KMdsQapcXg=="
 ---

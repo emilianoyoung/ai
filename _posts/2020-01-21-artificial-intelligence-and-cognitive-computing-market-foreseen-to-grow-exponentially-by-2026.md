@@ -118,6 +118,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
+    excerpt: "Collaborative robots are designed to work in direct cooperation with humans in a well-defined ... This market report segments the global artificial intelligence market in manufacturing industry by application (predictive maintenance and machine inspection, production planning, quality control, and others) and geography (APAC, Europe, MEA ..."
+    publishedDateTime: 2020-01-14T07:47:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-manufacturing-industry-2019-/2020/01/14/9080753.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "H8+gQiLHkdlp4/jPWIizAuXx/ttdu8rS89cwshoaer1XH2By96ovEP5irYkkAuvyBxNPSn09606KD6PGtDjUOvagJcRCarQXJGUZJ5IoAWz4Jr8bopueLdHap/pRIkSyaF3IvyfVEqLaKsm7Kef7H4+PEeVAqy/Zp3YWeE36iIUZUUro09h8T/lRElhtu1C2DVSpvyiPm3LERlUO3JPDkQ5zwYM5mSKAnMPNCLOVTk80D6NnPVPpDnNVNG+bzTfjS4xETmYeM2VAY4Ovnz1uEmcUlSumM+L31sqCQMOsHXE=;g36JkzA9dtfBNFjVcGntmg=="
 ---

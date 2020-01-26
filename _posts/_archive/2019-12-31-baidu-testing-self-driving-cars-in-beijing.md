@@ -22,18 +22,12 @@ related:
     excerpt: "Tech giant Baidu is slowly but surely progressing toward the launch of a commercial robot-taxi fleet in mainland China. This week, the company announced that it has secured licenses to test ..."
     publishedDateTime: 2019-12-31T16:58:00Z
     sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
-    ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/11/1573720765750856_upscaled_image_x4-e1573743944240.jpg?fit=1200%2C600&strip=all
-        width: 1200
-        height: 600
+    quality: 49
 
-secured: "rOvYgPhLUjtYTWyQgVthIB9tq2BNHqEAcobet7DVRcv9lJxVmdni1YQzcOzuiiFjIL91Jv6l7zEj+Y20UeZVH0SwaZPIZgXLK99gbowGsWw0LhGyAwGacEtWllKHgrFw3sW8EkXmX5pSYexP7SEj8h2Y14OO1wfINsXrZVCiJ3bQmopX6WJXyvWihCQp8znAZCHeRCwz+9vLD1FahhvtWh2IwdG7nfl3vEB5Z4uJVi5/yfxYv9hQ4OVt1Q6yzo37W5ehF0lRDmOrDp2+mXD30Sb3LLSV/byCrOOmIu4wLyyf96/AT6/Lzlpn5/EsTwnG;7UXs3x8dcuEcVBivAmN9YA=="
+secured: "nOwGaVcNuiKmrYq3rBlxbaHhPZlyCSI7uievm1NPlPZRz+IYx7Lw9+IzlG3KOW8lvPKCwqJG/x28ZMRuOT3yWcm1OwiaLfnOeajIhXAnbxtpZS/VLvhvh0I6SfMs6fgP36SDWNfkc4EqesCHz4KrkzUshjl8SQAMr5Gh4aoDOt59UO94I3Ii9xX+Er/BtoocL39z0Ut3WwHSsG3qREQmz8ItCBG5roDjaO05yAhMpWZi0EQgxtIeWdEobu5pLJwMKGEfkpzbxEO4aiCCwJ7KygIYBJa2UVxskUxKGplNPNClCNMrSYJAikfGUDgX3S29;RNwIGcWMeRUOnneiokYhfA=="
 ---
 

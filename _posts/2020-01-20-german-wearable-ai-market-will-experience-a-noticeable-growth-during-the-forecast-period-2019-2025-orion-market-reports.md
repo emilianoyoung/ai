@@ -27,6 +27,17 @@ images:
     height: 630
     title: "German Wearable AI Market will experience a noticeable growth during the forecast period 2019-2025: Orion Market Reports"
 
+related:
+  - title: "Natural Language Processing Market : Dynamics, Segments, Size and Demand Analysis during 2019 - 2026"
+    excerpt: "Global Natural Language Processing Market valued approximately USD xxx million in 2018 is anticipated to grow with a healthy growth rate of more than xxx% over the forecast period 2019-2026. The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural Language processing ..."
+    publishedDateTime: 2020-01-20T07:54:00Z
+    sourceUrl: https://www.openpr.com/news/1900560/natural-language-processing-market-dynamics-segments-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+
 secured: "8P5pjjeJxWgXdOBUmuQljmPRlIWfHDH2zxD8uYuw4Khr3o/Llmmcjt5njaMUP5tuppp4udl57TReCwC79u8hbIFBRLqbNW7IAflbN4V00RAmJZPj25cRaPlxJnpItstSc/tRPHNbMAg92SWJ+j+1le26G4t0G/CQL9W+UJ/LLqzUOAD+xmLZOwEVUIyhTHHsKVLxeufT0P1lYB8M3KQW9iZqb05647HaXlHDkiwNpQ/pHM7OXYR2afHz7bi+h3GG+110WydQadW2+rZeMlPD4qmCOUn54Nl46uY1FUy7fEU=;37Sn2uc+/cUL6aWwBHxxvg=="
 ---
 

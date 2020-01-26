@@ -227,21 +227,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
-  - title: "UPDATE 1-Alphabet CEO backs temporary ban on facial-recognition technology over misuse worry"
-    excerpt: "BRUSSELS, Jan 20- The chief executive of Google parent company Alphabet on Monday backed an EU proposal to temporarily ban facial-recognition technology because of the possibility that it could be used for nefarious purposes."
-    publishedDateTime: 2020-01-20T14:54:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/20/reuters-america-update-1-alphabet-ceo-backs-temporary-ban-on-facial-recognition-technology-over-misuse-worry.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
-    images:
-      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804
-        width: 1200
-        height: 630
   - title: "Google CEO wants co-ordinated rules on artificial intelligence"
     excerpt: "Brussels — Alphabet’s CEO has urged the US and EU to co-ordinate regulatory approaches on artificial intelligence (AI), calling their alignment “critical ... predicting the weather as well as advancements by its self-driving car unit, Waymo. The Google chief said that existing rules like Europe’s privacy legislation, known as ..."
     publishedDateTime: 2020-01-20T14:21:00Z
@@ -505,15 +490,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 21
-  - title: "Alphabet CEO Sundar Pichai backs temporary ban on facial-recognition"
-    excerpt: "BRUSSELS: The EU's proposal for a temporary ban on facial-recognition technology won backing from Alphabet Chief Executive Sundar Pichai on Monday but got a cool response from Microsoft President Brad Smith. While Pichai cited the possibility that the technology could be used for nefarious purposes as a reason for a moratorium, Smith said a ban ..."
-    publishedDateTime: 2020-01-21T04:43:00Z
-    sourceUrl: https://www.livemint.com/news/world/alphabet-ceo-sundar-pichai-backs-temporary-ban-on-facial-recognition-11579580121877.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
 
 secured: "pLYUBsaMM8aoZ2MR5Pi4zhm5tK8HVwRg6wWhx9+KXDJSn71s3ctKqMtKRDz0g/MgiBQ6fUCBLSafXz8VH1ML7Jr/vElCHbPQb9RFmn7jyPoCBAU3z9aV9GWGHldv6VnMU5KcD8FuZQDSW7zLxo8agAJrIK1qeIXYkxhmPBV1gd/c8b6Cxca33pXWvYBUs2X0t4KKDwEcqVjie+ovfLoiyG/QhnAH5mCpbxLioCrgoEe4nbdxcFOyOsYLHgdBLyOgXymuI7ere8eFsjJWDhvnEu++XzcGijD09QErwjt+2LwLQNYbBdV8ljmhyjkv4VX1XScNtqVU4+Zpt3ffyIIS8XIl1ip/8wER5g8DrpONUI7ZsGWyear1rKv7q4cMbA9viG9ZhluIUbyH1R7d7zQs7F9NYWiCM5iFoRCAq6KWy9O8/XhIjM9BjWuoG/eMUT2xA6kQkd17b7vW4YbFzOtvkg==;WPO8FYoVyxvlqOCeKxsihg=="
 ---

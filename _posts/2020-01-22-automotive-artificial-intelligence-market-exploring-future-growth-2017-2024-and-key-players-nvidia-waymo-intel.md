@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-22T11:06:00Z
 sourceUrl: https://www.techworld.com.au/mediareleases/37810/automotive-artificial-intelligence-market/
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -18,16 +18,22 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
-    excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
-    publishedDateTime: 2020-01-20T12:39:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
+  - title: "Intel CEO: We’re confident in the future, we generated $3.8 billion in AI revenue in 2019"
+    excerpt: "The AI market opportunity is expected to be $25 billion by 2024. This comes after some rocky moments for Intel in the past couple of years. It changed CEOs, ran into delays in developing its critical 10-nanometer (nm) manufacturing process, wasn’t able to produce as many chips as its customers wanted, and faced serious competition from rival ..."
+    publishedDateTime: 2020-01-24T00:05:00Z
+    sourceUrl: https://venturebeat.com/2020/01/23/intel-ceo-were-confident-in-the-future-generated-3-8-billion-in-ai-revenue-in-2019/
+    ampUrl: https://venturebeat.com/2020/01/23/intel-ceo-were-confident-in-the-future-generated-3-8-billion-in-ai-revenue-in-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/intel-ceo-were-confident-in-the-future-generated-3-8-billion-in-ai-revenue-in-2019/amp/
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 7
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/01/bob-swan.jpg?fit=1200%2C800&strip=all
+        width: 1200
+        height: 800
 
-secured: "4QK53wSNYDnXs1KlaXs7KEyWiCUkjDd9AUFpV1uAMT+ZXWn/v0+SCHJoyxxZdX+14i315fwHg116coRcOB96Yr+m6xT4dKvJ6wsU2Zj6W1y6zYgwKXOvWsB5uUIgyGQm/WIkxRoO6CSQZzO1dj2yJqxoJNP95fA/FudWlw3s4r3PQdkosMbKgKlIN6TcX31DqqtnPQ4x1QR+izlvlktqKsSspiJm3emWFkLbyZDgyAXDFHeceUcH0D7wzvCNDddg6IdAXscquRGCXfBgaCjV8Q7+/C+MTjeL91PnaL7/yf5EmRIQp/dLNDRmQldXn+Z/;tr3twCdZFhPlVKGzF3FnrQ=="
+secured: "lwPPivU+zBkLsFEYrhwebikPmgErVz09YPyZ77mFWLOZv0hwZmCMwt3FukL/JIunwvHy6r3ryGx75z3/M1q1imFQntnJ+2Y/72BxHw/PyncEsIoofQsL+ZpVHP22tMVG1CQAiPVPlPo2EnQev12GExikjeA3XyKLadVaRZ82vftkZFAEtLHBKoIlS2DeZxtkbalEZ7j18onF9bRPsV96idMPxLD4cdFc9A29X0p5V1vMxifMyGV1ECMoRPOJjerLxGx5RHoCvrC6NLunY6k7WxUspgD0+xFXox11QX59vhIewnwf5/yyzwpsQx88slVi;hw5BRqtMo+f/IrNl3qID5w=="
 ---
 

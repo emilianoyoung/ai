@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T19:33:00Z
 sourceUrl: https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -35,6 +35,19 @@ related:
       name: The Dispatch / The Rock Island Argus
       domain: qconline.com
     quality: 54
+  - title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
+    excerpt: "/PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, brings its"
+    publishedDateTime: 2020-01-08T05:04:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020-300985487.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: https://mma.prnewswire.com/media/1075574/AI_Vocational.jpg?p=facebook
+        width: 5128
+        height: 2684
 
 secured: "bW25yvfEFXSre27dlnbKuuy7gXk+J4Tf1kCwd0mWOLFUsw65swHJ+k9aMJLX/h0qR2NroQfa0fOgAGXh0k4K76MsTiBv5TyqQ7hi8EkAe/HayoDH05bF9kRCCu0ed6VYP40VLWCQvq2vp0/UAkG3DSn34pZ7w9MJa2W4m5Wy8v5AeqbDDFako/wSyOzYz7w5f7+RlX/Pjn9udI0w1ofr2dmzW/U26GceJ5cSiCq3vdBewAgR7vXlkMEt+5WDuc+Tjtjf/uDpIiW6/uVZhLvvTK3TkbFLYYn1WNHHm8hUAh8/C8w6WuOLRzgIABSrchVXu2I80yCgyxpV14wEanHt2dyfbtlJysaSV6XyaacQCZcab9Qxj+54AWe3lb4oTbjXboiWkYYdOEf+r1I93afDyeY4CyvSRqRujGL2AL/1J3DjRxXDLnr/Ox0ijnqnMQys5X06QaYmZDZzSJabp9KYQA==;HW2nqACTofd8SGExkCNelQ=="
 ---

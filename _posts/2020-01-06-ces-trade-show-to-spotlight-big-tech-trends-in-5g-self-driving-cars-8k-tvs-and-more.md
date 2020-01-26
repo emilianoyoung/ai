@@ -41,19 +41,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1489b24e291700061a9d51%2F0x0.jpg
         width: 1200
         height: 729
-  - title: "Multiple standards to emerge in 2020 for AI-driven vehicles"
-    excerpt: "Today, neither industry nor government can assess the safety of self-driving cars. Without tools or common yardsticks ... For example, Safety First for Automated Driving (SaFAD) is led by Aptiv, Audi, Baidu, BMW, Continental, Daimler, FCA US LLC, HERE, Infineon, Intel, and Volkswagen. The group published a white paper last summer on how ..."
-    publishedDateTime: 2020-01-07T17:01:00Z
-    sourceUrl: https://www.embedded.com/multiple-standards-to-emerge-in-2020-for-ai-driven-vehicles/
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: https://www.embedded.com/wp-content/uploads/2020/01/img20200107085828A-Wave-of-AV-Safety-Standards-to_0.jpg
-        width: 640
-        height: 342
 
 secured: "eSFL+w9p06WF4MpWtdYU+MwCWnl3QkoS2q2hH5obhnfv6sw111Ea8yoyoYDEVtZLO7XbJh4AgyhMQmn0Z0FsVQv0M7bzWQiZyhJZe6PGMwkZaChGFr/lK4eUmSLVm66sGMz+cjEydlwV0uTW2pc+9EPHXdrYedMyAJuST9tDSx2wV0+SRK7LLWoTttbKpenLlm+odV18+DZIgFMEJQtpqyYkYIehQ973oerziGFHMzX9Ks+wid8TF3jm+el+Zcdu/0k12PVpCV0NhqnihYDXuCaq39PHU7QRCw/9FHjGPo2O1MSgI4Bk/NzAJVEFtcRaOZR5bN8Q03/kXU63EjVgvEgEz6luSLqYSPWtN5L2rcFEOBQO66i2ZJElDQsstJgGpYnEOxBIRknjqvcmDJYRFk7ujvoyvwG+rpy1AELgamYZGsGuSsK2SupEZ/X3eU81pPPRRwn/lJnXwwaoFWmtBA==;HaeRljayo957SImSBMZdDg=="
 ---

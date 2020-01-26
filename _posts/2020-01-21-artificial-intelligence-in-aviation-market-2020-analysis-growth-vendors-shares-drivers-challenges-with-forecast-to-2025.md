@@ -112,6 +112,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
+    excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
+    publishedDateTime: 2020-01-14T05:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "Z2FmEeluMj6qUCGAAiwKmKfA/dGEZBBd1mhCPH9/IkbsExfOa1t+i3dFgDEsjWMXqA9QxsG31ycBlReA+E4qYh86PHCCS11fnnpLxedKNwT2uh2Zs2pck5Hgm/w8y3ii0R5ukFIL3U1K5lxj/GMzncvem4GK/sDqCNu4QTA1l0aPoGXLyRTK0zbay3TxYhbpO5XgIC1HSd7/sYb7DKOiu+xSADbqUjpF/ZyekrepFLz9a7Gu+wZx8/bgntbN9v7+QbczcKq19+R0BcieAI1cZhvtA+36mKY8E/DLDLn/Bho=;Hxv+eeXQrVtJjy5p0bJGLw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vi
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-ai-dog-trainer-uses-computer-vision-and-a-treat-launcher/
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 674
     title: "New AI dog trainer uses computer vision and a treat launcher"
+
+related:
+  - title: "DOCOMO Invests in AI-powered Voice Translation Provider Otter.ai"
+    excerpt: "Mirai Translate offers highly precise machine translation between Japanese and English. This is one of DOCOMO's key initiatives in its quest to help people overcome language barriers in everyday communication. DOCOMO plans to start to support the introduction of Otter.ai within Japanese companies during the fiscal year 2020."
+    publishedDateTime: 2020-01-23T02:12:00Z
+    sourceUrl: https://www.thefastmode.com/investments-and-expansions/16280-docomo-invests-in-ai-powered-voice-translation-provider-otter-ai
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 19
 
 secured: "dvM9hXsBVn5s33px2DZVP9tDEvcWKMyt6nC2eYoIyXLqnIADBmw8TY4N1Vmyw1GkvbOCgEBAoxyp2Rp89NCFQPs6MrOjeHZI93Nw9dzkb2EE2YefhnJ1vDSSVtSymxrhjMR4FzCZX6U2ALe/iaGCk6+GT7rAzGhSr3d9buRk9tYN3i1LHAerM8CrwS4UL0uPooL9I4EpICKtfB6mSxJ6B4sRrHnfsePUiM4k7HIgDf31qB76++cc3d4v2CHSAdsp9opsr+Z+eElHQ5AT3dZ/urRT5tXaTcMbWg1BdJ7U88ExQcVPQkEHcfvpnz6NV2MVovHmlcl+AWEripkYE8vZVIDAK+R92Xe19j0/y7JY/zgeDTCetN6fJGUv0PFpTqew+BQuedwjbij/z1xua+jnGWp/tWnbde4wO2upQUmauEZ9M68Ua69Uw/vVdrLG2HWIQ78GdJ5DhHr0DLKQnyitdw==;SaP4zkOB7+erDRuLOtRU9g=="
 ---

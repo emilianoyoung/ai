@@ -8,7 +8,7 @@ ampUrl: https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-m
 cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "SEBI eyes AI, machine learning to fix market manipulation"
 
 related:
-  - title: "SEBI to tap artificial intelligence, big data analytics to curb market manipulations"
-    excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning, big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a “data lake” project to augment analytical capabilities, he said while speaking at the Speaking at the National Institute of Securities ..."
-    publishedDateTime: 2020-01-23T09:25:00Z
-    sourceUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece
-    ampUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 50
-    images:
-      - url: https://www.thehindu.com/news/national/g3k9ri/article30577966.ece/ALTERNATES/LANDSCAPE_615/16THSEBI
-        width: 615
-        height: 384
   - title: "Sebi to tap artificial intelligence, big data analytics to curb market manipulations: Ajay Tyagi"
     excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning , big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a \"data lake\" project to augment analytical ..."
     publishedDateTime: 2020-01-23T08:49:00Z

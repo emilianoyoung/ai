@@ -18,19 +18,15 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Global Affective Computing Market In-depth Analysis with Strong Application Scope from 2020 to 2024"
-    excerpt: "Global Affective Computing Market serves a comprehensive and extensive analysis towards the changing dynamics and advanced looking prospect on various factors driving or constraining industry development."
-    publishedDateTime: 2020-01-14T05:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-affective-computing-market-in-depth-analysis-with-strong-application-scope-from-2020-to-2024-2020-01-14
+  - title: "Artificial Intelligence in Healthcare Market Advanced Technology and New Innovations by 2023 – Welltok, Intel, Nvidia, Google"
+    excerpt: "Market Industry Reports (MIR) has announced the addition of the “Global Artificial Intelligence in Healthcare Market Research Report 2019” The report focuses on global major leading industry players with information such as company profiles, product picture and specification. Artificial intelligence assists the machines to perform any task ..."
+    publishedDateTime: 2020-01-20T12:39:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37700/artificial-intelligence-in-healthcare-market/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 7
 
 secured: "7RnLCbvBmLrBzG/mcIH0+F5Ik8N3vqmuRAmedE3OcD62y7Tq6AyfyXKDXCyXe5Gx/Ki0fX34HfY1J3elWmxBzWldXNxnaZ7g8WkuDSp5eO3A+ICiQSWak3/x3wxtSvbgfBHZV9jmXY2r46U/O8yZB0l5SEL9PFte8fWknfS7sfp9HPcYlXuh/7r51qTZzhCaXK5lYLq+LMfMaAcpfRos/Hj+fkGR/BQKGF+L3zDVj0wRanKeK/Pvjg8IZKli7SO/py3O3b14q3uIzmJccCtnGIqS9CoYgK3WZjXF6TWxOvE=;Vuant5XTBoYqfbNdOMggog=="
 ---

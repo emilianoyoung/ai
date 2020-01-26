@@ -20,43 +20,71 @@ topics:
   - AI in Finance
 
 related:
-  - title: "How the Pentagon’s JAIC Picks Its Artificial Intelligence-Driven Projects"
-    excerpt: "The Pentagon launched its Joint Artificial Intelligence Center in 2018 to strategically unify and accelerate AI applications across the nation’s defense and military enterprise. Insiders at the center have now spent about nine months executing that defense driven AI-support. At an ACT-IAC forum in Washington Wednesday, Rachael Martin ..."
-    publishedDateTime: 2020-01-23T13:00:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2020/01/how-pentagons-jaic-picks-its-artificial-intelligence-driven-projects/162594/?oref=ng-homepage-river
+  - title: "Artificial Intelligence or AI: Here is how it is transforming healthcare"
+    excerpt: ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new Artificial Intelligence (AI)-based technique that can detect low ..."
+    publishedDateTime: 2020-01-15T17:14:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 51
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 88
     images:
-      - url: https://cdn.nextgov.com/media/img/upload/2020/01/22/NGpentagon20200122/open-graph.jpg
-        width: 400
-        height: 400
-  - title: "Exclusive: Here's how Tata's new AI-driven mutual fund plans beat the market and how it will react if a war breaks out"
-    excerpt: "Some, like the $54 billion Pangora Asset Management Quant Fund, even use natural language processing (NLP) to keep tabs on traders to predict upcoming market trends. \"We have tried that, we didn’t get much of a lift from using that data. So, currently ..."
-    publishedDateTime: 2020-01-21T07:12:00Z
-    sourceUrl: https://www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/articleshow/73476096.cms
-    ampUrl: https://www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/amp_articleshow/73476096.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/amp_articleshow/73476096.cms
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg
+        width: 679
+        height: 365
+  - title: "GBT Technologies Transforming the Future Healthcare AI Market"
+    excerpt: "NEW YORK, NY, Jan. 16, 2020 (GLOBE NEWSWIRE) -- GBT Technologies, Inc. (OTC:GTCH) (GBT) is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT, are growing ..."
+    publishedDateTime: 2020-01-16T15:00:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15134360/gbt-technologies-transforming-the-future-healthcare-ai-market
+    ampUrl: https://amp.benzinga.com/amp/content/15134360
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15134360
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 35
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+  - title: "AI Stock News: GBT Technologies (OTCPINK: GTCH) Transforming the Future Healthcare AI Market"
+    excerpt: "NEW YORK, NY - January 16, 2020 (Investorideas.com Newswire) GBT Technologies Inc. (OTCPINK: GTCH) (GBT), is among a handful of companies that are developing Artificial Intelligence (AI) and Internet of Things (IoT) solutions that are expected to transform the future of the healthcare industry. Both segments of the industry, AI and IoT ..."
+    publishedDateTime: 2020-01-16T14:33:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2020/01161Healthcare-AI.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 43
     images:
-      - url: https://www.businessinsider.in/thumb/msid-73476132,height-275,width-412,imgsize-320246/stock-market/news/exclusive-heres-how-tatas-new-mutual-fund-plans-to-use-ai-to-beat-the-market-and-how-it-will-react-if-a-war-breaks-out/stocks.jpg
-        width: 412
-        height: 275
-  - title: "Cloud Services Survey Reveals Critical Need for AI-Driven Continuous Optimization"
-    excerpt: "/PRNewswire/ -- Opsani today announced the results of a year-long survey of hundreds of enterprises running cloud services that revealed a critical need"
-    publishedDateTime: 2020-01-23T14:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/cloud-services-survey-reveals-critical-need-for-ai-driven-continuous-optimization-300992032.html
+      - url: https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg
+        width: 649
+        height: 328
+  - title: "Crouse Health using AI software for stroke care"
+    excerpt: "A company called Viz.ai is providing the system. Viz.ai has offices in San Francisco, California and Tel Aviv, Israel. The firm says it focuses on using applied artificial intelligence (AI) software in health care to “reduce time to treatment and improve patient outcomes,” per a Crouse Health news release. When a patient is transported to ..."
+    publishedDateTime: 2020-01-17T17:31:00Z
+    sourceUrl: https://www.cnybj.com/crouse-health-using-ai-software-for-stroke-care/
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
+      name: Business Journal News Network
+      domain: cnybj.com
+    quality: 39
+    images:
+      - url: https://www.cnybj.com/media/16828/revitalize_download-square.jpg
+        width: 625
+        height: 521
+  - title: "Health care needs AI. It also needs the human touch"
+    excerpt: "We see the writing on the wall, yet it’s hard for us in our day-to-day clinical work to imagine a time when artificial intelligence will have a real impact on what we do. Your weekly guide to how tech is transforming health care and life sciences. Please enter a valid email address. Leave this field empty if you're human: It might be that ..."
+    publishedDateTime: 2020-01-22T12:17:00Z
+    sourceUrl: https://www.statnews.com/2020/01/22/health-care-needs-ai-it-also-needs-human-touch/
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: https://www.statnews.com/wp-content/uploads/2020/01/AdobeStock_215322148-1024x576.jpg
+        width: 1024
+        height: 576
 
 secured: "PWxSbkeacSEVZwSQfQY1VYza7dknejj8caFE4j9OevTeX3IAgWnP0XAq7vn7EqxRebh8zU9ftQEiAVBDOiECle7aG74np2yH4sIZS+JVHWiUTrg3Ga/7hilE8yAjaveOwTDQqICs+W86DaE4iVkgPil//Jq0cLuj+3WsKmLUDaDrRqS/0hNa5H+oCX/MaUBAd8dIz9z3EdEqHse4hjuQ6p7QDQ+PAAzG+doGjHphMxGocUNYejrW7d/HtGNhQhPkhy34UzrAsDk4xT3g3YdM4VV7MsHer4lz5C1y94+Nh/Pv4/xswKUFlepIDiP98vIK7QYgQkZsqQ4ivmZYqAYanOFpJrspwn5wzg3Irt/vLH+L8jdqEhS6bvWzPVQK0qVqWZcbW/yCAkWllbG3og1E+6qQqQJ+rAL+a95gbMuCBwGIf82CcJbnwHLAeYaSJI2hpj20E4u6GJxYFO7BhA5gtg==;umvTWXFMev0oAEUEeu7xMA=="
 ---

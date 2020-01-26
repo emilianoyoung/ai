@@ -36,19 +36,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Varicent acquires Symon.AI to provide enhanced analytics to business users and data scientists"
-    excerpt: "He will continue with his teaching and research alongside his duties at Varicent. “In my work across myriad brands and businesses, the Symon.AI technology stood out and compelled me to become involved with Varicent,” said Dr. Joel Shapiro, Chief Analytics Officer for Varicent. “With this technology Varicent now has the opportunity to ..."
-    publishedDateTime: 2020-01-23T00:36:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/23/varicent-symon-ai/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 27
-    images:
-      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
-        width: 304
-        height: 430
 
 secured: "nvILc6OUYBSa2arujOxykzOwoTEicZv5+Wb+pzL1xVbFScLVkpyyYsMdrDaiTNXtvOqILl6Kbpw14zmVXAL0vebgYsIbE3oaoR/g1ZdrJ4p0Pd2UnMYvpZ7c6x7bkme8amLJ9wzyo2546WDzx7dENnFhsw/ee9etapVAalEHXQILSscIJix34umlXGoVfb2/JV931G9S2JQ0uVHs4dWLDHa37qYtZIXvwjAmT/bAyDfDGgad2pNSWco4UeElvD1brhktYTLEZSQxgIohSvY472jn5qDRZnkaod0ctR9jh8ssiIDOcXu5IXZ3U3b2V06e;YL5N/BI1uIRr1jUW8Uswiw=="
 ---

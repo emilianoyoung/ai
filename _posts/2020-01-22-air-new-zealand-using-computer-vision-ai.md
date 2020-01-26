@@ -41,6 +41,21 @@ related:
       - url: https://media.itpro.co.uk/image/upload/v1579733058/itpro/BoA_Erica_AI.png
         width: 2173
         height: 1082
+  - title: "Get ready for the emergence of AI-as-a-Service"
+    excerpt: "A new “_” as a service model is ... case managers, or financial advisors. In the case of a claims adjuster, for example, they could use an AI-based solution to run a query to predict claim costs or perform text mining on the vast amount of claim notes. Layering insights for better outcomes Machine learning technologies, when integrated ..."
+    publishedDateTime: 2020-01-24T11:29:00Z
+    sourceUrl: https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/
+    ampUrl: https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/
+    cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design43-796x417.png
+        width: 796
+        height: 417
   - title: "Where Voice Experiences Fit in Customer Service"
     excerpt: "Fluss added that voice is the most ubiquitous and easiest form of interaction for most people, and the cost of the underlying technology for voice recognition has dropped. “When a customer is calling into the enterprise it’s because they tried web and mobile and still have questions, couldn’t complete their transaction, or because they ..."
     publishedDateTime: 2020-01-16T15:56:00Z

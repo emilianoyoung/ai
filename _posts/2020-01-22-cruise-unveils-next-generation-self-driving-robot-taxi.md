@@ -41,6 +41,34 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667
         width: 1200
         height: 800
+  - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
+    excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
+    publishedDateTime: 2020-01-22T10:08:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15160801/gm-backed-cruises-self-driving-robo-taxi-revealed
+    ampUrl: https://amp.benzinga.com/amp/content/15160801
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160801
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: https://www.benzinga.com/files/images/story/2012/01.jpg
+        width: 1750
+        height: 869
+  - title: "Test shows promise of self-driving cars for transit"
+    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
+    publishedDateTime: 2020-01-25T19:00:00Z
+    sourceUrl: https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 24
+    images:
+      - url: https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg
+        width: 640
+        height: 431
 
 secured: "bEKSFkU2slRD+FBIJu8yTbg8zqAzIzDOyygf9yeCN+uQ3J+UUR5Ek4HdKxpyjIY7nkLZRFBi2dqRdp1poyDN4df2zXrRmAFJXs41MA5ddph/ivwyKkVgWZQ2+FkEMbzu36lNzP0fezyCpiDPenSv1NkJJmxQzJYu8mcEkAguZbCtrguOecHhGzLdluSMnrxFKGr/41Dek8N5Ra5rTJK0tkf7Rv+Y7av51MCH9E8ya3oMPrynGc1jbLK6VgbtWgZKObL80w1lO22v9ROnzH65IGKF0GaTNAP8uDHky4UUJeYgV63A8PO85F/zhXV8ur4df6D8w0V+6x5J3P7Clv4PLAY7mXWx7X/RNSr6Xz9H80Ixf/PibpSuOnBY37WeG3kogdFfonAk1FYz0oMVXFT4mk+gC6YGG64nUSCZH0T7M0Gk2BAtOS+nM/JY/LBDuIZuo/fdm8ZsjgY6lSMo/8Hy1A==;xIAddPRZ1tE94VNIcHBPnA=="
 ---

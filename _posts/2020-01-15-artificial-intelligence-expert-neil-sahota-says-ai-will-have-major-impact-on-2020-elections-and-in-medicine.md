@@ -23,6 +23,6 @@ images:
     height: 335
     title: "Artificial Intelligence Expert Neil Sahota Says AI Will Have Major Impact On 2020 Elections And In Medicine"
 
-secured: "zBUOFE+qJxhB4j4FZ91zBLbjAYcuw7vpC/FC9SbPzsOf4GWzbNdXOQfH5Xxb0c0/ltwIqgXyqqrWwYyDugbSPuRM0lXUTtCInHNl8SEfRHM+qhHIC/e826OuM0CsFMay//WbPzrLd/k3OoQsIakdYPo7z5DtHt4eVGqKqvIO4dxpRq0Gjqs/TeL3nscQhV9F1e8V0OS6R4iAffhr3d5oVmb40cnz8gxyvFMw4X8wdC1XIqTqV/qUbMF5Tf9yzu4xxSJn2WvyuAQi1zaGar2poJJ5z3iUsV51yNOtQ9C9fOORRYriXtRnxT5gF/k/UBvf;NdDHRfJPWd8eCWBxbHsnRQ=="
+secured: "rAvvRQvVVNsrxDh+6r3j4bWlLWw+k9WVRi/IQ9x1vRrL3GhW8soOh7xdnmNIhEtRX47P4rZfoWOEmY4DcAL6O2XAqI9zRPjoZTa2tAt+lgYl68vPGD7P7t1wA26QTsgCxFtdyphmtv4Ho7m32koaDmODWIIET8v58j/DK/MiGOpw9h2u3bqDhPtcVL3theaGLj9N03Xey2P4hYRvPpg0oZaJMxbc0jEJqkLKPO6FL1Y2/eS0PTf9VRTI+Z4PAU4W7evYTCOwQU8FKXRBVP5f2eeKp+pvc54gc/dZ6rUv758lKM+TuFOrLsJFlJF/oic7;QdOdl86+LC+DHboznGf+Kw=="
 ---
 

@@ -37,19 +37,6 @@ related:
       - url: https://image.businessinsider.com/5e2070e462fa81731158e622?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Every business can use - and afford - artificial intelligence"
-    excerpt: "Gartner's hype cycle for artificial intelligence (AI ... only available through expensive and nuanced breakthroughs such as self-driving vehicles. It's a perception that professionals encounter, and counter, every day. \"A lot of businesses think AI ..."
-    publishedDateTime: 2020-01-15T19:30:00Z
-    sourceUrl: https://www.itweb.co.za/content/4r1ly7RoeXeMpmda
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: https://www.itweb.co.za/static/pictures/2019/05/-fs-Machine-learning-2019.jpg
-        width: 816
-        height: 459
 
 secured: "00dmRz6Q/Ud5me1+9MJzVhyzrTnxvkt6LWwjzu4iXHhhCMn1M6Z1I2mLR5VWpglAgE8gK5y9pk6nIIlZVHhaT48M1CEE2XOV3Q4e4LgrYCUmda/lNrKqy3MwustMJguO46ThjXaErvQk4E6iOT5n/m8fw+xqTo1XcHYM0ATW/l0A/Zi1yL3MJdasOiOfx90BHy9EKkvnZFaMqEgipBzUn43E8Chs59OVePtMS2ac8NLqu/p1VSI6aFalOwnCfgBogxRkAo76+2p5HIX5S7pN9x5DVEZuBAESpt2DccsNlGU0XdaTWezZvc4QG52DEfgyxv1k7/O0/VewuFxnACP7CBK/6U5lynxal4qosYtOZvzi0sRIvD1LfvF/Hp7wjkn9stJezh3ho59KhntOP6eroutfpKF1qLan7dk9OkXVKmdvbDWotZHVwJ2Rhgo5en+GranbkR3IPoZ/P0khTuvD5A==;/ZXvU4mQUnWkBU0Bm/223g=="
 ---

@@ -57,6 +57,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Automotive Speech Recognition System Market 2019 to Witness Excellent Long-Term Growth Outlook"
+    excerpt: "Get an extensive research offering detailed information and growth outlook of the Automotive Speech Recognition Systemmarket in the new research report added by Big Market Research. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in the market."
+    publishedDateTime: 2020-01-18T04:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2019-to-witness-excellent-long-term-growth-outlook-2020-01-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence In Medical Imaging Market 2019 Disclosing Latest Trends and Advancement Outlook 2025"
     excerpt: "The Artificial Intelligence In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Medical Imaging Market\"."
     publishedDateTime: 2020-01-20T20:22:00Z
@@ -70,6 +83,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Smart Robots Market 2020-2024| Evolving Opportunities with ABB Ltd. and Amazon.com Inc.| Technavio"
+    excerpt: "As a result, companies are increasingly adopting smart robots, such as collaborative robots and professional robots, which are equipped with advanced technologies, such as artificial intelligence (AI), machine learning (ML), and analytics. Collaboative robots can perform tasks such as order pick and place, packaging and palletizing, machine ..."
+    publishedDateTime: 2020-01-18T01:22:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-smart-robots-market-2020-2024-evolving-opportunities-/2020/01/17/9083484.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: https://mms.businesswire.com/media/20200117005289/en/768160/4/Global_Smart_Robots_Market_2020-2024.jpg
+        width: 480
+        height: 270
 
 secured: "wypMvw+fhsT0hi51o5Yz18QA1oksjNt6XixNhKhs/3u8t3sG/XlKZIhiRtryvVxrnh6xtOrIkC6DsQP3sysHN3O+ZyCvWFAeGZ/O2G5NXLYB3ONOPDZ8xXAcWNr7CfjXICdl2+1EtIaVSOsSxKJQJoLKDLIP5tUA9R3H5Sc/8bHjTNWN3vhH/0YlXWxoYn1lYmDilw1K0eJ9EqUXIoVuC2BRuZitlA7evnHcHnxqoYkL4T9AGWGPnvHBBU+GXqlfbMEKnyTsu5w3WxvZWkYWjZMpQAplW2JClgINR9WVUhtfD+9rOuBjArJIEYC9CPLY;AGeW0qFMdB8KDFc1ymCCBg=="
 ---

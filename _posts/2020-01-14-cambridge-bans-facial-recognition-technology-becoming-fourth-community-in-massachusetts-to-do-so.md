@@ -41,6 +41,19 @@ related:
       - url: https://media.bizj.us/view/img/7486812/cambridge*600xx540-361-33-0.jpg
         width: 540
         height: 360
+  - title: "Cambridge City Council Votes to Ban Facial Recognition Technology"
+    excerpt: "The Cambridge City Council unanimously approved a measure to ban the use of facial recognition technology in a 9-0 vote Monday night. Following the lead of Brookline, Northampton, and Somerville, Cambridge is the fourth city in Massachusetts to restrict ..."
+    publishedDateTime: 2020-01-15T17:37:00Z
+    sourceUrl: https://www.thecrimson.com/article/2020/1/16/cambridge-city-council-bans-facial-recognition/
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com:443/thumbnails.thecrimson.com/photos/2017/12/12/171522_1326747.jpg.635x423_q95_crop-smart_upscale.jpg
+        width: 635
+        height: 423
 
 secured: "M35PFBMgdqe/Mfx885dlHkOuEeyunAeslR1hkad7X2KIaeed56eS3EicJ3vneleCZfruEnPJaAZFPcYCWUpCWhB1GmovYvz5MoQWKAj8dTl1/mEYEQOE4/sCqfBDqglZyBeAWDZIdKBKK7cIAWVd6Y1FBeFSJlzsEOOah1RQCMO1G+nN6XSSLLEvS+1F414gLR2P1VzqnccuVsS5jxb2taXrJnsGL+YCKigTwjM4snkzASn+T54sBicPw4XbZgRQ6306yKzB2ugZhDIPW/Fxo6Cof3Mmg0oPXfvqRCdYXmw=;8lhzY4g9pjMEW7ujK7ogcA=="
 ---

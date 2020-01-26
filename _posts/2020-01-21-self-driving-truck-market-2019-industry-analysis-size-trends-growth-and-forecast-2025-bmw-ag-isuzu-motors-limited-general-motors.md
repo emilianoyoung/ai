@@ -18,32 +18,34 @@ topics:
   - AI in Autos
 
 related:
-  - title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
-    excerpt: "The GPU Market Forecast Report provides details analysis of keyword industry which will accelerate your business. GPU market report covers the current state of business and the growth prospects of the worldwide keyword Market."
-    publishedDateTime: 2020-01-24T08:25:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gpu-market-research-industry-outlook-current-trends-and-forecast-by-2024-2020-01-24
+  - title: "Neural Network Software Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "New York, January 22, 2020: The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software,"
+    publishedDateTime: 2020-01-22T04:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-22
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 47
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
-    excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
-    publishedDateTime: 2020-01-21T14:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
+  - title: "AI-Powered Storage Market 2020 – 2025: Business Profit Growth, Statistics, Competitor Landscape, Top Key Players and Industry Trends"
+    excerpt: "“AI-Powered Storage Market” Global AI-Powered Storage Market is expected to grow from USD 10.71 Billion in 2018 to USD 25.05 Billion by 2025, at a CAGR of"
+    publishedDateTime: 2020-01-20T08:55:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/ab15148714/ai-powered-storage-market-2020-2025-business-profit-growth-statistics-competitor-landscape-top-ke
+    ampUrl: https://amp.benzinga.com/amp/content/15148714
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15148714
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      - url: https://www.abnewswire.com/uploads/1579513552.jpeg
+        width: 489
+        height: 288
 
 secured: "OiHQ1jWhYHxgf6g2P5JOzlhk5dbqG/7Ctd9zV6hiXCqduNRSpYh0xuesUonn1wJAx064REo+hwXfDl1XVQ/d9C5/eozi25vbLH28NzSp9ZZY4KhzP1rFyUDAzQ15SGJc+8Psd99c8p0ad7yOaqcxCWiJMkqKY7xjYGAlS8zDATRRFLYRw/ocFykWuEQYnbBfwta/lw7Dct7Z40J5j8c6ygIG8nLnwMmsAJdDOHLpAN//bUF9AVlQS3P6GH19r8A0OtWQss6H7FEKN2gK7Q5oxBl+aHjO8wNWWl/MaO+eJko=;y0e0aPXyRN8WeVEEVYsEww=="
 ---

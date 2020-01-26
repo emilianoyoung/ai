@@ -70,6 +70,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/G_lvPl6_ldcLRJ6aHK7VhVQwQCs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg
         width: 1440
         height: 943
+  - title: "How AI-powered language tests can help identify the right talent to hire"
+    excerpt: "“It fascinates me that when you start to look at the literature around what are the skills that are going to be needed for the world going forward, they are the very things that the English language teaching (ELT) world has been teaching all along, they’re no different. I guess it’s rebranding.” Actually, artificial intelligence ..."
+    publishedDateTime: 2020-01-21T15:32:00Z
+    sourceUrl: https://www.arabianbusiness.com/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 58
+    images:
+      - url: https://www.arabianbusiness.com/sites/default/files/styles/fb_share_style_image/public/images/2020/01/19/Sue-Troy.jpg?itok=rrKCN5f5
+        width: 1200
+        height: 630
 
 secured: "ZanlayCfvlwIZhIguZtf1swjRAPY3DRV1ggULOLH7/I/mnOhJB3GCSHXLZJNhUazbIUobK8INSzh81s9pxWgoT/LGXbGxkCunVqLiBWj7ZsE9p7w0gGv/jCpjl5F/IfcYj/jDIrEziTNanVAm6khGrqfECHy7PmLSXGEg7dlzoQDBeYEyHPk1c6f8EEZapPBAHkTSA6FFm7rp2p4nk3K+fDXuOMSiT8Py2Np58YJL1YQ2jCPGWs69FqWeF4VqI0Fjt16rS6mepGMIwuXY9qEzzry+B5Tx7pfh4WSa2RgLpDs9FEqzlIi5SSRcPSlxPXAwcdVMM2/naINrq4qWOBOYvNQR5r0p1+BnB83TJyUjxXnMynhfoxChVYbu8zeuQGGPy9FCGJb+uM47YnB7DAzNAL56YXMPyPkpns8kWmH48ySeRu21RMMiIOhvGXMNo6BuxLBJwJm6emmWtPJwnytjQ==;BDrFt8+5szhOJzW2D1cimw=="
 ---

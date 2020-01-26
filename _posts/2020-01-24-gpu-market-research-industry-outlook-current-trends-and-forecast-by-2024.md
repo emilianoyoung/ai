@@ -28,6 +28,19 @@ images:
     title: "GPU Market research, Industry Outlook, Current Trends and Forecast by 2024"
 
 related:
+  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
+    publishedDateTime: 2020-01-23T21:48:00Z
+    sourceUrl: https://www.businessinsider.com/chatbot-market-stats-trends
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Artificial Intelligence Chip Market to 2027 - Global Analysis and Forecasts by Segment ; Type ; and Industry Vertical"
     excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with"
     publishedDateTime: 2020-01-21T14:05:00Z
@@ -36,20 +49,11 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 33
+    quality: 31
     images:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
-  - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
-    excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
-    publishedDateTime: 2020-01-21T12:39:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37759/self-driving-truck-market-2019-industry-analysis/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
 
 secured: "YLeRZtRpk8m85cct3Nybq/hGJicAbotrpViJ90j3Rhjo8hHhorxiIld7Te5AChgszCxGsZOr0xPiCN40ZT4XYeHFh54KauMWgRwDpkQQqX/ib8ZLHn+wKVKJalIyQe0Kup/B8DNSu9HyxCJCUohCzXzUVHfSzqT3ONiyw0LkXIFIkgEsot9CLARTUMVqnJisBSFmmozm9dXkUefdaFDdFOk+q4/1own44I7WiTbLcchEGP3jTBOmejQ4xe8f8j8/oCjhl+FJt+95tfmF/5/GhyD9EjNSLx1ImjajSRNFf3RwYg21jvXwXvUzqUWhPocF;7fpoVPZwxvQhHo96CGnIdA=="
 ---

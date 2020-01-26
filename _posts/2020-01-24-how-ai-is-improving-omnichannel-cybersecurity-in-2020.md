@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improvin
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/24/how-ai-is-improving-omnichannel-cybersecurity-in-2020/amp/
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -120,15 +120,6 @@ related:
       - url: https://s3.amazonaws.com/cbi-research-portal-uploads/2020/01/22112245/climate-change_news-coverage_CN_012220.png
         width: 512
         height: 276
-  - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
-    excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
-    publishedDateTime: 2020-01-24T11:26:00Z
-    sourceUrl: https://news.webindia123.com/news/Articles/Business/20200124/3494590.html
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "mKmMGsbqksJDAQ3rencxJ2VQ2Slt3JlkDWDdfy/ArlWMNhpwfOKZNnJIFQFtNH4ZvIKsCuSb9N3M3XFpuy5r8mNAM1DEB0xwdeVFdl1ArtMxTWEsHxyoifWatHpgYRSKZK8BIn10jQwDYKoJ3fLJT4Y021sbCs1d9eh5epaSgHzgFy6ar57Oyso68SWeqaQ/PY55rz+5fSz4eiML73zn37yMexnfbB7jOKxeQ8bmIaRmneCAkMfRt5E3FOKt1pXTWyif36AlPVlVYMktkVKKQ5TV5fK3sSYRy51dq6UARaD9VHlyR3Vs7wA2aP8DVl7b9Uybyv8/Vmvuu1PXBgw3YNiatvcCCFsGSz7aoZ6bdZtnW3jYEwLdFJadvY0kHLChy2tKv2RFy9v75Ard3ksCJYdOs8T/qpYz46+p3PbewhpuBX2G65MphZsE983OwT6bptf/FhY0EEdlBak0WNvPwDbWfvJ+2v6fxVng933PSY4=;eesbjCdfKhw26v054G16Mg=="
 ---

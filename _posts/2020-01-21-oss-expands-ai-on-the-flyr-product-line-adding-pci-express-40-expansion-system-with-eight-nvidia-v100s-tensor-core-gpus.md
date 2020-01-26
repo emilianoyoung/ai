@@ -5,9 +5,9 @@ excerpt: "One Stop Systems, Inc. OSS, +0.99%, the leading provider of specialize
 publishedDateTime: 2020-01-21T12:31:00Z
 sourceUrl: https://www.marketwatch.com/press-release/oss-expands-ai-on-the-flyr-product-line-adding-pci-express-40-expansion-system-with-eight-nvidia-v100s-tensor-core-gpus-2020-01-21
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 58
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - AI Hardware
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "OSS Expands AI on the Fly(R) Product Line, Adding PCI Express 4.0 Expansion System with Eight NVIDIA V100S Tensor Core GPUs"
 
 related:
   - title: "OSS PCI Express 4.0 Expansion System does AI on the Fly with Eight GPUs"
@@ -45,6 +51,6 @@ related:
       domain: businessinsider.com
     quality: 39
 
-secured: "eIAe38WNgPEvgRj7IaufFJWEjAsvag9Vte7FBeAOEfH0Cxmn6rMRghv2DZUVPMcvwXujyCgYbiLObs29xYj9AQIpST1+ItdE8nYbAZ5SLMLT9RcERMzGgdFYjdoffr+rhbZA+ee/rokYq0VAlq8GhS0MMyndkJJx4fhV49Ir6Yw0k9cIwHJUNJCiXpVM3/GzwVuMJRswKKeMQpoOr6oCDPJ2s7GpOAYXHh+KbWKwESMP1WPiHz1o/5SyK+DGDkSYZ8f7PJI94Qoz4mIJaVXodq/gFF4pjSQ8x+VDTs/ooW5+dV4vqW4CL4eus73+wzlg;teApknE4/6bS/tYdQWlPLg=="
+secured: "UN0idz9o0QXpYHwIVXp16MxllPFP/18xfi1zd2t6xlWkSv01Y9ofayX74g1dTSw48zejnC7AWgY7ZrVNYc7gCKVQNXpk5+qEPBxCrRnsQS2oWyWOGaCW3mRT9yFZ5zNKGsp5n2eTir1rQsxKXyANNlD/ZskH441YsfHupbyac6l/nOq4TMAoHs2km+81pTkf/utFSHton1QMkdH6S2BIGPSvYyRXrmjzIZ6hsM+cGXBIB1H13gBmBKqT8GzCjZJiX87REFvT8jw//dsO8uwj29SvMV+4FHnd77UV1Qmlpz2VTLUcYsms+Ejv4N8FDWEN;sVgEwb8z/A1UL24boaeEOA=="
 ---
 

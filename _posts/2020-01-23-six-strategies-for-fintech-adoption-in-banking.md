@@ -91,6 +91,19 @@ related:
       - url: https://bdaily.co.uk/images/uploads/sEnCbXVe1i6mucg9Tr1kl5CHGvogkNMAx6N0AWOV.jpeg?w=940&h=430&fit=crop-50-50&s=33e72a848f890614183ea7b19622c751
         width: 940
         height: 430
+  - title: "Fintech-focused accelerator NadiFin opens to applications"
+    excerpt: "Applications for the next instalment of the fintech-focused accelerator known as NadiFin have opened ... NadiFin focuses exclusively on cutting-edge fintechs that use artificial intelligence (AI), machine learning, big data analytics, blockchain and other “deeptech” tools to create solutions for the financial services market and are ..."
+    publishedDateTime: 2020-01-16T05:52:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/fintech-focused-accelerator-nadifin-opens-to-applications-1.4140626
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: https://www.irishtimes.com/image-creator/?id=1.4140625&origw=1253
+        width: 1200
+        height: 630
   - title: "How Data Science is Shaping Fintech?"
     excerpt: "Thus, the transaction value of Indian fintech market is expected to elevate from $65 billion in 2019 to $140 billion by 2023 at a CAGR of 20 percent. Fintech companies majorly depend on AI, machine learning, predictive analytics and data science to provide superior services. Let us see how fintech is utilizing data science to enhance its services."
     publishedDateTime: 2020-01-21T13:19:00Z

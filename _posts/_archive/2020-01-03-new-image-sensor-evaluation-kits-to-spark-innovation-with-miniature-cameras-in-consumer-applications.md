@@ -5,7 +5,7 @@ excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support impleme
 publishedDateTime: 2020-01-03T14:43:00Z
 sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
 type: article
-quality: 9
+quality: 0
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png
-    width: 512
-    height: 512
-    title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
 
 related:
   - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
@@ -76,16 +70,7 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
-    excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
-    publishedDateTime: 2020-01-06T13:46:00Z
-    sourceUrl: https://www.design-reuse.com/news/47338/zglue-chipbuilder-pro-iot-ai.html
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
 
-secured: "sCRvHrJ0UqvILzBycYVbhOz+51hBjadm8m9hhc1X+iSLCXPBlvYCzbOME0fNf4OdXNUIX3HSpZmn9UOis0re1SkVm3RFFORJoQiGyGEyAEAEdAT/M49ojeGFym5kN6+0CcXcb983ATto7PcSGJc5QkrgWJtIEZNI4IG7WwaS808tYJX1+tAnFVoeC1ClakfbaH6+cJ3amAi6/Ms3Vg8TmNNfnG6k4uCruSmkL+VYz5tKZSjOO0VJqNPsQpQTMtJ1kg4juWMmhLgbEZ0BTSNQ7fJx32DNi33vwDEumflA0puEGQG5CfWPlkVGvzRvhVmd;5FbpJRlvrixORu1ZdbA2NA=="
+secured: "aRddsGVzKTGdWAS1Z8FutiKVzLEXGeJDB6R2kPEkOx8VwcVBdi5tJsXibyS1FQQELAwo1hf4m3hEtSaXop1PapZs4mi9P0D7pm3hPsjsGXNF+fpub7jOt6mZ7oe9m0mOjjQgzPl4F5NtZToKolrlA5enispfx+kTA2+o0kX8CsABM7S18NBc2BojuYQknGMPjRcb4diqAfdkpN8IWTQqiw5qcUORGOzA6TIgo1bAXmPUIwbF6J/KC6p3CYNNQSdrgZcjCl4afXforpPLSY6R/QUTKA+uxSE+HTwleSW5SGmL85tqz2QKVTFCLFYlVGeW;NrKFuhe9xwo7AY8h8w4adA=="
 ---
 

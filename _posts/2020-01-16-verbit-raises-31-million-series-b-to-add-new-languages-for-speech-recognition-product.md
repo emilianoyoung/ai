@@ -39,6 +39,62 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all
         width: 1200
         height: 600
+  - title: "Placer.ai raises $12 million to keep tabs on foot traffic in real time"
+    excerpt: "A somewhat newer entrant is Placer.ai, which was cofounded in 2016 by Noam Ben-Zvi, Oded Fossfeld, Ofir Lemel, and Zohar Bar-Yehuda. It might not rival location data giants like FourSquare and ThinkNear, but it managed to nab $12 million this week in a funding round led by BV Capital with participation from Aleph, Reciprocal Ventures ..."
+    publishedDateTime: 2020-01-22T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/
+    ampUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/06/global-e1579243388331.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Being human in the age of Artificial Intelligence"
+    excerpt: "A future where AI will be everywhere and in everything is coming sooner than we think and we need to be prepared like boy scouts advise us to."
+    publishedDateTime: 2020-01-19T10:08:00Z
+    sourceUrl: https://www.deccanherald.com/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
+    ampUrl: https://www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
+    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 57
+    images:
+      - url: https://www.deccanherald.com/sites/dh/files/article_images/2020/01/19/file78uvgzoba0mwflzi1oj-1579426179.jpg
+        width: 1200
+        height: 497
+  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
+    publishedDateTime: 2020-01-10T20:33:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
+        width: 1440
+        height: 1080
+  - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
+    excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
+    publishedDateTime: 2020-01-11T13:21:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2020-01/uovh-uhp011020.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/221276_web.jpg
+        width: 1440
+        height: 1080
 
 secured: "YOZUOln0uVn6wwhVRnqnjuT/UCJOeCTEfWmYiSZslRME+SYuukGLhwXBAKtCE4Ew4x51WO7jkNtY7YImNvGBPbdqbYWzysKRWEZoIZPXe5Bp6OHLgsDUTrilym7JU9Wa7YS67H/Xbk2uxqbEw4UXjwyKhJjqr2MFRSdKoH1OrtWfuf76WnlcDWwn2NjVXjUvSLSFpD1A0r2cVZpEF7aO+I0ljqg+BUYSRF6WwVaOUel0jNZzpK9aVwoey5FRQnRu31xD2sKbdP95liqON7uQn8f12zrIl1DHVCwLd3Wv4Vc=;vNM6D0a4dSnkBHkx7qh1cw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnersh
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
 
 related:
+  - title: "This is Cruise Origin – a self-driving EV to kill Uber, Lyft and car ownership altogether"
+    excerpt: "Cruise doesn’t want to sell you an autonomous car, just rent you a seat in one, and the Cruise Origin is the self-driving electric vehicle it believes will coax drivers out from behind the steering wheel. Handiwork of Cruise, General Motors, and Honda, the Origin is no hopeful concept, the trio insists, but an actual production vehicle that ..."
+    publishedDateTime: 2020-01-22T01:17:00Z
+    sourceUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/
+    ampUrl: https://www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/cruise-origin-electric-autononous-shared-transport-gm-honda-revealed-21607372/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 65
+    images:
+      - url: https://scdn.slashgear.com/wp-content/uploads/2020/01/cruise-origin-05.jpg
+        width: 1680
+        height: 946
   - title: "GM-owned automaker unveils first self-driving vehicle"
     excerpt: "Jan. 22 (UPI) --Self-driving carmaker Cruise has unveiled its first autonomous vehicle -- called the Origin -- and said it could be a look at ride-sharing fleets of the future. The Origin was revealed Tuesday in San Francisco after a six-month delay for more testing. Cruise is a subsidiary of General Motors. Cruise said, however, the Origin is ..."
     publishedDateTime: 2020-01-22T17:31:00Z
@@ -45,6 +60,17 @@ related:
       - url: https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2
         width: 800
         height: 533
+  - title: "Self-Driving Vehicles Need a Reality Check"
+    excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
+    publishedDateTime: 2020-01-16T21:45:00Z
+    sourceUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html
+    ampUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "axy6QjayXG7dBV2CM4qQAUxQzsCMG8urZjG4ylxhE6GREQp0YmVqIbO6CR1rgjWNrcYV5hn4a8lkc+PHYSQk6NjzLg393kKob5alo3MurFvtUareYq/FmJV8dZXWCGqOY4S9cCDKWjJbnQ7PdFDi+9gJ19p2B5WxQdMcmHBReKgUgcrEWRe027SMAS/z25KgpGhQyz+ymGF5fIPpZZhZJHHvt/ILt8QKcwI6jR0TA4vsUY2jf3wDRZ5WT04EyQ5r1JvyJeiU9BvBaILY9g2g6MSpfXm2b3lv6ftq8h/P1xtChR4c++hjonEQ9z4VTpeCbldQW+dsIvTKXYuyJP1WpD5DnVHHWiti7Bgl6gkE27Q8RRUrCVSRdMyUO7PUYfRwQvz5uDhiGbZBh6x9LGVUAo6ys1XTF0BVEsLBJDZQmnFl+2vbwxCU680oJW9J2FZ3RjdyMmqZIPcBk8fgcygPyw==;mYvP09E89pPwYoZ7w4sTBw=="
 ---

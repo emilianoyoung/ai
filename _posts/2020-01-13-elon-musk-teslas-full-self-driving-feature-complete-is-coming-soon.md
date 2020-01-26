@@ -43,6 +43,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg
         width: 796
         height: 419
+  - title: "Video shows a grandma freaking out while sitting in a self-driving Tesla Model S"
+    excerpt: "Tesla a few months ago rolled out a software update with a feature it calls Smart Summon. As the name suggests, the feature allows Tesla owners to beckon their car and have it drive itself to wherever they happen to be. Imagine, for instance, leaving a supermarket in the pouring rain and having your car meet you at the exit. The original ..."
+    publishedDateTime: 2020-01-13T00:26:00Z
+    sourceUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/
+    ampUrl: https://bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/12/tesla-autopilot-grandma-video-freaks-out-summon/amp/
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: https://boygeniusreport.files.wordpress.com/2016/08/tesla-model-s-new.jpg?quality=98&#038;strip=all
+        width: 1200
+        height: 680
 
 secured: "pYQPZoZ/QrYz5RpQGF2MxxaZIiCxS3Q/YIG0WQmI5TDhrObJvioPaLjx/Up2IRMtAWJXXxH/839sGysqhmq90TNGZdZyfdG54bJn85cuCf7rKpaBOfxoCC0uwyURoZ3iC+WjSXraNYa10BdplwErzgN6A7E1sJ/vgSYcN7pitxW6Ovg+XkjlYUY220Lr50xgdtxZC6TjorDapbOVJzw/R6gkgJyECmH7eUz5Js8Xy8sP4SvXwg8EeVPSQ07A1fGprufSYPIcl/YvQkloaiesMpwF9VY1OjkYB8bsmZQNhyARBMreYIm1Xfg1m0gjlKMHedQjqxCq4X0m9zuRUhTqPKmcxK7nU8DwitRfTVVTfox5+kbRFLfti85oOKIoX9eDZop7ZPuApdLh2Zoim8UJkNx9Vnw5h2SIprWZOF7G6vdDqVkTvUAi0Qc7NVzH9u8+4VdyC8Ov3VhhvAo751IjSg==;PNFjaoNfEvG3/uVl91+hnA=="
 ---

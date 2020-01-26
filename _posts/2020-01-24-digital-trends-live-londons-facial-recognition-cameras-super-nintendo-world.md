@@ -103,21 +103,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/7pxwMUlds7-o0Q6HyWeu1-EN94c=/0x0:6720x4480/1400x933/filters:focal(2823x1703:3897x2777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66159634/1161938926.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "London Police Will Begin Using Real-Time Facial Recognition"
-    excerpt: "The city, stepping into a debate over privacy, says it will use the technology “to tackle serious crime.” London’s police department said on Friday that it would begin using facial recognition technology in the city to identify people in real time,"
-    publishedDateTime: 2020-01-24T12:58:00Z
-    sourceUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.html
-    ampUrl: https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/24/business/london-police-facial-recognition.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: https://static01.nyt.com/images/2020/01/24/business/24london-recog/merlin_164586807_ce9d6b5f-ebc8-4e9a-85f4-1a9c9ac578f1-facebookJumbo.jpg
-        width: 1050
-        height: 549
   - title: "Police To Deploy Live Facial Recognition On London Streets"
     excerpt: "To the horror of civil liberties campaigners, London's Metropolitan Police has announced plans to use live facial recognition cameras in the capital. The cameras will be used 'at locations where intelligence suggests we are most likely to locate serious offenders',"
     publishedDateTime: 2020-01-24T13:56:00Z
@@ -439,6 +424,19 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-the-eu-might-ban-facial-recognition-tech-for-five-years.jpg
         width: 1280
         height: 720
+  - title: "Telangana to test facial recognition in polls as privacy fears mount"
+    excerpt: "Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri district to 'reduce impersonation cases,' the Telangana state election commission said in an online notification late last week The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday ..."
+    publishedDateTime: 2020-01-22T09:33:00Z
+    sourceUrl: https://www.dhakatribune.com/world/south-asia/2020/01/22/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 39
+    images:
+      - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
+        width: 443
+        height: 249
   - title: "London’s Met Police to Use Live Facial Recognition Technology"
     excerpt: "Critics of facial recognition took a big hit today, as London's Metropolitan Police service has announced they will begin using Live Facial Recognition (LFR) technology on citizens in the massive European city. As perhaps one of the most controversial technologies in recent memory, debate about the use of facial recognition to police citizens ..."
     publishedDateTime: 2020-01-24T22:05:00Z
@@ -558,6 +556,28 @@ related:
       - url: https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/27/18/facial-recognition-stratford-1.jpg
         width: 2048
         height: 1536
+  - title: "London police to use face-scan tech in real time, stoking privacy fears"
+    excerpt: "LONDON (AP) — London police will start using facial recognition cameras to pick out suspects from street crowds in real time, in a major advance for the controversial technology that raises worries about automated surveillance and erosion of privacy rights. The Metropolitan Police Service said Friday that after a series of trials, the cameras ..."
+    publishedDateTime: 2020-01-26T00:09:00Z
+    sourceUrl: https://www.omaha.com/news/trending/london-police-to-use-face-scan-tech-in-real-time/article_63a869e6-e882-55ff-8543-f3e2dc5a2c84.html
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/c3/ac371e57-1c1a-5fad-9cdc-c4772d24a273/5e2b5b66b25a8.image.jpg?crop=1745%2C982%2C0%2C102&resize=1120%2C630&order=crop%2Cresize
+        width: 1120
+        height: 630
+  - title: "EU considering 5-year facial recognition ban - report"
+    excerpt: "The EU may impose a temporary ban on facial recognition technologies used by both public and private actors, according to a draft European Commission white paper on Artificial Intelligence obtained by Euractiv. The document states that a future regulatory framework could “include a time-limited ban on the use of facial recognition technology ..."
+    publishedDateTime: 2020-01-20T10:43:00Z
+    sourceUrl: https://www.telecompaper.com/news/eu-considering-5-year-facial-recognition-ban-report--1323310
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "Y09GvHLyzevPbnT7RBDj55w7UIZJUQne0aWUx740VQeKqeyQwxOXyrW6hZkytkbzu5is/T3d9zjC3jFqw3WK7xgtwX/SXNPNITMRivkaMuDh6cmSXR4V7efjCPWzTYxlepSQvKpKKNmunFQIh3G0l5sUuqMjlKDN9JFjBh1/xTFfaaU0pU1TSJRkBIxj/BPYZqJzlTL09QFfdd/UhUoKod4TYFSmBBb0wTnQZGmPdt269HM+0KyZlgHH3cul4zCuKINn4XMgs3VD8wtlYuC7f1YNxEu33ZOWZdey+4Q7gPUR2pSCZMo4iEiI8bi8ZHXNxVIBRJpwpyoUoyNFlOZGbe7XRXtpfbvpCYfc7RBHUCJ+Bbruif08LakPSHmthqyApgJkmAVz0rLXqcFQ2yafNLBAu1HkrC4wmF8eEf1lsvXQR4TPfvNmhU6Vf0QD96u2d1EIjIMOHQoHgRkL/1DJ08rMxS3yJWavlSQTTOs51g8=;MyN5AtNTWSX0GKnVzul79Q=="
 ---

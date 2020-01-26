@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-fie
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     title: "Zinier raises $90 million to embed field service work with AI and machine learning"
 
 related:
+  - title: "Soul Machines raises $40 million for AI-powered customer-facing digital avatars"
+    excerpt: "The Auckland, New Zealand-based company found success relatively quickly, nabbing customers including Google, Sony, IBM’s Watson division, Bank ABC ... Plus, it’s worth noting that AI-generated high-fidelity avatars aren’t exactly the most novel thing on the planet. In November 2018, during China’s annual World Internet Conference ..."
+    publishedDateTime: 2020-01-09T15:48:00Z
+    sourceUrl: https://venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Iconiq leads $90M round for AI-powered field service startup Zinier"
     excerpt: "The San Francisco startup this morning announced that it has clinched a $90 million funding round ... ISAC provides features for handling core tasks such as scheduling repairs and dispatching technicians, plus an AI-powered automation layer that optimizes the flow of work. The platform suggests specific actions that field service teams ..."
     publishedDateTime: 2020-01-16T00:36:00Z

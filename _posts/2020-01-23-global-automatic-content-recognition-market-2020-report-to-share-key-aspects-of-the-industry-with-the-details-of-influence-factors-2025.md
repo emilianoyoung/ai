@@ -28,54 +28,45 @@ images:
     title: "Global Automatic Content Recognition Market 2020: Report to Share Key Aspects of The Industry with The Details of Influence Factors- 2025"
 
 related:
-  - title: "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029"
-    excerpt: "A recent market research analysis titled, Mobile Artificial Intelligence Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Mobile Artificial Intelligence market covering industry surroundings,"
-    publishedDateTime: 2020-01-23T06:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23
+  - title: "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity"
+    excerpt: "Still, most retailers have struggled to harness voice recognition. That needs to change, Gauthier argued. People are increasingly demanding the ability to communicate digitally without using their hands, and retail brands that get in front of the trend will benefit greatly. “We learn to talk before we learn to type,” Gauthier said."
+    publishedDateTime: 2020-01-16T21:46:00Z
+    sourceUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity
+    ampUrl: https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp
+    cdnAmpUrl: https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202001/voice%20shopping%20hero.jpg?itok=0JeW9_e_
+        width: 1440
+        height: 500
+  - title: "Speech and Voice Recognition Market Size, Strength, Major Types, Key Applications and Opportunities Forecast Till 2026"
+    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
+    publishedDateTime: 2020-01-20T08:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-strength-major-types-key-applications-and-opportunities-forecast-till-2026-2020-01-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 30
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Social Media Market Augmented Expansion to Be Registered by 2020-2029"
-    excerpt: "A recent market research analysis titled, Artificial Intelligence in Social Media Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Social Media market covering industry surroundings,"
-    publishedDateTime: 2020-01-16T08:05:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-augmented-expansion-to-be-registered-by-2020-2029-2020-01-16
+  - title: "Telangana Municipal Elections 2020: In a first, face recognition app to be used in polls on pilot basis"
+    excerpt: "In a first-of-its-kind in India, the Telangana State Election Commission will be using facial recognition app in a bid to counter impersonation by voters on a pilot basis in 10 selected polling stations. The initiative will be implemented in Kompally Municipality of Medchal Malkajgiri district, an official release said. However, a negative ..."
+    publishedDateTime: 2020-01-20T05:24:00Z
+    sourceUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/
+    ampUrl: https://www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/telangana-municipal-elections-2020-face-recognition-app-to-be-used-in-polls-on-pilot-basis/1828624/lite/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "How Does AI Contribute to the Efficiency of the Utility Industry?"
-    excerpt: "AI also maps the ideal layout for new energy farms and storage spaces as the enterprise scales. Hence, utility companies should start deploying AI as soon as possible. It will not only empower the companies to reduce costs but also expand access to renewable power and preserve the natural environment."
-    publishedDateTime: 2020-01-25T03:33:00Z
-    sourceUrl: https://www.cioreview.com/news/how-does-ai-contribute-to-the-efficiency-of-the-utility-industry-nid-31102-cid-41.html
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: https://www.cioreview.com/news_new/companyimages/10xwg.zzfij.Avertraguys.jpg
-        width: 430
-        height: 300
-  - title: "AI in Retail and e-Commerce Market Continues To Show Positive Growth"
-    excerpt: "IBM, SAP, AWS, and Microsoft are the key players in the AI in retail and e-commerce market. In 2017, Godrej Interio, a leading furniture brand in India, collaborated with IBM and selected Watson Commerce for increasing customer engagement and experience. Kroger, one of the America's largest grocery store chain, and Microsoft partnered in ..."
-    publishedDateTime: 2020-01-24T06:43:00Z
-    sourceUrl: https://www.openpr.com/news/1907036/ai-in-retail-and-e-commerce-market-continues-to-show-positive
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 23
 
 secured: "FRrSYFXHFctVTy92aMQUO+Sz4Uv+EuBACXHHi/70beNteBHMMvh2KMQo41rCx9wcA8X20HZdmlhhHsE5klHKZaiQIOjfGGilSKh2WkWwTiXYnade1n5RoSl/CxStqW4k5GcJG22NdWSkHy1t7Xa91MEyIRJSUEd/+6dR1oSDaguQOt4iqgpV3vwOLzPaEk3Pgjitn11IPyn/OF8jKA26geg/YVT3MXkb8MVA4OMBCm031wb5bN5ae12BTPQ8yUtycq0zKCbvQ9PBdtS7ZNALHQNYsbeyWTV3AMKvWi1oWK7UMEcZZwq67dcVZwm+ATCM;YC+ceKky9b3wDKhLm5fhjA=="
 ---

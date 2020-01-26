@@ -61,6 +61,21 @@ related:
       - url: https://www.washingtonpost.com/resizer/G_lvPl6_ldcLRJ6aHK7VhVQwQCs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg
         width: 1440
         height: 943
+  - title: "How AI-powered language tests can help identify the right talent to hire"
+    excerpt: "“It fascinates me that when you start to look at the literature around what are the skills that are going to be needed for the world going forward, they are the very things that the English language teaching (ELT) world has been teaching all along, they’re no different. I guess it’s rebranding.” Actually, artificial intelligence ..."
+    publishedDateTime: 2020-01-21T15:32:00Z
+    sourceUrl: https://www.arabianbusiness.com/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 58
+    images:
+      - url: https://www.arabianbusiness.com/sites/default/files/styles/fb_share_style_image/public/images/2020/01/19/Sue-Troy.jpg?itok=rrKCN5f5
+        width: 1200
+        height: 630
   - title: "Four Ways Artificial Intelligence is Transforming Real Estate"
     excerpt: "It's not uncommon to use tech when buying or selling real estate, but according to many A.I. developers, we've only just scratched the surface. Paul Armstrong, CEO of Here|Forth, explains how A.I. will make buying and selling real estate smoother than ever before."
     publishedDateTime: 2020-01-18T05:01:00Z

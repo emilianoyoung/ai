@@ -30,121 +30,47 @@ images:
     title: "This is Cruise Origin – a self-driving EV to kill Uber, Lyft and car ownership altogether"
 
 related:
-  - title: "GM's autonomous car company, Cruise, unveils Origin self-driving shuttle"
-    excerpt: "The automaker’s autonomous vehicle subsidiary, Cruise, unveiled a self-driving shuttle prototype on Tuesday in San Francisco, and it doesn’t have a steering wheel, foot pedals or any driver controls -- just seating for six accessed through large sliding doors. The all-electric Origin was designed to provide maximum passenger space and will ..."
-    publishedDateTime: 2020-01-22T03:00:00Z
-    sourceUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin
-    ampUrl: https://www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/gm-autonomous-car-company-cruise-origin.amp
+  - title: "Lyft’s autonomous vehicle partner Magna is done with self-driving tech"
+    excerpt: "The auto parts maker plans to focus on assisted driving. Two years after teaming up with Lyft to collaborate on self-driving technology, Magna said that partnership's coming to an end. The auto parts maker plans to focus on assisted driving products, instead of fully autonomous tech. Magna isn't fully severing ties with Lyft, in which it ..."
+    publishedDateTime: 2020-01-17T03:02:00Z
+    sourceUrl: https://www.engadget.com/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+    ampUrl: https://www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/16/lyft-self-driving-tech-partnership-ending-magna/
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
+      name: Engadget
+      domain: engadget.com
+    quality: 74
     images:
-      - url: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin.jpg?ve=1&tl=1
-        width: 640
-        height: 320
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-23T00:12:00Z
-    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
-    ampUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/
+      - url: https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6331%252C4223%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F2fa83510-38aa-11ea-bdab-ba516203e818%26client%3Da1acac3e1b3290917d92%26signature%3D740de19c4f087efeacd976980dcbc932d65cf18a&client=amp-blogside-v2&signature=c1e264aaff1ea7ffa94e2fcf1c60d9746caa91d2
+        width: 600
+        height: 350
+  - title: "GM-owned automaker unveils first self-driving vehicle"
+    excerpt: "Jan. 22 (UPI) --Self-driving carmaker Cruise has unveiled its first autonomous vehicle -- called the Origin -- and said it could be a look at ride-sharing fleets of the future. The Origin was revealed Tuesday in San Francisco after a six-month delay for more testing. Cruise is a subsidiary of General Motors. Cruise said, however, the Origin is ..."
+    publishedDateTime: 2020-01-22T17:31:00Z
+    sourceUrl: https://www.upi.com/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
+    ampUrl: https://www.upi.com/amp/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
+    cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/01/22/GM-owned-automaker-unveils-first-self-driving-vehicle/2591579711109/
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000
-        width: 1000
-        height: 500
-  - title: "GM's Cruise rolls out a self-driving shuttle developed with Honda"
-    excerpt: "GM's Cruise rolls out a self-driving shuttle developed with Honda The boxy Cruise Origin has no steering wheel or gas pedal in order to free up room for passengers Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/"
-    publishedDateTime: 2020-01-22T06:49:00Z
-    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/21/general-motors-autonomous-vehicle-unveiling/4530535002/
-    ampUrl: https://amp.detroitnews.com/amp/4530535002
-    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4530535002
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: UPI.com
+      domain: upi.com
     quality: 44
     images:
-      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?crop=1379,1034,x227,y437&quality=50&width=640
-        width: 640
-        height: 480
-  - title: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle"
-    excerpt: "GM's Detroit-Hamtramck plant will build Cruise Origin self-driving shuttle The automaker will lay out plans Monday to build self-driving and electric vehicles at the plant that had been targeted for closure Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck ..."
-    publishedDateTime: 2020-01-24T15:08:00Z
-    sourceUrl: https://www.detroitnews.com/story/business/autos/general-motors/2020/01/24/gms-detroit-hamtramck-plant-build-cruise-origin-self-driving-shuttle/4546684002/
-    ampUrl: https://amp.detroitnews.com/amp/4546684002
-    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4546684002
+      - url: https://cdnph.upi.com/ph/st/th/2591579711109/2020/i/15797136375931/v1.5/GM-owned-automaker-unveils-first-self-driving-vehicle.jpg?lg=2
+        width: 800
+        height: 533
+  - title: "Self-Driving Vehicles Need a Reality Check"
+    excerpt: "(TNS) — By all rights, Bryan Salesky might be the last guy you’d expect to hear managing expectations about fully self-driving vehicles becoming reality, and doing so in volume. As CEO of Argo AI, he helps lead the autonomous-vehicle programs for partners Ford Motor Co. and Volkswagen AG. He’s an early alum of Google’s self-driving ..."
+    publishedDateTime: 2020-01-16T21:45:00Z
+    sourceUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html
+    ampUrl: https://www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Self-Driving-Vehicles-Need-Reality-Check.html?AMP
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 42
-    images:
-      - url: https://www.gannett-cdn.com/presto/2020/01/22/PDTN/4265128e-540f-4307-a3be-f6e3b826e6a1-1_ppQPCa8VrWrYChCDsch4XA.jpeg?auto=webp&crop=1521,855,x162,y616&format=pjpg&width=1200
-        width: 1200
-        height: 675
-  - title: "GM’s investors school Tesla’s on self-driving hype"
-    excerpt: "Considering true self-driving remains a long way off, GM’s owners are more realistic. Cruise, the self-driving-car outfit majority-owned by General Motors, unveiled its prototype electric autonomous vehicle on Jan. 21. Called the Cruise Origin, it has no steering wheel or pedals. Chief Executive Dan Ammann said it was “a fully engineered ..."
-    publishedDateTime: 2020-01-22T20:04:00Z
-    sourceUrl: https://www.breakingviews.com/considered-view/gms-investors-school-teslas-on-self-driving-hype/
-    type: article
-    provider:
-      name: Breakingviews
-      domain: breakingviews.com
-    quality: 39
-    images:
-      - url: https://www.breakingviews.com/wp-content/uploads/2020/01/GM-cruise-origin-scaled.jpg
-        width: 2560
-        height: 1706
-  - title: "What Cruise’s self-driving vehicle reveals about GM’s EV ambitions"
-    excerpt: "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ..."
-    publishedDateTime: 2020-01-24T17:57:00Z
-    sourceUrl: https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 34
-  - title: "GM and Honda Unveil Self-Driving Shuttle With No Steering Wheel, Pedals or Brakes for Ridesharing"
-    excerpt: "GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle. The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no ..."
-    publishedDateTime: 2020-01-22T21:00:00Z
-    sourceUrl: https://ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/
-    ampUrl: https://ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/amp/
-    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/22/gm-and-honda-unveil-self-driving-shuttle-with-no-steering-wheel-pedals-or-brakes-for-ridesharing/amp/
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 31
-    images:
-      - url: https://tribktla.files.wordpress.com/2020/01/hypatia-h_0c7b65aa9535655afa28db9d9fd0431a-h_e39d11c4cf556bf531badd230e2e2089.jpg?quality=85&strip=all&w=1200
-        width: 1200
-        height: 919
-  - title: "Self-driving startup Cruise is bankrolled by GM, but it just revealed a new vehicle that envisions the end of cars (GM)"
-    excerpt: "Self-driving startup Cruise revealed its new Origin vehicle in San Francisco on Tuesday night. The vehicle is fully autonomous, all-electric, and has no traditional controls, such as a steering wheel or pedals. It's the result of a partnership between Cruise, GM, and Honda. Cruise CEO Dan Ammann continued to argue that it's time for the world ..."
-    publishedDateTime: 2020-01-22T05:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/self-driving-startup-cruise-unveils-origin-vehicle-end-of-cars-2020-1-1028834397
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
-  - title: "GM’s Cruise Shows Off Its Self-Driving Origin Shuttle With No Room for a Driver"
-    excerpt: "Cruise LLC, the autonomous-car startup majority-owned by General Motors Co., unveiled its all-electric self-driving shuttle and announced that the vehicle is headed for production. The shuttle, called Origin, is designed to be more spacious and passenger-friendly than a conventional, human-driven car. The silver, squared-off vehicle lacks ..."
-    publishedDateTime: 2020-01-22T16:45:00Z
-    sourceUrl: https://www.industryweek.com/technology-and-iiot/automation/article/21121063/gms-cruise-shows-off-its-selfdriving-origin-shuttle-with-no-room-for-a-driver
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 0
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "2GHN5ShCeXsIhUdN+jsomKMHasqJI2zPRVkMhbDJl3WidvJwAMr5Fi+hTxSyeGlNRQUFoDazjBKE3Kz+yQ2oLfwqEIsfVXwWo8Q9xdKB34wDi4yzuEYeP78NLkhmwrh4VdPiOqFKtxF24McxsCCLCktRitHJ4Fa/xSHGX92Tj4TgUBICl5SPo1nbtsFXYc+bqTUOqin4xa1aGT1wNDOkEa/iq8REAyCdhY62nSg3HY1TFiYJEvOEztF2lY8XolS0+Z9meOj5Il70r9hiSZrVUIa5Z0Uv+Hs5ZFZPngJUCFbzN5gcpZse5JLA4xV456qupN/EHjotX7HCFOgOQT14AkP658YNfxJIP9Tb7+XRbpNzgEsli3lbOMKFomVBagfIht/3LbcXp+5vE2Df8TgLUP3HolWxqjyD369Ot4zkPrABQ6Z95FoApvZUcfKqdKtryaSYO1huUiDHQrQwoG6Mlw==;hcSR7/QsMW1UBOFaLKcIvw=="
 ---

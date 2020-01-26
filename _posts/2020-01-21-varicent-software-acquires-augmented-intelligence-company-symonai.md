@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-21T16:05:00Z
 sourceUrl: https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Varicent Software Acquires Augmented Intelligence Company Symon.AI"
 
 related:
-  - title: "Varicent acquires Symon.AI to provide enhanced analytics to business users and data scientists"
-    excerpt: "He will continue with his teaching and research alongside his duties at Varicent. “In my work across myriad brands and businesses, the Symon.AI technology stood out and compelled me to become involved with Varicent,” said Dr. Joel Shapiro, Chief Analytics Officer for Varicent. “With this technology Varicent now has the opportunity to ..."
-    publishedDateTime: 2020-01-23T00:36:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/23/varicent-symon-ai/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 27
-    images:
-      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
-        width: 304
-        height: 430
   - title: "Moody's Acquires RDC, a Leader in Risk and Compliance Intelligence, Data and Software"
     excerpt: "RDC's platform incorporates industry-leading artificial intelligence (AI) for compliance screening to help process customer requests at greater speeds and accuracy while reducing false positives. \"RDC's comprehensive data and leading technology are at the ..."
     publishedDateTime: 2020-01-23T12:20:00Z

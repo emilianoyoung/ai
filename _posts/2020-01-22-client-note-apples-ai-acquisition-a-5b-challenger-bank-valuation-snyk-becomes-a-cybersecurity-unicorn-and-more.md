@@ -116,15 +116,6 @@ related:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
     quality: 17
-  - title: "Bahrain and Karnataka sign Memorandum of Understanding promoting cooperation in Fintech, AI, IoT and cyber-security"
-    excerpt: "Build robust FinTech, Artificial Intelligence (AI), Internet of Things (IoT) and Cybersecurity ecosystems where startups and technology firms engage in external partnerships with corporates ..."
-    publishedDateTime: 2020-01-24T11:26:00Z
-    sourceUrl: https://news.webindia123.com/news/Articles/Business/20200124/3494590.html
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "TuPoQw2Am8XFOX0Pe8C6zhkzZJybdrwKbFseMrrfyGomUrP7y+difOU4PxxrmdXzFqnLDdq5+k5WDaJs4kKwL4gn+mFq5B8AEpw987IxJ3RaPTh4j/Yc2yDv9tEx4lTycWe2geFOl+LqnaMGwEehQXpzd4WAMLB+K3WT1nNgcgLyvOVukSrAV98rIthEHpWiOvcdIzwMa5jl6PzNl2Oup/FTv737QBmjZfXrFxF9Z1Go0bJiSWPQiAlKFTGAy44J/MGmFJfyTqBfQ2ywWvAtV0GZD30acy6qHCzGcMl/bvYCCqHAH5mOXcE8x+YuU3+UfARrliO3UrKAIGqDjOvvkyRzdc/b/O/5B2tGoXGhxzp9lhXEZCmH0I8SQ9miOmoi5NlFu02JH9acExQz5dR/WetZKXZL5da+PF4LQc8Sfn7kudod50X725+iqoSYKLFH5iimvWOsKK10Fj5dGivvKw==;NuKr05Hn5tcPt3+M/MVJdw=="
 ---

@@ -56,6 +56,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F916301868%2F0x0.jpg
         width: 1200
         height: 802
+  - title: "How AI-powered language tests can help identify the right talent to hire"
+    excerpt: "“It fascinates me that when you start to look at the literature around what are the skills that are going to be needed for the world going forward, they are the very things that the English language teaching (ELT) world has been teaching all along, they’re no different. I guess it’s rebranding.” Actually, artificial intelligence ..."
+    publishedDateTime: 2020-01-21T15:32:00Z
+    sourceUrl: https://www.arabianbusiness.com/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/business/438015-how-ai-powered-language-tests-can-help-identify-the-right-talent-to-hire
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 58
+    images:
+      - url: https://www.arabianbusiness.com/sites/default/files/styles/fb_share_style_image/public/images/2020/01/19/Sue-Troy.jpg?itok=rrKCN5f5
+        width: 1200
+        height: 630
   - title: "Four Ways Artificial Intelligence is Transforming Real Estate"
     excerpt: "It's not uncommon to use tech when buying or selling real estate, but according to many A.I. developers, we've only just scratched the surface. Paul Armstrong, CEO of Here|Forth, explains how A.I. will make buying and selling real estate smoother than ever before."
     publishedDateTime: 2020-01-18T05:01:00Z

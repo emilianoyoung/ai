@@ -42,6 +42,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e287240a854780006af35ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679
         width: 1200
         height: 675
+  - title: "The battle for ethical AI at the world’s biggest machine-learning conference"
+    excerpt: "The study claimed to be able to generate faces — including aspects of a person’s age, gender and ethnicity — on the basis of voices. Machine-learning scientists criticized it on Twitter as being transphobic and pseudoscientific. One solution could be to introduce ethical review at conferences. NeurIPS 2019 included for the first time a ..."
+    publishedDateTime: 2020-01-24T18:10:00Z
+    sourceUrl: https://www.nature.com/articles/d41586-020-00160-y
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 55
+    images:
+      - url: https://media.nature.com/lw1024/magazine-assets/d41586-020-00160-y/d41586-020-00160-y_17582428.jpg
+        width: 1024
+        height: 576
   - title: "Computing's AI & Machine Learning Awards 2020 are now open for entries"
     excerpt: "Artificial intelligence is the major topic dominating the IT industry today, and there are hundreds of companies competing to be heard. We're proud to announce the return of Computing's AI & Machine Learning Awards to identify the frontrunners from the rest of the pack. We have 28 categories this year covering AI tools, projects and services ..."
     publishedDateTime: 2020-01-20T11:00:00Z

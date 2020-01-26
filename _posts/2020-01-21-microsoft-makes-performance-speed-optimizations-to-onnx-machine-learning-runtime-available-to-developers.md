@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/microsoft-makes-performance-spe
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -47,21 +47,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1.jpg?fit=1800%2C859&strip=all
         width: 1800
         height: 859
-  - title: "How Machine Learning Uncovers Opportunities For Business Optimization"
-    excerpt: "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;"
-    publishedDateTime: 2020-01-22T14:26:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale
-        width: 711
-        height: 494
   - title: "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime"
     excerpt: "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms."
     publishedDateTime: 2020-01-23T13:57:00Z

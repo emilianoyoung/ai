@@ -41,6 +41,21 @@ related:
       - url: https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9
         width: 600
         height: 338
+  - title: "How AI-powered content marketing can fuel your business growth"
+    excerpt: "Natural language generation (NLG), a branch of AI, is the recent buzz in the content industry ... namely Narrative Science and Automated Insights to translate data into written narratives and scale their content strategy. Firms with structured data and repetitive production patterns will particularly benefit from NLG. Ecommerce firms , for ..."
+    publishedDateTime: 2020-01-21T15:22:00Z
+    sourceUrl: https://www.smartinsights.com/content-management/content-management-systems/how-ai-powered-content-marketing-can-fuel-your-business-growth/
+    ampUrl: https://www.smartinsights.com/content-management/content-management-systems/how-ai-powered-content-marketing-can-fuel-your-business-growth/amp/
+    cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/content-management/content-management-systems/how-ai-powered-content-marketing-can-fuel-your-business-growth/amp/
+    type: article
+    provider:
+      name: Smart Insights
+      domain: smartinsights.com
+    quality: 59
+    images:
+      - url: https://www.smartinsights.com/wp-content/uploads/2020/01/Biggest-content-marketing-challenges-for-companies-700x245.png
+        width: 700
+        height: 245
 
 secured: "JZxBj0ngl7llZi7FZzx1M9MXvB8sURrntSvfY+MJZ4yAk/txyT8Jvc4Px3XTAupzfDx4f7NkHoU3136ZXKh/xIYnMwEHEeQuKqyu9AMP/dFevBwlAd8GJaPuJkjhyeOH21ZZUgAdGTJphz6MBcGy3jzDLTTNRaTdPPaqWqlWqTK8JiFABVk+pc93T33QoSvcLegenyJDX8PY3kR/U1/mAWvwOZWop0GTO/IqXR4v5IEqOcqaXFHJsbu338BGrHaOFZ0LiZu4XTYgx8JUzC+4egxScjSDJHRLbGnl9/1melgkpVb54v8x011gFzgsfzJmKdSWFxCidbF7jMgRXZt0kEKjz7S1GqZrAW+1zWM/Oqv6XVA/eBuX+XZVhcgcPS7A3T59PfPtZmAEItJ/jChXlD/QP/nEKa9Q28DzD5CIuYqye7RmQckPtU1qmsnLF8nbcvMV0Qf/eLGoIlPzGg2k5w==;SYkiJxWQCCK5iYQFBXZsoQ=="
 ---

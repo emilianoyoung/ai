@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/
 type: article
 quality: 204
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -90,6 +90,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/awesometable-e1579626289453.png?fit=1200%2C649&strip=all
         width: 1200
         height: 649
+  - title: "London-based AI startup ChAI raised $1.7 million to address the $60 billion commodity price market"
+    excerpt: "This AI startup draws from reams of data to predict changes to commodity pricing."
+    publishedDateTime: 2020-01-24T10:41:00Z
+    sourceUrl: https://www.businessinsider.com/chai-london-ai-startup-raises-funds-from-passion-capital-and-mmc-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: https://i.insider.com/5e29b5c662fa8143430769e3?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "This Week In AI: Snyk Raises $150M, Cruise Automation Previews Electric AV, AI Chip Maker Kneron Raises $40M"
     excerpt: "Facebook researchers developed a \"mapless\" navigation system for robots. ServiceNow acquired Loom Systems. Procurement marketplace scoutbee raised $60M. This week, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships, and M&A in 2019. You can check it out in CB Insights Stories ..."
     publishedDateTime: 2020-01-25T00:13:00Z

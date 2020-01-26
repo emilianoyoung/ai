@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/
 type: article
 quality: 74
-heat: 85
+heat: 105
 published: true
 
 provider:
@@ -45,7 +45,35 @@ related:
       - url: https://s.hdnux.com/photos/01/10/11/73/18915015/7/375x250.jpg
         width: 375
         height: 249
+  - title: "GM-Backed Cruise's Self-Driving Robo-Taxi Revealed"
+    excerpt: "Cruise, the self-driving car start-up, in which General Motors Company GM owns a majority state, revealed a prototype of its driverless robo-taxi on Tuesday. The robo-taxi called Cruise Origin is a “fully engineered vehicle that’s on its way to production,"
+    publishedDateTime: 2020-01-22T10:08:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15160801/gm-backed-cruises-self-driving-robo-taxi-revealed
+    ampUrl: https://amp.benzinga.com/amp/content/15160801
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160801
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: https://www.benzinga.com/files/images/story/2012/01.jpg
+        width: 1750
+        height: 869
+  - title: "Test shows promise of self-driving cars for transit"
+    excerpt: "Google engineers have taken AVs for test trips in Kirkland, while Bellevue-based Paccar is developing self-driving trucks. Some tech-industry experts have even proposed an autonomous-vehicle lane between Seattle and Vancouver, B.C. The service in ..."
+    publishedDateTime: 2020-01-25T19:00:00Z
+    sourceUrl: https://www.limaohio.com/top-stories/393877/test-shows-promise-of-self-driving-cars-for-transit
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 24
+    images:
+      - url: https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_SelfDriving1.jpg
+        width: 640
+        height: 431
 
-secured: "u13hUoh8JzIkqCOpwpFQE+0mhq32yK/Knb631aviod73ixgZoJGJrGmbFc2dqt4bTz2zm93U193ShuOeVpwt4AKXo/heSqIXG6k+8ocl9NmJ/+uddZoewxfC/bmNWRzezdyhil/lBrqVmuSU1PVWCDv3AdmgJVs3kTBcG/tkpN6pdkKBA58Z4wWcG/WpvtxsFj2CV7AgKwg9CaaUrdFXs2QmZxOE7Z7Kwy5KGQIbuvNZNC3ilUjrD18ojyh9ztfxWF4XXSRqncpwqNM5hBisNqbKFkWHdEsGTAYO/n4yLc7/supU+KrjnFYeM0vT75Yn8sj8gjsLhb6pbIif04IAX6VG2bihLQqtq0NFDKIPyZdbjRfJa1jmqYHcw+hqoinZg2JvASgfec/Ehe0TG8eJhKMKVsKhvS6ekqxslZRJ8eCqhYtXREN1XsKFVzmxT7y9Xs8+EvE3IIjvuJVVQ2uzXXElfjKjOXuT5rTNqL/ixKU=;0jE5mcjxFFvx27cdsmwHEw=="
+secured: "ldm/3VX+xxqBNNl3BMNAlMg6lGds1xA6Qpu2du0Off8zjczqGwASUTsJePEKPLTcYDVBroripXm/3bx2x2/GyRnGzJgVwQ5OTdsPfoV721BUUVgcnJXUoOCqbMplb1I7rhe5Is4kSSeM53r/pyw7lwqKlDHG7pC3c52Ysi24SKV4747CKFlbcURtpdWOnoLb8bQW6JYvKnY19gHLu4DrpKAhXn+LZax9H9Sa4ZJcXyZIGkDRMim1sqMDp73clTRSF/qN4oyQ78A/6SxVYfL6xllNmC1d2X6h6JJHo8cYsiGAYR3DxGRiJV/kuZqJYc0W1E1I0jWDeiHfyZTuqdV6Ch78nVV39P9IghUDXWnG/U7Twd2cl6dnxAZP1KvCYN8ULFfO7LR4nBXQsehjs0m89n9gMCxVPeIp7TYM7/blsAUVoGQw7LU1y4flLVwdZ4qAwhLczP1KmQUamyZ7Qu8PfbFFyMKuR0pan/wp1QOy248=;N14czPBdPvARgptYxUkMcw=="
 ---
 

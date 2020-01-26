@@ -89,6 +89,34 @@ related:
       - url: https://media.bizj.us/view/img/10996051/vmware0109*600xx1728-1152-0-0.jpg
         width: 600
         height: 400
+  - title: "SEBI to tap artificial intelligence, big data analytics to curb market manipulations"
+    excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning, big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a “data lake” project to augment analytical capabilities, he said while speaking at the Speaking at the National Institute of Securities ..."
+    publishedDateTime: 2020-01-23T09:25:00Z
+    sourceUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece
+    ampUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 50
+    images:
+      - url: https://www.thehindu.com/news/national/g3k9ri/article30577966.ece/ALTERNATES/LANDSCAPE_615/16THSEBI
+        width: 615
+        height: 384
+  - title: "Azure Text Analytics client library samples for JavaScript"
+    excerpt: "These sample programs show how to use the JavaScript client libraries for Azure Cognitive Services Text Analytics in some common scenarios. The samples are compatible with Node.js >= 8.0.0. You need an Azure subscription and an Azure Cognitive Services Instance to run these sample programs. Samples retrieve credentials to access the Cognitive ..."
+    publishedDateTime: 2020-01-24T23:22:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-text-analytics-javascript/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
   - title: "Azure Text Analytics client library samples for TypeScript"
     excerpt: "These sample programs show how to use the TypeScript client libraries for Azure Cognitive Services Text Analytics in some common scenarios. The samples are compatible with Node.js >= 8.0.0. Before running the samples in Node, they must be compiled to JavaScript using the TypeScript compiler. For more information on TypeScript, see the ..."
     publishedDateTime: 2020-01-24T23:22:00Z
@@ -141,6 +169,19 @@ related:
       - url: https://mms.businesswire.com/media/20200117005191/en/767943/23/Nov19183-WF_2019_Artifcial_Intelligence_Awards_Winners_Logo.jpg
         width: 1200
         height: 627
+  - title: "Varicent acquires Symon.AI to provide enhanced analytics to business users and data scientists"
+    excerpt: "He will continue with his teaching and research alongside his duties at Varicent. “In my work across myriad brands and businesses, the Symon.AI technology stood out and compelled me to become involved with Varicent,” said Dr. Joel Shapiro, Chief Analytics Officer for Varicent. “With this technology Varicent now has the opportunity to ..."
+    publishedDateTime: 2020-01-23T00:36:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/23/varicent-symon-ai/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 27
+    images:
+      - url: https://img.helpnetsecurity.com/wp-content/uploads/2019/12/08122003/insecure64.jpg
+        width: 304
+        height: 430
 
 secured: "kmWJA3A2sY3p0XvfabxrB5mnVvJSzDOtm+b+TTuQt5TqCCMzBdl1QvGfWbbt0FEbLFFRQhRXO0cKS/M0iQEtRQtAr7z+XmR5588m3VjeQZtp8At1T3WlD9Z8xqm4ckgVQZZFpDeaoWhiRSYH/fnsXdzQTQ02rAkWWWbUV1pPy98VyH7MefAO1QHF10lBPk38PpVw6buLtqhbnwGSxqZOhsoWzuHY26ZPUICGNb4vtFpcg+eEpbDiLBH8cm5K1QtOkQNSVfKdCcjZCuCIRgT6enKpCntbol6H9tZIS3+tGIqV/KMqixIKlb5bQeUUab1emEXKg2Qf64LJhP1X8BEoLXdXyR39baXODsoGxoUeFJhK3BHZR3JiNh7HC4avm6DThupDF5GkGTb5mKIRvRMOnbxwmTVt9uW86dfKCf1qRD8Emtg3pnZqzaKcNtlo9frVLhGmYB979Q5muifLeUbxNQ==;ZD2dHATZ8m5dp/qK7jSNjQ=="
 ---

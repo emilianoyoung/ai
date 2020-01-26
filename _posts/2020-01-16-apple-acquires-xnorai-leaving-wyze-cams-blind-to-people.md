@@ -29,246 +29,103 @@ images:
     title: "Apple acquires Xnor.ai leaving Wyze cams blind to people"
 
 related:
-  - title: "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range"
-    excerpt: "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ..."
-    publishedDateTime: 2020-01-16T00:43:00Z
-    sourceUrl: https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/
-    ampUrl: https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/
+  - title: "Macworld speculates that Apple bought Xnor.ai to make Siri smarter"
+    excerpt: "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ..."
+    publishedDateTime: 2020-01-21T12:39:00Z
+    sourceUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/
+    ampUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/amp/
+    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 175
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 159
     images:
-      - url: https://cdn.geekwire.com/wp-content/uploads/2018/05/180506-xnor-630x354.jpg
-        width: 630
-        height: 354
-  - title: "Apple acquires edge AI startup Xnor"
-    excerpt: "and reduce AI’s carbon footprint. Last year, Xnor demonstrated its edge computing capabilities by slapping a solar panel on the back of an FPGA chip to power a computer vision model that needs no battery, and in May 2019, Xnor launched AI2Go, a platform for state-of-the-art edge computing. Founded in 2017, Xnor is based in Seattle and took ..."
-    publishedDateTime: 2020-01-15T20:53:00Z
-    sourceUrl: https://venturebeat.com/2020/01/15/apple-acquires-edge-ai-startup-xnor/
-    ampUrl: https://venturebeat.com/2020/01/15/apple-acquires-edge-ai-startup-xnor/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/apple-acquires-edge-ai-startup-xnor/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/05/xnor.ai-2.png?fit=1280%2C720&strip=all
-        width: 1280
-        height: 720
-  - title: "Apple buys edge-based AI startup Xnor.ai for a reported $200M"
-    excerpt: "Xnor.ai, spun off in 2017 from the nonprofit Allen Institute for AI (AI2), has been acquired by Apple for about $200 million. A source close to the company corroborated a report this morning from GeekWire to that effect. Apple confirmed the reports with its standard statement for this sort of quiet acquisition: “Apple buys smaller technology ..."
-    publishedDateTime: 2020-01-16T01:07:00Z
-    sourceUrl: https://techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/
-    ampUrl: https://techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: https://techcrunch.com/wp-content/uploads/2017/01/ai-platforms1.png?w=1024
-        width: 1024
-        height: 576
-  - title: "Apple Reportedly Acquires AI Start-up Xnor.ai For About $200 Mln"
-    excerpt: "(RTTNews) - Apple has acquired artificial intelligence software start-up Xnor.ai for about $200 million, Geekwire reported citing people familiar with the matter. Xnor focuses on the efficient deployment of AI in edge devices like smartphones,"
-    publishedDateTime: 2020-01-16T03:26:00Z
-    sourceUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15
-    ampUrl: https://www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-reportedly-acquires-ai-start-up-xnor.ai-for-about-%24200-mln-2020-01-15?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 87
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
-  - title: "Apple Acquires Xnor.ai To Bolster AI At The Edge"
-    excerpt: "Last week, Apple reportedly acquired Xnor.ai, a Seattle-based startup for $200 million. Xnor.ai is one of the few startups that’s focused on delivering AI capabilities at the edge. In 2019, It made it to the Forbes AI 50: America’s Most Promising Artificial Intelligence Companies."
-    publishedDateTime: 2020-01-20T01:38:00Z
-    sourceUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/
-    ampUrl: https://www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/19/apple-acquires-xnorai-to-bolster-ai-at-the-edge/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e24fee4a854780006cb3b81%2F0x0.jpg
+      - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000
         width: 1000
-        height: 666
-  - title: "Apple Acquires Artificial Intelligence Company Xnor.ai"
-    excerpt: "Apple has purchased Seattle startup Xnor.ai, a company that specializes in on-device artificial intelligence, reports GeekWire, citing sources with knowledge of the acquisition. Apple is said to have paid around $200 million for Xnor.ai, and while both Apple and Xnor.ai have declined to comment on the potential acquisition, much of the Xnor.ai ..."
-    publishedDateTime: 2020-01-15T18:01:00Z
-    sourceUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/
-    ampUrl: https://www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
-    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/01/15/apple-acquires-ai-company-xnor/amp/
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 72
-    images:
-      - url: https://images.macrumors.com/article-new/2020/01/applexnoracquisition.jpg?retina
-        width: 1600
-        height: 838
-  - title: "Apple acquires edge-based artificial intelligence startup Xnor.ai for $200M"
-    excerpt: "Apple had paid the same $200 million for another Seattle-based AI startup, Turi, in 2016. Forbes had ranked Xnor.ai at 44th on a list of America's most promising AI companies. They applauded the company for developing a standalone AI chip that could be run for years on solar power or a coin-sized battery."
-    publishedDateTime: 2020-01-15T18:57:00Z
-    sourceUrl: https://appleinsider.com/articles/20/01/15/apple-acquires-edge-based-artificial-intelligence-startup-xnorai-for-200m
-    ampUrl: https://appleinsider.com/articles/20/01/15/apple-acquires-edge-based-artificial-intelligence-startup-xnorai-for-200m/amp/
-    cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/15/apple-acquires-edge-based-artificial-intelligence-startup-xnorai-for-200m/amp/
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 72
-    images:
-      - url: https://photos5.appleinsider.com/gallery/34156-61271-xnor-xl.jpg
-        width: 870
-        height: 485
-  - title: "Apple reportedly acquires Xnor.ai to boost on-device AI"
-    excerpt: "Did you know that, according to CEO Tim Cook, Apple acquires a company every two to three weeks? It’s just added another startup to its long line of AI acquisitions. According to a report by GeekWire, the Cupertino-based company has made a deal with Xnor.ai, an edge-based AI startup, for $200 million. What is edge-based AI, you may ask?"
-    publishedDateTime: 2020-01-16T06:15:00Z
-    sourceUrl: https://thenextweb.com/apple/2020/01/16/apple-reportedly-acquires-xnor-ai-to-boost-on-device-ai/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg
-        width: 796
-        height: 482
-  - title: "Apple acquires American AI start-up Xnor.ai for $200 million"
-    excerpt: "From a solar-powered AI chip to AI-enabled gizmos to monitor grocer shelves, the start-up has produced a lot of notable innovations in 2019 before being acquired by Apple. Xnor.ai’s acquisition will help in improving Apple’s data privacy and data security tech, something that has always been a priority for Apple CEO Tim Cook, GeekWire reported."
-    publishedDateTime: 2020-01-17T13:28:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/apple-acquires-american-ai-start-up-xnorai-for-200-million/article30587126.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: https://www.thehindubusinessline.com/info-tech/dezkwk/article29814313.ece/ALTERNATES/LANDSCAPE_615/BL29APPLE
-        width: 615
-        height: 384
-  - title: "Apple acquires AI start-up for $200M"
-    excerpt: "Apple acquired a US-based AI technology start-up in what appears to be its latest bid to boost device performance and privacy, Bloomberg reported. The company reportedly agreed a $200 million purchase price for Xnor.ai, which specialises in building tools enabling AI algorithms to be run on devices rather than the cloud or remote data centres."
-    publishedDateTime: 2020-01-16T12:51:00Z
-    sourceUrl: https://www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/
-    ampUrl: https://www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/amp/
-    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/apple-acquires-ai-start-up-for-200m/amp/
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 57
-    images:
-      - url: https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/02/Apple-logo-shutterstock-650-e1552381548177.jpg?fit=650%2C399&ssl=1
-        width: 650
-        height: 399
-  - title: "Apple buys edge-based AI startup Xnor.ai for $200mn: Report"
-    excerpt: "improving Siri and other AI and machine learning-based tasks Apple has acquired Xnor.ai, a Seattle based start-up specialised in low-power, edge-based artificial intelligence tools for around $200 million. “Apple buys smaller technology companies from time to time and we generally do not discuss our purpose or plans.” said Apple in a ..."
-    publishedDateTime: 2020-01-16T11:17:00Z
-    sourceUrl: https://www.thehindu.com/sci-tech/technology/gadgets/apple-buys-edge-based-ai-startup-xnorai-for-200mn-report/article30576553.ece
-    ampUrl: https://www.thehindu.com/sci-tech/technology/gadgets/apple-buys-edge-based-ai-startup-xnorai-for-200mn-report/article30576553.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/gadgets/apple-buys-edge-based-ai-startup-xnorai-for-200mn-report/article30576553.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: https://www.thehindu.com/sci-tech/technology/gadgets/gthvb5/article30576552.ece/ALTERNATES/LANDSCAPE_615/16NETAPPLE
-        width: 615
-        height: 384
-  - title: "Apple has acquired the artificial-intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "Xnor.ai is a Seattle-based startup that specializes in low-power, edge-based artificial-intelligence tools."
-    publishedDateTime: 2020-01-16T14:58:00Z
-    sourceUrl: https://www.businessinsider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: https://i.insider.com/5d970285707bdf06b10224fd?width=1200&format=jpeg
-        width: 1200
-        height: 600
-  - title: "Apple acquires on-device AI startup Xnor.ai for $200 million"
-    excerpt: "In brief: Apple is on a spending spree for AI startups, and the latest is a Seattle-based startup that makes on-device machine learning tools that literally sip power and cost very little to manufacture. Apple's latest acquisition is Xnor.ai, a Seattle-based startup that focuses on low-power machine learning tools. According to GeekWire ..."
-    publishedDateTime: 2020-01-16T13:48:00Z
-    sourceUrl: https://www.techspot.com/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 47
-  - title: "Apple Acquires On-Device AI Startup For $200M: Report"
-    excerpt: "Apple has acquired a startup with technology for enabling high-speed artificial intelligence on devices, according to a report. The report from GeekWire says Apple has paid roughly $200 million for the acquisition of Seattle-based Xnor.ai, which spun out of a research organization founded by Paul Allen, the late Microsoft co-founder."
-    publishedDateTime: 2020-01-16T01:21:00Z
-    sourceUrl: https://www.crn.com/news/mobility/apple-acquires-on-device-ai-startup-for-200m-report
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: https://www.crn.com/resources/0259-0e772d4203ed-1bc94b93f3e0-1000/xnor.jpg
-        width: 610
-        height: 457
-  - title: "Apple buys AI startup Xnor.ai for a reported price of around $200m"
-    excerpt: "Apple has acquired Xnor.ai, a startup specializing in low-power, edge-based artificial intelligence tools, GeekWire reports. Quoting “sources with knowledge of the deal”, the report says that Apple has paid around $200m for the company, and suggests ..."
-    publishedDateTime: 2020-01-16T09:50:00Z
-    sourceUrl: https://mobilemarketingmagazine.com/apple-buys-ai-startup-xnorai-for-a-reported-price-of-around-200m
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 37
-    images:
-      - url: http://www.mobilemarketingmagazine.com/wp-content/uploads/posts/Apple_logo.jpg
-        width: 620
         height: 500
-  - title: "Apple Makes $200M Acquisition In Race For AI Dominance"
-    excerpt: "Apple shelled out $200 million for an artificial intelligence (AI) startup that makes smart devices smarter, topping bids by Microsoft, Amazon and Intel, according to reports on Thursday, (Jan. 16), citing sources. The iPhone maker purchased the two-year-old Seattle-based AI firm Xnor, which develops low-power edge-based AI. The machine ..."
-    publishedDateTime: 2020-01-16T12:38:00Z
-    sourceUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/
-    ampUrl: https://www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2020/apple-shells-out-200m-in-race-for-ai-dominance/amp/
+  - title: "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac"
+    excerpt: "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ..."
+    publishedDateTime: 2020-01-22T01:10:00Z
+    sourceUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/
+    ampUrl: https://9to5mac.com/2020/01/21/make-siri-smarter/amp/
+    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 159
+    images:
+      - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000
+        width: 1000
+        height: 500
+  - title: "How Apple’s Xnor.ai acquisition could bring the Siri boost we’ve been waiting for"
+    excerpt: "the A13 Bionic chip already has a powerful Neural Engine, but Edge Ai could bring it to the next level. But Xnor.ai’s Edge AI engine could be the thing that brings everything together. It’s unlikely that we’ll see any fruits from Apple’s purchase in the iPhone 12 or even the iPhone 13, but Apple’s incredible silicon advancements ..."
+    publishedDateTime: 2020-01-21T11:45:00Z
+    sourceUrl: https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.html
+    ampUrl: https://www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html
+    cdnAmpUrl: https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3514559/how-apple-s-xnor-ai-acquisition-could-bring-the-siri-boost-we-ve-been-waiting-for.amp.html
+    type: article
+    provider:
+      name: Macworld
+      domain: macworld.com
+    quality: 84
+    images:
+      - url: https://images.idgesg.net/images/article/2018/04/wyze-cam-motion-tracking-100755563-large.jpg
+        width: 700
+        height: 467
+  - title: "How the Xnor.ai purchase opens Apple’s AI future"
+    excerpt: "smarter person and object identification in Photos and smart object recognition in ARKit. Another place where Apple may be able to make a difference is in CCTV video, improving playback and person recognition systems in these. Wyze delivered this using Xnor.ai. Apple’s interest in HomeKit Secure Video and its focus on HomeKit, along with its ..."
+    publishedDateTime: 2020-01-17T16:20:00Z
+    sourceUrl: https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.html
+    ampUrl: https://www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3514598/how-the-xnor-ai-purchase-opens-apple-s-ai-future.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 61
+    images:
+      - url: https://images.idgesg.net/images/article/2019/02/iot_internet_of_things_lifestyle_connected_appliances_by_elenabs_gettyimages-1018211724_2400x1600-100788445-large.jpg
+        width: 1200
+        height: 800
+  - title: "Apple confirms purchase of AI startup Xnor.ai"
+    excerpt: "Apple confirmed to Axios it has purchased Xnor.ai, a Seattle-based startup that specializes in putting artificial intelligence on devices rather than via centralized servers. Why it matters: Doing AI work on devices is a key trend, especially for Apple ..."
+    publishedDateTime: 2020-01-16T01:12:00Z
+    sourceUrl: https://www.axios.com/apple-purchase-ai-startup-xnorai-7d30c1ca-cc23-4e5f-8fdb-0bc79cfd8974.html
+    ampUrl: https://amp.axios.com/apple-purchase-ai-startup-xnorai-7d30c1ca-cc23-4e5f-8fdb-0bc79cfd8974.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/apple-purchase-ai-startup-xnorai-7d30c1ca-cc23-4e5f-8fdb-0bc79cfd8974.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: https://images.axios.com/PCebkBLlBZYdriB-ovRaQrJP98Q=/198x0:2498x1294/1920x1080/2020/01/15/1579117038960.png
+        width: 1920
+        height: 1080
+  - title: "Apple Acquires Edge-Focused AI Startup Xnor.ai"
+    excerpt: "Apple has acquired Xnor.ai, a Seattle-based startup that builds AI models that run on edge devices, for approximately $200 million. GeekWire first reported the story, based on information from \"sources with knowledge of the deal.\" Because XNor.ai's technology focuses on running AI models on low-resource edge devices without sending data to the ..."
+    publishedDateTime: 2020-01-24T14:07:00Z
+    sourceUrl: https://www.infoq.com/news/2020/01/apple-acquires-xnor-ai/
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
     quality: 37
-  - title: "Apple has acquired artificial intelligence startup Xnor.ai for a reported $200 million"
-    excerpt: "According to GeekWire, the acquired company is a Seattle-based startup called Xnor.ai. that specializes in low-power, edge-based artificial intelligence tools. Bloomberg confirmed the acquisition with an Apple spokesman. Business Insider has contacted Apple and Xnor.ai for comment. Despite its acquisition by Apple, Xnor.ai owes its existence to ..."
-    publishedDateTime: 2020-01-16T11:29:00Z
-    sourceUrl: https://www.insider.com/apple-reportedly-buys-xnor-ai-200-million-2020-1
+    images:
+      - url: https://res.infoq.com/news/2020/01/apple-acquires-xnor-ai/en/headerimage/apple-acquires-xnor-ai-1579740324596.jpg
+        width: 683
+        height: 512
+  - title: "Apple’s latest acquisition is Seattle AI start-up Xnor.ai"
+    excerpt: "As the war to build the best smartphone camera rages on, Apple has purchased an AI start-up called Xnor.ai, in a move that has already had an impact on customers who have purchased Wyze cameras. Based in Seattle, Xnor.ai has developed technology that runs deep learning models on edge devices, such as phones IoT devices, cameras, drones and ..."
+    publishedDateTime: 2020-01-16T13:29:00Z
+    sourceUrl: https://www.siliconrepublic.com/start-ups/apple-acquires-ai-startup-xnorai-iphone-camera
     type: article
     provider:
-      name: insider
-      domain: insider.com
-    quality: 24
-  - title: "Apple acquires edge AI startup for about $200M"
-    excerpt: "Xnor's AI-enabled image recognition tools could be a natural fit in future iPhone models. Xnor was spun out from the startup incubator of A12, which was founded by late Microsoft co-founder Paul Allen. The startup had raised $14.6M in private funding."
-    publishedDateTime: 2020-01-16T00:18:00Z
-    sourceUrl: https://seekingalpha.com/news/3532133-apple-acquires-edge-ai-startup-for-200m
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
 
 secured: "LQeIWVbgZmpxUlR/GAoK0snXkoK34+BsEirWjKTUqSmfvomnevR8ZVQwYvdVPhWN1xTSN35aIdS08anCA8W0Xpn1XuIUtxbsKkZ1/czXp4CkSZdbId+lS/2gWyPzpgW+Xuv058VWkA7TtxS4VGTMXS841dmHLKQOYW2QOods5+U63PXQrmUeu/A2zDVvqsBp+Ro/uOoIye9hUl5izGGr84C5c1s7NOE8JDavo5IDqAb9RkpaxM3KrtfBr31HCGJLEBrvr5AsEVIIBgBNgXm5/egLxIj6fd7qGqFuiP3SxMmhbvRIMQ9bNvPY1B9/aRisjz0SE4lfnVC+G+2TJFz6thK4PPaIcNQi0J9ugLDv27rDry81nXAIp7wZSRi/RUZPv9iwaaYffzx6h6HWoJAL6sjR4qw189UkXKr4EYvrh2aOkj7ATeTlTdFqFnmRRD7Aa/KedepxwvGewOrIuS5vXA==;r4zXfuTSrcnVWwyUB3jT7g=="
 ---

@@ -24,159 +24,101 @@ images:
     title: "Researchers developing facial recognition wearable for emergency service workers"
 
 related:
-  - title: "Dem senator presses facial recognition company after reports of law enforcement collaboration"
-    excerpt: "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement."
-    publishedDateTime: 2020-01-23T16:54:00Z
-    sourceUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law
-    ampUrl: https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp
+  - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
+    excerpt: "Facial-recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only non-citizens are required to be scanned."
+    publishedDateTime: 2020-01-16T10:57:00Z
+    sourceUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html
+    ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
+    cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 148
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 154
     images:
-      - url: https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg
-        width: 980
-        height: 551
-  - title: "Clearview AI Says Its Facial Recognition Software Identified A Terrorism Suspect. The Cops Say That's Not True."
-    excerpt: "But there are troubling questions about its past. By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 23, 2020, at 8:19 a.m. ET Clearview AI, a facial recognition company that says it’s amassed a database of billions of photos, has a fantastic selling point it offers up to police departments nationwide: It cracked a case of ..."
-    publishedDateTime: 2020-01-23T13:28:00Z
-    sourceUrl: https://www.buzzfeednews.com/article/ryanmac/clearview-ai-nypd-facial-recognition
-    ampUrl: https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition
-    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-nypd-facial-recognition
+      - url: https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg
+        width: 1200
+        height: 908
+  - title: "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday"
+    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
+    publishedDateTime: 2020-01-17T12:08:00Z
+    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html
+    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-facial-recognition-20200117-zvrcz27mw5a6to6445vfs3nbpm-story.html?outputType=amp
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 86
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 154
     images:
-      - url: https://img.buzzfeed.com/buzzfeed-static/static/2020-01/22/19/asset/933f4b4c5e00/sub-buzz-1614-1579719794-12.png?output-quality=auto&output-format=auto&downsize=640:*
-        width: 640
-        height: 341
-  - title: "Clearview facial recognition app may pose 'chilling' privacy risk, senator says"
-    excerpt: "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ..."
-    publishedDateTime: 2020-01-23T19:34:00Z
-    sourceUrl: https://www.cnet.com/news/senator-demands-answers-from-clearview-ai/
-    ampUrl: https://www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/
+      - url: https://www.mcall.com/resizer/662IptMsHi99xN6J-SNxQSoolGk=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GUF353ITLREW5CDR7K74JGZARY.jpg
+        width: 1200
+        height: 800
+  - title: "Philadelphia International Kicks Off Facial Recognition Pilot"
+    excerpt: "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ..."
+    publishedDateTime: 2020-01-16T21:03:00Z
+    sourceUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html
+    ampUrl: https://www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Philadelphia-International-Kicks-Off-Facial-Recognition-Pilot.html?AMP
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg
-        width: 756
-        height: 567
-  - title: "Facial recognition’s risks demand a temporary halt"
-    excerpt: "Brussels and Silicon Valley rarely see eye-to-eye when it comes to technology regulation. But on facial recognition, EU regulators and Sundar Pichai, chief executive of Google parent Alphabet, appear to be moving in the same direction. Mr Pichai this week backed a temporary moratorium on the technology — an option under consideration by EU ..."
-    publishedDateTime: 2020-01-21T18:16:00Z
-    sourceUrl: https://www.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    ampUrl: https://amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/39432390-3c3e-11ea-b232-000f4477fbca
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8beef1a8-3c4a-11ea-b84f-a62c46f39bc2?source=google-amp&fit=scale-down&width=500
-        width: 500
-        height: 281
-  - title: "A scary new facial recognition tool underlines the urgent need for privacy laws"
-    excerpt: "But we didn’t realize doom might come this soon. The New York Times reports on a facial recognition tool that hasn’t made the news before — because it’s not from a Silicon Valley luminary with a big public footprint, such as Amazon or Google, but rather a tiny and secretive start-up called Clearview AI whose impact is as high as its ..."
-    publishedDateTime: 2020-01-23T21:48:00Z
-    sourceUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html
-    ampUrl: https://www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/a-scary-new-facial-recognition-tool-underlines-the-urgent-need-for-privacy-laws/2020/01/23/6c2646a8-3d37-11ea-baca-eb7ace0a3455_story.html?outputType=amp
+      - url: https://media2.govtech.com/images/shutterstock_406404352.jpg
+        width: 1029
+        height: 630
+  - title: "Philadelphia International Airport Testing Facial Recognition On Some International Flights"
+    excerpt: "PHILADELPHIA (CBS) — Some passengers at the Philadelphia International Airport will see a new security screening starting Tuesday. The airport is testing a new program to scan the faces of passengers leaving the airport on some international flights. Only a few flights on American Airlines, British Airways, Lufthansa, and Qatar Airways are ..."
+    publishedDateTime: 2020-01-21T19:10:00Z
+    sourceUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/
+    ampUrl: https://philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
+    cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/01/21/philadelphia-international-airport-testing-facial-recognition-on-some-international-flights/amp/
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 44
+  - title: "Software Detects Backdoor Attacks on Facial Recognition"
+    excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
+    publishedDateTime: 2020-01-16T15:04:00Z
+    sourceUrl: https://www.defensemedianetwork.com/stories/software-detects-backdoor-attacks-facial-recognition/
+    type: article
+    provider:
+      name: defensemedianetwork.com
+      domain: defensemedianetwork.com
+    quality: 39
     images:
-      - url: https://www.washingtonpost.com/resizer/ZLffVZNmmkuoQHCjoik1fm4Z00c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHDNZORPYQI6JPU6MDGEJQA6P4.jpg
-        width: 1440
-        height: 961
-  - title: "Hundreds of US police departments using 'dystopian' face recognition app: report"
-    excerpt: "A new report in US media has people worried about their privacy as more police forces sign on to use the program. Clearview AI offers facial recognition software that can identify a person even in poor-quality images. An explosive new US media report published on Saturday revealed that a secretive company has been selling the world's most ..."
-    publishedDateTime: 2020-01-18T18:42:00Z
-    sourceUrl: https://www.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    ampUrl: https://amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
-    cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/hundreds-of-us-police-departments-using-dystopian-face-recognition-app-report/a-52054957
+      - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
+        width: 1500
+        height: 844
+  - title: "This exhibition at the Philadelphia Museum of Art showcases incredible futuristic ideas"
+    excerpt: "Yasin founded Petit Pli, available online, which aims to reduce wastage in the fashion industry. Neurodildo is a mind-controlled sex toy, designed by Brazilian electrical engineer Leonardo Mariano Gomes. Still in the testing phase, the ‘Neurodildo’ provides a vibrator for one partner that is remotely connected to an electroencephalogram ..."
+    publishedDateTime: 2020-01-22T22:58:00Z
+    sourceUrl: https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/
+    ampUrl: https://www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/
+    cdnAmpUrl: https://www-architecturaldigest-in.cdn.ampproject.org/c/s/www.architecturaldigest.in/content/philadelphia-museum-of-art-exhibition-design-show-robots-futuristic-ideas/amp/
     type: article
     provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 54
+      name: Architectural Digest India
+      domain: architecturaldigest.in
+    quality: 36
     images:
-      - url: https://m.dw.com/image/41695602_101.jpg
-        width: 1024
-        height: 576
-  - title: "Clearview AI Takes Facial Recognition Data of Millions from Social Media"
-    excerpt: "Clearview AI is a secretive startup that has developed a super-accurate facial recognition database – all through using images surreptitiously scraped from social media users. Currently, the company's app is only available to law enforcement, and it has already led to several arrests. In fact, the app is being used by more than 600 law ..."
-    publishedDateTime: 2020-01-20T17:27:00Z
-    sourceUrl: https://tech.co/news/clearview-ai-facial-recognition-2020-01
+      - url: https://media.architecturaldigest.in/wp-content/uploads/2020/01/Philadelphia-Museum-of-Art-1366x768.jpg
+        width: 1366
+        height: 768
+  - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
+    excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
+    publishedDateTime: 2020-01-16T21:45:00Z
+    sourceUrl: https://www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html
+    ampUrl: https://www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Ticket-to-Fly-Philly-Scanned-Boarding-Pass-Face.html?AMP
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 53
-    images:
-      - url: https://images.tech.co/wp-content/uploads/2020/01/20113126/clearview.jpg
-        width: 1920
-        height: 960
-  - title: "The facial recognition technology that could identify people through their social media profile"
-    excerpt: "New facial recognition technology created by a \"secretive\" company has been supplied to law enforcement agencies to help identify unknown people through their social media images, according to a report. Clearview AI co-founder Hoan Ton-That's invention has ripped billions of images from Facebook and other sites. The app allows people to take ..."
-    publishedDateTime: 2020-01-21T01:29:00Z
-    sourceUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.html
-    ampUrl: https://www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
-    cdnAmpUrl: https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/01/the-facial-recognition-technology-that-could-identify-people-through-their-social-media-profile.amp.html
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 47
-    images:
-      - url: https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg
-        width: 768
-        height: 438
-  - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
-    excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
-    publishedDateTime: 2020-01-17T22:05:00Z
-    sourceUrl: https://www.commercialintegrator.com/podcast/facial-detection-episode-88/
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 30
-    images:
-      - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
-        width: 1202
-        height: 656
-  - title: "Facebook could be on the hook for billions after Supreme Court refuses to hear facial recognition case"
-    excerpt: "The United States Supreme Court has declined to hear a case brought forward by Facebook that argues its users would have had to show they suffered “real-world harm” after Facebook identified them in photos using its facial recognition technology without getting their consent. Facebook hoped their argument would be heard by the Supreme ..."
-    publishedDateTime: 2020-01-22T15:10:00Z
-    sourceUrl: https://www.fastcompany.com/90454488/facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 23
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/01/p-1-facebook-could-be-on-the-hook-for-billions-after-supreme-court-refuses-to-hear-facial-recognition-case.jpg
-        width: 1280
-        height: 720
-  - title: "EU considering 5-year facial recognition ban - report"
-    excerpt: "The EU may impose a temporary ban on facial recognition technologies used by both public and private actors, according to a draft European Commission white paper on Artificial Intelligence obtained by Euractiv. The document states that a future regulatory framework could “include a time-limited ban on the use of facial recognition technology ..."
-    publishedDateTime: 2020-01-20T10:43:00Z
-    sourceUrl: https://www.telecompaper.com/news/eu-considering-5-year-facial-recognition-ban-report--1323310
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "K5od3H7DCcYbGbGaGlmwV0h6l+Hms4XjgSVACkAgP/KNRlOkBZJUs0Iyu+JDXahz12G21aC0FsX5iJmCQsfUjP8F/V58bXS8A4rHdGkj8nVAELHhaYARqJTNr5Tu0Y3oCJ92NViCuMwdsGv/cNlxctnAtv+csUH5B1rJ9e42re2j6CFSb3At9XQQkw2E1y34ADLVNJ8Hbxi43TCUHRZ124QFvjgQtSTMlyTfzxpyjaOAFwQCwXZkQOBFC/c1X/r0x6mymdv2DWS0NW+lcfGJj8BtfZlbWGIP8Q7mMkNZVsE=;wE+QUTd1KcjAIiRTmXIzSw=="
 ---

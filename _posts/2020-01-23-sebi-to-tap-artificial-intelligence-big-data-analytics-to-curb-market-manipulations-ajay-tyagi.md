@@ -40,21 +40,6 @@ related:
       - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
         width: 300
         height: 300
-  - title: "SEBI to tap artificial intelligence, big data analytics to curb market manipulations"
-    excerpt: "He said the capabilities will involve use of artificial intelligence, machine learning, big data analytics and natural language processing tools to spot market manipulation. The new plan involves creating a “data lake” project to augment analytical capabilities, he said while speaking at the Speaking at the National Institute of Securities ..."
-    publishedDateTime: 2020-01-23T09:25:00Z
-    sourceUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece
-    ampUrl: https://www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-to-tap-artificial-intelligence-big-data-analytics-to-curb-market-manipulations/article30633040.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 50
-    images:
-      - url: https://www.thehindu.com/news/national/g3k9ri/article30577966.ece/ALTERNATES/LANDSCAPE_615/16THSEBI
-        width: 615
-        height: 384
   - title: "SEBI will use artificial intelligence, big data to monitor market manipulations, says Ajay Tyagi"
     excerpt: "Securities and Exchange Board of India (SEBI) Chairman Ajay Tyagi on January 23 said the regulator will adopt artificial intelligence (AI), machine learning (ML), big data analytics and natural language processing tools to monitor and analyse spot market manipulation, PTI reported. \"Catching malpractices in the market using the standard tools ..."
     publishedDateTime: 2020-01-24T03:30:00Z

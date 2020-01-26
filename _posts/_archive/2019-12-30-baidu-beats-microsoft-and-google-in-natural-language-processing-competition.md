@@ -4,10 +4,8 @@ title: "Baidu beats Microsoft and Google in natural language processing competit
 excerpt: "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ..."
 publishedDateTime: 2019-12-30T17:30:00Z
 sourceUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/
-ampUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
-cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
 type: article
-quality: 72
+quality: 32
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://mspoweruser.com/wp-content/uploads/2019/08/microsoft-logo-block.jpg
-    width: 2400
-    height: 1231
-    title: "Baidu beats Microsoft and Google in natural language processing competition"
 
 related:
   - title: "Artificial Intelligence application with Android using Microsoft cognitive services."
@@ -154,6 +146,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "JjfWFBab7mrMYQO3mDDi4Tx9WxD+VLIsbx4w6uEwXlNRteTWafi5TzF1USopmDUhlNCeHmgD59Q7HyQZidDMIDqNIqunF9Yo4AlVKOPWnLjngZ6UgaRWrM8oFxNolzuaCrcmapYqUz73MM8uYchRX/ec7c6x4N+rhupXCJ77myMluxY/BR7V8y3O0bFYunO8ffHNjlWZiel5l0lNJ6YiPyfuk+Ixh+XcTJ0qZvnL/e8KUSjVVImV3H+kBFr+2it+eKDW4K++MOG4bfTHUv2qiOOtHJPG2jFAMqwNCIsX2a42q70I/Vn4qhB9/zwWMIqd;aR9uMdMVXQcdOGyipXduFA=="
+secured: "cUlCq2ioPUhmHJbGyAuD9RANB6VcoTdtrQ1Y1AzMx2w5vKwSh369agXn8fDLxGIrALPZTmb4JJt8lHZz0MH2isYe2OnuT131YmVqqZgF7vERLpGhPF9pJfI1+nlVXWRCNI1O+3GwGwDBWOlqpYvvSUMkDJRkXb+Op8/0gB7FU8m3ujdnHsBUNgbOKdyryNTdrrDhBYutW2OB7MlvOYINkUCTH/xoIJsXEWvy2DbI4U5bKjFjwKPP/A5xFJZ3HJGC5en5VzHXK+GtuK3g5yi45Q/sOb2uVhZ7vPTbWXkWYoWwxBCtJwxuYXV4v8/6BCBfOv1tz4tnP6okyc7qA+tvpjAmdqO3j5hUcHaQjuUYm79QRU9xmWPzrJWaFrIR0ZAK6gZl/czhSLGnH+IRrt6sPD8lmUl22GbcRMHdmejVQ16MSDvcBHDBO9DBIZi7K95CvRbCkAR2V2IANCokoQlIwrbd2+o8NPYhQhB4YqgeeSw=;uB7Kdbjydi7OwZZssyHb0g=="
 ---
 

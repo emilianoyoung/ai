@@ -28,21 +28,6 @@ images:
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
 related:
-  - title: "Ambarella shows off new robotics platform and AWS AI programming deal"
-    excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
-    publishedDateTime: 2020-01-02T10:04:00Z
-    sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
-    ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
-        width: 1200
-        height: 646
   - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
     excerpt: "The Santa Clara, California-based company unveiled the CV22FS and CV2FS automotive camera system-on-chips (SoCs) with CVflow AI processing and ASIL-B compliance to enable safety-critical applications. Ambarella will also demo applications with its existing chips — as well as a robotics platform and Amazon SageMaker Neo technology for training ..."
     publishedDateTime: 2020-01-06T10:00:00Z
@@ -73,7 +58,16 @@ related:
       - url: https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg
         width: 612
         height: 355
+  - title: "Ambarella shows off new robotics platform and AWS AI programming deal"
+    excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
+    publishedDateTime: 2020-01-02T10:04:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
-secured: "2EMrEy77XFDFDhb7GDke9jso6geWnDfJA2u8CMLoh7rfTn/Gb0MYxVt+7t3YFtyDoipBpXfbSHkVL2H4mH6rN2kEoC/ORvAYQ50i1RoVuVYVPG57d9oLnEN+5hgjT8QVETMfTRb64dX055i/V/YfAqM8lk6aZAiDFxFX8D+/tAQ3IC6irQVaPuQUBkH1fzdcTRmrLgNknMFMmzWu2+2OQuyoNzCDi84PmlQmIFf86xpi4bg3hx0f5ZWNNOKPwn3VK7VUYNf1mSiQlIDamPckaBmKnJKZaVlMVdxnDIiC98/7cFabJW8+WmX6UiqG/EBG;Y0Xh3hnymy8Tvls9oZohig=="
+secured: "dsy/u1sT5NvAislH/ms72HhCOQK1vptYHypTGcQsGxs9tFoW73lU9fF8gXTwBkoxL1OzNXwGfwujbTB5DzlkmdUWz7TOiYgJvH8XKCuFDuH7mc2cfogOWjhyJL0tswzhEZSl96eiFUUXvTmtS5enkJYeOhqPg3oUYoBJseE4uAfKdrtVMjUAAvT0AqvBt4I89ebiRf1T8O4304qKUows2Zlgvzn7jjveZZZT5NffNNqOYWpTuVy8rgb6X6H9MIjWY5OUG01cow0rEK3H6qbiNEWVj8nwKRWNDuO/g4EiOFmtns+XMN2Fi46BJBP5uTFl;UrqbMhBtm92TQFgJgGg74w=="
 ---
 

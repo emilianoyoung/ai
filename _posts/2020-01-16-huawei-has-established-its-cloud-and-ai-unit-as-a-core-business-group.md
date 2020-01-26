@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-16T15:23:00Z
 sourceUrl: https://www.businessinsider.com/huawei-creates-core-cloud-artificial-intelligence-unit-2020-1
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "Huawei has established its cloud and AI unit as a core business group"
 
 related:
-  - title: "Every business can use - and afford - artificial intelligence"
-    excerpt: "Gartner's hype cycle for artificial intelligence (AI ... only available through expensive and nuanced breakthroughs such as self-driving vehicles. It's a perception that professionals encounter, and counter, every day. \"A lot of businesses think AI ..."
-    publishedDateTime: 2020-01-15T19:30:00Z
-    sourceUrl: https://www.itweb.co.za/content/4r1ly7RoeXeMpmda
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: https://www.itweb.co.za/static/pictures/2019/05/-fs-Machine-learning-2019.jpg
-        width: 816
-        height: 459
   - title: "Huawei revs up cloud, AI as core business"
     excerpt: "AI, computing, storage and IoT services. At the Huawei Analyst Conference held in April 2019, its managing director Wang Tao unveiled the firm's \"Cloud Only\" strategy, aiming to integrate all of its resources, from chips and datacenters to hardware, software and computing infrastructure, to make Huawei's cloud the only full-stack service in China."
     publishedDateTime: 2020-01-20T07:35:00Z

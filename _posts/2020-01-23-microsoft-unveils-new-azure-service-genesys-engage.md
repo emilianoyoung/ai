@@ -58,21 +58,6 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106350993-1579778704338rts2ziu5.jpg?v=1579779171
         width: 3000
         height: 2000
-  - title: "Airtel Teams Up With Google Cloud To Take On Jio-Microsoft Partnership"
-    excerpt: "In this partnership, Jio is also leveraging Microsoft’s speech and language cognitive services for its device ecosystem, providing support in 13 Indian languages, with the flexibility to add other languages. While both Google and Microsoft have entered into a partnership with Indian telcos, Amazon Web Services (AWS) is currently leading the ..."
-    publishedDateTime: 2020-01-20T15:49:00Z
-    sourceUrl: https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/
-    ampUrl: https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/
-    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 74
-    images:
-      - url: https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-20T211049.620.jpg?fit=1200%2C628&#038;ssl=1
-        width: 1200
-        height: 628
   - title: "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft"
     excerpt: "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market."
     publishedDateTime: 2020-01-15T08:36:00Z

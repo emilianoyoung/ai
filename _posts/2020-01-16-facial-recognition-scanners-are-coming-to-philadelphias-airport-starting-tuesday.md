@@ -8,7 +8,7 @@ ampUrl: https://www.inquirer.com/news/philadelphia/philadelphia-international-ai
 cdnAmpUrl: https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp
 type: article
 quality: 154
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -67,6 +67,19 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 44
+  - title: "Software Detects Backdoor Attacks on Facial Recognition"
+    excerpt: "As the U.S. Army increasingly uses facial and object recognition to train artificial intelligent systems to identify threats, the need to protect its systems from cyberattacks becomes essential. An Army project conducted by researchers at Duke University and led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran ..."
+    publishedDateTime: 2020-01-16T15:04:00Z
+    sourceUrl: https://www.defensemedianetwork.com/stories/software-detects-backdoor-attacks-facial-recognition/
+    type: article
+    provider:
+      name: defensemedianetwork.com
+      domain: defensemedianetwork.com
+    quality: 39
+    images:
+      - url: https://www.defensemedianetwork.com/wp-content/uploads/2020/01/original.jpg
+        width: 1500
+        height: 844
   - title: "This exhibition at the Philadelphia Museum of Art showcases incredible futuristic ideas"
     excerpt: "Yasin founded Petit Pli, available online, which aims to reduce wastage in the fashion industry. Neurodildo is a mind-controlled sex toy, designed by Brazilian electrical engineer Leonardo Mariano Gomes. Still in the testing phase, the ‘Neurodildo’ provides a vibrator for one partner that is remotely connected to an electroencephalogram ..."
     publishedDateTime: 2020-01-22T22:58:00Z
@@ -82,6 +95,19 @@ related:
       - url: https://media.architecturaldigest.in/wp-content/uploads/2020/01/Philadelphia-Museum-of-Art-1366x768.jpg
         width: 1366
         height: 768
+  - title: "Researchers developing facial recognition wearable for emergency service workers"
+    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
+    publishedDateTime: 2020-01-16T21:22:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
+        width: 300
+        height: 250
   - title: "Ticket to Fly in Philly: A Scanned Boarding Pass and Your Face"
     excerpt: "Philadelphia’s airport will begin using facial recognition scanners, though there are still many concerns. Officials expect mistakes, but wonder “how might those mistakes be unequally distributed across demographics.” (TNS) — Starting Tuesday, travelers boarding certain international flights at Philadelphia International Airport will ..."
     publishedDateTime: 2020-01-16T21:45:00Z

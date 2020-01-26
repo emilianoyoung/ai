@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/01/07/ai-driven-electric-motorcycle-shows-self-driving-tech-is-about-more-than-autonomous-driving/amp/
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
 
 related:
-  - title: "Multiple standards to emerge in 2020 for AI-driven vehicles"
-    excerpt: "Today, neither industry nor government can assess the safety of self-driving cars. Without tools or common yardsticks ... For example, Safety First for Automated Driving (SaFAD) is led by Aptiv, Audi, Baidu, BMW, Continental, Daimler, FCA US LLC, HERE, Infineon, Intel, and Volkswagen. The group published a white paper last summer on how ..."
-    publishedDateTime: 2020-01-07T17:01:00Z
-    sourceUrl: https://www.embedded.com/multiple-standards-to-emerge-in-2020-for-ai-driven-vehicles/
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: https://www.embedded.com/wp-content/uploads/2020/01/img20200107085828A-Wave-of-AV-Safety-Standards-to_0.jpg
-        width: 640
-        height: 342
   - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
     excerpt: "Gigantic consumer electronics show in Las Vegas features about 40 San Diego companies showing off their latest technologies."
     publishedDateTime: 2020-01-06T14:06:00Z

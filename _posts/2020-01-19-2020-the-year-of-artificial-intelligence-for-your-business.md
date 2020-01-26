@@ -8,7 +8,7 @@ ampUrl: https://www.entrepreneur.com/amphtml/345112
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: https://biztechmagazine.com/sites/biztechmagazine.com/files/2020-01/CDW_modernworkforce_IR_mobile.jpg
         width: 300
         height: 250
+  - title: "How AI-powered content marketing can fuel your business growth"
+    excerpt: "Natural language generation (NLG), a branch of AI, is the recent buzz in the content industry ... namely Narrative Science and Automated Insights to translate data into written narratives and scale their content strategy. Firms with structured data and repetitive production patterns will particularly benefit from NLG. Ecommerce firms , for ..."
+    publishedDateTime: 2020-01-21T15:22:00Z
+    sourceUrl: https://www.smartinsights.com/content-management/content-management-systems/how-ai-powered-content-marketing-can-fuel-your-business-growth/
+    ampUrl: https://www.smartinsights.com/content-management/content-management-systems/how-ai-powered-content-marketing-can-fuel-your-business-growth/amp/
+    cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/content-management/content-management-systems/how-ai-powered-content-marketing-can-fuel-your-business-growth/amp/
+    type: article
+    provider:
+      name: Smart Insights
+      domain: smartinsights.com
+    quality: 59
+    images:
+      - url: https://www.smartinsights.com/wp-content/uploads/2020/01/Biggest-content-marketing-challenges-for-companies-700x245.png
+        width: 700
+        height: 245
 
 secured: "qTnkdDgPCF3B5dOg4V+pM3haCEyu4wr2Ol2oSFrY8Pk28smtKsbxmlXzzyCLz5AnqRfDMz0obwAHc8XdLb8qJcDaScHncdDqHJp7HzgPC9++0nlb7h69LFfUc8vj8DVXXhttPEYiuwr7E5p732uvcnr9xiolwoxtG3vQ3q0AEAwZut6wmaydh/jBvNVECc37s1UtE+u5rflCZd8tiftn9rTFS8jkidg7EZSwm91QZJUmMSM+J7YFoIHxgZbt6+LtZJhQsQxIP2iqodIvcUOCmU/tOT9mouSNXBQlJbtoWVIbgZ4ua/8j+KgF1kcNZsSjbXAyLGz4O0MAHdHQ+QXKl7ZikkAxZxuEhfiu289oamTI8pDQnkgvXkoA/5E9/LTjxq1mlbsUloNQDGtdmul2Vek7wAVSjPMC54Xckgmofsuvqp61A952/FANiySMRRYVrQ9kx1GwY84fkilLLngheA==;c3WWN9OD+jxg/Zu6P/jC/g=="
 ---

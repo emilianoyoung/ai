@@ -30,21 +30,19 @@ images:
     title: "New Apple self-driving car patent could turn Siri into your personal chauffeur"
 
 related:
-  - title: "Air taxis, Hyperloop, self-driving cars: What your commute could look like in 2030"
-    excerpt: "Experts say self-driving features will reach an inflection point over the next several years, though vehicles aren't expected to be able to do all the driving. \"More and more vehicles will have standard equipment with basic automation like lane-keeping assist, automated braking and left-hand turn assistance,\" Rickert said. \"Those things ..."
-    publishedDateTime: 2020-01-21T09:19:00Z
-    sourceUrl: https://www.usatoday.com/story/money/cars/2020/01/21/air-taxis-evs-and-hyperloop-how-transportation-evolve-2030/2794123001/
-    ampUrl: https://amp.usatoday.com/amp/2794123001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2794123001
+  - title: "You Don't Really Need 5G, Your Self-Driving Car Does"
+    excerpt: "Self-driving cars or autonomous vehicles (AVs) are the killer app for 5G wireless internet. Right now, AVs are Clint Eastwood style lone gunslingers, roving the highways in search of a free lane. They see the world through camera lenses and LIDAR (similar to radar, but using lasers instead of radio waves). When they encounter other AVs ..."
+    publishedDateTime: 2020-01-25T12:58:00Z
+    sourceUrl: https://nationalinterest.org/blog/buzz/you-dont-really-need-5g-your-self-driving-car-does-117286
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 53
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 24
     images:
-      - url: https://www.gannett-cdn.com/-mm-/d921f5c0d29ad0098c8523b4d7f37189f087d0da/c=139-0-1860-1294/local/-/media/2018/04/02/USATODAY/USATODAY/636582857256863299-Hyper013.JPG?quality=50&width=640
-        width: 640
-        height: 481
+      - url: https://nationalinterest.org/sites/default/files/main_images/segrs.jpg
+        width: 1304
+        height: 733
 
 secured: "rSFxQudjfI2JQWP8bqXqu6iEVKWm+vDKpEmfsxnwj/Z/xu6fWC222ANHuxwRKH5FkYwpkBX3MHP+b/HvWlRifJuxFknL48idnI0u1wWr3fZBodaDO6g1nvAc2Uef0JmKjnfJ8NG/ilWLJ/LIGhnWRcDWRWTuMvKfuJd7uSL2NP9qDCO/ZICJ7tkky/JQ6MAPC/G7oEKg9o+1b4ESifyfInbPaFKkCIiV6KW8suNzHiJC8ITmoOzy4N3os8JJF8dnVfxQRnsGjEW8Gkfr76SAsYnhTZsi+BAGBso79+etK8vPR8DTz8rerm8JpdtzaaMShW6leUbHSMtJLYUVT8/bnODzDLTfEDuVEs3rFSDEVrsdsN8qcoauQDTewVsBePzmriPWkV8ZCaV5LexpxTrxxvGLFeTyl7feU/nysGZ2oGnfPPwjrkDXEC+MstQTo7gVF6RxWWmu/dXkXFH3b9C2pTOY5asI+FUVq41UhNS/rbM=;h0/eTEfYyWQxtxzN1aRG2g=="
 ---

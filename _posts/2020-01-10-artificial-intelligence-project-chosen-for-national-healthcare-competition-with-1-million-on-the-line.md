@@ -24,47 +24,64 @@ images:
     title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
 
 related:
-  - title: "AI For Good Starts With Collaboration"
-    excerpt: "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed."
-    publishedDateTime: 2020-01-16T10:53:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/
+  - title: "Verbit raises $31 million for human-in-the-loop AI transcription tech"
+    excerpt: "Now, roughly a year later, Verbit hopes to lay the groundwork for growth with an infusion of fresh capital. Verbit today announced the close of a $31 million ... a human-in-the-loop transcription ..."
+    publishedDateTime: 2020-01-15T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/
+    ampUrl: https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 187
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all
+        width: 1200
+        height: 600
+  - title: "Placer.ai raises $12 million to keep tabs on foot traffic in real time"
+    excerpt: "A somewhat newer entrant is Placer.ai, which was cofounded in 2016 by Noam Ben-Zvi, Oded Fossfeld, Ofir Lemel, and Zohar Bar-Yehuda. It might not rival location data giants like FourSquare and ThinkNear, but it managed to nab $12 million this week in a funding round led by BV Capital with participation from Aleph, Reciprocal Ventures ..."
+    publishedDateTime: 2020-01-22T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/
+    ampUrl: https://venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/placer-ai-raises-12-million-to-keep-tabs-on-foot-traffic-in-real-time/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale
-        width: 500
-        height: 279
-  - title: "ITRI uses AI to train collaborative robots"
-    excerpt: "Computational Intelligence Technology Center under government-sponsored Industrial Technology Research Institute (ITRI) has developed an AI-based deep learning solution for use in training ... Besides, tactile sensing is applied to training of robotic arms. Mechavision, a startup business spun off from ITRI in 2017, has cooperated with Japan ..."
-    publishedDateTime: 2020-01-21T08:06:00Z
-    sourceUrl: https://www.digitimes.com/news/a20200121PD212.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: https://www.digitimes.com/newsshow/20200121PD212_files/2_r.jpg
-        width: 336
-        height: 224
-  - title: "Europe considering tough new rules for artificial intelligence"
-    excerpt: "Bloomberg—The European Union is considering new legally binding requirements for developers of artificial intelligence in an effort to ensure modern technology is developed and used in an ethical way. The EU’s executive arm is set to propose the new rules apply to “high-risk sectors,” such as healthcare and transportation, and suggest ..."
-    publishedDateTime: 2020-01-16T20:38:00Z
-    sourceUrl: https://www.healthdatamanagement.com/articles/europe-considering-tough-new-rules-for-artificial-intelligence
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
+      - url: https://venturebeat.com/wp-content/uploads/2019/06/global-e1579243388331.jpg?fit=1200%2C600&strip=all
         width: 1200
-        height: 630
+        height: 600
+  - title: "Being human in the age of Artificial Intelligence"
+    excerpt: "A future where AI will be everywhere and in everything is coming sooner than we think and we need to be prepared like boy scouts advise us to."
+    publishedDateTime: 2020-01-19T10:08:00Z
+    sourceUrl: https://www.deccanherald.com/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
+    ampUrl: https://www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
+    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 57
+    images:
+      - url: https://www.deccanherald.com/sites/dh/files/article_images/2020/01/19/file78uvgzoba0mwflzi1oj-1579426179.jpg
+        width: 1200
+        height: 497
+  - title: "Verbit Raises $31 Million Series B to Add New Languages for Speech Recognition Product"
+    excerpt: "Verbit, a Tel Aviv, Israel-based provider of classroom transcription and captioning services through speech recognition, has raised a $31 million Series B round. Growth equity firm Stripes led the round. Viola Ventures, Vertex Ventures, HV Ventures, Oryzn Capital and ClalTech participated. Founded in 2017, Verbit plans to spend the money toward ..."
+    publishedDateTime: 2020-01-16T01:52:00Z
+    sourceUrl: https://www.edsurge.com/news/2020-01-15-verbit-raises-31-million-series-b-to-add-new-languages-for-speech-recognition-product
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 46
+    images:
+      - url: https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop
+        width: 480
+        height: 480
   - title: "Artificial intelligence project chosen for national healthcare competition - with $1 million on the line"
     excerpt: "A UVA Health proposal to reduce hospital readmissions was among 25 submissions chosen - from more than 300 applications - for a national competition seeking ideas on how artificial intelligence can improve healthcare. The UVA Health data science team will compete alongside proposals from organizations that include IBM and Mayo Clinic in the ..."
     publishedDateTime: 2020-01-11T13:21:00Z

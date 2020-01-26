@@ -46,21 +46,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2020/01/3b33aff6-35d5-414f-bb88-adb09af8b7a6-e1578332008715.png?fit=1200%2C600&strip=all
         width: 1200
         height: 600
-  - title: "Baidu beats Microsoft and Google in natural language processing competition"
-    excerpt: "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ..."
-    publishedDateTime: 2019-12-30T17:30:00Z
-    sourceUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/
-    ampUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
-    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 72
-    images:
-      - url: https://mspoweruser.com/wp-content/uploads/2019/08/microsoft-logo-block.jpg
-        width: 2400
-        height: 1231
   - title: "KKBox’s new Microsoft deal includes plans for AI music"
     excerpt: "So yes, KKBox will be migrating its service to Microsoft’s Azure cloud platform, but the press release for the deal outlined another aspect to the companies’ collaboration. “KKBox will leverage Microsoft AI technology to build an AI-assisted music arrangement system and an AI-assisted lyric generator,” it explained. “In addition ..."
     publishedDateTime: 2020-01-06T20:09:00Z
@@ -133,6 +118,15 @@ related:
       - url: https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tara-main_i.jpg
         width: 800
         height: 600
+  - title: "Baidu beats Microsoft and Google in natural language processing competition"
+    excerpt: "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ..."
+    publishedDateTime: 2019-12-30T17:30:00Z
+    sourceUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 32
   - title: "Artificial Intelligence in Accounting Market to Drive Amazing Growth by 2025 | AWS, Microsoft, Intuit, Xero, Sage"
     excerpt: "Most importantly, the report sheds light on strategies that leading players are banking on to maintain their dominance in the Global Artificial Intelligence in Accounting Market. It shows how the market competition will change in the next few years and how players are preparing themselves to stay ahead of the curve. AWS, Microsoft, Intuit ..."
     publishedDateTime: 2020-01-07T12:51:00Z

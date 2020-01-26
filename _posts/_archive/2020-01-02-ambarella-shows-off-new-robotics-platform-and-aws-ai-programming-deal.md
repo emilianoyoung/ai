@@ -4,12 +4,10 @@ title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 excerpt: "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ..."
 publishedDateTime: 2020-01-02T10:04:00Z
 sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
-ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
-quality: 104
-heat: 134
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all
-    width: 1200
-    height: 646
-    title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 
 related:
   - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
@@ -74,6 +66,6 @@ related:
         width: 1200
         height: 630
 
-secured: "WCffiJ/XQOVx2wBpg1UPUuhhED/VExTdYI26ha0D/l0cPQSiOde/C6gUlo0a4hNkcUwmynjlwJc8ntflin4yULGvu8nKJYYt4z3thAhsmIMm6YHm0OCo/VasyOkrWIXm7ZrOw+B/nEpPQR8iNR1oqMY9Yfe6jELIabxYUzR+l6ovq+Vg6KrxGEhEOaQpQVL6Zoig8BkFIgZ+yI6oM0JN+Y9cqtHSCtDExX8BgtdpcNfqCkyzEL1yMSWWIdjDgx0sHAb1304kw6nZVezmXPpKlZ/sCUHn/lkFjt8mUqAbVH48qm653lEPIUY2UpqlX8pf;QCJbWEFeCvfyKAGMi4yR2g=="
+secured: "Fc7z2LtxwziOkc7f1xlRM8LAJPWwrGdhBSy2fnR6aQS6PV01uAujIS9XEjQ5J9pYSv19Z4l675Q7luGWyQB+gMz2py0xozHLzCRBRTXrNivyBjqYJ6MGdyFa6XihP748hl2guE1cbC1KzGkqvh6hzaltA0tYNZv6x9icqQTQsyKGcgaK58rYrKdsA6vqTl4xjOe2yfwVaN7cLhfKLMDilYWLY62L5HIdomDomQhQg/UAANI2Tf80uJC/PpZqclWgX53ZTrxLzkAtErsbyflw9p+dHrHhDN7sCBaLOFfvkgK2ryGSGW8qDomvf3uWcBcd;qYtq5dmYHJ4XPPuj8nZKzw=="
 ---
 

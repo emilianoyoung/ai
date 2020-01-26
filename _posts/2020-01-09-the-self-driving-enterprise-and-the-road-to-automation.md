@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-drivi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "The Self-Driving Enterprise And The Road To Automation"
 
 related:
+  - title: "Feds largely leave self-driving-car rules to makers"
+    excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
+    publishedDateTime: 2020-01-09T12:34:00Z
+    sourceUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers
+    ampUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
+    cdnAmpUrl: https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200109&Category=BUSINESS&ArtNo=200108779&Ref=AR
+        width: 1600
+        height: 1139
   - title: "Congress Needs to Hit the Accelerator on Self-Driving Regulation"
     excerpt: "America’s self-driving future promises a multitude of benefits. Most importantly, autonomous vehicles are the key to safer roadways by reducing traffic-related injuries and deaths. Human error causes up to 93 percent of traffic accidents. Autonomous vehicles, on the other hand, won’t drive while distracted, tired, texting, or inebriated ..."
     publishedDateTime: 2020-01-13T21:01:00Z

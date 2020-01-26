@@ -5,7 +5,7 @@ excerpt: "/PRNewswire/ -- The global artificial intelligence chip market was val
 publishedDateTime: 2020-01-21T14:05:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-to-2027---global-analysis-and-forecasts-by-segment--type--and-industry-vertical-300990150.html
 type: article
-quality: 33
+quality: 31
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - AI Hardware
 
 images:
@@ -38,16 +37,20 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Self-Driving Truck Market: 2019 Industry Analysis, Size, Trends, Growth and Forecast 2025 | BMW AG, Isuzu Motors Limited, General Motors"
-    excerpt: "Global Self-Driving Truck Market Report covers analysis of Manufacturers, Type, Application, Marketing Strategy, Distributors/Traders, Effect Factors, Trends 2019 & Forecasts 2025 Self-driving truck is also known as autonomous truck and robotic truck. Self-driving trucks feature all the major competencies of traditional trucks. Further ..."
-    publishedDateTime: 2020-01-21T12:39:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37759/self-driving-truck-market-2019-industry-analysis/
+  - title: "The latest market research, trends, and landscape in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from our Intelligence Report."
+    publishedDateTime: 2020-01-23T21:48:00Z
+    sourceUrl: https://www.businessinsider.com/chatbot-market-stats-trends
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: https://i.insider.com/5e29ec4762fa81053f03e106?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
-secured: "zyPFz+EJ5rdiohHJsQzKhFsJqvNKXJ2L9vuq4Bua0PLcO5d9Cf6RnUr/FSZk2ugKM5dF6dtCsyIA5CxPcmj9B4tlJqYQ/3h3BtpgmjmIx2BDkhhvF1WfT5+T4lm1d2e8dCx1HEuWZK42qYvZwVW6O5oyNU1M5KejGiLSzsZg/LR5n33UgIYyTCauBbvZQDWGFNV6UeW0KzdwJOTwPbqJiP/S9IUN8qFAen3bwPf7AhBcel+8FuTEALNJf3kjR7uPgFwiwvH0d1U2Uy1c4RGK+ytp1w28tTHASPKjUV2vaL8zlP4FSail48W9nNN35ldq;/hin9ZkA/ProI+LfjEtgSA=="
+secured: "SZUbigekdjQYFNYTIgFvOoZzN6YTeYr9ql6s3QqK5cLm0bRqQJ++3dyCAmiUOJ9GKyh0qCMVZ8TQx16aaZXxjH6rgK3QyNQ8csiKBwyRl8LR+WPXceNiLEnFFCGkhnNjnWZHHaasAWoRrveQ/p88gaa44a55jFUEUGrHPlz9FziujPTcHKZ6f2Wd4/kKv1QJdb1CEehsvDeLGSi0p0cBCekmyGl4MiZ08G2VWzu1iuhXjsy2LPO0DJL29yjMbKmO4GRCS4RFlPRQDGdDMNa8oMH4FE8UBulXwBWB6KQhEe2W7H7oMhlAg0YSlE5BC8t3;MWgaT5HIDQkgRG54cOBSlw=="
 ---
 

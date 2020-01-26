@@ -119,6 +119,17 @@ related:
       - url: https://analyticsindiamag.com/wp-content/uploads/2020/01/Top-AI-Podcast.jpg
         width: 980
         height: 721
+  - title: "DOCOMO to Partner with AI-powered Enterprise Meeting Note Provider Otter.ai in Japan"
+    excerpt: "NTT DOCOMO, INC. announced today that it has made an investment in Otter.ai, the US-based provider of the highly accurate AI-powered Otter Voice Meeting Notes live transcription application. The investment forms part of a business partnership aiming at supporting Otter."
+    publishedDateTime: 2020-01-22T03:02:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15160495/docomo-to-partner-with-ai-powered-enterprise-meeting-note-provider-otter-ai-in-japan
+    ampUrl: https://amp.benzinga.com/amp/content/15160495
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15160495
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
 
 secured: "R3iQedgw+dYN73Punz9e6wFQ3OZnJOU9HGyjq3iXpVtNOY1teIBz4/2hbfchzbJ9GuLB5/9/Y9v7t23drCukSQYMQOf4QMoubOEAvdOtyYWn/z5OOefgYU8Gn5iWq4Zh8cvId+mko2kD6KwzhdLN3iBmM4QPgtHmdkQe169yIQOeo1FliqCU8zQzBTg0xNQqYEHpZ1D6ay+h9a6AahJXl0zjezJpWxV8Dynur6UB024Fto4YqhjjhzLA1+l/Hzd1Apqr0xEJIqVrraUkv+u1+aEgPAPhT4vKUI/Qi49Q6XcJfpUkzP6mRGYPY73dkR3NEVtLhursQjkP6E1Er7dcf3lUNcJrKc3h9iExdwWd4fPHhVJzB1OVl+cHbViGMRNECDgm1ZyoWOetVHsjlZX7BEnvCXkNWRPajmGn4/EoWW6KVEorsosQRDqB6XqtcgTnQDE7NVxAvawvaJI5rJ0yk33VH5BQan3AqduNxbkUTvg=;8kr2XcA0wYY3ivyptMTw8A=="
 ---

@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
-excerpt: "Bundesliga will use AWS artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalized match footage across mobile, online, streaming, and television broadcasts. Using AWS technology, Germany’s premier ..."
-publishedDateTime: 2020-01-13T12:24:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200113005382/en/Bundesliga-All-In-AWS-Revolutionize-Football-Viewing-Experience
+excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Germany's Bundesliga has selected AWS as its official technology"
+publishedDateTime: 2020-01-13T11:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/bundesliga-goes-all-in-on-aws-to-revolutionize-football-viewing-experience-2020-01-13
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://mms.businesswire.com/media/20200113005382/en/766965/23/AWS_logo_RGB.jpg
-    width: 1200
-    height: 627
-    title: "Bundesliga Goes All-In on AWS to Revolutionize Football Viewing Experience"
 
 related:
   - title: "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence"
@@ -116,6 +114,6 @@ related:
       domain: telecompaper.com
     quality: 14
 
-secured: "WUdiPkGpxBf9/Ne3okhP7gm/I5KhOv+1zZZtqPMJvOmJs+owVWwf19p5IYs1oiyXVX8aukALPgLEd9jQh3z5uExOU4LV8QU1XzFRxEKPrpFWLmFHpcZEDRUGe4rSPEEghsNtMF6TUhN7oG83fMJYkTZA7O8HHvr0u5RqAmK4LcT5YDait+eEIIbEFktu3pev1ur7oQD7kcgo7JbC/WNS7BmYXPfcmejVj4xMsQdukee/4KddcwvvV+udm2w3Mg0PiHi9QyAGPOxRu16xgkyPWBGopEDJ9ks5WcG2dbl98lI6rm0O3fkzdraQTDKnP2Uz;B3W8zsddZEB48A/SZPhDQQ=="
+secured: "A56IRbcvn3Ozsv7KPME1C/eor4UGlaQ85/MbfgiKI7iUiubq4QEyN+83BUyq5hNMy8xIDM5+u3sGxSe8WvT4NYi4GOyKj0wuRw5FSLzz0oxbsmQpGOUU8R+i7slH7c/8lPT7BYEQJYHNVh7jSKSl/CX30voKrpId8uIwlXvTbOBP7WACmrOuLWAh3veBREgb9xVfQp/+c+GqE0JUiVawAJdMdN5E1J2gK2QtxI3/fIoRImUl5WCKF9Km7JuKr7jLp07zVv08xw60xsg8wpcu/m5NqZEglLKPP7A6o7PjJh1zLZOKY819LA+lm8irKcH0;GhM0gdoMUcaE2ldQv3uSYg=="
 ---
 

@@ -142,19 +142,6 @@ related:
       - url: https://www.newshub.co.nz/home/world/2019/08/facebook-faces-class-action-suit-over-facial-recognition-tech/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1565288219416/GettyImages-1159763174-facial-recognition-mobile-phone-1120.jpg
         width: 768
         height: 438
-  - title: "Researchers developing facial recognition wearable for emergency service workers"
-    excerpt: "Researchers in the Department of Electrical and Computer Engineering at the University of New Mexico led by Professor Manel Martínez-Ramón are working on facial recognition-equipped wearable devices to help firefighters and emergency service workers with navigation, communication, and threat assessment, the university announced. The projects ..."
-    publishedDateTime: 2020-01-16T21:22:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/researchers-developing-facial-recognition-wearable-for-emergency-service-workers
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: https://www.biometricupdate.com/wp-content/themes/bu/img/300x250-popup.jpg
-        width: 300
-        height: 250
   - title: "Worried About the Security of Facial Recognition? Try Facial Detection: Episode 88 of AV+"
     excerpt: "You don’t need to be wearing an aluminum foil hat to think that there could be security risks with facial recognition technology… but you might be able to get around those risks with facial detection. Learn more about the latter in this episode of AV+. The phrase ‘pro AV’ doesn’t do justice to all of the integration crowd ..."
     publishedDateTime: 2020-01-17T22:05:00Z
@@ -168,15 +155,6 @@ related:
       - url: https://www.commercialintegrator.com/wp-content/uploads/2018/03/Untitled.jpg
         width: 1202
         height: 656
-  - title: "EU considering 5-year facial recognition ban - report"
-    excerpt: "The EU may impose a temporary ban on facial recognition technologies used by both public and private actors, according to a draft European Commission white paper on Artificial Intelligence obtained by Euractiv. The document states that a future regulatory framework could “include a time-limited ban on the use of facial recognition technology ..."
-    publishedDateTime: 2020-01-20T10:43:00Z
-    sourceUrl: https://www.telecompaper.com/news/eu-considering-5-year-facial-recognition-ban-report--1323310
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "Bp9S2qcwVilvC0HFhVTYgj9tHQu91JTgBlnEKyF3u+aumLvExS/hqS/BPYDCg6WwsAgc/x3khx942dZi6F+FthmVSITFWWWKaqiA2p6pNnCFHkGYPeBEKGkp/cDDVM/3qxaY+wYKAfJGTI1Lx2yVt5cz0Cdpg5RuJEdrMdWlT4hjIfxZwEzXnkq6VCN4VFinI4a1+KucrEZQc4qE2MoTk7RPpgmxk05s3wIBWeYdOumaGwZmSH+ESGKPILJESeisqD4OQpK8X0CnXMP3Vxo0xfrbV1NAUHI9CxaeH65dfZQCWvihLBTUXjmAv5fmWMnGYFCohYQ9G6WxNmKh9H2gNwhllp6w9vB2AptSa/qvsAYlfozsFM+iNplgogAE0zzqdaaEq5pEYlu3yCPYNLBDUpkEsvdGSg3Z4d9XwH/AAjrn/LwWH8O6sFXa6gn6dH1xQqpa5v8qbTBy0cZBMpur7w==;E6JJDEHHyn7eYyZNsOhMfg=="
 ---

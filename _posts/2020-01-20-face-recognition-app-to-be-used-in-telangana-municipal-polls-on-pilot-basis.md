@@ -8,8 +8,8 @@ ampUrl: https://yourstory.com/2020/01/face-recognition-app-telangana-municipal-p
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/face-recognition-app-telangana-municipal-polls/amp
 type: article
 quality: 57
-heat: 67
-published: true
+heat: 57
+published: false
 
 provider:
   name: Your Story
@@ -24,21 +24,6 @@ images:
     width: 800
     height: 400
     title: "Face recognition app to be used in Telangana Municipal polls on pilot basis"
-
-related:
-  - title: "Telangana to test facial recognition in polls as privacy fears mount"
-    excerpt: "Facial recognition software will be used to verify voters in 10 polling stations in the Medchai Malkajgiri district to 'reduce impersonation cases,' the Telangana state election commission said in an online notification late last week The southern Indian state of Telangana will use facial recognition software in local elections on Wednesday ..."
-    publishedDateTime: 2020-01-22T09:33:00Z
-    sourceUrl: https://www.dhakatribune.com/world/south-asia/2020/01/22/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 39
-    images:
-      - url: https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/01/telangana-to-test-facial-recognition-in-polls-as-privacy-fears-mount-1579684680055.jpg
-        width: 443
-        height: 249
 
 secured: "NsxVSIGn9hR6DzG9g+4lZLPvz9h19Z7xsu8t3A5g0lgARjmGAQjHkinczzKHJdEqcO45vzt8Qq+RCZR7QW0yZryanoGorn7kxQ+HklKDhhtiEROlfohNZh5Iz979IjounztP5ko4RLmfREZ/5VDShD7CwndvN2DmI6uUyvak6cvS1u1Zxvu0PUrov2r+S3jCtirXudTEr//Rrhb9roBFToPwha+7tIvXUSVEApxvPemSKjrRFvr+44yY/YybmDHrInNu5qvMJobmfcRr8dggu7zCRCb5oIMV3871V/cJ+tn1SjYZpwtC68Y6UQYg9Q8S+JqQyyUiYnONgxGVgJH0A+xvRUWjRAen00q8FuC6v6JlhJOR+eFH08dQuC4rre7Ip/Y/jg370CROaHiPq6xUsWS0IS+C+E/YAiIp1LUrCu6pkDPH6HRvFhyrGMQhVnRvB6bH7gDyIWHJ9b4bqibb1g==;Q1mFdU0hmRQh7akzqQ5obA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
       - url: https://www.cnybj.com/media/16828/revitalize_download-square.jpg
         width: 625
         height: 521
+  - title: "Visit Health: This AI-driven platform helps patients consult doctors"
+    excerpt: "So, to tap into this market, we brought a new concept by providing insurance for OPD,” explains Prasad. Visit Health: This AI-driven platform helps patients consult doctors Fintech Trends: Mobile-first approach and data science are giving a fillip to fintech Flashback: Jeff Bezos reveals first question investors asked him before funding his ..."
+    publishedDateTime: 2020-01-19T19:45:00Z
+    sourceUrl: https://www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/
+    ampUrl: https://www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/visit-health-this-ai-driven-platform-helps-patients-consult-doctors/1828354/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
   - title: "Health care needs AI. It also needs the human touch"
     excerpt: "We see the writing on the wall, yet it’s hard for us in our day-to-day clinical work to imagine a time when artificial intelligence will have a real impact on what we do. Your weekly guide to how tech is transforming health care and life sciences. Please enter a valid email address. Leave this field empty if you're human: It might be that ..."
     publishedDateTime: 2020-01-22T12:17:00Z

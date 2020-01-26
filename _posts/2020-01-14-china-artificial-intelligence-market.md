@@ -47,6 +47,19 @@ related:
       - url: https://i1.wp.com/semiengineering.com/wp-content/uploads/2020/01/raik-brinkmann.jpg-1.png?fit=320%2C206&#038;ssl=1
         width: 320
         height: 206
+  - title: "Every business can use - and afford - artificial intelligence"
+    excerpt: "Gartner's hype cycle for artificial intelligence (AI ... only available through expensive and nuanced breakthroughs such as self-driving vehicles. It's a perception that professionals encounter, and counter, every day. \"A lot of businesses think AI ..."
+    publishedDateTime: 2020-01-15T19:30:00Z
+    sourceUrl: https://www.itweb.co.za/content/4r1ly7RoeXeMpmda
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: https://www.itweb.co.za/static/pictures/2019/05/-fs-Machine-learning-2019.jpg
+        width: 816
+        height: 459
   - title: "Artificial Intelligence and Machine Learning for Natural Sciences"
     excerpt: "We are in particular interested in graph convolutional neural networks or generative methods such as GANs ... The candidate will be paid according to TV-L E13 (100%). The position is funded by the Artificial Intelligence program of Baden Württemberg („Künstliche Intelligenz Baden-Württemberg“ (KI-BW).)"
     publishedDateTime: 2020-01-17T21:18:00Z
@@ -56,17 +69,6 @@ related:
       name: FindAPhD
       domain: findaphd.com
     quality: 34
-  - title: "Blockchain, AI and Analytic Reasoning are the most in-demand hard skills for 2020"
-    excerpt: "Computer skills including Blockchain and AI top the list of the most in-demand skills in Australian companies for 2020. LinkedIn has revealed the top 10 most in-demand hard skills by Australian companies in 2020 as well as the five in-demand soft skills. There are over 50,000 professional skills in the world, according to LinkedIn, and the ..."
-    publishedDateTime: 2020-01-20T09:12:00Z
-    sourceUrl: https://www.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
-    ampUrl: https://amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
-    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/finance/work/careers/blockchain-ai-and-analytic-reasoning-are-the-most-indemand-hard-skills-for-2020/news-story/c976357fe4b3addccc47fd1a81b0383c
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 32
 
 secured: "lBPLquIzBX5wZsKr2+a2lKWf5HlzLOJRQdSCC/6+jrufYW8X/GqkXBkZjNJYaOFlGIkOubKOm1+dAVKEc0u+VjXb9O0DV3SWjrltkGMSBiB5KB4VEpesv9wUN2OfXNjlDb11iaXm7zG06WtN1M+UHGObR6J54axrjuecHdo76zLUweX3WFS7am6ed8b9TgEUEJCeU4J2DcEV/rbyhIY2Wl99LPb9a5nay4VJRsSyZuUqHToLTib+msomgDsNBzPnFhhgeIY9N30mYgIpEqkTi0JJRuyi5xeRy3ip+Zp81qM=;djdd7keowyUUBzMYlbJnEQ=="
 ---

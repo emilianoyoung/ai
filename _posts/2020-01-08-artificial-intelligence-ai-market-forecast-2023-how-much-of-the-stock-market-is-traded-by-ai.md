@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-08T07:54:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://mms.businesswire.com/media/20200113005533/en/766971/4/Global_Artificial_Intelligence_%28AI%29_Market_in_BFSI_Sector_2019-2023_.jpg
         width: 480
         height: 270
-  - title: "Global Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | 31% CAGR Projection Through 2023 | Technavio"
-    excerpt: "report=IRTNTR32119 As per Technavio, the increasing human-robot collaboration will have a positive impact on the market and contribute to its growth significantly over the forecast period. This research report also analyzes other important trends and market drivers that will affect market growth over 2019-2023. Global Artificial Intelligence ..."
-    publishedDateTime: 2020-01-14T06:30:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200113005995/en/Global-Artificial-Intelligence-AI-Market-Manufacturing-Industry
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: https://mms.businesswire.com/media/20200113005995/en/767292/23/Global_Artificial_Intelligence_%28AI%29_Market_in_Manufacturing_Industry_2019-2023.jpg
-        width: 1200
-        height: 627
 
 secured: "qlamf1a+0XgyuvOs9TShs+R+Sudac/I37f3CJpL/TyrqYG2xCq5pFXME5tZ0A/TgnNWMEJsJV80aQE0BCFcbbuwFcrmnyZpcvEGlPr9tUUtE8Nqd/e9xWe13Po6iUOZDN74AnGT4sKetg6BLjk4BBxeOadtRpjseqmAYS4WWg8cSi6Sp4hLJPSqG4I1fX+VSklWhzIrqo8ZRPMdzJWCcY0nwj9+XmvF/LgReHLz41p85HxEmGl/krXOeXAkicRgiJ9cE9cSSy4uRnuEvTv2uKKdeN+p2y6SMwWv2dUeCVvY=;yPOwlNVQd4w7IlgjMtfcEg=="
 ---
