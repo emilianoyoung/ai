@@ -54,15 +54,6 @@ related:
       - url: https://images.yourstory.com/cs/2/211ccaf0-0e6d-11e9-97fe-8f165dce9bb1/yourstory-EasyPilot15597911680441563520988677.png?fm=png&auto=format
         width: 800
         height: 400
-  - title: "ZephyrTel expands collaboration with AWS"
-    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
-    publishedDateTime: 2020-01-06T08:31:00Z
-    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
     publishedDateTime: 2020-01-03T14:43:00Z

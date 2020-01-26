@@ -60,19 +60,6 @@ related:
       - url: https://www.brookings.edu/wp-content/uploads/2020/01/global_tanzania_drone.jpg
         width: 6720
         height: 4480
-  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
-    excerpt: "Research at the Dell EMC and Intel HPC and AI Innovation Lab is demonstrating how organizations can build better ... using parallel processing such as those used for image classification and language translation. Basically, the Lab wanted to create a neural net that can process more than one experience at a time, so it could do the task ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 36
-    images:
-      - url: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_487365628.jpg
-        width: 1000
-        height: 700
 
 secured: "cnFQvYd+KMd2+IIUBTCV2nBB285l4Z9j0gKfJTf2DF456FzZe/23/z9jPjPDIhE7U6C4/tLmF4YxZJvON6rx/MLO2SkvDAKYP0JMOjjcNklYkkgF7QOwyQCYKhBsryFqlqjAwuUmWVngNdq6v+5w5qhO+hSXTrigklKluhrUvV1DH3m2YN9kOHrOplBmRh8Ah7CdbwwmrCsz2ICxWPxnpTAZPj0qvyIDRP3ttH0nacdUUQ2a1gH/hPAyh6F7P5LbRMELudaYn8/CTtS/aADqVrJg13EQnkkzD67bKSrxsCxT7veu/SBYbaggrgQEr2KCewP1iLmomZsPlAm4gn0SRTvRds+Wo0x3rII2MuO8YJnsbnfli0+3zTAmUi+M1+ub7Vaw5nWsQNqAnJB7iWrfUzSeUFB1DKLUYzDeiNjZiz1AJla8Mz+nyo0Kkp6wZTYCrSmTsrEfupEwawJjB1b45w==;YB/uJpG7GBSFSlqQybTv2Q=="
 ---

@@ -31,6 +31,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
+    excerpt: "New York, January 08, 2020: The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services."
+    publishedDateTime: 2020-01-08T04:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-forecast-research-and-development-report-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "eSsKae/RZvrVY5FdyAgTsqxRrKfTcThsgBEAq691183m9xsXrqS9EWt22V1j8oyh0Ijj9nemRNur9JuSSbrD5s/8DR0bpn/GIsu/l8qsPh1GZUGde1/dh/pnyzZ0O1eimXCg4Lnp/H21mUC5RIlppXChd8yUbkSakWrvlpM+lxh6NtIWHzr0IQ7puUXgs7aMkBvDU+crADxLHCVPcMymYzSiMZRKlnWZoEJD9Cd18pXnlcZYdjk+M0gE0tlLE93XpV9VdLTjJwsT9/kaNjq5MKl5PYCuwl/osqS+6ASEFB0=;SKRRt3iUBUuTS2+StrUjXg=="
 ---

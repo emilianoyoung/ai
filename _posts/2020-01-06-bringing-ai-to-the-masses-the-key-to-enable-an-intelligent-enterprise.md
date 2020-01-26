@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-ma
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,19 +60,6 @@ related:
       - url: https://www.brookings.edu/wp-content/uploads/2020/01/global_tanzania_drone.jpg
         width: 6720
         height: 4480
-  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
-    excerpt: "Research at the Dell EMC and Intel HPC and AI Innovation Lab is demonstrating how organizations can build better ... using parallel processing such as those used for image classification and language translation. Basically, the Lab wanted to create a neural net that can process more than one experience at a time, so it could do the task ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 36
-    images:
-      - url: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_487365628.jpg
-        width: 1000
-        height: 700
 
 secured: "DJAJ+7NAGyL/0v6jqEuyY0ndIr/zGbL3OqPSrrusQJM35XefL85v8H/9ab0xPMVMiGZ+tbT01kJjlF9CrBxXnI14CP09eoPz8WhURQ2enQhzaaYshG1cLuhenTiCcPKmq/n1H33H928p9O5TkhHX+pI+AfAK8L4iVvgRqQPGHqv0wnycDaN9IDFXAwhaYyR4dUA9dBGY4fzeUtKousxY5KEfJAHRmKhQKfIWBJRq1Tg8vRTwaaYHaTe/J5ZsFfD6tW4sDLy7xzYEPuyke9eTnvI0daoSGCG/ZhjmFbJsudU=;EvcUy7kcI1U1IHx61kPSFw=="
 ---

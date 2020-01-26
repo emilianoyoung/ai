@@ -61,15 +61,6 @@ related:
       - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
         width: 599
         height: 450
-  - title: "ZephyrTel expands collaboration with AWS"
-    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
-    publishedDateTime: 2020-01-06T08:31:00Z
-    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria ..."
     publishedDateTime: 2020-01-03T14:43:00Z

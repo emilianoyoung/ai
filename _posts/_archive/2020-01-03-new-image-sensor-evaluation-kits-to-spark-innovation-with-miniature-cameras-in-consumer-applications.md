@@ -67,15 +67,6 @@ related:
       - url: https://www.cxotoday.com/wp-content/uploads/2020/01/drones-pic.jpg
         width: 599
         height: 450
-  - title: "ZephyrTel expands collaboration with AWS"
-    excerpt: "ZephyrTel has extended its strategic collaboration agreement with Amazon Web Services to accelerate the migration of its telecom software suite and develop new innovations using artificial intelligence ... product to migrate to AWS. The portfolio is ..."
-    publishedDateTime: 2020-01-06T08:31:00Z
-    sourceUrl: https://www.telecompaper.com/news/zephyrtel-expands-collaboration-with-aws--1321691
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "zGlue Launches ChipBuilder Pro to Quickly and Easily Enable the Next Generation of Consumer Experiences on IoT and AI-Powered Devices"
     excerpt: "Because ChipBuilder uses Microsoft Azure cloud, products developed with ChipBuilder benefit from industry-leading ... zGlue will showcase its ChipBuilder Pro Package at CES 2020 in Las Vegas, NV: zGlue, an as-a-service company for designing and manufacturing AI and IoT-powered chips on-demand, speeds the time to market for wearable, medical ..."
     publishedDateTime: 2020-01-06T13:46:00Z
@@ -86,6 +77,6 @@ related:
       domain: design-reuse.com
     quality: 0
 
-secured: "b+skFRY6dBC5FAU3mHnYrYxD1WgTiYXNXTGaFdFDI73cmWNeTn0WxhI0WKbOX7OlpdWzAMC9CofcRMFIcUQz1/tCU8T9cDbk/Z+be2UcNdf34/LYk0hKAE9mdxXA89BUVG5qU8ppss/8f6ZbDvsnQbAv1MYSLWTu77O1saO014OozjzCrgGINjkou8ApduA1+UhGLPwMFwrInwWoCSvtpOlbAeUTKFefyqopI6lMmx+WrjDqOBeglNWgsAgQfNbNX41slwa47Nj/Fersrm3pTWbfZAQf2To2VHN13ojvftosdNly2aYxmAJMxILcDPgs;ykCTOCglOem2OhL4rCev/Q=="
+secured: "BQhojMayGITNU0/Nh+KLQMpTDYucduKJ2XqTKVjBbdldzh2iuBJ2Dr8PhuFwZR19ZB8GNT9tEqxE87PGdkQyTllxWjZP+7PH2HZ+GDOV0PC2lhMStG/82sBsI8xHUnQxyQQQWT46cp+90+dg/QwmnOx9fLRz9DcreDMBwo1s4gSPt98HvnMzppkWM16zs196f+falc5+muOlYpKma2xh5StyQJm5+GAm7Nv4DA1j/aja1WuHBRgkfQSSkh1NGBXQjYTmaGLEjqX+FAokPNKSy/TZyOzNXMBEjjFCGP8i8ykUnroKESD4zJoTu3dNQlqU;yBTv7PrAatpn1pBiCbCbCw=="
 ---
 

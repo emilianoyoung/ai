@@ -1,7 +1,7 @@
 ---
 category: news
 title: "2010 – 2019: The rise of deep learning"
-excerpt: "In the next decade, all technology will be considered “AI technology.” And we can thank deep learning for that. Deep learning is a friendly facet of machine learning that lets AI sort through data and information in a manner that emulates the human ..."
+excerpt: "In the next decade, all technology will be considered “AI technology.” And we can thank deep learning for that. Deep learning is a friendly facet of machine learning that lets AI sort through ..."
 publishedDateTime: 2020-01-02T16:04:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/02/2010-2019-the-rise-of-deep-learning/
 type: article
@@ -27,6 +27,6 @@ images:
     height: 417
     title: "2010 – 2019: The rise of deep learning"
 
-secured: "Gt9QCijvz2YCds0n95MSb6P4ozXeJmfAhcsioCBAC+YjWshovmjPZxM/YNlVutBPE0rNEx8JD8PldOI6J+XHIOwfLUBaKXN5/gqv7THeoJt3oD4LSU9R5cYubqeEBcg3cTa+eZ2YcGFBBBvqsC9mCKUlBjaSU8rmteKus0kevOvbYdrzvasT7tG7WhBoTjXrICQPo6rTVMHGrJWbSKwKlueYqQ5wMAZdJaZSWDg6VFUojp1u5JWaz+/g0/+YifwFno27VMU2FdZ/OPsgayih38aU3eDFUgEw9c9APxuIprc=;TqfJPpbWxU644QU62FljIg=="
+secured: "eEIoxBexGscn3k1pqsZcSoPNrfxdg+HpNaKiVwaIOFWY6qDUsusbY8MLq3PRCGn6M04E/C5ac9izjb18tT3gAW6zByz+HyDXJ/f7k9KPZtOj//jU3PqlwX/zqiiRoYWQT7BcJkbDHN+dd6mNiHbOaOQUzKvRntY+PIymDTYdH7RssevmjJCdaOwiPrLK3bdiIX76q7As/dMrNxhXUFzWvkKq5qT2w6Ai6Hty/FOfV7qtQ4ddxpAcR9HOnKT+BGInX7nLR83zTwE9FzP87LLU0G+SDkKWVcPnY5nL0QIaDvOkNzJM2TDwaKiUuOyHmwwF;U8wZGVTnYQiSE/kGBG0QuQ=="
 ---
 
